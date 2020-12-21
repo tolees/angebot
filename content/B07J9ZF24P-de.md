@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'MEDION S6445 39 5 cm  15 6 Zoll Full HD  al 22.25 % de rebaja'
+date: 2020-03-04 19:42:39
+image: 'https://m.media-amazon.com/images/I/41drGDuvHwL._AC_._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07J9ZF24P-de'
+actualPrice: 699.0 EUR
+currency: EUR
+price: 699.0
+comparePrice: 899.0 EUR
+prodname: 'MEDION S6445 39 5 cm  15 6 Zoll Full HD  Notebook  Intel Core i5-8265U  8GB DDR4 RAM  1TB PCIe SSD  Akku Schnellladefunktion  Win 10 Home '
+country: 'de'
+flag: '🇩🇪'
+buyurl: 'https://www.amazon.de/dp/B07J9ZF24P/?tag=tolees0ca-21'
+descuento: '22.25'
+average: '699.0'
+---
+
+Tienes [MEDION S6445 39 5 cm  15 6 Zoll Full HD  Notebook  Intel Core i5-8265U  8GB DDR4 RAM  1TB PCIe SSD  Akku Schnellladefunktion  Win 10 Home ](https://www.amazon.de/dp/B07J9ZF24P/?tag=tolees0ca-21) con precio final de  699.0 EUR (original: 899.0 EUR) (22.25 %  de rebaja) aqui!
+
+[![MEDION S6445 39 5 cm  15 6 Zoll Full HD ](https://m.media-amazon.com/images/I/41drGDuvHwL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07J9ZF24P/?tag=tolees0ca-21)
+
+🔎:
+
+
+[Comprar!!!](https://www.amazon.de/dp/B07J9ZF24P/?tag=tolees0ca-21)

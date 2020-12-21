@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 35.96 % en Hama Fotoalbum  28 x 24 cm  50 schwarze '
+date: 2020-03-08 04:40:31
+image: 'https://m.media-amazon.com/images/I/41zeIH9X4lL._AC_._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B000VRANHW-de'
+actualPrice: 7.23 EUR
+currency: EUR
+price: 7.23
+comparePrice: 11.29 EUR
+prodname: 'Hama Fotoalbum  28 x 24 cm  50 schwarze Seiten  25 Blatt  mit Ausschnitt für Bildeinschub  Fotobuch schwarz'
+country: 'de'
+flag: '🇩🇪'
+buyurl: 'https://www.amazon.de/dp/B000VRANHW/?tag=tolees0ca-21'
+descuento: '35.96'
+average: '7.23'
+---
+
+Tienes [Hama Fotoalbum  28 x 24 cm  50 schwarze Seiten  25 Blatt  mit Ausschnitt für Bildeinschub  Fotobuch schwarz](https://www.amazon.de/dp/B000VRANHW/?tag=tolees0ca-21) con un 35.96 % de descuento con precio de oferta de 7.23 EUR (original: 11.29 EUR) en el siguiente enlace!
+
+[![Hama Fotoalbum  28 x 24 cm  50 schwarze ](https://m.media-amazon.com/images/I/41zeIH9X4lL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B000VRANHW/?tag=tolees0ca-21)
+
+ℹ️:
+
+
+[Accede a la oferta!!](https://www.amazon.de/dp/B000VRANHW/?tag=tolees0ca-21)

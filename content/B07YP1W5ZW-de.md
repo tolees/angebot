@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 53.33 % en Barilla Pasta Spaghettini n. 3  500g'
+date: 2020-09-24 19:49:10
+image: 'https://m.media-amazon.com/images/I/41sxgc5Ms8L._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07YP1W5ZW-de'
+actualPrice: 0.77 EUR
+currency: EUR
+price: 0.77
+comparePrice: 1.65 EUR
+prodname: 'Barilla Pasta Spaghettini n. 3  500g'
+country: 'de'
+flag: '🇩🇪'
+buyurl: 'https://www.amazon.de/dp/B07YP1W5ZW/?tag=tolees0ca-21'
+descuento: '53.33'
+average: '0.77'
+---
+
+Tienes [Barilla Pasta Spaghettini n. 3  500g](https://www.amazon.de/dp/B07YP1W5ZW/?tag=tolees0ca-21) con un 53.33 % de descuento con precio de oferta de 0.77 EUR (original: 1.65 EUR) en el siguiente enlace!
+
+[![Barilla Pasta Spaghettini n. 3  500g](https://m.media-amazon.com/images/I/41sxgc5Ms8L._SL200_.jpg)](https://www.amazon.de/dp/B07YP1W5ZW/?tag=tolees0ca-21)
+
+ℹ️:
+
+
+[Accede a la oferta!!](https://www.amazon.de/dp/B07YP1W5ZW/?tag=tolees0ca-21)

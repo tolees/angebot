@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'ASTRO A40 TR Gaming-Headsest + MixAmp Pr al 26.54 % de descuento'
+date: 2020-02-09 21:17:56
+image: 'https://m.media-amazon.com/images/I/41xOimV9WDL._AC_._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07PRYFGXG-de'
+actualPrice: 204.95 EUR
+currency: EUR
+price: 204.95
+comparePrice: 279.0 EUR
+prodname: 'ASTRO A40 TR Gaming-Headsest + MixAmp Pro TR  Generation 4  7.1 Dolby Surround Sound  ASTRO Audio V2  3.5mm Klinke  austauschbares Mikrofon  Lautsprecher-Tags  PC/Mac/Xbox One - Schwarz/Rot'
+country: 'de'
+flag: '🇩🇪'
+buyurl: 'https://www.amazon.de/dp/B07PRYFGXG/?tag=tolees0ca-21'
+descuento: '26.54'
+average: '204.95'
+---
+
+Ahora mismo tienes [ASTRO A40 TR Gaming-Headsest + MixAmp Pro TR  Generation 4  7.1 Dolby Surround Sound  ASTRO Audio V2  3.5mm Klinke  austauschbares Mikrofon  Lautsprecher-Tags  PC/Mac/Xbox One - Schwarz/Rot](https://www.amazon.de/dp/B07PRYFGXG/?tag=tolees0ca-21) a 204.95 EUR (original: 279.0 EUR) (26.54 %  de descuento) en el siguiente enlace!
+
+[![ASTRO A40 TR Gaming-Headsest + MixAmp Pr](https://m.media-amazon.com/images/I/41xOimV9WDL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07PRYFGXG/?tag=tolees0ca-21)
+
+🔎:
+
+
+[Visítala!!!](https://www.amazon.de/dp/B07PRYFGXG/?tag=tolees0ca-21)

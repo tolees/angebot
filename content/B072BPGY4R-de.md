@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Samsung Galaxy Book W620 26 92 cm  10 6  al 47.46 % de rebaja'
+date: 2020-04-04 14:45:40
+image: 'https://m.media-amazon.com/images/I/412zKVDl2ML._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B072BPGY4R-de'
+actualPrice: 383.0 EUR
+currency: EUR
+price: 383.0
+comparePrice: 729.0 EUR
+prodname: 'Samsung Galaxy Book W620 26 92 cm  10 6 Zoll  Convertible Tablet PC  Intel Core m3 7Y30  4GB RAM  64GB Speicher  Windows 10 Home  silber'
+country: 'de'
+flag: '🇩🇪'
+buyurl: 'https://www.amazon.de/dp/B072BPGY4R/?tag=tolees0ca-21'
+descuento: '47.46'
+average: '322.5'
+---
+
+Tienes [Samsung Galaxy Book W620 26 92 cm  10 6 Zoll  Convertible Tablet PC  Intel Core m3 7Y30  4GB RAM  64GB Speicher  Windows 10 Home  silber](https://www.amazon.de/dp/B072BPGY4R/?tag=tolees0ca-21) con precio final de  383.0 EUR (original: 729.0 EUR) (47.46 %  de rebaja) aqui!
+
+[![Samsung Galaxy Book W620 26 92 cm  10 6 ](https://m.media-amazon.com/images/I/412zKVDl2ML._SL200_.jpg)](https://www.amazon.de/dp/B072BPGY4R/?tag=tolees0ca-21)
+
+🔎:
+
+
+[Comprar!!!](https://www.amazon.de/dp/B072BPGY4R/?tag=tolees0ca-21)

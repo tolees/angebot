@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 29.54 % en LECHUZA CUBICO Premium 40  Taupe Hochgla'
+date: 2020-08-29 21:12:35
+image: 'https://m.media-amazon.com/images/I/31ERLg5bFqL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B00JXRFJIO-de'
+actualPrice: 105.68 EUR
+currency: EUR
+price: 105.68
+comparePrice: 149.99 EUR
+prodname: 'LECHUZA CUBICO Premium 40  Taupe Hochglanz  Hochwertiger Kunststoff  Inkl. Bewässerungssystem  Herausnehmbarer Pflanzeinsatz  Für Innenraumbegrünung  18215'
+country: 'de'
+flag: '🇩🇪'
+buyurl: 'https://www.amazon.de/dp/B00JXRFJIO/?tag=tolees0ca-21'
+descuento: '29.54'
+average: '105.68'
+---
+
+Tienes [LECHUZA CUBICO Premium 40  Taupe Hochglanz  Hochwertiger Kunststoff  Inkl. Bewässerungssystem  Herausnehmbarer Pflanzeinsatz  Für Innenraumbegrünung  18215](https://www.amazon.de/dp/B00JXRFJIO/?tag=tolees0ca-21) con un 29.54 % de descuento con precio de oferta de 105.68 EUR (original: 149.99 EUR) en el siguiente enlace!
+
+[![LECHUZA CUBICO Premium 40  Taupe Hochgla](https://m.media-amazon.com/images/I/31ERLg5bFqL._SL200_.jpg)](https://www.amazon.de/dp/B00JXRFJIO/?tag=tolees0ca-21)
+
+ℹ️:
+
+
+[Accede a la oferta!!](https://www.amazon.de/dp/B00JXRFJIO/?tag=tolees0ca-21)

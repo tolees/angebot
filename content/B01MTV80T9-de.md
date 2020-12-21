@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Neff TBD1676N / T16BD76N0 / Autarkes Koc al 57.97 % de rebaja'
+date: 2020-04-16 13:04:44
+image: 'https://m.media-amazon.com/images/I/41U4cU4cC4L._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B01MTV80T9-de'
+actualPrice: 284.98 EUR
+currency: EUR
+price: 284.98
+comparePrice: 678.0 EUR
+prodname: 'Neff TBD1676N / T16BD76N0 / Autarkes Kochfeld / Konventionell / 60cm / Touch Control / Zweikreis'
+country: 'de'
+flag: '🇩🇪'
+buyurl: 'https://www.amazon.de/dp/B01MTV80T9/?tag=tolees0ca-21'
+descuento: '57.97'
+average: '284.98'
+---
+
+Tienes [Neff TBD1676N / T16BD76N0 / Autarkes Kochfeld / Konventionell / 60cm / Touch Control / Zweikreis](https://www.amazon.de/dp/B01MTV80T9/?tag=tolees0ca-21) con precio final de  284.98 EUR (original: 678.0 EUR) (57.97 %  de rebaja) aqui!
+
+[![Neff TBD1676N / T16BD76N0 / Autarkes Koc](https://m.media-amazon.com/images/I/41U4cU4cC4L._SL200_.jpg)](https://www.amazon.de/dp/B01MTV80T9/?tag=tolees0ca-21)
+
+🔎:
+
+
+[Comprar!!!](https://www.amazon.de/dp/B01MTV80T9/?tag=tolees0ca-21)

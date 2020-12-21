@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Rekord al 30.07 % de descuento'
+date: 2020-09-25 22:01:56
+image: 'https://m.media-amazon.com/images/I/51+n5MbMlxL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B00IYSP61S-de'
+actualPrice: 2.86 EUR
+currency: EUR
+price: 2.86
+comparePrice: 4.09 EUR
+prodname: 'Rekord'
+country: 'de'
+flag: '🇩🇪'
+buyurl: 'https://www.amazon.de/dp/B00IYSP61S/?tag=tolees0ca-21'
+descuento: '30.07'
+average: '2.86'
+---
+
+Está [Rekord](https://www.amazon.de/dp/B00IYSP61S/?tag=tolees0ca-21) con 30.07 de descuento por 2.86 EUR (original: 4.09 EUR) en el siguiente enlace!
+
+[![Rekord](https://m.media-amazon.com/images/I/51+n5MbMlxL._SL200_.jpg)](https://www.amazon.de/dp/B00IYSP61S/?tag=tolees0ca-21)
+
+ℹ️:
+
+
+[Ver la oferta!!](https://www.amazon.de/dp/B00IYSP61S/?tag=tolees0ca-21)
