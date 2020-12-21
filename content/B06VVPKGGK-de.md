@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Super Heroes 76085 - Das Kräftemess al 32.37 % de descuento'
+title: 'Discount of 32.37 % for LEGO Super Heroes 76085 - Das Kräftemess'
 date: 2020-03-06 18:28:35
 image: 'https://m.media-amazon.com/images/I/51jrs-ZPclL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '32.37'
 average: '17.695'
 ---
 
-Está [LEGO Super Heroes 76085 - Das Kräftemessen um Atlantis](https://www.amazon.de/dp/B06VVPKGGK/?tag=tolees0ca-21) con 32.37 de descuento por 16.9 EUR (original: 24.99 EUR) en el siguiente enlace!
+You've got [LEGO Super Heroes 76085 - Das Kräftemessen um Atlantis](https://www.amazon.de/dp/B06VVPKGGK/?tag=tolees0ca-21) with a  32.37 % discount, with final price of 16.9 EUR (original: 24.99 EUR) at the following link:
 
 [![LEGO Super Heroes 76085 - Das Kräftemess](https://m.media-amazon.com/images/I/51jrs-ZPclL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B06VVPKGGK/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B06VVPKGGK/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B06VVPKGGK/?tag=tolees0ca-21)

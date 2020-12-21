@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple iPhone XS  256GB  - Silber al 17.97 % de descuento'
+title: 'Apple iPhone XS  256GB  - Silber at 17.97 % discount'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51aEaDIrljL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '17.97'
 average: '1081.94'
 ---
 
-Ahora mismo tienes [Apple iPhone XS  256GB  - Silber](https://www.amazon.de/dp/B07HBDNQBS/?tag=tolees0ca-21) a 1081.94 EUR (original: 1319 EUR) (17.97 %  de descuento) en el siguiente enlace!
+With a final price of 1081.94 EUR (original: 1319 EUR) you can find [Apple iPhone XS  256GB  - Silber](https://www.amazon.de/dp/B07HBDNQBS/?tag=tolees0ca-21) with a  17.97 % discount here:
 
 [![Apple iPhone XS  256GB  - Silber](https://images-eu.ssl-images-amazon.com/images/I/51aEaDIrljL._SL200_.jpg)](https://www.amazon.de/dp/B07HBDNQBS/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B07HBDNQBS/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B07HBDNQBS/?tag=tolees0ca-21)

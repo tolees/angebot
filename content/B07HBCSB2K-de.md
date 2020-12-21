@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple iPhone XS  256GB  - Space Grau al 19.71 % de descuento'
+title: 'Discount of 19.71 % for Apple iPhone XS  256GB  - Space Grau'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51t9poOATPL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '19.71'
 average: '1059'
 ---
 
-Ahora mismo tienes [Apple iPhone XS  256GB  - Space Grau](https://www.amazon.de/dp/B07HBCSB2K/?tag=tolees0ca-21) a 1059 EUR (original: 1319 EUR) (19.71 %  de descuento) en el siguiente enlace!
+You've got [Apple iPhone XS  256GB  - Space Grau](https://www.amazon.de/dp/B07HBCSB2K/?tag=tolees0ca-21) with a  19.71 % discount, with final price of 1059 EUR (original: 1319 EUR) at the following link:
 
 [![Apple iPhone XS  256GB  - Space Grau](https://images-eu.ssl-images-amazon.com/images/I/51t9poOATPL._SL200_.jpg)](https://www.amazon.de/dp/B07HBCSB2K/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B07HBCSB2K/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07HBCSB2K/?tag=tolees0ca-21)

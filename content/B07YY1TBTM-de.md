@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Beleuchtungsset für Lego St al 62.51 % de descuento'
+title: '62.51 % deal for BRIKSMAX Led Beleuchtungsset für Lego St'
 date: 2020-03-16 18:38:14
 image: 'https://m.media-amazon.com/images/I/41zjuigto7L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '62.51'
 average: '25.505151515151514'
 ---
 
-Está [BRIKSMAX Led Beleuchtungsset für Lego Star Wars PORG Kompatibel Mit Lego 75230 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B07YY1TBTM/?tag=tolees0ca-21) con 62.51 de descuento por 17.99 EUR (original: 47.99 EUR) en el siguiente enlace!
+There's a deal [BRIKSMAX Led Beleuchtungsset für Lego Star Wars PORG Kompatibel Mit Lego 75230 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B07YY1TBTM/?tag=tolees0ca-21)  with  62.51 % discount, final price tag of  17.99 EUR (original: 47.99 EUR) here:
 
 [![BRIKSMAX Led Beleuchtungsset für Lego St](https://m.media-amazon.com/images/I/41zjuigto7L._SL200_.jpg)](https://www.amazon.de/dp/B07YY1TBTM/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07YY1TBTM/?tag=tolees0ca-21)
+[Buy it now!!](https://www.amazon.de/dp/B07YY1TBTM/?tag=tolees0ca-21)

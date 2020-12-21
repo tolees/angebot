@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 22.71 % en LEGO City 60180 - Starke Fahrzeuge Monst'
+title: 'Discount of 22.71 % for LEGO City 60180 - Starke Fahrzeuge Monst'
 date: 2020-01-31 21:55:05
 image: 'https://m.media-amazon.com/images/I/517ZWjjOs3L._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '22.71'
 average: '15.22'
 ---
 
-Tienes [LEGO City 60180 - Starke Fahrzeuge Monster-Truck  Kinderspielzeug](https://www.amazon.de/dp/B075GPLQKH/?tag=tolees0ca-21) con un 22.71 % de descuento con precio de oferta de 15.45 EUR (original: 19.99 EUR) en el siguiente enlace!
+You've got [LEGO City 60180 - Starke Fahrzeuge Monster-Truck  Kinderspielzeug](https://www.amazon.de/dp/B075GPLQKH/?tag=tolees0ca-21) with a  22.71 % discount, with final price of 15.45 EUR (original: 19.99 EUR) at the following link:
 
 [![LEGO City 60180 - Starke Fahrzeuge Monst](https://m.media-amazon.com/images/I/517ZWjjOs3L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B075GPLQKH/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B075GPLQKH/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B075GPLQKH/?tag=tolees0ca-21)

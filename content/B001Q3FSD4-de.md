@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '1/la-le-Lu al 51.03 % de rebaja'
+title: '51.03 % deal for 1/la-le-Lu'
 date: 2020-09-25 22:01:59
 image: 'https://m.media-amazon.com/images/I/51t-15s0UuL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '51.03'
 average: '2.37'
 ---
 
-Tienes [1/la-le-Lu](https://www.amazon.de/dp/B001Q3FSD4/?tag=tolees0ca-21) con precio final de  2.37 EUR (original: 4.84 EUR) (51.03 %  de rebaja) aqui!
+There's a deal [1/la-le-Lu](https://www.amazon.de/dp/B001Q3FSD4/?tag=tolees0ca-21)  with  51.03 % discount, final price tag of  2.37 EUR (original: 4.84 EUR) here:
 
 [![1/la-le-Lu](https://m.media-amazon.com/images/I/51t-15s0UuL._SL200_.jpg)](https://www.amazon.de/dp/B001Q3FSD4/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B001Q3FSD4/?tag=tolees0ca-21)
+[Buy it now!!](https://www.amazon.de/dp/B001Q3FSD4/?tag=tolees0ca-21)

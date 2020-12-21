@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 71.93 % en Unbekannt Quadratische Pappteller 22 9 c'
+title: 'Discount of 71.93 % for Unbekannt Quadratische Pappteller 22 9 c'
 date: 2020-03-18 02:32:54
 image: 'https://m.media-amazon.com/images/I/51lV4u2gwnL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '71.93'
 average: '1.12'
 ---
 
-Tienes [Unbekannt Quadratische Pappteller 22 9 cm  8er-Packung](https://www.amazon.de/dp/B012O45UFE/?tag=tolees0ca-21) con un 71.93 % de descuento con precio de oferta de 1.12 EUR (original: 3.99 EUR) en el siguiente enlace!
+You've got [Unbekannt Quadratische Pappteller 22 9 cm  8er-Packung](https://www.amazon.de/dp/B012O45UFE/?tag=tolees0ca-21) with a  71.93 % discount, with final price of 1.12 EUR (original: 3.99 EUR) at the following link:
 
 [![Unbekannt Quadratische Pappteller 22 9 c](https://m.media-amazon.com/images/I/51lV4u2gwnL._SL200_.jpg)](https://www.amazon.de/dp/B012O45UFE/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B012O45UFE/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B012O45UFE/?tag=tolees0ca-21)

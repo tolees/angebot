@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Friends 41314 Stephanies Haus  Kind al 32.86 % de descuento'
+title: 'Discount of 32.86 % for LEGO Friends 41314 Stephanies Haus  Kind'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61TMUyx1pjL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '32.86'
 average: '46.99'
 ---
 
-Está [LEGO Friends 41314 Stephanies Haus  Kinderspielzeug](https://www.amazon.de/dp/B01J41ERCM/?tag=tolees0ca-21) con 32.86 de descuento por 46.99 EUR (original: 69.99 EUR) en el siguiente enlace!
+You've got [LEGO Friends 41314 Stephanies Haus  Kinderspielzeug](https://www.amazon.de/dp/B01J41ERCM/?tag=tolees0ca-21) with a  32.86 % discount, with final price of 46.99 EUR (original: 69.99 EUR) at the following link:
 
 [![LEGO Friends 41314 Stephanies Haus  Kind](https://images-eu.ssl-images-amazon.com/images/I/61TMUyx1pjL._SL200_.jpg)](https://www.amazon.de/dp/B01J41ERCM/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B01J41ERCM/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B01J41ERCM/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Star Wars Porg  75230   Star Wars S al 30.32 % de descuento'
+title: 'LEGO Star Wars Porg  75230   Star Wars S at 30.32 % discount'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51mZyisx54L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.32'
 average: '48.77'
 ---
 
-Está [LEGO Star Wars Porg  75230   Star Wars Spielzeug](https://www.amazon.de/dp/B07B36ZQRB/?tag=tolees0ca-21) con 30.32 de descuento por 48.77 EUR (original: 69.99 EUR) en el siguiente enlace!
+With a final price of 48.77 EUR (original: 69.99 EUR) you can find [LEGO Star Wars Porg  75230   Star Wars Spielzeug](https://www.amazon.de/dp/B07B36ZQRB/?tag=tolees0ca-21) with a  30.32 % discount here:
 
 [![LEGO Star Wars Porg  75230   Star Wars S](https://images-eu.ssl-images-amazon.com/images/I/51mZyisx54L._SL200_.jpg)](https://www.amazon.de/dp/B07B36ZQRB/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07B36ZQRB/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B07B36ZQRB/?tag=tolees0ca-21)

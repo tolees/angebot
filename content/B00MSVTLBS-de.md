@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 35.99 % en Samyang 12/2 0 Objektiv APS-C Fuji X man'
+title: 'Discount of 35.99 % for Samyang 12/2 0 Objektiv APS-C Fuji X man'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qQoRCC3TL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '35.99'
 average: '249'
 ---
 
-Tienes [Samyang 12/2 0 Objektiv APS-C Fuji X manueller Fokus Fotoobjektiv  Weitwinkelobjektiv schwarz](https://www.amazon.de/dp/B00MSVTLBS/?tag=tolees0ca-21) con un 35.99 % de descuento con precio de oferta de 249 EUR (original: 389 EUR) en el siguiente enlace!
+You've got [Samyang 12/2 0 Objektiv APS-C Fuji X manueller Fokus Fotoobjektiv  Weitwinkelobjektiv schwarz](https://www.amazon.de/dp/B00MSVTLBS/?tag=tolees0ca-21) with a  35.99 % discount, with final price of 249 EUR (original: 389 EUR) at the following link:
 
 [![Samyang 12/2 0 Objektiv APS-C Fuji X man](https://images-eu.ssl-images-amazon.com/images/I/41qQoRCC3TL._SL200_.jpg)](https://www.amazon.de/dp/B00MSVTLBS/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B00MSVTLBS/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00MSVTLBS/?tag=tolees0ca-21)

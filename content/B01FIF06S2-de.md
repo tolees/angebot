@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 9016 and S1 No Actionfigur Rick Mo al 55.25 % de descuento'
+title: 'Discount of 55.25 % for Funko 9016 and S1 No Actionfigur Rick Mo'
 date: 2020-04-04 21:00:07
 image: 'https://m.media-amazon.com/images/I/51mqyAnb9AL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '55.25'
 average: '9.54'
 ---
 
-Ahora mismo tienes [Funko 9016 and S1 No Actionfigur Rick Morty  gelb  Standard](https://www.amazon.de/dp/B01FIF06S2/?tag=tolees0ca-21) a 5.58 EUR (original: 12.47 EUR) (55.25 %  de descuento) en el siguiente enlace!
+You've got [Funko 9016 and S1 No Actionfigur Rick Morty  gelb  Standard](https://www.amazon.de/dp/B01FIF06S2/?tag=tolees0ca-21) with a  55.25 % discount, with final price of 5.58 EUR (original: 12.47 EUR) at the following link:
 
 [![Funko 9016 and S1 No Actionfigur Rick Mo](https://m.media-amazon.com/images/I/51mqyAnb9AL._SL200_.jpg)](https://www.amazon.de/dp/B01FIF06S2/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B01FIF06S2/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B01FIF06S2/?tag=tolees0ca-21)

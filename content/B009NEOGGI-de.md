@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Doc Johnson - TitanMen Master Tool 4-6 i al 36.44 % de rebaja'
+title: 'Discount of 36.44 % for Doc Johnson - TitanMen Master Tool 4-6 i'
 date: 2020-04-16 08:40:48
 image: 'https://m.media-amazon.com/images/I/31shoGtuoOL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '36.44'
 average: '17.5'
 ---
 
-Tienes [Doc Johnson - TitanMen Master Tool 4-6 inch](https://www.amazon.de/dp/B009NEOGGI/?tag=tolees0ca-21) con precio final de  17.41 EUR (original: 27.39 EUR) (36.44 %  de rebaja) aqui!
+You've got [Doc Johnson - TitanMen Master Tool 4-6 inch](https://www.amazon.de/dp/B009NEOGGI/?tag=tolees0ca-21) with a  36.44 % discount, with final price of 17.41 EUR (original: 27.39 EUR) at the following link:
 
 [![Doc Johnson - TitanMen Master Tool 4-6 i](https://m.media-amazon.com/images/I/31shoGtuoOL._SL200_.jpg)](https://www.amazon.de/dp/B009NEOGGI/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B009NEOGGI/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B009NEOGGI/?tag=tolees0ca-21)

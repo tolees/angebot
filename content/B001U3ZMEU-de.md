@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO City 7639 - Wohnmobil con un 30.00 % de descuento'
+title: 'LEGO City 7639 - Wohnmobil at 30.00 % discount'
 date: 2020-04-05 13:01:42
 image: 'https://m.media-amazon.com/images/I/51-wjG-AVbL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.00'
 average: '88.40333333333334'
 ---
 
-En este momento está [LEGO City 7639 - Wohnmobil](https://www.amazon.de/dp/B001U3ZMEU/?tag=tolees0ca-21) a 91.89 EUR (original: 131.28 EUR) (30.00 %  de descuento) en el siguiente enlace!
+With a final price of 91.89 EUR (original: 131.28 EUR) you can find [LEGO City 7639 - Wohnmobil](https://www.amazon.de/dp/B001U3ZMEU/?tag=tolees0ca-21) with a  30.00 % discount here:
 
 [![LEGO City 7639 - Wohnmobil](https://m.media-amazon.com/images/I/51-wjG-AVbL._SL200_.jpg)](https://www.amazon.de/dp/B001U3ZMEU/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B001U3ZMEU/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B001U3ZMEU/?tag=tolees0ca-21)

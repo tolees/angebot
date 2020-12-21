@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Huawei P30 128GB Handy  hellblau/Lavende al 36.15 % de descuento'
+title: 'Huawei P30 128GB Handy  hellblau/Lavende at 36.15 % discount'
 date: 2020-02-15 20:35:32
 image: 'https://m.media-amazon.com/images/I/41BS5XBPDHL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '36.15'
 average: '289.9'
 ---
 
-Está [Huawei P30 128GB Handy  hellblau/Lavendel  Breathing Crystal  Android 9.0  Pie ](https://www.amazon.de/dp/B07NLRHK6M/?tag=tolees0ca-21) con 36.15 de descuento por 289.9 EUR (original: 454.0 EUR) en el siguiente enlace!
+With a final price of 289.9 EUR (original: 454.0 EUR) you can find [Huawei P30 128GB Handy  hellblau/Lavendel  Breathing Crystal  Android 9.0  Pie ](https://www.amazon.de/dp/B07NLRHK6M/?tag=tolees0ca-21) with a  36.15 % discount here:
 
 [![Huawei P30 128GB Handy  hellblau/Lavende](https://m.media-amazon.com/images/I/41BS5XBPDHL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07NLRHK6M/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07NLRHK6M/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B07NLRHK6M/?tag=tolees0ca-21)

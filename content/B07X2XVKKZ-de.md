@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nikon Z6 System-Digitalkamera Kit + NIKK al 17.00 % de descuento'
+title: 'Discount of 17.00 % for Nikon Z6 System-Digitalkamera Kit + NIKK'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41rl24wKCnL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '17.00'
 average: '2157.08'
 ---
 
-Ahora mismo tienes [Nikon Z6 System-Digitalkamera Kit + NIKKOR Z 24-70 mm 1:4 S + 64GB XQD](https://www.amazon.de/dp/B07X2XVKKZ/?tag=tolees0ca-21) a 2157.08 EUR (original: 2599 EUR) (17.00 %  de descuento) en el siguiente enlace!
+You've got [Nikon Z6 System-Digitalkamera Kit + NIKKOR Z 24-70 mm 1:4 S + 64GB XQD](https://www.amazon.de/dp/B07X2XVKKZ/?tag=tolees0ca-21) with a  17.00 % discount, with final price of 2157.08 EUR (original: 2599 EUR) at the following link:
 
 [![Nikon Z6 System-Digitalkamera Kit + NIKK](https://images-eu.ssl-images-amazon.com/images/I/41rl24wKCnL._SL200_.jpg)](https://www.amazon.de/dp/B07X2XVKKZ/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B07X2XVKKZ/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07X2XVKKZ/?tag=tolees0ca-21)

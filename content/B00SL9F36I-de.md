@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Zhongyi Mitakon Creator 35mm F/2 Objekti al 65.70 % de descuento'
+title: 'Discount of 65.70 % for Zhongyi Mitakon Creator 35mm F/2 Objekti'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31TGyQRr2vL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '65.70'
 average: '81.98'
 ---
 
-Está [Zhongyi Mitakon Creator 35mm F/2 Objektiv für Pentax K Kameras](https://www.amazon.de/dp/B00SL9F36I/?tag=tolees0ca-21) con 65.70 de descuento por 81.98 EUR (original: 239 EUR) en el siguiente enlace!
+You've got [Zhongyi Mitakon Creator 35mm F/2 Objektiv für Pentax K Kameras](https://www.amazon.de/dp/B00SL9F36I/?tag=tolees0ca-21) with a  65.70 % discount, with final price of 81.98 EUR (original: 239 EUR) at the following link:
 
 [![Zhongyi Mitakon Creator 35mm F/2 Objekti](https://images-eu.ssl-images-amazon.com/images/I/31TGyQRr2vL._SL200_.jpg)](https://www.amazon.de/dp/B00SL9F36I/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00SL9F36I/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00SL9F36I/?tag=tolees0ca-21)

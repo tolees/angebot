@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pop Royal Family Princess Diana Vinyl Fi al 50.54 % de descuento'
+title: 'Discount of 50.54 % for Pop Royal Family Princess Diana Vinyl Fi'
 date: 2020-02-09 07:37:23
 image: 'https://m.media-amazon.com/images/I/41N93w51GUL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.54'
 average: '10.664000000000001'
 ---
 
-Ahora mismo tienes [Pop Royal Family Princess Diana Vinyl Figure](https://www.amazon.de/dp/B0777PLSQM/?tag=tolees0ca-21) a 6.92 EUR (original: 13.99 EUR) (50.54 %  de descuento) en el siguiente enlace!
+You've got [Pop Royal Family Princess Diana Vinyl Figure](https://www.amazon.de/dp/B0777PLSQM/?tag=tolees0ca-21) with a  50.54 % discount, with final price of 6.92 EUR (original: 13.99 EUR) at the following link:
 
 [![Pop Royal Family Princess Diana Vinyl Fi](https://m.media-amazon.com/images/I/41N93w51GUL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B0777PLSQM/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B0777PLSQM/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B0777PLSQM/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gypsy Heart al 50.96 % de descuento'
+title: 'Discount of 50.96 % for Gypsy Heart'
 date: 2020-09-24 09:49:58
 image: 'https://m.media-amazon.com/images/I/51RIbAxOVJL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.96'
 average: '5.39'
 ---
 
-Está [Gypsy Heart](https://www.amazon.de/dp/B00NH66TYA/?tag=tolees0ca-21) con 50.96 de descuento por 5.39 EUR (original: 10.99 EUR) en el siguiente enlace!
+You've got [Gypsy Heart](https://www.amazon.de/dp/B00NH66TYA/?tag=tolees0ca-21) with a  50.96 % discount, with final price of 5.39 EUR (original: 10.99 EUR) at the following link:
 
 [![Gypsy Heart](https://m.media-amazon.com/images/I/51RIbAxOVJL._SL200_.jpg)](https://www.amazon.de/dp/B00NH66TYA/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00NH66TYA/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00NH66TYA/?tag=tolees0ca-21)

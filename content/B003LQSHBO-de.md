@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Die Symphonien  Orchesterlieder  Eloquen con un 30.02 % de descuento'
+title: 'Discount of 30.02 % for Die Symphonien  Orchesterlieder  Eloquen'
 date: 2020-09-26 02:14:45
 image: 'https://m.media-amazon.com/images/I/51wZ1R1SfIL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.02'
 average: '10.98'
 ---
 
-En este momento está [Die Symphonien  Orchesterlieder  Eloquence ](https://www.amazon.de/dp/B003LQSHBO/?tag=tolees0ca-21) a 10.98 EUR (original: 15.69 EUR) (30.02 %  de descuento) en el siguiente enlace!
+You've got [Die Symphonien  Orchesterlieder  Eloquence ](https://www.amazon.de/dp/B003LQSHBO/?tag=tolees0ca-21) with a  30.02 % discount, with final price of 10.98 EUR (original: 15.69 EUR) at the following link:
 
 [![Die Symphonien  Orchesterlieder  Eloquen](https://m.media-amazon.com/images/I/51wZ1R1SfIL._SL200_.jpg)](https://www.amazon.de/dp/B003LQSHBO/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B003LQSHBO/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B003LQSHBO/?tag=tolees0ca-21)

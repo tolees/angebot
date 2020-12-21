@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Huawei Y6 2017  Grey  al 28.93 % de descuento'
+title: 'Discount of 28.93 % for Huawei Y6 2017  Grey '
 date: 2020-04-11 12:52:21
 image: 'https://m.media-amazon.com/images/I/31sAbhQtgVL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '28.93'
 average: '96.72'
 ---
 
-Está [Huawei Y6 2017  Grey ](https://www.amazon.de/dp/B072ZTRC6D/?tag=tolees0ca-21) con 28.93 de descuento por 96.72 EUR (original: 136.1 EUR) en el siguiente enlace!
+You've got [Huawei Y6 2017  Grey ](https://www.amazon.de/dp/B072ZTRC6D/?tag=tolees0ca-21) with a  28.93 % discount, with final price of 96.72 EUR (original: 136.1 EUR) at the following link:
 
 [![Huawei Y6 2017  Grey ](https://m.media-amazon.com/images/I/31sAbhQtgVL._SL200_.jpg)](https://www.amazon.de/dp/B072ZTRC6D/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B072ZTRC6D/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B072ZTRC6D/?tag=tolees0ca-21)

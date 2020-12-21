@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Netgear GS748T 48-Port Gigabit Ethernet  al 19.24 % de descuento'
+title: 'Discount of 19.24 % for Netgear GS748T 48-Port Gigabit Ethernet '
 date: 2020-07-16 15:32:48
 image: 'https://m.media-amazon.com/images/I/31lPyHniRkL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '19.24'
 average: '235.59'
 ---
 
-Está [Netgear GS748T 48-Port Gigabit Ethernet LAN Switch Smart Managed Pro  mit 4x 1G SFP  Desktop- oder Rack-Montage mit ProSAFE Lifetime-Garantie ](https://www.amazon.de/dp/B00H2ETA1M/?tag=tolees0ca-21) con 19.24 de descuento por 234.19 EUR (original: 289.99 EUR) en el siguiente enlace!
+You've got [Netgear GS748T 48-Port Gigabit Ethernet LAN Switch Smart Managed Pro  mit 4x 1G SFP  Desktop- oder Rack-Montage mit ProSAFE Lifetime-Garantie ](https://www.amazon.de/dp/B00H2ETA1M/?tag=tolees0ca-21) with a  19.24 % discount, with final price of 234.19 EUR (original: 289.99 EUR) at the following link:
 
 [![Netgear GS748T 48-Port Gigabit Ethernet ](https://m.media-amazon.com/images/I/31lPyHniRkL._SL200_.jpg)](https://www.amazon.de/dp/B00H2ETA1M/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00H2ETA1M/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00H2ETA1M/?tag=tolees0ca-21)

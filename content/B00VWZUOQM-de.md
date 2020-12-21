@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 79.12 % en Disney Amscan International Frozen Party'
+title: 'Discount of 79.12 % for Disney Amscan International Frozen Party'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51qI-3otNDL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '79.12'
 average: '1.0'
 ---
 
-Tienes [Disney Amscan International Frozen Party Spiel Bj Olaf](https://www.amazon.de/dp/B00VWZUOQM/?tag=tolees0ca-21) con un 79.12 % de descuento con precio de oferta de 1 EUR (original: 4.79 EUR) en el siguiente enlace!
+You've got [Disney Amscan International Frozen Party Spiel Bj Olaf](https://www.amazon.de/dp/B00VWZUOQM/?tag=tolees0ca-21) with a  79.12 % discount, with final price of 1 EUR (original: 4.79 EUR) at the following link:
 
 [![Disney Amscan International Frozen Party](https://images-eu.ssl-images-amazon.com/images/I/51qI-3otNDL._SL200_.jpg)](https://www.amazon.de/dp/B00VWZUOQM/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B00VWZUOQM/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00VWZUOQM/?tag=tolees0ca-21)

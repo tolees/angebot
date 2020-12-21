@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 49.25 % en Fotowiderstand  Entdeckung Lichtempfindl'
+title: 'Discount of 49.25 % for Fotowiderstand  Entdeckung Lichtempfindl'
 date: 2020-02-21 08:33:11
 image: 'https://m.media-amazon.com/images/I/41Lx-S2IE+L._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '49.25'
 average: '1.01'
 ---
 
-Tienes [Fotowiderstand  Entdeckung Lichtempfindlich Licht Sensor Modul für Arduino](https://www.amazon.de/dp/B00VUQ6CU0/?tag=tolees0ca-21) con un 49.25 % de descuento con precio de oferta de 1.01 EUR (original: 1.99 EUR) en el siguiente enlace!
+You've got [Fotowiderstand  Entdeckung Lichtempfindlich Licht Sensor Modul für Arduino](https://www.amazon.de/dp/B00VUQ6CU0/?tag=tolees0ca-21) with a  49.25 % discount, with final price of 1.01 EUR (original: 1.99 EUR) at the following link:
 
 [![Fotowiderstand  Entdeckung Lichtempfindl](https://m.media-amazon.com/images/I/41Lx-S2IE+L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00VUQ6CU0/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B00VUQ6CU0/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00VUQ6CU0/?tag=tolees0ca-21)

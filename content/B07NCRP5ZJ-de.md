@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 44.50 % en Netgear Nighthawk XR300 WLAN Gaming-Rout'
+title: 'Discount of 44.50 % for Netgear Nighthawk XR300 WLAN Gaming-Rout'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Z7NtEgjxL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '44.50'
 average: '111'
 ---
 
-Tienes [Netgear Nighthawk XR300 WLAN Gaming-Router  AC1750  1 0 GHz Dual-Core-Prozessor  4x Gigabit LAN Port  Anti-Buffer-Bloat  QoS  Bandbreitenmanagement  DumaOS Gaming-Software  XR300-100EUS ](https://www.amazon.de/dp/B07NCRP5ZJ/?tag=tolees0ca-21) con un 44.50 % de descuento con precio de oferta de 111 EUR (original: 199.99 EUR) en el siguiente enlace!
+You've got [Netgear Nighthawk XR300 WLAN Gaming-Router  AC1750  1 0 GHz Dual-Core-Prozessor  4x Gigabit LAN Port  Anti-Buffer-Bloat  QoS  Bandbreitenmanagement  DumaOS Gaming-Software  XR300-100EUS ](https://www.amazon.de/dp/B07NCRP5ZJ/?tag=tolees0ca-21) with a  44.50 % discount, with final price of 111 EUR (original: 199.99 EUR) at the following link:
 
 [![Netgear Nighthawk XR300 WLAN Gaming-Rout](https://images-eu.ssl-images-amazon.com/images/I/31Z7NtEgjxL._SL200_.jpg)](https://www.amazon.de/dp/B07NCRP5ZJ/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07NCRP5ZJ/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07NCRP5ZJ/?tag=tolees0ca-21)

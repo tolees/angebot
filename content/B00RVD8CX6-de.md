@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Original Album Classics al 32.93 % de descuento'
+title: '32.93 % deal for Original Album Classics'
 date: 2020-09-24 09:50:08
 image: 'https://m.media-amazon.com/images/I/51BjVJQXxTL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '32.93'
 average: '7.84'
 ---
 
-Está [Original Album Classics](https://www.amazon.de/dp/B00RVD8CX6/?tag=tolees0ca-21) con 32.93 de descuento por 7.84 EUR (original: 11.69 EUR) en el siguiente enlace!
+There's a deal [Original Album Classics](https://www.amazon.de/dp/B00RVD8CX6/?tag=tolees0ca-21)  with  32.93 % discount, final price tag of  7.84 EUR (original: 11.69 EUR) here:
 
 [![Original Album Classics](https://m.media-amazon.com/images/I/51BjVJQXxTL._SL200_.jpg)](https://www.amazon.de/dp/B00RVD8CX6/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00RVD8CX6/?tag=tolees0ca-21)
+[Buy it now!!](https://www.amazon.de/dp/B00RVD8CX6/?tag=tolees0ca-21)

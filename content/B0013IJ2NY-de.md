@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Troja  Director s Cut  [Blu-ray] al 27.31 % de descuento'
+title: 'Discount of 27.31 % for Troja  Director s Cut  [Blu-ray]'
 date: 2020-04-09 15:26:49
 image: 'https://m.media-amazon.com/images/I/5144oQpaUCL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '27.31'
 average: '6.44'
 ---
 
-Ahora mismo tienes [Troja  Director s Cut  [Blu-ray]](https://www.amazon.de/dp/B0013IJ2NY/?tag=tolees0ca-21) a 6.44 EUR (original: 8.86 EUR) (27.31 %  de descuento) en el siguiente enlace!
+You've got [Troja  Director s Cut  [Blu-ray]](https://www.amazon.de/dp/B0013IJ2NY/?tag=tolees0ca-21) with a  27.31 % discount, with final price of 6.44 EUR (original: 8.86 EUR) at the following link:
 
 [![Troja  Director s Cut  [Blu-ray]](https://m.media-amazon.com/images/I/5144oQpaUCL._SL200_.jpg)](https://www.amazon.de/dp/B0013IJ2NY/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B0013IJ2NY/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B0013IJ2NY/?tag=tolees0ca-21)

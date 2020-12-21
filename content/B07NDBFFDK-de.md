@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 75245 Star Wars Adventskalender  Ba al 26.68 % de descuento'
+title: 'LEGO 75245 Star Wars Adventskalender  Ba at 26.68 % discount'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51pZeVC%2BqvL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '26.68'
 average: '24.9925'
 ---
 
-Ahora mismo tienes [LEGO 75245 Star Wars Adventskalender  Bauset  Mehrfarbig](https://www.amazon.de/dp/B07NDBFFDK/?tag=tolees0ca-21) a 21.99 EUR (original: 29.99 EUR) (26.68 %  de descuento) en el siguiente enlace!
+With a final price of 21.99 EUR (original: 29.99 EUR) you can find [LEGO 75245 Star Wars Adventskalender  Bauset  Mehrfarbig](https://www.amazon.de/dp/B07NDBFFDK/?tag=tolees0ca-21) with a  26.68 % discount here:
 
 [![LEGO 75245 Star Wars Adventskalender  Ba](https://images-eu.ssl-images-amazon.com/images/I/51pZeVC%2BqvL._SL200_.jpg)](https://www.amazon.de/dp/B07NDBFFDK/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B07NDBFFDK/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B07NDBFFDK/?tag=tolees0ca-21)

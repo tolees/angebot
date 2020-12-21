@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 22.41 % en Scholl Clogs SUPERCOMFORT Frau'
+title: 'Discount of 22.41 % for Scholl Clogs SUPERCOMFORT Frau'
 date: 2020-08-21 06:15:19
 image: 'https://m.media-amazon.com/images/I/41-h1Isw93L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '22.41'
 average: '55.86'
 ---
 
-Tienes [Scholl Clogs SUPERCOMFORT Frau](https://www.amazon.de/dp/B00CMOJUDA/?tag=tolees0ca-21) con un 22.41 % de descuento con precio de oferta de 55.86 EUR (original: 71.99 EUR) en el siguiente enlace!
+You've got [Scholl Clogs SUPERCOMFORT Frau](https://www.amazon.de/dp/B00CMOJUDA/?tag=tolees0ca-21) with a  22.41 % discount, with final price of 55.86 EUR (original: 71.99 EUR) at the following link:
 
 [![Scholl Clogs SUPERCOMFORT Frau](https://m.media-amazon.com/images/I/41-h1Isw93L._SL200_.jpg)](https://www.amazon.de/dp/B00CMOJUDA/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B00CMOJUDA/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00CMOJUDA/?tag=tolees0ca-21)

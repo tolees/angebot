@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Corsair CC-9011048-WW Carbide Series Air al 15.15 % de rebaja'
+title: 'Discount of 15.15 % for Corsair CC-9011048-WW Carbide Series Air'
 date: 2020-02-21 19:56:48
 image: 'https://m.media-amazon.com/images/I/51ZONQnolCL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '15.15'
 average: '144.16'
 ---
 
-Tienes [Corsair CC-9011048-WW Carbide Series Air 540 Computer Gehäuse  Seitenfenster ATX High Airflow Cube Performance  arctic weiß mit weiß LED Lüfter](https://www.amazon.de/dp/B00H8JLM94/?tag=tolees0ca-21) con precio final de  144.16 EUR (original: 169.9 EUR) (15.15 %  de rebaja) aqui!
+You've got [Corsair CC-9011048-WW Carbide Series Air 540 Computer Gehäuse  Seitenfenster ATX High Airflow Cube Performance  arctic weiß mit weiß LED Lüfter](https://www.amazon.de/dp/B00H8JLM94/?tag=tolees0ca-21) with a  15.15 % discount, with final price of 144.16 EUR (original: 169.9 EUR) at the following link:
 
 [![Corsair CC-9011048-WW Carbide Series Air](https://m.media-amazon.com/images/I/51ZONQnolCL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00H8JLM94/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B00H8JLM94/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00H8JLM94/?tag=tolees0ca-21)

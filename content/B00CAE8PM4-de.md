@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rode Rycote Edition VideoMic  Line Gradi al 18.01 % de rebaja'
+title: 'Discount of 18.01 % for Rode Rycote Edition VideoMic  Line Gradi'
 date: 2020-02-01 03:44:17
 image: 'https://m.media-amazon.com/images/I/41AB-MtKaHL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '18.01'
 average: '58.21'
 ---
 
-Tienes [Rode Rycote Edition VideoMic  Line Gradient  Polar Pattern ](https://www.amazon.de/dp/B00CAE8PM4/?tag=tolees0ca-21) con precio final de  58.21 EUR (original: 71.0 EUR) (18.01 %  de rebaja) aqui!
+You've got [Rode Rycote Edition VideoMic  Line Gradient  Polar Pattern ](https://www.amazon.de/dp/B00CAE8PM4/?tag=tolees0ca-21) with a  18.01 % discount, with final price of 58.21 EUR (original: 71.0 EUR) at the following link:
 
 [![Rode Rycote Edition VideoMic  Line Gradi](https://m.media-amazon.com/images/I/41AB-MtKaHL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00CAE8PM4/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B00CAE8PM4/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00CAE8PM4/?tag=tolees0ca-21)

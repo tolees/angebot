@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Impossible al 71.75 % de rebaja'
+title: '71.75 % deal for The Impossible'
 date: 2020-04-17 23:38:15
 image: 'https://m.media-amazon.com/images/I/51j5q1eNZfL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '71.75'
 average: '2.54'
 ---
 
-Tienes [The Impossible](https://www.amazon.de/dp/B00B17G9BU/?tag=tolees0ca-21) con precio final de  2.54 EUR (original: 8.99 EUR) (71.75 %  de rebaja) aqui!
+There's a deal [The Impossible](https://www.amazon.de/dp/B00B17G9BU/?tag=tolees0ca-21)  with  71.75 % discount, final price tag of  2.54 EUR (original: 8.99 EUR) here:
 
 [![The Impossible](https://m.media-amazon.com/images/I/51j5q1eNZfL._SL200_.jpg)](https://www.amazon.de/dp/B00B17G9BU/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B00B17G9BU/?tag=tolees0ca-21)
+[Buy it now!!](https://www.amazon.de/dp/B00B17G9BU/?tag=tolees0ca-21)

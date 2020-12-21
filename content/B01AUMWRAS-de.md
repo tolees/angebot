@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KMP Protective Case  12   MacBook  pink al 50.13 % de descuento'
+title: 'KMP Protective Case  12   MacBook  pink at 50.13 % discount'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31oAuHPHvLL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.13'
 average: '9.95'
 ---
 
-Está [KMP Protective Case  12   MacBook  pink](https://www.amazon.de/dp/B01AUMWRAS/?tag=tolees0ca-21) con 50.13 de descuento por 9.95 EUR (original: 19.95 EUR) en el siguiente enlace!
+With a final price of 9.95 EUR (original: 19.95 EUR) you can find [KMP Protective Case  12   MacBook  pink](https://www.amazon.de/dp/B01AUMWRAS/?tag=tolees0ca-21) with a  50.13 % discount here:
 
 [![KMP Protective Case  12   MacBook  pink](https://images-eu.ssl-images-amazon.com/images/I/31oAuHPHvLL._SL200_.jpg)](https://www.amazon.de/dp/B01AUMWRAS/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B01AUMWRAS/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B01AUMWRAS/?tag=tolees0ca-21)

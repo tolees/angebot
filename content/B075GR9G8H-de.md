@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Star Wars 75199 - General Grievous  con un 26.68 % de descuento'
+title: '26.68 % deal for LEGO Star Wars 75199 - General Grievous '
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51GSMDCftzL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '26.68'
 average: '21.99'
 ---
 
-En este momento está [LEGO Star Wars 75199 - General Grievous Combat Speeder  Spielzeug Gleiter](https://www.amazon.de/dp/B075GR9G8H/?tag=tolees0ca-21) a 21.99 EUR (original: 29.99 EUR) (26.68 %  de descuento) en el siguiente enlace!
+There's a deal [LEGO Star Wars 75199 - General Grievous Combat Speeder  Spielzeug Gleiter](https://www.amazon.de/dp/B075GR9G8H/?tag=tolees0ca-21)  with  26.68 % discount, final price tag of  21.99 EUR (original: 29.99 EUR) here:
 
 [![LEGO Star Wars 75199 - General Grievous ](https://images-eu.ssl-images-amazon.com/images/I/51GSMDCftzL._SL200_.jpg)](https://www.amazon.de/dp/B075GR9G8H/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B075GR9G8H/?tag=tolees0ca-21)
+[Buy it now!!](https://www.amazon.de/dp/B075GR9G8H/?tag=tolees0ca-21)

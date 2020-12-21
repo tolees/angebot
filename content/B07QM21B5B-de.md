@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 28.48 % en Star Wars Jedi: Fallen Order - Deluxe  E'
+title: 'Discount of 28.48 % for Star Wars Jedi: Fallen Order - Deluxe  E'
 date: 2020-03-07 14:06:41
 image: 'https://m.media-amazon.com/images/I/51GdoQLA9JL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '28.48'
 average: '54.99'
 ---
 
-Tienes [Star Wars Jedi: Fallen Order - Deluxe  Edition - [Xbox One]](https://www.amazon.de/dp/B07QM21B5B/?tag=tolees0ca-21) con un 28.48 % de descuento con precio de oferta de 54.99 EUR (original: 76.89 EUR) en el siguiente enlace!
+You've got [Star Wars Jedi: Fallen Order - Deluxe  Edition - [Xbox One]](https://www.amazon.de/dp/B07QM21B5B/?tag=tolees0ca-21) with a  28.48 % discount, with final price of 54.99 EUR (original: 76.89 EUR) at the following link:
 
 [![Star Wars Jedi: Fallen Order - Deluxe  E](https://m.media-amazon.com/images/I/51GdoQLA9JL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07QM21B5B/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07QM21B5B/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07QM21B5B/?tag=tolees0ca-21)

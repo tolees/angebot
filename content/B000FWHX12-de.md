@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Segafredo Kaffee Espresso - Intermezzo   al 22.87 % de descuento'
+title: 'Discount of 22.87 % for Segafredo Kaffee Espresso - Intermezzo  '
 date: 2020-02-03 12:49:52
 image: 'https://m.media-amazon.com/images/I/41Wi1kOYSOL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '22.87'
 average: '11.68'
 ---
 
-Ahora mismo tienes [Segafredo Kaffee Espresso - Intermezzo  1000g Bohnen](https://www.amazon.de/dp/B000FWHX12/?tag=tolees0ca-21) a 10.79 EUR (original: 13.99 EUR) (22.87 %  de descuento) en el siguiente enlace!
+You've got [Segafredo Kaffee Espresso - Intermezzo  1000g Bohnen](https://www.amazon.de/dp/B000FWHX12/?tag=tolees0ca-21) with a  22.87 % discount, with final price of 10.79 EUR (original: 13.99 EUR) at the following link:
 
 [![Segafredo Kaffee Espresso - Intermezzo  ](https://m.media-amazon.com/images/I/41Wi1kOYSOL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B000FWHX12/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B000FWHX12/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B000FWHX12/?tag=tolees0ca-21)

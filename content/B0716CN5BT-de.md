@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 43.15 % en King Arthur: Legend of the Sword [Blu-ra'
+title: 'King Arthur: Legend of the Sword [Blu-ra at 43.15 % discount'
 date: 2020-09-11 08:24:12
 image: 'https://m.media-amazon.com/images/I/51pO81BCo4L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '43.15'
 average: '4.98'
 ---
 
-Tienes [King Arthur: Legend of the Sword [Blu-ray]](https://www.amazon.de/dp/B0716CN5BT/?tag=tolees0ca-21) con un 43.15 % de descuento con precio de oferta de 4.98 EUR (original: 8.76 EUR) en el siguiente enlace!
+With a final price of 4.98 EUR (original: 8.76 EUR) you can find [King Arthur: Legend of the Sword [Blu-ray]](https://www.amazon.de/dp/B0716CN5BT/?tag=tolees0ca-21) with a  43.15 % discount here:
 
 [![King Arthur: Legend of the Sword [Blu-ra](https://m.media-amazon.com/images/I/51pO81BCo4L._SL200_.jpg)](https://www.amazon.de/dp/B0716CN5BT/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B0716CN5BT/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B0716CN5BT/?tag=tolees0ca-21)

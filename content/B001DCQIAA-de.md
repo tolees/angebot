@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sinfonien 1-4  Karajan Sinfonien-Edition al 30.00 % de descuento'
+title: 'Sinfonien 1-4  Karajan Sinfonien-Edition at 30.00 % discount'
 date: 2020-09-24 19:56:00
 image: 'https://m.media-amazon.com/images/I/41Id99+TIZL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.00'
 average: '5.25'
 ---
 
-Está [Sinfonien 1-4  Karajan Sinfonien-Edition ](https://www.amazon.de/dp/B001DCQIAA/?tag=tolees0ca-21) con 30.00 de descuento por 5.25 EUR (original: 7.5 EUR) en el siguiente enlace!
+With a final price of 5.25 EUR (original: 7.5 EUR) you can find [Sinfonien 1-4  Karajan Sinfonien-Edition ](https://www.amazon.de/dp/B001DCQIAA/?tag=tolees0ca-21) with a  30.00 % discount here:
 
 [![Sinfonien 1-4  Karajan Sinfonien-Edition](https://m.media-amazon.com/images/I/41Id99+TIZL._SL200_.jpg)](https://www.amazon.de/dp/B001DCQIAA/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B001DCQIAA/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B001DCQIAA/?tag=tolees0ca-21)

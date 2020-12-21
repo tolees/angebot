@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 77.11 % en Shutter Island [Blu-ray]'
+title: '77.11 % deal for Shutter Island [Blu-ray]'
 date: 2020-04-14 23:45:28
 image: 'https://m.media-amazon.com/images/I/51V9wUNL4FL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '77.11'
 average: '2.322'
 ---
 
-Tienes [Shutter Island [Blu-ray]](https://www.amazon.de/dp/B003KHG5HM/?tag=tolees0ca-21) con un 77.11 % de descuento con precio de oferta de 2.74 EUR (original: 11.97 EUR) en el siguiente enlace!
+There's a deal [Shutter Island [Blu-ray]](https://www.amazon.de/dp/B003KHG5HM/?tag=tolees0ca-21)  with  77.11 % discount, final price tag of  2.74 EUR (original: 11.97 EUR) here:
 
 [![Shutter Island [Blu-ray]](https://m.media-amazon.com/images/I/51V9wUNL4FL._SL200_.jpg)](https://www.amazon.de/dp/B003KHG5HM/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B003KHG5HM/?tag=tolees0ca-21)
+[Buy it now!!](https://www.amazon.de/dp/B003KHG5HM/?tag=tolees0ca-21)

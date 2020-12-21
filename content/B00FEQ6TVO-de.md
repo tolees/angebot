@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'POLAR Activity Tracker Loop  schwarz  90 al 45.52 % de descuento'
+title: 'Discount of 45.52 % for POLAR Activity Tracker Loop  schwarz  90'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31TeM2XTiXL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '45.52'
 average: '44.95'
 ---
 
-Está [POLAR Activity Tracker Loop  schwarz  90047656](https://www.amazon.de/dp/B00FEQ6TVO/?tag=tolees0ca-21) con 45.52 de descuento por 44.95 EUR (original: 82.5 EUR) en el siguiente enlace!
+You've got [POLAR Activity Tracker Loop  schwarz  90047656](https://www.amazon.de/dp/B00FEQ6TVO/?tag=tolees0ca-21) with a  45.52 % discount, with final price of 44.95 EUR (original: 82.5 EUR) at the following link:
 
 [![POLAR Activity Tracker Loop  schwarz  90](https://images-eu.ssl-images-amazon.com/images/I/31TeM2XTiXL._SL200_.jpg)](https://www.amazon.de/dp/B00FEQ6TVO/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00FEQ6TVO/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00FEQ6TVO/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 30.87 % en Eschenbach Optik OPTIK Fernglas klein  w'
+title: 'Discount of 30.87 % for Eschenbach Optik OPTIK Fernglas klein  w'
 date: 2020-09-26 15:43:15
 image: 'https://m.media-amazon.com/images/I/41n9uyIhwuL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.87'
 average: '38.02'
 ---
 
-Tienes [Eschenbach Optik OPTIK Fernglas klein  weiß  VIVA 6X15 NEW](https://www.amazon.de/dp/B00PBVTMQG/?tag=tolees0ca-21) con un 30.87 % de descuento con precio de oferta de 38.02 EUR (original: 55.0 EUR) en el siguiente enlace!
+You've got [Eschenbach Optik OPTIK Fernglas klein  weiß  VIVA 6X15 NEW](https://www.amazon.de/dp/B00PBVTMQG/?tag=tolees0ca-21) with a  30.87 % discount, with final price of 38.02 EUR (original: 55.0 EUR) at the following link:
 
 [![Eschenbach Optik OPTIK Fernglas klein  w](https://m.media-amazon.com/images/I/41n9uyIhwuL._SL200_.jpg)](https://www.amazon.de/dp/B00PBVTMQG/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B00PBVTMQG/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00PBVTMQG/?tag=tolees0ca-21)

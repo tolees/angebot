@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'THE LEGO MOVIE 2 70830 Sweet Mischmaschs al 52.18 % de descuento'
+title: 'Discount of 52.18 % for THE LEGO MOVIE 2 70830 Sweet Mischmaschs'
 date: 2020-04-07 21:33:04
 image: 'https://m.media-amazon.com/images/I/51DtbXoaDvL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '52.18'
 average: '38.892812500000005'
 ---
 
-Está [THE LEGO MOVIE 2 70830 Sweet Mischmaschs Systar Raumschiff](https://www.amazon.de/dp/B07FNN146M/?tag=tolees0ca-21) con 52.18 de descuento por 33.47 EUR (original: 69.99 EUR) en el siguiente enlace!
+You've got [THE LEGO MOVIE 2 70830 Sweet Mischmaschs Systar Raumschiff](https://www.amazon.de/dp/B07FNN146M/?tag=tolees0ca-21) with a  52.18 % discount, with final price of 33.47 EUR (original: 69.99 EUR) at the following link:
 
 [![THE LEGO MOVIE 2 70830 Sweet Mischmaschs](https://m.media-amazon.com/images/I/51DtbXoaDvL._SL200_.jpg)](https://www.amazon.de/dp/B07FNN146M/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07FNN146M/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07FNN146M/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 33.36 % en LEGO Ninjago 70646 Drachenmeister Jay'
+title: 'Discount of 33.36 % for LEGO Ninjago 70646 Drachenmeister Jay'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51gYp2-kXxL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '33.36'
 average: '9.99'
 ---
 
-Tienes [LEGO Ninjago 70646 Drachenmeister Jay](https://www.amazon.de/dp/B0765BRCQM/?tag=tolees0ca-21) con un 33.36 % de descuento con precio de oferta de 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!
+You've got [LEGO Ninjago 70646 Drachenmeister Jay](https://www.amazon.de/dp/B0765BRCQM/?tag=tolees0ca-21) with a  33.36 % discount, with final price of 9.99 EUR (original: 14.99 EUR) at the following link:
 
 [![LEGO Ninjago 70646 Drachenmeister Jay](https://images-eu.ssl-images-amazon.com/images/I/51gYp2-kXxL._SL200_.jpg)](https://www.amazon.de/dp/B0765BRCQM/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B0765BRCQM/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B0765BRCQM/?tag=tolees0ca-21)

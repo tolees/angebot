@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil 9118 - Piratenschiff al 37.12 % de descuento'
+title: 'Discount of 37.12 % for Playmobil 9118 - Piratenschiff'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61vl2PigytL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '37.12'
 average: '16.97'
 ---
 
-Está [Playmobil 9118 - Piratenschiff](https://www.amazon.de/dp/B01LZ37U1X/?tag=tolees0ca-21) con 37.12 de descuento por 16.97 EUR (original: 26.99 EUR) en el siguiente enlace!
+You've got [Playmobil 9118 - Piratenschiff](https://www.amazon.de/dp/B01LZ37U1X/?tag=tolees0ca-21) with a  37.12 % discount, with final price of 16.97 EUR (original: 26.99 EUR) at the following link:
 
 [![Playmobil 9118 - Piratenschiff](https://images-eu.ssl-images-amazon.com/images/I/61vl2PigytL._SL200_.jpg)](https://www.amazon.de/dp/B01LZ37U1X/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B01LZ37U1X/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B01LZ37U1X/?tag=tolees0ca-21)

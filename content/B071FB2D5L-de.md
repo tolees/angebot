@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 15.52 % en Kindergarten Cop [Blu-ray]'
+title: 'Discount of 15.52 % for Kindergarten Cop [Blu-ray]'
 date: 2020-03-01 04:52:30
 image: 'https://m.media-amazon.com/images/I/514lzB0GU7L._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '15.52'
 average: '6.75'
 ---
 
-Tienes [Kindergarten Cop [Blu-ray]](https://www.amazon.de/dp/B071FB2D5L/?tag=tolees0ca-21) con un 15.52 % de descuento con precio de oferta de 6.75 EUR (original: 7.99 EUR) en el siguiente enlace!
+You've got [Kindergarten Cop [Blu-ray]](https://www.amazon.de/dp/B071FB2D5L/?tag=tolees0ca-21) with a  15.52 % discount, with final price of 6.75 EUR (original: 7.99 EUR) at the following link:
 
 [![Kindergarten Cop [Blu-ray]](https://m.media-amazon.com/images/I/514lzB0GU7L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B071FB2D5L/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B071FB2D5L/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B071FB2D5L/?tag=tolees0ca-21)

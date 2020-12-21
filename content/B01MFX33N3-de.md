@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Te Tonic - 6 Gin Tonic Infusions Aroma B con un 30.15 % de descuento'
+title: 'Te Tonic - 6 Gin Tonic Infusions Aroma B at 30.15 % discount'
 date: 2020-04-16 08:05:46
 image: 'https://m.media-amazon.com/images/I/51wr9JJVwbL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.15'
 average: '6.95'
 ---
 
-En este momento está [Te Tonic - 6 Gin Tonic Infusions Aroma Beuteln Botanicals Geschenk - Aromen Zum Verfeinern Ihres Gin. 100% Natürliche Gewürze  Kräuter  Blumen Machen Ihren Cocktail](https://www.amazon.de/dp/B01MFX33N3/?tag=tolees0ca-21) a 6.95 EUR (original: 9.95 EUR) (30.15 %  de descuento) en el siguiente enlace!
+With a final price of 6.95 EUR (original: 9.95 EUR) you can find [Te Tonic - 6 Gin Tonic Infusions Aroma Beuteln Botanicals Geschenk - Aromen Zum Verfeinern Ihres Gin. 100% Natürliche Gewürze  Kräuter  Blumen Machen Ihren Cocktail](https://www.amazon.de/dp/B01MFX33N3/?tag=tolees0ca-21) with a  30.15 % discount here:
 
 [![Te Tonic - 6 Gin Tonic Infusions Aroma B](https://m.media-amazon.com/images/I/51wr9JJVwbL._SL200_.jpg)](https://www.amazon.de/dp/B01MFX33N3/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B01MFX33N3/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B01MFX33N3/?tag=tolees0ca-21)

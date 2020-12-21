@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple iPhone XS  64GB  - Gold al 25.77 % de descuento'
+title: 'Apple iPhone XS  64GB  - Gold at 25.77 % discount'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51EDX0DWF-L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '25.77'
 average: '852.9'
 ---
 
-Ahora mismo tienes [Apple iPhone XS  64GB  - Gold](https://www.amazon.de/dp/B07HBD26C7/?tag=tolees0ca-21) a 852.9 EUR (original: 1149 EUR) (25.77 %  de descuento) en el siguiente enlace!
+With a final price of 852.9 EUR (original: 1149 EUR) you can find [Apple iPhone XS  64GB  - Gold](https://www.amazon.de/dp/B07HBD26C7/?tag=tolees0ca-21) with a  25.77 % discount here:
 
 [![Apple iPhone XS  64GB  - Gold](https://images-eu.ssl-images-amazon.com/images/I/51EDX0DWF-L._SL200_.jpg)](https://www.amazon.de/dp/B07HBD26C7/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B07HBD26C7/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B07HBD26C7/?tag=tolees0ca-21)

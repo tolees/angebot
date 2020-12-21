@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony Xperia E4 Smartphone  12 7 cm  5 Zo al 25.80 % de rebaja'
+title: 'Discount of 25.80 % for Sony Xperia E4 Smartphone  12 7 cm  5 Zo'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ADKB4NhHL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '25.80'
 average: '89'
 ---
 
-Tienes [Sony Xperia E4 Smartphone  12 7 cm  5 Zoll  IPS-Display  1 3 GHz-Quad-Core-Prozessor  5 Megapixel-Kamera  Android 4.4  Schwarz](https://www.amazon.de/dp/B00U39DBZY/?tag=tolees0ca-21) con precio final de  89 EUR (original: 119.95 EUR) (25.80 %  de rebaja) aqui!
+You've got [Sony Xperia E4 Smartphone  12 7 cm  5 Zoll  IPS-Display  1 3 GHz-Quad-Core-Prozessor  5 Megapixel-Kamera  Android 4.4  Schwarz](https://www.amazon.de/dp/B00U39DBZY/?tag=tolees0ca-21) with a  25.80 % discount, with final price of 89 EUR (original: 119.95 EUR) at the following link:
 
 [![Sony Xperia E4 Smartphone  12 7 cm  5 Zo](https://images-eu.ssl-images-amazon.com/images/I/41ADKB4NhHL._SL200_.jpg)](https://www.amazon.de/dp/B00U39DBZY/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B00U39DBZY/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00U39DBZY/?tag=tolees0ca-21)

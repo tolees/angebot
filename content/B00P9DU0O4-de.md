@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas Mädchen Stan Smith Low-Top  Weiß  al 40.80 % de rebaja'
+title: 'Adidas Mädchen Stan Smith Low-Top  Weiß  at 40.80 % discount'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OLevAApSL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '40.80'
 average: '38.45'
 ---
 
-Tienes [Adidas Mädchen Stan Smith Low-Top  Weiß  Ftwr White/Ftwr White/Bold Pink   36 EU](https://www.amazon.de/dp/B00P9DU0O4/?tag=tolees0ca-21) con precio final de  38.45 EUR (original: 64.95 EUR) (40.80 %  de rebaja) aqui!
+With a final price of 38.45 EUR (original: 64.95 EUR) you can find [Adidas Mädchen Stan Smith Low-Top  Weiß  Ftwr White/Ftwr White/Bold Pink   36 EU](https://www.amazon.de/dp/B00P9DU0O4/?tag=tolees0ca-21) with a  40.80 % discount here:
 
 [![Adidas Mädchen Stan Smith Low-Top  Weiß ](https://images-eu.ssl-images-amazon.com/images/I/41OLevAApSL._SL200_.jpg)](https://www.amazon.de/dp/B00P9DU0O4/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B00P9DU0O4/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B00P9DU0O4/?tag=tolees0ca-21)

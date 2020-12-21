@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ECCO Damen SOFT7W Sneakers  Blau  1038ma al 35.01 % de descuento'
+title: 'Discount of 35.01 % for ECCO Damen SOFT7W Sneakers  Blau  1038ma'
 date: 2020-09-27 06:16:44
 image: 'https://m.media-amazon.com/images/I/41hsfDFY7sL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '35.01'
 average: '77.99'
 ---
 
-Está [ECCO Damen SOFT7W Sneakers  Blau  1038marine   38 EU](https://www.amazon.de/dp/B015XQ6OQY/?tag=tolees0ca-21) con 35.01 de descuento por 77.99 EUR (original: 120.0 EUR) en el siguiente enlace!
+You've got [ECCO Damen SOFT7W Sneakers  Blau  1038marine   38 EU](https://www.amazon.de/dp/B015XQ6OQY/?tag=tolees0ca-21) with a  35.01 % discount, with final price of 77.99 EUR (original: 120.0 EUR) at the following link:
 
 [![ECCO Damen SOFT7W Sneakers  Blau  1038ma](https://m.media-amazon.com/images/I/41hsfDFY7sL._SL200_.jpg)](https://www.amazon.de/dp/B015XQ6OQY/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B015XQ6OQY/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B015XQ6OQY/?tag=tolees0ca-21)

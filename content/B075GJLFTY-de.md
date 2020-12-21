@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 33.37 % en Das fünfte Element [Blu-ray]'
+title: 'Discount of 33.37 % for Das fünfte Element [Blu-ray]'
 date: 2020-02-02 09:42:22
 image: 'https://m.media-amazon.com/images/I/51oOQeMhvBL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '33.37'
 average: '5.99'
 ---
 
-Tienes [Das fünfte Element [Blu-ray]](https://www.amazon.de/dp/B075GJLFTY/?tag=tolees0ca-21) con un 33.37 % de descuento con precio de oferta de 5.99 EUR (original: 8.99 EUR) en el siguiente enlace!
+You've got [Das fünfte Element [Blu-ray]](https://www.amazon.de/dp/B075GJLFTY/?tag=tolees0ca-21) with a  33.37 % discount, with final price of 5.99 EUR (original: 8.99 EUR) at the following link:
 
 [![Das fünfte Element [Blu-ray]](https://m.media-amazon.com/images/I/51oOQeMhvBL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B075GJLFTY/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B075GJLFTY/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B075GJLFTY/?tag=tolees0ca-21)

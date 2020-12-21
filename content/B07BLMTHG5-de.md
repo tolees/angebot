@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 66.69 % en Hülle für Kindle Oasis  9. Gen 2017 & 10'
+title: 'Discount of 66.69 % for Hülle für Kindle Oasis  9. Gen 2017 & 10'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y6B%2BwKRmL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '66.69'
 average: '9.99'
 ---
 
-Tienes [Hülle für Kindle Oasis  9. Gen 2017 & 10. Gen 2019 - Schutzhülle aus Echtleder  Hartschale mit Anti-Rutsch-Beschichtun Auto Sleep/Wake nur für 2017 Modell  Blau](https://www.amazon.de/dp/B07BLMTHG5/?tag=tolees0ca-21) con un 66.69 % de descuento con precio de oferta de 9.99 EUR (original: 29.99 EUR) en el siguiente enlace!
+You've got [Hülle für Kindle Oasis  9. Gen 2017 & 10. Gen 2019 - Schutzhülle aus Echtleder  Hartschale mit Anti-Rutsch-Beschichtun Auto Sleep/Wake nur für 2017 Modell  Blau](https://www.amazon.de/dp/B07BLMTHG5/?tag=tolees0ca-21) with a  66.69 % discount, with final price of 9.99 EUR (original: 29.99 EUR) at the following link:
 
 [![Hülle für Kindle Oasis  9. Gen 2017 & 10](https://images-eu.ssl-images-amazon.com/images/I/41Y6B%2BwKRmL._SL200_.jpg)](https://www.amazon.de/dp/B07BLMTHG5/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07BLMTHG5/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07BLMTHG5/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Star Wars 75226 - Inferno Squad Bat al 25.68 % de descuento'
+title: 'LEGO Star Wars 75226 - Inferno Squad Bat at 25.68 % discount'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51SlOaH10ZL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '25.68'
 average: '11.14'
 ---
 
-Está [LEGO Star Wars 75226 - Inferno Squad Battle Pack  Minifiguren](https://www.amazon.de/dp/B07FP6QRDJ/?tag=tolees0ca-21) con 25.68 de descuento por 11.14 EUR (original: 14.99 EUR) en el siguiente enlace!
+With a final price of 11.14 EUR (original: 14.99 EUR) you can find [LEGO Star Wars 75226 - Inferno Squad Battle Pack  Minifiguren](https://www.amazon.de/dp/B07FP6QRDJ/?tag=tolees0ca-21) with a  25.68 % discount here:
 
 [![LEGO Star Wars 75226 - Inferno Squad Bat](https://images-eu.ssl-images-amazon.com/images/I/51SlOaH10ZL._SL200_.jpg)](https://www.amazon.de/dp/B07FP6QRDJ/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07FP6QRDJ/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B07FP6QRDJ/?tag=tolees0ca-21)

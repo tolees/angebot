@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 31.75 % en Citizen Herren Analog Mechanisch Uhr mit'
+title: 'Discount of 31.75 % for Citizen Herren Analog Mechanisch Uhr mit'
 date: 2020-02-11 05:05:27
 image: 'https://m.media-amazon.com/images/I/51CPnrBCmIL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '31.75'
 average: '129.0'
 ---
 
-Tienes [Citizen Herren Analog Mechanisch Uhr mit Kunststoff Armband NH8380-15EE](https://www.amazon.de/dp/B01MUBNIS5/?tag=tolees0ca-21) con un 31.75 % de descuento con precio de oferta de 129.0 EUR (original: 189.0 EUR) en el siguiente enlace!
+You've got [Citizen Herren Analog Mechanisch Uhr mit Kunststoff Armband NH8380-15EE](https://www.amazon.de/dp/B01MUBNIS5/?tag=tolees0ca-21) with a  31.75 % discount, with final price of 129.0 EUR (original: 189.0 EUR) at the following link:
 
 [![Citizen Herren Analog Mechanisch Uhr mit](https://m.media-amazon.com/images/I/51CPnrBCmIL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01MUBNIS5/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B01MUBNIS5/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B01MUBNIS5/?tag=tolees0ca-21)

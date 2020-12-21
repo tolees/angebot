@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Beleuchtungsset für Lego St con un 36.94 % de descuento'
+title: 'Discount of 36.94 % for BRIKSMAX Led Beleuchtungsset für Lego St'
 date: 2020-04-14 16:24:26
 image: 'https://m.media-amazon.com/images/I/51CxkXvAauL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '36.94'
 average: '69.99'
 ---
 
-En este momento está [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Millennium Falcon  Kompatibel Mit Lego 75192 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B07TWRVHV8/?tag=tolees0ca-21) a 69.99 EUR (original: 110.99 EUR) (36.94 %  de descuento) en el siguiente enlace!
+You've got [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Millennium Falcon  Kompatibel Mit Lego 75192 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B07TWRVHV8/?tag=tolees0ca-21) with a  36.94 % discount, with final price of 69.99 EUR (original: 110.99 EUR) at the following link:
 
 [![BRIKSMAX Led Beleuchtungsset für Lego St](https://m.media-amazon.com/images/I/51CxkXvAauL._SL200_.jpg)](https://www.amazon.de/dp/B07TWRVHV8/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B07TWRVHV8/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07TWRVHV8/?tag=tolees0ca-21)

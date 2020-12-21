@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Avengers: Infinity War al 20.02 % de descuento'
+title: 'Avengers: Infinity War at 20.02 % discount'
 date: 2020-04-16 08:00:39
 image: 'https://m.media-amazon.com/images/I/51cf+RwmzbL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.02'
 average: '8.190000000000001'
 ---
 
-Ahora mismo tienes [Avengers: Infinity War](https://www.amazon.de/dp/B07CNWTJXR/?tag=tolees0ca-21) a 7.19 EUR (original: 8.99 EUR) (20.02 %  de descuento) en el siguiente enlace!
+With a final price of 7.19 EUR (original: 8.99 EUR) you can find [Avengers: Infinity War](https://www.amazon.de/dp/B07CNWTJXR/?tag=tolees0ca-21) with a  20.02 % discount here:
 
 [![Avengers: Infinity War](https://m.media-amazon.com/images/I/51cf+RwmzbL._SL200_.jpg)](https://www.amazon.de/dp/B07CNWTJXR/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B07CNWTJXR/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B07CNWTJXR/?tag=tolees0ca-21)

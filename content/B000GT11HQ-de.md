@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony SAL85F14Z  Tele-Objektiv  85 mm  F1 al 37.86 % de descuento'
+title: '37.86 % deal for Sony SAL85F14Z  Tele-Objektiv  85 mm  F1'
 date: 2020-10-01 05:53:37
 image: 'https://m.media-amazon.com/images/I/31NV1AIFwWL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '37.86'
 average: '1024.76'
 ---
 
-Está [Sony SAL85F14Z  Tele-Objektiv  85 mm  F1 4 ZA  Planar T*  A-Mount Vollformat  geeignet für A99 Serie  schwarz](https://www.amazon.de/dp/B000GT11HQ/?tag=tolees0ca-21) con 37.86 de descuento por 1024.76 EUR (original: 1649.0 EUR) en el siguiente enlace!
+There's a deal [Sony SAL85F14Z  Tele-Objektiv  85 mm  F1 4 ZA  Planar T*  A-Mount Vollformat  geeignet für A99 Serie  schwarz](https://www.amazon.de/dp/B000GT11HQ/?tag=tolees0ca-21)  with  37.86 % discount, final price tag of  1024.76 EUR (original: 1649.0 EUR) here:
 
 [![Sony SAL85F14Z  Tele-Objektiv  85 mm  F1](https://m.media-amazon.com/images/I/31NV1AIFwWL._SL200_.jpg)](https://www.amazon.de/dp/B000GT11HQ/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B000GT11HQ/?tag=tolees0ca-21)
+[Buy it now!!](https://www.amazon.de/dp/B000GT11HQ/?tag=tolees0ca-21)

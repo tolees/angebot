@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Beloved Antichrist al 29.97 % de descuento'
+title: 'Beloved Antichrist at 29.97 % discount'
 date: 2020-09-26 22:49:18
 image: 'https://m.media-amazon.com/images/I/61jmUmUn3SL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '29.97'
 average: '8.06'
 ---
 
-Está [Beloved Antichrist](https://www.amazon.de/dp/B077VB1S1W/?tag=tolees0ca-21) con 29.97 de descuento por 8.06 EUR (original: 11.51 EUR) en el siguiente enlace!
+With a final price of 8.06 EUR (original: 11.51 EUR) you can find [Beloved Antichrist](https://www.amazon.de/dp/B077VB1S1W/?tag=tolees0ca-21) with a  29.97 % discount here:
 
 [![Beloved Antichrist](https://m.media-amazon.com/images/I/61jmUmUn3SL._SL200_.jpg)](https://www.amazon.de/dp/B077VB1S1W/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B077VB1S1W/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B077VB1S1W/?tag=tolees0ca-21)

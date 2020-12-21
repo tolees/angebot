@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amazfit GTS con un 17.99 % de descuento'
+title: 'Discount of 17.99 % for Amazfit GTS'
 date: 2020-03-12 21:17:21
 image: 'https://m.media-amazon.com/images/I/41Tm6FiFHkL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '17.99'
 average: '110.4975'
 ---
 
-En este momento está [Amazfit GTS](https://www.amazon.de/dp/B07XWT23FZ/?tag=tolees0ca-21) a 113.99 EUR (original: 139.0 EUR) (17.99 %  de descuento) en el siguiente enlace!
+You've got [Amazfit GTS](https://www.amazon.de/dp/B07XWT23FZ/?tag=tolees0ca-21) with a  17.99 % discount, with final price of 113.99 EUR (original: 139.0 EUR) at the following link:
 
 [![Amazfit GTS](https://m.media-amazon.com/images/I/41Tm6FiFHkL._SL200_.jpg)](https://www.amazon.de/dp/B07XWT23FZ/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B07XWT23FZ/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07XWT23FZ/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Django Unchained [Blu-ray] al 59.89 % de descuento'
+title: 'Discount of 59.89 % for Django Unchained [Blu-ray]'
 date: 2020-04-14 15:57:43
 image: 'https://m.media-amazon.com/images/I/514Sgw76OVL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '59.89'
 average: '4.776'
 ---
 
-Está [Django Unchained [Blu-ray]](https://www.amazon.de/dp/B00APVW06G/?tag=tolees0ca-21) con 59.89 de descuento por 3.59 EUR (original: 8.95 EUR) en el siguiente enlace!
+You've got [Django Unchained [Blu-ray]](https://www.amazon.de/dp/B00APVW06G/?tag=tolees0ca-21) with a  59.89 % discount, with final price of 3.59 EUR (original: 8.95 EUR) at the following link:
 
 [![Django Unchained [Blu-ray]](https://m.media-amazon.com/images/I/514Sgw76OVL._SL200_.jpg)](https://www.amazon.de/dp/B00APVW06G/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00APVW06G/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00APVW06G/?tag=tolees0ca-21)

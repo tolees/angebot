@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Professional 5 tlg. Hammerbohrer S al 43.29 % de descuento'
+title: 'Discount of 43.29 % for Bosch Professional 5 tlg. Hammerbohrer S'
 date: 2020-03-05 13:47:16
 image: 'https://m.media-amazon.com/images/I/41IyB75NzhL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '43.29'
 average: '14.74'
 ---
 
-Está [Bosch Professional 5 tlg. Hammerbohrer SDS Plus-7X Set  für Beton und Mauerwerk  Robust Line  Zubehör Bohrhammer ](https://www.amazon.de/dp/B01AU5SNW6/?tag=tolees0ca-21) con 43.29 de descuento por 14.74 EUR (original: 25.99 EUR) en el siguiente enlace!
+You've got [Bosch Professional 5 tlg. Hammerbohrer SDS Plus-7X Set  für Beton und Mauerwerk  Robust Line  Zubehör Bohrhammer ](https://www.amazon.de/dp/B01AU5SNW6/?tag=tolees0ca-21) with a  43.29 % discount, with final price of 14.74 EUR (original: 25.99 EUR) at the following link:
 
 [![Bosch Professional 5 tlg. Hammerbohrer S](https://m.media-amazon.com/images/I/41IyB75NzhL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01AU5SNW6/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B01AU5SNW6/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B01AU5SNW6/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony ILCA68K.CEC Alpha 68 A-Mount Digita al 33.62 % de rebaja'
+title: 'Discount of 33.62 % for Sony ILCA68K.CEC Alpha 68 A-Mount Digita'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41E3MlQJOUL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '33.62'
 average: '497.17'
 ---
 
-Tienes [Sony ILCA68K.CEC Alpha 68 A-Mount Digitalkamera  24 Megapixel  6 7 cm  2 7 Zoll  Display  79-Phasen AF-Messfelder  inkl. SAL-1855 Objektiv schwarz](https://www.amazon.de/dp/B018MQYB9Y/?tag=tolees0ca-21) con precio final de  497.17 EUR (original: 749 EUR) (33.62 %  de rebaja) aqui!
+You've got [Sony ILCA68K.CEC Alpha 68 A-Mount Digitalkamera  24 Megapixel  6 7 cm  2 7 Zoll  Display  79-Phasen AF-Messfelder  inkl. SAL-1855 Objektiv schwarz](https://www.amazon.de/dp/B018MQYB9Y/?tag=tolees0ca-21) with a  33.62 % discount, with final price of 497.17 EUR (original: 749 EUR) at the following link:
 
 [![Sony ILCA68K.CEC Alpha 68 A-Mount Digita](https://images-eu.ssl-images-amazon.com/images/I/41E3MlQJOUL._SL200_.jpg)](https://www.amazon.de/dp/B018MQYB9Y/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B018MQYB9Y/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B018MQYB9Y/?tag=tolees0ca-21)

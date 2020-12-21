@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MEDION S6445 39 5 cm  15 6 Zoll  Full HD al 51.36 % de descuento'
+title: 'Discount of 51.36 % for MEDION S6445 39 5 cm  15 6 Zoll  Full HD'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41drGDuvHwL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '51.36'
 average: '340'
 ---
 
-Ahora mismo tienes [MEDION S6445 39 5 cm  15 6 Zoll  Full HD Notebook  Intel Core i5-8265U  8GB DDR4 RAM  1TB HDD  128 GB SSD  Akku Schnellladefunktion  Win 10 Home ](https://www.amazon.de/dp/B07MQ842XS/?tag=tolees0ca-21) a 340 EUR (original: 699 EUR) (51.36 %  de descuento) en el siguiente enlace!
+You've got [MEDION S6445 39 5 cm  15 6 Zoll  Full HD Notebook  Intel Core i5-8265U  8GB DDR4 RAM  1TB HDD  128 GB SSD  Akku Schnellladefunktion  Win 10 Home ](https://www.amazon.de/dp/B07MQ842XS/?tag=tolees0ca-21) with a  51.36 % discount, with final price of 340 EUR (original: 699 EUR) at the following link:
 
 [![MEDION S6445 39 5 cm  15 6 Zoll  Full HD](https://images-eu.ssl-images-amazon.com/images/I/41drGDuvHwL._SL200_.jpg)](https://www.amazon.de/dp/B07MQ842XS/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B07MQ842XS/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07MQ842XS/?tag=tolees0ca-21)

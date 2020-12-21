@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO City 60173 - Bergpolizei Festnahme  al 28.01 % de rebaja'
+title: 'Discount of 28.01 % for LEGO City 60173 - Bergpolizei Festnahme '
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61G5GqBuiwL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '28.01'
 average: '35.99'
 ---
 
-Tienes [LEGO City 60173 - Bergpolizei Festnahme in den Bergen  Kinderspielzeug](https://www.amazon.de/dp/B075GWF9YP/?tag=tolees0ca-21) con precio final de  35.99 EUR (original: 49.99 EUR) (28.01 %  de rebaja) aqui!
+You've got [LEGO City 60173 - Bergpolizei Festnahme in den Bergen  Kinderspielzeug](https://www.amazon.de/dp/B075GWF9YP/?tag=tolees0ca-21) with a  28.01 % discount, with final price of 35.99 EUR (original: 49.99 EUR) at the following link:
 
 [![LEGO City 60173 - Bergpolizei Festnahme ](https://images-eu.ssl-images-amazon.com/images/I/61G5GqBuiwL._SL200_.jpg)](https://www.amazon.de/dp/B075GWF9YP/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B075GWF9YP/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B075GWF9YP/?tag=tolees0ca-21)

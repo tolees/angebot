@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Transport Fever 2 con un 15.57 % de descuento'
+title: 'Discount of 15.57 % for Transport Fever 2'
 date: 2020-03-05 09:46:36
 image: 'https://m.media-amazon.com/images/I/51+zTG+IUPL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '15.57'
 average: '31.23'
 ---
 
-En este momento está [Transport Fever 2](https://www.amazon.de/dp/B07V83KSVM/?tag=tolees0ca-21) a 31.23 EUR (original: 36.99 EUR) (15.57 %  de descuento) en el siguiente enlace!
+You've got [Transport Fever 2](https://www.amazon.de/dp/B07V83KSVM/?tag=tolees0ca-21) with a  15.57 % discount, with final price of 31.23 EUR (original: 36.99 EUR) at the following link:
 
 [![Transport Fever 2](https://m.media-amazon.com/images/I/51+zTG+IUPL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07V83KSVM/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B07V83KSVM/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07V83KSVM/?tag=tolees0ca-21)

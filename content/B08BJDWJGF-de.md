@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tres Chicon Mezcal Artesanal  100% Espad con un 20.00 % de descuento'
+title: '20.00 % deal for Tres Chicon Mezcal Artesanal  100% Espad'
 date: 2020-10-04 08:59:27
 image: 'https://m.media-amazon.com/images/I/41RLXyvDfEL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '36.8'
 ---
 
-En este momento está [Tres Chicon Mezcal Artesanal  100% Espadin Agave   1 x 0.7l ](https://www.amazon.de/dp/B08BJDWJGF/?tag=tolees0ca-21) a 36.8 EUR (original: 46.0 EUR) (20.00 %  de descuento) en el siguiente enlace!
+There's a deal [Tres Chicon Mezcal Artesanal  100% Espadin Agave   1 x 0.7l ](https://www.amazon.de/dp/B08BJDWJGF/?tag=tolees0ca-21)  with  20.00 % discount, final price tag of  36.8 EUR (original: 46.0 EUR) here:
 
 [![Tres Chicon Mezcal Artesanal  100% Espad](https://m.media-amazon.com/images/I/41RLXyvDfEL._SL200_.jpg)](https://www.amazon.de/dp/B08BJDWJGF/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B08BJDWJGF/?tag=tolees0ca-21)
+[Buy it now!!](https://www.amazon.de/dp/B08BJDWJGF/?tag=tolees0ca-21)

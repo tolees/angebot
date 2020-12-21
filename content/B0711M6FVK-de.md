@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Damen Fly Fast Tight Leggin al 35.83 % de descuento'
+title: 'Discount of 35.83 % for Under Armour Damen Fly Fast Tight Leggin'
 date: 2020-08-30 12:32:51
 image: 'https://m.media-amazon.com/images/I/31hSuZC8LgL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '35.83'
 average: '38.574'
 ---
 
-Está [Under Armour Damen Fly Fast Tight Legging  schwarz Black / Black / Reflective  MD](https://www.amazon.de/dp/B0711M6FVK/?tag=tolees0ca-21) con 35.83 de descuento por 38.47 EUR (original: 59.95 EUR) en el siguiente enlace!
+You've got [Under Armour Damen Fly Fast Tight Legging  schwarz Black / Black / Reflective  MD](https://www.amazon.de/dp/B0711M6FVK/?tag=tolees0ca-21) with a  35.83 % discount, with final price of 38.47 EUR (original: 59.95 EUR) at the following link:
 
 [![Under Armour Damen Fly Fast Tight Leggin](https://m.media-amazon.com/images/I/31hSuZC8LgL._SL200_.jpg)](https://www.amazon.de/dp/B0711M6FVK/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B0711M6FVK/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B0711M6FVK/?tag=tolees0ca-21)

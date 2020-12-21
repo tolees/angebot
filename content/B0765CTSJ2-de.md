@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 31077 Modulares Zuckerhaus  Bunt al 40.01 % de descuento'
+title: '40.01 % deal for LEGO 31077 Modulares Zuckerhaus  Bunt'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51zmEC4RPqL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '40.01'
 average: '20.99'
 ---
 
-Ahora mismo tienes [LEGO 31077 Modulares Zuckerhaus  Bunt](https://www.amazon.de/dp/B0765CTSJ2/?tag=tolees0ca-21) a 20.99 EUR (original: 34.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
+There's a deal [LEGO 31077 Modulares Zuckerhaus  Bunt](https://www.amazon.de/dp/B0765CTSJ2/?tag=tolees0ca-21)  with  40.01 % discount, final price tag of  20.99 EUR (original: 34.99 EUR) here:
 
 [![LEGO 31077 Modulares Zuckerhaus  Bunt](https://images-eu.ssl-images-amazon.com/images/I/51zmEC4RPqL._SL200_.jpg)](https://www.amazon.de/dp/B0765CTSJ2/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B0765CTSJ2/?tag=tolees0ca-21)
+[Buy it now!!](https://www.amazon.de/dp/B0765CTSJ2/?tag=tolees0ca-21)

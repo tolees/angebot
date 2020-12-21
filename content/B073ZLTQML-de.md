@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Western Digital WDBFBE0120JBK-EESN  My B con un 21.49 % de descuento'
+title: 'Western Digital WDBFBE0120JBK-EESN  My B at 21.49 % discount'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31yyf%2B9XFuL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '21.49'
 average: '369'
 ---
 
-En este momento está [Western Digital WDBFBE0120JBK-EESN  My Book Duo 12 TB  Desktop RAID External Hard Drive - USB 3.0 - 256 Bit AES-Hardwareverschlüsselung ](https://www.amazon.de/dp/B073ZLTQML/?tag=tolees0ca-21) a 369 EUR (original: 469.99 EUR) (21.49 %  de descuento) en el siguiente enlace!
+With a final price of 369 EUR (original: 469.99 EUR) you can find [Western Digital WDBFBE0120JBK-EESN  My Book Duo 12 TB  Desktop RAID External Hard Drive - USB 3.0 - 256 Bit AES-Hardwareverschlüsselung ](https://www.amazon.de/dp/B073ZLTQML/?tag=tolees0ca-21) with a  21.49 % discount here:
 
 [![Western Digital WDBFBE0120JBK-EESN  My B](https://images-eu.ssl-images-amazon.com/images/I/31yyf%2B9XFuL._SL200_.jpg)](https://www.amazon.de/dp/B073ZLTQML/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B073ZLTQML/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B073ZLTQML/?tag=tolees0ca-21)

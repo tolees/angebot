@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eastpak Padded Pak R Rucksack  40 cm  24 al 60.02 % de descuento'
+title: 'Eastpak Padded Pak R Rucksack  40 cm  24 at 60.02 % discount'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51m0w3KRMmL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '60.02'
 average: '19.99'
 ---
 
-Está [Eastpak Padded Pak R Rucksack  40 cm  24 L  Grau  Black Denim ](https://www.amazon.de/dp/B00MGON1SG/?tag=tolees0ca-21) con 60.02 de descuento por 19.99 EUR (original: 50 EUR) en el siguiente enlace!
+With a final price of 19.99 EUR (original: 50 EUR) you can find [Eastpak Padded Pak R Rucksack  40 cm  24 L  Grau  Black Denim ](https://www.amazon.de/dp/B00MGON1SG/?tag=tolees0ca-21) with a  60.02 % discount here:
 
 [![Eastpak Padded Pak R Rucksack  40 cm  24](https://images-eu.ssl-images-amazon.com/images/I/51m0w3KRMmL._SL200_.jpg)](https://www.amazon.de/dp/B00MGON1SG/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00MGON1SG/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B00MGON1SG/?tag=tolees0ca-21)

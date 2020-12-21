@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Friends 41332 - Emmas rollender Kun al 30.02 % de descuento'
+title: 'Discount of 30.02 % for LEGO Friends 41332 - Emmas rollender Kun'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51M%2BuewfHxL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.02'
 average: '13.99'
 ---
 
-Ahora mismo tienes [LEGO Friends 41332 - Emmas rollender Kunstkiosk  Cooles Kinderspielzeug](https://www.amazon.de/dp/B075T1F2XN/?tag=tolees0ca-21) a 13.99 EUR (original: 19.99 EUR) (30.02 %  de descuento) en el siguiente enlace!
+You've got [LEGO Friends 41332 - Emmas rollender Kunstkiosk  Cooles Kinderspielzeug](https://www.amazon.de/dp/B075T1F2XN/?tag=tolees0ca-21) with a  30.02 % discount, with final price of 13.99 EUR (original: 19.99 EUR) at the following link:
 
 [![LEGO Friends 41332 - Emmas rollender Kun](https://images-eu.ssl-images-amazon.com/images/I/51M%2BuewfHxL._SL200_.jpg)](https://www.amazon.de/dp/B075T1F2XN/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B075T1F2XN/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B075T1F2XN/?tag=tolees0ca-21)

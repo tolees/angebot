@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 29.87 % en All for You'
+title: 'Discount of 29.87 % for All for You'
 date: 2020-09-25 18:02:29
 image: 'https://m.media-amazon.com/images/I/41YW1OEliKL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '29.87'
 average: '3.92'
 ---
 
-Tienes [All for You](https://www.amazon.de/dp/B000AXZCOG/?tag=tolees0ca-21) con un 29.87 % de descuento con precio de oferta de 3.92 EUR (original: 5.59 EUR) en el siguiente enlace!
+You've got [All for You](https://www.amazon.de/dp/B000AXZCOG/?tag=tolees0ca-21) with a  29.87 % discount, with final price of 3.92 EUR (original: 5.59 EUR) at the following link:
 
 [![All for You](https://m.media-amazon.com/images/I/41YW1OEliKL._SL200_.jpg)](https://www.amazon.de/dp/B000AXZCOG/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B000AXZCOG/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B000AXZCOG/?tag=tolees0ca-21)

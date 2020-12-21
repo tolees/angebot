@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO City 60247 Waldbrand Buggy mit Feue al 26.18 % de descuento'
+title: 'Discount of 26.18 % for LEGO City 60247 Waldbrand Buggy mit Feue'
 date: 2020-09-28 16:27:57
 image: 'https://m.media-amazon.com/images/I/51B58HzPvTL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '26.18'
 average: '7.45'
 ---
 
-Está [LEGO City 60247 Waldbrand Buggy mit Feuerwehrmann](https://www.amazon.de/dp/B07W5PY3G6/?tag=tolees0ca-21) con 26.18 de descuento por 7.19 EUR (original: 9.74 EUR) en el siguiente enlace!
+You've got [LEGO City 60247 Waldbrand Buggy mit Feuerwehrmann](https://www.amazon.de/dp/B07W5PY3G6/?tag=tolees0ca-21) with a  26.18 % discount, with final price of 7.19 EUR (original: 9.74 EUR) at the following link:
 
 [![LEGO City 60247 Waldbrand Buggy mit Feue](https://m.media-amazon.com/images/I/51B58HzPvTL._SL200_.jpg)](https://www.amazon.de/dp/B07W5PY3G6/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07W5PY3G6/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07W5PY3G6/?tag=tolees0ca-21)

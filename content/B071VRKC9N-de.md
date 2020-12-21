@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Marvel Superheroes 2 [PlayStation 4 al 15.01 % de rebaja'
+title: '15.01 % deal for LEGO Marvel Superheroes 2 [PlayStation 4'
 date: 2020-04-02 07:40:21
 image: 'https://m.media-amazon.com/images/I/61O+th5TpML._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '15.01'
 average: '22.787999999999997'
 ---
 
-Tienes [LEGO Marvel Superheroes 2 [PlayStation 4]](https://www.amazon.de/dp/B071VRKC9N/?tag=tolees0ca-21) con precio final de  16.99 EUR (original: 19.99 EUR) (15.01 %  de rebaja) aqui!
+There's a deal [LEGO Marvel Superheroes 2 [PlayStation 4]](https://www.amazon.de/dp/B071VRKC9N/?tag=tolees0ca-21)  with  15.01 % discount, final price tag of  16.99 EUR (original: 19.99 EUR) here:
 
 [![LEGO Marvel Superheroes 2 [PlayStation 4](https://m.media-amazon.com/images/I/61O+th5TpML._SL200_.jpg)](https://www.amazon.de/dp/B071VRKC9N/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B071VRKC9N/?tag=tolees0ca-21)
+[Buy it now!!](https://www.amazon.de/dp/B071VRKC9N/?tag=tolees0ca-21)

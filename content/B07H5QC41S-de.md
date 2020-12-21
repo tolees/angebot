@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Britax Römer KING II Kindersitz 9-18 kg  al 28.36 % de descuento'
+title: '28.36 % deal for Britax Römer KING II Kindersitz 9-18 kg '
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CFFVJipRL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '28.36'
 average: '146.60000000000002'
 ---
 
-Está [Britax Römer KING II Kindersitz 9-18 kg  Autositz Gruppe 1  Burgundy Red](https://www.amazon.de/dp/B07H5QC41S/?tag=tolees0ca-21) con 28.36 de descuento por 143.21 EUR (original: 199.9 EUR) en el siguiente enlace!
+There's a deal [Britax Römer KING II Kindersitz 9-18 kg  Autositz Gruppe 1  Burgundy Red](https://www.amazon.de/dp/B07H5QC41S/?tag=tolees0ca-21)  with  28.36 % discount, final price tag of  143.21 EUR (original: 199.9 EUR) here:
 
 [![Britax Römer KING II Kindersitz 9-18 kg ](https://images-eu.ssl-images-amazon.com/images/I/41CFFVJipRL._SL200_.jpg)](https://www.amazon.de/dp/B07H5QC41S/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07H5QC41S/?tag=tolees0ca-21)
+[Buy it now!!](https://www.amazon.de/dp/B07H5QC41S/?tag=tolees0ca-21)

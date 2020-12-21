@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Canon PIXMA PRO-10S Drucker  4800 x 2400 al 57.45 % de descuento'
+title: '57.45 % deal for Canon PIXMA PRO-10S Drucker  4800 x 2400'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31C9XmXHELL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '57.45'
 average: '300'
 ---
 
-Ahora mismo tienes [Canon PIXMA PRO-10S Drucker  4800 x 2400 dpi  USB 2.0  Ethernet  WiFi ](https://www.amazon.de/dp/B00TAS2DOO/?tag=tolees0ca-21) a 300 EUR (original: 705 EUR) (57.45 %  de descuento) en el siguiente enlace!
+There's a deal [Canon PIXMA PRO-10S Drucker  4800 x 2400 dpi  USB 2.0  Ethernet  WiFi ](https://www.amazon.de/dp/B00TAS2DOO/?tag=tolees0ca-21)  with  57.45 % discount, final price tag of  300 EUR (original: 705 EUR) here:
 
 [![Canon PIXMA PRO-10S Drucker  4800 x 2400](https://images-eu.ssl-images-amazon.com/images/I/31C9XmXHELL._SL200_.jpg)](https://www.amazon.de/dp/B00TAS2DOO/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B00TAS2DOO/?tag=tolees0ca-21)
+[Buy it now!!](https://www.amazon.de/dp/B00TAS2DOO/?tag=tolees0ca-21)

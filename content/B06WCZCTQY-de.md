@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil 9249 - Eret mit 4-Schuss-Feuer al 50.08 % de descuento'
+title: 'Discount of 50.08 % for Playmobil 9249 - Eret mit 4-Schuss-Feuer'
 date: 2020-04-07 13:21:03
 image: 'https://m.media-amazon.com/images/I/61aQGW4oeWL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.08'
 average: '10.094444444444445'
 ---
 
-Está [Playmobil 9249 - Eret mit 4-Schuss-Feuer-Balliste](https://www.amazon.de/dp/B06WCZCTQY/?tag=tolees0ca-21) con 50.08 de descuento por 9.98 EUR (original: 19.99 EUR) en el siguiente enlace!
+You've got [Playmobil 9249 - Eret mit 4-Schuss-Feuer-Balliste](https://www.amazon.de/dp/B06WCZCTQY/?tag=tolees0ca-21) with a  50.08 % discount, with final price of 9.98 EUR (original: 19.99 EUR) at the following link:
 
 [![Playmobil 9249 - Eret mit 4-Schuss-Feuer](https://m.media-amazon.com/images/I/61aQGW4oeWL._SL200_.jpg)](https://www.amazon.de/dp/B06WCZCTQY/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B06WCZCTQY/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B06WCZCTQY/?tag=tolees0ca-21)

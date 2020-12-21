@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Holy Stone Mini Drohne HS170 RC Quadroco con un 34.79 % de descuento'
+title: 'Discount of 34.79 % for Holy Stone Mini Drohne HS170 RC Quadroco'
 date: 2020-06-11 10:47:52
 image: 'https://m.media-amazon.com/images/I/51kkan+ecGL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '34.79'
 average: '29.99'
 ---
 
-En este momento está [Holy Stone Mini Drohne HS170 RC Quadrocopter 2.4GHz 6-Achsen-Gyro Helicopter ferngesteuert mit Fernbedienung  blau](https://www.amazon.de/dp/B06XSBWS3G/?tag=tolees0ca-21) a 29.99 EUR (original: 45.99 EUR) (34.79 %  de descuento) en el siguiente enlace!
+You've got [Holy Stone Mini Drohne HS170 RC Quadrocopter 2.4GHz 6-Achsen-Gyro Helicopter ferngesteuert mit Fernbedienung  blau](https://www.amazon.de/dp/B06XSBWS3G/?tag=tolees0ca-21) with a  34.79 % discount, with final price of 29.99 EUR (original: 45.99 EUR) at the following link:
 
 [![Holy Stone Mini Drohne HS170 RC Quadroco](https://m.media-amazon.com/images/I/51kkan+ecGL._SL200_.jpg)](https://www.amazon.de/dp/B06XSBWS3G/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B06XSBWS3G/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B06XSBWS3G/?tag=tolees0ca-21)

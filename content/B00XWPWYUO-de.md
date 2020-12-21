@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 39.41 % en Nike Herren Tanjun Laufschuhe  Schwarz  '
+title: 'Discount of 39.41 % for Nike Herren Tanjun Laufschuhe  Schwarz  '
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CJvqmdcFL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '39.41'
 average: '39.99'
 ---
 
-Tienes [Nike Herren Tanjun Laufschuhe  Schwarz  011 Black/White   43 EU](https://www.amazon.de/dp/B00XWPWYUO/?tag=tolees0ca-21) con un 39.41 % de descuento con precio de oferta de 39.99 EUR (original: 66 EUR) en el siguiente enlace!
+You've got [Nike Herren Tanjun Laufschuhe  Schwarz  011 Black/White   43 EU](https://www.amazon.de/dp/B00XWPWYUO/?tag=tolees0ca-21) with a  39.41 % discount, with final price of 39.99 EUR (original: 66 EUR) at the following link:
 
 [![Nike Herren Tanjun Laufschuhe  Schwarz  ](https://images-eu.ssl-images-amazon.com/images/I/41CJvqmdcFL._SL200_.jpg)](https://www.amazon.de/dp/B00XWPWYUO/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B00XWPWYUO/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00XWPWYUO/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OSRAM Smart+ LED  ZigBee Lampe mit E14 S con un 25.15 % de descuento'
+title: 'Discount of 25.15 % for OSRAM Smart+ LED  ZigBee Lampe mit E14 S'
 date: 2020-03-19 05:12:38
 image: 'https://m.media-amazon.com/images/I/31ECu2X6INL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '25.15'
 average: '11.835'
 ---
 
-En este momento está [OSRAM Smart+ LED  ZigBee Lampe mit E14 Sockel  warmweiß bis tageslicht  2000K - 6500K   dimmbar  Direkt kompatibel mit Echo Plus und Echo Show  2. Gen.   Kompatibel mit Philips Hue Bridge](https://www.amazon.de/dp/B0747VDHG3/?tag=tolees0ca-21) a 11.19 EUR (original: 14.95 EUR) (25.15 %  de descuento) en el siguiente enlace!
+You've got [OSRAM Smart+ LED  ZigBee Lampe mit E14 Sockel  warmweiß bis tageslicht  2000K - 6500K   dimmbar  Direkt kompatibel mit Echo Plus und Echo Show  2. Gen.   Kompatibel mit Philips Hue Bridge](https://www.amazon.de/dp/B0747VDHG3/?tag=tolees0ca-21) with a  25.15 % discount, with final price of 11.19 EUR (original: 14.95 EUR) at the following link:
 
 [![OSRAM Smart+ LED  ZigBee Lampe mit E14 S](https://m.media-amazon.com/images/I/31ECu2X6INL._SL200_.jpg)](https://www.amazon.de/dp/B0747VDHG3/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B0747VDHG3/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B0747VDHG3/?tag=tolees0ca-21)

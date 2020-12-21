@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 29.93 % en Oac 3cd Slipcase - Wham [3 CD]'
+title: 'Discount of 29.93 % for Oac 3cd Slipcase - Wham [3 CD]'
 date: 2020-09-25 22:01:46
 image: 'https://m.media-amazon.com/images/I/517iI+86khL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '29.93'
 average: '6.93'
 ---
 
-Tienes [Oac 3cd Slipcase - Wham [3 CD]](https://www.amazon.de/dp/B00SSEXJXU/?tag=tolees0ca-21) con un 29.93 % de descuento con precio de oferta de 6.93 EUR (original: 9.89 EUR) en el siguiente enlace!
+You've got [Oac 3cd Slipcase - Wham [3 CD]](https://www.amazon.de/dp/B00SSEXJXU/?tag=tolees0ca-21) with a  29.93 % discount, with final price of 6.93 EUR (original: 9.89 EUR) at the following link:
 
 [![Oac 3cd Slipcase - Wham [3 CD]](https://m.media-amazon.com/images/I/517iI+86khL._SL200_.jpg)](https://www.amazon.de/dp/B00SSEXJXU/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B00SSEXJXU/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00SSEXJXU/?tag=tolees0ca-21)

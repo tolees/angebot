@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Professional Stichsäge GST 90 E  6 con un 25.18 % de descuento'
+title: '25.18 % deal for Bosch Professional Stichsäge GST 90 E  6'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WMDql8xXL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '25.18'
 average: '77.99'
 ---
 
-En este momento está [Bosch Professional Stichsäge GST 90 E  650 Watt  1x Sägeblatt  Absaug-Set  Spanreißschutz  Schnitttiefe in Holz: 90 mm  im Koffer ](https://www.amazon.de/dp/B0071T3MFI/?tag=tolees0ca-21) a 77.99 EUR (original: 104.23 EUR) (25.18 %  de descuento) en el siguiente enlace!
+There's a deal [Bosch Professional Stichsäge GST 90 E  650 Watt  1x Sägeblatt  Absaug-Set  Spanreißschutz  Schnitttiefe in Holz: 90 mm  im Koffer ](https://www.amazon.de/dp/B0071T3MFI/?tag=tolees0ca-21)  with  25.18 % discount, final price tag of  77.99 EUR (original: 104.23 EUR) here:
 
 [![Bosch Professional Stichsäge GST 90 E  6](https://images-eu.ssl-images-amazon.com/images/I/41WMDql8xXL._SL200_.jpg)](https://www.amazon.de/dp/B0071T3MFI/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B0071T3MFI/?tag=tolees0ca-21)
+[Buy it now!!](https://www.amazon.de/dp/B0071T3MFI/?tag=tolees0ca-21)

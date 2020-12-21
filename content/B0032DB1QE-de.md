@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dragonball Z - Box 2/10  Episoden 36-74  al 27.05 % de descuento'
+title: 'Discount of 27.05 % for Dragonball Z - Box 2/10  Episoden 36-74 '
 date: 2020-02-24 16:23:05
 image: 'https://m.media-amazon.com/images/I/51tK0LgOrAL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '27.05'
 average: '35.74'
 ---
 
-Está [Dragonball Z - Box 2/10  Episoden 36-74  [6 DVDs]](https://www.amazon.de/dp/B0032DB1QE/?tag=tolees0ca-21) con 27.05 de descuento por 35.74 EUR (original: 48.99 EUR) en el siguiente enlace!
+You've got [Dragonball Z - Box 2/10  Episoden 36-74  [6 DVDs]](https://www.amazon.de/dp/B0032DB1QE/?tag=tolees0ca-21) with a  27.05 % discount, with final price of 35.74 EUR (original: 48.99 EUR) at the following link:
 
 [![Dragonball Z - Box 2/10  Episoden 36-74 ](https://m.media-amazon.com/images/I/51tK0LgOrAL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B0032DB1QE/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B0032DB1QE/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B0032DB1QE/?tag=tolees0ca-21)

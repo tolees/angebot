@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 36.68 % en LEGO City 60182 - Starke Fahrzeuge Picku'
+title: 'Discount of 36.68 % for LEGO City 60182 - Starke Fahrzeuge Picku'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/514Jerra7-L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '36.68'
 average: '18.99'
 ---
 
-Tienes [LEGO City 60182 - Starke Fahrzeuge Pickup und Wohnwagen  Spielzeug für Jungen und Mädchen](https://www.amazon.de/dp/B075GRSNKT/?tag=tolees0ca-21) con un 36.68 % de descuento con precio de oferta de 18.99 EUR (original: 29.99 EUR) en el siguiente enlace!
+You've got [LEGO City 60182 - Starke Fahrzeuge Pickup und Wohnwagen  Spielzeug für Jungen und Mädchen](https://www.amazon.de/dp/B075GRSNKT/?tag=tolees0ca-21) with a  36.68 % discount, with final price of 18.99 EUR (original: 29.99 EUR) at the following link:
 
 [![LEGO City 60182 - Starke Fahrzeuge Picku](https://images-eu.ssl-images-amazon.com/images/I/514Jerra7-L._SL200_.jpg)](https://www.amazon.de/dp/B075GRSNKT/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B075GRSNKT/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B075GRSNKT/?tag=tolees0ca-21)

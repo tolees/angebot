@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marantz PM6006/N1B Verstärker  2x 60 Wat al 44.91 % de descuento'
+title: 'Discount of 44.91 % for Marantz PM6006/N1B Verstärker  2x 60 Wat'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31fxnrnq2QL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '44.91'
 average: '319'
 ---
 
-Ahora mismo tienes [Marantz PM6006/N1B Verstärker  2x 60 Watt  DAC-Modus  schwarz](https://www.amazon.de/dp/B01GQFK2FA/?tag=tolees0ca-21) a 319 EUR (original: 579 EUR) (44.91 %  de descuento) en el siguiente enlace!
+You've got [Marantz PM6006/N1B Verstärker  2x 60 Watt  DAC-Modus  schwarz](https://www.amazon.de/dp/B01GQFK2FA/?tag=tolees0ca-21) with a  44.91 % discount, with final price of 319 EUR (original: 579 EUR) at the following link:
 
 [![Marantz PM6006/N1B Verstärker  2x 60 Wat](https://images-eu.ssl-images-amazon.com/images/I/31fxnrnq2QL._SL200_.jpg)](https://www.amazon.de/dp/B01GQFK2FA/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B01GQFK2FA/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B01GQFK2FA/?tag=tolees0ca-21)

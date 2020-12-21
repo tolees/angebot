@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Einhell Bohrhammer TE-RH 32 E  1250 W  5 al 42.59 % de descuento'
+title: 'Discount of 42.59 % for Einhell Bohrhammer TE-RH 32 E  1250 W  5'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41A27jzGYpL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '42.59'
 average: '86.09'
 ---
 
-Está [Einhell Bohrhammer TE-RH 32 E  1250 W  5 J  Bohrleistung Ø 32 mm  SDS-Plus-Aufnahme  Metall-Tiefenanschlag  Vibrationsdämpfung mit Andruckanzeige  Koffer ](https://www.amazon.de/dp/B00LHX6PKI/?tag=tolees0ca-21) con 42.59 de descuento por 86.09 EUR (original: 149.95 EUR) en el siguiente enlace!
+You've got [Einhell Bohrhammer TE-RH 32 E  1250 W  5 J  Bohrleistung Ø 32 mm  SDS-Plus-Aufnahme  Metall-Tiefenanschlag  Vibrationsdämpfung mit Andruckanzeige  Koffer ](https://www.amazon.de/dp/B00LHX6PKI/?tag=tolees0ca-21) with a  42.59 % discount, with final price of 86.09 EUR (original: 149.95 EUR) at the following link:
 
 [![Einhell Bohrhammer TE-RH 32 E  1250 W  5](https://images-eu.ssl-images-amazon.com/images/I/41A27jzGYpL._SL200_.jpg)](https://www.amazon.de/dp/B00LHX6PKI/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00LHX6PKI/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00LHX6PKI/?tag=tolees0ca-21)

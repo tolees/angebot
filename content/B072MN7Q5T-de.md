@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 44.72 % en GoPro Karma Grip  schwarz'
+title: 'Discount of 44.72 % for GoPro Karma Grip  schwarz'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/318UfgMCN3L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '44.72'
 average: '199'
 ---
 
-Tienes [GoPro Karma Grip  schwarz](https://www.amazon.de/dp/B072MN7Q5T/?tag=tolees0ca-21) con un 44.72 % de descuento con precio de oferta de 199 EUR (original: 359.99 EUR) en el siguiente enlace!
+You've got [GoPro Karma Grip  schwarz](https://www.amazon.de/dp/B072MN7Q5T/?tag=tolees0ca-21) with a  44.72 % discount, with final price of 199 EUR (original: 359.99 EUR) at the following link:
 
 [![GoPro Karma Grip  schwarz](https://images-eu.ssl-images-amazon.com/images/I/318UfgMCN3L._SL200_.jpg)](https://www.amazon.de/dp/B072MN7Q5T/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B072MN7Q5T/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B072MN7Q5T/?tag=tolees0ca-21)

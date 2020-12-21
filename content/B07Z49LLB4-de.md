@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Herren Jacke Stehkragen Ste al 50.04 % de rebaja'
+title: 'Discount of 50.04 % for JACK & JONES Herren Jacke Stehkragen Ste'
 date: 2020-08-28 14:08:43
 image: 'https://m.media-amazon.com/images/I/41YRDWDntTL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.04'
 average: '19.98'
 ---
 
-Tienes [JACK & JONES Herren Jacke Stehkragen Stepp XLNavy Blazer](https://www.amazon.de/dp/B07Z49LLB4/?tag=tolees0ca-21) con precio final de  19.98 EUR (original: 39.99 EUR) (50.04 %  de rebaja) aqui!
+You've got [JACK & JONES Herren Jacke Stehkragen Stepp XLNavy Blazer](https://www.amazon.de/dp/B07Z49LLB4/?tag=tolees0ca-21) with a  50.04 % discount, with final price of 19.98 EUR (original: 39.99 EUR) at the following link:
 
 [![JACK & JONES Herren Jacke Stehkragen Ste](https://m.media-amazon.com/images/I/41YRDWDntTL._SL200_.jpg)](https://www.amazon.de/dp/B07Z49LLB4/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B07Z49LLB4/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07Z49LLB4/?tag=tolees0ca-21)

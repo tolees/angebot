@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'funny-frisch goldfischli Sesam  100 g al 25.21 % de descuento'
+title: 'Discount of 25.21 % for funny-frisch goldfischli Sesam  100 g'
 date: 2020-06-11 23:17:18
 image: 'https://m.media-amazon.com/images/I/51tzsfmAlvL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '25.21'
 average: '0.89'
 ---
 
-Ahora mismo tienes [funny-frisch goldfischli Sesam  100 g](https://www.amazon.de/dp/B012I5LP7Q/?tag=tolees0ca-21) a 0.89 EUR (original: 1.19 EUR) (25.21 %  de descuento) en el siguiente enlace!
+You've got [funny-frisch goldfischli Sesam  100 g](https://www.amazon.de/dp/B012I5LP7Q/?tag=tolees0ca-21) with a  25.21 % discount, with final price of 0.89 EUR (original: 1.19 EUR) at the following link:
 
 [![funny-frisch goldfischli Sesam  100 g](https://m.media-amazon.com/images/I/51tzsfmAlvL._SL200_.jpg)](https://www.amazon.de/dp/B012I5LP7Q/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B012I5LP7Q/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B012I5LP7Q/?tag=tolees0ca-21)

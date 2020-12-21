@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mighty No.9 - Ray-Edition al 38.36 % de descuento'
+title: 'Discount of 38.36 % for Mighty No.9 - Ray-Edition'
 date: 2020-04-14 16:46:27
 image: 'https://m.media-amazon.com/images/I/610rWheeRdL._SL500_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '38.36'
 average: '4.9'
 ---
 
-Ahora mismo tienes [Mighty No.9 - Ray-Edition](https://www.amazon.de/dp/B0147DFUCS/?tag=tolees0ca-21) a 4.9 EUR (original: 7.95 EUR) (38.36 %  de descuento) en el siguiente enlace!
+You've got [Mighty No.9 - Ray-Edition](https://www.amazon.de/dp/B0147DFUCS/?tag=tolees0ca-21) with a  38.36 % discount, with final price of 4.9 EUR (original: 7.95 EUR) at the following link:
 
 [![Mighty No.9 - Ray-Edition](https://m.media-amazon.com/images/I/610rWheeRdL._SL500_._SL200_.jpg)](https://www.amazon.de/dp/B0147DFUCS/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B0147DFUCS/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B0147DFUCS/?tag=tolees0ca-21)

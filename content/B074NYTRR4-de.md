@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Krups Nescafé Dolce Gusto Lumio KP1308 K al 50.01 % de rebaja'
+title: 'Discount of 50.01 % for Krups Nescafé Dolce Gusto Lumio KP1308 K'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31BxNJRiLSL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.01'
 average: '49.99'
 ---
 
-Tienes [Krups Nescafé Dolce Gusto Lumio KP1308 Kapsel Kaffeemaschine  schwarz  1 0 l](https://www.amazon.de/dp/B074NYTRR4/?tag=tolees0ca-21) con precio final de  49.99 EUR (original: 99.99 EUR) (50.01 %  de rebaja) aqui!
+You've got [Krups Nescafé Dolce Gusto Lumio KP1308 Kapsel Kaffeemaschine  schwarz  1 0 l](https://www.amazon.de/dp/B074NYTRR4/?tag=tolees0ca-21) with a  50.01 % discount, with final price of 49.99 EUR (original: 99.99 EUR) at the following link:
 
 [![Krups Nescafé Dolce Gusto Lumio KP1308 K](https://images-eu.ssl-images-amazon.com/images/I/31BxNJRiLSL._SL200_.jpg)](https://www.amazon.de/dp/B074NYTRR4/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B074NYTRR4/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B074NYTRR4/?tag=tolees0ca-21)

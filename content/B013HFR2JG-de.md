@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Unheimliche Begegnung der Dritten Art [B al 20.26 % de descuento'
+title: 'Discount of 20.26 % for Unheimliche Begegnung der Dritten Art [B'
 date: 2020-03-11 04:57:16
 image: 'https://m.media-amazon.com/images/I/516bYhATD1L._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.26'
 average: '5.55'
 ---
 
-Ahora mismo tienes [Unheimliche Begegnung der Dritten Art [Blu-ray]](https://www.amazon.de/dp/B013HFR2JG/?tag=tolees0ca-21) a 5.55 EUR (original: 6.96 EUR) (20.26 %  de descuento) en el siguiente enlace!
+You've got [Unheimliche Begegnung der Dritten Art [Blu-ray]](https://www.amazon.de/dp/B013HFR2JG/?tag=tolees0ca-21) with a  20.26 % discount, with final price of 5.55 EUR (original: 6.96 EUR) at the following link:
 
 [![Unheimliche Begegnung der Dritten Art [B](https://m.media-amazon.com/images/I/516bYhATD1L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B013HFR2JG/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B013HFR2JG/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B013HFR2JG/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kipling Damen CITY PACK S Rucksack  Blau al 61.40 % de descuento'
+title: 'Discount of 61.40 % for Kipling Damen CITY PACK S Rucksack  Blau'
 date: 2020-04-11 12:44:51
 image: 'https://m.media-amazon.com/images/I/51BhdjwrRcL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '61.40'
 average: '34.7'
 ---
 
-Está [Kipling Damen CITY PACK S Rucksack  Blau  Deepest Blue   27x33.5x19 cm](https://www.amazon.de/dp/B06XPCMBCC/?tag=tolees0ca-21) con 61.40 de descuento por 34.7 EUR (original: 89.9 EUR) en el siguiente enlace!
+You've got [Kipling Damen CITY PACK S Rucksack  Blau  Deepest Blue   27x33.5x19 cm](https://www.amazon.de/dp/B06XPCMBCC/?tag=tolees0ca-21) with a  61.40 % discount, with final price of 34.7 EUR (original: 89.9 EUR) at the following link:
 
 [![Kipling Damen CITY PACK S Rucksack  Blau](https://m.media-amazon.com/images/I/51BhdjwrRcL._SL200_.jpg)](https://www.amazon.de/dp/B06XPCMBCC/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B06XPCMBCC/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B06XPCMBCC/?tag=tolees0ca-21)

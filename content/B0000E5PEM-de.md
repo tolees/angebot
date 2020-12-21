@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 29.38 % en The Diary of Alicia Keys'
+title: '29.38 % deal for The Diary of Alicia Keys'
 date: 2020-09-24 09:47:04
 image: 'https://m.media-amazon.com/images/I/51JVRu4PniL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '29.38'
 average: '2.86'
 ---
 
-Tienes [The Diary of Alicia Keys](https://www.amazon.de/dp/B0000E5PEM/?tag=tolees0ca-21) con un 29.38 % de descuento con precio de oferta de 2.86 EUR (original: 4.05 EUR) en el siguiente enlace!
+There's a deal [The Diary of Alicia Keys](https://www.amazon.de/dp/B0000E5PEM/?tag=tolees0ca-21)  with  29.38 % discount, final price tag of  2.86 EUR (original: 4.05 EUR) here:
 
 [![The Diary of Alicia Keys](https://m.media-amazon.com/images/I/51JVRu4PniL._SL200_.jpg)](https://www.amazon.de/dp/B0000E5PEM/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B0000E5PEM/?tag=tolees0ca-21)
+[Buy it now!!](https://www.amazon.de/dp/B0000E5PEM/?tag=tolees0ca-21)

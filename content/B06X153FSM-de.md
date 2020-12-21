@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Comedian Harmonists con un 22.47 % de descuento'
+title: 'Discount of 22.47 % for Comedian Harmonists'
 date: 2020-03-16 04:52:51
 image: 'https://m.media-amazon.com/images/I/51VyIG-XgnL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '22.47'
 average: '6.97'
 ---
 
-En este momento está [Comedian Harmonists](https://www.amazon.de/dp/B06X153FSM/?tag=tolees0ca-21) a 6.97 EUR (original: 8.99 EUR) (22.47 %  de descuento) en el siguiente enlace!
+You've got [Comedian Harmonists](https://www.amazon.de/dp/B06X153FSM/?tag=tolees0ca-21) with a  22.47 % discount, with final price of 6.97 EUR (original: 8.99 EUR) at the following link:
 
 [![Comedian Harmonists](https://m.media-amazon.com/images/I/51VyIG-XgnL._SL200_.jpg)](https://www.amazon.de/dp/B06X153FSM/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B06X153FSM/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B06X153FSM/?tag=tolees0ca-21)

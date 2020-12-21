@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 15.40 % en Captain Morgan Original Spiced Gold Rumv'
+title: '15.40 % deal for Captain Morgan Original Spiced Gold Rumv'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415dc8m-FtL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '15.40'
 average: '10.99'
 ---
 
-Tienes [Captain Morgan Original Spiced Gold Rumverschnitt  1 x 0.7 l ](https://www.amazon.de/dp/B004K1D0BG/?tag=tolees0ca-21) con un 15.40 % de descuento con precio de oferta de 10.99 EUR (original: 12.99 EUR) en el siguiente enlace!
+There's a deal [Captain Morgan Original Spiced Gold Rumverschnitt  1 x 0.7 l ](https://www.amazon.de/dp/B004K1D0BG/?tag=tolees0ca-21)  with  15.40 % discount, final price tag of  10.99 EUR (original: 12.99 EUR) here:
 
 [![Captain Morgan Original Spiced Gold Rumv](https://images-eu.ssl-images-amazon.com/images/I/415dc8m-FtL._SL200_.jpg)](https://www.amazon.de/dp/B004K1D0BG/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B004K1D0BG/?tag=tolees0ca-21)
+[Buy it now!!](https://www.amazon.de/dp/B004K1D0BG/?tag=tolees0ca-21)

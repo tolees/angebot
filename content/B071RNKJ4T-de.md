@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Pop! TV: Game of Thrones - Das Lie al 22.87 % de rebaja'
+title: 'Discount of 22.87 % for Funko Pop! TV: Game of Thrones - Das Lie'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41YicX1wA-L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '22.87'
 average: '10.79'
 ---
 
-Tienes [Funko Pop! TV: Game of Thrones - Das Lied von Eis und Feuer - Cersei Lannister Vinyl Figur](https://www.amazon.de/dp/B071RNKJ4T/?tag=tolees0ca-21) con precio final de  10.79 EUR (original: 13.99 EUR) (22.87 %  de rebaja) aqui!
+You've got [Funko Pop! TV: Game of Thrones - Das Lied von Eis und Feuer - Cersei Lannister Vinyl Figur](https://www.amazon.de/dp/B071RNKJ4T/?tag=tolees0ca-21) with a  22.87 % discount, with final price of 10.79 EUR (original: 13.99 EUR) at the following link:
 
 [![Funko Pop! TV: Game of Thrones - Das Lie](https://images-eu.ssl-images-amazon.com/images/I/41YicX1wA-L._SL200_.jpg)](https://www.amazon.de/dp/B071RNKJ4T/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B071RNKJ4T/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B071RNKJ4T/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 16.46 % en Better Call Saul - Die komplette erste S'
+title: '16.46 % deal for Better Call Saul - Die komplette erste S'
 date: 2020-03-04 13:36:47
 image: 'https://m.media-amazon.com/images/I/51UKsaAaBSL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '16.46'
 average: '11.52'
 ---
 
-Tienes [Better Call Saul - Die komplette erste Staffel [Blu-ray]](https://www.amazon.de/dp/B00TSK0N5A/?tag=tolees0ca-21) con un 16.46 % de descuento con precio de oferta de 11.52 EUR (original: 13.79 EUR) en el siguiente enlace!
+There's a deal [Better Call Saul - Die komplette erste Staffel [Blu-ray]](https://www.amazon.de/dp/B00TSK0N5A/?tag=tolees0ca-21)  with  16.46 % discount, final price tag of  11.52 EUR (original: 13.79 EUR) here:
 
 [![Better Call Saul - Die komplette erste S](https://m.media-amazon.com/images/I/51UKsaAaBSL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00TSK0N5A/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B00TSK0N5A/?tag=tolees0ca-21)
+[Buy it now!!](https://www.amazon.de/dp/B00TSK0N5A/?tag=tolees0ca-21)

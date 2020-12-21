@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Canon Mount Adapter EF-EOS M schwarz al 29.24 % de descuento'
+title: 'Canon Mount Adapter EF-EOS M schwarz at 29.24 % discount'
 date: 2020-01-22 04:30:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51JvnZ-IEiL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '29.24'
 average: '91.28'
 ---
 
-Ahora mismo tienes [Canon Mount Adapter EF-EOS M schwarz](https://www.amazon.de/dp/B008O0IE2Y/?tag=tolees0ca-21) a 91.28 EUR (original: 129 EUR) (29.24 %  de descuento) en el siguiente enlace!
+With a final price of 91.28 EUR (original: 129 EUR) you can find [Canon Mount Adapter EF-EOS M schwarz](https://www.amazon.de/dp/B008O0IE2Y/?tag=tolees0ca-21) with a  29.24 % discount here:
 
 [![Canon Mount Adapter EF-EOS M schwarz](https://images-eu.ssl-images-amazon.com/images/I/51JvnZ-IEiL._SL200_.jpg)](https://www.amazon.de/dp/B008O0IE2Y/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B008O0IE2Y/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B008O0IE2Y/?tag=tolees0ca-21)

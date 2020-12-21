@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry Herren O L Vintage Embroidery L al 35.18 % de descuento'
+title: 'Discount of 35.18 % for Superdry Herren O L Vintage Embroidery L'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/311-NHZPhpL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '35.18'
 average: '31.16'
 ---
 
-Está [Superdry Herren O L Vintage Embroidery L/S Tee Langarmshirt  Schwarz  Black 02A   XX-Large](https://www.amazon.de/dp/B07F8N51KR/?tag=tolees0ca-21) con 35.18 de descuento por 25.92 EUR (original: 39.99 EUR) en el siguiente enlace!
+You've got [Superdry Herren O L Vintage Embroidery L/S Tee Langarmshirt  Schwarz  Black 02A   XX-Large](https://www.amazon.de/dp/B07F8N51KR/?tag=tolees0ca-21) with a  35.18 % discount, with final price of 25.92 EUR (original: 39.99 EUR) at the following link:
 
 [![Superdry Herren O L Vintage Embroidery L](https://images-eu.ssl-images-amazon.com/images/I/311-NHZPhpL._SL200_.jpg)](https://www.amazon.de/dp/B07F8N51KR/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07F8N51KR/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07F8N51KR/?tag=tolees0ca-21)

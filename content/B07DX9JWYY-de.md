@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Just Cause 4 - Standard Edition - [PlayS al 44.03 % de rebaja'
+title: 'Just Cause 4 - Standard Edition - [PlayS at 44.03 % discount'
 date: 2020-10-03 19:08:33
 image: 'https://m.media-amazon.com/images/I/51fFSRTx5NL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '44.03'
 average: '10.153333333333334'
 ---
 
-Tienes [Just Cause 4 - Standard Edition - [PlayStation 4]](https://www.amazon.de/dp/B07DX9JWYY/?tag=tolees0ca-21) con precio final de  6.66 EUR (original: 11.9 EUR) (44.03 %  de rebaja) aqui!
+With a final price of 6.66 EUR (original: 11.9 EUR) you can find [Just Cause 4 - Standard Edition - [PlayStation 4]](https://www.amazon.de/dp/B07DX9JWYY/?tag=tolees0ca-21) with a  44.03 % discount here:
 
 [![Just Cause 4 - Standard Edition - [PlayS](https://m.media-amazon.com/images/I/51fFSRTx5NL._SL200_.jpg)](https://www.amazon.de/dp/B07DX9JWYY/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B07DX9JWYY/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B07DX9JWYY/?tag=tolees0ca-21)

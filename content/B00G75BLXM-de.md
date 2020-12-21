@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 29.96 % en Run the Jewels'
+title: 'Discount of 29.96 % for Run the Jewels'
 date: 2020-10-04 21:07:57
 image: 'https://m.media-amazon.com/images/I/41KoanWIkJL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '29.96'
 average: '6.99'
 ---
 
-Tienes [Run the Jewels](https://www.amazon.de/dp/B00G75BLXM/?tag=tolees0ca-21) con un 29.96 % de descuento con precio de oferta de 6.99 EUR (original: 9.98 EUR) en el siguiente enlace!
+You've got [Run the Jewels](https://www.amazon.de/dp/B00G75BLXM/?tag=tolees0ca-21) with a  29.96 % discount, with final price of 6.99 EUR (original: 9.98 EUR) at the following link:
 
 [![Run the Jewels](https://m.media-amazon.com/images/I/41KoanWIkJL._SL200_.jpg)](https://www.amazon.de/dp/B00G75BLXM/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B00G75BLXM/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00G75BLXM/?tag=tolees0ca-21)

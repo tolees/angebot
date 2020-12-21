@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Makita RP0900J Oberfräse 900 W  Blau  Si al 51.54 % de descuento'
+title: 'Makita RP0900J Oberfräse 900 W  Blau  Si at 51.54 % discount'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51r-4HNfTUL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '51.54'
 average: '143.6'
 ---
 
-Está [Makita RP0900J Oberfräse 900 W  Blau  Silber  8 x 210 mm](https://www.amazon.de/dp/B00EOLN1RU/?tag=tolees0ca-21) con 51.54 de descuento por 143.6 EUR (original: 296.31 EUR) en el siguiente enlace!
+With a final price of 143.6 EUR (original: 296.31 EUR) you can find [Makita RP0900J Oberfräse 900 W  Blau  Silber  8 x 210 mm](https://www.amazon.de/dp/B00EOLN1RU/?tag=tolees0ca-21) with a  51.54 % discount here:
 
 [![Makita RP0900J Oberfräse 900 W  Blau  Si](https://images-eu.ssl-images-amazon.com/images/I/51r-4HNfTUL._SL200_.jpg)](https://www.amazon.de/dp/B00EOLN1RU/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00EOLN1RU/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B00EOLN1RU/?tag=tolees0ca-21)

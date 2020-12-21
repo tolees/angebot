@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'THERMOS Kühltasche Classic medium 15 Lit al 40.40 % de descuento'
+title: 'Discount of 40.40 % for THERMOS Kühltasche Classic medium 15 Lit'
 date: 2020-09-07 19:56:32
 image: 'https://m.media-amazon.com/images/I/51uvHdR-dSL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '40.40'
 average: '11.89'
 ---
 
-Está [THERMOS Kühltasche Classic medium 15 Liter - Isolierte Einkaufstasche aus Polyester  blau 24 x 27 5 x 28 cm - Faltbare Isoliertasche ideal für Sport  Picknick  Büro  Auto oder Urlaub - 4080.252.150](https://www.amazon.de/dp/B00IRBFF6I/?tag=tolees0ca-21) con 40.40 de descuento por 11.89 EUR (original: 19.95 EUR) en el siguiente enlace!
+You've got [THERMOS Kühltasche Classic medium 15 Liter - Isolierte Einkaufstasche aus Polyester  blau 24 x 27 5 x 28 cm - Faltbare Isoliertasche ideal für Sport  Picknick  Büro  Auto oder Urlaub - 4080.252.150](https://www.amazon.de/dp/B00IRBFF6I/?tag=tolees0ca-21) with a  40.40 % discount, with final price of 11.89 EUR (original: 19.95 EUR) at the following link:
 
 [![THERMOS Kühltasche Classic medium 15 Lit](https://m.media-amazon.com/images/I/51uvHdR-dSL._SL200_.jpg)](https://www.amazon.de/dp/B00IRBFF6I/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00IRBFF6I/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00IRBFF6I/?tag=tolees0ca-21)

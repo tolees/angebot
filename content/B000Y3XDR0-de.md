@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 53.77 % en Bosch Professional Bohrhammer GBH 2-23 R'
+title: 'Discount of 53.77 % for Bosch Professional Bohrhammer GBH 2-23 R'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41pSyiIG%2BkL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '53.77'
 average: '169.99'
 ---
 
-Tienes [Bosch Professional Bohrhammer GBH 2-23 REA mit Absaugung  integriert  abnehmbar   Zusatzhandgriff  Koffer  0611250500](https://www.amazon.de/dp/B000Y3XDR0/?tag=tolees0ca-21) con un 53.77 % de descuento con precio de oferta de 169.99 EUR (original: 367.71 EUR) en el siguiente enlace!
+You've got [Bosch Professional Bohrhammer GBH 2-23 REA mit Absaugung  integriert  abnehmbar   Zusatzhandgriff  Koffer  0611250500](https://www.amazon.de/dp/B000Y3XDR0/?tag=tolees0ca-21) with a  53.77 % discount, with final price of 169.99 EUR (original: 367.71 EUR) at the following link:
 
 [![Bosch Professional Bohrhammer GBH 2-23 R](https://images-eu.ssl-images-amazon.com/images/I/41pSyiIG%2BkL._SL200_.jpg)](https://www.amazon.de/dp/B000Y3XDR0/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B000Y3XDR0/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B000Y3XDR0/?tag=tolees0ca-21)

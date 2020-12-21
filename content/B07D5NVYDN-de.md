@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 25.68 % en KitchenAid Küchenmaschine Artisan 4 8L O'
+title: 'Discount of 25.68 % for KitchenAid Küchenmaschine Artisan 4 8L O'
 date: 2020-04-15 11:47:03
 image: 'https://m.media-amazon.com/images/I/511X0dktdZL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '25.68'
 average: '516.995'
 ---
 
-Tienes [KitchenAid Küchenmaschine Artisan 4 8L Onyx Schwarz](https://www.amazon.de/dp/B07D5NVYDN/?tag=tolees0ca-21) con un 25.68 % de descuento con precio de oferta de 519.48 EUR (original: 699.0 EUR) en el siguiente enlace!
+You've got [KitchenAid Küchenmaschine Artisan 4 8L Onyx Schwarz](https://www.amazon.de/dp/B07D5NVYDN/?tag=tolees0ca-21) with a  25.68 % discount, with final price of 519.48 EUR (original: 699.0 EUR) at the following link:
 
 [![KitchenAid Küchenmaschine Artisan 4 8L O](https://m.media-amazon.com/images/I/511X0dktdZL._SL200_.jpg)](https://www.amazon.de/dp/B07D5NVYDN/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07D5NVYDN/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07D5NVYDN/?tag=tolees0ca-21)

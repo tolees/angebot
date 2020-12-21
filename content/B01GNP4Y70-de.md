@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 24.78 % en Dark Grey/White'
+title: 'Discount of 24.78 % for Dark Grey/White'
 date: 2020-04-11 07:47:44
 image: 'https://m.media-amazon.com/images/I/41eTOwHU1cL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '24.78'
 average: '80.99'
 ---
 
-Tienes [Dark Grey/White](https://www.amazon.de/dp/B01GNP4Y70/?tag=tolees0ca-21) con un 24.78 % de descuento con precio de oferta de 81.99 EUR (original: 109.0 EUR) en el siguiente enlace!
+You've got [Dark Grey/White](https://www.amazon.de/dp/B01GNP4Y70/?tag=tolees0ca-21) with a  24.78 % discount, with final price of 81.99 EUR (original: 109.0 EUR) at the following link:
 
 [![Dark Grey/White](https://m.media-amazon.com/images/I/41eTOwHU1cL._SL200_.jpg)](https://www.amazon.de/dp/B01GNP4Y70/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B01GNP4Y70/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B01GNP4Y70/?tag=tolees0ca-21)

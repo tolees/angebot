@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Candylocks 6054716 - Beste Freundinnen 2 con un 24.71 % de descuento'
+title: 'Discount of 24.71 % for Candylocks 6054716 - Beste Freundinnen 2'
 date: 2020-09-03 13:07:45
 image: 'https://m.media-amazon.com/images/I/41C+I3xHCDL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '24.71'
 average: '16.90222222222222'
 ---
 
-En este momento está [Candylocks 6054716 - Beste Freundinnen 2er Pack  Mint Choco Chick und Choco Lisa](https://www.amazon.de/dp/B07Q8NHYGR/?tag=tolees0ca-21) a 15.05 EUR (original: 19.99 EUR) (24.71 %  de descuento) en el siguiente enlace!
+You've got [Candylocks 6054716 - Beste Freundinnen 2er Pack  Mint Choco Chick und Choco Lisa](https://www.amazon.de/dp/B07Q8NHYGR/?tag=tolees0ca-21) with a  24.71 % discount, with final price of 15.05 EUR (original: 19.99 EUR) at the following link:
 
 [![Candylocks 6054716 - Beste Freundinnen 2](https://m.media-amazon.com/images/I/41C+I3xHCDL._SL200_.jpg)](https://www.amazon.de/dp/B07Q8NHYGR/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B07Q8NHYGR/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07Q8NHYGR/?tag=tolees0ca-21)

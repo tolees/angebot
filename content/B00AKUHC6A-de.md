@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony MDR-RF855RK Home Entertainment-Kopf al 23.32 % de descuento'
+title: 'Discount of 23.32 % for Sony MDR-RF855RK Home Entertainment-Kopf'
 date: 2020-07-31 13:15:11
 image: 'https://m.media-amazon.com/images/I/41wwZ+L5hoL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '23.32'
 average: '69.0'
 ---
 
-Está [Sony MDR-RF855RK Home Entertainment-Kopfhörer  40mm Neodym ](https://www.amazon.de/dp/B00AKUHC6A/?tag=tolees0ca-21) con 23.32 de descuento por 69.0 EUR (original: 89.99 EUR) en el siguiente enlace!
+You've got [Sony MDR-RF855RK Home Entertainment-Kopfhörer  40mm Neodym ](https://www.amazon.de/dp/B00AKUHC6A/?tag=tolees0ca-21) with a  23.32 % discount, with final price of 69.0 EUR (original: 89.99 EUR) at the following link:
 
 [![Sony MDR-RF855RK Home Entertainment-Kopf](https://m.media-amazon.com/images/I/41wwZ+L5hoL._SL200_.jpg)](https://www.amazon.de/dp/B00AKUHC6A/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00AKUHC6A/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00AKUHC6A/?tag=tolees0ca-21)

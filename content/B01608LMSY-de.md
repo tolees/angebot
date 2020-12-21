@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil 6970 - Schmück-Pony Sternchen con un 55.76 % de descuento'
+title: 'Discount of 55.76 % for Playmobil 6970 - Schmück-Pony Sternchen'
 date: 2020-02-15 15:27:48
 image: 'https://m.media-amazon.com/images/I/51zLhwT7IXL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '55.76'
 average: '2.19'
 ---
 
-En este momento está [Playmobil 6970 - Schmück-Pony Sternchen](https://www.amazon.de/dp/B01608LMSY/?tag=tolees0ca-21) a 2.19 EUR (original: 4.95 EUR) (55.76 %  de descuento) en el siguiente enlace!
+You've got [Playmobil 6970 - Schmück-Pony Sternchen](https://www.amazon.de/dp/B01608LMSY/?tag=tolees0ca-21) with a  55.76 % discount, with final price of 2.19 EUR (original: 4.95 EUR) at the following link:
 
 [![Playmobil 6970 - Schmück-Pony Sternchen](https://m.media-amazon.com/images/I/51zLhwT7IXL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01608LMSY/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B01608LMSY/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B01608LMSY/?tag=tolees0ca-21)

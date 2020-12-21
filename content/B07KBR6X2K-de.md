@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Verdict  Ltd. 2CD Box Set  al 30.01 % de descuento'
+title: 'Discount of 30.01 % for The Verdict  Ltd. 2CD Box Set '
 date: 2020-09-16 05:46:44
 image: 'https://m.media-amazon.com/images/I/51bE-TObWOL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.01'
 average: '16.79'
 ---
 
-Ahora mismo tienes [The Verdict  Ltd. 2CD Box Set ](https://www.amazon.de/dp/B07KBR6X2K/?tag=tolees0ca-21) a 16.79 EUR (original: 23.99 EUR) (30.01 %  de descuento) en el siguiente enlace!
+You've got [The Verdict  Ltd. 2CD Box Set ](https://www.amazon.de/dp/B07KBR6X2K/?tag=tolees0ca-21) with a  30.01 % discount, with final price of 16.79 EUR (original: 23.99 EUR) at the following link:
 
 [![The Verdict  Ltd. 2CD Box Set ](https://m.media-amazon.com/images/I/51bE-TObWOL._SL200_.jpg)](https://www.amazon.de/dp/B07KBR6X2K/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B07KBR6X2K/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07KBR6X2K/?tag=tolees0ca-21)

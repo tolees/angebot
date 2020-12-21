@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MI 9 6+128 GB blau al 30.06 % de descuento'
+title: 'Discount of 30.06 % for MI 9 6+128 GB blau'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41A8euncelL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.06'
 average: '349'
 ---
 
-Está [MI 9 6+128 GB blau](https://www.amazon.de/dp/B07QJDF611/?tag=tolees0ca-21) con 30.06 de descuento por 349 EUR (original: 499 EUR) en el siguiente enlace!
+You've got [MI 9 6+128 GB blau](https://www.amazon.de/dp/B07QJDF611/?tag=tolees0ca-21) with a  30.06 % discount, with final price of 349 EUR (original: 499 EUR) at the following link:
 
 [![MI 9 6+128 GB blau](https://images-eu.ssl-images-amazon.com/images/I/41A8euncelL._SL200_.jpg)](https://www.amazon.de/dp/B07QJDF611/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07QJDF611/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07QJDF611/?tag=tolees0ca-21)

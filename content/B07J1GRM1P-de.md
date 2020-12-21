@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Herren Sportjacke Light Jersey Jac al 48.61 % de descuento'
+title: 'Discount of 48.61 % for Asics Herren Sportjacke Light Jersey Jac'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DlaoGWZ4L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '48.61'
 average: '51.39'
 ---
 
-Está [Asics Herren Sportjacke Light Jersey Jacket Schwarz  Performance Black 001  Small](https://www.amazon.de/dp/B07J1GRM1P/?tag=tolees0ca-21) con 48.61 de descuento por 51.39 EUR (original: 100 EUR) en el siguiente enlace!
+You've got [Asics Herren Sportjacke Light Jersey Jacket Schwarz  Performance Black 001  Small](https://www.amazon.de/dp/B07J1GRM1P/?tag=tolees0ca-21) with a  48.61 % discount, with final price of 51.39 EUR (original: 100 EUR) at the following link:
 
 [![Asics Herren Sportjacke Light Jersey Jac](https://images-eu.ssl-images-amazon.com/images/I/41DlaoGWZ4L._SL200_.jpg)](https://www.amazon.de/dp/B07J1GRM1P/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07J1GRM1P/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07J1GRM1P/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 20.02 % en Spieland Custom Waffen Set für Mini Figu'
+title: 'Discount of 20.02 % for Spieland Custom Waffen Set für Mini Figu'
 date: 2020-04-11 08:03:58
 image: 'https://m.media-amazon.com/images/I/51fjtWKpqPL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.02'
 average: '7.99'
 ---
 
-Tienes [Spieland Custom Waffen Set für Mini Figuren SWAT Team Militär Soldaten Polizei  passen zum Lego](https://www.amazon.de/dp/B07MZP5TYN/?tag=tolees0ca-21) con un 20.02 % de descuento con precio de oferta de 7.99 EUR (original: 9.99 EUR) en el siguiente enlace!
+You've got [Spieland Custom Waffen Set für Mini Figuren SWAT Team Militär Soldaten Polizei  passen zum Lego](https://www.amazon.de/dp/B07MZP5TYN/?tag=tolees0ca-21) with a  20.02 % discount, with final price of 7.99 EUR (original: 9.99 EUR) at the following link:
 
 [![Spieland Custom Waffen Set für Mini Figu](https://m.media-amazon.com/images/I/51fjtWKpqPL._SL200_.jpg)](https://www.amazon.de/dp/B07MZP5TYN/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07MZP5TYN/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07MZP5TYN/?tag=tolees0ca-21)

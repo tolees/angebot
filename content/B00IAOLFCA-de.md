@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 26.42 % en Casio Collection Herren Armbanduhr AE-13'
+title: 'Discount of 26.42 % for Casio Collection Herren Armbanduhr AE-13'
 date: 2020-02-21 04:48:29
 image: 'https://m.media-amazon.com/images/I/51d+n1PIvML._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '26.42'
 average: '22.0'
 ---
 
-Tienes [Casio Collection Herren Armbanduhr AE-1300WH-2AVEF](https://www.amazon.de/dp/B00IAOLFCA/?tag=tolees0ca-21) con un 26.42 % de descuento con precio de oferta de 22.0 EUR (original: 29.9 EUR) en el siguiente enlace!
+You've got [Casio Collection Herren Armbanduhr AE-1300WH-2AVEF](https://www.amazon.de/dp/B00IAOLFCA/?tag=tolees0ca-21) with a  26.42 % discount, with final price of 22.0 EUR (original: 29.9 EUR) at the following link:
 
 [![Casio Collection Herren Armbanduhr AE-13](https://m.media-amazon.com/images/I/51d+n1PIvML._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00IAOLFCA/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B00IAOLFCA/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00IAOLFCA/?tag=tolees0ca-21)

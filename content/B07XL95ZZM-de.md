@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 21.71 % en Apple iPhone 11 Pro Max  256 GB  - Space'
+title: 'Discount of 21.71 % for Apple iPhone 11 Pro Max  256 GB  - Space'
 date: 2020-04-12 11:33:23
 image: 'https://m.media-amazon.com/images/I/41nsEL61+zL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '21.71'
 average: '1111.0'
 ---
 
-Tienes [Apple iPhone 11 Pro Max  256 GB  - Space Grau](https://www.amazon.de/dp/B07XL95ZZM/?tag=tolees0ca-21) con un 21.71 % de descuento con precio de oferta de 1111.0 EUR (original: 1419.0 EUR) en el siguiente enlace!
+You've got [Apple iPhone 11 Pro Max  256 GB  - Space Grau](https://www.amazon.de/dp/B07XL95ZZM/?tag=tolees0ca-21) with a  21.71 % discount, with final price of 1111.0 EUR (original: 1419.0 EUR) at the following link:
 
 [![Apple iPhone 11 Pro Max  256 GB  - Space](https://m.media-amazon.com/images/I/41nsEL61+zL._SL200_.jpg)](https://www.amazon.de/dp/B07XL95ZZM/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07XL95ZZM/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07XL95ZZM/?tag=tolees0ca-21)

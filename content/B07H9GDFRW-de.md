@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony SF-G128T SD-Speicherkarte  128 GB   al 25.93 % de rebaja'
+title: 'Sony SF-G128T SD-Speicherkarte  128 GB   at 25.93 % discount'
 date: 2020-09-17 09:20:17
 image: 'https://m.media-amazon.com/images/I/41WGpdxTp7L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '25.93'
 average: '199.57800000000003'
 ---
 
-Tienes [Sony SF-G128T SD-Speicherkarte  128 GB  UHS-II  SD Tough  G Serie ](https://www.amazon.de/dp/B07H9GDFRW/?tag=tolees0ca-21) con precio final de  199.99 EUR (original: 270.0 EUR) (25.93 %  de rebaja) aqui!
+With a final price of 199.99 EUR (original: 270.0 EUR) you can find [Sony SF-G128T SD-Speicherkarte  128 GB  UHS-II  SD Tough  G Serie ](https://www.amazon.de/dp/B07H9GDFRW/?tag=tolees0ca-21) with a  25.93 % discount here:
 
 [![Sony SF-G128T SD-Speicherkarte  128 GB  ](https://m.media-amazon.com/images/I/41WGpdxTp7L._SL200_.jpg)](https://www.amazon.de/dp/B07H9GDFRW/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B07H9GDFRW/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B07H9GDFRW/?tag=tolees0ca-21)

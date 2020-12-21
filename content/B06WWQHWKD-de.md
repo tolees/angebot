@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ravensburger 13698 - Magische Einhörner  al 40.10 % de descuento'
+title: 'Discount of 40.10 % for Ravensburger 13698 - Magische Einhörner '
 date: 2020-03-19 05:14:17
 image: 'https://m.media-amazon.com/images/I/51ulcZyeZIL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '40.10'
 average: '8.38'
 ---
 
-Está [Ravensburger 13698 - Magische Einhörner Puzzle](https://www.amazon.de/dp/B06WWQHWKD/?tag=tolees0ca-21) con 40.10 de descuento por 8.38 EUR (original: 13.99 EUR) en el siguiente enlace!
+You've got [Ravensburger 13698 - Magische Einhörner Puzzle](https://www.amazon.de/dp/B06WWQHWKD/?tag=tolees0ca-21) with a  40.10 % discount, with final price of 8.38 EUR (original: 13.99 EUR) at the following link:
 
 [![Ravensburger 13698 - Magische Einhörner ](https://m.media-amazon.com/images/I/51ulcZyeZIL._SL200_.jpg)](https://www.amazon.de/dp/B06WWQHWKD/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B06WWQHWKD/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B06WWQHWKD/?tag=tolees0ca-21)

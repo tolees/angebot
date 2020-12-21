@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Detektiv Conan - TV-Serie - Vol.9 - [DVD con un 20.00 % de descuento'
+title: 'Discount of 20.00 % for Detektiv Conan - TV-Serie - Vol.9 - [DVD'
 date: 2020-04-10 23:47:01
 image: 'https://m.media-amazon.com/images/I/51PPCJ3KF3L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '39.99'
 ---
 
-En este momento está [Detektiv Conan - TV-Serie - Vol.9 - [DVD]](https://www.amazon.de/dp/B07PK6MXP8/?tag=tolees0ca-21) a 39.99 EUR (original: 49.99 EUR) (20.00 %  de descuento) en el siguiente enlace!
+You've got [Detektiv Conan - TV-Serie - Vol.9 - [DVD]](https://www.amazon.de/dp/B07PK6MXP8/?tag=tolees0ca-21) with a  20.00 % discount, with final price of 39.99 EUR (original: 49.99 EUR) at the following link:
 
 [![Detektiv Conan - TV-Serie - Vol.9 - [DVD](https://m.media-amazon.com/images/I/51PPCJ3KF3L._SL200_.jpg)](https://www.amazon.de/dp/B07PK6MXP8/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B07PK6MXP8/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07PK6MXP8/?tag=tolees0ca-21)

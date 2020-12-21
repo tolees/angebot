@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 66.48 % en Varta V381 Knopfzelle  45mAh  1 Stück '
+title: 'Discount of 66.48 % for Varta V381 Knopfzelle  45mAh  1 Stück '
 date: 2020-03-15 04:42:09
 image: 'https://m.media-amazon.com/images/I/41egpESCPtL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '66.48'
 average: '0.61'
 ---
 
-Tienes [Varta V381 Knopfzelle  45mAh  1 Stück ](https://www.amazon.de/dp/B000EGWODQ/?tag=tolees0ca-21) con un 66.48 % de descuento con precio de oferta de 0.61 EUR (original: 1.82 EUR) en el siguiente enlace!
+You've got [Varta V381 Knopfzelle  45mAh  1 Stück ](https://www.amazon.de/dp/B000EGWODQ/?tag=tolees0ca-21) with a  66.48 % discount, with final price of 0.61 EUR (original: 1.82 EUR) at the following link:
 
 [![Varta V381 Knopfzelle  45mAh  1 Stück ](https://m.media-amazon.com/images/I/41egpESCPtL._SL200_.jpg)](https://www.amazon.de/dp/B000EGWODQ/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B000EGWODQ/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B000EGWODQ/?tag=tolees0ca-21)

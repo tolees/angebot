@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsonite Aeris Upright L Koffer  78 cm  al 40.00 % de descuento'
+title: 'Samsonite Aeris Upright L Koffer  78 cm  at 40.00 % discount'
 date: 2020-04-03 07:01:46
 image: 'https://m.media-amazon.com/images/I/41XzN2l1NpL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '40.00'
 average: '119.4'
 ---
 
-Está [Samsonite Aeris Upright L Koffer  78 cm  118.5 L  Schwarz  Black ](https://www.amazon.de/dp/B00106XCYY/?tag=tolees0ca-21) con 40.00 de descuento por 119.4 EUR (original: 199.0 EUR) en el siguiente enlace!
+With a final price of 119.4 EUR (original: 199.0 EUR) you can find [Samsonite Aeris Upright L Koffer  78 cm  118.5 L  Schwarz  Black ](https://www.amazon.de/dp/B00106XCYY/?tag=tolees0ca-21) with a  40.00 % discount here:
 
 [![Samsonite Aeris Upright L Koffer  78 cm ](https://m.media-amazon.com/images/I/41XzN2l1NpL._SL200_.jpg)](https://www.amazon.de/dp/B00106XCYY/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00106XCYY/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B00106XCYY/?tag=tolees0ca-21)

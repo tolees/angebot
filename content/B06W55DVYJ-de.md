@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 26.36 % en LEGO Minecraft 21135 - Die Crafting-Box '
+title: 'LEGO Minecraft 21135 - Die Crafting-Box  at 26.36 % discount'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61RLdOUGU7L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '26.36'
 average: '51.54'
 ---
 
-Tienes [LEGO Minecraft 21135 - Die Crafting-Box 2.0](https://www.amazon.de/dp/B06W55DVYJ/?tag=tolees0ca-21) con un 26.36 % de descuento con precio de oferta de 51.54 EUR (original: 69.99 EUR) en el siguiente enlace!
+With a final price of 51.54 EUR (original: 69.99 EUR) you can find [LEGO Minecraft 21135 - Die Crafting-Box 2.0](https://www.amazon.de/dp/B06W55DVYJ/?tag=tolees0ca-21) with a  26.36 % discount here:
 
 [![LEGO Minecraft 21135 - Die Crafting-Box ](https://images-eu.ssl-images-amazon.com/images/I/61RLdOUGU7L._SL200_.jpg)](https://www.amazon.de/dp/B06W55DVYJ/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B06W55DVYJ/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B06W55DVYJ/?tag=tolees0ca-21)

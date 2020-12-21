@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sink or Swim al 30.05 % de rebaja'
+title: 'Discount of 30.05 % for Sink or Swim'
 date: 2020-09-26 02:13:57
 image: 'https://m.media-amazon.com/images/I/61hxRobR3tL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.05'
 average: '6.68'
 ---
 
-Tienes [Sink or Swim](https://www.amazon.de/dp/B000U54QTQ/?tag=tolees0ca-21) con precio final de  6.68 EUR (original: 9.55 EUR) (30.05 %  de rebaja) aqui!
+You've got [Sink or Swim](https://www.amazon.de/dp/B000U54QTQ/?tag=tolees0ca-21) with a  30.05 % discount, with final price of 6.68 EUR (original: 9.55 EUR) at the following link:
 
 [![Sink or Swim](https://m.media-amazon.com/images/I/61hxRobR3tL._SL200_.jpg)](https://www.amazon.de/dp/B000U54QTQ/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B000U54QTQ/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B000U54QTQ/?tag=tolees0ca-21)

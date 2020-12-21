@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Canon EW-73 B Gegenlichtblende für Canon al 16.39 % de rebaja'
+title: 'Discount of 16.39 % for Canon EW-73 B Gegenlichtblende für Canon'
 date: 2020-09-22 07:44:26
 image: 'https://m.media-amazon.com/images/I/31POXFEMExL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '16.39'
 average: '19.9'
 ---
 
-Tienes [Canon EW-73 B Gegenlichtblende für Canon Objektiv EF-S 17-85mm](https://www.amazon.de/dp/B0009FTXJU/?tag=tolees0ca-21) con precio final de  19.9 EUR (original: 23.8 EUR) (16.39 %  de rebaja) aqui!
+You've got [Canon EW-73 B Gegenlichtblende für Canon Objektiv EF-S 17-85mm](https://www.amazon.de/dp/B0009FTXJU/?tag=tolees0ca-21) with a  16.39 % discount, with final price of 19.9 EUR (original: 23.8 EUR) at the following link:
 
 [![Canon EW-73 B Gegenlichtblende für Canon](https://m.media-amazon.com/images/I/31POXFEMExL._SL200_.jpg)](https://www.amazon.de/dp/B0009FTXJU/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B0009FTXJU/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B0009FTXJU/?tag=tolees0ca-21)

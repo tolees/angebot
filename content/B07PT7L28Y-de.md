@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Carrera GO!!! PLUS DTM Speed Record 2006 con un 23.16 % de descuento'
+title: 'Discount of 23.16 % for Carrera GO!!! PLUS DTM Speed Record 2006'
 date: 2020-06-11 12:10:24
 image: 'https://m.media-amazon.com/images/I/51sN-LQUTfL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '23.16'
 average: '72.99'
 ---
 
-En este momento está [Carrera GO!!! PLUS DTM Speed Record 20066009 Autorennbahn Set](https://www.amazon.de/dp/B07PT7L28Y/?tag=tolees0ca-21) a 72.99 EUR (original: 94.99 EUR) (23.16 %  de descuento) en el siguiente enlace!
+You've got [Carrera GO!!! PLUS DTM Speed Record 20066009 Autorennbahn Set](https://www.amazon.de/dp/B07PT7L28Y/?tag=tolees0ca-21) with a  23.16 % discount, with final price of 72.99 EUR (original: 94.99 EUR) at the following link:
 
 [![Carrera GO!!! PLUS DTM Speed Record 2006](https://m.media-amazon.com/images/I/51sN-LQUTfL._SL200_.jpg)](https://www.amazon.de/dp/B07PT7L28Y/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B07PT7L28Y/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07PT7L28Y/?tag=tolees0ca-21)

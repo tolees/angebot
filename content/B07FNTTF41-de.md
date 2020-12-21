@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 76123 - Marvel Super Heroes Captain al 26.11 % de descuento'
+title: 'Discount of 26.11 % for LEGO 76123 - Marvel Super Heroes Captain'
 date: 2020-10-07 12:34:32
 image: 'https://m.media-amazon.com/images/I/51hgxCHT9iL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '26.11'
 average: '18.41'
 ---
 
-Está [LEGO 76123 - Marvel Super Heroes Captain America: Outrider-Attacke](https://www.amazon.de/dp/B07FNTTF41/?tag=tolees0ca-21) con 26.11 de descuento por 18.0 EUR (original: 24.36 EUR) en el siguiente enlace!
+You've got [LEGO 76123 - Marvel Super Heroes Captain America: Outrider-Attacke](https://www.amazon.de/dp/B07FNTTF41/?tag=tolees0ca-21) with a  26.11 % discount, with final price of 18.0 EUR (original: 24.36 EUR) at the following link:
 
 [![LEGO 76123 - Marvel Super Heroes Captain](https://m.media-amazon.com/images/I/51hgxCHT9iL._SL200_.jpg)](https://www.amazon.de/dp/B07FNTTF41/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07FNTTF41/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07FNTTF41/?tag=tolees0ca-21)

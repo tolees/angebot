@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Braun Series 5 5197cc Elektrorasierer -  al 50.00 % de descuento'
+title: '50.00 % deal for Braun Series 5 5197cc Elektrorasierer - '
 date: 
 image: 'http://images.amazon.com/images/P/B071WVXLZB.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.00'
 average: '129.99'
 ---
 
-Está [Braun Series 5 5197cc Elektrorasierer - kabelloser  elektrischer Herren Rasierer mit Lade- und Reinigungsstation  schwarz/blau/chrom](https://www.amazon.de/dp/B071WVXLZB/?tag=tolees0ca-21) con 50.00 de descuento por 129.99 EUR (original: 259.99 EUR) en el siguiente enlace!
+There's a deal [Braun Series 5 5197cc Elektrorasierer - kabelloser  elektrischer Herren Rasierer mit Lade- und Reinigungsstation  schwarz/blau/chrom](https://www.amazon.de/dp/B071WVXLZB/?tag=tolees0ca-21)  with  50.00 % discount, final price tag of  129.99 EUR (original: 259.99 EUR) here:
 
 [![Braun Series 5 5197cc Elektrorasierer - ](http://images.amazon.com/images/P/B071WVXLZB.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.de/dp/B071WVXLZB/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B071WVXLZB/?tag=tolees0ca-21)
+[Buy it now!!](https://www.amazon.de/dp/B071WVXLZB/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Schleich 42389 - Reitschule mit Reiterin al 48.86 % de rebaja'
+title: 'Discount of 48.86 % for Schleich 42389 - Reitschule mit Reiterin'
 date: 2020-03-11 08:32:40
 image: 'https://m.media-amazon.com/images/I/51N8tWehzwL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '48.86'
 average: '37.85'
 ---
 
-Tienes [Schleich 42389 - Reitschule mit Reiterinnen und Pferden](https://www.amazon.de/dp/B06W9GCQHR/?tag=tolees0ca-21) con precio final de  35.79 EUR (original: 69.99 EUR) (48.86 %  de rebaja) aqui!
+You've got [Schleich 42389 - Reitschule mit Reiterinnen und Pferden](https://www.amazon.de/dp/B06W9GCQHR/?tag=tolees0ca-21) with a  48.86 % discount, with final price of 35.79 EUR (original: 69.99 EUR) at the following link:
 
 [![Schleich 42389 - Reitschule mit Reiterin](https://m.media-amazon.com/images/I/51N8tWehzwL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B06W9GCQHR/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B06W9GCQHR/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B06W9GCQHR/?tag=tolees0ca-21)

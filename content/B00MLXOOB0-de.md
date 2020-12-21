@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 47.89 % en Sony CMT-X3CD Micro-HiFi System  CD  USB'
+title: 'Discount of 47.89 % for Sony CMT-X3CD Micro-HiFi System  CD  USB'
 date: 2020-03-20 09:53:45
 image: 'https://m.media-amazon.com/images/I/51NBmmj708L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '47.89'
 average: '99.0'
 ---
 
-Tienes [Sony CMT-X3CD Micro-HiFi System  CD  USB  Bluetooth  20 Watt  schwarz](https://www.amazon.de/dp/B00MLXOOB0/?tag=tolees0ca-21) con un 47.89 % de descuento con precio de oferta de 99.0 EUR (original: 189.99 EUR) en el siguiente enlace!
+You've got [Sony CMT-X3CD Micro-HiFi System  CD  USB  Bluetooth  20 Watt  schwarz](https://www.amazon.de/dp/B00MLXOOB0/?tag=tolees0ca-21) with a  47.89 % discount, with final price of 99.0 EUR (original: 189.99 EUR) at the following link:
 
 [![Sony CMT-X3CD Micro-HiFi System  CD  USB](https://m.media-amazon.com/images/I/51NBmmj708L._SL200_.jpg)](https://www.amazon.de/dp/B00MLXOOB0/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B00MLXOOB0/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00MLXOOB0/?tag=tolees0ca-21)

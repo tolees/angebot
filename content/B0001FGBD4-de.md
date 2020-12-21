@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Concord Jazz Sacd Sampler Vol. al 30.18 % de rebaja'
+title: '30.18 % deal for Concord Jazz Sacd Sampler Vol.'
 date: 2020-10-05 11:36:59
 image: 'https://m.media-amazon.com/images/I/51PheKmYo+L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.18'
 average: '8.93'
 ---
 
-Tienes [Concord Jazz Sacd Sampler Vol.](https://www.amazon.de/dp/B0001FGBD4/?tag=tolees0ca-21) con precio final de  8.93 EUR (original: 12.79 EUR) (30.18 %  de rebaja) aqui!
+There's a deal [Concord Jazz Sacd Sampler Vol.](https://www.amazon.de/dp/B0001FGBD4/?tag=tolees0ca-21)  with  30.18 % discount, final price tag of  8.93 EUR (original: 12.79 EUR) here:
 
 [![Concord Jazz Sacd Sampler Vol.](https://m.media-amazon.com/images/I/51PheKmYo+L._SL200_.jpg)](https://www.amazon.de/dp/B0001FGBD4/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B0001FGBD4/?tag=tolees0ca-21)
+[Buy it now!!](https://www.amazon.de/dp/B0001FGBD4/?tag=tolees0ca-21)

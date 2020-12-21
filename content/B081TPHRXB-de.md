@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Damen 3-Streifen Kapuzenjacke  Bl al 27.64 % de descuento'
+title: 'Discount of 27.64 % for adidas Damen 3-Streifen Kapuzenjacke  Bl'
 date: 2020-08-25 23:18:58
 image: 'https://m.media-amazon.com/images/I/41pnvNesFuL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '27.64'
 average: '43.38'
 ---
 
-Está [adidas Damen 3-Streifen Kapuzenjacke  Black/White  M](https://www.amazon.de/dp/B081TPHRXB/?tag=tolees0ca-21) con 27.64 de descuento por 43.38 EUR (original: 59.95 EUR) en el siguiente enlace!
+You've got [adidas Damen 3-Streifen Kapuzenjacke  Black/White  M](https://www.amazon.de/dp/B081TPHRXB/?tag=tolees0ca-21) with a  27.64 % discount, with final price of 43.38 EUR (original: 59.95 EUR) at the following link:
 
 [![adidas Damen 3-Streifen Kapuzenjacke  Bl](https://m.media-amazon.com/images/I/41pnvNesFuL._SL200_.jpg)](https://www.amazon.de/dp/B081TPHRXB/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B081TPHRXB/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B081TPHRXB/?tag=tolees0ca-21)

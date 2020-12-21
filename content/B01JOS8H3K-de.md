@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G & G KF6000A oder KF3000A 0 1g - 6000g  con un 57.15 % de descuento'
+title: 'Discount of 57.15 % for G & G KF6000A oder KF3000A 0 1g - 6000g '
 date: 2020-04-07 21:39:43
 image: 'https://m.media-amazon.com/images/I/41cCyuQp8yL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '57.15'
 average: '29.99'
 ---
 
-En este momento está [G & G KF6000A oder KF3000A 0 1g - 6000g Präzisionswaage Küchenwaage Briefwaage Tischwaage  KF3000A ](https://www.amazon.de/dp/B01JOS8H3K/?tag=tolees0ca-21) a 29.99 EUR (original: 69.99 EUR) (57.15 %  de descuento) en el siguiente enlace!
+You've got [G & G KF6000A oder KF3000A 0 1g - 6000g Präzisionswaage Küchenwaage Briefwaage Tischwaage  KF3000A ](https://www.amazon.de/dp/B01JOS8H3K/?tag=tolees0ca-21) with a  57.15 % discount, with final price of 29.99 EUR (original: 69.99 EUR) at the following link:
 
 [![G & G KF6000A oder KF3000A 0 1g - 6000g ](https://m.media-amazon.com/images/I/41cCyuQp8yL._SL200_.jpg)](https://www.amazon.de/dp/B01JOS8H3K/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B01JOS8H3K/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B01JOS8H3K/?tag=tolees0ca-21)

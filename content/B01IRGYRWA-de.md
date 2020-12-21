@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Yale Smart Living 303W IP Kamera Home Vi al 40.06 % de descuento'
+title: 'Yale Smart Living 303W IP Kamera Home Vi at 40.06 % discount'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41P7hUgwf9L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '40.06'
 average: '101.3'
 ---
 
-Está [Yale Smart Living 303W IP Kamera Home View Panorama - weiß - Schwenk- & Neigefunktion](https://www.amazon.de/dp/B01IRGYRWA/?tag=tolees0ca-21) con 40.06 de descuento por 101.3 EUR (original: 169 EUR) en el siguiente enlace!
+With a final price of 101.3 EUR (original: 169 EUR) you can find [Yale Smart Living 303W IP Kamera Home View Panorama - weiß - Schwenk- & Neigefunktion](https://www.amazon.de/dp/B01IRGYRWA/?tag=tolees0ca-21) with a  40.06 % discount here:
 
 [![Yale Smart Living 303W IP Kamera Home Vi](https://images-eu.ssl-images-amazon.com/images/I/41P7hUgwf9L._SL200_.jpg)](https://www.amazon.de/dp/B01IRGYRWA/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B01IRGYRWA/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B01IRGYRWA/?tag=tolees0ca-21)

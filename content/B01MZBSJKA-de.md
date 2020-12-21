@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Afterlove al 15.03 % de descuento'
+title: 'The Afterlove at 15.03 % discount'
 date: 2020-01-27 04:41:46
 image: 'https://m.media-amazon.com/images/I/517evVaVCeL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '15.03'
 average: '5.09'
 ---
 
-Está [The Afterlove](https://www.amazon.de/dp/B01MZBSJKA/?tag=tolees0ca-21) con 15.03 de descuento por 5.09 EUR (original: 5.99 EUR) en el siguiente enlace!
+With a final price of 5.09 EUR (original: 5.99 EUR) you can find [The Afterlove](https://www.amazon.de/dp/B01MZBSJKA/?tag=tolees0ca-21) with a  15.03 % discount here:
 
 [![The Afterlove](https://m.media-amazon.com/images/I/517evVaVCeL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01MZBSJKA/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B01MZBSJKA/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B01MZBSJKA/?tag=tolees0ca-21)

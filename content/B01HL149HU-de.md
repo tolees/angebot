@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KitchenAid 5KSM3311XETB  3 3-L-Mini-Küch al 50.68 % de rebaja'
+title: 'Discount of 50.68 % for KitchenAid 5KSM3311XETB  3 3-L-Mini-Küch'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41SQ9F5tf5L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.68'
 average: '295.44'
 ---
 
-Tienes [KitchenAid 5KSM3311XETB  3 3-L-Mini-Küchenmaschine mit kippbarem Motorkopf  TWILIGHT BLUE](https://www.amazon.de/dp/B01HL149HU/?tag=tolees0ca-21) con precio final de  295.44 EUR (original: 599 EUR) (50.68 %  de rebaja) aqui!
+You've got [KitchenAid 5KSM3311XETB  3 3-L-Mini-Küchenmaschine mit kippbarem Motorkopf  TWILIGHT BLUE](https://www.amazon.de/dp/B01HL149HU/?tag=tolees0ca-21) with a  50.68 % discount, with final price of 295.44 EUR (original: 599 EUR) at the following link:
 
 [![KitchenAid 5KSM3311XETB  3 3-L-Mini-Küch](https://images-eu.ssl-images-amazon.com/images/I/41SQ9F5tf5L._SL200_.jpg)](https://www.amazon.de/dp/B01HL149HU/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B01HL149HU/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B01HL149HU/?tag=tolees0ca-21)

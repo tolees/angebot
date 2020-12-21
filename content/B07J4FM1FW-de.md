@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'tonies® Hörfigur - Kreativ Weihnachtsman al 26.69 % de descuento'
+title: 'Discount of 26.69 % for tonies® Hörfigur - Kreativ Weihnachtsman'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41izLdNU8EL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '26.69'
 average: '8.79'
 ---
 
-Está [tonies® Hörfigur - Kreativ Weihnachtsmann](https://www.amazon.de/dp/B07J4FM1FW/?tag=tolees0ca-21) con 26.69 de descuento por 8.79 EUR (original: 11.99 EUR) en el siguiente enlace!
+You've got [tonies® Hörfigur - Kreativ Weihnachtsmann](https://www.amazon.de/dp/B07J4FM1FW/?tag=tolees0ca-21) with a  26.69 % discount, with final price of 8.79 EUR (original: 11.99 EUR) at the following link:
 
 [![tonies® Hörfigur - Kreativ Weihnachtsman](https://images-eu.ssl-images-amazon.com/images/I/41izLdNU8EL._SL200_.jpg)](https://www.amazon.de/dp/B07J4FM1FW/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07J4FM1FW/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07J4FM1FW/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple iPhone XR  64GB  - Gelb al 34.63 % de descuento'
+title: 'Discount of 34.63 % for Apple iPhone XR  64GB  - Gelb'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vBMFd3EOL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '34.63'
 average: '555'
 ---
 
-Ahora mismo tienes [Apple iPhone XR  64GB  - Gelb](https://www.amazon.de/dp/B07HBF7K7H/?tag=tolees0ca-21) a 555 EUR (original: 849 EUR) (34.63 %  de descuento) en el siguiente enlace!
+You've got [Apple iPhone XR  64GB  - Gelb](https://www.amazon.de/dp/B07HBF7K7H/?tag=tolees0ca-21) with a  34.63 % discount, with final price of 555 EUR (original: 849 EUR) at the following link:
 
 [![Apple iPhone XR  64GB  - Gelb](https://images-eu.ssl-images-amazon.com/images/I/41vBMFd3EOL._SL200_.jpg)](https://www.amazon.de/dp/B07HBF7K7H/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B07HBF7K7H/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07HBF7K7H/?tag=tolees0ca-21)

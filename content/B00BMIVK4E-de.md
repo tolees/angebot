@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Iceman al 22.11 % de rebaja'
+title: 'The Iceman at 22.11 % discount'
 date: 2020-04-13 23:43:04
 image: 'https://m.media-amazon.com/images/I/51SLKnhfRXL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '22.11'
 average: '5.99'
 ---
 
-Tienes [The Iceman](https://www.amazon.de/dp/B00BMIVK4E/?tag=tolees0ca-21) con precio final de  5.99 EUR (original: 7.69 EUR) (22.11 %  de rebaja) aqui!
+With a final price of 5.99 EUR (original: 7.69 EUR) you can find [The Iceman](https://www.amazon.de/dp/B00BMIVK4E/?tag=tolees0ca-21) with a  22.11 % discount here:
 
 [![The Iceman](https://m.media-amazon.com/images/I/51SLKnhfRXL._SL200_.jpg)](https://www.amazon.de/dp/B00BMIVK4E/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B00BMIVK4E/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B00BMIVK4E/?tag=tolees0ca-21)

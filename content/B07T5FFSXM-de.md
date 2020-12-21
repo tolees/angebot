@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 25.01 % en JUMANJI: Das Videospiel - [Nintendo Swit'
+title: 'Discount of 25.01 % for JUMANJI: Das Videospiel - [Nintendo Swit'
 date: 2020-04-02 14:16:55
 image: 'https://m.media-amazon.com/images/I/51U6oa9QRcL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '25.01'
 average: '29.99'
 ---
 
-Tienes [JUMANJI: Das Videospiel - [Nintendo Switch]](https://www.amazon.de/dp/B07T5FFSXM/?tag=tolees0ca-21) con un 25.01 % de descuento con precio de oferta de 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!
+You've got [JUMANJI: Das Videospiel - [Nintendo Switch]](https://www.amazon.de/dp/B07T5FFSXM/?tag=tolees0ca-21) with a  25.01 % discount, with final price of 29.99 EUR (original: 39.99 EUR) at the following link:
 
 [![JUMANJI: Das Videospiel - [Nintendo Swit](https://m.media-amazon.com/images/I/51U6oa9QRcL._SL200_.jpg)](https://www.amazon.de/dp/B07T5FFSXM/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07T5FFSXM/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07T5FFSXM/?tag=tolees0ca-21)

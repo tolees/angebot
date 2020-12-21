@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jamara 403071 - BMW M3 Sport 1:14  schwa con un 16.19 % de descuento'
+title: 'Discount of 16.19 % for Jamara 403071 - BMW M3 Sport 1:14  schwa'
 date: 2020-01-29 20:02:51
 image: 'https://m.media-amazon.com/images/I/410O85b+b2L._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '16.19'
 average: '31.0'
 ---
 
-En este momento está [Jamara 403071 - BMW M3 Sport 1:14  schwarz](https://www.amazon.de/dp/B00CJ46LP8/?tag=tolees0ca-21) a 31.0 EUR (original: 36.99 EUR) (16.19 %  de descuento) en el siguiente enlace!
+You've got [Jamara 403071 - BMW M3 Sport 1:14  schwarz](https://www.amazon.de/dp/B00CJ46LP8/?tag=tolees0ca-21) with a  16.19 % discount, with final price of 31.0 EUR (original: 36.99 EUR) at the following link:
 
 [![Jamara 403071 - BMW M3 Sport 1:14  schwa](https://m.media-amazon.com/images/I/410O85b+b2L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00CJ46LP8/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B00CJ46LP8/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00CJ46LP8/?tag=tolees0ca-21)

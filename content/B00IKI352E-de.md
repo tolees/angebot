@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Professional 18V System Akku GBA 1 al 51.13 % de descuento'
+title: 'Bosch Professional 18V System Akku GBA 1 at 51.13 % discount'
 date: 2020-02-29 19:18:21
 image: 'https://m.media-amazon.com/images/I/41nfdqU3wZL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '51.13'
 average: '66.88'
 ---
 
-Ahora mismo tienes [Bosch Professional 18V System Akku GBA 18V 5.0Ah](https://www.amazon.de/dp/B00IKI352E/?tag=tolees0ca-21) a 66.88 EUR (original: 136.85 EUR) (51.13 %  de descuento) en el siguiente enlace!
+With a final price of 66.88 EUR (original: 136.85 EUR) you can find [Bosch Professional 18V System Akku GBA 18V 5.0Ah](https://www.amazon.de/dp/B00IKI352E/?tag=tolees0ca-21) with a  51.13 % discount here:
 
 [![Bosch Professional 18V System Akku GBA 1](https://m.media-amazon.com/images/I/41nfdqU3wZL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00IKI352E/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B00IKI352E/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B00IKI352E/?tag=tolees0ca-21)

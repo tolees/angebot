@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 35.65 % en fischertechnik - 41859 ADVANCED Seilbahn'
+title: 'Discount of 35.65 % for fischertechnik - 41859 ADVANCED Seilbahn'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51HJ3jr50bL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '35.65'
 average: '22.49'
 ---
 
-Tienes [fischertechnik - 41859 ADVANCED Seilbahnen  Konstruktionsbaukasten](https://www.amazon.de/dp/B000EHPZMW/?tag=tolees0ca-21) con un 35.65 % de descuento con precio de oferta de 22.49 EUR (original: 34.95 EUR) en el siguiente enlace!
+You've got [fischertechnik - 41859 ADVANCED Seilbahnen  Konstruktionsbaukasten](https://www.amazon.de/dp/B000EHPZMW/?tag=tolees0ca-21) with a  35.65 % discount, with final price of 22.49 EUR (original: 34.95 EUR) at the following link:
 
 [![fischertechnik - 41859 ADVANCED Seilbahn](https://images-eu.ssl-images-amazon.com/images/I/51HJ3jr50bL._SL200_.jpg)](https://www.amazon.de/dp/B000EHPZMW/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B000EHPZMW/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B000EHPZMW/?tag=tolees0ca-21)

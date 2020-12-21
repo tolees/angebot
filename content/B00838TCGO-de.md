@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Little America Backpack con un 29.72 % de descuento'
+title: 'Little America Backpack at 29.72 % discount'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415VPeXH72L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '29.72'
 average: '84.26'
 ---
 
-En este momento está [Little America Backpack](https://www.amazon.de/dp/B00838TCGO/?tag=tolees0ca-21) a 84.26 EUR (original: 119.9 EUR) (29.72 %  de descuento) en el siguiente enlace!
+With a final price of 84.26 EUR (original: 119.9 EUR) you can find [Little America Backpack](https://www.amazon.de/dp/B00838TCGO/?tag=tolees0ca-21) with a  29.72 % discount here:
 
 [![Little America Backpack](https://images-eu.ssl-images-amazon.com/images/I/415VPeXH72L._SL200_.jpg)](https://www.amazon.de/dp/B00838TCGO/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B00838TCGO/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B00838TCGO/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ESDDI LED Softbox Set Fotostudio 2x50x50 con un 22.22 % de descuento'
+title: 'Discount of 22.22 % for ESDDI LED Softbox Set Fotostudio 2x50x50'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41mbD-qVDHL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '22.22'
 average: '69.99'
 ---
 
-En este momento está [ESDDI LED Softbox Set Fotostudio 2x50x50cm Studioleuchten- Set mit Lichtstativen und 2x5400K 900W energiesparende Fotolampen mit sofortiger Helligkeit ohne Wartezeit](https://www.amazon.de/dp/B07SJYBK38/?tag=tolees0ca-21) a 69.99 EUR (original: 89.99 EUR) (22.22 %  de descuento) en el siguiente enlace!
+You've got [ESDDI LED Softbox Set Fotostudio 2x50x50cm Studioleuchten- Set mit Lichtstativen und 2x5400K 900W energiesparende Fotolampen mit sofortiger Helligkeit ohne Wartezeit](https://www.amazon.de/dp/B07SJYBK38/?tag=tolees0ca-21) with a  22.22 % discount, with final price of 69.99 EUR (original: 89.99 EUR) at the following link:
 
 [![ESDDI LED Softbox Set Fotostudio 2x50x50](https://images-eu.ssl-images-amazon.com/images/I/41mbD-qVDHL._SL200_.jpg)](https://www.amazon.de/dp/B07SJYBK38/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B07SJYBK38/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07SJYBK38/?tag=tolees0ca-21)

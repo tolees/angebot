@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 40.35 % en Dometic CombiCool RC 1200 EGP - lautlose'
+title: 'Discount of 40.35 % for Dometic CombiCool RC 1200 EGP - lautlose'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41I3EsPizuL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '40.35'
 average: '169.99'
 ---
 
-Tienes [Dometic CombiCool RC 1200 EGP - lautlose  elektrische Absorber-Kühlbox mit Gas-Anschluss 50 mbar  40 Liter  12 V und 230 V für Auto  Lkw und Steckdose](https://www.amazon.de/dp/B003KP3NL0/?tag=tolees0ca-21) con un 40.35 % de descuento con precio de oferta de 169.99 EUR (original: 285 EUR) en el siguiente enlace!
+You've got [Dometic CombiCool RC 1200 EGP - lautlose  elektrische Absorber-Kühlbox mit Gas-Anschluss 50 mbar  40 Liter  12 V und 230 V für Auto  Lkw und Steckdose](https://www.amazon.de/dp/B003KP3NL0/?tag=tolees0ca-21) with a  40.35 % discount, with final price of 169.99 EUR (original: 285 EUR) at the following link:
 
 [![Dometic CombiCool RC 1200 EGP - lautlose](https://images-eu.ssl-images-amazon.com/images/I/41I3EsPizuL._SL200_.jpg)](https://www.amazon.de/dp/B003KP3NL0/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B003KP3NL0/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B003KP3NL0/?tag=tolees0ca-21)

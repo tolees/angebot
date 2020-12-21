@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Ninjago 70639 - Straßenrennen des S al 40.01 % de rebaja'
+title: 'LEGO Ninjago 70639 - Straßenrennen des S at 40.01 % discount'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51tFr%2B268xL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '40.01'
 average: '17.99'
 ---
 
-Tienes [LEGO Ninjago 70639 - Straßenrennen des Schlangenjaguars](https://www.amazon.de/dp/B075SVV19C/?tag=tolees0ca-21) con precio final de  17.99 EUR (original: 29.99 EUR) (40.01 %  de rebaja) aqui!
+With a final price of 17.99 EUR (original: 29.99 EUR) you can find [LEGO Ninjago 70639 - Straßenrennen des Schlangenjaguars](https://www.amazon.de/dp/B075SVV19C/?tag=tolees0ca-21) with a  40.01 % discount here:
 
 [![LEGO Ninjago 70639 - Straßenrennen des S](https://images-eu.ssl-images-amazon.com/images/I/51tFr%2B268xL._SL200_.jpg)](https://www.amazon.de/dp/B075SVV19C/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B075SVV19C/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B075SVV19C/?tag=tolees0ca-21)

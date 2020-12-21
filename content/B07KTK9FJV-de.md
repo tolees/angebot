@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Friends 41388 - Mias sommerliche He al 31.29 % de rebaja'
+title: 'LEGO Friends 41388 - Mias sommerliche He at 31.29 % discount'
 date: 2020-01-07 13:23:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51HUm%2Bh7S7L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '31.29'
 average: '6.59'
 ---
 
-Tienes [LEGO Friends 41388 - Mias sommerliche Herzbox  Bauset](https://www.amazon.de/dp/B07KTK9FJV/?tag=tolees0ca-21) con precio final de  5.49 EUR (original: 7.99 EUR) (31.29 %  de rebaja) aqui!
+With a final price of 5.49 EUR (original: 7.99 EUR) you can find [LEGO Friends 41388 - Mias sommerliche Herzbox  Bauset](https://www.amazon.de/dp/B07KTK9FJV/?tag=tolees0ca-21) with a  31.29 % discount here:
 
 [![LEGO Friends 41388 - Mias sommerliche He](https://images-eu.ssl-images-amazon.com/images/I/51HUm%2Bh7S7L._SL200_.jpg)](https://www.amazon.de/dp/B07KTK9FJV/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B07KTK9FJV/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B07KTK9FJV/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'THE LEGO MOVIE 2 70824 Das ist Königin W al 40.22 % de descuento'
+title: 'Discount of 40.22 % for THE LEGO MOVIE 2 70824 Das ist Königin W'
 date: 2020-04-07 21:35:32
 image: 'https://m.media-amazon.com/images/I/51n2kr1zh2L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '40.22'
 average: '12.005454545454544'
 ---
 
-Ahora mismo tienes [THE LEGO MOVIE 2 70824 Das ist Königin Wasimma Si-Willi](https://www.amazon.de/dp/B07FNS6P77/?tag=tolees0ca-21) a 11.95 EUR (original: 19.99 EUR) (40.22 %  de descuento) en el siguiente enlace!
+You've got [THE LEGO MOVIE 2 70824 Das ist Königin Wasimma Si-Willi](https://www.amazon.de/dp/B07FNS6P77/?tag=tolees0ca-21) with a  40.22 % discount, with final price of 11.95 EUR (original: 19.99 EUR) at the following link:
 
 [![THE LEGO MOVIE 2 70824 Das ist Königin W](https://m.media-amazon.com/images/I/51n2kr1zh2L._SL200_.jpg)](https://www.amazon.de/dp/B07FNS6P77/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B07FNS6P77/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07FNS6P77/?tag=tolees0ca-21)

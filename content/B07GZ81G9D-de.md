@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lego Harry Potter Collection [Xbox One] al 20.13 % de rebaja'
+title: 'Lego Harry Potter Collection [Xbox One] at 20.13 % discount'
 date: 2020-04-16 17:41:30
 image: 'https://m.media-amazon.com/images/I/51P0Qs-60zL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.13'
 average: '22.936666666666664'
 ---
 
-Tienes [Lego Harry Potter Collection [Xbox One]](https://www.amazon.de/dp/B07GZ81G9D/?tag=tolees0ca-21) con precio final de  19.96 EUR (original: 24.99 EUR) (20.13 %  de rebaja) aqui!
+With a final price of 19.96 EUR (original: 24.99 EUR) you can find [Lego Harry Potter Collection [Xbox One]](https://www.amazon.de/dp/B07GZ81G9D/?tag=tolees0ca-21) with a  20.13 % discount here:
 
 [![Lego Harry Potter Collection [Xbox One]](https://m.media-amazon.com/images/I/51P0Qs-60zL._SL200_.jpg)](https://www.amazon.de/dp/B07GZ81G9D/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B07GZ81G9D/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B07GZ81G9D/?tag=tolees0ca-21)

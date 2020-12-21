@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bushmills Single Malt Irish Whiskey 10 J al 20.01 % de descuento'
+title: 'Discount of 20.01 % for Bushmills Single Malt Irish Whiskey 10 J'
 date: 2020-04-08 12:42:07
 image: 'https://m.media-amazon.com/images/I/51EgB6EjxmL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.01'
 average: '23.99'
 ---
 
-Está [Bushmills Single Malt Irish Whiskey 10 Jahre  1 x 0.7 l ](https://www.amazon.de/dp/B005D7UK6E/?tag=tolees0ca-21) con 20.01 de descuento por 23.99 EUR (original: 29.99 EUR) en el siguiente enlace!
+You've got [Bushmills Single Malt Irish Whiskey 10 Jahre  1 x 0.7 l ](https://www.amazon.de/dp/B005D7UK6E/?tag=tolees0ca-21) with a  20.01 % discount, with final price of 23.99 EUR (original: 29.99 EUR) at the following link:
 
 [![Bushmills Single Malt Irish Whiskey 10 J](https://m.media-amazon.com/images/I/51EgB6EjxmL._SL200_.jpg)](https://www.amazon.de/dp/B005D7UK6E/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B005D7UK6E/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B005D7UK6E/?tag=tolees0ca-21)

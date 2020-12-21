@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony MDR-XB950AP Extra Bass-Kopfhörer mi al 31.82 % de descuento'
+title: 'Discount of 31.82 % for Sony MDR-XB950AP Extra Bass-Kopfhörer mi'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41752SOgkuL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '31.82'
 average: '49.01'
 ---
 
-Está [Sony MDR-XB950AP Extra Bass-Kopfhörer mit Mikrofon schwarz](https://www.amazon.de/dp/B00NBR6QKC/?tag=tolees0ca-21) con 31.82 de descuento por 74.99 EUR (original: 109.99 EUR) en el siguiente enlace!
+You've got [Sony MDR-XB950AP Extra Bass-Kopfhörer mit Mikrofon schwarz](https://www.amazon.de/dp/B00NBR6QKC/?tag=tolees0ca-21) with a  31.82 % discount, with final price of 74.99 EUR (original: 109.99 EUR) at the following link:
 
 [![Sony MDR-XB950AP Extra Bass-Kopfhörer mi](https://images-eu.ssl-images-amazon.com/images/I/41752SOgkuL._SL200_.jpg)](https://www.amazon.de/dp/B00NBR6QKC/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00NBR6QKC/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00NBR6QKC/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aberfeldy Highland Single Malt Whisky 16 al 25.00 % de descuento'
+title: 'Discount of 25.00 % for Aberfeldy Highland Single Malt Whisky 16'
 date: 2020-02-10 09:12:05
 image: 'https://m.media-amazon.com/images/I/41ebrdbm3SL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '25.00'
 average: '44.99'
 ---
 
-Ahora mismo tienes [Aberfeldy Highland Single Malt Whisky 16 Jahre  1 x 0.7 l ](https://www.amazon.de/dp/B01557TFGW/?tag=tolees0ca-21) a 44.99 EUR (original: 59.99 EUR) (25.00 %  de descuento) en el siguiente enlace!
+You've got [Aberfeldy Highland Single Malt Whisky 16 Jahre  1 x 0.7 l ](https://www.amazon.de/dp/B01557TFGW/?tag=tolees0ca-21) with a  25.00 % discount, with final price of 44.99 EUR (original: 59.99 EUR) at the following link:
 
 [![Aberfeldy Highland Single Malt Whisky 16](https://m.media-amazon.com/images/I/41ebrdbm3SL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01557TFGW/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B01557TFGW/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B01557TFGW/?tag=tolees0ca-21)

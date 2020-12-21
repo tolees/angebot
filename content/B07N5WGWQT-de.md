@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 15.94 % en Funko 38578 POP Vinyl: Big Bang Theory S'
+title: 'Discount of 15.94 % for Funko 38578 POP Vinyl: Big Bang Theory S'
 date: 2020-03-27 21:12:29
 image: 'https://m.media-amazon.com/images/I/41whwnpeYvL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '15.94'
 average: '10.106428571428571'
 ---
 
-Tienes [Funko 38578 POP Vinyl: Big Bang Theory S2: Howard Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B07N5WGWQT/?tag=tolees0ca-21) con un 15.94 % de descuento con precio de oferta de 8.7 EUR (original: 10.35 EUR) en el siguiente enlace!
+You've got [Funko 38578 POP Vinyl: Big Bang Theory S2: Howard Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B07N5WGWQT/?tag=tolees0ca-21) with a  15.94 % discount, with final price of 8.7 EUR (original: 10.35 EUR) at the following link:
 
 [![Funko 38578 POP Vinyl: Big Bang Theory S](https://m.media-amazon.com/images/I/41whwnpeYvL._SL200_.jpg)](https://www.amazon.de/dp/B07N5WGWQT/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07N5WGWQT/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07N5WGWQT/?tag=tolees0ca-21)

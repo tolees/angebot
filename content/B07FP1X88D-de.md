@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'THE LEGO MOVIE 2 70825 Königin Wasimma S con un 49.01 % de descuento'
+title: 'Discount of 49.01 % for THE LEGO MOVIE 2 70825 Königin Wasimma S'
 date: 2020-04-07 21:33:27
 image: 'https://m.media-amazon.com/images/I/51bo8TEJGpL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '49.01'
 average: '22.65844444444444'
 ---
 
-En este momento está [THE LEGO MOVIE 2 70825 Königin Wasimma Si-Willis Bau-Was-Du-Willst-Box!](https://www.amazon.de/dp/B07FP1X88D/?tag=tolees0ca-21) a 20.39 EUR (original: 39.99 EUR) (49.01 %  de descuento) en el siguiente enlace!
+You've got [THE LEGO MOVIE 2 70825 Königin Wasimma Si-Willis Bau-Was-Du-Willst-Box!](https://www.amazon.de/dp/B07FP1X88D/?tag=tolees0ca-21) with a  49.01 % discount, with final price of 20.39 EUR (original: 39.99 EUR) at the following link:
 
 [![THE LEGO MOVIE 2 70825 Königin Wasimma S](https://m.media-amazon.com/images/I/51bo8TEJGpL._SL200_.jpg)](https://www.amazon.de/dp/B07FP1X88D/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B07FP1X88D/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07FP1X88D/?tag=tolees0ca-21)

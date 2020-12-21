@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 66.67 % en ECCO Damen Soft 1 Ladies Sneaker  Schwar'
+title: 'Discount of 66.67 % for ECCO Damen Soft 1 Ladies Sneaker  Schwar'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/316nGYstCRL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '66.67'
 average: '39.99'
 ---
 
-Tienes [ECCO Damen Soft 1 Ladies Sneaker  Schwarz Black 51052  39 EU](https://www.amazon.de/dp/B07DTH65PM/?tag=tolees0ca-21) con un 66.67 % de descuento con precio de oferta de 39.99 EUR (original: 120 EUR) en el siguiente enlace!
+You've got [ECCO Damen Soft 1 Ladies Sneaker  Schwarz Black 51052  39 EU](https://www.amazon.de/dp/B07DTH65PM/?tag=tolees0ca-21) with a  66.67 % discount, with final price of 39.99 EUR (original: 120 EUR) at the following link:
 
 [![ECCO Damen Soft 1 Ladies Sneaker  Schwar](https://images-eu.ssl-images-amazon.com/images/I/316nGYstCRL._SL200_.jpg)](https://www.amazon.de/dp/B07DTH65PM/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07DTH65PM/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07DTH65PM/?tag=tolees0ca-21)

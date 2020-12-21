@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Star Wars 75238 Action Battle Endor al 26.88 % de descuento'
+title: 'LEGO Star Wars 75238 Action Battle Endor at 26.88 % discount'
 date: 2020-10-09 20:37:58
 image: 'https://m.media-amazon.com/images/I/51xCoaIsWuL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '26.88'
 average: '21.930499999999995'
 ---
 
-Está [LEGO Star Wars 75238 Action Battle Endor Attacke  Bauset](https://www.amazon.de/dp/B07FP711YX/?tag=tolees0ca-21) con 26.88 de descuento por 21.93 EUR (original: 29.99 EUR) en el siguiente enlace!
+With a final price of 21.93 EUR (original: 29.99 EUR) you can find [LEGO Star Wars 75238 Action Battle Endor Attacke  Bauset](https://www.amazon.de/dp/B07FP711YX/?tag=tolees0ca-21) with a  26.88 % discount here:
 
 [![LEGO Star Wars 75238 Action Battle Endor](https://m.media-amazon.com/images/I/51xCoaIsWuL._SL200_.jpg)](https://www.amazon.de/dp/B07FP711YX/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07FP711YX/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B07FP711YX/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gran Torino al 27.19 % de descuento'
+title: '27.19 % deal for Gran Torino'
 date: 2020-09-12 17:37:53
 image: 'https://m.media-amazon.com/images/I/51UqxI++k9L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '27.19'
 average: '3.99'
 ---
 
-Está [Gran Torino](https://www.amazon.de/dp/B001UHO61G/?tag=tolees0ca-21) con 27.19 de descuento por 3.99 EUR (original: 5.48 EUR) en el siguiente enlace!
+There's a deal [Gran Torino](https://www.amazon.de/dp/B001UHO61G/?tag=tolees0ca-21)  with  27.19 % discount, final price tag of  3.99 EUR (original: 5.48 EUR) here:
 
 [![Gran Torino](https://m.media-amazon.com/images/I/51UqxI++k9L._SL200_.jpg)](https://www.amazon.de/dp/B001UHO61G/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B001UHO61G/?tag=tolees0ca-21)
+[Buy it now!!](https://www.amazon.de/dp/B001UHO61G/?tag=tolees0ca-21)

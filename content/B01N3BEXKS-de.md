@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lion - Der lange Weg nach Hause [Blu-ray con un 31.37 % de descuento'
+title: 'Lion - Der lange Weg nach Hause [Blu-ray at 31.37 % discount'
 date: 2020-02-04 05:20:38
 image: 'https://m.media-amazon.com/images/I/51pshMiDhvL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '31.37'
 average: '6.17'
 ---
 
-En este momento está [Lion - Der lange Weg nach Hause [Blu-ray]](https://www.amazon.de/dp/B01N3BEXKS/?tag=tolees0ca-21) a 6.17 EUR (original: 8.99 EUR) (31.37 %  de descuento) en el siguiente enlace!
+With a final price of 6.17 EUR (original: 8.99 EUR) you can find [Lion - Der lange Weg nach Hause [Blu-ray]](https://www.amazon.de/dp/B01N3BEXKS/?tag=tolees0ca-21) with a  31.37 % discount here:
 
 [![Lion - Der lange Weg nach Hause [Blu-ray](https://m.media-amazon.com/images/I/51pshMiDhvL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01N3BEXKS/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B01N3BEXKS/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B01N3BEXKS/?tag=tolees0ca-21)

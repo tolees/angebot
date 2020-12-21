@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung Galaxy A50 Smartphone  16.3cm  6 al 19.48 % de descuento'
+title: '19.48 % deal for Samsung Galaxy A50 Smartphone  16.3cm  6'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wf9XPlZRL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '19.48'
 average: '281'
 ---
 
-Está [Samsung Galaxy A50 Smartphone  16.3cm  6.4 Zoll  128GB interner Speicher  4GB RAM  Orange  - Deutsche Version](https://www.amazon.de/dp/B07NH3BW46/?tag=tolees0ca-21) con 19.48 de descuento por 281 EUR (original: 349 EUR) en el siguiente enlace!
+There's a deal [Samsung Galaxy A50 Smartphone  16.3cm  6.4 Zoll  128GB interner Speicher  4GB RAM  Orange  - Deutsche Version](https://www.amazon.de/dp/B07NH3BW46/?tag=tolees0ca-21)  with  19.48 % discount, final price tag of  281 EUR (original: 349 EUR) here:
 
 [![Samsung Galaxy A50 Smartphone  16.3cm  6](https://images-eu.ssl-images-amazon.com/images/I/41wf9XPlZRL._SL200_.jpg)](https://www.amazon.de/dp/B07NH3BW46/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07NH3BW46/?tag=tolees0ca-21)
+[Buy it now!!](https://www.amazon.de/dp/B07NH3BW46/?tag=tolees0ca-21)

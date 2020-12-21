@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Damen 574s V2 Sneaker Grau   al 64.01 % de descuento'
+title: 'New Balance Damen 574s V2 Sneaker Grau   at 64.01 % discount'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41n6DSz%2BIkL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '64.01'
 average: '35.99'
 ---
 
-Está [New Balance Damen 574s V2 Sneaker Grau  Castlerock Ted   37.5 EU](https://www.amazon.de/dp/B07DJ6RHYK/?tag=tolees0ca-21) con 64.01 de descuento por 35.99 EUR (original: 100 EUR) en el siguiente enlace!
+With a final price of 35.99 EUR (original: 100 EUR) you can find [New Balance Damen 574s V2 Sneaker Grau  Castlerock Ted   37.5 EU](https://www.amazon.de/dp/B07DJ6RHYK/?tag=tolees0ca-21) with a  64.01 % discount here:
 
 [![New Balance Damen 574s V2 Sneaker Grau  ](https://images-eu.ssl-images-amazon.com/images/I/41n6DSz%2BIkL._SL200_.jpg)](https://www.amazon.de/dp/B07DJ6RHYK/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07DJ6RHYK/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B07DJ6RHYK/?tag=tolees0ca-21)

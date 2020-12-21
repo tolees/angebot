@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'James Bond - Collection 2016 [Blu-ray] al 15.00 % de rebaja'
+title: '15.00 % deal for James Bond - Collection 2016 [Blu-ray]'
 date: 2020-02-18 19:39:32
 image: 'https://m.media-amazon.com/images/I/41+VgbPbscL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '15.00'
 average: '84.99'
 ---
 
-Tienes [James Bond - Collection 2016 [Blu-ray]](https://www.amazon.de/dp/B01HE54MI4/?tag=tolees0ca-21) con precio final de  84.99 EUR (original: 99.99 EUR) (15.00 %  de rebaja) aqui!
+There's a deal [James Bond - Collection 2016 [Blu-ray]](https://www.amazon.de/dp/B01HE54MI4/?tag=tolees0ca-21)  with  15.00 % discount, final price tag of  84.99 EUR (original: 99.99 EUR) here:
 
 [![James Bond - Collection 2016 [Blu-ray]](https://m.media-amazon.com/images/I/41+VgbPbscL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01HE54MI4/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B01HE54MI4/?tag=tolees0ca-21)
+[Buy it now!!](https://www.amazon.de/dp/B01HE54MI4/?tag=tolees0ca-21)

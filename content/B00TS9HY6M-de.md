@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samyang 24mm F3.5 T/S Objektiv für Ansch al 40.59 % de descuento'
+title: 'Discount of 40.59 % for Samyang 24mm F3.5 T/S Objektiv für Ansch'
 date: 2020-10-03 19:08:09
 image: 'https://m.media-amazon.com/images/I/419TjADAf0L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '40.59'
 average: '593.46'
 ---
 
-Está [Samyang 24mm F3.5 T/S Objektiv für Anschluss Micro Four Thirds](https://www.amazon.de/dp/B00TS9HY6M/?tag=tolees0ca-21) con 40.59 de descuento por 593.46 EUR (original: 999.0 EUR) en el siguiente enlace!
+You've got [Samyang 24mm F3.5 T/S Objektiv für Anschluss Micro Four Thirds](https://www.amazon.de/dp/B00TS9HY6M/?tag=tolees0ca-21) with a  40.59 % discount, with final price of 593.46 EUR (original: 999.0 EUR) at the following link:
 
 [![Samyang 24mm F3.5 T/S Objektiv für Ansch](https://m.media-amazon.com/images/I/419TjADAf0L._SL200_.jpg)](https://www.amazon.de/dp/B00TS9HY6M/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00TS9HY6M/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00TS9HY6M/?tag=tolees0ca-21)

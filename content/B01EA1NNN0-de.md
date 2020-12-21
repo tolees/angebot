@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 52.66 % en Microsoft Office Home and Student 2016 |'
+title: '52.66 % deal for Microsoft Office Home and Student 2016 |'
 date: 2020-04-15 23:45:08
 image: 'https://m.media-amazon.com/images/I/41nZNMi+-HL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '52.66'
 average: '76.33333333333334'
 ---
 
-Tienes [Microsoft Office Home and Student 2016 | PC | Box](https://www.amazon.de/dp/B01EA1NNN0/?tag=tolees0ca-21) con un 52.66 % de descuento con precio de oferta de 71.0 EUR (original: 149.99 EUR) en el siguiente enlace!
+There's a deal [Microsoft Office Home and Student 2016 | PC | Box](https://www.amazon.de/dp/B01EA1NNN0/?tag=tolees0ca-21)  with  52.66 % discount, final price tag of  71.0 EUR (original: 149.99 EUR) here:
 
 [![Microsoft Office Home and Student 2016 |](https://m.media-amazon.com/images/I/41nZNMi+-HL._SL200_.jpg)](https://www.amazon.de/dp/B01EA1NNN0/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B01EA1NNN0/?tag=tolees0ca-21)
+[Buy it now!!](https://www.amazon.de/dp/B01EA1NNN0/?tag=tolees0ca-21)

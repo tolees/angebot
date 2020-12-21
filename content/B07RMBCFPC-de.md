@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 44823 POP TV: Game of Thrones-Crys al 23.90 % de descuento'
+title: 'Funko 44823 POP TV: Game of Thrones-Crys at 23.90 % discount'
 date: 2020-02-12 15:26:39
 image: 'https://m.media-amazon.com/images/I/31a4G2HI88L._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '23.90'
 average: '8.5'
 ---
 
-Ahora mismo tienes [Funko 44823 POP TV: Game of Thrones-Crystal Night King w/Dagger in Chest Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B07RMBCFPC/?tag=tolees0ca-21) a 8.5 EUR (original: 11.17 EUR) (23.90 %  de descuento) en el siguiente enlace!
+With a final price of 8.5 EUR (original: 11.17 EUR) you can find [Funko 44823 POP TV: Game of Thrones-Crystal Night King w/Dagger in Chest Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B07RMBCFPC/?tag=tolees0ca-21) with a  23.90 % discount here:
 
 [![Funko 44823 POP TV: Game of Thrones-Crys](https://m.media-amazon.com/images/I/31a4G2HI88L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07RMBCFPC/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B07RMBCFPC/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B07RMBCFPC/?tag=tolees0ca-21)

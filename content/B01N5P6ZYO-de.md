@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Drunk al 36.40 % de descuento'
+title: 'Discount of 36.40 % for Drunk'
 date: 2020-03-15 04:42:06
 image: 'https://m.media-amazon.com/images/I/51AyK0YToYL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '36.40'
 average: '6.99'
 ---
 
-Está [Drunk](https://www.amazon.de/dp/B01N5P6ZYO/?tag=tolees0ca-21) con 36.40 de descuento por 6.99 EUR (original: 10.99 EUR) en el siguiente enlace!
+You've got [Drunk](https://www.amazon.de/dp/B01N5P6ZYO/?tag=tolees0ca-21) with a  36.40 % discount, with final price of 6.99 EUR (original: 10.99 EUR) at the following link:
 
 [![Drunk](https://m.media-amazon.com/images/I/51AyK0YToYL._SL200_.jpg)](https://www.amazon.de/dp/B01N5P6ZYO/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B01N5P6ZYO/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B01N5P6ZYO/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 45.20 % en The Space Between the Shadows'
+title: 'Discount of 45.20 % for The Space Between the Shadows'
 date: 2020-09-26 15:43:24
 image: 'https://m.media-amazon.com/images/I/51XFznUWVkL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '45.20'
 average: '7.99'
 ---
 
-Tienes [The Space Between the Shadows](https://www.amazon.de/dp/B07QQHM5SQ/?tag=tolees0ca-21) con un 45.20 % de descuento con precio de oferta de 7.99 EUR (original: 14.58 EUR) en el siguiente enlace!
+You've got [The Space Between the Shadows](https://www.amazon.de/dp/B07QQHM5SQ/?tag=tolees0ca-21) with a  45.20 % discount, with final price of 7.99 EUR (original: 14.58 EUR) at the following link:
 
 [![The Space Between the Shadows](https://m.media-amazon.com/images/I/51XFznUWVkL._SL200_.jpg)](https://www.amazon.de/dp/B07QQHM5SQ/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07QQHM5SQ/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07QQHM5SQ/?tag=tolees0ca-21)

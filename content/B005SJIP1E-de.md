@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Complete Mahler Symphonies al 17.36 % de descuento'
+title: 'Discount of 17.36 % for The Complete Mahler Symphonies'
 date: 2020-02-29 22:49:36
 image: 'https://m.media-amazon.com/images/I/510eemBbwzL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '17.36'
 average: '19.979999999999997'
 ---
 
-Está [The Complete Mahler Symphonies](https://www.amazon.de/dp/B005SJIP1E/?tag=tolees0ca-21) con 17.36 de descuento por 19.99 EUR (original: 24.19 EUR) en el siguiente enlace!
+You've got [The Complete Mahler Symphonies](https://www.amazon.de/dp/B005SJIP1E/?tag=tolees0ca-21) with a  17.36 % discount, with final price of 19.99 EUR (original: 24.19 EUR) at the following link:
 
 [![The Complete Mahler Symphonies](https://m.media-amazon.com/images/I/510eemBbwzL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B005SJIP1E/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B005SJIP1E/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B005SJIP1E/?tag=tolees0ca-21)

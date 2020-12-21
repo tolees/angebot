@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Star Wars 75201 - First Order AT-ST al 25.00 % de rebaja'
+title: 'Discount of 25.00 % for LEGO Star Wars 75201 - First Order AT-ST'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51iE02VrQpL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '25.00'
 average: '44.99'
 ---
 
-Tienes [LEGO Star Wars 75201 - First Order AT-ST  Spielzeug](https://www.amazon.de/dp/B075GHYZ9G/?tag=tolees0ca-21) con precio final de  44.99 EUR (original: 59.99 EUR) (25.00 %  de rebaja) aqui!
+You've got [LEGO Star Wars 75201 - First Order AT-ST  Spielzeug](https://www.amazon.de/dp/B075GHYZ9G/?tag=tolees0ca-21) with a  25.00 % discount, with final price of 44.99 EUR (original: 59.99 EUR) at the following link:
 
 [![LEGO Star Wars 75201 - First Order AT-ST](https://images-eu.ssl-images-amazon.com/images/I/51iE02VrQpL._SL200_.jpg)](https://www.amazon.de/dp/B075GHYZ9G/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B075GHYZ9G/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B075GHYZ9G/?tag=tolees0ca-21)

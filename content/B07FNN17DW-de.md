@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO City 60213 Feuerwehr am Hafen al 26.69 % de descuento'
+title: 'Discount of 26.69 % for LEGO City 60213 Feuerwehr am Hafen'
 date: 2020-08-24 17:17:19
 image: 'https://m.media-amazon.com/images/I/518XpMERBrL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '26.69'
 average: '10.711612903225804'
 ---
 
-Ahora mismo tienes [LEGO City 60213 Feuerwehr am Hafen](https://www.amazon.de/dp/B07FNN17DW/?tag=tolees0ca-21) a 10.71 EUR (original: 14.61 EUR) (26.69 %  de descuento) en el siguiente enlace!
+You've got [LEGO City 60213 Feuerwehr am Hafen](https://www.amazon.de/dp/B07FNN17DW/?tag=tolees0ca-21) with a  26.69 % discount, with final price of 10.71 EUR (original: 14.61 EUR) at the following link:
 
 [![LEGO City 60213 Feuerwehr am Hafen](https://m.media-amazon.com/images/I/518XpMERBrL._SL200_.jpg)](https://www.amazon.de/dp/B07FNN17DW/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B07FNN17DW/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07FNN17DW/?tag=tolees0ca-21)

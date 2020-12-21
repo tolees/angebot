@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 46.65 % en Bosch Betonbohrer SDS-Quick  Ø 6 mm '
+title: 'Bosch Betonbohrer SDS-Quick  Ø 6 mm  at 46.65 % discount'
 date: 2020-10-06 03:18:22
 image: 'https://m.media-amazon.com/images/I/31tle0kdhhL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '46.65'
 average: '2.23'
 ---
 
-Tienes [Bosch Betonbohrer SDS-Quick  Ø 6 mm ](https://www.amazon.de/dp/B002C0E5YI/?tag=tolees0ca-21) con un 46.65 % de descuento con precio de oferta de 2.23 EUR (original: 4.18 EUR) en el siguiente enlace!
+With a final price of 2.23 EUR (original: 4.18 EUR) you can find [Bosch Betonbohrer SDS-Quick  Ø 6 mm ](https://www.amazon.de/dp/B002C0E5YI/?tag=tolees0ca-21) with a  46.65 % discount here:
 
 [![Bosch Betonbohrer SDS-Quick  Ø 6 mm ](https://m.media-amazon.com/images/I/31tle0kdhhL._SL200_.jpg)](https://www.amazon.de/dp/B002C0E5YI/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B002C0E5YI/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B002C0E5YI/?tag=tolees0ca-21)

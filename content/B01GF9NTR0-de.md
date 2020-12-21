@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 37.10 % en Advanced Chemistry'
+title: 'Advanced Chemistry at 37.10 % discount'
 date: 2020-09-30 06:35:21
 image: 'https://m.media-amazon.com/images/I/61u+2B5qWXL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '37.10'
 average: '4.9'
 ---
 
-Tienes [Advanced Chemistry](https://www.amazon.de/dp/B01GF9NTR0/?tag=tolees0ca-21) con un 37.10 % de descuento con precio de oferta de 4.9 EUR (original: 7.79 EUR) en el siguiente enlace!
+With a final price of 4.9 EUR (original: 7.79 EUR) you can find [Advanced Chemistry](https://www.amazon.de/dp/B01GF9NTR0/?tag=tolees0ca-21) with a  37.10 % discount here:
 
 [![Advanced Chemistry](https://m.media-amazon.com/images/I/61u+2B5qWXL._SL200_.jpg)](https://www.amazon.de/dp/B01GF9NTR0/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B01GF9NTR0/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B01GF9NTR0/?tag=tolees0ca-21)

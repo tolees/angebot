@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Diesel Smartwatch DZT2014 al 40.57 % de descuento'
+title: 'Discount of 40.57 % for Diesel Smartwatch DZT2014'
 date: 2020-10-12 08:14:28
 image: 'https://m.media-amazon.com/images/I/41Zd7cVX1mL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '40.57'
 average: '219.3'
 ---
 
-Está [Diesel Smartwatch DZT2014](https://www.amazon.de/dp/B07XLTV71Y/?tag=tolees0ca-21) con 40.57 de descuento por 219.3 EUR (original: 369.0 EUR) en el siguiente enlace!
+You've got [Diesel Smartwatch DZT2014](https://www.amazon.de/dp/B07XLTV71Y/?tag=tolees0ca-21) with a  40.57 % discount, with final price of 219.3 EUR (original: 369.0 EUR) at the following link:
 
 [![Diesel Smartwatch DZT2014](https://m.media-amazon.com/images/I/41Zd7cVX1mL._SL200_.jpg)](https://www.amazon.de/dp/B07XLTV71Y/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07XLTV71Y/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07XLTV71Y/?tag=tolees0ca-21)

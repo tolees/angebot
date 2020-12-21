@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 36.01 % en Mentos Fruit Dragees  40 Rollen Bonbons '
+title: 'Discount of 36.01 % for Mentos Fruit Dragees  40 Rollen Bonbons '
 date: 2020-02-18 20:40:09
 image: 'https://m.media-amazon.com/images/I/51Zh83nUefL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '36.01'
 average: '15.99'
 ---
 
-Tienes [Mentos Fruit Dragees  40 Rollen Bonbons  Frucht-Geschmack mit Orange + Zitrone + Erdbeere  Multipack Kaubonbons](https://www.amazon.de/dp/B003R7K5LC/?tag=tolees0ca-21) con un 36.01 % de descuento con precio de oferta de 15.99 EUR (original: 24.99 EUR) en el siguiente enlace!
+You've got [Mentos Fruit Dragees  40 Rollen Bonbons  Frucht-Geschmack mit Orange + Zitrone + Erdbeere  Multipack Kaubonbons](https://www.amazon.de/dp/B003R7K5LC/?tag=tolees0ca-21) with a  36.01 % discount, with final price of 15.99 EUR (original: 24.99 EUR) at the following link:
 
 [![Mentos Fruit Dragees  40 Rollen Bonbons ](https://m.media-amazon.com/images/I/51Zh83nUefL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B003R7K5LC/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B003R7K5LC/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B003R7K5LC/?tag=tolees0ca-21)

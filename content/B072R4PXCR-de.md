@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'POP Rocks: Metallica - Robert Trujillo al 49.75 % de rebaja'
+title: 'POP Rocks: Metallica - Robert Trujillo at 49.75 % discount'
 date: 2020-01-07 22:39:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51hgBxifRSL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '49.75'
 average: '8.56'
 ---
 
-Tienes [POP Rocks: Metallica - Robert Trujillo](https://www.amazon.de/dp/B072R4PXCR/?tag=tolees0ca-21) con precio final de  7.03 EUR (original: 13.99 EUR) (49.75 %  de rebaja) aqui!
+With a final price of 7.03 EUR (original: 13.99 EUR) you can find [POP Rocks: Metallica - Robert Trujillo](https://www.amazon.de/dp/B072R4PXCR/?tag=tolees0ca-21) with a  49.75 % discount here:
 
 [![POP Rocks: Metallica - Robert Trujillo](https://images-eu.ssl-images-amazon.com/images/I/51hgBxifRSL._SL200_.jpg)](https://www.amazon.de/dp/B072R4PXCR/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B072R4PXCR/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B072R4PXCR/?tag=tolees0ca-21)

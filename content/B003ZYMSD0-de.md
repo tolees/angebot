@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 52.52 % en Armani Exchange Herren-Uhr AX2058'
+title: 'Discount of 52.52 % for Armani Exchange Herren-Uhr AX2058'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51HAJwpK%2BzL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '52.52'
 average: '99.24'
 ---
 
-Tienes [Armani Exchange Herren-Uhr AX2058](https://www.amazon.de/dp/B003ZYMSD0/?tag=tolees0ca-21) con un 52.52 % de descuento con precio de oferta de 99.24 EUR (original: 209 EUR) en el siguiente enlace!
+You've got [Armani Exchange Herren-Uhr AX2058](https://www.amazon.de/dp/B003ZYMSD0/?tag=tolees0ca-21) with a  52.52 % discount, with final price of 99.24 EUR (original: 209 EUR) at the following link:
 
 [![Armani Exchange Herren-Uhr AX2058](https://images-eu.ssl-images-amazon.com/images/I/51HAJwpK%2BzL._SL200_.jpg)](https://www.amazon.de/dp/B003ZYMSD0/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B003ZYMSD0/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B003ZYMSD0/?tag=tolees0ca-21)

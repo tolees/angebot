@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Honor 6X Pro Smartphone  13 97 cm  5 5 Z al 39.52 % de descuento'
+title: 'Discount of 39.52 % for Honor 6X Pro Smartphone  13 97 cm  5 5 Z'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QXAECwonL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '39.52'
 average: '192.93'
 ---
 
-Ahora mismo tienes [Honor 6X Pro Smartphone  13 97 cm  5 5 Zoll  Full HD Display  64 GB Speicher  Android  silber](https://www.amazon.de/dp/B01MUC3N2Y/?tag=tolees0ca-21) a 192.93 EUR (original: 319 EUR) (39.52 %  de descuento) en el siguiente enlace!
+You've got [Honor 6X Pro Smartphone  13 97 cm  5 5 Zoll  Full HD Display  64 GB Speicher  Android  silber](https://www.amazon.de/dp/B01MUC3N2Y/?tag=tolees0ca-21) with a  39.52 % discount, with final price of 192.93 EUR (original: 319 EUR) at the following link:
 
 [![Honor 6X Pro Smartphone  13 97 cm  5 5 Z](https://images-eu.ssl-images-amazon.com/images/I/41QXAECwonL._SL200_.jpg)](https://www.amazon.de/dp/B01MUC3N2Y/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B01MUC3N2Y/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B01MUC3N2Y/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eastpak Tranzshell L Koffer  77 cm  75 L al 38.12 % de descuento'
+title: 'Eastpak Tranzshell L Koffer  77 cm  75 L at 38.12 % discount'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41JMdBHfjoL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '38.12'
 average: '142.32'
 ---
 
-Está [Eastpak Tranzshell L Koffer  77 cm  75 L  Schwarz](https://www.amazon.de/dp/B01N98ADU1/?tag=tolees0ca-21) con 38.12 de descuento por 142.32 EUR (original: 230 EUR) en el siguiente enlace!
+With a final price of 142.32 EUR (original: 230 EUR) you can find [Eastpak Tranzshell L Koffer  77 cm  75 L  Schwarz](https://www.amazon.de/dp/B01N98ADU1/?tag=tolees0ca-21) with a  38.12 % discount here:
 
 [![Eastpak Tranzshell L Koffer  77 cm  75 L](https://images-eu.ssl-images-amazon.com/images/I/41JMdBHfjoL._SL200_.jpg)](https://www.amazon.de/dp/B01N98ADU1/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B01N98ADU1/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B01N98ADU1/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 53.25 % en Playmobil 6659 - Röntgenraum'
+title: 'Discount of 53.25 % for Playmobil 6659 - Röntgenraum'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61C2Y7r3fbL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '53.25'
 average: '6.68'
 ---
 
-Tienes [Playmobil 6659 - Röntgenraum](https://www.amazon.de/dp/B00VLV0LKG/?tag=tolees0ca-21) con un 53.25 % de descuento con precio de oferta de 6.68 EUR (original: 14.29 EUR) en el siguiente enlace!
+You've got [Playmobil 6659 - Röntgenraum](https://www.amazon.de/dp/B00VLV0LKG/?tag=tolees0ca-21) with a  53.25 % discount, with final price of 6.68 EUR (original: 14.29 EUR) at the following link:
 
 [![Playmobil 6659 - Röntgenraum](https://images-eu.ssl-images-amazon.com/images/I/61C2Y7r3fbL._SL200_.jpg)](https://www.amazon.de/dp/B00VLV0LKG/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B00VLV0LKG/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00VLV0LKG/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 28.23 % en LEGO Duplo 10870 Tiere auf dem Bauernhof'
+title: 'Discount of 28.23 % for LEGO Duplo 10870 Tiere auf dem Bauernhof'
 date: 2020-10-12 20:12:11
 image: 'https://m.media-amazon.com/images/I/51gKrsWOQeL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '28.23'
 average: '7.214'
 ---
 
-Tienes [LEGO Duplo 10870 Tiere auf dem Bauernhof  Lernspielzeug](https://www.amazon.de/dp/B075GQBMMZ/?tag=tolees0ca-21) con un 28.23 % de descuento con precio de oferta de 6.99 EUR (original: 9.74 EUR) en el siguiente enlace!
+You've got [LEGO Duplo 10870 Tiere auf dem Bauernhof  Lernspielzeug](https://www.amazon.de/dp/B075GQBMMZ/?tag=tolees0ca-21) with a  28.23 % discount, with final price of 6.99 EUR (original: 9.74 EUR) at the following link:
 
 [![LEGO Duplo 10870 Tiere auf dem Bauernhof](https://m.media-amazon.com/images/I/51gKrsWOQeL._SL200_.jpg)](https://www.amazon.de/dp/B075GQBMMZ/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B075GQBMMZ/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B075GQBMMZ/?tag=tolees0ca-21)

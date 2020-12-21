@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nicht Von Dieser Welt/Re-release + Bonus con un 39.95 % de descuento'
+title: 'Discount of 39.95 % for Nicht Von Dieser Welt/Re-release + Bonus'
 date: 2020-09-21 15:04:46
 image: 'https://m.media-amazon.com/images/I/51R3G4TgYbL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '39.95'
 average: '5.26'
 ---
 
-En este momento está [Nicht Von Dieser Welt/Re-release + Bonus](https://www.amazon.de/dp/B0018LMKXK/?tag=tolees0ca-21) a 5.26 EUR (original: 8.76 EUR) (39.95 %  de descuento) en el siguiente enlace!
+You've got [Nicht Von Dieser Welt/Re-release + Bonus](https://www.amazon.de/dp/B0018LMKXK/?tag=tolees0ca-21) with a  39.95 % discount, with final price of 5.26 EUR (original: 8.76 EUR) at the following link:
 
 [![Nicht Von Dieser Welt/Re-release + Bonus](https://m.media-amazon.com/images/I/51R3G4TgYbL._SL200_.jpg)](https://www.amazon.de/dp/B0018LMKXK/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B0018LMKXK/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B0018LMKXK/?tag=tolees0ca-21)

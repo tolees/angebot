@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 36.18 % en SCHLEICH 42485 Pferdestall'
+title: 'Discount of 36.18 % for SCHLEICH 42485 Pferdestall'
 date: 2020-01-20 02:24:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51EaSyHdYQL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '36.18'
 average: '51.0175'
 ---
 
-Tienes [SCHLEICH 42485 Pferdestall](https://www.amazon.de/dp/B07LB5GMMN/?tag=tolees0ca-21) con un 36.18 % de descuento con precio de oferta de 51.05 EUR (original: 79.99 EUR) en el siguiente enlace!
+You've got [SCHLEICH 42485 Pferdestall](https://www.amazon.de/dp/B07LB5GMMN/?tag=tolees0ca-21) with a  36.18 % discount, with final price of 51.05 EUR (original: 79.99 EUR) at the following link:
 
 [![SCHLEICH 42485 Pferdestall](https://images-eu.ssl-images-amazon.com/images/I/51EaSyHdYQL._SL200_.jpg)](https://www.amazon.de/dp/B07LB5GMMN/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07LB5GMMN/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07LB5GMMN/?tag=tolees0ca-21)

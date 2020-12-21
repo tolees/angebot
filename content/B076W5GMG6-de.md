@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Damen Jeans Soho  Blau  D26   al 49.51 % de descuento'
+title: 'Discount of 49.51 % for Pepe Jeans Damen Jeans Soho  Blau  D26  '
 date: 2020-05-17 09:54:27
 image: 'https://m.media-amazon.com/images/I/41kaXfxSypL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '49.51'
 average: '49.99'
 ---
 
-Está [Pepe Jeans Damen Jeans Soho  Blau  D26   29W/30L](https://www.amazon.de/dp/B076W5GMG6/?tag=tolees0ca-21) con 49.51 de descuento por 49.99 EUR (original: 99.0 EUR) en el siguiente enlace!
+You've got [Pepe Jeans Damen Jeans Soho  Blau  D26   29W/30L](https://www.amazon.de/dp/B076W5GMG6/?tag=tolees0ca-21) with a  49.51 % discount, with final price of 49.99 EUR (original: 99.0 EUR) at the following link:
 
 [![Pepe Jeans Damen Jeans Soho  Blau  D26  ](https://m.media-amazon.com/images/I/41kaXfxSypL._SL200_.jpg)](https://www.amazon.de/dp/B076W5GMG6/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B076W5GMG6/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B076W5GMG6/?tag=tolees0ca-21)

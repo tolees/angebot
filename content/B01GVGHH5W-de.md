@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 30.27 % en KOSMOS 692681 - EXIT - Das Spiel - Die v'
+title: 'Discount of 30.27 % for KOSMOS 692681 - EXIT - Das Spiel - Die v'
 date: 2020-01-06 14:17:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51HHP0-s8-L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.27'
 average: '9.03'
 ---
 
-Tienes [KOSMOS 692681 - EXIT - Das Spiel - Die verlassene Hütte  Kennerspiel des Jahres 2017  Level: Fortgeschrittene  Escape Room Spiel](https://www.amazon.de/dp/B01GVGHH5W/?tag=tolees0ca-21) con un 30.27 % de descuento con precio de oferta de 9.03 EUR (original: 12.95 EUR) en el siguiente enlace!
+You've got [KOSMOS 692681 - EXIT - Das Spiel - Die verlassene Hütte  Kennerspiel des Jahres 2017  Level: Fortgeschrittene  Escape Room Spiel](https://www.amazon.de/dp/B01GVGHH5W/?tag=tolees0ca-21) with a  30.27 % discount, with final price of 9.03 EUR (original: 12.95 EUR) at the following link:
 
 [![KOSMOS 692681 - EXIT - Das Spiel - Die v](https://images-eu.ssl-images-amazon.com/images/I/51HHP0-s8-L._SL200_.jpg)](https://www.amazon.de/dp/B01GVGHH5W/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B01GVGHH5W/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B01GVGHH5W/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kingdom Hearts III Deluxe Edition  PS4  al 24.76 % de rebaja'
+title: 'Kingdom Hearts III Deluxe Edition  PS4  at 24.76 % discount'
 date: 2020-02-09 15:39:47
 image: 'https://m.media-amazon.com/images/I/41zATRsTnlL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '24.76'
 average: '39.375'
 ---
 
-Tienes [Kingdom Hearts III Deluxe Edition  PS4 ](https://www.amazon.de/dp/B07DQ9LRMJ/?tag=tolees0ca-21) con precio final de  33.85 EUR (original: 44.99 EUR) (24.76 %  de rebaja) aqui!
+With a final price of 33.85 EUR (original: 44.99 EUR) you can find [Kingdom Hearts III Deluxe Edition  PS4 ](https://www.amazon.de/dp/B07DQ9LRMJ/?tag=tolees0ca-21) with a  24.76 % discount here:
 
 [![Kingdom Hearts III Deluxe Edition  PS4 ](https://m.media-amazon.com/images/I/41zATRsTnlL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07DQ9LRMJ/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B07DQ9LRMJ/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B07DQ9LRMJ/?tag=tolees0ca-21)

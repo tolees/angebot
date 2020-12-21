@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Outbreak - Lautlose Killer [Blu-ray] al 30.08 % de descuento'
+title: 'Outbreak - Lautlose Killer [Blu-ray] at 30.08 % discount'
 date: 2020-09-15 16:44:07
 image: 'https://m.media-amazon.com/images/I/51EfmrgYjYL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.08'
 average: '6.81'
 ---
 
-Está [Outbreak - Lautlose Killer [Blu-ray]](https://www.amazon.de/dp/B00B67QAE6/?tag=tolees0ca-21) con 30.08 de descuento por 6.81 EUR (original: 9.74 EUR) en el siguiente enlace!
+With a final price of 6.81 EUR (original: 9.74 EUR) you can find [Outbreak - Lautlose Killer [Blu-ray]](https://www.amazon.de/dp/B00B67QAE6/?tag=tolees0ca-21) with a  30.08 % discount here:
 
 [![Outbreak - Lautlose Killer [Blu-ray]](https://m.media-amazon.com/images/I/51EfmrgYjYL._SL200_.jpg)](https://www.amazon.de/dp/B00B67QAE6/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00B67QAE6/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B00B67QAE6/?tag=tolees0ca-21)

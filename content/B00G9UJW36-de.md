@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony SEL-70200G G Tele-Zoom Objektiv  70 al 31.76 % de descuento'
+title: 'Discount of 31.76 % for Sony SEL-70200G G Tele-Zoom Objektiv  70'
 date: 2020-03-22 11:28:48
 image: 'https://m.media-amazon.com/images/I/41-M31JvlmL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '31.76'
 average: '750.0'
 ---
 
-Está [Sony SEL-70200G G Tele-Zoom Objektiv  70-200 mm  F4  OSS  Vollformat  geeignet für A7  A6000  A5100  A5000 und Nex Serien  E-Mount  schwarz](https://www.amazon.de/dp/B00G9UJW36/?tag=tolees0ca-21) con 31.76 de descuento por 750.0 EUR (original: 1099.0 EUR) en el siguiente enlace!
+You've got [Sony SEL-70200G G Tele-Zoom Objektiv  70-200 mm  F4  OSS  Vollformat  geeignet für A7  A6000  A5100  A5000 und Nex Serien  E-Mount  schwarz](https://www.amazon.de/dp/B00G9UJW36/?tag=tolees0ca-21) with a  31.76 % discount, with final price of 750.0 EUR (original: 1099.0 EUR) at the following link:
 
 [![Sony SEL-70200G G Tele-Zoom Objektiv  70](https://m.media-amazon.com/images/I/41-M31JvlmL._SL200_.jpg)](https://www.amazon.de/dp/B00G9UJW36/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00G9UJW36/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00G9UJW36/?tag=tolees0ca-21)

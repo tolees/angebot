@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 37.21 % en POP! Disney: Frozen 2 - Bruni'
+title: 'Discount of 37.21 % for POP! Disney: Frozen 2 - Bruni'
 date: 2020-09-12 08:53:08
 image: 'https://m.media-amazon.com/images/I/31Qt1Cu6-JL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '37.21'
 average: '12.473333333333334'
 ---
 
-Tienes [POP! Disney: Frozen 2 - Bruni](https://www.amazon.de/dp/B07XG5NCKN/?tag=tolees0ca-21) con un 37.21 % de descuento con precio de oferta de 11.02 EUR (original: 17.55 EUR) en el siguiente enlace!
+You've got [POP! Disney: Frozen 2 - Bruni](https://www.amazon.de/dp/B07XG5NCKN/?tag=tolees0ca-21) with a  37.21 % discount, with final price of 11.02 EUR (original: 17.55 EUR) at the following link:
 
 [![POP! Disney: Frozen 2 - Bruni](https://m.media-amazon.com/images/I/31Qt1Cu6-JL._SL200_.jpg)](https://www.amazon.de/dp/B07XG5NCKN/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07XG5NCKN/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07XG5NCKN/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Deadpool 2 [DVD] con un 21.54 % de descuento'
+title: 'Discount of 21.54 % for Deadpool 2 [DVD]'
 date: 2020-09-29 08:43:58
 image: 'https://m.media-amazon.com/images/I/51vXnt8ALXL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '21.54'
 average: '5.21'
 ---
 
-En este momento está [Deadpool 2 [DVD]](https://www.amazon.de/dp/B07D3JWN98/?tag=tolees0ca-21) a 5.21 EUR (original: 6.64 EUR) (21.54 %  de descuento) en el siguiente enlace!
+You've got [Deadpool 2 [DVD]](https://www.amazon.de/dp/B07D3JWN98/?tag=tolees0ca-21) with a  21.54 % discount, with final price of 5.21 EUR (original: 6.64 EUR) at the following link:
 
 [![Deadpool 2 [DVD]](https://m.media-amazon.com/images/I/51vXnt8ALXL._SL200_.jpg)](https://www.amazon.de/dp/B07D3JWN98/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B07D3JWN98/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07D3JWN98/?tag=tolees0ca-21)

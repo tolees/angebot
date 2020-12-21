@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple iPhone XR  256GB  - Koralle al 16.30 % de descuento'
+title: 'Apple iPhone XR  256GB  - Koralle at 16.30 % discount'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-fouhFegL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '16.30'
 average: '852.9'
 ---
 
-Ahora mismo tienes [Apple iPhone XR  256GB  - Koralle](https://www.amazon.de/dp/B07HBCN57Y/?tag=tolees0ca-21) a 852.9 EUR (original: 1019 EUR) (16.30 %  de descuento) en el siguiente enlace!
+With a final price of 852.9 EUR (original: 1019 EUR) you can find [Apple iPhone XR  256GB  - Koralle](https://www.amazon.de/dp/B07HBCN57Y/?tag=tolees0ca-21) with a  16.30 % discount here:
 
 [![Apple iPhone XR  256GB  - Koralle](https://images-eu.ssl-images-amazon.com/images/I/41-fouhFegL._SL200_.jpg)](https://www.amazon.de/dp/B07HBCN57Y/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B07HBCN57Y/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B07HBCN57Y/?tag=tolees0ca-21)

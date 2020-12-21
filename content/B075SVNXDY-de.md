@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 17.42 % en LEGO Creator 31072 - Ultimative Motor-Po'
+title: 'Discount of 17.42 % for LEGO Creator 31072 - Ultimative Motor-Po'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51g00SM-%2BgL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '17.42'
 average: '8.25'
 ---
 
-Tienes [LEGO Creator 31072 - Ultimative Motor-Power  Bauspielzeug](https://www.amazon.de/dp/B075SVNXDY/?tag=tolees0ca-21) con un 17.42 % de descuento con precio de oferta de 8.25 EUR (original: 9.99 EUR) en el siguiente enlace!
+You've got [LEGO Creator 31072 - Ultimative Motor-Power  Bauspielzeug](https://www.amazon.de/dp/B075SVNXDY/?tag=tolees0ca-21) with a  17.42 % discount, with final price of 8.25 EUR (original: 9.99 EUR) at the following link:
 
 [![LEGO Creator 31072 - Ultimative Motor-Po](https://images-eu.ssl-images-amazon.com/images/I/51g00SM-%2BgL._SL200_.jpg)](https://www.amazon.de/dp/B075SVNXDY/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B075SVNXDY/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B075SVNXDY/?tag=tolees0ca-21)

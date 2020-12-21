@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko POP Dragon Ball Z Android 18 V con un 34.28 % de descuento'
+title: 'Funko POP Dragon Ball Z Android 18 V at 34.28 % discount'
 date: 2020-03-13 02:28:18
 image: 'https://m.media-amazon.com/images/I/41xDi8Ps6uL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '34.28'
 average: '9.01'
 ---
 
-En este momento está [Funko POP Dragon Ball Z Android 18 V](https://www.amazon.de/dp/B07HBBC9D3/?tag=tolees0ca-21) a 9.01 EUR (original: 13.71 EUR) (34.28 %  de descuento) en el siguiente enlace!
+With a final price of 9.01 EUR (original: 13.71 EUR) you can find [Funko POP Dragon Ball Z Android 18 V](https://www.amazon.de/dp/B07HBBC9D3/?tag=tolees0ca-21) with a  34.28 % discount here:
 
 [![Funko POP Dragon Ball Z Android 18 V](https://m.media-amazon.com/images/I/41xDi8Ps6uL._SL200_.jpg)](https://www.amazon.de/dp/B07HBBC9D3/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B07HBBC9D3/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B07HBBC9D3/?tag=tolees0ca-21)

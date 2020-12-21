@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 26384 S1 Pop Vinylfigur Games Mine al 50.54 % de descuento'
+title: 'Discount of 50.54 % for Funko 26384 S1 Pop Vinylfigur Games Mine'
 date: 2020-02-19 11:58:17
 image: 'https://m.media-amazon.com/images/I/310fMT9nM3L._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.54'
 average: '6.92'
 ---
 
-Ahora mismo tienes [Funko 26384 S1 Pop Vinylfigur Games Minecraft Alex  Multi  one Size](https://www.amazon.de/dp/B0777TNHLM/?tag=tolees0ca-21) a 6.92 EUR (original: 13.99 EUR) (50.54 %  de descuento) en el siguiente enlace!
+You've got [Funko 26384 S1 Pop Vinylfigur Games Minecraft Alex  Multi  one Size](https://www.amazon.de/dp/B0777TNHLM/?tag=tolees0ca-21) with a  50.54 % discount, with final price of 6.92 EUR (original: 13.99 EUR) at the following link:
 
 [![Funko 26384 S1 Pop Vinylfigur Games Mine](https://m.media-amazon.com/images/I/310fMT9nM3L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B0777TNHLM/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B0777TNHLM/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B0777TNHLM/?tag=tolees0ca-21)

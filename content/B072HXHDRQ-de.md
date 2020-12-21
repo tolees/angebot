@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'POP! Games: "FNAF SL" Funtime Freddy al 70.12 % de descuento'
+title: 'Discount of 70.12 % for POP! Games: "FNAF SL" Funtime Freddy'
 date: 2020-04-05 05:03:45
 image: 'https://m.media-amazon.com/images/I/41kyRfKqt+L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '70.12'
 average: '7.585'
 ---
 
-Ahora mismo tienes [POP! Games: "FNAF SL" Funtime Freddy](https://www.amazon.de/dp/B072HXHDRQ/?tag=tolees0ca-21) a 4.18 EUR (original: 13.99 EUR) (70.12 %  de descuento) en el siguiente enlace!
+You've got [POP! Games: "FNAF SL" Funtime Freddy](https://www.amazon.de/dp/B072HXHDRQ/?tag=tolees0ca-21) with a  70.12 % discount, with final price of 4.18 EUR (original: 13.99 EUR) at the following link:
 
 [![POP! Games: "FNAF SL" Funtime Freddy](https://m.media-amazon.com/images/I/41kyRfKqt+L._SL200_.jpg)](https://www.amazon.de/dp/B072HXHDRQ/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B072HXHDRQ/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B072HXHDRQ/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 19.12 % en Sylvanian Families - 5214 - Affen: Famil'
+title: 'Discount of 19.12 % for Sylvanian Families - 5214 - Affen: Famil'
 date: 2020-08-30 18:39:14
 image: 'https://m.media-amazon.com/images/I/51RQSJqiJQL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '19.12'
 average: '14.55'
 ---
 
-Tienes [Sylvanian Families - 5214 - Affen: Familie Kletter](https://www.amazon.de/dp/B010DJX5RC/?tag=tolees0ca-21) con un 19.12 % de descuento con precio de oferta de 14.55 EUR (original: 17.99 EUR) en el siguiente enlace!
+You've got [Sylvanian Families - 5214 - Affen: Familie Kletter](https://www.amazon.de/dp/B010DJX5RC/?tag=tolees0ca-21) with a  19.12 % discount, with final price of 14.55 EUR (original: 17.99 EUR) at the following link:
 
 [![Sylvanian Families - 5214 - Affen: Famil](https://m.media-amazon.com/images/I/51RQSJqiJQL._SL200_.jpg)](https://www.amazon.de/dp/B010DJX5RC/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B010DJX5RC/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B010DJX5RC/?tag=tolees0ca-21)

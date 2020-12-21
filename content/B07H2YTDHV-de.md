@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nikon Z6 System Digitalkamera mit FTZ-Ba al 30.41 % de descuento'
+title: 'Discount of 30.41 % for Nikon Z6 System Digitalkamera mit FTZ-Ba'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415%2BIc8LyDL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.41'
 average: '1565'
 ---
 
-Ahora mismo tienes [Nikon Z6 System Digitalkamera mit FTZ-Bajonettadapter](https://www.amazon.de/dp/B07H2YTDHV/?tag=tolees0ca-21) a 1565 EUR (original: 2249 EUR) (30.41 %  de descuento) en el siguiente enlace!
+You've got [Nikon Z6 System Digitalkamera mit FTZ-Bajonettadapter](https://www.amazon.de/dp/B07H2YTDHV/?tag=tolees0ca-21) with a  30.41 % discount, with final price of 1565 EUR (original: 2249 EUR) at the following link:
 
 [![Nikon Z6 System Digitalkamera mit FTZ-Ba](https://images-eu.ssl-images-amazon.com/images/I/415%2BIc8LyDL._SL200_.jpg)](https://www.amazon.de/dp/B07H2YTDHV/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B07H2YTDHV/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07H2YTDHV/?tag=tolees0ca-21)

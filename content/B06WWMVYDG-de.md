@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Craft Herren Greatness Bike Shorts  weiß al 30.03 % de descuento'
+title: 'Discount of 30.03 % for Craft Herren Greatness Bike Shorts  weiß'
 date: 2020-04-10 00:02:41
 image: 'https://m.media-amazon.com/images/I/315+2eoKRZL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.03'
 average: '32.085'
 ---
 
-Está [Craft Herren Greatness Bike Shorts  weiß  XS](https://www.amazon.de/dp/B06WWMVYDG/?tag=tolees0ca-21) con 30.03 de descuento por 34.95 EUR (original: 49.95 EUR) en el siguiente enlace!
+You've got [Craft Herren Greatness Bike Shorts  weiß  XS](https://www.amazon.de/dp/B06WWMVYDG/?tag=tolees0ca-21) with a  30.03 % discount, with final price of 34.95 EUR (original: 49.95 EUR) at the following link:
 
 [![Craft Herren Greatness Bike Shorts  weiß](https://m.media-amazon.com/images/I/315+2eoKRZL._SL200_.jpg)](https://www.amazon.de/dp/B06WWMVYDG/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B06WWMVYDG/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B06WWMVYDG/?tag=tolees0ca-21)

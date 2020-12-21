@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Smart Home 3tlg. Unterputz Adapter Set   al 19.39 % de descuento'
+title: 'Discount of 19.39 % for Smart Home 3tlg. Unterputz Adapter Set  '
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41p8OrWTc%2BL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '19.39'
 average: '3.99'
 ---
 
-Ahora mismo tienes [Smart Home 3tlg. Unterputz Adapter Set  für Berker  B2  Schalter ](https://www.amazon.de/dp/B076J1YXP7/?tag=tolees0ca-21) a 3.99 EUR (original: 4.95 EUR) (19.39 %  de descuento) en el siguiente enlace!
+You've got [Smart Home 3tlg. Unterputz Adapter Set  für Berker  B2  Schalter ](https://www.amazon.de/dp/B076J1YXP7/?tag=tolees0ca-21) with a  19.39 % discount, with final price of 3.99 EUR (original: 4.95 EUR) at the following link:
 
 [![Smart Home 3tlg. Unterputz Adapter Set  ](https://images-eu.ssl-images-amazon.com/images/I/41p8OrWTc%2BL._SL200_.jpg)](https://www.amazon.de/dp/B076J1YXP7/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B076J1YXP7/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B076J1YXP7/?tag=tolees0ca-21)

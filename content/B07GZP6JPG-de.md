@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nikon D3500 Kit AF-P DX 18-55 mm VR schw al 30.86 % de descuento'
+title: 'Nikon D3500 Kit AF-P DX 18-55 mm VR schw at 30.86 % discount'
 date: 2020-01-06 19:53:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41TzqWwOStL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.86'
 average: '349.8'
 ---
 
-Está [Nikon D3500 Kit AF-P DX 18-55 mm VR schwarz](https://www.amazon.de/dp/B07GZP6JPG/?tag=tolees0ca-21) con 30.86 de descuento por 345 EUR (original: 499 EUR) en el siguiente enlace!
+With a final price of 345 EUR (original: 499 EUR) you can find [Nikon D3500 Kit AF-P DX 18-55 mm VR schwarz](https://www.amazon.de/dp/B07GZP6JPG/?tag=tolees0ca-21) with a  30.86 % discount here:
 
 [![Nikon D3500 Kit AF-P DX 18-55 mm VR schw](https://images-eu.ssl-images-amazon.com/images/I/41TzqWwOStL._SL200_.jpg)](https://www.amazon.de/dp/B07GZP6JPG/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07GZP6JPG/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B07GZP6JPG/?tag=tolees0ca-21)

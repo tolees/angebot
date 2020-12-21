@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 65.97 % en Razor Crazy Cart XL Elektroscooter  Schw'
+title: 'Discount of 65.97 % for Razor Crazy Cart XL Elektroscooter  Schw'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41KT18HL9zL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '65.97'
 average: '374'
 ---
 
-Tienes [Razor Crazy Cart XL Elektroscooter  Schwarz  One Size ](https://www.amazon.de/dp/B01M1CB5G5/?tag=tolees0ca-21) con un 65.97 % de descuento con precio de oferta de 374 EUR (original: 1099 EUR) en el siguiente enlace!
+You've got [Razor Crazy Cart XL Elektroscooter  Schwarz  One Size ](https://www.amazon.de/dp/B01M1CB5G5/?tag=tolees0ca-21) with a  65.97 % discount, with final price of 374 EUR (original: 1099 EUR) at the following link:
 
 [![Razor Crazy Cart XL Elektroscooter  Schw](https://images-eu.ssl-images-amazon.com/images/I/41KT18HL9zL._SL200_.jpg)](https://www.amazon.de/dp/B01M1CB5G5/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B01M1CB5G5/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B01M1CB5G5/?tag=tolees0ca-21)

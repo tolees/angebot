@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Autowerkstatt Simulator [Playstation 4] al 28.20 % de rebaja'
+title: 'Autowerkstatt Simulator [Playstation 4] at 28.20 % discount'
 date: 2020-03-11 04:55:29
 image: 'https://m.media-amazon.com/images/I/51y32yNlZvL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '28.20'
 average: '19.99'
 ---
 
-Tienes [Autowerkstatt Simulator [Playstation 4]](https://www.amazon.de/dp/B07QF6BJH9/?tag=tolees0ca-21) con precio final de  19.99 EUR (original: 27.84 EUR) (28.20 %  de rebaja) aqui!
+With a final price of 19.99 EUR (original: 27.84 EUR) you can find [Autowerkstatt Simulator [Playstation 4]](https://www.amazon.de/dp/B07QF6BJH9/?tag=tolees0ca-21) with a  28.20 % discount here:
 
 [![Autowerkstatt Simulator [Playstation 4]](https://m.media-amazon.com/images/I/51y32yNlZvL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07QF6BJH9/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B07QF6BJH9/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B07QF6BJH9/?tag=tolees0ca-21)

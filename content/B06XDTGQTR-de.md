@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Alnatura Bio Tee Beerenzeit  20 Beutel   al 20.09 % de descuento'
+title: 'Discount of 20.09 % for Alnatura Bio Tee Beerenzeit  20 Beutel  '
 date: 2020-03-11 04:56:59
 image: 'https://m.media-amazon.com/images/I/51dD47QXZfL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.09'
 average: '1.83'
 ---
 
-Está [Alnatura Bio Tee Beerenzeit  20 Beutel  40 g](https://www.amazon.de/dp/B06XDTGQTR/?tag=tolees0ca-21) con 20.09 de descuento por 1.83 EUR (original: 2.29 EUR) en el siguiente enlace!
+You've got [Alnatura Bio Tee Beerenzeit  20 Beutel  40 g](https://www.amazon.de/dp/B06XDTGQTR/?tag=tolees0ca-21) with a  20.09 % discount, with final price of 1.83 EUR (original: 2.29 EUR) at the following link:
 
 [![Alnatura Bio Tee Beerenzeit  20 Beutel  ](https://m.media-amazon.com/images/I/51dD47QXZfL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B06XDTGQTR/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B06XDTGQTR/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B06XDTGQTR/?tag=tolees0ca-21)

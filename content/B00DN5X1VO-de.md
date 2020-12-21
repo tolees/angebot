@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Die Monster AG/Die Monster Uni [Blu-ray] al 24.72 % de descuento'
+title: 'Discount of 24.72 % for Die Monster AG/Die Monster Uni [Blu-ray]'
 date: 2020-04-10 07:12:27
 image: 'https://m.media-amazon.com/images/I/51ZGMseyc8L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '24.72'
 average: '14.98'
 ---
 
-Está [Die Monster AG/Die Monster Uni [Blu-ray]](https://www.amazon.de/dp/B00DN5X1VO/?tag=tolees0ca-21) con 24.72 de descuento por 14.98 EUR (original: 19.9 EUR) en el siguiente enlace!
+You've got [Die Monster AG/Die Monster Uni [Blu-ray]](https://www.amazon.de/dp/B00DN5X1VO/?tag=tolees0ca-21) with a  24.72 % discount, with final price of 14.98 EUR (original: 19.9 EUR) at the following link:
 
 [![Die Monster AG/Die Monster Uni [Blu-ray]](https://m.media-amazon.com/images/I/51ZGMseyc8L._SL200_.jpg)](https://www.amazon.de/dp/B00DN5X1VO/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00DN5X1VO/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00DN5X1VO/?tag=tolees0ca-21)

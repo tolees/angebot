@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Akku Schlagbohrschrauber Universal al 35.06 % de descuento'
+title: 'Discount of 35.06 % for Bosch Akku Schlagbohrschrauber Universal'
 date: 2020-01-29 09:40:31
 image: 'https://m.media-amazon.com/images/I/51G1dFeSOdL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '35.06'
 average: '103.9'
 ---
 
-Está [Bosch Akku Schlagbohrschrauber UniversalImpact 18  2 Akku  18 Volt System  im Koffer ](https://www.amazon.de/dp/B07QSY791S/?tag=tolees0ca-21) con 35.06 de descuento por 103.9 EUR (original: 159.99 EUR) en el siguiente enlace!
+You've got [Bosch Akku Schlagbohrschrauber UniversalImpact 18  2 Akku  18 Volt System  im Koffer ](https://www.amazon.de/dp/B07QSY791S/?tag=tolees0ca-21) with a  35.06 % discount, with final price of 103.9 EUR (original: 159.99 EUR) at the following link:
 
 [![Bosch Akku Schlagbohrschrauber Universal](https://m.media-amazon.com/images/I/51G1dFeSOdL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07QSY791S/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07QSY791S/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07QSY791S/?tag=tolees0ca-21)

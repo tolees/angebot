@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 24.85 % en Herlitz 10843746 Aktenhülle A4 Standard '
+title: 'Discount of 24.85 % for Herlitz 10843746 Aktenhülle A4 Standard '
 date: 2020-02-25 04:57:50
 image: 'https://m.media-amazon.com/images/I/21WCNPluzcL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '24.85'
 average: '9.01'
 ---
 
-Tienes [Herlitz 10843746 Aktenhülle A4 Standard   PP  0 11 mm  transparent glasklar 100er Packung](https://www.amazon.de/dp/B000WL0YZI/?tag=tolees0ca-21) con un 24.85 % de descuento con precio de oferta de 9.01 EUR (original: 11.99 EUR) en el siguiente enlace!
+You've got [Herlitz 10843746 Aktenhülle A4 Standard   PP  0 11 mm  transparent glasklar 100er Packung](https://www.amazon.de/dp/B000WL0YZI/?tag=tolees0ca-21) with a  24.85 % discount, with final price of 9.01 EUR (original: 11.99 EUR) at the following link:
 
 [![Herlitz 10843746 Aktenhülle A4 Standard ](https://m.media-amazon.com/images/I/21WCNPluzcL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B000WL0YZI/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B000WL0YZI/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B000WL0YZI/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 61.08 % en Funko 44278 POP NBA: Dallas Mavericks-Kr'
+title: 'Discount of 61.08 % for Funko 44278 POP NBA: Dallas Mavericks-Kr'
 date: 2020-04-05 05:04:29
 image: 'https://m.media-amazon.com/images/I/41ox2gohpDL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '61.08'
 average: '7.39'
 ---
 
-Tienes [Funko 44278 POP NBA: Dallas Mavericks-Kristaps Prozingis Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B07RPB5PVD/?tag=tolees0ca-21) con un 61.08 % de descuento con precio de oferta de 7.39 EUR (original: 18.99 EUR) en el siguiente enlace!
+You've got [Funko 44278 POP NBA: Dallas Mavericks-Kristaps Prozingis Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B07RPB5PVD/?tag=tolees0ca-21) with a  61.08 % discount, with final price of 7.39 EUR (original: 18.99 EUR) at the following link:
 
 [![Funko 44278 POP NBA: Dallas Mavericks-Kr](https://m.media-amazon.com/images/I/41ox2gohpDL._SL200_.jpg)](https://www.amazon.de/dp/B07RPB5PVD/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07RPB5PVD/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07RPB5PVD/?tag=tolees0ca-21)

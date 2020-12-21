@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SanDisk Cruzer Blade 8GB USB-Stick USB 2 con un 88.64 % de descuento'
+title: 'Discount of 88.64 % for SanDisk Cruzer Blade 8GB USB-Stick USB 2'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31HLNKwtjAL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '88.64'
 average: '7.89'
 ---
 
-En este momento está [SanDisk Cruzer Blade 8GB USB-Stick USB 2.0 schwarz/rot](https://www.amazon.de/dp/B002U28LZC/?tag=tolees0ca-21) a 7.89 EUR (original: 69.46 EUR) (88.64 %  de descuento) en el siguiente enlace!
+You've got [SanDisk Cruzer Blade 8GB USB-Stick USB 2.0 schwarz/rot](https://www.amazon.de/dp/B002U28LZC/?tag=tolees0ca-21) with a  88.64 % discount, with final price of 7.89 EUR (original: 69.46 EUR) at the following link:
 
 [![SanDisk Cruzer Blade 8GB USB-Stick USB 2](https://images-eu.ssl-images-amazon.com/images/I/31HLNKwtjAL._SL200_.jpg)](https://www.amazon.de/dp/B002U28LZC/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B002U28LZC/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B002U28LZC/?tag=tolees0ca-21)

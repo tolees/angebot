@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 36.43 % en VTech 80-139304 - Smart Kid s Phone'
+title: 'Discount of 36.43 % for VTech 80-139304 - Smart Kid s Phone'
 date: 2020-10-07 21:46:54
 image: 'https://m.media-amazon.com/images/I/51NA0XbC6JL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '36.43'
 average: '10.8'
 ---
 
-Tienes [VTech 80-139304 - Smart Kid s Phone](https://www.amazon.de/dp/B00GKWOYWW/?tag=tolees0ca-21) con un 36.43 % de descuento con precio de oferta de 10.8 EUR (original: 16.99 EUR) en el siguiente enlace!
+You've got [VTech 80-139304 - Smart Kid s Phone](https://www.amazon.de/dp/B00GKWOYWW/?tag=tolees0ca-21) with a  36.43 % discount, with final price of 10.8 EUR (original: 16.99 EUR) at the following link:
 
 [![VTech 80-139304 - Smart Kid s Phone](https://m.media-amazon.com/images/I/51NA0XbC6JL._SL200_.jpg)](https://www.amazon.de/dp/B00GKWOYWW/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B00GKWOYWW/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00GKWOYWW/?tag=tolees0ca-21)

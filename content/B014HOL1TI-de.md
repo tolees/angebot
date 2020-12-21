@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jumbo Spiele 12163 12163-Rubik s Cube-3x al 56.09 % de descuento'
+title: 'Discount of 56.09 % for Jumbo Spiele 12163 12163-Rubik s Cube-3x'
 date: 2020-01-01 22:49:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41VtOX1o8NL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '56.09'
 average: '7.9'
 ---
 
-Está [Jumbo Spiele 12163 12163-Rubik s Cube-3x3](https://www.amazon.de/dp/B014HOL1TI/?tag=tolees0ca-21) con 56.09 de descuento por 7.9 EUR (original: 17.99 EUR) en el siguiente enlace!
+You've got [Jumbo Spiele 12163 12163-Rubik s Cube-3x3](https://www.amazon.de/dp/B014HOL1TI/?tag=tolees0ca-21) with a  56.09 % discount, with final price of 7.9 EUR (original: 17.99 EUR) at the following link:
 
 [![Jumbo Spiele 12163 12163-Rubik s Cube-3x](https://images-eu.ssl-images-amazon.com/images/I/41VtOX1o8NL._SL200_.jpg)](https://www.amazon.de/dp/B014HOL1TI/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B014HOL1TI/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B014HOL1TI/?tag=tolees0ca-21)

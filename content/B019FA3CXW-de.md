@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Star Wars: Das Erwachen der Macht con un 65.87 % de descuento'
+title: 'Star Wars: Das Erwachen der Macht at 65.87 % discount'
 date: 2020-04-15 15:26:25
 image: 'https://m.media-amazon.com/images/I/51H4nra8k+L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '65.87'
 average: '4.775'
 ---
 
-En este momento está [Star Wars: Das Erwachen der Macht](https://www.amazon.de/dp/B019FA3CXW/?tag=tolees0ca-21) a 2.56 EUR (original: 7.5 EUR) (65.87 %  de descuento) en el siguiente enlace!
+With a final price of 2.56 EUR (original: 7.5 EUR) you can find [Star Wars: Das Erwachen der Macht](https://www.amazon.de/dp/B019FA3CXW/?tag=tolees0ca-21) with a  65.87 % discount here:
 
 [![Star Wars: Das Erwachen der Macht](https://m.media-amazon.com/images/I/51H4nra8k+L._SL200_.jpg)](https://www.amazon.de/dp/B019FA3CXW/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B019FA3CXW/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B019FA3CXW/?tag=tolees0ca-21)

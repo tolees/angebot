@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Medela Milchpumpe Swing - elektrische Mi con un 45.00 % de descuento'
+title: 'Discount of 45.00 % for Medela Milchpumpe Swing - elektrische Mi'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31nkMRCPFQL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '45.00'
 average: '98.99'
 ---
 
-En este momento está [Medela Milchpumpe Swing - elektrische Milchpumpe](https://www.amazon.de/dp/B005CTXB28/?tag=tolees0ca-21) a 98.99 EUR (original: 179.99 EUR) (45.00 %  de descuento) en el siguiente enlace!
+You've got [Medela Milchpumpe Swing - elektrische Milchpumpe](https://www.amazon.de/dp/B005CTXB28/?tag=tolees0ca-21) with a  45.00 % discount, with final price of 98.99 EUR (original: 179.99 EUR) at the following link:
 
 [![Medela Milchpumpe Swing - elektrische Mi](https://images-eu.ssl-images-amazon.com/images/I/31nkMRCPFQL._SL200_.jpg)](https://www.amazon.de/dp/B005CTXB28/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B005CTXB28/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B005CTXB28/?tag=tolees0ca-21)

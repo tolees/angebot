@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lego 41368 Friends Andreas Talentshow  b con un 36.39 % de descuento'
+title: 'Discount of 36.39 % for Lego 41368 Friends Andreas Talentshow  b'
 date: 2020-02-06 19:20:19
 image: 'https://m.media-amazon.com/images/I/51qgQ3G4OmL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '36.39'
 average: '32.028749999999995'
 ---
 
-En este momento está [Lego 41368 Friends Andreas Talentshow  bunt](https://www.amazon.de/dp/B07FNT8XCD/?tag=tolees0ca-21) a 31.8 EUR (original: 49.99 EUR) (36.39 %  de descuento) en el siguiente enlace!
+You've got [Lego 41368 Friends Andreas Talentshow  bunt](https://www.amazon.de/dp/B07FNT8XCD/?tag=tolees0ca-21) with a  36.39 % discount, with final price of 31.8 EUR (original: 49.99 EUR) at the following link:
 
 [![Lego 41368 Friends Andreas Talentshow  b](https://m.media-amazon.com/images/I/51qgQ3G4OmL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07FNT8XCD/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B07FNT8XCD/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07FNT8XCD/?tag=tolees0ca-21)

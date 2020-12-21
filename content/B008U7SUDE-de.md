@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Whisky Ardbeg Islay Single Malt 10 Jahre al 22.42 % de descuento'
+title: 'Discount of 22.42 % for Whisky Ardbeg Islay Single Malt 10 Jahre'
 date: 2020-03-12 20:57:23
 image: 'https://m.media-amazon.com/images/I/51yXy6Rw3vL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '22.42'
 average: '38.71'
 ---
 
-Ahora mismo tienes [Whisky Ardbeg Islay Single Malt 10 Jahre in Geschenkverpackung  1 x 0.7 l ](https://www.amazon.de/dp/B008U7SUDE/?tag=tolees0ca-21) a 38.71 EUR (original: 49.9 EUR) (22.42 %  de descuento) en el siguiente enlace!
+You've got [Whisky Ardbeg Islay Single Malt 10 Jahre in Geschenkverpackung  1 x 0.7 l ](https://www.amazon.de/dp/B008U7SUDE/?tag=tolees0ca-21) with a  22.42 % discount, with final price of 38.71 EUR (original: 49.9 EUR) at the following link:
 
 [![Whisky Ardbeg Islay Single Malt 10 Jahre](https://m.media-amazon.com/images/I/51yXy6Rw3vL._SL200_.jpg)](https://www.amazon.de/dp/B008U7SUDE/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B008U7SUDE/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B008U7SUDE/?tag=tolees0ca-21)

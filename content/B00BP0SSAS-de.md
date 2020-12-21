@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 36.99 % en kenable TL SG1008P Gigabit 8 Port Deskto'
+title: 'Discount of 36.99 % for kenable TL SG1008P Gigabit 8 Port Deskto'
 date: 2020-07-08 11:57:35
 image: 'https://m.media-amazon.com/images/I/41j1-oktK2L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '36.99'
 average: '44.74'
 ---
 
-Tienes [kenable TL SG1008P Gigabit 8 Port Desktop Umschalter Mit 4 Port PoE Built Bei](https://www.amazon.de/dp/B00BP0SSAS/?tag=tolees0ca-21) con un 36.99 % de descuento con precio de oferta de 44.74 EUR (original: 71.0 EUR) en el siguiente enlace!
+You've got [kenable TL SG1008P Gigabit 8 Port Desktop Umschalter Mit 4 Port PoE Built Bei](https://www.amazon.de/dp/B00BP0SSAS/?tag=tolees0ca-21) with a  36.99 % discount, with final price of 44.74 EUR (original: 71.0 EUR) at the following link:
 
 [![kenable TL SG1008P Gigabit 8 Port Deskto](https://m.media-amazon.com/images/I/41j1-oktK2L._SL200_.jpg)](https://www.amazon.de/dp/B00BP0SSAS/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B00BP0SSAS/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00BP0SSAS/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'I  Tonya al 18.94 % de rebaja'
+title: 'I  Tonya at 18.94 % discount'
 date: 2020-02-04 05:24:40
 image: 'https://m.media-amazon.com/images/I/51QJyLV3NqL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '18.94'
 average: '5.99'
 ---
 
-Tienes [I  Tonya](https://www.amazon.de/dp/B079PDJS9Z/?tag=tolees0ca-21) con precio final de  5.99 EUR (original: 7.39 EUR) (18.94 %  de rebaja) aqui!
+With a final price of 5.99 EUR (original: 7.39 EUR) you can find [I  Tonya](https://www.amazon.de/dp/B079PDJS9Z/?tag=tolees0ca-21) with a  18.94 % discount here:
 
 [![I  Tonya](https://m.media-amazon.com/images/I/51QJyLV3NqL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B079PDJS9Z/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B079PDJS9Z/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B079PDJS9Z/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 75.04 % en The Surge: Augmented Edition  PS4 '
+title: 'Discount of 75.04 % for The Surge: Augmented Edition  PS4 '
 date: 2020-02-08 18:37:28
 image: 'https://m.media-amazon.com/images/I/51BDhFk0riL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '75.04'
 average: '4.99'
 ---
 
-Tienes [The Surge: Augmented Edition  PS4 ](https://www.amazon.de/dp/B07L5VCRMM/?tag=tolees0ca-21) con un 75.04 % de descuento con precio de oferta de 4.99 EUR (original: 19.99 EUR) en el siguiente enlace!
+You've got [The Surge: Augmented Edition  PS4 ](https://www.amazon.de/dp/B07L5VCRMM/?tag=tolees0ca-21) with a  75.04 % discount, with final price of 4.99 EUR (original: 19.99 EUR) at the following link:
 
 [![The Surge: Augmented Edition  PS4 ](https://m.media-amazon.com/images/I/51BDhFk0riL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07L5VCRMM/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07L5VCRMM/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07L5VCRMM/?tag=tolees0ca-21)

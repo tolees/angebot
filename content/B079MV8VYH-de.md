@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil 9481 Spielzeug-Maricela con un 49.87 % de descuento'
+title: 'Discount of 49.87 % for Playmobil 9481 Spielzeug-Maricela'
 date: 2020-03-17 10:59:03
 image: 'https://m.media-amazon.com/images/I/51mhwreooDL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '49.87'
 average: '1.901111111111111'
 ---
 
-En este momento está [Playmobil 9481 Spielzeug-Maricela](https://www.amazon.de/dp/B079MV8VYH/?tag=tolees0ca-21) a 2.0 EUR (original: 3.99 EUR) (49.87 %  de descuento) en el siguiente enlace!
+You've got [Playmobil 9481 Spielzeug-Maricela](https://www.amazon.de/dp/B079MV8VYH/?tag=tolees0ca-21) with a  49.87 % discount, with final price of 2.0 EUR (original: 3.99 EUR) at the following link:
 
 [![Playmobil 9481 Spielzeug-Maricela](https://m.media-amazon.com/images/I/51mhwreooDL._SL200_.jpg)](https://www.amazon.de/dp/B079MV8VYH/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B079MV8VYH/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B079MV8VYH/?tag=tolees0ca-21)

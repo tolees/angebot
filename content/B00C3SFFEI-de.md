@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ravensburger 26601 Scotland Yard Strateg con un 47.41 % de descuento'
+title: 'Discount of 47.41 % for Ravensburger 26601 Scotland Yard Strateg'
 date: 2020-01-04 06:10:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/513bYMivdDL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '47.41'
 average: '20.482499999999998'
 ---
 
-En este momento está [Ravensburger 26601 Scotland Yard Strategiespiel](https://www.amazon.de/dp/B00C3SFFEI/?tag=tolees0ca-21) a 19.98 EUR (original: 37.99 EUR) (47.41 %  de descuento) en el siguiente enlace!
+You've got [Ravensburger 26601 Scotland Yard Strategiespiel](https://www.amazon.de/dp/B00C3SFFEI/?tag=tolees0ca-21) with a  47.41 % discount, with final price of 19.98 EUR (original: 37.99 EUR) at the following link:
 
 [![Ravensburger 26601 Scotland Yard Strateg](https://images-eu.ssl-images-amazon.com/images/I/513bYMivdDL._SL200_.jpg)](https://www.amazon.de/dp/B00C3SFFEI/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B00C3SFFEI/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00C3SFFEI/?tag=tolees0ca-21)

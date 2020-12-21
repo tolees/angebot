@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Willow [Special Edition] al 21.44 % de descuento'
+title: 'Discount of 21.44 % for Willow [Special Edition]'
 date: 2020-08-22 21:07:02
 image: 'https://m.media-amazon.com/images/I/51CFWS5QFEL._SL500_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '21.44'
 average: '21.99'
 ---
 
-Está [Willow [Special Edition]](https://www.amazon.de/dp/B00006CFJJ/?tag=tolees0ca-21) con 21.44 de descuento por 21.99 EUR (original: 27.99 EUR) en el siguiente enlace!
+You've got [Willow [Special Edition]](https://www.amazon.de/dp/B00006CFJJ/?tag=tolees0ca-21) with a  21.44 % discount, with final price of 21.99 EUR (original: 27.99 EUR) at the following link:
 
 [![Willow [Special Edition]](https://m.media-amazon.com/images/I/51CFWS5QFEL._SL500_._SL200_.jpg)](https://www.amazon.de/dp/B00006CFJJ/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00006CFJJ/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00006CFJJ/?tag=tolees0ca-21)

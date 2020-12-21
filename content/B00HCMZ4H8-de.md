@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SanDisk Clip Sport 8GB MP3-Player Lime con un 35.29 % de descuento'
+title: 'Discount of 35.29 % for SanDisk Clip Sport 8GB MP3-Player Lime'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B2gAxPBWL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '35.29'
 average: '31.7'
 ---
 
-En este momento está [SanDisk Clip Sport 8GB MP3-Player Lime](https://www.amazon.de/dp/B00HCMZ4H8/?tag=tolees0ca-21) a 31.7 EUR (original: 48.99 EUR) (35.29 %  de descuento) en el siguiente enlace!
+You've got [SanDisk Clip Sport 8GB MP3-Player Lime](https://www.amazon.de/dp/B00HCMZ4H8/?tag=tolees0ca-21) with a  35.29 % discount, with final price of 31.7 EUR (original: 48.99 EUR) at the following link:
 
 [![SanDisk Clip Sport 8GB MP3-Player Lime](https://images-eu.ssl-images-amazon.com/images/I/31%2B2gAxPBWL._SL200_.jpg)](https://www.amazon.de/dp/B00HCMZ4H8/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B00HCMZ4H8/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00HCMZ4H8/?tag=tolees0ca-21)

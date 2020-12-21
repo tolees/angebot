@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WISO steuer:Office 2018  für Steuerjahr  al 68.45 % de descuento'
+title: 'Discount of 68.45 % for WISO steuer:Office 2018  für Steuerjahr '
 date: 2020-04-11 08:07:13
 image: 'https://m.media-amazon.com/images/I/51I-4sMwH-L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '68.45'
 average: '15.77'
 ---
 
-Ahora mismo tienes [WISO steuer:Office 2018  für Steuerjahr 2017 ](https://www.amazon.de/dp/B07542DNXR/?tag=tolees0ca-21) a 15.77 EUR (original: 49.99 EUR) (68.45 %  de descuento) en el siguiente enlace!
+You've got [WISO steuer:Office 2018  für Steuerjahr 2017 ](https://www.amazon.de/dp/B07542DNXR/?tag=tolees0ca-21) with a  68.45 % discount, with final price of 15.77 EUR (original: 49.99 EUR) at the following link:
 
 [![WISO steuer:Office 2018  für Steuerjahr ](https://m.media-amazon.com/images/I/51I-4sMwH-L._SL200_.jpg)](https://www.amazon.de/dp/B07542DNXR/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B07542DNXR/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07542DNXR/?tag=tolees0ca-21)

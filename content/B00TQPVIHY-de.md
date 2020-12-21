@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.02 % en Zoch 601105077 Spinderella  Kinderspiel '
+title: 'Discount of 50.02 % for Zoch 601105077 Spinderella  Kinderspiel '
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51vVWpKDMOL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.02'
 average: '14.99'
 ---
 
-Tienes [Zoch 601105077 Spinderella  Kinderspiel des Jahres 2015](https://www.amazon.de/dp/B00TQPVIHY/?tag=tolees0ca-21) con un 50.02 % de descuento con precio de oferta de 14.99 EUR (original: 29.99 EUR) en el siguiente enlace!
+You've got [Zoch 601105077 Spinderella  Kinderspiel des Jahres 2015](https://www.amazon.de/dp/B00TQPVIHY/?tag=tolees0ca-21) with a  50.02 % discount, with final price of 14.99 EUR (original: 29.99 EUR) at the following link:
 
 [![Zoch 601105077 Spinderella  Kinderspiel ](https://images-eu.ssl-images-amazon.com/images/I/51vVWpKDMOL._SL200_.jpg)](https://www.amazon.de/dp/B00TQPVIHY/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B00TQPVIHY/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00TQPVIHY/?tag=tolees0ca-21)

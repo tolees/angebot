@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kathrein ESC 30 Sat 3Loch Einzeldose con un 20.47 % de descuento'
+title: '20.47 % deal for Kathrein ESC 30 Sat 3Loch Einzeldose'
 date: 2020-02-09 21:38:15
 image: 'https://m.media-amazon.com/images/I/41v9FIcEprL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.47'
 average: '9.52'
 ---
 
-En este momento está [Kathrein ESC 30 Sat 3Loch Einzeldose](https://www.amazon.de/dp/B000NDKOW8/?tag=tolees0ca-21) a 9.52 EUR (original: 11.97 EUR) (20.47 %  de descuento) en el siguiente enlace!
+There's a deal [Kathrein ESC 30 Sat 3Loch Einzeldose](https://www.amazon.de/dp/B000NDKOW8/?tag=tolees0ca-21)  with  20.47 % discount, final price tag of  9.52 EUR (original: 11.97 EUR) here:
 
 [![Kathrein ESC 30 Sat 3Loch Einzeldose](https://m.media-amazon.com/images/I/41v9FIcEprL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B000NDKOW8/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B000NDKOW8/?tag=tolees0ca-21)
+[Buy it now!!](https://www.amazon.de/dp/B000NDKOW8/?tag=tolees0ca-21)

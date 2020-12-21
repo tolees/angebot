@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '1917/Ost con un 22.79 % de descuento'
+title: '1917/Ost at 22.79 % discount'
 date: 2020-04-18 00:50:50
 image: 'https://m.media-amazon.com/images/I/41ocQgUZPML._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '22.79'
 average: '9.96'
 ---
 
-En este momento está [1917/Ost](https://www.amazon.de/dp/B07YMH9ZJ3/?tag=tolees0ca-21) a 9.96 EUR (original: 12.9 EUR) (22.79 %  de descuento) en el siguiente enlace!
+With a final price of 9.96 EUR (original: 12.9 EUR) you can find [1917/Ost](https://www.amazon.de/dp/B07YMH9ZJ3/?tag=tolees0ca-21) with a  22.79 % discount here:
 
 [![1917/Ost](https://m.media-amazon.com/images/I/41ocQgUZPML._SL200_.jpg)](https://www.amazon.de/dp/B07YMH9ZJ3/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B07YMH9ZJ3/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B07YMH9ZJ3/?tag=tolees0ca-21)

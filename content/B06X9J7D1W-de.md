@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Boston [Blu-ray] al 34.40 % de descuento'
+title: '34.40 % deal for Boston [Blu-ray]'
 date: 2020-09-21 15:18:07
 image: 'https://m.media-amazon.com/images/I/51eY3QGUM5L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '34.40'
 average: '6.33'
 ---
 
-Está [Boston [Blu-ray]](https://www.amazon.de/dp/B06X9J7D1W/?tag=tolees0ca-21) con 34.40 de descuento por 6.33 EUR (original: 9.65 EUR) en el siguiente enlace!
+There's a deal [Boston [Blu-ray]](https://www.amazon.de/dp/B06X9J7D1W/?tag=tolees0ca-21)  with  34.40 % discount, final price tag of  6.33 EUR (original: 9.65 EUR) here:
 
 [![Boston [Blu-ray]](https://m.media-amazon.com/images/I/51eY3QGUM5L._SL200_.jpg)](https://www.amazon.de/dp/B06X9J7D1W/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B06X9J7D1W/?tag=tolees0ca-21)
+[Buy it now!!](https://www.amazon.de/dp/B06X9J7D1W/?tag=tolees0ca-21)

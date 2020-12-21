@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 55.94 % en Bosch Professional Akku Schlagbohrschrau'
+title: 'Discount of 55.94 % for Bosch Professional Akku Schlagbohrschrau'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51XZ6J6uPOL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '55.94'
 average: '96.99'
 ---
 
-Tienes [Bosch Professional Akku Schlagbohrschrauber GSB 12V-15  2 x 2 0 Ah Akku  12 V  Bohr-Ø Holz max: 19 mm  in Tasche ](https://www.amazon.de/dp/B00YYBBUBY/?tag=tolees0ca-21) con un 55.94 % de descuento con precio de oferta de 96.99 EUR (original: 220.15 EUR) en el siguiente enlace!
+You've got [Bosch Professional Akku Schlagbohrschrauber GSB 12V-15  2 x 2 0 Ah Akku  12 V  Bohr-Ø Holz max: 19 mm  in Tasche ](https://www.amazon.de/dp/B00YYBBUBY/?tag=tolees0ca-21) with a  55.94 % discount, with final price of 96.99 EUR (original: 220.15 EUR) at the following link:
 
 [![Bosch Professional Akku Schlagbohrschrau](https://images-eu.ssl-images-amazon.com/images/I/51XZ6J6uPOL._SL200_.jpg)](https://www.amazon.de/dp/B00YYBBUBY/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B00YYBBUBY/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00YYBBUBY/?tag=tolees0ca-21)

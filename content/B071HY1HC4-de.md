@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SAMSONITE Flux - Spinner 55/20 Expandabl al 40.85 % de rebaja'
+title: 'SAMSONITE Flux - Spinner 55/20 Expandabl at 40.85 % discount'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41h%2Bz0nMGcL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '40.85'
 average: '117.7'
 ---
 
-Tienes [SAMSONITE Flux - Spinner 55/20 Expandable Bagage cabine  55 cm  44 liters  Navy Blau](https://www.amazon.de/dp/B071HY1HC4/?tag=tolees0ca-21) con precio final de  117.7 EUR (original: 199 EUR) (40.85 %  de rebaja) aqui!
+With a final price of 117.7 EUR (original: 199 EUR) you can find [SAMSONITE Flux - Spinner 55/20 Expandable Bagage cabine  55 cm  44 liters  Navy Blau](https://www.amazon.de/dp/B071HY1HC4/?tag=tolees0ca-21) with a  40.85 % discount here:
 
 [![SAMSONITE Flux - Spinner 55/20 Expandabl](https://images-eu.ssl-images-amazon.com/images/I/41h%2Bz0nMGcL._SL200_.jpg)](https://www.amazon.de/dp/B071HY1HC4/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B071HY1HC4/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B071HY1HC4/?tag=tolees0ca-21)

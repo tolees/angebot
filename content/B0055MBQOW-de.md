@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 31.15 % en X-Rite i1Display Pro'
+title: 'X-Rite i1Display Pro at 31.15 % discount'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BTLUaknjL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '31.15'
 average: '158.35'
 ---
 
-Tienes [X-Rite i1Display Pro](https://www.amazon.de/dp/B0055MBQOW/?tag=tolees0ca-21) con un 31.15 % de descuento con precio de oferta de 158.35 EUR (original: 230 EUR) en el siguiente enlace!
+With a final price of 158.35 EUR (original: 230 EUR) you can find [X-Rite i1Display Pro](https://www.amazon.de/dp/B0055MBQOW/?tag=tolees0ca-21) with a  31.15 % discount here:
 
 [![X-Rite i1Display Pro](https://images-eu.ssl-images-amazon.com/images/I/41%2BTLUaknjL._SL200_.jpg)](https://www.amazon.de/dp/B0055MBQOW/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B0055MBQOW/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B0055MBQOW/?tag=tolees0ca-21)

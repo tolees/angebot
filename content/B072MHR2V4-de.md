@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'khujo Damen Karina PU T Will Jacke  Schw al 37.53 % de rebaja'
+title: 'Discount of 37.53 % for khujo Damen Karina PU T Will Jacke  Schw'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41mih5fJ4JL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '37.53'
 average: '99.95'
 ---
 
-Tienes [khujo Damen Karina PU T Will Jacke  Schwarz  Black 200   Large](https://www.amazon.de/dp/B072MHR2V4/?tag=tolees0ca-21) con precio final de  99.95 EUR (original: 159.99 EUR) (37.53 %  de rebaja) aqui!
+You've got [khujo Damen Karina PU T Will Jacke  Schwarz  Black 200   Large](https://www.amazon.de/dp/B072MHR2V4/?tag=tolees0ca-21) with a  37.53 % discount, with final price of 99.95 EUR (original: 159.99 EUR) at the following link:
 
 [![khujo Damen Karina PU T Will Jacke  Schw](https://images-eu.ssl-images-amazon.com/images/I/41mih5fJ4JL._SL200_.jpg)](https://www.amazon.de/dp/B072MHR2V4/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.de/dp/B072MHR2V4/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B072MHR2V4/?tag=tolees0ca-21)

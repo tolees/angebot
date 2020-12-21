@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Citizen Herren Analog Quarz Uhr mit Plas con un 21.18 % de descuento'
+title: 'Discount of 21.18 % for Citizen Herren Analog Quarz Uhr mit Plas'
 date: 2020-02-21 13:48:10
 image: 'https://m.media-amazon.com/images/I/51RlsWV2IIL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '21.18'
 average: '156.86'
 ---
 
-En este momento está [Citizen Herren Analog Quarz Uhr mit Plastik Armband BN0150-10E](https://www.amazon.de/dp/B00R7PSW38/?tag=tolees0ca-21) a 156.86 EUR (original: 199.0 EUR) (21.18 %  de descuento) en el siguiente enlace!
+You've got [Citizen Herren Analog Quarz Uhr mit Plastik Armband BN0150-10E](https://www.amazon.de/dp/B00R7PSW38/?tag=tolees0ca-21) with a  21.18 % discount, with final price of 156.86 EUR (original: 199.0 EUR) at the following link:
 
 [![Citizen Herren Analog Quarz Uhr mit Plas](https://m.media-amazon.com/images/I/51RlsWV2IIL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00R7PSW38/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.de/dp/B00R7PSW38/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00R7PSW38/?tag=tolees0ca-21)

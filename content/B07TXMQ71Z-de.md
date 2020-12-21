@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko – 43350 – Television: Dr Who – Rec al 28.47 % de descuento'
+title: 'Discount of 28.47 % for Funko – 43350 – Television: Dr Who – Rec'
 date: 2020-02-05 19:21:54
 image: 'https://m.media-amazon.com/images/I/41ATW74SpCL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '28.47'
 average: '11.8'
 ---
 
-Está [Funko – 43350 – Television: Dr Who – Reconnaissance Dalek – Vinyl Figur ca. 9cm](https://www.amazon.de/dp/B07TXMQ71Z/?tag=tolees0ca-21) con 28.47 de descuento por 9.7 EUR (original: 13.56 EUR) en el siguiente enlace!
+You've got [Funko – 43350 – Television: Dr Who – Reconnaissance Dalek – Vinyl Figur ca. 9cm](https://www.amazon.de/dp/B07TXMQ71Z/?tag=tolees0ca-21) with a  28.47 % discount, with final price of 9.7 EUR (original: 13.56 EUR) at the following link:
 
 [![Funko – 43350 – Television: Dr Who – Rec](https://m.media-amazon.com/images/I/41ATW74SpCL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07TXMQ71Z/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07TXMQ71Z/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07TXMQ71Z/?tag=tolees0ca-21)

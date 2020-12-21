@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips 5000 Serie EP5335/10 Kaffeevolla al 25.12 % de descuento'
+title: 'Discount of 25.12 % for Philips 5000 Serie EP5335/10 Kaffeevolla'
 date: 2020-05-10 09:30:05
 image: 'https://m.media-amazon.com/images/I/41Pk1zqCH1L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '25.12'
 average: '599.0'
 ---
 
-Está [Philips 5000 Serie EP5335/10 Kaffeevollautomat  6 Kaffeespezialitäten  LatteGo Milchsystem  Edelstahl](https://www.amazon.de/dp/B07DP8Y6MK/?tag=tolees0ca-21) con 25.12 de descuento por 599.0 EUR (original: 799.99 EUR) en el siguiente enlace!
+You've got [Philips 5000 Serie EP5335/10 Kaffeevollautomat  6 Kaffeespezialitäten  LatteGo Milchsystem  Edelstahl](https://www.amazon.de/dp/B07DP8Y6MK/?tag=tolees0ca-21) with a  25.12 % discount, with final price of 599.0 EUR (original: 799.99 EUR) at the following link:
 
 [![Philips 5000 Serie EP5335/10 Kaffeevolla](https://m.media-amazon.com/images/I/41Pk1zqCH1L._SL200_.jpg)](https://www.amazon.de/dp/B07DP8Y6MK/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B07DP8Y6MK/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B07DP8Y6MK/?tag=tolees0ca-21)

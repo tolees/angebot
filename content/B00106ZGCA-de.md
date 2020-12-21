@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsonite Aeris - Upright 64 - 4 10 Kg   al 33.41 % de descuento'
+title: 'Samsonite Aeris - Upright 64 - 4 10 Kg   at 33.41 % discount'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ES9GyI0rL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '33.41'
 average: '119.2'
 ---
 
-Está [Samsonite Aeris - Upright 64 - 4 10 Kg  Koffer  65 cm  64.5 L  Schwarz](https://www.amazon.de/dp/B00106ZGCA/?tag=tolees0ca-21) con 33.41 de descuento por 119.2 EUR (original: 179 EUR) en el siguiente enlace!
+With a final price of 119.2 EUR (original: 179 EUR) you can find [Samsonite Aeris - Upright 64 - 4 10 Kg  Koffer  65 cm  64.5 L  Schwarz](https://www.amazon.de/dp/B00106ZGCA/?tag=tolees0ca-21) with a  33.41 % discount here:
 
 [![Samsonite Aeris - Upright 64 - 4 10 Kg  ](https://images-eu.ssl-images-amazon.com/images/I/41ES9GyI0rL._SL200_.jpg)](https://www.amazon.de/dp/B00106ZGCA/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00106ZGCA/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B00106ZGCA/?tag=tolees0ca-21)

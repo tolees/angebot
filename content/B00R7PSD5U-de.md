@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 41.01 % en CITIZEN Damen Analog Quarz Uhr mit Leder'
+title: 'Discount of 41.01 % for CITIZEN Damen Analog Quarz Uhr mit Leder'
 date: 2020-09-30 06:02:57
 image: 'https://m.media-amazon.com/images/I/41d8zSbAIOL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '41.01'
 average: '70.2'
 ---
 
-Tienes [CITIZEN Damen Analog Quarz Uhr mit Leder Armband FE1083-02A](https://www.amazon.de/dp/B00R7PSD5U/?tag=tolees0ca-21) con un 41.01 % de descuento con precio de oferta de 70.2 EUR (original: 119.0 EUR) en el siguiente enlace!
+You've got [CITIZEN Damen Analog Quarz Uhr mit Leder Armband FE1083-02A](https://www.amazon.de/dp/B00R7PSD5U/?tag=tolees0ca-21) with a  41.01 % discount, with final price of 70.2 EUR (original: 119.0 EUR) at the following link:
 
 [![CITIZEN Damen Analog Quarz Uhr mit Leder](https://m.media-amazon.com/images/I/41d8zSbAIOL._SL200_.jpg)](https://www.amazon.de/dp/B00R7PSD5U/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B00R7PSD5U/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00R7PSD5U/?tag=tolees0ca-21)

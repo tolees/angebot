@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.17 % en Cudy GS105D 5 Port LAN Switch Gigabit  G'
+title: 'Cudy GS105D 5 Port LAN Switch Gigabit  G at 50.17 % discount'
 date: 2020-04-18 00:22:50
 image: 'https://m.media-amazon.com/images/I/416UXNRKJjL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.17'
 average: '14.9'
 ---
 
-Tienes [Cudy GS105D 5 Port LAN Switch Gigabit  Gigabit Switch 5-Port  5 * 10/100/1000Mbit/s RJ45  Netzwerk Switch  LAN Verteiler  Plug & Play](https://www.amazon.de/dp/B07GM4ZT5F/?tag=tolees0ca-21) con un 50.17 % de descuento con precio de oferta de 14.9 EUR (original: 29.9 EUR) en el siguiente enlace!
+With a final price of 14.9 EUR (original: 29.9 EUR) you can find [Cudy GS105D 5 Port LAN Switch Gigabit  Gigabit Switch 5-Port  5 * 10/100/1000Mbit/s RJ45  Netzwerk Switch  LAN Verteiler  Plug & Play](https://www.amazon.de/dp/B07GM4ZT5F/?tag=tolees0ca-21) with a  50.17 % discount here:
 
 [![Cudy GS105D 5 Port LAN Switch Gigabit  G](https://m.media-amazon.com/images/I/416UXNRKJjL._SL200_.jpg)](https://www.amazon.de/dp/B07GM4ZT5F/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.de/dp/B07GM4ZT5F/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B07GM4ZT5F/?tag=tolees0ca-21)

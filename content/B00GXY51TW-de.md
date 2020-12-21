@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The LEGO Movie Videogame - [PlayStation  al 75.77 % de descuento'
+title: 'Discount of 75.77 % for The LEGO Movie Videogame - [PlayStation '
 date: 2020-04-16 08:48:57
 image: 'https://m.media-amazon.com/images/I/61NPECPz-WL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '75.77'
 average: '11.55'
 ---
 
-Está [The LEGO Movie Videogame - [PlayStation Vita]](https://www.amazon.de/dp/B00GXY51TW/?tag=tolees0ca-21) con 75.77 de descuento por 4.77 EUR (original: 19.69 EUR) en el siguiente enlace!
+You've got [The LEGO Movie Videogame - [PlayStation Vita]](https://www.amazon.de/dp/B00GXY51TW/?tag=tolees0ca-21) with a  75.77 % discount, with final price of 4.77 EUR (original: 19.69 EUR) at the following link:
 
 [![The LEGO Movie Videogame - [PlayStation ](https://m.media-amazon.com/images/I/61NPECPz-WL._SL200_.jpg)](https://www.amazon.de/dp/B00GXY51TW/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.de/dp/B00GXY51TW/?tag=tolees0ca-21)
+[Check the deal!!](https://www.amazon.de/dp/B00GXY51TW/?tag=tolees0ca-21)

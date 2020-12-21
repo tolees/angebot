@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple iPhone XS Max  512 GB  - Gold al 32.63 % de descuento'
+title: 'Apple iPhone XS Max  512 GB  - Gold at 32.63 % discount'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/510iQaTVAhL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '32.63'
 average: '1111'
 ---
 
-Ahora mismo tienes [Apple iPhone XS Max  512 GB  - Gold](https://www.amazon.de/dp/B07HBCZNDS/?tag=tolees0ca-21) a 1111 EUR (original: 1649 EUR) (32.63 %  de descuento) en el siguiente enlace!
+With a final price of 1111 EUR (original: 1649 EUR) you can find [Apple iPhone XS Max  512 GB  - Gold](https://www.amazon.de/dp/B07HBCZNDS/?tag=tolees0ca-21) with a  32.63 % discount here:
 
 [![Apple iPhone XS Max  512 GB  - Gold](https://images-eu.ssl-images-amazon.com/images/I/510iQaTVAhL._SL200_.jpg)](https://www.amazon.de/dp/B07HBCZNDS/?tag=tolees0ca-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.de/dp/B07HBCZNDS/?tag=tolees0ca-21)
+[Buy it!!](https://www.amazon.de/dp/B07HBCZNDS/?tag=tolees0ca-21)
