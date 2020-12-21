@@ -25,9 +25,9 @@ Es gibt ein [POP! Movies: John Wick - John in Black Suit w/ Dog](https://www.ama
 
 ℹ️:
 
-- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 - Funko POP! ist das Spielzeug des Jahres 2018
 - Schauen Sie sich jetzt die anderen Movies-Figuren von Funko an! Sammeln Sie alle!
+- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 - Von John Wick, John in Black Suit w/ Dog, zur stilisierten POP-Vinyl Figur von Funko!
 
 [kauf es hier!!](https://www.amazon.de/dp/B07WTQH232/?tag=tolees0ca-21)

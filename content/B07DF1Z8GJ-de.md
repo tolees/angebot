@@ -25,8 +25,8 @@ Es gibt ein [ONLY Damen Onlqueen L/S Long Cardigan Knt Noos Strickjacke  Mehrfar
 
 ℹ️:
 
-- Teile tierischen Ursprungs: Nein
-- Pflegehinweise: nicht im Trockner trocknen; Maschinenwäsche 30 Grad; Bügeln mit geringer Temperatur; nicht bleichen; nicht chemisch reinigen
 - Material: 50% Viskose, 27% Polyamid, 23% Polyester
+- Pflegehinweise: nicht im Trockner trocknen; Maschinenwäsche 30 Grad; Bügeln mit geringer Temperatur; nicht bleichen; nicht chemisch reinigen
+- Teile tierischen Ursprungs: Nein
 
 [kauf es hier!!](https://www.amazon.de/dp/B07DF1Z8GJ/?tag=tolees0ca-21)

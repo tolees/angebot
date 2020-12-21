@@ -25,9 +25,9 @@ Es gibt ein [Pentel Pinselstift  inkl. zwei Patronen  Schreibfarbe schwarz ](htt
 
 ℹ️:
 
-- Stabile synthetische Pinselhaare
 - Original Pentel Pinselstift
-- Spitze behält ihre Form
 - Für fernöstliche Zeichnungen, Karikaturen und Kalligraphie
+- Spitze behält ihre Form
+- Stabile synthetische Pinselhaare
 
 [kauf es hier!!](https://www.amazon.de/dp/B002ZCP56K/?tag=tolees0ca-21)
