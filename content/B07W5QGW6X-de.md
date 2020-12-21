@@ -25,10 +25,10 @@ Está [LEGO 41253 Trolls World Tour Floßabenteuer in Einsamshausen Spielset mit
 
 ℹ️:
 
-- Einfach zu bauen. Jetzt können auch jüngere Baumeister an ihren selbstständigen Bauerfolgen Spaß haben
-- Ausgestattet mit einem schwimmenden Floß mit verstellbarem Vordach, Bühne mit drehbarem Tanzboden, Gefängnis und mehr
 - Mit 3 Trolls-Minifiguren: Poppy und Branch in exklusiven Country-Outfits und exklusive Hickory-Minifigur mit Cowboy’s Hut und Lasso sowie einer Vielzahl von Haar-Zubehör
-- Troll-Fans können sich Poppy und ihren Freunden anschließen, die Popmusik vor den Country Trolls präsentieren, und dann die Musiksaite finden, um die Harmonie wiederherzustellen
+- Einfach zu bauen. Jetzt können auch jüngere Baumeister an ihren selbstständigen Bauerfolgen Spaß haben
 - Kinder werden es genießen, neue Looks für die Trolls-Figuren zu kreieren und ihr Haar mit einem Fernglas, Sternen, Herz oder Blumen vor dem Abenteuer zu stylen
+- Troll-Fans können sich Poppy und ihren Freunden anschließen, die Popmusik vor den Country Trolls präsentieren, und dann die Musiksaite finden, um die Harmonie wiederherzustellen
+- Ausgestattet mit einem schwimmenden Floß mit verstellbarem Vordach, Bühne mit drehbarem Tanzboden, Gefängnis und mehr
 
 [Ver la oferta!!](https://www.amazon.de/dp/B07W5QGW6X/?tag=tolees0ca-21)
