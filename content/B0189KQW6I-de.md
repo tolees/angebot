@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 18.75 % for mecablitz 44 AF-2 für Sony Kameras  DSLR'
+title: '18.75 % rabat auf mecablitz 44 AF-2 für Sony Kameras  DSLR'
 date: 2020-10-01 05:53:31
 image: 'https://m.media-amazon.com/images/I/41LGKwyVmRL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '18.75'
 average: '99.0'
 ---
 
-You've got [mecablitz 44 AF-2 für Sony Kameras  DSLR und CSC  | Blitzgerät mit ADI-TTL  Leitzahl 44  HSS  High Speed Sync   Hochleistungs-LED](https://www.amazon.de/dp/B0189KQW6I/?tag=tolees0ca-21) with a  18.75 % discount, with final price of 99.0 EUR (original: 121.85 EUR) at the following link:
+Es gibt ein [mecablitz 44 AF-2 für Sony Kameras  DSLR und CSC  | Blitzgerät mit ADI-TTL  Leitzahl 44  HSS  High Speed Sync   Hochleistungs-LED](https://www.amazon.de/dp/B0189KQW6I/?tag=tolees0ca-21) mit aktuellem Preis 99.0 EUR (original: 121.85 EUR) 18.75 % Rabatt hier:
 
 [![mecablitz 44 AF-2 für Sony Kameras  DSLR](https://m.media-amazon.com/images/I/41LGKwyVmRL._SL200_.jpg)](https://www.amazon.de/dp/B0189KQW6I/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B0189KQW6I/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B0189KQW6I/?tag=tolees0ca-21)

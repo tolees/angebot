@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 76.08 % for Jane Austen s Love & Friendship'
+title: 'Jane Austen s Love & Friendship mit 76.08 % Rabatt'
 date: 2020-10-03 11:04:55
 image: 'https://m.media-amazon.com/images/I/51dcleWwJjL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '76.08'
 average: '4.883333333333334'
 ---
 
-You've got [Jane Austen s Love & Friendship](https://www.amazon.de/dp/B01M5ELVUH/?tag=tolees0ca-21) with a  76.08 % discount, with final price of 2.33 EUR (original: 9.74 EUR) at the following link:
+Sie können [Jane Austen s Love & Friendship](https://www.amazon.de/dp/B01M5ELVUH/?tag=tolees0ca-21) mit Preis 2.33 EUR (original: 9.74 EUR) 76.08 % Rabatt hier:
 
 [![Jane Austen s Love & Friendship](https://m.media-amazon.com/images/I/51dcleWwJjL._SL200_.jpg)](https://www.amazon.de/dp/B01M5ELVUH/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B01M5ELVUH/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B01M5ELVUH/?tag=tolees0ca-21)

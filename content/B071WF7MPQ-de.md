@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 21.94 % for Fast & Furious - 8 Movie Collection [Blu'
+title: 'Fast & Furious - 8 Movie Collection [Blu mit 21.94 % Rabatt'
 date: 2020-02-19 12:35:15
 image: 'https://m.media-amazon.com/images/I/51tgGwxtd8L._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '21.94'
 average: '24.97'
 ---
 
-You've got [Fast & Furious - 8 Movie Collection [Blu-ray]](https://www.amazon.de/dp/B071WF7MPQ/?tag=tolees0ca-21) with a  21.94 % discount, with final price of 24.97 EUR (original: 31.99 EUR) at the following link:
+Sie können [Fast & Furious - 8 Movie Collection [Blu-ray]](https://www.amazon.de/dp/B071WF7MPQ/?tag=tolees0ca-21) mit Preis 24.97 EUR (original: 31.99 EUR) 21.94 % Rabatt hier:
 
 [![Fast & Furious - 8 Movie Collection [Blu](https://m.media-amazon.com/images/I/51tgGwxtd8L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B071WF7MPQ/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B071WF7MPQ/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B071WF7MPQ/?tag=tolees0ca-21)

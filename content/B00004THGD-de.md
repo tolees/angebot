@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hook [Collector s Edition] at 20.04 % discount'
+title: '20.04 % rabat auf Hook [Collector s Edition]'
 date: 2020-04-10 15:40:01
 image: 'https://m.media-amazon.com/images/I/51DYNIQk-7L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.04'
 average: '4.49'
 ---
 
-With a final price of 3.99 EUR (original: 4.99 EUR) you can find [Hook [Collector s Edition]](https://www.amazon.de/dp/B00004THGD/?tag=tolees0ca-21) with a  20.04 % discount here:
+Es gibt ein [Hook [Collector s Edition]](https://www.amazon.de/dp/B00004THGD/?tag=tolees0ca-21) mit aktuellem Preis 3.99 EUR (original: 4.99 EUR) 20.04 % Rabatt hier:
 
 [![Hook [Collector s Edition]](https://m.media-amazon.com/images/I/51DYNIQk-7L._SL200_.jpg)](https://www.amazon.de/dp/B00004THGD/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.de/dp/B00004THGD/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B00004THGD/?tag=tolees0ca-21)

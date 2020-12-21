@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 37.63 % for Canon Pixma iP8750 A3+ Professionelle Fa'
+title: '37.63 % rabat auf Canon Pixma iP8750 A3+ Professionelle Fa'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41aBbDAHnEL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '37.63'
 average: '221.43'
 ---
 
-You've got [Canon Pixma iP8750 A3+ Professionelle Farbtintenstrahl drucker  9600 x 2400 dpi  WiFi  USB  schwarz](https://www.amazon.de/dp/B00HZDLDF6/?tag=tolees0ca-21) with a  37.63 % discount, with final price of 221.43 EUR (original: 355 EUR) at the following link:
+Es gibt ein [Canon Pixma iP8750 A3+ Professionelle Farbtintenstrahl drucker  9600 x 2400 dpi  WiFi  USB  schwarz](https://www.amazon.de/dp/B00HZDLDF6/?tag=tolees0ca-21) mit aktuellem Preis 221.43 EUR (original: 355 EUR) 37.63 % Rabatt hier:
 
 [![Canon Pixma iP8750 A3+ Professionelle Fa](https://images-eu.ssl-images-amazon.com/images/I/41aBbDAHnEL._SL200_.jpg)](https://www.amazon.de/dp/B00HZDLDF6/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B00HZDLDF6/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B00HZDLDF6/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 33.52 % for Nikon AF-S DX Nikkor 35mm 1:1 8G Objekti'
+title: '33.52 % rabat auf Nikon AF-S DX Nikkor 35mm 1:1 8G Objekti'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41FtgQymFDL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '33.52'
 average: '119'
 ---
 
-You've got [Nikon AF-S DX Nikkor 35mm 1:1 8G Objektiv  52mm Filtergewinde ](https://www.amazon.de/dp/B001S2PPT0/?tag=tolees0ca-21) with a  33.52 % discount, with final price of 119 EUR (original: 179 EUR) at the following link:
+Es gibt ein [Nikon AF-S DX Nikkor 35mm 1:1 8G Objektiv  52mm Filtergewinde ](https://www.amazon.de/dp/B001S2PPT0/?tag=tolees0ca-21) mit aktuellem Preis 119 EUR (original: 179 EUR) 33.52 % Rabatt hier:
 
 [![Nikon AF-S DX Nikkor 35mm 1:1 8G Objekti](https://images-eu.ssl-images-amazon.com/images/I/41FtgQymFDL._SL200_.jpg)](https://www.amazon.de/dp/B001S2PPT0/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B001S2PPT0/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B001S2PPT0/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony Alpha 7RM2 E-Mount Vollformat Digit at 63.03 % discount'
+title: '63.03 % rabat auf Sony Alpha 7RM2 E-Mount Vollformat Digit'
 date: 2020-03-22 11:07:08
 image: 'https://m.media-amazon.com/images/I/41rh8T2pEyL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '63.03'
 average: '850.0'
 ---
 
-With a final price of 850.0 EUR (original: 2299.0 EUR) you can find [Sony Alpha 7RM2 E-Mount Vollformat Digitalkamera ILCE-7RM2  42 4 Megapixel  7 6cm  3 Zoll  TFT-Display  4K Video  5-Achsen-Bildstabilisierung  nur Gehäuse  schwarz](https://www.amazon.de/dp/B010THXVNQ/?tag=tolees0ca-21) with a  63.03 % discount here:
+Es gibt ein [Sony Alpha 7RM2 E-Mount Vollformat Digitalkamera ILCE-7RM2  42 4 Megapixel  7 6cm  3 Zoll  TFT-Display  4K Video  5-Achsen-Bildstabilisierung  nur Gehäuse  schwarz](https://www.amazon.de/dp/B010THXVNQ/?tag=tolees0ca-21) mit aktuellem Preis 850.0 EUR (original: 2299.0 EUR) 63.03 % Rabatt hier:
 
 [![Sony Alpha 7RM2 E-Mount Vollformat Digit](https://m.media-amazon.com/images/I/41rh8T2pEyL._SL200_.jpg)](https://www.amazon.de/dp/B010THXVNQ/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.de/dp/B010THXVNQ/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B010THXVNQ/?tag=tolees0ca-21)

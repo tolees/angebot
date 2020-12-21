@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 36.55 % for May Your Kindness Remain'
+title: '36.55 % rabat auf May Your Kindness Remain'
 date: 2020-10-08 19:43:50
 image: 'https://m.media-amazon.com/images/I/51yHJFX3BuL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '36.55'
 average: '7.29'
 ---
 
-You've got [May Your Kindness Remain](https://www.amazon.de/dp/B07896LHJW/?tag=tolees0ca-21) with a  36.55 % discount, with final price of 7.29 EUR (original: 11.49 EUR) at the following link:
+Es gibt ein [May Your Kindness Remain](https://www.amazon.de/dp/B07896LHJW/?tag=tolees0ca-21) mit aktuellem Preis 7.29 EUR (original: 11.49 EUR) 36.55 % Rabatt hier:
 
 [![May Your Kindness Remain](https://m.media-amazon.com/images/I/51yHJFX3BuL._SL200_.jpg)](https://www.amazon.de/dp/B07896LHJW/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B07896LHJW/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B07896LHJW/?tag=tolees0ca-21)

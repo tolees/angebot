@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 49.08 % for The Luckiest Man'
+title: '49.08 % rabat auf The Luckiest Man'
 date: 2020-03-05 04:44:05
 image: 'https://m.media-amazon.com/images/I/61HgbTD86uL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '49.08'
 average: '7.99'
 ---
 
-You've got [The Luckiest Man](https://www.amazon.de/dp/B07668BTNV/?tag=tolees0ca-21) with a  49.08 % discount, with final price of 7.99 EUR (original: 15.69 EUR) at the following link:
+Es gibt ein [The Luckiest Man](https://www.amazon.de/dp/B07668BTNV/?tag=tolees0ca-21) mit aktuellem Preis 7.99 EUR (original: 15.69 EUR) 49.08 % Rabatt hier:
 
 [![The Luckiest Man](https://m.media-amazon.com/images/I/61HgbTD86uL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07668BTNV/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B07668BTNV/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B07668BTNV/?tag=tolees0ca-21)

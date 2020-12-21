@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 21.70 % for Sony SEL-55210 Tele-Zoom-Objektiv  55-21'
+title: 'Sony SEL-55210 Tele-Zoom-Objektiv  55-21 mit 21.70 % Rabatt'
 date: 2020-03-09 04:52:11
 image: 'https://m.media-amazon.com/images/I/41c-aoOyUoL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '21.70'
 average: '185.0'
 ---
 
-You've got [Sony SEL-55210 Tele-Zoom-Objektiv  55-210 mm  F4.5–6.3  OSS  APS-C  geeignet für A6000  A5100  A5000 und Nex Serien  E-Mount  silber](https://www.amazon.de/dp/B005JZ7YWS/?tag=tolees0ca-21) with a  21.70 % discount, with final price of 184.0 EUR (original: 234.98 EUR) at the following link:
+Sie können [Sony SEL-55210 Tele-Zoom-Objektiv  55-210 mm  F4.5–6.3  OSS  APS-C  geeignet für A6000  A5100  A5000 und Nex Serien  E-Mount  silber](https://www.amazon.de/dp/B005JZ7YWS/?tag=tolees0ca-21) mit Preis 184.0 EUR (original: 234.98 EUR) 21.70 % Rabatt hier:
 
 [![Sony SEL-55210 Tele-Zoom-Objektiv  55-21](https://m.media-amazon.com/images/I/41c-aoOyUoL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B005JZ7YWS/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B005JZ7YWS/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B005JZ7YWS/?tag=tolees0ca-21)

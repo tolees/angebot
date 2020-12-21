@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Xbox One X 1TB - Gears 5 Bundle at 46.00 % discount'
+title: 'Xbox One X 1TB - Gears 5 Bundle mit 46.00 % Rabatt'
 date: 2020-02-12 12:39:35
 image: 'https://m.media-amazon.com/images/I/519ewdi859L._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '46.00'
 average: '265.57'
 ---
 
-With a final price of 269.99 EUR (original: 499.99 EUR) you can find [Xbox One X 1TB - Gears 5 Bundle](https://www.amazon.de/dp/B07VPD741S/?tag=tolees0ca-21) with a  46.00 % discount here:
+Sie können [Xbox One X 1TB - Gears 5 Bundle](https://www.amazon.de/dp/B07VPD741S/?tag=tolees0ca-21) mit Preis 269.99 EUR (original: 499.99 EUR) 46.00 % Rabatt hier:
 
 [![Xbox One X 1TB - Gears 5 Bundle](https://m.media-amazon.com/images/I/519ewdi859L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07VPD741S/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.de/dp/B07VPD741S/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B07VPD741S/?tag=tolees0ca-21)

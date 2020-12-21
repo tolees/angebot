@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 26.38 % for Tales of: Vesperia + Berseria + Zestiria'
+title: 'Tales of: Vesperia + Berseria + Zestiria mit 26.38 % Rabatt'
 date: 2020-02-13 04:42:55
 image: 'https://m.media-amazon.com/images/I/51FUEZ6kFhL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '26.38'
 average: '33.99'
 ---
 
-You've got [Tales of: Vesperia + Berseria + Zestiria](https://www.amazon.de/dp/B07XLNH689/?tag=tolees0ca-21) with a  26.38 % discount, with final price of 33.99 EUR (original: 46.17 EUR) at the following link:
+Sie können [Tales of: Vesperia + Berseria + Zestiria](https://www.amazon.de/dp/B07XLNH689/?tag=tolees0ca-21) mit Preis 33.99 EUR (original: 46.17 EUR) 26.38 % Rabatt hier:
 
 [![Tales of: Vesperia + Berseria + Zestiria](https://m.media-amazon.com/images/I/51FUEZ6kFhL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07XLNH689/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B07XLNH689/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B07XLNH689/?tag=tolees0ca-21)

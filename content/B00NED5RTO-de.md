@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '49.74 % deal for Olympus M.Zuiko Digital ED 40-150mm 1:2.'
+title: 'Olympus M.Zuiko Digital ED 40-150mm 1:2. mit 49.74 % Rabatt'
 date: 2020-03-22 04:59:45
 image: 'https://m.media-amazon.com/images/I/41OSQ8pkrGL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '49.74'
 average: '700.0'
 ---
 
-There's a deal [Olympus M.Zuiko Digital ED 40-150mm 1:2.8 Pro Objektiv  inkl. MC 1.4 Telekonverter  für MFT Objektivbajonett  schwarz](https://www.amazon.de/dp/B00NED5RTO/?tag=tolees0ca-21)  with  49.74 % discount, final price tag of  700.0 EUR (original: 1392.84 EUR) here:
+Sie können [Olympus M.Zuiko Digital ED 40-150mm 1:2.8 Pro Objektiv  inkl. MC 1.4 Telekonverter  für MFT Objektivbajonett  schwarz](https://www.amazon.de/dp/B00NED5RTO/?tag=tolees0ca-21) mit Preis 700.0 EUR (original: 1392.84 EUR) 49.74 % Rabatt hier:
 
 [![Olympus M.Zuiko Digital ED 40-150mm 1:2.](https://m.media-amazon.com/images/I/41OSQ8pkrGL._SL200_.jpg)](https://www.amazon.de/dp/B00NED5RTO/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it now!!](https://www.amazon.de/dp/B00NED5RTO/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B00NED5RTO/?tag=tolees0ca-21)

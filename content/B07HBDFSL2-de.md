@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 21.20 % for Apple iPhone XR  64GB  -  PRODUCT RED'
+title: '21.20 % rabat auf Apple iPhone XR  64GB  -  PRODUCT RED'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41x3E3NeRVL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '21.20'
 average: '668.99'
 ---
 
-You've got [Apple iPhone XR  64GB  -  PRODUCT RED](https://www.amazon.de/dp/B07HBDFSL2/?tag=tolees0ca-21) with a  21.20 % discount, with final price of 668.99 EUR (original: 849 EUR) at the following link:
+Es gibt ein [Apple iPhone XR  64GB  -  PRODUCT RED](https://www.amazon.de/dp/B07HBDFSL2/?tag=tolees0ca-21) mit aktuellem Preis 668.99 EUR (original: 849 EUR) 21.20 % Rabatt hier:
 
 [![Apple iPhone XR  64GB  -  PRODUCT RED](https://images-eu.ssl-images-amazon.com/images/I/41x3E3NeRVL._SL200_.jpg)](https://www.amazon.de/dp/B07HBDFSL2/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B07HBDFSL2/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B07HBDFSL2/?tag=tolees0ca-21)

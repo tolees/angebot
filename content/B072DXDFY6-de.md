@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 45.68 % for Guardians of the Galaxy Vol. 2'
+title: '45.68 % rabat auf Guardians of the Galaxy Vol. 2'
 date: 2020-04-16 08:00:04
 image: 'https://m.media-amazon.com/images/I/61v9tOOClJL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '45.68'
 average: '6.165'
 ---
 
-You've got [Guardians of the Galaxy Vol. 2](https://www.amazon.de/dp/B072DXDFY6/?tag=tolees0ca-21) with a  45.68 % discount, with final price of 4.34 EUR (original: 7.99 EUR) at the following link:
+Es gibt ein [Guardians of the Galaxy Vol. 2](https://www.amazon.de/dp/B072DXDFY6/?tag=tolees0ca-21) mit aktuellem Preis 4.34 EUR (original: 7.99 EUR) 45.68 % Rabatt hier:
 
 [![Guardians of the Galaxy Vol. 2](https://m.media-amazon.com/images/I/61v9tOOClJL._SL200_.jpg)](https://www.amazon.de/dp/B072DXDFY6/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B072DXDFY6/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B072DXDFY6/?tag=tolees0ca-21)

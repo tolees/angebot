@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 20.00 % for ghd air hair drying kit'
+title: '20.00 % rabat auf ghd air hair drying kit'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41tMUmaEcWL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '119.2'
 ---
 
-You've got [ghd air hair drying kit](https://www.amazon.de/dp/B00H132DAY/?tag=tolees0ca-21) with a  20.00 % discount, with final price of 119.2 EUR (original: 149 EUR) at the following link:
+Es gibt ein [ghd air hair drying kit](https://www.amazon.de/dp/B00H132DAY/?tag=tolees0ca-21) mit aktuellem Preis 119.2 EUR (original: 149 EUR) 20.00 % Rabatt hier:
 
 [![ghd air hair drying kit](https://images-eu.ssl-images-amazon.com/images/I/41tMUmaEcWL._SL200_.jpg)](https://www.amazon.de/dp/B00H132DAY/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B00H132DAY/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B00H132DAY/?tag=tolees0ca-21)

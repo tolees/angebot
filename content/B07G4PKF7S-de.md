@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 32.11 % for Samsung Galaxy Note 9 Smartphone  128GB '
+title: 'Samsung Galaxy Note 9 Smartphone  128GB  mit 32.11 % Rabatt'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31DVaTf3u6L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '32.11'
 average: '678.27'
 ---
 
-You've got [Samsung Galaxy Note 9 Smartphone  128GB  Dual SIM  - Deutsche Version](https://www.amazon.de/dp/B07G4PKF7S/?tag=tolees0ca-21) with a  32.11 % discount, with final price of 678.27 EUR (original: 999 EUR) at the following link:
+Sie können [Samsung Galaxy Note 9 Smartphone  128GB  Dual SIM  - Deutsche Version](https://www.amazon.de/dp/B07G4PKF7S/?tag=tolees0ca-21) mit Preis 678.27 EUR (original: 999 EUR) 32.11 % Rabatt hier:
 
 [![Samsung Galaxy Note 9 Smartphone  128GB ](https://images-eu.ssl-images-amazon.com/images/I/31DVaTf3u6L._SL200_.jpg)](https://www.amazon.de/dp/B07G4PKF7S/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B07G4PKF7S/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B07G4PKF7S/?tag=tolees0ca-21)

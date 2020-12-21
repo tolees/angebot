@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony Xperia XZ1 Smartphone  13 2 cm  5 2 at 61.37 % discount'
+title: '61.37 % rabat auf Sony Xperia XZ1 Smartphone  13 2 cm  5 2'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41r43PuDjkL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '61.37'
 average: '269.99'
 ---
 
-With a final price of 269.99 EUR (original: 699 EUR) you can find [Sony Xperia XZ1 Smartphone  13 2 cm  5 2 Zoll  Triluminos Display  19MP Kamera  64GB Speicher  Android  Blau - Deutsche Version](https://www.amazon.de/dp/B074PTW8ZS/?tag=tolees0ca-21) with a  61.37 % discount here:
+Es gibt ein [Sony Xperia XZ1 Smartphone  13 2 cm  5 2 Zoll  Triluminos Display  19MP Kamera  64GB Speicher  Android  Blau - Deutsche Version](https://www.amazon.de/dp/B074PTW8ZS/?tag=tolees0ca-21) mit aktuellem Preis 269.99 EUR (original: 699 EUR) 61.37 % Rabatt hier:
 
 [![Sony Xperia XZ1 Smartphone  13 2 cm  5 2](https://images-eu.ssl-images-amazon.com/images/I/41r43PuDjkL._SL200_.jpg)](https://www.amazon.de/dp/B074PTW8ZS/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.de/dp/B074PTW8ZS/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B074PTW8ZS/?tag=tolees0ca-21)

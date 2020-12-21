@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '40.00 % deal for Barilla Pasta Gemelli n. 90  500g'
+title: 'Barilla Pasta Gemelli n. 90  500g mit 40.00 % Rabatt'
 date: 2020-09-25 08:50:35
 image: 'https://m.media-amazon.com/images/I/41V3YOvb8SL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '40.00'
 average: '0.99'
 ---
 
-There's a deal [Barilla Pasta Gemelli n. 90  500g](https://www.amazon.de/dp/B082VPST91/?tag=tolees0ca-21)  with  40.00 % discount, final price tag of  0.99 EUR (original: 1.65 EUR) here:
+Sie können [Barilla Pasta Gemelli n. 90  500g](https://www.amazon.de/dp/B082VPST91/?tag=tolees0ca-21) mit Preis 0.99 EUR (original: 1.65 EUR) 40.00 % Rabatt hier:
 
 [![Barilla Pasta Gemelli n. 90  500g](https://m.media-amazon.com/images/I/41V3YOvb8SL._SL200_.jpg)](https://www.amazon.de/dp/B082VPST91/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it now!!](https://www.amazon.de/dp/B082VPST91/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B082VPST91/?tag=tolees0ca-21)

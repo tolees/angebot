@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 76.20 % for 1602 16x2 Zeichen LCD Display Modul HD44'
+title: '1602 16x2 Zeichen LCD Display Modul HD44 mit 76.20 % Rabatt'
 date: 2020-04-27 14:00:55
 image: 'https://m.media-amazon.com/images/I/41uxA6fDBYL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '76.20'
 average: '2.99'
 ---
 
-You've got [1602 16x2 Zeichen LCD Display Modul HD44780 blau mit Backlight für Arduino](https://www.amazon.de/dp/B009GEPZRE/?tag=tolees0ca-21) with a  76.20 % discount, with final price of 1.19 EUR (original: 5.0 EUR) at the following link:
+Sie können [1602 16x2 Zeichen LCD Display Modul HD44780 blau mit Backlight für Arduino](https://www.amazon.de/dp/B009GEPZRE/?tag=tolees0ca-21) mit Preis 1.19 EUR (original: 5.0 EUR) 76.20 % Rabatt hier:
 
 [![1602 16x2 Zeichen LCD Display Modul HD44](https://m.media-amazon.com/images/I/41uxA6fDBYL._SL200_.jpg)](https://www.amazon.de/dp/B009GEPZRE/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B009GEPZRE/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B009GEPZRE/?tag=tolees0ca-21)

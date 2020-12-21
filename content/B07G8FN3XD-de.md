@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 30.92 % for Huawei Mate 20 lite Dual-SIM Android 8.1'
+title: 'Huawei Mate 20 lite Dual-SIM Android 8.1 mit 30.92 % Rabatt'
 date: 2020-04-19 06:15:06
 image: 'https://m.media-amazon.com/images/I/41ZAXc0YMlL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.92'
 average: '148.45'
 ---
 
-You've got [Huawei Mate 20 lite Dual-SIM Android 8.1 Smartphone mit Dual-Kamera  black  West European Version ](https://www.amazon.de/dp/B07G8FN3XD/?tag=tolees0ca-21) with a  30.92 % discount, with final price of 148.45 EUR (original: 214.9 EUR) at the following link:
+Sie können [Huawei Mate 20 lite Dual-SIM Android 8.1 Smartphone mit Dual-Kamera  black  West European Version ](https://www.amazon.de/dp/B07G8FN3XD/?tag=tolees0ca-21) mit Preis 148.45 EUR (original: 214.9 EUR) 30.92 % Rabatt hier:
 
 [![Huawei Mate 20 lite Dual-SIM Android 8.1](https://m.media-amazon.com/images/I/41ZAXc0YMlL._SL200_.jpg)](https://www.amazon.de/dp/B07G8FN3XD/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B07G8FN3XD/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B07G8FN3XD/?tag=tolees0ca-21)

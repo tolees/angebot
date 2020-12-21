@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OTB Akku für Fuji NP-40 / Pentax D-LI85  at 37.34 % discount'
+title: '37.34 % rabat auf OTB Akku für Fuji NP-40 / Pentax D-LI85 '
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nQYVo8XEL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '37.34'
 average: '4.38'
 ---
 
-With a final price of 4.38 EUR (original: 6.99 EUR) you can find [OTB Akku für Fuji NP-40 / Pentax D-LI85 / Samsung SLB-0737/0837 Li-Ion  600 mAh Schwarz](https://www.amazon.de/dp/B01M0IRNJQ/?tag=tolees0ca-21) with a  37.34 % discount here:
+Es gibt ein [OTB Akku für Fuji NP-40 / Pentax D-LI85 / Samsung SLB-0737/0837 Li-Ion  600 mAh Schwarz](https://www.amazon.de/dp/B01M0IRNJQ/?tag=tolees0ca-21) mit aktuellem Preis 4.38 EUR (original: 6.99 EUR) 37.34 % Rabatt hier:
 
 [![OTB Akku für Fuji NP-40 / Pentax D-LI85 ](https://images-eu.ssl-images-amazon.com/images/I/41nQYVo8XEL._SL200_.jpg)](https://www.amazon.de/dp/B01M0IRNJQ/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.de/dp/B01M0IRNJQ/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B01M0IRNJQ/?tag=tolees0ca-21)

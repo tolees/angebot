@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MEDION S6445 39 6 cm  15 6 Zoll  Full HD at 36.15 % discount'
+title: 'MEDION S6445 39 6 cm  15 6 Zoll  Full HD mit 36.15 % Rabatt'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41drGDuvHwL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '36.15'
 average: '637.9'
 ---
 
-With a final price of 637.9 EUR (original: 999 EUR) you can find [MEDION S6445 39 6 cm  15 6 Zoll  Full HD Notebbok  Intel Core i7-8565U  8GB DDR4 RAM  512GB SSD  Akku Schnellladefunktion  Win 10 Home ](https://www.amazon.de/dp/B07M7H23SY/?tag=tolees0ca-21) with a  36.15 % discount here:
+Sie können [MEDION S6445 39 6 cm  15 6 Zoll  Full HD Notebbok  Intel Core i7-8565U  8GB DDR4 RAM  512GB SSD  Akku Schnellladefunktion  Win 10 Home ](https://www.amazon.de/dp/B07M7H23SY/?tag=tolees0ca-21) mit Preis 637.9 EUR (original: 999 EUR) 36.15 % Rabatt hier:
 
 [![MEDION S6445 39 6 cm  15 6 Zoll  Full HD](https://images-eu.ssl-images-amazon.com/images/I/41drGDuvHwL._SL200_.jpg)](https://www.amazon.de/dp/B07M7H23SY/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.de/dp/B07M7H23SY/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B07M7H23SY/?tag=tolees0ca-21)

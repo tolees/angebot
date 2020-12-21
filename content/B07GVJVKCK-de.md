@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ASUS VivoBook S14 S430UN 90NB0J43-M00630 at 56.14 % discount'
+title: 'ASUS VivoBook S14 S430UN 90NB0J43-M00630 mit 56.14 % Rabatt'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HHZ-5gg%2BL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '56.14'
 average: '482'
 ---
 
-With a final price of 482 EUR (original: 1099 EUR) you can find [ASUS VivoBook S14 S430UN 90NB0J43-M00630 Notebook  35 6 cm  14 Zoll  FHD  Matt  Intel Core i7-8550U  12GB RAM  256GB SSD  1TB HDD  NVIDIA MX150  2GB   Windows 10 Home  silver blue yellow ](https://www.amazon.de/dp/B07GVJVKCK/?tag=tolees0ca-21) with a  56.14 % discount here:
+Sie können [ASUS VivoBook S14 S430UN 90NB0J43-M00630 Notebook  35 6 cm  14 Zoll  FHD  Matt  Intel Core i7-8550U  12GB RAM  256GB SSD  1TB HDD  NVIDIA MX150  2GB   Windows 10 Home  silver blue yellow ](https://www.amazon.de/dp/B07GVJVKCK/?tag=tolees0ca-21) mit Preis 482 EUR (original: 1099 EUR) 56.14 % Rabatt hier:
 
 [![ASUS VivoBook S14 S430UN 90NB0J43-M00630](https://images-eu.ssl-images-amazon.com/images/I/41HHZ-5gg%2BL._SL200_.jpg)](https://www.amazon.de/dp/B07GVJVKCK/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.de/dp/B07GVJVKCK/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B07GVJVKCK/?tag=tolees0ca-21)

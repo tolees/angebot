@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Legend - Steel Edition [Blu-ray] at 37.25 % discount'
+title: '37.25 % rabat auf Legend - Steel Edition [Blu-ray]'
 date: 2020-09-24 09:46:49
 image: 'https://m.media-amazon.com/images/I/41Gz5b0wt+L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '37.25'
 average: '5.93'
 ---
 
-With a final price of 5.93 EUR (original: 9.45 EUR) you can find [Legend - Steel Edition [Blu-ray]](https://www.amazon.de/dp/B01AN8ZF58/?tag=tolees0ca-21) with a  37.25 % discount here:
+Es gibt ein [Legend - Steel Edition [Blu-ray]](https://www.amazon.de/dp/B01AN8ZF58/?tag=tolees0ca-21) mit aktuellem Preis 5.93 EUR (original: 9.45 EUR) 37.25 % Rabatt hier:
 
 [![Legend - Steel Edition [Blu-ray]](https://m.media-amazon.com/images/I/41Gz5b0wt+L._SL200_.jpg)](https://www.amazon.de/dp/B01AN8ZF58/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.de/dp/B01AN8ZF58/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B01AN8ZF58/?tag=tolees0ca-21)

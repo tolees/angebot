@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Battle Studies at 51.03 % discount'
+title: '51.03 % rabat auf Battle Studies'
 date: 2020-09-25 22:02:02
 image: 'https://m.media-amazon.com/images/I/51Cy2w3WzGL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '51.03'
 average: '2.86'
 ---
 
-With a final price of 2.86 EUR (original: 5.84 EUR) you can find [Battle Studies](https://www.amazon.de/dp/B002QEXN2K/?tag=tolees0ca-21) with a  51.03 % discount here:
+Es gibt ein [Battle Studies](https://www.amazon.de/dp/B002QEXN2K/?tag=tolees0ca-21) mit aktuellem Preis 2.86 EUR (original: 5.84 EUR) 51.03 % Rabatt hier:
 
 [![Battle Studies](https://m.media-amazon.com/images/I/51Cy2w3WzGL._SL200_.jpg)](https://www.amazon.de/dp/B002QEXN2K/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.de/dp/B002QEXN2K/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B002QEXN2K/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '28.41 % deal for Dominion'
+title: 'Dominion mit 28.41 % Rabatt'
 date: 2020-09-21 15:22:40
 image: 'https://m.media-amazon.com/images/I/61APhsqI84L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '28.41'
 average: '7.99'
 ---
 
-There's a deal [Dominion](https://www.amazon.de/dp/B07RDRK7KR/?tag=tolees0ca-21)  with  28.41 % discount, final price tag of  7.99 EUR (original: 11.16 EUR) here:
+Sie können [Dominion](https://www.amazon.de/dp/B07RDRK7KR/?tag=tolees0ca-21) mit Preis 7.99 EUR (original: 11.16 EUR) 28.41 % Rabatt hier:
 
 [![Dominion](https://m.media-amazon.com/images/I/61APhsqI84L._SL200_.jpg)](https://www.amazon.de/dp/B07RDRK7KR/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it now!!](https://www.amazon.de/dp/B07RDRK7KR/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B07RDRK7KR/?tag=tolees0ca-21)

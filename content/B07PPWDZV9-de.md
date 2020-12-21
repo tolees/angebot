@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Carrera RC Super Mario Odyssey Scooter - at 60.01 % discount'
+title: 'Carrera RC Super Mario Odyssey Scooter - mit 60.01 % Rabatt'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41I7k0b1nOL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '60.01'
 average: '19.99'
 ---
 
-With a final price of 19.99 EUR (original: 49.99 EUR) you can find [Carrera RC Super Mario Odyssey Scooter - Ferngesteuerter Elektro-Roller für drinnen & draußen - Spielzeugroller für Kinder ab 6 Jahren & Erwachsene](https://www.amazon.de/dp/B07PPWDZV9/?tag=tolees0ca-21) with a  60.01 % discount here:
+Sie können [Carrera RC Super Mario Odyssey Scooter - Ferngesteuerter Elektro-Roller für drinnen & draußen - Spielzeugroller für Kinder ab 6 Jahren & Erwachsene](https://www.amazon.de/dp/B07PPWDZV9/?tag=tolees0ca-21) mit Preis 19.99 EUR (original: 49.99 EUR) 60.01 % Rabatt hier:
 
 [![Carrera RC Super Mario Odyssey Scooter -](https://images-eu.ssl-images-amazon.com/images/I/41I7k0b1nOL._SL200_.jpg)](https://www.amazon.de/dp/B07PPWDZV9/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.de/dp/B07PPWDZV9/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B07PPWDZV9/?tag=tolees0ca-21)

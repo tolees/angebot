@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 37.28 % for Xiaomi Mi 9 6/128GB LTE Dual-SIM Android'
+title: '37.28 % rabat auf Xiaomi Mi 9 6/128GB LTE Dual-SIM Android'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41rvsmlLt5L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '37.28'
 average: '312.95'
 ---
 
-You've got [Xiaomi Mi 9 6/128GB LTE Dual-SIM Android 9.0 Smartphone Ocean blau EU](https://www.amazon.de/dp/B07P5YVS48/?tag=tolees0ca-21) with a  37.28 % discount, with final price of 312.95 EUR (original: 499 EUR) at the following link:
+Es gibt ein [Xiaomi Mi 9 6/128GB LTE Dual-SIM Android 9.0 Smartphone Ocean blau EU](https://www.amazon.de/dp/B07P5YVS48/?tag=tolees0ca-21) mit aktuellem Preis 312.95 EUR (original: 499 EUR) 37.28 % Rabatt hier:
 
 [![Xiaomi Mi 9 6/128GB LTE Dual-SIM Android](https://images-eu.ssl-images-amazon.com/images/I/41rvsmlLt5L._SL200_.jpg)](https://www.amazon.de/dp/B07P5YVS48/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B07P5YVS48/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B07P5YVS48/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '5 Original Albums at 30.05 % discount'
+title: '30.05 % rabat auf 5 Original Albums'
 date: 2020-09-24 19:55:46
 image: 'https://m.media-amazon.com/images/I/61hTgF4ZanL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.05'
 average: '6.68'
 ---
 
-With a final price of 6.68 EUR (original: 9.55 EUR) you can find [5 Original Albums](https://www.amazon.de/dp/B01BL0XQHG/?tag=tolees0ca-21) with a  30.05 % discount here:
+Es gibt ein [5 Original Albums](https://www.amazon.de/dp/B01BL0XQHG/?tag=tolees0ca-21) mit aktuellem Preis 6.68 EUR (original: 9.55 EUR) 30.05 % Rabatt hier:
 
 [![5 Original Albums](https://m.media-amazon.com/images/I/61hTgF4ZanL._SL200_.jpg)](https://www.amazon.de/dp/B01BL0XQHG/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.de/dp/B01BL0XQHG/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B01BL0XQHG/?tag=tolees0ca-21)

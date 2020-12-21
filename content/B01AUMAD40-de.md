@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '80.08 % deal for KMP Protective Case  13   MacBook Pro Re'
+title: '80.08 % rabat auf KMP Protective Case  13   MacBook Pro Re'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31z84nxSYuL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '80.08'
 average: '9.95'
 ---
 
-There's a deal [KMP Protective Case  13   MacBook Pro Retina  pink](https://www.amazon.de/dp/B01AUMAD40/?tag=tolees0ca-21)  with  80.08 % discount, final price tag of  9.95 EUR (original: 49.95 EUR) here:
+Es gibt ein [KMP Protective Case  13   MacBook Pro Retina  pink](https://www.amazon.de/dp/B01AUMAD40/?tag=tolees0ca-21) mit aktuellem Preis 9.95 EUR (original: 49.95 EUR) 80.08 % Rabatt hier:
 
 [![KMP Protective Case  13   MacBook Pro Re](https://images-eu.ssl-images-amazon.com/images/I/31z84nxSYuL._SL200_.jpg)](https://www.amazon.de/dp/B01AUMAD40/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it now!!](https://www.amazon.de/dp/B01AUMAD40/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B01AUMAD40/?tag=tolees0ca-21)

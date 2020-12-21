@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 17.13 % for Wreckfest [Xbox One]'
+title: 'Wreckfest [Xbox One] mit 17.13 % Rabatt'
 date: 2020-03-19 05:15:36
 image: 'https://m.media-amazon.com/images/I/51YUsVb7xfL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '17.13'
 average: '34.615'
 ---
 
-You've got [Wreckfest [Xbox One]](https://www.amazon.de/dp/B07D57WCC5/?tag=tolees0ca-21) with a  17.13 % discount, with final price of 29.99 EUR (original: 36.19 EUR) at the following link:
+Sie können [Wreckfest [Xbox One]](https://www.amazon.de/dp/B07D57WCC5/?tag=tolees0ca-21) mit Preis 29.99 EUR (original: 36.19 EUR) 17.13 % Rabatt hier:
 
 [![Wreckfest [Xbox One]](https://m.media-amazon.com/images/I/51YUsVb7xfL._SL200_.jpg)](https://www.amazon.de/dp/B07D57WCC5/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B07D57WCC5/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B07D57WCC5/?tag=tolees0ca-21)

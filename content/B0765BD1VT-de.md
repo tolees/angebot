@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Ninjago 70644 Goldener Drachenmeist at 25.28 % discount'
+title: 'LEGO Ninjago 70644 Goldener Drachenmeist mit 25.28 % Rabatt'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51to907TUXL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '25.28'
 average: '11.2'
 ---
 
-With a final price of 11.2 EUR (original: 14.99 EUR) you can find [LEGO Ninjago 70644 Goldener Drachenmeister](https://www.amazon.de/dp/B0765BD1VT/?tag=tolees0ca-21) with a  25.28 % discount here:
+Sie können [LEGO Ninjago 70644 Goldener Drachenmeister](https://www.amazon.de/dp/B0765BD1VT/?tag=tolees0ca-21) mit Preis 11.2 EUR (original: 14.99 EUR) 25.28 % Rabatt hier:
 
 [![LEGO Ninjago 70644 Goldener Drachenmeist](https://images-eu.ssl-images-amazon.com/images/I/51to907TUXL._SL200_.jpg)](https://www.amazon.de/dp/B0765BD1VT/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.de/dp/B0765BD1VT/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B0765BD1VT/?tag=tolees0ca-21)

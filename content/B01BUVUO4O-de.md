@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '16.69 % deal for London Has Fallen'
+title: '16.69 % rabat auf London Has Fallen'
 date: 2020-02-06 04:57:38
 image: 'https://m.media-amazon.com/images/I/51E45YB9lYL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '16.69'
 average: '4.99'
 ---
 
-There's a deal [London Has Fallen](https://www.amazon.de/dp/B01BUVUO4O/?tag=tolees0ca-21)  with  16.69 % discount, final price tag of  4.99 EUR (original: 5.99 EUR) here:
+Es gibt ein [London Has Fallen](https://www.amazon.de/dp/B01BUVUO4O/?tag=tolees0ca-21) mit aktuellem Preis 4.99 EUR (original: 5.99 EUR) 16.69 % Rabatt hier:
 
 [![London Has Fallen](https://m.media-amazon.com/images/I/51E45YB9lYL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01BUVUO4O/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it now!!](https://www.amazon.de/dp/B01BUVUO4O/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B01BUVUO4O/?tag=tolees0ca-21)

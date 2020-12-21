@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KS Tools 515.1124 1/2" Sechskant-Kraft-S at 15.72 % discount'
+title: '15.72 % rabat auf KS Tools 515.1124 1/2" Sechskant-Kraft-S'
 date: 2020-04-15 23:53:44
 image: 'https://m.media-amazon.com/images/I/31FXRUEGRoL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '15.72'
 average: '11.37'
 ---
 
-With a final price of 11.37 EUR (original: 13.49 EUR) you can find [KS Tools 515.1124 1/2" Sechskant-Kraft-Stecknuss  lang  24mm](https://www.amazon.de/dp/B001NYY90E/?tag=tolees0ca-21) with a  15.72 % discount here:
+Es gibt ein [KS Tools 515.1124 1/2" Sechskant-Kraft-Stecknuss  lang  24mm](https://www.amazon.de/dp/B001NYY90E/?tag=tolees0ca-21) mit aktuellem Preis 11.37 EUR (original: 13.49 EUR) 15.72 % Rabatt hier:
 
 [![KS Tools 515.1124 1/2" Sechskant-Kraft-S](https://m.media-amazon.com/images/I/31FXRUEGRoL._SL200_.jpg)](https://www.amazon.de/dp/B001NYY90E/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.de/dp/B001NYY90E/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B001NYY90E/?tag=tolees0ca-21)

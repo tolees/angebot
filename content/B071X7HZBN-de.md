@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 30.02 % for POP Television: Bob Ross'
+title: 'POP Television: Bob Ross mit 30.02 % Rabatt'
 date: 2020-04-14 16:06:59
 image: 'https://m.media-amazon.com/images/I/514mWsb7uiL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.02'
 average: '9.79'
 ---
 
-You've got [POP Television: Bob Ross](https://www.amazon.de/dp/B071X7HZBN/?tag=tolees0ca-21) with a  30.02 % discount, with final price of 9.79 EUR (original: 13.99 EUR) at the following link:
+Sie können [POP Television: Bob Ross](https://www.amazon.de/dp/B071X7HZBN/?tag=tolees0ca-21) mit Preis 9.79 EUR (original: 13.99 EUR) 30.02 % Rabatt hier:
 
 [![POP Television: Bob Ross](https://m.media-amazon.com/images/I/514mWsb7uiL._SL200_.jpg)](https://www.amazon.de/dp/B071X7HZBN/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B071X7HZBN/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B071X7HZBN/?tag=tolees0ca-21)

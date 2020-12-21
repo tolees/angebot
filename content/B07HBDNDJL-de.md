@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple iPhone XR  128GB  - Blau at 22.99 % discount'
+title: 'Apple iPhone XR  128GB  - Blau mit 22.99 % Rabatt'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qEt1KLOIL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '22.99'
 average: '700'
 ---
 
-With a final price of 700 EUR (original: 909 EUR) you can find [Apple iPhone XR  128GB  - Blau](https://www.amazon.de/dp/B07HBDNDJL/?tag=tolees0ca-21) with a  22.99 % discount here:
+Sie können [Apple iPhone XR  128GB  - Blau](https://www.amazon.de/dp/B07HBDNDJL/?tag=tolees0ca-21) mit Preis 700 EUR (original: 909 EUR) 22.99 % Rabatt hier:
 
 [![Apple iPhone XR  128GB  - Blau](https://images-eu.ssl-images-amazon.com/images/I/41qEt1KLOIL._SL200_.jpg)](https://www.amazon.de/dp/B07HBDNDJL/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.de/dp/B07HBDNDJL/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B07HBDNDJL/?tag=tolees0ca-21)

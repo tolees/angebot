@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 50.01 % for De Longhi EDG 355 NESCAFÉ Dolce Gusto Co'
+title: 'De Longhi EDG 355 NESCAFÉ Dolce Gusto Co mit 50.01 % Rabatt'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/318pW9gsNAL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.01'
 average: '49.99'
 ---
 
-You've got [De Longhi EDG 355 NESCAFÉ Dolce Gusto Colors Kapsel Kaffeemaschine Für heiße und kalte Getränke Weiß](https://www.amazon.de/dp/B074ZDL7TW/?tag=tolees0ca-21) with a  50.01 % discount, with final price of 49.99 EUR (original: 99.99 EUR) at the following link:
+Sie können [De Longhi EDG 355 NESCAFÉ Dolce Gusto Colors Kapsel Kaffeemaschine Für heiße und kalte Getränke Weiß](https://www.amazon.de/dp/B074ZDL7TW/?tag=tolees0ca-21) mit Preis 49.99 EUR (original: 99.99 EUR) 50.01 % Rabatt hier:
 
 [![De Longhi EDG 355 NESCAFÉ Dolce Gusto Co](https://images-eu.ssl-images-amazon.com/images/I/318pW9gsNAL._SL200_.jpg)](https://www.amazon.de/dp/B074ZDL7TW/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B074ZDL7TW/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B074ZDL7TW/?tag=tolees0ca-21)

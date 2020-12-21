@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '44.77 % deal for Call Of Cthulhu [Playstation 4]'
+title: 'Call Of Cthulhu [Playstation 4] mit 44.77 % Rabatt'
 date: 2020-02-03 09:31:05
 image: 'https://m.media-amazon.com/images/I/51g8Y20be+L._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '44.77'
 average: '15.99'
 ---
 
-There's a deal [Call Of Cthulhu [Playstation 4]](https://www.amazon.de/dp/B07CG1R3VF/?tag=tolees0ca-21)  with  44.77 % discount, final price tag of  15.99 EUR (original: 28.95 EUR) here:
+Sie können [Call Of Cthulhu [Playstation 4]](https://www.amazon.de/dp/B07CG1R3VF/?tag=tolees0ca-21) mit Preis 15.99 EUR (original: 28.95 EUR) 44.77 % Rabatt hier:
 
 [![Call Of Cthulhu [Playstation 4]](https://m.media-amazon.com/images/I/51g8Y20be+L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07CG1R3VF/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it now!!](https://www.amazon.de/dp/B07CG1R3VF/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B07CG1R3VF/?tag=tolees0ca-21)

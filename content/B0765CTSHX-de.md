@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 25.00 % for LEGO City Krankenhaus  60204  Kinderspie'
+title: 'LEGO City Krankenhaus  60204  Kinderspie mit 25.00 % Rabatt'
 date: 2020-01-07 13:23:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51jd3pT6z2L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '25.00'
 average: '59.99'
 ---
 
-You've got [LEGO City Krankenhaus  60204  Kinderspielzeug](https://www.amazon.de/dp/B0765CTSHX/?tag=tolees0ca-21) with a  25.00 % discount, with final price of 59.99 EUR (original: 79.99 EUR) at the following link:
+Sie können [LEGO City Krankenhaus  60204  Kinderspielzeug](https://www.amazon.de/dp/B0765CTSHX/?tag=tolees0ca-21) mit Preis 59.99 EUR (original: 79.99 EUR) 25.00 % Rabatt hier:
 
 [![LEGO City Krankenhaus  60204  Kinderspie](https://images-eu.ssl-images-amazon.com/images/I/51jd3pT6z2L._SL200_.jpg)](https://www.amazon.de/dp/B0765CTSHX/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B0765CTSHX/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B0765CTSHX/?tag=tolees0ca-21)

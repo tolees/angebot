@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony MDR-E9LP In-Ear / In-Ohr Kopfhörer  at 50.12 % discount'
+title: 'Sony MDR-E9LP In-Ear / In-Ohr Kopfhörer  mit 50.12 % Rabatt'
 date: 2020-05-16 13:48:00
 image: 'https://m.media-amazon.com/images/I/31uIDeQE25L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.12'
 average: '3.99'
 ---
 
-With a final price of 3.99 EUR (original: 8.0 EUR) you can find [Sony MDR-E9LP In-Ear / In-Ohr Kopfhörer  1 2m Kabel  Neodym-Magnet  für MP3-Player  Walkman  iPod  weiß/blau](https://www.amazon.de/dp/B004VCT3DI/?tag=tolees0ca-21) with a  50.12 % discount here:
+Sie können [Sony MDR-E9LP In-Ear / In-Ohr Kopfhörer  1 2m Kabel  Neodym-Magnet  für MP3-Player  Walkman  iPod  weiß/blau](https://www.amazon.de/dp/B004VCT3DI/?tag=tolees0ca-21) mit Preis 3.99 EUR (original: 8.0 EUR) 50.12 % Rabatt hier:
 
 [![Sony MDR-E9LP In-Ear / In-Ohr Kopfhörer ](https://m.media-amazon.com/images/I/31uIDeQE25L._SL200_.jpg)](https://www.amazon.de/dp/B004VCT3DI/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.de/dp/B004VCT3DI/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B004VCT3DI/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '48.32 % deal for Philips Ersatzlampenbox H1 / H7'
+title: 'Philips Ersatzlampenbox H1 / H7 mit 48.32 % Rabatt'
 date: 2020-10-09 12:12:21
 image: 'https://m.media-amazon.com/images/I/41TmlNUwBlL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '48.32'
 average: '6.0'
 ---
 
-There's a deal [Philips Ersatzlampenbox H1 / H7](https://www.amazon.de/dp/B002A9JI9S/?tag=tolees0ca-21)  with  48.32 % discount, final price tag of  6.0 EUR (original: 11.61 EUR) here:
+Sie können [Philips Ersatzlampenbox H1 / H7](https://www.amazon.de/dp/B002A9JI9S/?tag=tolees0ca-21) mit Preis 6.0 EUR (original: 11.61 EUR) 48.32 % Rabatt hier:
 
 [![Philips Ersatzlampenbox H1 / H7](https://m.media-amazon.com/images/I/41TmlNUwBlL._SL200_.jpg)](https://www.amazon.de/dp/B002A9JI9S/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it now!!](https://www.amazon.de/dp/B002A9JI9S/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B002A9JI9S/?tag=tolees0ca-21)

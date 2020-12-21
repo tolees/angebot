@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 23.81 % for LEGO Marvel Super Heroes 76124 War Machi'
+title: 'LEGO Marvel Super Heroes 76124 War Machi mit 23.81 % Rabatt'
 date: 2020-08-23 17:03:03
 image: 'https://m.media-amazon.com/images/I/51LnTM63gsL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '23.81'
 average: '25.492318840579706'
 ---
 
-You've got [LEGO Marvel Super Heroes 76124 War Machine Buster](https://www.amazon.de/dp/B07FP2GRY3/?tag=tolees0ca-21) with a  23.81 % discount, with final price of 25.99 EUR (original: 34.11 EUR) at the following link:
+Sie können [LEGO Marvel Super Heroes 76124 War Machine Buster](https://www.amazon.de/dp/B07FP2GRY3/?tag=tolees0ca-21) mit Preis 25.99 EUR (original: 34.11 EUR) 23.81 % Rabatt hier:
 
 [![LEGO Marvel Super Heroes 76124 War Machi](https://m.media-amazon.com/images/I/51LnTM63gsL._SL200_.jpg)](https://www.amazon.de/dp/B07FP2GRY3/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B07FP2GRY3/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B07FP2GRY3/?tag=tolees0ca-21)

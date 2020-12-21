@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 38.43 % for POP Lord of The Rings Legolas'
+title: '38.43 % rabat auf POP Lord of The Rings Legolas'
 date: 2020-07-09 05:28:13
 image: 'https://m.media-amazon.com/images/I/41X2MqxX5TL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '38.43'
 average: '13.42470588235294'
 ---
 
-You've got [POP Lord of The Rings Legolas](https://www.amazon.de/dp/B07DFDV368/?tag=tolees0ca-21) with a  38.43 % discount, with final price of 9.79 EUR (original: 15.9 EUR) at the following link:
+Es gibt ein [POP Lord of The Rings Legolas](https://www.amazon.de/dp/B07DFDV368/?tag=tolees0ca-21) mit aktuellem Preis 9.79 EUR (original: 15.9 EUR) 38.43 % Rabatt hier:
 
 [![POP Lord of The Rings Legolas](https://m.media-amazon.com/images/I/41X2MqxX5TL._SL200_.jpg)](https://www.amazon.de/dp/B07DFDV368/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B07DFDV368/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B07DFDV368/?tag=tolees0ca-21)

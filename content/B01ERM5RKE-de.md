@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 35.62 % for The First Avenger: Civil War'
+title: 'The First Avenger: Civil War mit 35.62 % Rabatt'
 date: 2020-04-16 08:00:01
 image: 'https://m.media-amazon.com/images/I/518+C7VFteL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '35.62'
 average: '8.293333333333333'
 ---
 
-You've got [The First Avenger: Civil War](https://www.amazon.de/dp/B01ERM5RKE/?tag=tolees0ca-21) with a  35.62 % discount, with final price of 4.5 EUR (original: 6.99 EUR) at the following link:
+Sie können [The First Avenger: Civil War](https://www.amazon.de/dp/B01ERM5RKE/?tag=tolees0ca-21) mit Preis 4.5 EUR (original: 6.99 EUR) 35.62 % Rabatt hier:
 
 [![The First Avenger: Civil War](https://m.media-amazon.com/images/I/518+C7VFteL._SL200_.jpg)](https://www.amazon.de/dp/B01ERM5RKE/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B01ERM5RKE/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B01ERM5RKE/?tag=tolees0ca-21)

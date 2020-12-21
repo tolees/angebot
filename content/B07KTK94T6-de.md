@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '32.03 % deal for LEGO 41374 - Friends Andreas Pool-Party '
+title: '32.03 % rabat auf LEGO 41374 - Friends Andreas Pool-Party '
 date: 2020-04-20 16:25:57
 image: 'https://m.media-amazon.com/images/I/51wPY0aMjzL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '32.03'
 average: '34.7775'
 ---
 
-There's a deal [LEGO 41374 - Friends Andreas Pool-Party  Bauset](https://www.amazon.de/dp/B07KTK94T6/?tag=tolees0ca-21)  with  32.03 % discount, final price tag of  33.98 EUR (original: 49.99 EUR) here:
+Es gibt ein [LEGO 41374 - Friends Andreas Pool-Party  Bauset](https://www.amazon.de/dp/B07KTK94T6/?tag=tolees0ca-21) mit aktuellem Preis 33.98 EUR (original: 49.99 EUR) 32.03 % Rabatt hier:
 
 [![LEGO 41374 - Friends Andreas Pool-Party ](https://m.media-amazon.com/images/I/51wPY0aMjzL._SL200_.jpg)](https://www.amazon.de/dp/B07KTK94T6/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it now!!](https://www.amazon.de/dp/B07KTK94T6/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B07KTK94T6/?tag=tolees0ca-21)

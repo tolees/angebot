@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics Mobiles Fotostudio at 40.90 % discount'
+title: '40.90 % rabat auf AmazonBasics Mobiles Fotostudio'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41bJZEUgiNL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '40.90'
 average: '65'
 ---
 
-With a final price of 65 EUR (original: 109.99 EUR) you can find [AmazonBasics Mobiles Fotostudio](https://www.amazon.de/dp/B01GPXWNP0/?tag=tolees0ca-21) with a  40.90 % discount here:
+Es gibt ein [AmazonBasics Mobiles Fotostudio](https://www.amazon.de/dp/B01GPXWNP0/?tag=tolees0ca-21) mit aktuellem Preis 65 EUR (original: 109.99 EUR) 40.90 % Rabatt hier:
 
 [![AmazonBasics Mobiles Fotostudio](https://images-eu.ssl-images-amazon.com/images/I/41bJZEUgiNL._SL200_.jpg)](https://www.amazon.de/dp/B01GPXWNP0/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.de/dp/B01GPXWNP0/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B01GPXWNP0/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 51.27 % for Bosch Professional Akku-Stichsäge GST 18'
+title: '51.27 % rabat auf Bosch Professional Akku-Stichsäge GST 18'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BzMC1uATL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '51.27'
 average: '126.99'
 ---
 
-You've got [Bosch Professional Akku-Stichsäge GST 18 V-LI S  Ohne Akku  18 Volt System  Schnitttiefe Holz: 120 mm  in L-Boxx ](https://www.amazon.de/dp/B00MWHIJKW/?tag=tolees0ca-21) with a  51.27 % discount, with final price of 126.99 EUR (original: 260.61 EUR) at the following link:
+Es gibt ein [Bosch Professional Akku-Stichsäge GST 18 V-LI S  Ohne Akku  18 Volt System  Schnitttiefe Holz: 120 mm  in L-Boxx ](https://www.amazon.de/dp/B00MWHIJKW/?tag=tolees0ca-21) mit aktuellem Preis 126.99 EUR (original: 260.61 EUR) 51.27 % Rabatt hier:
 
 [![Bosch Professional Akku-Stichsäge GST 18](https://images-eu.ssl-images-amazon.com/images/I/41%2BzMC1uATL._SL200_.jpg)](https://www.amazon.de/dp/B00MWHIJKW/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B00MWHIJKW/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B00MWHIJKW/?tag=tolees0ca-21)

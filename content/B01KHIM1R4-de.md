@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 19.14 % for Philips LED Lampe 11 W ersetzt 75 W  E27'
+title: '19.14 % rabat auf Philips LED Lampe 11 W ersetzt 75 W  E27'
 date: 2020-02-21 04:48:34
 image: 'https://m.media-amazon.com/images/I/41wUS9ogg+L._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '19.14'
 average: '19.09'
 ---
 
-You've got [Philips LED Lampe 11 W ersetzt 75 W  E27  warmweiß  2700K  1055 Lumen  6er Pack](https://www.amazon.de/dp/B01KHIM1R4/?tag=tolees0ca-21) with a  19.14 % discount, with final price of 19.09 EUR (original: 23.61 EUR) at the following link:
+Es gibt ein [Philips LED Lampe 11 W ersetzt 75 W  E27  warmweiß  2700K  1055 Lumen  6er Pack](https://www.amazon.de/dp/B01KHIM1R4/?tag=tolees0ca-21) mit aktuellem Preis 19.09 EUR (original: 23.61 EUR) 19.14 % Rabatt hier:
 
 [![Philips LED Lampe 11 W ersetzt 75 W  E27](https://m.media-amazon.com/images/I/41wUS9ogg+L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01KHIM1R4/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B01KHIM1R4/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B01KHIM1R4/?tag=tolees0ca-21)

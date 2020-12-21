@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 33.56 % for Custom Brick Design Sith Lord Darth Nihi'
+title: '33.56 % rabat auf Custom Brick Design Sith Lord Darth Nihi'
 date: 2020-04-11 08:03:50
 image: 'https://m.media-amazon.com/images/I/51Q6FYCYCuL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '33.56'
 average: '9.9'
 ---
 
-You've got [Custom Brick Design Sith Lord Darth Nihilus Figur - - modifizierte Minifigur des bekannten Klemmbausteinherstellers und somit voll kompatibel zu Lego](https://www.amazon.de/dp/B07P6YRNX2/?tag=tolees0ca-21) with a  33.56 % discount, with final price of 9.9 EUR (original: 14.9 EUR) at the following link:
+Es gibt ein [Custom Brick Design Sith Lord Darth Nihilus Figur - - modifizierte Minifigur des bekannten Klemmbausteinherstellers und somit voll kompatibel zu Lego](https://www.amazon.de/dp/B07P6YRNX2/?tag=tolees0ca-21) mit aktuellem Preis 9.9 EUR (original: 14.9 EUR) 33.56 % Rabatt hier:
 
 [![Custom Brick Design Sith Lord Darth Nihi](https://m.media-amazon.com/images/I/51Q6FYCYCuL._SL200_.jpg)](https://www.amazon.de/dp/B07P6YRNX2/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B07P6YRNX2/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B07P6YRNX2/?tag=tolees0ca-21)

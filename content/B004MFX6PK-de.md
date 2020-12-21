@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Star Wars - Minifigur Sugi sw305 au at 41.38 % discount'
+title: '41.38 % rabat auf LEGO Star Wars - Minifigur Sugi sw305 au'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41LH-AVsjeL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '41.38'
 average: '2.72'
 ---
 
-With a final price of 2.72 EUR (original: 4.64 EUR) you can find [LEGO Star Wars - Minifigur Sugi sw305 aus 7930](https://www.amazon.de/dp/B004MFX6PK/?tag=tolees0ca-21) with a  41.38 % discount here:
+Es gibt ein [LEGO Star Wars - Minifigur Sugi sw305 aus 7930](https://www.amazon.de/dp/B004MFX6PK/?tag=tolees0ca-21) mit aktuellem Preis 2.72 EUR (original: 4.64 EUR) 41.38 % Rabatt hier:
 
 [![LEGO Star Wars - Minifigur Sugi sw305 au](https://images-eu.ssl-images-amazon.com/images/I/41LH-AVsjeL._SL200_.jpg)](https://www.amazon.de/dp/B004MFX6PK/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.de/dp/B004MFX6PK/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B004MFX6PK/?tag=tolees0ca-21)

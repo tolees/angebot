@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '17.50 % deal for LEGO Ninjago 70640 - Hauptquartier der M'
+title: '17.50 % rabat auf LEGO Ninjago 70640 - Hauptquartier der M'
 date: 2020-02-03 09:25:28
 image: 'https://m.media-amazon.com/images/I/51vPtdJjZGL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '17.50'
 average: '31.485'
 ---
 
-There's a deal [LEGO Ninjago 70640 - Hauptquartier der Motorradfahrer  Bauspielzeug](https://www.amazon.de/dp/B075T2KJZD/?tag=tolees0ca-21)  with  17.50 % discount, final price tag of  32.99 EUR (original: 39.99 EUR) here:
+Es gibt ein [LEGO Ninjago 70640 - Hauptquartier der Motorradfahrer  Bauspielzeug](https://www.amazon.de/dp/B075T2KJZD/?tag=tolees0ca-21) mit aktuellem Preis 32.99 EUR (original: 39.99 EUR) 17.50 % Rabatt hier:
 
 [![LEGO Ninjago 70640 - Hauptquartier der M](https://m.media-amazon.com/images/I/51vPtdJjZGL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B075T2KJZD/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it now!!](https://www.amazon.de/dp/B075T2KJZD/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B075T2KJZD/?tag=tolees0ca-21)

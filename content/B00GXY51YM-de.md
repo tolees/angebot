@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 22.88 % for The LEGO Movie Videogame - [Nintendo Wii'
+title: 'The LEGO Movie Videogame - [Nintendo Wii mit 22.88 % Rabatt'
 date: 2020-04-16 08:48:38
 image: 'https://m.media-amazon.com/images/I/51q2W+L8DaL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '22.88'
 average: '12.184000000000001'
 ---
 
-You've got [The LEGO Movie Videogame - [Nintendo Wii U]](https://www.amazon.de/dp/B00GXY51YM/?tag=tolees0ca-21) with a  22.88 % discount, with final price of 10.99 EUR (original: 14.25 EUR) at the following link:
+Sie können [The LEGO Movie Videogame - [Nintendo Wii U]](https://www.amazon.de/dp/B00GXY51YM/?tag=tolees0ca-21) mit Preis 10.99 EUR (original: 14.25 EUR) 22.88 % Rabatt hier:
 
 [![The LEGO Movie Videogame - [Nintendo Wii](https://m.media-amazon.com/images/I/51q2W+L8DaL._SL200_.jpg)](https://www.amazon.de/dp/B00GXY51YM/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B00GXY51YM/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B00GXY51YM/?tag=tolees0ca-21)

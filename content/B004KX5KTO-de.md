@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 51.03 % for Murder Ballads  2011-Remaster '
+title: 'Murder Ballads  2011-Remaster  mit 51.03 % Rabatt'
 date: 2020-09-21 15:07:53
 image: 'https://m.media-amazon.com/images/I/61xuRRmZuAL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '51.03'
 average: '4.29'
 ---
 
-You've got [Murder Ballads  2011-Remaster ](https://www.amazon.de/dp/B004KX5KTO/?tag=tolees0ca-21) with a  51.03 % discount, with final price of 4.29 EUR (original: 8.76 EUR) at the following link:
+Sie können [Murder Ballads  2011-Remaster ](https://www.amazon.de/dp/B004KX5KTO/?tag=tolees0ca-21) mit Preis 4.29 EUR (original: 8.76 EUR) 51.03 % Rabatt hier:
 
 [![Murder Ballads  2011-Remaster ](https://m.media-amazon.com/images/I/61xuRRmZuAL._SL200_.jpg)](https://www.amazon.de/dp/B004KX5KTO/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B004KX5KTO/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B004KX5KTO/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'D-Link DGS-1210-52P Gigabit Smart Switch at 52.92 % discount'
+title: 'D-Link DGS-1210-52P Gigabit Smart Switch mit 52.92 % Rabatt'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41rdrvCuwQL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '52.92'
 average: '402'
 ---
 
-With a final price of 402 EUR (original: 853.9 EUR) you can find [D-Link DGS-1210-52P Gigabit Smart Switch POE Layer-2 Managed  52-Port ](https://www.amazon.de/dp/B00P7RAHWW/?tag=tolees0ca-21) with a  52.92 % discount here:
+Sie können [D-Link DGS-1210-52P Gigabit Smart Switch POE Layer-2 Managed  52-Port ](https://www.amazon.de/dp/B00P7RAHWW/?tag=tolees0ca-21) mit Preis 402 EUR (original: 853.9 EUR) 52.92 % Rabatt hier:
 
 [![D-Link DGS-1210-52P Gigabit Smart Switch](https://images-eu.ssl-images-amazon.com/images/I/41rdrvCuwQL._SL200_.jpg)](https://www.amazon.de/dp/B00P7RAHWW/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.de/dp/B00P7RAHWW/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B00P7RAHWW/?tag=tolees0ca-21)

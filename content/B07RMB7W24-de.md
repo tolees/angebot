@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '20.56 % deal for Funko 44819 POP TV: Game of Thrones-Arya'
+title: '20.56 % rabat auf Funko 44819 POP TV: Game of Thrones-Arya'
 date: 2020-04-13 07:45:59
 image: 'https://m.media-amazon.com/images/I/41yZNJwhgAL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.56'
 average: '8.5'
 ---
 
-There's a deal [Funko 44819 POP TV: Game of Thrones-Arya w/Two Headed Spear Sammelbares Spielzeug  Mehrfarben  Standard](https://www.amazon.de/dp/B07RMB7W24/?tag=tolees0ca-21)  with  20.56 % discount, final price tag of  8.5 EUR (original: 10.7 EUR) here:
+Es gibt ein [Funko 44819 POP TV: Game of Thrones-Arya w/Two Headed Spear Sammelbares Spielzeug  Mehrfarben  Standard](https://www.amazon.de/dp/B07RMB7W24/?tag=tolees0ca-21) mit aktuellem Preis 8.5 EUR (original: 10.7 EUR) 20.56 % Rabatt hier:
 
 [![Funko 44819 POP TV: Game of Thrones-Arya](https://m.media-amazon.com/images/I/41yZNJwhgAL._SL200_.jpg)](https://www.amazon.de/dp/B07RMB7W24/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it now!!](https://www.amazon.de/dp/B07RMB7W24/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B07RMB7W24/?tag=tolees0ca-21)

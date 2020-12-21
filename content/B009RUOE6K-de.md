@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 22.23 % for Sierra Tequila Antiguo  1 x 0.7 l '
+title: '22.23 % rabat auf Sierra Tequila Antiguo  1 x 0.7 l '
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41r7oyvqa1L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '22.23'
 average: '13.99'
 ---
 
-You've got [Sierra Tequila Antiguo  1 x 0.7 l ](https://www.amazon.de/dp/B009RUOE6K/?tag=tolees0ca-21) with a  22.23 % discount, with final price of 13.99 EUR (original: 17.99 EUR) at the following link:
+Es gibt ein [Sierra Tequila Antiguo  1 x 0.7 l ](https://www.amazon.de/dp/B009RUOE6K/?tag=tolees0ca-21) mit aktuellem Preis 13.99 EUR (original: 17.99 EUR) 22.23 % Rabatt hier:
 
 [![Sierra Tequila Antiguo  1 x 0.7 l ](https://images-eu.ssl-images-amazon.com/images/I/41r7oyvqa1L._SL200_.jpg)](https://www.amazon.de/dp/B009RUOE6K/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B009RUOE6K/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B009RUOE6K/?tag=tolees0ca-21)

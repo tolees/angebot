@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 34.43 % for LEGO Star Wars 75083 - AT-DP'
+title: '34.43 % rabat auf LEGO Star Wars 75083 - AT-DP'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61D4iyYDlEL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '34.43'
 average: '104.9'
 ---
 
-You've got [LEGO Star Wars 75083 - AT-DP](https://www.amazon.de/dp/B00NVDKWMY/?tag=tolees0ca-21) with a  34.43 % discount, with final price of 104.9 EUR (original: 159.99 EUR) at the following link:
+Es gibt ein [LEGO Star Wars 75083 - AT-DP](https://www.amazon.de/dp/B00NVDKWMY/?tag=tolees0ca-21) mit aktuellem Preis 104.9 EUR (original: 159.99 EUR) 34.43 % Rabatt hier:
 
 [![LEGO Star Wars 75083 - AT-DP](https://images-eu.ssl-images-amazon.com/images/I/61D4iyYDlEL._SL200_.jpg)](https://www.amazon.de/dp/B00NVDKWMY/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B00NVDKWMY/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B00NVDKWMY/?tag=tolees0ca-21)

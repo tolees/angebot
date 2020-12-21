@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 30.06 % for Yuneec - Mantis Q Camera Drone - Schwarz'
+title: '30.06 % rabat auf Yuneec - Mantis Q Camera Drone - Schwarz'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31gM6NDbr4L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.06'
 average: '349'
 ---
 
-You've got [Yuneec - Mantis Q Camera Drone - Schwarz](https://www.amazon.de/dp/B07GC56KYD/?tag=tolees0ca-21) with a  30.06 % discount, with final price of 349 EUR (original: 499 EUR) at the following link:
+Es gibt ein [Yuneec - Mantis Q Camera Drone - Schwarz](https://www.amazon.de/dp/B07GC56KYD/?tag=tolees0ca-21) mit aktuellem Preis 349 EUR (original: 499 EUR) 30.06 % Rabatt hier:
 
 [![Yuneec - Mantis Q Camera Drone - Schwarz](https://images-eu.ssl-images-amazon.com/images/I/31gM6NDbr4L._SL200_.jpg)](https://www.amazon.de/dp/B07GC56KYD/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B07GC56KYD/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B07GC56KYD/?tag=tolees0ca-21)

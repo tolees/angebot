@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 25.03 % for LEGO Ninjago 70641 - Lloyds Nachtflitzer'
+title: '25.03 % rabat auf LEGO Ninjago 70641 - Lloyds Nachtflitzer'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51a0j6pVx5L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '25.03'
 average: '29.98'
 ---
 
-You've got [LEGO Ninjago 70641 - Lloyds Nachtflitzer  Unterhaltungsspielzeug](https://www.amazon.de/dp/B075T1Q2WQ/?tag=tolees0ca-21) with a  25.03 % discount, with final price of 29.98 EUR (original: 39.99 EUR) at the following link:
+Es gibt ein [LEGO Ninjago 70641 - Lloyds Nachtflitzer  Unterhaltungsspielzeug](https://www.amazon.de/dp/B075T1Q2WQ/?tag=tolees0ca-21) mit aktuellem Preis 29.98 EUR (original: 39.99 EUR) 25.03 % Rabatt hier:
 
 [![LEGO Ninjago 70641 - Lloyds Nachtflitzer](https://images-eu.ssl-images-amazon.com/images/I/51a0j6pVx5L._SL200_.jpg)](https://www.amazon.de/dp/B075T1Q2WQ/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B075T1Q2WQ/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B075T1Q2WQ/?tag=tolees0ca-21)

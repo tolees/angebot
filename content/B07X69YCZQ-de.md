@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony Alpha 6100 E-Mount Systemkamera  24 at 19.92 % discount'
+title: 'Sony Alpha 6100 E-Mount Systemkamera  24 mit 19.92 % Rabatt'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41yRfMvlA9L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '19.92'
 average: '799.99'
 ---
 
-With a final price of 799.99 EUR (original: 999 EUR) you can find [Sony Alpha 6100 E-Mount Systemkamera  24 Megapixel  4K Video  180° Touch-Display  0.02 Sek. Echtzeit-Autofokus mit 425 Kontrast AF-Punkten  OLED Sucher  inkl. SEL-P1650 Objektiv  schwarz](https://www.amazon.de/dp/B07X69YCZQ/?tag=tolees0ca-21) with a  19.92 % discount here:
+Sie können [Sony Alpha 6100 E-Mount Systemkamera  24 Megapixel  4K Video  180° Touch-Display  0.02 Sek. Echtzeit-Autofokus mit 425 Kontrast AF-Punkten  OLED Sucher  inkl. SEL-P1650 Objektiv  schwarz](https://www.amazon.de/dp/B07X69YCZQ/?tag=tolees0ca-21) mit Preis 799.99 EUR (original: 999 EUR) 19.92 % Rabatt hier:
 
 [![Sony Alpha 6100 E-Mount Systemkamera  24](https://images-eu.ssl-images-amazon.com/images/I/41yRfMvlA9L._SL200_.jpg)](https://www.amazon.de/dp/B07X69YCZQ/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.de/dp/B07X69YCZQ/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B07X69YCZQ/?tag=tolees0ca-21)

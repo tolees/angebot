@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Professional Bohrhammer GBH 2-26 F at 51.82 % discount'
+title: '51.82 % rabat auf Bosch Professional Bohrhammer GBH 2-26 F'
 date: 2020-07-22 12:47:45
 image: 'https://m.media-amazon.com/images/I/51-aDzXjW9L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '51.82'
 average: '124.99'
 ---
 
-With a final price of 124.99 EUR (original: 259.42 EUR) you can find [Bosch Professional Bohrhammer GBH 2-26 F  830 Watt  Wechselfutter SDS-plus  Schlagenergie: 2 7 J  im Koffer ](https://www.amazon.de/dp/B01M07Y8IR/?tag=tolees0ca-21) with a  51.82 % discount here:
+Es gibt ein [Bosch Professional Bohrhammer GBH 2-26 F  830 Watt  Wechselfutter SDS-plus  Schlagenergie: 2 7 J  im Koffer ](https://www.amazon.de/dp/B01M07Y8IR/?tag=tolees0ca-21) mit aktuellem Preis 124.99 EUR (original: 259.42 EUR) 51.82 % Rabatt hier:
 
 [![Bosch Professional Bohrhammer GBH 2-26 F](https://m.media-amazon.com/images/I/51-aDzXjW9L._SL200_.jpg)](https://www.amazon.de/dp/B01M07Y8IR/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.de/dp/B01M07Y8IR/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B01M07Y8IR/?tag=tolees0ca-21)

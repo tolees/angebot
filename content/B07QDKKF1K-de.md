@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '19.75 % deal for Salomon und die Königin von Saba - Media'
+title: 'Salomon und die Königin von Saba - Media mit 19.75 % Rabatt'
 date: 2020-03-03 04:55:17
 image: 'https://m.media-amazon.com/images/I/61kjUTKIbkL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '19.75'
 average: '17.64'
 ---
 
-There's a deal [Salomon und die Königin von Saba - Mediabook Cover A   + DVD  [Blu-ray]](https://www.amazon.de/dp/B07QDKKF1K/?tag=tolees0ca-21)  with  19.75 % discount, final price tag of  17.64 EUR (original: 21.98 EUR) here:
+Sie können [Salomon und die Königin von Saba - Mediabook Cover A   + DVD  [Blu-ray]](https://www.amazon.de/dp/B07QDKKF1K/?tag=tolees0ca-21) mit Preis 17.64 EUR (original: 21.98 EUR) 19.75 % Rabatt hier:
 
 [![Salomon und die Königin von Saba - Media](https://m.media-amazon.com/images/I/61kjUTKIbkL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07QDKKF1K/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it now!!](https://www.amazon.de/dp/B07QDKKF1K/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B07QDKKF1K/?tag=tolees0ca-21)

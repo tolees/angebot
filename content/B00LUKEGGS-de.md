@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 40.67 % for WOFI Wandleuchte  1-flammig  Serie Avign'
+title: '40.67 % rabat auf WOFI Wandleuchte  1-flammig  Serie Avign'
 date: 2020-10-05 11:38:02
 image: 'https://m.media-amazon.com/images/I/3164eiJ066L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '40.67'
 average: '35.74'
 ---
 
-You've got [WOFI Wandleuchte  1-flammig  Serie Avignon  1 x LED  6.6 W  Höhe 4.5 cm  Tiefe 30 cm  Kelvin 3000  L](https://www.amazon.de/dp/B00LUKEGGS/?tag=tolees0ca-21) with a  40.67 % discount, with final price of 35.74 EUR (original: 60.24 EUR) at the following link:
+Es gibt ein [WOFI Wandleuchte  1-flammig  Serie Avignon  1 x LED  6.6 W  Höhe 4.5 cm  Tiefe 30 cm  Kelvin 3000  L](https://www.amazon.de/dp/B00LUKEGGS/?tag=tolees0ca-21) mit aktuellem Preis 35.74 EUR (original: 60.24 EUR) 40.67 % Rabatt hier:
 
 [![WOFI Wandleuchte  1-flammig  Serie Avign](https://m.media-amazon.com/images/I/3164eiJ066L._SL200_.jpg)](https://www.amazon.de/dp/B00LUKEGGS/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B00LUKEGGS/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B00LUKEGGS/?tag=tolees0ca-21)

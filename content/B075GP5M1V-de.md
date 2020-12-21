@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 30.02 % for LEGO Duplo 10867 - Bauernmarkt Große Bau'
+title: 'LEGO Duplo 10867 - Bauernmarkt Große Bau mit 30.02 % Rabatt'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51VenXHsECL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.02'
 average: '13.99'
 ---
 
-You've got [LEGO Duplo 10867 - Bauernmarkt Große Bausteine](https://www.amazon.de/dp/B075GP5M1V/?tag=tolees0ca-21) with a  30.02 % discount, with final price of 13.99 EUR (original: 19.99 EUR) at the following link:
+Sie können [LEGO Duplo 10867 - Bauernmarkt Große Bausteine](https://www.amazon.de/dp/B075GP5M1V/?tag=tolees0ca-21) mit Preis 13.99 EUR (original: 19.99 EUR) 30.02 % Rabatt hier:
 
 [![LEGO Duplo 10867 - Bauernmarkt Große Bau](https://images-eu.ssl-images-amazon.com/images/I/51VenXHsECL._SL200_.jpg)](https://www.amazon.de/dp/B075GP5M1V/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B075GP5M1V/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B075GP5M1V/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Acer C202i DLP Mobile-Projektor  WVGA  8 at 32.26 % discount'
+title: 'Acer C202i DLP Mobile-Projektor  WVGA  8 mit 32.26 % Rabatt'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ElG8IN8kL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '32.26'
 average: '189'
 ---
 
-With a final price of 189 EUR (original: 279 EUR) you can find [Acer C202i DLP Mobile-Projektor  WVGA  854 x 480 Pixel  300 ANSI Lumen  5.000:1 Kontrast ](https://www.amazon.de/dp/B07LH62F1Y/?tag=tolees0ca-21) with a  32.26 % discount here:
+Sie können [Acer C202i DLP Mobile-Projektor  WVGA  854 x 480 Pixel  300 ANSI Lumen  5.000:1 Kontrast ](https://www.amazon.de/dp/B07LH62F1Y/?tag=tolees0ca-21) mit Preis 189 EUR (original: 279 EUR) 32.26 % Rabatt hier:
 
 [![Acer C202i DLP Mobile-Projektor  WVGA  8](https://images-eu.ssl-images-amazon.com/images/I/31ElG8IN8kL._SL200_.jpg)](https://www.amazon.de/dp/B07LH62F1Y/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.de/dp/B07LH62F1Y/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B07LH62F1Y/?tag=tolees0ca-21)

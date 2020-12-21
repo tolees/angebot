@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil 9261 - Jockey at 24.87 % discount'
+title: 'Playmobil 9261 - Jockey mit 24.87 % Rabatt'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ud13DWdOL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '24.87'
 average: '6.98'
 ---
 
-With a final price of 6.98 EUR (original: 9.29 EUR) you can find [Playmobil 9261 - Jockey](https://www.amazon.de/dp/B01LYFVCZM/?tag=tolees0ca-21) with a  24.87 % discount here:
+Sie können [Playmobil 9261 - Jockey](https://www.amazon.de/dp/B01LYFVCZM/?tag=tolees0ca-21) mit Preis 6.98 EUR (original: 9.29 EUR) 24.87 % Rabatt hier:
 
 [![Playmobil 9261 - Jockey](https://images-eu.ssl-images-amazon.com/images/I/51Ud13DWdOL._SL200_.jpg)](https://www.amazon.de/dp/B01LYFVCZM/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.de/dp/B01LYFVCZM/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B01LYFVCZM/?tag=tolees0ca-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KMP Protective Case  15   MacBook Pro Re at 81.08 % discount'
+title: 'KMP Protective Case  15   MacBook Pro Re mit 81.08 % Rabatt'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B5CCHqNxL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '81.08'
 average: '9.45'
 ---
 
-With a final price of 9.45 EUR (original: 49.95 EUR) you can find [KMP Protective Case  15   MacBook Pro Retina  anthracite](https://www.amazon.de/dp/B01AULRDLW/?tag=tolees0ca-21) with a  81.08 % discount here:
+Sie können [KMP Protective Case  15   MacBook Pro Retina  anthracite](https://www.amazon.de/dp/B01AULRDLW/?tag=tolees0ca-21) mit Preis 9.45 EUR (original: 49.95 EUR) 81.08 % Rabatt hier:
 
 [![KMP Protective Case  15   MacBook Pro Re](https://images-eu.ssl-images-amazon.com/images/I/31%2B5CCHqNxL._SL200_.jpg)](https://www.amazon.de/dp/B01AULRDLW/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.de/dp/B01AULRDLW/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B01AULRDLW/?tag=tolees0ca-21)

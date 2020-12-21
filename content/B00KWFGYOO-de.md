@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 49.99 % for Columbia Herren Woodburn II Waterproof W'
+title: '49.99 % rabat auf Columbia Herren Woodburn II Waterproof W'
 date: 2020-02-19 05:04:46
 image: 'https://m.media-amazon.com/images/I/41iFsf8lSZL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '49.99'
 average: '50.0'
 ---
 
-You've got [Columbia Herren Woodburn II Waterproof Wasserdichte Schuhe  Schwarz  black  caramel   41.5 EU](https://www.amazon.de/dp/B00KWFGYOO/?tag=tolees0ca-21) with a  49.99 % discount, with final price of 50.0 EUR (original: 99.99 EUR) at the following link:
+Es gibt ein [Columbia Herren Woodburn II Waterproof Wasserdichte Schuhe  Schwarz  black  caramel   41.5 EU](https://www.amazon.de/dp/B00KWFGYOO/?tag=tolees0ca-21) mit aktuellem Preis 50.0 EUR (original: 99.99 EUR) 49.99 % Rabatt hier:
 
 [![Columbia Herren Woodburn II Waterproof W](https://m.media-amazon.com/images/I/41iFsf8lSZL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00KWFGYOO/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.de/dp/B00KWFGYOO/?tag=tolees0ca-21)
+[kauf es hier!!](https://www.amazon.de/dp/B00KWFGYOO/?tag=tolees0ca-21)

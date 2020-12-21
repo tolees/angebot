@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '20.51 % deal for Carrera 20062428 GO'
+title: 'Carrera 20062428 GO mit 20.51 % Rabatt'
 date: 2020-02-04 05:09:51
 image: 'https://m.media-amazon.com/images/I/61J0RhVx9mL._AC_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.51'
 average: '53.714999999999996'
 ---
 
-There's a deal [Carrera 20062428 GO](https://www.amazon.de/dp/B06XKHT5VM/?tag=tolees0ca-21)  with  20.51 % discount, final price tag of  50.04 EUR (original: 62.95 EUR) here:
+Sie können [Carrera 20062428 GO](https://www.amazon.de/dp/B06XKHT5VM/?tag=tolees0ca-21) mit Preis 50.04 EUR (original: 62.95 EUR) 20.51 % Rabatt hier:
 
 [![Carrera 20062428 GO](https://m.media-amazon.com/images/I/61J0RhVx9mL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B06XKHT5VM/?tag=tolees0ca-21)
 
 ℹ️:
 
 
-[Buy it now!!](https://www.amazon.de/dp/B06XKHT5VM/?tag=tolees0ca-21)
+[Hier!!](https://www.amazon.de/dp/B06XKHT5VM/?tag=tolees0ca-21)
