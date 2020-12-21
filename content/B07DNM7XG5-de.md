@@ -25,11 +25,11 @@ Sie können [Gears 5 – Standard Edition | Xbox One/Windows 10 PC | Xbox Digita
 
 ℹ️:
 
-- Kämpfen Sie niemals allein
-- Entdecken Sie die größte Gears Welt aller Zeiten und erleben Sie Sera in seiner ganzen Pracht
-- spielbar auf Xbox Series X, Xbox Series S und Xbox One
 - Spielen Sie allein oder mit Freunden, entweder im lokalen Splitscreen oder online. Kämpfen Sie außerdem per Cross Play gemeinsam mit Mitstreitern auf Xbox One und Windows 10
+- spielbar auf Xbox Series X, Xbox Series S und Xbox One
 - Optimiert für Xbox Series X: Gears 5 beinhaltet Smart Delivery und unterstützt 4K Ultra HD mit 60 Frames pro Sekunde.
 - Überqueren Sie Gletscher, segeln Sie durch Wüsten und stürzen Sie sich in versunkene Ruinen in der größten und vielfältigsten Gears Welt, die je geschaffen wurde
+- Entdecken Sie die größte Gears Welt aller Zeiten und erleben Sie Sera in seiner ganzen Pracht
+- Kämpfen Sie niemals allein
 
 [Hier!!](https://www.amazon.de/dp/B07DNM7XG5/?tag=tolees0ca-21)

@@ -25,9 +25,9 @@ Es gibt ein [Pentel Pinselstift  inkl. zwei Patronen  Schreibfarbe schwarz ](htt
 
 ℹ️:
 
-- Original Pentel Pinselstift
-- Für fernöstliche Zeichnungen, Karikaturen und Kalligraphie
 - Spitze behält ihre Form
+- Original Pentel Pinselstift
 - Stabile synthetische Pinselhaare
+- Für fernöstliche Zeichnungen, Karikaturen und Kalligraphie
 
 [kauf es hier!!](https://www.amazon.de/dp/B002ZCP56K/?tag=tolees0ca-21)

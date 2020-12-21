@@ -25,9 +25,9 @@ Es gibt ein [Pentel Colour Brush  Diverse  Safran  17.5 x 1.3 x 1.3 cm](https://
 
 ℹ️:
 
+- Pentel Colour Brush – der innovative und leuchtstarke Aquarellpinsel
 - farbintensiv und nuancenreich kolorieren
 - die Farbe ist auch direkt an der Pinselspitze mischbar, damit lassen sich Farben, gemäß Farbenlehre mischen und perfekte Farbverläufe erschaffen
-- Pentel Colour Brush – der innovative und leuchtstarke Aquarellpinsel
 - mit Hilfe des Wassertankpinsels Pentel Aquash Brush können wasserlösliche Farben verblendet und weiche Farbübergänge erzeugt werden
 
 [kauf es hier!!](https://www.amazon.de/dp/B00QKD2OGE/?tag=tolees0ca-21)
