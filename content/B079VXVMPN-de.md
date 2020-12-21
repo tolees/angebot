@@ -25,9 +25,9 @@ Sie können [Jacobs Kaffeebohnen Barista Editions Crema  1 kg Bohnenkaffee](http
 
 ℹ️:
 
-- Roasted coffee, whole bean.
 - The beans are roasted in the drum roaster and have a smooth taste with a hint of citrus - ideal for preparation with a coffee machine, portafilter or French press.
-- You love Caffè Crema, Caffè Latte or Café au lait? Then get to know the Jacobs Barista Editions Crema - a balanced blend of the best growing areas in the world.
 - With caffeine
+- You love Caffè Crema, Caffè Latte or Café au lait? Then get to know the Jacobs Barista Editions Crema - a balanced blend of the best growing areas in the world.
+- Roasted coffee, whole bean.
 
 [Hier!!](https://www.amazon.de/dp/B079VXVMPN/?tag=tolees0ca-21)
