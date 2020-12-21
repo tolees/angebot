@@ -1,0 +1,34 @@
+---
+layout: post
+title: 'LEGO 42109 Technic Top-Gear Rallyeauto m mit 24.24 % Rabatt'
+date: 2020-12-21 16:18:02
+image: 'https://m.media-amazon.com/images/I/51CSmFWtivL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07W7V6R7D-de'
+actualPrice: 95.99 EUR
+currency: EUR
+price: 95.99
+comparePrice: 126.71 EUR
+prodname: 'LEGO 42109 Technic Top-Gear Rallyeauto mit App-Steuerung und Smart Hub  ferngesteuerte Rennautos'
+country: 'de'
+flag: '🇩🇪'
+buyurl: 'https://www.amazon.de/dp/B07W7V6R7D/?tag=tolees0ca-21'
+descuento: '24.24'
+average: '91.354962406015'
+---
+
+Sie können [LEGO 42109 Technic Top-Gear Rallyeauto mit App-Steuerung und Smart Hub  ferngesteuerte Rennautos](https://www.amazon.de/dp/B07W7V6R7D/?tag=tolees0ca-21) mit Preis 95.99 EUR (original: 126.71 EUR) 24.24 % Rabatt hier:
+
+[![LEGO 42109 Technic Top-Gear Rallyeauto m](https://m.media-amazon.com/images/I/51CSmFWtivL._SL200_.jpg)](https://www.amazon.de/dp/B07W7V6R7D/?tag=tolees0ca-21)
+
+ℹ️:
+
+- Bedienung über ein Smart Device mit drei Bildschirmen: Funktions- und Kreiselsteuerung plus Ausstattung.Gehen Sie zu LEGO.com/devicecheck für kompatible Geräte
+- Mit multifunktionaler Kreiselsteuerung, fantastischem Farbschema mit Aufklebern und tollen Details, ideal für Kinder, die Rennspielzeug lieben
+- Dieses Spielzeug-Rallyeautomodell wird über die LEGO Technic CONTROL+ App gesteuert und von einem fortschrittlichen Smart Hub mit ein XL Motor und ein L Motor angetrieben
+- Die volle Funktionalität erfordert 6 x AA 1,5V Batterien im Smart Hub. Dieses Set ist nicht kompatibel mit LEGO Power Functions Systemen
+- Mit diesem fortgeschrittenen Baumodell können Fahrer vorwärts und rückwärts lenken, beschleunigen, bremsen, Geräuscheffekte abspielen und Echtzeit-Feedback erhalten
+
+[Hier!!](https://www.amazon.de/dp/B07W7V6R7D/?tag=tolees0ca-21)
