@@ -26,7 +26,7 @@ Sie können [Lexmark E352H11E Tonerkartusche Kapazität 9000 nicht nachfüllbar 
 ℹ️:
 
 - Original-Kartusche
-- Kartusche
 - Laser
+- Kartusche
 
 [Hier!!](https://www.amazon.de/dp/B000KGH1KQ/?tag=tolees0ca-21)
