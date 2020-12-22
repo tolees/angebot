@@ -25,10 +25,10 @@ Sie können [THE LEGO MOVIE 2 70822 Einhorn Kittys niedlichste Freunde ALLER ZEI
 
 ℹ️:
 
-- Dieses Einhorn Kitty LEGO Set enthält 3 baubare THE LEGO MOVIE 2 Figuren: Einhorn Kitty mit 2 austauschbaren Gesichtsausdrücken, Eistüte und Schokoriegel – sowie einen Teewagen.
-- Als Zubehör sind eine Teekanne, eine Kaffeetasse und Kuchen enthalten.
-- Die Einhorn Kitty Figur ist 5 cm groß.
 - Erlebe kreative Rollenspiele und stelle mit diesem lustigen Bauspielzeug köstliche Szenen aus dem THE LEGO MOVIE 2 Filmhit nach.
+- Die Einhorn Kitty Figur ist 5 cm groß.
+- Dieses Einhorn Kitty LEGO Set enthält 3 baubare THE LEGO MOVIE 2 Figuren: Einhorn Kitty mit 2 austauschbaren Gesichtsausdrücken, Eistüte und Schokoriegel – sowie einen Teewagen.
 - Die Eistüte Figur ist 5 cm groß.
+- Als Zubehör sind eine Teekanne, eine Kaffeetasse und Kuchen enthalten.
 
 [Hier!!](https://www.amazon.de/dp/B07FNS6J93/?tag=tolees0ca-21)

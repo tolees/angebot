@@ -25,9 +25,9 @@ Es gibt ein [Sylvanian Families - 5059 - Bären: Familie Pelzig](https://www.ama
 
 ℹ️:
 
+- Schönes Geburtstagsgeschenk für Mädchen
 - Geeignet für Kinder ab 3 Jahren
 - Tierfamilie bestehend aus 4 Figuren der Familie Pelzig: Vater, Mutter, Bruder und Schwester
-- Schönes Geburtstagsgeschenk für Mädchen
 - Größe einer Ankleidepuppe ca. 6-8 cm
 - Bewegliche Püppchen mit samtigem Fell
 

@@ -25,9 +25,9 @@ Sie können [PlayStation 4 - DualShock 4 Wireless Controller  Weiß  2016 ](http
 
 ℹ️:
 
-- Eine neue “Options”-Taste kombiniert die Funktionen der “Select”- und “Start”-Tasten auf dem DualShock 4 zur Steuerung der Ingame-Menüs.
+- Ein neuer, hochsensibler SIXAXIS-Sensor ermöglicht eine erstklassige Bewegungssteuerung.
 - Die Dual-Analogsticks wurden verbessert und bieten eine größere Präzision, ein besseres Material auf den Oberflächen sowie eine verbesserte Form, um eine noch genauere Steuerung zu ermöglichen.
 - Die L2/R2-Tasten oben auf dem Controller wurden abgerundet und sind jetzt einfacher und flüssiger zu bedienen.
-- Ein neuer, hochsensibler SIXAXIS-Sensor ermöglicht eine erstklassige Bewegungssteuerung.
+- Eine neue “Options”-Taste kombiniert die Funktionen der “Select”- und “Start”-Tasten auf dem DualShock 4 zur Steuerung der Ingame-Menüs.
 
 [Hier!!](https://www.amazon.de/dp/B01MRUUSPR/?tag=tolees0ca-21)

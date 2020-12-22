@@ -26,9 +26,9 @@ Es gibt ein [HyperX HX-MC002B Pulsefire Surge - RGB Gaming Maus](https://www.ama
 ℹ️:
 
 - Pixart 3389 Sensor mit bis zu 16.000 DPI, Große Rollen für einfaches Gleiten
-- Zuverlässige Omron Switches für bis zu 50 Millionen Klicks. Geschwindigkeit: 450ips
-- Einfache Anpassungen mit der HyperX NGenuity Software
-- Lichtband für dynamische 360°-RGB-Effekte
 - Interner Speicher erfasst individuelle Anpassungen
+- Zuverlässige Omron Switches für bis zu 50 Millionen Klicks. Geschwindigkeit: 450ips
+- Lichtband für dynamische 360°-RGB-Effekte
+- Einfache Anpassungen mit der HyperX NGenuity Software
 
 [kauf es hier!!](https://www.amazon.de/dp/B07B9TVQ82/?tag=tolees0ca-21)
