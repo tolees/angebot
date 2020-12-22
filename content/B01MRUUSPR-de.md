@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PlayStation 4 - DualShock 4 Wireless Con mit 31.35 % Rabatt'
-date: 2020-12-22 08:59:55
+date: 2020-12-22 09:00:00
 image: 'https://m.media-amazon.com/images/I/31IV1gDVbEL._SL200_.jpg'
 comments: true
 category: ofertas

@@ -25,10 +25,10 @@ Sie können [Tommy Hilfiger Herren New ALY Belt Gürtel  Schwarz Black 090   110
 
 ℹ️:
 
+- Material: Leder
 - Gürtelverschluss: Dornschließe
 - Gürtelbreite: 3.5cm
-- Material: Leder
-- Serie: Aly
 - Gürtelbreite: 3.5cm
+- Serie: Aly
 
 [Hier!!](https://www.amazon.de/dp/B018LLLV7U/?tag=tolees0ca-21)
