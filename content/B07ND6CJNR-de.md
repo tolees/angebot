@@ -25,10 +25,10 @@ Es gibt ein [LEGO 21155 Minecraft Die Creeper Mine  Bauset mit Steve  Minecraft-
 
 ℹ️:
 
-- Die Mine ist 22 cm hoch, 38 cm breit und 22 cm tief
-- Das Bauset von LEGO Minecraft enthält 3x Minifiguren: Steve, einen Minecraft-Schmied und einen Wüstenzombie – sowie Creeper-, Kuh- und Fledermausfiguren
-- Für noch mehr kreativen Bauspaß kann das LEGO Minecraft Set Die Creeper Mine (21155) zusammen mit allen anderen LEGO Originalsets und LEGO Steinen verwendet werden
 - 834 Teile – Für Mädchen und Jungen ab 8 Jahren, für Fans und für große Kinder jedes Alters
+- Für noch mehr kreativen Bauspaß kann das LEGO Minecraft Set Die Creeper Mine (21155) zusammen mit allen anderen LEGO Originalsets und LEGO Steinen verwendet werden
+- Das Bauset von LEGO Minecraft enthält 3x Minifiguren: Steve, einen Minecraft-Schmied und einen Wüstenzombie – sowie Creeper-, Kuh- und Fledermausfiguren
 - Dieses Set beinhaltet die berühmte Crepper-Statue, Schienen mit einer Lore, einen Unterschlupf mit Bett, Amboss, Ofen, Truhe und 3x Explosionsfunktionen
+- Die Mine ist 22 cm hoch, 38 cm breit und 22 cm tief
 
 [kauf es hier!!](https://www.amazon.de/dp/B07ND6CJNR/?tag=tolees0ca-21)

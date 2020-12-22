@@ -25,10 +25,10 @@ Es gibt ein [OXO Good Grips Komposteimer  Plastik  Weiß](https://www.amazon.de/
 
 ℹ️:
 
-- Der rotierende Griff eignet sich für den einfachen Transport von Abfällen.
-- Der speziell geformte Boden und der abnehmbare Deckel erleichtern das Entleeren.
-- Maße: ca. 17,8 x 17,8 x 17,8 cm
-- Der Klappdeckel bleibt bei der Befüllung geöffnet und verschließt Gerüche.
 - Die glatten Innenwände verhindern, dass Nahrungsmittel und Flüssigkeiten anhaften.
+- Der speziell geformte Boden und der abnehmbare Deckel erleichtern das Entleeren.
+- Der rotierende Griff eignet sich für den einfachen Transport von Abfällen.
+- Der Klappdeckel bleibt bei der Befüllung geöffnet und verschließt Gerüche.
+- Maße: ca. 17,8 x 17,8 x 17,8 cm
 
 [kauf es hier!!](https://www.amazon.de/dp/B003ZFW0YQ/?tag=tolees0ca-21)
