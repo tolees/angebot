@@ -25,8 +25,8 @@ Sie können [Clarks Damen Grace Piper Geschlossene Ballerinas  Schwarz  Black Le
 
 ℹ️:
 
-- Innenmaterial: Leder
 - Absatzhöhe: 1.5 cm
+- Innenmaterial: Leder
 - Obermaterial: Leder
 
 [Hier!!](https://www.amazon.de/dp/B07N1J9SBN/?tag=tolees0ca-21)

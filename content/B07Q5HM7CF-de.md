@@ -25,8 +25,8 @@ Sie können [Odlo Herren Jacket Millennium S-THERMIC Element Jacke  Black  M](ht
 
 ℹ️:
 
-- Leicht
 - Synthetische Wärmeregulierung
 - Besonders atmungsaktiv
+- Leicht
 
 [Hier!!](https://www.amazon.de/dp/B07Q5HM7CF/?tag=tolees0ca-21)

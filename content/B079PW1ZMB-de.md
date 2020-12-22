@@ -27,8 +27,8 @@ Sie können [L Oréal Men Expert Vita Lift Feuchtigkeitspflege  die Gesichtscrem
 
 - Die Gesichtscreme bekämpft die ersten Anzeichen von Augenringen und sollte für die ideale Wirkung als Tagescreme sowie als Nachtcreme verwendet werden
 - Die Men Expert Vita Lift Feuchtigkeitspflege für Männer wirkt gegen die fünf Zeichen der Hautalterung - in einer Anwendung
-- Das unter dermatologischer Aufsicht geteste Beautyprodukt dient als ideale Ergänzung zum Augenserum, zur Augenpflege sowie zum Gesichtsserum.
 - Die Feuchtigkeitscreme ist angereichert mit französischem Weinreben-Extrakt und mildert sichtbar Falten und strafft die Haut (Anti-Falten-Creme)
 - Die Gesichtspflege spendet der Haut intensive Feuchtigkeit und sorgt für einen frischen 24H Teint (Anti-Trockenheits-Effekt und Anti-Tränensäcke)
+- Das unter dermatologischer Aufsicht geteste Beautyprodukt dient als ideale Ergänzung zum Augenserum, zur Augenpflege sowie zum Gesichtsserum.
 
 [Hier!!](https://www.amazon.de/dp/B079PW1ZMB/?tag=tolees0ca-21)

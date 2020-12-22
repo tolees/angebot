@@ -25,10 +25,10 @@ Es gibt ein [JACK & JONES Herren Tim Original Jeans  Medium Blue Denim  31W 32L 
 
 ℹ️:
 
-- Originals by Jack & Jones
 - Knopfleiste
-- niedrige Bundhöhe
-- Slim Fit
 - Klassisches 5-Taschen-Modell
+- Slim Fit
+- niedrige Bundhöhe
+- Originals by Jack & Jones
 
 [kauf es hier!!](https://www.amazon.de/dp/B00GO90T8Y/?tag=tolees0ca-21)
