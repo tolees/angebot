@@ -25,11 +25,11 @@ Es gibt ein [BaByliss MEN E837E Multigroom Trimmer-Set](https://www.amazon.de/dp
 
 ℹ️:
 
+- 2 Rasierköpfe für Körper und Gesicht (3mm, 18mm), Nasen- und Ohrhaartrimmer
 - Netz- und Akkubetrieb, Lade- und Verstausockel, Waterproof
+- Präzisionsklinge (7mm), 2 Scherführungen (2-14mm, 3-15mm)
+- Präzisionsscherführung für den Bart mit 6 Positionen(0,5-6mm)
 - W-Tech: feste Klinge (Edelstahl) & bewegliche Klinge (CMS, 3D-Schliff)
 - Trimmer
-- Präzisionsklinge (7mm), 2 Scherführungen (2-14mm, 3-15mm)
-- 2 Rasierköpfe für Körper und Gesicht (3mm, 18mm), Nasen- und Ohrhaartrimmer
-- Präzisionsscherführung für den Bart mit 6 Positionen(0,5-6mm)
 
 [kauf es hier!!](https://www.amazon.de/dp/B00BJH46JE/?tag=tolees0ca-21)

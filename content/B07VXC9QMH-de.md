@@ -26,8 +26,8 @@ Sie können [Kingston A2000  SA2000M8/1000G  SSD NVMe PCIe M.2 2280 1TB](https:/
 ℹ️:
 
 - Ideal für Ultrabooks und SFF-PC-(Small Form Factor PC)-Systeme
-- NVMe PCIe Leistung zu einem Bruchteil der Kosten
 - Rüsten Sie Ihren PC mit bis zu 1TB auf
 - Unterstützt eine vollständige Sicherheitssuite (TCG Opal, XTS-AES 256-bit, eDrive)
+- NVMe PCIe Leistung zu einem Bruchteil der Kosten
 
 [Hier!!](https://www.amazon.de/dp/B07VXC9QMH/?tag=tolees0ca-21)

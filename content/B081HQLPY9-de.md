@@ -25,10 +25,10 @@ Sie können [PLAYMOBIL City Action 70446 Baugerüst mit Handwerkern  Ab 5 Jahren
 
 ℹ️:
 
-- Für fleißige Bauarbeiter: PLAYMOBIL Baugerüst mit 1 Elektriker, 1 Maler, 1 Zimmermann sowie Werkzeug für detailgetreues Nachspielen
 - Spielfiguren-Set für Kinder ab 5 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
-- Gerüst mit 2 beliebig fixierbaren Plattformen, 3 Handwerker ausgestattet mit Arbeitskleidung und passendem Werkzeug, Kombinierbar mit 70443 Minibagger
 - Lieferumfang: 1x PLAYMOBIL City Action Baugerüst mit Handwerkern, 51-teiliges Spielfiguren-Set mit Anleitung: 1 Baugerüst, 3 Figuren, 47 Zubehörteile, Material: Kunststoff, LxTxH: 14,5x4,5x15,5 cm, Gewicht: 182 g, 70446
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
+- Für fleißige Bauarbeiter: PLAYMOBIL Baugerüst mit 1 Elektriker, 1 Maler, 1 Zimmermann sowie Werkzeug für detailgetreues Nachspielen
+- Gerüst mit 2 beliebig fixierbaren Plattformen, 3 Handwerker ausgestattet mit Arbeitskleidung und passendem Werkzeug, Kombinierbar mit 70443 Minibagger
 
 [Hier!!](https://www.amazon.de/dp/B081HQLPY9/?tag=tolees0ca-21)

@@ -26,8 +26,8 @@ Es gibt ein [PlayStation 4 - DualShock 4 Wireless Controller  Rot  2016 ](https:
 ℹ️:
 
 - Ein neuer, hochsensibler SIXAXIS-Sensor ermöglicht eine erstklassige Bewegungssteuerung.
-- Eine neue “Options”-Taste kombiniert die Funktionen der “Select”- und “Start”-Tasten auf dem DualShock 4 zur Steuerung der Ingame-Menüs.
 - Die Dual-Analogsticks wurden verbessert und bieten eine größere Präzision, ein besseres Material auf den Oberflächen sowie eine verbesserte Form, um eine noch genauere Steuerung zu ermöglichen.
 - Die L2/R2-Tasten oben auf dem Controller wurden abgerundet und sind jetzt einfacher und flüssiger zu bedienen.
+- Eine neue “Options”-Taste kombiniert die Funktionen der “Select”- und “Start”-Tasten auf dem DualShock 4 zur Steuerung der Ingame-Menüs.
 
 [kauf es hier!!](https://www.amazon.de/dp/B01M4KLNE6/?tag=tolees0ca-21)
