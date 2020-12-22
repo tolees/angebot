@@ -25,8 +25,8 @@ Sie können [Carrera 20020561 - Carrera Exclusiv/ Evolution Aussenrandstreifen 1
 
 ℹ️:
 
+- Außenrandstreifen 3 Stück für Kurve 1/60° und 2 Abschlußstücke
 - Aufbaumaß Länge in mm 52,7
 - Ideales Carrera Zubehör für ihre Rennbahn
-- Außenrandstreifen 3 Stück für Kurve 1/60° und 2 Abschlußstücke
 
 [Hier!!](https://www.amazon.de/dp/B0002HL9GK/?tag=tolees0ca-21)
