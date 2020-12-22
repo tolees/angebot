@@ -25,10 +25,10 @@ Es gibt ein [ARGO Milo Plus 65 dB Weiß - Tragbare Klimaanlagen  A  A++  1 3 kWh
 
 ℹ️:
 
-- Zusätzlich zur Fernbedienung sind im Lieferumfang enthalten: Flexschlauch, Fensteradapter und Glasmontage-Kit; Maße: 83, 5x40, 5x38, 5cm Gewicht: 36kg
-- Der ARGO MILO PLUS ist mit einem programmierbaren Digital-Timer zum Ein- und Ausschalten (24H) und Sleep-Funktionen, Auto-Memory-Diagnose, X-fan und Intelligent Preheating Funktionen ausgestattet.
+- Maximale Übertragbarkeit dank der Multidirektional-Räder und dem praktischen Tragegriff; auch ein Luftfilter für die Reinigung leicht abnehmbar
 - 3 Lüftergeschwindigkeiten, obere Klappe mit motorisierter Luftzufuhr, mit großer automatischer Schwingung, über das digitale Bedienfeld mit LED-Display oder mit der Multifunktions-Fernbedienung mit LED-Display steuerbar
 - Tragbare WiFi-Klimaanlage mit Wärmepumpe, 13000 btu/h, Klasse A bei Kälte und A++ bei Hitze, 4 Betriebsmodi: Kühlung, Heizung, Belüftung, Entfeuchtung + Auto (wählt automatisch den Modus entsprechend der eingestellten Temperatur)
-- Maximale Übertragbarkeit dank der Multidirektional-Räder und dem praktischen Tragegriff; auch ein Luftfilter für die Reinigung leicht abnehmbar
+- Zusätzlich zur Fernbedienung sind im Lieferumfang enthalten: Flexschlauch, Fensteradapter und Glasmontage-Kit; Maße: 83, 5x40, 5x38, 5cm Gewicht: 36kg
+- Der ARGO MILO PLUS ist mit einem programmierbaren Digital-Timer zum Ein- und Ausschalten (24H) und Sleep-Funktionen, Auto-Memory-Diagnose, X-fan und Intelligent Preheating Funktionen ausgestattet.
 
 [kauf es hier!!](https://www.amazon.de/dp/B07P6GPL8S/?tag=tolees0ca-21)

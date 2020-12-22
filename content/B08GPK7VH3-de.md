@@ -25,8 +25,8 @@ Sie können [F1 2020  Playstation 4 ](https://www.amazon.de/dp/B08GPK7VH3/?tag=t
 
 ℹ️:
 
-- Langersehnte F1-Splitscreen-Action: Liefere dir mit Familie und Freunden hitzige Kopf-an-Kopf-Rennen
 - Fahre erstmals auf den brandneuen Strecken Zandvoort und Hanoi
+- Langersehnte F1-Splitscreen-Action: Liefere dir mit Familie und Freunden hitzige Kopf-an-Kopf-Rennen
 - Das offizielle Videospiel der 2020 Formula One World Championship
 - Tritt online gegen andere Fahrer an! Mit oder ohne Ranglisten, Ligen, benutzerdefinierte Rennen und wöchentliche Events
 

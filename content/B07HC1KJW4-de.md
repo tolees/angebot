@@ -25,10 +25,10 @@ Es gibt ein [NSV - 4076 - QWANTUM - Würfelspiel](https://www.amazon.de/dp/B07HC
 
 ℹ️:
 
-- Sprache: Deutsch
 - ab 8 Jahren - 2-4 Spieler - ca. 15 Minuten
 - 7 Holzwürfel, 4 Bleistifte, 1 Spielblock, 1 Anleitung
 - Autor: Anna Oppolzer, Stefan Kloß, Reinhard Staupe
+- Sprache: Deutsch
 - Aller guten Dinge sind drei!
 
 [kauf es hier!!](https://www.amazon.de/dp/B07HC1KJW4/?tag=tolees0ca-21)
