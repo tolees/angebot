@@ -25,9 +25,9 @@ Es gibt ein [Pin Art Pinpressions](https://www.amazon.de/dp/B000WXXW2S/?tag=tole
 
 ℹ️:
 
-- Verpackungsgewicht : 1.59 pfund
 - Herkunftsland:- China
-- Farbe: silber
+- Verpackungsgewicht : 1.59 pfund
 - Verpackungsabmessungen (L × B × H) : 18.6 zm 13.6 zm 6.6 zm
+- Farbe: silber
 
 [kauf es hier!!](https://www.amazon.de/dp/B000WXXW2S/?tag=tolees0ca-21)

@@ -25,9 +25,9 @@ Es gibt ein [Immortal Realms: Vampire Wars  Playstation 4 ](https://www.amazon.d
 
 ℹ️:
 
+- Neben der umfangreichen Kampagne sorgen der grenzenlose Sandbox- sowie der kampfbetonte Scharmützel-Modus für Abwechslung
+- Dank der taktischen Kartenspielelemente erhält das klassische Konzept der rundenbasierten Strategie frischen Wind und zusätzliche Tiefe
 - Erleben Sie eine spannende Geschichte, in der Sie die Geschicke von vier mächtigen Vampiren in über 12 detailliert gestalteten Missionen lenken
 - Führen Sie einen von drei einzigartigen Vampirclans, jeder mit seinen eigenen unverwechselbaren Einheiten, Fähigkeiten, Anführern und Spielmechaniken
-- Dank der taktischen Kartenspielelemente erhält das klassische Konzept der rundenbasierten Strategie frischen Wind und zusätzliche Tiefe
-- Neben der umfangreichen Kampagne sorgen der grenzenlose Sandbox- sowie der kampfbetonte Scharmützel-Modus für Abwechslung
 
 [kauf es hier!!](https://www.amazon.de/dp/B088JM8Y2Z/?tag=tolees0ca-21)

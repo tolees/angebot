@@ -26,8 +26,8 @@ Es gibt ein [folia 977 - Kaleidoskop Bastel Set  35 teilig  Lehrreiche Bastelpac
 ℹ️:
 
 - Bausatz aus 35 Teilen
-- Kaleidoskop Bastel- Set
 - mit Bastelbeispielen
+- Kaleidoskop Bastel- Set
 - Lehrreiche Bastelpackung für Kinder und Erwachsene
 
 [kauf es hier!!](https://www.amazon.de/dp/B00C2QILVK/?tag=tolees0ca-21)
