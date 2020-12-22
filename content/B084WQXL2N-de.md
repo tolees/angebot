@@ -25,9 +25,9 @@ Es gibt ein [Trust Gaming GXT 488 Forze-G - Offiziell lizenziert für PlayStatio
 
 ℹ️:
 
+- [Offiziell lizenziert für PlayStation 4] Das speziell für dieses System entwickelte Trust Forze Gaming Headset for PS4 bringt Sie mit Haut und Haaren in Ihr Spiel. Kompatibel mit PS5.
 - [Plug & Play] Stecken Sie das Headset einfach am DUALSHOCK4 wireless controller an (3, 5 mm-Eingang). Das 1, 2 m lange Geflechtkabel aus Nylon lässt Ihnen mehr als ausreichend Platz für ein angenehmes Spielerlebnis
 - [Leistungsstarker Klang] Leistungsstarke 50 mm-Aktivlautsprecher mit weichen und komfortablen ohrumschließenden Polstern
-- [Offiziell lizenziert für PlayStation 4] Das speziell für dieses System entwickelte Trust Forze Gaming Headset for PS4 bringt Sie mit Haut und Haaren in Ihr Spiel. Kompatibel mit PS5.
 - [Klappbares flexibles Mikrofon und einstellbarer verstärkter Kopfbügel] Durch die angenehm weichen Ohrmuscheln sitzt das Headset auch nach stundenlangem Spielen noch komfortabel. Mit dem Mikrofon geben Sie den Mitgliedern Ihres Teams kristallklare Befehle.
 - [Integrierte Fernbedienung] für Lautstärkeregelung und Mikrofonstummschaltung
 

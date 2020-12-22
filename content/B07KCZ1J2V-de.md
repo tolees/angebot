@@ -25,10 +25,10 @@ Es gibt ein [Mi Home Security Camera 360° 16839 Webcam   1080P](https://www.ama
 
 ℹ️:
 
+- Motion sensor
+- Camera lens can be rotated by 360°
+- Smartphone notifications when there is motion detection
 - MI Smart Home App
 - No plugs, only USB cable
-- Motion sensor
-- Smartphone notifications when there is motion detection
-- Camera lens can be rotated by 360°
 
 [kauf es hier!!](https://www.amazon.de/dp/B07KCZ1J2V/?tag=tolees0ca-21)
