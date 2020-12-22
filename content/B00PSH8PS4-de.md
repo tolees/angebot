@@ -25,7 +25,7 @@ Es gibt ein [Ersatzmine Patrone für Pentel Tradio Stylo Tintenfederhalter MLJ20
 
 ℹ️:
 
-- Pentel Federschreiber-Mine MLJ20-A, schwarz, 3 Stück
 - Flexible Platik-Federspitze für variable Strichstärke passend für alle Federschreiber Pentel Tradio
+- Pentel Federschreiber-Mine MLJ20-A, schwarz, 3 Stück
 
 [kauf es hier!!](https://www.amazon.de/dp/B00PSH8PS4/?tag=tolees0ca-21)
