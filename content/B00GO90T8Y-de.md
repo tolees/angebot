@@ -1,29 +1,34 @@
 ---
 layout: post
-title: '51.36 % rabat auf JACK & JONES Male Slim/Straight Fit Jean'
-date: 2020-10-12 08:10:06
+title: '57.91 % rabat auf JACK & JONES Herren Tim Original Jeans  '
+date: 2020-12-22 00:48:05
 image: 'https://m.media-amazon.com/images/I/41+FdXqJfhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00GO90T8Y-de'
-actualPrice: 38.89 EUR
+actualPrice: 33.65 EUR
 currency: EUR
-price: 38.89
+price: 33.65
 comparePrice: 79.95 EUR
-prodname: 'JACK & JONES Male Slim/Straight Fit Jeans Tim Original JOS 919 3132Medium Blue Denim'
+prodname: 'JACK & JONES Herren Tim Original Jeans  Medium Blue Denim  31W 32L EU'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B00GO90T8Y/?tag=tolees0ca-21'
-descuento: '51.36'
-average: '38.89'
+descuento: '57.91'
+average: '36.269999999999996'
 ---
 
-Es gibt ein [JACK & JONES Male Slim/Straight Fit Jeans Tim Original JOS 919 3132Medium Blue Denim](https://www.amazon.de/dp/B00GO90T8Y/?tag=tolees0ca-21) mit aktuellem Preis 38.89 EUR (original: 79.95 EUR) 51.36 % Rabatt hier:
+Es gibt ein [JACK & JONES Herren Tim Original Jeans  Medium Blue Denim  31W 32L EU](https://www.amazon.de/dp/B00GO90T8Y/?tag=tolees0ca-21) mit aktuellem Preis 33.65 EUR (original: 79.95 EUR) 57.91 % Rabatt hier:
 
-[![JACK & JONES Male Slim/Straight Fit Jean](https://m.media-amazon.com/images/I/41+FdXqJfhL._SL200_.jpg)](https://www.amazon.de/dp/B00GO90T8Y/?tag=tolees0ca-21)
+[![JACK & JONES Herren Tim Original Jeans  ](https://m.media-amazon.com/images/I/41+FdXqJfhL._SL200_.jpg)](https://www.amazon.de/dp/B00GO90T8Y/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Originals by Jack & Jones
+- Knopfleiste
+- niedrige Bundhöhe
+- Slim Fit
+- Klassisches 5-Taschen-Modell
 
 [kauf es hier!!](https://www.amazon.de/dp/B00GO90T8Y/?tag=tolees0ca-21)
