@@ -25,10 +25,10 @@ Sie können [Medisana BS 450 connect  digitale Körperanalysewaage 180 kg  weiß
 
 ℹ️:
 
-- Körperanalyse: Die Personenwaage misst sowohl Gewicht als auch Körperfett, Körperwasser, Muskelmasse und Knochengewicht, errechnet den BMI-Wert und verfügt über eine integrierte Kalorienbedarfsanalyse
-- Voller Funktionen: Sie können zwischen den Maßeinheiten KG, LB und ST umschalten. Die Waage erkennt bis zu 8 Nutzer automatisch, sobald sie die Waage barfuß betreten
 - VitaDock+ App: Für eine nachhaltige Kontrolle, können die ermittelten Körperwerte per Bluetooth in die VitaDock+ App übertragen, gespeichert und analysiert werden.
-- Unsichtbares Display: Die BS 450 Connect ist mit einem unsichtbarem LED-Display ausgestattet, welches man nur sieht, wenn man sich auf die Körperwaage stellt
 - Hinweis: Bitte nur barfuß betreten und auf allen 4 Elektroden stehen. Nur auf flachem und hartem Boden wiegen. Die ersten Ergebnisse können abweichen, da sich die Waage kalibrieren muss
+- Körperanalyse: Die Personenwaage misst sowohl Gewicht als auch Körperfett, Körperwasser, Muskelmasse und Knochengewicht, errechnet den BMI-Wert und verfügt über eine integrierte Kalorienbedarfsanalyse
+- Unsichtbares Display: Die BS 450 Connect ist mit einem unsichtbarem LED-Display ausgestattet, welches man nur sieht, wenn man sich auf die Körperwaage stellt
+- Voller Funktionen: Sie können zwischen den Maßeinheiten KG, LB und ST umschalten. Die Waage erkennt bis zu 8 Nutzer automatisch, sobald sie die Waage barfuß betreten
 
 [Hier!!](https://www.amazon.de/dp/B07NQ51B3F/?tag=tolees0ca-21)
