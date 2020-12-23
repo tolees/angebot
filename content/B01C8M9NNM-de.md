@@ -25,10 +25,10 @@ Sie können [Auralum 360° drehbar Wasserhahn Küche Einhebelmischer Spültisch 
 
 ℹ️:
 
+- DIN (German Institute for Standardisation) Standard 3/8 connection
 - Chrome-plated brass single lever basin tap with ceramic sealing washers
 - Easy to install, even for the layman
-- DIN (German Institute for Standardisation) Standard 3/8 connection
-- With original packing!
 - Standard DIN connectors make this product easy to assemble and easy to clean.
+- With original packing!
 
 [Hier!!](https://www.amazon.de/dp/B01C8M9NNM/?tag=tolees0ca-21)

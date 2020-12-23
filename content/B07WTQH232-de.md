@@ -25,8 +25,8 @@ Es gibt ein [POP! Movies: John Wick - John in Black Suit w/ Dog](https://www.ama
 
 ℹ️:
 
-- Schauen Sie sich jetzt die anderen Movies-Figuren von Funko an! Sammeln Sie alle!
 - Von John Wick, John in Black Suit w/ Dog, zur stilisierten POP-Vinyl Figur von Funko!
+- Schauen Sie sich jetzt die anderen Movies-Figuren von Funko an! Sammeln Sie alle!
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 - Funko POP! ist das Spielzeug des Jahres 2018
 

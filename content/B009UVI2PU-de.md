@@ -25,10 +25,10 @@ Es gibt ein [Pentel Stiftber?hrung Filzstift 12 Farbsatz SES15C-12  Japan-Import
 
 ℹ️:
 
-- Schnelles Trocknen
-- Größe / Gewicht pro Stift: Breite 17 mm x Tiefe 13 mm x Länge 133 mm / 10 g
-- ein buntes Set mit 12 Farben
 - Praktische Box zum Aufbewahren
+- Schnelles Trocknen
+- ein buntes Set mit 12 Farben
+- Größe / Gewicht pro Stift: Breite 17 mm x Tiefe 13 mm x Länge 133 mm / 10 g
 - Zeichenstift mit einem wunderschönen Pinselstrich
 
 [kauf es hier!!](https://www.amazon.de/dp/B009UVI2PU/?tag=tolees0ca-21)

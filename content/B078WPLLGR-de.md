@@ -25,9 +25,9 @@ Es gibt ein [FILA Disruptor wmn Sneaker  Weiß  White 1FG   39 EU](https://www.a
 
 ℹ️:
 
+- Fila
+- Platform outsole
 - Sneaker
 - fabric_type-100% Synthetic leather
-- Platform outsole
-- Fila
 
 [kauf es hier!!](https://www.amazon.de/dp/B078WPLLGR/?tag=tolees0ca-21)

@@ -25,9 +25,9 @@ Es gibt ein [SuperThings PSZSD48TIN20 Secret Spies-Speed Patrol Dose](https://ww
 
 ℹ️:
 
+- Herkunftsland:- China
+- 5 exklusive SuperThings mit Metallic-Effekt
 - Stabile Metalldose
 - Spaß für unterwegs!
-- 5 exklusive SuperThings mit Metallic-Effekt
-- Herkunftsland:- China
 
 [kauf es hier!!](https://www.amazon.de/dp/B08CNLJMHH/?tag=tolees0ca-21)
