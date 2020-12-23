@@ -25,10 +25,10 @@ Sie können [roba Kinder Outdoor Gartenküche ‚Fun‘ Outdoor +  Holz  Matschk
 
 ℹ️:
 
-- Die Gartenküche aus robustem, wetterfest lasiertem Massivholz kann im Winter zum Basteltisch mit Stauwannen für Stifte, Knete und Bastelsachen umfunktioniert werden
 - Die stabile Konstruktion ohne sichtbare schrauben in den Oberplatten und die abgerundeten Ecken sorgen für Sicherheit. Die Übersichtliche Aufbauanleitung ermöglicht eine einfache Selbstmontage
+- Der Sand- und Spieltisch wurde nachhaltig aus Massivholz produziert sowie nach Norm EN71-1:2014+A1:2018 gefertigt. Alle verwendeten Materialien sind schadstoffgeprüft und zertifiziert
 - Die vielseitige matschküche mit zwei herausnehmbaren, kunststoff-wannen (HxBxT: je 9 x 38,5 x 32 cm) großer Ablagefläche und praktischem Haken ist wetterfest, langlebig und leicht zu reinigen
 - Roba Gartenküche fun outdoor + aus Massivholz eignet sich besonders zum Spielen mit Sand, Wasser und Matsch. Für Kinder von 18 Monaten bis 8 Jahren. Bis 25 kg belastbar. (HxBxT) 88 x 99,5 x 35 cm
-- Der Sand- und Spieltisch wurde nachhaltig aus Massivholz produziert sowie nach Norm EN71-1:2014+A1:2018 gefertigt. Alle verwendeten Materialien sind schadstoffgeprüft und zertifiziert
+- Die Gartenküche aus robustem, wetterfest lasiertem Massivholz kann im Winter zum Basteltisch mit Stauwannen für Stifte, Knete und Bastelsachen umfunktioniert werden
 
 [Hier!!](https://www.amazon.de/dp/B07RPVVG5B/?tag=tolees0ca-21)
