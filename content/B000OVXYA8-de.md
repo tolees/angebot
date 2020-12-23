@@ -28,7 +28,7 @@ Es gibt ein [L Oréal Paris Perfect Match Compact Puder N4 Golden Beige / Make-U
 - Das Mineralpuder von LOréal Paris überzeugt als zartschmelzendes Puder mit flexibler Deckkraft und passt sich der Farbe sowie der Struktur der Haut individuell an und ist somit für alle Hauttypen geeignet!
 - Das mattierende Puder verbindet sich mit dem eigenen Hautton und wirkt dadurch natürlicher, frischer und entspannter. Die cremige Konsistenz wirkt dem Verlaufen des Make-Ups entgegen
 - Ein Kompaktpuder zum Mitnehmen - Dank praktischer Verpackung, integriertem Spiegel und Schwämmchen perfekt für Unterwegs. Immer und überall durch ein ebenmäßiges Hautbild auffallen!
-- Lieferumfang: 1 Perfect Match, Compactpuder, N4, in Beige. Styling Puder für das perfekte Finish in praktischer 9ml Verpackung
 - Durch mehrschichtiges Auftragen des Finish Puders kann die Deckkraft und die Intensität individuell bestimmt werden. Der LSF 8 verändert sich dabei nicht und schützt die Haut vor Sonneneinstrahlungen
+- Lieferumfang: 1 Perfect Match, Compactpuder, N4, in Beige. Styling Puder für das perfekte Finish in praktischer 9ml Verpackung
 
 [kauf es hier!!](https://www.amazon.de/dp/B000OVXYA8/?tag=tolees0ca-21)

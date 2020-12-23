@@ -25,10 +25,10 @@ Sie können [L Oréal Men Expert Gesichtspflege für Männer  Mattierende und k�
 
 ℹ️:
 
+- Erfrischende Gesichtscreme mit Matt-Effekt für eine intensive und langanhaltende Frische sowie zur Stärkung der natürlichen Widerstandskraft der Haut
 - Nicht klebende und nicht fettende Formel bestehend aus mineralhaltigem Meeresquellwasser und Anti-Öl Wirkstoff (Air-Gel Technology), Unter dermatologischer Aufsicht getestetes Beautyprodukt
 - Lieferumfang: 1x LOréal Paris Men Expert Hydra Energy Kühlendes Gel Anti-Glanz, 50 ml
-- Erfrischende Gesichtscreme mit Matt-Effekt für eine intensive und langanhaltende Frische sowie zur Stärkung der natürlichen Widerstandskraft der Haut
-- Wirkung: Ebenmäßigere T-Zone (Stirn und Nase) nach regelmäßiger Anwendung, reduzierte Fettproduktion der Poren und sichtbar reinere Haut
 - Anwendung: Auftragen der Gesichtscreme morgens (als Tagescreme) und abends (als Nachtcreme) jeweils nach der Gesichtsreinigung
+- Wirkung: Ebenmäßigere T-Zone (Stirn und Nase) nach regelmäßiger Anwendung, reduzierte Fettproduktion der Poren und sichtbar reinere Haut
 
 [Hier!!](https://www.amazon.de/dp/B00C9ZFAHW/?tag=tolees0ca-21)

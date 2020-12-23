@@ -25,10 +25,10 @@ Es gibt ein [Maybelline New York Make Up  Fit Me! Foundation mit LSF18  Für mak
 
 ℹ️:
 
-- Lieferumfang: 1x Maybelline New York Fit Me! Make Up, Farbe: Nr. 120 Classic Ivory, Inhalt: 30 ml, Made in France
+- Erhältlich in verschiedenen Nuancen, Leichte, nicht komedogene Formel, Nicht fettend, Dermatologisch getestet, Herstellung entsprechend EU-Regulierungen
 - Auftragen des flüssigen Make-Ups auf das Gesicht von innen nach außen, Verblenden, Kombinierbar mit Fit Me! Abedeckstift
 - Strahlender und ebenmäßiger Teint ohne Maskeneffekt, Perfekt an den natürlichen Hautton angepasstes Ergebnis, Feuchtigkeitsspendend
-- Erhältlich in verschiedenen Nuancen, Leichte, nicht komedogene Formel, Nicht fettend, Dermatologisch getestet, Herstellung entsprechend EU-Regulierungen
+- Lieferumfang: 1x Maybelline New York Fit Me! Make Up, Farbe: Nr. 120 Classic Ivory, Inhalt: 30 ml, Made in France
 - Flüssige Foundation mit Lichtschutzfaktor 18, Ton-in-Ton Abdeckung für ein natürliches Finish und leichtem Glow, Für alle Hauttypen geeignet
 
 [kauf es hier!!](https://www.amazon.de/dp/B007B8UAG8/?tag=tolees0ca-21)
