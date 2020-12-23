@@ -25,10 +25,10 @@ Es gibt ein [!Solid Poul Herren Strickjacke Cardigan Grobstrick Winter Pullover 
 
 ℹ️:
 
-- DETAILS & HIGHLIGHTS: Stehkragen mit abgesetztem Strickmuster, Leder-Logo-Patch am Saum, gerippter Abschlussbund sowie Ärmelbündchen
-- NACHHALTIGKEIT: Die verantwortungsvolle Nutzung von natürlichen Ressourcen liegt uns am Herzen! Daher arbeiten wir mit recycelten Versand- und Verpackungsmaterialien und produzieren die meisten unserer Styles unter den Bedingungen der BETTER COTTON INITIATIVE, die sich weltweit für nachhaltig produzierte Baumwolle einsetzt.
 - Als cooler offener Strick-Pullover zu Chino oder Jeans in der Freizeit, als klassische Strickjacke über Hemd oder T-Shirt im Büro für einen smarten Business-Look, oder sogar als stylische Trachtenjacke zum Oktoberfest - dieser modische Pullover hält warm und ist ein immer gut kombinierbares Basic für deinen Kleiderschrank!
-- Dank der hochwertigen und komfortablen Materialqualität ist der sportliche und klassische Janker super bequem und angenehm zu tragen.
+- NACHHALTIGKEIT: Die verantwortungsvolle Nutzung von natürlichen Ressourcen liegt uns am Herzen! Daher arbeiten wir mit recycelten Versand- und Verpackungsmaterialien und produzieren die meisten unserer Styles unter den Bedingungen der BETTER COTTON INITIATIVE, die sich weltweit für nachhaltig produzierte Baumwolle einsetzt.
 - PASSFORM: Regular Fit - unser Model ist 1,81m groß und trägt die Größe M (Medium). Trägst du für gewöhnlich eine Größe M? Dann ist diese auch von uns ideal für dich!
+- DETAILS & HIGHLIGHTS: Stehkragen mit abgesetztem Strickmuster, Leder-Logo-Patch am Saum, gerippter Abschlussbund sowie Ärmelbündchen
+- Dank der hochwertigen und komfortablen Materialqualität ist der sportliche und klassische Janker super bequem und angenehm zu tragen.
 
 [kauf es hier!!](https://www.amazon.de/dp/B01KAB8M62/?tag=tolees0ca-21)

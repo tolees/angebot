@@ -25,10 +25,10 @@ Sie können [Sony BDP-S3700 Blu-ray-Player  Super WiFi  USB  Screen Mirroring  s
 
 ℹ️:
 
+- Catch up TV und Video on Demand mit dem Zugriff auf über 300 Apps; Intensiveres Entertainment in 3D
+- Stabile Verbindung dank verbessertem Super Wi-Fi; Amazon Instant Video kompatibel
 - Geniessen Sie Ihre Lieblingsfilme und Musik via USB Play; Netzwerk: Wi-Fi (2,4 GHz / MIMO); Schnittstellen: 1 HDMI Ausgang (hinten), 1 koaxialer Audioausgang (hinten), 1 USB-Eingang (vorne), 1 Ethernet-Anschluss (hinten)
 - Spiegeln Sie Ihre Smartphone-Inhalte auf dem grossen Bildschirm dank Screen Mirroring
-- Stabile Verbindung dank verbessertem Super Wi-Fi; Amazon Instant Video kompatibel
-- Catch up TV und Video on Demand mit dem Zugriff auf über 300 Apps; Intensiveres Entertainment in 3D
 - Lieferumfang: Sony BDP-S3700 Blu-ray-Player schwarz
 
 [Hier!!](https://www.amazon.de/dp/B01B7ABEVU/?tag=tolees0ca-21)

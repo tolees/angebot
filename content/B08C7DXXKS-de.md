@@ -25,10 +25,10 @@ Sie können [adidas Herren Kapuzenpullover MH Bos PO French Terry  Black  L  GC7
 
 ℹ️:
 
-- Bündchen und Saum gerippt
-- Kängurutasche
 - Vorgeformte Ärmel
 - Klassischer Hoodie
 - Kapuze mit weitenregulierbarem Kordelzug
+- Bündchen und Saum gerippt
+- Kängurutasche
 
 [Hier!!](https://www.amazon.de/dp/B08C7DXXKS/?tag=tolees0ca-21)
