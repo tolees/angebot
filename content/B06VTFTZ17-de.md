@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony SEL-85F18 Porträt Objektiv  Festbre mit 28.32 % Rabatt'
-date: 2020-12-22 09:01:34
+date: 2020-12-23 09:45:05
 image: 'https://m.media-amazon.com/images/I/41JWFst-i8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B06VTFTZ17/?tag=tolees0ca-21'
 descuento: '28.32'
-average: '482.1011111111112'
+average: '481.8478125000001'
 ---
 
 Sie können [Sony SEL-85F18 Porträt Objektiv  Festbrennweite  85 mm  F1.8  Vollformat  geeignet für A7  A6000  A5100  A5000 und Nex Serien  E-Mount  schwarz](https://www.amazon.de/dp/B06VTFTZ17/?tag=tolees0ca-21) mit Preis 465.89 EUR (original: 650.0 EUR) 28.32 % Rabatt hier:
@@ -26,9 +26,9 @@ Sie können [Sony SEL-85F18 Porträt Objektiv  Festbrennweite  85 mm  F1.8  Voll
 ℹ️:
 
 - Zirkuläre Blende mit neun Lamellen für wunderschöne Unschärfe-Effekte, minimale Fokusentfernung 0,8 m
-- Lichtstarkes Teleobjektiv
-- Lieferumfang : SEL-85F18, Kappe: ALC-SH150, vordere Objektivkappe: ALC-F67S, hintere Objektivkappe: ALC-R1EM
 - Linearer Motor für eine präzise, ruhige Fokussierung
 - ED-Glas kompensiert Abbildungsfehler
+- Lieferumfang : SEL-85F18, Kappe: ALC-SH150, vordere Objektivkappe: ALC-F67S, hintere Objektivkappe: ALC-R1EM
+- Lichtstarkes Teleobjektiv
 
 [Hier!!](https://www.amazon.de/dp/B06VTFTZ17/?tag=tolees0ca-21)

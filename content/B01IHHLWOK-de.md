@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Airwaves Kaugummi | Cool Cassis | Lila   mit 21.69 % Rabatt'
-date: 2020-12-22 09:16:53
+date: 2020-12-23 09:52:50
 image: 'https://m.media-amazon.com/images/I/41PWsWta2tL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Sie können [Airwaves Kaugummi | Cool Cassis | Lila  zuckerfrei |  1 x 50 Dragee
 
 ℹ️:
 
-- Das original starke Geschmackserlebnis für den einzigartigen Airwaves Frische-Kick
-- Für noch mehr Frische und besonders lang anhaltenden Geschmack
 - Zuckerfreier Kaugummi
+- Für noch mehr Frische und besonders lang anhaltenden Geschmack
+- Das original starke Geschmackserlebnis für den einzigartigen Airwaves Frische-Kick
 
 [Hier!!](https://www.amazon.de/dp/B01IHHLWOK/?tag=tolees0ca-21)

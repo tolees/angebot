@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ravensburger Spiele 26400 - Disney Villa mit 38.24 % Rabatt'
-date: 2020-12-22 09:07:14
+date: 2020-12-23 09:44:19
 image: 'https://m.media-amazon.com/images/I/515lpvnfIFL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,9 +26,9 @@ Sie können [Ravensburger Spiele 26400 - Disney Villainous 26400 - Das spannende
 ℹ️:
 
 - Die übersichtliche Spielanleitung und ein Erklärvideo ermöglichen einen schnellen Spieleinstieg. Die Bösewicht-Handbücher mit Tipps, Besonderheiten und Fähigkeiten der Figuren helfen den Spielern, ihr böses Spielziel zu erreichen. Die Spielinhalte sind Deutsch
-- Der Spieler, der am durchtriebensten seine speziellen Fähigkeiten nutzt und geschickt die Pläne seiner Mitstreiter durchkreuzt, gewinnt dieses Familienspiel mit der verdrehten Spielmoral. Wer wird zum größten Schurken aller Zeiten?
-- Bei diesem spannenden Strategiespiel kommt beim nächsten Spieleabend der wahre Bösewicht zum Vorschein
 - Das Spiel ist eigenständig für 2 – 3 Spieler ab 10 Jahren spielbar. Es kann auch als Erweiterung zum Grundspiel mit bis zu 6 Spielern genutzt werden. Spieldauer: 20 Minuten pro Spieler
+- Der Spieler, der am durchtriebensten seine speziellen Fähigkeiten nutzt und geschickt die Pläne seiner Mitstreiter durchkreuzt, gewinnt dieses Familienspiel mit der verdrehten Spielmoral. Wer wird zum größten Schurken aller Zeiten?
 - Ideal für den nächsten Spieleabend oder als Geschenk für Kinder: Eine Reise in die Welt der Disney Bösewichte mit den Disney Villainous Spielen von Ravensburger
+- Bei diesem spannenden Strategiespiel kommt beim nächsten Spieleabend der wahre Bösewicht zum Vorschein
 
 [Hier!!](https://www.amazon.de/dp/B082XMS3V1/?tag=tolees0ca-21)

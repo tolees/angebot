@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi Robot Vacuum Mop Pro Saugrobot mit 17.74 % Rabatt'
-date: 2020-12-22 02:52:44
+date: 2020-12-23 09:53:14
 image: 'https://m.media-amazon.com/images/I/31eAlsBjhiL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,13 +25,9 @@ Sie können [Xiaomi Mi Robot Vacuum Mop Pro Saugroboter mit Wischfunktion  Saugk
 
 ℹ️:
 
-- Autom. Raumerkennung für z. B. selektive Raumreinigung
-- Virtuelle Wände zur Einstellung von Saug- & Wischsperrzonen
-- V-förmiger Wischpfad zur Beseitgung hartnäckiger Flecken
-- 1 Laser Distanz + 12 Sensoren (LDS) für eine 360° Abdeckung
-- Wisch- & Saugfunktion mit einer hohen Saugleistung von 2. 100 Pa (3 Modi: Saugen / Wischen / Saugen & Wischen)
-- Hindernisüberwindung bis zu 20 mm (z. B. Leisten, Teppiche etc. )
-- Steuerbar per Smartphone via Mi Home App oder per Sprachassistenten wie z. B. Google Assitant & Alexa
-- Intelligenter Wassertank mit elektronischer Steuerung für variable Wischwasserregelung (3 Stufen)
+- Xiaomi Mi Robot Vacuum Mop P White Technical Specifications: Brand: Xiaomi Model: My Robot Vacuum Mop P White (STYTJ02YM) General Engine: NIDEC Brushless Noise: 69 dB to 76 db. Functions: Aspiration, Mopa, Scrub Suction power: 2100 PA Capacity: 0.30 liters Water level capacity: 0.20L
+- Battery Capacity: 3200 mAh LG Li-Ion Dimensions and Weight: 3.6 kg Dimensions: 35 x 35 x 9.5 cm Package included: 1 x Xiaomi Mi Robot Vacuum Mop P White 1 x Charging Base 1 x EU Power Adapter 1 x Filter 1 x Mopa
+- Filter functions: washable HEPA - double dust system, anti dust mites. Cable Length (m): Wireless Collision Sensor: Yes Distance Sensor: LDS 360o Level Sensor: Yes Gyroscope/Accelerometer: Yes Control: Auto mode and App App: Compatible with Android and iOS Wifi: Yes
+- Mi Robot Vacuum Mop P White Robot Vacuum Cleaner - Processor R16-J - Autonomous Vacuum Cleaner - LDS 360o Sensor - 12 multi-directional sensors - Suction 2100PA - Mopa - Water Tank Smart Control - 3500 mAh Battery The new generation of Xiaomi Robot Vacuums is here. If you want to keep your home cleaner smoothly, you can now do it with the new Xiaomi Mi Robot Mop P White vacuum cleaner, designed to keep your home clean in all ways.
 
 [Hier!!](https://www.amazon.de/dp/B085BPCV7W/?tag=tolees0ca-21)
