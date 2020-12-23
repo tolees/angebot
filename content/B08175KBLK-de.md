@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Pirates 70412 Rotrocksegler  A mit 25.01 % Rabatt'
-date: 2020-12-21 16:19:05
+date: 2020-12-23 03:47:26
 image: 'https://m.media-amazon.com/images/I/61Aoq2i7mTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B08175KBLK/?tag=tolees0ca-21'
 descuento: '25.01'
-average: '26.816666666666666'
+average: '27.42'
 ---
 
 Sie können [PLAYMOBIL Pirates 70412 Rotrocksegler  Ab 5 Jahren](https://www.amazon.de/dp/B08175KBLK/?tag=tolees0ca-21) mit Preis 29.23 EUR (original: 38.98 EUR) 25.01 % Rabatt hier:

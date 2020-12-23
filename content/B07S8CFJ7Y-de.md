@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOM TAILOR Herren Basic Rundhalspullover mit 23.14 % Rabatt'
-date: 2020-12-22 02:55:21
+date: 2020-12-23 03:24:56
 image: 'https://m.media-amazon.com/images/I/41jxcSH7uRL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07S8CFJ7Y/?tag=tolees0ca-21'
 descuento: '23.14'
-average: '22.992500000000003'
+average: '23.004000000000005'
 ---
 
 Sie können [TOM TAILOR Herren Basic Rundhalspullover  Pullover  Light Soft Grey Melange  M EU](https://www.amazon.de/dp/B07S8CFJ7Y/?tag=tolees0ca-21) mit Preis 23.05 EUR (original: 29.99 EUR) 23.14 % Rabatt hier:

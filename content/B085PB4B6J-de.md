@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.56 % rabat auf PlayStation 4 Pro - Konsole  1 TB  schwa'
-date: 2020-12-21 21:00:11
+date: 2020-12-23 03:35:21
 image: 'https://m.media-amazon.com/images/I/41jNcXPDmeL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B085PB4B6J/?tag=tolees0ca-21'
 descuento: '15.56'
-average: '399.58621359223304'
+average: '399.2129523809524'
 ---
 
 Es gibt ein [PlayStation 4 Pro - Konsole  1 TB  schwarz  PS Hits Naughty Dog Bundle](https://www.amazon.de/dp/B085PB4B6J/?tag=tolees0ca-21) mit aktuellem Preis 379.99 EUR (original: 449.99 EUR) 15.56 % Rabatt hier:

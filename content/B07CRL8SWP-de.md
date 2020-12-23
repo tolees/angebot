@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '22.49 % rabat auf Sylvanian Families - 5315 - Supermarkt'
-date: 2020-12-22 03:13:18
+date: 2020-12-23 03:36:30
 image: 'https://m.media-amazon.com/images/I/51lKi+80N1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07CRL8SWP/?tag=tolees0ca-21'
 descuento: '22.49'
-average: '22.78566473988439'
+average: '22.835199999999997'
 ---
 
 Es gibt ein [Sylvanian Families - 5315 - Supermarkt](https://www.amazon.de/dp/B07CRL8SWP/?tag=tolees0ca-21) mit aktuellem Preis 27.12 EUR (original: 34.99 EUR) 22.49 % Rabatt hier:
