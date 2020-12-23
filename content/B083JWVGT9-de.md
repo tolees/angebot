@@ -25,9 +25,9 @@ Sie können [Sylvanian Families - 5453 - Baby Igelhöhle NEU](https://www.amazon
 
 ℹ️:
 
-- Für Kinder ab 3 Jahren geeignet
-- mit Igel Baby Figur
-- Baby Igelhöhle mit Tür zum Öffnen, Rutsche, Ofen, Tisch, Briefkasten und Schlafsack
 - mit anderen Produkten der Baby Serie kombinierbar
+- Baby Igelhöhle mit Tür zum Öffnen, Rutsche, Ofen, Tisch, Briefkasten und Schlafsack
+- mit Igel Baby Figur
+- Für Kinder ab 3 Jahren geeignet
 
 [Hier!!](https://www.amazon.de/dp/B083JWVGT9/?tag=tolees0ca-21)

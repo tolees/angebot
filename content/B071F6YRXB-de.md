@@ -25,10 +25,10 @@ Es gibt ein [ALPHA INDUSTRIES Herren Basic Hoody Kapuzenpullover  Schwarz  S](ht
 
 ℹ️:
 
-- eBay Multihinweis: verschiedene Farben
-- Transparenz: Blickdicht
 - Dehnbarkeit: Leicht elastisch
 - Anlass: Casual
 - Saum: Bündchen
+- Transparenz: Blickdicht
+- eBay Multihinweis: verschiedene Farben
 
 [kauf es hier!!](https://www.amazon.de/dp/B071F6YRXB/?tag=tolees0ca-21)

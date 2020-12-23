@@ -25,8 +25,8 @@ Es gibt ein [Nike Herren Court Vision Lo Basketballschuhe  Weiß  White/White-Wh
 
 ℹ️:
 
-- Gummi-Cupsohle für mehr Strapazierfähigkeit und Traktion
 - Das Design, das eine Kombination aus Leder, Kunstleder und Gummi verwendet, lässt sich von Basketballschuhen Mitte der 80er Jahre inspirieren.
 - Eine Gummisohle sorgt für Langlebigkeit und Traktion.
+- Gummi-Cupsohle für mehr Strapazierfähigkeit und Traktion
 
 [kauf es hier!!](https://www.amazon.de/dp/B07NMZH5D4/?tag=tolees0ca-21)

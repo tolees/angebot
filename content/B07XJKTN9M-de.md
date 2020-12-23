@@ -26,7 +26,7 @@ Sie können [s.Oliver Damen 04.899.32.2796 T-Shirt  White   Herstellergröße: 3
 ℹ️:
 
 - We Care
-- Dieses Produkt trägt das Supporting the Cotton made in Africa Initiative-Label
 - Nachhaltige Faser
+- Dieses Produkt trägt das Supporting the Cotton made in Africa Initiative-Label
 
 [Hier!!](https://www.amazon.de/dp/B07XJKTN9M/?tag=tolees0ca-21)
