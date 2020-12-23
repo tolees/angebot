@@ -25,9 +25,9 @@ Sie können [SanDisk microSDXC UHS-I Speicherkarte für Nintendo Switch 256 GB  
 
 ℹ️:
 
+- Transfer rates up to 100MB/s to load games fast
 - Nintendo-licensed memory card for the Nintendo Switch system
 - Store digital games and additional content in one place to play anywhere
-- Transfer rates up to 100MB/s to load games fast
 - Instantly add up to 256GB of additional space
 
 [Hier!!](https://www.amazon.de/dp/B07QD6R5L7/?tag=tolees0ca-21)

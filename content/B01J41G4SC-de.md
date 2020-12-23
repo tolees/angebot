@@ -26,9 +26,9 @@ Es gibt ein [LEGO 60139 City Polizei Mobile Einsatzzentrale  Bauset  LKW-Spielze
 ℹ️:
 
 - Pull off the jail door for a breakout and then chase down the crooks buildable ATV with the police motorbike
-- Build a truck that opens into a police mobile command centre, with a detachable cab, jail cell, monitoring room, satellite dish and more cool features
 - Accessory elements include a mug, backpack, two money bills, two cones, wrench, walkie-talkie, lollypop stop sign and a set of handcuffs
-- LEGO city building toys are compatible with all LEGO construction sets for creative building
+- Build a truck that opens into a police mobile command centre, with a detachable cab, jail cell, monitoring room, satellite dish and more cool features
 - Includes male and female police officers and male and female crook minifigures, plus police dog figure and accessories
+- LEGO city building toys are compatible with all LEGO construction sets for creative building
 
 [kauf es hier!!](https://www.amazon.de/dp/B01J41G4SC/?tag=tolees0ca-21)

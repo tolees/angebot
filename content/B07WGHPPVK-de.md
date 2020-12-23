@@ -25,9 +25,9 @@ Sie können [ONLY Female Strickpullover Detailreicher MBalsam Green](https://www
 
 ℹ️:
 
+- Rippbündchen
 - Langer Strickpullover
 - Materialzusammensetzung: 77% Polyacryl, 19% Polyester, 4% Elasthan
 - Rundhalsausschnitt
-- Rippbündchen
 
 [Hier!!](https://www.amazon.de/dp/B07WGHPPVK/?tag=tolees0ca-21)

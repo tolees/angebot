@@ -25,9 +25,9 @@ Es gibt ein [Clarks Herren Tilden Plain Derby  Schwarz  Black Leather   43 EU](h
 
 ℹ️:
 
+- Innenmaterial: Leder
+- Sohle: Gummi
 - Absatzhöhe: 2.0 cm
 - Obermaterial: Leder
-- Sohle: Gummi
-- Innenmaterial: Leder
 
 [kauf es hier!!](https://www.amazon.de/dp/B00TTJGRDW/?tag=tolees0ca-21)

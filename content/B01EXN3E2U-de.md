@@ -25,10 +25,10 @@ Es gibt ein [Samsung Ladegerät + Kabel Original ETAU-90 für Galaxy S2 S3 S4 S5
 
 ℹ️:
 
-- Datenkabel kann auch zwischen PC und Handy eingesetzt werden 2000 mAh
 - Emiro Display Cleaner zum optimalen reinigen Ihres Smartphone Bildschirms
+- Datenkabel kann auch zwischen PC und Handy eingesetzt werden 2000 mAh
 - Der integrierte Sicherheitsmechnismus schützt vor Überspannungen
-- SM-G900F Galaxy S5, SM-G850F Galaxy Alpha, Galaxy Note 4 SM-N910F, Galaxy S6 SM-G920F, Galaxy S6 Edge SM-G925F, Samsung Galaxy S2 I9100 , Galaxy J5 SM-J500F, Galaxy S5 neo SM-G903F, Galaxy S6 edge+ SM-G928F, Galaxy S7 SM-G930F, Galaxy S7 Edge SM-G935F, Galaxy S4 I9505, Galaxy S4 mini I9195, Galaxy S5 mini SM-G800F
 - Original Samsung Ladekabel
+- SM-G900F Galaxy S5, SM-G850F Galaxy Alpha, Galaxy Note 4 SM-N910F, Galaxy S6 SM-G920F, Galaxy S6 Edge SM-G925F, Samsung Galaxy S2 I9100 , Galaxy J5 SM-J500F, Galaxy S5 neo SM-G903F, Galaxy S6 edge+ SM-G928F, Galaxy S7 SM-G930F, Galaxy S7 Edge SM-G935F, Galaxy S4 I9505, Galaxy S4 mini I9195, Galaxy S5 mini SM-G800F
 
 [kauf es hier!!](https://www.amazon.de/dp/B01EXN3E2U/?tag=tolees0ca-21)

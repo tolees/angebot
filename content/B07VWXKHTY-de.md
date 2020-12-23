@@ -27,8 +27,8 @@ Sie können [Asus PCE-AX58BT PCIe-Karte  Bluetooth 5.0 + Wi-Fi 6 AX3000 Dual-Ban
 
 - Freistehende Sende/-Empfangsstation mit Verbindungskabel ermöglicht eine einfache Positionierung für die bestmögliche Signalqualität
 - Datenübertragungen mit bis zu doppelt so hoher Geschwindigkeit und vierfacher Reichweite dank Bluetooth 5.0
-- Die integrierte MU-MIMO-Technologie sorgt dafür, dass alle verbundenen Geräte mit der maximal möglichen Geschwindigkeit arbeiten
 - Unterstützung für das WLAN der Zukunft Wifi 6 (802.11ax)
+- Die integrierte MU-MIMO-Technologie sorgt dafür, dass alle verbundenen Geräte mit der maximal möglichen Geschwindigkeit arbeiten
 - Lieferumfang: PCIe WLAN Karte, externe Antennenstation, Garantiekarte, Schnellstartanleitung
 
 [Hier!!](https://www.amazon.de/dp/B07VWXKHTY/?tag=tolees0ca-21)

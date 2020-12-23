@@ -25,11 +25,11 @@ Es gibt ein [Weißer Riese Universal Duo-Caps Aromatherapie  80  1x80  Waschladu
 
 ℹ️:
 
-- Particularly economical and extra strong against stains thanks to active stain removers, which dissolve even the strongest dirt.
-- Please note: the pictures may show slight differences to the actual item.
-- No mess, no dosing aid required, simply put duo cap in the washing drum - washing has never been so easy.
-- White Giant universal duo-caps aromatherapy pampers with the sensual scent of aromatic flower essences of Lotus & White Lily.
 - With the giant fragrance experience, the white giant universal duo caps aromatherapy lotus and white lily ensure fresh and clean laundry.
+- No mess, no dosing aid required, simply put duo cap in the washing drum - washing has never been so easy.
+- Particularly economical and extra strong against stains thanks to active stain removers, which dissolve even the strongest dirt.
+- White Giant universal duo-caps aromatherapy pampers with the sensual scent of aromatic flower essences of Lotus & White Lily.
 - The ideal universal detergent - suitable from 20 °C to 95 °C; good washing results can be achieved even at 20 °C.
+- Please note: the pictures may show slight differences to the actual item.
 
 [kauf es hier!!](https://www.amazon.de/dp/B086RK48JQ/?tag=tolees0ca-21)
