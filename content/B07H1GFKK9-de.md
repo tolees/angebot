@@ -25,9 +25,9 @@ Sie können [TP-Link Kasa Smart Indoor Cloud-Kamera  kompatibel mit Alexa  Echo 
 
 ℹ️:
 
-- 24/7, kristallklares Live-Video, Ganzglaslinse, 130 ° Weitwinkelansicht mit 1080p-Auflösung für satte Farben, ausgewogene Beleuchtung und Nachtüberwachung mit bis zu 7 Metern
-- Mithilfe von benutzerdefinierten Aktivitätsbereichen und Benachrichtigungen können Sie Benachrichtigungen erhalten, die für Sie am wichtigsten sind
-- Mittels 2-Wege-Audio mit integriertem Mikrofon und Lautsprecher können Sie mit Ihrer Familie in Kontakt bleiben
 - Kompatibel mit Echo Show/Echo Spot/Fire TV und Chromecast, sodass Sie Live-Videostreams mit einem einfachen Sprachbefehl ansehen oder stoppen können
+- Mithilfe von benutzerdefinierten Aktivitätsbereichen und Benachrichtigungen können Sie Benachrichtigungen erhalten, die für Sie am wichtigsten sind
+- 24/7, kristallklares Live-Video, Ganzglaslinse, 130 ° Weitwinkelansicht mit 1080p-Auflösung für satte Farben, ausgewogene Beleuchtung und Nachtüberwachung mit bis zu 7 Metern
+- Mittels 2-Wege-Audio mit integriertem Mikrofon und Lautsprecher können Sie mit Ihrer Familie in Kontakt bleiben
 
 [Hier!!](https://www.amazon.de/dp/B07H1GFKK9/?tag=tolees0ca-21)
