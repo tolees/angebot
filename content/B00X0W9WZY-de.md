@@ -26,9 +26,9 @@ Sie können [Tommy Hilfiger ETON CC AND COIN POCKET AM0AM00651 Herren Geldbörse
 ℹ️:
 
 - Außenmaße (LxBxH): 12.5cm x 9.5cm x 2cm
+- Material: Leder
 - Anzahl Kreditkartenfächer: 4
 - Verschlussart: offen
 - Serie: Eton
-- Material: Leder
 
 [Hier!!](https://www.amazon.de/dp/B00X0W9WZY/?tag=tolees0ca-21)

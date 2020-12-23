@@ -25,9 +25,9 @@ Es gibt ein [Tommy Hilfiger Damen DANNY BELT Metall Schließe GÃ¼rtel  Schwarz
 
 ℹ️:
 
+- Gürtelbreite: 3.5cm
+- Gürtelbreite: 3.5cm
 - Gürtelverschluss: Dornschließe
-- Gürtelbreite: 3.5cm
-- Gürtelbreite: 3.5cm
 - Serie: Danny
 - Material: Leder
 
