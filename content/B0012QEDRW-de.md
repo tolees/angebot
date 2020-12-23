@@ -25,10 +25,10 @@ Es gibt ein [Sebamed Flüssig Wasch-Emulsion Nachfüllbeutel 400 ml  seifenfreie
 
 ℹ️:
 
-- MADE in Germany, ohne Mikroplastik
 - Sebamed Produkte sind in über 120 Studien dermatologisch-klinisch getestet
 - Ein Pflegekomplex mit Pentavitin, Glycerin und Panthenol gleicht Feuchtigkeitsverlust aus
 - Unsere Produkte werden in Deutschland entwickelt, getestet und hergestellt. Die Qualität ist durch ausgewählte Rohstoffe und kontrollierte Fertigungsprozesse garantiert
+- MADE in Germany, ohne Mikroplastik
 - Ein Reinigungskomplex mit besonders milden Waschaktivsubstanzen reinigt die empfindliche Haut und hilft, die Haut vor Reizung und Austrocknung zu schützen
 - Der pH-Wert 5,5 unterstützt den natürlichen Hautschutzmantel und macht sie widerstandsfähiger. Hervorragende Eignung für empfindliche und problematische Haut - dermatologisch-klinisch getestet
 
