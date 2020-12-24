@@ -26,8 +26,8 @@ Es gibt ein [ONLY Female Strickpullover Lang MBlack](https://www.amazon.de/dp/B0
 ℹ️:
 
 - Materialzusammensetzung: 80% Viskose, 20% Polyamid
-- Runder Kragen.
 - Vorderlänge: 70 cm in GrößeM.
+- Runder Kragen.
 - Langer gestrickter Pullover.
 
 [kauf es hier!!](https://www.amazon.de/dp/B010QC6YDI/?tag=tolees0ca-21)

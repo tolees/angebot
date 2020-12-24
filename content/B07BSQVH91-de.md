@@ -25,8 +25,8 @@ Sie können [Samsung MZ-76P4T0B/EU 860 PRO 4 TB SATA 2 5" Interne SSD Schwarz](h
 
 ℹ️:
 
-- Fortschrittliche Hardware-Datenverschlüsselung nach den aktuellen Standards: optional können dank SED (Self Encrypting Drive) Technology Ihre Daten mit AES 256bit Verschlüsselung geschützt werden.
 - Höchste Zuverlässigkeit dank Samsung V-NAND 2-bit MLC Speicher mit bis zu 4800TB TBW Haltbarkeit
 - Lesegeschwindigkeit bis zu 560MB/s, Schreibgeschwindigkeit bis zu 530MB/s
+- Fortschrittliche Hardware-Datenverschlüsselung nach den aktuellen Standards: optional können dank SED (Self Encrypting Drive) Technology Ihre Daten mit AES 256bit Verschlüsselung geschützt werden.
 
 [Hier!!](https://www.amazon.de/dp/B07BSQVH91/?tag=tolees0ca-21)
