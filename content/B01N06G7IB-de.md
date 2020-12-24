@@ -25,10 +25,10 @@ Sie können [Digitalbox 77-560-00 Imperial T 2 IR Plus DVB-T2 HD Receiver mit Ir
 
 ℹ️:
 
-- Optionales Zubehör: Externes Infrarotauge: 5910252, KfZ 12 V Netzteil: 5400135
-- Am Ende der Ausbauphase (freenet.tv) können mit dem Receiver bis zu 20 private Programme zusätzlich zu den bis zu kostenlosen öffentlich-rechtlichen Programmen in HD-Qualität empfangen werden
 - DVB-T2 HD/ DVB-T Receiver mit Irdeto Entschlüsselung für private Sender inkl. 3 Monate Gratis Zugang (H.265/HEVC Standard)
 - 4-stelliges Display, USB Aufnahmefunktion (PVR ready), Kostenloses Internetradioportal per LAN, 7 Tage Programmvorschau (EPI), Mediaplayer, Videotext, Kindersicherung
+- Optionales Zubehör: Externes Infrarotauge: 5910252, KfZ 12 V Netzteil: 5400135
+- Am Ende der Ausbauphase (freenet.tv) können mit dem Receiver bis zu 20 private Programme zusätzlich zu den bis zu kostenlosen öffentlich-rechtlichen Programmen in HD-Qualität empfangen werden
 - Anschlüsse: HDMI, Scart, Audio Ausgang digital elektrisch, USB 2.0; LAN 10/100; IEC-Buchse
 
 [Hier!!](https://www.amazon.de/dp/B01N06G7IB/?tag=tolees0ca-21)

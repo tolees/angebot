@@ -25,9 +25,9 @@ Sie können [Playstation - Buttons - Tischlampe | Offizielles Merchandise](https
 
 ℹ️:
 
+- Sony PlayStation - Buttons- Tischlampe - Offizielles Merchandise
 - Für Fans von Sony und PlayStation ist die Tischlampe ein Muss und das perfekte Geschenk für Fans
 - Die Lampe hat drei Modi: Sie kann konstant leuchten, gedimmt an und aus gehen oder zum Takt von Musik leuchten
-- Sony PlayStation - Buttons- Tischlampe - Offizielles Merchandise
 - Die Tischlampe zeigt die vier Symbole des PS-Controllers, in denen sich LED-Lampen befinden
 - Die Tischlampe kann mit drei AAA-Batterien betrieben, die nicht inklusive sind und oder per USB. Ein passenden Kabel liegt bei. Die Lampe ist ca. 31 x 7 x 11 cm groß
 

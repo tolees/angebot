@@ -25,10 +25,10 @@ Es gibt ein [PLAYMOBIL City Life 70280 KiTa Regenbogen mit Licht- und Soundeffek
 
 ℹ️:
 
-- Kunterbunte Einrichtung: Küche, Spielecke und Sanitärbereich, Bepflanzbares Beet im Außenbereich, Funktionsfähige Türklingel und Außenbeleuchtung uvm.
+- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Lieferumfang: 1x PLAYMOBIL City Life - KiTa Regenbogen, 180-teiliges Spielfiguren-Set mit Anleitung: 1 KiTa, 4 Figuren, 175 Zubehörteile (wird ohne 2 x 1,5-V-Micro-Batterien geliefert), Material: Kunststoff, LxTxH: 50,5x27x19,5 cm, 70280
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
-- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
+- Kunterbunte Einrichtung: Küche, Spielecke und Sanitärbereich, Bepflanzbares Beet im Außenbereich, Funktionsfähige Türklingel und Außenbeleuchtung uvm.
 - Spielspaß von früh bis spät: PLAYMOBIL KiTa Regenbogen mit Erzieherin, 3 Kindern sowie Spielzeugen und Zubehörteilen für detailgetreues Nachspielen
 
 [kauf es hier!!](https://www.amazon.de/dp/B082PGTXK2/?tag=tolees0ca-21)

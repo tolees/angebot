@@ -25,10 +25,10 @@ Es gibt ein [D-Link DGS-1008P 8-Port Layer2 Gigabit Switch  8 Anschlüsse mit 10
 
 ℹ️:
 
-- Dedizierte Bandbreiten für Server und Arbeitsstationen
-- Puffer-RAM mit automatischer Zuweisung für jeden Anschluss
+- 8x 10/100/1000 Mbit/s TP (RJ-45) Gigabit Ports
 - Vorderseitige Ausstattung mit LED- Anzeigen
 - Lieferumfang: D-Link 8Port Gigabit Switch Layer2 PoE
-- 8x 10/100/1000 Mbit/s TP (RJ-45) Gigabit Ports
+- Dedizierte Bandbreiten für Server und Arbeitsstationen
+- Puffer-RAM mit automatischer Zuweisung für jeden Anschluss
 
 [kauf es hier!!](https://www.amazon.de/dp/B004FJSST2/?tag=tolees0ca-21)
