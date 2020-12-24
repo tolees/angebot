@@ -25,11 +25,11 @@ Es gibt ein [Sony Alpha 7 II | Spiegellose Vollformat-Kamera mit Sony 28-70 mm f
 
 ℹ️:
 
-- SHARP DETAILS: 24 Mp full frame sensor to deliver outstanding images
-- Minimum focus distance is 0.3 to 0.45 meter (0.99 to 1.48 feet)
-- IDEAL FOR: Starters who want a compact everyday lens
-- QUICK AND ACCURATE: The A7 features Fast Hybrid AF, to get optimum focus. 5 fps burst shooting helps you capture the moment
-- EXPRESSIVE VIDEOS: Create movies of breathtaking visual and sound quality with exquisite background blur and the sensitivity to bring dark scenes to vibrant life
 - STEADY SHOOTING: 5-axis optical image stabilisation for stills and movies to compensate camera shakes
+- Minimum focus distance is 0.3 to 0.45 meter (0.99 to 1.48 feet)
+- EXPRESSIVE VIDEOS: Create movies of breathtaking visual and sound quality with exquisite background blur and the sensitivity to bring dark scenes to vibrant life
+- SHARP DETAILS: 24 Mp full frame sensor to deliver outstanding images
+- QUICK AND ACCURATE: The A7 features Fast Hybrid AF, to get optimum focus. 5 fps burst shooting helps you capture the moment
+- IDEAL FOR: Starters who want a compact everyday lens
 
 [kauf es hier!!](https://www.amazon.de/dp/B00Q2KEVA2/?tag=tolees0ca-21)

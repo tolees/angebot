@@ -25,12 +25,12 @@ Sie können [Seiko Solar Herren-Uhr Edelstahl mit Metallband SNE391P1](https://w
 
 ℹ️:
 
-- Ø 43,0 x 11,0 mm
 - Gehäuse aus Edelstahl
 - LumiBrite (von Seiko entwickelte umweltfreundliche Leuchtbeschichtung)
-- Hardlexglas (Oberflächengehärtetes Mineralglas)
-- Metallband mit Faltschließe und Sicherheitsdrücker
-- Bis zu 100 Meter wasserdicht
 - Verschraubter Gehäuseboden
+- Ø 43,0 x 11,0 mm
+- Bis zu 100 Meter wasserdicht
+- Metallband mit Faltschließe und Sicherheitsdrücker
+- Hardlexglas (Oberflächengehärtetes Mineralglas)
 
 [Hier!!](https://www.amazon.de/dp/B014HBH1UO/?tag=tolees0ca-21)
