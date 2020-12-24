@@ -1,34 +1,35 @@
 ---
 layout: post
-title: '20.90 % rabat auf LEGO 75284 Star Wars Transportraumschiff'
-date: 2020-12-23 03:40:09
+title: '15.35 % rabat auf LEGO 75284 Star Wars Transportraumschiff'
+date: 2020-12-24 09:21:47
 image: 'https://m.media-amazon.com/images/I/51JV9jAf1sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B0813R6XSH-de'
-actualPrice: 53.97 EUR
+actualPrice: 57.76 EUR
 currency: EUR
-price: 53.97
+price: 57.76
 comparePrice: 68.23 EUR
 prodname: 'LEGO 75284 Star Wars Transportraumschiff der Ritter von Ren  Bauset mit Rey Minifigur'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B0813R6XSH/?tag=tolees0ca-21'
-descuento: '20.90'
-average: '53.56225165562915'
+descuento: '15.35'
+average: '53.617124183006545'
 ---
 
-Es gibt ein [LEGO 75284 Star Wars Transportraumschiff der Ritter von Ren  Bauset mit Rey Minifigur](https://www.amazon.de/dp/B0813R6XSH/?tag=tolees0ca-21) mit aktuellem Preis 53.97 EUR (original: 68.23 EUR) 20.90 % Rabatt hier:
+Es gibt ein [LEGO 75284 Star Wars Transportraumschiff der Ritter von Ren  Bauset mit Rey Minifigur](https://www.amazon.de/dp/B0813R6XSH/?tag=tolees0ca-21) mit aktuellem Preis 57.76 EUR (original: 68.23 EUR) 15.35 % Rabatt hier:
 
 [![LEGO 75284 Star Wars Transportraumschiff](https://m.media-amazon.com/images/I/51JV9jAf1sL._SL200_.jpg)](https://www.amazon.de/dp/B0813R6XSH/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Comes with easy-to-follow, illustrated instructions so that even Star Wars fans new to LEGO can build with Jedi-like confidence
-- Open up a galaxy of entertainment for kids (and adult Star Wars fans) with the LEGO Star Wars Knights of Ren Transport Ship
-- Includes 3 LEGO minifigures: 2 Knights of Ren with new helmet designs, and Rey with her blue Lightsaber
-- The ship ‘hovers’ with hidden skis underneath, has 2 opening cockpits, a minifigure prison compartment and 2 spring-loaded shooters
-- Perfect for boys and girls aged 9+ to add to their LEGO Star Wars collections and combine with other LEGO sets for extra ingenious fun
+- Dieser Raumschiff-Modellbausatz enthält 3 LEGO Star Wars Minifiguren – 2 Ritter von Ren mit Helmen (neu ab August 2020) und jeder Menge Ausrüstung sowie Rey mit einem Lichtschwert, um Kinder allein oder zusammen mit Freunden spannende Rollenspiele zu ermöglichen
+- Dieses Star Wars Raumschiff-Bauspielzeug ist 8 cm hoch, 29 cm lang und 17 cm breit. Fans können auch im Videospiel „LEGO Star Wars: Die Skywalker Saga“ mit dem Raumschiff fliegen
+- Dieses 595-teilige Set bietet Jungen und Mädchen ab 9 Jahren eine unterhaltsame Bauherausforderung und ist ein tolles Weihnachts-, Geburtstags- oder Überraschungsgeschenk für Kinder und jeden Star Wars Fan
+- Unter dem Raumfahrzeug-Baumodell befinden sich Kufen, um den Schwebe-Effekt zu erzielen. Außerdem verfügt das Raumschiff über aufklappbare LEGO Minifiguren-Cockpits für die beiden Ritter, einen Laderaum, um Rey gefangen zu halten, und 2 Shooter mit Federmechanismus für riesigen Actionspaß
+- Für dieses Bauspielzeug werden keine Batterien benötigt. Das Transportraumschiff besteht ausschließlich aus LEGO Steinen – und als Antrieb für unzählige abenteuerliche Star Wars Rollenspiele reicht die Kreativität der Kinder
+- Mit dem LEGO Bauspielzeug „Transportschiff der Ritter von Ren“ (75284) können Kinder die Actionszenen aus „Star Wars: Der Aufstieg Skywalkers“ nachstellen
 
 [kauf es hier!!](https://www.amazon.de/dp/B0813R6XSH/?tag=tolees0ca-21)

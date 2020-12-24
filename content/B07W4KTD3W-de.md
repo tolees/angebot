@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21051 Architecture Tokio Modell  Sk mit 24.11 % Rabatt'
-date: 2020-12-23 03:27:36
+date: 2020-12-24 09:18:45
 image: 'https://m.media-amazon.com/images/I/51NfBgYsa9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07W4KTD3W/?tag=tolees0ca-21'
 descuento: '24.11'
-average: '42.19976851851854'
+average: '42.21977064220186'
 ---
 
 Sie können [LEGO 21051 Architecture Tokio Modell  Skyline-Kollektion  Bauset für Sammler](https://www.amazon.de/dp/B07W4KTD3W/?tag=tolees0ca-21) mit Preis 44.38 EUR (original: 58.48 EUR) 24.11 % Rabatt hier:
@@ -25,10 +25,10 @@ Sie können [LEGO 21051 Architecture Tokio Modell  Skyline-Kollektion  Bauset f�
 
 ℹ️:
 
-- Vibrant colours and authentic details of its 6 landmarks models will catch the eye of every passerby with decorative blooming cherry trees
-- The cherry-tree-filled Chidorigafuchi Park, a classic pagoda tower and Shibuya Crossing are also featured in this skyline construction set
-- Together on the baseplate with a Tokyo nameplate, they create a compact, impactful, eye-catching display piece to brighten up any room
-- Includes scale models of TOKYO SKYTREE, the world’s tallest freestanding tower, Tokyo Tower, Mode Gakuen Cocoon Tower and Tokyo Big Sight
-- Learn more about Tokyo skyline and the model designer in the booklet (in English) or download other languages at manufacturer website
+- Dieses Bauset enthält Modelle des Tokyo Tower, des höchsten frei stehenden Turms der Welt, des Mode Gakuen Cocoon Tower, des Tokyo Big Sight und des Tokyo Skytree
+- Lebendige Farben und authentische Details der 6 Wahrzeichen-Modelle werden jeden Passanten mit dekorativen, blühenden Kirschbäumen begeistern
+- Wenn die Gebäude auf der Grundplatte mit dem Namensschild Tokyo aneinandergereiht werden, entsteht ein kompaktes und sehr eindrucksvolles Modell
+- Wissenswertes über Tokio und den Modelldesigner enthält das beiliegende Heft (nur in englischer Sprache verfügbar). Auf LEGO architecture kann das Heft auch in anderen Sprachen heruntergeladen werden
+- Der mit Kirschbäumen gesäumte Chidori-ga-fuchi-Graben, ein klassischer Pagodenturm und die Shibuya-Kreuzung gehören ebenfalls zum Set
 
 [Hier!!](https://www.amazon.de/dp/B07W4KTD3W/?tag=tolees0ca-21)
