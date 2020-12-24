@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '31.38 % rabat auf Nike Herren Court Vision Lo Basketballsc'
-date: 2020-12-23 03:39:52
+date: 2020-12-24 21:53:50
 image: 'https://m.media-amazon.com/images/I/31UWc0i+q6L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,10 @@ Es gibt ein [Nike Herren Court Vision Lo Basketballschuhe  Weiß  White/White-Wh
 
 ℹ️:
 
-- Eine Gummisohle sorgt für Langlebigkeit und Traktion.
-- Das Design, das eine Kombination aus Leder, Kunstleder und Gummi verwendet, lässt sich von Basketballschuhen Mitte der 80er Jahre inspirieren.
-- Gummi-Cupsohle für mehr Strapazierfähigkeit und Traktion
+- Obermaterial: Glattleder / Synthetik
+- Anlass: Casual
+- Innenmaterial: Textil
+- Größenhinweis: Fällt passend aus
+- eBay Multihinweis: verschiedene Farben
 
 [kauf es hier!!](https://www.amazon.de/dp/B07NMZH5D4/?tag=tolees0ca-21)

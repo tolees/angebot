@@ -1,29 +1,34 @@
 ---
 layout: post
-title: '49.99 % rabat auf Columbia Herren Woodburn II Waterproof W'
-date: 2020-02-19 05:04:52
-image: 'https://m.media-amazon.com/images/I/41iFsf8lSZL._AC_._SL200_.jpg'
+title: '33.98 % rabat auf Columbia Herren Woodburn Li  Scarpe da N'
+date: 2020-12-24 21:58:33
+image: 'https://m.media-amazon.com/images/I/41iFsf8lSZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00KWF4DC4-de'
-actualPrice: 50.0 EUR
+actualPrice: 65.99 EUR
 currency: EUR
-price: 50.0
-comparePrice: 99.99 EUR
-prodname: 'Columbia Herren Woodburn II Waterproof Wasserdichte Schuhe  Schwarz  black  caramel   43.5 EU'
+price: 65.99
+comparePrice: 99.95 EUR
+prodname: 'Columbia Herren Woodburn Li  Scarpe da Nordic Walking  Schwarz Karamell Black Caramel  43.5 EU'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B00KWF4DC4/?tag=tolees0ca-21'
-descuento: '49.99'
-average: '50.0'
+descuento: '33.98'
+average: '60.66'
 ---
 
-Es gibt ein [Columbia Herren Woodburn II Waterproof Wasserdichte Schuhe  Schwarz  black  caramel   43.5 EU](https://www.amazon.de/dp/B00KWF4DC4/?tag=tolees0ca-21) mit aktuellem Preis 50.0 EUR (original: 99.99 EUR) 49.99 % Rabatt hier:
+Es gibt ein [Columbia Herren Woodburn Li  Scarpe da Nordic Walking  Schwarz Karamell Black Caramel  43.5 EU](https://www.amazon.de/dp/B00KWF4DC4/?tag=tolees0ca-21) mit aktuellem Preis 65.99 EUR (original: 99.95 EUR) 33.98 % Rabatt hier:
 
-[![Columbia Herren Woodburn II Waterproof W](https://m.media-amazon.com/images/I/41iFsf8lSZL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00KWF4DC4/?tag=tolees0ca-21)
+[![Columbia Herren Woodburn Li  Scarpe da N](https://m.media-amazon.com/images/I/41iFsf8lSZL._SL200_.jpg)](https://www.amazon.de/dp/B00KWF4DC4/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Der Columbia Peakfreak Nomad Waterproof ist ein typischer Outdoor-Schuh, der als Light Trail-Schuh und als City Trail-Schuh Gebrauch findet. Das besonders leichte und wasserdichte Obermaterial aus Leder und Mesh, verspricht mehr Komfort und Atmungsaktivität, während Sie die wasserdichte Innenstiefel-Konstruktion trocken hält. Die gepolsterte Zwischensohle sorgt für eine hohe Energierückgabe und die abtriebfeste Außensohle dient für eine perfekte Bodenhaftung
+- Omni-Tech wasserdichte/atmungsaktive Schuhkonstruktion mit versiegelten Nähten
+- Leichte Techlite Zwischensohle
+- Obermaterial aus wasserdichtem Netzgewebe/Leder
+- Abtriebfeste Omni-Grip Gummi-Außensohle für gute Bodenhaftung
 
 [kauf es hier!!](https://www.amazon.de/dp/B00KWF4DC4/?tag=tolees0ca-21)
