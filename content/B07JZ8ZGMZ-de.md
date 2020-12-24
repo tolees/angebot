@@ -25,7 +25,7 @@ Es gibt ein [ONLY Damen Onlkarol L/S Rollneckpullover Knt Noos Pullover  Schwarz
 
 ℹ️:
 
-- Rollkragen Strickpullover
 - Enger Strickpullover aus Viskose
+- Rollkragen Strickpullover
 
 [kauf es hier!!](https://www.amazon.de/dp/B07JZ8ZGMZ/?tag=tolees0ca-21)
