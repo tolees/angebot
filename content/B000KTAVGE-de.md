@@ -25,10 +25,10 @@ Es gibt ein [Leibniz PiCK UP! Choco Single im 24er Pack — Butterkekse mit Scho
 
 ℹ️:
 
-- der Picknicker von Leibniz-unverwechselbar im Geschmack-für süße Momente
-- die Auszeit mit Biss von Leibniz in 4 leckeren Sorten-24 Stück einzeln verpackt
-- Leckerer Keks-Riegel mit knackiger Schokolade in der praktischen Einzelpackung zum Mitnehmen - perfekt für den kleinen Hunger zwischendurch!
 - Der leckere Snack für zwischendurch-ein Schokoriegel für die ganze Familie-sorgfältig ausgewählte natürliche Zutaten
+- die Auszeit mit Biss von Leibniz in 4 leckeren Sorten-24 Stück einzeln verpackt
+- der Picknicker von Leibniz-unverwechselbar im Geschmack-für süße Momente
 - keine Schokofinger-ideal zum snacken für unterwegs
+- Leckerer Keks-Riegel mit knackiger Schokolade in der praktischen Einzelpackung zum Mitnehmen - perfekt für den kleinen Hunger zwischendurch!
 
 [kauf es hier!!](https://www.amazon.de/dp/B000KTAVGE/?tag=tolees0ca-21)

@@ -26,7 +26,7 @@ Sie können [Sony Interactive Entertainment PS VR Starter Pack inkl. PS VR-Heads
 ℹ️:
 
 - Fünf Spiele zum Herunterladen im PS Store: ASTRO BOT Rescue Mission, Blood & Truth , PlayStation VR Worlds, Moss und Everybody’s Golf VR
-- Bringen Sie Ihr Spielerlebnis auf ein neues Level der Immersion und entdecken Sie atemberaubende neue Welten - jedes Mal, wenn Sie das Headset aufsetzen
 - Im Lieferumfang enthalten: PS VR Headset, Prozessoreinheit, PS Camera und Adapter (für PS5), Gutscheincode für PS VR Worlds, Stereokopfhörer und Ohrhörer
+- Bringen Sie Ihr Spielerlebnis auf ein neues Level der Immersion und entdecken Sie atemberaubende neue Welten - jedes Mal, wenn Sie das Headset aufsetzen
 
 [Hier!!](https://www.amazon.de/dp/B08MSV1CGZ/?tag=tolees0ca-21)
