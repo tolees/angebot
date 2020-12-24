@@ -26,9 +26,9 @@ Es gibt ein [SanDisk Extreme PRO M.2 NVMe 3D SSD 500 GB interne SSD  Lebensdauer
 ℹ️:
 
 - Easy to install and manage - no tech help required; use the SanDisk SSD dashboard to monitor drive health
+- Uncompromising read speeds of up to 3,400 MB/s - 6x faster than SATA SSDs; 25x faster than traditional internal notebook hard drives
 - Built with 3D NAND technology for higher durability, capacity and speed than ever before
 - Delivers up to 500,000 random-read IOPS over NVMe protocol for extreme throughput, ideal for multi-threaded applications and data-intensive multitasking environments
-- Uncompromising read speeds of up to 3,400 MB/s - 6x faster than SATA SSDs; 25x faster than traditional internal notebook hard drives
 - Designed for the most demanding workloads with up to 1,200 TBW [2 TB only; 600 TBW for 1 TB; 300 TBW for 500 GB]
 - SanDisk nCache 3.0 delivers fast boost speeds for accelerated application loads, web browsing and render times
 
