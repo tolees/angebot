@@ -1,35 +1,35 @@
 ---
 layout: post
-title: 'TP-Link UB400 Nano USB Bluetooth 4.0 Ada mit 18.22 % Rabatt'
-date: 2020-12-23 09:37:51
+title: 'TP-Link UB400 Nano USB Bluetooth 4.0 Ada mit 17.75 % Rabatt'
+date: 2020-12-24 15:15:35
 image: 'https://m.media-amazon.com/images/I/412OOSCOosL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07NQ5YGDW-de'
-actualPrice: 10.55 EUR
+actualPrice: 10.61 EUR
 currency: EUR
-price: 10.55
+price: 10.61
 comparePrice: 12.9 EUR
 prodname: 'TP-Link UB400 Nano USB Bluetooth 4.0 Adapter Dongle  für PC Laptop Desktop Computer  unterstützt Windows 10/8.1/8/7/XP  Plug & Play für Windows 10/8.1/8 '
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07NQ5YGDW/?tag=tolees0ca-21'
-descuento: '18.22'
-average: '9.639345454545454'
+descuento: '17.75'
+average: '9.646353790613718'
 ---
 
-Sie können [TP-Link UB400 Nano USB Bluetooth 4.0 Adapter Dongle  für PC Laptop Desktop Computer  unterstützt Windows 10/8.1/8/7/XP  Plug & Play für Windows 10/8.1/8 ](https://www.amazon.de/dp/B07NQ5YGDW/?tag=tolees0ca-21) mit Preis 10.55 EUR (original: 12.9 EUR) 18.22 % Rabatt hier:
+Sie können [TP-Link UB400 Nano USB Bluetooth 4.0 Adapter Dongle  für PC Laptop Desktop Computer  unterstützt Windows 10/8.1/8/7/XP  Plug & Play für Windows 10/8.1/8 ](https://www.amazon.de/dp/B07NQ5YGDW/?tag=tolees0ca-21) mit Preis 10.61 EUR (original: 12.9 EUR) 17.75 % Rabatt hier:
 
 [![TP-Link UB400 Nano USB Bluetooth 4.0 Ada](https://m.media-amazon.com/images/I/412OOSCOosL._SL200_.jpg)](https://www.amazon.de/dp/B07NQ5YGDW/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Nano-Design, Mini-Format, Ideal für den Einsatz unterwegs.Betriebstemperatur: 0 ~ 40 °C
-- Plug and Play keine Konfiguration erforderlich (für Win 8, Win 8.1 und Win 10)
-- Lieferumfang - Bluetooth 4.0 Nano USB Adapter UB400, Quick Installation Guide
-- Betriebssystem: Unterstützt Windows 10/8.1/8/7/XP
-- Bluetooth 4.0 ausgestattet mit der letzten Bluetooth 4.0 BLE-Technologie (Bluetooth Low Energy) auch abwärtskompatibel mit Bluetooth V3.0/2.1/2.0/1.1
 - PS4 Controller kompatibel: Weitere Informationen finden Sie im PDF unter Produktinformation
+- Plug and Play keine Konfiguration erforderlich (für Win 8, Win 8.1 und Win 10)
+- Nano-Design, Mini-Format, Ideal für den Einsatz unterwegs.Betriebstemperatur: 0 ~ 40 °C
+- Betriebssystem: Unterstützt Windows 10/8.1/8/7/XP
+- Lieferumfang - Bluetooth 4.0 Nano USB Adapter UB400, Quick Installation Guide
+- Bluetooth 4.0 ausgestattet mit der letzten Bluetooth 4.0 BLE-Technologie (Bluetooth Low Energy) auch abwärtskompatibel mit Bluetooth V3.0/2.1/2.0/1.1
 
 [Hier!!](https://www.amazon.de/dp/B07NQ5YGDW/?tag=tolees0ca-21)

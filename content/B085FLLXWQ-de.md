@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Princess 70449 Romantische Pfe mit 19.99 % Rabatt'
-date: 2020-12-23 10:03:34
+date: 2020-12-24 15:14:24
 image: 'https://m.media-amazon.com/images/I/51hgZbhfZtL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B085FLLXWQ/?tag=tolees0ca-21'
 descuento: '19.99'
-average: '20.09254901960784'
+average: '20.069811320754717'
 ---
 
 Sie können [PLAYMOBIL Princess 70449 Romantische Pferdekutsche  Ab 4 Jahren](https://www.amazon.de/dp/B085FLLXWQ/?tag=tolees0ca-21) mit Preis 19.49 EUR (original: 24.36 EUR) 19.99 % Rabatt hier:
@@ -25,10 +25,10 @@ Sie können [PLAYMOBIL Princess 70449 Romantische Pferdekutsche  Ab 4 Jahren](ht
 
 ℹ️:
 
+- Trittbretter u. Faltdach ausziehbar, Sitzbank für 2 Figuren, Fußklemmung für 1 stehende Figur uvm., Kombinierbar mit 70447 Großes Prinzessinnenschloss
+- Märchenhaft: PLAYMOBIL Romantische Pferdekutsche mit Prinzessin Betty, Prinz Freddy, 1 Chauffeur, 2 Pferden uvm. für detailgetreues Nachspielen
+- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 - Lieferumfang: 1x PLAYMOBIL Princess Romantische Pferdekutsche, 60-teiliges Spielfiguren-Set mit Anleitung: 1 Kutsche, 3 Figuren, 2 Pferde, 54 Zubehörteile, Material: Kunststoff, LxTxH: ca. 31x11x11,5-13 cm, Gewicht: 328 g, 70449
-- Trittbretter u. Faltdach ausziehbar, Sitzbank für 2 Figuren, Fußklemmung für 1 stehende Figur uvm., Kombinierbar mit 70447 Großes Prinzessinnenschloss
-- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
-- Märchenhaft: PLAYMOBIL Romantische Pferdekutsche mit Prinzessin Betty, Prinz Freddy, 1 Chauffeur, 2 Pferden uvm. für detailgetreues Nachspielen
 
 [Hier!!](https://www.amazon.de/dp/B085FLLXWQ/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL DreamWorks Spirit 70397 Winter mit 21.65 % Rabatt'
-date: 2020-12-23 09:56:15
+date: 2020-12-24 15:27:51
 image: 'https://m.media-amazon.com/images/I/51nOHSweauL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B081HQ8KN7/?tag=tolees0ca-21'
 descuento: '21.65'
-average: '15.00061224489796'
+average: '15.011176470588236'
 ---
 
 Sie können [PLAYMOBIL DreamWorks Spirit 70397 Winterliche Schlittenfahrt  Ab 4 Jahren](https://www.amazon.de/dp/B081HQ8KN7/?tag=tolees0ca-21) mit Preis 15.27 EUR (original: 19.49 EUR) 21.65 % Rabatt hier:

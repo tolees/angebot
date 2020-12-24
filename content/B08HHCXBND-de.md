@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '17.95 % rabat auf Xiaomi Mi 10T 6GB+128GB Cosmic Black ohn'
-date: 2020-12-23 09:42:05
+date: 2020-12-24 15:24:45
 image: 'https://m.media-amazon.com/images/I/41E5RBCWraL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B08HHCXBND/?tag=tolees0ca-21'
 descuento: '17.95'
-average: '475.33385964912276'
+average: '473.10050847457626'
 ---
 
 Es gibt ein [Xiaomi Mi 10T 6GB+128GB Cosmic Black ohne Simlock  Alexa Hands-Free  ohne Branding](https://www.amazon.de/dp/B08HHCXBND/?tag=tolees0ca-21) mit aktuellem Preis 409.45 EUR (original: 499.0 EUR) 17.95 % Rabatt hier:
