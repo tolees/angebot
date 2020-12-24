@@ -25,12 +25,12 @@ Sie können [Tommy Hilfiger Herren New ALY Belt Gürtel  Schwarz Black 090   110
 
 ℹ️:
 
-- Pure leather
-- E367895011
-- New Aly
-- 100% Leather
 - Not Washable
 - Fastening: buckle
+- E367895011
+- 100% Leather
 - Rectangular silver buckle
+- New Aly
+- Pure leather
 
 [Hier!!](https://www.amazon.de/dp/B018LLLV7U/?tag=tolees0ca-21)

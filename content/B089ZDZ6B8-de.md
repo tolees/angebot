@@ -25,8 +25,8 @@ Es gibt ein [STAR WARS SQUADRONS - [Xbox One]](https://www.amazon.de/dp/B089ZDZ6
 
 ℹ️:
 
-- Nutzen Sie das Armaturenbrett Ihres Schiffs zu Ihrem Vorteil und fühlen Sie die Hitze des Gefechts aus der First Person-Perspektive
 - Planen Sie zusammen mit Ihrer Staffel im Besprechungsraum Gefechte, bevor Sie sich auf die sich stetig im Wandel befindlichen Schlachtfelder der Galaxis stürzen
 - Übernehmen Sie die Kontrolle über verschiedene Sternenjägerklassen der Flotten der Neuen Republik und des Imperiums
+- Nutzen Sie das Armaturenbrett Ihres Schiffs zu Ihrem Vorteil und fühlen Sie die Hitze des Gefechts aus der First Person-Perspektive
 
 [kauf es hier!!](https://www.amazon.de/dp/B089ZDZ6B8/?tag=tolees0ca-21)
