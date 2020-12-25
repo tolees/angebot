@@ -25,8 +25,8 @@ Sie können [Schleich 22508 - THE FLASH](https://www.amazon.de/dp/B00PP6W5IE/?ta
 
 ℹ️:
 
-- The Flash ist vor Allem eines: unfassbar schnell
 - Kann er sogar durch Betonwände gehen
+- The Flash ist vor Allem eines: unfassbar schnell
 - Er soll sogar noch schneller sein als Superman
 
 [Hier!!](https://www.amazon.de/dp/B00PP6W5IE/?tag=tolees0ca-21)
