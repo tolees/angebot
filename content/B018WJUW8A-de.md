@@ -27,7 +27,7 @@ Es gibt ein [Manfrotto Aviator D1 Drohnen Rucksack](https://www.amazon.de/dp/B01
 
 - Im Frontbereich lässt sich die Tasche durch Reißverschlüsse öffnen, was die sichere Befestigung einer Drohne mit montierten Propellern erlaubt
 - Weitere Fächer bieten ausreichend Platz für dieFernsteuereinheit, Ersatzakkus und Zubehör. Auch für einen Laptop (bis 17 Zoll) oder Tablet-Computer sind spezielleFächer vorhanden
-- Er ist leicht, wasserabweisend und nach ergonomischen Richtlinien konzipiert. Die Kamera lässt sich in einemgepolsterten Fach sicher im oberen Bereich des Rucksacks verstauen
 - Drohnenfach: 41 x 30 x 16 cm , Geeignete DrohnenmodelleDJI Phantom 1, DJI Phantom FC40, DJI Phantom 2, DJI Phantom 2 Vision, DJI Phantom 2 Vision+,DJI Phantom 3 Standard, DJI Phantom 3 Advanced, DJI Phantom 3 Professional
+- Er ist leicht, wasserabweisend und nach ergonomischen Richtlinien konzipiert. Die Kamera lässt sich in einemgepolsterten Fach sicher im oberen Bereich des Rucksacks verstauen
 
 [kauf es hier!!](https://www.amazon.de/dp/B018WJUW8A/?tag=tolees0ca-21)

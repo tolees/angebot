@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '21.58 % rabat auf BOSS Herren Trunk 3P CO/EL Dreier-Pack B'
-date: 2020-12-24 03:55:18
+date: 2020-12-25 10:05:54
 image: 'https://m.media-amazon.com/images/I/31NA3JvkNiL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B01JZD7Q90/?tag=tolees0ca-21'
 descuento: '21.58'
-average: '31.90480000000001'
+average: '31.893529411764714'
 ---
 
 Es gibt ein [BOSS Herren Trunk 3P CO/EL Dreier-Pack Boxershorts aus Stretch-Baumwolle mit Logo am Bund M Schwarz](https://www.amazon.de/dp/B01JZD7Q90/?tag=tolees0ca-21) mit aktuellem Preis 31.33 EUR (original: 39.95 EUR) 21.58 % Rabatt hier:
