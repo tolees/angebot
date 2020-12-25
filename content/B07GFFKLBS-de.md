@@ -25,10 +25,10 @@ Sie können [INSTINNCT Damen Slim Fit Hohe Taille Sportshort Lange Leggings mit 
 
 ℹ️:
 
-- Der 4-Way-Stretch sorgt für größere Bewegungsfreiheit in alle Richtungen.
 - Ergonomische Flatlock-Nähte sorgen für einen komfortablen, scheuerfreien Sitz
-- Das Material leitet Schweiß weg & trocknet sehr schnell
 - Durch die sanfte Kompressionspassform fühlst du dich leistungsfähiger.
+- Das Material leitet Schweiß weg & trocknet sehr schnell
+- Der 4-Way-Stretch sorgt für größere Bewegungsfreiheit in alle Richtungen.
 - Beachten Sie bitte unsere Größentabelle bevor der Bestellung.
 
 [Hier!!](https://www.amazon.de/dp/B07GFFKLBS/?tag=tolees0ca-21)

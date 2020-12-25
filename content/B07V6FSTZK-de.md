@@ -25,10 +25,10 @@ Es gibt ein [Eanling GPS Drohne HS110G mit 1080P HD Kamera WiFi FPV Live Übertr
 
 ℹ️:
 
-- Länger und weiter -- Die maximale Flugzeit ist 13 Min.,länger und weiter fliegen. Die Bildübertragungsentfernung beträgt 492FT und die Maximaler Steuerbereich beträgt 984FT, die Ihnen die besten visuellen Genuss.
-- Schöne Momente Einfangen -- Mit dem 1080 HD 110°Sichtfeld und der FPV Übertragung, die Kamera hat die höhere Bildqualität und größerer Aufnahmewinkel als die gängige 720P Kamera. Genießen Sie die schöneste Zeit mit der App, verbinden Ihr Handy mit der fliegenden Drohne.
 - Benutzerfreundlich -- Es ist geeignet für Anfänger und Profis. Mit Funktionen, wie GPS Positionieren, Höhehalterung, Headless Modus, One Key Take OFF/Landung, Not Aus, Battery-Low Alarm und visibele LED Leuchte. Einfach drücken, kleinen Jungen und Mädchen können die Drohne bedienen.
-- Outdoor Fun -- Follow Me Modus oder ziehen Sie einer beliebigen Route in der App, wird die Drohne automatisch zum Ihnen fliegen. So kann man viele coole Videos aufnehmen, ohne sich immer auf die Steuerung konzentrieren zu müssen.
 - Sorglos - Flug -- Mit dem GPS Positionieren hat die HS110G Drohne die Höhehalterung Funtkion, um die stabile und schöne Bilder einzufangen.Wenn das Signal der Drohne schwach oder in eine niedrige Leistungsstufe ist, oder Sie die Drohne zurückfliegen möchten, wird die Drohne automatisch zurückfliegen. Ein schönes Geschenk für Vater, Mutter ,Freunde oder Kinder!
+- Länger und weiter -- Die maximale Flugzeit ist 13 Min.,länger und weiter fliegen. Die Bildübertragungsentfernung beträgt 492FT und die Maximaler Steuerbereich beträgt 984FT, die Ihnen die besten visuellen Genuss.
+- Outdoor Fun -- Follow Me Modus oder ziehen Sie einer beliebigen Route in der App, wird die Drohne automatisch zum Ihnen fliegen. So kann man viele coole Videos aufnehmen, ohne sich immer auf die Steuerung konzentrieren zu müssen.
+- Schöne Momente Einfangen -- Mit dem 1080 HD 110°Sichtfeld und der FPV Übertragung, die Kamera hat die höhere Bildqualität und größerer Aufnahmewinkel als die gängige 720P Kamera. Genießen Sie die schöneste Zeit mit der App, verbinden Ihr Handy mit der fliegenden Drohne.
 
 [kauf es hier!!](https://www.amazon.de/dp/B07V6FSTZK/?tag=tolees0ca-21)

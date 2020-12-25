@@ -25,10 +25,10 @@ Sie können [Classic Cantabile AS-851 3/4 Konzertgitarre Natur  Akustikgitarre  
 
 ℹ️:
 
+- Griffbrett: Blackwood, Sattelbreite: 43mm, Mensur: 59 cm
 - Nylon-Saiten (spielfertig aufgezogen)
+- 3/4 Klassikgitarre
 - Decke, Boden und Zargen: Lindenholz (laminiert)
 - Gesamtlänge Gitarre: 91cm, Gewicht: ca. 1,3 kg
-- 3/4 Klassikgitarre
-- Griffbrett: Blackwood, Sattelbreite: 43mm, Mensur: 59 cm
 
 [Hier!!](https://www.amazon.de/dp/B004FO27TY/?tag=tolees0ca-21)

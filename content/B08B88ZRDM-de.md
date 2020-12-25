@@ -25,10 +25,10 @@ Es gibt ein [Teeggi VISUO XS816 FPV Drohne mit Kamera 4K HD WiFi Live Übertragu
 
 ℹ️:
 
-- ALTITUDE HOLD-FUNKTION UND SECHSACHSIGES FLUGKONTROLLSYSTEM: Diese Drohne mit integriertem Barometer sorgt f¨¹r einen stabilen Flug. Mit einer der beiden R¨¹ckholfunktionen findet die Drohne problemlos den Weg nach Hause. Mach dir keine Sorgen um den Verlust deiner Drohne.
-- DRONE UPGRADED BATTERY: Hochleistungsakku. Die maximale Flugzeit kann 20 Minuten erreichen. Viel Spa? mit Ihrem visuo xs809s Drohne mit Ihrer Familie angemessen!
 - 4K HD FPV Flight: Ausgestattet mit 4k + 0.3MP Dual Kameras. Das Mobiltelefon kann mit der APP verbunden werden, um die Welt zu genie?en, die die Drohne in Echtzeit sehen kann, oder um zu beobachten oder sich umzuschauen, um Ihnen ein fliegendes und aufregendes Erlebnis zu bieten!
 - 3D-FLIPS UND H / L-GESCHWINDIGKEITSMODUS DRONE: 3D-Flips mit erstaunlicher Beweglichkeit und Hoch- / Niedriggeschwindigkeits-Umschaltmodus bieten eine Stunt-Flugshow. (Neuerscheinung 2019) Viel Spa? mit dieser aktualisierten Drohne!
+- DRONE UPGRADED BATTERY: Hochleistungsakku. Die maximale Flugzeit kann 20 Minuten erreichen. Viel Spa? mit Ihrem visuo xs809s Drohne mit Ihrer Familie angemessen!
 - FALTBARE SHARK DESIGN-DROHNE: Diese visuo xs809s-Drohne hat die coole Shark-Form, die Drohne ist tragbar und der Quadcopter verf¨¹gt ¨¹ber ein faltbares Armdesign. Diese Drohne ist problemlos zu transportieren.
+- ALTITUDE HOLD-FUNKTION UND SECHSACHSIGES FLUGKONTROLLSYSTEM: Diese Drohne mit integriertem Barometer sorgt f¨¹r einen stabilen Flug. Mit einer der beiden R¨¹ckholfunktionen findet die Drohne problemlos den Weg nach Hause. Mach dir keine Sorgen um den Verlust deiner Drohne.
 
 [kauf es hier!!](https://www.amazon.de/dp/B08B88ZRDM/?tag=tolees0ca-21)
