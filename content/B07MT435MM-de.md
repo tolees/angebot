@@ -25,10 +25,10 @@ Sie können [LEDVANCE Smart+ LED Streifen Erweiterung  ZigBee  warmweiß bis tag
 
 ℹ️:
 
+- Flexible, einfache Montage -> selbstklebender und trennbare LED Streifen Erweiterung für eine indirekte Beleuchtung ganz nach Ihren Wünschen.
+- ZigBee Produkt -> Erweitern Sie das Basis Set Smart+ Flex RGBW mit dieser Flex Extension Multicolor auf bis zu 6 Meter.
 - geringer Stromverbrauch -> energiesparende 7,5 W LED mit Energieeffizienzklasse A und einer Lichtleistung von 600 Lumen
 - Kompatible Smart Home Systeme: Osram Lightify, Philips Hue, Telekom Magenta, Quivicon, Samsung SmartThings, Schwaiger4You und viele mehr
-- Flexible, einfache Montage -> selbstklebender und trennbare LED Streifen Erweiterung für eine indirekte Beleuchtung ganz nach Ihren Wünschen.
 - Individuelle Lichtatmosphäre -> Steuern der Farbtemperatur von warmweiß (2700 K) bis tageslichtweiß (6500 K), Dimmen und RGB Farbwechsel - ganz einfach über die App, per Sprachkommando oder auch aus der Ferne
-- ZigBee Produkt -> Erweitern Sie das Basis Set Smart+ Flex RGBW mit dieser Flex Extension Multicolor auf bis zu 6 Meter.
 
 [Hier!!](https://www.amazon.de/dp/B07MT435MM/?tag=tolees0ca-21)
