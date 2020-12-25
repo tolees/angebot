@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '40.68 % rabat auf Intenso interne SSD-Festplatte 128GB Top'
-date: 2020-12-24 15:05:51
+date: 2020-12-25 15:31:42
 image: 'https://m.media-amazon.com/images/I/41zvUPLK3oL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B0093RN0PI/?tag=tolees0ca-21'
 descuento: '40.68'
-average: '17.973534482758623'
+average: '17.97042372881356'
 ---
 
 Es gibt ein [Intenso interne SSD-Festplatte 128GB Top Performance](https://www.amazon.de/dp/B0093RN0PI/?tag=tolees0ca-21) mit aktuellem Preis 17.79 EUR (original: 29.99 EUR) 40.68 % Rabatt hier:
@@ -26,9 +26,9 @@ Es gibt ein [Intenso interne SSD-Festplatte 128GB Top Performance](https://www.a
 ℹ️:
 
 - Geringer Stromverbrauch; Schock-resistent, geräuschloser Betrieb (0dB)
-- SMART command support, TRIM command support; Gewicht: 83g; Abmessungen: 100 x 70 x 7mm
 - Lesegeschwindigkeit: bis zu 520MB/s - Schreibgeschwindigkeit: bis zu 520MB/s
-- SATA III (6Gbps)
+- SMART command support, TRIM command support; Gewicht: 83g; Abmessungen: 100 x 70 x 7mm
 - Lieferumgang: Intenso SSD Festplatte
+- SATA III (6Gbps)
 
 [kauf es hier!!](https://www.amazon.de/dp/B0093RN0PI/?tag=tolees0ca-21)
