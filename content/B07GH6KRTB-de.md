@@ -27,8 +27,8 @@ Es gibt ein [PUMA Boxershort 6er Pack Herren Basic Black Limited Edition - Actio
 
 - hoher Tragekomfort - Soft Touch - Baumwollqualität - Bequeme, schwitzfreie Herren Unterwäsche im klassischen Boxer Design
 - Super Passform mit elastischem Bund - inklusive Puma Logo - Bund passt sich perfekt an und fühlt sich angenehm an, da sehr elastisch
-- Besteller von Puma - 6er Vorteilspack - Shorts für jeden Tag - Markenunterwäsche zum Vorteilspreis im Multipack
 - Bund in unterschiedlichen Farben - bequeme Herren Unterhosen mit super Passform - Unterwäsche zum Wohlfühlen - Boxer, die Unterhose mit Tragekomfort
 - Material: 95% Baumwolle, 5% Elasthan - vermindert schwitzen - einfache Maschinenwäsche
+- Besteller von Puma - 6er Vorteilspack - Shorts für jeden Tag - Markenunterwäsche zum Vorteilspreis im Multipack
 
 [kauf es hier!!](https://www.amazon.de/dp/B07GH6KRTB/?tag=tolees0ca-21)

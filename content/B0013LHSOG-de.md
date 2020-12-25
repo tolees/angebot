@@ -25,8 +25,8 @@ Sie können [Rieker Damen 78531 Stiefeletten  Schwarz  Schwarz/Anthrazit 00   40
 
 ℹ️:
 
-- Weicher Gehcomfort
 - Hochwertige Qualität
 - Flexible Laufsohle
+- Weicher Gehcomfort
 
 [Hier!!](https://www.amazon.de/dp/B0013LHSOG/?tag=tolees0ca-21)
