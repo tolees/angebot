@@ -25,8 +25,8 @@ Sie können [Tommy Hilfiger Damen Heritage Crew Neck Graphic Tee Regular Fit T-S
 
 ℹ️:
 
-- Pflegehinweise: Trommeltrocknen bei niedriger Temperatur; nicht chemisch reinigen; nicht bleichen; Bügeln mit geringer Temperatur; Spezialschonwaschgang 40 Grad
-- Teile tierischen Ursprungs: Nein
 - Material: Obermaterial: 100% Baumwolle
+- Teile tierischen Ursprungs: Nein
+- Pflegehinweise: Trommeltrocknen bei niedriger Temperatur; nicht chemisch reinigen; nicht bleichen; Bügeln mit geringer Temperatur; Spezialschonwaschgang 40 Grad
 
 [Hier!!](https://www.amazon.de/dp/B07P9RJVFB/?tag=tolees0ca-21)

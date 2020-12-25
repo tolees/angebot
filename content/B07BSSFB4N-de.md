@@ -25,10 +25,10 @@ Es gibt ein [SanDisk Extreme PRO M.2 NVMe 3D SSD 500 GB interne SSD  Lebensdauer
 
 ℹ️:
 
-- Die interne SSD Festplatte ist mit SanDisk nCache 3.0 ausgestattet. Modernste Algorithmen und mehrstufiges Caching tragen zur erhöhten Ausdauer bei.
-- Mit bis zu 3.400 MB/s ist die interne Festplatte bis zu 6-mal schneller als andere SATA-SSDs. Außerdem ist sie 25-mal schneller als bereits verbaute Notebook-Festplatten.
-- Die M.2 NVME SSD lässt sich schnell installieren. Dank des SanDisk SSD Dashboards ist es ganz einfach die Treibergesundheit-und leistung zu überwachen.
 - Die NVME SSD wurde für ein besseres Energie-Management entwickelt. Auch die Haltbarkeit wird verbessert und die Ausdauer.
 - Lieferumfang: SanDisk Extreme PRO M.2 NVMe 3D SSD interne Festplatte 500 GB (Lebensdauer von bis zu 300 TBW, 3D-NAND-Technologie, 3.400 MB/s Lesegeschwindigkeiten, 410.000 IOPS); 5 Jahre Garantie
+- Die M.2 NVME SSD lässt sich schnell installieren. Dank des SanDisk SSD Dashboards ist es ganz einfach die Treibergesundheit-und leistung zu überwachen.
+- Mit bis zu 3.400 MB/s ist die interne Festplatte bis zu 6-mal schneller als andere SATA-SSDs. Außerdem ist sie 25-mal schneller als bereits verbaute Notebook-Festplatten.
+- Die interne SSD Festplatte ist mit SanDisk nCache 3.0 ausgestattet. Modernste Algorithmen und mehrstufiges Caching tragen zur erhöhten Ausdauer bei.
 
 [kauf es hier!!](https://www.amazon.de/dp/B07BSSFB4N/?tag=tolees0ca-21)

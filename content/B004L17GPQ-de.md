@@ -25,11 +25,11 @@ Sie können [Pentel LR10-A Nachfüllmine für EnerGel-Stifte  Strichstärke 1 0 
 
 ℹ️:
 
+- ausgestattet mit einer Metallspitze in 1,0 mm Strichstärke und Schreibfarbe schwarz
+- 1,0mm Kugeldurchmesser (auf Packung abgedruckt)
 - Pentel Nachfülllmine für Standard EnerGel-Tintenroller mit 1,0 mm Strichstärke
 - die besonders weich schreibende Gel-Tinte trocknet schnell und überzeugt mit ihrem unvergleichbar leichtem Schreibgefühl Vielschreiber und auch Linkshänder
 - Lieferumfang: 12 Minen
-- ausgestattet mit einer Metallspitze in 1,0 mm Strichstärke und Schreibfarbe schwarz
-- 1,0mm Kugeldurchmesser (auf Packung abgedruckt)
 - Nachfüllmine für Pentel Gel-Tintenroller BL60
 
 [Hier!!](https://www.amazon.de/dp/B004L17GPQ/?tag=tolees0ca-21)
