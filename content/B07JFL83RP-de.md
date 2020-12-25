@@ -25,10 +25,10 @@ Sie können [PUMA Damen Carina L Sneaker  WhiteWhite Silver  40 EU](https://www.
 
 ℹ️:
 
-- Muster: Uni
 - Schuhspitze: rund
 - Passform: normal
-- Machart: Schnürung
 - Absatzhöhe: 0 - 3 cm
+- Muster: Uni
+- Machart: Schnürung
 
 [Hier!!](https://www.amazon.de/dp/B07JFL83RP/?tag=tolees0ca-21)

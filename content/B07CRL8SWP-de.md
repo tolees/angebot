@@ -25,8 +25,8 @@ Es gibt ein [Sylvanian Families - 5315 - Supermarkt](https://www.amazon.de/dp/B0
 
 ℹ️:
 
-- Suitable for ages 3 +
-- The supermarket Sylvania when they come together to make their daily shopping.
 - Essential to complete your collection.
+- The supermarket Sylvania when they come together to make their daily shopping.
+- Suitable for ages 3 +
 
 [kauf es hier!!](https://www.amazon.de/dp/B07CRL8SWP/?tag=tolees0ca-21)
