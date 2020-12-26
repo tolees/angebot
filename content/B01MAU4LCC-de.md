@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '19.67 % rabat auf BOSS Herren T-Shirt RN 3P CO T-Shirts au'
-date: 2020-12-24 21:53:35
+date: 2020-12-26 15:40:52
 image: 'https://m.media-amazon.com/images/I/21bIdL8xF-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B01MAU4LCC/?tag=tolees0ca-21'
 descuento: '19.67'
-average: '33.472'
+average: '33.07714285714286'
 ---
 
 Es gibt ein [BOSS Herren T-Shirt RN 3P CO T-Shirts aus Reiner Baumwolle im Dreier-Pack](https://www.amazon.de/dp/B01MAU4LCC/?tag=tolees0ca-21) mit aktuellem Preis 32.09 EUR (original: 39.95 EUR) 19.67 % Rabatt hier:

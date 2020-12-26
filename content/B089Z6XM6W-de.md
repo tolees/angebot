@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '50.01 % rabat auf FIFA 21 Standard Xbox One - Download Cod'
-date: 2020-12-25 15:55:35
+date: 2020-12-26 15:58:19
 image: 'https://m.media-amazon.com/images/I/412Ec6CUyQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B089Z6XM6W/?tag=tolees0ca-21'
 descuento: '50.01'
-average: '49.317027027027045'
+average: '48.58230769230771'
 ---
 
 Es gibt ein [FIFA 21 Standard Xbox One - Download Code [inkl. kostenlosem Upgrade auf Xbox Series X]](https://www.amazon.de/dp/B089Z6XM6W/?tag=tolees0ca-21) mit aktuellem Preis 34.99 EUR (original: 69.99 EUR) 50.01 % Rabatt hier:
