@@ -25,10 +25,10 @@ Sie können [ECCO Herren HELSINKI Slip-on  BLACK  43 EU](https://www.amazon.de/d
 
 ℹ️:
 
-- Absatzform: Blockabsatz
-- Sohle: Gummi
-- Verschluss: Ohne Verschluss
 - Obermaterial: Leder
+- Absatzform: Blockabsatz
+- Verschluss: Ohne Verschluss
 - Innenmaterial: Textil
+- Sohle: Gummi
 
 [Hier!!](https://www.amazon.de/dp/B001OC5EHC/?tag=tolees0ca-21)

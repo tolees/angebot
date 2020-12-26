@@ -27,8 +27,8 @@ Sie können [Lego 10895 Duplo The Lego Movie 2 Besucher vom Lego Duplo Planeten
 
 - Im Zubehör sind eine Schaufel, ein Becher und ein Stoppschild enthalten
 - Das Spielset umfasst vier baubare Alien-Eindringlinge aus The Lego Movie 2
-- Fördere die Sprachentwicklung sowie soziale und emotionale Fähigkeiten deines Kindes durch Rollenspiele mit den beliebten Figuren Lucy und Emmet aus The Lego Movie 2
 - Das Set enthält zwei Lego Duplo Figuren: Emmet und Lucy
+- Fördere die Sprachentwicklung sowie soziale und emotionale Fähigkeiten deines Kindes durch Rollenspiele mit den beliebten Figuren Lucy und Emmet aus The Lego Movie 2
 - Mit diesem einfach zu bauenden The Lego Movie 2 Spielset für Kleinkinder lassen sich grundlegende Baufertigkeiten spielerisch erlernen
 
 [Hier!!](https://www.amazon.de/dp/B07FNSDZCZ/?tag=tolees0ca-21)
