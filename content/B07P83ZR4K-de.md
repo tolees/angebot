@@ -25,8 +25,8 @@ Es gibt ein [Some Kind of Trip: Singles 1990-1994 [Vinyl LP]](https://www.amazon
 
 ℹ️:
 
+- Musikstil: New Wave / 1980s Pop / Alternative Rock / Psychedelic
 - herausgegeben 2019 in Europa von Fire Records (FIRELP546)
 - Vinyl-Doppel-LP im 12"-Format (30,48 cm Durchmesser)
-- Musikstil: New Wave / 1980s Pop / Alternative Rock / Psychedelic
 
 [kauf es hier!!](https://www.amazon.de/dp/B07P83ZR4K/?tag=tolees0ca-21)
