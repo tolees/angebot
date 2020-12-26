@@ -25,10 +25,10 @@ Sie können [Bosch Professional 12V System Akku Staubsauger GAS 12V  0 35L Behä
 
 ℹ️:
 
+- Lieferumfang: Bosch Akku-Handsauger Staubsauger
 - Extrem kompaktes Design für wendiges Arbeiten und einfaches Handling
+- Akku-Staubsauger zum Trockensaugen ermöglicht kabellose Freiheit beim Reinigen ohne Steckdose
 - Professional 12V System. Kompakte Leistung. Maximale Freiheit. Alle Akkus sind mit neuen und existierenden Bosch Professional Geräten in dergleichen Voltklasse kompatibel.
 - Passt sogar in die kleinste L-BOXX 102 für einen bequemen Transport
-- Lieferumfang: Bosch Akku-Handsauger Staubsauger
-- Akku-Staubsauger zum Trockensaugen ermöglicht kabellose Freiheit beim Reinigen ohne Steckdose
 
 [Hier!!](https://www.amazon.de/dp/B00MM33V5E/?tag=tolees0ca-21)

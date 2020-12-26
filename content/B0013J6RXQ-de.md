@@ -25,10 +25,10 @@ Es gibt ein [Cullmann ALPHA 2500 Stativ mit 3-Wege-Kopf  2 Auszüge  Gewicht 127
 
 ℹ️:
 
-- Lieferumfang: ALPHA 2500 - Dreibein Kurbelstativ inkl. 3 Wege Kopf mit Schnellkupplungssystem, Stativetui
 - Mittelverstrebung mit Arretierung, Mittelsäulen-Haken, robuster Tragegriff
-- Inklusive Stativetui, stabiles Kurbelstativ für Foto- und Videografen
 - Eloxierte Aluminium Stativbeine, Schnellspann-Clips, bewegliche Gummifüße
+- Lieferumfang: ALPHA 2500 - Dreibein Kurbelstativ inkl. 3 Wege Kopf mit Schnellkupplungssystem, Stativetui
+- Inklusive Stativetui, stabiles Kurbelstativ für Foto- und Videografen
 - Foto / Video Dreibein Kurbelstativ inkl. 3 Wege Kopf mit Schnellkupplung
 
 [kauf es hier!!](https://www.amazon.de/dp/B0013J6RXQ/?tag=tolees0ca-21)

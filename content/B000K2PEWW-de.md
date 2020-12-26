@@ -25,10 +25,10 @@ Es gibt ein [Mannesmann 45-tlg. Kombi-Werkzeugsatz  M29110](https://www.amazon.d
 
 ℹ️:
 
-- 6 Schraubendreher, Bithalter und Adapter
+- 1 Schraubknarrengriff, 22 Bits, 12 Steckschlüsseleinsätze
 - 45-teiliger Kombi-Werkzeugsatz
+- 6 Schraubendreher, Bithalter und Adapter
 - Im praktischen Kunststoffkoffer
 - 2 Zangen, VPA-GS geprüft
-- 1 Schraubknarrengriff, 22 Bits, 12 Steckschlüsseleinsätze
 
 [kauf es hier!!](https://www.amazon.de/dp/B000K2PEWW/?tag=tolees0ca-21)
