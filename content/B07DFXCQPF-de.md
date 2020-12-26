@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ONLY Damen ONLSEDONA Boucle Wool Coat OT mit 62.12 % Rabatt'
-date: 2020-12-24 15:11:24
+date: 2020-12-26 04:17:19
 image: 'https://m.media-amazon.com/images/I/41AKoYBXTbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07DFXCQPF/?tag=tolees0ca-21'
 descuento: '62.12'
-average: '37.88285714285715'
+average: '37.408750000000005'
 ---
 
 Sie können [ONLY Damen ONLSEDONA Boucle Wool Coat OTW NOOS Mantel  Grau  Light Grey Melange Detail: Melange   42  Herstellergröße: XL ](https://www.amazon.de/dp/B07DFXCQPF/?tag=tolees0ca-21) mit Preis 34.09 EUR (original: 89.99 EUR) 62.12 % Rabatt hier:
