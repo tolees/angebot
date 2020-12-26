@@ -26,8 +26,8 @@ Es gibt ein [813 Bits-Handhalter  1/4 Zoll x 78 mm  Wera 05051274001](https://ww
 ℹ️:
 
 - Ergonomischer Kraftform Griff
+- Bits-Handhalter für Bits mit 1/4" Außensechskantantrieb
 - Magnetisch
 - Mit Sechskantabrollschutz gegen Wegrollen
-- Bits-Handhalter für Bits mit 1/4" Außensechskantantrieb
 
 [kauf es hier!!](https://www.amazon.de/dp/B01H88FO8O/?tag=tolees0ca-21)

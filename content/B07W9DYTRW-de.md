@@ -26,8 +26,8 @@ Sie können [Destroy All Humans! Crypto-137 Edition [PC]](https://www.amazon.de/
 ℹ️:
 
 - Enthält die sagenumwobene, bisher nie gesehene Verlorene Mission in Area 42
+- Inkl. Premium Box, 60 cm hohe Crypto-137-Figur, Crypto Rucksack, Anti-Stress-Spielzeug, Schlüsselanhänger, Lithografien + Ingame Crypto Skins
 - Erleben Sie eine Alien-Invasion aus den 50ern von ihrer bösen Seite
 - Erkunden Sie amerikanische Städte der 50er mit Ihrem Jetpack
-- Inkl. Premium Box, 60 cm hohe Crypto-137-Figur, Crypto Rucksack, Anti-Stress-Spielzeug, Schlüsselanhänger, Lithografien + Ingame Crypto Skins
 
 [Hier!!](https://www.amazon.de/dp/B07W9DYTRW/?tag=tolees0ca-21)

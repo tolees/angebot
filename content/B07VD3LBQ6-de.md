@@ -26,8 +26,8 @@ Es gibt ein [Samsung Clear View Cover EF-ZN970 für Galaxy Note 10  Silver](http
 ℹ️:
 
 - Über das seitliche Sichtfenster Anrufe annehmen und ablehnen oder den Musik-Player bedienen
+- Schutz des Displays, Rahmens und der Rückseite vor Kratzern und Stößen
 - Flip Cover mit transparentem, seitlichem Sichtfenster zur Anzeige wichtiger Informationen
 - Einfache Steuerung verschiedener Funktionen bei geschlossenem Cover möglich
-- Schutz des Displays, Rahmens und der Rückseite vor Kratzern und Stößen
 
 [kauf es hier!!](https://www.amazon.de/dp/B07VD3LBQ6/?tag=tolees0ca-21)
