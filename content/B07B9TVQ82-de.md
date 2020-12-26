@@ -1,34 +1,34 @@
 ---
 layout: post
-title: '30.10 % rabat auf HyperX HX-MC002B Pulsefire Surge - RGB G'
-date: 2020-12-24 21:48:17
+title: '30.00 % rabat auf HyperX HX-MC002B Pulsefire Surge - RGB G'
+date: 2020-12-26 09:38:19
 image: 'https://m.media-amazon.com/images/I/31LkBc0RhVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07B9TVQ82-de'
-actualPrice: 48.92 EUR
+actualPrice: 48.99 EUR
 currency: EUR
-price: 48.92
+price: 48.99
 comparePrice: 69.99 EUR
 prodname: 'HyperX HX-MC002B Pulsefire Surge - RGB Gaming Maus'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07B9TVQ82/?tag=tolees0ca-21'
-descuento: '30.10'
-average: '47.45333333333333'
+descuento: '30.00'
+average: '47.8375'
 ---
 
-Es gibt ein [HyperX HX-MC002B Pulsefire Surge - RGB Gaming Maus](https://www.amazon.de/dp/B07B9TVQ82/?tag=tolees0ca-21) mit aktuellem Preis 48.92 EUR (original: 69.99 EUR) 30.10 % Rabatt hier:
+Es gibt ein [HyperX HX-MC002B Pulsefire Surge - RGB Gaming Maus](https://www.amazon.de/dp/B07B9TVQ82/?tag=tolees0ca-21) mit aktuellem Preis 48.99 EUR (original: 69.99 EUR) 30.00 % Rabatt hier:
 
 [![HyperX HX-MC002B Pulsefire Surge - RGB G](https://m.media-amazon.com/images/I/31LkBc0RhVL._SL200_.jpg)](https://www.amazon.de/dp/B07B9TVQ82/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Einfache Anpassungen mit der HyperX NGenuity Software
-- Zuverlässige Omron Switches für bis zu 50 Millionen Klicks. Geschwindigkeit: 450ips
-- Interner Speicher erfasst individuelle Anpassungen
-- Pixart 3389 Sensor mit bis zu 16.000 DPI, Große Rollen für einfaches Gleiten
 - Lichtband für dynamische 360°-RGB-Effekte
+- Zuverlässige Omron Switches für bis zu 50 Millionen Klicks. Geschwindigkeit: 450ips
+- Pixart 3389 Sensor mit bis zu 16.000 DPI, Große Rollen für einfaches Gleiten
+- Interner Speicher erfasst individuelle Anpassungen
+- Einfache Anpassungen mit der HyperX NGenuity Software
 
 [kauf es hier!!](https://www.amazon.de/dp/B07B9TVQ82/?tag=tolees0ca-21)
