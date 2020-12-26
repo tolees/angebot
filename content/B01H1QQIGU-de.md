@@ -25,8 +25,8 @@ Sie können [Marvel’s Spider-Man - Standard Edition - [PlayStation 4]](https:/
 
 ℹ️:
 
+- Werden Sie zu Spider-Man
 - Stürzen Sie sich in eine offene Welt
 - Erleben Sie eine eigenständige Geschichte
-- Werden Sie zu Spider-Man
 
 [Hier!!](https://www.amazon.de/dp/B01H1QQIGU/?tag=tolees0ca-21)
