@@ -25,11 +25,11 @@ Es gibt ein [Braun Series 3 Rasierer Herren  3-in-1-Elektrorasierer  Barttrimmer
 
 ℹ️:
 
-- Langlebig: Robuster kabelloser Rasierapparat und Barttrimmer
-- Ni-MH-Batterien: Rasierer mit 45 Minuten Akkulaufzeit dank wiederaufladbarer, langlebiger NiMH-Batterien
 - 3-in-1 Tool: 3-in-1-Elektrorasierer und Bartschneider für Herren: Rasieren, Trimmen und Konturieren. Deutsche Technologie
-- 3 flexible Klingen: Effizienz und Hautkomfort dank flexiblem 3-fach-Schersystem
+- Ni-MH-Batterien: Rasierer mit 45 Minuten Akkulaufzeit dank wiederaufladbarer, langlebiger NiMH-Batterien
 - MicroComb: Der MicroComb führt die Haare von langen Bärten und 3-Tage-Bärten in die richtige Position und sorgt so für eine effiziente, angenehme und glatte Rasur
 - Elektrorasierer und Barttrimmer: Für glatte Rasuren und zum Trimmen von Bärten und 3-Tage-Bärten von 1 bis 7 mm
+- Langlebig: Robuster kabelloser Rasierapparat und Barttrimmer
+- 3 flexible Klingen: Effizienz und Hautkomfort dank flexiblem 3-fach-Schersystem
 
 [kauf es hier!!](https://www.amazon.de/dp/B01N95RN0D/?tag=tolees0ca-21)
