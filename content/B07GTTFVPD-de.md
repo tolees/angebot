@@ -25,10 +25,10 @@ Sie können [Panama Jack Damen Pia Igloo Trav Chelsea Boot  Schwarz  41 EU](http
 
 ℹ️:
 
-- Made in Spain
-- Principal Material: Nappa Hydro. , Lining Material: Natural Fur/Real Fur Sole Material: TR InnerSole RemovableInsert: No
 - Water Resistant
-- Panama Jack Women, Negro / Black Chelsea Boots
+- Made in Spain
 - HeelHeight: 6, 50 cm
+- Panama Jack Women, Negro / Black Chelsea Boots
+- Principal Material: Nappa Hydro. , Lining Material: Natural Fur/Real Fur Sole Material: TR InnerSole RemovableInsert: No
 
 [Hier!!](https://www.amazon.de/dp/B07GTTFVPD/?tag=tolees0ca-21)
