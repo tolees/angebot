@@ -25,10 +25,10 @@ Sie können [Gigaset S850HX Universal-Mobilteil – Schnurloses IP-Telefon  zum 
 
 ℹ️:
 
-- Qualität made in Germany – Das S850HX wird in Deutschland hergestellt – die DECT-Technologie sorgt für ideale Gesprächsqualität und der ECO-Dect Mode reduziert Strahlung und Verbrauch
-- Technik trifft Design – Das Design zeichnet sich durch hochwertige Verarbeitung und Metall-Applikationen aus – dank Bluetooth werden Ihre Kontakte vom PC auf Ihr Telefon synchronisiert
 - Schnell verbunden – Die Ladeschale mit der Steckdose verbinden und am Mobilteil Router oder Basisstation auswählen – Das IP-Telefon kann sofort eingerichtet werden
+- Qualität made in Germany – Das S850HX wird in Deutschland hergestellt – die DECT-Technologie sorgt für ideale Gesprächsqualität und der ECO-Dect Mode reduziert Strahlung und Verbrauch
 - Komfortable Funktionen – Das Telefon besitzt eine intuitive Menüführung, ein brillantes Farbdisplay mit hohem Kontrast, exzellente Sprach-Qualität und bietet Platz für 500 Kontakte
 - Viele Anschlussmöglichkeiten – Das Mobilteil kann an alle Gigaset Basen, DECT- / GAP- Basen, Router (mit und ohne CAT-iq) verschiedener Hersteller angeschlossen werden
+- Technik trifft Design – Das Design zeichnet sich durch hochwertige Verarbeitung und Metall-Applikationen aus – dank Bluetooth werden Ihre Kontakte vom PC auf Ihr Telefon synchronisiert
 
 [Hier!!](https://www.amazon.de/dp/B013QFRBDO/?tag=tolees0ca-21)
