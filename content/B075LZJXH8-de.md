@@ -25,10 +25,10 @@ Es gibt ein [CITIZEN Eco-Drive Bluetooth Herren Armbanduhr BZ1020-14L](https://w
 
 ℹ️:
 
-- Bluetooth
 - Smart-phone-funktion
-- Eco-drive lichtantrieb
+- Bluetooth
 - 540 Tage Gangreserve
+- Eco-drive lichtantrieb
 - Kein Kabel zum Aufladen nötig
 
 [kauf es hier!!](https://www.amazon.de/dp/B075LZJXH8/?tag=tolees0ca-21)

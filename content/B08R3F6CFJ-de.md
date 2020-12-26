@@ -26,9 +26,9 @@ Es gibt ein [Allegorly Holzherzen Hochzeit  50 Stück 30mm Holz Herzen Deco Sche
 ℹ️:
 
 - 💗Package includes: 50 x wood chips, 50 x iron ring.
-- Wide application: heart wooden disc are good matching decorations for guest book, table decoration, card making, embellishments, booking, arts and crafts businesses, ornaments, personalised projects, wedding decorations, home decorations, Valentines Day, etc.
-- 💗Attentive design: wooden hearts are in natural colours and smooth. It is easy to paint on the discs with paints or watercolour pencils or embellish with gemstones. With the ropes, the hollow heartwood can be put together and hung in many places.
 - Premium workmanship: wooden hearts decoration are fine and beautiful and have different sizes. Solid wooden hearts with grain are smooth; hollow wooden hearts are cleanly cut and untreated.
+- 💗Attentive design: wooden hearts are in natural colours and smooth. It is easy to paint on the discs with paints or watercolour pencils or embellish with gemstones. With the ropes, the hollow heartwood can be put together and hung in many places.
+- Wide application: heart wooden disc are good matching decorations for guest book, table decoration, card making, embellishments, booking, arts and crafts businesses, ornaments, personalised projects, wedding decorations, home decorations, Valentines Day, etc.
 - Premium quality: these wooden heart decorations are made of pine of good quality, sturdy and durable, not easy to erosion and can be used for a long time.
 
 [kauf es hier!!](https://www.amazon.de/dp/B08R3F6CFJ/?tag=tolees0ca-21)
