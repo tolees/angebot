@@ -26,9 +26,9 @@ Es gibt ein [Nike Herren Court Vision Lo Basketballschuhe  Weiß  White/White-Wh
 ℹ️:
 
 - Innenmaterial: Textil
-- Obermaterial: Glattleder / Synthetik
 - eBay Multihinweis: verschiedene Farben
-- Größenhinweis: Fällt passend aus
 - Anlass: Casual
+- Größenhinweis: Fällt passend aus
+- Obermaterial: Glattleder / Synthetik
 
 [kauf es hier!!](https://www.amazon.de/dp/B07NMZH5D4/?tag=tolees0ca-21)
