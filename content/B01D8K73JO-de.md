@@ -25,10 +25,10 @@ Sie können [MUSTANG Herren Regular Fit Michigan Straight Jeans](https://www.ama
 
 ℹ️:
 
-- 5-Pocket-Stil
-- Aus Baumwolle und Elasthan
-- Knöpfe als Verschluss
 - Mit Vintage-Waschung
+- 5-Pocket-Stil
 - Leger geschnittene Jeans mit mittelhohem Bund und geradem Beinverlauf
+- Knöpfe als Verschluss
+- Aus Baumwolle und Elasthan
 
 [Hier!!](https://www.amazon.de/dp/B01D8K73JO/?tag=tolees0ca-21)

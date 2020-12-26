@@ -25,10 +25,10 @@ Es gibt ein [Learning Resources Robotermaus zum Programmieren & Loslegen Aktivit
 
 ℹ️:
 
-- Mit 10 Aktionskarten und 30 Programmmierkarten
-- Einführung in das praktische Programmieren
 - Zur frühen Heranführung an MINT
+- Mit 10 Aktionskarten und 30 Programmmierkarten
 - Mit mehrsprachiger Spielanleitung
+- Einführung in das praktische Programmieren
 - Benötigt drei AAA-Batterien (nicht enthalten)
 
 [kauf es hier!!](https://www.amazon.de/dp/B01A5YMCH4/?tag=tolees0ca-21)
