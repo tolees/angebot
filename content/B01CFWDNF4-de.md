@@ -25,10 +25,10 @@ Es gibt ein [Coca-Cola Classic  Pure Erfrischung mit unverwechselbarem Coke Gesc
 
 ℹ️:
 
-- Die handlichen 0,33L Dosen halten den beliebten Softdrink nicht nur lange frisch, sondern passen dank der praktischen Größe in jede Tasche und sind ideale für unterwegs
 - Lieferumfang: 24 x 330 ml Coca-Cola Classic Einweg Dosen, Erfrischendes und koffeinhaltiges Coca-Cola Geschmackserlebnis für jeden Softdrink Liebhaber
-- Das Original: Mit dem klassisch roten Design und dem einzigartig traditionellem Geschmack überzeugt Coke Classic seine Fans weltweit
 - Taste the Feeling: Dose auf. Voller Geschmack. Eisgekühlt. Coca-Cola Classic - idealee Erfrischung für jede Lebenssituation
+- Die handlichen 0,33L Dosen halten den beliebten Softdrink nicht nur lange frisch, sondern passen dank der praktischen Größe in jede Tasche und sind ideale für unterwegs
 - Unbeschwerter Coke Genuss für jeden Moment: Ob beim Fußball gucken, Grillen mit Freunden, unterwegs oder auf Partys - die erfrischende Cola Classic passt einfach immer
+- Das Original: Mit dem klassisch roten Design und dem einzigartig traditionellem Geschmack überzeugt Coke Classic seine Fans weltweit
 
 [kauf es hier!!](https://www.amazon.de/dp/B01CFWDNF4/?tag=tolees0ca-21)

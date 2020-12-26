@@ -25,8 +25,8 @@ Sie können [Sylvanian Families - 5262 - Kindergartenfreunde](https://www.amazon
 
 ℹ️:
 
-- Well-made with fine attention to detail
 - Suitable for ages 3 years to 12 years
 - Good for stimulating imaginative role-play in children
+- Well-made with fine attention to detail
 
 [Hier!!](https://www.amazon.de/dp/B01N9SX0F1/?tag=tolees0ca-21)
