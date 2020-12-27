@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '31.38 % rabat auf Nike Herren Court Vision Lo Basketballsc'
-date: 2020-12-26 04:12:58
+date: 2020-12-27 10:01:47
 image: 'https://m.media-amazon.com/images/I/31UWc0i+q6L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,9 +26,9 @@ Es gibt ein [Nike Herren Court Vision Lo Basketballschuhe  Weiß  White/White-Wh
 ℹ️:
 
 - Innenmaterial: Textil
+- Obermaterial: Glattleder / Synthetik
 - eBay Multihinweis: verschiedene Farben
 - Anlass: Casual
 - Größenhinweis: Fällt passend aus
-- Obermaterial: Glattleder / Synthetik
 
 [kauf es hier!!](https://www.amazon.de/dp/B07NMZH5D4/?tag=tolees0ca-21)

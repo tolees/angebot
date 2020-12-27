@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '45.72 % rabat auf Watch Dogs Legion Limited Edition - exkl'
-date: 2020-12-26 09:42:00
+date: 2020-12-27 10:04:45
 image: 'https://m.media-amazon.com/images/I/51ZbZdtdR3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B089R56TSX/?tag=tolees0ca-21'
 descuento: '45.72'
-average: '46.77238095238095'
+average: '46.008695652173905'
 ---
 
 Es gibt ein [Watch Dogs Legion Limited Edition - exklusiv bei Amazon - [Xbox One  Xbox Series X]](https://www.amazon.de/dp/B089R56TSX/?tag=tolees0ca-21) mit aktuellem Preis 37.99 EUR (original: 69.99 EUR) 45.72 % Rabatt hier:

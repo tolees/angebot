@@ -1,33 +1,33 @@
 ---
 layout: post
-title: 'Samsung Galaxy A20e Smartphone  14.82cm  mit 19.16 % Rabatt'
-date: 2020-12-26 09:43:29
+title: 'Samsung Galaxy A20e Smartphone  14.82cm  mit 18.99 % Rabatt'
+date: 2020-12-27 10:03:53
 image: 'https://m.media-amazon.com/images/I/41l61VAj5qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07QKMZPQ5-de'
-actualPrice: 144.7 EUR
+actualPrice: 145.0 EUR
 currency: EUR
-price: 144.7
+price: 145.0
 comparePrice: 179.0 EUR
 prodname: 'Samsung Galaxy A20e Smartphone  14.82cm  148.2 mm  5.8 Zoll  32GB interner Speicher  3GB RAM  Dual SIM  Schwarz  - Deutsche Version'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07QKMZPQ5/?tag=tolees0ca-21'
-descuento: '19.16'
-average: '155.5891525423729'
+descuento: '18.99'
+average: '155.24196721311475'
 ---
 
-Sie können [Samsung Galaxy A20e Smartphone  14.82cm  148.2 mm  5.8 Zoll  32GB interner Speicher  3GB RAM  Dual SIM  Schwarz  - Deutsche Version](https://www.amazon.de/dp/B07QKMZPQ5/?tag=tolees0ca-21) mit Preis 144.7 EUR (original: 179.0 EUR) 19.16 % Rabatt hier:
+Sie können [Samsung Galaxy A20e Smartphone  14.82cm  148.2 mm  5.8 Zoll  32GB interner Speicher  3GB RAM  Dual SIM  Schwarz  - Deutsche Version](https://www.amazon.de/dp/B07QKMZPQ5/?tag=tolees0ca-21) mit Preis 145.0 EUR (original: 179.0 EUR) 18.99 % Rabatt hier:
 
 [![Samsung Galaxy A20e Smartphone  14.82cm ](https://m.media-amazon.com/images/I/41l61VAj5qL._SL200_.jpg)](https://www.amazon.de/dp/B07QKMZPQ5/?tag=tolees0ca-21)
 
 ℹ️:
 
-- 3 SIM-Karten-Slots und microSD-Speichererweiterung für flexible Nutzung
 - Besondere Motive mit der Dual-Hauptkamera in Szene setzen
 - Fingerabdruckscanner für einfachen Schutz
 - Beeindruckendes Design mit Infinity-V Display
+- 3 SIM-Karten-Slots und microSD-Speichererweiterung für flexible Nutzung
 
 [Hier!!](https://www.amazon.de/dp/B07QKMZPQ5/?tag=tolees0ca-21)

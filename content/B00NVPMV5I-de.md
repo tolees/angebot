@@ -25,8 +25,8 @@ Sie können [Silverline 248844 Handentgrater 145 mm](https://www.amazon.de/dp/B0
 
 ℹ️:
 
+- Drehbare Klinge
 - Beinhaltet Klinge aus S10-Stahl
 - Sechseckiger Schaft aus eloxiertem Aluminium
-- Drehbare Klinge
 
 [Hier!!](https://www.amazon.de/dp/B00NVPMV5I/?tag=tolees0ca-21)

@@ -25,10 +25,10 @@ Es gibt ein [Flamefield CWK0116 Colour Set aus Melamin  Mehrfarbig  16-teilig](h
 
 ℹ️:
 
-- Nicht für die Mikrowelle geeignet
-- Set bestehend aus 4 Teller, 4 kleine Teller, 4 Schälchen und 4 Tassen
 - Für den Einsatz zu Hause, im Wohnwagen, auf dem Campingplatz oder auf Ausflüge
 - Bruchfest und spülmaschinengeeignet
 - Bunte Rund Tafelservice, 100% Melamin
+- Set bestehend aus 4 Teller, 4 kleine Teller, 4 Schälchen und 4 Tassen
+- Nicht für die Mikrowelle geeignet
 
 [kauf es hier!!](https://www.amazon.de/dp/B00U8XAHNO/?tag=tolees0ca-21)
