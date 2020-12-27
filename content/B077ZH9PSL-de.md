@@ -1,27 +1,27 @@
 ---
 layout: post
-title: 'Ost-Hostiles mit 30.18 % Rabatt'
-date: 2020-09-16 05:46:53
+title: 'Hostiles mit 27.83 % Rabatt'
+date: 2020-12-27 20:13:38
 image: 'https://m.media-amazon.com/images/I/515EhzQ2faL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B077ZH9PSL-de'
-actualPrice: 9.37 EUR
+actualPrice: 7.21 EUR
 currency: EUR
-price: 9.37
-comparePrice: 13.42 EUR
-prodname: 'Ost-Hostiles'
+price: 7.21
+comparePrice: 9.99 EUR
+prodname: 'Hostiles'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B077ZH9PSL/?tag=tolees0ca-21'
-descuento: '30.18'
-average: '9.37'
+descuento: '27.83'
+average: '8.29'
 ---
 
-Sie können [Ost-Hostiles](https://www.amazon.de/dp/B077ZH9PSL/?tag=tolees0ca-21) mit Preis 9.37 EUR (original: 13.42 EUR) 30.18 % Rabatt hier:
+Sie können [Hostiles](https://www.amazon.de/dp/B077ZH9PSL/?tag=tolees0ca-21) mit Preis 7.21 EUR (original: 9.99 EUR) 27.83 % Rabatt hier:
 
-[![Ost-Hostiles](https://m.media-amazon.com/images/I/515EhzQ2faL._SL200_.jpg)](https://www.amazon.de/dp/B077ZH9PSL/?tag=tolees0ca-21)
+[![Hostiles](https://m.media-amazon.com/images/I/515EhzQ2faL._SL200_.jpg)](https://www.amazon.de/dp/B077ZH9PSL/?tag=tolees0ca-21)
 
 ℹ️:
 
