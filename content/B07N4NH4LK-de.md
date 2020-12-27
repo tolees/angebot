@@ -26,9 +26,9 @@ Es gibt ein [KOSMOS 695040 Funky Chicken  Kartenspiel  in deutscher Sprache](htt
 ℹ️:
 
 - Handliches Format: als Reisespiel für unterwegs.
-- Kombinierbar mit Lucky Lachs.
-- Lustiges Partyspiel für die ganze Familie – turbulentes Spielprinzip mit Ententanz-Bewegungen.
-- Für 3 – 6 Spieler ab 8 Jahren, Spieldauer: ca. 5 Minuten.
 - Schnelles Kartenspiel – in 30 Sekunden erklärt.
+- Lustiges Partyspiel für die ganze Familie – turbulentes Spielprinzip mit Ententanz-Bewegungen.
+- Kombinierbar mit Lucky Lachs.
+- Für 3 – 6 Spieler ab 8 Jahren, Spieldauer: ca. 5 Minuten.
 
 [kauf es hier!!](https://www.amazon.de/dp/B07N4NH4LK/?tag=tolees0ca-21)

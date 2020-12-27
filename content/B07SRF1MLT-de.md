@@ -25,7 +25,7 @@ Sie können [Final Fantasy VII HD Remake [Playstation 4] [PEGI-AT]](https://www.
 
 ℹ️:
 
-- Die Geschichte des ersten Spiels im Projekt spielt in der eklektischen Megaloposis Midgar und ist ein eigenständiges Spielerlebnis
 - Eine spektakuläre Neuinszenierung des Kultspiels, welches seinerzeit das RPG-Genre neu definierte
+- Die Geschichte des ersten Spiels im Projekt spielt in der eklektischen Megaloposis Midgar und ist ein eigenständiges Spielerlebnis
 
 [Hier!!](https://www.amazon.de/dp/B07SRF1MLT/?tag=tolees0ca-21)
