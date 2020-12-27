@@ -25,9 +25,9 @@ Sie können [Dreister Spiel - Das Partyspiel - 480 Spielkarten für witzigen Spi
 
 ℹ️:
 
-- ⚡ EINFACHE REGELN: Enthülle die schmutzigsten Gedanken deiner Freunde innerhalb von 8 Sekunden mit Hilfe dieses lustigen Kartenspiels
-- 😈 DAS ORIGINAL: 400 Karten mit verrückten Fragen und 80 Sonderkarten mit reichlich Pfeffer
 - 🤪 LUSTIG: das Spiel für dich und deine Freunde - tausende dreiste Spieler innerhalb von wenigen Wochen
+- 😈 DAS ORIGINAL: 400 Karten mit verrückten Fragen und 80 Sonderkarten mit reichlich Pfeffer
+- ⚡ EINFACHE REGELN: Enthülle die schmutzigsten Gedanken deiner Freunde innerhalb von 8 Sekunden mit Hilfe dieses lustigen Kartenspiels
 - 🌶 SPIELVERLAUF: für Spaß zu dritt und mehr, mit kreativen aber nicht immer intelligenten Antworten, für 15-60 Minuten beste Unterhaltung, ab 16 Jahre
 - 🇩🇪 ♻ DESIGNED IN DEUTSCHLAND: unter Verwendung von umweltfreundlichen Papier, 1% der Gewinne spenden wir für einen guten Zweck
 
