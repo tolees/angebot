@@ -25,9 +25,9 @@ Sie können [erima Damen Präsentationshose Razor 2.0  Schwarz/Curacao  40  1106
 
 ℹ️:
 
-- 100% Polyester
 - Hosen
-- Mit praktischem Reißverschluss vom Beinabschluss bis unterhalb des Knies
 - Damen
+- 100% Polyester
+- Mit praktischem Reißverschluss vom Beinabschluss bis unterhalb des Knies
 
 [Hier!!](https://www.amazon.de/dp/B01BDHWFCO/?tag=tolees0ca-21)
