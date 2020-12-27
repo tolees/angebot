@@ -25,9 +25,9 @@ Es gibt ein [uvex Unisex – Erwachsene  lgl 29 Sonnenbrille  black mat/silver 
 
 ℹ️:
 
-- The fashionable mirror coating of the panes additionally protects against infrared radiation
-- 100% UVA, UVB, UVC protection
 - Integrated UV absorbers provide eye protection
+- 100% UVA, UVB, UVC protection
+- The fashionable mirror coating of the panes additionally protects against infrared radiation
 - Includes uvex corporate logo on the earpieces
 - High reduction of solar radiation through filter category 3 with a light transmission of 9-18%
 

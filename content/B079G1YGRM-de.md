@@ -27,8 +27,8 @@ Sie können [OtterBox Strada Etui - Elegante  sturzsichere Folio Schutzhülle au
 
 - Einfache und schnelle Anbringung: Die Schutzhülle lässt sich spielend leicht anbringen – für eine perfekte Passform und unmittelbaren Schutz
 - Echtes Leder: Modernes, schlankes und italienisch inspiriertes Design, veredelt mit taschenfreundlichem Leder-Exterieur
+- Zertifizierter Sturzschutz: Dreilagiges Design für maximalen Schutz aus einer Fallhöhe von bis zu 2 Metern
 - Displayschutz: Das weiche Leder-Folio umschließt das Display Ihres Smartphones und bleibt Dank des Magnetverschlusses geschlossen
 - Etui mit Kartenfach: Das senkrechte Einschubfach verhindet ein Herausrutschen der Karten beim Schließen der Klappe.
-- Zertifizierter Sturzschutz: Dreilagiges Design für maximalen Schutz aus einer Fallhöhe von bis zu 2 Metern
 
 [Hier!!](https://www.amazon.de/dp/B079G1YGRM/?tag=tolees0ca-21)

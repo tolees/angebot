@@ -25,10 +25,10 @@ Es gibt ein [Halo Tierchip Lesegerät - Chipleser Blau](https://www.amazon.de/dp
 
 ℹ️:
 
-- Benachrichtigt den Benutzer, dass ein Haustier fehlt
-- Wiederaufladbar durch Anschluss an den PC
 - Für die meisten Mikrochips bei Haustieren, Hunden, Katzen
 - Preisgekrönter Mikrochip-Scanner in 5 Farben erhältlich
 - Speichert Chipnummern für verlorene Haustiere
+- Benachrichtigt den Benutzer, dass ein Haustier fehlt
+- Wiederaufladbar durch Anschluss an den PC
 
 [kauf es hier!!](https://www.amazon.de/dp/B00DS6ELA8/?tag=tolees0ca-21)

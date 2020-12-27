@@ -25,8 +25,8 @@ Es gibt ein [Switch Root Letter: Last Answer -- Day One Edition PEGI  [ ]](https
 
 ℹ️:
 
-- Eine neue Art, die Geschichte zu genießen - Schalten Sie den Live-Action-Modus vom Titelbildschirm aus jederzeit während des Spiels ein, um zu sehen, wie Shimanes Standorte und Bewohner zum Leben erwachen.
 - Das komplette Erlebnis - Neben einigen Verbesserungen im Gameplay, Root Letter: Last Answer fügt brandneue Epiloge hinzu, die die Geschichte von Aya Fumino abschließen
 - Ein interaktiver visueller Roman
+- Eine neue Art, die Geschichte zu genießen - Schalten Sie den Live-Action-Modus vom Titelbildschirm aus jederzeit während des Spiels ein, um zu sehen, wie Shimanes Standorte und Bewohner zum Leben erwachen.
 
 [kauf es hier!!](https://www.amazon.de/dp/B07RH344CD/?tag=tolees0ca-21)
