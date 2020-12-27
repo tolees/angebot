@@ -25,9 +25,9 @@ Es gibt ein [H: PPY life 45180 Kaffeetasse mit Spruch Faultier  Geschenk-Tasse  
 
 ℹ️:
 
+- LUSTIGE Kaffeetasse mit süßem Faultier-Motiv und Spruch bedruckt: Der Kaffee ist kaputt, ich bin noch müde
 - HOCHWERTIGE QUALITÄT Kaffeebecher aus Porzellan in Weiß, mit hoher Langlebigkeit & langer Farbbrillanz
 - VIELSEITIG ANWENDBAR für Kaffee, Tee & andere Heißgetränke, ideal fürs Büro, Arbeit, WG oder Zuhause
 - FORMSCHÖNE Komfortgröße mit ca. 400ml Fassungsvermögen, der BEcher ist ca. 10,5x 9,5 cm groß
-- LUSTIGE Kaffeetasse mit süßem Faultier-Motiv und Spruch bedruckt: Der Kaffee ist kaputt, ich bin noch müde
 
 [kauf es hier!!](https://www.amazon.de/dp/B0746PN4JS/?tag=tolees0ca-21)

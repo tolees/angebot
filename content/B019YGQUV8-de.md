@@ -25,9 +25,9 @@ Es gibt ein [Ravensburger Kinderpuzzle 06121 - Biene Majas Welt - Rahmenpuzzle](
 
 ℹ️:
 
-- Alter: ab 3 Jahren
 - Format: circa 25 x 14,5cm
 - Konturlinien auf der Unterlage unterstützen beim Puzzeln
+- Alter: ab 3 Jahren
 - Rahmenpuzzle – Puzzle und praktische Unterlage in einem
 
 [kauf es hier!!](https://www.amazon.de/dp/B019YGQUV8/?tag=tolees0ca-21)
