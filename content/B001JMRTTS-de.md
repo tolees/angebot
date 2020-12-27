@@ -25,10 +25,10 @@ Sie können [OBO Bettermann Abzweigkasten  150x116x67 mm   T100](https://www.ama
 
 ℹ️:
 
-- Schutzart IP66
-- Schutzgrad IK-Code IK08
 - Einführungen: 10 x M25
-- Lichte Innenmaße: 136x102x57 mm
 - Farbe: lichtgrau, RAL 7035
+- Lichte Innenmaße: 136x102x57 mm
+- Schutzgrad IK-Code IK08
+- Schutzart IP66
 
 [Hier!!](https://www.amazon.de/dp/B001JMRTTS/?tag=tolees0ca-21)

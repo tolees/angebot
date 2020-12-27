@@ -25,9 +25,9 @@ Sie können [Sony HT-ZF9 3.1-Kanal Dolby Atmos/DTS:X Soundbar  Vertical Surround
 
 ℹ️:
 
-- Built-in WiFi and uncomplicated Bluetooth streaming
-- High resolution audio possible
 - Compatible with 4K HDR
 - 3.1 channel Dolby Atmos/DTS:X and vertical surround engine
+- High resolution audio possible
+- Built-in WiFi and uncomplicated Bluetooth streaming
 
 [Hier!!](https://www.amazon.de/dp/B078X5XZ9Y/?tag=tolees0ca-21)

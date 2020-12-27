@@ -25,7 +25,7 @@ Es gibt ein [STAR WARS Jedi Fallen Order Standard Edition | Xbox One - Download 
 
 ℹ️:
 
-- Erlebe ein galaxisumspannendes Abenteuer in STAR WARS Jedi: Fallen Order, einem Third Person Action-Adventure von Respawn Entertainment.
 - Ein einsamer Padawan muss seine Ausbildung abschließen, gewaltige neue Macht-Fähigkeiten entwickeln und die Kunst des Lichtschwertes erlernen – und dem Imperium dabei immer einen Schritt voraus sein.
+- Erlebe ein galaxisumspannendes Abenteuer in STAR WARS Jedi: Fallen Order, einem Third Person Action-Adventure von Respawn Entertainment.
 
 [kauf es hier!!](https://www.amazon.de/dp/B07Z5NTH4B/?tag=tolees0ca-21)

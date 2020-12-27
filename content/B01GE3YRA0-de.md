@@ -25,8 +25,8 @@ Es gibt ein [Tommy Hilfiger Damen THONG String  Weiß  White 100   M](https://ww
 
 ℹ️:
 
-- Breiter, elastischer Tommy-Hilfiger-Bund
 - Normale Passform
+- Breiter, elastischer Tommy-Hilfiger-Bund
 - Baumwollstretch-Material
 
 [kauf es hier!!](https://www.amazon.de/dp/B01GE3YRA0/?tag=tolees0ca-21)
