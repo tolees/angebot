@@ -25,8 +25,8 @@ Es gibt ein [Just Dance 2021 - [Nintendo Switch]](https://www.amazon.de/dp/B08GW
 
 ℹ️:
 
-- Sammeln Sie während des gesamten Spiels coole Sticker mit dem Sticker-Album
 - Zusammen macht es am meisten Spaß. Tanze im Koop-Modus gemeinsam mit Ihrem Freunden und kombiniert Ihren Punktestand, um den Dancefloor zu regieren
+- Sammeln Sie während des gesamten Spiels coole Sticker mit dem Sticker-Album
 - Verpassen Sie nicht die saisonalen Events mit tollen In-Game-Herausforderungen, zeitlich begrenzten, kostenlosen Songs und einer themenbasierten Playliste
 - Trainieren hat noch nie so viel Spaß gemacht. Beginnen Ihre eigene Routine mit dem Sweat-Modus und bleiben Sie motiviert, indem Sie die verbrannten Kalorien und die getanzte Zeit nachverfolgen
 - Man ist niemals zu jung, um zu tanzen. Der Kids-Modus ist individuell auf die Bedürfnisse junger Spieler angepasst. Dieser spezielle Modus bietet acht kindgerechte Songs für ein unterhaltsames Tanzerlebnis speziell für Kids

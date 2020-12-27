@@ -26,7 +26,7 @@ Es gibt ein [POP! Ride: Masters of The Universe - He-Man on Battle Cat](https://
 ℹ️:
 
 - Die Figur ist 16 cm groß und wird in einer illustrierten Fensterbox geliefert
-- Schauen Sie sich jetzt die anderen Masters of the Universe-Figuren von Funko an! Sammeln Sie alle!
 - Von Masters of the Universe, He-Man on Battle Cat, zur stilisierten POP Rides Vinyl-Figur von Funko!
+- Schauen Sie sich jetzt die anderen Masters of the Universe-Figuren von Funko an! Sammeln Sie alle!
 
 [kauf es hier!!](https://www.amazon.de/dp/B07ZZNQ6HG/?tag=tolees0ca-21)
