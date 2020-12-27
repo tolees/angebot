@@ -25,11 +25,11 @@ Sie können [Merrell Herren Moab 2 GTX Trekking und Wanderhalbschuhe  Schwarz  B
 
 ℹ️:
 
+- Innenmaterial: Synthetik
+- Sohle: Synthetische
 - waterproof
 - Absatzform: Flach
-- Innenmaterial: Synthetik
-- Verschluss: Schnürsenkel
-- Sohle: Synthetische
 - Obermaterial: Kunstleder / PU
+- Verschluss: Schnürsenkel
 
 [Hier!!](https://www.amazon.de/dp/B072JM3XFV/?tag=tolees0ca-21)

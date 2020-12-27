@@ -25,11 +25,11 @@ Es gibt ein [Sony XM-N502 2-Kanal-Stereoverstärker  Tifpassfilter  Automatic Th
 
 ℹ️:
 
+- Automatic Thermal Control
 - Einseitige Anschlüsse
 - 65 W x 2 (4 Ohm), 85 W x 2 (2 Ohm), 175 W x 1 (BTL)
-- Tiefpassfilter für Bass
-- Automatic Thermal Control
-- Hohe Ausgangsleistung: 500 W
 - Lieferumfang: Sony XM-N502 2-Kanal-Stereoverstärker
+- Tiefpassfilter für Bass
+- Hohe Ausgangsleistung: 500 W
 
 [kauf es hier!!](https://www.amazon.de/dp/B00FF4QSI4/?tag=tolees0ca-21)

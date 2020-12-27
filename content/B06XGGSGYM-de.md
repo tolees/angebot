@@ -25,10 +25,10 @@ Es gibt ein [LOGONA Naturkosmetik Couperose Creme Tag & Nacht  Stärkt die Gefä
 
 ℹ️:
 
-- Die Rezeptur mit dem exklusiven Natur-Wirkstoff SILIDINE aus der Rotalge unterstützt die Zellregeneration, wirkt beruhigend und lindert Rötungen langanhaltend. Zudem sorgen Bio-Mandel- und Aprikosenkernöl sowie Bio-Aloe Vera für langanhaltende Feuchtigkeit
 - 40 Jahre Expertise & Wissen. Nach höchsten Qualitätsstandards produziert und 100% NATRUE zertifiziert. Frei von synthetischen Duft-, Farb- und Konservierungsstoffen sowie Rohstoffen auf Mineralölbasis. Hergestellt in Deutschland mit co2-neutraler Produktion & nachhaltigen Verpackungen
 - Der exklusive Wirkstoff SILIDINE wird aus der Rotalge gewonnen. Er stärkt die Gefäßwände und verbessert die Spannkraft der Gefäße. Dadurch werden Rötungen nachhaltig gemindert und die Regeneration der Hautzellen unterstützt. Die LOGONA med Produkte wurden mit Unterstützung des Deutsche Rosazea Hilfe e. V. entwickelt
-- Die LOGONA MED COUPEROSE PFLEGECREME stärkt die Gefäßwände bei Tag und Nacht und erhöht ihre Spannkraft von innen heraus Pflege ohne Alkohol
+- Die Rezeptur mit dem exklusiven Natur-Wirkstoff SILIDINE aus der Rotalge unterstützt die Zellregeneration, wirkt beruhigend und lindert Rötungen langanhaltend. Zudem sorgen Bio-Mandel- und Aprikosenkernöl sowie Bio-Aloe Vera für langanhaltende Feuchtigkeit
 - Die vegane Rezeptupr mit besonders wirkungsvollen und pflegenden Wirkstoffen ist ideal für empfindliche sowie zu Couperose neigende Haut. Nachhaltige und natürliche Pflege für die Haut
+- Die LOGONA MED COUPEROSE PFLEGECREME stärkt die Gefäßwände bei Tag und Nacht und erhöht ihre Spannkraft von innen heraus Pflege ohne Alkohol
 
 [kauf es hier!!](https://www.amazon.de/dp/B06XGGSGYM/?tag=tolees0ca-21)
