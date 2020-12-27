@@ -25,13 +25,13 @@ Sie können [Herlitz 50013616 Schulranzen Flexi Plus  Spring Horses  1 Stück](h
 
 ℹ️:
 
-- Reflexmaterial auf Front- und Seitenbereichen, sowie Schultergurten; Reflektor im Schloss; Reflexnähte
-- ERGO ES² System: ergonomisches Rückensystem mit 3-stufiger Höhenverstellung; atmungsaktives, ergonomisch geformtes Rückenpolster
 - 2-fach verstellbare Schultergurte; Höhenverstellbarer Brustgurt
-- H/B/T: 36 x 39 x 22 cm; Material: Polyester; Gewicht: ca. 1,2 kg; Volumen: ca. 18 l
-- Set bestehend aus Schulranzen, befülltem Schüleretui (17 Teile), Faulenzer dreikant, Sporttasche und Brotdose
 - Magnetschloss "Smart Lock"; wasserabweisende Imprägnierung; stabile Bodenplatte; praktischer Tragegriff
-- 1 geräumiges Innenfach mit integriertem Buchfach; 2 Seitentaschen mit Reißverschluss; 2 integrierte Fronttaschen mit Klettverschluss; 1 kleines Extrafach mit Reißverschluss; Gummibänder auf der Deckelklappe für zusätzlichen Stauraum
+- Set bestehend aus Schulranzen, befülltem Schüleretui (17 Teile), Faulenzer dreikant, Sporttasche und Brotdose
 - Motiv: Spring Horses
+- ERGO ES² System: ergonomisches Rückensystem mit 3-stufiger Höhenverstellung; atmungsaktives, ergonomisch geformtes Rückenpolster
+- H/B/T: 36 x 39 x 22 cm; Material: Polyester; Gewicht: ca. 1,2 kg; Volumen: ca. 18 l
+- 1 geräumiges Innenfach mit integriertem Buchfach; 2 Seitentaschen mit Reißverschluss; 2 integrierte Fronttaschen mit Klettverschluss; 1 kleines Extrafach mit Reißverschluss; Gummibänder auf der Deckelklappe für zusätzlichen Stauraum
+- Reflexmaterial auf Front- und Seitenbereichen, sowie Schultergurten; Reflektor im Schloss; Reflexnähte
 
 [Hier!!](https://www.amazon.de/dp/B076Y1NBHZ/?tag=tolees0ca-21)

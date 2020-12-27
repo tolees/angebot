@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '27.36 % rabat auf Nike Herren Revolution 5 Leichtathletiks'
-date: 2020-12-26 22:03:56
+date: 2020-12-27 22:06:44
 image: 'https://m.media-amazon.com/images/I/41Iccs8Q8cL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07NLXDL8Z/?tag=tolees0ca-21'
 descuento: '27.36'
-average: '40.62'
+average: '40.4525'
 ---
 
 Es gibt ein [Nike Herren Revolution 5 Leichtathletikschuhe  Schwarz  Black/White-Anthracite 002   41 EU](https://www.amazon.de/dp/B07NLXDL8Z/?tag=tolees0ca-21) mit aktuellem Preis 39.95 EUR (original: 55.0 EUR) 27.36 % Rabatt hier:

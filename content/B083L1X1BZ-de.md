@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sylvanian Families: Family Campervan  54 mit 28.99 % Rabatt'
-date: 2020-12-26 16:03:13
+date: 2020-12-27 22:16:59
 image: 'https://m.media-amazon.com/images/I/51bhKxRWhEL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B083L1X1BZ/?tag=tolees0ca-21'
 descuento: '28.99'
-average: '37.46904761904762'
+average: '37.297826086956526'
 ---
 
 Sie können [Sylvanian Families: Family Campervan  5454 ](https://www.amazon.de/dp/B083L1X1BZ/?tag=tolees0ca-21) mit Preis 35.5 EUR (original: 49.99 EUR) 28.99 % Rabatt hier:
