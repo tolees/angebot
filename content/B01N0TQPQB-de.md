@@ -25,8 +25,8 @@ Es gibt ein [Kingston A400 SSD SA400S37/480G - Interne SSD  2.5 Zoll  SATA 480GB
 
 ℹ️:
 
-- Schneller und langlebiger als jede Festplatte
 - Schnelles Hochfahren, Laden und Übertragen von Dateien
+- Schneller und langlebiger als jede Festplatte
 - Verschiedene Speicherkapazitäten mit viel Platz für Anwendungen oder als Festplattenersatz
 
 [kauf es hier!!](https://www.amazon.de/dp/B01N0TQPQB/?tag=tolees0ca-21)

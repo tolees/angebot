@@ -25,10 +25,10 @@ Sie können [edc by ESPRIT Damen 997CC1B821 Straight Jeans  Blue Dark Wash 901  
 
 ℹ️:
 
-- 5-Pocket-Style mit Zipper-Münzfach
 - 98% Baumwolle, davon 33% Bio-Baumwolle
-- Bund mit Schlaufen, Logo-Knopf und Zipper
+- 5-Pocket-Style mit Zipper-Münzfach
 - Beinöffnung: ca. 34 cm
 - Grösseninfo: Bei Gr. 27/32 (kann je Gr. leicht variieren): Innenbeinlänge: ca. 83 cm
+- Bund mit Schlaufen, Logo-Knopf und Zipper
 
 [Hier!!](https://www.amazon.de/dp/B0758J5MFW/?tag=tolees0ca-21)
