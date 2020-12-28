@@ -26,9 +26,9 @@ Es gibt ein [Pentel BL77-CO EnerGel Gel-Tintenroller mit Druckmechanik  0 7 mm K
 ℹ️:
 
 - Pentel RECYCOLOGY Produkt, d.h. gefertigt aus mind. 50% recycelten Materialien
-- trocknet blitzschnell
 - weich fließendes Schreiben
-- kein Verschmieren, auch für Linkshänder geeignet
 - nachfüllbar mit allen EnerGel-Minen (LRN5, LR7, LR10)
+- kein Verschmieren, auch für Linkshänder geeignet
+- trocknet blitzschnell
 
 [kauf es hier!!](https://www.amazon.de/dp/B000WGYX6O/?tag=tolees0ca-21)

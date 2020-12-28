@@ -25,9 +25,9 @@ Sie können [Klar Bio WC-Reiniger 750 ml](https://www.amazon.de/dp/B005CS4K7E/?t
 
 ℹ️:
 
-- Eco Garantie, Vegan
 - Löst Kalk und Urinstein mit der Kraft natürlicher Zitronen- und Milchsäure. Nicht anwenden auf Marmor, Terrazzo, Eloxal und Emaille.
-- Bio-Zertifizierung
 - 1 x 750 ml
+- Bio-Zertifizierung
+- Eco Garantie, Vegan
 
 [Hier!!](https://www.amazon.de/dp/B005CS4K7E/?tag=tolees0ca-21)

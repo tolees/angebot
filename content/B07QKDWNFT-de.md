@@ -25,8 +25,8 @@ Sie können [Samsung Galaxy A20e Smartphone  14.82cm  148.2 mm  5.8 Zoll  32GB i
 
 ℹ️:
 
-- 2 SIM-Karten-Slots und microSD-Speichererweiterung für flexible Nutzung
 - Beeindruckendes Design mit Infinity-V Display
+- 2 SIM-Karten-Slots und microSD-Speichererweiterung für flexible Nutzung
 - Fingerabdruckscanner für einfachen Schutz
 - Besondere Motive mit der Dual-Hauptkamera in Szene setzen
 
