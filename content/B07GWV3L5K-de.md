@@ -26,7 +26,7 @@ Sie können [Zubrowka Bison Grass Wodka  1 x 0.7 l ](https://www.amazon.de/dp/B0
 ℹ️:
 
 - ZUBROWKA Vodka ist der Nr. 1 Bisongras Vodka in Polen und dem Rest der Welt, basierend auf polnischem Premium-Weizen
-- Vodka
 - Das Bisongras stammt aus dem sagenumwobenen Białowieża Wald im östlichen Teil Polens und darf nur von speziell zertifizierten Personen per Hand gepflückt werden
+- Vodka
 
 [Hier!!](https://www.amazon.de/dp/B07GWV3L5K/?tag=tolees0ca-21)

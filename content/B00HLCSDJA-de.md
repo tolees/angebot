@@ -26,9 +26,9 @@ Es gibt ein [Finish Spezial-Salz – Spülmaschinensalz zum Schutz vor Kalkablag
 ℹ️:
 
 - Das Spülmaschinensalz einfach in den Salzbehälter des Geschirrspülers einfüllen und so effektiv die Funktion der Wasserenthärtungsanlage zu unterstützen
+- Von führenden Geschirrspülmaschinenherstellern empfohlen: Für beste Spülergebnisse Finish Spezial Salz mit Finish Spülmaschinentabs verwenden
 - Kalkrückstände von hartem Wasser? Das Finish Spezial-Salz bietet effektiven Kalkschutz für Spülmaschine, Geschirr, Besteck, Sprüharme und Filter - für ein langes Leben des Geschirrspülers
 - Das Salz enthärtet das Wasser und schützt die Spülmaschine so vor Kalkablagerungen, außerdem hilft es gegen Wasserflecken auf Geschirr und Gläsern
-- Von führenden Geschirrspülmaschinenherstellern empfohlen: Für beste Spülergebnisse Finish Spezial Salz mit Finish Spülmaschinentabs verwenden
 - Lieferumfang: 8 x 1,2 kg Finish Spezial-Salz / Schützt den Geschirrspüler und das Geschirr vor Kalkablagerungen / Einfache Anwendung
 
 [kauf es hier!!](https://www.amazon.de/dp/B00HLCSDJA/?tag=tolees0ca-21)

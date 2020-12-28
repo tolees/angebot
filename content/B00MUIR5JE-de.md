@@ -25,10 +25,10 @@ Sie können [Ferdinand s Saar Quince mit deutschem Riesling  1 x 0 5 l ](https:/
 
 ℹ️:
 
-- Fruchtige Rieslinge von der Saar sind vor allem wegen ihrer unvergleichlichen Aromatik weltberühmt / Ihre Trauben bieten den höchsten Grad an Extraktdichte - für einzigartigen Geschmack & Aroma
-- In Deutschlands faszinierendstem Weinanbaugebiet beginnt die Geschichte dieser einzigartigen Kreation - Ferdinands Saar Quince vereint hochwertigen Gin mit Riesling & frisch geernteten Quitten
-- Quitten aus eigenem Anbau in den Obstgärten hinter der Brennerei werden über 12 Wochen fein mazeriert - dabei wird der Saft schonend mit einer Membran-Traubenpresse vom Trester der Quitte getrennt
 - Lieferumfang: 1 x 0,5l Ferdinands Saar Quince / Regionale Spirituose aus Gin, Quittensaft und Riesling / Alkoholgehalt: 30 Prozent vol.
+- In Deutschlands faszinierendstem Weinanbaugebiet beginnt die Geschichte dieser einzigartigen Kreation - Ferdinands Saar Quince vereint hochwertigen Gin mit Riesling & frisch geernteten Quitten
+- Fruchtige Rieslinge von der Saar sind vor allem wegen ihrer unvergleichlichen Aromatik weltberühmt / Ihre Trauben bieten den höchsten Grad an Extraktdichte - für einzigartigen Geschmack & Aroma
+- Quitten aus eigenem Anbau in den Obstgärten hinter der Brennerei werden über 12 Wochen fein mazeriert - dabei wird der Saft schonend mit einer Membran-Traubenpresse vom Trester der Quitte getrennt
 - Die Saar-Region bietet die idealen Bedingungen für den Anbau feinster, regionaler Botanicals / Rosige & florale Noten treten neben karamellisierten Fruchttönen der Quitte hervor
 
 [Hier!!](https://www.amazon.de/dp/B00MUIR5JE/?tag=tolees0ca-21)
