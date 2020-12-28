@@ -25,10 +25,10 @@ Es gibt ein [Panama Jack Herren Panama 03 Kurzschaft Stiefel  Braun  Bark C51   
 
 ℹ️:
 
-- Hergestellt in Spain
 - HeelHeight: 3, 00 cm
-- Water Resistant
+- Hergestellt in Spain
 - Principal Material: Nappa, Lining Material: Leather Sole Material: Natural Rubber InnerSole RemovableInsert: Yes
+- Water Resistant
 - Panama Jack Men, Cuero / Bark Springer Boots
 
 [kauf es hier!!](https://www.amazon.de/dp/B01JRQGG96/?tag=tolees0ca-21)

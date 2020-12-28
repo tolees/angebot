@@ -26,9 +26,9 @@ Sie können [HUGO Herren Suit - Dress Set Arti/Hesten203V1  Navy 419   110](http
 ℹ️:
 
 - Nicht im Waeschetrockner trocknen
-- Buegeln mittlere Hitze Stufe 2
 - Nicht waschen
 - Nicht bleichen
 - Reinigung P
+- Buegeln mittlere Hitze Stufe 2
 
 [Hier!!](https://www.amazon.de/dp/B07ZZKY5FK/?tag=tolees0ca-21)

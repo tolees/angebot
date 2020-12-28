@@ -25,10 +25,10 @@ Sie können [Shadow of the Tomb Raider: Definitive Edition  PS4 ](https://www.am
 
 ℹ️:
 
-- discover dark and brutal tombs: tombs are more terrifying than ever before, requiring advanced traversal techniques to reach them, and once inside they are filled with deadly puzzles.
-- uncover living history: discover a hidden city and explore the biggest hub space ever found in a Tomb Raider game
-- survive and thrive in the deadliest place on Earth: master an unforgiving jungle setting in order to survive. Explore underwater environments filled with crevasses and deep tunnel systems.
 - Combines the base game, All seven DLC challenge tombs and all downloadable content.
+- survive and thrive in the deadliest place on Earth: master an unforgiving jungle setting in order to survive. Explore underwater environments filled with crevasses and deep tunnel systems.
+- discover dark and brutal tombs: tombs are more terrifying than ever before, requiring advanced traversal techniques to reach them, and once inside they are filled with deadly puzzles.
 - become one with the jungle: outgunned and outnumbered, Lara must use the jungle to her advantage. Strike suddenly and disappear like a Jaguar, use mud as camouflage, and instill fear in enemies to Sow chaos.
+- uncover living history: discover a hidden city and explore the biggest hub space ever found in a Tomb Raider game
 
 [Hier!!](https://www.amazon.de/dp/B081FTKGLG/?tag=tolees0ca-21)
