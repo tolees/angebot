@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Airwaves Kaugummi | Cool Cassis | Lila   mit 21.69 % Rabatt'
-date: 2020-12-26 22:12:21
+date: 2020-12-28 04:30:54
 image: 'https://m.media-amazon.com/images/I/41PWsWta2tL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B01IHHLWOK/?tag=tolees0ca-21'
 descuento: '21.69'
-average: '1.9813586956521736'
+average: '1.9810215053763438'
 ---
 
 Sie können [Airwaves Kaugummi | Cool Cassis | Lila  zuckerfrei |  1 x 50 Dragees ](https://www.amazon.de/dp/B01IHHLWOK/?tag=tolees0ca-21) mit Preis 1.95 EUR (original: 2.49 EUR) 21.69 % Rabatt hier:

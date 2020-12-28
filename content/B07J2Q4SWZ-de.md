@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '26.23 % rabat auf Crucial P1 1TB CT1000P1SSD8 Internes SSD'
-date: 2020-12-24 21:57:30
+date: 2020-12-28 04:36:39
 image: 'https://m.media-amazon.com/images/I/413LjVzXKUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07J2Q4SWZ/?tag=tolees0ca-21'
 descuento: '26.23'
-average: '97.66339805825244'
+average: '97.27000000000001'
 ---
 
 Es gibt ein [Crucial P1 1TB CT1000P1SSD8 Internes SSD-bis zu 2000 MB/s  3D NAND  NVMe  PCIe  M.2 ](https://www.amazon.de/dp/B07J2Q4SWZ/?tag=tolees0ca-21) mit aktuellem Preis 77.01 EUR (original: 104.39 EUR) 26.23 % Rabatt hier:
@@ -26,9 +26,9 @@ Es gibt ein [Crucial P1 1TB CT1000P1SSD8 Internes SSD-bis zu 2000 MB/s  3D NAND 
 ℹ️:
 
 - NVMe standard Self-Monitoring and Reporting Technology (SMART)
-- Die NVMe PCIe-Schnittstelle ist der nächste Schritt bei der Speicherinnovation
 - Redundant Array of Independent NAND (RAIN)
 - Kapazitäten bis zu 2TB mit sequentiellen Lese-/Schreibvorgängen bis zu 2.000/1.700 MB/s
 - Micron 3D NAND – Fortschritt in der Speicherwelt seit 40 Jahren
+- Die NVMe PCIe-Schnittstelle ist der nächste Schritt bei der Speicherinnovation
 
 [kauf es hier!!](https://www.amazon.de/dp/B07J2Q4SWZ/?tag=tolees0ca-21)
