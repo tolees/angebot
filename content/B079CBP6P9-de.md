@@ -25,8 +25,8 @@ Sie können [Playstation Z890845 PP4140PS Tasten Symbol Lampe mit Farbwechsel Fu
 
 ℹ️:
 
-- Stromversorgung: Das Gerät kann per Batterien (3x AAA) oder per USB-Kabel betrieben werden
 - Lizenziert: Es handelt sich um ein offiziell lizenziertes Playstation Produkt
+- Stromversorgung: Das Gerät kann per Batterien (3x AAA) oder per USB-Kabel betrieben werden
 - Hingucker: Die Lampe kann schnell im Zufallsprinzip blinken, die Symbole durchwechseln oder durchgängig strahlen
 - Gamer Gadget: Mit den 4 typischen Playstation Tasten Symbolen ist die Lampe das perfekte Gadget für Playstation Fans
 
