@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '60.01 % rabat auf STAR WARS Jedi Fallen Order Standard Edi'
-date: 2020-12-27 16:11:59
+date: 2020-12-28 16:37:19
 image: 'https://m.media-amazon.com/images/I/41Tj-1Io66L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07Z5NTH4B/?tag=tolees0ca-21'
 descuento: '60.01'
-average: '33.355333333333334'
+average: '32.724117647058826'
 ---
 
 Es gibt ein [STAR WARS Jedi Fallen Order Standard Edition | Xbox One - Download Code](https://www.amazon.de/dp/B07Z5NTH4B/?tag=tolees0ca-21) mit aktuellem Preis 27.99 EUR (original: 69.99 EUR) 60.01 % Rabatt hier:
