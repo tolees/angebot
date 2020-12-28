@@ -25,10 +25,10 @@ Sie können [PLAYMOBIL Stuntshow 70550 Monster Truck Shark  Für Kinder von 4 - 
 
 ℹ️:
 
-- Daily play: instructions for assembly together with parents, high-quality and robust design, cleaning the parts (without stickers) under running water without chemicals
-- Toy set for children aged 4 and up: ideal for childrens hands due to age-appropriate size and pleasant feel with rounded edges
 - Truck with fin, shark bite as radiator grille and much more, full suspension axles, removable roof, space for 4 figures, obstacle with slip stops and much more.
+- Daily play: instructions for assembly together with parents, high-quality and robust design, cleaning the parts (without stickers) under running water without chemicals
 - Box contents: 1x Playmobil stuntshow Monster Truck Shark, 45-piece toy set with instructions: 1 car, 1 scrap car, 1 figure, 42 accessories, material: plastic, L x D x H vehicle: 32 x 16.5 x 18 cm, weight: 588 g, 70550
 - Thrill without end: Playmobil stunt show monster truck shark with scrap car, stuntman and monster strong accessories for recreating cool stunts
+- Toy set for children aged 4 and up: ideal for childrens hands due to age-appropriate size and pleasant feel with rounded edges
 
 [Hier!!](https://www.amazon.de/dp/B08KW27KVB/?tag=tolees0ca-21)
