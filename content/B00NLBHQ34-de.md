@@ -25,10 +25,10 @@ Es gibt ein [TFA 30.5035.01 Smarthy Thermo-Hygrometer  für Smartphones  Schwarz
 
 ℹ️:
 
-- Diagrammfunktion
-- Alarmfunktion
 - Anzeige von aktueller Temperatur und Luftfeuchtigkeit
-- Innovative App mit zusätzlichen Funktionen
+- Alarmfunktion
 - Loggerfunktion
+- Diagrammfunktion
+- Innovative App mit zusätzlichen Funktionen
 
 [kauf es hier!!](https://www.amazon.de/dp/B00NLBHQ34/?tag=tolees0ca-21)

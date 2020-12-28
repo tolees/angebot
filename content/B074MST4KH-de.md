@@ -25,10 +25,10 @@ Es gibt ein [Pringles Salt & Vinegar Chips  19er Pack  19 x 200 g ](https://www.
 
 ℹ️:
 
-- Gönn dir eine Portion oder teile sie als Party-Snack
-- Pringles: Pop Play Eat
-- Mit 200 Gramm superleckeren Pringles hast du immer einen Snack parat
 - Durch die wiederverschließbare Dose kannst du sie entweder sofort teilen oder für später aufheben
 - Der Geschmacksklassiker aus UK
+- Gönn dir eine Portion oder teile sie als Party-Snack
+- Mit 200 Gramm superleckeren Pringles hast du immer einen Snack parat
+- Pringles: Pop Play Eat
 
 [kauf es hier!!](https://www.amazon.de/dp/B074MST4KH/?tag=tolees0ca-21)

@@ -25,9 +25,9 @@ Sie können [Samsung Leather Smartphone Cover EF-VF916 für Galaxy Z Fold2 5G Ha
 
 ℹ️:
 
-- Material:Leder
+- Farbe: Schwarz
 - hergestellt in Vietnam
 - Abmessungen der Artikelverpackung: 1.02 zm x 7.87 zm x19.56 zm
-- Farbe: Schwarz
+- Material:Leder
 
 [Hier!!](https://www.amazon.de/dp/B08D6TC13Q/?tag=tolees0ca-21)

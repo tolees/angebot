@@ -25,8 +25,8 @@ Sie können [Merrell Damen Vapor Glove 3 Luna LTR Sneaker  Grau  Charcoal   36 E
 
 ℹ️:
 
-- Zero Drop
 - Vibram TC5 Außensohle
+- Zero Drop
 - TrailProtect Pad unter den Füßen für Schutz
 - Atmungsaktives Netzfutter.
 - Obermaterial aus genarbtem Leder.
