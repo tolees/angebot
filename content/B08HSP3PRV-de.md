@@ -25,11 +25,11 @@ Sie können [STAR WARS SQUADRONS  Pre-Purchase  | Xbox One - Download Code](http
 
 ℹ️:
 
-- Meistere in diesem authentischem Pilotenerlebnis die Kunst des Sternenjägerkampfes: Star Wars : Squadrons erwartet dich.
-- Spüre das Adrenalin in der First-Person-Perspektive, wenn du mit deiner Staffel im Multiplayer-Modus spannende Weltraumgefechte austrägst, und hebe ab in einer spannenden Star Wars -Einzelspieler-Story. Die Neue Republik kämpft für Freiheit. Das Imperium verlangt Ordnung. Du wirst gebraucht - schließe dich den Besten der Galaxis an.
-- Übernehmen Sie die Kontrolle über verschiedene Sternenjägerklassen der Flotten der Neuen Republik und des Imperiums
-- Spielbar ab 02.10.2020
-- Planen Sie zusammen mit Ihrer Staffel im Besprechungsraum Gefechte, bevor Sie sich auf die sich stetig im Wandel befindlichen Schlachtfelder der Galaxis stürzen
 - Nutzen Sie das Armaturenbrett Ihres Schiffs zu Ihrem Vorteil und fühlen Sie die Hitze des Gefechts aus der First Person-Perspektive
+- Meistere in diesem authentischem Pilotenerlebnis die Kunst des Sternenjägerkampfes: Star Wars : Squadrons erwartet dich.
+- Planen Sie zusammen mit Ihrer Staffel im Besprechungsraum Gefechte, bevor Sie sich auf die sich stetig im Wandel befindlichen Schlachtfelder der Galaxis stürzen
+- Übernehmen Sie die Kontrolle über verschiedene Sternenjägerklassen der Flotten der Neuen Republik und des Imperiums
+- Spüre das Adrenalin in der First-Person-Perspektive, wenn du mit deiner Staffel im Multiplayer-Modus spannende Weltraumgefechte austrägst, und hebe ab in einer spannenden Star Wars -Einzelspieler-Story. Die Neue Republik kämpft für Freiheit. Das Imperium verlangt Ordnung. Du wirst gebraucht - schließe dich den Besten der Galaxis an.
+- Spielbar ab 02.10.2020
 
 [Hier!!](https://www.amazon.de/dp/B08HSP3PRV/?tag=tolees0ca-21)

@@ -26,8 +26,8 @@ Es gibt ein [Timberland Damen 6 Zoll Premium wasserdicht Stiefel  Gelb  Wheat Nu
 ℹ️:
 
 - Verschluss: Schnürsenkel
+- Materialzusammensetzung: Siehe Beschreibung
 - Obermaterial: Leder
 - Absatzform: Flach
-- Materialzusammensetzung: Siehe Beschreibung
 
 [kauf es hier!!](https://www.amazon.de/dp/B008EWME32/?tag=tolees0ca-21)
