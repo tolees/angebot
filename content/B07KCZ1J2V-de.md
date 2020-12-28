@@ -25,10 +25,10 @@ Es gibt ein [Mi Home Security Camera 360° 16839 Webcam   1080P](https://www.ama
 
 ℹ️:
 
-- WLAN-Kamera besteht aus hochglänzendem weißen Kunststoff, die Abmessungen betragen 118 × 80 × 80 Millimeter bei einem Gewicht von 250 Gramm
-- Aufgezeichnen von Videos auf microSDXC-Karte
 - Keine Stecker, nur USB-Kabel
-- ausgezeichnete Funktionsweise und Bildqualität
+- Aufgezeichnen von Videos auf microSDXC-Karte
 - 360 Grad schwenkbar
+- WLAN-Kamera besteht aus hochglänzendem weißen Kunststoff, die Abmessungen betragen 118 × 80 × 80 Millimeter bei einem Gewicht von 250 Gramm
+- ausgezeichnete Funktionsweise und Bildqualität
 
 [kauf es hier!!](https://www.amazon.de/dp/B07KCZ1J2V/?tag=tolees0ca-21)

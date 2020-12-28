@@ -25,10 +25,10 @@ Es gibt ein [Beurer MG 16 Mini-Massager 646.15  rot](https://www.amazon.de/dp/B0
 
 ℹ️:
 
-- Massage-to-go
-- Entspannung für Zwischendurch
-- Ideal für Rücken, Nacken, Arme und Beine
-- Sanfte Vibrationsmassage
 - Klein und handlich
+- Ideal für Rücken, Nacken, Arme und Beine
+- Massage-to-go
+- Sanfte Vibrationsmassage
+- Entspannung für Zwischendurch
 
 [kauf es hier!!](https://www.amazon.de/dp/B002KFZW4M/?tag=tolees0ca-21)

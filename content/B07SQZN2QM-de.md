@@ -25,10 +25,10 @@ Es gibt ein [PlayStation 4 Pro - Konsole Schwarz  B Chassis  1TB   Generalüberh
 
 ℹ️:
 
+- Lieferumfang: PlayStation 4 PRO Konsole, DualShock 4 Wireless-Controller, Netzteil, HDMI-Kabel, USB-Kabel, Bedienungsanleitung
 - Herstellergarantie: 12 Monate bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
-- PlayStation Plus-Mitglieder können jährlich 24 ausgewählte PS4-Spiele ohne zusätzliche Kosten herunterladen. Mitglieder können jeden Monat neue Titel entdecken und in spannende Welten eintauchen - mit PlayStation Plus gibt es immer etwas zu spielen
 - Zertifizierte und generalüberholte PlayStation 4 PRO Konsole
 - Interne Speicherkapazität: 1 TB, Optisches Laufwerk-Typ: Blu-Ray/DVD
-- Lieferumfang: PlayStation 4 PRO Konsole, DualShock 4 Wireless-Controller, Netzteil, HDMI-Kabel, USB-Kabel, Bedienungsanleitung
+- PlayStation Plus-Mitglieder können jährlich 24 ausgewählte PS4-Spiele ohne zusätzliche Kosten herunterladen. Mitglieder können jeden Monat neue Titel entdecken und in spannende Welten eintauchen - mit PlayStation Plus gibt es immer etwas zu spielen
 
 [kauf es hier!!](https://www.amazon.de/dp/B07SQZN2QM/?tag=tolees0ca-21)

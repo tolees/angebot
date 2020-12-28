@@ -25,10 +25,10 @@ Sie können [PLAYMOBIL City Life 9454 Turnhalle  Ab 5 Jahren](https://www.amazon
 
 ℹ️:
 
-- Spielspaß für kleine Alltags-Helden: PLAYMOBIL Turnhalle, Spielset mit 3 Figuren, Turngeräten und vielen Zubehörteilen für detailgetreues Nachspielen
 - Spielfiguren-Set für Kinder ab 5 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
-- Lieferumfang: 1x PLAYMOBIL City Life Turnhalle, 56-teiliges Spielfiguren-Set mit Anleitung: 1 Turnhalle, 3 Figuren, 52 Zubehörteile, Material: Kunststoff, LxBxH: 28x29x22 cm, Art.-Nr. 9454
-- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 - Equipment für verschiedene Ballsportarten, Mit Spielstandanzeige, Kletterwand im Außenbereich, uvm., Erweiterbar mit City Life Große Schule (9453)
+- Lieferumfang: 1x PLAYMOBIL City Life Turnhalle, 56-teiliges Spielfiguren-Set mit Anleitung: 1 Turnhalle, 3 Figuren, 52 Zubehörteile, Material: Kunststoff, LxBxH: 28x29x22 cm, Art.-Nr. 9454
+- Spielspaß für kleine Alltags-Helden: PLAYMOBIL Turnhalle, Spielset mit 3 Figuren, Turngeräten und vielen Zubehörteilen für detailgetreues Nachspielen
+- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 
 [Hier!!](https://www.amazon.de/dp/B079MM5TMQ/?tag=tolees0ca-21)
