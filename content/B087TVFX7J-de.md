@@ -25,10 +25,10 @@ Sie können [SYMA Drohne für Kinder handgesteuert  Mini drohne mit 2 Akkus  qua
 
 ℹ️:
 
-- Ein tolles Geschenk für Kinder: Mit der niedriger Batteriestrom-Alarm Funktion können die Geschwindigkeit an Ihre Betriebserfahrung anpassen, keine Sorge für Verloren oder Schaden wegen des leeren Batterie.
+- Viel Spaß machen: Die Drohnen können 3D-Flip ausführen und mit einer Taste starten oder landen, dadurch die Drohne leichter zu spielen ist.
 - Headless-Modus: Verlieren Sie keine Richtung mit Headless-Modus, besonders wenn die Drohne fern von Ihnen sein.
 - Einfache Steuerung: Mit der automatischen Höhehaltung-Funktion kann die Drohne in der aktuellen Höhe schweben, wenn das Steuerstab losgelassen werden. Das ermöglicht eine stabilere und leichtere Steuerung für Kinder und Anfänger.
-- Viel Spaß machen: Die Drohnen können 3D-Flip ausführen und mit einer Taste starten oder landen, dadurch die Drohne leichter zu spielen ist.
+- Ein tolles Geschenk für Kinder: Mit der niedriger Batteriestrom-Alarm Funktion können die Geschwindigkeit an Ihre Betriebserfahrung anpassen, keine Sorge für Verloren oder Schaden wegen des leeren Batterie.
 - Hindernisvermeidungsmodus Die Drohne kann sich beim Fliegen die Hindernise automatisch vermeiden, um Sie sich von Stöß zu schutzen, auch für das Spielen mit Kinder geeignet. Hindernisvermeidungsmodus Die Drohne kann sich beim Fliegen die Hindernise automatisch vermeiden, um Sie sich von Stöß zu schutzen, auch für das Spielen mit Kinder geeignet.
 
 [Hier!!](https://www.amazon.de/dp/B087TVFX7J/?tag=tolees0ca-21)
