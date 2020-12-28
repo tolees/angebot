@@ -26,8 +26,8 @@ Es gibt ein [Bosch PKN645FP1E Serie 4 Elektrokochfeld  autark  / 60 cm / Schwarz
 ℹ️:
 
 - Timer mit Abschaltfunktion schaltet die gewählte Kochzone nach der gewünschten Zeit ab
-- Gerätemaße H x B x T (cm) 10 x 59 x 75
 - Power Boost frei zuschaltbare Leistungssteigerung für bis zu 20prozent schnelleres Ankochen
+- Gerätemaße H x B x T (cm) 10 x 59 x 75
 - Bräterzone extra zuschaltbare Kochzone für großes Bratgeschirr wie Bräter und Fischtöpfe
 
 [kauf es hier!!](https://www.amazon.de/dp/B01L0DOFQU/?tag=tolees0ca-21)
