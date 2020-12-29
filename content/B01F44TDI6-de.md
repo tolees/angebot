@@ -25,8 +25,8 @@ Es gibt ein [TP-Link Gigabit WLAN WiFi Powerline Adapter Set mit Steckdose AV130
 
 ℹ️:
 
+- Up to 1.2 GB according to the new standard Homeplug AV2 over existing power lines; Easy installation thanks to plug and play
 - 802.11ac simultaneous dual band with AC1200: Up to 300MB at 2.4GHz and 867MB at 5GHz, ideal for uninterrupted HD video streaming and online gaming
 - Wi-Fi Clone: ​​Installation without configuration by adopting the WLAN settings at the press of a button, front socket for more flexibility
-- Up to 1.2 GB according to the new standard Homeplug AV2 over existing power lines; Easy installation thanks to plug and play
 
 [kauf es hier!!](https://www.amazon.de/dp/B01F44TDI6/?tag=tolees0ca-21)
