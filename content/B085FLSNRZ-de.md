@@ -25,10 +25,10 @@ Sie können [PLAYMOBIL Princess 70455 Speisesaal  Ab 4 Jahren](https://www.amazo
 
 ℹ️:
 
-- Truhe zum Verstauen von Kleinteilen, Figuren mit Rock-Beinteil passend für 2-teilige Kleider/Röcke, Kombinierbar mit 70447 Großes Prinzessinnenschloss
+- Lieferumfang: 1x PLAYMOBIL Princess Speisesaal, 70-teiliges Spielfiguren-Set mit Anleitung: 1 Tisch, 1 Servierwagen, 1 Truhe, 2 Figuren, 65 Zubehörteile, Material: Kunststoff, Individuell aufstellbar, Gewicht: ca. 157 g, 70455
+- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 - Märchenhaft: PLAYMOBIL Speisesaal mit gedeckter Festtafel, 1 Servierwagen sowie Prinzessin Kim, 1 Lehrerin uvm. für detailgetreues Nachspielen
 - Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
-- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
-- Lieferumfang: 1x PLAYMOBIL Princess Speisesaal, 70-teiliges Spielfiguren-Set mit Anleitung: 1 Tisch, 1 Servierwagen, 1 Truhe, 2 Figuren, 65 Zubehörteile, Material: Kunststoff, Individuell aufstellbar, Gewicht: ca. 157 g, 70455
+- Truhe zum Verstauen von Kleinteilen, Figuren mit Rock-Beinteil passend für 2-teilige Kleider/Röcke, Kombinierbar mit 70447 Großes Prinzessinnenschloss
 
 [Hier!!](https://www.amazon.de/dp/B085FLSNRZ/?tag=tolees0ca-21)

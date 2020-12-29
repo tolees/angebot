@@ -26,9 +26,9 @@ Es gibt ein [Samsung Galaxy S10+ Smartphone  16.3cm  6.4 Zoll  128 GB interner S
 ℹ️:
 
 - Wireless PowerShare zum kabellosen Teilen von Akkuladung mit kompatiblen Smartphones und Samsung Wearables
-- Infinity-O Display mit Dynamic AMOLED-Technologie und HDR10+ für ein imposantes Multimediaerlebnis
-- Hohe Sicherheit durch Ultraschall-Fingerabdruckscanner im Smartphone-Display
 - 128 GB interner Speicher bietet viel Platz für unzählige Bilder, Videos und Musiktitel
+- Hohe Sicherheit durch Ultraschall-Fingerabdruckscanner im Smartphone-Display
+- Infinity-O Display mit Dynamic AMOLED-Technologie und HDR10+ für ein imposantes Multimediaerlebnis
 - Intelligente Kamera mit smartem Fotoassistenten und Action Cam-Videostabilisierung für professionelle Aufnahmen
 
 [kauf es hier!!](https://www.amazon.de/dp/B07NWRXR4T/?tag=tolees0ca-21)
