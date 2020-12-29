@@ -25,10 +25,10 @@ Es gibt ein [Ecovacs Deebot OZMO 920 Saug- & Wischroboter - 2-in-1 Staubsauger-R
 
 ℹ️:
 
-- Lieferumfang: 1 x ECOVACS DEEBOT OZMO 920 Reinigungsroboter mit Wischfunktion, 4 x Seitenbürsten, 2 x Feinstaubfilter, 1 x Ladestation, 1 x Direktabsaugung, 1 x Wassertank, 2 x Mikrofasertücher
-- Smart Navi 3. 0: Mit der Lasernavigation erstellt der Roboterstaubsauger eine interaktive Karte der Umgebung, sodass die Reinigung effizient geplant werden kann - ein Knopfdruck zum Starten genügt
-- Mit der neuartigen Bauweise reinigt der Saugroboter auch schwer erreichbare Stellen leise & gründlich / Dank Teppicherkennung unterscheidet der Sauger Teppich- & Hartböden & passt die Saugkraft an
 - Über die ECOVACS Home App können mit dem Handy virtuelle Grenzen auf der Karte gezogen werden, um Bereiche zu priorisieren oder auszulassen - der Putzroboter reinigt da, wo er gebraucht wird
 - Saugen & wischen in einem Durchgang: Mit OZMO Technologie & neuer Bauweise kombiniert der DEEBOT OZMO 920 eine stärkere Saugleistung & modernste Wischtechnik - der kleine Bruder des DEEBOT OZMO 950
+- Lieferumfang: 1 x ECOVACS DEEBOT OZMO 920 Reinigungsroboter mit Wischfunktion, 4 x Seitenbürsten, 2 x Feinstaubfilter, 1 x Ladestation, 1 x Direktabsaugung, 1 x Wassertank, 2 x Mikrofasertücher
+- Mit der neuartigen Bauweise reinigt der Saugroboter auch schwer erreichbare Stellen leise & gründlich / Dank Teppicherkennung unterscheidet der Sauger Teppich- & Hartböden & passt die Saugkraft an
+- Smart Navi 3. 0: Mit der Lasernavigation erstellt der Roboterstaubsauger eine interaktive Karte der Umgebung, sodass die Reinigung effizient geplant werden kann - ein Knopfdruck zum Starten genügt
 
 [kauf es hier!!](https://www.amazon.de/dp/B084ZR6HWN/?tag=tolees0ca-21)

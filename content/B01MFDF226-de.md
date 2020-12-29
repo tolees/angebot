@@ -25,10 +25,10 @@ Es gibt ein [PURINA GOURMET Perle Erlesene Streifen Katzenfutter nass  Sorten-Mi
 
 ℹ️:
 
-- Lieferumfang: Multipack mit 60 Einzelportionsbeuteln im 60er Pack (60 x 85g)
-- Fütterungsempfehlung: Katzenfutter in Sauce für ausgewachsene Katzen (4 kg) 3-4 Portionsbeutel pro Tag, aufgeteilt auf mindestens 2 Mahlzeiten
 - Katzenfutter Mix schonend gegart mit Huhn, Rind, Lachs und Kaninchen
+- Lieferumfang: Multipack mit 60 Einzelportionsbeuteln im 60er Pack (60 x 85g)
 - Komplett und ausgewogenes Alleinfuttermittel - Deckt die täglichen Bedürfnisse Ihrer Katze
+- Fütterungsempfehlung: Katzenfutter in Sauce für ausgewachsene Katzen (4 kg) 3-4 Portionsbeutel pro Tag, aufgeteilt auf mindestens 2 Mahlzeiten
 - Hochwertiges Nassfutter in Sauce - Ohne Zusatz künstlicher Farbstoffe, Konservierungsstoffe oder Aromastoffe
 - Nassfutter für ausgewachsene Katzen: Erlesene Streifen in Sauce
 

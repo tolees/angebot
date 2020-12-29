@@ -25,10 +25,10 @@ Sie können [Ladestation für Nintendo Switch - innoAura Tragbares Switch Ersatz
 
 ℹ️:
 
-- TRAGBAR UND LEICHT: Aufgrund seiner Größe passt es in jede Hand- und Reisetasche, und dank Plug-and-Play ist es jederzeit einsatzbereit. Trotz seiner Größe erledigt es seinen Dienst ganz genau so wie das Original Nintendo-Dock.
-- SWITCH ERSATZ: Speziell entwickeltes Dock als Ersatz für den Original Nintendo-Dock.
-- AUFLADEN WÄHREND DEM SPIELEN: Mit diesem speziellen Switch können Sie im Table-Top-Modus spielen und gleichzeitig aufladen.
 - Kühldesign: Dank seitlicher Belüftungslöcher zur Luftansaugung blockiert das Dock nicht die Lüfter des Switch und verlängert so die Lebenszeit der Konsole. Mittels One-touch Display Switching können Sie jederzeit zwischen TV-Ausgang und Gerätedisplay wechseln.
+- SWITCH ERSATZ: Speziell entwickeltes Dock als Ersatz für den Original Nintendo-Dock.
+- TRAGBAR UND LEICHT: Aufgrund seiner Größe passt es in jede Hand- und Reisetasche, und dank Plug-and-Play ist es jederzeit einsatzbereit. Trotz seiner Größe erledigt es seinen Dienst ganz genau so wie das Original Nintendo-Dock.
 - INTUITIVES DESIGN: Wenn das Video in das Fernsehgerät umgewandelt wird, wird es grün angezeigt. Wenn es auf den Schalter umgeschaltet wird, erlischt die Anzeige.
+- AUFLADEN WÄHREND DEM SPIELEN: Mit diesem speziellen Switch können Sie im Table-Top-Modus spielen und gleichzeitig aufladen.
 
 [Hier!!](https://www.amazon.de/dp/B07QXPMYWY/?tag=tolees0ca-21)

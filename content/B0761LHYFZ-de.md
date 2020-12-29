@@ -26,8 +26,8 @@ Sie können [2000 Stück 6 mm Pom Poms für Handwerk Herstellung  Hobby Bedarf u
 ℹ️:
 
 - Größe: ca. 6 mm/ 0,24 Zoll Durchmesser; Mit diesen Mini-Pompons können Sie eine Menge lustiger Bastelarbeiten erstellen
-- Anwendung: Sie können diese Bommelbälle mit Ihrer Fantasie und Kreativität verwenden, um Ihr einzigartiges Kunsthandwerk herzustellen
 - Paket: umfasst 2000 Stück winzige Pompons, die für Sie und Ihre Freunde ausreichen, um ein wunderschönes Bastelprojekt zu erstellen
+- Anwendung: Sie können diese Bommelbälle mit Ihrer Fantasie und Kreativität verwenden, um Ihr einzigartiges Kunsthandwerk herzustellen
 - Hinweis: diese Pom Poms sind klein und für Kinder unter 3 Jahren nicht geeignet
 - Verschiedene Farben: Diese bunten Pompons können als Dekorationsartikel für Puppen, Kinderprojekte und Kunsthandwerk verwendet werden
 

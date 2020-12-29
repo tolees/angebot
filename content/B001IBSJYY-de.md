@@ -25,8 +25,8 @@ Sie können [Bosch Professional 10tlg. Stichsägeblatt-Set Robust Line Wood Expe
 
 ℹ️:
 
-- Inhalt: 10-teilig
 - Stichsägeblatt mit T-Schaft
 - Farbe: silber/schwarz
+- Inhalt: 10-teilig
 
 [Hier!!](https://www.amazon.de/dp/B001IBSJYY/?tag=tolees0ca-21)
