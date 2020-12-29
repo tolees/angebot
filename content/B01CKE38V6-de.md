@@ -25,10 +25,10 @@ Es gibt ein [Panasonic SC-PM250EG-K Micro-mit HiFi-System  Bluetooth  CD  UKW  2
 
 ℹ️:
 
-- Stereo-Kompaktanlage mit Bluetooth: volle Flexibilität für alle Tablets und Smartphones
-- Uhr und Timer-Funktion
 - Mini-Anlage mit USB-Eingang für Musikwiedergabe
 - Kompaktes Musik-CD-System mit 20 W (RMS) Ausgangsleistung
+- Stereo-Kompaktanlage mit Bluetooth: volle Flexibilität für alle Tablets und Smartphones
+- Uhr und Timer-Funktion
 - Mini-HiFi-Anlage für vielseitige Programmauswahl und UKW Radio
 
 [kauf es hier!!](https://www.amazon.de/dp/B01CKE38V6/?tag=tolees0ca-21)

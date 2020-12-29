@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.76 % rabat auf TFA 30.5035.01 Smarthy Thermo-Hygrometer'
-date: 2020-12-28 08:26:10
+date: 2020-12-29 08:48:38
 image: 'https://m.media-amazon.com/images/I/31r5KftLlNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Es gibt ein [TFA 30.5035.01 Smarthy Thermo-Hygrometer  für Smartphones  Schwarz
 
 ℹ️:
 
+- Innovative App mit zusätzlichen Funktionen
+- Loggerfunktion
 - Anzeige von aktueller Temperatur und Luftfeuchtigkeit
 - Alarmfunktion
-- Loggerfunktion
 - Diagrammfunktion
-- Innovative App mit zusätzlichen Funktionen
 
 [kauf es hier!!](https://www.amazon.de/dp/B00NLBHQ34/?tag=tolees0ca-21)

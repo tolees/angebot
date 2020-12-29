@@ -25,10 +25,10 @@ Sie können [Crosstour CT9000 Action Cam Unterwasserkamera  4K 20MP WiFi Unterwa
 
 ℹ️:
 
-- Mit dem soliden wasserdichten Gehäuse erreichen Sie unter Wasser 40 Meter.
 - Mit der Fernbedienung und Wi-Fi können Sie die Kamera drahtlos steuern.
-- Ausgestattet mit 2 * 1050mAh Akkus kann jeder ca. 90 Minuten aufnehmen.
 - Crosstour Action Cam bietet professionelles 4K / 30fps-Video und 20MP-Bild.
+- Mit dem soliden wasserdichten Gehäuse erreichen Sie unter Wasser 40 Meter.
 - Verschiedene Modi zur Auswahl, wie Zeitraffervideo, Zeitlupe, Schleifenaufnahme.
+- Ausgestattet mit 2 * 1050mAh Akkus kann jeder ca. 90 Minuten aufnehmen.
 
 [Hier!!](https://www.amazon.de/dp/B07F3F63SX/?tag=tolees0ca-21)
