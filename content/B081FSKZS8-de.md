@@ -25,10 +25,10 @@ Es gibt ein [Dimian BD2012D - Plüschtier Bär Hugo Geschichtenerzähler  ca. 35
 
 ℹ️:
 
+- Interaktives Plüschtier Bär Hugo, für Kinder ab 2 Jahren, ca. 35 cm
 - Beim Erzählen bewegt er seinen Mund und öffnet und schließt seine Augen
 - Der Teddybär besteht aus weichem Plüsch (100% Polyester) und eignet sich wunderbar zum Kuscheln
-- Interaktives Plüschtier Bär Hugo, für Kinder ab 2 Jahren, ca. 35 cm
-- Hugo erzählt auf Knopfdruck das Märchen von Cinderella auf Deutsch (3 AA Batterien sind bereits enthalten)
 - Das Spielen mit dem Kuscheltier regt die Fantasie und animiert die Kinder zum Erzählen eigener Geschichten
+- Hugo erzählt auf Knopfdruck das Märchen von Cinderella auf Deutsch (3 AA Batterien sind bereits enthalten)
 
 [kauf es hier!!](https://www.amazon.de/dp/B081FSKZS8/?tag=tolees0ca-21)

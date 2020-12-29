@@ -25,9 +25,9 @@ Es gibt ein [Funko 44208 Games: Laguna POP 1 Actionfigur  Mehrfarben  Standard](
 
 ℹ️:
 
-- Schauen Sie sich jetzt die anderen Laguna-Figuren von Funko an! Sammeln Sie alle!
 - Funko POP! ist das Spielzeug des Jahres 2018
-- Von Laguna, POP 1, zur stilisierten POP-Vinyl Figur von Funko!
+- Schauen Sie sich jetzt die anderen Laguna-Figuren von Funko an! Sammeln Sie alle!
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
+- Von Laguna, POP 1, zur stilisierten POP-Vinyl Figur von Funko!
 
 [kauf es hier!!](https://www.amazon.de/dp/B07RN8DSMN/?tag=tolees0ca-21)

@@ -25,9 +25,9 @@ Sie können [Tommy Hilfiger Damen Heritage Crew Neck Graphic Tee Regular Fit T-S
 
 ℹ️:
 
-- Regular Fit
-- 100% Bio-Baumwolle
-- Kurzarm
 - Kragenform: Rundhals
+- 100% Bio-Baumwolle
+- Regular Fit
+- Kurzarm
 
 [Hier!!](https://www.amazon.de/dp/B07P8CM3RW/?tag=tolees0ca-21)

@@ -25,9 +25,9 @@ Es gibt ein [Casio Collection Herren Armbanduhr AE-1300WH-1AVEF](https://www.ama
 
 ℹ️:
 
-- 10 bar wasserdicht
 - Weltzeitfunktion
 - Batterie Lebensdauer: 10 Jahre
+- 10 bar wasserdicht
 - LED Licht
 
 [kauf es hier!!](https://www.amazon.de/dp/B00IAOLF6Q/?tag=tolees0ca-21)
