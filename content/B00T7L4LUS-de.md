@@ -25,12 +25,12 @@ Es gibt ein [Honeywell Quietset table fan](https://www.amazon.de/dp/B00T7L4LUS/?
 
 ℹ️:
 
-- 4 QuietSet Schaltstufen: 39 dB bis 52 dB für dauerhaften Komfort
-- Benutzerfreundliches Bedienfeld mit LED-Display
-- Durchmesser (Einbau/Gesamt): 20 cm
-- Flüsterleise Technologie: ideal für den nächtlichen Einsatz im Schlafzimmer
-- Elektronische Bedienelemente aus Chrom
 - 35°-Oszillation
 - Das Element hat nur eine Funktion (Geschwindigkeitsregelung)
+- Elektronische Bedienelemente aus Chrom
+- Benutzerfreundliches Bedienfeld mit LED-Display
+- Flüsterleise Technologie: ideal für den nächtlichen Einsatz im Schlafzimmer
+- 4 QuietSet Schaltstufen: 39 dB bis 52 dB für dauerhaften Komfort
+- Durchmesser (Einbau/Gesamt): 20 cm
 
 [kauf es hier!!](https://www.amazon.de/dp/B00T7L4LUS/?tag=tolees0ca-21)

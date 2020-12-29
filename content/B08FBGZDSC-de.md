@@ -26,9 +26,9 @@ Es gibt ein [CUBIDI® großer Regenbogenball mit 20 Kugeln - Geschicklichkeitssp
 ℹ️:
 
 - 👨‍👩‍👧‍👦 FÜR KINDER: Der große Regenbogenball ist gut geeignet für Kinder ab 8 Jahre oder 9 Jahre. Wenn das Kind den kleinen Ball bereits kennt kann es auch jünger sein.
-- 🙍‍🙍‍♀️ FÜR ERWACHSENE: Der Ball ist ideal für Erwachsene die ein Logikspiele für zwischendrin brauchen. Sehr gut geeignet um bei der Arbeit oder beim Lernen kurz abzuschalten.
-- 🎁 PERFEKTES GESCHENK: Du bist auf der Suche nach guten Geschenkideen? Verschenk den Ball zu jedem Anlass - ob Geburtstag, Weihnachten, Ostern oder einfach so... die Freude wird riesig sein!
 - 😉 SPANNENDES SPIELZEUG: Die bunten Kugeln des Balls sind durcheinander! Verschiebe die Kugeln und bringe sie wieder an den richtigen Platz. Das macht Spaß, ist aber ganz schön knifflig!
 - 🇩🇪 DEUTSCHER ANBIETER: CUBIDI ist eine deutsche Marke. Bei Fragen hilft dir unser freundlicher Service gerne weiter. Du wirst mit dem Kauf absolut zufrieden sein. Versprochen!
+- 🎁 PERFEKTES GESCHENK: Du bist auf der Suche nach guten Geschenkideen? Verschenk den Ball zu jedem Anlass - ob Geburtstag, Weihnachten, Ostern oder einfach so... die Freude wird riesig sein!
+- 🙍‍🙍‍♀️ FÜR ERWACHSENE: Der Ball ist ideal für Erwachsene die ein Logikspiele für zwischendrin brauchen. Sehr gut geeignet um bei der Arbeit oder beim Lernen kurz abzuschalten.
 
 [kauf es hier!!](https://www.amazon.de/dp/B08FBGZDSC/?tag=tolees0ca-21)

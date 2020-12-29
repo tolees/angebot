@@ -25,10 +25,10 @@ Sie können [Zwilling 31118-181-0 Vier Sterne Santokumesser  Rostfreier Spezials
 
 ℹ️:
 
-- HandSchutz (Kropf); Fugenloser übergang von Kropf zu Griff
-- SigmaForge Messer - aus einem Stück geschmiedet
 - Friodur Klinge, eisgehärtet
+- SigmaForge Messer - aus einem Stück geschmiedet
 - Lieferumfang: Zwilling 31118-181-0 Vier Sterne Santokumesser, 180 mm
 - Rostfreier Spezialstahl
+- HandSchutz (Kropf); Fugenloser übergang von Kropf zu Griff
 
 [Hier!!](https://www.amazon.de/dp/B000SI9USW/?tag=tolees0ca-21)

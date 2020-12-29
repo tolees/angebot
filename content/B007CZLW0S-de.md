@@ -25,10 +25,10 @@ Es gibt ein [Zeppelin Herren-Armbanduhr XL LZ 129 Hindenburg Analog Quarz Leder 
 
 ℹ️:
 
-- Armbandfarbe: schwarz
-- speziell gewölbtes Hesalitglas
 - wasserdicht bis 3 bar
-- Funktion: Tagesdatum
+- speziell gewölbtes Hesalitglas
 - Edelstahl-Quarz-Uhr mit Leder-Armband und Dornschließe
+- Armbandfarbe: schwarz
+- Funktion: Tagesdatum
 
 [kauf es hier!!](https://www.amazon.de/dp/B007CZLW0S/?tag=tolees0ca-21)
