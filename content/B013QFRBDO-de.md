@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gigaset S850HX Universal-Mobilteil – Sch mit 32.10 % Rabatt'
-date: 2020-12-25 22:54:28
+date: 2020-12-29 06:20:17
 image: 'https://m.media-amazon.com/images/I/41ynDsxs1LL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B013QFRBDO/?tag=tolees0ca-21'
 descuento: '32.10'
-average: '53.027794117647055'
+average: '53.025571428571425'
 ---
 
 Sie können [Gigaset S850HX Universal-Mobilteil – Schnurloses IP-Telefon  zum Anschluss an Basisstation oder Router – Mobilteil mit innovativer Technologie in hochwertigem Design  platin-schwarz](https://www.amazon.de/dp/B013QFRBDO/?tag=tolees0ca-21) mit Preis 52.95 EUR (original: 77.98 EUR) 32.10 % Rabatt hier:
@@ -25,10 +25,10 @@ Sie können [Gigaset S850HX Universal-Mobilteil – Schnurloses IP-Telefon  zum 
 
 ℹ️:
 
-- Schnell verbunden – Die Ladeschale mit der Steckdose verbinden und am Mobilteil Router oder Basisstation auswählen – Das IP-Telefon kann sofort eingerichtet werden
-- Qualität made in Germany – Das S850HX wird in Deutschland hergestellt – die DECT-Technologie sorgt für ideale Gesprächsqualität und der ECO-Dect Mode reduziert Strahlung und Verbrauch
 - Komfortable Funktionen – Das Telefon besitzt eine intuitive Menüführung, ein brillantes Farbdisplay mit hohem Kontrast, exzellente Sprach-Qualität und bietet Platz für 500 Kontakte
 - Viele Anschlussmöglichkeiten – Das Mobilteil kann an alle Gigaset Basen, DECT- / GAP- Basen, Router (mit und ohne CAT-iq) verschiedener Hersteller angeschlossen werden
 - Technik trifft Design – Das Design zeichnet sich durch hochwertige Verarbeitung und Metall-Applikationen aus – dank Bluetooth werden Ihre Kontakte vom PC auf Ihr Telefon synchronisiert
+- Qualität made in Germany – Das S850HX wird in Deutschland hergestellt – die DECT-Technologie sorgt für ideale Gesprächsqualität und der ECO-Dect Mode reduziert Strahlung und Verbrauch
+- Schnell verbunden – Die Ladeschale mit der Steckdose verbinden und am Mobilteil Router oder Basisstation auswählen – Das IP-Telefon kann sofort eingerichtet werden
 
 [Hier!!](https://www.amazon.de/dp/B013QFRBDO/?tag=tolees0ca-21)

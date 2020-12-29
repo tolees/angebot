@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '25.16 % rabat auf TP-Link Gigabit WLAN WiFi Powerline Adap'
-date: 2020-12-24 16:33:12
+date: 2020-12-29 06:19:40
 image: 'https://m.media-amazon.com/images/I/41F3yTDxE7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B01F44TDI6/?tag=tolees0ca-21'
 descuento: '25.16'
-average: '117.90048387096772'
+average: '117.91777777777776'
 ---
 
 Es gibt ein [TP-Link Gigabit WLAN WiFi Powerline Adapter Set mit Steckdose AV1300 AC1350 TL-WPA8630P KIT  ideal für Media-Streaming  Wifi Clone  MU-MIMO  App Steuerung  4 Gigabit Ports  Plug & Play  AP Modus  weiß](https://www.amazon.de/dp/B01F44TDI6/?tag=tolees0ca-21) mit aktuellem Preis 118.99 EUR (original: 159.0 EUR) 25.16 % Rabatt hier:
@@ -25,10 +25,8 @@ Es gibt ein [TP-Link Gigabit WLAN WiFi Powerline Adapter Set mit Steckdose AV130
 
 ℹ️:
 
-- Lieferumfang: 2 Powerline-Adapter TL-WPA8630P WLAN Starter Kit, 2m-RJ45-Ethernetkabel, CD, Schnellinstallationsanleitung
-- Wi-Fi Clone: Installation ohne Konfiguration durch Übernahme der WLAN- Einstellungen auf Tastendruck, Frontsteckdose für mehr Flexibilität
-- WiFi Clone : Einfaches Hinzufügen von neuen Adaptern zum Netzwerk; Gigabit-LAN-Ports zum Anschließen von Fernsehern, Spielekonsolen usw.
-- Simultanes Dualband nach 802.11ac mit AC1350: Bis zu 450 MB auf 2,4 GHz und 867 MB auf 5 GHz, ideal für unterbrechungsfreies HD-Videostreaming und Online-Gaming
-- Bis zu 1,3 GB nach dem neuen Standard Homeplug AV2 über bestehende Stromleitungen; Einfache Installation dank Plug und Play
+- 802.11ac simultaneous dual band with AC1200: Up to 300MB at 2.4GHz and 867MB at 5GHz, ideal for uninterrupted HD video streaming and online gaming
+- Wi-Fi Clone: ​​Installation without configuration by adopting the WLAN settings at the press of a button, front socket for more flexibility
+- Up to 1.2 GB according to the new standard Homeplug AV2 over existing power lines; Easy installation thanks to plug and play
 
 [kauf es hier!!](https://www.amazon.de/dp/B01F44TDI6/?tag=tolees0ca-21)
