@@ -25,10 +25,10 @@ Sie können [Jacobs Kaffeebohnen Barista Editions Crema  1 kg Bohnenkaffee](http
 
 ℹ️:
 
-- Erste Wahl für Caffè Crema, Caffè Latte oder Café au lait
 - Sanfter und ausgewogener Geschmack mit einem Hauch Zitrus- ideal für die Zubereitung mit Kaffeevollautomat, Siebträger oder French Press.
-- Lieferumfang 1x 1000g Packung
 - Sorgfältig und schonend im Trommelröster geröstet
 - Kaffee vom Barista inspiriert: hochwertige Mischung aus den besten Anbaugebieten der Welt.
+- Erste Wahl für Caffè Crema, Caffè Latte oder Café au lait
+- Lieferumfang 1x 1000g Packung
 
 [Hier!!](https://www.amazon.de/dp/B079VXVMPN/?tag=tolees0ca-21)

@@ -25,10 +25,10 @@ Es gibt ein [Alessi 6 Stück Dessertlöffel Nuovo Milano glänzend](https://www.
 
 ℹ️:
 
-- Dimensionen: Länge 19.5 cm
-- Materialen: Edelstahl 18/10
+- Designer: Ettore Sottsass
 - Reinigung: spülmaschinenfest
 - Der Dessertlöffel der Serie Nuovo Milano hat eine besonders runde Schale und einen glatten Griff, der sich angenehm anfühlt
-- Designer: Ettore Sottsass
+- Materialen: Edelstahl 18/10
+- Dimensionen: Länge 19.5 cm
 
 [kauf es hier!!](https://www.amazon.de/dp/B000PKFPZA/?tag=tolees0ca-21)
