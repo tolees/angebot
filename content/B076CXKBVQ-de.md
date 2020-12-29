@@ -25,10 +25,10 @@ Es gibt ein [Tommy Hilfiger Herren CORE Stretch Slim Oxford Freizeithemd  Blau  
 
 ℹ️:
 
-- Linie: Tommy Hilfiger - Slim Fit
-- Armlänge: Langarm - normal
 - Tommy Hilfiger Herren Hemd Button Down Kragen Langarm Slim Fit Sportmanschette geknöpft Logo-Stick Uni hellblau
 - Kragenform: Button Down
 - Manschette: Sportmanschette
+- Armlänge: Langarm - normal
+- Linie: Tommy Hilfiger - Slim Fit
 
 [kauf es hier!!](https://www.amazon.de/dp/B076CXKBVQ/?tag=tolees0ca-21)
