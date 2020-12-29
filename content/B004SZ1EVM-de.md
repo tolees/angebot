@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel EnerGel X BL107-AX Gel-Tintenroll mit 26.67 % Rabatt'
-date: 2020-12-28 10:18:25
+date: 2020-12-29 11:02:00
 image: 'https://m.media-amazon.com/images/I/21uHPtbOXAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B004SZ1EVM/?tag=tolees0ca-21'
 descuento: '26.67'
-average: '1.480847457627118'
+average: '1.4818333333333327'
 ---
 
 Sie können [Pentel EnerGel X BL107-AX Gel-Tintenroller  schwarz  0 7 mm Strichstärke  Druckmechanik  nachfüllbar](https://www.amazon.de/dp/B004SZ1EVM/?tag=tolees0ca-21) mit Preis 1.54 EUR (original: 2.1 EUR) 26.67 % Rabatt hier:

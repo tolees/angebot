@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'edc by ESPRIT Damen 997CC1B821 Straight  mit 40.01 % Rabatt'
-date: 2020-12-27 22:09:09
+date: 2020-12-29 11:09:31
 image: 'https://m.media-amazon.com/images/I/41LT-QsEu3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,6 @@ Sie können [edc by ESPRIT Damen 997CC1B821 Straight Jeans  Blue Dark Wash 901  
 
 ℹ️:
 
-- Bund mit Schlaufen, Logo-Knopf und Zipper
-- 5-Pocket-Style mit Zipper-Münzfach
-- 98% Baumwolle, davon 33% Bio-Baumwolle
-- Grösseninfo: Bei Gr. 27/32 (kann je Gr. leicht variieren): Innenbeinlänge: ca. 83 cm
-- Beinöffnung: ca. 34 cm
+- Straight Jeans
 
 [Hier!!](https://www.amazon.de/dp/B0758J5MFW/?tag=tolees0ca-21)

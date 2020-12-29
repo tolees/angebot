@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOM TAILOR Umhängetasche Damen Juna  Rot mit 24.45 % Rabatt'
-date: 2020-12-27 22:16:05
+date: 2020-12-29 11:15:41
 image: 'https://m.media-amazon.com/images/I/51mLZygqZHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,6 +25,6 @@ Sie können [TOM TAILOR Umhängetasche Damen Juna  Rot  Rose   10x28x30 cm  TOM 
 
 ℹ️:
 
-- Kein Henkel, verstellbarer, fixierter Tragegurt
+- No handle, adjustable, fixed carrying strap.
 
 [Hier!!](https://www.amazon.de/dp/B079NYNPCG/?tag=tolees0ca-21)
