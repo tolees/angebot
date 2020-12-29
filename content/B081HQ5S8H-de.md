@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '18.97 % rabat auf PLAYMOBIL City Action 70441 RC-Baukran m'
-date: 2020-12-27 03:46:23
+date: 2020-12-28 23:14:38
 image: 'https://m.media-amazon.com/images/I/61HfAfQ0k-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B081HQ5S8H/?tag=tolees0ca-21'
 descuento: '18.97'
-average: '79.05592592592593'
+average: '79.05321428571429'
 ---
 
 Es gibt ein [PLAYMOBIL City Action 70441 RC-Baukran mit Bauteil  Inkl. Fernbedienung  Ab 5 Jahren](https://www.amazon.de/dp/B081HQ5S8H/?tag=tolees0ca-21) mit aktuellem Preis 78.98 EUR (original: 97.47 EUR) 18.97 % Rabatt hier:
@@ -25,10 +25,10 @@ Es gibt ein [PLAYMOBIL City Action 70441 RC-Baukran mit Bauteil  Inkl. Fernbedie
 
 ℹ️:
 
-- Lieferumfang: 1x PLAYMOBIL City Action RC-Baukran mit Bauteil, 80-teiliges Spielfiguren-Set mit Anleitung: 1 Baukran, 1 Fernbedienung, 2 Figuren, 76 Zubehörteile, Material: Kunststoff, LxTxH (Kran): ca. 69x32x101 cm, Gewicht: ca. 2,2 kg, 70441
 - Für fleißige Bauarbeiter: PLAYMOBIL RC-Baukran mit Bauteil, Stahlträger, Baumaterial sowie Kranführer und Architektin für detailgetreues Nachspielen
-- Spielfiguren-Set für Kinder ab 5 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
-- IR-Fernbedienung mit Kanalwechselschalter zum Bedienen von 4 Kränen gleichzeitig, Kombinierbar mit Hausmodulen aus 70442 Seilbagger / 70443 Minibagger
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
+- IR-Fernbedienung mit Kanalwechselschalter zum Bedienen von 4 Kränen gleichzeitig, Kombinierbar mit Hausmodulen aus 70442 Seilbagger / 70443 Minibagger
+- Lieferumfang: 1x PLAYMOBIL City Action RC-Baukran mit Bauteil, 80-teiliges Spielfiguren-Set mit Anleitung: 1 Baukran, 1 Fernbedienung, 2 Figuren, 76 Zubehörteile, Material: Kunststoff, LxTxH (Kran): ca. 69x32x101 cm, Gewicht: ca. 2,2 kg, 70441
+- Spielfiguren-Set für Kinder ab 5 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 
 [kauf es hier!!](https://www.amazon.de/dp/B081HQ5S8H/?tag=tolees0ca-21)

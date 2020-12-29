@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Damen Heritage Crew Neck  mit 46.66 % Rabatt'
-date: 2020-12-27 22:01:41
+date: 2020-12-28 22:55:32
 image: 'https://m.media-amazon.com/images/I/310MlpM7cOL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Sie können [Tommy Hilfiger Damen Heritage Crew Neck Graphic Tee Regular Fit T-S
 
 ℹ️:
 
-- Kurzarm
-- 100% Bio-Baumwolle
 - Regular Fit
+- 100% Bio-Baumwolle
+- Kurzarm
 - Kragenform: Rundhals
 
 [Hier!!](https://www.amazon.de/dp/B07P8CM3RW/?tag=tolees0ca-21)
