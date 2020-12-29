@@ -25,12 +25,12 @@ Sie können [KOSMOS 695071 EXIT - Das Spiel - Die Känguru-Eskapaden  für Fans 
 
 ℹ️:
 
+- Highlight für Känguru-Fans: Marc-Uwe Kling spricht in der App die Texte zum Spiel und begleitet die Spieler so durch die gesamte Story. Zudem: Timer mit toller Atmosphäre zum jeweiligen Kapitel
+- Optional begleitend zum Spiel: Die kostenlose KOSMOS Erklär-App ermöglicht Spielen ohne Regeln zu lesen. Das Spiel kann auch ohne App gespielt werden
+- Neues von EXIT - Das Spiel: Ein Abenteuer in der Welt der Känguru-Bestseller von Marc-Uwe Kling
+- Spiel für Erwachsene und Kinder ab 12 Jahren. Für 1-4 Spieler
 - Mit Rätseln auf dem Level Fortgeschrittene
 - Tolles Partyspiel und ideales Geburtstagsgeschenk für alle Känguru-Fans
-- Spiel für Erwachsene und Kinder ab 12 Jahren. Für 1-4 Spieler
-- Neues von EXIT - Das Spiel: Ein Abenteuer in der Welt der Känguru-Bestseller von Marc-Uwe Kling
-- Optional begleitend zum Spiel: Die kostenlose KOSMOS Erklär-App ermöglicht Spielen ohne Regeln zu lesen. Das Spiel kann auch ohne App gespielt werden
 - Das Escape-Room-Spiel für zu Hause
-- Highlight für Känguru-Fans: Marc-Uwe Kling spricht in der App die Texte zum Spiel und begleitet die Spieler so durch die gesamte Story. Zudem: Timer mit toller Atmosphäre zum jeweiligen Kapitel
 
 [Hier!!](https://www.amazon.de/dp/B07MCW5FFQ/?tag=tolees0ca-21)

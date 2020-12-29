@@ -25,9 +25,9 @@ Sie können [Funko 49660 POP Dragon Ball Z Advent Calendar  Mehrfarben](https://
 
 ℹ️:
 
-- Sammeln Sie sie alle?
-- Funko POP! Ist 2018 das beliebteste Spielzeug des Jahres
-- 24 Überraschungen täglich bis Weihnachten
 - Funko Pocket POP Dragon Ball Z Adventskalender
+- Funko POP! Ist 2018 das beliebteste Spielzeug des Jahres
+- Sammeln Sie sie alle?
+- 24 Überraschungen täglich bis Weihnachten
 
 [Hier!!](https://www.amazon.de/dp/B084R1RPQM/?tag=tolees0ca-21)
