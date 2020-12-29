@@ -25,10 +25,10 @@ Es gibt ein [Pentel Tintenroller R50-C "Ball Pentel" 0 4mm  12 Stück  blau](htt
 
 ℹ️:
 
-- Lieferumfang: 12 Stück
-- Charakteristischer grüner Schaft mit plastikgefederter Schreibspitze
-- Gleichmäßig fließende Tinte auf Wasserbasis, nicht nachfüllbar
 - Der Pentel-Klassiker und Kult! Ball Pentel - der erste Tintenroller der Welt
+- Gleichmäßig fließende Tinte auf Wasserbasis, nicht nachfüllbar
+- Lieferumfang: 12 Stück
 - Strichstärke 0,4mm in Schreibfarbe blau
+- Charakteristischer grüner Schaft mit plastikgefederter Schreibspitze
 
 [kauf es hier!!](https://www.amazon.de/dp/B000SHP2Y4/?tag=tolees0ca-21)

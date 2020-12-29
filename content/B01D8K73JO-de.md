@@ -26,9 +26,9 @@ Sie können [MUSTANG Herren Regular Fit Michigan Straight Jeans](https://www.ama
 ℹ️:
 
 - Knöpfe als Verschluss
-- Mit Vintage-Waschung
-- Leger geschnittene Jeans mit mittelhohem Bund und geradem Beinverlauf
 - Aus Baumwolle und Elasthan
+- Leger geschnittene Jeans mit mittelhohem Bund und geradem Beinverlauf
 - 5-Pocket-Stil
+- Mit Vintage-Waschung
 
 [Hier!!](https://www.amazon.de/dp/B01D8K73JO/?tag=tolees0ca-21)

@@ -26,9 +26,9 @@ Sie können [Vans Damen Ward Suede/Canvas Sneaker  Schwarz   Suede/Canvas  Black
 ℹ️:
 
 - Innensohle: Textil, weich gepolstert
+- Absatzhöhe: 0 - 3 cm
+- Schuhspitze: rund
 - Muster: Mehrfarbig
 - Passform: normal
-- Schuhspitze: rund
-- Absatzhöhe: 0 - 3 cm
 
 [Hier!!](https://www.amazon.de/dp/B078PNV3QH/?tag=tolees0ca-21)

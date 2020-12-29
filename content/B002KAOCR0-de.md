@@ -25,9 +25,9 @@ Es gibt ein [Crocs Unisex-Erwachsene Crocband Clogs  Navy  45/46 EU](https://www
 
 ℹ️:
 
-- Numerous ventilation openings
 - CROSLITE for feather-light padding and comfort
-- Fold-over heel strap
+- Numerous ventilation openings
 - Comfortable fit with some space for the foot
+- Fold-over heel strap
 
 [kauf es hier!!](https://www.amazon.de/dp/B002KAOCR0/?tag=tolees0ca-21)
