@@ -25,10 +25,10 @@ Es gibt ein [Kappa Herren Till Trainingsanzug  Blue Aster  S](https://www.amazon
 
 ℹ️:
 
-- Für viele Gelegenheiten: der authentisch klassiche Look macht sowohl als Streetwear, beim Sport oder als Anzug im Allt eine gute Figur
+- Pflegeleicht: Nach dem Tragen kann die Hose einfach bei 40 Grad in der Waschmaschine gewaschen werden
 - Viele Grössen: die Kappa Trainingshose ist modisch und bequem. M oder Jungs von Größe S bis XXL finden hier garantiert die passende Kleidung für sich
+- Für viele Gelegenheiten: der authentisch klassiche Look macht sowohl als Streetwear, beim Sport oder als Anzug im Allt eine gute Figur
 - Bequem und sportlich: Die besonders weiche Baumwoll-Mischung ist strapazierfähig und formstabil. Der ELASTISCHE Hosenbund und einem Bund an den Knöcheln, sorgen für ein angenehmes Tragegefühl
 - Lässig angezogen: Sports meets Lifestyle. Der Trainingsanzug till der Marke Kappa ist schlicht und modisch mit dezentem kappa-logodruck auf Jacke und Hose
-- Pflegeleicht: Nach dem Tragen kann die Hose einfach bei 40 Grad in der Waschmaschine gewaschen werden
 
 [kauf es hier!!](https://www.amazon.de/dp/B08FN14J2T/?tag=tolees0ca-21)
