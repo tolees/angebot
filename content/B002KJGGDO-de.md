@@ -25,13 +25,13 @@ Es gibt ein [Hudson RELAX COTTON Herren Socken  Baumwollsocken Herren ohne Gummi
 
 ℹ️:
 
-- Pflegehinweis: Maschinenwäsche
-- Gekettelte Fußpitze, Herren
-- Abschluss ohne Gummifäden
+- 97% Baumwolle 3% Elasthan
+- Modellnummer: 004400 Relax Cotton Socke
 - Einfarbig
 - Baumwolle, super blickdicht
-- Modellnummer: 004400 Relax Cotton Socke
-- 97% Baumwolle 3% Elasthan
+- Gekettelte Fußpitze, Herren
+- Pflegehinweis: Maschinenwäsche
 - Eingestrickte Ferse (Pendelferse), verstärkte Fußspitze
+- Abschluss ohne Gummifäden
 
 [kauf es hier!!](https://www.amazon.de/dp/B002KJGGDO/?tag=tolees0ca-21)
