@@ -25,9 +25,9 @@ Es gibt ein [camel active Herren 488815/9524 Jeans  Blau  Stone Blue Used 42   W
 
 ℹ️:
 
-- hochwertige Materialqualität mit Elasthan-Anteil
-- besondere Waschung für einen tollen Look
-- klassisches 5-Pocket-Design
 - Houston - eine Herren 5 Pocket Jeans von camel active
+- hochwertige Materialqualität mit Elasthan-Anteil
+- klassisches 5-Pocket-Design
+- besondere Waschung für einen tollen Look
 
 [kauf es hier!!](https://www.amazon.de/dp/B00K8OVOYY/?tag=tolees0ca-21)

@@ -25,10 +25,10 @@ Es gibt ein [Energiespar Deckenventilator Tibu von Pepeo  132 cm  mit Fernbedien
 
 ℹ️:
 
-- 132 cm Flügel Durchmesser für Räume bis zu 25 m² / Deckenventilatoren Gehäuse in edlem schwarz Flügel in edlem rotbraun - Installation an Schrägen möglich
-- moderner Deckenventilator mit Deckenlampe und Fernsteuerung mit neuester, geräuscharmer und energiesparender Gleichstromtechnik
-- dimmbare LED Deckenleuchte mit bis zu 2200 Lumen in warmweißer Lichtfarbe
 - Fernbedienung zur Steuerung des Ventilators in 5 Stufen, Licht An/ Aus sowie dimmen und Laufrichtungssteuerung (bis zu 30 % Ersparnis bei den Heizkosten möglich)
+- dimmbare LED Deckenleuchte mit bis zu 2200 Lumen in warmweißer Lichtfarbe
+- 132 cm Flügel Durchmesser für Räume bis zu 25 m² / Deckenventilatoren Gehäuse in edlem schwarz Flügel in edlem rotbraun - Installation an Schrägen möglich
 - bis zu 16.310 m³/h Luftleistung bei maximal 38 Watt Stromaufnahme (hohe Wattleistung von 429 m³/h je eingesetzte Wattstunde)
+- moderner Deckenventilator mit Deckenlampe und Fernsteuerung mit neuester, geräuscharmer und energiesparender Gleichstromtechnik
 
 [kauf es hier!!](https://www.amazon.de/dp/B07GQ5TKC2/?tag=tolees0ca-21)

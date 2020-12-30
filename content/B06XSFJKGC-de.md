@@ -25,10 +25,10 @@ Es gibt ein [Premium-Filzstift - STABILO Pen 68 - 15er Pack - Pastelfarben](http
 
 ℹ️:
 
-- Hohe Farbbrillanz und Leuchtkraft
-- Erhältlich in 47 Farben - inkl. 6 Leuchtfarben
-- Farbintensiver Premium-Filzstift in Pastel Farben
 - Bis zu 24 Stunden Austrocknungsschutz ohne Kappe
+- Hohe Farbbrillanz und Leuchtkraft
+- Farbintensiver Premium-Filzstift in Pastel Farben
+- Erhältlich in 47 Farben - inkl. 6 Leuchtfarben
 - Robuste Spitze (Strichstärke: 1 mm)
 
 [kauf es hier!!](https://www.amazon.de/dp/B06XSFJKGC/?tag=tolees0ca-21)

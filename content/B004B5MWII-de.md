@@ -25,10 +25,10 @@ Sie können [Alpina Unisex - Erwachsene Skibrille Smash 2.0 DH  Rahmenfarbe: Whi
 
 ℹ️:
 
-- Doubleflex Scheibentechnologie DLH; 20% mehr Beschlagfreiheit
 - Eine flexible Thermodoppelscheibe in Verbindung mit Thermoblock und Thermobarriere und die Fogstopbeschichtung ermöglichen eine Beschlagfreiheit
 - Spezialcoating auf den beiden Innenseiten der Doppelscheibe
-- Luftkörper zwischen den Scheiben
 - 100% UV-A, B und C Schutz
+- Luftkörper zwischen den Scheiben
+- Doubleflex Scheibentechnologie DLH; 20% mehr Beschlagfreiheit
 
 [Hier!!](https://www.amazon.de/dp/B004B5MWII/?tag=tolees0ca-21)

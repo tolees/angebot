@@ -25,10 +25,10 @@ Es gibt ein [Prepara 3040-fr EVAK Aufbewahrungsbox Hohe Kunststoff weiß/transpa
 
 ℹ️:
 
-- Leere Box D Air
 - Weiß
-- Ideale Erhaltung
+- Leere Box D Air
 - Klassische
 - 1 l
+- Ideale Erhaltung
 
 [kauf es hier!!](https://www.amazon.de/dp/B01IE9WVS2/?tag=tolees0ca-21)
