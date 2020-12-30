@@ -25,10 +25,10 @@ Es gibt ein [SIGEL GL157 kleines Glas-Magnetboard 30 x 30 cm schwarz / Magnettaf
 
 ℹ️:
 
-- Stylische Alternative zur Pinnwand: designprämierte Glas-Magnettafel, die als Memoboard in Küche, Flur oder Homeoffice die Organisation übernimmt – magnethaftend und beschreibbar.
+- Tipp: Zum Beschriften empfehlen wir die weißen Glasboardmarker von Sigel (Art.-Nr. GL715)
+- Kleines Glasboard aus Sicherheitsglas / Tempered Glas (ESG, EN 12150-1), Produkt TÜV- und GS-geprüft (SGS TÜV Saar). Feucht und trocken abwischbar. Schwebender 3D-Look durch rahmenlose Aufhängung.
 - 25 Jahre Garantie auf die Glasoberfläche bei Verwendung von Sigel-Zubehör (weitere Infos im anhängenden PDF unter "Technische Details"). Bitte beachten: es werden starke Neodym- / SuperDym-Magnete benötigt (normale Magnete, z. B. für Kühlschränke halten auf Glas-Magnettafeln nicht).
 - Einfache Montage, Lieferung incl. zwei haftstarke SuperDym- / Neodym-Magnete im Cube-Design Silber (Art.-Nr. GL192), Befestigungsmaterial, Montageanleitung (auch hier zum Download) und Bohrschablone.
-- Kleines Glasboard aus Sicherheitsglas / Tempered Glas (ESG, EN 12150-1), Produkt TÜV- und GS-geprüft (SGS TÜV Saar). Feucht und trocken abwischbar. Schwebender 3D-Look durch rahmenlose Aufhängung.
-- Tipp: Zum Beschriften empfehlen wir die weißen Glasboardmarker von Sigel (Art.-Nr. GL715)
+- Stylische Alternative zur Pinnwand: designprämierte Glas-Magnettafel, die als Memoboard in Küche, Flur oder Homeoffice die Organisation übernimmt – magnethaftend und beschreibbar.
 
 [kauf es hier!!](https://www.amazon.de/dp/B00JOBFVHS/?tag=tolees0ca-21)

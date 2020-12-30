@@ -25,10 +25,10 @@ Es gibt ein [Tommy Hilfiger Herren Analog Quarz Uhr mit Edelstahl beschichtet Ar
 
 ℹ️:
 
+- Gehäusedurchmesser: 48 mm
 - Wasserdichtigkeit: 5 bar
 - Gehäusematerial: Edelstahl Grau/Lünette Grau
 - Ziffernblatt: Grau mit Leuchtzeigern, silbernen Indizes und blauen Elementen
 - Armbandmaterial: Edelstahl Grau
-- Gehäusedurchmesser: 48 mm
 
 [kauf es hier!!](https://www.amazon.de/dp/B01MZ6G90E/?tag=tolees0ca-21)
