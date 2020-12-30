@@ -26,8 +26,8 @@ Es gibt ein [Birkenstock Classic BOSTON Unisex-Erwachsene Clogs  Braun  Habana  
 ℹ️:
 
 - Material: Nubukleder geölt
-- Type: Clog
 - Farbe: habana
 - Weitere Informationen: Core
+- Type: Clog
 
 [kauf es hier!!](https://www.amazon.de/dp/B000MSY4AC/?tag=tolees0ca-21)
