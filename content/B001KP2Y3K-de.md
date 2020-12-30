@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bare Bones mit 46.03 % Rabatt'
-date: 2020-12-29 17:36:40
+date: 2020-12-30 17:46:50
 image: 'https://m.media-amazon.com/images/I/313XGWm0KkL._SL200_.jpg'
 comments: true
 category: ofertas

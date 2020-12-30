@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75257 Star Wars Millennium Falcon R mit 16.65 % Rabatt'
-date: 2020-12-29 11:08:32
+date: 2020-12-30 18:00:26
 image: 'https://m.media-amazon.com/images/I/51zyvQhbHVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07NDB4Q7S/?tag=tolees0ca-21'
 descuento: '16.65'
-average: '130.3913879003559'
+average: '130.38855123674915'
 ---
 
 Sie können [LEGO 75257 Star Wars Millennium Falcon Raumschiff Bauset mit Finn  Chewbacca  Lando Calrissian  Boolio  C-3PO  R2-D2 und D-O  Der Aufstieg Skywalkers Kollektion](https://www.amazon.de/dp/B07NDB4Q7S/?tag=tolees0ca-21) mit Preis 129.99 EUR (original: 155.96 EUR) 16.65 % Rabatt hier:
@@ -25,10 +25,10 @@ Sie können [LEGO 75257 Star Wars Millennium Falcon Raumschiff Bauset mit Finn  
 
 ℹ️:
 
-- Dieses coole, detailverliebte LEGO Bauspielzeug für Jungen und Mädchen ab 9 Jahren ist mit seinen 1.351 Teilen 14 cm hoch, 44 cm lang und 32 cm breit
 - Dieses Modell des corellianischen Frachters aus dem Blockbuster Star Wars: Der Aufstieg Skywalkers ist zudem mit abnehmbaren Dachelementen ausgestattet, die den Zugang zum Inneren erleichtern
 - Der Millennium Falcon ist eine wahre Ikone aus dem Universum von LEGO Star Wars und die ideale Inspirationsquelle für Fans
-- 7 Charaktere von LEGO Star Wars warten darauf, epische Abenteuer zu erleben: Minifiguren von Finn, Chewbacca, Lando Calrissian, C-3PO und Boolio sowie LEGO Figuren der Fanlieblinge D-O und R2-D2
 - Der Millennium Falcon beeindruckt Fans jeden Alters, unter anderem mit drehbaren Geschütztürmen an der Ober- und Unterseite, 2 Shootern mit Federmechanismus und einem aufklappbaren Cockpit
+- 7 Charaktere von LEGO Star Wars warten darauf, epische Abenteuer zu erleben: Minifiguren von Finn, Chewbacca, Lando Calrissian, C-3PO und Boolio sowie LEGO Figuren der Fanlieblinge D-O und R2-D2
+- Dieses coole, detailverliebte LEGO Bauspielzeug für Jungen und Mädchen ab 9 Jahren ist mit seinen 1.351 Teilen 14 cm hoch, 44 cm lang und 32 cm breit
 
 [Hier!!](https://www.amazon.de/dp/B07NDB4Q7S/?tag=tolees0ca-21)

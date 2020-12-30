@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76160 Super Heroes DC Batman Mobile mit 22.26 % Rabatt'
-date: 2020-12-29 05:57:09
+date: 2020-12-30 17:54:19
 image: 'https://m.media-amazon.com/images/I/51cjJXd7NeL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B0813QWS7K/?tag=tolees0ca-21'
 descuento: '22.26'
-average: '65.05915789473681'
+average: '65.0917708333333'
 ---
 
 Sie können [LEGO 76160 Super Heroes DC Batman Mobile Batbasis  Truck Spielzeug mit Batjet  Batquad  Motorrad und Wasserflitzer](https://www.amazon.de/dp/B0813QWS7K/?tag=tolees0ca-21) mit Preis 68.19 EUR (original: 87.72 EUR) 22.26 % Rabatt hier:
@@ -25,10 +25,10 @@ Sie können [LEGO 76160 Super Heroes DC Batman Mobile Batbasis  Truck Spielzeug 
 
 ℹ️:
 
-- The high-tech truck is packed with exciting hidden features, there is even an onboard jail and an explosion feature for escaping villains
-- The Mobile Bat Base toy trucks opening roof and side provide easy access to Batman’s Batcave accessories and all detachable vehicles
-- It’s a great ‘build your own truck’ birthday gift for all children aged 6 and up who enjoy imaginative play, not just for Batman movie fans
-- Kids join Batman, Batgirl and Nightwing minifigures on the hunt for notorious Super-Villains Mr Freeze, Man-Bat and Bronze Tiger
-- Features a buildable "Batcave on wheels" toy truck, with 4 vehicles: a Batjet, BatQuad, motorcycle, and a water scooter, plus 6 minifigures
+- Nicht nur Fans der Batman Filme werden begeistert sein, wenn sie dieses Bauspielzeug geschenkt bekommen. Das Set mit einem Truck zum Selberbauen ist ein tolles Geschenk für Kinder ab 6 Jahren, die beim Spielen gerne der Fantasie freien Lauf lassen
+- Das LEGO DC Spielset „Mobile Batbasis“ (76160) enthält jede Menge legendäre Fahrzeuge, starke Gadgets und coole Ausrüstung, damit Kinder Batman und Batgirl helfen können, 3 berüchtigte Superschurken zu fangen
+- Die Mobile Batbasis ist 38 cm lang. Das Fahrzeug hat also die richtige Größe, um Kinder aktiv spielen zu lassen und alles an Bord zu haben, was Kinder für spannende Superhelden-Abenteuer benötigen
+- Das Dach und die Seite des Trucks lassen sich aufklappen, um leichten Zugang zum Zubehör in Batmans Batcave zu bieten. Es gibt viel zu entdecken – und die 6 Minifiguren aus den Batman Filmen ermöglichen unzählige fantasievolle Abenteuer
+- Diese ,Batcave auf Rädern’ enthält einen Batjet, ein BatQuad, ein Motorrad, einen Wasserflitzer, einen Truck und 6 Minifiguren aus den Batman Filmen: Batman, Batgirl, Nightwing, Mr. Freeze, Man-Bat und Bronze Tiger
 
 [Hier!!](https://www.amazon.de/dp/B0813QWS7K/?tag=tolees0ca-21)
