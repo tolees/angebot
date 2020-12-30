@@ -25,10 +25,10 @@ Sie können [Lacoste Armbanduhr 2011010](https://www.amazon.de/dp/B07KTPQ5T1/?ta
 
 ℹ️:
 
+- Schwarzes Silikonarmband mit petit piqué Muster
+- Wasserabweisend bis 5 bar
 - Gehäusedicke 10,1 mm
 - 3-Zeiger-Uhrwerk
-- Wasserabweisend bis 5 bar
 - Schwarz Zifferblatt
-- Schwarzes Silikonarmband mit petit piqué Muster
 
 [Hier!!](https://www.amazon.de/dp/B07KTPQ5T1/?tag=tolees0ca-21)

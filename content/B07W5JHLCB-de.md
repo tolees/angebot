@@ -25,10 +25,10 @@ Sie können [Logitech MX Anywhere 3 kompakte  leistungsstarke Maus – Kabellos 
 
 ℹ️:
 
-- USB-C: Die Batterie hält voll geladen bis zu 70 Tage. Dank Schnellladung kannst du die Maus schon nach einer Minute Aufladen für drei Stunden verwenden. Gleichzeitig Laden & Nutzen mit dem USB-C-Kabel
-- MAGSPEED: Scrolle bis zu 1.000 Zeilen in einer Sekunde & stoppe pixelgenau. MagSpeed verbindet Präzision mit Lautlosigkeit, wechsle zwischen zeilenweisem & superschnellem Modus mit nur einem Klick
-- AUF VIELEN OBERFLÄCHEN NUTZBAR: Verwende MX Anywhere 3 problemlos auf allen möglichen Oberflächen dank dem 4000 DPI-Sensor – egal ob im Internetcafé, am Schreibtisch oder auf der Couch
 - MIT MEHREREN GERÄTEN VERNETZT: Nutze Bluetooth oder den beigefügten USB-Dongle, um bis zu drei Geräte zu verbinden. Wechsle mit einem Klick zwischen PC, Laptop, Computer und iPad
+- MAGSPEED: Scrolle bis zu 1.000 Zeilen in einer Sekunde & stoppe pixelgenau. MagSpeed verbindet Präzision mit Lautlosigkeit, wechsle zwischen zeilenweisem & superschnellem Modus mit nur einem Klick
 - MOBILER KOMFORT: MX Anywhere 3 ist immer mit dabei – egal, wo du arbeitest. Das flache, ergonomische Design ist perfekt an die Hand angepasst und mit weichen Griffseiten aus Silikon ausgestattet
+- AUF VIELEN OBERFLÄCHEN NUTZBAR: Verwende MX Anywhere 3 problemlos auf allen möglichen Oberflächen dank dem 4000 DPI-Sensor – egal ob im Internetcafé, am Schreibtisch oder auf der Couch
+- USB-C: Die Batterie hält voll geladen bis zu 70 Tage. Dank Schnellladung kannst du die Maus schon nach einer Minute Aufladen für drei Stunden verwenden. Gleichzeitig Laden & Nutzen mit dem USB-C-Kabel
 
 [Hier!!](https://www.amazon.de/dp/B07W5JHLCB/?tag=tolees0ca-21)

@@ -27,8 +27,8 @@ Es gibt ein [Lotus Damen Datum klassisch Quarz Uhr mit Leder Armband 18253/2](ht
 
 - Damen-Armbanduhr Analog der Marke LOTUS
 - hochwertiges Leder-Armband blau
-- Edelstahl-Gehäuse mit Mineralglas-Scheibe, bis 50m wasserdicht
-- Lieferung in original Uhrenverpackung
 - Gehäusedurchmesser 36mm, Gehäusehöhe 9,5mm
+- Lieferung in original Uhrenverpackung
+- Edelstahl-Gehäuse mit Mineralglas-Scheibe, bis 50m wasserdicht
 
 [kauf es hier!!](https://www.amazon.de/dp/B016DZYNN0/?tag=tolees0ca-21)
