@@ -25,9 +25,9 @@ Sie können [AMIGO Spiel + Freizeit 01759 - Memo Dice](https://www.amazon.de/dp/
 
 ℹ️:
 
+- Einfache Regel für einen schnellen Spielstart
 - Neue Merkspiel-Variante mit tollem Spielmaterial: Würfel und Becher
 - Inhalt: 10 Becher, 9 Motivwürfel, 4 Spielfiguren, 1 Spielplan, 1 Spielanleitung
-- Einfache Regel für einen schnellen Spielstart
 - Ab 8 Jahren
 
 [Hier!!](https://www.amazon.de/dp/B073WFZS15/?tag=tolees0ca-21)
