@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Alpha 6400 | APS-C Spiegellose Kame mit 21.76 % Rabatt'
-date: 2020-12-28 23:00:53
+date: 2020-12-30 23:20:24
 image: 'https://m.media-amazon.com/images/I/518kyLV663L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,11 @@ Sie können [Sony Alpha 6400 | APS-C Spiegellose Kamera mit Sony 16-50mm f/3.5-5
 
 ℹ️:
 
-- ERFASSEN SIE KREATIVE WINKEL: Mit dem neigbaren Display, lassen sich Motive auch aus niedrigen oder hohen Winkeln leicht einfangen.
-- SCHNELLER UND PRÄZISERER AUTOFOKUS: Verlassen Sie sich auf 0,02s AF, Tracking in Echtzeit und Autofokus mit Augenerkennung, um Ihr Motiv in jeder Situation im Fokus zu behalten.
-- IDEAL FÜR: Einsteiger und Fortgeschrittene, die ein kompaktes Alltagsobjektiv (Sony 16-50mm) und einen zusätzlichen Zoom (Sony 55-210mm) benötigen, um Sport und Natur einzufangen.
-- PERFEKT FÜR VIDEO CREATOR: Hochauflösende 4K-HDR-Filmaufnahme und Full-HD-Slow-Motion-Funktion (120p) mit Autofokus.
-- KEINEN MOMENT VERPASSEN: Bis zu 11 Bilder/s mit Autofokus.
+- IDEAL FOR: starters and advanced users who wants a compact everyday lens (Sony 16-50mm) and an additional zoom (Sony 55-210mm) to capture sports and nature.
+- CAPTURE CREATIVE ANGLES: easily frame up your subject when shooting from low or high angles with the tilting touch monitor.
+- Ideal for Vloggers and Content creators - with high-resolution 4K HDR movie recording, Fast Hybrid AF for movie and 180-degree fully tiltable LCD touch screen.
+- NEVER MISS A MOMENT: Up to 11fps with Autofocus.
+- FAST AND PRECISE AUTOFOCUS: rely on 0.02s AF, Real Time tracking and Eye AF (human/animal) to keep your subject sharp in any situation.
+- PERFECT FOR VIDEO CREATORS: High resolution 4K HDR movie recording and Full HD slow motion feature (120p) with autofocus.
 
 [Hier!!](https://www.amazon.de/dp/B07MWDP1VD/?tag=tolees0ca-21)

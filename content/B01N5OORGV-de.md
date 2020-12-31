@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo Joy-Con 2er-Set Neon-Rot/Neon-B mit 20.10 % Rabatt'
-date: 2020-12-29 22:51:20
+date: 2020-12-30 22:55:57
 image: 'https://m.media-amazon.com/images/I/41wK7MSkquL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,9 @@ Sie können [Nintendo Joy-Con 2er-Set Neon-Rot/Neon-Blau](https://www.amazon.de/
 
 ℹ️:
 
-- Stellen Sie eine Verbindung zur Hauptkonsole her, um sie im Handheld-Modus zu verwenden, oder teilen Sie sie mit Freunden, um in unterstützten Spielen Action für zwei Spieler zu genießen
-- Die beiden Joy-Con können unabhängig voneinander in jeder Hand oder zusammen als ein Gamecontroller verwendet werden, wenn sie am Joy-Con-Griff befestigt sind (separat erhältlich)
-- Jeder Joy-Con verfügt über einen vollständigen Satz von Tasten und einen Beschleunigungsmesser und einen Gyroskop-Bewegungssensor, die eine unabhängige Steuerung der linken und rechten Bewegung ermöglichen
+- They can also attach to the main console for use in handheld mode or be shared with friends to enjoy two-player action in supported games
+- The versatile joy-con offer multiple surprising ways for players to have fun
+- Two joy-con can be used independently in each hand or together as one game controller when attached to the joy-con grip (sold separately)
+- Each joy-con has a full set of buttons and can act as a standalone controller and each includes an accelerometer and gyroscope motion sensor, making independent left and right motion control possible
 
 [Hier!!](https://www.amazon.de/dp/B01N5OORGV/?tag=tolees0ca-21)

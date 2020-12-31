@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Puma Unisex-Erwachsene Smash v2 Zapatill mit 31.79 % Rabatt'
-date: 2020-12-29 16:45:05
+date: 2020-12-30 23:21:30
 image: 'https://m.media-amazon.com/images/I/41k26gXY0cL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,6 @@ Sie können [Puma Unisex-Erwachsene Smash v2 Zapatillas  Schwarz Black Black  45
 
 ℹ️:
 
-- Griffige Gummi-Laufsohle
-- Dämpfende Zwischensohle für Komfort
-- PUMA-Formstrip an den Seiten
-- Durchgehende Schnürung für einen festen Sitz
-- Obermaterial aus Veloursleder
+- Chamois Leather
 
 [Hier!!](https://www.amazon.de/dp/B077CY9YGJ/?tag=tolees0ca-21)

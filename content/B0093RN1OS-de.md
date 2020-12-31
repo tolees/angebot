@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Intenso interne SSD-Festplatte 256GB Top mit 38.23 % Rabatt'
-date: 2020-12-28 22:52:29
+date: 2020-12-30 22:57:32
 image: 'https://m.media-amazon.com/images/I/41SGYjzeD8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B0093RN1OS/?tag=tolees0ca-21'
 descuento: '38.23'
-average: '28.64637168141593'
+average: '28.631478260869564'
 ---
 
 Sie können [Intenso interne SSD-Festplatte 256GB Top Performance  schwarz](https://www.amazon.de/dp/B0093RN1OS/?tag=tolees0ca-21) mit Preis 27.79 EUR (original: 44.99 EUR) 38.23 % Rabatt hier:
@@ -25,10 +25,10 @@ Sie können [Intenso interne SSD-Festplatte 256GB Top Performance  schwarz](http
 
 ℹ️:
 
-- Geringer Stromverbrauch; Schock-resistent, geräuschloser Betrieb (0dB)
-- SATA III (6Gbps)
-- Lesegeschwindigkeit: bis zu 520MB/s - Schreibgeschwindigkeit: bis zu 500MB/s
-- SMART command support, TRIM command support; Gewicht: 83g; Abmessungen: 100 x 70 x 7mm
 - Lieferumgang: Intenso SSD Festplatte
+- Lesegeschwindigkeit: bis zu 520MB/s - Schreibgeschwindigkeit: bis zu 500MB/s
+- SATA III (6Gbps)
+- SMART command support, TRIM command support; Gewicht: 83g; Abmessungen: 100 x 70 x 7mm
+- Geringer Stromverbrauch; Schock-resistent, geräuschloser Betrieb (0dB)
 
 [Hier!!](https://www.amazon.de/dp/B0093RN1OS/?tag=tolees0ca-21)

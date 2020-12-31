@@ -1,32 +1,32 @@
 ---
 layout: post
-title: '30.64 % rabat auf ASICS Herren Gel-nimbus 22 Laufschuh  Di'
-date: 2020-12-29 11:13:14
+title: '22.85 % rabat auf ASICS Herren Gel-Nimbus 22 Laufschuh  Di'
+date: 2020-12-30 22:51:44
 image: 'https://m.media-amazon.com/images/I/41+56kpOwDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B088JYDQ84-de'
-actualPrice: 124.85 EUR
+actualPrice: 138.87 EUR
 currency: EUR
-price: 124.85
+price: 138.87
 comparePrice: 180.0 EUR
-prodname: 'ASICS Herren Gel-nimbus 22 Laufschuh  Directoire Blue Black  44.5 EU'
+prodname: 'ASICS Herren Gel-Nimbus 22 Laufschuh  Directoire Blue Black  44.5 EU'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B088JYDQ84/?tag=tolees0ca-21'
-descuento: '30.64'
-average: '116.42'
+descuento: '22.85'
+average: '123.90333333333334'
 ---
 
-Es gibt ein [ASICS Herren Gel-nimbus 22 Laufschuh  Directoire Blue Black  44.5 EU](https://www.amazon.de/dp/B088JYDQ84/?tag=tolees0ca-21) mit aktuellem Preis 124.85 EUR (original: 180.0 EUR) 30.64 % Rabatt hier:
+Es gibt ein [ASICS Herren Gel-Nimbus 22 Laufschuh  Directoire Blue Black  44.5 EU](https://www.amazon.de/dp/B088JYDQ84/?tag=tolees0ca-21) mit aktuellem Preis 138.87 EUR (original: 180.0 EUR) 22.85 % Rabatt hier:
 
-[![ASICS Herren Gel-nimbus 22 Laufschuh  Di](https://m.media-amazon.com/images/I/41+56kpOwDL._SL200_.jpg)](https://www.amazon.de/dp/B088JYDQ84/?tag=tolees0ca-21)
+[![ASICS Herren Gel-Nimbus 22 Laufschuh  Di](https://m.media-amazon.com/images/I/41+56kpOwDL._SL200_.jpg)](https://www.amazon.de/dp/B088JYDQ84/?tag=tolees0ca-21)
 
 ℹ️:
 
 - Langanhaltender Tragekomfort
-- Formgepresste EVA-Einlegesohle
 - Weiches, atmungsaktives Obermaterial
+- Formgepresste EVA-Einlegesohle
 
 [kauf es hier!!](https://www.amazon.de/dp/B088JYDQ84/?tag=tolees0ca-21)

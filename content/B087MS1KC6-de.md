@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '42.02 % rabat auf Jack Wolfskin Herren Vojo 3 Texapore Low'
-date: 2020-12-29 10:57:22
+date: 2020-12-30 23:18:47
 image: 'https://m.media-amazon.com/images/I/31Nt-R8jI7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,7 @@ Es gibt ein [Jack Wolfskin Herren Vojo 3 Texapore Low M Outdoorschuhe  Black/Bur
 
 ℹ️:
 
-- Wanderschuh für Tagestouren
-- gut dämpfende, robuste Wandersohle
-- komfortable Passform, griffiges Profil
-- Aktivitätsindex: A (Hiking)
-- wasserdicht, atmungsaktiv
+- Material - Upper: Suede
+- Material - Upper: Synthetic
 
 [kauf es hier!!](https://www.amazon.de/dp/B087MS1KC6/?tag=tolees0ca-21)

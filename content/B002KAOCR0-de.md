@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '27.12 % rabat auf Crocs Unisex-Erwachsene Crocband Clogs  '
-date: 2020-12-29 10:51:33
+date: 2020-12-30 23:10:08
 image: 'https://m.media-amazon.com/images/I/31BoZ-DftuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B002KAOCR0/?tag=tolees0ca-21'
 descuento: '27.12'
-average: '30.253636363636364'
+average: '30.643846153846155'
 ---
 
 Es gibt ein [Crocs Unisex-Erwachsene Crocband Clogs  Navy  45/46 EU](https://www.amazon.de/dp/B002KAOCR0/?tag=tolees0ca-21) mit aktuellem Preis 32.79 EUR (original: 44.99 EUR) 27.12 % Rabatt hier:
@@ -25,9 +25,11 @@ Es gibt ein [Crocs Unisex-Erwachsene Crocband Clogs  Navy  45/46 EU](https://www
 
 ℹ️:
 
-- CROSLITE for feather-light padding and comfort
-- Numerous ventilation openings
-- Comfortable fit with some space for the foot
-- Fold-over heel strap
+- Obermaterial: Synthetik
+- Verschluss: Ohne Verschluss; Größenhinweis: Fällt regulär aus
+- Sohlengrößen sind US. Label zeigt UK. M = Herren W = Damen
+- Futter: ohne Futter
+- Absatzform: Flach; Materialzusammensetzung: 100 % Croslite
+- Sohlenmaterial: Gummi
 
 [kauf es hier!!](https://www.amazon.de/dp/B002KAOCR0/?tag=tolees0ca-21)

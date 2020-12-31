@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '41.75 % rabat auf Rotho Twist Mülleimer 25l mit Deckel  Ku'
-date: 2020-09-24 01:30:45
+date: 2020-12-30 22:57:51
 image: 'https://m.media-amazon.com/images/I/31SX5sN0qUL._SL200_.jpg'
 comments: true
 category: ofertas

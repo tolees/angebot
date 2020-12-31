@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '18.29 % rabat auf LEGO 42105 Technic Katamaran  Baukasten '
-date: 2020-12-29 11:13:03
+date: 2020-12-30 22:59:54
 image: 'https://m.media-amazon.com/images/I/51knaMR1iEL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B081F8KXHD/?tag=tolees0ca-21'
 descuento: '18.29'
-average: '30.06506912442395'
+average: '30.081369863013688'
 ---
 
 Es gibt ein [LEGO 42105 Technic Katamaran  Baukasten  Motorboot  2-in-1 schwimmendes Spielzeug](https://www.amazon.de/dp/B081F8KXHD/?tag=tolees0ca-21) mit aktuellem Preis 31.85 EUR (original: 38.98 EUR) 18.29 % Rabatt hier:
@@ -25,10 +25,10 @@ Es gibt ein [LEGO 42105 Technic Katamaran  Baukasten  Motorboot  2-in-1 schwimme
 
 ℹ️:
 
-- Features 2in1 Catamaran model toy which really floats on water It rebuilds into a cool power speed boat toy, inspired by real race boats.
-- Ideal for developing engineering skills, these fantastic floating models feature a green-blue-orange colour scheme for an impressive display.
-- Fans can angle the sails for a racing position, raise and lower the 2 daggerboards to maximise stability, then use the rudder to steer.
-- For the first time ever both models float on water - check this classic 2-hull catamaran design, working sails, daggerboards and rudder
-- At over 12” (32cm) long, 8” (22cm) wide and 17” (44cm) high, this awesome model sailboat is made for easy handling in the bathtub.
+- Das 2-in-1-Set enthält einen Katamaran, der tatsächlich schwimmt und lässt sich in ein cooles Rennboot umbauen
+- Perfekt für Segelfans ab 8 Jahren
+- Bauen, umbauen, spielen, präsentieren, Das 2-in-1-Modell bietet dauerhaften Lernspaß
+- Eine Fülle an funktionierender Segelausstattung, wie die Segel, die Schwerter und das Ruder
+- Von der Unterkante des Ruders bis zur Mastspitze ist der Katamaran 44 cm hoch
 
 [kauf es hier!!](https://www.amazon.de/dp/B081F8KXHD/?tag=tolees0ca-21)

@@ -1,34 +1,34 @@
 ---
 layout: post
-title: 'Intenso High Performance interne SSD 120 mit 38.28 % Rabatt'
-date: 2020-12-28 23:17:04
+title: 'Intenso High Performance interne SSD 120 mit 42.35 % Rabatt'
+date: 2020-12-30 22:54:54
 image: 'https://m.media-amazon.com/images/I/4140iJXJalL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01D3ACJPW-de'
-actualPrice: 18.51 EUR
+actualPrice: 17.29 EUR
 currency: EUR
-price: 18.51
+price: 17.29
 comparePrice: 29.99 EUR
 prodname: 'Intenso High Performance interne SSD 120GB  6 3 cm  2 5 Zoll   SATA III  520 MB/Sekunden  schwarz'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B01D3ACJPW/?tag=tolees0ca-21'
-descuento: '38.28'
-average: '17.71672897196262'
+descuento: '42.35'
+average: '17.70889908256881'
 ---
 
-Sie können [Intenso High Performance interne SSD 120GB  6 3 cm  2 5 Zoll   SATA III  520 MB/Sekunden  schwarz](https://www.amazon.de/dp/B01D3ACJPW/?tag=tolees0ca-21) mit Preis 18.51 EUR (original: 29.99 EUR) 38.28 % Rabatt hier:
+Sie können [Intenso High Performance interne SSD 120GB  6 3 cm  2 5 Zoll   SATA III  520 MB/Sekunden  schwarz](https://www.amazon.de/dp/B01D3ACJPW/?tag=tolees0ca-21) mit Preis 17.29 EUR (original: 29.99 EUR) 42.35 % Rabatt hier:
 
 [![Intenso High Performance interne SSD 120](https://m.media-amazon.com/images/I/4140iJXJalL._SL200_.jpg)](https://www.amazon.de/dp/B01D3ACJPW/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Die SATA III Schnittstelle mit 6 Gbps ermöglicht ein Hochfahren von Computern oder Netbooks in weniger als 20 Sekunden
 - Geringer Stromverbrauch; Schock-resistent, geräuschloser Betrieb (0dB)
+- Die SATA III Schnittstelle mit 6 Gbps ermöglicht ein Hochfahren von Computern oder Netbooks in weniger als 20 Sekunden
 - Sequentielles Lesen: bis zu 520MB/s - Sequentielles Schreiben: bis zu 480MB/s
-- Smart Command Support, TRIM Command Support; Gewicht: 83G; Abmessungen: 100 x 70 x 7mm
 - Lieferumgang: Intenso High Performance interne SSD, 120GB
+- Smart Command Support, TRIM Command Support; Gewicht: 83G; Abmessungen: 100 x 70 x 7mm
 
 [Hier!!](https://www.amazon.de/dp/B01D3ACJPW/?tag=tolees0ca-21)
