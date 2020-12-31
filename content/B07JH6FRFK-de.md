@@ -25,10 +25,10 @@ Es gibt ein [Schiesser  Damen Pants  Nachtblau  42](https://www.amazon.de/dp/B07
 
 ℹ️:
 
-- maschinenwaschbar bei 40°C
 - höchste Qualität
-- 50% Baumwolle, 50% Modal
 - angenehmer Modal-Materialmix
+- 50% Baumwolle, 50% Modal
 - Schiesser Lounge - Pants aus Jersey
+- maschinenwaschbar bei 40°C
 
 [kauf es hier!!](https://www.amazon.de/dp/B07JH6FRFK/?tag=tolees0ca-21)

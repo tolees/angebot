@@ -25,10 +25,10 @@ Es gibt ein [Sony DSC-HX400V Digitalkamera  20.4 Megapixel  50-fach opt. Zoom  7
 
 ℹ️:
 
-- 20,4 Megapixel Auflösung des Exmor R Sensors
-- Bildschirmtyp: 3.0 (7,5 cm) (4:3) / 921,600 dots / Xtra Fine / TFT LCD
-- Lichtempfindlichkeit : SteadyShot verringert Unschärfen sogar bei schlechten, Full HD Videoaufnahme (1920 x 1080 Pixel Auflösung), Micro HDMI, Multi-/Micro-USB-Anschluss, Multi Interface-Zubehörschuh, USB High-Speed (USB 2.0)
 - Lieferumfang: Sony DSC-HX400V Digitalkamera schwarz, Schulterriemen, Li-Ion Akku NP-BX1, NetzteilAC-UB10, Mikro USB-Kabel, Objektivabdeckung,Kurzanleitung
 - Zeiss Weitwinkel-Objektiv mit mit 50x optischen Zoom (60x Klarbild-Zoom), Lichtstärke: F1:F2.8 - 6.3, Brennweite: 4,3 – 215 mm
+- Bildschirmtyp: 3.0 (7,5 cm) (4:3) / 921,600 dots / Xtra Fine / TFT LCD
+- 20,4 Megapixel Auflösung des Exmor R Sensors
+- Lichtempfindlichkeit : SteadyShot verringert Unschärfen sogar bei schlechten, Full HD Videoaufnahme (1920 x 1080 Pixel Auflösung), Micro HDMI, Multi-/Micro-USB-Anschluss, Multi Interface-Zubehörschuh, USB High-Speed (USB 2.0)
 
 [kauf es hier!!](https://www.amazon.de/dp/B00I9X2KGM/?tag=tolees0ca-21)

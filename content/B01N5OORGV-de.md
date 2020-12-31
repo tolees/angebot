@@ -27,7 +27,7 @@ Sie können [Nintendo Joy-Con 2er-Set Neon-Rot/Neon-Blau](https://www.amazon.de/
 
 - They can also attach to the main console for use in handheld mode or be shared with friends to enjoy two-player action in supported games
 - The versatile joy-con offer multiple surprising ways for players to have fun
-- Two joy-con can be used independently in each hand or together as one game controller when attached to the joy-con grip (sold separately)
 - Each joy-con has a full set of buttons and can act as a standalone controller and each includes an accelerometer and gyroscope motion sensor, making independent left and right motion control possible
+- Two joy-con can be used independently in each hand or together as one game controller when attached to the joy-con grip (sold separately)
 
 [Hier!!](https://www.amazon.de/dp/B01N5OORGV/?tag=tolees0ca-21)

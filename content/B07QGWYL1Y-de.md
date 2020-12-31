@@ -25,9 +25,9 @@ Sie können [Funko POP! Bobble Vinyl Marvel: Holiday - Groot](https://www.amazon
 
 ℹ️:
 
-- Figure stands 9cm and comes in a window display box
 - Check out the other Marvel figures from Funko and collect them all
-- From Marvel, Holiday - Groot, as a stylized POP vinyl from Funko
 - Funko POP! is the 2018 Toy of the Year and Peoples Choice award winner
+- From Marvel, Holiday - Groot, as a stylized POP vinyl from Funko
+- Figure stands 9cm and comes in a window display box
 
 [Hier!!](https://www.amazon.de/dp/B07QGWYL1Y/?tag=tolees0ca-21)

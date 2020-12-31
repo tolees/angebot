@@ -25,9 +25,9 @@ Es gibt ein [Sony RX100 Premium Kompakt Digitalkamera  20 MP  7 6 cm  3 Zoll  Di
 
 ℹ️:
 
-- Großer Sensor für detailreiche Bilder mit geringem Rauschen
-- Wunderschöne Unschärfeeffekte und luxuriöses, kompaktes Design in Aluminium
-- Lieferumfang: Sony DSC-RX100 Cyber-shot Digitalkamera, Akkusatz (NP-BX1), Netzteil (AC-UD10), Micro-USB-Kabel, Handgelenkschlaufe, Schultergurt-Adapter, Bedienungsanleitung
 - Exmor Cmos 1.0 mit 20, 2 Mio. Pixel, F1, 8-Objektiv, 3, 6 fach optischer Zoom, Full HD 50p, LCD (7, 5 cm/3, 0 Zoll)
+- Wunderschöne Unschärfeeffekte und luxuriöses, kompaktes Design in Aluminium
+- Großer Sensor für detailreiche Bilder mit geringem Rauschen
+- Lieferumfang: Sony DSC-RX100 Cyber-shot Digitalkamera, Akkusatz (NP-BX1), Netzteil (AC-UD10), Micro-USB-Kabel, Handgelenkschlaufe, Schultergurt-Adapter, Bedienungsanleitung
 
 [kauf es hier!!](https://www.amazon.de/dp/B0089BUVG0/?tag=tolees0ca-21)

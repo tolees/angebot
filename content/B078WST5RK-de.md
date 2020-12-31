@@ -25,10 +25,10 @@ Sie können [Samsung MZ-76E1T0B/EU 860 EVO 1 TB SATA 2 5" Interne SSD Schwarz](h
 
 ℹ️:
 
-- Form Factor: 2.5 Inch
-- Available Capacity: up to 4 TB
-- Interface: SATA 6 Gb/s, compatible with SATA 3 Gb/s and SATA 1.5 Gb/s interfaces
 - Designed for mainstream PCs and laptops for personal, gaming and business use
+- Interface: SATA 6 Gb/s, compatible with SATA 3 Gb/s and SATA 1.5 Gb/s interfaces
+- Available Capacity: up to 4 TB
 - Sequential Read/Write speeds up to 550/520 MB/s respectively; performance varies based on system hardware configuration
+- Form Factor: 2.5 Inch
 
 [Hier!!](https://www.amazon.de/dp/B078WST5RK/?tag=tolees0ca-21)
