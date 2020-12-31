@@ -25,8 +25,8 @@ Es gibt ein [ELRO CZ60RIPS Color Night Vision 1080P HD Überwachungs-Kamera Set 
 
 ℹ️:
 
-- Color Night Vision ermöglicht farbige Kamerabilder im Dunkeln durch weiszliges Licht, dass bei Bewegungserkennung eingeschaltet wird
 - Kamera ist IP65 wasserdicht
+- Color Night Vision ermöglicht farbige Kamerabilder im Dunkeln durch weiszliges Licht, dass bei Bewegungserkennung eingeschaltet wird
 - Beobachten Sie die Bilder auf dem 9" (23cm) Bildschirm oder über die ELRO Monitoring App
 - 1080P Full HD Überwachungskamera mit PIR Bewegungsmelder und Color Night Vision Technology
 - Drahtlose Verbindung zwischen Kamera und Bildschirm bis zu 100m
