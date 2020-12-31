@@ -25,10 +25,10 @@ Sie können [DOOM Eternal inkl. Metal Plate  Exkl. bei Amazon  [Playstation 4]](
 
 ℹ️:
 
-- Für bestimmte Inhalte/Funktionen wird ein verbundenes Bethesda.net-Konto benötigt
 - Das nächste Level in Sachen knallharter First Person Action
-- Dank der Power der idTech 7-Engine und des packenden Soundtracks von Mick Gordon fühlen Sie sich in Doom Eternal in der Haut des unaufhaltsamen Doom-Slayers mächtiger denn je
 - Inklusive Battlemode, dem neuen Mehrspieler-Erlebnis „Slayer vs. Dämonen“
 - Zerfetzen Sie mit Ihren mächtigen Waffen und bekannte Dämonen und besuchen Sie dabei unglaubliche, noch nie zuvor gesehene Welten
+- Für bestimmte Inhalte/Funktionen wird ein verbundenes Bethesda.net-Konto benötigt
+- Dank der Power der idTech 7-Engine und des packenden Soundtracks von Mick Gordon fühlen Sie sich in Doom Eternal in der Haut des unaufhaltsamen Doom-Slayers mächtiger denn je
 
 [Hier!!](https://www.amazon.de/dp/B07WMSTPB3/?tag=tolees0ca-21)

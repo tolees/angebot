@@ -25,10 +25,10 @@ Es gibt ein [Helly Hansen Herren Crew Softshelljacke  Navy  S](https://www.amazo
 
 ℹ️:
 
+- Rückenpasse mit Kontrastbanddetail
 - Aufgedrucktes Helly Hansen-Logo auf der Kragenrückseite
+- Leichtes, wasserabweisendes Material an den Seiteneinsätzen
 - Marke: Helly Hansen
 - Kontrastpaspeln an der Brusttasche
-- Rückenpasse mit Kontrastbanddetail
-- Leichtes, wasserabweisendes Material an den Seiteneinsätzen
 
 [kauf es hier!!](https://www.amazon.de/dp/B01K4RMYO8/?tag=tolees0ca-21)

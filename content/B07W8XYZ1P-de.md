@@ -25,8 +25,8 @@ Sie können [LEGO 60248 City Einsatz mit dem Feuerwehrhubschrauber Spielzeug  Ba
 
 ℹ️:
 
-- Enthält einen Hubschrauber mit Zugriemen, der wirklich fliegt, ein Quad und ein Rohr mit Flammen , das von mutigen Feuerwehrleuten gelöscht werden kann
 - Das Zubehör umfasst Feuerflammen, Ölfässer, eine Axt, eine Schweißmaske und Ausrüstung sowie Feuerlöscher für viele Rollenspielszenarios
+- Enthält einen Hubschrauber mit Zugriemen, der wirklich fliegt, ein Quad und ein Rohr mit Flammen , das von mutigen Feuerwehrleuten gelöscht werden kann
 - Kinder werden an dem Zugriemen ziehen, um den neuen Überwachungshubschrauber in die Luft zu bringen und mit dem Quad schnell zur Rettung zu fahren
 - Dieses Feuerwehrbauset erfordert grundlegende Fähigkeiten, um erstmalige Baumeister zu ermutigen und gleichzeitig andere LEGO-Sets zu erweitern
 - Enthält drei Minifiguren: einen Top-Feuerwehrpiloten, einen unfallanfälligen Arbeiter und Freya McCloud, die Feuerwehrchefin von City TV
