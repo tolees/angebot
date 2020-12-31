@@ -25,11 +25,11 @@ Es gibt ein [ELRO CZ60RIPS Color Night Vision 1080P HD Überwachungs-Kamera Set 
 
 ℹ️:
 
-- Mit Micro SD-Kartensteckplatz zum Speichern von Bildern (max. 128GB-Karte)
-- 1080P Full HD Überwachungskamera mit PIR Bewegungsmelder und Color Night Vision Technology
-- Kamera ist IP65 wasserdicht
-- Drahtlose Verbindung zwischen Kamera und Bildschirm bis zu 100m
-- Beobachten Sie die Bilder auf dem 9" (23cm) Bildschirm oder über die ELRO Monitoring App
 - Color Night Vision ermöglicht farbige Kamerabilder im Dunkeln durch weiszliges Licht, dass bei Bewegungserkennung eingeschaltet wird
+- Kamera ist IP65 wasserdicht
+- Beobachten Sie die Bilder auf dem 9" (23cm) Bildschirm oder über die ELRO Monitoring App
+- 1080P Full HD Überwachungskamera mit PIR Bewegungsmelder und Color Night Vision Technology
+- Drahtlose Verbindung zwischen Kamera und Bildschirm bis zu 100m
+- Mit Micro SD-Kartensteckplatz zum Speichern von Bildern (max. 128GB-Karte)
 
 [kauf es hier!!](https://www.amazon.de/dp/B078C56NLJ/?tag=tolees0ca-21)
