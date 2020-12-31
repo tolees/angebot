@@ -25,10 +25,10 @@ Sie können [WISO Steuer-Start 2021  für Steuerjahr 2020 | PC Aktivierungscode 
 
 ℹ️:
 
-- Unterstützt die vorausgefüllte Steuererklärung (VaSt) Automatische Plausibilitäts- und Fehlerprüfung Exakte Berechnung von Erstattung oder Nachzahlung
-- WISO Steuer-Start 2021 für die Einkommensteuer-Erklärung 2020 ELSTER zur elektronischen Übermittlung Anzeige der Erstattung oder Nachzahlung Kostenfreie Updates für das Steuerjahr 2020
 - Für Arbeitnehmer mit Einkünften aus nichtselbstständiger Tätigkeit Wahlweise: amtlich anerkannter Ausdruck der Formulare Kostenloser Telefonsupport
+- WISO Steuer-Start 2021 für die Einkommensteuer-Erklärung 2020 ELSTER zur elektronischen Übermittlung Anzeige der Erstattung oder Nachzahlung Kostenfreie Updates für das Steuerjahr 2020
 - Systemvoraussetzungen: Windows 8.1/10, Internet-Zugang
 - Mantelbogen, Anlage N, Anlage Kind Steuer-Tipps auch als Video Musterbriefe für Kontakt mit dem Finanzamt Upgradefähig auf WISO Steuer-Sparbuch 2021
+- Unterstützt die vorausgefüllte Steuererklärung (VaSt) Automatische Plausibilitäts- und Fehlerprüfung Exakte Berechnung von Erstattung oder Nachzahlung
 
 [Hier!!](https://www.amazon.de/dp/B08HP7KFK1/?tag=tolees0ca-21)

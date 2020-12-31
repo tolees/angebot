@@ -25,10 +25,10 @@ Es gibt ein [BRAX Feel Good Style Cooper Fancy Anthra 32/32](https://www.amazon.
 
 ℹ️:
 
-- Herbstliche Farbpalette
 - Cleaner Sportswearlook mit feinen Detaillösungen
 - Gerader Beinverlauf
-- Aus edler Pima Cotton-Qualität gefertigt
+- Herbstliche Farbpalette
 - Klassische Five-Pocket-Hose in feinster Pima Cotton-Qualität
+- Aus edler Pima Cotton-Qualität gefertigt
 
 [kauf es hier!!](https://www.amazon.de/dp/B0845BH2QQ/?tag=tolees0ca-21)

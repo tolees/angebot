@@ -25,10 +25,10 @@ Es gibt ein [Lee Herren Extreme Motion Straight Pants  Schwarz  Black 01   38W /
 
 ℹ️:
 
+- Normaler Bund
+- Maschinenwäsche kalt (30° max)
 - 97% Baumwolle, 3% Elasthan
 - Knopf und Reißverschluss
-- Maschinenwäsche kalt (30° max)
 - Tapered
-- Normaler Bund
 
 [kauf es hier!!](https://www.amazon.de/dp/B07J66RMBW/?tag=tolees0ca-21)
