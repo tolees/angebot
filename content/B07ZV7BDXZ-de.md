@@ -25,10 +25,10 @@ Sie können [Xiaomi Smart Air Purifier 3H Luftreiniger  Bianco  Einheitsgröße]
 
 ℹ️:
 
+- Filtro de 360 °; elimina de forma eficiente sustancias nocivas como pm2.5 y formaldehído, el filtro de primera capa elimina partículas grandes como el pelo y el polvo, el filtro de segunda capa elimina partículas pequeñas del tamaño de micron, y la tercera capa de carbón activado absorbe sustancias nocivas
+- Sensor de partículas láser de alta velocidad; se pueden detectar pequeñas partículas y en tiempo real una valoración de la calidad del aire interior
 - Rediseño de todo el sistema de conductos de aire para aumentar el cuadro de partículas del purificador de aire en 29% a 400 m3/h
 - Cadr de materia de partículas 400 m/h, sumi
 - Nuevo y poderoso sistema de viento de 6660l de aire limpio por minuto; ventilador centrífugo de inclinación posterior + motor sin escobillas/canal interior presurizado/rejilla estilo gran área
-- Filtro de 360 °; elimina de forma eficiente sustancias nocivas como pm2.5 y formaldehído, el filtro de primera capa elimina partículas grandes como el pelo y el polvo, el filtro de segunda capa elimina partículas pequeñas del tamaño de micron, y la tercera capa de carbón activado absorbe sustancias nocivas
-- Sensor de partículas láser de alta velocidad; se pueden detectar pequeñas partículas y en tiempo real una valoración de la calidad del aire interior
 
 [Hier!!](https://www.amazon.de/dp/B07ZV7BDXZ/?tag=tolees0ca-21)

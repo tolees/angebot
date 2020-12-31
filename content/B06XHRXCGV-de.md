@@ -26,7 +26,7 @@ Es gibt ein [Vans Herren Ward Suede/Canvas Sneaker  Schwarz   Suede/Canvas- Blac
 ℹ️:
 
 - Brand New and Genuine. We are an authorised seller of Vans.
-- Vans Black Ward Suede Canvas Trainers
 - See product description below for more information.
+- Vans Black Ward Suede Canvas Trainers
 
 [kauf es hier!!](https://www.amazon.de/dp/B06XHRXCGV/?tag=tolees0ca-21)

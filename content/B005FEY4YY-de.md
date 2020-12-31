@@ -25,10 +25,10 @@ Es gibt ein [Casio Collection Herren Armbanduhr AQ-S800W-1BVEF](https://www.amaz
 
 ℹ️:
 
-- LED Light
-- Weltzeit Funktion
 - Solarbetrieb
+- LED Light
 - Kalender Funktion
+- Weltzeit Funktion
 - Wasserdicht bis 10 Bar
 
 [kauf es hier!!](https://www.amazon.de/dp/B005FEY4YY/?tag=tolees0ca-21)

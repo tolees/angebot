@@ -25,9 +25,9 @@ Es gibt ein [Sony MDR-RF855RK Home Entertainment-Kopfhörer  40mm Neodym ](https
 
 ℹ️:
 
-- Weiche Kopfpolsterung und bequeme Ohrpolster
-- 18-Stunden-Akkulaufzeit bzw. 28 mit Sony Alkaline-Batterien +Einfach zu verwendende Ladestation
-- Leistungsstarker 40-mm-Treiber mit Neodym-Membran
 - Kabellose Reichweite bis zu 100 m
+- 18-Stunden-Akkulaufzeit bzw. 28 mit Sony Alkaline-Batterien +Einfach zu verwendende Ladestation
+- Weiche Kopfpolsterung und bequeme Ohrpolster
+- Leistungsstarker 40-mm-Treiber mit Neodym-Membran
 
 [kauf es hier!!](https://www.amazon.de/dp/B00AKUHC6A/?tag=tolees0ca-21)

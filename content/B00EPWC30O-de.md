@@ -25,10 +25,10 @@ Es gibt ein [Sony SEL-50F18 Porträt-Objektiv  Festbrennweite  50 mm  F1.8  APS-
 
 ℹ️:
 
-- E-Mount APS-C
 - Anzahl der Blendenlamellen: 7, Portraitobjektiv. Sichtwinkel (APS-C): 32°
-- Brennweite: 55 mm, Blende F1,8 OSS
 - Extrem leiser und ultra schneller linear AF Motor - Ideal für Foto- und Videoaufnahmen, Integrierter optischer Bildstabilisator
+- Brennweite: 55 mm, Blende F1,8 OSS
 - Lieferumfang: Sony SEL50F18B, Porträt-Objektiv schwarz, Sonnenblende (ALC-SH116), Objektivschutzkappe, Bajonettschutzkappe
+- E-Mount APS-C
 
 [kauf es hier!!](https://www.amazon.de/dp/B00EPWC30O/?tag=tolees0ca-21)

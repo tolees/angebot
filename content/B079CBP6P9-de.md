@@ -25,10 +25,10 @@ Sie können [Playstation Z890845 PP4140PS Tasten Symbol Lampe mit Farbwechsel Fu
 
 ℹ️:
 
-- LIGHT THE NIGHT: Light up your bedroom with the iconic symbols from the hugely popular PlayStation gaming system. The PlayStation Icon Light illuminates the dark with a soft colourful glow
-- PERFECT PRESENT: This instantly recognizable PlayStation Icon Light makes a great present for geeks and fans of the popular gaming system. Perfect as a unique stocking stuffer or birthday present
-- SPECIFICATIONS: USB or battery powered light, approx. 30cm (12") wide x 10cm (4") tall. (USB cable included, 3 x AAA batteries not included). Officially licensed product
-- CONVERSATION STARTER: When hosting your next party or game night at your home, get everyone talking about your iconic, stylish PlayStation Icons Light. Instantly recognizable, everyone will want one
 - MODES: This light has 3 different light modes with standard lighting and special effect colour phasing. Its music reactive, so you can turn up the sound. Use this novel decoration for a themed room
+- PERFECT PRESENT: This instantly recognizable PlayStation Icon Light makes a great present for geeks and fans of the popular gaming system. Perfect as a unique stocking stuffer or birthday present
+- CONVERSATION STARTER: When hosting your next party or game night at your home, get everyone talking about your iconic, stylish PlayStation Icons Light. Instantly recognizable, everyone will want one
+- SPECIFICATIONS: USB or battery powered light, approx. 30cm (12") wide x 10cm (4") tall. (USB cable included, 3 x AAA batteries not included). Officially licensed product
+- LIGHT THE NIGHT: Light up your bedroom with the iconic symbols from the hugely popular PlayStation gaming system. The PlayStation Icon Light illuminates the dark with a soft colourful glow
 
 [Hier!!](https://www.amazon.de/dp/B079CBP6P9/?tag=tolees0ca-21)
