@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WISO Steuer-Start 2021  für Steuerjahr 2 mit 43.87 % Rabatt'
-date: 2020-12-29 19:13:31
+date: 2020-12-31 11:53:32
 image: 'https://m.media-amazon.com/images/I/41zmI0twahL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,9 +26,9 @@ Sie können [WISO Steuer-Start 2021  für Steuerjahr 2020 | PC Aktivierungscode 
 ℹ️:
 
 - Unterstützt die vorausgefüllte Steuererklärung (VaSt) Automatische Plausibilitäts- und Fehlerprüfung Exakte Berechnung von Erstattung oder Nachzahlung
+- WISO Steuer-Start 2021 für die Einkommensteuer-Erklärung 2020 ELSTER zur elektronischen Übermittlung Anzeige der Erstattung oder Nachzahlung Kostenfreie Updates für das Steuerjahr 2020
 - Für Arbeitnehmer mit Einkünften aus nichtselbstständiger Tätigkeit Wahlweise: amtlich anerkannter Ausdruck der Formulare Kostenloser Telefonsupport
 - Systemvoraussetzungen: Windows 8.1/10, Internet-Zugang
 - Mantelbogen, Anlage N, Anlage Kind Steuer-Tipps auch als Video Musterbriefe für Kontakt mit dem Finanzamt Upgradefähig auf WISO Steuer-Sparbuch 2021
-- WISO Steuer-Start 2021 für die Einkommensteuer-Erklärung 2020 ELSTER zur elektronischen Übermittlung Anzeige der Erstattung oder Nachzahlung Kostenfreie Updates für das Steuerjahr 2020
 
 [Hier!!](https://www.amazon.de/dp/B08HP7KFK1/?tag=tolees0ca-21)

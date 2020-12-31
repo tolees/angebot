@@ -25,10 +25,10 @@ Sie können [Dickie Toys Harry Potter Griffindor Tower  Griffindor Turm  inkl. 2
 
 ℹ️:
 
-- inkl. 2 exklusive Figuren Harry + Snape, Sammlung erweiterbar durch Dickie Toys Harry Potter Nano Sammelfiguren
-- Türen zum Öffnen, Geheimtür unter der Treppe um eine Figur zu verstecken, verschiedenes Zubehör wie z. B. Sofas
 - Hogwarts Griffindor Turm für Die-Cast Nano Sammelfiguren um diese in Szene zu setzen
-- Maße: 20 x 30 x 26 cm
 - für Kinder ab 3 Jahren geeignet
+- Türen zum Öffnen, Geheimtür unter der Treppe um eine Figur zu verstecken, verschiedenes Zubehör wie z. B. Sofas
+- Maße: 20 x 30 x 26 cm
+- inkl. 2 exklusive Figuren Harry + Snape, Sammlung erweiterbar durch Dickie Toys Harry Potter Nano Sammelfiguren
 
 [Hier!!](https://www.amazon.de/dp/B07PNJDBX7/?tag=tolees0ca-21)
