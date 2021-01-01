@@ -25,10 +25,10 @@ Sie können [Hugo Boss Herren-Armbanduhr 1513477](https://www.amazon.de/dp/B01N3
 
 ℹ️:
 
-- Die Uhr wird in eine schönen, original Geschenkbox geliefert und hat 2 Jahre Garantie
+- Gehäusedurchmesser: 44 mm,Gehäuse Höhe: 11 mm, Gehäusefarbe: Silber und Zifferblattfarbe: Schwarz
 - Diese hochwertige Uhr hat ein Silber Edelstahl Band ( 21 cm Länge und 20 mm Breite) mit einer Faltschließe mit Druckverschluss
 - Diese sportliche Uhr verleiht ihnen ein einzigartiges Gefühl in jedem Outfit - Diese Chronograph Uhr verfügt über eine Kalenderfunktion: Datum, Stoppuhr, 24-Stunden-Anzeige, Leuchtzeiger, Tachymeter
 - Wasserdicht: 3 bars-Gewicht: 170 g
-- Gehäusedurchmesser: 44 mm,Gehäuse Höhe: 11 mm, Gehäusefarbe: Silber und Zifferblattfarbe: Schwarz
+- Die Uhr wird in eine schönen, original Geschenkbox geliefert und hat 2 Jahre Garantie
 
 [Hier!!](https://www.amazon.de/dp/B01N3CHZFJ/?tag=tolees0ca-21)
