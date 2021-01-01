@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '18.29 % rabat auf LEGO 42105 Technic Katamaran  Baukasten '
-date: 2020-12-30 22:59:54
+date: 2021-01-01 05:38:36
 image: 'https://m.media-amazon.com/images/I/51knaMR1iEL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B081F8KXHD/?tag=tolees0ca-21'
 descuento: '18.29'
-average: '30.081369863013688'
+average: '30.097375565610847'
 ---
 
 Es gibt ein [LEGO 42105 Technic Katamaran  Baukasten  Motorboot  2-in-1 schwimmendes Spielzeug](https://www.amazon.de/dp/B081F8KXHD/?tag=tolees0ca-21) mit aktuellem Preis 31.85 EUR (original: 38.98 EUR) 18.29 % Rabatt hier:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '30.00 % rabat auf HyperX HX-MC002B Pulsefire Surge - RGB G'
-date: 2020-12-30 23:22:15
+date: 2021-01-01 05:55:13
 image: 'https://m.media-amazon.com/images/I/31LkBc0RhVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07B9TVQ82/?tag=tolees0ca-21'
 descuento: '30.00'
-average: '48.41375000000001'
+average: '48.47777777777778'
 ---
 
 Es gibt ein [HyperX HX-MC002B Pulsefire Surge - RGB Gaming Maus](https://www.amazon.de/dp/B07B9TVQ82/?tag=tolees0ca-21) mit aktuellem Preis 48.99 EUR (original: 69.99 EUR) 30.00 % Rabatt hier:
@@ -25,10 +25,10 @@ Es gibt ein [HyperX HX-MC002B Pulsefire Surge - RGB Gaming Maus](https://www.ama
 
 ℹ️:
 
-- Lichtband für dynamische 360°-RGB-Effekte
-- Zuverlässige Omron Switches für bis zu 50 Millionen Klicks. Geschwindigkeit: 450ips
 - Einfache Anpassungen mit der HyperX NGenuity Software
 - Pixart 3389 Sensor mit bis zu 16.000 DPI, Große Rollen für einfaches Gleiten
+- Lichtband für dynamische 360°-RGB-Effekte
+- Zuverlässige Omron Switches für bis zu 50 Millionen Klicks. Geschwindigkeit: 450ips
 - Interner Speicher erfasst individuelle Anpassungen
 
 [kauf es hier!!](https://www.amazon.de/dp/B07B9TVQ82/?tag=tolees0ca-21)

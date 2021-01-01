@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel S520-A Sign Pen Faserschreiber  0 mit 19.11 % Rabatt'
-date: 2020-12-30 23:33:13
+date: 2021-01-01 05:51:29
 image: 'https://m.media-amazon.com/images/I/21OjH1f41SL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,9 @@ Sie können [Pentel S520-A Sign Pen Faserschreiber  0 8 mm Strichstärke  schwar
 
 ℹ️:
 
-- in 12 Farben erhältlich
-- beliebt bei Grafikern und Künstlern für Skizzen, Zeichnungen, Illustrationen und vielem mehr
-- metallgefasste, formstabile Schreibspitze für Strichstärken von 0, 8 - 2, 0mm
-- Lieferumfang: 12 Stifte
-- Pentel Sign Pen Faserschreiber: der Profi unter den Faserschreibern
+- Contains non-permanent water-based ink
+- Acrylic fibre tip for smooth but durable writing
+- Dye based ink - black
+- Original fibre tipped pen, 1.0 mm line width
 
 [Hier!!](https://www.amazon.de/dp/B000I5SCNY/?tag=tolees0ca-21)

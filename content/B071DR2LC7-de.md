@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Damen Honey Large Za Wall mit 32.12 % Rabatt'
-date: 2020-12-30 23:15:59
+date: 2021-01-01 05:38:22
 image: 'https://m.media-amazon.com/images/I/51ItddLtj-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,6 +25,10 @@ Sie können [Tommy Hilfiger Damen Honey Large Za Wallet Geldbörse  Schwarz  Bla
 
 ℹ️:
 
-- Teile tierischen Ursprungs: Nein
+- Serie: Honey
+- Material: PVC
+- Credit Card Slots: 12
+- Dimension (L x W x H): 19cm x 10cm x 2cm
+- Closure Type: zipper
 
 [Hier!!](https://www.amazon.de/dp/B071DR2LC7/?tag=tolees0ca-21)

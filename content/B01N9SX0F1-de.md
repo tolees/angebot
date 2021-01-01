@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sylvanian Families - 5262 - Kindergarten mit 28.42 % Rabatt'
-date: 2020-12-30 23:01:39
+date: 2021-01-01 05:21:49
 image: 'https://m.media-amazon.com/images/I/51Mne2wFdxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B01N9SX0F1/?tag=tolees0ca-21'
 descuento: '28.42'
-average: '15.82076923076923'
+average: '15.819545454545453'
 ---
 
 Sie können [Sylvanian Families - 5262 - Kindergartenfreunde](https://www.amazon.de/dp/B01N9SX0F1/?tag=tolees0ca-21) mit Preis 15.74 EUR (original: 21.99 EUR) 28.42 % Rabatt hier:

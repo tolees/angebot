@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Vans Damen Ward Suede/Canvas Sneaker  Sc mit 31.33 % Rabatt'
-date: 2020-12-29 11:01:33
+title: 'Vans Damen Ward Suede/Canvas Sneaker  Sc mit 29.70 % Rabatt'
+date: 2021-01-01 06:03:18
 image: 'https://m.media-amazon.com/images/I/41n3upoVtIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B078PNV3QH-de'
-actualPrice: 48.07 EUR
+actualPrice: 49.21 EUR
 currency: EUR
-price: 48.07
+price: 49.21
 comparePrice: 70.0 EUR
 prodname: 'Vans Damen Ward Suede/Canvas Sneaker  Schwarz   Suede/Canvas  Black/White Iju   36 EU'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B078PNV3QH/?tag=tolees0ca-21'
-descuento: '31.33'
-average: '47.708333333333336'
+descuento: '29.70'
+average: '47.748918918918925'
 ---
 
-Sie können [Vans Damen Ward Suede/Canvas Sneaker  Schwarz   Suede/Canvas  Black/White Iju   36 EU](https://www.amazon.de/dp/B078PNV3QH/?tag=tolees0ca-21) mit Preis 48.07 EUR (original: 70.0 EUR) 31.33 % Rabatt hier:
+Sie können [Vans Damen Ward Suede/Canvas Sneaker  Schwarz   Suede/Canvas  Black/White Iju   36 EU](https://www.amazon.de/dp/B078PNV3QH/?tag=tolees0ca-21) mit Preis 49.21 EUR (original: 70.0 EUR) 29.70 % Rabatt hier:
 
 [![Vans Damen Ward Suede/Canvas Sneaker  Sc](https://m.media-amazon.com/images/I/41n3upoVtIL._SL200_.jpg)](https://www.amazon.de/dp/B078PNV3QH/?tag=tolees0ca-21)
 
@@ -27,8 +27,8 @@ Sie können [Vans Damen Ward Suede/Canvas Sneaker  Schwarz   Suede/Canvas  Black
 
 - Innensohle: Textil, weich gepolstert
 - Schuhspitze: rund
-- Absatzhöhe: 0 - 3 cm
-- Muster: Mehrfarbig
 - Passform: normal
+- Muster: Mehrfarbig
+- Absatzhöhe: 0 - 3 cm
 
 [Hier!!](https://www.amazon.de/dp/B078PNV3QH/?tag=tolees0ca-21)

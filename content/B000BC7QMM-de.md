@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'D-Link DGS-105 5-Port Layer2 Gigabit Swi mit 21.44 % Rabatt'
-date: 2020-12-29 11:07:22
+date: 2021-01-01 05:50:46
 image: 'https://m.media-amazon.com/images/I/3147mnzyuGL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B000BC7QMM/?tag=tolees0ca-21'
 descuento: '21.44'
-average: '17.494545454545452'
+average: '17.500897435897432'
 ---
 
 Sie können [D-Link DGS-105 5-Port Layer2 Gigabit Switch  bis zu 2000 Mbit/s Datenübertragung pro Port  einfache Plug & Play-Installation  energiesparende Funktionen  lüfterlos  Metallgehäuse  schwarz](https://www.amazon.de/dp/B000BC7QMM/?tag=tolees0ca-21) mit Preis 17.99 EUR (original: 22.9 EUR) 21.44 % Rabatt hier:
@@ -25,10 +25,10 @@ Sie können [D-Link DGS-105 5-Port Layer2 Gigabit Switch  bis zu 2000 Mbit/s Dat
 
 ℹ️:
 
-- Sicheres Store-and-Forward Weiterleitungsverfahren
-- Automatische MDI/MDIX-Erkennung an allen Anschlüssen
 - Im Full Duplex Modus bis zu 2000 Mbit/s pro Port
-- Arbeitet geräuschlos durch eine lüfterlose Bauweise
 - Energiesparende Funktionen mit D-Link Green
+- Automatische MDI/MDIX-Erkennung an allen Anschlüssen
+- Sicheres Store-and-Forward Weiterleitungsverfahren
+- Arbeitet geräuschlos durch eine lüfterlose Bauweise
 
 [Hier!!](https://www.amazon.de/dp/B000BC7QMM/?tag=tolees0ca-21)
