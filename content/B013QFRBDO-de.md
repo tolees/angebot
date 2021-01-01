@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Gigaset S850HX Universal-Mobilteil – Sch mit 32.10 % Rabatt'
-date: 2020-12-29 06:20:17
+title: 'Gigaset S850HX - DECT IP-Telefon schnurl mit 32.10 % Rabatt'
+date: 2021-01-01 00:09:14
 image: 'https://m.media-amazon.com/images/I/41ynDsxs1LL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -11,24 +11,24 @@ actualPrice: 52.95 EUR
 currency: EUR
 price: 52.95
 comparePrice: 77.98 EUR
-prodname: 'Gigaset S850HX Universal-Mobilteil – Schnurloses IP-Telefon  zum Anschluss an Basisstation oder Router – Mobilteil mit innovativer Technologie in hochwertigem Design  platin-schwarz'
+prodname: 'Gigaset S850HX - DECT IP-Telefon schnurlos für den Anschluss an handelsüblichen Routern - großes Telefonbuch - Reichweitenwarnton - Headsetanschluss - exzellente Klangqualität  platin-schwarz'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B013QFRBDO/?tag=tolees0ca-21'
 descuento: '32.10'
-average: '53.025571428571425'
+average: '53.02450704225352'
 ---
 
-Sie können [Gigaset S850HX Universal-Mobilteil – Schnurloses IP-Telefon  zum Anschluss an Basisstation oder Router – Mobilteil mit innovativer Technologie in hochwertigem Design  platin-schwarz](https://www.amazon.de/dp/B013QFRBDO/?tag=tolees0ca-21) mit Preis 52.95 EUR (original: 77.98 EUR) 32.10 % Rabatt hier:
+Sie können [Gigaset S850HX - DECT IP-Telefon schnurlos für den Anschluss an handelsüblichen Routern - großes Telefonbuch - Reichweitenwarnton - Headsetanschluss - exzellente Klangqualität  platin-schwarz](https://www.amazon.de/dp/B013QFRBDO/?tag=tolees0ca-21) mit Preis 52.95 EUR (original: 77.98 EUR) 32.10 % Rabatt hier:
 
-[![Gigaset S850HX Universal-Mobilteil – Sch](https://m.media-amazon.com/images/I/41ynDsxs1LL._SL200_.jpg)](https://www.amazon.de/dp/B013QFRBDO/?tag=tolees0ca-21)
+[![Gigaset S850HX - DECT IP-Telefon schnurl](https://m.media-amazon.com/images/I/41ynDsxs1LL._SL200_.jpg)](https://www.amazon.de/dp/B013QFRBDO/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Qualität made in Germany – Das S850HX wird in Deutschland hergestellt – die DECT-Technologie sorgt für ideale Gesprächsqualität und der ECO-Dect Mode reduziert Strahlung und Verbrauch
-- Technik trifft Design – Das Design zeichnet sich durch hochwertige Verarbeitung und Metall-Applikationen aus – dank Bluetooth werden Ihre Kontakte vom PC auf Ihr Telefon synchronisiert
-- Schnell verbunden – Die Ladeschale mit der Steckdose verbinden und am Mobilteil Router oder Basisstation auswählen – Das IP-Telefon kann sofort eingerichtet werden
-- Komfortable Funktionen – Das Telefon besitzt eine intuitive Menüführung, ein brillantes Farbdisplay mit hohem Kontrast, exzellente Sprach-Qualität und bietet Platz für 500 Kontakte
-- Viele Anschlussmöglichkeiten – Das Mobilteil kann an alle Gigaset Basen, DECT- / GAP- Basen, Router (mit und ohne CAT-iq) verschiedener Hersteller angeschlossen werden
+- VIELFÄLTIGE ANSCHLUSSMÖGLICHKEITEN - Anschluss an alle gängigen Routern mit DECT/CAT-iq Funktionalität, z.B. AVM FRITZ!Box oder Speedport
+- TECHNOLOGIE TRIFFT AUF DESIGN - dank Headsetanschluss und Reichweitenwarnton behalten Sie mit dem Gigaset S850HX Bewegungsfreiheit für alles, was Sie während des Telefonierens erledigen wollen
+- QUALITÄT MADE IN GERMANY - Design und Herstellung in Deutschland - die umweltfreundliche ECO DECT Technologie sorgt für einen reduzierten Energieverbrauch
+- MIT REICHLICH FUNKTIONEN - Freisprechen in brillanter Voll-Duplex-Qualität, Hinweis auf entgangene Anrufe über Display und beleuchtete Nachrichtentaste, Adressbuch für bis zu 500 Kontakte
+- LIEFERUMFANG - 1x Gigaset S850HX Mobilteil, 1x Ladeschale, 1x Steckernetzteil, 2x AAA-Akku (NiMH), 1x Gürtelclip, 1x Bedienungsanleitung
 
 [Hier!!](https://www.amazon.de/dp/B013QFRBDO/?tag=tolees0ca-21)
