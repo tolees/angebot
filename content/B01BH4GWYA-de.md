@@ -25,10 +25,10 @@ Es gibt ein [Panasonic DMP-BDT184EG 3D Blu-ray Player  4K Upscaling  DLNA  VoD  
 
 ℹ️:
 
-- Schnelle und komfortable Bedienung dank Dual Core Prozessor und HDMI-Steuerung
+- Ultra HD Auflösung durch 4K Upscaling und atemberaubende 3D Bildqualität
 - Filme, Fotos oder Musik einfach von USB oder über DLNA im Heimnetzwerk abspielen
 - Panasonic 4K Player mit spannenden Internet-Apps (z. B. Amazon Instant Video, Netflix)
-- Ultra HD Auflösung durch 4K Upscaling und atemberaubende 3D Bildqualität
+- Schnelle und komfortable Bedienung dank Dual Core Prozessor und HDMI-Steuerung
 - Einfache Einbindung ins Netzwerk über LAN-Anschluss
 
 [kauf es hier!!](https://www.amazon.de/dp/B01BH4GWYA/?tag=tolees0ca-21)

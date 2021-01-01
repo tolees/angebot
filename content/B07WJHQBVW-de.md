@@ -25,8 +25,8 @@ Sie können [Salomon Herren XA PRO 3D V8  Leichte Schuhe für Trail Running und 
 
 ℹ️:
 
-- Iconic fit: now 20g lighter, the shoe features a seamed upper and thinner, softer materials for the perfect balance between comfort and protection
 - Cushioned stability: The new geometry of the 3D chassis provides just the right amount of cushioning and stability for a more secure ride
 - All-terrain grip: The durable contagrip outsole gives you extra grip, so you can ignore the wet and concentrate on the trail ahead
+- Iconic fit: now 20g lighter, the shoe features a seamed upper and thinner, softer materials for the perfect balance between comfort and protection
 
 [Hier!!](https://www.amazon.de/dp/B07WJHQBVW/?tag=tolees0ca-21)

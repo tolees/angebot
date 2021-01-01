@@ -26,8 +26,8 @@ Es gibt ein [Tommy Hilfiger Herren CORE Cotton-Silk CNECK Pullover  Grau  Charco
 ℹ️:
 
 - Ausschnitt mit aufgesetzten Tommy-Streifen an der Innenseite
-- Aufgestickte Tommy Hilfiger Flagge auf der Brust
 - Rundhalsausschnitt
+- Aufgestickte Tommy Hilfiger Flagge auf der Brust
 - Kragen, Bündchen und Saum aus Rippstrick
 
 [kauf es hier!!](https://www.amazon.de/dp/B0778MN8SK/?tag=tolees0ca-21)

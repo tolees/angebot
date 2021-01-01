@@ -25,9 +25,9 @@ Es gibt ein [adidas Herren CORE18 Hoody Sweatshirt  White  L](https://www.amazon
 
 ℹ️:
 
-- Kangaroo pocket
 - Hood with lanyard
-- Model number: FS1895
+- Kangaroo pocket
 - Regular fit
+- Model number: FS1895
 
 [kauf es hier!!](https://www.amazon.de/dp/B07XDLG46V/?tag=tolees0ca-21)

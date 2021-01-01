@@ -25,8 +25,8 @@ Sie können [Intenso interne SSD-Festplatte 256GB Top Performance  schwarz](http
 
 ℹ️:
 
-- Interface: SATA III (6 Gbps)
-- Form factor: 2.5"
 - NAND Flash: High-Speed MLC
+- Form factor: 2.5"
+- Interface: SATA III (6 Gbps)
 
 [Hier!!](https://www.amazon.de/dp/B0093RN1OS/?tag=tolees0ca-21)

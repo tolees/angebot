@@ -27,7 +27,7 @@ Sie können [Sylvanian Families - 5393 - Himbeer Haus NEU](https://www.amazon.de
 
 - inkl. Schokoladenhasen Baby Figur und Hochbett mit Rutsche
 - kann mit anderen Häusern und Läden kombiniert werden
-- für Kinder ab 3 Jahren geeignet
 - Haus mit Türe zum Öffnen
+- für Kinder ab 3 Jahren geeignet
 
 [Hier!!](https://www.amazon.de/dp/B07VHG3DLS/?tag=tolees0ca-21)

@@ -25,9 +25,9 @@ Sie können [Pentel S520-A Sign Pen Faserschreiber  0 8 mm Strichstärke  schwar
 
 ℹ️:
 
-- Contains non-permanent water-based ink
-- Acrylic fibre tip for smooth but durable writing
-- Dye based ink - black
 - Original fibre tipped pen, 1.0 mm line width
+- Acrylic fibre tip for smooth but durable writing
+- Contains non-permanent water-based ink
+- Dye based ink - black
 
 [Hier!!](https://www.amazon.de/dp/B000I5SCNY/?tag=tolees0ca-21)

@@ -25,11 +25,11 @@ Es gibt ein [Intenso Premium Edition Portable 256GB Externe SSD Festplatte  USB 
 
 ℹ️:
 
-- power supply via usb 3.0 port (downwards compatible)
 - super speed usb 3.0 interface with a max data transfer rate of up to 320 mb/s
+- power supply via usb 3.0 port (downwards compatible)
+- low power consumption, shock-resistant (1500 g/0.5 ms) & silent operation (0db)
 - compact and pocket size: 8,9 x 5,4 x 0,8 cm
 - scope of delivery: external intenso ssd premium 256 gb and usb 3.0 cable
-- low power consumption, shock-resistant (1500 g/0.5 ms) & silent operation (0db)
 - ; Compatible devices: Desktop; Hard disk size: 256.0 GB; Memory storage capacity: 256.0
 
 [kauf es hier!!](https://www.amazon.de/dp/B0742KVRJR/?tag=tolees0ca-21)

@@ -25,10 +25,10 @@ Es gibt ein [LEGO 75272 Star Wars Sith TIE Fighter Bauset  Serie Der Aufstieg Sk
 
 ℹ️:
 
-- When the First Order missions with this super-fast Sith TIE Fighter have ended, kids can display it on the tower to decorate their room
-- Kids can leap into the cockpit of the starfighter and fly into battle, then hit top speed and fire the spring-loaded shooters!
-- This set combines brilliantly with Poe Damerons X-wing Fighter (75273) for epic First Order vs. Resistance battles
 - Includes three minifigures: The First Order TIE Pilot, Knight of Ren and Finn minifigures with cool weapons: Guns and a sword
+- When the First Order missions with this super-fast Sith TIE Fighter have ended, kids can display it on the tower to decorate their room
+- This set combines brilliantly with Poe Damerons X-wing Fighter (75273) for epic First Order vs. Resistance battles
+- Kids can leap into the cockpit of the starfighter and fly into battle, then hit top speed and fire the spring-loaded shooters!
 - Fighter features an opening minifigure cockpit and two spring-loaded missiles; there’s also a docking tower for launch, landing and to display
 
 [kauf es hier!!](https://www.amazon.de/dp/B07WC12QZW/?tag=tolees0ca-21)

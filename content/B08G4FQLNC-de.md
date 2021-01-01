@@ -25,10 +25,10 @@ Es gibt ein [Xpassion Playstation Lampe mit Farbwechsel Funktion 16 Farben LED-T
 
 ℹ️:
 
-- ❤ 100% MONEY BACK Assuranse---Order now, with peace of mind; RISK-FREE; Your purchase is backed by our exclusive 18-month help and 90 Days Money Back; Either you love the product or you are entitled to a 100% refund help.
 - ❤ Durable & Energy Saving---Two power modes: 3*AA batteries (not included) and USB connection. The LED light is soft and uniform, no dazzling, non-flicker, and dimmable, harmless to childrens eyes.
 - ❤ PERFECT GIFT---3D PlayStation night light would be perfect for geeks and fans of the popular gaming system. Perfect as a unique stocking stuffer or birthday present, thanksgiving gifts, housewarming gifts, graduation gifts, Christmas gifts for kids, baby, toddlers, friends. Ideal home decor, bedroom decor, kids room decor, baby room decor, etc.
-- ❤ This is the 3D illusion lamp that can show up the game button 3D game image when the light glow from the lamp base, with an optical acrylic flat board with laser engraving, can give you an amazing 3D visual effect. This 3D night light is an incredible game lover gifts toys for kids freind and family. Everyone will want one.
+- ❤ 100% MONEY BACK Assuranse---Order now, with peace of mind; RISK-FREE; Your purchase is backed by our exclusive 18-month help and 90 Days Money Back; Either you love the product or you are entitled to a 100% refund help.
 - ❤ Main Features---16 colors changing / Remote control function / Dimmable / 4 modes of color flashing (Flash, Strobe, Fade, and Smooth) / Two ways of power supply: 3* AAA Batteries or USB connection (Suggested)
+- ❤ This is the 3D illusion lamp that can show up the game button 3D game image when the light glow from the lamp base, with an optical acrylic flat board with laser engraving, can give you an amazing 3D visual effect. This 3D night light is an incredible game lover gifts toys for kids freind and family. Everyone will want one.
 
 [kauf es hier!!](https://www.amazon.de/dp/B08G4FQLNC/?tag=tolees0ca-21)

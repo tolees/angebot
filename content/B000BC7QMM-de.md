@@ -25,10 +25,10 @@ Sie können [D-Link DGS-105 5-Port Layer2 Gigabit Switch  bis zu 2000 Mbit/s Dat
 
 ℹ️:
 
-- Im Full Duplex Modus bis zu 2000 Mbit/s pro Port
 - Energiesparende Funktionen mit D-Link Green
-- Automatische MDI/MDIX-Erkennung an allen Anschlüssen
 - Sicheres Store-and-Forward Weiterleitungsverfahren
+- Im Full Duplex Modus bis zu 2000 Mbit/s pro Port
+- Automatische MDI/MDIX-Erkennung an allen Anschlüssen
 - Arbeitet geräuschlos durch eine lüfterlose Bauweise
 
 [Hier!!](https://www.amazon.de/dp/B000BC7QMM/?tag=tolees0ca-21)
