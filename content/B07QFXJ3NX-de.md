@@ -25,10 +25,10 @@ Sie können [Transcend Highspeed 256GB interne mSATA SSD SATA III  6Gb/s   zum A
 
 ℹ️:
 
-- Bis zu 550MB/s Lesen; 400MB/s Schreiben
 - Konzipiert mit einem RAID-Motor, LDPC-Codierung für Datenintegrität und integrierter SLC-Cache-Technologie für außergewöhnliche Übertragungsgeschwindigkeiten.
 - Unterstützt DevSleep-Energiesparmodus, S.M.A.R.T., TRIM und NCQ Befehle
-- mSATA Formfaktor und SATA III 6Gb/s Schnittstelle
 - NAND-Flash-Speicher.
+- mSATA Formfaktor und SATA III 6Gb/s Schnittstelle
+- Bis zu 550MB/s Lesen; 400MB/s Schreiben
 
 [Hier!!](https://www.amazon.de/dp/B07QFXJ3NX/?tag=tolees0ca-21)
