@@ -26,8 +26,8 @@ Es gibt ein [Esbit Spiritusbrenner](https://www.amazon.de/dp/B004RHPSMM/?tag=tol
 ℹ️:
 
 - Schraubverschluss mit Gummidichtung für sicheren Transport, auslaufsicher
-- Flammenregulierer mit Klappgriff zum komfortablen Löschen / Regulieren der Flamme
 - Messingkörper
 - Spiritusbrenner
+- Flammenregulierer mit Klappgriff zum komfortablen Löschen / Regulieren der Flamme
 
 [kauf es hier!!](https://www.amazon.de/dp/B004RHPSMM/?tag=tolees0ca-21)

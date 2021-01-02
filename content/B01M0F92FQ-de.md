@@ -25,10 +25,10 @@ Es gibt ein [mumbi RMF150 Funkrauchmelder: 4 x Funk Rauchmelder/Feuermelder gepr
 
 ℹ️:
 
-- Optischer Funkrauchmelder mit durchdringendem Alarmsignal - die Rauchmelder können miteinander vernetzt werden - der Alarm wird an alle vernetzten Rauchmelder weitergegeben!
-- Frequenz 433,92MHz für die schnurlose Übertragung des Alarmsignals
 - Funkrauchmelder inklusive 9V Batterie und 3 x AA Batterien je Melder + Dübel und Schrauben + Bedienungsanleitung!
-- Dauerüberwachung | Prüftaste zum manuellen Selbsttest - mit durchdringendem Alarmsignal / 85dB Alarmsignal = extra laut
+- Optischer Funkrauchmelder mit durchdringendem Alarmsignal - die Rauchmelder können miteinander vernetzt werden - der Alarm wird an alle vernetzten Rauchmelder weitergegeben!
 - Nur der Einsatz von Rauchwarnmeldern nach DIN EN 14604 ist zulässig!
+- Frequenz 433,92MHz für die schnurlose Übertragung des Alarmsignals
+- Dauerüberwachung | Prüftaste zum manuellen Selbsttest - mit durchdringendem Alarmsignal / 85dB Alarmsignal = extra laut
 
 [kauf es hier!!](https://www.amazon.de/dp/B01M0F92FQ/?tag=tolees0ca-21)

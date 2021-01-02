@@ -25,10 +25,10 @@ Es gibt ein [Woodstock Encore Collection Windspiel Chimes of Mercury  silber](ht
 
 ℹ️:
 
-- Länge von Holz-Oberteil bis unten: 28 cm. Längstes Rohr: 16,5 cm. Gesamtlänge: 36 cm
 - Alle Windspiele von Encore klingen auch wunderbar zusammen, da die Töne der pentatonischen Tonleiter immer miteinander harmonieren
-- Silber eloxierte Aluminiumrohre für wunderschöne Melodien, gestimmt nach der pentatonischen Tonleiter
 - Fünf silberfarbene Aluminiumrohre. Oberteil und Kugel aus Holz. Stabile, geflochtene Nylonschnur
 - Ein ganzjähriger Favorit dank Qualität, gutem Preis-Leistungs-Verhältnis und melodischer Klänge
+- Silber eloxierte Aluminiumrohre für wunderschöne Melodien, gestimmt nach der pentatonischen Tonleiter
+- Länge von Holz-Oberteil bis unten: 28 cm. Längstes Rohr: 16,5 cm. Gesamtlänge: 36 cm
 
 [kauf es hier!!](https://www.amazon.de/dp/B004KZHB76/?tag=tolees0ca-21)
