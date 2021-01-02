@@ -25,10 +25,10 @@ Es gibt ein [Ambientehome 3er Sitzkissen Bank Evje  grau  ca 150 x 50 x 8 cm  Po
 
 ℹ️:
 
-- Material: 50% Baumwolle, 50% Olifen
-- Gesteppte Ausführung - Die Füllung bleibt da wo sie sein soll! Sie verrutscht nicht!
 - Abmessungen ca. 150 x 50 x 8-10 cm
 - Füllung: Geschredderter und gehackter Polyurethanschaum
 - Handwäsche
+- Material: 50% Baumwolle, 50% Olifen
+- Gesteppte Ausführung - Die Füllung bleibt da wo sie sein soll! Sie verrutscht nicht!
 
 [kauf es hier!!](https://www.amazon.de/dp/B00RZHZCKY/?tag=tolees0ca-21)

@@ -26,9 +26,9 @@ Es gibt ein [Fenix sport Lampenhalterung Fahrrad-Halterung ALB-10  black  STANDA
 ℹ️:
 
 - ohne Werkzeug montierbar
-- Fahrradhalter ALB-10
 - Taschenlampen von 18-26mm
-- Lenkerrohr von 22-35mm
+- Fahrradhalter ALB-10
 - Material:Kunststoff
+- Lenkerrohr von 22-35mm
 
 [kauf es hier!!](https://www.amazon.de/dp/B00J2G30SC/?tag=tolees0ca-21)

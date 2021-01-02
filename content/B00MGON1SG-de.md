@@ -25,8 +25,8 @@ Sie können [Eastpak Padded Pak r Rucksack  40 cm  24 L  Grau  Black Denim ](htt
 
 ℹ️:
 
+- Höhe: 40 cm, Breite: 30 cm, Tiefe: 18 cm
 - Aus 100 Prozent Polyester
 - Geräumiges Hauptfach mit Vordertasche in unserem klassischen Design
-- Höhe: 40 cm, Breite: 30 cm, Tiefe: 18 cm
 
 [Hier!!](https://www.amazon.de/dp/B00MGON1SG/?tag=tolees0ca-21)
