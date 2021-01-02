@@ -26,9 +26,9 @@ Sie können [Needit Parklite blau Park Lite 1411 Vollautomatische Parkscheibe  B
 ℹ️:
 
 - NACHT-PARK-FUNKTION - Beginnt die Parkzone erst am nächsten Morgen, kann die Auto Parkuhr manuell vorgestellt werden. Ebenso stellt die Uhr automatisch auf Sommer bzw Winterzeit um (abschaltbar)
-- OFFIZIELLE GENEHMIGUNG vom Bundesministerium für Verkehr Bau u. Stadtentwicklung unter Verweis auf Verordnung Nr. 219 sowie die Zulassung vom Kraftfahrt-Bundesamt (ECE-Genehmigung Nr. 10 R - 047203)
+- BEWEGUNGSSENSOR - Die Parkuhr stellt sich bei jedem Stillstand (>20 Sek. ) von selbst ein - die Ankunftszeit (aufgerundet zur nächsten halben Stunde) bleibt sichtbar bis sich das Auto wieder bewegt
 - ELEKTRONISCHE PARKUHR MIT ZULASSUNG ist batteriebetrieben, wird auf der Beifahrerseite unten an der Frontscheibe angebracht und eignet sich für alle Fahrzeuge einschließlich Hybrid- u. Elektroautos
 - AUTO-ZUBEHÖR - Die Parkuhr kommt mit allen benötigten Utensilien für eine schnelle Montage - 1 x Parkscheibe elektronisch + Gebrauchsanweisung + 1x CR2450 Batterie + 3M Klebepads u. Reinigungstuch
-- BEWEGUNGSSENSOR - Die Parkuhr stellt sich bei jedem Stillstand (>20 Sek. ) von selbst ein - die Ankunftszeit (aufgerundet zur nächsten halben Stunde) bleibt sichtbar bis sich das Auto wieder bewegt
+- OFFIZIELLE GENEHMIGUNG vom Bundesministerium für Verkehr Bau u. Stadtentwicklung unter Verweis auf Verordnung Nr. 219 sowie die Zulassung vom Kraftfahrt-Bundesamt (ECE-Genehmigung Nr. 10 R - 047203)
 
 [Hier!!](https://www.amazon.de/dp/B00PKJUI5S/?tag=tolees0ca-21)

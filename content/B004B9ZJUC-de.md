@@ -25,8 +25,8 @@ Sie können [Smiffy s 39441L- 1960er Hippie-Kostüm für Damen   Größe L  42-4
 
 ℹ️:
 
-- Waschanleitung: Nur chemisch reinigen
 - Fügen Sie unser Friedenszeichen-Medaillon hinzu, um den Look zu vervollständigen
 - Dieses Damenkostüm aus den 1960er Jahren enthält Hemd und Hose
+- Waschanleitung: Nur chemisch reinigen
 
 [Hier!!](https://www.amazon.de/dp/B004B9ZJUC/?tag=tolees0ca-21)

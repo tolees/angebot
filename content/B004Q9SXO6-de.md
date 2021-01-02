@@ -25,11 +25,11 @@ Es gibt ein [AEG 97121 Sinus-Spannungswandler SW 1000 Watt  12 Volt auf 230 Volt
 
 ℹ️:
 
+- LCD-Display: Anzeige von Eingangsspannung (V), Ausgangsleistung Endgerät (W), Warn- und Fehlermeldungen.
+- Ausgangsladespannung: 230 Volt Wechselstrom (reale Sinuswelle). Wirkungsgrad: > 80 %.
+- Hinweiss: Aus Sicherheitsgründen schaltet sich das Produkt aus, wenn die Batterie schwach ist, um die Batterie nicht noch weiter zu schädigen
+- Sicherheits- und Komfortmerkmale: Batteriewächter, Überhitzungs-, Kurzschluss- sowie Überlastungsschutz, Unter- und Überspannungsschutz
 - Dauerleistung: 1000 Watt. Kurzzeitige Impulsleistung (0,1 Sek.): 2000 Watt. Eingangsspannung: 11 - 15 Volt Gleichstrom.
 - Anschluss SW 1000: Ringösen. Verlängerungskabel als Zubehör erhältlich. USB-Ladebuchse: 5 V / 0,5 A.
-- Hinweiss: Aus Sicherheitsgründen schaltet sich das Produkt aus, wenn die Batterie schwach ist, um die Batterie nicht noch weiter zu schädigen
-- Ausgangsladespannung: 230 Volt Wechselstrom (reale Sinuswelle). Wirkungsgrad: > 80 %.
-- Sicherheits- und Komfortmerkmale: Batteriewächter, Überhitzungs-, Kurzschluss- sowie Überlastungsschutz, Unter- und Überspannungsschutz
-- LCD-Display: Anzeige von Eingangsspannung (V), Ausgangsleistung Endgerät (W), Warn- und Fehlermeldungen.
 
 [kauf es hier!!](https://www.amazon.de/dp/B004Q9SXO6/?tag=tolees0ca-21)
