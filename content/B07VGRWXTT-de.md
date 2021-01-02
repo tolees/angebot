@@ -27,8 +27,8 @@ Sie können [Hugo Boss Herren Analog Quarz Uhr mit Edelstahl Armband 1513734](ht
 
 - Graues Mesh-Armband mit IP-Beschichtung
 - Gehäusedicke 7 mm, Durchmesser des Gehäuses: 40 mm
-- 2-Zeiger-Uhrwerk
 - Wasserabweisend bis 3 bar
+- 2-Zeiger-Uhrwerk
 - Blaues Zifferblatt
 
 [Hier!!](https://www.amazon.de/dp/B07VGRWXTT/?tag=tolees0ca-21)
