@@ -26,7 +26,7 @@ Es gibt ein [Genuine SEBO Vacuum Cleaner Stair and Upholstery Turbo Brush Tool 6
 ℹ️:
 
 - Geeignet für alle Sebo Modelle
-- Für die Reinigung von strapazierfähigen Polstermöbeln, Matrazen, u.a.
 - Luftangetriebene, federnd gelagerte Bürstenwalze
+- Für die Reinigung von strapazierfähigen Polstermöbeln, Matrazen, u.a.
 
 [kauf es hier!!](https://www.amazon.de/dp/B004MASKQU/?tag=tolees0ca-21)

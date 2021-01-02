@@ -25,9 +25,9 @@ Es gibt ein [Roccat Vulcan 121 - Mechanische Gaming Tastatur  AIMO LED Einzeltas
 
 ℹ️:
 
-- ROCCAT Titan Switch Speed – innovative, mechanische Schalter, Taktil, leise und leichtgängig, einzigartiges Design mit reduzierten Tastenkappen
 - Hochwertiges und widerstandsfähiges Design – Robuste Materialien und staubresistenten Schalter, eloxierte schwarze Aluminiumoberfläche
 - Advanced Anti-Ghosting mit nrko – komplettes N-Key Rollover, jeder Tastenanschlag wird registriert
+- ROCCAT Titan Switch Speed – innovative, mechanische Schalter, Taktil, leise und leichtgängig, einzigartiges Design mit reduzierten Tastenkappen
 - Konfigurierbare Tasten und Makros - 6 programmierbare Makro Tasten, ROCCAT Easy-Shift[+] Funktion für doppelbelegungen, Multimedia-Funktionen
 - Aimo Beleuchtung – RGB Einzeltastenbeleuchtung mit konfigurierbaren LED Lichteffekten in 16, 8 Millionen Farben und einstellbarem AIMO Effekt (unterstützt Synchronisierung über mehrere AIMO Geräte)
 

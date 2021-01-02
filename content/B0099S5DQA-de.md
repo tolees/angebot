@@ -25,10 +25,10 @@ Sie können [RIDGID 37463 Modell PTEC 3240 Kunststoff-Rohrabschneider  Rohrabsch
 
 ℹ️:
 
-- Der Rohrabschneider schneidet einen Außendurchmesser von 32 mm und 40 mm.
-- Führt saubere, schnelle und gerade Schnitte an Rohren aus Polyethylen (PE), Polypropylen (PP) und dünnwandigen PVC-Rohren (< 2,5 mm) durch
 - Da dieser Rohrabschneider während des Schneidevorgangs automatisch entgratet, ist kein weiteres Werkzeug zum Entgraten nötig.
-- Dank der Sichtöffnungen für optimalen Einblick, kann bei jedem Vorgang ein gerader Schnitt am markierten Rohr gewährleistet werden; im Durchschnitt werden für das Durchführen eines Schnittes lediglich sechs Umdrehungen benötigt. Somit ist das Gerät ca. viermal schneller als eine Bügelsäge.
 - Das automatische Anfasen ermöglicht das sofortige und mühelose Verbinden mit anderen Abflussrohrstücken.
+- Dank der Sichtöffnungen für optimalen Einblick, kann bei jedem Vorgang ein gerader Schnitt am markierten Rohr gewährleistet werden; im Durchschnitt werden für das Durchführen eines Schnittes lediglich sechs Umdrehungen benötigt. Somit ist das Gerät ca. viermal schneller als eine Bügelsäge.
+- Führt saubere, schnelle und gerade Schnitte an Rohren aus Polyethylen (PE), Polypropylen (PP) und dünnwandigen PVC-Rohren (< 2,5 mm) durch
+- Der Rohrabschneider schneidet einen Außendurchmesser von 32 mm und 40 mm.
 
 [Hier!!](https://www.amazon.de/dp/B0099S5DQA/?tag=tolees0ca-21)

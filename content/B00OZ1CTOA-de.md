@@ -25,10 +25,10 @@ Sie können [HISTOGAME Wir sind das Volk! – Strategiespiel für Erwachsene: Br
 
 ℹ️:
 
-- SPIELBRETT: Das Spielbrett orientiert sich an der historischen Karte des geteilten Deutschlands von 1952. Geringfügige Abweichungen ergeben sich aus der Anpassung an den Spielmechanismus
-- SRATEGIESPIEL für ERWACHSENE: Das Brettspiel für Erwachsene erschien 2014 im Verlag Histogame für zwei Spieler ab 12 n. Spieldauer ca. 150 Min.. Gewinner des International Gamer Awards 2015
 - HISTORISCHES BRETTSPIEL: Deutsche Teilung zwischen 1949 und 1989. Der Kalte Krieg zerreißt Deutschland in zwei Hälften. Die Spieler übernehmen die Bundesrepublik oder die DDR
+- SPIELBRETT: Das Spielbrett orientiert sich an der historischen Karte des geteilten Deutschlands von 1952. Geringfügige Abweichungen ergeben sich aus der Anpassung an den Spielmechanismus
 - OST GEGEN WEST: Mit klugem Einsatz baut man mit Aktionskarten seine Wirtschaft auf und kämpft gegen innere Unruhen. Auch das Tauziehen um internationale Anerkennung sollte man nie aus dem Auge verlieren
 - EREIGNISKARTEN lösen historische Ereignisse aus. Ein Spieler kann z.B. als Bundesrepublik das Wirtschaftswunder auslösen, oder die DDR den Beitritt zum Warschauer Pakt erklären lassen
+- SRATEGIESPIEL für ERWACHSENE: Das Brettspiel für Erwachsene erschien 2014 im Verlag Histogame für zwei Spieler ab 12 n. Spieldauer ca. 150 Min.. Gewinner des International Gamer Awards 2015
 
 [Hier!!](https://www.amazon.de/dp/B00OZ1CTOA/?tag=tolees0ca-21)
