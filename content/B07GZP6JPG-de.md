@@ -25,11 +25,11 @@ Es gibt ein [Nikon D3500 Kit AF-P DX 18-55 mm VR schwarz](https://www.amazon.de/
 
 ℹ️:
 
+- Das hochpräzise Autofokussystem mit 11 Messfeldern und hoher Empfindlichkeit sorgt für gestochen scharfe Motive, auch während Sie bis zu fünf wunderschöne Bilder pro Sekunde aufnehmen.
 - Perfekte Bilder aufzunehmen, ist nur der halbe Spaß. Mit der D3500 können Sie hochqualitative Full-HD-Filme mit großem Detailreichtum und Bildraten bis 60p aufnehmen.
-- Effektiver Bildwinkel - Nikon-DX-Format, Bildwinkel entspricht dem eines Objektivs mit ca. 1,5-facher Brennweite im FX-Format (Vollformat)
 - Kompaktes und sehr leichtes Gehäuse mit Metallbajonett und tiefem Handgriff für komfortablen Halt sowie großem DX-Format-Sensor mit 24,2 Megapixeln für detailreiche Fotos und Full-HD-Filme
 - Eingebaute Bluetooth-Schnittstelle, nutzbar über die App SnapBridge für iOS und Android, die eine konstante Verbindung zwischen der Kamera und einem Smartphone oder Tablet herstellt.
-- Das hochpräzise Autofokussystem mit 11 Messfeldern und hoher Empfindlichkeit sorgt für gestochen scharfe Motive, auch während Sie bis zu fünf wunderschöne Bilder pro Sekunde aufnehmen.
+- Effektiver Bildwinkel - Nikon-DX-Format, Bildwinkel entspricht dem eines Objektivs mit ca. 1,5-facher Brennweite im FX-Format (Vollformat)
 - Lieferumfang: Nikon D3500 Kameragehäuse, Kameragurt, EN-EL14 Akku, MH-24 Ladegerät, AF-P DX NIKKOR 18-55 mm 1:3,5-5,6G VR
 
 [kauf es hier!!](https://www.amazon.de/dp/B07GZP6JPG/?tag=tolees0ca-21)
