@@ -25,10 +25,10 @@ Es gibt ein [DeLock USB 2.0 Typ A auf Mini B Spiral Kabel  bis 60 cm ](https://w
 
 ℹ️:
 
-- Anschlüsse: USB 2.0-A Stecker > USB Mini Stecker
-- Kabellänge: ca. 20 – 60 cm
 - Drahtquerschnitt: AWG 28
 - Kabeltyp: Spiralkabel
+- Anschlüsse: USB 2.0-A Stecker > USB Mini Stecker
+- Kabellänge: ca. 20 – 60 cm
 - Farbe: schwarz
 
 [kauf es hier!!](https://www.amazon.de/dp/B008VCFXI8/?tag=tolees0ca-21)
