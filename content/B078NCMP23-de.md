@@ -25,10 +25,10 @@ Sie können [Bayer Chic 2000 595 76 Kombi-Puppenwagen Mika  Jeans grau](https://
 
 ℹ️:
 
-- Geeignet für Puppen bis ca. 52 cm
-- Der Schiebegriff ist höhenverstellbar von ca. 47 bis 80 cm und passt sich so der Körpergröße des Kindes an
 - Der Schieber lässt sich schwenken, so dass der Puppenwagen von beiden Seiten aus gefahren werden kann
+- Geeignet für Puppen bis ca. 52 cm
 - Der Sportwagen ist mit einem 3-Punkt-Sicherheitsgurt ausgestattet und kann sowohl in Fahrtrichtung wie auch mit Blick zur Puppenmutti verwendet werden
+- Der Schiebegriff ist höhenverstellbar von ca. 47 bis 80 cm und passt sich so der Körpergröße des Kindes an
 - Brandneuer und topmodisch gestylter Kombi-Puppenwagen mit vielen praktischen Funktionen und schickem Gestell
 
 [Hier!!](https://www.amazon.de/dp/B078NCMP23/?tag=tolees0ca-21)

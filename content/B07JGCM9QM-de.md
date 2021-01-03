@@ -25,10 +25,10 @@ Sie können [Logitech G Saitek Farm Sim Controller  Farming Simulator Bundle bes
 
 ℹ️:
 
-- Gut im Griff: Das Logitech G Saitek Farm Sim Lenkrad ist um 900 Grad drehbar, gefedert und erlaubt das Führen sämtlicher schwerer Landwirtschaftsmaschinen
+- Heavy Equipment Bundle: Umfasst ein Lenkrad für schwere Maschinen, Gas- und Bremspedal sowie ein seitliches Steuerpult
+- Kompatibilität: Der Controller für Farm-Simulation ist mit Windows 10, 8.1 und 7 sowie mit MAC OS X 10.10 kompatibel und setzt einen USB-2.0-Anschluss voraus
 - Allrounder: Ein seitliches Steuerpult mit Steuerungsstick zum Beladen und programmierbare Tasten erleichtert das Bedienen
 - Genauer: Der Farm Sim Controller verfügt über zwei integrierte Analog-Sticks mit Druckschalter für ein verbessertes Simulationserlebnis
-- Kompatibilität: Der Controller für Farm-Simulation ist mit Windows 10, 8.1 und 7 sowie mit MAC OS X 10.10 kompatibel und setzt einen USB-2.0-Anschluss voraus
-- Heavy Equipment Bundle: Umfasst ein Lenkrad für schwere Maschinen, Gas- und Bremspedal sowie ein seitliches Steuerpult
+- Gut im Griff: Das Logitech G Saitek Farm Sim Lenkrad ist um 900 Grad drehbar, gefedert und erlaubt das Führen sämtlicher schwerer Landwirtschaftsmaschinen
 
 [Hier!!](https://www.amazon.de/dp/B07JGCM9QM/?tag=tolees0ca-21)
