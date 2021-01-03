@@ -25,9 +25,9 @@ Sie können [Kocostar Hand Moisture Pack  1 Stück](https://www.amazon.de/dp/B00
 
 ℹ️:
 
-- Touch-Funktion z.B. beim Smartphone
-- Einfache Handhabung mit WOW-Effekt: Skintertainment
 - Ideal für trockene Hände
+- Einfache Handhabung mit WOW-Effekt: Skintertainment
 - Wärmeerzeugung durch Körperwärme innerhalb des Packs
+- Touch-Funktion z.B. beim Smartphone
 
 [Hier!!](https://www.amazon.de/dp/B00L7NPZYA/?tag=tolees0ca-21)

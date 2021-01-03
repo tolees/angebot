@@ -25,8 +25,8 @@ Sie können [Sharkoon Shark Blades RGB Fan  Gehäuselüfter](https://www.amazon.
 
 ℹ️:
 
-- VIELFÄLTIGE ANSCHLUSSMÖGLICHKEITEN: Um maximale Kompatibilität zu gewährleisten, werden die RGBLEDs des SHARK Blade RGB Fans je nach Mainboard über den 3-poligen 5V-D-G- oder 4-poligen 5V-D-coded-G-Anschluss verbunden.
 - EINFACH ZU INTEGRIEREN: Der SHARK Blades RGB Fan ist zertifiziert für Asus Aura Sync, MSI Mystic Light Sync sowie Gigabyte Fusion und lässt sich damit spielend leicht in bestehende Systeme integrieren.
+- VIELFÄLTIGE ANSCHLUSSMÖGLICHKEITEN: Um maximale Kompatibilität zu gewährleisten, werden die RGBLEDs des SHARK Blade RGB Fans je nach Mainboard über den 3-poligen 5V-D-G- oder 4-poligen 5V-D-coded-G-Anschluss verbunden.
 - FARBENFROH UND INDIVIDUELL: Zwanzig ringförmig angeordnete, adressierbare LEDs sorgen für eine kräftige Ausleuchtung, die sich über die Software kompatibler Mainboards nach individuellen Bedürfnissen in 16, 8 Millionen Farben steuern lässt.
 - LEISTUNGSSTARK UND LEISE: Der robuste 120-mm-Lüfter auf Basis eines hydrodynamischen Gleitlagers erzeugt einen Luftdurchsatz von 94, 8 m3/h bei 1.200 Umdrehungen pro Minute und überschreitet selbst bei Hochbetrieb leise 18, 2 dBA nicht.
 - ENTKOPPELTE MONTAGE: Dank gummierter Auflagepunkte werden Gehäusevibrationen mini miert und eine optimale Laufruhe gewährleistet.

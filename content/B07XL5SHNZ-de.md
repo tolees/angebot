@@ -25,14 +25,14 @@ Sie können [Apple Leder Case  für iPhone 11 Pro Max  - Schwarz](https://www.am
 
 ℹ️:
 
-- Und zum kabellosen Laden musst du das Case nicht abnehmen.
-- Diese von Apple designten Cases passen sich perfekt der Form deines iPhone an.
-- Deshalb sieht es nicht nur großartig aus, sondern ist auch dafür gemacht, dein iPhone vor Kratzern und Stürzen zu schützen.
 - So bleibt alles schön dünn.
-- Dadurch fühlt sich die Außenseite weich an und bekommt mit der Zeit eine schöne, natürliche Patina.
-- Die Tasten aus Aluminium passen zur Farbe deines Leder Case, und innen schützt ein Futter aus weicher Mikrofaser das iPhone.
-- Die Cases werden aus speziell gegerbtem, veredeltem europäischen Leder hergestellt.
-- Wie jedes von Apple entwickelte Case muss es im Laufe des Design- und Fertigungs­prozesses Tausende von Teststunden durchlaufen.
 - Kompatibilität: iPhone 11 Pro Max
+- Deshalb sieht es nicht nur großartig aus, sondern ist auch dafür gemacht, dein iPhone vor Kratzern und Stürzen zu schützen.
+- Die Tasten aus Aluminium passen zur Farbe deines Leder Case, und innen schützt ein Futter aus weicher Mikrofaser das iPhone.
+- Und zum kabellosen Laden musst du das Case nicht abnehmen.
+- Wie jedes von Apple entwickelte Case muss es im Laufe des Design- und Fertigungs­prozesses Tausende von Teststunden durchlaufen.
+- Die Cases werden aus speziell gegerbtem, veredeltem europäischen Leder hergestellt.
+- Dadurch fühlt sich die Außenseite weich an und bekommt mit der Zeit eine schöne, natürliche Patina.
+- Diese von Apple designten Cases passen sich perfekt der Form deines iPhone an.
 
 [Hier!!](https://www.amazon.de/dp/B07XL5SHNZ/?tag=tolees0ca-21)
