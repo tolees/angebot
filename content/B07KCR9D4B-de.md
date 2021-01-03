@@ -25,10 +25,10 @@ Es gibt ein [Relaxdays XXL Gewürzkarussell  drehbar  32 Gewürzgläser  aromadi
 
 ℹ️:
 
-- Stylish: 32 Glass spice shakers on 4 tiers - Removable shaker tops
+- Details: XXL Spice carousel HxWxD: 28 x 25 x 25 cm - 32 Spice jars with screw caps à 100 ml capacity
+- Revolving: Compact spice carousel with rotation disc - Reach all shakers comfortably
 - Organiser: Keep a better overview over your spices - Store salt, pepper, chili, curry and more
 - Functional: Flavour preserving, transparent and food safe jars - Also great for dried herbs
-- Revolving: Compact spice carousel with rotation disc - Reach all shakers comfortably
-- Details: XXL Spice carousel HxWxD: 28 x 25 x 25 cm - 32 Spice jars with screw caps à 100 ml capacity
+- Stylish: 32 Glass spice shakers on 4 tiers - Removable shaker tops
 
 [kauf es hier!!](https://www.amazon.de/dp/B07KCR9D4B/?tag=tolees0ca-21)

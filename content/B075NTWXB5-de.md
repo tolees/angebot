@@ -25,10 +25,10 @@ Sie können [Fingerlings Einhorn rose mit Regenbogenmähne  interaktives Spielze
 
 ℹ️:
 
-- Bürste ihre lange Regebogenmähne oder den zauberhaften Schweif!
-- Gebe ihnen Luftküsschen und sie küssen dich zurück! Lasse sie kopfüber an ihrem Einhornschwanz baumeln und schaue ihnen beim Herumalbern zu! Wiege sie in den Schlaf oder wecke sie mit lauten Geräuschen wieder auf!
-- Die echten, interaktiven Fingerlings sind in verschiedenen Farben erhältlich, Batterien inklusive
-- Fingerlings Einhörner reagieren auf Geräusche, Bewegungen und Berührungen mit blinzelden Augen, drehendem Kopf und besonderen Einhornlauten!
 - Gemma ist ein magisches, pinkes Einhorn und liebt es, sich an Dingen festzuklammern... am liebsten jedoch an Fingern!
+- Fingerlings Einhörner reagieren auf Geräusche, Bewegungen und Berührungen mit blinzelden Augen, drehendem Kopf und besonderen Einhornlauten!
+- Gebe ihnen Luftküsschen und sie küssen dich zurück! Lasse sie kopfüber an ihrem Einhornschwanz baumeln und schaue ihnen beim Herumalbern zu! Wiege sie in den Schlaf oder wecke sie mit lauten Geräuschen wieder auf!
+- Bürste ihre lange Regebogenmähne oder den zauberhaften Schweif!
+- Die echten, interaktiven Fingerlings sind in verschiedenen Farben erhältlich, Batterien inklusive
 
 [Hier!!](https://www.amazon.de/dp/B075NTWXB5/?tag=tolees0ca-21)

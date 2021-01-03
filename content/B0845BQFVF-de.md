@@ -25,9 +25,9 @@ Sie können [BRAX Herren Hose Cooper Fancy Marathon Flachgewebe  Anthra  31W / 3
 
 ℹ️:
 
+- Pflegeleichte Herrenhose aus hautfreundlichem Baumwollmix: 96% Baumwolle, 4% Elasthan - besonders bequem, atmungsaktiv, strapazierfähig und elastisch
 - Klassische Five-Pocket Jeans für Herren mit hochwertigem Reißverschluss, Knopfverschluss sowie zwei aufgesetzten Gesäßtaschen und Coinpocket
 - Abmessungen bei Inch-Größe 34/32 sind Bundweite: 88 cm, Beininnenlänge: 82 cm, Fußweite: 40 cm
-- Pflegeleichte Herrenhose aus hautfreundlichem Baumwollmix: 96% Baumwolle, 4% Elasthan - besonders bequem, atmungsaktiv, strapazierfähig und elastisch
 - Die Regular Fit Jeanshose besticht durch eine moderne Passform und einen geraden Schnitt: normale Leibhöhe, gerader Beinverlauf und normaler Fußweite
 - Leichtigkeit und optimale Passform dank Cotton-Satin-Stretch machen diese hochwertig verarbeitete Herrenjeans in zeitgemäßer Optik zu einem täglichen Begleiter
 

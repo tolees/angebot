@@ -25,10 +25,10 @@ Es gibt ein [Cole & Mason Gewürzkarussel 16 Gewürzständer  Glas  Edelstahl  K
 
 ℹ️:
 
-- Mit Aufklebern für die Beschriftung der Gewürze in deutscher Sprache
 - Elegantes Gewürzkarussell mit 8 stilvollen Kräuter- und Gewürzstreuern, standfestes Drehen und Griff für einfaches Tragen
 - Einfaches Aufhängen durch praktisches System
-- Inhalt: Basilikum/Koriander/Fenchel/Majoran/Oregano/Thymian/Petersilie/Minze/Zimt/Dill/Rosmarin/Chiliflocken/Paprika/Kreuzkümmel/Salbei/Kräuter der Provence
 - Die Gläser besitzen einen schicker Edelstahlverschluss zum Einstellen von zwischen Streuen, Schütten und Schließen, so bleiben die Gewürze und Kräuter länger frisch
+- Inhalt: Basilikum/Koriander/Fenchel/Majoran/Oregano/Thymian/Petersilie/Minze/Zimt/Dill/Rosmarin/Chiliflocken/Paprika/Kreuzkümmel/Salbei/Kräuter der Provence
+- Mit Aufklebern für die Beschriftung der Gewürze in deutscher Sprache
 
 [kauf es hier!!](https://www.amazon.de/dp/B07CL8V68X/?tag=tolees0ca-21)

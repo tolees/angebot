@@ -26,8 +26,8 @@ Sie können [DOOM Eternal - Collectors Edition [PC]](https://www.amazon.de/dp/B0
 ℹ️:
 
 - Year One Pass Zugriff auf zwei einzelspieler-kampagnen-add-ons innerhalb des ersten Jahres nach Veröffentlichung
-- Enthält eine Nachbildung des legendären DOOM slayer helms (Maß 1 zu 1, tragbar)
 - Das nächste Level in T knallharter First Person Action
+- Enthält eine Nachbildung des legendären DOOM slayer helms (Maß 1 zu 1, tragbar)
 - Weitere Inhalte: gedruckt lore Buch, Soundtrack hörkassettenreplika (digitaler Download via Code), kunstlithographien und Steelbook im exklusiven Design
 
 [Hier!!](https://www.amazon.de/dp/B07SXXMY7N/?tag=tolees0ca-21)
