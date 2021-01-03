@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony SRS-XB12 Bluetooth Lautsprecher  tr mit 41.94 % Rabatt'
-date: 2021-01-02 00:33:51
+date: 2021-01-03 06:40:50
 image: 'https://m.media-amazon.com/images/I/31iRyP8sR1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07MF9Q21L/?tag=tolees0ca-21'
 descuento: '41.94'
-average: '35.47532608695652'
+average: '35.460531914893615'
 ---
 
 Sie können [Sony SRS-XB12 Bluetooth Lautsprecher  tragbar  kabellos  Extra Bass  wasserabweisend  Freisprechfunktion für Anrufe  schwarz](https://www.amazon.de/dp/B07MF9Q21L/?tag=tolees0ca-21) mit Preis 34.78 EUR (original: 59.9 EUR) 41.94 % Rabatt hier:
@@ -27,9 +27,9 @@ Sie können [Sony SRS-XB12 Bluetooth Lautsprecher  tragbar  kabellos  Extra Bass
 
 - Bis zu 16 Stunden Akkulaufzeit
 - Kompaktes, tragbares Design
-- Freisprechfunktion für Anrufe via Bluetooth
 - Inklusive abnehmbarem Gurt
-- Extra Bass für satten, kraftvollen Sound
+- Freisprechfunktion für Anrufe via Bluetooth
 - Wasserabweisendes Design für sorgenfreien Einsatz (IP67)
+- Extra Bass für satten, kraftvollen Sound
 
 [Hier!!](https://www.amazon.de/dp/B07MF9Q21L/?tag=tolees0ca-21)
