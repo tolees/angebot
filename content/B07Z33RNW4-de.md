@@ -25,9 +25,9 @@ Es gibt ein [Roccat Kone Pure Ultra-Light Ergonomic Gaming Maus  Optischer Senso
 
 ℹ️:
 
-- Aimo Beleuchtung – rgba-hintergrundbeleuchtung und LED-Lichteffekte
-- Griffige, schmutzabweisende performance-beschichtung vereinfacht die Reinigung
-- Ultraleichtes 66-gramm-design für maximale Beweglichkeit
 - Optischer ROCCAT Owl-Eye Sensor mit 16.000 dpi
+- Aimo Beleuchtung – rgba-hintergrundbeleuchtung und LED-Lichteffekte
+- Ultraleichtes 66-gramm-design für maximale Beweglichkeit
+- Griffige, schmutzabweisende performance-beschichtung vereinfacht die Reinigung
 
 [kauf es hier!!](https://www.amazon.de/dp/B07Z33RNW4/?tag=tolees0ca-21)

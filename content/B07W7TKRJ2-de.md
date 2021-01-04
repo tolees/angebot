@@ -27,8 +27,8 @@ Es gibt ein [LEGO 31100 Creator 3-in-1 Sportwagen-  Hot Rod-  Flieger-Bauset  Sp
 
 - Dieses faszinierende Spielzeug ist kompakt genug, um es überall mitzunehmen, und groß genug, um eine Minifigur (nicht enthalten) unterzubringen. Einfache Bauanleitungen sind enthalten
 - LEGO Creator 3-in-1-Sets bieten drei verschiedene Bau- und Spielerlebnisse mit eigenständigen Modellen zum Bauen, Spielen und Wiederaufbauen
-- Der rot-schwarze Sportwagen hat einen schwarzen hinteren Motor mit Saugrohr und einen Spoiler auf dem Heck sowie 2 Auspuffrohre. Alle Modelle sind rot-schwarz-grau
-- Das Creator 3-in-1-Set bietet Kindern gleich 3 Bauoptionen: Sie können einen Sportwagen, einen Hot Rod oder einen historischen Flieger bauen
 - Der Hot-Rod ist mit breiten, spurstabilen Raupenreifen, einer vorderen Lufthutze und einem Kühlergrill sowie einem Mittelmotor ausgestattet und das Flugzeug verfügt über zwei Motoren
+- Das Creator 3-in-1-Set bietet Kindern gleich 3 Bauoptionen: Sie können einen Sportwagen, einen Hot Rod oder einen historischen Flieger bauen
+- Der rot-schwarze Sportwagen hat einen schwarzen hinteren Motor mit Saugrohr und einen Spoiler auf dem Heck sowie 2 Auspuffrohre. Alle Modelle sind rot-schwarz-grau
 
 [kauf es hier!!](https://www.amazon.de/dp/B07W7TKRJ2/?tag=tolees0ca-21)
