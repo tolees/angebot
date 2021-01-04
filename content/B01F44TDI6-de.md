@@ -26,9 +26,9 @@ Es gibt ein [TP-Link Gigabit WLAN WiFi Powerline Adapter Set mit Steckdose AV130
 ℹ️:
 
 - Wi-Fi Clone: Installation ohne Konfiguration durch Übernahme der WLAN- Einstellungen auf Tastendruck, Frontsteckdose für mehr Flexibilität
-- WiFi Clone : Einfaches Hinzufügen von neuen Adaptern zum Netzwerk; Gigabit-LAN-Ports zum Anschließen von Fernsehern, Spielekonsolen usw.
-- Simultanes Dualband nach 802.11ac mit AC1350: Bis zu 450 MB auf 2,4 GHz und 867 MB auf 5 GHz, ideal für unterbrechungsfreies HD-Videostreaming und Online-Gaming
-- Lieferumfang: 2 Powerline-Adapter TL-WPA8630P WLAN Starter Kit, 2m-RJ45-Ethernetkabel, CD, Schnellinstallationsanleitung
 - Bis zu 1,3 GB nach dem neuen Standard Homeplug AV2 über bestehende Stromleitungen; Einfache Installation dank Plug und Play
+- Simultanes Dualband nach 802.11ac mit AC1350: Bis zu 450 MB auf 2,4 GHz und 867 MB auf 5 GHz, ideal für unterbrechungsfreies HD-Videostreaming und Online-Gaming
+- WiFi Clone : Einfaches Hinzufügen von neuen Adaptern zum Netzwerk; Gigabit-LAN-Ports zum Anschließen von Fernsehern, Spielekonsolen usw.
+- Lieferumfang: 2 Powerline-Adapter TL-WPA8630P WLAN Starter Kit, 2m-RJ45-Ethernetkabel, CD, Schnellinstallationsanleitung
 
 [kauf es hier!!](https://www.amazon.de/dp/B01F44TDI6/?tag=tolees0ca-21)
