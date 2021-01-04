@@ -25,9 +25,9 @@ Es gibt ein [Label-the-cable Kabelbeschriftung mit Klettband  Klettbinder  Klett
 
 ℹ️:
 
-- Kabelbeschriftung mit Klettband (Beschriftbare Klett-Kabelbinder) zum Markieren, Sortieren und Aufbewahren von Kabeln, Leitungen und Steckern.
-- Kabelkennzeichnung mit Beschriftungsfeld ideal geeignet für Haushalt (z. B. Küchengeräte, Home-Entertainment-System), Büro (z. B. Laptop, Drucker), Werkstatt und Musikstudio.
 - Kabelmarkierer LTC MINI TAGS ermöglicht dank der Beschriftung einfaches und schnelles Auffinden der einzelnen Kabel und Stecker.Kabeletiketten einfach Anbringen und Entfernen, wiederverwendbar.
 - Maße von Kabelmarker / Kabelmarkierung: Gesamtlänge ca. 9 cm, Klettbreite ca. 1,1 cm, Größe Beschriftungs-Label ca. 3 x 1,8 cm.
+- Kabelbeschriftung mit Klettband (Beschriftbare Klett-Kabelbinder) zum Markieren, Sortieren und Aufbewahren von Kabeln, Leitungen und Steckern.
+- Kabelkennzeichnung mit Beschriftungsfeld ideal geeignet für Haushalt (z. B. Küchengeräte, Home-Entertainment-System), Büro (z. B. Laptop, Drucker), Werkstatt und Musikstudio.
 
 [kauf es hier!!](https://www.amazon.de/dp/B00GN2A6KS/?tag=tolees0ca-21)
