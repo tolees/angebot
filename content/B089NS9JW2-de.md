@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '31.91 % rabat auf Xiaomi Mi Smart Band 5 Fitness- & Aktivi'
-date: 2021-01-01 05:30:56
+date: 2021-01-05 13:30:44
 image: 'https://m.media-amazon.com/images/I/31dQMo0+r3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Es gibt ein [Xiaomi Mi Smart Band 5 Fitness- & Aktivitätstracker mit 1 1" Full 
 
 ℹ️:
 
-- Aktivität und Schlafanalyse abrufbar in der Mi Wear Lite App
-- 5 ATM Wasserdichtigkeit
-- Bluetooth 5.0 BLE Kompatibel ab Android 4.4/iOS 10.0
-- 1,1 Zoll (2,79 cm) Full AMOLED Touch Farb-Display
-- Bis zu 14 Tage Akkulaufzeit (125mAh)
+- 11 sports modes
+- 24-hour sleep monitoring
+- Large dynamic colour-display
+- 50m water resistance
+- 24-hour heart rate monitoring
 
 [kauf es hier!!](https://www.amazon.de/dp/B089NS9JW2/?tag=tolees0ca-21)

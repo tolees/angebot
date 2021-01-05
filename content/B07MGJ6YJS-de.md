@@ -1,33 +1,33 @@
 ---
 layout: post
-title: '17.26 % rabat auf KOSMOS 654108 Fun Science - Nachtleuchte'
-date: 2020-12-23 15:19:23
+title: '15.01 % rabat auf KOSMOS 654108 Fun Science - Nachtleuchte'
+date: 2021-01-05 13:40:11
 image: 'https://m.media-amazon.com/images/I/51AixPaqbGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07MGJ6YJS-de'
-actualPrice: 13.23 EUR
+actualPrice: 13.59 EUR
 currency: EUR
-price: 13.23
+price: 13.59
 comparePrice: 15.99 EUR
 prodname: 'KOSMOS 654108 Fun Science - Nachtleuchtende Flummi-Power  Stelle 20 kunterbunte Power-Bälle her  Experimentierset für Einsteiger'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07MGJ6YJS/?tag=tolees0ca-21'
-descuento: '17.26'
-average: '14.12867924528302'
+descuento: '15.01'
+average: '14.132982456140354'
 ---
 
-Es gibt ein [KOSMOS 654108 Fun Science - Nachtleuchtende Flummi-Power  Stelle 20 kunterbunte Power-Bälle her  Experimentierset für Einsteiger](https://www.amazon.de/dp/B07MGJ6YJS/?tag=tolees0ca-21) mit aktuellem Preis 13.23 EUR (original: 15.99 EUR) 17.26 % Rabatt hier:
+Es gibt ein [KOSMOS 654108 Fun Science - Nachtleuchtende Flummi-Power  Stelle 20 kunterbunte Power-Bälle her  Experimentierset für Einsteiger](https://www.amazon.de/dp/B07MGJ6YJS/?tag=tolees0ca-21) mit aktuellem Preis 13.59 EUR (original: 15.99 EUR) 15.01 % Rabatt hier:
 
 [![KOSMOS 654108 Fun Science - Nachtleuchte](https://m.media-amazon.com/images/I/51AixPaqbGL._SL200_.jpg)](https://www.amazon.de/dp/B07MGJ6YJS/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Mit dem Spezial-Granulat in 6 Farben und den zusätzlichen 3 nachtleuchtenden Farben lassen sich bis zu 20 Power-Bälle herstellen. Wenn die ersten Bälle nach einigen Tagen ihre Springkraft verlieren, ist auf jeden Fall für Nachschub gesorgt!
 - Mit zwei verschiedenen Gussformen für kugelrunde und eckige Springbälle sowie den witzigen Wackelaugen kommt Abwechslung ins Spiel.
 - Ein KOSMOS Experimentierset zum sofort Durchstarten, Spaß haben und Wissen sammeln!
+- Mit dem Spezial-Granulat in 6 Farben und den zusätzlichen 3 nachtleuchtenden Farben lassen sich bis zu 20 Power-Bälle herstellen. Wenn die ersten Bälle nach einigen Tagen ihre Springkraft verlieren, ist auf jeden Fall für Nachschub gesorgt!
 - Extra-coole Flummis selbst mixen – in nur 10 Minuten sind die eigenen Kreationen fertig. Welcher springt am höchsten?
 - Auch in der Natur gibt es nachtleuchtende Farben – das erfahren Kinder von 8 – 12 Jahren in spannenden Info-Texten und Fun-Facts.
 

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: '67.74 % rabat auf Pentel Tintenroller R50-C "Ball Pentel" '
-date: 2021-01-01 05:20:43
+title: '70.59 % rabat auf Pentel Tintenroller R50-C "Ball Pentel" '
+date: 2021-01-05 13:20:58
 image: 'https://m.media-amazon.com/images/I/31fgwig2BOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B000SHP2Y4-de'
-actualPrice: 8.71 EUR
+actualPrice: 7.94 EUR
 currency: EUR
-price: 8.71
+price: 7.94
 comparePrice: 27.0 EUR
 prodname: 'Pentel Tintenroller R50-C "Ball Pentel" 0 4mm  12 Stück  blau'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B000SHP2Y4/?tag=tolees0ca-21'
-descuento: '67.74'
-average: '11.708695652173917'
+descuento: '70.59'
+average: '11.551666666666671'
 ---
 
-Es gibt ein [Pentel Tintenroller R50-C "Ball Pentel" 0 4mm  12 Stück  blau](https://www.amazon.de/dp/B000SHP2Y4/?tag=tolees0ca-21) mit aktuellem Preis 8.71 EUR (original: 27.0 EUR) 67.74 % Rabatt hier:
+Es gibt ein [Pentel Tintenroller R50-C "Ball Pentel" 0 4mm  12 Stück  blau](https://www.amazon.de/dp/B000SHP2Y4/?tag=tolees0ca-21) mit aktuellem Preis 7.94 EUR (original: 27.0 EUR) 70.59 % Rabatt hier:
 
 [![Pentel Tintenroller R50-C "Ball Pentel" ](https://m.media-amazon.com/images/I/31fgwig2BOL._SL200_.jpg)](https://www.amazon.de/dp/B000SHP2Y4/?tag=tolees0ca-21)
 
@@ -27,8 +27,8 @@ Es gibt ein [Pentel Tintenroller R50-C "Ball Pentel" 0 4mm  12 Stück  blau](htt
 
 - Lieferumfang: 12 Stück
 - Gleichmäßig fließende Tinte auf Wasserbasis, nicht nachfüllbar
-- Strichstärke 0,4mm in Schreibfarbe blau
-- Charakteristischer grüner Schaft mit plastikgefederter Schreibspitze
 - Der Pentel-Klassiker und Kult! Ball Pentel - der erste Tintenroller der Welt
+- Charakteristischer grüner Schaft mit plastikgefederter Schreibspitze
+- Strichstärke 0,4mm in Schreibfarbe blau
 
 [kauf es hier!!](https://www.amazon.de/dp/B000SHP2Y4/?tag=tolees0ca-21)
