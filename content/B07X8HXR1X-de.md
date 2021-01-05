@@ -25,8 +25,8 @@ Sie können [adidas Herren CORE18 Hoody Sweatshirt  White  S](https://www.amazon
 
 ℹ️:
 
-- Regular fit
 - Hood with lanyard
+- Regular fit
 - Kangaroo pocket
 
 [Hier!!](https://www.amazon.de/dp/B07X8HXR1X/?tag=tolees0ca-21)
