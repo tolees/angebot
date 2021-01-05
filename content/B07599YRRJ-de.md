@@ -25,9 +25,9 @@ Sie können [Funko 22887 POP! Vinylfigur: DC: Bombshells Poison Ivy](https://www
 
 ℹ️:
 
-- Herkunftsland:- China
-- Verpackungsabmessungen (L x B x H): 8.89 zm x 11.684 zm x 16.51 zm
 - Verpackungsgewicht: 45 g
+- Verpackungsabmessungen (L x B x H): 8.89 zm x 11.684 zm x 16.51 zm
+- Herkunftsland:- China
 - Farbe: Mehrfarbig
 
 [Hier!!](https://www.amazon.de/dp/B07599YRRJ/?tag=tolees0ca-21)
