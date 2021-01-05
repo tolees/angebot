@@ -25,10 +25,10 @@ Sie können [SNAPTAIN S5C Drohne mit Kamera HD 720P Live-Übertragung  WiFi RC Q
 
 ℹ️:
 
-- Drone with HD 720P camera: The drone is equipped with the advanced 720P HD camera and effortlessly captures stunning footage, incredible images and sharp videos.
-- Enjoy more fun: this drone is equipped with 2 removable and rechargeable batteries. With any battery that offers 8 minutes of flight time, you can fly up to 16 minutes with two included batteries. Stable height retention is a simple but very useful mechanism.
-- Full protection: fly without worries thanks to the durable and flexible material. The smart low battery alarm and the return of one key prevent the drone from being lost unexpectedly, which brings you more safety.
 - FPV live transmission: the FPV livestream function plays in the first person perspective, which is recorded with your camera on your phone. This HD camera offers you an unparalleled visual experience and pleasure.
+- Full protection: fly without worries thanks to the durable and flexible material. The smart low battery alarm and the return of one key prevent the drone from being lost unexpectedly, which brings you more safety.
+- Enjoy more fun: this drone is equipped with 2 removable and rechargeable batteries. With any battery that offers 8 minutes of flight time, you can fly up to 16 minutes with two included batteries. Stable height retention is a simple but very useful mechanism.
 - Easy to use: Snap S5C drone is a drone with many additional wonderful functions. Starting, landing, intelligent voice control, headless mode and the fascinating 360° flips and rolls provide comfort for beginners.
+- Drone with HD 720P camera: The drone is equipped with the advanced 720P HD camera and effortlessly captures stunning footage, incredible images and sharp videos.
 
 [Hier!!](https://www.amazon.de/dp/B085NMP5F1/?tag=tolees0ca-21)

@@ -26,9 +26,9 @@ Sie können [Rotho Albula Biomülleimer 6l mit Deckel und Henkel für die Küche
 ℹ️:
 
 - Designorientiert & nachhaltig: Komposteimer mit Deckel und Griff - Perfekt für Biomüll, Kaffeekapseln, zur Aufbewahrung von Geschirrspültabs, als Tischabfalleimer - Aus rezykliertem Kunststoff
+- Platzsparend & praktisch: Der Deckel kann komplett geöffnet und nach hinten geklappt werden - Bequem zu tragen dank Trageriemen - Einfach zu reinigen
+- Maße: 23.5 x 20 x 20.8 cm (LxBxH) - Fassungsvolumen der Biotonne: 6 Liter - Praktischer Helfer für Küchenabfälle, Biomüll, Kompost und mehr
 - Universell & modular: Einzeln oder im Set nutzbar - Sicher stapelbar auch auf den Eimern Albula 25l - Schönes Design - Perfekter Küchenhelfer für Ihre Arbeitsplatte
 - Lieferumfang: 1x Bioeimer aus Kunststoff mit Deckel und Trageriemen - Behälter dunkelgrün (mistletoe green), Deckel und Henkel anthrazit - Erhältlich in weiteren attraktiven Farben
-- Maße: 23.5 x 20 x 20.8 cm (LxBxH) - Fassungsvolumen der Biotonne: 6 Liter - Praktischer Helfer für Küchenabfälle, Biomüll, Kompost und mehr
-- Platzsparend & praktisch: Der Deckel kann komplett geöffnet und nach hinten geklappt werden - Bequem zu tragen dank Trageriemen - Einfach zu reinigen
 
 [Hier!!](https://www.amazon.de/dp/B07Z3X3XWQ/?tag=tolees0ca-21)

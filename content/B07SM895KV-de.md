@@ -26,9 +26,9 @@ Sie können [POP! Star Wars The Rise of Skywalker: - Kylo Ren  Lights & Sound ](
 ℹ️:
 
 - Check out the other Star Wars The Rise of Skywalker figures from Funko Collect them all
-- From Star Wars The Rise of Skywalker, Kylo Ren, as a stylized light up and sound POP vinyl from Funko
-- Figure stands 9cm and comes in a window display box
-- Funko POP! is the 2018 Toy of the Year and Peoples Choice award winner
 - This POP! lights up and plays sound at the touch of a button!
+- From Star Wars The Rise of Skywalker, Kylo Ren, as a stylized light up and sound POP vinyl from Funko
+- Funko POP! is the 2018 Toy of the Year and Peoples Choice award winner
+- Figure stands 9cm and comes in a window display box
 
 [Hier!!](https://www.amazon.de/dp/B07SM895KV/?tag=tolees0ca-21)

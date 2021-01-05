@@ -25,8 +25,8 @@ Sie können [PLAYMOBIL Novelmore 70393 Feuerrammbock  Für Kinder von 4-10 Jahre
 
 ℹ️:
 
-- Lieferumfang: 1x PLAYMOBIL Novelmore - Burnham Raiders Feuerammbock, 53-teiliges Spielfiguren-Set mit Anleitung: 1 Turm, 2 Figuren, 50 Zubehörteile, Material: Kunststoff, LxTxH: 22x14,5x23 cm, Gewicht: 348g, 70393
 - Fahrbarer Turm mit nach vorne klappbarer Wand, 2 Fußklemmungen zum Fixieren der Figuren, Nach vorne beweglicher Rammbock mit Griffen zum Halten uvm
+- Lieferumfang: 1x PLAYMOBIL Novelmore - Burnham Raiders Feuerammbock, 53-teiliges Spielfiguren-Set mit Anleitung: 1 Turm, 2 Figuren, 50 Zubehörteile, Material: Kunststoff, LxTxH: 22x14,5x23 cm, Gewicht: 348g, 70393
 - Spielfiguren-Set für Kinder von 4-10 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Ritter-Spielzeug für fantasievolle Kinder: PLAYMOBIL Burnham Raiders Feuerrambock mit General, Spion sowie coolem Zubehör für detailgetreues Nachspielen
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
