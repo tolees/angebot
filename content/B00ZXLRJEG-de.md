@@ -25,12 +25,12 @@ Es gibt ein [Sylvanian Families - 5017 - Schokoladenhasen Baby mit Babybett](htt
 
 ℹ️:
 
-- 1 x Plüsch.
-- 1 x Decke.
 - 1 Bett.
-- Ab 3 Jahren.
-- 1 x Kaninchen-Kissen.
 - Eines der Must-Haves aus dem Hause Sylvanian - das Kinderbett.
 - 1 x Figur Baby Kaninchen Schokolade
+- 1 x Plüsch.
+- 1 x Decke.
+- 1 x Kaninchen-Kissen.
+- Ab 3 Jahren.
 
 [kauf es hier!!](https://www.amazon.de/dp/B00ZXLRJEG/?tag=tolees0ca-21)
