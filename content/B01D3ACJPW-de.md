@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Intenso High Performance interne SSD 120 mit 42.35 % Rabatt'
-date: 2021-01-01 05:22:38
+title: 'Intenso High Performance interne SSD 120 mit 40.68 % Rabatt'
+date: 2021-01-05 19:41:26
 image: 'https://m.media-amazon.com/images/I/4140iJXJalL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01D3ACJPW-de'
-actualPrice: 17.29 EUR
+actualPrice: 17.79 EUR
 currency: EUR
-price: 17.29
+price: 17.79
 comparePrice: 29.99 EUR
 prodname: 'Intenso High Performance interne SSD 120GB  6 3 cm  2 5 Zoll   SATA III  520 MB/Sekunden  schwarz'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B01D3ACJPW/?tag=tolees0ca-21'
-descuento: '42.35'
-average: '17.701351351351352'
+descuento: '40.68'
+average: '17.7029203539823'
 ---
 
-Sie können [Intenso High Performance interne SSD 120GB  6 3 cm  2 5 Zoll   SATA III  520 MB/Sekunden  schwarz](https://www.amazon.de/dp/B01D3ACJPW/?tag=tolees0ca-21) mit Preis 17.29 EUR (original: 29.99 EUR) 42.35 % Rabatt hier:
+Sie können [Intenso High Performance interne SSD 120GB  6 3 cm  2 5 Zoll   SATA III  520 MB/Sekunden  schwarz](https://www.amazon.de/dp/B01D3ACJPW/?tag=tolees0ca-21) mit Preis 17.79 EUR (original: 29.99 EUR) 40.68 % Rabatt hier:
 
 [![Intenso High Performance interne SSD 120](https://m.media-amazon.com/images/I/4140iJXJalL._SL200_.jpg)](https://www.amazon.de/dp/B01D3ACJPW/?tag=tolees0ca-21)
 

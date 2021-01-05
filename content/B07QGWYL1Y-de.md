@@ -1,33 +1,33 @@
 ---
 layout: post
-title: 'Funko POP! Bobble Vinyl Marvel: Holiday  mit 18.30 % Rabatt'
-date: 2020-12-30 23:33:32
+title: 'Funko POP! Bobble Vinyl Marvel: Holiday  mit 18.49 % Rabatt'
+date: 2021-01-05 19:45:17
 image: 'https://m.media-amazon.com/images/I/31F9ph0c89L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07QGWYL1Y-de'
-actualPrice: 12.99 EUR
+actualPrice: 12.96 EUR
 currency: EUR
-price: 12.99
+price: 12.96
 comparePrice: 15.9 EUR
 prodname: 'Funko POP! Bobble Vinyl Marvel: Holiday - Groot'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07QGWYL1Y/?tag=tolees0ca-21'
-descuento: '18.30'
-average: '15.322512562814065'
+descuento: '18.49'
+average: '15.302722772277223'
 ---
 
-Sie können [Funko POP! Bobble Vinyl Marvel: Holiday - Groot](https://www.amazon.de/dp/B07QGWYL1Y/?tag=tolees0ca-21) mit Preis 12.99 EUR (original: 15.9 EUR) 18.30 % Rabatt hier:
+Sie können [Funko POP! Bobble Vinyl Marvel: Holiday - Groot](https://www.amazon.de/dp/B07QGWYL1Y/?tag=tolees0ca-21) mit Preis 12.96 EUR (original: 15.9 EUR) 18.49 % Rabatt hier:
 
 [![Funko POP! Bobble Vinyl Marvel: Holiday ](https://m.media-amazon.com/images/I/31F9ph0c89L._SL200_.jpg)](https://www.amazon.de/dp/B07QGWYL1Y/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Figure stands 9cm and comes in a window display box
-- Check out the other Marvel figures from Funko and collect them all
-- Funko POP! is the 2018 Toy of the Year and Peoples Choice award winner
-- From Marvel, Holiday - Groot, as a stylized POP vinyl from Funko
+- Von Marvel, Groot, zur stilisierten POP-Vinyl Figur von Funko!
+- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
+- Schauen Sie sich jetzt die anderen Marvel-Figuren von Funko an! Sammeln Sie alle!
+- Funko POP! ist das Spielzeug des Jahres 2018
 
 [Hier!!](https://www.amazon.de/dp/B07QGWYL1Y/?tag=tolees0ca-21)
