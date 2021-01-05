@@ -26,9 +26,9 @@ Sie können [Pentel S520-A Sign Pen Faserschreiber  0 8 mm Strichstärke  schwar
 ℹ️:
 
 - metallgefasste, formstabile Schreibspitze für Strichstärken von 0, 8 - 2, 0mm
-- beliebt bei Grafikern und Künstlern für Skizzen, Zeichnungen, Illustrationen und vielem mehr
+- Lieferumfang: 12 Stifte
 - in 12 Farben erhältlich
 - Pentel Sign Pen Faserschreiber: der Profi unter den Faserschreibern
-- Lieferumfang: 12 Stifte
+- beliebt bei Grafikern und Künstlern für Skizzen, Zeichnungen, Illustrationen und vielem mehr
 
 [Hier!!](https://www.amazon.de/dp/B000I5SCNY/?tag=tolees0ca-21)

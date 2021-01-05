@@ -25,10 +25,10 @@ Es gibt ein [Xiaomi Mi Smart Band 5 Fitness- & Aktivitätstracker mit 1 1" Full 
 
 ℹ️:
 
-- 50m water resistance
-- 24-hour sleep monitoring
+- Large dynamic colour-display
 - 24-hour heart rate monitoring
 - 11 sports modes
-- Large dynamic colour-display
+- 50m water resistance
+- 24-hour sleep monitoring
 
 [kauf es hier!!](https://www.amazon.de/dp/B089NS9JW2/?tag=tolees0ca-21)

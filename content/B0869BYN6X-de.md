@@ -25,11 +25,11 @@ Es gibt ein [Samsung QLED 4K Q60T 108 cm  43 Zoll   Quantum Dot  Dual LED  Quant
 
 ℹ️:
 
-- 100% Farbvolumen: Mit der Quantum Dot-Technologie erleben Sie das beste Bild, das wir je erschaffen haben. Die so genannten Quantum Dots nehmen das Licht auf und verwandeln es in atemberaubende Farben mit 100% Farbvolumen, die unter unterschiedlichsten Lichtsituationen gleich kräftig bleiben – und das nahezu ohne Farbverlust.
 - Sprachassistent: Mit den integrierten Sprachassistenten Bixby und Alexa, kann Fernsehen ganz einfach sein. Sagen Sie einfach, was Sie möchten und erhalten Sie Antworten auf Ihre Fragen oder Zugang zu Ihren Lieblingsinhalten. Steuern Sie Ihr TV-Gerät und Ihr vernetztes Zuhause mit Ihrer Stimme.
-- HD+ integriert: 24 private HD- und 2 UHD-Sender sowie HD+ Komfort-Funktion mit Neustart, Mediatheken und TV-Guide. 6 Monate gratis testen. SAT-Empfang benötigt.
+- SmartThings Dashboard: Koordinieren Sie Ihr smartes Zuhause direkt an Ihrem QLED. Durch die Kompatibilität mit der SmartThings-App, können Sie Ihre smarten Geräte bequem an Ihrem QLED steuern.
 - Dual LED: Die von Samsung neu eingesetzte Dual LED-Hintergrundbeleuchtung verfügt über einen großen Farbtonbereich dank Einsatz zweier Beleuchtungs-LED-Typen und kann damit den Farbton richtig gut an die TV-Inhalte anpassen.
 - Quantum Prozessor Lite: Genießen Sie eine Bildqualität mit 100% Farbvolumen. Der Quantum Prozessor Lite optimiert mit seinem Chip das Kontrastverhältnis und stellt mit HDR ein unglaublich breites Farbspektrum dar.
-- SmartThings Dashboard: Koordinieren Sie Ihr smartes Zuhause direkt an Ihrem QLED. Durch die Kompatibilität mit der SmartThings-App, können Sie Ihre smarten Geräte bequem an Ihrem QLED steuern.
+- 100% Farbvolumen: Mit der Quantum Dot-Technologie erleben Sie das beste Bild, das wir je erschaffen haben. Die so genannten Quantum Dots nehmen das Licht auf und verwandeln es in atemberaubende Farben mit 100% Farbvolumen, die unter unterschiedlichsten Lichtsituationen gleich kräftig bleiben – und das nahezu ohne Farbverlust.
+- HD+ integriert: 24 private HD- und 2 UHD-Sender sowie HD+ Komfort-Funktion mit Neustart, Mediatheken und TV-Guide. 6 Monate gratis testen. SAT-Empfang benötigt.
 
 [kauf es hier!!](https://www.amazon.de/dp/B0869BYN6X/?tag=tolees0ca-21)

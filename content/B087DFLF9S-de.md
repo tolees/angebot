@@ -26,7 +26,7 @@ Sie können [Samsung T7 Portable SSD - 1 TB - USB 3.2 Gen.2 Externe SSD Titan Gr
 ℹ️:
 
 - Memory storage capacity: 1.0
-- Connectivity technology: Nein
 - Compatible devices: Desktop
+- Connectivity technology: Nein
 
 [Hier!!](https://www.amazon.de/dp/B087DFLF9S/?tag=tolees0ca-21)

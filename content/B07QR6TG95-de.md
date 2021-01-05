@@ -26,11 +26,11 @@ Sie können [Tommy Hilfiger Herren Tommy Logo Hoody Sweatshirt  Schwarz  Jet Bla
 ℹ️:
 
 - Collar Style: Hooded
-- 64% Cotton, 36% Polyester
 - Long Sleeve
-- Sweatshirt
-- Regular
 - MW0MW10752
+- 64% Cotton, 36% Polyester
+- Regular
 - Machine Wash
+- Sweatshirt
 
 [Hier!!](https://www.amazon.de/dp/B07QR6TG95/?tag=tolees0ca-21)

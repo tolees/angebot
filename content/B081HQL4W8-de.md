@@ -25,7 +25,7 @@ Es gibt ein [PLAYMOBIL City Action 70443 Minibagger mit Bauteil  Ab 5 Jahren](ht
 
 ℹ️:
 
-- The unit is equipped with caterpillars.
 - the unit is equipped with caterpillars.
+- The unit is equipped with caterpillars.
 
 [kauf es hier!!](https://www.amazon.de/dp/B081HQL4W8/?tag=tolees0ca-21)

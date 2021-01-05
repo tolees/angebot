@@ -25,8 +25,8 @@ Sie können [Samsung MG23K3513AW/EG Mikrowelle mit Grill / 800 W /23 L Garraum /
 
 ℹ️:
 
-- 27 Automatikprogramme
 - Quick Defrost - schnell und schonend auftauen
 - Warmhaltefunktion
+- 27 Automatikprogramme
 
 [Hier!!](https://www.amazon.de/dp/B07FJ94X7K/?tag=tolees0ca-21)

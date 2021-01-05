@@ -25,8 +25,8 @@ Es gibt ein [SALOMON Herren Speedcross 4 Gtx Schuhe  Schwarz  Black/Black/SILVER
 
 ℹ️:
 
+- WEATHERPROOF COMFORT: Techno fabric meets technical terrain in a weatherproof GORE-TEX shoe that breathes and protects so you can run through all seasons
 - AGGRESSIVE GRIP: The fourth generation of our legendary Speedcross lug pattern is an even hungrier monster for eating up soft, technical trails
 - PRECISE FOOTHOLD: Feel one with the trail with a precise combination of Sensifit with Quicklace, performance last shape and endoFit
-- WEATHERPROOF COMFORT: Techno fabric meets technical terrain in a weatherproof GORE-TEX shoe that breathes and protects so you can run through all seasons
 
 [kauf es hier!!](https://www.amazon.de/dp/B017SR0CX2/?tag=tolees0ca-21)

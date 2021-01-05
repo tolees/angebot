@@ -25,10 +25,10 @@ Es gibt ein [Samsung CLT-P404C 4-pk CYMK Toner Crtg](https://www.amazon.de/dp/B0
 
 ℹ️:
 
-- Reichweite: ca. 1.500 Seiten schwarz, jeweils ca 1.000 Seiten Cyan/Magenta/Gelb (Tatsächliche Reichweite ist abhängig vom Deckungsgrad der gedruckten Seiten basierend auf ISO/IEC 19752, 19789)
 - Ungefähre Ergiebigkeit: 1000 Seiten
-- Kompatibilität: Samsung Xpress C430/C430W, Samsung Xpress C480/C480W/C480FW/C480FN
-- Lieferumfang: Samsung CLT-P404C Multipack Cyan/Magenta/Gelb/Schwarz Toner Kartuschen (SU365A)
 - Samsung Toner: Ideal abgestimmt auf Ihren Samsung Laserdrucker Toner hochqaulitätive und beständige Ausdrucke
+- Kompatibilität: Samsung Xpress C430/C430W, Samsung Xpress C480/C480W/C480FW/C480FN
+- Reichweite: ca. 1.500 Seiten schwarz, jeweils ca 1.000 Seiten Cyan/Magenta/Gelb (Tatsächliche Reichweite ist abhängig vom Deckungsgrad der gedruckten Seiten basierend auf ISO/IEC 19752, 19789)
+- Lieferumfang: Samsung CLT-P404C Multipack Cyan/Magenta/Gelb/Schwarz Toner Kartuschen (SU365A)
 
 [kauf es hier!!](https://www.amazon.de/dp/B010Q5V2BO/?tag=tolees0ca-21)
