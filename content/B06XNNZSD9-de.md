@@ -25,11 +25,11 @@ Sie können [Bose SoundLink Revolve  tragbarer Bluetooth - Lautsprecher  mit kab
 
 ℹ️:
 
-- Kopplung zweier Lautsprecher für die Wiedergabe im Stereo- oder Partymodus
-- Echter 360°-Sound - tief, kraftvoll und beeindruckend - mit einer gleichmäßigen Klangabdeckung
-- Kabellose Bluetooth-Verbindung mit Sprachansagen, einfaches Annehmen von Anrufen und Zugriff auf Siri oder Google Now Reichweite der kabellosen Verbindung: bis zu 9 m
 - Integriertes Mikrofon zur Nutzung der Freisprechfunktion für klar verständliche Telefonate und Telefonkonferenzen mit einer kabellosen Reichweite von ca. 9 Metern
+- Echter 360°-Sound - tief, kraftvoll und beeindruckend - mit einer gleichmäßigen Klangabdeckung
 - Lithium-Ionen-Akku mit einer Wiedergabedauer von bis zu 12 Stunden
 - Nahtloses Aluminium-Gehäuse, robust und wasserabweisend (IPX4)
+- Kopplung zweier Lautsprecher für die Wiedergabe im Stereo- oder Partymodus
+- Kabellose Bluetooth-Verbindung mit Sprachansagen, einfaches Annehmen von Anrufen und Zugriff auf Siri oder Google Now Reichweite der kabellosen Verbindung: bis zu 9 m
 
 [Hier!!](https://www.amazon.de/dp/B06XNNZSD9/?tag=tolees0ca-21)

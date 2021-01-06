@@ -28,7 +28,7 @@ Es gibt ein [Xiaomi Redmi Note 8 Pro Smartphone  16 59cm  6 53 Zoll  FHD+ Displa
 - Leistungsstarker 4. 500mAh Akku mit langer Laufzeit und 18W-Schnellladefunktion
 - MediaTek MTK Helio G90T Octa-Core-Prozessor mit bis zu 2, 05 GHz und ARM Mali G76 MC4 Grafikprozessor
 - 20MP Selfie-Frontkamera mit KI-Porträtmodus mit Hintergrundunschärfenanpassung
-- Vierfach-ki-rückkamera mit 64MP Hauptkamera, 8MP ultraweitwinkel-kamera, 2MP ultra-makroobjektiv und 2MP tiefen-kamera
 - 16, 59cm (6, 53 Zoll) FHD+ (2. 340 x 1. 080) Display
+- Vierfach-ki-rückkamera mit 64MP Hauptkamera, 8MP ultraweitwinkel-kamera, 2MP ultra-makroobjektiv und 2MP tiefen-kamera
 
 [kauf es hier!!](https://www.amazon.de/dp/B07Y8Y6HVW/?tag=tolees0ca-21)

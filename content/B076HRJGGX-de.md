@@ -25,10 +25,10 @@ Es gibt ein [adidas Herren REGI18 TR Pants Trainingshose  Schwarz  Black/White  
 
 ℹ️:
 
-- Climacool-Technologie leitet Feuchtigkeit ab
-- Reißverschlüsse an den Beinen
 - Reißverschluss-Seitentaschen für kleine Gegenstände
+- Climacool-Technologie leitet Feuchtigkeit ab
 - Elastischer Bund mit Kordelzug
+- Reißverschlüsse an den Beinen
 - Mesh-Einsätze für Atmungsaktivität
 
 [kauf es hier!!](https://www.amazon.de/dp/B076HRJGGX/?tag=tolees0ca-21)
