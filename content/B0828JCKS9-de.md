@@ -25,9 +25,9 @@ Sie können [Funko 48740 POP Star Wars: Mandalorian-The Child Madalorian Sammelb
 
 ℹ️:
 
-- Funko POP! ist das Spielzeug des Jahres 2018
 - Schauen Sie sich jetzt die anderenStar Wars-Figuren von Funko an! Sammeln Sie alle!
-- Von Mandalorian, The Child, zur stilisierten POP-Vinyl Figur von Funko!
+- Funko POP! ist das Spielzeug des Jahres 2018
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
+- Von Mandalorian, The Child, zur stilisierten POP-Vinyl Figur von Funko!
 
 [Hier!!](https://www.amazon.de/dp/B0828JCKS9/?tag=tolees0ca-21)

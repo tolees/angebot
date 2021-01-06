@@ -25,10 +25,10 @@ Es gibt ein [TP-Link TL-SG1008P 8-Port Gigabit POE Switch  8 Anschlüsse mit 10/
 
 ℹ️:
 
-- Keine Konfiguration oder Installation notwendig
-- 802. 1p/DSCP-QoS ermöglicht reibungslosen Datenverkehr
-- 8 Ports Gigabit PoE Switch
 - Speist IEEE-802. 3af-Geräte und erweitert Ihr bestehendes Netz zu Hause oder im Büro
+- 8 Ports Gigabit PoE Switch
+- 802. 1p/DSCP-QoS ermöglicht reibungslosen Datenverkehr
 - Dank PoE: Datentransfer und Stromversorgung nur über ein Kabel
+- Keine Konfiguration oder Installation notwendig
 
 [kauf es hier!!](https://www.amazon.de/dp/B00BP0SSAS/?tag=tolees0ca-21)

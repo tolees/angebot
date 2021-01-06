@@ -26,9 +26,9 @@ Es gibt ein [infray Handwärmer mit Powerbank 5200mAh  wiederaufladbare Handwär
 ℹ️:
 
 - Improved safety: the improved circuit completely eliminates all types of bad contacts to ensure the life of our hand warmer and protects against overcharging, overheating and short circuiting.
-- Power bank: 5200 mAh lithium battery with type C charging port can charge a full charge for iPhone, Samsung Galaxy, HUWWEI and other Android phones. Indicator lights inform you of the remaining battery.
 - Hand warmer: 3 adjustable heating modes. Heat both sides quickly in 3 seconds. 3 levels of adjustable temperature from 35 - 55 °C, press the switch and immediately give the heat to you.
-- Best gift: it can be used as a hand warmer, also as a power bank. This device will keep your hands warm on icy days. It is beautifully made and comes with a beautiful box, perfect gift for family and friends in winter.
 - What you get: 1 x 5200 mAh hand warmer, 1 x USB cable, 1 x user manual (English language not guaranteed).
+- Power bank: 5200 mAh lithium battery with type C charging port can charge a full charge for iPhone, Samsung Galaxy, HUWWEI and other Android phones. Indicator lights inform you of the remaining battery.
+- Best gift: it can be used as a hand warmer, also as a power bank. This device will keep your hands warm on icy days. It is beautifully made and comes with a beautiful box, perfect gift for family and friends in winter.
 
 [kauf es hier!!](https://www.amazon.de/dp/B08CGYRN8Q/?tag=tolees0ca-21)
