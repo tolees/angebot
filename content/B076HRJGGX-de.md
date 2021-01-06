@@ -1,33 +1,33 @@
 ---
 layout: post
-title: '40.05 % rabat auf adidas Herren REGI18 TR Pants Trainingsh'
-date: 2021-01-05 19:35:08
+title: '44.96 % rabat auf adidas Herren REGI18 TR Pants Trainingsh'
+date: 2021-01-06 19:42:48
 image: 'https://m.media-amazon.com/images/I/31hzqiBztfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B076HRJGGX-de'
-actualPrice: 23.95 EUR
+actualPrice: 21.99 EUR
 currency: EUR
-price: 23.95
+price: 21.99
 comparePrice: 39.95 EUR
 prodname: 'adidas Herren REGI18 TR Pants Trainingshose  Schwarz  Black/White   L'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B076HRJGGX/?tag=tolees0ca-21'
-descuento: '40.05'
-average: '21.52'
+descuento: '44.96'
+average: '21.676666666666666'
 ---
 
-Es gibt ein [adidas Herren REGI18 TR Pants Trainingshose  Schwarz  Black/White   L](https://www.amazon.de/dp/B076HRJGGX/?tag=tolees0ca-21) mit aktuellem Preis 23.95 EUR (original: 39.95 EUR) 40.05 % Rabatt hier:
+Es gibt ein [adidas Herren REGI18 TR Pants Trainingshose  Schwarz  Black/White   L](https://www.amazon.de/dp/B076HRJGGX/?tag=tolees0ca-21) mit aktuellem Preis 21.99 EUR (original: 39.95 EUR) 44.96 % Rabatt hier:
 
 [![adidas Herren REGI18 TR Pants Trainingsh](https://m.media-amazon.com/images/I/31hzqiBztfL._SL200_.jpg)](https://www.amazon.de/dp/B076HRJGGX/?tag=tolees0ca-21)
 
 ℹ️:
 
 - Climacool-Technologie leitet Feuchtigkeit ab
-- Reißverschluss-Seitentaschen für kleine Gegenstände
 - Reißverschlüsse an den Beinen
+- Reißverschluss-Seitentaschen für kleine Gegenstände
 - Elastischer Bund mit Kordelzug
 - Mesh-Einsätze für Atmungsaktivität
 

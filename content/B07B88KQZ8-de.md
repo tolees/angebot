@@ -1,34 +1,34 @@
 ---
 layout: post
-title: '48.59 % rabat auf JBL GO 2 kleine Musikbox in Blau – Wasse'
-date: 2021-01-03 01:04:27
+title: '42.87 % rabat auf JBL GO 2 kleine Musikbox in Blau – Wasse'
+date: 2021-01-06 19:51:09
 image: 'https://m.media-amazon.com/images/I/51IwswJUyrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07B88KQZ8-de'
-actualPrice: 17.99 EUR
+actualPrice: 19.99 EUR
 currency: EUR
-price: 17.99
+price: 19.99
 comparePrice: 34.99 EUR
 prodname: 'JBL GO 2 kleine Musikbox in Blau – Wasserfester  portabler Bluetooth-Lautsprecher mit Freisprechfunktion – Bis zu 5 Stunden Musikgenuss mit nur einer Akku-Ladung'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07B88KQZ8/?tag=tolees0ca-21'
-descuento: '48.59'
-average: '17.99'
+descuento: '42.87'
+average: '18.656666666666666'
 ---
 
-Es gibt ein [JBL GO 2 kleine Musikbox in Blau – Wasserfester  portabler Bluetooth-Lautsprecher mit Freisprechfunktion – Bis zu 5 Stunden Musikgenuss mit nur einer Akku-Ladung](https://www.amazon.de/dp/B07B88KQZ8/?tag=tolees0ca-21) mit aktuellem Preis 17.99 EUR (original: 34.99 EUR) 48.59 % Rabatt hier:
+Es gibt ein [JBL GO 2 kleine Musikbox in Blau – Wasserfester  portabler Bluetooth-Lautsprecher mit Freisprechfunktion – Bis zu 5 Stunden Musikgenuss mit nur einer Akku-Ladung](https://www.amazon.de/dp/B07B88KQZ8/?tag=tolees0ca-21) mit aktuellem Preis 19.99 EUR (original: 34.99 EUR) 42.87 % Rabatt hier:
 
 [![JBL GO 2 kleine Musikbox in Blau – Wasse](https://m.media-amazon.com/images/I/51IwswJUyrL._SL200_.jpg)](https://www.amazon.de/dp/B07B88KQZ8/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Smartphone oder Tablet via Bluetooth mit der Box verbinden und bequem die Lieblingsplaylist starten / Das handliche Gehäuse verschafft dem kleinen JBL Lautsprecher überall einen Platz
-- Technische Geräte im Wasser? Richtig gehört. Durch das wasserdichte Gehäuse wird Wireless Streaming sogar an Strand oder Pool zum unglaublichen Spaß - die GO 2 schnappen und ab ins kühle Nass
-- Kompakt, praktisch & stylisch zugleich: Die kleine Lautsprecherbox liefert tollen Sound in JBL-Qualität und kann zusätzlich Anrufe annehmen - ein ständiger Wegbegleiter für allerlei Abenteuer
-- Schnell aufladen und loslegen? Einfach den kleinen, kabellosen Speaker schnappen und dank des integrierten Lithium-Ionen-Akkus bis zu 5 Std. Musik hören - der Ort spielt dabei keine Rolle
-- Lieferumfang: 1 x Mini-Boombox GO 2 von JBL inkl. Mikro-USB-Kabel / Soundbox mit Freisprechfunktion / Wasserdicht gemäß IPX7 / Lange Akkulaufzeit / 3,1 Watt / 3,5 mm Audiokabel-Anschluss
+- High-quality sound has never been so stylish: Experience JBL quality with your GO2 speaker / This wireless speaker features a built-in noise and echo cancelling speakerphone for crystal clear calls
+- Your music, non-stop - Built-in 730 mAh rechargeable battery lasts up to 5 hrs on a single charge / Crafted in a compact design with 12 eye-catching colors to choose from
+- With Wireless Bluetooth Streaming, connect your device (i.e; tablet or smartphone) and enjoy high-quality stereo sound / If your Bluetooth is not available, the audio cable input comes to the rescue!
+- Quality sound, wherever you go - GO2 is fully waterproof (IPX7) so live free from worry of rain or spills / Perfect design for pools or the beach - go ahead, dive in!
+- Items delivered: 1x JBL GO2 portable wireless speaker in blue / High-quality compact design / Power adaptor and charging cable included
 
 [kauf es hier!!](https://www.amazon.de/dp/B07B88KQZ8/?tag=tolees0ca-21)

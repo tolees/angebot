@@ -25,11 +25,11 @@ Sie können [Dino KRAFTPAKET 136311 4A-6V/12V Batterieladegerät mit Batterietes
 
 ℹ️:
 
-- AUTOMATISCHES KFZ-Batterie-Ladegerät mit Batterietester und Erhaltungsladung für alle gängigen Batterietypen: Blei-Säure, WET, MF, GEL & AGM (1.2-120Ah). LADESTROM: 12V-4A/ 6V-1A. MINDEST-BATTERIESPANNUNG: 0.7 V
-- MEMORY-FUNKTION für sichere Ladung nach Stromausfall. Nach erneuter Stromversorgung startet das Gerät selbstständig im zuletzt genutzten Programm
-- ELF-LADESCHRITTE: 1-Messung, 2-Entsulfatierung, 3-Soft-Start, 4-7-Konstantstrom, 8-Konstantspannung, 9-Erhaltungsladung, 10-Analyse, 11-Wartung
 - BATTERIETESTER: Zeigt die Spannung der Autobatterie an. Funktioniert bei 12V-KFZ-Batterien ohne Netzanschluss. Bei 6V-Batterien ist ein Netzanschluss erforderlich
-- SECHS PROGRAMME: 7.2V-1A/7.4V-1A/14.4V-1A/14.7V-1A/14.4V-4A/14.7V-4A, verpolsicher, funkenfrei, IP65-Strahlwassergeschützt
 - Passform: allgemein
+- MEMORY-FUNKTION für sichere Ladung nach Stromausfall. Nach erneuter Stromversorgung startet das Gerät selbstständig im zuletzt genutzten Programm
+- AUTOMATISCHES KFZ-Batterie-Ladegerät mit Batterietester und Erhaltungsladung für alle gängigen Batterietypen: Blei-Säure, WET, MF, GEL & AGM (1.2-120Ah). LADESTROM: 12V-4A/ 6V-1A. MINDEST-BATTERIESPANNUNG: 0.7 V
+- ELF-LADESCHRITTE: 1-Messung, 2-Entsulfatierung, 3-Soft-Start, 4-7-Konstantstrom, 8-Konstantspannung, 9-Erhaltungsladung, 10-Analyse, 11-Wartung
+- SECHS PROGRAMME: 7.2V-1A/7.4V-1A/14.4V-1A/14.7V-1A/14.4V-4A/14.7V-4A, verpolsicher, funkenfrei, IP65-Strahlwassergeschützt
 
 [Hier!!](https://www.amazon.de/dp/B07GPDM545/?tag=tolees0ca-21)

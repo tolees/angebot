@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '39.94 % rabat auf Sony XDR-S41D Digitalradio  DAB+  FM  RD'
-date: 2021-01-05 19:37:13
+date: 2021-01-06 19:51:07
 image: 'https://m.media-amazon.com/images/I/41teNDQxOzL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Es gibt ein [Sony XDR-S41D Digitalradio  DAB+  FM  RDS  Wecker ](https://www.ama
 
 ℹ️:
 
-- Fünf Speichertasten für leichte Auswahl Ihrer Lieblingssender
 - Mit AC-Netzteil und/oder Batteriebetrieb, damit Sie Ihr Radio auch unterwegs mitnehmen können oder bis zu 25h Batterienutzung
 - DAB, DAB+, FM (RDS), für eine große Auswahl an Radiosendern
+- Fünf Speichertasten für leichte Auswahl Ihrer Lieblingssender
 - Timer-Weckfunktion; Stereokopfhörer-Buchse
 
 [kauf es hier!!](https://www.amazon.de/dp/B01N5WG98O/?tag=tolees0ca-21)

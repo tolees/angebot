@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '48.07 % rabat auf Sloggi Damen Taillenslip Basic+ Maxi  3e'
-date: 2021-01-05 19:29:27
+date: 2021-01-06 19:53:19
 image: 'https://m.media-amazon.com/images/I/41wiQg9aeDL._SL200_.jpg'
 comments: true
 category: ofertas
