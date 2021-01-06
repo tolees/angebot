@@ -25,9 +25,9 @@ Es gibt ein [SUPERZINGS - Polizeistation mit 2 exklusiven SuperZings](https://ww
 
 ℹ️:
 
-- Live new SuperZings adventures with the exclusive figures Captain Justice and Chuckchain
-- In the new police station he fires the cannon from the roof, finds the secret exit and captures the villains
 - Welcome to Kaboom City! The city of SuperZings, where you can create millions of stories and where Superheroes and SuperVillains will face each other in fun adventures
+- In the new police station he fires the cannon from the roof, finds the secret exit and captures the villains
+- Live new SuperZings adventures with the exclusive figures Captain Justice and Chuckchain
 - SuperZings are everyday objects transformed into superheroes and supervillains, fun is guaranteed! Every SuperZing figure has its rival, find the rival pairs and form your SuperTeams. These fun figures are ideal for developing childrens creativity thanks to imaginative play as well as encouraging socialisation
 - Contains 1 Kaboom City police station, 2 exclusive SuperZings and 1 exclusive motorbike
 

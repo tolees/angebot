@@ -25,9 +25,9 @@ Es gibt ein [Pentel Tintenroller R50-C "Ball Pentel" 0 4mm  12 Stück  blau](htt
 
 ℹ️:
 
-- 0.8mm tip, Blue ink
 - Water based ink
-- The original smooth writing Rollerball with distinctive Green barrel
+- 0.8mm tip, Blue ink
 - Writes for up to 2,200 metres
+- The original smooth writing Rollerball with distinctive Green barrel
 
 [kauf es hier!!](https://www.amazon.de/dp/B000SHP2Y4/?tag=tolees0ca-21)

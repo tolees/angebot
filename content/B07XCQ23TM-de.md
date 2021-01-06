@@ -1,34 +1,34 @@
 ---
 layout: post
-title: 'adidas Herren Core 18 Hoodie  White  M mit 41.98 % Rabatt'
-date: 2021-01-05 13:52:40
+title: 'adidas Herren Core 18 Hoodie  White  M mit 37.45 % Rabatt'
+date: 2021-01-06 14:11:03
 image: 'https://m.media-amazon.com/images/I/318Fzns+7cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07XCQ23TM-de'
-actualPrice: 23.18 EUR
+actualPrice: 24.99 EUR
 currency: EUR
-price: 23.18
+price: 24.99
 comparePrice: 39.95 EUR
 prodname: 'adidas Herren Core 18 Hoodie  White  M'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07XCQ23TM/?tag=tolees0ca-21'
-descuento: '41.98'
-average: '23.18'
+descuento: '37.45'
+average: '24.084999999999997'
 ---
 
-Sie können [adidas Herren Core 18 Hoodie  White  M](https://www.amazon.de/dp/B07XCQ23TM/?tag=tolees0ca-21) mit Preis 23.18 EUR (original: 39.95 EUR) 41.98 % Rabatt hier:
+Sie können [adidas Herren Core 18 Hoodie  White  M](https://www.amazon.de/dp/B07XCQ23TM/?tag=tolees0ca-21) mit Preis 24.99 EUR (original: 39.95 EUR) 37.45 % Rabatt hier:
 
 [![adidas Herren Core 18 Hoodie  White  M](https://m.media-amazon.com/images/I/318Fzns+7cL._SL200_.jpg)](https://www.amazon.de/dp/B07XCQ23TM/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Kängurutasche
+- Verstellbare Kapuze mit Kordelzug
 - 70% Baumwolle
 - Gerippter Saum und Bündchen
-- Verstellbare Kapuze mit Kordelzug
+- Kängurutasche
 - Reguläre Passform
 
 [Hier!!](https://www.amazon.de/dp/B07XCQ23TM/?tag=tolees0ca-21)

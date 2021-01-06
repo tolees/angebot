@@ -26,9 +26,9 @@ Es gibt ein [Samsung MZ-V7S1T0BW 970 EVO Plus 1 TB NVMe M.2 Interne SSD Schwarz]
 ℹ️:
 
 - Available Capacity : Up to 2 TB
-- Interface : NVMe (PCIe Gen 3.0 x 4)
 - Designed for tech enthusiasts, hardcore gamers and professionals who need unrivaled performance
-- Form Factor : M.2
 - Sequential Read/Write speeds up to 3,500/3,300 MB/s respectively. Performance varies based on system hardware and configuration
+- Form Factor : M.2
+- Interface : NVMe (PCIe Gen 3.0 x 4)
 
 [kauf es hier!!](https://www.amazon.de/dp/B07MBQPQ62/?tag=tolees0ca-21)

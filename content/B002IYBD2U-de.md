@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '19.91 % rabat auf Pentel LR7-CX Nachfüllmine für EnerGel-S'
-date: 2021-01-05 13:32:57
+date: 2021-01-06 14:05:08
 image: 'https://m.media-amazon.com/images/I/416+MLpxh8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Es gibt ein [Pentel LR7-CX Nachfüllmine für EnerGel-Stifte   0 7 mm Kugelspitz
 
 ℹ️:
 
-- die besonders weich schreibende Gel-Tinte trocknet schnell und überzeugt mit ihrem unvergleichbar leichtem Schreibgefühl Vielschreiber und auch Linkshänder
-- Nachfüllmine u.a. für Pentel Produkte BL57, BL77, BL107, BL407, BL407B, TRL91, TRL92 und TRL93
-- Lieferumfang: 12 Minen, einzeln verpackt
-- ausgestattet mit einer Metallspitze in 0,35mm Strichstärke und Schreibfarbe blau
-- Pentel Nachfülllmine für Standard EnerGel-Tintenroller mit 0,35mm Strichstärke (Strichstärke 0,35mm entspricht Kugelspitze 0,7mm (wie auf der Verpackung angegeben))
+- Compatibility: Pentel ball point pen energel retractable
+- Features: Acid-free
+- Point size: Fine
+- Ink colour: Blue
+- Ink type: Gel
 
 [kauf es hier!!](https://www.amazon.de/dp/B002IYBD2U/?tag=tolees0ca-21)

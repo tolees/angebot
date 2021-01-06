@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS Herren T-Shirt VN 3P CO Dreier-Pack mit 23.35 % Rabatt'
-date: 2021-01-05 13:50:44
+date: 2021-01-06 14:11:17
 image: 'https://m.media-amazon.com/images/I/21YbEpUQdAL._SL200_.jpg'
 comments: true
 category: ofertas
