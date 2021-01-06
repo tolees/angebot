@@ -25,7 +25,7 @@ Sie können [TOM TAILOR Herren Basic Rundhalspullover  Pullover  Light Soft Grey
 
 ℹ️:
 
-- Weiche Baumwolle
 - Leichter Strick
+- Weiche Baumwolle
 
 [Hier!!](https://www.amazon.de/dp/B07S8CFJ7Y/?tag=tolees0ca-21)

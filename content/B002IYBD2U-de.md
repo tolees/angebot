@@ -25,10 +25,10 @@ Es gibt ein [Pentel LR7-CX Nachfüllmine für EnerGel-Stifte   0 7 mm Kugelspitz
 
 ℹ️:
 
+- Point size: Fine
 - Compatibility: Pentel ball point pen energel retractable
+- Features: Acid-free
 - Ink type: Gel
 - Ink colour: Blue
-- Point size: Fine
-- Features: Acid-free
 
 [kauf es hier!!](https://www.amazon.de/dp/B002IYBD2U/?tag=tolees0ca-21)
