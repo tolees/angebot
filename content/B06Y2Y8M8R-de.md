@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '49.98 % rabat auf New Balance Herren 574v2-Core Sneaker  B'
-date: 2021-01-05 13:32:28
+date: 2021-01-06 13:54:40
 image: 'https://m.media-amazon.com/images/I/41RzZ9J0I7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B06Y2Y8M8R/?tag=tolees0ca-21'
 descuento: '49.98'
-average: '46.57666666666667'
+average: '47.06428571428572'
 ---
 
 Es gibt ein [New Balance Herren 574v2-Core Sneaker  Blau  Navy   44.5 EU](https://www.amazon.de/dp/B06Y2Y8M8R/?tag=tolees0ca-21) mit aktuellem Preis 49.99 EUR (original: 99.95 EUR) 49.98 % Rabatt hier:
@@ -26,7 +26,7 @@ Es gibt ein [New Balance Herren 574v2-Core Sneaker  Blau  Navy   44.5 EU](https:
 ℹ️:
 
 - Futter: stricken
-- Obermaterial: Leder
 - Schließung: kurz
+- Obermaterial: Leder
 
 [kauf es hier!!](https://www.amazon.de/dp/B06Y2Y8M8R/?tag=tolees0ca-21)

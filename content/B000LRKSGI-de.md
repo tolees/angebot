@@ -25,8 +25,8 @@ Es gibt ein [walther design HI824B Grado Holzrahmen Format 18 x 24 cm  schwarz](
 
 ℹ️:
 
-- Die Holzrahmen Grado sind mit einem 2,8 cm breiten, mehrfach gerillten Rechteckprofil ausgestattet.
-- Grado hat eine matte Oberfläche und ist in 10 Farben, 11 Standardformaten (von 10x15 bis 60x80 cm), sowie in vier quadratischen Formaten erhältlich. Die Rahmen können zudem mit einem zusätzlichen Schrägschnitt-Passepartout ausgestattet werden.
 - Die Rahmen sind mit Aufhängeösen für hoch- und querformatige Bilder versehen und mit einem zusätzlichen Aufsteller ausgestattet.
+- Grado hat eine matte Oberfläche und ist in 10 Farben, 11 Standardformaten (von 10x15 bis 60x80 cm), sowie in vier quadratischen Formaten erhältlich. Die Rahmen können zudem mit einem zusätzlichen Schrägschnitt-Passepartout ausgestattet werden.
+- Die Holzrahmen Grado sind mit einem 2,8 cm breiten, mehrfach gerillten Rechteckprofil ausgestattet.
 
 [kauf es hier!!](https://www.amazon.de/dp/B000LRKSGI/?tag=tolees0ca-21)

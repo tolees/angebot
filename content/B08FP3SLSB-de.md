@@ -25,9 +25,9 @@ Sie können [WISO Steuer-Start 2021  für Steuerjahr 2020 | Standard Verpackung 
 
 ℹ️:
 
+- Mantelbogen, Anlage N, Anlage Kind Steuer-Tipps auch als Video Musterbriefe für Kontakt mit dem Finanzamt Upgradefähig auf WISO Steuer-Sparbuch 2021
 - Wiso steuer-start 2021 für die Einkommensteuer-Erklärung 2020 ELSTER zur elektronischen Übermittlung Anzeige der Erstattung oder Nachzahlung Kostenfreie Updates für das Steuerjahr 2020
 - Unterstützt die vorausgefüllte Steuererklärung (VaSt) automatische Plausibilitäts- und Fehlerprüfung Exakte Berechnung von Erstattung oder Nachzahlung
-- Mantelbogen, Anlage N, Anlage Kind Steuer-Tipps auch als Video Musterbriefe für Kontakt mit dem Finanzamt Upgradefähig auf WISO Steuer-Sparbuch 2021
 - Für Arbeitnehmer mit Einkünften aus nichtselbstständiger Tätigkeit wahlweise: amtlich anerkannter Ausdruck der Formulare Kostenloser Telefonsupport
 - Systemvoraussetzungen: Windows 8.1/10, Internet-Zugang
 

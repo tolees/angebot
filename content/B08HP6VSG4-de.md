@@ -25,10 +25,10 @@ Es gibt ein [Tax 2021  für Steuerjahr 2020 | PC Aktivierungscode per Email ](ht
 
 ℹ️:
 
-- Systemvoraussetzungen: Windows 8.1/10, Internet-Zugang
 - tax 2021 tax-Lotse: führt Sie durch Ihre Steuererklärung Anerkannter Formular- und Anlagendruck Inklusive kostenfreier Updates für das Steuerjahr 2020
-- Für Inland, Ausland und Grenzregionen Mit allen Formularen Datenübernahme aus dem Vorjahr u.v.m. Programmerstellte Anlagen zur Abgabe mit der Steuererklärung
 - Für Angestellte, Arbeiter, Rentner, Pensionäre, Anleger, Arbeitslose, Vermieter, Selbstständige sowie Land- und Forstwirtschaft Checklisten für Unterlagen und Belege Kostenfreier Telefon-Support
+- Für Inland, Ausland und Grenzregionen Mit allen Formularen Datenübernahme aus dem Vorjahr u.v.m. Programmerstellte Anlagen zur Abgabe mit der Steuererklärung
 - Erledigt die Einkommenssteuer-Erklärung 2020 korrekt und sicher ELSTER zur elektronischen Übermittlung ans Finanzamt Präzise Berechnung der Erstattung Inklusive Steuerratgeber als Buch
+- Systemvoraussetzungen: Windows 8.1/10, Internet-Zugang
 
 [kauf es hier!!](https://www.amazon.de/dp/B08HP6VSG4/?tag=tolees0ca-21)
