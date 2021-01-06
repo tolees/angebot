@@ -25,11 +25,11 @@ Es gibt ein [Bose SoundLink Revolve+  tragbarer 360°- Bluetooth - Lautsprecher 
 
 ℹ️:
 
-- Integriertes Mikrofon zur Nutzung der Freisprechfunktion für klar verständliche Telefonate und Telefonkonferenzen mit einer kabellosen Reichweite von ca. 9 Metern
-- Der leistungsstärkste tragbare Lautsprecher von Bose für tiefen, kraftvollen und beeindruckenden Sound mit echtem Rundumklang
-- Flexibler Tragegriff für leichten Transport; nahtloses, robustes und wasserabweisendes (IPX4) Aluminiumgehäuse
-- Kopplung zweier Lautsprecher für die Wiedergabe im Stereo- oder Partymodus
 - Lithium-Ionen-Akku mit einer langen Wiedergabedauer von bis zu 16 Stunden
+- Kopplung zweier Lautsprecher für die Wiedergabe im Stereo- oder Partymodus
+- Flexibler Tragegriff für leichten Transport; nahtloses, robustes und wasserabweisendes (IPX4) Aluminiumgehäuse
+- Der leistungsstärkste tragbare Lautsprecher von Bose für tiefen, kraftvollen und beeindruckenden Sound mit echtem Rundumklang
 - Kabellose Bluetooth-Verbindung mit Sprachansagen, einfaches Annehmen von Anrufen und Zugriff auf Siri oder Google Now
+- Integriertes Mikrofon zur Nutzung der Freisprechfunktion für klar verständliche Telefonate und Telefonkonferenzen mit einer kabellosen Reichweite von ca. 9 Metern
 
 [kauf es hier!!](https://www.amazon.de/dp/B06XP9N2VP/?tag=tolees0ca-21)

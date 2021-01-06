@@ -25,10 +25,10 @@ Es gibt ein [JBL GO 2 kleine Musikbox in Blau – Wasserfester  portabler Blueto
 
 ℹ️:
 
+- Your music, non-stop - Built-in 730 mAh rechargeable battery lasts up to 5 hrs on a single charge / Crafted in a compact design with 12 eye-catching colors to choose from
+- Quality sound, wherever you go - GO2 is fully waterproof (IPX7) so live free from worry of rain or spills / Perfect design for pools or the beach - go ahead, dive in!
+- Items delivered: 1x JBL GO2 portable wireless speaker in blue / High-quality compact design / Power adaptor and charging cable included
 - With Wireless Bluetooth Streaming, connect your device (i.e; tablet or smartphone) and enjoy high-quality stereo sound / If your Bluetooth is not available, the audio cable input comes to the rescue!
 - High-quality sound has never been so stylish: Experience JBL quality with your GO2 speaker / This wireless speaker features a built-in noise and echo cancelling speakerphone for crystal clear calls
-- Your music, non-stop - Built-in 730 mAh rechargeable battery lasts up to 5 hrs on a single charge / Crafted in a compact design with 12 eye-catching colors to choose from
-- Items delivered: 1x JBL GO2 portable wireless speaker in blue / High-quality compact design / Power adaptor and charging cable included
-- Quality sound, wherever you go - GO2 is fully waterproof (IPX7) so live free from worry of rain or spills / Perfect design for pools or the beach - go ahead, dive in!
 
 [kauf es hier!!](https://www.amazon.de/dp/B07B88KQZ8/?tag=tolees0ca-21)
