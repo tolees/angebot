@@ -25,11 +25,11 @@ Es gibt ein [Philips S9711/31 Elektrischer Nass-und Trockenrasierer Series 9000 
 
 ℹ️:
 
-- Die deutsche Bedienungsanleitung finden Sie zum Download unter Produktinformationen (Weitere technische Informationen)
-- Drei-Tage-Bart problemlos rasieren dank integriertem BeardAdaptSensor, der die Bartdichte 15-mal pro Sekunde misst und die Rasurleistung der Haarstruktur anpasst
 - Einfache Erfassung anliegender Haare dank Multi-Dimensional bewegliche Scherköpfe, die sich jeder Kontur ideal anpassen. Für eine extrem glatte Rasur direkt an der Hautoberfläche
-- Komfortsystem für ein angenehmes Hautgefühl mit drei Geschwindigkeitsstufen
+- Die deutsche Bedienungsanleitung finden Sie zum Download unter Produktinformationen (Weitere technische Informationen)
 - Akkuleistung: 60 Min.; Lieferumfang: Rasierer, aufsteckbarer Bartstyler, Reinigungssystem SmartClean Plus inkl. Reinigungskartusche, Reiseetui
 - Gründliche und angenehme Rasur, selbst bei 3-Tage Bart: Dank V-Track-Pro-Klingen
+- Drei-Tage-Bart problemlos rasieren dank integriertem BeardAdaptSensor, der die Bartdichte 15-mal pro Sekunde misst und die Rasurleistung der Haarstruktur anpasst
+- Komfortsystem für ein angenehmes Hautgefühl mit drei Geschwindigkeitsstufen
 
 [kauf es hier!!](https://www.amazon.de/dp/B00L196LGG/?tag=tolees0ca-21)
