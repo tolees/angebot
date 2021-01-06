@@ -26,9 +26,9 @@ Sie können [LEGO 60219 City Frontlader  Baumaschinen-Set mit Straßenarbeiter M
 ℹ️:
 
 - Hebe den Arm des Frontladers, um den Zaun zu entfernen, nachdem man den Beton mit dem Presslufthammer aufgebrochen hat.
-- Als Zubehör sind ein Presslufthammer und eine kleine baubare Szene mit Zaun und Betonstapel enthalten.
 - Kippe die Schaufel des Frontaderspielzeugs, um den Betonschutt aufzuheben und die Straße zu säubern.
 - Enthält eine LEGO City Straßenarbeiter-Minifigur.
+- Als Zubehör sind ein Presslufthammer und eine kleine baubare Szene mit Zaun und Betonstapel enthalten.
 - Umfasst ein Frontlader-Bauspielzeug mit hebbarem Frontarm, kippbarer Schaufel und Überrollkäfig.
 
 [Hier!!](https://www.amazon.de/dp/B07FNMXFQ9/?tag=tolees0ca-21)

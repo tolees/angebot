@@ -26,7 +26,7 @@ Es gibt ein [Coleman Event Shelter Pro Zelt Mehrfarbig XL](https://www.amazon.de
 ℹ️:
 
 - Wohnfläche: 9m2
-- Pole: Stahl
 - Nähte: Klebebandnähte
+- Pole: Stahl
 
 [kauf es hier!!](https://www.amazon.de/dp/B00TII4CYA/?tag=tolees0ca-21)

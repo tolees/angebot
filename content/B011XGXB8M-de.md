@@ -25,8 +25,8 @@ Es gibt ein [Tumi Alpha Universale Brieftasche mit Münzfach  Schwarz  119237](h
 
 ℹ️:
 
-- 1 Münzfach mit Druckknopfverschluss
 - 4 Kartenfächer
 - 4 Steckfächer
+- 1 Münzfach mit Druckknopfverschluss
 
 [kauf es hier!!](https://www.amazon.de/dp/B011XGXB8M/?tag=tolees0ca-21)
