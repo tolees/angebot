@@ -25,11 +25,11 @@ Es gibt ein [Laser Entfernungsmesser Tacklife A-LDM01 40 Advanced Distanzmessger
 
 ℹ️:
 
-- Umschaltung von m / in / ft
-- 100 Speicherplätze für Messwerte, Großes LCD-Display mit Hintergrundbeleuchtung. Präzise und robuste Lasertechnik sorgt für Zuverlässige Mess-Ergebnisse
-- Messtoleranz: ±2mm
-- ▲NEUESTE TECHNOLOGIE - Neben Längenmessung, Flächenermittlung, Volumenberechnung, Indirekte Messung (Pythagoras), Dauerentfernungsmessung mit Min.und Max. Messwerte, Addition/Substraktionsfunktion etc. kommen Verzögerungsmessung und Absteckung hinzu Funktion
-- ▲TECHNISCHE DATEN - Messbereich: 0,05 - 40m
 - Zertifiziert CE/FCC/FDA/RoHS
+- Messtoleranz: ±2mm
+- ▲TECHNISCHE DATEN - Messbereich: 0,05 - 40m
+- ▲NEUESTE TECHNOLOGIE - Neben Längenmessung, Flächenermittlung, Volumenberechnung, Indirekte Messung (Pythagoras), Dauerentfernungsmessung mit Min.und Max. Messwerte, Addition/Substraktionsfunktion etc. kommen Verzögerungsmessung und Absteckung hinzu Funktion
+- 100 Speicherplätze für Messwerte, Großes LCD-Display mit Hintergrundbeleuchtung. Präzise und robuste Lasertechnik sorgt für Zuverlässige Mess-Ergebnisse
+- Umschaltung von m / in / ft
 
 [kauf es hier!!](https://www.amazon.de/dp/B01A0PQJ0Y/?tag=tolees0ca-21)
