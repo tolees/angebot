@@ -25,9 +25,9 @@ Sie können [Funko 49695 POP Movies Edward Scissorhands Sammelbares Spielzeug  M
 
 ℹ️:
 
-- Funko POP! ist das Spielzeug des Jahres 2018
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
-- Schauen Sie sich jetzt die anderen Edward Scissorhands-Figuren von Funko an! Sammeln Sie alle!
 - Von Edward Scissorhands, Edward Scissorhands, zur stilisierten POP-Vinyl Figur von Funko!
+- Schauen Sie sich jetzt die anderen Edward Scissorhands-Figuren von Funko an! Sammeln Sie alle!
+- Funko POP! ist das Spielzeug des Jahres 2018
 
 [Hier!!](https://www.amazon.de/dp/B0863J9XMR/?tag=tolees0ca-21)

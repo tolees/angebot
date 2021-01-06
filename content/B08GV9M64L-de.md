@@ -25,10 +25,10 @@ Es gibt ein [SanDisk Extreme PRO NVMe SSD 1 TB  tragbare NVMe SSD  USB-C  bis zu
 
 ℹ️:
 
-- Sparen Sie Zeit beim Speichern und Übertragen von Daten mit leistungsstarker NVMe-Solid-State-Performance, mit Lese- und Schreibgeschwindigkeit von bis zu 2.000 MB/s
-- Aufprallschutz von bis zu 2 Metern Höhe, Wasser- und Staubbeständigkeit gemäß IP55 sowie ein praktischer Karabinerhaken, um Ihr Laufwerk zu befestigen.Vertrauen Sie auf die NVMe SSD, wenn Sie in der Welt unterwegs sind.
 - Halten Sie vertrauliche Inhalte privat dank Passwortschutz mit 256 Bit AES-Hardware-Verschlüsselung. Diese wird unterstützt von Windows 8, Windows 10 und macOS v10.9+.
-- Reisen Sie sorgenfrei mit einer beschränkten 5-Jahres-Garantie und einer Kombination aus geschmiedetem Aluminiumgehäuse und Silikonhülle für einen Premium-Look und zusätzlichen Schutz.
+- Aufprallschutz von bis zu 2 Metern Höhe, Wasser- und Staubbeständigkeit gemäß IP55 sowie ein praktischer Karabinerhaken, um Ihr Laufwerk zu befestigen.Vertrauen Sie auf die NVMe SSD, wenn Sie in der Welt unterwegs sind.
 - Das Gehäuse aus geschmiedetem Aluminium dient als Kühlkörper, um konstant hohe Geschwindigkeiten zu liefern – in einem tragbaren Laufwerk, das robust genug ist, um jedes Abenteuer mitzumachen.
+- Reisen Sie sorgenfrei mit einer beschränkten 5-Jahres-Garantie und einer Kombination aus geschmiedetem Aluminiumgehäuse und Silikonhülle für einen Premium-Look und zusätzlichen Schutz.
+- Sparen Sie Zeit beim Speichern und Übertragen von Daten mit leistungsstarker NVMe-Solid-State-Performance, mit Lese- und Schreibgeschwindigkeit von bis zu 2.000 MB/s
 
 [kauf es hier!!](https://www.amazon.de/dp/B08GV9M64L/?tag=tolees0ca-21)

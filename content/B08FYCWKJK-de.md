@@ -25,9 +25,9 @@ Es gibt ein [SuperThings Secret Spies - SpyJet](https://www.amazon.de/dp/B08FYCW
 
 ℹ️:
 
-- Verpackungsgewicht : 100 g
-- Verpackungsabmessungen (L × B × H) : 5.8 zm 7.0 zm 10.0 zm
-- Anzahl der Packungen : 1
 - Herkunftsland:- China
+- Anzahl der Packungen : 1
+- Verpackungsabmessungen (L × B × H) : 5.8 zm 7.0 zm 10.0 zm
+- Verpackungsgewicht : 100 g
 
 [kauf es hier!!](https://www.amazon.de/dp/B08FYCWKJK/?tag=tolees0ca-21)

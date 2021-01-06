@@ -25,10 +25,10 @@ Sie können [Sony DSC-W830 Digitalkamera  20 1 Megapixel  8x optischer Zoom  6 8
 
 ℹ️:
 
-- Erfassen Sie dank 20, 1-Megapixel-Sensor alle Details
-- Näher am Geschehen mit optischem 8fach-Zoom
-- Lieferumfang: Sony DSC-W830 Digitalkamera Schwarz, Handschlaufe, Li-Ion Akku NP-BN, Netzteil, USBKabel, Anleitung
 - Auflösung:, 6,8 cm (2,7 Zoll) LC-Display
+- Näher am Geschehen mit optischem 8fach-Zoom
+- Erfassen Sie dank 20, 1-Megapixel-Sensor alle Details
+- Lieferumfang: Sony DSC-W830 Digitalkamera Schwarz, Handschlaufe, Li-Ion Akku NP-BN, Netzteil, USBKabel, Anleitung
 - Taste für scharfe 720p HD-Videos; Brennweite: F = 4,5 bis 36 mm
 
 [Hier!!](https://www.amazon.de/dp/B00HH8A5RQ/?tag=tolees0ca-21)

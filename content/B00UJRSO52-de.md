@@ -25,10 +25,10 @@ Es gibt ein [Sony SEL-28F20 Weitwinkel Objektiv  Festbrennweite  28mm  F2  Vollf
 
 ℹ️:
 
+- Zirkulare Blende mit 9 Lamellen für wunderschönes Bokeh
+- Gegen Staub- und Feuchtigkeit geschützt
 - Linearer Motor für Fotoaufnahmen; Äquivalente 35-mm-brennweite (aps-c): 42 mm
 - Weitwinkel (28 mm) für Landschaftsaufnahmen und mehr
-- Gegen Staub- und Feuchtigkeit geschützt
 - Maximale Blende von F2,0.Maximale Vergrösserung(X): 0,13 x (AF) / 0,16 x (MF)
-- Zirkulare Blende mit 9 Lamellen für wunderschönes Bokeh
 
 [kauf es hier!!](https://www.amazon.de/dp/B00UJRSO52/?tag=tolees0ca-21)
