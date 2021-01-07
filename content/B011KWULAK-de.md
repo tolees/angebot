@@ -25,8 +25,8 @@ Sie können [Wasa Sandwich Käse Multipack  8er Pack  8 x 90g ](https://www.amaz
 
 ℹ️:
 
+- Es ist in zwei Hälften geteilt, perfekt zum Teilen und zum Verzehr wann und wo immer Sie wollen.
 - Wasa Sandwich ist ein Vollkornknäckebrot Sandwich im handlichen Taschenformat.
 - Sandwich Mild Cheese ist ein Knäckebrot Sandwich mit Vollkornroggen mit einer Füllung mit Käsegeschmack.
-- Es ist in zwei Hälften geteilt, perfekt zum Teilen und zum Verzehr wann und wo immer Sie wollen.
 
 [Hier!!](https://www.amazon.de/dp/B011KWULAK/?tag=tolees0ca-21)
