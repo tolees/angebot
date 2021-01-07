@@ -26,9 +26,9 @@ Es gibt ein [AUKEY Webcam 1080p Full HD mit Stereo-Mikrofon  Web-Kamera für Vid
 ℹ️:
 
 - Plug & Play: Dank USB Video Class (UVC) müssen Sie keine Treiber oder Software installieren, einfach an den USB-Port Ihres Geräts anschließen
-- Integriertes Stereomikrofon: Die beiden digitalen Mikrofone sorgen für einen klaren, natürlichen Klang und reduzieren Hintergrundgeräusche erheblich
-- Hohe Auflösung von 1080p: Mit einem 0,85cm-CMOS-Bildsensor (1/3 Zoll) liefert die Webcam mit einer Auflösung von 1920 x 1080p klare Videos für Video-Chats und Videoaufnahmen, bietet eine gute Leistung auch in schwach beleuchteten Räumen (≤ 5 Lux)
-- Lieferumfang: AUKEY PC-LM1E Webcam 1080p, Bedienungsanleitung, Garantiekarte
 - Kompatibel mit Windows XP/2000/2003 / Vista/7/8/10, Mac OS 10.6 und Android 5.0 oder höher, funktioniert mit Smart TV, Android TV Box, Skype, MSN, FaceTime, Facebook Messenger, Youtube, Yahoo Messenger usw.
+- Lieferumfang: AUKEY PC-LM1E Webcam 1080p, Bedienungsanleitung, Garantiekarte
+- Hohe Auflösung von 1080p: Mit einem 0,85cm-CMOS-Bildsensor (1/3 Zoll) liefert die Webcam mit einer Auflösung von 1920 x 1080p klare Videos für Video-Chats und Videoaufnahmen, bietet eine gute Leistung auch in schwach beleuchteten Räumen (≤ 5 Lux)
+- Integriertes Stereomikrofon: Die beiden digitalen Mikrofone sorgen für einen klaren, natürlichen Klang und reduzieren Hintergrundgeräusche erheblich
 
 [kauf es hier!!](https://www.amazon.de/dp/B0721MKXQ2/?tag=tolees0ca-21)
