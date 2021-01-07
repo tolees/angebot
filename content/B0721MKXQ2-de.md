@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '41.15 % rabat auf AUKEY Webcam 1080p Full HD mit Stereo-Mi'
-date: 2021-01-05 08:13:42
+date: 2021-01-07 09:24:28
 image: 'https://m.media-amazon.com/images/I/310SV0HFMPL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,9 +26,9 @@ Es gibt ein [AUKEY Webcam 1080p Full HD mit Stereo-Mikrofon  Web-Kamera für Vid
 ℹ️:
 
 - Plug & Play: Dank USB Video Class (UVC) müssen Sie keine Treiber oder Software installieren, einfach an den USB-Port Ihres Geräts anschließen
-- Lieferumfang: AUKEY PC-LM1E Webcam 1080p, Bedienungsanleitung, Garantiekarte
 - Integriertes Stereomikrofon: Die beiden digitalen Mikrofone sorgen für einen klaren, natürlichen Klang und reduzieren Hintergrundgeräusche erheblich
-- Kompatibel mit Windows XP/2000/2003 / Vista/7/8/10, Mac OS 10.6 und Android 5.0 oder höher, funktioniert mit Smart TV, Android TV Box, Skype, MSN, FaceTime, Facebook Messenger, Youtube, Yahoo Messenger usw.
 - Hohe Auflösung von 1080p: Mit einem 0,85cm-CMOS-Bildsensor (1/3 Zoll) liefert die Webcam mit einer Auflösung von 1920 x 1080p klare Videos für Video-Chats und Videoaufnahmen, bietet eine gute Leistung auch in schwach beleuchteten Räumen (≤ 5 Lux)
+- Lieferumfang: AUKEY PC-LM1E Webcam 1080p, Bedienungsanleitung, Garantiekarte
+- Kompatibel mit Windows XP/2000/2003 / Vista/7/8/10, Mac OS 10.6 und Android 5.0 oder höher, funktioniert mit Smart TV, Android TV Box, Skype, MSN, FaceTime, Facebook Messenger, Youtube, Yahoo Messenger usw.
 
 [kauf es hier!!](https://www.amazon.de/dp/B0721MKXQ2/?tag=tolees0ca-21)

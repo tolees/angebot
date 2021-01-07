@@ -25,10 +25,10 @@ Sie können [Sony MDR-RF895RK kabellose Kopfhörer  bis zu 100 Meter Reichweite 
 
 ℹ️:
 
-- Ladezeit: Ca. 7 Stunden (Komplettladung) für bis zu 20 Stunden Akkulaufzeit
 - Lieferumfang: Schnurlose Stereokopfhörer, HF-Stereosendeeinheit, Netzteil, Stereominikabel 1,5m, Nickel-Metall-Hybrid-Akku
 - Kabellose Kopfhörer für zu Hause mit einer Reichweite von 100 Metern
 - Automatische Frequenzsuche für hochwertige Übertragung.Frequenzgang: 10 Hz bis 22.000 Hz
 - Geräuschunterdrückungssystem für klareren Sound, 40-mm-Treiber sorgt für großen Frequenzbereich
+- Ladezeit: Ca. 7 Stunden (Komplettladung) für bis zu 20 Stunden Akkulaufzeit
 
 [Hier!!](https://www.amazon.de/dp/B01N0Z35SH/?tag=tolees0ca-21)
