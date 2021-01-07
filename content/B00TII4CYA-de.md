@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '25.15 % rabat auf Coleman Event Shelter Pro Zelt Mehrfarbi'
-date: 2021-01-05 21:39:25
+date: 2021-01-07 03:56:09
 image: 'https://m.media-amazon.com/images/I/31uPGrawpGL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Es gibt ein [Coleman Event Shelter Pro Zelt Mehrfarbig XL](https://www.amazon.de
 
 ℹ️:
 
-- Wohnfläche: 9m2
 - Nähte: Klebebandnähte
+- Wohnfläche: 9m2
 - Pole: Stahl
 
 [kauf es hier!!](https://www.amazon.de/dp/B00TII4CYA/?tag=tolees0ca-21)
