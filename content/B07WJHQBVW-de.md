@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salomon Herren XA PRO 3D V8  Leichte Sch mit 29.21 % Rabatt'
-date: 2021-01-06 01:49:31
+date: 2021-01-07 02:03:17
 image: 'https://m.media-amazon.com/images/I/41S9rRiVagL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,7 +26,7 @@ Sie können [Salomon Herren XA PRO 3D V8  Leichte Schuhe für Trail Running und 
 ℹ️:
 
 - Farbe: Black/Black/Black
-- Xa pro 3D V8
 - Salomon
+- Xa pro 3D V8
 
 [Hier!!](https://www.amazon.de/dp/B07WJHQBVW/?tag=tolees0ca-21)
