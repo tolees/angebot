@@ -25,9 +25,9 @@ Sie können [Edge Entertainment - Ethnos Brettspiel  EECMET01 ](https://www.amaz
 
 ℹ️:
 
+- Produkt in Spanisch
 - Wenn Sie die größte Menge Gloria während der drei Eras treffen, werden Sie Herr von Ethnos ernannt und gewinnen das Spiel!
 - Haben Sie die Einfallsreichtum und Weisheit, um der nächste Herr von Ethnos zu werden und den Beginn einer goldenen Ära zu markieren?
 - Um Herr von Ethnos zu werden, finden Sie die Mitglieder der 12 Tribus und Formen von Alliierten zur Kontrolle der Königinnen.
-- Produkt in Spanisch
 
 [Hier!!](https://www.amazon.de/dp/B0779FVZY7/?tag=tolees0ca-21)

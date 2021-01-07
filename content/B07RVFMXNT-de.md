@@ -25,10 +25,10 @@ Sie können [SNAPTAIN A15H Drohne mit Kamera HD 720P Faltbare Drohne FPV WLAN 12
 
 ℹ️:
 
-- ✈【Bester Kundenservice】Diese Drohne hat viele Funktionen und ist einfach zu bedienen, ideal für Anfänger und Kinder. Wenn Sie irgendwelche Fragen haben, kontaktieren Sie uns bitte und wir stehen Ihnen immer gern zur Verfügung.
-- ✈【720P HD Kamera & FPV-Bildübertragung】Die Drohne A15 ist mit einer 120 ° Weitwinkel-720P-HD-Kamera ausgestattet und man kann das Objektiv dieser Drohne manuell einstellen. Sie können das Objektiv dieser Drohne manuell einstellen (nach oben oder unten)，um hochwertige Videos und klare Luftbilder aufzunehmen.
-- ✈【Flugbahn und Sprachsteuerung】Die neueste Technologie: Wenn Sie auf dem Bildschirm Ihres Mobiltelefons eine Flugbahn zeichnen, wird die Drohne gemäß der Route automatisch fliegen. Steuern Sie Ihre Drohne freihändig mit einfachen Sprachbefehlen auf Englisch wie “take off", "landing", "left", "right", "forward", "backward".
 - ✈【Längere Flugzeit und mehr Flugspaß】 Die SNAPTAIN A15 Drohne wird mit zwei modularen 800mAh Akkus geliefert. Die Flugzeit jeder Batterie der Drohne kann 7,5 Minuten erreichen, Ihren Flug aufregender zu gestalten und Spaß zu verlängern.
+- ✈【Flugbahn und Sprachsteuerung】Die neueste Technologie: Wenn Sie auf dem Bildschirm Ihres Mobiltelefons eine Flugbahn zeichnen, wird die Drohne gemäß der Route automatisch fliegen. Steuern Sie Ihre Drohne freihändig mit einfachen Sprachbefehlen auf Englisch wie “take off", "landing", "left", "right", "forward", "backward".
+- ✈【720P HD Kamera & FPV-Bildübertragung】Die Drohne A15 ist mit einer 120 ° Weitwinkel-720P-HD-Kamera ausgestattet und man kann das Objektiv dieser Drohne manuell einstellen. Sie können das Objektiv dieser Drohne manuell einstellen (nach oben oder unten)，um hochwertige Videos und klare Luftbilder aufzunehmen.
 - ✈【3D Faltbare Drohne】Diese Drohne A15 ist mit einklappbarer Arme vielseitig und komfortabel einsetzbar. Mit Faltbarem Design:13*13.5*6 cm ist es kompakt, leicht und günstig, viel besser für Reisen und im Wohnmobil transportieren lassen.
+- ✈【Bester Kundenservice】Diese Drohne hat viele Funktionen und ist einfach zu bedienen, ideal für Anfänger und Kinder. Wenn Sie irgendwelche Fragen haben, kontaktieren Sie uns bitte und wir stehen Ihnen immer gern zur Verfügung.
 
 [Hier!!](https://www.amazon.de/dp/B07RVFMXNT/?tag=tolees0ca-21)

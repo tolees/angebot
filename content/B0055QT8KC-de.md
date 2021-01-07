@@ -25,7 +25,7 @@ Es gibt ein [Bärenmarke Kaffeetraum 8%  12er Pack  12 x 170 g ](https://www.ama
 
 ℹ️:
 
-- Kaffeetraum 8%
 - Bärenmarke
+- Kaffeetraum 8%
 
 [kauf es hier!!](https://www.amazon.de/dp/B0055QT8KC/?tag=tolees0ca-21)

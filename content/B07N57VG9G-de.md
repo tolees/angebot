@@ -25,7 +25,7 @@ Sie können [Strellson Premium Herren Mercer Anzughose  Blau  Blue 440   W31 Her
 
 ℹ️:
 
-- Passendes Baukasten-Sakko: 30015992
 - Baukasten-Anzughose mit Bundfalte, zwei seitlichen Einschub- und Gesässtaschen
+- Passendes Baukasten-Sakko: 30015992
 
 [Hier!!](https://www.amazon.de/dp/B07N57VG9G/?tag=tolees0ca-21)
