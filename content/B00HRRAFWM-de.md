@@ -25,10 +25,10 @@ Es gibt ein [Sylvanian Families - 4172 - Walnuss Eichhörnchen: Familie Knacks](
 
 ℹ️:
 
-- Four piece set: Father, mother, brother and sister
-- Walnut squirrel posable collectable figures
-- Walnut squirrel family live in beech wood hall
 - Dressed in removable fabric clothing
 - Suitable for ages three years to 10 years
+- Four piece set: Father, mother, brother and sister
+- Walnut squirrel family live in beech wood hall
+- Walnut squirrel posable collectable figures
 
 [kauf es hier!!](https://www.amazon.de/dp/B00HRRAFWM/?tag=tolees0ca-21)

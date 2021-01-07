@@ -25,9 +25,9 @@ Es gibt ein [Funko POP! Star Wars: Mandalorian - The Mandalorian](https://www.am
 
 ℹ️:
 
-- From Star Wars: Mandalorian, The Mandalorian, as a stylized POP vinyl from Funko
+- Funko POP! is the 2018 Toy of the Year and Peoples Choice award winner
 - Check out the other Disney figures from Funko and collect them all!
 - Figure stands 9.5cm and comes in a window display box
-- Funko POP! is the 2018 Toy of the Year and Peoples Choice award winner
+- From Star Wars: Mandalorian, The Mandalorian, as a stylized POP vinyl from Funko
 
 [kauf es hier!!](https://www.amazon.de/dp/B07W8JRFXD/?tag=tolees0ca-21)
