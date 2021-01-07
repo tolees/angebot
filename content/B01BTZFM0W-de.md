@@ -25,9 +25,9 @@ Es gibt ein [Samsung Galaxy S7 Smartphone  5 1 Zoll  12 9 cm   32GB interner Spe
 
 ℹ️:
 
-- Leistungsstarker 64-bit Octa-Core-Prozessor, LTE, 32 GB interner Speicher, Erweiterung per MicroSD um bis zu 256 GB
 - Lieferumfang: Samsung Galaxy S7, Headset, Ladeadapter, Datenkabel, USB-Adapter, Steckplatzwerkzeug, Kurzanleitung, Smart Switch-Anleitung
-- Kratzfestes Gorilla Glass und hochwertiges Aluminium-Gehäuse, wasser- und staubgeschützt nach IP68
+- Leistungsstarker 64-bit Octa-Core-Prozessor, LTE, 32 GB interner Speicher, Erweiterung per MicroSD um bis zu 256 GB
 - Brillantes 12,92 cm (5,1 Zoll) Quad-HD Super AMOLED Display, 12MP-Kamera mit Dual Pixel und F1.7-Blende für gestochen scharfe Bilder
+- Kratzfestes Gorilla Glass und hochwertiges Aluminium-Gehäuse, wasser- und staubgeschützt nach IP68
 
 [kauf es hier!!](https://www.amazon.de/dp/B01BTZFM0W/?tag=tolees0ca-21)

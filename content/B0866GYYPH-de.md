@@ -25,11 +25,11 @@ Es gibt ein [Samsung QLED 4K Q80T 138 cm  55 Zoll   Quantum Prozessor 4K  Direct
 
 ℹ️:
 
-- So spielen die Profis: Der Real Game Enhancer+ sorgt für jede Menge Spielspaß, ohne erst die Einstellungen anpassen zu müssen. In schnellen Actionszenen können Unschärfen reduziert werden, in dunklen Szenen können Sie klar sehen und der Sound passt sich an jede Szene Ihres Spiels an. AMD FreeSync reduziert Ruckeln und Screen Tearing, damit das Spiel möglichst flüssig bleibt.
-- Active Voice Amplifier: Sollte es bei Ihnen mal etwas lauter werden, müssen Sie nicht direkt die Lautstärke erhöhen. Der Active Voice Amplifier verstärkt automatisch die Stimmen, damit Sie jedem Dialog folgen können und keine wichtige Szene mehr verpassen.
+- SmartThings Dashboard: Koordinieren Sie Ihr smartes Zuhause direkt an Ihrem QLED. Durch die Kompatibilität mit der SmartThings-App, können Sie Ihre smarten Geräte bequem an Ihrem QLED steuern.
+- Ein intelligenter Prozessor: Der Quantum Prozessor 4K kann die Bildqualität Szene für Szene anpassen und sorgt damit immer für optimale Bedingungen. Mit 4K AI Upscaling werden Inhalte automatisch auf 4K-Auflösung hochskaliert, und mit Adaptive Picture passt der Q80T das Bild automatisch an die Umgebung und die Helligkeit an.
 - HD+ integriert: 24 private HD- und 2 UHD-Sender sowie HD+ Komfort-Funktion mit Neustart, Mediatheken und TV-Guide. 6 Monate gratis testen. SAT-Empfang benötigt.
 - 100% Farbvolumen: Mit der Quantum Dot-Technologie erleben Sie das beste Bild, das wir je erschaffen haben. Die so genannten Quantum Dots nehmen das Licht auf und verwandeln es in atemberaubende Farben mit 100% Farbvolumen, die unter unterschiedlichsten Lichtsituationen gleich kräftig bleiben – und das nahezu ohne Farbverlust.
-- Ein intelligenter Prozessor: Der Quantum Prozessor 4K kann die Bildqualität Szene für Szene anpassen und sorgt damit immer für optimale Bedingungen. Mit 4K AI Upscaling werden Inhalte automatisch auf 4K-Auflösung hochskaliert, und mit Adaptive Picture passt der Q80T das Bild automatisch an die Umgebung und die Helligkeit an.
-- SmartThings Dashboard: Koordinieren Sie Ihr smartes Zuhause direkt an Ihrem QLED. Durch die Kompatibilität mit der SmartThings-App, können Sie Ihre smarten Geräte bequem an Ihrem QLED steuern.
+- Active Voice Amplifier: Sollte es bei Ihnen mal etwas lauter werden, müssen Sie nicht direkt die Lautstärke erhöhen. Der Active Voice Amplifier verstärkt automatisch die Stimmen, damit Sie jedem Dialog folgen können und keine wichtige Szene mehr verpassen.
+- So spielen die Profis: Der Real Game Enhancer+ sorgt für jede Menge Spielspaß, ohne erst die Einstellungen anpassen zu müssen. In schnellen Actionszenen können Unschärfen reduziert werden, in dunklen Szenen können Sie klar sehen und der Sound passt sich an jede Szene Ihres Spiels an. AMD FreeSync reduziert Ruckeln und Screen Tearing, damit das Spiel möglichst flüssig bleibt.
 
 [kauf es hier!!](https://www.amazon.de/dp/B0866GYYPH/?tag=tolees0ca-21)

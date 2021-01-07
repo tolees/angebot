@@ -25,10 +25,10 @@ Es gibt ein [Samsung MLT-D116L H-Yield Blk Toner Crtg](https://www.amazon.de/dp/
 
 ℹ️:
 
-- Lieferumfang: Samsung MLT-D116L Schwarz Toner Kartusche mit hoher Reichweite (SU828A)
-- Original Samsung Toner: perfekt abgestimmt auf Ihren Samsung Laserdrucker garantiert original Toner hochqaulitätive und beständige Ausdrucke.
-- Jetzt Cashback auf Original Samsung Toner sichern. Mehr Informationen unter hp.com/de/samsung-cashback
 - Kompatibilität: Samsung Xpress SL-M2625/2825/2835, M2675/2875/2885
+- Jetzt Cashback auf Original Samsung Toner sichern. Mehr Informationen unter hp.com/de/samsung-cashback
 - Reichweite: ca. 3.000 Seiten (Tatsächliche Reichweite ist abhängig vom Deckungsgrad der gedruckten Seiten basierend auf ISO/IEC 19752)
+- Original Samsung Toner: perfekt abgestimmt auf Ihren Samsung Laserdrucker garantiert original Toner hochqaulitätive und beständige Ausdrucke.
+- Lieferumfang: Samsung MLT-D116L Schwarz Toner Kartusche mit hoher Reichweite (SU828A)
 
 [kauf es hier!!](https://www.amazon.de/dp/B00BV8SQCO/?tag=tolees0ca-21)
