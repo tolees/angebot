@@ -25,11 +25,11 @@ Es gibt ein [PNY SSD7CS900-960-PB Interner Flashspeicher Solid State Drive "960G
 
 ℹ️:
 
-- Serial ATA III-Schnittstelle/6 GBP
-- Sequenzielle Lese-/Schreibgeschwindigkeit: bis zu 550MB/s / 515MB/s
-- PNY SSD7CS900-960-PB Interner Flashspeicher Solid State Drive
-- Ideal zur Leistungssteigerung von System und Anwendungen aller Computer-Typen
 - Slim-Format 7mm
+- PNY SSD7CS900-960-PB Interner Flashspeicher Solid State Drive
+- Sequenzielle Lese-/Schreibgeschwindigkeit: bis zu 550MB/s / 515MB/s
 - Speicherkapazität 960GB
+- Serial ATA III-Schnittstelle/6 GBP
+- Ideal zur Leistungssteigerung von System und Anwendungen aller Computer-Typen
 
 [kauf es hier!!](https://www.amazon.de/dp/B078ZST42K/?tag=tolees0ca-21)

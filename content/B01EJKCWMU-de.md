@@ -26,9 +26,9 @@ Sie können [Moleskine Smart Writing Set Paper Tablet Notizbuch und Pen+ Smartpe
 ℹ️:
 
 - Sortieren der Notizen anhand von Markierungen. Suchen mithilfe von Schlüsselwörtern. Synchronisieren mit Google Drive und Evernote Cloud
-- Teilen der Ideen über Email durch tippen auf das Briefumschlagsymbol am oberen Seitenrand. Senden der Notizen als PDF, TIF, Vector oder Textformat
 - Synchronisiert Notizen und Audio-Aufnahmen
-- Digitalisieren der handgeschriebenen Notizen. Erkennung von 15 Sprachen
 - Stiftbewegungen werden zeitgleich erfasst und können mit Echtzeit-Aufnahmen kombiniert werden
+- Teilen der Ideen über Email durch tippen auf das Briefumschlagsymbol am oberen Seitenrand. Senden der Notizen als PDF, TIF, Vector oder Textformat
+- Digitalisieren der handgeschriebenen Notizen. Erkennung von 15 Sprachen
 
 [Hier!!](https://www.amazon.de/dp/B01EJKCWMU/?tag=tolees0ca-21)
