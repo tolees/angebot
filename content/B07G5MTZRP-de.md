@@ -25,9 +25,9 @@ Sie können [Krups Nespresso XN9031 Vertuo Plus Kaffeekapselmaschine  weiß  1 1
 
 ℹ️:
 
-- Design: Großer 1,2 Liter Wassertank und Kapselbehälter fasst 10-14 Vertuo Kapseln
+- Jedes Mal die ideale Tasse: Frisch gebrühter Kaffee mit natürlich gebildeter Crema und vollmundigem Geschmack, passend zu jedem Anlass. Ob eine große Tasse mit einem Schuss Milch am Morgen, einen doppelten Espresso nach dem Mittagessen oder einen Gran Lungo am Nachmittag
 - Hoher Komfort und große Flexibilität: Einfache und bequeme Zubereitung auf Knopfdruck, beweglicher Wassertank sowie automatischer Kapselauswurf und elektrisches Öffnen und Schließen
 - Verschiedene Tassengrößen: Eine Maschine für 5 Kaffeegrößen, Alto, Mug, Gran Lungo, doppelter Espresso und Espresso über 3 verschiedene Kapselgrößen. Große Kapsel für Alto und Becher, mittlere Kapsel für Gran Lungo und doppelten Espresso und kleine Kapsel für Espresso
-- Jedes Mal die ideale Tasse: Frisch gebrühter Kaffee mit natürlich gebildeter Crema und vollmundigem Geschmack, passend zu jedem Anlass. Ob eine große Tasse mit einem Schuss Milch am Morgen, einen doppelten Espresso nach dem Mittagessen oder einen Gran Lungo am Nachmittag
+- Design: Großer 1,2 Liter Wassertank und Kapselbehälter fasst 10-14 Vertuo Kapseln
 
 [Hier!!](https://www.amazon.de/dp/B07G5MTZRP/?tag=tolees0ca-21)
