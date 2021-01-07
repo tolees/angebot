@@ -25,10 +25,10 @@ Sie können [Superzings PSZ4D830IN00 4 Two Pack](https://www.amazon.de/dp/B084VR
 
 ℹ️:
 
-- ▶ SuperZings Set mit 2 Figuren : Superheld + Superschurke ▶ Serie 4 - der meistverkauften Figurensammlung
-- ▶ Figuren werden nach dem Zufallsprinzip gesendet - es ist nicht möglich, einen bestimmten Helden oder eine bestimmte Farbe auszuwählen
 - ▶ Zweifellos eines der besten Geschenke für jeden Jungen und Mädchen ab 3 Jahren.
-- ▶ Die Lieblingshelden Ihres Kindes ▶ In Serie 4 kannst du über 80 völlig neue Helden sammeln
+- ▶ Figuren werden nach dem Zufallsprinzip gesendet - es ist nicht möglich, einen bestimmten Helden oder eine bestimmte Farbe auszuwählen
+- ▶ SuperZings Set mit 2 Figuren : Superheld + Superschurke ▶ Serie 4 - der meistverkauften Figurensammlung
 - ▶ SuperZings sind Alltagsgegenstände, die sich in Superhelden und Superschurken verwandeln und bei verschiedenen Abenteuern in Kaboom City gegeneinander antreten
+- ▶ Die Lieblingshelden Ihres Kindes ▶ In Serie 4 kannst du über 80 völlig neue Helden sammeln
 
 [Hier!!](https://www.amazon.de/dp/B084VR77WR/?tag=tolees0ca-21)
