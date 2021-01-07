@@ -25,11 +25,11 @@ Es gibt ein [Logitech HARMONY ELITE Universalfernbedienung  Für Kabelbox  Apple
 
 ℹ️:
 
-- Harmony-App: Wechseln Sie Programme und regeln Sie die Lautstärke oder führen Sie unterwegs Aktionen für mehrere Geräte von Ihrem Handy oder Tablet aus
-- One-Touch-Automatisierung: Die Logitech Harmony Elite One-Touch-Fernbedienung ist einfach zu bedienen und gewährleistet den bequemen Zugriff auf Netflix, Apple TV, Alexa und andere Geräte
 - Benutzerdefinierte Aktionen: Erstellen Sie unbegrenzt viele Aktionen für Gruppen von Geräten, die per Touch oder zu einem festgelegten Zeitpunkt gestartet werden
-- Funktioniert mit all Ihren Geräten: Harmony Elite ist mit mehr als 270.000 Entertainment- und Smart Home-Geräten verschiedener Marken kompatibel
-- Unbegrenzte Automatisierung: Mit der intelligenten Fernbedienung lassen sich Lampen, Türschlösser und Thermostate genauso wie Geräte der Unterhaltungselektronik bequem steuern
 - Harmony Hub: Zentralisiert die Steuerung Ihrer Geräte mithilfe drahtloser Infrarot-, WLAN- oder Bluetooth-Signale
+- Unbegrenzte Automatisierung: Mit der intelligenten Fernbedienung lassen sich Lampen, Türschlösser und Thermostate genauso wie Geräte der Unterhaltungselektronik bequem steuern
+- Funktioniert mit all Ihren Geräten: Harmony Elite ist mit mehr als 270.000 Entertainment- und Smart Home-Geräten verschiedener Marken kompatibel
+- One-Touch-Automatisierung: Die Logitech Harmony Elite One-Touch-Fernbedienung ist einfach zu bedienen und gewährleistet den bequemen Zugriff auf Netflix, Apple TV, Alexa und andere Geräte
+- Harmony-App: Wechseln Sie Programme und regeln Sie die Lautstärke oder führen Sie unterwegs Aktionen für mehrere Geräte von Ihrem Handy oder Tablet aus
 
 [kauf es hier!!](https://www.amazon.de/dp/B014GXQOJ2/?tag=tolees0ca-21)

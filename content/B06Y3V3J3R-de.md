@@ -25,10 +25,10 @@ Sie können [JBL Außenfilter für Aquarien von 160-600 Litern  CristalProfi e15
 
 ℹ️:
 
-- Lieferumfang: 1 x JBL CristalProfi e1502 greenline, Außenfilteranlage für Aquarien, Inkl. 16/22 Schläuchen & Rohren, Ansaugkorb, Winkel, Saughaltern, Filtermassen,20 x 23,5 x 46 cm
 - TÜV geprüft, Sicher und Energieeffizient: Weniger Stromverbrauch als bei vergleichbaren Vorgängermodellen - Gleichbleibende Leistungsstärke
 - Komplett ausgestattet und anschlussfertig: Eingebaute Schnellstart-Einrichtung, Filterstart ohne Wasseransaugen, Einfacher Zusammenbau
 - Außenfilter für sauberes und gesundes Aquarienwasser: Geschlossenes Wasserkreislaufsystem für Aquarien von 160-600 Litern (100-150 cm)
 - Extreme Laufruhe bei 1400 l/h Pumpenleistung, Patentiertes Vorfiltersystem mit 100 Prozent mehr Fläche als beim Model 1501, Hohe Filterleistung mit 12 l Volumen, Wasserstopp, Schlauchanschlüsse 360° drehbar
+- Lieferumfang: 1 x JBL CristalProfi e1502 greenline, Außenfilteranlage für Aquarien, Inkl. 16/22 Schläuchen & Rohren, Ansaugkorb, Winkel, Saughaltern, Filtermassen,20 x 23,5 x 46 cm
 
 [Hier!!](https://www.amazon.de/dp/B06Y3V3J3R/?tag=tolees0ca-21)
