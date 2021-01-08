@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'TP-Link UB400 Nano USB Bluetooth 4.0 Ada mit 25.58 % Rabatt'
-date: 2021-01-07 20:10:26
+title: 'TP-Link UB400 Nano USB Bluetooth 4.0 Ada mit 30.31 % Rabatt'
+date: 2021-01-08 20:14:40
 image: 'https://m.media-amazon.com/images/I/412OOSCOosL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07NQ5YGDW-de'
-actualPrice: 9.6 EUR
+actualPrice: 8.99 EUR
 currency: EUR
-price: 9.6
+price: 8.99
 comparePrice: 12.9 EUR
 prodname: 'TP-Link UB400 Nano USB Bluetooth 4.0 Adapter Dongle  für PC Laptop Desktop Computer  unterstützt Windows 10/8.1/8/7/XP  Plug & Play für Windows 10/8.1/8 '
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07NQ5YGDW/?tag=tolees0ca-21'
-descuento: '25.58'
-average: '9.740099999999995'
+descuento: '30.31'
+average: '9.73513245033112'
 ---
 
-Sie können [TP-Link UB400 Nano USB Bluetooth 4.0 Adapter Dongle  für PC Laptop Desktop Computer  unterstützt Windows 10/8.1/8/7/XP  Plug & Play für Windows 10/8.1/8 ](https://www.amazon.de/dp/B07NQ5YGDW/?tag=tolees0ca-21) mit Preis 9.6 EUR (original: 12.9 EUR) 25.58 % Rabatt hier:
+Sie können [TP-Link UB400 Nano USB Bluetooth 4.0 Adapter Dongle  für PC Laptop Desktop Computer  unterstützt Windows 10/8.1/8/7/XP  Plug & Play für Windows 10/8.1/8 ](https://www.amazon.de/dp/B07NQ5YGDW/?tag=tolees0ca-21) mit Preis 8.99 EUR (original: 12.9 EUR) 30.31 % Rabatt hier:
 
 [![TP-Link UB400 Nano USB Bluetooth 4.0 Ada](https://m.media-amazon.com/images/I/412OOSCOosL._SL200_.jpg)](https://www.amazon.de/dp/B07NQ5YGDW/?tag=tolees0ca-21)
 
@@ -28,8 +28,8 @@ Sie können [TP-Link UB400 Nano USB Bluetooth 4.0 Adapter Dongle  für PC Laptop
 - Lieferumfang - Bluetooth 4.0 Nano USB Adapter UB400, Quick Installation Guide
 - Bluetooth 4.0 ausgestattet mit der letzten Bluetooth 4.0 BLE-Technologie (Bluetooth Low Energy) auch abwärtskompatibel mit Bluetooth V3.0/2.1/2.0/1.1
 - Betriebssystem: Unterstützt Windows 10/8.1/8/7/XP
+- Nano-Design, Mini-Format, Ideal für den Einsatz unterwegs.Betriebstemperatur: 0 ~ 40 °C
 - Plug and Play keine Konfiguration erforderlich (für Win 8, Win 8.1 und Win 10)
 - PS4 Controller kompatibel: Weitere Informationen finden Sie im PDF unter Produktinformation
-- Nano-Design, Mini-Format, Ideal für den Einsatz unterwegs.Betriebstemperatur: 0 ~ 40 °C
 
 [Hier!!](https://www.amazon.de/dp/B07NQ5YGDW/?tag=tolees0ca-21)

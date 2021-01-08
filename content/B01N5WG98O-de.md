@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '39.94 % rabat auf Sony XDR-S41D Digitalradio  DAB+  FM  RD'
-date: 2021-01-07 20:04:33
+date: 2021-01-08 20:27:29
 image: 'https://m.media-amazon.com/images/I/41teNDQxOzL._SL200_.jpg'
 comments: true
 category: ofertas
