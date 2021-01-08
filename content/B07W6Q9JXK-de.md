@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60244 City Polizeihubschrauber-Tran mit 20.34 % Rabatt'
-date: 2021-01-07 02:12:41
+date: 2021-01-08 08:13:39
 image: 'https://m.media-amazon.com/images/I/51rZdwUcXuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07W6Q9JXK/?tag=tolees0ca-21'
 descuento: '20.34'
-average: '32.339101123595505'
+average: '32.368'
 ---
 
 Sie können [LEGO 60244 City Polizeihubschrauber-Transport  Bauset mit Quad  Motorrad und Lastwagen mit Anhänger](https://www.amazon.de/dp/B07W6Q9JXK/?tag=tolees0ca-21) mit Preis 34.94 EUR (original: 43.86 EUR) 20.34 % Rabatt hier:
@@ -25,10 +25,10 @@ Sie können [LEGO 60244 City Polizeihubschrauber-Transport  Bauset mit Quad  Mot
 
 ℹ️:
 
-- Das Polizeispielset für mehrere Fahrzeuge umfasst einen Hubschraubertransporter mit Zugriemen, einen Lastwagen mit Anhänger, ein Quad und ein Motorrad
-- Der Transporter verfügt über eine detaillierte Fahrerkabine, eine mobile Gefängniszelle, einen Computer und Straßensperren mit vielen realistischen Details
-- Das Polizeiset enthält vier Minifiguren: Rooky Partnur und Frankie Lupelli, den Polizisten und den Ganoven, für actionreiches Spielen
-- Kinder können die Zelle öffnen, um den Ganoven entkommen zu lassen, und dann den neuen Polizeihubschrauber starten, der wirklich in die Luft fliegt
-- Die digitale Anleitung Instructions PLUS über die kostenlose LEGO Life-App für Smart-Geräte hilft Kindern, das Modell heranzuzoomen, zu drehen und anzuzeigen, während sie bauen
+- Digital Instructions PLUS guide via the free LEGO Life app for smart devices helps kids to zoom, rotate and visualise the model as they build
+- The transporter truck has a detailed driver’s cab, mobile prison cell, computer and road barriers with many realistic details
+- Kids can rip open the cell to let the crook escape, then launch the new-for-January-2020 police helicopter that really flies into the air
+- The police set includes 4 minifigures: Rooky Partnur and Frankie Lupelli, police officer and criminal minifigures for action-packed play
+- Multi-vehicle police playset includes a flying ripcord helicopter transporter, a truck with trailer, ATV quad bike and a motorbike
 
 [Hier!!](https://www.amazon.de/dp/B07W6Q9JXK/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DEERC D20 Mini Drohne für Kinder mit Kam mit 21.82 % Rabatt'
-date: 2021-01-07 02:18:43
+date: 2021-01-08 08:10:39
 image: 'https://m.media-amazon.com/images/I/41rO3qxJjcL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B086W3ZKC9/?tag=tolees0ca-21'
 descuento: '21.82'
-average: '44.52403141361256'
+average: '44.5081347150259'
 ---
 
 Sie können [DEERC D20 Mini Drohne für Kinder mit Kamera HD 720P Faltbar RC Quadcopter mit FPV Wlan Live Übertragung 2 Akku lange Flugzeit Flugbahnflug Höhenhaltung One Key Start/Landen Headless Modus für Anfänger](https://www.amazon.de/dp/B086W3ZKC9/?tag=tolees0ca-21) mit Preis 42.99 EUR (original: 54.99 EUR) 21.82 % Rabatt hier:
