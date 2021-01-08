@@ -25,10 +25,10 @@ Es gibt ein [Ecco Damen BIOM FJUEL Outdoor Fitnessschuhe  Schwarz  BLACK1001   3
 
 ℹ️:
 
+- Größenhinweis: Fällt passend aus
+- Obermaterial: Glattleder / Synthetik
 - eBay Multihinweis: verschiedene Farben
 - Innenmaterial: Leder
-- Obermaterial: Glattleder / Synthetik
-- Größenhinweis: Fällt passend aus
 - Anlass: Casual
 
 [kauf es hier!!](https://www.amazon.de/dp/B00VJ5DVQ0/?tag=tolees0ca-21)

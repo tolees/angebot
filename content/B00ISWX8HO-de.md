@@ -25,8 +25,8 @@ Es gibt ein [LLOYD Dagan  Herren Derbys  Schwarz  SCHWARZ 0   43 EU  9 UK ](http
 
 ℹ️:
 
-- Futter aus Textil-Leder, Decksohle aus Leder
 - dekoratives und stilvolles Design - zeitlos!
+- Futter aus Textil-Leder, Decksohle aus Leder
 - rutschfeste Gummisohle
 
 [kauf es hier!!](https://www.amazon.de/dp/B00ISWX8HO/?tag=tolees0ca-21)

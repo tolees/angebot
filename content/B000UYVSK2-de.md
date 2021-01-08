@@ -26,9 +26,9 @@ Es gibt ein [GEDORE Nageleisen  1000 mm  Spezialstahl  Optimale Hebelwirkung  Bi
 ℹ️:
 
 - Hochwertiges Nageleisen zum Entfernen von Nägeln, Zerlegen von Paletten, Abbrucharbeiten und Sanierungen, Ideal für professionelle Anwendungen und Hobbybereich geeignet
+- Made in Germany: Herstellung in GEDORE-eigener Produktion in Deutschland, Aus qualitativ hochwertigem Spezialstahl
+- Ideale Kraftübertragung durch optimale Hebelwirkung, Auffallende Lackierung zur leichteren Auffindbarkeit, Gute Handhabung durch 6-kantige Form
 - Extrem robust und biege-/bruchfest dank gleichmäßig durchgehärteten und sorgfältig angelassenen Arbeitsenden
 - Lieferumfang: 1x GEDORE Nageleisen, 6-kantige Form, Länge: 1000 mm, Gewicht: 2,18 kg, Material: Spezialstahl, Farbe: Gelb/Gold, 8769920/120-1000
-- Ideale Kraftübertragung durch optimale Hebelwirkung, Auffallende Lackierung zur leichteren Auffindbarkeit, Gute Handhabung durch 6-kantige Form
-- Made in Germany: Herstellung in GEDORE-eigener Produktion in Deutschland, Aus qualitativ hochwertigem Spezialstahl
 
 [kauf es hier!!](https://www.amazon.de/dp/B000UYVSK2/?tag=tolees0ca-21)

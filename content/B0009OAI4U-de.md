@@ -25,8 +25,8 @@ Es gibt ein [Elizabeth Arden 5th avenue femme/women  Eau de Parfum Spray  1er Pa
 
 ℹ️:
 
-- Duftnoten: Blumig, Fruchtig
 - Ein floraler, fruchtiger Damenduft
 - bei dem Produktbild handelt es sich lediglich um ein Mood Bild
+- Duftnoten: Blumig, Fruchtig
 
 [kauf es hier!!](https://www.amazon.de/dp/B0009OAI4U/?tag=tolees0ca-21)
