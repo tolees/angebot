@@ -26,9 +26,9 @@ Es gibt ein [Hasbro Wer ist es? Kompaktes Reisespiel  deutsche Version für Kind
 ℹ️:
 
 - Denkspiel
-- Förderung von logischen Denken
-- 2 Spieler
-- Ab 6 Jahren
 - Überall spielbar
+- 2 Spieler
+- Förderung von logischen Denken
+- Ab 6 Jahren
 
 [kauf es hier!!](https://www.amazon.de/dp/B00R9DBT60/?tag=tolees0ca-21)
