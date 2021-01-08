@@ -25,10 +25,10 @@ Sie können [Seagate Expansion Desktop  externe Festplatte 4 TB  3.5 Zoll  USB 3
 
 ℹ️:
 
-- Zur Verwendung mit Mac muss diese Festplatte neu formatiert werden. Beim Neuformatieren der Festplatte gehen alle Inhalte verloren, sofern sie nicht auf einer anderen Festplatte gesichert werden. Weitere Informationen hierzu finden Sie im Anwendungshandbuch
-- Schnelle Datenübertragung mit USB 3.0/2.0
-- Systemanforderungen: Betriebssystem Windows 7, Windows 8 oder höher
 - Dateispeicherung per Drag-and-Drop unter Windows ohne Setup
+- Schnelle Datenübertragung mit USB 3.0/2.0
 - Benutzerfreundliche Desktop-Festplatte – einfach Netzteil und USB-Kabel anschließen
+- Systemanforderungen: Betriebssystem Windows 7, Windows 8 oder höher
+- Zur Verwendung mit Mac muss diese Festplatte neu formatiert werden. Beim Neuformatieren der Festplatte gehen alle Inhalte verloren, sofern sie nicht auf einer anderen Festplatte gesichert werden. Weitere Informationen hierzu finden Sie im Anwendungshandbuch
 
 [Hier!!](https://www.amazon.de/dp/B00UNA1OBQ/?tag=tolees0ca-21)
