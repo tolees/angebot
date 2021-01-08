@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony DSC-W830 Digitalkamera  20 1 Megapi mit 22.86 % Rabatt'
-date: 2021-01-06 01:42:51
+date: 2021-01-08 01:51:41
 image: 'https://m.media-amazon.com/images/I/41Vyu8Bk12L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Sie können [Sony DSC-W830 Digitalkamera  20 1 Megapixel  8x optischer Zoom  6 8
 
 ℹ️:
 
+- Erfassen Sie dank 20, 1-Megapixel-Sensor alle Details
 - Auflösung:, 6,8 cm (2,7 Zoll) LC-Display
 - Näher am Geschehen mit optischem 8fach-Zoom
-- Erfassen Sie dank 20, 1-Megapixel-Sensor alle Details
-- Lieferumfang: Sony DSC-W830 Digitalkamera Schwarz, Handschlaufe, Li-Ion Akku NP-BN, Netzteil, USBKabel, Anleitung
 - Taste für scharfe 720p HD-Videos; Brennweite: F = 4,5 bis 36 mm
+- Lieferumfang: Sony DSC-W830 Digitalkamera Schwarz, Handschlaufe, Li-Ion Akku NP-BN, Netzteil, USBKabel, Anleitung
 
 [Hier!!](https://www.amazon.de/dp/B00HH8A5RQ/?tag=tolees0ca-21)
