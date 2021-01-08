@@ -25,10 +25,10 @@ Sie können [tonies Hörfigur für Toniebox - KREAITV Prinzessin - ca. 90 Minute
 
 ℹ️:
 
-- Jeder Tonie ist mit viel Liebe entworfen, handbemalt und dennoch robust genug für großen Spielspaß auf und abseits der Toniebox. Magnetisch haftet er an der Toniebox und erzählt dir seine Geschichte.
 - Unser lang ersehnter Kreativ-Tonie dürfte vor allem Mädchenherzen höherschlagen lassen. Aber aufgepasst, auch die Männer sind ihrem Charme schon reihenweise verfallen.
 - Hörerlebnisse nach deinem Geschmack: Die Kreativ-Tonies sind frei bespielbar und warten nur darauf, deine Geschichte erzählen zu können. Deinen kreativen Möglichkeiten sind keine Grenzen gesetzt.
-- Alle Inhalte des Kreativ-Tonies können mit einem kostenlosen Toniecloud Kundenkonto verwaltet werden. Der Kreativ-Tonie bietet 90 Minuten Spielzeit für eigene Hörabenteuer oder Musik.
+- Jeder Tonie ist mit viel Liebe entworfen, handbemalt und dennoch robust genug für großen Spielspaß auf und abseits der Toniebox. Magnetisch haftet er an der Toniebox und erzählt dir seine Geschichte.
 - Sieht sie nicht hinreißend aus, unsere Prinzessin? Mit ihrem goldenen Krönchen und schüchternen Lächeln hat sie uns schon längst um den Finger gewickelt.
+- Alle Inhalte des Kreativ-Tonies können mit einem kostenlosen Toniecloud Kundenkonto verwaltet werden. Der Kreativ-Tonie bietet 90 Minuten Spielzeit für eigene Hörabenteuer oder Musik.
 
 [Hier!!](https://www.amazon.de/dp/B06XY7GLQK/?tag=tolees0ca-21)

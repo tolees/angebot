@@ -25,10 +25,10 @@ Sie können [tonies Hörfiguren für Toniebox: Disney Hörspiel für Kinder Dumb
 
 ℹ️:
 
-- Der Klapperstorch bringt Frau Jumbo endlich den lang ersehnten Nachwuchs. Doch ihr geliebter kleiner Elefant hat eine große Besonderheit: Seine viel zu groß geratenen Ohren.
-- Eingesprochen wurde die Geschichte von Sonngard Böhlke / Altersempfehlung ab 4 Jahren
 - Jeder Tonie ist mit viel Liebe entworfen, handbemalt und dennoch robust genug für großen Spielspaß auf und abseits der Toniebox. Magnetisch haftet er an der Toniebox und erzählt dir seine Geschichte.
-- Stell den Tonie auf die Toniebox und alles ist möglich. Lausche, lerne, lache - oder tanze, bis die Wände wackeln! Jeder Tonie bringt seine eigene Geschichte mit.
 - Zum Glück hat Dumbo mit dem Mäuserich Timotheus einen guten Freund an seiner Seite, der ihm deutlich macht, das Dumbo ein ganz besonderer Elefant ist und ihm hilft, zum Star der Manege zu werden.
+- Eingesprochen wurde die Geschichte von Sonngard Böhlke / Altersempfehlung ab 4 Jahren
+- Der Klapperstorch bringt Frau Jumbo endlich den lang ersehnten Nachwuchs. Doch ihr geliebter kleiner Elefant hat eine große Besonderheit: Seine viel zu groß geratenen Ohren.
+- Stell den Tonie auf die Toniebox und alles ist möglich. Lausche, lerne, lache - oder tanze, bis die Wände wackeln! Jeder Tonie bringt seine eigene Geschichte mit.
 
 [Hier!!](https://www.amazon.de/dp/B07Y3FT9Q7/?tag=tolees0ca-21)
