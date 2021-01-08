@@ -25,9 +25,9 @@ Sie können [Gigabyte Barebone BRIX GB-BRi5H-8250](https://www.amazon.de/dp/B07C
 
 ℹ️:
 
-- Funktionen Intel Core i7-8550U Prozessor
-- 1 x m. 2 SSD (2280) Steckplatz
-- Ultra kompakte PC-Design bei nur 0,46 L (34,4 x 112,6 x 119,4 mm)
 - 2 x DDR4 SO-DIMM-Steckplätze
+- Funktionen Intel Core i7-8550U Prozessor
+- Ultra kompakte PC-Design bei nur 0,46 L (34,4 x 112,6 x 119,4 mm)
+- 1 x m. 2 SSD (2280) Steckplatz
 
 [Hier!!](https://www.amazon.de/dp/B07CZ5FGLY/?tag=tolees0ca-21)
