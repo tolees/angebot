@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO 42109 Technic Top-Gear Rallyeauto m mit 33.38 % Rabatt'
-date: 2021-01-07 02:15:06
+title: 'LEGO 42109 Technic Top-Gear Rallyeauto m mit 27.40 % Rabatt'
+date: 2021-01-08 14:04:09
 image: 'https://m.media-amazon.com/images/I/51CSmFWtivL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07W7V6R7D-de'
-actualPrice: 84.42 EUR
+actualPrice: 91.99 EUR
 currency: EUR
-price: 84.42
+price: 91.99
 comparePrice: 126.71 EUR
 prodname: 'LEGO 42109 Technic Top-Gear Rallyeauto mit App-Steuerung und Smart Hub  ferngesteuerte Rennautos'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07W7V6R7D/?tag=tolees0ca-21'
-descuento: '33.38'
-average: '92.59471186440675'
+descuento: '27.40'
+average: '92.5906397306397'
 ---
 
-Sie können [LEGO 42109 Technic Top-Gear Rallyeauto mit App-Steuerung und Smart Hub  ferngesteuerte Rennautos](https://www.amazon.de/dp/B07W7V6R7D/?tag=tolees0ca-21) mit Preis 84.42 EUR (original: 126.71 EUR) 33.38 % Rabatt hier:
+Sie können [LEGO 42109 Technic Top-Gear Rallyeauto mit App-Steuerung und Smart Hub  ferngesteuerte Rennautos](https://www.amazon.de/dp/B07W7V6R7D/?tag=tolees0ca-21) mit Preis 91.99 EUR (original: 126.71 EUR) 27.40 % Rabatt hier:
 
 [![LEGO 42109 Technic Top-Gear Rallyeauto m](https://m.media-amazon.com/images/I/51CSmFWtivL._SL200_.jpg)](https://www.amazon.de/dp/B07W7V6R7D/?tag=tolees0ca-21)
 
