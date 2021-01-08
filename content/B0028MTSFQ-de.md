@@ -26,7 +26,7 @@ Es gibt ein [Platinum Kohle-Tintenflasche  60 ml  Schwarz](https://www.amazon.de
 ℹ️:
 
 - Fassungsvermögen: 60 ml
-- Schreibfarbe: Schwarz
 - Pigmentierte Carbon-Tinte
+- Schreibfarbe: Schwarz
 
 [kauf es hier!!](https://www.amazon.de/dp/B0028MTSFQ/?tag=tolees0ca-21)
