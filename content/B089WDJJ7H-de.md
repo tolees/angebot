@@ -25,9 +25,9 @@ Sie können [Xiaomi Mi Electric Scooter Pro2 Elektroroller  Unisex  Erwachsene  
 
 ℹ️:
 
+- Akkulaufzeit: bis zu 45 km
 - Integriertes Display für schnelle und bequeme Überwachung mit Geschwindigkeit/Batterie/km/Modus
 - Gewicht: 14.2 kg; Maximales Benutzergewicht: 100 kg
-- Akkulaufzeit: bis zu 45 km
 - Maximale Geschwindigkeit: ca. 25 km/h; ausgeklügeltes System zur Kontrolle der Geschwindigkeit von Kreuzfahrt und Wiederherstellung der Kinetik (KERS)
 - Rutschfeste und stoßdämpfende 8.5 Zoll Reifen, Doppelbremssystem
 
