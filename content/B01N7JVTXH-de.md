@@ -26,9 +26,9 @@ Sie können [Bosch Akku Mini Handkreissäge UniversalCirc 12  1 Akku  12 Volt Sy
 ℹ️:
 
 - PowerLight illuminates the cutting area, for better visibility, even in dim areas
+- Easy adjustment of cutting depth and angle
+- Parallel guide offers assistance for straight cuts in wooden materials
 - Cordless use on any worksite even without an access to outlets
 - Syneon Chip regulates energy use for optimal efficiency and longer runtime
-- Parallel guide offers assistance for straight cuts in wooden materials
-- Easy adjustment of cutting depth and angle
 
 [Hier!!](https://www.amazon.de/dp/B01N7JVTXH/?tag=tolees0ca-21)

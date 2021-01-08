@@ -26,7 +26,7 @@ Sie können [BOSS Herren T-Shirt VN 3P CO Dreier-Pack T-Shirts aus Baumwolle mit
 ℹ️:
 
 - Packaging: Box
-- Neckline: V-neck
 - Regular fit
+- Neckline: V-neck
 
 [Hier!!](https://www.amazon.de/dp/B01M7PQDDO/?tag=tolees0ca-21)

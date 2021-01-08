@@ -27,7 +27,7 @@ Sie können [Funko POP! Bobble Vinyl Marvel: Holiday - Groot](https://www.amazon
 
 - Schauen Sie sich jetzt die anderen Marvel-Figuren von Funko an! Sammeln Sie alle!
 - Von Marvel, Groot, zur stilisierten POP-Vinyl Figur von Funko!
-- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 - Funko POP! ist das Spielzeug des Jahres 2018
+- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 
 [Hier!!](https://www.amazon.de/dp/B07QGWYL1Y/?tag=tolees0ca-21)
