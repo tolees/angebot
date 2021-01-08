@@ -25,10 +25,10 @@ Es gibt ein [Meguiars G18216EU Ultimate Liquid Wax Autowachs  473 ml](https://ww
 
 ℹ️:
 
-- Meguiar’s Thin Film Technologie für minimalen Kraftaufwand
-- Neueste Polymer Technologie
+- Inklusive Meguiar’s Applicator Pad und Meguiars Supreme Shine Mikrofaser Tuch
 - Verarbeitung in praller Sonne möglich
 - Sicher auf allen Hochglanzlackierungen und Klarlacken
-- Inklusive Meguiar’s Applicator Pad und Meguiars Supreme Shine Mikrofaser Tuch
+- Neueste Polymer Technologie
+- Meguiar’s Thin Film Technologie für minimalen Kraftaufwand
 
 [kauf es hier!!](https://www.amazon.de/dp/B004HCM9H4/?tag=tolees0ca-21)

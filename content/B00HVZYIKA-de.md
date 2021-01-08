@@ -25,13 +25,13 @@ Es gibt ein [Kraftmann 67310 | Radlager-Werkzeug-Satz | universal | 21-tlg](http
 
 ℹ️:
 
-- 3 Radnaben-Abdrückschrauben M14 x 1,5
-- mit 9 Druckstücken mit Außen-Ø 55,5 - 59 - 62 - 65 - 66 - 71,5 - 73 - 78 - 82 mm
-- geschmiedeter Werkzeugstahl, gehärtet
-- Druckhülse (beidseitig offen), Innen-Ø 69,9 mm
-- 3 Radnaben-Abdrückschrauben M12 x 1,5
 - kugelgelagerte Spindel, Sechskant SW 32, Ø 22 x 280 mm
-- Druckhülsen mit Gegenhalteplatte (nicht festsitzend), Innen-Ø 75,5 - 82,9 mm
 - zum Ein- und Ausziehen von Radnaben und -lagern bei eingebautem Federbein
+- geschmiedeter Werkzeugstahl, gehärtet
+- Druckhülsen mit Gegenhalteplatte (nicht festsitzend), Innen-Ø 75,5 - 82,9 mm
+- 3 Radnaben-Abdrückschrauben M12 x 1,5
+- 3 Radnaben-Abdrückschrauben M14 x 1,5
+- Druckhülse (beidseitig offen), Innen-Ø 69,9 mm
+- mit 9 Druckstücken mit Außen-Ø 55,5 - 59 - 62 - 65 - 66 - 71,5 - 73 - 78 - 82 mm
 
 [kauf es hier!!](https://www.amazon.de/dp/B00HVZYIKA/?tag=tolees0ca-21)

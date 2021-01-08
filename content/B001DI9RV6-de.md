@@ -25,12 +25,12 @@ Es gibt ein [Unitec 10924 Kleinkompressor Manometer bis 18 bar](https://www.amaz
 
 ℹ️:
 
-- 12 Volt, max. 10 A
-- mit verschiedenen Adaptern
-- Luftleistung 15 ltr./min
-- Kabellänge: 2,80 m
-- Manometer bis 18 bar
 - Anschluß über 12 Volt Zigarettenanzünder
+- Kabellänge: 2,80 m
+- Luftleistung 15 ltr./min
+- mit verschiedenen Adaptern
 - 50 cm langer Luftschlauch mit VentilSchnellanschluß
+- 12 Volt, max. 10 A
+- Manometer bis 18 bar
 
 [kauf es hier!!](https://www.amazon.de/dp/B001DI9RV6/?tag=tolees0ca-21)

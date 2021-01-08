@@ -25,7 +25,7 @@ Sie können [kh security Pfefferspray Piexon Tierabwehrgerät Guardian Angel II 
 
 ℹ️:
 
-- 12 milliliters
 - In Deutschland nur zur Tierabwehr zugelassen
+- 12 milliliters
 
 [Hier!!](https://www.amazon.de/dp/B00BB7QLRW/?tag=tolees0ca-21)

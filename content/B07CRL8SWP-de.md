@@ -25,8 +25,8 @@ Es gibt ein [Sylvanian Families - 5315 - Supermarkt](https://www.amazon.de/dp/B0
 
 ℹ️:
 
-- Ideale Ergänzung zum TA Collection.
 - Der Supermarkt der Epoch wo Sie befinden sich alle täglichen zum Einkaufen.
 - Ab 3 Jahre
+- Ideale Ergänzung zum TA Collection.
 
 [kauf es hier!!](https://www.amazon.de/dp/B07CRL8SWP/?tag=tolees0ca-21)
