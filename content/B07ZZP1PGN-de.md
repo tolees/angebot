@@ -25,8 +25,8 @@ Sie können [Funko 47952 Zion Soul  Mr Mittens Sammelbares Spielzeug  Mehrfarben
 
 ℹ️:
 
-- Von Soul, Mr Mittens, zur stilisierten POP-Vinyl Figur von Funko!
-- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 - Schauen Sie sich jetzt die anderen Zion-Figuren von Funko an! Sammeln Sie alle!
+- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
+- Von Soul, Mr Mittens, zur stilisierten POP-Vinyl Figur von Funko!
 
 [Hier!!](https://www.amazon.de/dp/B07ZZP1PGN/?tag=tolees0ca-21)

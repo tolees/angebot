@@ -26,8 +26,8 @@ Es gibt ein [WMF Steakbesteck 12-teilig  Steakbesteck Set für 6 Personen  Steak
 ℹ️:
 
 - Inhalt: 6x Steakgabel, 6x Steakmesser (Länge 23,0 cm) - Artikelnummer: 1280239990
-- Der Wellenschliff der Steakmesser garantiert jahrelang anhaltende, optimale Schärfe. Der Griff des Messers liegt gut in der Hand
 - Material: Cromargan Edelstahl 18/10 poliert. Rostfrei, spülmaschinengeeignet, formstabil, hygienisch, säurefest und unverwüstlich
+- Der Wellenschliff der Steakmesser garantiert jahrelang anhaltende, optimale Schärfe. Der Griff des Messers liegt gut in der Hand
 - Die soliden Monobloc Steakmesser haben eine besonders scharfe Klinge aus rostfreiem Spezialklingenstahl und werden aus einem Stück geschmiedet und im Ganzen gehärtet
 - Scharfe Messerklingen und spitze Gabelzinken machen den Steak-Genuss ideal. Das Grillbesteck, bestehend aus jeweils 6 Steakgabel- und Steakmesser, eignet sich auch als Pizzabesteck
 

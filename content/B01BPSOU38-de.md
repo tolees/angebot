@@ -25,8 +25,8 @@ Es gibt ein [InLine 33328Y Y-Kabel für Lüfter PWM  4pol Molex 1 Stecker / 2 Bu
 
 ℹ️:
 
-- für Lüfter mit 4pol. PWM Anschluß
 - 4pol Molex 1x Stecker/ 2x Buchse
+- für Lüfter mit 4pol. PWM Anschluß
 - InLine Y-Kabel für Lüfter PWM
 - Länge ca. 0, 15m
 
