@@ -27,8 +27,8 @@ Sie können [Sony WI-XB400B kabellose In-Ohr Kopfhörer  eingebauter Sprachassis
 
 - Quick Charge: 10 Min. für 1 Std
 - Extra Bass für satten, kraftvollen Sound
-- Schneller Zugriff per Sprache auf die Lieblingssongs und keine verpassten Benachrichtungen mehr dank eingebautem Google/Siri Assistant
-- Integrierte Headset-Funktion für handfreies Telefonieren
 - Lange Akkulaufzeit: bis zu 15 Stunden in Abhängigkeit vom gewählten Modus
+- Integrierte Headset-Funktion für handfreies Telefonieren
+- Schneller Zugriff per Sprache auf die Lieblingssongs und keine verpassten Benachrichtungen mehr dank eingebautem Google/Siri Assistant
 
 [Hier!!](https://www.amazon.de/dp/B07X1TDTQB/?tag=tolees0ca-21)
