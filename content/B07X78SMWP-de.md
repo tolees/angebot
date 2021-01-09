@@ -25,10 +25,10 @@ Es gibt ein [Sony Alpha 6600 | APS-C Spiegellose Kamera   Schneller 0 02s Autofo
 
 ℹ️:
 
-- SCHNELLER UND PRÄZISERER AUTOFOKUS: Verlassen Sie sich auf 0,02s AF, Tracking in Echtzeit und Autofokus mit Augenerkennung (Mensch/Tier), um Ihr Motiv in jeder Situation im Fokus zu behalten.
 - VERLÄNGERTE BATTERIE-LEBENSDAUER: APS-C Branchenführende Z-Batterie für längere Aufnahme-Sessions.
-- PERFEKT FÜR VIDEO CREATOR: Hochauflösende 4K-HDR-Filmaufnahme und Full-HD-Slow-Motion-Funktion (120p) mit Autofokus.
+- SCHNELLER UND PRÄZISERER AUTOFOKUS: Verlassen Sie sich auf 0,02s AF, Tracking in Echtzeit und Autofokus mit Augenerkennung (Mensch/Tier), um Ihr Motiv in jeder Situation im Fokus zu behalten.
 - ATEMBERAUBENDE BILDQUALITÄT: 24Mp gepaart mit hoher ISO-Fähigkeit, um auch bei schwachem Licht hervorragende Bilder zu liefern.
 - STABILE AUFNAHMEN: Optische 5-Achsen-Bildstabilisierung für Fotos und Filme zur Kompensation von Kameraverwacklungen.
+- PERFEKT FÜR VIDEO CREATOR: Hochauflösende 4K-HDR-Filmaufnahme und Full-HD-Slow-Motion-Funktion (120p) mit Autofokus.
 
 [kauf es hier!!](https://www.amazon.de/dp/B07X78SMWP/?tag=tolees0ca-21)

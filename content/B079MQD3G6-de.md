@@ -25,10 +25,10 @@ Es gibt ein [Playmobil City Action 9466 Feuerwehr-Truck mit Licht- und Soundeffe
 
 ℹ️:
 
-- Lieferumfang: 1x PLAYMOBIL City Action Feuerwehr-Truck, 56-teiliges Spielfiguren-Set mit Anleitung: 1 Feuerwehr-Truck, 1 Figur, 54 Zubehörteile (wird ohne 3 x 1,5-V-Micro-Batterien geliefert), Material: Kunststoff, LxBxH: 26x12x17 cm, Art.-Nr. 9466
-- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 - Spielspaß für kleine Feuerwehrmänner: PLAYMOBIL Feuerwehr-Truck mit coolen Licht- und Soundeffekten und viel Zubehör für detailgetreues Nachspielen
-- Spielfiguren-Set für Kinder ab 5 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
+- Lieferumfang: 1x PLAYMOBIL City Action Feuerwehr-Truck, 56-teiliges Spielfiguren-Set mit Anleitung: 1 Feuerwehr-Truck, 1 Figur, 54 Zubehörteile (wird ohne 3 x 1,5-V-Micro-Batterien geliefert), Material: Kunststoff, LxBxH: 26x12x17 cm, Art.-Nr. 9466
 - 1 Feuerwehrmann, Sirene, Abnehmbares Dach, Funktionierende Seilwinde, Drehbare Löschschaumkanone, uvm., Passend zu PLAYMOBIL Große Feuerwache (9462)
+- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
+- Spielfiguren-Set für Kinder ab 5 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 
 [kauf es hier!!](https://www.amazon.de/dp/B079MQD3G6/?tag=tolees0ca-21)
