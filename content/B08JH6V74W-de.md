@@ -27,8 +27,8 @@ Es gibt ein [OPPO A73 5G Smartphone  90 Hz 6 5 Zoll  16 5 cm  Display  4040 mAh 
 
 - Schneller Prozessor: Der leistungsstarke 5G Octa-Core CPU Prozessor bietet eine ultrastarke Leistung bei Apps, Online-Spielen und beim Streaming von 4K Videos, ganz ohne Ladepause
 - Atemberaubendes Design: Das A73 zeichnet sich durch seine schlanke, handliche Form von 7,9 mm und einem Gewicht von 177 g aus. Das A73 ist in zwei brillanten Farbvarianten erhältlich
-- Große Batterie: Dank 4040 mAh Akku + 18W Schnellladung verfügt das A73 5G über eine ultralange Akkulaufzeit und kann unterwegs lange genutzt werden, ohne dass eine Powerbank benötigt wird
 - Ultraklare Dreifachkamera: Mit 16 MP Weitwinkelkamera, 8 MP Ultraweitwinkelkamera und 2 MP Porträtkamera. Für Selfies rundet eine 8 MP Kamera mit inkl. KI Beautymodus das Kamerapaket ab, so ist Fotografieren so vielseitig wie noch nie
 - Schnelles 90 Hz Punch Hole Display: Die Bildwiederholfrequenz von 90 Hz passt sich automatisch an den Displayinhalt an und erzeugt eine superflüssige Darstellung von Videos und Spielen
+- Große Batterie: Dank 4040 mAh Akku + 18W Schnellladung verfügt das A73 5G über eine ultralange Akkulaufzeit und kann unterwegs lange genutzt werden, ohne dass eine Powerbank benötigt wird
 
 [kauf es hier!!](https://www.amazon.de/dp/B08JH6V74W/?tag=tolees0ca-21)
