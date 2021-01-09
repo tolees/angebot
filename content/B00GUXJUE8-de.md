@@ -25,8 +25,8 @@ Es gibt ein [Columbia Herren Woodburn Li  Scarpe da Nordic Walking  Braun Braun 
 
 ℹ️:
 
-- Leichte Techlite Zwischensohle
 - Abtriebfeste Omni-Grip Gummi-Außensohle für gute Bodenhaftung
+- Leichte Techlite Zwischensohle
 - Der Columbia Peakfreak Nomad Waterproof ist ein typischer Outdoor-Schuh
 - Obermaterial aus wasserdichtem Netzgewebe und Leder
 - Omni-Tech wasserdichte und atmungsaktive Schuhkonstruktion mit versiegelten Nähten

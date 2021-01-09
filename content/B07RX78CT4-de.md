@@ -26,8 +26,8 @@ Es gibt ein [GRID  Day One Edition  [Xbox One]](https://www.amazon.de/dp/B07RX78
 ℹ️:
 
 - Rennlegende Fernando Alonso ist Markenbotschafter von GRID
-- Limitierte Erstauflage inklusive Carbon-Skin und XP-Boost!
-- Der langersehnte Nachfolger der beliebten GRID-Rennspiel-Serie
 - Actiongeladene Multiplyer-Rennen in privaten oder öffentlichen Sessions mit bis zu 16 Spielern
+- Der langersehnte Nachfolger der beliebten GRID-Rennspiel-Serie
+- Limitierte Erstauflage inklusive Carbon-Skin und XP-Boost!
 
 [kauf es hier!!](https://www.amazon.de/dp/B07RX78CT4/?tag=tolees0ca-21)
