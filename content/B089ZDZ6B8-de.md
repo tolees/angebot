@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '24.25 % rabat auf STAR WARS SQUADRONS - [Xbox One]'
-date: 2021-01-07 20:09:36
+title: '26.78 % rabat auf STAR WARS SQUADRONS - [Xbox One]'
+date: 2021-01-09 15:10:26
 image: 'https://m.media-amazon.com/images/I/51aW4l4EqDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -10,16 +10,16 @@ slug: 'B089ZDZ6B8-de'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99
-comparePrice: 32.99 EUR
+comparePrice: 34.13 EUR
 prodname: 'STAR WARS SQUADRONS - [Xbox One]'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B089ZDZ6B8/?tag=tolees0ca-21'
-descuento: '24.25'
+descuento: '26.78'
 average: '24.99'
 ---
 
-Es gibt ein [STAR WARS SQUADRONS - [Xbox One]](https://www.amazon.de/dp/B089ZDZ6B8/?tag=tolees0ca-21) mit aktuellem Preis 24.99 EUR (original: 32.99 EUR) 24.25 % Rabatt hier:
+Es gibt ein [STAR WARS SQUADRONS - [Xbox One]](https://www.amazon.de/dp/B089ZDZ6B8/?tag=tolees0ca-21) mit aktuellem Preis 24.99 EUR (original: 34.13 EUR) 26.78 % Rabatt hier:
 
 [![STAR WARS SQUADRONS - [Xbox One]](https://m.media-amazon.com/images/I/51aW4l4EqDL._SL200_.jpg)](https://www.amazon.de/dp/B089ZDZ6B8/?tag=tolees0ca-21)
 
