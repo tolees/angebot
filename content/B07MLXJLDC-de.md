@@ -25,10 +25,10 @@ Sie können [Schmidt Spiele 49352 Dizzle  Würfelspiel aus der Serie Klein & Fei
 
 ℹ️:
 
-- Spieldauer: ca. 30 Minuten
-- Spieleranzahl: 1 bis 4 Spieler
-- Würfelspiel aus der Noch Mal Würfelreihe, alle spielen gleichzeitig
-- Zielgruppe: Spieler ab 8 Jahren
 - Mit 4 unterschiedlichen Leveln
+- Spieleranzahl: 1 bis 4 Spieler
+- Zielgruppe: Spieler ab 8 Jahren
+- Würfelspiel aus der Noch Mal Würfelreihe, alle spielen gleichzeitig
+- Spieldauer: ca. 30 Minuten
 
 [Hier!!](https://www.amazon.de/dp/B07MLXJLDC/?tag=tolees0ca-21)

@@ -25,10 +25,10 @@ Es gibt ein [fischer DUOPOWER 12 x 60  Universaldübel  leistungsstarker 2-Kompo
 
 ℹ️:
 
+- Beste Lastwerte & intelligente Funktion: Der DUOPOWER ist der erste Dübel, der selbst entscheidet, ob er spreizt, klappt oder knotet – so passt er sich automatisch an den jeweiligen Untergrund an und ermöglicht dadurch ein breites Anwendungsspektrum in Voll-, Loch- und Plattenbaustoffen.
+- Absolut leistungsstark: Durch die kompakte und kurze Form sind deutlich weniger Bohraufwand und somit kürzere Schrauben erforderlich, beim Einschlagen des Dübels verhindert der schmale Rand das Durchrutschen ins Bohrloch, die Mitdrehsicherung verhindert das Mitdrehen des Dübels und dank der bestmöglichen Rückmeldung spüren Sie sofort, wenn er perfekt sitzt.
 - Lieferumfang: 25 x DUOPOWER 12 x 60 (Art.-Nr. 538253) von fischer.
 - Ein Dübel für alle Baustoffe: Als intelligenter 2-Komponenten-Dübel ist er mit Schrauben Ø 8 - 10 mm verwendbar und bietet er sehr gute Haltewerte – die graue Komponente aktiviert je nach Baustoff automatisch das optimale Funktionsprinzip, während die Expansionsflügel der roten Komponente die sichere Verspreizung unterstützen.
 - Anwendungsgebiete: Der kraftvolle Dübel eignet sich zur Anbringung von leichten Spiegelschränken, Hängeschränken, Wandregalen, Werkzeugwänden, schweren Spiegeln, Garderoben, Waschtisch-, Sanitär/Heizung/Klima-Befestigungen sowie Bad- und WC-Einrichtungen in zahlreichen Baustoffen wie Beton, Voll- und Hochlochziegeln, Naturstein, Kalksand-Voll- und Lochstein, Gipsbauplatten, Hohldecken, Leichtbeton und Porenbeton.
-- Absolut leistungsstark: Durch die kompakte und kurze Form sind deutlich weniger Bohraufwand und somit kürzere Schrauben erforderlich, beim Einschlagen des Dübels verhindert der schmale Rand das Durchrutschen ins Bohrloch, die Mitdrehsicherung verhindert das Mitdrehen des Dübels und dank der bestmöglichen Rückmeldung spüren Sie sofort, wenn er perfekt sitzt.
-- Beste Lastwerte & intelligente Funktion: Der DUOPOWER ist der erste Dübel, der selbst entscheidet, ob er spreizt, klappt oder knotet – so passt er sich automatisch an den jeweiligen Untergrund an und ermöglicht dadurch ein breites Anwendungsspektrum in Voll-, Loch- und Plattenbaustoffen.
 
 [kauf es hier!!](https://www.amazon.de/dp/B06XFJKNH6/?tag=tolees0ca-21)

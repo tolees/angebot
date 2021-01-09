@@ -25,13 +25,13 @@ Es gibt ein [Falomir Masterman Brettspiel  Klassiker  23027  evtl. Nicht in Deut
 
 ℹ️:
 
-- Fördert die geistige Beweglichkeit.
-- Finden Sie die Kombination von 5 Farben aus den 8 zur Auswahl.
+- Anzahl der Spieler: 2.
 - Sie haben 12 Möglichkeiten.
-- Ihr Gegner wird Ihre Logik auf die Probe stellen.
 - Geheimcode.
 - Kombination.
-- Anzahl der Spieler: 2.
 - Brettspiel.
+- Finden Sie die Kombination von 5 Farben aus den 8 zur Auswahl.
+- Ihr Gegner wird Ihre Logik auf die Probe stellen.
+- Fördert die geistige Beweglichkeit.
 
 [kauf es hier!!](https://www.amazon.de/dp/B00BULNEVK/?tag=tolees0ca-21)
