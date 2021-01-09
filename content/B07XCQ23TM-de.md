@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Herren Core 18 Hoodie  White  M mit 40.58 % Rabatt'
-date: 2021-01-08 01:54:51
+date: 2021-01-09 21:34:19
 image: 'https://m.media-amazon.com/images/I/318Fzns+7cL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,8 @@ Sie können [adidas Herren Core 18 Hoodie  White  M](https://www.amazon.de/dp/B0
 
 ℹ️:
 
-- 70% Baumwolle
-- Kängurutasche
-- Gerippter Saum und Bündchen
-- Reguläre Passform
-- Verstellbare Kapuze mit Kordelzug
+- Kangaroo pocket
+- Hood with lanyard
+- Regular fit
 
 [Hier!!](https://www.amazon.de/dp/B07XCQ23TM/?tag=tolees0ca-21)

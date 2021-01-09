@@ -1,29 +1,30 @@
 ---
 layout: post
-title: '18.49 % rabat auf Funko 36665 POP Bobble: Avengers Endgame'
-date: 2020-03-31 13:00:33
+title: '25.60 % rabat auf Funko Bobble: Avengers Endgame: Black Wi'
+date: 2021-01-09 21:16:36
 image: 'https://m.media-amazon.com/images/I/41DEFxfxKXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07KPSTR6L-de'
-actualPrice: 12.96 EUR
+actualPrice: 11.83 EUR
 currency: EUR
-price: 12.96
+price: 11.83
 comparePrice: 15.9 EUR
-prodname: 'Funko 36665 POP Bobble: Avengers Endgame: Black Widow Sammelfiguren  Multi'
+prodname: 'Funko Bobble: Avengers Endgame: Black Widow  Multi  Einheitsgröße'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07KPSTR6L/?tag=tolees0ca-21'
-descuento: '18.49'
-average: '11.225'
+descuento: '25.60'
+average: '11.325833333333332'
 ---
 
-Es gibt ein [Funko 36665 POP Bobble: Avengers Endgame: Black Widow Sammelfiguren  Multi](https://www.amazon.de/dp/B07KPSTR6L/?tag=tolees0ca-21) mit aktuellem Preis 12.96 EUR (original: 15.9 EUR) 18.49 % Rabatt hier:
+Es gibt ein [Funko Bobble: Avengers Endgame: Black Widow  Multi  Einheitsgröße](https://www.amazon.de/dp/B07KPSTR6L/?tag=tolees0ca-21) mit aktuellem Preis 11.83 EUR (original: 15.9 EUR) 25.60 % Rabatt hier:
 
-[![Funko 36665 POP Bobble: Avengers Endgame](https://m.media-amazon.com/images/I/41DEFxfxKXL._SL200_.jpg)](https://www.amazon.de/dp/B07KPSTR6L/?tag=tolees0ca-21)
+[![Funko Bobble: Avengers Endgame: Black Wi](https://m.media-amazon.com/images/I/41DEFxfxKXL._SL200_.jpg)](https://www.amazon.de/dp/B07KPSTR6L/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Welche komponenten sind im lieferumfang des produkts enthaltenen: 1 x POP! Bobble
 
 [kauf es hier!!](https://www.amazon.de/dp/B07KPSTR6L/?tag=tolees0ca-21)

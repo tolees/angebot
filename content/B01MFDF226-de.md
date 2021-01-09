@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '41.74 % rabat auf PURINA GOURMET Perle Erlesene Streifen K'
-date: 2021-01-08 20:12:52
+date: 2021-01-09 21:32:11
 image: 'https://m.media-amazon.com/images/I/41di6gupZ8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B01MFDF226/?tag=tolees0ca-21'
 descuento: '41.74'
-average: '21.7575294117647'
+average: '21.75511627906976'
 ---
 
 Es gibt ein [PURINA GOURMET Perle Erlesene Streifen Katzenfutter nass  Sorten-Mix  60er Pack  60 x 85g ](https://www.amazon.de/dp/B01MFDF226/?tag=tolees0ca-21) mit aktuellem Preis 21.55 EUR (original: 36.99 EUR) 41.74 % Rabatt hier:
