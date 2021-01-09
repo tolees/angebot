@@ -26,9 +26,9 @@ Es gibt ein [Panasonic DVD-S500EG-K Eleganter DVD-Player  Multiformat Wiedergabe
 ℹ️:
 
 - Multiformat Wiedergabe mit xvid, MP3 und JPEG
-- DVD, CD Player mit hervorragender Bild- und Tonqualität
 - JPEG Slideshow
-- Komponentenausgang (YUV) und Scart
+- DVD, CD Player mit hervorragender Bild- und Tonqualität
 - USB-Eingang mit CD Ripping Funktion
+- Komponentenausgang (YUV) und Scart
 
 [kauf es hier!!](https://www.amazon.de/dp/B00DQBCFIA/?tag=tolees0ca-21)
