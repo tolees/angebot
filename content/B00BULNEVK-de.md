@@ -25,13 +25,13 @@ Es gibt ein [Falomir Masterman Brettspiel  Klassiker  23027  evtl. Nicht in Deut
 
 ℹ️:
 
-- Anzahl der Spieler: 2.
-- Sie haben 12 Möglichkeiten.
-- Geheimcode.
 - Kombination.
 - Brettspiel.
+- Anzahl der Spieler: 2.
+- Fördert die geistige Beweglichkeit.
+- Geheimcode.
 - Finden Sie die Kombination von 5 Farben aus den 8 zur Auswahl.
 - Ihr Gegner wird Ihre Logik auf die Probe stellen.
-- Fördert die geistige Beweglichkeit.
+- Sie haben 12 Möglichkeiten.
 
 [kauf es hier!!](https://www.amazon.de/dp/B00BULNEVK/?tag=tolees0ca-21)
