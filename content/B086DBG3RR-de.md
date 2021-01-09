@@ -25,12 +25,12 @@ Sie können [Telekom MagentaTV Stick | Fernsehen über WLAN | Mit MagentaTV übe
 
 ℹ️:
 
-- Hinweis zu Android TV: Der MagentaTV Stick basiert auf dem Betriebssystem Android TV von Google (Zustimmungen erforderlich, siehe rechtliche Hinweise).
-- MAGENTA TV: Über 50 TV-Sender in HD, zeitversetztes Fernsehen, Cloud-Recorder, Megathek, u.v.m. 1. Monat für Erstnutzer inklusive, monatlich kündbar *
-- FERNSEHEN & STREAMING: Der leistungsstarke Streaming Stick ermöglicht Zugriff auf MagentaTV (Fernsehen in HD, u.v.m.), Streaming Dienste (z.B. Netflix, Prime Video, Disney+, YouTube, DAZN u.v.m.), Mediatheken sowie auf Tausende Apps über den Google Play Store. Für die Dienste sind ggf. separate Verträge erforderlich.
-- Hinweis zu MagentaTV: Voraussetzung für die Nutzung von MagentaTV über den MagentaTV Stick ist die Buchung der App von MagentaTV (Konditionen siehe Fußnote). Ein MagentaTV Festnetzvertrag allein berechtigt nicht, MagentaTV über den MagentaTV Stick nutzen zu können.
-- SMARTE FERNBEDIENUNG: Die kompakte Bluetooth Fernbedienung hat spezielle Tasten für eine besonders komfortable Nutzung von MagentaTV.
-- BRILLANTE BILDQUALITÄT: Der MagentaTV Stick unterstützt 4K Ultra HD und HDR.
 - EINFACH & FLEXIBEL: Einfach mit dem HDMI Stecker an den Fernseher anschließen und per WLAN mit dem Internet verbinden – unabhängig vom Internetanbieter. Flexibel mitnehmen zu Freunden oder auf Reisen innerhalb der EU.
+- Hinweis zu Android TV: Der MagentaTV Stick basiert auf dem Betriebssystem Android TV von Google (Zustimmungen erforderlich, siehe rechtliche Hinweise).
+- BRILLANTE BILDQUALITÄT: Der MagentaTV Stick unterstützt 4K Ultra HD und HDR.
+- FERNSEHEN & STREAMING: Der leistungsstarke Streaming Stick ermöglicht Zugriff auf MagentaTV (Fernsehen in HD, u.v.m.), Streaming Dienste (z.B. Netflix, Prime Video, Disney+, YouTube, DAZN u.v.m.), Mediatheken sowie auf Tausende Apps über den Google Play Store. Für die Dienste sind ggf. separate Verträge erforderlich.
+- SMARTE FERNBEDIENUNG: Die kompakte Bluetooth Fernbedienung hat spezielle Tasten für eine besonders komfortable Nutzung von MagentaTV.
+- Hinweis zu MagentaTV: Voraussetzung für die Nutzung von MagentaTV über den MagentaTV Stick ist die Buchung der App von MagentaTV (Konditionen siehe Fußnote). Ein MagentaTV Festnetzvertrag allein berechtigt nicht, MagentaTV über den MagentaTV Stick nutzen zu können.
+- MAGENTA TV: Über 50 TV-Sender in HD, zeitversetztes Fernsehen, Cloud-Recorder, Megathek, u.v.m. 1. Monat für Erstnutzer inklusive, monatlich kündbar *
 
 [Hier!!](https://www.amazon.de/dp/B086DBG3RR/?tag=tolees0ca-21)

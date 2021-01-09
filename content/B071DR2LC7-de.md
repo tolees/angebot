@@ -25,10 +25,10 @@ Sie können [Tommy Hilfiger Damen Honey Large Za Wallet Geldbörse  Schwarz  Bla
 
 ℹ️:
 
-- Closure Type: zipper
-- Dimension (L x W x H): 19cm x 10cm x 2cm
+- Credit Card Slots: 12
 - Serie: Honey
 - Material: PVC
-- Credit Card Slots: 12
+- Dimension (L x W x H): 19cm x 10cm x 2cm
+- Closure Type: zipper
 
 [Hier!!](https://www.amazon.de/dp/B071DR2LC7/?tag=tolees0ca-21)

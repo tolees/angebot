@@ -27,8 +27,8 @@ Es gibt ein [Xiaomi Mi True Wireless Earbuds Basic Bluetooth In-Ear Kopfhöhrer 
 
 - Automatisches Pairing
 - Unterstützung für Sprachassistenten
-- Komfortabler Sitz
 - Kabelloser Stereosound
 - 4 Paar Ohrstöpsel unterschiedlicher Größe
+- Komfortabler Sitz
 
 [kauf es hier!!](https://www.amazon.de/dp/B07TZHNN92/?tag=tolees0ca-21)

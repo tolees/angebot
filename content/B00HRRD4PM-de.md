@@ -25,8 +25,8 @@ Es gibt ein [Sylvanian Families - 4281 - Fahrradfahren mit Mutter](https://www.a
 
 ℹ️:
 
-- Suitable for ages 3 years to 10 years
 - Stimulating imaginative role-play in children
+- Suitable for ages 3 years to 10 years
 - Set included two figures and accessories
 - Included dog mother and baby figures, red bicycle and some accessories
 
