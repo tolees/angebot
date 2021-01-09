@@ -25,10 +25,10 @@ Sie können [ESPRIT Herren 998EE2B808 Straight Jeans  Blau  Blue Medium Wash 902
 
 ℹ️:
 
-- Denimstärke: mittel
-- Beinöffnung: ca. 38 cm
-- Dark Denim aus Baumwolle, mit Strechkomfort und Organic Cotton
-- Organic Cotton: Baumwolle aus kontrolliert biologischem Anbau
 - Grösseninfo: Bei Gr. 31/32 (kann je Gr. leicht variieren): Innenbeinlänge: ca. 82 cm
+- Beinöffnung: ca. 38 cm
+- Organic Cotton: Baumwolle aus kontrolliert biologischem Anbau
+- Dark Denim aus Baumwolle, mit Strechkomfort und Organic Cotton
+- Denimstärke: mittel
 
 [Hier!!](https://www.amazon.de/dp/B07BBVVX9W/?tag=tolees0ca-21)
