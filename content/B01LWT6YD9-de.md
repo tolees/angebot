@@ -25,7 +25,7 @@ Sie können [Playmobil 9084 - Strand-Girl mit Roller](https://www.amazon.de/dp/B
 
 ℹ️:
 
-- Der Lenker des Rollers ist beweglich
 - Mit 1 Figur und Zubehör
+- Der Lenker des Rollers ist beweglich
 
 [Hier!!](https://www.amazon.de/dp/B01LWT6YD9/?tag=tolees0ca-21)
