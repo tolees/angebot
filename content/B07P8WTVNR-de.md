@@ -25,9 +25,9 @@ Es gibt ein [Mega Construx GKG97 - Game of Thrones Daenerys und Drogon  Bauset m
 
 ℹ️:
 
-- Drogons Flügelspanne beträgt mehr als 60 cm
-- Daenerys ist mit der Kampfmontur aus Staffel 7 samt Drachenkette ausgerüstet
 - Detailreiche, superbewegliche Mini-Actionfigur (ca. 6,5 cm): Daenerys Targaryen
+- Daenerys ist mit der Kampfmontur aus Staffel 7 samt Drachenkette ausgerüstet
+- Drogons Flügelspanne beträgt mehr als 60 cm
 - Drogons Körper ist mehr als 50 cm lang
 - Zusammenbaubarer Drogon in Schwarz und Rot mit superbeweglichen Beinen, Schwanz, Kopf und Stoffflügeln zum Ausbreiten
 

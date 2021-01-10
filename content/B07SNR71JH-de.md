@@ -25,9 +25,9 @@ Sie können [Funko 45338 POP Rides: Game of Thrones-Daenerys on Fiery Drogon Col
 
 ℹ️:
 
-- Check out the other Game of Thrones figures from Funko Collect them all
 - Figure stands 16cm and comes in a window display box
-- From Game of Thrones, Daenerys on Fiery Drogon, as a stylized POP Rides vinyl from Funko
+- Check out the other Game of Thrones figures from Funko Collect them all
 - Funko POP! is the 2018 Toy of the Year and Peoples Choice award winner
+- From Game of Thrones, Daenerys on Fiery Drogon, as a stylized POP Rides vinyl from Funko
 
 [Hier!!](https://www.amazon.de/dp/B07SNR71JH/?tag=tolees0ca-21)

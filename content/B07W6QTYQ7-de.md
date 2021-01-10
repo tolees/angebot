@@ -26,9 +26,9 @@ Sie können [LEGO 42106 Technic Stunt-Show mit Truck und Motorrad Spielset  2-in
 ℹ️:
 
 - Der Spielzeug-LKW zeichnet sich mit einer oberen Lenkung, aufklappbaren Türen sowie mit coolen Aufklebern aus und das Motorrad hat dicke Reifen und noch mehr Aufkleber-Details
-- Der Anhänger lässt sich geschickt in eine Rampe verwandeln, um das Motorrad durch den Feuerring zu treiben. Danach wird er für den Weg zum nächsten Event wieder aufgebaut
-- Das zwei -in-1-Set beinhaltet einen Truck mit Anhänger und Stunt-Motorrad, beide mit Rückziehmotor. Sie lassen sich zu einem Monstertruck und einer Stunt-Rampe umbauen
-- Wenn alle Bausteine verbunden werden, erhält man eine ideale Größe für ein Rollenspiel, so dass die Freude an diesem Spielzeug noch lange nach seinem Bau dauern wird
 - Breitreifen halten die Fahrzeuge auf Kurs und das rot-blau-schwarze Farbkonzept sowie die Aufkleber und Flammen erzeugen den Nervenkitzel einer gewagten Motorradshow
+- Der Anhänger lässt sich geschickt in eine Rampe verwandeln, um das Motorrad durch den Feuerring zu treiben. Danach wird er für den Weg zum nächsten Event wieder aufgebaut
+- Wenn alle Bausteine verbunden werden, erhält man eine ideale Größe für ein Rollenspiel, so dass die Freude an diesem Spielzeug noch lange nach seinem Bau dauern wird
+- Das zwei -in-1-Set beinhaltet einen Truck mit Anhänger und Stunt-Motorrad, beide mit Rückziehmotor. Sie lassen sich zu einem Monstertruck und einer Stunt-Rampe umbauen
 
 [Hier!!](https://www.amazon.de/dp/B07W6QTYQ7/?tag=tolees0ca-21)
