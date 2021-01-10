@@ -25,10 +25,10 @@ Es gibt ein [Sony WF-1000XM3 vollkommen kabellose Bluetooth Kopfhörer / Earbuds
 
 ℹ️:
 
-- Ergonomic Tri-hold Structure for secure fitting
-- Up to 8H battery life per single charge + additional 3 charges from carrying case
 - Industry-leading noise cancellation* to block out unnecessary ambient noise (*As of June 1st 2019. According to research by Sony Corporation, measured using JEITA-compliant guidelines in Truly Wireless style noise cancelling headphones market)
+- Up to 8H battery life per single charge + additional 3 charges from carrying case
 - Stable Bluetooth connection
 - Alexa built-in devices let you instantly connect to Alexa to play music, control your smart home, get information, news, weather, and more using just your voice.
+- Ergonomic Tri-hold Structure for secure fitting
 
 [kauf es hier!!](https://www.amazon.de/dp/B07T2FGG2Z/?tag=tolees0ca-21)

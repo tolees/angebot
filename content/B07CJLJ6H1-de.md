@@ -25,8 +25,8 @@ Sie können [ONLY Damen Onltahoe Hood Jacket Otw Noos Jacke  Schwarz  Black Blac
 
 ℹ️:
 
-- Winterjacke
 - mit Kapuze
 - gefüttert
+- Winterjacke
 
 [Hier!!](https://www.amazon.de/dp/B07CJLJ6H1/?tag=tolees0ca-21)

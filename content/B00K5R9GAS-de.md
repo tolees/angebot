@@ -25,8 +25,8 @@ Sie können [Tommy Hilfiger Herren Hüft-Shorts 3p Lr Boxershorts Trunk  3er Pac
 
 ℹ️:
 
-- Signatur Tommy Hilfiger Logo Bund
-- Dreier pack in schwarz
 - Trunk Hüft Shorts in normaler Größe
+- Dreier pack in schwarz
+- Signatur Tommy Hilfiger Logo Bund
 
 [Hier!!](https://www.amazon.de/dp/B00K5R9GAS/?tag=tolees0ca-21)

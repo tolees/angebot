@@ -25,10 +25,10 @@ Es gibt ein [Pentel LRN5-A Nachfüllmine für EnerGel-Stifte 0 50 mm  12 Stück 
 
 ℹ️:
 
-- ausgestattet mit einer Nadelspitze in 0, 25mm Strichstärke und Schreibfarbe schwarz
-- Lieferumfang: 12 Minen
-- Nachfüllmine für Pentel Gel-Tintenroller BL625, BLN75 und BLN105
-- die besonders weich schreibende Gel-Tinte trocknet schnell und überzeugt mit ihrem unvergleichbar leichtem Schreibgefühl Vielschreiber und auch Linkshänder
 - Pentel Nachfülllmine für Standard EnerGel-Tintenroller mit 0, 25mm Strichstärke
+- Lieferumfang: 12 Minen
+- die besonders weich schreibende Gel-Tinte trocknet schnell und überzeugt mit ihrem unvergleichbar leichtem Schreibgefühl Vielschreiber und auch Linkshänder
+- Nachfüllmine für Pentel Gel-Tintenroller BL625, BLN75 und BLN105
+- ausgestattet mit einer Nadelspitze in 0, 25mm Strichstärke und Schreibfarbe schwarz
 
 [kauf es hier!!](https://www.amazon.de/dp/B003Z4ZXNW/?tag=tolees0ca-21)

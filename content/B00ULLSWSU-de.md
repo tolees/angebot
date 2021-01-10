@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '26.86 % rabat auf Sony SEL-90M28G G Makro Objektiv  Festbr'
-date: 2021-01-09 15:04:22
+date: 2021-01-10 22:03:55
 image: 'https://m.media-amazon.com/images/I/41iVb6fG0gL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B00ULLSWSU/?tag=tolees0ca-21'
 descuento: '26.86'
-average: '915.9311111111111'
+average: '912.038'
 ---
 
 Es gibt ein [Sony SEL-90M28G G Makro Objektiv  Festbrennweite  90 mm  F2.8  Vollformat  geeignet für A7  A6000  A5100  A5000 und Nex Serien  E-Mount  schwarz](https://www.amazon.de/dp/B00ULLSWSU/?tag=tolees0ca-21) mit aktuellem Preis 877.0 EUR (original: 1199.0 EUR) 26.86 % Rabatt hier:
@@ -26,9 +26,9 @@ Es gibt ein [Sony SEL-90M28G G Makro Objektiv  Festbrennweite  90 mm  F2.8  Voll
 ℹ️:
 
 - Zirkulare Blende für einen sanften Unschärfeeffekt
-- Direct Drive SSM für leisen, hochpräzisen Fokusbetrieb
-- Typisches Bokeh eines G-Objektivs
 - Lieferumfang :Streulichtblende (ALC-SH138), Vordere Objektivkappe, Hintere Objektivkappe, Tasche
+- Direct Drive SSM für leisen, hochpräzisen Fokusbetrieb
 - Integrierte Bildstabilisierung, gegen Staub- und Spritzwasser geschützt
+- Typisches Bokeh eines G-Objektivs
 
 [kauf es hier!!](https://www.amazon.de/dp/B00ULLSWSU/?tag=tolees0ca-21)

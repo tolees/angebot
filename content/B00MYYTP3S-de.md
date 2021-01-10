@@ -26,7 +26,7 @@ Sie können [Netgear GS108E Switch 8 Port Gigabit Ethernet LAN Switch Smart Mana
 ℹ️:
 
 - Quick expansion of your network for connecting Smart TV, IPTV receiver, PC, printer, etc.
-- Plug-and-play, no configuration required - data transfer rates up to 1000 Mbps
 - 8 Gigabit LAN ports for more flexibility and additional devices in your network
+- Plug-and-play, no configuration required - data transfer rates up to 1000 Mbps
 
 [Hier!!](https://www.amazon.de/dp/B00MYYTP3S/?tag=tolees0ca-21)

@@ -25,7 +25,7 @@ Es gibt ein [PLAYMOBIL City Action 70441 RC-Baukran mit Bauteil  Inkl. Fernbedie
 
 ℹ️:
 
-- Crane guides with radio control included.
 - Requires 6 x 1.5 V AA batteries (not included)
+- Crane guides with radio control included.
 
 [kauf es hier!!](https://www.amazon.de/dp/B081HQ5S8H/?tag=tolees0ca-21)

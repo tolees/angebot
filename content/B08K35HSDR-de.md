@@ -26,9 +26,9 @@ Sie können [SAKOBS Bluetooth 5.0 Lautsprecher  20W PC Soundbar Laptop TV Gerät
 ℹ️:
 
 - ✅Klangstarkes Entertainment: Der formschöne Bluetooth Lautsprecher bringt Ihnen beste Unterhaltung auf Ihren Schreibtisch. Erfreuen Sie sich an vollem 20 Watt Dynamik Stereo Sound bei PC-Spielen, Videos und Musik.
-- ✅Bis zu 16 Stunden Spielzeit: Der starke eingebaute Akku von der mini Soundbar unterhält Sie bis zu 16 Stunden lang mit Ihrer Wunschmusik! Greifen Sie also zu und erleben Sie besondere Momente künftig immer mit der passenden musikalischen Untermalung.
-- ✅Per Kabel oder drahtlos: Verbinden Sie den Klangriegel über das AUX-Kabel mit dem PC oder streamen Sie Ihre Lieblingshits per Bluetooth von Smartphone, Tablet-PC und anderen Bluetooth-fähigen Geräten.
 - ✅Integriertes Mikrofon: Freisprechfunktion für hands-free Telefonate bei sehr guter Sprachverständlichkeit. Der integrierte Player spielt Ihre MP3-Dateien auch direkt von USB-Speichern und SD-Karten.
 - ✅Einzigartiges Design: Die Vorderseite des Lautsprechers besitzt eine volle Abdeckung von Stahlgittern welchem der Klang verlustfrei passieren kann und einen guten Schutz der internen Teile bietet. Dank schwingungsdämpfender Gummifüße bleibt der Sound klar auch auf dem Holztisch.
+- ✅Per Kabel oder drahtlos: Verbinden Sie den Klangriegel über das AUX-Kabel mit dem PC oder streamen Sie Ihre Lieblingshits per Bluetooth von Smartphone, Tablet-PC und anderen Bluetooth-fähigen Geräten.
+- ✅Bis zu 16 Stunden Spielzeit: Der starke eingebaute Akku von der mini Soundbar unterhält Sie bis zu 16 Stunden lang mit Ihrer Wunschmusik! Greifen Sie also zu und erleben Sie besondere Momente künftig immer mit der passenden musikalischen Untermalung.
 
 [Hier!!](https://www.amazon.de/dp/B08K35HSDR/?tag=tolees0ca-21)
