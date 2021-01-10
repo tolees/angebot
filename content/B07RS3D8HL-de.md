@@ -25,10 +25,10 @@ Es gibt ein [Nintendo SNES - Super Entertainment System - Controller Männer Kap
 
 ℹ️:
 
-- Passform: Regular || Material: Baumwolle
-- Fan-Merch, Gaming, , Retrogaming
-- Kapuzenpulli || Normaler Ärmel || Kapuze || innen aufgeraut, Rippbündchen, Stickerei, Kapuze mit Tunnelzug
 - Das pefekte Weihnachtsgeschenk!
 - Kapuzenpullover mit folgenden Eigenschaften:
+- Fan-Merch, Gaming, , Retrogaming
+- Passform: Regular || Material: Baumwolle
+- Kapuzenpulli || Normaler Ärmel || Kapuze || innen aufgeraut, Rippbündchen, Stickerei, Kapuze mit Tunnelzug
 
 [kauf es hier!!](https://www.amazon.de/dp/B07RS3D8HL/?tag=tolees0ca-21)
