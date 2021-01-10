@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Netgear GS108E Switch 8 Port Gigabit Eth mit 26.74 % Rabatt'
-date: 2021-01-09 15:24:49
+date: 2021-01-10 21:41:38
 image: 'https://m.media-amazon.com/images/I/41FEtHOL3RL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B00MYYTP3S/?tag=tolees0ca-21'
 descuento: '26.74'
-average: '38.21635135135137'
+average: '38.14626666666668'
 ---
 
 Sie können [Netgear GS108E Switch 8 Port Gigabit Ethernet LAN Switch Smart Managed Plus  robustes und lüfterloses Metallgehäuse  für Desktop  mit ProSAFE-Lifetime-Garantie ](https://www.amazon.de/dp/B00MYYTP3S/?tag=tolees0ca-21) mit Preis 32.96 EUR (original: 44.99 EUR) 26.74 % Rabatt hier:
@@ -25,12 +25,8 @@ Sie können [Netgear GS108E Switch 8 Port Gigabit Ethernet LAN Switch Smart Mana
 
 ℹ️:
 
-- ENERGIEEFFIZIENT: Optimiert Energieverbrauch und senkt Betriebskosten, da mit energieeffizientem Ethernet-Modus IEEE802.3az kompatibel
-- LANGE LEBENSDAUER: Jeder NETGEAR Netzwerk-Switch wird nach strengen Kriterien auf Zuverlässigkeit, Qualität und Leistung getestet
-- KONFIGURATION UND STEUERUNG: Managementsoftware mit intuitiver WebGUI ermöglicht Funktionen zur Konfiguration, Sicherung und Überwachung des Netzwerks
-- LEISER BETRIEB: Lüfterloses Design sorgt unabhängig vom Aufstellort für einen leisen Betrieb – ideal für geräuschempfindliche Umgebungen
-- NETZWERKANSCHLUSSKONFIGURATION: 8 Gigabit Port (10/100/1000 MBit/s) RJ45 Netzwerk Switch
-- VIELSEITIGE MONTAGEMÖGLICHKEITEN: Desktop oder Wandmontage des LAN Verteiler-Switches möglich
-- PROSAFE LIFETIME GARANTIE: Branchenführende eingeschränkte, lebenslange Hardware-Garantie, Austausch nächster Arbeitstag, 24h Chat mit NETGEAR Experten
+- Quick expansion of your network for connecting Smart TV, IPTV receiver, PC, printer, etc.
+- Plug-and-play, no configuration required - data transfer rates up to 1000 Mbps
+- 8 Gigabit LAN ports for more flexibility and additional devices in your network
 
 [Hier!!](https://www.amazon.de/dp/B00MYYTP3S/?tag=tolees0ca-21)

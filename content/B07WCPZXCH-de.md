@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salomon Herren XA PRO 3D V8 GTX  Leichte mit 28.22 % Rabatt'
-date: 2021-01-09 15:01:11
+date: 2021-01-10 21:39:41
 image: 'https://m.media-amazon.com/images/I/417qHbofHjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Sie können [Salomon Herren XA PRO 3D V8 GTX  Leichte Schuhe für Trail Running 
 
 ℹ️:
 
-- Farbe: Black/Black/Black
-- Xa pro 3D V8 GTX
-- Salomon
+- Optimum grip & weather protection: full premium wet traction grip and a fully waterproof gore-tex membrane mean you can ignore the wet and concentrate on the trail ahead
+- Cushioned stability: The new geometry of 3D chassis provides just the right amount of stability and comfort for a more secure ride
+- Iconic fit: now 20g lighter, the shoe features a seamed upper and thinner, softer materials for the perfect balance between comfort and protection
 
 [Hier!!](https://www.amazon.de/dp/B07WCPZXCH/?tag=tolees0ca-21)

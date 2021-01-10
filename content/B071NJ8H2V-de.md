@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '29.89 % rabat auf Tommy Hilfiger Poppy Small Tote  Damen S'
-date: 2021-01-09 21:33:06
+date: 2021-01-10 21:58:18
 image: 'https://m.media-amazon.com/images/I/41Bh25ibo5L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,6 +25,10 @@ Es gibt ein [Tommy Hilfiger Poppy Small Tote  Damen Stofftasche  Black  13x20.5x
 
 ℹ️:
 
-- Teile tierischen Ursprungs: Enthält nichttextile Teile tierischen Ursprungs.
+- Features: mobile phone holder, zipper compartment, inside pocket(s)
+- Dimension (L x W x H): 23cm x 15.5cm x 22.5cm
+- Capacity in Liter approx.: 0-10
+- Serie: Poppy
+- Closure Type: zipper
 
 [kauf es hier!!](https://www.amazon.de/dp/B071NJ8H2V/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Smart Air Purifier 3H Luftreinige mit 39.98 % Rabatt'
-date: 2021-01-09 15:21:03
+date: 2021-01-10 21:55:09
 image: 'https://m.media-amazon.com/images/I/41JCUAwpx9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Sie können [Xiaomi Smart Air Purifier 3H Luftreiniger  Bianco  Einheitsgröße]
 
 ℹ️:
 
-- Volle und smarte Kontrolle über die Mi Home App, Alexa und Google
-- 3-fach Filter-System mit HEPA Class 13 Filter: filtert 99,97% aller allergenen Stoffe uvm.
-- Filterwechsel-Alarm
-- Air Flow Optimierung, filtert 380 qm3 pro Stunde
-- OLED Touch Display zur Anzeige von Luftqualität, Raumtemperatur und Luftfeuchtigkeit
+- Rediseño de todo el sistema de conductos de aire para aumentar el cuadro de partículas del purificador de aire en 29% a 400 m3/h
+- Sensor de partículas láser de alta velocidad; se pueden detectar pequeñas partículas y en tiempo real una valoración de la calidad del aire interior
+- Nuevo y poderoso sistema de viento de 6660l de aire limpio por minuto; ventilador centrífugo de inclinación posterior + motor sin escobillas/canal interior presurizado/rejilla estilo gran área
+- Cadr de materia de partículas 400 m/h, sumi
+- Filtro de 360 °; elimina de forma eficiente sustancias nocivas como pm2.5 y formaldehído, el filtro de primera capa elimina partículas grandes como el pelo y el polvo, el filtro de segunda capa elimina partículas pequeñas del tamaño de micron, y la tercera capa de carbón activado absorbe sustancias nocivas
 
 [Hier!!](https://www.amazon.de/dp/B07ZV7BDXZ/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '50.01 % rabat auf JAKO Herren Trainingshose Active  schwar'
-date: 2021-01-08 20:28:25
+date: 2021-01-10 21:31:34
 image: 'https://m.media-amazon.com/images/I/31uRNyULTRL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Es gibt ein [JAKO Herren Trainingshose Active  schwarz/weiß  L  8495](https://w
 
 ℹ️:
 
-- Material: 100 % Polyester
 - Beinabschluss mit Reißverschluss
 - Seitentaschen mit Reißverschluss
+- Material: 100 % Polyester
 - Elastischer Bund mit Kordelzug
 - Ripp-Einsatz an der Wade
 
