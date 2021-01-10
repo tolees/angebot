@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 45338 POP Rides: Game of Thrones-D mit 28.40 % Rabatt'
-date: 2020-12-29 16:50:12
+date: 2021-01-10 03:43:25
 image: 'https://m.media-amazon.com/images/I/41+j+UNLhfL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07SNR71JH/?tag=tolees0ca-21'
 descuento: '28.40'
-average: '30.225777777777765'
+average: '30.002978723404244'
 ---
 
 Sie können [Funko 45338 POP Rides: Game of Thrones-Daenerys on Fiery Drogon Collectible Figure  Multicolour](https://www.amazon.de/dp/B07SNR71JH/?tag=tolees0ca-21) mit Preis 24.99 EUR (original: 34.9 EUR) 28.40 % Rabatt hier:
@@ -25,9 +25,9 @@ Sie können [Funko 45338 POP Rides: Game of Thrones-Daenerys on Fiery Drogon Col
 
 ℹ️:
 
+- Check out the other Game of Thrones figures from Funko Collect them all
+- Figure stands 16cm and comes in a window display box
 - From Game of Thrones, Daenerys on Fiery Drogon, as a stylized POP Rides vinyl from Funko
 - Funko POP! is the 2018 Toy of the Year and Peoples Choice award winner
-- Figure stands 16cm and comes in a window display box
-- Check out the other Game of Thrones figures from Funko Collect them all
 
 [Hier!!](https://www.amazon.de/dp/B07SNR71JH/?tag=tolees0ca-21)
