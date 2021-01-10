@@ -26,9 +26,9 @@ Sie können [Osprey Ultralight High Vis Raincover for 20 - 35L Packs  S ](https:
 ℹ️:
 
 - LED-Licht-Befestigung
-- Reflektierende Druckgrafik
 - Wasserdichte Materialien und Nähte
-- Reflektierendes Material
+- Reflektierende Druckgrafik
 - Geeignet für Volumen: 20-35L
+- Reflektierendes Material
 
 [Hier!!](https://www.amazon.de/dp/B00M45GOWW/?tag=tolees0ca-21)
