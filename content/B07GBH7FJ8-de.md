@@ -25,8 +25,8 @@ Es gibt ein [devolo Magic 1 – 1200 WiFi ac Starter Kit: 2 Powerline-Adapter  W
 
 ℹ️:
 
-- Lieferumfang: Starter Kit mit zwei Powerline-Adaptern: 1x Powerline-WiFi-Adapter (mit 2x Fast-Ethernet LAN-Anschlüssen) + 1x Verbindungsadapter (mit 1x Gigabit LAN-Anschluss), WiFi 5, inkl. Webcam Protector
 - Bewährte Qualität vom Powerline-Pionier: International sind über 40 Millionen Adapter im Einsatz
+- Lieferumfang: Starter Kit mit zwei Powerline-Adaptern: 1x Powerline-WiFi-Adapter (mit 2x Fast-Ethernet LAN-Anschlüssen) + 1x Verbindungsadapter (mit 1x Gigabit LAN-Anschluss), WiFi 5, inkl. Webcam Protector
 - Simple Einrichtung und zukunftssichere G.hn-Technologie: Einfache Passwortvergabe für Gäste-WLAN und integrierte Kindersicherung
 - Smarte Mesh-Vernetzung: WLAN mit 1200 Mbit/s für Ihr gesamtes Zuhause, perfekt für Streamen, Surfen und Home-Office!
 - Neueste G.hn-Generation, nicht abwärtskompatibel. Kombinierbar mit allen Adaptern der devolo Magic-Reihe. Adapter der dLAN-Reihe werden nicht unterstützt
