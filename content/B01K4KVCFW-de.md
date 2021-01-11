@@ -26,9 +26,9 @@ Es gibt ein [Hugo Boss Herren-Armbanduhr 1513390  Schwarz/Silber](https://www.am
 ℹ️:
 
 - Edelstahl-Uhr mit Lederarmband.
-- Wasserabweisend.
 - Quarz-Uhrwerk.
 - Tachymeter.
 - Schwarzes Zifferblatt.
+- Wasserabweisend.
 
 [kauf es hier!!](https://www.amazon.de/dp/B01K4KVCFW/?tag=tolees0ca-21)

@@ -25,10 +25,10 @@ Es gibt ein [Maybelline ColorShow Nagellack  Nr. 357 burgundy Kiss  bringt die L
 
 ℹ️:
 
-- Trocknet in nur 60 Sekunden dank Quick Dry-Technologie
 - Große Farbvielfalt: Zu jedem Outfit und Anlass der passende Nagellack
 - Der Präzisions-Pinsel ermöglicht exaktes und einfaches Auftragen
-- Sattes burgunderrot mit glänzendem Finish dank hochpigmentierter Formel
+- Trocknet in nur 60 Sekunden dank Quick Dry-Technologie
 - Bringt die angesagten Laufsteg-Trends aus New York auf die Nägel
+- Sattes burgunderrot mit glänzendem Finish dank hochpigmentierter Formel
 
 [kauf es hier!!](https://www.amazon.de/dp/B00CN87VR2/?tag=tolees0ca-21)

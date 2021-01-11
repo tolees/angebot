@@ -25,9 +25,9 @@ Es gibt ein [SALEWA Erwachsene Alpinist Walk Steigeisen Mit Schlaufen  blau  Uni
 
 ℹ️:
 
-- Größen Skischuhe 253-338mm
-- Größen Bergschuhe: 35-48
 - Inklusive Anstistollplatte
+- Größen Bergschuhe: 35-48
+- Größen Skischuhe 253-338mm
 - Steigeisen aus Stahl (855g)
 - UNISEX:
 - Körbchen aus weichem Material, das sich ideal an den Schuh anpasst
