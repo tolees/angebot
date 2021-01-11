@@ -25,10 +25,10 @@ Es gibt ein [Anker PowerCore Essential 20000 PD externer Akku  20000mAh USB-C Po
 
 ℹ️:
 
-- WAS DU BEKOMMST: Eine PowerCore Essential 20000 PD Powerbank, ein USB-C auf C Kabel, einen Reisebeutel, eine Bedienungsanleitung, 18 Monate Garantie sowie freundlichen Kundenservice. (USB-A auf USB-C Ladekabel und Netzteil nicht inklusive, sondern separat erhältlich.)
 - RAPIDES WIEDERAUFLADEN: Einfach das mitgelieferte USB-C auf USB-C Ladekabel mit einem 18W Power Delivery Netzteil (nicht inklusive) verbinden und PowerCore in gerade einmal 7 Stunden wiederaufladen! (Bitte beachten: Mit einem üblichen USB-Wandladegerät beträgt die Aufladezeit ca. 20 Stunden.)
-- ENORME KAPAZITÄT: Die massive Kraft von 20.000 mAh schenkt deinem iPhone XS über 5 Ladungen, deinem Galaxy S10 fast 5 ganze Ladungen sowie über 2,5 Ladungen für dein iPad mini 5!
-- BLITZSCHNELL LADEN: Ankers USB-C Power Delivery Technologie in Kombination mit starken Qualcomm Quick Charge Ports liefert die schnellste und dank der praktischen Erhaltungsladung auch die sicherste Ladung für nahezu jedes Gerät.
 - DAS ANKER PLUS: Schließe dich den über 50 Millionen glücklichen Kunden an. Lade Anker.
+- WAS DU BEKOMMST: Eine PowerCore Essential 20000 PD Powerbank, ein USB-C auf C Kabel, einen Reisebeutel, eine Bedienungsanleitung, 18 Monate Garantie sowie freundlichen Kundenservice. (USB-A auf USB-C Ladekabel und Netzteil nicht inklusive, sondern separat erhältlich.)
+- BLITZSCHNELL LADEN: Ankers USB-C Power Delivery Technologie in Kombination mit starken Qualcomm Quick Charge Ports liefert die schnellste und dank der praktischen Erhaltungsladung auch die sicherste Ladung für nahezu jedes Gerät.
+- ENORME KAPAZITÄT: Die massive Kraft von 20.000 mAh schenkt deinem iPhone XS über 5 Ladungen, deinem Galaxy S10 fast 5 ganze Ladungen sowie über 2,5 Ladungen für dein iPad mini 5!
 
 [kauf es hier!!](https://www.amazon.de/dp/B07SQ5MQ6K/?tag=tolees0ca-21)
