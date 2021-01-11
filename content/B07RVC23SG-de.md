@@ -26,9 +26,9 @@ Sie können [Sony WH-XB900N Bluetooth Noise Cancelling Kopfhörer  Extra Bass  3
 ℹ️:
 
 - Quick Attention Modus: blitzschnell die Umgebung durch intuitives Handauflegen wahrnehmen
+- Extra Bass für satten, kraftvollen Sound
 - Optimierbare Klangeinstellungen mit der Sony Headphones Connect App, Google Assistant und Alexa/Siri kompatibel
 - Bis zu 30 Stunden Akkulaufzeit
-- Extra Bass für satten, kraftvollen Sound
 - Digitale Geräuschunterdrückung auf Knopfdruck
 
 [Hier!!](https://www.amazon.de/dp/B07RVC23SG/?tag=tolees0ca-21)

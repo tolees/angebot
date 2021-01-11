@@ -26,9 +26,9 @@ Es gibt ein [Kabelgebundener Controller Gamepad für Xbox One  Xbox One S  Xbox 
 ℹ️:
 
 - Präzises Handling: Stabile Kabelverbindung, präziser Manipulationsknopf.
-- Ergonomisches Design: Schlankes Design und elegante rutschfeste Griffe für mehr Komfort und Gefühl.
 - Schließen Sie Ihr kompatibles Stereo-Headset an die 3,5-mm-Stereo-Kopfhörerbuchse an.
-- Zwei Motoren: Kabelgebundener Gamepad-Controller unterstützt Vibrationen und liefert ein deutliches Feedback während des Spiels, was das Immersion und Realismus der Spielszenarien verbessert.
 - Kompatibilität: Kabelgebundener Controller ist kompatibel mit Xbox One, Xbox One S, Xbox One X und Windows 7/8/10 (Controller von Drittanbieter).
+- Ergonomisches Design: Schlankes Design und elegante rutschfeste Griffe für mehr Komfort und Gefühl.
+- Zwei Motoren: Kabelgebundener Gamepad-Controller unterstützt Vibrationen und liefert ein deutliches Feedback während des Spiels, was das Immersion und Realismus der Spielszenarien verbessert.
 
 [kauf es hier!!](https://www.amazon.de/dp/B07ZX6WL2W/?tag=tolees0ca-21)

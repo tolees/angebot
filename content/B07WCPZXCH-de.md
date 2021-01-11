@@ -25,8 +25,8 @@ Sie können [Salomon Herren XA PRO 3D V8 GTX  Leichte Schuhe für Trail Running 
 
 ℹ️:
 
-- Optimum grip & weather protection: full premium wet traction grip and a fully waterproof gore-tex membrane mean you can ignore the wet and concentrate on the trail ahead
-- Cushioned stability: The new geometry of 3D chassis provides just the right amount of stability and comfort for a more secure ride
 - Iconic fit: now 20g lighter, the shoe features a seamed upper and thinner, softer materials for the perfect balance between comfort and protection
+- Cushioned stability: The new geometry of 3D chassis provides just the right amount of stability and comfort for a more secure ride
+- Optimum grip & weather protection: full premium wet traction grip and a fully waterproof gore-tex membrane mean you can ignore the wet and concentrate on the trail ahead
 
 [Hier!!](https://www.amazon.de/dp/B07WCPZXCH/?tag=tolees0ca-21)

@@ -25,10 +25,10 @@ Sie können [LEGO 75278 Star Wars D-O Droide  Sammlermodell  Bauset aus Der Aufs
 
 ℹ️:
 
-- Combine with LEGO 75187 Star Wars BB-8 Droid to create impressing display models of loveable robots collection
+- The model comes in green-white-grey colours with a display stand plus an information sign and D-O minifigure to delight collectors
 - Features a collectible model of the D-O droid robot from the Star Wars The Rise of Skywalker movie reproducing details in LEGO style
 - The excitable little droid robot model has posable antennas and a tilting head that rotates 360 degrees just like the Star Wars character
-- The model comes in green-white-grey colours with a display stand plus an information sign and D-O minifigure to delight collectors
 - This build-and-display model comes with step-by-step instructions it makes a great gift for creative kids even young builders can take on
+- Combine with LEGO 75187 Star Wars BB-8 Droid to create impressing display models of loveable robots collection
 
 [Hier!!](https://www.amazon.de/dp/B07XFXZ43Z/?tag=tolees0ca-21)
