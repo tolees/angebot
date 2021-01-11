@@ -25,8 +25,8 @@ Es gibt ein [Piatnik 6134 Activity Hol den Horst!](https://www.amazon.de/dp/B079
 
 ℹ️:
 
-- Ab 16 Jahre
 - Spieleranzahl: 3-8
 - Spieldauer: 30-35
+- Ab 16 Jahre
 
 [kauf es hier!!](https://www.amazon.de/dp/B079T48LPR/?tag=tolees0ca-21)

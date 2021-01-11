@@ -25,10 +25,10 @@ Sie können [Motorola Escape 500 ANC | kabelloser Kopfhörer mit Active Noise Ca
 
 ℹ️:
 
+- Mit Amazon Alexa, Siri und Google Assistant kompatibel
 - Kabel zur Verwendung, wenn die Batterie leer ist
 - Bluetooth 4.0 mit einer Reichweite von bis zu 12 m - Spritzwassergeschützt (IPX4)
-- Active Noise Cancelling - klarer, voller hd-sound mit 40-mm-lautsprechern
 - Mikrofon für Freisprechanlagen - bis zu zwölf stunden Laufzeit (wenn anc aktiviert ist)
-- Mit Amazon Alexa, Siri und Google Assistant kompatibel
+- Active Noise Cancelling - klarer, voller hd-sound mit 40-mm-lautsprechern
 
 [Hier!!](https://www.amazon.de/dp/B07JHQS3Z3/?tag=tolees0ca-21)
