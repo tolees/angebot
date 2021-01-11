@@ -27,8 +27,8 @@ Es gibt ein [Intenso High Performance interne SSD 240 GB  6 3 cm  2 5 Zoll   SAT
 
 - Shock-resistant
 - SMART Command Support
-- TRIM Command Support
 - Silent operation
+- TRIM Command Support
 - Low power consumption
 
 [kauf es hier!!](https://www.amazon.de/dp/B01D3ACIR6/?tag=tolees0ca-21)

@@ -25,7 +25,7 @@ Sie können [Schmidt Spiele GmbH 75024 Skull King  Kartenspiel](https://www.amaz
 
 ℹ️:
 
-- Ein heiteres Spiel
 - bei dem es in Piratenmanier oft hoch hergeht.
+- Ein heiteres Spiel
 
 [Hier!!](https://www.amazon.de/dp/B00GV1A23W/?tag=tolees0ca-21)
