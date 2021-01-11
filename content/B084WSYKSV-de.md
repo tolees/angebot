@@ -25,10 +25,10 @@ Es gibt ein [SAMSUNG Galaxy Buds Plus Bluetooth Headset hellblau](https://www.am
 
 ℹ️:
 
-- Hohe Sprachqualität durch zwei Mikrofone.
-- Bis zu 11 Stunden Akkulaufzeit.
 - Intuitive Bedienung
+- Bis zu 11 Stunden Akkulaufzeit.
 - Mit kompakter, wiederaufladbarer, kabelloser Ladebox.
 - Android 5. 0; True Wireless Kopfhörer mit Sound von AKG
+- Hohe Sprachqualität durch zwei Mikrofone.
 
 [kauf es hier!!](https://www.amazon.de/dp/B084WSYKSV/?tag=tolees0ca-21)
