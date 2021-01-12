@@ -25,10 +25,10 @@ Sie können [LEGO 76895 Speed Champions Ferrari F8 Tributo Rennwagenspielzeug mi
 
 ℹ️:
 
-- Rennwagen-Fans können ihr eigenes superschnelles F8 Tributo-Modellauto zusammenbauen, bevor sie die elegante Mini-Replik ausstellen
+- Beinhaltet eine Ferrari-Fahrer-Minifigur, der einen Helm trägt, und für Rennen hinter dem Lenkrad platziert werden kann
 - LEGO Speed ​​Champions Repliken sind seit Januar 2020 25 Prozent größer und realistischer als je zuvor
 - Dieses erstaunlich detaillierte Spielzeugauto enthält viele der Originalmerkmale des stärksten V8-Autos, das Ferrari jemals gebaut hat
-- Beinhaltet eine Ferrari-Fahrer-Minifigur, der einen Helm trägt, und für Rennen hinter dem Lenkrad platziert werden kann
+- Rennwagen-Fans können ihr eigenes superschnelles F8 Tributo-Modellauto zusammenbauen, bevor sie die elegante Mini-Replik ausstellen
 - Mit LEGO Speed ​​Champions-Bausets für Kinder können Autofans Mini-Versionen einiger der berühmtesten Autos der Welt bauen
 
 [Hier!!](https://www.amazon.de/dp/B07W5PWLN3/?tag=tolees0ca-21)

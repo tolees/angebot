@@ -25,8 +25,8 @@ Es gibt ein [New Balance Herren 574v2-Core Sneaker  Blau  Navy   44.5 EU](https:
 
 ℹ️:
 
+- Obermaterial: Leder
 - Schließung: kurz
 - Futter: stricken
-- Obermaterial: Leder
 
 [kauf es hier!!](https://www.amazon.de/dp/B06Y2Y8M8R/?tag=tolees0ca-21)

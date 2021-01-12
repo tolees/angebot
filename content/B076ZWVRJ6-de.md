@@ -25,8 +25,8 @@ Es gibt ein [G-STAR RAW Herren T-Shirt Daplin R T S/S  Mehrfarbig  Black Htr 390
 
 ℹ️:
 
-- Logo-Print
 - Gerippter Ausschnitt
 - Slim Fit
+- Logo-Print
 
 [kauf es hier!!](https://www.amazon.de/dp/B076ZWVRJ6/?tag=tolees0ca-21)

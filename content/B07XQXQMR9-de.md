@@ -27,8 +27,8 @@ Sie können [PowerA Kabelgebundener Controller Fusion Pro für Xbox One – schw
 
 - Programmierbare Pro Pack - programmiere ganz nebenbei Tasten für die hinteren paddles, ohne den daumenstick loslassen zu müssen
 - 3-wege-trigger-sperren - Stelle diese für eine kürzere trigger-reaktionen und schnellere Action ein
-- Ringe gegen Abrieb - zwei Sets (grün und Silber)
 - Analoge alps-daumensticks - vier Erhältlich mit kurzer, langer, konvexer und konkaver Variante
+- Ringe gegen Abrieb - zwei Sets (grün und Silber)
 - doppelte rumble-motoren - mit reaktionsschnellem rumble-feedback tauchst du in die Spielewelt ein
 
 [Hier!!](https://www.amazon.de/dp/B07XQXQMR9/?tag=tolees0ca-21)

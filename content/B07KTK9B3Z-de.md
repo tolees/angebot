@@ -25,9 +25,9 @@ Sie können [LEGO 21045 Architecture Trafalgar Square  Bauset mit National Galle
 
 ℹ️:
 
-- 1.197 Teile – Für Mädchen und Jungen ab 12 Jahren, für Fans und für große Kinder jeden Alters.
 - Baue diese äußerst detailreiche LEGO Architecture Interpretation des Trafalgar Squares!
 - Umfasst die National Gallery, die Nelsonsäule (bewacht von 4 Löwen), 2 Brunnen, 4 Statuensockeln, 10 Bäume, 6 Laternen, 2 Londoner Busse und 2 schwarze Taxis.
+- 1.197 Teile – Für Mädchen und Jungen ab 12 Jahren, für Fans und für große Kinder jeden Alters.
 - Das Modell ist 12 cm hoch, 24 cm breit und 20 cm tief.
 - Das Modell von LEGO Architecture umfasst ein dekoratives Trafalgar-Square-Namensschild.
 

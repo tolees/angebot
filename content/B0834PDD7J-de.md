@@ -26,9 +26,9 @@ Sie können [TANBURO Wasserhahn Küche  ausziehbar Küchenarmatur  Einhebel-Spü
 ℹ️:
 
 - 💧 Two Modes Hand Sprayer - By simply press a button, you can adjust the water flow between aerated stream or spray stream and thus meets the requirements for different cleaning tasks.
-- 💧 Ease of Operation - The 360 degree swivel sprayer gives you the greatest flexibility, ideal for one or two sinks. Single handle enables precise temperature and volume control.
 - 💧 Stylish Design and High Quality - Made of chrome with ceramic valve, this kitchen mixer tap is durable and protecting water quality in your home.
 - 💧 Hassle-free Installation - ATTENTION: Its very important to install the hose weight correctly to make sure the pull-out spray head work normally. The package comes with a detailed instruction which helps you to install the kitchen tap perfectly. Our customer service is always ready to solve any problem for you.
 - 💧 Pull Out Sprayer for Better Cleaning - The sprayer is extendable as far as about 100cm. It is easy to clean every corner of the sink. The gravity ball ensures it fit into the sink tap after use.
+- 💧 Ease of Operation - The 360 degree swivel sprayer gives you the greatest flexibility, ideal for one or two sinks. Single handle enables precise temperature and volume control.
 
 [Hier!!](https://www.amazon.de/dp/B0834PDD7J/?tag=tolees0ca-21)
