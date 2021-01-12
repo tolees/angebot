@@ -25,11 +25,11 @@ Es gibt ein [Kosmos Die Legenden von Andor – Die verschollenen Legenden – D�
 
 ℹ️:
 
-- Illustiert von Andor Erfinder Michael Menzel
 - Drei neuen Legenden in der fantastischen Welt von Andor
-- Für Spieler ab 10 Jahren
 - Die Erweiterung ist nur mit dem Grundspiel Die Legenden von Andor spielbar
+- Illustiert von Andor Erfinder Michael Menzel
 - Mit den Ergänzungen Neue Helden und Dunkle Helden für 5-6 Spieler
+- Für Spieler ab 10 Jahren
 - Für 2-4 Spieler
 
 [kauf es hier!!](https://www.amazon.de/dp/B08BWFWSLY/?tag=tolees0ca-21)

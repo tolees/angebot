@@ -25,10 +25,10 @@ Es gibt ein [IronMaxx Low Calories Sportsdrink Sirup - 1000ml - 66 Portionen - K
 
 ℹ️:
 
-- Mit nur 1 kcal auf 100ml Getränkesirup und zusätzlichem L-Carnitin ist das Sport Getränk die ideale Nahrungsergänzung für Sportler und liefert extra Energie - ob vor, oder nach dem Training
-- Lieferumfang: 1 x 1 l IronMaxx Low Calories Sportsdrink Kirsche / Fettfreier Fitness Drink mit Vitaminen & Nährstoffen für Sportler & aktive Menschen / Flüssigkeitslieferant für jede Gelegenheit
-- Dank des idealen Mischverhältnisses von 1:50 lassen sich bequem 15 ml Sirup mit 750 ml Wasser anrühren - so wird bei 1-4 Portionen pro Tag der Flüssigkeitsbedarf optimal gedeckt
-- Die wertvolle Nährstoffmischung mit den Vitaminen B3 (Niacin), B6 und B12 trägt zur Verringerung von Ermüdung bei und unterstützt den normalen Energie-, Eiweiß- und Glycogenstoffwechsel
 - Ob beim Sport oder im Alltag: Der fettfreie Fertigdrink liefert Energie und versorgt den Körper mit wichtigen Vitaminen, Nährstoffen und Mineralstoffen - und das fast komplett ohne Kalorien
+- Lieferumfang: 1 x 1 l IronMaxx Low Calories Sportsdrink Kirsche / Fettfreier Fitness Drink mit Vitaminen & Nährstoffen für Sportler & aktive Menschen / Flüssigkeitslieferant für jede Gelegenheit
+- Mit nur 1 kcal auf 100ml Getränkesirup und zusätzlichem L-Carnitin ist das Sport Getränk die ideale Nahrungsergänzung für Sportler und liefert extra Energie - ob vor, oder nach dem Training
+- Die wertvolle Nährstoffmischung mit den Vitaminen B3 (Niacin), B6 und B12 trägt zur Verringerung von Ermüdung bei und unterstützt den normalen Energie-, Eiweiß- und Glycogenstoffwechsel
+- Dank des idealen Mischverhältnisses von 1:50 lassen sich bequem 15 ml Sirup mit 750 ml Wasser anrühren - so wird bei 1-4 Portionen pro Tag der Flüssigkeitsbedarf optimal gedeckt
 
 [kauf es hier!!](https://www.amazon.de/dp/B004XSAG36/?tag=tolees0ca-21)
