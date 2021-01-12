@@ -25,10 +25,10 @@ Es gibt ein [Samsung Galaxy A50 Smartphone  16.3cm  6.4 Zoll  128GB interner Spe
 
 ℹ️:
 
+- Vielseitige Aufnahmemöglichkeiten durch Triple-Kamera
 - Bis zu 512 GB erweiterbarer Speicher für Fotos, Musik u.v.m. über microSD
 - 25 Megapixel-Frontkamera für gelungene Selfies
-- Vielseitige Aufnahmemöglichkeiten durch Triple-Kamera
-- Längere Laufzeit mit dem leistungsstarken 4.000 mAh1 Akku
 - Optischer Fingerabdruckscanner im Display für komfortables Entsperren
+- Längere Laufzeit mit dem leistungsstarken 4.000 mAh1 Akku
 
 [kauf es hier!!](https://www.amazon.de/dp/B07NH4M2LJ/?tag=tolees0ca-21)

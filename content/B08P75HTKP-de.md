@@ -25,10 +25,10 @@ Sie können [Ardorman Holz Clip Beads Brettspiel Clip Perlen Spiel Puzzle Board 
 
 ℹ️:
 
-- ♥ ❤-- ★ Multi-person interaction: 80 colorful beads, interactive multi-person game in the arena, which provides children with an accurate cognitive environment, enjoying the joy of playing with friends, growing together and improving wisdom.
-- --♥❤-- Rules of game: place 48 beads randomly, and the middle position is empty. When placed each color should be offset and must not be adjacent Slide the entire row of beads to get 2 or more beads of the same colour. Next, remove the adjacent beads. Switch to the next player. The beads can only move vertically or horizontally. Slide the beads inwards
 - ♥❤--Easy to use: simple and easy to use, remove the same colour, press a row of beads and collect as many adjacent beads of the same color as possible.
-- - ♥ ❤ - Colourful fun: the battle of the rainbow, the healing is the rainbow colour, improves the aesthetic skills of the children, the game is varied and changes itself, so that children have a happy childhood.
 - ♥❤--Detailed function: entertaining competition, parent-child interaction, thinking logic, multiplayer games, judgment, etc.
+- ♥ ❤-- ★ Multi-person interaction: 80 colorful beads, interactive multi-person game in the arena, which provides children with an accurate cognitive environment, enjoying the joy of playing with friends, growing together and improving wisdom.
+- - ♥ ❤ - Colourful fun: the battle of the rainbow, the healing is the rainbow colour, improves the aesthetic skills of the children, the game is varied and changes itself, so that children have a happy childhood.
+- --♥❤-- Rules of game: place 48 beads randomly, and the middle position is empty. When placed each color should be offset and must not be adjacent Slide the entire row of beads to get 2 or more beads of the same colour. Next, remove the adjacent beads. Switch to the next player. The beads can only move vertically or horizontally. Slide the beads inwards
 
 [Hier!!](https://www.amazon.de/dp/B08P75HTKP/?tag=tolees0ca-21)
