@@ -25,9 +25,9 @@ Es gibt ein [Asmodee - Days of Wonder 200332 - Zug um Zug - Erweiterung 1910](ht
 
 ℹ️:
 
+- <b>Sprache Spielanleitung:</b> DE
 - <b>Spieldauer:</b> ca. 60 Min
 - <b>Autor Spiele:</b> Moon, Alan R.
 - <b>Warnhinweis:</b> Achtung! Nicht für Kinder unter 36 Monaten geeignet
-- <b>Sprache Spielanleitung:</b> DE
 
 [kauf es hier!!](https://www.amazon.de/dp/B000K8FYAS/?tag=tolees0ca-21)

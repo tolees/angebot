@@ -25,10 +25,10 @@ Sie können [Bausch und Lomb Kontaktlinsenflüssigkeit - Boston Simplus Kontaktl
 
 ℹ️:
 
-- Praktisches All-in-one Pflegemittel für alle harten (formstabilen) Kontaktlinsen Mit Proteinlöser - abendliches Abreiben entfällt
-- Das Pflegemittel weist außerdem eine hohe Verträglichkeit auf
-- Auch, wenn Sie die Kontaktlinse bereits aufgesetzt haben, sorgt Boston SIMPLUS dafür, dass diese Benetzbarkeit erhalten bleibt
-- Neben der Desinfektion und der Entfernung gelöster Rückstände unterstützen weitere Eigenschaften der Bausch & Lomb Boston SIMPLUS Ein-Flaschen-Kombilösung das angenehme Tragegefühl
 - Das enthaltene Multi-Polymer-System umschließt die Kontaktlinse mit einem Film aus Flüssigkeit und trägt zur Verbesserung der gleichmäßigen Benetzung bei
+- Neben der Desinfektion und der Entfernung gelöster Rückstände unterstützen weitere Eigenschaften der Bausch & Lomb Boston SIMPLUS Ein-Flaschen-Kombilösung das angenehme Tragegefühl
+- Praktisches All-in-one Pflegemittel für alle harten (formstabilen) Kontaktlinsen Mit Proteinlöser - abendliches Abreiben entfällt
+- Auch, wenn Sie die Kontaktlinse bereits aufgesetzt haben, sorgt Boston SIMPLUS dafür, dass diese Benetzbarkeit erhalten bleibt
+- Das Pflegemittel weist außerdem eine hohe Verträglichkeit auf
 
 [Hier!!](https://www.amazon.de/dp/B007MA9DXQ/?tag=tolees0ca-21)
