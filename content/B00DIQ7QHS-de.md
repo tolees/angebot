@@ -26,9 +26,9 @@ Sie können [Waboba - Surfing Ball  55mm  farblich sortiert](https://www.amazon.
 ℹ️:
 
 - Springt auf Wasser.
-- Spaß für jedermann!
 - Keine Möglichkeit, Farbe zu wählen
-- Ab 6 Jahren
+- Spaß für jedermann!
 - Am besten für Seen, Ozeane und Flüsse
+- Ab 6 Jahren
 
 [Hier!!](https://www.amazon.de/dp/B00DIQ7QHS/?tag=tolees0ca-21)
