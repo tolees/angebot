@@ -25,7 +25,7 @@ Es gibt ein [Superga Unisex 2750 Cotu Classic fashion-sneakers  Navy  45 EU](htt
 
 ℹ️:
 
-- Segeltuch-Plimsole
 - Vulkanisiertes Gummi.
+- Segeltuch-Plimsole
 
 [kauf es hier!!](https://www.amazon.de/dp/B002LTH5D8/?tag=tolees0ca-21)

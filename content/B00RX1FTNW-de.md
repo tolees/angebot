@@ -25,10 +25,10 @@ Sie können [Wacom EODIS3-DCWA Kolorimeter](https://www.amazon.de/dp/B00RX1FTNW/
 
 ℹ️:
 
-- Empfohlen für professionelle Fotografen, Designer, Imaging-Profis, Cutter
-- Kompatibel mit: Cintiq 27QHD und andere Cintiq Modelle, einschließlich Cintiq 22HD, Cintiq 13HD und Cintiq Companion 2. Auch mit Drittanbieter-Displays kompatibel. Benutzerdefinierte Funktionen des Wacom Colour Manager sind nur auf dem Cintiq 27QHD verfügbar
 - Unterstützung für Videoübertragungsstandards: NTSC, PAL, SECAM und ITU-R Rec.BT.709
 - Lieferumfang: Wacom Calibrator, Wacom Profiler Software (CD), Schnellstartanleitung
+- Kompatibel mit: Cintiq 27QHD und andere Cintiq Modelle, einschließlich Cintiq 22HD, Cintiq 13HD und Cintiq Companion 2. Auch mit Drittanbieter-Displays kompatibel. Benutzerdefinierte Funktionen des Wacom Colour Manager sind nur auf dem Cintiq 27QHD verfügbar
+- Empfohlen für professionelle Fotografen, Designer, Imaging-Profis, Cutter
 - Professionelle Display-Kalibrierung für das Cintiq 27QHD und andere Farbmonitore
 
 [Hier!!](https://www.amazon.de/dp/B00RX1FTNW/?tag=tolees0ca-21)

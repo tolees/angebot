@@ -25,10 +25,10 @@ Es gibt ein [GORE WEAR C3 Herren Kurzarmtrikot  M  rot/schwarz](https://www.amaz
 
 ℹ️:
 
-- GORE Selected Fabrics Stoffe: Rascher Feuchtigkeitstransport und extrem atmungsaktiv
 - Leichtes Herren Trikot für warme Wetterbedingungen
-- Rückentasche mit verdecktem Reißverschluss, Netz-Einsätze für Belüftung, Kurzer Brust-Reißverschluss
-- Komfortable Passform/Bike-Spezifischer Schnitt, Reflektierende Details
 - GORE C3 Zip Jersey, Größe: M, Farbe: rot/schwarz, 100583
+- Komfortable Passform/Bike-Spezifischer Schnitt, Reflektierende Details
+- GORE Selected Fabrics Stoffe: Rascher Feuchtigkeitstransport und extrem atmungsaktiv
+- Rückentasche mit verdecktem Reißverschluss, Netz-Einsätze für Belüftung, Kurzer Brust-Reißverschluss
 
 [kauf es hier!!](https://www.amazon.de/dp/B000PIVNMQ/?tag=tolees0ca-21)

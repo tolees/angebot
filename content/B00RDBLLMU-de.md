@@ -25,10 +25,10 @@ Es gibt ein [ECCO Herren SOFT 7 Sneaker  Black  42 EU](https://www.amazon.de/dp/
 
 ℹ️:
 
+- Absatzform: Flach
+- Sohle: Gummi
+- Innenmaterial: Textil
 - Verschluss: Schnürsenkel
 - Obermaterial: Leder
-- Absatzform: Flach
-- Innenmaterial: Textil
-- Sohle: Gummi
 
 [kauf es hier!!](https://www.amazon.de/dp/B00RDBLLMU/?tag=tolees0ca-21)

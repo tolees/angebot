@@ -25,8 +25,8 @@ Sie können [bugatti Herren 311101122100 Derbys  Braun  45 EU](https://www.amazo
 
 ℹ️:
 
-- Sohle: Synthetik
-- Obermaterial: Leder
 - Innenmaterial: Textil
+- Obermaterial: Leder
+- Sohle: Synthetik
 
 [Hier!!](https://www.amazon.de/dp/B076JPWD5K/?tag=tolees0ca-21)
