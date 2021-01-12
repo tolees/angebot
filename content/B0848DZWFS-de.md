@@ -26,9 +26,9 @@ Es gibt ein [Tommy Hilfiger Core Geldbörse 19 cm](https://www.amazon.de/dp/B084
 ℹ️:
 
 - Anzahl Kreditkartenfächer: 12
-- Serie: Core
-- Material: Polyurethan
 - Verschlussart: Reißverschluss
 - Außenmaße (LxBxH): 19cm x 3cm x 10cm
+- Material: Polyurethan
+- Serie: Core
 
 [kauf es hier!!](https://www.amazon.de/dp/B0848DZWFS/?tag=tolees0ca-21)
