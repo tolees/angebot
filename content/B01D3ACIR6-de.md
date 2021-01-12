@@ -25,10 +25,10 @@ Es gibt ein [Intenso High Performance interne SSD 240 GB  6 3 cm  2 5 Zoll   SAT
 
 ℹ️:
 
-- Sequentielles Lesen: bis zu 520MB/s - Sequentielles Schreiben: bis zu 480MB/s
-- Smart Command Support, TRIM Command Support; Gewicht: 83G; Abmessungen: 100 x 70 x 7mm
-- Lieferumgang: Intenso High Performance interne SSD, 240GB
 - Geringer Stromverbrauch; Schock-resistent, geräuschloser Betrieb (0dB)
+- Smart Command Support, TRIM Command Support; Gewicht: 83G; Abmessungen: 100 x 70 x 7mm
 - Die SATA III Schnittstelle mit 6 Gbps ermöglicht ein Hochfahren von Computern oder Netbooks in weniger als 20 Sekunden
+- Lieferumgang: Intenso High Performance interne SSD, 240GB
+- Sequentielles Lesen: bis zu 520MB/s - Sequentielles Schreiben: bis zu 480MB/s
 
 [kauf es hier!!](https://www.amazon.de/dp/B01D3ACIR6/?tag=tolees0ca-21)

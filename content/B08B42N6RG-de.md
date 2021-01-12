@@ -26,9 +26,9 @@ Es gibt ein [Sony SRS-XB33 tragbarer  kabelloser Bluetooth Lautsprecher  Mehrfar
 ℹ️:
 
 - This portable speaker is waterproof, dustproof, rustproof (IP67), saltwater resistant, and shockproof (up to 1.2 m) with up to 24 hours battery life
-- Charge your smartphone directly from your SRS-XB33 speaker
-- Make your party even bigger connect up to 100 compatible wireless speakers or stereo pair
-- Experience powerful sound, deep punchy bass and enhanced vocal clarity
 - Light it up with the customisable, multi-coloured speaker and line lights that move to the beat
+- Experience powerful sound, deep punchy bass and enhanced vocal clarity
+- Make your party even bigger connect up to 100 compatible wireless speakers or stereo pair
+- Charge your smartphone directly from your SRS-XB33 speaker
 
 [kauf es hier!!](https://www.amazon.de/dp/B08B42N6RG/?tag=tolees0ca-21)

@@ -25,10 +25,10 @@ Es gibt ein [LEGO 42093 Technic Chevrolet Corvette ZR1 Rennwagen oder Hot Road  
 
 ℹ️:
 
-- Dieses Lego Technic Modell soll ein fesselndes und lohnendes Bauerlebnis vermitteln
 - Dieses Spielzeugauto zum Sammeln überzeugt mit einer auThentischen Farbgebung in Orange und Schwarz sowie mit einem coolen Aufkleberbogen für weitere Details
-- Das Lego Technic 2-in-1-Set kann in einen Hot Rod umgebaut werden
-- Exklusives Modell einer Chevrolet Corvette ZR1 mit vielen realistischen Merkmalen wie dem Heckspoiler, vier Auspuffrohren, schwarzen Speichenfelgen mit Niederquerschnittsreifen, funktionstüchtiger Lenkung und detailliertem V8-Motor mit beweglichen Kolben
 - Bediene die funktionstüchtige Lenkung und manövriere das Fahrzeug, um den sichtbaren V8-Motor mit beweglichen Kolben zu aktivieren
+- Exklusives Modell einer Chevrolet Corvette ZR1 mit vielen realistischen Merkmalen wie dem Heckspoiler, vier Auspuffrohren, schwarzen Speichenfelgen mit Niederquerschnittsreifen, funktionstüchtiger Lenkung und detailliertem V8-Motor mit beweglichen Kolben
+- Dieses Lego Technic Modell soll ein fesselndes und lohnendes Bauerlebnis vermitteln
+- Das Lego Technic 2-in-1-Set kann in einen Hot Rod umgebaut werden
 
 [kauf es hier!!](https://www.amazon.de/dp/B07FNW6WQ4/?tag=tolees0ca-21)

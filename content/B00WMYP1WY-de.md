@@ -25,10 +25,10 @@ Sie können [BOSS Herren Baxton Gürtel aus italienischem Leder mit Logo-Koppels
 
 ℹ️:
 
+- Gürtelbreite: 3cm
+- Gürtelverschluss: Koppelverschluss
 - Material: Leder
-- Gürtelbreite: 3cm
 - Gürtelverschluss: Koppelverschluss
 - Gürtelbreite: 3cm
-- Gürtelverschluss: Koppelverschluss
 
 [Hier!!](https://www.amazon.de/dp/B00WMYP1WY/?tag=tolees0ca-21)

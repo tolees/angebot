@@ -25,9 +25,9 @@ Sie können [Salewa JR Alp Trainer Mid Gore-TEX Trekking- & Wanderstiefel  Dark 
 
 ℹ️:
 
-- Empfohlene Verwendung: auch auf schlechten Wegen, Steige
-- Geeignet für: Klettersteig, Trekking, Bergwandern
-- Wanderschuh Kategorie: B Trekking und Hiking
 - Achtung Größenauswahl: Bitte achten Sie für die Wahl der passenden Schuhgröße auf unsere Größentabelle und -Hinweise
+- Empfohlene Verwendung: auch auf schlechten Wegen, Steige
+- Wanderschuh Kategorie: B Trekking und Hiking
+- Geeignet für: Klettersteig, Trekking, Bergwandern
 
 [Hier!!](https://www.amazon.de/dp/B077SFTJCJ/?tag=tolees0ca-21)

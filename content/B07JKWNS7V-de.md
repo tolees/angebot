@@ -25,10 +25,10 @@ Sie können [Playmobil Magic 70095 Nachtlicht Perlenmuschel  Ab 4 Jahren](https:
 
 ℹ️:
 
+- Contents: 1x PLAYMOBIL Magic Pearl Shell Nightlight, 66-piece playset with instructions: 1 Pearl Shell Nightlight, 3 figures, 62 accessories (3x1.5V batteries not included), Material: Plastic, L x W x H: 17 x 12 x 7 cm, 70095
 - Can be used everyday: Instructions for assembly with parents, High quality and robust design, Clean the parts (without stickers) under running water without chemical agents
+- Playset for children ages 4+, Ideal for childrens hands due to age-appropriate size and easy to hold thanks to the rounded edges
 - Fantastic colour changing light in a foldable shell, Switches off automatically after 15 min., Can be combined with PLAYMOBIL the Mermaid Cove with Illuminated Dome (70094 sold separately)
 - Fun for girls and boys: PLAYMOBIL Pearl Shell Nightlight for playing with and falling asleep with the mermaids and luminescent pearls
-- Contents: 1x PLAYMOBIL Magic Pearl Shell Nightlight, 66-piece playset with instructions: 1 Pearl Shell Nightlight, 3 figures, 62 accessories (3x1.5V batteries not included), Material: Plastic, L x W x H: 17 x 12 x 7 cm, 70095
-- Playset for children ages 4+, Ideal for childrens hands due to age-appropriate size and easy to hold thanks to the rounded edges
 
 [Hier!!](https://www.amazon.de/dp/B07JKWNS7V/?tag=tolees0ca-21)

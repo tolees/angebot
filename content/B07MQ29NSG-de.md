@@ -25,8 +25,8 @@ Sie können [Sylvanian Families - 5324 - Steinofen Pizzeria](https://www.amazon.
 
 ℹ️:
 
-- Kombinierbar mit anderen Gebäuden und Läden
 - Steinofen Pizzeria mit Ofen und Vorbereitungstheke
+- Kombinierbar mit anderen Gebäuden und Läden
 - Mit Pizzaschieber, Tisch, 2 Stühle, Pizzen, Käsereibe, Menükarte und weiterem detailreichen Zubehör
 
 [Hier!!](https://www.amazon.de/dp/B07MQ29NSG/?tag=tolees0ca-21)

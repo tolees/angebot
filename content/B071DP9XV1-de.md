@@ -25,10 +25,10 @@ Sie können [Schiesser Herren Schlafanzug lang V-Neck  Blockstreifen  Dunkelblau
 
 ℹ️:
 
-- maschinenwaschbar bei 40°, trocknergeeignet
 - in angenehm weicher Single-Jersey-Qualität
+- Oberteil mit gestrickten, feinen Ringeln, Serafino-Kragen mit Knopfleiste
 - uni-dunkelblaue Hose mit bequemem Bund
 - Schiesser, langer Schlafanzug für Herren mit maritimen Oberteil in Blockstreifen und dunkelblauer Hose
-- Oberteil mit gestrickten, feinen Ringeln, Serafino-Kragen mit Knopfleiste
+- maschinenwaschbar bei 40°, trocknergeeignet
 
 [Hier!!](https://www.amazon.de/dp/B071DP9XV1/?tag=tolees0ca-21)

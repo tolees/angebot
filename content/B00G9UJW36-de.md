@@ -25,10 +25,10 @@ Es gibt ein [Sony SEL-70200G G Tele-Zoom Objektiv  70-200 mm  F4  OSS  Vollforma
 
 ℹ️:
 
-- Lieferumfang: Sony SEL70200G, 70-200 mm F4. G OSS E Mount Lens für Alpha 7 Modell E-Mount Kameras weiß, Objektivschutzkappe
-- Integrierte optische Bildstabilisierung
-- Zirkulare Blende mit 11 Lamellen; Nanobeschichtung reduziert ungewollte Lichtreflexionen
 - Geschützt gegen Staub und Feuchtigkeit; Passt auf alle E-Mount Kameras von Sony
+- Zirkulare Blende mit 11 Lamellen; Nanobeschichtung reduziert ungewollte Lichtreflexionen
+- Integrierte optische Bildstabilisierung
+- Lieferumfang: Sony SEL70200G, 70-200 mm F4. G OSS E Mount Lens für Alpha 7 Modell E-Mount Kameras weiß, Objektivschutzkappe
 - Konstante Lichtstärke: F4.0; Sichtwinkel (APS-C): 22°-8°
 
 [kauf es hier!!](https://www.amazon.de/dp/B00G9UJW36/?tag=tolees0ca-21)
