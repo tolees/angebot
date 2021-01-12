@@ -28,7 +28,7 @@ Sie können [OSGEAR-NEU Intel Dual Band Wireless-AX200NGW Intel WLAN/Wi-Fi 6 AX2
 - ✔ 👍Formfaktor: Plug-in-Karte , Schnittstellentyp (Bustyp): M.2 2230 / M.2 1216 .
 - ✔ 👍 Data Link Protocol: Bluetooth 5.1, 802.11ax , Frequenzband: 2.4 GHz, 5 GHz,Produktzertifizierungen: Bluetooth 5.1, IEEE 802.11ax, Wi-Fi CERTIFIED 6 .
 - ✔ 👍Intel(R) Wi-Fi 6 AX200 160MHz , Model : AX200NGW , Produktbeschreibung: Intel Wi-Fi 6 AX200 - Netzwerkadapter. Achtung: Neue Version (nach September 2020) Bluetooth ist Version 5.1 / Batch number : 02HK705 mit Bluetooth 5.1
-- ✔ 👍Systemanforderungen: Linux, Google Chrome OS, Windows 10 (64-bit) ,if your laptop or machines over 3 years old do not support, please contact customer service to confirm if they can use. Or please visit our OS-BLOG to find out more ..* ^_^
 - ✔ 👍 Neue Version (nach September 2020) Bluetooth ist Version 5.1 - Intel AX200.NGWG.NV - Intel WLAN/Wi-Fi 6 AX200 2230 2x2 AX+BT Ohne vPro . ☞ ✓ Pack-Single Box Packing with ESD Bag and Screw Set for each wifi card.✓
+- ✔ 👍Systemanforderungen: Linux, Google Chrome OS, Windows 10 (64-bit) ,if your laptop or machines over 3 years old do not support, please contact customer service to confirm if they can use. Or please visit our OS-BLOG to find out more ..* ^_^
 
 [Hier!!](https://www.amazon.de/dp/B07SRFSG1V/?tag=tolees0ca-21)

@@ -25,15 +25,15 @@ Sie können [LG K61 Smartphone 128 GB  16 59 cm  6 53 Zoll  FHD+ Display  Premiu
 
 ℹ️:
 
-- Dual-SIM
-- Leistungsstarker 4000 mAh Akku
 - Premium 4-fach Kamera: 48 Megapxiel Standard, 8 Megapxiel Weitwinkel, 5 Megapxiel Makro-Objektiv, 2 Megapxiel mit Tiefensensor
-- 16, 59 cm (6, 53 Zoll) FHD+ FullVision Display im Seitenverhältnis 19, 5: 9
-- Speicher erweiterbar mit microSD-Karte um bis zu 2 TB
+- Leistungsstarker 4000 mAh Akku
+- Hochwertiges & schickes Design
+- AI Smart Funktionen: Google Assistant Taste und AI CAM Funktion
 - DTS: X 3D Surround Sound
 - Selfie-Kamera: 16 Megapxiel
-- AI Smart Funktionen: Google Assistant Taste und AI CAM Funktion
-- Hochwertiges & schickes Design
+- 16, 59 cm (6, 53 Zoll) FHD+ FullVision Display im Seitenverhältnis 19, 5: 9
 - 4 GB RAM und 128 GB interner Speicher
+- Dual-SIM
+- Speicher erweiterbar mit microSD-Karte um bis zu 2 TB
 
 [Hier!!](https://www.amazon.de/dp/B086R7NQP5/?tag=tolees0ca-21)

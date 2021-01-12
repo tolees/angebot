@@ -25,10 +25,10 @@ Es gibt ein [Ecco Herren SOFT7M Sneaker  Schwarz  1001black   49 EU](https://www
 
 ℹ️:
 
+- Obermaterial: Glattleder
 - eBay Multihinweis: verschiedene Farben
 - Anlass: Casual
-- Größenhinweis: Fällt passend aus
-- Obermaterial: Glattleder
 - Innenmaterial: Leder / Textil
+- Größenhinweis: Fällt passend aus
 
 [kauf es hier!!](https://www.amazon.de/dp/B01G4T0EM4/?tag=tolees0ca-21)

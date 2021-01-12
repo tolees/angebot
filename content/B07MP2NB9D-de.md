@@ -26,9 +26,9 @@ Sie können [PowerBar Ride Energy Coco Hazelnut Caramel 18x55g - Kohlenhydrat Ei
 ℹ️:
 
 - Geschmack: In Erdnuss-Karamell oder Schokolade-Karamell Geschmack. Wir empfehlen, 1 Riegel in der Stunde vor dem Sport zu verzehren. Während des Ausdauersports, werden bis zu 90g Kohlenhydrate pro Stunde, abhängig von Intensität und Dauer empfohlen.
-- Für mehr Sicherheit: Viele der PowerBar Produkte sind auf der Kölner Liste aufgeführt. Dadurch bieten wir euch noch mehr Sicherheit und Vertrauen. Die Kölner Liste ist eine der führenden Service-Plattformen, die nach strengen Zertifizierungsprozessen auf verbotene Substanzen getestete Sporternährungsprodukte listet.
 - Nährwerte: Ein Riegel liefert dir ca. 24g Kohlenhydrate, 10g Protein, ca. 9,3g Fett – und das bei ca. 222 Kalorien pro Riegel. Mit extra Magnesium zur Unterstützung des Energiestoffwechsels.
-- Lieferumfang: 1 Box mit 18 Riegeln
+- Für mehr Sicherheit: Viele der PowerBar Produkte sind auf der Kölner Liste aufgeführt. Dadurch bieten wir euch noch mehr Sicherheit und Vertrauen. Die Kölner Liste ist eine der führenden Service-Plattformen, die nach strengen Zertifizierungsprozessen auf verbotene Substanzen getestete Sporternährungsprodukte listet.
 - Powerbar Ride Energy: Unser Ride Energy Riegel kombiniert den großartigen Geschmack von Erdnüssen, Karamell und Kakao mit der Funktion eines Sportriegels. Mit hochwertigem Protein und Kohlenhydraten!
+- Lieferumfang: 1 Box mit 18 Riegeln
 
 [Hier!!](https://www.amazon.de/dp/B07MP2NB9D/?tag=tolees0ca-21)

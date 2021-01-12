@@ -25,8 +25,8 @@ Sie können [Blue Matter/a Step Further](https://www.amazon.de/dp/B0009IQLPQ/?ta
 
 ℹ️:
 
-- herausgegeben 2005 in Großbritannien von BGO Records (BGOCD678)
-- Doppel-CD
 - Musikstil: Rock / Blues
+- Doppel-CD
+- herausgegeben 2005 in Großbritannien von BGO Records (BGOCD678)
 
 [Hier!!](https://www.amazon.de/dp/B0009IQLPQ/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi Electric Scooter Pro2 Elektror mit 38.63 % Rabatt'
-date: 2021-01-10 21:43:32
+date: 2021-01-12 10:49:37
 image: 'https://m.media-amazon.com/images/I/41xWtRvgpVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B089WDJJ7H/?tag=tolees0ca-21'
 descuento: '38.63'
-average: '463.7890909090909'
+average: '458.43692307692305'
 ---
 
 Sie können [Xiaomi Mi Electric Scooter Pro2 Elektroroller  Unisex  Erwachsene  Schwarz  Medium](https://www.amazon.de/dp/B089WDJJ7H/?tag=tolees0ca-21) mit Preis 429.0 EUR (original: 699.0 EUR) 38.63 % Rabatt hier:
@@ -25,10 +25,10 @@ Sie können [Xiaomi Mi Electric Scooter Pro2 Elektroroller  Unisex  Erwachsene  
 
 ℹ️:
 
-- Rutschfeste und stoßdämpfende 8.5 Zoll Reifen, Doppelbremssystem
-- Integriertes Display für schnelle und bequeme Überwachung mit Geschwindigkeit/Batterie/km/Modus
-- Maximale Geschwindigkeit: ca. 25 km/h; ausgeklügeltes System zur Kontrolle der Geschwindigkeit von Kreuzfahrt und Wiederherstellung der Kinetik (KERS)
 - Akkulaufzeit: bis zu 45 km
+- Integriertes Display für schnelle und bequeme Überwachung mit Geschwindigkeit/Batterie/km/Modus
+- Rutschfeste und stoßdämpfende 8.5 Zoll Reifen, Doppelbremssystem
 - Gewicht: 14.2 kg; Maximales Benutzergewicht: 100 kg
+- Maximale Geschwindigkeit: ca. 25 km/h; ausgeklügeltes System zur Kontrolle der Geschwindigkeit von Kreuzfahrt und Wiederherstellung der Kinetik (KERS)
 
 [Hier!!](https://www.amazon.de/dp/B089WDJJ7H/?tag=tolees0ca-21)

@@ -25,10 +25,10 @@ Es gibt ein [HUGO Herren Analog Quarz Uhr mit Leder Armband 1530149](https://www
 
 ℹ️:
 
-- Gehäusedicke 10.6 mm / Durchmesser des Gehäuses: 44 mm
-- Schwarzes Zifferblatt mit Honigwabenstruktur
 - Multifunktions-Uhrwerk
-- Wasserabweisend bis Drei bar
 - Schwarzes Lederarmband
+- Wasserabweisend bis Drei bar
+- Schwarzes Zifferblatt mit Honigwabenstruktur
+- Gehäusedicke 10.6 mm / Durchmesser des Gehäuses: 44 mm
 
 [kauf es hier!!](https://www.amazon.de/dp/B084KR6PHY/?tag=tolees0ca-21)

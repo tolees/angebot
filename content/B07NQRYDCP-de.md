@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Sylvanian Families - 5302 - Stadthaus mi mit 40.52 % Rabatt'
-date: 2021-01-10 21:47:09
+title: 'Sylvanian Families - 5302 - Stadthaus mi mit 40.36 % Rabatt'
+date: 2021-01-12 10:17:39
 image: 'https://m.media-amazon.com/images/I/51v+WYY6tmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07NQRYDCP-de'
-actualPrice: 65.42 EUR
+actualPrice: 65.6 EUR
 currency: EUR
-price: 65.42
+price: 65.6
 comparePrice: 109.99 EUR
 prodname: 'Sylvanian Families - 5302 - Stadthaus mit Licht'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07NQRYDCP/?tag=tolees0ca-21'
-descuento: '40.52'
-average: '68.3685234899329'
+descuento: '40.36'
+average: '68.33185430463577'
 ---
 
-Sie können [Sylvanian Families - 5302 - Stadthaus mit Licht](https://www.amazon.de/dp/B07NQRYDCP/?tag=tolees0ca-21) mit Preis 65.42 EUR (original: 109.99 EUR) 40.52 % Rabatt hier:
+Sie können [Sylvanian Families - 5302 - Stadthaus mit Licht](https://www.amazon.de/dp/B07NQRYDCP/?tag=tolees0ca-21) mit Preis 65.6 EUR (original: 109.99 EUR) 40.36 % Rabatt hier:
 
 [![Sylvanian Families - 5302 - Stadthaus mi](https://m.media-amazon.com/images/I/51v+WYY6tmL._SL200_.jpg)](https://www.amazon.de/dp/B07NQRYDCP/?tag=tolees0ca-21)
 

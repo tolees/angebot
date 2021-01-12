@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '18.71 % rabat auf Sony Alpha 6600 | APS-C Spiegellose Kame'
-date: 2021-01-10 22:06:39
+date: 2021-01-12 10:45:48
 image: 'https://m.media-amazon.com/images/I/51128LFORDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Es gibt ein [Sony Alpha 6600 | APS-C Spiegellose Kamera   Schneller 0 02s Autofo
 
 ℹ️:
 
-- VERLÄNGERTE BATTERIE-LEBENSDAUER: APS-C Branchenführende Z-Batterie für längere Aufnahme-Sessions.
-- STABILE AUFNAHMEN: Optische 5-Achsen-Bildstabilisierung für Fotos und Filme zur Kompensation von Kameraverwacklungen.
-- SCHNELLER UND PRÄZISERER AUTOFOKUS: Verlassen Sie sich auf 0,02s AF, Tracking in Echtzeit und Autofokus mit Augenerkennung (Mensch/Tier), um Ihr Motiv in jeder Situation im Fokus zu behalten.
-- ATEMBERAUBENDE BILDQUALITÄT: 24Mp gepaart mit hoher ISO-Fähigkeit, um auch bei schwachem Licht hervorragende Bilder zu liefern.
-- PERFEKT FÜR VIDEO CREATOR: Hochauflösende 4K-HDR-Filmaufnahme und Full-HD-Slow-Motion-Funktion (120p) mit Autofokus.
+- STEADY SHOOTING: 5-axis optical image stabilisation for stills and movies to compensate camera shakes.
+- FAST AND PRECISE AUTOFOCUS: rely on 0.02s AF, Real Time tracking and Eye AF (human/animal) to keep your subject sharp in any situation.
+- BREATHTAKING IMAGE QUALITY: 24 Mp full frame sensor paired with high ISO capabilities to deliver outstanding image even in low light.
+- PERFECT FOR VIDEO CREATORS: High resolution 4K HDR movie recording and Full HD slow motion feature (120p) with autofocus.
+- EXTENDED BATTERY LIFE: APS-C Industry leading Z battery for continued shooting sessions.
 
 [kauf es hier!!](https://www.amazon.de/dp/B07X78SMWP/?tag=tolees0ca-21)
