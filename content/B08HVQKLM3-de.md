@@ -26,9 +26,9 @@ Sie können [AUKEY Bluetooth Kopfhörer Kabellose Ohrhörer In-Ear-Erkennung mit
 ℹ️:
 
 - Echt kabelloser Audiogenuss: Das stromlinienförmige, ergonomische Design in Kombination mit Funktionen wie Ultra Low Latency, Wasserfestigkeit nach IPX5 und Nutzung nur eines Ohrhörers macht diese Ohrhörer zum perfekten Begleiter für den Arbeitsweg, das Training und den Alltag.
-- Leistungsstarkes Lade-Case: Die Ohrhörer bieten vollständig geladen mehr als 4 Stunden Wiedergabe. Durch das Lade-Case sind unterwegs sogar mehr als 28 Stunden möglich. Das Case lässt sich kabellos über die USB-C-Schnellladefunktion aufladen.
-- Lieferumfang: AUKEY EP-T31 True-Wireless-Ohrhörer, Lade-Case, 3 Paar Ohrstücke (S/M/L), USB-A- zu C-Kabel, Bedienungsanleitung und Schnellstartanleitung.
 - Low-Latency-Modus: Die Technologie Ultra Low Latency beschleunigt die Verarbeitung der Audiosignale und sorgt so für eine reibungslose Tonsynchronisierung bei Videos und Gaming.
 - Intelligente Steuerung: 2 Infrarot-Näherungssensoren erkennen, wann die Ohrhörer getragen werden, womit eine automatische Wiedergabe und Pause erfolgt. Die multifunktionale Touchbedienung ermöglicht eine intuitive Musiksteuerung und Anrufverwaltung.
+- Lieferumfang: AUKEY EP-T31 True-Wireless-Ohrhörer, Lade-Case, 3 Paar Ohrstücke (S/M/L), USB-A- zu C-Kabel, Bedienungsanleitung und Schnellstartanleitung.
+- Leistungsstarkes Lade-Case: Die Ohrhörer bieten vollständig geladen mehr als 4 Stunden Wiedergabe. Durch das Lade-Case sind unterwegs sogar mehr als 28 Stunden möglich. Das Case lässt sich kabellos über die USB-C-Schnellladefunktion aufladen.
 
 [Hier!!](https://www.amazon.de/dp/B08HVQKLM3/?tag=tolees0ca-21)

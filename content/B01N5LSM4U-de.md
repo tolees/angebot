@@ -25,8 +25,8 @@ Es gibt ein [LEGO 10255](https://www.amazon.de/dp/B01N5LSM4U/?tag=tolees0ca-21) 
 
 ℹ️:
 
+- Schöne Fassade, Tür und Fenstern. Dazu 3 Geschäftsschülde, Wasserturm, Tarasse am Dach und Cafe
 - In der Mitte befinden sich: Musikgeschäft mit Schlagzeug, Gitarre und Saxofon; Fotostudio und Zahnarztpraxis.
 - ca. 35 cm hoch, 38 cm breit und ca. 25 cm dick
-- Schöne Fassade, Tür und Fenstern. Dazu 3 Geschäftsschülde, Wasserturm, Tarasse am Dach und Cafe
 
 [kauf es hier!!](https://www.amazon.de/dp/B01N5LSM4U/?tag=tolees0ca-21)

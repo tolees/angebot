@@ -25,10 +25,10 @@ Sie können [Panasonic DVD-S700EG-K DVD-Player  Multiformat Wiedergabe mit xvid 
 
 ℹ️:
 
-- DVD, CD Player mit hervorragender Bild- und Tonqualität
-- USB-Eingang mit CD-Ripping-Funktion
-- Euro SCART Ausgang
 - HDMI Verbindung für digitale Verbindung zum TV
 - Multiformat-Wiedergabe mit xvid, MP3 und JPEG
+- USB-Eingang mit CD-Ripping-Funktion
+- DVD, CD Player mit hervorragender Bild- und Tonqualität
+- Euro SCART Ausgang
 
 [Hier!!](https://www.amazon.de/dp/B07DF4YD29/?tag=tolees0ca-21)
