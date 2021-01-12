@@ -25,10 +25,10 @@ Es gibt ein [Weider  Gold Whey Protein  Vanille  1er Pack  1x 2 kg ](https://www
 
 ℹ️:
 
-- 23 g BCAA auf 100 g Protein
+- Aspartamfrei
 - Unterstützt den Aufbau von Muskelmasse und Kraft
+- 23 g BCAA auf 100 g Protein
 - Als erster Shake des Tages (ergänzend zum Frühstück)
 - Hergestellt durch Ultrafiltration
-- Aspartamfrei
 
 [kauf es hier!!](https://www.amazon.de/dp/B003SE6RDO/?tag=tolees0ca-21)
