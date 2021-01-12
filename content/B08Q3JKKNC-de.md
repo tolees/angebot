@@ -25,10 +25,10 @@ Sie können [H-Y Hengrongyuan 12 Stück Pinsel Set Malen für Verwendet für Fei
 
 ℹ️:
 
-- Can be used as a gift for beginners, kids and artists, or used as watercolor oil, acrylic paint/body, nail, face paint/miniature, ceramics, models, leather, plaster, arts and crafts painting, etc.
-- Each pack has 12 brushes of different sizes and different nib shapes, round nibs, each brush nib is suitable for drawing different brush things to meet your painting needs.
-- The best wool brush has excellent resilience, and the brush can perfectly restore its shape after each cleaning.
 - These detailed brushes are suitable for fine painting, miniature painting, 40k model, oil, acrylic, watercolor, face painting, miniature, detail drawing, arts and crafts painting, etc.
+- The best wool brush has excellent resilience, and the brush can perfectly restore its shape after each cleaning.
+- Each pack has 12 brushes of different sizes and different nib shapes, round nibs, each brush nib is suitable for drawing different brush things to meet your painting needs.
+- Can be used as a gift for beginners, kids and artists, or used as watercolor oil, acrylic paint/body, nail, face paint/miniature, ceramics, models, leather, plaster, arts and crafts painting, etc.
 - These paint brushes have long-lasting wear and excellent color control and brushstroke effects. The filaments maintain the color and release smoothly and evenly.
 
 [Hier!!](https://www.amazon.de/dp/B08Q3JKKNC/?tag=tolees0ca-21)

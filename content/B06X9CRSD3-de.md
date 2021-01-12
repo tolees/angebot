@@ -25,11 +25,11 @@ Sie können [Sony KDL-32WE615 80 cm  32 Zoll  Fernseher  HD Ready  Triple Tuner 
 
 ℹ️:
 
-- USB Recording: Nehmen Sie Ihre Lieblingssendung auf
-- Smart TV: Im Internet surfen, YouTube Videos anschauen und Lieblingsapps genießen
-- X-Reality PRO: Beeindruckende Detailschärfe
-- HDR: Lebendige Farben und spektakulärer Kontrast
-- Motionflow XR 400Hz : Flüssigere Darstellung in jeder Szene
 - USB-Anschluss
+- HDR: Lebendige Farben und spektakulärer Kontrast
+- Smart TV: Im Internet surfen, YouTube Videos anschauen und Lieblingsapps genießen
+- Motionflow XR 400Hz : Flüssigere Darstellung in jeder Szene
+- X-Reality PRO: Beeindruckende Detailschärfe
+- USB Recording: Nehmen Sie Ihre Lieblingssendung auf
 
 [Hier!!](https://www.amazon.de/dp/B06X9CRSD3/?tag=tolees0ca-21)

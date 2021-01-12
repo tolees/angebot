@@ -25,9 +25,9 @@ Es gibt ein [Sony Alpha 6600 | APS-C Spiegellose Kamera   Schneller 0 02s Autofo
 
 ℹ️:
 
-- STEADY SHOOTING: 5-axis optical image stabilisation for stills and movies to compensate camera shakes.
 - BREATHTAKING IMAGE QUALITY: 24 Mp full frame sensor paired with high ISO capabilities to deliver outstanding image even in low light.
 - PERFECT FOR VIDEO CREATORS: High resolution 4K HDR movie recording and Full HD slow motion feature (120p) with autofocus.
+- STEADY SHOOTING: 5-axis optical image stabilisation for stills and movies to compensate camera shakes.
 - FAST AND PRECISE AUTOFOCUS: rely on 0.02s AF, Real Time tracking and Eye AF (human/animal) to keep your subject sharp in any situation.
 - EXTENDED BATTERY LIFE: APS-C Industry leading Z battery for continued shooting sessions.
 
