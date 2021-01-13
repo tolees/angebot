@@ -25,10 +25,10 @@ Sie können [PLAYMOBIL City Life 70197 Beim Facharzt: Augenarzt  Ab 4 Jahren](ht
 
 ℹ️:
 
-- Behandlungspult mit Schiebeplatte u. Spaltlampe, Schiebesystem mit Phoropter zur Sehschärfemessung, 3 Sehprobetafeln, Etikettbogen mit 16 Brillen uvm.
 - Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
-- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 - Spielspaß für kleine Patienten: PLAYMOBIL Beim Facharzt mit Augenarzt, Patientin sowie umfangreichem Zubehör für detailgetreues Nachspielen
+- Behandlungspult mit Schiebeplatte u. Spaltlampe, Schiebesystem mit Phoropter zur Sehschärfemessung, 3 Sehprobetafeln, Etikettbogen mit 16 Brillen uvm.
 - Lieferumfang: 1x PLAYMOBIL City Life Beim Facharzt: Augenarzt, 33-teiliges Spielfiguren-Set mit Anleitung: 1 Behandlungspult, 2 Figuren, 30 Zubehörteile, Material: Kunststoff, Individuell aufstellbar, Gewicht: 107 g, 70197
+- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 
 [Hier!!](https://www.amazon.de/dp/B07P5HCWB9/?tag=tolees0ca-21)

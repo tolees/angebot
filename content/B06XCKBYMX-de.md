@@ -25,8 +25,8 @@ Es gibt ein [Pepe Jeans Damen New Brooke Jeans  10Oz STR 8Dip Royal Dk  29W / 30
 
 ℹ️:
 
-- 98 Prozent Baumwolle, 2 Prozent Elasthan
-- Verschluss: Reißverschluss
 - Hoher Bund
+- Verschluss: Reißverschluss
+- 98 Prozent Baumwolle, 2 Prozent Elasthan
 
 [kauf es hier!!](https://www.amazon.de/dp/B06XCKBYMX/?tag=tolees0ca-21)

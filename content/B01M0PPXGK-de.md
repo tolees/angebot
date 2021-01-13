@@ -25,8 +25,8 @@ Es gibt ein [Playmobil 4897 - Mitnehm-Bauernhof](https://www.amazon.de/dp/B01M0P
 
 ℹ️:
 
-- Material: Kunststoff
 - Geschlecht: Mädchen und Jungen
+- Material: Kunststoff
 - Abmessungen: 25 x 10 x 15 cm
 
 [kauf es hier!!](https://www.amazon.de/dp/B01M0PPXGK/?tag=tolees0ca-21)

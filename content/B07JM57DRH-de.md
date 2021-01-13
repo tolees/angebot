@@ -25,10 +25,10 @@ Sie können [Playmobil Magic 70094 Korallenpavillon mit Leuchtkuppel  Ab 4 Jahre
 
 ℹ️:
 
-- Mit 5 Perlen für die Murmelbahn zum Aktivieren der Leuchtkuppel, Perlen verstaubar in Auffangschale oder Korallen, Erweiterbar mit Perlenschmuck (70096)
 - Spielspaß für Mädchen und Jungen: PLAYMOBIL Korallenpavillon mit Leuchtkuppel, Meerjungfrauen & schwimmfähigen Delfinen für detailgetreues Nachspielen
-- Lieferumfang: 1x PLAYMOBIL Magic Korallenpavillon, 126-teiliges Spielfiguren-Set mit Anleitung: 1 Korallenpavillon mit Leuchtkuppel & Perlenbahn, 5 Figuren, 120 Zubehörteile (exkl. 3 x 1,5-V-Micro-Batterien), Material: Kunststoff, LxBxH: 62x30x22 cm, 70094
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
+- Lieferumfang: 1x PLAYMOBIL Magic Korallenpavillon, 126-teiliges Spielfiguren-Set mit Anleitung: 1 Korallenpavillon mit Leuchtkuppel & Perlenbahn, 5 Figuren, 120 Zubehörteile (exkl. 3 x 1,5-V-Micro-Batterien), Material: Kunststoff, LxBxH: 62x30x22 cm, 70094
+- Mit 5 Perlen für die Murmelbahn zum Aktivieren der Leuchtkuppel, Perlen verstaubar in Auffangschale oder Korallen, Erweiterbar mit Perlenschmuck (70096)
 - Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 
 [Hier!!](https://www.amazon.de/dp/B07JM57DRH/?tag=tolees0ca-21)
