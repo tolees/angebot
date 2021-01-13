@@ -25,10 +25,10 @@ Sie können [Paco Home Moderner Kurzflor Kinderteppich Sternendesign Kinderzimme
 
 ℹ️:
 
-- Material: 100 % Polypropylen
+- STANDARD 100 by OEKO-TEX
 - Florhöhe: 9 mm / Gewicht: 1.850 g/m²
 - Für Fußbodenheizung geeignet
 - pflegeleicht und Schmutzresistent
-- STANDARD 100 by OEKO-TEX
+- Material: 100 % Polypropylen
 
 [Hier!!](https://www.amazon.de/dp/B0875XTT7F/?tag=tolees0ca-21)

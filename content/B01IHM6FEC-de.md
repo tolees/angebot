@@ -25,8 +25,8 @@ Es gibt ein [Severin My7101 Staubsauger Severin My7101](https://www.amazon.de/dp
 
 ℹ️:
 
-- Anzahl der Packung: 1
 - Verpackungsgewicht: 6.25 Kg
+- Anzahl der Packung: 1
 - Verpackungsabmessungen (L x B x H): 28.0 zm x 33.0 zm x 48.0 zm
 - Hohe Qualität
 
