@@ -25,8 +25,8 @@ Sie können [Tommy Hilfiger Herren Th Cool Oxford Regular Polo Poloshirt  Mystic
 
 ℹ️:
 
-- Weitere Informationen zu Tommy Hilfiger / Tommy Jeans finden Sie in der Produktbeschreibung
-- Original und authentisches Tommy Hilfiger / Tommy Jeans Produkt
 - Tommy Hilfiger Herren S/S Polos
+- Original und authentisches Tommy Hilfiger / Tommy Jeans Produkt
+- Weitere Informationen zu Tommy Hilfiger / Tommy Jeans finden Sie in der Produktbeschreibung
 
 [Hier!!](https://www.amazon.de/dp/B07WBXSX5D/?tag=tolees0ca-21)
