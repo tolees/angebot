@@ -25,10 +25,10 @@ Sie können [JBL Free II Wasserdichte True-Wireless In-Ear-Sport-Kopfhörer in S
 
 ℹ️:
 
-- Der leistungsstarke Akku bietet einen 24-stündigen, ununterbrochenen Musikgenuss - 6 Stunden über die Kopfhörer plus 18 Stunden Backup aus der Ladebox
-- 1 x Free II True-Wireless Kopfhörer in Schwarz von JBL / Inkl. Ohrstöpsel in drei Größen, Ladestation, Typ-C-Ladekabel, Sicherheitsdatenblatt und Kurzanleitung
 - Dank des IPX4-zertifizierten Designs sind die JBL Free II spritzwassergeschützt und ideal für einen langen Outdoorlauf - egal ob bei Sonne oder Regen
 - Das integrierte Mikrofon an beiden Seiten sorgt für eine problemlose Freisprechfunktion und nimmt Anrufe im Stereo- oder Mono-Modus mit kristallklarer Tonqualität auf
 - Die kabellosen In-Ear-Kopfhörer vereinfachen die Handhabung beim Musikhören, Telefonieren oder beim Workout und begeistern stets mit dem fantastischen JBL Signature Sound
+- 1 x Free II True-Wireless Kopfhörer in Schwarz von JBL / Inkl. Ohrstöpsel in drei Größen, Ladestation, Typ-C-Ladekabel, Sicherheitsdatenblatt und Kurzanleitung
+- Der leistungsstarke Akku bietet einen 24-stündigen, ununterbrochenen Musikgenuss - 6 Stunden über die Kopfhörer plus 18 Stunden Backup aus der Ladebox
 
 [Hier!!](https://www.amazon.de/dp/B08FB3B85Q/?tag=tolees0ca-21)
