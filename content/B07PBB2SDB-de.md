@@ -25,10 +25,10 @@ Es gibt ein [Funko 40630 POP Vinyl: Movies: IT: Chapter 2-Pennywise w/Balloon Sa
 
 ℹ️:
 
-- POP! Vinyl
+- Schauen Sie sich jetzt die anderen IT Chapter 2-Figuren von Funko an! Sammeln Sie alle!
 - Von IT Chapter 2, Pennywise w/ Balloon, zur stilisierten POP-Vinyl Figur von Funko!
+- POP! Vinyl
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 - Chapter 2
-- Schauen Sie sich jetzt die anderen IT Chapter 2-Figuren von Funko an! Sammeln Sie alle!
 
 [kauf es hier!!](https://www.amazon.de/dp/B07PBB2SDB/?tag=tolees0ca-21)

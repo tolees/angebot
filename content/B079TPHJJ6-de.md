@@ -26,7 +26,7 @@ Es gibt ein [Funko 31118 Deadpool Playtime Robe Sammelfigur  Multicolour](https:
 ℹ️:
 
 - Sehr robust.
-- Offizielles Lizenzprodukt.
 - Hochwertig.
+- Offizielles Lizenzprodukt.
 
 [kauf es hier!!](https://www.amazon.de/dp/B079TPHJJ6/?tag=tolees0ca-21)
