@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '28.43 % rabat auf LEGO 42100 Technic Liebherr Bagger R 980'
-date: 2021-01-08 14:09:09
+date: 2021-01-13 04:25:36
 image: 'https://m.media-amazon.com/images/I/516ASeai0xL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07NDBGW4G/?tag=tolees0ca-21'
 descuento: '28.43'
-average: '317.23789830508474'
+average: '318.4191390728476'
 ---
 
 Es gibt ein [LEGO 42100 Technic Liebherr Bagger R 9800  App-gesteuertes Konstruktionsspielzeug für Fortgeschrittene mit Smarthub und interaktiven Motoren](https://www.amazon.de/dp/B07NDBGW4G/?tag=tolees0ca-21) mit aktuellem Preis 313.95 EUR (original: 438.65 EUR) 28.43 % Rabatt hier:
@@ -26,9 +26,9 @@ Es gibt ein [LEGO 42100 Technic Liebherr Bagger R 9800  App-gesteuertes Konstruk
 ℹ️:
 
 - Das Hightech-Konstruktionsspielzeug wird durch 2 fortschrittliche Smarthubs mit 7 Motoren angetrieben und über die LEGO Technic Control+ App gesteuert
-- Auswahl zwischen 4 Kontrollbildschirmen, um den Ausleger und die Schaufel zu steuern und Echtzeit-Rückmeldungen zu erhalten, wie z. B. den Stromverbrauch und Entfernungen
-- Der Liebherr Bagger R 9800 von LEGO Technic ist 39 cm hoch, 65 cm lang und 27 cm breit. Für kreativen Bauspaß kann er mit allen anderen LEGO Originalsets und LEGO Steinen verwendet werden
 - Beim Zusammenbauen und Spielen des Liebherr Bagger R 9800 von LEGO Technic mit authentischen Details und fortschrittlicher App-Technologie erlangen Baumeister weitere Kenntnisse der Konstruktion
+- Der Liebherr Bagger R 9800 von LEGO Technic ist 39 cm hoch, 65 cm lang und 27 cm breit. Für kreativen Bauspaß kann er mit allen anderen LEGO Originalsets und LEGO Steinen verwendet werden
 - Das 4.108-teilige Modell Liebherr Bagger R 9800 (42100) von LEGO Technic mit originalgetreuen Details und einer authentischen Farbgestaltung ist das ideale Geschenk für Kinder ab 12 Jahren
+- Auswahl zwischen 4 Kontrollbildschirmen, um den Ausleger und die Schaufel zu steuern und Echtzeit-Rückmeldungen zu erhalten, wie z. B. den Stromverbrauch und Entfernungen
 
 [kauf es hier!!](https://www.amazon.de/dp/B07NDBGW4G/?tag=tolees0ca-21)
