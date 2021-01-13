@@ -25,7 +25,7 @@ Sie können [ONLY Damen ONLSEDONA Boucle Wool Coat OTW NOOS Mantel  Grau  Light 
 
 ℹ️:
 
-- Kapuze
 - Boucle Wollmantel
+- Kapuze
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07DFXCQPF/?tag=tolees0ca-21)

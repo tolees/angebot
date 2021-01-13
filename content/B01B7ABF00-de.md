@@ -25,9 +25,9 @@ Es gibt ein [Sony BDP-S1700 Blu-ray-Player  USB  Ethernet  schwarz](https://www.
 
 ℹ️:
 
-- Catch up TV und Video on Demand mit dem Zugriff auf über 300 Apps inkl. Amazon Instant Video
-- Online-Dienste für das erweiterte Heimkino-Erlebnis mit dem Ethernet-Eingang. Stromverbrauch: 8,5 W
 - Brillante Wiedergabe von High Quality Video in Full HD 1080p
+- Online-Dienste für das erweiterte Heimkino-Erlebnis mit dem Ethernet-Eingang. Stromverbrauch: 8,5 W
+- Catch up TV und Video on Demand mit dem Zugriff auf über 300 Apps inkl. Amazon Instant Video
 - Lieferumfang: Sony BDP-S1700 Blu-ray-Player schwarz
 - Geniessen Sie Ihre Lieblingsfilme und Musik via USB Play
 
