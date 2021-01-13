@@ -26,4 +26,4 @@ Es gibt ein [EuroTrail Grillabdeckung für 3-flamm-Grill](https://www.amazon.de/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B003NTK2X0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B003NTK2X0/?tag=tolees0ca-21)

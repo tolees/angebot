@@ -26,4 +26,4 @@ Es gibt ein [Asmodee Exploding Kittens: A Card Game About Kittens and Explosions
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B010TQY7A8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B010TQY7A8/?tag=tolees0ca-21)

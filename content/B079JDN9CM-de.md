@@ -26,4 +26,4 @@ Sie können [Bauknecht WATK Pure 96G4 DE Waschtrockner / EEK A / 9kg Waschen / 6
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B079JDN9CM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B079JDN9CM/?tag=tolees0ca-21)

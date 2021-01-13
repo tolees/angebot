@@ -26,4 +26,4 @@ Es gibt ein [Somat Klarspüler  1er Pack  1 x 750 ml ](https://www.amazon.de/dp
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0144LQYSW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0144LQYSW/?tag=tolees0ca-21)

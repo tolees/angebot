@@ -26,4 +26,4 @@ Es gibt ein [Blomus 68812 Seifenspender Areo  Edelstahl poliert](https://www.ama
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00K7KE8JM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00K7KE8JM/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Bosch Akku Heckenschere AHS 55-20 LI  1 Akku  18 Volt System  Schni
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01AI2PDBU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01AI2PDBU/?tag=tolees0ca-21)

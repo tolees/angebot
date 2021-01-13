@@ -26,4 +26,4 @@ Es gibt ein [SET-ERGÄNZUNG Gigaset Fenstersensor – für große und kleine Fen
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00EPLF8K2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00EPLF8K2/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Invision TV Wandhalterung  Ultrastarker Schwenkbare Neigbare  TV Ha
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B007PVAT62/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B007PVAT62/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [GIANAC USB Typ C Kabel  [4Pack 0.3M 1M 2M 3M ] 3A USB C Ladekabel u
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07L9Z6CCV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07L9Z6CCV/?tag=tolees0ca-21)

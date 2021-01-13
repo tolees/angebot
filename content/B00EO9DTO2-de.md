@@ -26,4 +26,4 @@ Es gibt ein [Talisker Dark Storm Whisky  1 x 1 l ](https://www.amazon.de/dp/B00E
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00EO9DTO2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00EO9DTO2/?tag=tolees0ca-21)

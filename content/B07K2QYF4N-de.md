@@ -26,4 +26,4 @@ Es gibt ein [HUGO Herren Dicago193 Sweatshirt  per Pack Blau  Dark Blue 405   La
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07K2QYF4N/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07K2QYF4N/?tag=tolees0ca-21)

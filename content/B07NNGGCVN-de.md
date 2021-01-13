@@ -26,4 +26,4 @@ Sie können [Panasonic In-Ear Kopfhörer Bluetooth RP-NJ310BE-K  6 h Akkulaufzei
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07NNGGCVN/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07NNGGCVN/?tag=tolees0ca-21)

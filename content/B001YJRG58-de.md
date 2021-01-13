@@ -26,4 +26,4 @@ Es gibt ein [Bosch HMT84M421 Serie 2 Mikrowelle / 900 W / 25 l / Drehteller 31 5
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001YJRG58/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001YJRG58/?tag=tolees0ca-21)

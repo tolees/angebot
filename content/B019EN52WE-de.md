@@ -26,4 +26,4 @@ Es gibt ein [Engtanz](https://www.amazon.de/dp/B019EN52WE/?tag=tolees0ca-21) mit
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B019EN52WE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B019EN52WE/?tag=tolees0ca-21)

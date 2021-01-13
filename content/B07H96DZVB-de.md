@@ -26,4 +26,4 @@ Es gibt ein [LincPlus P1 Laptop 13 3 Zoll Full HD Ultrabook  Intel Celeron N4000
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07H96DZVB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07H96DZVB/?tag=tolees0ca-21)

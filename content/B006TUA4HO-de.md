@@ -26,4 +26,4 @@ Es gibt ein [Triumph Damen Halbschalen BH Body Make-Up WHP  Beige  Smooth Skin  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B006TUA4HO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B006TUA4HO/?tag=tolees0ca-21)

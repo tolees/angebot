@@ -26,4 +26,4 @@ Es gibt ein [Mantona Colt DSLR Kamera Tasche für Spiegelreflex  SLR  Kompaktkam
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B002CMSOFW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B002CMSOFW/?tag=tolees0ca-21)

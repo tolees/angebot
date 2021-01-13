@@ -26,4 +26,4 @@ Sie können [LG Magic Remote-Fernbedienung AN-MR19BA Schwarz](https://www.amazon
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07QH3KFJJ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07QH3KFJJ/?tag=tolees0ca-21)

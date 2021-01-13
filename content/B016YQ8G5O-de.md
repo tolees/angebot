@@ -26,4 +26,4 @@ Sie können [Garmin fēnix 3 HR Saphir GPS-Multisportuhr  Herzfrequenzmessung am
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B016YQ8G5O/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B016YQ8G5O/?tag=tolees0ca-21)

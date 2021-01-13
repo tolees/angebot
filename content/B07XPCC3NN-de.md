@@ -26,4 +26,4 @@ Sie können [HP Pavilion Gaming TG01-0023ng Desktop  AMD Ryzen 7-3700X  16GB DDR
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07XPCC3NN/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07XPCC3NN/?tag=tolees0ca-21)

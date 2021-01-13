@@ -26,4 +26,4 @@ Sie können [Logitech C270 Webcam  720p Videoqualität  schwarz](https://www.ama
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B003PAOAWG/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B003PAOAWG/?tag=tolees0ca-21)

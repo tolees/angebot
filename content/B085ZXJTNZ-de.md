@@ -26,4 +26,4 @@ Sie können [Gamory Controller für Nintendo Switch  Bluetooth Wireless Controll
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B085ZXJTNZ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B085ZXJTNZ/?tag=tolees0ca-21)

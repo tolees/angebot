@@ -26,4 +26,4 @@ Es gibt ein [SD-Kartenleser  Micro SD / TF-Compact-Flash-Kartenleser mit 3-in-1-
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07M86YCPQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07M86YCPQ/?tag=tolees0ca-21)

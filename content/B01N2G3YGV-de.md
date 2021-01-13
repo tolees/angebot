@@ -26,4 +26,4 @@ Sie können [Hasbro B7784EU4 - N-Strike Elite AccuStrike Alphahawk Präzisions-S
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01N2G3YGV/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01N2G3YGV/?tag=tolees0ca-21)

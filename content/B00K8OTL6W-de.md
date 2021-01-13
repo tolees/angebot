@@ -26,4 +26,4 @@ Es gibt ein [camel active Herren 488845/9939 Jeans  Dark Blue Used  W35/ L30  He
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00K8OTL6W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00K8OTL6W/?tag=tolees0ca-21)

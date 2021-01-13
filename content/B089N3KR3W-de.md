@@ -26,4 +26,4 @@ Sie können [Tryone Tablet Ständer  verstellbare Tablet Halterung - Tablet Stan
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B089N3KR3W/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B089N3KR3W/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Rode Rycote Edition VideoMic  Line Gradient  Polar Pattern ](https:
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00CAE8PM4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00CAE8PM4/?tag=tolees0ca-21)

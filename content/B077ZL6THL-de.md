@@ -26,4 +26,4 @@ Es gibt ein [Kärcher Rundbürstenset für Kärcher Dampfreiniger  hochwertiges 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B077ZL6THL/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B077ZL6THL/?tag=tolees0ca-21)

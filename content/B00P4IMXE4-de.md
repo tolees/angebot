@@ -26,4 +26,4 @@ Es gibt ein [Tony Bennett & Lady Gaga - Cheek to Cheek - Live! [Blu-ray]](https:
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00P4IMXE4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00P4IMXE4/?tag=tolees0ca-21)

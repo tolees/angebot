@@ -26,4 +26,4 @@ Es gibt ein [Cullmann Neomax Reisestativ mit geringem Packmaß  28 5 cm   leicht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01M0SLO42/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01M0SLO42/?tag=tolees0ca-21)

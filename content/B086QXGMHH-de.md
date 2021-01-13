@@ -26,4 +26,4 @@ Es gibt ein [HMY Transparente Florero vidrio Florero hidropónico Floreros decor
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B086QXGMHH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B086QXGMHH/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [DYON Smart 55 XT 138 7 cm  55 Zoll  Fernseher  4K Ultra-HD Smart TV
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B08BLL97XW/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B08BLL97XW/?tag=tolees0ca-21)

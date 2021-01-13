@@ -26,4 +26,4 @@ Es gibt ein [Neff TBD1836N / T18BD36N0 / Autarkes Kochfeld / Konventionell / 80c
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01N2OI8L2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01N2OI8L2/?tag=tolees0ca-21)

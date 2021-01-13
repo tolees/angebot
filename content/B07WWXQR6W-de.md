@@ -26,4 +26,4 @@ Es gibt ein [Frechdax® Memo Spiel Tiere Gedächtnisspiel Spielkarten Kinder Mem
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07WWXQR6W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07WWXQR6W/?tag=tolees0ca-21)

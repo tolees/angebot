@@ -26,4 +26,4 @@ Es gibt ein [RAVPower Quick Charge 3.0 USB Ladegerät Schnellladegerät  6-Port 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01N9GHZC0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01N9GHZC0/?tag=tolees0ca-21)

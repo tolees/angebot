@@ -26,4 +26,4 @@ Es gibt ein [Parker IM Kugelschreiber | Schwarze Lackierung mit Chromzierteilen 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01M4I8OLZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01M4I8OLZ/?tag=tolees0ca-21)

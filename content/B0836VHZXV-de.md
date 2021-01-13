@@ -26,4 +26,4 @@ Es gibt ein [TEECY Kartenetui Neue Kreditkartentasche Kartenetui mit RFID Schutz
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0836VHZXV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0836VHZXV/?tag=tolees0ca-21)

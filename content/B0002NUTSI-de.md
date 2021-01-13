@@ -26,4 +26,4 @@ Es gibt ein [Crosby  Stills & Nash - Greatest Hits](https://www.amazon.de/dp/B00
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0002NUTSI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0002NUTSI/?tag=tolees0ca-21)

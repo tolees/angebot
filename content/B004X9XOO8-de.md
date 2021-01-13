@@ -26,4 +26,4 @@ Es gibt ein [Panasonic VW-PH80XE-K Robuste Softtasche  geeignet für Camcorder s
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B004X9XOO8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B004X9XOO8/?tag=tolees0ca-21)

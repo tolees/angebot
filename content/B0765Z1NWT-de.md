@@ -26,4 +26,4 @@ Sie können [JBL E65BTNC Over Ear Bluetooth Kopfhörer - Active Noise Cancelling
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0765Z1NWT/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0765Z1NWT/?tag=tolees0ca-21)

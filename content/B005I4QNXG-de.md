@@ -26,4 +26,4 @@ Es gibt ein [BaByliss C260E Welleneisen Easy Beach Waves](https://www.amazon.de/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B005I4QNXG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B005I4QNXG/?tag=tolees0ca-21)

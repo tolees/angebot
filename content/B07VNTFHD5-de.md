@@ -26,4 +26,4 @@ Sie können [WD Black P10 Game Drive externe Festplatte 5 TB  mobile und robuste
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07VNTFHD5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07VNTFHD5/?tag=tolees0ca-21)

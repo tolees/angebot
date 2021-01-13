@@ -26,4 +26,4 @@ Sie können [Icy Box IB-AC636 Tablet Halterung  22 9 cm bis 27 9 cm  mit Doppelg
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B010A7EA3K/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B010A7EA3K/?tag=tolees0ca-21)

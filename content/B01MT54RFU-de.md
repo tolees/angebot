@@ -26,4 +26,4 @@ Es gibt ein [Omron EVOLV All-in-One digitales Oberarm-Blutdruckmessgerät  kabel
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01MT54RFU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MT54RFU/?tag=tolees0ca-21)

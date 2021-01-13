@@ -26,4 +26,4 @@ Sie können [Philips 246E9QJAB/00 60 cm  23 8 Zoll  Monitor  VGA  HDMI  DisplayP
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07B6BDF1X/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07B6BDF1X/?tag=tolees0ca-21)

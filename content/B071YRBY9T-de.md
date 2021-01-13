@@ -26,4 +26,4 @@ Sie können [Acer Swift 1 SF113-31-P2CP 33 8 cm  13 3 Zoll Full-HD IPS matt  Ult
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B071YRBY9T/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B071YRBY9T/?tag=tolees0ca-21)

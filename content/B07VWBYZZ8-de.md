@@ -26,4 +26,4 @@ Es gibt ein [Balter Turmventilator mit Fernbedienung ✓ Leise ✓ 120cm hoch �
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07VWBYZZ8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07VWBYZZ8/?tag=tolees0ca-21)

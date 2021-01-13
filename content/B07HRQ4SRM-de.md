@@ -26,4 +26,4 @@ Es gibt ein [Kitchen Emperor Santokumesser  Küchenmesser  Kuechenmesser Scharfe
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07HRQ4SRM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HRQ4SRM/?tag=tolees0ca-21)

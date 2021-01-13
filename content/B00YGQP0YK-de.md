@@ -26,4 +26,4 @@ Es gibt ein [Westmark Bratensaft-/Marinier-Spritze mit abnehmbarer Nadel  Länge
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00YGQP0YK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00YGQP0YK/?tag=tolees0ca-21)

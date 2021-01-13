@@ -26,4 +26,4 @@ Es gibt ein [Acer Swift 3 Pro  SF313-51-873X  33 78 cm  13 3 Zoll Full-HD  Ultra
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07H364VWV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07H364VWV/?tag=tolees0ca-21)

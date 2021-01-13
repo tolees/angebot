@@ -26,4 +26,4 @@ Sie können [Philips Bartschneider BT5515/15  40 verschiedene Looks  0 4 - 20 m
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07M5B1L9S/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07M5B1L9S/?tag=tolees0ca-21)

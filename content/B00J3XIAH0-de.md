@@ -26,4 +26,4 @@ Es gibt ein [LogiLink MP0032 Modular Splitter 4Port RJ45  geschirmt  mit 15 cm K
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00J3XIAH0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00J3XIAH0/?tag=tolees0ca-21)

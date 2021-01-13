@@ -26,4 +26,4 @@ Es gibt ein [Samsung T835 Galaxy Tab S4 LTE Tablet-PC  4GB RAM  schwarz](https:/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07G3DHY8C/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07G3DHY8C/?tag=tolees0ca-21)

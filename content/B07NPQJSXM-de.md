@@ -26,4 +26,4 @@ Sie können [Netgear Orbi Pro SRC60 Mesh-WLAN-Satellit für Decken- und Wandmont
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07NPQJSXM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07NPQJSXM/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [ASICS Herren Gel-Bondi Laufschuhe  Schwarz  Black/White 001   45 EU
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07S3X2XFZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07S3X2XFZ/?tag=tolees0ca-21)

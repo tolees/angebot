@@ -26,4 +26,4 @@ Sie können [ECOVACS Robotics DEEBOT 600 Saugroboter – Staubsauger Roboter mit
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07F2KXM3S/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07F2KXM3S/?tag=tolees0ca-21)

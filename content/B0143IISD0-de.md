@@ -26,4 +26,4 @@ Es gibt ein [SanDisk Ultra SDXC I 128 GB bis zu 80 MB/Sek  Class 10 Speicherkart
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0143IISD0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0143IISD0/?tag=tolees0ca-21)

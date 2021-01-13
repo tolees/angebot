@@ -26,4 +26,4 @@ Es gibt ein [Philips Sonicare FlexCare Platinum Zahnbürste HX9111/20 - elektris
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B013ZR4IGG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B013ZR4IGG/?tag=tolees0ca-21)

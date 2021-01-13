@@ -26,4 +26,4 @@ Sie können [TomTom Navigationsgerät GO Essential   6 Zoll  Stauvermeidung dank
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07G19DZXC/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07G19DZXC/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [SONAX 281941 281.941 Premium Class Lederwartungssatz  Schwarz](http
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00DKYBEYY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00DKYBEYY/?tag=tolees0ca-21)

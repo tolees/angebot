@@ -26,4 +26,4 @@ Es gibt ein [GODNECE Bauplatten Straße  50 x 50 Loch Straßenplatten Bauplatte 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07TJNV8HG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07TJNV8HG/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Bosch Professional Schwingschleifer GSS 160-1 A Multi  180 Watt  1 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01FJ8OH3S/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01FJ8OH3S/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Pop Guild Wars 2 Joko Vinyl Figure](https://www.amazon.de/dp/B07TWH
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07TWHJ1TZ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07TWHJ1TZ/?tag=tolees0ca-21)

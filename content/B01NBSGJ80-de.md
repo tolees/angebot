@@ -26,4 +26,4 @@ Es gibt ein [Canon PowerShot G9 X Mark II Kompaktkamera  20 1 MP  7 5cm  3 Zoll 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01NBSGJ80/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01NBSGJ80/?tag=tolees0ca-21)

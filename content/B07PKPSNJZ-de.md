@@ -26,4 +26,4 @@ Sie können [LG GH24NSD5 Internes DVD-W Black Bare-Laufwerk](https://www.amazon.
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07PKPSNJZ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07PKPSNJZ/?tag=tolees0ca-21)

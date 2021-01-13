@@ -26,4 +26,4 @@ Es gibt ein [LEGO Duplo 10910 - U-Boot-Abenteuer  Bauset](https://www.amazon.de
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01BK2KPR4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01BK2KPR4/?tag=tolees0ca-21)

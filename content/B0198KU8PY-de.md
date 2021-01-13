@@ -26,4 +26,4 @@ Es gibt ein [Funko 024563 S1 No Actionfigur One Piece: Portgas D. Ace  Multi](ht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0198KU8PY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0198KU8PY/?tag=tolees0ca-21)

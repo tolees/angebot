@@ -26,4 +26,4 @@ Es gibt ein [Reusch Primus R-TEX XT Handschuhe  Black/Black Melange  8](https://
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07G2QRLBP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07G2QRLBP/?tag=tolees0ca-21)

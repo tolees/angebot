@@ -26,4 +26,4 @@ Es gibt ein [G-STAR RAW Herren Rovulc Denim Low Sneakers  Schwarz  Black 990   4
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01NAQ760R/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01NAQ760R/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Invicta 9223 Speedway Unisex Uhr Edelstahl Quarz schwarzen Zifferbl
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B003QTENM8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B003QTENM8/?tag=tolees0ca-21)

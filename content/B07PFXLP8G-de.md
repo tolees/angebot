@@ -26,4 +26,4 @@ Es gibt ein [Krups HZ656815 Steffen Henssler Special Edition Stabmixer  1000 Wat
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PFXLP8G/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PFXLP8G/?tag=tolees0ca-21)

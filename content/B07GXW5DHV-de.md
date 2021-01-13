@@ -26,4 +26,4 @@ Sie können [Withings Steel HR Sport - Multisport Hybrid Smartwatch](https://www
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07GXW5DHV/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07GXW5DHV/?tag=tolees0ca-21)

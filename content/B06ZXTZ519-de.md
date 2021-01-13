@@ -26,4 +26,4 @@ Sie können [Hama Outdoor Steckdosenleiste mit Schalter  2-fach  2m  spritzwasse
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06ZXTZ519/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06ZXTZ519/?tag=tolees0ca-21)

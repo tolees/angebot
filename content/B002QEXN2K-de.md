@@ -26,4 +26,4 @@ Es gibt ein [Battle Studies](https://www.amazon.de/dp/B002QEXN2K/?tag=tolees0ca-
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B002QEXN2K/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B002QEXN2K/?tag=tolees0ca-21)

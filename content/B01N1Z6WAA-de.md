@@ -26,4 +26,4 @@ Es gibt ein [Xoro SAT>IP Server 8100  4X DVB-S2 Eingänge  maximal 8 Ausgänge  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01N1Z6WAA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01N1Z6WAA/?tag=tolees0ca-21)

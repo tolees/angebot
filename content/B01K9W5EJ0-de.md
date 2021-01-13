@@ -26,4 +26,4 @@ Es gibt ein [Garmin Forerunner 35 GPS-Laufuhr  Herzfrequenzmessung am Handgelenk
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01K9W5EJ0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01K9W5EJ0/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Sennheiser HD 4.30i Headset  geschlossenes  ohrumschließendes  gee
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01K4N1PY2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01K4N1PY2/?tag=tolees0ca-21)

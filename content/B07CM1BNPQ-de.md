@@ -26,4 +26,4 @@ Sie können [Laser Entfernungsmesser  Meterk Distanzmessgerät Messbereich: 0 05
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07CM1BNPQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07CM1BNPQ/?tag=tolees0ca-21)

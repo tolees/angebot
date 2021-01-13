@@ -26,4 +26,4 @@ Es gibt ein [Lenovo IdeaPad C340 35 6 cm  14 Zoll  1920x1080  FHD  IPS  Touch  C
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PGQ6KMR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PGQ6KMR/?tag=tolees0ca-21)

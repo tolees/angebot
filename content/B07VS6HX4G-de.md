@@ -26,4 +26,4 @@ Es gibt ein [UTTORA Draussen Forscherset Spielzeug  Kinder fernglas 22 Stück Ki
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07VS6HX4G/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07VS6HX4G/?tag=tolees0ca-21)

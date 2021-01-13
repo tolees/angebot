@@ -26,4 +26,4 @@ Es gibt ein [Ezviz S3 Sport Action Kamera  Auflösung 4K/24 fps oder Full HD Vid
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07K1RXC24/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07K1RXC24/?tag=tolees0ca-21)

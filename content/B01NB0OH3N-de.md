@@ -26,4 +26,4 @@ Sie können [Panama Jack Damen Julia Clay Riemchensandalen  Braun  Cuero B1   40
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01NB0OH3N/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01NB0OH3N/?tag=tolees0ca-21)

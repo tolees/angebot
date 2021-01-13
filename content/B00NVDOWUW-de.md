@@ -26,4 +26,4 @@ Es gibt ein [LEGO Classic 10692 - Bausteine-Set  Spielzeug mit Lerncharakter](ht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00NVDOWUW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00NVDOWUW/?tag=tolees0ca-21)

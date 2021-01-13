@@ -26,4 +26,4 @@ Es gibt ein [Antimi Bluetooth Kopfhörer Kabellos in Ear Kopfhoerer Sport Wirele
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NQ7ZN4C/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NQ7ZN4C/?tag=tolees0ca-21)

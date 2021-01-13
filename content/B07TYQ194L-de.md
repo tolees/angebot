@@ -26,4 +26,4 @@ Es gibt ein [Pop Avengers Endgame Thanos in the Garden Vinyl Figure](https://www
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07TYQ194L/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07TYQ194L/?tag=tolees0ca-21)

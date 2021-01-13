@@ -26,4 +26,4 @@ Es gibt ein [Oehlbach Powercord C13 / 150 - Netzkabel mit Schukostecker & Kaltge
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00C4TTLAK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00C4TTLAK/?tag=tolees0ca-21)

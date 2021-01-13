@@ -26,4 +26,4 @@ Es gibt ein [LEGO Creator 31071 - Forschungsdrohne Bauspielzeug](https://www.ama
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B075SVNY76/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B075SVNY76/?tag=tolees0ca-21)

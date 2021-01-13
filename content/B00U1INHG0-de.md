@@ -26,4 +26,4 @@ Es gibt ein [Living Nostalgia 14 5 cm  Peg Dose mit Haken  grau](https://www.ama
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00U1INHG0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00U1INHG0/?tag=tolees0ca-21)

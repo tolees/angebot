@@ -26,4 +26,4 @@ Sie können [Samsung Galaxy Tab S6 T865  10.5 Zoll  LTE  mountain grey](https://
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07VVF495D/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07VVF495D/?tag=tolees0ca-21)

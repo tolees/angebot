@@ -26,4 +26,4 @@ Es gibt ein [adidas Bauchtrainer](https://www.amazon.de/dp/B00EVNXN6K/?tag=tolee
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00EVNXN6K/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00EVNXN6K/?tag=tolees0ca-21)

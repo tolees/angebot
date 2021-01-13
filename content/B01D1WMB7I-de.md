@@ -26,4 +26,4 @@ Sie können [Acer Chromebook 14 Notebook  14 Zoll Full-HD IPS matt  Aluminium A-
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01D1WMB7I/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01D1WMB7I/?tag=tolees0ca-21)

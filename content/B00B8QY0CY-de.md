@@ -26,4 +26,4 @@ Es gibt ein [FjällRäven Kanken ochre](https://www.amazon.de/dp/B00B8QY0CY/?tag
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00B8QY0CY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00B8QY0CY/?tag=tolees0ca-21)

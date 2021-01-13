@@ -26,4 +26,4 @@ Es gibt ein [Trilogy DS-15 Nerf N-Strike Elite Spielzeug Blaster mit 15 Nerf Eli
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KQQ5S6T/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KQQ5S6T/?tag=tolees0ca-21)

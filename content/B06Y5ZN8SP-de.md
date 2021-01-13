@@ -26,4 +26,4 @@ Es gibt ein [Citizen Herren Datum klassisch Solar Uhr mit Titan Armband BM7360-8
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06Y5ZN8SP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06Y5ZN8SP/?tag=tolees0ca-21)

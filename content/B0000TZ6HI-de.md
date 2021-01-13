@@ -26,4 +26,4 @@ Es gibt ein [Piatnik 6012 - Activity Junior](https://www.amazon.de/dp/B0000TZ6HI
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0000TZ6HI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0000TZ6HI/?tag=tolees0ca-21)

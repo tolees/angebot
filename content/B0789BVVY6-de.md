@@ -26,4 +26,4 @@ Es gibt ein [Fossil Damen-Armreifen Edelstahl JF02854998](https://www.amazon.de/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0789BVVY6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0789BVVY6/?tag=tolees0ca-21)

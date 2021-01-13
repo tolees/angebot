@@ -26,4 +26,4 @@ Es gibt ein [CITIZEN Eco-Drive Herren Armbanduhr AW1570-87L](https://www.amazon.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B079FZJYT2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B079FZJYT2/?tag=tolees0ca-21)

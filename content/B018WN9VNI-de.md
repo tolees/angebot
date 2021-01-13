@@ -26,4 +26,4 @@ Sie können [Samsung DA29-10105J HAFEX / EXP Wasserfilter für Samsung Kühlschr
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B018WN9VNI/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B018WN9VNI/?tag=tolees0ca-21)

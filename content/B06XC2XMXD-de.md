@@ -26,4 +26,4 @@ Es gibt ein [Samsung Galaxy Tab S3 T825 24 58 cm  9 68 Zoll  Touchscreen LTE Tab
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XC2XMXD/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XC2XMXD/?tag=tolees0ca-21)

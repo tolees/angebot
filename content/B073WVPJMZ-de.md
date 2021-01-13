@@ -26,4 +26,4 @@ Sie können [Akkuschrauber 12volt set TACKLIFE Akku-Bohrschrauber   2000 mAh  Ma
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B073WVPJMZ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B073WVPJMZ/?tag=tolees0ca-21)

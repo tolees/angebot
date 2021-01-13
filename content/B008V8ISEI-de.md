@@ -26,4 +26,4 @@ Es gibt ein [Villeroy & Boch Toy s Delight Rotes "Breakfast for Two" Frühstück
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B008V8ISEI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B008V8ISEI/?tag=tolees0ca-21)

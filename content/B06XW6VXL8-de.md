@@ -26,4 +26,4 @@ Es gibt ein [Rieker 93157 Damen Winterstiefel Winter-Boots Fellboots Fellstiefel
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XW6VXL8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XW6VXL8/?tag=tolees0ca-21)

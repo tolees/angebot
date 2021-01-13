@@ -26,4 +26,4 @@ Es gibt ein [Tablet Kissen - ideal passend zu Samsung Tab  Apple iPad  Lenovo  H
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B009TR6SF6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B009TR6SF6/?tag=tolees0ca-21)

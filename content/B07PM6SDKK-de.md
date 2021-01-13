@@ -26,4 +26,4 @@ Es gibt ein [Samsung RB8000 RL36R8739S9/EG Kühl-/Gefrierkombination  202 cm  A+
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PM6SDKK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PM6SDKK/?tag=tolees0ca-21)

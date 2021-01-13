@@ -26,4 +26,4 @@ Sie können [NUBWO S2 V4.1 Bluetooth kabellose On-Ear HiFi Stereo Kopfhörer mit
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01HOIC7OM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01HOIC7OM/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Just Cause 4 - Standard Edition - [PlayStation 4]](https://www.amaz
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07DX9JWYY/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07DX9JWYY/?tag=tolees0ca-21)

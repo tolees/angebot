@@ -26,4 +26,4 @@ Sie können [Intel BX80671I76950X Core i7-6950X Prozessor schwarz](https://www.a
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01FJLA9IM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01FJLA9IM/?tag=tolees0ca-21)

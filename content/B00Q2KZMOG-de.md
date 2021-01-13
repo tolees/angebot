@@ -26,4 +26,4 @@ Es gibt ein [AWA - Sydney – Chrom - Waschtischarmatur – RED DOT 2015](https:
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00Q2KZMOG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00Q2KZMOG/?tag=tolees0ca-21)

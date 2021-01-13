@@ -26,4 +26,4 @@ Es gibt ein [Ultimate Ears Megaboom 3 Bluetooth Lautsprecher  Wasserdichter 360�
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07G6MYMKD/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07G6MYMKD/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [ara München Gore Tex  Damen Warm gefütterte Schneestiefel  Braun 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00CBSCA52/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00CBSCA52/?tag=tolees0ca-21)

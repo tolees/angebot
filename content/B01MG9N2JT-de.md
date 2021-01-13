@@ -26,4 +26,4 @@ Es gibt ein [Sharp R760S 2-in-1 Flatbed Mikrowelle mit Grill / 23 L / 900 W / 10
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01MG9N2JT/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MG9N2JT/?tag=tolees0ca-21)

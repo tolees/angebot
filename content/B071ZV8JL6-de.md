@@ -26,4 +26,4 @@ Es gibt ein [Terminator 5 - Genisys   4K Ultra HD   + Blu-ray ](https://www.amaz
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B071ZV8JL6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B071ZV8JL6/?tag=tolees0ca-21)

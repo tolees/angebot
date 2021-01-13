@@ -26,4 +26,4 @@ Es gibt ein [Ankermann Business Work Silent leise PC PC Intel CPU 2X 2.70 Ghz du
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07L72YFLS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07L72YFLS/?tag=tolees0ca-21)

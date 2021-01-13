@@ -26,4 +26,4 @@ Es gibt ein [Leifheit Standtrockner Classic 250 Flex  individuell einstellbarer 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00VQBEGCU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00VQBEGCU/?tag=tolees0ca-21)

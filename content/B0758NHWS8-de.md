@@ -26,4 +26,4 @@ Es gibt ein [SanDisk Ultra 256GB MicroSDXC Speicherkarte + SD-Adapter mit A1 App
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0758NHWS8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0758NHWS8/?tag=tolees0ca-21)

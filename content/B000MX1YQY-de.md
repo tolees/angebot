@@ -26,4 +26,4 @@ Sie können [Casio Collection Unisex-Armbanduhr DB 36 1AVEF](https://www.amazon.
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B000MX1YQY/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B000MX1YQY/?tag=tolees0ca-21)

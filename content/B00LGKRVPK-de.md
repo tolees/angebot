@@ -26,4 +26,4 @@ Es gibt ein [Bosch 3tlg. Starter Set Fliesen für Multifunktionswerkzeuge Starlo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00LGKRVPK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00LGKRVPK/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Gigabyte GeForce GTX 1060 GV-N1060WF2OC-6GDGrafikkarte schwarz](htt
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01LZ2TDZO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01LZ2TDZO/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Original HTC Micro USB Ladekabel für HTC One M7 M8 M9 Smartphone 1
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B016V6XOMC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B016V6XOMC/?tag=tolees0ca-21)

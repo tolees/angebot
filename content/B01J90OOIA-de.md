@@ -26,4 +26,4 @@ Es gibt ein [Fire 7-Tablet  16 GB  Schwarz  mit Spezialangeboten  vorherige Gene
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01J90OOIA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01J90OOIA/?tag=tolees0ca-21)

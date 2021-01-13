@@ -26,4 +26,4 @@ Sie können [LG 34UM88C-P 86 36 cm  34 Zoll  21:9 UltraWide QHD IPS Monitor  AMD
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01CKLTE3U/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01CKLTE3U/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [SEVERIN DK 1042 Doppel-Kochplatte  2 Massekochfelder  1x Ø 15 5 cm
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B007HMQM6K/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B007HMQM6K/?tag=tolees0ca-21)

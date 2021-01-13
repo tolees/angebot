@@ -26,4 +26,4 @@ Sie können [Devolo dLAN pro 1200 DINrail Powerline Hutschienenadapter](https://
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B014GTG3UG/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B014GTG3UG/?tag=tolees0ca-21)

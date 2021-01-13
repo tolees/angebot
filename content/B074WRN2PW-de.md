@@ -26,4 +26,4 @@ Es gibt ein [Die Sims 4 - Hunde & Katzen Edition DLC [PC Download – Origin Cod
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B074WRN2PW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B074WRN2PW/?tag=tolees0ca-21)

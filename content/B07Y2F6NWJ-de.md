@@ -26,4 +26,4 @@ Es gibt ein [Microsoft Surface Pro X  13 Zoll 2-in-1 Tablet  Microsoft SQ1  16GB
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07Y2F6NWJ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07Y2F6NWJ/?tag=tolees0ca-21)

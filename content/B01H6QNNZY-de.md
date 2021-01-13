@@ -26,4 +26,4 @@ Es gibt ein [Kitchenaid 5KSMPRA Optionales Zubehör  für alle KitchenAid Dreite
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01H6QNNZY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01H6QNNZY/?tag=tolees0ca-21)

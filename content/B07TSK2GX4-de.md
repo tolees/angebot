@@ -26,4 +26,4 @@ Es gibt ein [Yazubi Cargo Hose Männer Jayden - Schwarze Lange Cargohose Herren 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07TSK2GX4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07TSK2GX4/?tag=tolees0ca-21)

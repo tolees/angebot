@@ -26,4 +26,4 @@ Sie können [Panasonic TX-43FSW504 43 Zoll/108 cm Smart TV  TV LED Backlight  Fu
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07CP9ND9M/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07CP9ND9M/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Hama Euro-Netzkabel 2-polig 1 5m  gerade  Eurostecker auf Doppelnut
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00006JAPR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00006JAPR/?tag=tolees0ca-21)

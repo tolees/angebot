@@ -26,4 +26,4 @@ Es gibt ein [Leibniz Pick Up Choco  100 Stück   1er Pack  1 x 2.8 kg ](https://
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00T78LYQK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00T78LYQK/?tag=tolees0ca-21)

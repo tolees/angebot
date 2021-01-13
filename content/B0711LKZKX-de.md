@@ -26,4 +26,4 @@ Sie können [Withings Steel HR Hybrid Smartwatch - Fitnessuhr mit Herzfrequenz u
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0711LKZKX/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0711LKZKX/?tag=tolees0ca-21)

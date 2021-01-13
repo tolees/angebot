@@ -26,4 +26,4 @@ Es gibt ein [Bluetooth Headset 0.3 Unzen Wasserdicht Dual CVC 8.0 Rauschunterdr�
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07V3G34ZH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07V3G34ZH/?tag=tolees0ca-21)

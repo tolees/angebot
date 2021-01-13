@@ -26,4 +26,4 @@ Sie können [SanDisk Ultra Flair 32GB USB-Flash-Laufwerk USB 3.0 mit bis zu 150 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B015CH1JIW/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B015CH1JIW/?tag=tolees0ca-21)

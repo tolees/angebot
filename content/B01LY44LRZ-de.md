@@ -26,4 +26,4 @@ Es gibt ein [PLAYMOBIL Ghostbusters 9222 Slimer mit Hot Dog Stand  Ab 6 Jahren](
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01LY44LRZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01LY44LRZ/?tag=tolees0ca-21)

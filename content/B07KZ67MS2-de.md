@@ -26,4 +26,4 @@ Es gibt ein [LG 32QK500-W 80 01 cm  31 5 Zoll  Monitor  WQHD  AMD Radeon FreeSyn
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KZ67MS2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KZ67MS2/?tag=tolees0ca-21)

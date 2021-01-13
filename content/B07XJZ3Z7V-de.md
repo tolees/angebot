@@ -26,4 +26,4 @@ Sie können [LG PK5W Outdoor Bluetooth Lautsprecher mit Meridian Technologie Wei
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07XJZ3Z7V/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07XJZ3Z7V/?tag=tolees0ca-21)

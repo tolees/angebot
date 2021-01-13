@@ -26,4 +26,4 @@ Es gibt ein [REHYPE Herren Longsleeve Oversize Langarm T-Shirt O-Neck Raglan L-2
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B081QK6CXV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B081QK6CXV/?tag=tolees0ca-21)

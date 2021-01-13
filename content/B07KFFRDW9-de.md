@@ -26,4 +26,4 @@ Sie können [Aitsite Schneeflocke Multi-Tool 18-in-1 Tragbares Edelstahl-Multifu
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07KFFRDW9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07KFFRDW9/?tag=tolees0ca-21)

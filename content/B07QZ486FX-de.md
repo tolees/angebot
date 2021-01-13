@@ -26,4 +26,4 @@ Es gibt ein [HUAWEI Y5 2019 Dual SIM Smartphone  14  5 cm  5  71 Zoll   16GB ROM
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07QZ486FX/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07QZ486FX/?tag=tolees0ca-21)

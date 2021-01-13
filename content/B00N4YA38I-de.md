@@ -26,4 +26,4 @@ Es gibt ein [Technoline Miss Ticki Wecker  Bunt](https://www.amazon.de/dp/B00N4Y
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00N4YA38I/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00N4YA38I/?tag=tolees0ca-21)

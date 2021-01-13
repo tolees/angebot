@@ -26,4 +26,4 @@ Es gibt ein [ASOBEAGE Toilettenbürste WC-Bürste und Behälter Toilettenbürste
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07YWHC5T4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07YWHC5T4/?tag=tolees0ca-21)

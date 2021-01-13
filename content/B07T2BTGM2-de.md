@@ -26,4 +26,4 @@ Es gibt ein [Sennheiser GSP 670 Wireless Gaming Headset  7.1 Surround Sound  Noi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07T2BTGM2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07T2BTGM2/?tag=tolees0ca-21)

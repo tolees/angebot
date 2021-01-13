@@ -26,4 +26,4 @@ Sie können [BURG-WÄCHTER Digital-Multimeter  Spannungsmesser für elektrische 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06Y5YJNBL/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06Y5YJNBL/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [D-Link GO-SW-5G 5-Port Gigabit Easy Desktop Switch  10/100/1000 Mbi
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B009TZE41I/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B009TZE41I/?tag=tolees0ca-21)

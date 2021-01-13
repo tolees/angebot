@@ -26,4 +26,4 @@ Es gibt ein [Anita Comfort Damen Komfort Entlastungs Safina BH  Weiß  weiß   8
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00CTGNRRG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00CTGNRRG/?tag=tolees0ca-21)

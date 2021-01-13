@@ -26,4 +26,4 @@ Sie können [BaByliss C2000E BaByliss C2000E Smooth & Wave 2 in 1 Auto-Glätter 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07MBV6QB9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07MBV6QB9/?tag=tolees0ca-21)

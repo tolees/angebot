@@ -26,4 +26,4 @@ Es gibt ein [Leifheit Wandrollenhalter Parat Royal für 3 Rollen  Küchenrollenh
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000B8KYO8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000B8KYO8/?tag=tolees0ca-21)

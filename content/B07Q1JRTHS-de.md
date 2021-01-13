@@ -26,4 +26,4 @@ Sie können [Funko 42869 POP Vinyl: NFL: Cowboys-Amari Cooper  Home Jersey  Samm
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07Q1JRTHS/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07Q1JRTHS/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [normani 4 x Herren Retroshorts mit hohem Baumwollanteil und verschi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00TFNEOIC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00TFNEOIC/?tag=tolees0ca-21)

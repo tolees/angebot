@@ -26,4 +26,4 @@ Es gibt ein [JOYXEON Gummibänder Rund 120 pcs 6mm x 103mm  Gummikordel Nähen  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08GC1QJX4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08GC1QJX4/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Funko 36890 POP Vinyl: NBA: Bulls: Michael Jordan Sammelbares Spiel
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07KPSDWJJ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07KPSDWJJ/?tag=tolees0ca-21)

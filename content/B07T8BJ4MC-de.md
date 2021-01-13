@@ -26,4 +26,4 @@ Es gibt ein [Polaroid Originals OneStep 2 VF Camera - Coral](https://www.amazon.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07T8BJ4MC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07T8BJ4MC/?tag=tolees0ca-21)

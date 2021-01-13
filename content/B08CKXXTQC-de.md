@@ -26,4 +26,4 @@ Es gibt ein [LED Strips 20M HEERTTOGO LED Streifen RGB mit Bluetooth Musikalisch
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08CKXXTQC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08CKXXTQC/?tag=tolees0ca-21)

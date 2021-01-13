@@ -26,4 +26,4 @@ Sie können [Samsung Q60R 163 cm  65 Zoll  4K QLED Fernseher  Q HDR  Ultra HD  H
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07PFR3WL7/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07PFR3WL7/?tag=tolees0ca-21)

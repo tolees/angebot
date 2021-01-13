@@ -26,4 +26,4 @@ Es gibt ein [TONGJI Acryl Vitrine Mit Beleuchtungsset Kompatibel Mit Lego 42110 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07ZGLY6XK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07ZGLY6XK/?tag=tolees0ca-21)

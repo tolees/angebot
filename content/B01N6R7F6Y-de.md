@@ -26,4 +26,4 @@ Es gibt ein [Ankermann Silent Office Business PC PC Intel i5 4570 4x3.20GHz HD G
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01N6R7F6Y/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01N6R7F6Y/?tag=tolees0ca-21)

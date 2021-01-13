@@ -26,4 +26,4 @@ Sie können [DARLINGTON & Sohns 2X Classic Controller für Xbox mit Verlängerun
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B08F3PBNX1/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B08F3PBNX1/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Nitecore CU6 Taschenlampe  Schwarz  One Size](https://www.amazon.de
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00H4NKO70/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00H4NKO70/?tag=tolees0ca-21)

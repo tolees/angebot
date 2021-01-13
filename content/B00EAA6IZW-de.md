@@ -26,4 +26,4 @@ Es gibt ein [Rowenta CF4132 Multistyler Elite 14 In 1](https://www.amazon.de/dp/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00EAA6IZW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00EAA6IZW/?tag=tolees0ca-21)

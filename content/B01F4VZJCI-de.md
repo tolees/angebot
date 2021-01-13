@@ -26,4 +26,4 @@ Es gibt ein [HP PageWide 352dw Tintenstrahldrucker  Duplex  WLAN  Netzwerk  ePri
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01F4VZJCI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01F4VZJCI/?tag=tolees0ca-21)

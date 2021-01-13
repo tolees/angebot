@@ -26,4 +26,4 @@ Es gibt ein [LloydBP Displayport zum HDMI-Adapterkabel Mini-Dp zum HDMI-Kabel Mi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B082SDNDVC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B082SDNDVC/?tag=tolees0ca-21)

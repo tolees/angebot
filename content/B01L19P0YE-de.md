@@ -26,4 +26,4 @@ Es gibt ein [TomTom Touch Wechselarmband - Himmelblau  Größe S  geeignet für 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01L19P0YE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01L19P0YE/?tag=tolees0ca-21)

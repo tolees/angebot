@@ -26,4 +26,4 @@ Sie können [SanDisk Ultra 64GB microSDXC Speicherkarte + Adapter bis zu 100 MB/
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B073SB2L3C/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B073SB2L3C/?tag=tolees0ca-21)

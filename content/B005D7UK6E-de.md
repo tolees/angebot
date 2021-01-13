@@ -26,4 +26,4 @@ Es gibt ein [Bushmills Single Malt Irish Whiskey 10 Jahre  1 x 0.7 l ](https:/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B005D7UK6E/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B005D7UK6E/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [HP Pavilion Gaming 15-dk0206ng  15 6 Zoll / FHD IPS  Gaming Noteboo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07YF1R2FS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07YF1R2FS/?tag=tolees0ca-21)

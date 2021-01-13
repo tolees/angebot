@@ -26,4 +26,4 @@ Sie können [Omars Powerbank 10000mAh Externer Akku 3 Ausgänge 2 USB-A 9V/2A ma
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07H2JVQP9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07H2JVQP9/?tag=tolees0ca-21)

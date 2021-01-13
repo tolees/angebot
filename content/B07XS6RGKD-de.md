@@ -26,4 +26,4 @@ Es gibt ein [Lenovo Q24i-10 60 45 cm  23 8 Zoll Full HD IPS matt  Monitor  VGA  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07XS6RGKD/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07XS6RGKD/?tag=tolees0ca-21)

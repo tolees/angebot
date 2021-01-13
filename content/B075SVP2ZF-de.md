@@ -26,4 +26,4 @@ Es gibt ein [LEGO DC Super Heroes Mighty Micros: Supergirl vs. Brainiac 76094 Su
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B075SVP2ZF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B075SVP2ZF/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Tesoky Automatisch Desinfektionsspender Automatisk Sprühspender 35
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08BBYFCZT/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08BBYFCZT/?tag=tolees0ca-21)

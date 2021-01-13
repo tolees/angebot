@@ -26,4 +26,4 @@ Es gibt ein [Dark Grey/White](https://www.amazon.de/dp/B01GNP4Y70/?tag=tolees0ca
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01GNP4Y70/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01GNP4Y70/?tag=tolees0ca-21)

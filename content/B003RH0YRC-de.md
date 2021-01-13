@@ -26,4 +26,4 @@ Es gibt ein [Bullyland 12764 - Spielfigur  Walt Disney Toy Story 3  Rex  ca. 7 5
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B003RH0YRC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B003RH0YRC/?tag=tolees0ca-21)

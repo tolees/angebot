@@ -26,4 +26,4 @@ Es gibt ein [Jane s Journey - Die Lebensreise der Jane Goodall](https://www.amaz
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B004ASOQE4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B004ASOQE4/?tag=tolees0ca-21)

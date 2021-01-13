@@ -26,4 +26,4 @@ Sie können [Bosch Professional 18V System Akku Bohrhammer GBH 18V-20  max. Bohr
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07XCVSFJX/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07XCVSFJX/?tag=tolees0ca-21)

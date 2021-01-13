@@ -26,4 +26,4 @@ Sie können [Bose ® Companion 2 Serie III Multimedia Lautsprechersystem schwarz
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B00CL83JVQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B00CL83JVQ/?tag=tolees0ca-21)

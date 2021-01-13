@@ -26,4 +26,4 @@ Sie können [Salomon Herren XA PRO 3D GTX Traillaufschuhe  Schwarz  Black/Lime G
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07CZ9HSV9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07CZ9HSV9/?tag=tolees0ca-21)

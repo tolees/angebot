@@ -26,4 +26,4 @@ Sie können [KS Tools 911.8100 Hebeleisen-Satz  4-tlg.](https://www.amazon.de/dp
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B001NYXUKY/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B001NYXUKY/?tag=tolees0ca-21)

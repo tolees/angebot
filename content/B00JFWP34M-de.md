@@ -26,4 +26,4 @@ Es gibt ein [RÖSLE Frischhaltedeckel Ø 28 cm  Glas mit rundumlaufenden Silikon
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00JFWP34M/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00JFWP34M/?tag=tolees0ca-21)

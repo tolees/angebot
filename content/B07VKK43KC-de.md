@@ -26,4 +26,4 @@ Sie können [Aucma Küchenmaschine 1400W mit 6 2L Edelstahl-Rühlschüssel  Rüh
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07VKK43KC/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07VKK43KC/?tag=tolees0ca-21)

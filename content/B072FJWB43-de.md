@@ -26,4 +26,4 @@ Sie können [Bomann VS 3171 Kühlschrank / A++ / 144 cm / 103 kWh/Jahr /245 L K�
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B072FJWB43/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B072FJWB43/?tag=tolees0ca-21)

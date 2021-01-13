@@ -26,4 +26,4 @@ Sie können [Funko 22613 Actionfigur Games: Horizon Zero Dawn: Watcher  Multi](h
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B071XD33FK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B071XD33FK/?tag=tolees0ca-21)

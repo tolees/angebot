@@ -26,4 +26,4 @@ Es gibt ein [Varta V381 Knopfzelle  45mAh  1 Stück ](https://www.amazon.de/dp/B
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000EGWODQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000EGWODQ/?tag=tolees0ca-21)

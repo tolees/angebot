@@ -26,4 +26,4 @@ Es gibt ein [HyperX Impact DDR4 HX426S16IBK2/64 Arbeitsspeicher 2666MHz CL16 SOI
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08492TQGQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08492TQGQ/?tag=tolees0ca-21)

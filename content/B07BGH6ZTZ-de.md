@@ -26,4 +26,4 @@ Es gibt ein [Red Bull Energy Drink Kokos-Blaubeere Dosen Getränke White Edition
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07BGH6ZTZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07BGH6ZTZ/?tag=tolees0ca-21)

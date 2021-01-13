@@ -26,4 +26,4 @@ Sie können [Seagate Backup Plus HUB  6 TB  externe Festplatte mit 2-fach USB Hu
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01IAD5ZEE/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01IAD5ZEE/?tag=tolees0ca-21)

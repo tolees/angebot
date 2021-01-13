@@ -26,4 +26,4 @@ Es gibt ein [Noctua NM-AM4  CPU-Kühler-Montageset für Noctua CPU Kühler auf A
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01MTEFT52/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MTEFT52/?tag=tolees0ca-21)

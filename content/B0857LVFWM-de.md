@@ -26,4 +26,4 @@ Sie können [Lenovo Yoga Smart Tab 25 5 cm  10 1 Zoll  1920x1200  FHD  IPS  Touc
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0857LVFWM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0857LVFWM/?tag=tolees0ca-21)

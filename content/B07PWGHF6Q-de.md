@@ -26,4 +26,4 @@ Es gibt ein [HP 14-dk0008ng  14 Zoll / FHD IPS  Laptop  AMD Ryzen 7 3700U  8 GB 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PWGHF6Q/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PWGHF6Q/?tag=tolees0ca-21)

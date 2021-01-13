@@ -26,4 +26,4 @@ Sie können [De Longhi Toaster Icona Vintage CTOV2103.GR - 2-Schlitz-Toaster mit
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B00BLG3IOM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B00BLG3IOM/?tag=tolees0ca-21)

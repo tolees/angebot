@@ -26,4 +26,4 @@ Es gibt ein [Echo Show  Vorherige Generation - 1. Gen.   Zertifiziert und genera
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01BLTQ390/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01BLTQ390/?tag=tolees0ca-21)

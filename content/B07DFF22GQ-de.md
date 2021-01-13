@@ -26,4 +26,4 @@ Es gibt ein [Funko 34910 Game of Thrones: Ghost POP Schlüsselanhänger Figur  M
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07DFF22GQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07DFF22GQ/?tag=tolees0ca-21)

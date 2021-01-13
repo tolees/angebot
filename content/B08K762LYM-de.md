@@ -26,4 +26,4 @@ Es gibt ein [Aigital WLAN Repeater WLAN Verstärker Wireless Range Extender  300
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08K762LYM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08K762LYM/?tag=tolees0ca-21)

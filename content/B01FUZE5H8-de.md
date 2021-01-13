@@ -26,4 +26,4 @@ Es gibt ein [Netgear AC810-100EUS LTE Router/Mobiler WLAN Router  WiFi Hotspot  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01FUZE5H8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01FUZE5H8/?tag=tolees0ca-21)

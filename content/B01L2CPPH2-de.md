@@ -26,4 +26,4 @@ Es gibt ein [GoPro Pro 3 5-mm-Mikrofonadapter für HERO7 Black  HERO6 Black  HER
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01L2CPPH2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01L2CPPH2/?tag=tolees0ca-21)

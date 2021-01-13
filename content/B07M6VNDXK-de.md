@@ -26,4 +26,4 @@ Es gibt ein [YI Überwachungskamera Home IP Kamera 3 1080P Full HD mit Künstlic
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07M6VNDXK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07M6VNDXK/?tag=tolees0ca-21)

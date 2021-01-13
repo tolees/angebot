@@ -26,4 +26,4 @@ Es gibt ein [Logitech MX Anywhere 2S Kabellose Maus  Bluetooth und 2.4 GHz Verbi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B072BG9Z8W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B072BG9Z8W/?tag=tolees0ca-21)

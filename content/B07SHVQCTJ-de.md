@@ -26,4 +26,4 @@ Sie können [Philips Hue White and Color Ambiance GU10 LED Lampe Doppelpack 2er 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07SHVQCTJ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07SHVQCTJ/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [adidas Herren Terrex Swift R2 Mid GTX Trekking-& Wanderhalbschuhe  
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B073RHHX9D/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B073RHHX9D/?tag=tolees0ca-21)

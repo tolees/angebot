@@ -26,4 +26,4 @@ Es gibt ein [Funko POP Hey Arnold Gerald JOHANSSE](https://www.amazon.de/dp/B07J
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07J6NJPXF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07J6NJPXF/?tag=tolees0ca-21)

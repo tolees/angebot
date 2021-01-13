@@ -26,4 +26,4 @@ Sie können [1More E1026BT Stylish True Wireless In-Ear Headphones  Black](https
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07MJZTKHJ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07MJZTKHJ/?tag=tolees0ca-21)

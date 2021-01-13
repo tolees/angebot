@@ -26,4 +26,4 @@ Es gibt ein [SCIJOY IPX6 Wireless Bluetooth Lautsprecher Wasserdicht  16W Tragba
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07VNP96LG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07VNP96LG/?tag=tolees0ca-21)

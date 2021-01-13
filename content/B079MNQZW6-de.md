@@ -26,4 +26,4 @@ Es gibt ein [PLAYMOBIL Magic 9470 Suche nach dem Liebeskristall mit Leuchtkrista
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B079MNQZW6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B079MNQZW6/?tag=tolees0ca-21)

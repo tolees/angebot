@@ -26,4 +26,4 @@ Es gibt ein [GraviTrax 27611 Lift Spielzeug  bunt](https://www.amazon.de/dp/B07B
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07BLYRLZ4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07BLYRLZ4/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Tommy Hilfiger Damen Aila Slim Polo Ss Poloshirt  Blau  Desert Sky 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07VS6BLX6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07VS6BLX6/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Crucial Ballistix Sport LT BLS2K8G4D30AESBK 3000 MHz  DDR4  DRAM  D
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07MGPH9R9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07MGPH9R9/?tag=tolees0ca-21)

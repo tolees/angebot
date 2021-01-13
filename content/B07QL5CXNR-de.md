@@ -26,4 +26,4 @@ Sie können [Anker PowerPort+ Atom III Kompaktes 60W PIQ 3.0 & GaN Tech USB-C-Wa
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07QL5CXNR/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07QL5CXNR/?tag=tolees0ca-21)

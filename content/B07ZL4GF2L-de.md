@@ -26,4 +26,4 @@ Es gibt ein [Panasonic TX-39GW334 LED-TV 39 Zoll  98 cm   HD Fernseher  Triple T
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07ZL4GF2L/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07ZL4GF2L/?tag=tolees0ca-21)

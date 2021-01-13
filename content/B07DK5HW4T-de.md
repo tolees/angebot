@@ -26,4 +26,4 @@ Es gibt ein [✮ Barber Tools ✮ Rasiermesser mit austauschbarer Klingen. Mit 5
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07DK5HW4T/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07DK5HW4T/?tag=tolees0ca-21)

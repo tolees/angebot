@@ -26,4 +26,4 @@ Sie können [Lintelek Fitness Tracker Fitness Armband Fitness Uhr Schrittzähler
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07H5JH3C1/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07H5JH3C1/?tag=tolees0ca-21)

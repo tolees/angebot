@@ -26,4 +26,4 @@ Sie können [Kodak 32 GB Class 10 Microsd-Speicherkarte mit SD-Adapter](https://
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07CWRP99Q/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07CWRP99Q/?tag=tolees0ca-21)

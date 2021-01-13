@@ -26,4 +26,4 @@ Es gibt ein [Panasonic RP-HF410BE-W Bluetooth Kopfhörer  24 h Akkulaufzeit  Qui
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NNBQ8TL/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NNBQ8TL/?tag=tolees0ca-21)

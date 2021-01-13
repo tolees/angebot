@@ -26,4 +26,4 @@ Es gibt ein [FIFA 19 - Champions Edition - [Xbox One]](https://www.amazon.de/dp/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07DMJR9F2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07DMJR9F2/?tag=tolees0ca-21)

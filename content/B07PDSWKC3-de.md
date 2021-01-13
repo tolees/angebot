@@ -26,4 +26,4 @@ Sie können [HUAWEI Cover PU Case P30 Pro  Schwarz](https://www.amazon.de/dp/B07
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07PDSWKC3/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07PDSWKC3/?tag=tolees0ca-21)

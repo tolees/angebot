@@ -26,4 +26,4 @@ Es gibt ein [Sämtliche Sinfonien  Ga ](https://www.amazon.de/dp/B000AGL1A2/?tag
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000AGL1A2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000AGL1A2/?tag=tolees0ca-21)

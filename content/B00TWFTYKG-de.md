@@ -26,4 +26,4 @@ Es gibt ein [Pneumatic Power - der Pneumatik Spielzeug Bagger und 4 weitere Mode
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00TWFTYKG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00TWFTYKG/?tag=tolees0ca-21)

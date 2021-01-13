@@ -26,4 +26,4 @@ Es gibt ein [Anna [Blu-ray]](https://www.amazon.de/dp/B07TJKC8HV/?tag=tolees0ca-
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07TJKC8HV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07TJKC8HV/?tag=tolees0ca-21)

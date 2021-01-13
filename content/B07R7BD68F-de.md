@@ -26,4 +26,4 @@ Es gibt ein [LE-IDEA Drohne IDEA10 - Faltbare GPS Drohne mit 1080P 120° FPV WiF
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07R7BD68F/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07R7BD68F/?tag=tolees0ca-21)

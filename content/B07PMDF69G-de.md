@@ -26,4 +26,4 @@ Sie können [Samsung RU7179 147 cm  58 Zoll  LED Fernseher  Ultra HD  HDR  Tripl
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07PMDF69G/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07PMDF69G/?tag=tolees0ca-21)

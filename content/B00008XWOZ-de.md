@@ -26,4 +26,4 @@ Es gibt ein [WMF Pfannenwender Kunststoff 31 x 7 5 cm  Brat-/ Grillwender  spül
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00008XWOZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00008XWOZ/?tag=tolees0ca-21)

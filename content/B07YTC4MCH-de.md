@@ -26,4 +26,4 @@ Es gibt ein [Immer Ärger mit Sergeant Bilko [Blu-ray]](https://www.amazon.de/dp
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07YTC4MCH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07YTC4MCH/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Kepae Acryl Vitrine für Lego 42096 Technic Porsche 911 RSR  Durchs
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B083VZBRK6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B083VZBRK6/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Philips Audio Philips Bluetooth Soundbar HTL3310/10 TV Soundbar  Bl
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07YN61CQJ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07YN61CQJ/?tag=tolees0ca-21)

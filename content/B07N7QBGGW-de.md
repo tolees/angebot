@@ -26,4 +26,4 @@ Sie können [beyerdynamic Phonum Wireless Bluetooth Speakerphone Freisprecheinri
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07N7QBGGW/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07N7QBGGW/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Gorenje R6192FX Kühlschrank / A++ / Höhe 185 cm / Kühlen: 368 L 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00KX6H8K6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00KX6H8K6/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Glück](https://www.amazon.de/dp/B07XQXW4Z1/?tag=tolees0ca-21) mit 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07XQXW4Z1/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07XQXW4Z1/?tag=tolees0ca-21)

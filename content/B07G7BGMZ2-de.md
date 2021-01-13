@@ -26,4 +26,4 @@ Es gibt ein [Reishunger Digitaler Reiskocher & Dampfgarer Weiss mit Warmhaltefun
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07G7BGMZ2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07G7BGMZ2/?tag=tolees0ca-21)

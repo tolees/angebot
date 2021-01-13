@@ -26,4 +26,4 @@ Sie können [Fossil Smartwatch FTW1203](https://www.amazon.de/dp/B06VW38HC7/?tag
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06VW38HC7/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06VW38HC7/?tag=tolees0ca-21)

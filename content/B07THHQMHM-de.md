@@ -26,4 +26,4 @@ Sie können [Anker Wireless Charger PowerWave Ladepad  Kabelloses 7.5W Ladegerä
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07THHQMHM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07THHQMHM/?tag=tolees0ca-21)

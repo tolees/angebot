@@ -26,4 +26,4 @@ Sie können [Anki 000-00060 Cozmo Carry Case Transporttasche  Mehrfarbig](https:
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B073HTKFGV/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B073HTKFGV/?tag=tolees0ca-21)

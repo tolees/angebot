@@ -26,4 +26,4 @@ Es gibt ein [Gardena Classic Bewässerungsbrause: Gartenbrause zur Bewässerung 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00PNUCGAY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00PNUCGAY/?tag=tolees0ca-21)

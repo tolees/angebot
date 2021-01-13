@@ -26,4 +26,4 @@ Es gibt ein [Dis Dell Acc Soundbar AC511 0MN008](https://www.amazon.de/dp/B00DEJ
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00DEJXRAE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00DEJXRAE/?tag=tolees0ca-21)

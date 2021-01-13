@@ -26,4 +26,4 @@ Sie können [Acer TravelMate P2  TMP215-51-83MD  39 6 cm  15 6 Zoll Full-HD IPS 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07T5VLWX3/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07T5VLWX3/?tag=tolees0ca-21)

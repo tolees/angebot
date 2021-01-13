@@ -26,4 +26,4 @@ Sie können [SUUNTO 3 Fitness all black](https://www.amazon.de/dp/B07BDRNSB5/?ta
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07BDRNSB5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07BDRNSB5/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Spyderco Messer Para-Military 2 Black G-10 Plain  schwarz  One Size
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B004R0OUYG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B004R0OUYG/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [AmazonBasics USB 2.0-Druckerkabel A-Stecker auf B-Stecker  3 m](htt
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00NH13DV2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00NH13DV2/?tag=tolees0ca-21)

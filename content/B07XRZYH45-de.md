@@ -26,4 +26,4 @@ Sie können [Trust Gaming GXT 764 Glide-Flex XXL RGB Mauspad  Größe: 930x300x3
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07XRZYH45/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07XRZYH45/?tag=tolees0ca-21)

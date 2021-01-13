@@ -26,4 +26,4 @@ Es gibt ein [LIGHTAILING Licht-Set Für  Technic Ducati Panigale V4 R  Modell - 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08BLHCM4H/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08BLHCM4H/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [CHALA 200STK Klebstoff Applikatorspitzen Kleber Extender Applikator
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B088GPBNLL/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B088GPBNLL/?tag=tolees0ca-21)

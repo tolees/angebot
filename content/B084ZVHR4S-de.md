@@ -26,4 +26,4 @@ Es gibt ein [FOSSIL Watch FS5697](https://www.amazon.de/dp/B084ZVHR4S/?tag=tolee
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B084ZVHR4S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B084ZVHR4S/?tag=tolees0ca-21)

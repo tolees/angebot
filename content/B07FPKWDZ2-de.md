@@ -26,4 +26,4 @@ Es gibt ein [Ecco Damen FLOWTW Riemchensandalen  Schwarz  Black 1001   39 EU](ht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07FPKWDZ2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FPKWDZ2/?tag=tolees0ca-21)

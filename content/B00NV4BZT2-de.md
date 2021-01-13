@@ -26,4 +26,4 @@ Es gibt ein [Epson B11B223401 Perfection V800 Photo Scanner Flachbett-Scanner  6
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00NV4BZT2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00NV4BZT2/?tag=tolees0ca-21)

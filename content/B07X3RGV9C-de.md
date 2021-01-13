@@ -26,4 +26,4 @@ Sie können [NUBWO PS4 Headset Xbox one Stereo-Gaming-Kopfhörer mit Geräuschun
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07X3RGV9C/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07X3RGV9C/?tag=tolees0ca-21)

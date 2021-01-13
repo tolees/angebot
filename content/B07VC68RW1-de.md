@@ -26,4 +26,4 @@ Sie können [TP-Link 5-Port Desktop Switch  10/100/1000Mbit/S  Ls1005G|1.0|1|5 Y
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07VC68RW1/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07VC68RW1/?tag=tolees0ca-21)

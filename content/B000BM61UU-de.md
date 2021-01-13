@@ -26,4 +26,4 @@ Sie können [Revell Modellbausatz Flugzeug 1:144 - Airbus A380 Design New livery
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B000BM61UU/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B000BM61UU/?tag=tolees0ca-21)

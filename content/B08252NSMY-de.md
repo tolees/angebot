@@ -26,4 +26,4 @@ Es gibt ein [zxcvb Armario de vino Boca abajo Titular de copa de vino barra de i
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08252NSMY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08252NSMY/?tag=tolees0ca-21)

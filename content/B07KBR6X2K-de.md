@@ -26,4 +26,4 @@ Es gibt ein [The Verdict  Ltd. 2CD Box Set ](https://www.amazon.de/dp/B07KBR6X2K
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KBR6X2K/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KBR6X2K/?tag=tolees0ca-21)

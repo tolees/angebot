@@ -26,4 +26,4 @@ Sie können [GRIFEMA GRIFERÍA DE COCINA-G4002-2 | Küchenarmatur - Wasserhahn K
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07L75PLGL/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07L75PLGL/?tag=tolees0ca-21)

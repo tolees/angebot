@@ -26,4 +26,4 @@ Es gibt ein [Playmobil 70010 SuperSet Familiengarten  bunt](https://www.amazon.d
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07JMD4SK8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07JMD4SK8/?tag=tolees0ca-21)

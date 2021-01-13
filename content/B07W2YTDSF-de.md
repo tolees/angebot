@@ -26,4 +26,4 @@ Es gibt ein [Eddi Stachel Spiel für Kinder ab 4 Jahren](https://www.amazon.de/d
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07W2YTDSF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07W2YTDSF/?tag=tolees0ca-21)

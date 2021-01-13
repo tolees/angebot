@@ -26,4 +26,4 @@ Es gibt ein [Regal Raumteiler Raumtrenner Standregal | Weiß Dekor | 9 Fächer |
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01IBJ522W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01IBJ522W/?tag=tolees0ca-21)

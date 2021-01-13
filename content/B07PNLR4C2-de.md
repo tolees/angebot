@@ -26,4 +26,4 @@ Es gibt ein [L.O.L. Surprise! 64119E7C Furniture with Closet & Queen Bee - mehrf
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PNLR4C2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PNLR4C2/?tag=tolees0ca-21)

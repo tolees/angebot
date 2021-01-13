@@ -26,4 +26,4 @@ Es gibt ein [Tommy Jeans Damen TJW 3/4 Sleeve Drop Waist Dress Kleid  Rot  Red 0
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07N4W54WY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07N4W54WY/?tag=tolees0ca-21)

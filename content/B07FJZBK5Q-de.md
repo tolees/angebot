@@ -26,4 +26,4 @@ Sie können [Hasbro Beyblade Burst Original Precision Strike Launcher](https://w
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07FJZBK5Q/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07FJZBK5Q/?tag=tolees0ca-21)

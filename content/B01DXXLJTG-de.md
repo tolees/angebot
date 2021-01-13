@@ -26,4 +26,4 @@ Sie können [Metroid Prime: Federation Force [3DS]](https://www.amazon.de/dp/B01
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01DXXLJTG/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01DXXLJTG/?tag=tolees0ca-21)

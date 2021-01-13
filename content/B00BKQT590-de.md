@@ -26,4 +26,4 @@ Es gibt ein [Daniel Wellington Damen Analog Japanese Quartz Uhr mit Natoband Arm
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00BKQT590/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00BKQT590/?tag=tolees0ca-21)

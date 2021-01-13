@@ -26,4 +26,4 @@ Es gibt ein [Funko 37707 POP & Buddy Vinyl Men In Black Agent K & Neeble Sammelb
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KPT1H46/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KPT1H46/?tag=tolees0ca-21)

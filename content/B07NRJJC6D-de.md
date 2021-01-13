@@ -26,4 +26,4 @@ Es gibt ein [DERMATEST: SEHR GUT - TRUE NATURE® [1000 Stück] Zero Waste Bambus
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NRJJC6D/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NRJJC6D/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Tageslichtlampe  10000 Lux Tageslichtleuchte LED Lichtdusche Einste
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07XCK5PRM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07XCK5PRM/?tag=tolees0ca-21)

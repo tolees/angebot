@@ -26,4 +26,4 @@ Sie können [Xbox One X 1TB - Gears 5 Bundle](https://www.amazon.de/dp/B07VPD741
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07VPD741S/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07VPD741S/?tag=tolees0ca-21)

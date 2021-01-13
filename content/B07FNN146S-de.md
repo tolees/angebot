@@ -26,4 +26,4 @@ Es gibt ein [THE LEGO MOVIE 2 70820 LEGO Movie Maker](https://www.amazon.de/dp/B
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07FNN146S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FNN146S/?tag=tolees0ca-21)

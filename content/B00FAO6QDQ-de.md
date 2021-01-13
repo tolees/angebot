@@ -26,4 +26,4 @@ Es gibt ein [Cybex Silver Solution X  Autositz Gruppe 2/3  15-36 kg   ohne Isofi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00FAO6QDQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00FAO6QDQ/?tag=tolees0ca-21)

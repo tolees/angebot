@@ -26,4 +26,4 @@ Sie können [MONACOR WS-60 Mikrofon-Windschutz für Mikrofone schwarz](https://w
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B001PMNF9A/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B001PMNF9A/?tag=tolees0ca-21)

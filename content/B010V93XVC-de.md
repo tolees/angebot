@@ -26,4 +26,4 @@ Sie können [The Witcher 3: Wild Hunt - Game of the Year Edition - [Xbox One]](h
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B010V93XVC/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B010V93XVC/?tag=tolees0ca-21)

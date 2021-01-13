@@ -26,4 +26,4 @@ Es gibt ein [ghd max Styler  breites Glätteisen mit Keramik-Heiztechnologie](ht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07BHH2J4D/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07BHH2J4D/?tag=tolees0ca-21)

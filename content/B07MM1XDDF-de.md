@@ -26,4 +26,4 @@ Sie können [Lenovo IdeaPad 330s Laptop 35 56 cm  14 0 Zoll HD TN matt  Slim Not
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07MM1XDDF/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07MM1XDDF/?tag=tolees0ca-21)

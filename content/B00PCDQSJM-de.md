@@ -26,4 +26,4 @@ Es gibt ein [Sony Alpha 6000 Systemkamera  24 Megapixel  7 6 cm  3 Zoll  LCD Dis
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00PCDQSJM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00PCDQSJM/?tag=tolees0ca-21)

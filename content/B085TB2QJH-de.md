@@ -26,4 +26,4 @@ Es gibt ein [ColiCor Display Halterung DIY Vertikales Ständer für Lego Star Wa
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B085TB2QJH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B085TB2QJH/?tag=tolees0ca-21)

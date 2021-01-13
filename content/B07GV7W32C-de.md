@@ -26,4 +26,4 @@ Es gibt ein [ELEGOO Roboter Penguin Bot Zweibeiniger Roboter Baukasten Kompatibe
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07GV7W32C/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GV7W32C/?tag=tolees0ca-21)

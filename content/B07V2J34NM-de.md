@@ -26,4 +26,4 @@ Es gibt ein [Tommy Jeans Herren Causal Sneaker  Weiß  White Ybs   40 EU](https:
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07V2J34NM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07V2J34NM/?tag=tolees0ca-21)

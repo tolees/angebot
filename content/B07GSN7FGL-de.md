@@ -26,4 +26,4 @@ Sie können [Mattel GCY62 - Disney Pixar Toy Story 4 Minis Porzellinchen und Sku
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07GSN7FGL/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07GSN7FGL/?tag=tolees0ca-21)

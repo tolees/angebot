@@ -26,4 +26,4 @@ Es gibt ein [Sony BDV-N5200W 5.1 3D-DVD/Blu-ray Heimkinosystem  Bluetooth  WLAN 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00IO31B8K/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00IO31B8K/?tag=tolees0ca-21)

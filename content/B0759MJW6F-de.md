@@ -26,4 +26,4 @@ Es gibt ein [Funko 28034 64202 S1 No Actionfigur Mad Max: Fury Road: Furiosa  Mu
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0759MJW6F/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0759MJW6F/?tag=tolees0ca-21)

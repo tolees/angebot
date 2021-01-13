@@ -26,4 +26,4 @@ Sie können [Universal Niedertemperatur Aluminium Schweißstab mit Aluminium Flu
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07W4FYDB9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07W4FYDB9/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Lenovo L24q-10 60 45 cm  23 8 Zoll QHD IPS matt  Monitor  HDMI  Dis
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B072J2PLBK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B072J2PLBK/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [s.Oliver BLACK LABEL Damen 01.899.76.5561 Hose  Schwarz  Forever Bl
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07SWDG88G/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07SWDG88G/?tag=tolees0ca-21)

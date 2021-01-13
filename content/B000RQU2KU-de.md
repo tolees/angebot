@@ -26,4 +26,4 @@ Es gibt ein [Brennenstuhl Eco-Line  Steckdosenleiste 10-fach  Steckerleiste mit 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000RQU2KU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000RQU2KU/?tag=tolees0ca-21)

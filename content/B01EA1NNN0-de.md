@@ -26,4 +26,4 @@ Es gibt ein [Microsoft Office Home and Student 2016 | PC | Box](https://www.amaz
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01EA1NNN0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01EA1NNN0/?tag=tolees0ca-21)

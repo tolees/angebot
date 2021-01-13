@@ -26,4 +26,4 @@ Es gibt ein [Samsung Flip  LH55WM  LED Display Flipchart  139 7 cm  55 Zoll   we
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07918FCLR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07918FCLR/?tag=tolees0ca-21)

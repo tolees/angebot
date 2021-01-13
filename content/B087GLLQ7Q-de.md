@@ -26,4 +26,4 @@ Sie können [Telefunken XU55J521 139 cm / 55 Zoll Fernseher  Smart TV inkl. Prim
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B087GLLQ7Q/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B087GLLQ7Q/?tag=tolees0ca-21)

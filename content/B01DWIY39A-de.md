@@ -26,4 +26,4 @@ Sie können [Garmin Forerunner 735XT-GPS-Uhr  schwarz/grau  M  010-01614-06](htt
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01DWIY39A/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01DWIY39A/?tag=tolees0ca-21)

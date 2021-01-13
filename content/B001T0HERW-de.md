@@ -26,4 +26,4 @@ Es gibt ein [ABUS Schlüsseltresor KeyGarage 787 mit Zahlencode 463310](https://
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001T0HERW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001T0HERW/?tag=tolees0ca-21)

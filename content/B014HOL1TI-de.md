@@ -26,4 +26,4 @@ Sie können [Jumbo Spiele 12163 12163-Rubik s Cube-3x3](https://www.amazon.de/dp
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B014HOL1TI/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B014HOL1TI/?tag=tolees0ca-21)

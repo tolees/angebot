@@ -26,4 +26,4 @@ Sie können [G & G KF6000A oder KF3000A 0 1g - 6000g Präzisionswaage Küchenwaa
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01JOS8H3K/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01JOS8H3K/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Toyuugo Heizlüfter Keramik Heizstrahler 950W / 450W / 30W  3 Heizs
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07GYL2K34/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GYL2K34/?tag=tolees0ca-21)

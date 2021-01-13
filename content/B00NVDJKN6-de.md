@@ -26,4 +26,4 @@ Es gibt ein [LEGO Classic 10701 - Graue Bauplatte  Lernspielzeug](https://www.am
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00NVDJKN6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00NVDJKN6/?tag=tolees0ca-21)

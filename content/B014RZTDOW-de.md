@@ -26,4 +26,4 @@ Es gibt ein [Eizo EV2750-BK 68 5 cm  27 Zoll  Monitor  DVI-D  HDMI  USB 3.0  Dis
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B014RZTDOW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B014RZTDOW/?tag=tolees0ca-21)

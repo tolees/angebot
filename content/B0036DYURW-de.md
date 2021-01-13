@@ -26,4 +26,4 @@ Es gibt ein [NIKE Damen Sport-BH Victory Compression  Schwarz  Black/White _010 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0036DYURW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0036DYURW/?tag=tolees0ca-21)

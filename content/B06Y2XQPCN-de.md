@@ -26,4 +26,4 @@ Es gibt ein [New Balance Herren 574v2 Core Sneaker  Grau  Grau   46.5 EU](https:
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06Y2XQPCN/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06Y2XQPCN/?tag=tolees0ca-21)

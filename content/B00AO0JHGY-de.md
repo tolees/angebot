@@ -26,4 +26,4 @@ Es gibt ein [RoomMates 54161 Happi Raketenhunde](https://www.amazon.de/dp/B00AO0
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00AO0JHGY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00AO0JHGY/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [RAVPower USB Ladegerät 30W 3 Port USB Netzteil 5V/6A USB Stecker m
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B014QKKOQE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B014QKKOQE/?tag=tolees0ca-21)

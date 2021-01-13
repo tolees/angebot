@@ -26,4 +26,4 @@ Sie können [Samsung HW-R530 Soundbar  Bluetooth  Surround Ready - Kompatibel mi
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07PDHW9W5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07PDHW9W5/?tag=tolees0ca-21)

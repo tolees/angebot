@@ -26,4 +26,4 @@ Es gibt ein [Sony SRS-XB402M Bluetooth-Lautsprecher  EXTRA BASS  integriertes Am
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07RXVHL8W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07RXVHL8W/?tag=tolees0ca-21)

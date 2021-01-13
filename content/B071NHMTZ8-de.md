@@ -26,4 +26,4 @@ Es gibt ein [Funko 12381 POP Vinylfigur: My Hero Academia: All Might  Multi](htt
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B071NHMTZ8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B071NHMTZ8/?tag=tolees0ca-21)

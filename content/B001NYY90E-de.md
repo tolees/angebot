@@ -26,4 +26,4 @@ Es gibt ein [KS Tools 515.1124 1/2" Sechskant-Kraft-Stecknuss  lang  24mm](https
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001NYY90E/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001NYY90E/?tag=tolees0ca-21)

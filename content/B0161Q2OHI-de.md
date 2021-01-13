@@ -26,4 +26,4 @@ Es gibt ein [Beurer BC 57 Handgelenk-Blutdruckmessgerät  Medizinprodukt mit App
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0161Q2OHI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0161Q2OHI/?tag=tolees0ca-21)

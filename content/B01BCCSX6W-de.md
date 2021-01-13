@@ -26,4 +26,4 @@ Es gibt ein [B.K.Licht I schwenkbare LED Deckenleuchte I 6-flammiger Deckenspot 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01BCCSX6W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01BCCSX6W/?tag=tolees0ca-21)

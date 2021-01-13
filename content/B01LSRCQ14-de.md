@@ -26,4 +26,4 @@ Es gibt ein [LG 38UC99-W 95 25 cm  37 5 Zoll  Curved 21:9 UltraWide™ IPS Monit
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01LSRCQ14/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01LSRCQ14/?tag=tolees0ca-21)

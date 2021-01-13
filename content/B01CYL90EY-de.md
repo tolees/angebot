@@ -26,4 +26,4 @@ Es gibt ein [Sony MDR-XB650BT kabelloser Extra-Bass Kopfhörer  Bluetooth  NFC  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01CYL90EY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01CYL90EY/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [GoPro  HERO7  White  –  wasserdichte  digitale  Actionkamera  mit
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07GT7Q2Q2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GT7Q2Q2/?tag=tolees0ca-21)

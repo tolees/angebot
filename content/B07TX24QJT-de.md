@@ -26,4 +26,4 @@ Es gibt ein [Kompatibel für Samsung Galaxy A6 Plus 2018 Hülle Handyhülle Sams
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07TX24QJT/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07TX24QJT/?tag=tolees0ca-21)

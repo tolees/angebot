@@ -26,4 +26,4 @@ Sie können [MUSTANG Herren Slim Fit Oregon Tapered Jeans](https://www.amazon.de
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B078YL5TVN/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B078YL5TVN/?tag=tolees0ca-21)

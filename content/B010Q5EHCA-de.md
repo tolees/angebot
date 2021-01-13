@@ -26,4 +26,4 @@ Sie können [Panasonic H-FS1442AEKA LUMIX G Vario Stardzoom 14-42 mm F3.5-5.6 II
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B010Q5EHCA/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B010Q5EHCA/?tag=tolees0ca-21)

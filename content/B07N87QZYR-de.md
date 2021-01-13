@@ -26,4 +26,4 @@ Sie können [Fitbit Inspire und Inspire HR Print-Armbänder  Deko  Large](https:
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07N87QZYR/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07N87QZYR/?tag=tolees0ca-21)

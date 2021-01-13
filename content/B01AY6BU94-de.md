@@ -26,4 +26,4 @@ Es gibt ein [UGG W Classic Mini II  Damenstiefel  Schwarz  Black Blk   38 EU](ht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01AY6BU94/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01AY6BU94/?tag=tolees0ca-21)

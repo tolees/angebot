@@ -26,4 +26,4 @@ Es gibt ein [hansgrohe Crometta 85 Duschkopf  3 Strahlarten  Chrom](https://www.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B003ACHY6I/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B003ACHY6I/?tag=tolees0ca-21)

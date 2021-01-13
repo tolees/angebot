@@ -26,4 +26,4 @@ Sie können [Samsung Clear View Cover  EF-ZG985  für Galaxy S20+ | S20+ 5G  Bla
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B083LZGNGV/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B083LZGNGV/?tag=tolees0ca-21)

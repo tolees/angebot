@@ -26,4 +26,4 @@ Sie können [Bosch Professional  6tlg. Flachfräsbohrer-Set Self Cut Speed mit 1
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B000R5LQWO/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B000R5LQWO/?tag=tolees0ca-21)

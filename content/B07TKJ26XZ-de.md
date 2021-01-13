@@ -26,4 +26,4 @@ Es gibt ein [wolketon Fahrradschloss-Schloss 90cm lang Kettenschloss Stahl mit Z
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07TKJ26XZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07TKJ26XZ/?tag=tolees0ca-21)

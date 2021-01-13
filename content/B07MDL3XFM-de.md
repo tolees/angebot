@@ -26,4 +26,4 @@ Sie können [Seagate Backup Plus Portable  tragbare externe Festplatte  5 TB  2.
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07MDL3XFM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07MDL3XFM/?tag=tolees0ca-21)

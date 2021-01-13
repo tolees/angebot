@@ -26,4 +26,4 @@ Es gibt ein [Pop Trolls Teal Troll Vinyl Figure](https://www.amazon.de/dp/B07TVD
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07TVDQB4F/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07TVDQB4F/?tag=tolees0ca-21)

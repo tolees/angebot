@@ -26,4 +26,4 @@ Es gibt ein [caseable Kindle und Kindle Paperwhite Hülle  Ornate Elephant](http
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00PHEAIJC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00PHEAIJC/?tag=tolees0ca-21)

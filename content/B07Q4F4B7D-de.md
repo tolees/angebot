@@ -26,4 +26,4 @@ Sie können [Bose Home Speaker 300 mit integrierter Amazon Alexa-Sprachsteuerung
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07Q4F4B7D/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07Q4F4B7D/?tag=tolees0ca-21)

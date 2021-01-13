@@ -26,4 +26,4 @@ Es gibt ein [Belkin Thunderbolt 3 Mini-Dock mit Integriertem Thunderbolt 3-Kabel
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07R5CB6HY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07R5CB6HY/?tag=tolees0ca-21)

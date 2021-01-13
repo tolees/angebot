@@ -26,4 +26,4 @@ Es gibt ein [Tablet 10 Zoll LNMBBS P30 Android 10.0 5G Wi-Fi Tablet Octa-Core  6
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07X2X32TM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07X2X32TM/?tag=tolees0ca-21)

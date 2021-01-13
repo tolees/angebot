@@ -26,4 +26,4 @@ Sie können [Funko 28888 No Actionfigur Game of Thrones: S8 Daenerys  Weiß Coat
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B079THSRRV/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B079THSRRV/?tag=tolees0ca-21)

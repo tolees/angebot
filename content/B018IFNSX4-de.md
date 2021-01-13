@@ -26,4 +26,4 @@ Es gibt ein [Elvie Trainer - Der preisgekrönte Beckenbodentrainer mit Biofeedba
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B018IFNSX4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B018IFNSX4/?tag=tolees0ca-21)

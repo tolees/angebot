@@ -26,4 +26,4 @@ Es gibt ein [Dremel Platin Edition 4000 Multifunktionswerkzeug 175W  Set mit 4 V
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B014UXZMEG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B014UXZMEG/?tag=tolees0ca-21)

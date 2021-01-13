@@ -26,4 +26,4 @@ Sie können [Dadanism Hülle für Der Neue Kindle  10. Generation - 2019   Auto 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07Q4SBW81/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07Q4SBW81/?tag=tolees0ca-21)

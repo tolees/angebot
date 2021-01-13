@@ -26,4 +26,4 @@ Es gibt ein [GoPro Schutzgehäuse für HERO8 Black  Offizielles GoPro Zubehör ]
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07WNS2ZB8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07WNS2ZB8/?tag=tolees0ca-21)

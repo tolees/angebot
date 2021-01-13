@@ -26,4 +26,4 @@ Es gibt ein [Swarovski Attract runden Ring  Weiß  rhodiniert  Gr. 52](https://w
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B078XN6KQC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B078XN6KQC/?tag=tolees0ca-21)

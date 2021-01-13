@@ -26,4 +26,4 @@ Sie können [Maladjusted  Expanded Edition ](https://www.amazon.de/dp/B001VFY7MU
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B001VFY7MU/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B001VFY7MU/?tag=tolees0ca-21)

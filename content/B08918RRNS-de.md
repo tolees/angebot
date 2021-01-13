@@ -26,4 +26,4 @@ Es gibt ein [Casiwaft 14er Set Vinylfolie Heat Transfer Glitzer Transferfolie Vi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08918RRNS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08918RRNS/?tag=tolees0ca-21)

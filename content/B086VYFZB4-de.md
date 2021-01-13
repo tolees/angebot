@@ -26,4 +26,4 @@ Es gibt ein [PARIO Display Halterung DIY Bauspiel MOC Ständer für Lego 75257 S
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B086VYFZB4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B086VYFZB4/?tag=tolees0ca-21)

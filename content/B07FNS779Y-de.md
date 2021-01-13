@@ -26,4 +26,4 @@ Sie können [Pop Marvel Studios 10 Black Panther Vinyl Figure](https://www.amazo
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07FNS779Y/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07FNS779Y/?tag=tolees0ca-21)

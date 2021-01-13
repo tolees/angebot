@@ -26,4 +26,4 @@ Sie können [Aigostar Handrührer Klein Edelstahl Quir 6 Geschwindigkeitsstufen 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07L9RJ1LL/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07L9RJ1LL/?tag=tolees0ca-21)

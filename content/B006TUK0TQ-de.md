@@ -26,4 +26,4 @@ Es gibt ein [Triumph Damen BH  Push-up   Body Make-Up WHU  Beige  Smooth Skin  5
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B006TUK0TQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B006TUK0TQ/?tag=tolees0ca-21)

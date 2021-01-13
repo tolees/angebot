@@ -26,4 +26,4 @@ Es gibt ein [Lacoste Herren-Armbanduhr - 2010901](https://www.amazon.de/dp/B01NA
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01NAPUJ8F/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01NAPUJ8F/?tag=tolees0ca-21)

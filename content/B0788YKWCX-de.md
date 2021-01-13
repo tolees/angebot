@@ -26,4 +26,4 @@ Es gibt ein [PORSCHE Carrera-Rennmotor: 4-Zylinder Boxermodell vom Typ 547 | Car
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0788YKWCX/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0788YKWCX/?tag=tolees0ca-21)

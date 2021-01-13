@@ -26,4 +26,4 @@ Es gibt ein [De Longhi Nespresso Vertuo Plus | ENV 155.B Kaffeekapselmaschine | 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07CMW58WR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07CMW58WR/?tag=tolees0ca-21)

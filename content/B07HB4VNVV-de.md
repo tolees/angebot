@@ -26,4 +26,4 @@ Es gibt ein [Funko 36391 POP Vinyl: Lion King: Mufasa  Multi Sammelbares Spielze
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07HB4VNVV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HB4VNVV/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Graef CH502EU Zerkleinerer  Glas](https://www.amazon.de/dp/B07MVHJ6
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07MVHJ6JN/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MVHJ6JN/?tag=tolees0ca-21)

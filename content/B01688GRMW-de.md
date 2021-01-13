@@ -26,4 +26,4 @@ Es gibt ein [Friedrich|23  Schmuckkoffer  Leder  22 4 x 16 x 14 8 cm  Rechteckig
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01688GRMW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01688GRMW/?tag=tolees0ca-21)

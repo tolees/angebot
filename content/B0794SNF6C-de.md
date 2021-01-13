@@ -26,4 +26,4 @@ Es gibt ein [Fire HD 8 Kids Edition-Tablet  8-Zoll-HD-Display  32 GB  blaue 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0794SNF6C/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0794SNF6C/?tag=tolees0ca-21)

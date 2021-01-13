@@ -26,4 +26,4 @@ Es gibt ein [London Has Fallen](https://www.amazon.de/dp/B01BUVUO4O/?tag=tolees0
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01BUVUO4O/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01BUVUO4O/?tag=tolees0ca-21)

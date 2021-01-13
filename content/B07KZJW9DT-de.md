@@ -26,4 +26,4 @@ Sie können [Fire 7-Tablet  Zertifiziert und generalüberholt  7-Zoll-Display 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07KZJW9DT/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07KZJW9DT/?tag=tolees0ca-21)

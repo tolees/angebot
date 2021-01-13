@@ -26,4 +26,4 @@ Es gibt ein [MSI GS65 9SE-461 Stealth  39 6 cm/15 6 Zoll/240Hz  Gaming-Notebook 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07QKZZZH8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07QKZZZH8/?tag=tolees0ca-21)

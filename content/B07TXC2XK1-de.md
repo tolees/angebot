@@ -26,4 +26,4 @@ Sie können [Laptop 14.1 Zoll TECLAST F7PLUS Ultrabook Intel Celeron N4100  8GB 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07TXC2XK1/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07TXC2XK1/?tag=tolees0ca-21)

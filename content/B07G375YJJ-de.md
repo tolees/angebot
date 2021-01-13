@@ -26,4 +26,4 @@ Sie können [JFUME Herren Magnet Armband aus Edelstahl Männer mit Link Remove T
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07G375YJJ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07G375YJJ/?tag=tolees0ca-21)

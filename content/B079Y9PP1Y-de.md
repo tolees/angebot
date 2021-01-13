@@ -26,4 +26,4 @@ Sie können [Funko 30682 Actionfigur Marvel Spider-Man-Mary Jane mit Plush  Mult
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B079Y9PP1Y/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B079Y9PP1Y/?tag=tolees0ca-21)

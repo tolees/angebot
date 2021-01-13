@@ -26,4 +26,4 @@ Es gibt ein [Philips Hue White E27 LED Lampe Einzelpack  dimmbar  warmweißes Li
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07SV88LGC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07SV88LGC/?tag=tolees0ca-21)

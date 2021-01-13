@@ -26,4 +26,4 @@ Sie können [Beurer PO 40 Pulsoximeter  Ermittlung der arteriellen Sauerstoffsä
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B013JRKRSU/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B013JRKRSU/?tag=tolees0ca-21)

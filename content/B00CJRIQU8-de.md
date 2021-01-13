@@ -26,4 +26,4 @@ Es gibt ein [Keter Gerätehaus Manor 6x8 DD  Grau  7 6 m³](https://www.amazon.d
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00CJRIQU8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00CJRIQU8/?tag=tolees0ca-21)

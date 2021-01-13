@@ -26,4 +26,4 @@ Sie können [Portable Monitor - Corprit 15 6 Zoll Tragbarer Monitor 1920X1080 Fu
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B089LNM5HP/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B089LNM5HP/?tag=tolees0ca-21)

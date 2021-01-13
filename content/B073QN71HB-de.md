@@ -26,4 +26,4 @@ Sie können [Notebook ES1-732 - 500GB SSD - 8GB RAM - Windows 10 PRO - 44cm  17.
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B073QN71HB/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B073QN71HB/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Der Patriot - Extended Version](https://www.amazon.de/dp/B000E8RB5K
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B000E8RB5K/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B000E8RB5K/?tag=tolees0ca-21)

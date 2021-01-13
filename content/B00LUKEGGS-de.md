@@ -26,4 +26,4 @@ Es gibt ein [WOFI Wandleuchte  1-flammig  Serie Avignon  1 x LED  6.6 W  Höhe 4
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00LUKEGGS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00LUKEGGS/?tag=tolees0ca-21)

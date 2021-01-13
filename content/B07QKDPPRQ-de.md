@@ -26,4 +26,4 @@ Sie können [Queta 5 Stück Zehennagel-Tools-Kit  eingewachsene Zehennagelentfer
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07QKDPPRQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07QKDPPRQ/?tag=tolees0ca-21)

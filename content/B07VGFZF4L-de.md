@@ -26,4 +26,4 @@ Es gibt ein [BERTASCHE Laptoptasche 15.6 Zoll Notebooktasche Schulter Tasche fü
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07VGFZF4L/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07VGFZF4L/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Kopfhörer Kabellos Bluetooth Kopfhor Noise Cancelling Kopfhörer f
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B08BHPXMX3/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B08BHPXMX3/?tag=tolees0ca-21)

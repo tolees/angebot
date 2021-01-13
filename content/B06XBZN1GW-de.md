@@ -26,4 +26,4 @@ Sie können [Panasonic DMR-UBS90EGK Ultra HD Blu-ray Recorder  2TB HDD  4K Blu-r
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06XBZN1GW/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06XBZN1GW/?tag=tolees0ca-21)

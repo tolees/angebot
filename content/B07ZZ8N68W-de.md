@@ -26,4 +26,4 @@ Es gibt ein [Pegasus Spiele 51223G  Kitchen Rush](https://www.amazon.de/dp/B07ZZ
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07ZZ8N68W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07ZZ8N68W/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Samsung MB-ME128GA/EU EVO Select 128 GB microSDXC UHS-I U3 Speicher
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07CY5JGWJ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07CY5JGWJ/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [TuToy 64 Cm Lange Kurze Dehnbare Schuhlöffel Edelstahl Metall Schu
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B082D5M6GZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B082D5M6GZ/?tag=tolees0ca-21)

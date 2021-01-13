@@ -26,4 +26,4 @@ Es gibt ein [Plantronics APU-76 EHS Modul für Mitel/Cisco/Softphones/PC Nutzung
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07GC6PFYD/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GC6PFYD/?tag=tolees0ca-21)

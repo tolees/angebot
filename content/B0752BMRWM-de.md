@@ -26,4 +26,4 @@ Es gibt ein [Swarovski Angelic Square Set  weiss  Rhodiniert](https://www.amazon
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0752BMRWM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0752BMRWM/?tag=tolees0ca-21)

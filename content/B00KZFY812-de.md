@@ -26,4 +26,4 @@ Es gibt ein [Dragonball Z 3991 Dragonball No POP Vinylfigur Vegeta  Multi](https
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00KZFY812/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00KZFY812/?tag=tolees0ca-21)

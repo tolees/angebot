@@ -26,4 +26,4 @@ Es gibt ein [WC Sitz  MUJIUSHI Toilettendeckel Oval Klodeckel mit Quick-Release-
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B082TXMMCP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B082TXMMCP/?tag=tolees0ca-21)

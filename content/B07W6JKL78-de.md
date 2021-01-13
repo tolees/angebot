@@ -26,4 +26,4 @@ Es gibt ein [Logitech G604 LIGHTSPEED kabellose Gaming-Maus mit 15 programmierba
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07W6JKL78/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07W6JKL78/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Bosch S4005 Autobatterie Starter 60Ah 12V 540A](https://www.amazon.
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B005XVU99I/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B005XVU99I/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [GHT HDMI KVM Switch USB 2 Port Umschalter 4K 4K @ 30Hz  2 PC 1 Moni
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07MNBM8TJ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MNBM8TJ/?tag=tolees0ca-21)

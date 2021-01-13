@@ -26,4 +26,4 @@ Es gibt ein [Replay Herren Anbass Slim Jeans  Blau  Mid Blue 9   W30/L32](https:
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B075M8V4FN/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B075M8V4FN/?tag=tolees0ca-21)

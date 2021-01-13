@@ -26,4 +26,4 @@ Es gibt ein [Logitech Harmony Companion Universalfernbedienung schwarz](https://
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B014GXQ3S4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B014GXQ3S4/?tag=tolees0ca-21)

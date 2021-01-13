@@ -26,4 +26,4 @@ Es gibt ein [PNY Quadro RTX 4000 8 GB GDDR6](https://www.amazon.de/dp/B07L5D2VY6
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07L5D2VY6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07L5D2VY6/?tag=tolees0ca-21)

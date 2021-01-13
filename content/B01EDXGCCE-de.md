@@ -26,4 +26,4 @@ Sie können [Acer K272HLEbid 69 cm  27 Zoll Full HD  Monitor  VGA  DVI  HDMI  4m
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01EDXGCCE/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01EDXGCCE/?tag=tolees0ca-21)

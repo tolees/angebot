@@ -26,4 +26,4 @@ Es gibt ein [Neff TPT5960X /T59PT60X0 / Autarkes Kochfeld / Induktion / 90cm / T
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B016IGTWGW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B016IGTWGW/?tag=tolees0ca-21)

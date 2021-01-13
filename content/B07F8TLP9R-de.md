@@ -26,4 +26,4 @@ Sie können [Huawei MateBook X Pro 35 31 cm  13 9 Zoll 3K-FullView-Touchscreen-D
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07F8TLP9R/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07F8TLP9R/?tag=tolees0ca-21)

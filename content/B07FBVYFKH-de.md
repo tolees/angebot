@@ -26,4 +26,4 @@ Sie können [Corsair CMK16GX4M2Z3600C18 Vengeance LPX 16GB  2x8GB  DDR4 3600MHz 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07FBVYFKH/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07FBVYFKH/?tag=tolees0ca-21)

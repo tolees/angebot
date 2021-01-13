@@ -26,4 +26,4 @@ Es gibt ein [Chopard Wish Duschgel  150 ml](https://www.amazon.de/dp/B000NRLXWO/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000NRLXWO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000NRLXWO/?tag=tolees0ca-21)

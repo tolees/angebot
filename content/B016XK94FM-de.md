@@ -26,4 +26,4 @@ Es gibt ein [Netgear GS308P 8-Port Gigabit Ethernet LAN PoE Switch Unmanaged  mi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B016XK94FM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B016XK94FM/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Hasbro B5286ES2 Disney Prinzessin Schimmerglanz Rapunzel](https://w
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B017HASEG2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B017HASEG2/?tag=tolees0ca-21)

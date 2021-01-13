@@ -26,4 +26,4 @@ Es gibt ein [The Complete Legendary 1938 Carnegie Hall Concert](https://www.amaz
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00CSQMBX8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00CSQMBX8/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Pedea Laptoptasche Trendline Umhängetasche Messenger Bag 13 3/15 6
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0072NWC7W/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0072NWC7W/?tag=tolees0ca-21)

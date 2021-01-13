@@ -26,4 +26,4 @@ Es gibt ein [Swiss Military Hanowa Herren Analog Quarz Uhr mit Edelstahl Armband
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B078HFBGWP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B078HFBGWP/?tag=tolees0ca-21)

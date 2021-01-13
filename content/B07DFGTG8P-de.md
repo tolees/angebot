@@ -26,4 +26,4 @@ Es gibt ein [Funko 33877 The Simpsons: Lisa w/Saxophone POP Vinylfigur  Multi](h
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07DFGTG8P/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07DFGTG8P/?tag=tolees0ca-21)

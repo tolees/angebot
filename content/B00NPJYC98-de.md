@@ -26,4 +26,4 @@ Es gibt ein [The Polydor Years 1986-1992  Ltd Edt Boxset ](https://www.amazon.de
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00NPJYC98/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00NPJYC98/?tag=tolees0ca-21)

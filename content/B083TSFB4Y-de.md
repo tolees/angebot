@@ -26,4 +26,4 @@ Es gibt ein [Crucial Ballistix BL2K8G26C16U4W 2666 MHz  DDR4  DRAM  Desktop Gami
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B083TSFB4Y/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B083TSFB4Y/?tag=tolees0ca-21)

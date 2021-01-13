@@ -26,4 +26,4 @@ Es gibt ein [Samsung Clear View Cover EF-ZN975 für Galaxy Note 10+  White](http
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07V9JCC78/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07V9JCC78/?tag=tolees0ca-21)

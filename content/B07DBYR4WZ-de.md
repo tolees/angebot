@@ -26,4 +26,4 @@ Es gibt ein [PUMA Damen Vikky v2 Sneaker  Grau  Silver Gray-White Silver   40 EU
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07DBYR4WZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07DBYR4WZ/?tag=tolees0ca-21)

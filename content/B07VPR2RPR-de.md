@@ -26,4 +26,4 @@ Es gibt ein [Tommy Jeans Damen Tjw Sleeve Detail Logo Tee T-Shirt  Schwarz  Blac
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07VPR2RPR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07VPR2RPR/?tag=tolees0ca-21)

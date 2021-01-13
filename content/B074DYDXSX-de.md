@@ -26,4 +26,4 @@ Es gibt ein [WD My Cloud Home Duo 12 TB Persönlicher Cloudspeicher - externe Fe
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B074DYDXSX/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B074DYDXSX/?tag=tolees0ca-21)

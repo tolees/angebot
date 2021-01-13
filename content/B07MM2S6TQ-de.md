@@ -26,4 +26,4 @@ Es gibt ein [Huawei Y7 2019 Dual-SIM Smartphone 15 9 cm  6 26 Zoll   4000mAh Akk
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07MM2S6TQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MM2S6TQ/?tag=tolees0ca-21)

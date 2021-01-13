@@ -26,4 +26,4 @@ Sie können [Samsung Galaxy Fit  Fitnesstracker  silber  mit Bluetooth  Farbdisp
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07NQ8PZ3N/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07NQ8PZ3N/?tag=tolees0ca-21)

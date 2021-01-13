@@ -26,4 +26,4 @@ Sie können [LEDVANCE LED Wand- und Deckenleuchte  Leuchte für Außenanwendunge
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07V1CR9TW/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07V1CR9TW/?tag=tolees0ca-21)

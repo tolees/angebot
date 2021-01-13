@@ -26,4 +26,4 @@ Es gibt ein [Grundig MS 6240 Herrenrasierer](https://www.amazon.de/dp/B00GOMZS2S
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00GOMZS2S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00GOMZS2S/?tag=tolees0ca-21)

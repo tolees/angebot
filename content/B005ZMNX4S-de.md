@@ -26,4 +26,4 @@ Es gibt ein [WOLF-Garten - Elektro-Trimmer CAMPUS 350 RT; 41AC0UU-650](https://w
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B005ZMNX4S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B005ZMNX4S/?tag=tolees0ca-21)

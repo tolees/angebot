@@ -26,4 +26,4 @@ Es gibt ein [AmazonBasics HL-007318 Hochgeschwindigkeits-HDMI-Kabel  CL3-zertifi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B014I8TOTC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B014I8TOTC/?tag=tolees0ca-21)

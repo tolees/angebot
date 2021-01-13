@@ -26,4 +26,4 @@ Es gibt ein [Krups GVX242 Kaffeemühle Mahlwerk](https://www.amazon.de/dp/B000IW
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000IWHXH8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000IWHXH8/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [DXX Technik Bausteine Liebherr Kran LTM11200  7692Teile Kran LKW Te
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B083HSVR5D/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B083HSVR5D/?tag=tolees0ca-21)

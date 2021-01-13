@@ -26,4 +26,4 @@ Es gibt ein [BENECREAT 3mm 20m elastische Schnur  Schmuckherstellung Perlenschnu
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0754FZJNP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0754FZJNP/?tag=tolees0ca-21)

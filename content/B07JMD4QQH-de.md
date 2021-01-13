@@ -26,4 +26,4 @@ Es gibt ein [PLAYMOBIL Magic 70096 Beautysalon mit Perlenschatulle  Ab 4 Jahren]
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07JMD4QQH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07JMD4QQH/?tag=tolees0ca-21)

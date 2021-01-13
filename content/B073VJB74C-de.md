@@ -26,4 +26,4 @@ Es gibt ein [GAMEWAREZ Cosmic Lightning 2.0 Gaming Sitzsack  Made in Germany  f�
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B073VJB74C/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B073VJB74C/?tag=tolees0ca-21)

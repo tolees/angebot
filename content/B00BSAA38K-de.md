@@ -26,4 +26,4 @@ Es gibt ein [Bar Keepers Friend Allzweck Macht-Creme 350ml  1 x 1 x 1 cm](https:
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00BSAA38K/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00BSAA38K/?tag=tolees0ca-21)

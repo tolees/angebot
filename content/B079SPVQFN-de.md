@@ -26,4 +26,4 @@ Sie können [Philips FC6826/01 SpeedPro Max Kabelloser Staubsauger  mit Akku  36
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B079SPVQFN/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B079SPVQFN/?tag=tolees0ca-21)

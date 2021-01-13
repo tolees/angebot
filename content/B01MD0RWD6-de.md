@@ -26,4 +26,4 @@ Es gibt ein [Stranger Things Funko Pop! Vinyl Figur Demogorgon  9cm aus Kunststo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01MD0RWD6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MD0RWD6/?tag=tolees0ca-21)

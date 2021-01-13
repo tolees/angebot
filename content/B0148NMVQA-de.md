@@ -26,4 +26,4 @@ Es gibt ein [Philips Hue LightStrip+ Basis Set  ohne Bridge   2m  flexibel erwei
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0148NMVQA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0148NMVQA/?tag=tolees0ca-21)

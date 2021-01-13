@@ -26,4 +26,4 @@ Es gibt ein [Lego Wear Mädchen Lego Tec Boy LWJOSEFINE 716-Skijacke/Winterjacke
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KWL3B62/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KWL3B62/?tag=tolees0ca-21)

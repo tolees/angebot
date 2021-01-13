@@ -26,4 +26,4 @@ Es gibt ein [Bluetooth Kopfhörer In Ear  Wireless Noise Cancelling Earbuds Blue
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B083JCRG2C/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B083JCRG2C/?tag=tolees0ca-21)

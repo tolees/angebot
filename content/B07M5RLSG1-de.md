@@ -26,4 +26,4 @@ Sie können [Crucial Ballistix Sport LT BLS16G4D32AESB 3200 MHz  DDR4  DRAM  Des
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07M5RLSG1/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07M5RLSG1/?tag=tolees0ca-21)

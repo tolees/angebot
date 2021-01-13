@@ -26,4 +26,4 @@ Sie können [MIHUA 10m Gummiband ，Elastikkordel，Gummiband Rund，Weiches Gum
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B08CRM7NRN/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B08CRM7NRN/?tag=tolees0ca-21)

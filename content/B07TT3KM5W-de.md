@@ -26,4 +26,4 @@ Sie können [SZMDLX Bluetooth Adapter  Transmitter und Empfänger 3 in 1  USB Bl
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07TT3KM5W/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07TT3KM5W/?tag=tolees0ca-21)

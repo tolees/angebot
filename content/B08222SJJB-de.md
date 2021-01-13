@@ -26,4 +26,4 @@ Es gibt ein [Bosch Professional 18V System Akku Baustrahler GLI 18V-4000 C  ohne
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08222SJJB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08222SJJB/?tag=tolees0ca-21)

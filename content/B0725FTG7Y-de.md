@@ -26,4 +26,4 @@ Sie können [Sony HT-RT4  5.1 Soundbar System  600W  hohe Rücklautsprechern  HD
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0725FTG7Y/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0725FTG7Y/?tag=tolees0ca-21)

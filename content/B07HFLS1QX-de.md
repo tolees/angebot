@@ -26,4 +26,4 @@ Sie können [AEG IKB6430AXB Autarkes Kochfeld / Herdplatte mit Touchscreen  Topf
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07HFLS1QX/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07HFLS1QX/?tag=tolees0ca-21)

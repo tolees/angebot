@@ -26,4 +26,4 @@ Es gibt ein [156/Im Netz des Drachen](https://www.amazon.de/dp/B0071J4AYK/?tag=t
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0071J4AYK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0071J4AYK/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Goliath Toys 90515 Starter Set: Recoil  Mehrfarbig](https://www.ama
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07BQMX386/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07BQMX386/?tag=tolees0ca-21)

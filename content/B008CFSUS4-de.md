@@ -26,4 +26,4 @@ Es gibt ein [Drive Medical Duschhocker 12004KDR  weiß  verstellbar](https://www
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B008CFSUS4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B008CFSUS4/?tag=tolees0ca-21)

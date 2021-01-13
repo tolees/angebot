@@ -26,4 +26,4 @@ Es gibt ein [Uten Heißluftfritteuse  6.5L Airfryer XXL Frittieren ohne Fett  Ae
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07XHKHG2M/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07XHKHG2M/?tag=tolees0ca-21)

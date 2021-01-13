@@ -26,4 +26,4 @@ Es gibt ein [Samsung Galaxy Book W620 26 92 cm  10 6 Zoll  Convertible Tablet PC
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B072BPGY4R/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B072BPGY4R/?tag=tolees0ca-21)

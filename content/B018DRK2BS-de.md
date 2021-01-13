@@ -26,4 +26,4 @@ Es gibt ein [Kunzer 7SS172 Steckschlüsselsatz 1/4" - 3/8" - 1/2"  172-teilig](h
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B018DRK2BS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B018DRK2BS/?tag=tolees0ca-21)

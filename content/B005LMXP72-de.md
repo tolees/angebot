@@ -26,4 +26,4 @@ Es gibt ein [!Solid Dash Herren Lederjacke Bikerjacke Echtleder Mit Stehkragen  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B005LMXP72/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B005LMXP72/?tag=tolees0ca-21)

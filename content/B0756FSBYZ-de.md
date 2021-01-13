@@ -26,4 +26,4 @@ Es gibt ein [Ecovacs Robotics Deebot Ozmo 610 Saug- und Wischroboter mit Ozmo-Te
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0756FSBYZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0756FSBYZ/?tag=tolees0ca-21)

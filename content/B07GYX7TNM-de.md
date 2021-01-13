@@ -26,4 +26,4 @@ Sie können [Bosch Smart Home Überwachungskamera  360° drehbar  kompatibel mit
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07GYX7TNM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07GYX7TNM/?tag=tolees0ca-21)

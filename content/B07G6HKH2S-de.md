@@ -26,4 +26,4 @@ Es gibt ein [Remington Elektrischer Rasierer Herren R9  +Bart-Stylingsaufsatz  L
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07G6HKH2S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07G6HKH2S/?tag=tolees0ca-21)

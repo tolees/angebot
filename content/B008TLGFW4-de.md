@@ -26,4 +26,4 @@ Es gibt ein [Emsa 513357 Travel Mug Thermo-/Isolierbecher  Fassungsvermögen: 36
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B008TLGFW4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B008TLGFW4/?tag=tolees0ca-21)

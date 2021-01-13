@@ -26,4 +26,4 @@ Es gibt ein [Legend - Steel Edition [Blu-ray]](https://www.amazon.de/dp/B01AN8ZF
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01AN8ZF58/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01AN8ZF58/?tag=tolees0ca-21)

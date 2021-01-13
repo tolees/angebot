@@ -26,4 +26,4 @@ Es gibt ein [Winning Moves GmbH 11545 - Cluedo: The Walking Dead AMC](https://ww
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07JJY7P4Y/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07JJY7P4Y/?tag=tolees0ca-21)

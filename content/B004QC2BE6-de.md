@@ -26,4 +26,4 @@ Es gibt ein [CASO F10 Design Küchenwaage  digitale Küchenwaage  große verspie
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B004QC2BE6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B004QC2BE6/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [H0_V Acryl Schaukasten Vitrine  Vitrine Acryl Schaukasten  Acryl Di
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B083J2XC4X/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B083J2XC4X/?tag=tolees0ca-21)

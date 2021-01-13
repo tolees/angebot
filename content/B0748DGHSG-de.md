@@ -26,4 +26,4 @@ Es gibt ein [ViewSonic VP2785-4K 68 6 cm  27 Zoll  Fotografen Monitor mit Kalibr
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0748DGHSG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0748DGHSG/?tag=tolees0ca-21)

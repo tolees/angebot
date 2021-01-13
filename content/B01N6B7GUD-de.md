@@ -26,4 +26,4 @@ Sie können [Kenwood Chef Elite KVC5320S Küchenmaschine  4 6 l Edelstahl Rührs
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01N6B7GUD/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01N6B7GUD/?tag=tolees0ca-21)

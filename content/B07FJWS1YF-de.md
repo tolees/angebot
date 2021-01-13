@@ -26,4 +26,4 @@ Sie können [Manuelle Rasierer  Cut Throat Rasierer Professionelle Edelstahl Bar
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07FJWS1YF/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07FJWS1YF/?tag=tolees0ca-21)

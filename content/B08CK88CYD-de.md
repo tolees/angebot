@@ -26,4 +26,4 @@ Es gibt ein [Arbily 【2020 Neues Upgrade】 Bluetooth Kopfhörer In Ear  Kopfh�
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08CK88CYD/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08CK88CYD/?tag=tolees0ca-21)

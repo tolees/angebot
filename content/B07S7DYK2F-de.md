@@ -26,4 +26,4 @@ Es gibt ein [Delinuo Bluetooth Kopfhörer Kabellos mit 6000mAh Batterie / IPX6 /
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07S7DYK2F/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07S7DYK2F/?tag=tolees0ca-21)

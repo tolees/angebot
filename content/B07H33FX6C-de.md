@@ -26,4 +26,4 @@ Es gibt ein [Acer Switch 3 SW312-31-P8VE 31 cm  12 2 Zoll Full-HD  Convertible N
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07H33FX6C/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07H33FX6C/?tag=tolees0ca-21)

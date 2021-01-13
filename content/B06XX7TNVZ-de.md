@@ -26,4 +26,4 @@ Sie können [Premium Messerschärfer Schleifstein Körnung 1000/6000. Großer 21
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06XX7TNVZ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06XX7TNVZ/?tag=tolees0ca-21)

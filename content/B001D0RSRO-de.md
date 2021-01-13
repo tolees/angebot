@@ -26,4 +26,4 @@ Es gibt ein [Wettsingen in Schwetzingen/MTV unplugged](https://www.amazon.de/dp/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001D0RSRO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001D0RSRO/?tag=tolees0ca-21)

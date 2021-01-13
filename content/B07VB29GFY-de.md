@@ -26,4 +26,4 @@ Sie können [Intenso USB-Stick Ultra Line 256 GB USB 3.0](https://www.amazon.de/
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07VB29GFY/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07VB29GFY/?tag=tolees0ca-21)

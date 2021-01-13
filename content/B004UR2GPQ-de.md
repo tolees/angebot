@@ -26,4 +26,4 @@ Es gibt ein [Relaxdays Badregal Bambus  Natur  33 x 33 x 79 cm](https://www.amaz
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B004UR2GPQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B004UR2GPQ/?tag=tolees0ca-21)

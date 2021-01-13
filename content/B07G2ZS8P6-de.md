@@ -26,4 +26,4 @@ Es gibt ein [Tacklife ACP1B Luftkompressor  Digitaler 12V Kompressor  Auto Luftp
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07G2ZS8P6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07G2ZS8P6/?tag=tolees0ca-21)

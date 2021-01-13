@@ -26,4 +26,4 @@ Es gibt ein [Playmobil 6153 - Strand-Shooting](https://www.amazon.de/dp/B00O4E3H
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00O4E3HI0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00O4E3HI0/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Kaspersky Internet Security 2020 Standard | 3 Geräte | 1 Jahr | Wi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07TKNG6JR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07TKNG6JR/?tag=tolees0ca-21)

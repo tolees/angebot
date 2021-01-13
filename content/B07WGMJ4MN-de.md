@@ -26,4 +26,4 @@ Es gibt ein [SEIKO Automatische Uhr SRPD81K1  schwarz  Street](https://www.amazo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07WGMJ4MN/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07WGMJ4MN/?tag=tolees0ca-21)

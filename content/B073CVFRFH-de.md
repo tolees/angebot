@@ -26,4 +26,4 @@ Sie können [Beurer BF 600 Diagnosewaage weiß  Messung von Körperfett  Körper
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B073CVFRFH/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B073CVFRFH/?tag=tolees0ca-21)

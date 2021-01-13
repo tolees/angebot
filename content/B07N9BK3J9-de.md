@@ -26,4 +26,4 @@ Sie können [JBL Live 500BT kabellose Over-Ear Kopfhörer - Bluetooth Ohrhörer 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07N9BK3J9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07N9BK3J9/?tag=tolees0ca-21)

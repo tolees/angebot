@@ -26,4 +26,4 @@ Es gibt ein [Skagen Damen Digital Smart Watch Armbanduhr mit Silikon Armband SKT
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07MH65GS8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MH65GS8/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [WMF Profi Plus Rührblitz 27 cm  Schneebesen Edelstahl -Kugeln  Cro
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00062ILVW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00062ILVW/?tag=tolees0ca-21)

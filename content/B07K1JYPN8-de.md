@@ -26,4 +26,4 @@ Es gibt ein [LIGHTAILING Licht-Set Für  Creator Detektivbüro  Modell - LED Lic
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07K1JYPN8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07K1JYPN8/?tag=tolees0ca-21)

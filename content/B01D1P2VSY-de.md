@@ -26,4 +26,4 @@ Es gibt ein [Barilla Hartweizen Pasta Spaghettini n. 3  1er Pack  1 x 500 g ](ht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01D1P2VSY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01D1P2VSY/?tag=tolees0ca-21)

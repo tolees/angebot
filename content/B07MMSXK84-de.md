@@ -26,4 +26,4 @@ Es gibt ein [Hasbro FurReal Friends E5679EU4 FurReal König der Löwen - Brülle
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07MMSXK84/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MMSXK84/?tag=tolees0ca-21)

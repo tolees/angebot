@@ -26,4 +26,4 @@ Es gibt ein [Anker PowerPort 40W 5-Port USB Ladegerät Multi-Port USB Ladegerät
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00VUGOSWY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00VUGOSWY/?tag=tolees0ca-21)

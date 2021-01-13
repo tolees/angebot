@@ -26,4 +26,4 @@ Es gibt ein [Samsung CLT-P504C Multipack  schwarz  Cyan  Magenta  Gelb  Original
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01MTV1W4D/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MTV1W4D/?tag=tolees0ca-21)

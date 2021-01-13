@@ -26,4 +26,4 @@ Sie können [Schwerlastregal | 178 5x130x60cm | CALLIDUS BAUMARKT | blau pulverb
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07GJRYBLC/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07GJRYBLC/?tag=tolees0ca-21)

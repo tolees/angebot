@@ -26,4 +26,4 @@ Es gibt ein [Ultimate Ears Boom 3 Tragbarer Bluetooth-Lautsprecher + Power Up La
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07HRG624G/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HRG624G/?tag=tolees0ca-21)

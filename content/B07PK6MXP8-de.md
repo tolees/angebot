@@ -26,4 +26,4 @@ Es gibt ein [Detektiv Conan - TV-Serie - Vol.9 - [DVD]](https://www.amazon.de/dp
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PK6MXP8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PK6MXP8/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [BOSS Herren Trunk 3P CO/EL Dreier-Pack Boxershorts aus Stretch-Baum
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01JZD85X6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01JZD85X6/?tag=tolees0ca-21)

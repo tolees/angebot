@@ -26,4 +26,4 @@ Es gibt ein [G-STAR RAW Herren Rovic Zip 3d Straight Tapered Hose  Schwarz  rave
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01BGTWA6U/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01BGTWA6U/?tag=tolees0ca-21)

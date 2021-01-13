@@ -26,4 +26,4 @@ Sie können [Murder Ballads  2011-Remaster ](https://www.amazon.de/dp/B004KX5KTO
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B004KX5KTO/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B004KX5KTO/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Philips Kopfhörer On Ear BH305BK/00 On Ear Kopfhörer  Bluetooth  
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07V7HBC29/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07V7HBC29/?tag=tolees0ca-21)

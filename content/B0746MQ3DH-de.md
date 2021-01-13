@@ -26,4 +26,4 @@ Sie können [Pegasus Spiele 18324G - Memoarrr  Edition Spielwiese ](https://www.
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0746MQ3DH/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0746MQ3DH/?tag=tolees0ca-21)

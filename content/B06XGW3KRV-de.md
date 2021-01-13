@@ -26,4 +26,4 @@ Sie können [Funko 13693 63650 Actionfigur Trollhunters: Jim Armored  Multicolou
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06XGW3KRV/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06XGW3KRV/?tag=tolees0ca-21)

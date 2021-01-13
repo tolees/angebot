@@ -26,4 +26,4 @@ Sie können [Ice Crusher  tragbare Handkurbel Ice Crusher Rasierer Manuelle Ice 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07Q35ZXQP/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07Q35ZXQP/?tag=tolees0ca-21)

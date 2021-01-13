@@ -26,4 +26,4 @@ Sie können [Kingston A400 SSD SA400S37/1920G - Interne SSD  2.5 Zoll  SATA 1920
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07YQJSGWY/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07YQJSGWY/?tag=tolees0ca-21)

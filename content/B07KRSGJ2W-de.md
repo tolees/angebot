@@ -26,4 +26,4 @@ Es gibt ein [Rollei Actioncam 560 Touch - WiFi Action-Cam wasserdicht 4k 60 FPS 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KRSGJ2W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KRSGJ2W/?tag=tolees0ca-21)

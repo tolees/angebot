@@ -26,4 +26,4 @@ Es gibt ein [Bosch Professional Bohrhammer GBH 2-26 F  830 Watt  Wechselfutter S
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01M07Y8IR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01M07Y8IR/?tag=tolees0ca-21)

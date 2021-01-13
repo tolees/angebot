@@ -26,4 +26,4 @@ Es gibt ein [Sylvanian Families 5231 - Strandkarusell](https://www.amazon.de/dp/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0196A4AAA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0196A4AAA/?tag=tolees0ca-21)

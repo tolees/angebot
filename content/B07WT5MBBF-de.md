@@ -26,4 +26,4 @@ Sie können [SuperZings PSZ4D824IN00 Serie 4 Blaster Jet](https://www.amazon.de/
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07WT5MBBF/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07WT5MBBF/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Lost - Die komplette Serie  37 Discs ](https://www.amazon.de/dp/B00
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00GU40HTE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00GU40HTE/?tag=tolees0ca-21)

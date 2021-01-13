@@ -26,4 +26,4 @@ Es gibt ein [Original Einhell Starter Kit Akku und Ladegerät Power X-Change  Li
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01M15QSA8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01M15QSA8/?tag=tolees0ca-21)

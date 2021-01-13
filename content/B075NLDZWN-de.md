@@ -26,4 +26,4 @@ Sie können [Acer H277HK 69 cm  27 Zoll Ultra HD IPS  Monitor  USB 3.1 Type-C  D
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B075NLDZWN/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B075NLDZWN/?tag=tolees0ca-21)

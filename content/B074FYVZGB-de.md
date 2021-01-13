@@ -26,4 +26,4 @@ Es gibt ein [Revell 06053 Modellbausatz  Star Wars 1:2700-Republic Destroyer  Le
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B074FYVZGB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B074FYVZGB/?tag=tolees0ca-21)

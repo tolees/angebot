@@ -26,4 +26,4 @@ Sie können [Linksys Max-Stream AC1900 MU-MIMO Dual-Band Wi-Fi Router für Zuhau
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01AJOMDSI/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01AJOMDSI/?tag=tolees0ca-21)

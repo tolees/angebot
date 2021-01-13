@@ -26,4 +26,4 @@ Sie können [Acer Nitro 5  AN517-51-754T  43 9 cm  17 3 Zoll Full-HD mit IPS 144
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07SRCR1H3/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07SRCR1H3/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Funko POP Sock HOP Betty BOOP & PUDG](https://www.amazon.de/dp/B07K
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07KPT1H5L/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07KPT1H5L/?tag=tolees0ca-21)

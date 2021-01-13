@@ -26,4 +26,4 @@ Sie können [Funko 42192 POP Vinyl: Harry Potter S7-Professor Sybill Trelawney S
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07P82NFF5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07P82NFF5/?tag=tolees0ca-21)

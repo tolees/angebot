@@ -26,4 +26,4 @@ Es gibt ein [Seagate Expansion Portable  tragbare externe Festplatte  4 TB  2.5 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B017KE8OG0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B017KE8OG0/?tag=tolees0ca-21)

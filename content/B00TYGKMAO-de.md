@@ -26,4 +26,4 @@ Es gibt ein [Whiskas 1 + Katzenfutter   Klassische Auswahl in Sauce  48 x 100g](
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00TYGKMAO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00TYGKMAO/?tag=tolees0ca-21)

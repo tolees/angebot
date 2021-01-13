@@ -26,4 +26,4 @@ Es gibt ein [Samsonite Aeris Spinner L Koffer  75 cm  87.5 L  Rot  Red ](https:/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B002SJUTQQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B002SJUTQQ/?tag=tolees0ca-21)

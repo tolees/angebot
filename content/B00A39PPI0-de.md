@@ -26,4 +26,4 @@ Es gibt ein [V-MODA Crossfade M-100 Over-Ear Kopfhörer - Weiß Silber](https://
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00A39PPI0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00A39PPI0/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Park Tool Montageständer PRS-25 Team Issue  4000277](https://www.a
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0036UNK0I/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0036UNK0I/?tag=tolees0ca-21)

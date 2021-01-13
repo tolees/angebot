@@ -26,4 +26,4 @@ Es gibt ein [Fintie Hülle für Kindle Paperwhite - Die dünnste und leichteste 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07T9C4HMH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07T9C4HMH/?tag=tolees0ca-21)

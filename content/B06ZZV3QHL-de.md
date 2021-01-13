@@ -26,4 +26,4 @@ Sie können [Philips 273V7QDAB/00 68 cm  27 Zoll  Monitor  VGA  DVI  HDMI  5ms R
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06ZZV3QHL/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06ZZV3QHL/?tag=tolees0ca-21)

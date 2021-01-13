@@ -26,4 +26,4 @@ Es gibt ein [Kingdom Hearts III - [Xbox One]](https://www.amazon.de/dp/B00DMZ4KG
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00DMZ4KG0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00DMZ4KG0/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [AIKELA Bluetooth Kopfhörer Kabellos in Ear Wireless Kopfhörer Spo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07YX2BRJL/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07YX2BRJL/?tag=tolees0ca-21)

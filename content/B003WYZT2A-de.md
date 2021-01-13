@@ -26,4 +26,4 @@ Es gibt ein [LEGO Star Wars 8020325 Sturmtruppler Kinder-Armbanduhr mit Minifigu
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B003WYZT2A/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B003WYZT2A/?tag=tolees0ca-21)

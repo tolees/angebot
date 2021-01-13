@@ -26,4 +26,4 @@ Es gibt ein [VAUDE Herren Men s Active Pants Hose  Schwarz  Black Uni   M](https
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NL9T6KY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NL9T6KY/?tag=tolees0ca-21)

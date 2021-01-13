@@ -26,4 +26,4 @@ Es gibt ein [May Your Kindness Remain](https://www.amazon.de/dp/B07896LHJW/?tag=
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07896LHJW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07896LHJW/?tag=tolees0ca-21)

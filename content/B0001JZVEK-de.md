@@ -26,4 +26,4 @@ Sie können [D-Link DGS-1005D 5-Port Gigabit Switch Desktop  10/100/1000 Mbit/s 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0001JZVEK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0001JZVEK/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Audio-Technica ATH-DSR9BT Wireless Over-Ear Kopfhörer mit Pure Dig
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XYZB4VQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XYZB4VQ/?tag=tolees0ca-21)

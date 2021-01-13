@@ -26,4 +26,4 @@ Sie können [Funko 32118 The Flash: Vibe POP Vinylfigur  Multi](https://www.amaz
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07DFDFZ63/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07DFDFZ63/?tag=tolees0ca-21)

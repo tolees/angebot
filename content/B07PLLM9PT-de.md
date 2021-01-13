@@ -26,4 +26,4 @@ Sie können [Samsung RU7179 163 cm  65 Zoll  LED Fernseher  Ultra HD  HDR  Tripl
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07PLLM9PT/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07PLLM9PT/?tag=tolees0ca-21)

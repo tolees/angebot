@@ -26,4 +26,4 @@ Sie können [SEVERIN KG 2388 Tischgrill  2.200 W  mit Hotzone-Element  schwarz](
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B003XNBQMM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B003XNBQMM/?tag=tolees0ca-21)

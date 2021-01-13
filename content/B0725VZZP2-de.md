@@ -26,4 +26,4 @@ Es gibt ein [Buff Lightweight Merino Wool Multifunktionstuch  Edgy Denim  One Si
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0725VZZP2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0725VZZP2/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Netgear GS728TP 28-Port Gigabit Ethernet LAN PoE Switch Smart Manag
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07C53XRYV/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07C53XRYV/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Philips Ambilight 55PUS6814/12 139 cm  55 Zoll  Smart TV mit Alexa-
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07RJX1FTB/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07RJX1FTB/?tag=tolees0ca-21)

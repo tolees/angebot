@@ -26,4 +26,4 @@ Es gibt ein [Damenwahl  Deluxe-Edition mit Bonus-Tracks ](https://www.amazon.de/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000WXJP2O/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000WXJP2O/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [RENTLIV TV Wandhalterung für 37-70 Zoll Fernseher  neigbare TV Hal
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07WJZPDBN/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07WJZPDBN/?tag=tolees0ca-21)

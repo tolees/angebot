@@ -26,4 +26,4 @@ Es gibt ein [Park Tool Mini-Faltwerkzeug IB-2 I-Beam  4000849](https://www.amazo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000OZBJD8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000OZBJD8/?tag=tolees0ca-21)

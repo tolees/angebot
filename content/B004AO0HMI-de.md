@@ -26,4 +26,4 @@ Es gibt ein [Jillian Michaels - Shred: Schlank in 30 Tagen](https://www.amazon.d
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B004AO0HMI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B004AO0HMI/?tag=tolees0ca-21)

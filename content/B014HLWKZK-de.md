@@ -26,4 +26,4 @@ Es gibt ein [Levi Strauss & Co Herren 514 Jeans  Blau  Onewash 95977   40/32 UK 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B014HLWKZK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B014HLWKZK/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Russell Hobbs Standmixer Glas Steel 2-in-1  inkl. To-Go-Becher & De
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XCFCMJZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XCFCMJZ/?tag=tolees0ca-21)

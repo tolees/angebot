@@ -26,4 +26,4 @@ Sie können [Supernatural - Staffel 10 [6 DVDs]](https://www.amazon.de/dp/B01L8I
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01L8I17WM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01L8I17WM/?tag=tolees0ca-21)

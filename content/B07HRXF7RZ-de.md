@@ -26,4 +26,4 @@ Sie können [Lenovo Tab P10 25 5 cm  10 1 Zoll Full HD IPS Touch  Tablet-PC  Qua
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07HRXF7RZ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07HRXF7RZ/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [leanBonnie Compuesto Karbonfaser Hose LCD Digital Indicador 0 – 1
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07MQYXG63/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07MQYXG63/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Krups CZ7158 Cook4Me+ Connect Multikocher  1600 Watt  elektrischer 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07GNNJTX8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GNNJTX8/?tag=tolees0ca-21)

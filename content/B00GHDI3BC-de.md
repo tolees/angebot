@@ -26,4 +26,4 @@ Sie können [Gardena Teleskop-Hochentaster TCS Li-18/20 Set: Astsäge für bis z
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B00GHDI3BC/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B00GHDI3BC/?tag=tolees0ca-21)

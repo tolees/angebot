@@ -26,4 +26,4 @@ Sie können [Monster Jam 6053296 - Original Monster Jam Champ Ramp Freestyle Spi
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07GTKVCYJ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07GTKVCYJ/?tag=tolees0ca-21)

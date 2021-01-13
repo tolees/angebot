@@ -26,4 +26,4 @@ Es gibt ein [Hasbro C2697EU5 - Baby Alive Fütterspaß Lily  Puppe](https://www.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06WCZJ56J/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06WCZJ56J/?tag=tolees0ca-21)

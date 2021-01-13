@@ -26,4 +26,4 @@ Es gibt ein [Apple iPhone XS Max  512 GB  - Space Grau](https://www.amazon.de/dp
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07HBCNNL8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HBCNNL8/?tag=tolees0ca-21)

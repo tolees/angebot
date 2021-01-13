@@ -26,4 +26,4 @@ Es gibt ein [CASCHA Sopran Ukulele Set für Kinder und Erwachsene I Ukulele Star
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0116LHQMQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0116LHQMQ/?tag=tolees0ca-21)

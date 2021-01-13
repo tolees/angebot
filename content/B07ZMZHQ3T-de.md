@@ -26,4 +26,4 @@ Sie können [99AMZ Handyhalter fürs Auto & Handy Ring Halter | 2 in 1 Innovativ
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07ZMZHQ3T/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07ZMZHQ3T/?tag=tolees0ca-21)

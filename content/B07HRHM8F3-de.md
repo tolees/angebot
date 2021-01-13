@@ -26,4 +26,4 @@ Sie können [Sennheiser MOMENTUM True Wireless Bluetooth-Ohrhörer  Schwarz/Chro
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07HRHM8F3/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07HRHM8F3/?tag=tolees0ca-21)

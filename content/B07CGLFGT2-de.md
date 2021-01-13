@@ -26,4 +26,4 @@ Es gibt ein [Thinkfun Geschicklichkeitsspiel 76356 - Laze Maze - Spiel für Kind
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07CGLFGT2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07CGLFGT2/?tag=tolees0ca-21)

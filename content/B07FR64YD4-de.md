@@ -26,4 +26,4 @@ Es gibt ein [Bosch Akkuschrauber PushDrive  3 6 Volt  32 Bits  Aufbewahrungsbox 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07FR64YD4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FR64YD4/?tag=tolees0ca-21)

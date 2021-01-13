@@ -26,4 +26,4 @@ Sie können [Nikon Z 50 Kamera](https://www.amazon.de/dp/B07YXH9LXV/?tag=tolees0
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07YXH9LXV/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07YXH9LXV/?tag=tolees0ca-21)

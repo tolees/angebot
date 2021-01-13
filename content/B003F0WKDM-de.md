@@ -26,4 +26,4 @@ Es gibt ein [CASO VC10 Vakuumierer - Testsieger bei Stiftung Warentest  Vakuumie
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B003F0WKDM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B003F0WKDM/?tag=tolees0ca-21)

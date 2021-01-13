@@ -26,4 +26,4 @@ Sie können [Garmin Edge Explore GPS-Fahrrad-Navi - Vorinstallierte Europakarte 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07DX231ST/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07DX231ST/?tag=tolees0ca-21)

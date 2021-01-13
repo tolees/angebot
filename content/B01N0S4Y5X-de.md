@@ -26,4 +26,4 @@ Sie können [Bosch Professional Akku-Bohrhammer GBH 18 V-26 F  2 x 5 0 Ah Akku  
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01N0S4Y5X/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01N0S4Y5X/?tag=tolees0ca-21)

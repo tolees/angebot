@@ -26,4 +26,4 @@ Es gibt ein [Sonos Beam Smart Soundbar  schwarz - Kompakte TV Soundbar für Fern
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07DLGXHW4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07DLGXHW4/?tag=tolees0ca-21)

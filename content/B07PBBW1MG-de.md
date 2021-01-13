@@ -26,4 +26,4 @@ Sie können [Funko 41475 Action Figur: Dark Crystal - Silk Sammelbares Spielzeug
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07PBBW1MG/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07PBBW1MG/?tag=tolees0ca-21)

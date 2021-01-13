@@ -26,4 +26,4 @@ Sie können [Paladone Game-Boy-Wecker mit Sound von Nintendo](https://www.amazon
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B079TSKV3G/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B079TSKV3G/?tag=tolees0ca-21)

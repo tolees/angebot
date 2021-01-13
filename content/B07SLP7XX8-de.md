@@ -26,4 +26,4 @@ Es gibt ein [FIFA 20 | Xbox One - Download Code](https://www.amazon.de/dp/B07SLP
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07SLP7XX8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07SLP7XX8/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Garmin vívoactive 4 – wasserdichte GPS-Fitness-Smartwatch mit Tr
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07W2Z9MQP/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07W2Z9MQP/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Tommy Hilfiger Damen Multi Dial Quartz Uhr Jenna](https://www.amazo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KTQFQ8G/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KTQFQ8G/?tag=tolees0ca-21)

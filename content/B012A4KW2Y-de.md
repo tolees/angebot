@@ -26,4 +26,4 @@ Es gibt ein [Skechers Equalizer Double Play  Men s Fitness Shoes Grey  Charcoal/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B012A4KW2Y/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B012A4KW2Y/?tag=tolees0ca-21)

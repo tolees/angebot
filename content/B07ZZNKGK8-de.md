@@ -26,4 +26,4 @@ Es gibt ein [POP! Animation: Masters of The Universe - Sorceress](https://www.am
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07ZZNKGK8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07ZZNKGK8/?tag=tolees0ca-21)

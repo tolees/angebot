@@ -26,4 +26,4 @@ Es gibt ein [TOM TAILOR Herren Poloshirts Basic Poloshirt Sky Captain Blue L](ht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B082WKQSWF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B082WKQSWF/?tag=tolees0ca-21)

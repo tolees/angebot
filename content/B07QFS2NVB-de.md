@@ -26,4 +26,4 @@ Es gibt ein [Funko 40243 POP Vinyl Animation: BT21-RJ BT21 RJ Sammelbares Spielz
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07QFS2NVB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07QFS2NVB/?tag=tolees0ca-21)

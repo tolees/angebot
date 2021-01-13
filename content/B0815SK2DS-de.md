@@ -26,4 +26,4 @@ Es gibt ein [HERCN Hülle Kompatibel mit Oppo K5/Realme X2/Realme XT 6.4" Ultra 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0815SK2DS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0815SK2DS/?tag=tolees0ca-21)

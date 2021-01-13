@@ -26,4 +26,4 @@ Sie können [Xoro HRK 7660 HD Receiver für digitales Kabelfernsehen  HDMI  SCAR
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B018QYP3OY/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B018QYP3OY/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Apple iPhone XS  64GB  - Space Grau](https://www.amazon.de/dp/B07HB
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07HBCCGY8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HBCCGY8/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Bose SoundLink Color Bluetooth speaker II - Yellow](https://www.ama
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07RHTTRMW/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07RHTTRMW/?tag=tolees0ca-21)

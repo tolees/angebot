@@ -26,4 +26,4 @@ Sie können [Samsung LS03R The Frame 108 cm  43 Zoll  QLED Lifestyle Fernseher  
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07NHMWRQF/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07NHMWRQF/?tag=tolees0ca-21)

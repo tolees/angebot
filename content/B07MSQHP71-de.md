@@ -26,4 +26,4 @@ Sie können [ASUS ZenBook Flip 15 UX562FA  90NB0LK1-M00360  39 6 cm  15 6 Zoll  
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07MSQHP71/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07MSQHP71/?tag=tolees0ca-21)

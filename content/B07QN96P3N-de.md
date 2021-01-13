@@ -26,4 +26,4 @@ Sie können [Amzchef Zerkleinerer Elektrisch Universalzerkleinerer mit Starker M
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07QN96P3N/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07QN96P3N/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [JOYSKY Wireless Controller für Nintendo Switch  2er-Set Replacemen
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08CDTKGKB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08CDTKGKB/?tag=tolees0ca-21)

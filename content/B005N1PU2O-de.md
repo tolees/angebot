@@ -26,4 +26,4 @@ Es gibt ein [Wann I So Z Ruckschau  3cd ](https://www.amazon.de/dp/B005N1PU2O/?t
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B005N1PU2O/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B005N1PU2O/?tag=tolees0ca-21)

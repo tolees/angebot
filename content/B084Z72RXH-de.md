@@ -26,4 +26,4 @@ Es gibt ein [Aluminiumstangen Ringwerkzeuge Fine Arts Sculpture Pottery Diy Tool
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B084Z72RXH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B084Z72RXH/?tag=tolees0ca-21)

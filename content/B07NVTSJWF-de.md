@@ -26,4 +26,4 @@ Sie können [Samsung WW6400 WW8HK6400QW/EG Waschmaschine 8 kg  1400 U/min  A+++ 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07NVTSJWF/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07NVTSJWF/?tag=tolees0ca-21)

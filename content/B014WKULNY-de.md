@@ -26,4 +26,4 @@ Es gibt ein [EMOS 1x universales selbstverschweißendes Band  LxBxH 5 m x 25 mm 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B014WKULNY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B014WKULNY/?tag=tolees0ca-21)

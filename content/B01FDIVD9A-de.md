@@ -26,4 +26,4 @@ Sie können [Hasbro Gaming B2176398 - Dr. Bibber Kinderspiel](https://www.amazon
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01FDIVD9A/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01FDIVD9A/?tag=tolees0ca-21)

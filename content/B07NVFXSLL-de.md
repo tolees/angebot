@@ -26,4 +26,4 @@ Sie können [CRYSTAL ART Crystal Card Kits 18x18cm  Mulitcolor  18x18](https://w
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07NVFXSLL/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07NVFXSLL/?tag=tolees0ca-21)

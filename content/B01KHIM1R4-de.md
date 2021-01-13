@@ -26,4 +26,4 @@ Es gibt ein [Philips LED Lampe 11 W ersetzt 75 W  E27  warmweiß  2700K  1055 Lu
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01KHIM1R4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01KHIM1R4/?tag=tolees0ca-21)

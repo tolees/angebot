@@ -26,4 +26,4 @@ Es gibt ein [Merry Style Damen Leggings 3/4 aus Viskose MS10-144  Schwarz  L ](h
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B074H22PSD/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B074H22PSD/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [LEGO Friends 41339 - Mias Wohnmobil Cooles Kinderspielzeug](https:/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B075SVP2YT/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B075SVP2YT/?tag=tolees0ca-21)

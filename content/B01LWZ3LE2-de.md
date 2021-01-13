@@ -26,4 +26,4 @@ Es gibt ein [Die Edelsteintrilogie  Rubinrot  Saphirblau  Smaragdgrün  [4 DVDs]
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01LWZ3LE2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01LWZ3LE2/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Sony Mobile SWR10 SmartBand Aktivitätstracker Schlaftracker Fitnes
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00HQIFKWW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00HQIFKWW/?tag=tolees0ca-21)

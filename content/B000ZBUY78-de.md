@@ -26,4 +26,4 @@ Es gibt ein [Seiko Damenuhr Analog Automatisch mit Edelstahlarmband – SYMC07K1
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000ZBUY78/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000ZBUY78/?tag=tolees0ca-21)

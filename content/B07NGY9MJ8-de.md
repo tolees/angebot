@@ -26,4 +26,4 @@ Es gibt ein [Microsoft Surface Headphones](https://www.amazon.de/dp/B07NGY9MJ8/?
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NGY9MJ8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NGY9MJ8/?tag=tolees0ca-21)

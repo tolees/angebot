@@ -26,4 +26,4 @@ Es gibt ein [Seagate Expansion Desktop  10 TB  externe Festplatte  3.5 Zoll  USB
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NPMMZ8C/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NPMMZ8C/?tag=tolees0ca-21)

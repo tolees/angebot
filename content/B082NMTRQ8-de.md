@@ -26,4 +26,4 @@ Es gibt ein [XGIMI Halo  Mini Beamer 800 ANSI-Lumen 1080p  Tragbarer Beamer Smar
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B082NMTRQ8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B082NMTRQ8/?tag=tolees0ca-21)

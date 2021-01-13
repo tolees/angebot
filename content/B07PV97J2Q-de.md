@@ -26,4 +26,4 @@ Es gibt ein [NextBase S2RFCZ Rückfahrkamera Blickwinkel horizontal max.=30° Pa
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PV97J2Q/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PV97J2Q/?tag=tolees0ca-21)

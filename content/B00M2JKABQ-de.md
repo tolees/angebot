@@ -26,4 +26,4 @@ Es gibt ein [devolo Home Control Heizkörperthermostat  Funk Heizungssteuerung  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00M2JKABQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00M2JKABQ/?tag=tolees0ca-21)

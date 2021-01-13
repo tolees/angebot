@@ -26,4 +26,4 @@ Es gibt ein [Funko 37022 POP Vinyl: Disney: Aladdin  Live Action : Aladdin & Abu
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KPTBSM4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KPTBSM4/?tag=tolees0ca-21)

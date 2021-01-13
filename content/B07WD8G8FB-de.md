@@ -26,4 +26,4 @@ Es gibt ein [Edelstahl Trichter yidenguk Kitchen Strainer Trichter Set  3 Stück
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07WD8G8FB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07WD8G8FB/?tag=tolees0ca-21)

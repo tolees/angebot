@@ -26,4 +26,4 @@ Es gibt ein [AUKEY Bluetooth Kopfhörer  Key Series Bluetooth 5 In Ear Kopfhöre
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07JY784ZZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07JY784ZZ/?tag=tolees0ca-21)

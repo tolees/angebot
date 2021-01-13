@@ -26,4 +26,4 @@ Sie können [Externes 3D Blu Ray DVD Laufwerk Brenner USB 3.0 Tragbare Ultra Sli
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B08CHCKJ7M/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B08CHCKJ7M/?tag=tolees0ca-21)

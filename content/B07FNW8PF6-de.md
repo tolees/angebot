@@ -26,4 +26,4 @@ Es gibt ein [THE LEGO MOVIE 2 70827 Ultrakatty & Krieger-Lucy!](https://www.amaz
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07FNW8PF6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FNW8PF6/?tag=tolees0ca-21)

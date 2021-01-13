@@ -26,4 +26,4 @@ Es gibt ein [Nikon AF-P DX Nikkor 18-55 mm f/3.5-5.6G VR Zoomobjektiv](https://w
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01AI8H58I/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01AI8H58I/?tag=tolees0ca-21)

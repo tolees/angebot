@@ -26,4 +26,4 @@ Es gibt ein [Control Deluxe Edition - Future Pack - [PlayStation 4]](https://www
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07VVF4RCM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07VVF4RCM/?tag=tolees0ca-21)

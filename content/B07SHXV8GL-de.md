@@ -26,4 +26,4 @@ Es gibt ein [Samsung Galaxy S10e Smartphone Bundle  14.7cm  5.8 Zoll  128 GB int
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07SHXV8GL/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07SHXV8GL/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Park Tool PCS-10.2 Montageständer  blau  Einheitsgröße](https://
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PL5ZY8G/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PL5ZY8G/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Yaogroo 208 Spiele in 1 NDS Game Pack-Karte Super Combo Multi-Cartr
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07QN67KN5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07QN67KN5/?tag=tolees0ca-21)

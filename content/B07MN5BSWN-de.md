@@ -26,4 +26,4 @@ Sie können [Braun Barttrimmer und Haarschneider BT7040  39 Längeneinstellungen
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07MN5BSWN/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07MN5BSWN/?tag=tolees0ca-21)

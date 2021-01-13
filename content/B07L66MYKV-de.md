@@ -26,4 +26,4 @@ Es gibt ein [AKASO Brave 6 Action Cam 4K 20MP WiFi Sprachsteuerung EIS Anti-Shak
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07L66MYKV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07L66MYKV/?tag=tolees0ca-21)

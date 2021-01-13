@@ -26,4 +26,4 @@ Es gibt ein [Funko 37743 POP Vinyl: Alien 40th: Xenomorph Sammelbares Spielzeug 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KPT76JZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KPT76JZ/?tag=tolees0ca-21)

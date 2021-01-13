@@ -26,4 +26,4 @@ Sie können [Lenovo Tab E7 17 7 cm  7 Zoll  WSVGA Touch  Tablet-PC  Mediatek MT8
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07HRXBPMB/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07HRXBPMB/?tag=tolees0ca-21)

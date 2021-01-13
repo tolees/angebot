@@ -26,4 +26,4 @@ Es gibt ein [EISL DX25 Waschbeckenbrause  Handbrause für Küche  Bad  Waschküc
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B008ZCAIWA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B008ZCAIWA/?tag=tolees0ca-21)

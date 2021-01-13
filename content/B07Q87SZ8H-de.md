@@ -26,4 +26,4 @@ Es gibt ein [Samsung Galaxy Tab A T515N 25  54 cm  10  1 Zoll  Tablet-PC  1  8 G
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07Q87SZ8H/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07Q87SZ8H/?tag=tolees0ca-21)

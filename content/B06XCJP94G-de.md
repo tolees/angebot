@@ -26,4 +26,4 @@ Es gibt ein [Samsung Galaxy Xcover 4 Smartphone  12 67 cm  5 Zoll  Touch-Display
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XCJP94G/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XCJP94G/?tag=tolees0ca-21)

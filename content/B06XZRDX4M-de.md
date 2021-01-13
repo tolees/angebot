@@ -26,4 +26,4 @@ Es gibt ein [Kingwin Damen -    Titan    blau Opale ](https://www.amazon.de/dp/B
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XZRDX4M/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XZRDX4M/?tag=tolees0ca-21)

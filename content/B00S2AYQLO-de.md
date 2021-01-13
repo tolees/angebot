@@ -26,4 +26,4 @@ Es gibt ein [Nike Pro Patella Band 2.0 Patellaband  Schwarz  L-XL](https://www.a
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00S2AYQLO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00S2AYQLO/?tag=tolees0ca-21)

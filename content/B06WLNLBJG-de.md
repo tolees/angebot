@@ -26,4 +26,4 @@ Es gibt ein [Hasbro Star Wars C1439EU4 - Episode 8 ferngesteuerter BB-8-Droide  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06WLNLBJG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06WLNLBJG/?tag=tolees0ca-21)

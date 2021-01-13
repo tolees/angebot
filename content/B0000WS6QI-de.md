@@ -26,4 +26,4 @@ Es gibt ein [Numark HF125 - professioneller DJ Kopfhörer mit 2m Kabel und 40 mm
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0000WS6QI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0000WS6QI/?tag=tolees0ca-21)

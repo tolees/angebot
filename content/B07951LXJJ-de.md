@@ -26,4 +26,4 @@ Sie können [Fire HD 8-Tablet  32 GB  Schwarz  ohne Spezialangebote](https://www
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07951LXJJ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07951LXJJ/?tag=tolees0ca-21)

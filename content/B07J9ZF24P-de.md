@@ -26,4 +26,4 @@ Es gibt ein [MEDION S6445 39 5 cm  15 6 Zoll Full HD  Notebook  Intel Core i5-82
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07J9ZF24P/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07J9ZF24P/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [CREATIVE Tragbarer Bluetooth-Audio-Transceiver BT-W2 aptX Low Laten
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0166QUQXC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0166QUQXC/?tag=tolees0ca-21)

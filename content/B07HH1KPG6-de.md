@@ -26,4 +26,4 @@ Es gibt ein [Tommy Jeans Herren  Scanton   Slim Jeans Blau  Cobalt Light Bl St 9
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07HH1KPG6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HH1KPG6/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [AOC Gaming 24G2U5/BK 60 cm  23 8 Zoll  Monitor  FHD  HDMI  DisplayP
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07YN79RJG/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07YN79RJG/?tag=tolees0ca-21)

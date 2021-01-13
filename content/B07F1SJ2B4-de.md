@@ -26,4 +26,4 @@ Es gibt ein [Levi s Herren Slim Jeans 511 SLIM FIT  Schwarz  Mineral Black 14W W
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07F1SJ2B4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07F1SJ2B4/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Jump Force: Standard Edition - [PlayStation 4]](https://www.amazon.
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07DKYZBKM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07DKYZBKM/?tag=tolees0ca-21)

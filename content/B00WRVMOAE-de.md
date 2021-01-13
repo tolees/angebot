@@ -26,4 +26,4 @@ Es gibt ein [Der Alte - Collector s Box Volume 18  Folgen 281 - 295  [5 DVDs]](h
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00WRVMOAE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00WRVMOAE/?tag=tolees0ca-21)

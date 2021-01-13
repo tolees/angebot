@@ -26,4 +26,4 @@ Sie können [WD My Cloud Home Duo 16 TB Persönlicher Cloudspeicher - externe Fe
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B074DXGP9C/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B074DXGP9C/?tag=tolees0ca-21)

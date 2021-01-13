@@ -26,4 +26,4 @@ Sie können [SanDisk Ultra Dual Drive Go USB Type-C 256 GB  Android Smartphone S
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07YYJL21Z/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07YYJL21Z/?tag=tolees0ca-21)

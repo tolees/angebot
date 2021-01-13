@@ -26,4 +26,4 @@ Es gibt ein [Philips Elektrorasierer Damen SatinShave Advanced BRL130/00 – Ele
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01BNMSSM0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01BNMSSM0/?tag=tolees0ca-21)

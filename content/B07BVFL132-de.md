@@ -26,4 +26,4 @@ Es gibt ein [QAZQA Modern Industrielle Hängelampe schwarz mit 4-flammig-Licht-R
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07BVFL132/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07BVFL132/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Funko 30596 POP Vinyl: Fairy Tail S3: Pantherlily Sammelbares Spiel
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07KPK63XL/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07KPK63XL/?tag=tolees0ca-21)

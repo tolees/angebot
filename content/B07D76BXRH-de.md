@@ -26,4 +26,4 @@ Es gibt ein [Levi s Damen 310 Shaping Super Skinny Jeans  Blau  Taurus 0007   W2
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07D76BXRH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07D76BXRH/?tag=tolees0ca-21)

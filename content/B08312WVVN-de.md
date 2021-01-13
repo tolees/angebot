@@ -26,4 +26,4 @@ Es gibt ein [NHUAIYINSHUGUOGUANGGAOJINGY Displayport auf HDMI Adapter-Kabel Mini
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08312WVVN/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08312WVVN/?tag=tolees0ca-21)

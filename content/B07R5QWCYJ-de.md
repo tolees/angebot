@@ -26,4 +26,4 @@ Sie können [Simple Minds - Street Fighting Years  Super Deluxe ](https://www.am
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07R5QWCYJ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07R5QWCYJ/?tag=tolees0ca-21)

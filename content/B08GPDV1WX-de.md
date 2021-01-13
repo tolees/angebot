@@ -26,4 +26,4 @@ Sie können [Socken Herren Damen  6 Paar Wandersocken Baumwolle Sportsocken Tenn
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B08GPDV1WX/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B08GPDV1WX/?tag=tolees0ca-21)

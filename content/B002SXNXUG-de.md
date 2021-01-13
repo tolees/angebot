@@ -26,4 +26,4 @@ Es gibt ein [Nikon BF-1B Gehäusedeckel](https://www.amazon.de/dp/B002SXNXUG/?ta
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B002SXNXUG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B002SXNXUG/?tag=tolees0ca-21)

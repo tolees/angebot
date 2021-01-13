@@ -26,4 +26,4 @@ Sie können [Sony Xperia XZ2 Smartphone  14 5 cm  5 7 Zoll  IPS Full HD+ Display
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B079YS5Q9K/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B079YS5Q9K/?tag=tolees0ca-21)

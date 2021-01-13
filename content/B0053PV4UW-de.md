@@ -26,4 +26,4 @@ Es gibt ein [Bosch Akku Laubbläser ALB 18 LI  ohne Akku  18 V  1 8 kg  210 km/h
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0053PV4UW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0053PV4UW/?tag=tolees0ca-21)

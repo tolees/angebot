@@ -26,4 +26,4 @@ Sie können [Bose Portable Home Speaker – mit integrierter Alexa-Sprachsteueru
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07W4CM3SC/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07W4CM3SC/?tag=tolees0ca-21)

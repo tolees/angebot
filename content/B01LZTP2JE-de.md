@@ -26,4 +26,4 @@ Es gibt ein [Samsung WW70K4420YW/EG AddWash Waschmaschine Frontlader/A+++/1400Up
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01LZTP2JE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01LZTP2JE/?tag=tolees0ca-21)

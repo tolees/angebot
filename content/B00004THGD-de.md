@@ -26,4 +26,4 @@ Es gibt ein [Hook [Collector s Edition]](https://www.amazon.de/dp/B00004THGD/?ta
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00004THGD/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00004THGD/?tag=tolees0ca-21)

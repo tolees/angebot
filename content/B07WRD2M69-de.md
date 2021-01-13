@@ -26,4 +26,4 @@ Sie können [Philips XC7042/01 SpeedPro Max kabelloser Staubsauger 7000 Series  
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07WRD2M69/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07WRD2M69/?tag=tolees0ca-21)

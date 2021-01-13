@@ -26,4 +26,4 @@ Es gibt ein [ONLY Damen T-Shirt Onlvic S/S Solid Top Noos Wvn   Schwarz  Black B
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XHJS4XR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XHJS4XR/?tag=tolees0ca-21)

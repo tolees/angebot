@@ -26,4 +26,4 @@ Es gibt ein [Bosch Akku Kettensäge Universalchain 18  1 Akku  18 Volt System  i
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B077T6QTZG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B077T6QTZG/?tag=tolees0ca-21)

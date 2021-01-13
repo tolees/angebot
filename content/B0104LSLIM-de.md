@@ -26,4 +26,4 @@ Es gibt ein [Brennenstuhl Tower Power Tischsteckdosenleiste  3-fach  versenkbare
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0104LSLIM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0104LSLIM/?tag=tolees0ca-21)

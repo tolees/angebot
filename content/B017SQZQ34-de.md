@@ -26,4 +26,4 @@ Es gibt ein [Salomon Damen Trail Running Schuhe  SPEEDCROSS 4 W  Farbe: schwarz 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B017SQZQ34/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B017SQZQ34/?tag=tolees0ca-21)

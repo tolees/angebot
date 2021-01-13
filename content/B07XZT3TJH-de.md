@@ -26,4 +26,4 @@ Sie können [Sony Xperia 5 Bundle  6.1” FHD+ HDR OLED 21:9 Display  6GB RAM  1
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07XZT3TJH/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07XZT3TJH/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [LG G7 ThinQ Smartphone  15 47 cm  6 1 Zoll  FullVision LCD Display 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07D69KKBZ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07D69KKBZ/?tag=tolees0ca-21)

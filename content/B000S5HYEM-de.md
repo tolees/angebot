@@ -26,4 +26,4 @@ Sie können [Herlitz 8842700 Packbandabroller für Grossrollen Ind. Abrisse](htt
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B000S5HYEM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B000S5HYEM/?tag=tolees0ca-21)

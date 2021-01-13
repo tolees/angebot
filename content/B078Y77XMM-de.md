@@ -26,4 +26,4 @@ Sie können [Pro Breeze™ Oszillierender Turmventilator  100 cm Höhe  80 Grad 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B078Y77XMM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B078Y77XMM/?tag=tolees0ca-21)

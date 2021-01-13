@@ -26,4 +26,4 @@ Es gibt ein [LaDicha 2ST LANTIAN LC Filter Module DC Power Video Signal Wave Fil
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07FCF914Q/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FCF914Q/?tag=tolees0ca-21)

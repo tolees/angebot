@@ -26,4 +26,4 @@ Es gibt ein [LEGO City 60247 Waldbrand Buggy mit Feuerwehrmann](https://www.amaz
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07W5PY3G6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07W5PY3G6/?tag=tolees0ca-21)

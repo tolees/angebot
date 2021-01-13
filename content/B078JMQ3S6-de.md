@@ -26,4 +26,4 @@ Es gibt ein [ICY BOX IB-MSA102-VM Halterung für Mini-PC  Intel NUC  Mac mini et
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B078JMQ3S6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B078JMQ3S6/?tag=tolees0ca-21)

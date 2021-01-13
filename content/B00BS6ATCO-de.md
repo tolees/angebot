@@ -26,4 +26,4 @@ Es gibt ein [Bosch Rasentrimmer ART 35  Schultergurt  Zusatzhandgriff  Karton  6
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00BS6ATCO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00BS6ATCO/?tag=tolees0ca-21)

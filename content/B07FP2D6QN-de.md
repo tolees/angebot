@@ -26,4 +26,4 @@ Es gibt ein [Lego 41357 Friends Olivias Herzbox  bunt](https://www.amazon.de/dp/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07FP2D6QN/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FP2D6QN/?tag=tolees0ca-21)

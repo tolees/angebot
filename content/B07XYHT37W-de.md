@@ -26,4 +26,4 @@ Sie können [The Big Bang Theory S1-12 Boxset DVD](https://www.amazon.de/dp/B07X
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07XYHT37W/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07XYHT37W/?tag=tolees0ca-21)

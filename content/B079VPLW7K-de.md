@@ -26,4 +26,4 @@ Sie können [WORX WG322E.9 Akku Kettensäge 20V – Praktische Holzsäge für Ei
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B079VPLW7K/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B079VPLW7K/?tag=tolees0ca-21)

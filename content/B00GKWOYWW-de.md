@@ -26,4 +26,4 @@ Es gibt ein [VTech 80-139304 - Smart Kid s Phone](https://www.amazon.de/dp/B00GK
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00GKWOYWW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00GKWOYWW/?tag=tolees0ca-21)

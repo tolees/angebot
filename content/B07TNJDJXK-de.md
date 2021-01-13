@@ -26,4 +26,4 @@ Sie können [Smartwatch Sport Uhr Fitness Tracker - IP68 Wasserdicht Bracelet To
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07TNJDJXK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07TNJDJXK/?tag=tolees0ca-21)

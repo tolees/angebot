@@ -26,4 +26,4 @@ Es gibt ein [TP-Link Kasa Amazon Alexa zubehör Smart Home WLAN Steckdose HS100 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06W586CDZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06W586CDZ/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Pioneer VSX-934 7.2-Kanal Netzwerk AV Receiver  7x160 Watt  Dolby A
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07NX64SN5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07NX64SN5/?tag=tolees0ca-21)

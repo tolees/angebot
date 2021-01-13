@@ -26,4 +26,4 @@ Sie können [Red Dead Redemption 2 Standard Edition [Xbox One] Disk](https://www
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01MF8TJV5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01MF8TJV5/?tag=tolees0ca-21)

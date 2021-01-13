@@ -26,4 +26,4 @@ Es gibt ein [Adeept Spider Robot Quadruped Robot Kit für Raspberry Pi 4/3 Model
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B085CDQ2BB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B085CDQ2BB/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Captain Toad: Treasure Tracker - [Nintendo 3DS]](https://www.amazon
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07BC1F4H2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07BC1F4H2/?tag=tolees0ca-21)

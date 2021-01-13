@@ -26,4 +26,4 @@ Es gibt ein [Hasbro Spiele C2473100 - OhwEi  Vorschulspiel](https://www.amazon.d
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XYNQ2PT/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XYNQ2PT/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Heißklebepistole  ORSIFOW 20W Klebepistole mit 42 Stück Klebestic
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B088ZN9BV5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B088ZN9BV5/?tag=tolees0ca-21)

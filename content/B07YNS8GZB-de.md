@@ -26,4 +26,4 @@ Es gibt ein [Kitchen Diamonds Premium Tafelsticker-Set inkl. Stift - 136 Selbstk
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07YNS8GZB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07YNS8GZB/?tag=tolees0ca-21)

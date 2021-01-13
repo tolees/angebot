@@ -26,4 +26,4 @@ Sie können [Thames & Kosmos 692872 Zubehör](https://www.amazon.de/dp/B0742KCMF
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0742KCMF5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0742KCMF5/?tag=tolees0ca-21)

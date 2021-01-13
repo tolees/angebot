@@ -26,4 +26,4 @@ Sie können [Dell Inspiron 13 7000 7370-9702 33 78 cm  13 3 Zoll FHD  Laptop  In
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B076HG1HC5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B076HG1HC5/?tag=tolees0ca-21)

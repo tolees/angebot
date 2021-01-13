@@ -26,4 +26,4 @@ Es gibt ein [Funko 13242 POP Vinylfigur: Disney: Cars 3: Cruz](https://www.amazo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XGXK18C/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XGXK18C/?tag=tolees0ca-21)

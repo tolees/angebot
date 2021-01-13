@@ -26,4 +26,4 @@ Es gibt ein [PDP Nintendo Switch The Legend of Zelda: Breath of the Wild Premium
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01N10SBT4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01N10SBT4/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Goki 4013594566834 Memo Klang  12-teilig](https://www.amazon.de/dp/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00UCOWGWY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00UCOWGWY/?tag=tolees0ca-21)

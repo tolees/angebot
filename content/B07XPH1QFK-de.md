@@ -26,4 +26,4 @@ Sie können [Apple AIRPODS 1 & 2 kompatibel CASE Off ANHÄNGER White Cover SCHUT
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07XPH1QFK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07XPH1QFK/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [TOM TAILOR Damen Jeanshosen Alexa Straight Jeans mid Stone wash Den
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B072HHYT2D/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B072HHYT2D/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Sylvanian Families - 5027 - Waschmaschinen-Set](https://www.amazon.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00HRRCRLY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00HRRCRLY/?tag=tolees0ca-21)

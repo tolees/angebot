@@ -26,4 +26,4 @@ Es gibt ein [ENACFIRE SoundBar Bluetooth Lautsprecher  12W Kabellose Tragbare Mu
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07TT2KHJM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07TT2KHJM/?tag=tolees0ca-21)

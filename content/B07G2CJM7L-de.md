@@ -26,4 +26,4 @@ Sie können [You Win.Who Cares?  Deluxe 2cd Edition ](https://www.amazon.de/dp/B
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07G2CJM7L/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07G2CJM7L/?tag=tolees0ca-21)

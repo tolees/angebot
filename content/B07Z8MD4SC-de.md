@@ -26,4 +26,4 @@ Es gibt ein [Exzenterschleifer  300W Meterk Schleifmaschine holz mit 125mm Schle
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07Z8MD4SC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07Z8MD4SC/?tag=tolees0ca-21)

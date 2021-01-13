@@ -26,4 +26,4 @@ Es gibt ein [WMF Perfect Schnellkochtopf Induktion  Dampfkochtopf 4 5l  22 cm  C
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000UAOIVC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000UAOIVC/?tag=tolees0ca-21)

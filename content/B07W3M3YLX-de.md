@@ -26,4 +26,4 @@ Sie können [Grundig Vision 6 - Fire TV Edition  32 GFW 6060  80 cm  32 Zoll  Fe
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07W3M3YLX/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07W3M3YLX/?tag=tolees0ca-21)

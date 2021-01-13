@@ -26,4 +26,4 @@ Es gibt ein [Funko 37867 POP Vinyl: BTS: RM Sammelbares Spielzeug  Mehrfarben](h
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KPSTR4B/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KPSTR4B/?tag=tolees0ca-21)

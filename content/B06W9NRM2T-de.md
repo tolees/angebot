@@ -26,4 +26,4 @@ Es gibt ein [Clementoni 59031 Galileo-Evolution Roboter](https://www.amazon.de/d
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06W9NRM2T/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06W9NRM2T/?tag=tolees0ca-21)

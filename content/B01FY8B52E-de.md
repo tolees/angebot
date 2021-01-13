@@ -26,4 +26,4 @@ Es gibt ein [Panasonic TY-ER3D6ME Aktive Bluetooth Shutterbrille  Batterie  akti
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01FY8B52E/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01FY8B52E/?tag=tolees0ca-21)

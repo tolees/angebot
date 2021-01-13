@@ -26,4 +26,4 @@ Es gibt ein [Kipling Damen Osyka Umhängetasche  Pink  Metallic Rose Gift   21x1
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PRCBJN4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PRCBJN4/?tag=tolees0ca-21)

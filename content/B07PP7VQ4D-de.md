@@ -26,4 +26,4 @@ Es gibt ein [ZTE Smartphone Axon 10 Pro  16.43 cm  6.47 Zoll  AMOLED Display  12
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PP7VQ4D/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PP7VQ4D/?tag=tolees0ca-21)

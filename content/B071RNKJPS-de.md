@@ -26,4 +26,4 @@ Sie können [Funko Pop! TV: Game of Thrones - Das Lied von Eis und Feuer - Tyrio
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B071RNKJPS/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B071RNKJPS/?tag=tolees0ca-21)

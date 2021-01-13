@@ -26,4 +26,4 @@ Es gibt ein [Pentel BL77TLE-AX EnerGel Pure Gel-Tintenroller mit Druckmechanik  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07QK2LVSS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07QK2LVSS/?tag=tolees0ca-21)

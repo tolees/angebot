@@ -26,4 +26,4 @@ Sie können [SAMSONITE PRO-DLX 5 - Rolling Tote for 15.6" Laptop - 3.1 KG Reise-
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07DLX9PKV/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07DLX9PKV/?tag=tolees0ca-21)

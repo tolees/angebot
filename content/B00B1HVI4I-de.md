@@ -26,4 +26,4 @@ Es gibt ein [Belkin Dual KfZ-Ladegerät  2.1A  10 Watt  geeignet für iPhone 5/5
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00B1HVI4I/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00B1HVI4I/?tag=tolees0ca-21)

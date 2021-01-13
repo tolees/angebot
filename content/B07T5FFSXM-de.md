@@ -26,4 +26,4 @@ Sie können [JUMANJI: Das Videospiel - [Nintendo Switch]](https://www.amazon.de/
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07T5FFSXM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07T5FFSXM/?tag=tolees0ca-21)

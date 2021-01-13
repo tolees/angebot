@@ -26,4 +26,4 @@ Es gibt ein [Invicta 8930OB Pro Diver Unisex Uhr Edelstahl Automatik blauen Ziff
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00J4JKTZY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00J4JKTZY/?tag=tolees0ca-21)

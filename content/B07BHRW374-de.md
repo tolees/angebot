@@ -26,4 +26,4 @@ Es gibt ein [Hisense H55U7A 138 cm  55 Zoll  Fernseher  Ultra HD  HDR Plus  Trip
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07BHRW374/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07BHRW374/?tag=tolees0ca-21)

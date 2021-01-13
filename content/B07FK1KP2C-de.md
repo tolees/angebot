@@ -26,4 +26,4 @@ Es gibt ein [Hasbro Beyblade Burst E3629EU4 - Rail Rush Battle Set  Spielset](ht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07FK1KP2C/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FK1KP2C/?tag=tolees0ca-21)

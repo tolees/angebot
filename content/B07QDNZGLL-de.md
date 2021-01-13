@@ -26,4 +26,4 @@ Sie können [Funko 43533 POP Vinyl TV: Walking Dead-Dog The Sammelbares Spielzeu
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07QDNZGLL/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07QDNZGLL/?tag=tolees0ca-21)

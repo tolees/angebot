@@ -26,4 +26,4 @@ Es gibt ein [Tres Chicon Mezcal Artesanal  100% Espadin Agave   1 x 0.7l ](https
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08BJDWJGF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08BJDWJGF/?tag=tolees0ca-21)

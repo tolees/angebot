@@ -26,4 +26,4 @@ Sie können [OnePlus 8  5G  Smartphone ohne Vertrag  8GB + 128GB Speicher  6.55"
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07XY9B91B/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07XY9B91B/?tag=tolees0ca-21)

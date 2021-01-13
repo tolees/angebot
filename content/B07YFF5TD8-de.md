@@ -26,4 +26,4 @@ Es gibt ein [Kohlenmonoxid Warnmelder LCD Anzeige CO Melder 85Db Alarm Kohlenmon
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07YFF5TD8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07YFF5TD8/?tag=tolees0ca-21)

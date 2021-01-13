@@ -26,4 +26,4 @@ Es gibt ein [SALOMON Herren X Ultra 3 Mid GTX Trekking- & Wanderstiefel  Schwarz
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0725SK4ZH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0725SK4ZH/?tag=tolees0ca-21)

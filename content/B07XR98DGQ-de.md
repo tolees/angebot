@@ -26,4 +26,4 @@ Es gibt ein [Apple Leder Case  für iPhone 11 Pro Max  - Sonnengelb](https://www
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07XR98DGQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07XR98DGQ/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Ravensburger 21570 Der Maulwurf und sein Lieblingsspiel](https://ww
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0000TZ4XO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0000TZ4XO/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Funko 40652 IT Pennywise Sammelbares Spielzeug  Mehrfarben](https:/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07RQ964KR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07RQ964KR/?tag=tolees0ca-21)

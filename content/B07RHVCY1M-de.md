@@ -26,4 +26,4 @@ Sie können [Denon AVR-X2600H 7.2-Kanal AV-Receiver  Hifi Verstärker  Alexa Kom
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07RHVCY1M/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07RHVCY1M/?tag=tolees0ca-21)

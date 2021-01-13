@@ -26,4 +26,4 @@ Es gibt ein [VAUDE Damen Hose Women s Farley Stretch Capri T-Zip II  Black  44  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00BL9E4OW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00BL9E4OW/?tag=tolees0ca-21)

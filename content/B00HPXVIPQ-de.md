@@ -26,4 +26,4 @@ Es gibt ein [Gardena Comfort FLEX Schlauch 13 mm  1/2 Zoll   10 m: Formstabiler 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00HPXVIPQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00HPXVIPQ/?tag=tolees0ca-21)

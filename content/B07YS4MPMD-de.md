@@ -26,4 +26,4 @@ Es gibt ein [G DATA Internet Security 2020 | 3 Geräte - 1 Jahr  DVD-ROM inkl. W
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07YS4MPMD/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07YS4MPMD/?tag=tolees0ca-21)

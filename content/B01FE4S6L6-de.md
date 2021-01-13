@@ -26,4 +26,4 @@ Es gibt ein [10x Druckerpatronen Komp. für Epson T1301 XL für Stylus SX525WD S
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01FE4S6L6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01FE4S6L6/?tag=tolees0ca-21)

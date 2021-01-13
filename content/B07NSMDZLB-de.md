@@ -26,4 +26,4 @@ Sie können [Funko 39524 POP Vinyl Johnny Cash Sammelbares Spielzeug  Mehrfarben
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07NSMDZLB/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07NSMDZLB/?tag=tolees0ca-21)

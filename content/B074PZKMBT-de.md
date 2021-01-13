@@ -26,4 +26,4 @@ Es gibt ein [Sony Xperia XZ1 Smartphone   13 2 cm  5 2 Zoll  Triluminos Display 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B074PZKMBT/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B074PZKMBT/?tag=tolees0ca-21)

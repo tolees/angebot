@@ -26,4 +26,4 @@ Sie können [MSI GF75 8RC-005DE Thin  43 9 cm/17 3 Zoll/100% sRGB  Gaming-Laptop
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07KF9TKTJ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07KF9TKTJ/?tag=tolees0ca-21)

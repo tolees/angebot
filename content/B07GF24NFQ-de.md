@@ -26,4 +26,4 @@ Es gibt ein [Levi s Herren Type 3 Sherpa Trucker-Jacke  Blau  Mayze Sherpa Truck
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07GF24NFQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GF24NFQ/?tag=tolees0ca-21)

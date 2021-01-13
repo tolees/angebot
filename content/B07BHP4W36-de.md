@@ -26,4 +26,4 @@ Es gibt ein [Soundcore Flare Tragbarer & Kompakter Bluetooth Lautsprecher von An
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07BHP4W36/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07BHP4W36/?tag=tolees0ca-21)

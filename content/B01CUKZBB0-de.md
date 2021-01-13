@@ -26,4 +26,4 @@ Es gibt ein [Amazon-Schutzhülle für Kindle  Schwarz —nicht geeignet für Mod
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01CUKZBB0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01CUKZBB0/?tag=tolees0ca-21)

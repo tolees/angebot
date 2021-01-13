@@ -26,4 +26,4 @@ Es gibt ein [ADAPTIL Express Tabletten  10 Stück  Ergänzungsfuttermittel zur B
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00WHHADRE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00WHHADRE/?tag=tolees0ca-21)

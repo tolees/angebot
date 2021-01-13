@@ -26,4 +26,4 @@ Sie können [Lenovo Smart Tab M10 mit Amazon Alexa 25 5 cm  10 1 Zoll  1920x1200
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07MLJ4F49/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07MLJ4F49/?tag=tolees0ca-21)

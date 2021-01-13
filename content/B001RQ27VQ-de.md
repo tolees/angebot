@@ -26,4 +26,4 @@ Sie können [Cramer Reparatur-Lackstift Email  Acryl  Keramik - Sanitärlack zum
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B001RQ27VQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B001RQ27VQ/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Hasbro Gaming 98936398 - Hippo Flipp Kinderspiel](https://www.amazo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B077PDD4WP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B077PDD4WP/?tag=tolees0ca-21)

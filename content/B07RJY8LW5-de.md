@@ -26,4 +26,4 @@ Sie können [WLAN Adapter WiFi Stick 600Mbps Mini Dual Band 2.4GHz / 5GHz Wirele
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07RJY8LW5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07RJY8LW5/?tag=tolees0ca-21)

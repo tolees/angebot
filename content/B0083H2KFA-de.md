@@ -26,4 +26,4 @@ Es gibt ein [Odys Seal 9 tragbarer DVD-Player  mit zusätzlichem  drehbarem Bild
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0083H2KFA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0083H2KFA/?tag=tolees0ca-21)

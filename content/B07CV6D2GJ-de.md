@@ -26,4 +26,4 @@ Es gibt ein [JACK & JONES Herren JFWALBANY Leather STS Biker Boots  Braun  Brown
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07CV6D2GJ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07CV6D2GJ/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Aigital AC1200 WLAN Repeater Wi-Fi Verstaerker Range Extender Boost
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07XDT8XCG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07XDT8XCG/?tag=tolees0ca-21)

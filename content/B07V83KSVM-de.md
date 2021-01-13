@@ -26,4 +26,4 @@ Sie können [Transport Fever 2](https://www.amazon.de/dp/B07V83KSVM/?tag=tolees0
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07V83KSVM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07V83KSVM/?tag=tolees0ca-21)

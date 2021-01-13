@@ -26,4 +26,4 @@ Sie können [DJI - Smart Battery für Mavic 2 Pro und Mavic 2 Zoom | Flugzeiten 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07GND5TSJ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07GND5TSJ/?tag=tolees0ca-21)

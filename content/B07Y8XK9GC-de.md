@@ -26,4 +26,4 @@ Sie können [Xiaomi Redmi Note 8 Pro Smartphone  16 59cm  6 53 Zoll  FHD+ Displa
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07Y8XK9GC/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07Y8XK9GC/?tag=tolees0ca-21)

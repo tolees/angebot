@@ -26,4 +26,4 @@ Es gibt ein [Logitech MX Vertical Ergonomische Kabellose Maus  Bluetooth und 2.4
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07FNHV4MW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FNHV4MW/?tag=tolees0ca-21)

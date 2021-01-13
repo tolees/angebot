@@ -26,4 +26,4 @@ Sie können [Legacy Vinyl Box Set [Vinyl LP]](https://www.amazon.de/dp/B07HM5FDZ
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07HM5FDZ3/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07HM5FDZ3/?tag=tolees0ca-21)

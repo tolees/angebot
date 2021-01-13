@@ -26,4 +26,4 @@ Es gibt ein [Nokia ACP-12E Reiseladegerät](https://www.amazon.de/dp/B000LAX6RI/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000LAX6RI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000LAX6RI/?tag=tolees0ca-21)

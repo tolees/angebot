@@ -26,4 +26,4 @@ Es gibt ein [Echo Dot  3. Gen.   Anthrazit Stoff + Amazon Smart Plug  WLAN-Steck
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08D1G2XVX/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08D1G2XVX/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Post-it Super Sticky Notes Marrakesh Collection 6556SM – Selbstkl
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00QNBLNR4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00QNBLNR4/?tag=tolees0ca-21)

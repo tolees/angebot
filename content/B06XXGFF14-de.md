@@ -26,4 +26,4 @@ Es gibt ein [New Balance Damen 574v2 Core Sneaker  Grau  Grey   40 EU](https://w
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XXGFF14/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XXGFF14/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Pentel BK440-C Kugelschreiber mit Druckmechanik und ergonomischer D
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000UHMXVC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000UHMXVC/?tag=tolees0ca-21)

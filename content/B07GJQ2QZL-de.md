@@ -26,4 +26,4 @@ Es gibt ein [DJI Mavic 2 Zoom Drohne Quadrocopter mit 24-48mm Optischer Zoom Kam
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07GJQ2QZL/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GJQ2QZL/?tag=tolees0ca-21)

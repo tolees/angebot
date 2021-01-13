@@ -26,4 +26,4 @@ Es gibt ein [Einhell Elektro-Rasentrimmer GC-ET 3023  300 W  11.000 1/min Umdreh
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00HT94CVS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00HT94CVS/?tag=tolees0ca-21)

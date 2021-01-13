@@ -26,4 +26,4 @@ Sie können [Transcend 512GB SATA III 6GB/S MTS430S 42 mm m.2 SSD 430S SSD TS512
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07MSQMGLT/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07MSQMGLT/?tag=tolees0ca-21)

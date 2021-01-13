@@ -26,4 +26,4 @@ Sie können [Philips 55PUS7502/12 139cm  55 Zoll  LED-Fernseher  Ultra-HD  Smart
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06XHZ461C/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06XHZ461C/?tag=tolees0ca-21)

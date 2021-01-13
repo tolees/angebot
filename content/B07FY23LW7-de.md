@@ -26,4 +26,4 @@ Sie können [TP-Link TL-SG116 16-Ports Gigabit Netzwerk Switch  32 Gbit/S Switch
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07FY23LW7/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07FY23LW7/?tag=tolees0ca-21)

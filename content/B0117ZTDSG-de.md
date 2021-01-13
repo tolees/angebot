@@ -26,4 +26,4 @@ Sie können [AVM FRITZ!Box 7430  VDSL-/ADSL2+  WLAN N  450 MBit/s  2 4 GHz   TK-
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0117ZTDSG/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0117ZTDSG/?tag=tolees0ca-21)

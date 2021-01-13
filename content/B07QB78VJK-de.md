@@ -26,4 +26,4 @@ Es gibt ein [PUTORSEN® PC Gaming Monitorständer für 17-32 Zoll - Schwenkbar N
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07QB78VJK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07QB78VJK/?tag=tolees0ca-21)

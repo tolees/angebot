@@ -26,4 +26,4 @@ Sie können [Bang & Olufsen Beoplay A1 Bluetooth-Lautsprecher  wetterfest  sands
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06XDJF59H/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06XDJF59H/?tag=tolees0ca-21)

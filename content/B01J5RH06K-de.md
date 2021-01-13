@@ -26,4 +26,4 @@ Es gibt ein [SanDisk Extreme PRO 128 GB SDXC Speicherkarte bis zu 95 MB/Sek  Cla
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01J5RH06K/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01J5RH06K/?tag=tolees0ca-21)

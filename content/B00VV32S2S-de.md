@@ -26,4 +26,4 @@ Es gibt ein [TaoTronics Schreibtischlampe LED 12W Büro Tischleuchte 5 Farb und 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00VV32S2S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00VV32S2S/?tag=tolees0ca-21)

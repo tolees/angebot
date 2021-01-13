@@ -26,4 +26,4 @@ Es gibt ein [Funko 12384 POP Vinylfigur: My Hero Academia: Ochako](https://www.a
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B072F3M8KP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B072F3M8KP/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Asus PCE-AC56 PCIe-Karte  Wi-Fi 5 AC1300 Dual-Band  PCIe 1x  2x ext
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B00JNA337K/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B00JNA337K/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [LEGO 41362 - Friends Supermarkt von Heartlake City  Bauset](https:
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KTK9B4B/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KTK9B4B/?tag=tolees0ca-21)

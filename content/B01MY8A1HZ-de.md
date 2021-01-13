@@ -26,4 +26,4 @@ Sie können [Philips Lumea Prestige IPL Haarentfernungsgerät BRI954 – Lichtba
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01MY8A1HZ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01MY8A1HZ/?tag=tolees0ca-21)

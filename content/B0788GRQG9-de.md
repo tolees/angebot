@@ -26,4 +26,4 @@ Sie können [Unold 48165 PANCAKE-MAKER American  Kunststoff  Schwarz/edelstahl G
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0788GRQG9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0788GRQG9/?tag=tolees0ca-21)

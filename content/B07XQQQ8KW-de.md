@@ -26,4 +26,4 @@ Es gibt ein [LG PK7W Outdoor Bluetooth Lautsprecher mit Meridian Technologie Wei
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07XQQQ8KW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07XQQQ8KW/?tag=tolees0ca-21)

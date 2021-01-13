@@ -26,4 +26,4 @@ Es gibt ein [beyerdynamic professionelles FOX USB Mikrofon für Heimstudios und 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B078GV3WP6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B078GV3WP6/?tag=tolees0ca-21)

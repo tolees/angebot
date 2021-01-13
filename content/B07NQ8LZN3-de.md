@@ -26,4 +26,4 @@ Sie können [Samsung Galaxy Buds SM-R170NZWADBT I Kabellose Kopfhörer Weiß I B
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07NQ8LZN3/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07NQ8LZN3/?tag=tolees0ca-21)

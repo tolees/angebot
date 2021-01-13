@@ -26,4 +26,4 @@ Es gibt ein [Ravensburger 24990" Entdecke die Welt Lernspiel](https://www.amazon
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B077Y5JC6Y/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B077Y5JC6Y/?tag=tolees0ca-21)

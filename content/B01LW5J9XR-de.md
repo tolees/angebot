@@ -26,4 +26,4 @@ Sie können [Grundig CMS 1050 DAB+ BT Kompakt Micro Anlage  Bluetooth  CD-MP3-Wi
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01LW5J9XR/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01LW5J9XR/?tag=tolees0ca-21)

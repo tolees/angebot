@@ -26,4 +26,4 @@ Es gibt ein [Thrustmaster T.Racing Scuderia Ferrari Edition  Gaming-Headset  50m
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07GZF4RXD/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GZF4RXD/?tag=tolees0ca-21)

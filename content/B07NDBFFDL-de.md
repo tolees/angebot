@@ -26,4 +26,4 @@ Sie können [Produkttitel fehlt - Wird nachgereicht](https://www.amazon.de/dp/B0
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07NDBFFDL/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07NDBFFDL/?tag=tolees0ca-21)

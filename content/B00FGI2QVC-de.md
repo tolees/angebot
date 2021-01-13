@@ -26,4 +26,4 @@ Es gibt ein [Anker 2.4G Wireless Maus Vertikale Ergonomische Funkmaus Vertical M
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00FGI2QVC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00FGI2QVC/?tag=tolees0ca-21)

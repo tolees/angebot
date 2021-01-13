@@ -26,4 +26,4 @@ Es gibt ein [Neato Robotics D450 945-0343 Saugroboter Exklusive Tier Edition  In
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NH3F8C6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NH3F8C6/?tag=tolees0ca-21)

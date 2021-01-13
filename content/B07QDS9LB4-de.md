@@ -26,4 +26,4 @@ Es gibt ein [Rotho Albula Mülltrennungssystem für Küche / Set 3fach / Müllei
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07QDS9LB4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07QDS9LB4/?tag=tolees0ca-21)

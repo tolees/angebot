@@ -26,4 +26,4 @@ Es gibt ein [Tablet 10 Zoll  Android 8.1  Dragon Touch K10 Tablet Pad 2GB+16GB  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07WYYW2YM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07WYYW2YM/?tag=tolees0ca-21)

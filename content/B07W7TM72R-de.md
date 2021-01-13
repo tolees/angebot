@@ -26,4 +26,4 @@ Es gibt ein [LEGO 41401 Friends Stephanies magischer Würfel  Sammlerbauset  Min
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07W7TM72R/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07W7TM72R/?tag=tolees0ca-21)

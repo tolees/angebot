@@ -26,4 +26,4 @@ Es gibt ein [Playmobil 6150 - Star-Shooting](https://www.amazon.de/dp/B00O4E3H0S
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00O4E3H0S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00O4E3H0S/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Ravensburger 22093 - Schnappt Hubi!](https://www.amazon.de/dp/B004O
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B004O0TOU4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B004O0TOU4/?tag=tolees0ca-21)

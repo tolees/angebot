@@ -26,4 +26,4 @@ Es gibt ein [Trust Urban Senfus IPX5 wasserfeste Bluetooth In-Ear-Sport-Ohrhöre
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B016RWKHBQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B016RWKHBQ/?tag=tolees0ca-21)

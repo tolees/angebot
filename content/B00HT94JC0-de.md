@@ -26,4 +26,4 @@ Es gibt ein [Einhell Akku-Hochentaster GC-LC 1815 T  Lithium-Ionen Akku 18 V  1 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00HT94JC0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00HT94JC0/?tag=tolees0ca-21)

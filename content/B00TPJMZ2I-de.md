@@ -26,4 +26,4 @@ Es gibt ein [Milwaukee Akku  M18 B5  18 V/5.0 Ah Red Li-Ion](https://www.amazon.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00TPJMZ2I/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00TPJMZ2I/?tag=tolees0ca-21)

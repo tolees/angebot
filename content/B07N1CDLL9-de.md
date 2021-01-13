@@ -26,4 +26,4 @@ Sie können [Glass [Blu-ray]](https://www.amazon.de/dp/B07N1CDLL9/?tag=tolees0ca
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07N1CDLL9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07N1CDLL9/?tag=tolees0ca-21)

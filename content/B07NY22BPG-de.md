@@ -26,4 +26,4 @@ Es gibt ein [Mattel GFR28 - Toy Story 4 Sprechender Buzz Lightyear deutschsprach
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NY22BPG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NY22BPG/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Revell Build & Play - Star Wars First Order Heavy Assault Walker - 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01N7XRPNY/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01N7XRPNY/?tag=tolees0ca-21)

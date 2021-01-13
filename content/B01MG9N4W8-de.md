@@ -26,4 +26,4 @@ Es gibt ein [BRUBAKER Cosmetics Bade- und Pflegeset Cranberry im Holzschrank](ht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01MG9N4W8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MG9N4W8/?tag=tolees0ca-21)

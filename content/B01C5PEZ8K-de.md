@@ -26,4 +26,4 @@ Es gibt ein [Tchibo Cafissimo Pure Kaffee Kapselmaschine  Rot](https://www.amazo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01C5PEZ8K/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01C5PEZ8K/?tag=tolees0ca-21)

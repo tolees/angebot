@@ -26,4 +26,4 @@ Sie können [Mantona Basic Scout Fotostativ  Kamerastativ bis 144cm  inkl. robus
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B002CF37OC/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B002CF37OC/?tag=tolees0ca-21)

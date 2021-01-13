@@ -26,4 +26,4 @@ Es gibt ein [Kepae Acryl Vitrine für Lego 42083 Technic Bugatti Chiron  Durchsi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B083VRM4PM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B083VRM4PM/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Mini PC  Lüfterlos Intel Atom X5-Z8350 Prozessor Quad-Core CPU 4 G
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07PS1KVD1/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07PS1KVD1/?tag=tolees0ca-21)

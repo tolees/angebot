@@ -26,4 +26,4 @@ Sie können [DARLINGTON & Sohns Grauer Controller für Nintendo 64 N64 Joystick 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B08F3PWBCK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B08F3PWBCK/?tag=tolees0ca-21)

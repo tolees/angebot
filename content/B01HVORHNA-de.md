@@ -26,4 +26,4 @@ Sie können [Westmark Kartoffelstampfer  Kunststoff  Länge: 27 5 cm  Gallant  S
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01HVORHNA/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01HVORHNA/?tag=tolees0ca-21)

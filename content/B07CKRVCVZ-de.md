@@ -26,4 +26,4 @@ Sie können [Hasbro Nerf B8072EU5 N-Strike Elite TerraScout  Multicolor](https:/
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07CKRVCVZ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07CKRVCVZ/?tag=tolees0ca-21)

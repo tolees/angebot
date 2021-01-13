@@ -26,4 +26,4 @@ Sie können [LED View Cover für Galaxy S10e Schwarz](https://www.amazon.de/dp/B
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07NBZR1PY/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07NBZR1PY/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [PS4-Controller  Touchpanel-Gamepad mit Vibrations- und Audiofunktio
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B086ZXZYGH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B086ZXZYGH/?tag=tolees0ca-21)

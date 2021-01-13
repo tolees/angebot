@@ -26,4 +26,4 @@ Es gibt ein [Wenko Herdabdeckplatte Universal Chili  2er Set Herdabdeckung für 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00576BSSK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00576BSSK/?tag=tolees0ca-21)

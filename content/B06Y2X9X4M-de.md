@@ -26,4 +26,4 @@ Es gibt ein [Hasbro Spiele C0432100 - Perfektion  Geschicklichkeitsspiel](https:
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06Y2X9X4M/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06Y2X9X4M/?tag=tolees0ca-21)

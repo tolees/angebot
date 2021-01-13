@@ -26,4 +26,4 @@ Es gibt ein [Led Leuchtmittel E27 Warmweiß 12W  Lampe Licht 3000K 984 Lumen  Bi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07D8KTZSK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07D8KTZSK/?tag=tolees0ca-21)

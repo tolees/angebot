@@ -26,4 +26,4 @@ Es gibt ein [MAJA-Möbel 1611 9499 TV- HiFi-Rack  Metall Alu - Klarglas  Abmessu
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00E5XH4OS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00E5XH4OS/?tag=tolees0ca-21)

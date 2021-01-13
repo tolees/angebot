@@ -26,4 +26,4 @@ Es gibt ein [Wissen ist Macht: Dekaden [PlayStation 4]](https://www.amazon.de/dp
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07FG4TZFK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FG4TZFK/?tag=tolees0ca-21)

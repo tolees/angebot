@@ -26,4 +26,4 @@ Es gibt ein [SS&LL Cubo de basura del Pedal Papelera de Acero inoxidable Con tap
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07SMGM4QP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07SMGM4QP/?tag=tolees0ca-21)

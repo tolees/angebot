@@ -26,4 +26,4 @@ Es gibt ein [Inter Link 13500020 Regal weiß Bücherregal Wandregal Aktenregal B
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0072HJZQO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0072HJZQO/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Tommy Hilfiger Herren CORE STRETCH SLIM POPLIN SHIRT Freizeithemd  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B016QM4XAI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B016QM4XAI/?tag=tolees0ca-21)

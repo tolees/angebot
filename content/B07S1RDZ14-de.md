@@ -26,4 +26,4 @@ Es gibt ein [Hpybest 10 Ps 12–60 mm HSS Lochsägenbohrer HSS HSS Lochsäge Met
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07S1RDZ14/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07S1RDZ14/?tag=tolees0ca-21)

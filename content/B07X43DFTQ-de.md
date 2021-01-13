@@ -26,4 +26,4 @@ Sie können [Lenovo Chromebook C340 Laptop 29 5 cm  11 6 Zoll  1366x768  HD  IPS
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07X43DFTQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07X43DFTQ/?tag=tolees0ca-21)

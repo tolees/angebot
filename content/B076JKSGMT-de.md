@@ -26,4 +26,4 @@ Es gibt ein [Talisker Single Malt Whisky 10 Jahre  Geschenkpackung mit 2 Gläser
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B076JKSGMT/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B076JKSGMT/?tag=tolees0ca-21)

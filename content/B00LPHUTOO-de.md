@@ -26,4 +26,4 @@ Es gibt ein [Vileda Steam Dampfreiniger](https://www.amazon.de/dp/B00LPHUTOO/?ta
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00LPHUTOO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00LPHUTOO/?tag=tolees0ca-21)

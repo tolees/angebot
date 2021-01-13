@@ -26,4 +26,4 @@ Sie können [ONLY NOS Damen Onlroyal Hw Sk White Noos Skinny Jeans Weiß  White 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07NZZWT9G/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07NZZWT9G/?tag=tolees0ca-21)

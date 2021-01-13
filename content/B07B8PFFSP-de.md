@@ -26,4 +26,4 @@ Es gibt ein [LEGO Star Wars Minifigur 4-Lom mit 2 GALAXYARMS Waffen](https://www
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07B8PFFSP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07B8PFFSP/?tag=tolees0ca-21)

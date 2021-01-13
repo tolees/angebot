@@ -26,4 +26,4 @@ Sie können [VGA HDMI Dummy Plug Virtueller Display-Emulator-Adapter DDC Edid-Un
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07PXCFSZL/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07PXCFSZL/?tag=tolees0ca-21)

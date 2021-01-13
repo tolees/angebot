@@ -26,4 +26,4 @@ Es gibt ein [Crocs Unisex-Erwachsene Baya  Clogs  Grau  Graphite   45/46 EU](htt
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B003BLPRL2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B003BLPRL2/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Güde 02882 Automatik Schlauchtrommel 15M  12 Bar max. Arbeitsdruck
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07FKT2NXR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FKT2NXR/?tag=tolees0ca-21)

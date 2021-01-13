@@ -26,4 +26,4 @@ Es gibt ein [Navitech rot Harter Fall für die Transcend 16 GB DrivePro 200 Car 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B077TBD8HY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B077TBD8HY/?tag=tolees0ca-21)

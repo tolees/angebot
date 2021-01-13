@@ -26,4 +26,4 @@ Es gibt ein [SEVERIN Crêpes Maker CM 2198  Inkl. Holz-Teigspatel und -Crêpeswe
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B002ALSHZC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B002ALSHZC/?tag=tolees0ca-21)

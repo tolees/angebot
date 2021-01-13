@@ -26,4 +26,4 @@ Es gibt ein [LG UltraHD 4K LED HDR 3940 x 2160  Radeon FreeSync  HDMI  Display P
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B085P2BXPQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B085P2BXPQ/?tag=tolees0ca-21)

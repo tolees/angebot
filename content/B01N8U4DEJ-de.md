@@ -26,4 +26,4 @@ Es gibt ein [Duronic VC8 /BK beutelloser Staubsauger | 800 Watt | Handstaubsauge
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01N8U4DEJ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01N8U4DEJ/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Timezone Herren Slim ScottTZ Shorts  Blau  Used Bright Blue wash 33
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07GXVB5NX/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07GXVB5NX/?tag=tolees0ca-21)

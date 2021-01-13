@@ -26,4 +26,4 @@ Sie können [Asus TUF Gaming FX505DY  90NR01A2-M01050  39  6 cm  15  6 Zoll  FHD
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07MQB8WT5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07MQB8WT5/?tag=tolees0ca-21)

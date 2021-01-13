@@ -26,4 +26,4 @@ Sie können [caseable Kindle und Kindle Paperwhite Hülle  Don t care](https://w
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07H82GQ1K/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07H82GQ1K/?tag=tolees0ca-21)

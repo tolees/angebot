@@ -26,4 +26,4 @@ Es gibt ein [Logitech G PRO Wireless Gaming Maus  Hero 16000 DPI Sensor  USB-Ans
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07G5SF48Z/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07G5SF48Z/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Fossil Damen-Ketten Edelstahl Rundschliff Oxyde de Zirconium](https
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B008JZUBNY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B008JZUBNY/?tag=tolees0ca-21)

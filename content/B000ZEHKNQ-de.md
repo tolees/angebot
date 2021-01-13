@@ -26,4 +26,4 @@ Es gibt ein [Rothenberger 70228 Standhahnmutternschlüssel 235mm](https://www.am
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000ZEHKNQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000ZEHKNQ/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Skagen Smartwatch SKT5100](https://www.amazon.de/dp/B07HL5TL3S/?tag
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07HL5TL3S/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07HL5TL3S/?tag=tolees0ca-21)

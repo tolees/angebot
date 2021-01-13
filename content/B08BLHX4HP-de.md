@@ -26,4 +26,4 @@ Es gibt ein [Bluetooth Kopfhörer  In-Ear Kabellose Kopfhörer  Noise Cancelling
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08BLHX4HP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08BLHX4HP/?tag=tolees0ca-21)

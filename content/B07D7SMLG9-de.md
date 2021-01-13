@@ -26,4 +26,4 @@ Sie können [Funko POP My Hero Academia SHOTA AIZ](https://www.amazon.de/dp/B07D
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07D7SMLG9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07D7SMLG9/?tag=tolees0ca-21)

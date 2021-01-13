@@ -26,4 +26,4 @@ Es gibt ein [Funko 26974 Pop! Star Wars: Han Solo Bobble Figure](https://www.ama
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B079YG2DR6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B079YG2DR6/?tag=tolees0ca-21)

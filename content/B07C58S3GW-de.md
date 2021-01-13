@@ -26,4 +26,4 @@ Sie können [Netgear GS728TPP 28-Port Gigabit Ethernet LAN PoE Switch Smart Mana
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07C58S3GW/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07C58S3GW/?tag=tolees0ca-21)

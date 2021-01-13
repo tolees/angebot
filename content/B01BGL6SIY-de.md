@@ -26,4 +26,4 @@ Es gibt ein [fischertechnik - 536619 PROFI Dynamic XS  Kugelbahn](https://www.am
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01BGL6SIY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01BGL6SIY/?tag=tolees0ca-21)

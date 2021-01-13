@@ -26,4 +26,4 @@ Es gibt ein [Logitech G332 Gaming-Headset Special Edition  Stereo Sound  50mm Tr
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07W4DG8RF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07W4DG8RF/?tag=tolees0ca-21)

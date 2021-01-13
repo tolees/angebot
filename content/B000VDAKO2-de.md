@@ -26,4 +26,4 @@ Es gibt ein [Kopp 565656001 Nautic Universalschalter  Aus-und Wechselschalter   
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000VDAKO2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000VDAKO2/?tag=tolees0ca-21)

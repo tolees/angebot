@@ -26,4 +26,4 @@ Sie können [kingromargo Herramienta precisa de reparación de retrabajo de sold
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07MQSBXQ7/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07MQSBXQ7/?tag=tolees0ca-21)

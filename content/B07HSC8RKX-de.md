@@ -26,4 +26,4 @@ Es gibt ein [MSI MPG Z390i Gaming Edge AC  LGA 1151 Mainboard  DDR4  2X Turbo M.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07HSC8RKX/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HSC8RKX/?tag=tolees0ca-21)

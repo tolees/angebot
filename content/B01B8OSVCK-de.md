@@ -26,4 +26,4 @@ Es gibt ein [DELL KB216 USB QWERTY US International Schwarz Tastatur - Tastature
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01B8OSVCK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01B8OSVCK/?tag=tolees0ca-21)

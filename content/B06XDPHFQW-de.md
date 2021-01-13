@@ -26,4 +26,4 @@ Es gibt ein [Calvin Klein Damen Bottom Pant Jogger Sporthose  Grau  Grey Heather
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XDPHFQW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XDPHFQW/?tag=tolees0ca-21)

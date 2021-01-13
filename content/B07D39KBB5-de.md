@@ -26,4 +26,4 @@ Sie können [Dell 2YK0F - AC Adapter USB Type-C 65W Includes Power Cable  12 War
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07D39KBB5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07D39KBB5/?tag=tolees0ca-21)

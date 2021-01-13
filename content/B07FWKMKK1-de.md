@@ -26,4 +26,4 @@ Sie können [Mattel GFB55 - Disney Pixar Toy Story 4 Stunt Motorradfahrer Duke C
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07FWKMKK1/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07FWKMKK1/?tag=tolees0ca-21)

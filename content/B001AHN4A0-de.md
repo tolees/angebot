@@ -26,4 +26,4 @@ Es gibt ein [HAN Briefablage KLASSIK 1026-X-23  in Transparent-Glasklar / Hochwe
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001AHN4A0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001AHN4A0/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Bosch Professional 7tlg. Betonbohrer Set CYL-3  für Beton  Ø 4-10
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B008HRFFJE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B008HRFFJE/?tag=tolees0ca-21)

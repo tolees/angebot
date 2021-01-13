@@ -26,4 +26,4 @@ Es gibt ein [Bluetooth Lautsprecher  AXLOIE Wireless tragbarer Lautsprecher Blue
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07Y7R5JW2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07Y7R5JW2/?tag=tolees0ca-21)

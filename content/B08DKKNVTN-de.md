@@ -26,4 +26,4 @@ Es gibt ein [HDMI KVM Switch USB 4 Port 4K 4 PC 1 Monitor Switch 4K @ 30Hz 4 In 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08DKKNVTN/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08DKKNVTN/?tag=tolees0ca-21)

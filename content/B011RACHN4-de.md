@@ -26,4 +26,4 @@ Es gibt ein [TP-Link TL-WA901ND V5.0 450MBit/s-WLAN Accesspoint  802.11b/g/n  WP
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B011RACHN4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B011RACHN4/?tag=tolees0ca-21)

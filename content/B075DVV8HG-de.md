@@ -26,4 +26,4 @@ Es gibt ein [Spyderco Dragonfly 2 Zome Taschenmesser Military Tan  Klingenlänge
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B075DVV8HG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B075DVV8HG/?tag=tolees0ca-21)

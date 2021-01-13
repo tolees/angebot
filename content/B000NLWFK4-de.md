@@ -26,4 +26,4 @@ Es gibt ein [Casio Collection Herren Armbanduhr BEM-111D-1AVEF](https://www.amaz
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000NLWFK4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000NLWFK4/?tag=tolees0ca-21)

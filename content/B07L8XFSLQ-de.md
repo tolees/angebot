@@ -26,4 +26,4 @@ Es gibt ein [Laptop Rucksack Herren und Damen für 17 Zoll Notebook Reiserucksac
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07L8XFSLQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07L8XFSLQ/?tag=tolees0ca-21)

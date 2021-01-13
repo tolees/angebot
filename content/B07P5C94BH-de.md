@@ -26,4 +26,4 @@ Es gibt ein [T98 Airpods Case Metall 2019 Neuestes AirPods Hülle Mit Airpods Zu
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07P5C94BH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07P5C94BH/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [SanDisk SDCZ43-064G-GAM46 USB-Flash-Laufwerk USB 3.0 bis zu 150 MB/
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01BGTG3JA/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01BGTG3JA/?tag=tolees0ca-21)

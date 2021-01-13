@@ -26,4 +26,4 @@ Sie können [SanDisk Ultra 3D SSD interne Festplatte 4 TB  2 5 Zoll  stoßfest  
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07W1SYTTT/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07W1SYTTT/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Philips 5000 Serie EP5335/10 Kaffeevollautomat  6 Kaffeespezialitä
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07DP8Y6MK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07DP8Y6MK/?tag=tolees0ca-21)

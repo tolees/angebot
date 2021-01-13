@@ -26,4 +26,4 @@ Es gibt ein [Logitech C310 Webcam  HD 720p  60° Sichtfeld  Fester Fokus  Belich
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01BGBJ8RC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01BGBJ8RC/?tag=tolees0ca-21)

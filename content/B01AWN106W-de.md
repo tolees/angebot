@@ -26,4 +26,4 @@ Es gibt ein [Kitchen Craft LOVELLO Brotkasten  42 x 22 x 18 cm – Schwarz](ht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01AWN106W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01AWN106W/?tag=tolees0ca-21)

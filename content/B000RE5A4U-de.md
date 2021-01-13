@@ -26,4 +26,4 @@ Es gibt ein [Eastpak Wyoming Rucksack  40 cm  24 L  Schwarz  Black ](https://www
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000RE5A4U/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000RE5A4U/?tag=tolees0ca-21)

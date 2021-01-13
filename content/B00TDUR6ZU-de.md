@@ -26,4 +26,4 @@ Es gibt ein [Belkin Premium Mixit Metallic Ladegerät  2 4A  USB Anschluss  geei
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00TDUR6ZU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00TDUR6ZU/?tag=tolees0ca-21)

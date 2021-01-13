@@ -26,4 +26,4 @@ Sie können [Lucy   4K Ultra HD   + Blu-ray ](https://www.amazon.de/dp/B01I2BO5Y
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01I2BO5YA/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01I2BO5YA/?tag=tolees0ca-21)

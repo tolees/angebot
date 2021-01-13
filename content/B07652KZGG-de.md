@@ -26,4 +26,4 @@ Es gibt ein [Synology DS218 + 6TB  2 x 3TB WD RED  2 Bay Desktop-NAS-Einheit](ht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07652KZGG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07652KZGG/?tag=tolees0ca-21)

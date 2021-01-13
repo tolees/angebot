@@ -26,4 +26,4 @@ Sie können [Seagate Expansion Portable  5 TB  tragbare externe Festplatte  2.5 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07TNVBLNT/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07TNVBLNT/?tag=tolees0ca-21)

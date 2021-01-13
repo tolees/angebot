@@ -26,4 +26,4 @@ Es gibt ein [Aobp 50M Gummiband Weiß Gummilitze Elastische Schnur Gummikordel R
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08DFQFNBW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08DFQFNBW/?tag=tolees0ca-21)

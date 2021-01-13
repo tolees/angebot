@@ -26,4 +26,4 @@ Sie können [Lenovo IdeaCentre AIO A540 60 45 cm  23 8 Zoll Full HD IPS  All-in-
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07XBV65N7/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07XBV65N7/?tag=tolees0ca-21)

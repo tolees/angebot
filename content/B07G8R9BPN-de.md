@@ -26,4 +26,4 @@ Sie können [BOSE Lautsprecher Bass Module 500 Schwarz](https://www.amazon.de/dp
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07G8R9BPN/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07G8R9BPN/?tag=tolees0ca-21)

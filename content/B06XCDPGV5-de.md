@@ -26,4 +26,4 @@ Sie können [Westfalia bikelander Premium Fahrradträger für Anhängerkupplung 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06XCDPGV5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06XCDPGV5/?tag=tolees0ca-21)

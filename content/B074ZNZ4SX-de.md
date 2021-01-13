@@ -26,4 +26,4 @@ Es gibt ein [Levi s Herren 512 Slim Taper FIT Jeans  Nightshade X 0013  29W / 30
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B074ZNZ4SX/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B074ZNZ4SX/?tag=tolees0ca-21)

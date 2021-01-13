@@ -26,4 +26,4 @@ Sie können [OMEN 15-dc1015ng  15 6 Zoll / FHD IPS 60Hz  Gaming Laptop  Intel Co
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07YDYFGTS/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07YDYFGTS/?tag=tolees0ca-21)

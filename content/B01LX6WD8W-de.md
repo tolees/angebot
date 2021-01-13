@@ -26,4 +26,4 @@ Es gibt ein [Pioneer HTP-074 B  5.1 Heimkinosystem mit AV Receiver und Lautsprec
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01LX6WD8W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01LX6WD8W/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Logitech C930e Business-Webcam  Full-HD 1080p  90° Blickfeld  4-fa
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00CES5A60/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00CES5A60/?tag=tolees0ca-21)

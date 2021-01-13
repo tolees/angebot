@@ -26,4 +26,4 @@ Es gibt ein [Apple AirPods mit kabellosem Ladecase  2. Generation ](https://www.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PYM8FB8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PYM8FB8/?tag=tolees0ca-21)

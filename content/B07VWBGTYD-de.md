@@ -26,4 +26,4 @@ Sie können [APEMAN Action Cam A100 Echte 4K 50fps WiFi 20MP Touchscreen Unterwa
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07VWBGTYD/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07VWBGTYD/?tag=tolees0ca-21)

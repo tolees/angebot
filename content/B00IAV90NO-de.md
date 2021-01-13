@@ -26,4 +26,4 @@ Es gibt ein [Panasonic RF-D10EG-W Digitalradio  DAB+/UKW Tuner  Netz- und Batter
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00IAV90NO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00IAV90NO/?tag=tolees0ca-21)

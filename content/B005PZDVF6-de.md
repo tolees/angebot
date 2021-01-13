@@ -26,4 +26,4 @@ Es gibt ein [OWC NewerTech AdaptaDrive - Mounting Kits  99.22 G  101.2 mm  1
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B005PZDVF6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B005PZDVF6/?tag=tolees0ca-21)

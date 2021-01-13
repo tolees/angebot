@@ -26,4 +26,4 @@ Es gibt ein [Kultkomödien mit Thomas Gottschalk & Mike Krüger - 5DVD-Sammeledi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00FF4ZSPI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00FF4ZSPI/?tag=tolees0ca-21)

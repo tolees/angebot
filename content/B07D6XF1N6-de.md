@@ -26,4 +26,4 @@ Es gibt ein [Microsoft Surface Laptop 34 29 cm  13 5 Zoll   Intel Core M3 7Y30  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07D6XF1N6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07D6XF1N6/?tag=tolees0ca-21)

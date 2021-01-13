@@ -26,4 +26,4 @@ Es gibt ein [Logitech G602 Wireless Gaming Maus  2500 DPI Sensor  11 Programmier
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00ETPAEDU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00ETPAEDU/?tag=tolees0ca-21)

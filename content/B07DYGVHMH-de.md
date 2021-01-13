@@ -26,4 +26,4 @@ Sie können [Mi Smart Wasserkocher  weiß  Appsteuerung  Schnellkochfunktion  Ed
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07DYGVHMH/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07DYGVHMH/?tag=tolees0ca-21)

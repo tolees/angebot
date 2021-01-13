@@ -26,4 +26,4 @@ Sie können [Akku Handkreissäge  TECCPO 18V 4.0Ah Akku  1 Std. Schnellladegerä
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07TZNLYJX/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07TZNLYJX/?tag=tolees0ca-21)

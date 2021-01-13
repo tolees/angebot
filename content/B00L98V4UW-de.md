@@ -26,4 +26,4 @@ Es gibt ein [25](https://www.amazon.de/dp/B00L98V4UW/?tag=tolees0ca-21) mit aktu
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00L98V4UW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00L98V4UW/?tag=tolees0ca-21)

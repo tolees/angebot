@@ -26,4 +26,4 @@ Sie können [Jabra Elite 65t True Wireless Bluetooth In-Ear Kopfhörer  Musik un
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07DJL3JH7/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07DJL3JH7/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Bosch Professional Multi-Tool GOP 40-30  inkl. 9xStarlock BIM Tauch
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B018YPE9NQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B018YPE9NQ/?tag=tolees0ca-21)

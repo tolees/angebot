@@ -26,4 +26,4 @@ Es gibt ein [Inkbird IBBQ-4T WLAN Grillthermometer Wasserdichtes  WiFi Fleischth
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07XL1P36N/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07XL1P36N/?tag=tolees0ca-21)

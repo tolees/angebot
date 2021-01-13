@@ -26,4 +26,4 @@ Sie können [Mannesmann M10997 Zangensatz 4-teilig](https://www.amazon.de/dp/B00
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B000K2NQ9U/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B000K2NQ9U/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Eastpak Padded Pak r Rucksack  40 cm  24 L  Schwarz  Black ](https:
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000CRBEJ2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000CRBEJ2/?tag=tolees0ca-21)

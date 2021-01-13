@@ -26,4 +26,4 @@ Es gibt ein [Nike Herren Court Royale Sneaker Sneakers  Weiß  White / White   4
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00XWOB46K/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00XWOB46K/?tag=tolees0ca-21)

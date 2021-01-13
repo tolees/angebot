@@ -26,4 +26,4 @@ Es gibt ein [Schiesser Herren Bademantel Kapuze 128546-815  Blau  815-navy   Gr.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B006JZ8FU2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B006JZ8FU2/?tag=tolees0ca-21)

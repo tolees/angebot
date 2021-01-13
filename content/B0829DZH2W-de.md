@@ -26,4 +26,4 @@ Es gibt ein [Sabrent Rocket Q 2TB NVMe PCIe M.2 2280 Interne Hochleistungs-Solid
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0829DZH2W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0829DZH2W/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Seagate Expansion Portable 5 TB externe tragbare Festplatte für PC
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07VS8QCXC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07VS8QCXC/?tag=tolees0ca-21)

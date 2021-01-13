@@ -26,4 +26,4 @@ Es gibt ein [iiyama ProLite XB2779QQS-S1 68 3cm  27 Zoll  IPS LED-Monitor 5K  3x
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B078WBRTPB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B078WBRTPB/?tag=tolees0ca-21)

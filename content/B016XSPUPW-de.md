@@ -26,4 +26,4 @@ Es gibt ein [WOLF-Garten - Trocken-Rasen Premium L-TP 50  rot](https://www.amazo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B016XSPUPW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B016XSPUPW/?tag=tolees0ca-21)

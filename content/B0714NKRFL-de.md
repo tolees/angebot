@@ -26,4 +26,4 @@ Es gibt ein [Uglyfrog Bike-T Full Zip Herren Radtrikot Set  Atmungsaktiv Quick-D
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0714NKRFL/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0714NKRFL/?tag=tolees0ca-21)

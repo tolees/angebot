@@ -26,4 +26,4 @@ Es gibt ein [Bosch Professional 35-tlgs. Bohrer Bit Set  Pick and Click  Zubehö
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07P6PKR4S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07P6PKR4S/?tag=tolees0ca-21)

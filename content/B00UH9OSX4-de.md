@@ -26,4 +26,4 @@ Es gibt ein [Bose ® Companion 50 Multimedia Lautsprechersystem schwarz](https:/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00UH9OSX4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00UH9OSX4/?tag=tolees0ca-21)

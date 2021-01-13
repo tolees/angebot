@@ -26,4 +26,4 @@ Es gibt ein [ECCO Damen Terracruise II Sneaker  Blau  Dark Petrol/Pagoda Blue 51
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07DV2LVQQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07DV2LVQQ/?tag=tolees0ca-21)

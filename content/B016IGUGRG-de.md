@@ -26,4 +26,4 @@ Es gibt ein [Neff TPT4660X / T46PT60X0 / Autarkes Kochfeld / Induktion / 60cm / 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B016IGUGRG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B016IGUGRG/?tag=tolees0ca-21)

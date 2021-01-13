@@ -26,4 +26,4 @@ Es gibt ein [iRobot Braava Jet 250 Wischroboter mit Präzisions-Sprühstrahl  3 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07TKM6S4C/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07TKM6S4C/?tag=tolees0ca-21)

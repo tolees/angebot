@@ -26,4 +26,4 @@ Sie können [Dragon Ball Z: Kakarot -Standard Edition [PlayStation 4]](https://w
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07SYMCBMX/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07SYMCBMX/?tag=tolees0ca-21)

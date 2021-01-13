@@ -26,4 +26,4 @@ Es gibt ein [Funko 39547 POP Vinyl Squarepants S3: Spongebob w/Pineapple Sammelb
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NSN6R2X/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NSN6R2X/?tag=tolees0ca-21)

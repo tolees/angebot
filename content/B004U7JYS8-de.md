@@ -26,4 +26,4 @@ Es gibt ein [Fujifilm Instax Mini Instant Film  1x 10 Blatt  10 Blatt   Weiß](h
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B004U7JYS8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B004U7JYS8/?tag=tolees0ca-21)

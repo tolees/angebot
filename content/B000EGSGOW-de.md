@@ -26,4 +26,4 @@ Es gibt ein [VARTA Longlife Power Batterie 4 5 V Block Alkaline Batterien 3LR12 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000EGSGOW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000EGSGOW/?tag=tolees0ca-21)

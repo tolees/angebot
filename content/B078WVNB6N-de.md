@@ -26,4 +26,4 @@ Es gibt ein [Paco Home Designer Teppich Kurzflor Wohnzimmer Vintage Look Modern 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B078WVNB6N/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B078WVNB6N/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [infactory Spielwaren: Selbstklebendes Spielbaustein-Tape für gäng
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07K8R8QCX/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07K8R8QCX/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [LEGO DUPLO 10898 - Meine erste Micky Maus](https://www.amazon.de/dp
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07FP6QRDK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FP6QRDK/?tag=tolees0ca-21)

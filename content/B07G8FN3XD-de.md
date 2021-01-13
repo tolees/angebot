@@ -26,4 +26,4 @@ Sie können [Huawei Mate 20 lite Dual-SIM Android 8.1 Smartphone mit Dual-Kamera
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07G8FN3XD/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07G8FN3XD/?tag=tolees0ca-21)

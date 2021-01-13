@@ -26,4 +26,4 @@ Es gibt ein [WEWE Estantes De Pared De Madera De 2 Niveles Muro De Estante Flota
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07WQT4YDS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07WQT4YDS/?tag=tolees0ca-21)

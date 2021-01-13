@@ -26,4 +26,4 @@ Sie können [Corsair HS35 Stereo Gaming Headset  50mm Neodym Lautsprecher  Abneh
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07SJ1RTKH/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07SJ1RTKH/?tag=tolees0ca-21)

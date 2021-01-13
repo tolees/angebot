@@ -26,4 +26,4 @@ Es gibt ein [Cudy AX3000 WiFi 6 PCIe Karte für PC  Bluetooth 5.0 PCIe Karte  In
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B082NZYDDM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B082NZYDDM/?tag=tolees0ca-21)

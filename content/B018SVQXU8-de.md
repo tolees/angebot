@@ -26,4 +26,4 @@ Es gibt ein [LG Electronics OM4560 High Power Hifianlage Schwarz](https://www.am
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B018SVQXU8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B018SVQXU8/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Tefal Smart Protect FV4980 Dampfbügeleisen  2600 Watt  extra Dampf
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B079QZBGT6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B079QZBGT6/?tag=tolees0ca-21)

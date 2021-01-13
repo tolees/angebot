@@ -26,4 +26,4 @@ Es gibt ein [GoPro Surf HERO Expansion Kit Kamerabefestigung  geeignet für HD H
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B007K3TK4W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B007K3TK4W/?tag=tolees0ca-21)

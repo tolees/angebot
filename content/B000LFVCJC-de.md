@@ -26,4 +26,4 @@ Es gibt ein [Silverline 633608 Gummihammer  weiß 454 g](https://www.amazon.de/d
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000LFVCJC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000LFVCJC/?tag=tolees0ca-21)

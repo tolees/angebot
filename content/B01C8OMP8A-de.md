@@ -26,4 +26,4 @@ Es gibt ein [Bandai – Miraculous Ladybug – Verwandlungsset – Verkleiden
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01C8OMP8A/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01C8OMP8A/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Smartwatch Amazfit GTR 42mm/A1910 42 Starry Black Xiaomi](https://w
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07Y5PSVXK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07Y5PSVXK/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Pelikan 946806 Füller Twist in Faltschachtel  universell für Rech
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00OUIBCDC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00OUIBCDC/?tag=tolees0ca-21)

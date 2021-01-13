@@ -26,4 +26,4 @@ Es gibt ein [Acer TravelMate X3410  TMX3410-MG-50LB  35 6 cm  14 Zoll Full-HD IP
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07GJG8XPM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GJG8XPM/?tag=tolees0ca-21)

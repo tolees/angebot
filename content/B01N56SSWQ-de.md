@@ -26,4 +26,4 @@ Es gibt ein [Pioneer SE-MS7BT S  Bluetooth Over-Ear Kopfhörer  Mikrofon  High-R
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01N56SSWQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01N56SSWQ/?tag=tolees0ca-21)

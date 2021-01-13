@@ -26,4 +26,4 @@ Es gibt ein [LEGO 71715 NINJAGO Avatar Jay – Tragbare Arcade Kapsel  Ninja-Spi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07WC19M4V/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07WC19M4V/?tag=tolees0ca-21)

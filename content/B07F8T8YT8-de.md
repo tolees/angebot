@@ -26,4 +26,4 @@ Es gibt ein [Philips HD9941/00 Grill-Kit für Aifryer  Grillpfanne und Grillspie
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07F8T8YT8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07F8T8YT8/?tag=tolees0ca-21)

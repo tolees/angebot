@@ -26,4 +26,4 @@ Es gibt ein [Funko Pop Marvel: Avengers Infinity War - Thanos Collectible Figur]
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B079PQ7T6B/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B079PQ7T6B/?tag=tolees0ca-21)

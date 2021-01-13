@@ -26,4 +26,4 @@ Es gibt ein [Philips Audio SHB3075BK/00 On-Ear Kopfhörer Bluetooth  Bass+  Kabe
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00VSTJ2WO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00VSTJ2WO/?tag=tolees0ca-21)

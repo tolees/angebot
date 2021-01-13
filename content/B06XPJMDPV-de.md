@@ -26,4 +26,4 @@ Es gibt ein [Meister Nivelliersystem für Fliesen 351-teilig - Fliesendicke 7-15
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XPJMDPV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XPJMDPV/?tag=tolees0ca-21)

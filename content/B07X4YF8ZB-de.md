@@ -26,4 +26,4 @@ Es gibt ein [SCHÜTTE 79146 MIAMI Küchenarmatur 360°  Einhebelmischer mit ausz
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07X4YF8ZB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07X4YF8ZB/?tag=tolees0ca-21)

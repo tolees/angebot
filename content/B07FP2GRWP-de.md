@@ -26,4 +26,4 @@ Es gibt ein [LEGO City 60212 Feuerwehr beim Grillfest](https://www.amazon.de/dp/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07FP2GRWP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FP2GRWP/?tag=tolees0ca-21)

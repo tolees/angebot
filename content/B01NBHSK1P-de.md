@@ -26,4 +26,4 @@ Sie können [Tristar VE-5999 Ventilator Turmventilator mit Fernbedienung und Tim
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01NBHSK1P/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01NBHSK1P/?tag=tolees0ca-21)

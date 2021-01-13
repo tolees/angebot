@@ -26,4 +26,4 @@ Es gibt ein [Krups EA8105 Kaffeevollautomat  automatische Reinigung  2-Tassen-Fu
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00MZ2F3Z8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00MZ2F3Z8/?tag=tolees0ca-21)

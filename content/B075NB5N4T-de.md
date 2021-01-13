@@ -26,4 +26,4 @@ Es gibt ein [Lintelek Fitness Armband Fitness Tracker wasserdicht Fitness Uhr Ak
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B075NB5N4T/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B075NB5N4T/?tag=tolees0ca-21)

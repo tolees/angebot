@@ -26,4 +26,4 @@ Es gibt ein [Küchenarmatur  TACKLIFE DAKF6F 360° Drehbar Wasserhahn Küche aus
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07WGFJZ4Y/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07WGFJZ4Y/?tag=tolees0ca-21)

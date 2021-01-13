@@ -26,4 +26,4 @@ Sie können [Dell Inspiron - 15 6" - i7 - 32GB RAM - 1000GB SSD - Windows 10 Pro
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07S8CZN1V/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07S8CZN1V/?tag=tolees0ca-21)

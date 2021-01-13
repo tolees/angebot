@@ -26,4 +26,4 @@ Es gibt ein [Ni no Kuni: Der Fluch der Weißen Königin - [Nintendo Switch]](htt
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07T16KRFG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07T16KRFG/?tag=tolees0ca-21)

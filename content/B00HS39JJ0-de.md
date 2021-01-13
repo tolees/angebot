@@ -26,4 +26,4 @@ Es gibt ein [New Balance Herren MRL996AG Revlite Sneaker  Grau  MRL996AG   44.5 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00HS39JJ0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00HS39JJ0/?tag=tolees0ca-21)

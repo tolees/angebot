@@ -26,4 +26,4 @@ Es gibt ein [Wanbasion 6 Teilig scharfe Messer Set küche Edelstahl  küchen Mes
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08398BQXL/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08398BQXL/?tag=tolees0ca-21)

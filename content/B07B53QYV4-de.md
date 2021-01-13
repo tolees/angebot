@@ -26,4 +26,4 @@ Es gibt ein [G-STAR RAW Damen Lynn Mid Skinny Jeans  Lt Aged 8968-424  24W / 28L
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07B53QYV4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07B53QYV4/?tag=tolees0ca-21)

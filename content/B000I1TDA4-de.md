@@ -26,4 +26,4 @@ Es gibt ein [Hasbro Gaming 04199100 - Tabu XXL Partyspiel](https://www.amazon.de
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000I1TDA4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000I1TDA4/?tag=tolees0ca-21)

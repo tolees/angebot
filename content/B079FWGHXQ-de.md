@@ -26,4 +26,4 @@ Sie können [Trust GXT 707R Resto Gaming-Stuhl  Ergonomisch mit Höhenverstellba
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B079FWGHXQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B079FWGHXQ/?tag=tolees0ca-21)

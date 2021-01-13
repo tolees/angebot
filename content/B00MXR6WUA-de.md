@@ -26,4 +26,4 @@ Es gibt ein [Cellular Line TEMPGLASSIPH647 Displayschutzglas für Apple iPhone 6
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00MXR6WUA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00MXR6WUA/?tag=tolees0ca-21)

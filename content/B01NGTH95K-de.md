@@ -26,4 +26,4 @@ Sie können [Grundig Multi-Zerkleinerer  0 5 L Plastic  Delisia](https://www.ama
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01NGTH95K/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01NGTH95K/?tag=tolees0ca-21)

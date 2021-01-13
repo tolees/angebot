@@ -26,4 +26,4 @@ Es gibt ein [Maul Ferroband  Selbstklebende Magnethaft-Wandleiste aus Stahlblech
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000WL4TLS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000WL4TLS/?tag=tolees0ca-21)

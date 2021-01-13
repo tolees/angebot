@@ -26,4 +26,4 @@ Sie können [Tefal Talent Pro E44040 Grillpfanne  26 cm  induktionsgeeignet  ant
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B005G3Q1ZY/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B005G3Q1ZY/?tag=tolees0ca-21)

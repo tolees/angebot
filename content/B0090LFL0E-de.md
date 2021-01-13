@@ -26,4 +26,4 @@ Es gibt ein [Nintendo Wii U - Konsole  Premium Pack  32 GB  schwarz mit Nintendo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0090LFL0E/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0090LFL0E/?tag=tolees0ca-21)

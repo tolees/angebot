@@ -26,4 +26,4 @@ Sie können [Spigen L37CS25731 Thin Fit 360 Kompatibel mit Huawei P30 PRO Hülle
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07LCXPKXR/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07LCXPKXR/?tag=tolees0ca-21)

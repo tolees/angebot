@@ -26,4 +26,4 @@ Es gibt ein [RB&G Lauflernwagen aus Holz mit Gummibereifung](https://www.amazon.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B081PB4CGV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B081PB4CGV/?tag=tolees0ca-21)

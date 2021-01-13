@@ -26,4 +26,4 @@ Es gibt ein [QARFEE - Universal 128GB Flash Drive  LUV-Share USB Stick Micro USB
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07JM5TVY8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07JM5TVY8/?tag=tolees0ca-21)

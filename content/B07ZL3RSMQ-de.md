@@ -26,4 +26,4 @@ Sie können [Mammut Herren Hardshell-jacke Mit Kapuze Trovat  blau  S](https://w
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07ZL3RSMQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07ZL3RSMQ/?tag=tolees0ca-21)

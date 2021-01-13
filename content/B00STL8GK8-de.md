@@ -26,4 +26,4 @@ Es gibt ein [Hasbro FurReal Friends B0449EU6- JJ  mein hopsender Mops  elektroni
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00STL8GK8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00STL8GK8/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Funko 41941 POP Vinyl: WWE-Becky Lynch Sammelbares Spielzeug  Mehrf
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07P82MVJF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07P82MVJF/?tag=tolees0ca-21)

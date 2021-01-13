@@ -26,4 +26,4 @@ Es gibt ein [Samsung Clear View Standing Cover  EF-ZG960  für das Galaxy S9  Vi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B079FXP2KV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B079FXP2KV/?tag=tolees0ca-21)

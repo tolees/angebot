@@ -26,4 +26,4 @@ Es gibt ein [Hama Fotoalbum  28 x 24 cm  50 schwarze Seiten  25 Blatt  mit Aussc
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000VRANHW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000VRANHW/?tag=tolees0ca-21)

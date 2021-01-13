@@ -26,4 +26,4 @@ Sie können [Sigma Sport Zubehör  R1 DUO Herzfrequenz Sender  ANT+/Bluetooth Sm
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01N7P4PP1/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01N7P4PP1/?tag=tolees0ca-21)

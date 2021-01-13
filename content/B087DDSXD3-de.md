@@ -26,4 +26,4 @@ Sie können [Samsung T7 Portable SSD - 500 GB - USB 3.2 Gen.2 Externe SSD Titan 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B087DDSXD3/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B087DDSXD3/?tag=tolees0ca-21)

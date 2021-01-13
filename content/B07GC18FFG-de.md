@@ -26,4 +26,4 @@ Es gibt ein [LEGO Jungen Boy Star WARS-CM-50240-CAP Kappe  Schwarz  Black 995   
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07GC18FFG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GC18FFG/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [MacBook Schraubendreher Reparatur Werkzeug Set mit Pentalobe P5 fü
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B074LJ4JRG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B074LJ4JRG/?tag=tolees0ca-21)

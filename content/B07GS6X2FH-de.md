@@ -26,4 +26,4 @@ Es gibt ein [Garmin vivomove HR Sport Black/Sandstone Fitness-Tracker  Schwarz/S
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07GS6X2FH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GS6X2FH/?tag=tolees0ca-21)

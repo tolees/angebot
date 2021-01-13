@@ -26,4 +26,4 @@ Sie können [ZTE Smartphone Blade 10  16 cm  6 3 Zoll  FHD+ Display  64 GB inter
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07VKNBLLX/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07VKNBLLX/?tag=tolees0ca-21)

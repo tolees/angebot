@@ -26,4 +26,4 @@ Es gibt ein [Jack Wolfskin Unisex-Erwachsene Warwick Ave sac à bandoulière Tas
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07DVSG7W6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07DVSG7W6/?tag=tolees0ca-21)

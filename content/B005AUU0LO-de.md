@@ -26,4 +26,4 @@ Es gibt ein [Magnat Needle Alu Super Center I 2-Wege Centerlautsprecher | Schlan
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B005AUU0LO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B005AUU0LO/?tag=tolees0ca-21)

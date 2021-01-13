@@ -26,4 +26,4 @@ Es gibt ein [Crucial Ballistix Sport LT BLS8G4D30AESBK Desktop Gaming Speicher  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07MNJN8BB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MNJN8BB/?tag=tolees0ca-21)

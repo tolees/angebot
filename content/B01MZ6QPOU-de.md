@@ -26,4 +26,4 @@ Es gibt ein [Samsung GX-MB540TL DVB-T2 HD Receiver  freenet TV connect  Wi-Fi Un
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01MZ6QPOU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MZ6QPOU/?tag=tolees0ca-21)

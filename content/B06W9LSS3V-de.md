@@ -26,4 +26,4 @@ Sie können [Honeywell HYF260E4 Quiet-Set Turmventilator  mit Fernbedienung  1 S
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06W9LSS3V/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06W9LSS3V/?tag=tolees0ca-21)

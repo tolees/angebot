@@ -26,4 +26,4 @@ Es gibt ein [caseable Kindle und Kindle Paperwhite Hülle  Pass this on](https:/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00PHEAV80/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00PHEAV80/?tag=tolees0ca-21)

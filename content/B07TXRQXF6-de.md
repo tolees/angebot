@@ -26,4 +26,4 @@ Es gibt ein [Spider-Man: Far From Home  DVD ](https://www.amazon.de/dp/B07TXRQXF
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07TXRQXF6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07TXRQXF6/?tag=tolees0ca-21)

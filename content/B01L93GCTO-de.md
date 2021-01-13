@@ -26,4 +26,4 @@ Sie können [Hasbro B7493EU00 - Star Wars Rogue One Interaktiver Droid - Smart R
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01L93GCTO/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01L93GCTO/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [TP-Link TL-SF1008D 8-Port Fast Ethernet-/Netzwerk-/Lan Switch  10/1
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0034CL3MA/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0034CL3MA/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [SNAPTAIN Mini Drohne H823H Plus mit 3 Akkus für 21 Minuten Flugzei
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07R57TG6B/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07R57TG6B/?tag=tolees0ca-21)

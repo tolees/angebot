@@ -26,4 +26,4 @@ Es gibt ein [CALIDA Damen Midislip Lycraspitze Taillenslip  Schwarz  schwarz 992
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0006OHX8W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0006OHX8W/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [BenQ GW2480 60 45cm  23 8 Zoll  LED Monitor  Full-HD  Eye-Care  IPS
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B073NTCT4Q/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B073NTCT4Q/?tag=tolees0ca-21)

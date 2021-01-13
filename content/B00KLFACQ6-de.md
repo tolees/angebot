@@ -26,4 +26,4 @@ Es gibt ein [WENKO Vacuum-Loc Eckregal Bari 2 Etagen  Befestigen ohne bohren  St
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00KLFACQ6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00KLFACQ6/?tag=tolees0ca-21)

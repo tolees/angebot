@@ -26,4 +26,4 @@ Es gibt ein [Wrangler Texas Herren Jeans  Blau  Stonewash  Light blue   44W / 32
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000Y3XV4U/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000Y3XV4U/?tag=tolees0ca-21)

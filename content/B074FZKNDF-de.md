@@ -26,4 +26,4 @@ Es gibt ein [Revell 06719 Modellbausatz  Star Wars 1:2700-Imperial Destroyer  Le
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B074FZKNDF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B074FZKNDF/?tag=tolees0ca-21)

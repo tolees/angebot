@@ -26,4 +26,4 @@ Sie können [Flipper](https://www.amazon.de/dp/B000TAHD3I/?tag=tolees0ca-21) mit
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B000TAHD3I/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B000TAHD3I/?tag=tolees0ca-21)

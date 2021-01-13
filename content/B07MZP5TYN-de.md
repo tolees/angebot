@@ -26,4 +26,4 @@ Sie können [Spieland Custom Waffen Set für Mini Figuren SWAT Team Militär Sol
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07MZP5TYN/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07MZP5TYN/?tag=tolees0ca-21)

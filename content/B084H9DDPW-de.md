@@ -26,4 +26,4 @@ Sie können [Samsung Sound Tower Lautsprecher MX-T50  Bluetooth  2.0-Kanal-Syste
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B084H9DDPW/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B084H9DDPW/?tag=tolees0ca-21)

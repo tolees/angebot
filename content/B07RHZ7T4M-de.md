@@ -26,4 +26,4 @@ Es gibt ein [Bqeel Android 10.0 TV Box【4G+64G】 R2 MAX Android TV Box mit RK3
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07RHZ7T4M/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07RHZ7T4M/?tag=tolees0ca-21)

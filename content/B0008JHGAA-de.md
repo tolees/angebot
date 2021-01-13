@@ -26,4 +26,4 @@ Es gibt ein [Kodak Portra 800 135-36 Farbfilm](https://www.amazon.de/dp/B0008JHG
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0008JHGAA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0008JHGAA/?tag=tolees0ca-21)

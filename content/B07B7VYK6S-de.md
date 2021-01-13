@@ -26,4 +26,4 @@ Es gibt ein [Dickie Toys Fire Rescue Unit  Feuerwehrauto  Spielzeugauto  Feuerwe
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07B7VYK6S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07B7VYK6S/?tag=tolees0ca-21)

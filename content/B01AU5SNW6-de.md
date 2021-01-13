@@ -26,4 +26,4 @@ Es gibt ein [Bosch Professional 5 tlg. Hammerbohrer SDS Plus-7X Set  für Beton 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01AU5SNW6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01AU5SNW6/?tag=tolees0ca-21)

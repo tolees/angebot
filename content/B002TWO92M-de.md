@@ -26,4 +26,4 @@ Es gibt ein [Alessi "La Stanza dello Scirocco"  Korbschale](https://www.amazon.d
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B002TWO92M/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B002TWO92M/?tag=tolees0ca-21)

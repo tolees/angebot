@@ -26,4 +26,4 @@ Sie können [Funko 41474 Action Figur: Dark Crystal - Aughra Sammelbares Spielze
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07P6XM3VN/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07P6XM3VN/?tag=tolees0ca-21)

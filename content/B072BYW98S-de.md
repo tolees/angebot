@@ -26,4 +26,4 @@ Es gibt ein [POP Heroes: Justice League Movie - Wonder Woman](https://www.amazon
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B072BYW98S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B072BYW98S/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Madden NFL 20 - Standard Edition - [PlayStation 4]](https://www.ama
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07QR6Q7XK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07QR6Q7XK/?tag=tolees0ca-21)

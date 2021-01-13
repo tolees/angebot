@@ -26,4 +26,4 @@ Es gibt ein [Dickie Toys 201119141 RC Nitro League  RTR 201119141-RC  Ferngesteu
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NR2KVKF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NR2KVKF/?tag=tolees0ca-21)

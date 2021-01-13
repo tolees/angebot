@@ -26,4 +26,4 @@ Es gibt ein [Revell Modellbausatz Star Wars Rebel U-Wing Fighter im Maßstab 1:1
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01D4QFYM0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01D4QFYM0/?tag=tolees0ca-21)

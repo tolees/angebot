@@ -26,4 +26,4 @@ Es gibt ein [Akku-Set 18 V / 5 Ah  DCD796 / DCF887 ](https://www.amazon.de/dp/B0
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01EWNGZ4U/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01EWNGZ4U/?tag=tolees0ca-21)

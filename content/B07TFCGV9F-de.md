@@ -26,4 +26,4 @@ Sie können [Govee RGB LED Strip  5M Wasserdicht LED Streifen Lichtband mit Fern
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07TFCGV9F/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07TFCGV9F/?tag=tolees0ca-21)

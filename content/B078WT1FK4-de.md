@@ -26,4 +26,4 @@ Es gibt ein [Sony SRS-XB41 kabelloser Bluetooth Lautsprecher  tragbar  mehrfarbi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B078WT1FK4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B078WT1FK4/?tag=tolees0ca-21)

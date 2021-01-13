@@ -26,4 +26,4 @@ Es gibt ein [Zendure SuperMini Powerbank mit 10.000 mAh  robust  klein und leist
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07YFN376L/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07YFN376L/?tag=tolees0ca-21)

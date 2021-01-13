@@ -26,4 +26,4 @@ Es gibt ein [Netgear GS752TPP 52-Port Gigabit Ethernet LAN PoE Switch Smart Mana
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07C58TFMB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07C58TFMB/?tag=tolees0ca-21)

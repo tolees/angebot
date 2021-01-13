@@ -26,4 +26,4 @@ Es gibt ein [AEG TR3LFSTV FlexiRunnersT Vollauszug für ProCombi 3 Paar Teleskop
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B005GXAE4I/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B005GXAE4I/?tag=tolees0ca-21)

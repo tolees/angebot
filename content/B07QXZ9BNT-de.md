@@ -26,4 +26,4 @@ Sie können [Be Mammy Lange Umstandsleggings aus Viskose BE-02 2er Pack  Schwarz
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07QXZ9BNT/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07QXZ9BNT/?tag=tolees0ca-21)

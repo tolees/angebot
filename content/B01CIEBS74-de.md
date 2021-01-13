@@ -26,4 +26,4 @@ Es gibt ein [SanDisk 64GB iXpand USB-Flash-Laufwerk für iPhone und iPad](https:
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01CIEBS74/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01CIEBS74/?tag=tolees0ca-21)

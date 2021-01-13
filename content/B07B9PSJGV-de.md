@@ -26,4 +26,4 @@ Sie können [Fitbit Versa Special Edition  Gesundheits & Fitness Smartwatch mit 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07B9PSJGV/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07B9PSJGV/?tag=tolees0ca-21)

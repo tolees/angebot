@@ -26,4 +26,4 @@ Es gibt ein [Tommy Hilfiger Herren CORE Hilfiger Regular Polo Poloshirt  Schwarz
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B018LLIXB2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B018LLIXB2/?tag=tolees0ca-21)

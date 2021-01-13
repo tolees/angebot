@@ -26,4 +26,4 @@ Sie können [McFarlane Toys Cyberpunk 2077 Action Figure Johnny 18 cm Figuren](h
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B081J8WJR9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B081J8WJR9/?tag=tolees0ca-21)

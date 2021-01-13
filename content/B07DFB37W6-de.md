@@ -26,4 +26,4 @@ Es gibt ein [Funko POP 1 Piece Donquixote DOFLAMI](https://www.amazon.de/dp/B07D
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07DFB37W6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07DFB37W6/?tag=tolees0ca-21)

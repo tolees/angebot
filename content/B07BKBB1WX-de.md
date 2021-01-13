@@ -26,4 +26,4 @@ Sie können [PC DESKTOP COMPLETE INTEL I3-8100 3.6 GHZ 8°GEN/LINDING WINDOWS 10
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07BKBB1WX/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07BKBB1WX/?tag=tolees0ca-21)

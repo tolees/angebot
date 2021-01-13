@@ -26,4 +26,4 @@ Es gibt ein [MEDION P6645 39 5 cm  15 6 Zoll  Full HD Notebook  Intel Core i7-85
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07XLTJ336/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07XLTJ336/?tag=tolees0ca-21)

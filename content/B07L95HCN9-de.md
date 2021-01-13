@@ -26,4 +26,4 @@ Sie können [Auto Starthilfe  TACKLIFE T6 800A 18000mAh Tragbare Starthilfe Powe
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07L95HCN9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07L95HCN9/?tag=tolees0ca-21)

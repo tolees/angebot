@@ -26,4 +26,4 @@ Sie können [Samsung Galaxy S10+ Smartphone  16.3cm  6.4 Zoll  512 GB interner S
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07SHXPX1H/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07SHXPX1H/?tag=tolees0ca-21)

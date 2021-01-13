@@ -26,4 +26,4 @@ Es gibt ein [Fossil Damen Analog Quarz Uhr mit Edelstahl Armband ES3020](https:/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B007NM84PQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B007NM84PQ/?tag=tolees0ca-21)

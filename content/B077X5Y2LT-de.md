@@ -26,4 +26,4 @@ Es gibt ein [Wifi Adapter  1200Mbit/s mit 5dBi Antenna  Dualband  5G/866Mbps + 2
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B077X5Y2LT/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B077X5Y2LT/?tag=tolees0ca-21)

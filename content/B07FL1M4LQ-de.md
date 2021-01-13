@@ -26,4 +26,4 @@ Es gibt ein [Apple MacBook Pro  15"  Vorgängermodell  16GB RAM  512GB Speicherp
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07FL1M4LQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FL1M4LQ/?tag=tolees0ca-21)

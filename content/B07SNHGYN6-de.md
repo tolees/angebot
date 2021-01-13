@@ -26,4 +26,4 @@ Es gibt ein [SS&LL La basura del paso Puede Cubos de basura Con Tapas de Acero i
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07SNHGYN6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07SNHGYN6/?tag=tolees0ca-21)

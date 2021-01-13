@@ -26,4 +26,4 @@ Es gibt ein [Bluetooth Kopfhörer Kabellose Kopfhörer mit Premium Klangprofil N
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08BL8NWPY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08BL8NWPY/?tag=tolees0ca-21)

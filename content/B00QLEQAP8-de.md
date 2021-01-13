@@ -26,4 +26,4 @@ Es gibt ein [NuPro Displayschutzfolie für Kindle und Kindle Paperwhite  3er-Pac
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00QLEQAP8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00QLEQAP8/?tag=tolees0ca-21)

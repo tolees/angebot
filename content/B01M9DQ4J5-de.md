@@ -26,4 +26,4 @@ Sie können [Motorola VerveOnes ME | Stereo smart Bluetooth Kopfhörer Alexa  Si
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01M9DQ4J5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01M9DQ4J5/?tag=tolees0ca-21)

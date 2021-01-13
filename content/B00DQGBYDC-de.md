@@ -26,4 +26,4 @@ Es gibt ein [SanDisk Ultra 64GB USB-Flash-Laufwerk USB 3.0 bis zu 130MB/s](https
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00DQGBYDC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00DQGBYDC/?tag=tolees0ca-21)

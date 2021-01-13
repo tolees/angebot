@@ -26,4 +26,4 @@ Sie können [Fire HD 10-Tablet  1080p Full HD-Display  64 GB  Schwarz  mit Spezi
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01N9FJNTW/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01N9FJNTW/?tag=tolees0ca-21)

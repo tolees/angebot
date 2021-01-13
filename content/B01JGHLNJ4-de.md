@@ -26,4 +26,4 @@ Es gibt ein [Einhell Sägekettenschärfgerät GC-CS 85  Schleifscheibe  Tiefenbe
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01JGHLNJ4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01JGHLNJ4/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Mighty No.9 - Ray-Edition](https://www.amazon.de/dp/B0147DFUCS/?tag
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0147DFUCS/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0147DFUCS/?tag=tolees0ca-21)

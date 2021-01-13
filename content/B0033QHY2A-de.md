@@ -26,4 +26,4 @@ Es gibt ein [Trelock Schloss FS 300 Trigo-85 cm Faltschloss  schwarz  19.5 x 5.5
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0033QHY2A/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0033QHY2A/?tag=tolees0ca-21)

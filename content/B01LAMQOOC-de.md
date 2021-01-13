@@ -26,4 +26,4 @@ Sie können [Funko 11070 Actionfigur The Walking Dead: Negan  Multi  Einheitsgr�
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01LAMQOOC/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01LAMQOOC/?tag=tolees0ca-21)

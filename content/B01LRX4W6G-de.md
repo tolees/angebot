@@ -26,4 +26,4 @@ Es gibt ein [Dymo 1978243 MobileLabeler-Etikettendrucker mit Smartphone-Anbindun
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01LRX4W6G/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01LRX4W6G/?tag=tolees0ca-21)

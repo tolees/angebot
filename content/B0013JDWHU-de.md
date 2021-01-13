@@ -26,4 +26,4 @@ Sie können [BGS 199 | Adapter-Satz | 6-tlg. | 1/4" auf 3/8"  3/8" auf 1/4"  3/8
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0013JDWHU/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0013JDWHU/?tag=tolees0ca-21)

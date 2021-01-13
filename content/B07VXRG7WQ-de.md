@@ -26,4 +26,4 @@ Sie können [Garmin fenix 6S PRO kompakte GPS-Multisport-Smartwatch mit Herzfreq
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07VXRG7WQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07VXRG7WQ/?tag=tolees0ca-21)

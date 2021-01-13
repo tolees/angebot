@@ -26,4 +26,4 @@ Es gibt ein [Einhell Rasenwalze GC-GR 57  57cm Breite  32cm Durchmesser  seitlic
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B078WVFRYF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B078WVFRYF/?tag=tolees0ca-21)

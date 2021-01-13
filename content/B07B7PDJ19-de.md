@@ -26,4 +26,4 @@ Sie können [LEGO Star Wars Minifigur Dengar mit 2 Bonus Waffen](https://www.ama
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07B7PDJ19/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07B7PDJ19/?tag=tolees0ca-21)

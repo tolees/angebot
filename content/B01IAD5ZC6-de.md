@@ -26,4 +26,4 @@ Es gibt ein [Seagate Backup Plus HUB  8 TB  externe Festplatte mit 2-fach USB Hu
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01IAD5ZC6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01IAD5ZC6/?tag=tolees0ca-21)

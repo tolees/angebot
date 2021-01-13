@@ -26,4 +26,4 @@ Sie können [TALENT  Zuse  Weekender - Geräumige Reisetasche XL Umhängetasche 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07D7WG7QT/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07D7WG7QT/?tag=tolees0ca-21)

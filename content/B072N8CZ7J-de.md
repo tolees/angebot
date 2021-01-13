@@ -26,4 +26,4 @@ Sie können [Funko 22718 Actionfigur Hellboy S1: Liz Sherman](https://www.amazon
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B072N8CZ7J/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B072N8CZ7J/?tag=tolees0ca-21)

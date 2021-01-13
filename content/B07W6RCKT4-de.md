@@ -26,4 +26,4 @@ Es gibt ein [Funko POP! Icons MTV - Moon Person Spielfigur](https://www.amazon.d
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07W6RCKT4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07W6RCKT4/?tag=tolees0ca-21)

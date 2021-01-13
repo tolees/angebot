@@ -26,4 +26,4 @@ Es gibt ein [Boltune Noise Cancelling Bluetooth Kopfhörer 5.0 Over-Ear Ohrhöre
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07VNWZ2CW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07VNWZ2CW/?tag=tolees0ca-21)

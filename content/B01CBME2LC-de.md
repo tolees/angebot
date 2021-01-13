@@ -26,4 +26,4 @@ Es gibt ein [Funko 8659 S1 No Actionfigur Suicide Squad: Joker Shirtless  Multi]
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01CBME2LC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01CBME2LC/?tag=tolees0ca-21)

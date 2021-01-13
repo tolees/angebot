@@ -26,4 +26,4 @@ Es gibt ein [Belkin Boost up USB-Ladegerät Netzladegerät  2 4A  12 Watt  geeig
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00GMEM20E/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00GMEM20E/?tag=tolees0ca-21)

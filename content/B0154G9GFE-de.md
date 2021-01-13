@@ -26,4 +26,4 @@ Sie können [Philips AZ215S CD-Soundmachine  Digital UKW  Audioeingang  3 Watt  
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0154G9GFE/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0154G9GFE/?tag=tolees0ca-21)

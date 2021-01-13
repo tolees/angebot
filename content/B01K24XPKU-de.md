@@ -26,4 +26,4 @@ Es gibt ein [Acer Predator Z301C 75cm  29 5 Zoll Full HD  Curved Gaming Monitor 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01K24XPKU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01K24XPKU/?tag=tolees0ca-21)

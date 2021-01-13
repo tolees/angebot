@@ -26,4 +26,4 @@ Es gibt ein [Sylvanian Families 2239 - Garten-Grill-Set](https://www.amazon.de/d
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00HRRDP88/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00HRRDP88/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Funko 42064 POP Bobble Vinyl Mandalorian-IG-11 Star Wars The Mandal
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07QJ29QDN/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07QJ29QDN/?tag=tolees0ca-21)

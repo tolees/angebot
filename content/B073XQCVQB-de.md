@@ -26,4 +26,4 @@ Sie können [YOKAI WATCH 2: Geistige Geister - [Nintendo 3DS]](https://www.amazo
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B073XQCVQB/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B073XQCVQB/?tag=tolees0ca-21)

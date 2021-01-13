@@ -26,4 +26,4 @@ Sie können [Sony Xperia X Compact Smartphone  11 7 cm  4 6 Zoll   32 GB Speiche
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01L34I7HY/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01L34I7HY/?tag=tolees0ca-21)

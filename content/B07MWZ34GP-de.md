@@ -26,4 +26,4 @@ Es gibt ein [Ostwind 1-3 [3 DVDs]](https://www.amazon.de/dp/B07MWZ34GP/?tag=tole
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07MWZ34GP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MWZ34GP/?tag=tolees0ca-21)

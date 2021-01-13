@@ -26,4 +26,4 @@ Es gibt ein [Eschenbach Optik OPTIK Fernglas klein  weiß  VIVA 6X15 NEW](https:
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00PBVTMQG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00PBVTMQG/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Lego Wear Mädchen LWTIPPI 608-T-SHIRT L/S Langarmshirt  Gelb  Ligh
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KWN712V/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KWN712V/?tag=tolees0ca-21)

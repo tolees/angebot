@@ -26,4 +26,4 @@ Sie können [Xiaomi Mi Note 10 Smartphone  16 43cm  6 47"  3D Curved AMOLED FHD+
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07ZGJC5BB/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07ZGJC5BB/?tag=tolees0ca-21)

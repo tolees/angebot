@@ -26,4 +26,4 @@ Es gibt ein [UGG Damen Classic Short II 1016223-BLK Schneestiefel  Schwarz  38 E
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01AIHY66I/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01AIHY66I/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [SanDisk Ultra 64GB MicroSDXC Speicherkarte + SD-Adapter mit A1 App-
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B073JYVKNX/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B073JYVKNX/?tag=tolees0ca-21)

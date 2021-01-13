@@ -26,4 +26,4 @@ Es gibt ein [adidas Herren Terrex AX3 Klassische Stiefel  Schwarz  Black Bc0524 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07JQYFQ54/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07JQYFQ54/?tag=tolees0ca-21)

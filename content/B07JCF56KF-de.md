@@ -26,4 +26,4 @@ Es gibt ein [Huawei Nanomemory Speicherkarte 128G für Mate20/Pro](https://www.a
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07JCF56KF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07JCF56KF/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Casio Edifice Herren Massives Edelstahlgehäuse und Lederarmband Uh
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00BFN2WQQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00BFN2WQQ/?tag=tolees0ca-21)

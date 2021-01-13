@@ -26,4 +26,4 @@ Es gibt ein [Genrics KÜCHEN-TELESKOPSTÄNDER AUS Edelstahl  1pcs ](https://www.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08CZMBNZJ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08CZMBNZJ/?tag=tolees0ca-21)

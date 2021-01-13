@@ -26,4 +26,4 @@ Es gibt ein [Xiaomi Mi 9T Smartphone 6 + 64 GB  16 2 cm  6 39 Zoll  AMOLED Displ
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07SR4G34G/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07SR4G34G/?tag=tolees0ca-21)

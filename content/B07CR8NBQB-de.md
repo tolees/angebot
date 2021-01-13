@@ -26,4 +26,4 @@ Es gibt ein [Garmin vívoactive 3 Music GPS-Fitness-Smartwatch – Musikplayer  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07CR8NBQB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07CR8NBQB/?tag=tolees0ca-21)

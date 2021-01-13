@@ -26,4 +26,4 @@ Es gibt ein [Levi s Damen 310 Shaping Super Skinny Jeans  Schwarz  Black Galaxy 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B076X48LXJ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B076X48LXJ/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Huawei B535 4G LTE Router 3Pro  Cat.7  4G LTE bis zu 300 Mbit/s Dow
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07TL2GRTQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07TL2GRTQ/?tag=tolees0ca-21)

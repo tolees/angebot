@@ -26,4 +26,4 @@ Es gibt ein [Kathrein ESC 30 Sat 3Loch Einzeldose](https://www.amazon.de/dp/B000
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000NDKOW8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000NDKOW8/?tag=tolees0ca-21)

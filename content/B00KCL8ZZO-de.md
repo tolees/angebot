@@ -26,4 +26,4 @@ Es gibt ein [Krups F30908 Krups ProAroma Glas-Kaffeemaschine  10 Tassen  1.050 W
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00KCL8ZZO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00KCL8ZZO/?tag=tolees0ca-21)

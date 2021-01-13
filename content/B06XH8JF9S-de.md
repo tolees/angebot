@@ -26,4 +26,4 @@ Sie können [Picard Handgelenktasche Toscana Leder Small 17 x 24 x 6 cm  H/B/T  
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06XH8JF9S/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06XH8JF9S/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Samsung SM-R210NZWADBT Gear 360  2017  weiß](https://www.amazon.de
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06Y41B5GN/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06Y41B5GN/?tag=tolees0ca-21)

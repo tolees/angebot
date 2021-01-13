@@ -26,4 +26,4 @@ Es gibt ein [Morella® Damen Engels Klangkugel Zirkonia grün Ø 16 mm](https://
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00WX6VEBS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00WX6VEBS/?tag=tolees0ca-21)

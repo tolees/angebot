@@ -26,4 +26,4 @@ Es gibt ein [Playmobil 9282 - Skischule](https://www.amazon.de/dp/B06WVPGD4J/?ta
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06WVPGD4J/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06WVPGD4J/?tag=tolees0ca-21)

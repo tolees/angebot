@@ -26,4 +26,4 @@ Es gibt ein [VAUDE  Satteltaschen Tool Stick M  black  One Size  117190100](http
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00HF05JS6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00HF05JS6/?tag=tolees0ca-21)

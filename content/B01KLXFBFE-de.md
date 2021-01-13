@@ -26,4 +26,4 @@ Sie können [Remington Haarglätter PROluxe S9100  OPTIheat-Technologie und Ulti
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01KLXFBFE/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01KLXFBFE/?tag=tolees0ca-21)

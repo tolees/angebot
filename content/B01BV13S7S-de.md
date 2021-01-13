@@ -26,4 +26,4 @@ Sie können [Seagate Game Drive für Xbox  tragbare externe Festplatte  4 TB  2.
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01BV13S7S/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01BV13S7S/?tag=tolees0ca-21)

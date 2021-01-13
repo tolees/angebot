@@ -26,4 +26,4 @@ Es gibt ein [B.K.Licht I 6er Set LED Einbaustrahler I Dimmbar I Schwenkbar I Ult
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01DSX3M6Y/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01DSX3M6Y/?tag=tolees0ca-21)

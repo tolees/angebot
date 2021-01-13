@@ -26,4 +26,4 @@ Sie können [Funko 40876 POP Vinyl Animation: Disenchantment-Bean Sammelbares Sp
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07QJ22S1H/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07QJ22S1H/?tag=tolees0ca-21)

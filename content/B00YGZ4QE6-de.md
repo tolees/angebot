@@ -26,4 +26,4 @@ Es gibt ein [Hasbro Gaming B7063100 - Pie Face Partyspiel](https://www.amazon.de
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00YGZ4QE6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00YGZ4QE6/?tag=tolees0ca-21)

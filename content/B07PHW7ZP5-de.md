@@ -26,4 +26,4 @@ Sie können [JFUME Herren Magnet Armband Männer Armbänder aus Edelstahl mit Li
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07PHW7ZP5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07PHW7ZP5/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Fintie Hülle kompatibel für Kindle Paperwhite  10. Generation - 2
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07TMYM2QV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07TMYM2QV/?tag=tolees0ca-21)

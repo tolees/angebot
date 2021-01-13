@@ -26,4 +26,4 @@ Sie können [Hansaplast Frozen Pflaster  1 x 20 Stück ](https://www.amazon.de/d
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B079N83MSD/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B079N83MSD/?tag=tolees0ca-21)

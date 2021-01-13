@@ -26,4 +26,4 @@ Es gibt ein [TP-Link TL-SG105E 5-Ports Gigabit Easy Smart Managed Netzwerk Switc
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00N0OHEMA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00N0OHEMA/?tag=tolees0ca-21)

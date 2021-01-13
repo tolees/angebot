@@ -26,4 +26,4 @@ Sie können [Stubai Astbeil Nirolook Messing-Stielschutz 1200 g](https://www.ama
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B00TU4G1AK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B00TU4G1AK/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Carrera GO!!! PLUS DTM Speed Record 20066009 Autorennbahn Set](http
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PT7L28Y/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PT7L28Y/?tag=tolees0ca-21)

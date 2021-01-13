@@ -26,4 +26,4 @@ Es gibt ein [LEGO 71714 NINJAGO Avatar Kai – Tragbare Arcade Kapsel  Ninja-Spi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07W8XYZ2W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07W8XYZ2W/?tag=tolees0ca-21)

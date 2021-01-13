@@ -26,4 +26,4 @@ Es gibt ein [DeWalt Akku-Schnellladegerät/ Akkuladegerät  10 8- 18 Volt  lädt
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01E85JRZ6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01E85JRZ6/?tag=tolees0ca-21)

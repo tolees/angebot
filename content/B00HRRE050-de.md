@@ -26,4 +26,4 @@ Es gibt ein [Sylvanian Families 5052 Supermarkt-Besitzer](https://www.amazon.de/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00HRRE050/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00HRRE050/?tag=tolees0ca-21)

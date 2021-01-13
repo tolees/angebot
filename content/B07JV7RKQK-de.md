@@ -26,4 +26,4 @@ Sie können [Pop Fortnite Dark Voyager Vinyl Figure](https://www.amazon.de/dp/B0
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07JV7RKQK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07JV7RKQK/?tag=tolees0ca-21)

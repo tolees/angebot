@@ -26,4 +26,4 @@ Es gibt ein [Brilliant Spari Deckenfluter mit separat schaltbarem Lesearm  1 8m 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B004LZSP6Q/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B004LZSP6Q/?tag=tolees0ca-21)

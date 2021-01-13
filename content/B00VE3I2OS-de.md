@@ -26,4 +26,4 @@ Es gibt ein [Emsa 515617 Travel Mug Standard-Design Grande  Thermobecher/Isolier
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00VE3I2OS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00VE3I2OS/?tag=tolees0ca-21)

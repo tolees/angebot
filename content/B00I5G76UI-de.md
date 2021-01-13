@@ -26,4 +26,4 @@ Es gibt ein [Lamy 1226061 al-star Füllhalter Aluminium Feder M  blaugrün](http
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00I5G76UI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00I5G76UI/?tag=tolees0ca-21)

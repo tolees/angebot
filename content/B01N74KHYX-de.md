@@ -26,4 +26,4 @@ Es gibt ein [Princess Raclette Grill in Bambusausführung - für bis zu 8 Person
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01N74KHYX/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01N74KHYX/?tag=tolees0ca-21)

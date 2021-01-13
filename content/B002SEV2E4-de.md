@@ -26,4 +26,4 @@ Es gibt ein [sodastream 1020195490 Sirup Cola Sugar Free 500 ml  Ergiebigkeit: 1
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B002SEV2E4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B002SEV2E4/?tag=tolees0ca-21)

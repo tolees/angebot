@@ -26,4 +26,4 @@ Sie können [Hasbro Gaming E1921100 - Trivial Pursuit Familien Edition Familiens
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07BM59VHC/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07BM59VHC/?tag=tolees0ca-21)

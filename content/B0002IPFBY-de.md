@@ -26,4 +26,4 @@ Es gibt ein [Netgear GS116GE 16-Port Gigabit Ethernet LAN Switch Unmanaged  für
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0002IPFBY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0002IPFBY/?tag=tolees0ca-21)

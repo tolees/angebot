@@ -26,4 +26,4 @@ Es gibt ein [DARLINGTON & Sohns Schwarzer Controller für Nintendo 64 N64 USB An
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08F3RJ2YP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08F3RJ2YP/?tag=tolees0ca-21)

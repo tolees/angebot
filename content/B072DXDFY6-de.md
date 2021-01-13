@@ -26,4 +26,4 @@ Es gibt ein [Guardians of the Galaxy Vol. 2](https://www.amazon.de/dp/B072DXDFY6
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B072DXDFY6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B072DXDFY6/?tag=tolees0ca-21)

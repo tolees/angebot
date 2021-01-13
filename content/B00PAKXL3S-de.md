@@ -26,4 +26,4 @@ Sie können [Stereo Gaming Headset Dual Format PS4/PSVita-weiss](https://www.ama
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B00PAKXL3S/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B00PAKXL3S/?tag=tolees0ca-21)

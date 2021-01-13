@@ -26,4 +26,4 @@ Sie können [Lenovo IdeaPad S340 Laptop 39 6 cm  15 6 Zoll  1920x1080  FHD  IPS 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B081T6WL1M/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B081T6WL1M/?tag=tolees0ca-21)

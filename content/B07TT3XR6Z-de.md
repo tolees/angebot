@@ -26,4 +26,4 @@ Es gibt ein [Akku Hülle für iPhone X/XS  [4000 mAh] Ultra Dünn Ladehülle FLY
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07TT3XR6Z/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07TT3XR6Z/?tag=tolees0ca-21)

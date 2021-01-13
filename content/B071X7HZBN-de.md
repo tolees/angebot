@@ -26,4 +26,4 @@ Sie können [POP Television: Bob Ross](https://www.amazon.de/dp/B071X7HZBN/?tag=
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B071X7HZBN/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B071X7HZBN/?tag=tolees0ca-21)

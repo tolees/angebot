@@ -26,4 +26,4 @@ Sie können [Pokémon GO Plus](https://www.amazon.de/dp/B01HQ55NPI/?tag=tolees0c
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01HQ55NPI/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01HQ55NPI/?tag=tolees0ca-21)

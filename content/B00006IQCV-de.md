@@ -26,4 +26,4 @@ Es gibt ein [BIC 811935 Marker mit abgeschrägter Spitze  gelb  abgeschrägte Sp
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00006IQCV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00006IQCV/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Veganz BIO Protein Choc Bar Strawberry Cake Style - Eiweißriegel V
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07N8F4D2Z/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07N8F4D2Z/?tag=tolees0ca-21)

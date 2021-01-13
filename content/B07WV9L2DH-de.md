@@ -26,4 +26,4 @@ Es gibt ein [BRIKSMAX Led Beleuchtungsset für Lego Ideas Die NASA-Frauen Kompat
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07WV9L2DH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07WV9L2DH/?tag=tolees0ca-21)

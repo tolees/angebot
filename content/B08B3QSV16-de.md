@@ -26,4 +26,4 @@ Es gibt ein [Bluetooth Kopfhörer in Ear  Bluetooth 5.0 Kopfhörer Kabellos Spor
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08B3QSV16/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08B3QSV16/?tag=tolees0ca-21)

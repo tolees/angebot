@@ -26,4 +26,4 @@ Sie können [Smartwatch  Zagzog 1 54  Vollfarb-Touchscreen 15 Tage Wettervorhers
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07YYSPZNZ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07YYSPZNZ/?tag=tolees0ca-21)

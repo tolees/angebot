@@ -26,4 +26,4 @@ Es gibt ein [Microsoft Surface Book 2 34 29 cm  13 5 Zoll  Laptop  Intel Core i7
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B076S2VF4R/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B076S2VF4R/?tag=tolees0ca-21)

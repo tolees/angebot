@@ -26,4 +26,4 @@ Es gibt ein [Yaasier WLAN Repeater  2 4GHz WLAN Verstärker WiFi Extender mit Ro
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08BNBHMPG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08BNBHMPG/?tag=tolees0ca-21)

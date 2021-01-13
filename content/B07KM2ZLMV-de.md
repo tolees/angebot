@@ -26,4 +26,4 @@ Es gibt ein [Samsung C32JG51FD 81 28 cm  32 Zoll  Curved Monitor  16:9  1920 x 1
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KM2ZLMV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KM2ZLMV/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Tefal G11519 Delicia Pro Wokpfanne  28 cm  Aluminium  schwarz](http
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07GNS4TPY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GNS4TPY/?tag=tolees0ca-21)

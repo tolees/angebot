@@ -26,4 +26,4 @@ Sie können [KS Tools 917.1217 1/2" CLASSIC Sechskant-Stecknuss  17mm](https://w
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B001NYSTPK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B001NYSTPK/?tag=tolees0ca-21)

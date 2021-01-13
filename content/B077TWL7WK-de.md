@@ -26,4 +26,4 @@ Sie können [Toaster 4 Scheiben 1600W（7 einstellbare Bräunungsstufe + Auftau-
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B077TWL7WK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B077TWL7WK/?tag=tolees0ca-21)

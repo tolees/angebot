@@ -26,4 +26,4 @@ Sie können [Viewsonic VX3276-MHD-2 80 cm  32 Zoll  Design Monitor  Full-HD  IPS
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0787WGCXT/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0787WGCXT/?tag=tolees0ca-21)

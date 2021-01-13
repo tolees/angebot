@@ -26,4 +26,4 @@ Sie können [SanDisk Extreme PRO 64 GB SDXC-Speicherkarte bis zu 300 MB/Sek  UHS
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01JYUU1ZU/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01JYUU1ZU/?tag=tolees0ca-21)

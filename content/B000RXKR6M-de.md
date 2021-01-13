@@ -26,4 +26,4 @@ Es gibt ein [Meguiar s X3002EU Microfibre Wash Mitt Mikrofaser-Waschhandschuh](h
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000RXKR6M/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000RXKR6M/?tag=tolees0ca-21)

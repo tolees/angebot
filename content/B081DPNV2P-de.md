@@ -26,4 +26,4 @@ Es gibt ein [s.Oliver RED LABEL Beachwear LM Damen Cocina Bikini  blau-rot Bedru
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B081DPNV2P/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B081DPNV2P/?tag=tolees0ca-21)

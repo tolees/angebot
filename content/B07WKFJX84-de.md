@@ -26,4 +26,4 @@ Es gibt ein [Color de bronce Hombres Mujeres Anillo de salto Abrir y cerrar Herr
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07WKFJX84/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07WKFJX84/?tag=tolees0ca-21)

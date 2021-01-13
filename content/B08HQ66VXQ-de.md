@@ -26,4 +26,4 @@ Es gibt ein [LED Streifen 5m RGB Sylvwin LED Strip Lichterkette mit Fernbedienun
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08HQ66VXQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08HQ66VXQ/?tag=tolees0ca-21)

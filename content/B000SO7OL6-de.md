@@ -26,4 +26,4 @@ Es gibt ein [The Very Best Of Diana Krall](https://www.amazon.de/dp/B000SO7OL6/?
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000SO7OL6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000SO7OL6/?tag=tolees0ca-21)

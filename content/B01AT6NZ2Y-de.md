@@ -26,4 +26,4 @@ Es gibt ein [2er Set BRUBAKER Tisch- oder Nachttischlampen Anthrazit Grau  Keram
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01AT6NZ2Y/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01AT6NZ2Y/?tag=tolees0ca-21)

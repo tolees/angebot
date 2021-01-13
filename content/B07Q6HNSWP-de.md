@@ -26,4 +26,4 @@ Es gibt ein [Monsieur Claude 2 [Blu-ray]](https://www.amazon.de/dp/B07Q6HNSWP/?t
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07Q6HNSWP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07Q6HNSWP/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Intex Filteranlagenzubehör - Filterkartusche - Typ A - 3 Stück](h
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B005TUK0R4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B005TUK0R4/?tag=tolees0ca-21)

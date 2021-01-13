@@ -26,4 +26,4 @@ Es gibt ein [Fitbit Ionic Health & Fitness Smartwatch  grau Einheitsgröße](htt
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B079P2J6GM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B079P2J6GM/?tag=tolees0ca-21)

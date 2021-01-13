@@ -26,4 +26,4 @@ Es gibt ein [Thrustmaster T-GT  Lenkrad inkl. 3-Pedalset  Force Feedback  270° 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01HRYDV0M/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01HRYDV0M/?tag=tolees0ca-21)

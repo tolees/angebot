@@ -26,4 +26,4 @@ Es gibt ein [144 Stunden In-Ear Bluetooth Kopfhörer  Ohrhörer Kabellos CVC Noi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B083K4TWZV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B083K4TWZV/?tag=tolees0ca-21)

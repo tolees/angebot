@@ -26,4 +26,4 @@ Sie können [Philips Hi-Res Audio Kopfhörer PH802BK/00 On Ear Bluetooth Kopfhö
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07ZDM5H9T/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07ZDM5H9T/?tag=tolees0ca-21)

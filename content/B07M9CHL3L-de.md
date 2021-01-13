@@ -26,4 +26,4 @@ Sie können [Huawei P smart 2019 64GB Hybrid-SIM Aurora Blau EU [15 77cm  6 21" 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07M9CHL3L/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07M9CHL3L/?tag=tolees0ca-21)

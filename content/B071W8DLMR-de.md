@@ -26,4 +26,4 @@ Es gibt ein [Netgear RR230400-100NES Ready-NAS Network Attached Storage](https:/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B071W8DLMR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B071W8DLMR/?tag=tolees0ca-21)

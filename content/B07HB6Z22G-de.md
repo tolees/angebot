@@ -26,4 +26,4 @@ Es gibt ein [V-Kids Watch by Vodafone - Smartwatch mit GPS-Tracker und SOS-Alarm
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07HB6Z22G/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HB6Z22G/?tag=tolees0ca-21)

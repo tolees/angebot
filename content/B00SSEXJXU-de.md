@@ -26,4 +26,4 @@ Es gibt ein [Oac 3cd Slipcase - Wham [3 CD]](https://www.amazon.de/dp/B00SSEXJXU
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00SSEXJXU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00SSEXJXU/?tag=tolees0ca-21)

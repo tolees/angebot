@@ -26,4 +26,4 @@ Sie können [Jade Roller und Gua Sha Scraping Gesichts-Tools Set  Rosenquarz Ges
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07DN1KCYN/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07DN1KCYN/?tag=tolees0ca-21)

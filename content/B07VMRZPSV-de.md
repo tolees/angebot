@@ -26,4 +26,4 @@ Sie können [Samsung Book Cover Keyboard  EF-DT860  für Galaxy Tab S6](https://
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07VMRZPSV/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07VMRZPSV/?tag=tolees0ca-21)

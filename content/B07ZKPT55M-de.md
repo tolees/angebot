@@ -26,4 +26,4 @@ Sie können [Panasonic TX-32GW334 LED-TV 32 Zoll  80 cm   HD Fernseher  Triple T
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07ZKPT55M/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07ZKPT55M/?tag=tolees0ca-21)

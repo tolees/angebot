@@ -26,4 +26,4 @@ Es gibt ein [Duschkopf  DALMO DCH01Y Wassersparende Handbrause mit 1.5 m Schlauc
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07SXJX2P2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07SXJX2P2/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Eilsorrn WLAN Repeater  WLAN Verstärker 300Mbit/s 2 4GHz Wireless 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08CHBXK4R/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08CHBXK4R/?tag=tolees0ca-21)

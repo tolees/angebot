@@ -26,4 +26,4 @@ Es gibt ein [Holy Stone Hs160 Fpv Mini Drohne Faltbar Mit HD Kamera Live Übertr
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B074K4DPQV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B074K4DPQV/?tag=tolees0ca-21)

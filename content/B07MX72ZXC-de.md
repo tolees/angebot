@@ -26,4 +26,4 @@ Es gibt ein [Lightailing Licht-Set Für  Star Wars Super Star Zerstörer  Modell
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07MX72ZXC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MX72ZXC/?tag=tolees0ca-21)

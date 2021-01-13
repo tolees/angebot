@@ -26,4 +26,4 @@ Sie können [Tristar VE-5894 Ventilateur Standventilator-Durchmesser Höhenverst
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B079FBLNPX/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B079FBLNPX/?tag=tolees0ca-21)

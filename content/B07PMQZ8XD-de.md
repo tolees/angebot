@@ -26,4 +26,4 @@ Es gibt ein [SAWAKE Handventilator mini Ventilator mit Handyhalter  elektrisch H
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PMQZ8XD/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PMQZ8XD/?tag=tolees0ca-21)

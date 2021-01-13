@@ -26,4 +26,4 @@ Es gibt ein [Playmobil 9283 - Schneeballschlacht](https://www.amazon.de/dp/B06W5
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06W5X76ZY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06W5X76ZY/?tag=tolees0ca-21)

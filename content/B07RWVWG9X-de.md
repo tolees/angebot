@@ -26,4 +26,4 @@ Sie können [USB Stick 64GB  EIVOTOR Memory Stick USB 3.0 Flash Drive Mini Speic
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07RWVWG9X/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07RWVWG9X/?tag=tolees0ca-21)

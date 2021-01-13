@@ -26,4 +26,4 @@ Sie können [AMIGO Spiel + Freizeit 1951 6 Nimmt Brettspiel](https://www.amazon.
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07W8JFND5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07W8JFND5/?tag=tolees0ca-21)

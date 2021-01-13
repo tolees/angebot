@@ -26,4 +26,4 @@ Sie können [OnePlus 6 Smartphone  15 95 cm  6 28 Zoll  19:9 Touch-Display  64 G
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07CHQHFDZ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07CHQHFDZ/?tag=tolees0ca-21)

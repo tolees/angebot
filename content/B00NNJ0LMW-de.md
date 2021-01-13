@@ -26,4 +26,4 @@ Es gibt ein [LED Lenser F1R high Performance Line  F-Serie  1x 18650 Li-Ion Akku
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00NNJ0LMW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00NNJ0LMW/?tag=tolees0ca-21)

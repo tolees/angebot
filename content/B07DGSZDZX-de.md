@@ -26,4 +26,4 @@ Sie können [GoPro Hülle + Trageband  offizielles GoPro-Zubehör  Schwarz](http
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07DGSZDZX/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07DGSZDZX/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Western Digital 4 TB My Cloud EX2 Ultra-Netzwerkspeicher](https://w
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01BIGSSHQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01BIGSSHQ/?tag=tolees0ca-21)

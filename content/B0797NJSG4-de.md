@@ -26,4 +26,4 @@ Es gibt ein [Funko 30171 Actionfigur Destiny-Osiris](https://www.amazon.de/dp/B0
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0797NJSG4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0797NJSG4/?tag=tolees0ca-21)

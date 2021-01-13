@@ -26,4 +26,4 @@ Es gibt ein [Wedo 78722 Cutter Hobbymesser Set  inklusive 6 verschiedenen Klinge
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001ALYPY0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001ALYPY0/?tag=tolees0ca-21)

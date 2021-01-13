@@ -26,4 +26,4 @@ Es gibt ein [Samsung Galaxy Buds SM-R170NZYADBT I Kabellose Kopfhörer Gelb I Bl
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NQ8MBH4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NQ8MBH4/?tag=tolees0ca-21)

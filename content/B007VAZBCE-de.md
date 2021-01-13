@@ -26,4 +26,4 @@ Sie können [Tamron 24-70mm F/2 8 Weitwinkelobjektiv mit USD-Motor und Spritzwas
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B007VAZBCE/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B007VAZBCE/?tag=tolees0ca-21)

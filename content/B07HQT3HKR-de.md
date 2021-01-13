@@ -26,4 +26,4 @@ Sie können [Odys NoteTab Pro 25 7 cm  10 1 Zoll   1 3 Ghz QuadCore Prozessor  1
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07HQT3HKR/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07HQT3HKR/?tag=tolees0ca-21)

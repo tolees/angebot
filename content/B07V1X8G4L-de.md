@@ -26,4 +26,4 @@ Es gibt ein [ADATA SE800 - 1 TB  externe Solid-State-Drive mit USB 3.2 Gen.2 Typ
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07V1X8G4L/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07V1X8G4L/?tag=tolees0ca-21)

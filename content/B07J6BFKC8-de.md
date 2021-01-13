@@ -26,4 +26,4 @@ Es gibt ein [LEGO 75970 - Overwatch Tracer vs. Widowmaker  Bauset](https://www.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07J6BFKC8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07J6BFKC8/?tag=tolees0ca-21)

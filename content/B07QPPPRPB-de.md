@@ -26,4 +26,4 @@ Sie können [Wiko View 3 Lite  Silver bleen  6 09" HD+ Display  13MP+2MP DUAL Ka
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07QPPPRPB/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07QPPPRPB/?tag=tolees0ca-21)

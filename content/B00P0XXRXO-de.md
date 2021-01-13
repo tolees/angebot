@@ -26,4 +26,4 @@ Es gibt ein [Cobi 2449 Opel Blitz 3 6 - 36S  Grau](https://www.amazon.de/dp/B00P
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00P0XXRXO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00P0XXRXO/?tag=tolees0ca-21)

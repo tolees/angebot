@@ -26,4 +26,4 @@ Es gibt ein [Tragbare Seifenblasenmaschine  iTeknic Bubble Machine  Seifenblasen
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PLXPY6X/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PLXPY6X/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [WD My Book externe Festplatte 14 TB  USB 3.0-Schnittstelle  automat
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07Y3JXGPL/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07Y3JXGPL/?tag=tolees0ca-21)

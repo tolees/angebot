@@ -26,4 +26,4 @@ Sie können [SAMSONITE PRO-DLX 5 - Spinner Tote for 15.6   Laptop - 3.3 KG Reise
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07DLX9XF7/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07DLX9XF7/?tag=tolees0ca-21)

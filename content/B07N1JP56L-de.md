@@ -26,4 +26,4 @@ Es gibt ein [Fisher-Price FXC66 - Schlummer Otter Spieluhr aus Plüsch beruhigen
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07N1JP56L/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07N1JP56L/?tag=tolees0ca-21)

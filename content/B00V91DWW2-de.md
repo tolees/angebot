@@ -26,4 +26,4 @@ Es gibt ein [Funko 021421 S2 No Actionfigur Sesame Street: Grover  Multi](https:
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00V91DWW2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00V91DWW2/?tag=tolees0ca-21)

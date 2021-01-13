@@ -26,4 +26,4 @@ Sie können [Anker PowerCore 26800mAh Power Bank Externer Akku mit Dual Input La
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01JIWQPMW/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01JIWQPMW/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Amazon Echo Spot  Smarter Wecker mit Alexa - Schwarz](https://www.a
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01J2BL01K/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01J2BL01K/?tag=tolees0ca-21)

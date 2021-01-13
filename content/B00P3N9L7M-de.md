@@ -26,4 +26,4 @@ Sie können [Two and a Half Men - Mein cooler Onkel Charlie - Staffel 6 [4 DVDs]
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B00P3N9L7M/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B00P3N9L7M/?tag=tolees0ca-21)

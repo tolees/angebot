@@ -26,4 +26,4 @@ Es gibt ein [Sony MDR-XB950N1 kabelloser Kopfhörer mit Geräuschminimierung  No
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01N5MQX4N/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01N5MQX4N/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Withings Body+ - WLAN-Körperwaage für Körperzusammensetzung  Sch
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B071XW4C5Q/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B071XW4C5Q/?tag=tolees0ca-21)

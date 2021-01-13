@@ -26,4 +26,4 @@ Sie können [Samsung Galaxy S7 Smartphone  12 92 cm  5 1 Zoll  Touch-Display  32
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01E1QUFBM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01E1QUFBM/?tag=tolees0ca-21)

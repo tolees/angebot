@@ -26,4 +26,4 @@ Sie können [HP 24x  23 8 Zoll / Full HD 144Hz  Gaming Monitor  AMD FreeSync  1 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07SS5QLWQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07SS5QLWQ/?tag=tolees0ca-21)

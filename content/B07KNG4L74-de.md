@@ -26,4 +26,4 @@ Es gibt ein [Razer Blackwidow Elite Mechanische Full-Size-Gaming-Tastatur mit Me
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KNG4L74/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KNG4L74/?tag=tolees0ca-21)

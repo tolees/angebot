@@ -26,4 +26,4 @@ Es gibt ein [Hasbro Beyblade Burst B9503ES0 - Single Top Roktavor  Kreisel](http
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B071HW94VG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B071HW94VG/?tag=tolees0ca-21)

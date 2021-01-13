@@ -26,4 +26,4 @@ Es gibt ein [Seiko Herren Chronograph Quarz Uhr mit Edelstahl Armband SSB259P1](
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B074Z2ZJDG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B074Z2ZJDG/?tag=tolees0ca-21)

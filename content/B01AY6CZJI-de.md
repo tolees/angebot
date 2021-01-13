@@ -26,4 +26,4 @@ Es gibt ein [UGG Female Classic Mini II Classic Boot  Grey  6  UK ](https://www.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01AY6CZJI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01AY6CZJI/?tag=tolees0ca-21)

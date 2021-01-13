@@ -26,4 +26,4 @@ Es gibt ein [Christa Ludwig-Complete Recitals](https://www.amazon.de/dp/B078XGY4
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B078XGY4K6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B078XGY4K6/?tag=tolees0ca-21)

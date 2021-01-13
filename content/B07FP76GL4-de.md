@@ -26,4 +26,4 @@ Es gibt ein [LEGO NINJAGO 70664 - Spinjitzu Lloyd vs. Garmadon](https://www.amaz
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07FP76GL4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FP76GL4/?tag=tolees0ca-21)

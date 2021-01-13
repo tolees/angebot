@@ -26,4 +26,4 @@ Es gibt ein [Silverline HK11 Innensechskantschlüssel  10-tlg. Satz 2 – 10 mm]
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000LFXJUM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000LFXJUM/?tag=tolees0ca-21)

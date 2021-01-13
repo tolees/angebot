@@ -26,4 +26,4 @@ Sie können [Lüfterloser Mini-PC-Stick Windows 10 Pro  64-Bit   T6 Intel Atom Z
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07RKL1WMJ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07RKL1WMJ/?tag=tolees0ca-21)

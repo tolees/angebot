@@ -26,4 +26,4 @@ Es gibt ein [Parker Jotter Kugelschreiber | Bond Street Black | Mittlere Spitze 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01DJBH8SS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01DJBH8SS/?tag=tolees0ca-21)

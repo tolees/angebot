@@ -26,4 +26,4 @@ Es gibt ein [SAMSONITE PRO-DLX 5 - Wheeled Business Case 15.6" Erweiterbar - 29.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07DLX8D8H/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07DLX8D8H/?tag=tolees0ca-21)

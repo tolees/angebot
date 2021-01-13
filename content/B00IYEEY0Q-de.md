@@ -26,4 +26,4 @@ Es gibt ein [Einhell Bohrhammer TC-RH 900  900 W  3 J  Bohrleistung in Beton 26 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00IYEEY0Q/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00IYEEY0Q/?tag=tolees0ca-21)

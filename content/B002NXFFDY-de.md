@@ -26,4 +26,4 @@ Es gibt ein [The Green Mile [Blu-ray]](https://www.amazon.de/dp/B002NXFFDY/?tag=
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B002NXFFDY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B002NXFFDY/?tag=tolees0ca-21)

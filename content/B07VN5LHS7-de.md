@@ -26,4 +26,4 @@ Sie können [STARWARE HDMI auf VGA  HDMI auf VGA Adapter  Stecker zu Buchse  fü
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07VN5LHS7/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07VN5LHS7/?tag=tolees0ca-21)

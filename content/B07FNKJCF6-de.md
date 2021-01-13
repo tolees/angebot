@@ -26,4 +26,4 @@ Es gibt ein [ELTD Tastatur Hülle für Samsung Galaxy Tab S4 10.5  Deutsches QWE
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07FNKJCF6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FNKJCF6/?tag=tolees0ca-21)

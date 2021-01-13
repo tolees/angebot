@@ -26,4 +26,4 @@ Sie können [Huawei P20 lite Smartphone  14.83 cm  5.84 Zoll   64GB interner Spe
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07BHDQPD9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07BHDQPD9/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Funko 44270 POP NBA: OKC-Paul George Sammelbares Spielzeug  Mehrfar
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07RN8FTCZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07RN8FTCZ/?tag=tolees0ca-21)

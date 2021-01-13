@@ -26,4 +26,4 @@ Es gibt ein [ACEPC T11 Mini-PC Windows 10 Pro  4GB DDR3/ 64GB eMMC/ 120GB SSD In
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07Y4S8QKQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07Y4S8QKQ/?tag=tolees0ca-21)

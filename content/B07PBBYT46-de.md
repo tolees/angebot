@@ -26,4 +26,4 @@ Es gibt ein [Funko 41965 POP Vinyl: Filme: Silence of Lambs-Hannibal Sammelbares
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PBBYT46/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PBBYT46/?tag=tolees0ca-21)

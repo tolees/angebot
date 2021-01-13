@@ -26,4 +26,4 @@ Es gibt ein [Energizer Alkaline Batterie E23 A](https://www.amazon.de/dp/B000IWX
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000IWXWI2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000IWXWI2/?tag=tolees0ca-21)

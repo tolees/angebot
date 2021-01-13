@@ -26,4 +26,4 @@ Es gibt ein [WOLF-Garten - Sport- und Spiel-Rasen LG 500; 3825040](https://www.a
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B006ARRS2A/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B006ARRS2A/?tag=tolees0ca-21)

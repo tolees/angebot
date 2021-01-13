@@ -26,4 +26,4 @@ Es gibt ein [Oral-B CrossAction Black Edition Aufsteckbürsten  Borsten im 16-Gr
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07L6W8KVY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07L6W8KVY/?tag=tolees0ca-21)

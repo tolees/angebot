@@ -26,4 +26,4 @@ Es gibt ein [Remington Elektrischer Rasierer Herren F7800  +LED Minuten-Display 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B008YQPZN4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B008YQPZN4/?tag=tolees0ca-21)

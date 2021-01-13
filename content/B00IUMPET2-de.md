@@ -26,4 +26,4 @@ Es gibt ein [Flow-Mow für Zeitraffer-Fotografie  360 Grad drehbar](https://www
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00IUMPET2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00IUMPET2/?tag=tolees0ca-21)

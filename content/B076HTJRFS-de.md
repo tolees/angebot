@@ -26,4 +26,4 @@ Es gibt ein [Eagle Creek Leichter Rollkoffer Gear Warrior™ AWD 29 Trolley mit 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B076HTJRFS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B076HTJRFS/?tag=tolees0ca-21)

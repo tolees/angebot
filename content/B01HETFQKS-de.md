@@ -26,4 +26,4 @@ Sie können [Bose SoundLink Color II  Bluetooth - Outdoor - Lautsprecher   wasse
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01HETFQKS/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01HETFQKS/?tag=tolees0ca-21)

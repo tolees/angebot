@@ -26,4 +26,4 @@ Sie können [ESOLOM Bluetooth Adapter Audio 5.0 Bluetooth Transmitter Empfänger
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07Z3XBP7N/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07Z3XBP7N/?tag=tolees0ca-21)

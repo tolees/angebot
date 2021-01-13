@@ -26,4 +26,4 @@ Es gibt ein [Fitbit Unisex Fitness Uhr Blaze  Schwarz  S](https://www.amazon.de/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B019VM3F2M/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B019VM3F2M/?tag=tolees0ca-21)

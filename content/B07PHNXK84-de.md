@@ -26,4 +26,4 @@ Es gibt ein [SAMSONITE Checkmate - Laptop Backpack - Double Pocket Rucksack  44 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PHNXK84/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PHNXK84/?tag=tolees0ca-21)

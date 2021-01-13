@@ -26,4 +26,4 @@ Es gibt ein [Google WiFi-Router Wireless Bluetooth Weiß weiß weiß Pack de 2](
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B073SXWYN2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B073SXWYN2/?tag=tolees0ca-21)

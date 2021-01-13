@@ -26,4 +26,4 @@ Sie können [OUTXE Outdoor Powerbank Solar 10000mAh USB C IP67 Wasserdicht Akkup
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07QM7JQZC/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07QM7JQZC/?tag=tolees0ca-21)

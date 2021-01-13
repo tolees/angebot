@@ -26,4 +26,4 @@ Es gibt ein [Ringverkleinerer mit Schmuck-Poliertuch für lose Ringe  12 Stück
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B072LDZXFC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B072LDZXFC/?tag=tolees0ca-21)

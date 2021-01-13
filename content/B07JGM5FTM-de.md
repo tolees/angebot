@@ -26,4 +26,4 @@ Sie können [Master Regale® Schwerlastregal 180x120x45cm  HxBxT  Steckregal  Tr
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07JGM5FTM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07JGM5FTM/?tag=tolees0ca-21)

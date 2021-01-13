@@ -26,4 +26,4 @@ Es gibt ein [Bohrer Set  TACKLIFE 42tlg. Professionelles Set  Bohrer  Bit und St
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07GZNH4YD/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GZNH4YD/?tag=tolees0ca-21)

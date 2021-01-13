@@ -26,4 +26,4 @@ Es gibt ein [Garmin Forerunner 735XT-GPS-Uhr  frost blau  M  010-01614-16](https
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01DWIY72I/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01DWIY72I/?tag=tolees0ca-21)

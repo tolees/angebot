@@ -26,4 +26,4 @@ Sie können [Noise Cancelling Kopfhörer Leichte Srhythm NC25 Over Ear ANC Kopfh
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07C8GM4H1/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07C8GM4H1/?tag=tolees0ca-21)

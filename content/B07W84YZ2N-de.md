@@ -26,4 +26,4 @@ Es gibt ein [s.Oliver BLACK LABEL Damen Steppmantel mit Kunstfell-Blende Black 3
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07W84YZ2N/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07W84YZ2N/?tag=tolees0ca-21)

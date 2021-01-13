@@ -26,4 +26,4 @@ Es gibt ein [Wenko Herdabdeckplatte Universal Kaffee  2er Set  für alle Herdart
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001FDERS2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001FDERS2/?tag=tolees0ca-21)

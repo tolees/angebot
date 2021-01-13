@@ -26,4 +26,4 @@ Es gibt ein [Nerf Super Soaker A5832EU4- Scatter Blast  Wasserpistole](https://w
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00F10YPPK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00F10YPPK/?tag=tolees0ca-21)

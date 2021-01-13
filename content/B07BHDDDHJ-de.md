@@ -26,4 +26,4 @@ Sie können [HUAWEI P20 Pro Smartphone  15 5 cm  6 1 Zoll   40/20/8 MP Leica Tri
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07BHDDDHJ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07BHDDDHJ/?tag=tolees0ca-21)

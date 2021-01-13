@@ -26,4 +26,4 @@ Es gibt ein [Samsung Galaxy S10+ Smartphone Bundle  16.3 cm  6.4 Zoll  128GB int
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B088MMRGRP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B088MMRGRP/?tag=tolees0ca-21)

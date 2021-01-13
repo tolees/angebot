@@ -26,4 +26,4 @@ Es gibt ein [Fossil Herren-Uhr FS4813](https://www.amazon.de/dp/B00AFTTQ8I/?tag=
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00AFTTQ8I/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00AFTTQ8I/?tag=tolees0ca-21)

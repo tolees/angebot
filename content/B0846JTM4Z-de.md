@@ -26,4 +26,4 @@ Es gibt ein [moto g8 power lite Dual-SIM Smartphone  6 5 Zoll-Max vision-HD+-Dis
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0846JTM4Z/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0846JTM4Z/?tag=tolees0ca-21)

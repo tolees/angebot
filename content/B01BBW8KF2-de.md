@@ -26,4 +26,4 @@ Es gibt ein [Aeronautica Militare  blank Melange Grey XL](https://www.amazon.de/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01BBW8KF2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01BBW8KF2/?tag=tolees0ca-21)

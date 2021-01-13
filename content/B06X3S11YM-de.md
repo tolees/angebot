@@ -26,4 +26,4 @@ Sie können [Schleich 42370 - Mobile Tierärztin mit Hannoveraner Fohlen](https:
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06X3S11YM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06X3S11YM/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Sonos Play:5 WLAN Speaker  Kraftvoller WLAN Lautsprecher mit bestem
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01615UVQU/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01615UVQU/?tag=tolees0ca-21)

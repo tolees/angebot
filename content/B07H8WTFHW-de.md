@@ -26,4 +26,4 @@ Es gibt ein [MEATER Plus | Das ultimative kabellose smarte Fleischthermometer mi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07H8WTFHW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07H8WTFHW/?tag=tolees0ca-21)

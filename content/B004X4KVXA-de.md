@@ -26,4 +26,4 @@ Es gibt ein [Braun Herren Analog Quarz Armbanduhr BN0024WHBKG](https://www.amazo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B004X4KVXA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B004X4KVXA/?tag=tolees0ca-21)

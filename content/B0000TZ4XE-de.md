@@ -26,4 +26,4 @@ Es gibt ein [Ravensburger Lotti Karotti](https://www.amazon.de/dp/B0000TZ4XE/?ta
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0000TZ4XE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0000TZ4XE/?tag=tolees0ca-21)

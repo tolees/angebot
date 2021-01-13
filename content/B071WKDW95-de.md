@@ -26,4 +26,4 @@ Sie können [Philips SHB3175WT BASS+ Over-Ear Bluetooth-Kopfhörer  13 Stunden A
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B071WKDW95/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B071WKDW95/?tag=tolees0ca-21)

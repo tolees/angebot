@@ -26,4 +26,4 @@ Es gibt ein [INSMART Körperfettwaage  Personenwaage digital mit APP  Bluetooth 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07QS6RW6K/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07QS6RW6K/?tag=tolees0ca-21)

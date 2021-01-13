@@ -26,4 +26,4 @@ Es gibt ein [Kärcher Hochdruckreiniger K 2 Basic  Druck:110 bar  Fördermenge: 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00HH9QAT2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00HH9QAT2/?tag=tolees0ca-21)

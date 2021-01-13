@@ -26,4 +26,4 @@ Es gibt ein [Western Digital WD My Passport externe Festplatte 4 TB  mobiler Spe
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07VTW2LPX/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07VTW2LPX/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [HyperX HX-HSCA-RD Cloud Alpha - Gaming Kopfhörer mit In-Line Audio
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B076GT6XJ9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B076GT6XJ9/?tag=tolees0ca-21)

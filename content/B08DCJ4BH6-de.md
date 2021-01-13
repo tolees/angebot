@@ -26,4 +26,4 @@ Es gibt ein [ORICO M.2 NGFF SSD Externes Gehäuse USB 3.1 auf M.2 SATA Adapter f
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08DCJ4BH6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08DCJ4BH6/?tag=tolees0ca-21)

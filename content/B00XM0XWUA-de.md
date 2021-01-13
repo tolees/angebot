@@ -26,4 +26,4 @@ Es gibt ein [Polaroid ZIP Handydrucker mit ZINK Zero tintenfreier Drucktechnolog
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00XM0XWUA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00XM0XWUA/?tag=tolees0ca-21)

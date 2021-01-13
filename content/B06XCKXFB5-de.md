@@ -26,4 +26,4 @@ Sie können [Dickie Toys RC Monster Flippy  RTR  Spielzeugauto mit Funkfernsteue
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06XCKXFB5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06XCKXFB5/?tag=tolees0ca-21)

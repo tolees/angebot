@@ -26,4 +26,4 @@ Es gibt ein [Panasonic Nass/Trocken-Rasierer ES-LT4N mit ultraflexiblem 3D-Scher
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00YA10NBQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00YA10NBQ/?tag=tolees0ca-21)

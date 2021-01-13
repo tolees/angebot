@@ -26,4 +26,4 @@ Sie können [Echo Plus  2. Gen.   Anthrazit Stoff + Philips Hue White LED-Lampe]
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B08B5YP5PP/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B08B5YP5PP/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Man lernt nie aus [Blu-ray]](https://www.amazon.de/dp/B015CY5GRK/?t
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B015CY5GRK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B015CY5GRK/?tag=tolees0ca-21)

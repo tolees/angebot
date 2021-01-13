@@ -26,4 +26,4 @@ Es gibt ein [Navitech schwarz Gehäuse für APEMAN Mini Car Camera Dash Cam 1080
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0784WYXCL/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0784WYXCL/?tag=tolees0ca-21)

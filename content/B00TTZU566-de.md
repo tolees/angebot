@@ -26,4 +26,4 @@ Es gibt ein [Bosch Akkuschrauber IXO  5. Generation  in Aufbewahrungsbox ](https
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00TTZU566/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00TTZU566/?tag=tolees0ca-21)

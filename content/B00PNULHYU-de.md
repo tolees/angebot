@@ -26,4 +26,4 @@ Es gibt ein [Gardena Reinigungsspritze: Wasserspritze mit stufenlos einstellbare
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00PNULHYU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00PNULHYU/?tag=tolees0ca-21)

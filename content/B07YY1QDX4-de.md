@@ -26,4 +26,4 @@ Es gibt ein [BRIKSMAX Led Beleuchtungsset für Lego Star Wars First Order Star D
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07YY1QDX4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07YY1QDX4/?tag=tolees0ca-21)

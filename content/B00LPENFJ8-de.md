@@ -26,4 +26,4 @@ Es gibt ein [Guardians Of the Galaxy Legends Iron Man Figure Standard](https://w
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00LPENFJ8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00LPENFJ8/?tag=tolees0ca-21)

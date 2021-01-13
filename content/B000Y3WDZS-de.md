@@ -26,4 +26,4 @@ Sie können [Wrangler Herren Texas Contrast  Jeans  Blau  Vintage Stonewash   46
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B000Y3WDZS/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B000Y3WDZS/?tag=tolees0ca-21)

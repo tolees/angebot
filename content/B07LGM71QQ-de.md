@@ -26,4 +26,4 @@ Sie können [Omron RS7 Intelli IT Handgelenk-Blutdruckmessgerät  mit Positionie
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07LGM71QQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07LGM71QQ/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [LiveRowing Bluetooth Kopfhörer  Kabellose Kopfhörer mit Bluetooth
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08DFLHPK4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08DFLHPK4/?tag=tolees0ca-21)

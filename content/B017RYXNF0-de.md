@@ -26,4 +26,4 @@ Es gibt ein [Linksys Max-Stream AC5400 MU-MIMO Dual-Band Wi-Fi Router für Zuhau
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B017RYXNF0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B017RYXNF0/?tag=tolees0ca-21)

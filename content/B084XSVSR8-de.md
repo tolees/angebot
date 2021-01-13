@@ -26,4 +26,4 @@ Es gibt ein [LG Electronics 65UM7050PLA  164 cm  65 Zoll   UHD  Fernseher  4K  T
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B084XSVSR8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B084XSVSR8/?tag=tolees0ca-21)

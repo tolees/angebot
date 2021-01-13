@@ -26,4 +26,4 @@ Es gibt ein [Paul Günther 1682 - Propellerspiel Twirly  Farblich sortiert](http
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000F5FNI4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000F5FNI4/?tag=tolees0ca-21)

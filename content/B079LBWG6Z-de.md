@@ -26,4 +26,4 @@ Es gibt ein [Olympus PEN E-PL9 Micro Four Thirds Systemkamera  16 Megapixel  Bil
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B079LBWG6Z/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B079LBWG6Z/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Yamaha MusicCast 50 Musikbox  Multiroom Stereo-Lautsprecher kompati
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07F7HR4VM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07F7HR4VM/?tag=tolees0ca-21)

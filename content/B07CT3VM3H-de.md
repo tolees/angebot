@@ -26,4 +26,4 @@ Sie können [Echo Plus  2. Gen.   mit Premiumklang und integriertem Smart Home-H
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07CT3VM3H/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07CT3VM3H/?tag=tolees0ca-21)

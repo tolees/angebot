@@ -26,4 +26,4 @@ Es gibt ein [Brennenstuhl Eco-Line  Steckdosenleiste 6-fach  Steckerleiste mit e
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B002N6ZEFA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B002N6ZEFA/?tag=tolees0ca-21)

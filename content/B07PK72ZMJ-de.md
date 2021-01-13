@@ -26,4 +26,4 @@ Es gibt ein [HP 250 G7  15 6 Zoll / FHD  Business Laptop  Intel Core i7-8565U  8
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PK72ZMJ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PK72ZMJ/?tag=tolees0ca-21)

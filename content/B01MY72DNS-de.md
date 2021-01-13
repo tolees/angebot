@@ -26,4 +26,4 @@ Es gibt ein [÷ Divide  Deluxe Edition ](https://www.amazon.de/dp/B01MY72DNS/?ta
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01MY72DNS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MY72DNS/?tag=tolees0ca-21)

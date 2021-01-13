@@ -26,4 +26,4 @@ Sie können [Band of Gypsys](https://www.amazon.de/dp/B005AZSYIA/?tag=tolees0ca-
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B005AZSYIA/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B005AZSYIA/?tag=tolees0ca-21)

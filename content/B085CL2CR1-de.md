@@ -26,4 +26,4 @@ Sie können [PUMA Sneakersocken 18 Paar Pack Statement Edition - Damen und Herre
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B085CL2CR1/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B085CL2CR1/?tag=tolees0ca-21)

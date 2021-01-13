@@ -26,4 +26,4 @@ Sie können [HP OfficeJet Pro 8715 Multifunktionsdrucker  Instant Ink  Drucker  
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01GJR5BVK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01GJR5BVK/?tag=tolees0ca-21)

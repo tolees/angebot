@@ -26,4 +26,4 @@ Es gibt ein [Kyocera Klimaschutz-System Ecosys FS-1325MFP 4-in-1 Laser-Multifunk
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00AQBXMF8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00AQBXMF8/?tag=tolees0ca-21)

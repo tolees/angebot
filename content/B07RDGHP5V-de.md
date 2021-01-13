@@ -26,4 +26,4 @@ Sie können [WC Ente Total Aktiv Gel Flüssiger WC Reiniger  mit Entenhals-Techn
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07RDGHP5V/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07RDGHP5V/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [HTC Desire 19+ Smartphone  15 8 cm  6 22 Zoll  IPS Display  Triple 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07SBHYJF3/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07SBHYJF3/?tag=tolees0ca-21)

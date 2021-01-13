@@ -26,4 +26,4 @@ Sie können [SteelSeries Arctis Pro Wireless – Drahtlos Gaming-Headset – hoc
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07B819VMQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07B819VMQ/?tag=tolees0ca-21)

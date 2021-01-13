@@ -26,4 +26,4 @@ Es gibt ein [LEGO Star Wars 75116 - Rogue One Actionfigur](https://www.amazon.de
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B012NOG3H4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B012NOG3H4/?tag=tolees0ca-21)

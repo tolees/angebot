@@ -26,4 +26,4 @@ Es gibt ein [Castrol EDGE 0W-30 Motorenöl 5L](https://www.amazon.de/dp/B00BTFE6
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00BTFE6R8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00BTFE6R8/?tag=tolees0ca-21)

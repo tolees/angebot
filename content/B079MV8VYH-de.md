@@ -26,4 +26,4 @@ Es gibt ein [Playmobil 9481 Spielzeug-Maricela](https://www.amazon.de/dp/B079MV8
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B079MV8VYH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B079MV8VYH/?tag=tolees0ca-21)

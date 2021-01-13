@@ -26,4 +26,4 @@ Es gibt ein [Lenovo Miix 720 Schwarz Hybrid  2-in-1  UK Keyboard - 30 5 cm  12 Z
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0711LFB2V/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0711LFB2V/?tag=tolees0ca-21)

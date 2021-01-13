@@ -26,4 +26,4 @@ Es gibt ein [Sony Alpha 6100 E-Mount Systemkamera  24 Megapixel  4K Video  180°
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07X5DH6NB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07X5DH6NB/?tag=tolees0ca-21)

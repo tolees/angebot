@@ -26,4 +26,4 @@ Es gibt ein [Samsung RU8009 207 cm  82 Zoll  LED Fernseher  Ultra HD  HDR  Tripl
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PRNPS6D/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PRNPS6D/?tag=tolees0ca-21)

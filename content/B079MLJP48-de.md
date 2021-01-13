@@ -26,4 +26,4 @@ Es gibt ein [PLAYMOBIL Magic 9472 Prachtvoller Phönix mit Schmucksteckern  Ab 4
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B079MLJP48/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B079MLJP48/?tag=tolees0ca-21)

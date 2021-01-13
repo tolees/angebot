@@ -26,4 +26,4 @@ Es gibt ein [Funko 13555 Herr der Ringe POP Vinylfigur: LOTR/Hobbit: Saruman  Mu
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XGWQNS6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XGWQNS6/?tag=tolees0ca-21)

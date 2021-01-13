@@ -26,4 +26,4 @@ Sie können [Gigaset GS180 Smartphone ohne Vertrag  12 7 cm  5 Zoll HD  16:9 Dis
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07DFCKY1N/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07DFCKY1N/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Levi s Damen 2PACK Tee T-Shirt  Mehrfarbig  2 Pack White +/Smokesta
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KF4SPNC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KF4SPNC/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Garmin Vivomove HR Sport Fitness-Tracker  Rosegold  M](https://www.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B077KLG8QB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B077KLG8QB/?tag=tolees0ca-21)

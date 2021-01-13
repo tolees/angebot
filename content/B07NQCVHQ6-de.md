@@ -26,4 +26,4 @@ Es gibt ein [Der neue Echo Dot  3. Gen.  – smarter Lautsprecher mit Uhr und 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NQCVHQ6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NQCVHQ6/?tag=tolees0ca-21)

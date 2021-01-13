@@ -26,4 +26,4 @@ Es gibt ein [KS Tools 515.0990 SlimPOWER Impact-Stecknuss-Satz  3-tlg.  1/2"](ht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00B3I8REY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00B3I8REY/?tag=tolees0ca-21)

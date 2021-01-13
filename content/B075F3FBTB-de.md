@@ -26,4 +26,4 @@ Sie können [Ledlenser P7 LED Allround Taschenlampe  450 Lumen  25 Stunden Laufz
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B075F3FBTB/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B075F3FBTB/?tag=tolees0ca-21)

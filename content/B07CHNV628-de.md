@@ -26,4 +26,4 @@ Es gibt ein [Worx 40V  2 x 20V/4.0Ah  Max Li-Ion 34 cm Akku-Rasenmäher WG779E.1
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07CHNV628/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07CHNV628/?tag=tolees0ca-21)

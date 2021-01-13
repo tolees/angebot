@@ -26,4 +26,4 @@ Sie können [SGODDE Handwärmer Powerbank 7800mAh  USB Wiederaufladbare 2 IN 1 T
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07YVD3JQC/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07YVD3JQC/?tag=tolees0ca-21)

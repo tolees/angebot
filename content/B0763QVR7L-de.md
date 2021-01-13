@@ -26,4 +26,4 @@ Sie können [MSI TORX FAN 12CM](https://www.amazon.de/dp/B0763QVR7L/?tag=tolees0
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0763QVR7L/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0763QVR7L/?tag=tolees0ca-21)

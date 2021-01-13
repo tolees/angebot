@@ -26,4 +26,4 @@ Sie können [Funko 38551 POP Vinyl: Castlevania: Adrian Tepes Sammelbares Spielz
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07KPHL1ZB/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07KPHL1ZB/?tag=tolees0ca-21)

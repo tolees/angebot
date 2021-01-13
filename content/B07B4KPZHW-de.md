@@ -26,4 +26,4 @@ Es gibt ein [Syoss Colorist Tools Serum  2er Pack  2 x 30 ml ](https://www.amazo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07B4KPZHW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07B4KPZHW/?tag=tolees0ca-21)

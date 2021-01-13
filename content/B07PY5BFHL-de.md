@@ -26,4 +26,4 @@ Sie können [LG 60UM71007LB 151 cm  60 Zoll  Fernseher  UHD  Triple Tuner  4K Ac
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07PY5BFHL/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07PY5BFHL/?tag=tolees0ca-21)

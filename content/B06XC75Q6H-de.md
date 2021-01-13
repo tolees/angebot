@@ -26,4 +26,4 @@ Es gibt ein [Samsung Tablet Tasche EF-BT820PBEGWW Book Hülle  leichteres Design
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XC75Q6H/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XC75Q6H/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [PROCAVE Baumwolle Komfort Qualitäts-Bettdecke für den Sommer 135x
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07RFHDM2H/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07RFHDM2H/?tag=tolees0ca-21)

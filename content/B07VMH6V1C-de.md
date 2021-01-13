@@ -26,4 +26,4 @@ Sie können [Samsung Galaxy Watch Active2 Aluminium  40 mm  Bluetooth  Schwarz](
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07VMH6V1C/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07VMH6V1C/?tag=tolees0ca-21)

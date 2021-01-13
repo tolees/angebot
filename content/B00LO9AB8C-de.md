@@ -26,4 +26,4 @@ Es gibt ein [Philips Essential Care Reisehaartrockner BHD006/00  1600 Watt  wei�
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00LO9AB8C/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00LO9AB8C/?tag=tolees0ca-21)

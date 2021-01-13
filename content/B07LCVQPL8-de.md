@@ -26,4 +26,4 @@ Es gibt ein [Lenovo Tab M10 25 5 cm  10 1 Zoll  1920x1200  FHD  IPS  Touch  Tabl
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07LCVQPL8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07LCVQPL8/?tag=tolees0ca-21)

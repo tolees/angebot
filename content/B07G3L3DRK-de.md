@@ -26,4 +26,4 @@ Sie können [Crucial BX500 120GB CT120BX500SSD1 Z -bis zu 540 MB/s Internes SSD 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07G3L3DRK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07G3L3DRK/?tag=tolees0ca-21)

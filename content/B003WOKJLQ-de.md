@@ -26,4 +26,4 @@ Sie können [Remington Haarschneidemaschine HC5810  selbstschärfende Keramikkli
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B003WOKJLQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B003WOKJLQ/?tag=tolees0ca-21)

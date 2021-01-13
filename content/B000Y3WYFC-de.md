@@ -26,4 +26,4 @@ Sie können [Wrangler Texas Herren Jeans  Blau  Stonewash  Light blue   40W / 30
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B000Y3WYFC/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B000Y3WYFC/?tag=tolees0ca-21)

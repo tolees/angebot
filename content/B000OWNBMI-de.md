@@ -26,4 +26,4 @@ Es gibt ein [Zeller Kinder-Regal mit Vlies Box Safari  MDF  Dekor  23.5 x 30 x 6
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000OWNBMI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000OWNBMI/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Deadpool Life Size Vinyl Figur 543 Funko Pop! Standard](https://www
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0826CSQ8P/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0826CSQ8P/?tag=tolees0ca-21)

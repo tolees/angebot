@@ -26,4 +26,4 @@ Es gibt ein [Castrol POWER 1 RACING 4T 10W-40 4-Takt Motorrad Motorenöl 1L](htt
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B002BJVPJS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B002BJVPJS/?tag=tolees0ca-21)

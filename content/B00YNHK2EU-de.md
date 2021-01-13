@@ -26,4 +26,4 @@ Es gibt ein [Castrol POWER 1 2T 2-Takt Motorrad Motorenöl 1L](https://www.amazo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00YNHK2EU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00YNHK2EU/?tag=tolees0ca-21)

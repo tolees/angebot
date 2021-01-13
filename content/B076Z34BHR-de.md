@@ -26,4 +26,4 @@ Es gibt ein [Sharplace Multifunktionale Erweiterungskarte Shield Development Boa
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B076Z34BHR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B076Z34BHR/?tag=tolees0ca-21)

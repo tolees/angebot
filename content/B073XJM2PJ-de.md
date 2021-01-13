@@ -26,4 +26,4 @@ Es gibt ein [Bestand Aluminiumständer für Laptop und Macbook Desktop für Appl
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B073XJM2PJ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B073XJM2PJ/?tag=tolees0ca-21)

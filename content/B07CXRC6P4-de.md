@@ -26,4 +26,4 @@ Es gibt ein [Ela Mo’s Rucksack Damen | Schön und Durchdacht | für Uni Reisen
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07CXRC6P4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07CXRC6P4/?tag=tolees0ca-21)

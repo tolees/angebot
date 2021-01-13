@@ -26,4 +26,4 @@ Es gibt ein [LEGO Stadt Blaues Auto 30349 pe-beutel](https://www.amazon.de/dp/B0
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01A00W4RQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01A00W4RQ/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Festina Herren Chronograph Quarz Uhr mit Leder Armband F20339/6](ht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0733WZDX2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0733WZDX2/?tag=tolees0ca-21)

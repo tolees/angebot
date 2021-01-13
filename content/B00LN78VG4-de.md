@@ -26,4 +26,4 @@ Es gibt ein [TFA Dostmann 50.1002.01 Samba Körper-Analysewaage mit Trittfläche
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00LN78VG4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00LN78VG4/?tag=tolees0ca-21)

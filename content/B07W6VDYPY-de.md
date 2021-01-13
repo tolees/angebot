@@ -26,4 +26,4 @@ Es gibt ein [Freaky Doll LoLa Cute Crazy  Rosa  Fliegende Puppe mit extra Hellen
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07W6VDYPY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07W6VDYPY/?tag=tolees0ca-21)

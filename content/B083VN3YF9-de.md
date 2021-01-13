@@ -26,4 +26,4 @@ Sie können [Crucial Ballistix BL2K8G32C16U4WL RGB  3200 MHz  DDR4  DRAM  Deskto
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B083VN3YF9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B083VN3YF9/?tag=tolees0ca-21)

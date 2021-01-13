@@ -26,4 +26,4 @@ Sie können [Bosch Nass- und Trockensauger AdvancedVac 20  1200 Watt  20 Liter B
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06XTB2L21/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06XTB2L21/?tag=tolees0ca-21)

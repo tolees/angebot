@@ -26,4 +26,4 @@ Sie können [BRÜSTE MEMO - In diesem Trinkspiel warten die Paare darauf entdeck
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07GSYV5QF/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07GSYV5QF/?tag=tolees0ca-21)

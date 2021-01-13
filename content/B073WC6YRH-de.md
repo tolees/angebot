@@ -26,4 +26,4 @@ Es gibt ein [PAUL HEWITT Anker Armkette Anchor Spirit Plated - Armkette Damen Si
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B073WC6YRH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B073WC6YRH/?tag=tolees0ca-21)

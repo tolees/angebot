@@ -26,4 +26,4 @@ Es gibt ein [Controller für Nintendo Switch 6-Achsen Einstellbarem Switch Pro C
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0899Z2PPF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0899Z2PPF/?tag=tolees0ca-21)

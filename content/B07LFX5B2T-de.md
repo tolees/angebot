@@ -26,4 +26,4 @@ Es gibt ein [My Little Pony Kicherspaß Pinkie Pie – 20 cm großes interaktive
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07LFX5B2T/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07LFX5B2T/?tag=tolees0ca-21)

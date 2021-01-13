@@ -26,4 +26,4 @@ Sie können [tesa Powerstrips Strips LARGE   wasserfest  Packung mit 6 Strips](h
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B005DRDUXE/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B005DRDUXE/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [OMEN 17-cb0211ng  17 3 Zoll / FHD IPS 144Hz  Gaming Laptop  Intel C
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07SD917MR/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07SD917MR/?tag=tolees0ca-21)

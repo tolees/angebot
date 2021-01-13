@@ -26,4 +26,4 @@ Sie können [NINETEC Luna Wireless Home Bluetooth NFC Speaker Lautsprecher 22 Wa
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01GG3QERW/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01GG3QERW/?tag=tolees0ca-21)

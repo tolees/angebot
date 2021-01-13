@@ -26,4 +26,4 @@ Es gibt ein [VERO MODA Damen VMMAXI My SS Soft U-Neck NOOS T-Shirt  Schwarz Blac
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B016XVRUKC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B016XVRUKC/?tag=tolees0ca-21)

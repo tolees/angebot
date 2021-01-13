@@ -26,4 +26,4 @@ Es gibt ein [Philips LFH0720 Analoges Schreibtisch-Wiedergabesystem  Mini-Kasset
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0006ZXLIW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0006ZXLIW/?tag=tolees0ca-21)

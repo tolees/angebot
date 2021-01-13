@@ -26,4 +26,4 @@ Es gibt ein [MÜHLE - Klassischer Rasierhobel - geschlossener Kamm - Metall verc
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B003ZVZPU6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B003ZVZPU6/?tag=tolees0ca-21)

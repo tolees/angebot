@@ -26,4 +26,4 @@ Es gibt ein [JAIMIE JACOBS Flap Boy Slim - Das Original - Magic Wallet Magischer
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01MUDZBP6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MUDZBP6/?tag=tolees0ca-21)

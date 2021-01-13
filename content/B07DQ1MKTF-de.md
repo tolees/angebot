@@ -26,4 +26,4 @@ Sie können [LG SPK8 Rücklautsprecher Set 2.0  140W für SK10Y und SK9Y  Schwar
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07DQ1MKTF/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07DQ1MKTF/?tag=tolees0ca-21)

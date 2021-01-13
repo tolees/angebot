@@ -26,4 +26,4 @@ Sie können [Gigaset E630HX Universal-Mobilteil - IP-Telefon  zum Anschluss an I
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01BI8HR3K/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01BI8HR3K/?tag=tolees0ca-21)

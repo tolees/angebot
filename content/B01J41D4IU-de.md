@@ -26,4 +26,4 @@ Es gibt ein [LEGO Duplo 10847 - Zahlenzug  Vorschulspielzeug](https://www.amazon
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01J41D4IU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01J41D4IU/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [HP ENVY x360 13-ar0205ng  13 3 Zoll / Full HD IPS Touch  Convertibl
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07S7QLVS6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07S7QLVS6/?tag=tolees0ca-21)

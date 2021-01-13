@@ -26,4 +26,4 @@ Sie können [Aigital WLAN verstärker WiFi Repeater Range Extender 300Mbps Multi
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B08C4VWWF1/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B08C4VWWF1/?tag=tolees0ca-21)

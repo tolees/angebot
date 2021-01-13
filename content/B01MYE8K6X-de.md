@@ -26,4 +26,4 @@ Es gibt ein [Goobay 45193 Steckdosenleiste IP44 spritzwassergeschützt 3 m – 3
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01MYE8K6X/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MYE8K6X/?tag=tolees0ca-21)

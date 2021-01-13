@@ -26,4 +26,4 @@ Es gibt ein [Ravensburger tiptoi Der interaktive Globus Spiel  ab 7 Jahren  Wiss
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0033MBT2U/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0033MBT2U/?tag=tolees0ca-21)

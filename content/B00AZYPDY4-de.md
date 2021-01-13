@@ -26,4 +26,4 @@ Es gibt ein [WOLF-Garten - Amboss Astschere »Comfort Plus« POWER CUT** RS 750;
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00AZYPDY4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00AZYPDY4/?tag=tolees0ca-21)

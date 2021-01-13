@@ -26,4 +26,4 @@ Sie können [Razer Base Station Chroma Headset Ständer  mit RGB und USB-Port  R
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07CSKPPNG/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07CSKPPNG/?tag=tolees0ca-21)

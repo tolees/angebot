@@ -26,4 +26,4 @@ Sie können [Funko POP! Vinyl: Dragonball Z S6: Kid Buu  Mehrfarben  Einheitsgr�
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07MZPPTTM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07MZPPTTM/?tag=tolees0ca-21)

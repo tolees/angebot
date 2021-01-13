@@ -26,4 +26,4 @@ Es gibt ein [Transcend Extreme-Speed Micro SDHC 8GB Class 10 Speicherkarte mit S
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B004TA0AUW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B004TA0AUW/?tag=tolees0ca-21)

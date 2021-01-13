@@ -26,4 +26,4 @@ Es gibt ein [BOSCH 3397004772 Wischblatt Heck H772 - Länge: 340](https://www.am
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001FGLN2W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001FGLN2W/?tag=tolees0ca-21)

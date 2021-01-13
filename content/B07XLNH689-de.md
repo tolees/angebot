@@ -26,4 +26,4 @@ Sie können [Tales of: Vesperia + Berseria + Zestiria](https://www.amazon.de/dp/
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07XLNH689/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07XLNH689/?tag=tolees0ca-21)

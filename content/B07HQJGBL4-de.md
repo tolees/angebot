@@ -26,4 +26,4 @@ Es gibt ein [K2 Sports Europe Unisex Kinder Inlineskates Raider](https://www.ama
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07HQJGBL4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HQJGBL4/?tag=tolees0ca-21)

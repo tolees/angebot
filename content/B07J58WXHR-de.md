@@ -26,4 +26,4 @@ Es gibt ein [Medion E4273 35  5 cm  14 Zoll Full HD Touch  Convertible Notebook 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07J58WXHR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07J58WXHR/?tag=tolees0ca-21)

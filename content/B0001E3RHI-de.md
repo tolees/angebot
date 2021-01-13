@@ -26,4 +26,4 @@ Sie können [Gardena Comfort Rückenspritzgerät 12 l: Drucksprühgerät zur Pfl
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0001E3RHI/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0001E3RHI/?tag=tolees0ca-21)

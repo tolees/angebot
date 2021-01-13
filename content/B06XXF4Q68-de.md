@@ -26,4 +26,4 @@ Es gibt ein [NZXT KRAKEN G12 - GPU-Montagesatz für AIO-Kühler der Kraken X-
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XXF4Q68/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XXF4Q68/?tag=tolees0ca-21)

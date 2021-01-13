@@ -26,4 +26,4 @@ Es gibt ein [Sensodyne MultiCare Original Zahnpasta  Tägliche Zahnpasta mit Flu
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01E68WZWW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01E68WZWW/?tag=tolees0ca-21)

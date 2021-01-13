@@ -26,4 +26,4 @@ Sie können [ASUS VivoBook S15 S532FL  90NB0MJ2-M00560  39 6 cm  15 6 Zoll  FHD 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07SMRNRCR/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07SMRNRCR/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [GEDORE red Steckschlüsselsatz  94-teilig  Mit Umschaltknarren  Rat
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07CN5JGLK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07CN5JGLK/?tag=tolees0ca-21)

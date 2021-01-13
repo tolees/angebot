@@ -26,4 +26,4 @@ Es gibt ein [S&R Kreissägeblatt 160mm x 20mm x 2 2mm 40T  Reduzierring 16mm"Woo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01M2CMZJO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01M2CMZJO/?tag=tolees0ca-21)

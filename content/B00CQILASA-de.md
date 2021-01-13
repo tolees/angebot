@@ -26,4 +26,4 @@ Es gibt ein [UHU 45450 Doppel-Strips Extrem  4 kg  26 mm x 31 mm  16 Stück](htt
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00CQILASA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00CQILASA/?tag=tolees0ca-21)

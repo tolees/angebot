@@ -26,4 +26,4 @@ Es gibt ein [Philips 50PUS6203/12 126 cm  50 Zoll  LED-Fernseher  4K Ultra HD  S
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07HM8GR4G/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HM8GR4G/?tag=tolees0ca-21)

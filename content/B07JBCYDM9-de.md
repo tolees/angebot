@@ -26,4 +26,4 @@ Sie können [Trust GXT Mechanische Gaming Tastatur mit LED Beleuchtung  Deutsche
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07JBCYDM9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07JBCYDM9/?tag=tolees0ca-21)

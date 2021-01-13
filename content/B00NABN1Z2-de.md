@@ -26,4 +26,4 @@ Es gibt ein [WMF Stelio Eierkocher  für 1-7 Eier  350 W  mit Härtegradeinstell
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00NABN1Z2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00NABN1Z2/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Mpow EM18 Handy Bluetooth-Headsets für EIN Ohr  Dual-Mik+ cVc8.0 R
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07ZT672FX/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07ZT672FX/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Dragon Touch Action Cam 4K /unterwasserkamera 16MP WiFi Sports Kame
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07RKQ4QLN/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07RKQ4QLN/?tag=tolees0ca-21)

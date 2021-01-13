@@ -26,4 +26,4 @@ Sie können [Pop Fantastic Four Mister Fantastic Vinyl Figure](https://www.amazo
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07TS8P2J1/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07TS8P2J1/?tag=tolees0ca-21)

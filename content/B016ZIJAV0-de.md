@@ -26,4 +26,4 @@ Es gibt ein [iRobot Roomba 615 Saugroboter mit 3-stufigem Reinigungssystem  Dirt
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B016ZIJAV0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B016ZIJAV0/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Victorinox Holz Taschenmesser Ranger Wood 55  10 Funktionen  Festst
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00K3LH4OQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00K3LH4OQ/?tag=tolees0ca-21)

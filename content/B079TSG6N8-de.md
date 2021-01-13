@@ -26,4 +26,4 @@ Es gibt ein [Strellson Herren Harley 2495 Derbys  Schwarz  Black 900   41 EU](ht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B079TSG6N8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B079TSG6N8/?tag=tolees0ca-21)

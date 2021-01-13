@@ -26,4 +26,4 @@ Es gibt ein [Leibniz PiCK UP Choco & milk 24 x 28 g-knackige Schokolade  knuspri
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B006DGGCPW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B006DGGCPW/?tag=tolees0ca-21)

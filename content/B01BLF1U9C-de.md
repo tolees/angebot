@@ -26,4 +26,4 @@ Sie können [fischertechnik Experimentierbaukasten Mechanic + Static 2 - der opt
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01BLF1U9C/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01BLF1U9C/?tag=tolees0ca-21)

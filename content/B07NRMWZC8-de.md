@@ -26,4 +26,4 @@ Es gibt ein [Bluetooth Kopfhörer Kabellos In-Ear Ohrhörer  iTeknic True-Wirele
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NRMWZC8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NRMWZC8/?tag=tolees0ca-21)

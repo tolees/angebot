@@ -26,4 +26,4 @@ Es gibt ein [Hasbro Monopoly - Junior  der Klassiker der Brettspiele für Kinder
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07JW814NH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07JW814NH/?tag=tolees0ca-21)

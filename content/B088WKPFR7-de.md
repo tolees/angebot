@@ -26,4 +26,4 @@ Sie können [VPCOK 25 Meter Gummiband rund  elastische Gummikordel  DIY Seil  Gu
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B088WKPFR7/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B088WKPFR7/?tag=tolees0ca-21)

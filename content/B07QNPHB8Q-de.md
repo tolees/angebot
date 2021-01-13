@@ -26,4 +26,4 @@ Es gibt ein [Spieland 200St. Custom Waffen Set für SWAT Team Polizei Soldaten M
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07QNPHB8Q/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07QNPHB8Q/?tag=tolees0ca-21)

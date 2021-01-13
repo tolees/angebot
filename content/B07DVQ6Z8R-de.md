@@ -26,4 +26,4 @@ Es gibt ein [BenQ EX3203R 81 2 cm  32 Zoll  Gaming Monitor  WQHD  FreeSync  Curv
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07DVQ6Z8R/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07DVQ6Z8R/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [AMD – FirePro Radeon Pro WX 5100 8 GB PCIe 3.0 16 x 4 x DP
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01N3MBSCJ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01N3MBSCJ/?tag=tolees0ca-21)

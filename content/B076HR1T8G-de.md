@@ -26,4 +26,4 @@ Es gibt ein [adidas Herren Core 18 Sweat Trainingstop  Dark Grey Heather/Black  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B076HR1T8G/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B076HR1T8G/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Samsung EE-D3100T Charging Dock Pogo Schwarz](https://www.amazon.de
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07G4QB81P/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07G4QB81P/?tag=tolees0ca-21)

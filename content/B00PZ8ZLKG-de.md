@@ -26,4 +26,4 @@ Es gibt ein [Nike Damen  Sneaker  Md Runner 2  Schwarz  Schwarz/Weiß   40 EU](h
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00PZ8ZLKG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00PZ8ZLKG/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Skagen Damen-Uhren 358XSSLBC](https://www.amazon.de/dp/B001WAKQF6/?
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001WAKQF6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001WAKQF6/?tag=tolees0ca-21)

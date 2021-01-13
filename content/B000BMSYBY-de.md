@@ -26,4 +26,4 @@ Es gibt ein [Cisco CP-PWR-CUBE-3 IP Phone Power Supply Netzteil](https://www.ama
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000BMSYBY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000BMSYBY/?tag=tolees0ca-21)

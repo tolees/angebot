@@ -26,4 +26,4 @@ Es gibt ein [CITIZEN Herren Analog Solar Uhr mit Edelstahl Armband AS2050-87E](h
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B072VP9P2C/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B072VP9P2C/?tag=tolees0ca-21)

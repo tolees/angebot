@@ -26,4 +26,4 @@ Es gibt ein [Ravensburger FC Bayern München 3D Puzzle Allianz Arena](https://ww
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07B48NJM6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07B48NJM6/?tag=tolees0ca-21)

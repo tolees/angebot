@@ -26,4 +26,4 @@ Es gibt ein [Garmin vívosmart HR Fitness-Tracker - integrierte Herzfrequenzmess
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0171NKAR6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0171NKAR6/?tag=tolees0ca-21)

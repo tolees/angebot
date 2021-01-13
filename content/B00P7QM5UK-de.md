@@ -26,4 +26,4 @@ Sie können [POWERADD Pilot X7 20000mAh Externer Akku enorme Energiedichte Power
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B00P7QM5UK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B00P7QM5UK/?tag=tolees0ca-21)

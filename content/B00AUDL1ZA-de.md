@@ -26,4 +26,4 @@ Sie können [One Piece - Box 6: Season 6  Episoden 163-195  [6 DVDs]](https://ww
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B00AUDL1ZA/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B00AUDL1ZA/?tag=tolees0ca-21)

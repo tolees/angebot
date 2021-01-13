@@ -26,4 +26,4 @@ Es gibt ein [TOTO: 35th Anniversary Tour-Live in Poland [Blu-ray]](https://www.a
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00IEBAN6S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00IEBAN6S/?tag=tolees0ca-21)

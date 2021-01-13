@@ -26,4 +26,4 @@ Es gibt ein [DXX Technik Bausteine Bulldozer Spielzeug  1572Teile 1:10 2.4G RC F
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B083JCBY4B/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B083JCBY4B/?tag=tolees0ca-21)

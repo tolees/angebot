@@ -26,4 +26,4 @@ Es gibt ein [Red Dead Redemption 2 Standard Edition [PlayStation 4] Disk](https:
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01M6Y1Y4A/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01M6Y1Y4A/?tag=tolees0ca-21)

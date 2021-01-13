@@ -26,4 +26,4 @@ Es gibt ein [Landmann Gasgrillwagen 12220  emaillierte Brennerabdeckungen  126 x
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B019OUUNR6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B019OUUNR6/?tag=tolees0ca-21)

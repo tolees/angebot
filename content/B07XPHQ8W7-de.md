@@ -26,4 +26,4 @@ Sie können [HP Pavilion Gaming TG01-0017ng Desktop  Intel Core i7-9700F  16GB D
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07XPHQ8W7/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07XPHQ8W7/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [SanDisk Extreme 64 GB microSDXC Memory Card for Action Cameras and 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07HB8SLMV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HB8SLMV/?tag=tolees0ca-21)

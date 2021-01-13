@@ -26,4 +26,4 @@ Es gibt ein [Funko 31633 Actionfigur  Mehrfarbig](https://www.amazon.de/dp/B07DF
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07DFDXV44/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07DFDXV44/?tag=tolees0ca-21)

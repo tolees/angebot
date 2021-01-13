@@ -26,4 +26,4 @@ Es gibt ein [Westmark Spätzle-/Kartoffelpresse  Mit Spezial-Lochung für Spätz
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00JFBNP48/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00JFBNP48/?tag=tolees0ca-21)

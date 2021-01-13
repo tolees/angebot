@@ -26,4 +26,4 @@ Es gibt ein [Marvel 39403 POP Vinyl Far from Home: Spider-Man  Hero Suit  Disney
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KPSSW54/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KPSSW54/?tag=tolees0ca-21)

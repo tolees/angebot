@@ -26,4 +26,4 @@ Es gibt ein [Elfcraft Lederarmband Herren Armband Meteorite Schwarz mit Echtem M
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0814SGLMP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0814SGLMP/?tag=tolees0ca-21)

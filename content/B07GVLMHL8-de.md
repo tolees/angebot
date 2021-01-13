@@ -26,4 +26,4 @@ Es gibt ein [Emsa N2010800 Travel Mug Waves  0 36 L PA. Grau](https://www.amazon
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07GVLMHL8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GVLMHL8/?tag=tolees0ca-21)

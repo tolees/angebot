@@ -26,4 +26,4 @@ Es gibt ein [Philips 929001229801 EEK A+ LED Lampe ersetzt 120 W  E27  warmweiß
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01KHIM7O6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01KHIM7O6/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Emsa 512753 Food Clip & Close  Plastik  Transparent / Blau  sortier
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00BETXACQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00BETXACQ/?tag=tolees0ca-21)

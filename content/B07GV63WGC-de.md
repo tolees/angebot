@@ -26,4 +26,4 @@ Sie können [Anker USB C Ladegerät PowerPort Speed 1 30W USB Ladegerät mit Pow
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07GV63WGC/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07GV63WGC/?tag=tolees0ca-21)

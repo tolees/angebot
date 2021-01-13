@@ -26,4 +26,4 @@ Es gibt ein [Lillet Blanc Aperitif – Fruchtiger französischer Weinaperitif au
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B004EAMAKA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B004EAMAKA/?tag=tolees0ca-21)

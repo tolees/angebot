@@ -26,4 +26,4 @@ Es gibt ein [Oase UVC Vorklärgerät Vitronic  11 W](https://www.amazon.de/dp/B0
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00160JVQM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00160JVQM/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Stubai - Strick Fleecejacke Herren/Strickjacke mit Fleece Innenseit
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0171GGXSS/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0171GGXSS/?tag=tolees0ca-21)

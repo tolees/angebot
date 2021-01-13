@@ -26,4 +26,4 @@ Sie können [OSOYOO Starter Kit for BBC Micro:bit | Early STEM Education for Beg
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07XCNMW9W/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07XCNMW9W/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Borderlands 3 - Standard Edition Code in der Box - [PC]](https://ww
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07NTTHJ1X/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07NTTHJ1X/?tag=tolees0ca-21)

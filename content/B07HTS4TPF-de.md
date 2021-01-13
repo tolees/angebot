@@ -26,4 +26,4 @@ Es gibt ein [Calvin Klein Damen Bikini 3PK Panties  Schwarz  Black 001   M](http
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07HTS4TPF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HTS4TPF/?tag=tolees0ca-21)

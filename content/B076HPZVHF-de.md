@@ -26,4 +26,4 @@ Es gibt ein [adidas Herren Core 18 Sweat Trainingshose  Dark Blue/White  XL](htt
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B076HPZVHF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B076HPZVHF/?tag=tolees0ca-21)

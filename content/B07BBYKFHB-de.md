@@ -26,4 +26,4 @@ Sie können [SAGE SWM520 the No-Mess-Waffle Waffeleisen mit Teig-Auffangrinne  K
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07BBYKFHB/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07BBYKFHB/?tag=tolees0ca-21)

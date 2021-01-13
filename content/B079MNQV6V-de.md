@@ -26,4 +26,4 @@ Es gibt ein [Playmobil 9457 Hausmeister mit Kiosk](https://www.amazon.de/dp/B079
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B079MNQV6V/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B079MNQV6V/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [LG K50s Smartphone  16 49 cm  6 49 Zoll  IPS LC-Display  32 GB inte
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07XFCXBZT/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07XFCXBZT/?tag=tolees0ca-21)

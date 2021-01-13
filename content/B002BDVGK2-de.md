@@ -26,4 +26,4 @@ Es gibt ein [Durable 840500 Selbstklebe-Taben Quick Tab  wiederablösbar Btl. à
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B002BDVGK2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B002BDVGK2/?tag=tolees0ca-21)

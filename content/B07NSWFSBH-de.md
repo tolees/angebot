@@ -26,4 +26,4 @@ Sie können [Funko 40252 POP Vinyl: Animation: Rick & Morty S6-Dr. Xenon Bloom S
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07NSWFSBH/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07NSWFSBH/?tag=tolees0ca-21)

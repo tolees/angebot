@@ -26,4 +26,4 @@ Es gibt ein [Vileda Profi Fensterwischer 2in1  Fensterabzieher und Einwascher  H
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B002IJO38G/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B002IJO38G/?tag=tolees0ca-21)

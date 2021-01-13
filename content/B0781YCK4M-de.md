@@ -26,4 +26,4 @@ Es gibt ein [caseable Kindle und Kindle Paperwhite Hülle  Gold Dots](https://ww
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0781YCK4M/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0781YCK4M/?tag=tolees0ca-21)

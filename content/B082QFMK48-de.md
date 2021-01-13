@@ -26,4 +26,4 @@ Es gibt ein [Predator XB273GXbmiiprzx Gaming G-SYNC Compatible 27 Zoll IPS FHD D
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B082QFMK48/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B082QFMK48/?tag=tolees0ca-21)

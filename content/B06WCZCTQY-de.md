@@ -26,4 +26,4 @@ Es gibt ein [Playmobil 9249 - Eret mit 4-Schuss-Feuer-Balliste](https://www.amaz
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06WCZCTQY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06WCZCTQY/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Eagle Creek No Matter What Duffel L I Ultraleichte  abwischbare Rei
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00AYXLT30/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00AYXLT30/?tag=tolees0ca-21)

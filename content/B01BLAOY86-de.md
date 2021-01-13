@@ -26,4 +26,4 @@ Es gibt ein [Santana [Vinyl LP]](https://www.amazon.de/dp/B01BLAOY86/?tag=tolees
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01BLAOY86/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01BLAOY86/?tag=tolees0ca-21)

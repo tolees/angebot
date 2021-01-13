@@ -26,4 +26,4 @@ Sie können [SHARP HT-SBW420  GR   2.1 All-in-One Slim Soundbar mit eingebautem 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07F43ZS9B/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07F43ZS9B/?tag=tolees0ca-21)

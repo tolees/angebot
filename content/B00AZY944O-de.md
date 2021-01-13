@@ -26,4 +26,4 @@ Es gibt ein [Black+Decker Dampfreiniger Steam Mop Deluxe FSM1630 – Stehender D
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00AZY944O/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00AZY944O/?tag=tolees0ca-21)

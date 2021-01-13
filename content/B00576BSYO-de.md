@@ -26,4 +26,4 @@ Es gibt ein [Wenko Herdabdeckplatte Universal Brooklyn Bridge  2er Set Herdabdec
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00576BSYO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00576BSYO/?tag=tolees0ca-21)

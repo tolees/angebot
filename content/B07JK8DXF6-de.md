@@ -26,4 +26,4 @@ Es gibt ein [LaCie Portable SSD  500 GB  externe SSD  2.5 Zoll  USB-C  Mac & PC 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07JK8DXF6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07JK8DXF6/?tag=tolees0ca-21)

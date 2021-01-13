@@ -26,4 +26,4 @@ Es gibt ein [Funko 9299 S1 No Actionfigur Games: Overwatch: Reaper  Multi](https
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01CDEXB56/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01CDEXB56/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Maier sports Herren Nil Wanderhose  Feder grau  25](https://www.ama
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00IJS0DJS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00IJS0DJS/?tag=tolees0ca-21)

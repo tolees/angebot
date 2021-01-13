@@ -26,4 +26,4 @@ Es gibt ein [Logitech MEETUP Zusatzmikrofon  Breitband-Audio mit Rauschunterdrü
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B072R4BL6S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B072R4BL6S/?tag=tolees0ca-21)

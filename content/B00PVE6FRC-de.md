@@ -26,4 +26,4 @@ Es gibt ein [D-Link DAP-1365 N300 Wi-Fi Range Extender  mit Power Passthrough  v
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00PVE6FRC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00PVE6FRC/?tag=tolees0ca-21)

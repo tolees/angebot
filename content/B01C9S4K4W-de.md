@@ -26,4 +26,4 @@ Es gibt ein [Boxset](https://www.amazon.de/dp/B01C9S4K4W/?tag=tolees0ca-21) mit 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01C9S4K4W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01C9S4K4W/?tag=tolees0ca-21)

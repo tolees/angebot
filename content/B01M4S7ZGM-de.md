@@ -26,4 +26,4 @@ Sie können [1home Bildschirmständer Notebooktisch Notebookständer Laptopstän
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01M4S7ZGM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01M4S7ZGM/?tag=tolees0ca-21)

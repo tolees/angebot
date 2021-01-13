@@ -26,4 +26,4 @@ Es gibt ein [Yamaha EPH-M200 In-Ear Kopfhörer  15 mm Treiber  weiß](https://ww
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00PXIHB56/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00PXIHB56/?tag=tolees0ca-21)

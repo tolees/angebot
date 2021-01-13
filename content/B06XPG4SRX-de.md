@@ -26,4 +26,4 @@ Es gibt ein [Philips Sonicare Elektrische Zahnbürste und Munddusche HX8491/03  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XPG4SRX/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XPG4SRX/?tag=tolees0ca-21)

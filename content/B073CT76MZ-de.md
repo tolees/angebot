@@ -26,4 +26,4 @@ Es gibt ein [Beurer BF 600 Diagnosewaage schwarz  Messung von Körperfett  Körp
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B073CT76MZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B073CT76MZ/?tag=tolees0ca-21)

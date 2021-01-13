@@ -26,4 +26,4 @@ Es gibt ein [Playmobil 6970 - Schmück-Pony Sternchen](https://www.amazon.de/dp/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01608LMSY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01608LMSY/?tag=tolees0ca-21)

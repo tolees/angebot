@@ -26,4 +26,4 @@ Es gibt ein [Logitech G635 kabelgebundenes Gaming-Headset mit LIGHTSYNC RGB  7.1
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07MTY5HH8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MTY5HH8/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Fire HD 8-Tablet  16 GB  Schwarz  mit Spezialangeboten](https://www
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0794TLHP4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0794TLHP4/?tag=tolees0ca-21)

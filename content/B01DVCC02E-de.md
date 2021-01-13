@@ -26,4 +26,4 @@ Es gibt ein [Bones - Season Ten [6 DVDs]](https://www.amazon.de/dp/B01DVCC02E/?t
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01DVCC02E/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01DVCC02E/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Samsung Galaxy S10 Smartphone  15.5cm  6.1 Zoll  128 GB interner Sp
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07MTXWLRQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07MTXWLRQ/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Playtastic Geduldspiele mit Kugeln: Geduldspiel-Megapack mit 24 Spi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0038JSUDE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0038JSUDE/?tag=tolees0ca-21)

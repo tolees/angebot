@@ -26,4 +26,4 @@ Es gibt ein [Susan Y muttertagsgeschenke ideen ohrringe silber 925 perlen ohrrin
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B081GY96BR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B081GY96BR/?tag=tolees0ca-21)

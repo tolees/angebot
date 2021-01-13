@@ -26,4 +26,4 @@ Sie können [afri cola ohne Zucker 24er Pack  EINWEG  24 x 330 ml ](https://www.
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01D1J5VXW/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01D1J5VXW/?tag=tolees0ca-21)

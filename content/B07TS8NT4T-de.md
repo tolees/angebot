@@ -26,4 +26,4 @@ Es gibt ein [Funko 45009 POP Marvel: Fantastic Four - Galactus Collectible Toy  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07TS8NT4T/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07TS8NT4T/?tag=tolees0ca-21)

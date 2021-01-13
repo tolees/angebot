@@ -26,4 +26,4 @@ Sie können [Razer Huntsman Tournament Edition - TKL Mechanical Gaming Keyboard 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07V5VDXW1/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07V5VDXW1/?tag=tolees0ca-21)

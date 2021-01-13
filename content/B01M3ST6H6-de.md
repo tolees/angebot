@@ -26,4 +26,4 @@ Es gibt ein [HOPPEDIZ Baby-Tragetuch  inklusive Bindeanleitung  Aberdeen 4 60 m]
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01M3ST6H6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01M3ST6H6/?tag=tolees0ca-21)

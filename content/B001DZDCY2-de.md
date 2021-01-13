@@ -26,4 +26,4 @@ Es gibt ein [Original Motorola Reiselader Netzteil CH700 für Motorola RAZR V3](
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001DZDCY2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001DZDCY2/?tag=tolees0ca-21)

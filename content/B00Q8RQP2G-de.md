@@ -26,4 +26,4 @@ Es gibt ein [Magi: The Kingdom of Magic - Staffel 2 - Vol.2 - [Blu-ray]](https:/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00Q8RQP2G/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00Q8RQP2G/?tag=tolees0ca-21)

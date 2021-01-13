@@ -26,4 +26,4 @@ Sie können [Funko 38565 POP Vinyl 6" Jaws Sammelbares Spielzeug  Mehrfarben  St
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07KPTBSJR/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07KPTBSJR/?tag=tolees0ca-21)

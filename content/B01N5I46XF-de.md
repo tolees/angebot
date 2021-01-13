@@ -26,4 +26,4 @@ Es gibt ein [Kärcher Hochdruckreiniger K 5 Premium Full Control Plus Home  Druc
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01N5I46XF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01N5I46XF/?tag=tolees0ca-21)

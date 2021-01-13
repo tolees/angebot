@@ -26,4 +26,4 @@ Es gibt ein [Remington SPF-300 Scherköpfe Kombi Pack  für F5800 und F7800 ](ht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00ACU62GY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00ACU62GY/?tag=tolees0ca-21)

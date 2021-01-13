@@ -26,4 +26,4 @@ Es gibt ein [AEG AEF144 Austauschfilter für Rapido & Ergorapido CX7-1  Doppelpa
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00F5YAFC4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00F5YAFC4/?tag=tolees0ca-21)

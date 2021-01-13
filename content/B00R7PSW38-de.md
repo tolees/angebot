@@ -26,4 +26,4 @@ Es gibt ein [Citizen Herren Analog Quarz Uhr mit Plastik Armband BN0150-10E](htt
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00R7PSW38/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00R7PSW38/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Revell Build & Play - Star Wars Resistance A-wing Fighter in blau -
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01N39NBOU/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01N39NBOU/?tag=tolees0ca-21)

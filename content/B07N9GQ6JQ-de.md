@@ -26,4 +26,4 @@ Es gibt ein [SAMSONITE Uplite - Three-Way Laptop Expandable Rucksack  40 cm  18 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07N9GQ6JQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07N9GQ6JQ/?tag=tolees0ca-21)

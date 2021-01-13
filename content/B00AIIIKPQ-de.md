@@ -26,4 +26,4 @@ Es gibt ein [Logitech R700 Presenter  Kabellose 2.4 GHz Verbindung via USB-Empf�
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00AIIIKPQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00AIIIKPQ/?tag=tolees0ca-21)

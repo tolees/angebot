@@ -26,4 +26,4 @@ Es gibt ein [Remonte R2277 Damen Langschaft Stiefel  braun  chestnut/24   39](ht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01EHMVK0U/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01EHMVK0U/?tag=tolees0ca-21)

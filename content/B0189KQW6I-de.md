@@ -26,4 +26,4 @@ Es gibt ein [mecablitz 44 AF-2 für Sony Kameras  DSLR und CSC  | Blitzgerät mi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0189KQW6I/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0189KQW6I/?tag=tolees0ca-21)

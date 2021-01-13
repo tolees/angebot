@@ -26,4 +26,4 @@ Sie können [Tado Smartes Heizkörper-Thermostat  Duo Pack  Zusatzprodukte für 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07FZ4P5KR/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07FZ4P5KR/?tag=tolees0ca-21)

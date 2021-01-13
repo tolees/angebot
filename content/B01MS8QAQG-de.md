@@ -26,4 +26,4 @@ Es gibt ein [Philips SHD8800/12 Over-Ear Funkkopfhörer  offen  15m Reichweite  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01MS8QAQG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MS8QAQG/?tag=tolees0ca-21)

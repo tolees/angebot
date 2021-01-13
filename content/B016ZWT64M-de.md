@@ -26,4 +26,4 @@ Es gibt ein [Garmin Forerunner 235 Handgelenk-Based Herzfrequenz-GPS-Laufuhr  01
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B016ZWT64M/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B016ZWT64M/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Western Digital  WDBFBE0080JBK-EESN My Book Duo 8 TB  Desktop RAID 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B073ZMC2N2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B073ZMC2N2/?tag=tolees0ca-21)

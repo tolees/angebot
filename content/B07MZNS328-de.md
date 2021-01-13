@@ -26,4 +26,4 @@ Es gibt ein [Funko 40101 POP Vinyl: Disney: Little Mermaid-Ariel  Purple Dress  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07MZNS328/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MZNS328/?tag=tolees0ca-21)

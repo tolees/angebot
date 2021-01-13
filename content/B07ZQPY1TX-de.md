@@ -26,4 +26,4 @@ Sie können [Pegasus Spiele 51310G - Der Kartograph](https://www.amazon.de/dp/B0
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07ZQPY1TX/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07ZQPY1TX/?tag=tolees0ca-21)

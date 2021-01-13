@@ -26,4 +26,4 @@ Es gibt ein [Hasbro E0011EU4 - N-Strike Elite Surgefire Spielzeugblaster  mit Tr
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B077BJNRZ8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B077BJNRZ8/?tag=tolees0ca-21)

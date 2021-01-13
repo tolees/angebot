@@ -26,4 +26,4 @@ Es gibt ein [CITIZEN Promaster Marine Eco-Drive Herren Taucheruhr CA0710-82L](ht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07GRK2QY2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GRK2QY2/?tag=tolees0ca-21)

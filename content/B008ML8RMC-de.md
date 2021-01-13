@@ -26,4 +26,4 @@ Es gibt ein [The Dark Knight Rises [Blu-ray]](https://www.amazon.de/dp/B008ML8RM
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B008ML8RMC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B008ML8RMC/?tag=tolees0ca-21)

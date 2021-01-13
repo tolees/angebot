@@ -26,4 +26,4 @@ Es gibt ein [HUGO Herren 708 Slim Jeans  Blau  Dark Blue 405   W32/L32](https://
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00O90JNO6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00O90JNO6/?tag=tolees0ca-21)

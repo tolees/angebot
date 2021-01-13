@@ -26,4 +26,4 @@ Es gibt ein [ONLY Damen Langarmshirt Onlelcos 4/5 Solid Top Jrs Noos  Rosa  Mesa
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B072FRFRXV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B072FRFRXV/?tag=tolees0ca-21)

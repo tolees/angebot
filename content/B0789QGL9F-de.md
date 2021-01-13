@@ -26,4 +26,4 @@ Sie können [Garmin vívofit 4 Fitness Tracker  personalisierbares Farbdisplay  
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0789QGL9F/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0789QGL9F/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Bart Schablone Bartpflege Bartschablone Bartformen für Kinnbart Ko
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B078MZ4C6B/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B078MZ4C6B/?tag=tolees0ca-21)

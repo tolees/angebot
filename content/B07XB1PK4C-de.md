@@ -26,4 +26,4 @@ Es gibt ein [Need for Speed Heat | Standard | PC Download - Origin Code](https:/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07XB1PK4C/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07XB1PK4C/?tag=tolees0ca-21)

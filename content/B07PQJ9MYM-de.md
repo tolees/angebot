@@ -26,4 +26,4 @@ Sie können [Gabor Shoes Damen Jollys Stiefeletten  Beige  Cognac  Natur  14   4
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07PQJ9MYM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07PQJ9MYM/?tag=tolees0ca-21)

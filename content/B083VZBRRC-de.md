@@ -26,4 +26,4 @@ Sie können [GHT HDMI KVM Switch Dual Monitor 2 Port Extended Display 4K  2 USB 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B083VZBRRC/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B083VZBRRC/?tag=tolees0ca-21)

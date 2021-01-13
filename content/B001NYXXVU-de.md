@@ -26,4 +26,4 @@ Sie können [KS Tools 911.1584 1/2" 12-kant-Stecknuss  24mm](https://www.amazon.
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B001NYXXVU/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B001NYXXVU/?tag=tolees0ca-21)

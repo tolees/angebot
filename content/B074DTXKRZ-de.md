@@ -26,4 +26,4 @@ Es gibt ein [Paulis Kitchen Pfannenwender Silikon/Edelstahl  spülmaschinengeeig
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B074DTXKRZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B074DTXKRZ/?tag=tolees0ca-21)

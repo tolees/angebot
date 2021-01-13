@@ -26,4 +26,4 @@ Es gibt ein [Xbox Game Pass  3 Monate Ultimate + 1 Monat GRATIS | Xbox One/Windo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B088WVNFBW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B088WVNFBW/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Sony KD-65XG7005 Bravia 65 Zoll  164cm  Fernseher  Ultra HD  4K HDR
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07P8NNNBH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07P8NNNBH/?tag=tolees0ca-21)

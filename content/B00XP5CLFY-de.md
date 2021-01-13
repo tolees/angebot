@@ -26,4 +26,4 @@ Sie können [Makita Akku-Handkreissäge 57 mm   18 V/5 0 Ah   DHS680RTJ](https:/
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B00XP5CLFY/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B00XP5CLFY/?tag=tolees0ca-21)

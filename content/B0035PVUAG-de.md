@@ -26,4 +26,4 @@ Sie können [Bosch Professional Stichsäge GST 150 CE  780 Watt  Schnitttiefe Ho
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0035PVUAG/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0035PVUAG/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Tefal E79071 Jamie Oliver Induction Servierpfanne mit 2 Seitengriff
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B018GOP8K8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B018GOP8K8/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Bang & Olufsen Beoplay E8 2.0 - 100% kabellose Bluetooth-Earbuds un
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07MHJ28YM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MHJ28YM/?tag=tolees0ca-21)

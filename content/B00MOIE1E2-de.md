@@ -26,4 +26,4 @@ Es gibt ein [De Longhi Autentica Cappuccino ETAM 29.660.SB Kaffeevollautomat  14
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00MOIE1E2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00MOIE1E2/?tag=tolees0ca-21)

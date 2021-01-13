@@ -26,4 +26,4 @@ Es gibt ein [Souarts Ring Damen Schmuck Silber Gold Rosegold Farbe Edelstahl mit
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01HBBB2GG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01HBBB2GG/?tag=tolees0ca-21)

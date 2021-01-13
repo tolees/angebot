@@ -26,4 +26,4 @@ Es gibt ein [Yazubi Herren Chino Hose Merlin II - Slim Fit - NEU  Schwarz  Black
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B084JPQM92/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B084JPQM92/?tag=tolees0ca-21)

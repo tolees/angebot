@@ -26,4 +26,4 @@ Sie können [KFD 19V 65W Power Adapter Netzteil Ladegerät für Intel NUC FSP065
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07QHVFLG5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07QHVFLG5/?tag=tolees0ca-21)

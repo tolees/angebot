@@ -26,4 +26,4 @@ Es gibt ein [N/P WLAN Repeater  2 4GHz WLAN Verstärker WiFi Extender mit Router
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08DV3C6PC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08DV3C6PC/?tag=tolees0ca-21)

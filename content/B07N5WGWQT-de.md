@@ -26,4 +26,4 @@ Sie können [Funko 38578 POP Vinyl: Big Bang Theory S2: Howard Sammelbares Spiel
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07N5WGWQT/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07N5WGWQT/?tag=tolees0ca-21)

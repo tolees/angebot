@@ -26,4 +26,4 @@ Es gibt ein [Mennekes AM 10863 Wandsteckdose SCHUKO 16A 230V IP68 Bajonettdeckel
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000UXF36I/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000UXF36I/?tag=tolees0ca-21)

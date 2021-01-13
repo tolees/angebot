@@ -26,4 +26,4 @@ Es gibt ein [Garmin vívoactive 3 Music Granitblau GPS-Fitness-Smartwatch – Mu
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07DWBPP4N/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07DWBPP4N/?tag=tolees0ca-21)

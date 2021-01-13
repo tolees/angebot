@@ -26,4 +26,4 @@ Es gibt ein [Romoss Powerbank 10000mAh  Externer Akku mit 2-Port Output Mini  Ak
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07BWH668J/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07BWH668J/?tag=tolees0ca-21)

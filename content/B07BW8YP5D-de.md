@@ -26,4 +26,4 @@ Sie können [Jakks Pacific 32382-11L G.L.O.W. Stick  Mehrfarbig](https://www.ama
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07BW8YP5D/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07BW8YP5D/?tag=tolees0ca-21)

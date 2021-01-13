@@ -26,4 +26,4 @@ Es gibt ein [Elektrischer Rasierer Herren  OriHea 6-in-1 Glatzenrasierer für M�
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B088NNRP92/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B088NNRP92/?tag=tolees0ca-21)

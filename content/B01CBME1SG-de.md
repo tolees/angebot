@@ -26,4 +26,4 @@ Sie können [Funko 7424 No Actionfigur Dragonball Z: Gohan](https://www.amazon.d
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01CBME1SG/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01CBME1SG/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [VGEBY Bulldozer Toy  Huina 1700 1: 50 Metallbetriebenes Jumbo Bulld
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07TYP4S5H/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07TYP4S5H/?tag=tolees0ca-21)

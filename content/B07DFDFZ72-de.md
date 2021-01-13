@@ -26,4 +26,4 @@ Es gibt ein [Funko 30695 Full Metal Alchemist: Alphonse POP Vinylfigur  Multi](h
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07DFDFZ72/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07DFDFZ72/?tag=tolees0ca-21)

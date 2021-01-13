@@ -26,4 +26,4 @@ Es gibt ein [Funko 37862 POP Vinyl: BTS: Jin Sammelbares Spielzeug  Mehrfarben](
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KPTBMW8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KPTBMW8/?tag=tolees0ca-21)

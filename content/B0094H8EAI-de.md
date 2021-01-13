@@ -26,4 +26,4 @@ Es gibt ein [Yankee Candle Duftkerze im Glas  groß  | Cranberry Ice | Brenndaue
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0094H8EAI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0094H8EAI/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [ZTE Smartphone Blade 10 VITA  16 cm  6 26 Zoll  HD+ Display  4G LTE
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07XZCSTBS/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07XZCSTBS/?tag=tolees0ca-21)

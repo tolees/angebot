@@ -26,4 +26,4 @@ Es gibt ein [Thule Baby mit QR Achskupplung  silber  One Size](https://www.amazo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00FY2OJTM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00FY2OJTM/?tag=tolees0ca-21)

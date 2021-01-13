@@ -26,4 +26,4 @@ Es gibt ein [Fotowiderstand  Entdeckung Lichtempfindlich Licht Sensor Modul fü
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00VUQ6CU0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00VUQ6CU0/?tag=tolees0ca-21)

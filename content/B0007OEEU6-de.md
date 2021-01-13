@@ -26,4 +26,4 @@ Es gibt ein [Leitz Büroheftgerät aus Metall  Für 40 Blatt  Inkl. Heftklammern
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0007OEEU6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0007OEEU6/?tag=tolees0ca-21)

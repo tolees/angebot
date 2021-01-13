@@ -26,4 +26,4 @@ Es gibt ein [LEGO DUPLO 10899 Disney Elsas Eispalast  Bausteine](https://www.ama
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07ND6CGGQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07ND6CGGQ/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Funko 22058 S1 POP Vinylfigur: Ready Player One: i-R0k  Multi](http
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0772WFJVF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0772WFJVF/?tag=tolees0ca-21)

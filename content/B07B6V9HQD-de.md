@@ -26,4 +26,4 @@ Sie können [Salewa WS WILD HIKER MID GTX  Damen Trekking- & Wanderstiefel  Blau
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07B6V9HQD/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07B6V9HQD/?tag=tolees0ca-21)

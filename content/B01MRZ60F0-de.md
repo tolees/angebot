@@ -26,4 +26,4 @@ Es gibt ein [AVM FRITZ!DECT 210  intelligente Steckdose für Smart Home  mit Spr
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01MRZ60F0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MRZ60F0/?tag=tolees0ca-21)

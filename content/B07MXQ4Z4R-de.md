@@ -26,4 +26,4 @@ Es gibt ein [DELSEY PARIS COMETE FASHION    azzurro ](https://www.amazon.de/dp/B
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07MXQ4Z4R/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MXQ4Z4R/?tag=tolees0ca-21)

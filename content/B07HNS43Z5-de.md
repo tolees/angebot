@@ -26,4 +26,4 @@ Sie können [Philips 276E8VJSB/00 68 cm  27 Zoll  Monitor  HDMI  5ms Reaktionsze
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07HNS43Z5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07HNS43Z5/?tag=tolees0ca-21)

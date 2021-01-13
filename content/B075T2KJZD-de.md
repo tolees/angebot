@@ -26,4 +26,4 @@ Es gibt ein [LEGO Ninjago 70640 - Hauptquartier der Motorradfahrer  Bauspielzeug
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B075T2KJZD/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B075T2KJZD/?tag=tolees0ca-21)

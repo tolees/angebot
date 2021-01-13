@@ -26,4 +26,4 @@ Sie können [EUGAD 0210QJ Wandregal Wandboard Bücherregal CD DVD Regal aus MDF 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07Z3S4MW5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07Z3S4MW5/?tag=tolees0ca-21)

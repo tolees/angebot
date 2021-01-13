@@ -26,4 +26,4 @@ Es gibt ein [YLCJ Vintage Doble Bronce Industrial Industrial Lámparas de pared 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07RB2GY4M/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07RB2GY4M/?tag=tolees0ca-21)

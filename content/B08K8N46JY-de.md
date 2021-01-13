@@ -26,4 +26,4 @@ Es gibt ein [Bluetooth Kopfhörer  Ajcoflt Wireless Noise Cancelling Earbuds BT5
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08K8N46JY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08K8N46JY/?tag=tolees0ca-21)

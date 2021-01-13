@@ -26,4 +26,4 @@ Es gibt ein [KINLO Aufkleber Küchenschränke Weiß 2 Stk. 61x500cm aus PVC Tape
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XHJ5X2C/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XHJ5X2C/?tag=tolees0ca-21)

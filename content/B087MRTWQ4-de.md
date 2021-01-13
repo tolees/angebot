@@ -26,4 +26,4 @@ Es gibt ein [Mi Note 10 Lite 6+128GB Nebula Purple](https://www.amazon.de/dp/B08
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B087MRTWQ4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B087MRTWQ4/?tag=tolees0ca-21)

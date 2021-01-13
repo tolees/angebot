@@ -26,4 +26,4 @@ Sie können [Dell Business Thunderbolt Dock TB16 mit 240-W-Adapter](https://www.
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01N7QZQ1O/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01N7QZQ1O/?tag=tolees0ca-21)

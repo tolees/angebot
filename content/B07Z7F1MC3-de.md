@@ -26,4 +26,4 @@ Sie können [Toyaword outdoor sport Action Cam 4K 60FPS 20MP Sportkamera 40M was
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07Z7F1MC3/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07Z7F1MC3/?tag=tolees0ca-21)

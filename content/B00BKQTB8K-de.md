@@ -26,4 +26,4 @@ Es gibt ein [Daniel Wellington Classic Glasgow  Blau-weiß/Roségold Uhrenarmban
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00BKQTB8K/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00BKQTB8K/?tag=tolees0ca-21)

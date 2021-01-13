@@ -26,4 +26,4 @@ Es gibt ein [OSRAM Smart+ Mini Switch Weiß  ZigBee Lichtschalter  Dimmer und Fe
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B078CRB86M/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B078CRB86M/?tag=tolees0ca-21)

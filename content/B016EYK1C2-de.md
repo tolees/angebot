@@ -26,4 +26,4 @@ Es gibt ein [Creative Sound Blaster ROAR Pro - tragbarer Bluetooth-Lautsprecher 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B016EYK1C2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B016EYK1C2/?tag=tolees0ca-21)

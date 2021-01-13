@@ -26,4 +26,4 @@ Es gibt ein [Nickelodeon Kart Racers Xbox One](https://www.amazon.de/dp/B07J24KX
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07J24KX8J/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07J24KX8J/?tag=tolees0ca-21)

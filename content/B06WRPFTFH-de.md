@@ -26,4 +26,4 @@ Es gibt ein [Swarovski Sparkling Dance Round Halskette für Frauen](https://www.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06WRPFTFH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06WRPFTFH/?tag=tolees0ca-21)

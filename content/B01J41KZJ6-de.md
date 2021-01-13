@@ -26,4 +26,4 @@ Es gibt ein [LEGO Star Wars - Rogue One Actionfigur](https://www.amazon.de/dp/B0
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01J41KZJ6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01J41KZJ6/?tag=tolees0ca-21)

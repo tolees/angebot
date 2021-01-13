@@ -26,4 +26,4 @@ Es gibt ein [B. Toys 44123 - Wheeeee-Is  Kinderauto](https://www.amazon.de/dp/B0
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0080AHHBM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0080AHHBM/?tag=tolees0ca-21)

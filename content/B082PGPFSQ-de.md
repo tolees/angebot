@@ -26,4 +26,4 @@ Es gibt ein [s.Oliver Herren 130.11.899.12.130.2037840 T-Shirt  Blue  XL](https:
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B082PGPFSQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B082PGPFSQ/?tag=tolees0ca-21)

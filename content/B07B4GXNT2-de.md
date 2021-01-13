@@ -26,4 +26,4 @@ Es gibt ein [Carrera GO!!! PLUS Power Lap 20066006 Autorennbahn Set](https://www
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07B4GXNT2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07B4GXNT2/?tag=tolees0ca-21)

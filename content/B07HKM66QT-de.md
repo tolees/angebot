@@ -26,4 +26,4 @@ Es gibt ein [Bosch TDS6530 Serie I 6 EasyComfort Dampfbügelstation  2.400 W  6 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07HKM66QT/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HKM66QT/?tag=tolees0ca-21)

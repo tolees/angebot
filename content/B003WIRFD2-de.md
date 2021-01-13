@@ -26,4 +26,4 @@ Es gibt ein [Kingston SDC4/16GB Micro SDHC 16GB bis zu 4MB/s Klasse 4 Speicherka
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B003WIRFD2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B003WIRFD2/?tag=tolees0ca-21)

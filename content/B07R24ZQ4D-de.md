@@ -26,4 +26,4 @@ Es gibt ein [VAUDE Tool Aqua  Satteltasche Riemen  15 cm  Black](https://www.ama
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07R24ZQ4D/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07R24ZQ4D/?tag=tolees0ca-21)

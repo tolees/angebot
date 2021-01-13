@@ -26,4 +26,4 @@ Es gibt ein [Philips 65PUS7803/12 164cm  65 Zoll  LED-TV  Ambilight  4K Ultra HD
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0794XTF6S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0794XTF6S/?tag=tolees0ca-21)

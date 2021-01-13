@@ -26,4 +26,4 @@ Es gibt ein [H0_V 522Teile 2.4GHz RC Modell Geländewagen Buggy Bausteine Konstr
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B082WYY4DT/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B082WYY4DT/?tag=tolees0ca-21)

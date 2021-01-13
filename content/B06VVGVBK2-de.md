@@ -26,4 +26,4 @@ Es gibt ein [Trefl 90604 - Puzzles 2-in-1 Spaß mit Freunden Memory](https://www
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06VVGVBK2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06VVGVBK2/?tag=tolees0ca-21)

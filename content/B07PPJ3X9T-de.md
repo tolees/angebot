@@ -26,4 +26,4 @@ Sie können [Samsung Harman/kardon 5.1-Kanal Soundbar HW-Q60R  integrierter Subw
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07PPJ3X9T/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07PPJ3X9T/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Corsair Vengeance LPX 8GB  1x8GB  DDR4 3000MHz C16 XMP 2.0 High Per
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07B4FRMGV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07B4FRMGV/?tag=tolees0ca-21)

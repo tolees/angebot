@@ -26,4 +26,4 @@ Es gibt ein [jpantech Smartwatch  Fitness Armband Tracker Voller 5ATM Wasserdich
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0816HKYYF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0816HKYYF/?tag=tolees0ca-21)

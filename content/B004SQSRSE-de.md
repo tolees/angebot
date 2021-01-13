@@ -26,4 +26,4 @@ Es gibt ein [Zassenhaus  Stirnholz  Braun  45 x 30 x 4 5 cm](https://www.amazon.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B004SQSRSE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B004SQSRSE/?tag=tolees0ca-21)

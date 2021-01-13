@@ -26,4 +26,4 @@ Sie können [Kara Harvey Damen-Armbanduhr Roségold Mesh in 36mm und 32mm Divers
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07L8G1ZNZ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07L8G1ZNZ/?tag=tolees0ca-21)

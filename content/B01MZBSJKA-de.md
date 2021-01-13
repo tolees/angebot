@@ -26,4 +26,4 @@ Sie können [The Afterlove](https://www.amazon.de/dp/B01MZBSJKA/?tag=tolees0ca-2
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01MZBSJKA/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01MZBSJKA/?tag=tolees0ca-21)

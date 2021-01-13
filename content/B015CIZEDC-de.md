@@ -26,4 +26,4 @@ Sie können [Intenso Powerbank S10000 Slim externes Ladegerät  10000mAh  geeign
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B015CIZEDC/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B015CIZEDC/?tag=tolees0ca-21)

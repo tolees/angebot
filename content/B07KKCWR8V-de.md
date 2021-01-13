@@ -26,4 +26,4 @@ Es gibt ein [NSSZ Teddybär 6 Hand Büro Puppe Ornamente Puppe Spielzeug](https:
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KKCWR8V/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KKCWR8V/?tag=tolees0ca-21)

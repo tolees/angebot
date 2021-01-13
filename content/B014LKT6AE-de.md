@@ -26,4 +26,4 @@ Es gibt ein [Lego Ninjago Kinder Ninja Rucksack](https://www.amazon.de/dp/B014LK
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B014LKT6AE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B014LKT6AE/?tag=tolees0ca-21)

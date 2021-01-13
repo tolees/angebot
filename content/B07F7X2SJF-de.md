@@ -26,4 +26,4 @@ Es gibt ein [super vaule DIY 5D Diamant Malerei  Kristall Strass Stickerei Bilde
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07F7X2SJF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07F7X2SJF/?tag=tolees0ca-21)

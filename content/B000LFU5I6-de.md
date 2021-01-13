@@ -26,4 +26,4 @@ Es gibt ein [Silverline 726040 Schleifwalzen  25-tlg. Satz 80er-Körnung](https:
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000LFU5I6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000LFU5I6/?tag=tolees0ca-21)

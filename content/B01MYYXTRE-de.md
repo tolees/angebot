@@ -26,4 +26,4 @@ Sie können [MEDION Küchenmaschine mit Kochfunktion  1000 Watt Leistung  2 Lite
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01MYYXTRE/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01MYYXTRE/?tag=tolees0ca-21)

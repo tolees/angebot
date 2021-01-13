@@ -26,4 +26,4 @@ Es gibt ein [Skechers Girls  Go Walk 4-Kindle Low-Top Sneakers  Black  Black BBK
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01MXJ4NAZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MXJ4NAZ/?tag=tolees0ca-21)

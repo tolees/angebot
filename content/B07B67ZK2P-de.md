@@ -26,4 +26,4 @@ Es gibt ein [JACK & JONES Herren Jjeholmen Sweat Zip Hood Noos Sweatjacke  Schwa
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07B67ZK2P/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07B67ZK2P/?tag=tolees0ca-21)

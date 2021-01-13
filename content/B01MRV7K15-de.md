@@ -26,4 +26,4 @@ Sie können [Beko DE8535RX0 Wärmepumpentrockner/8 kg/A+++/Multifunktionsdisplay
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01MRV7K15/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01MRV7K15/?tag=tolees0ca-21)

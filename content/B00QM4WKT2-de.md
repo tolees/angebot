@@ -26,4 +26,4 @@ Es gibt ein [Ravensburger 29841 - 2-in-1 Mandala Designer Frozen](https://www.am
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00QM4WKT2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00QM4WKT2/?tag=tolees0ca-21)

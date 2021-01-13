@@ -26,4 +26,4 @@ Es gibt ein [Xiaomi Redmi 9A - Smartphone 32GB  2GB RAM  Dual SIM  Granite Gray]
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08CGXVPXW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08CGXVPXW/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Funko 4851 S6 No Actionfigur Game of Thrones: Rhaegal  Multi  6 Zol
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00TQ8SLLC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00TQ8SLLC/?tag=tolees0ca-21)

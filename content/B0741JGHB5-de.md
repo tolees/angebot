@@ -26,4 +26,4 @@ Sie können [Wahoo ELEMNT MINI Fahrradcomputer](https://www.amazon.de/dp/B0741JG
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0741JGHB5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0741JGHB5/?tag=tolees0ca-21)

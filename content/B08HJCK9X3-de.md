@@ -26,4 +26,4 @@ Sie können [MACLY SmartBand Aktivitäts Tracker mit Blutdruckmessung  Smartwatc
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B08HJCK9X3/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B08HJCK9X3/?tag=tolees0ca-21)

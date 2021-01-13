@@ -26,4 +26,4 @@ Sie können [Tado Smartes Heizkörper-Thermostat  Zusatzprodukt für Einzelraums
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01LXPJG23/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01LXPJG23/?tag=tolees0ca-21)

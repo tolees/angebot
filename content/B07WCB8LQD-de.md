@@ -26,4 +26,4 @@ Es gibt ein [GORE WEAR C3 Herren Fahrrad Kurzarmtrikot  M  schwarz](https://www.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07WCB8LQD/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07WCB8LQD/?tag=tolees0ca-21)

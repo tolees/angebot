@@ -26,4 +26,4 @@ Es gibt ein [Sony SRS-XB01 tragbarer Bluetooth Lautsprecher  Extra Bass  6h Akku
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07GT4D6DY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GT4D6DY/?tag=tolees0ca-21)

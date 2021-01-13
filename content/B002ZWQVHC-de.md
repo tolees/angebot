@@ -26,4 +26,4 @@ Es gibt ein [Odlo Herren Shirt Long Sleeve Crew Neck X-Warm Unterhemd  black  L]
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B002ZWQVHC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B002ZWQVHC/?tag=tolees0ca-21)

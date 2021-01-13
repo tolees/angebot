@@ -26,4 +26,4 @@ Sie können [Mammut Herren Hardshell-jacke Mit Kapuze Masao Light Hooded  grau  
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07ZYHR9XM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07ZYHR9XM/?tag=tolees0ca-21)

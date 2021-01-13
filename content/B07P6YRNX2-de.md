@@ -26,4 +26,4 @@ Es gibt ein [Custom Brick Design Sith Lord Darth Nihilus Figur - - modifizierte 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07P6YRNX2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07P6YRNX2/?tag=tolees0ca-21)

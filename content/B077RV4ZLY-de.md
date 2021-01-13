@@ -26,4 +26,4 @@ Es gibt ein [Western Digital 6 TB Elements Desktop externe Festplatte USB3.0 -WD
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B077RV4ZLY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B077RV4ZLY/?tag=tolees0ca-21)

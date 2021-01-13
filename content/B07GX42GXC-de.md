@@ -26,4 +26,4 @@ Es gibt ein [ECOVACS Robotics DEEBOT 710 Saugroboter - Leistungsstarker Staubsau
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07GX42GXC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GX42GXC/?tag=tolees0ca-21)

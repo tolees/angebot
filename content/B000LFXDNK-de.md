@@ -26,4 +26,4 @@ Es gibt ein [Silverline 598492 Gummihammer  schwarz 907 g](https://www.amazon.de
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000LFXDNK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000LFXDNK/?tag=tolees0ca-21)

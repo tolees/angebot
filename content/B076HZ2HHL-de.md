@@ -26,4 +26,4 @@ Es gibt ein [JVC KD-X351BT Digital-Media-Receiver mit Bluetooth-Freisprechfunkti
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B076HZ2HHL/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B076HZ2HHL/?tag=tolees0ca-21)

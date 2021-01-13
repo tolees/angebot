@@ -26,4 +26,4 @@ Sie können [Mannesmann 232-tlg. Steckschlüsselsatz 1/4" + 1/2"  M98450](https:
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B00DSIL7KS/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B00DSIL7KS/?tag=tolees0ca-21)

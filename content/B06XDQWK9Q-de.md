@@ -26,4 +26,4 @@ Sie können [Coma Ecliptic Live](https://www.amazon.de/dp/B06XDQWK9Q/?tag=tolees
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06XDQWK9Q/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06XDQWK9Q/?tag=tolees0ca-21)

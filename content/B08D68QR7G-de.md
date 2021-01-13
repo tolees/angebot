@@ -26,4 +26,4 @@ Sie können [Blackview Tab8 Tablet 25 54cm  10 1 Zoll  Android 10 Tablet-PC  192
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B08D68QR7G/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B08D68QR7G/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Huawei Band 3 Pro Fitness-Aktivitätstracker  All-in-One Smart Armb
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07H4X6M7H/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07H4X6M7H/?tag=tolees0ca-21)

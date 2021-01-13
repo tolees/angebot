@@ -26,4 +26,4 @@ Sie können [Funko POP Dragon Ball Z Android 18 V](https://www.amazon.de/dp/B07H
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07HBBC9D3/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07HBBC9D3/?tag=tolees0ca-21)

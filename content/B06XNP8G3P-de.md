@@ -26,4 +26,4 @@ Sie können [Campingaz Lavastein Gasgrill Xpert 200 LS Rocky](https://www.amazon
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06XNP8G3P/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06XNP8G3P/?tag=tolees0ca-21)

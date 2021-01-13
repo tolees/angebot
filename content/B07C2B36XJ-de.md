@@ -26,4 +26,4 @@ Es gibt ein [JACK & JONES Herren Strickpullover V-Ausschnitt LNavy Blazer 2](htt
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07C2B36XJ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07C2B36XJ/?tag=tolees0ca-21)

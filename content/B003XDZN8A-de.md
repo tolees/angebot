@@ -26,4 +26,4 @@ Es gibt ein [Crocs Shayna Women  Damen Slingback Ballerinas  Schwarz  Black   39
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B003XDZN8A/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B003XDZN8A/?tag=tolees0ca-21)

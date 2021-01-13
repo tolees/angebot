@@ -26,4 +26,4 @@ Es gibt ein [Regal Schwerlastregal Regal 180x90x45 Steckregal 875kg Lagerregal W
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B078Y6HRYC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B078Y6HRYC/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [ZENS Qi-zertifiziertes kabelloses Aluminium Lade-Pad  Unterstützt 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07GJTRRMK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07GJTRRMK/?tag=tolees0ca-21)

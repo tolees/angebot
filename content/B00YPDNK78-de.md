@@ -26,4 +26,4 @@ Es gibt ein [Einhell Trockenbauschleifer TC-DW 225  600 W  max. 1500 min.-1 Leer
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00YPDNK78/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00YPDNK78/?tag=tolees0ca-21)

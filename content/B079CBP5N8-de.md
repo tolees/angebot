@@ -26,4 +26,4 @@ Es gibt ein [JACK & JONES Herren JJECORP Logo Tee SS Crew Neck NOOS T-Shirt  Sch
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B079CBP5N8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B079CBP5N8/?tag=tolees0ca-21)

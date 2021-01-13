@@ -26,4 +26,4 @@ Es gibt ein [Timezone Damen Jeans Slim Enya Jogg  Grau  Steel Grey Wash 9198   W
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0716V8LGP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0716V8LGP/?tag=tolees0ca-21)

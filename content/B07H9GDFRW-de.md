@@ -26,4 +26,4 @@ Sie können [Sony SF-G128T SD-Speicherkarte  128 GB  UHS-II  SD Tough  G Serie ]
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07H9GDFRW/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07H9GDFRW/?tag=tolees0ca-21)

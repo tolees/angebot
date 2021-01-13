@@ -26,4 +26,4 @@ Es gibt ein [SEVERIN SV 2447 Sous-Vide Garer  6 L Fassungsvermögen  Timer  edel
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00H5FZ3D2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00H5FZ3D2/?tag=tolees0ca-21)

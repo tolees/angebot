@@ -26,4 +26,4 @@ Es gibt ein [Sylvanian Families 4333 - Der Neuankömmling](https://www.amazon.de
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00HRRD58S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00HRRD58S/?tag=tolees0ca-21)

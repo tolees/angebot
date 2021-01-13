@@ -26,4 +26,4 @@ Es gibt ein [SteelSeries Apex M750 Mechanische Gaming-Tastatur  RGB-Beleuchtung 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07K3GKY16/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07K3GKY16/?tag=tolees0ca-21)

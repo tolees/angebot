@@ -26,4 +26,4 @@ Sie können [McFarlane Toys 15601-0 Actionfigur](https://www.amazon.de/dp/B07V5X
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07V5X5M7G/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07V5X5M7G/?tag=tolees0ca-21)

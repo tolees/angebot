@@ -26,4 +26,4 @@ Es gibt ein [Samsung WW80K6404QW/EG Waschmaschine FL/A+++/116 kWh/Jahr/1400 UpM/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01BC3TPB8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01BC3TPB8/?tag=tolees0ca-21)

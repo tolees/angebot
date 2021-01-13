@@ -26,4 +26,4 @@ Es gibt ein [TP-Link TL-WA801ND V5.0 WLAN Access Point 300Mbit/s  Client  Bridge
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B004UBU8IE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B004UBU8IE/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Samsung Galaxy S10 Smartphone Bundle  15.5cm  6.1 Zoll  128 GB inte
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07SFGW5S2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07SFGW5S2/?tag=tolees0ca-21)

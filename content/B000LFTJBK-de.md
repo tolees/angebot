@@ -26,4 +26,4 @@ Es gibt ein [Silverline FIXMAN 633499 Trockenbau-Abstandhalter  100er-Pckg.](htt
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000LFTJBK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000LFTJBK/?tag=tolees0ca-21)

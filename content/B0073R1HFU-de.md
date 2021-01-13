@@ -26,4 +26,4 @@ Sie können [Bosch Heckenschere AHS 50-26  Messerabdeckung  Karton  600 W  500 m
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0073R1HFU/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0073R1HFU/?tag=tolees0ca-21)

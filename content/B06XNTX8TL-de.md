@@ -26,4 +26,4 @@ Es gibt ein [S&R Kreissägeblatt 160mm x 20mm x 2 2 mm"Wood Craft" Reduzierring 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XNTX8TL/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XNTX8TL/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Deuter Streamer Thermo Bag 3.0 Zubehör Trinkblase](https://www.ama
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B003XYL4PA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B003XYL4PA/?tag=tolees0ca-21)

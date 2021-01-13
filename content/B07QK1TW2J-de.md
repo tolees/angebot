@@ -26,4 +26,4 @@ Es gibt ein [Emporio Armani Herren-Ringe Edelstahl mit Ringgröße 59 EGS2635040
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07QK1TW2J/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07QK1TW2J/?tag=tolees0ca-21)

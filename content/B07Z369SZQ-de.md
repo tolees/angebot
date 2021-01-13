@@ -26,4 +26,4 @@ Sie können [Warxin Handyhalter Fürs Auto  Magnet KFZ Handyhalterung fürs Auto
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07Z369SZQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07Z369SZQ/?tag=tolees0ca-21)

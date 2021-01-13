@@ -26,4 +26,4 @@ Es gibt ein [Games of Thrones 3012 Actionfigur Daenerys Targaryen](https://www.a
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B009B0YWDG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B009B0YWDG/?tag=tolees0ca-21)

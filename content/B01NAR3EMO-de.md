@@ -26,4 +26,4 @@ Sie können [Lacerto® | 13x13mm Deutsche Aufkleber für PC/Laptop & Notebook Ta
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01NAR3EMO/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01NAR3EMO/?tag=tolees0ca-21)

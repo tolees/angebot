@@ -26,4 +26,4 @@ Es gibt ein [CMaster Roboter STEM Spielzeug 576 Stück Konstruktions Spielzeug K
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07ZB6VCZ2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07ZB6VCZ2/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Lenovo Tab M10 FHD Plus 26 2 cm  10 3 Zoll  1920x1200  FHD  IPS  To
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B083QSRJ2F/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B083QSRJ2F/?tag=tolees0ca-21)

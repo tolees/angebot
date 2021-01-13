@@ -26,4 +26,4 @@ Es gibt ein [LATITOP Luftentfeuchter mit 500ml Wassertank kompakter und tragbare
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PN934TS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PN934TS/?tag=tolees0ca-21)

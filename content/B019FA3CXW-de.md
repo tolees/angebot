@@ -26,4 +26,4 @@ Sie können [Star Wars: Das Erwachen der Macht](https://www.amazon.de/dp/B019FA3
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B019FA3CXW/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B019FA3CXW/?tag=tolees0ca-21)

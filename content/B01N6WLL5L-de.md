@@ -26,4 +26,4 @@ Sie können [Neff NTK1320N Kochfeld  Elektro/Einbau  / 2 Heizelemente / 30.6 cm/
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01N6WLL5L/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01N6WLL5L/?tag=tolees0ca-21)

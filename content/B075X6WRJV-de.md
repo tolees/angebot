@@ -26,4 +26,4 @@ Es gibt ein [WMF KÜCHENminis 1-Ei-Eierkocher My Egg  mit Eierbecher  Cromargan 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B075X6WRJV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B075X6WRJV/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [VARTA Day Light Multi LED F10 Taschenlampe mit 5 LEDs  inkl. 1xAA L
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PDR5G54/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PDR5G54/?tag=tolees0ca-21)

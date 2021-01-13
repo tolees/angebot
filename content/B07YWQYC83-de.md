@@ -26,4 +26,4 @@ Sie können [Park Tool Unisex – Erwachsene cm-5.3 Kettenreinigungsgerät  bla
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07YWQYC83/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07YWQYC83/?tag=tolees0ca-21)

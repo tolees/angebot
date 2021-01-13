@@ -26,4 +26,4 @@ Sie können [USB Stick 64GB  MECO ELEVERDE 2-in-1 OTG Speicherstick  USB-C＆USB
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07Y4YV3SK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07Y4YV3SK/?tag=tolees0ca-21)

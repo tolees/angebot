@@ -26,4 +26,4 @@ Es gibt ein [Huawei P20 Pro Smartphone Bundle  15 5 cm  6 1 Zoll   40/20/8 MP Le
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07C8RWNJF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07C8RWNJF/?tag=tolees0ca-21)

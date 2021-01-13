@@ -26,4 +26,4 @@ Es gibt ein [Chicago Fire - Staffel sieben [6 DVDs]](https://www.amazon.de/dp/B0
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07VQ9RKB8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07VQ9RKB8/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Mini PC 8GB LPDDR4 256GB SSD Intel Celeron Prozessor J4125 Quad-Cor
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B089CNZL8S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B089CNZL8S/?tag=tolees0ca-21)

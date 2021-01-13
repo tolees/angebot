@@ -26,4 +26,4 @@ Es gibt ein [Apple iPad 4 9.7-Inch Tablet-PC  Schwarz  A1460 Prozessor  16 GB HD
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01JJ3AK76/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01JJ3AK76/?tag=tolees0ca-21)

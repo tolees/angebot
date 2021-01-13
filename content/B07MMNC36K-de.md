@@ -26,4 +26,4 @@ Es gibt ein [GANT Herren ORIGINAL Barstripe Heavy Rugger Poloshirt  Rot  Red 610
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07MMNC36K/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MMNC36K/?tag=tolees0ca-21)

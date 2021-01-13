@@ -26,4 +26,4 @@ Es gibt ein [Lightailing Licht-Set Für  Bugatti Chiron  Modell - LED Licht-Set 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KG3LV8F/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KG3LV8F/?tag=tolees0ca-21)

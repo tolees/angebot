@@ -26,4 +26,4 @@ Es gibt ein [Netgear GS752TX 52-Port Gigabit/10G Stackable LAN Switch Smart Mana
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00OZCFUDG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00OZCFUDG/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [JBL Tune110BT In-Ear Bluetooth-Kopfhörer - Kabellose Ohrhörer mit
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B075KPNDC8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B075KPNDC8/?tag=tolees0ca-21)

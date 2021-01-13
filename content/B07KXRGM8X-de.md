@@ -26,4 +26,4 @@ Es gibt ein [SanDisk microSDXC UHS-I card for Nintendo Switch 64GB - Nintendo li
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KXRGM8X/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KXRGM8X/?tag=tolees0ca-21)

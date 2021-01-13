@@ -26,4 +26,4 @@ Sie können [Acer Spin 1  SP111-34N-P3RH  29 5 cm  11 6 Zoll HD IPS Multi-Touch 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07NX3TVFQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07NX3TVFQ/?tag=tolees0ca-21)

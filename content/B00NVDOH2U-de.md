@@ -26,4 +26,4 @@ Es gibt ein [LEGO Classic 10700 - Bauplatte](https://www.amazon.de/dp/B00NVDOH2U
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00NVDOH2U/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00NVDOH2U/?tag=tolees0ca-21)

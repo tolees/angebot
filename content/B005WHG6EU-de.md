@@ -26,4 +26,4 @@ Es gibt ein [DeWalt Paneelsäge 1675W DWS780 inkl. Zubehör - Mit 305x30 mm HM-S
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B005WHG6EU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B005WHG6EU/?tag=tolees0ca-21)

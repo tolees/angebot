@@ -26,4 +26,4 @@ Sie können [Funko B07HJ88F7J POP Vinyl: Movies: James Bond: Le Chiffre Casino R
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07HJ88F7J/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07HJ88F7J/?tag=tolees0ca-21)

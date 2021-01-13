@@ -26,4 +26,4 @@ Es gibt ein [Buluri Washi Tape 50 Rolls Washi Masking Tape Dekorative Klebeband 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0753CV8QW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0753CV8QW/?tag=tolees0ca-21)

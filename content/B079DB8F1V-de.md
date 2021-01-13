@@ -26,4 +26,4 @@ Sie können [JAKO Herren Competition 2.0 Shorts  schwarz  schwarz   M](https://w
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B079DB8F1V/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B079DB8F1V/?tag=tolees0ca-21)

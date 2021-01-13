@@ -26,4 +26,4 @@ Es gibt ein [Playmobil 9243 - Berk](https://www.amazon.de/dp/B06WCZCRPN/?tag=tol
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06WCZCRPN/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06WCZCRPN/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [CXZC Raspador de nieve para automóviles y camiones pequeños  rasp
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07ZKHVQG9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07ZKHVQG9/?tag=tolees0ca-21)

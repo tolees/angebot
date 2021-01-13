@@ -26,4 +26,4 @@ Es gibt ein [SS&LL La basura del paso Puede Cubos de basura Con Tapas rectángul
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07SNHPT6C/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07SNHPT6C/?tag=tolees0ca-21)

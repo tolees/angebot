@@ -26,4 +26,4 @@ Sie können [Clatronic PO 3682 Elektrischer Pizzaofen für 6 Personen  Terrakott
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B077GG47BS/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B077GG47BS/?tag=tolees0ca-21)

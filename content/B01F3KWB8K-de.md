@@ -26,4 +26,4 @@ Es gibt ein [BRAUN Wecker und Tischuhren Uhrenradio Kunststoff BLACK BNC020BK](h
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01F3KWB8K/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01F3KWB8K/?tag=tolees0ca-21)

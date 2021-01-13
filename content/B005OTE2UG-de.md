@@ -26,4 +26,4 @@ Es gibt ein [Hook [Blu-ray]](https://www.amazon.de/dp/B005OTE2UG/?tag=tolees0ca-
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B005OTE2UG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B005OTE2UG/?tag=tolees0ca-21)

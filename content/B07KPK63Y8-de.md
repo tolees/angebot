@@ -26,4 +26,4 @@ Es gibt ein [Funko POP! Bobble: Avengers Endgame: Nebula  Multi](https://www.ama
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KPK63Y8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KPK63Y8/?tag=tolees0ca-21)

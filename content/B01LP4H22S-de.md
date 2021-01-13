@@ -26,4 +26,4 @@ Es gibt ein [Bosch Professional Kreuzlinienlaser GLL 2-10  roter Laser  Max. Rei
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01LP4H22S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01LP4H22S/?tag=tolees0ca-21)

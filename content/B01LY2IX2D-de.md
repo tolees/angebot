@@ -26,4 +26,4 @@ Es gibt ein [Rogue One: A Star Wars Story  Original Motion Picture Soundtrack ](
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01LY2IX2D/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01LY2IX2D/?tag=tolees0ca-21)

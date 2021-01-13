@@ -26,4 +26,4 @@ Es gibt ein [RAVPower 20100mAh Powerbank USB C Power Delivery  45W PD Ausgang  E
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KS4PXVF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KS4PXVF/?tag=tolees0ca-21)

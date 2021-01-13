@@ -26,4 +26,4 @@ Es gibt ein [fischer FIXtainer DUOPOWER Tiefenbiss-Box  Dübelbox mit 210 Dübel
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06VVSVW8B/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06VVSVW8B/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Pop Billy Idol Vinyl Figure](https://www.amazon.de/dp/B07HB4VNVP/?t
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07HB4VNVP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HB4VNVP/?tag=tolees0ca-21)

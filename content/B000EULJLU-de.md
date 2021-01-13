@@ -26,4 +26,4 @@ Es gibt ein [10.000 Days](https://www.amazon.de/dp/B000EULJLU/?tag=tolees0ca-21)
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000EULJLU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000EULJLU/?tag=tolees0ca-21)

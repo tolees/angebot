@@ -26,4 +26,4 @@ Sie können [Sharplace 3 Paar Annähen Oval Ellenbogen/Knie Patches Jeans Repara
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07895YKQL/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07895YKQL/?tag=tolees0ca-21)

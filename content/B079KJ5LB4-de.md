@@ -26,4 +26,4 @@ Es gibt ein [LLOYD Herren Gala Derbys  Schwarz  Schwarz/Midnight 0   44 EU](http
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B079KJ5LB4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B079KJ5LB4/?tag=tolees0ca-21)

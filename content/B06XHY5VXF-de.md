@@ -26,4 +26,4 @@ Sie können [Sabrent Bluetooth-Adapter USB Bluetooth 4.0 Micro Adapter für PC [
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06XHY5VXF/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06XHY5VXF/?tag=tolees0ca-21)

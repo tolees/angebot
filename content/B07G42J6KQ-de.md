@@ -26,4 +26,4 @@ Es gibt ein [Intel Wireless-AC 9560  M.2 2230  2x2 Ac+Bt  Gigabit  ohne Vpro](ht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07G42J6KQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07G42J6KQ/?tag=tolees0ca-21)

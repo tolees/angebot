@@ -26,4 +26,4 @@ Es gibt ein [VARTA Longlife 9V Block 6LP3146 Batterie  Alkaline E-Block Batterie
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000EGSGQK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000EGSGQK/?tag=tolees0ca-21)

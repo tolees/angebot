@@ -26,4 +26,4 @@ Es gibt ein [Yazubi Herren Kapuzenjacke Jacob - graue Sweatjacke Herren Kapuzenp
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07JK3RC16/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07JK3RC16/?tag=tolees0ca-21)

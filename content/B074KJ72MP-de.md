@@ -26,4 +26,4 @@ Es gibt ein [OSRAM Smart+ LED  ZigBee Lampe mit E27 Sockel  warmweiß  dimmbar  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B074KJ72MP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B074KJ72MP/?tag=tolees0ca-21)

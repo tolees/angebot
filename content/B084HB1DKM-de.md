@@ -26,4 +26,4 @@ Sie können [Samsung Sound Tower Lautsprecher MX-T70  Bluetooth  2.1-Kanal-Syste
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B084HB1DKM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B084HB1DKM/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Zwini Laptop Kühlpads 12-17 Zoll Laptop Kühler r Cooling Pad Note
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07YWM4R8Q/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07YWM4R8Q/?tag=tolees0ca-21)

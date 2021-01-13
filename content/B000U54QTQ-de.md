@@ -26,4 +26,4 @@ Es gibt ein [Sink or Swim](https://www.amazon.de/dp/B000U54QTQ/?tag=tolees0ca-21
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000U54QTQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000U54QTQ/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [LogiLink KAB0039 Kabel-Clip Selbstklebend schwarz](https://www.amaz
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00DIXEY6W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00DIXEY6W/?tag=tolees0ca-21)

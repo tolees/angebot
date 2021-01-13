@@ -26,4 +26,4 @@ Es gibt ein [HP Pavilion Gaming TG01-0016ng Desktop  Intel Core i5-9400F  16GB D
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07XJRGY2J/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07XJRGY2J/?tag=tolees0ca-21)

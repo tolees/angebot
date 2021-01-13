@@ -26,4 +26,4 @@ Es gibt ein [Skagen Unisex Hybrid Smartwatch SKT1104](https://www.amazon.de/dp/B
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01KLT1AA8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01KLT1AA8/?tag=tolees0ca-21)

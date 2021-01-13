@@ -26,4 +26,4 @@ Sie können [Polaroid Digitale Instant Snap Kamera mit ZINK Zero Ink Technologie
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B015JIA97Q/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B015JIA97Q/?tag=tolees0ca-21)

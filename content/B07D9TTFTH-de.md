@@ -26,4 +26,4 @@ Sie können [Google WiFi - WLAN-Router  Dual-Band  2 4 GHz/5 GHz   Wi-Fi 5  802.
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07D9TTFTH/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07D9TTFTH/?tag=tolees0ca-21)

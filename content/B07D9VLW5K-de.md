@@ -26,4 +26,4 @@ Sie können [HP 22y  21 5 Zoll Full HD LED  Monitor  DVI-D  VGA  1920 x 1080  60
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07D9VLW5K/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07D9VLW5K/?tag=tolees0ca-21)

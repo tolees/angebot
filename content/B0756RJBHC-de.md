@@ -26,4 +26,4 @@ Es gibt ein [Tommy Hilfiger Herren CORE Stretch Slim CNECK Tee T-Shirt  Schwarz 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0756RJBHC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0756RJBHC/?tag=tolees0ca-21)

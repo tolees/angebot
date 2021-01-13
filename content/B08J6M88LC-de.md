@@ -26,4 +26,4 @@ Es gibt ein [Bluetooth-Kopfhörer 5.0 Kabellose Kopfhörer IPX7 wasserdichte Noi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08J6M88LC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08J6M88LC/?tag=tolees0ca-21)

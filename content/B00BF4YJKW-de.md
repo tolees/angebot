@@ -26,4 +26,4 @@ Es gibt ein [fischertechnik BASIC Solar  Konstruktionsbaukasten - 520396](https:
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00BF4YJKW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00BF4YJKW/?tag=tolees0ca-21)

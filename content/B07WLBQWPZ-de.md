@@ -26,4 +26,4 @@ Sie können [Third Degree  CD Digipak ](https://www.amazon.de/dp/B07WLBQWPZ/?tag
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07WLBQWPZ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07WLBQWPZ/?tag=tolees0ca-21)

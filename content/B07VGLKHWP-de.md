@@ -26,4 +26,4 @@ Sie können [motorola one zoom mit Alexa Hands-Free Smartphone  6 4-Zoll-FHD+Dis
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07VGLKHWP/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07VGLKHWP/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Funko FUN334463 POP Vinylfigur Specialist FunkoPop Fortnite Tower R
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07HQ1M5C2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HQ1M5C2/?tag=tolees0ca-21)

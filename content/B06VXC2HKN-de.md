@@ -26,4 +26,4 @@ Es gibt ein [Fitbit Alta HR & Alta Classic Band](https://www.amazon.de/dp/B06VXC
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06VXC2HKN/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06VXC2HKN/?tag=tolees0ca-21)

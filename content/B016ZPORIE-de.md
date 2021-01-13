@@ -26,4 +26,4 @@ Es gibt ein [GROHE Minta | Küchenarmatur - Einhand-Spültischbatterie  mit Schw
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B016ZPORIE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B016ZPORIE/?tag=tolees0ca-21)

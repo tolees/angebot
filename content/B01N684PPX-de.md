@@ -26,4 +26,4 @@ Es gibt ein [Haier HRF-521DS6 Side-by-Side / A+ / 179 cm Höhe / 435 kWh/Jahr / 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01N684PPX/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01N684PPX/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [[3 Bonusgegenstand] Simbans TangoTab 10-Zoll-Tablet  4 GB RAM  64 G
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B08FR6C9CX/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B08FR6C9CX/?tag=tolees0ca-21)

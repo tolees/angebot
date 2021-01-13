@@ -26,4 +26,4 @@ Sie können [Bruetting KANSAS  Unisex-Erwachsene Trekking- & Wanderschuhe  Schwa
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01EBYB3AQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01EBYB3AQ/?tag=tolees0ca-21)

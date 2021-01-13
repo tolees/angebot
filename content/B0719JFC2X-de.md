@@ -26,4 +26,4 @@ Es gibt ein [Hasbro Gaming – Klassische Spiel von Simon  b7962eu4 ](https://
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0719JFC2X/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0719JFC2X/?tag=tolees0ca-21)

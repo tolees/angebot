@@ -26,4 +26,4 @@ Sie können [Bosch BBH32101 Flexxo 2 in 1 kabelloser Handstaubsauger  mit Akku  
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07KXLHSXP/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07KXLHSXP/?tag=tolees0ca-21)

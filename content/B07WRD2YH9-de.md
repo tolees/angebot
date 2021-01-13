@@ -26,4 +26,4 @@ Sie können [Acer Chromebook 314 Notebook  14 Zoll HD matt  19 7mm flach und ult
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07WRD2YH9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07WRD2YH9/?tag=tolees0ca-21)

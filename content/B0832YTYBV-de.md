@@ -26,4 +26,4 @@ Es gibt ein [WenTop LED Strip 10m WiFi Smart Controller  SMD 5050 LED Streifen m
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0832YTYBV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0832YTYBV/?tag=tolees0ca-21)

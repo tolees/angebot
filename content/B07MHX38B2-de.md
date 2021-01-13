@@ -26,4 +26,4 @@ Es gibt ein [Sony SRS-XB32 kabelloser Bluetooth Lautsprecher  tragbar  NFC  farb
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07MHX38B2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MHX38B2/?tag=tolees0ca-21)

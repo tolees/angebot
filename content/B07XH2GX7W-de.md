@@ -26,4 +26,4 @@ Sie können [Huawei P30 Pro Dual SIM Smartphone Bundle  16 434 cm  6.47 Zoll   1
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07XH2GX7W/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07XH2GX7W/?tag=tolees0ca-21)

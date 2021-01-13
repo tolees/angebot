@@ -26,4 +26,4 @@ Es gibt ein [Bosch Professional 10tlg. Stichsägeblatt-Set Robust Line  Wood und
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001IBMNU0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001IBMNU0/?tag=tolees0ca-21)

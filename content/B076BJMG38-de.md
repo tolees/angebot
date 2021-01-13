@@ -26,4 +26,4 @@ Es gibt ein [The Stage   Deluxe Edt. ](https://www.amazon.de/dp/B076BJMG38/?tag=
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B076BJMG38/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B076BJMG38/?tag=tolees0ca-21)

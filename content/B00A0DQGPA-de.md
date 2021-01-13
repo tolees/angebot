@@ -26,4 +26,4 @@ Es gibt ein [Clementoni 13405.2 - Memo Kompakt Minnie](https://www.amazon.de/dp/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00A0DQGPA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00A0DQGPA/?tag=tolees0ca-21)

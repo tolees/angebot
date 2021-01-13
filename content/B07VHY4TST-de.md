@@ -26,4 +26,4 @@ Es gibt ein [Die drei !!!](https://www.amazon.de/dp/B07VHY4TST/?tag=tolees0ca-21
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07VHY4TST/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07VHY4TST/?tag=tolees0ca-21)

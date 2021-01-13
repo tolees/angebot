@@ -26,4 +26,4 @@ Sie können [Hasbro Black Panther E1971EU4 Black Panther Legends  elektronischer
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07CMB1TSZ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07CMB1TSZ/?tag=tolees0ca-21)

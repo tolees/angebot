@@ -26,4 +26,4 @@ Es gibt ein [Ajustable 2068 Reloj de metal Correa Correa Pulsera Remover removed
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07WKFLC4Y/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07WKFLC4Y/?tag=tolees0ca-21)

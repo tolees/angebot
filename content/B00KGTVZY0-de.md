@@ -26,4 +26,4 @@ Es gibt ein [Fossil Damen-Uhren ES3625](https://www.amazon.de/dp/B00KGTVZY0/?tag
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00KGTVZY0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00KGTVZY0/?tag=tolees0ca-21)

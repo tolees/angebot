@@ -26,4 +26,4 @@ Es gibt ein [Schneiders Vienna 78335-080 - Schulranzenset Plus mit Federmappe  S
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KSZDF56/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KSZDF56/?tag=tolees0ca-21)

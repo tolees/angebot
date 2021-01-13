@@ -26,4 +26,4 @@ Es gibt ein [GEDORE E 620 H-1500 Ersatzstiel ROTBAND-Plus Hickory 280 mm](https:
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000UYUWGI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000UYUWGI/?tag=tolees0ca-21)

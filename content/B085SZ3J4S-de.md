@@ -26,4 +26,4 @@ Es gibt ein [Dittzz Technic Auto Huracan LP 610  Sportwagen Bauset   1696 Stück
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B085SZ3J4S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B085SZ3J4S/?tag=tolees0ca-21)

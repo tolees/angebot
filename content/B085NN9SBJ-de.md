@@ -26,4 +26,4 @@ Sie können [Dittzz Display Ständer Bausteine Halterung Ständer Für Lego 7525
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B085NN9SBJ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B085NN9SBJ/?tag=tolees0ca-21)

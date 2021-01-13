@@ -26,4 +26,4 @@ Sie können [SanDisk Extreme - 64GB MicroSDXC-Speicherkarte für Handys  tablets
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06XYTN1VB/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06XYTN1VB/?tag=tolees0ca-21)

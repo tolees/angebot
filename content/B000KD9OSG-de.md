@@ -26,4 +26,4 @@ Sie können [Casio Collection Herren-Armbanduhr F105W1AWYEF](https://www.amazon.
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B000KD9OSG/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B000KD9OSG/?tag=tolees0ca-21)

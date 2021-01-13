@@ -26,4 +26,4 @@ Es gibt ein [Acer Nitro 5  AN515-43-R90F  39 6 cm  15 6 Zoll 144Hz Full-HD IPS m
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07RJYCNQ6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07RJYCNQ6/?tag=tolees0ca-21)

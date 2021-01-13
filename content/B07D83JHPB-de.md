@@ -26,4 +26,4 @@ Sie können [Honor 10 Smartphone  14 83 cm  5 84 Zoll   Full HD+ Touch-Display  
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07D83JHPB/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07D83JHPB/?tag=tolees0ca-21)

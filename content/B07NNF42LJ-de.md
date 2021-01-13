@@ -26,4 +26,4 @@ Es gibt ein [Panasonic RP-HTX20BE-H In-Ear Kopfhörer Bluetooth  8 5 h Akkulaufz
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NNF42LJ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NNF42LJ/?tag=tolees0ca-21)

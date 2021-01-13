@@ -26,4 +26,4 @@ Sie können [prettygood7 Eingabestift für Nintendo 3DS / N3DS / XL/LL  Kunststo
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07HRTZTVS/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07HRTZTVS/?tag=tolees0ca-21)

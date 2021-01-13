@@ -26,4 +26,4 @@ Es gibt ein [Rollei Actioncam Zubehör Set Outdoor I 23-teiliges Set I Ideal zum
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B019MFNO2Y/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B019MFNO2Y/?tag=tolees0ca-21)

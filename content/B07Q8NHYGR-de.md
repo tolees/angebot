@@ -26,4 +26,4 @@ Es gibt ein [Candylocks 6054716 - Beste Freundinnen 2er Pack  Mint Choco Chick u
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07Q8NHYGR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07Q8NHYGR/?tag=tolees0ca-21)

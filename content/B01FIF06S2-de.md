@@ -26,4 +26,4 @@ Es gibt ein [Funko 9016 and S1 No Actionfigur Rick Morty  gelb  Standard](https:
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01FIF06S2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01FIF06S2/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Tacklife Akkuschrauber set mit 2 Akkus  12V 2 Gang Getriebe  Schrau
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B075R91VYB/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B075R91VYB/?tag=tolees0ca-21)

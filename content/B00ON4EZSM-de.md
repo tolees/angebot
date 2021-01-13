@@ -26,4 +26,4 @@ Es gibt ein [Funko 5100 No POP Vinylfigur: Supernatural: Crowley](https://www.am
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00ON4EZSM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00ON4EZSM/?tag=tolees0ca-21)

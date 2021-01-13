@@ -26,4 +26,4 @@ Es gibt ein [Superdry Herren O L Vintage Embroidery L/S Tee Langarmshirt  Schwar
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07FN6QWPM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FN6QWPM/?tag=tolees0ca-21)

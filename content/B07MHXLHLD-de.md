@@ -26,4 +26,4 @@ Sie können [Funko 39048 POP Vinyl: Games: Fortnite: Loot Lama Sammelbares Spiel
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07MHXLHLD/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07MHXLHLD/?tag=tolees0ca-21)

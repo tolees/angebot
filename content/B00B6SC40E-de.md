@@ -26,4 +26,4 @@ Es gibt ein [Ravensburger 21122 Lustige Kinderspiele Tiere](https://www.amazon.d
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00B6SC40E/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00B6SC40E/?tag=tolees0ca-21)

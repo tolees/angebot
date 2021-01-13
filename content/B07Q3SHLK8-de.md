@@ -26,4 +26,4 @@ Es gibt ein [Diesel Herren Chronograph Quarz Uhr mit Nylon Armband DZ4512](https
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07Q3SHLK8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07Q3SHLK8/?tag=tolees0ca-21)

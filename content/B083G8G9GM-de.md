@@ -26,4 +26,4 @@ Sie können [Samsung Galaxy S10 Lite Android Smartphone ohne Vertrag  4.500 mAh 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B083G8G9GM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B083G8G9GM/?tag=tolees0ca-21)

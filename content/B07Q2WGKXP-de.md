@@ -26,4 +26,4 @@ Es gibt ein [Roccat Vulcan 121 - Mechanische Gaming Tastatur  AIMO LED Einzeltas
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07Q2WGKXP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07Q2WGKXP/?tag=tolees0ca-21)

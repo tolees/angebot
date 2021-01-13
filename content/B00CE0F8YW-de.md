@@ -26,4 +26,4 @@ Es gibt ein [Neff Z1913X0 Backstein Brot Pizza Keramik Holzschieber Pyrolysefest
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00CE0F8YW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00CE0F8YW/?tag=tolees0ca-21)

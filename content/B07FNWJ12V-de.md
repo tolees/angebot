@@ -26,4 +26,4 @@ Es gibt ein [LEGO Star Wars 75241 - Action Battle  Bauset](https://www.amazon.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07FNWJ12V/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FNWJ12V/?tag=tolees0ca-21)

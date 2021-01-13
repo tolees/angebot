@@ -26,4 +26,4 @@ Es gibt ein [Proxxon 23080 Steckschlüsselsatz 1/4 Zoll  36-teilig](https://www.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B002C6LU6S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B002C6LU6S/?tag=tolees0ca-21)

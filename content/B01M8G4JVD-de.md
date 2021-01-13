@@ -26,4 +26,4 @@ Es gibt ein [Brüder Mannesmann Werkzeug Mannesmann 87-teiliger Werkzeugkoffer  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01M8G4JVD/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01M8G4JVD/?tag=tolees0ca-21)

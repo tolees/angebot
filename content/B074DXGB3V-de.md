@@ -26,4 +26,4 @@ Sie können [WD My Cloud Home persönlicher Cloudspeicher 8 TB  zentraler Speich
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B074DXGB3V/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B074DXGB3V/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [SanDisk Extreme PRO 512GB SDXC Speicherkarte bis zu 170 MB/s  Class
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07H9VBM29/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07H9VBM29/?tag=tolees0ca-21)

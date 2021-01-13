@@ -26,4 +26,4 @@ Es gibt ein [Samsung MU-PA500R/EU  Portable SSD T5 500 GB USB 3.1 Externe SSD Ro
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07QND4VZ6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07QND4VZ6/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Nebula Prizm Beamer  Multimedia Projektor mit 480P LCD Bildqualitä
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07HVKT5G4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HVKT5G4/?tag=tolees0ca-21)

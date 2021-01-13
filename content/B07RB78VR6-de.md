@@ -26,4 +26,4 @@ Es gibt ein [Hasbro Disney Die Eiskönigin II Elsa Puppe mit langem blondem Haar
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07RB78VR6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07RB78VR6/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Playmobil 6848 - Prinzessinnenschloss](https://www.amazon.de/dp/B01
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01EKBD0W4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01EKBD0W4/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Canon PIXMA TS6250 Drucker Farbtintenstrahl Multifunktionsgerät DI
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07G5JF7QW/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07G5JF7QW/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Resistance Major V
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07ZNQZ4VD/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07ZNQZ4VD/?tag=tolees0ca-21)

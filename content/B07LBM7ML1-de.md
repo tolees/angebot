@@ -26,4 +26,4 @@ Sie können [CREATIVE Sound BlasterX H6 USB-Gaming-Headset  virtueller 7.1-Surro
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07LBM7ML1/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07LBM7ML1/?tag=tolees0ca-21)

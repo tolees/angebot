@@ -26,4 +26,4 @@ Es gibt ein [Villeroy & Boch Toy s Delight Dip-Set  4-teillig  Premium Porzellan
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00ZKD7WG2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00ZKD7WG2/?tag=tolees0ca-21)

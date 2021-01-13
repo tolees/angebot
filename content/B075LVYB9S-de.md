@@ -26,4 +26,4 @@ Sie können [TechniSat DIGITRADIO 20 CD – Modernes & kompaktes DAB+ Küchen- &
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B075LVYB9S/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B075LVYB9S/?tag=tolees0ca-21)

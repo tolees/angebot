@@ -26,4 +26,4 @@ Es gibt ein [Huawei Mate 9  14 9 cm  5 9 Zoll   64GB  12 Megapixel Kamera  Andro
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01MT1CHE2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MT1CHE2/?tag=tolees0ca-21)

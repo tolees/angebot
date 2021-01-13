@@ -26,4 +26,4 @@ Sie können [Thomas Sabo Damen-Charm-Armband 925 Sterlingsilber X0231-001-12-L19
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B074DHV1NT/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B074DHV1NT/?tag=tolees0ca-21)

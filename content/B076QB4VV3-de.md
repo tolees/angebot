@@ -26,4 +26,4 @@ Sie können [Razer Electra V2 USB - Digitales Gaming Headset  für Gamer und Mus
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B076QB4VV3/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B076QB4VV3/?tag=tolees0ca-21)

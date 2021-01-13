@@ -26,4 +26,4 @@ Es gibt ein [Bosch Professional Bohrhammer GBH 2-28 F  SDS-plus-Wechselfutter  1
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01LDZYN6C/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01LDZYN6C/?tag=tolees0ca-21)

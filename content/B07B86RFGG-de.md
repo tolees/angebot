@@ -26,4 +26,4 @@ Es gibt ein [Salewa WS WILDFIRE  Damen Trekking- & Wanderhalbschuhe  Blau  Magne
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07B86RFGG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07B86RFGG/?tag=tolees0ca-21)

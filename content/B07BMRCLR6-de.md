@@ -26,4 +26,4 @@ Es gibt ein [MEDION MD 18500 Saugroboter mit Ladestation  90 Min Laufzeit  Robot
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07BMRCLR6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07BMRCLR6/?tag=tolees0ca-21)

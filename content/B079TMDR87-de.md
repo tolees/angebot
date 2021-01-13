@@ -26,4 +26,4 @@ Sie können [Orbsmart lüfterloser 4K Mini PC AW-09 Windows 10 Desktop-PC/Office
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B079TMDR87/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B079TMDR87/?tag=tolees0ca-21)

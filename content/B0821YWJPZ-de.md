@@ -26,4 +26,4 @@ Sie können [Acer Aspire 3  A315-54-58ZK  39 6 cm  15 6 Zoll Full-HD matt  Multi
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0821YWJPZ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0821YWJPZ/?tag=tolees0ca-21)

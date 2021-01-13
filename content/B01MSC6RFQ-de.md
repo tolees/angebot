@@ -26,4 +26,4 @@ Es gibt ein [G-STAR RAW Herren 3301 Straight Jeans  Blau  medium Aged 6564-071  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01MSC6RFQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MSC6RFQ/?tag=tolees0ca-21)

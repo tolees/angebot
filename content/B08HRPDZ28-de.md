@@ -26,4 +26,4 @@ Es gibt ein [Makramee Garn  Rifny Kordel Natur Baumwollgarn 3 mm x 100 m baumwol
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08HRPDZ28/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08HRPDZ28/?tag=tolees0ca-21)

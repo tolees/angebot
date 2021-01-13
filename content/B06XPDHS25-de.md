@@ -26,4 +26,4 @@ Sie können [Ankermann Office Silent PC Intel Core i5 2400 4X 3.1 GHz Graphic DV
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06XPDHS25/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06XPDHS25/?tag=tolees0ca-21)

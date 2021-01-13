@@ -26,4 +26,4 @@ Es gibt ein [Maggi Würze Vorratsflasche  6er Pack  6 x 1 kg ](https://www.amazo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00FOPBMLC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00FOPBMLC/?tag=tolees0ca-21)

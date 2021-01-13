@@ -26,4 +26,4 @@ Es gibt ein [WISO steuer:Office 2018  für Steuerjahr 2017 ](https://www.amazon.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07542DNXR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07542DNXR/?tag=tolees0ca-21)

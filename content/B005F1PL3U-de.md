@@ -26,4 +26,4 @@ Sie können [Funko 2386 - Pop! Star Wars - Boba Fett Spielfigur  Vinyl  10cm](ht
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B005F1PL3U/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B005F1PL3U/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Sony PCM-A10 Diktiergerät  High-Res Aufnahme  FLAC  Stereo Mikrofo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07GT8ZDMP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GT8ZDMP/?tag=tolees0ca-21)

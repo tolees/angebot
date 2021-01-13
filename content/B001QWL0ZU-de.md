@@ -26,4 +26,4 @@ Es gibt ein [Durex Play Pflegend Sensitives Gleitgel  mit Aloe Vera  1er Pack  1
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001QWL0ZU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001QWL0ZU/?tag=tolees0ca-21)

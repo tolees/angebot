@@ -26,4 +26,4 @@ Es gibt ein [Under Armour Herren Kurze Hose Ua Raid 8 Shorts  Schwarz  Small](ht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00KXIKAX6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00KXIKAX6/?tag=tolees0ca-21)

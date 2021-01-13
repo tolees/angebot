@@ -26,4 +26,4 @@ Es gibt ein [Barbara Becker präsentiert das Bauch  Beine  Po-Bootcamp Miami / N
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00HS8GDUS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00HS8GDUS/?tag=tolees0ca-21)

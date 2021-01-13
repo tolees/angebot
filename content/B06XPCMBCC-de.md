@@ -26,4 +26,4 @@ Es gibt ein [Kipling Damen CITY PACK S Rucksack  Blau  Deepest Blue   27x33.5x19
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XPCMBCC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XPCMBCC/?tag=tolees0ca-21)

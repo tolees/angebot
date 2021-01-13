@@ -26,4 +26,4 @@ Sie können [ZWILLING Schneiderschere  Stoffschere  Länge: 21 cm  Rostfreier Sp
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0009JI5RW/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0009JI5RW/?tag=tolees0ca-21)

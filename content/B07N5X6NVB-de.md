@@ -26,4 +26,4 @@ Es gibt ein [Funko 38587 POP Vinyl: Big Bang Theory S2: Penny Sammelbares Spielz
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07N5X6NVB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07N5X6NVB/?tag=tolees0ca-21)

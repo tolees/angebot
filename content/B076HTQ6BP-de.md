@@ -26,4 +26,4 @@ Es gibt ein [KitchenAid CLASSIC 4 3 L-Küchenmaschinen mit kippbarem Motorkopf  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B076HTQ6BP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B076HTQ6BP/?tag=tolees0ca-21)

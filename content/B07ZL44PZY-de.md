@@ -26,4 +26,4 @@ Es gibt ein [Mammut Herren Hardshell-jacke Albula Hooded  rot  S](https://www.am
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07ZL44PZY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07ZL44PZY/?tag=tolees0ca-21)

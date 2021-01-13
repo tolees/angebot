@@ -26,4 +26,4 @@ Es gibt ein [Netgear WAC720B03-10000S Dual Band 802.11ac Wireless Access Point  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01FL962AQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01FL962AQ/?tag=tolees0ca-21)

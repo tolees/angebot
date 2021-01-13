@@ -26,4 +26,4 @@ Es gibt ein [Metalldetektor INTEY Professionell Metallsuchgerät ALL METAL und D
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01MTAJJ4N/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MTAJJ4N/?tag=tolees0ca-21)

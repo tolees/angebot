@@ -26,4 +26,4 @@ Sie können [Brother ADS1700W Mobiler Scanner ADS1700WUN1 A4/Duplex/WLAN/Farbe](
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07H3B9Z7Q/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07H3B9Z7Q/?tag=tolees0ca-21)

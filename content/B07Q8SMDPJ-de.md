@@ -26,4 +26,4 @@ Es gibt ein [HABA 304697 - Tal der Wikinger  Kinderspiel des Jahres 2019  Spiel 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07Q8SMDPJ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07Q8SMDPJ/?tag=tolees0ca-21)

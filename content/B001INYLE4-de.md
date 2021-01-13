@@ -26,4 +26,4 @@ Es gibt ein [Panasonic RPHV154EK In-Ear-Kopfhörer  1 2 m Kabellänge  3 5 mm Ve
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001INYLE4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001INYLE4/?tag=tolees0ca-21)

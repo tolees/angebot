@@ -26,4 +26,4 @@ Es gibt ein [Unbekannt Gasgrill-Smoker Portland XL](https://www.amazon.de/dp/B07
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NRL766P/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NRL766P/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Dragonball Z - Box 2/10  Episoden 36-74  [6 DVDs]](https://www.amaz
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0032DB1QE/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0032DB1QE/?tag=tolees0ca-21)

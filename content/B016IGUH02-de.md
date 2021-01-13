@@ -26,4 +26,4 @@ Es gibt ein [Neff T18TT16N0 Elektrokochfeld N70 / 80cm / TwistPad  / Bräterzone
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B016IGUH02/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B016IGUH02/?tag=tolees0ca-21)

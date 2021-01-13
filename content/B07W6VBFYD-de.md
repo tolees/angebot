@@ -26,4 +26,4 @@ Es gibt ein [Cudy GS1005P 5-Port Gigabit PoE+ Switch 60W  4 * 10/100/1000Mbit/s 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07W6VBFYD/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07W6VBFYD/?tag=tolees0ca-21)

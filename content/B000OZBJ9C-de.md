@@ -26,4 +26,4 @@ Sie können [Park Tool Mini-Faltwerkzeug IB-3 I-Beam g  4000840](https://www.ama
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B000OZBJ9C/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B000OZBJ9C/?tag=tolees0ca-21)

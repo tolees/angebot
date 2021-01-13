@@ -26,4 +26,4 @@ Sie können [Samsung Externer Akkupack  EB-P3000C  10.000 mAh  Navy Blau](https:
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B079SDSZKC/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B079SDSZKC/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Lenovo L27q-10 68 58 cm  27 Zoll QHD IPS matt  Monitor  HDMI  Displ
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B071Z6DCTL/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B071Z6DCTL/?tag=tolees0ca-21)

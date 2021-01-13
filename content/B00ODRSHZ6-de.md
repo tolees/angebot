@@ -26,4 +26,4 @@ Es gibt ein [Jabra Evolve 40 UC Stereo-Kabel-Headset mit USB und 3 5 mm-Klinke f
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00ODRSHZ6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00ODRSHZ6/?tag=tolees0ca-21)

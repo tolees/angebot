@@ -26,4 +26,4 @@ Es gibt ein [Dunlop Protective Footwear Purofort Thermo+ full safety Unisex-Erwa
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00GWDLLHA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00GWDLLHA/?tag=tolees0ca-21)

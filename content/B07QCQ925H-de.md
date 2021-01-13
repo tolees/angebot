@@ -26,4 +26,4 @@ Sie können [Funko 40879 POP Vinyl Animation: Disenchantment-King Zog Sammelbare
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07QCQ925H/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07QCQ925H/?tag=tolees0ca-21)

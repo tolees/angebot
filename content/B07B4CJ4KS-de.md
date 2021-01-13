@@ -26,4 +26,4 @@ Es gibt ein [Transcend TS1TSJ25M3S 1TB stabile  tragbare  externe USB3.1 Festpla
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07B4CJ4KS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07B4CJ4KS/?tag=tolees0ca-21)

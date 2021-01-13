@@ -26,4 +26,4 @@ Es gibt ein [Mannesmann Pneumatischer Türschließer  weiß  M41115](https://www
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B002OL2LL4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B002OL2LL4/?tag=tolees0ca-21)

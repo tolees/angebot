@@ -26,4 +26,4 @@ Es gibt ein [Reishunger Reiskocher  1 2l / 500W / 220V  Warmhaltefunktion  hochw
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0156PTDZ6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0156PTDZ6/?tag=tolees0ca-21)

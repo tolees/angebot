@@ -26,4 +26,4 @@ Sie können [Garmin KFZ Ladekabel Mini USB  2 Amp](https://www.amazon.de/dp/B008
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0086CTL5Y/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0086CTL5Y/?tag=tolees0ca-21)

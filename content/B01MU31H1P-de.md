@@ -26,4 +26,4 @@ Sie können [Sony Digitalkamera DSC-HX350 Bridge-Kamera mit 50-fach optischem Zo
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01MU31H1P/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01MU31H1P/?tag=tolees0ca-21)

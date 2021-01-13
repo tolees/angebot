@@ -26,4 +26,4 @@ Es gibt ein [Western Digital WD1003FBYX RE4 1TB interne Festplatte  8 9 cm  3 5 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B003SANWI6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B003SANWI6/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Razer Kraken X - Gaming Headset  Ultra leichte Gaming Headphones f�
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07RMBB4HM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07RMBB4HM/?tag=tolees0ca-21)

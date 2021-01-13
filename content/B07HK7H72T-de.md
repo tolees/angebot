@@ -26,4 +26,4 @@ Es gibt ein [Apple Watch Series 4 GPS + Cellular  44mm Edelstahlgehäuse  Gold  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07HK7H72T/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HK7H72T/?tag=tolees0ca-21)

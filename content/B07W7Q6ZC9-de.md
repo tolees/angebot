@@ -26,4 +26,4 @@ Sie können [LABISTS Raspberry Pi 4 Model B 4 GB Ultimatives Kit mit 32GB Class1
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07W7Q6ZC9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07W7Q6ZC9/?tag=tolees0ca-21)

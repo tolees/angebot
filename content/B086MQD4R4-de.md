@@ -26,4 +26,4 @@ Es gibt ein [Tablet 10.1 Zoll 4G LTE Android 9.0 Dual SIM  2 in1 Tablet mit Tast
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B086MQD4R4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B086MQD4R4/?tag=tolees0ca-21)

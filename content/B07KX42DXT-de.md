@@ -26,4 +26,4 @@ Es gibt ein [WAFTING 4er Set Esszimmerstühle Gepolsterter Seitenstuhl mit Buche
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KX42DXT/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KX42DXT/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [The Diary of Alicia Keys](https://www.amazon.de/dp/B0000E5PEM/?tag=
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0000E5PEM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0000E5PEM/?tag=tolees0ca-21)

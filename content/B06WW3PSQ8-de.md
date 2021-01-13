@@ -26,4 +26,4 @@ Es gibt ein [LEGO Nexo Knights 70373 - Combo NEXO Kräfte](https://www.amazon.de
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06WW3PSQ8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06WW3PSQ8/?tag=tolees0ca-21)

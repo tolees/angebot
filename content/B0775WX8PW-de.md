@@ -26,4 +26,4 @@ Es gibt ein [Yazubi Herren Chino Hose  Modell Dustin  Chinohose by Yzb Jeans  Ca
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0775WX8PW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0775WX8PW/?tag=tolees0ca-21)

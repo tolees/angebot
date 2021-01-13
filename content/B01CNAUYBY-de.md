@@ -26,4 +26,4 @@ Sie können [AmazonBasics Stereo-Audiokabel  3 5-mm-Klinkenstecker auf 3 5-mm-Kl
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01CNAUYBY/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01CNAUYBY/?tag=tolees0ca-21)

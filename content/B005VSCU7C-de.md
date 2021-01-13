@@ -26,4 +26,4 @@ Sie können [Stanger 270012 WC Super set 10 Flaschen](https://www.amazon.de/dp/B
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B005VSCU7C/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B005VSCU7C/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Playmobil 4132 SuperSet Spielplatz](https://www.amazon.de/dp/B000EL
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000ELJ40W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000ELJ40W/?tag=tolees0ca-21)

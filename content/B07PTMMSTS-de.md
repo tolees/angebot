@@ -26,4 +26,4 @@ Sie können [ASTRO A40 TR Gaming-Headsest + MixAmp Pro TR  Generation 4  7.1 Dol
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07PTMMSTS/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07PTMMSTS/?tag=tolees0ca-21)

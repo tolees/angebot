@@ -26,4 +26,4 @@ Es gibt ein [Philips BTM3360/12 Stereoanlage mit Bluetooth Multipair  150 Watt  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B014WCLGHW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B014WCLGHW/?tag=tolees0ca-21)

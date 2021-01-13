@@ -26,4 +26,4 @@ Sie können [Cudy GS105D 5 Port LAN Switch Gigabit  Gigabit Switch 5-Port  5 * 1
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07GM4ZT5F/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07GM4ZT5F/?tag=tolees0ca-21)

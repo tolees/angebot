@@ -26,4 +26,4 @@ Es gibt ein [SanDisk 256GB iXpand Go Flash-Laufwerk für Ihr iPhone und iPad](ht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07VQPDM56/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07VQPDM56/?tag=tolees0ca-21)

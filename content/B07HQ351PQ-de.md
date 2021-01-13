@@ -26,4 +26,4 @@ Sie können [Steins; Gate ELITE [Playstation 4]](https://www.amazon.de/dp/B07HQ3
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07HQ351PQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07HQ351PQ/?tag=tolees0ca-21)

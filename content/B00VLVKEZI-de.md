@@ -26,4 +26,4 @@ Es gibt ein [Playmobil 6193 - Eisbearbeitungsmaschine](https://www.amazon.de/dp/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00VLVKEZI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00VLVKEZI/?tag=tolees0ca-21)

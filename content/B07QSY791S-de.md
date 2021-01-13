@@ -26,4 +26,4 @@ Sie können [Bosch Akku Schlagbohrschrauber UniversalImpact 18  2 Akku  18 Volt 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07QSY791S/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07QSY791S/?tag=tolees0ca-21)

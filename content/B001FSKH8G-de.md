@@ -26,4 +26,4 @@ Es gibt ein [MIYABI 7000D Santoku Messer  18 cm Klinge  CMV60 Stahl  Damast Desi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001FSKH8G/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001FSKH8G/?tag=tolees0ca-21)

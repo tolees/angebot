@@ -26,4 +26,4 @@ Es gibt ein [Ravensburger 29835 - Mini Mandala-Designer Frozen](https://www.amaz
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00QM4WB28/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00QM4WB28/?tag=tolees0ca-21)

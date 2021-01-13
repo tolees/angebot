@@ -26,4 +26,4 @@ Es gibt ein [miaX Profi Ceranfeldschaber - Ihr zuverlässiger Schaber für Küch
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B076N2ZQJZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B076N2ZQJZ/?tag=tolees0ca-21)

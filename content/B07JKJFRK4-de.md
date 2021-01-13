@@ -26,4 +26,4 @@ Es gibt ein [HP Spectre x360 15-df0106ng  15 6 Zoll/ UHD Touchscreen  Convertibl
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07JKJFRK4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07JKJFRK4/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Hasbro B9837EU4 - N-Strike Elite Disruptor Spielzeugblaster  mit Tr
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01MXLMEAP/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01MXLMEAP/?tag=tolees0ca-21)

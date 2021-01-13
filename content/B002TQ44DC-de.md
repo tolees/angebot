@@ -26,4 +26,4 @@ Es gibt ein [ANSMANN APS 1000 Universal Stecker Netzteil 12V inkl. 7 verschieden
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B002TQ44DC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B002TQ44DC/?tag=tolees0ca-21)

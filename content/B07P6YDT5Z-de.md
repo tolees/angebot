@@ -26,4 +26,4 @@ Sie können [Krups XN304T Kaffeemaschine Freistehende Espressomaschine Titan 0 7
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07P6YDT5Z/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07P6YDT5Z/?tag=tolees0ca-21)

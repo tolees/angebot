@@ -26,4 +26,4 @@ Es gibt ein [1/la-le-Lu](https://www.amazon.de/dp/B001Q3FSD4/?tag=tolees0ca-21) 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001Q3FSD4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001Q3FSD4/?tag=tolees0ca-21)

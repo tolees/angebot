@@ -26,4 +26,4 @@ Es gibt ein [Tumi Alpha Münzbörse 019246D  10 cm  Black Ballistic](https://www
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0756X8FWQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0756X8FWQ/?tag=tolees0ca-21)

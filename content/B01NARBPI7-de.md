@@ -26,4 +26,4 @@ Sie können [SanDisk Extreme Go 64GB USB-Flash-Laufwerk USB 3.1](https://www.ama
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01NARBPI7/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01NARBPI7/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [LEGO 41374 - Friends Andreas Pool-Party  Bauset](https://www.amazo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KTK94T6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KTK94T6/?tag=tolees0ca-21)

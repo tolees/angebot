@@ -26,4 +26,4 @@ Es gibt ein [Element System 10810-00001 Buchstütze Babylon  2 Stück für Holzr
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00O8U58JQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00O8U58JQ/?tag=tolees0ca-21)

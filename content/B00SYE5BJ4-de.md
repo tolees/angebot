@@ -26,4 +26,4 @@ Es gibt ein [SVITA TC3X20 Küchen-Eimer 60Liter 3x20L Edelstahl dreifach XXL Abf
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00SYE5BJ4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00SYE5BJ4/?tag=tolees0ca-21)

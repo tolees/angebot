@@ -26,4 +26,4 @@ Sie können [Funko 34215 Rick & Morty: Tiny Rick w/Guitar  Exc  POP Vinylfigur  
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07HJB43VK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07HJB43VK/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Bang & Olufsen Beoplay P2 Bluetooth-Lautsprecher  tragbar  mit inte
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XYG7B2D/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XYG7B2D/?tag=tolees0ca-21)

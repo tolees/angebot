@@ -26,4 +26,4 @@ Es gibt ein [Pioneer GM D1004 Verstärker für Kfz](https://www.amazon.de/dp/B00
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00PAQGYKE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00PAQGYKE/?tag=tolees0ca-21)

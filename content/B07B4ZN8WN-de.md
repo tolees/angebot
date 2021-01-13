@@ -26,4 +26,4 @@ Es gibt ein [RITUALS The Rituals of Happy Buddha Raumdufttspray  1er Pack  1 x 5
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07B4ZN8WN/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07B4ZN8WN/?tag=tolees0ca-21)

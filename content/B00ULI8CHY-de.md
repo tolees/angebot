@@ -26,4 +26,4 @@ Es gibt ein [Samsonite Neopulse - Spinner S  Breite: 20 cm  Handgepäck  55 cm  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00ULI8CHY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00ULI8CHY/?tag=tolees0ca-21)

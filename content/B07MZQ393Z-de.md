@@ -26,4 +26,4 @@ Sie können [Funko 39558 POP Vinyl: Spongebob Squarepants S3: Squidward Ballerin
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07MZQ393Z/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07MZQ393Z/?tag=tolees0ca-21)

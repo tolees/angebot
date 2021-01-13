@@ -26,4 +26,4 @@ Es gibt ein [Triumph Damen Halbschalen BH Body Make-Up Essent WHP  Schwarz  Blac
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B019U4YGWE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B019U4YGWE/?tag=tolees0ca-21)

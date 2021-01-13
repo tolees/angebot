@@ -26,4 +26,4 @@ Es gibt ein [ABUS AB72498 5805C Vorhängeschloss  Schwarz  110 cm Länge](https:
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01J9IG0JI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01J9IG0JI/?tag=tolees0ca-21)

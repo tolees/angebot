@@ -26,4 +26,4 @@ Es gibt ein [CREW Republic Craft Beer IPA Paket  Craft Bier Probierset Biertasti
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07B8KWVP2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07B8KWVP2/?tag=tolees0ca-21)

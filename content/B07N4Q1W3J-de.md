@@ -26,4 +26,4 @@ Sie können [moto g7 plus Dual-SIM Smartphone  6 2 Zoll Display  16-MP-Dual-Kame
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07N4Q1W3J/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07N4Q1W3J/?tag=tolees0ca-21)

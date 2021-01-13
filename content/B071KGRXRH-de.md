@@ -26,4 +26,4 @@ Sie können [SanDisk Ultra 3D SSD 250GB  geeignet für lesen mit bis zu 550 MB/S
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B071KGRXRH/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B071KGRXRH/?tag=tolees0ca-21)

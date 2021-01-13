@@ -26,4 +26,4 @@ Es gibt ein [DT Swiss Unisex - Erwachsene VR E 1900 Spline DB Läufrad  schwarz
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07GWWV3W8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GWWV3W8/?tag=tolees0ca-21)

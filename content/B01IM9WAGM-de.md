@@ -26,4 +26,4 @@ Sie können [TechniSat Z-Wave Innenkamera 1  Smart Home Kamera  Überwachungskam
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01IM9WAGM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01IM9WAGM/?tag=tolees0ca-21)

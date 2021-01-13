@@ -26,4 +26,4 @@ Sie können [Mi Bluetooth Speaker PC-Lautsprecher](https://www.amazon.de/dp/B07C
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07CY1MC99/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07CY1MC99/?tag=tolees0ca-21)

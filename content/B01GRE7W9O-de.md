@@ -26,4 +26,4 @@ Sie können [Logitech C925E Business Webcam  mit 1080p und integrierter Abdeckbl
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01GRE7W9O/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01GRE7W9O/?tag=tolees0ca-21)

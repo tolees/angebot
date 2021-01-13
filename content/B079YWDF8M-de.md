@@ -26,4 +26,4 @@ Es gibt ein [Steiff AFFE Brownie - 30 cm - Plüschaffe mit Langen Armen - Soft C
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B079YWDF8M/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B079YWDF8M/?tag=tolees0ca-21)

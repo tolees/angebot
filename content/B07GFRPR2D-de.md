@@ -26,4 +26,4 @@ Es gibt ein [SteelSeries Arctis 7  Gaming Headset  verlustfreies und drahtloses 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07GFRPR2D/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GFRPR2D/?tag=tolees0ca-21)

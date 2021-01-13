@@ -26,4 +26,4 @@ Sie können [GVFTG La Cocina Spanisch Zitate Wandtattoo Kunst Schriftzug Vinyl A
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B086PD9PWV/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B086PD9PWV/?tag=tolees0ca-21)

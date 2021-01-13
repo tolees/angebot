@@ -26,4 +26,4 @@ Sie können [Funko 7427 Dragonball POP Vinylfigur: Dragon Ball Z: Goku und Wolke
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01CBME57S/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01CBME57S/?tag=tolees0ca-21)

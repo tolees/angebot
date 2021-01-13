@@ -26,4 +26,4 @@ Es gibt ein [Advanced Chemistry](https://www.amazon.de/dp/B01GF9NTR0/?tag=tolees
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01GF9NTR0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01GF9NTR0/?tag=tolees0ca-21)

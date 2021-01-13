@@ -26,4 +26,4 @@ Sie können [Philips S5290/12 Elektrischer Nass-und Trockenrasierer Series 5000 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07FKN3VBJ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07FKN3VBJ/?tag=tolees0ca-21)

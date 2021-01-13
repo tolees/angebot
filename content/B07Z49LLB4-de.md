@@ -26,4 +26,4 @@ Es gibt ein [JACK & JONES Herren Jacke Stehkragen Stepp XLNavy Blazer](https://w
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07Z49LLB4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07Z49LLB4/?tag=tolees0ca-21)

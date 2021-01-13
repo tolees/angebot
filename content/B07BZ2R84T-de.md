@@ -26,4 +26,4 @@ Es gibt ein [SHYNE Premium 1/2 Zoll Doppel-Wasserhahn aus Messing rost-  und fro
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07BZ2R84T/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07BZ2R84T/?tag=tolees0ca-21)

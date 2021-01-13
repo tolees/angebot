@@ -26,4 +26,4 @@ Sie können [Funko 34460 Riverdale: Reggie in Football Uniform POP Vinylfigur  M
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07DFDQLMX/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07DFDQLMX/?tag=tolees0ca-21)

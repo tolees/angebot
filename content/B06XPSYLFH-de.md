@@ -26,4 +26,4 @@ Es gibt ein [Siemens EX801KYW1E iQ700 Kochfeld / 79 2 cm / WLAN-fähig mit Home 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XPSYLFH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XPSYLFH/?tag=tolees0ca-21)

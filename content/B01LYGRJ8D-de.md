@@ -26,4 +26,4 @@ Es gibt ein [Panama Jack Herren Panama 03 Aviator Combat Boots  Lederfarben  44 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01LYGRJ8D/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01LYGRJ8D/?tag=tolees0ca-21)

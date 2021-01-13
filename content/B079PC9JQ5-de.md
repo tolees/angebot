@@ -26,4 +26,4 @@ Sie können [One Piece World Seeker Standard - [PlayStation 4]](https://www.amaz
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B079PC9JQ5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B079PC9JQ5/?tag=tolees0ca-21)

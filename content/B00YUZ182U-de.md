@@ -26,4 +26,4 @@ Es gibt ein [Le Creuset Signature Gusseisen Gourmet-Profitopf  Rund  Ø 30 cm  3
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00YUZ182U/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00YUZ182U/?tag=tolees0ca-21)

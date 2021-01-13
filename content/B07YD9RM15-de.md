@@ -26,4 +26,4 @@ Sie können [McKINLEY Herren Icepak Varel Jacke  Marinenblau  48](https://www.am
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07YD9RM15/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07YD9RM15/?tag=tolees0ca-21)

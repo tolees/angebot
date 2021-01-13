@@ -26,4 +26,4 @@ Sie können [JBL E45BT On-Ear Bluetooth Kopfhörer - Headphones mit Textil-Kopfb
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01M5BURG9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01M5BURG9/?tag=tolees0ca-21)

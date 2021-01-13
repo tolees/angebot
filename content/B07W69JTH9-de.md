@@ -26,4 +26,4 @@ Sie können [Funko 45312 POP Movies: Devil Wears Prada - Andy Sachs Collectible 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07W69JTH9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07W69JTH9/?tag=tolees0ca-21)

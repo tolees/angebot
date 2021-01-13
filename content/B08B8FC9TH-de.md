@@ -26,4 +26,4 @@ Sie können [Smart Alexa Lichtschalter  SAINKO Wifi lichtschalter arbeitet mit A
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B08B8FC9TH/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B08B8FC9TH/?tag=tolees0ca-21)

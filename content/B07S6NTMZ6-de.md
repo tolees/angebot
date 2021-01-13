@@ -26,4 +26,4 @@ Es gibt ein [Puma Damen Smash WNS v2 L Zapatillas  Weiß White-Bright Rose Silve
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07S6NTMZ6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07S6NTMZ6/?tag=tolees0ca-21)

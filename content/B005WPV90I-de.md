@@ -26,4 +26,4 @@ Es gibt ein [LTB Herren Boot-Cut Jeans  Powder Aged 1241  L30W / 30L](https://ww
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B005WPV90I/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B005WPV90I/?tag=tolees0ca-21)

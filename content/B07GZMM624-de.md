@@ -26,4 +26,4 @@ Es gibt ein [TP-Link Kasa Smart WLAN Steckdose  funktionieren mit Amazon Alexa  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07GZMM624/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GZMM624/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Timberland Herren Bradstreet Leather Sensorflex Chukka Boots  Gelb 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01M2YGAH8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01M2YGAH8/?tag=tolees0ca-21)

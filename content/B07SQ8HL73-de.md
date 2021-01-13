@@ -26,4 +26,4 @@ Sie können [Tronsmart T6 Plus 40W Wireless Outdoor Bluetooth Lautsprecher 5.0 m
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07SQ8HL73/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07SQ8HL73/?tag=tolees0ca-21)

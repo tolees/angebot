@@ -26,4 +26,4 @@ Es gibt ein [Lenovo V340-17IWL - Intel CORE i5 - 500GB SSD - 8GB DDR4-RAM - CD/D
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B072Q8FRJZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B072Q8FRJZ/?tag=tolees0ca-21)

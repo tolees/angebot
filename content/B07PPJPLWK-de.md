@@ -26,4 +26,4 @@ Sie können [LG OLED55C97LA 139 cm  55 Zoll  OLED Fernseher  OLED  Dual Triple T
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07PPJPLWK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07PPJPLWK/?tag=tolees0ca-21)

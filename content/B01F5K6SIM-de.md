@@ -26,4 +26,4 @@ Es gibt ein [Nixon Damen Analog Quarz Uhr mit Leder Armband A10912369-00](https:
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01F5K6SIM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01F5K6SIM/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [HP Tango X Smart Home Drucker  HP Instant Ink  WLAN  Bluetooth  int
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07GZTM9RQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07GZTM9RQ/?tag=tolees0ca-21)

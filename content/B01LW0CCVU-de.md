@@ -26,4 +26,4 @@ Es gibt ein [Skylanders Imaginators - Champions Combo Pack  Smolderdash  Dune Ba
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01LW0CCVU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01LW0CCVU/?tag=tolees0ca-21)

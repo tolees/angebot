@@ -26,4 +26,4 @@ Es gibt ein [Trust Verto Wireless Vertikale Ergonomische Maus  Vorbeugung Gegen 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07FM2GLNQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FM2GLNQ/?tag=tolees0ca-21)

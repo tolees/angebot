@@ -26,4 +26,4 @@ Es gibt ein [BBLAC 2KEY B2KEY® SWAT Revolver Military Technique  Baustein aus B
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07QF8CW16/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07QF8CW16/?tag=tolees0ca-21)

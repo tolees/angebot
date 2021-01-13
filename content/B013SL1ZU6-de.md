@@ -26,4 +26,4 @@ Es gibt ein [Logitech K380 Bluetooth-Tastatur für Windows  Mac  Chrome und Andr
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B013SL1ZU6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B013SL1ZU6/?tag=tolees0ca-21)

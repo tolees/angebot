@@ -26,4 +26,4 @@ Es gibt ein [KS Tools 515.1432 3/4" Sechskant-Kraft-Stecknuss  lang  32mm](https
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001NYX1W6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001NYX1W6/?tag=tolees0ca-21)

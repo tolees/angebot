@@ -26,4 +26,4 @@ Es gibt ein [D-Link DGS-1100-08 8-Port Layer2 Gigabit Switch EasySmart  10/100/1
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00C8JWWBQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00C8JWWBQ/?tag=tolees0ca-21)

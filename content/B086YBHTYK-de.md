@@ -26,4 +26,4 @@ Es gibt ein [Quick-Connect INVERTER Split Klimaanlage mit Wärmepumpe 3 2kW Klim
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B086YBHTYK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B086YBHTYK/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Clatronic EK 3321 Eierkocher mit Härtegradeinstellung  7 Eier   ak
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B002UXQJY6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B002UXQJY6/?tag=tolees0ca-21)

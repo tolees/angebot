@@ -26,4 +26,4 @@ Sie können [Fossil Damen-Kette ohne Anhänger Edelstahl JF02856998](https://www
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B077TBPPL1/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B077TBPPL1/?tag=tolees0ca-21)

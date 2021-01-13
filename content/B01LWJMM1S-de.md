@@ -26,4 +26,4 @@ Sie können [Viewsonic XG2703-GS 68 6 cm  27 Zoll  Gaming Monitor  WQHD  IPS-Pan
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01LWJMM1S/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01LWJMM1S/?tag=tolees0ca-21)

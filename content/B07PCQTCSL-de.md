@@ -26,4 +26,4 @@ Sie können [RATEL Mini USB Tischventilator  12 5 cm USB Ventilator 3 Geschwindi
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07PCQTCSL/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07PCQTCSL/?tag=tolees0ca-21)

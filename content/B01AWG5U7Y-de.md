@@ -26,4 +26,4 @@ Sie können [LG 34UC88-B 86 36 cm  34 Zoll  Curved 21:9 UltraWide™ IPS Monitor
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01AWG5U7Y/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01AWG5U7Y/?tag=tolees0ca-21)

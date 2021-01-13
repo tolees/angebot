@@ -26,4 +26,4 @@ Es gibt ein [G-STAR RAW Herren Arctic Expedition Jacke  Grau  Charcoal 942    He
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NDMZ6P4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NDMZ6P4/?tag=tolees0ca-21)

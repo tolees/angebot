@@ -26,4 +26,4 @@ Sie können [Systemsprenger [Blu-ray]](https://www.amazon.de/dp/B07ZWBP1BR/?tag=
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07ZWBP1BR/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07ZWBP1BR/?tag=tolees0ca-21)

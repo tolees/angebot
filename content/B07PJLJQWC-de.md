@@ -26,4 +26,4 @@ Sie können [Konturenlehre Konturmessgerät Duplikator Profil Messwerkzeugkontur
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07PJLJQWC/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07PJLJQWC/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [OSRAM Smart+ Mini Switch Blau  ZigBee Lichtschalter  Dimmer und Fer
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B074PZ7XKR/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B074PZ7XKR/?tag=tolees0ca-21)

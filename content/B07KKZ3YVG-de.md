@@ -26,4 +26,4 @@ Sie können [Street One Damen T-Shirt 313104 Palmira  Schwarz  Black 10001   40]
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07KKZ3YVG/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07KKZ3YVG/?tag=tolees0ca-21)

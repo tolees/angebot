@@ -26,4 +26,4 @@ Es gibt ein [V-Bag movetrack by Vodafone - GPS Tracker  Standortermittlung von T
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07B3YZ8FX/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07B3YZ8FX/?tag=tolees0ca-21)

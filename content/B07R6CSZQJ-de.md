@@ -26,4 +26,4 @@ Es gibt ein [SUADEEX Sicherheitsschuhe Herren Damen Arbeitsschuhe S3 Leicht Spor
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07R6CSZQJ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07R6CSZQJ/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [FYLINA Handyhalterung Fahrrad  Handyhalterung Motorrad  360° Drehb
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07JXSR7NC/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07JXSR7NC/?tag=tolees0ca-21)

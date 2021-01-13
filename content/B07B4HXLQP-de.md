@@ -26,4 +26,4 @@ Es gibt ein [Navitech Rot hartes Wasser-beständiges Mini Desktop PC / Mini PC T
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07B4HXLQP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07B4HXLQP/?tag=tolees0ca-21)

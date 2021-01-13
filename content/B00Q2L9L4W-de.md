@@ -26,4 +26,4 @@ Es gibt ein [Morella® Damen Engels Klangkugel grün Ø 16 mm](https://www.amazo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00Q2L9L4W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00Q2L9L4W/?tag=tolees0ca-21)

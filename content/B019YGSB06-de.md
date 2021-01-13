@@ -26,4 +26,4 @@ Es gibt ein [Ravensburger Spiele 24721 - Spielend Erstes Lernen: Komm  wir kaufe
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B019YGSB06/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B019YGSB06/?tag=tolees0ca-21)

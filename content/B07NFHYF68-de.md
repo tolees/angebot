@@ -26,4 +26,4 @@ Es gibt ein [Tommy Hilfiger Damen TH ESS Hilfiger Hoodie LS Sweatshirt  Rot  Red
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NFHYF68/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NFHYF68/?tag=tolees0ca-21)

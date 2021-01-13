@@ -26,4 +26,4 @@ Sie können [Beats Solo3 Wireless Kopfhörer - Satin Silber](https://www.amazon
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07YVXS5FX/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07YVXS5FX/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Christopeit Türreck Klimmzugstange  1688](https://www.amazon.de/dp
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01BVC4ZWE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01BVC4ZWE/?tag=tolees0ca-21)

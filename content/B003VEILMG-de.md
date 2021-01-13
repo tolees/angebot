@@ -26,4 +26,4 @@ Sie können [Bosch Professional 12V System Akku Bohrschrauber GSR 12V-15  ohne A
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B003VEILMG/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B003VEILMG/?tag=tolees0ca-21)

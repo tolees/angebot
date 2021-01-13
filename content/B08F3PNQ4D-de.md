@@ -26,4 +26,4 @@ Es gibt ein [DARLINGTON & Sohns Grüner Controller für Nintendo 64 N64 Joystick
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08F3PNQ4D/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08F3PNQ4D/?tag=tolees0ca-21)

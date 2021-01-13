@@ -26,4 +26,4 @@ Sie können [Tommy Jeans Damen Tjw Waffle Hybrid Longsleeve Sport Pullover  Blau
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07RGQKPDX/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07RGQKPDX/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Fitbit Unisex-Adult Charge 3 Der Innovative Gesundheits-und Fitness
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07G26PDJQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07G26PDJQ/?tag=tolees0ca-21)

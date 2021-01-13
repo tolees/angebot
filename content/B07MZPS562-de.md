@@ -26,4 +26,4 @@ Es gibt ein [Funko 39697 POP Vinyl: Dragonball Z S6: Vegeta Sammelbares Spielzeu
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07MZPS562/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MZPS562/?tag=tolees0ca-21)

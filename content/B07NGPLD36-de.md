@@ -26,4 +26,4 @@ Es gibt ein [Lioncast LM40 WL Wireless Gaming Maus für kabelloses Gaming  RGB  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NGPLD36/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NGPLD36/?tag=tolees0ca-21)

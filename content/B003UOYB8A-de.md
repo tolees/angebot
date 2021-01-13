@@ -26,4 +26,4 @@ Es gibt ein [Duracell Specialty 2032 Lithium-Knopfzelle 3 V  2er-Packung  CR203
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B003UOYB8A/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B003UOYB8A/?tag=tolees0ca-21)

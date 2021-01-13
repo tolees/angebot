@@ -26,4 +26,4 @@ Sie können [Omars Powerbank 10000mAh Externer Akku Quick Charge 3.0 USB C PD In
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07CLPQ5TK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07CLPQ5TK/?tag=tolees0ca-21)

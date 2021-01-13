@@ -26,4 +26,4 @@ Es gibt ein [XIDU PhilMac Mini PC Al-Legierung Windows 10  8GB DDR4  128GB eMMC 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B088JYX5N2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B088JYX5N2/?tag=tolees0ca-21)

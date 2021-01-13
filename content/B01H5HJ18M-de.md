@@ -26,4 +26,4 @@ Es gibt ein [Libratone TOO Bluetooth Lautsprecher  360° Sound  Touch Bedienung 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01H5HJ18M/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01H5HJ18M/?tag=tolees0ca-21)

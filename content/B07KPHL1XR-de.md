@@ -26,4 +26,4 @@ Sie können [Funko Pop! Games: Warhammer - Blutengel Assault Marine](https://www
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07KPHL1XR/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07KPHL1XR/?tag=tolees0ca-21)

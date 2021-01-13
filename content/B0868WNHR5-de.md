@@ -26,4 +26,4 @@ Sie können [Lenovo Chromebook S340T Laptop 35 6 cm  14 Zoll  1920x1080  Full HD
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0868WNHR5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0868WNHR5/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Funko 40631 POP Vinyl: Movies: IT: Chapter 2-Pennywise w/Dog Tongue
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07PCCT9L3/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07PCCT9L3/?tag=tolees0ca-21)

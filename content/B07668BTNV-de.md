@@ -26,4 +26,4 @@ Es gibt ein [The Luckiest Man](https://www.amazon.de/dp/B07668BTNV/?tag=tolees0c
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07668BTNV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07668BTNV/?tag=tolees0ca-21)

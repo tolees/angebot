@@ -26,4 +26,4 @@ Sie können [HYMY Hülle für Oppo Reno 2 Smartphone + 1 x Schutzfolie Panzergla
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07YY9LNFY/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07YY9LNFY/?tag=tolees0ca-21)

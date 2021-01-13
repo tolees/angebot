@@ -26,4 +26,4 @@ Sie können [devolo dLAN 1200+ WiFi ac Powerline Network Kit  1200 Mbit/s WLAN a
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B074SQG93Z/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B074SQG93Z/?tag=tolees0ca-21)

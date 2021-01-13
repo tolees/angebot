@@ -26,4 +26,4 @@ Es gibt ein [DARLINGTON & Sohns Blauer Controller für Nintendo 64 N64 Joystick 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08F3P72JT/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08F3P72JT/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Acer Swift 1  SF114-32-P31S  35 6 cm  14 Zoll Full-HD IPS matt  Ult
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07DVFSTKS/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07DVFSTKS/?tag=tolees0ca-21)

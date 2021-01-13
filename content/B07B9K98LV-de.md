@@ -26,4 +26,4 @@ Es gibt ein [Tommy Hilfiger Herren-Armbanduhr Denim](https://www.amazon.de/dp/B0
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07B9K98LV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07B9K98LV/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Funko Fortnite Pop! Vinyl Figur 459 Raven aus Kunststoff   Geschenk
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07L48JXFR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07L48JXFR/?tag=tolees0ca-21)

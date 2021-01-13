@@ -26,4 +26,4 @@ Sie können [Bosch Professional Bohrmaschine GBM 13-2 RE  Schnellspannbohrfutter
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B013WALD1O/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B013WALD1O/?tag=tolees0ca-21)

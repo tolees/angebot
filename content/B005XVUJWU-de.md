@@ -26,4 +26,4 @@ Sie können [Bosch 0092S40070 Starterbatterien](https://www.amazon.de/dp/B005XVU
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B005XVUJWU/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B005XVUJWU/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Bang & Olufsen BeoPlay S3 Bluetooth-Lautsprecher  schwarz](https:/
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01E3JTPFE/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01E3JTPFE/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Ehdis 1.5" High Visibility Mini Razor Kunststoff zweischneidige Kli
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06XWP7QW1/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06XWP7QW1/?tag=tolees0ca-21)

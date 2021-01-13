@@ -26,4 +26,4 @@ Sie können [JBL GO 2 kleine Musikbox - Wasserfester  portabler Bluetooth-Lautsp
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07B8V5DCJ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07B8V5DCJ/?tag=tolees0ca-21)

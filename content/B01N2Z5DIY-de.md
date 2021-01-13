@@ -26,4 +26,4 @@ Sie können [Samsung Galaxy A3  2017  Smartphone  12 04 cm  4 7 Zoll  Touch-Disp
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01N2Z5DIY/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01N2Z5DIY/?tag=tolees0ca-21)

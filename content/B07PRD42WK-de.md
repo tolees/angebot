@@ -26,4 +26,4 @@ Es gibt ein [Samsung LS01R The Serif 108 cm  43 Zoll  QLED Lifestyle Fernseher  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PRD42WK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PRD42WK/?tag=tolees0ca-21)

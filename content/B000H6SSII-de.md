@@ -26,4 +26,4 @@ Es gibt ein [JBL 61672 Solar-Leuchtstoffröhre Tageslichtröhre für Süßwasser
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000H6SSII/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000H6SSII/?tag=tolees0ca-21)

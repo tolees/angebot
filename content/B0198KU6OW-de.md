@@ -26,4 +26,4 @@ Es gibt ein [Funko 6356 S1 No Actionfigur Fairy Tail: Natsu  Multi  Einheitsgrö
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0198KU6OW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0198KU6OW/?tag=tolees0ca-21)

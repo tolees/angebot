@@ -26,4 +26,4 @@ Es gibt ein [Pop Dirty Dancing Johnny Vinyl Figure](https://www.amazon.de/dp/B07
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07HB3HKD6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HB3HKD6/?tag=tolees0ca-21)

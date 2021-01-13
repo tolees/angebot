@@ -26,4 +26,4 @@ Sie können [elloLife Gummiband Rund 【5mm 50M】 Gummikordel Nähen Weiss Gumm
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B088FZ21WX/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B088FZ21WX/?tag=tolees0ca-21)

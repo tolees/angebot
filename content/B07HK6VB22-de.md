@@ -26,4 +26,4 @@ Es gibt ein [Marttiini 183609 Gürtelmesser Big Dipper Messer  Silber](https://w
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07HK6VB22/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HK6VB22/?tag=tolees0ca-21)

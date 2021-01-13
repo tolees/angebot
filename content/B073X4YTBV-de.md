@@ -26,4 +26,4 @@ Es gibt ein [KLIM OTG Brillen Clip on Gläser gegen blaues Licht NEU – Guter S
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B073X4YTBV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B073X4YTBV/?tag=tolees0ca-21)

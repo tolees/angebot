@@ -26,4 +26,4 @@ Es gibt ein [AVIWIS Micro USB Kabel  [4Pack 0.3M 1M 2M 3M] Nylon Micro USB Ladek
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07V9Q58RP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07V9Q58RP/?tag=tolees0ca-21)

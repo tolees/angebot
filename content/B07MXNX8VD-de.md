@@ -26,4 +26,4 @@ Es gibt ein [DELSEY PARIS COMETE Koffer  67 cm  64.1 liters  Grau  Gris Argent ]
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07MXNX8VD/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MXNX8VD/?tag=tolees0ca-21)

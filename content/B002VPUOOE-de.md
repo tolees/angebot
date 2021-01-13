@@ -26,4 +26,4 @@ Es gibt ein [Johnnie Walker Red Label Blended Scotch Whisky - Rauchige Note mit 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B002VPUOOE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B002VPUOOE/?tag=tolees0ca-21)

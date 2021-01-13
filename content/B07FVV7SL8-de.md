@@ -26,4 +26,4 @@ Es gibt ein [Laser Entfernungsmesser Distanz 50M LOMVUM Laser Messgerät Entfern
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07FVV7SL8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FVV7SL8/?tag=tolees0ca-21)

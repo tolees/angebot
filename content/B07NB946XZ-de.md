@@ -26,4 +26,4 @@ Es gibt ein [A Plague Tale Innocence [Xbox One]](https://www.amazon.de/dp/B07NB9
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NB946XZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NB946XZ/?tag=tolees0ca-21)

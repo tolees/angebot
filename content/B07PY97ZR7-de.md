@@ -26,4 +26,4 @@ Sie können [Funko 39719 POP Vinyl: Animation: Simpsons-Bart Fly Sammelbares Spi
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07PY97ZR7/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07PY97ZR7/?tag=tolees0ca-21)

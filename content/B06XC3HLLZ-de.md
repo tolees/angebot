@@ -26,4 +26,4 @@ Sie können [Huawei P10 Smartphone  12 95 cm  5 1 Zoll  Touch-Display  64 GB Int
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06XC3HLLZ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06XC3HLLZ/?tag=tolees0ca-21)

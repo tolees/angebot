@@ -26,4 +26,4 @@ Es gibt ein [Sylvanian Families 5367 Gourmet Kitchen Set  Mehrfarbig](https://ww
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07P6WDXMR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07P6WDXMR/?tag=tolees0ca-21)

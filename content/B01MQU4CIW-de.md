@@ -26,4 +26,4 @@ Es gibt ein [Hasbro Spiele C0376100 - Rudi Reck  Kinderspiel](https://www.amazon
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01MQU4CIW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MQU4CIW/?tag=tolees0ca-21)

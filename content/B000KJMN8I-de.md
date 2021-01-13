@@ -26,4 +26,4 @@ Es gibt ein [Scotch 5501933 Klebeband 550  Polypropylenfolie  19 mm x 33 m  8 Ro
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000KJMN8I/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000KJMN8I/?tag=tolees0ca-21)

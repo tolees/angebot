@@ -26,4 +26,4 @@ Es gibt ein [foodspring L-Carnitin Kapseln  120 Stück  Vegan  Ideal für das Fi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01MSBU20C/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MSBU20C/?tag=tolees0ca-21)

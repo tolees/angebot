@@ -26,4 +26,4 @@ Es gibt ein [erima Sporttasche  Granit/Schwarz  L  76 Liter  723334](https://www
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00BHSF8KQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00BHSF8KQ/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Brother JX17FE Nähmaschine mit 17 Nähprogramme  Freiarm  Automati
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07W7YZJQH/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07W7YZJQH/?tag=tolees0ca-21)

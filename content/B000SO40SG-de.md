@@ -26,4 +26,4 @@ Es gibt ein [Rössler 1329452707 - S.O.H.O. Wire-O Fotoalbum 290 x 290 mm  30 Bl
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000SO40SG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000SO40SG/?tag=tolees0ca-21)

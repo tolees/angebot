@@ -26,4 +26,4 @@ Es gibt ein [ONLY Damen Onlnew ROYAL REG SK. Biker Coated NOOS Hose  Schwarz  Bl
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01J3WL2SY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01J3WL2SY/?tag=tolees0ca-21)

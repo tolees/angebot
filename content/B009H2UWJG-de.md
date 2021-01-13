@@ -26,4 +26,4 @@ Es gibt ein [Russian Standard Original Vodka  1 x 0.7 l ](https://www.amazon.de/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B009H2UWJG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B009H2UWJG/?tag=tolees0ca-21)

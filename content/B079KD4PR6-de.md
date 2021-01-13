@@ -26,4 +26,4 @@ Es gibt ein [Hot Wheels FTB67 - City Ultimative Autowaschanlage mit Krokodil  Wa
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B079KD4PR6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B079KD4PR6/?tag=tolees0ca-21)

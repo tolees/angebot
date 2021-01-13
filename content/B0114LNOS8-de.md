@@ -26,4 +26,4 @@ Es gibt ein [Dell KB216 580-ADHE Mutlimedia Tastatur schwarz  QWERTZ ](https://w
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0114LNOS8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0114LNOS8/?tag=tolees0ca-21)

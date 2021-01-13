@@ -26,4 +26,4 @@ Es gibt ein [Master & Dynamic MH40 Leica-Ausgabe: ein erstklassiger  kabelgebund
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01A5SW50Y/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01A5SW50Y/?tag=tolees0ca-21)

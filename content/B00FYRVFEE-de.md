@@ -26,4 +26,4 @@ Es gibt ein [Kopfschutz / Schutzhelmkombination Yukon   stoßfester und atmungsa
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00FYRVFEE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00FYRVFEE/?tag=tolees0ca-21)

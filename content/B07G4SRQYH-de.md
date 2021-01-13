@@ -26,4 +26,4 @@ Es gibt ein [Hugo Boss Damen Multi Zifferblatt Quarz Uhr mit Roségold Armband 1
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07G4SRQYH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07G4SRQYH/?tag=tolees0ca-21)

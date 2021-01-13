@@ -26,4 +26,4 @@ Sie können [Euphoria](https://www.amazon.de/dp/B01C3IMXDI/?tag=tolees0ca-21) mi
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01C3IMXDI/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01C3IMXDI/?tag=tolees0ca-21)

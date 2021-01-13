@@ -26,4 +26,4 @@ Sie können [Microsoft Ergonomic Mouse](https://www.amazon.de/dp/B07YGQJ9XN/?tag
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07YGQJ9XN/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07YGQJ9XN/?tag=tolees0ca-21)

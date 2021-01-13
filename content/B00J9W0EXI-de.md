@@ -26,4 +26,4 @@ Es gibt ein [Wunderbare Macht [Blu-ray]](https://www.amazon.de/dp/B00J9W0EXI/?ta
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00J9W0EXI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00J9W0EXI/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Jomos Herren 1928 Low-Top  Braun  capucino/Cognac 155-3123   43 EU]
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00OX1LDV2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00OX1LDV2/?tag=tolees0ca-21)

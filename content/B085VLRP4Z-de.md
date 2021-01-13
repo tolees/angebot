@@ -26,4 +26,4 @@ Es gibt ein [Gowind6 Video-Kabel für SNES Nintendo 64 N64  1 8 m ](https://www.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B085VLRP4Z/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B085VLRP4Z/?tag=tolees0ca-21)

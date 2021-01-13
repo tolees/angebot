@@ -26,4 +26,4 @@ Sie können [Krups HZ4071 Perfect Mix 9000 Pro Stabmixer | inklusive 4 Zubehör 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01K47HCQS/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01K47HCQS/?tag=tolees0ca-21)

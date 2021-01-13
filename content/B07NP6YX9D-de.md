@@ -26,4 +26,4 @@ Sie können [Ersatz Fernbedienung for Philips TV 22PFL3403/60 22PFL3403S/10 22PF
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07NP6YX9D/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07NP6YX9D/?tag=tolees0ca-21)

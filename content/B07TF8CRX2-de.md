@@ -26,4 +26,4 @@ Es gibt ein [Hasbro Monopoly E7572100 Monopoly Spiel: L.O.L. Surprise Brettspiel
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07TF8CRX2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07TF8CRX2/?tag=tolees0ca-21)

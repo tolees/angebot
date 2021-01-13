@@ -26,4 +26,4 @@ Es gibt ein [HERMKO 5722 2er Pack Damen 3/4-Leggings mit Spitze  Farbe:weiß  Gr
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01LL5MV2W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01LL5MV2W/?tag=tolees0ca-21)

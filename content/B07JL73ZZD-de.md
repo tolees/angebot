@@ -26,4 +26,4 @@ Sie können [BenQ ZOWIE RL2460S 60 96 cm  24 Zoll  Konsolen e-Sports Monitor  of
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07JL73ZZD/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07JL73ZZD/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Bosch Professional 18V System Akku Kreissäge GKS 18V-57 G  Sägebl
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01KWJMTIO/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01KWJMTIO/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Funko 24704 POP Vinylfigur: James Bond: Sean Connery  Multi](https:
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07599YQKW/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07599YQKW/?tag=tolees0ca-21)

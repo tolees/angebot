@@ -26,4 +26,4 @@ Sie können [Mattel Games Y9598 - Scrabble Original Wörterspiel und Brettspiel 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B009NFGI5Y/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B009NFGI5Y/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Tommy Hilfiger Sportuhr 1791720](https://www.amazon.de/dp/B0848N2YZ
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0848N2YZK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0848N2YZK/?tag=tolees0ca-21)

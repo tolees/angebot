@@ -26,4 +26,4 @@ Es gibt ein [Bosch Professional Baustativ BT 150  55-157 cm  1 5 kg  Stativ-Gewi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00OBBUBSU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00OBBUBSU/?tag=tolees0ca-21)

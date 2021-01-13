@@ -26,4 +26,4 @@ Es gibt ein [iMangoo USB C Audio Adapter Typ C auf 3 5 mm Kopfhöreranschluss Au
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PLV2BXR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PLV2BXR/?tag=tolees0ca-21)

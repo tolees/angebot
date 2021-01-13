@@ -26,4 +26,4 @@ Es gibt ein [SanDisk SSD PLUS 960GB Sata III 2 5 Zoll Interne SSD  bis zu 535 M
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01LY5ZZ4P/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01LY5ZZ4P/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Craft Weste Visibility Vest Warnweste  neon  XL](https://www.amazon
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0020HRRAC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0020HRRAC/?tag=tolees0ca-21)

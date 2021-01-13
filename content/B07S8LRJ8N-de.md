@@ -26,4 +26,4 @@ Es gibt ein [HP Pavilion Gaming 17-cd0222ng  17 3 Zoll / Full HD IPS 60Hz  Noteb
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07S8LRJ8N/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07S8LRJ8N/?tag=tolees0ca-21)

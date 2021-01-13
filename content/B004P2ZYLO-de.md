@@ -26,4 +26,4 @@ Es gibt ein [Umarex  Spitzkopf  4 5mm für Diabolo Cobra Luftpistolen  super per
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B004P2ZYLO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B004P2ZYLO/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Küchenarmatur  Dalmo Wasserhahn Küche  Einhand-Spültischbatterie
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07QGVVFLL/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07QGVVFLL/?tag=tolees0ca-21)

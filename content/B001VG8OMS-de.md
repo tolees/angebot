@@ -26,4 +26,4 @@ Es gibt ein [Calvin Klein Underwear Herren Cotton Stretch Slip 3er Pack  Schwarz
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001VG8OMS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001VG8OMS/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [AKASO Smart WLAN Kamera HD 1080P IP Überwachungskamera Alexa/ Echo
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07HGWTTMN/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07HGWTTMN/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Funko 40325 POP Vinyl: RWBY: Weiss Schnee Sammelbares Spielzeug  Me
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07P96KY7Q/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07P96KY7Q/?tag=tolees0ca-21)

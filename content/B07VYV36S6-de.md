@@ -26,4 +26,4 @@ Es gibt ein [SAMSUNG Galaxy Note 10+ Smartphone Bundle  17.2cm  6.8 Zoll  256GB 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07VYV36S6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07VYV36S6/?tag=tolees0ca-21)

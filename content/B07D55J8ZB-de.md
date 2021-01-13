@@ -26,4 +26,4 @@ Es gibt ein [Harry Potter Fantastic Beasts 2 Pop! Vinyl Figur 17 Thestral aus Ku
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07D55J8ZB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07D55J8ZB/?tag=tolees0ca-21)

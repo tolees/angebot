@@ -26,4 +26,4 @@ Es gibt ein [APEMAN Dashcam 1080P Full HD DVR Autokamera 3 Zoll LCD-Bildschirm 1
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07DL4XL94/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07DL4XL94/?tag=tolees0ca-21)

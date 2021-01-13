@@ -26,4 +26,4 @@ Es gibt ein [Gimi Modular 4 Turm-Wäscheständer aus Stahl  40 m Trockenlänge](
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B008OW2VW6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B008OW2VW6/?tag=tolees0ca-21)

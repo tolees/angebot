@@ -26,4 +26,4 @@ Es gibt ein [Tommy Hilfiger Damen Multi Zifferblatt Quarz Uhr mit Roségold Armb
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07G4SRQY6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07G4SRQY6/?tag=tolees0ca-21)

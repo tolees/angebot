@@ -26,4 +26,4 @@ Es gibt ein [CHARLLEAN Panzerglas für iPhone X/XS  3 Stück  3D Vollständigen 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07X2WLMBL/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07X2WLMBL/?tag=tolees0ca-21)

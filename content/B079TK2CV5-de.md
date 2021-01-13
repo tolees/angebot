@@ -26,4 +26,4 @@ Sie können [Goobay 45400 2 in 1 Superspeed Adapter USB 3.0  Typ A  auf USB-C  v
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B079TK2CV5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B079TK2CV5/?tag=tolees0ca-21)

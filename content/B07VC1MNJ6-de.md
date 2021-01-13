@@ -26,4 +26,4 @@ Es gibt ein [Intenso USB-Stick Ultra Line 512 GB USB 3.0](https://www.amazon.de/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07VC1MNJ6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07VC1MNJ6/?tag=tolees0ca-21)

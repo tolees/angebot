@@ -26,4 +26,4 @@ Sie können [Sony GTKXB60B.CEL GTK-XB60 Bluetooth Party Lautsprecher  Extra Bass
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B074X1KZLF/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B074X1KZLF/?tag=tolees0ca-21)

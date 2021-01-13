@@ -26,4 +26,4 @@ Es gibt ein [Funko 39699 POP Vinyl: Dragonball Z S6: Radditz Sammelbares Spielze
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07MZPR8LH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MZPR8LH/?tag=tolees0ca-21)

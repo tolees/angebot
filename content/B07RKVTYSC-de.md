@@ -26,4 +26,4 @@ Sie können [USB 3.0 WLAN Stick WLAN Adapter PC WiFi Adapter USB WiFi Dongle WiF
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07RKVTYSC/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07RKVTYSC/?tag=tolees0ca-21)

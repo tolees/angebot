@@ -26,4 +26,4 @@ Es gibt ein [Coredy R600 Saugroboter mit Boost Intellect  1600Pa Saugkraft  7 2c
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07S68CKNP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07S68CKNP/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Funko 33253 LOTR/Hobbit: Galadriel POP Vinylfigur  Multi  Standard]
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07DFJ5XHM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07DFJ5XHM/?tag=tolees0ca-21)

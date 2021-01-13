@@ -26,4 +26,4 @@ Es gibt ein [funny-frisch Chipsfrisch Currywurst Style  10er Pack  10 x 175 g ](
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B007XREA72/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B007XREA72/?tag=tolees0ca-21)

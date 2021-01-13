@@ -26,4 +26,4 @@ Es gibt ein [Ankermann Business Office Work PC Intel Core i5 4X 3.1 GHz Graphic 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07LDRH928/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07LDRH928/?tag=tolees0ca-21)

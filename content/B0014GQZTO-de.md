@@ -26,4 +26,4 @@ Es gibt ein [Bosch Professional Diamant-Dosensenker mit Power-Change-Adapter  Ø
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0014GQZTO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0014GQZTO/?tag=tolees0ca-21)

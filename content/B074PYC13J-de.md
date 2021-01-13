@@ -26,4 +26,4 @@ Sie können [OSRAM Smart+ LED  ZigBee GU5.3 Reflektor  12V  warmweiß bis tagesl
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B074PYC13J/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B074PYC13J/?tag=tolees0ca-21)

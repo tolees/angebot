@@ -26,4 +26,4 @@ Es gibt ein [Anker Soundcore Flare 2 Bluetooth Lautsprecher  mit IPX7 Wasserschu
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07ZRVX6RM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07ZRVX6RM/?tag=tolees0ca-21)

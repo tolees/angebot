@@ -26,4 +26,4 @@ Sie können [Kopp 939633016 VersaHIT Dual Einbausteckdose  16A  IP54  3400 W  We
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B077SVZDPK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B077SVZDPK/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Philips HF3500/01 Lichtwecker 7.5 W Wake-Up Light  weiß](https://w
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00W1H9AW4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00W1H9AW4/?tag=tolees0ca-21)

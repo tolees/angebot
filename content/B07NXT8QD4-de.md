@@ -26,4 +26,4 @@ Es gibt ein [Vicstar [2 Stück] Samsung Galaxy S10e Panzerglas Displayschutzfoli
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NXT8QD4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NXT8QD4/?tag=tolees0ca-21)

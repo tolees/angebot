@@ -26,4 +26,4 @@ Es gibt ein [Oral-B PRO 3000 CrossAction](https://www.amazon.de/dp/B00KBWBI6M/?t
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00KBWBI6M/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00KBWBI6M/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Bluetooth Lautsprecher  VOTOMY Bluetooth Kabelloser Lautsprecher  3
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B088CRVF93/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B088CRVF93/?tag=tolees0ca-21)

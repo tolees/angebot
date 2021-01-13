@@ -26,4 +26,4 @@ Sie können [WLAN Repeater  2 4GHz WLAN Verstärker WiFi Extender mit Router/AP/
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B08CV7VX1V/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B08CV7VX1V/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Hazet 810SPC/6 Schraubendreher-Satz](https://www.amazon.de/dp/B004H
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B004H4EFF6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B004H4EFF6/?tag=tolees0ca-21)

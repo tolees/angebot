@@ -26,4 +26,4 @@ Es gibt ein [ONLY Damen Hose Einfarbige L34Black](https://www.amazon.de/dp/B01A6
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01A6ZFMQ0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01A6ZFMQ0/?tag=tolees0ca-21)

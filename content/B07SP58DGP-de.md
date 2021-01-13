@@ -26,4 +26,4 @@ Es gibt ein [Netgear GC108P Gigabit 8 Port Ethernet LAN Switch  8x PoE+ 64 W  In
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07SP58DGP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07SP58DGP/?tag=tolees0ca-21)

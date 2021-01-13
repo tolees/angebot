@@ -26,4 +26,4 @@ Sie können [AMD Ryzen 7 Prozessor Schwarz Ryzen 7 2700 Max](https://www.amazon.
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07KXZ7CLZ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07KXZ7CLZ/?tag=tolees0ca-21)

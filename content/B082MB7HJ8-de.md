@@ -26,4 +26,4 @@ Es gibt ein [Oacvien Bluetooth Adapter 5.0 Transmitter Empfänger  2 in 1 Mini B
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B082MB7HJ8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B082MB7HJ8/?tag=tolees0ca-21)

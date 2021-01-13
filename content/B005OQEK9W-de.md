@@ -26,4 +26,4 @@ Sie können [Bosch Tischbohrmaschine PBD 40  710 W  Max. Bohr-Ø in Stahl/Holz: 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B005OQEK9W/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B005OQEK9W/?tag=tolees0ca-21)

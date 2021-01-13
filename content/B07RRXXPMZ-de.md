@@ -26,4 +26,4 @@ Sie können [Ultimate Ears Wonderboom 2 Tragbarer Bluetooth-Lautsprecher  360° 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07RRXXPMZ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07RRXXPMZ/?tag=tolees0ca-21)

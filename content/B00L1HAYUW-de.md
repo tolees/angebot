@@ -26,4 +26,4 @@ Sie können [Exquisit KS 85-9 RVA+ Kühlschrank/ 82 Liter Nutzinhalt/ EEK: A+/ T
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B00L1HAYUW/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B00L1HAYUW/?tag=tolees0ca-21)

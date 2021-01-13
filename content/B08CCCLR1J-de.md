@@ -26,4 +26,4 @@ Sie können [Hoseili Bluetooth Kopfhörer In Ear Kopfhörer Kabellos mit 120 Stu
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B08CCCLR1J/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B08CCCLR1J/?tag=tolees0ca-21)

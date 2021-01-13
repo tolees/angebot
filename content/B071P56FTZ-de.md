@@ -26,4 +26,4 @@ Es gibt ein [ONLY Damen onlELCOS 4/5 AOP TOP JRS NOOS Langarmshirt  Mehrfarbig  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B071P56FTZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B071P56FTZ/?tag=tolees0ca-21)

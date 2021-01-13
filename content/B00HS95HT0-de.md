@@ -26,4 +26,4 @@ Es gibt ein [Pieces of a Man  180 Gr.Gatefold Black Vinyl  [Vinyl LP]](https://w
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00HS95HT0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00HS95HT0/?tag=tolees0ca-21)

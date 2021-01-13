@@ -26,4 +26,4 @@ Es gibt ein [KALFF KFZ-Verbandkasten Compact DIN 13164 mit Erste-Hilfe Broschür
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00FSEJHD4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00FSEJHD4/?tag=tolees0ca-21)

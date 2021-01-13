@@ -26,4 +26,4 @@ Sie können [Asmodee CGED0036 - Codenames Duett  Familienspiel  deutsch](https:/
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B076ZGN9NS/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B076ZGN9NS/?tag=tolees0ca-21)

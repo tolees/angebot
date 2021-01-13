@@ -26,4 +26,4 @@ Es gibt ein [Salomon Herren Trail Running Schuhe  XA PRO 3D GTX  Farbe: navy  na
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01HD6S0YG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01HD6S0YG/?tag=tolees0ca-21)

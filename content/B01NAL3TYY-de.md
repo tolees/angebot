@@ -26,4 +26,4 @@ Sie können [HyperX Impact DDR4 HX426S15IB2K2/32 Arbeitsspeicher 2666MHz CL15 SO
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01NAL3TYY/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01NAL3TYY/?tag=tolees0ca-21)

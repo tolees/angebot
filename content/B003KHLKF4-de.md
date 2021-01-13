@@ -26,4 +26,4 @@ Es gibt ein [Proxxon 27130 MICRO-Heißluftpistole MH 550 mit 3 Zusatzdüsen](htt
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B003KHLKF4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B003KHLKF4/?tag=tolees0ca-21)

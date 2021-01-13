@@ -26,4 +26,4 @@ Sie können [KabelDirekt - 4K HDMI Kabel - 2m - kompatibel mit  HDMI 2.0a/b 2.0 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B004BEMD5Q/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B004BEMD5Q/?tag=tolees0ca-21)

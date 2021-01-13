@@ -26,4 +26,4 @@ Sie können [HP 27f  27 Zoll Full HD IPS  Monitor  AMD FreeSync  HDMI  VGA  1920
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07CPCHSV5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07CPCHSV5/?tag=tolees0ca-21)

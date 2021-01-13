@@ -26,4 +26,4 @@ Es gibt ein [Hasbro FurReal Friends E0497EU4 Frisierspaß Hündchen  elektronisc
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B077BC6NKB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B077BC6NKB/?tag=tolees0ca-21)

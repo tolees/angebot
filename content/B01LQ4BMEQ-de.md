@@ -26,4 +26,4 @@ Es gibt ein [Razer Ornata Chroma - Mecha-Membrane Gaming Keyboard  Tastatur mit 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01LQ4BMEQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01LQ4BMEQ/?tag=tolees0ca-21)

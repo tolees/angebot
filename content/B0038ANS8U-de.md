@@ -26,4 +26,4 @@ Es gibt ein [KidKraft 53179 - Rosa Retroküche](https://www.amazon.de/dp/B0038AN
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0038ANS8U/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0038ANS8U/?tag=tolees0ca-21)

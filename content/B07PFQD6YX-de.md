@@ -26,4 +26,4 @@ Es gibt ein [Original BestLoft® Weinregal Amber aus Eiche Wandregal Original Lo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PFQD6YX/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PFQD6YX/?tag=tolees0ca-21)

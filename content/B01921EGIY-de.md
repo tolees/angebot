@@ -26,4 +26,4 @@ Sie können [Funko 6371 No Actionfigur Tokyo Ghoul: Ken Kaneki](https://www.amaz
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01921EGIY/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01921EGIY/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [CYD 45W Notebook-Netzteil für Lenovo Yoga 310-14 510-14 710-13 Ide
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B078PGWMFT/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B078PGWMFT/?tag=tolees0ca-21)

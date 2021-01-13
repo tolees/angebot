@@ -26,4 +26,4 @@ Es gibt ein [Pepe Jeans Damen Jeans Soho  Blau  D26   29W/30L](https://www.amazo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B076W5GMG6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B076W5GMG6/?tag=tolees0ca-21)

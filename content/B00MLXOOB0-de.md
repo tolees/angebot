@@ -26,4 +26,4 @@ Es gibt ein [Sony CMT-X3CD Micro-HiFi System  CD  USB  Bluetooth  20 Watt  schwa
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00MLXOOB0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00MLXOOB0/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Huawei Wireless Charger Supercharge mit Adapter CP60  Kabellose Lad
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07JD35YS6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07JD35YS6/?tag=tolees0ca-21)

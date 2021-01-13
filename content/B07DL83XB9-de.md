@@ -26,4 +26,4 @@ Sie können [Landwirtschafts-Simulator 19 PS4](https://www.amazon.de/dp/B07DL83X
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07DL83XB9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07DL83XB9/?tag=tolees0ca-21)

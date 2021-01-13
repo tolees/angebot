@@ -26,4 +26,4 @@ Es gibt ein [GANT Herren Pullover 83072  Gr. Medium  Grau  NAVY 405 ](https://ww
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B004E9U2MY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B004E9U2MY/?tag=tolees0ca-21)

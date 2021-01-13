@@ -26,4 +26,4 @@ Es gibt ein [Philips Hue LED 2-er Buratto Spot inkl. Dimmschalter  dimmbar  alle
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0767BT4PB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0767BT4PB/?tag=tolees0ca-21)

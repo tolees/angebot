@@ -26,4 +26,4 @@ Es gibt ein [Pentel Correction Pen/ZLC31-WG fein weiß](https://www.amazon.de/dp
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000KJOBNI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000KJOBNI/?tag=tolees0ca-21)

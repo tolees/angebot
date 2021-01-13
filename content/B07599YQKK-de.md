@@ -26,4 +26,4 @@ Sie können [Funko 24520 POP Bobble: Marvel: GOTG TT: Gamora](https://www.amazon
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07599YQKK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07599YQKK/?tag=tolees0ca-21)

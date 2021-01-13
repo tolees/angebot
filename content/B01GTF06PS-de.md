@@ -26,4 +26,4 @@ Es gibt ein [Rightwell Lupenbrille mit Licht Hände Frei Kopfband Lupen mit 2 LE
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01GTF06PS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01GTF06PS/?tag=tolees0ca-21)

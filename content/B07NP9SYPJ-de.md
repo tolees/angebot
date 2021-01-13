@@ -26,4 +26,4 @@ Sie können [Samsung N5375 80 cm  32 Zoll  LED Fernseher  Full HD  Triple Tuner 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07NP9SYPJ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07NP9SYPJ/?tag=tolees0ca-21)

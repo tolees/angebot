@@ -26,4 +26,4 @@ Es gibt ein [Dittzz Technic Avtoros Shaman 8x8 Off-Roader Modell  2.4Ghz RC Auto
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B085XZ6KNK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B085XZ6KNK/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Spyderco Para 3 Taschenmesser Schwarz  Klingenlänge: 7 6 cm  01SP9
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06XPKY5XD/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06XPKY5XD/?tag=tolees0ca-21)

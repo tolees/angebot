@@ -26,4 +26,4 @@ Es gibt ein [Omega 3 Kapseln 2000mg - Fischöl 660 EPA 440 DHA pro Portion - 180
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01LXOQ54Z/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01LXOQ54Z/?tag=tolees0ca-21)

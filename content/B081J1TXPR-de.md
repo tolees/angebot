@@ -26,4 +26,4 @@ Sie können [OneOdio Bluetooth Kopfhörer Over Ear Geschlossene HiFi Studiokopfh
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B081J1TXPR/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B081J1TXPR/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [LEGO 8869 Power Functions Schalter für die Power Functions-Motoren
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B003HJM0K4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B003HJM0K4/?tag=tolees0ca-21)

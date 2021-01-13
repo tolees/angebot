@@ -26,4 +26,4 @@ Es gibt ein [Sylvanian Families Kinderzimmer-Möbel](https://www.amazon.de/dp/B0
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00CHILPPW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00CHILPPW/?tag=tolees0ca-21)

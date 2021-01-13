@@ -26,4 +26,4 @@ Sie können [Brennenstuhl Comfort-Line Plus  Steckdosenleiste 6-fach  Steckerlei
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01LYZERF7/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01LYZERF7/?tag=tolees0ca-21)

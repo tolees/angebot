@@ -26,4 +26,4 @@ Es gibt ein [Acer Aspire 5  A517-51-3666  43 9 cm  17 3 Zoll Full-HD matt  Multi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07JW4TQDY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07JW4TQDY/?tag=tolees0ca-21)

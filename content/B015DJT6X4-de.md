@@ -26,4 +26,4 @@ Es gibt ein [Siemens EX645LYC1E iQ700 Kochfeld Elektro / Ceran/Glaskeramik / 58 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B015DJT6X4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B015DJT6X4/?tag=tolees0ca-21)

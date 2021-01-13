@@ -26,4 +26,4 @@ Es gibt ein [Funko 38481 POP Bobble Marvel Studios 10: Doctor Strange  Chrome  S
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07J34TNPQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07J34TNPQ/?tag=tolees0ca-21)

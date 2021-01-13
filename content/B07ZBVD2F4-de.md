@@ -26,4 +26,4 @@ Es gibt ein [Diesel Herren Chronograph Quarz Uhr mit Edelstahl Armband DZ4525](h
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07ZBVD2F4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07ZBVD2F4/?tag=tolees0ca-21)

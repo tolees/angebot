@@ -26,4 +26,4 @@ Sie können [SanDisk Extreme PRO Portable SSD externe Festplatte 500GB   bis zu 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07TMN4LR7/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07TMN4LR7/?tag=tolees0ca-21)

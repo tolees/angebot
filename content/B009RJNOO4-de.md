@@ -26,4 +26,4 @@ Es gibt ein [Inter Link 19500010 Regal "Parini 1"  1 Boden  2 Fächer Sonoma Eic
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B009RJNOO4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B009RJNOO4/?tag=tolees0ca-21)

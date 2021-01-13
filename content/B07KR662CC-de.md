@@ -26,4 +26,4 @@ Es gibt ein [TOM TAILOR Herren T-Shirts/Tops T-Shirt mit Logo-Print Tarmac Grey 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KR662CC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KR662CC/?tag=tolees0ca-21)

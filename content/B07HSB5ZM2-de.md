@@ -26,4 +26,4 @@ Es gibt ein [SHARP PS 940 Partylautsprecher mit DJ-Mischpult und eingebautem Akk
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07HSB5ZM2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HSB5ZM2/?tag=tolees0ca-21)

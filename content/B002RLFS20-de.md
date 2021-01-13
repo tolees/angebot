@@ -26,4 +26,4 @@ Es gibt ein [Soehnle Page Profi Digitalwaage für max. 15 kg  digitale Küchenwa
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B002RLFS20/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B002RLFS20/?tag=tolees0ca-21)

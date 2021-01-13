@@ -26,4 +26,4 @@ Sie können [D-Link DGS-1024D Gigabit Ethernet Switch  24 Ports  10/100/1000 Mbi
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B00061LQZQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B00061LQZQ/?tag=tolees0ca-21)

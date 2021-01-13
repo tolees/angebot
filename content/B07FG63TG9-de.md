@@ -26,4 +26,4 @@ Sie können [Huawei 55030237 FreeBuds Wireless Earphones  schwarz](https://www.a
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07FG63TG9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07FG63TG9/?tag=tolees0ca-21)

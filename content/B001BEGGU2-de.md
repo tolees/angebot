@@ -26,4 +26,4 @@ Es gibt ein [Sebamed Trockene Haut Lotion Urea Akut 200ml](https://www.amazon.de
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001BEGGU2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001BEGGU2/?tag=tolees0ca-21)

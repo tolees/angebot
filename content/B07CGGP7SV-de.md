@@ -26,4 +26,4 @@ Sie können [Samsung MZ-V7E500BW 970 EVO 500 GB NVMe M.2 Interne SSD Schwarz](ht
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07CGGP7SV/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07CGGP7SV/?tag=tolees0ca-21)

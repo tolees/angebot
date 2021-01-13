@@ -26,4 +26,4 @@ Es gibt ein [100 Vakuumbeutel 20x30cm groß - Premium Qualität | Folienbeutel f
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01AYB3H2C/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01AYB3H2C/?tag=tolees0ca-21)

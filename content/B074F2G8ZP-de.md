@@ -26,4 +26,4 @@ Es gibt ein [ViewSonic VP3881 95 3 cm  38 Zoll  Fotografen Monitor mit Kalibrier
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B074F2G8ZP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B074F2G8ZP/?tag=tolees0ca-21)

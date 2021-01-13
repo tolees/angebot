@@ -26,4 +26,4 @@ Es gibt ein [Tieflochmarker Pica Dry Trockenmarker 2 8mm Graphit 2er Pack](https
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00NDJ08RA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00NDJ08RA/?tag=tolees0ca-21)

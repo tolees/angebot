@@ -26,4 +26,4 @@ Es gibt ein [Donic-Schildkröt Tischtennisschläger CarboTec 900  20% Carbon  1 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B017BDUJ2M/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B017BDUJ2M/?tag=tolees0ca-21)

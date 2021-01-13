@@ -26,4 +26,4 @@ Es gibt ein [Logitech 939-001471 BASE Ladestation mit Smart Connector-Technologi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01IW64JWS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01IW64JWS/?tag=tolees0ca-21)

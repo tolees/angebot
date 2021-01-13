@@ -26,4 +26,4 @@ Es gibt ein [Logitech G703 LIGHTSPEED kabellose Gaming-Maus  mit HERO 16K-Sensor
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07S9DR8QG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07S9DR8QG/?tag=tolees0ca-21)

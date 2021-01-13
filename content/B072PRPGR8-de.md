@@ -26,4 +26,4 @@ Es gibt ein [Acer Switch 5  SW512-52-5819  30 48 cm  12 Zoll QHD Multi-Touch IPS
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B072PRPGR8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B072PRPGR8/?tag=tolees0ca-21)

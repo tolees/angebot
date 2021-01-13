@@ -26,4 +26,4 @@ Es gibt ein [Remington AS8810 Warmluftbürste Keratin Protect  rotierend  Rechts
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B073ZG6YHR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B073ZG6YHR/?tag=tolees0ca-21)

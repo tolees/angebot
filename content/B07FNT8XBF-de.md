@@ -26,4 +26,4 @@ Es gibt ein [LEGO NINJAGO 70663 - Spinjitzu Nya & Wu](https://www.amazon.de/dp/B
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07FNT8XBF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FNT8XBF/?tag=tolees0ca-21)

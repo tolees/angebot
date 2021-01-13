@@ -26,4 +26,4 @@ Es gibt ein [ghd air Haartrockner  schwarz](https://www.amazon.de/dp/B00628VOEA/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00628VOEA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00628VOEA/?tag=tolees0ca-21)

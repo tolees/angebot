@@ -26,4 +26,4 @@ Sie können [Timorn Ersatz Stoßfänger Bumper Triggert LB RB Button für Xbox O
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06XCSZFW3/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06XCSZFW3/?tag=tolees0ca-21)

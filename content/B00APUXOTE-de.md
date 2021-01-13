@@ -26,4 +26,4 @@ Es gibt ein [walther design WD030S Chloe Portraitrahmen 20 x 30 cm  silber](http
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00APUXOTE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00APUXOTE/?tag=tolees0ca-21)

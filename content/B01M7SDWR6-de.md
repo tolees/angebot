@@ -26,4 +26,4 @@ Es gibt ein [Creative Outlier Sports - Kabellose   Schweissresistente In-Ear Kop
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01M7SDWR6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01M7SDWR6/?tag=tolees0ca-21)

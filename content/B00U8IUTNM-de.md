@@ -26,4 +26,4 @@ Es gibt ein [Intel Dual Band Wireless-AC 7265](https://www.amazon.de/dp/B00U8IUT
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00U8IUTNM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00U8IUTNM/?tag=tolees0ca-21)

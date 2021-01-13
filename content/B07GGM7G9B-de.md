@@ -26,4 +26,4 @@ Sie können [ghd Platinum+ Styler  weiß](https://www.amazon.de/dp/B07GGM7G9B/?t
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07GGM7G9B/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07GGM7G9B/?tag=tolees0ca-21)

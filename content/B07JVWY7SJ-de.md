@@ -26,4 +26,4 @@ Sie können [ASUS ROG STRIX NVIDIA GeForce RTX 2070 OC 8G Gaming Grafikkarte  PC
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07JVWY7SJ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07JVWY7SJ/?tag=tolees0ca-21)

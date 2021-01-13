@@ -26,4 +26,4 @@ Es gibt ein [HEAD Herren Boxer Shorts Basic 2er Pack  mehrfarbig Blue/Black  L](
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00H2T0FMA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00H2T0FMA/?tag=tolees0ca-21)

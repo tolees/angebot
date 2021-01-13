@@ -26,4 +26,4 @@ Sie können [Star Wars Jedi: Fallen Order - Deluxe  Edition - [Xbox One]](https:
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07QM21B5B/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07QM21B5B/?tag=tolees0ca-21)

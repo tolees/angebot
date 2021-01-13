@@ -26,4 +26,4 @@ Es gibt ein [Ultimate Ears BOOM 3 Bluetooth Lautsprecher  wasserdichter 360°-So
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07HRMHZL8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HRMHZL8/?tag=tolees0ca-21)

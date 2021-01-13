@@ -26,4 +26,4 @@ Sie können [Funko 39742 POP Vinyl: Avengers Endgame-Thor 2 Pajama Party W2 Samm
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07NSQ6D5W/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07NSQ6D5W/?tag=tolees0ca-21)

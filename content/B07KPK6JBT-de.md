@@ -26,4 +26,4 @@ Es gibt ein [Funko 28506 POP Vinyl: KISS: Spaceman Sammelbares Spielzeug  Mehrfa
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KPK6JBT/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KPK6JBT/?tag=tolees0ca-21)

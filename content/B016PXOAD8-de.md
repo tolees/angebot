@@ -26,4 +26,4 @@ Es gibt ein [Lego 90032 Minitaschenlampe Star Wars  R2-D2  7 6 cm](https://www.a
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B016PXOAD8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B016PXOAD8/?tag=tolees0ca-21)

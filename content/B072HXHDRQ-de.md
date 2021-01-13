@@ -26,4 +26,4 @@ Es gibt ein [POP! Games: "FNAF SL" Funtime Freddy](https://www.amazon.de/dp/B072
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B072HXHDRQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B072HXHDRQ/?tag=tolees0ca-21)

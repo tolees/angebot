@@ -26,4 +26,4 @@ Es gibt ein [LOGONA Naturkosmetik mann After Shave Balm  Beruhigend & vitalisier
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01KVBSOH8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01KVBSOH8/?tag=tolees0ca-21)

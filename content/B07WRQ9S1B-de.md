@@ -26,4 +26,4 @@ Sie können [TP-Link TL-PA7017KIT AV1000 Gigabit Powerline Adapter  1x Gigabit P
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07WRQ9S1B/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07WRQ9S1B/?tag=tolees0ca-21)

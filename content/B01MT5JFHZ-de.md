@@ -26,4 +26,4 @@ Sie können [Sony MDR-XB550AP Kopfhörer  Extrabass  Mikrofon ](https://www.amaz
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01MT5JFHZ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01MT5JFHZ/?tag=tolees0ca-21)

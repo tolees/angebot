@@ -26,4 +26,4 @@ Sie können [Mario & Luigi: Abenteuer Bowser + Bowser Jr.s Reise - [Nintendo 3DS
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07BC11XZ9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07BC11XZ9/?tag=tolees0ca-21)

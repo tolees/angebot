@@ -26,4 +26,4 @@ Es gibt ein [4G LTE Tablet 10 Zoll - Android 9.0 Zertifiziert von Google GMS  2 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08C34NYHW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08C34NYHW/?tag=tolees0ca-21)

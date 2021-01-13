@@ -26,4 +26,4 @@ Es gibt ein [flintronic Herren Gürtel  Leder Ratsche Automatik Gürtel für Mä
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PZ7Q1C8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PZ7Q1C8/?tag=tolees0ca-21)

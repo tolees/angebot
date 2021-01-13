@@ -26,4 +26,4 @@ Es gibt ein [Technics RP-DH1200 DJ Kopfhörer silber](https://www.amazon.de/dp/B
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0002KQUXE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0002KQUXE/?tag=tolees0ca-21)

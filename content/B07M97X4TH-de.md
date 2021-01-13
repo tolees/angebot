@@ -26,4 +26,4 @@ Es gibt ein [Braun Barttrimmer und Haarschneider BT3041  39 Längeneinstellungen
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07M97X4TH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07M97X4TH/?tag=tolees0ca-21)

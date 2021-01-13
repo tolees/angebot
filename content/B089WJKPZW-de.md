@@ -26,4 +26,4 @@ Sie können [ENACFIRE SoundBar Mini Bluetooth Lautsprecher  12W Kabellose Tragba
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B089WJKPZW/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B089WJKPZW/?tag=tolees0ca-21)

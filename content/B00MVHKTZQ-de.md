@@ -26,4 +26,4 @@ Es gibt ein [Anker 36W 5V / 7.2A 4 Port USB Ladegerät Wand Ladeadapter mit Powe
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00MVHKTZQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00MVHKTZQ/?tag=tolees0ca-21)

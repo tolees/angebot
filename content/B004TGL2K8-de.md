@@ -26,4 +26,4 @@ Es gibt ein [KMC X8-93 Kette  114 Glieder  Silber/Grau](https://www.amazon.de/dp
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B004TGL2K8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B004TGL2K8/?tag=tolees0ca-21)

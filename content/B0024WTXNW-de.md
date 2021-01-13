@@ -26,4 +26,4 @@ Es gibt ein [SONAX MicrofaserTücher Außen - der Lackpflegeprofi  2 Stück  hoc
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0024WTXNW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0024WTXNW/?tag=tolees0ca-21)

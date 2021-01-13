@@ -26,4 +26,4 @@ Es gibt ein [Bosch MUM5 CreationLine Küchenmaschine MUM58020  vielseitig einset
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01B7HVQO8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01B7HVQO8/?tag=tolees0ca-21)

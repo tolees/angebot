@@ -26,4 +26,4 @@ Sie können [Polk Audio Signature S35E Center Lautsprecher  HiFi Lautsprecher f�
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07JBQBTRC/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07JBQBTRC/?tag=tolees0ca-21)

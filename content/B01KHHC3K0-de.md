@@ -26,4 +26,4 @@ Es gibt ein [Yamaha R-N402D Black MusicCast Netzwerk Receiver mit DAB schwarz](h
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01KHHC3K0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01KHHC3K0/?tag=tolees0ca-21)

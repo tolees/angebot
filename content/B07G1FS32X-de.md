@@ -26,4 +26,4 @@ Es gibt ein [Superdry Herren O L Vintage Embroidery L/S Tee Langarmshirt  Grau  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07G1FS32X/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07G1FS32X/?tag=tolees0ca-21)

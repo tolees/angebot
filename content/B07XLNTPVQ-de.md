@@ -26,4 +26,4 @@ Sie können [Belkin ScreenForce TemperedCurve Displayschutz für iPhone 11  Dis
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07XLNTPVQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07XLNTPVQ/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Yamaha P-125B Digital Piano  schwarz - - Kompaktes elektronisches K
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07BZTZC6R/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07BZTZC6R/?tag=tolees0ca-21)

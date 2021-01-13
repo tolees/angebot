@@ -26,4 +26,4 @@ Es gibt ein [Columbia Herren Woodburn II Waterproof Wasserdichte Schuhe  Schwarz
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00KWFGYOO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00KWFGYOO/?tag=tolees0ca-21)

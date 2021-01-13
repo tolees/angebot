@@ -26,4 +26,4 @@ Sie können [177/der Geist des Goldgräbers](https://www.amazon.de/dp/B011WEVVTG
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B011WEVVTG/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B011WEVVTG/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Brennenstuhl BREMAXX Verlängerungskabel  20m Kabel in orange  für
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001B4VBKW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001B4VBKW/?tag=tolees0ca-21)

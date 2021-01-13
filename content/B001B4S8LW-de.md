@@ -26,4 +26,4 @@ Es gibt ein [Brennenstuhl Safe-Box / Schutzbox für Verlängerungskabel  Schutzk
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001B4S8LW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001B4S8LW/?tag=tolees0ca-21)

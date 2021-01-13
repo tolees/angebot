@@ -26,4 +26,4 @@ Sie können [Bosch Ortungsgerät Truvo  3 x AAA Batterien  Erfassungstiefe Stahl
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01LXFXMQN/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01LXFXMQN/?tag=tolees0ca-21)

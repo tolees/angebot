@@ -26,4 +26,4 @@ Es gibt ein [Bosch Professional Laser Entfernungsmesser GLM 50 C  Bluetooth-Date
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B013WAPAM2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B013WAPAM2/?tag=tolees0ca-21)

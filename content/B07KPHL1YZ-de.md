@@ -26,4 +26,4 @@ Sie können [Funko! Rides: Game of Thrones S10: White Walker on Horse  Einheitsg
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07KPHL1YZ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07KPHL1YZ/?tag=tolees0ca-21)

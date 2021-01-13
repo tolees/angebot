@@ -26,4 +26,4 @@ Sie können [Funko 40878 POP Vinyl Animation: Disenchantment-Elfo Sammelbares Sp
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07QBQND7V/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07QBQND7V/?tag=tolees0ca-21)

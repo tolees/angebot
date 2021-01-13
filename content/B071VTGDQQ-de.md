@@ -26,4 +26,4 @@ Sie können [Funko 14751 The Last Jedi No Bobble: Star Wars: E8 TLJ: BB-9E  POP 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B071VTGDQQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B071VTGDQQ/?tag=tolees0ca-21)

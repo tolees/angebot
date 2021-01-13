@@ -26,4 +26,4 @@ Sie können [Sony Xperia XZ Smartphone  13 2 cm  5 2 Zoll   32 GB Speicher  Andr
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01L34I7NI/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01L34I7NI/?tag=tolees0ca-21)

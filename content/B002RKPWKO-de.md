@@ -26,4 +26,4 @@ Es gibt ein [135/Fluch des Piraten](https://www.amazon.de/dp/B002RKPWKO/?tag=tol
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B002RKPWKO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B002RKPWKO/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Prym 390901 Prym Love Vario-Zange mit Loch-/Color Snaps Werkzeug mi
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01F3UWWHU/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01F3UWWHU/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Lenovo  15 6 Zoll  Notebook  Intel N4000 Dual Core 2x2.60 GHz  8GB 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07D4KHY72/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07D4KHY72/?tag=tolees0ca-21)

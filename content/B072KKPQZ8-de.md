@@ -26,4 +26,4 @@ Es gibt ein [Western Digital 20 TB My Cloud EX2 Ultra-Netzwerkspeicher](https://
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B072KKPQZ8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B072KKPQZ8/?tag=tolees0ca-21)

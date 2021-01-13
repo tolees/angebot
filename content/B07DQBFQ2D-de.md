@@ -26,4 +26,4 @@ Es gibt ein [Seagate Desktop Drive 8000 GB  8 TB  externe Festplatte  3.5 Zoll  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07DQBFQ2D/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07DQBFQ2D/?tag=tolees0ca-21)

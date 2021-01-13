@@ -26,4 +26,4 @@ Sie können [Bosch Professional 40-tlgs. Bohrer Bit Set  Pick and Click  extra h
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07PC5WFLY/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07PC5WFLY/?tag=tolees0ca-21)

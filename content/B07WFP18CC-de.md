@@ -26,4 +26,4 @@ Es gibt ein [SEIKO Automatische Uhr SRPD51K2  blau  Sport](https://www.amazon.de
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07WFP18CC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07WFP18CC/?tag=tolees0ca-21)

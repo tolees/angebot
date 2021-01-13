@@ -26,4 +26,4 @@ Sie können [HUDORA 14724 BigWheel 205-Das Original mit RX Pro Technologie-Tret-
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B001OC6D3Q/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B001OC6D3Q/?tag=tolees0ca-21)

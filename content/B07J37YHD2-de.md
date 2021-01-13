@@ -26,4 +26,4 @@ Es gibt ein [Under Armour Undeniable Duffel 4.0 geräumige Sporttasche  Wasserab
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07J37YHD2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07J37YHD2/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [SET-ERGÄNZUNG - Gigaset Lichtschalter - manueller Funktionsschalte
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B013PUUJ2U/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B013PUUJ2U/?tag=tolees0ca-21)

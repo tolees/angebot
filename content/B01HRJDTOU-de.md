@@ -26,4 +26,4 @@ Sie können [HP OfficeJet Pro 6960 Multifunktionsdrucker  Instant Ink  Drucker  
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01HRJDTOU/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01HRJDTOU/?tag=tolees0ca-21)

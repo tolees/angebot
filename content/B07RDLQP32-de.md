@@ -26,4 +26,4 @@ Es gibt ein [Salomon Herren X REVEAL GTX Trekking- & Wanderhalbschuhe  Farbe: li
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07RDLQP32/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07RDLQP32/?tag=tolees0ca-21)

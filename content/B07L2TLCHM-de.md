@@ -26,4 +26,4 @@ Es gibt ein [MCleanPin 2 x 500ml Edelstahlbecher "Mr. Right & Mrs. Always Right"
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07L2TLCHM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07L2TLCHM/?tag=tolees0ca-21)

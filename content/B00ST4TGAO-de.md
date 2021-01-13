@@ -26,4 +26,4 @@ Es gibt ein [Merry Style Damen Langarm Body BD900  Schwarz  L ](https://www.amaz
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00ST4TGAO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00ST4TGAO/?tag=tolees0ca-21)

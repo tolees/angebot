@@ -26,4 +26,4 @@ Es gibt ein [QD Niederdruck Wasserhahn Küche Schwarz Spültischarmatur Armatur 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07V4CGSLN/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07V4CGSLN/?tag=tolees0ca-21)

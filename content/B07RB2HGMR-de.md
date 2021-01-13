@@ -26,4 +26,4 @@ Es gibt ein [YLCJ - Lámpara colgante moderna de 14  con lámpara colgante en hi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07RB2HGMR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07RB2HGMR/?tag=tolees0ca-21)

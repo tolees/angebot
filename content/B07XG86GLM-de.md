@@ -26,4 +26,4 @@ Es gibt ein [Oral-B Genius 10900N Elektrische Zahnbürste mit Zahnfleischschutz-
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07XG86GLM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07XG86GLM/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [OSOYOO Electricity Science Experiment Kit for Kids | Parallel Serie
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07F486HVB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07F486HVB/?tag=tolees0ca-21)

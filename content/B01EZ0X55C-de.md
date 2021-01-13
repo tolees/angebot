@@ -26,4 +26,4 @@ Sie können [SanDisk Ultra Dual USB Type-C Laufwerk Smartphone Speicher 128 GB  
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01EZ0X55C/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01EZ0X55C/?tag=tolees0ca-21)

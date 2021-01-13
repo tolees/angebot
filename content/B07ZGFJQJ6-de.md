@@ -26,4 +26,4 @@ Es gibt ein [Bluetooth Lautsprecher 5.0  Tronsmart T6 Mini 15W Tragbarer Lautspr
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07ZGFJQJ6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07ZGFJQJ6/?tag=tolees0ca-21)

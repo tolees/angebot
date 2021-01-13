@@ -26,4 +26,4 @@ Es gibt ein [Bluetooth Kopfhörer  Cshidworld Kabellose Kopfhörer mit Bluetooth
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0872NSVDK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0872NSVDK/?tag=tolees0ca-21)

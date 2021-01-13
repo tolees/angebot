@@ -26,4 +26,4 @@ Es gibt ein [Bungsa® P - Silberner Buchstaben Kristall Charm Anhänger für Bet
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01GVSXH4K/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01GVSXH4K/?tag=tolees0ca-21)

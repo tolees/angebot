@@ -26,4 +26,4 @@ Sie können [BONTEC TV Ständer Mobile TV Wagen Trolley Höhenverstellbar TV Hal
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07HHVXDDL/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07HHVXDDL/?tag=tolees0ca-21)

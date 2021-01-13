@@ -26,4 +26,4 @@ Es gibt ein [Anker PowerPort Speed 5  63W 5 Port USB Ladegerät  Netzteile mit Q
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01KUV3Q0O/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01KUV3Q0O/?tag=tolees0ca-21)

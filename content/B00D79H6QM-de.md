@@ -26,4 +26,4 @@ Es gibt ein [Stihl Original 36700000064 Kette 30 cm Klinge 1/4  64 Glieder MSA 1
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00D79H6QM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00D79H6QM/?tag=tolees0ca-21)

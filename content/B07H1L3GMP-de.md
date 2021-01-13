@@ -26,4 +26,4 @@ Sie können [Acer Chromebook Spin 13  13 3 Zoll QHD IPS Multi-Touch  360° Conve
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07H1L3GMP/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07H1L3GMP/?tag=tolees0ca-21)

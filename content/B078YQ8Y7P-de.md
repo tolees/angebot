@@ -26,4 +26,4 @@ Sie können [JewelryWe Schmuck Herren Magnetarmband + Link Removal Tool  14mm Ed
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B078YQ8Y7P/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B078YQ8Y7P/?tag=tolees0ca-21)

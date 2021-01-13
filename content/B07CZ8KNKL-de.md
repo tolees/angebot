@@ -26,4 +26,4 @@ Es gibt ein [Bulmers Original Premium Cider 12er  12 x 0.5 l ](https://www.amazo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07CZ8KNKL/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07CZ8KNKL/?tag=tolees0ca-21)

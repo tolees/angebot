@@ -26,4 +26,4 @@ Es gibt ein [infactory Spielbaustein-Klebeband: Selbstklebendes Spielbaustein-Ta
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07K8RYPCM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07K8RYPCM/?tag=tolees0ca-21)

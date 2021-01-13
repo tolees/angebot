@@ -26,4 +26,4 @@ Es gibt ein [Playmobil 9377 - Zoo Spiel](https://www.amazon.de/dp/B0766CWJPQ/?ta
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0766CWJPQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0766CWJPQ/?tag=tolees0ca-21)

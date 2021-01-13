@@ -26,4 +26,4 @@ Es gibt ein [WISHDOIT Herren Uhren Sport Militär Wasserdicht Chronograph Silber
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07XPT68R8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07XPT68R8/?tag=tolees0ca-21)

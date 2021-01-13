@@ -26,4 +26,4 @@ Es gibt ein [Concord Jazz Sacd Sampler Vol.](https://www.amazon.de/dp/B0001FGBD4
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0001FGBD4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0001FGBD4/?tag=tolees0ca-21)

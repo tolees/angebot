@@ -26,4 +26,4 @@ Sie können [The Cooker  Rvg ](https://www.amazon.de/dp/B000GPI19G/?tag=tolees0c
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B000GPI19G/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B000GPI19G/?tag=tolees0ca-21)

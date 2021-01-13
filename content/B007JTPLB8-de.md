@@ -26,4 +26,4 @@ Es gibt ein [BaByliss 6614E Profi-Haartrockner Pro Express Ionic  2300 Watt](htt
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B007JTPLB8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B007JTPLB8/?tag=tolees0ca-21)

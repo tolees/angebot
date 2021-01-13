@@ -26,4 +26,4 @@ Es gibt ein [Akkuschrauber  GOXAWEE 12V Akku Bohrschrauber mit 100 Zubehör  2 A
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07MD84ZZ4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MD84ZZ4/?tag=tolees0ca-21)

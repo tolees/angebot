@@ -26,4 +26,4 @@ Es gibt ein [House of Marley Positive Vibration 2  Faltbare Kopfhörer  bequemes
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XWGTK6D/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XWGTK6D/?tag=tolees0ca-21)

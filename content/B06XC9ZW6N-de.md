@@ -26,4 +26,4 @@ Es gibt ein [Olympus OM-D E-M10 Mark III Micro Four Thirds Systemkamera  16 Mega
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XC9ZW6N/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XC9ZW6N/?tag=tolees0ca-21)

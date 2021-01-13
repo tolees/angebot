@@ -26,4 +26,4 @@ Sie können [Razer Kraken - Gaming Headset mit Kühlenden Gel-Ohrpolstern für A
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07MST9Y5K/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07MST9Y5K/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Funko 44469 POP Towns 80th-Hall of Justice w/Batman Collectible Fig
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07SNDHP8L/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07SNDHP8L/?tag=tolees0ca-21)

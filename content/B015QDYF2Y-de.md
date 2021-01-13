@@ -26,4 +26,4 @@ Es gibt ein [Colgate Komplett Ultra Weiß Zahnpasta  12er Pack  12 x 75 ml ](htt
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B015QDYF2Y/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B015QDYF2Y/?tag=tolees0ca-21)

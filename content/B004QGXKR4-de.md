@@ -26,4 +26,4 @@ Es gibt ein [Emsa 508570 Clip & Close Frischhaltedosen | 3-teiliges Set | 3 x 0 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B004QGXKR4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B004QGXKR4/?tag=tolees0ca-21)

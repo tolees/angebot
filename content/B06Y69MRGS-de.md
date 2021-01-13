@@ -26,4 +26,4 @@ Sie können [Fujifilm instax Mini 9 Kamera  kobalt-blau](https://www.amazon.de/d
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06Y69MRGS/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06Y69MRGS/?tag=tolees0ca-21)

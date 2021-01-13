@@ -26,4 +26,4 @@ Sie können [Zyxel Gigabit Unmanaged PoE+ Switch mit 5 Ports  davon 4 mit PoE  u
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07MRKBST3/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07MRKBST3/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Grundig MF 5260  Milchaufschäumer  400 Watt   schwarz](https://www
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00DSKM4T4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00DSKM4T4/?tag=tolees0ca-21)

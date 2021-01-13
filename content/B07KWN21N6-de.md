@@ -26,4 +26,4 @@ Es gibt ein [Lego Wear Mädchen LWSIMONE 611-SWEATSHIRT Sweatshirt  Grau  Grey M
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KWN21N6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KWN21N6/?tag=tolees0ca-21)

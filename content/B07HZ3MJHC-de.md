@@ -26,4 +26,4 @@ Sie können [Ferm Bandschleifmaschine – 350W – 150mm - einschl. 2 Schleifbä
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07HZ3MJHC/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07HZ3MJHC/?tag=tolees0ca-21)

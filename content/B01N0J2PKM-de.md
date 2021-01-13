@@ -26,4 +26,4 @@ Es gibt ein [adidas Herren Essentials Basic Poloshirt  Black  L](https://www.ama
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01N0J2PKM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01N0J2PKM/?tag=tolees0ca-21)

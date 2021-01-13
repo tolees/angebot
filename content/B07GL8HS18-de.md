@@ -26,4 +26,4 @@ Es gibt ein [Fossil Herren Digital Smart Watch Armbanduhr mit Leder Armband FTW4
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07GL8HS18/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GL8HS18/?tag=tolees0ca-21)

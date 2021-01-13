@@ -26,4 +26,4 @@ Es gibt ein [Nintendo Gameboy Thermobecher  Edelstahl  Mehrfarbig  9 x 9 x 18�
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B079MH96GQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B079MH96GQ/?tag=tolees0ca-21)

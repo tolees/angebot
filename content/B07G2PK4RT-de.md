@@ -26,4 +26,4 @@ Es gibt ein [Dionysus](https://www.amazon.de/dp/B07G2PK4RT/?tag=tolees0ca-21) mi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07G2PK4RT/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07G2PK4RT/?tag=tolees0ca-21)

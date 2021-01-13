@@ -26,4 +26,4 @@ Es gibt ein [Corsair CC-9011048-WW Carbide Series Air 540 Computer Gehäuse  Sei
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00H8JLM94/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00H8JLM94/?tag=tolees0ca-21)

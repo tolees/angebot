@@ -26,4 +26,4 @@ Es gibt ein [Philips 2200 Serie EP2231/40 Kaffeevollautomat  3 Kaffeespezialitä
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07MMSWP78/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MMSWP78/?tag=tolees0ca-21)

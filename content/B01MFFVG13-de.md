@@ -26,4 +26,4 @@ Sie können [Forefront Cases Kobo Aura One 7.8 Zoll Origami Hülle Schutzhülle 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01MFFVG13/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01MFFVG13/?tag=tolees0ca-21)

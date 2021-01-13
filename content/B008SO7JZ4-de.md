@@ -26,4 +26,4 @@ Es gibt ein [Remington Haarglätter Keratin Therapy S8590  innovativer Hitzeschu
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B008SO7JZ4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B008SO7JZ4/?tag=tolees0ca-21)

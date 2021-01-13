@@ -26,4 +26,4 @@ Es gibt ein [Funko 14367 Actionfigur Westworld: Teddy  Multi](https://www.amazon
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XBMG4JK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XBMG4JK/?tag=tolees0ca-21)

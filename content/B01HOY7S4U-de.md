@@ -26,4 +26,4 @@ Es gibt ein [Original Kingston MicroSD Karte Speicherkarte 32 GB Für Huawei P8 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01HOY7S4U/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01HOY7S4U/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Nene Toys - Pädagogisches Kinderspiel ab 3 Jahre - Wackelturm 4 i
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NPPMZM8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NPPMZM8/?tag=tolees0ca-21)

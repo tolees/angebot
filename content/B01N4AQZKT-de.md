@@ -26,4 +26,4 @@ Es gibt ein [Starboy  2lp  [Vinyl LP]](https://www.amazon.de/dp/B01N4AQZKT/?tag=
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01N4AQZKT/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01N4AQZKT/?tag=tolees0ca-21)

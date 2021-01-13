@@ -26,4 +26,4 @@ Es gibt ein [Lego 41383 Friends Olivias Hamster-Spielplatz  bunt](https://www.am
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07FP2GRYJ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FP2GRYJ/?tag=tolees0ca-21)

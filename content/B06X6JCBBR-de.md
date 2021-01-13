@@ -26,4 +26,4 @@ Es gibt ein [Ultimate Ears Wonderboom Tragbarer Bluetooth-Lautsprecher  Überras
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06X6JCBBR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06X6JCBBR/?tag=tolees0ca-21)

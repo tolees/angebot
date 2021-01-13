@@ -26,4 +26,4 @@ Es gibt ein [Levi s Damen Original Sherpa Trucker Jacke  Schwarz  Forever Black 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07FLN6QXQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FLN6QXQ/?tag=tolees0ca-21)

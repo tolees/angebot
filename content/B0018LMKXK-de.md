@@ -26,4 +26,4 @@ Es gibt ein [Nicht Von Dieser Welt/Re-release + Bonus](https://www.amazon.de/dp/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0018LMKXK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0018LMKXK/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Villeroy & Boch Toy s Delight Eierbecher  Premium Porzellan  Weiß/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07BXG1NJ8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07BXG1NJ8/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Bones - Season Eleven [6 DVDs]](https://www.amazon.de/dp/B01MYFCLW8
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01MYFCLW8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MYFCLW8/?tag=tolees0ca-21)

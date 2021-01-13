@@ -26,4 +26,4 @@ Es gibt ein [Scholl Clogs SUPERCOMFORT Frau](https://www.amazon.de/dp/B00CMOJUDA
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00CMOJUDA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00CMOJUDA/?tag=tolees0ca-21)

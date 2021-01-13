@@ -26,4 +26,4 @@ Es gibt ein [Mpow Bluetooth Headset  Wireless Headset Auto  Stereo Sound  cVc 6.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01M0X50CZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01M0X50CZ/?tag=tolees0ca-21)

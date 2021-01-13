@@ -26,4 +26,4 @@ Sie können [SanDisk SDSQXCG-064G-GN6MA 64GB Extreme Pro Micro SD Karte mit Adap
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06XYT37NK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06XYT37NK/?tag=tolees0ca-21)

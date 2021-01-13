@@ -26,4 +26,4 @@ Sie können [Samsung GT-B2100 Outdoor Handy  1 3 MP-Kamera  MP3  IP57-Zertifizie
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B001TCUGKC/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B001TCUGKC/?tag=tolees0ca-21)

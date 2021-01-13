@@ -26,4 +26,4 @@ Sie können [Funko 26713 Grumpy Bear Spielfigur  Mehrfarbig  10 Centimeters](htt
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07987KGDS/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07987KGDS/?tag=tolees0ca-21)

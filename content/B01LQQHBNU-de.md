@@ -26,4 +26,4 @@ Sie können [WD My Passport Mobile WDBYFT0040BWT-WESN 4TB  Externe Festplatte  6
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01LQQHBNU/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01LQQHBNU/?tag=tolees0ca-21)

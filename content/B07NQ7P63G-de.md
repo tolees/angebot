@@ -26,4 +26,4 @@ Sie können [Samsung Galaxy Fit  Fitnesstracker  schwarz  mit Bluetooth  Farbdis
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07NQ7P63G/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07NQ7P63G/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Casio Collection Herren Armbanduhr AE-1300WH-2AVEF](https://www.ama
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00IAOLFCA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00IAOLFCA/?tag=tolees0ca-21)

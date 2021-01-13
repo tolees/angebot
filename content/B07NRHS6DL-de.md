@@ -26,4 +26,4 @@ Es gibt ein [Ostwind - Aris Ankunft [Blu-ray]](https://www.amazon.de/dp/B07NRHS6
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NRHS6DL/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NRHS6DL/?tag=tolees0ca-21)

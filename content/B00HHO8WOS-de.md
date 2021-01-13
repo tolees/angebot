@@ -26,4 +26,4 @@ Es gibt ein [Flashpoint - Das Spezialkommando: Die komplette Serie [24 DVDs]](ht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00HHO8WOS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00HHO8WOS/?tag=tolees0ca-21)

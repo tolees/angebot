@@ -26,4 +26,4 @@ Es gibt ein [Django Unchained [Blu-ray]](https://www.amazon.de/dp/B00APVW06G/?ta
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00APVW06G/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00APVW06G/?tag=tolees0ca-21)

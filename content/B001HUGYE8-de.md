@@ -26,4 +26,4 @@ Es gibt ein [E-Mail für Dich [Special Edition]](https://www.amazon.de/dp/B001HU
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001HUGYE8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001HUGYE8/?tag=tolees0ca-21)

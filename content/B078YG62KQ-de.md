@@ -26,4 +26,4 @@ Es gibt ein [Philips 996596003606 Original Fernbedienung für 32PFS5362 49PUS610
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B078YG62KQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B078YG62KQ/?tag=tolees0ca-21)

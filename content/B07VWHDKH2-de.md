@@ -26,4 +26,4 @@ Es gibt ein [SEEYA Hülle für Samsung Galaxy A40 Silikon  Weich TPU Gummi Case 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07VWHDKH2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07VWHDKH2/?tag=tolees0ca-21)

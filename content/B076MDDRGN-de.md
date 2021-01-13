@@ -26,4 +26,4 @@ Es gibt ein [Stranger Things: Music From The Netflix Original Series [2 LP] [Vin
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B076MDDRGN/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B076MDDRGN/?tag=tolees0ca-21)

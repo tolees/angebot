@@ -26,4 +26,4 @@ Sie können [Leifheit Wandrollenhalter Parat ComfortLine-Serie für 3 Rollen  sa
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B001HHACHG/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B001HHACHG/?tag=tolees0ca-21)

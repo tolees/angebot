@@ -26,4 +26,4 @@ Es gibt ein [HyperX HX-HSCAS-BL/WW Cloud Alpha S - Gaming Headset mit HyperX Vir
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07X6HDSDY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07X6HDSDY/?tag=tolees0ca-21)

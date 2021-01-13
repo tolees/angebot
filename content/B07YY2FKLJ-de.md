@@ -26,4 +26,4 @@ Es gibt ein [CNC 3018 Pro Fräsmaschine mit 5.5W Lasermodul  Arbeitsbereich: 300
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07YY2FKLJ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07YY2FKLJ/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [OnePlus 7T Smartphone Frosted Silver | 8 GB RAM + 128 GB Speicher |
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07XJ4S3Y8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07XJ4S3Y8/?tag=tolees0ca-21)

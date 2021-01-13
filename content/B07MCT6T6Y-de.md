@@ -26,4 +26,4 @@ Es gibt ein [Hasbro Spiele E5804EU4 The Slow Motion Race Game  Partyspiel  mit L
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07MCT6T6Y/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MCT6T6Y/?tag=tolees0ca-21)

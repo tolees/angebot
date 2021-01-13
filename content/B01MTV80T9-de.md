@@ -26,4 +26,4 @@ Sie können [Neff TBD1676N / T16BD76N0 / Autarkes Kochfeld / Konventionell / 60c
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01MTV80T9/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01MTV80T9/?tag=tolees0ca-21)

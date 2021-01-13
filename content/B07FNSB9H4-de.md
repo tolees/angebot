@@ -26,4 +26,4 @@ Es gibt ein [LEGO Star Wars 75236 - Duell um die Starkiller-Basis  Bauset](htt
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07FNSB9H4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FNSB9H4/?tag=tolees0ca-21)

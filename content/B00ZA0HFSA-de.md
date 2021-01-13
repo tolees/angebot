@@ -26,4 +26,4 @@ Es gibt ein [KLIM Cool Universaler Kühler für Spielekonsole Laptop PC – Hoch
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00ZA0HFSA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00ZA0HFSA/?tag=tolees0ca-21)

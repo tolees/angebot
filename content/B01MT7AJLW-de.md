@@ -26,4 +26,4 @@ Sie können [Sony MDR-XB950B1 Drahtloser Extrabass Kopfhörer - Schwarz](https:/
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01MT7AJLW/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01MT7AJLW/?tag=tolees0ca-21)

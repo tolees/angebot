@@ -26,4 +26,4 @@ Es gibt ein [Lammcou Schutz Hülle Set für Nintendo Switch Lite 2019  Flüssigk
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07K8GQV6S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07K8GQV6S/?tag=tolees0ca-21)

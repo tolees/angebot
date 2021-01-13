@@ -26,4 +26,4 @@ Es gibt ein [Sluban Spielzeug Baustein Set Hot Dog Wagen M38-B0565](https://www.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01H7IRE0G/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01H7IRE0G/?tag=tolees0ca-21)

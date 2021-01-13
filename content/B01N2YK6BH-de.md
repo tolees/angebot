@@ -26,4 +26,4 @@ Es gibt ein [Ravensburger 20782  - STAR WARS Elfer raus! Familienspiel](https://
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01N2YK6BH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01N2YK6BH/?tag=tolees0ca-21)

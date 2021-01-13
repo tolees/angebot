@@ -26,4 +26,4 @@ Sie können [HP Pavilion 595-p0020ng Desktop PC  AMD Ryzen 7  16 GB DDR4 RAM  1 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07RMS67ZX/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07RMS67ZX/?tag=tolees0ca-21)

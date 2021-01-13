@@ -26,4 +26,4 @@ Es gibt ein [LEGO Friends Das große Rennen 41352 Kinderspielzeug](https://www.
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0765C2PPR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0765C2PPR/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Aoyool WiFi Adapter 1200Mbit/s  5.8G/867Mbps+2.4G/300Mbps   WLAN Ad
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07GDBY5LF/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07GDBY5LF/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Funko 44821 POP TV: Game of Thrones-Theon w/Flaming Arrows  GW  Sam
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07RVLFG84/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07RVLFG84/?tag=tolees0ca-21)

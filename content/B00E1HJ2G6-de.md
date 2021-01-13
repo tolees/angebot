@@ -26,4 +26,4 @@ Es gibt ein [Diesel Herren-Uhr DZ4297](https://www.amazon.de/dp/B00E1HJ2G6/?tag=
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00E1HJ2G6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00E1HJ2G6/?tag=tolees0ca-21)

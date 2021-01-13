@@ -26,4 +26,4 @@ Sie können [SEIKO Automatische Uhr SRPD53K1  blau  Sport](https://www.amazon.de
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07WGMD9ND/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07WGMD9ND/?tag=tolees0ca-21)

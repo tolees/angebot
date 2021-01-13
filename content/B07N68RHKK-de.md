@@ -26,4 +26,4 @@ Es gibt ein [Symiu 3D Puzzle Kinder Mosaik Steckspiel Bausteine mit Schraubendre
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07N68RHKK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07N68RHKK/?tag=tolees0ca-21)

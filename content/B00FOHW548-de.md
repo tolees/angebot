@@ -26,4 +26,4 @@ Es gibt ein [Calvin Klein Herren 3p Low Rise Trunk  Boxershorts  Mehrfarbig  998
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00FOHW548/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00FOHW548/?tag=tolees0ca-21)

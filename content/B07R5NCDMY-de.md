@@ -26,4 +26,4 @@ Sie können [Razer Seiren X Mercury USB-Streaming-Mikrofon  in Profi Qualität a
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07R5NCDMY/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07R5NCDMY/?tag=tolees0ca-21)

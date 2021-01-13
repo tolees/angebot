@@ -26,4 +26,4 @@ Sie können [NETGEAR GS516TP 16-Port Gigabit Ethernet LAN PoE Switch Smart Manag
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B00F163ERY/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B00F163ERY/?tag=tolees0ca-21)

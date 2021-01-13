@@ -26,4 +26,4 @@ Es gibt ein [Philips 14-in-1 Multigroom MG7745/15  Barttrimmer  Haarschneider 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07DM8QD2B/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07DM8QD2B/?tag=tolees0ca-21)

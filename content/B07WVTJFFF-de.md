@@ -26,4 +26,4 @@ Sie können [LG 75UM7000PLA 189 cm  75 Zoll  UHD Fernseher  LCD  Single Triple T
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07WVTJFFF/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07WVTJFFF/?tag=tolees0ca-21)

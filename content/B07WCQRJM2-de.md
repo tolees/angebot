@@ -26,4 +26,4 @@ Es gibt ein [HyperX Fury HX432C16FB3A/16 Arbeitsspeicher DIMM DDR4 16GB 3200MHz 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07WCQRJM2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07WCQRJM2/?tag=tolees0ca-21)

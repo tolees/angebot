@@ -26,4 +26,4 @@ Es gibt ein [BOSS Herren Paddy Pro Poloshirt  Blau  Medium Blue 422   X-Large  H
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07K3DZF4R/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07K3DZF4R/?tag=tolees0ca-21)

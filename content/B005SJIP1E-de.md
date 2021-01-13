@@ -26,4 +26,4 @@ Sie können [The Complete Mahler Symphonies](https://www.amazon.de/dp/B005SJIP1E
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B005SJIP1E/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B005SJIP1E/?tag=tolees0ca-21)

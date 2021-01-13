@@ -26,4 +26,4 @@ Sie können [Huawei P smart 2019 BUNDLE  Dual-Sim Smartphone  15 77 cm  6 21 Zol
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07LBL5JXL/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07LBL5JXL/?tag=tolees0ca-21)

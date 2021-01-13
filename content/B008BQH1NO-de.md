@@ -26,4 +26,4 @@ Sie können [Amazon Kindle Paperwhite Lederhülle  Onyx-Schwarz – nicht geeign
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B008BQH1NO/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B008BQH1NO/?tag=tolees0ca-21)

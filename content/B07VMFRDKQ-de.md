@@ -26,4 +26,4 @@ Sie können [Samsung Galaxy Buds SM-R170 I Kabellose Kopfhörer Silber I Bluetoo
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07VMFRDKQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07VMFRDKQ/?tag=tolees0ca-21)

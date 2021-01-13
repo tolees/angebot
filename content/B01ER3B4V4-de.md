@@ -26,4 +26,4 @@ Es gibt ein [Blend Cross Herren Kapuzenpullover Hoodie Pullover Mit Kapuze Cross
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01ER3B4V4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01ER3B4V4/?tag=tolees0ca-21)

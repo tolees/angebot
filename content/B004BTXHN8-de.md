@@ -26,4 +26,4 @@ Es gibt ein [FALKE Damen Wandersocken TK1 - Merinowollmischung  1 Paar  Schwarz 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B004BTXHN8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B004BTXHN8/?tag=tolees0ca-21)

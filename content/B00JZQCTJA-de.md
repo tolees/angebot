@@ -26,4 +26,4 @@ Es gibt ein [Schiesser Damen Midi  2er Pack  Slip  Weiß  Weiss 100   40  Herste
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00JZQCTJA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00JZQCTJA/?tag=tolees0ca-21)

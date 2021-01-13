@@ -26,4 +26,4 @@ Sie können [Samsung MG23 K3 515aw / EG Mikrowelle / 48 9 cm / Schnellabtauung /
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07DNVYDQS/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07DNVYDQS/?tag=tolees0ca-21)

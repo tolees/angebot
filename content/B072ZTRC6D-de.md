@@ -26,4 +26,4 @@ Es gibt ein [Huawei Y6 2017  Grey ](https://www.amazon.de/dp/B072ZTRC6D/?tag=tol
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B072ZTRC6D/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B072ZTRC6D/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Verbatim MediaShare Wireless  tragbares Streaming-Gerät mit W-Lan 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00CZ0P0PS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00CZ0P0PS/?tag=tolees0ca-21)

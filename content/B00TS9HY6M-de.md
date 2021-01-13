@@ -26,4 +26,4 @@ Es gibt ein [Samyang 24mm F3.5 T/S Objektiv für Anschluss Micro Four Thirds](ht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00TS9HY6M/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00TS9HY6M/?tag=tolees0ca-21)

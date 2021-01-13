@@ -26,4 +26,4 @@ Es gibt ein [WOLF-Garten - Elektro-Heckenschere HS 60 E; 41AF0EE5650](https://ww
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00GHESNZ2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00GHESNZ2/?tag=tolees0ca-21)

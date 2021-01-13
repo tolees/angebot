@@ -26,4 +26,4 @@ Sie können [Die Sims 4 - Standard Edition - [PlayStation 4] -  Cover-Bild kann 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0746PBM7D/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0746PBM7D/?tag=tolees0ca-21)

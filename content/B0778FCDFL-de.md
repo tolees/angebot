@@ -26,4 +26,4 @@ Es gibt ein [Hasbro Gaming E2489100 - Ach du Kacke Kinderspiel  Green](https://w
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0778FCDFL/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0778FCDFL/?tag=tolees0ca-21)

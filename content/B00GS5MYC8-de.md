@@ -26,4 +26,4 @@ Es gibt ein [Bosch Rasenmäher ARM 34  Grasfangbox  Karton  1300 W  Schnitthöhe
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00GS5MYC8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00GS5MYC8/?tag=tolees0ca-21)

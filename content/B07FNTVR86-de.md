@@ -26,4 +26,4 @@ Es gibt ein [DoGeek Ringstock Metall Ringmaß Ringmesser Kostenlos Ringdorn Set/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07FNTVR86/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FNTVR86/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Gardena Akku-Grasschere ComfortCut: Rasenkantenschneider mit 8 cm S
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0049PEPKI/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0049PEPKI/?tag=tolees0ca-21)

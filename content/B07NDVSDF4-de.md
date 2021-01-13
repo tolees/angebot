@@ -26,4 +26,4 @@ Es gibt ein [Sony Xperia 10 Plus Smartphone  16 5 cm  6 5 Zoll  21:9 Full HD+ Di
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NDVSDF4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NDVSDF4/?tag=tolees0ca-21)

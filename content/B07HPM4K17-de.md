@@ -26,4 +26,4 @@ Sie können [Samsung VG-SCFN49BM/XC The Frame Bilderrahmen  123 cm  49 Zoll   sc
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07HPM4K17/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07HPM4K17/?tag=tolees0ca-21)

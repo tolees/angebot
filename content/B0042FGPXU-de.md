@@ -26,4 +26,4 @@ Es gibt ein [Urban Classics TB207 Herren Jacke Bekleidung 2 Tone College Sweatja
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0042FGPXU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0042FGPXU/?tag=tolees0ca-21)

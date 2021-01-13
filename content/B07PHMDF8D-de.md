@@ -26,4 +26,4 @@ Es gibt ein [Huawei Watch GT Active Smartwatch  46 mm Amoled Touchscreen  GPS  F
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PHMDF8D/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PHMDF8D/?tag=tolees0ca-21)

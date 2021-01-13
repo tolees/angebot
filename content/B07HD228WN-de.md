@@ -26,4 +26,4 @@ Es gibt ein [Mattel GGX28 - Toy Story 4 Ducky  17 cm Spielzeug Actionfigur ab 3 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07HD228WN/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HD228WN/?tag=tolees0ca-21)

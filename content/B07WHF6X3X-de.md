@@ -26,4 +26,4 @@ Sie können [HyperX Fury HX432C16FB3AK2/32 Arbeitsspeicher DIMM DDR4   Kit 2x16G
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07WHF6X3X/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07WHF6X3X/?tag=tolees0ca-21)

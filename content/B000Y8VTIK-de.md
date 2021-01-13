@@ -26,4 +26,4 @@ Es gibt ein [Dewalt DT7030-QZ Adapter f. Bohrfutter SDS-plus 1/2Zoll](https://ww
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000Y8VTIK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000Y8VTIK/?tag=tolees0ca-21)

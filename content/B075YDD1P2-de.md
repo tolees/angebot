@@ -26,4 +26,4 @@ Es gibt ein [Razer Thresher Xbox One - Wireless Gaming Headset für Xbox One & P
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B075YDD1P2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B075YDD1P2/?tag=tolees0ca-21)

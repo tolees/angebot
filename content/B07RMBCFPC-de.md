@@ -26,4 +26,4 @@ Sie können [Funko 44823 POP TV: Game of Thrones-Crystal Night King w/Dagger in 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07RMBCFPC/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07RMBCFPC/?tag=tolees0ca-21)

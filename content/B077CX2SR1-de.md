@@ -26,4 +26,4 @@ Sie können [Grundig GRB 2000 Tragbare Radio Boombox travertin/silber](https://w
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B077CX2SR1/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B077CX2SR1/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [HONOR Smartwatch im klassischen Uhrendesign mit 3 cm  1 2 Zoll  AMO
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07LGFXG1K/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07LGFXG1K/?tag=tolees0ca-21)

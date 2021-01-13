@@ -26,4 +26,4 @@ Es gibt ein [JBL E55BT Over Ear Bluetooth Kopfhörer - Wireless Headphones mit i
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01M2XPWJF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01M2XPWJF/?tag=tolees0ca-21)

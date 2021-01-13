@@ -26,4 +26,4 @@ Es gibt ein [MSI PS42 8RB-073 Prestige Ultra Slim - Intel i7-8550U 1 80GHz  Win 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07F91HXL8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07F91HXL8/?tag=tolees0ca-21)

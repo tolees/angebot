@@ -26,4 +26,4 @@ Es gibt ein [Funko 12784 Actionfigur "Guardians O/T Galaxy 2: Star-Lord"  Modell
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01M5KD8NL/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01M5KD8NL/?tag=tolees0ca-21)

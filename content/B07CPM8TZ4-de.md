@@ -26,4 +26,4 @@ Es gibt ein [AKASO Action Cam/4K/30fps 20MP Action Camera mit Touchscreen  30m U
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07CPM8TZ4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07CPM8TZ4/?tag=tolees0ca-21)

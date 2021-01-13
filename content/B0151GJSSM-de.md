@@ -26,4 +26,4 @@ Sie können [Trust GXT 540 kabelgebundenes Gamepad](https://www.amazon.de/dp/B01
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0151GJSSM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0151GJSSM/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Linksys WRT1900ACS-EU Wireless AC1900 Open Source Router  1900Mbit/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0154B0GWG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0154B0GWG/?tag=tolees0ca-21)

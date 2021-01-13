@@ -26,4 +26,4 @@ Es gibt ein [Bosch Professional 18V System Akku GBA 18V 5.0Ah](https://www.amazo
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00IKI352E/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00IKI352E/?tag=tolees0ca-21)

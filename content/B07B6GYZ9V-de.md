@@ -26,4 +26,4 @@ Sie können [Hasbro Gaming E1844100 - Dummschwätzer Partyspiel](https://www.ama
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07B6GYZ9V/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07B6GYZ9V/?tag=tolees0ca-21)

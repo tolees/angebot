@@ -26,4 +26,4 @@ Es gibt ein [Roccat Kone AIMO Gaming Maus  hohe Präzision  Optischer Owl-Eye Se
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07YCFZJN4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07YCFZJN4/?tag=tolees0ca-21)

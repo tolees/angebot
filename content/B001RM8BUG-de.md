@@ -26,4 +26,4 @@ Es gibt ein [Panasonic LUMIX DMW-BCG10E Aufladbarer Li-Ion Akku  geeignet für L
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001RM8BUG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001RM8BUG/?tag=tolees0ca-21)

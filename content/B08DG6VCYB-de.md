@@ -26,4 +26,4 @@ Es gibt ein [Medisana BU 570 connect Oberarmblutdruckmessgerät  Arrhythmie-Anze
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08DG6VCYB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08DG6VCYB/?tag=tolees0ca-21)

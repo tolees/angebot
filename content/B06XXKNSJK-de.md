@@ -26,4 +26,4 @@ Es gibt ein [Philips YKF406-003 996596006068 Original-Fernbedienung für 32PHS53
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XXKNSJK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XXKNSJK/?tag=tolees0ca-21)

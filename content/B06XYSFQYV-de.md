@@ -26,4 +26,4 @@ Es gibt ein [Hasbro Star Wars C1428EU4 - Episode 8 Kylo Ren elektronische Maske 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XYSFQYV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XYSFQYV/?tag=tolees0ca-21)

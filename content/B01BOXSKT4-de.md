@@ -26,4 +26,4 @@ Es gibt ein [NIVEA SUN Pflegendes After Sun Spray  200 ml Sprühflasche](https:/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01BOXSKT4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01BOXSKT4/?tag=tolees0ca-21)

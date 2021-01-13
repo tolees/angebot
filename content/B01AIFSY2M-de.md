@@ -26,4 +26,4 @@ Es gibt ein [Famosa 700012778 - Heidi Quietsch und Badefigur im Thekendisplay  1
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01AIFSY2M/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01AIFSY2M/?tag=tolees0ca-21)

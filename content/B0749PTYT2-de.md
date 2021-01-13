@@ -26,4 +26,4 @@ Es gibt ein [AmazonBasics - Terassenstuhl  5-Stufen verstellbar  Doppelpack](htt
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0749PTYT2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0749PTYT2/?tag=tolees0ca-21)

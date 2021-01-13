@@ -26,4 +26,4 @@ Sie können [KS Tools 515.1119 1/2" Sechskant-Kraft-Stecknuss  lang  19mm](https
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B001NYX7RU/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B001NYX7RU/?tag=tolees0ca-21)

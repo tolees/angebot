@@ -26,4 +26,4 @@ Es gibt ein [Multifunktionswerkzeug  GOXAWEE Drehwerkzeug mit 140 Zubehör  Mult
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07M8LFKVS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07M8LFKVS/?tag=tolees0ca-21)

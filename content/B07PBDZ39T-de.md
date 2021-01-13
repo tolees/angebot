@@ -26,4 +26,4 @@ Sie können [Nordic Kitchen Rührlöffel  eiche schwarz LxB 20x8 4cm](https://ww
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07PBDZ39T/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07PBDZ39T/?tag=tolees0ca-21)

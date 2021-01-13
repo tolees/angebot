@@ -26,4 +26,4 @@ Sie können [Sony SAL85F14Z  Tele-Objektiv  85 mm  F1 4 ZA  Planar T*  A-Mount V
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B000GT11HQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B000GT11HQ/?tag=tolees0ca-21)

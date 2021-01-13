@@ -26,4 +26,4 @@ Es gibt ein [Shiatsu-Rücken Schulter- und Nackenmassagegerät mit Wärme - Knet
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B074S9BJ6B/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B074S9BJ6B/?tag=tolees0ca-21)

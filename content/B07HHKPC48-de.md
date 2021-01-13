@@ -26,4 +26,4 @@ Es gibt ein [Bosch Akkuschrauber AdvancedDrill 18 Set  2 Akkus  18 Volt System  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07HHKPC48/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HHKPC48/?tag=tolees0ca-21)

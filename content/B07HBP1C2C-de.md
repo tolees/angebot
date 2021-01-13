@@ -26,4 +26,4 @@ Es gibt ein [Apple iPhone XS  64GB  - Silber](https://www.amazon.de/dp/B07HBP1C2
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07HBP1C2C/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HBP1C2C/?tag=tolees0ca-21)

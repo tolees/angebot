@@ -26,4 +26,4 @@ Es gibt ein [Nikon D5600 Kit AF-P DX 18-55 VR Spiegelreflexkamera  8 1 cm  3 2 Z
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01MQGO8V6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MQGO8V6/?tag=tolees0ca-21)

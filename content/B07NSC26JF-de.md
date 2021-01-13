@@ -26,4 +26,4 @@ Es gibt ein [Philips BRL175/00 Elektrischer Nass-und Trockenrasierer für Damen 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NSC26JF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NSC26JF/?tag=tolees0ca-21)

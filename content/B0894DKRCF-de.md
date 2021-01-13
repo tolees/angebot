@@ -26,4 +26,4 @@ Es gibt ein [COULAX Smartwatch  Fitness Tracker Armband mit 1.4 Zoll Touch Farbd
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0894DKRCF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0894DKRCF/?tag=tolees0ca-21)

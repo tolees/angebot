@@ -26,4 +26,4 @@ Es gibt ein [FLOWZOOM Schlauchschal mit Filterfach zum Einlegen eines Aktivkohle
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08FMW24JB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08FMW24JB/?tag=tolees0ca-21)

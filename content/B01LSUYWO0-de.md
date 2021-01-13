@@ -26,4 +26,4 @@ Es gibt ein [Apple iPhone 7  32 GB  - Schwarz](https://www.amazon.de/dp/B01LSU
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01LSUYWO0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01LSUYWO0/?tag=tolees0ca-21)

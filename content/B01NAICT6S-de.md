@@ -26,4 +26,4 @@ Es gibt ein [Ondis24 Steckregal 60 x 30 x 135  H  cm  4 Böden  Kunststoffregal 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01NAICT6S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01NAICT6S/?tag=tolees0ca-21)

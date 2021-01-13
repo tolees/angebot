@@ -26,4 +26,4 @@ Es gibt ein [Huawei P30 128GB Handy  hellblau/Lavendel  Breathing Crystal  Andro
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07NLRHK6M/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NLRHK6M/?tag=tolees0ca-21)

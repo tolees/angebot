@@ -26,4 +26,4 @@ Sie können [Exzenterschleifer  Meterk Schleifmaschine  300W 12000RPM  mit 6 Var
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07KG5VGXN/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07KG5VGXN/?tag=tolees0ca-21)

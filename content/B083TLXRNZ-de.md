@@ -26,4 +26,4 @@ Sie können [Regal bambus 2er set Badezimmerregal Badregal Bambus Standregal Bad
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B083TLXRNZ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B083TLXRNZ/?tag=tolees0ca-21)

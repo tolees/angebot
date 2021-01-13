@@ -26,4 +26,4 @@ Es gibt ein [Haier HWD80-B14636 Waschtrockner / A / 1080 kWh/Jahr /1400 UpM / 8 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B075ZJD16P/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B075ZJD16P/?tag=tolees0ca-21)

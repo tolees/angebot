@@ -26,4 +26,4 @@ Es gibt ein [ONLY Female Skinny Fit Jeans ONLUltimate King reg M32Dark Blue Deni
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00C2KVP4Q/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00C2KVP4Q/?tag=tolees0ca-21)

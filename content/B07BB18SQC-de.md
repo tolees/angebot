@@ -26,4 +26,4 @@ Es gibt ein [Lego Star Wars Minifigur A-Wing Pilot Tallissan Lintra mit GALAXYAR
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07BB18SQC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07BB18SQC/?tag=tolees0ca-21)

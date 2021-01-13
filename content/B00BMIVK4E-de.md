@@ -26,4 +26,4 @@ Es gibt ein [The Iceman](https://www.amazon.de/dp/B00BMIVK4E/?tag=tolees0ca-21) 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00BMIVK4E/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00BMIVK4E/?tag=tolees0ca-21)

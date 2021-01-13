@@ -26,4 +26,4 @@ Sie können [BIONAIRE BT19-I Turmventilator  40 W  Grau](https://www.amazon.de/d
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B004WG3ZJG/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B004WG3ZJG/?tag=tolees0ca-21)

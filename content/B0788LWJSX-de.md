@@ -26,4 +26,4 @@ Es gibt ein [Predator Cestus 500 Gaming Maus  Dual Omron Switches  70 Mio. Klick
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0788LWJSX/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0788LWJSX/?tag=tolees0ca-21)

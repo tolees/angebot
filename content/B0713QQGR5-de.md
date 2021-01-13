@@ -26,4 +26,4 @@ Sie können [Bosch Säge AdvancedCut 50  500 Watt  NanoBlade Technologie  im Kof
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0713QQGR5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0713QQGR5/?tag=tolees0ca-21)

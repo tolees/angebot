@@ -26,4 +26,4 @@ Sie können [HP LaserJet Enterprise M506x  F2A70A  Mono Laserdrucker  Drucker  D
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B014VY6V1M/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B014VY6V1M/?tag=tolees0ca-21)

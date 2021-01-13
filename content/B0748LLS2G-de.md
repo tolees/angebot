@@ -26,4 +26,4 @@ Es gibt ein [Salamander Herren Matheus Derbys  Braun  Cognac  Brown 07   42 EU](
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0748LLS2G/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0748LLS2G/?tag=tolees0ca-21)

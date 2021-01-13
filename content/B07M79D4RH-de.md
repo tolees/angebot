@@ -26,4 +26,4 @@ Es gibt ein [Fossil Herren-Smartwatch mit Silikon Armband FTW4019](https://www.a
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07M79D4RH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07M79D4RH/?tag=tolees0ca-21)

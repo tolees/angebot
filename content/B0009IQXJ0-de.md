@@ -26,4 +26,4 @@ Es gibt ein [Meguiar s G7516EU Endurance High Gloss Tyre Gel Reifenglanz  473 ml
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0009IQXJ0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0009IQXJ0/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Körperfettwaage  INSMART Personenwaage digital mit APP  Bluetooth 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07XJXKBC6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07XJXKBC6/?tag=tolees0ca-21)

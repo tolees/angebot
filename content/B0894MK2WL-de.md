@@ -26,4 +26,4 @@ Es gibt ein [Zorara LED TV Hintergrundbeleuchtung  LED Strip USB 3M mit Fernbedi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0894MK2WL/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0894MK2WL/?tag=tolees0ca-21)

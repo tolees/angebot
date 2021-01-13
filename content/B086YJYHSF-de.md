@@ -26,4 +26,4 @@ Es gibt ein [K9CK Bauspielzeug  Bauset Modifiziertes Paket Lässt Sich umbauen K
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B086YJYHSF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B086YJYHSF/?tag=tolees0ca-21)

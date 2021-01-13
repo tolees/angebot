@@ -26,4 +26,4 @@ Es gibt ein [Wepro kompatibel mit AirPods Pro Hülle Abstrahlend 2019  Stoßfest
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0834KTSPW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0834KTSPW/?tag=tolees0ca-21)

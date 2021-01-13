@@ -26,4 +26,4 @@ Es gibt ein [Homgeek Zerkleinerer  Universalzerkleinerer 1.8L  Edelstahl Vier-Me
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07V376HSG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07V376HSG/?tag=tolees0ca-21)

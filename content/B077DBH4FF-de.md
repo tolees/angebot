@@ -26,4 +26,4 @@ Es gibt ein [Enders 5676 Wetterschutzhülle  Schwarz  50 x 50 x 120 cm](https://
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B077DBH4FF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B077DBH4FF/?tag=tolees0ca-21)

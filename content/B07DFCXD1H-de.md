@@ -26,4 +26,4 @@ Sie können [Funko 30697 Full Metal Alchemist: Ed POP Vinylfigur  Multi](https:/
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07DFCXD1H/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07DFCXD1H/?tag=tolees0ca-21)

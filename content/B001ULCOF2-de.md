@@ -26,4 +26,4 @@ Es gibt ein [tesa Insect Stop COMFORT Fliegengitter für Fenster - Insektenschut
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001ULCOF2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001ULCOF2/?tag=tolees0ca-21)

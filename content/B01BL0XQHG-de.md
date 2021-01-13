@@ -26,4 +26,4 @@ Es gibt ein [5 Original Albums](https://www.amazon.de/dp/B01BL0XQHG/?tag=tolees0
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01BL0XQHG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01BL0XQHG/?tag=tolees0ca-21)

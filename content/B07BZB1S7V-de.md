@@ -26,4 +26,4 @@ Sie können [AOC AGON AG352UCG6 88 9 cm  35 Zoll  Curved Monitor  HDMI  USB Hub 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07BZB1S7V/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07BZB1S7V/?tag=tolees0ca-21)

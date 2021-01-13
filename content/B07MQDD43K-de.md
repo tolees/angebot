@@ -26,4 +26,4 @@ Sie können [LaCie MOBILE DRIVE Moon Silver  tragbare externe Festplatte 5 TB  2
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07MQDD43K/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07MQDD43K/?tag=tolees0ca-21)

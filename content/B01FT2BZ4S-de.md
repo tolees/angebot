@@ -26,4 +26,4 @@ Es gibt ein [Levi s Emerson Herren Kurzschaft Stiefel  Schwarz  Black 59   42 EU
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01FT2BZ4S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01FT2BZ4S/?tag=tolees0ca-21)

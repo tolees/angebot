@@ -26,4 +26,4 @@ Es gibt ein [RITUALS The Ritual of Sakura AntitranspirantSpray   150 ml](https:/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01M0ABPKP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01M0ABPKP/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [1917/Ost](https://www.amazon.de/dp/B07YMH9ZJ3/?tag=tolees0ca-21) mi
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07YMH9ZJ3/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07YMH9ZJ3/?tag=tolees0ca-21)

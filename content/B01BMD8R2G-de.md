@@ -26,4 +26,4 @@ Es gibt ein [Eizo CS2420 61 cm  24 Zoll  Grafik Monitor  DisplayPort  DVI-D  HDM
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01BMD8R2G/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01BMD8R2G/?tag=tolees0ca-21)

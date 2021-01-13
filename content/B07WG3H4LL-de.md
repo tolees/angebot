@@ -26,4 +26,4 @@ Es gibt ein [Vige 25 Pares Herramienta de reparación de almohadillas de silicon
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07WG3H4LL/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07WG3H4LL/?tag=tolees0ca-21)

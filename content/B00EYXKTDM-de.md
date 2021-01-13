@@ -26,4 +26,4 @@ Es gibt ein [TP-Link TL-WPA4220T KIT AV600 WLAN N300 WiFi Powerline  max. 600Mbi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00EYXKTDM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00EYXKTDM/?tag=tolees0ca-21)

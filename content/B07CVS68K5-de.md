@@ -26,4 +26,4 @@ Sie können [AUKEY USB C Ladegeräte 30W  Tragbares Schnellladegerät USB Typ C 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07CVS68K5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07CVS68K5/?tag=tolees0ca-21)

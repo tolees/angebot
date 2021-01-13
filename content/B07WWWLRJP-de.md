@@ -26,4 +26,4 @@ Sie können [Sonos One SL All-In-One Smart Speaker  Kraftvoller WLAN Lautspreche
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07WWWLRJP/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07WWWLRJP/?tag=tolees0ca-21)

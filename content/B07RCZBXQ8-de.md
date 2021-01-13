@@ -26,4 +26,4 @@ Es gibt ein [G-STAR RAW Herren 3301 Straight Jeans  Antic Charcoal B479-A800  44
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07RCZBXQ8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07RCZBXQ8/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Schiesser Damen Tai  3er Pack  Slip  Weiß  weiss 100   40/L](https
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00KHTLCVU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00KHTLCVU/?tag=tolees0ca-21)

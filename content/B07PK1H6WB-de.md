@@ -26,4 +26,4 @@ Es gibt ein [LG SL8YG Dolby Atmos 3.1.2 Soundbar  mit Meridian Soundtechnologie 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PK1H6WB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PK1H6WB/?tag=tolees0ca-21)

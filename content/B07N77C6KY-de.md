@@ -26,4 +26,4 @@ Es gibt ein [Lexar High-Performance 633x 512GB microSDXC UHS-I Karte](https://ww
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07N77C6KY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07N77C6KY/?tag=tolees0ca-21)

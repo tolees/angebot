@@ -26,4 +26,4 @@ Sie können [tado° Smartes Heizkörper-Thermostat Starter Kit V3+ - Intelligent
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07FYSF4F1/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07FYSF4F1/?tag=tolees0ca-21)

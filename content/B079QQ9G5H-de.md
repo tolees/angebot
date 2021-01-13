@@ -26,4 +26,4 @@ Sie können [König & Meyer 16075 Headphones Table Stand  Schwarz ](https://www.
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B079QQ9G5H/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B079QQ9G5H/?tag=tolees0ca-21)

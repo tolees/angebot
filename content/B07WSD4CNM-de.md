@@ -26,4 +26,4 @@ Es gibt ein [MEDION ERAZER P6705 39 5 cm  15 6 Zoll  Full HD Gaming Notebook  In
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07WSD4CNM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07WSD4CNM/?tag=tolees0ca-21)

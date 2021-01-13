@@ -26,4 +26,4 @@ Es gibt ein [Luftentfeuchter Elektrisch 1200ml Geringer Energieverbrauch Reinigu
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B08DJ8X3J4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B08DJ8X3J4/?tag=tolees0ca-21)

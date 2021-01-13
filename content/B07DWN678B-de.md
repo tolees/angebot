@@ -26,4 +26,4 @@ Es gibt ein [iMangoo Dash Ladegerät  5V 4A Dash Ladegerät Schnelladapter mit 2
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07DWN678B/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07DWN678B/?tag=tolees0ca-21)

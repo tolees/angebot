@@ -26,4 +26,4 @@ Es gibt ein [Tefal E21846 Trattoria Kochtopf  mit Gussdeckel  antihaftbeschichte
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PN6X5R8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PN6X5R8/?tag=tolees0ca-21)

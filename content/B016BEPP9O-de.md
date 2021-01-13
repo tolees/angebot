@@ -26,4 +26,4 @@ Sie können [Kingston DT100G3/128GB DataTraveler 100 G3  USB 3.0  3.1 Flash Driv
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B016BEPP9O/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B016BEPP9O/?tag=tolees0ca-21)

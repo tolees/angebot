@@ -26,4 +26,4 @@ Es gibt ein [Libratone ZIPP MINI 2 Smart Wireless kleiner Lautsprecher  Alexa In
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07H54TJ2M/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07H54TJ2M/?tag=tolees0ca-21)

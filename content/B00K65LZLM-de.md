@@ -26,4 +26,4 @@ Sie können [Transcend TS32GJF590K JetFlash 32GB Speicherstick USB 2.0 schwarz/r
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B00K65LZLM/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B00K65LZLM/?tag=tolees0ca-21)

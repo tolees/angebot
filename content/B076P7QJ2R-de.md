@@ -26,4 +26,4 @@ Es gibt ein [Alicemall SUS304 Edelstahl Küchen Hängeleiste Bad Hakenleiste mit
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B076P7QJ2R/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B076P7QJ2R/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [CSL - USB Bluetooth Adapter V4.0 - A2DP - Windows 10 kompatibel - W
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07XTGTQFW/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07XTGTQFW/?tag=tolees0ca-21)

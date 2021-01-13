@@ -26,4 +26,4 @@ Es gibt ein [Samsonite Aeris Upright L Koffer  78 cm  118.5 L  Schwarz  Black ](
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00106XCYY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00106XCYY/?tag=tolees0ca-21)

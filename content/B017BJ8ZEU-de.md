@@ -26,4 +26,4 @@ Es gibt ein [Bosch Serie 8 KIF41AD40 Einbau Kühlschrank / EEK A+++ / 80 kWh/Jah
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B017BJ8ZEU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B017BJ8ZEU/?tag=tolees0ca-21)

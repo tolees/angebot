@@ -26,4 +26,4 @@ Es gibt ein [BRIKSMAX Led Beleuchtungsset für Lego Technic Chevrolet Corvette Z
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07TB8BT8J/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07TB8BT8J/?tag=tolees0ca-21)

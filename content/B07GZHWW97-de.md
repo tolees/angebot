@@ -26,4 +26,4 @@ Sie können [TechniSat DIGITRADIO 2 S - Tragbares DAB Stereo-Radio mit Akku  DAB
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07GZHWW97/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07GZHWW97/?tag=tolees0ca-21)

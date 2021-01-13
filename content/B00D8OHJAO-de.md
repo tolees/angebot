@@ -26,4 +26,4 @@ Es gibt ein [Steiff Schlaf Gut Bär Schmusetuch - 30 cm - Kuscheltuch Teddybär 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00D8OHJAO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00D8OHJAO/?tag=tolees0ca-21)

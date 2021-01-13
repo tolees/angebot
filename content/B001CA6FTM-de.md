@@ -26,4 +26,4 @@ Es gibt ein [HAZET 868X Verlängerung  1/4 Zoll  6.3 mm](https://www.amazon.de/d
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001CA6FTM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001CA6FTM/?tag=tolees0ca-21)

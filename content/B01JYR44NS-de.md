@@ -26,4 +26,4 @@ Es gibt ein [Parrot 3520410038808 Minidrone Swing mit Flypad  schwarz](https://w
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01JYR44NS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01JYR44NS/?tag=tolees0ca-21)

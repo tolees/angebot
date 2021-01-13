@@ -26,4 +26,4 @@ Sie können [Bosch Akku Schleifer und Polierer EasyCurvSander 12  1 Akku  12 Vol
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07VKSTTLT/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07VKSTTLT/?tag=tolees0ca-21)

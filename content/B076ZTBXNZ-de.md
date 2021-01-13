@@ -26,4 +26,4 @@ Es gibt ein [Belkin ScreenForce TemperedCurve Displayschutz  geeignet für iPhon
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B076ZTBXNZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B076ZTBXNZ/?tag=tolees0ca-21)

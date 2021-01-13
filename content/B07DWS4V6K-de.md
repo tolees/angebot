@@ -26,4 +26,4 @@ Es gibt ein [AmazonBasics - Lightning-auf-USB-A-Kabel  Premium-Kollektion  0 9 m
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07DWS4V6K/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07DWS4V6K/?tag=tolees0ca-21)

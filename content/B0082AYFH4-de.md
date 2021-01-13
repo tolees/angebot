@@ -26,4 +26,4 @@ Es gibt ein [Panama Jack Felia Igloo  Damen Warm gefüttert Biker Boots Halbscha
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0082AYFH4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0082AYFH4/?tag=tolees0ca-21)

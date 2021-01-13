@@ -26,4 +26,4 @@ Es gibt ein [WOTEGA Jeans Herren Alistar Slim fit - Stretch Jeanshose - Blaue Ho
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B087RPSH2X/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B087RPSH2X/?tag=tolees0ca-21)

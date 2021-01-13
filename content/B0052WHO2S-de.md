@@ -26,4 +26,4 @@ Es gibt ein [Brother FS20 Computer-Nähmaschine mit 32 Nähprogramme  Automatisc
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0052WHO2S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0052WHO2S/?tag=tolees0ca-21)

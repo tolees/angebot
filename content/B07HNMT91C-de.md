@@ -26,4 +26,4 @@ Sie können [ASUS ROG STRIX NVIDIA GeForce RTX 2080 Ti OC 11G Gaming Grafikkarte
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07HNMT91C/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07HNMT91C/?tag=tolees0ca-21)

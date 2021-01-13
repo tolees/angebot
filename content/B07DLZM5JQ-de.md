@@ -26,4 +26,4 @@ Sie können [SAMSONITE PRO-DLX 5 - Bailhandle Erweiterbar für 17.3" Laptop - 24
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07DLZM5JQ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07DLZM5JQ/?tag=tolees0ca-21)

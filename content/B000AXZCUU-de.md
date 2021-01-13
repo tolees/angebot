@@ -26,4 +26,4 @@ Es gibt ein [We Get Requests  Verve Originals Serie ](https://www.amazon.de/dp/B
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000AXZCUU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000AXZCUU/?tag=tolees0ca-21)

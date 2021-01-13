@@ -26,4 +26,4 @@ Es gibt ein [Hama Universal-Drehteller  360° drehbar  Drehscheibe geeignet für
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00006JAXW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00006JAXW/?tag=tolees0ca-21)

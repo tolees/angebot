@@ -26,4 +26,4 @@ Es gibt ein [Timezone Herren Straight Leg Hose BenitoTZ cargo pants incl. belt  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00KFF9WJ0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00KFF9WJ0/?tag=tolees0ca-21)

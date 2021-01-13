@@ -26,4 +26,4 @@ Es gibt ein [Sorel Herren Caribou Winterstiefel  Dunkelbraun  Bruno   43 EU](htt
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000S6OKUM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000S6OKUM/?tag=tolees0ca-21)

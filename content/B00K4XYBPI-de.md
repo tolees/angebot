@@ -26,4 +26,4 @@ Es gibt ein [ANSMANN 1400-0058 A-Oly BLN 1 Li-Ion Digicam Akku 7 4V/1140mAh für
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00K4XYBPI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00K4XYBPI/?tag=tolees0ca-21)

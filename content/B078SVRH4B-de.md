@@ -26,4 +26,4 @@ Es gibt ein [SanDisk Extreme Portable SSD externe Festplatte 250GB  SSD extern 2
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B078SVRH4B/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B078SVRH4B/?tag=tolees0ca-21)

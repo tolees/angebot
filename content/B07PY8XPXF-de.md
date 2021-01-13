@@ -26,4 +26,4 @@ Es gibt ein [HITACHI F43E4000 109 cm  43 Zoll  Fernseher  Full HD  Smart TV  Pri
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PY8XPXF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PY8XPXF/?tag=tolees0ca-21)

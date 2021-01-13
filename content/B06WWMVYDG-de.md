@@ -26,4 +26,4 @@ Es gibt ein [Craft Herren Greatness Bike Shorts  weiß  XS](https://www.amazon.d
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06WWMVYDG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06WWMVYDG/?tag=tolees0ca-21)

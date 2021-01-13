@@ -26,4 +26,4 @@ Sie können [SVITA T20 grau Metall Mülleimer Treteimer Abfalleimer 20 Liter ink
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B08CDQQ5VD/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B08CDQQ5VD/?tag=tolees0ca-21)

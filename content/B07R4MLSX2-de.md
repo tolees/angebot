@@ -26,4 +26,4 @@ Es gibt ein [ORICO Aluminium M.2 NVMe SSD Gehäuse  Ultraflacher M-Key für USB3
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07R4MLSX2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07R4MLSX2/?tag=tolees0ca-21)

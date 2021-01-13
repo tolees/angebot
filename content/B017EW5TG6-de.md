@@ -26,4 +26,4 @@ Es gibt ein [ORICO Bluetooth 4.0 Adapter Highspeed  USB Bluetooth Dongle 4.0 fü
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B017EW5TG6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B017EW5TG6/?tag=tolees0ca-21)

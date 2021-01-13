@@ -26,4 +26,4 @@ Es gibt ein [MEDION E66550 Küchen Unterbauradio mit Bluetooth-Funktion  PLL UKW
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07YMZ7FM8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07YMZ7FM8/?tag=tolees0ca-21)

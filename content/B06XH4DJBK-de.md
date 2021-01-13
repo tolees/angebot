@@ -26,4 +26,4 @@ Es gibt ein [KINLO möbelfolie Braun 2 Stk. 61x500cm aus hochwertigem PVC tapete
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XH4DJBK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XH4DJBK/?tag=tolees0ca-21)

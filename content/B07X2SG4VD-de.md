@@ -26,4 +26,4 @@ Es gibt ein [Emsa N2011900 Travel Mug Wave-Design Thermobecher/Isolierbecher  50
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07X2SG4VD/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07X2SG4VD/?tag=tolees0ca-21)

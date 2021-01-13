@@ -26,4 +26,4 @@ Sie können [Salewa Puez Alphubel Wo Headband Stirnbänder  Carrot/4630  UNI58](
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07RFWSTJK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07RFWSTJK/?tag=tolees0ca-21)

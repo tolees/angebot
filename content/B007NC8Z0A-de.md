@@ -26,4 +26,4 @@ Es gibt ein [Durex Play Perfect Glide Gleitgel auf Silikonbasis – Seidig-glatt
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B007NC8Z0A/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B007NC8Z0A/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [BRIKSMAX Led Beleuchtungsset für Lego Technic Schwerlast-Gabelstap
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07TVP2NYW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07TVP2NYW/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Fire Emblem Echoes: Shadows of Valentia [3DS]](https://www.amazon.d
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B01N6SQFE1/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B01N6SQFE1/?tag=tolees0ca-21)

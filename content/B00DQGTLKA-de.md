@@ -26,4 +26,4 @@ Es gibt ein [Silit Ersatzteil Sicomatic Dichtungsring  22 cm  für Schnellkochto
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00DQGTLKA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00DQGTLKA/?tag=tolees0ca-21)

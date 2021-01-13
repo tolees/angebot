@@ -26,4 +26,4 @@ Es gibt ein [Troja  Director s Cut  [Blu-ray]](https://www.amazon.de/dp/B0013IJ2
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0013IJ2NY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0013IJ2NY/?tag=tolees0ca-21)

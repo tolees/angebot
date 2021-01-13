@@ -26,4 +26,4 @@ Es gibt ein [De Longhi EDG505.W | NESCAFÉ Dolce Gusto Esperta | Kapsel Kaffeema
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PPVM8SD/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PPVM8SD/?tag=tolees0ca-21)

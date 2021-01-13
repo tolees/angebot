@@ -26,4 +26,4 @@ Es gibt ein [Logitech Z200 2.0 Lautsprecher mit Subwoofer  Surround Sound  10 Wa
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00EUUXBDE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00EUUXBDE/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Bosch Akku Staubsauger UniversalVac 18  2 5 Ah Akku  18 Volt System
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07JYK3DQN/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07JYK3DQN/?tag=tolees0ca-21)

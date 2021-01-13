@@ -26,4 +26,4 @@ Es gibt ein [QNAP TVS-1282-i3-8G  Hochleistungsfähiges NAS-System  Tiered Stora
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01HJUSZ14/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01HJUSZ14/?tag=tolees0ca-21)

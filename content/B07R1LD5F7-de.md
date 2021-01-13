@@ -26,4 +26,4 @@ Sie können [Briksmax Led Beleuchtungsset für Creator Palace Cinema  Kompatibel
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07R1LD5F7/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07R1LD5F7/?tag=tolees0ca-21)

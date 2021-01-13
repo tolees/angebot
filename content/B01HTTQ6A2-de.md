@@ -26,4 +26,4 @@ Es gibt ein [Vileda Turbo EasyWring und Clean Komplett Set  mit Kraftfaser-Wisch
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01HTTQ6A2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01HTTQ6A2/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [taymar® Prospekthalter/Flyerhalter 4 Fächer DIN Lang  DL ](https:
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B001P0LV0W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B001P0LV0W/?tag=tolees0ca-21)

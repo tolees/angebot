@@ -26,4 +26,4 @@ Sie können [AKG K275 Geschlossener leichter Over-Ear-Studiokopfhörer zum Zusam
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06Y5T4Y3Y/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06Y5T4Y3Y/?tag=tolees0ca-21)

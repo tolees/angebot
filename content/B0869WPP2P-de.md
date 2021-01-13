@@ -26,4 +26,4 @@ Es gibt ein [Xiaomi Mi 10 Smartphone + Kopfhörer  16 94cm  6 67"  FHD+ Display 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0869WPP2P/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0869WPP2P/?tag=tolees0ca-21)

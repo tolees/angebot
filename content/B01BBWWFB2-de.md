@@ -26,4 +26,4 @@ Es gibt ein [AVM FRITZ!Fon C5 DECT-Komforttelefon  hochwertiges Farbdisplay  HD-
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01BBWWFB2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01BBWWFB2/?tag=tolees0ca-21)

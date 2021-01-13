@@ -26,4 +26,4 @@ Sie können [ORICO Tool-Free 5 Bay USB 3.0 3.5 Zoll Magnetic-Type Festplattengeh
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07WCM6F7Z/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07WCM6F7Z/?tag=tolees0ca-21)

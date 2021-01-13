@@ -26,4 +26,4 @@ Es gibt ein [Samsung HW-MS650 Soundbar Sound+  integrierter Subwoofer  Bluetooth
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XCQM2TZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XCQM2TZ/?tag=tolees0ca-21)

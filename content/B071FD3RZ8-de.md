@@ -26,4 +26,4 @@ Es gibt ein [ONLY Female Skinny Fit Jeans ONLRain reg XL30Black Denim](https://w
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B071FD3RZ8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B071FD3RZ8/?tag=tolees0ca-21)

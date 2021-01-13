@@ -26,4 +26,4 @@ Es gibt ein [Lego Wear Mädchen Lego Tec Play LWALFRED 706-Fäustlinge mit Membr
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07KW6MFLS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KW6MFLS/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Hasbro Gaming C2018398 - Klartext Partyspiel  Alter 16+ ](https://w
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01NC06BE6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01NC06BE6/?tag=tolees0ca-21)

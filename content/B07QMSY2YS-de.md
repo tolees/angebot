@@ -26,4 +26,4 @@ Es gibt ein [ONECE Duschsystem mit Thermostat Duscharmatur Regendusche mit Edels
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07QMSY2YS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07QMSY2YS/?tag=tolees0ca-21)

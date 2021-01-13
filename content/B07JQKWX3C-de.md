@@ -26,4 +26,4 @@ Sie können [iVANKY DisplayPort Kabel  2M/4K  DisplayPort auf DisplayPort Kabel 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07JQKWX3C/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07JQKWX3C/?tag=tolees0ca-21)

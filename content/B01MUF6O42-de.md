@@ -26,4 +26,4 @@ Es gibt ein [3Ds Mario Sports Superstars  Eu ](https://www.amazon.de/dp/B01MUF6O
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01MUF6O42/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MUF6O42/?tag=tolees0ca-21)

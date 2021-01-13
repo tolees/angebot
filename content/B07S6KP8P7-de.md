@@ -26,4 +26,4 @@ Sie können [HP Pavilion Gaming 17-cd0228ng  17 3 Zoll / FHD IPS 144Hz  Notebook
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07S6KP8P7/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07S6KP8P7/?tag=tolees0ca-21)

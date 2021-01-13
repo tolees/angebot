@@ -26,4 +26,4 @@ Es gibt ein [GoPro Armband schwarz](https://www.amazon.de/dp/B06XHKQKDH/?tag=tol
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B06XHKQKDH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XHKQKDH/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Remington Epilierer smooth&silky EP7010  Anti-Rutsch-Pinzetten-Tech
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00BHW0MO4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00BHW0MO4/?tag=tolees0ca-21)

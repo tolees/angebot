@@ -26,4 +26,4 @@ Sie können [Funko 35678 Vinyl: Movies: James Bond: Daniel Craig  Casino Royale 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07HJC3KXB/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07HJC3KXB/?tag=tolees0ca-21)

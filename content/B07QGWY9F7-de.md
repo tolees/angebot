@@ -26,4 +26,4 @@ Sie können [Funko POP! Vinyl Rocks: Iggy Pop - Iggy  Mehrfarben  Standard](http
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07QGWY9F7/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07QGWY9F7/?tag=tolees0ca-21)

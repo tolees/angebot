@@ -26,4 +26,4 @@ Sie können [Hasbro Gaming E3278100 Monopoly Game of Thrones  deutsche Version  
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07N3B3HKR/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07N3B3HKR/?tag=tolees0ca-21)

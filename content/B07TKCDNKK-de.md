@@ -26,4 +26,4 @@ Sie können [iBetter für Google Pixel 4 Hülle  Ultra Thin Tasche Cover Silikon
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07TKCDNKK/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07TKCDNKK/?tag=tolees0ca-21)

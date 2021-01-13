@@ -26,4 +26,4 @@ Es gibt ein [FIBARO Double Switch 2 / Z-Wave Plus Relaisschalter  Drahtloser Ein
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01HM0MQAW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01HM0MQAW/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Samsung Galaxy Note 10 Smartphone Bundle  15.9cm  6.3 Zoll  256GB i
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07VVLZ9R8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07VVLZ9R8/?tag=tolees0ca-21)

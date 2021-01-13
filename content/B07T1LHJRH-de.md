@@ -26,4 +26,4 @@ Sie können [Disgaea 4 Complete+  PS4 ](https://www.amazon.de/dp/B07T1LHJRH/?tag
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07T1LHJRH/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07T1LHJRH/?tag=tolees0ca-21)

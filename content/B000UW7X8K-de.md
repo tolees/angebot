@@ -26,4 +26,4 @@ Es gibt ein [Jung Abdeckung CD561SATWW für SAT-TV-Steckdose](https://www.amazon
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000UW7X8K/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000UW7X8K/?tag=tolees0ca-21)

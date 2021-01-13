@@ -26,4 +26,4 @@ Es gibt ein [Briggs & Stratton Tragbarer Benzin-Inverter-Generator der PowerSmar
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B078XXGQYQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B078XXGQYQ/?tag=tolees0ca-21)

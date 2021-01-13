@@ -26,4 +26,4 @@ Es gibt ein [Buff Erwachsene Mütze Merino Thermal  Solid Black  one size](https
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B012GSKB8O/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B012GSKB8O/?tag=tolees0ca-21)

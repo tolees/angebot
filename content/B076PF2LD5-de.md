@@ -26,4 +26,4 @@ Sie können [Motorola MDC 10W Dash Cam | Auto Dashkamera Wlan-Kompatibel | HD Vi
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B076PF2LD5/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B076PF2LD5/?tag=tolees0ca-21)

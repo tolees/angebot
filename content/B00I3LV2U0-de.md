@@ -26,4 +26,4 @@ Es gibt ein [Sony MDR-EX15AP In-Ear-Kopfhörer  mit Headsetfunktion  integrierte
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00I3LV2U0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00I3LV2U0/?tag=tolees0ca-21)

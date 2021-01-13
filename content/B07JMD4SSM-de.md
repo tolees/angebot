@@ -26,4 +26,4 @@ Es gibt ein [Meereskönig mit Haikutsche](https://www.amazon.de/dp/B07JMD4SSM/?t
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07JMD4SSM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07JMD4SSM/?tag=tolees0ca-21)

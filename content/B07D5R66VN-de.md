@@ -26,4 +26,4 @@ Es gibt ein [FullBerg Nagellack Regal mit 3 Metall Ablagen als Wandregal Aufbewa
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07D5R66VN/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07D5R66VN/?tag=tolees0ca-21)

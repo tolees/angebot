@@ -26,4 +26,4 @@ Sie können [SKROSS Country Adapter World to Europe: Reiseadapter für Reisen in
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B005P21MNW/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B005P21MNW/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Sie können [Meetory Etikettenhalter aus Kunststoff transparent Preisschildhalte
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07FZZVBNL/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07FZZVBNL/?tag=tolees0ca-21)

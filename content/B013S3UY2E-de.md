@@ -26,4 +26,4 @@ Es gibt ein [Creative Sound BlasterX H3 analoges Pro-Gaming Headset  schwarz](ht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B013S3UY2E/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B013S3UY2E/?tag=tolees0ca-21)

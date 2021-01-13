@@ -26,4 +26,4 @@ Es gibt ein [Spiegelau & Nachtmann Longdrinkgläser  Glas  durchsichtig](https:/
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B007K0GJSA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B007K0GJSA/?tag=tolees0ca-21)

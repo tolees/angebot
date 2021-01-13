@@ -26,4 +26,4 @@ Es gibt ein [Jamara 403071 - BMW M3 Sport 1:14  schwarz](https://www.amazon.de/d
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00CJ46LP8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00CJ46LP8/?tag=tolees0ca-21)

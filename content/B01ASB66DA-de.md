@@ -26,4 +26,4 @@ Es gibt ein [Neff TBD 4800 N Kochfeld Elektro / Induktion / 79 5 cm / Automatisc
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01ASB66DA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01ASB66DA/?tag=tolees0ca-21)

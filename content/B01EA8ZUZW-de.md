@@ -26,4 +26,4 @@ Es gibt ein [Yealink WF40 WLAN 150 MBit/s Netzwerkkarte – Zubehör Netzwer
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01EA8ZUZW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01EA8ZUZW/?tag=tolees0ca-21)

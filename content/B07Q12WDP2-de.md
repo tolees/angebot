@@ -26,4 +26,4 @@ Es gibt ein [Marshall Stockwell II Tragbarer Lautsprecher - schwarz](https://www
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07Q12WDP2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07Q12WDP2/?tag=tolees0ca-21)

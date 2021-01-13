@@ -26,4 +26,4 @@ Es gibt ein [G-STAR RAW Damen Midge Saddle Mid-Waist Straight Jeans  Medium Indi
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07BJHQ4JD/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07BJHQ4JD/?tag=tolees0ca-21)

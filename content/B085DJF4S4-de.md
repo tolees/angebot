@@ -26,4 +26,4 @@ Es gibt ein [Bluetooth Adapter 5.0  3 in 1 3.5 mm Bluetooth Empfänger Sender Au
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B085DJF4S4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B085DJF4S4/?tag=tolees0ca-21)

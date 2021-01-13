@@ -26,4 +26,4 @@ Sie können [De’Longhi  Dedica EC 685.W Espresso Siebträgermaschine | 15 bar 
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B06X3ZWVZ7/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B06X3ZWVZ7/?tag=tolees0ca-21)

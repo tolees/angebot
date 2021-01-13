@@ -26,4 +26,4 @@ Sie können [Bosch PST 700 ReadyToSaw Stichsäge inkl. Koffer 500W](https://www.
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07FV3VBWJ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07FV3VBWJ/?tag=tolees0ca-21)

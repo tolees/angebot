@@ -26,4 +26,4 @@ Es gibt ein [Sony Alpha 7RM2 E-Mount Vollformat Digitalkamera ILCE-7RM2  42 4 Me
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B010THXVNQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B010THXVNQ/?tag=tolees0ca-21)

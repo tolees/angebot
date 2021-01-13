@@ -26,4 +26,4 @@ Sie können [Apple iPhone X  64GB  - Silber](https://www.amazon.de/dp/B075LYDD7Z
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B075LYDD7Z/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B075LYDD7Z/?tag=tolees0ca-21)

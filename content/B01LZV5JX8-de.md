@@ -26,4 +26,4 @@ Es gibt ein [Ihr Auftritt  Al Mundy! - Komplettbox  Alle 3 Staffeln / Folgen 1-6
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01LZV5JX8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01LZV5JX8/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Under Armour Herren UA HeatGear Long Sleeve langärmliges Funktions
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00KHTNLXM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00KHTNLXM/?tag=tolees0ca-21)

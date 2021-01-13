@@ -26,4 +26,4 @@ Es gibt ein [Asus ZenBook Pro 15 UX580GD 90NB0I73-M00240 Notebook  39 6 cm  15 6
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07DKR6LXC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07DKR6LXC/?tag=tolees0ca-21)

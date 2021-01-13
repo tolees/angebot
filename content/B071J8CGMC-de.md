@@ -26,4 +26,4 @@ Es gibt ein [Garmin VIRB 360 - wasserdichte 360-Grad-Kamera mit GPS und bis zu 5
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B071J8CGMC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B071J8CGMC/?tag=tolees0ca-21)

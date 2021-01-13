@@ -26,4 +26,4 @@ Es gibt ein [Gigaset Smart Speaker L800HX - Lautsprecher mit Alexa-Integration u
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07S97KY8H/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07S97KY8H/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [Playmobil 70098 Magic Meerjungfrau mit Schneckengondel  bunt](https
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07JMCC8R4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07JMCC8R4/?tag=tolees0ca-21)

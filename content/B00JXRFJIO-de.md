@@ -26,4 +26,4 @@ Es gibt ein [LECHUZA CUBICO Premium 40  Taupe Hochglanz  Hochwertiger Kunststoff
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00JXRFJIO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00JXRFJIO/?tag=tolees0ca-21)

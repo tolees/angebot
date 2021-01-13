@@ -26,4 +26,4 @@ Es gibt ein [WMF Safari Kinderbesteck  4-teilig  ab 3 Jahren  Cromargan Edelstah
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B000W2IBRK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B000W2IBRK/?tag=tolees0ca-21)

@@ -26,4 +26,4 @@ Es gibt ein [CEP Damen Strumpf Progressive+ Run Socks 2.0  Black/Grey  Gr.II](ht
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00BAV96XU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00BAV96XU/?tag=tolees0ca-21)

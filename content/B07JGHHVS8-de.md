@@ -26,4 +26,4 @@ Es gibt ein [PUMA Damen Carina L Niedrig  Weiß White-White-Silver  39 EU](https
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07JGHHVS8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07JGHHVS8/?tag=tolees0ca-21)

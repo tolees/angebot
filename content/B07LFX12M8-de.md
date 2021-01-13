@@ -26,4 +26,4 @@ Es gibt ein [Sloggi Damen Zero Microfibre C2P Hipster  Mehrfarbig  Black Combina
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07LFX12M8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07LFX12M8/?tag=tolees0ca-21)

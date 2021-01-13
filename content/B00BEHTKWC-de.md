@@ -26,4 +26,4 @@ Es gibt ein [Sonos Playbar WLAN Soundbar  schwarz – TV Soundbar mit kraftvolle
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00BEHTKWC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00BEHTKWC/?tag=tolees0ca-21)

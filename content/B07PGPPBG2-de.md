@@ -26,4 +26,4 @@ Es gibt ein [Elektronische Tasche Kabeltasche Kabelorganizer Doppelte Schichte E
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07PGPPBG2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PGPPBG2/?tag=tolees0ca-21)

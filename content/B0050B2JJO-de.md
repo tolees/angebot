@@ -26,4 +26,4 @@ Es gibt ein [Aigle Damen Aiglentine Langschaft Gummistiefel   Schwarz  noir 9   
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B0050B2JJO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B0050B2JJO/?tag=tolees0ca-21)

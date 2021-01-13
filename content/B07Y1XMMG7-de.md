@@ -26,4 +26,4 @@ Sie können [Systemsprenger](https://www.amazon.de/dp/B07Y1XMMG7/?tag=tolees0ca-
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07Y1XMMG7/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07Y1XMMG7/?tag=tolees0ca-21)

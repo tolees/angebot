@@ -26,4 +26,4 @@ Es gibt ein [Levi s Herren Freizeithemd Barstow Western  Schwarz/Black 0216  Med
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01MSH0NXA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MSH0NXA/?tag=tolees0ca-21)

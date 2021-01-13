@@ -26,4 +26,4 @@ Es gibt ein [LEGO Star Wars 75161 - Microfighter](https://www.amazon.de/dp/B01J4
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01J41KJ4M/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01J41KJ4M/?tag=tolees0ca-21)

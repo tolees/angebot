@@ -26,4 +26,4 @@ Sie können [Das Schweigen der Lämmer  + Krabat Sonder-Disc ](https://www.amazo
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B001E1DDSU/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B001E1DDSU/?tag=tolees0ca-21)

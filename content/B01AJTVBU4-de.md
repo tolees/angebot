@@ -26,4 +26,4 @@ Es gibt ein [Acer Predator XB1 XB271H 68.6 cm  27 Zoll  Monitor  HDMI  USB 3.0  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B01AJTVBU4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B01AJTVBU4/?tag=tolees0ca-21)

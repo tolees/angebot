@@ -26,4 +26,4 @@ Es gibt ein [Belkin Adapter USB-C auf USB-A  15cm  USB-C Stecker  USB-A Buchse  
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B00WJSPWRM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B00WJSPWRM/?tag=tolees0ca-21)

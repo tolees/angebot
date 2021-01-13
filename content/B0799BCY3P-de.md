@@ -26,4 +26,4 @@ Sie können [BISSELL 2380 CrossWave Hartboden-Bürstenrolle](https://www.amazon.
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B0799BCY3P/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0799BCY3P/?tag=tolees0ca-21)

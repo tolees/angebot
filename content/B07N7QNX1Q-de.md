@@ -26,4 +26,4 @@ Sie können [Domestos Power 5 WC-Stein für ein sauberes WC Ocean mit Anti-Kalk-
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B07N7QNX1Q/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07N7QNX1Q/?tag=tolees0ca-21)

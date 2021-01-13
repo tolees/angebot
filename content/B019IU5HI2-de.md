@@ -26,4 +26,4 @@ Es gibt ein [KLIM Wind Laptop Kühler - Leistungsstark Wie Kein Anderer – Schn
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B019IU5HI2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B019IU5HI2/?tag=tolees0ca-21)

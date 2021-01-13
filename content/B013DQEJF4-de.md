@@ -26,4 +26,4 @@ Es gibt ein [Bosch MUM5 CreationLine Küchenmaschine MUM58L20  Testsieger  viels
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B013DQEJF4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B013DQEJF4/?tag=tolees0ca-21)

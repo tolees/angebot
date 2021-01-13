@@ -26,4 +26,4 @@ Es gibt ein [TechniSat Digitradio 52 Stereo DAB Radiowecker mit zwei einstellbar
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B07H6CMDWF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07H6CMDWF/?tag=tolees0ca-21)

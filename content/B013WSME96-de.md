@@ -26,4 +26,4 @@ Es gibt ein [Sony Xperia Z5 Smartphone  5 2 Zoll  13 2 cm  Touch-Display  32 GB 
 ℹ️:
 
 
-[kauf es hier!!](https://www.amazon.de/dp/B013WSME96/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B013WSME96/?tag=tolees0ca-21)
