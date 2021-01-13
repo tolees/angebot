@@ -25,11 +25,11 @@ Es gibt ein [Sony HT-G700 3.1-Kanal-Soundbar mit Dolby Atmos  Surround Sound  Bl
 
 ℹ️:
 
-- Center-Lautsprecher für klare Dialoge
 - Immersive AE (Audio-Optimierung) für Audio-Upscaling auf nahezu 7.1.2-Kanal-Klang
-- Sound-Modi für optimierte Film- und Musikwiedergabe
 - Lieferumfang: Fernbedienung, Batterien für die Fernbedienung, Optisches Kabel, Netzkabel, Garantiekarte, Schnellkonfiguration, Bedienungsanleitung
 - 3.1-Kanal Dolby Atmos/DTS:X und Vertical Sound Engine
+- Center-Lautsprecher für klare Dialoge
+- Sound-Modi für optimierte Film- und Musikwiedergabe
 - Kabelloser Subwoofer für kraftvolle Bassklänge
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0886PNNMR/?tag=tolees0ca-21)

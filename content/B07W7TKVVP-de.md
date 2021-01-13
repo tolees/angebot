@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76896 Speed Champions Nissan GT-R N mit 25.09 % Rabatt'
-date: 2021-01-12 16:36:23
+date: 2021-01-13 17:12:46
 image: 'https://m.media-amazon.com/images/I/51fzW1r+dlL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07W7TKVVP/?tag=tolees0ca-21'
 descuento: '25.09'
-average: '19.016967213114757'
+average: '18.945725806451616'
 ---
 
 Sie können [LEGO 76896 Speed Champions Nissan GT-R NISMO Rennwagenspielzeug mit Rennfahrer Minifigur  Rennfahrzeuge Bausets](https://www.amazon.de/dp/B07W7TKVVP/?tag=tolees0ca-21) mit Preis 14.6 EUR (original: 19.49 EUR) 25.09 % Rabatt hier:
@@ -25,10 +25,10 @@ Sie können [LEGO 76896 Speed Champions Nissan GT-R NISMO Rennwagenspielzeug mit
 
 ℹ️:
 
-- New for January 2020, LEGO Speed Champions replicas are now 25 Percent bigger and more realistic than ever
-- Car fans can construct mini versions of some of the world’s most famous cars with LEGO Speed Champions building sets for kids
-- This brilliantly detailed replica is based on the world record-breaking drift car that has been loved by car enthusiasts for 50 years
-- The Nissan GT-R NISMO holds the record for the fastest drift - now, kids can take their place on the start line and race to victory
-- Includes 1 LEGO collectible minifigure in a Nissan racing suit
+- Der Nissan GT-R NISMO hält den Rekord für den schnellsten Drift - jetzt können Kinder ihren Platz an der Startlinie einnehmen und zum Sieg fahren
+- Autofans können mit LEGO Speed ​​Champions-Bausets für Kinder Mini-Versionen einiger der berühmtesten Autos der Welt bauen
+- Diese detailgetreue Nachbildung basiert auf dem Weltrekord-Drift-Auto, das seit 50 Jahren von Autoenthusiasten geliebt wird
+- Enthält 1 LEGO-Minifigur in einem Nissan-Rennanzug zum Sammeln
+- LEGO Speed ​​Champions Repliken sind seit Januar 2020 25 Prozent größer und realistischer als je zuvor
 
-[Hier!!](https://www.amazon.de/dp/B07W7TKVVP/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07W7TKVVP/?tag=tolees0ca-21)

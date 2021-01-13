@@ -25,10 +25,10 @@ Es gibt ein [LEGO 42092 Technic Rettungshubschrauber  2-in-1 Spielzeugflugzeug  
 
 ℹ️:
 
-- Rescue Helicopter toy features spinning rotors, opening side and rear doors, working winch and a rescue stretcher.
 - Build a realistic Rescue Helicopter toy designed to provide an immersive and rewarding building experience.
-- LEGO Technic sets feature realistic movement and mechanisms that introduce young LEGO builders to the universe of engineering in an approachable and realistic way.
+- Rescue Helicopter toy features spinning rotors, opening side and rear doors, working winch and a rescue stretcher.
 - Check out the cool red, white and black colour scheme.
+- LEGO Technic sets feature realistic movement and mechanisms that introduce young LEGO builders to the universe of engineering in an approachable and realistic way.
 - This easy to build 2-in-1 LEGO Technic toy helicopter rebuilds into afuturistic Concept Plane.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FP2KPWV/?tag=tolees0ca-21)

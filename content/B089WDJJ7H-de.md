@@ -1,34 +1,34 @@
 ---
 layout: post
-title: 'Xiaomi Mi Electric Scooter Pro2 Elektror mit 38.63 % Rabatt'
-date: 2021-01-12 10:49:37
+title: 'Xiaomi Mi Electric Scooter Pro2 Elektror mit 35.39 % Rabatt'
+date: 2021-01-13 17:18:59
 image: 'https://m.media-amazon.com/images/I/41xWtRvgpVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B089WDJJ7H-de'
-actualPrice: 429.0 EUR
+actualPrice: 451.65 EUR
 currency: EUR
-price: 429.0
+price: 451.65
 comparePrice: 699.0 EUR
 prodname: 'Xiaomi Mi Electric Scooter Pro2 Elektroroller  Unisex  Erwachsene  Schwarz  Medium'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B089WDJJ7H/?tag=tolees0ca-21'
-descuento: '38.63'
-average: '458.43692307692305'
+descuento: '35.39'
+average: '457.5319999999999'
 ---
 
-Sie können [Xiaomi Mi Electric Scooter Pro2 Elektroroller  Unisex  Erwachsene  Schwarz  Medium](https://www.amazon.de/dp/B089WDJJ7H/?tag=tolees0ca-21) mit Preis 429.0 EUR (original: 699.0 EUR) 38.63 % Rabatt hier:
+Sie können [Xiaomi Mi Electric Scooter Pro2 Elektroroller  Unisex  Erwachsene  Schwarz  Medium](https://www.amazon.de/dp/B089WDJJ7H/?tag=tolees0ca-21) mit Preis 451.65 EUR (original: 699.0 EUR) 35.39 % Rabatt hier:
 
 [![Xiaomi Mi Electric Scooter Pro2 Elektror](https://m.media-amazon.com/images/I/41xWtRvgpVL._SL200_.jpg)](https://www.amazon.de/dp/B089WDJJ7H/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Rutschfeste und stoßdämpfende 8.5 Zoll Reifen, Doppelbremssystem
-- Gewicht: 14.2 kg; Maximales Benutzergewicht: 100 kg
-- Maximale Geschwindigkeit: ca. 25 km/h; ausgeklügeltes System zur Kontrolle der Geschwindigkeit von Kreuzfahrt und Wiederherstellung der Kinetik (KERS)
 - Integriertes Display für schnelle und bequeme Überwachung mit Geschwindigkeit/Batterie/km/Modus
+- Rutschfeste und stoßdämpfende 8.5 Zoll Reifen, Doppelbremssystem
+- Maximale Geschwindigkeit: ca. 25 km/h; ausgeklügeltes System zur Kontrolle der Geschwindigkeit von Kreuzfahrt und Wiederherstellung der Kinetik (KERS)
 - Akkulaufzeit: bis zu 45 km
+- Gewicht: 14.2 kg; Maximales Benutzergewicht: 100 kg
 
-[Hier!!](https://www.amazon.de/dp/B089WDJJ7H/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B089WDJJ7H/?tag=tolees0ca-21)

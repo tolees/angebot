@@ -27,8 +27,8 @@ Es gibt ein [Sony SEL-90M28G G Makro Objektiv  Festbrennweite  90 mm  F2.8  Voll
 
 - Zirkulare Blende für einen sanften Unschärfeeffekt
 - Lieferumfang :Streulichtblende (ALC-SH138), Vordere Objektivkappe, Hintere Objektivkappe, Tasche
-- Integrierte Bildstabilisierung, gegen Staub- und Spritzwasser geschützt
-- Typisches Bokeh eines G-Objektivs
 - Direct Drive SSM für leisen, hochpräzisen Fokusbetrieb
+- Typisches Bokeh eines G-Objektivs
+- Integrierte Bildstabilisierung, gegen Staub- und Spritzwasser geschützt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00ULLSWSU/?tag=tolees0ca-21)

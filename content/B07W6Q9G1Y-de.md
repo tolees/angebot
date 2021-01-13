@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76899 Speed Champions Lamborghini U mit 17.94 % Rabatt'
-date: 2021-01-12 16:27:39
+date: 2021-01-13 17:03:34
 image: 'https://m.media-amazon.com/images/I/51b4UGtFbBL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07W6Q9G1Y/?tag=tolees0ca-21'
 descuento: '17.94'
-average: '46.28431034482756'
+average: '46.29888888888886'
 ---
 
 Sie können [LEGO 76899 Speed Champions Lamborghini Urus ST-X & Lamborghini Huracán Super Trofeo EVO  Rennwagen Set](https://www.amazon.de/dp/B07W6Q9G1Y/?tag=tolees0ca-21) mit Preis 47.99 EUR (original: 58.48 EUR) 17.94 % Rabatt hier:
@@ -31,4 +31,4 @@ Sie können [LEGO 76899 Speed Champions Lamborghini Urus ST-X & Lamborghini Hura
 - Robust genug, um in eine Tasche gesteckt zu werden und Kinder überall spielen zu lassen
 - Enthält eine Startampel und 2 Rennfahrer-Minifiguren für packende Renn-Action
 
-[Hier!!](https://www.amazon.de/dp/B07W6Q9G1Y/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B07W6Q9G1Y/?tag=tolees0ca-21)
