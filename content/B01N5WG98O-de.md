@@ -25,9 +25,9 @@ Es gibt ein [Sony XDR-S41D Digitalradio  DAB+  FM  RDS  Wecker ](https://www.ama
 
 ℹ️:
 
-- Timer-Weckfunktion; Stereokopfhörer-Buchse
-- Mit AC-Netzteil und/oder Batteriebetrieb, damit Sie Ihr Radio auch unterwegs mitnehmen können oder bis zu 25h Batterienutzung
 - Fünf Speichertasten für leichte Auswahl Ihrer Lieblingssender
 - DAB, DAB+, FM (RDS), für eine große Auswahl an Radiosendern
+- Mit AC-Netzteil und/oder Batteriebetrieb, damit Sie Ihr Radio auch unterwegs mitnehmen können oder bis zu 25h Batterienutzung
+- Timer-Weckfunktion; Stereokopfhörer-Buchse
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01N5WG98O/?tag=tolees0ca-21)
