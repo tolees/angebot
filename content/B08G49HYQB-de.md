@@ -25,10 +25,10 @@ Sie können [LEGO 42117 Technic Rennflugzeug oder Jetflugzeug 2-in-1 Spielzeug  
 
 ℹ️:
 
-- Ein tolles Geschenk zu jedem Anlass – für Kinder ab 7 Jahren, die Spielzeug-Stuntflieger lieben
-- Instructions PLUS ist eine interaktive Bauanleitung, mit der das Bauen dieses Modells noch mehr Spaß macht. Sie ist in der kostenlosen LEGO Building Instructions App verfügbar und enthält Vergrößerungs- und Drehfunktionen
-- Das LEGO Technic Rennflugzeug (42117) ist ein tolles Geschenk für Nachwuchspiloten. Die kräftigen Farben, die Aufkleber der Sponsoren und der drehende Propeller lassen das Modell wie das echte Vorbild aussehen
 - Das Rennflugzeug ist 9 cm hoch, 18 cm lang und 23 cm breit
+- Ein tolles Geschenk zu jedem Anlass – für Kinder ab 7 Jahren, die Spielzeug-Stuntflieger lieben
+- Das LEGO Technic Rennflugzeug (42117) ist ein tolles Geschenk für Nachwuchspiloten. Die kräftigen Farben, die Aufkleber der Sponsoren und der drehende Propeller lassen das Modell wie das echte Vorbild aussehen
+- Instructions PLUS ist eine interaktive Bauanleitung, mit der das Bauen dieses Modells noch mehr Spaß macht. Sie ist in der kostenlosen LEGO Building Instructions App verfügbar und enthält Vergrößerungs- und Drehfunktionen
 - Kinder werden diese robuste Kunstflugmaschine gerne zusammenbauen und dann in einen Düsenflieger verwandeln
 - Kinder, die Spielzeugflieger lieben, können unzählige Details entdecken. Aufklappbare Triebwerksabdeckungen, das Fahrwerk und der drehende Propeller ermöglichen Rollenspiele und rasante Flüge
 
