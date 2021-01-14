@@ -25,10 +25,10 @@ Sie können [Gigaset S850HX - Schnurloses Telefon zum Anschluss an DECT-Basis - 
 
 ℹ️:
 
+- VIELFÄLTIGE ANSCHLUSSMÖGLICHKEITEN - Anschluss an alle gängigen Routern mit DECT/CAT-iq Funktionalität, z.B. AVM FRITZ!Box.
+- QUALITÄT MADE IN GERMANY - Design und Herstellung in Deutschland - die umweltfreundliche ECO DECT Technologie sorgt für einen reduzierten Energieverbrauch.
 - MIT REICHLICH FUNKTIONEN - Freisprechen in brillanter Voll-Duplex-Qualität, Hinweis auf entgangene Anrufe über Display und beleuchtete Nachrichtentaste, großes Adressbuch für bis zu 500 Kontakte.
 - LIEFERUMFANG - 1x Gigaset S850HX Mobilteil, 1x Ladeschale, 1x Steckernetzteil, 2x AAA-Akku (NiMH), 1x Akku-Deckel, 1x Gürtelclip, 1x Bedienungsanleitung.
-- QUALITÄT MADE IN GERMANY - Design und Herstellung in Deutschland - die umweltfreundliche ECO DECT Technologie sorgt für einen reduzierten Energieverbrauch.
-- VIELFÄLTIGE ANSCHLUSSMÖGLICHKEITEN - Anschluss an alle gängigen Routern mit DECT/CAT-iq Funktionalität, z.B. AVM FRITZ!Box.
 - TECHNOLOGIE TRIFFT AUF DESIGN - dank Headsetanschluss und Reichweitenwarnton behalten Sie mit dem Gigaset S850HX Bewegungsfreiheit für alles, was Sie während des Telefonierens erledigen wollen.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B013QFRBDO/?tag=tolees0ca-21)
