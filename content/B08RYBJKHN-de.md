@@ -25,10 +25,10 @@ Es gibt ein [eXtremeRate Ersatz-Frontgehäuse für Xbox-Serie X Controller  Soft
 
 ℹ️:
 
-- Personalisierte Funktion: Der matte Farbverlauf in violettem Rosa sieht toll aus; toller glatter Griff, weich in der Hand und fühlt sich seidig an; rutschfest, schweißfrei für lange Spiele
-- Einfach zu installieren: Zerlegen Sie einfach Ihre ursprüngliche Frontplatte vom Controller, dann ersetzen Sie sie durch eXtremeRate-Schale; erhalten Sie eine Installations-Videoanleitung auf Youtube, indem Sie nach "Extremerate Shell für Xbox Series X/S Controller" suchen
 - Perfekte Passform: Passt auf die beste Entfernung; passt vollständig bündig auf allen Seiten; sitzt richtig auf allen Clips
 - Perfekte Passform: Passt auf die beste Entfernung; passt vollständig bündig auf allen Seiten; sitzt richtig auf allen Clips. Lieferumfang: 1 x Frontplattengehäuse, 1 x T8H-Schraubendreher, 5 x Schrauben. (Wichtig: Der Controller und andere Teile sind nicht im Lieferumfang enthalten)
 - Kompatibilität: Ultra passt für Xbox Series X und Xbox Series S Controller; nicht kompatibel mit anderen Xbox One Controllern. Überprüfen Sie vor dem Kauf das zweite Bild des Produkts
+- Personalisierte Funktion: Der matte Farbverlauf in violettem Rosa sieht toll aus; toller glatter Griff, weich in der Hand und fühlt sich seidig an; rutschfest, schweißfrei für lange Spiele
+- Einfach zu installieren: Zerlegen Sie einfach Ihre ursprüngliche Frontplatte vom Controller, dann ersetzen Sie sie durch eXtremeRate-Schale; erhalten Sie eine Installations-Videoanleitung auf Youtube, indem Sie nach "Extremerate Shell für Xbox Series X/S Controller" suchen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08RYBJKHN/?tag=tolees0ca-21)
