@@ -25,10 +25,10 @@ Es gibt ein [Dobble Kartenspiel - Spanische Sprache](https://www.amazon.de/dp/B0
 
 ℹ️:
 
-- Ein Spaß und spannendes Spiel.
-- ein Metallgehäuse enthalten ist sicher, die Karten zu halten.
 - 2 bis 8 Spieler
-- Dobble ein Spiel mit mehr als 50 Symbole, 55 Karten, mit einem, und nur ein identisches Symbol zwischen den einzelnen Buchstaben.
 - Einfach und bequem zu tragen.
+- Ein Spaß und spannendes Spiel.
+- Dobble ein Spiel mit mehr als 50 Symbole, 55 Karten, mit einem, und nur ein identisches Symbol zwischen den einzelnen Buchstaben.
+- ein Metallgehäuse enthalten ist sicher, die Karten zu halten.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B008EK6XEK/?tag=tolees0ca-21)
