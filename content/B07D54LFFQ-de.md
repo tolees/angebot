@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '45.23 % rabat auf POP Overwatch ANA Vinyl Figure'
-date: 2021-01-09 21:16:42
+date: 2021-01-14 05:06:19
 image: 'https://m.media-amazon.com/images/I/4148Z7fOhaL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,4 +27,4 @@ Es gibt ein [POP Overwatch ANA Vinyl Figure](https://www.amazon.de/dp/B07D54LFFQ
 
 - Funko POP! Overwatch S4 - Ana Vinyl Figure 10cm
 
-[kauf es hier!!](https://www.amazon.de/dp/B07D54LFFQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07D54LFFQ/?tag=tolees0ca-21)

@@ -25,10 +25,10 @@ Es gibt ein [Crocs Unisex-Erwachsene Crocband Clogs  Navy  43/44 EU](https://www
 
 ℹ️:
 
-- Verschluss: Ohne Verschluss; Größenhinweis: Fällt regulär aus
-- Sohlenmaterial: Gummi
 - Obermaterial: Synthetik
 - Futter: ohne Futter
+- Verschluss: Ohne Verschluss; Größenhinweis: Fällt regulär aus
+- Sohlenmaterial: Gummi
 - Sohlengrößen sind US. Label zeigt UK. M = Herren W = Damen
 - Absatzform: Flach; Materialzusammensetzung: 100 % Croslite
 
