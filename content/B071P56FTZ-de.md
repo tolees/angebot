@@ -25,7 +25,7 @@ Es gibt ein [ONLY Damen onlELCOS 4/5 AOP TOP JRS NOOS Langarmshirt  Mehrfarbig  
 
 ℹ️:
 
-- T-Shirt mit Aufdruck
 - Leichte Qualität
+- T-Shirt mit Aufdruck
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B071P56FTZ/?tag=tolees0ca-21)
