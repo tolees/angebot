@@ -26,9 +26,9 @@ Sie können [DESIRES Tilda Damen Übergangsjacke Jacke gefüttert mit Kapuze  Gr
 ℹ️:
 
 - Genau wie eine schön warme Winterjacke oder eine wasserdichte Regenjacke, gehört eine sportliche, leichte Übergangsjacke in deinen Kleiderschrank.
-- PASSFORM: Regular Fit - unser Model ist 1,73m groß und trägt die Größe S. Trägst du für gewöhnlich eine Größe S? Dann ist diese auch von uns ideal für dich!
-- DETAILS & HIGHLIGHTS: mittelschwer gefüttert, gefütterte Kapuze mit Tunnelzug und Kunstlederapplikationen, kontrastreiche Reißverschlüsse, zwei Eingriffstaschen (Knopfverschluss) und eine Brusttasche (Reißverschluss), Tunnelzug im Saum mit Kunstlederapplikationen, elastische Ärmelbündchen, Kunstleder-Logopatch auf der Brust
 - NACHHALTIGKEIT: Die verantwortungsvolle Nutzung von natürlichen Ressourcen liegt uns am Herzen! Daher arbeiten wir mit recycelten Versand- und Verpackungsmaterialien und produzieren die meisten unserer Styles unter den Bedingungen der BETTER COTTON INITIATIVE, die sich weltweit für nachhaltig produzierte Baumwolle einsetzt.
+- DETAILS & HIGHLIGHTS: mittelschwer gefüttert, gefütterte Kapuze mit Tunnelzug und Kunstlederapplikationen, kontrastreiche Reißverschlüsse, zwei Eingriffstaschen (Knopfverschluss) und eine Brusttasche (Reißverschluss), Tunnelzug im Saum mit Kunstlederapplikationen, elastische Ärmelbündchen, Kunstleder-Logopatch auf der Brust
 - Du kannst diese hochwertig verarbeitete Damenjacke sowohl als Herbstjacke, als auch im Frühjahr, oder als leichte Sommerjacke tragen. Ob sportlich mit T-Shirt und Jeans kombiniert, oder mit einer Chino und schicken Oberteilen wie einer Bluse gestylt, du siehst immer top bekleidet aus. Diese Jacke für den Übergang gehört einfach in jeden Kleiderschrank!
+- PASSFORM: Regular Fit - unser Model ist 1,73m groß und trägt die Größe S. Trägst du für gewöhnlich eine Größe S? Dann ist diese auch von uns ideal für dich!
 
 [🛒 Hier!!](https://www.amazon.de/dp/B013V53DIQ/?tag=tolees0ca-21)

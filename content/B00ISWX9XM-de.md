@@ -25,8 +25,8 @@ Sie können [LLOYD Dagan  Herren Derbys  Schwarz  SCHWARZ 0   44 EU  9.5 UK ](ht
 
 ℹ️:
 
-- Elegante Sohle
 - Weicher Gehcomfort
+- Elegante Sohle
 - Echtes Leder
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00ISWX9XM/?tag=tolees0ca-21)
