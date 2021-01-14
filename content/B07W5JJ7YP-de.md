@@ -26,9 +26,9 @@ Sie können [Logitech G513 mechanische Gaming-Tastatur  GX-Brown Taktile Switche
 ℹ️:
 
 - LEGIERUNG AUS FLUGZEUG-ALUMINIUM: Die aus gebürstetem Flugzeug-Aluminium 5052 gefertigte Oberfläche gewährleistet ein hochwertiges Design und außerordentliche Strapazierfähigkeit
-- FUNKTIONSTASTEN: Alle Bedienelemente für Medienwiedergabe und Beleuchtungssteuerung sind immer zur Hand. Du kannst unter anderem die Lautstärke regulieren und den Gaming-Modus aktivieren
 - MEMORY FOAM HANDBALLENAUFLAGE: Der Memory-Schaum erlangt seine Form nach jeder Druckeinwirkung schnell und vollständig wieder, wodurch sich jede Nutzung so angenehm anfühlt wie beim ersten Mal
 - LIGHTSYNC RGB: Personalisiere die Beleuchtung jeder Taste, passe Lichteffekte individuell an und erlebe In-Game-Effekte in ~16,8 Millionen Farben mit Logitech G HUB
 - MECHANISCHE SWITCHES: Der GX Brown ist ein mechanischer Switch mit spürbarer Betätigung für Gamer, die direktes taktiles Feedback bevorzugen. Die Tastatur ist auch als „Linear“ und „Clicky“ verfügbar
+- FUNKTIONSTASTEN: Alle Bedienelemente für Medienwiedergabe und Beleuchtungssteuerung sind immer zur Hand. Du kannst unter anderem die Lautstärke regulieren und den Gaming-Modus aktivieren
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W5JJ7YP/?tag=tolees0ca-21)
