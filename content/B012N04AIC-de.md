@@ -25,10 +25,10 @@ Es gibt ein [DeepCool Smart Verstellbarer Monitorständer mit 4 USB-Ports und Ko
 
 ℹ️:
 
-- Höhe der Füße alternative 8 cm oder 12 cm
-- Mit integrierter-In audio Buchse Mikrofon interface
 - Für LCD Monitor Stand bis 68,58 cm (bis 10 kg)
+- Höhe der Füße alternative 8 cm oder 12 cm
 - Gesamtgröße: 550 x 230 x 24 millimeter
 - Mit 4 USB Anschlüsse
+- Mit integrierter-In audio Buchse Mikrofon interface
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B012N04AIC/?tag=tolees0ca-21)
