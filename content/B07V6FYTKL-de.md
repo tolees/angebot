@@ -26,8 +26,8 @@ Es gibt ein [Sainlogic Funk Wetterstation mit 3 Außensensoren  Wettervorhersage
 ℹ️:
 
 - 【FÜR MEHR KOMFORT】: Der Mensch verbringt zwei Drittel seines Lebens in Innenräumen. Damit wir uns dort wohlfühlen können, brauchen wir ein gutes Raumklima. Mit dem Thermo-Hygrometer kann die Raumluft einfach überwacht werden, wodurch ein gesundes Klima entsteht.
-- 【DRAHTLOSE ÜBERTRAGUNG】: Die Sensoren stellen über Funk eine Verbindung zur Konsole her und die Konsole stellt eine Verbindung zu Ihrem Router her. Anzeige der Messwerte von bis zu 3 externen Fernsensoren zur Überwachung mehrerer Standorte. Sensoren haben eine Reichweite von bis zu 60 m in einem offenen Bereich.
-- 【GENAUE WETTERVORSCHAU】: Erleben Sie den Komfort Ihrer persönlichen Wetterinformationen. Die Wet-terstation misst Außentemperatur und Luftfeuchtigkeit.
 - 【GROSSES FARBDISPLAY】: Mit der professionellen Wetterstation können Sie die Wetterbedingungen in Ihrem Haus und im Garten mit dem brillanten, gut lesbaren LCD-Farbdisplay überwachen. Einfaches Abrufen von Informationen zu Datum, Uhrzeit, Temperatur und Luftfeuchtigkeit, tägliche Alarmfunktion und Schlummerfunktion werden ebenfalls unterstützt.
+- 【GENAUE WETTERVORSCHAU】: Erleben Sie den Komfort Ihrer persönlichen Wetterinformationen. Die Wet-terstation misst Außentemperatur und Luftfeuchtigkeit.
+- 【DRAHTLOSE ÜBERTRAGUNG】: Die Sensoren stellen über Funk eine Verbindung zur Konsole her und die Konsole stellt eine Verbindung zu Ihrem Router her. Anzeige der Messwerte von bis zu 3 externen Fernsensoren zur Überwachung mehrerer Standorte. Sensoren haben eine Reichweite von bis zu 60 m in einem offenen Bereich.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07V6FYTKL/?tag=tolees0ca-21)
