@@ -25,10 +25,10 @@ Sie können [Tetra Test 6in1 - Wassertest für das Aquarium  schnelle und einfac
 
 ℹ️:
 
-- pH – Der pH-Wert gibt Aufschluss über den für die Gesundheit der Fische wichtigen Säure- bzw. Basengehalt des Wassers. Ideal ist ein pH-Wert zwischen 6,5 und 8,5
-- Ermittelt den pH-Wert, die Karbonat- und Gesamthärte (KH+GH), den Nitrit (NO2)-, Nitrat (NO3)- und Chlor (Cl2)-Gehalt
 - KH – Die Karbonathärte sorgt für einen gleich bleibenden pH-Wert. In der Regel wird ein Härtegrad zwischen 3° und 10° dH empfohlen
+- Ermittelt den pH-Wert, die Karbonat- und Gesamthärte (KH+GH), den Nitrit (NO2)-, Nitrat (NO3)- und Chlor (Cl2)-Gehalt
 - Teststreifen ein paar Mal durch das Wasser ziehen, überschüssiges Wasser abschütteln, den Chlor-Testabschnitt mit der Bezugsskala vergleichen und nach 60 Sek. die übrigen Testabschnitte vergleichen
+- pH – Der pH-Wert gibt Aufschluss über den für die Gesundheit der Fische wichtigen Säure- bzw. Basengehalt des Wassers. Ideal ist ein pH-Wert zwischen 6,5 und 8,5
 - Schnelle und einfache Überprüfung der Wasserqualität. Mit dem Tetra Test 6in1 können Sie in Sekundenschnelle prüfen, ob sich das Aquarienwasser in optimalem Zustand befindet
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001B65ZVQ/?tag=tolees0ca-21)

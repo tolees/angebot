@@ -25,10 +25,10 @@ Es gibt ein [Microsoft Bluetooth Mouse Schwarz](https://www.amazon.de/dp/B07XVWP
 
 ℹ️:
 
-- Fast Tracking Sensor für hohe Präzision auch auf Glasoberflächen und einer Auflösung von bis zu 1.800 dpi
+- Kabellose Freiheit dank Bluetooth Konnektivität
 - Energiesparende Elektronik für eine lange Batterielebensdauer bis zu 12 Monate
 - Arbeiten Sie effizienter mit drei Tasten (inklusive Scrollrad)
-- Kabellose Freiheit dank Bluetooth Konnektivität
 - Uneingeschränkte Mobilität dank geringem Gewicht und kompakten Abmessungen
+- Fast Tracking Sensor für hohe Präzision auch auf Glasoberflächen und einer Auflösung von bis zu 1.800 dpi
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07XVWPV6T/?tag=tolees0ca-21)

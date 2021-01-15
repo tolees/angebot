@@ -27,8 +27,8 @@ Sie können [GORE WEAR R3 Damen Kapuzen-Jacke GORE-TEX Active  36  Schwarz](http
 
 - GORE R3 WOMEN GORE-TEX Active Hooded Jacket, Größe: 36, Farbe: Schwarz, 100071
 - Vielseitig einsetzbare Damen Jacke für kühle Wetterbedingungen
+- Kapuze mit Weiten- und Sichtfeldregulierung, Verstellbare Bundweite, 2 Reißverschlusstaschen vorne
 - GORE-TEX Active Technologie: Wasserdicht, winddicht und extrem atmungsaktiv
 - Komfortable Passform/Läuferspezifischer Schnitt
-- Kapuze mit Weiten- und Sichtfeldregulierung, Verstellbare Bundweite, 2 Reißverschlusstaschen vorne
 
 [🛒 Hier!!](https://www.amazon.de/dp/B075S3NN7B/?tag=tolees0ca-21)

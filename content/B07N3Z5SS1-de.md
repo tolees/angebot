@@ -25,10 +25,10 @@ Sie können [ROMMELSBACHER Espresso Maschine EKS 1510 - Siebträger  Filtereinsa
 
 ℹ️:
 
-- Inklusive: auswechselbarer Wasserfilter (Typ EKF 1, auch als Zubehör erhältlich), Kaffeelot mit Tamper
 - Einkreissystem mit Alu-Druckguss Thermoblock, 19 Bar Pumpendruck (ital. ULKA Qualitätspumpe), Vorbrühfunktion für volles Aroma
-- massiver 2-Loch Siebträger aus Alu-Druckguss, je 1 Edelstahl Filtereinsatz für 1 bzw. 2 Tassen
-- Tassenfüllmenge manuell einstellbar, entnehmbarer 1, 5 Liter Wassertank, abnehmbare Edelstahl Düse für Heißwasser und Dampf zum Schäumen
 - Abtropfschale zur leichten Reinigung abnehmbar, Energiesparfunktion, LED-Kontrolllampen
+- massiver 2-Loch Siebträger aus Alu-Druckguss, je 1 Edelstahl Filtereinsatz für 1 bzw. 2 Tassen
+- Inklusive: auswechselbarer Wasserfilter (Typ EKF 1, auch als Zubehör erhältlich), Kaffeelot mit Tamper
+- Tassenfüllmenge manuell einstellbar, entnehmbarer 1, 5 Liter Wassertank, abnehmbare Edelstahl Düse für Heißwasser und Dampf zum Schäumen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07N3Z5SS1/?tag=tolees0ca-21)
