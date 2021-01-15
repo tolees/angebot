@@ -25,10 +25,10 @@ Sie können [AMIGO 4990 Witches](https://www.amazon.de/dp/B00J5Z7APO/?tag=tolees
 
 ℹ️:
 
-- "Witches" erscheint innerhalb der beliebten Wizard-Reihe
-- Bei dem Stichspiel Witches kämpfen vier mächtige Hexenum Gut und Böse
-- Erfolgreicher Spielmechanismus des Klassikers "Hearts"
 - Dynamischer Spielverlauf mit besonderem Kniff und ansprechender Gestaltung
+- Erfolgreicher Spielmechanismus des Klassikers "Hearts"
+- Bei dem Stichspiel Witches kämpfen vier mächtige Hexenum Gut und Böse
+- "Witches" erscheint innerhalb der beliebten Wizard-Reihe
 - Das Spiel mit 60 fantasievollen Karten sorgt für viel Abwechslung und großes Spielvergnügen. Inhalt:60 Spielkarten1 Spielregel1 Punkteblock
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00J5Z7APO/?tag=tolees0ca-21)
