@@ -25,15 +25,15 @@ Es gibt ein [Maier sports Herren Nil Wanderhose  coriander  28](https://www.amaz
 
 ℹ️:
 
-- Verschluss: Reißverschluss
-- DANK DER ROLLUP-FUNKTION lässt sich die bi-elastische Funktionshose schnell in eine 7/8 Hose verwandeln. Das 4-Wege-Stretch-Gewebe sorgt für einen hohen Tragekomfort bei allen Outdoor-Aktivitäten
 - Bei Outdoorfans hat die Wanderhose Nil schon fast Kultstatus und glänzt mit einem hervorragendem Preis-Leistungs-Verhältnis
-- DAS MATERIAL IST WASSERABWEISEND, ATMUNGSAKTIV und dank dryprotect sehr schnelltrocknend. Die perfekte Voraussetzung für eine Wanderung in der Natur bei Wind und Wetter
+- Verschluss: Reißverschluss
 - 90% Polyamid, 10% Elasthan
-- Modellnummer: 132001
 - Pflegehinweis: Maschinenwäsche
-- DIESE HOCHWERTIGE Wanderhose Nil von Maier Sports vereint Funktionalität mit modernem Design. Sie überzeugt durch Vielseitigkeit und Wetterschutz auf ganzer Linie
-- Nil
 - DER ELASTISCHE BUND MIT GÜRTEL ist ein weiterer Vorteil dieser Trekkinghose. So sitzt sie angenehm an der Hüfte ohne einzuengen und kann bei Bedarf enger gemacht werden
+- DAS MATERIAL IST WASSERABWEISEND, ATMUNGSAKTIV und dank dryprotect sehr schnelltrocknend. Die perfekte Voraussetzung für eine Wanderung in der Natur bei Wind und Wetter
+- Modellnummer: 132001
+- Nil
+- DIESE HOCHWERTIGE Wanderhose Nil von Maier Sports vereint Funktionalität mit modernem Design. Sie überzeugt durch Vielseitigkeit und Wetterschutz auf ganzer Linie
+- DANK DER ROLLUP-FUNKTION lässt sich die bi-elastische Funktionshose schnell in eine 7/8 Hose verwandeln. Das 4-Wege-Stretch-Gewebe sorgt für einen hohen Tragekomfort bei allen Outdoor-Aktivitäten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01MRZOVI4/?tag=tolees0ca-21)
