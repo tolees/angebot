@@ -26,9 +26,9 @@ Es gibt ein [Energizer CR2450 Batterien  Lithium Knopfzelle  2 Stück](https://w
 ℹ️:
 
 - Enthält zwei (2) Energizer 2450 Lithium-Knopfzellen
-- Bietet ergiebige, zuverlässige Leistung für Spezialgeräte wie Herzfrequenzmesser, Fernbedienungen, schlüssellose Zugangssysteme, Blutzuckermessgeräte, Spiele und Spielzeuge
-- Ersatz für: L52, DL2450 und 5029LC
 - Zellgröße: 2450; IEC: CR2450; Typ: Lithium-Knopfzelle; Volt: 3
+- Bietet ergiebige, zuverlässige Leistung für Spezialgeräte wie Herzfrequenzmesser, Fernbedienungen, schlüssellose Zugangssysteme, Blutzuckermessgeräte, Spiele und Spielzeuge
 - Die Lithium-Knopfzellen können bis zu 10 Jahre gelagert werden und sind so einsatzbereit, wenn Sie sie benötigen
+- Ersatz für: L52, DL2450 und 5029LC
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00HW0MESW/?tag=tolees0ca-21)

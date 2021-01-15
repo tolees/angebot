@@ -25,10 +25,10 @@ Es gibt ein [HABA 301313 - MES Badehase Spiel](https://www.amazon.de/dp/B00MK6GW
 
 ℹ️:
 
-- Hochwertiges Spielmaterial mit Figuren und Spielplättchen aus stabiler Pappe und großem Würfel aus Holz
 - Die Packung wird als orgineller 3D-Spielplan zur gefüllten Badewanne
 - Fördert die Konzentration, die sprachliche Entwicklung und erstes Regelverständnis
 - Ein liebevoll gestaltetes Spiel für Kinder ab 2 Jahren aus der HABA-Spieleserie meine ersten Spiele
 - 3 Spielvarianten mit Memo-, Rate- und Sprachspiel
+- Hochwertiges Spielmaterial mit Figuren und Spielplättchen aus stabiler Pappe und großem Würfel aus Holz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00MK6GWLS/?tag=tolees0ca-21)

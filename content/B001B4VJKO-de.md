@@ -26,8 +26,8 @@ Es gibt ein [NIGRIN 21014 Karosserie-Spachtelsatz  4-teilig](https://www.amazon.
 ℹ️:
 
 - 5cm und 7,5 cm
-- 10 cm und 12 cm
-- 4 Stk.
 - Flexibel
+- 4 Stk.
+- 10 cm und 12 cm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001B4VJKO/?tag=tolees0ca-21)
