@@ -25,10 +25,10 @@ Sie können [Playmobil 6928 Spielzeug  Grün](https://www.amazon.de/dp/B06WVPC1V
 
 ℹ️:
 
-- Lieferumfang: 1x PLAYMOBIL Country Pferdetransporter, 56 -teiliges Spielfiguren-Set mit Anleitung: 1 Transporter, 1 Pferd, 1 Figur, 53 Zubehörteile, Material: Kunststoff, LxBxH: 27x11x14,5 cm, 6928
 - 1 Figur, 1 Pferd, Fahrerhaus platzbietend für 2 Figuren, Abnehmbares Dach, Ausklappbare Rampe, Aufklappbare Hecktüren, Kofferraum für Stauraum, uvm.
 - Spielspaß für kleine Pferdefans: PLAYMOBIL Pferdetransporter für 2 Pferde mit Pferd, Reiter und weiteren Zubehörteilen für detailgetreues Nachspielen
-- Spielfiguren-Set für Kinder ab 5 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
+- Lieferumfang: 1x PLAYMOBIL Country Pferdetransporter, 56 -teiliges Spielfiguren-Set mit Anleitung: 1 Transporter, 1 Pferd, 1 Figur, 53 Zubehörteile, Material: Kunststoff, LxBxH: 27x11x14,5 cm, 6928
+- Spielfiguren-Set für Kinder ab 5 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B06WVPC1VC/?tag=tolees0ca-21)
