@@ -25,9 +25,9 @@ Sie können [Mi Note 10 Lite 6+128GB Midnight Black](https://www.amazon.de/dp/B0
 
 ℹ️:
 
-- Qualcomm Snapdragon 730G
 - 6,47 ”FHD + 3D gebogenes AMOLED-Display
 - 64 MP hochauflösende Quad-Kamera
+- Qualcomm Snapdragon 730G
 - 5.260 mAh Hochleistungsakku
 - Robustes Corning Gorilla Glas 5
 
