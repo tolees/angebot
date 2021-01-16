@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'PUMA Unisex Leader VT SL Sneaker  White- mit 29.96 % Rabatt'
-date: 2021-01-13 22:44:39
+title: 'PUMA Unisex Leader VT SL Sneaker  White- mit 41.78 % Rabatt'
+date: 2021-01-16 01:24:29
 image: 'https://m.media-amazon.com/images/I/3171Y6yvo5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B078KCWC35-de'
-actualPrice: 41.99 EUR
+actualPrice: 34.9 EUR
 currency: EUR
-price: 41.99
+price: 34.9
 comparePrice: 59.95 EUR
 prodname: 'PUMA Unisex Leader VT SL Sneaker  White-Black-Flame Scarlet  43 EU'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B078KCWC35/?tag=tolees0ca-21'
-descuento: '29.96'
-average: '39.372'
+descuento: '41.78'
+average: '38.62666666666667'
 ---
 
-Sie können [PUMA Unisex Leader VT SL Sneaker  White-Black-Flame Scarlet  43 EU](https://www.amazon.de/dp/B078KCWC35/?tag=tolees0ca-21) mit Preis 41.99 EUR (original: 59.95 EUR) 29.96 % Rabatt hier:
+Sie können [PUMA Unisex Leader VT SL Sneaker  White-Black-Flame Scarlet  43 EU](https://www.amazon.de/dp/B078KCWC35/?tag=tolees0ca-21) mit Preis 34.9 EUR (original: 59.95 EUR) 41.78 % Rabatt hier:
 
 [![PUMA Unisex Leader VT SL Sneaker  White-](https://m.media-amazon.com/images/I/3171Y6yvo5L._SL200_.jpg)](https://www.amazon.de/dp/B078KCWC35/?tag=tolees0ca-21)
 

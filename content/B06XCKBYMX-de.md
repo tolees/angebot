@@ -26,10 +26,10 @@ Es gibt ein [Pepe Jeans Damen New Brooke Jeans  10Oz STR 8Dip Royal Dk  29W / 30
 ℹ️:
 
 - Embroidered logo in pocket
-- Comfort stretch denim fabric
-- Slim leg
-- Back pockets stitching
 - Regular waist
 - Slim fit
+- Comfort stretch denim fabric
+- Back pockets stitching
+- Slim leg
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06XCKBYMX/?tag=tolees0ca-21)

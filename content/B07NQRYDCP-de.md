@@ -25,11 +25,11 @@ Sie können [Sylvanian Families - 5302 - Stadthaus mit Licht](https://www.amazon
 
 ℹ️:
 
-- Suitable for ages three years and above
 - This house has real lights, these can be turned on and off in the rooms
-- Stimulates imaginative role-playing by children
-- The house can be opened up for play at 90 Degrees, 180 Degrees and any angle in between, additionally, the second floor room on the left side and the roof on the right side, are removable
 - Can be put back together to allow multiple ways to play
 - Connect to red roof cosy cottage to create a large, three-storey house (sold separately)
+- Stimulates imaginative role-playing by children
+- The house can be opened up for play at 90 Degrees, 180 Degrees and any angle in between, additionally, the second floor room on the left side and the roof on the right side, are removable
+- Suitable for ages three years and above
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07NQRYDCP/?tag=tolees0ca-21)
