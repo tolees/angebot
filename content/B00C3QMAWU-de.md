@@ -26,9 +26,9 @@ Sie können [ALLCARE 13173 Mediclinics ES0010B Toilettenbürstenhalter Schwarz](
 ℹ️:
 
 - Luftleistung: circa 90 L pro sekunde
-- 60 dB
 - Luftgeschwindigkeit: 65 stundenkilometer
 - Trocknungsdauer: 38 sekunden
 - Lufttemperatur: 52° celsius
+- 60 dB
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00C3QMAWU/?tag=tolees0ca-21)
