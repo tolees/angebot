@@ -25,10 +25,10 @@ Es gibt ein [LEGO 10766 Juniors 4+ Toy Story 4 Woody & Turbo  ferngesteuertes Sp
 
 ℹ️:
 
-- Im Zubehör sind drei grüne Spielzeugsoldaten, eine Fernsteuerung für Turbo, sechs farbenfrohe, baubare Präsentationssteine und drei baubare Pylone enthalten
-- Die LEGO 4+ Sets sind einfach zu bauen und bieten jede Menge Spaß. Sie stärken außerdem das Selbstbewusstsein, indem Kinder die einfachen Bauschritte ganz allein durchführen können
-- Das Auto ist 6 cm hoch, 9 cm lang und 6 cm breit
 - Das Set enthält ein leicht zu bauendes ferngesteuertes Spielzeugauto mit großem Heckspoiler, Vorderkotflügel mit Augen und Antenne für die Fernsteuerung sowie eine Starter-Basisplatte
+- Im Zubehör sind drei grüne Spielzeugsoldaten, eine Fernsteuerung für Turbo, sechs farbenfrohe, baubare Präsentationssteine und drei baubare Pylone enthalten
+- Das Auto ist 6 cm hoch, 9 cm lang und 6 cm breit
+- Die LEGO 4+ Sets sind einfach zu bauen und bieten jede Menge Spaß. Sie stärken außerdem das Selbstbewusstsein, indem Kinder die einfachen Bauschritte ganz allein durchführen können
 - Das Bauspielset enthält eine Woody-Minifigur
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07JC74WKJ/?tag=tolees0ca-21)
