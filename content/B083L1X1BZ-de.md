@@ -25,8 +25,8 @@ Sie können [Sylvanian Families: Family Campervan  5454 ](https://www.amazon.de/
 
 ℹ️:
 
-- für Kinder ab 3 Jahren geeignet
 - Wohnmobil mit Bad und Küche, Fahrradträger und Fahrrad
+- für Kinder ab 3 Jahren geeignet
 - inkl. weiterem zahlreichen Zubehör
 - Platz für 7 Sylvanian Families Figuren
 
