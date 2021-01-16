@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.00 % rabat auf SNAPTAIN A15F Drohne mit 1080P-FPV-Kamer'
-date: 2021-01-13 22:30:34
+date: 2021-01-16 00:08:25
 image: 'https://m.media-amazon.com/images/I/51F9YSr9A9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B08H5K4THL/?tag=tolees0ca-21'
 descuento: '15.00'
-average: '89.07000000000002'
+average: '88.58615384615386'
 ---
 
 Es gibt ein [SNAPTAIN A15F Drohne mit 1080P-FPV-Kamera  WiFi-Quadcopter mit optischer Strömungstechnologie  Markierungs- und Track-Modus  Rundflug  G-Sensor  Geeignet für Anfänger](https://www.amazon.de/dp/B08H5K4THL/?tag=tolees0ca-21) mit aktuellem Preis 76.49 EUR (original: 89.99 EUR) 15.00 % Rabatt hier:

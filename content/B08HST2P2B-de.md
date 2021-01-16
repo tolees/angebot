@@ -25,8 +25,8 @@ Es gibt ein [Immortals Fenyx Rising - Gold Edition - [PlayStation 5]](https://ww
 
 ℹ️:
 
-- Treffen Sie im Kampf auf mythische Gegner wie Zyklopen, Medusen, dem Minotaurus, sowie korrumpierten Helden wie Achilles in schnellen Boden- und Luftkämpfen entgegen
 - Die Götter der Olymps gewähren Ihnen mächtige Gaben. Nutzen Sie sie beim Lösen von Rätseln und bei der Erkundung der riesigen Spielwelt
+- Treffen Sie im Kampf auf mythische Gegner wie Zyklopen, Medusen, dem Minotaurus, sowie korrumpierten Helden wie Achilles in schnellen Boden- und Luftkämpfen entgegen
 - Erschaffen Sie mit Fenyx Ihre eigene Legende. Fenyx kann auf mannigfaltige Weise angepasst werden. So lässt sich das Geschlecht wählen, das Aussehen, aber auch Waffen und Rüstungen anpassen
 - Die Gold Edition enthält das Hades der Schattenmeister-Charakter-Paket, das Orions gesegnete Waffen-Paket und die Prisma-Flügel
 
