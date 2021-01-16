@@ -25,10 +25,10 @@ Es gibt ein [Borotalco Original Deo Roll On Ohne Alkohol 50 ml](https://www.amaz
 
 ℹ️:
 
-- Antitranspirant mit Mikrotalk
-- Original Borotalco Duft
-- 48 Stunden Deoschutz
 - Unisex Duft
+- 48 Stunden Deoschutz
+- Original Borotalco Duft
 - dermatologisch getestet
+- Antitranspirant mit Mikrotalk
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002ULNQUI/?tag=tolees0ca-21)
