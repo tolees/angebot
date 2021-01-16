@@ -25,8 +25,8 @@ Sie können [HORI Joy-Con Ladestation für Nintendo Switch](https://www.amazon.d
 
 ℹ️:
 
-- LED-Anzeigen für den Ladestatus
 - Wird mit dem Nintendo Switch Dock verbunden
+- LED-Anzeigen für den Ladestatus
 - Lädt bis zu 4 Joy-Cons
 - Offiziell Nintendo lizenziert
 
