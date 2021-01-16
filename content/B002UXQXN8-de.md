@@ -25,8 +25,8 @@ Es gibt ein [flip*flop Damen Originals Zehentrenner  deep Night  41 EU](https://
 
 ℹ️:
 
+- 100% vegan
 - wasserfest
 - washable 30°
-- 100% vegan
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002UXQXN8/?tag=tolees0ca-21)
