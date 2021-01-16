@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '25.00 % rabat auf Mega Construx GKG97 - Game of Thrones Da'
-date: 2021-01-12 10:47:54
+date: 2021-01-16 18:18:38
 image: 'https://m.media-amazon.com/images/I/510TfBInorL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07P8WTVNR/?tag=tolees0ca-21'
 descuento: '25.00'
-average: '52.912'
+average: '54.09166666666667'
 ---
 
 Es gibt ein [Mega Construx GKG97 - Game of Thrones Daenerys und Drogon  Bauset mit 735 Bausteinen und Actionfigur](https://www.amazon.de/dp/B07P8WTVNR/?tag=tolees0ca-21) mit aktuellem Preis 59.99 EUR (original: 79.99 EUR) 25.00 % Rabatt hier:
@@ -25,10 +25,10 @@ Es gibt ein [Mega Construx GKG97 - Game of Thrones Daenerys und Drogon  Bauset m
 
 ℹ️:
 
-- Zusammenbaubarer Drogon in Schwarz und Rot mit superbeweglichen Beinen, Schwanz, Kopf und Stoffflügeln zum Ausbreiten
+- Detailreiche, superbewegliche Mini-Actionfigur (ca. 6,5 cm): Daenerys Targaryen
 - Daenerys ist mit der Kampfmontur aus Staffel 7 samt Drachenkette ausgerüstet
 - Drogons Körper ist mehr als 50 cm lang
-- Detailreiche, superbewegliche Mini-Actionfigur (ca. 6,5 cm): Daenerys Targaryen
+- Zusammenbaubarer Drogon in Schwarz und Rot mit superbeweglichen Beinen, Schwanz, Kopf und Stoffflügeln zum Ausbreiten
 - Drogons Flügelspanne beträgt mehr als 60 cm
 
-[kauf es hier!!](https://www.amazon.de/dp/B07P8WTVNR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!](https://www.amazon.de/dp/B07P8WTVNR/?tag=tolees0ca-21)
