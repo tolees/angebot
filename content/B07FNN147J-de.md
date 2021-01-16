@@ -25,10 +25,10 @@ Sie können [LEGO 21044 Architecture Paris  Modell mit Eiffelturm und Louvre  Sk
 
 ℹ️:
 
+- Build and display this highly detailed LEGO architecture interpretation of the Paris skyline, featuring a magnificent collection of famous landmarks and Paris attractions
+- 694 pieces - for boys and girls aged 12+ and for fans and kids of all ages
 - Measures over 8 Inch (22 cm) high, 11 Inch (28 cm) wide and 4 Inch (11 cm) deep
 - This collectible LEGO Architecture Skyline Collection 21044 Paris building set can be built together with all other original LEGO sets and LEGO bricks for creative building
 - This LEGO Architecture model features the Arc de Triomphe, Champs-Elysées, Tour Montparnasse, Grand Palais, Eiffel Tower, the Louvre, grass and tree areas and a decorative Paris display plate
-- 694 pieces - for boys and girls aged 12+ and for fans and kids of all ages
-- Build and display this highly detailed LEGO architecture interpretation of the Paris skyline, featuring a magnificent collection of famous landmarks and Paris attractions
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FNN147J/?tag=tolees0ca-21)

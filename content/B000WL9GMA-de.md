@@ -25,10 +25,10 @@ Sie können [Leitz CombiFile Maxi Sichthüllen-Set  3 Stück  A4 Format  Ausdehn
 
 ℹ️:
 
-- Sehr robustes Kunststoffmaterial mit eleganter Oberfläche und stilvoller Prägung
-- Kombination aus Klarsicht- und Schutzhülle, Ideal zum Transport in Laptoptaschen, Flexible Nutzung als Prospekt- oder Sichthülle dank einzigartigem, einklappbarem Lochrand mit universeller 11-fach Lochung
-- Obere Öffnung mit Verschlussklappe zum Schutz der Unterlagen
 - Lieferumfang: 1 x 3 Leitz CombiFile Klarsichthüllen, A4 Format, Blau mit Muster, Matte Oberfläche, Verschlussklappe zum Schutz des Inhalts, 0,20 mm PP-Folie, 47270035
+- Sehr robustes Kunststoffmaterial mit eleganter Oberfläche und stilvoller Prägung
+- Obere Öffnung mit Verschlussklappe zum Schutz der Unterlagen
 - Hohe Kapazität für bis zu 200 Blatt, Beschriftungsstreifen zur Kennzeichnung des Inhalts, Reißfest, langlebig und wiederverwendbar
+- Kombination aus Klarsicht- und Schutzhülle, Ideal zum Transport in Laptoptaschen, Flexible Nutzung als Prospekt- oder Sichthülle dank einzigartigem, einklappbarem Lochrand mit universeller 11-fach Lochung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B000WL9GMA/?tag=tolees0ca-21)

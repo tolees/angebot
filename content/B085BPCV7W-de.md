@@ -25,9 +25,9 @@ Sie können [Xiaomi Mi Robot Vacuum Mop Pro Saugroboter mit Wischfunktion  Saugk
 
 ℹ️:
 
+- Battery Capacity: 3200 mAh LG Li-Ion Dimensions and Weight: 3.6 kg Dimensions: 35 x 35 x 9.5 cm Package included: 1 x Xiaomi Mi Robot Vacuum Mop P White 1 x Charging Base 1 x EU Power Adapter 1 x Filter 1 x Mopa
 - Filter functions: washable HEPA - double dust system, anti dust mites. Cable Length (m): Wireless Collision Sensor: Yes Distance Sensor: LDS 360o Level Sensor: Yes Gyroscope/Accelerometer: Yes Control: Auto mode and App App: Compatible with Android and iOS Wifi: Yes
 - Mi Robot Vacuum Mop P White Robot Vacuum Cleaner - Processor R16-J - Autonomous Vacuum Cleaner - LDS 360o Sensor - 12 multi-directional sensors - Suction 2100PA - Mopa - Water Tank Smart Control - 3500 mAh Battery The new generation of Xiaomi Robot Vacuums is here. If you want to keep your home cleaner smoothly, you can now do it with the new Xiaomi Mi Robot Mop P White vacuum cleaner, designed to keep your home clean in all ways.
 - Xiaomi Mi Robot Vacuum Mop P White Technical Specifications: Brand: Xiaomi Model: My Robot Vacuum Mop P White (STYTJ02YM) General Engine: NIDEC Brushless Noise: 69 dB to 76 db. Functions: Aspiration, Mopa, Scrub Suction power: 2100 PA Capacity: 0.30 liters Water level capacity: 0.20L
-- Battery Capacity: 3200 mAh LG Li-Ion Dimensions and Weight: 3.6 kg Dimensions: 35 x 35 x 9.5 cm Package included: 1 x Xiaomi Mi Robot Vacuum Mop P White 1 x Charging Base 1 x EU Power Adapter 1 x Filter 1 x Mopa
 
 [🛒 Hier!!](https://www.amazon.de/dp/B085BPCV7W/?tag=tolees0ca-21)
