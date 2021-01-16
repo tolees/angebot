@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sylvanian Families - 5302 - Stadthaus mi mit 41.05 % Rabatt'
-date: 2021-01-13 10:49:49
+date: 2021-01-15 23:51:25
 image: 'https://m.media-amazon.com/images/I/51v+WYY6tmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,11 @@ Sie können [Sylvanian Families - 5302 - Stadthaus mit Licht](https://www.amazon
 
 ℹ️:
 
-- Die unglaubliche Verarbeitung und Details dieses Hauses werden die Figuren Sylvanian glücklich machen die bald den Abenteuern Ihrer zum Leben erwecken
-- 2 funktionale Deckenleuchten ermöglichen die Beleuchtung von zwei Räumen im Haus durch zwei LR06 Batterien und verleihen diesem schönen Haus einen zusätzlichen magischen Touch
-- Dieses Haus mit schönen Maßen (L 64 x B 46 x H 34 cm geöffnet) mit fünf Teilen und zwei Terrassen ermöglicht es Ihnen eine Vielzahl von Geschichten mit Ihren Kindern ab 4 Jahren zu erfinden
+- The house can be opened up for play at 90 Degrees, 180 Degrees and any angle in between, additionally, the second floor room on the left side and the roof on the right side, are removable
+- Connect to red roof cosy cottage to create a large, three-storey house (sold separately)
+- This house has real lights, these can be turned on and off in the rooms
+- Suitable for ages three years and above
+- Can be put back together to allow multiple ways to play
+- Stimulates imaginative role-playing by children
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07NQRYDCP/?tag=tolees0ca-21)
