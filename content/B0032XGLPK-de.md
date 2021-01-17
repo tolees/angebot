@@ -25,9 +25,9 @@ Es gibt ein [Rapesco 0715 Ringordner Din A4  10 Stück pro Verpackung  25 mm  Tr
 
 ℹ️:
 
-- Gefertigt aus stilvollen Polypropylen
-- Packung: 10 Ordner, transparent
 - Entfernbares Rückenschild in voller Länge
+- Packung: 10 Ordner, transparent
 - 2-Ring O Mechanismus 25mm Kapazität um gelochte Papiere oder Mappen zu lagern
+- Gefertigt aus stilvollen Polypropylen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0032XGLPK/?tag=tolees0ca-21)
