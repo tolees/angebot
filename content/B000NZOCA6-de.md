@@ -25,7 +25,7 @@ Es gibt ein [Lacoste Pour Damen  Duschgel  150 ml](https://www.amazon.de/dp/B000
 
 ℹ️:
 
-- Duftnote: Blumig.
 - Ein blumiger Duft für eine Frau die absolut ehrlich zu sich selbst sind. Charmant, Authentisch und Spontan.
+- Duftnote: Blumig.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000NZOCA6/?tag=tolees0ca-21)
