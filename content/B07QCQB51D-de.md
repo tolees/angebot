@@ -25,9 +25,9 @@ Sie können [Funko 42062 POP! Bobble Vinyl Star Wars The Mandalorian Mandalorian
 
 ℹ️:
 
-- Funko POP! ist das Spielzeug des Jahres 2018
-- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
-- Schauen Sie sich jetzt die anderen Star Wars The Mandalorian-Figuren von Funko an! Sammeln Sie alle!
 - Von Star Wars The Mandalorian, Mandalorian, zur stilisierten POP-Vinyl Figur von Funko!
+- Funko POP! ist das Spielzeug des Jahres 2018
+- Schauen Sie sich jetzt die anderen Star Wars The Mandalorian-Figuren von Funko an! Sammeln Sie alle!
+- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07QCQB51D/?tag=tolees0ca-21)
