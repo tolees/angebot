@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HORI Joy-Con Ladestation für Nintendo Sw mit 19.67 % Rabatt'
-date: 2021-01-16 18:22:57
+date: 2021-01-17 19:44:26
 image: 'https://m.media-amazon.com/images/I/41ffvUZyNuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Sie können [HORI Joy-Con Ladestation für Nintendo Switch](https://www.amazon.d
 
 ℹ️:
 
-- Wird mit dem Nintendo Switch Dock verbunden
-- Offiziell Nintendo lizenziert
 - Lädt bis zu 4 Joy-Cons
+- Offiziell Nintendo lizenziert
+- Wird mit dem Nintendo Switch Dock verbunden
 - LED-Anzeigen für den Ladestatus
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01MZAUN5E/?tag=tolees0ca-21)
