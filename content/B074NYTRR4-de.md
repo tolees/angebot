@@ -25,10 +25,10 @@ Es gibt ein [Krups Nescafé Dolce Gusto Lumio Kapselmaschine KP1308 | Kompakte K
 
 ℹ️:
 
-- Einfach: Der Kapselautomat ist dank der magnetischen Kapselhalterung nicht nur komfortabel in der Bedienung, sondern durch die spülmaschinengeeignete und höhenverstellbare Abtropfschale auch besonders einfach und schnell zu reinigen
-- Kompakt: Die Lumio ist mit ihren kleinen Maßen eine der platzsparendsten Kaffeekapselmaschinen von Nescafé Dolce Gusto; sie passt damit besonders gut in kleine Küchen, Büros und Räume, ohne auf Leistung und Kaffeegenuss verzichten zu müssen
-- Schnell: Dank unseres besonderen Aluminium-Thermoblocks können Sie schnell und ohne lange Wartezeiten unsere leckeren Nescafé Dolce Gusto Heißgetränke einfach und sofort genießen
 - Intelligent: Mit Hilfe des LED-Bedienfeldes mit Wählrad die Wassermenge einstellen und Ihr Lieblingsgetränk bis zum großen XL-Kaffeebecher mit bis zu 15 bar Pumpendruck ganz einfach zubereiten
 - Vielfältig: Genießen Sie dank unseres intelligenten Nescafé Dolce Gusto Kapselsystems eine große Vielfalt an heißen und kalten Getränken in über 30 verschiedenen leckeren Sorten
+- Schnell: Dank unseres besonderen Aluminium-Thermoblocks können Sie schnell und ohne lange Wartezeiten unsere leckeren Nescafé Dolce Gusto Heißgetränke einfach und sofort genießen
+- Kompakt: Die Lumio ist mit ihren kleinen Maßen eine der platzsparendsten Kaffeekapselmaschinen von Nescafé Dolce Gusto; sie passt damit besonders gut in kleine Küchen, Büros und Räume, ohne auf Leistung und Kaffeegenuss verzichten zu müssen
+- Einfach: Der Kapselautomat ist dank der magnetischen Kapselhalterung nicht nur komfortabel in der Bedienung, sondern durch die spülmaschinengeeignete und höhenverstellbare Abtropfschale auch besonders einfach und schnell zu reinigen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B074NYTRR4/?tag=tolees0ca-21)
