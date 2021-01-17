@@ -28,8 +28,8 @@ Es gibt ein [Jil Sander SUN femme  Eau de Toilette  1er Pack  1 x 30 ml ](https:
 - Eau de Cologne
 - Duftnoten: Blumig, Fruchtig
 - Ein sommerfrischer und unverwechselbarer Damenduft aus Sommerblüten
-- Beauty-Produkte
 - Prickelnde, schwungvolle Noten von Bergamotte, schwarzer Johannisbeere und Rosenholz
+- Beauty-Produkte
 - Marke Jil Sander
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0002DL0OU/?tag=tolees0ca-21)
