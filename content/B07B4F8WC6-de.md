@@ -25,10 +25,10 @@ Es gibt ein [LG 32LK6200PLA 80 cm  32 Zoll  Fernseher  Full HD  Triple Tuner  Ac
 
 ℹ️:
 
-- Besonderheiten: LG ThinQ webOS 4,0, Active HDR (HDR10 Pro, HLG), Streaming-Dienste: Amazon Video, Netflix, YouTube, Maxdome, Sky, DAZN, uvm
-- Auflösung: 1,920 x 1,080 Pixel (Full HD)
-- Typ: (LED) Fernseher mit 80 cm (32 Zoll) Bildschirmdiagonale
-- Empfang: 1 x (DVB-T2/C/S2), CI+ 1,4, WLAN (802.11ac), LAN, DLNA
 - Lieferumfang: LG 32LK6200 80 cm (32 Zoll) Fernseher, LG Fernbedienung, inkl. Batterien, Schnellstartanleitung, Stromkabel und Standfuß
+- Empfang: 1 x (DVB-T2/C/S2), CI+ 1,4, WLAN (802.11ac), LAN, DLNA
+- Typ: (LED) Fernseher mit 80 cm (32 Zoll) Bildschirmdiagonale
+- Auflösung: 1,920 x 1,080 Pixel (Full HD)
+- Besonderheiten: LG ThinQ webOS 4,0, Active HDR (HDR10 Pro, HLG), Streaming-Dienste: Amazon Video, Netflix, YouTube, Maxdome, Sky, DAZN, uvm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07B4F8WC6/?tag=tolees0ca-21)

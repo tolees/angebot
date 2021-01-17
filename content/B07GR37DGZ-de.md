@@ -25,9 +25,9 @@ Sie können [Pentel XSES15/3 Sign Pen Brush "touch" Kalligraphiestift mit flexib
 
 ℹ️:
 
+- Popular for layout and illustration
+- Irreplaceable for calligraphy and handlettering
 - Metal encased acrylic tip writes easily and gently
 - Flexible, metal-clad fibre tip
-- Irreplaceable for calligraphy and handlettering
-- Popular for layout and illustration
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07GR37DGZ/?tag=tolees0ca-21)

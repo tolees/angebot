@@ -27,8 +27,8 @@ Es gibt ein [PLAYMOBIL City Action 70441 RC-Baukran mit Bauteil  Inkl. Fernbedie
 
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 - IR-Fernbedienung mit Kanalwechselschalter zum Bedienen von 4 Kränen gleichzeitig, Kombinierbar mit Hausmodulen aus 70442 Seilbagger / 70443 Minibagger
-- Für fleißige Bauarbeiter: PLAYMOBIL RC-Baukran mit Bauteil, Stahlträger, Baumaterial sowie Kranführer und Architektin für detailgetreues Nachspielen
 - Lieferumfang: 1x PLAYMOBIL City Action RC-Baukran mit Bauteil, 80-teiliges Spielfiguren-Set mit Anleitung: 1 Baukran, 1 Fernbedienung, 2 Figuren, 76 Zubehörteile, Material: Kunststoff, LxTxH (Kran): ca. 69x32x101 cm, Gewicht: ca. 2,2 kg, 70441
 - Spielfiguren-Set für Kinder ab 5 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
+- Für fleißige Bauarbeiter: PLAYMOBIL RC-Baukran mit Bauteil, Stahlträger, Baumaterial sowie Kranführer und Architektin für detailgetreues Nachspielen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B081HQ5S8H/?tag=tolees0ca-21)

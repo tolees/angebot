@@ -25,10 +25,10 @@ Sie können [Superzings PSZ4D830IN00 4 Two Pack](https://www.amazon.de/dp/B084VR
 
 ℹ️:
 
-- ▶ SuperZings set of 2 figures: Superhero + Super Villain ▶ Series 4 - the best-selling figure collection
 - ▶ Your childs favourite heroes ▶ In Series 4 you can collect over 80 completely new heroes
-- ▶ Undoubtedly one of the best gifts for any boy and girl aged 3 and up.
+- ▶ SuperZings set of 2 figures: Superhero + Super Villain ▶ Series 4 - the best-selling figure collection
 - ▶ Figures are sent at random - it is not possible to choose a specific hero or colour
+- ▶ Undoubtedly one of the best gifts for any boy and girl aged 3 and up.
 - ▶ SuperZings are everyday items that transform into superheroes and super villains and compete against each other during various adventures in Kaboom City
 
 [🛒 Hier!!](https://www.amazon.de/dp/B084VR77WR/?tag=tolees0ca-21)

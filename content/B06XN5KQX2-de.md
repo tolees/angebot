@@ -25,8 +25,8 @@ Es gibt ein [Sony Herren T-Shirt Sony Playstation Classic Logo and Colours  Schw
 
 ℹ️:
 
+- T-Shirt mit folgenden Eigenschaften:
 - Offiziell lizenzierter Fan-Artikel
 - T-Shirt ║ Regular ║
-- T-Shirt mit folgenden Eigenschaften:
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06XN5KQX2/?tag=tolees0ca-21)

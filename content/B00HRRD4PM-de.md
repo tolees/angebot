@@ -25,8 +25,8 @@ Es gibt ein [Sylvanian Families - 4281 - Fahrradfahren mit Mutter](https://www.a
 
 ℹ️:
 
-- Größe der Katzenmutter: ca. 6-8 cm; Größe Baby: ca. 3-4 cm
 - Schönes Geschenk für Mädchen zu Weihnachten, Ostern oder zum Geburtstag
+- Größe der Katzenmutter: ca. 6-8 cm; Größe Baby: ca. 3-4 cm
 - Für Kinder ab 3 Jahren
 - Fördert die Kreativität und Fantasie der Kinder
 - 2 Sylvanian Families Sammelfiguren inkl. Zubehör

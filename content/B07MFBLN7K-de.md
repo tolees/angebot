@@ -25,9 +25,9 @@ Sie können [Samsung MZ-V7S500BW 970 EVO Plus 500 GB NVMe M.2 Interne SSD Schwar
 
 ℹ️:
 
-- Interface : NVMe (PCIe Gen 3.0 x 4)
 - Form Factor : M.2
 - Designed for tech enthusiasts, hardcore gamers and professionals who need unrivaled performance
+- Interface : NVMe (PCIe Gen 3.0 x 4)
 - Sequential Read/Write speeds up to 3,500/3,300 MB/s respectively. Performance varies based on system hardware and configuration
 - Available Capacity : Up to 2 TB
 
