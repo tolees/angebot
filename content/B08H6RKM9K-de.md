@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Downton Abbey - Collector s Edition + Fi mit 16.70 % Rabatt'
-date: 2021-01-16 00:10:58
+date: 2021-01-17 06:25:05
 image: 'https://m.media-amazon.com/images/I/41rRrgMR-2L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B08H6RKM9K/?tag=tolees0ca-21'
 descuento: '16.70'
-average: '56.87842105263158'
+average: '56.533'
 ---
 
 Sie können [Downton Abbey - Collector s Edition + Film [Blu-ray]](https://www.amazon.de/dp/B08H6RKM9K/?tag=tolees0ca-21) mit Preis 49.97 EUR (original: 59.99 EUR) 16.70 % Rabatt hier:

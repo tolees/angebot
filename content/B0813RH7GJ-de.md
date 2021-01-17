@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71721 NINJAGO Drache des Totenkopfm mit 24.34 % Rabatt'
-date: 2021-01-12 16:40:44
+date: 2021-01-17 06:20:45
 image: 'https://m.media-amazon.com/images/I/51+nsd28r7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B0813RH7GJ/?tag=tolees0ca-21'
 descuento: '24.34'
-average: '57.044482758620696'
+average: '57.10933333333334'
 ---
 
 Sie können [LEGO 71721 NINJAGO Drache des Totenkopfmagiers  2-in-1 Bauset und Brettspiel mit Skelett-Rittern Minifiguren](https://www.amazon.de/dp/B0813RH7GJ/?tag=tolees0ca-21) mit Preis 58.99 EUR (original: 77.97 EUR) 24.34 % Rabatt hier:
@@ -25,10 +25,10 @@ Sie können [LEGO 71721 NINJAGO Drache des Totenkopfmagiers  2-in-1 Bauset und B
 
 ℹ️:
 
-- Check out other NINJAGO playable sets: Skull Sorcerer’s Dungeons 71722, Journey to the Skull Dungeons 71717 and Zanes Mino Creature 71719
-- Features a toy fort with traps plus a dragon toy to recreate scenes from the NINJAGO TV series, and an exciting and action-packed board game
-- The LEGO dragon has moving legs, wings and tail, it can fire missiles from 2 shooters and drop bones and spiders out of its ribcage
-- Ninjas need to watch out for the traps! When activated, the statue falls on the ninjas. It is hard to escape the Dungeons of Shintaro
-- Includes 6 minifigures: Hero Kai, Hero Jay, Hero Nya, Skull Sorcerer and 2 Skeleton Warriors – all part of the game after spinning the dice
+- Detailreiches Ninja-Set mit einem NINJAGO Spielzeug-Drachen und sechs Minifiguren: den Helden Jay und Kai, der Heldin Nya, dem Totenkopfmagier und zwei erwachten Rittern. Kinder können Abenteuer erleben oder bei dem spannenden Brettspiel mitmachen
+- Der LEGO Drache verfügt über bewegliche Gliedmaßen (Beine, Flügel, Schwanz), kann mit seinen zwei Shootern Raketen abfeuern. Die Ninja-Figuren können auch für das Brettspiel benutzt werden, um aus den Verliesen von Shintaro zu entkommen
+- Das LEGO NINJAGO Set enthält sechs Minifiguren, um die Actionszenen aus der NINJAGO TV-Serie nachstellen zu können. Das ideale Geschenk für Fans, die eigene Geschichten inszenieren oder an LEGO Brettspielen teilnehmen möchten
+- Dieses Drachen-Bauset (ab Juni 2020) besitzt die ideale Größe, um zu Hause oder unterwegs unzählige Action-Abenteuer zu erleben. Der tolle Spielzeug-Drache ist 31 cm hoch, 38 cm lang und 53 cm breit
+- Dieses 1.016-teilige Drachen-Bauset stellt Jungen und Mädchen ab 9 Jahren vor eine anspruchsvolle Bauherausforderung. NINJAGO Fans werden sich riesig freuen, wenn sie das Set zum Geburtstag oder zu einem anderen Anlass geschenkt bekommen
 
-[Hier!!](https://www.amazon.de/dp/B0813RH7GJ/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B0813RH7GJ/?tag=tolees0ca-21)
