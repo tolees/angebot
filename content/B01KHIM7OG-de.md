@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips LED 60W A60 E27 WW 230V FR ND 6C mit 34.16 % Rabatt'
-date: 2021-01-14 21:16:10
+date: 2021-01-17 20:15:39
 image: 'https://m.media-amazon.com/images/I/41MaEaOXJIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B01KHIM7OG/?tag=tolees0ca-21'
 descuento: '34.16'
-average: '13.655'
+average: '13.709999999999999'
 ---
 
 Sie können [Philips LED 60W A60 E27 WW 230V FR ND 6CT/4](https://www.amazon.de/dp/B01KHIM7OG/?tag=tolees0ca-21) mit Preis 13.82 EUR (original: 20.99 EUR) 34.16 % Rabatt hier:
