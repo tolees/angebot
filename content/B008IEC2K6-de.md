@@ -25,12 +25,12 @@ Es gibt ein [Intenso Ultra Line 64 GB USB-Stick USB 3.0 silber](https://www.amaz
 
 ℹ️:
 
+- Material: Aluminium
 - Mac OS 10.6 oder höher
 - Speicherkapazität: 64 GB
-- Material: Aluminium
-- Lieferumfang: Intenso USB-Stick
-- Linux 2.4x
 - SuperSpeed USB 3.0
+- Lieferumfang: Intenso USB-Stick
 - Unterstützte Betriebssysteme: Microsoft Windows XP/Vista/7/8
+- Linux 2.4x
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B008IEC2K6/?tag=tolees0ca-21)

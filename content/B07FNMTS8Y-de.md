@@ -25,10 +25,10 @@ Es gibt ein [LEGO 76125 Super Heroes Marvel Avengers Iron Mans Werkstatt  modula
 
 ℹ️:
 
-- Die Werkstatt von Iron Man ist 13 cm hoch, 35 cm breit und 17 cm tief, wenn die Module standardmäßig aufgestellt sind
-- Es enthält einen Igor-Rüstung-Mech mit einem Cockpit für Minifiguren, das sich öffnen lässt, bewegbare Arme und Beine und einen beweglichen Roboter auf Rädern, die das fantasievolle Spielen anregen
 - Superheldenspielzeug umfasst die Werkstatt von Iron Man, die aus einzelnen Werkstattmodulen besteht, welche auf unterschiedlichste Weise miteinander kombiniert und aufeinander gestapelt werden können
+- Es enthält einen Igor-Rüstung-Mech mit einem Cockpit für Minifiguren, das sich öffnen lässt, bewegbare Arme und Beine und einen beweglichen Roboter auf Rädern, die das fantasievolle Spielen anregen
 - Mit den Modulen kann ein Screen Room oder ein Gefängnis für die Bösewichte gebaut werden, indem die einzelnen Module zu einem Kreis verbunden werden
+- Die Werkstatt von Iron Man ist 13 cm hoch, 35 cm breit und 17 cm tief, wenn die Module standardmäßig aufgestellt sind
 - Das Set enthält fünf Figuren aus dem Marvel Universum: Iron Man MK 1, Iron Man MK 5, Iron Man MK 41, Iron Man MK 50 und einen Outrider
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FNMTS8Y/?tag=tolees0ca-21)

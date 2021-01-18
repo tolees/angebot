@@ -25,10 +25,10 @@ Sie können [Toilettendeckel / WC – Sitz Renova Nr. 1 | mit Deckel  höhenvers
 
 ℹ️:
 
-- Farbe: weiß
-- weiche Deckelform
-- höhenverstellbare L-Scharniere aus Edelstahl
-- 370 x 453 mm
 - Material: Duroplast
+- weiche Deckelform
+- Farbe: weiß
+- 370 x 453 mm
+- höhenverstellbare L-Scharniere aus Edelstahl
 
 [🛒 Hier!!](https://www.amazon.de/dp/B005EHIPJW/?tag=tolees0ca-21)
