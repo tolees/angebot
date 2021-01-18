@@ -25,9 +25,9 @@ Es gibt ein [Crocs Unisex-Erwachsene Crocband Clogs  Navy  43/44 EU](https://www
 
 ℹ️:
 
-- Sporty midsole band inspired by the classic vulcanised style
-- Odour-resistant, easy to clean and quick to dry
 - Sole sizes are US. Label shows UK. M = Mens W = Womens
+- Odour-resistant, easy to clean and quick to dry
 - The Crocs shoes will display US sizes
+- Sporty midsole band inspired by the classic vulcanised style
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002JCST14/?tag=tolees0ca-21)
