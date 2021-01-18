@@ -1,33 +1,33 @@
 ---
 layout: post
-title: '38.63 % rabat auf Timberland Damen 6 Zoll Premium wasserdi'
-date: 2021-01-17 06:19:40
+title: '50.00 % rabat auf Timberland Damen 6 Zoll Premium wasserdi'
+date: 2021-01-18 06:29:51
 image: 'https://m.media-amazon.com/images/I/411VqEFNLnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B008EWME32-de'
-actualPrice: 134.95 EUR
+actualPrice: 109.95 EUR
 currency: EUR
-price: 134.95
+price: 109.95
 comparePrice: 219.9 EUR
 prodname: 'Timberland Damen 6 Zoll Premium wasserdicht Stiefel  Gelb  Wheat Nubuck   40 EU'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B008EWME32/?tag=tolees0ca-21'
-descuento: '38.63'
-average: '100.56818181818183'
+descuento: '50.00'
+average: '101.10428571428572'
 ---
 
-Es gibt ein [Timberland Damen 6 Zoll Premium wasserdicht Stiefel  Gelb  Wheat Nubuck   40 EU](https://www.amazon.de/dp/B008EWME32/?tag=tolees0ca-21) mit aktuellem Preis 134.95 EUR (original: 219.9 EUR) 38.63 % Rabatt hier:
+Es gibt ein [Timberland Damen 6 Zoll Premium wasserdicht Stiefel  Gelb  Wheat Nubuck   40 EU](https://www.amazon.de/dp/B008EWME32/?tag=tolees0ca-21) mit aktuellem Preis 109.95 EUR (original: 219.9 EUR) 50.00 % Rabatt hier:
 
 [![Timberland Damen 6 Zoll Premium wasserdi](https://m.media-amazon.com/images/I/411VqEFNLnL._SL200_.jpg)](https://www.amazon.de/dp/B008EWME32/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Obermaterial: Leder
-- Absatzform: Flach
-- Materialzusammensetzung: Siehe Beschreibung
 - Verschluss: Schnürsenkel
+- Materialzusammensetzung: Siehe Beschreibung
+- Absatzform: Flach
+- Obermaterial: Leder
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B008EWME32/?tag=tolees0ca-21)

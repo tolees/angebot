@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PowerA Kabelgebundener Controller Fusion mit 19.58 % Rabatt'
-date: 2021-01-17 06:15:16
+date: 2021-01-18 06:37:28
 image: 'https://m.media-amazon.com/images/I/41QYzp+zOCL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07XQXQMR9/?tag=tolees0ca-21'
 descuento: '19.58'
-average: '78.78615384615385'
+average: '79.00266666666667'
 ---
 
 Sie können [PowerA Kabelgebundener Controller Fusion Pro für Xbox One – schwarz](https://www.amazon.de/dp/B07XQXQMR9/?tag=tolees0ca-21) mit Preis 80.41 EUR (original: 99.99 EUR) 19.58 % Rabatt hier:
@@ -25,10 +25,10 @@ Sie können [PowerA Kabelgebundener Controller Fusion Pro für Xbox One – schw
 
 ℹ️:
 
+- Programmierbare Pro Pack - programmiere ganz nebenbei Tasten für die hinteren paddles, ohne den daumenstick loslassen zu müssen
 - Ringe gegen Abrieb - zwei Sets (grün und Silber)
 - doppelte rumble-motoren - mit reaktionsschnellem rumble-feedback tauchst du in die Spielewelt ein
-- Programmierbare Pro Pack - programmiere ganz nebenbei Tasten für die hinteren paddles, ohne den daumenstick loslassen zu müssen
-- 3-wege-trigger-sperren - Stelle diese für eine kürzere trigger-reaktionen und schnellere Action ein
 - Analoge alps-daumensticks - vier Erhältlich mit kurzer, langer, konvexer und konkaver Variante
+- 3-wege-trigger-sperren - Stelle diese für eine kürzere trigger-reaktionen und schnellere Action ein
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XQXQMR9/?tag=tolees0ca-21)

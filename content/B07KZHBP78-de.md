@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '30.03 % rabat auf Aquaman [Blu-ray]'
-date: 2021-01-17 06:38:14
+date: 2021-01-18 06:48:24
 image: 'https://m.media-amazon.com/images/I/51kJjnMp-vL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07KZHBP78/?tag=tolees0ca-21'
 descuento: '30.03'
-average: '8.635384615384616'
+average: '8.552857142857144'
 ---
 
 Es gibt ein [Aquaman [Blu-ray]](https://www.amazon.de/dp/B07KZHBP78/?tag=tolees0ca-21) mit aktuellem Preis 7.48 EUR (original: 10.69 EUR) 30.03 % Rabatt hier:

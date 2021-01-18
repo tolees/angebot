@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'Samsung TU7199 108 cm  43 Zoll  LED Fern mit 15.03 % Rabatt'
-date: 2021-01-13 11:11:51
+title: 'Samsung TU7199 108 cm  43 Zoll  LED Fern mit 22.45 % Rabatt'
+date: 2021-01-18 06:51:57
 image: 'https://m.media-amazon.com/images/I/51fj6hoDIJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B0896V3YWW-de'
-actualPrice: 424.0 EUR
+actualPrice: 386.99 EUR
 currency: EUR
-price: 424.0
+price: 386.99
 comparePrice: 499.0 EUR
 prodname: 'Samsung TU7199 108 cm  43 Zoll  LED Fernseher  Ultra HD  HDR 10+  Triple Tuner  Smart TV  [Modelljahr 2020]'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B0896V3YWW/?tag=tolees0ca-21'
-descuento: '15.03'
-average: '405.43999999999994'
+descuento: '22.45'
+average: '406.155'
 ---
 
-Sie können [Samsung TU7199 108 cm  43 Zoll  LED Fernseher  Ultra HD  HDR 10+  Triple Tuner  Smart TV  [Modelljahr 2020]](https://www.amazon.de/dp/B0896V3YWW/?tag=tolees0ca-21) mit Preis 424.0 EUR (original: 499.0 EUR) 15.03 % Rabatt hier:
+Sie können [Samsung TU7199 108 cm  43 Zoll  LED Fernseher  Ultra HD  HDR 10+  Triple Tuner  Smart TV  [Modelljahr 2020]](https://www.amazon.de/dp/B0896V3YWW/?tag=tolees0ca-21) mit Preis 386.99 EUR (original: 499.0 EUR) 22.45 % Rabatt hier:
 
 [![Samsung TU7199 108 cm  43 Zoll  LED Fern](https://m.media-amazon.com/images/I/51fj6hoDIJL._SL200_.jpg)](https://www.amazon.de/dp/B0896V3YWW/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Typ: 4K UHD, Flat, LED Fernseher, Rahmenlos Carbonsilber
-- Lieferumfang: Samsung TU7199 108 cm (43 Zoll) mit Kielfuß (grau), klassische Fernbedienung, Stromkabel, Anleitung
-- Auflösung 3.840 x 2.160 Pixel (4K/Ultra HD), HDR10+, PurColor, UHD Dimming, Auto Game Mode, Clean Cable Solution
 - HD+ integriert: 24 private HD- und 2 UHD-Sender sowie HD+ Komfort-Funktion mit Neustart, Mediatheken und TV-Guide. 6 Monate gratis testen. SAT-Empfang benötigt.
 - HD+ integriert: 23 private HD- und 2 UHD-Sender sowie HD+ Komfort-Funktion mit Neustart, Mediatheken und TV-Guide. 6 Monate gratis testen. SAT-Empfang benötigt
-- Kompatibel mit Alexa, Google Assistant und Airplay 2, Bixby integriert
-- Digitaler Fernsehempfang (DVB): DVB-C/S2/T2 HD, Analoger Tuner, CI+, 2x HDMI, 1x USB, 1x LAN, WLAN, 1x CI+-Slot, 1x Antenneneingang
 - Streaming-Dienste: Amazon Video, Netflix, Zattoo, Youtube, Maxdome, ARD, DAZN, Gamefly, Ran, Videoland, Videociety, Wuaki, Prosieben Apps, etc.
+- Digitaler Fernsehempfang (DVB): DVB-C/S2/T2 HD, Analoger Tuner, CI+, 2x HDMI, 1x USB, 1x LAN, WLAN, 1x CI+-Slot, 1x Antenneneingang
+- Lieferumfang: Samsung TU7199 108 cm (43 Zoll) mit Kielfuß (grau), klassische Fernbedienung, Stromkabel, Anleitung
+- Typ: 4K UHD, Flat, LED Fernseher, Rahmenlos Carbonsilber
+- Auflösung 3.840 x 2.160 Pixel (4K/Ultra HD), HDR10+, PurColor, UHD Dimming, Auto Game Mode, Clean Cable Solution
+- Kompatibel mit Alexa, Google Assistant und Airplay 2, Bixby integriert
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0896V3YWW/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '27.30 % rabat auf LEGO 42099 Technic Control+ 4x4 Allrad X'
-date: 2021-01-17 06:27:33
+date: 2021-01-18 06:37:44
 image: 'https://m.media-amazon.com/images/I/51HWQ-wkFdL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21'
 descuento: '27.30'
-average: '164.66199999999995'
+average: '164.65653594771237'
 ---
 
 Es gibt ein [LEGO 42099 Technic Control+ 4x4 Allrad Xtreme-Geländewagen  App-gesteuertes Konstruktionsspielzeug mit Smarthub und interaktiven Motoren](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21) mit aktuellem Preis 162.99 EUR (original: 224.19 EUR) 27.30 % Rabatt hier:
@@ -25,10 +25,10 @@ Es gibt ein [LEGO 42099 Technic Control+ 4x4 Allrad Xtreme-Geländewagen  App-ge
 
 ℹ️:
 
-- Der ferngesteuerte Geländewagen erfordert Batterien (nicht enthalten). Hinweise zum Typ und zur Anzahl der Batterien sind auf der Produktverpackung.Nicht kompatibel mit LEGO Power Functions
-- Der Allrad Xtreme-Geländewagen ist 19 cm hoch, 33 cm lang und 22 cm breit
 - Mehrzwecksteuerung: Du kannst vorwärts und rückwärts fahren, lenken, beschleunigen, bremsen, Hindernisse umfahren und in Echtzeit Rückmeldungen zu Geschwindigkeit und Neigung bekommen
-- Das coole Geländewagen-Modell wird mit der LEGO Technic Control+ App gesteuert und mit einem Smarthub mit zwei XL-Motoren und einem L-Motor angetrieben
+- Der ferngesteuerte Geländewagen erfordert Batterien (nicht enthalten). Hinweise zum Typ und zur Anzahl der Batterien sind auf der Produktverpackung.Nicht kompatibel mit LEGO Power Functions
 - Der App-gesteuerte Allrad Xtreme-Geländewagen von LEGO wird über drei Bildschirme auf einem Mobilgerät gesteuert.
+- Der Allrad Xtreme-Geländewagen ist 19 cm hoch, 33 cm lang und 22 cm breit
+- Das coole Geländewagen-Modell wird mit der LEGO Technic Control+ App gesteuert und mit einem Smarthub mit zwei XL-Motoren und einem L-Motor angetrieben
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21)
