@@ -25,9 +25,9 @@ Es gibt ein [Mannesmann Elektro-Schraubendrehersatz  7-tlg.  M 1187-PROFI](https
 
 ℹ️:
 
-- für Arbeiten an unter Spannung stehenden Teilen oder in deren Nähe
-- 7-teilig
-- 10 Jahre Garantie
 - TÜV/GS geprüft
+- 7-teilig
+- für Arbeiten an unter Spannung stehenden Teilen oder in deren Nähe
+- 10 Jahre Garantie
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000K2TBG2/?tag=tolees0ca-21)
