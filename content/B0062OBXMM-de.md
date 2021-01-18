@@ -26,9 +26,9 @@ Es gibt ein [Diesel Herren-Uhr DZ1513](https://www.amazon.de/dp/B0062OBXMM/?tag=
 ℹ️:
 
 - In einer Diesel Geschenkbox
+- Rundes, silberfarbenes Edelstahlgehäuse mit schwarzem Zifferblatt
 - 53-mm-Gehäuse, Mineralglas, 3-Zeiger-Quarzwerk, analoge Anzeige, 24-mm-Bandbreite
 - Braun, Lederband
 - Wasserdicht bis zu 100 m: Tragbar beim Baden, Schwimmen, Schnorcheln und Tauchen im flachen Wasser
-- Rundes, silberfarbenes Edelstahlgehäuse mit schwarzem Zifferblatt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0062OBXMM/?tag=tolees0ca-21)
