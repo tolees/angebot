@@ -25,9 +25,9 @@ Es gibt ein [KOSMOS 654108 Fun Science - Nachtleuchtende Flummi-Power  Stelle 20
 
 ℹ️:
 
-- Auch in der Natur gibt es nachtleuchtende Farben – das erfahren Kinder von 8 – 12 Jahren in spannenden Info-Texten und Fun-Facts.
 - Mit zwei verschiedenen Gussformen für kugelrunde und eckige Springbälle sowie den witzigen Wackelaugen kommt Abwechslung ins Spiel.
 - Extra-coole Flummis selbst mixen – in nur 10 Minuten sind die eigenen Kreationen fertig. Welcher springt am höchsten?
+- Auch in der Natur gibt es nachtleuchtende Farben – das erfahren Kinder von 8 – 12 Jahren in spannenden Info-Texten und Fun-Facts.
 - Mit dem Spezial-Granulat in 6 Farben und den zusätzlichen 3 nachtleuchtenden Farben lassen sich bis zu 20 Power-Bälle herstellen. Wenn die ersten Bälle nach einigen Tagen ihre Springkraft verlieren, ist auf jeden Fall für Nachschub gesorgt!
 - Ein KOSMOS Experimentierset zum sofort Durchstarten, Spaß haben und Wissen sammeln!
 

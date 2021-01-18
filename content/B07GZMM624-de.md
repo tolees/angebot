@@ -25,15 +25,15 @@ Es gibt ein [TP-Link Kasa Amazon Alexa zubehör Smart Home WLAN Steckdose HS100 
 
 ℹ️:
 
-- Kein Hub erforderlich - Funktioniert mit jedem WLAN-Router, ohne dass ein separater Hub oder kostenpflichtiger Abonnementdienst erforderlich ist
 - Kompatibilität - Funktioniert mit Alexa und Google Assistant für Sprachsteuerung (Alexa-Gerät und Google Home-Gerät separat erhältlich) und IFTTT
 - Kompatibilität - Funktioniert mit Alexa und Google Assistant für Sprachsteuerung (Alexa-Gerät und Google Home-Gerät separat erhältlich) und IFTTT
+- Abwesenheitsmodus - Schaltet Ihre Geräte zu verschiedenen Zeiten ein und aus, um den Eindruck zu vermitteln, dass jemand zu Hause ist
 - Kein Hub erforderlich - Funktioniert mit jedem WLAN-Router, ohne dass ein separater Hub oder kostenpflichtiger Abonnementdienst erforderlich ist
-- Kalendereintrag - Planen Sie die smarte Steckdose so ein, dass Ihr elektronisches Gerät bei Bedarf automatisch ein- und ausgeschaltet wird
-- Kalendereintrag - Planen Sie die smarte Steckdose so ein, dass Ihr elektronisches Gerät bei Bedarf automatisch ein- und ausgeschaltet wird
-- Fernzugriff - Steuern Sie Geräte, die über die Kasa-App auf Ihrem Smartphone (Android 4.1 oder höher/ iOS 8 oder höher) mit der smarten Steckdose verbunden sind, wo auch immer Sie WLAN haben
 - Fernzugriff - Steuern Sie Geräte, die über die Kasa-App auf Ihrem Smartphone (Android 4.1 oder höher/ iOS 8 oder höher) mit der smarten Steckdose verbunden sind, wo auch immer Sie WLAN haben
 - Abwesenheitsmodus - Schaltet Ihre Geräte zu verschiedenen Zeiten ein und aus, um den Eindruck zu vermitteln, dass jemand zu Hause ist
-- Abwesenheitsmodus - Schaltet Ihre Geräte zu verschiedenen Zeiten ein und aus, um den Eindruck zu vermitteln, dass jemand zu Hause ist
+- Fernzugriff - Steuern Sie Geräte, die über die Kasa-App auf Ihrem Smartphone (Android 4.1 oder höher/ iOS 8 oder höher) mit der smarten Steckdose verbunden sind, wo auch immer Sie WLAN haben
+- Kalendereintrag - Planen Sie die smarte Steckdose so ein, dass Ihr elektronisches Gerät bei Bedarf automatisch ein- und ausgeschaltet wird
+- Kalendereintrag - Planen Sie die smarte Steckdose so ein, dass Ihr elektronisches Gerät bei Bedarf automatisch ein- und ausgeschaltet wird
+- Kein Hub erforderlich - Funktioniert mit jedem WLAN-Router, ohne dass ein separater Hub oder kostenpflichtiger Abonnementdienst erforderlich ist
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07GZMM624/?tag=tolees0ca-21)
