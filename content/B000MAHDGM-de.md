@@ -25,10 +25,10 @@ Es gibt ein [Die Spiegelburg 4639 Labrador Welpe Luzie  ca. 25 cm ](https://www.
 
 ℹ️:
 
-- <b>Tierart:</b> Hund
 - <b>Farbe Plüschtiere:</b> Brauntöne
 - <b>Artikelgruppe Plüsch und Stoff:</b> Tier
-- <b>Größe Stoff:</b> 25 cm
+- <b>Tierart:</b> Hund
 - <b>Körperhaltung Plüschtiere:</b> Sitzend
+- <b>Größe Stoff:</b> 25 cm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000MAHDGM/?tag=tolees0ca-21)

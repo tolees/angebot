@@ -26,9 +26,9 @@ Sie können [ABUS Fenster-Stangenschloss FOS650A AL0125 - Zusatzsicherung mit Al
 ℹ️:
 
 - Zur Sicherung der gesamten Fensterhöhe: Langer Riegel mit hohem Widerstand gegen Druckbelastungen und Hebelangriffe - durch den 3. Verriegelungspunkt ideal für Terrassen- und Balkontüren sowie Doppelflügelfenster mit bis zu 3,10 m Höhe
-- Fensterschutz zum Nachrüsten für Ihre Haussicherheit und zur Kindersicherung: Innovative Dornmaßverstellung von 31 - 37 mm, Sicherheitslevel 10 - Stangenset FOS/FSA separat zu bestellen
+- Bei einem Einbruchsversuch wird ein 110 dBA lauter Alarmton ausgelöst - dank 3D-Magnetfeldsensorik ist ein Fehlalarm z.B. durch aufprallende Bälle ausgeschlossen
 - Universell einsetzbares Fenster-Stangenschloss mit 3-Punkt-Verriegelung: Oben, unten und seitlich: Hält auf Kunststoff (nur in Verbindung mit Befestigungsanker oder Injektionsmörtel 100), Aluminium und Holzoberflächen
 - Testurteil „sehr gut“: Getestet und bewertet mit der Note 1,0 von der Stiftung Warentest in der Ausgabe 10/2020
-- Bei einem Einbruchsversuch wird ein 110 dBA lauter Alarmton ausgelöst - dank 3D-Magnetfeldsensorik ist ein Fehlalarm z.B. durch aufprallende Bälle ausgeschlossen
+- Fensterschutz zum Nachrüsten für Ihre Haussicherheit und zur Kindersicherung: Innovative Dornmaßverstellung von 31 - 37 mm, Sicherheitslevel 10 - Stangenset FOS/FSA separat zu bestellen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B072Q5BNWC/?tag=tolees0ca-21)

@@ -25,9 +25,9 @@ Sie können [Pillars of Eternity II: Deadfire Ultimate  Playstation 4 ](https://
 
 ℹ️:
 
+- Pillars of Eternity II: Deadfire ist der Nachfolger eines der bestbewerteten Rollenspiele dieser Dekade
 - Umfangreiches und spannendes Classic-Rollenspiel mit technisch aktuellster Präsentation
 - Neue Gebiete, neue Gefährten, neue spannende Quests bieten Pillars-Fans und Neu-Einsteigern großartige Rollenspiel-Unterhaltung
 - Inkl. das Spiel "Pillars of Eternity II: Deadfire" sowie Beast of Winter DLC, The Forgotten Sanctum DLC und Seeker, Slayer, Survivor DLC
-- Pillars of Eternity II: Deadfire ist der Nachfolger eines der bestbewerteten Rollenspiele dieser Dekade
 
 [🛒 Hier!!](https://www.amazon.de/dp/B079PHKJF1/?tag=tolees0ca-21)
