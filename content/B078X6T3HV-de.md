@@ -25,10 +25,10 @@ Sie können [Sony HT-SF200 2.1-Kanal kompakte TV Soundbar mit eingebautem Subwoo
 
 ℹ️:
 
-- Direktes Abspielen von Musik von Ihrem Smartphone über Bluetooth oder USB
-- Kinderleichte Verbindung zu Ihrem TV über HDMI. Standby-Modus Aktiviert: Nach 20 Minuten
-- Volle Leistung mit raumfüllendem Sound: Home Entertainment System mit Surround Sound
 - Lieferumfang: Sony HT-SF200 2.1-Kanal kompakte TV Soundbar mit eingebautem Subwoofer
+- Direktes Abspielen von Musik von Ihrem Smartphone über Bluetooth oder USB
+- Volle Leistung mit raumfüllendem Sound: Home Entertainment System mit Surround Sound
+- Kinderleichte Verbindung zu Ihrem TV über HDMI. Standby-Modus Aktiviert: Nach 20 Minuten
 - Hochkarätiger Sound über die kompakte Größe hinaus dank des eingebauten Subwoofers und S-Force PRO Surround Sound
 - Stylisches und kompaktes Design, dass sich optimal Ihrer Einrichtung anpasst
 
