@@ -25,10 +25,10 @@ Sie können [Bosch Professional Magazinaufsatz für Bosch Trockenbauschrauber zu
 
 ℹ️:
 
-- Effizienz zum Nachrüsten: der Magazinaufsatz für Bosch-Trockenbauschrauber
-- Lieferumfang: Bosch Professional Magazinaufsatz für Bosch Trockenbauschrauber zum Nachrüsten, Karton
 - Geeignet für GSR 6-25 TE, GSR 6-45 TE und GSR 18 V-EC TE Professional
-- Komfortables dauerhaftes Arbeiten durch ergonomische Bauweise und geringes Gewicht
 - Langlebig durch offene Bauweise, um Staubablagerungen im Magazinaufsatz zu vermeiden
+- Komfortables dauerhaftes Arbeiten durch ergonomische Bauweise und geringes Gewicht
+- Lieferumfang: Bosch Professional Magazinaufsatz für Bosch Trockenbauschrauber zum Nachrüsten, Karton
+- Effizienz zum Nachrüsten: der Magazinaufsatz für Bosch-Trockenbauschrauber
 
 [🛒 Hier!!](https://www.amazon.de/dp/B005TOOBPM/?tag=tolees0ca-21)

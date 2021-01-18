@@ -28,7 +28,7 @@ Es gibt ein [Sylvanian Families - 5317 - Baby Bus "Sonnenschein"](https://www.am
 - Mit anderen Artikeln der Baby Serie kombinierbar
 - Sylvanian Families ist eine niedliche Spielzeugkollektion aus Tierfiguren mit beweglichen Armen und Beinen, detailgetreuen Gebäuden und Häusern sowie Möbeln und Zubehör. Die Figuren sind handbemalt und die Kleider handgefertigt
 - Der Bus beitet Platz für 12 Babies und eine Erwachsenen Figur als Fahrer
-- Bus mit 2 Sitzebenen, Treppe, Rutsche, 2 Wippen und Pool
 - Geeignet für Kinder ab 3 Jahre
+- Bus mit 2 Sitzebenen, Treppe, Rutsche, 2 Wippen und Pool
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01BREEQW0/?tag=tolees0ca-21)

@@ -25,8 +25,8 @@ Es gibt ein [The Noble CollectionNoble Collection Die Fernbedienung Zauberstab H
 
 ℹ️:
 
-- Official licensed product
 - Created by The Noble Collection
 - Crafted with exquisite detail
+- Official licensed product
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00FXMDRZK/?tag=tolees0ca-21)

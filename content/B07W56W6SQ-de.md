@@ -25,11 +25,11 @@ Es gibt ein [Grundig Vision 6 - Fire TV Edition  32 VLE 6010  80 cm  32 Zoll  Fe
 
 ℹ️:
 
-- Um alle Funktionen der Grundig Fire TV Edition Modelle nutzen zu können, ist ein Amazon Konto (Basic oder Prime) erforderlich.
 - Die Grundig Vision 6 - Fire TV Edition steht mit ihrer Full-HD Auflösung von 1.920 x 1.080 Pixeln für Fernseherlebnisse, die in der Erinnerung lange nachhallen
-- Magic Fidelity ist ein Sound-Algorithmus mit speziell angeordneten Lautsprechern sowie einem zusätzlichen Woofer. Das bietet einen besonders klangvollen und brillanten Sound.
-- Steuern Sie Ihren Fernseher ganz einfach mit der im Lieferumfang enthaltenen Sprachfernbedienung mit Alexa. Zudem können Sie Apps starten, Sendungen suchen, Musik abspielen, Eingänge wechseln, kompatible Smart Home-Geräte steuern und mehr – alles allein mit Ihrer Stimme.
 - Fire TV Edition bietet nahtlose Integration von Live-Fernsehkanälen und Streamingsendern auf einer einzigen Startseite (HD-Antenne erforderlich). Vorbereitet für nach VESA-Norm (in mm) : 200 x 200
+- Steuern Sie Ihren Fernseher ganz einfach mit der im Lieferumfang enthaltenen Sprachfernbedienung mit Alexa. Zudem können Sie Apps starten, Sendungen suchen, Musik abspielen, Eingänge wechseln, kompatible Smart Home-Geräte steuern und mehr – alles allein mit Ihrer Stimme.
+- Magic Fidelity ist ein Sound-Algorithmus mit speziell angeordneten Lautsprechern sowie einem zusätzlichen Woofer. Das bietet einen besonders klangvollen und brillanten Sound.
+- Um alle Funktionen der Grundig Fire TV Edition Modelle nutzen zu können, ist ein Amazon Konto (Basic oder Prime) erforderlich.
 - Mit dem integrierten Fire TV-Erlebnis können Sie Tausende Sender, Apps und Alexa-Skills genießen, darunter Netflix, YouTube, Prime Video, ARD, ZDF, DAZN, waipu.tv und weitere. Möglicherweise fallen Kosten für Abonnements an.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07W56W6SQ/?tag=tolees0ca-21)

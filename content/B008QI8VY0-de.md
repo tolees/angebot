@@ -25,11 +25,11 @@ Es gibt ein [Jack Wolfskin Reisegepäck EXPEDITION TRUNK 100 liter  black](https
 
 ℹ️:
 
-- Reisetasche
-- wasserabweisend
 - sehr robust
-- verschiedene Trageoptionen
+- Reisetasche
 - BALLISTIC 840D: mittelschweres, extrem widerstandsfähiges und scheuerfestes Polyamidgewebe mit glatter Oberfläche/MEGA PU: besonders wasserfestes, robustes Gewebe mit PU-Beschichtung (Packsack)
+- verschiedene Trageoptionen
 - Hauptfach, 4 Taschen und Fächer
+- wasserabweisend
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B008QI8VY0/?tag=tolees0ca-21)

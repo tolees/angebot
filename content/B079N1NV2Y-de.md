@@ -25,8 +25,8 @@ Es gibt ein [PLAYMOBIL City Life 9453 Große Schule mit Einrichtung  Ab 5 Jahren
 
 ℹ️:
 
-- Can be used every day: Instructions for setting up with parents, high quality and robust design, clean the parts (without stickers) under running water without chemical agents
 - Contents: 1 x PLAYMOBIL City Life Furnished School Building, 242-piece playset with instructions: 1 school building with digital clock, 9 figures, 232 accessories (2 x batteries not included), Material: plastic, L x W x H: 76 x 36 x 37 cm, 9453
+- Can be used every day: Instructions for setting up with parents, high quality and robust design, clean the parts (without stickers) under running water without chemical agents
 - Explore the everyday: PLAYMOBIL Furnished School Building with 2-in-1 school clock and alarm clock, many figures, classrooms and accessories
 - Playset for children aged 5+, ideal for childrens hands due to age-appropriate size and easy to hold thanks to the rounded edges
 - Nine figures, two floors, stairs and lift, numerous rooms, lockers for stowing individual parts, etc., can be combined with PLAYMOBIL Gym (9454 sold separately)
