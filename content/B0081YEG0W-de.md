@@ -25,9 +25,9 @@ Es gibt ein [Xucker Light Erythrit 1kg Dose - kalorienfreier Zuckerersatz als Ve
 
 ℹ️:
 
+- GESUND & KALORIENFREI: Xucker Light aus der Zucker Alternative Erythrit eignet sich bestens für eine Low Carb Ernährung ohne gänzlich auf Süßes zu verzichten.
 - NATÜRLICHER ZUCKERERSATZ: Mit gutem Gewissen zuckerfrei Naschen. Xucker Light ist die gesunde Alternative zu herkömmlichen Zucker. Er ist gut löslich, schmeckt wie Zucker, liefert jedoch keinerlei verwertbaren Kohlenhydrate.
 - BELIEBTES ERYTHRIT: Der Xucker Zuckerersatz ist besonders beliebt bei Diabetikern, zudem zahnfreundlich und frei von Stevia & Allergenen. Xucker light ist zertifiziert und wird ohne Gentechnik (GMO-frei) hergestellt.
-- GESUND & KALORIENFREI: Xucker Light aus der Zucker Alternative Erythrit eignet sich bestens für eine Low Carb Ernährung ohne gänzlich auf Süßes zu verzichten.
 - DEIN XUCKER LIGHT LIEFERUMFANG: Du erhältst 1kg Xucker Light in einer wiederverschließbaren Dose. Bitte beachte die empfohlene Dosierung. Übrigens gibt es unser Erythrit Xucker auch als Puderxucker und Rohrzucker Ersatz.
 - VIELSEITIG ANWENDBAR: Mit 70% der Süßkraft wie Zucker kann Erythrit von Xucker zum Süßen von Tee, Kaffee, Desserts oder auch zum Backen hervorragend genutzt werden. Zum Backen empfehlen wir eine 1:1 Mischung mit Xylit Birkenzucker (Xucker Premium oder Xucker Basic).
 

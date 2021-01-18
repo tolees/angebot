@@ -26,9 +26,9 @@ Es gibt ein [Logitech MX Master 2S Kabellose Maus  Version 2020  Bluetooth und 2
 ℹ️:
 
 - Verbinden Sie die MX Master 2S einfach über das Mikro-USB-Ladekabel mit dem Computer und erhalten Sie in nur drei Minuten ausreichend Strom für einen ganzen Tag. Eine Vollladung hält bis zu 70 Tage.*** ** Die Batterielaufzeit ist nutzungsabhängig.
+- Genießen Sie praktisch überall eine optimale Funktion – sogar auf Glas** – mit bis zu 4.000 DPI. ** Bei einer Mindeststärke von 4 mm.
 - Reibungslose Steuerung von bis zu 3 Computern mit nur einer Maus, wobei sogar das Kopieren und Einfügen von Texten, Bildern und Dateien zwischen den Geräten möglich ist.* * Logitech Options-Software erforderlich, Download von unserer Website.
 - Mit dem Scrollrad, das automatisch zwischen präzisem und hyperschnellem Scrollen wechselt, blättern Sie schneller und einfacher durch lange Dokumente und Webseiten.
 - Durch das hochwertige, handgerechte Design**** bleiben Ihre Hände und Handgelenke in einer bequemen und natürlichen Haltung. Dank gut erreichbarer Tasten und Räder profitieren Sie von flüssiger und akkurater Steuerung. **** Die Gussform der Maus basiert auf einem original handgearbeiteten Design.
-- Genießen Sie praktisch überall eine optimale Funktion – sogar auf Glas** – mit bis zu 4.000 DPI. ** Bei einer Mindeststärke von 4 mm.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07W4DGVQF/?tag=tolees0ca-21)

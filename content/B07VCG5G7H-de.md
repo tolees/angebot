@@ -25,10 +25,10 @@ Sie können [LEDVANCE Smart+ Plug  ZigBee schaltbare Steckdose  für die Lichtst
 
 ℹ️:
 
-- ZigBee und Alexa kompatibel -> Direkt steuerbar über Alexa Echo Plus und Echo Show. Ansonsten ist ein Zigbee-fähiges Gateway notwendig.
-- Flexible Lichtsteuerung -> Steuern Sie Ihre Beleuchtung ganz einfach über die Lichtsteuerungs-App, per Sprachkommando (Alexa) oder auch aus der Ferne (einbruchshemmend)
-- Erweitern Sie Ihr Smart Home -> Mit diesem schaltbaren Zwischenstecker können Sie Nicht-ZigBee-Geräte in Ihr Lichtsteuerung-System einbinden.
-- Kompatible Smart Home Systeme: Osram Lightify, Philips Hue, Telekom Magenta, Quivicon, Samsung SmartThings, Schwaiger4You und viele mehr
 - Die smarte Steckdose -> Neben Leuchten können Sie auch alle anderen elektrischen Geräte in Ihr Smart Home integrieren.
+- Kompatible Smart Home Systeme: Osram Lightify, Philips Hue, Telekom Magenta, Quivicon, Samsung SmartThings, Schwaiger4You und viele mehr
+- Flexible Lichtsteuerung -> Steuern Sie Ihre Beleuchtung ganz einfach über die Lichtsteuerungs-App, per Sprachkommando (Alexa) oder auch aus der Ferne (einbruchshemmend)
+- ZigBee und Alexa kompatibel -> Direkt steuerbar über Alexa Echo Plus und Echo Show. Ansonsten ist ein Zigbee-fähiges Gateway notwendig.
+- Erweitern Sie Ihr Smart Home -> Mit diesem schaltbaren Zwischenstecker können Sie Nicht-ZigBee-Geräte in Ihr Lichtsteuerung-System einbinden.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07VCG5G7H/?tag=tolees0ca-21)

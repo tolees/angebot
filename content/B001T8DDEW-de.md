@@ -27,9 +27,9 @@ Es gibt ein [NESCAFÉ Classic  löslicher Bohnenkaffee  1er Pack  1 x 100g ](htt
 
 - Hochwertige Kaffeebohnen werden gemischt und geröstet, bis sie den unverkennbaren Geschmack von NESCAFÉ CLASSIC ergeben
 - Zubereitung: 1 bis 2 Teelöffel pro Tasse mit heißem Wasser aufgießen, kurz umrühren und fertig ist höchster Kaffeegenuss
-- Lieferumfang: 1 x 100g CLASSIC löslicher Bohnenkaffee von Nescafé
-- Mit seinem kräftigen Geschmack und dem vollmundigen Aroma überzeugt einer der beliebtesten Kaffees von Nestlé Kaffeeliebhaber jeden Morgen auf´s Neue
 - Dank der Doppelfilterung werden die feinen Kaffeearomen bewahrt und gleichzeitig Bitterstoffe ausgefiltert
+- Lieferumfang: 1 x 100g CLASSIC löslicher Bohnenkaffee von Nescafé
 - Das spezielle Glas mit Aromaschutzdeckel schützt das Kaffeepulver zudem vor äußeren Einflüssen und hält es frisch und lecker, bis zum letzten Löffel
+- Mit seinem kräftigen Geschmack und dem vollmundigen Aroma überzeugt einer der beliebtesten Kaffees von Nestlé Kaffeeliebhaber jeden Morgen auf´s Neue
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001T8DDEW/?tag=tolees0ca-21)
