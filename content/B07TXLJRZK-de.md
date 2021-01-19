@@ -28,7 +28,7 @@ Sie können [Funko 45437 POP Animation: Rick & Morty-King of $#+ w/Sound Rick an
 
 - Funko POP! is the 2018 Toy of the Year and Peoples Choice award winner
 - Figure stands 9cm and comes in a window display box
-- From Rick und Morty, King of $#!+, as a stylized Sound-up POP vinyl from Funko
 - Check out the other Rick und Morty figures from Funko Collect them all
+- From Rick und Morty, King of $#!+, as a stylized Sound-up POP vinyl from Funko
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07TXLJRZK/?tag=tolees0ca-21)

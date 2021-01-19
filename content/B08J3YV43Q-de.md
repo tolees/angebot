@@ -26,10 +26,10 @@ Sie können [Tax 2021  für Steuerjahr 2020 | frustfreie Verpackung ](https://ww
 
 ℹ️:
 
+- Tax 2021 tax-Lotse: führt Sie durch Ihre Steuererklärung anerkannter Formular- und Anlagendruck inklusive kostenfreier Updates für das Steuerjahr 2020
+- Für Angestellte, Arbeiter, Rentner, Pensionäre, Anleger, Arbeitslose, Vermieter, Selbstständige sowie Land- und Forstwirtschaft Checklisten für Unterlagen und Belege kostenfreier Telefon-Support
+- Systemvoraussetzungen: Windows 8.1/10, Internet-Zugang
 - Erledigt die Einkommenssteuer-Erklärung 2020 mit allen Einkunftsarten korrekt und sicher Präzise Berechnung der Erstattung Musterschreiben für Korrespondenz mit dem Finanzamt
 - Für Inland, Ausland und Grenzregionen mit allen Formularen Datenübernahme aus dem Vorjahr u.V.M. Programmerstellte Anlagen zur Abgabe mit der Steuererklärung
-- Tax 2021 tax-Lotse: führt Sie durch Ihre Steuererklärung anerkannter Formular- und Anlagendruck inklusive kostenfreier Updates für das Steuerjahr 2020
-- Systemvoraussetzungen: Windows 8.1/10, Internet-Zugang
-- Für Angestellte, Arbeiter, Rentner, Pensionäre, Anleger, Arbeitslose, Vermieter, Selbstständige sowie Land- und Forstwirtschaft Checklisten für Unterlagen und Belege kostenfreier Telefon-Support
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08J3YV43Q/?tag=tolees0ca-21)
