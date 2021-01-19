@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414OnYFCtVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01688GRMW-de'
+slug: 'B01688GRMW-de Friedrich|23  Schmuckkoffer  Leder  22 4 x 16 x 14 8 cm  Rechteckig  Abschließbar  Mit Spiegel  London  Schwarz  26104-2'
 actualPrice: 111.79 EUR
 currency: EUR
 price: 111.79

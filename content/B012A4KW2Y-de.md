@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G9ndWyT4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012A4KW2Y-de'
+slug: 'B012A4KW2Y-de Skechers Equalizer Double Play  Men s Fitness Shoes Grey  Charcoal/Orange  11 UK 46 EU'
 actualPrice: 45.27 EUR
 currency: EUR
 price: 45.27

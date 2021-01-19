@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31t3oF+Y2ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001R8D5AG-de'
+slug: 'B001R8D5AG-de Herlitz  10999753  Schulfüllhalter  inkl. Patrone  -Für Rechtshänder  Minze/Lila'
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

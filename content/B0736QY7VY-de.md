@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vfy9UY8HL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0736QY7VY-de'
+slug: 'B0736QY7VY-de ALPINA Herren JSP 3.0 Vest Rückenprotektor  Black/White  XXL'
 actualPrice: 70.2 EUR
 currency: EUR
 price: 70.2

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EjPTrtaaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K8RYPCM-de'
+slug: 'B07K8RYPCM-de infactory Spielbaustein-Klebeband: Selbstklebendes Spielbaustein-Tape für gängige Systeme  1 m  hellblau  Spielzeug '
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

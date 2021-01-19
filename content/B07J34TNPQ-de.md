@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kUnGpAA5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J34TNPQ-de'
+slug: 'B07J34TNPQ-de Funko 38481 POP Bobble Marvel Studios 10: Doctor Strange  Chrome  Sammelbares Spielzeug  Mehrfarben'
 actualPrice: 6.13 EUR
 currency: EUR
 price: 6.13

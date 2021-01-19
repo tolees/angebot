@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51US3uOqikL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R91VYB-de'
+slug: 'B075R91VYB-de Tacklife Akkuschrauber set mit 2 Akkus  12V 2 Gang Getriebe  Schrauben-Ø: 10 mm Max. Drehmoment: 27 Nm  19+1 Drehmomentstufen  1Uhr Schnellladegerät   inkl. Profi-Koffer PCD03B'
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

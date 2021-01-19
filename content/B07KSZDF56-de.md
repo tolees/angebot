@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vdiSMHn7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSZDF56-de'
+slug: 'B07KSZDF56-de Schneiders Vienna 78335-080 - Schulranzenset Plus mit Federmappe  Schlamper und Sportbeutel  Space Ship  4 teilig'
 actualPrice: 116.21 EUR
 currency: EUR
 price: 116.21

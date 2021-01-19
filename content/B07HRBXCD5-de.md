@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IjEFMenmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRBXCD5-de'
+slug: 'B07HRBXCD5-de Susan Y muttertagsgeschenke tennis armband frauen schmuck damen schmuckkästchen damen geschenke für frauen geschenk für mama personalisierte geschenke freundschaftsarmband frauen Aquamarin '
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

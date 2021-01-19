@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vXnt8ALXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D3JWN98-de'
+slug: 'B07D3JWN98-de Deadpool 2 [DVD]'
 actualPrice: 5.21 EUR
 currency: EUR
 price: 5.21

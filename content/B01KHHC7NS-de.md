@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415NkrLHdKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KHHC7NS-de'
+slug: 'B01KHHC7NS-de Yamaha WX-010 White MusicCast WX-010 Netzwerklautsprecher weiß'
 actualPrice: 112.14 EUR
 currency: EUR
 price: 112.14

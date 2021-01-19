@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61o9nOxK2EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00005ARUV-de'
+slug: 'B00005ARUV-de Kult  Die besten Schlager '
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

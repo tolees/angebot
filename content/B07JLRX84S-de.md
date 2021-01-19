@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/613KVFZXY+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLRX84S-de'
+slug: 'B07JLRX84S-de PLAYMOBIL Top Agents 70006 Team S.H.A.R.K. Harpoon Craft  Ab 6 Jahren'
 actualPrice: 21.1 EUR
 currency: EUR
 price: 21.1

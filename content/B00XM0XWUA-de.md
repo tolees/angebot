@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41agtLtaehL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XM0XWUA-de'
+slug: 'B00XM0XWUA-de Polaroid ZIP Handydrucker mit ZINK Zero tintenfreier Drucktechnologie – Kompatibel mit iOS- & Androidgeräten - Blau'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

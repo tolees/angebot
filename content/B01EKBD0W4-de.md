@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61nudoU21DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EKBD0W4-de'
+slug: 'B01EKBD0W4-de Playmobil 6848 - Prinzessinnenschloss'
 actualPrice: 91.23 EUR
 currency: EUR
 price: 91.23

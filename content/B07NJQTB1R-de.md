@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ujl7bLJpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJQTB1R-de'
+slug: 'B07NJQTB1R-de Ankermann Neu Business Office Work PC PC Intel i5 4570 4X 3.20GHz NVIDIA GeForce GT 16GB RAM 240GB SSD 1TB HDD Windows 10 PRO W-LAN Office Professional'
 actualPrice: 449.0 EUR
 currency: EUR
 price: 449.0

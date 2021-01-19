@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51R3G4TgYbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0018LMKXK-de'
+slug: 'B0018LMKXK-de Nicht Von Dieser Welt/Re-release + Bonus'
 actualPrice: 5.26 EUR
 currency: EUR
 price: 5.26

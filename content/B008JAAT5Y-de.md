@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RthFNKNgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008JAAT5Y-de'
+slug: 'B008JAAT5Y-de Monkey 47 Schwarzwald Dry Gin – Harmonischer Gin mit Wacholderaroma & frischen Zitronen- und Fruchtnoten – Britische Tradition  indische Exotik & Schwarzwälder Handwerk – 1 x 0 5 L'
 actualPrice: 31.9 EUR
 currency: EUR
 price: 31.9

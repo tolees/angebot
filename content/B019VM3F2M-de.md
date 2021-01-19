@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XaEhbeHPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019VM3F2M-de'
+slug: 'B019VM3F2M-de Fitbit Unisex Fitness Uhr Blaze  Schwarz  S'
 actualPrice: 93.95 EUR
 currency: EUR
 price: 93.95

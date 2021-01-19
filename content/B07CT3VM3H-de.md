@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51W6OKsYVlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CT3VM3H-de'
+slug: 'B07CT3VM3H-de Echo Plus  2. Gen.   mit Premiumklang und integriertem Smart Home-Hub  Hellgrau Stoff'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

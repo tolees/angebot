@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Gu1ga5ePL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXZ7CLZ-de'
+slug: 'B07KXZ7CLZ-de AMD Ryzen 7 Prozessor Schwarz Ryzen 7 2700 Max'
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

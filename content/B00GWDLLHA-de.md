@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H3-HZtpKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GWDLLHA-de'
+slug: 'B00GWDLLHA-de Dunlop Protective Footwear Purofort Thermo+ full safety Unisex-Erwachsene Gummistiefel  Grün 44/45 EU'
 actualPrice: 68.15 EUR
 currency: EUR
 price: 68.15

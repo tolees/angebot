@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51GLJ8ED5dL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C3MXOSS-de'
+slug: 'B00C3MXOSS-de Ravensburger 09264 - Abenteuer im Winterland'
 actualPrice: 6.15 EUR
 currency: EUR
 price: 6.15

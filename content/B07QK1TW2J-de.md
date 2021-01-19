@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41K3F4bJ6lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QK1TW2J-de'
+slug: 'B07QK1TW2J-de Emporio Armani Herren-Ringe Edelstahl mit Ringgröße 59 EGS2635040-9'
 actualPrice: 59.09 EUR
 currency: EUR
 price: 59.09

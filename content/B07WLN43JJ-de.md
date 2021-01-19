@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415cqPbvMTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WLN43JJ-de'
+slug: 'B07WLN43JJ-de Rieker Damen Frühjahr/Sommer 64260 Geschlossene Sandalen  Gelb  Yellow-Multi/Sonne 90   39 EU'
 actualPrice: 16.22 EUR
 currency: EUR
 price: 16.22

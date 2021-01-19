@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61RUkXk6hZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WCZCRPN-de'
+slug: 'B06WCZCRPN-de Playmobil 9243 - Berk'
 actualPrice: 86.94 EUR
 currency: EUR
 price: 86.94

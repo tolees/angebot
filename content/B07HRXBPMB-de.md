@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Q5ZbRK9LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRXBPMB-de'
+slug: 'B07HRXBPMB-de Lenovo Tab E7 17 7 cm  7 Zoll  WSVGA Touch  Tablet-PC  Mediatek MT8167A Quad-Core  1GB RAM  8GB eMCP  Wi-Fi  Android 8.0  schwarz'
 actualPrice: 47.8 EUR
 currency: EUR
 price: 47.8

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/614fO3iym2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYMT862-de'
+slug: 'B01MYMT862-de Disney Kuscheldecke 120x140 cm Frozen die Eiskönigin Snowflake völlig unverfroren Decke Fleecedecke Schmusedecke Tagesdecke Autokuscheldecke Elsa Anna Olaf Sven Kristoff von Arendelle kuschelweich'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419w3kFHAXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0072NWC7W-de'
+slug: 'B0072NWC7W-de Pedea Laptoptasche Trendline Umhängetasche Messenger Bag 13 3/15 6/17 3/18 4/20 1 Zoll  17 3 Zoll  Tasche '
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

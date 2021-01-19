@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417XynkkxVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FK1KPKN-de'
+slug: 'B07FK1KPKN-de Hasbro E4161ES2 - Disney Prinzessin  Schimmerglanz Schneewittchen  Puppe'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

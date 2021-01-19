@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ocQgUZPML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YMH9ZJ3-de'
+slug: 'B07YMH9ZJ3-de 1917/Ost'
 actualPrice: 9.96 EUR
 currency: EUR
 price: 9.96

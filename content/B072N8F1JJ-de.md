@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51H10pmDinL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072N8F1JJ-de'
+slug: 'B072N8F1JJ-de roba Spielregal  Rennfahrer   Spielzeug- & Aufbewahrungs-Regal fürs Kinderzimmer  inkl. 5 Stoffboxen m  Auto blau'
 actualPrice: 44.06 EUR
 currency: EUR
 price: 44.06

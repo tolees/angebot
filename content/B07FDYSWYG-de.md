@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Zp6KRGamL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FDYSWYG-de'
+slug: 'B07FDYSWYG-de 2 teilig Kochmesser Profi Messer Set AKZIM Scharfe Küchenmesser und Santokumesser Set Extra Scharfe Messerklinge mit Ergonomischer Griff Deutsches High Carbon Edelstahlmesser Set'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

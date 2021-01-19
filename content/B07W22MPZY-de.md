@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Bu2GeB52L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W22MPZY-de'
+slug: 'B07W22MPZY-de KINGDUO Update-Tool Für Den Walkera Up02-Transmitter-Softwareadapter Mit Up02-Upgrade-Tool USB'
 actualPrice: 28.97 EUR
 currency: EUR
 price: 28.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QdDqUzuuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074SPC3TJ-de'
+slug: 'B074SPC3TJ-de Philips Star Wars Special Edition Nass-und Trockenrasierer SW9700/67'
 actualPrice: 183.21 EUR
 currency: EUR
 price: 183.21

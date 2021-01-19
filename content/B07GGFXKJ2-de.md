@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cBwCcbSnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GGFXKJ2-de'
+slug: 'B07GGFXKJ2-de ghd platinum+ Styler  professionelles Glätteisen mit vorausschauender Technologie  schwarz'
 actualPrice: 187.85 EUR
 currency: EUR
 price: 187.85

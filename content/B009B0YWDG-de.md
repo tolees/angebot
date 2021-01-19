@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416KbfPjDwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009B0YWDG-de'
+slug: 'B009B0YWDG-de Games of Thrones 3012 Actionfigur Daenerys Targaryen'
 actualPrice: 11.34 EUR
 currency: EUR
 price: 11.34

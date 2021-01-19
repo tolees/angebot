@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51s9+wL1G9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F3YQG16-de'
+slug: 'B07F3YQG16-de TOYMYTOY Armee Figuren Soldaten Modell Set für Kinder Lernspielzeug 100 Stücke  Zufällige Farbe '
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

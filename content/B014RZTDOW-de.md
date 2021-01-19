@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zoYvBb50L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014RZTDOW-de'
+slug: 'B014RZTDOW-de Eizo EV2750-BK 68 5 cm  27 Zoll  Monitor  DVI-D  HDMI  USB 3.0  DisplayPort  5ms Reaktionszeit  Auflösung 2560 x 1440  schwarz'
 actualPrice: 383.0 EUR
 currency: EUR
 price: 383.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GAZdmUIvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F1WR2YF-de'
+slug: 'B07F1WR2YF-de Timberland Herren klassische 2 Eye Bootsschuhe  Braun  Argan Oil Hmk   43 EU'
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

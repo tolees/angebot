@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JaGTkpX3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089RDFV88-de'
+slug: 'B089RDFV88-de PUMA Sneakersocken 18 Paar Pack Statement Edition - Damen und Herren - Black-Lady-Light - Gr. 39-42'
 actualPrice: 36.95 EUR
 currency: EUR
 price: 36.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CQHXnhuLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083TRJFKD-de'
+slug: 'B083TRJFKD-de H0 V Minifiguren Schaukasten  3-Schicht Acryl Schaukasten Vitrine mit led Licht für Lego Minifiguren Ziegelstein-Block'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

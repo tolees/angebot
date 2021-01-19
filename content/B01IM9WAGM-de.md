@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fJtGWfzYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IM9WAGM-de'
+slug: 'B01IM9WAGM-de TechniSat Z-Wave Innenkamera 1  Smart Home Kamera  Überwachungskamera Innen  Sicherheitskamera  Nachtsichtfunktion  Smarthome Hausautomation '
 actualPrice: 54.18 EUR
 currency: EUR
 price: 54.18

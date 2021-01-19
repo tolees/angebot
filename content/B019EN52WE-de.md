@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GUB0j4F9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019EN52WE-de'
+slug: 'B019EN52WE-de Engtanz'
 actualPrice: 6.09 EUR
 currency: EUR
 price: 6.09

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413pSAQIPUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009ZML3UA-de'
+slug: 'B009ZML3UA-de Le Creuset Signature Gusseisen-Grillpfanne  Quadratisch  26 cm  Für alle Herdarten inkl. Induktion geeignet  Schwarz'
 actualPrice: 77.97 EUR
 currency: EUR
 price: 77.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gIbZ25SFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBBSY33-de'
+slug: 'B07VBBSY33-de Emporio Armani Herren-Schildarmband Edelstahl EGS2660040'
 actualPrice: 49.59 EUR
 currency: EUR
 price: 49.59

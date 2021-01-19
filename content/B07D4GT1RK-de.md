@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414SSysH73L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D4GT1RK-de'
+slug: 'B07D4GT1RK-de 3D Pudding Kuchen Dekorieren DIY Werkzeug Set 10 Nadeln + 1 Spritze Gelatine Art Tools Küche e'
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pnvNesFuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081TPHRXB-de'
+slug: 'B081TPHRXB-de adidas Damen 3-Streifen Kapuzenjacke  Black/White  M'
 actualPrice: 43.38 EUR
 currency: EUR
 price: 43.38

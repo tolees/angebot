@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41o0fdvQ9oL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009SXDZZM-de'
+slug: 'B009SXDZZM-de Kamerahalter Halter Halterung Eye Stand für PS3 Kamera'
 actualPrice: 2.21 EUR
 currency: EUR
 price: 2.21

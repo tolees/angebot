@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QbfyNOk2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001IBMNU0-de'
+slug: 'B001IBMNU0-de Bosch Professional 10tlg. Stichsägeblatt-Set Robust Line  Wood und Metal zum Sägen in Holz und Metall  Zubehör Stichsäge '
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

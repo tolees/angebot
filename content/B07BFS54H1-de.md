@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415MuPjJbLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BFS54H1-de'
+slug: 'B07BFS54H1-de Acer P1650 DLP Projektor  Native WUXGA 1.920 x 1.200 Pixel  Kontrast 10.000:1  3.500 ANSI Lumen '
 actualPrice: 300.0 EUR
 currency: EUR
 price: 300.0

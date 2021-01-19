@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GIU2yYb-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QR6Q7XK-de'
+slug: 'B07QR6Q7XK-de Madden NFL 20 - Standard Edition - [PlayStation 4]'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lDU92n7xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCL61QL-de'
+slug: 'B06XCL61QL-de Funko 13431 Minions POP Vinylfigur: Despicable Me 3: Kyle  Multi'
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

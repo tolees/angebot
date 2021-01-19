@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412SiQIOYHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IAD5ZEE-de'
+slug: 'B01IAD5ZEE-de Seagate Backup Plus HUB  6 TB  externe Festplatte mit 2-fach USB Hub  3.5 Zoll  USB 3.0  PC  Notebook & Mac  Modellnr.: STEL6000200'
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

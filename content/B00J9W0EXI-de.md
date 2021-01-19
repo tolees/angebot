@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UWA9h6osL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J9W0EXI-de'
+slug: 'B00J9W0EXI-de Wunderbare Macht [Blu-ray]'
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

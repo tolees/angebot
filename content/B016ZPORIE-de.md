@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HBp3IuTgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016ZPORIE-de'
+slug: 'B016ZPORIE-de GROHE Minta | Küchenarmatur - Einhand-Spültischbatterie  mit Schwenkbereich 360°  Einlochmontage| chrom | 30274000'
 actualPrice: 174.49 EUR
 currency: EUR
 price: 174.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EvU-WfyCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071ZXYY35-de'
+slug: 'B071ZXYY35-de Granrosi Vorratsbehälter Set - Kartoffeltopf  Zwiebeltopf und Knoblauchtopf im Vintage Design für eine stilvolle Aufbewahrung und Lange Haltbarkeit'
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

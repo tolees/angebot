@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IYvEgI8+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PLBKX7P-de'
+slug: 'B07PLBKX7P-de Filofax Kalendereinlage Personal 1 Woche auf 2 Seiten vertikal  deutsch 2020'
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

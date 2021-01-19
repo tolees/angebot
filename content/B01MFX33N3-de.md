@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wr9JJVwbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MFX33N3-de'
+slug: 'B01MFX33N3-de Te Tonic - 6 Gin Tonic Infusions Aroma Beuteln Botanicals Geschenk - Aromen Zum Verfeinern Ihres Gin. 100% Natürliche Gewürze  Kräuter  Blumen Machen Ihren Cocktail'
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

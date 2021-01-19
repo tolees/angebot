@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5117BivBTjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5QNY1B-de'
+slug: 'B07V5QNY1B-de Contra: Rogue Corps für Playstation 4 USK ab 16 Jahren Singleplayer- oder Multiplayer-Modus'
 actualPrice: 9.01 EUR
 currency: EUR
 price: 9.01

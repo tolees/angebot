@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31l25E8RG9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ45MNH-de'
+slug: 'B07TZ45MNH-de Josamogre Astronauten Kostüm Erwachsene Herren Kostüm Astronaut Weltraum Raumfahrer Halloween Cosplay Blau l'
 actualPrice: 17.68 EUR
 currency: EUR
 price: 17.68

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KYxYdYOsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075F3FBTB-de'
+slug: 'B075F3FBTB-de Ledlenser P7 LED Allround Taschenlampe  450 Lumen  25 Stunden Laufzeit  robustes Metallgehäuse  fokussierbar  inkl. Batterien'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

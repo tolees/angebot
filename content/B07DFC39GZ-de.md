@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51r2yml0jwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFC39GZ-de'
+slug: 'B07DFC39GZ-de Funko 34052 Kingdom Hearts 3: Sora POP Vinylfigur  Multi'
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

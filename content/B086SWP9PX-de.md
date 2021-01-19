@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EoXObxzwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086SWP9PX-de'
+slug: 'B086SWP9PX-de Mini Beamer  APEMAN Support 1080P Video Projektor  ±30° Fern Elektronische Korrektur  Dual Lautsprecher  120" Display Full HD  Kompatibel mit HDMI/USB/Smartphone/PS4/TV Box  Für Heimkino[New Upgrade]'
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

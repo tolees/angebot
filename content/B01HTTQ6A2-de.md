@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41GUkosooEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HTTQ6A2-de'
+slug: 'B01HTTQ6A2-de Vileda Turbo EasyWring und Clean Komplett Set  mit Kraftfaser-Wischmop und Rotationseimer mit Powerschleuder'
 actualPrice: 33.27 EUR
 currency: EUR
 price: 33.27

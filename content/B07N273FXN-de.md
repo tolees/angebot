@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kzcBsskUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N273FXN-de'
+slug: 'B07N273FXN-de Razer BlackWidow Elite - Premium Mechanical Full-Size Gaming Keyboard  Tastatur mit Razer Orange Switches  Taktil & Leise   Handballenauflage  RGB Chroma Beleuchtung  DE-Layout'
 actualPrice: 108.2 EUR
 currency: EUR
 price: 108.2

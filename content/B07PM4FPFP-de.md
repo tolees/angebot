@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51K8T8NnCIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PM4FPFP-de'
+slug: 'B07PM4FPFP-de Briksmax Led Beleuchtungsset für Weihnachtlicher Spielzeugladen  Kompatibel Mit Lego 10249 Bausteinen Modell - Ohne Lego Set'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

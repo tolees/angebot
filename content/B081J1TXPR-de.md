@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hHEkZQlIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081J1TXPR-de'
+slug: 'B081J1TXPR-de OneOdio Bluetooth Kopfhörer Over Ear Geschlossene HiFi Studiokopfhörer mit Share Port  kabelgebundene und kabellose professionelle DJ-Kopfhörer für E-Drum Piano Gitarre AMP Recording und Monitoring'
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

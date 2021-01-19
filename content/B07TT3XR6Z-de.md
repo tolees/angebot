@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CIkmd4w6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TT3XR6Z-de'
+slug: 'B07TT3XR6Z-de Akku Hülle für iPhone X/XS  [4000 mAh] Ultra Dünn Ladehülle FLYLINKTECH Akku Hülle für iPhone X/XS Ladegerät Batterie Hülle Schutzhülle Wiederaufladen Leistungsstarke Power Bank iPhone X/XS [5 8 Zoll]'
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

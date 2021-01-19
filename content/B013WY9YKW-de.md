@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vh-4dDvUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013WY9YKW-de'
+slug: 'B013WY9YKW-de Red Bull Energy Drink Heidelbeere Dosen Getränke Blue Edition 12er Palette  EINWEG  12 x 250 ml '
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NO3P5OO2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QXZ9BNT-de'
+slug: 'B07QXZ9BNT-de Be Mammy Lange Umstandsleggings aus Viskose BE-02 2er Pack  Schwarz/Braun  L '
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

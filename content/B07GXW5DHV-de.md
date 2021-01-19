@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RI1moWdKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXW5DHV-de'
+slug: 'B07GXW5DHV-de Withings Steel HR Sport - Multisport Hybrid Smartwatch'
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

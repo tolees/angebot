@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61Nb25Z-FHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0000TZ6HI-de'
+slug: 'B0000TZ6HI-de Piatnik 6012 - Activity Junior'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

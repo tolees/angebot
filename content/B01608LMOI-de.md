@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51U7bAlnwJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01608LMOI-de'
+slug: 'B01608LMOI-de Playmobil 6971 Schmück  Pony Schmetterling'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

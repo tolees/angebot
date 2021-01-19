@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41T8tWVNrOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7HDD6L-de'
+slug: 'B07P7HDD6L-de Aigle Herren Alten Leather Sneaker  Braun  Brown 001   42 EU'
 actualPrice: 19.51 EUR
 currency: EUR
 price: 19.51

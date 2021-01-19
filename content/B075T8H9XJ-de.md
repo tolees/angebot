@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41plhz6SkRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075T8H9XJ-de'
+slug: 'B075T8H9XJ-de AUKEY Dashcam Dual 1080P Front und Rück Autokamera mit 170° Weitwinkel  Superkondensator  WDR Nachtsicht Dash Cam mit G-Sensor Bewegungserkennung  Loop-Aufnahme und Dual-Port Kfz-Ladegerä'
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

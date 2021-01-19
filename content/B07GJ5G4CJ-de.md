@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CcJzwe90L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GJ5G4CJ-de'
+slug: 'B07GJ5G4CJ-de Durex Gefühlsecht Kondome – Hauchzarte Kondome für intensives Empfinden und innige Zweisamkeit – 100er Großpackung  1 x 100 Stück '
 actualPrice: 38.4 EUR
 currency: EUR
 price: 38.4

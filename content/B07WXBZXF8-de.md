@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512UPXi1n-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WXBZXF8-de'
+slug: 'B07WXBZXF8-de Tefal L95693 Ingenio Jamie Oliver Topfset  3-teilig  Topf mit Ø 16 cm und Ø 18 cm  abnehmbarer Griff  kompatibel mit allen Herdarten  Edelstahl'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

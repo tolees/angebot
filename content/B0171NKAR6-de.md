@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412xNVb-G0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0171NKAR6-de'
+slug: 'B0171NKAR6-de Garmin vívosmart HR Fitness-Tracker - integrierte Herzfrequenzmessung am Handgelenk  Smart Notifications  Schwarz  M - L  13 7-18 8 cm '
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

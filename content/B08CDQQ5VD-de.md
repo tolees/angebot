@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313U3r5XsmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CDQQ5VD-de'
+slug: 'B08CDQQ5VD-de SVITA T20 grau Metall Mülleimer Treteimer Abfalleimer 20 Liter inkl. Inneneimer rund Küchen-Hilfe'
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

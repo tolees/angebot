@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SahMCrbuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D39KBB5-de'
+slug: 'B07D39KBB5-de Dell 2YK0F - AC Adapter USB Type-C 65W Includes Power Cable  12 Warranty '
 actualPrice: 40.26 EUR
 currency: EUR
 price: 40.26

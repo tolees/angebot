@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314ygYnhWEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MKRQQ14-de'
+slug: 'B07MKRQQ14-de iPosible Powerbank  24800mAh Hohe Kapazität Akkupack mit LCD Digitalanzeige Externer Akku mit 2 USB Port Kompakt Externer Ladegerät für Handy  Tablette'
 actualPrice: 18.73 EUR
 currency: EUR
 price: 18.73

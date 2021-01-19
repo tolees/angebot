@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UHjg+KjfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017BDUJ2M-de'
+slug: 'B017BDUJ2M-de Donic-Schildkröt Tischtennisschläger CarboTec 900  20% Carbon  1 9 mm Schwamm  ITTF Belag  konkav  758212'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

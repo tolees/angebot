@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31-LpErw6uL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N87QZYR-de'
+slug: 'B07N87QZYR-de Fitbit Inspire und Inspire HR Print-Armbänder  Deko  Large'
 actualPrice: 17.64 EUR
 currency: EUR
 price: 17.64

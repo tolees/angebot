@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jX33gHUjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W57WQDS-de'
+slug: 'B06W57WQDS-de Craft Damen Greatness Fahrradunterhose  Black  M'
 actualPrice: 34.65 EUR
 currency: EUR
 price: 34.65

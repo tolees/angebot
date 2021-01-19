@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ibESdElqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CWRP99Q-de'
+slug: 'B07CWRP99Q-de Kodak 32 GB Class 10 Microsd-Speicherkarte mit SD-Adapter'
 actualPrice: 6.44 EUR
 currency: EUR
 price: 6.44

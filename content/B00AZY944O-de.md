@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LMJHpjRFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AZY944O-de'
+slug: 'B00AZY944O-de Black+Decker Dampfreiniger Steam Mop Deluxe FSM1630 – Stehender Dampf Mop für versiegelte Hartböden – Bodenreinigung mit waschbarem Microfaser-Pad – 180° drehbarer  herausnehmbarer Fuß – 1600W'
 actualPrice: 79.38 EUR
 currency: EUR
 price: 79.38

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318jYWueLvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IJFGBTG-de'
+slug: 'B01IJFGBTG-de VNOX Männer Frauen Edelstahl Umgekehrt Upside Down Kreuz Halskette Anhänger mit Kuban Kette Silber 60cm'
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411dk4HmCJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WNS2ZB8-de'
+slug: 'B07WNS2ZB8-de GoPro Schutzgehäuse für HERO8 Black  Offizielles GoPro Zubehör '
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vnsnJDIdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086WCXWF3-de'
+slug: 'B086WCXWF3-de normani Palettenkissen Set Sofa Sitzkissen mit Rückenkissen Outdoor Palettenauflagen  Sitzkissen Gesteppt 120x80  Farbe Hellgrau'
 actualPrice: 51.96 EUR
 currency: EUR
 price: 51.96

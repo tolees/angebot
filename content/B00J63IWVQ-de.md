@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51e+zwpoS5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J63IWVQ-de'
+slug: 'B00J63IWVQ-de B. Toys 44172 - Baa-Baa-Barn Bauernhof'
 actualPrice: 53.74 EUR
 currency: EUR
 price: 53.74

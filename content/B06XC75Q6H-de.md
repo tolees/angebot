@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XrZ9XWJRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XC75Q6H-de'
+slug: 'B06XC75Q6H-de Samsung Tablet Tasche EF-BT820PBEGWW Book Hülle  leichteres Design  mattes Finish  geeignet für Galaxy Tab S3  SM-T820  SM-T825  schwarz'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

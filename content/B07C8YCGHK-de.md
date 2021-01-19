@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315plN4D1nL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C8YCGHK-de'
+slug: 'B07C8YCGHK-de Vans Herren Filmore Sneakers  Schwarz   Suede Canvas  Black/Pewter T2j   46 EU'
 actualPrice: 50.76 EUR
 currency: EUR
 price: 50.76

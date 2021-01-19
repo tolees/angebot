@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kwiH+J5yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077T6QTZG-de'
+slug: 'B077T6QTZG-de Bosch Akku Kettensäge Universalchain 18  1 Akku  18 Volt System  im Karton '
 actualPrice: 115.99 EUR
 currency: EUR
 price: 115.99

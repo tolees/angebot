@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xql2lzYgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FJLA9IM-de'
+slug: 'B01FJLA9IM-de Intel BX80671I76950X Core i7-6950X Prozessor schwarz'
 actualPrice: 895.0 EUR
 currency: EUR
 price: 895.0

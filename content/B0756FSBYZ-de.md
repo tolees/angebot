@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FmL5-6lmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0756FSBYZ-de'
+slug: 'B0756FSBYZ-de Ecovacs Robotics Deebot Ozmo 610 Saug- und Wischroboter mit Ozmo-Technologie  systematischer Reinigungsweg auf Hartböden  App-Steuerung  40 Watt  weiß'
 actualPrice: 291.0 EUR
 currency: EUR
 price: 291.0

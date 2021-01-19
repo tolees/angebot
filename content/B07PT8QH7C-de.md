@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515eLeXPrbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PT8QH7C-de'
+slug: 'B07PT8QH7C-de BRIKSMAX Led Beleuchtungsset für Ghostbusters Ecto-1  Kompatibel Mit Lego 21108 Bausteinen Modell - Ohne Lego Set'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

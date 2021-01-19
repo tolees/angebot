@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BLEca+w5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A6ZFMQ0-de'
+slug: 'B01A6ZFMQ0-de ONLY Damen Hose Einfarbige L34Black'
 actualPrice: 25.89 EUR
 currency: EUR
 price: 25.89

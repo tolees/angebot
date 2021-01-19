@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41j%2Bw%2BrlxSL._SL200_
 comments: true
 category: ofertas
 author: ring
-slug: 'B075J7XG8Q-de'
+slug: 'B075J7XG8Q-de ADORIC Digitalwaage Professionelle Electronische Waage  Küchenwaage mit LCD Display-wunderbare Präzision auf bis zu 1g 5kg Maximalgewicht -Silbrig'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

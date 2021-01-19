@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41o+8cmHleL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016BRGMNY-de'
+slug: 'B016BRGMNY-de Bartöl - Beard Oil für Männer - Für gesundes Bartwachstum & einen gepflegten Stil - Leicht parfümiert  enthält Jojoba- & Mandelöl - Vegane Bartpflege - 100 ml'
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

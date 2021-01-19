@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pZ85qznGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VVF495D-de'
+slug: 'B07VVF495D-de Samsung Galaxy Tab S6 T865  10.5 Zoll  LTE  mountain grey'
 actualPrice: 699.0 EUR
 currency: EUR
 price: 699.0

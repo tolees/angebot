@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tNt7CuZzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CGQ7XTL-de'
+slug: 'B07CGQ7XTL-de GOURMETmaxx Frischhaltedosen Klick-it 28 tlg. | Spülmaschinen- Mikrowellen- und Gefrierschrankgeeignet | Deckel BPA-frei mit 4-fach-Klick-Verschluss | Ineinander stapelbar [in 4 Größen  transparent]'
 actualPrice: 23.33 EUR
 currency: EUR
 price: 23.33

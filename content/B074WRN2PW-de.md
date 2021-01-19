@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513wjzqA3OL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074WRN2PW-de'
+slug: 'B074WRN2PW-de Die Sims 4 - Hunde & Katzen Edition DLC [PC Download – Origin Code]'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

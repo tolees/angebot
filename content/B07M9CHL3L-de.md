@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LukVzEhFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M9CHL3L-de'
+slug: 'B07M9CHL3L-de Huawei P smart 2019 64GB Hybrid-SIM Aurora Blau EU [15 77cm  6 21"  LCD Display  Android 9.0  13MP+2MP]'
 actualPrice: 151.99 EUR
 currency: EUR
 price: 151.99

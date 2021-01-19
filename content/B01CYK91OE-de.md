@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51rHjmzjIsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CYK91OE-de'
+slug: 'B01CYK91OE-de SATCH Berry Carry Schulrucksack  45 cm  24 L  Purple Blue Checks'
 actualPrice: 49 EUR
 currency: EUR
 price: 49

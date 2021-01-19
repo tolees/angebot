@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JFCBZQCjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0711LKZKX-de'
+slug: 'B0711LKZKX-de Withings Steel HR Hybrid Smartwatch - Fitnessuhr mit Herzfrequenz und Aktivitätsmessung  36mm - Weißes  Schwarz Silikonarmband'
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410tqg0fFDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088FZ21WX-de'
+slug: 'B088FZ21WX-de elloLife Gummiband Rund 【5mm 50M】 Gummikordel Nähen Weiss Gummilitze Hochwertige Rundgummi Elastische Schnur für DIY Nähen und Handwerk'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

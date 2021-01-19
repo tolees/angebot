@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ucDFBE8vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F5K6SIM-de'
+slug: 'B01F5K6SIM-de Nixon Damen Analog Quarz Uhr mit Leder Armband A10912369-00'
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

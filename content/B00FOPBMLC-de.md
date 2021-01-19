@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mtAwpke0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FOPBMLC-de'
+slug: 'B00FOPBMLC-de Maggi Würze Vorratsflasche  6er Pack  6 x 1 kg '
 actualPrice: 32.32 EUR
 currency: EUR
 price: 32.32

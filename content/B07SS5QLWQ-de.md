@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sL6DtWw9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SS5QLWQ-de'
+slug: 'B07SS5QLWQ-de HP 24x  23 8 Zoll / Full HD 144Hz  Gaming Monitor  AMD FreeSync  1 x DisplayPort  1 x HDMI  Reaktionszeit 1ms  schwarz'
 actualPrice: 155.27 EUR
 currency: EUR
 price: 155.27

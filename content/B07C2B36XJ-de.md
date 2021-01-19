@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fgt4ioWoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C2B36XJ-de'
+slug: 'B07C2B36XJ-de JACK & JONES Herren Strickpullover V-Ausschnitt LNavy Blazer 2'
 actualPrice: 16.5 EUR
 currency: EUR
 price: 16.5

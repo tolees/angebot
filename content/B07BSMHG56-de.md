@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51epPIvZ13L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BSMHG56-de'
+slug: 'B07BSMHG56-de Pans Labyrinth - Ultimate Edition  Blu-ray + CD-Soundtrack + 3 Bonus-Blu-rays + DVD  [Limited Edition]'
 actualPrice: 44.2 EUR
 currency: EUR
 price: 44.2

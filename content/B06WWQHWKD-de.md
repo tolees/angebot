@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ulcZyeZIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WWQHWKD-de'
+slug: 'B06WWQHWKD-de Ravensburger 13698 - Magische Einhörner Puzzle'
 actualPrice: 8.38 EUR
 currency: EUR
 price: 8.38

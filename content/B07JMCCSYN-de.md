@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sQ7yASetL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMCCSYN-de'
+slug: 'B07JMCCSYN-de Playmobil 70093 Family Fun Familien-Fahrrad  bunt'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

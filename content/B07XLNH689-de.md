@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FUEZ6kFhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XLNH689-de'
+slug: 'B07XLNH689-de Tales of: Vesperia + Berseria + Zestiria'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

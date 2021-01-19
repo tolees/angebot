@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GKfgz2-BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00006JAXW-de'
+slug: 'B00006JAXW-de Hama Universal-Drehteller  360° drehbar  Drehscheibe geeignet für Büro  Zuhause  Hobby  PC-Monitor  TV  Küche  Pflanzen  Blumentöpfe uvm  Drehplatte mit Durchmesser 40 cm  bis zu 100 kg  rund  Schwarz'
 actualPrice: 20.1 EUR
 currency: EUR
 price: 20.1

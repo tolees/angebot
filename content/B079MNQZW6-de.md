@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nucH38GsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MNQZW6-de'
+slug: 'B079MNQZW6-de PLAYMOBIL Magic 9470 Suche nach dem Liebeskristall mit Leuchtkristall  Ab 4 Jahren'
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

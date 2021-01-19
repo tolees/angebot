@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61CNwJNGn0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BC1F4H2-de'
+slug: 'B07BC1F4H2-de Captain Toad: Treasure Tracker - [Nintendo 3DS]'
 actualPrice: 24.87 EUR
 currency: EUR
 price: 24.87

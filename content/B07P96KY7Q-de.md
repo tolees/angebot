@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-un351B+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P96KY7Q-de'
+slug: 'B07P96KY7Q-de Funko 40325 POP Vinyl: RWBY: Weiss Schnee Sammelbares Spielzeug  Mehrfarben'
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

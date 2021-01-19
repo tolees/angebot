@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TMPImbGLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TQPUAYG-de'
+slug: 'B00TQPUAYG-de FORTE Kompaktgarderobe inklusive Spiegel  Sandeiche Dekor  97.5 x 25 x 180 cm'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

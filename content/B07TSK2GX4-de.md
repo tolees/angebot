@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rgveRqUGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSK2GX4-de'
+slug: 'B07TSK2GX4-de Yazubi Cargo Hose Männer Jayden - Schwarze Lange Cargohose Herren Chino - Security Chinos Reissverschluss Taschen  Schwarz  Black 4008   W28/L30'
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XTHINfePL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074TBSZVM-de'
+slug: 'B074TBSZVM-de Puma Roma Basic  Herren Sneaker  Mehrfarbig Weiß  white-black    36 EU  3.5 UK '
 actualPrice: 62.95 EUR
 currency: EUR
 price: 62.95

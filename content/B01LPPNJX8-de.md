@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41cEbHemEmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LPPNJX8-de'
+slug: 'B01LPPNJX8-de Belkin ScreenForce InvisiGlass Displayschutzfolie  geeignet für iPhone 8  iPhone 7 '
 actualPrice: 16.04 EUR
 currency: EUR
 price: 16.04

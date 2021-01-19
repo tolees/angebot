@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418q8mN9YAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B017BKY4E4-de'
+slug: 'B017BKY4E4-de Tepro Mini Kugelgrill Holzkohlegrill"Salida" für unterwegs oder Camping mit einer Grillfläche von ca. 34 5 cm Ø  türkis'
 actualPrice: 19 EUR
 currency: EUR
 price: 19

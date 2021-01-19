@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lziXF32LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082SJ2FQ9-de'
+slug: 'B082SJ2FQ9-de K9CK LED Licht Set für Lego Modell - DIY Leuchtende Bausteine Beleuchtung Kit für Lego Ideas Friends Central Perk - Modell Nicht Enthalten'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

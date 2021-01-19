@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51chtyOvCRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJY95JF-de'
+slug: 'B07QJY95JF-de EASTHILL Federmäppchen mit grossem Fassungsvermögen Mäppchen Schreibwarenbeutel Bleistift Beutel für Middle High School College Office Studentin Mädchen Erwachsener Teenager Geschenk -Violett'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

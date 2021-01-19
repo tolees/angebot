@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413LayuW-EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XRL11YJ-de'
+slug: 'B06XRL11YJ-de Our Generation 44557 Rollerblades & Outfit Puppenkleidung  Outfit  mit Helm Inliner  Knieschützer  T-Shirt und Hose  bunt'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

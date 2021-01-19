@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4147Z8gsZZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WV9L2DH-de'
+slug: 'B07WV9L2DH-de BRIKSMAX Led Beleuchtungsset für Lego Ideas Die NASA-Frauen Kompatibel Mit Lego 21312 Bausteinen Modell - Ohne Lego Set'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YLYHLXcML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H51NVWX-de'
+slug: 'B07H51NVWX-de Nikon D3500 Kit AF-S DX 18-105 mm und weiteres Zubehör'
 actualPrice: 539.95 EUR
 currency: EUR
 price: 539.95

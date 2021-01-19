@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LMksU8b3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCUSC7V-de'
+slug: 'B01NCUSC7V-de Fisher-Price FFC84 - Babys Erste Bausteine Baby Spielzeug Formensortierspiel mit Spielwürfeln und Eimer zum Verstauen ab 6 Monaten'
 actualPrice: 9.45 EUR
 currency: EUR
 price: 9.45

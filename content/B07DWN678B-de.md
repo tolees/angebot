@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413v8gSyrSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DWN678B-de'
+slug: 'B07DWN678B-de iMangoo Dash Ladegerät  5V 4A Dash Ladegerät Schnelladapter mit 2M USB C Nylon Schnelle Ladung Ladekabel Kompatibel mit OnePlus 6T 6 OnePlus5 5T OnePlus 3 3T Bullet Wireless Oppo Find X'
 actualPrice: 15.88 EUR
 currency: EUR
 price: 15.88

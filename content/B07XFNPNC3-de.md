@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4174fWnzDTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XFNPNC3-de'
+slug: 'B07XFNPNC3-de Schrankleuchten mit Bewegungsmelder 78 LED USB Wiederaufladbar Magnetisch Bewegungsmelder Nachtlicht LED  Auto/ON/OFF Geeignet für Schrank Kinderzimmer Flur Schlafzimmer Küche Treppe'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

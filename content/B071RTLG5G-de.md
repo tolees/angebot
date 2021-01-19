@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AarxYhteL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071RTLG5G-de'
+slug: 'B071RTLG5G-de Levis Footwear and Accessories Herren Emerson Biker Boots  Braun  Medium Brown   40 EU'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

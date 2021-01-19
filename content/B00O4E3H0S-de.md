@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61hG5O2Pw+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O4E3H0S-de'
+slug: 'B00O4E3H0S-de Playmobil 6150 - Star-Shooting'
 actualPrice: 3.07 EUR
 currency: EUR
 price: 3.07

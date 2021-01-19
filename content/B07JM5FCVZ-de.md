@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51f8p-Qng1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JM5FCVZ-de'
+slug: 'B07JM5FCVZ-de Playmobil 70120 Spirit - Riding Free Pferdebox Snips & Herr Karotte  bunt'
 actualPrice: 8.53 EUR
 currency: EUR
 price: 8.53

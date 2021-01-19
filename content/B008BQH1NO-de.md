@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YgOuV00EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008BQH1NO-de'
+slug: 'B008BQH1NO-de Amazon Kindle Paperwhite Lederhülle  Onyx-Schwarz – nicht geeignet für Modelle der 10. Generation  2018 '
 actualPrice: 21.82 EUR
 currency: EUR
 price: 21.82

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aycedP4cL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXVFCAV-de'
+slug: 'B01LXVFCAV-de Simplicol Textilfarbe expert Brombeer-Rot 1706: Farbe für kreatives  einfaches Färben in der Waschmaschine oder manuell'
 actualPrice: 3.06 EUR
 currency: EUR
 price: 3.06

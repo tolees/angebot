@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31p8r7vM0lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J3XIAH0-de'
+slug: 'B00J3XIAH0-de LogiLink MP0032 Modular Splitter 4Port RJ45  geschirmt  mit 15 cm Kabel'
 actualPrice: 7.65 EUR
 currency: EUR
 price: 7.65

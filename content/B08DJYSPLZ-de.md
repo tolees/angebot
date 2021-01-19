@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xdtd01kHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJYSPLZ-de'
+slug: 'B08DJYSPLZ-de STEM Roboter Spielzeug Bausatz  351-tlg Bausatz für Ferngesteuerte Bildungsroboter für Kinder ab 8 Jahren  Wiederaufladbare Heimwerker Roboterbausätze  Großartiges Kreatives Geburtstagsgeschenk'
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

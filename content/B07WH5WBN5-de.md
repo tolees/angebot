@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51JtIZxaxXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WH5WBN5-de'
+slug: 'B07WH5WBN5-de YxFlower Custom Bausteine   1:8 2.4GHz RC Auto Sportwagen Modell Bausatz DIY Ferngesteuerter Auto Technic Block Building Fahrzeug  1989 Stück'
 actualPrice: 116.99 EUR
 currency: EUR
 price: 116.99

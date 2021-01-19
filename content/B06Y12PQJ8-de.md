@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51siITjrYaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y12PQJ8-de'
+slug: 'B06Y12PQJ8-de Pampers Premium Protection Windeln  Gr. 1  2-5kg  Halbmonatsbox  1 x 96 Windeln   Pampers Weichster Komfort Und Schutz  2kg-5kg Halbmonatsbox'
 actualPrice: 14.15 EUR
 currency: EUR
 price: 14.15

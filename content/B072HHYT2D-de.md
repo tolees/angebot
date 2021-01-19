@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PVMzDddkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072HHYT2D-de'
+slug: 'B072HHYT2D-de TOM TAILOR Damen Jeanshosen Alexa Straight Jeans mid Stone wash Denim 30/32 10281 6000'
 actualPrice: 38.96 EUR
 currency: EUR
 price: 38.96

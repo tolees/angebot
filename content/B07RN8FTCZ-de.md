@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v8MfakuuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RN8FTCZ-de'
+slug: 'B07RN8FTCZ-de Funko 44270 POP NBA: OKC-Paul George Sammelbares Spielzeug  Mehrfarben'
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

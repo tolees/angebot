@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kQakaMYeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F4VZJCI-de'
+slug: 'B01F4VZJCI-de HP PageWide 352dw Tintenstrahldrucker  Duplex  WLAN  Netzwerk  ePrint  Airprint  Cloud Print  USB  2400 x 1200 dpt  weiß'
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

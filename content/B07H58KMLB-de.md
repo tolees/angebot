@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Y7lwDQwRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H58KMLB-de'
+slug: 'B07H58KMLB-de Garmin Instinct – wasserdichte Sport-Smartwatch mit Smartphone Benachrichtigungen und Sport-/Fitnessfunktionen mit GPS  14 Tage Akkulaufzeit  Feuerrot'
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

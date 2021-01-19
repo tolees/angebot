@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519ewdi859L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPD741S-de'
+slug: 'B07VPD741S-de Xbox One X 1TB - Gears 5 Bundle'
 actualPrice: 269.99 EUR
 currency: EUR
 price: 269.99

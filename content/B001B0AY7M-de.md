@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OOlx5HZeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001B0AY7M-de'
+slug: 'B001B0AY7M-de Tödliche Versprechen - Eastern Promises [Blu-ray]'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

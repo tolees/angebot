@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pVXiq7WLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFCXD1H-de'
+slug: 'B07DFCXD1H-de Funko 30697 Full Metal Alchemist: Ed POP Vinylfigur  Multi'
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zhhiyqNGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QPRQZMC-de'
+slug: 'B07QPRQZMC-de EIVOTOR 6 in 1 Flaschenwärmer Baby Bottle Warmer Babykostwärmer Doppelt Dampfsterilisator Flaschen Sterilisator Milchwärmer mit Timer  Warmhaltefunktion  Auftauen für Babyflaschen und Schnuller'
 actualPrice: 36.89 EUR
 currency: EUR
 price: 36.89

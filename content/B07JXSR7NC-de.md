@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41sk5p8cdYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JXSR7NC-de'
+slug: 'B07JXSR7NC-de FYLINA Handyhalterung Fahrrad  Handyhalterung Motorrad  360° Drehbare Halter Verstellbarer  Smartphone Halterungen  fahrrad handyhalter  Universelle Radsport Klammer 3 5-6 5 Zoll Phone'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

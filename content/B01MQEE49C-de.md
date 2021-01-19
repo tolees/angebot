@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515zMbpXHtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQEE49C-de'
+slug: 'B01MQEE49C-de Buss Kartoffel-Eintopf mit Rauchspeck und Cocktailwürstchen  800 g'
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

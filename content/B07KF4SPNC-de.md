@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414Wg+nDU-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF4SPNC-de'
+slug: 'B07KF4SPNC-de Levi s Damen 2PACK Tee T-Shirt  Mehrfarbig  2 Pack White +/Smokestack Htr 0005   Large'
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

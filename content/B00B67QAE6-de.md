@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EfmrgYjYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B67QAE6-de'
+slug: 'B00B67QAE6-de Outbreak - Lautlose Killer [Blu-ray]'
 actualPrice: 6.81 EUR
 currency: EUR
 price: 6.81

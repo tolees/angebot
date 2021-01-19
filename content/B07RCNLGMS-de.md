@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IEPHf57VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCNLGMS-de'
+slug: 'B07RCNLGMS-de Star Wars- ferngesteuerte D-O Figur  Star Wars: Der Aufstieg Skywalkers elektronischer Droide mit Sounds  ab 5 Jahren'
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

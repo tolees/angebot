@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SnrjUk-gL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DSKM4T4-de'
+slug: 'B00DSKM4T4-de Grundig MF 5260  Milchaufschäumer  400 Watt   schwarz'
 actualPrice: 31.4 EUR
 currency: EUR
 price: 31.4

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y3U7WrvdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0811HQLXY-de'
+slug: 'B0811HQLXY-de Hosome Wake Up Licht Lichtwecker mit Sonnenaufgang Sonnenuntergang Simulation  Wecker mit Schlummerfunktion 8 natürlichen Klängen 7 Farben Nachttischlampe Stimmungslicht für Kinder Damen Herrn'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

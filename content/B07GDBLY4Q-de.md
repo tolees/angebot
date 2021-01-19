@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DDxdOg3rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GDBLY4Q-de'
+slug: 'B07GDBLY4Q-de Philips GC4537/70 Azur Dampfbügeleisen  2400 W  200 g Dampfstoß  SteamGlide-Bügelsohle  weiß/türkis'
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

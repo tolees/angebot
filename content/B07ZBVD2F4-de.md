@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ESE6qRalL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZBVD2F4-de'
+slug: 'B07ZBVD2F4-de Diesel Herren Chronograph Quarz Uhr mit Edelstahl Armband DZ4525'
 actualPrice: 132.51 EUR
 currency: EUR
 price: 132.51

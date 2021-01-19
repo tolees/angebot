@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VxH5+HiYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000EULJLU-de'
+slug: 'B000EULJLU-de 10.000 Days'
 actualPrice: 9.77 EUR
 currency: EUR
 price: 9.77

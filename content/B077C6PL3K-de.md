@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517O2yTg7-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077C6PL3K-de'
+slug: 'B077C6PL3K-de Diesel Damen Analog Quarz Uhr mit Edelstahl Armband DZ5567'
 actualPrice: 117.99 EUR
 currency: EUR
 price: 117.99

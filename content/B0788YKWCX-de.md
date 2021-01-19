@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514jZA30V-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788YKWCX-de'
+slug: 'B0788YKWCX-de PORSCHE Carrera-Rennmotor: 4-Zylinder Boxermodell vom Typ 547 | Carrera Racing Engine | Ab 14 Jahren'
 actualPrice: 156.96 EUR
 currency: EUR
 price: 156.96

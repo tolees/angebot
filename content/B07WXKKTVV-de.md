@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51koOfW7iNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WXKKTVV-de'
+slug: 'B07WXKKTVV-de Tefal L95691 Ingenio Jamie Oliver Set  9-teilig  inkl. 3 x Deckel und 2 x abnehmbare Griffe  kompatibel mit allen Herdarten  Edelstahl'
 actualPrice: 134.99 EUR
 currency: EUR
 price: 134.99

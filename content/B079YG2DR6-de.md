@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fWJWD7vwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YG2DR6-de'
+slug: 'B079YG2DR6-de Funko 26974 Pop! Star Wars: Han Solo Bobble Figure'
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

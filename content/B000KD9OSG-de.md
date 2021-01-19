@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DOMVuGbnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KD9OSG-de'
+slug: 'B000KD9OSG-de Casio Collection Herren-Armbanduhr F105W1AWYEF'
 actualPrice: 15.85 EUR
 currency: EUR
 price: 15.85

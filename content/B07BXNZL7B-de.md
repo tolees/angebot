@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Cc4+Z4jtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BXNZL7B-de'
+slug: 'B07BXNZL7B-de EZVIZ ezTube 720p Überwachungskamera aussen WiFi 2.4Ghz Kamera  Sirene und Licht Alarm  Nachtsicht  Zwei-Wege-Audio  High-DB-Lautsprecher  Cloud-Service  Smart Home Security  Kompatibel mit Alexa'
 actualPrice: 54.17 EUR
 currency: EUR
 price: 54.17

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516-Conqa0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQGP8B7-de'
+slug: 'B07PQGP8B7-de Carrera FIRST Nintendo Mario Kart™ 2 4 Meter 20063026 Autorennbahn Set ab 3 Jahren'
 actualPrice: 24.34 EUR
 currency: EUR
 price: 24.34

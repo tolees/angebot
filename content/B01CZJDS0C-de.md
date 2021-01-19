@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cmckaUGtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CZJDS0C-de'
+slug: 'B01CZJDS0C-de Superfit HAPPY 800293  Jungen Hohe Hausschuhe  Blau  Ocean 80   26 EU'
 actualPrice: 16.85 EUR
 currency: EUR
 price: 16.85

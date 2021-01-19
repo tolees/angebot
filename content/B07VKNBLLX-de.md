@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-AADxFqNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKNBLLX-de'
+slug: 'B07VKNBLLX-de ZTE Smartphone Blade 10  16 cm  6 3 Zoll  FHD+ Display  64 GB interner Speicher  32 MP AI-Selfie- und 16+5 MP Dual-Hauptkamera  Dual-SIM  Android 9  Blau'
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

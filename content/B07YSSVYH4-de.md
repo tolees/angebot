@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lVjVbQcYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YSSVYH4-de'
+slug: 'B07YSSVYH4-de GARDENA Hahnverbinder für Indoor-Wasserhähne: Anschluss für Indoor-Wasserhähne  inkl. Adapter für Perlstrahlkopf  Schlüssel für einfaches Anbringen  für Küche und Bad  18210-20 '
 actualPrice: 10.91 EUR
 currency: EUR
 price: 10.91

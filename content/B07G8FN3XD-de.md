@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZAXc0YMlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G8FN3XD-de'
+slug: 'B07G8FN3XD-de Huawei Mate 20 lite Dual-SIM Android 8.1 Smartphone mit Dual-Kamera  black  West European Version '
 actualPrice: 148.45 EUR
 currency: EUR
 price: 148.45

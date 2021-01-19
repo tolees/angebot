@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tle0kdhhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002C0E5YI-de'
+slug: 'B002C0E5YI-de Bosch Betonbohrer SDS-Quick  Ø 6 mm '
 actualPrice: 2.23 EUR
 currency: EUR
 price: 2.23

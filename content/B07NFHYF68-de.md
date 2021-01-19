@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FjNjs6DrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NFHYF68-de'
+slug: 'B07NFHYF68-de Tommy Hilfiger Damen TH ESS Hilfiger Hoodie LS Sweatshirt  Rot  Red Clay Xb6   Medium  Herstellergröße:M '
 actualPrice: 61.78 EUR
 currency: EUR
 price: 61.78

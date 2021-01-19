@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315MaknqT8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072FJWB43-de'
+slug: 'B072FJWB43-de Bomann VS 3171 Kühlschrank / A++ / 144 cm / 103 kWh/Jahr /245 L Kühlteil / Flaschenhalterung'
 actualPrice: 245.0 EUR
 currency: EUR
 price: 245.0

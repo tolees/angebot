@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fkrBSVmtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNWZ2CW-de'
+slug: 'B07VNWZ2CW-de Boltune Noise Cancelling Bluetooth Kopfhörer 5.0 Over-Ear Ohrhörer Wireless ANC Headphones mit CVC 6.0 Geräuschunterdrückendes Mikrofon 30 Std Spielzeit für iOS Android TV'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

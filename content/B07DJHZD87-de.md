@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31SI4+yOEgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJHZD87-de'
+slug: 'B07DJHZD87-de D-Link COVR-2202 Whole Home Mesh Wifi System  Tri-Band AC2200  kombinierte WLAN-Geschwindigkeit von bis zu 2 2 Gbit/s '
 actualPrice: 154.88 EUR
 currency: EUR
 price: 154.88

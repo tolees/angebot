@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Rvaqe4E6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0872NSVDK-de'
+slug: 'B0872NSVDK-de Bluetooth Kopfhörer  Cshidworld Kabellose Kopfhörer mit Bluetooth 5.0 TWS Noise Cancelling Headset In Ear Kopfhörer HiFi APT-X CVC8.0 mit Mikrofon und 30H Spielzeit  Ladekästchen mit Wasserdicht'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

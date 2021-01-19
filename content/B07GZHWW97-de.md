@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dXw2qAYxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZHWW97-de'
+slug: 'B07GZHWW97-de TechniSat DIGITRADIO 2 S - Tragbares DAB Stereo-Radio mit Akku  DAB+  UKW  Bluetooth Audiostreaming  OLED Display  Kopfhöreranschluss  Stereo 2 W RMS  schwarz/silber'
 actualPrice: 76.02 EUR
 currency: EUR
 price: 76.02

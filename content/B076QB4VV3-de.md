@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31O6anX4NwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076QB4VV3-de'
+slug: 'B076QB4VV3-de Razer Electra V2 USB - Digitales Gaming Headset  für Gamer und Musik  Individuell eingestellte 40 mm-Treiber  Virtueller 7.1 Sound und Unibody-Rahmen aus Alumnium '
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

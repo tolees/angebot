@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21Ng93DTqdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B078XN6KQC-de'
+slug: 'B078XN6KQC-de Swarovski Attract runden Ring  Weiß  rhodiniert  Gr. 52'
 actualPrice: 48 EUR
 currency: EUR
 price: 48

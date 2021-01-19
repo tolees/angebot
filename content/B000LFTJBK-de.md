@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41td2vH9BCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000LFTJBK-de'
+slug: 'B000LFTJBK-de Silverline FIXMAN 633499 Trockenbau-Abstandhalter  100er-Pckg.'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

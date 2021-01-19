@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31PDqOajx6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NFCQRN3-de'
+slug: 'B07NFCQRN3-de camel active Herren Zip UP Hoodie Sportjacke  Blau  Marine Core 19   Large  Herstellergröße: L '
 actualPrice: 56.95 EUR
 currency: EUR
 price: 56.95

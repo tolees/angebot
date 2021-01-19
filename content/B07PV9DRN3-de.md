@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MoDCjINbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PV9DRN3-de'
+slug: 'B07PV9DRN3-de Tyroler Bright Tools Mikrofaser Bodenwischer Mop mit feuchtem und trockenem Bezug  45 cm breit  Flexibler Silikonkopf | Professionelle Hausreinigung für Holz  Laminat  Fliesenböden  Küche  Badezimmer'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

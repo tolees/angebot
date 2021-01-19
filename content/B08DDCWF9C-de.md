@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UkvOtUQoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DDCWF9C-de'
+slug: 'B08DDCWF9C-de ENACFIRE Bluetooth Kopfhörer  E60 kabellos Ohrhörer mit Wireless Ladekoffer  8H ununterbrochene Wiedergabezeit Dual Apt-X Deep-Bass Ohrhörer  wasserdichte IPX8 Bluetooth V5.0 Kopfhörer Weiß'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

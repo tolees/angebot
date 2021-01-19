@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sFj3nq9yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0742KCMF5-de'
+slug: 'B0742KCMF5-de Thames & Kosmos 692872 Zubehör'
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

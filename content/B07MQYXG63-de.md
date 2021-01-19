@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318GF9s0hUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQYXG63-de'
+slug: 'B07MQYXG63-de leanBonnie Compuesto Karbonfaser Hose LCD Digital Indicador 0 – 150 mm Herramienta  Kalibrador Regla Con Umwandlung in Pulgadas A mm'
 actualPrice: 4.58 EUR
 currency: EUR
 price: 4.58

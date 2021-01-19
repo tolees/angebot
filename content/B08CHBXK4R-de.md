@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DzkYgpFXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CHBXK4R-de'
+slug: 'B08CHBXK4R-de Eilsorrn WLAN Repeater  WLAN Verstärker 300Mbit/s 2 4GHz Wireless Netz Signal Verstärker WiFi Range Extender mit Ethernet Port  WPS Taste  AP-Modus Kompatibel mit Allen WLAN Geräten[EU Stecker]'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

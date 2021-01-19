@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G95d58mEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPR9P74-de'
+slug: 'B07KPR9P74-de GANT Herren ORIGINAL Barstripe Heavy Rugger Poloshirt  Elfenbein  Eggshell 113   X-Large  Herstellergröße: XL '
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416RR4bKdhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6XM3VN-de'
+slug: 'B07P6XM3VN-de Funko 41474 Action Figur: Dark Crystal - Aughra Sammelbares Spielzeug  Mehrfarben'
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

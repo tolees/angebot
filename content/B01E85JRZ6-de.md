@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/518kvC5jirL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E85JRZ6-de'
+slug: 'B01E85JRZ6-de DeWalt Akku-Schnellladegerät/ Akkuladegerät  10 8- 18 Volt  lädt alle XR-Schiebe Akkus  schonendes Schnellladen  Wandmontage möglich  platzsparend  DCB115'
 actualPrice: 36.82 EUR
 currency: EUR
 price: 36.82

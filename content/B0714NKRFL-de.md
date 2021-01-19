@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41phqjJXFcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0714NKRFL-de'
+slug: 'B0714NKRFL-de Uglyfrog Bike-T Full Zip Herren Radtrikot Set  Atmungsaktiv Quick-Dry Kurzarm Radsport-Shirt + Gel Gepolsterte Shorts'
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

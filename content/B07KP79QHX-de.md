@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413+TonqVqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KP79QHX-de'
+slug: 'B07KP79QHX-de Unigear Touchscreen Handschuhe  Anti-Rutsch Full Finger Fahrradhandschuhe Wasserdicht Winddicht Laufhandschuhe Atmungsaktiv Geeignet für Winter Herbst Frühling'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

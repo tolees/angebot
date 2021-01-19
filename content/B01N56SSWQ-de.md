@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419WWiBRZjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N56SSWQ-de'
+slug: 'B01N56SSWQ-de Pioneer SE-MS7BT S  Bluetooth Over-Ear Kopfhörer  Mikrofon  High-Res Audio  NFC  12 Stunden Wiedergabe  hoher Tragekomfort  für Smartphone  Tablet  Hifi Anlage  Aluminium Design   Silber-Schwarz'
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

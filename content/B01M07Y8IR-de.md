@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-aDzXjW9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M07Y8IR-de'
+slug: 'B01M07Y8IR-de Bosch Professional Bohrhammer GBH 2-26 F  830 Watt  Wechselfutter SDS-plus  Schlagenergie: 2 7 J  im Koffer '
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41So61XGIvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XH4LGHC-de'
+slug: 'B06XH4LGHC-de Belkin PowerHouse Ladestation  geeignet für iPhone XS  XS Max  XR  X  8/8 Plus und andere Modelle  Apple Watch Series 4  3  2  1 '
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

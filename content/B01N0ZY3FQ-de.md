@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41xn2W-JEzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0ZY3FQ-de'
+slug: 'B01N0ZY3FQ-de Anita Active Damen Air Control Deltapad Sport-BH  Weiß  Weiß 006   80C'
 actualPrice: 54.39 EUR
 currency: EUR
 price: 54.39

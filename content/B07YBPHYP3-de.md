@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-hSH5x1LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YBPHYP3-de'
+slug: 'B07YBPHYP3-de Hosome V912 Saugroboter mit LDS Navigation  Wischfunktion und APP-Steuerung Staubsauger Roboter geeignet für Tierhaare  Teppiche  Fliesen  Hartböden'
 actualPrice: 289.99 EUR
 currency: EUR
 price: 289.99

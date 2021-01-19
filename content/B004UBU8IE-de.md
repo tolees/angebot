@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zn7QHX2WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004UBU8IE-de'
+slug: 'B004UBU8IE-de TP-Link TL-WA801ND V5.0 WLAN Access Point 300Mbit/s  Client  Bridget  Universal/WDFS Repeater   WPS  zwei abnehmbare Antennen  weiß'
 actualPrice: 21.14 EUR
 currency: EUR
 price: 21.14

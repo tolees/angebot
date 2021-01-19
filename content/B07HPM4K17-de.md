@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31apcLljbUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HPM4K17-de'
+slug: 'B07HPM4K17-de Samsung VG-SCFN49BM/XC The Frame Bilderrahmen  123 cm  49 Zoll   schwarz'
 actualPrice: 73.33 EUR
 currency: EUR
 price: 73.33

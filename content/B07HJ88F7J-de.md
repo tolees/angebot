@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LdXjUZ71L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HJ88F7J-de'
+slug: 'B07HJ88F7J-de Funko B07HJ88F7J POP Vinyl: Movies: James Bond: Le Chiffre Casino Royale 007-LeChiffre Sammelbares Spielzeug  Mehrfarben'
 actualPrice: 7.67 EUR
 currency: EUR
 price: 7.67

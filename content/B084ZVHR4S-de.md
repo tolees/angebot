@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-X1mbr7YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084ZVHR4S-de'
+slug: 'B084ZVHR4S-de FOSSIL Watch FS5697'
 actualPrice: 118.12 EUR
 currency: EUR
 price: 118.12

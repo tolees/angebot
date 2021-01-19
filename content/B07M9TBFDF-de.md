@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51u8NVsn4RL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M9TBFDF-de'
+slug: 'B07M9TBFDF-de Converse Cross Body 2 10008299-A02 Sporttasche  22 cm  4 L  Red'
 actualPrice: 18.85 EUR
 currency: EUR
 price: 18.85

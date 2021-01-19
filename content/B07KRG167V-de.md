@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hIHO2pnCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRG167V-de'
+slug: 'B07KRG167V-de Geschenke 24 Schlüsselanhänger Schönster Tag in Schwarz – gravierter Schlüssel Anhänger im Kalender Design - mit Wunschtag  Monat und Jahr personalisiert – optional mit Wunschgravur'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

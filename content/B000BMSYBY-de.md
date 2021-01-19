@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51g2ooJMSeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000BMSYBY-de'
+slug: 'B000BMSYBY-de Cisco CP-PWR-CUBE-3 IP Phone Power Supply Netzteil'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

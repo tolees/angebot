@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UvF1wuKmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6NTMZ6-de'
+slug: 'B07S6NTMZ6-de Puma Damen Smash WNS v2 L Zapatillas  Weiß White-Bright Rose Silver  36 EU'
 actualPrice: 31.56 EUR
 currency: EUR
 price: 31.56

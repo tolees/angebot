@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414c6maXnIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYZM75C-de'
+slug: 'B07FYZM75C-de Microsoft Office 365 Personal multilingual | 1 Nutzer | Mehrere PCs / Macs  Tablets und mobile Geräte | 1 Jahresabonnement | Box'
 actualPrice: 49.98 EUR
 currency: EUR
 price: 49.98

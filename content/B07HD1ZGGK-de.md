@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4166s-OHjSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HD1ZGGK-de'
+slug: 'B07HD1ZGGK-de Mattel GGX34 - Toy Story 4 Woody Figur  17 cm Spielzeug Actionfigur ab 3 Jahren'
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

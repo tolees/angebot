@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Kk2Q-0JaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7P1Y9V-de'
+slug: 'B07W7P1Y9V-de Dragon Touch Action Cam 4K  Action Kamera 20MP EIS Anti-Shake-Unterstützung Externes Mikrofon Unterwasserkamera 30M wasserdicht Sportskamera mit Montagezubehör Kit - Vision 4 Lite'
 actualPrice: 26.73 EUR
 currency: EUR
 price: 26.73

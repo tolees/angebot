@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4135eNrbhbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZX5NML-de'
+slug: 'B07JZX5NML-de adidas Tiro Rucksack Rucksack  45 cm  25 Liter  Power Red/White'
 actualPrice: 15.4 EUR
 currency: EUR
 price: 15.4

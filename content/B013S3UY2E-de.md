@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z5yWk5i2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013S3UY2E-de'
+slug: 'B013S3UY2E-de Creative Sound BlasterX H3 analoges Pro-Gaming Headset  schwarz'
 actualPrice: 40.57 EUR
 currency: EUR
 price: 40.57

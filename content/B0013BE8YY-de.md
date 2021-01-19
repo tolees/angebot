@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pmZajnJlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0013BE8YY-de'
+slug: 'B0013BE8YY-de Mascara Volum  Express Turbo Boost'
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vLfYX64AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078VPCV74-de'
+slug: 'B078VPCV74-de Sony Alpha 6300 E-Mount Systemkamera  24.2 Megapixel  7 5 cm  3 Zoll  Display  XGA OLED Sucher  4K  inklusiv 16-50 mm Objektiv  Silber'
 actualPrice: 539.0 EUR
 currency: EUR
 price: 539.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hm3NwrZLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPK6JBT-de'
+slug: 'B07KPK6JBT-de Funko 28506 POP Vinyl: KISS: Spaceman Sammelbares Spielzeug  Mehrfarben  Standard'
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

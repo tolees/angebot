@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kRtzHDapL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDMZ6P4-de'
+slug: 'B07NDMZ6P4-de G-STAR RAW Herren Arctic Expedition Jacke  Grau  Charcoal 942    Herstellergröße:M '
 actualPrice: 94.76 EUR
 currency: EUR
 price: 94.76

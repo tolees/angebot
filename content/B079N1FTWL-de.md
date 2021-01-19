@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aTJqrn1IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079N1FTWL-de'
+slug: 'B079N1FTWL-de Playmobil 9467 Feuerwehr-Löschroboter'
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

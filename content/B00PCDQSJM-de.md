@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41s6-eGzFzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PCDQSJM-de'
+slug: 'B00PCDQSJM-de Sony Alpha 6000 Systemkamera  24 Megapixel  7 6 cm  3 Zoll  LCD Display  Exmor APS-C Sensor  Full HD  High Speed Hybrid AF  weiß'
 actualPrice: 346.0 EUR
 currency: EUR
 price: 346.0

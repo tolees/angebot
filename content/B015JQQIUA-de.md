@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UCk9R8nKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015JQQIUA-de'
+slug: 'B015JQQIUA-de Cobb Pro - Tisch oder tragbarer Außengrill  Kochsystem  Edelstahl - 32 cm'
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

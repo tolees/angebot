@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eAxVXfcTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074SQG93Z-de'
+slug: 'B074SQG93Z-de devolo dLAN 1200+ WiFi ac Powerline Network Kit  1200 Mbit/s WLAN ac  WLAN Verstärker  2x LAN Ports  3x Powerlan Adapter  ideal für Online Gaming und HD-Streaming  Powerline WLAN  WiFi Move  weiß'
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

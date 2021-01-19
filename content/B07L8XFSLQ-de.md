@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Yabad-N4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8XFSLQ-de'
+slug: 'B07L8XFSLQ-de Laptop Rucksack Herren und Damen für 17 Zoll Notebook Reiserucksack  Anti-Diebstahl Rucksack Komfortabel und atmungsaktiv für Business Arbeit Schule Universität 20-35L'
 actualPrice: 26.89 EUR
 currency: EUR
 price: 26.89

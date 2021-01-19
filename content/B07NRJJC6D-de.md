@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51r0q0OFNBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRJJC6D-de'
+slug: 'B07NRJJC6D-de DERMATEST: SEHR GUT - TRUE NATURE® [1000 Stück] Zero Waste Bambus Wattestäbchen - Q Tips ohne Plastik - Cotton Buds - 100% biologisch abbaubar +Ebook'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

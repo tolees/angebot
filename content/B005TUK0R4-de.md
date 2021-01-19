@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kDR5Nc43L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005TUK0R4-de'
+slug: 'B005TUK0R4-de Intex Filteranlagenzubehör - Filterkartusche - Typ A - 3 Stück'
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

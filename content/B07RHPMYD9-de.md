@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412SjfvzBfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHPMYD9-de'
+slug: 'B07RHPMYD9-de Salomon Herren Trail Running Schuhe  ALPHACROSS  Farbe: beige  Bleached Sand/Vanilla Ice/White  Größe: EU 42'
 actualPrice: 41.28 EUR
 currency: EUR
 price: 41.28

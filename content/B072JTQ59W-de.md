@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31yOAwupJNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072JTQ59W-de'
+slug: 'B072JTQ59W-de Philips SHL3175WT BASS+ Over-Ear Kopfhörer  mit Mikrofon  Fernbedienung  satter Bass  Freisprechfunktion  weiß'
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

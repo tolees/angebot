@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SLDqyXMaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009RJURDK-de'
+slug: 'B009RJURDK-de CAT Footwear Herren Caterpillar Colorado Wc44100940 Stiefel  Gelb  Honey   42 EU'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

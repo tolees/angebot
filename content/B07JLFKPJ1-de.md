@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rw7PoQUjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLFKPJ1-de'
+slug: 'B07JLFKPJ1-de PLAYMOBIL Sand 70065 Sandeimerchen "Frühlingsblume"  Ab 2 Jahren'
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

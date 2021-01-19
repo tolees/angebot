@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31e+-MOnBRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VN5LHS7-de'
+slug: 'B07VN5LHS7-de STARWARE HDMI auf VGA  HDMI auf VGA Adapter  Stecker zu Buchse  für Computer  Desktop  Laptop  PC  Monitor  Projektor  HDTV  Chromebook  Intel Nuc  TV Box und mehr - Raumgrau Aluminium'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

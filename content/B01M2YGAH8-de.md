@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419WSQXQ6HL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M2YGAH8-de'
+slug: 'B01M2YGAH8-de Timberland Herren Bradstreet Leather Sensorflex Chukka Boots  Gelb  Wheat Nubuck   43 EU'
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

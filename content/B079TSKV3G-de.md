@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Xh5RHL+KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079TSKV3G-de'
+slug: 'B079TSKV3G-de Paladone Game-Boy-Wecker mit Sound von Nintendo'
 actualPrice: 20.13 EUR
 currency: EUR
 price: 20.13

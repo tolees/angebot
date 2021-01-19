@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510VILjYrfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FDIVD9A-de'
+slug: 'B01FDIVD9A-de Hasbro Gaming B2176398 - Dr. Bibber Kinderspiel'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

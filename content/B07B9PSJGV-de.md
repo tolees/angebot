@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41X-MoQ4W7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9PSJGV-de'
+slug: 'B07B9PSJGV-de Fitbit Versa Special Edition  Gesundheits & Fitness Smartwatch mit Herzfrequenzmessung  4+ Tage Akkulaufzeit & Wasserabweisend bis 50 m Tiefe  Holzkohle'
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

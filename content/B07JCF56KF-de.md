@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410aphwCT3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JCF56KF-de'
+slug: 'B07JCF56KF-de Huawei Nanomemory Speicherkarte 128G für Mate20/Pro'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

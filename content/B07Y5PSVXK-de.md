@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XfaWQwjCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y5PSVXK-de'
+slug: 'B07Y5PSVXK-de Smartwatch Amazfit GTR 42mm/A1910 42 Starry Black Xiaomi'
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

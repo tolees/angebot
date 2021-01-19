@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aoy5Hi-UL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L5D2VY6-de'
+slug: 'B07L5D2VY6-de PNY Quadro RTX 4000 8 GB GDDR6'
 actualPrice: 500.0 EUR
 currency: EUR
 price: 500.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Bhw042OAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WLNLBJG-de'
+slug: 'B06WLNLBJG-de Hasbro Star Wars C1439EU4 - Episode 8 ferngesteuerter BB-8-Droide  elektronisches Spielzeug'
 actualPrice: 83.15 EUR
 currency: EUR
 price: 83.15

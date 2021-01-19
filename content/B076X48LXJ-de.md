@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GTc5JDzeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076X48LXJ-de'
+slug: 'B076X48LXJ-de Levi s Damen 310 Shaping Super Skinny Jeans  Schwarz  Black Galaxy 0003   W28/L30'
 actualPrice: 47.49 EUR
 currency: EUR
 price: 47.49

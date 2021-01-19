@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DmaWU-frL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084JPQM92-de'
+slug: 'B084JPQM92-de Yazubi Herren Chino Hose Merlin II - Slim Fit - NEU  Schwarz  Black 194008   W28/L30'
 actualPrice: 20.8 EUR
 currency: EUR
 price: 20.8

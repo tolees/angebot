@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51G1dFeSOdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QSY791S-de'
+slug: 'B07QSY791S-de Bosch Akku Schlagbohrschrauber UniversalImpact 18  2 Akku  18 Volt System  im Koffer '
 actualPrice: 103.9 EUR
 currency: EUR
 price: 103.9

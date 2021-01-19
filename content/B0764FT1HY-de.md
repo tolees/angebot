@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oIRLU1TaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0764FT1HY-de'
+slug: 'B0764FT1HY-de Neato Robotics D7 Intelligenter Saugroboter - Premium Saugroboter mit Ladestation  Wlan & App - Staubsauger Roboter  Alexa-kompatibel & für Tierhaare'
 actualPrice: 419.82 EUR
 currency: EUR
 price: 419.82

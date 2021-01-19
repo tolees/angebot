@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-P4daxzgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083TLXRNZ-de'
+slug: 'B083TLXRNZ-de Regal bambus 2er set Badezimmerregal Badregal Bambus Standregal Bad Küchenregal Bücherregal Schuhregal mit 5 Ablagen DIY Mehrere Kombinationen'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

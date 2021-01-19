@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e-GLbJDGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VX6GBGZ-de'
+slug: 'B07VX6GBGZ-de ExcLent 10-24 Cm De Acero Inoxidable De Boca Ancha Líquido Agua Aceite Embudo Herramienta De Filtro De Cocina - 10cm'
 actualPrice: 7.31 EUR
 currency: EUR
 price: 7.31

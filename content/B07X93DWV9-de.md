@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413d+is-fJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X93DWV9-de'
+slug: 'B07X93DWV9-de Victure 1080P WLAN IP Kamera Überwachungskamera Aussen PIR Bewegungserkennung Wasserdicht mit Nachtsicht 2.4Ghz WiFi Outdoor Bullet Kamera kompatibel mit IOS/Android'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

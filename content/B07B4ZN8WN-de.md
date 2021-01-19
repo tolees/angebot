@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41izo0e5M7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4ZN8WN-de'
+slug: 'B07B4ZN8WN-de RITUALS The Rituals of Happy Buddha Raumdufttspray  1er Pack  1 x 500 ml '
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

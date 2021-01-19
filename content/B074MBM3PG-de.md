@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JednwP+3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074MBM3PG-de'
+slug: 'B074MBM3PG-de Somat Spülmaschinen-Tabs 10 All in 1 Extra  extra kraftvolle Reinigung und Edelstahlglanz  1 x 59 Tabs '
 actualPrice: 11.34 EUR
 currency: EUR
 price: 11.34

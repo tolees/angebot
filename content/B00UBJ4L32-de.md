@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/311zYQnVHwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UBJ4L32-de'
+slug: 'B00UBJ4L32-de Yamaha Digital Piano P-45B  schwarz - Elektronisches Klavier für Einsteiger für authentisches Klavierspielen - Kompaktes & leicht zu bedienendes Digital Piano'
 actualPrice: 244 EUR
 currency: EUR
 price: 244

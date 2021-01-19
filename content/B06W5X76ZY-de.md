@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61EhxGaIT3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W5X76ZY-de'
+slug: 'B06W5X76ZY-de Playmobil 9283 - Schneeballschlacht'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

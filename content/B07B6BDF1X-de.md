@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QcQXsdZfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B6BDF1X-de'
+slug: 'B07B6BDF1X-de Philips 246E9QJAB/00 60 cm  23 8 Zoll  Monitor  VGA  HDMI  DisplayPort  FHD  5ms Reaktionszeit  1920 x 1080  schwarz'
 actualPrice: 111.0 EUR
 currency: EUR
 price: 111.0

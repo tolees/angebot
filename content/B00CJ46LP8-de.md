@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410O85b+b2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CJ46LP8-de'
+slug: 'B00CJ46LP8-de Jamara 403071 - BMW M3 Sport 1:14  schwarz'
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

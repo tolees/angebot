@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EYm1v2U7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0ABPKP-de'
+slug: 'B01M0ABPKP-de RITUALS The Ritual of Sakura AntitranspirantSpray   150 ml'
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

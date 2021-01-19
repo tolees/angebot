@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31xGe%2BOOiGL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FZ4P5KR-de'
+slug: 'B07FZ4P5KR-de Tado Smartes Heizkörper-Thermostat  Duo Pack  Zusatzprodukte für Einzelraumsteuerung  intelligente Heizungssteuerung '
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

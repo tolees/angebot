@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31sAYlKsDOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GGM7G9B-de'
+slug: 'B07GGM7G9B-de ghd Platinum+ Styler  weiß'
 actualPrice: 183.9 EUR
 currency: EUR
 price: 183.9

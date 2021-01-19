@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51F--2ddTcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004P2ZYLO-de'
+slug: 'B004P2ZYLO-de Umarex  Spitzkopf  4 5mm für Diabolo Cobra Luftpistolen  super perforierend  500 Stück'
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

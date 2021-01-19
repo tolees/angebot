@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/610rWheeRdL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0147DFUCS-de'
+slug: 'B0147DFUCS-de Mighty No.9 - Ray-Edition'
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

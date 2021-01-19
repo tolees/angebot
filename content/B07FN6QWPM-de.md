@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/311-NHZPhpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FN6QWPM-de'
+slug: 'B07FN6QWPM-de Superdry Herren O L Vintage Embroidery L/S Tee Langarmshirt  Schwarz  Black 02A   Small'
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

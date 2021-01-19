@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518yrAp7jrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VVSVW8B-de'
+slug: 'B06VVSVW8B-de fischer FIXtainer DUOPOWER Tiefenbiss-Box  Dübelbox mit 210 Dübeln  80 Stk. 6 x 30  40 Stk. 6 x 50  60 Stk. 8 x 40  30 Stk. 8 x 65   Dübelkiste mit Tragegriff & Klicksystem  ohne Schrauben'
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wSlLtJGmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003XOWP1C-de'
+slug: 'B003XOWP1C-de Das Phantom der Oper [Blu-ray] [Special Edition]'
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

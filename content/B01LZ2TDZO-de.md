@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CUeVUGfPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZ2TDZO-de'
+slug: 'B01LZ2TDZO-de Gigabyte GeForce GTX 1060 GV-N1060WF2OC-6GDGrafikkarte schwarz'
 actualPrice: 185.0 EUR
 currency: EUR
 price: 185.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MMljMzRsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YD9RM15-de'
+slug: 'B07YD9RM15-de McKINLEY Herren Icepak Varel Jacke  Marinenblau  48'
 actualPrice: 80.7 EUR
 currency: EUR
 price: 80.7

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41q7NytSqlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQYFQ54-de'
+slug: 'B07JQYFQ54-de adidas Herren Terrex AX3 Klassische Stiefel  Schwarz  Black Bc0524   44 2/3 EU'
 actualPrice: 71.88 EUR
 currency: EUR
 price: 71.88

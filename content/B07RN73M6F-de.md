@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514kDMSl9fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RN73M6F-de'
+slug: 'B07RN73M6F-de Oral-B Kids Star Wars Elektrische Zahnbürste mit Disney-Stickern  für Kinder ab 3 Jahren  rot'
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

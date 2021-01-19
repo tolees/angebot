@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411X71mRl+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MX72ZXC-de'
+slug: 'B07MX72ZXC-de Lightailing Licht-Set Für  Star Wars Super Star Zerstörer  Modell - LED Licht-Set Kompatibel Mit Lego 10221 Modell NICHT Enthalten '
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OYWYiLZRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GHU9HSM-de'
+slug: 'B01GHU9HSM-de Avoseedo das Besondere Garten Geschenke - Pflanzen Sie Ihren Eigenen Avocadobaum. Kleine Geschenke Für Männer Und Frauen. Die Neue Klein Dekoration Für Ein Schöneres Zu Hause. Das Komplette Pflanz Set'
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

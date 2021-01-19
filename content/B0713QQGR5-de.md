@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NRoxpklZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0713QQGR5-de'
+slug: 'B0713QQGR5-de Bosch Säge AdvancedCut 50  500 Watt  NanoBlade Technologie  im Koffer '
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

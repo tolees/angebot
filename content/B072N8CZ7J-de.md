@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4119glifvGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072N8CZ7J-de'
+slug: 'B072N8CZ7J-de Funko 22718 Actionfigur Hellboy S1: Liz Sherman'
 actualPrice: 5.88 EUR
 currency: EUR
 price: 5.88

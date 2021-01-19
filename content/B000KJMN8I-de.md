@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QKIjHnY8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KJMN8I-de'
+slug: 'B000KJMN8I-de Scotch 5501933 Klebeband 550  Polypropylenfolie  19 mm x 33 m  8 Rollen transparent'
 actualPrice: 5.7 EUR
 currency: EUR
 price: 5.7

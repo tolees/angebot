@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wBXSeV4HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015QDYF2Y-de'
+slug: 'B015QDYF2Y-de Colgate Komplett Ultra Weiß Zahnpasta  12er Pack  12 x 75 ml '
 actualPrice: 6.87 EUR
 currency: EUR
 price: 6.87

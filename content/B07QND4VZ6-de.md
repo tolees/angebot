@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iGrvhMyKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QND4VZ6-de'
+slug: 'B07QND4VZ6-de Samsung MU-PA500R/EU  Portable SSD T5 500 GB USB 3.1 Externe SSD Rot'
 actualPrice: 77.79 EUR
 currency: EUR
 price: 77.79

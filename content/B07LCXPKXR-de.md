@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417GL0zCPnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LCXPKXR-de'
+slug: 'B07LCXPKXR-de Spigen L37CS25731 Thin Fit 360 Kompatibel mit Huawei P30 PRO Hülle  360° Rundumschutz-Schale mit Gratis Panzerglas Handyhülle Schutzhülle Case - Schwarz'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

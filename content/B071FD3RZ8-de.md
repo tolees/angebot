@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ec7FycCoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071FD3RZ8-de'
+slug: 'B071FD3RZ8-de ONLY Female Skinny Fit Jeans ONLRain reg XL30Black Denim'
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

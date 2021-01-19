@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41s35vTB2EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077N8FDZS-de'
+slug: 'B077N8FDZS-de Deckenlampe LED Deckenleuchte Öuesen Lampe Decke Wasserdicht Moderne Runde Dünne 18W 1650LM IP44 4000K Φ24cm Neutralweiß Deckenlampe Badezimmer Küche Schlafzimmer Bad Wohnzimmer Esszimmer Balkon Flur'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

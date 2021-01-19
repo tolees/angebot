@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LKGCMYIVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B3QSV16-de'
+slug: 'B08B3QSV16-de Bluetooth Kopfhörer in Ear  Bluetooth 5.0 Kopfhörer Kabellos Sport 3500mAh 150H Spielzeit Kabellose Kopfhörer Wireless Earbuds IPX7 Wasserdicht CVC8.0 Ohrhörer mit LED-Anzeige Ladebox & Mic'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

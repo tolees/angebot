@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qoFHzNWUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V1X8G4L-de'
+slug: 'B07V1X8G4L-de ADATA SE800 - 1 TB  externe Solid-State-Drive mit USB 3.2 Gen.2 Typ-C  2.5 Zoll  blau'
 actualPrice: 127.9 EUR
 currency: EUR
 price: 127.9

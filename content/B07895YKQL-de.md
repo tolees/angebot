@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-FvXHMIhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07895YKQL-de'
+slug: 'B07895YKQL-de Sharplace 3 Paar Annähen Oval Ellenbogen/Knie Patches Jeans Reparatur Handwerk Nähen Applique - Farbe 5'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

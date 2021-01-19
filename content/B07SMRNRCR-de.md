@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4116lQ-2JQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SMRNRCR-de'
+slug: 'B07SMRNRCR-de ASUS VivoBook S15 S532FL  90NB0MJ2-M00560  39 6 cm  15 6 Zoll  FHD  WV  matt  Notebook  Intel Core i5-8265U  8GB RAM  512GB SSD  NVIDIA GeForce MX250  2GB   Windows 10  Transparent Silver'
 actualPrice: 485 EUR
 currency: EUR
 price: 485

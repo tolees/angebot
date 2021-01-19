@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zmdTMG-sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07987KGDS-de'
+slug: 'B07987KGDS-de Funko 26713 Grumpy Bear Spielfigur  Mehrfarbig  10 Centimeters'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

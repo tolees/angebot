@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bCAmIybiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0036UNK0I-de'
+slug: 'B0036UNK0I-de Park Tool Montageständer PRS-25 Team Issue  4000277'
 actualPrice: 289.95 EUR
 currency: EUR
 price: 289.95

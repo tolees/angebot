@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kj4Gxjz0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NP9SYPJ-de'
+slug: 'B07NP9SYPJ-de Samsung N5375 80 cm  32 Zoll  LED Fernseher  Full HD  Triple Tuner  Smart TV  [Modelljahr 2019]'
 actualPrice: 367.0 EUR
 currency: EUR
 price: 367.0

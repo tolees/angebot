@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LKB+7QK2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZNQCYNJ-de'
+slug: 'B07ZNQCYNJ-de BRIKSMAX Led Beleuchtungsset für Lego Technic First Responder Kompatibel Mit Lego 42075 Bausteinen Modell - Ohne Lego Set'
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

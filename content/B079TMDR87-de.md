@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kkDP8JYIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079TMDR87-de'
+slug: 'B079TMDR87-de Orbsmart lüfterloser 4K Mini PC AW-09 Windows 10 Desktop-PC/Office/Business  Intel Quadcore CPU  4GB  max. 8GB  RAM  120GB SSD  2.5" HDD-Bay  HDMI & DisplayPort '
 actualPrice: 209.9 EUR
 currency: EUR
 price: 209.9

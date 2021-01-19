@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tJ6EHslxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CES5A60-de'
+slug: 'B00CES5A60-de Logitech C930e Business-Webcam  Full-HD 1080p  90° Blickfeld  4-fach Zoom  Autofokus  RightLight 2-Technologie  Abdeckblende  Für Skype Business  WebEx  Lync  Cisco  etc.  PC/Mac/ChromeOS - Schwarz'
 actualPrice: 78.09 EUR
 currency: EUR
 price: 78.09

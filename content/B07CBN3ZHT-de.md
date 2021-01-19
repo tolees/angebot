@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LXjhuDiJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CBN3ZHT-de'
+slug: 'B07CBN3ZHT-de ZWILLING Selbstschärfender Messerblock  7 teilig  dunkelbraun  Esche   Vier Sterne'
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

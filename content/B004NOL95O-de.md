@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CK4MUr29L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004NOL95O-de'
+slug: 'B004NOL95O-de Draper Expert 02753 Innenmessgerät 50-160 mm'
 actualPrice: 62.21 EUR
 currency: EUR
 price: 62.21

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21OyxamldNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YZDGS7M-de'
+slug: 'B07YZDGS7M-de Tenda Nova MW5G  3er Pack  echtes Dual-Band Mesh WLAN  bis zu 325m²  6X Gigabit Ports  AC1200  Gigabit WAN  QoS  MU-MIMO  Beamforming  Ersetzt Router  Powerline & Repeater'
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

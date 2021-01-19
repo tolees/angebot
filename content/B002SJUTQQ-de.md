@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41av4T0YKeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002SJUTQQ-de'
+slug: 'B002SJUTQQ-de Samsonite Aeris Spinner L Koffer  75 cm  87.5 L  Rot  Red '
 actualPrice: 125.4 EUR
 currency: EUR
 price: 125.4

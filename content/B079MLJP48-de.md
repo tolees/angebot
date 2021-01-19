@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5172IuxssYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MLJP48-de'
+slug: 'B079MLJP48-de PLAYMOBIL Magic 9472 Prachtvoller Phönix mit Schmucksteckern  Ab 4 Jahren'
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ERLg5bFqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JXRFJIO-de'
+slug: 'B00JXRFJIO-de LECHUZA CUBICO Premium 40  Taupe Hochglanz  Hochwertiger Kunststoff  Inkl. Bewässerungssystem  Herausnehmbarer Pflanzeinsatz  Für Innenraumbegrünung  18215'
 actualPrice: 105.68 EUR
 currency: EUR
 price: 105.68

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZqbPQg-VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XPHQ8W7-de'
+slug: 'B07XPHQ8W7-de HP Pavilion Gaming TG01-0017ng Desktop  Intel Core i7-9700F  16GB DDR4 RAM  512GB SSD  Nvidia GeForce GTX 1650 4GB GDDR5   Windows 10 Home  schwarz/grün'
 actualPrice: 400.0 EUR
 currency: EUR
 price: 400.0

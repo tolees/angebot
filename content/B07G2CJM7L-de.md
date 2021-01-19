@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61m-ZsGnGtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G2CJM7L-de'
+slug: 'B07G2CJM7L-de You Win.Who Cares?  Deluxe 2cd Edition '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

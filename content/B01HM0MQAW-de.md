@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+7OlljXyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HM0MQAW-de'
+slug: 'B01HM0MQAW-de FIBARO Double Switch 2 / Z-Wave Plus Relaisschalter  Drahtloser Ein-Aus-Auslöser  FGS-223'
 actualPrice: 43.27 EUR
 currency: EUR
 price: 43.27

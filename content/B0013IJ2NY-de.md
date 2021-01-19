@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5144oQpaUCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0013IJ2NY-de'
+slug: 'B0013IJ2NY-de Troja  Director s Cut  [Blu-ray]'
 actualPrice: 6.44 EUR
 currency: EUR
 price: 6.44

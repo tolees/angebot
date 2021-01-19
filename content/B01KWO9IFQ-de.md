@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412k3FcgsqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KWO9IFQ-de'
+slug: 'B01KWO9IFQ-de Huntvp Gürteltasche wasserdichte Bauchtasche für Handy bis 5.7 Zoll Herren Damen Militär Hüfttasche Taktisch Laufgürtel Sport Joggen Running Laufen  Schwarz'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

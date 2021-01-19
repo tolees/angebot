@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vNYHeIE1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079QQ9G5H-de'
+slug: 'B079QQ9G5H-de König & Meyer 16075 Headphones Table Stand  Schwarz '
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

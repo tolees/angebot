@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QmBN0Y9fL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071ZV8JL6-de'
+slug: 'B071ZV8JL6-de Terminator 5 - Genisys   4K Ultra HD   + Blu-ray '
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

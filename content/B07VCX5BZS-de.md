@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41MbM7plmBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCX5BZS-de'
+slug: 'B07VCX5BZS-de Jnwayb Katze Brunnen Katze Wasserspender  automatischer Brunnen 2.5L Wasserspender mit Aktivkohlefilter für Hund Katze Haustier Trinker für Hund B92 ...  Katzenbrunnen Katzen Trinkbrunnen B92 '
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

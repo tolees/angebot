@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411TEkpiHHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2MFYIE-de'
+slug: 'B01N2MFYIE-de Tommy Hilfiger Herren H2285ARLOW 1D Sneakers  Grau  Steel Grey 039   44 EU'
 actualPrice: 42.14 EUR
 currency: EUR
 price: 42.14

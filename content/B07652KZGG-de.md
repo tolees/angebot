@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Fd1mp4gXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07652KZGG-de'
+slug: 'B07652KZGG-de Synology DS218 + 6TB  2 x 3TB WD RED  2 Bay Desktop-NAS-Einheit'
 actualPrice: 374.0 EUR
 currency: EUR
 price: 374.0

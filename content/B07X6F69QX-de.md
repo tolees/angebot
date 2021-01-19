@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415bw9FOYjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X6F69QX-de'
+slug: 'B07X6F69QX-de HolyHigh Bluetooth Kopfhörer Bluetooth 5.0 Kabellose In Ear Kopfhörer Duale Dynamische Treiber 3000 mAh Ladebox 100H Wiedergabe HiFi Stereo Rauschunterdrückung Berührungssteuerung für Sport Pendeln'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

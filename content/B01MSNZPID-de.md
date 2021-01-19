@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510Zp0mewZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSNZPID-de'
+slug: 'B01MSNZPID-de ASICS Damen Noosa FF Turnschuhe  Schwarz  Black/Bay/Viridian Green   40.5 EU'
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

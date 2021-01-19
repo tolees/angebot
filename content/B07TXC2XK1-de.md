@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wJSW75XML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXC2XK1-de'
+slug: 'B07TXC2XK1-de Laptop 14.1 Zoll TECLAST F7PLUS Ultrabook Intel Celeron N4100  8GB DDR4 256GB SSD  Hintergrundbeleuchtete Tastatur  Groß Berühren Pad  1920 * 1080 IPS  Windows 10- QWERTY'
 actualPrice: 389.0 EUR
 currency: EUR
 price: 389.0

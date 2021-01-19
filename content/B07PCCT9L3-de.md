@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Jv2xBgX7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PCCT9L3-de'
+slug: 'B07PCCT9L3-de Funko 40631 POP Vinyl: Movies: IT: Chapter 2-Pennywise w/Dog Tongue Sammelbares Spielzeug  Mehrfarben'
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

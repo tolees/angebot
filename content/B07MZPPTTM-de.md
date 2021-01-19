@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eiMVPKwcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPPTTM-de'
+slug: 'B07MZPPTTM-de Funko POP! Vinyl: Dragonball Z S6: Kid Buu  Mehrfarben  Einheitsgröße'
 actualPrice: 8.26 EUR
 currency: EUR
 price: 8.26

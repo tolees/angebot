@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hX5h1A4HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089CTQV71-de'
+slug: 'B089CTQV71-de Bluetooth-Headset 5.0  drahtloses Touch-Headset  Stereo-In-Ear-Sport-Headset mit Ladebox  integriertes 3D-Mikrofon mit Geräuschunterdrückung  geeignet für Android/AirPods Pro/iPhone'
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

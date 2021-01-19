@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41YAl05HaAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G1F5HBW-de'
+slug: 'B07G1F5HBW-de Superdry Herren O L Vintage Embroidery L/S Tee Langarmshirt  Grau  Flint Steel Grit A3Z   X-Small'
 actualPrice: 26.14 EUR
 currency: EUR
 price: 26.14

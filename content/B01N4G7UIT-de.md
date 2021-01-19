@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u9KaGlYtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4G7UIT-de'
+slug: 'B01N4G7UIT-de Hot Wheels FDY09 Ai Starter Kit 2.0 Street Racing  Auto Rennbahn Set mit 2 Smart Cars  2 Controller und 22 Trackteile  ab 8 Jahren'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

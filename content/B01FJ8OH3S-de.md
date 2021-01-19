@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rO1ELyZCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FJ8OH3S-de'
+slug: 'B01FJ8OH3S-de Bosch Professional Schwingschleifer GSS 160-1 A Multi  180 Watt  1 6 mm Schwingkreis-Ø  in L-BOXX '
 actualPrice: 103.0 EUR
 currency: EUR
 price: 103.0

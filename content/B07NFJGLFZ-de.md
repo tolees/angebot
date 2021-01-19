@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41eRVzy%2BP8L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NFJGLFZ-de'
+slug: 'B07NFJGLFZ-de Tommy Hilfiger Damen New TYRA DOWN Coat Mantel  Blau  Sky Captain Cjm   Small  Herstellergröße:S '
 actualPrice: 200.16 EUR
 currency: EUR
 price: 200.16

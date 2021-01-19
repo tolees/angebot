@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UcBRn2eoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014HLWKZK-de'
+slug: 'B014HLWKZK-de Levi Strauss & Co Herren 514 Jeans  Blau  Onewash 95977   40/32 UK '
 actualPrice: 47.94 EUR
 currency: EUR
 price: 47.94

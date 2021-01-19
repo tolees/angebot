@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RQSJqiJQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010DJX5RC-de'
+slug: 'B010DJX5RC-de Sylvanian Families - 5214 - Affen: Familie Kletter'
 actualPrice: 14.55 EUR
 currency: EUR
 price: 14.55

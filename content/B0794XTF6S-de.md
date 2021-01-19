@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i9uSUl5iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0794XTF6S-de'
+slug: 'B0794XTF6S-de Philips 65PUS7803/12 164cm  65 Zoll  LED-TV  Ambilight  4K Ultra HD  Triple Tuner  Android Smart TV '
 actualPrice: 545.0 EUR
 currency: EUR
 price: 545.0

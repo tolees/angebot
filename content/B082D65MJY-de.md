@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41H8FdkQIcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082D65MJY-de'
+slug: 'B082D65MJY-de IWEMEK Mädchen Eiskönigin 2 Kostüm Frozen Prinzessin ELSA Anna Kleid Schneekönigin Cosplay Kostüme Weihnachten Karneval Party Verkleidung Halloween Festkleid Party Outfits 02 Blau 2tlg 8-9 Jahre'
 actualPrice: 9.45 EUR
 currency: EUR
 price: 9.45

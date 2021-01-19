@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31njjm0iyEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B074KJ72MP-de'
+slug: 'B074KJ72MP-de OSRAM Smart+ LED  ZigBee Lampe mit E27 Sockel  warmweiß  dimmbar  Direkt kompatibel mit Echo Plus und Echo Show  2. Gen.   Kompatibel mit Philips Hue Bridge'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

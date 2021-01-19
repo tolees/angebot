@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417YzfCdHsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7TVVL9-de'
+slug: 'B07W7TVVL9-de Seiko Solar Herren-Uhr Edelstahl mit Metallband SNE523P1'
 actualPrice: 145.3 EUR
 currency: EUR
 price: 145.3

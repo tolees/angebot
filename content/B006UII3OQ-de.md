@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZGc0u0b4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006UII3OQ-de'
+slug: 'B006UII3OQ-de Tayg Kanister mit Wasserhahn'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

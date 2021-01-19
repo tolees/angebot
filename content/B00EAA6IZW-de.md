@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Jw6ztnjeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EAA6IZW-de'
+slug: 'B00EAA6IZW-de Rowenta CF4132 Multistyler Elite 14 In 1'
 actualPrice: 26.89 EUR
 currency: EUR
 price: 26.89

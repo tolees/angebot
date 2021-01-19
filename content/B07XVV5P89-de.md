@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ue9CkLuPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XVV5P89-de'
+slug: 'B07XVV5P89-de Microsoft Surface Pro 7  12 3 Zoll 2-in-1 Tablet  Intel Core i5  16GB RAM  256GB SSD  Win 10 Home  Platin Grau'
 actualPrice: 1212.0 EUR
 currency: EUR
 price: 1212.0

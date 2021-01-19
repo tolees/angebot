@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61NZwsJ45XL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYRGY7M-de'
+slug: 'B01LYRGY7M-de PLAYMOBIL Ghostbusters 9219 Feuerwache  Ab 6 Jahren'
 actualPrice: 55.79 EUR
 currency: EUR
 price: 55.79

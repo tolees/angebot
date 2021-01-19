@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+TZDoblPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072MFLD2T-de'
+slug: 'B072MFLD2T-de Philips SHB3175BK BASS+ Over-Ear Bluetooth-Kopfhörer  13 Stunden Akku  satter Bass  Freisprechfunktion  schwarz'
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

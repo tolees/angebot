@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Js0%2BgJOtL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q4D14QV-de'
+slug: 'B07Q4D14QV-de Simba 6315877626 Disney Frozen 2  Chunky ELSA  43cm'
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

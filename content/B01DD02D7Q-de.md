@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZoTOTc2VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DD02D7Q-de'
+slug: 'B01DD02D7Q-de Complete Chamber Music Recordings on Dg'
 actualPrice: 17.19 EUR
 currency: EUR
 price: 17.19

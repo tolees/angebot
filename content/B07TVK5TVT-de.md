@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513K5Q8LnrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVK5TVT-de'
+slug: 'B07TVK5TVT-de Occulto 10 Paar Damen Socken aus Baumwolle Punkte und Streifen Baumwollsocken Sneakersocken  39-42  Schwarz '
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

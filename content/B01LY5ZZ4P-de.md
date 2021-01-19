@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GBMwKZo9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LY5ZZ4P-de'
+slug: 'B01LY5ZZ4P-de SanDisk SSD PLUS 960GB Sata III 2 5 Zoll Interne SSD  bis zu 535 MB/Sek'
 actualPrice: 136.96 EUR
 currency: EUR
 price: 136.96

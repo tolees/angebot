@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D7sQvG7kL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005VSCU7C-de'
+slug: 'B005VSCU7C-de Stanger 270012 WC Super set 10 Flaschen'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

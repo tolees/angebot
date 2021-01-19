@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61Nku117FdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1M7YTY-de'
+slug: 'B07X1M7YTY-de Boneshaker  Ltd.Deluxe Edt. '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

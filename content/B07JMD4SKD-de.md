@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61RL0VAn1TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMD4SKD-de'
+slug: 'B07JMD4SKD-de PLAYMOBIL Top Agents 70005 Team S.H.A.R.K. Drill Destroyer  Ab 6 Jahren'
 actualPrice: 25.09 EUR
 currency: EUR
 price: 25.09

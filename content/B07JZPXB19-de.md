@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31D6-oduJ6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZPXB19-de'
+slug: 'B07JZPXB19-de adidas Herren Forest Grove Fitnessschuhe  Blau  Collegiate Navy/Cloud White/Core Black   46 EU  11 UK '
 actualPrice: 60.62 EUR
 currency: EUR
 price: 60.62

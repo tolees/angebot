@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Zki2NXnKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YNHK2EU-de'
+slug: 'B00YNHK2EU-de Castrol POWER 1 2T 2-Takt Motorrad Motorenöl 1L'
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

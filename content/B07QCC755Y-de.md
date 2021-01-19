@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WXt4DcykL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QCC755Y-de'
+slug: 'B07QCC755Y-de adidas CORE Men Archivo Running Schuh EF0419 cblack/ftwwht/gresix 44 2/3'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

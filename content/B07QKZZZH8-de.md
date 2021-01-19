@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MKyKaFuqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QKZZZH8-de'
+slug: 'B07QKZZZH8-de MSI GS65 9SE-461 Stealth  39 6 cm/15 6 Zoll/240Hz  Gaming-Notebook  Intel Core i7-9750H  16GB RAM  1TB PCIe SSD  Nvidia GeForce RTX2060 6GB  Windows 10 Pro '
 actualPrice: 545.0 EUR
 currency: EUR
 price: 545.0

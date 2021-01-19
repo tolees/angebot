@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WhL4D-F5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLS11LP-de'
+slug: 'B07JLS11LP-de Playmobil 70175 Figurenset Ghostbusters  bunt'
 actualPrice: 13.67 EUR
 currency: EUR
 price: 13.67

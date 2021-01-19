@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519ZK9ilurL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAL3TYY-de'
+slug: 'B01NAL3TYY-de HyperX Impact DDR4 HX426S15IB2K2/32 Arbeitsspeicher 2666MHz CL15 SODIMM 32GB Kit  2x16GB '
 actualPrice: 106.9 EUR
 currency: EUR
 price: 106.9

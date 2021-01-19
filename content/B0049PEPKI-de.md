@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u-o2OJI1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0049PEPKI-de'
+slug: 'B0049PEPKI-de Gardena Akku-Grasschere ComfortCut: Rasenkantenschneider mit 8 cm Schnittbreite  für bis zu 1400 m Rasenkante  mit Laufrädern  LED-Anzeige  8893-20 '
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

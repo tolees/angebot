@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51H0KKVw2bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YQGSTL7-de'
+slug: 'B07YQGSTL7-de Funko 47165 POP Movies: Fight Club-Tyler Durden w/Chase and Buddy  Sonderausgabe  Sammelbares Spielzeug  Mehrfarben'
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

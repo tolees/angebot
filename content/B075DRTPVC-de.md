@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GDfKDvqUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075DRTPVC-de'
+slug: 'B075DRTPVC-de LionSteel M4 Santos Taschenmesser Braun  Klingenlänge: 9 5 cm  02LS031'
 actualPrice: 135.68 EUR
 currency: EUR
 price: 135.68

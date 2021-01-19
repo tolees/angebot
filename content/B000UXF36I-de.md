@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Hc3neQejL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000UXF36I-de'
+slug: 'B000UXF36I-de Mennekes AM 10863 Wandsteckdose SCHUKO 16A 230V IP68 Bajonettdeckel blau anscharniert Schraubkontakt'
 actualPrice: 34.94 EUR
 currency: EUR
 price: 34.94

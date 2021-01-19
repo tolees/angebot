@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uUPVaWC5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G8R9BPN-de'
+slug: 'B07G8R9BPN-de BOSE Lautsprecher Bass Module 500 Schwarz'
 actualPrice: 329.0 EUR
 currency: EUR
 price: 329.0

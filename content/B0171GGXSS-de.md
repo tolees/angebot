@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516ScQDUQsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0171GGXSS-de'
+slug: 'B0171GGXSS-de Stubai - Strick Fleecejacke Herren/Strickjacke mit Fleece Innenseite für Outdooraktivität  Strick Fleece Jacke mit Stehkragen und Reißverschluss  Farbe: Dunkelblau  Größe: M - 3XL '
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

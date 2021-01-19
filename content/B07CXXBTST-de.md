@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zJbo3GheL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CXXBTST-de'
+slug: 'B07CXXBTST-de Samsung MB-ME32GA/EU EVO Select 32 GB microSDHC UHS-I U1 Speicherkarte inkl. SD-Adapter Weiß/Grun'
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

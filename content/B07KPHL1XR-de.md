@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tNqVoUiaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPHL1XR-de'
+slug: 'B07KPHL1XR-de Funko Pop! Games: Warhammer - Blutengel Assault Marine'
 actualPrice: 4.72 EUR
 currency: EUR
 price: 4.72

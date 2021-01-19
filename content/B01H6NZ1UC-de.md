@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rKXcLhN6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H6NZ1UC-de'
+slug: 'B01H6NZ1UC-de Crocs Herren Swiftwater River Sandal Men Römersandalen  Schwarz  Black   48/49 EU'
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FQVn02daL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JM3TC29-de'
+slug: 'B08JM3TC29-de Außen Überwachungskamera  1080P WiFi Kamera Drahtlose Überwachungskameras  IP Kamera mit Zwei Wege Audio  IP65 wasserdicht  Nachtsicht  Bewegungserkennung  Aktivitätsalarm  Abschreckungsalarm'
 actualPrice: 49.89 EUR
 currency: EUR
 price: 49.89

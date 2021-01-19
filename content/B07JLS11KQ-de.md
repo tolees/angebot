@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qwvNR+IlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLS11KQ-de'
+slug: 'B07JLS11KQ-de Playmobil 70123 Spirit - Riding Free Solana beim Voltigieren  bunt'
 actualPrice: 5.93 EUR
 currency: EUR
 price: 5.93

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nTSQdne+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C7JIV5M-de'
+slug: 'B01C7JIV5M-de Tommy Hilfiger Herren Multi Zifferblatt Quarz Uhr mit Edelstahl Armband 1791226'
 actualPrice: 122.13 EUR
 currency: EUR
 price: 122.13

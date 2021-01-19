@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jhehaqVGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BBYFCZT-de'
+slug: 'B08BBYFCZT-de Tesoky Automatisch Desinfektionsspender Automatisk Sprühspender 350ml mit Sensor Infrarot Elektrischer Seifenspender Automatisch für Badezimmer  Küchen  Hotel  Restaurant/öffentlicher Ort'
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

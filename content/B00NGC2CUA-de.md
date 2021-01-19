@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41T8fWrfSNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NGC2CUA-de'
+slug: 'B00NGC2CUA-de Tassimo Kapseln Milka  40 Kakao Kapseln  5er Pack  5 x 8 Getränke'
 actualPrice: 16.93 EUR
 currency: EUR
 price: 16.93

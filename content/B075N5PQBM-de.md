@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414JdHKxpeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075N5PQBM-de'
+slug: 'B075N5PQBM-de Sylvanian Families 5287 5287-Wohnzimmer-und TV-Set  Bunt'
 actualPrice: 16.16 EUR
 currency: EUR
 price: 16.16

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VmoGCRpML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BI8HR3K-de'
+slug: 'B01BI8HR3K-de Gigaset E630HX Universal-Mobilteil - IP-Telefon  zum Anschluss an Ihre Basisstation oder Router – das robuste Telefon für Handwerker und Werkstätten  schwarz'
 actualPrice: 88.96 EUR
 currency: EUR
 price: 88.96

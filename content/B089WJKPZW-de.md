@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uOZXdDfcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089WJKPZW-de'
+slug: 'B089WJKPZW-de ENACFIRE SoundBar Mini Bluetooth Lautsprecher  12W Kabellose Tragbare Musikbox mit Freisprechfunktion  25 Stunden Spielzeit  30m Bluetooth Reichweite  IPX7 Wasserdicht Rot'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

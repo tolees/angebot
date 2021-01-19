@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Zh83nUefL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003R7K5LC-de'
+slug: 'B003R7K5LC-de Mentos Fruit Dragees  40 Rollen Bonbons  Frucht-Geschmack mit Orange + Zitrone + Erdbeere  Multipack Kaubonbons'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

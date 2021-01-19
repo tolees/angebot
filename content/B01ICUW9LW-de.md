@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iR6wppJfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ICUW9LW-de'
+slug: 'B01ICUW9LW-de KLIM Chroma Gaming Tastatur QWERTZ DEUTSCH mit Kabel USB + Langlebig  Ergonomisch  Wasserdicht  Leise Tasten + RGB Gamer Tastatur für PC Mac Xbox One X PS4 Tastatur + Neue 2020 Version + Schwarz'
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

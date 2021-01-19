@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aaOOl67xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSY1P55-de'
+slug: 'B07GSY1P55-de Sharkoon NIGHT SHARK RGB PC-Gehäuse Rgb'
 actualPrice: 63.95 EUR
 currency: EUR
 price: 63.95

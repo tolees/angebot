@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41imsmPOM-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000X5SKJ0-de'
+slug: 'B000X5SKJ0-de Giesswein Hausschuh Dannheim - Filzpantoffeln  leichte Slipper für Damen & Herren  Pantoletten  Gemütliche Unisex-Pantoffel aus Wolle  rutschfest  Barfuß-Gefühl  Schuhe für Zuhause'
 actualPrice: 30 EUR
 currency: EUR
 price: 30

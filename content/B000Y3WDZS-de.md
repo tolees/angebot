@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G2sWxcdbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000Y3WDZS-de'
+slug: 'B000Y3WDZS-de Wrangler Herren Texas Contrast  Jeans  Blau  Vintage Stonewash   46W / 32L'
 actualPrice: 51.07 EUR
 currency: EUR
 price: 51.07

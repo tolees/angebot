@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412efrMDkQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075T57ZNY-de'
+slug: 'B075T57ZNY-de Pentel bl2007z-cof Roller EnerGel Gel Körper Metall matt silber'
 actualPrice: 13.06 EUR
 currency: EUR
 price: 13.06

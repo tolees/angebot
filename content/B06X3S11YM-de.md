@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GhMz1zYOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X3S11YM-de'
+slug: 'B06X3S11YM-de Schleich 42370 - Mobile Tierärztin mit Hannoveraner Fohlen'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

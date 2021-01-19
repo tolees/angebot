@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H0VobDhBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0166QUQXC-de'
+slug: 'B0166QUQXC-de CREATIVE Tragbarer Bluetooth-Audio-Transceiver BT-W2 aptX Low Latency für PC  Mac  PS4 und Nintendo Switch'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

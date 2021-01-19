@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bTaJjFpvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00009ENLP-de'
+slug: 'B00009ENLP-de Dancook 7500 - Großer Boxgrill mit Seitenablagen und Rädern'
 actualPrice: 58.0 EUR
 currency: EUR
 price: 58.0

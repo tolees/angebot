@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mY5pUn2OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M6ZGK3Q-de'
+slug: 'B07M6ZGK3Q-de Sylvanian Families - 5333 - Baby Abenteuer Riesenrad'
 actualPrice: 13.57 EUR
 currency: EUR
 price: 13.57

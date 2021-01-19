@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FbAwLMWoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MTXLFXV-de'
+slug: 'B07MTXLFXV-de Logitech G432 kabelgebundenes Gaming-Headset  7.1 Surround Sound  DTS Headphone:X 2.0  Bügelmikrofon mit Flip-Stummschaltung  Ohrpolster mit Kunstleder  PC/Mac/Xbox One/PS4/Nintendo Switch  Schwarz'
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

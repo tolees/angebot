@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bl7AhDe0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004H4EFF6-de'
+slug: 'B004H4EFF6-de Hazet 810SPC/6 Schraubendreher-Satz'
 actualPrice: 12.04 EUR
 currency: EUR
 price: 12.04

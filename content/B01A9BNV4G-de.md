@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61foA7qmwgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A9BNV4G-de'
+slug: 'B01A9BNV4G-de Ravensburger Memory 21204 - Fireman Sam  Mein erstes Memory'
 actualPrice: 14.11 EUR
 currency: EUR
 price: 14.11

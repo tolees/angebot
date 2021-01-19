@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51C1ANZc+LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLFKJVL-de'
+slug: 'B07JLFKJVL-de Playmobil 70099 Magic Perlensammler mit Rochen  bunt'
 actualPrice: 19.31 EUR
 currency: EUR
 price: 19.31

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lFjkZwh6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQ9RKB8-de'
+slug: 'B07VQ9RKB8-de Chicago Fire - Staffel sieben [6 DVDs]'
 actualPrice: 18.13 EUR
 currency: EUR
 price: 18.13

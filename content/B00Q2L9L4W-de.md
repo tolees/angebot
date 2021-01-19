@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41U0O5ol-7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Q2L9L4W-de'
+slug: 'B00Q2L9L4W-de Morella® Damen Engels Klangkugel grün Ø 16 mm'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

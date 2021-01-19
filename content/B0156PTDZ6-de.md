@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310hKYh98QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0156PTDZ6-de'
+slug: 'B0156PTDZ6-de Reishunger Reiskocher  1 2l / 500W / 220V  Warmhaltefunktion  hochwertiger Innentopf  Löffel und Messbecher – Reis für bis zu 6 Personen'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

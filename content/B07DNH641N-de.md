@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/B1aKzeOam-S._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNH641N-de'
+slug: 'B07DNH641N-de Assassin s Creed Odyssey - Gold Edition [PC Code - Uplay]'
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

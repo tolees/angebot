@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517EeTBh+IL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011WEVVTG-de'
+slug: 'B011WEVVTG-de 177/der Geist des Goldgräbers'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

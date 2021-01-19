@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zh+6z-zcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXOQ54Z-de'
+slug: 'B01LXOQ54Z-de Omega 3 Kapseln 2000mg - Fischöl 660 EPA 440 DHA pro Portion - 180 Weiche Gele - Hochdosiert von NutriZing - Fischölkapseln aus Nachhaltigem Fischfang  ohne Unerwünschte Zusätze'
 actualPrice: 14.31 EUR
 currency: EUR
 price: 14.31

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fOLzDYK3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MT7AJLW-de'
+slug: 'B01MT7AJLW-de Sony MDR-XB950B1 Drahtloser Extrabass Kopfhörer - Schwarz'
 actualPrice: 73.95 EUR
 currency: EUR
 price: 73.95

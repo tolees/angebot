@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HqBM4cweL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNTVR86-de'
+slug: 'B07FNTVR86-de DoGeek Ringstock Metall Ringmaß Ringmesser Kostenlos Ringdorn Set/UK  EU  USA und Switzerland  Kunststoff '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

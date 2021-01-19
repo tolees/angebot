@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vPFt+jAfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HJC3KXB-de'
+slug: 'B07HJC3KXB-de Funko 35678 Vinyl: Movies: James Bond: Daniel Craig  Casino Royale  007-James Pop Sammelbares Spielzeug  Mehrfarben  Einheitsgröße'
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

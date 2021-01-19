@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oaQRAnS+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHLR98V-de'
+slug: 'B07PHLR98V-de Huawei Watch GT Active Smartwatch  46 mm Amoled Touchscreen  GPS  Fitness Tracker  Herzfrequenzmessung  5 ATM wasserdicht  Orange'
 actualPrice: 95.97 EUR
 currency: EUR
 price: 95.97

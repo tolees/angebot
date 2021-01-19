@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61hCqTlPEPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BC12G7J-de'
+slug: 'B07BC12G7J-de WarioWare Gold - [Nintendo 3DS]'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

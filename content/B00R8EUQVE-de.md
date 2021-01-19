@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51B9aEWzRPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00R8EUQVE-de'
+slug: 'B00R8EUQVE-de Fascinations Metal Earth ICX019 - 502830  London Eye  Konstruktionsspielzeug  2 Metallplatinen  ab 14 Jahren'
 actualPrice: 16.65 EUR
 currency: EUR
 price: 16.65

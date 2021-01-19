@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CTTruGw4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000B8KYO8-de'
+slug: 'B000B8KYO8-de Leifheit Wandrollenhalter Parat Royal für 3 Rollen  Küchenrollenhalter für glatte Schnittkanten  Papierrollenhalter für griffbereite Folien'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

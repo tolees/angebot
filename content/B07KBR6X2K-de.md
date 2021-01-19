@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bE-TObWOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KBR6X2K-de'
+slug: 'B07KBR6X2K-de The Verdict  Ltd. 2CD Box Set '
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

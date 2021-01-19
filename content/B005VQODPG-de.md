@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517vRsi2HtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005VQODPG-de'
+slug: 'B005VQODPG-de Leuchtturm 313845 Banknotenalbum'
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

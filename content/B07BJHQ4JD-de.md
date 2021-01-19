@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41giFDekO5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BJHQ4JD-de'
+slug: 'B07BJHQ4JD-de G-STAR RAW Damen Midge Saddle Mid-Waist Straight Jeans  Medium Indigo Aged 8968-6028  25W / 30L'
 actualPrice: 46.0 EUR
 currency: EUR
 price: 46.0

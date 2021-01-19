@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZYBNnXnoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000BM61UU-de'
+slug: 'B000BM61UU-de Revell Modellbausatz Flugzeug 1:144 - Airbus A380 Design New livery "First Flight" im Maßstab 1:144  Level 5  originalgetreue Nachbildung mit vielen Details  Zivilflugzeug  Passagierflugzeug  04218'
 actualPrice: 17.43 EUR
 currency: EUR
 price: 17.43

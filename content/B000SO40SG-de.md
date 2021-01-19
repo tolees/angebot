@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416JdQ+Lt5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000SO40SG-de'
+slug: 'B000SO40SG-de Rössler 1329452707 - S.O.H.O. Wire-O Fotoalbum 290 x 290 mm  30 Blatt  Schwarz'
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51p4c7+yMdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OVRTXT2-de'
+slug: 'B00OVRTXT2-de Im Labyrinth des Schweigens'
 actualPrice: 4.29 EUR
 currency: EUR
 price: 4.29

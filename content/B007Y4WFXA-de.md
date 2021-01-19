@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WW1Cg7sjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007Y4WFXA-de'
+slug: 'B007Y4WFXA-de Lico Jungen Bernie V Hallenschuhe  Grün  Grün/Marine/Weiß   27 EU'
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

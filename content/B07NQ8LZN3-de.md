@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KM9ESJIeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQ8LZN3-de'
+slug: 'B07NQ8LZN3-de Samsung Galaxy Buds SM-R170NZWADBT I Kabellose Kopfhörer Weiß I Bluetooth I In-Ear I Stereo-Sport Headphones'
 actualPrice: 76.0 EUR
 currency: EUR
 price: 76.0

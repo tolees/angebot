@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IvJO82f7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P2BF43Y-de'
+slug: 'B07P2BF43Y-de Funko 37254 POP Vinyl: Held 80th-Batman  1995  Sammelbares Spielzeug  Mehrfarben  Einheitsgröße'
 actualPrice: 7.51 EUR
 currency: EUR
 price: 7.51

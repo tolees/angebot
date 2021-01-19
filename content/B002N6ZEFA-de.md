@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wzBKsyvDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002N6ZEFA-de'
+slug: 'B002N6ZEFA-de Brennenstuhl Eco-Line  Steckdosenleiste 6-fach  Steckerleiste mit erhöhtem Berührungsschutz  Schalter und 1 5m Kabel  schwarz'
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

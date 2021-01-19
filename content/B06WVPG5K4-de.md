@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61snoZyE+9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WVPG5K4-de'
+slug: 'B06WVPG5K4-de PLAYMOBIL Family Fun 9280 Skihütte  Ab 4 Jahren'
 actualPrice: 43.49 EUR
 currency: EUR
 price: 43.49

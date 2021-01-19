@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nI8T2tgSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WG3H4LL-de'
+slug: 'B07WG3H4LL-de Vige 25 Pares Herramienta de reparación de almohadillas de silicona para gafas Gafas de sol Gafas de nariz Accesorios de gafas 13mm - Transparente'
 actualPrice: 5.6 EUR
 currency: EUR
 price: 5.6

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61jem8JOxkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008A20GSG-de'
+slug: 'B008A20GSG-de Amigo 01735 - Ringlding'
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

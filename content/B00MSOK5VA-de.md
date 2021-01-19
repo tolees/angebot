@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KuzJke9EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MSOK5VA-de'
+slug: 'B00MSOK5VA-de De Longhi HCX 3220 FTS Konvektor  Schmales Design  schwarz'
 actualPrice: 68.23 EUR
 currency: EUR
 price: 68.23

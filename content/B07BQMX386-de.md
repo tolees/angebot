@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OJ01Wyv3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BQMX386-de'
+slug: 'B07BQMX386-de Goliath Toys 90515 Starter Set: Recoil  Mehrfarbig'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

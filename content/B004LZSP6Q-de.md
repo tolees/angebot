@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21v5ZwuY7hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004LZSP6Q-de'
+slug: 'B004LZSP6Q-de Brilliant Spari Deckenfluter mit separat schaltbarem Lesearm  1 8m in schwarz/weiß  geeignet für Leuchtmittel bis max. 60 Watt Hauptlicht und 25 Watt Lesearm'
 actualPrice: 18.33 EUR
 currency: EUR
 price: 18.33

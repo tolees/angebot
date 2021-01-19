@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lCaIZNeRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SMSLGJK-de'
+slug: 'B07SMSLGJK-de Braun Series 8 8370cc Elektrischer Rasierer  Reinigungs- und Ladestation  Stoff-Etui  Wet&Dry Elektrorasierer Herren  Rasierapparat mit Präzisionstrimmer  Lithium-Ionen-Akku  silber'
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

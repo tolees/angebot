@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41N9cwT7KfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRG624G-de'
+slug: 'B07HRG624G-de Ultimate Ears Boom 3 Tragbarer Bluetooth-Lautsprecher + Power Up Ladestation  360°-Sound  satter Bass  wasserdicht  sturzfest und staubresistent  15-Stunden Akkulaufzeit - Mitternachtsschwarz'
 actualPrice: 98.43 EUR
 currency: EUR
 price: 98.43

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61xuRRmZuAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004KX5KTO-de'
+slug: 'B004KX5KTO-de Murder Ballads  2011-Remaster '
 actualPrice: 4.29 EUR
 currency: EUR
 price: 4.29

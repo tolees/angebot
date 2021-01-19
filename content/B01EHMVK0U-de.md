@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NvORPGAcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EHMVK0U-de'
+slug: 'B01EHMVK0U-de Remonte R2277 Damen Langschaft Stiefel  braun  chestnut/24   39'
 actualPrice: 89.56 EUR
 currency: EUR
 price: 89.56

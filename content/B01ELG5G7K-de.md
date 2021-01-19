@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lN5L22RxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ELG5G7K-de'
+slug: 'B01ELG5G7K-de Hasbro Gaming B7714100 - Elefun Kinderspiel'
 actualPrice: 25.59 EUR
 currency: EUR
 price: 25.59

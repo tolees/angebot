@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51lDk6O70-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LEJCUWQ-de'
+slug: 'B01LEJCUWQ-de Funko 11411 POP Vinylfigur: Dishonored 2: Emily'
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

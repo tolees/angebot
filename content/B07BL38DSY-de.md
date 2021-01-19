@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412kjS1+KVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BL38DSY-de'
+slug: 'B07BL38DSY-de New Balance Herren 997H Core Trainers  Grau  Marblehead   43.5 EU'
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

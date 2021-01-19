@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Uu-5xOsyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWW8BKL-de'
+slug: 'B07TWW8BKL-de YITHINC Überraschungsbox  Kreative Explosion Box DIY Geschenk Scrapbook und Foto-Album Geschenkbox als Geburtstagsgeschenk über die Liebe  Überraschung zum Öffnen'
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

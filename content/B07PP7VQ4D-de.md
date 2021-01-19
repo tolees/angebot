@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31B91eCTh8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PP7VQ4D-de'
+slug: 'B07PP7VQ4D-de ZTE Smartphone Axon 10 Pro  16.43 cm  6.47 Zoll  AMOLED Display  128GB interner Speicher und 6GB RAM  48MP Hauptkamera  20MP Frontkamera  Dual-SIM  NFC  Android 9  Blau'
 actualPrice: 470 EUR
 currency: EUR
 price: 470

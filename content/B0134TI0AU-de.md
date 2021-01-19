@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MPCQQIJFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0134TI0AU-de'
+slug: 'B0134TI0AU-de Unbekannt Creative Converting 16 Stück 3-lagig Lunch-Servietten mit Happy Birthday'
 actualPrice: 1.12 EUR
 currency: EUR
 price: 1.12

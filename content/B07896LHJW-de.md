@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yHJFX3BuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07896LHJW-de'
+slug: 'B07896LHJW-de May Your Kindness Remain'
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

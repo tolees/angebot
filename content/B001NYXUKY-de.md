@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nL+DgWCbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001NYXUKY-de'
+slug: 'B001NYXUKY-de KS Tools 911.8100 Hebeleisen-Satz  4-tlg.'
 actualPrice: 24.94 EUR
 currency: EUR
 price: 24.94

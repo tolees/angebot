@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ywEGJn1NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CY1MC99-de'
+slug: 'B07CY1MC99-de Mi Bluetooth Speaker PC-Lautsprecher'
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

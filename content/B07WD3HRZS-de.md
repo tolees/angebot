@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41--lTzA30L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WD3HRZS-de'
+slug: 'B07WD3HRZS-de Bluetooth Kopfhörer AIKELA Kopfhörer Kabellos In Ear Ohrhörer Sport Wireless Kopfhörer Bluetooth 5.0 Headset mit LED Digitalanzeige 140 Stunden Spielzeit IPX7 Wasserdicht  Schwarz '
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

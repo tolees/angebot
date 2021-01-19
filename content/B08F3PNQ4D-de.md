@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413WTJpvgpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F3PNQ4D-de'
+slug: 'B08F3PNQ4D-de DARLINGTON & Sohns Grüner Controller für Nintendo 64 N64 Joystick Grün Gamepad Joypad + Verlängerung Extansion Verlängerungskabel Gamepad'
 actualPrice: 17.75 EUR
 currency: EUR
 price: 17.75

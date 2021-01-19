@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+zTG+IUPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V83KSVM-de'
+slug: 'B07V83KSVM-de Transport Fever 2'
 actualPrice: 31.23 EUR
 currency: EUR
 price: 31.23

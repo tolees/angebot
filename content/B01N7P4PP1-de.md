@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bo4QTFxSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7P4PP1-de'
+slug: 'B01N7P4PP1-de Sigma Sport Zubehör  R1 DUO Herzfrequenz Sender  ANT+/Bluetooth Smart  inkl. COMFORTEX+'
 actualPrice: 39.11 EUR
 currency: EUR
 price: 39.11

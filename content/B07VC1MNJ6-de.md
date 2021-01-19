@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RE0M7eNhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC1MNJ6-de'
+slug: 'B07VC1MNJ6-de Intenso USB-Stick Ultra Line 512 GB USB 3.0'
 actualPrice: 38.02 EUR
 currency: EUR
 price: 38.02

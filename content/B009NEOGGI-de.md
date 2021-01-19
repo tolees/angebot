@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31shoGtuoOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009NEOGGI-de'
+slug: 'B009NEOGGI-de Doc Johnson - TitanMen Master Tool 4-6 inch'
 actualPrice: 17.41 EUR
 currency: EUR
 price: 17.41

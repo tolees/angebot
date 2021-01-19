@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yqA8m8FhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NC1N7ZH-de'
+slug: 'B07NC1N7ZH-de camel active Herren Houston 488415/2513 Hose  Beige  Beige 23   W31/L34 Herstellergröße: 31/34 '
 actualPrice: 43.04 EUR
 currency: EUR
 price: 43.04

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AAvFBdPqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S92L6JQ-de'
+slug: 'B07S92L6JQ-de Flöckchen Kinder Aufbewahrungsbox  Spielzeugbox für Kinderzimmer I Spielzeug Box  33x33x33  passt ins Kallax Regal I Kinder Märchen Motiv  Fiona die Fee '
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

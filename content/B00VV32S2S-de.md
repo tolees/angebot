@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416f0QR4NkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VV32S2S-de'
+slug: 'B00VV32S2S-de TaoTronics Schreibtischlampe LED 12W Büro Tischleuchte 5 Farb und 7 Helligkeitsstufen dimmbar Memory-Funktion USB-Anschluss für Aufladung des Smartphones Tischlampe Augenschutz Touchfeldbedienung'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

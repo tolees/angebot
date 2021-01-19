@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41h8uIMB+CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8CYX9V-de'
+slug: 'B07M8CYX9V-de Braun Silk-Expert Pro 5 PL5137 IPL Haarentfernungsgerät für dauerhaft sichtbare Haarentfernung  für Körper und Gesicht  Präzisionsaufsatz für empfindlichere Bereiche  400.000 Lichtimpulse  weiß/gold'
 actualPrice: 379.35 EUR
 currency: EUR
 price: 379.35

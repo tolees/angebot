@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519q+2C1P9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G5MG47O-de'
+slug: 'B01G5MG47O-de Die Rosenheim-Cops - Die komplette elfte Staffel [6 DVDs]'
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

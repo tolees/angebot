@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61dawlQJYeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRBYD99-de'
+slug: 'B07PRBYD99-de Carrera GO!!! Race to Win 20062483 Autorennbahn Set'
 actualPrice: 32.7 EUR
 currency: EUR
 price: 32.7

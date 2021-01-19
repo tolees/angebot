@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514foM2R2EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5B1L9S-de'
+slug: 'B07M5B1L9S-de Philips Bartschneider BT5515/15  40 verschiedene Looks  0 4 - 20 mm   Präzisionstrimmer  Ladestand  selbstschärfende Metallklingen'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

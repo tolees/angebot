@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vwUAAQ0sL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000LAX6RI-de'
+slug: 'B000LAX6RI-de Nokia ACP-12E Reiseladegerät'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

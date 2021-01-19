@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WBQTPz+IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZL3RSMQ-de'
+slug: 'B07ZL3RSMQ-de Mammut Herren Hardshell-jacke Mit Kapuze Trovat  blau  S'
 actualPrice: 89.18 EUR
 currency: EUR
 price: 89.18

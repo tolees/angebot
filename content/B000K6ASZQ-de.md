@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Fk2RWx5vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000K6ASZQ-de'
+slug: 'B000K6ASZQ-de STABILO OHPen 853/4 M non-permanent 4er Etui '
 actualPrice: 3.08 EUR
 currency: EUR
 price: 3.08

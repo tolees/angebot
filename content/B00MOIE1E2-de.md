@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fXo1y2UGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MOIE1E2-de'
+slug: 'B00MOIE1E2-de De Longhi Autentica Cappuccino ETAM 29.660.SB Kaffeevollautomat  1450 Watt  Digitaldisplay  integriertes Milchsystem  Lieblingsgetränke auf Knopfdruck  Herausnehmbare Brühgruppe  silber'
 actualPrice: 468.34 EUR
 currency: EUR
 price: 468.34

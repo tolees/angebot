@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OVE8YFMRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010TQY7A8-de'
+slug: 'B010TQY7A8-de Asmodee Exploding Kittens: A Card Game About Kittens and Explosions and Sometimes Goats  Englisch'
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

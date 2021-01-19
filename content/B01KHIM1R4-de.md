@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wUS9ogg+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KHIM1R4-de'
+slug: 'B01KHIM1R4-de Philips LED Lampe 11 W ersetzt 75 W  E27  warmweiß  2700K  1055 Lumen  6er Pack'
 actualPrice: 19.09 EUR
 currency: EUR
 price: 19.09

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/419UlKOS3CL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FNRWNPO-de'
+slug: 'B01FNRWNPO-de HP Z5000  W2Q00AA  kabellose Maus  Bluetooth  1.200 dpi  3 Tasten  Scrollrad  schwarz / gold'
 actualPrice: 21.79 EUR
 currency: EUR
 price: 21.79

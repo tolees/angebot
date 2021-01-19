@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61cBWLZ4ZJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WVS91VM-de'
+slug: 'B06WVS91VM-de Playmobil 6932 - Pferdekutsche'
 actualPrice: 11.33 EUR
 currency: EUR
 price: 11.33

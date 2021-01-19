@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/617Z6TVtALL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WP1W8B1-de'
+slug: 'B06WP1W8B1-de PLAYMOBIL 9247 - DreamWorks Dragons  Astrid und Sturmpfeil  Ab 4 Jahren'
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VeImLqkYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MS8QAQG-de'
+slug: 'B01MS8QAQG-de Philips SHD8800/12 Over-Ear Funkkopfhörer  offen  15m Reichweite  schwarz'
 actualPrice: 73.41 EUR
 currency: EUR
 price: 73.41

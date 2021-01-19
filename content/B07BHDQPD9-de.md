@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/419Iy7FaFVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHDQPD9-de'
+slug: 'B07BHDQPD9-de Huawei P20 lite Smartphone  14.83 cm  5.84 Zoll   64GB interner Speicher  4GB RAM  16 MP Plus 2 MP Kamera  Android 8.0  EMUI 8.0  Dual SIM  Sakura Pink  West European Version '
 actualPrice: 269.99 EUR
 currency: EUR
 price: 269.99

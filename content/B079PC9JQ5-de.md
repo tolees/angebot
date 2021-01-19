@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51snQGGgzaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079PC9JQ5-de'
+slug: 'B079PC9JQ5-de One Piece World Seeker Standard - [PlayStation 4]'
 actualPrice: 15.64 EUR
 currency: EUR
 price: 15.64

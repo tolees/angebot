@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/515+0f0Sr7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004O0TOU4-de'
+slug: 'B004O0TOU4-de Ravensburger 22093 - Schnappt Hubi!'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

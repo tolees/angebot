@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JIh9U3O6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GVJYMQZ-de'
+slug: 'B07GVJYMQZ-de VATOS Ferngesteuertes Auto RC Off-Road Buggy Auto 1:16 Maßstab 36km/h 4WD 2 4GHz Funkfernsteuerung Elektro Geländewagen für Outdoor Umgebung Draußen Spielzeug Auto für Erwachsene und Kinder'
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513zLSOHm6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015QETCQ2-de'
+slug: 'B015QETCQ2-de RUBYCA 64pcs Mix Floating Charms Lot for Glass Living Memory Lockets Black and White Silver Color by'
 actualPrice: 17.03 EUR
 currency: EUR
 price: 17.03

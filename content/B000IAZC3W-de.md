@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ksr5vEdSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000IAZC3W-de'
+slug: 'B000IAZC3W-de Victorinox Fibrox Tranchiermesser  22cm  Rutschfest  Ergonomisch  Edelstahl  rostfrei  spülmaschinengeeignet  schwarz'
 actualPrice: 25.52 EUR
 currency: EUR
 price: 25.52

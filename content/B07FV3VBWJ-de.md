@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41iY5YWFXVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FV3VBWJ-de'
+slug: 'B07FV3VBWJ-de Bosch PST 700 ReadyToSaw Stichsäge inkl. Koffer 500W'
 actualPrice: 91.83 EUR
 currency: EUR
 price: 91.83

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IN3wY+eJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FY5C6L3-de'
+slug: 'B07FY5C6L3-de Lauva Pop Perlen  Schmuck Making Kits Geschenkset Bildung Lernen Spielzeug für Kleinkinder Kids Boys Girls  BPA Free Halskette Armband Ringe DIY Art Crafts Weihnachten Geburtstag Geschenke'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

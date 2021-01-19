@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41W+A2kpO6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L47FEEU-de'
+slug: 'B00L47FEEU-de uRage "Illuminated" Gaming Keyboard Tastatur  QWERTZ  an- und ausschaltbare  dreifarbige LED Beleuchtung  Präzisionsanschlag  Anti-Ghosting-Effekt  integrierte Handballenauflage  schwarz/blau'
 actualPrice: 29.23 EUR
 currency: EUR
 price: 29.23

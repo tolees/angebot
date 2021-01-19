@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418iSi7PdxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XLNQSSY-de'
+slug: 'B07XLNQSSY-de Belkin ScreenForce TemperedCurve Displayschutz für iPhone 11 Pro Max  Displayschutzfolie für iPhone 11 Pro Max  auch kompatibel mit iPhone XS Max '
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

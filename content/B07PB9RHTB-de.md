@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51v2hg6rGrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PB9RHTB-de'
+slug: 'B07PB9RHTB-de Sylvanian Families 5360 Mini-Puppen  Multi'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

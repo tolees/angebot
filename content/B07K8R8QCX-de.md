@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lWilHwhtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K8R8QCX-de'
+slug: 'B07K8R8QCX-de infactory Spielwaren: Selbstklebendes Spielbaustein-Tape für gängige Systeme  1 m  schwarz  Bauspielzeuge '
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

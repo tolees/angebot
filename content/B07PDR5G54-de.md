@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nZDHiqV+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDR5G54-de'
+slug: 'B07PDR5G54-de VARTA Day Light Multi LED F10 Taschenlampe mit 5 LEDs  inkl. 1xAA Longlife Power Batterie  ideal für Haushalt  Camping  Angeln  Garage  Notfall  Stromausfall  Outdoor '
 actualPrice: 4.31 EUR
 currency: EUR
 price: 4.31

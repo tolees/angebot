@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Dh0A8mfNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075N55DYF-de'
+slug: 'B075N55DYF-de Sylvanian Families 5285 5285-Schlafzimmer-und Schmink-Set  bunt'
 actualPrice: 14.61 EUR
 currency: EUR
 price: 14.61

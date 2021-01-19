@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qdbx8HNcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KKCWR8V-de'
+slug: 'B07KKCWR8V-de NSSZ Teddybär 6 Hand Büro Puppe Ornamente Puppe Spielzeug'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

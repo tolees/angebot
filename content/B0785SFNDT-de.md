@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IWyCTQOhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0785SFNDT-de'
+slug: 'B0785SFNDT-de PUMA - Liga - Sporttasche - Unisex - Schwarz  Puma Black  - Einheitsgröße - 63 x 33 x 26 cm'
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

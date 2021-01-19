@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fYAUJQ8OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078YG62KQ-de'
+slug: 'B078YG62KQ-de Philips 996596003606 Original Fernbedienung für 32PFS5362 49PUS610112 65PUS6262 LCD LED 3D HD Smart TV mit Netflix-Taste'
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

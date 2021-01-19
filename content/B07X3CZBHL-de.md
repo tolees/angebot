@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Fi73zWZFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X3CZBHL-de'
+slug: 'B07X3CZBHL-de Zigma Spark Saugroboter  Staubsauger Roboter mit Wischfunktion  mit Wassertank   LDS Navigation und Exklusive APP-Steuerung  staubsauger Roboter mit Kartenspeicherung für Tierhaare'
 actualPrice: 297.49 EUR
 currency: EUR
 price: 297.49

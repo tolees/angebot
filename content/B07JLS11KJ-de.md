@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512z6B-bYRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLS11KJ-de'
+slug: 'B07JLS11KJ-de Playmobil 70119 Spirit - Riding Free Reitplatz mit Lucky & Javier  bunt'
 actualPrice: 16.64 EUR
 currency: EUR
 price: 16.64

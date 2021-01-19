@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e0JyMVhdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072F3M8KP-de'
+slug: 'B072F3M8KP-de Funko 12384 POP Vinylfigur: My Hero Academia: Ochako'
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3116PfxSIqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BC3TPB8-de'
+slug: 'B01BC3TPB8-de Samsung WW80K6404QW/EG Waschmaschine FL/A+++/116 kWh/Jahr/1400 UpM/8 kg/Add Wash/WiFi Smart Control/Super Speed Wash/Digital Inverter Motor'
 actualPrice: 419.0 EUR
 currency: EUR
 price: 419.0

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41GXTwySK9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MHJ28YM-de'
+slug: 'B07MHJ28YM-de Bang & Olufsen Beoplay E8 2.0 - 100% kabellose Bluetooth-Earbuds und Ladeschale  schwarz'
 actualPrice: 269.39 EUR
 currency: EUR
 price: 269.39

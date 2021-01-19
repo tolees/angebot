@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ESAgBa9pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L93GCTO-de'
+slug: 'B01L93GCTO-de Hasbro B7493EU00 - Star Wars Rogue One Interaktiver Droid - Smart R2-D2  Actionfigur'
 actualPrice: 49.29 EUR
 currency: EUR
 price: 49.29

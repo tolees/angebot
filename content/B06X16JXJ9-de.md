@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jLW-pWlHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X16JXJ9-de'
+slug: 'B06X16JXJ9-de Adidas Adilette Shower  Herren Dusch- & Badeschuhe  Weiß  Footwear White/Core Black/Footwear White 0   40 1/2 EU'
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

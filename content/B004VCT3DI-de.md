@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uIDeQE25L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004VCT3DI-de'
+slug: 'B004VCT3DI-de Sony MDR-E9LP In-Ear / In-Ohr Kopfhörer  1 2m Kabel  Neodym-Magnet  für MP3-Player  Walkman  iPod  weiß/blau'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FKpmm7LDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MM2S6TQ-de'
+slug: 'B07MM2S6TQ-de Huawei Y7 2019 Dual-SIM Smartphone 15 9 cm  6 26 Zoll   4000mAh Akku  32 GB interner Speicher  3GB RAM  Android 8.0  midnight black'
 actualPrice: 123.0 EUR
 currency: EUR
 price: 123.0

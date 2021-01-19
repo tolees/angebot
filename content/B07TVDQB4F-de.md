@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319eIdb1UhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVDQB4F-de'
+slug: 'B07TVDQB4F-de Pop Trolls Teal Troll Vinyl Figure'
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

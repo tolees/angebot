@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PheKmYo+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0001FGBD4-de'
+slug: 'B0001FGBD4-de Concord Jazz Sacd Sampler Vol.'
 actualPrice: 8.93 EUR
 currency: EUR
 price: 8.93

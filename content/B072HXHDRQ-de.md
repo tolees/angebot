@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kyRfKqt+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072HXHDRQ-de'
+slug: 'B072HXHDRQ-de POP! Games: "FNAF SL" Funtime Freddy'
 actualPrice: 4.18 EUR
 currency: EUR
 price: 4.18

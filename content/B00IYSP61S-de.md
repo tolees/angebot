@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+n5MbMlxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IYSP61S-de'
+slug: 'B00IYSP61S-de Rekord'
 actualPrice: 2.86 EUR
 currency: EUR
 price: 2.86

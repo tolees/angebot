@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21NFeZXwQXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CTO4D1W-de'
+slug: 'B00CTO4D1W-de Inter Link 99200210 Regalbox Regalkorb Aufbewahrungsbox Schrankbox Box Würfel faltbar Regal beige'
 actualPrice: 3.96 EUR
 currency: EUR
 price: 3.96

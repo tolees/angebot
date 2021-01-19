@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mi2vDblUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0753LF9LN-de'
+slug: 'B0753LF9LN-de Top Race Halloween Ghost Drone  6 Gyro 2 4 GHz Flying Ghost Quadcopter Drohne Bester Halloween-Streich. TR-G1'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

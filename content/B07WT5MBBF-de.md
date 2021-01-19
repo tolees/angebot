@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511gBezRPYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WT5MBBF-de'
+slug: 'B07WT5MBBF-de SuperZings PSZ4D824IN00 Serie 4 Blaster Jet'
 actualPrice: 2.17 EUR
 currency: EUR
 price: 2.17

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517bdw5L20L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VT289WT-de'
+slug: 'B07VT289WT-de USB WiFi Digital Mikroskop  Pancellent 1000 x Vergrößerung Magnification  mit 8-LEDs für PC Computer Windows IOS Android Handys  12er-Pack Diasammlung'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

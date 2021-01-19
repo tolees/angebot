@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Z3z2G1n-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CY5JGWJ-de'
+slug: 'B07CY5JGWJ-de Samsung MB-ME128GA/EU EVO Select 128 GB microSDXC UHS-I U3 Speicherkarte inkl. SD-Adapter Weiß/Grun'
 actualPrice: 25.29 EUR
 currency: EUR
 price: 25.29

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QfnVTHs9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNTFHD5-de'
+slug: 'B07VNTFHD5-de WD Black P10 Game Drive externe Festplatte 5 TB  mobile und robuste High-Perfomance-Festplatte  für Konsole und PC   bis zu 125 Spiele speichern   Schwarz'
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

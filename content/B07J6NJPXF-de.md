@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LtQgM8kDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J6NJPXF-de'
+slug: 'B07J6NJPXF-de Funko POP Hey Arnold Gerald JOHANSSE'
 actualPrice: 4.09 EUR
 currency: EUR
 price: 4.09

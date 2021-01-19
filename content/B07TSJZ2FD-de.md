@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51D9Scu1CPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSJZ2FD-de'
+slug: 'B07TSJZ2FD-de BRIKSMAX Led Beleuchtungsset für Lego Technic Rallyeauto  Kompatibel Mit Lego 42077 Bausteinen Modell - Ohne Lego Set'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516luGFr-tL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CP9ND9M-de'
+slug: 'B07CP9ND9M-de Panasonic TX-43FSW504 43 Zoll/108 cm Smart TV  TV LED Backlight  Full HD  Quattro Tuner  HDR  schwarz '
 actualPrice: 459.0 EUR
 currency: EUR
 price: 459.0

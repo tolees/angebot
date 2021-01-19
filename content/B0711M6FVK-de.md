@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hSuZC8LgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0711M6FVK-de'
+slug: 'B0711M6FVK-de Under Armour Damen Fly Fast Tight Legging  schwarz Black / Black / Reflective  MD'
 actualPrice: 38.47 EUR
 currency: EUR
 price: 38.47

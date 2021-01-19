@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31QuoS6X56L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B081B1T7VP-de'
+slug: 'B081B1T7VP-de Bose SoundTouch 20 Series III wireless music system'
 actualPrice: 199 EUR
 currency: EUR
 price: 199

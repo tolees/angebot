@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51K9W+nRcNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018EALH22-de'
+slug: 'B018EALH22-de Mattel Games DPX25 - Mister Pups lustiges Kartenspiel und Kinderspiel geeignet für 2 - 6 Spieler  Kinderspiele ab 5 Jahren'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4158HkGGXsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074F2G8ZP-de'
+slug: 'B074F2G8ZP-de ViewSonic VP3881 95 3 cm  38 Zoll  Fotografen Monitor mit Kalibrierfunktion  WQHD+  IPS-Panel  100% sRGB  Curved  HDR10  USB C  HDMI 2.0  DP  schwarz'
 actualPrice: 830.0 EUR
 currency: EUR
 price: 830.0

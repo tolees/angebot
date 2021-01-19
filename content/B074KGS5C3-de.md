@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410WD7HJKPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074KGS5C3-de'
+slug: 'B074KGS5C3-de Logitech Craft Kabellose Tastatur  Bluetooth & 2.4 GHz Wireless Verbindung  Programmierbarer Drehregler  Automatische Tastenbeleuchtung  Multi-Device  PC/Mac/Laptop  Deutsches QWERTZ-Layout - schwarz'
 actualPrice: 125.99 EUR
 currency: EUR
 price: 125.99

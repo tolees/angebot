@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412-16OaNFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004LAXG9C-de'
+slug: 'B004LAXG9C-de TUGA Chemie Felgenreiniger Alu-Teufel Spezial  Sprühflasche  1000 ml'
 actualPrice: 9.74 EUR
 currency: EUR
 price: 9.74

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-OozTUhBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JGSYM9C-de'
+slug: 'B08JGSYM9C-de Catalonia TV Decke Sherpa Kuscheldecke mit Ärmel- und Fußtaschen Vlies-Decke große Wickeldecke zum Überwerfen  für Damen und Herren  190 x 135 cm  Grau'
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

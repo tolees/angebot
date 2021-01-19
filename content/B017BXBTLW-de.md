@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318mAQ-XVCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017BXBTLW-de'
+slug: 'B017BXBTLW-de Schwiizer Schüümli Gastronom Ganze Kaffeebohnen  1kg  Stärkegrad 2/5  Premium Arabica  1er Pack x 1kg'
 actualPrice: 11.09 EUR
 currency: EUR
 price: 11.09

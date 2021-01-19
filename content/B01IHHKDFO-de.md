@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416qXntSyiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IHHKDFO-de'
+slug: 'B01IHHKDFO-de Wrigley s Extra Professional Strong Mint Dose  50 Dragees'
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

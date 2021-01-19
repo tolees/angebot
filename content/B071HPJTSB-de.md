@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Spnll3CtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071HPJTSB-de'
+slug: 'B071HPJTSB-de Tommy Hilfiger Herren CORE Stretch Slim Vneck Tee T-Shirt  Blau  Navy Blazer 416   Large'
 actualPrice: 19.92 EUR
 currency: EUR
 price: 19.92

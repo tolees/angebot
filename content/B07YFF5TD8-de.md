@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AGsRRvalL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFF5TD8-de'
+slug: 'B07YFF5TD8-de Kohlenmonoxid Warnmelder LCD Anzeige CO Melder 85Db Alarm Kohlenmonoxidsensor Kohlenmonoxid Melder mit Prüftaste Batteriebetrieb'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

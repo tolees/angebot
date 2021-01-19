@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wVDSlbE7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G6MBCG3-de'
+slug: 'B07G6MBCG3-de Ultimate Ears Boom 3 Tragbarer Bluetooth-Lautsprecher  360° Sound  Satter Bass  Wasserdicht  Staubresistent & Sturzfest  One-Touch-Musiksteuerung  15-Stunden Akkulaufzeit - Night Black/schwarz'
 actualPrice: 78.84 EUR
 currency: EUR
 price: 78.84

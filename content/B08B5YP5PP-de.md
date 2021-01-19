@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GDuQbAx+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B5YP5PP-de'
+slug: 'B08B5YP5PP-de Echo Plus  2. Gen.   Anthrazit Stoff + Philips Hue White LED-Lampe'
 actualPrice: 68.23 EUR
 currency: EUR
 price: 68.23

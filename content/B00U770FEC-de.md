@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uHCULiAYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U770FEC-de'
+slug: 'B00U770FEC-de Dickie 203715001 Toys City Fire Engine  Feuerwehrauto mit manueller Wasserspritze  Feuerwehr  Einsatzfahrzeug  Licht & Sound  31 cm  ab 3 Jahren'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

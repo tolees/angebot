@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ouEDBg7SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001JNNDEC-de'
+slug: 'B001JNNDEC-de Die Suche Geht Weiter  Jewelbox '
 actualPrice: 3.34 EUR
 currency: EUR
 price: 3.34

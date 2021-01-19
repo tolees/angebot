@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417EfpcWfOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XSDFBWF-de'
+slug: 'B07XSDFBWF-de Akku Schlagschrauber  WESCO 18V 2.0Ah System Akku Schlagbohrschrauber  110Nm  Nennschlagzahl 0-3400bpm  Bohrfutter Spannweite 6 35mm 1/4 Zoll  inkl. Einsätze  Akku und Ladegerät WS2318'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

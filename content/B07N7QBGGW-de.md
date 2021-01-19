@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/310qHXMjdRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N7QBGGW-de'
+slug: 'B07N7QBGGW-de beyerdynamic Phonum Wireless Bluetooth Speakerphone Freisprecheinrichtung für Skype  Google Handouts  Cisco WebEx  Spark  Zoom  VoIP Kommunikation  Telefonkonferenzen  PC Mac und Windows'
 actualPrice: 199 EUR
 currency: EUR
 price: 199

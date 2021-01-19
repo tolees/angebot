@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413pP2zjBbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BGTG3JA-de'
+slug: 'B01BGTG3JA-de SanDisk SDCZ43-064G-GAM46 USB-Flash-Laufwerk USB 3.0 bis zu 150 MB/S  64 GB Schwarz / Silberfarben'
 actualPrice: 16.83 EUR
 currency: EUR
 price: 16.83

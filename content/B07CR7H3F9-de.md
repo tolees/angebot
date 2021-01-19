@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IRfGY5OUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CR7H3F9-de'
+slug: 'B07CR7H3F9-de Fairy Ultra Plus Konzentrat Original Spülmittel  800 ml'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

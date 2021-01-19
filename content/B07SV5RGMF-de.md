@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UcOqykQML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SV5RGMF-de'
+slug: 'B07SV5RGMF-de Reolink Akku Überwachungskamera Aussen WLAN 355°/140° schwenkbar  kabellose 1080p HD IP Kamera mit PIR Bewegungsmelder  Sternelicht Nachtsicht  und 2-Wege-Audio  Argus PT'
 actualPrice: 125.99 EUR
 currency: EUR
 price: 125.99

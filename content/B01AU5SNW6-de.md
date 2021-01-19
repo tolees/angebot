@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IyB75NzhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AU5SNW6-de'
+slug: 'B01AU5SNW6-de Bosch Professional 5 tlg. Hammerbohrer SDS Plus-7X Set  für Beton und Mauerwerk  Robust Line  Zubehör Bohrhammer '
 actualPrice: 14.74 EUR
 currency: EUR
 price: 14.74

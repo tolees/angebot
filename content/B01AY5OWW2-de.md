@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BayuO-cGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AY5OWW2-de'
+slug: 'B01AY5OWW2-de UGG Damen W Mini Bailey Button Bling Stiefeletten  Schwarz  Black BLK   37 EU'
 actualPrice: 131.54 EUR
 currency: EUR
 price: 131.54

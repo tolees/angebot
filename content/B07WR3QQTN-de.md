@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gyr8tnrFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WR3QQTN-de'
+slug: 'B07WR3QQTN-de Bluetooth Kopfhörer  Kopfhörer Kabellos In Ear Ohrhörer Sport Wireless Kopfhörer Bluetooth 5.0 Headset 6D Stereo Kabellose Kopfhörer mit 120H Standby-Zeit  IPX7 Wasserdicht  LED-Anzeige  Touch Control'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

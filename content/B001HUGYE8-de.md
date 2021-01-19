@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kOIz6saTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001HUGYE8-de'
+slug: 'B001HUGYE8-de E-Mail für Dich [Special Edition]'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KR+BARqNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BJ3ZTIY-de'
+slug: 'B01BJ3ZTIY-de Bauerfeind Kniebandage „Knee Support“ für Männer  1 Sportkniebandage für Fußball  Joggen oder Fitness  Meniskus Knie-Bandage mit Silikonring  Rechts & links tragbar'
 actualPrice: 63.2 EUR
 currency: EUR
 price: 63.2

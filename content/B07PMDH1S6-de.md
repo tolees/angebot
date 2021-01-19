@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415hgZNESTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMDH1S6-de'
+slug: 'B07PMDH1S6-de WLAN Steckdose Smart Steckdose TECKIN Smart Plug Stecker Fernbedienbar und Sprachsteuerung IP Steckdosen Stromverbrauch messen  funktioniert mit Google Home und Alexa  auf NUR 2.4 GHz Netzwerk  4 Pack'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

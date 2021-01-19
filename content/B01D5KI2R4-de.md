@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61RtkNjZqVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D5KI2R4-de'
+slug: 'B01D5KI2R4-de Onibaba - Die Töterinnen  Filmjuwelen  [Blu-ray]'
 actualPrice: 10.48 EUR
 currency: EUR
 price: 10.48

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RfKYnpvqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003VEILMG-de'
+slug: 'B003VEILMG-de Bosch Professional 12V System Akku Bohrschrauber GSR 12V-15  ohne Akkus & Ladegerät  im Karton '
 actualPrice: 48.9 EUR
 currency: EUR
 price: 48.9

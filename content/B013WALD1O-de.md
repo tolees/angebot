@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qWB6wYtuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013WALD1O-de'
+slug: 'B013WALD1O-de Bosch Professional Bohrmaschine GBM 13-2 RE  Schnellspannbohrfutter 13 mm '
 actualPrice: 199.9 EUR
 currency: EUR
 price: 199.9

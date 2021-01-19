@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418-Wl6hskL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BCE30RS-de'
+slug: 'B00BCE30RS-de Logitech MK270 Kabelloses Tastatur-Maus Set  2.4 GHz Wireless Verbindung via Nano USB-Empfänger  Lange Akkulaufzeit  Für Windows und ChromeOS PCs/Laptops  Deutsches QWERTZ-Layout - Schwarz'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

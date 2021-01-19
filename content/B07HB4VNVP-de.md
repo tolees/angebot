@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DFMoXHZnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HB4VNVP-de'
+slug: 'B07HB4VNVP-de Pop Billy Idol Vinyl Figure'
 actualPrice: 5.17 EUR
 currency: EUR
 price: 5.17

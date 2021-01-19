@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f2xQb9kOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PFL3LFK-de'
+slug: 'B07PFL3LFK-de Old Spice Citron Anti-Transpirant und Deo-Stick für Herren  50 ml  1 Packung mit 6 Einheiten'
 actualPrice: 16.3 EUR
 currency: EUR
 price: 16.3

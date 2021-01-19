@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310NK+vncFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYYXTRE-de'
+slug: 'B01MYYXTRE-de MEDION Küchenmaschine mit Kochfunktion  1000 Watt Leistung  2 Liter Edelstahlschüssel  Koch und Mixaufsatz  Dampfgaraufsatz  Rezeptbuch  MD 16361'
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hX+2Es+vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHPXHQS-de'
+slug: 'B07PHPXHQS-de Echo Dot  3. Gen.  Intelligenter Lautsprecher mit Alexa  Anthrazit Stoff'
 actualPrice: 48.72 EUR
 currency: EUR
 price: 48.72

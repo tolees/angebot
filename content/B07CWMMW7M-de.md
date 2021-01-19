@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cs6nIGcUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CWMMW7M-de'
+slug: 'B07CWMMW7M-de Fdit 2er Universal Gasherd Herd Knopf Teil für kindersicherheit Metall Drehschalter Steuerknöpfe Ersatz'
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

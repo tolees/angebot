@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41x1Bo4nS8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N10SBT4-de'
+slug: 'B01N10SBT4-de PDP Nintendo Switch The Legend of Zelda: Breath of the Wild Premium Reiseetui für Konsole und Spiele  500-006'
 actualPrice: 11.76 EUR
 currency: EUR
 price: 11.76

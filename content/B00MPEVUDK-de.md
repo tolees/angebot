@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TH4ZBa7XL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MPEVUDK-de'
+slug: 'B00MPEVUDK-de Philips Disney Frozen  Die Eiskönigin  Olaf LED Taschenlampe  hellblau  717670816'
 actualPrice: 5.17 EUR
 currency: EUR
 price: 5.17

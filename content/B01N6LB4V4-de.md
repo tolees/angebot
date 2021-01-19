@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eVFy6ORwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6LB4V4-de'
+slug: 'B01N6LB4V4-de Meister Werkzeugtrolley 156-teilig - Werkzeug-Set - Mit Rollen - Teleskophandgriff / Profi Werkzeugkoffer befüllt / Werkzeugkiste fahrbar auf Rollen / Werkzeugbox komplett mit Werkzeug / 8971440'
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

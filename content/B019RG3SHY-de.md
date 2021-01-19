@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Rs0gKal1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019RG3SHY-de'
+slug: 'B019RG3SHY-de Kosmos AllesKönnerKiste 604257 - Schnitzen Komplett-Set'
 actualPrice: 22.13 EUR
 currency: EUR
 price: 22.13

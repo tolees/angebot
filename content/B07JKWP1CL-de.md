@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/514a2TDINHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKWP1CL-de'
+slug: 'B07JKWP1CL-de Playmobil 70009 SuperSet Galaxy Police Gefängnis  bunt'
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

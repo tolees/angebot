@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41W+pQ9UB0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPHL1ZB-de'
+slug: 'B07KPHL1ZB-de Funko 38551 POP Vinyl: Castlevania: Adrian Tepes Sammelbares Spielzeug  Mehrfarben'
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

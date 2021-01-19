@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512Pk0q1YgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000SO7OL6-de'
+slug: 'B000SO7OL6-de The Very Best Of Diana Krall'
 actualPrice: 3.92 EUR
 currency: EUR
 price: 3.92

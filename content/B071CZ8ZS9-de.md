@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hr+Jm1J6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071CZ8ZS9-de'
+slug: 'B071CZ8ZS9-de Satisfyer 1 Next Generation  Klitoris-Sauger mit 11 Intensitätsstufen  Auflege-Vibrator mit Batteriebetrieb  wasserdicht'
 actualPrice: 14.15 EUR
 currency: EUR
 price: 14.15

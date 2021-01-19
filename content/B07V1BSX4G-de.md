@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317bnmpHpsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V1BSX4G-de'
+slug: 'B07V1BSX4G-de LEDVANCE LED Wand- und Deckenleuchte  Leuchte für Außenanwendungen  Warmweiß  Endura Style Updown Deco'
 actualPrice: 12.77 EUR
 currency: EUR
 price: 12.77

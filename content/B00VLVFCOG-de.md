@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61xtmsLQZuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VLVFCOG-de'
+slug: 'B00VLVFCOG-de Playmobil 5306 - Buntes Kinderzimmer'
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

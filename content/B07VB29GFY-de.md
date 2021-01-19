@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RE0M7eNhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VB29GFY-de'
+slug: 'B07VB29GFY-de Intenso USB-Stick Ultra Line 256 GB USB 3.0'
 actualPrice: 19.41 EUR
 currency: EUR
 price: 19.41

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KxKhv+zAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G3DHY8C-de'
+slug: 'B07G3DHY8C-de Samsung T835 Galaxy Tab S4 LTE Tablet-PC  4GB RAM  schwarz'
 actualPrice: 317.0 EUR
 currency: EUR
 price: 317.0

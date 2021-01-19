@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lErxc6fdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L1HAYUW-de'
+slug: 'B00L1HAYUW-de Exquisit KS 85-9 RVA+ Kühlschrank/ 82 Liter Nutzinhalt/ EEK: A+/ Türanschlag wechselbar'
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0

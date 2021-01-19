@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313EWF3q+-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VVG8T1L-de'
+slug: 'B07VVG8T1L-de ATOMIC Unisex – Erwachsene Count 360 Goggles  Rot/Pink-Gelb Stereo  One Size'
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

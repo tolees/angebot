@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316VfeG+2mL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005LOKVZY-de'
+slug: 'B005LOKVZY-de Jil Sander Eve femme / woman  Eau de Toilette  Vaporisateur / Spray  1er Pack  1 x 30 ml '
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516bYhATD1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013HFR2JG-de'
+slug: 'B013HFR2JG-de Unheimliche Begegnung der Dritten Art [Blu-ray]'
 actualPrice: 5.55 EUR
 currency: EUR
 price: 5.55

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Bw7aSo4pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Q5XF7B-de'
+slug: 'B077Q5XF7B-de Siemens PowerProtect Staubsaugerbeutel VZ16GALL  16 Stück   mit Verschluss  effizienter Motorschutz  50% längere Nutzungsdauer  alle Baureihen außer VS08  VS01'
 actualPrice: 25.07 EUR
 currency: EUR
 price: 25.07

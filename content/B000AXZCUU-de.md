@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NGPoHNwtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000AXZCUU-de'
+slug: 'B000AXZCUU-de We Get Requests  Verve Originals Serie '
 actualPrice: 4.29 EUR
 currency: EUR
 price: 4.29

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eY3QGUM5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X9J7D1W-de'
+slug: 'B06X9J7D1W-de Boston [Blu-ray]'
 actualPrice: 6.33 EUR
 currency: EUR
 price: 6.33

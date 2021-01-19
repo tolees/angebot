@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pcugmJ4rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NH3F8C6-de'
+slug: 'B07NH3F8C6-de Neato Robotics D450 945-0343 Saugroboter Exklusive Tier Edition  Intelligenter Staubsauger-Roboter mit Ladestation  Wi-Fi und App  Roboterstaubsauger kompatibel mit Alexa'
 actualPrice: 406.99 EUR
 currency: EUR
 price: 406.99

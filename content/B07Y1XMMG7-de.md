@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hd2466ipL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y1XMMG7-de'
+slug: 'B07Y1XMMG7-de Systemsprenger'
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

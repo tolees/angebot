@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w0rb3x4bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDQWK9Q-de'
+slug: 'B06XDQWK9Q-de Coma Ecliptic Live'
 actualPrice: 5.73 EUR
 currency: EUR
 price: 5.73

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Uef-IQNFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007NC8Z0A-de'
+slug: 'B007NC8Z0A-de Durex Play Perfect Glide Gleitgel auf Silikonbasis – Seidig-glattes Gleitgel für langanhaltenden Spaß – 1 x 50 ml in der praktischen Dosierflasche'
 actualPrice: 5.18 EUR
 currency: EUR
 price: 5.18

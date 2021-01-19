@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xwpMKWqaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RBRNWYG-de'
+slug: 'B07RBRNWYG-de YLCJ Milan Nordic American Retro industria pesada metal lámpara de pared artesanal ajustable industrial de hierro y minería Garaje cocina mesa de comedor lámpara de pared'
 actualPrice: 65.97 EUR
 currency: EUR
 price: 65.97

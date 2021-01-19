@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Yl7dzOG3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DBXQCSK-de'
+slug: 'B07DBXQCSK-de Puma Popcat  Unisex-Erwachsene Dusch- & Badeschuhe  Violett  Elderberry-Puma Team Gold 42   43 EU'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

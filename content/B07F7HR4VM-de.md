@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LLdg7Ee+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F7HR4VM-de'
+slug: 'B07F7HR4VM-de Yamaha MusicCast 50 Musikbox  Multiroom Stereo-Lautsprecher kompatibel mit Alexa Sprachsteuerung - bequem Musik streamen – Wireless Speaker mit raumfüllendem Klang  schwarz'
 actualPrice: 357.99 EUR
 currency: EUR
 price: 357.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Pk2lS0daL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KIHXS7W-de'
+slug: 'B00KIHXS7W-de devolo dLAN 550 duo+ Starter Kit Powerline  500 Mbit/s Internet aus der Steckdose  2x LAN Ports  2x Powerlan Adapter  integrierte Steckdose  PLC Netzwerkadapter  weiß'
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

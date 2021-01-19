@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31khTCuEpML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T8BJ4MC-de'
+slug: 'B07T8BJ4MC-de Polaroid Originals OneStep 2 VF Camera - Coral'
 actualPrice: 78.95 EUR
 currency: EUR
 price: 78.95

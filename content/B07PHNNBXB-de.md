@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Wk1+0xC8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHNNBXB-de'
+slug: 'B07PHNNBXB-de SAMSONITE Checkmate - Laptop Backpack - Double Pocket Rucksack  44 cm  22.5 Liter  Grey'
 actualPrice: 143.04 EUR
 currency: EUR
 price: 143.04

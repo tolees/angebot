@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NXdtB3KWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B4VRFM0-de'
+slug: 'B00B4VRFM0-de Fossil Herren Chronograph Quarz Uhr mit Edelstahl Armband FS4778'
 actualPrice: 83.01 EUR
 currency: EUR
 price: 83.01

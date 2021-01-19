@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oWPUivF6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0823XF5WH-de'
+slug: 'B0823XF5WH-de OBEEII Mädchen ELSA Kostüm Prinzessin Kleid mit Umhang Frozen Eiskönigi Bekleidung für Kinder Blau Kärmellos Kleidung Weihnachten Verkleidung Karneval Party Halloween Fest Set 5-6 Jahre'
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

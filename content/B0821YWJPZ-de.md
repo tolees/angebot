@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nRQA40pUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0821YWJPZ-de'
+slug: 'B0821YWJPZ-de Acer Aspire 3  A315-54-58ZK  39 6 cm  15 6 Zoll Full-HD matt  Multimedia Laptop  Intel Core i5-10210U  8 GB RAM  1.000 GB PCIe SSD  Intel UHD  Win 10 Home  schwarz'
 actualPrice: 340.0 EUR
 currency: EUR
 price: 340.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ff9M2L2BL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGMD9ND-de'
+slug: 'B07WGMD9ND-de SEIKO Automatische Uhr SRPD53K1  blau  Sport'
 actualPrice: 189.2 EUR
 currency: EUR
 price: 189.2

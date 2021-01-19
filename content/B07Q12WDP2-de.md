@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FXV1tooHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q12WDP2-de'
+slug: 'B07Q12WDP2-de Marshall Stockwell II Tragbarer Lautsprecher - schwarz'
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

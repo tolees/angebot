@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fMrbP4jNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0009IQXJ0-de'
+slug: 'B0009IQXJ0-de Meguiar s G7516EU Endurance High Gloss Tyre Gel Reifenglanz  473 ml'
 actualPrice: 10.76 EUR
 currency: EUR
 price: 10.76

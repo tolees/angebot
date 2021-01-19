@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41afgNuvznL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B53QYV4-de'
+slug: 'B07B53QYV4-de G-STAR RAW Damen Lynn Mid Skinny Jeans  Lt Aged 8968-424  24W / 28L'
 actualPrice: 42.02 EUR
 currency: EUR
 price: 42.02

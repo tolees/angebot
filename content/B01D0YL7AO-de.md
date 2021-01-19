@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zd6ryhS-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D0YL7AO-de'
+slug: 'B01D0YL7AO-de Pica Marker Dry Longlife Automatic Pen 3030 + 10 St. Graphit-Mine 4050  Ersatzminen  Härte H'
 actualPrice: 15.75 EUR
 currency: EUR
 price: 15.75

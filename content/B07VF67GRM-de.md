@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fZ-OE7QEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VF67GRM-de'
+slug: 'B07VF67GRM-de WYANG Kerzenhalter Kerzenhalter Eisen Schwarz Gold Runde Kreis Craft Schreibtisch für Candlelight Dinner Home Office Schlafzimmer Wohnzimmer Dekor 2# '
 actualPrice: 12.69 EUR
 currency: EUR
 price: 12.69

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/412MWEhLUNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YKRT63-de'
+slug: 'B079YKRT63-de Funko 26992 Actionfigur Star Wars Red Cup - Pop 16'
 actualPrice: 7.45 EUR
 currency: EUR
 price: 7.45

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QS6cMxMKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QKZCGBR-de'
+slug: 'B07QKZCGBR-de Grillido Sportwurst Original 25er Pack| Die Power Salami mit wenig Fett| Der Ideale herzhafte Snack für Unterwegs'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

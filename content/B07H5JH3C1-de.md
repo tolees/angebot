@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mglkLLB6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5JH3C1-de'
+slug: 'B07H5JH3C1-de Lintelek Fitness Tracker Fitness Armband Fitness Uhr Schrittzähler Pulsmesser Herzfrequenzgerät Schlafmonitor IP67 Wasserdicht Anruf SMS Benachrichtigungen'
 actualPrice: 29.88 EUR
 currency: EUR
 price: 29.88

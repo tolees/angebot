@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51loHCwugSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08398BQXL-de'
+slug: 'B08398BQXL-de Wanbasion 6 Teilig scharfe Messer Set küche Edelstahl  küchen Messer Set scharf damast  Profi Messer Set für köche kochmesser damastmesser rostfrei'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

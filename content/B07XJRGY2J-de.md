@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZqbPQg-VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XJRGY2J-de'
+slug: 'B07XJRGY2J-de HP Pavilion Gaming TG01-0016ng Desktop  Intel Core i5-9400F  16GB DDR4 RAM  1TB HDD  512GB SSD  Nvidia GeForce GTX 1660Ti 6GB GDDR6  Windows 10 Home  schwarz/grün'
 actualPrice: 510.0 EUR
 currency: EUR
 price: 510.0

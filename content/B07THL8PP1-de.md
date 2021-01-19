@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UaSgPJKoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07THL8PP1-de'
+slug: 'B07THL8PP1-de Anker Wireless Charger PowerWave Ladepad Doppelpack  Zwei Kabellose 7.5W Ladegeräte  Qi-Zertifiziert  7.5W für iPhone 11/XR/XS/X/8  10W für Samsung Galaxy S20/S10/S9/S9+/S8  Netzteil Nicht inklusive '
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

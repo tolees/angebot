@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bBxvH+0QL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4QB81P-de'
+slug: 'B07G4QB81P-de Samsung EE-D3100T Charging Dock Pogo Schwarz'
 actualPrice: 27.76 EUR
 currency: EUR
 price: 27.76

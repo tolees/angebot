@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3140ctkW7wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BOZ79UO-de'
+slug: 'B00BOZ79UO-de One Step Looper Tool-'
 actualPrice: 24.69 EUR
 currency: EUR
 price: 24.69

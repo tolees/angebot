@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YBrIGoU2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0037EEK7A-de'
+slug: 'B0037EEK7A-de Yankee Candle Duftkerze im großen Jar  Vanilla Cupcake  Brenndauer bis zu 150 Stunden'
 actualPrice: 18.79 EUR
 currency: EUR
 price: 18.79

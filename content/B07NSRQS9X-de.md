@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JSL8MetgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NSRQS9X-de'
+slug: 'B07NSRQS9X-de Funko Schlüsselanhänger Pop – SOS Geister – Bouftou'
 actualPrice: 4.3 EUR
 currency: EUR
 price: 4.3

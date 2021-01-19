@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GrPqEsX3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4MTCTQ-de'
+slug: 'B07W4MTCTQ-de Mini Kinder Spielen Küche  Moderne rote Küche Spielzeug Küche Spielset Spaß mit Freunden Küche Mädchen Jungen Geschenk'
 actualPrice: 22.19 EUR
 currency: EUR
 price: 22.19

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516jEbMInQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019YGSB06-de'
+slug: 'B019YGSB06-de Ravensburger Spiele 24721 - Spielend Erstes Lernen: Komm  wir kaufen EIN'
 actualPrice: 8.29 EUR
 currency: EUR
 price: 8.29

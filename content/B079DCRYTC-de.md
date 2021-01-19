@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417Own7gfjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079DCRYTC-de'
+slug: 'B079DCRYTC-de Skagen Herren Analog Quarz Uhr mit Leder Armband SKW6459'
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

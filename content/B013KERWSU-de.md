@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DskuGEvjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013KERWSU-de'
+slug: 'B013KERWSU-de Unbekannt Creative Converting 5 Dizzy Danglers  Sortiert mit Aussparungen'
 actualPrice: 1.45 EUR
 currency: EUR
 price: 1.45

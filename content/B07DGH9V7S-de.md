@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CbJvGlSvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DGH9V7S-de'
+slug: 'B07DGH9V7S-de Oral-B Vitality 100 CrossAction Elektrische Zahnbürste Powered By Braun  weiß'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

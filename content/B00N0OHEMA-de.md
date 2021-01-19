@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xpWcBNMOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N0OHEMA-de'
+slug: 'B00N0OHEMA-de TP-Link TL-SG105E 5-Ports Gigabit Easy Smart Managed Netzwerk Switch 5 Gigabit-RJ45-Ports  Metallgehäuse  optimiert Datenverkehr  IGMP-Snooping  zentrales Management  energieeffizient schwarz metallic'
 actualPrice: 20.29 EUR
 currency: EUR
 price: 20.29

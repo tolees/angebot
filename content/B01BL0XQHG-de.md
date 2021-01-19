@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61hTgF4ZanL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BL0XQHG-de'
+slug: 'B01BL0XQHG-de 5 Original Albums'
 actualPrice: 6.68 EUR
 currency: EUR
 price: 6.68

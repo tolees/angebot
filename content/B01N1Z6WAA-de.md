@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31icw2Kah-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N1Z6WAA-de'
+slug: 'B01N1Z6WAA-de Xoro SAT>IP Server 8100  4X DVB-S2 Eingänge  maximal 8 Ausgänge  HDTV  Gigabit LAN  TV/Radio Livestream  schwarz'
 actualPrice: 122.81 EUR
 currency: EUR
 price: 122.81

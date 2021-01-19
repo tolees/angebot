@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51e3m5w6xWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HETFQKS-de'
+slug: 'B01HETFQKS-de Bose SoundLink Color II  Bluetooth - Outdoor - Lautsprecher   wasserdicht IPX4   Grau'
 actualPrice: 107.03 EUR
 currency: EUR
 price: 107.03

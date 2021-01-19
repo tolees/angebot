@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21HK8x+2jAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDHW9W5-de'
+slug: 'B07PDHW9W5-de Samsung HW-R530 Soundbar  Bluetooth  Surround Ready - Kompatibel mit SWA-8500S  Subwoofer  Schwarz'
 actualPrice: 242.43 EUR
 currency: EUR
 price: 242.43

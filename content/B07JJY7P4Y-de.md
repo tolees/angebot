@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JXuubyhOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JJY7P4Y-de'
+slug: 'B07JJY7P4Y-de Winning Moves GmbH 11545 - Cluedo: The Walking Dead AMC'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

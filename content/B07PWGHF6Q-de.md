@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419gRm3VX-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PWGHF6Q-de'
+slug: 'B07PWGHF6Q-de HP 14-dk0008ng  14 Zoll / FHD IPS  Laptop  AMD Ryzen 7 3700U  8 GB DDR4 RAM  1 TB HDD  128 GB SSD  AMD Radeon RX Vega 10  Windows 10 Home  silber'
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

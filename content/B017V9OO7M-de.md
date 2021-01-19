@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/611L3vOV3UL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017V9OO7M-de'
+slug: 'B017V9OO7M-de Mädchen gegen Jungs'
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

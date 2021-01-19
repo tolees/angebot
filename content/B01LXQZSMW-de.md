@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Q92V-eT4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXQZSMW-de'
+slug: 'B01LXQZSMW-de Samsonite - Openroad Bailhandle 15 6" Erweiterbar  Schwarz  Jet SCHWARZ '
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

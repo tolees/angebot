@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AB-MtKaHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CAE8PM4-de'
+slug: 'B00CAE8PM4-de Rode Rycote Edition VideoMic  Line Gradient  Polar Pattern '
 actualPrice: 58.21 EUR
 currency: EUR
 price: 58.21

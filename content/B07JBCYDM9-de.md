@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i+x+QArlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBCYDM9-de'
+slug: 'B07JBCYDM9-de Trust GXT Mechanische Gaming Tastatur mit LED Beleuchtung  Deutsches QWERTZ Layout  Rote Schalter  Anti-Ghosting N-Key-Rollover  Metall Oberplatte  schwarz'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

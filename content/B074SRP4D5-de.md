@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-XyQ0LuDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074SRP4D5-de'
+slug: 'B074SRP4D5-de Tommy Hilfiger Herren CORE Cotton-Silk CNECK Pullover  Blau  Sky Captain 403   Medium'
 actualPrice: 50.93 EUR
 currency: EUR
 price: 50.93

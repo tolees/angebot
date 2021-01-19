@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yJ-KVSvBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CHNV628-de'
+slug: 'B07CHNV628-de Worx 40V  2 x 20V/4.0Ah  Max Li-Ion 34 cm Akku-Rasenmäher WG779E.1'
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

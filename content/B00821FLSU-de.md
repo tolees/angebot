@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fyiq++b8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00821FLSU-de'
+slug: 'B00821FLSU-de Ubbi 10006 Stahl Windeleimer  grau'
 actualPrice: 50.71 EUR
 currency: EUR
 price: 50.71

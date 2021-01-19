@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61VyciTyT9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0AEM5I-de'
+slug: 'B01N0AEM5I-de Der Mann ohne Nerven  Breakout  [Blu-ray]'
 actualPrice: 6.74 EUR
 currency: EUR
 price: 6.74

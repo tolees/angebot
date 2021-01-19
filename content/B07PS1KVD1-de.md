@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Rlhvl2mdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PS1KVD1-de'
+slug: 'B07PS1KVD1-de Mini PC  Lüfterlos Intel Atom X5-Z8350 Prozessor Quad-Core CPU 4 GB DDR / 64 GB eMMC Mini Desktop Computer mit Windows 10  HDMI- und VGA Anschluss  Dual Band WiFi 2 4+5.8 G  BT 4.1  USB 3.0'
 actualPrice: 111.99 EUR
 currency: EUR
 price: 111.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21Jel7AEjNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015CIZEDC-de'
+slug: 'B015CIZEDC-de Intenso Powerbank S10000 Slim externes Ladegerät  10000mAh  geeignet für Smartphone/Tablet PC/MP3 Player/Digitalkamera  weiß  Art.-Nr. 7332532 '
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

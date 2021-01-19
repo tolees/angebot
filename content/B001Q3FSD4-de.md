@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51t-15s0UuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001Q3FSD4-de'
+slug: 'B001Q3FSD4-de 1/la-le-Lu'
 actualPrice: 2.37 EUR
 currency: EUR
 price: 2.37

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-uaT0YKLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002RKPWKO-de'
+slug: 'B002RKPWKO-de 135/Fluch des Piraten'
 actualPrice: 3.39 EUR
 currency: EUR
 price: 3.39

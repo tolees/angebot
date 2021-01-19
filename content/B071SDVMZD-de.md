@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AaA+P0K-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071SDVMZD-de'
+slug: 'B071SDVMZD-de camel active Damen Canberra 72 Chelsea Boots  Grau  Dk.Grey 4   39 EU'
 actualPrice: 68.76 EUR
 currency: EUR
 price: 68.76

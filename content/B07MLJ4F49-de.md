@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31O5y1NpKmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MLJ4F49-de'
+slug: 'B07MLJ4F49-de Lenovo Smart Tab M10 mit Amazon Alexa 25 5 cm  10 1 Zoll  1920x1200  FHD  IPS  Touch  Tablet-PC  Octa-Core  2 GB RAM  16 GB eMCP  Wi-Fi  Android 8  schwarz mit Smart Dock'
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

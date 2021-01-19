@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ggw+MteKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BAV96XU-de'
+slug: 'B00BAV96XU-de CEP Damen Strumpf Progressive+ Run Socks 2.0  Black/Grey  Gr.II'
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

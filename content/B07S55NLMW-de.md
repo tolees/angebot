@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QsRs-LAuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S55NLMW-de'
+slug: 'B07S55NLMW-de FIFA 20 - Standard Edition - [PlayStation 4]'
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

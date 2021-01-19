@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xGPRyR0RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072ZNPRNS-de'
+slug: 'B072ZNPRNS-de Transformers 5 - The Last Knight   + Blu-ray   + Bonus-Disc '
 actualPrice: 10.24 EUR
 currency: EUR
 price: 10.24

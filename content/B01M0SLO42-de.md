@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mwlBRA82L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0SLO42-de'
+slug: 'B01M0SLO42-de Cullmann Neomax Reisestativ mit geringem Packmaß  28 5 cm   leicht  schwarz'
 actualPrice: 36.96 EUR
 currency: EUR
 price: 36.96

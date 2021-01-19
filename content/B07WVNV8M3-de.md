@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41xg9un%2BSeL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WVNV8M3-de'
+slug: 'B07WVNV8M3-de JACK & JONES Herren T-Shirt O-Neck Print Shirt  L  Total Eclipse '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fzbioazqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M2JKABQ-de'
+slug: 'B00M2JKABQ-de devolo Home Control Heizkörperthermostat  Funk Heizungssteuerung  Smarthome Thermostat  Z-Wave Hausautomation  Haussteuerung per iOS/Android App  Smart Home Aktor  einfache Installation  weiß'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

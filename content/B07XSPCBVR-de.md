@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sFtfNhBfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XSPCBVR-de'
+slug: 'B07XSPCBVR-de L.O.L. Surprise! 565222E7C Car-Pool Coupe Puppenauto mit Schwarzlichteffekt & Sound  inklusiv Puppe'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

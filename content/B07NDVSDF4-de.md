@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418CviS9TuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDVSDF4-de'
+slug: 'B07NDVSDF4-de Sony Xperia 10 Plus Smartphone  16 5 cm  6 5 Zoll  21:9 Full HD+ Display  64 GB Speicher  Dual-SIM  Split-Screen  Android 9  Silber'
 actualPrice: 329.0 EUR
 currency: EUR
 price: 329.0

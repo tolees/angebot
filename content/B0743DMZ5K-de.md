@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/613lUWQtsLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0743DMZ5K-de'
+slug: 'B0743DMZ5K-de DISNEY Frozen - DIE EISKÖNIGIN Scooli Campus UP Schulranzen-Set 8tlg. mit SCHULSPORTTASCHE und SCHULTÜTE'
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

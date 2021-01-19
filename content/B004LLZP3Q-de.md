@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4147dDiahSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004LLZP3Q-de'
+slug: 'B004LLZP3Q-de Hendrick s Gin – der einzigartige Gin mit Gurken und Rosenblattessenzen  1 x 0.7 l  44% Vol.'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

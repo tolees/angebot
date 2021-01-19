@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416aypK-fxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MTW33JW-de'
+slug: 'B07MTW33JW-de Philips Bartschneider BT5502/15  40 verschiedene Looks  0 4 - 20 mm   selbstschärfende Metallklingen'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

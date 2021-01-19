@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21p5yxz6fqL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001B4S8LW-de'
+slug: 'B001B4S8LW-de Brennenstuhl Safe-Box / Schutzbox für Verlängerungskabel  Schutzkapsel für Kabel  für die Verwendung im Innenbereich  grün'
 actualPrice: 1.77 EUR
 currency: EUR
 price: 1.77

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QVU1oMW2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SMCY62G-de'
+slug: 'B00SMCY62G-de Emsa 515352 Trio Kräutertopf für frische Kräuter  Selbstbewässerung  Wasserstandsanzeiger  27 x 25 x 21 cm  Weiss  Fresh Herbs Trio'
 actualPrice: 19.94 EUR
 currency: EUR
 price: 19.94

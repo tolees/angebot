@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OcQv8C-2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RX7TX3R-de'
+slug: 'B07RX7TX3R-de Levi s Damen Perfect Vneck T-Shirt  Schwarz  Caviar 0003   Medium'
 actualPrice: 19.4 EUR
 currency: EUR
 price: 19.4

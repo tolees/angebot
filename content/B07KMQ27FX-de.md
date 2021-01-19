@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31JKTCXRo1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMQ27FX-de'
+slug: 'B07KMQ27FX-de Philips Hue White LED Welcome Flutlicht für den Aussenbereich  dimmbar  warmweißes Licht  steuerbar via App  kompatibel mit Amazon Alexa  Echo  Echo Dot '
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

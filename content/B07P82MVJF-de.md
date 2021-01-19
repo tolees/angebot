@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nJsm7eqiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P82MVJF-de'
+slug: 'B07P82MVJF-de Funko 41941 POP Vinyl: WWE-Becky Lynch Sammelbares Spielzeug  Mehrfarben'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

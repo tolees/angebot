@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HZwMiSUjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPPXGM9-de'
+slug: 'B07KPPXGM9-de GANT Herren The ORIGINAL Pique SS Rugger Poloshirt  Orange  Coral Orange 859   Large  Herstellergröße: L '
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

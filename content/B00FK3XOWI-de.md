@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313ou0Qr8CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FK3XOWI-de'
+slug: 'B00FK3XOWI-de hansgrohe Focus Küchenarmatur  Wasserhahn Küche ohne Schlauchbox  150° schwenkbar  ausziehbare Brause mit 2 Strahlarten  hoher Komfort-Auslauf 240mm  Standardanschlüsse  Edelstahl Finish'
 actualPrice: 212.14 EUR
 currency: EUR
 price: 212.14

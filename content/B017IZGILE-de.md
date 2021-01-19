@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510xzq0Hk3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017IZGILE-de'
+slug: 'B017IZGILE-de Siemens EX645LXC1E iQ700 Kochfeld Elektro / Ceran/Glaskeramik / 58 3 cm / Flexible Kochzonen - 2 varioInduktions-Kochzonen / schwarz'
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

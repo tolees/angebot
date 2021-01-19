@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nNv4zVv7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L98V4UW-de'
+slug: 'B00L98V4UW-de 25'
 actualPrice: 3.44 EUR
 currency: EUR
 price: 3.44

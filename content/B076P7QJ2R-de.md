@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bn+Vk-huL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076P7QJ2R-de'
+slug: 'B076P7QJ2R-de Alicemall SUS304 Edelstahl Küchen Hängeleiste Bad Hakenleiste mit 10 Beweglichen Haken  40cm '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

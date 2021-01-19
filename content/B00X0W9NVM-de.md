@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UQvUwQbZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X0W9NVM-de'
+slug: 'B00X0W9NVM-de Tommy Hilfiger Herren JOHNSON MINI CC FLAP AND COIN POCKET Geldbörsen  Braun  Brown 041   11x7x3 cm'
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

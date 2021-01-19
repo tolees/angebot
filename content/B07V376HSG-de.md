@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418npevfr5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V376HSG-de'
+slug: 'B07V376HSG-de Homgeek Zerkleinerer  Universalzerkleinerer 1.8L  Edelstahl Vier-Messer-System  Überhitzungsschutz Funktion  Multizerkleinerer elektrisch mit 2 Geschwindigkeitsstufen'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

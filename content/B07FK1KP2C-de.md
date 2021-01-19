@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nNmyJFl0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FK1KP2C-de'
+slug: 'B07FK1KP2C-de Hasbro Beyblade Burst E3629EU4 - Rail Rush Battle Set  Spielset'
 actualPrice: 38.12 EUR
 currency: EUR
 price: 38.12

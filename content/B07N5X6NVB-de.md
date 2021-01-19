@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AIahdChAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N5X6NVB-de'
+slug: 'B07N5X6NVB-de Funko 38587 POP Vinyl: Big Bang Theory S2: Penny Sammelbares Spielzeug  Mehrfarben  Standard'
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

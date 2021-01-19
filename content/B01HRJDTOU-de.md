@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iGDko8hjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HRJDTOU-de'
+slug: 'B01HRJDTOU-de HP OfficeJet Pro 6960 Multifunktionsdrucker  Instant Ink  Drucker  Scanner  Kopierer  Fax  WLAN  LAN  Airprint  mit 3 Probemonaten HP Instant Ink inklusive'
 actualPrice: 127.08 EUR
 currency: EUR
 price: 127.08

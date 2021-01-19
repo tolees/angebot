@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nZy3xDYKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00S1KLFTG-de'
+slug: 'B00S1KLFTG-de WOLF-Garten Unkrautvernichter plus Rasendünger SQ 250  mehrfarbig'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

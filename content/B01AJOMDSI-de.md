@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hE9vYI1qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AJOMDSI-de'
+slug: 'B01AJOMDSI-de Linksys Max-Stream AC1900 MU-MIMO Dual-Band Wi-Fi Router für Zuhause  Schneller WLAN-Router  4K UHD- Streaming und Gaming  4 Gigabit-Ethernet-Anschlüsse '
 actualPrice: 100.0 EUR
 currency: EUR
 price: 100.0

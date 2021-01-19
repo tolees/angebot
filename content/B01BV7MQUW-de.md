@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w1z3Q7s1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BV7MQUW-de'
+slug: 'B01BV7MQUW-de Chicco Fahrzeuge mit Funktion  Fiat 500 Driver'
 actualPrice: 43.8 EUR
 currency: EUR
 price: 43.8

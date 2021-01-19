@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GYjPy-nZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMD4SSM-de'
+slug: 'B07JMD4SSM-de Meereskönig mit Haikutsche'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

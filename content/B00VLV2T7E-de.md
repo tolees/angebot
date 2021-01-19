@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61icqQ4FoyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VLV2T7E-de'
+slug: 'B00VLV2T7E-de Playmobil 6662 - Zahnarzt'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oijDqcH6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005XVU99I-de'
+slug: 'B005XVU99I-de Bosch S4005 Autobatterie Starter 60Ah 12V 540A'
 actualPrice: 58.08 EUR
 currency: EUR
 price: 58.08

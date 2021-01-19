@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41kVcK7ZHLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0082AYFH4-de'
+slug: 'B0082AYFH4-de Panama Jack Felia Igloo  Damen Warm gefüttert Biker Boots Halbschaft Stiefel & Stiefeletten  Braun  Bark B4   40 EU  7 Damen UK '
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

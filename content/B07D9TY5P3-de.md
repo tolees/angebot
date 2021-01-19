@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21-FpTt1GML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9TY5P3-de'
+slug: 'B07D9TY5P3-de Google WiFi - WLAN-Router  Dual-Band  2 4 GHz/5 GHz   Wi-Fi 5  802.11ac   802.11a Wi-Fi 5  802.11ac  802.11b 802.11g Wi-Fi 4  802.11n   Gigabit Ethernet  10 100 1000 Mbit/s  10/100/1000Base-T X  '
 actualPrice: 93.51 EUR
 currency: EUR
 price: 93.51

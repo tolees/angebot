@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZJ7PZ6aQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XYTN1VB-de'
+slug: 'B06XYTN1VB-de SanDisk Extreme - 64GB MicroSDXC-Speicherkarte für Handys  tablets und Kameras MIL + SD-Adapter + Rescue Pro Deluxe  lesen Geschwindigkeit bis zu 100 MB/s  bis zu 60 MB/s Schreibgeschwindigkeit'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

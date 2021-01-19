@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Y8eKv2GzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KD9HGWW-de'
+slug: 'B07KD9HGWW-de VAUDE Damen Escape Bike Light Jacke  Nickel Green  36'
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

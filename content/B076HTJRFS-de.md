@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pOqup+upL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HTJRFS-de'
+slug: 'B076HTJRFS-de Eagle Creek Leichter Rollkoffer Gear Warrior™ AWD 29 Trolley mit vier hochbelastbaren 360 Grad Rollen  101 Liter  concord'
 actualPrice: 135.93 EUR
 currency: EUR
 price: 135.93

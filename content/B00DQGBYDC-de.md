@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31E0ncgo8rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DQGBYDC-de'
+slug: 'B00DQGBYDC-de SanDisk Ultra 64GB USB-Flash-Laufwerk USB 3.0 bis zu 130MB/s'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

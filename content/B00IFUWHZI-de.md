@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZPC9oRuAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IFUWHZI-de'
+slug: 'B00IFUWHZI-de Philips TX1BK/00 In-Ear Kopfhörer mit Mikrofon schwarz'
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

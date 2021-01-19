@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BOhvk1TFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NSMDZLB-de'
+slug: 'B07NSMDZLB-de Funko 39524 POP Vinyl Johnny Cash Sammelbares Spielzeug  Mehrfarben'
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

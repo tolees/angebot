@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XKSOrePGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZ9SPJN-de'
+slug: 'B08BZ9SPJN-de Wireless Controller für Nintendo Switch RegeMoudal Switch Pro Controller Remote Controller Gamepad mit Double Shock Turbo Funktionen für Nintendo Switch/Switch Lite'
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411x9WwdhVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FK1MQJM-de'
+slug: 'B07FK1MQJM-de Lebendige Farben Filzwolle Merinowolle Kammzug Wolle  Filz Material für Handwerk - Hautfarbe'
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

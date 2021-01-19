@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ePeMWY6gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMFRDKQ-de'
+slug: 'B07VMFRDKQ-de Samsung Galaxy Buds SM-R170 I Kabellose Kopfhörer Silber I Bluetooth I In-Ear I Stereo-Sport Headphones'
 actualPrice: 74.1 EUR
 currency: EUR
 price: 74.1

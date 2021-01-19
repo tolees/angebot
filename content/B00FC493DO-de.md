@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61TNap0gr9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FC493DO-de'
+slug: 'B00FC493DO-de Predator [Blu-ray 3D]'
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Ixcs-oR3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079QHMFWC-de'
+slug: 'B079QHMFWC-de Fire TV Stick 4K Ultra HD mit Alexa-Sprachfernbedienung'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

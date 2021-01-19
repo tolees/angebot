@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+6miBTBDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UWS743Q-de'
+slug: 'B00UWS743Q-de Kirby und der Regenbogen-Pinsel'
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UJU47yoWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQPG7KB-de'
+slug: 'B07KQPG7KB-de FurReal Friends furReal Cubby  mein Knuddelbär  interaktives Plüschtier  ab 4 Jahren  braun'
 actualPrice: 75.28 EUR
 currency: EUR
 price: 75.28

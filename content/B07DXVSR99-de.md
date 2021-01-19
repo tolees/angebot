@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31m1ESmn0tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DXVSR99-de'
+slug: 'B07DXVSR99-de Under Armour Herren UA GL Foundation Short Sleeve Tee atmungsaktives Sportshirt  kurzärmliges und komfortables Funktionsshirt mit loser Passform  Blau  XL'
 actualPrice: 14.61 EUR
 currency: EUR
 price: 14.61

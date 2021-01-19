@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-wyDs1J1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LB5LT29-de'
+slug: 'B07LB5LT29-de SCHLEICH 42519 Spielset - Reiter-Café  Horse Club '
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wFJ3EbhqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072F7MRXN-de'
+slug: 'B072F7MRXN-de Hisense RB338N4AG2 Kühl-Gefrier-Kombination/A++/No-Frost/Türanschlag rechts  wechselbar'
 actualPrice: 349.0 EUR
 currency: EUR
 price: 349.0

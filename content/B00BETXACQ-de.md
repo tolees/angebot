@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bGItzZW7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BETXACQ-de'
+slug: 'B00BETXACQ-de Emsa 512753 Food Clip & Close  Plastik  Transparent / Blau  sortiert  Größen  Packung mit 5 Boxen'
 actualPrice: 15.36 EUR
 currency: EUR
 price: 15.36

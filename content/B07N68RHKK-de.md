@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HdFfyJXTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N68RHKK-de'
+slug: 'B07N68RHKK-de Symiu 3D Puzzle Kinder Mosaik Steckspiel Bausteine mit Schraubendreher Schrauben Pädagogisches Spielzeug Geschenkset für Kinder Junge Mädchen ab 3 4 5 Jahre Alt  MEHRWEG '
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

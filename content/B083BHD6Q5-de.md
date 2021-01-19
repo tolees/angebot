@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G5oQmvnnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083BHD6Q5-de'
+slug: 'B083BHD6Q5-de Sanglory Schnitzmesser  4 Stück Holz Schnitz Set Wood Carving Tools Knife Set  Edelstahl Schnitzwerkzeug für Holz  Carving DIY und Skulptur'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

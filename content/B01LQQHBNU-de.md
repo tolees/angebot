@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lCcpJLgCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LQQHBNU-de'
+slug: 'B01LQQHBNU-de WD My Passport Mobile WDBYFT0040BWT-WESN 4TB  Externe Festplatte  6 4 cm  2 5 Zoll   mit Kennwortschutz  Standard Oberfläche  Weiß'
 actualPrice: 117.08 EUR
 currency: EUR
 price: 117.08

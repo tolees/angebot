@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cmSVTnwnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QLEQAP8-de'
+slug: 'B00QLEQAP8-de NuPro Displayschutzfolie für Kindle und Kindle Paperwhite  3er-Pack  entspiegelnd — nicht geeignet für Modelle der 10. Generation  2019 '
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KRipw5jAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KB1N49W-de'
+slug: 'B00KB1N49W-de Casio Damen Analog Quarz mit Edelstahl Armbanduhr LTP 1234PG 7A'
 actualPrice: 31.85 EUR
 currency: EUR
 price: 31.85

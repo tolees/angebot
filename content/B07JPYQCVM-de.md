@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410-bgckZtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JPYQCVM-de'
+slug: 'B07JPYQCVM-de Yoedge iPhone XR Hülle  [Ultra Dünn] Schutzhülle Silikon Schwarz mit Muster Queen King Krone Motiv Design Weich TPU Handyhülle 360 Bumper Case Cover für iPhone XR Phone  Queen  Schwarz-Gold '
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ic0sWp7dL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HNS43Z5-de'
+slug: 'B07HNS43Z5-de Philips 276E8VJSB/00 68 cm  27 Zoll  Monitor  HDMI  5ms Reaktionszeit  DisplayPort  3840 x 2160  60 Hz  nicht Curved  4K  Adaptive Sync  schwarz'
 actualPrice: 228.61 EUR
 currency: EUR
 price: 228.61

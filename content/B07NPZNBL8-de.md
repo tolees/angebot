@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314rCMKXDYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPZNBL8-de'
+slug: 'B07NPZNBL8-de Xiaomi Dreame V9 Vacuum Cleaner  Staubsauger  Weiß  450 W  0.5 liters  80 Dezibel'
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

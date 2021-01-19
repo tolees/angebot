@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41avZLwswQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BSZBVLH-de'
+slug: 'B07BSZBVLH-de Wangel Hakenleiste Küchenhelfer Hängeleiste 7 Haken ohne Bohren  Patentierter Kleber + Selbstklebender Kleber  Aluminium  Matte Finish'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

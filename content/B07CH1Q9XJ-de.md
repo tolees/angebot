@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412r5EwXehL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CH1Q9XJ-de'
+slug: 'B07CH1Q9XJ-de Smoby 311207 Tefal French Touch Bubble Küche  rot'
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

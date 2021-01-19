@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QE6aJurvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WVBFGWN-de'
+slug: 'B07WVBFGWN-de BRIKSMAX Led Beleuchtungsset für Lego Creator NASA Apollo 11 Mondlandefähre Kompatibel Mit Lego 10266 Bausteinen Modell - Ohne Lego Set'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317t17SbgLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQPDM56-de'
+slug: 'B07VQPDM56-de SanDisk 256GB iXpand Go Flash-Laufwerk für Ihr iPhone und iPad'
 actualPrice: 60.44 EUR
 currency: EUR
 price: 60.44

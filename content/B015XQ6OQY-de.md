@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hsfDFY7sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015XQ6OQY-de'
+slug: 'B015XQ6OQY-de ECCO Damen SOFT7W Sneakers  Blau  1038marine   38 EU'
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

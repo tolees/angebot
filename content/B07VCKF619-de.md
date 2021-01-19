@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316hSgmo5dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCKF619-de'
+slug: 'B07VCKF619-de Soundcore Wakey Bluetooth Lautsprecher  Powered by Anker mit 10W Schnellladetechnologie  Wecker-Funktion  Stereo Sound  FM Radio  QI Kabelloses Laden für 7 5W iPhone Ladungen  Weiß '
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

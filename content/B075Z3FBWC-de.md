@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zPxVq-aUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075Z3FBWC-de'
+slug: 'B075Z3FBWC-de Hasbro Super Soaker E0022EU4 - Soakzooka Wasserpistole  mit Mega-Wasserstrahl'
 actualPrice: 16.69 EUR
 currency: EUR
 price: 16.69

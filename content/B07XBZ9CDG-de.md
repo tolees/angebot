@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kE4d2kzgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBZ9CDG-de'
+slug: 'B07XBZ9CDG-de YONMIG Smartwatch  Fitness Armband Tracker Voller Touch Screen Uhr Pulsmesser Wasserdicht IP68 Armbanduhr Smart Watch mit Schrittzähler Stoppuhr Bluetooth Sportuhr für iOS Android Damen Herren'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hp4sKcLKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z7HSPLM-de'
+slug: 'B07Z7HSPLM-de Zeonetak Bluetooth Headset mit Kabellosem Mikrofon  Headset mit Ladestation  Professionelles PC-Headset  Leicht Funk-Headset for Freisprechen  Rauschunterdrückung   Callcenter  LKW-Fahrer'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

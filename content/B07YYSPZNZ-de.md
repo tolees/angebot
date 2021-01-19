@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-1Z1xwxkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YYSPZNZ-de'
+slug: 'B07YYSPZNZ-de Smartwatch  Zagzog 1 54  Vollfarb-Touchscreen 15 Tage Wettervorhersage GPS-Tracking IP68 wasserdicht Fitness Sportuhr Unisex mit Schrittzähler Herzfrequenz Blutdruck Schlafüberwachung für IOS/Android'
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lJIl+t6LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CIEBS74-de'
+slug: 'B01CIEBS74-de SanDisk 64GB iXpand USB-Flash-Laufwerk für iPhone und iPad'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/211at5SIxQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XR98DGQ-de'
+slug: 'B07XR98DGQ-de Apple Leder Case  für iPhone 11 Pro Max  - Sonnengelb'
 actualPrice: 39.49 EUR
 currency: EUR
 price: 39.49

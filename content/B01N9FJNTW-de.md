@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Yvxa+iQML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9FJNTW-de'
+slug: 'B01N9FJNTW-de Fire HD 10-Tablet  1080p Full HD-Display  64 GB  Schwarz  mit Spezialangeboten  vorherige Generation – 7. '
 actualPrice: 92.6 EUR
 currency: EUR
 price: 92.6

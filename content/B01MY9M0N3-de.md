@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RDibQDY0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MY9M0N3-de'
+slug: 'B01MY9M0N3-de LEDELI Tastaturaufkleber Tastatur Aufkleber Keyboard Sticker Tastatur-Aufkleber für PC  Laptop  Notebook  Computer-Tastaturen  QWERTY US English Layout '
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

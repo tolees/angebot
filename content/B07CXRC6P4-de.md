@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BG7uCplxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CXRC6P4-de'
+slug: 'B07CXRC6P4-de Ela Mo’s Rucksack Damen | Schön und Durchdacht | für Uni Reisen Freizeit Job | mit Laptopfach & Anti Diebstahl Tasche | Blumen'
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

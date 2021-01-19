@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xMOeruu9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZTX75OC-de'
+slug: 'B00ZTX75OC-de Whiskas 1 + Katzenfutter – Fisch-Auswahl in Sauce – Hochwertiges Nassfutter mit vielen Vitaminen – 48 Portionsbeutel à 100g'
 actualPrice: 11.16 EUR
 currency: EUR
 price: 11.16

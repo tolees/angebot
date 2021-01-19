@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r4OyGMjoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVSG7W6-de'
+slug: 'B07DVSG7W6-de Jack Wolfskin Unisex-Erwachsene Warwick Ave sac à bandoulière Tasche  Blau  Night Blue   One Size'
 actualPrice: 28.48 EUR
 currency: EUR
 price: 28.48

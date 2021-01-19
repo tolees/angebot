@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TQhy42JFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B3ZWY15-de'
+slug: 'B07B3ZWY15-de Clarks Men’s Batcombe Lord Chelsea Boots  Schwarz  Black   45 EU'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

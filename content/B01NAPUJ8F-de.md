@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4126gRJW8GL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAPUJ8F-de'
+slug: 'B01NAPUJ8F-de Lacoste Herren-Armbanduhr - 2010901'
 actualPrice: 98.16 EUR
 currency: EUR
 price: 98.16

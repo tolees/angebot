@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R39y8xcjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0187RFKQ6-de'
+slug: 'B0187RFKQ6-de FMD Möbel 291-001 Tower Drehregal  Holz  sandeiche  34 x 34 x 108 cm'
 actualPrice: 36.9 EUR
 currency: EUR
 price: 36.9

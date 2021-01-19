@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bCLlp+yuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014GXQ3JS-de'
+slug: 'B014GXQ3JS-de Logitech G633 Artemis Spectrum Pro  Gaming Headset  7.1 Surround Sound  DTS Headphone:X 3D  Noise-Cancelling Mikrofon  RGB-Beleuchtung  G-Tasten  PC/ Mac/Xbox One/PS4/Nintendo Switch - blau'
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

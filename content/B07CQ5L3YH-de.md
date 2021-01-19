@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S-PJpwMNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CQ5L3YH-de'
+slug: 'B07CQ5L3YH-de Swiffer - Staubmagnet Nachfüller mit Febrezeduft  1er Pack  1 x 9 Tücher '
 actualPrice: 4.17 EUR
 currency: EUR
 price: 4.17

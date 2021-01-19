@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412zabeadTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWRH1ZV-de'
+slug: 'B07TWRH1ZV-de Ladeheid Eva Kinder Jungen Mädchen Gummistiefel Regenschuhe LA-CA-04  Blau/Marineblau  22/23 EU '
 actualPrice: 17.24 EUR
 currency: EUR
 price: 17.24

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21Odl3jFqdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DEJXRAE-de'
+slug: 'B00DEJXRAE-de Dis Dell Acc Soundbar AC511 0MN008'
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

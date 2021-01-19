@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Qeytm2Q6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BHW0MO4-de'
+slug: 'B00BHW0MO4-de Remington Epilierer smooth&silky EP7010  Anti-Rutsch-Pinzetten-Technologie  weiß/lila'
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

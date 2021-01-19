@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+Us7zhjKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LD4KXCT-de'
+slug: 'B07LD4KXCT-de Morituri [Blu-ray]'
 actualPrice: 9.84 EUR
 currency: EUR
 price: 9.84

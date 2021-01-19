@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CTIrhx0UL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PXNYRTR-de'
+slug: 'B07PXNYRTR-de Ravensburger 14973 Disney Museum'
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

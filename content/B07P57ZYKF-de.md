@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MERCJHMjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P57ZYKF-de'
+slug: 'B07P57ZYKF-de PLAYMOBIL:THE MOVIE 70074 Marla  Del und Pferd mit Flügeln  Ab 5 Jahren'
 actualPrice: 6.58 EUR
 currency: EUR
 price: 6.58

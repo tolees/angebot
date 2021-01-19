@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gk7iK+K5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S19TPNH-de'
+slug: 'B07S19TPNH-de edc by ESPRIT Damen 999Cc1B807 Slim Jeans  Blau  Blue Dark WASH 901   W30/L32  Herstellergröße:30/32 '
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QLv+sgqlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008AW8V1K-de'
+slug: 'B008AW8V1K-de Lacoste Herren Sport  Poloshirt L1230-00  Einfarbig  Gr. Large  Herstellergröße: 50  T5   Schwarz  031 NOIR '
 actualPrice: 40.95 EUR
 currency: EUR
 price: 40.95

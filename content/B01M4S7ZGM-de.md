@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yvjMxgnpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M4S7ZGM-de'
+slug: 'B01M4S7ZGM-de 1home Bildschirmständer Notebooktisch Notebookständer Laptopständer Computertisch 420mm Breit 2 Stufen'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

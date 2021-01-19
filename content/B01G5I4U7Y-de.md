@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wij-YxTQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G5I4U7Y-de'
+slug: 'B01G5I4U7Y-de Alice im Wunderland: Hinter den Spiegeln'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

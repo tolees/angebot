@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TLQ3wNCIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0000TZ4XO-de'
+slug: 'B0000TZ4XO-de Ravensburger 21570 Der Maulwurf und sein Lieblingsspiel'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

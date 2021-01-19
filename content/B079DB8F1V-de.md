@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31oPtkaexDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079DB8F1V-de'
+slug: 'B079DB8F1V-de JAKO Herren Competition 2.0 Shorts  schwarz  schwarz   M'
 actualPrice: 15.4 EUR
 currency: EUR
 price: 15.4

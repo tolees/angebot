@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w6FtBciYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008B3MZNI-de'
+slug: 'B008B3MZNI-de Supertramp: Live In Paris  79 [Blu-ray] [2012][Region Free] [UK Import]'
 actualPrice: 11.16 EUR
 currency: EUR
 price: 11.16

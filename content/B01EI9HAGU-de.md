@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fB3HYU+iL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EI9HAGU-de'
+slug: 'B01EI9HAGU-de adidas Herren Gazelle Sneakers  Azul  Collegiate Navy/White/Gold Met   41 1/3 EU'
 actualPrice: 72.9 EUR
 currency: EUR
 price: 72.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41a-CQYodrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VTW2LPX-de'
+slug: 'B07VTW2LPX-de Western Digital WD My Passport externe Festplatte 4 TB  mobiler Speicher  schlankes Design  WD Discovery Software  automatische Backups  Passwortschutz  Schwarz - auch kompatibel mit PC  Xbox und PS4'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YfRGS-zNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWHJMG5-de'
+slug: 'B07TWHJMG5-de Occulto 3 Paar Sportsocken/Laufsocken/Wandersocken für Damen und Herren  Golfen UVM 1xSchwarz-1xtuerkis-1xblue 43-46'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

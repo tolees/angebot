@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51d6i8UHaWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMCBCDQ-de'
+slug: 'B07JMCBCDQ-de Playmobil 70184 1.2.3 LKW mit Sortiergarage  bunt'
 actualPrice: 17.57 EUR
 currency: EUR
 price: 17.57

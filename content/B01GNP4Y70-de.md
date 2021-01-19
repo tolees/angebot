@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eTOwHU1cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GNP4Y70-de'
+slug: 'B01GNP4Y70-de Dark Grey/White'
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

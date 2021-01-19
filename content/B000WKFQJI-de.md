@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iHe3MnUVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000WKFQJI-de'
+slug: 'B000WKFQJI-de Brennenstuhl Eco-Line  Steckdosenleiste 10-fach  Steckerleiste mit erhöhtem Berührungsschutz  Schalter und 3m Kabel  lichtgrau'
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

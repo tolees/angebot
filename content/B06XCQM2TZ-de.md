@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21XhMFlYP5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCQM2TZ-de'
+slug: 'B06XCQM2TZ-de Samsung HW-MS650 Soundbar Sound+  integrierter Subwoofer  Bluetooth  Surround-Sound-Expansion  Alexa-Unterstützung  dunkel-titan'
 actualPrice: 288.98 EUR
 currency: EUR
 price: 288.98

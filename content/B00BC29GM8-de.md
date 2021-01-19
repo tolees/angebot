@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31X9pCbQOHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BC29GM8-de'
+slug: 'B00BC29GM8-de Vibram FiveFingers 13M0101 EL-X  Fitnessschuhe Herren  Schwarz  Black   44 EU'
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

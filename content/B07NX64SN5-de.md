@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311iEIj8FML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NX64SN5-de'
+slug: 'B07NX64SN5-de Pioneer VSX-934 7.2-Kanal Netzwerk AV Receiver  7x160 Watt  Dolby Atmos  DTS:X  Dolby Atmos Height Virtualizer  Sonos  Zone 2  AirPlay 2  Bluetooth  USB   Silber'
 actualPrice: 311.99 EUR
 currency: EUR
 price: 311.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Hpjbigd+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XVWXW1Q-de'
+slug: 'B07XVWXW1Q-de Microsoft Surface Laptop 3  13 5 Zoll Laptop  Intel Core i5  8GB RAM  128GB SSD  Win 10 Home  Platin'
 actualPrice: 828.0 EUR
 currency: EUR
 price: 828.0

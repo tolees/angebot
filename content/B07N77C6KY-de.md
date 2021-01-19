@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51E9rqVEK6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N77C6KY-de'
+slug: 'B07N77C6KY-de Lexar High-Performance 633x 512GB microSDXC UHS-I Karte'
 actualPrice: 57.95 EUR
 currency: EUR
 price: 57.95

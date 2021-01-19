@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tYP10dK7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010PCUZ4S-de'
+slug: 'B010PCUZ4S-de Der Unbestechliche - Mörderisches Marseille'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

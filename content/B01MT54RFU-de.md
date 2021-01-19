@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jwbowe7iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MT54RFU-de'
+slug: 'B01MT54RFU-de Omron EVOLV All-in-One digitales Oberarm-Blutdruckmessgerät  kabellos  schwarz und mit Intelli Wrap Technologie für genaue Messergebnisse in jeder Position rund um den Oberarm'
 actualPrice: 107.23 EUR
 currency: EUR
 price: 107.23

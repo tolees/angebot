@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412K9HLWeDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GH1DJYB-de'
+slug: 'B07GH1DJYB-de Aarke Carbonator II Wassersprudler  Edelstahl Gehäuse  Soda Sprudelwasser  inkl. PET-Flasche  kompatibel mit CO2 Sodastream Zylindern  Silber'
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SzS+xnlsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FM6PEB6-de'
+slug: 'B01FM6PEB6-de HapiLeap Kühlschrank Storage Organizer - Kühlschrank Aufbewahrungsbox Schubladen Pantry Container Stackable Kühlschrank Container - Perfekt für kleine Gewürze  Milchprodukte  4 Pack '
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

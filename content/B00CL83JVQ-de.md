@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R5ONk-mUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CL83JVQ-de'
+slug: 'B00CL83JVQ-de Bose ® Companion 2 Serie III Multimedia Lautsprechersystem schwarz'
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

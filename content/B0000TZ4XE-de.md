@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61cHHHgmOTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0000TZ4XE-de'
+slug: 'B0000TZ4XE-de Ravensburger Lotti Karotti'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

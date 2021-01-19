@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414rCP8bzhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMCQHKR-de'
+slug: 'B07TMCQHKR-de Yazubi Jeans Herren Akon Slim - Jeans Hosen für Männer - dunkel Blaue Denim Stretch Hose Jeanshose Regular  Blau  Dark Denim 194118   W29/L30'
 actualPrice: 31.96 EUR
 currency: EUR
 price: 31.96

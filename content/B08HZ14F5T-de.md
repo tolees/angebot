@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310kK02QPLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HZ14F5T-de'
+slug: 'B08HZ14F5T-de Bluetooth-Kopfhörer5.0  In-Ear-Bluetooth-Kopfhörer  3D-Rauschunterdrückung  IPX7 wasserdicht  geeignet für Airpods/Airpods Pro/Android'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

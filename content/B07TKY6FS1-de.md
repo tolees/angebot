@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+N99+mzvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKY6FS1-de'
+slug: 'B07TKY6FS1-de THE NORTH FACE Herren M Zaneck Jacket Insulated Synthetic  Deep Garnet Red  L'
 actualPrice: 83.29 EUR
 currency: EUR
 price: 83.29

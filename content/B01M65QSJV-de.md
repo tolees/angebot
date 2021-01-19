@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zwMxNsGUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M65QSJV-de'
+slug: 'B01M65QSJV-de Fastskin Erwachsene Speedsocket 2 Goggles  Black/Mirror  One Size'
 actualPrice: 35.18 EUR
 currency: EUR
 price: 35.18

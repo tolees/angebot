@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rkl5gXHVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V2J34NM-de'
+slug: 'B07V2J34NM-de Tommy Jeans Herren Causal Sneaker  Weiß  White Ybs   40 EU'
 actualPrice: 33.1 EUR
 currency: EUR
 price: 33.1

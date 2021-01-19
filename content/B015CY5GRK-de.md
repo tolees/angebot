@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lwbnN-G2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015CY5GRK-de'
+slug: 'B015CY5GRK-de Man lernt nie aus [Blu-ray]'
 actualPrice: 4.98 EUR
 currency: EUR
 price: 4.98

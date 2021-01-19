@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Qyo5gLE7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077ZCVZ72-de'
+slug: 'B077ZCVZ72-de Cars 1 + Cars 2 + Cars 3 [Blu-ray]'
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

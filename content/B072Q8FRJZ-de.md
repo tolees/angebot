@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A0dKsqOUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072Q8FRJZ-de'
+slug: 'B072Q8FRJZ-de Lenovo V340-17IWL - Intel CORE i5 - 500GB SSD - 8GB DDR4-RAM - CD/DVD Brenner - Windows 10 PRO - 44cm  17.3" LED TFT  Display MATT'
 actualPrice: 350.0 EUR
 currency: EUR
 price: 350.0

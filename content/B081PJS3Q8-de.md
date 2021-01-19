@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4178Tj3AzfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081PJS3Q8-de'
+slug: 'B081PJS3Q8-de TONGJI Acryl Vitrine Mit Beleuchtungsset Kompatibel Mit Lego 21319 Central Perk Friends  Schaukasten Staubdicht Display Box  Beinhaltet Nicht das Modell  '
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

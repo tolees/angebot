@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21CxcD-Rv5L._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005P21MNW-de'
+slug: 'B005P21MNW-de SKROSS Country Adapter World to Europe: Reiseadapter für Reisen in Länder  die den Schuko-Standard verwenden'
 actualPrice: 6.32 EUR
 currency: EUR
 price: 6.32

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jDLfyhbiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0036DYURW-de'
+slug: 'B0036DYURW-de NIKE Damen Sport-BH Victory Compression  Schwarz  Black/White _010  M'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

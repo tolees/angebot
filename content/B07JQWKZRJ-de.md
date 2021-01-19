@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rchBmO9fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQWKZRJ-de'
+slug: 'B07JQWKZRJ-de adidas Herren Terrex EASTRAIL Walkingschuhe  Schwarz  Carbon/Core Black/Grey Five Carbon/Core Black/Grey Five   43 1/3 EU'
 actualPrice: 56.53 EUR
 currency: EUR
 price: 56.53

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HF1pbxWiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010V93XVC-de'
+slug: 'B010V93XVC-de The Witcher 3: Wild Hunt - Game of the Year Edition - [Xbox One]'
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

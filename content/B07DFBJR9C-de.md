@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kY-3WLW+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFBJR9C-de'
+slug: 'B07DFBJR9C-de Funko POP Fantastic Beasts 2 Baby NI'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

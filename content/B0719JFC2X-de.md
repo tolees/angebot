@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51A2+u5zPrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0719JFC2X-de'
+slug: 'B0719JFC2X-de Hasbro Gaming – Klassische Spiel von Simon  b7962eu4 '
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

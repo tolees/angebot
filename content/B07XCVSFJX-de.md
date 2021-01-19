@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wJBfPbbzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XCVSFJX-de'
+slug: 'B07XCVSFJX-de Bosch Professional 18V System Akku Bohrhammer GBH 18V-20  max. Bohr-Ø in Beton: 20 mm  inkl. 1x4 0 Ah Akku + Ladegerät  6tlg. Bohr-Meißel-Set  im Koffer  - Amazon Edition'
 actualPrice: 204.99 EUR
 currency: EUR
 price: 204.99

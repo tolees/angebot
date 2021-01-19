@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41GgPdceeLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BKBB1WX-de'
+slug: 'B07BKBB1WX-de PC DESKTOP COMPLETE INTEL I3-8100 3.6 GHZ 8°GEN/LINDING WINDOWS 10 PRO 64 BIT/GRAFIK INTEL HD 630 1 GB 4K / WIFI 150 MBPS /HD 1TB SATA III/ RAM 8 GB DDR4 2133 MHZ /DVD-CD BATTERY/NETZTEIL 500WATT'
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

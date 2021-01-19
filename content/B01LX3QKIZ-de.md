@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31T3rjg9POL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LX3QKIZ-de'
+slug: 'B01LX3QKIZ-de Pioneer X-HM26 B  Microsystem mit Zweiwege-Boxen  Bluetooth  FM-Radio  CD  MP3-USB  Fernbedienung  Timer- und Weckfunktion  Schwarz'
 actualPrice: 139.9 EUR
 currency: EUR
 price: 139.9

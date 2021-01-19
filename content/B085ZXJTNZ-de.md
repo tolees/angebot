@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kH4Zc6ecL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085ZXJTNZ-de'
+slug: 'B085ZXJTNZ-de Gamory Controller für Nintendo Switch  Bluetooth Wireless Controller für Nintendo Switch Wiederaufladbarer Akku Controller Gamepad für Switch mit einstellbarem Turbo und Dual Shock Fernbedienungen'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

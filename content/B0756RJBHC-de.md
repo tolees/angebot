@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Mmo0NX8FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0756RJBHC-de'
+slug: 'B0756RJBHC-de Tommy Hilfiger Herren CORE Stretch Slim CNECK Tee T-Shirt  Schwarz  Flag Black 083   XXX-Large'
 actualPrice: 23.35 EUR
 currency: EUR
 price: 23.35

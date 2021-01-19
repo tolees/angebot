@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mfmUV-EuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KZFY812-de'
+slug: 'B00KZFY812-de Dragonball Z 3991 Dragonball No POP Vinylfigur Vegeta  Multi'
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

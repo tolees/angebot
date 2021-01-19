@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417bEUmwG6L._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VOPB4A-de'
+slug: 'B000VOPB4A-de Moschino Funny femme/woman  Eau de Toilette  Vaporisateur/Spray 100 ml  1er Pack  1 x 100 ml '
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

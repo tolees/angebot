@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31UcBRn2eoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VF0KYU0-de'
+slug: 'B00VF0KYU0-de Levi s  Herren Jeans 514 Regular Fit  Blau  Onewash   Gr. W32/L34'
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

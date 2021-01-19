@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Q3fXHpihL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SFJTCX-de'
+slug: 'B083SFJTCX-de TZAMLI 10-Tier Schuhregal über der Tür Shoe Organizer Hanging Shoe Storage Shelf Starke Metallhaken für Closet Pantry  Silbergrau  56 x 21 x 151cm '
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QPpq8IhnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G6MYMKD-de'
+slug: 'B07G6MYMKD-de Ultimate Ears Megaboom 3 Bluetooth Lautsprecher  Wasserdichter 360°-Sound  - Mitternachtsschwarz'
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BqogvUbOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HQ55NPI-de'
+slug: 'B01HQ55NPI-de Pokémon GO Plus'
 actualPrice: 74.98 EUR
 currency: EUR
 price: 74.98

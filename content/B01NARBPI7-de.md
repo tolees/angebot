@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hbPwe+bEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NARBPI7-de'
+slug: 'B01NARBPI7-de SanDisk Extreme Go 64GB USB-Flash-Laufwerk USB 3.1'
 actualPrice: 15.54 EUR
 currency: EUR
 price: 15.54

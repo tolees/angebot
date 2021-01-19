@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fzbDkTKwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y2XVPGD-de'
+slug: 'B06Y2XVPGD-de New Balance Herren 574v2 Core Sneaker  Rot  Burgundy   45 EU'
 actualPrice: 38.23 EUR
 currency: EUR
 price: 38.23

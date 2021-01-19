@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412zKVDl2ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072BPGY4R-de'
+slug: 'B072BPGY4R-de Samsung Galaxy Book W620 26 92 cm  10 6 Zoll  Convertible Tablet PC  Intel Core m3 7Y30  4GB RAM  64GB Speicher  Windows 10 Home  silber'
 actualPrice: 383.0 EUR
 currency: EUR
 price: 383.0

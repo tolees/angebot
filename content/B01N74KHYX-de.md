@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41H0UwQy1qL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N74KHYX-de'
+slug: 'B01N74KHYX-de Princess Raclette Grill in Bambusausführung - für bis zu 8 Personen  regelbare Heizstufe  2 m Kabelzuleitung  1200 Watt  inkl. Holzspatel  162910'
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

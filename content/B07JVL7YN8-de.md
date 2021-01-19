@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gf485E4IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JVL7YN8-de'
+slug: 'B07JVL7YN8-de Komake Überraschung Box  Explosion Box  DIY Geschenk Scrapbook und Foto-Album für Weihnachten/Valentine/Jahrestag/Geburtstag/Hochzeit  Schwarz '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VhxhhzrFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0000WS6QI-de'
+slug: 'B0000WS6QI-de Numark HF125 - professioneller DJ Kopfhörer mit 2m Kabel und 40 mm Lautsprechern für besseren Frequenzgang und geschlossenen Ohrmuscheln für optimale Abschirmung  Schwarz'
 actualPrice: 8.3 EUR
 currency: EUR
 price: 8.3

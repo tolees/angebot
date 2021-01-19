@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LQCmwLCuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005AUU0LO-de'
+slug: 'B005AUU0LO-de Magnat Needle Alu Super Center I 2-Wege Centerlautsprecher | Schlanke Design-Lautsprecher mit elegant gebürstetem Aluminiumgehäuse  Farbe:Silber'
 actualPrice: 76.0 EUR
 currency: EUR
 price: 76.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51e888rnPJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083HTG8WH-de'
+slug: 'B083HTG8WH-de DXX Technik Bausteine Liebherr Kran LTM11200  7705Teile Kran LKW Technik Modellbaukasten mit Fernbedienung und Motor Konstruktionsspielzeug Kompatibel mit Lego Technic'
 actualPrice: 719.99 EUR
 currency: EUR
 price: 719.99

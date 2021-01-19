@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CqP6Iza1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007WAYS8G-de'
+slug: 'B007WAYS8G-de Blanco Botton Pro 45/2 Manuell; Müllsystem für die Abfalltrennung in der Küche  mit 2 Mülleimern  je 13 l   zur Boden-Montage im 45 cm-Unterschrank; 517467'
 actualPrice: 63.2 EUR
 currency: EUR
 price: 63.2

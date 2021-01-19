@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aCk2rEa+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079N37BLF-de'
+slug: 'B079N37BLF-de PLAYMOBIL DreamWorks Spirit 9479 Pferdebox Pru & Chica Linda  Ab 4 Jahren'
 actualPrice: 14.67 EUR
 currency: EUR
 price: 14.67

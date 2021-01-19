@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DFGdS4OjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003R7KQQQ-de'
+slug: 'B003R7KQQQ-de Barilla Pasta Penne Rigate  500g'
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eLATF3DPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00URDQ26Q-de'
+slug: 'B00URDQ26Q-de Original MANN-FILTER Innenraumfilter FP 2442 – FreciousPlus Biofunktionaler Pollenfilter – Für PKW'
 actualPrice: 15.22 EUR
 currency: EUR
 price: 15.22

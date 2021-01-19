@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61WCiAM8jEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XYHJR7C-de'
+slug: 'B06XYHJR7C-de Hasbro - Kristallica  kindgerechtes Geschicklichkeitsspiel ab 3 Jahren'
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

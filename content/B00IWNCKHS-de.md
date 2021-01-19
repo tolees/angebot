@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GJyxNxaeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IWNCKHS-de'
+slug: 'B00IWNCKHS-de ONLY Female Skinny Fit Jeans ONLUltimate King reg S30Dark Blue Denim'
 actualPrice: 25.69 EUR
 currency: EUR
 price: 25.69

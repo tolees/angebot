@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bO4SpTYWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1ZWHNB-de'
+slug: 'B07K1ZWHNB-de Dowinx Gaming Stuhl Ergonomischer Racing Stil Lehnstuhl mit Massage Lordosenstütze  Büro Sessel für Computer-PU-Leder-E-Sport-Gamer Stühle mit Ausziehbarem Fußraste  schwarz&rot '
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

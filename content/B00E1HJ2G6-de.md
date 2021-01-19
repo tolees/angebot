@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IdZ5Qf03L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E1HJ2G6-de'
+slug: 'B00E1HJ2G6-de Diesel Herren-Uhr DZ4297'
 actualPrice: 92.44 EUR
 currency: EUR
 price: 92.44

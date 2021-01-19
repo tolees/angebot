@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51N0UZoeucL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013JF8DVK-de'
+slug: 'B013JF8DVK-de Kitekat Katzenfutter Nassfutter Klassische Auswahl in Sauce  12 Portionsbeutel  12 x 100g '
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jMc+TB6kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WKDW95-de'
+slug: 'B071WKDW95-de Philips SHB3175WT BASS+ Over-Ear Bluetooth-Kopfhörer  13 Stunden Akku  satter Bass  Freisprechfunktion  weiß'
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

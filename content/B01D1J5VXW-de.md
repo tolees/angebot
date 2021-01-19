@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ugSniyYvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D1J5VXW-de'
+slug: 'B01D1J5VXW-de afri cola ohne Zucker 24er Pack  EINWEG  24 x 330 ml '
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

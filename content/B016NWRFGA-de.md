@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sv8uUWjBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016NWRFGA-de'
+slug: 'B016NWRFGA-de Wrebbit 3D W3D-2014 Harry Potter 3D Puzzle  bunt'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

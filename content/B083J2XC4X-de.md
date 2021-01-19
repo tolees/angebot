@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eodup5NdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083J2XC4X-de'
+slug: 'B083J2XC4X-de H0_V Acryl Schaukasten Vitrine  Vitrine Acryl Schaukasten  Acryl Display Box für Lego Star Wars 75159 Death Star  Kein Lego Modell '
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

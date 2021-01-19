@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41V6wFpN6TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LWJMM1S-de'
+slug: 'B01LWJMM1S-de Viewsonic XG2703-GS 68 6 cm  27 Zoll  Gaming Monitor  WQHD  IPS-Panel  4 ms  165 Hz  G-Sync  geringer input Lag  Höhenverstellbar  Schwarz'
 actualPrice: 598.63 EUR
 currency: EUR
 price: 598.63

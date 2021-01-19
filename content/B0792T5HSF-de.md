@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oLQhTBbML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792T5HSF-de'
+slug: 'B0792T5HSF-de Geox Damen D ASHEELY B Biker Boots  Blau  Blue C4000   39 EU'
 actualPrice: 68.17 EUR
 currency: EUR
 price: 68.17

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412Oq5mOkEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HRRDT7K-de'
+slug: 'B00HRRDT7K-de Sylvanian Families 4862 Dorfladen für Schuhe  Mehrfarbig'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

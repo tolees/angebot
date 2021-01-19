@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hRBgqCyRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKJKCZM-de'
+slug: 'B07FKJKCZM-de Philips HR2382/15 Pastamaker  200 W  vollautomatische Nudelmaschine  mit Wiegefunktion und 8 Formscheiben  kaschmirgrau'
 actualPrice: 162.99 EUR
 currency: EUR
 price: 162.99

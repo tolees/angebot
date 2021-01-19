@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jg2oR6YuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HNTV1G1-de'
+slug: 'B07HNTV1G1-de Kami Idea Muttertagsgeschenk Halsketten für Frauen Ringe Anhänger Swarovski Kristall Schmuck Damen Kette Geschenk für Frauen Geburtstagsgeschenk für Frauen Mama Modeschmuck Roségold Schmuckkästchen'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

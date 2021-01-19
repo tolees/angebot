@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Wn+zHyndL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZNPSTX-de'
+slug: 'B01LZNPSTX-de Willkommen bei den Hartmanns [Blu-ray]'
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

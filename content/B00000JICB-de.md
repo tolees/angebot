@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KZfsvPpxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00000JICB-de'
+slug: 'B00000JICB-de TOMY Kinderspiel "Pop Up Pirate"  Hochwertiges Aktionsspiel für die Familie  Piratenspiel zur Verfeinerung der Geschicklichkeit Ihres Kindes  Gesellschaftsspiel ab 4 Jahren  Pop up Spiel'
 actualPrice: 11.16 EUR
 currency: EUR
 price: 11.16

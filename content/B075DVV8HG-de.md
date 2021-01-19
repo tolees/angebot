@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311Z07M8LgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075DVV8HG-de'
+slug: 'B075DVV8HG-de Spyderco Dragonfly 2 Zome Taschenmesser Military Tan  Klingenlänge: 5 8 cm  01SP234'
 actualPrice: 73.01 EUR
 currency: EUR
 price: 73.01

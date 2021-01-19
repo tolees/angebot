@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419ojPdx7ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014WCLGHW-de'
+slug: 'B014WCLGHW-de Philips BTM3360/12 Stereoanlage mit Bluetooth Multipair  150 Watt  USB  MP3  schwarz'
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

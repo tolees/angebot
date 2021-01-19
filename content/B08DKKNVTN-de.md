@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hQHu1DLTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DKKNVTN-de'
+slug: 'B08DKKNVTN-de HDMI KVM Switch USB 4 Port 4K 4 PC 1 Monitor Switch 4K @ 30Hz 4 In 1 Out Hotkey Switch HDCP1.2 Ultra HD YUV 4: 4: 4 Mit Kabel Kompatibel mit Mehreren Systemen und Geräten'
 actualPrice: 82.99 EUR
 currency: EUR
 price: 82.99

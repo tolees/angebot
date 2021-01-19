@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419T3FKS7hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PZ7Q1C8-de'
+slug: 'B07PZ7Q1C8-de flintronic Herren Gürtel  Leder Ratsche Automatik Gürtel für Männer Ledergürtel Breite 3.5cm Länge 125CM  inkl Schlüsselbund & Geschenkbox '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

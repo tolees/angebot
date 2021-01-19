@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51++ssuOraL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBJBK0X-de'
+slug: 'B01NBJBK0X-de Magic Tracks Starter Set | Autorennbahn für Kinder ab 3 Jahren | Autobahn Kinder | Auto Spielzeug Set | Autorennbahn Leuchtend'
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

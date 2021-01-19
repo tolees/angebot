@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r3LmzIggL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YFY2FG-de'
+slug: 'B079YFY2FG-de Funko 30032 Pop Movies Actionfigur Harry Potter-Tom Riddle  Multicolour  Standard'
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

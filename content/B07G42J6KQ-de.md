@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aJSL7Jx1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G42J6KQ-de'
+slug: 'B07G42J6KQ-de Intel Wireless-AC 9560  M.2 2230  2x2 Ac+Bt  Gigabit  ohne Vpro'
 actualPrice: 16.23 EUR
 currency: EUR
 price: 16.23

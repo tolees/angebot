@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314rh89gyPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BOXSKT4-de'
+slug: 'B01BOXSKT4-de NIVEA SUN Pflegendes After Sun Spray  200 ml Sprühflasche'
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

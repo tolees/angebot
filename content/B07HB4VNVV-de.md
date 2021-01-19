@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RVsxx3B6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HB4VNVV-de'
+slug: 'B07HB4VNVV-de Funko 36391 POP Vinyl: Lion King: Mufasa  Multi Sammelbares Spielzeug  Mehrfarben'
 actualPrice: 9.51 EUR
 currency: EUR
 price: 9.51

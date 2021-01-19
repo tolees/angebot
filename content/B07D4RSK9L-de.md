@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZqE9nVmbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D4RSK9L-de'
+slug: 'B07D4RSK9L-de HyperX HX-HSCA-GD/NAP Cloud Alpha Gold - Gaming Kopfhörer mit In-Line Audio Control'
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CwEL5jqeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5F5Y3F-de'
+slug: 'B07M5F5Y3F-de Wrangler Damen Straight Jeans  Blau  Night Blue 78y   W31/L32'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

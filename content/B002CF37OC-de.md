@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gLpfNVnML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002CF37OC-de'
+slug: 'B002CF37OC-de Mantona Basic Scout Fotostativ  Kamerastativ bis 144cm  inkl. robuster Kugelkopf  Wasserwaage  umkehrbare Mittelsäule  ideal für Reisen und Outdoor Fotografie für DSLR Kamera  kompakt leichtes Stativ'
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

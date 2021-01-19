@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414aP7ohcTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078XXGQYQ-de'
+slug: 'B078XXGQYQ-de Briggs & Stratton Tragbarer Benzin-Inverter-Generator der PowerSmart-Serie P2200 mit 2200 Watt/1700 Watt sauberem Strom  ultraleise und leichtgewichtig'
 actualPrice: 408.0 EUR
 currency: EUR
 price: 408.0

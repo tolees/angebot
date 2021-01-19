@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51wsAOm-tpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ARYJ9NC-de'
+slug: 'B01ARYJ9NC-de Einhell Kompressor TC-AC 190/24/8  max. 8 bar  24 l-Tank  Ölschmierung  Druckminderer  Manometer + Schnellkupplung  Rückschlag-/Sicherungsventil  Standfuß mit Gummipuffer '
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

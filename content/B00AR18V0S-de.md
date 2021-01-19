@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NCEsJRh5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AR18V0S-de'
+slug: 'B00AR18V0S-de The North Face Herren Parkajacke McMurdo  tnf black  S  T0A8XZJK3'
 actualPrice: 262.94 EUR
 currency: EUR
 price: 262.94

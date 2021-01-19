@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lHpx2vOkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LPHUTOO-de'
+slug: 'B00LPHUTOO-de Vileda Steam Dampfreiniger'
 actualPrice: 54.58 EUR
 currency: EUR
 price: 54.58

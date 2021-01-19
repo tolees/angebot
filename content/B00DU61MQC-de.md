@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IzAvzkAdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DU61MQC-de'
+slug: 'B00DU61MQC-de Bei Anruf Mord  inkl. 2D-Version  [3D Blu-ray]'
 actualPrice: 11.6 EUR
 currency: EUR
 price: 11.6

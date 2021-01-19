@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-5LLKOr2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JF0AR0Y-de'
+slug: 'B00JF0AR0Y-de Microsoft Wireless Mobile Mouse 1850  Maus  schwarz  kabellos  für Rechts- und Linkshänder geeignet '
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wmaCQPQrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KKZ3YVG-de'
+slug: 'B07KKZ3YVG-de Street One Damen T-Shirt 313104 Palmira  Schwarz  Black 10001   40'
 actualPrice: 12.81 EUR
 currency: EUR
 price: 12.81

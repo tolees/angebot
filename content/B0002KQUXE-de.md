@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315Q7K76T6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0002KQUXE-de'
+slug: 'B0002KQUXE-de Technics RP-DH1200 DJ Kopfhörer silber'
 actualPrice: 106.05 EUR
 currency: EUR
 price: 106.05

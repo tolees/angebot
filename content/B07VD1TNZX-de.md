@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51UEkWBOuPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VD1TNZX-de'
+slug: 'B07VD1TNZX-de Kids Bay Walkie Talkie Kinder Spielzeuge Funkgeräte 8 Kanäle 4KM Reichweite Eingebaute Taschenlampe 3 Schlüsselbänder Wasserdicht Geschenk für Jungen/ Mädchen  3 Stück Tarnung'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

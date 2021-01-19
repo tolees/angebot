@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311n14FWwlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H58KKKT-de'
+slug: 'B07H58KKKT-de Reolink Überwachungskamera Argus 2 + Solarpanel  1080p kabellose WLAN IP Kamera mit wiederaufladbarer Batterie  2-Wege-Audio und SD Kartenslot für Außen  kostenlose App und PC-Client'
 actualPrice: 104.02 EUR
 currency: EUR
 price: 104.02

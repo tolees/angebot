@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lfgle7t+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZZNKGK8-de'
+slug: 'B07ZZNKGK8-de POP! Animation: Masters of The Universe - Sorceress'
 actualPrice: 11.67 EUR
 currency: EUR
 price: 11.67

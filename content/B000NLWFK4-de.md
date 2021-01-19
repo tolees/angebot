@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kYxpoRakL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000NLWFK4-de'
+slug: 'B000NLWFK4-de Casio Collection Herren Armbanduhr BEM-111D-1AVEF'
 actualPrice: 62.0 EUR
 currency: EUR
 price: 62.0

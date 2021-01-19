@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5146tgxE+iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000CSQ71G-de'
+slug: 'B000CSQ71G-de Eichhorn buntes Spielcenter  Motorikwürfel mit Motorikschleife  Uhr  Motorikspiel  Drehspiel und 5 Steckbausteine  für Kinder ab 1 Jahr  Größe: 20x20x36 cm'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

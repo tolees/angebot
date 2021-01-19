@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41W-l3DsEYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089SLLB33-de'
+slug: 'B089SLLB33-de PUMA Herren Boxershort Limited Statement Edition 6er Pack - Black-Navy-Blue - Gr. M'
 actualPrice: 26.59 EUR
 currency: EUR
 price: 26.59

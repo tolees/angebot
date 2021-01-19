@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31teQEjNKxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVTSJWF-de'
+slug: 'B07NVTSJWF-de Samsung WW6400 WW8HK6400QW/EG Waschmaschine 8 kg  1400 U/min  A+++  AddWash  SchaumAktiv-Technologie  FleckenIntensiv-Funktion'
 actualPrice: 738.9 EUR
 currency: EUR
 price: 738.9

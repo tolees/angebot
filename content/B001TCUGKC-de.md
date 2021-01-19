@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-lrl2+3yL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001TCUGKC-de'
+slug: 'B001TCUGKC-de Samsung GT-B2100 Outdoor Handy  1 3 MP-Kamera  MP3  IP57-Zertifizierung  wasserdicht  scarlet-red'
 actualPrice: 149.97 EUR
 currency: EUR
 price: 149.97

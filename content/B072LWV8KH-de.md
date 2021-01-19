@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61I-0HbtlDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072LWV8KH-de'
+slug: 'B072LWV8KH-de Monuments'
 actualPrice: 13.31 EUR
 currency: EUR
 price: 13.31

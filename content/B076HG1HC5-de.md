@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51AFqakYs3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HG1HC5-de'
+slug: 'B076HG1HC5-de Dell Inspiron 13 7000 7370-9702 33 78 cm  13 3 Zoll FHD  Laptop  Intel Core i7  16GB RAM  512GB SSD  Intel HD Grafik  Windows 10  silber'
 actualPrice: 700 EUR
 currency: EUR
 price: 700

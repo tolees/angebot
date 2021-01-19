@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ukYj0+pRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004X4KVXA-de'
+slug: 'B004X4KVXA-de Braun Herren Analog Quarz Armbanduhr BN0024WHBKG'
 actualPrice: 71.55 EUR
 currency: EUR
 price: 71.55

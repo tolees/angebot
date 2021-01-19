@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gqlIykUeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004QC2BE6-de'
+slug: 'B004QC2BE6-de CASO F10 Design Küchenwaage  digitale Küchenwaage  große verspiegelte Glasfläche  Wiegebereich bis 10 kg  Tara Funktion  großes LCD-Display  ideal für Küche und Büro'
 actualPrice: 14.47 EUR
 currency: EUR
 price: 14.47

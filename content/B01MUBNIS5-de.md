@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CPnrBCmIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MUBNIS5-de'
+slug: 'B01MUBNIS5-de Citizen Herren Analog Mechanisch Uhr mit Kunststoff Armband NH8380-15EE'
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

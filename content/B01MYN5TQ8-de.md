@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41C7bMnMJIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYN5TQ8-de'
+slug: 'B01MYN5TQ8-de Knauf Gartenbau Perlite Perligran 2-6 mm 100 L • zur Erden- und Substratverbesserung • für optimale Luft- und Wasserführung'
 actualPrice: 20.02 EUR
 currency: EUR
 price: 20.02

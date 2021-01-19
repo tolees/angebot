@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512y5v+RaKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002SXNXUG-de'
+slug: 'B002SXNXUG-de Nikon BF-1B Gehäusedeckel'
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6

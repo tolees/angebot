@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31f0vHyBGgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07772LRRW-de'
+slug: 'B07772LRRW-de Tommy Jeans Herren Original Jersey Kurzarm  T-Shirt Schwarz  TOMMY Black 078  Large'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

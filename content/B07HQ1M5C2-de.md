@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413WC7fQRZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HQ1M5C2-de'
+slug: 'B07HQ1M5C2-de Funko FUN334463 POP Vinylfigur Specialist FunkoPop Fortnite Tower Recon  bunt'
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

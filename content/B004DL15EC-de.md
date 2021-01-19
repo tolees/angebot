@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51u9c1jTvGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004DL15EC-de'
+slug: 'B004DL15EC-de Ravensburger tiptoi Rekorde im Tierreich memory  ab 5 Jahren  Neue Spielformen  Tiergeräusche  spannende Audioinformationen'
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

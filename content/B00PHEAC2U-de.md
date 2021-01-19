@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UCOhz4k4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PHEAC2U-de'
+slug: 'B00PHEAC2U-de caseable Kindle und Kindle Paperwhite Hülle  Dialogue with the sky'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

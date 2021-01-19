@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418sL3j4WyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00S2FZK3M-de'
+slug: 'B00S2FZK3M-de Puma Damen Straight Leg Hose  black  XL  512809 01'
 actualPrice: 12.76 EUR
 currency: EUR
 price: 12.76

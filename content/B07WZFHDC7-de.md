@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ET5dAXiJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZFHDC7-de'
+slug: 'B07WZFHDC7-de Schmidt Spiele 49365 Noch mal so gut  Würfelspiel aus der Serie Klein & Fein  bunt'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

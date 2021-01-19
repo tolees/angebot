@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PB9tRGzTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F7X2SJF-de'
+slug: 'B07F7X2SJF-de super vaule DIY 5D Diamant Malerei  Kristall Strass Stickerei Bilder Kunst Handwerk für Home Wall Decor  12  MEHRWEG'
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

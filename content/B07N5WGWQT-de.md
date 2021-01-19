@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41whwnpeYvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N5WGWQT-de'
+slug: 'B07N5WGWQT-de Funko 38578 POP Vinyl: Big Bang Theory S2: Howard Sammelbares Spielzeug  Mehrfarben'
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Gjmhj+oZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNKJCF6-de'
+slug: 'B07FNKJCF6-de ELTD Tastatur Hülle für Samsung Galaxy Tab S4 10.5  Deutsches QWERTZ-Layout  Standfunktion Hülle mit Abnehmbar Kabellose Tastatur für Samsung Galaxy Tab S4 T830/T835 10.5 Zoll 2018  Schwarz '
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FXRUEGRoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001NYY90E-de'
+slug: 'B001NYY90E-de KS Tools 515.1124 1/2" Sechskant-Kraft-Stecknuss  lang  24mm'
 actualPrice: 11.37 EUR
 currency: EUR
 price: 11.37

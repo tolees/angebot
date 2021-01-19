@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pshMiDhvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N3BEXKS-de'
+slug: 'B01N3BEXKS-de Lion - Der lange Weg nach Hause [Blu-ray]'
 actualPrice: 6.17 EUR
 currency: EUR
 price: 6.17

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510-ITWP0BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000WXJP2E-de'
+slug: 'B000WXJP2E-de Auf dem Kreuzzug Ins Glück  Deluxe-Edition mit Bonus-Tracks '
 actualPrice: 16.66 EUR
 currency: EUR
 price: 16.66

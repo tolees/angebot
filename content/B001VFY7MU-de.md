@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BVX7-+EIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001VFY7MU-de'
+slug: 'B001VFY7MU-de Maladjusted  Expanded Edition '
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

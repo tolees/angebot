@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vQ-4eiApL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FSEJHD4-de'
+slug: 'B00FSEJHD4-de KALFF KFZ-Verbandkasten Compact DIN 13164 mit Erste-Hilfe Broschüre'
 actualPrice: 6.81 EUR
 currency: EUR
 price: 6.81

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qryZHpH8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GL8HS18-de'
+slug: 'B07GL8HS18-de Fossil Herren Digital Smart Watch Armbanduhr mit Leder Armband FTW4015'
 actualPrice: 173.15 EUR
 currency: EUR
 price: 173.15

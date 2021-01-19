@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zi7c8jB4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072KKPQZ8-de'
+slug: 'B072KKPQZ8-de Western Digital 20 TB My Cloud EX2 Ultra-Netzwerkspeicher'
 actualPrice: 649.0 EUR
 currency: EUR
 price: 649.0

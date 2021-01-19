@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DVdDMsTHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GPDV1WX-de'
+slug: 'B08GPDV1WX-de Socken Herren Damen  6 Paar Wandersocken Baumwolle Sportsocken Tennissocken Arbeitssocken mit Weicher Polsterung  12er pack S08 bequemere Wintersocken Business & Freizeit  Schwarz - S06  S: 35-38 '
 actualPrice: 16.74 EUR
 currency: EUR
 price: 16.74

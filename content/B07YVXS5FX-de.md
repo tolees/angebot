@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4107rlTIPyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YVXS5FX-de'
+slug: 'B07YVXS5FX-de Beats Solo3 Wireless Kopfhörer - Satin Silber'
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

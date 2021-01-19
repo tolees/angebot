@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FKGBLxxPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3RPX4V-de'
+slug: 'B07V3RPX4V-de Tommy Hilfiger Damen Honey Mini Crossover Umhängetasche  Schwarz  Black   1x1x1 cm'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

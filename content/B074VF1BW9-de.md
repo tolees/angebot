@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ppl8zT5xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074VF1BW9-de'
+slug: 'B074VF1BW9-de Sony WH-H900N High-Resolution Kopfhörer  Kabelloser  Noise Cancelling  blau'
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

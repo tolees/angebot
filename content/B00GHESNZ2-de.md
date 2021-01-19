@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31stnDGSP0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GHESNZ2-de'
+slug: 'B00GHESNZ2-de WOLF-Garten - Elektro-Heckenschere HS 60 E; 41AF0EE5650'
 actualPrice: 49.84 EUR
 currency: EUR
 price: 49.84

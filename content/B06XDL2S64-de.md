@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513uoUMBNqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDL2S64-de'
+slug: 'B06XDL2S64-de Hasbro Hanazuki B8256EU4 - MoodGleam Farben-elektronisches Armband'
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6

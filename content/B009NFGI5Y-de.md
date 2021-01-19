@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51egEwud%2B4L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B009NFGI5Y-de'
+slug: 'B009NFGI5Y-de Mattel Games Y9598 - Scrabble Original Wörterspiel und Brettspiel geeignet für 2 - 4 Spieler  Familienspiele und Wortspiele ab 10 Jahren'
 actualPrice: 20.59 EUR
 currency: EUR
 price: 20.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MX4ZXPMdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005OQEK9W-de'
+slug: 'B005OQEK9W-de Bosch Tischbohrmaschine PBD 40  710 W  Max. Bohr-Ø in Stahl/Holz: 13 mm/40 mm  Bohrhub 90mm  im Karton '
 actualPrice: 193.99 EUR
 currency: EUR
 price: 193.99

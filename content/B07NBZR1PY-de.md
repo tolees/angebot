@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310kovk2fxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NBZR1PY-de'
+slug: 'B07NBZR1PY-de LED View Cover für Galaxy S10e Schwarz'
 actualPrice: 23.5 EUR
 currency: EUR
 price: 23.5

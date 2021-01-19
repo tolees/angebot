@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WCmQJKWIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VV2ZM5D-de'
+slug: 'B07VV2ZM5D-de Krups Nescafé Dolce Gusto Piccolo XS  Kapsel Kaffeemaschine  heiße und kalte Getränke  15 bar Pumpendruck  manuelle Wasserdosierung  Rot'
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

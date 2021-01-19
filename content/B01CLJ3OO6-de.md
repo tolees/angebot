@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rT2axX6jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CLJ3OO6-de'
+slug: 'B01CLJ3OO6-de Inter Link Sammlervitrine Hängevitrine Wandregal Glasvitrine Wandvitrine Hängeregal Schaukasten MDF Sonoma-Eiche Nachbildung BxHxT: 80 x 60 x 9.50 cm'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FPh32NaqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0777TMW1Y-de'
+slug: 'B0777TMW1Y-de Arlo Pro2 Überwachungskamera & Alarmanlage  1080p HD  3er Set  Smart Home  kabellos  Innen/Außen  Nachtsicht  130 Grad Blickwinkel  WLAN  2-Wege Audio  wetterfest  Bewegungsmelder   VMS4330P  - Weiß'
 actualPrice: 609.0 EUR
 currency: EUR
 price: 609.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31glivla84L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N684PPX-de'
+slug: 'B01N684PPX-de Haier HRF-521DS6 Side-by-Side / A+ / 179 cm Höhe / 435 kWh/Jahr / 341 L Kühlteil / 177 L Gefrierteil / No Frost / Tür Display / Silber [Energieklasse A+]'
 actualPrice: 329.47 EUR
 currency: EUR
 price: 329.47

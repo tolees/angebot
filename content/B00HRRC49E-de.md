@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FWitjdyqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HRRC49E-de'
+slug: 'B00HRRC49E-de Sylvanian Families - 5017 - Schokoladenhasen Baby mit Babybett'
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

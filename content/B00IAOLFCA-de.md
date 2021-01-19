@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51d+n1PIvML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IAOLFCA-de'
+slug: 'B00IAOLFCA-de Casio Collection Herren Armbanduhr AE-1300WH-2AVEF'
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

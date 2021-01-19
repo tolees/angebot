@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gbrYrnM3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00S17UAS6-de'
+slug: 'B00S17UAS6-de WMF Gourmet Kräutertopf mit Bewässerungssystem 3-teilig  Kräutergarten für die Küche  36x 12 5x 12 5 cm  für frische Küchenkräuter  weiß'
 actualPrice: 42.25 EUR
 currency: EUR
 price: 42.25

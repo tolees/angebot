@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Zm8YYncVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VM9XY7M-de'
+slug: 'B07VM9XY7M-de Villeroy & Boch Christmas Toy s Windlicht Bescherung  dekorative Figur aus Hartporzellan  für Teelichter geeignet  Wachs  bunt  15 x 14 x 14 cm'
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4116lQ-2JQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SJFYS4J-de'
+slug: 'B07SJFYS4J-de ASUS VivoBook S15 S532FA  90NB0MI2-M00390  39 6 cm  15 6 Zoll  FHD  WV  matt  Notebook  Intel Core i5-8265U  8GB RAM  512GB SSD  Intel UHD-Grafik 620  Windows 10  Transparent Silver'
 actualPrice: 649.0 EUR
 currency: EUR
 price: 649.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wga8Cud-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014GTG3UG-de'
+slug: 'B014GTG3UG-de Devolo dLAN pro 1200 DINrail Powerline Hutschienenadapter'
 actualPrice: 119.9 EUR
 currency: EUR
 price: 119.9

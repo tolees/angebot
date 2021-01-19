@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312R50+O15L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079SPVQFN-de'
+slug: 'B079SPVQFN-de Philips FC6826/01 SpeedPro Max Kabelloser Staubsauger  mit Akku  360°-Saugdüse  65 Min. Akkulaufzeit  kupfer'
 actualPrice: 288.0 EUR
 currency: EUR
 price: 288.0

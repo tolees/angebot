@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kUiO1RG6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079DVN3VK-de'
+slug: 'B079DVN3VK-de Träumschön Biber Bettwäsche 135x200 2tlg | Bettwäsche-Set im Karo Design | Biber Bettwäsche 135x200 cm & Kissen 80x80 | Kuschelige Bettwäsche 100% Baumwolle'
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

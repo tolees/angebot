@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41v%2BkyO9UYL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E9U5PTI-de'
+slug: 'B00E9U5PTI-de Dr. Oetker Backblech 3in1 mit Transporthaube  Ofenblech zum Backen  Aufbewahren & Transportieren  als Pizza-  Auflauf- & Kuchenblech  Maße: 42 x 29 cm'
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

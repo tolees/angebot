@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61-HUNZz0aL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CGGWWMN-de'
+slug: 'B07CGGWWMN-de Disney Malrolle selbstklebend Anna und ELSA - Großartiger Malspaß Eiskönigin - Frozen für Kinder - Basteln - Malbuch'
 actualPrice: 8.88 EUR
 currency: EUR
 price: 8.88

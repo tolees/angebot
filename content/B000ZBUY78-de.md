@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c6J6phvQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000ZBUY78-de'
+slug: 'B000ZBUY78-de Seiko Damenuhr Analog Automatisch mit Edelstahlarmband – SYMC07K1'
 actualPrice: 77.98 EUR
 currency: EUR
 price: 77.98

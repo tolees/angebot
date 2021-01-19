@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CqJ5ISdvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000OWNBMI-de'
+slug: 'B000OWNBMI-de Zeller Kinder-Regal mit Vlies Box Safari  MDF  Dekor  23.5 x 30 x 65 cm'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

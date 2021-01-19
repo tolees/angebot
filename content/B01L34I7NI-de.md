@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jT6mXxpoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L34I7NI-de'
+slug: 'B01L34I7NI-de Sony Xperia XZ Smartphone  13 2 cm  5 2 Zoll   32 GB Speicher  Android 6.0  Forest Blue'
 actualPrice: 89.84 EUR
 currency: EUR
 price: 89.84

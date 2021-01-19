@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qM0yNmuYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RB2GY4M-de'
+slug: 'B07RB2GY4M-de YLCJ Vintage Doble Bronce Industrial Industrial Lámparas de pared Lámparas de agua Steampunk Robustas para lámparas de pared Pared Retro para la cocina del granero Almacén Bar Café Ancho: 43 cm'
 actualPrice: 45.28 EUR
 currency: EUR
 price: 45.28

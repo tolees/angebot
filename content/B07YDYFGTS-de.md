@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51h+OFFSeGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YDYFGTS-de'
+slug: 'B07YDYFGTS-de OMEN 15-dc1015ng  15 6 Zoll / FHD IPS 60Hz  Gaming Laptop  Intel Core i7-9750H  16GB DDR4 RAM  512GB SSD  Nvidia GeForce GTX 1650 4GB GDDR5  Windows 10  schwarz'
 actualPrice: 715.0 EUR
 currency: EUR
 price: 715.0

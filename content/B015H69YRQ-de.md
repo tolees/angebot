@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cA08joMPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015H69YRQ-de'
+slug: 'B015H69YRQ-de Metallbaukasten  CLAAS LEXION 770  Mähdrescher  2356 Teile  Tronico  Baukasten inklusive Werkzeug'
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

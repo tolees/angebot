@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xS4C7Gx8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CQKKFKN-de'
+slug: 'B07CQKKFKN-de No Way Out - Gegen die Flammen [Blu-ray]'
 actualPrice: 6.33 EUR
 currency: EUR
 price: 6.33

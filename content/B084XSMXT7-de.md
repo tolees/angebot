@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fyDthEdRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084XSMXT7-de'
+slug: 'B084XSMXT7-de LG Electronics 75UM7050PLF 189 cm  75 Zoll  UHD Fernseher  4K  Triple Tuner  DVB-T2/T -C -S2/S   Active HDR  50 Hz  Smart TV  [Modelljahr 2020]'
 actualPrice: 849.0 EUR
 currency: EUR
 price: 849.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mwGSlWg4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HHJZOF2-de'
+slug: 'B01HHJZOF2-de Crocs Fun Lab Frozen Clog  Mädchen Clogs  Blau  Navy   34/35 EU'
 actualPrice: 19.05 EUR
 currency: EUR
 price: 19.05

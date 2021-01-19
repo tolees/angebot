@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NUHT-PiML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QHTQYJ9-de'
+slug: 'B07QHTQYJ9-de AGT Staubsaugerdüse: 3er-Set Universal-Staubsauger-Aufsätze mit 30 flexiblen Saug-Röhrchen  Tastatur Reiniger '
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

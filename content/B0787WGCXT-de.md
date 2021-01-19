@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FC+MbAjyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0787WGCXT-de'
+slug: 'B0787WGCXT-de Viewsonic VX3276-MHD-2 80 cm  32 Zoll  Design Monitor  Full-HD  IPS-Panel  HDMI  DP  Eye-Care  Eco-Mode  Lautsprecher  silber-schwarz'
 actualPrice: 164.95 EUR
 currency: EUR
 price: 164.95

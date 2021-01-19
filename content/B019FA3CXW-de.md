@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51H4nra8k+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019FA3CXW-de'
+slug: 'B019FA3CXW-de Star Wars: Das Erwachen der Macht'
 actualPrice: 2.56 EUR
 currency: EUR
 price: 2.56

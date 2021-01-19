@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410GnpJHtjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071VTGDQQ-de'
+slug: 'B071VTGDQQ-de Funko 14751 The Last Jedi No Bobble: Star Wars: E8 TLJ: BB-9E  POP 10   Multi'
 actualPrice: 3.44 EUR
 currency: EUR
 price: 3.44

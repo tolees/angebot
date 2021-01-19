@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rh5VEQFOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SLP7XX8-de'
+slug: 'B07SLP7XX8-de FIFA 20 | Xbox One - Download Code'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

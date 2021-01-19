@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31K6rH5z5mL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CMW58WR-de'
+slug: 'B07CMW58WR-de De Longhi Nespresso Vertuo Plus | ENV 155.B Kaffeekapselmaschine | Eine Kaffeemaschine  5 Tassengrößen | Inkl. Willkommenspaket mit 12 Kapseln | 1 7 L | schwarz'
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

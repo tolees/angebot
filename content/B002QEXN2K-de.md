@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Cy2w3WzGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002QEXN2K-de'
+slug: 'B002QEXN2K-de Battle Studies'
 actualPrice: 2.86 EUR
 currency: EUR
 price: 2.86

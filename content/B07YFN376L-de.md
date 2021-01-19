@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41T8CYD1gWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFN376L-de'
+slug: 'B07YFN376L-de Zendure SuperMini Powerbank mit 10.000 mAh  robust  klein und leistungsstark  2-Port QC 3.0 mit 18W Schnellladefunktion für iPhone  iPad  Android  Nintendo Switch  Handgepäck geeignet   Blau'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

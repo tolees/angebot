@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61ujXl21ALL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G2PK4RT-de'
+slug: 'B07G2PK4RT-de Dionysus'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

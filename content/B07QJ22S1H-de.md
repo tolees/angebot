@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gn5aSv8qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJ22S1H-de'
+slug: 'B07QJ22S1H-de Funko 40876 POP Vinyl Animation: Disenchantment-Bean Sammelbares Spielzeug  Mehrfarben'
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

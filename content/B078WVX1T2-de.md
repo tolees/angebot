@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hhstl2UkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WVX1T2-de'
+slug: 'B078WVX1T2-de Paco Home Designer Teppich Wohnzimmer Ausgefallen Farbkombination Jungle Design Mehrfarbig  Grösse:160x220 cm'
 actualPrice: 29.52 EUR
 currency: EUR
 price: 29.52

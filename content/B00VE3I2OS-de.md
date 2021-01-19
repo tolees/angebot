@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/415Ao-Yu9XL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VE3I2OS-de'
+slug: 'B00VE3I2OS-de Emsa 515617 Travel Mug Standard-Design Grande  Thermobecher/Isolierbecher  500ml  hält 6h heiß/ 12h kalt  100% dicht  auslaufsicher  Easy Quick-Press-Verschluss  360°-Trinköffnung  Farbe rot'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

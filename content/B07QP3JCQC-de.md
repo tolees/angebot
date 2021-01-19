@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51nw3TKW1tL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QP3JCQC-de'
+slug: 'B07QP3JCQC-de Dickie Toys Harry Potter Tarnumhang  Umhang unsichtbar machen mit App  Zauberumhang  Heiligtümer des Todes  Harry Potter Kostüm'
 actualPrice: 53.14 EUR
 currency: EUR
 price: 53.14

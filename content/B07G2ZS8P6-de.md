@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410w9rcL-0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G2ZS8P6-de'
+slug: 'B07G2ZS8P6-de Tacklife ACP1B Luftkompressor  Digitaler 12V Kompressor  Auto Luftpumpe mit Überhitzungsschutz  Pump 35L/ min  Große LCD-Anzeige & LED Lampe  3 Adapter  Zusätzliche Sicherung'
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

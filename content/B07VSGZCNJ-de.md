@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MIqY6g2kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSGZCNJ-de'
+slug: 'B07VSGZCNJ-de Microsoft Xbox Wireless Controller  Night Ops Camo  Special Edition'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

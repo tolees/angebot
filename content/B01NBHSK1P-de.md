@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31w4hv0K6tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBHSK1P-de'
+slug: 'B01NBHSK1P-de Tristar VE-5999 Ventilator Turmventilator mit Fernbedienung und Timerfunktion - mit handgriff und 3 einstellbare Leistungsstufen  45 W  240 V  Schwarz  Weiß'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31K67ZEd43L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018LLIX94-de'
+slug: 'B018LLIX94-de Tommy Hilfiger Herren CORE HILFIGER REGULAR POLO Poloshirt  Schwarz  Flag Black 060   X-Large'
 actualPrice: 49.47 EUR
 currency: EUR
 price: 49.47

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BrEFBLWRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4CFT7V-de'
+slug: 'B07W4CFT7V-de Nackenmassagegerät Shiatsu Massagegerät mit Wärmefunktion für Schulter Nacken Rücken - Elektrisch Massagekissen mit 3D-Rotation Massage für Muskel Schmerzlinderung  inkl. Tragetasche'
 actualPrice: 38.98 EUR
 currency: EUR
 price: 38.98

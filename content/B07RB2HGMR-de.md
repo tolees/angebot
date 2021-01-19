@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317XMwCzJVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RB2HGMR-de'
+slug: 'B07RB2HGMR-de YLCJ - Lámpara colgante moderna de 14  con lámpara colgante en hierro de cocina con detalles en madera Cinco colores para restaurante Comedor Hall Café Loft Cocina Granero Almacén'
 actualPrice: 44.97 EUR
 currency: EUR
 price: 44.97

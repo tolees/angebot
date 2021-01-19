@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51N8tWehzwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W9GCQHR-de'
+slug: 'B06W9GCQHR-de Schleich 42389 - Reitschule mit Reiterinnen und Pferden'
 actualPrice: 35.79 EUR
 currency: EUR
 price: 35.79

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MIpQQEbXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D83JHPB-de'
+slug: 'B07D83JHPB-de Honor 10 Smartphone  14 83 cm  5 84 Zoll   Full HD+ Touch-Display  64GB interner Speicher  4GB RAM  Phantom Grün - Deutsche Version'
 actualPrice: 180.0 EUR
 currency: EUR
 price: 180.0

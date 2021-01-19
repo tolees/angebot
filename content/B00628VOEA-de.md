@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LBZ+ZPcIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00628VOEA-de'
+slug: 'B00628VOEA-de ghd air Haartrockner  schwarz'
 actualPrice: 96.75 EUR
 currency: EUR
 price: 96.75

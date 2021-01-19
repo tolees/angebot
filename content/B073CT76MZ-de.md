@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4100xBmxveL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073CT76MZ-de'
+slug: 'B073CT76MZ-de Beurer BF 600 Diagnosewaage schwarz  Messung von Körperfett  Körperwasser  Muskelanteil und Knochenmasse  mit App-Anbindung  zertifizierter Datenschutz'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

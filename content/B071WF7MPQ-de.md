@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tgGwxtd8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WF7MPQ-de'
+slug: 'B071WF7MPQ-de Fast & Furious - 8 Movie Collection [Blu-ray]'
 actualPrice: 24.97 EUR
 currency: EUR
 price: 24.97

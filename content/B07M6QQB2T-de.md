@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q8iiqdnsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M6QQB2T-de'
+slug: 'B07M6QQB2T-de Meerjungfrau Decke Geschenke Beste Freundin - Personalisierte Handgemacht Gestrickt Warmes Wohnzimmer Sofa Decke Damen Mädchen Für Weihnachts Geburtstagsgeschenk  S1-Hell Blau  Erwachsene 180x90CM '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

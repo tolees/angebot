@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YX2GHrMYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GOMZS2S-de'
+slug: 'B00GOMZS2S-de Grundig MS 6240 Herrenrasierer'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

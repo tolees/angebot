@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VYsSsMa-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HD2JGWS-de'
+slug: 'B07HD2JGWS-de Mattel GGX27 - Toy Story 4 Bunny  17 cm Spielzeug Actionfigur ab 3 Jahren'
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

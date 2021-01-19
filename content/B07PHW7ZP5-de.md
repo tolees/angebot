@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PV+59XxsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHW7ZP5-de'
+slug: 'B07PHW7ZP5-de JFUME Herren Magnet Armband Männer Armbänder aus Edelstahl mit Link Remove Tool Schwarz'
 actualPrice: 21.96 EUR
 currency: EUR
 price: 21.96

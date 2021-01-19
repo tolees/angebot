@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31m+UxgSZQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0002YYSOS-de'
+slug: 'B0002YYSOS-de Element System Wandschiene 1-reihig  2 Stück  4 Abmessungen  3 farben  Länge 50 cm für Regalsystem  Regalträger  Wandregal  weiß  10000-00000'
 actualPrice: 3.39 EUR
 currency: EUR
 price: 3.39

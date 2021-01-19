@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41THLXJLDaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9K98LV-de'
+slug: 'B07B9K98LV-de Tommy Hilfiger Herren-Armbanduhr Denim'
 actualPrice: 79.8 EUR
 currency: EUR
 price: 79.8

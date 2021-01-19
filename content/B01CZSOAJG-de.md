@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IMuqcnTkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CZSOAJG-de'
+slug: 'B01CZSOAJG-de Jim Beam Double Oak Bourbon Whiskey  1 x 0.7 l '
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

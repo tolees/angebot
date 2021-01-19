@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312P8yr+NNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMPGNHK-de'
+slug: 'B07JMPGNHK-de Xiaomi M1808D2TGN-64 Mi 8 Lite Smartphone  64 GB schwarz  Midnight Black '
 actualPrice: 170.0 EUR
 currency: EUR
 price: 170.0

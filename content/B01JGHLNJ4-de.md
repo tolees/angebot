@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51fXX31aapL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JGHLNJ4-de'
+slug: 'B01JGHLNJ4-de Einhell Sägekettenschärfgerät GC-CS 85  Schleifscheibe  Tiefenbegrenzung  Kettenspannvorrichtung  präzise Schleifwinkeleinstellung '
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

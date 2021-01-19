@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41tuKrx5z0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXVB5NX-de'
+slug: 'B07GXVB5NX-de Timezone Herren Slim ScottTZ Shorts  Blau  Used Bright Blue wash 3348   W30/L34'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

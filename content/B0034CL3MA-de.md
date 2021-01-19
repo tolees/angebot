@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hsm88qvyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0034CL3MA-de'
+slug: 'B0034CL3MA-de TP-Link TL-SF1008D 8-Port Fast Ethernet-/Netzwerk-/Lan Switch  10/100Mbit/s  automatische Geschwindigkeits- und Duplexanpassung  Plug-und-Play  Auto-MDI/MDIX  lüfterlos  weiß'
 actualPrice: 8.47 EUR
 currency: EUR
 price: 8.47

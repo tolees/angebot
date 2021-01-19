@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZO6UqzLTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6FMYWN-de'
+slug: 'B07P6FMYWN-de PLAYMOBIL:THE MOVIE 70071 Robotitron mit Drohne  Ab 5 Jahren'
 actualPrice: 11.17 EUR
 currency: EUR
 price: 11.17

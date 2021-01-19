@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51U4STGhdXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JMXFXMK-de'
+slug: 'B01JMXFXMK-de Beregnungsschlauch Bewässerungsschlauch / Sprühschlauch 20m schwarz inkl. Anschlüsse / sofort Startklar'
 actualPrice: 23.91 EUR
 currency: EUR
 price: 23.91

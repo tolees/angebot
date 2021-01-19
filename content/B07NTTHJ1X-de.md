@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61vCgiPapyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NTTHJ1X-de'
+slug: 'B07NTTHJ1X-de Borderlands 3 - Standard Edition Code in der Box - [PC]'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

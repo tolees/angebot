@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/410GOyFmTuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0777TSSFW-de'
+slug: 'B0777TSSFW-de Funko 28632 S4 Demogorgon POP Vinylfigur: Stranger Things: Dart Demodog  Multi'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

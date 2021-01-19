@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RhHZA+PqL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086QXGMHH-de'
+slug: 'B086QXGMHH-de HMY Transparente Florero vidrio Florero hidropónico Floreros decorativo Flor Florero para Sala De Estar Estudio Dormitorio Cocina Sala De Recepción Sala De Reuniones Morado H30.5xw13cm'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

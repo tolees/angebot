@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21935WSOQ0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DGSZDZX-de'
+slug: 'B07DGSZDZX-de GoPro Hülle + Trageband  offizielles GoPro-Zubehör  Schwarz'
 actualPrice: 7.12 EUR
 currency: EUR
 price: 7.12

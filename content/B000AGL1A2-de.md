@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xvWxp62HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000AGL1A2-de'
+slug: 'B000AGL1A2-de Sämtliche Sinfonien  Ga '
 actualPrice: 8.82 EUR
 currency: EUR
 price: 8.82

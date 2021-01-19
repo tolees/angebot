@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nybXScZDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0052WHO2S-de'
+slug: 'B0052WHO2S-de Brother FS20 Computer-Nähmaschine mit 32 Nähprogramme  Automatisches Nähen  Freiarm  Multifunktionsdisplay'
 actualPrice: 179.98 EUR
 currency: EUR
 price: 179.98

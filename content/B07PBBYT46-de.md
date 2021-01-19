@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KZj7GOwSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PBBYT46-de'
+slug: 'B07PBBYT46-de Funko 41965 POP Vinyl: Filme: Silence of Lambs-Hannibal Sammelbares Spielzeug  Mehrfarben'
 actualPrice: 5.63 EUR
 currency: EUR
 price: 5.63

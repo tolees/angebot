@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cBwGl1o3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q1JRTHS-de'
+slug: 'B07Q1JRTHS-de Funko 42869 POP Vinyl: NFL: Cowboys-Amari Cooper  Home Jersey  Sammelbares Spielzeug  Mehrfarben'
 actualPrice: 7.39 EUR
 currency: EUR
 price: 7.39

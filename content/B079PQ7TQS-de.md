@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RwZl34jrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079PQ7TQS-de'
+slug: 'B079PQ7TQS-de Funko Pop Marvel: Avengers Infinity War - Captain America Collectible Figur'
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

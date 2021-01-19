@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318OvO0VvhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N9BK3J9-de'
+slug: 'B07N9BK3J9-de JBL Live 500BT kabellose Over-Ear Kopfhörer - Bluetooth Ohrhörer mit 30 Stunden Akkulaufzeit und Alexa-Integration - Musik hören  streamen und telefonieren unterwegs  weiß'
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

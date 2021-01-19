@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sjGKHIp6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QMB3LY3-de'
+slug: 'B07QMB3LY3-de Dickie Toys 203715011 Police Chase  Polizeiauto  Spielzeugauto  Helikopter  Spielset  3er Set mit Licht & Sound  Mehrfarbig'
 actualPrice: 14.71 EUR
 currency: EUR
 price: 14.71

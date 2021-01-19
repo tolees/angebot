@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KI4HZgPZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XCK5PRM-de'
+slug: 'B07XCK5PRM-de Tageslichtlampe  10000 Lux Tageslichtleuchte LED Lichtdusche Einstellbare Helligkeitsstufen Tageslicht Lichttherapie Lampe Nachtlicht mit Multi Winkel Ständer zum Ausgleich von Lichtmangel'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

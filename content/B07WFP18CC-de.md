@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LTRt-yAHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WFP18CC-de'
+slug: 'B07WFP18CC-de SEIKO Automatische Uhr SRPD51K2  blau  Sport'
 actualPrice: 189.2 EUR
 currency: EUR
 price: 189.2

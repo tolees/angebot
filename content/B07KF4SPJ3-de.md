@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311SHXtlUDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF4SPJ3-de'
+slug: 'B07KF4SPJ3-de Levi s Damen 312 Shaping Slim Jeans  Grey Horizont 0102  30W / 32L'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

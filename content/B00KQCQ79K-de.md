@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A+mKwxKeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KQCQ79K-de'
+slug: 'B00KQCQ79K-de Omron Schrittzähler Walking style IV'
 actualPrice: 23.82 EUR
 currency: EUR
 price: 23.82

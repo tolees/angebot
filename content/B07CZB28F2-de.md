@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZVrNunb-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZB28F2-de'
+slug: 'B07CZB28F2-de Keg Bierspender  Merrday Edelstahl Mini Fass Bier Growler Speer Tap Dispenser für Handwerk Bier Wachsen Homebrew Speer 2L / 3.6L / 4L / 5L / 10L'
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511X770RgQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083TF4SNM-de'
+slug: 'B083TF4SNM-de OBEEII Mädchen Anna ELSA Prinzessin Kostüm Eiskönigin Frozen Kleid Schneekönigin Umhang Prinzessinnenkleid Kinder Festlich Karneval Cosplay Party Halloween Festkleid 2-3 Jahre'
 actualPrice: 13.07 EUR
 currency: EUR
 price: 13.07

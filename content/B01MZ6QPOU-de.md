@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31RScDljlzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZ6QPOU-de'
+slug: 'B01MZ6QPOU-de Samsung GX-MB540TL DVB-T2 HD Receiver  freenet TV connect  Wi-Fi Unterstützung  schwarz'
 actualPrice: 32.49 EUR
 currency: EUR
 price: 32.49

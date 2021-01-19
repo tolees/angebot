@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WPjm47HSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QB1JYQH-de'
+slug: 'B07QB1JYQH-de HERZ KRAFT WERKE  Deluxe Edition '
 actualPrice: 8.24 EUR
 currency: EUR
 price: 8.24

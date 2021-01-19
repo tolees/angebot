@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pyTA-gw0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M9GC54O-de'
+slug: 'B01M9GC54O-de BOSS Herren RN 2P CO/EL T-Shirts  Schwarz  Black 1   Small  2er Pack '
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

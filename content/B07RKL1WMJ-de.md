@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hKbl5nVaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RKL1WMJ-de'
+slug: 'B07RKL1WMJ-de Lüfterloser Mini-PC-Stick Windows 10 Pro  64-Bit   T6 Intel Atom Z8350 Computer Stick 2GB RAM/ 32GB eMMC  Unterstützung von 4K HD  Dual Band WLAN  USB 3.0  Bluetooth 4.2  Auto Power On'
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

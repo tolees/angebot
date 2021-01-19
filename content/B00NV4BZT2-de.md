@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zriYy46JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NV4BZT2-de'
+slug: 'B00NV4BZT2-de Epson B11B223401 Perfection V800 Photo Scanner Flachbett-Scanner  6.400 dpi x 9  schwarz/silber'
 actualPrice: 361.0 EUR
 currency: EUR
 price: 361.0

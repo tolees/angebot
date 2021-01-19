@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311zbDeRpQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PXCFSZL-de'
+slug: 'B07PXCFSZL-de VGA HDMI Dummy Plug Virtueller Display-Emulator-Adapter DDC Edid-Unterstützung 1920x1080P für Videokarte BTC Mining Miner - Silber'
 actualPrice: 1.38 EUR
 currency: EUR
 price: 1.38

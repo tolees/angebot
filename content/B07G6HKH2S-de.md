@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lR6DTs5jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G6HKH2S-de'
+slug: 'B07G6HKH2S-de Remington Elektrischer Rasierer Herren R9  +Bart-Stylingsaufsatz  LED Minuten-Display  Turbo   Nass- & Trocken-Rasierapparat  Lithium  Präzisionstrimmer  Aufbewahrungstasche  XR1570 Rotationsrasierer '
 actualPrice: 52.49 EUR
 currency: EUR
 price: 52.49

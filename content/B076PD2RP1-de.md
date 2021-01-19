@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FTCR1+mUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076PD2RP1-de'
+slug: 'B076PD2RP1-de adidas Herren REGI18 PES PNT Sport Trousers  Black/White  M'
 actualPrice: 16.7 EUR
 currency: EUR
 price: 16.7

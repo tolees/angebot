@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EWBwyZnJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019U4YGWE-de'
+slug: 'B019U4YGWE-de Triumph Damen Halbschalen BH Body Make-Up Essent WHP  Schwarz  Black 04   Gr. 80B'
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

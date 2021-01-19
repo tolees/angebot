@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ioFqO-cGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BCCST7K-de'
+slug: 'B01BCCST7K-de B.K.Licht I LED Deckenleuchte I Schwenkbar I Inkl. 2x 3W Leuchtmittel GU10 I Warmweiße Lichtfarbe I LED Deckenlampe I LED Deckenstrahler I LED Deckenspot I Länge: 25cm'
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

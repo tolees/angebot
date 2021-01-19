@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tQsD60iXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MSHJKS-de'
+slug: 'B079MSHJKS-de PLAYMOBIL City Life 9456 Chemieunterricht  Ab 5 Jahren'
 actualPrice: 12.18 EUR
 currency: EUR
 price: 12.18

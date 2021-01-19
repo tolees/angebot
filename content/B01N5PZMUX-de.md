@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41KGSkL9ffL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5PZMUX-de'
+slug: 'B01N5PZMUX-de Rosenstein & Söhne Kaffeepresse: Thermo-Kaffeebereiter  French-Press  Edelstahl  doppelwandig  350 ml  Kaffeekannen '
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

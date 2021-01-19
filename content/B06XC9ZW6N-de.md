@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iWeQh-7jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XC9ZW6N-de'
+slug: 'B06XC9ZW6N-de Olympus OM-D E-M10 Mark III Micro Four Thirds Systemkamera  16 Megapixel  Bildstabilisator  elektronischer Sucher  4K-Video  schwarz'
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

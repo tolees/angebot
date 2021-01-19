@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PJ0VcQR5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TKNJW1G-de'
+slug: 'B00TKNJW1G-de Sylvanian Families 2243 - Gartenbank mit Springbrunnen'
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

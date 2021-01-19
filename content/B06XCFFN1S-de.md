@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gmcTSbJ1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCFFN1S-de'
+slug: 'B06XCFFN1S-de G-STAR RAW Herren 3301 Deconstructed Skinny Jeans  Blau  medium Indigo Aged 8968-6028   33W/30L'
 actualPrice: 52.79 EUR
 currency: EUR
 price: 52.79

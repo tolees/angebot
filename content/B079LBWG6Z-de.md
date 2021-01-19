@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+V7xOCfyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079LBWG6Z-de'
+slug: 'B079LBWG6Z-de Olympus PEN E-PL9 Micro Four Thirds Systemkamera  16 Megapixel  Bildstabilisator  elektronischer Sucher  4k-Video  weiß'
 actualPrice: 335.33 EUR
 currency: EUR
 price: 335.33

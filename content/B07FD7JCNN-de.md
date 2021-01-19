@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512CYOiMlaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FD7JCNN-de'
+slug: 'B07FD7JCNN-de Straw Constructor STEM Building Toys 800 pcs-Colorful Interlocking Plastic Enginnering Toys- Fun- Educational- Safe for Kids- Develops Motor Skills-Construction Blocks- Best Gift for Boys and Girls …'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

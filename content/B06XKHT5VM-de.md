@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61J0RhVx9mL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XKHT5VM-de'
+slug: 'B06XKHT5VM-de Carrera 20062428 GO'
 actualPrice: 50.04 EUR
 currency: EUR
 price: 50.04

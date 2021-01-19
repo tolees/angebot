@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vN6ZrihmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084RPR1VD-de'
+slug: 'B084RPR1VD-de Bellivalini Damen Kurze Leggings aus Viskose BLV50-149  Schwarz  3XL '
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

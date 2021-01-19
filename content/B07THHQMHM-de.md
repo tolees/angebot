@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sbDxeNSQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07THHQMHM-de'
+slug: 'B07THHQMHM-de Anker Wireless Charger PowerWave Ladepad  Kabelloses 7.5W Ladegerät für iPhone 11/XR/XS/X/8  10W für Samsung Galaxy S20/S10/S9/S9+/S8  Netzteil Nicht inklusive  120cm Kabel inklusive '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

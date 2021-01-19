@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TSafAtuUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZFP755Z-de'
+slug: 'B07ZFP755Z-de Tommy Hilfiger Herren Stretch Slim Fit Long Sleeve Tee Hemd  Blue  L'
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

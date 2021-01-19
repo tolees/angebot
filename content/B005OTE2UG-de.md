@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61RUow3M-DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005OTE2UG-de'
+slug: 'B005OTE2UG-de Hook [Blu-ray]'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

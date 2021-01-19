@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SUfbCQjPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HJ89PGH-de'
+slug: 'B07HJ89PGH-de Pop Tokyo Ghoul Rize Vinyl Figure'
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51c1vwU9UvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085DNHW96-de'
+slug: 'B085DNHW96-de 100 Blatt A4 Farbigen Kopierpapier Papier  Set aus 10 Farben  bunte Blätter in 80g/m²  für Drucker DIY Kunst Handwerk Kopierpapier farbig'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

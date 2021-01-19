@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/612rpYQtWQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMCC38B-de'
+slug: 'B07JMCC38B-de PLAYMOBIL 70039 - DreamWorks Dragons Todbringer und Grimmel  Ab 4 Jahren'
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

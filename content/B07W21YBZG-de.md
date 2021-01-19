@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pHXElZ-hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W21YBZG-de'
+slug: 'B07W21YBZG-de Kate Lynn Muttertagsgeschenk Armband Frauen schmuck Damen Swarovski Kristallarmband geschenkset schmuckkästchen Geschenke für Frauen Mama Frau Freundin Mädchen Freunde Jahrestag Geschenkidee'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

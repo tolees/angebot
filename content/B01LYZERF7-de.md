@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KtfeRF8vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYZERF7-de'
+slug: 'B01LYZERF7-de Brennenstuhl Comfort-Line Plus  Steckdosenleiste 6-fach  Steckerleiste mit Flachstecker und Schalter  Mehrfachsteckdose mit 2m Kabel und extra breiten Abständen der Steckdosen  weiß'
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

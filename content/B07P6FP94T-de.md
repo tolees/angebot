@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51S2yjYkWlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6FP94T-de'
+slug: 'B07P6FP94T-de PLAYMOBIL Novelmore 70224 Geniale Wasserballiste  Für Kinder von 5-10 Jahren'
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

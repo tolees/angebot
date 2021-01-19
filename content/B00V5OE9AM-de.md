@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zuuFlWDzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V5OE9AM-de'
+slug: 'B00V5OE9AM-de Complete Studio Album  Limited Coloured LP-Box  [Vinyl LP]'
 actualPrice: 301.21 EUR
 currency: EUR
 price: 301.21

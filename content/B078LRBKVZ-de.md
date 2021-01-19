@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41J4zQfM9OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078LRBKVZ-de'
+slug: 'B078LRBKVZ-de Kronenschein® Premium Herren Geldbörse mit Geldklammer Portemonnaie klein Geldbeutel Männer Portmonee RFID Portmonaise Slim Wallet Geldtasche Brieftasche Kreditkartenetui Kartenetui Geldclip'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

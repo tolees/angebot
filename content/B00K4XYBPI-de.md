@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jKllsnJDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K4XYBPI-de'
+slug: 'B00K4XYBPI-de ANSMANN 1400-0058 A-Oly BLN 1 Li-Ion Digicam Akku 7 4V/1140mAh für Olympus Foto Digitalkamera'
 actualPrice: 16.55 EUR
 currency: EUR
 price: 16.55

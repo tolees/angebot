@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Gz5b0wt+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AN8ZF58-de'
+slug: 'B01AN8ZF58-de Legend - Steel Edition [Blu-ray]'
 actualPrice: 5.93 EUR
 currency: EUR
 price: 5.93

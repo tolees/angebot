@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/616Dp3nQstL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8V5DCJ-de'
+slug: 'B07B8V5DCJ-de JBL GO 2 kleine Musikbox - Wasserfester  portabler Bluetooth-Lautsprecher mit Freisprechfunktion - Bis zu 5 Stunden Musikgenuss mit nur einer Akku-Ladung Mint'
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

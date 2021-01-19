@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SQZ3f4blL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N14WJ7G-de'
+slug: 'B07N14WJ7G-de G-STAR RAW Herren 3301 Straight Jeans  Blau  Worker Blue Faded A088-A888   32W / 38L'
 actualPrice: 35.11 EUR
 currency: EUR
 price: 35.11

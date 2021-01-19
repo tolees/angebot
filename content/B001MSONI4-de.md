@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G6qGjVTgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001MSONI4-de'
+slug: 'B001MSONI4-de Catwalk Collection Handbags - Leder - Übergroße Laptoptasche Schultasche/Organizer/Arbeitstasche/Aktentasche für Damen - Laptop/iPad - Handtasche mit Schultergurt - HELENA - Braun'
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

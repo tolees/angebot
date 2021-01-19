@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41I0zBLR56L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M1JQCQU-de'
+slug: 'B01M1JQCQU-de Fossil Damen-Armband JA6851791'
 actualPrice: 27.88 EUR
 currency: EUR
 price: 27.88

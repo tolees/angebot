@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ujl7bLJpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LDRH928-de'
+slug: 'B07LDRH928-de Ankermann Business Office Work PC Intel Core i5 4X 3.1 GHz Graphic DVI-HDMI-VGA 16GB RAM 480GB SSD 500GB HDD Windows 10 PRO W-LAN Office Professional'
 actualPrice: 369.0 EUR
 currency: EUR
 price: 369.0

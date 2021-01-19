@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51O6blODLvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I2BO5YA-de'
+slug: 'B01I2BO5YA-de Lucy   4K Ultra HD   + Blu-ray '
 actualPrice: 16.96 EUR
 currency: EUR
 price: 16.96

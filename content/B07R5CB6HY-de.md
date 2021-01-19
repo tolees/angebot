@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Jzm+RXi0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R5CB6HY-de'
+slug: 'B07R5CB6HY-de Belkin Thunderbolt 3 Mini-Dock mit Integriertem Thunderbolt 3-Kabel  Thunderbolt Dock für Mac OS- und Windows USB-C-Laptops '
 actualPrice: 133.58 EUR
 currency: EUR
 price: 133.58

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61sm6spSsCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X5H5QF7-de'
+slug: 'B07X5H5QF7-de ETEPON Bausteine STEM Spielzeug  160 Stück Baugebäude Spielzeug Pädagogische Lernspielzeug  Kreatives Geschenk für Kinder Jungen & Mädchen'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

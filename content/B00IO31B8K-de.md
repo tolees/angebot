@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315jci-LCGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IO31B8K-de'
+slug: 'B00IO31B8K-de Sony BDV-N5200W 5.1 3D-DVD/Blu-ray Heimkinosystem  Bluetooth  WLAN  Smart TV  NFC  schwarz'
 actualPrice: 475.82 EUR
 currency: EUR
 price: 475.82

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QVzNspuiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0083H2KFA-de'
+slug: 'B0083H2KFA-de Odys Seal 9 tragbarer DVD-Player  mit zusätzlichem  drehbarem Bildschirm  23 cm  9 Zoll   hochauflösendes digitales TFT-Display  800x480 Pixel   USB  SD-Card   Autopaket  Fernbedienung  schwarz'
 actualPrice: 97.47 EUR
 currency: EUR
 price: 97.47

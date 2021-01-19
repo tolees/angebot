@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DYNIQk-7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00004THGD-de'
+slug: 'B00004THGD-de Hook [Collector s Edition]'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

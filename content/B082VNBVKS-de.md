@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EN2EFuC+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082VNBVKS-de'
+slug: 'B082VNBVKS-de L Oréal Men Expert Invincible Sport Duschgel  mit Zitrusduft reinigt Gesicht  Körper und Haare ohne auszutrocknen regeneriert Muskeln nach Sport  1 x 300 ml '
 actualPrice: 1.87 EUR
 currency: EUR
 price: 1.87

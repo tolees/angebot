@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41E8Adu2EyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EUWE4BY-de'
+slug: 'B01EUWE4BY-de Duschdas Duschgel  für ein besseres Gefühl mit erfrischendem Kräuterduft  6 x 250 ml '
 actualPrice: 3.91 EUR
 currency: EUR
 price: 3.91

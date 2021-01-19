@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312XDM+HmUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MST9Y5K-de'
+slug: 'B07MST9Y5K-de Razer Kraken - Gaming Headset mit Kühlenden Gel-Ohrpolstern für Ambitionierte Gamer  Grün '
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

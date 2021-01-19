@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/210--RVDflL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TL2GRTQ-de'
+slug: 'B07TL2GRTQ-de Huawei B535 4G LTE Router 3Pro  Cat.7  4G LTE bis zu 300 Mbit/s Download   100 Mbit/s Upload   WiFi 300Mbps 2.4GHz +867Mbps 5GHz   4x Gigabit LAN  Weiß'
 actualPrice: 89.45 EUR
 currency: EUR
 price: 89.45

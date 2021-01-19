@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IcrWbq7rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WBYD5NT-de'
+slug: 'B07WBYD5NT-de Philips AC0820/10 Luftreiniger Kompakt  für Allergiker  bis zu 49M²  Cadr 190M³/H  Aerasense Sensor  weiß'
 actualPrice: 103.99 EUR
 currency: EUR
 price: 103.99

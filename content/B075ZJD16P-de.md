@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TSxWx+SjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075ZJD16P-de'
+slug: 'B075ZJD16P-de Haier HWD80-B14636 Waschtrockner / A / 1080 kWh/Jahr /1400 UpM / 8 kg Waschen / 5kg Trocken / Endzeitvorwahl / AquaProtect'
 actualPrice: 225.0 EUR
 currency: EUR
 price: 225.0

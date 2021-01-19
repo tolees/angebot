@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fltzMJF5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0187QND5M-de'
+slug: 'B0187QND5M-de Kärcher Fensterdüse für Kärcher Dampfreiniger  Streifenfreie Reinigung von Glas  Fenstern und Spiegeln  Dampfaustrittsöffnungen an der Düse  kleine Maße und geringes Gewicht '
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

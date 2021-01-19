@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XmQIwyPAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AZYPDY4-de'
+slug: 'B00AZYPDY4-de WOLF-Garten - Amboss Astschere »Comfort Plus« POWER CUT** RS 750; 73AGA007650'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

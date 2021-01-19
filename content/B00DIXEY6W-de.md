@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r6bg5KTdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DIXEY6W-de'
+slug: 'B00DIXEY6W-de LogiLink KAB0039 Kabel-Clip Selbstklebend schwarz'
 actualPrice: 2.82 EUR
 currency: EUR
 price: 2.82

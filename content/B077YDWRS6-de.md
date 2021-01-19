@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YiGdy1O1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YDWRS6-de'
+slug: 'B077YDWRS6-de Maxi-Cosi FamilyFix One i-Size Isofix Basisstation 0-18 kg  Gruppe 0+/1  für Babyschale Rock  Pebble Plus und Kindersitze Pearl Smart / Pearl Pro / Pearl One i-Size  schwarz'
 actualPrice: 148.71 EUR
 currency: EUR
 price: 148.71

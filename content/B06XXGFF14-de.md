@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Esz8t+uOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XXGFF14-de'
+slug: 'B06XXGFF14-de New Balance Damen 574v2 Core Sneaker  Grau  Grey   40 EU'
 actualPrice: 64.03 EUR
 currency: EUR
 price: 64.03

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51N6S-ttgdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XCVD7G3-de'
+slug: 'B07XCVD7G3-de Bluetooth Smart Watch  PHIPUDS Health & Fitness Tracker Smartwatch Blutdruck-Aktivitätsuhr  Anrufe SMS Benachrichtigung Fernbedienung Kamera für iOS Android Handy'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

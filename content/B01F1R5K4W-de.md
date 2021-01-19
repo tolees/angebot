@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gb3Fj0bAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F1R5K4W-de'
+slug: 'B01F1R5K4W-de Mountain Dew Regular  Koffeinhaltige Limonade mit Lemon-Lime-Geschmack  das Kultgetränk aus den USA  EINWEG Dose  24 x 330 ml '
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

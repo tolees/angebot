@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dipu5KeqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PKBF35M-de'
+slug: 'B07PKBF35M-de Ein Gauner & Gentleman [Blu-ray]'
 actualPrice: 8.07 EUR
 currency: EUR
 price: 8.07

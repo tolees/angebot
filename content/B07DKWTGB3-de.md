@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SNbi1ywrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKWTGB3-de'
+slug: 'B07DKWTGB3-de Multifunktionswerkzeug  TECCPO 170W Drehwerkzeugsatz mit 80 Zubehör  Schnellspannbohrfutter  Biegsame Welle  Mini Drill mit Variabler Drehzahl  Ideal für Vatertagsgeschenke - TART04P'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

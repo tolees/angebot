@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31S8A0af-NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N9GQ6JQ-de'
+slug: 'B07N9GQ6JQ-de SAMSONITE Uplite - Three-Way Laptop Expandable Rucksack  40 cm  18 Liter  Blue'
 actualPrice: 71.4 EUR
 currency: EUR
 price: 71.4

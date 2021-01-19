@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411P6ONIDBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H9Z4JP3-de'
+slug: 'B07H9Z4JP3-de Pop Nacho Libre Vinyl Figure'
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

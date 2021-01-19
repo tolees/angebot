@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pb3l-3fRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYFCLW8-de'
+slug: 'B01MYFCLW8-de Bones - Season Eleven [6 DVDs]'
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

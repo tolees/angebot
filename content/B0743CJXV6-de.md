@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aUUcPHa-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0743CJXV6-de'
+slug: 'B0743CJXV6-de TENGA FLIP ZERO EV Vibrierende Masturbationshilfe für Männer - Weiß  sanft   leicht zu reinigendes Flip-open-Design'
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31p7RwTqy8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F163ERY-de'
+slug: 'B00F163ERY-de NETGEAR GS516TP 16-Port Gigabit Ethernet LAN PoE Switch Smart Managed Pro  mit 8x PoE+ 76W  2 PD-Ports  Desktop- oder Rack-Montage '
 actualPrice: 170.0 EUR
 currency: EUR
 price: 170.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NUgV0fdJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JXZF95E-de'
+slug: 'B00JXZF95E-de Der fliegende Holländer'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

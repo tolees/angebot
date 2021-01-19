@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61u+2B5qWXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GF9NTR0-de'
+slug: 'B01GF9NTR0-de Advanced Chemistry'
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

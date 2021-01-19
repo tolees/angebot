@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51g9zZjtheL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RT9FG95-de'
+slug: 'B07RT9FG95-de Externe DVD CD Laufwerke - iAmotus DVD Laufwerk USB 3.0 Type-c Dual Port DVD Brenner Tragbare Ultra Slim CD/DVD RW Player Disc Rewriter für Laptop Desktop Notebook  Mac OS  Windows 10/8/7/XP Linux OS'
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

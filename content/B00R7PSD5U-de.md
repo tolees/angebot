@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41d8zSbAIOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00R7PSD5U-de'
+slug: 'B00R7PSD5U-de CITIZEN Damen Analog Quarz Uhr mit Leder Armband FE1083-02A'
 actualPrice: 70.2 EUR
 currency: EUR
 price: 70.2

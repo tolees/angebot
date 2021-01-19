@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Kz8KQTPtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HH9QAT2-de'
+slug: 'B00HH9QAT2-de Kärcher Hochdruckreiniger K 2 Basic  Druck:110 bar  Fördermenge: 360 l/h  Dreckfräser  Hochdruckpistole '
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

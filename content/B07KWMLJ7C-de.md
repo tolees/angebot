@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xFwInfOhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWMLJ7C-de'
+slug: 'B07KWMLJ7C-de Swarovski One Set  Mehrfarbig  Rosé vergoldet'
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

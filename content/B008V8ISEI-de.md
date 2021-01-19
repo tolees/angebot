@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zv+UpMk7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008V8ISEI-de'
+slug: 'B008V8ISEI-de Villeroy & Boch Toy s Delight Rotes "Breakfast for Two" Frühstücksservice für bis zu 2 Personen  6-teilig  Premium Porzellan  Weiß/Rot'
 actualPrice: 83.89 EUR
 currency: EUR
 price: 83.89

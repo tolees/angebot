@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QR-n23ykL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DMJCSK5-de'
+slug: 'B07DMJCSK5-de Philips Sonicare ProtectiveClean 5100 elektrische Zahnbürste HX6851/34 Doppelpack – 2 Schallzahnbürsten mit 3 Putzprogrammen  Andruckkontrolle  Reiseetuis – Weiß/Blau'
 actualPrice: 101.99 EUR
 currency: EUR
 price: 101.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c2jA2uTIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8W6ZHS-de'
+slug: 'B07S8W6ZHS-de GODNECE LED Licht-Set für Baustein  Led Beleuchtungsset Licht-Set für Baustein Spielzeug Kompatibel Mit Lego Star Wars 75095 - Tie Fighter Bausatz Modell Nicht Enthalten '
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

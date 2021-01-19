@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+KjVYMbVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087RZVBQW-de'
+slug: 'B087RZVBQW-de TP-Link Tapo L510E smarte WLAN Glühbirne E27  dimmbar 8.7 W  kein Hub notwendig  kompatibel mit Alexa，Google Assistant  Abläufe und Zeitpläne  Abwesenheitmodus  Tapo App  energiesparend'
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

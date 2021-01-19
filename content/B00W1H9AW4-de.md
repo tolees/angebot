@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31f0-dlU6cL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W1H9AW4-de'
+slug: 'B00W1H9AW4-de Philips HF3500/01 Lichtwecker 7.5 W Wake-Up Light  weiß'
 actualPrice: 57 EUR
 currency: EUR
 price: 57

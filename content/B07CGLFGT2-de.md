@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mFYTbwAqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CGLFGT2-de'
+slug: 'B07CGLFGT2-de Thinkfun Geschicklichkeitsspiel 76356 - Laze Maze - Spiel für Kinder ab 8 Jahren'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

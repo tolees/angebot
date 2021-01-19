@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fxyABmZUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077X5Y2LT-de'
+slug: 'B077X5Y2LT-de Wifi Adapter  1200Mbit/s mit 5dBi Antenna  Dualband  5G/866Mbps + 2.4G/300Mbps  Wlan Stick  USB Wifi Dongle 802.11 ac/n/g/b/a Wireless Standards  Kleine WiFi-Empfänger für Desktop/PC/Laptop/Notebook'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

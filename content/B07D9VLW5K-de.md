@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51szM1TLNkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9VLW5K-de'
+slug: 'B07D9VLW5K-de HP 22y  21 5 Zoll Full HD LED  Monitor  DVI-D  VGA  1920 x 1080  60Hz  5ms Reaktionszeit  schwarz'
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

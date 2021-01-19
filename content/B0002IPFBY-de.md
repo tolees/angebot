@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Me8pe73iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0002IPFBY-de'
+slug: 'B0002IPFBY-de Netgear GS116GE 16-Port Gigabit Ethernet LAN Switch Unmanaged  für Desktop mit ProSAFE-Lifetime-Garantie  blau'
 actualPrice: 64.9 EUR
 currency: EUR
 price: 64.9

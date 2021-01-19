@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KtZFZeBHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q2WGKXP-de'
+slug: 'B07Q2WGKXP-de Roccat Vulcan 121 - Mechanische Gaming Tastatur  AIMO LED Einzeltastenbeleuchtung  Titan Switches  Aluminiumoberfläche  Multimedia-Tasten  Handballenauflage  Tactile Switch  schwarz'
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

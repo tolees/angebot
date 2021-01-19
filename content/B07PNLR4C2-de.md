@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+Y-zPp-HL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PNLR4C2-de'
+slug: 'B07PNLR4C2-de L.O.L. Surprise! 64119E7C Furniture with Closet & Queen Bee - mehrfarbig'
 actualPrice: 15.48 EUR
 currency: EUR
 price: 15.48

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eXT6YT+jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G3L3DRK-de'
+slug: 'B07G3L3DRK-de Crucial BX500 120GB CT120BX500SSD1 Z -bis zu 540 MB/s Internes SSD  3D NAND  SATA  2 5-Zoll '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

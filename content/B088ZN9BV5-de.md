@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41p3TCjfwlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088ZN9BV5-de'
+slug: 'B088ZN9BV5-de Heißklebepistole  ORSIFOW 20W Klebepistole mit 42 Stück Klebesticks für Schule DIY Kunst Handwerk und Schnelle Reparaturen in Haus Büro  Heißklebepistole für Kinder'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

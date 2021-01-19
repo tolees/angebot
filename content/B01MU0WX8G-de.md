@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21j49NGBF1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MU0WX8G-de'
+slug: 'B01MU0WX8G-de Carlo Milano Wandschublade: Wandregal mit versteckter Schublade  40 x 5 x 25 cm  weiß  Regale '
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

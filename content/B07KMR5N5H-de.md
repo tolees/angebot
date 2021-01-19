@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31M+fFVCp4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMR5N5H-de'
+slug: 'B07KMR5N5H-de adidas Damen Essentials 3-Streifen Trainingshose  Black/White  S'
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

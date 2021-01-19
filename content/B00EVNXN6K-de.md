@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eQFtH-WZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EVNXN6K-de'
+slug: 'B00EVNXN6K-de adidas Bauchtrainer'
 actualPrice: 14.07 EUR
 currency: EUR
 price: 14.07

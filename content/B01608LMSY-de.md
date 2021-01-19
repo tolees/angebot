@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zLhwT7IXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01608LMSY-de'
+slug: 'B01608LMSY-de Playmobil 6970 - Schmück-Pony Sternchen'
 actualPrice: 2.19 EUR
 currency: EUR
 price: 2.19

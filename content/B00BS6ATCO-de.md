@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31qVomZJaaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BS6ATCO-de'
+slug: 'B00BS6ATCO-de Bosch Rasentrimmer ART 35  Schultergurt  Zusatzhandgriff  Karton  600 W  35 cm Schnittkreisdurchmesser '
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

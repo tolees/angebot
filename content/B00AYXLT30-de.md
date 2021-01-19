@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mT5VPSmqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AYXLT30-de'
+slug: 'B00AYXLT30-de Eagle Creek No Matter What Duffel L I Ultraleichte  abwischbare Reisetasche für Camping und Outdoor  Schwarz'
 actualPrice: 50.3 EUR
 currency: EUR
 price: 50.3

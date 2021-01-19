@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YXuDfsQQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TX24QJT-de'
+slug: 'B07TX24QJT-de Kompatibel für Samsung Galaxy A6 Plus 2018 Hülle Handyhülle Samsung J8 2018 360 Grad Ring Drehbar Ringhalter Cover TPU Magnetische 2 In 1 Plastic Silicone Case  A6 plus2018  Blau '
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

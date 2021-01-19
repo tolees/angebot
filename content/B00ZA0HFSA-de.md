@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AeasQ64IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZA0HFSA-de'
+slug: 'B00ZA0HFSA-de KLIM Cool Universaler Kühler für Spielekonsole Laptop PC – Hochleistungslüfter für Schnelle Kühlung - USB Warmluft-Abzug Blau[ Neue 2020 Version ]'
 actualPrice: 24.97 EUR
 currency: EUR
 price: 24.97

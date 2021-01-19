@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41lAImYqo2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H364VWV-de'
+slug: 'B07H364VWV-de Acer Swift 3 Pro  SF313-51-873X  33 78 cm  13 3 Zoll Full-HD  Ultrabook  Intel Core i7-8550U  8GB RAM  512GB PCIe SSD  Intel UHD  Win 10 Pro  LTE  silber'
 actualPrice: 533 EUR
 currency: EUR
 price: 533

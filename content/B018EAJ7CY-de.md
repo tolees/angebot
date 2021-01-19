@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kKqyDzbxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018EAJ7CY-de'
+slug: 'B018EAJ7CY-de Fisher-Price CDH40 - Lernspaß Liederbuch Baby Spielzeug zum Lernen von Buchstaben  Zahlen und Formen  Spielzeug ab 6 Monaten  deutschsprachig'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

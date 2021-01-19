@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wZ1R1SfIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003LQSHBO-de'
+slug: 'B003LQSHBO-de Die Symphonien  Orchesterlieder  Eloquence '
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lW9DAOsvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YX8DD1-de'
+slug: 'B079YX8DD1-de Hubelino 420473 55-teiliges Bahnelemente Set Kugelbahn'
 actualPrice: 33.59 EUR
 currency: EUR
 price: 33.59

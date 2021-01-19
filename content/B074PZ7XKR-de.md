@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31d0sRDudRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PZ7XKR-de'
+slug: 'B074PZ7XKR-de OSRAM Smart+ Mini Switch Blau  ZigBee Lichtschalter  Dimmer und Fernbedienung für LED Lampen  Erweiterung für Ihr Smart Home'
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

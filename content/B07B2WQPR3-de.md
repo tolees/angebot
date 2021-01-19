@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YPBOQ4YoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B2WQPR3-de'
+slug: 'B07B2WQPR3-de SAGE SES880 the Barista Touch  Siebträger mit Touchscreen-Anzeige  15 Bar  Gebürsteter Edelstahl'
 actualPrice: 868.46 EUR
 currency: EUR
 price: 868.46

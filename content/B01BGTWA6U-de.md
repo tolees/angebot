@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r0F1L9--L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BGTWA6U-de'
+slug: 'B01BGTWA6U-de G-STAR RAW Herren Rovic Zip 3d Straight Tapered Hose  Schwarz  raven 5126-976   W32 / 34L'
 actualPrice: 79.96 EUR
 currency: EUR
 price: 79.96

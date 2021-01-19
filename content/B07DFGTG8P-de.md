@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UcLrnympL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFGTG8P-de'
+slug: 'B07DFGTG8P-de Funko 33877 The Simpsons: Lisa w/Saxophone POP Vinylfigur  Multi'
 actualPrice: 9.94 EUR
 currency: EUR
 price: 9.94

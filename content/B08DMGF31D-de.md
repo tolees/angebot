@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AqXtnWclL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DMGF31D-de'
+slug: 'B08DMGF31D-de AngLink Elektrisch Augenbrauentrimmer  USB Augenbrauen Rasier für Damen Augenbrauen Rasier Eingebautes Helles mit Einer Reinigungsbürste  Gold '
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41C0VgV6SIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0794TLHP4-de'
+slug: 'B0794TLHP4-de Fire HD 8-Tablet  16 GB  Schwarz  mit Spezialangeboten'
 actualPrice: 41.24 EUR
 currency: EUR
 price: 41.24

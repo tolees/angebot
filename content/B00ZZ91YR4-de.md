@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51h7coZFWPL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZZ91YR4-de'
+slug: 'B00ZZ91YR4-de Castle - Staffel 7 [6 DVDs]'
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

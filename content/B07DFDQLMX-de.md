@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GX2QZY7xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFDQLMX-de'
+slug: 'B07DFDQLMX-de Funko 34460 Riverdale: Reggie in Football Uniform POP Vinylfigur  Multi  Standard'
 actualPrice: 4.29 EUR
 currency: EUR
 price: 4.29

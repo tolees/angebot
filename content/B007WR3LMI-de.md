@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513fPou4+IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007WR3LMI-de'
+slug: 'B007WR3LMI-de Chocolat  Blu *** Europe Zone ***'
 actualPrice: 8.34 EUR
 currency: EUR
 price: 8.34

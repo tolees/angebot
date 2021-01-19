@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Zd7cVX1mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XLTV71Y-de'
+slug: 'B07XLTV71Y-de Diesel Smartwatch DZT2014'
 actualPrice: 219.3 EUR
 currency: EUR
 price: 219.3

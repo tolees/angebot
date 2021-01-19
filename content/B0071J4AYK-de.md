@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pQcqXRHUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0071J4AYK-de'
+slug: 'B0071J4AYK-de 156/Im Netz des Drachen'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

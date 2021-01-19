@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dEAP8FBFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FJZBK5Q-de'
+slug: 'B07FJZBK5Q-de Hasbro Beyblade Burst Original Precision Strike Launcher'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

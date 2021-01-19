@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Nzs2-vpwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IP8R6Y6-de'
+slug: 'B01IP8R6Y6-de Philips 3-in-1 LED Lampe SceneSwitch ersetzt 60W  EEK A+  E27  Matt '
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

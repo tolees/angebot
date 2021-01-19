@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410TwfzQVTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NXGNMPJ-de'
+slug: 'B07NXGNMPJ-de Philips Sonicare DiamondClean Elektrische Zahnbürste Doppelpack HX9392/40  2 Schallzahnbürsten mit 5 Putzprogrammen und Ladeglas  rose-gold/schwarz'
 actualPrice: 165.89 EUR
 currency: EUR
 price: 165.89

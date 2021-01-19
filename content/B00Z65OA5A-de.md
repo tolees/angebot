@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-PZX3-+VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Z65OA5A-de'
+slug: 'B00Z65OA5A-de Kitchen Craft 25 5 cm  Living Nostalgia innen Wall Clock  Antique Cream'
 actualPrice: 21.28 EUR
 currency: EUR
 price: 21.28

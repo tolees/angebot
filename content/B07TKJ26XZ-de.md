@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vc5HS1nML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKJ26XZ-de'
+slug: 'B07TKJ26XZ-de wolketon Fahrradschloss-Schloss 90cm lang Kettenschloss Stahl mit Zahlen für Fahrräd  Motorräd und Elektrofahrzeuge Nicht leicht zu rosten'
 actualPrice: 9.17 EUR
 currency: EUR
 price: 9.17

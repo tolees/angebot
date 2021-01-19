@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GNnOUkdFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NSQ6D5W-de'
+slug: 'B07NSQ6D5W-de Funko 39742 POP Vinyl: Avengers Endgame-Thor 2 Pajama Party W2 Sammelbares Spielzeug  Mehrfarben'
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

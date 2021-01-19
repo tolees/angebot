@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gry-C9SiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RS6KP8C-de'
+slug: 'B07RS6KP8C-de Maxi-Cosi Kore i-Size Kindersitz  mitwachsender Gruppe 2/3 Autositz mit ISOFIX  15-36 kg   Kinderautositz mit max. Seitenaufprallschutz  ab ca. 3  5 Jahre bis ca 12 Jahre  authentic graphite  grau '
 actualPrice: 133.99 EUR
 currency: EUR
 price: 133.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NuaYk4TRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008OW2VW6-de'
+slug: 'B008OW2VW6-de Gimi Modular 4 Turm-Wäscheständer aus Stahl  40 m Trockenlänge'
 actualPrice: 35.39 EUR
 currency: EUR
 price: 35.39

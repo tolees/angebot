@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61hxRobR3tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000U54QTQ-de'
+slug: 'B000U54QTQ-de Sink or Swim'
 actualPrice: 6.68 EUR
 currency: EUR
 price: 6.68

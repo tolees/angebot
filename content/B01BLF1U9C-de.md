@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yPZtovBoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BLF1U9C-de'
+slug: 'B01BLF1U9C-de fischertechnik Experimentierbaukasten Mechanic + Static 2 - der optimale Technik Baukasten um die Grundlagen der Technik zu entdecken - 30 realtätsnahe Modelle - für Kinder ab 9 Jahren -'
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

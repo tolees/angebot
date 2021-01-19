@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G+zo7Hq8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6JKL78-de'
+slug: 'B07W6JKL78-de Logitech G604 LIGHTSPEED kabellose Gaming-Maus mit 15 programmierbaren Bedienelementen  bis zu 240 Stunden Akkulaufzeit  Zwei kabellose Verbindungsmodi  Schwarz - Deutsche Verpackung'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

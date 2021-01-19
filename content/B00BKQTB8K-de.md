@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313ystjNrEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BKQTB8K-de'
+slug: 'B00BKQTB8K-de Daniel Wellington Classic Glasgow  Blau-weiß/Roségold Uhrenarmband  18mm  NATO  für Damen und Herren'
 actualPrice: 12.33 EUR
 currency: EUR
 price: 12.33

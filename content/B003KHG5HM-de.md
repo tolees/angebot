@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51V9wUNL4FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003KHG5HM-de'
+slug: 'B003KHG5HM-de Shutter Island [Blu-ray]'
 actualPrice: 2.74 EUR
 currency: EUR
 price: 2.74

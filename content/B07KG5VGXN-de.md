@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YXw+bnWGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG5VGXN-de'
+slug: 'B07KG5VGXN-de Exzenterschleifer  Meterk Schleifmaschine  300W 12000RPM  mit 6 Variable Geschwindigkeit  12 Stück Schleifpapier  2 Meter Kabel  Staubsammelbehälter  Ideal für Heimwerker  Schleifen  Polieren von Holz'
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

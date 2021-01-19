@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311ZovuJMaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MG6DDP-de'
+slug: 'B077MG6DDP-de PUMA Unisex-Erwachsene Smash v2 L Sneaker  White White Black  44 EU'
 actualPrice: 30.96 EUR
 currency: EUR
 price: 30.96

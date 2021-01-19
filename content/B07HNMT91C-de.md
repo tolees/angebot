@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516DSMtIqwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HNMT91C-de'
+slug: 'B07HNMT91C-de ASUS ROG STRIX NVIDIA GeForce RTX 2080 Ti OC 11G Gaming Grafikkarte  PCIe 3.0  11GB DDR6 Speicher  HDMI  Displayport  USB Type-C '
 actualPrice: 520.0 EUR
 currency: EUR
 price: 520.0

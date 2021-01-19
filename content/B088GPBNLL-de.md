@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AteFEMtZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088GPBNLL-de'
+slug: 'B088GPBNLL-de CHALA 200STK Klebstoff Applikatorspitzen Kleber Extender Applikator Kunststoffkleber Spender Micro-Tips Pipette Dropper für Hobby Handwerk Labor Klebespender'
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

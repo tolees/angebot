@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MCXBeWwSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075NLDZWN-de'
+slug: 'B075NLDZWN-de Acer H277HK 69 cm  27 Zoll Ultra HD IPS  Monitor  USB 3.1 Type-C  DisplayPort  HDMI 2.0  4 ms Reaktionszeit  AMD FreeSync  ZeroFrame  silber'
 actualPrice: 366.0 EUR
 currency: EUR
 price: 366.0

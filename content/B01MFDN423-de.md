@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410RMwq16DL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MFDN423-de'
+slug: 'B01MFDN423-de hummel Unisex-Erwachsene Slimmer Stadil Tonal High Top  Schwarz  Black   43 EU'
 actualPrice: 43.5 EUR
 currency: EUR
 price: 43.5

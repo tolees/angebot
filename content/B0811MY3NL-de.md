@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zAOzgIFcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0811MY3NL-de'
+slug: 'B0811MY3NL-de HATTEKER Rasierer Elektrorasierer Herren Rasierapparat Nass-und Trockenrasierer Elektrisch Bartschneider Präzisionstrimmer Rotationsrasierer Männer Wasserdicht 3 IN 1'
 actualPrice: 31.44 EUR
 currency: EUR
 price: 31.44

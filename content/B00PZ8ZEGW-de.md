@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417erVMQQ8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PZ8ZEGW-de'
+slug: 'B00PZ8ZEGW-de Nike Damen WMNS Md Runner 2 Hallenschuhe  Schwarz  Schwarz/Weiß   37.5 EU'
 actualPrice: 40.16 EUR
 currency: EUR
 price: 40.16

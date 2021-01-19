@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410k3QVpKML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PMB9C9-de'
+slug: 'B074PMB9C9-de HP ENVY 5030 Multifunktionsdrucker  Instant Ink  Fotodrucker  Scannen  Kopieren  WLAN  Airprint  inklusive 3 Monate Instant Ink'
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

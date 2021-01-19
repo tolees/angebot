@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v9KtanoTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MNQV6V-de'
+slug: 'B079MNQV6V-de Playmobil 9457 Hausmeister mit Kiosk'
 actualPrice: 6.45 EUR
 currency: EUR
 price: 6.45

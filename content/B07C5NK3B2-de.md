@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31H4CyTXgvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C5NK3B2-de'
+slug: 'B07C5NK3B2-de Rosti Mepal 107778076700 Flasche  Ellipse  700 ml  Kunststoff  Nordic Pink  6 8 x 6 8 x 29 8'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

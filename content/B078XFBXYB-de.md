@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KgEh2gvVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078XFBXYB-de'
+slug: 'B078XFBXYB-de 3D Stift Filament PLA Filament 1.75mm 60M 3 Farben je 20M  Maigel 3D Print Filament Temperatur ändernde'
 actualPrice: 8.03 EUR
 currency: EUR
 price: 8.03

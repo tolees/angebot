@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Tq7Vg8siL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004TA0AUW-de'
+slug: 'B004TA0AUW-de Transcend Extreme-Speed Micro SDHC 8GB Class 10 Speicherkarte mit SD-Adapter'
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

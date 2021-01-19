@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GVZTEY5-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PXSJMHF-de'
+slug: 'B07PXSJMHF-de Ravensburger 26132 - Minecraft Builders & Biomes - Brettspiel'
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

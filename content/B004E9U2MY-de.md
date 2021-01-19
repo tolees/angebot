@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GUmZk2kWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004E9U2MY-de'
+slug: 'B004E9U2MY-de GANT Herren Pullover 83072  Gr. Medium  Grau  NAVY 405 '
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

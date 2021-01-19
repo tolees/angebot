@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZnqLG2yzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0042FGPXU-de'
+slug: 'B0042FGPXU-de Urban Classics TB207 Herren Jacke Bekleidung 2 Tone College Sweatjacket  Black/White  L'
 actualPrice: 34.11 EUR
 currency: EUR
 price: 34.11

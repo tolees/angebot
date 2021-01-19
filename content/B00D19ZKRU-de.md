@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gdqRL8sbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D19ZKRU-de'
+slug: 'B00D19ZKRU-de Metabo 6.06154.00 KHE 2444 Elektrowerkzeuge  Schwarz  Grün'
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

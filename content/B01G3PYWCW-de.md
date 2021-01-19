@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51w2zmABcXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G3PYWCW-de'
+slug: 'B01G3PYWCW-de Smart Games SG455 IQ-Puzzler PRO  Geschicklichkeitsspiel  Reisespiel  Gehirntraining'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

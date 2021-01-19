@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Q-b886MlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IXDNSG4-de'
+slug: 'B00IXDNSG4-de axentia Türgarderobe mit 6 Haken  Kleiderhaken für die Tür ohne Bohren  Türhaken für Küche  Badezimmer  Wohnzimmer und Flur  Edelstahl'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

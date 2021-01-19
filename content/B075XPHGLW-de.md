@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/611gAO+ZWKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075XPHGLW-de'
+slug: 'B075XPHGLW-de Think Gizmos Roboter Set für Kinder - Roboter zum Zusammenbauen - Ingenious Machines Bausatz für ferngesteuertes Spielzeug  alle Batterien enthalten .  Kran  Gabelstapler  Bulldozer & Müllwagen '
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

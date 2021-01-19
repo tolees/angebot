@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416LzP+TrjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJL3JH7-de'
+slug: 'B07DJL3JH7-de Jabra Elite 65t True Wireless Bluetooth In-Ear Kopfhörer  Musik und telefonieren  bis zu 15 Std. Akkulaufzeit mit Ladecase  Sprachsteuerung für Alexa  Siri  Google Assistant  gold beige'
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

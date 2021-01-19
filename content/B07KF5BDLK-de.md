@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NsEusxvOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF5BDLK-de'
+slug: 'B07KF5BDLK-de Levi s Herren 527 Slim Boot Cut Jeans  Pulley T2 0563  32W / 30L'
 actualPrice: 48.69 EUR
 currency: EUR
 price: 48.69

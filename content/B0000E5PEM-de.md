@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JVRu4PniL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0000E5PEM-de'
+slug: 'B0000E5PEM-de The Diary of Alicia Keys'
 actualPrice: 2.86 EUR
 currency: EUR
 price: 2.86

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61g-a4ymVtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0006NM9TQ-de'
+slug: 'B0006NM9TQ-de Ravensburger 21108 1 Memory Die Eiskönigin Lernspiel'
 actualPrice: 14.1 EUR
 currency: EUR
 price: 14.1

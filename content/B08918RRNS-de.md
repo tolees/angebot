@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wIXuWGtkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08918RRNS-de'
+slug: 'B08918RRNS-de Casiwaft 14er Set Vinylfolie Heat Transfer Glitzer Transferfolie Vinyl HTV Craft Sheets for DIY T-Shirt Textil  Handwerk  Leder mit 14 Farben 25cm*30cm '
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kSsU2xnCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078YDJH5N-de'
+slug: 'B078YDJH5N-de SLS3 Triathlon Einteiler Herren | FRT 2.0 Trisuit | 2 Taschen | Wettkampf | Front Reißverschluss |  Black/Red  M '
 actualPrice: 71.19 EUR
 currency: EUR
 price: 71.19

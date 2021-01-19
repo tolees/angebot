@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+JGKK3u-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SGRLGRV-de'
+slug: 'B07SGRLGRV-de MSI GL63 9SFK-1001DE  39 6 cm/15 6 Zoll/144Hz  Gaming-Laptop  Intel Core i7-9750H  16 GB RAM  512 GB PCIe SSD + 1TB HDD  Nvidia GeForce RTX2070 16 GB  Windows 10 Home '
 actualPrice: 600.0 EUR
 currency: EUR
 price: 600.0

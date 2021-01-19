@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-THmvpzvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003WUOVDC-de'
+slug: 'B003WUOVDC-de Deuter Rain Cover I Regenhülle  20-35 L '
 actualPrice: 9.32 EUR
 currency: EUR
 price: 9.32

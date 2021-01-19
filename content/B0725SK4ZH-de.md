@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51t8gRtWZlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0725SK4ZH-de'
+slug: 'B0725SK4ZH-de SALOMON Herren X Ultra 3 Mid GTX Trekking- & Wanderstiefel  Schwarz  Black/India Ink/Monument 000   44 EU'
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

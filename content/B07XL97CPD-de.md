@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zze9FF2RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XL97CPD-de'
+slug: 'B07XL97CPD-de Apple iPhone 11  256 GB  - Gelb'
 actualPrice: 799.0 EUR
 currency: EUR
 price: 799.0

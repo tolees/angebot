@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mSHRld3yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DL4XL94-de'
+slug: 'B07DL4XL94-de APEMAN Dashcam 1080P Full HD DVR Autokamera 3 Zoll LCD-Bildschirm 170 ° Weitwinkel  G-Sensor  WDR  Parkmonitor  Loop-Aufnahme  Bewegungserkennung Nachtsicht'
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

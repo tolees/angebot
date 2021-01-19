@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RP6BohioL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XL6KZFG-de'
+slug: 'B07XL6KZFG-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Clone Scout Walker Kompatibel Mit Lego 75261 Bausteinen Modell - Ohne Lego Set'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

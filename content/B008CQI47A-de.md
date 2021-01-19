@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Qo+YaC-EL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008CQI47A-de'
+slug: 'B008CQI47A-de Smart Games SG 423 - Spiel Iq Fit'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Yk8zuO7qL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NL9T6KY-de'
+slug: 'B07NL9T6KY-de VAUDE Herren Men s Active Pants Hose  Schwarz  Black Uni   M'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hrJyAOCgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HRRD5BU-de'
+slug: 'B00HRRD5BU-de Sylvanian Families 5092 Baden mit Mutter und Baby  Mehrfarbig'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YlO5rgSmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N3MBSCJ-de'
+slug: 'B01N3MBSCJ-de AMD – FirePro Radeon Pro WX 5100 8 GB PCIe 3.0 16 x 4 x DP Retail in GPU-Speicher'
 actualPrice: 225.0 EUR
 currency: EUR
 price: 225.0

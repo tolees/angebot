@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VphSIgqwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZKPT55M-de'
+slug: 'B07ZKPT55M-de Panasonic TX-32GW334 LED-TV 32 Zoll  80 cm   HD Fernseher  Triple Tuner  DVB-T2 HD  HDMI  USB '
 actualPrice: 205.0 EUR
 currency: EUR
 price: 205.0

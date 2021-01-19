@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-7o-GeBDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0763QVR7L-de'
+slug: 'B0763QVR7L-de MSI TORX FAN 12CM'
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61TQi0mmR-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077BC6NKB-de'
+slug: 'B077BC6NKB-de Hasbro FurReal Friends E0497EU4 Frisierspaß Hündchen  elektronisches Haustier'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

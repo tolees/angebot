@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51K5ABUuvtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMRSPBD-de'
+slug: 'B07TMRSPBD-de Harmony'
 actualPrice: 8.93 EUR
 currency: EUR
 price: 8.93

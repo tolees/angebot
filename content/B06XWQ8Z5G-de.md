@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-BdRwmOHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XWQ8Z5G-de'
+slug: 'B06XWQ8Z5G-de Live At Rockpalast'
 actualPrice: 13.91 EUR
 currency: EUR
 price: 13.91

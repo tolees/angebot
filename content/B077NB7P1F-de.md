@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51XNKax715L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077NB7P1F-de'
+slug: 'B077NB7P1F-de Ticwatch S Knight Smartwatch Intelligente Armbanduhr mit 1 4 Zoll OLED-Display  Android Wear 2.0  Sportuhr Hochwertig Kompatibel mit Android und ios Geeignet für Die Meisten Typen von Smartphone'
 actualPrice: 122.14 EUR
 currency: EUR
 price: 122.14

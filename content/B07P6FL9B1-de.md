@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iLrPoOIdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6FL9B1-de'
+slug: 'B07P6FL9B1-de PLAYMOBIL Novelmore 70221 Festung der Burnham Raiders  Für Kinder von 5-10 Jahren'
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

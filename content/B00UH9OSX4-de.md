@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+-akxgepL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UH9OSX4-de'
+slug: 'B00UH9OSX4-de Bose ® Companion 50 Multimedia Lautsprechersystem schwarz'
 actualPrice: 309.0 EUR
 currency: EUR
 price: 309.0

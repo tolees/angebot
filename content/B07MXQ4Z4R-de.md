@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4157LDNlUQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXQ4Z4R-de'
+slug: 'B07MXQ4Z4R-de DELSEY PARIS COMETE FASHION    azzurro '
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

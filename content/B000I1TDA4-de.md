@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5112rV438YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000I1TDA4-de'
+slug: 'B000I1TDA4-de Hasbro Gaming 04199100 - Tabu XXL Partyspiel'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

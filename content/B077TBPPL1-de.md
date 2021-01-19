@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31C-8UJsyDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077TBPPL1-de'
+slug: 'B077TBPPL1-de Fossil Damen-Kette ohne Anhänger Edelstahl JF02856998'
 actualPrice: 20.93 EUR
 currency: EUR
 price: 20.93

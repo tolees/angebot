@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ij6ti2JDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P8PMYDR-de'
+slug: 'B07P8PMYDR-de PLAYMOBIL City Life 70199 Abschleppdienst  Ab 4 Jahren'
 actualPrice: 31.04 EUR
 currency: EUR
 price: 31.04

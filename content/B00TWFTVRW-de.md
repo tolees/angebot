@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BjZ5-PTrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TWFTVRW-de'
+slug: 'B00TWFTVRW-de fischertechnik Kugelbahn Dynamic M mit Kettenaufzug und Klangrohren - für Kinder ab 7 Jahren - 4 spannende Kugelbahn-Modelle'
 actualPrice: 46.39 EUR
 currency: EUR
 price: 46.39

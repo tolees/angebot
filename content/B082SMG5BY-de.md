@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51X3EJPfu8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082SMG5BY-de'
+slug: 'B082SMG5BY-de BERTASCHE Laptoptasche 14 Zoll Notebooktasche Schulter Tasche für Uni Arbeit Business'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

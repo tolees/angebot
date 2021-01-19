@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413Q0ovwdKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LN78VG4-de'
+slug: 'B00LN78VG4-de TFA Dostmann 50.1002.01 Samba Körper-Analysewaage mit Trittfläche'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

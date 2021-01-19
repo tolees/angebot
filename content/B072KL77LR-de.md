@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516eUXorlJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072KL77LR-de'
+slug: 'B072KL77LR-de POP Rocks: Metallica - James Hetfield'
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

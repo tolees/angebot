@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519h9yBQgFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YCL23GW-de'
+slug: 'B00YCL23GW-de BOSCH 1987301106 Gigalight Plus 120 Xenon Bulb H4 12 V 60 / 55 W P43T 2 Set'
 actualPrice: 11.52 EUR
 currency: EUR
 price: 11.52

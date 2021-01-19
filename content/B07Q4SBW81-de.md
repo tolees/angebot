@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yEnJj3ZKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q4SBW81-de'
+slug: 'B07Q4SBW81-de Dadanism Hülle für Der Neue Kindle  10. Generation - 2019   Auto Sleep/Wake Hülle aus PU Leder Kratzfeste Dünne Tasche Ersatz für All-New Kindle  10th Generation  2019  - Schwarz'
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51P27Vja8uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079N2CMRT-de'
+slug: 'B079N2CMRT-de PLAYMOBIL DreamWorks Spirit 9475 Luckys glückliches Zuhause  Ab 4 Jahren'
 actualPrice: 57.9 EUR
 currency: EUR
 price: 57.9

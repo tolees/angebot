@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NKpn4IG8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W8JFND5-de'
+slug: 'B07W8JFND5-de AMIGO Spiel + Freizeit 1951 6 Nimmt Brettspiel'
 actualPrice: 18.68 EUR
 currency: EUR
 price: 18.68

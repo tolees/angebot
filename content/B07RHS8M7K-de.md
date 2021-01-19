@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Wc2XYuPNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHS8M7K-de'
+slug: 'B07RHS8M7K-de APEMAN Dashcam Vorne und Hinten Autokamera mit MicroSD-Karte  1080P FHD Mini Dual Lens Kamera  170 ° Weitwinkel mit Nachtsicht  G-Sensor  Parküberwachung  Loop-Aufnahm und WDR'
 actualPrice: 36.11 EUR
 currency: EUR
 price: 36.11

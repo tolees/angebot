@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wUYfLTE3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDBFFDL-de'
+slug: 'B07NDBFFDL-de Produkttitel fehlt - Wird nachgereicht'
 actualPrice: 14.48 EUR
 currency: EUR
 price: 14.48

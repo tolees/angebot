@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61aQGW4oeWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WCZCTQY-de'
+slug: 'B06WCZCTQY-de Playmobil 9249 - Eret mit 4-Schuss-Feuer-Balliste'
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3187i+0BACL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004R0OUYG-de'
+slug: 'B004R0OUYG-de Spyderco Messer Para-Military 2 Black G-10 Plain  schwarz  One Size'
 actualPrice: 184.01 EUR
 currency: EUR
 price: 184.01

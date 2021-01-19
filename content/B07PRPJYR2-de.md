@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ua1R+FlfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRPJYR2-de'
+slug: 'B07PRPJYR2-de Garmin Instinct – wasserdichte Sport-Smartwatch mit Smartphone Benachrichtigungen und Sport-/Fitnessfunktionen mit GPS  14 Tage Akkulaufzeit  Gelb'
 actualPrice: 188.0 EUR
 currency: EUR
 price: 188.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PbxZMYErL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8CZN1V-de'
+slug: 'B07S8CZN1V-de Dell Inspiron - 15 6" - i7 - 32GB RAM - 1000GB SSD - Windows 10 Pro - Office 2016 Pro #mit Funkmaus +Notebooktasche'
 actualPrice: 595.0 EUR
 currency: EUR
 price: 595.0

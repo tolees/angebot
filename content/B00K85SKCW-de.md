@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QSTiT4I-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K85SKCW-de'
+slug: 'B00K85SKCW-de BRA Terra - Set de 3 poêles  Aluminium fondu  compatibles Tous feux Dont Induction'
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

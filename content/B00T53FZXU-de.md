@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417xbihcuHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00T53FZXU-de'
+slug: 'B00T53FZXU-de Panasonic LUMIX DMC-SZ10EG-S Style-Kompakt Digitalkamera  12x opt. Zoom  2 7 Zoll LCD-Display um 180° schwenkbar WiFi  HD-Videos  Bildstabilisator  silber'
 actualPrice: 83.85 EUR
 currency: EUR
 price: 83.85

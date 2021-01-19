@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41obCBLFOIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VSTJ2WO-de'
+slug: 'B00VSTJ2WO-de Philips Audio SHB3075BK/00 On-Ear Kopfhörer Bluetooth  Bass+  Kabellos  Bluetooth  Mikrofon  12 Stunden Akku  schwarz'
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

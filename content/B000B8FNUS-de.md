@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RIPmhdMAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000B8FNUS-de'
+slug: 'B000B8FNUS-de Leifheit Wandrollenhalter Parat Plus ComfortLine-Serie  für jede Küche  bewährter Schneidabroller für Alu- und Klarsichtfolie  Folienschneider mit Spezialmesser'
 actualPrice: 17.52 EUR
 currency: EUR
 price: 17.52

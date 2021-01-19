@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31QRzXbhtYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K4Z2JO6-de'
+slug: 'B00K4Z2JO6-de WENKO Wäschesammler Corno  Wäschekorb Fassungsvermögen: 43 l  18.5 x 60 x 40 cm  dunkelgrau'
 actualPrice: 17.18 EUR
 currency: EUR
 price: 17.18

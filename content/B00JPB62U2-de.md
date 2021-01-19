@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Y6ONFuk3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JPB62U2-de'
+slug: 'B00JPB62U2-de Microsoft Wireless Mobile Mouse 1850  Maus  rosa  kabellos  für Rechts- und Linkshänder geeignet '
 actualPrice: 9.82 EUR
 currency: EUR
 price: 9.82

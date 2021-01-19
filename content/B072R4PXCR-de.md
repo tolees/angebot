@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51hgBxifRSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B072R4PXCR-de'
+slug: 'B072R4PXCR-de POP Rocks: Metallica - Robert Trujillo'
 actualPrice: 7.03 EUR
 currency: EUR
 price: 7.03

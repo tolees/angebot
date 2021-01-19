@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51y5Zx6sUQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GTKVCYJ-de'
+slug: 'B07GTKVCYJ-de Monster Jam 6053296 - Original Monster Jam Champ Ramp Freestyle Spielset  Maßstab 1:64'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

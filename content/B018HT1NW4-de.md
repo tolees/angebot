@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BV12NPXvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018HT1NW4-de'
+slug: 'B018HT1NW4-de Krampus [Blu-ray]'
 actualPrice: 4.44 EUR
 currency: EUR
 price: 4.44

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gBCLIU-gL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LCDLLJD-de'
+slug: 'B07LCDLLJD-de BRIKSMAX Parisian Restaurant Led Beleuchtungsset - Kompatibel Mit Lego 10243 Bausteinen Modell - Ohne Lego Set'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

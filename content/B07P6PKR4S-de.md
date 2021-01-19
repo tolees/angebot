@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511x5O8wk8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6PKR4S-de'
+slug: 'B07P6PKR4S-de Bosch Professional 35-tlgs. Bohrer Bit Set  Pick and Click  Zubehör für Schlagschrauber  mit Bits und Universalhalter '
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

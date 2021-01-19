@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JmvQeLxXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2YK6BH-de'
+slug: 'B01N2YK6BH-de Ravensburger 20782  - STAR WARS Elfer raus! Familienspiel'
 actualPrice: 5.84 EUR
 currency: EUR
 price: 5.84

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tK0LgOrAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0032DB1QE-de'
+slug: 'B0032DB1QE-de Dragonball Z - Box 2/10  Episoden 36-74  [6 DVDs]'
 actualPrice: 35.74 EUR
 currency: EUR
 price: 35.74

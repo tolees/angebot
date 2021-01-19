@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31DIfHkOwJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00H2T0FMA-de'
+slug: 'B00H2T0FMA-de HEAD Herren Boxer Shorts Basic 2er Pack  mehrfarbig Blue/Black  L'
 actualPrice: 10.11 EUR
 currency: EUR
 price: 10.11

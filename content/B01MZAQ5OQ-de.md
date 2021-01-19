@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VlgxaUBLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZAQ5OQ-de'
+slug: 'B01MZAQ5OQ-de Citizen Herren Chronograph Quarz Uhr mit Leder Armband CA0641-16X'
 actualPrice: 165.0 EUR
 currency: EUR
 price: 165.0

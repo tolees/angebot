@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Rlws3l8+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H4X6M7H-de'
+slug: 'B07H4X6M7H-de Huawei Band 3 Pro Fitness-Aktivitätstracker  All-in-One Smart Armband  Herzfrequenz - und Schlafüberwachung  eingebautes GPS  farbreiches Touch Display  5 ATM wasserfest  space blau'
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

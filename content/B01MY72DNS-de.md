@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/618VVjlKb1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MY72DNS-de'
+slug: 'B01MY72DNS-de ÷ Divide  Deluxe Edition '
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

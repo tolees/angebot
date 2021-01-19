@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OhSlW5aCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002UXQJY6-de'
+slug: 'B002UXQJY6-de Clatronic EK 3321 Eierkocher mit Härtegradeinstellung  7 Eier   akustisches Endsignal  Messbecher mit Eipicker  400 Watt  Inox'
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

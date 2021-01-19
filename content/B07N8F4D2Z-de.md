@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FeiKu0cgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8F4D2Z-de'
+slug: 'B07N8F4D2Z-de Veganz BIO Protein Choc Bar Strawberry Cake Style - Eiweißriegel Vegan Proteinreich Cremige Erdbeere Schokolade - 18 Vegane Proteinriegel je 50g'
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

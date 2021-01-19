@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31O-lHmbFbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TU4G1AK-de'
+slug: 'B00TU4G1AK-de Stubai Astbeil Nirolook Messing-Stielschutz 1200 g'
 actualPrice: 78.82 EUR
 currency: EUR
 price: 78.82

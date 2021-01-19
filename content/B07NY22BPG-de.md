@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BlMj+-MnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY22BPG-de'
+slug: 'B07NY22BPG-de Mattel GFR28 - Toy Story 4 Sprechender Buzz Lightyear deutschsprachig mit +15 Sätzen  17 cm Spielzeug Actionfiguren ab 3 Jahren'
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

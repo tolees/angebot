@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61KpRswH0uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005N1PU2O-de'
+slug: 'B005N1PU2O-de Wann I So Z Ruckschau  3cd '
 actualPrice: 5.88 EUR
 currency: EUR
 price: 5.88

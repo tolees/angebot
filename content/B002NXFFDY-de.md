@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oD4GoAArL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002NXFFDY-de'
+slug: 'B002NXFFDY-de The Green Mile [Blu-ray]'
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xwVOWCGhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CBME2LC-de'
+slug: 'B01CBME2LC-de Funko 8659 S1 No Actionfigur Suicide Squad: Joker Shirtless  Multi'
 actualPrice: 8.01 EUR
 currency: EUR
 price: 8.01

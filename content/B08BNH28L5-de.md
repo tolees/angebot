@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ugFacXSUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BNH28L5-de'
+slug: 'B08BNH28L5-de Bluetooth Kopfhörer In Ear  Wireless Noise Cancelling Earbuds Bluetooth 5.0 True Wireless Deep Bass HD-Stereo Headset Ohrhörer Kabellos Sport Touch-Control Earphone Automatische Kopplung  Schwarz '
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

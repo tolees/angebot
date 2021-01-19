@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51H2ZzcqFuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ8KNKL-de'
+slug: 'B07CZ8KNKL-de Bulmers Original Premium Cider 12er  12 x 0.5 l '
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KbMCs69vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K7KE8JM-de'
+slug: 'B00K7KE8JM-de Blomus 68812 Seifenspender Areo  Edelstahl poliert'
 actualPrice: 40.41 EUR
 currency: EUR
 price: 40.41

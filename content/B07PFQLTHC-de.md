@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SK9Eye+FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PFQLTHC-de'
+slug: 'B07PFQLTHC-de Dickie Toys 203713012 Iveco Daily Ambulance  Krankenwagen  Rettungswagen Trage  Spielzeugauto  zu öffnende Hecktür  Licht & Sound  inkl. Batterien  18 cm  ab 3 Jahren  weiß'
 actualPrice: 7.47 EUR
 currency: EUR
 price: 7.47

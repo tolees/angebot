@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YUsVb7xfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D57WCC5-de'
+slug: 'B07D57WCC5-de Wreckfest [Xbox One]'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

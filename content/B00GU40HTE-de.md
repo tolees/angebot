@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61NXC0GYBrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GU40HTE-de'
+slug: 'B00GU40HTE-de Lost - Die komplette Serie  37 Discs '
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

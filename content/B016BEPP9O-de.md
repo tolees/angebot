@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PoyJs-n0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016BEPP9O-de'
+slug: 'B016BEPP9O-de Kingston DT100G3/128GB DataTraveler 100 G3  USB 3.0  3.1 Flash Drive  128 GB  schwarz'
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

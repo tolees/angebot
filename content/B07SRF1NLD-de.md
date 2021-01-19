@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lSA1WlTvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRF1NLD-de'
+slug: 'B07SRF1NLD-de Wer Sagt Denn Das?'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

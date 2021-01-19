@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Q7rjfvzBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPHVW9T-de'
+slug: 'B06XPHVW9T-de Keine Nacht für Niemand  Ltd. Digi '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

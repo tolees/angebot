@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21cmWTc3T6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9QRNVF-de'
+slug: 'B07B9QRNVF-de LG SK8 Dolby Atmos 2.1 Soundbar  360W mit Drahtlosem Subwoofer  schwarz'
 actualPrice: 399.53 EUR
 currency: EUR
 price: 399.53

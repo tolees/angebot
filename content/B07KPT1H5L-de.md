@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414L4yizBJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPT1H5L-de'
+slug: 'B07KPT1H5L-de Funko POP Sock HOP Betty BOOP & PUDG'
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

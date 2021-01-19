@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41icWDwIxbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPDM4YQ-de'
+slug: 'B07SPDM4YQ-de Sanhelios® Beauty Kollagen HAUT-ELIXIER - Anti-Aging zum Trinken - der Testsieger - 30 Trinkampullen - 2500mg Premium-Kollagen  Biotin  Kupfer & Vitamin C  Blütenhonig & Gelée Royale'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

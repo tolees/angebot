@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31q08Hda4IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFBFWWS-de'
+slug: 'B07DFBFWWS-de POP! Vinylfigur: Die Hard: John McClane'
 actualPrice: 11.63 EUR
 currency: EUR
 price: 11.63

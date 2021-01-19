@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31usFIJpwzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LSUYWO0-de'
+slug: 'B01LSUYWO0-de Apple iPhone 7  32 GB  - Schwarz'
 actualPrice: 374.99 EUR
 currency: EUR
 price: 374.99

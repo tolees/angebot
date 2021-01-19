@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41c3aBPSRML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BN8M9RK-de'
+slug: 'B00BN8M9RK-de WMF Profi Resist Bratpfanne  24 cm  Mehrschichtmaterial beschichtet  Wabenstruktur  Induktion  backofengeeignet'
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

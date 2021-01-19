@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vN6fCYupL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078YL5TVN-de'
+slug: 'B078YL5TVN-de MUSTANG Herren Slim Fit Oregon Tapered Jeans'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

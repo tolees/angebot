@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21IYBjWIbvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YN61CQJ-de'
+slug: 'B07YN61CQJ-de Philips Audio Philips Bluetooth Soundbar HTL3310/10 TV Soundbar  Bluetooth  Kabelloser Subwoofer  160 W  Schwarz'
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

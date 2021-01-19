@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hWnYEm4hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Z81HSX-de'
+slug: 'B077Z81HSX-de Cars 1 + Cars 2 + Cars 3 [3 DVDs]'
 actualPrice: 14.26 EUR
 currency: EUR
 price: 14.26

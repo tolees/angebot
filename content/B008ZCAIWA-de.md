@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sZYmpL2lL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008ZCAIWA-de'
+slug: 'B008ZCAIWA-de EISL DX25 Waschbeckenbrause  Handbrause für Küche  Bad  Waschküche oder Werkstatt  ideal zum Nachrüsten  einfache Handhabung  Set mit Schlauch  150mm  und Adapter für alle üblichen Armaturen  Chrom'
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

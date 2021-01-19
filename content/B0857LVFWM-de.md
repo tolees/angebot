@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pOJO8mlcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0857LVFWM-de'
+slug: 'B0857LVFWM-de Lenovo Yoga Smart Tab 25 5 cm  10 1 Zoll  1920x1200  FHD  IPS  Touch  Tablet-PC  Octa-Core  3 GB RAM  32 GB eMMC  Wi-Fi  LTE  Android 9  grau'
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

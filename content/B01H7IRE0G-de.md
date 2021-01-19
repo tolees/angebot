@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512HyCcQA3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H7IRE0G-de'
+slug: 'B01H7IRE0G-de Sluban Spielzeug Baustein Set Hot Dog Wagen M38-B0565'
 actualPrice: 5.2 EUR
 currency: EUR
 price: 5.2

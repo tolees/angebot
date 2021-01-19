@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3162EJoiTBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DHD3PW2-de'
+slug: 'B08DHD3PW2-de Bluetooth Kopfhörer  In-Ear Wireless Kopfhörer Touch Control Bluetooth 5.0 Headset  Noise Cancelling Ohrhörer mit Mikrofon für AirPods Pro/Android/iPhone/Samsung'
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DkfEUKl4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHNSBZJ-de'
+slug: 'B07VHNSBZJ-de Samsung RU7099 163 cm  65 Zoll  LED Fernseher  Ultra HD  HDR  Triple Tuner  Smart TV  [Modelljahr 2019]'
 actualPrice: 639.0 EUR
 currency: EUR
 price: 639.0

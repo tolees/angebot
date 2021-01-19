@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CAD1RDVAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RRQDYSZ-de'
+slug: 'B07RRQDYSZ-de Bierothek® Bierpaket Emelisse  12 Flaschen Craft Bier | außergewöhnliches Geschenk '
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

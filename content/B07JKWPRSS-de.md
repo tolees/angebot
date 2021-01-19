@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61Ug991L5hL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKWPRSS-de'
+slug: 'B07JKWPRSS-de Playmobil 70041 - Astrid mit Fluganzug und Nimmersatt'
 actualPrice: 3.97 EUR
 currency: EUR
 price: 3.97

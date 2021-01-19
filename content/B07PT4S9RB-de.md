@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51xMsSXMb2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PT4S9RB-de'
+slug: 'B07PT4S9RB-de L.O.L. Surprise! 560487E7C Fluffy Pets- Winter Disco Series - mehrfarbig'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

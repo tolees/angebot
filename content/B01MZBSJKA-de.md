@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517evVaVCeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZBSJKA-de'
+slug: 'B01MZBSJKA-de The Afterlove'
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

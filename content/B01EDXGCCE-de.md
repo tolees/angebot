@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WmPp2ww1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EDXGCCE-de'
+slug: 'B01EDXGCCE-de Acer K272HLEbid 69 cm  27 Zoll Full HD  Monitor  VGA  DVI  HDMI  4ms Reaktionszeit  schwarz'
 actualPrice: 150.61 EUR
 currency: EUR
 price: 150.61

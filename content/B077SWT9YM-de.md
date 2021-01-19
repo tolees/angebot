@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31c-AEjiboL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077SWT9YM-de'
+slug: 'B077SWT9YM-de Nike Metal Swoosh H86 Cap  weiß  One Size'
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

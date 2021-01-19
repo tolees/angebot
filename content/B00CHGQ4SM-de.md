@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313L9dVqX0L._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CHGQ4SM-de'
+slug: 'B00CHGQ4SM-de Microsoft Sculpt Comfort Mouse  Maus  schwarz  ergonomisch  kabellos über Bluetooth '
 actualPrice: 32.49 EUR
 currency: EUR
 price: 32.49

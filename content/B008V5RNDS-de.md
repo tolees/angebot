@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NBo8k0FZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008V5RNDS-de'
+slug: 'B008V5RNDS-de Ice Age 1-4 [4 DVDs]'
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

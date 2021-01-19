@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31m02kGXxuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BL9E4OW-de'
+slug: 'B00BL9E4OW-de VAUDE Damen Hose Women s Farley Stretch Capri T-Zip II  Black  44  045770100440'
 actualPrice: 73.24 EUR
 currency: EUR
 price: 73.24

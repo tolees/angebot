@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zvkDoPEaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZT672FX-de'
+slug: 'B07ZT672FX-de Mpow EM18 Handy Bluetooth-Headsets für EIN Ohr  Dual-Mik+ cVc8.0 Rauschunterdrückung 24H Bluetooth Headset Handy Wireless Headset Bluetooth Freisprechen Kopfhörer in Ear Bluetooth Headset für Business'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

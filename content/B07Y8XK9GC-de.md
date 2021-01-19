@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31O2PFuTyUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y8XK9GC-de'
+slug: 'B07Y8XK9GC-de Xiaomi Redmi Note 8 Pro Smartphone  16 59cm  6 53 Zoll  FHD+ Display  64GB interner Speicher + 6GB RAM  64MP Vierfach-KI-Rückkamera  20MP Selfie-Frontkamera  Dual-SIM  Android 9  Pearl White  Weiß '
 actualPrice: 191.5 EUR
 currency: EUR
 price: 191.5

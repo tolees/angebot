@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Gz1aLvgkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMDF69G-de'
+slug: 'B07PMDF69G-de Samsung RU7179 147 cm  58 Zoll  LED Fernseher  Ultra HD  HDR  Triple Tuner  Smart TV  [Modelljahr 2019]'
 actualPrice: 637.89 EUR
 currency: EUR
 price: 637.89

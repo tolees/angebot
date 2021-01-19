@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zVB8RF+FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F831WGV-de'
+slug: 'B07F831WGV-de Calvin Klein Herren - 3er-Pack mittlere Taille Hüft-Shorts - Cotton Stretch  Blau  Black/Blueshadow/Cobaltwater Dtm Wb 4Ku   M'
 actualPrice: 28.48 EUR
 currency: EUR
 price: 28.48

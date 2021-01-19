@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413o6zR6TML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XGXK18C-de'
+slug: 'B06XGXK18C-de Funko 13242 POP Vinylfigur: Disney: Cars 3: Cruz'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

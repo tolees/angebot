@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417W3y-xS3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4Q1W3J-de'
+slug: 'B07N4Q1W3J-de moto g7 plus Dual-SIM Smartphone  6 2 Zoll Display  16-MP-Dual-Kamera  64GB/4GB  Android 9.0  Deep Indigo'
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

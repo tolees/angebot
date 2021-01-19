@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61f15LjfP-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0002NUTSI-de'
+slug: 'B0002NUTSI-de Crosby  Stills & Nash - Greatest Hits'
 actualPrice: 3.92 EUR
 currency: EUR
 price: 3.92

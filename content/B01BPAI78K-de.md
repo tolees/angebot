@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Q8EOY-SvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BPAI78K-de'
+slug: 'B01BPAI78K-de Hugo Boss Bottled Intense Eau De Parfum   100 ml'
 actualPrice: 41.5 EUR
 currency: EUR
 price: 41.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41W5-HAZCuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006TUK0TQ-de'
+slug: 'B006TUK0TQ-de Triumph Damen BH  Push-up   Body Make-Up WHU  Beige  Smooth Skin  5G     Gr. 80C'
 actualPrice: 33.75 EUR
 currency: EUR
 price: 33.75

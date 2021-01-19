@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kX2XjtU5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KUX5D7Q-de'
+slug: 'B01KUX5D7Q-de Fossil Herren Chronograph Quarz Uhr mit Leder Armband FS5210'
 actualPrice: 84.0 EUR
 currency: EUR
 price: 84.0

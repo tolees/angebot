@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PGBJZskgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FDP7ZPG-de'
+slug: 'B07FDP7ZPG-de 195/im Reich der Ungeheuer'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pKCu3XWRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FBLNPX-de'
+slug: 'B079FBLNPX-de Tristar VE-5894 Ventilateur Standventilator-Durchmesser Höhenverstellbar  45 W  Schwarz  105-125 cm/Ø 40 cm'
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

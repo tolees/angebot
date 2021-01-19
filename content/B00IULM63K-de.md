@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eGkvBVWGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IULM63K-de'
+slug: 'B00IULM63K-de Spielzeugkiste Schatztruhe Spielzeugtruhe Aufbewahrungskiste 46 Liter  1  Funny '
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

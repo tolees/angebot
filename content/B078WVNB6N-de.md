@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61ZbpX3sE7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WVNB6N-de'
+slug: 'B078WVNB6N-de Paco Home Designer Teppich Kurzflor Wohnzimmer Vintage Look Modern In Grau Creme  Grösse:80x150 cm'
 actualPrice: 13.2 EUR
 currency: EUR
 price: 13.2

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51p5CsxRXEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7XRPNY-de'
+slug: 'B01N7XRPNY-de Revell Build & Play - Star Wars First Order Heavy Assault Walker - 06761  Maßstab 1:164  originalgetreue Nachbildung mit beweglichen Teilen  mit Light&Sound Effekten  robust zum Spielen'
 actualPrice: 11.09 EUR
 currency: EUR
 price: 11.09

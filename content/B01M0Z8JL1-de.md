@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+I9pYMrVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0Z8JL1-de'
+slug: 'B01M0Z8JL1-de HÖGL Pumps Boulevard 90 Red 4.5 0-189004'
 actualPrice: 63.58 EUR
 currency: EUR
 price: 63.58

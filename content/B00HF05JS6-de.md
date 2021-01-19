@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HORZBKRPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HF05JS6-de'
+slug: 'B00HF05JS6-de VAUDE  Satteltaschen Tool Stick M  black  One Size  117190100'
 actualPrice: 10.14 EUR
 currency: EUR
 price: 10.14

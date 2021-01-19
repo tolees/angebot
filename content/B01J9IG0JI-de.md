@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wyrysjvXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J9IG0JI-de'
+slug: 'B01J9IG0JI-de ABUS AB72498 5805C Vorhängeschloss  Schwarz  110 cm Länge'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CFWS5QFEL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00006CFJJ-de'
+slug: 'B00006CFJJ-de Willow [Special Edition]'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

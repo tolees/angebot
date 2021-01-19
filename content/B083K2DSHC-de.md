@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ADI+2DcgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083K2DSHC-de'
+slug: 'B083K2DSHC-de DXX Acryl Schaukasten Vitrine  Schaukasten Acryl Vitrine Display Case für Lego 42096 Technic Porsche 911 RSR  Ohne Modell '
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

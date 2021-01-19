@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313mWicFhpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075KNJXLB-de'
+slug: 'B075KNJXLB-de hansgrohe Wasserhahn Novus wassersparende Armatur  Auslauf Höhe 100mm mit Zugstangen Ablauf  Chrom'
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

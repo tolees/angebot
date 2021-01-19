@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tzh3uloKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071HW94VG-de'
+slug: 'B071HW94VG-de Hasbro Beyblade Burst B9503ES0 - Single Top Roktavor  Kreisel'
 actualPrice: 10.01 EUR
 currency: EUR
 price: 10.01

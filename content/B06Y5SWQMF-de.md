@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319hO84t1WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y5SWQMF-de'
+slug: 'B06Y5SWQMF-de GoPro Karma Ladegerät Steckdosenadapter für EU schwarz'
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GbLjlGpfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01615UVQU-de'
+slug: 'B01615UVQU-de Sonos Play:5 WLAN Speaker  Kraftvoller WLAN Lautsprecher mit bestem  kristallklarem Stereo Sound – AirPlay kompatibler Multiroom Lautsprecher  weiß'
 actualPrice: 476.0 EUR
 currency: EUR
 price: 476.0

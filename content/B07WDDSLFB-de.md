@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21-2Na9TkvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WDDSLFB-de'
+slug: 'B07WDDSLFB-de Wir stellen vor: Amazon eero Pro WLAN-Mesh-Router/Extender'
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

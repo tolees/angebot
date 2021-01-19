@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419QZOBFCQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000CBVAQ0-de'
+slug: 'B000CBVAQ0-de Toppik Haarfasern für mehr Fülle/Volumen  Dunkelbraun  27.5 g'
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rAd5ybTiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PGFBC7S-de'
+slug: 'B07PGFBC7S-de Souarts Ring Damen Schmuck Silber Gold Rosegold Farbe Edelstahl mit Zirkon Strass Geschenk für Frauen  White  10 '
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

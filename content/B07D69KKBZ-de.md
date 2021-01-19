@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410gpfSfqxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D69KKBZ-de'
+slug: 'B07D69KKBZ-de LG G7 ThinQ Smartphone  15 47 cm  6 1 Zoll  FullVision LCD Display  64GB interner Speicher  4GB RAM  einstellbare Notch  IP68  MIL-STD-810G  Android 8.0  Schwarz'
 actualPrice: 259.99 EUR
 currency: EUR
 price: 259.99

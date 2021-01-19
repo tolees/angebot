@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lTuwqvq8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGFJZ4Y-de'
+slug: 'B07WGFJZ4Y-de Küchenarmatur  TACKLIFE DAKF6F 360° Drehbar Wasserhahn Küche aus Edelstahl  Einhand- Spültischbatterie mit Herausziehbare Dualbrause  Hohe Bogenauslauf  100% Bleifrei und Nickelfrei  Spültischarmatur'
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

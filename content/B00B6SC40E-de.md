@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NE3kNo7FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B6SC40E-de'
+slug: 'B00B6SC40E-de Ravensburger 21122 Lustige Kinderspiele Tiere'
 actualPrice: 10.76 EUR
 currency: EUR
 price: 10.76

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51U4pfGiS2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AJGL1TE-de'
+slug: 'B00AJGL1TE-de OLI-NATURA Projektöl für innen  speziell für Möbel  Parkett und Treppen aus Holz    1 Liter   Farblos'
 actualPrice: 13.52 EUR
 currency: EUR
 price: 13.52

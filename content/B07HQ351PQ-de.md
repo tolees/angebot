@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ooQ44JpUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HQ351PQ-de'
+slug: 'B07HQ351PQ-de Steins; Gate ELITE [Playstation 4]'
 actualPrice: 11.36 EUR
 currency: EUR
 price: 11.36

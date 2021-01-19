@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cejb2Ue-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHZ7T4M-de'
+slug: 'B07RHZ7T4M-de Bqeel Android 10.0 TV Box【4G+64G】 R2 MAX Android TV Box mit RK3318 Quad-Core 64bit Cortex-A53/ unterstützt WiFi 2.4G/5.0G /Bluetooth 4.0/ 4K/HD/ USB 3.0/H.265 Smart tv Box Android Box'
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

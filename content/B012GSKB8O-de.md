@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31e4XZEO0XL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012GSKB8O-de'
+slug: 'B012GSKB8O-de Buff Erwachsene Mütze Merino Thermal  Solid Black  one size'
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

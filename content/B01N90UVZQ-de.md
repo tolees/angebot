@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mGNe9utvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N90UVZQ-de'
+slug: 'B01N90UVZQ-de Under Armour Herren Sporthose  Schwarz  X-Large'
 actualPrice: 30.9 EUR
 currency: EUR
 price: 30.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kD8MnLygL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073DYK37R-de'
+slug: 'B073DYK37R-de American Horror Story - Season 6 - Roanoke [Blu-ray]'
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

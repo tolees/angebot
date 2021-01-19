@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41spDJ04qJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X4YF8ZB-de'
+slug: 'B07X4YF8ZB-de SCHÜTTE 79146 MIAMI Küchenarmatur 360°  Einhebelmischer mit ausziehbarer  magnetischer Geschirrbrause  Spültischarmatur Mischbatterie für die Spüle  Wasserhahn Küche Schwarz'
 actualPrice: 109.9 EUR
 currency: EUR
 price: 109.9

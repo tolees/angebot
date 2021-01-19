@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YKBb6DRrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RRPL3P-de'
+slug: 'B073RRPL3P-de Skinomi TechSkin - Schutzfolie für Google Pixel 2 XL deckt den Bildschirm und ist Hüllenkompatibel  2er Pack'
 actualPrice: 7.35 EUR
 currency: EUR
 price: 7.35

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414uGa%2B-EpL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5MQX4N-de'
+slug: 'B01N5MQX4N-de Sony MDR-XB950N1 kabelloser Kopfhörer mit Geräuschminimierung  Noise Cancelling  Extrabass  NFC  Bluetooth  faltbar   schwarz'
 actualPrice: 98 EUR
 currency: EUR
 price: 98

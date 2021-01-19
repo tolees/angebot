@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416x7fC4StL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMLP1T7-de'
+slug: 'B07MMLP1T7-de Napapijri Herren Aric Jacke  Schwarz  Black 041    Herstellergröße:S '
 actualPrice: 72.16 EUR
 currency: EUR
 price: 72.16

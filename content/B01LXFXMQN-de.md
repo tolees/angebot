@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EsgXIg2LL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXFXMQN-de'
+slug: 'B01LXFXMQN-de Bosch Ortungsgerät Truvo  3 x AAA Batterien  Erfassungstiefe Stahl/Kupfer/stromführende Leitungen max. 70/60/50 mm  in Tinbox '
 actualPrice: 37.95 EUR
 currency: EUR
 price: 37.95

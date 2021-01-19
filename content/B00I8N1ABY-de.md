@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311Iz2JbsVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I8N1ABY-de'
+slug: 'B00I8N1ABY-de Makita Akku-Heckenschere  52 cm  18 V  ohne Akku  ohne Ladegerät  DUH523Z'
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

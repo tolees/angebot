@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21zXfe2DKOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H7TFQCS-de'
+slug: 'B07H7TFQCS-de Optoma LV130  LED Projektor  WVGA  100.000:1 Kontrast  300Lumen  HDMI  MHL  Schwarz'
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

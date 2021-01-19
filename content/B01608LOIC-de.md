@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61L87IsI6fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01608LOIC-de'
+slug: 'B01608LOIC-de PLAYMOBIL City Action 6876 Motorradstreife mit LED-Blinklicht  Ab 5 Jahren'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

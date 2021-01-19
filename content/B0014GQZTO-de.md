@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wn66vQ8fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0014GQZTO-de'
+slug: 'B0014GQZTO-de Bosch Professional Diamant-Dosensenker mit Power-Change-Adapter  Ø 68 mm '
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

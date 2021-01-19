@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KOZFORPXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CJRIQU8-de'
+slug: 'B00CJRIQU8-de Keter Gerätehaus Manor 6x8 DD  Grau  7 6 m³'
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

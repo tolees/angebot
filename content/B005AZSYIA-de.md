@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61tg3VzLBCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005AZSYIA-de'
+slug: 'B005AZSYIA-de Band of Gypsys'
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61bphIOQX0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075M75TJB-de'
+slug: 'B075M75TJB-de Kirby Battle Royale - [Nintendo 3DS]'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

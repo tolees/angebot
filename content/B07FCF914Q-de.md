@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FVI7ndpuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FCF914Q-de'
+slug: 'B07FCF914Q-de LaDicha 2ST LANTIAN LC Filter Module DC Power Video Signal Wave Filter 1S-6er für FPV System RC Drohne'
 actualPrice: 6.51 EUR
 currency: EUR
 price: 6.51

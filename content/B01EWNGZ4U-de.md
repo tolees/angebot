@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514fRy2tHeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EWNGZ4U-de'
+slug: 'B01EWNGZ4U-de Akku-Set 18 V / 5 Ah  DCD796 / DCF887 '
 actualPrice: 342.0 EUR
 currency: EUR
 price: 342.0

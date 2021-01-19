@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31S8tyh1jyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QMTPZCK-de'
+slug: 'B07QMTPZCK-de WEB EYEWEAR Herren WE0267 Sonnenbrille  Gold  54 EU'
 actualPrice: 114.5 EUR
 currency: EUR
 price: 114.5

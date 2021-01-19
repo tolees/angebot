@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lK2QrjyeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1JKV71-de'
+slug: 'B07X1JKV71-de Mpow EM19 Bluetooth-Headset für Ein Ohr  Bluetooth Headset Handy Wireless Headset Bluetooth Freisprechen Kopfhörer in Ear Bluetooth In-Ear Headset mit CVC6.0 -Noise Cancelling 20H für iPhone Huawei'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

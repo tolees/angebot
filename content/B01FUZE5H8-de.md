@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416km+e+BGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FUZE5H8-de'
+slug: 'B01FUZE5H8-de Netgear AC810-100EUS LTE Router/Mobiler WLAN Router  WiFi Hotspot  4G Router  bis zu 600 Mbit/s  802.11ac Standard  Cat 11  Powerbank  ohne SIM-Lock '
 actualPrice: 159.45 EUR
 currency: EUR
 price: 159.45

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WUQLwfOzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SH3CFC9-de'
+slug: 'B07SH3CFC9-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Darth Vader Transformation  Kompatibel Mit Lego 75183 Bausteinen Modell - Ohne Lego Set'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qfs2MoUpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHZFQ9L-de'
+slug: 'B07RHZFQ9L-de SANROCK U61W Drohne für Kinder mit Kamera  RC Quadcopter mit 720P HD WiFi FPV Kamera  Unterstützt Höhe halten  Routenerstellung  Headless-Modus  EIN-Knopf Start / Landung  Not-Aus'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

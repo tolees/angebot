@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D+945XHTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GVLMHL8-de'
+slug: 'B07GVLMHL8-de Emsa N2010800 Travel Mug Waves  0 36 L PA. Grau'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

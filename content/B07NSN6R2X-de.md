@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ck+8-ktwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NSN6R2X-de'
+slug: 'B07NSN6R2X-de Funko 39547 POP Vinyl Squarepants S3: Spongebob w/Pineapple Sammelbares Spielzeug  Mehrfarben  Standard'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

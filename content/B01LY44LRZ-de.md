@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61Q1XHMB7WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LY44LRZ-de'
+slug: 'B01LY44LRZ-de PLAYMOBIL Ghostbusters 9222 Slimer mit Hot Dog Stand  Ab 6 Jahren'
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

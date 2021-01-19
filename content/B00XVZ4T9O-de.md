@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414i8MQdr+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XVZ4T9O-de'
+slug: 'B00XVZ4T9O-de Dyson V6 Mattress beutel- & kabelloser Staubsauger inkl. motorisierter Elektrobürste für Matratzen  Kombi- & Fugendüse | Beutelloser Matratzensauger mit Lithium-Ionen Akku'
 actualPrice: 190.0 EUR
 currency: EUR
 price: 190.0

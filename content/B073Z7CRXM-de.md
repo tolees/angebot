@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RoBhTBD3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073Z7CRXM-de'
+slug: 'B073Z7CRXM-de PETKIT P008 Reiseflasche EVERSWEET Travel One-Touch  grau'
 actualPrice: 11.92 EUR
 currency: EUR
 price: 11.92

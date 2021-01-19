@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410hzfwP4xL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPG4SRX-de'
+slug: 'B06XPG4SRX-de Philips Sonicare Elektrische Zahnbürste und Munddusche HX8491/03  Diamond Clean Zahnbürste  AirFloss Ultra für die Zahnzwischenraumreinigung  Ladeglas und USB  Ladegerät  Zahnpflege Set in schwarz'
 actualPrice: 189.88 EUR
 currency: EUR
 price: 189.88

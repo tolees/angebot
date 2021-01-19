@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61uGNfIUhiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VLVH1UO-de'
+slug: 'B00VLVH1UO-de Playmobil 5309 - Schlafzimmer mit Schminktischchen'
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

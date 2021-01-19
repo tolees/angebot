@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XZrBmvW9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079PR4QBQ-de'
+slug: 'B079PR4QBQ-de Ladeheid Jungen Hausschuhe mit Klettverschluss LAVI0003  Dunkelblau  24 EU '
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

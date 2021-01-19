@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31F7gZjjkfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I3LUUIU-de'
+slug: 'B00I3LUUIU-de Sony MDR-EX110APB In-Ear-Kopfhörer schwarz'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

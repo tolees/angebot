@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51LSQn8fCSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LMA9BCU-de'
+slug: 'B00LMA9BCU-de Disney 84624 Frozen Papier Servietten  20 Stück mit Sommer Olaf  Multi-Colored'
 actualPrice: 1 EUR
 currency: EUR
 price: 1

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417bqRsM0KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BNJDL65-de'
+slug: 'B08BNJDL65-de Bluetooth Kopfhörer  kabellose Kopfhörer Touch Control Sportkopfhörer  IPX7 wasserdicht  3D-Stereo-Rauschunterdrückung  geeignet für Airpods/iPhone/Samsung Apple AirPods Pro/AirPods'
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

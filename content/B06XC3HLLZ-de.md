@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41I51bn+v+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XC3HLLZ-de'
+slug: 'B06XC3HLLZ-de Huawei P10 Smartphone  12 95 cm  5 1 Zoll  Touch-Display  64 GB Interner Speicher  Android 7.0   EMUI 5.1  Mystic Silver'
 actualPrice: 134.59 EUR
 currency: EUR
 price: 134.59

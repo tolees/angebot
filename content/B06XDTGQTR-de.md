@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dD47QXZfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDTGQTR-de'
+slug: 'B06XDTGQTR-de Alnatura Bio Tee Beerenzeit  20 Beutel  40 g'
 actualPrice: 1.83 EUR
 currency: EUR
 price: 1.83

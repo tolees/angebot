@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51VfcwCRIUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4KNV8D-de'
+slug: 'B01N4KNV8D-de Tommy Hilfiger Damen Analog Quarz Uhr mit Edelstahl beschichtet Armband 1781756'
 actualPrice: 121.95 EUR
 currency: EUR
 price: 121.95

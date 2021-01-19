@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41f05la2ixL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCNBRJD-de'
+slug: 'B07MCNBRJD-de Heimkamera  1080P FHD Wireless WiFi IP Überwachungskamera mit 5 Antennen  super Starkes Signal  Nachtsicht  Bewegungserkennung  Echtzeit Zweiweg Audio  für Zuhause/Büro/Shop EU '
 actualPrice: 17.09 EUR
 currency: EUR
 price: 17.09

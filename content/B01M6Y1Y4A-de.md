@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OUe-fHA-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M6Y1Y4A-de'
+slug: 'B01M6Y1Y4A-de Red Dead Redemption 2 Standard Edition [PlayStation 4] Disk'
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

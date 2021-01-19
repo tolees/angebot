@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ht5aXXg0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HK6VB22-de'
+slug: 'B07HK6VB22-de Marttiini 183609 Gürtelmesser Big Dipper Messer  Silber'
 actualPrice: 35.94 EUR
 currency: EUR
 price: 35.94

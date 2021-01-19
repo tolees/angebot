@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kI0AL2ypL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DRNFZ9S-de'
+slug: 'B07DRNFZ9S-de Michael Kors Damen Voyager bag  Schwarz  Black   15x27x34 cm'
 actualPrice: 127.99 EUR
 currency: EUR
 price: 127.99

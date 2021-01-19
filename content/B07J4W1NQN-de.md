@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zcuznmfBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J4W1NQN-de'
+slug: 'B07J4W1NQN-de Kate Lynn Muttertagsgeschenk Frauen Ohrringe schmuck Damen Swarovski Kristallohrringe geschenkset schmuckkästchen Geschenke für Frauen Mama Frau Freundin Mädchen Freunde Jahrestag Geschenkidee'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417JBRaiJSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077CX2SR1-de'
+slug: 'B077CX2SR1-de Grundig GRB 2000 Tragbare Radio Boombox travertin/silber'
 actualPrice: 45.91 EUR
 currency: EUR
 price: 45.91

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BC6E5Qx2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016IGUGRG-de'
+slug: 'B016IGUGRG-de Neff TPT4660X / T46PT60X0 / Autarkes Kochfeld / Induktion / 60cm / TwistPad Flat / Bräterzone'
 actualPrice: 352.0 EUR
 currency: EUR
 price: 352.0

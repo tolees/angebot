@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413dfJDqETL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07THGWS4M-de'
+slug: 'B07THGWS4M-de LIGHTAILING Licht-Set Für  Technic Porsche 911 RSR  Modell - LED Licht-Set Kompatibel Mit Lego 42096 Modell Nicht Enthalten '
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

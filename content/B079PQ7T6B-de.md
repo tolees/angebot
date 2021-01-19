@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yp1zQdxqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079PQ7T6B-de'
+slug: 'B079PQ7T6B-de Funko Pop Marvel: Avengers Infinity War - Thanos Collectible Figur'
 actualPrice: 6.67 EUR
 currency: EUR
 price: 6.67

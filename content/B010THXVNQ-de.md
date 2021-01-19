@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rh8T2pEyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010THXVNQ-de'
+slug: 'B010THXVNQ-de Sony Alpha 7RM2 E-Mount Vollformat Digitalkamera ILCE-7RM2  42 4 Megapixel  7 6cm  3 Zoll  TFT-Display  4K Video  5-Achsen-Bildstabilisierung  nur Gehäuse  schwarz'
 actualPrice: 850.0 EUR
 currency: EUR
 price: 850.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DWXpIF8hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Q8RQP2G-de'
+slug: 'B00Q8RQP2G-de Magi: The Kingdom of Magic - Staffel 2 - Vol.2 - [Blu-ray]'
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

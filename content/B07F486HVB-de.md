@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512UB3AxC+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F486HVB-de'
+slug: 'B07F486HVB-de OSOYOO Electricity Science Experiment Kit for Kids | Parallel Series Circuit Building Learning Project | Energy Problem Solving Set for Students | Stimulate Early STEM Intelligence IQ for Girl Boy'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

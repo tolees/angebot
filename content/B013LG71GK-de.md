@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AalU92FmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013LG71GK-de'
+slug: 'B013LG71GK-de G-STAR RAW Herren Straight Tapered Jeans 3301 Straight Tapered  Blau  Dk Aged 6590-89   32/32'
 actualPrice: 55.01 EUR
 currency: EUR
 price: 55.01

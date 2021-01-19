@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419ovctASDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9JKYDB-de'
+slug: 'B07L9JKYDB-de Napapijri Damen Rainforest W Sum 1 Jacke  Rosa  Pale Pink New P77   Small  Herstellergröße: S '
 actualPrice: 101.94 EUR
 currency: EUR
 price: 101.94

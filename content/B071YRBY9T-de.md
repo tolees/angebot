@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414vJK2-f1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071YRBY9T-de'
+slug: 'B071YRBY9T-de Acer Swift 1 SF113-31-P2CP 33 8 cm  13 3 Zoll Full-HD IPS matt  Ultrabook  Intel Pentium N4200  4GB RAM  256GB SSD  Intel HD  Win 10  silber'
 actualPrice: 250.0 EUR
 currency: EUR
 price: 250.0

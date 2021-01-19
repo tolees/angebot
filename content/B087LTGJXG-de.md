@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v57sAnBtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087LTGJXG-de'
+slug: 'B087LTGJXG-de EXTSUD Gummiband und Nasenbügel Set  Elastische Schnur Band 50 M Länge 3 mm mit 100 Stücke Nose Bridge Strip Zubehör für Mundschutz DIY Nähen und Handwerk'
 actualPrice: 13.89 EUR
 currency: EUR
 price: 13.89

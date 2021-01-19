@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51O2Ek2JuRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MNH48Z-de'
+slug: 'B079MNH48Z-de PLAYMOBIL Magic 9474 Schlitten mit Königspaar  Ab 4 Jahren'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

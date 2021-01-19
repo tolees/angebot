@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31w5FM7p9tL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QH3KFJJ-de'
+slug: 'B07QH3KFJJ-de LG Magic Remote-Fernbedienung AN-MR19BA Schwarz'
 actualPrice: 32.44 EUR
 currency: EUR
 price: 32.44

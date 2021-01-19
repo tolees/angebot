@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MdghJMm9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZLH557-de'
+slug: 'B07RZLH557-de Levi s Herren The Original T-Shirt  Grau  Hm Patch Og Tee Forged Iron 0004   Small  Herstellergröße: S '
 actualPrice: 14.52 EUR
 currency: EUR
 price: 14.52

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zAorLr7lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XD4S19N-de'
+slug: 'B06XD4S19N-de Calvin Klein Damen TOP Hoodie Full Zip Kapuzenpullover  Schwarz  Black 001   One Size  Herstellergröße: XS '
 actualPrice: 50.54 EUR
 currency: EUR
 price: 50.54

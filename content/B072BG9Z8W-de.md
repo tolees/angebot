@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31253QPcDAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072BG9Z8W-de'
+slug: 'B072BG9Z8W-de Logitech MX Anywhere 2S Kabellose Maus  Bluetooth und 2.4 GHz Verbindung via Unifying USB-Empfänger  4000 DPI Sensor  Wiederaufladbarer Akku  Multi-Device  7 Tasten  PC/Mac/iPadOS - graphit/schwarz'
 actualPrice: 60.9 EUR
 currency: EUR
 price: 60.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vrCmnSjrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HB8C8XP-de'
+slug: 'B07HB8C8XP-de Funko 36379 Pop! Marvel: Captain Marvel - Goose The Cat Toy  Standard  Multicolor'
 actualPrice: 11.14 EUR
 currency: EUR
 price: 11.14

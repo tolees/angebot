@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rbujx23pL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000EGSGQK-de'
+slug: 'B000EGSGQK-de VARTA Longlife 9V Block 6LP3146 Batterie  Alkaline E-Block Batterien ideal für Feuermelder Rauchmelder Stimmgerät  1er Pack  '
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

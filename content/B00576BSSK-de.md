@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51glvhyZcEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00576BSSK-de'
+slug: 'B00576BSSK-de Wenko Herdabdeckplatte Universal Chili  2er Set Herdabdeckung für alle Herdarten  Gehärtetes Glas  30 x 52 cm  mehrfarbig'
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

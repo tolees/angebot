@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HhgE6nWdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CITSAPI-de'
+slug: 'B00CITSAPI-de Mobicool W40 AC/DC - thermo-elektrische Kühlbox mit Rollen  39 Liter  12 V und 230 V für Auto  Lkw und Steckdose  A++'
 actualPrice: 107.57 EUR
 currency: EUR
 price: 107.57

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51t4rVvo6SL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXYCFGZ-de'
+slug: 'B07KXYCFGZ-de T98 Airpods Case Metall 2019 Neuestes AirPods Hülle Mit Airpods Zubehör  AirPods Tasche Ultraleicht Staubdicht Kratzfestes Gehäuse für AirPods 1&2 Aufladen Case[Nicht für Wireless-Ladekoffer]'
 actualPrice: 5.34 EUR
 currency: EUR
 price: 5.34

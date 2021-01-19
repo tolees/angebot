@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vQa-Pge8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNVBLNT-de'
+slug: 'B07TNVBLNT-de Seagate Expansion Portable  5 TB  tragbare externe Festplatte  2.5 Zoll  USB 3.0  PC & Notebook  Modellnr.: STEA5000402'
 actualPrice: 96.5 EUR
 currency: EUR
 price: 96.5

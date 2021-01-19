@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41g5dSkpZ0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FGI2QVC-de'
+slug: 'B00FGI2QVC-de Anker 2.4G Wireless Maus Vertikale Ergonomische Funkmaus Vertical Mouse Kabellos für Windows  Mac OS  USB  800/1200/1600 DPI  5 Tasten'
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

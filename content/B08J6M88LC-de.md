@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AAiMogHuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08J6M88LC-de'
+slug: 'B08J6M88LC-de Bluetooth-Kopfhörer 5.0 Kabellose Kopfhörer IPX7 wasserdichte Noise-Cancelling-Kopfhörer Geräuschisolierung mit 24H Ladekästchen，für Android/iPhone/für Samsung/für Apple AirPods Pro'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

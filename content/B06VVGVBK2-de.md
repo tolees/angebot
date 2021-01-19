@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xsEyWNZEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VVGVBK2-de'
+slug: 'B06VVGVBK2-de Trefl 90604 - Puzzles 2-in-1 Spaß mit Freunden Memory'
 actualPrice: 6.52 EUR
 currency: EUR
 price: 6.52

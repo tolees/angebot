@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nw9piO9LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YT7HS5J-de'
+slug: 'B07YT7HS5J-de Mega Construx GMD34 - Pokémon Jumbo Evoli  30cm   Bauset mit beweglicher Figur  Spielzeug ab 10 Jahren'
 actualPrice: 36.26 EUR
 currency: EUR
 price: 36.26

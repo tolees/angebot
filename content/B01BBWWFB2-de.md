@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zdm6iVXsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BBWWFB2-de'
+slug: 'B01BBWWFB2-de AVM FRITZ!Fon C5 DECT-Komforttelefon  hochwertiges Farbdisplay  HD-Telefonie  Internet-/Komfortdienste  Steuerung FRITZ!Box-Funktionen  schwarz  deutschsprachige Version'
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61xP8PXnneL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKWNS1V-de'
+slug: 'B07JKWNS1V-de PLAYMOBIL Top Agents 70003 Spy Team Sub Bot  Ab 6 Jahren'
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eshuzpzPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1WKWPY-de'
+slug: 'B07X1WKWPY-de Anker Powerbank  PowerCore Slim 10000 PD kompakte 10000mAh mit USB-C Power Delivery  18W  für iPhone 8 / 8+ / X / XS / XR / XS Max  Samsung Galaxy S10  Pixel 3 / 3XL  iPad Pro 2018'
 actualPrice: 19.6 EUR
 currency: EUR
 price: 19.6

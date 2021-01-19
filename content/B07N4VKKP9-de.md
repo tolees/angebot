@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41psaxRBccL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4VKKP9-de'
+slug: 'B07N4VKKP9-de Tommy Jeans Damen TJW MODERN Logo Hoodie Sweatshirt  Grau  Grey PPP    Herstellergröße:M '
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

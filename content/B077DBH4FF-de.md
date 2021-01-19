@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31r-pKqbvBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B077DBH4FF-de'
+slug: 'B077DBH4FF-de Enders 5676 Wetterschutzhülle  Schwarz  50 x 50 x 120 cm'
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

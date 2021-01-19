@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BWV7B85LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HRRD11O-de'
+slug: 'B00HRRD11O-de Sylvanian Families 5036 5036-Babyzimmer  Puppenzimmer  Mehrfarbig'
 actualPrice: 23.07 EUR
 currency: EUR
 price: 23.07

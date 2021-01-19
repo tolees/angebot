@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iF73vg3fL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L2N2LWT-de'
+slug: 'B07L2N2LWT-de Sharkoon Drakonia II Gaming Maus  optischer Sensor PixArt 3360  15.000 DPI  12 programmierbare Tasten  grün'
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

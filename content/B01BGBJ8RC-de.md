@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-M9EIrmOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BGBJ8RC-de'
+slug: 'B01BGBJ8RC-de Logitech C310 Webcam  HD 720p  60° Sichtfeld  Fester Fokus  Belichtungskorrektur  USB-Anschluss  Rauschunterdrückung  Universalhalterung  Für Skype  FaceTime  Hangouts  etc.  PC/Mac/ChromeOS/Android'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

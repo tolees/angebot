@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61KQ0DolFeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004U3PAEE-de'
+slug: 'B004U3PAEE-de Rustic 103667630382 Stumpenkerze mit Metallic-Finish  Paraffinwachs  Goldfarben.'
 actualPrice: 2.92 EUR
 currency: EUR
 price: 2.92

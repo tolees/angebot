@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bpiD93G1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0816HKYYF-de'
+slug: 'B0816HKYYF-de jpantech Smartwatch  Fitness Armband Tracker Voller 5ATM Wasserdicht Smart Watch Intelligente Aktivitäts Uhr Sportuhr  Damen Herren Schlafmonitor SMS Beachten Armbanduhr für Android iOS Schwarz '
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

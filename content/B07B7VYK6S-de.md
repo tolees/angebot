@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NrQ+VCL4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B7VYK6S-de'
+slug: 'B07B7VYK6S-de Dickie Toys Fire Rescue Unit  Feuerwehrauto  Spielzeugauto  Feuerwehr  bewegliche und ausfahrbare Leiter  Licht & Sound  inkl. Batterien  30 cm groß  ab 3 Jahren'
 actualPrice: 8.64 EUR
 currency: EUR
 price: 8.64

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31A-zNxO4vL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SGZDDM7-de'
+slug: 'B07SGZDDM7-de Samsung Galaxy S10+ Smartphone Bundle  16.3cm  6.4 Zoll  128 GB interner Speicher  8 GB RAM  Dual SIM  Android  prism white  inkl. 36 Monate Herstellergarantie [Exklusiv bei Amazon] Deutsche Version'
 actualPrice: 649.0 EUR
 currency: EUR
 price: 649.0

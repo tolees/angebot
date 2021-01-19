@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31q3ITVBKHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084Z72RXH-de'
+slug: 'B084Z72RXH-de Aluminiumstangen Ringwerkzeuge Fine Arts Sculpture Pottery Diy Tools - Silber'
 actualPrice: 3.15 EUR
 currency: EUR
 price: 3.15

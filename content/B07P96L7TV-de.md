@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lTWYcuXQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P96L7TV-de'
+slug: 'B07P96L7TV-de Funko 42038 POP Vinyl: WWE-Undertaker  Hooded  Sammelbares Spielzeug  Mehrfarben'
 actualPrice: 10.52 EUR
 currency: EUR
 price: 10.52

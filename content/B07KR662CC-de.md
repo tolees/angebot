@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xEctokhIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KR662CC-de'
+slug: 'B07KR662CC-de TOM TAILOR Herren T-Shirts/Tops T-Shirt mit Logo-Print Tarmac Grey L'
 actualPrice: 8.05 EUR
 currency: EUR
 price: 8.05

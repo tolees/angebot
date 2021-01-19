@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pIDKzLvFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08K8N46JY-de'
+slug: 'B08K8N46JY-de Bluetooth Kopfhörer  Ajcoflt Wireless Noise Cancelling Earbuds BT5.0 IPX4 Sport kopfhörer Stereo-Ohrhörer mit 280mAh Ladespeicherbox  Automatische Kopplung Touch Steuerung für Android/iOS'
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

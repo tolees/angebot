@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41z59c47HUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079TJBCWR-de'
+slug: 'B079TJBCWR-de Funko 30850 POP Vinyl Deadpool Parody  Multi  Standard'
 actualPrice: 9.8 EUR
 currency: EUR
 price: 9.8

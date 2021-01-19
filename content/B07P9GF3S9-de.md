@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310MlpM7cOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P9GF3S9-de'
+slug: 'B07P9GF3S9-de Tommy Hilfiger Damen Heritage Crew Neck Graphic Tee T-Shirt  Schwarz  Masters Black 017   X-Large  Herstellergröße: XL '
 actualPrice: 24.65 EUR
 currency: EUR
 price: 24.65

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WyFDO5p7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKM6S4C-de'
+slug: 'B07TKM6S4C-de iRobot Braava Jet 250 Wischroboter mit Präzisions-Sprühstrahl  3 in 1:Trocken-  Feucht- und Nassreinigung  Ideal für Bad und Küche  Reinigungslösung  Einwegtücher und waschbare Tücher'
 actualPrice: 148.17 EUR
 currency: EUR
 price: 148.17

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31TrkqE+m7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074TP48WY-de'
+slug: 'B074TP48WY-de Philips HF3651/01 Sleep und Wake-up Light  Einschlafhilfe  Natürlich aufwachen  Sonnenauf- und untergangssimulation  Nachtlicht  Entspannungsübung '
 actualPrice: 108.99 EUR
 currency: EUR
 price: 108.99

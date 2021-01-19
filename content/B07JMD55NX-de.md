@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yHEFPJ3VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMD55NX-de'
+slug: 'B07JMD55NX-de Playmobil 70181 1.2.3 PKW mit Pferdeanhänger  bunt'
 actualPrice: 14.42 EUR
 currency: EUR
 price: 14.42

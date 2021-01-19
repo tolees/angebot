@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417bQbjrtNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088JYX5N2-de'
+slug: 'B088JYX5N2-de XIDU PhilMac Mini PC Al-Legierung Windows 10  8GB DDR4  128GB eMMC  Intel Celeron J4115  4K Mini Computer mit HDMI/VGA/Gigabit Ethernet / 3xUSB 3.0 / SD-Karte  Dual Band WiFi  BT 4.2  Space Grau '
 actualPrice: 229.99 EUR
 currency: EUR
 price: 229.99

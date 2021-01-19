@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cdfzdAlSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0104BLRT2-de'
+slug: 'B0104BLRT2-de Sylvanian Families 5220 Einrichtungsset für Starter Haus  29 x 4 8 x 21 8 cm'
 actualPrice: 25.2 EUR
 currency: EUR
 price: 25.2

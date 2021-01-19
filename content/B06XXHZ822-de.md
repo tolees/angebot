@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51c8YrixDjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XXHZ822-de'
+slug: 'B06XXHZ822-de PROCAVE TopCool Qualitäts-Bettdecke für den Sommer 200x220cm  Soft-Komfort-Bettdecke  kochfeste Steppdecke  atmungsaktiv & wärmeausgleichend 100% aus Deutschland'
 actualPrice: 39.96 EUR
 currency: EUR
 price: 39.96

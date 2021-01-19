@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GvnLAvigL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WKFJX84-de'
+slug: 'B07WKFJX84-de Color de bronce Hombres Mujeres Anillo de salto Abrir y cerrar Herramientas Anillos de dedo Pendientes de bricolaje Trabajo hecho a mano Herramientas Joyas de anillo - Dorado'
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

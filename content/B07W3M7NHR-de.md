@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZUueSpcgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W3M7NHR-de'
+slug: 'B07W3M7NHR-de Ionen Haartrockner Ribivaul 1700 Watt Salon Dry Care ThermoProtect Technologie mit 2 Konzentratordüsen + Diffusor Advanced Hair Dryer Pro Ion Fön 3 Aufsätze Schnelles Styling'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

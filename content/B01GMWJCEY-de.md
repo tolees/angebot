@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b2a6sSalL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GMWJCEY-de'
+slug: 'B01GMWJCEY-de Cremefarbener Segeltuch-Hundespielzeugkorb - Qualitätskorb zur Aufbewahrung von Hundespielzeug 40 cm x 30 cm x 25 cm'
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

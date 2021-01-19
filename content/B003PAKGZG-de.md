@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iSOHmlSvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003PAKGZG-de'
+slug: 'B003PAKGZG-de keeeper Ordnungssystem 30x8  Polypropylen  Silber  30 x 8 x 5 cm'
 actualPrice: 1.65 EUR
 currency: EUR
 price: 1.65

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51N2miLzccL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002PHLZJ6-de'
+slug: 'B002PHLZJ6-de Inter Link Sammlervitrine Hängevitrine Wandregal Glasvitrine Wandvitrine Hängeregal Schaukasten MDF Buche Nachbildung BxHxT: 80 x 60 x 9.50 cm'
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

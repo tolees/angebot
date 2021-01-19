@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51o7j+eHXkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005GXAE4I-de'
+slug: 'B005GXAE4I-de AEG TR3LFSTV FlexiRunnersT Vollauszug für ProCombi 3 Paar Teleskopschienen Dampfgarer'
 actualPrice: 109.5 EUR
 currency: EUR
 price: 109.5

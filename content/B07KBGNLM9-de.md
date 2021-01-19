@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nnD6-SS9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KBGNLM9-de'
+slug: 'B07KBGNLM9-de VAUDE Damen Hose Women s Farley Stretch Pants II  abzippbare Wanderhose  eclipse  40/Short  045767504400'
 actualPrice: 58.17 EUR
 currency: EUR
 price: 58.17

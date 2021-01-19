@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51c8Rqfv-LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJKC8HV-de'
+slug: 'B07TJKC8HV-de Anna [Blu-ray]'
 actualPrice: 6.33 EUR
 currency: EUR
 price: 6.33

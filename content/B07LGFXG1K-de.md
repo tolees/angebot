@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yoVhdyRcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGFXG1K-de'
+slug: 'B07LGFXG1K-de HONOR Smartwatch im klassischen Uhrendesign mit 3 cm  1 2 Zoll  AMOLED Display  Moonlight Silver + Brown Leather & Silicone'
 actualPrice: 133.07 EUR
 currency: EUR
 price: 133.07

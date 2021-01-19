@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SCWchFOjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPJPLWK-de'
+slug: 'B07PPJPLWK-de LG OLED55C97LA 139 cm  55 Zoll  OLED Fernseher  OLED  Dual Triple Tuner  4K Cinema HDR  Dolby Vision  Dolby Atmos  Smart TV '
 actualPrice: 1699.0 EUR
 currency: EUR
 price: 1699.0

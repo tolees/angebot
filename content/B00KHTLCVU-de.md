@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tBksjiLzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KHTLCVU-de'
+slug: 'B00KHTLCVU-de Schiesser Damen Tai  3er Pack  Slip  Weiß  weiss 100   40/L'
 actualPrice: 21.81 EUR
 currency: EUR
 price: 21.81

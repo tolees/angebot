@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YHp9qE3JL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004AO0HMI-de'
+slug: 'B004AO0HMI-de Jillian Michaels - Shred: Schlank in 30 Tagen'
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Z5NyulUML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MD84ZZ4-de'
+slug: 'B07MD84ZZ4-de Akkuschrauber  GOXAWEE 12V Akku Bohrschrauber mit 100 Zubehör  2 Akku  Drehmoment Max 30Nm  2-Gang  10mm Schnellspannbohrfutter  für Heimwerker und Bohrwände  Holz  Metall'
 actualPrice: 57.98 EUR
 currency: EUR
 price: 57.98

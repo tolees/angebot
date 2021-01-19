@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QZPT8lr6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X3RGV9C-de'
+slug: 'B07X3RGV9C-de NUBWO PS4 Headset Xbox one Stereo-Gaming-Kopfhörer mit Geräuschunterdrückung und Inline-Steuerung für PS4 / Xbox 1 / PC'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

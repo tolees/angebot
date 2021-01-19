@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wyKCIc8NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000IWHXH8-de'
+slug: 'B000IWHXH8-de Krups GVX242 Kaffeemühle Mahlwerk'
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

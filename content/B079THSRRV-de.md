@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gL0q9ZW0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079THSRRV-de'
+slug: 'B079THSRRV-de Funko 28888 No Actionfigur Game of Thrones: S8 Daenerys  Weiß Coat   Multi'
 actualPrice: 11.72 EUR
 currency: EUR
 price: 11.72

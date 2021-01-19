@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DwQrqef6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082PGPFSQ-de'
+slug: 'B082PGPFSQ-de s.Oliver Herren 130.11.899.12.130.2037840 T-Shirt  Blue  XL'
 actualPrice: 12.44 EUR
 currency: EUR
 price: 12.44

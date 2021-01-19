@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41q1yNM3NwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTEFT52-de'
+slug: 'B01MTEFT52-de Noctua NM-AM4  CPU-Kühler-Montageset für Noctua CPU Kühler auf AMD AM4'
 actualPrice: 7.36 EUR
 currency: EUR
 price: 7.36

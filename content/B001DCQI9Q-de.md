@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412AV5Ves+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001DCQI9Q-de'
+slug: 'B001DCQI9Q-de Pariser & Londoner Sinfonien  Karajan-Edition '
 actualPrice: 11.76 EUR
 currency: EUR
 price: 11.76

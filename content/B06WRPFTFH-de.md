@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xviWkkqPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WRPFTFH-de'
+slug: 'B06WRPFTFH-de Swarovski Sparkling Dance Round Halskette für Frauen'
 actualPrice: 65.85 EUR
 currency: EUR
 price: 65.85

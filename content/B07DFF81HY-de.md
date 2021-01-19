@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZB1fwNa6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFF81HY-de'
+slug: 'B07DFF81HY-de Funko 34691 Games: Don t Starve: Willow & Bernie POP Vinylfigur  Multi'
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

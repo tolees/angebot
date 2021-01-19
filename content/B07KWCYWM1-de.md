@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dfNiK1IKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWCYWM1-de'
+slug: 'B07KWCYWM1-de Gardena Textilschlauch Liano Set 30m: flexibler und robuster Gartenschlauch aus Textilgewebe  Schlauch ideal für Balkon und Terrasse  kein Knicken oder Verdrehen  schwarz/anthrazit/orange  18438-20 '
 actualPrice: 56.77 EUR
 currency: EUR
 price: 56.77

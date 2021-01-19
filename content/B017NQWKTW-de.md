@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iJzXu6H7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017NQWKTW-de'
+slug: 'B017NQWKTW-de Funko 025596 Schlüsselanhänger Figur Harry Potter  Multi'
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

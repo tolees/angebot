@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MM84bHypL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010SWJVS6-de'
+slug: 'B010SWJVS6-de JBL Xtreme Spritzwasserfester Tragbarer Bluetooth Lautsprecher mit 10  000 mAh Akku  Dualem USB-Ladeanschluss und Freisprechfunktion'
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

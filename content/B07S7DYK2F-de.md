@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41phpM+SM-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7DYK2F-de'
+slug: 'B07S7DYK2F-de Delinuo Bluetooth Kopfhörer Kabellos mit 6000mAh Batterie / IPX6 / Mikrofon / Digitales Display'
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

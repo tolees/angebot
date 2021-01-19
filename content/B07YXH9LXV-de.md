@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4127rji7NSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YXH9LXV-de'
+slug: 'B07YXH9LXV-de Nikon Z 50 Kamera'
 actualPrice: 667.58 EUR
 currency: EUR
 price: 667.58

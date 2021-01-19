@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-sqAU5qQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSQHP71-de'
+slug: 'B07MSQHP71-de ASUS ZenBook Flip 15 UX562FA  90NB0LK1-M00360  39 6 cm  15 6 Zoll  FHD  WV  Touch  Convertible  Intel Core i5-8265U  8GB RAM  256GB SSD  Intel UHD-Grafik 620  Windows 10  Grey'
 actualPrice: 500.0 EUR
 currency: EUR
 price: 500.0

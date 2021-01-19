@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41NQkWPtmwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082BFBMW3-de'
+slug: 'B082BFBMW3-de IWEMEK Mädchen Eiskönigin ELSA Kleid Schneekönigin Prinzessin Kostüm Schneeflocke Tüll Kleid Weihnachten Karneval Verkleidung Geburtstag Partykleid Outfits Blauer Mantel 8-9 Jahre'
 actualPrice: 12.35 EUR
 currency: EUR
 price: 12.35

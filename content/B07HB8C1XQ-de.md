@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oreRQvOUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HB8C1XQ-de'
+slug: 'B07HB8C1XQ-de Funko 33973 Vinyl: Games: Fallout S2: T-51 Power Armor Pop Sammelbares Spielzeug  Mehrfarben  Einheitsgröße'
 actualPrice: 11.33 EUR
 currency: EUR
 price: 11.33

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61XtLDUVnGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H3EPKPK-de'
+slug: 'B01H3EPKPK-de Mario Party: Star Rush [3DS]'
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

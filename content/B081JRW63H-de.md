@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eVO1dOhBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081JRW63H-de'
+slug: 'B081JRW63H-de LLOYD Herren ORWIN Uniform-Schuh  Braun  Brandy   44.5'
 actualPrice: 86.16 EUR
 currency: EUR
 price: 86.16

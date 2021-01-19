@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/518--wIriqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8SDQJH-de'
+slug: 'B07M8SDQJH-de Frozen Disney Die Eiskönigin II Königliches Schloss von Arendelle E5495EU4'
 actualPrice: 137.9 EUR
 currency: EUR
 price: 137.9

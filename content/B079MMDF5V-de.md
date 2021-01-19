@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AYzCF1umL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MMDF5V-de'
+slug: 'B079MMDF5V-de PLAYMOBIL Magic 9473 Schneetroll mit Schlitten und Lichteffekt  Ab 4 Jahren'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

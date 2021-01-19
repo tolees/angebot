@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k1yCBhbKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STLQ1PZ-de'
+slug: 'B07STLQ1PZ-de Geox Herren U SNAKE.2 A  Grün  Dk Green/Lt Grey C3287   43 EU'
 actualPrice: 37.22 EUR
 currency: EUR
 price: 37.22

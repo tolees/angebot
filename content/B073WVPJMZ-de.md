@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51M3gQjHvNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073WVPJMZ-de'
+slug: 'B073WVPJMZ-de Akkuschrauber 12volt set TACKLIFE Akku-Bohrschrauber   2000 mAh  Max. Drehmoment: 27 Nm  Schrauben-Ø: 10 mm  22-tlg. Zubehör-Set  19+1 Drehmomentstufen   mit LED-Arbeitslicht  Profi-Koffer PCD01B'
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

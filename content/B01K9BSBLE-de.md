@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Cp35s5Y2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K9BSBLE-de'
+slug: 'B01K9BSBLE-de Hugo BOSS Herren-Armbanduhr 1513440  Stahl/Grau'
 actualPrice: 182.9 EUR
 currency: EUR
 price: 182.9

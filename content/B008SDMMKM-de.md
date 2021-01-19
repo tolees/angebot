@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-dd2OUWXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008SDMMKM-de'
+slug: 'B008SDMMKM-de Simba 107108605 - Sandformen Eis'
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

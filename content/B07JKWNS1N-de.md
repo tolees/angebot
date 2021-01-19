@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61eGZQTMcpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKWNS1N-de'
+slug: 'B07JKWNS1N-de PLAYMOBIL Top Agents 70002 Spy Team Turboship  Ab 6 Jahren'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

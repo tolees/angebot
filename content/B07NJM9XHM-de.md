@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31soHXSSebL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJM9XHM-de'
+slug: 'B07NJM9XHM-de Tamaris Damen 1-1-25129-23 Stiefeletten  Schwarz  Black 1   38 EU'
 actualPrice: 47.43 EUR
 currency: EUR
 price: 47.43

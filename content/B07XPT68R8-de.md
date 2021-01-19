@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513+Lzrk3iL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XPT68R8-de'
+slug: 'B07XPT68R8-de WISHDOIT Herren Uhren Sport Militär Wasserdicht Chronograph Silber Edelstahl Armbanduhr Männer Schwarz Herrenuhr Markenuhren Analog Quarzuhr'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

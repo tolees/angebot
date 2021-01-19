@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4174Kcn7BiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFCKY1N-de'
+slug: 'B07DFCKY1N-de Gigaset GS180 Smartphone ohne Vertrag  12 7 cm  5 Zoll HD  16:9 Display  16GB Speicher  Pure Android 8.1  silver grey'
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0

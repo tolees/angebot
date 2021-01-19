@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OORA2+EKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKSDJXL-de'
+slug: 'B07JKSDJXL-de BOYOU Herren Warmen Windproof Radfahren Handschuhe  Winter Outdoor Touchscreen Handschuhe für Herren'
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

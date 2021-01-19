@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31O3IU5KPYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFX12M8-de'
+slug: 'B07LFX12M8-de Sloggi Damen Zero Microfibre C2P Hipster  Mehrfarbig  Black Combination M014   S  2erPack '
 actualPrice: 9.39 EUR
 currency: EUR
 price: 9.39

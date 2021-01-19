@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41o1nMeeSqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZF4RXD-de'
+slug: 'B07GZF4RXD-de Thrustmaster T.Racing Scuderia Ferrari Edition  Gaming-Headset  50mm drivers  for PS4 / Xbox One / PC '
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

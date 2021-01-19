@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KTWsFhDHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002SSZ7BE-de'
+slug: 'B002SSZ7BE-de MTV Unplugged'
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hdxqIExUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SNHL6GH-de'
+slug: 'B07SNHL6GH-de SS&LL La basura del paso Puede Cubos de basura Con Tapas redondas basura Puede en casa & Cuarto de baño de la cocina -N'
 actualPrice: 93.99 EUR
 currency: EUR
 price: 93.99

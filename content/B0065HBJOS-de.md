@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UcAQGU56L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0065HBJOS-de'
+slug: 'B0065HBJOS-de walther design AJ330B Aluminium-Bilderrahmen Chair  30x30 cm  schwarz'
 actualPrice: 13.14 EUR
 currency: EUR
 price: 13.14

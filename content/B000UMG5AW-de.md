@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41z5VK+E1eL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000UMG5AW-de'
+slug: 'B000UMG5AW-de Hugo Boss Orange Man  men  Eau de Toilette  Vaprisateur / Spray  1er Pack  1 x 100 ml '
 actualPrice: 28.48 EUR
 currency: EUR
 price: 28.48

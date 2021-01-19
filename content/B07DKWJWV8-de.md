@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510mZAy1mOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKWJWV8-de'
+slug: 'B07DKWJWV8-de The Strangers - Opfernacht [Blu-ray]'
 actualPrice: 6.97 EUR
 currency: EUR
 price: 6.97

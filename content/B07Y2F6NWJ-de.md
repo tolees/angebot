@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41j6PAxjyCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y2F6NWJ-de'
+slug: 'B07Y2F6NWJ-de Microsoft Surface Pro X  13 Zoll 2-in-1 Tablet  Microsoft SQ1  16GB RAM  256GB SSD  Win 10 Home '
 actualPrice: 1199.0 EUR
 currency: EUR
 price: 1199.0

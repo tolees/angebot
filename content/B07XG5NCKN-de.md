@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Qt1Cu6-JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XG5NCKN-de'
+slug: 'B07XG5NCKN-de POP! Disney: Frozen 2 - Bruni'
 actualPrice: 11.02 EUR
 currency: EUR
 price: 11.02

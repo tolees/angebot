@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61n1-i7D2-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0766CWJPQ-de'
+slug: 'B0766CWJPQ-de Playmobil 9377 - Zoo Spiel'
 actualPrice: 26.85 EUR
 currency: EUR
 price: 26.85

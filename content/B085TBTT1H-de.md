@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eIw8x2nYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085TBTT1H-de'
+slug: 'B085TBTT1H-de WiFi Smart E27 Led Lampe 9W 240v Aogled 60w Halogen Glühbirnen Equivalent Dimmbare RGB WiFi Birne Kompatibel mit Alexa Google Home IFTTT Kein Hub Required 2.4GHz Wi-Fi A19 E27 2700K 6500K'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

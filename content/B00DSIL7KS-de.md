@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ASk6Q3j9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DSIL7KS-de'
+slug: 'B00DSIL7KS-de Mannesmann 232-tlg. Steckschlüsselsatz 1/4" + 1/2"  M98450'
 actualPrice: 95.06 EUR
 currency: EUR
 price: 95.06

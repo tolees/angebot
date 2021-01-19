@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cp2FuB-3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XW6VXL8-de'
+slug: 'B06XW6VXL8-de Rieker 93157 Damen Winterstiefel Winter-Boots Fellboots Fellstiefel gefüttert warm Reißverschluss schwarz 41 EU'
 actualPrice: 54.9 EUR
 currency: EUR
 price: 54.9

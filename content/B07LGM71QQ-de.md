@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514+Hh1xj-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGM71QQ-de'
+slug: 'B07LGM71QQ-de Omron RS7 Intelli IT Handgelenk-Blutdruckmessgerät  mit Positionierungssensor und Bluetooth-Funktion für zu Hause und unterwegs'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

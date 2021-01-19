@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kSdpS1vWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792TCSWS-de'
+slug: 'B0792TCSWS-de Geox Damen D Felicity D Knee High Boot  Black  39 EU'
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

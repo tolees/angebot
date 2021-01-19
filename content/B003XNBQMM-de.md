@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Uozte-52L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003XNBQMM-de'
+slug: 'B003XNBQMM-de SEVERIN KG 2388 Tischgrill  2.200 W  mit Hotzone-Element  schwarz'
 actualPrice: 23.3 EUR
 currency: EUR
 price: 23.3

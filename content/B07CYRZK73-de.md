@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mmwP480tL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CYRZK73-de'
+slug: 'B07CYRZK73-de Calvin Klein Herren Analog Quarz Uhr mit Leder Armband K8Q311C1'
 actualPrice: 129.45 EUR
 currency: EUR
 price: 129.45

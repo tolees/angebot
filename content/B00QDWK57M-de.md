@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51J1o17PbBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QDWK57M-de'
+slug: 'B00QDWK57M-de Ravensburger 16701 Star Wars Universum Puzzle  2000-teilig'
 actualPrice: 17.13 EUR
 currency: EUR
 price: 17.13

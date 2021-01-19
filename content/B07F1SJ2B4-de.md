@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31P96Wkdw9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F1SJ2B4-de'
+slug: 'B07F1SJ2B4-de Levi s Herren Slim Jeans 511 SLIM FIT  Schwarz  Mineral Black 14W Warp Str Cord B Wt 2 3257   31W / 34L'
 actualPrice: 46.39 EUR
 currency: EUR
 price: 46.39

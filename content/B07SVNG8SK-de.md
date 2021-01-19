@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51GN8pHc6ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVNG8SK-de'
+slug: 'B07SVNG8SK-de TRIBE Infinity-Energieriegel aus natürlichen Zutaten zur veganen Ernährung  gluten- und milchfreies Pflanzenprotein  Schoko-Salz-Karamellgeschmack – 50 g  Packung mit 16 Stück '
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

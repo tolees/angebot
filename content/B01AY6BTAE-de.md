@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3179sEEciQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AY6BTAE-de'
+slug: 'B01AY6BTAE-de UGG Female Classic Mini II Classic Boot  Black  4  UK '
 actualPrice: 84.95 EUR
 currency: EUR
 price: 84.95

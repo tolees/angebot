@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AwLOApgGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0775WX8PW-de'
+slug: 'B0775WX8PW-de Yazubi Herren Chino Hose  Modell Dustin  Chinohose by Yzb Jeans  Camel  Otter 181018   W29/L30'
 actualPrice: 27.8 EUR
 currency: EUR
 price: 27.8

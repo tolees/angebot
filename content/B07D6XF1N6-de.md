@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zoayrU2AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D6XF1N6-de'
+slug: 'B07D6XF1N6-de Microsoft Surface Laptop 34 29 cm  13 5 Zoll   Intel Core M3 7Y30   128GB Festplatte  4GB RAM  Intel HD Graphics 615  Win 10 S  Platin Grau'
 actualPrice: 749.0 EUR
 currency: EUR
 price: 749.0

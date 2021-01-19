@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LpJ0rcBWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08252NSMY-de'
+slug: 'B08252NSMY-de zxcvb Armario de vino Boca abajo Titular de copa de vino barra de inicio Titular de copa de vino Titular de cuchara de cocina Titular de copa copa de vino-Láser 10 tazas L45cmW18cm Blanco'
 actualPrice: 39.21 EUR
 currency: EUR
 price: 39.21

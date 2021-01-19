@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Vk0OFmDCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SDLCDKK-de'
+slug: 'B07SDLCDKK-de LIGHTAILING Licht-Set Für  Architecture Freiheitsstatue  Modell - LED Licht-Set Kompatibel Mit Lego 21042 Modell Nicht Enthalten '
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

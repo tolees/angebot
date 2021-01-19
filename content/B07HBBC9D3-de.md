@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xDi8Ps6uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HBBC9D3-de'
+slug: 'B07HBBC9D3-de Funko POP Dragon Ball Z Android 18 V'
 actualPrice: 9.01 EUR
 currency: EUR
 price: 9.01

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UqxI++k9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001UHO61G-de'
+slug: 'B001UHO61G-de Gran Torino'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

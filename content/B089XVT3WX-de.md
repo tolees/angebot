@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vbFu4MKhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089XVT3WX-de'
+slug: 'B089XVT3WX-de Bluetooth-Kopfhörer 5.0  kabellose Touch-Kopfhörer HiFi-Kopfhörer In-Ear-Kopfhörer Rauschunterdrückungskopfhörer  Tragbare Sport-Bluetooth-Funkkopfhörer  Für Apple Android/iPhone/AirPods Pro - Weiß'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

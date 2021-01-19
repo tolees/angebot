@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y6bHUOFyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AY6CZJI-de'
+slug: 'B01AY6CZJI-de UGG Female Classic Mini II Classic Boot  Grey  6  UK '
 actualPrice: 94.84 EUR
 currency: EUR
 price: 94.84

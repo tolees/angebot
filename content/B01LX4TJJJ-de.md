@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513NPDLh5UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LX4TJJJ-de'
+slug: 'B01LX4TJJJ-de Playmobil 9091 - RC-Rock n Roll-Racer'
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OjpvX39GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PK6WLF6-de'
+slug: 'B07PK6WLF6-de HP 250 G7  15 6 Zoll / FHD  Business Laptop  Intel Core i5-8265U  8GB DDR4 RAM  512GB SSD  Intel UHD Grafik 620  Windows 10 Home  Silber'
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

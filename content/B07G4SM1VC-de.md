@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61FeUhgVPfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4SM1VC-de'
+slug: 'B07G4SM1VC-de iNeego Bausteine 1000 Stück Bauklötze Spielzeug Hochbau Ziegel Bunte Spielzeug Spielen Spiel für Kleinkind Jungen Mädchen Unisex Kühle Lernspielzeug Kompatibel mit den Meisten Großen Markenblöcken'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

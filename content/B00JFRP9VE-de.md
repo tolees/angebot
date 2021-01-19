@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZlnRdtYDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JFRP9VE-de'
+slug: 'B00JFRP9VE-de Living Nostalgia Utensilienhalter  Metall  Blau'
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

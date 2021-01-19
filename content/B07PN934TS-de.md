@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Rss5NfOGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PN934TS-de'
+slug: 'B07PN934TS-de LATITOP Luftentfeuchter mit 500ml Wassertank kompakter und tragbarer Mini Bautrockner gegen Feuchtigkeit in der Küche  im Schlafzimmer  Wohnwagen  Büro und Garage  150 Quadratfuß '
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

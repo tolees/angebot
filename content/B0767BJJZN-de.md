@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51hJBkLK9GL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0767BJJZN-de'
+slug: 'B0767BJJZN-de Playmobil 9358 - Pirat mit Schatzkiste Spiel'
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

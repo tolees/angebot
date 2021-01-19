@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/312qTh5hKvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G26PDJQ-de'
+slug: 'B07G26PDJQ-de Fitbit Unisex-Adult Charge 3 Der Innovative Gesundheits-und Fitness-Tracker  Schwarz/Aluminium-Graphitgrau Advanced Health & Fitness  Einheitsgröße'
 actualPrice: 99 EUR
 currency: EUR
 price: 99

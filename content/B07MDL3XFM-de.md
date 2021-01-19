@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+HshpfEKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDL3XFM-de'
+slug: 'B07MDL3XFM-de Seagate Backup Plus Portable  tragbare externe Festplatte  5 TB  2.5 Zoll  USB 3.0  PC & Mac  schwarz  ModelNr.: STHP5000400'
 actualPrice: 113.95 EUR
 currency: EUR
 price: 113.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SRQ8v2DmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000EGSGOW-de'
+slug: 'B000EGSGOW-de VARTA Longlife Power Batterie 4 5 V Block Alkaline Batterien 3LR12 - 1er Pack'
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

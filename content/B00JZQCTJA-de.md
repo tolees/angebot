@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31K1hrqkeOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JZQCTJA-de'
+slug: 'B00JZQCTJA-de Schiesser Damen Midi  2er Pack  Slip  Weiß  Weiss 100   40  Herstellergröße: 040 '
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kx1RT-XiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01I53WXQ2-de'
+slug: 'B01I53WXQ2-de WMF Intension Topfset 5-teilig  Cromargan Edelstahl poliert  Töpfe mit Glasdeckel  Induktionstöpfe  Topf Induktion  unbeschichtet'
 actualPrice: 129.95 EUR
 currency: EUR
 price: 129.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ScPEP5mrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XFCXBZT-de'
+slug: 'B07XFCXBZT-de LG K50s Smartphone  16 49 cm  6 49 Zoll  IPS LC-Display  32 GB interner Speicher  3 GB RAM  MIL-STD-810G  Android 9.0  Aurora Black'
 actualPrice: 165.72 EUR
 currency: EUR
 price: 165.72

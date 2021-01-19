@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nzEOjAMbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TPLSWXS-de'
+slug: 'B07TPLSWXS-de Koogeek Smart & Bluetooth Elektronische Handgelenk Blutdruck Digital Heart Beat & Pulse Gesundheit LCD Bildschirm Monitor mit Sprachansagen  Grau '
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

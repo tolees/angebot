@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ivFwzQyUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GJG8XPM-de'
+slug: 'B07GJG8XPM-de Acer TravelMate X3410  TMX3410-MG-50LB  35 6 cm  14 Zoll Full-HD IPS matt  Office Laptop  Intel Core i5-8250U  8 GB RAM  512 GB SSD  NVIDIA GeForce MX130  Win 10 Home  schwarz'
 actualPrice: 356 EUR
 currency: EUR
 price: 356

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Z-4Dl4dwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TF8CRX2-de'
+slug: 'B07TF8CRX2-de Hasbro Monopoly E7572100 Monopoly Spiel: L.O.L. Surprise Brettspiel für Kinder ab 8 Jahren'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413N81x2zsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071XW4C5Q-de'
+slug: 'B071XW4C5Q-de Withings Body+ - WLAN-Körperwaage für Körperzusammensetzung  Schwarz'
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

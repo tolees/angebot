@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+8iVgJFrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N2NMT8G-de'
+slug: 'B07N2NMT8G-de BRIKSMAX Led Beleuchtungsset für The Big Bang Theory  Kompatibel Mit Lego 21302 Bausteinen Modell - Ohne Lego Set'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IbP0oEddL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004BEMD5Q-de'
+slug: 'B004BEMD5Q-de KabelDirekt - 4K HDMI Kabel - 2m - kompatibel mit  HDMI 2.0a/b 2.0  1.4a  4K Ultra HD  3D  Full HD  1080p  HDR  ARC  Highspeed mit Ethernet  PS4  Xbox  HDTV  - TOP Series'
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

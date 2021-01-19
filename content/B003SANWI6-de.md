@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l2+NA2yaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003SANWI6-de'
+slug: 'B003SANWI6-de Western Digital WD1003FBYX RE4 1TB interne Festplatte  8 9 cm  3 5 Zoll   7200rpm  SATA 3Gb/s  64MB Cache '
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

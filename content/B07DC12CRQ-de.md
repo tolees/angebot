@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oDCcqnm3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC12CRQ-de'
+slug: 'B07DC12CRQ-de Puma Damen Sneakers Sneaker Puma Vikky Stacked L  Weiß  Puma White   40 EU'
 actualPrice: 40.55 EUR
 currency: EUR
 price: 40.55

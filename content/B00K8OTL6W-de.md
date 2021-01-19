@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Cvzz6pVKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K8OTL6W-de'
+slug: 'B00K8OTL6W-de camel active Herren 488845/9939 Jeans  Dark Blue Used  W35/ L30  Herstellergröße: 35/30 '
 actualPrice: 37.95 EUR
 currency: EUR
 price: 37.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41h9OPzjmfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF9TKTJ-de'
+slug: 'B07KF9TKTJ-de MSI GF75 8RC-005DE Thin  43 9 cm/17 3 Zoll/100% sRGB  Gaming-Laptop  Intel Core i7-8750H  8GB RAM  256 GB PCIe SSD  Nvidia GeForce GTX 1050 4GB  Windows 10 Home  Schwarz/Grau'
 actualPrice: 475.0 EUR
 currency: EUR
 price: 475.0

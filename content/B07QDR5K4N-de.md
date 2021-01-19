@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EKM5aFrIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QDR5K4N-de'
+slug: 'B07QDR5K4N-de Marc O Polo Damen 71143  Steppmantel mit Daunen-Federn-Füllung  klassisch moderner Wintermantel aus wasserabweisendem Material  kurzer Daunenmantel mit Abnehmbarer Kapuze'
 actualPrice: 139.95 EUR
 currency: EUR
 price: 139.95

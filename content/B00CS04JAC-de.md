@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51O8ja6u46L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CS04JAC-de'
+slug: 'B00CS04JAC-de Trefl 31131 - Rahmen-Puzzle  Mickey Mouse  Auf dem Land  15 Teile'
 actualPrice: 3.32 EUR
 currency: EUR
 price: 3.32

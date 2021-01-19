@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q9vCcs4nL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WTKKD6-de'
+slug: 'B078WTKKD6-de Sony SRS-XB41 kabelloser Bluetooth Lautsprecher  tragbar  mehrfarbige Lichtleiste  Lautsprecherbeleuchtung  Stroboskoplicht  NFC  kompatibel mit Party Chain  schwarz'
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

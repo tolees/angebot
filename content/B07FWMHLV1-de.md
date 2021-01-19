@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KYRFSkbFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FWMHLV1-de'
+slug: 'B07FWMHLV1-de Mattel GDP85 - Disney Pixar Toy Story 4 Buzz Lightyear Wurfscheiben Blaster mit 5 Projektilscheiben  Rollenspiel Spielzeug ab 4 Jahre'
 actualPrice: 24.39 EUR
 currency: EUR
 price: 24.39

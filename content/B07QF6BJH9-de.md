@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51y32yNlZvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QF6BJH9-de'
+slug: 'B07QF6BJH9-de Autowerkstatt Simulator [Playstation 4]'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

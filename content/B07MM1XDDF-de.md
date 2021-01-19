@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MxqIA7edL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MM1XDDF-de'
+slug: 'B07MM1XDDF-de Lenovo IdeaPad 330s Laptop 35 56 cm  14 0 Zoll HD TN matt  Slim Notebook  Intel Core i3-8130U  8 GB RAM  256 GB SSD  Intel UHD Grafik 620  Windows 10 Home  silber'
 actualPrice: 412.84 EUR
 currency: EUR
 price: 412.84

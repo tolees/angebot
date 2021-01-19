@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51j5q1eNZfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B17G9BU-de'
+slug: 'B00B17G9BU-de The Impossible'
 actualPrice: 2.54 EUR
 currency: EUR
 price: 2.54

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B8LH9vc5L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B018SVQXU8-de'
+slug: 'B018SVQXU8-de LG Electronics OM4560 High Power Hifianlage Schwarz'
 actualPrice: 110.06 EUR
 currency: EUR
 price: 110.06

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hA5VERJGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082XT1DBX-de'
+slug: 'B082XT1DBX-de NHUAIYINSHUGUOGUANGGAOJINGY Displayport zum HDMI-Adapterkabel Mini-Dp zum HDMI-Kabel Mini-Displayport zum HDMI-Computer  der an den Fernseher angeschlossen ist - Weiß'
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uTTK1rfML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074VFLXLP-de'
+slug: 'B074VFLXLP-de Schleich 42415 Horse Club Wohnwagen für geheime Club-Treffen Bunt 39 x 16 5 x 23 cm'
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

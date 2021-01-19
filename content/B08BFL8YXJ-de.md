@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-8F9MLkmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BFL8YXJ-de'
+slug: 'B08BFL8YXJ-de Ynigimy Bluetooth Kopfhörer In Ear  Kabellose Kopfhörer mit intensivem Bass TWS Bluetooth 5.0 Headset True Wireless Earbuds mit Mikrofon und Tragbare Ladehülle'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

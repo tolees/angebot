@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318M3fiRhbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KBWBI6M-de'
+slug: 'B00KBWBI6M-de Oral-B PRO 3000 CrossAction'
 actualPrice: 61.9 EUR
 currency: EUR
 price: 61.9

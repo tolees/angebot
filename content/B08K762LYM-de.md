@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hc1xp2iaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08K762LYM-de'
+slug: 'B08K762LYM-de Aigital WLAN Repeater WLAN Verstärker Wireless Range Extender  300 Mbit/s WiFi Signal Verstaerker mit WPS Taste und Zwei Ethernet LAN Ports  2.4 GHz Kompatibel zu gängigen WLAN Geräten'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

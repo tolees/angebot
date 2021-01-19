@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/310HC%2BE2tJL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLGXHW4-de'
+slug: 'B07DLGXHW4-de Sonos Beam Smart Soundbar  schwarz - Kompakte TV Soundbar für Fernsehen & Musikstreaming mit WLAN  Alexa Sprachsteuerung  Google Assistant & HDMI ARC - AirPlay kompatibler Musik- & TV Lautsprecher'
 actualPrice: 350 EUR
 currency: EUR
 price: 350

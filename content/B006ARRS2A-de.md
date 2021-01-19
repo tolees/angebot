@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+cMvhVGwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006ARRS2A-de'
+slug: 'B006ARRS2A-de WOLF-Garten - Sport- und Spiel-Rasen LG 500; 3825040'
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

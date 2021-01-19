@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MgsssjP2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JM52FHX-de'
+slug: 'B07JM52FHX-de Playmobil 70138 Country Mobiles Hühnerhaus  bunt'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

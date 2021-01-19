@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DuAFAp+HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003NTK2X0-de'
+slug: 'B003NTK2X0-de EuroTrail Grillabdeckung für 3-flamm-Grill'
 actualPrice: 15.52 EUR
 currency: EUR
 price: 15.52

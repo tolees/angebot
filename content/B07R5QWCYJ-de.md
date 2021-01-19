@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61MP-ifedrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R5QWCYJ-de'
+slug: 'B07R5QWCYJ-de Simple Minds - Street Fighting Years  Super Deluxe '
 actualPrice: 30.45 EUR
 currency: EUR
 price: 30.45

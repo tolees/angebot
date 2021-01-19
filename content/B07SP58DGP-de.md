@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3145RUQV1OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SP58DGP-de'
+slug: 'B07SP58DGP-de Netgear GC108P Gigabit 8 Port Ethernet LAN Switch  8x PoE+ 64 W  Insight Managed Smart Cloud Switch  FlexPoE Power  inkl. 1 Jahreslizenz -Insight Premium '
 actualPrice: 124.68 EUR
 currency: EUR
 price: 124.68

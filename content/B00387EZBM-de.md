@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313gQ9kWqyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00387EZBM-de'
+slug: 'B00387EZBM-de Bosch BBZ154HF HEPA Filter'
 actualPrice: 4.87 EUR
 currency: EUR
 price: 4.87

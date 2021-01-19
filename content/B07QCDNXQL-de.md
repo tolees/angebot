@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GoD+BuC6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QCDNXQL-de'
+slug: 'B07QCDNXQL-de Fossil Watch FTW6031'
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

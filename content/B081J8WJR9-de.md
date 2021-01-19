@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iVlV1vjPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081J8WJR9-de'
+slug: 'B081J8WJR9-de McFarlane Toys Cyberpunk 2077 Action Figure Johnny 18 cm Figuren'
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

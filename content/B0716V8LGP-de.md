@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-TqL0WE6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0716V8LGP-de'
+slug: 'B0716V8LGP-de Timezone Damen Jeans Slim Enya Jogg  Grau  Steel Grey Wash 9198   W29/L32'
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hR-Lug4aL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00720YVXI-de'
+slug: 'B00720YVXI-de Playtastic Autorennbahn: Portable Rennbahn im Koffer - Komplett-Set mit 2 Autos  Autorennbahn im Koffer '
 actualPrice: 46.95 EUR
 currency: EUR
 price: 46.95

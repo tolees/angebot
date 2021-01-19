@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HsnsUmtGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKBMBB7-de'
+slug: 'B07HKBMBB7-de Alex Perry Muttertagsgeschenk ohrringe silber Swarovski Kristall geschenke für frauen schmuck damen frauen geschenk für mama oma partner lustige personalisierte geschenke jahrestag Antibakterielle'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

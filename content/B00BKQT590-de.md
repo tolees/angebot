@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xj4YyAYqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BKQT590-de'
+slug: 'B00BKQT590-de Daniel Wellington Damen Analog Japanese Quartz Uhr mit Natoband Armband DW00100030'
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

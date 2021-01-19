@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5168ngg1VIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q6HNSWP-de'
+slug: 'B07Q6HNSWP-de Monsieur Claude 2 [Blu-ray]'
 actualPrice: 6.97 EUR
 currency: EUR
 price: 6.97

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/516f4VuVKFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BPF7KO2-de'
+slug: 'B01BPF7KO2-de Playmobil 6880 - Sternchenbahn mit Schienenkreis'
 actualPrice: 25 EUR
 currency: EUR
 price: 25

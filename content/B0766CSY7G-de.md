@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61mtrpKARXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0766CSY7G-de'
+slug: 'B0766CSY7G-de PLAYMOBIL Family Fun 9422 Swimmingpool mit Pump-Dusche  Ab 4 Jahren'
 actualPrice: 22.31 EUR
 currency: EUR
 price: 22.31

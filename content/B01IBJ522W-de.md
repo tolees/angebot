@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415wvYcmrKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IBJ522W-de'
+slug: 'B01IBJ522W-de Regal Raumteiler Raumtrenner Standregal | Weiß Dekor | 9 Fächer | B/H/L: 112x112x38 cm'
 actualPrice: 76.9 EUR
 currency: EUR
 price: 76.9

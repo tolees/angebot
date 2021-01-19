@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NC8NyEcFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L48JXFR-de'
+slug: 'B07L48JXFR-de Funko Fortnite Pop! Vinyl Figur 459 Raven aus Kunststoff   Geschenkbox.'
 actualPrice: 11.15 EUR
 currency: EUR
 price: 11.15

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vHOg-KVEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017KE8OG0-de'
+slug: 'B017KE8OG0-de Seagate Expansion Portable  tragbare externe Festplatte  4 TB  2.5 Zoll  USB 3.0  PC  Xbox  PS4  ModelNr.: STEA4000400  2019 Edition'
 actualPrice: 93.5 EUR
 currency: EUR
 price: 93.5

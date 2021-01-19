@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31yRUTuUucL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DQ1MKTF-de'
+slug: 'B07DQ1MKTF-de LG SPK8 Rücklautsprecher Set 2.0  140W für SK10Y und SK9Y  Schwarz'
 actualPrice: 125.92 EUR
 currency: EUR
 price: 125.92

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31whMn8w8XL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYU91WD-de'
+slug: 'B01MYU91WD-de Puma Basket Heart Patent Wn s  Damen Sneakers  Weiß  Puma White-Puma White   36 EU'
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

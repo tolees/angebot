@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318LYiGaD5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6WLL5L-de'
+slug: 'B01N6WLL5L-de Neff NTK1320N Kochfeld  Elektro/Einbau  / 2 Heizelemente / 30.6 cm/Schwertknebel'
 actualPrice: 323.0 EUR
 currency: EUR
 price: 323.0

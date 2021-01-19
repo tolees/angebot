@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rTmAWqLqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XYZB4VQ-de'
+slug: 'B06XYZB4VQ-de Audio-Technica ATH-DSR9BT Wireless Over-Ear Kopfhörer mit Pure Digital Drive™'
 actualPrice: 329.99 EUR
 currency: EUR
 price: 329.99

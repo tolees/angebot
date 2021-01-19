@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dNO9DCA5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IYJADIS-de'
+slug: 'B00IYJADIS-de Odlo Herren Mütze Polyknit  Black  One size  776350'
 actualPrice: 14.91 EUR
 currency: EUR
 price: 14.91

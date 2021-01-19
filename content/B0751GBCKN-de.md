@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415TrfRIZbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0751GBCKN-de'
+slug: 'B0751GBCKN-de Garmin vívoactive 3 GPS-Fitness-Smartwatch - vorinstallierte Sport-Apps  kontaktloses Bezahlen mit Garmin Pay  Schwarz-Silber'
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

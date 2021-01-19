@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JMcWXwuIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D4QFYM0-de'
+slug: 'B01D4QFYM0-de Revell Modellbausatz Star Wars Rebel U-Wing Fighter im Maßstab 1:100  Level 1  originalgetreue Nachbildung mit vielen Details  Build & Play mit Light&Sound  zum Bauen & Spielen  06755'
 actualPrice: 11.08 EUR
 currency: EUR
 price: 11.08

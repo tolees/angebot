@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SvlstaQ1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GV3MSUA-de'
+slug: 'B00GV3MSUA-de CMP Damen Zipp Off Hose  Antracite  40'
 actualPrice: 36.66 EUR
 currency: EUR
 price: 36.66

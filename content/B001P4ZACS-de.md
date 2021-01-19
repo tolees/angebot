@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Dcuwo2DoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001P4ZACS-de'
+slug: 'B001P4ZACS-de Haba 4655 - Meine ersten Spiele Erster Obstgarten  unterhaltsames Brettspiel rund um Farben und Formen ab 2 Jahren  Holzspielzeug und Lernspiel  der Spieleklassiker für kleine Kinder'
 actualPrice: 18.29 EUR
 currency: EUR
 price: 18.29

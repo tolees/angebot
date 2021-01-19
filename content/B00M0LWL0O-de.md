@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aRqwqmxxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M0LWL0O-de'
+slug: 'B00M0LWL0O-de Big Spielwarenfabrik 57072 Bausteine  Multicolour'
 actualPrice: 5.77 EUR
 currency: EUR
 price: 5.77

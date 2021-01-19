@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PAgjiofoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J2BL01K-de'
+slug: 'B01J2BL01K-de Amazon Echo Spot  Smarter Wecker mit Alexa - Schwarz'
 actualPrice: 87.72 EUR
 currency: EUR
 price: 87.72

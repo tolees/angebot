@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sQt99qd-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0038ANS8U-de'
+slug: 'B0038ANS8U-de KidKraft 53179 - Rosa Retroküche'
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

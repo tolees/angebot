@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41N+41vKszL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LPENFJ8-de'
+slug: 'B00LPENFJ8-de Guardians Of the Galaxy Legends Iron Man Figure Standard'
 actualPrice: 18.3 EUR
 currency: EUR
 price: 18.3

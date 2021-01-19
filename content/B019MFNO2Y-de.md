@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MGQoza+NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019MFNO2Y-de'
+slug: 'B019MFNO2Y-de Rollei Actioncam Zubehör Set Outdoor I 23-teiliges Set I Ideal zum Klettern  Wandern und andere Outdoor-Aktivitäten I Für Rollei Actioncams und GoPro'
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

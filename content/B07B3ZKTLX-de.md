@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61kKZwbzDVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B3ZKTLX-de'
+slug: 'B07B3ZKTLX-de PLAYMOBIL Christmas 9493 Weihnachtsbäckerei mit Plätzchenformen  Ab 4 Jahren'
 actualPrice: 18.7 EUR
 currency: EUR
 price: 18.7

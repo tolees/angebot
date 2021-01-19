@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bhPAgENVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRVX6RM-de'
+slug: 'B07ZRVX6RM-de Anker Soundcore Flare 2 Bluetooth Lautsprecher  mit IPX7 Wasserschutz  360° Rundum-Sound  für Draußen  Garten  Strand  Urlaub  mit PartyCast  EQ Regulierung und 12 Stunden Akkulaufzeit'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

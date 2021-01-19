@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gkQxVujGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PV4PYR4-de'
+slug: 'B07PV4PYR4-de PLAYMOBIL 70046 - FC Bayern München Fußballarena zum Mitnehmen'
 actualPrice: 37.97 EUR
 currency: EUR
 price: 37.97

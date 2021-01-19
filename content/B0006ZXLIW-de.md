@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jaHJ8KmOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0006ZXLIW-de'
+slug: 'B0006ZXLIW-de Philips LFH0720 Analoges Schreibtisch-Wiedergabesystem  Mini-Kassette  incl. Fußschalter  Unterkinn-Kopfhörer Netzteil  30 Min. Mini-Kassette   Anthrazit'
 actualPrice: 410.0 EUR
 currency: EUR
 price: 410.0

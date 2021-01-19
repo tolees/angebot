@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hsAoqWJ9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNVYDQS-de'
+slug: 'B07DNVYDQS-de Samsung MG23 K3 515aw / EG Mikrowelle / 48 9 cm / Schnellabtauung / 27 automatische Programme  Deutsches Handbuch '
 actualPrice: 104.48 EUR
 currency: EUR
 price: 104.48

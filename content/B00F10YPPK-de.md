@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l4evSO5vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F10YPPK-de'
+slug: 'B00F10YPPK-de Nerf Super Soaker A5832EU4- Scatter Blast  Wasserpistole'
 actualPrice: 11.86 EUR
 currency: EUR
 price: 11.86

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CM2XWYkZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SBHYJF3-de'
+slug: 'B07SBHYJF3-de HTC Desire 19+ Smartphone  15 8 cm  6 22 Zoll  IPS Display  Triple Hauptkamera  64 GB Speicher und 4 GB RAM  Dual-SIM  Android 9.0  Starry Blue'
 actualPrice: 157.55 EUR
 currency: EUR
 price: 157.55

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51E5yBiMm3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLFKJSP-de'
+slug: 'B07JLFKJSP-de PLAYMOBIL DreamWorks Spirit 70118 Pferdestall mit Lucky  Pru & Abigail  Ab 4 Jahren'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

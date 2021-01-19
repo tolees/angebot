@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nyLcn4nAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YPY8C7C-de'
+slug: 'B07YPY8C7C-de JVC HA-A10T-BU Truly Wireless In-Ear Bluetooth Kopfhörer mit Memory Foam Ohrstücken  Farbe Charcoal-Black  Wasserfest IPX5  4 + 10 Std. Akkulaufzeit '
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

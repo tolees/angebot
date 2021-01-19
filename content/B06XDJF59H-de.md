@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516s2HsjSVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDJF59H-de'
+slug: 'B06XDJF59H-de Bang & Olufsen Beoplay A1 Bluetooth-Lautsprecher  wetterfest  sandstone'
 actualPrice: 146.7 EUR
 currency: EUR
 price: 146.7

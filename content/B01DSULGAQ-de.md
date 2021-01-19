@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FWX8+qb3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DSULGAQ-de'
+slug: 'B01DSULGAQ-de VAUDE Men s Escape Light Jacke  Blau  Blau  Eclipse    Large  Herstellergröße: 52 '
 actualPrice: 73.44 EUR
 currency: EUR
 price: 73.44

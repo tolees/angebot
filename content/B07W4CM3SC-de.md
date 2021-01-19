@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uM9WnlmjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4CM3SC-de'
+slug: 'B07W4CM3SC-de Bose Portable Home Speaker – mit integrierter Alexa-Sprachsteuerung  in Silber'
 actualPrice: 265.0 EUR
 currency: EUR
 price: 265.0

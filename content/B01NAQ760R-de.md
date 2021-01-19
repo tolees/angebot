@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ec2b2LLlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAQ760R-de'
+slug: 'B01NAQ760R-de G-STAR RAW Herren Rovulc Denim Low Sneakers  Schwarz  Black 990   42 EU'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

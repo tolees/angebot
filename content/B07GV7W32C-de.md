@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Xp5it2fmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GV7W32C-de'
+slug: 'B07GV7W32C-de ELEGOO Roboter Penguin Bot Zweibeiniger Roboter Baukasten Kompatibel mit Arduino IDE  Mint Spielzeug mit Tutorial für Hobbybastler  STEM Toys für Kinder und Erwachsene V2.0 Weiß '
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

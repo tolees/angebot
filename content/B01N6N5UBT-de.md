@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41j9qU8-ZLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6N5UBT-de'
+slug: 'B01N6N5UBT-de VIA FORTIS Resistance Bands für Fitness & Krafttraining/Klimmzugband und Klimmzughilfe mit Tasche und Übungsanleitung/Fitnessband Widerstandsband/Fitnessbänder Widerstandsbänder'
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

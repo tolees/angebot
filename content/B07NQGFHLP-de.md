@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41t4qcQQvsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQGFHLP-de'
+slug: 'B07NQGFHLP-de Joy For All  Zeitlose  innovative Haustier-Begleiter  Tuxedo-Katze  lebensecht realistisch  Orange'
 actualPrice: 111.11 EUR
 currency: EUR
 price: 111.11

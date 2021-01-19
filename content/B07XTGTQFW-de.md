@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tzn18eerL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XTGTQFW-de'
+slug: 'B07XTGTQFW-de CSL - USB Bluetooth Adapter V4.0 - A2DP - Windows 10 kompatibel - Weiß'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

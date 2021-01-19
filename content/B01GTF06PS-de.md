@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mXxHxJfaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GTF06PS-de'
+slug: 'B01GTF06PS-de Rightwell Lupenbrille mit Licht Hände Frei Kopfband Lupen mit 2 LED Lichts für Hobby Denest Elektriker Juweliere Nähen Handwerk und ältere Menschen-5 Wechselobjektive  1.0X bis 3.5X '
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

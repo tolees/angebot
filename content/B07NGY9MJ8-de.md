@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312BGisjdNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGY9MJ8-de'
+slug: 'B07NGY9MJ8-de Microsoft Surface Headphones'
 actualPrice: 145.25 EUR
 currency: EUR
 price: 145.25

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AJ9d8SebL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRMHZL8-de'
+slug: 'B07HRMHZL8-de Ultimate Ears BOOM 3 Bluetooth Lautsprecher  wasserdichter 360°-Sound  inklusive Power up Ladestation  blaue Lagune'
 actualPrice: 88.99 EUR
 currency: EUR
 price: 88.99

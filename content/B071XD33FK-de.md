@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rOuFsTEXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071XD33FK-de'
+slug: 'B071XD33FK-de Funko 22613 Actionfigur Games: Horizon Zero Dawn: Watcher  Multi'
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

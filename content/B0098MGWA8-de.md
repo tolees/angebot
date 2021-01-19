@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bWApCimEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0098MGWA8-de'
+slug: 'B0098MGWA8-de Netatmo Smarte Wetterstation - WLAN  Funk  Innen- und Außensensor  Wettervorhersage  Amazon Alexa & Apple HomeKit  Hygrometer  Luftqualität  NWS01-EC'
 actualPrice: 143.13 EUR
 currency: EUR
 price: 143.13

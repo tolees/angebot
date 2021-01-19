@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xWRIRtvXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017SQZQ34-de'
+slug: 'B017SQZQ34-de Salomon Damen Trail Running Schuhe  SPEEDCROSS 4 W  Farbe: schwarz  black/black/black metallic  Größe: EU 38 2/3'
 actualPrice: 74.49 EUR
 currency: EUR
 price: 74.49

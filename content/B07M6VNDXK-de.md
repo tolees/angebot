@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ljk5512qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M6VNDXK-de'
+slug: 'B07M6VNDXK-de YI Überwachungskamera Home IP Kamera 3 1080P Full HD mit Künstlicher Intelligenz Haustier Monitor  Nachtsicht Bewegungsmelder  Personenerkennung  Audio-Analyse  App für Smartphone/PC'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

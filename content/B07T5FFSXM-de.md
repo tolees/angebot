@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51U6oa9QRcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T5FFSXM-de'
+slug: 'B07T5FFSXM-de JUMANJI: Das Videospiel - [Nintendo Switch]'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

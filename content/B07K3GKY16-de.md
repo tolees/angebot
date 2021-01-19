@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R8RqxRl4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K3GKY16-de'
+slug: 'B07K3GKY16-de SteelSeries Apex M750 Mechanische Gaming-Tastatur  RGB-Beleuchtung pro Taste  6 Makro-Tasten  Deutsches QWERTZ-Layout '
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414erAyu6DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A5SW50Y-de'
+slug: 'B01A5SW50Y-de Master & Dynamic MH40 Leica-Ausgabe: ein erstklassiger  kabelgebundener  ohrumschließender Kopfhörer aus Leder und Aluminium  der einen preisgekrönten Klang erzeugt'
 actualPrice: 199.17 EUR
 currency: EUR
 price: 199.17

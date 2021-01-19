@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31pHOKwcFbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CR67YVX-de'
+slug: 'B07CR67YVX-de Lee Herren Daren Button Fly Jeans  Blau  Light Daze Zx   36W / 32L'
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

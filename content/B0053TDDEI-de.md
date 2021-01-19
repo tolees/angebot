@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rWJ3+MALL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0053TDDEI-de'
+slug: 'B0053TDDEI-de Rotho Paso Mülleimer 40l mit Pedal und Deckel  Kunststoff  PP  BPA-frei  silber metallic  40l  35 3 x 29 5 x 67 6 cm '
 actualPrice: 34.25 EUR
 currency: EUR
 price: 34.25

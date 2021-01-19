@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51g1EO0BKLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797ZLBY7-de'
+slug: 'B0797ZLBY7-de Sylvanian Families - 6003 - Seidenkatze: Lulu Seidenthal'
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31o8J5XejSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B67ZK2P-de'
+slug: 'B07B67ZK2P-de JACK & JONES Herren Jjeholmen Sweat Zip Hood Noos Sweatjacke  Schwarz  Black Fit:reg Fit   M'
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

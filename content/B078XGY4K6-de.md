@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DNK7HWywL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078XGY4K6-de'
+slug: 'B078XGY4K6-de Christa Ludwig-Complete Recitals'
 actualPrice: 14.21 EUR
 currency: EUR
 price: 14.21

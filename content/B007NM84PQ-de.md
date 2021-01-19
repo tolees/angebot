@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e-Pi5MWsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007NM84PQ-de'
+slug: 'B007NM84PQ-de Fossil Damen Analog Quarz Uhr mit Edelstahl Armband ES3020'
 actualPrice: 90.08 EUR
 currency: EUR
 price: 90.08

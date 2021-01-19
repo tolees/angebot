@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31D02OmSamL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0104LSLIM-de'
+slug: 'B0104LSLIM-de Brennenstuhl Tower Power Tischsteckdosenleiste  3-fach  versenkbare Steckdosenleiste  2m Kabel  komplett in Tischplatte versenkbar  alu / schwarz'
 actualPrice: 17.41 EUR
 currency: EUR
 price: 17.41

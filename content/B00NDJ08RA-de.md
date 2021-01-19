@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/415EAq2JspL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NDJ08RA-de'
+slug: 'B00NDJ08RA-de Tieflochmarker Pica Dry Trockenmarker 2 8mm Graphit 2er Pack'
 actualPrice: 20.42 EUR
 currency: EUR
 price: 20.42

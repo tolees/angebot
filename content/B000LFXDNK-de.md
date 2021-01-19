@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LHMWOvxBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000LFXDNK-de'
+slug: 'B000LFXDNK-de Silverline 598492 Gummihammer  schwarz 907 g'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

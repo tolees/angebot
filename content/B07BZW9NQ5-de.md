@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JmOfB47hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZW9NQ5-de'
+slug: 'B07BZW9NQ5-de Hasbro Gaming E2420100 - Schnapp n Happen Familienspiel'
 actualPrice: 11.45 EUR
 currency: EUR
 price: 11.45

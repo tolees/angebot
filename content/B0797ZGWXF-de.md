@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61Pf4qM-YhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0797ZGWXF-de'
+slug: 'B0797ZGWXF-de Sylvanian Families 6013 Town Series 6013-Fashion Kleiderständer Set  bunt'
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

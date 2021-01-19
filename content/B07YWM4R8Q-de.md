@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517TFfE6MoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YWM4R8Q-de'
+slug: 'B07YWM4R8Q-de Zwini Laptop Kühlpads 12-17 Zoll Laptop Kühler r Cooling Pad Notebook Cooler Ständer Kühlpad Kühlmatte Mit 2 USB-Ports  5 Lüfter mit LEDs'
 actualPrice: 18.07 EUR
 currency: EUR
 price: 18.07

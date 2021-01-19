@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/412FDRNkquL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PZQQMHK-de'
+slug: 'B07PZQQMHK-de GUND 6053047 - Interaktiver Flappy der Elefant  mit deutscher Sprache  ca. 30 cm'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

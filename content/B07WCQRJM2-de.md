@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31s8aUIgftL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WCQRJM2-de'
+slug: 'B07WCQRJM2-de HyperX Fury HX432C16FB3A/16 Arbeitsspeicher DIMM DDR4 16GB 3200MHz CL16 RGB'
 actualPrice: 64.9 EUR
 currency: EUR
 price: 64.9

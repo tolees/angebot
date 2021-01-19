@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41U6Mv0CzkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMNH3DM-de'
+slug: 'B07MMNH3DM-de Tokyo Laundry Tybalt Canvas Rucksack Gr. Einheitsgröße  Hellgrau  Light Grey Marl '
 actualPrice: 15.28 EUR
 currency: EUR
 price: 15.28

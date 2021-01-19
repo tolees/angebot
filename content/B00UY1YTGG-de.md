@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311yq6P5tfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UY1YTGG-de'
+slug: 'B00UY1YTGG-de PopSockets - Ausziehbarer  Nicht Austauschbarer  Sockel und Griff für Smartphone und Tablet - Black'
 actualPrice: 5.81 EUR
 currency: EUR
 price: 5.81

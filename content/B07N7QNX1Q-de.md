@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uK+w3gK8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N7QNX1Q-de'
+slug: 'B07N7QNX1Q-de Domestos Power 5 WC-Stein für ein sauberes WC Ocean mit Anti-Kalk-Schutz 9er Pack   9 x 55 g '
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

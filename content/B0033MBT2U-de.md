@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eEJ2J7b0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0033MBT2U-de'
+slug: 'B0033MBT2U-de Ravensburger tiptoi Der interaktive Globus Spiel  ab 7 Jahren  Wissen und Spiele rund um die Welt'
 actualPrice: 40.34 EUR
 currency: EUR
 price: 40.34

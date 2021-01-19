@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417zBtt9OAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0041WGQOM-de'
+slug: 'B0041WGQOM-de Lena 65823 Magnet Holzkiste  mit 37 magnetischen Holzbuchstaben in verschließbarer Kiste  Magnetbuchstaben Set für Kinder ab 3 Jahre  ABC Alphabet Buchstaben aus Holz  Mehrfarbig'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

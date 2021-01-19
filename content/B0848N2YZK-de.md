@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410tGozir0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0848N2YZK-de'
+slug: 'B0848N2YZK-de Tommy Hilfiger Sportuhr 1791720'
 actualPrice: 142.65 EUR
 currency: EUR
 price: 142.65

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31d3In9YpJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R8WBH9R-de'
+slug: 'B07R8WBH9R-de YLCJ Nordic ball moderno araña con cáñamo cuerda araña techo de ratán creativo bola dormitorio restaurante sala de estar decorada tienda araña araña granero villa garaje'
 actualPrice: 53.0 EUR
 currency: EUR
 price: 53.0

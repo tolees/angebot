@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XaqId9J8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJY8LW5-de'
+slug: 'B07RJY8LW5-de WLAN Adapter WiFi Stick 600Mbps Mini Dual Band 2.4GHz / 5GHz Wireless USB Adapter Empfänger 802.11ac/n/g/b Netzwerk Dongles für PC für Windows XP/7/8/10/Vista TV Box Keine CD benötigt Plug & Play'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

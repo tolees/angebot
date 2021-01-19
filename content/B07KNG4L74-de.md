@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kzcBsskUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KNG4L74-de'
+slug: 'B07KNG4L74-de Razer Blackwidow Elite Mechanische Full-Size-Gaming-Tastatur mit Mediensteuerung und Handballenauflage  Yellow Switches  QWERTZ Layout '
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

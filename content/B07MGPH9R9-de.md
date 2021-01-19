@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wuCvOGR0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGPH9R9-de'
+slug: 'B07MGPH9R9-de Crucial Ballistix Sport LT BLS2K8G4D30AESBK 3000 MHz  DDR4  DRAM  Desktop Gaming Speicher Kit  16GB  8GB x2   CL15  Grau '
 actualPrice: 57.59 EUR
 currency: EUR
 price: 57.59

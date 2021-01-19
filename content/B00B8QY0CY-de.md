@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BzaeukYeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B8QY0CY-de'
+slug: 'B00B8QY0CY-de FjällRäven Kanken ochre'
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

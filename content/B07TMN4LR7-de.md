@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jj3SkQQnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMN4LR7-de'
+slug: 'B07TMN4LR7-de SanDisk Extreme PRO Portable SSD externe Festplatte 500GB   bis zu 1050 MB/Sek.  USB-C  robust und wasserbeständig'
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

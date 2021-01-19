@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51OCfnmpieL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BLYRLZ4-de'
+slug: 'B07BLYRLZ4-de GraviTrax 27611 Lift Spielzeug  bunt'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

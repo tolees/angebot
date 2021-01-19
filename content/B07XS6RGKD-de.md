@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BhsCyyBgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XS6RGKD-de'
+slug: 'B07XS6RGKD-de Lenovo Q24i-10 60 45 cm  23 8 Zoll Full HD IPS matt  Monitor  VGA  HDMI  4ms Reaktionszeit  AMD FreeSync  schwarz'
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

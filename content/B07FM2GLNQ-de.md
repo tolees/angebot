@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31j42k2svUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FM2GLNQ-de'
+slug: 'B07FM2GLNQ-de Trust Verto Wireless Vertikale Ergonomische Maus  Vorbeugung Gegen Mausarm/Tennisarm  RSI Syndrom   Nur für Rechtshänder  Schwarz'
 actualPrice: 16.91 EUR
 currency: EUR
 price: 16.91

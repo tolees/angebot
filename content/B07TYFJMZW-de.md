@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41um+2rgjQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYFJMZW-de'
+slug: 'B07TYFJMZW-de normani Leichte XXL Reisetasche Rollenreisetasche Trolley Sporttasche mit Rollen Farbe Schwarz Größe 120 Liter'
 actualPrice: 29.48 EUR
 currency: EUR
 price: 29.48

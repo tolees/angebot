@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Db3BBe8ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9Z6CCV-de'
+slug: 'B07L9Z6CCV-de GIANAC USB Typ C Kabel  [4Pack 0.3M 1M 2M 3M ] 3A USB C Ladekabel und Datenkabel Nylon geflochten Fast Charge Sync schnellladekabel für Samsung S10/S9/S8+  Huawei P30/P20/P10 Google Pixel  Xperia XZ'
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

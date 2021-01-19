@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415vhlRiHUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CV7VX1V-de'
+slug: 'B08CV7VX1V-de WLAN Repeater  2 4GHz WLAN Verstärker WiFi Extender mit Router/AP/WPS/Wireless Access Point Modus  WiFi Repeater 4 External Antennas  2 Ethernet Ports  Kompatibel zu Allen WLAN Geräten'
 actualPrice: 32.98 EUR
 currency: EUR
 price: 32.98

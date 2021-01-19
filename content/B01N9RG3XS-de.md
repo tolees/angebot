@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aZMisaGfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9RG3XS-de'
+slug: 'B01N9RG3XS-de Nintendo Switch Displayschutzfolie Glas  2 Stück   Orzly Panzerglas Schutzfolie für Nintendo Switch'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DZMRAWSnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5FCQBR-de'
+slug: 'B07D5FCQBR-de HP ENVY x360 13-ag0005ng  Touchdisplay 13 3 Zoll / Full HD IPS  Convertible Laptop  AMD Ryzen 5 2500U  512 GB SSD  16 GB RAM  AMD Radeon Vega  Windows 10 Home 64  Dark ash silber'
 actualPrice: 500.0 EUR
 currency: EUR
 price: 500.0

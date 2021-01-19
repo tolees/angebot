@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KBHiKPF4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0742SKDPV-de'
+slug: 'B0742SKDPV-de Russell Hobbs Popcornmaschine Fiesta  Heißluft Popcorn Maker  ohne Fett & Öl  inkl. Messlöffel   1200 Watt  24630-56'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

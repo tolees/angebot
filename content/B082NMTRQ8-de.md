@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SAX2V3K5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082NMTRQ8-de'
+slug: 'B082NMTRQ8-de XGIMI Halo  Mini Beamer 800 ANSI-Lumen 1080p  Tragbarer Beamer Smarter kompakter Pico Projektor mit WLAN und Bluetooth Lautsprechern von Harman/Kardon'
 actualPrice: 679.99 EUR
 currency: EUR
 price: 679.99

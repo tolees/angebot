@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412Jj3DOjGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBV65N7-de'
+slug: 'B07XBV65N7-de Lenovo IdeaCentre AIO A540 60 45 cm  23 8 Zoll Full HD IPS  All-in-One Desktop-PC  Intel Core i5-9400T  8 GB RAM  512 GB SSD  Intel UHD Grafik 630  Wifi  Windows 10 Home  schwarz'
 actualPrice: 707.12 EUR
 currency: EUR
 price: 707.12

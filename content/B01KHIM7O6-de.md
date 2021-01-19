@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310sMb6lNTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KHIM7O6-de'
+slug: 'B01KHIM7O6-de Philips 929001229801 EEK A+ LED Lampe ersetzt 120 W  E27  warmweiß  2700K   2000 Lumen  Globe'
 actualPrice: 12.17 EUR
 currency: EUR
 price: 12.17

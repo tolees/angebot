@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XwGUkt5TL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HG08M7K-de'
+slug: 'B00HG08M7K-de Fossil Damen Analog Quarz Uhr mit Edelstahl Armband ES3545'
 actualPrice: 105.2 EUR
 currency: EUR
 price: 105.2

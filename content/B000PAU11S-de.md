@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518MMgcAMuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000PAU11S-de'
+slug: 'B000PAU11S-de Die Rotkäppchen-Verschwörung'
 actualPrice: 2.68 EUR
 currency: EUR
 price: 2.68

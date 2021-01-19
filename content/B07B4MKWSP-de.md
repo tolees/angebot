@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mR6KX1mbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4MKWSP-de'
+slug: 'B07B4MKWSP-de Rieker Damen Chelsea Boots 75754 Frauen Stiefel Halbstiefel Stiefelette Bootie Schlupfstiefel hoch Blockabsatz 4.6cm schwarz/anthrazit  EU 41'
 actualPrice: 34.91 EUR
 currency: EUR
 price: 34.91

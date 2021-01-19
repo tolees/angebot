@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+xmI6UkfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009H2UWJG-de'
+slug: 'B009H2UWJG-de Russian Standard Original Vodka  1 x 0.7 l '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

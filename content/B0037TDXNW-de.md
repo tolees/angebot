@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GWzaNfhaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0037TDXNW-de'
+slug: 'B0037TDXNW-de Reality Leuchten Tischleuchte Kugel  ohne Leuchtmittel  Durchmesser 20 cm  mit Schnurschalter  1 x E27 maximum 25 W  Glas opal weiß R5220-07'
 actualPrice: 18.08 EUR
 currency: EUR
 price: 18.08

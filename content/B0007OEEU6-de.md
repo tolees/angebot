@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410Y0JhZ5TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0007OEEU6-de'
+slug: 'B0007OEEU6-de Leitz Büroheftgerät aus Metall  Für 40 Blatt  Inkl. Heftklammern  Ergonomisches Design  Schwarz  NeXXt-Serie  55040095'
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

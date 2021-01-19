@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Tad-LJyiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000RE5A4U-de'
+slug: 'B000RE5A4U-de Eastpak Wyoming Rucksack  40 cm  24 L  Schwarz  Black '
 actualPrice: 31.9 EUR
 currency: EUR
 price: 31.9

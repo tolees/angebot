@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513lVcGf8oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072ZKW27Q-de'
+slug: 'B072ZKW27Q-de Augsburger Puppenkiste - Klassiker Kollektion [5 DVDs]'
 actualPrice: 13.93 EUR
 currency: EUR
 price: 13.93

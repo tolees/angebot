@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61sw83X6sRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003W16TAE-de'
+slug: 'B003W16TAE-de Tafelmusik'
 actualPrice: 11.46 EUR
 currency: EUR
 price: 11.46

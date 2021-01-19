@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LEpJRjNsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQBWZL3-de'
+slug: 'B07SQBWZL3-de The Dead Don t Die [Blu-ray]'
 actualPrice: 10.94 EUR
 currency: EUR
 price: 10.94

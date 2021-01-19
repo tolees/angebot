@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31lv%2BbNe6hL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQX94Z5-de'
+slug: 'B07MQX94Z5-de GANT Jungen D1. Shield Logo Sweat Hoodie Sportkapuzenpullover  Schwarz  Black 5    Herstellergröße: 122/128 '
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

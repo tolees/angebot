@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NA3JvkNiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JZD85X6-de'
+slug: 'B01JZD85X6-de BOSS Herren Trunk 3P CO/EL Dreier-Pack Boxershorts aus Stretch-Baumwolle mit Logo am Bund'
 actualPrice: 30.38 EUR
 currency: EUR
 price: 30.38

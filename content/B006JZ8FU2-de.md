@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310a9pAUfHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006JZ8FU2-de'
+slug: 'B006JZ8FU2-de Schiesser Herren Bademantel Kapuze 128546-815  Blau  815-navy   Gr. 52  L '
 actualPrice: 74.81 EUR
 currency: EUR
 price: 74.81

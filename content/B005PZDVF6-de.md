@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IgL3Bz4qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005PZDVF6-de'
+slug: 'B005PZDVF6-de OWC NewerTech AdaptaDrive - Mounting Kits  99.22 G  101.2 mm  146.7 mm  9 mm  8.89 cm  3.5  '
 actualPrice: 16.67 EUR
 currency: EUR
 price: 16.67

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qelL-Lx4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J5RH06K-de'
+slug: 'B01J5RH06K-de SanDisk Extreme PRO 128 GB SDXC Speicherkarte bis zu 95 MB/Sek  Class 10  U3  V30'
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

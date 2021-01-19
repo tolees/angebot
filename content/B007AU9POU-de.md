@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-zaw39W2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007AU9POU-de'
+slug: 'B007AU9POU-de HAUPTSTADTKOFFER - Alex - Hartschalen-Koffer Koffer Trolley Rollkoffer Reisekoffer Erweiterbar  4 Rollen  65 cm  74 Liter  Grün'
 actualPrice: 72.09 EUR
 currency: EUR
 price: 72.09

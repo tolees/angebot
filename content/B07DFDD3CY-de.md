@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rOcrRmaWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFDD3CY-de'
+slug: 'B07DFDD3CY-de Funko 32221 Married w/Children: Peggy POP Vinylfigur  Multi'
 actualPrice: 5.24 EUR
 currency: EUR
 price: 5.24

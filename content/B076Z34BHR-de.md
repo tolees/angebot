@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xSM+1MK+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076Z34BHR-de'
+slug: 'B076Z34BHR-de Sharplace Multifunktionale Erweiterungskarte Shield Development Board Erweiterungskarten Kit für Arduino UNO R3'
 actualPrice: 4.21 EUR
 currency: EUR
 price: 4.21

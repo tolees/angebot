@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SX4WoJ5XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2WLMBL-de'
+slug: 'B07X2WLMBL-de CHARLLEAN Panzerglas für iPhone X/XS  3 Stück  3D Vollständigen Abdeckung 9H Härtegrad Anti-Kratzen Anti-Bläschen Hülle Freundllich Perfekt Schutzfolie für iPhone X/XS- Schwarz'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

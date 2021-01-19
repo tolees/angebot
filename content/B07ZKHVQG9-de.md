@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OYD5nlELL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZKHVQG9-de'
+slug: 'B07ZKHVQG9-de CXZC Raspador de nieve para automóviles y camiones pequeños  raspador de hielo portátil para herramientas de nieve para parabrisas de automóviles  ventanas y superficies de carrocerías'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31THAvRgB-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AGH77CG-de'
+slug: 'B00AGH77CG-de Dometic DEFA A430061 Termini 2100 Innenraumheizung  2100 Watt'
 actualPrice: 94.5 EUR
 currency: EUR
 price: 94.5

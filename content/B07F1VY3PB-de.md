@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51IHxMq9ZcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F1VY3PB-de'
+slug: 'B07F1VY3PB-de Unique Party 79123 Taschen'
 actualPrice: 2.81 EUR
 currency: EUR
 price: 2.81

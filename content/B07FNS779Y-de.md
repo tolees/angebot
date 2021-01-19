@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512zaPmfVbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNS779Y-de'
+slug: 'B07FNS779Y-de Pop Marvel Studios 10 Black Panther Vinyl Figure'
 actualPrice: 6.18 EUR
 currency: EUR
 price: 6.18

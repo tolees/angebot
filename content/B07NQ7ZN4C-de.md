@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418XjL5YIwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQ7ZN4C-de'
+slug: 'B07NQ7ZN4C-de Antimi Bluetooth Kopfhörer Kabellos in Ear Kopfhoerer Sport Wireless Bluetooth 5.0 Headset mit 140 Stunden Spielzeit/Digitalanzeige/IPX7 Wasserdicht für iPhone Huawei Samsung  Schwarz '
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

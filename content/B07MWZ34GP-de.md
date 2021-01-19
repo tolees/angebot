@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+QTQNSYeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MWZ34GP-de'
+slug: 'B07MWZ34GP-de Ostwind 1-3 [3 DVDs]'
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

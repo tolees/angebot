@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JQ5S2YxTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C9S4K4W-de'
+slug: 'B01C9S4K4W-de Boxset'
 actualPrice: 15.81 EUR
 currency: EUR
 price: 15.81

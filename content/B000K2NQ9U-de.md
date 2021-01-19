@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AZ2dqFIWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000K2NQ9U-de'
+slug: 'B000K2NQ9U-de Mannesmann M10997 Zangensatz 4-teilig'
 actualPrice: 12.96 EUR
 currency: EUR
 price: 12.96

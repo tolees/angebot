@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315BM9fnT0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T4Q1RH7-de'
+slug: 'B07T4Q1RH7-de Microsoft Pro IntelliMouse schwarz'
 actualPrice: 31.92 EUR
 currency: EUR
 price: 31.92

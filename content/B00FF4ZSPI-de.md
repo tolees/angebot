@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MIOVqb2TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FF4ZSPI-de'
+slug: 'B00FF4ZSPI-de Kultkomödien mit Thomas Gottschalk & Mike Krüger - 5DVD-Sammeledition  Die Supernasen  Piratensender Powerplay  Die Einsteiger  Zwei Nasen tanken super  Seitenstechen '
 actualPrice: 11.13 EUR
 currency: EUR
 price: 11.13

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vhB0awuhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004SGFPDY-de'
+slug: 'B004SGFPDY-de BECO Badeschuhe / Surfschuhe für Damen und Herren schwarz 45'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

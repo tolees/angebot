@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21vYQEzAdrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQSJ59F-de'
+slug: 'B07XQSJ59F-de Apple Silikon Case  für iPhone 11  - Schwarz'
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416IR-phAjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFB37XB-de'
+slug: 'B07DFB37XB-de Funko 33923 Squarepants: Spongebob Xmas POP Vinylfigur  Multi'
 actualPrice: 3.76 EUR
 currency: EUR
 price: 3.76

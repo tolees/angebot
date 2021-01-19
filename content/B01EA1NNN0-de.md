@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nZNMi+-HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EA1NNN0-de'
+slug: 'B01EA1NNN0-de Microsoft Office Home and Student 2016 | PC | Box'
 actualPrice: 71.0 EUR
 currency: EUR
 price: 71.0

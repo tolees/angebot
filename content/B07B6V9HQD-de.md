@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41kgT8wdewL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B6V9HQD-de'
+slug: 'B07B6V9HQD-de Salewa WS WILD HIKER MID GTX  Damen Trekking- & Wanderstiefel  Blau  French Blue/black 340   36 EU  3.5 UK '
 actualPrice: 51.1 EUR
 currency: EUR
 price: 51.1

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aJKEtfOBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QF8CW16-de'
+slug: 'B07QF8CW16-de BBLAC 2KEY B2KEY® SWAT Revolver Military Technique  Baustein aus Backstein  Waffenset für Kinder  1 '
 actualPrice: 53.37 EUR
 currency: EUR
 price: 53.37

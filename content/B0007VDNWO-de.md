@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61K%2BsYOqvzL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B0007VDNWO-de'
+slug: 'B0007VDNWO-de Ravensburger 09074 - Nordlichter'
 actualPrice: 6.15 EUR
 currency: EUR
 price: 6.15

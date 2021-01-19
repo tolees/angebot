@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411F8eFkCFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4KPZHW-de'
+slug: 'B07B4KPZHW-de Syoss Colorist Tools Serum  2er Pack  2 x 30 ml '
 actualPrice: 3.4 EUR
 currency: EUR
 price: 3.4

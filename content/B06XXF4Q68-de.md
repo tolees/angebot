@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zwGrp5-5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XXF4Q68-de'
+slug: 'B06XXF4Q68-de NZXT KRAKEN G12 - GPU-Montagesatz für AIO-Kühler der Kraken X-Serie - Leistungsstärkere GPU-Kühlung - Kompatibilität mit AMD- und NVIDIA-GPUs - Aktive Kühlung für VRM - Schwarz'
 actualPrice: 26.89 EUR
 currency: EUR
 price: 26.89

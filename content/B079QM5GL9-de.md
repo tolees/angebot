@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XDcQOMvnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079QM5GL9-de'
+slug: 'B079QM5GL9-de iRobot Roomba 671 WLAN Saugroboter  Dirt Detect Technologie  3-stufiges Reinigungssystem  Reinigungsprogrammierung per App  Staubsauger Roboter  ideal für Tierhaare  Teppiche und Hartböden  schwarz'
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

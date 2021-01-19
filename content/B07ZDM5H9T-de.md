@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wvhw0PHIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZDM5H9T-de'
+slug: 'B07ZDM5H9T-de Philips Hi-Res Audio Kopfhörer PH802BK/00 On Ear Bluetooth Kopfhörer  Hi-Res-Audio  Bluetooth  bis 30 Stunden Akku  Schnellladefunktion  Schwarz'
 actualPrice: 74.75 EUR
 currency: EUR
 price: 74.75

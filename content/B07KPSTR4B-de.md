@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KIVp4eOXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPSTR4B-de'
+slug: 'B07KPSTR4B-de Funko 37867 POP Vinyl: BTS: RM Sammelbares Spielzeug  Mehrfarben'
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

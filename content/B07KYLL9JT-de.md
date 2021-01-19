@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qLqluI1xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KYLL9JT-de'
+slug: 'B07KYLL9JT-de Panama Jack Damen Julia Cork Riemchensandalen  Blau  Marino B4   38 EU'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

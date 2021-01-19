@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DaKAEnDYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XJ4S3Y8-de'
+slug: 'B07XJ4S3Y8-de OnePlus 7T Smartphone Frosted Silver | 8 GB RAM + 128 GB Speicher | 16 6 cm AMOLED Display 90Hz Screen | Triple Kamera + Front-Kamera | Warp Charge 30'
 actualPrice: 499.32 EUR
 currency: EUR
 price: 499.32

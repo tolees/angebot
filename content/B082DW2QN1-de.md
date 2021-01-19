@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZvP77zdUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082DW2QN1-de'
+slug: 'B082DW2QN1-de KKTICK AirPods Pro Silikon Hülle  Tragbares Schutzhülle mit Karabiner  Stoßfeste Weiche Dünne Case mit Sichtbarer Front LED Unterstützt kabelloses Laden  Volle Schutzhülle für AirPods Pro Schwarz '
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

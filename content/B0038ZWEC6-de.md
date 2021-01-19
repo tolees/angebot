@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Iy0jlfzPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0038ZWEC6-de'
+slug: 'B0038ZWEC6-de fischertechnik - 508775 ADVANCED Super Fun Park  Konstruktionsbaukasten'
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

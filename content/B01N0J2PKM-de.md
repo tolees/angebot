@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XYyGQZZRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0J2PKM-de'
+slug: 'B01N0J2PKM-de adidas Herren Essentials Basic Poloshirt  Black  L'
 actualPrice: 16.57 EUR
 currency: EUR
 price: 16.57

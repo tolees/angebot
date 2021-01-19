@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314hfCSv-IL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EOU9RW8-de'
+slug: 'B01EOU9RW8-de Vagabond Grace  Damen Chelsea Boots  Schwarz  Black   39 EU  6  UK '
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

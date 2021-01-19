@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BjVJQXxTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RVD8CX6-de'
+slug: 'B00RVD8CX6-de Original Album Classics'
 actualPrice: 7.84 EUR
 currency: EUR
 price: 7.84

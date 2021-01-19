@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R4HjY9mZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R7CKKFL-de'
+slug: 'B07R7CKKFL-de Jack Wolfskin Herren Argon Storm Jacket M Wetterschutzjacke  moss  L'
 actualPrice: 89.9 EUR
 currency: EUR
 price: 89.9

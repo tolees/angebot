@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OkEylTq-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0846JTM4Z-de'
+slug: 'B0846JTM4Z-de moto g8 power lite Dual-SIM Smartphone  6 5 Zoll-Max vision-HD+-Display  16-MP-Hauptkamera  64 GB/4 GB  Android 9  inkl. Schutzcover Blau'
 actualPrice: 142.37 EUR
 currency: EUR
 price: 142.37

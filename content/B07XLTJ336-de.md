@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ngbU4nq6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XLTJ336-de'
+slug: 'B07XLTJ336-de MEDION P6645 39 5 cm  15 6 Zoll  Full HD Notebook  Intel Core i7-8565U  8GB DDR4 RAM  1TB HDD  256GB SSD  Nvidia GeForce MX150  Akku Schnellladefunktion  Win 10 Home '
 actualPrice: 545.0 EUR
 currency: EUR
 price: 545.0

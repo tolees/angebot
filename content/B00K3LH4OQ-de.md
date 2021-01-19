@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412vkDslhdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K3LH4OQ-de'
+slug: 'B00K3LH4OQ-de Victorinox Holz Taschenmesser Ranger Wood 55  10 Funktionen  Feststellklinge  Schraubendreher '
 actualPrice: 52.8 EUR
 currency: EUR
 price: 52.8

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PqvKyYqbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K24XPKU-de'
+slug: 'B01K24XPKU-de Acer Predator Z301C 75cm  29 5 Zoll Full HD  Curved Gaming Monitor  HDMI  DisplayPort  USB 3.0  4ms Reaktionszeit  144Hz  Full HD Auflösung  2560x1080  EEK A+  Nvidia G-Sync  schwarz'
 actualPrice: 540.0 EUR
 currency: EUR
 price: 540.0

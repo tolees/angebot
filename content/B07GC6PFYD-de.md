@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xXDY+XEJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GC6PFYD-de'
+slug: 'B07GC6PFYD-de Plantronics APU-76 EHS Modul für Mitel/Cisco/Softphones/PC Nutzung'
 actualPrice: 17.8 EUR
 currency: EUR
 price: 17.8

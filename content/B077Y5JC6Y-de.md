@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51fTyeDv2+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077Y5JC6Y-de'
+slug: 'B077Y5JC6Y-de Ravensburger 24990" Entdecke die Welt Lernspiel'
 actualPrice: 8.29 EUR
 currency: EUR
 price: 8.29

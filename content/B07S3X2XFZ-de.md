@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Yhso8GrfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3X2XFZ-de'
+slug: 'B07S3X2XFZ-de ASICS Herren Gel-Bondi Laufschuhe  Schwarz  Black/White 001   45 EU'
 actualPrice: 46.95 EUR
 currency: EUR
 price: 46.95

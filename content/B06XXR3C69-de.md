@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dNz6ff7LL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XXR3C69-de'
+slug: 'B06XXR3C69-de Homematic IP Smart Home Starter Set Beschattung - Intelligente Rollladensteuerung per Smartphone  151670A0'
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

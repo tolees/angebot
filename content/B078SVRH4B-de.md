@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FeN3gxFxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SVRH4B-de'
+slug: 'B078SVRH4B-de SanDisk Extreme Portable SSD externe Festplatte 250GB  SSD extern 2 5 Zoll  550 MB/s Übertragungsraten  stoßfest  AES-Verschlüsselung wasser- und staubfest  grau'
 actualPrice: 62.38 EUR
 currency: EUR
 price: 62.38

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51R85ecCJ8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRHS6DL-de'
+slug: 'B07NRHS6DL-de Ostwind - Aris Ankunft [Blu-ray]'
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

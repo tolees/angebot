@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/619axmyabaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XG9JJ3N-de'
+slug: 'B06XG9JJ3N-de Puzzlematte  ineinandergreifende Schaumstoffmatten zum Schutz der Kinder  zum Puzzlespielen  Teppich  Yoga- und Fitnessmatte  30 × 30 cm  9 Stück  Dunkles Holz'
 actualPrice: 17.69 EUR
 currency: EUR
 price: 17.69

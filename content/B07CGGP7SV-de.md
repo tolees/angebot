@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411dkllyj1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CGGP7SV-de'
+slug: 'B07CGGP7SV-de Samsung MZ-V7E500BW 970 EVO 500 GB NVMe M.2 Interne SSD Schwarz'
 actualPrice: 73.9 EUR
 currency: EUR
 price: 73.9

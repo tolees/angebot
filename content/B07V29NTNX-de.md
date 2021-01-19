@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418ipOj91PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V29NTNX-de'
+slug: 'B07V29NTNX-de Anker Nebula Capsule Max  Mini Projektor in Pint-Größe  Beamer mit WLAN und 200 ANSI Lumen  8W Lautsprecher  100 Zoll Bildformat  4 Stunden Wiedergabezeit  ideal für zu Hause  Home Entertainment'
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

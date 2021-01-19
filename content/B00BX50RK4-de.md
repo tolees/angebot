@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61GdeoHBTgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BX50RK4-de'
+slug: 'B00BX50RK4-de Immenhof - Die 5 Originalfilme [3 DVDs]'
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

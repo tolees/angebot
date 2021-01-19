@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RGAHFdpSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMNC36K-de'
+slug: 'B07MMNC36K-de GANT Herren ORIGINAL Barstripe Heavy Rugger Poloshirt  Rot  Red 610   Medium  Herstellergröße: M '
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iXQfwNNAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXRG7WQ-de'
+slug: 'B07VXRG7WQ-de Garmin fenix 6S PRO kompakte GPS-Multisport-Smartwatch mit Herzfrequenzmessung am Handgelenk  Musikplayer  vorinstallierte Karten  WLAN  wasserdicht  kontaktloses Bezahlen  lange Akkulaufzeit'
 actualPrice: 589.99 EUR
 currency: EUR
 price: 589.99

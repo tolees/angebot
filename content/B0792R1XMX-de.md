@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jrvAB3kWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792R1XMX-de'
+slug: 'B0792R1XMX-de My Little Pony - Cuties Sammelfiguren  kleines Pony in Überraschungshäuschen sortiert'
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

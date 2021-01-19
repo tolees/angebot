@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514Sgw76OVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00APVW06G-de'
+slug: 'B00APVW06G-de Django Unchained [Blu-ray]'
 actualPrice: 3.59 EUR
 currency: EUR
 price: 3.59

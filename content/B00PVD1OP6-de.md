@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wTusIWwKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PVD1OP6-de'
+slug: 'B00PVD1OP6-de D-Link DCS-2530L Wireless AC 180° Panorama Cloud Überwachungskamera  Aufnahmen in Full-HD-Qualität  Tag & Nacht  mydlink-App für iOS/Android '
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

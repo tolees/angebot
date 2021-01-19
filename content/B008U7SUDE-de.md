@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yXy6Rw3vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008U7SUDE-de'
+slug: 'B008U7SUDE-de Whisky Ardbeg Islay Single Malt 10 Jahre in Geschenkverpackung  1 x 0.7 l '
 actualPrice: 38.71 EUR
 currency: EUR
 price: 38.71

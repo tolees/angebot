@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D8zCcnirL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005HV2Y1U-de'
+slug: 'B005HV2Y1U-de Crocs Baya Slide  Unisex - Erwachsene Dusch- & Badeschuhe  Blau  Navy   43/44 EU'
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

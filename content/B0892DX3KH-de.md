@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yPiHQLNNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0892DX3KH-de'
+slug: 'B0892DX3KH-de Axloie Bluetooth Kopfhörer Sport in Ear Wireless Sportkopfhörer Bluetooth 5.0 HiFi Stereo Deep Bass IPX7 Wasserdicht 35 Stunden Mikrofon für Laufen Training Schwarz'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

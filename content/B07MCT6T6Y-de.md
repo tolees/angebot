@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510kbPdLCDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCT6T6Y-de'
+slug: 'B07MCT6T6Y-de Hasbro Spiele E5804EU4 The Slow Motion Race Game  Partyspiel  mit Langsamkeit zum Sieg  Multicolor'
 actualPrice: 10.24 EUR
 currency: EUR
 price: 10.24

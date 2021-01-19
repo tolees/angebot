@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NZbptia7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CMB1TSZ-de'
+slug: 'B07CMB1TSZ-de Hasbro Black Panther E1971EU4 Black Panther Legends  elektronischer Helm für Erwachsene  schwarz'
 actualPrice: 89.85 EUR
 currency: EUR
 price: 89.85

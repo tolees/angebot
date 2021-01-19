@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517DfViC5xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8K5MMV-de'
+slug: 'B07S8K5MMV-de Ensure NutriVigor Schokolade – Nahrungsergänzungspulver mit Proteinen – Gluten- und laktosefrei – 1 x 850 g'
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

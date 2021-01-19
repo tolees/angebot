@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uk71nqyEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KJOBNI-de'
+slug: 'B000KJOBNI-de Pentel Correction Pen/ZLC31-WG fein weiß'
 actualPrice: 3.73 EUR
 currency: EUR
 price: 3.73

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41FC7aBdXDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6VDYPY-de'
+slug: 'B07W6VDYPY-de Freaky Doll LoLa Cute Crazy  Rosa  Fliegende Puppe mit extra Hellen LED Augen - Einfach per Handbewegung steuerbar Super Geschenk für kleine und große Girls'
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

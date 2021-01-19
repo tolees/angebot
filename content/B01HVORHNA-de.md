@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-jvKa2InL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HVORHNA-de'
+slug: 'B01HVORHNA-de Westmark Kartoffelstampfer  Kunststoff  Länge: 27 5 cm  Gallant  Schwarz/Rot  29632270'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

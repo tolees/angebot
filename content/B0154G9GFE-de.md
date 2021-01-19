@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51E80sUc08L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0154G9GFE-de'
+slug: 'B0154G9GFE-de Philips AZ215S CD-Soundmachine  Digital UKW  Audioeingang  3 Watt  leicht bedienbar  silber'
 actualPrice: 25.97 EUR
 currency: EUR
 price: 25.97

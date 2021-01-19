@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UcoSCzkuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007VAZBCE-de'
+slug: 'B007VAZBCE-de Tamron 24-70mm F/2 8 Weitwinkelobjektiv mit USD-Motor und Spritzwasserschutz für Sony schwarz'
 actualPrice: 320.0 EUR
 currency: EUR
 price: 320.0

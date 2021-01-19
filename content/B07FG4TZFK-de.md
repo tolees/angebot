@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51EPbpHrooL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FG4TZFK-de'
+slug: 'B07FG4TZFK-de Wissen ist Macht: Dekaden [PlayStation 4]'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

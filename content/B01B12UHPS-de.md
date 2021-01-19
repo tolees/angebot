@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21gLZwyn1iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B12UHPS-de'
+slug: 'B01B12UHPS-de Fiskars Profi Handsäge für frisches Holz  Grobzahnung  Hochwertiges Stahl-Sägeblatt  Schwarz/Orange  SW-330  1020199'
 actualPrice: 36.95 EUR
 currency: EUR
 price: 36.95

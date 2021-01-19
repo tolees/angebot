@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fyOjcNdFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTQDFQ1-de'
+slug: 'B07KTQDFQ1-de Tommy Hilfiger Armbanduhr 1710382'
 actualPrice: 127.7 EUR
 currency: EUR
 price: 127.7

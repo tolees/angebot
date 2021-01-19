@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41z-LKIAIzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K7H7JPX-de'
+slug: 'B07K7H7JPX-de adidas Kinder TIRO19 TR TOPY Sweatshirt  Dark Blue/Bold Blue/White  1516'
 actualPrice: 12.2 EUR
 currency: EUR
 price: 12.2

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MCU2ij8pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XGWQNS6-de'
+slug: 'B06XGWQNS6-de Funko 13555 Herr der Ringe POP Vinylfigur: LOTR/Hobbit: Saruman  Multi'
 actualPrice: 10.55 EUR
 currency: EUR
 price: 10.55

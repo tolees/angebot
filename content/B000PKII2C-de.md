@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gtD6fQP2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000PKII2C-de'
+slug: 'B000PKII2C-de SuperCat Wühlmaus-Falle: Effiziente Schlagfalle  kein umständliches Graben oder Kraft erforderlich  1er Set'
 actualPrice: 12.14 EUR
 currency: EUR
 price: 12.14

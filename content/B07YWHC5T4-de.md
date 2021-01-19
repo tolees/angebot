@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ytoiGSKqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YWHC5T4-de'
+slug: 'B07YWHC5T4-de ASOBEAGE Toilettenbürste WC-Bürste und Behälter Toilettenbürsten für Badezimmer mit schnell trocknendem Haltersatz（Weiß）'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

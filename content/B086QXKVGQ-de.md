@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/210rV+WeagL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086QXKVGQ-de'
+slug: 'B086QXKVGQ-de HMY Vidrio Transparente Florero decoración Vsaes mesa Decoración Florero adecuado para Mesa Auxiliar Baño Dormitorio Oficina Mesa De Centro Al Aire Libre Cocina Transparente  h  28x w  6cm'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

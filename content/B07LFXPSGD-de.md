@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B2MIRsNxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFXPSGD-de'
+slug: 'B07LFXPSGD-de Sloggi Zero Feel Bralette EX BH Damen  Weiß  White  03    M'
 actualPrice: 28.85 EUR
 currency: EUR
 price: 28.85

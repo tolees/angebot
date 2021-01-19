@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319txYgETUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PBBW1MG-de'
+slug: 'B07PBBW1MG-de Funko 41475 Action Figur: Dark Crystal - Silk Sammelbares Spielzeug  Mehrfarben'
 actualPrice: 11.48 EUR
 currency: EUR
 price: 11.48

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YW1OEliKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000AXZCOG-de'
+slug: 'B000AXZCOG-de All for You'
 actualPrice: 3.92 EUR
 currency: EUR
 price: 3.92

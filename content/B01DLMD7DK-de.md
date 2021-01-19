@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NwiBpt0dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DLMD7DK-de'
+slug: 'B01DLMD7DK-de Sony SEL-70300G G Tele-Zoom Objektiv  70-300 mm  F4.5-5.6  OSS  Vollformat  geeignet für A7  A6000  A5100  A5000 und Nex Serien  E-Mount  schwarz'
 actualPrice: 740.0 EUR
 currency: EUR
 price: 740.0

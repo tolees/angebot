@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LgilJutIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000Y8VTIK-de'
+slug: 'B000Y8VTIK-de Dewalt DT7030-QZ Adapter f. Bohrfutter SDS-plus 1/2Zoll'
 actualPrice: 11.84 EUR
 currency: EUR
 price: 11.84

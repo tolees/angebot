@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31W3yU-KyBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L34I7HY-de'
+slug: 'B01L34I7HY-de Sony Xperia X Compact Smartphone  11 7 cm  4 6 Zoll   32 GB Speicher  Android 6.0  Weiß'
 actualPrice: 111.87 EUR
 currency: EUR
 price: 111.87

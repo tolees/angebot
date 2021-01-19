@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uvb8gRqnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000R5LQWO-de'
+slug: 'B000R5LQWO-de Bosch Professional  6tlg. Flachfräsbohrer-Set Self Cut Speed mit 1/4"-Sechskantschaft'
 actualPrice: 16.22 EUR
 currency: EUR
 price: 16.22

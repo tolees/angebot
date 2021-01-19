@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uUFSyxYFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086YBHTYK-de'
+slug: 'B086YBHTYK-de Quick-Connect INVERTER Split Klimaanlage mit Wärmepumpe 3 2kW Klimagerät ECO Smart WiFi/WLAN komplett Set inkl. 5m Kupferleitungen mit Heizfunktion'
 actualPrice: 649.9 EUR
 currency: EUR
 price: 649.9

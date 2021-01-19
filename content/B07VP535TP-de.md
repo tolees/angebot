@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Il6igW2hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VP535TP-de'
+slug: 'B07VP535TP-de Magnetisches Armband Werkzeug  Handwerker Magnetarmband mit 15 Starken Magneten zum Halten von Schrauben/Nägeln/Bohrern  Bestes Geschenk für Männer/Papa/Ehemann/Heimwerker/Gadgets'
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

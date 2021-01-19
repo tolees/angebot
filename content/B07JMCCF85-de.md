@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eQQqBThUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMCCF85-de'
+slug: 'B07JMCCF85-de PLAYMOBIL Family Fun 70087 Großer Campingplatz  Ab 4 Jahren'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

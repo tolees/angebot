@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/311F7wuTMnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IAPOPAI-de'
+slug: 'B00IAPOPAI-de Kärcher Mehrzwecksauger WD 3 Premium  Behältergröße: 17 l aus Edelstahl  Tatsächliche Saugleistung: 200 Air Watt  Blasfunktion  Parkposition  ergonomischer Tragegriff '
 actualPrice: 52 EUR
 currency: EUR
 price: 52

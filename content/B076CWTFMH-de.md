@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AHVV-rHxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CWTFMH-de'
+slug: 'B076CWTFMH-de waytoplay  24 Autobahn  Building Set  Schwarz mit Weiß Striping'
 actualPrice: 50.19 EUR
 currency: EUR
 price: 50.19

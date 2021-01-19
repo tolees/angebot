@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XTIOVtwqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SNDHP8L-de'
+slug: 'B07SNDHP8L-de Funko 44469 POP Towns 80th-Hall of Justice w/Batman Collectible Figure  Multicolour'
 actualPrice: 17.82 EUR
 currency: EUR
 price: 17.82

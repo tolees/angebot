@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41EqqVqOzML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSC6RFQ-de'
+slug: 'B01MSC6RFQ-de G-STAR RAW Herren 3301 Straight Jeans  Blau  medium Aged 6564-071   31W/34L'
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ue13xt63L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFMFNBP-de'
+slug: 'B07FFMFNBP-de Fossil Herren Digital Smart Watch Armbanduhr mit Edelstahl Armband FTW4012'
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41C-GwdpzTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016XK94FM-de'
+slug: 'B016XK94FM-de Netgear GS308P 8-Port Gigabit Ethernet LAN PoE Switch Unmanaged  mit 4x PoE 55W  für Desktop  robustes und lüfterloses Metallgehäuse  schwarz'
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

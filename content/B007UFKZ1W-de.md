@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61QRUTKO21L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007UFKZ1W-de'
+slug: 'B007UFKZ1W-de Cellfast Gartenschlauch ECONOMIC Elastisch und flexibel 3-lagiger Wasserschlauch aus Polyesterkreuzgewebe  UV-Strahlen- und Algenablagerungbeständig 20 bar Berstdruck  30m  1 zoll  10- 031'
 actualPrice: 29.56 EUR
 currency: EUR
 price: 29.56

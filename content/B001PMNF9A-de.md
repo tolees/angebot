@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FlvAVs7WL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001PMNF9A-de'
+slug: 'B001PMNF9A-de MONACOR WS-60 Mikrofon-Windschutz für Mikrofone schwarz'
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

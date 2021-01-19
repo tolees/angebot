@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31s+xuR5ycL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HPY5YF5-de'
+slug: 'B07HPY5YF5-de Pop Fortnite Love Ranger Vinyl Figure'
 actualPrice: 3.84 EUR
 currency: EUR
 price: 3.84

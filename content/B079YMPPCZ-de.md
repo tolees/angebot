@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wqgjVB00L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YMPPCZ-de'
+slug: 'B079YMPPCZ-de Funko 30633 Actionfigur Marvel Unmasked Spider-Man  Multi  Standard'
 actualPrice: 11.66 EUR
 currency: EUR
 price: 11.66

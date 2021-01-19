@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CBZeRTmlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YMZ7FM8-de'
+slug: 'B07YMZ7FM8-de MEDION E66550 Küchen Unterbauradio mit Bluetooth-Funktion  PLL UKW Radio  Freisprechfunktion  2 x 2 7 W RMS  Timerfunktion  LED-Display  weiß'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

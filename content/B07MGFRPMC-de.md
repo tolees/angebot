@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IM+wmqcML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGFRPMC-de'
+slug: 'B07MGFRPMC-de Napapijri Damen Rainforest W WINT 3 Jacke  Weiß  Whitecap Gray NS5    Herstellergröße:XL '
 actualPrice: 58.95 EUR
 currency: EUR
 price: 58.95

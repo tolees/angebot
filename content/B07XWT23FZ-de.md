@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Tm6FiFHkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XWT23FZ-de'
+slug: 'B07XWT23FZ-de Amazfit GTS'
 actualPrice: 113.99 EUR
 currency: EUR
 price: 113.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qD41JVJML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J58WXHR-de'
+slug: 'B07J58WXHR-de Medion E4273 35  5 cm  14 Zoll Full HD Touch  Convertible Notebook  Intel Pentium Silver N5000  256GB SSD  8GB DDR4 RAM  Win 10 Home '
 actualPrice: 207.0 EUR
 currency: EUR
 price: 207.0

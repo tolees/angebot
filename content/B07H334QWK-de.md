@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k4YVvM5ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H334QWK-de'
+slug: 'B07H334QWK-de Echo Plus  2. Gen.   Sandstein Stoff + Philips Hue White Lampe'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

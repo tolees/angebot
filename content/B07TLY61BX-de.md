@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rmPZq2SML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLY61BX-de'
+slug: 'B07TLY61BX-de Bluetooth Kopfhörer【Neuestes Modell】  Donerton Kopfhörer Kabellos In Ear Earbuds  IPX7 Wasserdicht Sport Wireless Kopfhörer mit 130H Spielzeit  LED Digitalanzeige  Deep Bass HD-Stereo  Touch-Control'
 actualPrice: 22.96 EUR
 currency: EUR
 price: 22.96

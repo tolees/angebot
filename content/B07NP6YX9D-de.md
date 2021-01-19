@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41meoX9tRBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NP6YX9D-de'
+slug: 'B07NP6YX9D-de Ersatz Fernbedienung for Philips TV 22PFL3403/60 22PFL3403S/10 22PFL3403S/60 26PFL3403 32PFL3403 32PFL3403/12'
 actualPrice: 3.86 EUR
 currency: EUR
 price: 3.86

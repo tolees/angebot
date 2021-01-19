@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nKsf+wZVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YGQJ9XN-de'
+slug: 'B07YGQJ9XN-de Microsoft Ergonomic Mouse'
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

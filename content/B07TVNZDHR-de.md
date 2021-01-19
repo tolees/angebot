@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l9lo27pCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVNZDHR-de'
+slug: 'B07TVNZDHR-de BRIKSMAX Led Beleuchtungsset für Lego City Quad-Rennteam  Kompatibel Mit Lego 60148 Bausteinen Modell - Ohne Lego Set'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

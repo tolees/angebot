@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XwTUGN2wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BHPXMX3-de'
+slug: 'B08BHPXMX3-de Kopfhörer Kabellos Bluetooth Kopfhor Noise Cancelling Kopfhörer für immersiven Klang mit 24H Ladekästchen und Mikrofon für Android/iPhone/Samsung in Ear kopfhörer Bluetooth kopfhörer iPhone'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

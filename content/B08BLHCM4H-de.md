@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513J051WUTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BLHCM4H-de'
+slug: 'B08BLHCM4H-de LIGHTAILING Licht-Set Für  Technic Ducati Panigale V4 R  Modell - LED Licht-Set Kompatibel Mit Lego 42107 Modell Nicht Enthalten '
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

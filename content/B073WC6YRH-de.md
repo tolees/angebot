@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3111dhnTjJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073WC6YRH-de'
+slug: 'B073WC6YRH-de PAUL HEWITT Anker Armkette Anchor Spirit Plated - Armkette Damen Silber 925  Anker Armband Frauen'
 actualPrice: 42.16 EUR
 currency: EUR
 price: 42.16

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tzsfmAlvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012I5LP7Q-de'
+slug: 'B012I5LP7Q-de funny-frisch goldfischli Sesam  100 g'
 actualPrice: 0.89 EUR
 currency: EUR
 price: 0.89

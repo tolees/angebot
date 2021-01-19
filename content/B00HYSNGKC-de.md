@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vnKlab9gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HYSNGKC-de'
+slug: 'B00HYSNGKC-de SONAX 386400 ScheibenReiniger Konzentrat Green Lemon  3 Liter'
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

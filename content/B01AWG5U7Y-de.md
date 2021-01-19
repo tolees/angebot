@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31L6koefZvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AWG5U7Y-de'
+slug: 'B01AWG5U7Y-de LG 34UC88-B 86 36 cm  34 Zoll  Curved 21:9 UltraWide™ IPS Monitor  QHD  AMD Radeon FreeSync  99%sRGB   schwarz'
 actualPrice: 374.88 EUR
 currency: EUR
 price: 374.88

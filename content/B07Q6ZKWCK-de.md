@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51i3kr4lulL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q6ZKWCK-de'
+slug: 'B07Q6ZKWCK-de deAO 2-in-1 Puppenhaus Handtasche Tragetasche Spielset mit Mini Custom Doll  Schlafzimmer und Zubehör enthalten'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

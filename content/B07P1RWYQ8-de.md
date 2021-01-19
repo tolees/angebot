@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41M-O6JrXWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P1RWYQ8-de'
+slug: 'B07P1RWYQ8-de Mitef Anime Cosplay Kostüm Prinzessin Anna mit Schal für Erwachsene - - Groß'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

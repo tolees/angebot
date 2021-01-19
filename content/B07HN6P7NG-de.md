@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MZdvxKLsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HN6P7NG-de'
+slug: 'B07HN6P7NG-de Ballon [Blu-ray]'
 actualPrice: 6.33 EUR
 currency: EUR
 price: 6.33

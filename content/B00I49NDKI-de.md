@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Tw0ff1u6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I49NDKI-de'
+slug: 'B00I49NDKI-de Badewannensitz - ausziehbar  150 kg Tragkraft  Aluminium  Kunststoff  55-70 x 18 x 26 cm  weiß'
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

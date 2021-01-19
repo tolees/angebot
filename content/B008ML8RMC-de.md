@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eNNsg8xDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008ML8RMC-de'
+slug: 'B008ML8RMC-de The Dark Knight Rises [Blu-ray]'
 actualPrice: 4.27 EUR
 currency: EUR
 price: 4.27

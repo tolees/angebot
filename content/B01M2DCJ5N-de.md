@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31z8A6tfVoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M2DCJ5N-de'
+slug: 'B01M2DCJ5N-de Gardena combisystem-Kleinhäckchen: Kleine Gartenhacke zum Bodenlockern und Unkraut jäten  rostgeschützt  schmutzunempfindlich  verlängerbar  8913-20 '
 actualPrice: 8.73 EUR
 currency: EUR
 price: 8.73

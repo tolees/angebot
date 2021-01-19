@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cMS8VsB+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYE8K6X-de'
+slug: 'B01MYE8K6X-de Goobay 45193 Steckdosenleiste IP44 spritzwassergeschützt 3 m – 3-Fach Schutzkontaktbuchse mit Schutzkappen  für den Außenbereich geeignet'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

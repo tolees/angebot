@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/217iQ7RgXzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CKLTE3U-de'
+slug: 'B01CKLTE3U-de LG 34UM88C-P 86 36 cm  34 Zoll  21:9 UltraWide QHD IPS Monitor  AMD Radeon FreeSync  99%sRGB  DAS Mode   schwarz'
 actualPrice: 319.0 EUR
 currency: EUR
 price: 319.0

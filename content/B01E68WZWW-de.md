@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gRpTFDrgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E68WZWW-de'
+slug: 'B01E68WZWW-de Sensodyne MultiCare Original Zahnpasta  Tägliche Zahnpasta mit Fluorid  1x75ml  bei schmerzempfindlichen Zähnen'
 actualPrice: 2.22 EUR
 currency: EUR
 price: 2.22

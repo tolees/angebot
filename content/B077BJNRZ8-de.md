@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MG1k9Cq7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077BJNRZ8-de'
+slug: 'B077BJNRZ8-de Hasbro E0011EU4 - N-Strike Elite Surgefire Spielzeugblaster  mit Trommelmagazin'
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

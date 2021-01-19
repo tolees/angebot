@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41buRa3EFEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0043YKXUG-de'
+slug: 'B0043YKXUG-de Mattel Games V9364 - UNO Extreme Kartenspiel  geeignet für 2 - 10 Spieler  Spieldauer ca. 15 Minuten  Gesellschaftsspiele und Kartenspiele ab 7 Jahren'
 actualPrice: 28.46 EUR
 currency: EUR
 price: 28.46

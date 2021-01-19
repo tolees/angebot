@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513TGhYb7IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EO9DTO2-de'
+slug: 'B00EO9DTO2-de Talisker Dark Storm Whisky  1 x 1 l '
 actualPrice: 49.81 EUR
 currency: EUR
 price: 49.81

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZGMseyc8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DN5X1VO-de'
+slug: 'B00DN5X1VO-de Die Monster AG/Die Monster Uni [Blu-ray]'
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413Qfh2B9PL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075PY4TGV-de'
+slug: 'B075PY4TGV-de Dove go fresh fresh Seife  8er Pack  8 x 100 g '
 actualPrice: 5.2 EUR
 currency: EUR
 price: 5.2

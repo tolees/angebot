@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41g9k5RPjdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M4NJXOK-de'
+slug: 'B01M4NJXOK-de bugatti Herren 311251011100 Derby  Braun  44 EU Large'
 actualPrice: 38.94 EUR
 currency: EUR
 price: 38.94

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41th60C4yJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OX1LDV2-de'
+slug: 'B00OX1LDV2-de Jomos Herren 1928 Low-Top  Braun  capucino/Cognac 155-3123   43 EU'
 actualPrice: 52.67 EUR
 currency: EUR
 price: 52.67

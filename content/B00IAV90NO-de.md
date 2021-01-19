@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pNarIgq-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IAV90NO-de'
+slug: 'B00IAV90NO-de Panasonic RF-D10EG-W Digitalradio  DAB+/UKW Tuner  Netz- und Batteriebetrieb  weiß'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

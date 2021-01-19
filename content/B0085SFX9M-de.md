@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HX96wwXYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0085SFX9M-de'
+slug: 'B0085SFX9M-de JACK & JONES Herren T-Shirt 12058529 Basic O-Neck Tee  Schwarz  BLACK C-N10   L / 52'
 actualPrice: 8.83 EUR
 currency: EUR
 price: 8.83

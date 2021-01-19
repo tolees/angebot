@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413xPnQ4pNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KMVOX82-de'
+slug: 'B00KMVOX82-de Einhell Kompressor TH-AC 240/50/10 OF  1500 W  240 l/min Ansaugl.  50 l Kessel  10 bar max. Betriebsdruck  öl- und wartungsarm  Druckminderer  Manometer '
 actualPrice: 104.95 EUR
 currency: EUR
 price: 104.95

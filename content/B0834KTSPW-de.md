@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417Kf2rNs8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0834KTSPW-de'
+slug: 'B0834KTSPW-de Wepro kompatibel mit AirPods Pro Hülle Abstrahlend 2019  Stoßfeste Silikon Schutzhülle für Apple Airpods 3 Case  mit karabiner  Front LED Sichtbar  Unterstützt kabelloses Laden  Nachtglühen Grün/Rosa'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

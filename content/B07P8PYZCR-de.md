@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519zAYbbMcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P8PYZCR-de'
+slug: 'B07P8PYZCR-de Microsoft Surface Book 2 34 29 cm  13 Zoll  Laptop  Intel Core i5  8GB RAM  256GB SSD  Intel HD Graphics 620  Win 10  silber'
 actualPrice: 545.0 EUR
 currency: EUR
 price: 545.0

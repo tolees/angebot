@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pCyX30MtL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QM4WB28-de'
+slug: 'B00QM4WB28-de Ravensburger 29835 - Mini Mandala-Designer Frozen'
 actualPrice: 4.91 EUR
 currency: EUR
 price: 4.91

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RhFCDA6yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKWPRRF-de'
+slug: 'B07JKWPRRF-de Playmobil 70025 Figures Boys  Serie 15   bunt'
 actualPrice: 1.57 EUR
 currency: EUR
 price: 1.57

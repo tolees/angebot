@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OsXyhgBgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVHJ6JN-de'
+slug: 'B07MVHJ6JN-de Graef CH502EU Zerkleinerer  Glas'
 actualPrice: 42.03 EUR
 currency: EUR
 price: 42.03

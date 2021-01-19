@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41U5HRZBjkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FJWS1YF-de'
+slug: 'B07FJWS1YF-de Manuelle Rasierer  Cut Throat Rasierer Professionelle Edelstahl Barber Cut Tool gerade Kante Rasur Kit für Männer  um Gesichtsbehaarung zu pflegen Schwarz '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

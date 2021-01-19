@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cf+RwmzbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CNWTJXR-de'
+slug: 'B07CNWTJXR-de Avengers: Infinity War'
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

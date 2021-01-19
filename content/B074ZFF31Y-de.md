@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41STuArgGlL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074ZFF31Y-de'
+slug: 'B074ZFF31Y-de De Longhi Nespresso EN 500.W Kaffeemaschine  1400 W  1 l  19 Bar   Silky Weiß'
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

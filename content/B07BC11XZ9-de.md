@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+j1WqVtyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BC11XZ9-de'
+slug: 'B07BC11XZ9-de Mario & Luigi: Abenteuer Bowser + Bowser Jr.s Reise - [Nintendo 3DS]'
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

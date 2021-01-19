@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xAg1-WAoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XC2XMXD-de'
+slug: 'B06XC2XMXD-de Samsung Galaxy Tab S3 T825 24 58 cm  9 68 Zoll  Touchscreen LTE Tablet PC  Quad Core 4GB RAM 32GB eMMC LTE Android 7 0  silber inkl. S Pen'
 actualPrice: 346.5 EUR
 currency: EUR
 price: 346.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4166upzkm2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRG6DSY-de'
+slug: 'B07HRG6DSY-de Ultimate Ears BOOM 3 Bluetooth Lautsprecher  wasserdichter 360°-Sound  inklusive Power up Ladestation  bengalrot'
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

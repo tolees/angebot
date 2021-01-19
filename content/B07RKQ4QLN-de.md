@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Vvmg2xprL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RKQ4QLN-de'
+slug: 'B07RKQ4QLN-de Dragon Touch Action Cam 4K /unterwasserkamera 16MP WiFi Sports Kamera wasserdicht Kamera 30M 170° Touch Bildschirm Weitwinkel Fernbedienung mit 2 Batterien Vision 3 Pro'
 actualPrice: 26.55 EUR
 currency: EUR
 price: 26.55

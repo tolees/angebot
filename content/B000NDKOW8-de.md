@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v9FIcEprL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000NDKOW8-de'
+slug: 'B000NDKOW8-de Kathrein ESC 30 Sat 3Loch Einzeldose'
 actualPrice: 9.52 EUR
 currency: EUR
 price: 9.52

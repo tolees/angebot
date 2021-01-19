@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41drGDuvHwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J9ZF24P-de'
+slug: 'B07J9ZF24P-de MEDION S6445 39 5 cm  15 6 Zoll Full HD  Notebook  Intel Core i5-8265U  8GB DDR4 RAM  1TB PCIe SSD  Akku Schnellladefunktion  Win 10 Home '
 actualPrice: 699.0 EUR
 currency: EUR
 price: 699.0

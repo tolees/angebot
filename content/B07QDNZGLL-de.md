@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317ISbap3-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QDNZGLL-de'
+slug: 'B07QDNZGLL-de Funko 43533 POP Vinyl TV: Walking Dead-Dog The Sammelbares Spielzeug  Mehrfarben'
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

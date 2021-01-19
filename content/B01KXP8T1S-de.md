@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41C5J89JCIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KXP8T1S-de'
+slug: 'B01KXP8T1S-de L&L Damen Bademantel mit Kapuze LL0025  Melange/Weiß Sterne  M '
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

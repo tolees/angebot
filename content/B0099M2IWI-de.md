@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ml+k5WYrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0099M2IWI-de'
+slug: 'B0099M2IWI-de Casio Collection Herren-Armbanduhr AE 1200WH 1AVEF'
 actualPrice: 17.54 EUR
 currency: EUR
 price: 17.54

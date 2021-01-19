@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uUlnk4JkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LY2IX2D-de'
+slug: 'B01LY2IX2D-de Rogue One: A Star Wars Story  Original Motion Picture Soundtrack '
 actualPrice: 5.04 EUR
 currency: EUR
 price: 5.04

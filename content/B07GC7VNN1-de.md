@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31NGRlCXx2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GC7VNN1-de'
+slug: 'B07GC7VNN1-de BREE Collection Unisex-Erwachsene Punch 93  Backpack M S19 Rucksack  Grün  Belgian Block   12x46x41 cm'
 actualPrice: 89.38 EUR
 currency: EUR
 price: 89.38

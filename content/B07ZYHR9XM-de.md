@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y-Ju6IljL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZYHR9XM-de'
+slug: 'B07ZYHR9XM-de Mammut Herren Hardshell-jacke Mit Kapuze Masao Light Hooded  grau  S'
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

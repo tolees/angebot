@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51liveSlMJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086C3GF8W-de'
+slug: 'B086C3GF8W-de LUKAT Bausteine Spielzeug für 5 6 7 8 9+ Jahre Jungen/Mädchen/Kinder  165 Stück DIY Kreative BAU Baukasten Pädagogische Lernspielzeug STEM Gebäude Kit Beste Spielzeug Geschenk für Kinder/Jungen'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

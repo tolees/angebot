@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tgk1mlePL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GT4D6DY-de'
+slug: 'B07GT4D6DY-de Sony SRS-XB01 tragbarer Bluetooth Lautsprecher  Extra Bass  6h Akku  Spritzwassergeschützt  gelb'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

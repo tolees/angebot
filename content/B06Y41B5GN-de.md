@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31is+G7257L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y41B5GN-de'
+slug: 'B06Y41B5GN-de Samsung SM-R210NZWADBT Gear 360  2017  weiß'
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

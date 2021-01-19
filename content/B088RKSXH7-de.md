@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G35NPeLzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088RKSXH7-de'
+slug: 'B088RKSXH7-de LOUIS XVI Herren-Armbanduhr Athos Stahlband Rosegold Braun Chronograph Analog Quarz Edelstahl 969'
 actualPrice: 266.25 EUR
 currency: EUR
 price: 266.25

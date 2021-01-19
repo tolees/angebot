@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317zVHLgFzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EPLF8K2-de'
+slug: 'B00EPLF8K2-de SET-ERGÄNZUNG Gigaset Fenstersensor – für große und kleine Fenster – Alarmsensor mit kostenfreier App – Smart Home Fenstersensor'
 actualPrice: 19.12 EUR
 currency: EUR
 price: 19.12

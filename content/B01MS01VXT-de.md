@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zPn3zUF5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MS01VXT-de'
+slug: 'B01MS01VXT-de Kitchen Craft Kaffeebüchse Industrial Kitchen 11x16 5cm  Metall  Grau  30 x 18 x 18 cm'
 actualPrice: 12.25 EUR
 currency: EUR
 price: 12.25

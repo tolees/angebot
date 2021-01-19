@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41px4sSpsDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMSWP78-de'
+slug: 'B07MMSWP78-de Philips 2200 Serie EP2231/40 Kaffeevollautomat  3 Kaffeespezialitäten  LatteGo Milchsystem  Klavierlack-schwarz/Schwarz'
 actualPrice: 415.9 EUR
 currency: EUR
 price: 415.9

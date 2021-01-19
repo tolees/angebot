@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ad-YgLrCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075MHNSNB-de'
+slug: 'B075MHNSNB-de Das fünfte Element  Remastered 2017  – Mediabook  exklusiv bei Amazon.de  [Blu-ray]'
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

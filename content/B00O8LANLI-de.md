@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410t3Us22cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O8LANLI-de'
+slug: 'B00O8LANLI-de Onkyo CS-265 W  CD HiFi Minisystem  CD Player  MP3  Radio  2 x 20 W Ausgangsleistung  Zweiwege Lautsprecher  Bluetooth  NFC  Musik streamen  USB/Audio in  iPhone kompatibel   Weiss'
 actualPrice: 147.0 EUR
 currency: EUR
 price: 147.0

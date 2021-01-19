@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513DzFDsuOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VBM2DTH-de'
+slug: 'B07VBM2DTH-de Alex Perry Muttertagsgeschenk kette damen geschenke für frauen schmuck damen frauen geschenk für mama oma halsketten für frauen partner lustige personalisierte geschenke jahrestag Antibakterielle'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

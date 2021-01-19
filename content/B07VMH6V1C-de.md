@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316p0MWR8GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VMH6V1C-de'
+slug: 'B07VMH6V1C-de Samsung Galaxy Watch Active2 Aluminium  40 mm  Bluetooth  Schwarz'
 actualPrice: 252.9 EUR
 currency: EUR
 price: 252.9

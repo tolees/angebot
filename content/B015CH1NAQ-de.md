@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xl5f6jfTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015CH1NAQ-de'
+slug: 'B015CH1NAQ-de SanDisk Ultra Flair 64GB USB-Flash-Laufwerk USB 3.0 mit bis zu 150 MB/Sek  schwarz'
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

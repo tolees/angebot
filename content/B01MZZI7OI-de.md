@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4104P2EATkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZZI7OI-de'
+slug: 'B01MZZI7OI-de BRITA Wasserfilter Marella weiß inkl. 3 MAXTRA+ Filterkartuschen – BRITA Filter Starterpaket zur Reduzierung von Kalk  Chlor & geschmacksstörenden Stoffen im Wasser'
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

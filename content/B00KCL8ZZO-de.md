@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uFxeoLHdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KCL8ZZO-de'
+slug: 'B00KCL8ZZO-de Krups F30908 Krups ProAroma Glas-Kaffeemaschine  10 Tassen  1.050 W im modernen Design  schwarz'
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

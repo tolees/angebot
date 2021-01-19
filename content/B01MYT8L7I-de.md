@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31xHMPYIByL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYT8L7I-de'
+slug: 'B01MYT8L7I-de Audio Pro Addon T5 Bluetooth Stereo-Lautsprecher  Echtholzgehäuse  Weiß'
 actualPrice: 134.89 EUR
 currency: EUR
 price: 134.89

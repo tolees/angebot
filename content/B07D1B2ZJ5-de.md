@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jUq4FDXRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D1B2ZJ5-de'
+slug: 'B07D1B2ZJ5-de THE NORTH FACE Borealis Rucksack  Flag Blue Light Heather/TNF White  One Size'
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

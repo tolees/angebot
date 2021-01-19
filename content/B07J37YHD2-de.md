@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rSFNogTgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J37YHD2-de'
+slug: 'B07J37YHD2-de Under Armour Undeniable Duffel 4.0 geräumige Sporttasche  Wasserabweisende Umhängetasche  Schwarz  Einheitsgröße'
 actualPrice: 36.95 EUR
 currency: EUR
 price: 36.95

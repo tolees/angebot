@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dBt9hH7BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D1P2VSY-de'
+slug: 'B01D1P2VSY-de Barilla Hartweizen Pasta Spaghettini n. 3  1er Pack  1 x 500 g '
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

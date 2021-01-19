@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KOLNVVBoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQ2FZTK-de'
+slug: 'B07SQ2FZTK-de Philips Hue White & Col. Amb. LED Tischleuchte Go  dimmbar  16 Mio. Farben  steuerbar via App  kompatibel mit Amazon Alexa  Echo  Echo Dot '
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

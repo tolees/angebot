@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Xills7j3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QN6TPC9-de'
+slug: 'B07QN6TPC9-de Dickie Toys 203715012 Prison Break  Polizeistation  Spielstation  Set Polizei  Polizeiauto Spielzeug mit vielen Funktionen  Gefängnis inkl. 2 Autos  Mehrfarbig'
 actualPrice: 17.16 EUR
 currency: EUR
 price: 17.16

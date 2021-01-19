@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51F5q0ut+xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQWIKU1-de'
+slug: 'B01MQWIKU1-de Sex Gutscheine mit verschiedenen Stellungen für Paare  für sie & ihn  Liebesgutscheine/Sexy Love Coupons für Freund & Freundin  Männer & Frauen - Lustige Witzige Geschenke/Valentinstag Geschenk'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

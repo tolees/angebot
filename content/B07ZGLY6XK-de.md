@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rSxlVKHvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZGLY6XK-de'
+slug: 'B07ZGLY6XK-de TONGJI Acryl Vitrine Mit Beleuchtungsset Kompatibel Mit Lego 42110 Technic Land Rover Defender  Schaukasten Staubdicht Display Box  Beinhaltet Nicht das Modell  -52x30x32CM'
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FW1RlF4JL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075FVDLJK-de'
+slug: 'B075FVDLJK-de Norton Security Standard 2019 | 1 Gerät | 1 Jahr | PC/Mac/Android/iOS | Download  Aktivierungscode in Frustfreier Verpackung'
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

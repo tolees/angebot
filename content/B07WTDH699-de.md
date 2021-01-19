@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-7mJmG+cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WTDH699-de'
+slug: 'B07WTDH699-de Seiko Herren Analog Automatik Uhr mit Silikon Armband SRPD65K2'
 actualPrice: 193.0 EUR
 currency: EUR
 price: 193.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DfRq-1OKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000WL4TLS-de'
+slug: 'B000WL4TLS-de Maul Ferroband  Selbstklebende Magnethaft-Wandleiste aus Stahlblech  Größe 250 cm x 3 5 cm  Weiß'
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

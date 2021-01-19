@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P0zVDVUxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GND5TSJ-de'
+slug: 'B07GND5TSJ-de DJI - Smart Battery für Mavic 2 Pro und Mavic 2 Zoom | Flugzeiten Ihrer Drohne verlängern | Schützt vor Überlastung | Maximale Kapazität 59 29 Wh | Flugzeit 31 Minuten'
 actualPrice: 115.89 EUR
 currency: EUR
 price: 115.89

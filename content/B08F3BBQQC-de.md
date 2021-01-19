@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417g+T83ivL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F3BBQQC-de'
+slug: 'B08F3BBQQC-de DARLINGTON & Sohns Schwarzer Controller für Nintendo 64 N64 Joystick Schwarz Gamepad Joypad + Verlängerung Extansion Verlängerungskabel Gamepad'
 actualPrice: 17.75 EUR
 currency: EUR
 price: 17.75

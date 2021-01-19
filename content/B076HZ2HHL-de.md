@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KTwYdi4gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HZ2HHL-de'
+slug: 'B076HZ2HHL-de JVC KD-X351BT Digital-Media-Receiver mit Bluetooth-Freisprechfunktion und Audiostreaming schwarz'
 actualPrice: 65.18 EUR
 currency: EUR
 price: 65.18

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jahPlGUkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004A15HCG-de'
+slug: 'B004A15HCG-de Lico Mädchen Silverstar V Hallenschuhe  Weiß  WEISS/SILBER/LILA   32 EU'
 actualPrice: 20.23 EUR
 currency: EUR
 price: 20.23

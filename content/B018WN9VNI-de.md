@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jKEV0McbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018WN9VNI-de'
+slug: 'B018WN9VNI-de Samsung DA29-10105J HAFEX / EXP Wasserfilter für Samsung Kühlschrank  3 Stück  '
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

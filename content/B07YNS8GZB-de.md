@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51R-igApIlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YNS8GZB-de'
+slug: 'B07YNS8GZB-de Kitchen Diamonds Premium Tafelsticker-Set inkl. Stift - 136 Selbstklebende Küchen-Etiketten-Aufkleber in diversen Formen und Größen'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

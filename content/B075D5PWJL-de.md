@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51epDw2lPlL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075D5PWJL-de'
+slug: 'B075D5PWJL-de Britax Römer  BABY-SAFE PLUS SHR II Autositz Babyschale Geburt  13 kg  Gruppe 0+  wine rose'
 actualPrice: 122.01 EUR
 currency: EUR
 price: 122.01

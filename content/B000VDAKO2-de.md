@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uDf4nsjfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VDAKO2-de'
+slug: 'B000VDAKO2-de Kopp 565656001 Nautic Universalschalter  Aus-und Wechselschalter   grau'
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

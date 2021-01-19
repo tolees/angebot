@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519-ykF8ngL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01921EGIY-de'
+slug: 'B01921EGIY-de Funko 6371 No Actionfigur Tokyo Ghoul: Ken Kaneki'
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

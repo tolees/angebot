@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51by5tNUrSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FCDW8D3-de'
+slug: 'B07FCDW8D3-de ELEGIANT Fitness Armband  Fitness Tracker Pulsmesser Wasserdicht IP67 Smartwatch Schrittzähler Aktivitätstracker Pulsuhr Sportuhr Damen Herren Anruf SMS SNS Whatsapp Vibrationsalarm für iPhone Android'
 actualPrice: 11.23 EUR
 currency: EUR
 price: 11.23

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jnYyyGPWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DBYR4WZ-de'
+slug: 'B07DBYR4WZ-de PUMA Damen Vikky v2 Sneaker  Grau  Silver Gray-White Silver   40 EU'
 actualPrice: 30.06 EUR
 currency: EUR
 price: 30.06

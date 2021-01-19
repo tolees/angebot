@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vX39EYmxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081DPNV2P-de'
+slug: 'B081DPNV2P-de s.Oliver RED LABEL Beachwear LM Damen Cocina Bikini  blau-rot Bedruckt  42 C'
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

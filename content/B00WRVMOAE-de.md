@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tAjDepHAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WRVMOAE-de'
+slug: 'B00WRVMOAE-de Der Alte - Collector s Box Volume 18  Folgen 281 - 295  [5 DVDs]'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

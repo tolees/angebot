@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+c4iBKEIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GXOAD5O-de'
+slug: 'B00GXOAD5O-de POP! Vinyl 3779 Actionfigur Game of Thrones: Tyrion Lannister In Battle Armor  Multi'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

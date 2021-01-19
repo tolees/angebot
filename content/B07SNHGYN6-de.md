@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KrtRhmWTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SNHGYN6-de'
+slug: 'B07SNHGYN6-de SS&LL La basura del paso Puede Cubos de basura Con Tapas de Acero inoxidable papelera en casa & Baños de cocina oficina -O'
 actualPrice: 107.99 EUR
 currency: EUR
 price: 107.99

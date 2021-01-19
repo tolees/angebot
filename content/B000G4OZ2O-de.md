@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oTiMy7FGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000G4OZ2O-de'
+slug: 'B000G4OZ2O-de adidas Unisex-Erwachsene Mundial Team Fußballschuhe  Schwarz  Black/Running White Ftw/Red   41 1/3 EU'
 actualPrice: 50.7 EUR
 currency: EUR
 price: 50.7

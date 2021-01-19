@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gTPbG310L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGBD323-de'
+slug: 'B07WGBD323-de SevenPanda Airpods Hülle Tier  3D Niedlicher Cartoon Airpods Hülle Weiches Silikon Kopfhörer Cases  AirPods Hülle Schutzhülle für Apple Airpods 1st / 2nd Charging Case  Blauwal '
 actualPrice: 5.29 EUR
 currency: EUR
 price: 5.29

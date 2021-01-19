@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512825CBKcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQGKFPJ-de'
+slug: 'B07KQGKFPJ-de FURREAL Friends E4649EU4 FurReal Hector  Mein Wachhund-reagiert auf Bewegung  heult und bellt  Multicolor'
 actualPrice: 38.04 EUR
 currency: EUR
 price: 38.04

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4182HSlNgxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7JUT7R-de'
+slug: 'B01N7JUT7R-de Bref Power Kalk und Schmutz Reiniger  750 ml'
 actualPrice: 1.9 EUR
 currency: EUR
 price: 1.9

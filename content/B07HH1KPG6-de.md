@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YMVQvofXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HH1KPG6-de'
+slug: 'B07HH1KPG6-de Tommy Jeans Herren  Scanton   Slim Jeans Blau  Cobalt Light Bl St 911  W32/L34  Herstellergröße: 3432 '
 actualPrice: 56.94 EUR
 currency: EUR
 price: 56.94

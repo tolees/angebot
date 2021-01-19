@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4178LB20wYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HEHH7WA-de'
+slug: 'B01HEHH7WA-de Acer H6517ABD DLP Projektor  Full HD 1920 x 1080 Pixel  3200 ANSi Lumen  Kontrast 20.000:1 3D '
 actualPrice: 419.9 EUR
 currency: EUR
 price: 419.9

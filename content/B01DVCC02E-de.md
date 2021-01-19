@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ROTxHI60L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DVCC02E-de'
+slug: 'B01DVCC02E-de Bones - Season Ten [6 DVDs]'
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

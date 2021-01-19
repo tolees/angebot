@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YUfOZHUrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TYGKMAO-de'
+slug: 'B00TYGKMAO-de Whiskas 1 + Katzenfutter   Klassische Auswahl in Sauce  48 x 100g'
 actualPrice: 10.96 EUR
 currency: EUR
 price: 10.96

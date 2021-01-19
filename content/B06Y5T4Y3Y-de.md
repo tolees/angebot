@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31gTzwlHGpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y5T4Y3Y-de'
+slug: 'B06Y5T4Y3Y-de AKG K275 Geschlossener leichter Over-Ear-Studiokopfhörer zum Zusammenklappen'
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

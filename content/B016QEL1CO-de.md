@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414CyB5k5XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016QEL1CO-de'
+slug: 'B016QEL1CO-de Italian Fashion IF Damen Schlafanzug 194R 0223  Schwarz  S '
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

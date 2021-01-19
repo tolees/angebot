@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/518wE-j0fLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q78RT6N-de'
+slug: 'B07Q78RT6N-de bayala - das Spiel'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

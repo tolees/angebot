@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gA-WfJOAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001RM8BUG-de'
+slug: 'B001RM8BUG-de Panasonic LUMIX DMW-BCG10E Aufladbarer Li-Ion Akku  geeignet für LUMIX Digitalkameras  schwarz'
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

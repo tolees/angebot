@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41M9Bg3oSQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079NLCK5T-de'
+slug: 'B079NLCK5T-de TFA Dostmann Küchen-Chef Digitales Bratenthermometer/Grillthermometer Funk  2 Einstechfühler zur Messung der Ofen- und Kerntemperatur'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

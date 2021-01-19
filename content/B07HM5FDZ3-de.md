@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ysiN5k1eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HM5FDZ3-de'
+slug: 'B07HM5FDZ3-de Legacy Vinyl Box Set [Vinyl LP]'
 actualPrice: 134.26 EUR
 currency: EUR
 price: 134.26

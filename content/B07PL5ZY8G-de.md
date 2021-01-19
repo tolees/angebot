@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AQ+M7JkVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PL5ZY8G-de'
+slug: 'B07PL5ZY8G-de Park Tool PCS-10.2 Montageständer  blau  Einheitsgröße'
 actualPrice: 184.95 EUR
 currency: EUR
 price: 184.95

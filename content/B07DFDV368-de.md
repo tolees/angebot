@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41X2MqxX5TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFDV368-de'
+slug: 'B07DFDV368-de POP Lord of The Rings Legolas'
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

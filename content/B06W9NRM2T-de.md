@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519WF48AruL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W9NRM2T-de'
+slug: 'B06W9NRM2T-de Clementoni 59031 Galileo-Evolution Roboter'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

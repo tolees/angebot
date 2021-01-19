@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dLtJIsARL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076ZTBXNZ-de'
+slug: 'B076ZTBXNZ-de Belkin ScreenForce TemperedCurve Displayschutz  geeignet für iPhone XS/X '
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

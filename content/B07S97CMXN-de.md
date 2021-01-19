@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YZ5-FjdYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S97CMXN-de'
+slug: 'B07S97CMXN-de Ice-Watch - Ice Duo Chic Weiß marine - Damen wristwatch mit Silikonarmband - 017153  Small '
 actualPrice: 63.78 EUR
 currency: EUR
 price: 63.78

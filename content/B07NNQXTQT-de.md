@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51X-GEJoBSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNQXTQT-de'
+slug: 'B07NNQXTQT-de KLIM Ultimate + Laptop-RGB-Kühler- 11 bis 17 Zoll + Laptop-Gaming-Kühlung + Neuheit 2020 + USB-Lüfter + Stabil und leise + Mac- und PS4-kompatibel'
 actualPrice: 51.97 EUR
 currency: EUR
 price: 51.97

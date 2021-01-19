@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41grBwy0ihL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4SRQYH-de'
+slug: 'B07G4SRQYH-de Hugo Boss Damen Multi Zifferblatt Quarz Uhr mit Roségold Armband 1502443'
 actualPrice: 176.22 EUR
 currency: EUR
 price: 176.22

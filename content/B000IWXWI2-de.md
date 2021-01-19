@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ykzj7-BTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000IWXWI2-de'
+slug: 'B000IWXWI2-de Energizer Alkaline Batterie E23 A'
 actualPrice: 1.74 EUR
 currency: EUR
 price: 1.74
