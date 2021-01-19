@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sEasdfC1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRQ4SRM-de Kitchen Emperor Santokumesser  Küchenmesser  Kuechenmesser Scharfe Klinge  Prämie Rostfreier Stahl Chef Messer mit pakakaholzgriff'
+slug: 'B07HRQ4SRM-de Kitchen Emperor Santokumesser Küchenmesser Kuechenmesser...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

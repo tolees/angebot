@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51IIGJRdcNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004J8JZZA-de Ravensburger 20432 Schwarzer Peter - Schaf Kartenspiele  Mehrfarbig'
+slug: 'B004J8JZZA-de Ravensburger 20432 Schwarzer Peter - Schaf Kartenspiele...'
+tags: 
 actualPrice: 0.2 EUR
 currency: EUR
 price: 0.2

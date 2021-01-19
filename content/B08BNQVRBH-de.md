@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d7--zKBgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BNQVRBH-de Bluetooth Kopfhörer Kabellose Kopfhörer mit Premium Klangprofil Noise Cancelling 24 Stunden Akkulaufzeit Kabellose Ohrhörer IPX5 Wasserschutzklasse für iPhone Android in-Ear Kopfhörer'
+slug: 'B08BNQVRBH-de Bluetooth Kopfhörer Kabellose Kopfhörer mit Premium...'
+tags: 
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

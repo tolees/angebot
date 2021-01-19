@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XLTV71Y-de Diesel Smartwatch DZT2014'
+tags: 
 actualPrice: 219.3 EUR
 currency: EUR
 price: 219.3

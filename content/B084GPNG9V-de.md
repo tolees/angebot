@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fGA+ldjTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084GPNG9V-de SodaStream Sirup Pepsi Cola - 1x Flasche ergibt 9 Liter Fertiggetränk  Sekundenschnell zubereitet und immer frisch  440 ml'
+slug: 'B084GPNG9V-de SodaStream Sirup Pepsi Cola - 1x Flasche ergibt 9 Liter...'
+tags: 
 actualPrice: 3.79 EUR
 currency: EUR
 price: 3.79

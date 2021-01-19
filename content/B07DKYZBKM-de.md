@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKYZBKM-de Jump Force: Standard Edition - [PlayStation 4]'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-272ai3BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FZZVBNL-de Meetory Etikettenhalter aus Kunststoff transparent Preisschildhalter für Draht-Regale für Preisetiketten zur Waren-Beschilderung  6 cm x 4 cm 50 Stück'
+slug: 'B07FZZVBNL-de Meetory Etikettenhalter aus Kunststoff transparent...'
+tags: 
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

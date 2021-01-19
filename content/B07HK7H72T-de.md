@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ei0lC-vbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HK7H72T-de Apple Watch Series 4 GPS + Cellular  44mm Edelstahlgehäuse  Gold  mit Stone Sportarmband'
+slug: 'B07HK7H72T-de Apple Watch Series 4 GPS + Cellular 44mm Edelstahlgehäuse...'
+tags: 
 actualPrice: 527.35 EUR
 currency: EUR
 price: 527.35

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bmCUqF2uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WC1MXN7-de ECOVACS DEEBOT OZMO 950 Saug- & Wischroboter – 2-in-1 Staubsauger-Roboter mit Wischfunktion & intelligenter Navigation – Mit Google Home  Alexa- & App-Steuerung'
+slug: 'B07WC1MXN7-de ECOVACS DEEBOT OZMO 950 Saug- & Wischroboter – 2-in-1...'
+tags: 
 actualPrice: 454.9 EUR
 currency: EUR
 price: 454.9

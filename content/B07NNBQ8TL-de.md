@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wWiY4FfgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNBQ8TL-de Panasonic RP-HF410BE-W Bluetooth Kopfhörer  24 h Akkulaufzeit  Quick-Charge  Sprachsteuerung  On-Ear  leichte Kopfhörer faltbar  weiß'
+slug: 'B07NNBQ8TL-de Panasonic RP-HF410BE-W Bluetooth Kopfhörer 24 h...'
+tags: 
 actualPrice: 30.26 EUR
 currency: EUR
 price: 30.26

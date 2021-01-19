@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xH+bZUeyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002CMSOFW-de Mantona Colt DSLR Kamera Tasche für Spiegelreflex  SLR  Kompaktkamera  Systemkamera  Schultertasche Umhängetasche mit Platz für Zubehör  wasserdicht'
+slug: 'B002CMSOFW-de Mantona Colt DSLR Kamera Tasche für Spiegelreflex SLR...'
+tags: 
 actualPrice: 15.82 EUR
 currency: EUR
 price: 15.82

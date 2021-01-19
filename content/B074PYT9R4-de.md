@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iPOFV7cmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PYT9R4-de OSRAM Smart+ Mini Switch Weiß  ZigBee Lichtschalter  Dimmer und Fernbedienung für LED Lampen  Erweiterung für Ihr Smart Home'
+slug: 'B074PYT9R4-de OSRAM Smart+ Mini Switch Weiß ZigBee Lichtschalter Dimmer...'
+tags: 
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

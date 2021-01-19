@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I1XS3WK-de Motorola Handy Akku Original kompatible Mobiltelefone'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

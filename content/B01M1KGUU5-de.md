@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XEJTkeGbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M1KGUU5-de Fitbit Special Edition Alta Fitness-Armband  Rosa/Gold  L'
+slug: 'B01M1KGUU5-de Fitbit Special Edition Alta Fitness-Armband Rosa/Gold L'
+tags: 
 actualPrice: 67.89 EUR
 currency: EUR
 price: 67.89

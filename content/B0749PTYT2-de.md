@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51hPJ6NL8sL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0749PTYT2-de AmazonBasics - Terassenstuhl  5-Stufen verstellbar  Doppelpack'
+slug: 'B0749PTYT2-de AmazonBasics - Terassenstuhl 5-Stufen verstellbar Doppelpack'
+tags: 
 actualPrice: 65 EUR
 currency: EUR
 price: 65

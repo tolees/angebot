@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61snaKu5S4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CKQNWKQ-de WIN.MAX Dartpfeile 12 Stück Steel Darts Pfeile Set 24 Gramm Profi Steeldarts mit Metallspitze Darts Steel dartpfeil Dart Aluminium Schaft 30 Flights 50 Anti-Lose Gummiringe Steeldarts  12 Stück '
+slug: 'B07CKQNWKQ-de WIN.MAX Dartpfeile 12 Stück Steel Darts Pfeile Set 24...'
+tags: 
 actualPrice: 12.3 EUR
 currency: EUR
 price: 12.3

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4121yzn9Z2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B1HVI4I-de Belkin Dual KfZ-Ladegerät  2.1A  10 Watt  geeignet für iPhone 5/5c/5s  iPhone 6/6s/6 Plus/6s Plus  iPhone 7/7 Plus  iPhone SE  iPad Air 2  iPad Pro  schwarz'
+slug: 'B00B1HVI4I-de Belkin Dual KfZ-Ladegerät 2.1A 10 Watt geeignet für iPhone...'
+tags: 
 actualPrice: 23.91 EUR
 currency: EUR
 price: 23.91

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L2xccvfkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CK88CYD-de Arbily 【2020 Neues Upgrade】 Bluetooth Kopfhörer In Ear  Kopfhörer Kabellos mit Verstärkten Bass  Wireless Kopfhörer Sport mit LED Digitalanzeige  4 Mikrofone  Touch Control  140 Std. Spielzeit  IPX7'
+slug: 'B08CK88CYD-de Arbily 【2020 Neues Upgrade】 Bluetooth Kopfhörer In Ear...'
+tags: 
 actualPrice: 36.54 EUR
 currency: EUR
 price: 36.54

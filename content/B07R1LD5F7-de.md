@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519CZMD0joL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R1LD5F7-de Briksmax Led Beleuchtungsset für Creator Palace Cinema  Kompatibel Mit Lego 10232 Bausteinen Modell - Ohne Lego Set'
+slug: 'B07R1LD5F7-de Briksmax Led Beleuchtungsset für Creator Palace Cinema...'
+tags: 
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PECDImjJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BMD8R2G-de Eizo CS2420 61 cm  24 Zoll  Grafik Monitor  DisplayPort  DVI-D  HDMI  Auflösung 1920 x 1200  schwarz'
+slug: 'B01BMD8R2G-de Eizo CS2420 61 cm 24 Zoll Grafik Monitor DisplayPort DVI-D...'
+tags: 
 actualPrice: 393.0 EUR
 currency: EUR
 price: 393.0

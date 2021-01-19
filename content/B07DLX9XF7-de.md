@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UKqG8n6YL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLX9XF7-de SAMSONITE PRO-DLX 5 - Spinner Tote for 15.6   Laptop - 3.3 KG Reise-Henkeltasche  Schwarz'
+slug: 'B07DLX9XF7-de SAMSONITE PRO-DLX 5 - Spinner Tote for 15.6 Laptop - 3.3...'
+tags: 
 actualPrice: 233.06 EUR
 currency: EUR
 price: 233.06

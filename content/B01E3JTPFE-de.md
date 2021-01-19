@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z-aTeWjkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E3JTPFE-de Bang & Olufsen BeoPlay S3 Bluetooth-Lautsprecher  schwarz'
+slug: 'B01E3JTPFE-de Bang & Olufsen BeoPlay S3 Bluetooth-Lautsprecher schwarz'
+tags: 
 actualPrice: 146.68 EUR
 currency: EUR
 price: 146.68

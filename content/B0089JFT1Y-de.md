@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31j0BPaPqbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0089JFT1Y-de Silikomart 196371 Eisform Classic Mini  4er-Form'
+slug: 'B0089JFT1Y-de Silikomart 196371 Eisform Classic Mini 4er-Form'
+tags: 
 actualPrice: 10.36 EUR
 currency: EUR
 price: 10.36

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41clAYomfkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWPDBSM-de TOM TAILOR Herren Jeanshosen Marvin Straight Jeans Dark Stone wash Denim 32/32 10282 6000'
+slug: 'B07KWPDBSM-de TOM TAILOR Herren Jeanshosen Marvin Straight Jeans Dark...'
+tags: 
 actualPrice: 37.69 EUR
 currency: EUR
 price: 37.69

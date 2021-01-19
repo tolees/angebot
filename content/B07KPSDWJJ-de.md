@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41u4inPXF5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPSDWJJ-de Funko 36890 POP Vinyl: NBA: Bulls: Michael Jordan Sammelbares Spielzeug  Mehrfarben'
+slug: 'B07KPSDWJJ-de Funko 36890 POP Vinyl: NBA: Bulls: Michael Jordan...'
+tags: 
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

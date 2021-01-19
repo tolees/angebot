@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IVZCTawLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009TZE41I-de D-Link GO-SW-5G 5-Port Gigabit Easy Desktop Switch  10/100/1000 Mbit/s  automatische MDI/MDIX-Erkennung  weiß'
+slug: 'B009TZE41I-de D-Link GO-SW-5G 5-Port Gigabit Easy Desktop Switch...'
+tags: 
 actualPrice: 12.66 EUR
 currency: EUR
 price: 12.66

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31QLv+sgqlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007UZPP94-de Lacoste Herren Sport  Poloshirt L1230-00  Einfarbig  Gr. XX-Large  Herstellergröße: 54  T7   Schwarz  031 NOIR '
+slug: 'B007UZPP94-de Lacoste Herren Sport Poloshirt L1230-00 Einfarbig Gr. XX-...'
+tags: 
 actualPrice: 40.95 EUR
 currency: EUR
 price: 40.95

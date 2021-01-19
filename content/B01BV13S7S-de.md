@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31C-IL94RZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BV13S7S-de Seagate Game Drive für Xbox  tragbare externe Festplatte  4 TB  2.5 Zoll  USB 3.0  Xbox  ModelNr.: STEA4000402'
+slug: 'B01BV13S7S-de Seagate Game Drive für Xbox tragbare externe Festplatte 4...'
+tags: 
 actualPrice: 112.99 EUR
 currency: EUR
 price: 112.99

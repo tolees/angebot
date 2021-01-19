@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Dln-lQNvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2Z5DIY-de Samsung Galaxy A3  2017  Smartphone  12 04 cm  4 7 Zoll  Touch-Display  16 GB Speicher  Android 6.0  schwarz'
+slug: 'B01N2Z5DIY-de Samsung Galaxy A3 2017 Smartphone 12 04 cm 4 7 Zoll Touch-...'
+tags: 
 actualPrice: 219.95 EUR
 currency: EUR
 price: 219.95

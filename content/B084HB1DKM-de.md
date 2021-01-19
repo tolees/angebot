@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qM-D0fwQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084HB1DKM-de Samsung Sound Tower Lautsprecher MX-T70  Bluetooth  2.1-Kanal-System  Bass Booster  Karaoke-Modus'
+slug: 'B084HB1DKM-de Samsung Sound Tower Lautsprecher MX-T70 Bluetooth...'
+tags: 
 actualPrice: 399.97 EUR
 currency: EUR
 price: 399.97

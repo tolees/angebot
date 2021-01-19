@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41U34C3nhNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRRVBXQ-de Ergonomischer Dreikant-Bleistift für Rechtshänder -  STABILO EASYgraph in grün - Härtegrad HB - 2er Pack'
+slug: 'B01MRRVBXQ-de Ergonomischer Dreikant-Bleistift für Rechtshänder -...'
+tags: 
 actualPrice: 3.94 EUR
 currency: EUR
 price: 3.94

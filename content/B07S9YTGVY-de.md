@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MBHpF0QQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9YTGVY-de GODNECE LED Licht-Set für Baustein  Led Beleuchtungsset Licht-Set für Baustein Spielzeug Kompatibel Mit Lego Ideas 21302 - The Big Bang Theory Bausatz Modell Nicht Enthalten '
+slug: 'B07S9YTGVY-de GODNECE LED Licht-Set für Baustein Led Beleuchtungsset...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

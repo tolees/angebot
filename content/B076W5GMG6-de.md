@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kaXfxSypL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076W5GMG6-de Pepe Jeans Damen Jeans Soho  Blau  D26   29W/30L'
+slug: 'B076W5GMG6-de Pepe Jeans Damen Jeans Soho Blau D26 29W/30L'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

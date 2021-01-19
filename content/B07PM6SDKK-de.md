@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21W0sk-yaML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PM6SDKK-de Samsung RB8000 RL36R8739S9/EG Kühl-/Gefrierkombination  202 cm  A++  357 L  Premium Edelstahl Look  Kitchen Fit  Cool Select Plus  Grifflicht'
+slug: 'B07PM6SDKK-de Samsung RB8000 RL36R8739S9/EG Kühl-/Gefrierkombination 202...'
+tags: 
 actualPrice: 687.45 EUR
 currency: EUR
 price: 687.45

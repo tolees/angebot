@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xLtnh0tGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F3P72JT-de DARLINGTON & Sohns Blauer Controller für Nintendo 64 N64 Joystick Blau Gamepad Joypad + Verlängerung Extansion Verlängerungskabel Gamepad'
+slug: 'B08F3P72JT-de DARLINGTON & Sohns Blauer Controller für Nintendo 64 N64...'
+tags: 
 actualPrice: 17.75 EUR
 currency: EUR
 price: 17.75

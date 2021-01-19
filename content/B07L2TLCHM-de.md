@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+I1MRaASL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L2TLCHM-de MCleanPin 2 x 500ml Edelstahlbecher "Mr. Right & Mrs. Always Right" Tassen Set Hochzeitsgeschenke Paare Geschenke für Hochzeit Valentinstag Stapelbare Trink Gläser Camping'
+slug: 'B07L2TLCHM-de MCleanPin 2 x 500ml Edelstahlbecher "Mr. Right & Mrs....'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

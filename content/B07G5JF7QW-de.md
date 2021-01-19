@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dLSYYE3mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G5JF7QW-de Canon PIXMA TS6250 Drucker Farbtintenstrahl Multifunktionsgerät DIN A4  Scanner  Kopierer  Touchscreen  4.800 x 1.200 dpi  USB  WLAN  5 separate Tinten  Duplexdruck  2 Papierzuführungen  schwarz'
+slug: 'B07G5JF7QW-de Canon PIXMA TS6250 Drucker Farbtintenstrahl...'
+tags: 
 actualPrice: 98.26 EUR
 currency: EUR
 price: 98.26

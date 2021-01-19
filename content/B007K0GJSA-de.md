@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XpqGRXmXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007K0GJSA-de Spiegelau & Nachtmann Longdrinkgläser  Glas  durchsichtig'
+slug: 'B007K0GJSA-de Spiegelau & Nachtmann Longdrinkgläser Glas durchsichtig'
+tags: 
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

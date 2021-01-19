@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/212eFti-9oL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PV97J2Q-de NextBase S2RFCZ Rückfahrkamera Blickwinkel horizontal max.=30° Passend 322GW  422GW '
+slug: 'B07PV97J2Q-de NextBase S2RFCZ Rückfahrkamera Blickwinkel horizontal...'
+tags: 
 actualPrice: 58.06 EUR
 currency: EUR
 price: 58.06

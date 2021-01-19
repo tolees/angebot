@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L4V+1kcNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015GM3U1M-de Ice-Watch - ICE glitter Black Rose-Gold - Women s wristwatch with silicon strap - 001346  Small '
+slug: 'B015GM3U1M-de Ice-Watch - ICE glitter Black Rose-Gold - Women s...'
+tags: 
 actualPrice: 56.3 EUR
 currency: EUR
 price: 56.3

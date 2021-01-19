@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417-yGKaX6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000WQZ5PC-de Yankee Candle große Duftkerze im Glas  Lemon Lavender  Brenndauer bis zu 150 Stunden'
+slug: 'B000WQZ5PC-de Yankee Candle große Duftkerze im Glas Lemon Lavender...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

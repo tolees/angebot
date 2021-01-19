@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51j548fHO0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KR34ZM4-de LIGHTAILING Licht-Set Für  Alter Angelladen  Modell - LED Licht-Set Kompatibel Mit Lego 21310 Modell Nicht Enthalten '
+slug: 'B07KR34ZM4-de LIGHTAILING Licht-Set Für Alter Angelladen Modell - LED...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

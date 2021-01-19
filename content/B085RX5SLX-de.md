@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41V-42EDlbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085RX5SLX-de ColiCor Display Halterung DIY Vertikales Ständer für Lego Star Wars 75257 Millennium Falcon'
+slug: 'B085RX5SLX-de ColiCor Display Halterung DIY Vertikales Ständer für Lego...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

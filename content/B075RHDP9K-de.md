@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418pPicToqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075RHDP9K-de GORE Wear C3 kurze Herren Hose  XXL  Schwarz'
+slug: 'B075RHDP9K-de GORE Wear C3 kurze Herren Hose XXL Schwarz'
+tags: 
 actualPrice: 65.76 EUR
 currency: EUR
 price: 65.76

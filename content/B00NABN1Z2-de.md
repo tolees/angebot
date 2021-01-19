@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31V3NBw4UZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NABN1Z2-de WMF Stelio Eierkocher  für 1-7 Eier  350 W  mit Härtegradeinstellung  Eierhalter  Messbecher mit Eipick  edelstahl matt'
+slug: 'B00NABN1Z2-de WMF Stelio Eierkocher für 1-7 Eier 350 W mit...'
+tags: 
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

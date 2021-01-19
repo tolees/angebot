@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dUB03jzWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P9TCT78-de Playmobil 70198 City Life Beim Facharzt: Zahnarzt  ab 4 Jahren  bunt  one Size'
+slug: 'B07P9TCT78-de Playmobil 70198 City Life Beim Facharzt: Zahnarzt ab 4...'
+tags: 
 actualPrice: 9.08 EUR
 currency: EUR
 price: 9.08

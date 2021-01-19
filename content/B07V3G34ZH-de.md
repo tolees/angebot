@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-pnePgSPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3G34ZH-de Bluetooth Headset 0.3 Unzen Wasserdicht Dual CVC 8.0 Rauschunterdrückung Mikrofon Bloothooth 5.0 Kabellos In-Ear Ohrhörer Hands Free Funk Kopfhörer für Fahren iPhone Samsung Huawei Handy von Samnyte…'
+slug: 'B07V3G34ZH-de Bluetooth Headset 0.3 Unzen Wasserdicht Dual CVC 8.0...'
+tags: 
 actualPrice: 18.77 EUR
 currency: EUR
 price: 18.77

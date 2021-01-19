@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-aPXB6daL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H9VBM29-de SanDisk Extreme PRO 512GB SDXC Speicherkarte bis zu 170 MB/s  Class 10  U3  V30'
+slug: 'B07H9VBM29-de SanDisk Extreme PRO 512GB SDXC Speicherkarte bis zu 170...'
+tags: 
 actualPrice: 142.99 EUR
 currency: EUR
 price: 142.99

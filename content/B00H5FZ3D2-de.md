@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412bTokGZ-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00H5FZ3D2-de SEVERIN SV 2447 Sous-Vide Garer  6 L Fassungsvermögen  Timer  edelstahl/schwarz'
+slug: 'B00H5FZ3D2-de SEVERIN SV 2447 Sous-Vide Garer 6 L Fassungsvermögen Timer...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

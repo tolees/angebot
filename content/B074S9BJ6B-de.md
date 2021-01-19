@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fcY8e6F5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074S9BJ6B-de Shiatsu-Rücken Schulter- und Nackenmassagegerät mit Wärme - Knetkissen- Massagegerät für Nacken  Rücken  Schultern  Fuß  Beine - elektrische Ganzkörpermassage - Massagekissen'
+slug: 'B074S9BJ6B-de Shiatsu-Rücken Schulter- und Nackenmassagegerät mit Wärme...'
+tags: 
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

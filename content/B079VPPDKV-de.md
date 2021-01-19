@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31kZpBdj82L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079VPPDKV-de Ladeheid Herren Schmale Fliege M  12cm x 6cm   Amarant  12cm x 6cm'
+slug: 'B079VPPDKV-de Ladeheid Herren Schmale Fliege M 12cm x 6cm Amarant 12cm x...'
+tags: 
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

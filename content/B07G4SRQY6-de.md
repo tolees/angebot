@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oSLuR7w0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4SRQY6-de Tommy Hilfiger Damen Multi Zifferblatt Quarz Uhr mit Roségold Armband 1781944'
+slug: 'B07G4SRQY6-de Tommy Hilfiger Damen Multi Zifferblatt Quarz Uhr mit...'
+tags: 
 actualPrice: 104.77 EUR
 currency: EUR
 price: 104.77

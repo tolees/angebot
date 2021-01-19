@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Cs2F9FU9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006IBNJ1C-de Bodum assam Teebereiter  French Press System  Permanent Edelstahlfilter   1 0 liters schwarz'
+slug: 'B006IBNJ1C-de Bodum assam Teebereiter French Press System Permanent...'
+tags: 
 actualPrice: 28.45 EUR
 currency: EUR
 price: 28.45

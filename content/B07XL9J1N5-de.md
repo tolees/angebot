@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21lj1K12xaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XL9J1N5-de Krups Nespresso XN110E Essenza Mini kompakte Kaffee-Kapselmaschine  1260 Watt  19 bar Pumpendruck  automatische Abschaltung  Silber'
+slug: 'B07XL9J1N5-de Krups Nespresso XN110E Essenza Mini kompakte Kaffee-...'
+tags: 
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

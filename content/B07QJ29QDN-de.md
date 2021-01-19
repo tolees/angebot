@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pCTcOx-mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJ29QDN-de Funko 42064 POP Bobble Vinyl Mandalorian-IG-11 Star Wars The Mandalorian IG-11 Sammelbares Spielzeug  Mehrfarben'
+slug: 'B07QJ29QDN-de Funko 42064 POP Bobble Vinyl Mandalorian-IG-11 Star Wars...'
+tags: 
 actualPrice: 9.78 EUR
 currency: EUR
 price: 9.78

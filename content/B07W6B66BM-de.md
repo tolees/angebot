@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+n1mpNFPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6B66BM-de Pepsi Max  Das zuckerfreie Erfrischungsgetränk von Pepsi ohne Kalorien  Koffeinhaltige Cola in der Dose  24 x 0 33l '
+slug: 'B07W6B66BM-de Pepsi Max Das zuckerfreie Erfrischungsgetränk von Pepsi...'
+tags: 
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

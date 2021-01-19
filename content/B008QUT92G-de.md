@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415yt0Q1mrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008QUT92G-de TAURO 22914 7 Zonen Lattenrost  90 x 200 cm  Geeignet für alle Matratzen  Kopfteil verstellbar  Komfort Lattenrost mit 28 Leisten'
+slug: 'B008QUT92G-de TAURO 22914 7 Zonen Lattenrost 90 x 200 cm Geeignet für...'
+tags: 
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

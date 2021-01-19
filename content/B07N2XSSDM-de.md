@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LKfDktIWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N2XSSDM-de SID & VAIN Laptop Messenger Bag echt Leder Spencer XL groß Businesstasche 15" Laptoptasche Umhängetasche Laptopfach Ledertasche Herren braun'
+slug: 'B07N2XSSDM-de SID & VAIN Laptop Messenger Bag echt Leder Spencer XL groß...'
+tags: 
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

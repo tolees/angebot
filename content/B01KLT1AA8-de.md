@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KLT1AA8-de Skagen Unisex Hybrid Smartwatch SKT1104'
+tags: 
 actualPrice: 119.4 EUR
 currency: EUR
 price: 119.4

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zlpbVVrqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WARZZQK-de Der dritte Mann  Digital Remastered  2 Discs  [Special Edition]'
+slug: 'B00WARZZQK-de Der dritte Mann Digital Remastered 2 Discs [Special Edition]'
+tags: 
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

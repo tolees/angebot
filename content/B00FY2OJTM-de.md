@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dv6Lqri0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FY2OJTM-de Thule Baby mit QR Achskupplung  silber  One Size'
+slug: 'B00FY2OJTM-de Thule Baby mit QR Achskupplung silber One Size'
+tags: 
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

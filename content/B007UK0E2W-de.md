@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Sce3P1f0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007UK0E2W-de Intenso Micro SDHC 32GB Class 4 Speicherkarte inkl. SD-Adapter'
+slug: 'B007UK0E2W-de Intenso Micro SDHC 32GB Class 4 Speicherkarte inkl. SD-...'
+tags: 
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

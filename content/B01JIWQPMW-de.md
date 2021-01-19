@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wozazJiBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JIWQPMW-de Anker PowerCore 26800mAh Power Bank Externer Akku mit Dual Input Ladeport  Doppelt so Schnell Wiederaufladbar  3 USB Ports für iPhone XR/XS/X / 8 / 8Plus / 7  Samsung Galaxy und weitere  Schwarz '
+slug: 'B01JIWQPMW-de Anker PowerCore 26800mAh Power Bank Externer Akku mit Dual...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41B+FXCBkrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6YDT5Z-de Krups XN304T Kaffeemaschine Freistehende Espressomaschine Titan 0 7 L 1 Tassen'
+slug: 'B07P6YDT5Z-de Krups XN304T Kaffeemaschine Freistehende Espressomaschine...'
+tags: 
 actualPrice: 88.99 EUR
 currency: EUR
 price: 88.99

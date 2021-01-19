@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ia7IBKenL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MU31H1P-de Sony Digitalkamera DSC-HX350 Bridge-Kamera mit 50-fach optischem Zoom  Exmor R Sensor  Carl Zeiss Vario-Sonnar Weitwinkelobjektiv 24-1200 mm  Full HD Video  7 5 cm  3 Zoll  Display  schwarz'
+slug: 'B01MU31H1P-de Sony Digitalkamera DSC-HX350 Bridge-Kamera mit 50-fach...'
+tags: 
 actualPrice: 286.99 EUR
 currency: EUR
 price: 286.99

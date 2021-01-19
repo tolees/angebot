@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412-43rIS7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007VUWUQY-de ECCO Damen Offroad Sport- & Outdoor Sandalen  Blau  57807medieval/wild Dove   38 EU'
+slug: 'B007VUWUQY-de ECCO Damen Offroad Sport- & Outdoor Sandalen Blau...'
+tags: 
 actualPrice: 55.28 EUR
 currency: EUR
 price: 55.28

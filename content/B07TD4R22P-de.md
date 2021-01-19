@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MSRa8oHuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TD4R22P-de LIGHTAILING Licht-Set Für  Architecture Paris  Modell - LED Licht-Set Kompatibel Mit Lego 21044 Modell Nicht Enthalten '
+slug: 'B07TD4R22P-de LIGHTAILING Licht-Set Für Architecture Paris Modell - LED...'
+tags: 
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

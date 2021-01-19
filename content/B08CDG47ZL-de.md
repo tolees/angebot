@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418B8zB7uDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CDG47ZL-de N/P WLAN Stick Adapter USB WiFi Antenne PC Dongle 5GHz/867Mbps 2.4GHz/300Mbps Dual Band 5dBi Netzwerk für Desktop Laptop Windows XP/Vista/7/8/10 MAC OS mit Verlängerungskabel'
+slug: 'B08CDG47ZL-de N/P WLAN Stick Adapter USB WiFi Antenne PC Dongle...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

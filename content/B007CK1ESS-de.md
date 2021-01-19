@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zR-oNSdHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007CK1ESS-de NUK Babyphone mit Kamera Eco Control+ Video  mit Gegensprechfunktion & Temperatursensor  frei von hochfrequenter Strahlung im Eco-Mode'
+slug: 'B007CK1ESS-de NUK Babyphone mit Kamera Eco Control+ Video mit...'
+tags: 
 actualPrice: 133.68 EUR
 currency: EUR
 price: 133.68

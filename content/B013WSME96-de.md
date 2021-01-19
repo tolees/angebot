@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L1mgRVyxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013WSME96-de Sony Xperia Z5 Smartphone  5 2 Zoll  13 2 cm  Touch-Display  32 GB interner Speicher  Android 6.0  silber'
+slug: 'B013WSME96-de Sony Xperia Z5 Smartphone 5 2 Zoll 13 2 cm Touch-Display...'
+tags: 
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

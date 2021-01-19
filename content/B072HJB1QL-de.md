@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414aMgfZiwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072HJB1QL-de Schiesser Herren Anzug Kurz Zweiteiliger Schlafanzug  Blau  Dunkelblau 803   XXXXX-Large'
+slug: 'B072HJB1QL-de Schiesser Herren Anzug Kurz Zweiteiliger Schlafanzug Blau...'
+tags: 
 actualPrice: 38.85 EUR
 currency: EUR
 price: 38.85

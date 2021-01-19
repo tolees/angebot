@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cHEitM72L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073WZFMF5-de Emporio Armani Herren Chronograph Quarz Smart Watch Armbanduhr mit Edelstahl Armband ART3007'
+slug: 'B073WZFMF5-de Emporio Armani Herren Chronograph Quarz Smart Watch...'
+tags: 
 actualPrice: 186.75 EUR
 currency: EUR
 price: 186.75

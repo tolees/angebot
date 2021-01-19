@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51inCfO2HdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CZYOFAY-de Hasbro Nerf B8086EU4 - N-Strike Elite Mega Mastodon  Spielzeugblaster'
+slug: 'B01CZYOFAY-de Hasbro Nerf B8086EU4 - N-Strike Elite Mega Mastodon...'
+tags: 
 actualPrice: 73.6 EUR
 currency: EUR
 price: 73.6

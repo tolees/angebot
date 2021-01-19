@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jIi7S5FIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089LNM5HP-de Portable Monitor - Corprit 15 6 Zoll Tragbarer Monitor 1920X1080 Full HD USB-C Monitor mit IPS Bildschirm USB-C/Mini-HDMI für PC  Handy  PS4 usw  Xbox  mit Schutzhülle'
+slug: 'B089LNM5HP-de Portable Monitor - Corprit 15 6 Zoll Tragbarer Monitor...'
+tags: 
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

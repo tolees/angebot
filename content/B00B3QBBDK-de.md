@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B3QBBDK-de Citizen Herren Analog Quarz Uhr mit Leder Armband BM8476-07EE'
+tags: 
 actualPrice: 90.86 EUR
 currency: EUR
 price: 90.86

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014HOL1TI-de Jumbo Spiele 12163 12163-Rubik s Cube-3x3'
+tags: 
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

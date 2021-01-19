@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mah-3duhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K47HCQS-de Krups HZ4071 Perfect Mix 9000 Pro Stabmixer | inklusive 4 Zubehör | 1.000W | 25 Geschwindigkeiten + Turbostufe | Edelstahlfuß | 4 Messer | Zerkleinerer | Schneebesen | Kartoffelstampfer | Silber'
+slug: 'B01K47HCQS-de Krups HZ4071 Perfect Mix 9000 Pro Stabmixer | inklusive 4...'
+tags: 
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

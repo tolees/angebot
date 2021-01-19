@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ny9mp8YUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNXZ9QB-de Dyson V7 Cord Free Beutel- und kabelloser Handstaubsauger  inkl. Elektrobürste mit Direktantrieb  Fugendüse und Kombidüse  mit Nickel-Mangan-Cobalt Akku  Wandhalterung und Ladestation '
+slug: 'B07DNXZ9QB-de Dyson V7 Cord Free Beutel- und kabelloser Handstaubsauger...'
+tags: 
 actualPrice: 247.66 EUR
 currency: EUR
 price: 247.66

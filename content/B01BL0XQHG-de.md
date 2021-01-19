@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BL0XQHG-de 5 Original Albums'
+tags: 
 actualPrice: 6.68 EUR
 currency: EUR
 price: 6.68

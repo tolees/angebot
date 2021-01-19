@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e5Mv8oFQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4FRF9J-de Tommy Hilfiger Damen Multi Zifferblatt Quarz Uhr mit Edelstahl Armband 1781945'
+slug: 'B07G4FRF9J-de Tommy Hilfiger Damen Multi Zifferblatt Quarz Uhr mit...'
+tags: 
 actualPrice: 108.69 EUR
 currency: EUR
 price: 108.69

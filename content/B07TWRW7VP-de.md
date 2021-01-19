@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qR8-qIIHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWRW7VP-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Darth Vader s Castle  Kompatibel Mit Lego 75251 Bausteinen Modell - Ohne Lego Set'
+slug: 'B07TWRW7VP-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Darth...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

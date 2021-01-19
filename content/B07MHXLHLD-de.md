@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vdPJguF1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MHXLHLD-de Funko 39048 POP Vinyl: Games: Fortnite: Loot Lama Sammelbares Spielzeug  Mehrfarben'
+slug: 'B07MHXLHLD-de Funko 39048 POP Vinyl: Games: Fortnite: Loot Lama...'
+tags: 
 actualPrice: 8.87 EUR
 currency: EUR
 price: 8.87

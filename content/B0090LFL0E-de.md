@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aN+VVHifL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0090LFL0E-de Nintendo Wii U - Konsole  Premium Pack  32 GB  schwarz mit Nintendo Land'
+slug: 'B0090LFL0E-de Nintendo Wii U - Konsole Premium Pack 32 GB schwarz mit...'
+tags: 
 actualPrice: 129.95 EUR
 currency: EUR
 price: 129.95

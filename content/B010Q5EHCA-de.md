@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AjIhwJKnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010Q5EHCA-de Panasonic H-FS1442AEKA LUMIX G Vario Stardzoom 14-42 mm F3.5-5.6 II ASPH. Objektiv  28-44 mm KB  O.I.S. Bildstabilisator  schwarz'
+slug: 'B010Q5EHCA-de Panasonic H-FS1442AEKA LUMIX G Vario Stardzoom 14-42 mm...'
+tags: 
 actualPrice: 176.63 EUR
 currency: EUR
 price: 176.63

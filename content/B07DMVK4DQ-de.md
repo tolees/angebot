@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UGXuJhHIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DMVK4DQ-de Hilitand hivetool flach Extralanges 390 mm für zuführungstechnologien Reinigung des Bienenzucht-Team der Bienenstock'
+slug: 'B07DMVK4DQ-de Hilitand hivetool flach Extralanges 390 mm für...'
+tags: 
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

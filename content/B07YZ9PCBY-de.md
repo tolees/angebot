@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gObdB2uzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YZ9PCBY-de NIVEA Pflegedusche Love Splash  250 ml   erfrischendes Duschgel mit natürlichen Meeresmineralien  pH-hautneutrale Dusche mit ozeanfrischem Duft'
+slug: 'B07YZ9PCBY-de NIVEA Pflegedusche Love Splash 250 ml erfrischendes...'
+tags: 
 actualPrice: 1.06 EUR
 currency: EUR
 price: 1.06

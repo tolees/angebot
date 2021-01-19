@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nHODJ+W8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y4S8QKQ-de ACEPC T11 Mini-PC Windows 10 Pro  4GB DDR3/ 64GB eMMC/ 120GB SSD Intel Atom x5-Z8350 Lüfterloser Mini-Computer  Unterstützung von 4K HD  2.4/ 5G WLAN  Gigabit Ethernet  HDMI/VGA Ausgang'
+slug: 'B07Y4S8QKQ-de ACEPC T11 Mini-PC Windows 10 Pro 4GB DDR3/ 64GB eMMC/...'
+tags: 
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

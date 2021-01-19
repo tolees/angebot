@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Zs4-psMHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCEIPNM-de BRITA Wasserfilter Marella weiß inkl. 1 MAXTRA+ Filterkartusche – BRITA Filter zur Reduzierung von Kalk  Chlor & geschmacksstörenden Stoffen im Wasser'
+slug: 'B01NCEIPNM-de BRITA Wasserfilter Marella weiß inkl. 1 MAXTRA+...'
+tags: 
 actualPrice: 12.14 EUR
 currency: EUR
 price: 12.14

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PAV4PKa6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZTP2JE-de Samsung WW70K4420YW/EG AddWash Waschmaschine Frontlader/A+++/1400UpM/7 kg/AddWash/SmartCheck/weiß'
+slug: 'B01LZTP2JE-de Samsung WW70K4420YW/EG AddWash Waschmaschine...'
+tags: 
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

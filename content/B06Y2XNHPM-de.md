@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RzZ9J0I7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y2XNHPM-de New Balance Herren 574v2 Core Sneaker  Blau  Navy   37.5 EU'
+slug: 'B06Y2XNHPM-de New Balance Herren 574v2 Core Sneaker Blau Navy 37.5 EU'
+tags: 
 actualPrice: 34.93 EUR
 currency: EUR
 price: 34.93

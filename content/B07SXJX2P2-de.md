@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lE+rv8i9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SXJX2P2-de Duschkopf  DALMO DCH01Y Wassersparende Handbrause mit 1.5 m Schlauch und Halterung  3 Strahlarten für Großes Duschvergnügen  Verchromte Duschbrause mit Antikalk-Funktion  Leicht zu Reinigen'
+slug: 'B07SXJX2P2-de Duschkopf DALMO DCH01Y Wassersparende Handbrause mit 1.5 m...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

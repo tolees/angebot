@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d8a3NjY6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008XI79XW-de Bosch Dampfbügeleisen TDA503001P sparsame eco Dampfstufe  200g Dampfstoß  3fach-Entkalkung  3.000 Watt  schwarz/rot'
+slug: 'B008XI79XW-de Bosch Dampfbügeleisen TDA503001P sparsame eco Dampfstufe...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

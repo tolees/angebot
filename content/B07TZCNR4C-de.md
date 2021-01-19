@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31y9GkktZCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZCNR4C-de LEDVANCE LED Wand- und Deckenleuchte  Leuchte für Außenanwendungen  Warmweiß  Endura Style Mini Cyl Updown'
+slug: 'B07TZCNR4C-de LEDVANCE LED Wand- und Deckenleuchte Leuchte für...'
+tags: 
 actualPrice: 17.27 EUR
 currency: EUR
 price: 17.27

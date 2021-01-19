@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31q1prUGsxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0748NCPN5-de Logitech Brio Stream Webcam  4K Ultra-HD 1080p  Weites anpassbares Blickfeld  USB-Anschluss  Abdeckblende  Abnehmbarer Clip  Für Skype  Zoom  Xsplit  Youtube  PC - Schwarz  Streaming Edition'
+slug: 'B0748NCPN5-de Logitech Brio Stream Webcam 4K Ultra-HD 1080p Weites...'
+tags: 
 actualPrice: 152.99 EUR
 currency: EUR
 price: 152.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xhx7WGlKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000LFU5I6-de Silverline 726040 Schleifwalzen  25-tlg. Satz 80er-Körnung'
+slug: 'B000LFU5I6-de Silverline 726040 Schleifwalzen 25-tlg. Satz 80er-Körnung'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

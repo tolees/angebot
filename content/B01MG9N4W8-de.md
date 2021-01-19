@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xk1NsssAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MG9N4W8-de BRUBAKER Cosmetics Bade- und Pflegeset Cranberry im Holzschrank'
+slug: 'B01MG9N4W8-de BRUBAKER Cosmetics Bade- und Pflegeset Cranberry im...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

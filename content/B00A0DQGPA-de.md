@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A0DQGPA-de Clementoni 13405.2 - Memo Kompakt Minnie'
+tags: 
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

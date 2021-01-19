@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4180WYdOIYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGSWDS4-de iEFiEL Damen Prinzessin Kostüm Königin Partykleid Bodenlang Rundausschnitt Pailletten Kleid Fasching Cosplay Karneval Weihnachten Party Blau Medium'
+slug: 'B07LGSWDS4-de iEFiEL Damen Prinzessin Kostüm Königin Partykleid...'
+tags: 
 actualPrice: 23.39 EUR
 currency: EUR
 price: 23.39

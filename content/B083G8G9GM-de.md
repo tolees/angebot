@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UHtxOx-yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083G8G9GM-de Samsung Galaxy S10 Lite Android Smartphone ohne Vertrag  4.500 mAh Akku  Schnellldaden  6 7 Zoll Super AMOLED Display  128 GB/8 GB RAM  Dual SIM  Handy in weiß  deutsche Version'
+slug: 'B083G8G9GM-de Samsung Galaxy S10 Lite Android Smartphone ohne Vertrag...'
+tags: 
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

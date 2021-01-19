@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kaUn3tvFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C8GM4H1-de Noise Cancelling Kopfhörer Leichte Srhythm NC25 Over Ear ANC Kopfhoerer Bluetooth Kabellos Faltbar mit 40 mm HD Tieftontöner Eingebaut Mikro HiFi CVC6.0 für Alle Geräte mit Bluetooth  Matt-Schwarz '
+slug: 'B07C8GM4H1-de Noise Cancelling Kopfhörer Leichte Srhythm NC25 Over Ear...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

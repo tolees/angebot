@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KMw3L5b1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002ZWZOD4-de Odlo Damen Traininghose X-Warm  Schwarz  black 15000   Gr.M'
+slug: 'B002ZWZOD4-de Odlo Damen Traininghose X-Warm Schwarz black 15000 Gr.M'
+tags: 
 actualPrice: 34.11 EUR
 currency: EUR
 price: 34.11

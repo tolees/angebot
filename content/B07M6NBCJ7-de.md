@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aysrXFldL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M6NBCJ7-de BRIKSMAX Led Beleuchtungsset für Harry Potter–Die große Halle von Hogwarts  Kompatibel Mit Lego 75954 Bausteinen Modell - Ohne Lego Set'
+slug: 'B07M6NBCJ7-de BRIKSMAX Led Beleuchtungsset für Harry Potter–Die große...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

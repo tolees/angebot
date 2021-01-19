@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417B4pAGDpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZL4GF2L-de Panasonic TX-39GW334 LED-TV 39 Zoll  98 cm   HD Fernseher  Triple Tuner  DVB-T2 HD  HDMI  USB '
+slug: 'B07ZL4GF2L-de Panasonic TX-39GW334 LED-TV 39 Zoll 98 cm HD Fernseher...'
+tags: 
 actualPrice: 257.19 EUR
 currency: EUR
 price: 257.19

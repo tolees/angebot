@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417k+QegnaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CR8NBQB-de Garmin vívoactive 3 Music GPS-Fitness-Smartwatch – Musikplayer  Garmin Pay  vorinstallierte Sport-Apps'
+slug: 'B07CR8NBQB-de Garmin vívoactive 3 Music GPS-Fitness-Smartwatch –...'
+tags: 
 actualPrice: 177.5 EUR
 currency: EUR
 price: 177.5

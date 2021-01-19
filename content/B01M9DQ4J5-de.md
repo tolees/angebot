@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LIK+srHDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M9DQ4J5-de Motorola VerveOnes ME | Stereo smart Bluetooth Kopfhörer Alexa  Siri und Google Now kompatibel | True Wireless Headset für Smartphones'
+slug: 'B01M9DQ4J5-de Motorola VerveOnes ME | Stereo smart Bluetooth Kopfhörer...'
+tags: 
 actualPrice: 29.92 EUR
 currency: EUR
 price: 29.92

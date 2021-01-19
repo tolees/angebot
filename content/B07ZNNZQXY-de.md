@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JWM+elOCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZNNZQXY-de BRIKSMAX Led Beleuchtungsset für Lego Technic Bugatti Chiron Kompatibel Mit Lego 42083 Bausteinen Modell - Ohne Lego Set'
+slug: 'B07ZNNZQXY-de BRIKSMAX Led Beleuchtungsset für Lego Technic Bugatti...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

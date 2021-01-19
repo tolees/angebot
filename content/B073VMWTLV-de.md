@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+c81t8q7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073VMWTLV-de Uglyfrog HDSLJ13 Frühling/Herbst Männer Radfahren Kleidung Set Fahrrad Anzug Outdoor Langarmtrikot+ Hose Atmungsaktiv Schnell Trocken Zwei Stücke'
+slug: 'B073VMWTLV-de Uglyfrog HDSLJ13 Frühling/Herbst Männer Radfahren Kleidung...'
+tags: 
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

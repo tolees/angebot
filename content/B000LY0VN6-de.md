@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510q5B6BX+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000LY0VN6-de Tetra Pro Energy Premiumfutter  Flockenfutter für alle tropischen Zierfische  Fischfutter mit Energiekonzentrat für gesteigerte Vitalität   verschiedene Größen'
+slug: 'B000LY0VN6-de Tetra Pro Energy Premiumfutter Flockenfutter für alle...'
+tags: 
 actualPrice: 5.88 EUR
 currency: EUR
 price: 5.88

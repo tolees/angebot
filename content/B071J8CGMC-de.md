@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ESXxFacBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B071J8CGMC-de Garmin VIRB 360 - wasserdichte 360-Grad-Kamera mit GPS und bis zu 5 7K/30fps Auflösung oder 4K/30fps mit Auto-Stitching Funktion und sphärischer Bildstabilisierung'
+slug: 'B071J8CGMC-de Garmin VIRB 360 - wasserdichte 360-Grad-Kamera mit GPS und...'
+tags: 
 actualPrice: 388 EUR
 currency: EUR
 price: 388

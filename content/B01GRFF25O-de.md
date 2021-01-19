@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LwFjgG8IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GRFF25O-de WD 16 TB My Cloud Pro PR2100 Pro Serie 2-Bay Network Attached Storage - NAS - WDBBCL0160JBK-EESN'
+slug: 'B01GRFF25O-de WD 16 TB My Cloud Pro PR2100 Pro Serie 2-Bay Network...'
+tags: 
 actualPrice: 360.0 EUR
 currency: EUR
 price: 360.0

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-gMSufVUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z8MD4SC-de Exzenterschleifer  300W Meterk Schleifmaschine holz mit 125mm Schleifteller  6 Geschwindigkeit  12 Stück Schleifpapier  Staubsammelbehälter  Ideal für Heimwerker  Schleifen  Polieren von Holz'
+slug: 'B07Z8MD4SC-de Exzenterschleifer 300W Meterk Schleifmaschine holz mit...'
+tags: 
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

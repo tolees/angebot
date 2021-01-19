@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SJAzo3K3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0148NMVQA-de Philips Hue LightStrip+ Basis Set  ohne Bridge   2m  flexibel erweiterbar  dimmbar  bis zu 16 Millionen Farben  steuerbar via App  kompatibel mit Amazon Alexa  Echo  Echo Dot '
+slug: 'B0148NMVQA-de Philips Hue LightStrip+ Basis Set ohne Bridge 2m flexibel...'
+tags: 
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

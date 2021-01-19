@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51U9tItjwqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GVSXH4K-de Bungsa® P - Silberner Buchstaben Kristall Charm Anhänger für Bettelarmband Ohrring Halskette Zirkonia Damen Herren Kinder  Kettenanhänger Pendant Beads A B C D E F G H I J K L M N O P R S T U V W Z '
+slug: 'B01GVSXH4K-de Bungsa® P - Silberner Buchstaben Kristall Charm Anhänger...'
+tags: 
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

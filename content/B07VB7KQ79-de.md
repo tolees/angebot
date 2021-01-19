@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SaVY2mpeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VB7KQ79-de GODNECE Batteriebetrieben LED Licht-Set für Baustein  Kompatibel Mit Lego Technic 42043 Mercedes-Benz Arocs 3245  Auto-Spielzeug  Modell Nicht Enthalten '
+slug: 'B07VB7KQ79-de GODNECE Batteriebetrieben LED Licht-Set für Baustein...'
+tags: 
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

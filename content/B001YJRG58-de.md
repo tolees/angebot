@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41de2kxcbaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B001YJRG58-de Bosch HMT84M421 Serie 2 Mikrowelle / 900 W / 25 l / Drehteller 31 5 cm / Türanschlag Links / 7 voreingestellte Automatikprogramme / automatische Leistungsstufe nach Gewicht / Weiß'
+slug: 'B001YJRG58-de Bosch HMT84M421 Serie 2 Mikrowelle / 900 W / 25 l /...'
+tags: 
 actualPrice: 107.91 EUR
 currency: EUR
 price: 107.91

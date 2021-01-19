@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31jcO-D4BPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B001INYLE4-de Panasonic RPHV154EK In-Ear-Kopfhörer  1 2 m Kabellänge  3 5 mm Vergoldeter Mini Stecker  XBS-Akustiksystem  schwarz'
+slug: 'B001INYLE4-de Panasonic RPHV154EK In-Ear-Kopfhörer 1 2 m Kabellänge 3 5...'
+tags: 
 actualPrice: 4.93 EUR
 currency: EUR
 price: 4.93

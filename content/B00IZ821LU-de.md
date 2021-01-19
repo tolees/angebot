@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Zhn9IBshL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IZ821LU-de Tassimo Kapseln Jacobs Caffè Crema Mild XL  80 Kaffeekapseln  5er Pack  5 x 16 Getränke'
+slug: 'B00IZ821LU-de Tassimo Kapseln Jacobs Caffè Crema Mild XL 80...'
+tags: 
 actualPrice: 16.93 EUR
 currency: EUR
 price: 16.93

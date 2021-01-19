@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Of6NSjK3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QG9JN79-de Externes CD DVD Laufwerk  Amicool USB 3.0 mit Type-C Portable DVD/CD Brenner und -Lesegerät/Plug&Play/niedriger Lärm/Slim Superdrive für Laptop  Desktop  Mac  Macbook  Ios  Windows 10/8/7/XP and Linux'
+slug: 'B07QG9JN79-de Externes CD DVD Laufwerk Amicool USB 3.0 mit Type-C...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

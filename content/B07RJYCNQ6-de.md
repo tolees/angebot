@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DCL+Ud9pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJYCNQ6-de Acer Nitro 5  AN515-43-R90F  39 6 cm  15 6 Zoll 144Hz Full-HD IPS matt  Gaming Notebook  AMD Ryzen 5 3550H  8 GB RAM  512 GB PCIe SSD  AMD Radeon RX 560X  Win 10  schwarz aluminium'
+slug: 'B07RJYCNQ6-de Acer Nitro 5 AN515-43-R90F 39 6 cm 15 6 Zoll 144Hz Full-HD...'
+tags: 
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zPtgWQqGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015DJT6X4-de Siemens EX645LYC1E iQ700 Kochfeld Elektro / Ceran/Glaskeramik / 58 3 cm / Power Boost Funktion / schwarz'
+slug: 'B015DJT6X4-de Siemens EX645LYC1E iQ700 Kochfeld Elektro /...'
+tags: 
 actualPrice: 633.0 EUR
 currency: EUR
 price: 633.0

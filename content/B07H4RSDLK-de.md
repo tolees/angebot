@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410g+1byXmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H4RSDLK-de Libratone ZIPP MINI 2 Smart Wireless kleiner Lautsprecher  Alexa Integration  AirPlay 2  MultiRoom  360° Sound  Wlan  Bluetooth  Spotify Connect  12 Std. Akku  pine green'
+slug: 'B07H4RSDLK-de Libratone ZIPP MINI 2 Smart Wireless kleiner Lautsprecher...'
+tags: 
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

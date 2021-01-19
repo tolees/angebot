@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41q8qbIvOHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GSX1VN8-de Bright Starts June Berry höhenverstellbare Lauflernhilfe mit abnehmbarem Spielzeug  Lichtern  Melodien  Lautstärkeregler  hoher Rückenlehne  Sicherheitsstopper'
+slug: 'B00GSX1VN8-de Bright Starts June Berry höhenverstellbare Lauflernhilfe...'
+tags: 
 actualPrice: 47.98 EUR
 currency: EUR
 price: 47.98

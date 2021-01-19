@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Q9Mifep5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MTGH1QD-de ORTHOPEO© Akupressur Einlegesohlen - Massage Magnetische Einlegesohle für Mann & Frau - Relaxed Feet - Orthopädische Insoles gegen Fußschmerzen | Schuheinlagen mit Wohlfühl-Effekt'
+slug: 'B07MTGH1QD-de ORTHOPEO© Akupressur Einlegesohlen - Massage Magnetische...'
+tags: 
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

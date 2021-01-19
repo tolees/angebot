@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21jLHPoWYqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082D5M6GZ-de TuToy 64 Cm Lange Kurze Dehnbare Schuhlöffel Edelstahl Metall Schuhe Remover Tools Kit'
+slug: 'B082D5M6GZ-de TuToy 64 Cm Lange Kurze Dehnbare Schuhlöffel Edelstahl...'
+tags: 
 actualPrice: 10.87 EUR
 currency: EUR
 price: 10.87

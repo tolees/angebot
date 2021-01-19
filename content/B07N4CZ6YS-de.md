@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41deE6Fep4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4CZ6YS-de Pantofola d Oro Herren MILITO Uomo Low Sneaker  Braun  Tortoise Shell.Jcu   44 EU'
+slug: 'B07N4CZ6YS-de Pantofola d Oro Herren MILITO Uomo Low Sneaker Braun...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

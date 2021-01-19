@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0000TZ4XO-de Ravensburger 21570 Der Maulwurf und sein Lieblingsspiel'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

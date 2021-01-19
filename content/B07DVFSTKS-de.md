@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412y9M+jlAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVFSTKS-de Acer Swift 1  SF114-32-P31S  35 6 cm  14 Zoll Full-HD IPS matt  Ultrabook  Intel Pentium N5000  8 GB RAM  256 GB SSD  Intel UHD  Win 10  silber'
+slug: 'B07DVFSTKS-de Acer Swift 1 SF114-32-P31S 35 6 cm 14 Zoll Full-HD IPS...'
+tags: 
 actualPrice: 300.0 EUR
 currency: EUR
 price: 300.0

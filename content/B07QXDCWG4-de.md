@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NhBl7QHxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QXDCWG4-de one-home 2er Set Mikrofaser Kissenbezug Kissenhülle Kopfkissen Hülle Uni  Farbe:Petrol  Maße:40 x 40 cm'
+slug: 'B07QXDCWG4-de one-home 2er Set Mikrofaser Kissenbezug Kissenhülle...'
+tags: 
 actualPrice: 6.06 EUR
 currency: EUR
 price: 6.06

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QEASt-DPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKRYFRL-de Smart Steckdosenleiste Koogeek Intelligent WiFi-stopcontact werkt mit Alexa/Echo mit Apple HomeKit mit Google Assistant mit Siri Remote Control op 2 4 GHz netwerk'
+slug: 'B07FKRYFRL-de Smart Steckdosenleiste Koogeek Intelligent WiFi-...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

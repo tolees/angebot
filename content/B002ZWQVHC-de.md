@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310siwt9aAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002ZWQVHC-de Odlo Herren Shirt Long Sleeve Crew Neck X-Warm Unterhemd  black  L'
+slug: 'B002ZWQVHC-de Odlo Herren Shirt Long Sleeve Crew Neck X-Warm Unterhemd...'
+tags: 
 actualPrice: 34.11 EUR
 currency: EUR
 price: 34.11

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41U4cU4cC4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTV80T9-de Neff TBD1676N / T16BD76N0 / Autarkes Kochfeld / Konventionell / 60cm / Touch Control / Zweikreis'
+slug: 'B01MTV80T9-de Neff TBD1676N / T16BD76N0 / Autarkes Kochfeld /...'
+tags: 
 actualPrice: 284.98 EUR
 currency: EUR
 price: 284.98

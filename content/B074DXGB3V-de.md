@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BwYe54vnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074DXGB3V-de WD My Cloud Home persönlicher Cloudspeicher 8 TB  zentraler Speicher  mobiler Zugriff unterwegs  automatische Backups  Dateisuchfunktion  einfache Installation '
+slug: 'B074DXGB3V-de WD My Cloud Home persönlicher Cloudspeicher 8 TB zentraler...'
+tags: 
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

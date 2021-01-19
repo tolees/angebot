@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-oXoTUB6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M3UYCM7-de Sylvanian Families 5034 - Badezimmer-Set  Puppenzubehör'
+slug: 'B01M3UYCM7-de Sylvanian Families 5034 - Badezimmer-Set Puppenzubehör'
+tags: 
 actualPrice: 24.8 EUR
 currency: EUR
 price: 24.8

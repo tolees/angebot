@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jPyBOKKRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L4TWX1Y-de SVITA TM2X15 Treteimer 30 Liter  2x15L  oder 54 Liter  3x18L  Abfalleimer Mülleimer Design Mülltrennung Edelstahl  30 Liter  2x15L  '
+slug: 'B07L4TWX1Y-de SVITA TM2X15 Treteimer 30 Liter 2x15L oder 54 Liter 3x18L...'
+tags: 
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

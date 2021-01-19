@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tFSxBVmUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CM1BNPQ-de Laser Entfernungsmesser  Meterk Distanzmessgerät Messbereich: 0 05-40m Genauigkeit:±2 mm mit M/In/Ft Datenspeicherfunktion LCD Display Hintergrundbeleuchtung Elektronische Ebene'
+slug: 'B07CM1BNPQ-de Laser Entfernungsmesser Meterk Distanzmessgerät...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

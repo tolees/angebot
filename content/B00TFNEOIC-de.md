@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mgtXsOCYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TFNEOIC-de normani 4 x Herren Retroshorts mit hohem Baumwollanteil und verschiedenen Motiven Farbe Red Cross Größe L'
+slug: 'B00TFNEOIC-de normani 4 x Herren Retroshorts mit hohem Baumwollanteil...'
+tags: 
 actualPrice: 15.08 EUR
 currency: EUR
 price: 15.08

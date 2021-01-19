@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41JopPY04aL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PTMMSTS-de ASTRO A40 TR Gaming-Headsest + MixAmp Pro TR  Generation 4  7.1 Dolby Surround Sound  ASTRO Audio V2  3.5mm Klinke  austauschbares Mikrofon  Lautsprecher-Tags  PC/Mac/PS4 - Schwarz/Blau'
+slug: 'B07PTMMSTS-de ASTRO A40 TR Gaming-Headsest + MixAmp Pro TR Generation 4...'
+tags: 
 actualPrice: 212.93 EUR
 currency: EUR
 price: 212.93

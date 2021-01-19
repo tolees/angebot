@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZgQIJcF1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D3VZWDC-de Seidensticker Herren Business Hemd Slim Fit – Bügelfreies  schmales Hemd mit Kent-Kragen – Langarm – 100% Baumwolle   Weiß  Weiß 01    41 cm'
+slug: 'B01D3VZWDC-de Seidensticker Herren Business Hemd Slim Fit – Bügelfreies...'
+tags: 
 actualPrice: 33.04 EUR
 currency: EUR
 price: 33.04

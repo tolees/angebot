@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pM2yc2A4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQU4CIW-de Hasbro Spiele C0376100 - Rudi Reck  Kinderspiel'
+slug: 'B01MQU4CIW-de Hasbro Spiele C0376100 - Rudi Reck Kinderspiel'
+tags: 
 actualPrice: 12.69 EUR
 currency: EUR
 price: 12.69

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DZtMw+5vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPTNZRN-de Funko 36659 POP Bobble: Avengers Endgame: Hulk Sammelfiguren  Multi  Standard'
+slug: 'B07KPTNZRN-de Funko 36659 POP Bobble: Avengers Endgame: Hulk...'
+tags: 
 actualPrice: 5.75 EUR
 currency: EUR
 price: 5.75

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UTNbel-mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083B9HV5N-de DXX Technik Bausteine Auto Icarus Roadster  1928Teile 1:10 2.4G Sportwagen Bausteine Konstruktionsspielzeug Kompatibel mit Lego Technic'
+slug: 'B083B9HV5N-de DXX Technik Bausteine Auto Icarus Roadster 1928Teile 1:10...'
+tags: 
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

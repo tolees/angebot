@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NRbyyIuPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000WGVH7M-de Pentel BL77-BO EnerGel Gel-Tintenroller mit Druckmechanik  0 7 mm Kugeldurchmesser = 0 35 mm Strichstärke  nachfüllbar  1 Stück  rot'
+slug: 'B000WGVH7M-de Pentel BL77-BO EnerGel Gel-Tintenroller mit Druckmechanik...'
+tags: 
 actualPrice: 2.34 EUR
 currency: EUR
 price: 2.34

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+-K-6jXIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PXIHB56-de Yamaha EPH-M200 In-Ear Kopfhörer  15 mm Treiber  weiß'
+slug: 'B00PXIHB56-de Yamaha EPH-M200 In-Ear Kopfhörer 15 mm Treiber weiß'
+tags: 
 actualPrice: 35.02 EUR
 currency: EUR
 price: 35.02

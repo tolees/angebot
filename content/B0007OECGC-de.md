@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31R8QFFDRWL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0007OECGC-de Faber-Castell 127102 - 10 Fallminen TK 9071  Minenstärke 2 mm  Härtegrad 2B'
+slug: 'B0007OECGC-de Faber-Castell 127102 - 10 Fallminen TK 9071 Minenstärke 2...'
+tags: 
 actualPrice: 4.73 EUR
 currency: EUR
 price: 4.73

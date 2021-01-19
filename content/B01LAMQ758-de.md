@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oq2UdgwjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LAMQ758-de Funko 026997 POP Vinylfigur: Disney: The Little Mermaid: Ariel  Auburn Pink  Einheitsgröße'
+slug: 'B01LAMQ758-de Funko 026997 POP Vinylfigur: Disney: The Little Mermaid:...'
+tags: 
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

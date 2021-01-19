@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087MRTWQ4-de Mi Note 10 Lite 6+128GB Nebula Purple'
+tags: 
 actualPrice: 323.47 EUR
 currency: EUR
 price: 323.47

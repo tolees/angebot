@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XnSQV9MjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FMW24JB-de FLOWZOOM Schlauchschal mit Filterfach zum Einlegen eines Aktivkohlefilters | Multifunktionstuch Maske Herren/Damen Bandana waschbar - Herrengröße  L  Schwarz - mit 4 Filter'
+slug: 'B08FMW24JB-de FLOWZOOM Schlauchschal mit Filterfach zum Einlegen eines...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

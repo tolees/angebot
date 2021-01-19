@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XPPM3dRkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MG9N2JT-de Sharp R760S 2-in-1 Flatbed Mikrowelle mit Grill / 23 L / 900 W / 1000 W Grill / 8 Automatikprogramme / LCD-Display / Timer / Gewicht- und zeitgesteuertes Auftauen / Kindersicherung / silber/schwarz'
+slug: 'B01MG9N2JT-de Sharp R760S 2-in-1 Flatbed Mikrowelle mit Grill / 23 L /...'
+tags: 
 actualPrice: 125.0 EUR
 currency: EUR
 price: 125.0

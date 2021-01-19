@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514e4hjqEPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WMRWNTF-de GODNECE Bausteine Classic  7692 Teile Kran Modellbausatz mit RC und Motor MOC Bausteine Modellbau Technik Bausatz für Erwachsene'
+slug: 'B07WMRWNTF-de GODNECE Bausteine Classic 7692 Teile Kran Modellbausatz...'
+tags: 
 actualPrice: 626.99 EUR
 currency: EUR
 price: 626.99

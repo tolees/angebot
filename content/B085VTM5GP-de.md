@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yfaXb2vKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085VTM5GP-de Dasket 6pcs / Set V-Form-Durchschlag für Nähen  Form Punch-Gurt-Leder Carft V End Cutter DIY'
+slug: 'B085VTM5GP-de Dasket 6pcs / Set V-Form-Durchschlag für Nähen Form Punch-...'
+tags: 
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

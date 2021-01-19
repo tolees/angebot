@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iErLnXPXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0869WPP2P-de Xiaomi Mi 10 Smartphone + Kopfhörer  16 94cm  6 67"  FHD+ Display  256GB interner Speicher + 8GB RAM  108MP Rückkamera  20MP Frontkamera  5G  Android 10  Grau  Deutsche Version - [Exklusiv bei Amazon]'
+slug: 'B0869WPP2P-de Xiaomi Mi 10 Smartphone + Kopfhörer 16 94cm 6 67" FHD+...'
+tags: 
 actualPrice: 613.14 EUR
 currency: EUR
 price: 613.14

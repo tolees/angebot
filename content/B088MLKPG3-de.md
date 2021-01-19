@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OUxUWNklL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088MLKPG3-de Samsung Galaxy S10+ Smartphone Bundle  16.3 cm  6.4 Zoll  128GB interner Speicher  8GB RAM  Dual SIM  Android  Ceramic Black  + 36 Monate Herstellergarantie [Exklusiv bei Amazon]  Deutsche Version'
+slug: 'B088MLKPG3-de Samsung Galaxy S10+ Smartphone Bundle 16.3 cm 6.4 Zoll...'
+tags: 
 actualPrice: 614.0 EUR
 currency: EUR
 price: 614.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YtnboIq0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6FPTTZ-de Playmobil 70126 1.2.3 Kipplaster  ab 18 Monaten  bunt  one Size'
+slug: 'B07P6FPTTZ-de Playmobil 70126 1.2.3 Kipplaster ab 18 Monaten bunt one Size'
+tags: 
 actualPrice: 11.38 EUR
 currency: EUR
 price: 11.38

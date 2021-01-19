@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41o6LBfm3XL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FK4C31Y-de Feuchtmann Spielwaren 6281513 - MEINE LIEBLINGSKNETE aus besten Rohstoffen  4 Dosen á 150 g - lufttrocknende Modelliermasse'
+slug: 'B01FK4C31Y-de Feuchtmann Spielwaren 6281513 - MEINE LIEBLINGSKNETE aus...'
+tags: 
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

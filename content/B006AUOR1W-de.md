@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31G+ITSRdAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006AUOR1W-de Thetford 92828 Porta Potti 335 Tragbare Toilette Qube  Weiß-Grau 313 x 342 x 382 mm'
+slug: 'B006AUOR1W-de Thetford 92828 Porta Potti 335 Tragbare Toilette Qube...'
+tags: 
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

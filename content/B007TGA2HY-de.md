@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Pu-dfP3UL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B007TGA2HY-de Timberland Damen 14 Inch Premium Waterproof Stiefel  Gelb  Wheat Nubuck   37 EU'
+slug: 'B007TGA2HY-de Timberland Damen 14 Inch Premium Waterproof Stiefel Gelb...'
+tags: 
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

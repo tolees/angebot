@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FhbkNDXgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016EYK1C2-de Creative Sound Blaster ROAR Pro - tragbarer Bluetooth-Lautsprecher  NFC-Funktion  AAC  aptX  5 Treiber  integrierter Subwoofer  schwarz'
+slug: 'B016EYK1C2-de Creative Sound Blaster ROAR Pro - tragbarer Bluetooth-...'
+tags: 
 actualPrice: 64.52 EUR
 currency: EUR
 price: 64.52

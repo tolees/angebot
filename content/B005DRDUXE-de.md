@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OPfMdqwJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005DRDUXE-de tesa Powerstrips Strips LARGE   wasserfest  Packung mit 6 Strips'
+slug: 'B005DRDUXE-de tesa Powerstrips Strips LARGE wasserfest Packung mit 6 Strips'
+tags: 
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

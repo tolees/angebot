@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JG20ozERL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTF06KN-de Philips beutelloser Staubsauger PowerPro Compact FC9332/09  sehr niedriger Stromverbrauch bei hoher Leistung  1 5 L Staubvolumen  integriertes Zubehör  weiß'
+slug: 'B01MTF06KN-de Philips beutelloser Staubsauger PowerPro Compact FC9332/09...'
+tags: 
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

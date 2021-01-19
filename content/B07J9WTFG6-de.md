@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51alDMfYtUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J9WTFG6-de VITIKE Kinder Schuhe Jungen Schuhe Mädchen Sneaker Damen Sportschuhe Outdoor Schuhe Jungen Turnschuhe Laufschuhe Schnürer Freizeit Sportschuhe Kinder Sneaker  8-grün  36 EU'
+slug: 'B07J9WTFG6-de VITIKE Kinder Schuhe Jungen Schuhe Mädchen Sneaker Damen...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

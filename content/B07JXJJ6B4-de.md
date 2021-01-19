@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hbKZ47-hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JXJJ6B4-de PLAYMOBIL City Life 70050 Notarzt-PKW mit Licht und Sound  Ab 4 Jahren'
+slug: 'B07JXJJ6B4-de PLAYMOBIL City Life 70050 Notarzt-PKW mit Licht und Sound...'
+tags: 
 actualPrice: 22.89 EUR
 currency: EUR
 price: 22.89

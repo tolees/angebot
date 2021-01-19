@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-xE31378L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JJ3AK76-de Apple iPad 4 9.7-Inch Tablet-PC  Schwarz  A1460 Prozessor  16 GB HDD  Mac OS 9.X   Zertifiziert Runderneuert '
+slug: 'B01JJ3AK76-de Apple iPad 4 9.7-Inch Tablet-PC Schwarz A1460 Prozessor 16...'
+tags: 
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

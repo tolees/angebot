@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qmVT40-qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWBGTYD-de APEMAN Action Cam A100 Echte 4K 50fps WiFi 20MP Touchscreen Unterwasserkamera Digitale wasserdichte 40M Helmkamera  2.4G Fernbedienung  2x1350mAh verbesserten Batterien '
+slug: 'B07VWBGTYD-de APEMAN Action Cam A100 Echte 4K 50fps WiFi 20MP...'
+tags: 
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MQroGonCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XRMBHKD-de Nike Jungen Revolution 4  PSV  Laufschuhe  Schwarz  Black/White-Anthracite 006   28 EU'
+slug: 'B06XRMBHKD-de Nike Jungen Revolution 4 PSV Laufschuhe Schwarz...'
+tags: 
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

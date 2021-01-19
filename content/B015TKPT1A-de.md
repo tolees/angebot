@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jeppReh-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015TKPT1A-de NOCO Boost Sport GB20 400 Ampere 12 Volt UltraSafe tragbares Lithium-Autobatterie-Starthilfe-Pack für bis zu 4-Liter Benzinmotoren'
+slug: 'B015TKPT1A-de NOCO Boost Sport GB20 400 Ampere 12 Volt UltraSafe...'
+tags: 
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

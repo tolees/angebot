@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31K9m3WQuVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076PF2LD5-de Motorola MDC 10W Dash Cam | Auto Dashkamera Wlan-Kompatibel | HD Video loop | KFZ Kamera mit G-Sensor | 360° Rotationswinkel'
+slug: 'B076PF2LD5-de Motorola MDC 10W Dash Cam | Auto Dashkamera Wlan-...'
+tags: 
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

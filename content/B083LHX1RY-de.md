@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kcj4dogBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083LHX1RY-de DXX Technik Bausteine Gabelstapler  1719Teile 1:10 2.4G RC Ferngesteuert Gabelstapler mit Motor Bausteine Konstruktionsspielzeug'
+slug: 'B083LHX1RY-de DXX Technik Bausteine Gabelstapler 1719Teile 1:10 2.4G RC...'
+tags: 
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

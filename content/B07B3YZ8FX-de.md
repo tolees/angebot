@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316jrSoC4KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B3YZ8FX-de V-Bag movetrack by Vodafone - GPS Tracker  Standortermittlung von Taschen  Gepäck und Wertgegenständen'
+slug: 'B07B3YZ8FX-de V-Bag movetrack by Vodafone - GPS Tracker...'
+tags: 
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

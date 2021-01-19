@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Pk1zqCH1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DP8Y6MK-de Philips 5000 Serie EP5335/10 Kaffeevollautomat  6 Kaffeespezialitäten  LatteGo Milchsystem  Edelstahl'
+slug: 'B07DP8Y6MK-de Philips 5000 Serie EP5335/10 Kaffeevollautomat 6...'
+tags: 
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

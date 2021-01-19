@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000TAHD3I-de Flipper'
+tags: 
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

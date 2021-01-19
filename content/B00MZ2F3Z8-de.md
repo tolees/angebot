@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LPXPHENpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MZ2F3Z8-de Krups EA8105 Kaffeevollautomat  automatische Reinigung  2-Tassen-Funktion  Milchsystem mit CappucinoPlus-Düse  15 bar  Espresso-Kaffee-Maschine  Kaffeeautomat in weiß'
+slug: 'B00MZ2F3Z8-de Krups EA8105 Kaffeevollautomat automatische Reinigung...'
+tags: 
 actualPrice: 228.99 EUR
 currency: EUR
 price: 228.99

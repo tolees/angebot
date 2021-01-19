@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-SOFt8q%2BL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NH1S3CX-de Barbie FXH15 - Reitspaß Spielset mit Barbie  blond   Chelsea  Pferd und Pony  Puppen Spielzeug ab 3 Jahren'
+slug: 'B07NH1S3CX-de Barbie FXH15 - Reitspaß Spielset mit Barbie blond Chelsea...'
+tags: 
 actualPrice: 40.42 EUR
 currency: EUR
 price: 40.42

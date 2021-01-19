@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21JNW2dCY7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001FSKH8G-de MIYABI 7000D Santoku Messer  18 cm Klinge  CMV60 Stahl  Damast Design  65 Lagen  traditioneller D-Griff  Micarta  Edelstahl'
+slug: 'B001FSKH8G-de MIYABI 7000D Santoku Messer 18 cm Klinge CMV60 Stahl...'
+tags: 
 actualPrice: 90.0 EUR
 currency: EUR
 price: 90.0

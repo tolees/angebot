@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SEiir5z0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KZ67MS2-de LG 32QK500-W 80 01 cm  31 5 Zoll  Monitor  WQHD  AMD Radeon FreeSync  DAS Mode  Reader Mode  weiß'
+slug: 'B07KZ67MS2-de LG 32QK500-W 80 01 cm 31 5 Zoll Monitor WQHD AMD Radeon...'
+tags: 
 actualPrice: 225.99 EUR
 currency: EUR
 price: 225.99

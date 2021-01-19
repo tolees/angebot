@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pwxcUWLEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z7F1MC3-de Toyaword outdoor sport Action Cam 4K 60FPS 20MP Sportkamera 40M wasserdichte Unterwasserkamera WiFi actioncam mit EIS Sensor 2.4G Fernbedienung externem Mikrofon Montage Zubehör Kit'
+slug: 'B07Z7F1MC3-de Toyaword outdoor sport Action Cam 4K 60FPS 20MP...'
+tags: 
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

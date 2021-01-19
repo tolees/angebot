@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zLr+mCGZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6FL9B5-de PLAYMOBIL Novelmore 70225 Wolfsgespann und Wasserkanone  Für Kinder von 5-10 Jahren'
+slug: 'B07P6FL9B5-de PLAYMOBIL Novelmore 70225 Wolfsgespann und Wasserkanone...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RApTaDJqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HS39JJ0-de New Balance Herren MRL996AG Revlite Sneaker  Grau  MRL996AG   44.5 EU'
+slug: 'B00HS39JJ0-de New Balance Herren MRL996AG Revlite Sneaker Grau MRL996AG...'
+tags: 
 actualPrice: 57.89 EUR
 currency: EUR
 price: 57.89

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mxaPPGFqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O90JNO6-de HUGO Herren 708 Slim Jeans  Blau  Dark Blue 405   W32/L32'
+slug: 'B00O90JNO6-de HUGO Herren 708 Slim Jeans Blau Dark Blue 405 W32/L32'
+tags: 
 actualPrice: 79.79 EUR
 currency: EUR
 price: 79.79

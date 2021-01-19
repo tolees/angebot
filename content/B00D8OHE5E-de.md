@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DQVFSo19L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D8OHE5E-de Steiff 239571 Schlaf-gut-Bär Plüschtier  Mehrfarbig'
+slug: 'B00D8OHE5E-de Steiff 239571 Schlaf-gut-Bär Plüschtier Mehrfarbig'
+tags: 
 actualPrice: 22.19 EUR
 currency: EUR
 price: 22.19

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UWA-0sXUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007CMP97S-de Sylvanian Families 3409 - Walnuss Eichhörnchen Baby - Sammelfigur'
+slug: 'B007CMP97S-de Sylvanian Families 3409 - Walnuss Eichhörnchen Baby -...'
+tags: 
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

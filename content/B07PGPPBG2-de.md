@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510YS1reI-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PGPPBG2-de Elektronische Tasche Kabeltasche Kabelorganizer Doppelte Schichte Elektronik Zubehör Organizer Tasche Reise für 9 7 Zoll Tablet  Ipad  Nintendo Switch  Ladegerät  Adapter  Maus'
+slug: 'B07PGPPBG2-de Elektronische Tasche Kabeltasche Kabelorganizer Doppelte...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

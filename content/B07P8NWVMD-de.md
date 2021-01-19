@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61hT1NjcUcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P8NWVMD-de Playmobil 70212 Dollhouse Kindergeburtstag mit Clown  ab 4 Jahren  bunt  one Size'
+slug: 'B07P8NWVMD-de Playmobil 70212 Dollhouse Kindergeburtstag mit Clown ab 4...'
+tags: 
 actualPrice: 17.22 EUR
 currency: EUR
 price: 17.22

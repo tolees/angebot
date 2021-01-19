@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mVgTxip8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NSC26JF-de Philips BRL175/00 Elektrischer Nass-und Trockenrasierer für Damen SatinShave Prestige inkl. Pediküreaufsatz'
+slug: 'B07NSC26JF-de Philips BRL175/00 Elektrischer Nass-und Trockenrasierer...'
+tags: 
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

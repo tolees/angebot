@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JyxhbgqgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHNXK84-de SAMSONITE Checkmate - Laptop Backpack - Double Pocket Rucksack  44 cm  22.5 Liter  Black'
+slug: 'B07PHNXK84-de SAMSONITE Checkmate - Laptop Backpack - Double Pocket...'
+tags: 
 actualPrice: 121.02 EUR
 currency: EUR
 price: 121.02

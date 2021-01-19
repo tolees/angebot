@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418exvMxwfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQQQ8KW-de LG PK7W Outdoor Bluetooth Lautsprecher mit Meridian Technologie Weiß'
+slug: 'B07XQQQ8KW-de LG PK7W Outdoor Bluetooth Lautsprecher mit Meridian...'
+tags: 
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51n4AsPvOtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XCK6BY2-de OYMMENEY Holzspielzeug 3 In 1 Angelspiel Montessori Spielzeug Lernspielzeug Magnettafel Kinderspielzeug für Kinder ab 3 Jahre'
+slug: 'B07XCK6BY2-de OYMMENEY Holzspielzeug 3 In 1 Angelspiel Montessori...'
+tags: 
 actualPrice: 12.27 EUR
 currency: EUR
 price: 12.27

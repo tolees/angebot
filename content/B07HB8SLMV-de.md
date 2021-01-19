@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4104McrVzLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HB8SLMV-de SanDisk Extreme 64 GB microSDXC Memory Card for Action Cameras and Drones with A2 App Performance up to 160 MB/s  Class 10  U3  V30'
+slug: 'B07HB8SLMV-de SanDisk Extreme 64 GB microSDXC Memory Card for Action...'
+tags: 
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

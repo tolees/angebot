@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g8Dn+72IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JK3RC16-de Yazubi Herren Kapuzenjacke Jacob - graue Sweatjacke Herren Kapuzenpullover mit Reißverschluss - Kapuzensweatshirt  Grau  Mirage Gray 154703   XS'
+slug: 'B07JK3RC16-de Yazubi Herren Kapuzenjacke Jacob - graue Sweatjacke Herren...'
+tags: 
 actualPrice: 27.96 EUR
 currency: EUR
 price: 27.96

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ECu2X6INL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0747VDHG3-de OSRAM Smart+ LED  ZigBee Lampe mit E14 Sockel  warmweiß bis tageslicht  2000K - 6500K   dimmbar  Direkt kompatibel mit Echo Plus und Echo Show  2. Gen.   Kompatibel mit Philips Hue Bridge'
+slug: 'B0747VDHG3-de OSRAM Smart+ LED ZigBee Lampe mit E14 Sockel warmweiß bis...'
+tags: 
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

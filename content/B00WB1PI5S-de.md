@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41wmJxltjHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WB1PI5S-de DeWalt XR Akku-Schlagschrauber DCF899NT - Schlagschrauber mit bürstenloser Motor-Technologie  3-Gang-Getriebe & LED-Licht für diverse Schraubarbeiten - 1 x Akkuschrauber Li-Ion 18 V'
+slug: 'B00WB1PI5S-de DeWalt XR Akku-Schlagschrauber DCF899NT - Schlagschrauber...'
+tags: 
 actualPrice: 177.89 EUR
 currency: EUR
 price: 177.89

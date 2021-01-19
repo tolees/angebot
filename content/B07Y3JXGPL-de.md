@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RrHf4-TnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y3JXGPL-de WD My Book externe Festplatte 14 TB  USB 3.0-Schnittstelle  automatische Datensicherung mit WD Backup  kompatibel mit Time Machine  schwarz'
+slug: 'B07Y3JXGPL-de WD My Book externe Festplatte 14 TB USB 3.0-Schnittstelle...'
+tags: 
 actualPrice: 255.99 EUR
 currency: EUR
 price: 255.99

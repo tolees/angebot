@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41du6dAuokL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4DG8RF-de Logitech G332 Gaming-Headset Special Edition  Stereo Sound  50mm Treiber  3 5mm Klinke  6mm Mikrofon mit Flip-Stummschalter  Plattformübergreifend Kompatibel  PC/Mac/Xbox One/PS4/Nintendo Switch'
+slug: 'B07W4DG8RF-de Logitech G332 Gaming-Headset Special Edition Stereo Sound...'
+tags: 
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

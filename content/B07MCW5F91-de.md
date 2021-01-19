@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wi7kpBurL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCW5F91-de Lachen Sie mit Stan & Ollie - Die komplette ZDF-Serie [7 DVDs]'
+slug: 'B07MCW5F91-de Lachen Sie mit Stan & Ollie - Die komplette ZDF-Serie [7...'
+tags: 
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

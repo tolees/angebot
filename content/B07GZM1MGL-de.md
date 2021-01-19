@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413fIYHdiQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZM1MGL-de Alpina Mädchen XIMO Flash Fahrradhelm  Mint Unicorn  49-54 cm'
+slug: 'B07GZM1MGL-de Alpina Mädchen XIMO Flash Fahrradhelm Mint Unicorn 49-54 cm'
+tags: 
 actualPrice: 34.61 EUR
 currency: EUR
 price: 34.61

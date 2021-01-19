@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VIz37HL+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LBN3FKM-de Ice-Watch - ICE ola White Black - Women s wristwatch with silicon strap - 000992  Small '
+slug: 'B00LBN3FKM-de Ice-Watch - ICE ola White Black - Women s wristwatch with...'
+tags: 
 actualPrice: 49.15 EUR
 currency: EUR
 price: 49.15

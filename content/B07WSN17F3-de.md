@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413fX0ct3XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WSN17F3-de Gehörschutz mit DAB + / FM-Radio und Bluetooth  Rauschunterdrückungs-Headsets mit Lithium-Akku und eingebautem Mikrofon für Werkstatt  Garten  Mähen  Sägen  Bauwesen  Traktorfahren  SNR 30 dB'
+slug: 'B07WSN17F3-de Gehörschutz mit DAB + / FM-Radio und Bluetooth...'
+tags: 
 actualPrice: 102.8 EUR
 currency: EUR
 price: 102.8

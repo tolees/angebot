@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41czKYf37QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVVDZMT-de Skechers Herren Moreno Sneaker  Blau  Navy Mesh NVY   45 EU'
+slug: 'B07TVVDZMT-de Skechers Herren Moreno Sneaker Blau Navy Mesh NVY 45 EU'
+tags: 
 actualPrice: 46.46 EUR
 currency: EUR
 price: 46.46

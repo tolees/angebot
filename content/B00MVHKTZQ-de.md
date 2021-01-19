@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31a4maCKRUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MVHKTZQ-de Anker 36W 5V / 7.2A 4 Port USB Ladegerät Wand Ladeadapter mit PowerIQ Technologie Wall Charger für iPhone iPad Tablet Samsung Galaxy  HTC  Sony  LG  Nexus Motorola und usw  Schwarz '
+slug: 'B00MVHKTZQ-de Anker 36W 5V / 7.2A 4 Port USB Ladegerät Wand Ladeadapter...'
+tags: 
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

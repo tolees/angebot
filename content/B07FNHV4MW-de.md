@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ig2YzI5iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNHV4MW-de Logitech MX Vertical Ergonomische Kabellose Maus  Bluetooth und 2.4 GHz Verbindung via Unifying USB-Empfänger  4000 DPI Sensor  Wiederaufladbarer Akku  4 Tasten  Multi-Device  PC/Mac/iPadOS - schwarz'
+slug: 'B07FNHV4MW-de Logitech MX Vertical Ergonomische Kabellose Maus Bluetooth...'
+tags: 
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

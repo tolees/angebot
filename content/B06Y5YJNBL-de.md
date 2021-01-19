@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41IIV8QsHZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y5YJNBL-de BURG-WÄCHTER Digital-Multimeter  Spannungsmesser für elektrische Geräte  MULTI PS 7455'
+slug: 'B06Y5YJNBL-de BURG-WÄCHTER Digital-Multimeter Spannungsmesser für...'
+tags: 
 actualPrice: 35.05 EUR
 currency: EUR
 price: 35.05

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xpSeIdw5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7Q6ZC9-de LABISTS Raspberry Pi 4 Model B 4 GB Ultimatives Kit mit 32GB Class10 Micro SD-Karte  5 1V 3 0A USB-C EIN/Aus-Schaltnetzteil  3 Premium Kupfer Kühlkörper  Micro HDMI-Kabel  Premium Schwarzes Gehäuse'
+slug: 'B07W7Q6ZC9-de LABISTS Raspberry Pi 4 Model B 4 GB Ultimatives Kit mit...'
+tags: 
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

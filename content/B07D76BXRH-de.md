@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HEGZ6N7GL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D76BXRH-de Levi s Damen 310 Shaping Super Skinny Jeans  Blau  Taurus 0007   W27/L32'
+slug: 'B07D76BXRH-de Levi s Damen 310 Shaping Super Skinny Jeans Blau Taurus...'
+tags: 
 actualPrice: 57.94 EUR
 currency: EUR
 price: 57.94

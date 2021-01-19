@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414CxokPoxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W69JTH9-de Funko 45312 POP Movies: Devil Wears Prada - Andy Sachs Collectible Toy  Multicolour'
+slug: 'B07W69JTH9-de Funko 45312 POP Movies: Devil Wears Prada - Andy Sachs...'
+tags: 
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

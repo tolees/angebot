@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41daxuEgnVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013ZR4IGG-de Philips Sonicare FlexCare Platinum Zahnbürste HX9111/20 - elektrische Schallzahnbürste mit Andruckkontrolle  3 Putzprogrammen  3 Intensitäten  Timer & Etui - schonend für Zähne & Zahnfleisch – Weiß'
+slug: 'B013ZR4IGG-de Philips Sonicare FlexCare Platinum Zahnbürste HX9111/20 -...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

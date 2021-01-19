@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+kFDPDKqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YF1R2FS-de HP Pavilion Gaming 15-dk0206ng  15 6 Zoll / FHD IPS  Gaming Notebook  Intel Core i5-9300H  8GB DDR4 RAM  512GB SSD  Nvidia GeForce GTX 1650 4GB GDDR5  Windows 10  schwarz / grün'
+slug: 'B07YF1R2FS-de HP Pavilion Gaming 15-dk0206ng 15 6 Zoll / FHD IPS Gaming...'
+tags: 
 actualPrice: 450.0 EUR
 currency: EUR
 price: 450.0

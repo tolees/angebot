@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072HXHDRQ-de POP! Games: "FNAF SL" Funtime Freddy'
+tags: 
 actualPrice: 4.18 EUR
 currency: EUR
 price: 4.18

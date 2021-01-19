@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312JUcKS87L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JJ8TN45-de eufy Security  eufyCam E Kabellose Überwachungskamera  1 Jahr Akkulaufzeit  1080p 100dB Diebstahlalarm  16GB microSD-Speicherkarte  doppelseitige Kommunikation  IP65 Wetterfest'
+slug: 'B07JJ8TN45-de eufy Security eufyCam E Kabellose Überwachungskamera 1...'
+tags: 
 actualPrice: 112.49 EUR
 currency: EUR
 price: 112.49

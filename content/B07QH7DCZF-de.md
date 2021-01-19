@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419JW-UbBWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QH7DCZF-de BABY born Surprise 904091 Baby Überraschungsfigur im Kokon mit Wasserfunktion und Überraschungen Welle 2  1 Stück - Figur nicht auswählbar'
+slug: 'B07QH7DCZF-de BABY born Surprise 904091 Baby Überraschungsfigur im Kokon...'
+tags: 
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

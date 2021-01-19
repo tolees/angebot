@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PY99MFN-de ASS 22583135 Paw Patrol Missions Memo'
+tags: 
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

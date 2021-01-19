@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MITzc4JOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00STFSEZ6-de Gift Company - Tang - Schmuckkasten  Schmuckbox  Schmuckschatulle - mit Schloss - Größe: L - Farbe: Lavender  Violett'
+slug: 'B00STFSEZ6-de Gift Company - Tang - Schmuckkasten Schmuckbox...'
+tags: 
 actualPrice: 215.0 EUR
 currency: EUR
 price: 215.0

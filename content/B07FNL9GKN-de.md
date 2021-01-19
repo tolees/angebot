@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zsARSPBbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNL9GKN-de MP3 Player  Bluetooth 8GB MP3 Player mit Kopfhörern  Digital Kinder MP3 Player mit Lautsprecher FM Radio Voice Recorder unterstützt erweiterbar Max bis zu 128G  Kopfhörer und Sport Armband enthalten'
+slug: 'B07FNL9GKN-de MP3 Player Bluetooth 8GB MP3 Player mit Kopfhörern Digital...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

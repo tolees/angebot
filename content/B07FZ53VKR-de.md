@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RvoB9pzNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FZ53VKR-de Microsoft Office 365 Home multilingual | 6 Nutzer | Mehrere PCs / Macs  Tablets und mobile Geräte | 1 Jahresabonnement | Box'
+slug: 'B07FZ53VKR-de Microsoft Office 365 Home multilingual | 6 Nutzer |...'
+tags: 
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

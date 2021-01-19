@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CBge8jtXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZNC48D-de BRIKSMAX Led Beleuchtungsset für Lego City Starke Fahrzeuge Forsttraktor  Kompatibel Mit Lego 60181 Bausteinen Modell - Ohne Lego Set'
+slug: 'B07TZNC48D-de BRIKSMAX Led Beleuchtungsset für Lego City Starke...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

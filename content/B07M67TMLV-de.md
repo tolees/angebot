@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317uFuWQd-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M67TMLV-de Ondis24 Regal  Lagerregal  71 x 35 x 180  H  cm  Steckregal  Kunststoffregal  15 Zoll Schwerlastregal  bis zu 180 kg belastbar'
+slug: 'B07M67TMLV-de Ondis24 Regal Lagerregal 71 x 35 x 180 H cm Steckregal...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

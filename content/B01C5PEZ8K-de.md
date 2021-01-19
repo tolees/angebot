@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wGGIRUZrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C5PEZ8K-de Tchibo Cafissimo Pure Kaffee Kapselmaschine  Rot'
+slug: 'B01C5PEZ8K-de Tchibo Cafissimo Pure Kaffee Kapselmaschine Rot'
+tags: 
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

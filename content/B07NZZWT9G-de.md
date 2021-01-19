@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31exoJQEV3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZZWT9G-de ONLY NOS Damen Onlroyal Hw Sk White Noos Skinny Jeans Weiß  White   34 /L32  Herstellergröße:XS '
+slug: 'B07NZZWT9G-de ONLY NOS Damen Onlroyal Hw Sk White Noos Skinny Jeans Weiß...'
+tags: 
 actualPrice: 22.21 EUR
 currency: EUR
 price: 22.21

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C7lAIV6sL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FLN6QXQ-de Levi s Damen Original Sherpa Trucker Jacke  Schwarz  Forever Black 0012   Large  Herstellergröße: L '
+slug: 'B07FLN6QXQ-de Levi s Damen Original Sherpa Trucker Jacke Schwarz Forever...'
+tags: 
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

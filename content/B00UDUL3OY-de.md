@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GcEZqmHaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UDUL3OY-de 5 Zimmer  Küche  Sarg'
+slug: 'B00UDUL3OY-de 5 Zimmer Küche Sarg'
+tags: 
 actualPrice: 3.51 EUR
 currency: EUR
 price: 3.51

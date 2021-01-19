@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tlJ7OrgmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BK1KYDR-de Muzili Fitness Armband Wasserdicht Fitness Tracker Sport Armband Fitness Uhr Aktivitätstracker mit Schrittzähler/Schlafmonitor/Anruf Nachricht Benachrichtigung für Kinder Frauen und Männer Rosa '
+slug: 'B07BK1KYDR-de Muzili Fitness Armband Wasserdicht Fitness Tracker Sport...'
+tags: 
 actualPrice: 13.43 EUR
 currency: EUR
 price: 13.43

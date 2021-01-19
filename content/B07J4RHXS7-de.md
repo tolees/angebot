@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xv5XVEtDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J4RHXS7-de Gkongu Pom Pom Maker Kits  4 Größen  Flusenball-Weaver DIY Strickwerkzeug  ideal für die Handherstellung von Pompons  Bällen mit Ihren Kindern zu Hause Kartonfarben'
+slug: 'B07J4RHXS7-de Gkongu Pom Pom Maker Kits 4 Größen Flusenball-Weaver DIY...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cCyuQp8yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JOS8H3K-de G & G KF6000A oder KF3000A 0 1g - 6000g Präzisionswaage Küchenwaage Briefwaage Tischwaage  KF3000A '
+slug: 'B01JOS8H3K-de G & G KF6000A oder KF3000A 0 1g - 6000g Präzisionswaage...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

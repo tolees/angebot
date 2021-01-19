@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41F2nyO4KXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B008C27YLQ-de Nike Unisex Erwachsene Swoosh Headband/Stirnband  Schwarz  Black/White   Einheitsgröße'
+slug: 'B008C27YLQ-de Nike Unisex Erwachsene Swoosh Headband/Stirnband Schwarz...'
+tags: 
 actualPrice: 6.62 EUR
 currency: EUR
 price: 6.62

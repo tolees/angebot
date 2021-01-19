@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61uNsHwMe-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMD494D-de Playmobil 70052 City Life Rettungs-Balance-Roller  bunt'
+slug: 'B07JMD494D-de Playmobil 70052 City Life Rettungs-Balance-Roller bunt'
+tags: 
 actualPrice: 5.25 EUR
 currency: EUR
 price: 5.25

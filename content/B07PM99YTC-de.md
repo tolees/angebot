@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FRJ09Y8dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PM99YTC-de BRIKSMAX Led Beleuchtungsset für Mini Cooper  Kompatibel Mit Lego 10242 Bausteinen Modell - Ohne Lego Set'
+slug: 'B07PM99YTC-de BRIKSMAX Led Beleuchtungsset für Mini Cooper Kompatibel...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

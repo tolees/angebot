@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Z86gggPuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TFCGV9F-de Govee RGB LED Strip  5M Wasserdicht LED Streifen Lichtband mit Fernbedienung  Farbänderung LED Band Lichterkette für Zuhause  Schlafzimmer  TV  Tische  Schrank  Hell 5050 LED Schlauch  12V Netzteil'
+slug: 'B07TFCGV9F-de Govee RGB LED Strip 5M Wasserdicht LED Streifen Lichtband...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

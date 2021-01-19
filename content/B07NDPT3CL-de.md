@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ulvt-KIvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDPT3CL-de G-STAR RAW Damen Syenite Slim Hemd  Blau  Mazarine Blue 4213    Herstellergröße:L '
+slug: 'B07NDPT3CL-de G-STAR RAW Damen Syenite Slim Hemd Blau Mazarine Blue 4213...'
+tags: 
 actualPrice: 16.48 EUR
 currency: EUR
 price: 16.48

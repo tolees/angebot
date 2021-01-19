@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dMpgcyzbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013C97RSS-de Kitchen Craft Tablett 30cm Living Nostalgia in weiß/grau  Emaille  30 x 18 x 18 cm'
+slug: 'B013C97RSS-de Kitchen Craft Tablett 30cm Living Nostalgia in weiß/grau...'
+tags: 
 actualPrice: 17.53 EUR
 currency: EUR
 price: 17.53

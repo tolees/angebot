@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g6CvgAdZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075M8V4FN-de Replay Herren Anbass Slim Jeans  Blau  Mid Blue 9   W30/L32'
+slug: 'B075M8V4FN-de Replay Herren Anbass Slim Jeans Blau Mid Blue 9 W30/L32'
+tags: 
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZqbPQg-VL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XPCC3NN-de HP Pavilion Gaming TG01-0023ng Desktop  AMD Ryzen 7-3700X  16GB DDR4 RAM  512GB SSD  Nvidia GeForce GTX 1660Ti 6GB GDDR6  Windows 10 Home  schwarz / grün'
+slug: 'B07XPCC3NN-de HP Pavilion Gaming TG01-0023ng Desktop AMD Ryzen 7-3700X...'
+tags: 
 actualPrice: 500 EUR
 currency: EUR
 price: 500

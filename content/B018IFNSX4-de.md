@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vyPo2PWjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018IFNSX4-de Elvie Trainer - Der preisgekrönte Beckenbodentrainer mit Biofeedback zur Stärkung und Straffung Ihres Beckenbodens'
+slug: 'B018IFNSX4-de Elvie Trainer - Der preisgekrönte Beckenbodentrainer mit...'
+tags: 
 actualPrice: 142.64 EUR
 currency: EUR
 price: 142.64

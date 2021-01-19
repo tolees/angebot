@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-SL2md70L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHH2J4D-de ghd max Styler  breites Glätteisen mit Keramik-Heiztechnologie'
+slug: 'B07BHH2J4D-de ghd max Styler breites Glätteisen mit Keramik-Heiztechnologie'
+tags: 
 actualPrice: 133.33 EUR
 currency: EUR
 price: 133.33

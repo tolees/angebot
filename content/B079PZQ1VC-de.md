@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41drQHMw3uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079PZQ1VC-de Funko 26904 Pop Marvel: Avengers Infinity War - Teenager Groot mit Pistole Collectible Figur'
+slug: 'B079PZQ1VC-de Funko 26904 Pop Marvel: Avengers Infinity War - Teenager...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

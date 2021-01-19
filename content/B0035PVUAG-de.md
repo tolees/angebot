@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RCMq5rfgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0035PVUAG-de Bosch Professional Stichsäge GST 150 CE  780 Watt  Schnitttiefe Holz max: 150 mm  ohnne Schlauch  im Koffer '
+slug: 'B0035PVUAG-de Bosch Professional Stichsäge GST 150 CE 780 Watt...'
+tags: 
 actualPrice: 125.99 EUR
 currency: EUR
 price: 125.99

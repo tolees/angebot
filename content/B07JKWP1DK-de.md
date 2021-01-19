@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pTZDsweaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKWP1DK-de PLAYMOBIL City Life 70016 Mein Blumenladen  Ab 4 Jahren'
+slug: 'B07JKWP1DK-de PLAYMOBIL City Life 70016 Mein Blumenladen Ab 4 Jahren'
+tags: 
 actualPrice: 27.91 EUR
 currency: EUR
 price: 27.91

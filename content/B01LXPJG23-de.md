@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31d-YDMbXwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXPJG23-de Tado Smartes Heizkörper-Thermostat  Zusatzprodukt für Einzelraumsteuerung  intelligente Heizungssteuerung '
+slug: 'B01LXPJG23-de Tado Smartes Heizkörper-Thermostat Zusatzprodukt für...'
+tags: 
 actualPrice: 61.0 EUR
 currency: EUR
 price: 61.0

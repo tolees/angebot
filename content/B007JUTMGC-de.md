@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NWpgPEYjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007JUTMGC-de Erima Damen Casual Basics Sweathose mit Bündchen  schwarz  38'
+slug: 'B007JUTMGC-de Erima Damen Casual Basics Sweathose mit Bündchen schwarz 38'
+tags: 
 actualPrice: 23.77 EUR
 currency: EUR
 price: 23.77

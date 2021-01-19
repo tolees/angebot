@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Zkw3N+XeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0894TH4KJ-de Bluetooth Adapter 5.0 Empfänger Transmitter  2 in 1 Bluetooth Sender Receiver Low Latency HD Bluetooth Audio Adapter mit RCA & 3.5 mm AUX kompatibel für TV PC Kopfhörer autsprecher Auto Radio'
+slug: 'B0894TH4KJ-de Bluetooth Adapter 5.0 Empfänger Transmitter 2 in 1...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

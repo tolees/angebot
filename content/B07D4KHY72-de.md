@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qEnJtjqyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D4KHY72-de Lenovo  15 6 Zoll  Notebook  Intel N4000 Dual Core 2x2.60 GHz  8GB RAM  256GB SSD  Intel HD 505  HDMI  Webcam  Bluetooth  USB 3.0  WLAN  Windows 10 Prof. 64 Bit  #5799'
+slug: 'B07D4KHY72-de Lenovo 15 6 Zoll Notebook Intel N4000 Dual Core 2x2.60 GHz...'
+tags: 
 actualPrice: 359.0 EUR
 currency: EUR
 price: 359.0

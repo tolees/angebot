@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DteNymtcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002C6LU6S-de Proxxon 23080 Steckschlüsselsatz 1/4 Zoll  36-teilig'
+slug: 'B002C6LU6S-de Proxxon 23080 Steckschlüsselsatz 1/4 Zoll 36-teilig'
+tags: 
 actualPrice: 33.98 EUR
 currency: EUR
 price: 33.98

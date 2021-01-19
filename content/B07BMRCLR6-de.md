@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JSL+TJJFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BMRCLR6-de MEDION MD 18500 Saugroboter mit Ladestation  90 Min Laufzeit  Roboterstaubsauger für Hartböden  Teppiche  Fliesen  Laminat  Tierhaar optimiert  Direktabsaugung  autom. Rückkehr zur Ladestation  weiß'
+slug: 'B07BMRCLR6-de MEDION MD 18500 Saugroboter mit Ladestation 90 Min...'
+tags: 
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

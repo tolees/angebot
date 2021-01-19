@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51LRT0m1DuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXVHL8W-de Sony SRS-XB402M Bluetooth-Lautsprecher  EXTRA BASS  integriertes Amazon Alexa  Spotify Connect  schwarz'
+slug: 'B07RXVHL8W-de Sony SRS-XB402M Bluetooth-Lautsprecher EXTRA BASS...'
+tags: 
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

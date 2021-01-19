@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516o056xnaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BGRIFUI-de Dickie Toys Mega Crane  elektrischer Kran mit Fernbedienung  für Kinder ab 3 Jahren  120 cm hoch  mit Greifarm  Seilwinde  Kabine  Ladeplattform'
+slug: 'B00BGRIFUI-de Dickie Toys Mega Crane elektrischer Kran mit Fernbedienung...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

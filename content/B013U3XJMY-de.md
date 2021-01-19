@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zLoypCetL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013U3XJMY-de Berydale Damen Parka Jacke wasser- und winddicht  Gr. 36  Herstellergröße: S   Schwarz'
+slug: 'B013U3XJMY-de Berydale Damen Parka Jacke wasser- und winddicht Gr. 36...'
+tags: 
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

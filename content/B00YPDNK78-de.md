@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bRhojn-bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YPDNK78-de Einhell Trockenbauschleifer TC-DW 225  600 W  max. 1500 min.-1 Leerlaufdrehzahl  225 mm Schleifscheibendurchmesser  Teleskopstiel  Schleifteller mit Klett  inkl. 6 Schleifscheiben '
+slug: 'B00YPDNK78-de Einhell Trockenbauschleifer TC-DW 225 600 W max. 1500...'
+tags: 
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

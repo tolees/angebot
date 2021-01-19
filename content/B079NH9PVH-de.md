@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xr2TQIHML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079NH9PVH-de Schleich 42407 Bauernhaus mit Stall und Tieren  Bunt  Large'
+slug: 'B079NH9PVH-de Schleich 42407 Bauernhaus mit Stall und Tieren Bunt Large'
+tags: 
 actualPrice: 53.67 EUR
 currency: EUR
 price: 53.67

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZLukSzWqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0892BFPD4-de jerryvon Hammerspiel Klopfbank Holz Kinderspielzeug 3 in 1 Hämmerchenspiel mit Xylophon & Labyrinth Lernspielzeug Vorschul Montessori Spielzeug Pädagogische Spiel Geschenk für Kinder ab 3 4 5 Jahre'
+slug: 'B0892BFPD4-de jerryvon Hammerspiel Klopfbank Holz Kinderspielzeug 3 in 1...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

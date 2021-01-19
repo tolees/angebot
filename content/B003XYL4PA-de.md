@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003XYL4PA-de Deuter Streamer Thermo Bag 3.0 Zubehör Trinkblase'
+tags: 
 actualPrice: 13.93 EUR
 currency: EUR
 price: 13.93

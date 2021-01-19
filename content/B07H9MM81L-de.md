@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yTJb1WbYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H9MM81L-de Nebula Prizm II von Anker 3600 Lux 1080p Full HD Video LCD-Projektor  Duale 5W Lautsprecher  Kino für Zuhause  Multimedia Unterhaltung  Automatische Trapezkorrektur  HDMI- und USB-Funktionen'
+slug: 'B07H9MM81L-de Nebula Prizm II von Anker 3600 Lux 1080p Full HD Video...'
+tags: 
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

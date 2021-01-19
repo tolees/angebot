@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tQ13bBxqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078HFBGWP-de Swiss Military Hanowa Herren Analog Quarz Uhr mit Edelstahl Armband 06-5296.04.003'
+slug: 'B078HFBGWP-de Swiss Military Hanowa Herren Analog Quarz Uhr mit...'
+tags: 
 actualPrice: 178.3 EUR
 currency: EUR
 price: 178.3

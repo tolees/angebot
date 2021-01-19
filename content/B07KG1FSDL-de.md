@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513AnyhgcSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG1FSDL-de LIGHTAILING Licht-Set Für  Schiff in der Flasche  Modell - LED Licht-Set Kompatibel Mit Lego 21313 Modell Nicht Enthalten '
+slug: 'B07KG1FSDL-de LIGHTAILING Licht-Set Für Schiff in der Flasche Modell -...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

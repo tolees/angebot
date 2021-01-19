@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FZbrL1TZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FT2BZ4S-de Levi s Emerson Herren Kurzschaft Stiefel  Schwarz  Black 59   42 EU'
+slug: 'B01FT2BZ4S-de Levi s Emerson Herren Kurzschaft Stiefel Schwarz Black 59...'
+tags: 
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

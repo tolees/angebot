@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lfVcSFQNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXLHSXP-de Bosch BBH32101 Flexxo 2 in 1 kabelloser Handstaubsauger  mit Akku  Zubehör am Gerät  lange Laufzeit  21 6 V  schwarz'
+slug: 'B07KXLHSXP-de Bosch BBH32101 Flexxo 2 in 1 kabelloser Handstaubsauger...'
+tags: 
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mjGaqBJiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00005BAHT-de Jakobs 4019960 - Rody Hüpfpferd  rot'
+slug: 'B00005BAHT-de Jakobs 4019960 - Rody Hüpfpferd rot'
+tags: 
 actualPrice: 23.76 EUR
 currency: EUR
 price: 23.76

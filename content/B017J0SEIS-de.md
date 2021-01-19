@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318hKpTG0NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017J0SEIS-de Mousehouse Gifts Holzspielzeug Eulen Werkzeugkasten für Mädchen'
+slug: 'B017J0SEIS-de Mousehouse Gifts Holzspielzeug Eulen Werkzeugkasten für...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

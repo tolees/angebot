@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-PjVZFw+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CTO4EP2-de Inter Link 99200260 Regalbox Regalkorb Aufbewahrungsbox Schrankbox Box Würfel faltbar Regal blau NEU'
+slug: 'B00CTO4EP2-de Inter Link 99200260 Regalbox Regalkorb Aufbewahrungsbox...'
+tags: 
 actualPrice: 3.96 EUR
 currency: EUR
 price: 3.96

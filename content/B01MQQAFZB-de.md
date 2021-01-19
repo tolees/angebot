@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HiT-8n+WL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQQAFZB-de BRITA Filterkartuschen MAXTRA+ im 2er Pack – Kartuschen für alle BRITA Wasserfilter zur Reduzierung von Kalk  Chlor & geschmacksstörenden Stoffen im Leitungswasser'
+slug: 'B01MQQAFZB-de BRITA Filterkartuschen MAXTRA+ im 2er Pack – Kartuschen...'
+tags: 
 actualPrice: 9.16 EUR
 currency: EUR
 price: 9.16

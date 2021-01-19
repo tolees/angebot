@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51t9poOATPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HBCCGY8-de Apple iPhone XS  64GB  - Space Grau'
+slug: 'B07HBCCGY8-de Apple iPhone XS 64GB - Space Grau'
+tags: 
 actualPrice: 666 EUR
 currency: EUR
 price: 666

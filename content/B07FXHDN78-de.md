@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dw0R-oAOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FXHDN78-de Gold XL Edelstahl Whisky Steine Bullets – Hohe Kühltechnologie - Geschenk für Männer - Eiswürfel Wiederverwendbar - Edelstahl Eiswürfel - 6 Whiskey Patrone Männer Geschenke - Amerigo Whiskey Zubehör'
+slug: 'B07FXHDN78-de Gold XL Edelstahl Whisky Steine Bullets – Hohe...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

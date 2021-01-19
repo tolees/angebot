@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OalEcRApL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HZ3MJHC-de Ferm Bandschleifmaschine – 350W – 150mm - einschl. 2 Schleifbänder  P80 & P120  und 2 Schleifscheiben  P80 & P120 '
+slug: 'B07HZ3MJHC-de Ferm Bandschleifmaschine – 350W – 150mm - einschl. 2...'
+tags: 
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

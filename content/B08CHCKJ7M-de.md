@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dSPbNlZCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CHCKJ7M-de Externes 3D Blu Ray DVD Laufwerk Brenner USB 3.0 Tragbare Ultra Slim BD/CD/DVD RW Player Disc für Windows 10/7/8.1 / Vista/XP/Mac OS Linux  PC'
+slug: 'B08CHCKJ7M-de Externes 3D Blu Ray DVD Laufwerk Brenner USB 3.0 Tragbare...'
+tags: 
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

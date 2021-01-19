@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31z92OzSI9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GWVPYHN-de Soundcore Liberty Air Bluetooth Kopfhörer True Wireless in Ear kabellos  mit Graphene-verstärktem Klang  20 Stunden Akkulaufzeit  Dual-Mic und Bluetooth 5.0  für iPhone Samsung Huawei  Schwarz '
+slug: 'B07GWVPYHN-de Soundcore Liberty Air Bluetooth Kopfhörer True Wireless in...'
+tags: 
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

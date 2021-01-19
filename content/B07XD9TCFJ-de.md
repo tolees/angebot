@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y1dYyKCpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XD9TCFJ-de Tarent Skibrille mit Ultragroßes rahmenloses Design und 170° Neigung  Antibeschlag und UV-Schutz  Helmkompatibilität Snowboard Brille  Skibrille Für Herren und Damen  Silber '
+slug: 'B07XD9TCFJ-de Tarent Skibrille mit Ultragroßes rahmenloses Design und...'
+tags: 
 actualPrice: 25.85 EUR
 currency: EUR
 price: 25.85

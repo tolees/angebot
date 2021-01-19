@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416UpyIENGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9EM3U4-de Einhell Tauchpumpe GC-SP 3580 LL  350 W  8.000 Liter pro Stunde  flachabsaugend bis 1 mm  Pumpenstart ab 8 mm  integriertes Rückschlagventil '
+slug: 'B01N9EM3U4-de Einhell Tauchpumpe GC-SP 3580 LL 350 W 8.000 Liter pro...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

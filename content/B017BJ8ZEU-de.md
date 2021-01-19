@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kTfrdC3PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017BJ8ZEU-de Bosch Serie 8 KIF41AD40 Einbau Kühlschrank / EEK A+++ / 80 kWh/Jahr / 187 l / TouchControl Akustischer Türalarm / Profi-Türdämpfung'
+slug: 'B017BJ8ZEU-de Bosch Serie 8 KIF41AD40 Einbau Kühlschrank / EEK A+++ / 80...'
+tags: 
 actualPrice: 773.87 EUR
 currency: EUR
 price: 773.87

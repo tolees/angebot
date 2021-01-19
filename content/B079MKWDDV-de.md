@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ehm8-jr2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MKWDDV-de PLAYMOBIL DreamWorks Spirit 9477 Vater Jim mit Kutsche  Ab 4 Jahren'
+slug: 'B079MKWDDV-de PLAYMOBIL DreamWorks Spirit 9477 Vater Jim mit Kutsche Ab...'
+tags: 
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

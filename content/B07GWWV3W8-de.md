@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414mjk6sLLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GWWV3W8-de DT Swiss Unisex - Erwachsene VR E 1900 Spline DB Läufrad  schwarz  1size'
+slug: 'B07GWWV3W8-de DT Swiss Unisex - Erwachsene VR E 1900 Spline DB Läufrad...'
+tags: 
 actualPrice: 121.37 EUR
 currency: EUR
 price: 121.37

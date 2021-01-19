@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NBmmj708L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MLXOOB0-de Sony CMT-X3CD Micro-HiFi System  CD  USB  Bluetooth  20 Watt  schwarz'
+slug: 'B00MLXOOB0-de Sony CMT-X3CD Micro-HiFi System CD USB Bluetooth 20 Watt...'
+tags: 
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

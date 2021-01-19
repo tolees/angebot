@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41RQPj0ZUhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKJFRK4-de HP Spectre x360 15-df0106ng  15 6 Zoll/ UHD Touchscreen  Convertible Laptop  Intel Core i7-8565U quad  16GB DDR RAM  512GB SSD  NVIDIA GeForce MX150  Windows 10 Home  schwarz/Dunkle grau'
+slug: 'B07JKJFRK4-de HP Spectre x360 15-df0106ng 15 6 Zoll/ UHD Touchscreen...'
+tags: 
 actualPrice: 824 EUR
 currency: EUR
 price: 824

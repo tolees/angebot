@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wtYhZchkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BM1WMG5-de Hasbro Gaming E1871100 - Monopoly Mogeln und Mauscheln Familienspiel'
+slug: 'B07BM1WMG5-de Hasbro Gaming E1871100 - Monopoly Mogeln und Mauscheln...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

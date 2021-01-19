@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41LG%2B0LU2NL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B002VPUOOE-de Johnnie Walker Red Label Blended Scotch Whisky - Rauchige Note mit frischen und süßen Akzenten - Aus den vier Ecken Schottlands direkt ins Glas - 1 x 0 7l'
+slug: 'B002VPUOOE-de Johnnie Walker Red Label Blended Scotch Whisky - Rauchige...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

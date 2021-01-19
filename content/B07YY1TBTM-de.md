@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zjuigto7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YY1TBTM-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars PORG Kompatibel Mit Lego 75230 Bausteinen Modell - Ohne Lego Set'
+slug: 'B07YY1TBTM-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars PORG...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

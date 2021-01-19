@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413QCfdpcfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AIFSY2M-de Famosa 700012778 - Heidi Quietsch und Badefigur im Thekendisplay  17 cm'
+slug: 'B01AIFSY2M-de Famosa 700012778 - Heidi Quietsch und Badefigur im...'
+tags: 
 actualPrice: 8.85 EUR
 currency: EUR
 price: 8.85

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yeuGWE-IL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007M9QGGE-de THOMAS SABO Unisex Anhänger Kreuz Anhänger Kreuz 925er Sterlingsilber  Geschwärzt PE503-001-12'
+slug: 'B007M9QGGE-de THOMAS SABO Unisex Anhänger Kreuz Anhänger Kreuz 925er...'
+tags: 
 actualPrice: 44.78 EUR
 currency: EUR
 price: 44.78

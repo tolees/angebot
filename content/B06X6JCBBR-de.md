@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51k1sj7YWFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X6JCBBR-de Ultimate Ears Wonderboom Tragbarer Bluetooth-Lautsprecher  Überraschend Starker Sound  Wasserdicht  Verbinde 2 Lautsprecher für Lautstarken Hi-Fi Sound  10-Stunden Akkulaufzeit - Phantom Black/schwarz'
+slug: 'B06X6JCBBR-de Ultimate Ears Wonderboom Tragbarer Bluetooth-Lautsprecher...'
+tags: 
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

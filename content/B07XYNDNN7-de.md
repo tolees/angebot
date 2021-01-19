@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51T5uoO9JAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XYNDNN7-de Joyspot Kochmesser Japanisch Chefmesser  Santokumesser Küchenmesser 17cm  Deutsche Karbon-Edelstahlmesser Extra Scharfe Messerklinge mit Ergonomischer Griff  Beste für Home Kitchen'
+slug: 'B07XYNDNN7-de Joyspot Kochmesser Japanisch Chefmesser Santokumesser...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

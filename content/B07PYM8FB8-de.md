@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ynb0mOPNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PYM8FB8-de Apple AirPods mit kabellosem Ladecase  2. Generation '
+slug: 'B07PYM8FB8-de Apple AirPods mit kabellosem Ladecase 2. Generation'
+tags: 
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

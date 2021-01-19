@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VVUsV-wGL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JVWY7SJ-de ASUS ROG STRIX NVIDIA GeForce RTX 2070 OC 8G Gaming Grafikkarte  PCIe 3.0  8GB DDR6 Speicher  HDMI  Displayport  USB Type-C '
+slug: 'B07JVWY7SJ-de ASUS ROG STRIX NVIDIA GeForce RTX 2070 OC 8G Gaming...'
+tags: 
 actualPrice: 325.0 EUR
 currency: EUR
 price: 325.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316XSCxQjhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FL962AQ-de Netgear WAC720B03-10000S Dual Band 802.11ac Wireless Access Point  3-er Pack '
+slug: 'B01FL962AQ-de Netgear WAC720B03-10000S Dual Band 802.11ac Wireless...'
+tags: 
 actualPrice: 324.0 EUR
 currency: EUR
 price: 324.0

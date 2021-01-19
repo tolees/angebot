@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xoxcWwTNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y5ZN8SP-de Citizen Herren Datum klassisch Solar Uhr mit Titan Armband BM7360-82M'
+slug: 'B06Y5ZN8SP-de Citizen Herren Datum klassisch Solar Uhr mit Titan Armband...'
+tags: 
 actualPrice: 168.96 EUR
 currency: EUR
 price: 168.96

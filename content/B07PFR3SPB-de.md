@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TY9-F-FlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PFR3SPB-de Rollei Go! Profi Smartphone-Gimbal I Handy-Gimbal I Video Stabilisator I Gimbal für Iphone & Android inklusiver kabelloser Ladefunktion & Tasche'
+slug: 'B07PFR3SPB-de Rollei Go! Profi Smartphone-Gimbal I Handy-Gimbal I Video...'
+tags: 
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

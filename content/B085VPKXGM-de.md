@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41o28xoh9uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085VPKXGM-de Dittzz LED Licht-Set für Baustein Spielzeug  Beleuchtungsset Kompatibel mit Lego Technic 42063 - BMW R 1200 GS Adventure  Modell Nicht Enthalten '
+slug: 'B085VPKXGM-de Dittzz LED Licht-Set für Baustein Spielzeug...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

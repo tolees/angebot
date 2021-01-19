@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BnRTpDJpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QGWY9F7-de Funko POP! Vinyl Rocks: Iggy Pop - Iggy  Mehrfarben  Standard'
+slug: 'B07QGWY9F7-de Funko POP! Vinyl Rocks: Iggy Pop - Iggy Mehrfarben Standard'
+tags: 
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

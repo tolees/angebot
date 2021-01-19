@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31QiaLdVpZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X4FPF6P-de Selected Homme NOS Herren 16068376 Hose  Grün Sea Spray   44 /L34 Herstellergröße:31 '
+slug: 'B07X4FPF6P-de Selected Homme NOS Herren 16068376 Hose Grün Sea Spray 44...'
+tags: 
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

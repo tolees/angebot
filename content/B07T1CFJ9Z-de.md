@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BIivnh6oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T1CFJ9Z-de FISCHER Twin Fahrrad-Rücklicht mit 360° Bodenleuchte für mehr Sichtbarkeit und Schutz  aufladbarer Akku'
+slug: 'B07T1CFJ9Z-de FISCHER Twin Fahrrad-Rücklicht mit 360° Bodenleuchte für...'
+tags: 
 actualPrice: 9.01 EUR
 currency: EUR
 price: 9.01

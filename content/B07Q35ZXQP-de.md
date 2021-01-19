@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414TumNoYxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q35ZXQP-de Ice Crusher  tragbare Handkurbel Ice Crusher Rasierer Manuelle Ice Chipper Runde Haushalt EIS Rasierer Schneekegel Maker Kitchen Tool'
+slug: 'B07Q35ZXQP-de Ice Crusher tragbare Handkurbel Ice Crusher Rasierer...'
+tags: 
 actualPrice: 37.09 EUR
 currency: EUR
 price: 37.09

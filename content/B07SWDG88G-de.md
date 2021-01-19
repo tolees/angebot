@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OHv1y4OBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWDG88G-de s.Oliver BLACK LABEL Damen 01.899.76.5561 Hose  Schwarz  Forever Black 99q2   W Herstellergröße: 34 '
+slug: 'B07SWDG88G-de s.Oliver BLACK LABEL Damen 01.899.76.5561 Hose Schwarz...'
+tags: 
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

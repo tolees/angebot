@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51IFdzGX8sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZ5JK42-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars TIE Fighter Attack  Kompatibel Mit Lego 75237 Bausteinen Modell - Ohne Lego Set'
+slug: 'B07RZ5JK42-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars TIE...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

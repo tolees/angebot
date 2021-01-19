@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D-6gEeT6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078Y77XMM-de Pro Breeze™ Oszillierender Turmventilator  100 cm Höhe  80 Grad Oszillation  Säulenventilator mit 3 Geschwindigkeitsstufen  45 Watt Ventilator mit Fernbedienung und Timer | Weiß'
+slug: 'B078Y77XMM-de Pro Breeze™ Oszillierender Turmventilator 100 cm Höhe 80...'
+tags: 
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

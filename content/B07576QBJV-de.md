@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31H7IhSn8fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07576QBJV-de Ecco Herren BIOMLITEM Sneaker  Schwarz  Ombre/Ombre 54780   41 EU'
+slug: 'B07576QBJV-de Ecco Herren BIOMLITEM Sneaker Schwarz Ombre/Ombre 54780 41 EU'
+tags: 
 actualPrice: 87.28 EUR
 currency: EUR
 price: 87.28

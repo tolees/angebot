@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sVPBFfatL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074K4DPQV-de Holy Stone Hs160 Fpv Mini Drohne Faltbar Mit HD Kamera Live Übertragung Und Langere Flugzeit  Pocket Drohne  2.4GHz 6-Axis Gyro Stabilization System Rtf Rc Quadcopter Ferngesteuert Mit Automatische'
+slug: 'B074K4DPQV-de Holy Stone Hs160 Fpv Mini Drohne Faltbar Mit HD Kamera...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

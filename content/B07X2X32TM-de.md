@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hNl9oQZqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2X32TM-de Tablet 10 Zoll LNMBBS P30 Android 10.0 5G Wi-Fi Tablet Octa-Core  64GB ROM und 4GB RAM Tablet PC  Einer SIM-Steckplätzen und Wi-Fi  13MP und 5MP Kamera  1920 * 1200 HD IPS  GPS  Schwarz '
+slug: 'B07X2X32TM-de Tablet 10 Zoll LNMBBS P30 Android 10.0 5G Wi-Fi Tablet...'
+tags: 
 actualPrice: 139.98 EUR
 currency: EUR
 price: 139.98

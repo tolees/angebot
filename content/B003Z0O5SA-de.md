@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CPRaTOnhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003Z0O5SA-de CMP Softshell Jungen Kapuzen Jacke  Schwarz  U901   140'
+slug: 'B003Z0O5SA-de CMP Softshell Jungen Kapuzen Jacke Schwarz U901 140'
+tags: 
 actualPrice: 17.47 EUR
 currency: EUR
 price: 17.47

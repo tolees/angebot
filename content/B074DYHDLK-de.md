@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41juu8fVdnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074DYHDLK-de Asus ROG Zenith Extreme Gaming Mainboard Sockel TR4  eATX  AMD Threadripper X399  Aura Sync  8x DDR4 Speicher  USB 3.1 Gen 2  M.2 Kühlkörper '
+slug: 'B074DYHDLK-de Asus ROG Zenith Extreme Gaming Mainboard Sockel TR4 eATX...'
+tags: 
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

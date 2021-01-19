@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AtaBLqkfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BLHX4HP-de Bluetooth Kopfhörer  In-Ear Kabellose Kopfhörer  Noise Cancelling Sport-3D-Stereo-Kopfhörer  mit 24H Ladekästchen und Integriertem Mikrofon für iPhone/Android/Samsung'
+slug: 'B08BLHX4HP-de Bluetooth Kopfhörer In-Ear Kabellose Kopfhörer Noise...'
+tags: 
 actualPrice: 30.89 EUR
 currency: EUR
 price: 30.89

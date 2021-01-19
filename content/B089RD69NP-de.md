@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uOBiYwUQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089RD69NP-de PUMA Sneakersocken 18 Paar Pack Statement Edition - Damen und Herren - Black-White-Anthracite - Gr. 39-42'
+slug: 'B089RD69NP-de PUMA Sneakersocken 18 Paar Pack Statement Edition - Damen...'
+tags: 
 actualPrice: 23.74 EUR
 currency: EUR
 price: 23.74

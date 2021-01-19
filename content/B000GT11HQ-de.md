@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NV1AIFwWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000GT11HQ-de Sony SAL85F14Z  Tele-Objektiv  85 mm  F1 4 ZA  Planar T*  A-Mount Vollformat  geeignet für A99 Serie  schwarz'
+slug: 'B000GT11HQ-de Sony SAL85F14Z Tele-Objektiv 85 mm F1 4 ZA Planar T*...'
+tags: 
 actualPrice: 1024.76 EUR
 currency: EUR
 price: 1024.76

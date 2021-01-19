@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41JWUhj87zL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF61ZJQ-de Levi s Herren Tapered Fit Jeans 502 Regular Taper  Blau  Creeping Thyme Adv 0412   W32/L30'
+slug: 'B07KF61ZJQ-de Levi s Herren Tapered Fit Jeans 502 Regular Taper Blau...'
+tags: 
 actualPrice: 38.85 EUR
 currency: EUR
 price: 38.85

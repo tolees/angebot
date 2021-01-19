@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gB6AJOktL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L2X4ZBX-de Corsair Harpoon Kabellose RGB Wiederaufladbare Optisch Gaming-Maus  mit SLIPSTREAM Technologie  10.000DPI Optisch Sensor  RGB LED Hintergrundbeleuchtung  schwarz'
+slug: 'B07L2X4ZBX-de Corsair Harpoon Kabellose RGB Wiederaufladbare Optisch...'
+tags: 
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

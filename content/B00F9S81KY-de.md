@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413JVJVC0sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F9S81KY-de Kleidertasche Pack-It Original Garment Folder M I Organisation für die Reise und für Zuhause I Koffer- und Home Organizer'
+slug: 'B00F9S81KY-de Kleidertasche Pack-It Original Garment Folder M I...'
+tags: 
 actualPrice: 19.02 EUR
 currency: EUR
 price: 19.02

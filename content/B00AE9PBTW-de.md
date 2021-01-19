@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GlgeXMsML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AE9PBTW-de Ice Age 1  2  3 & 4  Limitierte Sonderbox mit Ice Age Figuren!  [Blu-ray]'
+slug: 'B00AE9PBTW-de Ice Age 1 2 3 & 4 Limitierte Sonderbox mit Ice Age...'
+tags: 
 actualPrice: 22.04 EUR
 currency: EUR
 price: 22.04

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XV75ifV+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0001E3QOC-de Gardena Raseneinfassung 20 cm hoch: Ideale Rasen-Abgrenzung  auch für Beete  9 m  verhindert Wurzelausbreitung  aus Kunststoff  braun  534-20 '
+slug: 'B0001E3QOC-de Gardena Raseneinfassung 20 cm hoch: Ideale Rasen-...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PRh2ifYrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SHVQCTJ-de Philips Hue White and Color Ambiance GU10 LED Lampe Doppelpack 2er x 5 7W Bluetooth'
+slug: 'B07SHVQCTJ-de Philips Hue White and Color Ambiance GU10 LED Lampe...'
+tags: 
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

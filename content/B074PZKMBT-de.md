@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414cwbRR9KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PZKMBT-de Sony Xperia XZ1 Smartphone   13 2 cm  5 2 Zoll  Triluminos Display  19MP Kamera  64GB Speicher  Android  Silber - Deutsche Version'
+slug: 'B074PZKMBT-de Sony Xperia XZ1 Smartphone 13 2 cm 5 2 Zoll Triluminos...'
+tags: 
 actualPrice: 170.99 EUR
 currency: EUR
 price: 170.99

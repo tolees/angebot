@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41W5Wnle2IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081JZTJCG-de Compo Bi 58 N gegen saugende und beißende Insekten an Zierpflanzen  Gemüse und Erdbeeren  Konzentrat  30 ml'
+slug: 'B081JZTJCG-de Compo Bi 58 N gegen saugende und beißende Insekten an...'
+tags: 
 actualPrice: 6.26 EUR
 currency: EUR
 price: 6.26

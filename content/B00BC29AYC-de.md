@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31X9pCbQOHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BC29AYC-de Vibram FiveFingers 13M0101 EL-X  Fitnessschuhe Herren  Schwarz  Black   41 EU'
+slug: 'B00BC29AYC-de Vibram FiveFingers 13M0101 EL-X Fitnessschuhe Herren...'
+tags: 
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

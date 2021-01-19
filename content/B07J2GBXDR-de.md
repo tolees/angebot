@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41K2aBizkqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J2GBXDR-de Skibrille  Ski Snowboardbrille Brillenträger Schneebrille Verspiegelt- Für Skibrillen mit Anti-Nebel UV-Schutz  Winter Schnee Sport  Austauschbar Sphärische Doppelte Linse für Männer Frauen Schwarz '
+slug: 'B07J2GBXDR-de Skibrille Ski Snowboardbrille Brillenträger Schneebrille...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

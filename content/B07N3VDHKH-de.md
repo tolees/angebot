@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Nl41X+LrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3VDHKH-de Acer V6520 DLP Heimkino-Projektor  Full HD  1.920 x 1.080 Pixel  2.200 ANSI Lumen  10.000:1 Kontrast  3D '
+slug: 'B07N3VDHKH-de Acer V6520 DLP Heimkino-Projektor Full HD 1.920 x 1.080...'
+tags: 
 actualPrice: 371.99 EUR
 currency: EUR
 price: 371.99

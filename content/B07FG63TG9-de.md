@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gbaz7g89L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FG63TG9-de Huawei 55030237 FreeBuds Wireless Earphones  schwarz'
+slug: 'B07FG63TG9-de Huawei 55030237 FreeBuds Wireless Earphones schwarz'
+tags: 
 actualPrice: 51.36 EUR
 currency: EUR
 price: 51.36

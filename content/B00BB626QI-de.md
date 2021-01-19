@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BB626QI-de Drei Engel für Charlie - Volle Power [Blu-ray]'
+tags: 
 actualPrice: 4.97 EUR
 currency: EUR
 price: 4.97

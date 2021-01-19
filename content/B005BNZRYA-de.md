@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EshP1zvtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005BNZRYA-de Käfer Caffè Crema  ganze Bohne  Aroma-Softpack  1.000 g  1er Pack  1 x 1 kg '
+slug: 'B005BNZRYA-de Käfer Caffè Crema ganze Bohne Aroma-Softpack 1.000 g 1er...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

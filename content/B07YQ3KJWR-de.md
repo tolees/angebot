@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vM20uq-SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YQ3KJWR-de Paco Home Kinder-Teppich Für Kinderzimmer  Spiel-Teppich Mit Landschaft und Pferden  In Grün  Grösse:300x400 cm'
+slug: 'B07YQ3KJWR-de Paco Home Kinder-Teppich Für Kinderzimmer Spiel-Teppich...'
+tags: 
 actualPrice: 103.92 EUR
 currency: EUR
 price: 103.92

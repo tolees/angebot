@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z9pzUlcwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XXKNSJK-de Philips YKF406-003 996596006068 Original-Fernbedienung für 32PHS5301  32PHT5301  32PHT5302  65PUT6121  65PUS6121 | Neuware'
+slug: 'B06XXKNSJK-de Philips YKF406-003 996596006068 Original-Fernbedienung für...'
+tags: 
 actualPrice: 13.84 EUR
 currency: EUR
 price: 13.84

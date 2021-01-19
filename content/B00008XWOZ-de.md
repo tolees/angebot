@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316OqHS8WBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00008XWOZ-de WMF Pfannenwender Kunststoff 31 x 7 5 cm  Brat-/ Grillwender  spülmaschinengeeignet  hitzebeständig bis 270°C  schwarz'
+slug: 'B00008XWOZ-de WMF Pfannenwender Kunststoff 31 x 7 5 cm Brat-/...'
+tags: 
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IJG69ZqyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M6YR5N7-de Greylags Premium Boxershorts/Retroshorts für Herren | Unterwäsche im praktischen 6er Pack | Farbe: grau | Größe L | Röhre Kurz'
+slug: 'B07M6YR5N7-de Greylags Premium Boxershorts/Retroshorts für Herren |...'
+tags: 
 actualPrice: 26.24 EUR
 currency: EUR
 price: 26.24

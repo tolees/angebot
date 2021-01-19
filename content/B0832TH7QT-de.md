@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HKYJ5JAaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0832TH7QT-de PITTMAN Cargo Hose Herren Darius - Männer Chino by Pit Jeans - Schwarze Cargohosen - Jogginghose Hosen Pants  Schwarz  Black 194008   W28/L32'
+slug: 'B0832TH7QT-de PITTMAN Cargo Hose Herren Darius - Männer Chino by Pit...'
+tags: 
 actualPrice: 34.93 EUR
 currency: EUR
 price: 34.93

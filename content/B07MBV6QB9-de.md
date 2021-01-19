@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KcRWiisSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MBV6QB9-de BaByliss C2000E BaByliss C2000E Smooth & Wave 2 in 1 Auto-Glätter & Auto-Curler schwarz'
+slug: 'B07MBV6QB9-de BaByliss C2000E BaByliss C2000E Smooth & Wave 2 in 1 Auto-...'
+tags: 
 actualPrice: 109.44 EUR
 currency: EUR
 price: 109.44

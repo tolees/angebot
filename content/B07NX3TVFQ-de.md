@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mUxM5MYnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NX3TVFQ-de Acer Spin 1  SP111-34N-P3RH  29 5 cm  11 6 Zoll HD IPS Multi-Touch  Convertible Laptop  Intel Pentium N5000  4 GB RAM  128 GB eMMC  Intel UHD  Win 10 Home  grau'
+slug: 'B07NX3TVFQ-de Acer Spin 1 SP111-34N-P3RH 29 5 cm 11 6 Zoll HD IPS Multi-...'
+tags: 
 actualPrice: 419.99 EUR
 currency: EUR
 price: 419.99

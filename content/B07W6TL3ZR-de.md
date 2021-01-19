@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+PrLhrrKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6TL3ZR-de Nebula Mars II Pro von Anker  Tragbarer kompakter Projektor 500 ANSI Lumen  720p Bildqualität  Mini Beamer mit 30-150 Zoll  3 Stunden Akku  10W Lautsprecher  Filmprojektor  Hochqualitatives Heimkino'
+slug: 'B07W6TL3ZR-de Nebula Mars II Pro von Anker Tragbarer kompakter Projektor...'
+tags: 
 actualPrice: 467.49 EUR
 currency: EUR
 price: 467.49

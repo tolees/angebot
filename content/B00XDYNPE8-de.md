@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VYhv-KnbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XDYNPE8-de Tommy Hilfiger Damen DANNY BELT Gürtel  Schwarz  MASTERS BLACK 017   75 cm'
+slug: 'B00XDYNPE8-de Tommy Hilfiger Damen DANNY BELT Gürtel Schwarz MASTERS...'
+tags: 
 actualPrice: 31.88 EUR
 currency: EUR
 price: 31.88

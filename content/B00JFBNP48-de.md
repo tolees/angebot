@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310VQcHX6sL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JFBNP48-de Westmark Spätzle-/Kartoffelpresse  Mit Spezial-Lochung für Spätzle wie Handgemacht  Aluminiumdruckguss  Länge: 41 cm  Spätzlechef  Silber  61202230'
+slug: 'B00JFBNP48-de Westmark Spätzle-/Kartoffelpresse Mit Spezial-Lochung für...'
+tags: 
 actualPrice: 31.37 EUR
 currency: EUR
 price: 31.37

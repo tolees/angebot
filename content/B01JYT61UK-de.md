@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bgQs6-yaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JYT61UK-de Gembird JPD-WDV-01 Kabelloses Gamepad mit Vibration  PS2/PS3/PC schwarz'
+slug: 'B01JYT61UK-de Gembird JPD-WDV-01 Kabelloses Gamepad mit Vibration...'
+tags: 
 actualPrice: 16.4 EUR
 currency: EUR
 price: 16.4

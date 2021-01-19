@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aXHm1nhPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C9GRXR6-de Osup 7 Stück Geheimstift mit UV-Licht Unsichtbar Schreiben Lesbar durch Licht UV Stift Mitgebsel Kinder Give Aways Kindergeburtstag Gastgeschenke Kindergeburtstag Mitgebsel für Jungen Mädchen'
+slug: 'B07C9GRXR6-de Osup 7 Stück Geheimstift mit UV-Licht Unsichtbar Schreiben...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

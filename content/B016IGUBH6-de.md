@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sMAcShIzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016IGUBH6-de Neff TTT1906N / T19TT06N0 / Autarkes Kochfeld / Konventionell / 90cm / TwistPad Flat / Zweikreis'
+slug: 'B016IGUBH6-de Neff TTT1906N / T19TT06N0 / Autarkes Kochfeld /...'
+tags: 
 actualPrice: 359.0 EUR
 currency: EUR
 price: 359.0

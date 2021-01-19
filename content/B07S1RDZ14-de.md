@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MU2ujqORL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S1RDZ14-de Hpybest 10 Ps 12–60 mm HSS Lochsägenbohrer HSS HSS Lochsäge Metallschneider Bohrmaschine Herramientas Para Carpinteria'
+slug: 'B07S1RDZ14-de Hpybest 10 Ps 12–60 mm HSS Lochsägenbohrer HSS HSS...'
+tags: 
 actualPrice: 22.84 EUR
 currency: EUR
 price: 22.84

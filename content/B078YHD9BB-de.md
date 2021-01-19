@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CrdzF-bkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078YHD9BB-de Microsoft Surface Book 2 38 1 cm  15 Zoll  Laptop  Intel Core i7-8650U  16GB RAM  256 GB SSD  NVIDIA GeForce GTX 1060  Win 10 Pro  silber'
+slug: 'B078YHD9BB-de Microsoft Surface Book 2 38 1 cm 15 Zoll Laptop Intel Core...'
+tags: 
 actualPrice: 545.0 EUR
 currency: EUR
 price: 545.0

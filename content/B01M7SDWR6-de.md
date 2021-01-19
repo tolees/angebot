@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hGBeZ9J+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M7SDWR6-de Creative Outlier Sports - Kabellose   Schweissresistente In-Ear Kopfhörer  orange'
+slug: 'B01M7SDWR6-de Creative Outlier Sports - Kabellose Schweissresistente In-...'
+tags: 
 actualPrice: 43.8 EUR
 currency: EUR
 price: 43.8

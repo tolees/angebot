@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41tHz61ytPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XGXX6RS-de Funko 14375 Actionfigur Kingsman: Gazelle  Mehrfarbig  Standard'
+slug: 'B06XGXX6RS-de Funko 14375 Actionfigur Kingsman: Gazelle Mehrfarbig Standard'
+tags: 
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

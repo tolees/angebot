@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4128aSf7i6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B1P44TS-de Relaxdays Wandregal 3er Set  dekorative U-form Wandboards  kleine Holz-Regalbretter 10 cm tief  bis 40 cm breit  weiß'
+slug: 'B07B1P44TS-de Relaxdays Wandregal 3er Set dekorative U-form Wandboards...'
+tags: 
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

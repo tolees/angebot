@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xebA1UzHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWVVWCS-de Staubsauger Roboter 1800 Pa  WLAN Saugroboter mit Hohe Saugkraft Selbstaufladender 120 Min Laufzeit für Tierhaare Hartböden Teppiche Fallschutz mit Alexa und APP-Steuerung'
+slug: 'B07TWVVWCS-de Staubsauger Roboter 1800 Pa WLAN Saugroboter mit Hohe...'
+tags: 
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

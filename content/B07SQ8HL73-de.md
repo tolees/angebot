@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kHa2FG7JL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQ8HL73-de Tronsmart T6 Plus 40W Wireless Outdoor Bluetooth Lautsprecher 5.0 mit Tri-Bass-Effekten  Powerbank  360° TWS Stereo Sound  wasserdichtes IPX6  15-Stunden Spielzeit  Sprachassistent und Mikrofon'
+slug: 'B07SQ8HL73-de Tronsmart T6 Plus 40W Wireless Outdoor Bluetooth...'
+tags: 
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

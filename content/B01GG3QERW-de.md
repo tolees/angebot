@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MhAvu6dLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GG3QERW-de NINETEC Luna Wireless Home Bluetooth NFC Speaker Lautsprecher 22 Watt 360 Sound 2x 8W Tieftonlautsprecher - 2x 3W Hochtonlautsprecher Subwoofer Freisprechfunktion Schwarz'
+slug: 'B01GG3QERW-de NINETEC Luna Wireless Home Bluetooth NFC Speaker...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

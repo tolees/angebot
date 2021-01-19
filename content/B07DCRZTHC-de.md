@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519AVgi+fHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DCRZTHC-de LIGHTAILING Licht-Set Für  Volkswagen T1 Campingbus  Modell - LED Licht-Set Kompatibel Mit Lego 10220 Modell Nicht Enthalten '
+slug: 'B07DCRZTHC-de LIGHTAILING Licht-Set Für Volkswagen T1 Campingbus Modell...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

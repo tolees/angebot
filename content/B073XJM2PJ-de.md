@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414vol2IDpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073XJM2PJ-de Bestand Aluminiumständer für Laptop und Macbook Desktop für Apple Macbook und alle Laptops Grau'
+slug: 'B073XJM2PJ-de Bestand Aluminiumständer für Laptop und Macbook Desktop...'
+tags: 
 actualPrice: 40.48 EUR
 currency: EUR
 price: 40.48

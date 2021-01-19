@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eiWzEbsLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001DZDCY2-de Original Motorola Reiselader Netzteil CH700 für Motorola RAZR V3'
+slug: 'B001DZDCY2-de Original Motorola Reiselader Netzteil CH700 für Motorola...'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

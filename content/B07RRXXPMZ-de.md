@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RqXcn7ZeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RRXXPMZ-de Ultimate Ears Wonderboom 2 Tragbarer Bluetooth-Lautsprecher  360° Sound  Wasserdicht & Staubdicht  Outdoor-Modus  Verbinden Sie 2 Lautsprecher für Stereo-Sound  13-Stunden Akkulaufzeit - schwarz'
+slug: 'B07RRXXPMZ-de Ultimate Ears Wonderboom 2 Tragbarer Bluetooth-...'
+tags: 
 actualPrice: 54.49 EUR
 currency: EUR
 price: 54.49

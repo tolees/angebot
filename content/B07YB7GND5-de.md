@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PEl7L2h7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YB7GND5-de Willful Bluetooth Kopfhörer In Ear Kopfhörer Kabellos Bluetooth 5.0 Headset True Wireless Kopfhörer mit Integriertem Mikrofon Hi-Fi Stereo Sound Deep Bass Bluetooth Reichweite 10M Portable Ladecase'
+slug: 'B07YB7GND5-de Willful Bluetooth Kopfhörer In Ear Kopfhörer Kabellos...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

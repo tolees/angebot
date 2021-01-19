@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51svYrNzvxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VFLVS5K-de HANPURE Bluetooth Mütze Damen & Herren Geschenke  Bluetooth Mütze mit Bluetooth 5.0 Kopfhörern für Outdoor-Sport  Skifahren  Laufen  Skaten  Geburtstagsgeschenke für Frauen&Männer'
+slug: 'B07VFLVS5K-de HANPURE Bluetooth Mütze Damen & Herren Geschenke Bluetooth...'
+tags: 
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

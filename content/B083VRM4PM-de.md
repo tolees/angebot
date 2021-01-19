@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Jg-cqGPSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083VRM4PM-de Kepae Acryl Vitrine für Lego 42083 Technic Bugatti Chiron  Durchsichtigen Kästen Autos Modell Vitrinen Staubfreien Display Boxen Schaukasten  Modell Nicht Enthalten '
+slug: 'B083VRM4PM-de Kepae Acryl Vitrine für Lego 42083 Technic Bugatti Chiron...'
+tags: 
 actualPrice: 82.99 EUR
 currency: EUR
 price: 82.99

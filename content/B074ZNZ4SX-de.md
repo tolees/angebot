@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31id1MjIqYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074ZNZ4SX-de Levi s Herren 512 Slim Taper FIT Jeans  Nightshade X 0013  29W / 30L'
+slug: 'B074ZNZ4SX-de Levi s Herren 512 Slim Taper FIT Jeans Nightshade X 0013...'
+tags: 
 actualPrice: 52.86 EUR
 currency: EUR
 price: 52.86

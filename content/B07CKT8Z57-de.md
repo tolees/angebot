@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413IIjvGaFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CKT8Z57-de Sennheiser HD 4.50 Special Edition kabelloser Over-Ear-Kopfhörer mit Noise-Cancelling  mattschwarz'
+slug: 'B07CKT8Z57-de Sennheiser HD 4.50 Special Edition kabelloser Over-Ear-...'
+tags: 
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

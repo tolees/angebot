@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41E8gf4BOKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P3DFPM3-de Mattel GGH45 - Toy Story 4 Super Action Buzz Lightyear Actionfigur  17 cm  deutschsprachig  Spielzeug ab 3 Jahren'
+slug: 'B07P3DFPM3-de Mattel GGH45 - Toy Story 4 Super Action Buzz Lightyear...'
+tags: 
 actualPrice: 28.23 EUR
 currency: EUR
 price: 28.23

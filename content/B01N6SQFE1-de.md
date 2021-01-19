@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6SQFE1-de Fire Emblem Echoes: Shadows of Valentia [3DS]'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fg8XEUw1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JW814NH-de Hasbro Monopoly - Junior  der Klassiker der Brettspiele für Kinder  Familienspiel  ab 5 Jahren'
+slug: 'B07JW814NH-de Hasbro Monopoly - Junior der Klassiker der Brettspiele für...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

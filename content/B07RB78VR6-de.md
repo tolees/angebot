@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YemzEu2AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RB78VR6-de Hasbro Disney Die Eiskönigin II Elsa Puppe mit langem blondem Haar und blauem Outfit E6709ES0'
+slug: 'B07RB78VR6-de Hasbro Disney Die Eiskönigin II Elsa Puppe mit langem...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

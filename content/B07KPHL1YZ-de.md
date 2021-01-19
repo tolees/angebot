@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413Tmn-verL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPHL1YZ-de Funko! Rides: Game of Thrones S10: White Walker on Horse  Einheitsgröße  Mehrfarben'
+slug: 'B07KPHL1YZ-de Funko! Rides: Game of Thrones S10: White Walker on Horse...'
+tags: 
 actualPrice: 16.65 EUR
 currency: EUR
 price: 16.65

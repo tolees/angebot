@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CXhQ3tZRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079JFTL73-de Barbie FRH73 - Cooking und Baking Deluxe Küche Spielset und Puppe  mit Zubehör und Spielknete  Mädchen Spielzeug ab 4 Jahren'
+slug: 'B079JFTL73-de Barbie FRH73 - Cooking und Baking Deluxe Küche Spielset...'
+tags: 
 actualPrice: 41.18 EUR
 currency: EUR
 price: 41.18

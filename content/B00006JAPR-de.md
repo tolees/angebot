@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3159BRw2YrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00006JAPR-de Hama Euro-Netzkabel 2-polig 1 5m  gerade  Eurostecker auf Doppelnut  Netzstecker auf Euro 8 Doppelbuchse  Stromkabel schwarz'
+slug: 'B00006JAPR-de Hama Euro-Netzkabel 2-polig 1 5m gerade Eurostecker auf...'
+tags: 
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

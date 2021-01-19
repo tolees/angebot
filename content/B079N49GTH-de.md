@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079N49GTH-de Playmobil 9490 Spielzeug-Meteoroiden-Zerstörer'
+tags: 
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

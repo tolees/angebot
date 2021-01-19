@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MbxREsdIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KLXFBFE-de Remington Haarglätter PROluxe S9100  OPTIheat-Technologie und Ultimate-Glide-Keramikbeschichtung  rose gold'
+slug: 'B01KLXFBFE-de Remington Haarglätter PROluxe S9100 OPTIheat-Technologie...'
+tags: 
 actualPrice: 45.86 EUR
 currency: EUR
 price: 45.86

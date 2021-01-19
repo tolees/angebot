@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YbLkg0zUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HQJ98L1-de Microsoft Office 2019 Home & Student multilingual | 1 PC  Windows 10  /Mac | Dauerlizenz | Download'
+slug: 'B07HQJ98L1-de Microsoft Office 2019 Home & Student multilingual | 1 PC...'
+tags: 
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TS8OBUk2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GT7Q2Q2-de GoPro  HERO7  White  –  wasserdichte  digitale  Actionkamera  mit  Touchscreen   1440p-HD-Videos   10-MP-Fotos'
+slug: 'B07GT7Q2Q2-de GoPro HERO7 White – wasserdichte digitale Actionkamera mit...'
+tags: 
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

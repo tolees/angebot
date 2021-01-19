@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aiZxoZyVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3RN1PV-de Marc O Polo Herren 021010810064 Hose  Grün  Shadow 425   W Herstellergröße: 30 32 '
+slug: 'B07V3RN1PV-de Marc O Polo Herren 021010810064 Hose Grün Shadow 425 W...'
+tags: 
 actualPrice: 44.04 EUR
 currency: EUR
 price: 44.04

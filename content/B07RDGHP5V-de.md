@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41n3rB8ttJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDGHP5V-de WC Ente Total Aktiv Gel Flüssiger WC Reiniger  mit Entenhals-Technologie  antibakteriell  Marine Duft  1er Pack  1 x 750 ml '
+slug: 'B07RDGHP5V-de WC Ente Total Aktiv Gel Flüssiger WC Reiniger mit...'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

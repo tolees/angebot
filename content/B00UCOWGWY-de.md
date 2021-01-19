@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413rxpcA+nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UCOWGWY-de Goki 4013594566834 Memo Klang  12-teilig'
+slug: 'B00UCOWGWY-de Goki 4013594566834 Memo Klang 12-teilig'
+tags: 
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

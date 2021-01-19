@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/419HMrDfvLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y69MRGS-de Fujifilm instax Mini 9 Kamera  kobalt-blau'
+slug: 'B06Y69MRGS-de Fujifilm instax Mini 9 Kamera kobalt-blau'
+tags: 
 actualPrice: 62.9 EUR
 currency: EUR
 price: 62.9

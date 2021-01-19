@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x2rD7QlzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCJP94G-de Samsung Galaxy Xcover 4 Smartphone  12 67 cm  5 Zoll  Touch-Display  16 GB Speicher  Android 7 0 Nougat  schwarz'
+slug: 'B06XCJP94G-de Samsung Galaxy Xcover 4 Smartphone 12 67 cm 5 Zoll Touch-...'
+tags: 
 actualPrice: 210.84 EUR
 currency: EUR
 price: 210.84

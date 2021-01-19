@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TH-O5xxCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HYY1ZHB-de Nordcap Herren Thermohose  Funktionelle Wintersport-Hose in Anthrazit  mit warmem Innenfutter  Skihose  Wanderhose  Lange Freizeithose  Gr. 25-56'
+slug: 'B07HYY1ZHB-de Nordcap Herren Thermohose Funktionelle Wintersport-Hose in...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

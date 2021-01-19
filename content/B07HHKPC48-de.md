@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UhA6vOmZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HHKPC48-de Bosch Akkuschrauber AdvancedDrill 18 Set  2 Akkus  18 Volt System  3 Aufsätze  im Koffer '
+slug: 'B07HHKPC48-de Bosch Akkuschrauber AdvancedDrill 18 Set 2 Akkus 18 Volt...'
+tags: 
 actualPrice: 166.99 EUR
 currency: EUR
 price: 166.99

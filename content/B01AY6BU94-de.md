@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Aie0k3TKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AY6BU94-de UGG W Classic Mini II  Damenstiefel  Schwarz  Black Blk   38 EU'
+slug: 'B01AY6BU94-de UGG W Classic Mini II Damenstiefel Schwarz Black Blk 38 EU'
+tags: 
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

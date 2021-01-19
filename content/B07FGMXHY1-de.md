@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Xr36aYC2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FGMXHY1-de Salewa Herren Sweatshirts Pedroc Pgd M Fz HDY  Black Out/3860  48/M  00-0000027169'
+slug: 'B07FGMXHY1-de Salewa Herren Sweatshirts Pedroc Pgd M Fz HDY Black...'
+tags: 
 actualPrice: 104.9 EUR
 currency: EUR
 price: 104.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iWwbMvYxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FWKMKK1-de Mattel GFB55 - Disney Pixar Toy Story 4 Stunt Motorradfahrer Duke Caboom Figur 17 cm mit Motorrad mit Rückzugsstarter  Spielzeug ab 3 Jahre'
+slug: 'B07FWKMKK1-de Mattel GFB55 - Disney Pixar Toy Story 4 Stunt...'
+tags: 
 actualPrice: 15.55 EUR
 currency: EUR
 price: 15.55

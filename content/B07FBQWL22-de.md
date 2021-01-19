@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CC7V95QsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FBQWL22-de Skechers Women s Flex Appeal 3.0-first Insight Trainers  Black  Black Mesh/Rose Gold Trim Bkrg   8 UK  41 EU '
+slug: 'B07FBQWL22-de Skechers Women s Flex Appeal 3.0-first Insight Trainers...'
+tags: 
 actualPrice: 46.03 EUR
 currency: EUR
 price: 46.03

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qS7zBv0OL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BW8YP5D-de Jakks Pacific 32382-11L G.L.O.W. Stick  Mehrfarbig'
+slug: 'B07BW8YP5D-de Jakks Pacific 32382-11L G.L.O.W. Stick Mehrfarbig'
+tags: 
 actualPrice: 5.68 EUR
 currency: EUR
 price: 5.68

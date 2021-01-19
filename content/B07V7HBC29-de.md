@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UpCYqnkJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7HBC29-de Philips Kopfhörer On Ear BH305BK/00 On Ear Kopfhörer  Bluetooth  Voluminöse Bässe  Aktive Geräuschunterdrückung  18 Stunden Akkulaufzeit  Faltbar  Schwarz'
+slug: 'B07V7HBC29-de Philips Kopfhörer On Ear BH305BK/00 On Ear Kopfhörer...'
+tags: 
 actualPrice: 54.82 EUR
 currency: EUR
 price: 54.82

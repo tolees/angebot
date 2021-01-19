@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tvelQieFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EA8ZUZW-de Yealink WF40 WLAN 150 MBit/s Netzwerkkarte – Zubehör Netzwerk  kabellos  USB Type  WLAN  150 Mbit/s  2 4 GHz  IEEE 802.11b  IEEE 802.11 g  IEEE 802.11 N '
+slug: 'B01EA8ZUZW-de Yealink WF40 WLAN 150 MBit/s Netzwerkkarte – Zubehör...'
+tags: 
 actualPrice: 26.72 EUR
 currency: EUR
 price: 26.72

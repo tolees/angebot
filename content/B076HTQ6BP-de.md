@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515tQf4FabL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HTQ6BP-de KitchenAid CLASSIC 4 3 L-Küchenmaschinen mit kippbarem Motorkopf  4.3 L  schwarz'
+slug: 'B076HTQ6BP-de KitchenAid CLASSIC 4 3 L-Küchenmaschinen mit kippbarem...'
+tags: 
 actualPrice: 363.47 EUR
 currency: EUR
 price: 363.47

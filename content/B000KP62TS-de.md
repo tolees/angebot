@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61JNuG5D6TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KP62TS-de Cookin   Rudy Van Gelder Remaster '
+slug: 'B000KP62TS-de Cookin Rudy Van Gelder Remaster'
+tags: 
 actualPrice: 4.41 EUR
 currency: EUR
 price: 4.41

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DcNxcFcaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086MQD4R4-de Tablet 10.1 Zoll 4G LTE Android 9.0 Dual SIM  2 in1 Tablet mit Tastatur 4 GB RAM und 64 GB ROM  Quad Core Prozessor  1080p Full HD IPS Display  WiFi  Bluetooth  GPS  OTG  Typ C - Schwarz'
+slug: 'B086MQD4R4-de Tablet 10.1 Zoll 4G LTE Android 9.0 Dual SIM 2 in1 Tablet...'
+tags: 
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

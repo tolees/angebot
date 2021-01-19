@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418eQ97W4cL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XS9LBTM-de Apple Watch Series 5  GPS + Cellular  40 mm  Edelstahlgehäuse Space Schwarz - Sportarmband Schwarz'
+slug: 'B07XS9LBTM-de Apple Watch Series 5 GPS + Cellular 40 mm Edelstahlgehäuse...'
+tags: 
 actualPrice: 613.51 EUR
 currency: EUR
 price: 613.51

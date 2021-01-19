@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Iesp7CvgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RMBB4HM-de Razer Kraken X - Gaming Headset  Ultra leichte Gaming Headphones für PC  Mac  Xbox One  PS4 und Switch  Kopfband-Polsterung  7.1 Surround Sound  schwarz'
+slug: 'B07RMBB4HM-de Razer Kraken X - Gaming Headset Ultra leichte Gaming...'
+tags: 
 actualPrice: 42.89 EUR
 currency: EUR
 price: 42.89

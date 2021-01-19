@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419n-FAwEDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I3LV2U0-de Sony MDR-EX15AP In-Ear-Kopfhörer  mit Headsetfunktion  integriertes Mikrofon  blau'
+slug: 'B00I3LV2U0-de Sony MDR-EX15AP In-Ear-Kopfhörer mit Headsetfunktion...'
+tags: 
 actualPrice: 7.07 EUR
 currency: EUR
 price: 7.07

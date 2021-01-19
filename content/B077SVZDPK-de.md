@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IxvhbtjeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077SVZDPK-de Kopp 939633016 VersaHIT Dual Einbausteckdose  16A  IP54  3400 W  Weiß'
+slug: 'B077SVZDPK-de Kopp 939633016 VersaHIT Dual Einbausteckdose 16A IP54 3400...'
+tags: 
 actualPrice: 41.54 EUR
 currency: EUR
 price: 41.54

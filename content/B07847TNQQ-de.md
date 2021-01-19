@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SHP7KCaoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07847TNQQ-de Hasbro Spiele E2617100 Lippengeflüster  Erwachsenenspiel'
+slug: 'B07847TNQQ-de Hasbro Spiele E2617100 Lippengeflüster Erwachsenenspiel'
+tags: 
 actualPrice: 13.91 EUR
 currency: EUR
 price: 13.91

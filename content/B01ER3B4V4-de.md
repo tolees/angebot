@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4175LdwZdxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ER3B4V4-de Blend Cross Herren Kapuzenpullover Hoodie Pullover Mit Kapuze Cross-Over-Kragen Und Fleece-Innenseite  Größe:M  Farbe:Black  70155 '
+slug: 'B01ER3B4V4-de Blend Cross Herren Kapuzenpullover Hoodie Pullover Mit...'
+tags: 
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

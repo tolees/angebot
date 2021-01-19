@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ww3BUW5FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HRQCKLN-de Makramee Garn  Rifny Kordel Natur Baumwollgarn 3 mm x 100 m baumwollkordel weiß  Macrame Garn für DIY Handwerk Basteln Wand Aufhängung Pflanze Aufhänger Schnur Stricken  Hellgrün '
+slug: 'B08HRQCKLN-de Makramee Garn Rifny Kordel Natur Baumwollgarn 3 mm x 100 m...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

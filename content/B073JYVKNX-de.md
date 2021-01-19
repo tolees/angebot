@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pfhJozwqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073JYVKNX-de SanDisk Ultra 64GB MicroSDXC Speicherkarte + SD-Adapter mit A1 App-Leistung bis zu 100 MB/s  Klasse 10  U1'
+slug: 'B073JYVKNX-de SanDisk Ultra 64GB MicroSDXC Speicherkarte + SD-Adapter...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

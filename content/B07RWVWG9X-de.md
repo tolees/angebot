@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eJIW05I+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWVWG9X-de USB Stick 64GB  EIVOTOR Memory Stick USB 3.0 Flash Drive Mini Speicherstick Wasserdicht USB Flash Laufwerk Pendrive Data Traveler Geschenk für Schule Büro Auto PC Kinder'
+slug: 'B07RWVWG9X-de USB Stick 64GB EIVOTOR Memory Stick USB 3.0 Flash Drive...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511xfeFOZ2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HS95HT0-de Pieces of a Man  180 Gr.Gatefold Black Vinyl  [Vinyl LP]'
+slug: 'B00HS95HT0-de Pieces of a Man 180 Gr.Gatefold Black Vinyl [Vinyl LP]'
+tags: 
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

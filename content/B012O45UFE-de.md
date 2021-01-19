@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lV4u2gwnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012O45UFE-de Unbekannt Quadratische Pappteller 22 9 cm  8er-Packung'
+slug: 'B012O45UFE-de Unbekannt Quadratische Pappteller 22 9 cm 8er-Packung'
+tags: 
 actualPrice: 1.12 EUR
 currency: EUR
 price: 1.12

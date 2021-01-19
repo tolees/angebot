@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vtPe4MG1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZPR8LH-de Funko 39699 POP Vinyl: Dragonball Z S6: Radditz Sammelbares Spielzeug  Mehrfarben'
+slug: 'B07MZPR8LH-de Funko 39699 POP Vinyl: Dragonball Z S6: Radditz...'
+tags: 
 actualPrice: 4.21 EUR
 currency: EUR
 price: 4.21

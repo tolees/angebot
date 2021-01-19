@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O27SENC-de home3000 CD-Designregal in Weiß'
+tags: 
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

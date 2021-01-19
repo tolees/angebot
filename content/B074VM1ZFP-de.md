@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WIm8KQMsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074VM1ZFP-de Sony WH-H900N High-Resolution Kopfhörer  Kabelloser  Noise Cancelling  rot  mit Alexa-Integration'
+slug: 'B074VM1ZFP-de Sony WH-H900N High-Resolution Kopfhörer Kabelloser Noise...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

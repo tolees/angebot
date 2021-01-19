@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313FOXuTUfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YCFZJN4-de Roccat Kone AIMO Gaming Maus  hohe Präzision  Optischer Owl-Eye Sensor  100 bis 16.000 Dpi   RGB AIMO LED Beleuchtung  23 programmierbare Tasten  Designt in Deutschland  USB   schwarz remastered '
+slug: 'B07YCFZJN4-de Roccat Kone AIMO Gaming Maus hohe Präzision Optischer Owl-...'
+tags: 
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

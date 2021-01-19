@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Tw8SZcLXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B86RFGG-de Salewa WS WILDFIRE  Damen Trekking- & Wanderhalbschuhe  Blau  Magnet/blue Fog 734   35 EU  3 UK '
+slug: 'B07B86RFGG-de Salewa WS WILDFIRE Damen Trekking- & Wanderhalbschuhe Blau...'
+tags: 
 actualPrice: 38.72 EUR
 currency: EUR
 price: 38.72

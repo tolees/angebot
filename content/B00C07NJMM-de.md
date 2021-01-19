@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418UGddNsTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C07NJMM-de Sanpellegrino | Orangen Limonade | Aranciata | Hoher Fruchtanteil 20% frisch gepresster Orangen | Leicht herbe Geschmacksnote | Ideal für unterwegs | 24er Pack  24 x 0 33l  Einweg Dosen'
+slug: 'B00C07NJMM-de Sanpellegrino | Orangen Limonade | Aranciata | Hoher...'
+tags: 
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YqgG7FeXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DQGTLKA-de Silit Ersatzteil Sicomatic Dichtungsring  22 cm  für Schnellkochtopf 3 0l  4 5l  6 5l  8 5l  Silikonring  Silikon'
+slug: 'B00DQGTLKA-de Silit Ersatzteil Sicomatic Dichtungsring 22 cm für...'
+tags: 
 actualPrice: 13.41 EUR
 currency: EUR
 price: 13.41

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Wkg0vqyML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J29RJVG-de pinzas cejas pinzas led depilar Herramienta de maquillaje para cosméticos de cejas  pinzas de acero inoxidable con luz LED para quitar el pelo de pestañas'
+slug: 'B07J29RJVG-de pinzas cejas pinzas led depilar Herramienta de maquillaje...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

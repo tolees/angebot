@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XTgT3O9qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PFR3WL7-de Samsung Q60R 163 cm  65 Zoll  4K QLED Fernseher  Q HDR  Ultra HD  HDR  Twin Tuner  Smart TV  [Modelljahr 2019]'
+slug: 'B07PFR3WL7-de Samsung Q60R 163 cm 65 Zoll 4K QLED Fernseher Q HDR Ultra...'
+tags: 
 actualPrice: 1035.45 EUR
 currency: EUR
 price: 1035.45

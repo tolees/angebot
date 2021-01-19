@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sUSgCGmNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MBQCKB9-de Funko 39049 POP Vinyl: Games: Fortnite: Loot Llama 10" Sammelbares Spielzeug  Mehrfarben  Einheitsgröße'
+slug: 'B07MBQCKB9-de Funko 39049 POP Vinyl: Games: Fortnite: Loot Llama 10"...'
+tags: 
 actualPrice: 23.41 EUR
 currency: EUR
 price: 23.41

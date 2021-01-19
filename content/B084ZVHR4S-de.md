@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084ZVHR4S-de FOSSIL Watch FS5697'
+tags: 
 actualPrice: 118.12 EUR
 currency: EUR
 price: 118.12

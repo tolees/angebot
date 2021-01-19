@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ay56-IsuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q9BXNLW-de Samsung Galaxy Tab A T515N 25  54 cm  10  1 Zoll  Tablet-PC  1  8 GHz Octa-Core  3 GB RAM  64 GB eMMC  LTE  Android 9.0  Schwarz'
+slug: 'B07Q9BXNLW-de Samsung Galaxy Tab A T515N 25 54 cm 10 1 Zoll Tablet-PC 1...'
+tags: 
 actualPrice: 179.25 EUR
 currency: EUR
 price: 179.25

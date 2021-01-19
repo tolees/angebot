@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/616QuePEaOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZB6VCZ2-de CMaster Roboter STEM Spielzeug 576 Stück Konstruktions Spielzeug Konstruktions Spielzeug  12-in-1-Roboter STEM Spielzeug'
+slug: 'B07ZB6VCZ2-de CMaster Roboter STEM Spielzeug 576 Stück Konstruktions...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

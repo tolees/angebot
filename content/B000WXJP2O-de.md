@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61AjKOKPXlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000WXJP2O-de Damenwahl  Deluxe-Edition mit Bonus-Tracks '
+slug: 'B000WXJP2O-de Damenwahl Deluxe-Edition mit Bonus-Tracks'
+tags: 
 actualPrice: 12.03 EUR
 currency: EUR
 price: 12.03

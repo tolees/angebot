@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zhvn3s2lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077ZL6THL-de Kärcher Rundbürstenset für Kärcher Dampfreiniger  hochwertiges Borstenmaterial  2 Farben '
+slug: 'B077ZL6THL-de Kärcher Rundbürstenset für Kärcher Dampfreiniger...'
+tags: 
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

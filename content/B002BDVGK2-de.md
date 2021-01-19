@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tAZjYx2jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002BDVGK2-de Durable 840500 Selbstklebe-Taben Quick Tab  wiederablösbar Btl. à 48 Stück farbig sortiert'
+slug: 'B002BDVGK2-de Durable 840500 Selbstklebe-Taben Quick Tab wiederablösbar...'
+tags: 
 actualPrice: 4.45 EUR
 currency: EUR
 price: 4.45

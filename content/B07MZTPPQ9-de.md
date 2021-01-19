@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41r9dbIFW5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZTPPQ9-de Dermaroller【Newest 2020】  ETEREAUTY 0.5mm Micronadeln Derma Roller  CE Kennzeichnung 1.0/1.5mm aus Edelstahl Micronadeln für Anti Falten  Schwangerschaftsstreifen  Haarausfall und Anti Falten'
+slug: 'B07MZTPPQ9-de Dermaroller【Newest 2020】 ETEREAUTY 0.5mm Micronadeln Derma...'
+tags: 
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

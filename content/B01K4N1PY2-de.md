@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nTyByL09L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K4N1PY2-de Sennheiser HD 4.30i Headset  geschlossenes  ohrumschließendes  geeignet für Apple iOS  schwarz'
+slug: 'B01K4N1PY2-de Sennheiser HD 4.30i Headset geschlossenes...'
+tags: 
 actualPrice: 45.9 EUR
 currency: EUR
 price: 45.9

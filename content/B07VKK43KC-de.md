@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AlRSHV0dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKK43KC-de Aucma Küchenmaschine 1400W mit 6 2L Edelstahl-Rühlschüssel  Rührbesen  Knethaken  Schlagbesen und Spritzschutz  6 Geschwindigkeit Geräuschlos Teigmaschine  Schwarz'
+slug: 'B07VKK43KC-de Aucma Küchenmaschine 1400W mit 6 2L Edelstahl-Rühlschüssel...'
+tags: 
 actualPrice: 105.99 EUR
 currency: EUR
 price: 105.99

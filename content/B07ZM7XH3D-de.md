@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NHvUSpIxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZM7XH3D-de Mpow Headset Bluetooth M5 Pro  Wireless Headset mit 180h Ladestation  Drahtloses Leicht-Headset mit Mikrofon Rauschunterdrückung Funk-Headset Freisprechen Handy Bluetooth Headset für Skype Voip Laptop'
+slug: 'B07ZM7XH3D-de Mpow Headset Bluetooth M5 Pro Wireless Headset mit 180h...'
+tags: 
 actualPrice: 25.64 EUR
 currency: EUR
 price: 25.64

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4193NFS-dBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087CJFZZK-de ZHENREN USB WLAN Stick  USB WLAN verstärker Adapter für PC 1200 Mbit/s Dual-Antenne 2 4/5 8 GHz Hochgeschwindigkeits-5-dBi-Antennen USB 3.0 Kabellose-Netzwerkadapter'
+slug: 'B087CJFZZK-de ZHENREN USB WLAN Stick USB WLAN verstärker Adapter für PC...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

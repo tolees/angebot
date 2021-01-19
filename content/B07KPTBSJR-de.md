@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pDcMtx3sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPTBSJR-de Funko 38565 POP Vinyl 6" Jaws Sammelbares Spielzeug  Mehrfarben  Standard'
+slug: 'B07KPTBSJR-de Funko 38565 POP Vinyl 6" Jaws Sammelbares Spielzeug...'
+tags: 
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

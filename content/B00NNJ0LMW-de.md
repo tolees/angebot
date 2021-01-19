@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41N21XU+8mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NNJ0LMW-de LED Lenser F1R high Performance Line  F-Serie  1x 18650 Li-Ion Akku 8701-R'
+slug: 'B00NNJ0LMW-de LED Lenser F1R high Performance Line F-Serie 1x 18650 Li-...'
+tags: 
 actualPrice: 55.93 EUR
 currency: EUR
 price: 55.93

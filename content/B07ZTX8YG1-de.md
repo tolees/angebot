@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51j33V91SAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZTX8YG1-de PLAYMOBIL Top Agents 70233 Arctic Rebels Eisroboter  Ab 6 Jahren'
+slug: 'B07ZTX8YG1-de PLAYMOBIL Top Agents 70233 Arctic Rebels Eisroboter Ab 6...'
+tags: 
 actualPrice: 17.57 EUR
 currency: EUR
 price: 17.57

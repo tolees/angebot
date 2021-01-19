@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SjNDgIAXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0789QGL9F-de Garmin vívofit 4 Fitness Tracker  personalisierbares Farbdisplay  schlankes Design  bis zu 1 Jahr Batterielaufzeit   schwarz   Small/Medium'
+slug: 'B0789QGL9F-de Garmin vívofit 4 Fitness Tracker personalisierbares...'
+tags: 
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

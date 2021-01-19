@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YfBDsQ-FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019OUUNR6-de Landmann Gasgrillwagen 12220  emaillierte Brennerabdeckungen  126 x 110 x 56 cm'
+slug: 'B019OUUNR6-de Landmann Gasgrillwagen 12220 emaillierte...'
+tags: 
 actualPrice: 175.01 EUR
 currency: EUR
 price: 175.01

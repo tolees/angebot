@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NMi-p91RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MR5B9NA-de B.K.Licht I LED Pendelleuchte inkl. 4x 4W Platinen I 330lm I Höhenverstellbar I 3.000K warmweiß I Länge: 87cm I Echtglas I Matt-Nickel I Deckenlampe'
+slug: 'B01MR5B9NA-de B.K.Licht I LED Pendelleuchte inkl. 4x 4W Platinen I 330lm...'
+tags: 
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

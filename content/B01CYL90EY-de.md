@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lum+Hmm4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CYL90EY-de Sony MDR-XB650BT kabelloser Extra-Bass Kopfhörer  Bluetooth  NFC  weiche On-Ear Ohrpolster  hohe Tragekomfort  gute Schallisolierung  Headset mit Mikrofon für Telefon & PC/Laptop  schwarz'
+slug: 'B01CYL90EY-de Sony MDR-XB650BT kabelloser Extra-Bass Kopfhörer Bluetooth...'
+tags: 
 actualPrice: 42.89 EUR
 currency: EUR
 price: 42.89

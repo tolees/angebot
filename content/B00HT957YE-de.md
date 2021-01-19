@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413TEakn5fL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HT957YE-de Original Einhell System Akku Power X-Change  Lithium Ionen Akku  18 V  3 0 Ah  passend für alle Power X-Change Geräte '
+slug: 'B00HT957YE-de Original Einhell System Akku Power X-Change Lithium Ionen...'
+tags: 
 actualPrice: 35.69 EUR
 currency: EUR
 price: 35.69

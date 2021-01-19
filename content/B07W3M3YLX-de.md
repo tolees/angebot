@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514r9+DuC1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W3M3YLX-de Grundig Vision 6 - Fire TV Edition  32 GFW 6060  80 cm  32 Zoll  Fernseher  Full HD  Alexa-Sprachsteuerung  Magic Fidelity  weiß [Modelljahr 2019]'
+slug: 'B07W3M3YLX-de Grundig Vision 6 - Fire TV Edition 32 GFW 6060 80 cm 32...'
+tags: 
 actualPrice: 203.0 EUR
 currency: EUR
 price: 203.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qGctAO6XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077BTMC5T-de Tierisch wild  Disney Classics '
+slug: 'B077BTMC5T-de Tierisch wild Disney Classics'
+tags: 
 actualPrice: 6.23 EUR
 currency: EUR
 price: 6.23

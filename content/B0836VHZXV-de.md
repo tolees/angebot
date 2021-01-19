@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ia1Z5+UfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0836VHZXV-de TEECY Kartenetui Neue Kreditkartentasche Kartenetui mit RFID Schutz Einer starken Magnetsaug Tasche aus Aluminium von Hand eindrücken automatische Bankkarte Portmonee für bis zu 8-10 Karten Schwarz'
+slug: 'B0836VHZXV-de TEECY Kartenetui Neue Kreditkartentasche Kartenetui mit...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

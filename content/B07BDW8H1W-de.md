@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51FyHoELI1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BDW8H1W-de Poopsie Surprise 555964E5C Pink Unicorn or Rainbow Unicorn - mehrfarbig'
+slug: 'B07BDW8H1W-de Poopsie Surprise 555964E5C Pink Unicorn or Rainbow Unicorn...'
+tags: 
 actualPrice: 44.1 EUR
 currency: EUR
 price: 44.1

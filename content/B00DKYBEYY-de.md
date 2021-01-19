@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51O5AuepgqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DKYBEYY-de SONAX 281941 281.941 Premium Class Lederwartungssatz  Schwarz'
+slug: 'B00DKYBEYY-de SONAX 281941 281.941 Premium Class Lederwartungssatz Schwarz'
+tags: 
 actualPrice: 40.19 EUR
 currency: EUR
 price: 40.19

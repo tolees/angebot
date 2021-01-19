@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+1EoTrs9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07918FCLR-de Samsung Flip  LH55WM  LED Display Flipchart  139 7 cm  55 Zoll   weiß'
+slug: 'B07918FCLR-de Samsung Flip LH55WM LED Display Flipchart 139 7 cm 55 Zoll...'
+tags: 
 actualPrice: 1399.0 EUR
 currency: EUR
 price: 1399.0

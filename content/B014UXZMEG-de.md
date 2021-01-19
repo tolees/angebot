@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VqSJcGqRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014UXZMEG-de Dremel Platin Edition 4000 Multifunktionswerkzeug 175W  Set mit 4 Vorsatzgeräten  65 Zubehörteilen  Variable Drehzahl 5.000-35.000 U/min zum Schneiden  Schnitzen  Bohren  Gravieren  Schleifen'
+slug: 'B014UXZMEG-de Dremel Platin Edition 4000 Multifunktionswerkzeug 175W Set...'
+tags: 
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

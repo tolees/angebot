@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OtqifcryL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2FC1M3-de Große Kapazität Rucksack 35L/40L  Handgepäck Laptop Rucksack Herren Damen Reiserucksack Outdoor Sportrucksack Mit vielen Fächern  15 6 Zoll Tagesrucksack Schultasche Computer Rucksäcke Grau'
+slug: 'B07H2FC1M3-de Große Kapazität Rucksack 35L/40L Handgepäck Laptop...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

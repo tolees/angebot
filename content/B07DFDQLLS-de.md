@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFDQLLS-de Funko POP Alita Battle Angel Berserk'
+tags: 
 actualPrice: 5.16 EUR
 currency: EUR
 price: 5.16

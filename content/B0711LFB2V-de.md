@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q1n%2BuNlGL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B0711LFB2V-de Lenovo Miix 720 Schwarz Hybrid  2-in-1  UK Keyboard - 30 5 cm  12 Zoll  2880 x 1920 Pixel Touchscreen 2 50 GHz Intel® CoreTM i5-7200U  8 GB  256 GB '
+slug: 'B0711LFB2V-de Lenovo Miix 720 Schwarz Hybrid 2-in-1 UK Keyboard - 30 5...'
+tags: 
 actualPrice: 499 EUR
 currency: EUR
 price: 499

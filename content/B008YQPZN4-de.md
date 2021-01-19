@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51p35O3AdbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008YQPZN4-de Remington Elektrischer Rasierer Herren F7800  +LED Minuten-Display  Netz-/Akkubetrieb   Trocken-Rasierapparat  Präzisionstrimmer  Abwaschbar  Folienrasierer '
+slug: 'B008YQPZN4-de Remington Elektrischer Rasierer Herren F7800 +LED Minuten-...'
+tags: 
 actualPrice: 49.33 EUR
 currency: EUR
 price: 49.33

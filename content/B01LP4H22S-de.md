@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Xy02tjAkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LP4H22S-de Bosch Professional Kreuzlinienlaser GLL 2-10  roter Laser  Max. Reichweite: 10 m  3x AA Batterien  Schutztasche  im Karton '
+slug: 'B01LP4H22S-de Bosch Professional Kreuzlinienlaser GLL 2-10 roter Laser...'
+tags: 
 actualPrice: 62.0 EUR
 currency: EUR
 price: 62.0

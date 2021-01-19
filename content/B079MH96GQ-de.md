@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fnefUu3RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MH96GQ-de Nintendo Gameboy Thermobecher  Edelstahl  Mehrfarbig  9 x 9 x 18 cm'
+slug: 'B079MH96GQ-de Nintendo Gameboy Thermobecher Edelstahl Mehrfarbig 9 x 9 x...'
+tags: 
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

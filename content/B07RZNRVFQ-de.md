@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413OCWeEdZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZNRVFQ-de TOM TAILOR Herren Kapuzen Jacke Sportjacke  Grau  Light Stone Grey Mel 15398   Small  Herstellergröße: S '
+slug: 'B07RZNRVFQ-de TOM TAILOR Herren Kapuzen Jacke Sportjacke Grau Light...'
+tags: 
 actualPrice: 12.57 EUR
 currency: EUR
 price: 12.57

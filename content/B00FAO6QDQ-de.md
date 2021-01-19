@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UXfYQLstL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FAO6QDQ-de Cybex Silver Solution X  Autositz Gruppe 2/3  15-36 kg   ohne Isofix  Kollektion 2018  Gray Rabbit'
+slug: 'B00FAO6QDQ-de Cybex Silver Solution X Autositz Gruppe 2/3 15-36 kg ohne...'
+tags: 
 actualPrice: 87.5 EUR
 currency: EUR
 price: 87.5

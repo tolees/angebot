@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eIASFtYFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083VN3YF9-de Crucial Ballistix BL2K8G32C16U4WL RGB  3200 MHz  DDR4  DRAM  Desktop Gaming Speicher Kit  16GB  8GBx2   CL16  weiß'
+slug: 'B083VN3YF9-de Crucial Ballistix BL2K8G32C16U4WL RGB 3200 MHz DDR4 DRAM...'
+tags: 
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

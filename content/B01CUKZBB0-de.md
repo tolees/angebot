@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FgQOSayRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CUKZBB0-de Amazon-Schutzhülle für Kindle  Schwarz —nicht geeignet für Modelle der 10. Generation  2019 Amazon-Schutzhülle für Kindle  8. Generation - 2016 Modell   Schwarz - nicht geeignet für Modelle der 10. Generation  2018 '
+slug: 'B01CUKZBB0-de Amazon-Schutzhülle für Kindle Schwarz —nicht geeignet für...'
+tags: 
 actualPrice: 9.22 EUR
 currency: EUR
 price: 9.22

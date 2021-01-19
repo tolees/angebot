@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZYIojo0HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018EITAKK-de COMPO SAAT Vertikutier-Mix  Rasensamen  Rasendünger und Bodenaktivator  2 kg  66 m²'
+slug: 'B018EITAKK-de COMPO SAAT Vertikutier-Mix Rasensamen Rasendünger und...'
+tags: 
 actualPrice: 12.94 EUR
 currency: EUR
 price: 12.94

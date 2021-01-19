@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41J7rk7UvkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRTZTVS-de prettygood7 Eingabestift für Nintendo 3DS / N3DS / XL/LL  Kunststoff  Schwarz  2 Stück'
+slug: 'B07HRTZTVS-de prettygood7 Eingabestift für Nintendo 3DS / N3DS / XL/LL...'
+tags: 
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

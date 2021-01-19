@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31uUpLp950L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KHPD870-de Belkin Metallic Lightning-/USB iPhone Ladekabel  geeignet für iPhone XS  XS Max  XR  X  8/8 Plus und andere Geräte  1 2 m   silber'
+slug: 'B00KHPD870-de Belkin Metallic Lightning-/USB iPhone Ladekabel geeignet...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

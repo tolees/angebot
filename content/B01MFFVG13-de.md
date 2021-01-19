@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41v5ZKUj4FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MFFVG13-de Forefront Cases Kobo Aura One 7.8 Zoll Origami Hülle Schutzhülle Tasche Bumper Folio Smart Case Cover Stand - Ultra Dünn Leicht Rundum-Geräteschutz - Smart Auto Schlaf Wach  Schwarz '
+slug: 'B01MFFVG13-de Forefront Cases Kobo Aura One 7.8 Zoll Origami Hülle...'
+tags: 
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

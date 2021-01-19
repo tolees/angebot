@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41owVLGrlwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079VPLW7K-de WORX WG322E.9 Akku Kettensäge 20V – Praktische Holzsäge für Einsätze im Garten & Bauarbeiten - mit 25 cm Schnittlänge & automatischer Kettenspannung'
+slug: 'B079VPLW7K-de WORX WG322E.9 Akku Kettensäge 20V – Praktische Holzsäge...'
+tags: 
 actualPrice: 91.19 EUR
 currency: EUR
 price: 91.19

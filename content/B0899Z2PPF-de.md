@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Rb9QKQDzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0899Z2PPF-de Controller für Nintendo Switch 6-Achsen Einstellbarem Switch Pro Controller Double Shock rutschfest Kompatibel mit Switch  Switch Lite  Gelb '
+slug: 'B0899Z2PPF-de Controller für Nintendo Switch 6-Achsen Einstellbarem...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417X5KNRFJL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0000TLA6E-de Miss Marple Box  4 DVDs '
+slug: 'B0000TLA6E-de Miss Marple Box 4 DVDs'
+tags: 
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

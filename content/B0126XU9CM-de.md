@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419F7GNdHSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0126XU9CM-de Maxesla Bluetooth USB 4.0 Dongle Empfänger Bluetooth für Windows 10/ 8/ 7/ Vista/ XP  Unterstützt Bluetooth Kopfhörer  Maus  Tastatur  Druckern Schwarz'
+slug: 'B0126XU9CM-de Maxesla Bluetooth USB 4.0 Dongle Empfänger Bluetooth für...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

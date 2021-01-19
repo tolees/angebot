@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ehCkaegaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1JYPN8-de LIGHTAILING Licht-Set Für  Creator Detektivbüro  Modell - LED Licht-Set Kompatibel Mit Lego 10246 Modell Nicht Enthalten '
+slug: 'B07K1JYPN8-de LIGHTAILING Licht-Set Für Creator Detektivbüro Modell -...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

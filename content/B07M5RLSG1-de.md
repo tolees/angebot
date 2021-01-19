@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-gjikzY4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5RLSG1-de Crucial Ballistix Sport LT BLS16G4D32AESB 3200 MHz  DDR4  DRAM  Desktop Gaming Speicher  16GB  CL16  Grau '
+slug: 'B07M5RLSG1-de Crucial Ballistix Sport LT BLS16G4D32AESB 3200 MHz DDR4...'
+tags: 
 actualPrice: 60.8 EUR
 currency: EUR
 price: 60.8

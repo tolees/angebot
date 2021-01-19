@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zm+wZ9f8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079KD4PR6-de Hot Wheels FTB67 - City Ultimative Autowaschanlage mit Krokodil  Waschstation Spielset mit Farbwechseleffekt inkl. 1 Spielzeugauto und Alligator  Kinder Spielzeug ab 4 Jahren'
+slug: 'B079KD4PR6-de Hot Wheels FTB67 - City Ultimative Autowaschanlage mit...'
+tags: 
 actualPrice: 53.29 EUR
 currency: EUR
 price: 53.29

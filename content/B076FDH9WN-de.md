@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VJRqKjUKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076FDH9WN-de Palladium Pampa Sport Shearling Waterproof  Unisex-Erwachsene  Klassische Stiefel  Braun  Marron Mahogany/Chocolate 728   47 EU'
+slug: 'B076FDH9WN-de Palladium Pampa Sport Shearling Waterproof Unisex-...'
+tags: 
 actualPrice: 80.38 EUR
 currency: EUR
 price: 80.38

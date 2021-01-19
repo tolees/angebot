@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Fm712y+8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08492TQGQ-de HyperX Impact DDR4 HX426S16IBK2/64 Arbeitsspeicher 2666MHz CL16 SOIMM 64GB Kit  2x32GB '
+slug: 'B08492TQGQ-de HyperX Impact DDR4 HX426S16IBK2/64 Arbeitsspeicher 2666MHz...'
+tags: 
 actualPrice: 279.0 EUR
 currency: EUR
 price: 279.0

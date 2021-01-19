@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ypstkvbML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDPHFQW-de Calvin Klein Damen Bottom Pant Jogger Sporthose  Grau  Grey Heather 020   W Herstellergröße: S '
+slug: 'B06XDPHFQW-de Calvin Klein Damen Bottom Pant Jogger Sporthose Grau Grey...'
+tags: 
 actualPrice: 36.8 EUR
 currency: EUR
 price: 36.8

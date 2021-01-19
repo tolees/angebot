@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nxbOdoRxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDLSKBN-de LIGHTAILING Licht-Set Für  Ghostbusters Ecto-1  Modell - LED Licht-Set Kompatibel Mit Lego 21108 Modell Nicht Enthalten '
+slug: 'B07MDLSKBN-de LIGHTAILING Licht-Set Für Ghostbusters Ecto-1 Modell - LED...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

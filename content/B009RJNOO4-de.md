@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LP+o5Q30L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009RJNOO4-de Inter Link 19500010 Regal "Parini 1"  1 Boden  2 Fächer Sonoma Eiche'
+slug: 'B009RJNOO4-de Inter Link 19500010 Regal "Parini 1" 1 Boden 2 Fächer...'
+tags: 
 actualPrice: 22.84 EUR
 currency: EUR
 price: 22.84

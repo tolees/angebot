@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41b+ggHy-TL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H4CWCUC-de PUMA Herren Tazon 6 FM Laufschuhe  Weiß White Black Silver  42.5 EU'
+slug: 'B01H4CWCUC-de PUMA Herren Tazon 6 FM Laufschuhe Weiß White Black Silver...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

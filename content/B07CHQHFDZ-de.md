@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-WuPLEV6L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CHQHFDZ-de OnePlus 6 Smartphone  15 95 cm  6 28 Zoll  19:9 Touch-Display  64 GB interner Speicher  Android 8.1 Oreo / Oxygen OS 5.1   Mirror Black'
+slug: 'B07CHQHFDZ-de OnePlus 6 Smartphone 15 95 cm 6 28 Zoll 19:9 Touch-Display...'
+tags: 
 actualPrice: 415.0 EUR
 currency: EUR
 price: 415.0

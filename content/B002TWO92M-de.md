@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zuGKqQALL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002TWO92M-de Alessi "La Stanza dello Scirocco"  Korbschale'
+slug: 'B002TWO92M-de Alessi "La Stanza dello Scirocco" Korbschale'
+tags: 
 actualPrice: 42.14 EUR
 currency: EUR
 price: 42.14

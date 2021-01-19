@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51F1FACu5+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XG86GLM-de Oral-B Genius 10900N Elektrische Zahnbürste mit Zahnfleischschutz-Assistent  mit 2. Handstück  rosegold & schwarz'
+slug: 'B07XG86GLM-de Oral-B Genius 10900N Elektrische Zahnbürste mit...'
+tags: 
 actualPrice: 180.84 EUR
 currency: EUR
 price: 180.84

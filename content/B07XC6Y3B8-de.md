@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51yHC5cFb3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XC6Y3B8-de Philips Senseo Viva Cafe HD6561/67 Nr. 1 Kaffepadmaschine mit 100 Pads in der Box  schwarz   Kunststoff'
+slug: 'B07XC6Y3B8-de Philips Senseo Viva Cafe HD6561/67 Nr. 1 Kaffepadmaschine...'
+tags: 
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

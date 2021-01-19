@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w1WSTV7zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ9HSV9-de Salomon Herren XA PRO 3D GTX Traillaufschuhe  Schwarz  Black/Lime Green/White   47 1/3 EU'
+slug: 'B07CZ9HSV9-de Salomon Herren XA PRO 3D GTX Traillaufschuhe Schwarz...'
+tags: 
 actualPrice: 100.41 EUR
 currency: EUR
 price: 100.41

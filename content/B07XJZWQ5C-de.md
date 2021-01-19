@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51QlNJrHWLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XJZWQ5C-de KASTEWILL Bluetooth Adapter 5.0 Transmitter Empfänger 80m  3-in-1 Sender Receiver Bluetooth Adapter Audio mit aptX HD  RCA Kable  3 5 mm AUX  Optisches TOSLINK für Home/TV/Car'
+slug: 'B07XJZWQ5C-de KASTEWILL Bluetooth Adapter 5.0 Transmitter Empfänger 80m...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

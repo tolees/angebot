@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VSx9zQL7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075YYRYBW-de Gigaset E370 Schnurloses Telefon  für Senioren  mit großen Tasten und SOS-Funktion  einfache Bedienung  extra großes Farbdisplay  einfache Bedienung  weiß'
+slug: 'B075YYRYBW-de Gigaset E370 Schnurloses Telefon für Senioren mit großen...'
+tags: 
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

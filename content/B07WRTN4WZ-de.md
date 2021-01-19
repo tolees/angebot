@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51iV0Lm7QSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRTN4WZ-de Good Gain Garden Tools Set  9-teiliges Gardening Organizer Kit mit Aufbewahrungstasche  Hochleistungs-Pflanzwerkzeugen  Gartenschere  tolles Geschenk für den Muttertag von Frauen und Männern. Blau'
+slug: 'B07WRTN4WZ-de Good Gain Garden Tools Set 9-teiliges Gardening Organizer...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

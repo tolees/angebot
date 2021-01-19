@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EUSjUhUkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPK63XL-de Funko 30596 POP Vinyl: Fairy Tail S3: Pantherlily Sammelbares Spielzeug  Mehrfarben  Standard'
+slug: 'B07KPK63XL-de Funko 30596 POP Vinyl: Fairy Tail S3: Pantherlily...'
+tags: 
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

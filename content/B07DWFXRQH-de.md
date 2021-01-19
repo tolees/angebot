@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31fSxVfG4KL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DWFXRQH-de AmazonBasics - Lightning-auf-USB-A-Kabel  Premium-Kollektion  1 8 m  1er-Pack - Silber'
+slug: 'B07DWFXRQH-de AmazonBasics - Lightning-auf-USB-A-Kabel Premium-...'
+tags: 
 actualPrice: 5 EUR
 currency: EUR
 price: 5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hnW6DyarL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YSNGN48-de NIVEA MEN Fresh Active Deo Stift  ohne Aluminium  ACH  mit erfrischender Formel  Deodorant Stick mit 48h Schutz pflegt die Haut  40 ml'
+slug: 'B07YSNGN48-de NIVEA MEN Fresh Active Deo Stift ohne Aluminium ACH mit...'
+tags: 
 actualPrice: 1.56 EUR
 currency: EUR
 price: 1.56

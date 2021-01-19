@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51J6RItN4pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0761M3CTJ-de Fruitman Kugelschreiber lustige geschenk für männer geschenke weihnachten büro gadgets helfen für weihnachtsdeko werkzeug stift papa geschenkideen weihnachtsgeschenke für frauen und männer'
+slug: 'B0761M3CTJ-de Fruitman Kugelschreiber lustige geschenk für männer...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

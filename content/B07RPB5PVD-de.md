@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ox2gohpDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RPB5PVD-de Funko 44278 POP NBA: Dallas Mavericks-Kristaps Prozingis Sammelbares Spielzeug  Mehrfarben'
+slug: 'B07RPB5PVD-de Funko 44278 POP NBA: Dallas Mavericks-Kristaps Prozingis...'
+tags: 
 actualPrice: 7.39 EUR
 currency: EUR
 price: 7.39

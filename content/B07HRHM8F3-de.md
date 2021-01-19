@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WR7hG-0BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRHM8F3-de Sennheiser MOMENTUM True Wireless Bluetooth-Ohrhörer  Schwarz/Chrom'
+slug: 'B07HRHM8F3-de Sennheiser MOMENTUM True Wireless Bluetooth-Ohrhörer...'
+tags: 
 actualPrice: 175.39 EUR
 currency: EUR
 price: 175.39

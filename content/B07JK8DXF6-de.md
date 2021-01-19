@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fsl+KtDOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JK8DXF6-de LaCie Portable SSD  500 GB  externe SSD  2.5 Zoll  USB-C  Mac & PC  Modellnr.: STHK500800'
+slug: 'B07JK8DXF6-de LaCie Portable SSD 500 GB externe SSD 2.5 Zoll USB-C Mac &...'
+tags: 
 actualPrice: 92.76 EUR
 currency: EUR
 price: 92.76

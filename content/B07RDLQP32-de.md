@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ahEt9m2oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDLQP32-de Salomon Herren X REVEAL GTX Trekking- & Wanderhalbschuhe  Farbe: lila  Flint Stone/Black/India Ink  Größe: EU 42'
+slug: 'B07RDLQP32-de Salomon Herren X REVEAL GTX Trekking- & Wanderhalbschuhe...'
+tags: 
 actualPrice: 61.21 EUR
 currency: EUR
 price: 61.21

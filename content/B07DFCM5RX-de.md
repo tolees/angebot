@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51w5bx7anNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFCM5RX-de Funko B07DFCM5RX Marvel Studios 10: Iron Man  Chrome  POP Bobble  Multi'
+slug: 'B07DFCM5RX-de Funko B07DFCM5RX Marvel Studios 10: Iron Man Chrome POP...'
+tags: 
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DQ3juxjOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPTBSM4-de Funko 37022 POP Vinyl: Disney: Aladdin  Live Action : Aladdin & Abu Sammelbares Spielzeug  Mehrfarben'
+slug: 'B07KPTBSM4-de Funko 37022 POP Vinyl: Disney: Aladdin Live Action :...'
+tags: 
 actualPrice: 10.11 EUR
 currency: EUR
 price: 10.11

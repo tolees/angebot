@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516gn-9Cm8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IUWFAMW-de Kommissarin Lund - Die komplette Serie - 10 Jahre Jubiläums-Edition  20 DVDs '
+slug: 'B01IUWFAMW-de Kommissarin Lund - Die komplette Serie - 10 Jahre...'
+tags: 
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

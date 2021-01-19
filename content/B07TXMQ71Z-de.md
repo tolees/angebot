@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ATW74SpCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXMQ71Z-de Funko – 43350 – Television: Dr Who – Reconnaissance Dalek – Vinyl Figur ca. 9cm'
+slug: 'B07TXMQ71Z-de Funko – 43350 – Television: Dr Who – Reconnaissance Dalek...'
+tags: 
 actualPrice: 9.7 EUR
 currency: EUR
 price: 9.7

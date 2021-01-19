@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41714bNpdQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFYDWJ1-de Sloggi Zero Feel Bralette EX BH Damen  Rot  Bordeaux 3407   L'
+slug: 'B07LFYDWJ1-de Sloggi Zero Feel Bralette EX BH Damen Rot Bordeaux 3407 L'
+tags: 
 actualPrice: 22.72 EUR
 currency: EUR
 price: 22.72

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zXvdLIpKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ST67HFW-de Hue White & Col. Amb. Sana Wandleuchte schwarz 1500lm Bluetooth'
+slug: 'B07ST67HFW-de Hue White & Col. Amb. Sana Wandleuchte schwarz 1500lm...'
+tags: 
 actualPrice: 135.5 EUR
 currency: EUR
 price: 135.5

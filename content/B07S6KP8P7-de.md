@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xyYypYaKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6KP8P7-de HP Pavilion Gaming 17-cd0228ng  17 3 Zoll / FHD IPS 144Hz  Notebook  Intel Core i7-9750H  16GB DDR4 RAM  1TB HDD  512GB SSD  Nvidia GeForce GTX 1660Ti Max-Q 6GB DDR6  Windows 10  schwarz/grün'
+slug: 'B07S6KP8P7-de HP Pavilion Gaming 17-cd0228ng 17 3 Zoll / FHD IPS 144Hz...'
+tags: 
 actualPrice: 715.0 EUR
 currency: EUR
 price: 715.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mTzj0DfaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BVFL132-de QAZQA Modern Industrielle Hängelampe schwarz mit 4-flammig-Licht-Rack - Cage Rack/Innenbeleuchtung/Wohnzimmerlampe/Küche Stahl Länglich LED geeignet E27 Max. 4 x 60 Watt'
+slug: 'B07BVFL132-de QAZQA Modern Industrielle Hängelampe schwarz mit...'
+tags: 
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

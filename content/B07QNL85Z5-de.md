@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ckaBIAnyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QNL85Z5-de ORIENT Messer Set 3 teilig - Kochmesser Allzwekmesser Sagemesser - Deutsch Thyssenkrupp Edelstahl'
+slug: 'B07QNL85Z5-de ORIENT Messer Set 3 teilig - Kochmesser Allzwekmesser...'
+tags: 
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

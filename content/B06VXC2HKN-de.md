@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VXC2HKN-de Fitbit Alta HR & Alta Classic Band'
+tags: 
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

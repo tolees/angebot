@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vXWanFmLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QQNRWK2-de Reolink Überwachungskamera Argus Eco + Solarpanel  1080p WLAN IP Kamera Aussen mit Akku  SD Kartenslot  PIR Bewegungsmelder  IR Nachtsicht und 2-Wege-Audio  2019 Version'
+slug: 'B07QQNRWK2-de Reolink Überwachungskamera Argus Eco + Solarpanel 1080p...'
+tags: 
 actualPrice: 79.49 EUR
 currency: EUR
 price: 79.49

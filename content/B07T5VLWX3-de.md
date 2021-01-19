@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41z13UmRsIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T5VLWX3-de Acer TravelMate P2  TMP215-51-83MD  39 6 cm  15 6 Zoll Full-HD IPS  Business-Laptop  Intel Core i7-8550U  8 GB RAM  512 GB PCIe SSD  Intel UHD  Win 10 Pro  schwarz'
+slug: 'B07T5VLWX3-de Acer TravelMate P2 TMP215-51-83MD 39 6 cm 15 6 Zoll Full-...'
+tags: 
 actualPrice: 330.0 EUR
 currency: EUR
 price: 330.0

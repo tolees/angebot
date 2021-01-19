@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mGkGV1PZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LGKRVPK-de Bosch 3tlg. Starter Set Fliesen für Multifunktionswerkzeuge Starlock'
+slug: 'B00LGKRVPK-de Bosch 3tlg. Starter Set Fliesen für...'
+tags: 
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

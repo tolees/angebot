@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vje6CZREL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0144KSXVO-de Enders Gasgrill URBAN  Tischgrill  Grillen-  Kochen- und Backen Funktion  2 Brenner Edelstahl  kleiner Grill mit Grill-Thermometer  Balkon-Grill  Camping-Grill  Aluguss-Gehäuse  Gusseisen-Rost  #2095'
+slug: 'B0144KSXVO-de Enders Gasgrill URBAN Tischgrill Grillen- Kochen- und...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mnx0ll+mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077HXFFQL-de Fisher-Price FPP53 - Lernspaß Hundefreundin Baby Spielzeug und Plüschtier  Lernspielzeug mit Liedern und Sätzen  mitwachsende Spielstufen  Spielzeug ab 6 Monaten  deutschsprachig'
+slug: 'B077HXFFQL-de Fisher-Price FPP53 - Lernspaß Hundefreundin Baby Spielzeug...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

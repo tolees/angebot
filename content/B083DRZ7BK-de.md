@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31T4+ewK9DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083DRZ7BK-de TuToy Lcd Automatische Fischfutterautomat Teich Aquarium Fütterung Timer Digitale Automatische Fischfutterautomat'
+slug: 'B083DRZ7BK-de TuToy Lcd Automatische Fischfutterautomat Teich Aquarium...'
+tags: 
 actualPrice: 150.66 EUR
 currency: EUR
 price: 150.66

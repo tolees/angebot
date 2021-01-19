@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413-VGtxQbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071Z6DCTL-de Lenovo L27q-10 68 58 cm  27 Zoll QHD IPS matt  Monitor  HDMI  DisplayPort  4ms Reaktionszeit  silber'
+slug: 'B071Z6DCTL-de Lenovo L27q-10 68 58 cm 27 Zoll QHD IPS matt Monitor HDMI...'
+tags: 
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

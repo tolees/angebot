@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iqYn2RHLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JM5TVY8-de QARFEE - Universal 128GB Flash Drive  LUV-Share USB Stick Micro USB Memory Stick Externer Speicher Disk kompatibel mit iPhone/iPad/iPod/Mac/iOS/Android Smartphone und PC  Schwarz '
+slug: 'B07JM5TVY8-de QARFEE - Universal 128GB Flash Drive LUV-Share USB Stick...'
+tags: 
 actualPrice: 31.48 EUR
 currency: EUR
 price: 31.48

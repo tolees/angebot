@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Q0YtEU-gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHMDF8D-de Huawei Watch GT Active Smartwatch  46 mm Amoled Touchscreen  GPS  Fitness Tracker  Herzfrequenzmessung  5 ATM wasserdicht  Dunkelgrün'
+slug: 'B07PHMDF8D-de Huawei Watch GT Active Smartwatch 46 mm Amoled Touchscreen...'
+tags: 
 actualPrice: 114.58 EUR
 currency: EUR
 price: 114.58

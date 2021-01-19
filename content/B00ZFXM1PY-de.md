@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CKeWi2NeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZFXM1PY-de Villeroy & Boch Toy s Delight Große Vorratsdose  Premium Porzellan  Weiß/Rot'
+slug: 'B00ZFXM1PY-de Villeroy & Boch Toy s Delight Große Vorratsdose Premium...'
+tags: 
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

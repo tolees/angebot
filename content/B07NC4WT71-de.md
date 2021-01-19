@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41icoQ4vj4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NC4WT71-de Disney Cars GGL47 - Radiator Springs Rennset Spielzeugauto Spielset mit Beschleuniger und Lightning McQueen Auto  Spielzeug ab 4 Jahren'
+slug: 'B07NC4WT71-de Disney Cars GGL47 - Radiator Springs Rennset Spielzeugauto...'
+tags: 
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

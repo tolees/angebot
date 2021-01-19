@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410-Q2zz7YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F3PBNX1-de DARLINGTON & Sohns 2X Classic Controller für Xbox mit Verlängerungskabel Controller Verlängerung Extansion Gamepad'
+slug: 'B08F3PBNX1-de DARLINGTON & Sohns 2X Classic Controller für Xbox mit...'
+tags: 
 actualPrice: 26.85 EUR
 currency: EUR
 price: 26.85

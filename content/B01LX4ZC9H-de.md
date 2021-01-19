@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LX4ZC9H-de Playmobil 9224 - Spengler und Geist'
+tags: 
 actualPrice: 4.58 EUR
 currency: EUR
 price: 4.58

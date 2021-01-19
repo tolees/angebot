@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61ruYG4e7jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZTXCXKG-de PLAYMOBIL Top Agents 70232 Arctic Rebels Eistrike  Ab 6 Jahren'
+slug: 'B07ZTXCXKG-de PLAYMOBIL Top Agents 70232 Arctic Rebels Eistrike Ab 6 Jahren'
+tags: 
 actualPrice: 28.73 EUR
 currency: EUR
 price: 28.73

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31h2PNE1CoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XG4F9WQ-de Microsoft Wireless Mobile Mouse 1850  Maus  zyanblau  kabellos  für Rechts- und Linkshänder geeignet '
+slug: 'B00XG4F9WQ-de Microsoft Wireless Mobile Mouse 1850 Maus zyanblau...'
+tags: 
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

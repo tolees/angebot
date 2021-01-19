@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/211kzCKunxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DJBH8SS-de Parker Jotter Kugelschreiber | Bond Street Black | Mittlere Spitze | Blaue Tinte | Geschenkbox'
+slug: 'B01DJBH8SS-de Parker Jotter Kugelschreiber | Bond Street Black |...'
+tags: 
 actualPrice: 9.29 EUR
 currency: EUR
 price: 9.29

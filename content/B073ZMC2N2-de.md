@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yyf+9XFuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073ZMC2N2-de Western Digital  WDBFBE0080JBK-EESN My Book Duo 8 TB  Desktop RAID External Hard Drive - USB 3.0 - 256 Bit AES-Hardwareverschlüsselung '
+slug: 'B073ZMC2N2-de Western Digital WDBFBE0080JBK-EESN My Book Duo 8 TB...'
+tags: 
 actualPrice: 269.95 EUR
 currency: EUR
 price: 269.95

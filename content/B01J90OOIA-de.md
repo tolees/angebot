@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uOPfoox2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J90OOIA-de Fire 7-Tablet  16 GB  Schwarz  mit Spezialangeboten  vorherige Generation – 7. '
+slug: 'B01J90OOIA-de Fire 7-Tablet 16 GB Schwarz mit Spezialangeboten vorherige...'
+tags: 
 actualPrice: 40.68 EUR
 currency: EUR
 price: 40.68

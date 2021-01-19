@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510sp9Tnt5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYTYXUT-de Eyoyo 17" Zoll Monitor 1280x1024 TFT LCD CCTV HDMI HD Monitor Farbdisplay Bildschirm mit BNC/VGA/AV/HDMI/USB Kopfhörerausgang  Eingebauter Lautsprecher  17   1280x1024 '
+slug: 'B01MYTYXUT-de Eyoyo 17" Zoll Monitor 1280x1024 TFT LCD CCTV HDMI HD...'
+tags: 
 actualPrice: 111.26 EUR
 currency: EUR
 price: 111.26

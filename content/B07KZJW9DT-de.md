@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414+qqfM37L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KZJW9DT-de Fire 7-Tablet  Zertifiziert und generalüberholt  7-Zoll-Display  16 GB  Schwarz mit Spezialangeboten'
+slug: 'B07KZJW9DT-de Fire 7-Tablet Zertifiziert und generalüberholt 7-Zoll-...'
+tags: 
 actualPrice: 34.11 EUR
 currency: EUR
 price: 34.11

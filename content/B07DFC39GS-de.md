@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Fr1EipbfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFC39GS-de Funko 33977 Marvel Into The Verse: Spider-Man Miles POP Bobble  Multi'
+slug: 'B07DFC39GS-de Funko 33977 Marvel Into The Verse: Spider-Man Miles POP...'
+tags: 
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

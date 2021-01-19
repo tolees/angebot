@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41xfNWwyJHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GFRPR2D-de SteelSeries Arctis 7  Gaming Headset  verlustfreies und drahtloses  DTS Headphone:X v2.0 Surround für PC und PlayStation 4  schwarz'
+slug: 'B07GFRPR2D-de SteelSeries Arctis 7 Gaming Headset verlustfreies und...'
+tags: 
 actualPrice: 139.9 EUR
 currency: EUR
 price: 139.9

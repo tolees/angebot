@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L6YUsMEjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004QCK41I-de Hamax Kindersitz Fahrrad hinten Caress Testsieger schwarz Kinderfahrradsitz Baby'
+slug: 'B004QCK41I-de Hamax Kindersitz Fahrrad hinten Caress Testsieger schwarz...'
+tags: 
 actualPrice: 102.99 EUR
 currency: EUR
 price: 102.99

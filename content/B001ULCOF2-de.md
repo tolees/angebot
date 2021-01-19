@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jYNDc+GmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001ULCOF2-de tesa Insect Stop COMFORT Fliegengitter für Fenster - Insektenschutz mit Klettband selbstklebend - Fliegen Netz ohne Bohren - weiß  leichter sichtschutz   130 cm x 130 cm'
+slug: 'B001ULCOF2-de tesa Insect Stop COMFORT Fliegengitter für Fenster -...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

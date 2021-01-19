@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+H4ahdDhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P3N9L7M-de Two and a Half Men - Mein cooler Onkel Charlie - Staffel 6 [4 DVDs]'
+slug: 'B00P3N9L7M-de Two and a Half Men - Mein cooler Onkel Charlie - Staffel 6...'
+tags: 
 actualPrice: 5.14 EUR
 currency: EUR
 price: 5.14

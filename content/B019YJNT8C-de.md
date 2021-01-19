@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ff6xkXKNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019YJNT8C-de Hasbro Play-Doh B5520EU4 - Dr. Wackelzahn Knete  für fantasievolles und kreatives Spielen'
+slug: 'B019YJNT8C-de Hasbro Play-Doh B5520EU4 - Dr. Wackelzahn Knete für...'
+tags: 
 actualPrice: 16.33 EUR
 currency: EUR
 price: 16.33

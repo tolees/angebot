@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51SIb3Ayd2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0794SNF6C-de Fire HD 8 Kids Edition-Tablet  8-Zoll-HD-Display  32 GB  blaue kindgerechte Hülle'
+slug: 'B0794SNF6C-de Fire HD 8 Kids Edition-Tablet 8-Zoll-HD-Display 32 GB...'
+tags: 
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

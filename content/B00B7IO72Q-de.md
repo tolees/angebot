@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Em0mCa0QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B7IO72Q-de Rasch Tapeten 226751 Kollektion Kids & Teens II  silber'
+slug: 'B00B7IO72Q-de Rasch Tapeten 226751 Kollektion Kids & Teens II silber'
+tags: 
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

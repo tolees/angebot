@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31vNwpgogTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B004EPYIMS-de roba Komplettwiegenset  Babywiege  40x90cm   Holz  weiß  Stubenwagen & Wiege mit Feststellfunktion  Wiegenset inkl. kompletter Ausstattung & Baby Bettwäsche  80x80cm '
+slug: 'B004EPYIMS-de roba Komplettwiegenset Babywiege 40x90cm Holz weiß...'
+tags: 
 actualPrice: 113.95 EUR
 currency: EUR
 price: 113.95

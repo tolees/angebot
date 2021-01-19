@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yCm8FDRdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NZPGQ7M-de BRIKSMAX Led Beleuchtungsset für Star Wars Millennium Falcon Spielzeug  Kompatibel Mit Lego 75105 Bausteinen Modell - Ohne Lego Set'
+slug: 'B07NZPGQ7M-de BRIKSMAX Led Beleuchtungsset für Star Wars Millennium...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

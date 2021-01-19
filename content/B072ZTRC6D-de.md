@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sAbhQtgVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072ZTRC6D-de Huawei Y6 2017  Grey '
+slug: 'B072ZTRC6D-de Huawei Y6 2017 Grey'
+tags: 
 actualPrice: 96.72 EUR
 currency: EUR
 price: 96.72

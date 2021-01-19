@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311y9Cf9n8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001QWL0ZU-de Durex Play Pflegend Sensitives Gleitgel  mit Aloe Vera  1er Pack  1 x 50 ml '
+slug: 'B001QWL0ZU-de Durex Play Pflegend Sensitives Gleitgel mit Aloe Vera 1er...'
+tags: 
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

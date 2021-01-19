@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wuCvOGR0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MR1HWXT-de Crucial Ballistix Sport LT BLS2K16G4D32AESB 3200 MHz  DDR4  DRAM  Desktop Gaming Speicher Kit  32GB   16GB x2   CL16  Grau '
+slug: 'B07MR1HWXT-de Crucial Ballistix Sport LT BLS2K16G4D32AESB 3200 MHz DDR4...'
+tags: 
 actualPrice: 119.19 EUR
 currency: EUR
 price: 119.19

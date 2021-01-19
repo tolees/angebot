@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/417FFkDtniL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B015Q3S5VQ-de Rubie s 3620100 - MLP Twilight Sparkle Deluxe - Child  Action Dress Up'
+slug: 'B015Q3S5VQ-de Rubie s 3620100 - MLP Twilight Sparkle Deluxe - Child...'
+tags: 
 actualPrice: 23.62 EUR
 currency: EUR
 price: 23.62

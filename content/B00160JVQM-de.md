@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YeljC45YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00160JVQM-de Oase UVC Vorklärgerät Vitronic  11 W'
+slug: 'B00160JVQM-de Oase UVC Vorklärgerät Vitronic 11 W'
+tags: 
 actualPrice: 58.65 EUR
 currency: EUR
 price: 58.65

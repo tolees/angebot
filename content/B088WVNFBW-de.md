@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fJH8leroL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088WVNFBW-de Xbox Game Pass  3 Monate Ultimate + 1 Monat GRATIS | Xbox One/Windows 10 PC - Download Code'
+slug: 'B088WVNFBW-de Xbox Game Pass 3 Monate Ultimate + 1 Monat GRATIS | Xbox...'
+tags: 
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

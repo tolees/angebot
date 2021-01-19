@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-KESp6bKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0013JDWHU-de BGS 199 | Adapter-Satz | 6-tlg. | 1/4" auf 3/8"  3/8" auf 1/4"  3/8" auf 1/2"  1/2" auf 3/8"  1/2" auf 3/4"  3/4" auf 1/2"'
+slug: 'B0013JDWHU-de BGS 199 | Adapter-Satz | 6-tlg. | 1/4" auf 3/8" 3/8" auf...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

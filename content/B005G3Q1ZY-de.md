@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ytoYs3ZzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005G3Q1ZY-de Tefal Talent Pro E44040 Grillpfanne  26 cm  induktionsgeeignet  antihaftversiegelt  schwarz'
+slug: 'B005G3Q1ZY-de Tefal Talent Pro E44040 Grillpfanne 26 cm...'
+tags: 
 actualPrice: 42.23 EUR
 currency: EUR
 price: 42.23

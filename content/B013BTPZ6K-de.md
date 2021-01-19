@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4189++zenKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013BTPZ6K-de Hauck Duett 2 Geschwisterwagen bis 36 kg  Zwillingsbuggy mit Babywanne ab Geburt umbaubar zur drehbaren Sitzeinheit  Sitz abnehmbarer  höhenverstellbarer Schieber  mit Regenverdeck  black forest'
+slug: 'B013BTPZ6K-de Hauck Duett 2 Geschwisterwagen bis 36 kg Zwillingsbuggy...'
+tags: 
 actualPrice: 292.0 EUR
 currency: EUR
 price: 292.0

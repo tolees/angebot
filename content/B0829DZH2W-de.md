@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QD7-KX5oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0829DZH2W-de Sabrent Rocket Q 2TB NVMe PCIe M.2 2280 Interne Hochleistungs-Solid-State SSD  SB-RKTQ-2TB '
+slug: 'B0829DZH2W-de Sabrent Rocket Q 2TB NVMe PCIe M.2 2280 Interne...'
+tags: 
 actualPrice: 229.89 EUR
 currency: EUR
 price: 229.89

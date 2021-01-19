@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RT1HBX6jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010AZUMCU-de Eagle Creek Nackenkissen Exhale Neck Pillow leichtes Reisekissen für das Schlafen im Flugzeug mit Tragetasche  blue sea'
+slug: 'B010AZUMCU-de Eagle Creek Nackenkissen Exhale Neck Pillow leichtes...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

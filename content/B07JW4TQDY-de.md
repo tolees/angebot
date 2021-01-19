@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OKjSFZxCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JW4TQDY-de Acer Aspire 5  A517-51-3666  43 9 cm  17 3 Zoll Full-HD matt  Multimedia Laptop  Intel Core i3-7020U  8GB RAM  256GB SSD  Intel HD  Win 10  schwarz'
+slug: 'B07JW4TQDY-de Acer Aspire 5 A517-51-3666 43 9 cm 17 3 Zoll Full-HD matt...'
+tags: 
 actualPrice: 300.0 EUR
 currency: EUR
 price: 300.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uyoQz2YGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8KWVP2-de CREW Republic Craft Beer IPA Paket  Craft Bier Probierset Biertasting  20 x 0 33 l '
+slug: 'B07B8KWVP2-de CREW Republic Craft Beer IPA Paket Craft Bier Probierset...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

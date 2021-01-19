@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0741JGHB5-de Wahoo ELEMNT MINI Fahrradcomputer'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

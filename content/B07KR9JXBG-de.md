@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41imBiHuPPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KR9JXBG-de New Balance 624v5  Herren Hallenschuhe  Weiß  White/Navy White/Navy   44 EU  9.5 UK '
+slug: 'B07KR9JXBG-de New Balance 624v5 Herren Hallenschuhe Weiß White/Navy...'
+tags: 
 actualPrice: 28.87 EUR
 currency: EUR
 price: 28.87

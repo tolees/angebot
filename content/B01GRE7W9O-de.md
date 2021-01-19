@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZCAGIoyIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GRE7W9O-de Logitech C925E Business Webcam  mit 1080p und integrierter Abdeckblende  schwarz'
+slug: 'B01GRE7W9O-de Logitech C925E Business Webcam mit 1080p und integrierter...'
+tags: 
 actualPrice: 56.0 EUR
 currency: EUR
 price: 56.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412xe1pjxGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYSF4F1-de tado° Smartes Heizkörper-Thermostat Starter Kit V3+ - Intelligente Heizungssteuerung  Einfach selbst zu installieren'
+slug: 'B07FYSF4F1-de tado° Smartes Heizkörper-Thermostat Starter Kit V3+ -...'
+tags: 
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

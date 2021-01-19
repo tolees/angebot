@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m7CoKTybL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T28B4RK-de BRIKSMAX Led Beleuchtungsset für Lego City Starke Fahrzeuge Schwerlasttransporter  Kompatibel Mit Lego 60183 Bausteinen Modell - Ohne Lego Set'
+slug: 'B07T28B4RK-de BRIKSMAX Led Beleuchtungsset für Lego City Starke...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

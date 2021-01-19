@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51QIbBil0fL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HD6S7L2-de Salomon Herren Trail Running Schuhe  XA PRO 3D GTX  Farbe: navy  navy Blazer/Hawaiian Ocean/Dawn Blue  Größe: EU 46 2/3'
+slug: 'B01HD6S7L2-de Salomon Herren Trail Running Schuhe XA PRO 3D GTX Farbe:...'
+tags: 
 actualPrice: 130 EUR
 currency: EUR
 price: 130

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61YQ1xNEfrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYRIWZ0-de PLAYMOBIL Ghostbusters 9220 Ecto-1 mit Licht- und Soundeffekten  Ab 6 Jahren'
+slug: 'B01LYRIWZ0-de PLAYMOBIL Ghostbusters 9220 Ecto-1 mit Licht- und...'
+tags: 
 actualPrice: 38.36 EUR
 currency: EUR
 price: 38.36

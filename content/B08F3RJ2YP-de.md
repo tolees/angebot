@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pmn+2p-dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F3RJ2YP-de DARLINGTON & Sohns Schwarzer Controller für Nintendo 64 N64 USB Anschluss PC Computer Joystick Schwarz Gamepad Joypad'
+slug: 'B08F3RJ2YP-de DARLINGTON & Sohns Schwarzer Controller für Nintendo 64...'
+tags: 
 actualPrice: 17.75 EUR
 currency: EUR
 price: 17.75

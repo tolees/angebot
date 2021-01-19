@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ddrPFS33L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HGWTTMN-de AKASO Smart WLAN Kamera HD 1080P IP Überwachungskamera Alexa/ Echo Spot/Show /Google Home/Fire-TV Kompatibel  Bewegungserkennung  2 Wege Audio  Nachtsicht  App Kontrolle  Haustier/Baby Monitor'
+slug: 'B07HGWTTMN-de AKASO Smart WLAN Kamera HD 1080P IP Überwachungskamera...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

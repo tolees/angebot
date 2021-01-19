@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410BjylqUcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XHKHG2M-de Uten Heißluftfritteuse  6.5L Airfryer XXL Frittieren ohne Fett  Aerofryer mit Umluft  Heißluft-Fritteuse Temperatur und Zeit Basierend Auf Dem Essen Einstellen  inkl.Bodeneinsatz'
+slug: 'B07XHKHG2M-de Uten Heißluftfritteuse 6.5L Airfryer XXL Frittieren ohne...'
+tags: 
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

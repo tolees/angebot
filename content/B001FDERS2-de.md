@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aca38xCfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001FDERS2-de Wenko Herdabdeckplatte Universal Kaffee  2er Set  für alle Herdarten  Gehärtetes Glas  30 x 52 cm  mehrfarbig'
+slug: 'B001FDERS2-de Wenko Herdabdeckplatte Universal Kaffee 2er Set für alle...'
+tags: 
 actualPrice: 16.02 EUR
 currency: EUR
 price: 16.02

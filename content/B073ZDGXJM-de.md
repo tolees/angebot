@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Koo0+fAFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073ZDGXJM-de Remington Hygiene Clipper Lithium NanoSeries NE3870  Trimmer für Nasen-  Ohren- & Augenbrauenhärchen  inkl. Detailtrimmer-Aufsatz  schwarz'
+slug: 'B073ZDGXJM-de Remington Hygiene Clipper Lithium NanoSeries NE3870...'
+tags: 
 actualPrice: 15.55 EUR
 currency: EUR
 price: 15.55

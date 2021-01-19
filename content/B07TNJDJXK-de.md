@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61KN8kE8erL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNJDJXK-de Smartwatch Sport Uhr Fitness Tracker - IP68 Wasserdicht Bracelet Touchscreen mit Schrittzähler Schlafanalyse Kamera Musik Knopf  Anruf SMS Facebook Vibration für Herren Damen Kompatible Android IOS'
+slug: 'B07TNJDJXK-de Smartwatch Sport Uhr Fitness Tracker - IP68 Wasserdicht...'
+tags: 
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

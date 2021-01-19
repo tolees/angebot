@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CRfVoshHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HS8GDUS-de Barbara Becker präsentiert das Bauch  Beine  Po-Bootcamp Miami / New York'
+slug: 'B00HS8GDUS-de Barbara Becker präsentiert das Bauch Beine Po-Bootcamp...'
+tags: 
 actualPrice: 4.69 EUR
 currency: EUR
 price: 4.69

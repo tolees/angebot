@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Btp7QjY1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRD2M69-de Philips XC7042/01 SpeedPro Max kabelloser Staubsauger 7000 Series  mit Akku  360°-Saugdüse  65 Min. Akkulaufzeit  rot'
+slug: 'B07WRD2M69-de Philips XC7042/01 SpeedPro Max kabelloser Staubsauger 7000...'
+tags: 
 actualPrice: 287.99 EUR
 currency: EUR
 price: 287.99

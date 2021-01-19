@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410kV5QAz-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J3XBA1I-de Philips SHE3905BK/00 In-Ear-Kopfhörer mit Mikrofon  satter Sound  schwarz'
+slug: 'B00J3XBA1I-de Philips SHE3905BK/00 In-Ear-Kopfhörer mit Mikrofon satter...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

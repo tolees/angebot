@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419beUXflJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0731BL1LH-de Champion Herren Classic Logo Sweatshirt  Grau  S'
+slug: 'B0731BL1LH-de Champion Herren Classic Logo Sweatshirt Grau S'
+tags: 
 actualPrice: 33.77 EUR
 currency: EUR
 price: 33.77

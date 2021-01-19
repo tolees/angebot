@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lA7pHMPOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VVLZ9R8-de Samsung Galaxy Note 10 Smartphone Bundle  15.9cm  6.3 Zoll  256GB interner Speicher  8GB RAM  Dual SIM  Android  Aura Glow inkl. 36 Monate Herstellergarantie [Exklusiv bei Amazon] | Deutsche Version'
+slug: 'B07VVLZ9R8-de Samsung Galaxy Note 10 Smartphone Bundle 15.9cm 6.3 Zoll...'
+tags: 
 actualPrice: 649.0 EUR
 currency: EUR
 price: 649.0

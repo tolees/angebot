@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MJGBfJN8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WHHADRE-de ADAPTIL Express Tabletten  10 Stück  Ergänzungsfuttermittel zur Beruhigung'
+slug: 'B00WHHADRE-de ADAPTIL Express Tabletten 10 Stück Ergänzungsfuttermittel...'
+tags: 
 actualPrice: 8.72 EUR
 currency: EUR
 price: 8.72

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51M7IL8DR9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WRRDS73-de Cooler Master MasterLiquid Lite 120-CPU-Wasserkühler - Dual-Dissipationspumpe und 120-mm-Luftausgleichslüfter'
+slug: 'B06WRRDS73-de Cooler Master MasterLiquid Lite 120-CPU-Wasserkühler -...'
+tags: 
 actualPrice: 34.25 EUR
 currency: EUR
 price: 34.25

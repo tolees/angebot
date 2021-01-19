@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qsOg25D-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GWS281L-de Suunto 9 Unisex Multisport-GPS-Uhr  Über 25h Batterielaufzeit  Wasserdicht bis 100m  Herzfrequenzmessung  Farbdisplay  Mineralkristallglas  Schwarz  SS050142000'
+slug: 'B07GWS281L-de Suunto 9 Unisex Multisport-GPS-Uhr Über 25h...'
+tags: 
 actualPrice: 236.99 EUR
 currency: EUR
 price: 236.99

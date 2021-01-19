@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YfYJbZiSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075JCXS1K-de Unuber Badewanne Caddy & Laptop Bett Schreibtisch - 2 in 1 innovatives Design verwandelt unsere 100% extra große Bambus Badewanne Tablett zu Bett Tablett - für das ultimative Verwöhnerlebnis'
+slug: 'B075JCXS1K-de Unuber Badewanne Caddy & Laptop Bett Schreibtisch - 2 in 1...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41J+FlnEOnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDZG1QV-de iRobot Roomba i7  i7156  Saugroboter  3-stufiges Reinigungssystem  intelligente Raumerfassung  Zeitplanreinigung  2 Multibodenbürsten  WLAN App Staubsauger Roboter  für Tierhaare  Waschbarer Behälter'
+slug: 'B07PDZG1QV-de iRobot Roomba i7 i7156 Saugroboter 3-stufiges...'
+tags: 
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

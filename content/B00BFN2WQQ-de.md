@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51eJFScumcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BFN2WQQ-de Casio Edifice Herren Massives Edelstahlgehäuse und Lederarmband Uhrenarmband EFR-526L-1AVUEF'
+slug: 'B00BFN2WQQ-de Casio Edifice Herren Massives Edelstahlgehäuse und...'
+tags: 
 actualPrice: 70.71 EUR
 currency: EUR
 price: 70.71

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Mnag8ly-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GJ9CBKF-de riverso Herren Kapuzenpullover Kapuzensweater Hoodie Pullover Karl Einfarbig mit Kängurutasche Kapuze mit Tunnelzug Anthrazit Grau Blau S M L XL XXL  Größe:L  Farbe:Grey Melange Standart 1'
+slug: 'B07GJ9CBKF-de riverso Herren Kapuzenpullover Kapuzensweater Hoodie...'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

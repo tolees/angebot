@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zfTHBFv9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08G891KZK-de Bluetooth Kopfhörer In-Ear Kabellose Kopfhörer Bluetooth Headset Sport-3D-Stereo-Kopfhörer mit 24H Ladekästchen und Integriertem Mikrofon Auto-Pairing für Samsung/Huawei/iPhone/Airpod/Android'
+slug: 'B08G891KZK-de Bluetooth Kopfhörer In-Ear Kabellose Kopfhörer Bluetooth...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

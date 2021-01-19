@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nDlGowAbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QR152GD-de ASICS Damen Gel-Pulse 11 G-TX Laufschuhe  Blau  Mako Blue/Sun Coral 400   37 EU'
+slug: 'B07QR152GD-de ASICS Damen Gel-Pulse 11 G-TX Laufschuhe Blau Mako...'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

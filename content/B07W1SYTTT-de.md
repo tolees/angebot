@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DZhWm7+yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W1SYTTT-de SanDisk Ultra 3D SSD interne Festplatte 4 TB  2 5 Zoll  stoßfest  3D NAND-Technologie  n-Cache 2.0-Technologie  560 MB/s Übertragungsraten  Schwarz'
+slug: 'B07W1SYTTT-de SanDisk Ultra 3D SSD interne Festplatte 4 TB 2 5 Zoll...'
+tags: 
 actualPrice: 389.55 EUR
 currency: EUR
 price: 389.55

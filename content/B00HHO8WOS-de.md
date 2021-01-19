@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PZ9-4EkzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HHO8WOS-de Flashpoint - Das Spezialkommando: Die komplette Serie [24 DVDs]'
+slug: 'B00HHO8WOS-de Flashpoint - Das Spezialkommando: Die komplette Serie [24...'
+tags: 
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

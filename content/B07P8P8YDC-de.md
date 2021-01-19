@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51r0kYsdObL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P8P8YDC-de Playmobil 70209 Dollhouse Jugendzimmer  ab 4 Jahren  bunt  one Size'
+slug: 'B07P8P8YDC-de Playmobil 70209 Dollhouse Jugendzimmer ab 4 Jahren bunt...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

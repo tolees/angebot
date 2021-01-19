@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31OLWTt1jbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0050B2JJO-de Aigle Damen Aiglentine Langschaft Gummistiefel   Schwarz  noir 9   39 EU'
+slug: 'B0050B2JJO-de Aigle Damen Aiglentine Langschaft Gummistiefel Schwarz...'
+tags: 
 actualPrice: 69.1 EUR
 currency: EUR
 price: 69.1

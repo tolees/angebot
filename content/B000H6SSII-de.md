@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VtoEEWU7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000H6SSII-de JBL 61672 Solar-Leuchtstoffröhre Tageslichtröhre für Süßwasseraquarien  39 W Solar Natur Ultra T5'
+slug: 'B000H6SSII-de JBL 61672 Solar-Leuchtstoffröhre Tageslichtröhre für...'
+tags: 
 actualPrice: 17.37 EUR
 currency: EUR
 price: 17.37

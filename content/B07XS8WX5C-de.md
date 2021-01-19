@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51v4b14XUqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XS8WX5C-de Apple Watch Series 5  GPS + Cellular  40 mm  Edelstahlgehäuse Gold - Milanaise Armband Gold'
+slug: 'B07XS8WX5C-de Apple Watch Series 5 GPS + Cellular 40 mm Edelstahlgehäuse...'
+tags: 
 actualPrice: 667.01 EUR
 currency: EUR
 price: 667.01

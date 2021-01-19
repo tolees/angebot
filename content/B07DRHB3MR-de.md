@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yJ+ELrPgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DRHB3MR-de Jabra Elite Active 65t True Wireless Bluetooth Sport Kopfhörer  Musik und telefonieren  bis zu 15 Std. Akkulaufzeit mit Ladecase  Sprachsteuerung für Alexa  Siri  Google Assistant  titanium schwarz'
+slug: 'B07DRHB3MR-de Jabra Elite Active 65t True Wireless Bluetooth Sport...'
+tags: 
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

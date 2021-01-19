@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VAOE1mJoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0198QDM9C-de Crucial Ballistix Sport LT BLS16G4D240FSC Desktop Gaming Speicher  2400 MHz  DDR4  DRAM  16GB  CL16  weiß'
+slug: 'B0198QDM9C-de Crucial Ballistix Sport LT BLS16G4D240FSC Desktop Gaming...'
+tags: 
 actualPrice: 52.9 EUR
 currency: EUR
 price: 52.9

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nIqFuRx8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PCQF1QH-de INPHIC Bluetooth Maus  3-Modus Silent wiederaufladbare Maus kabellos  Bluetooth 5.0/3.0+2.4G Wireless   1600 DPI tragbare Bluetooth-Funkmaus für Mac MacBook Laptop Android Tablet PC Computer'
+slug: 'B07PCQF1QH-de INPHIC Bluetooth Maus 3-Modus Silent wiederaufladbare Maus...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/4150n%2B6gnVL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJX1FTB-de Philips Ambilight 55PUS6814/12 139 cm  55 Zoll  Smart TV mit Alexa-Integration  4K UHD  P5 Perfect Picture Engine  HDR 10+  Dolby Vision  Dolby Atmos  HDMI '
+slug: 'B07RJX1FTB-de Philips Ambilight 55PUS6814/12 139 cm 55 Zoll Smart TV mit...'
+tags: 
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

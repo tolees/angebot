@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3191pymxrmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JPB373W-de Microsoft Wireless Mobile Mouse 1850  Maus  rot  kabellos  für Rechts- und Linkshänder geeignet '
+slug: 'B00JPB373W-de Microsoft Wireless Mobile Mouse 1850 Maus rot kabellos für...'
+tags: 
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

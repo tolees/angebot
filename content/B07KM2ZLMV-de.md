@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Yt6p4jxZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KM2ZLMV-de Samsung C32JG51FD 81 28 cm  32 Zoll  Curved Monitor  16:9  1920 x 1080 Pixel  144 Hz  4ms  weiß'
+slug: 'B07KM2ZLMV-de Samsung C32JG51FD 81 28 cm 32 Zoll Curved Monitor 16:9...'
+tags: 
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bqnzZagnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SYJFVL9-de Bluetooth Kopfhörer  Donerton Bluetooth 5.0 In Ear Kopfhörer  IPX7 Wasserdicht Kopfhörer Kabellos Sport  120H Standby-Zeit  1200mAh Ladekoffer  Deep Bass HD-Stereo Mikrofon  LCD Digitalanzeige'
+slug: 'B07SYJFVL9-de Bluetooth Kopfhörer Donerton Bluetooth 5.0 In Ear...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

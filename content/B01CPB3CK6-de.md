@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DHGg1rIwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CPB3CK6-de Tomorrow`s Kitchen  bislang Vacu Vin  46703606 Küchenutensilablage  grau'
+slug: 'B01CPB3CK6-de Tomorrow`s Kitchen bislang Vacu Vin 46703606...'
+tags: 
 actualPrice: 3.59 EUR
 currency: EUR
 price: 3.59

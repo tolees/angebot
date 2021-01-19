@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515B94wWwuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFV4KF9-de Ztotops Tasche Kompatibel für Nintendo Switch Lite  mit Stauraum für 8 Spiele  Aufbewahrungs Tasche/Hülle/Schutzhülle auf die Reise für Nintendo Switch Lite Konsole & Accesoires -Blau'
+slug: 'B07YFV4KF9-de Ztotops Tasche Kompatibel für Nintendo Switch Lite mit...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

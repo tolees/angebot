@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XqZX7C5WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016YQ8G5O-de Garmin fēnix 3 HR Saphir GPS-Multisportuhr  Herzfrequenzmessung am Handgelenk  zahlreiche Sport- und Navigationsfunktionen  010-01338-71'
+slug: 'B016YQ8G5O-de Garmin fēnix 3 HR Saphir GPS-Multisportuhr...'
+tags: 
 actualPrice: 219.9 EUR
 currency: EUR
 price: 219.9

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41IaYK9H7lL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRD42WK-de Samsung LS01R The Serif 108 cm  43 Zoll  QLED Lifestyle Fernseher  Serif Ambient Mode  Ultra HD  HDR  Smart TV  Keramikweiß  [Modelljahr 2019]'
+slug: 'B07PRD42WK-de Samsung LS01R The Serif 108 cm 43 Zoll QLED Lifestyle...'
+tags: 
 actualPrice: 431 EUR
 currency: EUR
 price: 431

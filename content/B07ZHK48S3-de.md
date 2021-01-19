@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319KWRlD+9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZHK48S3-de DJI RoboMaster S1-Bildungsfördernder Roboter  Intelligente Funktionen und spannende Spielmodi bieten immersives Lernen  Bildungsfelder Mathematik  Physik etc'
+slug: 'B07ZHK48S3-de DJI RoboMaster S1-Bildungsfördernder Roboter Intelligente...'
+tags: 
 actualPrice: 342.25 EUR
 currency: EUR
 price: 342.25

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NB946XZ-de A Plague Tale Innocence [Xbox One]'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

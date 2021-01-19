@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lRSBNfqTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VQBEGCU-de Leifheit Standtrockner Classic 250 Flex  individuell einstellbarer Wäschetrockner mit 25m Wäscheleine für 2-3 Waschmaschinenladungen  Wäscheständer für drinnen und draußen  für lange Wäsche'
+slug: 'B00VQBEGCU-de Leifheit Standtrockner Classic 250 Flex individuell...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

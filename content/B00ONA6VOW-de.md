@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Rc8qlIrSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ONA6VOW-de Neff Z11TF36X0 Backofen- und Herdzubehör / Kochfeld / Teleskop-Vollauszug'
+slug: 'B00ONA6VOW-de Neff Z11TF36X0 Backofen- und Herdzubehör / Kochfeld /...'
+tags: 
 actualPrice: 97.0 EUR
 currency: EUR
 price: 97.0

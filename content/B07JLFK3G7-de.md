@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Krj-y1gAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLFK3G7-de Playmobil 70000 Fairies Romantisches Feenboot  bunt'
+slug: 'B07JLFK3G7-de Playmobil 70000 Fairies Romantisches Feenboot bunt'
+tags: 
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

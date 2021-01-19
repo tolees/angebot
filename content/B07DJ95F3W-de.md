@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NmxzLJemL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ95F3W-de Deluxe Whisky Steine Geschenkset - Sei anders bei der Geschenkauswahl - Luxus Handgemachte Holzkiste mit 2 Whiskey Gläsern - 8 Granit Kühlsteine + Samtbeutel - Whisky Stones Gift Set'
+slug: 'B07DJ95F3W-de Deluxe Whisky Steine Geschenkset - Sei anders bei der...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

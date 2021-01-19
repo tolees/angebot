@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LJAXEZJSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPMMZ8C-de Seagate Expansion Desktop  10 TB  externe Festplatte  3.5 Zoll  USB 3.0  PC  Xbox  PS4  ModelNr.: STEB10000400'
+slug: 'B07NPMMZ8C-de Seagate Expansion Desktop 10 TB externe Festplatte 3.5...'
+tags: 
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4148-LA6OUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRD2YH9-de Acer Chromebook 314 Notebook  14 Zoll HD matt  19 7mm flach und ultra leicht  extrem lange Akkulaufzeit  schnelles WLAN  MicroSD Slot  Google Chrome OS  silber'
+slug: 'B07WRD2YH9-de Acer Chromebook 314 Notebook 14 Zoll HD matt 19 7mm flach...'
+tags: 
 actualPrice: 272.48 EUR
 currency: EUR
 price: 272.48

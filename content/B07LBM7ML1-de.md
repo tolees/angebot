@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41akyFIPN3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBM7ML1-de CREATIVE Sound BlasterX H6 USB-Gaming-Headset  virtueller 7.1-Surround-Klang  Hardware-EQ-Modi  Ambient Monitoring - kompatibel mit PS4  Xbox One  Nintendo Switch und PC'
+slug: 'B07LBM7ML1-de CREATIVE Sound BlasterX H6 USB-Gaming-Headset virtueller...'
+tags: 
 actualPrice: 59.39 EUR
 currency: EUR
 price: 59.39

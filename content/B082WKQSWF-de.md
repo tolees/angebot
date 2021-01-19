@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318pmuorAbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082WKQSWF-de TOM TAILOR Herren Poloshirts Basic Poloshirt Sky Captain Blue L'
+slug: 'B082WKQSWF-de TOM TAILOR Herren Poloshirts Basic Poloshirt Sky Captain...'
+tags: 
 actualPrice: 14.35 EUR
 currency: EUR
 price: 14.35

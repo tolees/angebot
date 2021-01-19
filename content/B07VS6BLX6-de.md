@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nFBOMzRrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VS6BLX6-de Tommy Hilfiger Damen Aila Slim Polo Ss Poloshirt  Blau  Desert Sky Dw5   40  Herstellergröße: X-Large '
+slug: 'B07VS6BLX6-de Tommy Hilfiger Damen Aila Slim Polo Ss Poloshirt Blau...'
+tags: 
 actualPrice: 57.34 EUR
 currency: EUR
 price: 57.34

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/618R-+gPGeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KG5FYPP-de Star Wars Geschenke 3D Lampe für Männer - Star Wars Spielzeug Nachtlicht für Kinder 7 Farbwechsel mit Fernbedienung oder Touch  Dekorieren Kinder Bedroom. 2019  4 Packs-Bigger-Heller '
+slug: 'B07KG5FYPP-de Star Wars Geschenke 3D Lampe für Männer - Star Wars...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

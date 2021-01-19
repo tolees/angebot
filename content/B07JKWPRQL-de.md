@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dH3ieFZOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKWPRQL-de Playmobil 70013 Western Westernkutsche  bunt'
+slug: 'B07JKWPRQL-de Playmobil 70013 Western Westernkutsche bunt'
+tags: 
 actualPrice: 17.88 EUR
 currency: EUR
 price: 17.88

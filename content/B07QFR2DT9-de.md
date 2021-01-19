@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ntLOWe64L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QFR2DT9-de Westmark Wasserkaraffe mit Infuser/Fruchteinsatz  Füllvolumen: 1 Liter  Glas  Mit Edelstahldeckel  62952260'
+slug: 'B07QFR2DT9-de Westmark Wasserkaraffe mit Infuser/Fruchteinsatz...'
+tags: 
 actualPrice: 18.66 EUR
 currency: EUR
 price: 18.66

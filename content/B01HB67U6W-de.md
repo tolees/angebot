@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LymxS1zPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HB67U6W-de MEDION P85035 Internetradio mit DAB+  DAB+ Digital-Radioempfang  UKW  Wecker  Sleeptimer  schwarz'
+slug: 'B01HB67U6W-de MEDION P85035 Internetradio mit DAB+ DAB+ Digital-...'
+tags: 
 actualPrice: 95.5 EUR
 currency: EUR
 price: 95.5

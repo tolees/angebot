@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YMR8RKboL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQJ9MYM-de Gabor Shoes Damen Jollys Stiefeletten  Beige  Cognac  Natur  14   41 EU'
+slug: 'B07PQJ9MYM-de Gabor Shoes Damen Jollys Stiefeletten Beige Cognac Natur...'
+tags: 
 actualPrice: 61.91 EUR
 currency: EUR
 price: 61.91

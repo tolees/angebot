@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4170tfuFG-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014VY6V1M-de HP LaserJet Enterprise M506x  F2A70A  Mono Laserdrucker  Drucker  Duplex  LAN  ePrint  AirPrint  Cloud Print  NFC  USB  1200 x 1200 dpi  weiß'
+slug: 'B014VY6V1M-de HP LaserJet Enterprise M506x F2A70A Mono Laserdrucker...'
+tags: 
 actualPrice: 212.0 EUR
 currency: EUR
 price: 212.0

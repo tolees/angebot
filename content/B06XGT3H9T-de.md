@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jbqCg82fL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XGT3H9T-de Funko 14330  ESO  Actionfigur The Elder Scrolls Online Morrowind: Naryu  Multi'
+slug: 'B06XGT3H9T-de Funko 14330 ESO Actionfigur The Elder Scrolls Online...'
+tags: 
 actualPrice: 6.15 EUR
 currency: EUR
 price: 6.15

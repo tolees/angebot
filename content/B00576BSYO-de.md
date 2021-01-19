@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51B0I7I-p7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00576BSYO-de Wenko Herdabdeckplatte Universal Brooklyn Bridge  2er Set Herdabdeckung für alle Herdarten  Gehärtetes Glas  30 x 52 cm  mehrfarbig'
+slug: 'B00576BSYO-de Wenko Herdabdeckplatte Universal Brooklyn Bridge 2er Set...'
+tags: 
 actualPrice: 16.36 EUR
 currency: EUR
 price: 16.36

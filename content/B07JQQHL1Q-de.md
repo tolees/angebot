@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NKzqavQrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQQHL1Q-de iiniim Damen Festlich Kleid Königin Prinzessin Kleid Langes Abendkleid Cosplay Fasching Karneval Verkleidung Party Kleid S-XXL Blau M'
+slug: 'B07JQQHL1Q-de iiniim Damen Festlich Kleid Königin Prinzessin Kleid...'
+tags: 
 actualPrice: 23.39 EUR
 currency: EUR
 price: 23.39

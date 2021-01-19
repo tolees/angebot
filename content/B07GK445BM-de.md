@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SAIerSG0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GK445BM-de Krups KB181D Freshboost Vakuum to go Standmixer  800  Edelstahl  grau/schwarz'
+slug: 'B07GK445BM-de Krups KB181D Freshboost Vakuum to go Standmixer 800...'
+tags: 
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

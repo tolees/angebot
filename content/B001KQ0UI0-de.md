@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HAHMnjDhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001KQ0UI0-de Fisher-Price P4326 Meine erste Toilette Töpfchen und Toilettensitz mit Musik und Soundeffekten Toilettentrainer für Kleinkinder'
+slug: 'B001KQ0UI0-de Fisher-Price P4326 Meine erste Toilette Töpfchen und...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

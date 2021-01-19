@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41URE6usE1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00S2AYQLO-de Nike Pro Patella Band 2.0 Patellaband  Schwarz  L-XL'
+slug: 'B00S2AYQLO-de Nike Pro Patella Band 2.0 Patellaband Schwarz L-XL'
+tags: 
 actualPrice: 11.14 EUR
 currency: EUR
 price: 11.14

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BMNtdMUlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PVDDEPE-de D-Link DSP-W115 mydlink WLAN Smart Steckdose-/ plug  Überwachung von Elektrogeräten via App Steuerung  funktioniert mit Google Assistant/Google Home und Amazon Alexa '
+slug: 'B00PVDDEPE-de D-Link DSP-W115 mydlink WLAN Smart Steckdose-/ plug...'
+tags: 
 actualPrice: 26.84 EUR
 currency: EUR
 price: 26.84

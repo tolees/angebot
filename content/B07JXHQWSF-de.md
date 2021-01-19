@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61-sHFV+zML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JXHQWSF-de Playmobil 70007 Top Agents Team S.H.A.R.K. Rocket Rafter  bunt'
+slug: 'B07JXHQWSF-de Playmobil 70007 Top Agents Team S.H.A.R.K. Rocket Rafter bunt'
+tags: 
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

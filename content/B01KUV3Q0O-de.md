@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Tku5QcoAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KUV3Q0O-de Anker PowerPort Speed 5  63W 5 Port USB Ladegerät  Netzteile mit Quick Charge 3.0 & Power IQ für Samsung Galaxy S8 / S7 / S6 / Edge / Plus / Note  iPhone  iPad  LG  Nexus  HTC usw.'
+slug: 'B01KUV3Q0O-de Anker PowerPort Speed 5 63W 5 Port USB Ladegerät Netzteile...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

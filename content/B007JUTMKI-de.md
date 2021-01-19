@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NWpgPEYjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007JUTMKI-de Erima Damen Casual Basics Sweathose mit Bündchen  schwarz  40'
+slug: 'B007JUTMKI-de Erima Damen Casual Basics Sweathose mit Bündchen schwarz 40'
+tags: 
 actualPrice: 23.72 EUR
 currency: EUR
 price: 23.72

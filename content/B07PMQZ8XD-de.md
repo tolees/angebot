@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vtn2IvqkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PMQZ8XD-de SAWAKE Handventilator mini Ventilator mit Handyhalter  elektrisch Handlüfter für Reisen  Büro  Zuhause  Draußen  Innen  140g  Bambus-Stäbe Design  USB aufladbar  verstellbar  2600mAh Batterie '
+slug: 'B07PMQZ8XD-de SAWAKE Handventilator mini Ventilator mit Handyhalter...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

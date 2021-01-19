@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413WykuzvFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z3XBP7N-de ESOLOM Bluetooth Adapter Audio 5.0 Bluetooth Transmitter Empfänger 2 in 1 LED Sender Receiver Anzeige aptX LL HD 600MAh für PC Kopfhörer TV Laptop Stereoanlage Lautsprecher TOSLINK/RCA/3 5 mm AUX'
+slug: 'B07Z3XBP7N-de ESOLOM Bluetooth Adapter Audio 5.0 Bluetooth Transmitter...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

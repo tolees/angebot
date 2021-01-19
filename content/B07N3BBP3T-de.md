@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418trSvyi6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3BBP3T-de ECCO Jungen URBAN Hiker Klassische Stiefel  Grau  Black/Titanium 52570   31 EU'
+slug: 'B07N3BBP3T-de ECCO Jungen URBAN Hiker Klassische Stiefel Grau...'
+tags: 
 actualPrice: 60.95 EUR
 currency: EUR
 price: 60.95

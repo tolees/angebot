@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413W2Ax2N7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RDC11BR-de PUMA Herren Boxershort Limited Statement Edition 9er Pack - Black - Gr. XL'
+slug: 'B07RDC11BR-de PUMA Herren Boxershort Limited Statement Edition 9er Pack...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

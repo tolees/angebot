@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X52vBlBEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H96DZVB-de LincPlus P1 Laptop 13 3 Zoll Full HD Ultrabook  Intel Celeron N4000 4GB RAM 64GB eMMC aufrüstbar mit bis zu 512GB SSD lüfterlos kompakter Aluminium Notebook mit QWERTZ Tastaturlayout  Windows 10 S'
+slug: 'B07H96DZVB-de LincPlus P1 Laptop 13 3 Zoll Full HD Ultrabook Intel...'
+tags: 
 actualPrice: 279.0 EUR
 currency: EUR
 price: 279.0

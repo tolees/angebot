@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31voM6xP-PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074X1KZLF-de Sony GTKXB60B.CEL GTK-XB60 Bluetooth Party Lautsprecher  Extra Bass  NFC  Lichteffekte  14 Stunden Akku  kompatibel mit Party Chain  schwarz'
+slug: 'B074X1KZLF-de Sony GTKXB60B.CEL GTK-XB60 Bluetooth Party Lautsprecher...'
+tags: 
 actualPrice: 213.97 EUR
 currency: EUR
 price: 213.97

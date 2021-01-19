@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61nQGnkJtsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0779V1VHR-de Paco Home In- & Outdoor Teppich Vintage Design Rautenmuster Flachgewebt In Grau  Grösse:120x170 cm'
+slug: 'B0779V1VHR-de Paco Home In- & Outdoor Teppich Vintage Design...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

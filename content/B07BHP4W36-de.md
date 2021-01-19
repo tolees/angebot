@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51N8bLYgAJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHP4W36-de Soundcore Flare Tragbarer & Kompakter Bluetooth Lautsprecher von Anker  360° Rundum-Sound  Fantastischer Bass & Stimmungs-LED-Licht  IPX7 wasserdichte  12 St. Spielzeit für Feiern & Partys  Schwarz '
+slug: 'B07BHP4W36-de Soundcore Flare Tragbarer & Kompakter Bluetooth...'
+tags: 
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

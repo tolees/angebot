@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kMiwyaSuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076JKSGMT-de Talisker Single Malt Whisky 10 Jahre  Geschenkpackung mit 2 Gläsern  1 x 0.7 l '
+slug: 'B076JKSGMT-de Talisker Single Malt Whisky 10 Jahre Geschenkpackung mit 2...'
+tags: 
 actualPrice: 28.31 EUR
 currency: EUR
 price: 28.31

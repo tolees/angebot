@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gsExCuooL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BCQIIMS-de Philips DryCare Advanced Haartrockner mit ThermoProtect Technologie HP8230/00  2100 W  DC-Motor und 1 Aufsatz  Schwarz'
+slug: 'B00BCQIIMS-de Philips DryCare Advanced Haartrockner mit ThermoProtect...'
+tags: 
 actualPrice: 14.36 EUR
 currency: EUR
 price: 14.36

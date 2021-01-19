@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416JMvQrkzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D1WMB7I-de Acer Chromebook 14 Notebook  14 Zoll Full-HD IPS matt  Aluminium A-Cover  17mm flach  extrem lange Akkulaufzeit  schnelles WLAN  HDMI  Google Chrome OS  Silber'
+slug: 'B01D1WMB7I-de Acer Chromebook 14 Notebook 14 Zoll Full-HD IPS matt...'
+tags: 
 actualPrice: 294.39 EUR
 currency: EUR
 price: 294.39

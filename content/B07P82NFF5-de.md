@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-jWWuqrfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P82NFF5-de Funko 42192 POP Vinyl: Harry Potter S7-Professor Sybill Trelawney Sammelbares Spielzeug  Mehrfarben  Standard'
+slug: 'B07P82NFF5-de Funko 42192 POP Vinyl: Harry Potter S7-Professor Sybill...'
+tags: 
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

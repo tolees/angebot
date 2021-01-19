@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/613OuQ18-LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079N2S8PN-de PLAYMOBIL 9461 - DreamWorks Dragons  Grobian mit Schafschleuder  Ab 4 Jahren'
+slug: 'B079N2S8PN-de PLAYMOBIL 9461 - DreamWorks Dragons Grobian mit...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

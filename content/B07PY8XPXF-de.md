@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51A-kc9gszL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PY8XPXF-de HITACHI F43E4000 109 cm  43 Zoll  Fernseher  Full HD  Smart TV  Prime Video  Works with Alexa  Bluetooth  Triple-Tuner  PVR '
+slug: 'B07PY8XPXF-de HITACHI F43E4000 109 cm 43 Zoll Fernseher Full HD Smart TV...'
+tags: 
 actualPrice: 309.99 EUR
 currency: EUR
 price: 309.99

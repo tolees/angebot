@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YRxEMPotL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085P2BXPQ-de LG UltraHD 4K LED HDR 3940 x 2160  Radeon FreeSync  HDMI  Display Port 4K HDR 10  32"  Weiß'
+slug: 'B085P2BXPQ-de LG UltraHD 4K LED HDR 3940 x 2160 Radeon FreeSync HDMI...'
+tags: 
 actualPrice: 349.9 EUR
 currency: EUR
 price: 349.9

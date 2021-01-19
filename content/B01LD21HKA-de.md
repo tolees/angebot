@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41l0nUAi8xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LD21HKA-de LG Electronics VRD 710 RRC Carpet Care Roboter-Staubsauger  Raumerkennung durch Dual-Kamera System  4 Reinigungsmodi  inkl. Teppichbürste  ruby rot'
+slug: 'B01LD21HKA-de LG Electronics VRD 710 RRC Carpet Care Roboter-Staubsauger...'
+tags: 
 actualPrice: 139.1 EUR
 currency: EUR
 price: 139.1

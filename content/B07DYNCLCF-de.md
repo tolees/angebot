@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iH3NgCA8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYNCLCF-de Merrell Herren Vapor Glove 4 Hallenschuhe  Schwarz  Black Black   45 EU'
+slug: 'B07DYNCLCF-de Merrell Herren Vapor Glove 4 Hallenschuhe Schwarz Black...'
+tags: 
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

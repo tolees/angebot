@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41WScvs%2B7QL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STDTG5G-de Oral-B PRO 1 200 Elektrische Zahnbürste  für eine sanfte Reinigung bei empfindlichem Zahnfleisch  weiß  1 Stück'
+slug: 'B07STDTG5G-de Oral-B PRO 1 200 Elektrische Zahnbürste für eine sanfte...'
+tags: 
 actualPrice: 30.23 EUR
 currency: EUR
 price: 30.23

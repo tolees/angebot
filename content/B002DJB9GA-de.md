@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002DJB9GA-de BEABA 912111 - Wippe Transat Up & Down noir gris'
+tags: 
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

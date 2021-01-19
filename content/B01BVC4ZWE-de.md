@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41JPk%2Bw9YDL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BVC4ZWE-de Christopeit Türreck Klimmzugstange  1688'
+slug: 'B01BVC4ZWE-de Christopeit Türreck Klimmzugstange 1688'
+tags: 
 actualPrice: 17 EUR
 currency: EUR
 price: 17

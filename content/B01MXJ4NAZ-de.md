@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416ADkdFo0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXJ4NAZ-de Skechers Girls  Go Walk 4-Kindle Low-Top Sneakers  Black  Black BBK   13 UK Child 32 EU'
+slug: 'B01MXJ4NAZ-de Skechers Girls Go Walk 4-Kindle Low-Top Sneakers Black...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

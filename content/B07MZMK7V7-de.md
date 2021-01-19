@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31W7fcTumYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZMK7V7-de Vans Damen Filmore Decon Sneaker  Pink   Suede  Lilac Snow/True White Xof   40.5 EU'
+slug: 'B07MZMK7V7-de Vans Damen Filmore Decon Sneaker Pink Suede Lilac...'
+tags: 
 actualPrice: 27.19 EUR
 currency: EUR
 price: 27.19

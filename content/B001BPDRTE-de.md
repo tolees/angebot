@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VgMlIsoZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001BPDRTE-de ABUS Zubehör Steel-O-Chain 880/85  Black  7 mm/85 cm  43306'
+slug: 'B001BPDRTE-de ABUS Zubehör Steel-O-Chain 880/85 Black 7 mm/85 cm 43306'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

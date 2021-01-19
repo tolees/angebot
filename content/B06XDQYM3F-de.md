@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I0mfj8LjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDQYM3F-de DESIRES Tilda Damen Weste Outdoor-Weste Mit Kapuze Und Stehkragen  Größe:XS  Farbe:Cinnamon  5056 '
+slug: 'B06XDQYM3F-de DESIRES Tilda Damen Weste Outdoor-Weste Mit Kapuze Und...'
+tags: 
 actualPrice: 43.95 EUR
 currency: EUR
 price: 43.95

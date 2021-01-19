@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DCg3YcqDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B365TZL-de DCU: Suicide Squad - Hell to Pay  exklusiv bei Amazon.de  [Blu-ray]'
+slug: 'B07B365TZL-de DCU: Suicide Squad - Hell to Pay exklusiv bei Amazon.de...'
+tags: 
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zeIH9X4lL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VRANHW-de Hama Fotoalbum  28 x 24 cm  50 schwarze Seiten  25 Blatt  mit Ausschnitt für Bildeinschub  Fotobuch schwarz'
+slug: 'B000VRANHW-de Hama Fotoalbum 28 x 24 cm 50 schwarze Seiten 25 Blatt mit...'
+tags: 
 actualPrice: 7.23 EUR
 currency: EUR
 price: 7.23

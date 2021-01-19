@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61TwfE32KaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLRX84L-de Playmobil 70004 Top Agents Spy Team Underwater Wing  bunt'
+slug: 'B07JLRX84L-de Playmobil 70004 Top Agents Spy Team Underwater Wing bunt'
+tags: 
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

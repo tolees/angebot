@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31QkEtvrbZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WJH79WM-de TP-Link KL50 Kasa Smart WLAN Filament Glühbirne  Lampe mit E27 Sockel  warmweiß  dimmbar  7W  kompatibel mit Amazon Alexa  Google Home  IFTTT  kein Hub notwendig  Schnellinstallation Kasa-App'
+slug: 'B07WJH79WM-de TP-Link KL50 Kasa Smart WLAN Filament Glühbirne Lampe mit...'
+tags: 
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

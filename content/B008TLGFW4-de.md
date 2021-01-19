@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Qp95VEhYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008TLGFW4-de Emsa 513357 Travel Mug Thermo-/Isolierbecher  Fassungsvermögen: 360 ml  hält 4h heiß/ 8h kalt  100% dicht  auslaufsicher  Easy Quick-Press-Verschluss  360°-Trinköffnung  blau'
+slug: 'B008TLGFW4-de Emsa 513357 Travel Mug Thermo-/Isolierbecher...'
+tags: 
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

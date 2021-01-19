@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31t5uhnTqlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZKD7WG2-de Villeroy & Boch Toy s Delight Dip-Set  4-teillig  Premium Porzellan  Weiß/Rot'
+slug: 'B00ZKD7WG2-de Villeroy & Boch Toy s Delight Dip-Set 4-teillig Premium...'
+tags: 
 actualPrice: 35.2 EUR
 currency: EUR
 price: 35.2

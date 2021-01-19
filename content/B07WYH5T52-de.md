@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WYH5T52-de WarGroove: Deluxe Edition - [Nintendo Switch]'
+tags: 
 actualPrice: 19.77 EUR
 currency: EUR
 price: 19.77

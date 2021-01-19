@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314zZM7dANL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X3ZWVZ7-de De’Longhi  Dedica EC 685.W Espresso Siebträgermaschine | 15 bar | Professionelle Milchschaum Düse| Füllmenge 1 l | Vollmetallgehäuse | Auch für Pads geeignet | Weiß'
+slug: 'B06X3ZWVZ7-de De’Longhi Dedica EC 685.W Espresso Siebträgermaschine | 15...'
+tags: 
 actualPrice: 129.9 EUR
 currency: EUR
 price: 129.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+40qRu8rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KLLX7MA-de Citizen Herren Chronograph Quartz Uhr mit Leder Armband AT8126-02E'
+slug: 'B01KLLX7MA-de Citizen Herren Chronograph Quartz Uhr mit Leder Armband...'
+tags: 
 actualPrice: 259.3 EUR
 currency: EUR
 price: 259.3

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61aNByUHMZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075TQTVGP-de Songs in the Key of Rock  3cd Remastered Edition '
+slug: 'B075TQTVGP-de Songs in the Key of Rock 3cd Remastered Edition'
+tags: 
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

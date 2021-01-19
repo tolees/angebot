@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31De61HaD7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NR2KVKF-de Dickie Toys 201119141 RC Nitro League  RTR 201119141-RC  Ferngesteuertes Fahrzeug mit Turbofunktion  1:10  46 cm  15 km/h  gelb/orange/rot'
+slug: 'B07NR2KVKF-de Dickie Toys 201119141 RC Nitro League RTR 201119141-RC...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

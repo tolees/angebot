@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qgwxjbngL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07THKLPC4-de Music Maker – 2020 Performer Edition – Music Maker Premium 2020 Edition + USB-Pad-Controller.|Performer|Mehrere|Limitless|PC|Disc|Disc'
+slug: 'B07THKLPC4-de Music Maker – 2020 Performer Edition – Music Maker Premium...'
+tags: 
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

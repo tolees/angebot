@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31T-9r17UhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0868WNHR5-de Lenovo Chromebook S340T Laptop 35 6 cm  14 Zoll  1920x1080  Full HD  IPS  Touch  Slim Notebook  Intel Celeron N4000  4GB RAM  64GB eMMC  Intel UHD-Grafik 600  ChromeOS  schwarz'
+slug: 'B0868WNHR5-de Lenovo Chromebook S340T Laptop 35 6 cm 14 Zoll 1920x1080...'
+tags: 
 actualPrice: 242.72 EUR
 currency: EUR
 price: 242.72

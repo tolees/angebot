@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NolbbQaNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WLBQWPZ-de Third Degree  CD Digipak '
+slug: 'B07WLBQWPZ-de Third Degree CD Digipak'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

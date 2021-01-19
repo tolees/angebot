@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417OmhkE5lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C01YILO-de alfi 5337.641.050 Isolier-Trinkflasche isoBottle II  Edelstahl Pferde Rosa 0 5 Liter  12 Stunden heiß  24 Stunden kalt  BPA-Free'
+slug: 'B00C01YILO-de alfi 5337.641.050 Isolier-Trinkflasche isoBottle II...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

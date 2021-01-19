@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DBsq0mNxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFMKBYG-de Seiko Herren Analog Automatik Uhr mit Edelstahl Armband SRPC57K1'
+slug: 'B07DFMKBYG-de Seiko Herren Analog Automatik Uhr mit Edelstahl Armband...'
+tags: 
 actualPrice: 206.74 EUR
 currency: EUR
 price: 206.74

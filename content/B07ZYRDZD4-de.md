@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ig0z3QnEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZYRDZD4-de FATO. Frühling Gartenpuppenstuben Spielset Werkzeuge mit Accessoriess Für Sylvanian Families Puppen'
+slug: 'B07ZYRDZD4-de FATO. Frühling Gartenpuppenstuben Spielset Werkzeuge mit...'
+tags: 
 actualPrice: 15.12 EUR
 currency: EUR
 price: 15.12

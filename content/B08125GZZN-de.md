@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31A5ydPJwBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08125GZZN-de Echo Flex + Philips Hue Color LED-Lampe Doppelpack  E27   kompatibel mit Bluetooth und Zigbee  kein Hub erforderlich '
+slug: 'B08125GZZN-de Echo Flex + Philips Hue Color LED-Lampe Doppelpack E27...'
+tags: 
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

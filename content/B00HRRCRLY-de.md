@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRRCRLY-de Sylvanian Families - 5027 - Waschmaschinen-Set'
+tags: 
 actualPrice: 7.36 EUR
 currency: EUR
 price: 7.36

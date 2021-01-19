@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412KfIVyppL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8G1ZNZ-de Kara Harvey Damen-Armbanduhr Roségold Mesh in 36mm und 32mm Diverse Zifferblätter Analog Quarz Edelstahl  36 Millimeter  Roségold Perlmutt '
+slug: 'B07L8G1ZNZ-de Kara Harvey Damen-Armbanduhr Roségold Mesh in 36mm und...'
+tags: 
 actualPrice: 89.4 EUR
 currency: EUR
 price: 89.4

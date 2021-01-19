@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5137549ZypL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LWZ3LE2-de Die Edelsteintrilogie  Rubinrot  Saphirblau  Smaragdgrün  [4 DVDs]'
+slug: 'B01LWZ3LE2-de Die Edelsteintrilogie Rubinrot Saphirblau Smaragdgrün [4...'
+tags: 
 actualPrice: 17.12 EUR
 currency: EUR
 price: 17.12

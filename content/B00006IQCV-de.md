@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SrPDA1pyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00006IQCV-de BIC 811935 Marker mit abgeschrägter Spitze  gelb  abgeschrägte Spitze  gelb  grau  rund  12 Stück'
+slug: 'B00006IQCV-de BIC 811935 Marker mit abgeschrägter Spitze gelb...'
+tags: 
 actualPrice: 5.28 EUR
 currency: EUR
 price: 5.28

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51g6K3kNr7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PS9GIZE-de Ecomed HP-40E Heizkissen  Super-Flausch  Wärmekissen mit 3 Temperaturstufen  Überhitzungsschutz  Abschaltautomatik  waschbar  für Rücken  Nacken  Schulter  2.Generation'
+slug: 'B00PS9GIZE-de Ecomed HP-40E Heizkissen Super-Flausch Wärmekissen mit 3...'
+tags: 
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

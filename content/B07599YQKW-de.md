@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y+ZhuB4TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07599YQKW-de Funko 24704 POP Vinylfigur: James Bond: Sean Connery  Multi'
+slug: 'B07599YQKW-de Funko 24704 POP Vinylfigur: James Bond: Sean Connery Multi'
+tags: 
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

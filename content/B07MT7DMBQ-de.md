@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41echcBYXDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MT7DMBQ-de Digital Wecker mit Hölzerner Elektronischer LED-Zeitanzeige  Doppelte Temperatur- und Feuchtigkeitserkennung  Ideal für Schlafzimmer  Nacht Kinder'
+slug: 'B07MT7DMBQ-de Digital Wecker mit Hölzerner Elektronischer LED-...'
+tags: 
 actualPrice: 26.88 EUR
 currency: EUR
 price: 26.88

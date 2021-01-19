@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417mPSvqh-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPT76JZ-de Funko 37743 POP Vinyl: Alien 40th: Xenomorph Sammelbares Spielzeug  Mehrfarben  Einheitsgröße'
+slug: 'B07KPT76JZ-de Funko 37743 POP Vinyl: Alien 40th: Xenomorph Sammelbares...'
+tags: 
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

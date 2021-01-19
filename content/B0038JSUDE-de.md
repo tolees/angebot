@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51graeLMUlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0038JSUDE-de Playtastic Geduldspiele mit Kugeln: Geduldspiel-Megapack mit 24 Spielen  Geduldsspiel Kugel '
+slug: 'B0038JSUDE-de Playtastic Geduldspiele mit Kugeln: Geduldspiel-Megapack...'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

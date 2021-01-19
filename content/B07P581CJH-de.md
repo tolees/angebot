@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61evwauireL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P581CJH-de Playmobil 70194 City Life Oma mit Rollator  ab 4 Jahren  bunt  one Size'
+slug: 'B07P581CJH-de Playmobil 70194 City Life Oma mit Rollator ab 4 Jahren...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

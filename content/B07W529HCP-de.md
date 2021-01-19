@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51a2HvMExVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W529HCP-de Explosion Box  Geschenkbox  Sporgo Kreative Überraschung Box DIY Fotoalbum Handgemachtes Scrapbook Geschenk für Geburtstag  Weihnachten  Jahrestag  Valentinstag  Heiratsantrag  Hochzeit  Muttertag'
+slug: 'B07W529HCP-de Explosion Box Geschenkbox Sporgo Kreative Überraschung Box...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

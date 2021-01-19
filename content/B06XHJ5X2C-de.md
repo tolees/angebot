@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412H8z2UULL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHJ5X2C-de KINLO Aufkleber Küchenschränke Weiß 2 Stk. 61x500cm aus PVC Tapeten Küche Klebefolie Möbel wasserfest Aufkleber für Schrank selbstklebende Folie Küchenschrank Küchenfolie Dekofolie MIT GLITZER'
+slug: 'B06XHJ5X2C-de KINLO Aufkleber Küchenschränke Weiß 2 Stk. 61x500cm aus...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

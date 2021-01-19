@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CY-kiqTjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H1L3GMP-de Acer Chromebook Spin 13  13 3 Zoll QHD IPS Multi-Touch  360° Convertible  Aluminium Unibody  17mm flach  extrem lange Akkulaufzeit  schnelles WLAN  beleuchtete Tastatur  Google Chrome OS  Anthrazit'
+slug: 'B07H1L3GMP-de Acer Chromebook Spin 13 13 3 Zoll QHD IPS Multi-Touch 360°...'
+tags: 
 actualPrice: 450.0 EUR
 currency: EUR
 price: 450.0

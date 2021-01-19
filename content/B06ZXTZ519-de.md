@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f9bZ1jwYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZXTZ519-de Hama Outdoor Steckdosenleiste mit Schalter  2-fach  2m  spritzwassergeschützt nach IP44  mit Klappdeckel  zur Wandmontage geeignet  Außenbereich Mehrfachsteckdose schwarz'
+slug: 'B06ZXTZ519-de Hama Outdoor Steckdosenleiste mit Schalter 2-fach 2m...'
+tags: 
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

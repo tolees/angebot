@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61vx8aprxyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYRIWYZ-de PLAYMOBIL Ghostbusters 9221 Stay Puft Marshmallow Man  Ab 6 Jahren'
+slug: 'B01LYRIWYZ-de PLAYMOBIL Ghostbusters 9221 Stay Puft Marshmallow Man Ab 6...'
+tags: 
 actualPrice: 9.47 EUR
 currency: EUR
 price: 9.47

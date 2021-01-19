@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416gunHmgsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NR1NBJZ-de Eichhorn 109475850 - Schienenbahn Set Porsche Racing  31-tlg.  inkl. Zubehör  Streckenlänge: 350cm  FSC 100% Zertifiziertes Buchenholz'
+slug: 'B07NR1NBJZ-de Eichhorn 109475850 - Schienenbahn Set Porsche Racing...'
+tags: 
 actualPrice: 41.46 EUR
 currency: EUR
 price: 41.46

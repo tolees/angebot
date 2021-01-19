@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XhN32j7DL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GED89VI-de Kölln Müsli Schoko "30 % weniger Zucker"  1er Pack  1 x 2 kg '
+slug: 'B01GED89VI-de Kölln Müsli Schoko "30 % weniger Zucker" 1er Pack 1 x 2 kg'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

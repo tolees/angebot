@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pHuqhZlHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HQIFKWW-de Sony Mobile SWR10 SmartBand Aktivitätstracker Schlaftracker Fitness Tracker - Schwarz'
+slug: 'B00HQIFKWW-de Sony Mobile SWR10 SmartBand Aktivitätstracker...'
+tags: 
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

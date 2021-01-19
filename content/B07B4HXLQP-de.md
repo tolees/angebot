@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I4qJhIo9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4HXLQP-de Navitech Rot hartes Wasser-beständiges Mini Desktop PC / Mini PC Tasche / Hülle kompatibel mit dem Intel NUC mini PC'
+slug: 'B07B4HXLQP-de Navitech Rot hartes Wasser-beständiges Mini Desktop PC /...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

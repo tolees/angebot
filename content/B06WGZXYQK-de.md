@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HLoqRvq7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WGZXYQK-de PLAYMOBIL Family Fun 9281 Auto mit Dachbox  Ab 4 Jahren'
+slug: 'B06WGZXYQK-de PLAYMOBIL Family Fun 9281 Auto mit Dachbox Ab 4 Jahren'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

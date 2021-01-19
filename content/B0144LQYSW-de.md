@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h6i1ZQyNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0144LQYSW-de Somat Klarspüler  1er Pack  1 x 750 ml '
+slug: 'B0144LQYSW-de Somat Klarspüler 1er Pack 1 x 750 ml'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

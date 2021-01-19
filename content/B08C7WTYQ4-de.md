@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Co9dwlnxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C7WTYQ4-de GLÜCKSWOLKE - Spardose I Motiv Lebensbaum I Geschenk für Taufe  Kommunion  Konfirmation  Jugendweihe  Abitur I Taufgeschenke Mädchen Jungen I 3D Bilderrahmen Sparbüchse I Sparschwein Geldgeschenke'
+slug: 'B08C7WTYQ4-de GLÜCKSWOLKE - Spardose I Motiv Lebensbaum I Geschenk für...'
+tags: 
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417JVjiScML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5CFDY6-de Mitef Anime Cosplay Kostüm Prinzessin Anna mit Schal für Erwachsene - Mehrfarbig - Mittel'
+slug: 'B07P5CFDY6-de Mitef Anime Cosplay Kostüm Prinzessin Anna mit Schal für...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61QmTABBcfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X91PXWK-de Hasbro Star Wars C1252EU4 - Episode 8 Forcelink Tie Silencer mit 3.75 Zoll Kylo Ren Figur  Actionfigur'
+slug: 'B06X91PXWK-de Hasbro Star Wars C1252EU4 - Episode 8 Forcelink Tie...'
+tags: 
 actualPrice: 49.43 EUR
 currency: EUR
 price: 49.43

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HxHO2w60L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0784WYXCL-de Navitech schwarz Gehäuse für APEMAN Mini Car Camera Dash Cam 1080P Full HD Video Recorder with Sony Sensor  650NM Lens  WDR  Loop Recording  Motion Detection  Park Monitor and G-Senso'
+slug: 'B0784WYXCL-de Navitech schwarz Gehäuse für APEMAN Mini Car Camera Dash...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

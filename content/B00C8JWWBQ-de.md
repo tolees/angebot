@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nBvNvbVBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C8JWWBQ-de D-Link DGS-1100-08 8-Port Layer2 Gigabit Switch EasySmart  10/100/1000 Mbit/s  lüfterlos  Metallgehäuse '
+slug: 'B00C8JWWBQ-de D-Link DGS-1100-08 8-Port Layer2 Gigabit Switch EasySmart...'
+tags: 
 actualPrice: 27.2 EUR
 currency: EUR
 price: 27.2

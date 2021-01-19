@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RKQ3ZytDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BSAA38K-de Bar Keepers Friend Allzweck Macht-Creme 350ml  1 x 1 x 1 cm'
+slug: 'B00BSAA38K-de Bar Keepers Friend Allzweck Macht-Creme 350ml 1 x 1 x 1 cm'
+tags: 
 actualPrice: 5.85 EUR
 currency: EUR
 price: 5.85

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-PwTK9dIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074DHV1NT-de Thomas Sabo Damen-Charm-Armband 925 Sterlingsilber X0231-001-12-L19v'
+slug: 'B074DHV1NT-de Thomas Sabo Damen-Charm-Armband 925 Sterlingsilber...'
+tags: 
 actualPrice: 18.43 EUR
 currency: EUR
 price: 18.43

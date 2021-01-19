@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ML8ZbPiiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073SB2L3C-de SanDisk Ultra 64GB microSDXC Speicherkarte + Adapter bis zu 100 MB/Sek.  Class 10  U1  A1  FFP'
+slug: 'B073SB2L3C-de SanDisk Ultra 64GB microSDXC Speicherkarte + Adapter bis...'
+tags: 
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LkZuLD8uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007PVAT62-de Invision TV Wandhalterung  Ultrastarker Schwenkbare Neigbare  TV Halterung für 26-60 Zoll Flache und Geschwungen Fernseher oder Monitore  Max Gewichtskapazität 40 kg  Max. VESA 400x400 mm  HDTV-L '
+slug: 'B007PVAT62-de Invision TV Wandhalterung Ultrastarker Schwenkbare...'
+tags: 
 actualPrice: 26.24 EUR
 currency: EUR
 price: 26.24

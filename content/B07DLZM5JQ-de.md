@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31N7-q-m2iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLZM5JQ-de SAMSONITE PRO-DLX 5 - Bailhandle Erweiterbar für 17.3" Laptop - 24.5/31L  Schwarz'
+slug: 'B07DLZM5JQ-de SAMSONITE PRO-DLX 5 - Bailhandle Erweiterbar für 17.3"...'
+tags: 
 actualPrice: 152.99 EUR
 currency: EUR
 price: 152.99

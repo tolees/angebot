@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LKRX+soyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077RV4ZLY-de Western Digital 6 TB Elements Desktop externe Festplatte USB3.0 -WDBWLG0060HBK-EESN'
+slug: 'B077RV4ZLY-de Western Digital 6 TB Elements Desktop externe Festplatte...'
+tags: 
 actualPrice: 96.51 EUR
 currency: EUR
 price: 96.51

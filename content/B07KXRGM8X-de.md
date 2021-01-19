@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ua8m10WjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXRGM8X-de SanDisk microSDXC UHS-I card for Nintendo Switch 64GB - Nintendo licensed Product  New '
+slug: 'B07KXRGM8X-de SanDisk microSDXC UHS-I card for Nintendo Switch 64GB -...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

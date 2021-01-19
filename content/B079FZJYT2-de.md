@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FZJYT2-de CITIZEN Eco-Drive Herren Armbanduhr AW1570-87L'
+tags: 
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wJcGyrNaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBCIPPN-de Funko 4717 Movie S1 No Actionfigur The Godfather: Fredo Corleone  Multi'
+slug: 'B01NBCIPPN-de Funko 4717 Movie S1 No Actionfigur The Godfather: Fredo...'
+tags: 
 actualPrice: 6.92 EUR
 currency: EUR
 price: 6.92

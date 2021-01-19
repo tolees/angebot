@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21sc0T80tyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JFRO5PA-de Kitchen Craft Kanne  1 1 l  Creme  aus der Living-Nostalgia-Produktreihe'
+slug: 'B00JFRO5PA-de Kitchen Craft Kanne 1 1 l Creme aus der Living-Nostalgia-...'
+tags: 
 actualPrice: 11.41 EUR
 currency: EUR
 price: 11.41

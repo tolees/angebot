@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415GCAJi24L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KHTLFOY-de Schiesser Damen Slip Tai  3er Pack  Gr. 40  Schwarz  schwarz 000 '
+slug: 'B00KHTLFOY-de Schiesser Damen Slip Tai 3er Pack Gr. 40 Schwarz schwarz 000'
+tags: 
 actualPrice: 14.7 EUR
 currency: EUR
 price: 14.7

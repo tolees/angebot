@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FhaSx214L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKNG6JR-de Kaspersky Internet Security 2020 Standard | 3 Geräte | 1 Jahr | Windows/Mac/Android | Aktivierungscode in frustfreier Verpackung'
+slug: 'B07TKNG6JR-de Kaspersky Internet Security 2020 Standard | 3 Geräte | 1...'
+tags: 
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41B9m106nBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K9IO3MS-de Funko 10408 Harry Potter Phantastische Tierwesen-Niffler Figur  Multi  Einheitsgröße'
+slug: 'B01K9IO3MS-de Funko 10408 Harry Potter Phantastische Tierwesen-Niffler...'
+tags: 
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

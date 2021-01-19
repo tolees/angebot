@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qV9Yuk5jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UNA1ICQ-de Seagate Expansion Desktop  3 TB  externe Festplatte  3.5"  USB 3.0  PC  Xbox  PS4  ModelNr.: STEB3000200'
+slug: 'B00UNA1ICQ-de Seagate Expansion Desktop 3 TB externe Festplatte 3.5" USB...'
+tags: 
 actualPrice: 85.0 EUR
 currency: EUR
 price: 85.0

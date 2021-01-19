@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z9bfx0g8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F3KWB8K-de BRAUN Wecker und Tischuhren Uhrenradio Kunststoff BLACK BNC020BK'
+slug: 'B01F3KWB8K-de BRAUN Wecker und Tischuhren Uhrenradio Kunststoff BLACK...'
+tags: 
 actualPrice: 59.2 EUR
 currency: EUR
 price: 59.2

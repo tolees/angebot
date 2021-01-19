@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41R9iSrnWYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003QTENM8-de Invicta 9223 Speedway Unisex Uhr Edelstahl Quarz schwarzen Zifferblat'
+slug: 'B003QTENM8-de Invicta 9223 Speedway Unisex Uhr Edelstahl Quarz schwarzen...'
+tags: 
 actualPrice: 72.1 EUR
 currency: EUR
 price: 72.1

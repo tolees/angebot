@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518ysiloj6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015ZJRI5A-de The Fall - Tod in Belfast - die komplette Staffel 1 [2 Blu-rays]'
+slug: 'B015ZJRI5A-de The Fall - Tod in Belfast - die komplette Staffel 1 [2...'
+tags: 
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

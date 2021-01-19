@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NUSGjGxjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPSDWJ1-de Funko 36661 POP Bobble: Avengers Endgame: Captain America Sammelfiguren  Multi  Standard'
+slug: 'B07KPSDWJ1-de Funko 36661 POP Bobble: Avengers Endgame: Captain America...'
+tags: 
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

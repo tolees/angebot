@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41238ppMINL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5PTCVQ-de OneOdio Active Noise Cancelling Kopfhörer  ANC   40 Stunden Kabellos Bluetooth Over Ear Kopfhörer  Tiefer Bass CVC 8.0 Mikrofon Schnellladung Protein-Ohrpolster faltbar für Reise Büro TV Handy PC'
+slug: 'B07W5PTCVQ-de OneOdio Active Noise Cancelling Kopfhörer ANC 40 Stunden...'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

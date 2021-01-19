@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51A9KuA5JwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LN1ONI4-de LG 34UC79G-B 86 36 cm  34 Zoll  Curved 21:9 UltraWideTM Full HD IPS Gaming Monitor  144 Hz  AMD Radeon FreeSync  DAS Mode   schwarz'
+slug: 'B01LN1ONI4-de LG 34UC79G-B 86 36 cm 34 Zoll Curved 21:9 UltraWideTM Full...'
+tags: 
 actualPrice: 419.95 EUR
 currency: EUR
 price: 419.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xEWwgXAFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QN96P3N-de Amzchef Zerkleinerer Elektrisch Universalzerkleinerer mit Starker Motor  1.8L Edelstahlschüssel  2 Geschwindigkeitsstufen Bremsfunktion 300W Multizerkleinerer für Fleisch  Obst  Gemüse und Babynahrung'
+slug: 'B07QN96P3N-de Amzchef Zerkleinerer Elektrisch Universalzerkleinerer mit...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

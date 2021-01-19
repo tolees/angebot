@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072DXDFY6-de Guardians of the Galaxy Vol. 2'
+tags: 
 actualPrice: 4.34 EUR
 currency: EUR
 price: 4.34

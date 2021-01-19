@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qsM-OqKsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ST4TGAO-de Merry Style Damen Langarm Body BD900  Schwarz  L '
+slug: 'B00ST4TGAO-de Merry Style Damen Langarm Body BD900 Schwarz L'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

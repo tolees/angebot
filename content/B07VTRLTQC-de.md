@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lBiXy2BmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VTRLTQC-de Schwip Schwap  Das Original – Koffeinhaltiges Cola-Erfrischungsgetränk mit Orange  EINWEG Dose  24 x 330 ml '
+slug: 'B07VTRLTQC-de Schwip Schwap Das Original – Koffeinhaltiges Cola-...'
+tags: 
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

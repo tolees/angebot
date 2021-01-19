@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0789BVVY6-de Fossil Damen-Armreifen Edelstahl JF02854998'
+tags: 
 actualPrice: 39.38 EUR
 currency: EUR
 price: 39.38

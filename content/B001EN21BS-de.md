@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416F+f6olVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001EN21BS-de Stanley Legendary Classic Vakuum-Thermoskanne  1.9 Liter  Hammertone Green  18/8 Stainless Edelstahl  Integrierter Thermobecher  Doppelwandige Isolierung Isolierflasche Isolierkanne Kaffeekanne'
+slug: 'B001EN21BS-de Stanley Legendary Classic Vakuum-Thermoskanne 1.9 Liter...'
+tags: 
 actualPrice: 39.51 EUR
 currency: EUR
 price: 39.51

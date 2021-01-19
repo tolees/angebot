@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZLesxuRUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TG88QVH-de LIGHTAILING Licht-Set Für  Architecture Shanghai  Modell - LED Licht-Set Kompatibel Mit Lego 21039 Modell Nicht Enthalten '
+slug: 'B07TG88QVH-de LIGHTAILING Licht-Set Für Architecture Shanghai Modell -...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

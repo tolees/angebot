@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ew0Hyb99L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TT3KM5W-de SZMDLX Bluetooth Adapter  Transmitter und Empfänger 3 in 1  USB Bluetooth 5.0 Dongle Stick USB Audioadapter Sender Receiver mit 3 5mm digitales Audiokabel für PC TV Kopfhörer Autoradio für Zuhause'
+slug: 'B07TT3KM5W-de SZMDLX Bluetooth Adapter Transmitter und Empfänger 3 in 1...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

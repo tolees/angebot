@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xMFTPxsjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N63FOWS-de Swarovski Damen-Kette mit Anhänger SWAN Lake Edelstahl Kristall weiß Marquiseschliff 38 cm - 5169080'
+slug: 'B01N63FOWS-de Swarovski Damen-Kette mit Anhänger SWAN Lake Edelstahl...'
+tags: 
 actualPrice: 98.7 EUR
 currency: EUR
 price: 98.7

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41jkDeqdjcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K3DZF4R-de BOSS Herren Paddy Pro Poloshirt  Blau  Medium Blue 422   X-Large  Herstellergröße: XL '
+slug: 'B07K3DZF4R-de BOSS Herren Paddy Pro Poloshirt Blau Medium Blue 422...'
+tags: 
 actualPrice: 69 EUR
 currency: EUR
 price: 69

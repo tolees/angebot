@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XickY9X6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E5XH4OS-de MAJA-Möbel 1611 9499 TV- HiFi-Rack  Metall Alu - Klarglas  Abmessungen BxHxT: 60 x 74 4 x 46 5 cm'
+slug: 'B00E5XH4OS-de MAJA-Möbel 1611 9499 TV- HiFi-Rack Metall Alu - Klarglas...'
+tags: 
 actualPrice: 133.99 EUR
 currency: EUR
 price: 133.99

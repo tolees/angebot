@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DccqVdQ1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KJ59JBG-de Netgear Orbi RBK50 Ultra Speed Mesh-WLAN-System  3.000 MBit/s Geschwindgkeit  Tri-Band 2er Set mit Mesh-Router + Satellit-Repeater  bis zu 350 m² Abdeckung  AC3000 '
+slug: 'B01KJ59JBG-de Netgear Orbi RBK50 Ultra Speed Mesh-WLAN-System 3.000...'
+tags: 
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hYabcHkhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076DNLS3G-de Oral-B CrossAction Aufsteckbürsten  Briefkastenfähige Verpackung  8+2 Stück'
+slug: 'B076DNLS3G-de Oral-B CrossAction Aufsteckbürsten Briefkastenfähige...'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

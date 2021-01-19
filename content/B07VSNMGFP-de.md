@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mIfbGOc8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSNMGFP-de Wlan Bluetooth 5W LED Einbaustrahler RGBW+CCT 5 in 1 Einbauleuchte Spot Dimmbar 230 Volt Einbauleuchten mit Bluetooth Fernbedienung BT Mesh Smart Bridge 10er set'
+slug: 'B07VSNMGFP-de Wlan Bluetooth 5W LED Einbaustrahler RGBW+CCT 5 in 1...'
+tags: 
 actualPrice: 152.99 EUR
 currency: EUR
 price: 152.99

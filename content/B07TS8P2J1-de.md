@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TS8P2J1-de Pop Fantastic Four Mister Fantastic Vinyl Figure'
+tags: 
 actualPrice: 8.82 EUR
 currency: EUR
 price: 8.82

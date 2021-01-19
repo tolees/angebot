@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PAQGYKE-de Pioneer GM D1004 Verstärker für Kfz'
+tags: 
 actualPrice: 76.79 EUR
 currency: EUR
 price: 76.79

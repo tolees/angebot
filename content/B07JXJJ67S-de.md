@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513KDtj4BjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JXJJ67S-de PLAYMOBIL City Life 70015 Mein Lieblingscafé  Ab 4 Jahren'
+slug: 'B07JXJJ67S-de PLAYMOBIL City Life 70015 Mein Lieblingscafé Ab 4 Jahren'
+tags: 
 actualPrice: 29.88 EUR
 currency: EUR
 price: 29.88

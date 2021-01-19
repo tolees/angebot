@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mOmgD9tTL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001EFIHBY-de Faber-Castell 144187 - Kugelschreiber GRIP 2011  Mine XB  schwarz-matt'
+slug: 'B001EFIHBY-de Faber-Castell 144187 - Kugelschreiber GRIP 2011 Mine XB...'
+tags: 
 actualPrice: 7.51 EUR
 currency: EUR
 price: 7.51

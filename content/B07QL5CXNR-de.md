@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31O8WWlIfmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QL5CXNR-de Anker PowerPort+ Atom III Kompaktes 60W PIQ 3.0 & GaN Tech USB-C-Wandladegerät  Doppel-Port mit PIQ 2.0 USB-A und 45W USB-C  USB-C Laptops  Macbook  iPad Pro  iPhone  Galaxy  Pixel und mehr'
+slug: 'B07QL5CXNR-de Anker PowerPort+ Atom III Kompaktes 60W PIQ 3.0 & GaN Tech...'
+tags: 
 actualPrice: 28.56 EUR
 currency: EUR
 price: 28.56

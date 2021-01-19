@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SGgVshlLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HJCK9X3-de MACLY SmartBand Aktivitäts Tracker mit Blutdruckmessung  Smartwatch Fitness Tracker mit Pulsmesser Wasserdicht IP67 Fitness Uhr Pulsuhr Schrittzähler Uhr Kalorien für Damen Herren'
+slug: 'B08HJCK9X3-de MACLY SmartBand Aktivitäts Tracker mit Blutdruckmessung...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

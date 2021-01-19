@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31EgugsSJ7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H5HJ18M-de Libratone TOO Bluetooth Lautsprecher  360° Sound  Touch Bedienung  IPX4 Spritzwassergeschützt  12 Std. Akku  caribbean green'
+slug: 'B01H5HJ18M-de Libratone TOO Bluetooth Lautsprecher 360° Sound Touch...'
+tags: 
 actualPrice: 88 EUR
 currency: EUR
 price: 88

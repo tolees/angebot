@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T+0unLUJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HQT3HKR-de Odys NoteTab Pro 25 7 cm  10 1 Zoll   1 3 Ghz QuadCore Prozessor  16GB Flash Speicher  2 GB RAM  Mali T720 MP2  Android 8.1  4G LTE  GPS  DUAL SIM  Aluminium-Rückseite  Schwarz'
+slug: 'B07HQT3HKR-de Odys NoteTab Pro 25 7 cm 10 1 Zoll 1 3 Ghz QuadCore...'
+tags: 
 actualPrice: 82.96 EUR
 currency: EUR
 price: 82.96

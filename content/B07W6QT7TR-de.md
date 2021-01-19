@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IA+XcXudL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6QT7TR-de eufy Security Sicherheitskamera mit Scheinwerfer  1080p Überwachungskamera  ohne Gebühren  2500 Lumen Helligkeit  Wetterfest & wasserdicht  Verkabelung & wasserdichter Kabelkasten notwendig '
+slug: 'B07W6QT7TR-de eufy Security Sicherheitskamera mit Scheinwerfer 1080p...'
+tags: 
 actualPrice: 125.99 EUR
 currency: EUR
 price: 125.99

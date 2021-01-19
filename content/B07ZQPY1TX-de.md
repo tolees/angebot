@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZQPY1TX-de Pegasus Spiele 51310G - Der Kartograph'
+tags: 
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

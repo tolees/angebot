@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nA9Sb3SoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X43DFTQ-de Lenovo Chromebook C340 Laptop 29 5 cm  11 6 Zoll  1366x768  HD  IPS  Touch  Convertible Notebook  Intel Celeron N4000  4 GB RAM  64GB eMMC  Intel UHD-Grafik 600  ChromeOS  silber'
+slug: 'B07X43DFTQ-de Lenovo Chromebook C340 Laptop 29 5 cm 11 6 Zoll 1366x768...'
+tags: 
 actualPrice: 231.57 EUR
 currency: EUR
 price: 231.57

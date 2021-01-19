@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iFsf8lSZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KOJT7W4-de Columbia Herren Woodburn II Waterproof Wasserdichte Schuhe  Schwarz  black  caramel   42 EU'
+slug: 'B00KOJT7W4-de Columbia Herren Woodburn II Waterproof Wasserdichte Schuhe...'
+tags: 
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

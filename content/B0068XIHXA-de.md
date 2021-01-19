@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416lV9qLmML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0068XIHXA-de Tassimo Kapseln Jacobs Krönung XL  80 Kaffeekapseln  5er Pack  5 x 16 Getränke'
+slug: 'B0068XIHXA-de Tassimo Kapseln Jacobs Krönung XL 80 Kaffeekapseln 5er...'
+tags: 
 actualPrice: 16.93 EUR
 currency: EUR
 price: 16.93

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I7u9kaSUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X6HDSDY-de HyperX HX-HSCAS-BL/WW Cloud Alpha S - Gaming Headset mit HyperX Virtual 7.1 surround sound und verstellbarem Bass'
+slug: 'B07X6HDSDY-de HyperX HX-HSCAS-BL/WW Cloud Alpha S - Gaming Headset mit...'
+tags: 
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

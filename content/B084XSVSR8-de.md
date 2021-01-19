@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fyDthEdRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084XSVSR8-de LG Electronics 65UM7050PLA  164 cm  65 Zoll   UHD  Fernseher  4K  Triple Tuner  DVB-T2/T -C -S2/S   Active HDR  50 Hz  Smart TV   [Modelljahr 2020]'
+slug: 'B084XSVSR8-de LG Electronics 65UM7050PLA 164 cm 65 Zoll UHD Fernseher 4K...'
+tags: 
 actualPrice: 549.0 EUR
 currency: EUR
 price: 549.0

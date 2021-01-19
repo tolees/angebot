@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yY3fdHe7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NPJYC98-de The Polydor Years 1986-1992  Ltd Edt Boxset '
+slug: 'B00NPJYC98-de The Polydor Years 1986-1992 Ltd Edt Boxset'
+tags: 
 actualPrice: 47.4 EUR
 currency: EUR
 price: 47.4

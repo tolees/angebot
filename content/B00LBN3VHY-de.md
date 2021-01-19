@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31m7K8t1GVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LBN3VHY-de Ice-Watch - ICE glam pastel Aqua - Women s wristwatch with silicon strap - 001064  Small '
+slug: 'B00LBN3VHY-de Ice-Watch - ICE glam pastel Aqua - Women s wristwatch with...'
+tags: 
 actualPrice: 53.77 EUR
 currency: EUR
 price: 53.77

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31doEBrW1WL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KYRFJYD-de SAMSONITE Guardit 2.0 - Laptop Rollkoffer  45 cm  26.5 Liter  Black'
+slug: 'B07KYRFJYD-de SAMSONITE Guardit 2.0 - Laptop Rollkoffer 45 cm 26.5 Liter...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41633gFLtbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HQLYCJB-de Microsoft Office 2019 Home & Business multilingual | 1 PC  Windows 10  /Mac | Dauerlizenz | Download'
+slug: 'B07HQLYCJB-de Microsoft Office 2019 Home & Business multilingual | 1 PC...'
+tags: 
 actualPrice: 229.67 EUR
 currency: EUR
 price: 229.67

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31NixaJhmbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0716SS1FC-de Merry Style Mädchen Lange Leggings aus Viskose MS10-130  Schwarz  110 '
+slug: 'B0716SS1FC-de Merry Style Mädchen Lange Leggings aus Viskose MS10-130...'
+tags: 
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

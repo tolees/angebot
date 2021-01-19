@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31S8lFLim0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQDD43K-de LaCie MOBILE DRIVE Moon Silver  tragbare externe Festplatte 5 TB  2.5 Zoll  USB-C  für Mac & PC  Modellnr.: STHG5000400'
+slug: 'B07MQDD43K-de LaCie MOBILE DRIVE Moon Silver tragbare externe Festplatte...'
+tags: 
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

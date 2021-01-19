@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uVxRJXd-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GRSQB78-de JOMARTO Smart LED Lampe  WIFI Lampe E27  9W  800LM Smart Lampe Wifi Smart Birne RGBW dimmbar Wlan Glühbirne  APP gesteuert  weißes und buntes Licht  kompatibel mit Google Home  Amazon Alexa'
+slug: 'B07GRSQB78-de JOMARTO Smart LED Lampe WIFI Lampe E27 9W 800LM Smart...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

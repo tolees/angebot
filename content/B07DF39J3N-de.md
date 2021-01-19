@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UodrURppL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DF39J3N-de Ice-Watch - ICE steel Marine - Blaue Herrenuhr mit Silikonarmband - 015774  Large '
+slug: 'B07DF39J3N-de Ice-Watch - ICE steel Marine - Blaue Herrenuhr mit...'
+tags: 
 actualPrice: 70.4 EUR
 currency: EUR
 price: 70.4

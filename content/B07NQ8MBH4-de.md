@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OxU5pJXwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQ8MBH4-de Samsung Galaxy Buds SM-R170NZYADBT I Kabellose Kopfhörer Gelb I Bluetooth I In-Ear I Stereo-Sport Headphones'
+slug: 'B07NQ8MBH4-de Samsung Galaxy Buds SM-R170NZYADBT I Kabellose Kopfhörer...'
+tags: 
 actualPrice: 85.21 EUR
 currency: EUR
 price: 85.21

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QPJ9X1lAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B819VMQ-de SteelSeries Arctis Pro Wireless – Drahtlos Gaming-Headset – hochauflösende Lautsprechertreiber – kombiniertes Funksystem  2 4 GHz & Bluetooth  – Schwarz'
+slug: 'B07B819VMQ-de SteelSeries Arctis Pro Wireless – Drahtlos Gaming-Headset...'
+tags: 
 actualPrice: 277.11 EUR
 currency: EUR
 price: 277.11

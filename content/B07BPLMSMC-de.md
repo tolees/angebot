@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aHNf8vVjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BPLMSMC-de Jura 10 Years Old Single Malt Scotch Whisky mit Geschenkverpackung  1 x 0.7 l '
+slug: 'B07BPLMSMC-de Jura 10 Years Old Single Malt Scotch Whisky mit...'
+tags: 
 actualPrice: 23.97 EUR
 currency: EUR
 price: 23.97

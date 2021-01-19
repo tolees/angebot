@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hPm5BI+CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085ST7G7F-de Palado® Damen Sandale Korfu | Made in EU | Pantoletten in 11 modischen Farben | 2-Riemen Sandaletten mit Natur Kork-Fussbett | Herren Hausschuhe mit Leder-Laufsohle Silber Python Altsilber 38 EU'
+slug: 'B085ST7G7F-de Palado® Damen Sandale Korfu | Made in EU | Pantoletten in...'
+tags: 
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

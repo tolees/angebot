@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oAqKAg4GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GFB4YFF-de Lightess 4er LED Unterbauleuchte Schrankbeleuchtung Warmweiß Schrankleuchte LED Nachtlicht Schrank Lichter Wandleuchten Treppen Licht Vitrinenbeleuchtung für Kabinett Schränke Kleiderschrank Küche'
+slug: 'B07GFB4YFF-de Lightess 4er LED Unterbauleuchte Schrankbeleuchtung...'
+tags: 
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CjDSE-3JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U1INHG0-de Living Nostalgia 14 5 cm  Peg Dose mit Haken  grau'
+slug: 'B00U1INHG0-de Living Nostalgia 14 5 cm Peg Dose mit Haken grau'
+tags: 
 actualPrice: 12.85 EUR
 currency: EUR
 price: 12.85

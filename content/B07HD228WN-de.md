@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x98rM-nTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HD228WN-de Mattel GGX28 - Toy Story 4 Ducky  17 cm Spielzeug Actionfigur ab 3 Jahren'
+slug: 'B07HD228WN-de Mattel GGX28 - Toy Story 4 Ducky 17 cm Spielzeug...'
+tags: 
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

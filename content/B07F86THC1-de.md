@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41b0Cdz4rsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F86THC1-de Gore Wear Unisex M Infinium Handschuhe  Schwarz  Black/Neon Yellow   Gr. 10'
+slug: 'B07F86THC1-de Gore Wear Unisex M Infinium Handschuhe Schwarz Black/Neon...'
+tags: 
 actualPrice: 22.96 EUR
 currency: EUR
 price: 22.96

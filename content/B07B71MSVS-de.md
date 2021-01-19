@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VogwXEoUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B71MSVS-de Cardinal Games 6045052 - LOL Water Surprise Spiel  Kinderspiel  Suchspiel mit Schwamm  L.O.L. Surprise'
+slug: 'B07B71MSVS-de Cardinal Games 6045052 - LOL Water Surprise Spiel...'
+tags: 
 actualPrice: 9.64 EUR
 currency: EUR
 price: 9.64

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41u5bWn9+jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2JNKSD-de EYSAFT Babyphone mit Kamera Video Baby Monitor 3.2 Zoll Babyfon mit Talk Back und Temperaturüberwachung Nachtsichtkamera Schlaflieder Nachtsicht  Intercom-Funktion VOX'
+slug: 'B07X2JNKSD-de EYSAFT Babyphone mit Kamera Video Baby Monitor 3.2 Zoll...'
+tags: 
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

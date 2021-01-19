@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41THQMIK3FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TT2KHJM-de ENACFIRE SoundBar Bluetooth Lautsprecher  12W Kabellose Tragbare Musikbox mit Freisprechfunktion  25 Stunden Spielzeit  30m Bluetooth Reichweite  IPX7 Wasserdicht'
+slug: 'B07TT2KHJM-de ENACFIRE SoundBar Bluetooth Lautsprecher 12W Kabellose...'
+tags: 
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

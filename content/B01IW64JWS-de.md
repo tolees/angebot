@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-2C-VSKeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IW64JWS-de Logitech 939-001471 BASE Ladestation mit Smart Connector-Technologie für Apple iPad  7th gen   iPad Air  3rd gen   iPad Pro 9.7-inch  10.5-inch  12.9-inch  1st and 2nd gen '
+slug: 'B01IW64JWS-de Logitech 939-001471 BASE Ladestation mit Smart Connector-...'
+tags: 
 actualPrice: 60.82 EUR
 currency: EUR
 price: 60.82

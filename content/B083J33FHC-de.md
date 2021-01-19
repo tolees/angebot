@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p6NX7-H0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083J33FHC-de H0 V Acryl Schaukasten Vitrine  Vitrine Acryl Schaukasten  Acryl Display Box für Lego 42110 Technic Land Rover Defender  Kein Lego Modell '
+slug: 'B083J33FHC-de H0 V Acryl Schaukasten Vitrine Vitrine Acryl Schaukasten...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

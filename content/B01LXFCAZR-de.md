@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310N7NW0KuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXFCAZR-de Samsonite Base Boost - Spinner L Erweiterbar Koffer  78 cm  105/112.5 L  Schwarz  Black '
+slug: 'B01LXFCAZR-de Samsonite Base Boost - Spinner L Erweiterbar Koffer 78 cm...'
+tags: 
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

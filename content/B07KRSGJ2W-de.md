@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hy-ubugLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRSGJ2W-de Rollei Actioncam 560 Touch - WiFi Action-Cam wasserdicht 4k 60 FPS - Sports-Cam mit Touchscreen  Unterwasser-Filter  Fotointervallaufnahmen mit 160° Super-Weitwinkel-Objektiv mit viel Zubehör'
+slug: 'B07KRSGJ2W-de Rollei Actioncam 560 Touch - WiFi Action-Cam wasserdicht...'
+tags: 
 actualPrice: 88 EUR
 currency: EUR
 price: 88

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OJWTlhOOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J8KC54M-de Wenko Herdabdeckplatte Universal Kräutergarten  2er Set Herdabdeckung für alle Herdarten  Gehärtetes Glas  30 x 52 cm  mehrfarbig'
+slug: 'B00J8KC54M-de Wenko Herdabdeckplatte Universal Kräutergarten 2er Set...'
+tags: 
 actualPrice: 15.71 EUR
 currency: EUR
 price: 15.71

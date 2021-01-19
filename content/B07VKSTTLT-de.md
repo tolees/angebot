@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JEEkwIgLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKSTTLT-de Bosch Akku Schleifer und Polierer EasyCurvSander 12  1 Akku  12 Volt System  in Softbag '
+slug: 'B07VKSTTLT-de Bosch Akku Schleifer und Polierer EasyCurvSander 12 1 Akku...'
+tags: 
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

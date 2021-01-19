@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CrdzF-bkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076SH9NYT-de Microsoft Surface Book 2 34 29 cm  13 5 Zoll  Laptop  Intel Core i7 der 8. Generation  16GB RAM  512GB SSD  Intel HD Graphics 620  Win 10  silber'
+slug: 'B076SH9NYT-de Microsoft Surface Book 2 34 29 cm 13 5 Zoll Laptop Intel...'
+tags: 
 actualPrice: 545.0 EUR
 currency: EUR
 price: 545.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ksbd-bdXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DX231ST-de Garmin Edge Explore GPS-Fahrrad-Navi - Vorinstallierte Europakarte  Navigationsfunktionen  3“ Touchscreen  einfache Bedienung'
+slug: 'B07DX231ST-de Garmin Edge Explore GPS-Fahrrad-Navi - Vorinstallierte...'
+tags: 
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

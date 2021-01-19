@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vNJJOCBUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XWP21JI-de Nike Herren Md Runner 2 Gymnastikschuhe  Grau  Wolf Grey/Black/White 001   46 EU'
+slug: 'B00XWP21JI-de Nike Herren Md Runner 2 Gymnastikschuhe Grau Wolf...'
+tags: 
 actualPrice: 37.9 EUR
 currency: EUR
 price: 37.9

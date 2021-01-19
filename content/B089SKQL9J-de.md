@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5142Imdf8FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089SKQL9J-de LED TV Hintergrundbeleuchtung  MustWin 3M USB LED Beleuchtung für 32-60 Zoll RGBW Strip Dimmbar mit RF-Ferbedienung 6000K Kaltweiß  6 Modi 20 Farben DIY Farbwechsel mit Memoryfunktion für Fernseher PC'
+slug: 'B089SKQL9J-de LED TV Hintergrundbeleuchtung MustWin 3M USB LED...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

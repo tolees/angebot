@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/316rRUDcDdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PYC13J-de OSRAM Smart+ LED  ZigBee GU5.3 Reflektor  12V  warmweiß bis tageslicht  2000K - 6500K   dimmbar  Direkt kompatibel mit Echo Plus und Echo Show  2. Gen.   Kompatibel mit Philips Hue Bridge'
+slug: 'B074PYC13J-de OSRAM Smart+ LED ZigBee GU5.3 Reflektor 12V warmweiß bis...'
+tags: 
 actualPrice: 16.71 EUR
 currency: EUR
 price: 16.71

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uX7Z1tu0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072PRPGR8-de Acer Switch 5  SW512-52-5819  30 48 cm  12 Zoll QHD Multi-Touch IPS  2-in-1 Laptop  Intel Core i5-7200U  8GB RAM  256GB PCIe SSD  Intel HD  Win 10 Home  anthrazit'
+slug: 'B072PRPGR8-de Acer Switch 5 SW512-52-5819 30 48 cm 12 Zoll QHD Multi-...'
+tags: 
 actualPrice: 450.0 EUR
 currency: EUR
 price: 450.0

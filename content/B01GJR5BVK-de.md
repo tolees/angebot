@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MffnP9pdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GJR5BVK-de HP OfficeJet Pro 8715 Multifunktionsdrucker  Instant Ink  Drucker  Scanner  Kopierer  Fax  WLAN  LAN  Duplex  Airprint  mit 3 Probemonaten HP Instant Ink inklusive'
+slug: 'B01GJR5BVK-de HP OfficeJet Pro 8715 Multifunktionsdrucker Instant Ink...'
+tags: 
 actualPrice: 132.06 EUR
 currency: EUR
 price: 132.06

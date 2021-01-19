@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fxUygO-hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009SIVCNE-de Samsonite S Cure - Spinner S Handgepäck  55 cm  34 L  Blau  Dark Blue '
+slug: 'B009SIVCNE-de Samsonite S Cure - Spinner S Handgepäck 55 cm 34 L Blau...'
+tags: 
 actualPrice: 107.4 EUR
 currency: EUR
 price: 107.4

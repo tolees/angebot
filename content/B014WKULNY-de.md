@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MihVZUIxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014WKULNY-de EMOS 1x universales selbstverschweißendes Band  LxBxH 5 m x 25 mm x 0 76 mm  für Außenbereich als Isolierband  Dichtungsband  Reparaturband geeignet  schwarz'
+slug: 'B014WKULNY-de EMOS 1x universales selbstverschweißendes Band LxBxH 5 m x...'
+tags: 
 actualPrice: 1.35 EUR
 currency: EUR
 price: 1.35

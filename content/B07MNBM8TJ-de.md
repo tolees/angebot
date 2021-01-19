@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FZA5YpIAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MNBM8TJ-de GHT HDMI KVM Switch USB 2 Port Umschalter 4K 4K @ 30Hz  2 PC 1 Monitor  2 In 1 Out  YUV 4: 4: 4  Ultra HD Mit Kabel'
+slug: 'B07MNBM8TJ-de GHT HDMI KVM Switch USB 2 Port Umschalter 4K 4K @ 30Hz 2...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

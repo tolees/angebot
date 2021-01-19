@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mR17CbN-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002TQ44DC-de ANSMANN APS 1000 Universal Stecker Netzteil 12V inkl. 7 verschiedende Adapter Stecker - Netzstecker bis max. 1000mA - Netzadapter zur Stromversorgung vieler Elektrokleingeräte von 3-12 Volt regelbar'
+slug: 'B002TQ44DC-de ANSMANN APS 1000 Universal Stecker Netzteil 12V inkl. 7...'
+tags: 
 actualPrice: 13.64 EUR
 currency: EUR
 price: 13.64

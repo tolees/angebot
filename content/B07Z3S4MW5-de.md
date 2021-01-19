@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Eu1a93fbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z3S4MW5-de EUGAD 0210QJ Wandregal Wandboard Bücherregal CD DVD Regal aus MDF Holz DIY Weiß'
+slug: 'B07Z3S4MW5-de EUGAD 0210QJ Wandregal Wandboard Bücherregal CD DVD Regal...'
+tags: 
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

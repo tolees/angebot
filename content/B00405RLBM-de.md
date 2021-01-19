@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tG8VdSg+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00405RLBM-de Kenwood Zerkleinerer CH580  elektrischer Mini Universalzerkleinerer mit Quadblade-System  0 5 l Arbeitsbehälter  500 Watt  weiß'
+slug: 'B00405RLBM-de Kenwood Zerkleinerer CH580 elektrischer Mini...'
+tags: 
 actualPrice: 31.8 EUR
 currency: EUR
 price: 31.8

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/314xfxt9mqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VS8QCXC-de Seagate Expansion Portable 5 TB externe tragbare Festplatte für PC  6 35 cm  2 5 Zoll   Amazon Exclusive Edition'
+slug: 'B07VS8QCXC-de Seagate Expansion Portable 5 TB externe tragbare...'
+tags: 
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

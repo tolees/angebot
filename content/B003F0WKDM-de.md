@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zakVKgDmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003F0WKDM-de CASO VC10 Vakuumierer - Testsieger bei Stiftung Warentest  Vakuumiergerät  Lebensmittel bleiben vakuumiert bis zu 8x länger frisch  30cm lange & stabile Schweißnaht  inkl. 10 Profi-Folienbeutel'
+slug: 'B003F0WKDM-de CASO VC10 Vakuumierer - Testsieger bei Stiftung Warentest...'
+tags: 
 actualPrice: 56.21 EUR
 currency: EUR
 price: 56.21

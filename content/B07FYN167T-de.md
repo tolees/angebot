@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SIufyAUaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYN167T-de Scuderia Ferrari Herren Multi Zifferblatt Quarz Uhr mit Edelstahl Armband 830535'
+slug: 'B07FYN167T-de Scuderia Ferrari Herren Multi Zifferblatt Quarz Uhr mit...'
+tags: 
 actualPrice: 126.97 EUR
 currency: EUR
 price: 126.97

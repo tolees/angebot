@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vdLn0LxEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085RR47VZ-de TONGJI Acryl Vitrine Kompatibel Mit Lego 42083 Technic Bugatti Chiron   Schaukasten Staubdicht Display Box  Beinhaltet Nicht das Modell  '
+slug: 'B085RR47VZ-de TONGJI Acryl Vitrine Kompatibel Mit Lego 42083 Technic...'
+tags: 
 actualPrice: 103.99 EUR
 currency: EUR
 price: 103.99

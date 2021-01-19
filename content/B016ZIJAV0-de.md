@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pN7FNFiLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016ZIJAV0-de iRobot Roomba 615 Saugroboter mit 3-stufigem Reinigungssystem  Dirt Detect  Staubsauger Roboter selbstaufladend mit Ladestation  geeignet für Tierhaare  Teppiche und Hartböden  mit intelligentem Griff'
+slug: 'B016ZIJAV0-de iRobot Roomba 615 Saugroboter mit 3-stufigem...'
+tags: 
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

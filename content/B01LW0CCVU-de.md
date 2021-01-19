@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ybW5rYTvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LW0CCVU-de Skylanders Imaginators - Champions Combo Pack  Smolderdash  Dune Bag  Cynder '
+slug: 'B01LW0CCVU-de Skylanders Imaginators - Champions Combo Pack Smolderdash...'
+tags: 
 actualPrice: 8.35 EUR
 currency: EUR
 price: 8.35

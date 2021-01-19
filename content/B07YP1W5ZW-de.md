@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sxgc5Ms8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YP1W5ZW-de Barilla Pasta Spaghettini n. 3  500g'
+slug: 'B07YP1W5ZW-de Barilla Pasta Spaghettini n. 3 500g'
+tags: 
 actualPrice: 0.77 EUR
 currency: EUR
 price: 0.77

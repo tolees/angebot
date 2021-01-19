@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HIgSfq5HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWBYZZ8-de Balter Turmventilator mit Fernbedienung ✓ Leise ✓ 120cm hoch ✓ 3 Geschwindigkeitsstufen ✓ Wind/Schlafmodi ✓ Timer ✓ 80° oszillierend ✓ Extra Stabil - 32cm Standfuß ✓ Farbe:Antrazit'
+slug: 'B07VWBYZZ8-de Balter Turmventilator mit Fernbedienung ✓ Leise ✓ 120cm...'
+tags: 
 actualPrice: 55.92 EUR
 currency: EUR
 price: 55.92

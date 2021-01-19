@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Jemj8GGNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HBIALMA-de Souarts Ring Damen Schmuck Silber Gold Rosegold Farbe Edelstahl mit Zirkon Strass Geschenk für Frauen'
+slug: 'B01HBIALMA-de Souarts Ring Damen Schmuck Silber Gold Rosegold Farbe...'
+tags: 
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

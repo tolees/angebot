@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ujl7bLJpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L72YFLS-de Ankermann Business Work Silent leise PC PC Intel CPU 2X 2.70 Ghz dual Core HD Graphic 8GB RAM 240GB SSD Windows 10 PRO Office Professional'
+slug: 'B07L72YFLS-de Ankermann Business Work Silent leise PC PC Intel CPU 2X...'
+tags: 
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

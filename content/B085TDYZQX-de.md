@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D3mO7XbpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085TDYZQX-de GVFTG La Cocina Spanisch Zitate Wandtattoo Kunst Schriftzug Vinyl Aufkleber Für Die Küchendekoration 46X86cm'
+slug: 'B085TDYZQX-de GVFTG La Cocina Spanisch Zitate Wandtattoo Kunst...'
+tags: 
 actualPrice: 20.09 EUR
 currency: EUR
 price: 20.09

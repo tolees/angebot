@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yXkjWkcEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PC5WFLY-de Bosch Professional 40-tlgs. Bohrer Bit Set  Pick and Click  extra harte Schrauber Bits  mit Universalhalter '
+slug: 'B07PC5WFLY-de Bosch Professional 40-tlgs. Bohrer Bit Set Pick and Click...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

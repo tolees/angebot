@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pY-WFUraL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HJUSZ14-de QNAP TVS-1282-i3-8G  Hochleistungsfähiges NAS-System  Tiered Storage  Intel-Prozessoren der 7. Generation  schwarz'
+slug: 'B01HJUSZ14-de QNAP TVS-1282-i3-8G Hochleistungsfähiges NAS-System Tiered...'
+tags: 
 actualPrice: 545.0 EUR
 currency: EUR
 price: 545.0

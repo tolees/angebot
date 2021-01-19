@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41CLXqJzFPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B081RGXLQC-de ELEGIANT Bluetooth Kopfhörer kabellos in Ear Ohrhörer Bluetooth 5.0 Headset Wireless Earbuds Stereo Sport Drahtlos Kopfhörer mit tragbar Ladekästchen  24 Std Spielzeit  Touch Steuerung für iOS Android'
+slug: 'B081RGXLQC-de ELEGIANT Bluetooth Kopfhörer kabellos in Ear Ohrhörer...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

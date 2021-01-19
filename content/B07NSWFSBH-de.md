@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ztMefpcDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NSWFSBH-de Funko 40252 POP Vinyl: Animation: Rick & Morty S6-Dr. Xenon Bloom Sammelbares Spielzeug  Mehrfarben  Standard'
+slug: 'B07NSWFSBH-de Funko 40252 POP Vinyl: Animation: Rick & Morty S6-Dr....'
+tags: 
 actualPrice: 6.37 EUR
 currency: EUR
 price: 6.37

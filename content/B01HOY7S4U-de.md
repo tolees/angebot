@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uon2gojsL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HOY7S4U-de Original Kingston MicroSD Karte Speicherkarte 32 GB Für Huawei P8 / P8 LITE - 32GB'
+slug: 'B01HOY7S4U-de Original Kingston MicroSD Karte Speicherkarte 32 GB Für...'
+tags: 
 actualPrice: 4.33 EUR
 currency: EUR
 price: 4.33

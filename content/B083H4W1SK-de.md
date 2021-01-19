@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31X+-ZYdfSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083H4W1SK-de PUMA Essentials Herren Fleece Sweatjacke mit Kapuze Cotton Black L'
+slug: 'B083H4W1SK-de PUMA Essentials Herren Fleece Sweatjacke mit Kapuze Cotton...'
+tags: 
 actualPrice: 34.11 EUR
 currency: EUR
 price: 34.11

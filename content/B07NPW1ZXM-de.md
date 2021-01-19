@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JtQEv+FtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPW1ZXM-de Tommy Hilfiger Herren-Ketten mit Anhänger & Anhänger Edelstahl 2790062'
+slug: 'B07NPW1ZXM-de Tommy Hilfiger Herren-Ketten mit Anhänger & Anhänger...'
+tags: 
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

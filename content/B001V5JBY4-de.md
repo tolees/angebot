@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317uMXRJhBL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001V5JBY4-de Ray Ban Sonnenbrille RB 4126 braun  hellbraun'
+slug: 'B001V5JBY4-de Ray Ban Sonnenbrille RB 4126 braun hellbraun'
+tags: 
 actualPrice: 63.49 EUR
 currency: EUR
 price: 63.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KFaQl0etL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XWGTK6D-de House of Marley Positive Vibration 2  Faltbare Kopfhörer  bequemes Design  Geräuschisolierung  Premium Sound 50mm Treiber  Mikrofon  gewebte Kabel  nachhaltige Materialen  silver'
+slug: 'B06XWGTK6D-de House of Marley Positive Vibration 2 Faltbare Kopfhörer...'
+tags: 
 actualPrice: 28.8 EUR
 currency: EUR
 price: 28.8

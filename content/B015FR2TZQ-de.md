@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P6YYSuSZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015FR2TZQ-de Tassimo Kapseln Jacobs Typ Latte Macchiato Classico  40 Kaffeekapseln  5er Pack  5 x 8 Getränke'
+slug: 'B015FR2TZQ-de Tassimo Kapseln Jacobs Typ Latte Macchiato Classico 40...'
+tags: 
 actualPrice: 16.93 EUR
 currency: EUR
 price: 16.93

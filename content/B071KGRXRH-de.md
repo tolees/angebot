@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TMMTF5Q+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071KGRXRH-de SanDisk Ultra 3D SSD 250GB  geeignet für lesen mit bis zu 550 MB/Sek.  schreiben mit bis zu 525 MB/Sek. '
+slug: 'B071KGRXRH-de SanDisk Ultra 3D SSD 250GB geeignet für lesen mit bis zu...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

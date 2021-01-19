@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kNuSIRkIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AWGDDC8-de Brother ADS-3600W  Dokumentenscanner mit LAN und WLAN  schwarz'
+slug: 'B01AWGDDC8-de Brother ADS-3600W Dokumentenscanner mit LAN und WLAN schwarz'
+tags: 
 actualPrice: 489.0 EUR
 currency: EUR
 price: 489.0

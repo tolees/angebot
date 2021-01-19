@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Keo5hTsuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9RJ1LL-de Aigostar Handrührer Klein Edelstahl Quir 6 Geschwindigkeitsstufen Turbofunktion'
+slug: 'B07L9RJ1LL-de Aigostar Handrührer Klein Edelstahl Quir 6...'
+tags: 
 actualPrice: 18.39 EUR
 currency: EUR
 price: 18.39

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4100Ui4Z+LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M0X50CZ-de Mpow Bluetooth Headset  Wireless Headset Auto  Stereo Sound  cVc 6.0 Freisprechen Headset mit Mikrofon  Bluetooth Headset in Ear für Handys/Telefon / Tablet/PC  Business usw.  Schwarz '
+slug: 'B01M0X50CZ-de Mpow Bluetooth Headset Wireless Headset Auto Stereo Sound...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

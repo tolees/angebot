@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L62Cmuh8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012TATO0K-de Archos Hello 10 Home Assistent  10 1“ HD Display  16 GB Speicher  vollwertiges Android 8 Tablet  kraftvoller Sound  eingebauter Akku  Smart Home Steuerung'
+slug: 'B012TATO0K-de Archos Hello 10 Home Assistent 10 1“ HD Display 16 GB...'
+tags: 
 actualPrice: 157.34 EUR
 currency: EUR
 price: 157.34

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uIn7r9PrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPFJ7NB-de Funko 44515 POP TV: Umbrella Academy-Ben Hargreeves Collectible Figure  Multicolour'
+slug: 'B07SPFJ7NB-de Funko 44515 POP TV: Umbrella Academy-Ben Hargreeves...'
+tags: 
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

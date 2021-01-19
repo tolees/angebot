@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Pj4bB19wL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018QYP3OY-de Xoro HRK 7660 HD Receiver für digitales Kabelfernsehen  HDMI  SCART  USB 2.0  LAN  PVR Ready  Mediaplayer  schwarz'
+slug: 'B018QYP3OY-de Xoro HRK 7660 HD Receiver für digitales Kabelfernsehen...'
+tags: 
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

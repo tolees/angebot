@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rY-TRkzrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHDDDHJ-de HUAWEI P20 Pro Smartphone  15 5 cm  6 1 Zoll   40/20/8 MP Leica Triple Kamera  128GB interner Speicher  6GB RAM  Android 8.1  EMUI 8.1  Twilight'
+slug: 'B07BHDDDHJ-de HUAWEI P20 Pro Smartphone 15 5 cm 6 1 Zoll 40/20/8 MP...'
+tags: 
 actualPrice: 526.25 EUR
 currency: EUR
 price: 526.25

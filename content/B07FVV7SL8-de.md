@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/416SW07PqbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FVV7SL8-de Laser Entfernungsmesser Distanz 50M LOMVUM Laser Messgerät Entfernung Messen Sie Entfernung  Fläche und Volumen Pythagoras'
+slug: 'B07FVV7SL8-de Laser Entfernungsmesser Distanz 50M LOMVUM Laser Messgerät...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

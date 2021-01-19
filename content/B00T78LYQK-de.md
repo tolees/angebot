@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+zarF7qoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00T78LYQK-de Leibniz Pick Up Choco  100 Stück   1er Pack  1 x 2.8 kg '
+slug: 'B00T78LYQK-de Leibniz Pick Up Choco 100 Stück 1er Pack 1 x 2.8 kg'
+tags: 
 actualPrice: 31.39 EUR
 currency: EUR
 price: 31.39

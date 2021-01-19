@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bStHQxhGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019EVY9WU-de Mobicool FR40  elektrische Kompressor-Kühlbox mit 38 Liter Fassungsvermögen  12/24 V und 230 V für Auto  Lkw  Boot und Steckdose'
+slug: 'B019EVY9WU-de Mobicool FR40 elektrische Kompressor-Kühlbox mit 38 Liter...'
+tags: 
 actualPrice: 258.81 EUR
 currency: EUR
 price: 258.81

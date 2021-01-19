@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JC0zn3FTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081GY96BR-de Susan Y muttertagsgeschenke ideen ohrringe silber 925 perlen ohrringe damen antibakteriell schmuck damen geschenke für frauen schmuckkästchen damen weihnachtgeschenke für frauen personalisierter'
+slug: 'B081GY96BR-de Susan Y muttertagsgeschenke ideen ohrringe silber 925...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

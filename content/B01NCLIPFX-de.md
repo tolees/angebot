@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315G4EPGNyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCLIPFX-de Thule Subterra Rolling Duffel 75L Reisetrolley  mit zwei großen seperaten Fächern  Dark Shadow'
+slug: 'B01NCLIPFX-de Thule Subterra Rolling Duffel 75L Reisetrolley mit zwei...'
+tags: 
 actualPrice: 246.41 EUR
 currency: EUR
 price: 246.41

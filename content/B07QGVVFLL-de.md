@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sy4S7nkUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QGVVFLL-de Küchenarmatur  Dalmo Wasserhahn Küche  Einhand-Spültischbatterie mit herausziehbarer Spülbrause chrom  Schwenkbereich 360° & Drei Spülbrause  100% Blei- und Nickelfrei Küchen- Spültischarmatur '
+slug: 'B07QGVVFLL-de Küchenarmatur Dalmo Wasserhahn Küche Einhand-...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

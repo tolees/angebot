@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kchTJunzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NH13DV2-de AmazonBasics USB 2.0-Druckerkabel A-Stecker auf B-Stecker  3 m'
+slug: 'B00NH13DV2-de AmazonBasics USB 2.0-Druckerkabel A-Stecker auf B-Stecker 3 m'
+tags: 
 actualPrice: 5.39 EUR
 currency: EUR
 price: 5.39

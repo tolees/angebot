@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UxKi1ta9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MX0IX9A-de FUXTEC Benzin Motorsense FX-MS152 mit 52 cc  2in1 Multitool  Profi-Tragegurt und 3 PS Leistung Trimmer Rasentrimmer Freischneider fs Faden 2-Takt  getestet in der Oberklasse mit Note 1 4 Easy Starter'
+slug: 'B00MX0IX9A-de FUXTEC Benzin Motorsense FX-MS152 mit 52 cc 2in1 Multitool...'
+tags: 
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

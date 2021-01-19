@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51T8kbx6v9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWJF66Y-de LIGHTAILING Licht-Set Für  Creator Pariser Restaurant  Modell - LED Licht-Set Kompatibel Mit Lego 10243 Modell Nicht Enthalten '
+slug: 'B07KWJF66Y-de LIGHTAILING Licht-Set Für Creator Pariser Restaurant...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

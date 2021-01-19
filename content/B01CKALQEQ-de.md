@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XYDCObzLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CKALQEQ-de Dickie Toys City Train  Zug  Spielzeugzug  Bahn  Türen und Dach zum Öffnen  Interieur  Maßstab: 1:43  45 cm  ab 3 Jahren'
+slug: 'B01CKALQEQ-de Dickie Toys City Train Zug Spielzeugzug Bahn Türen und...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

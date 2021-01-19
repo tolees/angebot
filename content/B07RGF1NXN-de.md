@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lnZlqzpwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGF1NXN-de Hängekorb Metall  Hängekorb Regal  Regal Ablagekorb Schrankkorb Regaleinhängekorb Unter Schrank Lagerung Aufbewahrungs-Korb für Küchenschränke Küche Speisekammer Kleiderschränke 2 Stück'
+slug: 'B07RGF1NXN-de Hängekorb Metall Hängekorb Regal Regal Ablagekorb...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

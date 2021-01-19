@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fEVPvzPAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4PCTPK-de Tommy Hilfiger Herren Multi Zifferblatt Quarz Uhr mit Edelstahl Armband 1791534'
+slug: 'B07G4PCTPK-de Tommy Hilfiger Herren Multi Zifferblatt Quarz Uhr mit...'
+tags: 
 actualPrice: 117.37 EUR
 currency: EUR
 price: 117.37

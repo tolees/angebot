@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/514%2B%2BADZ6iL._SL200_
 comments: true
 category: ofertas
 author: ring
-slug: 'B014VZDC5O-de Corsair Strafe RGB Mechanische Gaming Tastatur  Cherry MX Silent: Leichtgängig und Flüsterleise  Multi-Color RGB Beleuchtung  QWERTZ  schwarz'
+slug: 'B014VZDC5O-de Corsair Strafe RGB Mechanische Gaming Tastatur Cherry MX...'
+tags: 
 actualPrice: 136.99 EUR
 currency: EUR
 price: 136.99

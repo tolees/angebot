@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JpHYwxmlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JXF7CMM-de LEABAGS Cambridge Umhängetasche Schultertasche Laptoptasche 15 Zoll aus Echtleder   LxBxH  ca. 38 x 10 x 31 cm - Schwarz'
+slug: 'B00JXF7CMM-de LEABAGS Cambridge Umhängetasche Schultertasche...'
+tags: 
 actualPrice: 106.68 EUR
 currency: EUR
 price: 106.68

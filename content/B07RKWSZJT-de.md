@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A9nUQKMFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RKWSZJT-de Tommy Hilfiger Herren Arlos Bomber Sportjacke  Blau  Blue Dw5   Small'
+slug: 'B07RKWSZJT-de Tommy Hilfiger Herren Arlos Bomber Sportjacke Blau Blue...'
+tags: 
 actualPrice: 83.02 EUR
 currency: EUR
 price: 83.02

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41A9cWTqiWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0020HRRAC-de Craft Weste Visibility Vest Warnweste  neon  XL'
+slug: 'B0020HRRAC-de Craft Weste Visibility Vest Warnweste neon XL'
+tags: 
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

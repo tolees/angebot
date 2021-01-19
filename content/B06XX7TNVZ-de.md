@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jhMPx-3HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XX7TNVZ-de Premium Messerschärfer Schleifstein Körnung 1000/6000. Großer 210 x 70 mm Dual-Wetzstein. Komplett Schleifstein Messer Steinset mit Rutschfester Base und Läppstein. Beste für Küchen- und Sushi-Messer'
+slug: 'B06XX7TNVZ-de Premium Messerschärfer Schleifstein Körnung 1000/6000....'
+tags: 
 actualPrice: 27.97 EUR
 currency: EUR
 price: 27.97

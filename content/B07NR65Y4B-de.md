@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41viZVcGn4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NR65Y4B-de Dickie Toys 203714013 VW Tiguan R-Line  Polizeiwagen mit Licht & Sound  Polizeiauto  Polizei  inkl. Batterien  25 cm  ab 3 Jahren  Mehrfarbig'
+slug: 'B07NR65Y4B-de Dickie Toys 203714013 VW Tiguan R-Line Polizeiwagen mit...'
+tags: 
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

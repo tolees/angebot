@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KwSgY8VfL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0761QL7YG-de Acer P5530 DLP Projektor  Full HD 1.920 x 1.080  4.000 ANSI Lumen  Kontrast 20.000:1  3D '
+slug: 'B0761QL7YG-de Acer P5530 DLP Projektor Full HD 1.920 x 1.080 4.000 ANSI...'
+tags: 
 actualPrice: 350.0 EUR
 currency: EUR
 price: 350.0

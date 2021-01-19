@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417alv-FsbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QCQ925H-de Funko 40879 POP Vinyl Animation: Disenchantment-King Zog Sammelbares Spielzeug  Mehrfarben'
+slug: 'B07QCQ925H-de Funko 40879 POP Vinyl Animation: Disenchantment-King Zog...'
+tags: 
 actualPrice: 9.08 EUR
 currency: EUR
 price: 9.08

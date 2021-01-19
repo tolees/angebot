@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s3SLPGDnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079CBP5N8-de JACK & JONES Herren JJECORP Logo Tee SS Crew Neck NOOS T-Shirt  Schwarz  Black Detail: Slim Fit   Large'
+slug: 'B079CBP5N8-de JACK & JONES Herren JJECORP Logo Tee SS Crew Neck NOOS...'
+tags: 
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418n2374sDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C7A3W7S-de Sigma Mount Converter MC-11 für Global Vision Produkte mit Canon Objektivbajonett für Sony E-Mount-Kameras'
+slug: 'B01C7A3W7S-de Sigma Mount Converter MC-11 für Global Vision Produkte mit...'
+tags: 
 actualPrice: 225.99 EUR
 currency: EUR
 price: 225.99

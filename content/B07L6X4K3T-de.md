@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yHBRKPT5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6X4K3T-de Black+Decker Akku-Handstaubsauger Dustbuster  3.6V Lithium  Handsauger beutellos + kabellos  breite Saugöffnung  Abnehmbarer Staubfangbehälter  inkl. Ladekabel  NVC115JL'
+slug: 'B07L6X4K3T-de Black+Decker Akku-Handstaubsauger Dustbuster 3.6V Lithium...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

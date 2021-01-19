@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41oFen%2BXpnL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M15QSA8-de Original Einhell Starter Kit Akku und Ladegerät Power X-Change  Lithium Ionen  18 V  3 0 Ah Akku und Schnellladegerät  passend für alle Power X-Change Geräte '
+slug: 'B01M15QSA8-de Original Einhell Starter Kit Akku und Ladegerät Power...'
+tags: 
 actualPrice: 34 EUR
 currency: EUR
 price: 34

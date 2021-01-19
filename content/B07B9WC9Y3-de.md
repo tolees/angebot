@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OHhB58qRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9WC9Y3-de SAGE SCG600 the Dose Control Kaffeemühle für Press- oder Filterkaffee  Silber'
+slug: 'B07B9WC9Y3-de SAGE SCG600 the Dose Control Kaffeemühle für Press- oder...'
+tags: 
 actualPrice: 134.99 EUR
 currency: EUR
 price: 134.99

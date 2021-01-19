@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lwjc47-LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082QFMK48-de Predator XB273GXbmiiprzx Gaming G-SYNC Compatible 27 Zoll IPS FHD Display  1920x1080  240Hz 400 cd/m2  Fast LC 1ms  G2G   0.1ms  G2G Min.   HDMI 1.4   DP  USB 3.0  integrierte Lautsprecher  ZeroFrame'
+slug: 'B082QFMK48-de Predator XB273GXbmiiprzx Gaming G-SYNC Compatible 27 Zoll...'
+tags: 
 actualPrice: 319.2 EUR
 currency: EUR
 price: 319.2

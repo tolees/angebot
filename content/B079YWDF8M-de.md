@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IZ9lZ+1yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079YWDF8M-de Steiff AFFE Brownie - 30 cm - Plüschaffe mit Langen Armen - Soft Cuddly Friends - Kuscheltier für Kinder - beweglich & waschbar - braun  060304 '
+slug: 'B079YWDF8M-de Steiff AFFE Brownie - 30 cm - Plüschaffe mit Langen Armen...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513bespKpbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPPMZM8-de Nene Toys - Pädagogisches Kinderspiel ab 3 Jahre - Wackelturm 4 in 1 aus Holz mit Farben und Tieren - Spielzeug für Mädchen und Jungs von 3 bis 9 Jahren - Stapelturm Holz Brettspiel'
+slug: 'B07NPPMZM8-de Nene Toys - Pädagogisches Kinderspiel ab 3 Jahre -...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

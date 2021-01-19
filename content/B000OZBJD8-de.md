@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OItPZjUoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000OZBJD8-de Park Tool Mini-Faltwerkzeug IB-2 I-Beam  4000849'
+slug: 'B000OZBJD8-de Park Tool Mini-Faltwerkzeug IB-2 I-Beam 4000849'
+tags: 
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

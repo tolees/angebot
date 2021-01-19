@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3179Pl-TRFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W586CDZ-de TP-Link Kasa Amazon Alexa zubehör Smart Home WLAN Steckdose HS100  EU  funktionieren mit Echo und Echo Dot  Google Home und IFTTT  Fernzugriff  Zeitpläne  Kein Hub erforderlich  Kasa App '
+slug: 'B06W586CDZ-de TP-Link Kasa Amazon Alexa zubehör Smart Home WLAN...'
+tags: 
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

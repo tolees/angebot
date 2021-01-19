@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Jgc2Of+xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DCJ4BH6-de ORICO M.2 NGFF SSD Externes Gehäuse USB 3.1 auf M.2 SATA Adapter für 2230/2242/2260/2280 B-Key und M+B-Key M.2 SATA SSDs  5Gpbs mit UASP'
+slug: 'B08DCJ4BH6-de ORICO M.2 NGFF SSD Externes Gehäuse USB 3.1 auf M.2 SATA...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51U4xX2hq5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1ZTZ9D-de Noris 606071825 Tiere&Natur Spaß am Lernen Tiere und Natur  Lernspiel  violett'
+slug: 'B07N1ZTZ9D-de Noris 606071825 Tiere&Natur Spaß am Lernen Tiere und Natur...'
+tags: 
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

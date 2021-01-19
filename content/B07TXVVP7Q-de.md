@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CKCnv+sCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXVVP7Q-de BRIKSMAX Led Beleuchtungsset für Lego City Personenzug Spielzeugeisenbahn  Kompatibel Mit Lego 60197 Bausteinen Modell - Ohne Lego Set'
+slug: 'B07TXVVP7Q-de BRIKSMAX Led Beleuchtungsset für Lego City Personenzug...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

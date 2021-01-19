@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41a3G0VVBvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPT1H46-de Funko 37707 POP & Buddy Vinyl Men In Black Agent K & Neeble Sammelbares Spielzeug  Mehrfarben'
+slug: 'B07KPT1H46-de Funko 37707 POP & Buddy Vinyl Men In Black Agent K &...'
+tags: 
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

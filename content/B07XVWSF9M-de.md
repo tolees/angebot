@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318PJtygs3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XVWSF9M-de Microsoft Surface Laptop 3  15 Zoll Laptop  AMD Ryzen 5 3580U  8GB RAM  256GB SSD  Win 10 Home  Platin'
+slug: 'B07XVWSF9M-de Microsoft Surface Laptop 3 15 Zoll Laptop AMD Ryzen 5...'
+tags: 
 actualPrice: 1269.0 EUR
 currency: EUR
 price: 1269.0

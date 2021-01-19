@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MuZb5xrsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGHHVS8-de PUMA Damen Carina L Niedrig  Weiß White-White-Silver  39 EU'
+slug: 'B07JGHHVS8-de PUMA Damen Carina L Niedrig Weiß White-White-Silver 39 EU'
+tags: 
 actualPrice: 41.34 EUR
 currency: EUR
 price: 41.34

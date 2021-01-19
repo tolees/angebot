@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21bDx7OV+TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JD35YS6-de Huawei Wireless Charger Supercharge mit Adapter CP60  Kabellose Ladestation passend für Mate 20 Pro'
+slug: 'B07JD35YS6-de Huawei Wireless Charger Supercharge mit Adapter CP60...'
+tags: 
 actualPrice: 34.66 EUR
 currency: EUR
 price: 34.66

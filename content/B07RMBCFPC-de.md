@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31a4G2HI88L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RMBCFPC-de Funko 44823 POP TV: Game of Thrones-Crystal Night King w/Dagger in Chest Sammelbares Spielzeug  Mehrfarben'
+slug: 'B07RMBCFPC-de Funko 44823 POP TV: Game of Thrones-Crystal Night King...'
+tags: 
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

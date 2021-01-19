@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YUudbvNuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074DXGP9C-de WD My Cloud Home Duo 16 TB Persönlicher Cloudspeicher - externe Festplatte 2-Bay - WLAN  USB 3.0. Backup  Videostreaming - WDBMUT0160JWT-EESN'
+slug: 'B074DXGP9C-de WD My Cloud Home Duo 16 TB Persönlicher Cloudspeicher -...'
+tags: 
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gDETmwilL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EJAJY3K-de Märklin Start up 29641 - Startpackung "Moderner Nahverkehr". 230 Volt  DB AG  Spur  H0'
+slug: 'B01EJAJY3K-de Märklin Start up 29641 - Startpackung "Moderner...'
+tags: 
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

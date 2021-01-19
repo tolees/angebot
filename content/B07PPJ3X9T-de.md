@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21vRcT14inL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPJ3X9T-de Samsung Harman/kardon 5.1-Kanal Soundbar HW-Q60R  integrierter Subwoofer  Bluetooth  Surround Ready - Kompatibel mit SWA-8500S  Game Mode Pro  Kohlschwarz'
+slug: 'B07PPJ3X9T-de Samsung Harman/kardon 5.1-Kanal Soundbar HW-Q60R...'
+tags: 
 actualPrice: 365.0 EUR
 currency: EUR
 price: 365.0

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31tbkgIYvUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F91HXL8-de MSI PS42 8RB-073 Prestige Ultra Slim - Intel i7-8550U 1 80GHz  Win 10 '
+slug: 'B07F91HXL8-de MSI PS42 8RB-073 Prestige Ultra Slim - Intel i7-8550U 1...'
+tags: 
 actualPrice: 460 EUR
 currency: EUR
 price: 460

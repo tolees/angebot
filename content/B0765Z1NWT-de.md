@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+UBoWDkjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0765Z1NWT-de JBL E65BTNC Over Ear Bluetooth Kopfhörer - Active Noise Cancelling Headphones mit JBL Signature Sound - Musikgenuss für bis zu 24 Stunden Weiß'
+slug: 'B0765Z1NWT-de JBL E65BTNC Over Ear Bluetooth Kopfhörer - Active Noise...'
+tags: 
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

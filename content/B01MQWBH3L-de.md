@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318bTXuKHlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQWBH3L-de SHEKO Diät Shake Vanille | 25 Portionen Protein Pulver Vanille | Diät Shakes zum Abnehmen | Leckerer Mahlzeitenersatz Shake Abnehmen Männer'
+slug: 'B01MQWBH3L-de SHEKO Diät Shake Vanille | 25 Portionen Protein Pulver...'
+tags: 
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

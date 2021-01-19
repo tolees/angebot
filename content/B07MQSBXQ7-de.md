@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Yfh9P8EYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQSBXQ7-de kingromargo Herramienta precisa de reparación de retrabajo de soldadura SMD de alambre de soldadura DE 0.3 mm'
+slug: 'B07MQSBXQ7-de kingromargo Herramienta precisa de reparación de retrabajo...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

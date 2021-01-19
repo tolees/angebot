@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41US5WzOLrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004QOKYCU-de Yankee Candle Duftkerze im großen Jar  Cinnamon Stick  Brenndauer bis zu 150 Stunden'
+slug: 'B004QOKYCU-de Yankee Candle Duftkerze im großen Jar Cinnamon Stick...'
+tags: 
 actualPrice: 14.45 EUR
 currency: EUR
 price: 14.45

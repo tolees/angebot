@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z9JsuoFpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AWN106W-de Kitchen Craft LOVELLO Brotkasten  42 x 22 x 18 cm – Schwarz'
+slug: 'B01AWN106W-de Kitchen Craft LOVELLO Brotkasten 42 x 22 x 18 cm – Schwarz'
+tags: 
 actualPrice: 52.83 EUR
 currency: EUR
 price: 52.83

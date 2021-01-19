@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jw6M0UmmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000MWVQK4-de Speedo Herren Badehose Essential Endurance Plus Schwimmhose  Black  7'
+slug: 'B000MWVQK4-de Speedo Herren Badehose Essential Endurance Plus...'
+tags: 
 actualPrice: 18.35 EUR
 currency: EUR
 price: 18.35

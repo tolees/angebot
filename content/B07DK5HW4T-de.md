@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51h-PZgN33L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DK5HW4T-de ✮ Barber Tools ✮ Rasiermesser mit austauschbarer Klingen. Mit 5 Rasierklingen  10 einfache Klingen  + Poliertuch + Hämostase-Stick 10g + Lagerung Pu + Hämostatischer Stick'
+slug: 'B07DK5HW4T-de ✮ Barber Tools ✮ Rasiermesser mit austauschbarer Klingen....'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

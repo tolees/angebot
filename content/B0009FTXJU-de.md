@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31POXFEMExL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0009FTXJU-de Canon EW-73 B Gegenlichtblende für Canon Objektiv EF-S 17-85mm'
+slug: 'B0009FTXJU-de Canon EW-73 B Gegenlichtblende für Canon Objektiv EF-S...'
+tags: 
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

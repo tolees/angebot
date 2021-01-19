@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51U2ekqOKaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SZ6SJ19-de kindergeburtstag gastgeschenke 20 LED Fingerlampe Mitbringsel Fingerring Leuchtringe Fingerlichter Ring für Finger Mitgebsel Gastgeschenke Kindergeburtstag Geburtstag Kinder Giveaways Jungen Mädchen'
+slug: 'B07SZ6SJ19-de kindergeburtstag gastgeschenke 20 LED Fingerlampe...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

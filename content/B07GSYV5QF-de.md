@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+GttHISYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSYV5QF-de BRÜSTE MEMO - In diesem Trinkspiel warten die Paare darauf entdeckt zu werden - Scherzartikel'
+slug: 'B07GSYV5QF-de BRÜSTE MEMO - In diesem Trinkspiel warten die Paare darauf...'
+tags: 
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

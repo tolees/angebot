@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515R0fecuyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6FJ41T-de Playmobil 70204 City Life Motorradtour  ab 4 Jahren  bunt  one Size'
+slug: 'B07P6FJ41T-de Playmobil 70204 City Life Motorradtour ab 4 Jahren bunt...'
+tags: 
 actualPrice: 7.62 EUR
 currency: EUR
 price: 7.62

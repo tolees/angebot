@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0147DFUCS-de Mighty No.9 - Ray-Edition'
+tags: 
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

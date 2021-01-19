@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nsEL61+zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XL95ZZM-de Apple iPhone 11 Pro Max  256 GB  - Space Grau'
+slug: 'B07XL95ZZM-de Apple iPhone 11 Pro Max 256 GB - Space Grau'
+tags: 
 actualPrice: 1111.0 EUR
 currency: EUR
 price: 1111.0

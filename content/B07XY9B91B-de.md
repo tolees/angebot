@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419EiQ7nH7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XY9B91B-de OnePlus 8  5G  Smartphone ohne Vertrag  8GB + 128GB Speicher  6.55" AMOLED 90Hz Display  4300 mAh Akku  Dreifach-Kamera  Dual-Sim - Grün'
+slug: 'B07XY9B91B-de OnePlus 8 5G Smartphone ohne Vertrag 8GB + 128GB Speicher...'
+tags: 
 actualPrice: 467.65 EUR
 currency: EUR
 price: 467.65

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ag6+OieDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWNX9R7-de BRIKSMAX Technic Porsche 911 GT3 RS Led Beleuchtungsset - Kompatibel Mit Lego 42056 Bausteinen Modell - Ohne Lego Set'
+slug: 'B07KWNX9R7-de BRIKSMAX Technic Porsche 911 GT3 RS Led Beleuchtungsset -...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

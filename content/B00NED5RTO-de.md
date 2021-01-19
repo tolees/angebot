@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OSQ8pkrGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NED5RTO-de Olympus M.Zuiko Digital ED 40-150mm 1:2.8 Pro Objektiv  inkl. MC 1.4 Telekonverter  für MFT Objektivbajonett  schwarz'
+slug: 'B00NED5RTO-de Olympus M.Zuiko Digital ED 40-150mm 1:2.8 Pro Objektiv...'
+tags: 
 actualPrice: 700.0 EUR
 currency: EUR
 price: 700.0

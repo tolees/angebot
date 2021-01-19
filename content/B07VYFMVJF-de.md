@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bTu78wuxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VYFMVJF-de Hasbro Disney Die Eiskönigin Feuergeist mit Schnee-Snack  Salamander Spielzeug mit Licht  inspiriert vom Disney Film Die Eiskönigin 2'
+slug: 'B07VYFMVJF-de Hasbro Disney Die Eiskönigin Feuergeist mit Schnee-Snack...'
+tags: 
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dRwQYaKZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083FSD57Q-de BRIKSMAX Led Beleuchtungsset für Lego City Mars Forschungsshuttle Kompatibel Mit Lego 60226 Bausteinen Modell - Ohne Lego Set'
+slug: 'B083FSD57Q-de BRIKSMAX Led Beleuchtungsset für Lego City Mars...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

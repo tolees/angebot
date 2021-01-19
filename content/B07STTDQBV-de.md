@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Z0Su4oVWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STTDQBV-de s.Oliver Mädchen 66.908.32.5702 T-Shirt  Beige  Ecru 0210   164  Herstellergröße: L/REG '
+slug: 'B07STTDQBV-de s.Oliver Mädchen 66.908.32.5702 T-Shirt Beige Ecru 0210...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

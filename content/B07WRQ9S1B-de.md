@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vlM1z4CiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRQ9S1B-de TP-Link TL-PA7017KIT AV1000 Gigabit Powerline Adapter  1x Gigabit Port  Plug und Play  energiesparend  kompatibel zu allen gängigen Powerline Adaptern  weiß'
+slug: 'B07WRQ9S1B-de TP-Link TL-PA7017KIT AV1000 Gigabit Powerline Adapter 1x...'
+tags: 
 actualPrice: 37.9 EUR
 currency: EUR
 price: 37.9

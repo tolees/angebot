@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BYH4XiwAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077KLG8QB-de Garmin Vivomove HR Sport Fitness-Tracker  Rosegold  M'
+slug: 'B077KLG8QB-de Garmin Vivomove HR Sport Fitness-Tracker Rosegold M'
+tags: 
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

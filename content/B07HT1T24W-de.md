@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Jv9lPgowL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HT1T24W-de RAMPOW  Kfz Ladegerät  Auto Ladegerät  Zigarettenanzünder USB Ladegerät  24 W / 4 8A 2-Port USB Auto Ladegerät kompatibel für Samsung Galaxy Note 8  Huawei P9 und mehr'
+slug: 'B07HT1T24W-de RAMPOW Kfz Ladegerät Auto Ladegerät Zigarettenanzünder USB...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

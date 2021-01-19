@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61yITpC+dVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLRX3CV-de PLAYMOBIL Family Fun 70091 Sportboot mit Fun-Reifen  Ab 4 Jahren'
+slug: 'B07JLRX3CV-de PLAYMOBIL Family Fun 70091 Sportboot mit Fun-Reifen Ab 4...'
+tags: 
 actualPrice: 13.77 EUR
 currency: EUR
 price: 13.77

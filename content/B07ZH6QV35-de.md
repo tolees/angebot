@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41woFVNLLJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZH6QV35-de Furnoor Holzwürfel  10pcs 25mm Naturholz Quadrat Blocks Cubes Holzhandwerk Accessary für Puzzle Making Crafts DIY-Projekte'
+slug: 'B07ZH6QV35-de Furnoor Holzwürfel 10pcs 25mm Naturholz Quadrat Blocks...'
+tags: 
 actualPrice: 5.19 EUR
 currency: EUR
 price: 5.19

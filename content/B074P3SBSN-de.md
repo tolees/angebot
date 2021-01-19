@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Fg4XZkhIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074P3SBSN-de uvex Unisex – Erwachsene  i-vo 3D Fahrradhelm  white  52-57 cm'
+slug: 'B074P3SBSN-de uvex Unisex – Erwachsene i-vo 3D Fahrradhelm white 52-57 cm'
+tags: 
 actualPrice: 38.2 EUR
 currency: EUR
 price: 38.2

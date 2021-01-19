@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yPzHRNNqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S68CKNP-de Coredy R600 Saugroboter mit Boost Intellect  1600Pa Saugkraft  7 2cm Superschlank  Leise  Automatischer Staubsauger Roboter mit Ladestation  für Haustierbesitzer  Reinigt Hartböden und Tierhaare'
+slug: 'B07S68CKNP-de Coredy R600 Saugroboter mit Boost Intellect 1600Pa...'
+tags: 
 actualPrice: 151.99 EUR
 currency: EUR
 price: 151.99

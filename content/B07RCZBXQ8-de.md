@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m4EO4ZEdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCZBXQ8-de G-STAR RAW Herren 3301 Straight Jeans  Antic Charcoal B479-A800  44W / 36L'
+slug: 'B07RCZBXQ8-de G-STAR RAW Herren 3301 Straight Jeans Antic Charcoal...'
+tags: 
 actualPrice: 33.23 EUR
 currency: EUR
 price: 33.23

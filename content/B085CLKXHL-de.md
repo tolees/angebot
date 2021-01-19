@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fIhIQZDwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085CLKXHL-de PUMA Sportsocken Crew 18 Paar Pack Statement Edition - Damen und Herren - grey-white-black - Gr. 39-42'
+slug: 'B085CLKXHL-de PUMA Sportsocken Crew 18 Paar Pack Statement Edition -...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

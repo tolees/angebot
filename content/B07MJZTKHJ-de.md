@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RY+0CaWeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJZTKHJ-de 1More E1026BT Stylish True Wireless In-Ear Headphones  Black'
+slug: 'B07MJZTKHJ-de 1More E1026BT Stylish True Wireless In-Ear Headphones Black'
+tags: 
 actualPrice: 59.09 EUR
 currency: EUR
 price: 59.09

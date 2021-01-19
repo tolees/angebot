@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vRz4Jj35L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Y4XUTA0-de Lacoste Herren Poloshirt  Schwarz  Noir   X-Small  Herstellergröße: 2 '
+slug: 'B00Y4XUTA0-de Lacoste Herren Poloshirt Schwarz Noir X-Small...'
+tags: 
 actualPrice: 54.45 EUR
 currency: EUR
 price: 54.45

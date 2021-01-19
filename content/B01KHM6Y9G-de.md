@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DYC8nUIGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KHM6Y9G-de tegut... Gurken Cornichons  300 g'
+slug: 'B01KHM6Y9G-de tegut... Gurken Cornichons 300 g'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

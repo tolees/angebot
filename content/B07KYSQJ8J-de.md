@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gTH0HldML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KYSQJ8J-de OBEEII Kinder Festliche Kleider Mädchen Einhorn Kostüm Karneval Weihnachten Allerheilige Geburtstag Geschenk Baby Kinder Prinzessin Kleid 2-3 Jahre'
+slug: 'B07KYSQJ8J-de OBEEII Kinder Festliche Kleider Mädchen Einhorn Kostüm...'
+tags: 
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

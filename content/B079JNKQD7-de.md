@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3149N9T28BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079JNKQD7-de Le Creuset Signature Gusseisen-Bräter mit Deckel  Ø 26 cm  La Marmite  Rund  Für alle Herdarten und Induktion geeignet  Volumen: 4 1 l  Schwarz'
+slug: 'B079JNKQD7-de Le Creuset Signature Gusseisen-Bräter mit Deckel Ø 26 cm...'
+tags: 
 actualPrice: 180.69 EUR
 currency: EUR
 price: 180.69

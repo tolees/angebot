@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FX2X0eMNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B1MGGYY-de Xiaomi Mi Band 5 - Smart Fitness Bracelet Black  XMSH10HM'
+slug: 'B08B1MGGYY-de Xiaomi Mi Band 5 - Smart Fitness Bracelet Black XMSH10HM'
+tags: 
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

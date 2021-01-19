@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41pZ5IWC8EL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L1XFVXQ-de Under Armour Herren Rival Fleece Sportstyle Logo Hoodie Oberteil  Schwarz  Large'
+slug: 'B07L1XFVXQ-de Under Armour Herren Rival Fleece Sportstyle Logo Hoodie...'
+tags: 
 actualPrice: 34.97 EUR
 currency: EUR
 price: 34.97

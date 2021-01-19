@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ejoS2ihZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L19P0YE-de TomTom Touch Wechselarmband - Himmelblau  Größe S  geeignet für alle TomTom Touch & TomTom Touch Cardio Modelle '
+slug: 'B01L19P0YE-de TomTom Touch Wechselarmband - Himmelblau Größe S geeignet...'
+tags: 
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

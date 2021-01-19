@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51XOLcezqRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TCPTBSY-de Fisher-Price GLM38 - Little People Frozen Elsas Eispalast mit Olaf inkl. Lichtern und Liedern  Deutsche Sprachversion   Kleinkind Spielzeug ab 18 Monaten'
+slug: 'B07TCPTBSY-de Fisher-Price GLM38 - Little People Frozen Elsas Eispalast...'
+tags: 
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

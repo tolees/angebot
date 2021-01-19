@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WSG+Zfu3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MXR6WUA-de Cellular Line TEMPGLASSIPH647 Displayschutzglas für Apple iPhone 6'
+slug: 'B00MXR6WUA-de Cellular Line TEMPGLASSIPH647 Displayschutzglas für Apple...'
+tags: 
 actualPrice: 6.21 EUR
 currency: EUR
 price: 6.21

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+70bh0MNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083NHDMKM-de Bluetooth Kopfhörer In Ear Kopfhörer Kabellos mit 125 Stunden Spielzeit  Wireless Kopfhörer Sport Ohrhörer IP7 Wasserdicht  Stereo Deep Bass Touch-Control  Stereoanrufe  Battery LED Display'
+slug: 'B083NHDMKM-de Bluetooth Kopfhörer In Ear Kopfhörer Kabellos mit 125...'
+tags: 
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

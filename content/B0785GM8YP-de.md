@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bEOJXe2AL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0785GM8YP-de Under Armour Herren Unstoppable Windbreaker Oberteil  Weiß  Small'
+slug: 'B0785GM8YP-de Under Armour Herren Unstoppable Windbreaker Oberteil Weiß...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

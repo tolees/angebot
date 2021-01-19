@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WSmjhn9ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PLV2BXR-de iMangoo USB C Audio Adapter Typ C auf 3 5 mm Kopfhöreranschluss Audio Stereo Konverterkabel Kompatibel mit Oppo Reno 2 Find X Oneplus 7T 7 6T Oneplus 7 Pro Huawei Mate 20 Pro Mate RS P30 Xiaomi 9'
+slug: 'B07PLV2BXR-de iMangoo USB C Audio Adapter Typ C auf 3 5 mm...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

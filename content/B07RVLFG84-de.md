@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PFhNJBTDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RVLFG84-de Funko 44821 POP TV: Game of Thrones-Theon w/Flaming Arrows  GW  Sammelbares Spielzeug  Mehrfarben'
+slug: 'B07RVLFG84-de Funko 44821 POP TV: Game of Thrones-Theon w/Flaming Arrows...'
+tags: 
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

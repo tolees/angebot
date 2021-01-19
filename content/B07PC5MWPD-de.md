@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ujc1iFxbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PC5MWPD-de RITUALS The Ritual of Samurai Classic Duschschaum   200 ml'
+slug: 'B07PC5MWPD-de RITUALS The Ritual of Samurai Classic Duschschaum 200 ml'
+tags: 
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

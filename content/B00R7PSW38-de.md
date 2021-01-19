@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RlsWV2IIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00R7PSW38-de Citizen Herren Analog Quarz Uhr mit Plastik Armband BN0150-10E'
+slug: 'B00R7PSW38-de Citizen Herren Analog Quarz Uhr mit Plastik Armband...'
+tags: 
 actualPrice: 156.86 EUR
 currency: EUR
 price: 156.86

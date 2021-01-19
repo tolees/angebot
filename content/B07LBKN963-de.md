@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414ThxrX54L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBKN963-de Tommy Hilfiger Damen TH Essential Regular Polo SS Poloshirt  Grau  Light Grey Htr 039   Large  Herstellergröße: L '
+slug: 'B07LBKN963-de Tommy Hilfiger Damen TH Essential Regular Polo SS...'
+tags: 
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

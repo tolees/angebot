@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51K2PsHqTuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y7XNLGF-de LED Unterbauleuchte Schrankleuchte Heller Lichtleiste mit Schalter LED-Küche unter Schrankbeleuchtung für Regale Vitrinen Küchenlampen 12V Adapter 1100 LM 2700K 2m warmweiß，Energieklasse A+，4er Set'
+slug: 'B07Y7XNLGF-de LED Unterbauleuchte Schrankleuchte Heller Lichtleiste mit...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

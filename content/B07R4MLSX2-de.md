@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jXK6e9IfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R4MLSX2-de ORICO Aluminium M.2 NVMe SSD Gehäuse  Ultraflacher M-Key für USB3.1 Gen2 Typ-C-Gehäuse mit 10 Gbit/s  Speicher bis zu 2 TB für Samsung 970 EVO / 970 Pro/Crucial P1 / WD Schwarz SN750  Dunkelgrau '
+slug: 'B07R4MLSX2-de ORICO Aluminium M.2 NVMe SSD Gehäuse Ultraflacher M-Key...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

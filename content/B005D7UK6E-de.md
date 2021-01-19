@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EgB6EjxmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005D7UK6E-de Bushmills Single Malt Irish Whiskey 10 Jahre  1 x 0.7 l '
+slug: 'B005D7UK6E-de Bushmills Single Malt Irish Whiskey 10 Jahre 1 x 0.7 l'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

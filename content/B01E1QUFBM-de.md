@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xk7zq6wHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E1QUFBM-de Samsung Galaxy S7 Smartphone  12 92 cm  5 1 Zoll  Touch-Display  32GB interner Speicher  Android OS  pink'
+slug: 'B01E1QUFBM-de Samsung Galaxy S7 Smartphone 12 92 cm 5 1 Zoll Touch-...'
+tags: 
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

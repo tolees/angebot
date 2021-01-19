@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RFfJJO5yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083ZQXC3S-de Dittzz Acryl Vitrine  Staubdicht Schaukasten Display Case für Lego 21320 Dinosaurier Fossilien  Ohne Lego-Modelle '
+slug: 'B083ZQXC3S-de Dittzz Acryl Vitrine Staubdicht Schaukasten Display Case...'
+tags: 
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

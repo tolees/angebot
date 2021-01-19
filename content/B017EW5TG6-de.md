@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c2VbMbWGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017EW5TG6-de ORICO Bluetooth 4.0 Adapter Highspeed  USB Bluetooth Dongle 4.0 für Desktop-PC Computer Notebook Schwarz'
+slug: 'B017EW5TG6-de ORICO Bluetooth 4.0 Adapter Highspeed USB Bluetooth Dongle...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

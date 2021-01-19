@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413rY8EM0oL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0198KU8PY-de Funko 024563 S1 No Actionfigur One Piece: Portgas D. Ace  Multi'
+slug: 'B0198KU8PY-de Funko 024563 S1 No Actionfigur One Piece: Portgas D. Ace...'
+tags: 
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

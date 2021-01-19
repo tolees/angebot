@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aWEK8PDfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBL5JXL-de Huawei P smart 2019 BUNDLE  Dual-Sim Smartphone  15 77 cm  6 21 Zoll   64GB interner Speicher  3GB RAM  Android 9.0  Aurora Blue + gratis 16 GB Speicherkarte [Exklusiv bei Amazon]'
+slug: 'B07LBL5JXL-de Huawei P smart 2019 BUNDLE Dual-Sim Smartphone 15 77 cm 6...'
+tags: 
 actualPrice: 134.9 EUR
 currency: EUR
 price: 134.9

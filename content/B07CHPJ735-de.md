@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PGynpoc-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CHPJ735-de Fnatic Streak Pro Gaming mechanische E-Sports Tastatur  Cherry MX Brown-Tasten  Multi-Color RGB Beleuchtung  Ergonomische Handgelenkstütze  Programmierbar  DE-Layout'
+slug: 'B07CHPJ735-de Fnatic Streak Pro Gaming mechanische E-Sports Tastatur...'
+tags: 
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

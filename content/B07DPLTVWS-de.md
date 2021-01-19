@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sq9ilSLxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DPLTVWS-de Kinder Musikinstrumenten Spielzeug Set - Smarkids Schlaginstrument Musikalisches Spielzeug für Kinder Vorschulunterricht Pädagogisches Spielzeug für Mädchen und Jungen mit kleinkind rucksack'
+slug: 'B07DPLTVWS-de Kinder Musikinstrumenten Spielzeug Set - Smarkids...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

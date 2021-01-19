@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nd45LaE6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KSQQ5SM-de BaByliss ST330E Glätteisen 2in1 Straight & Curl Intense Protect'
+slug: 'B00KSQQ5SM-de BaByliss ST330E Glätteisen 2in1 Straight & Curl Intense...'
+tags: 
 actualPrice: 23.97 EUR
 currency: EUR
 price: 23.97

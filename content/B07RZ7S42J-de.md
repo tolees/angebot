@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5102rYO89dL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZ7S42J-de BRIKSMAX Led Beleuchtungsset für Disney Mickey s Steamboat Willie  Kompatibel Mit Lego 21317 Bausteinen Modell - Ohne Lego Set'
+slug: 'B07RZ7S42J-de BRIKSMAX Led Beleuchtungsset für Disney Mickey s Steamboat...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

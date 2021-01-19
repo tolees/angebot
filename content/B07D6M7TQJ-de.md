@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PTx9-MMWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D6M7TQJ-de Vgo 3 Paare Arbeitshandschuhe  aus Spandex und Sythetikleder  Kunstleder mit extra Innenschaumschichtpalmen  Lager  Handwerk und Mechanikarbeit  Schwarz + Grün + Orange  9/L'
+slug: 'B07D6M7TQJ-de Vgo 3 Paare Arbeitshandschuhe aus Spandex und...'
+tags: 
 actualPrice: 10.82 EUR
 currency: EUR
 price: 10.82

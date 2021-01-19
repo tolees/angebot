@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IJjs7KzYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JLFKJTC-de Playmobil 70090 Family Fun Wassersport-Schule  bunt'
+slug: 'B07JLFKJTC-de Playmobil 70090 Family Fun Wassersport-Schule bunt'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

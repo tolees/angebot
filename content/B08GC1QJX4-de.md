@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sV+M9NR2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GC1QJX4-de JOYXEON Gummibänder Rund 120 pcs 6mm x 103mm  Gummikordel Nähen  Gummilitze Gummiband zum Basteln  Hochwertige Elastikkordel  für DIY Hutgummi Ärmel Kordeltasche  Handwerk'
+slug: 'B08GC1QJX4-de JOYXEON Gummibänder Rund 120 pcs 6mm x 103mm Gummikordel...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41i7e6IgV5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0001E3RHI-de Gardena Comfort Rückenspritzgerät 12 l: Drucksprühgerät zur Pflege von Pflanzen/Obstgehölzen  auch für Linkshänder  Teleskop-Sprühlanze  885-20 '
+slug: 'B0001E3RHI-de Gardena Comfort Rückenspritzgerät 12 l: Drucksprühgerät...'
+tags: 
 actualPrice: 79.45 EUR
 currency: EUR
 price: 79.45

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31x3upIg5GL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073QN71HB-de Notebook ES1-732 - 500GB SSD - 8GB RAM - Windows 10 PRO - 44cm  17.3 Zoll LED TFT  - Bluetooth'
+slug: 'B073QN71HB-de Notebook ES1-732 - 500GB SSD - 8GB RAM - Windows 10 PRO -...'
+tags: 
 actualPrice: 275.0 EUR
 currency: EUR
 price: 275.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SSSfpFwYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P2HSC7R-de Hasbro FURREAL Friends E7963EU4 furReal Topper  Mein Baby-Triceratops  interaktives Plüschtier  mehr als 35 Geräusch-und Bewegungskombinationen  Mehrfarbig'
+slug: 'B07P2HSC7R-de Hasbro FURREAL Friends E7963EU4 furReal Topper Mein Baby-...'
+tags: 
 actualPrice: 37.84 EUR
 currency: EUR
 price: 37.84

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CHghnSN1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U1IN0N0-de Kitchen Craft Kuchendose Living Nostalgia mit Deckel 28 5x18cm in grau  Stahl  30 x 18 x 18 cm'
+slug: 'B00U1IN0N0-de Kitchen Craft Kuchendose Living Nostalgia mit Deckel 28...'
+tags: 
 actualPrice: 27.64 EUR
 currency: EUR
 price: 27.64

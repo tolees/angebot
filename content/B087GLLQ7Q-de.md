@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yJw5NauGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087GLLQ7Q-de Telefunken XU55J521 139 cm / 55 Zoll Fernseher  Smart TV inkl. Prime Video / Netflix / YouTube  4K UHD mit Dolby Vision HDR / HDR 10 + HLG  Works with Alexa  Triple-Tuner  [Modelljahr 2020]'
+slug: 'B087GLLQ7Q-de Telefunken XU55J521 139 cm / 55 Zoll Fernseher Smart TV...'
+tags: 
 actualPrice: 349.99 EUR
 currency: EUR
 price: 349.99

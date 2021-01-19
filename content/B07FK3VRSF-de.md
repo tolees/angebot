@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D+74G7jLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FK3VRSF-de Diamond Mangofrüchte in Scheiben  leicht gezuckert  425 g'
+slug: 'B07FK3VRSF-de Diamond Mangofrüchte in Scheiben leicht gezuckert 425 g'
+tags: 
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

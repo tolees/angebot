@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wuvkSjlKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQ2KCSU-de Maxi-Cosi Priori SPS + Kindersitz mit optimalen Seitenaufprallschutz und 4 Sitz- und Ruhepositionen  Gruppe 1  9-18 kg   nutzbar ab 9 Monate bis 4 Jahre  Slate Black  schwarz '
+slug: 'B01MQ2KCSU-de Maxi-Cosi Priori SPS + Kindersitz mit optimalen...'
+tags: 
 actualPrice: 97.99 EUR
 currency: EUR
 price: 97.99

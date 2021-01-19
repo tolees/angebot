@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IKI352E-de Bosch Professional 18V System Akku GBA 18V 5.0Ah'
+tags: 
 actualPrice: 66.88 EUR
 currency: EUR
 price: 66.88

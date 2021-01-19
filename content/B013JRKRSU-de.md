@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mQpU3-5UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013JRKRSU-de Beurer PO 40 Pulsoximeter  Ermittlung der arteriellen Sauerstoffsättigung im Blut'
+slug: 'B013JRKRSU-de Beurer PO 40 Pulsoximeter Ermittlung der arteriellen...'
+tags: 
 actualPrice: 46.78 EUR
 currency: EUR
 price: 46.78

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Cqz1jPF8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CKRVCVZ-de Hasbro Nerf B8072EU5 N-Strike Elite TerraScout  Multicolor'
+slug: 'B07CKRVCVZ-de Hasbro Nerf B8072EU5 N-Strike Elite TerraScout Multicolor'
+tags: 
 actualPrice: 209.49 EUR
 currency: EUR
 price: 209.49

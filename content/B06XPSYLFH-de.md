@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VgWNJjyPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPSYLFH-de Siemens EX801KYW1E iQ700 Kochfeld / 79 2 cm / WLAN-fähig mit Home Connect / VarioInduktion Plus / varioMotion / Brat-Sensor Plus mit 5 Temperaturstufen / Schwarz'
+slug: 'B06XPSYLFH-de Siemens EX801KYW1E iQ700 Kochfeld / 79 2 cm / WLAN-fähig...'
+tags: 
 actualPrice: 1227.29 EUR
 currency: EUR
 price: 1227.29

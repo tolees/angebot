@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WkjCeUu-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XDT8XCG-de Aigital AC1200 WLAN Repeater Wi-Fi Verstaerker Range Extender Booster Dualband 5GHz 867Mbps+2.4GHz 300Mbps  Signalverstärker 4xflexible Externe Antennen WPS  Kompatibel mit Allen WLAN Geräten'
+slug: 'B07XDT8XCG-de Aigital AC1200 WLAN Repeater Wi-Fi Verstaerker Range...'
+tags: 
 actualPrice: 24.94 EUR
 currency: EUR
 price: 24.94

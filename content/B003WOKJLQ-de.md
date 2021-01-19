@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gE5gZYViL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003WOKJLQ-de Remington Haarschneidemaschine HC5810  selbstschärfende Keramikklingen  10 Aufsteckkämme + Präzisionslängeneinstellung  Netz-/Akkubetrieb  Lithium  Profi-Alukoffer  Haarschneider  Haartrimmer'
+slug: 'B003WOKJLQ-de Remington Haarschneidemaschine HC5810 selbstschärfende...'
+tags: 
 actualPrice: 45.39 EUR
 currency: EUR
 price: 45.39

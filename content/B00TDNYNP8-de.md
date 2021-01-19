@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Tfiul6XwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TDNYNP8-de Arlo HD Überwachungskamera & Alarmanlage  2er Set  Smart Home  kabellos  Innen/Außen  Nachtsicht  WLAN  wetterfest  Bewegungsmelder   VMS3230  - Weiß'
+slug: 'B00TDNYNP8-de Arlo HD Überwachungskamera & Alarmanlage 2er Set Smart...'
+tags: 
 actualPrice: 279.78 EUR
 currency: EUR
 price: 279.78

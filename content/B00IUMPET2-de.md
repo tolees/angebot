@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MxWzIueKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IUMPET2-de Flow-Mow für Zeitraffer-Fotografie  360 Grad drehbar'
+slug: 'B00IUMPET2-de Flow-Mow für Zeitraffer-Fotografie 360 Grad drehbar'
+tags: 
 actualPrice: 20.87 EUR
 currency: EUR
 price: 20.87

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JwxaxwIPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081RJRG71-de BRIKSMAX Led Beleuchtungsset für Lego Technic Land Rover Defender Kompatibel Mit Lego 42110 Bausteinen Modell - Ohne Lego Set'
+slug: 'B081RJRG71-de BRIKSMAX Led Beleuchtungsset für Lego Technic Land Rover...'
+tags: 
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

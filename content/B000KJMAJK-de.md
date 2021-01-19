@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61yfCQ0MaxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KJMAJK-de AVERY Zweckform 1725 Auftrag  A5  2x40 Blatt  selbstdurchschreibend mit farbigem Durchschlag  zur systematischen Erfassung aller relevanten Auftragspositionen  weiß/gelb'
+slug: 'B000KJMAJK-de AVERY Zweckform 1725 Auftrag A5 2x40 Blatt...'
+tags: 
 actualPrice: 5.35 EUR
 currency: EUR
 price: 5.35

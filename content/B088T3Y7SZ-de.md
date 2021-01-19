@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gwEjC7nPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088T3Y7SZ-de Bluetooth Kopfhörer  Sport-3D-Stereo-Kopfhörer  In-Ear Kabellose Kopfhörer  mit 24H Ladekästchen und Integriertem Mikrofon Auto-Pairing für Samsung/Huawei/iPhone/Android'
+slug: 'B088T3Y7SZ-de Bluetooth Kopfhörer Sport-3D-Stereo-Kopfhörer In-Ear...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

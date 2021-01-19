@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419pAZnf3vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFFRDW9-de Aitsite Schneeflocke Multi-Tool 18-in-1 Tragbares Edelstahl-Multifunktionswerkzeug für Outdoor-Abent  Schwarz '
+slug: 'B07KFFRDW9-de Aitsite Schneeflocke Multi-Tool 18-in-1 Tragbares...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

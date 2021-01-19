@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HFBw2nKQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S97KY8H-de Gigaset Smart Speaker L800HX - Lautsprecher mit Alexa-Integration und eingebautem Telefon - zum Anschluss an DECT Basisstationen  DECT Router - kompatibel mit Fritzbox  grau'
+slug: 'B07S97KY8H-de Gigaset Smart Speaker L800HX - Lautsprecher mit Alexa-...'
+tags: 
 actualPrice: 53.96 EUR
 currency: EUR
 price: 53.96

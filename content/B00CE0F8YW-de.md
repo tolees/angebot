@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JBU9htKRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CE0F8YW-de Neff Z1913X0 Backstein Brot Pizza Keramik Holzschieber Pyrolysefest Zubehör Maße: 360 x 375 mm'
+slug: 'B00CE0F8YW-de Neff Z1913X0 Backstein Brot Pizza Keramik Holzschieber...'
+tags: 
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

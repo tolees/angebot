@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410t0YN9etL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9JBHXL-de Under Armour Damen Play Up Shorts 3.0 atmungsaktive Sporthose  komfortable Sportshorts mit Loser Passform  Schwarz  MD'
+slug: 'B07L9JBHXL-de Under Armour Damen Play Up Shorts 3.0 atmungsaktive...'
+tags: 
 actualPrice: 21.83 EUR
 currency: EUR
 price: 21.83

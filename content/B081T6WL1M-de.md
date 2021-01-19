@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xHJVgdj7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081T6WL1M-de Lenovo IdeaPad S340 Laptop 39 6 cm  15 6 Zoll  1920x1080  FHD  IPS  matt  Slim Notebook  Intel Core i5-1035G1  8GB RAM  512GB SSD  Intel UHD-Grafik  Windows 10 Home  silber'
+slug: 'B081T6WL1M-de Lenovo IdeaPad S340 Laptop 39 6 cm 15 6 Zoll 1920x1080 FHD...'
+tags: 
 actualPrice: 500.0 EUR
 currency: EUR
 price: 500.0

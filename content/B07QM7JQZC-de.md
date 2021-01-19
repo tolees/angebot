@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Liz1qREiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QM7JQZC-de OUTXE Outdoor Powerbank Solar 10000mAh USB C IP67 Wasserdicht Akkupack Solar Ladegerät mit Taschenlampe'
+slug: 'B07QM7JQZC-de OUTXE Outdoor Powerbank Solar 10000mAh USB C IP67...'
+tags: 
 actualPrice: 17.33 EUR
 currency: EUR
 price: 17.33

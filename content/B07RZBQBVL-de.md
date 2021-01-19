@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ihX6xRaKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZBQBVL-de LIGHTAILING Licht-Set Für  Architecture Capitol  Modell - LED Licht-Set Kompatibel Mit Lego 21030 Modell Nicht Enthalten '
+slug: 'B07RZBQBVL-de LIGHTAILING Licht-Set Für Architecture Capitol Modell -...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

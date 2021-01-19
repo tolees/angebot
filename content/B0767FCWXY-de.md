@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/619n0vqGI9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0767FCWXY-de PLAYMOBIL Ghostbusters 9388 Stantz mit Flybike  Ab 6 Jahren'
+slug: 'B0767FCWXY-de PLAYMOBIL Ghostbusters 9388 Stantz mit Flybike Ab 6 Jahren'
+tags: 
 actualPrice: 11.75 EUR
 currency: EUR
 price: 11.75

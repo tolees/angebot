@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WO2JvGLbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DUK44U8-de Fisher-Price DRH31 - Lernspaß Spieltisch  Lernspielzeug mit Lichtern  Sätzen und Liedern  mitwachsenden Spielstufen  Baby Spielzeug ab 6 Monaten  deutschsprachig'
+slug: 'B01DUK44U8-de Fisher-Price DRH31 - Lernspaß Spieltisch Lernspielzeug mit...'
+tags: 
 actualPrice: 54.79 EUR
 currency: EUR
 price: 54.79

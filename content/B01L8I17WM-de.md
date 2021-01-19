@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L8I17WM-de Supernatural - Staffel 10 [6 DVDs]'
+tags: 
 actualPrice: 9.74 EUR
 currency: EUR
 price: 9.74

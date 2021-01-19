@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GTP6BNM-de Playmobil - Privatjet'
+tags: 
 actualPrice: 17.22 EUR
 currency: EUR
 price: 17.22

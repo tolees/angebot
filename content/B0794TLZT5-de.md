@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C0VgV6SIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0794TLZT5-de Fire HD 8-Tablet  16 GB  Schwarz  ohne Spezialangebote'
+slug: 'B0794TLZT5-de Fire HD 8-Tablet 16 GB Schwarz ohne Spezialangebote'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

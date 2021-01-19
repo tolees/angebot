@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31te0U5qkXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRZNRDL-de HUAWEI FreeBuds 3 kabellose Kopfhörer mit Active Noise Canceling  ultra schnelle Bluetooth-Verbindung  14mm Lautsprecher  kabelloses Aufladen  + 5EUR Amazon Gutschein  Weiß'
+slug: 'B07ZRZNRDL-de HUAWEI FreeBuds 3 kabellose Kopfhörer mit Active Noise...'
+tags: 
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0

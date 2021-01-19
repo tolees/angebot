@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CY1MC99-de Mi Bluetooth Speaker PC-Lautsprecher'
+tags: 
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

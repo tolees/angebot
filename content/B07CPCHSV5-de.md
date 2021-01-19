@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418wJJVb1qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CPCHSV5-de HP 27f  27 Zoll Full HD IPS  Monitor  AMD FreeSync  HDMI  VGA  1920 x 1080 Pixel  60Hz  5ms Reaktionszeit  schwarz silber'
+slug: 'B07CPCHSV5-de HP 27f 27 Zoll Full HD IPS Monitor AMD FreeSync HDMI VGA...'
+tags: 
 actualPrice: 161.3 EUR
 currency: EUR
 price: 161.3

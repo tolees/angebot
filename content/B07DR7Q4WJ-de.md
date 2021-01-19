@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AyK+NW6PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DR7Q4WJ-de TaoTronics Stehlampe LED Dimmbar 12W Stehleuchte für Wohnzimmer Schlafzimmer  Hohe 30.000 Stunden Lebensdauer  5 Helligkeitsstufen  3 Farbtemperaturen  Touch-Bedienung  Flexibler Schwanenhals  Schwarz'
+slug: 'B07DR7Q4WJ-de TaoTronics Stehlampe LED Dimmbar 12W Stehleuchte für...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fqZGQaxxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0832YTYBV-de WenTop LED Strip 10m WiFi Smart Controller  SMD 5050 LED Streifen mit Fernbedienung 300leds für Schlafzimmer  TV  Deckenbeleuchtung und Dekorieren  Arbeiten Sie mit Google Assistant und Alexa'
+slug: 'B0832YTYBV-de WenTop LED Strip 10m WiFi Smart Controller SMD 5050 LED...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tXnJvjc6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078Y6HRYC-de Regal Schwerlastregal Regal 180x90x45 Steckregal 875kg Lagerregal Werkstattregal Kellerregal MDF-Platten'
+slug: 'B078Y6HRYC-de Regal Schwerlastregal Regal 180x90x45 Steckregal 875kg...'
+tags: 
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

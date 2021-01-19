@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OefsCb6CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CWNRKMQ-de Oriware Spülbecken Organizer für die Küche Caddy Ordnungshelfer Küchenutensilienhalter Rostfreier Edelstahl – 25 x 15 x 15 cm'
+slug: 'B07CWNRKMQ-de Oriware Spülbecken Organizer für die Küche Caddy...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VoHUM7sLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HLCSDL8-de Finish Klarspüler mit Glanz- und Glasschutz – Für strahlendes und trockeneres Geschirr ohne Wasserflecken – Megapack  7er Pack  7 x 750 ml '
+slug: 'B00HLCSDL8-de Finish Klarspüler mit Glanz- und Glasschutz – Für...'
+tags: 
 actualPrice: 10.01 EUR
 currency: EUR
 price: 10.01

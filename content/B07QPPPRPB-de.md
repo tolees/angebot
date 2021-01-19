@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lbJb1LeCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QPPPRPB-de Wiko View 3 Lite  Silver bleen  6 09" HD+ Display  13MP+2MP DUAL Kamera  4.000mAh Akku  32GB interner Speicher  2GB RAM  Octa-Core Prozessor '
+slug: 'B07QPPPRPB-de Wiko View 3 Lite Silver bleen 6 09" HD+ Display 13MP+2MP...'
+tags: 
 actualPrice: 105.0 EUR
 currency: EUR
 price: 105.0

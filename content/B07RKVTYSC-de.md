@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ki9rLkFnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RKVTYSC-de USB 3.0 WLAN Stick WLAN Adapter PC WiFi Adapter USB WiFi Dongle WiFi Empfänger WLAN USB Stick 1200Mbit/s Dualband 5G/866Mbps+2.4G/300Mbps  5dBi Antenne für Win/Mac OS/Linux/Desktop/Laptop/Notebook'
+slug: 'B07RKVTYSC-de USB 3.0 WLAN Stick WLAN Adapter PC WiFi Adapter USB WiFi...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

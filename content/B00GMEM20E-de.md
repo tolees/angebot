@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VlO8D4G1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GMEM20E-de Belkin Boost up USB-Ladegerät Netzladegerät  2 4A  12 Watt  geeignet für iPhone 11  11 Pro  11 Pro Max  XS  XS Max  XR  X  SE  8/8 Plus anderer Smartphones und Tablets  weiß'
+slug: 'B00GMEM20E-de Belkin Boost up USB-Ladegerät Netzladegerät 2 4A 12 Watt...'
+tags: 
 actualPrice: 14.3 EUR
 currency: EUR
 price: 14.3

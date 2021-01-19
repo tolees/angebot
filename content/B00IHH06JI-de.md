@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ko3zde+SL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IHH06JI-de HQ 11768450 - Symphony Beach III 2.2 Rainbow  Zweileiner Lenkmatten  ab 14 Jahren  73x220cm  inkl. 100 kp Dyneemaschnüre 2x25m auf Winder mit Schlaufen  2-6 Beaufort'
+slug: 'B00IHH06JI-de HQ 11768450 - Symphony Beach III 2.2 Rainbow Zweileiner...'
+tags: 
 actualPrice: 41.44 EUR
 currency: EUR
 price: 41.44

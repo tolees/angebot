@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Bsivk%2BHfL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B013SL1ZU6-de Logitech K380 Bluetooth-Tastatur für Windows  Mac  Chrome und Android dunkelgrau  QWERTZ  deutsches Tastaturlayout '
+slug: 'B013SL1ZU6-de Logitech K380 Bluetooth-Tastatur für Windows Mac Chrome...'
+tags: 
 actualPrice: 38.38 EUR
 currency: EUR
 price: 38.38

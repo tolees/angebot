@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41AfkHHdyCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LSUZMAS-de Apple iPhone 7  128 GB  - Gold'
+slug: 'B01LSUZMAS-de Apple iPhone 7 128 GB - Gold'
+tags: 
 actualPrice: 469 EUR
 currency: EUR
 price: 469

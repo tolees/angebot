@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pc3M3qtHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015GZA5QC-de Timberland Herren Bradstreet Leather Sensorflex Chukka Boots  Schwarz  Black Nubuck   44.5 EU'
+slug: 'B015GZA5QC-de Timberland Herren Bradstreet Leather Sensorflex Chukka...'
+tags: 
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

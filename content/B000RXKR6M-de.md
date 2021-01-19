@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51QyCqOutxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000RXKR6M-de Meguiar s X3002EU Microfibre Wash Mitt Mikrofaser-Waschhandschuh'
+slug: 'B000RXKR6M-de Meguiar s X3002EU Microfibre Wash Mitt Mikrofaser-...'
+tags: 
 actualPrice: 11.7 EUR
 currency: EUR
 price: 11.7

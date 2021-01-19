@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516q61AOW2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HR1T8G-de adidas Herren Core 18 Sweat Trainingstop  Dark Grey Heather/Black  XL'
+slug: 'B076HR1T8G-de adidas Herren Core 18 Sweat Trainingstop Dark Grey...'
+tags: 
 actualPrice: 23.17 EUR
 currency: EUR
 price: 23.17

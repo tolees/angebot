@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XO6-ZvBiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HPZDM8U-de PUMA Unisex-Erwachsene Basket Classic LFS Sneakers  white-white  43 EU'
+slug: 'B00HPZDM8U-de PUMA Unisex-Erwachsene Basket Classic LFS Sneakers white-...'
+tags: 
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

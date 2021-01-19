@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BczDFjU-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNF42LJ-de Panasonic RP-HTX20BE-H In-Ear Kopfhörer Bluetooth  8 5 h Akkulaufzeit  Quick-Charge  Sprachsteuerung  Kopfhörer wireless  grau'
+slug: 'B07NNF42LJ-de Panasonic RP-HTX20BE-H In-Ear Kopfhörer Bluetooth 8 5 h...'
+tags: 
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

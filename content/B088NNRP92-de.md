@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dhRqfyxCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088NNRP92-de Elektrischer Rasierer Herren  OriHea 6-in-1 Glatzenrasierer für Männer  Elektrorasierer Rasierapparat Bartrasierer Herren-Pflegeset IPX7-Wasserdichtes  Mit USB Schnell Aufladbarer Nasenhaartrimmer'
+slug: 'B088NNRP92-de Elektrischer Rasierer Herren OriHea 6-in-1 Glatzenrasierer...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BC3a6w1YL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078X5MK7G-de Sony HT-XF9000 2.1-Kanal Dolby Atmos/DTS:X Soundbar  mit Vertical Surround Engine und Subwoofer  Schwarz'
+slug: 'B078X5MK7G-de Sony HT-XF9000 2.1-Kanal Dolby Atmos/DTS:X Soundbar mit...'
+tags: 
 actualPrice: 326.89 EUR
 currency: EUR
 price: 326.89

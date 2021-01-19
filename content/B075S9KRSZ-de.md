@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41v6qmIsq5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075S9KRSZ-de Mütze Baumwolle Herren schwarz Made in Germany - Beanie Herren Sommer - Perfekte Passform - Sehr leichte & Bequeme Sommermütze  L  59-60   schwarz '
+slug: 'B075S9KRSZ-de Mütze Baumwolle Herren schwarz Made in Germany - Beanie...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

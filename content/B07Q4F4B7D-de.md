@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416LHurN-FL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q4F4B7D-de Bose Home Speaker 300 mit integrierter Amazon Alexa-Sprachsteuerung  schwarz'
+slug: 'B07Q4F4B7D-de Bose Home Speaker 300 mit integrierter Amazon Alexa-...'
+tags: 
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KicgxjEqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JVV8PS8-de Panasonic eneloop  Ready-to-Use Ni-MH Akku  AAA Micro  4er Pack  min. 750 mAh  2100 Ladezyklen  starke Leistung und geringe Selbstentladung  wiederaufladbare Akku Batterie'
+slug: 'B00JVV8PS8-de Panasonic eneloop Ready-to-Use Ni-MH Akku AAA Micro 4er...'
+tags: 
 actualPrice: 6.01 EUR
 currency: EUR
 price: 6.01

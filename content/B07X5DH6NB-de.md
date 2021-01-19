@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JEHSIsilL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X5DH6NB-de Sony Alpha 6100 E-Mount Systemkamera  24 Megapixel  4K Video  180° Touch-Display  0.02 Sek. Echtzeit-Autofokus mit 425 Kontrast AF-Punkten  OLED Sucher  inkl. SEL-P1650 Objektiv  silber'
+slug: 'B07X5DH6NB-de Sony Alpha 6100 E-Mount Systemkamera 24 Megapixel 4K Video...'
+tags: 
 actualPrice: 669.99 EUR
 currency: EUR
 price: 669.99

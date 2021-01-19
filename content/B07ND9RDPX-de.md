@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311VJ22wdxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ND9RDPX-de bugatti Herren 311822021400 Derbys  Schwarz  41 EU'
+slug: 'B07ND9RDPX-de bugatti Herren 311822021400 Derbys Schwarz 41 EU'
+tags: 
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

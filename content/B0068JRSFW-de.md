@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61MRch3s4QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0068JRSFW-de Ravensburger – 22099 – Lernspiel – Memory  Dinosaurier'
+slug: 'B0068JRSFW-de Ravensburger – 22099 – Lernspiel – Memory Dinosaurier'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

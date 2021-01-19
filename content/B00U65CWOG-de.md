@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c2wijcPpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U65CWOG-de Russell Hobbs Multicooker 5 0l  digitales Display + Timer   11 Kochprogramme  Schongarer  Dampfgarer  Slow Cooker  Reiskocher  Joghurtbereiter etc.   Anti-Kondensations-Deckel  Cook@Home 21850-56'
+slug: 'B00U65CWOG-de Russell Hobbs Multicooker 5 0l digitales Display + Timer...'
+tags: 
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

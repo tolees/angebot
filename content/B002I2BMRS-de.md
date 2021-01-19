@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zZP5lFihL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002I2BMRS-de Caffè Vergnano 1882 Gran Aroma Ganze Bohnen  1 kg'
+slug: 'B002I2BMRS-de Caffè Vergnano 1882 Gran Aroma Ganze Bohnen 1 kg'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

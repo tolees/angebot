@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nvK1jCcwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007CI4PTU-de Nestlé KITKAT Schoko-Riegel  Milch-Schokolade  Großpackung  24er Pack  24 x 41 5g '
+slug: 'B007CI4PTU-de Nestlé KITKAT Schoko-Riegel Milch-Schokolade Großpackung...'
+tags: 
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hlBw4mpkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015CH1JIW-de SanDisk Ultra Flair 32GB USB-Flash-Laufwerk USB 3.0 mit bis zu 150 MB/Sek  schwarz'
+slug: 'B015CH1JIW-de SanDisk Ultra Flair 32GB USB-Flash-Laufwerk USB 3.0 mit...'
+tags: 
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

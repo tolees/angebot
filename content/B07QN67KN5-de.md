@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/613WjtTBpxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QN67KN5-de Yaogroo 208 Spiele in 1 NDS Game Pack-Karte Super Combo Multi-Cartridge für DS NDS NDSL NDSi 3DS 2DS XL'
+slug: 'B07QN67KN5-de Yaogroo 208 Spiele in 1 NDS Game Pack-Karte Super Combo...'
+tags: 
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

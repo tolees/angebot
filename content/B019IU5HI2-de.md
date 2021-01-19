@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xpiE+UkXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019IU5HI2-de KLIM Wind Laptop Kühler - Leistungsstark Wie Kein Anderer – Schneller Kühlvorgang - 4 Lüfter PC Notebook PS4 - Belüfteter Laptop Ständer  Gamer Gaming Stützhalterung - 2020 Version - Blau'
+slug: 'B019IU5HI2-de KLIM Wind Laptop Kühler - Leistungsstark Wie Kein Anderer...'
+tags: 
 actualPrice: 49.97 EUR
 currency: EUR
 price: 49.97

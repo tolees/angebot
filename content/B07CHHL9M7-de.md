@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xwpXDmnSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CHHL9M7-de Habor Küchenthermometer  Bratenthermometer  Digital Grillthermometer  Lange Probe Fleischthermometer  5s Sofortiges Auslesen für Küche  Grill  BBQ  Steak  Türkei  Süßigkeiten  Milch  Edelstah'
+slug: 'B07CHHL9M7-de Habor Küchenthermometer Bratenthermometer Digital...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OKXCFSy3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PHPFDY4-de Dickie Toys 203818000 Happy Farm House  Bauernhof  Set für Kinder ab 1 Jahr  Traktor  mit Tieren  Licht & Sound  Mehrfarbig'
+slug: 'B07PHPFDY4-de Dickie Toys 203818000 Happy Farm House Bauernhof Set für...'
+tags: 
 actualPrice: 34.11 EUR
 currency: EUR
 price: 34.11

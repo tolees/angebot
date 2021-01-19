@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GJyxNxaeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C2KVP4Q-de ONLY Female Skinny Fit Jeans ONLUltimate King reg M32Dark Blue Denim'
+slug: 'B00C2KVP4Q-de ONLY Female Skinny Fit Jeans ONLUltimate King reg M32Dark...'
+tags: 
 actualPrice: 23.84 EUR
 currency: EUR
 price: 23.84

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZbU2oTMmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZZ8N68W-de Pegasus Spiele 51223G  Kitchen Rush'
+slug: 'B07ZZ8N68W-de Pegasus Spiele 51223G Kitchen Rush'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

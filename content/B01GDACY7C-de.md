@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+oUbRD59L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GDACY7C-de Sports Laboratory Bauchweggürtel für Gewichtsverlust für Männer & Frauen Schwarz Verstellbar Bis Zu Eine Größe Passt Meistens mit kostenlosem Bag & Guide'
+slug: 'B01GDACY7C-de Sports Laboratory Bauchweggürtel für Gewichtsverlust für...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

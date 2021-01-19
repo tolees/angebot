@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uTh6OKppL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E96YCCM-de UGG Female Mini Bailey Bow II Classic Boot  Black  8  UK '
+slug: 'B01E96YCCM-de UGG Female Mini Bailey Bow II Classic Boot Black 8 UK'
+tags: 
 actualPrice: 102.17 EUR
 currency: EUR
 price: 102.17

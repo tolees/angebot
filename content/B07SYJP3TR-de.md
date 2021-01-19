@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oPpWZbERL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SYJP3TR-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Imperial Star Destroyer  Kompatibel Mit Lego 75055 Bausteinen Modell - Ohne Lego Set'
+slug: 'B07SYJP3TR-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Imperial...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

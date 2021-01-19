@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yLp92MUpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DQBFQ2D-de Seagate Desktop Drive 8000 GB  8 TB  externe Festplatte  3.5 Zoll  USB 3.0  PC  Xbox  PS4  ModelNr.: STGY8000400'
+slug: 'B07DQBFQ2D-de Seagate Desktop Drive 8000 GB 8 TB externe Festplatte 3.5...'
+tags: 
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

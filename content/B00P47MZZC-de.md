@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VVfldcOZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P47MZZC-de Led Leuchtmittel E27 Warmweiß 5W Tropfen Birne Licht 3000K 400 Lumen Abstrahlwinkel 280 Grad Tropfen Glühbirne 5er Verpackung'
+slug: 'B00P47MZZC-de Led Leuchtmittel E27 Warmweiß 5W Tropfen Birne Licht 3000K...'
+tags: 
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

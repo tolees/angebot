@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415iBq11wUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P8NNNBH-de Sony KD-65XG7005 Bravia 65 Zoll  164cm  Fernseher  Ultra HD  4K HDR  Smart TV  USB HDD Recording  schwarz'
+slug: 'B07P8NNNBH-de Sony KD-65XG7005 Bravia 65 Zoll 164cm Fernseher Ultra HD...'
+tags: 
 actualPrice: 719.0 EUR
 currency: EUR
 price: 719.0

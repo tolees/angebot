@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Lx-S2IE+L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VUQ6CU0-de Fotowiderstand  Entdeckung Lichtempfindlich Licht Sensor Modul für Arduino'
+slug: 'B00VUQ6CU0-de Fotowiderstand Entdeckung Lichtempfindlich Licht Sensor...'
+tags: 
 actualPrice: 1.01 EUR
 currency: EUR
 price: 1.01

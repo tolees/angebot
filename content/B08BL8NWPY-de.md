@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gNtx2diuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BL8NWPY-de Bluetooth Kopfhörer Kabellose Kopfhörer mit Premium Klangprofil Noise Cancelling  kabellos Ohrhörer mit Wireless Ladekoffer  IPX5 Wasserschutzklasse für iPhone Android in-Ear Kopfhörer'
+slug: 'B08BL8NWPY-de Bluetooth Kopfhörer Kabellose Kopfhörer mit Premium...'
+tags: 
 actualPrice: 30.28 EUR
 currency: EUR
 price: 30.28

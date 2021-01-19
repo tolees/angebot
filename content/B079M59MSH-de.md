@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tA0-v252L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079M59MSH-de American Tourister Soundbox - Spinner S Erweiterbar Handgepäck  55 cm  41 L  Gelb  Golden Yellow '
+slug: 'B079M59MSH-de American Tourister Soundbox - Spinner S Erweiterbar...'
+tags: 
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

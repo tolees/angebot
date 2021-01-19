@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413pNrOuHVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGZGZNM-de BRIKSMAX Hochgeschwindigkeitszug Led Beleuchtungsset - Kompatibel Mit Lego 60051 Bausteinen Modell - Ohne Lego Set.'
+slug: 'B07LGZGZNM-de BRIKSMAX Hochgeschwindigkeitszug Led Beleuchtungsset -...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

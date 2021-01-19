@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TLzp6Of+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071RNKJPS-de Funko Pop! TV: Game of Thrones - Das Lied von Eis und Feuer - Tyrion Lannister Vinyl Figur'
+slug: 'B071RNKJPS-de Funko Pop! TV: Game of Thrones - Das Lied von Eis und...'
+tags: 
 actualPrice: 9.78 EUR
 currency: EUR
 price: 9.78

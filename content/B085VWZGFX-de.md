@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YttmPy+1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085VWZGFX-de Dittzz LED Licht-Set für Baustein Spielzeug  Beleuchtungsset Kompatibel mit Lego 42108 -Technic Kran-LKW  Lego-Modelle Nicht enthalten '
+slug: 'B085VWZGFX-de Dittzz LED Licht-Set für Baustein Spielzeug...'
+tags: 
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

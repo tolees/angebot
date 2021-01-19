@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rPh+p0tfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001EB2TTO-de Siemens Keramikbackstein inkl. Holzschieber / Für Backöfen / Ideal für das Backen von Pizza  Brot  Fladenbrot oder auch Tiefkühlgerichte / Hitze beständig / 37 5 x 33 x 2cm'
+slug: 'B001EB2TTO-de Siemens Keramikbackstein inkl. Holzschieber / Für Backöfen...'
+tags: 
 actualPrice: 75.12 EUR
 currency: EUR
 price: 75.12

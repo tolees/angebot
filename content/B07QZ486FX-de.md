@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PRKR8w8JL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZ486FX-de HUAWEI Y5 2019 Dual SIM Smartphone  14  5 cm  5  71 Zoll   16GB ROM  2GB RAM  13MP Hauptkamera  5MP Frontkamera  Android 9.0  EMUI 9.0  Midnight Black'
+slug: 'B07QZ486FX-de HUAWEI Y5 2019 Dual SIM Smartphone 14 5 cm 5 71 Zoll 16GB...'
+tags: 
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

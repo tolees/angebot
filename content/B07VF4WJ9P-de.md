@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31H1cgElW2L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VF4WJ9P-de mama stadt Prinzessin Cosplay Perücke  Erwachsene und Kinder Perücke mit Perücke-Kappe  Perücken für Karneval Halloween Fasching Kostüme Party Fest'
+slug: 'B07VF4WJ9P-de mama stadt Prinzessin Cosplay Perücke Erwachsene und...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

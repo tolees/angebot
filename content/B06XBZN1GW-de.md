@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xvhX5UmjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XBZN1GW-de Panasonic DMR-UBS90EGK Ultra HD Blu-ray Recorder  2TB HDD  4K Blu-ray Disc Wiedergabe  UHD TV Satellitenempfang  3 x DVB-S/S2 HD Tuner '
+slug: 'B06XBZN1GW-de Panasonic DMR-UBS90EGK Ultra HD Blu-ray Recorder 2TB HDD...'
+tags: 
 actualPrice: 440.0 EUR
 currency: EUR
 price: 440.0

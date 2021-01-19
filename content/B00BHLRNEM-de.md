@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412QJYga0hL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BHLRNEM-de COPIC  Markerstifte  vielfach einsetzbar  Einheitsgröße'
+slug: 'B00BHLRNEM-de COPIC Markerstifte vielfach einsetzbar Einheitsgröße'
+tags: 
 actualPrice: 20.96 EUR
 currency: EUR
 price: 20.96

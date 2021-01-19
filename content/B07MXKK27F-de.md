@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31XBVSi9XKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXKK27F-de Schöffel Damen Pants Ascona Zip Off leichte und komfortable optimaler Passform  Flexible Outdoor Hose für Frauen  Grau  Asphalt   38  M '
+slug: 'B07MXKK27F-de Schöffel Damen Pants Ascona Zip Off leichte und...'
+tags: 
 actualPrice: 46.54 EUR
 currency: EUR
 price: 46.54

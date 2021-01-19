@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZSEbelVwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PNULHYU-de Gardena Reinigungsspritze: Wasserspritze mit stufenlos einstellbarem Strahl  zum Reinigen und Sprühen  Aquastop  Frostschutz  verpackt  18300-20 '
+slug: 'B00PNULHYU-de Gardena Reinigungsspritze: Wasserspritze mit stufenlos...'
+tags: 
 actualPrice: 4.03 EUR
 currency: EUR
 price: 4.03

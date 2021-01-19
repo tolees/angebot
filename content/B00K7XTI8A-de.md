@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AOhy4PPHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K7XTI8A-de WENKO Spül-Set Empire  Spülmittelspender  Spülbürste  Handtuchhalter Fassungsvermögen: 0.25 l  Soft-Touch Keramik  11 x 19 x 12.5 cm  schwarz'
+slug: 'B00K7XTI8A-de WENKO Spül-Set Empire Spülmittelspender Spülbürste...'
+tags: 
 actualPrice: 11.27 EUR
 currency: EUR
 price: 11.27

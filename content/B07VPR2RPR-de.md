@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414ZVFY9HBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPR2RPR-de Tommy Jeans Damen Tjw Sleeve Detail Logo Tee T-Shirt  Schwarz  Black Bds   36  Herstellergröße: Medium '
+slug: 'B07VPR2RPR-de Tommy Jeans Damen Tjw Sleeve Detail Logo Tee T-Shirt...'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

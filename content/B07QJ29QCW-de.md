@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XIaTgdAnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJ29QCW-de Funko B07QJ29QCW POP Vinyl Games Bandicoot-Crash Sammelbares Spielzeug  Mehrfarben'
+slug: 'B07QJ29QCW-de Funko B07QJ29QCW POP Vinyl Games Bandicoot-Crash...'
+tags: 
 actualPrice: 10.43 EUR
 currency: EUR
 price: 10.43

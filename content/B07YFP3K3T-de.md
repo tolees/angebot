@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419N32OOARL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFP3K3T-de INSTINNCT Damen Nahtlos Yoga Sport-BH Ohne Bügel mit Polstern - Komfort Klassische Fitness Training Bustier Bra Top Weinrot S'
+slug: 'B07YFP3K3T-de INSTINNCT Damen Nahtlos Yoga Sport-BH Ohne Bügel mit...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

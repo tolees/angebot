@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RMu5YK15L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4GG8P7-de Corsair K95 RGB Platinum Mechanische Gaming Tastatur  Cherry MX Speed: Schnell und Hochpräzise  Multi-Color RGB Beleuchtung  Qwertz  schwarz'
+slug: 'B01N4GG8P7-de Corsair K95 RGB Platinum Mechanische Gaming Tastatur...'
+tags: 
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

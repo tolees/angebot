@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dskkpEzwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRV7K15-de Beko DE8535RX0 Wärmepumpentrockner/8 kg/A+++/Multifunktionsdisplay/Automatischer Knitterschutz/Reversierende Trommelbewegungen'
+slug: 'B01MRV7K15-de Beko DE8535RX0 Wärmepumpentrockner/8...'
+tags: 
 actualPrice: 365.0 EUR
 currency: EUR
 price: 365.0

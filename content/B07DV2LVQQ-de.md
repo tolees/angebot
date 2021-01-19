@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VbVOMBJsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DV2LVQQ-de ECCO Damen Terracruise II Sneaker  Blau  Dark Petrol/Pagoda Blue 51352   40 EU'
+slug: 'B07DV2LVQQ-de ECCO Damen Terracruise II Sneaker Blau Dark Petrol/Pagoda...'
+tags: 
 actualPrice: 77.0 EUR
 currency: EUR
 price: 77.0

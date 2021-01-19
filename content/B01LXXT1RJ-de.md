@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Fyru2ky7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LXXT1RJ-de Iris & Lilly Damen Hipster mit unterschiedlichen Mustern im 3er-Pack  Mehrfarbig  Soft Pink/Print   Large'
+slug: 'B01LXXT1RJ-de Iris & Lilly Damen Hipster mit unterschiedlichen Mustern...'
+tags: 
 actualPrice: 7.09 EUR
 currency: EUR
 price: 7.09

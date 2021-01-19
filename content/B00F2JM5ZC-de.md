@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tnvjq8XiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F2JM5ZC-de Karlie Transportbox Nomad  Größe M 68 x 51 x 47 cm'
+slug: 'B00F2JM5ZC-de Karlie Transportbox Nomad Größe M 68 x 51 x 47 cm'
+tags: 
 actualPrice: 34.11 EUR
 currency: EUR
 price: 34.11

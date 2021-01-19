@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41J2e-ICCmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FOHW548-de Calvin Klein Herren 3p Low Rise Trunk  Boxershorts  Mehrfarbig  998 White  Red ginger  Pyro blue   L  3er Pack '
+slug: 'B00FOHW548-de Calvin Klein Herren 3p Low Rise Trunk Boxershorts...'
+tags: 
 actualPrice: 27.15 EUR
 currency: EUR
 price: 27.15

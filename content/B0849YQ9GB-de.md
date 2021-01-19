@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518HV77fcZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0849YQ9GB-de Oliver’s Kitchen Premium Schneidebrett 100% Bio Bambus – Extra Froßes Holzschneidebrett – Edel  Robust & Leicht zu Reinigen – Küchenbrett mit Saftrille'
+slug: 'B0849YQ9GB-de Oliver’s Kitchen Premium Schneidebrett 100% Bio Bambus –...'
+tags: 
 actualPrice: 19.93 EUR
 currency: EUR
 price: 19.93

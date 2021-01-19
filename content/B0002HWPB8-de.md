@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CKMFtoJvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0002HWPB8-de Theo Klein 8520 - Bosch Tool Box mit Akkuschrauber  Baukästen'
+slug: 'B0002HWPB8-de Theo Klein 8520 - Bosch Tool Box mit Akkuschrauber Baukästen'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

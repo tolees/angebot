@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31G5vqTvQLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FY8B52E-de Panasonic TY-ER3D6ME Aktive Bluetooth Shutterbrille  Batterie  aktiv 3D  geeignet für Panasonic Viera TV  schwarz'
+slug: 'B01FY8B52E-de Panasonic TY-ER3D6ME Aktive Bluetooth Shutterbrille...'
+tags: 
 actualPrice: 16.1 EUR
 currency: EUR
 price: 16.1

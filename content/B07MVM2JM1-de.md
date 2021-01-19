@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/311jZigggTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVM2JM1-de super.natural Bequemer Herren Pullover  Mit Merinowolle  M KNIT SWEATER'
+slug: 'B07MVM2JM1-de super.natural Bequemer Herren Pullover Mit Merinowolle M...'
+tags: 
 actualPrice: 84 EUR
 currency: EUR
 price: 84

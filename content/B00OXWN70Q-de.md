@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G8KWWsi0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OXWN70Q-de uvex Unisex – Erwachsene  plug-in LED für i-vo/airwing Zusatzbehör    one size'
+slug: 'B00OXWN70Q-de uvex Unisex – Erwachsene plug-in LED für i-vo/airwing...'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

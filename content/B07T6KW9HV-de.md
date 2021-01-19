@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61nNEMjHOML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T6KW9HV-de COOLJOY Magnetische Bausteine  117 Stück Magnet Baustein  Pädagogische Bauklötze Spielzeug für Kinder  3D Grafiken Konstruktion Blöcke / Auto Spielzeug / Roboter / Animal / Ferris Wheel'
+slug: 'B07T6KW9HV-de COOLJOY Magnetische Bausteine 117 Stück Magnet Baustein...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51IA7NWtCCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071RXY27R-de FJÄLLRÄVEN Byron Hat Doppelstrickmütze  Graphite  One Size'
+slug: 'B071RXY27R-de FJÄLLRÄVEN Byron Hat Doppelstrickmütze Graphite One Size'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

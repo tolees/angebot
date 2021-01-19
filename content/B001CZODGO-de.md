@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410pMckuB9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001CZODGO-de LIQUI MOLY 1515 Marder-Schutz-Spray  200 ml'
+slug: 'B001CZODGO-de LIQUI MOLY 1515 Marder-Schutz-Spray 200 ml'
+tags: 
 actualPrice: 8.31 EUR
 currency: EUR
 price: 8.31

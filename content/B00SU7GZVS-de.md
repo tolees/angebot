@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cx83jVqkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SU7GZVS-de Marvel s Agents of S.H.I.E.L.D. - Die komplette erste Staffel [6 DVDs]'
+slug: 'B00SU7GZVS-de Marvel s Agents of S.H.I.E.L.D. - Die komplette erste...'
+tags: 
 actualPrice: 8.04 EUR
 currency: EUR
 price: 8.04

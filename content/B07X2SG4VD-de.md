@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IPLHBb6xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2SG4VD-de Emsa N2011900 Travel Mug Wave-Design Thermobecher/Isolierbecher  500 ml  hält 6h heiß/ 12h kalt  100% dicht  auslaufsicher  Easy Quick-Press-Verschluss  360°-Trinköffnung  schwarz'
+slug: 'B07X2SG4VD-de Emsa N2011900 Travel Mug Wave-Design...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

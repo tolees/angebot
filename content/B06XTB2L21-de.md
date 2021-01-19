@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AdXh+JwAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XTB2L21-de Bosch Nass- und Trockensauger AdvancedVac 20  1200 Watt  20 Liter Behältervolumen  in Karton '
+slug: 'B06XTB2L21-de Bosch Nass- und Trockensauger AdvancedVac 20 1200 Watt 20...'
+tags: 
 actualPrice: 88.99 EUR
 currency: EUR
 price: 88.99

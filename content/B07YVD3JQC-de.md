@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QITOtKHnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YVD3JQC-de SGODDE Handwärmer Powerbank 7800mAh  USB Wiederaufladbare 2 IN 1 Taschenwärmer  tragbare ladegerät elektrische Doppelseitig Heizung Handwärmer  Valentinstag Wintergeschenke für Frauen Kinder Familien'
+slug: 'B07YVD3JQC-de SGODDE Handwärmer Powerbank 7800mAh USB Wiederaufladbare 2...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

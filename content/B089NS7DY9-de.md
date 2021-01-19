@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410yGtaLXgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089NS7DY9-de Maxjaa NES-Klassiker Wireless Controller Bluetooth Gamepad fern Joypad wiederaufladbare Game Controller mit gyro und Schwerkraft-Sensor dual-Vibration Turbo für pc ps3 Android Nintendo'
+slug: 'B089NS7DY9-de Maxjaa NES-Klassiker Wireless Controller Bluetooth Gamepad...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

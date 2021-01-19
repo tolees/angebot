@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31B5pmLSk9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018GOP8K8-de Tefal E79071 Jamie Oliver Induction Servierpfanne mit 2 Seitengriffen und Glasdeckel  25 cm  2 8L  Edelstahl'
+slug: 'B018GOP8K8-de Tefal E79071 Jamie Oliver Induction Servierpfanne mit 2...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-Qr9Gv0aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLX8D8H-de SAMSONITE PRO-DLX 5 - Wheeled Business Case 15.6" Erweiterbar - 29.5/37L Schwarz'
+slug: 'B07DLX8D8H-de SAMSONITE PRO-DLX 5 - Wheeled Business Case 15.6"...'
+tags: 
 actualPrice: 169.92 EUR
 currency: EUR
 price: 169.92

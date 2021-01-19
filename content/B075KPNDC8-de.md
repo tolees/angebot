@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31blFapjsrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075KPNDC8-de JBL Tune110BT In-Ear Bluetooth-Kopfhörer - Kabellose Ohrhörer mit integriertem Mikrofon - Musik Streaming bis zu 6 Stunden mit nur einer Akku-Ladung Schwarz'
+slug: 'B075KPNDC8-de JBL Tune110BT In-Ear Bluetooth-Kopfhörer - Kabellose...'
+tags: 
 actualPrice: 32.76 EUR
 currency: EUR
 price: 32.76

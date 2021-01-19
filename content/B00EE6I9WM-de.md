@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pFlTMYt9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EE6I9WM-de Fossil Herren-Kette mit Anhänger Edelstahl Leder 45 cm - JF00899797'
+slug: 'B00EE6I9WM-de Fossil Herren-Kette mit Anhänger Edelstahl Leder 45 cm -...'
+tags: 
 actualPrice: 30.24 EUR
 currency: EUR
 price: 30.24

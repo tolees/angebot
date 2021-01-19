@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DYfZZa6UL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZZV3QHL-de Philips 273V7QDAB/00 68 cm  27 Zoll  Monitor  VGA  DVI  HDMI  5ms Reaktionszeit  1920 x 1080  60 Hz  mit Lautsprecher  schwarz'
+slug: 'B06ZZV3QHL-de Philips 273V7QDAB/00 68 cm 27 Zoll Monitor VGA DVI HDMI...'
+tags: 
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

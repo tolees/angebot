@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DX9vZmSrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B073CVFRFH-de Beurer BF 600 Diagnosewaage weiß  Messung von Körperfett  Körperwasser  Muskelanteil und Knochenmasse   Kalorienbedarf AMR/BMR  BMI  mit App-Anbindung  zertifizierter Datenschutz'
+slug: 'B073CVFRFH-de Beurer BF 600 Diagnosewaage weiß Messung von Körperfett...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

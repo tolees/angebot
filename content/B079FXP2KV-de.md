@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/314fyAxomML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FXP2KV-de Samsung Clear View Standing Cover  EF-ZG960  für das Galaxy S9  Violett'
+slug: 'B079FXP2KV-de Samsung Clear View Standing Cover EF-ZG960 für das Galaxy...'
+tags: 
 actualPrice: 8.26 EUR
 currency: EUR
 price: 8.26

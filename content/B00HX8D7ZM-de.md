@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31g8a-PMtLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HX8D7ZM-de HP F6V97AA#ABB Externes USB Laufwerk  für CD  DVD  schwarz'
+slug: 'B00HX8D7ZM-de HP F6V97AA#ABB Externes USB Laufwerk für CD DVD schwarz'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

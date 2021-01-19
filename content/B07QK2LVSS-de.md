@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21DeD23qyZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QK2LVSS-de Pentel BL77TLE-AX EnerGel Pure Gel-Tintenroller mit Druckmechanik  0 7 mm Kugeldurchmesser = 0 35 mm Strichstärke  nachfüllbar  1 Stück  schwarz'
+slug: 'B07QK2LVSS-de Pentel BL77TLE-AX EnerGel Pure Gel-Tintenroller mit...'
+tags: 
 actualPrice: 2.27 EUR
 currency: EUR
 price: 2.27

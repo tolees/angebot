@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21wP3LbbT1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HT94JC0-de Einhell Akku-Hochentaster GC-LC 1815 T  Lithium-Ionen Akku 18 V  1 5 Ah  Teleskop  200 mm Schnittlänge  Schnell-Ladegerät  Tragegurt '
+slug: 'B00HT94JC0-de Einhell Akku-Hochentaster GC-LC 1815 T Lithium-Ionen Akku...'
+tags: 
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

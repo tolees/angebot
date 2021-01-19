@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hIOwhXTYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XY8V3K5-de OnePlus 8  5G  Smartphone ohne Vertrag  12GB + 256GB Speicher  6.55" AMOLED 90Hz Display  4300 mAh Akku  Dreifach-Kamera  Dual-Sim - Interstellar Glow'
+slug: 'B07XY8V3K5-de OnePlus 8 5G Smartphone ohne Vertrag 12GB + 256GB Speicher...'
+tags: 
 actualPrice: 505.62 EUR
 currency: EUR
 price: 505.62

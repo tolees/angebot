@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FHUD7zP+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001VG8OMS-de Calvin Klein Underwear Herren Cotton Stretch Slip 3er Pack  Schwarz  001   XL'
+slug: 'B001VG8OMS-de Calvin Klein Underwear Herren Cotton Stretch Slip 3er Pack...'
+tags: 
 actualPrice: 28.75 EUR
 currency: EUR
 price: 28.75

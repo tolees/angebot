@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QSED8JM-de Tuxedo'
+tags: 
 actualPrice: 5.73 EUR
 currency: EUR
 price: 5.73

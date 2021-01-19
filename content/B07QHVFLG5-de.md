@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41z3CBbLK8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QHVFLG5-de KFD 19V 65W Power Adapter Netzteil Ladegerät für Intel NUC FSP065-10AABA Barebone System Mini PC NUC8I7BEH NUC8i5BEH NUC8i5BEK NUC7I7BNH NUC7I5BNK NUC7i5BNH NUC5CPYH NUC5i7RYH NUC6i3SYH NUC6CAYH'
+slug: 'B07QHVFLG5-de KFD 19V 65W Power Adapter Netzteil Ladegerät für Intel NUC...'
+tags: 
 actualPrice: 24.29 EUR
 currency: EUR
 price: 24.29

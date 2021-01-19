@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dDV91XT6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYH4SKW-de Merrell Damen Vapor Glove 4 Hallenschuhe  Blau  Velvet Morning   39 EU'
+slug: 'B07DYH4SKW-de Merrell Damen Vapor Glove 4 Hallenschuhe Blau Velvet...'
+tags: 
 actualPrice: 72.45 EUR
 currency: EUR
 price: 72.45

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bnKi+auLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C4VWWF1-de Aigital WLAN verstärker WiFi Repeater Range Extender 300Mbps Multifunktion Mini Wireless W-LAN Signal Booster Wireless Access Point 2.4GHz mit WPS Funktion Willigt IEEE802.11n/g/b'
+slug: 'B08C4VWWF1-de Aigital WLAN verstärker WiFi Repeater Range Extender...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

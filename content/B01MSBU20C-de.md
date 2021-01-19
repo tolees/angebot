@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41O-YaQa7bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MSBU20C-de foodspring L-Carnitin Kapseln  120 Stück  Vegan  Ideal für das Figur-Training mit 1200mg Carnipure pro Portion  Hergestellt in Deutschland'
+slug: 'B01MSBU20C-de foodspring L-Carnitin Kapseln 120 Stück Vegan Ideal für...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

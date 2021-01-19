@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SZSrmXsqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X5PMGOA-de WMF Aston Besteckset  12 Personen  60-teilig  Monobloc-Messer  Cromargan Edelstahl poliert  glänzend  spülmaschinengeeignet'
+slug: 'B00X5PMGOA-de WMF Aston Besteckset 12 Personen 60-teilig Monobloc-Messer...'
+tags: 
 actualPrice: 113.81 EUR
 currency: EUR
 price: 113.81

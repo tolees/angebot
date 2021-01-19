@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MARfgf0aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076Z3QFFY-de Dyson DYS-5028155 V 7 Motorhead Origin  100 W  21.6 V  Grau  Violett'
+slug: 'B076Z3QFFY-de Dyson DYS-5028155 V 7 Motorhead Origin 100 W 21.6 V Grau...'
+tags: 
 actualPrice: 284.0 EUR
 currency: EUR
 price: 284.0

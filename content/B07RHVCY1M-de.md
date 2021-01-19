@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31JW-X6078L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHVCY1M-de Denon AVR-X2600H 7.2-Kanal AV-Receiver  Hifi Verstärker  Alexa Kompatibel  8 HDMI Eingänge und 2 Ausgänge  Bluetooth und WLAN  Musikstreaming  Dolby Atmos  AirPlay 2  HEOS Multiroom'
+slug: 'B07RHVCY1M-de Denon AVR-X2600H 7.2-Kanal AV-Receiver Hifi Verstärker...'
+tags: 
 actualPrice: 471.79 EUR
 currency: EUR
 price: 471.79

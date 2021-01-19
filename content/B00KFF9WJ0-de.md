@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41DhaY9NZbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KFF9WJ0-de Timezone Herren Straight Leg Hose BenitoTZ cargo pants incl. belt  Gr. W34/L36  Beige  dirty sand 6166 '
+slug: 'B00KFF9WJ0-de Timezone Herren Straight Leg Hose BenitoTZ cargo pants...'
+tags: 
 actualPrice: 45.09 EUR
 currency: EUR
 price: 45.09

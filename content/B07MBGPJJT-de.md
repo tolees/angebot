@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417OOgd09CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MBGPJJT-de Pentel SESF30C-4 Brush Sign Pen Artist - Pinselstift mit extra feiner Pinsel-Spitze  4er Set  sortiert'
+slug: 'B07MBGPJJT-de Pentel SESF30C-4 Brush Sign Pen Artist - Pinselstift mit...'
+tags: 
 actualPrice: 11.68 EUR
 currency: EUR
 price: 11.68

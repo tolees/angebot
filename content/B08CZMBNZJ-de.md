@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rHfyNf4DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CZMBNZJ-de Genrics KÜCHEN-TELESKOPSTÄNDER AUS Edelstahl  1pcs '
+slug: 'B08CZMBNZJ-de Genrics KÜCHEN-TELESKOPSTÄNDER AUS Edelstahl 1pcs'
+tags: 
 actualPrice: 12.68 EUR
 currency: EUR
 price: 12.68

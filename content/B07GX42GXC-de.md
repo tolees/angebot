@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/315T9L2c%2BUL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GX42GXC-de ECOVACS Robotics DEEBOT 710 Saugroboter - Leistungsstarker Staubsauger Roboter mit MAX-Modus  systematischer Navigation auf Hartböden & Teppich - Mit Alexa- & Appsteuerung'
+slug: 'B07GX42GXC-de ECOVACS Robotics DEEBOT 710 Saugroboter - Leistungsstarker...'
+tags: 
 actualPrice: 269 EUR
 currency: EUR
 price: 269

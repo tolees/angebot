@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41qC6Y1uZ3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RMS67ZX-de HP Pavilion 595-p0020ng Desktop PC  AMD Ryzen 7  16 GB DDR4 RAM  1 TB HDD  256 GB SSD  Nvidia GeForce GTX 1050ti 4 GB DDR5  Windows 10 Home 64  silber'
+slug: 'B07RMS67ZX-de HP Pavilion 595-p0020ng Desktop PC AMD Ryzen 7 16 GB DDR4...'
+tags: 
 actualPrice: 708 EUR
 currency: EUR
 price: 708

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61HXzZfW7iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018DRK2BS-de Kunzer 7SS172 Steckschlüsselsatz 1/4" - 3/8" - 1/2"  172-teilig'
+slug: 'B018DRK2BS-de Kunzer 7SS172 Steckschlüsselsatz 1/4" - 3/8" - 1/2"...'
+tags: 
 actualPrice: 99.1 EUR
 currency: EUR
 price: 99.1

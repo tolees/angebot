@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51plgCd0ozL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007XREA72-de funny-frisch Chipsfrisch Currywurst Style  10er Pack  10 x 175 g '
+slug: 'B007XREA72-de funny-frisch Chipsfrisch Currywurst Style 10er Pack 10 x...'
+tags: 
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

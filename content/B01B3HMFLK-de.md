@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519QJE-bo5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B3HMFLK-de PROCAVE wasserdichter Matratzenschoner 80 x 200 cm - atmungsaktive Matratzenauflage  Made in Germany  weiß  Matratzenschutz ohne Knistern'
+slug: 'B01B3HMFLK-de PROCAVE wasserdichter Matratzenschoner 80 x 200 cm -...'
+tags: 
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

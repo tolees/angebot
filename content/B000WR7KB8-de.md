@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zeK5n4EqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000WR7KB8-de Villeroy & Boch Piemont Tafelbesteck für bis zu 6 Personen  30-teilig  Edelstahl'
+slug: 'B000WR7KB8-de Villeroy & Boch Piemont Tafelbesteck für bis zu 6 Personen...'
+tags: 
 actualPrice: 84.95 EUR
 currency: EUR
 price: 84.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PxNupRWIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XWOB46K-de Nike Herren Court Royale Sneaker Sneakers  Weiß  White / White   41 EU'
+slug: 'B00XWOB46K-de Nike Herren Court Royale Sneaker Sneakers Weiß White /...'
+tags: 
 actualPrice: 34.72 EUR
 currency: EUR
 price: 34.72

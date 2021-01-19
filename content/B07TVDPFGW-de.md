@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41og2mwroiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TVDPFGW-de Funko 45119 POP Animation: Evangelion - Rei Ayanami Neon Genesis Collectible Toy  Multicolour'
+slug: 'B07TVDPFGW-de Funko 45119 POP Animation: Evangelion - Rei Ayanami Neon...'
+tags: 
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

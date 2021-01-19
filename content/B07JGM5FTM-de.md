@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L6breN+ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JGM5FTM-de Master Regale® Schwerlastregal 180x120x45cm  HxBxT  Steckregal  Tragkraft bis zu 300 kg pro Fachboden. Verwendbar als Kellerregal  Lagerregal  Werkstattregal oder Garagenregal'
+slug: 'B07JGM5FTM-de Master Regale® Schwerlastregal 180x120x45cm HxBxT...'
+tags: 
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513oHdGg5TL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPJMDPV-de Meister Nivelliersystem für Fliesen 351-teilig - Fliesendicke 7-15 mm - Mit Zugzange - Clips & Abstandhalter / Fliesen-Nivellierhilfe mit Zuglasche / Verlegehilfe mit Keilen / 4423100'
+slug: 'B06XPJMDPV-de Meister Nivelliersystem für Fliesen 351-teilig -...'
+tags: 
 actualPrice: 28.23 EUR
 currency: EUR
 price: 28.23

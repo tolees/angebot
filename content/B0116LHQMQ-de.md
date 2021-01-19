@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DMKy32u2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0116LHQMQ-de CASCHA Sopran Ukulele Set für Kinder und Erwachsene I Ukulele Starter Kit mit 3 Plektren Tasche I Ukulele Set Aquila Saiten Nylon I Kleine Hawaii Gitarre für Anfänger Fortgeschrittene Braun EH 3953'
+slug: 'B0116LHQMQ-de CASCHA Sopran Ukulele Set für Kinder und Erwachsene I...'
+tags: 
 actualPrice: 26.35 EUR
 currency: EUR
 price: 26.35

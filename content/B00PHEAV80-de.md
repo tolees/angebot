@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yq9+UZ6rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PHEAV80-de caseable Kindle und Kindle Paperwhite Hülle  Pass this on'
+slug: 'B00PHEAV80-de caseable Kindle und Kindle Paperwhite Hülle Pass this on'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

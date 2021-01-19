@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+Dz6b6FzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0009JI5RW-de ZWILLING Schneiderschere  Stoffschere  Länge: 21 cm  Rostfreier Spezialstahl/Kunststoff  Superfection Classic'
+slug: 'B0009JI5RW-de ZWILLING Schneiderschere Stoffschere Länge: 21 cm...'
+tags: 
 actualPrice: 22.3 EUR
 currency: EUR
 price: 22.3

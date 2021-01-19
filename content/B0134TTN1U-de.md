@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61YHP-TlSrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0134TTN1U-de Creative Converting 315252 Birthday Plastic Tablecover Block Party Geburtstag Kunststoff Tischdecke  plastik  mehrfarbig'
+slug: 'B0134TTN1U-de Creative Converting 315252 Birthday Plastic Tablecover...'
+tags: 
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

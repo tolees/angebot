@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sgFMb5CcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083K3CD5W-de DXX Acryl Schaukasten Vitrine  Schaukasten Acryl Vitrine Display Case für Lego Creator 10266 NASA Apollo 11 Mondlandefähre  Ohne Modell '
+slug: 'B083K3CD5W-de DXX Acryl Schaukasten Vitrine Schaukasten Acryl Vitrine...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

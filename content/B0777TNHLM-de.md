@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310fMT9nM3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0777TNHLM-de Funko 26384 S1 Pop Vinylfigur Games Minecraft Alex  Multi  one Size'
+slug: 'B0777TNHLM-de Funko 26384 S1 Pop Vinylfigur Games Minecraft Alex Multi...'
+tags: 
 actualPrice: 6.92 EUR
 currency: EUR
 price: 6.92

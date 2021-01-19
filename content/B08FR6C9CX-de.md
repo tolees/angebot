@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MMI1aRNbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FR6C9CX-de [3 Bonusgegenstand] Simbans TangoTab 10-Zoll-Tablet  4 GB RAM  64 GB Festplatte  Android 10  Mini-HDMI  Micro-USB  USB-A  GPS  Dual WiFi  Bluetooth  IPS Screen  Dual Camera Computer-PC - TX4C'
+slug: 'B08FR6C9CX-de [3 Bonusgegenstand] Simbans TangoTab 10-Zoll-Tablet 4 GB...'
+tags: 
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

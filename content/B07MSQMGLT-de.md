@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414l3+m96iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSQMGLT-de Transcend 512GB SATA III 6GB/S MTS430S 42 mm m.2 SSD 430S SSD TS512GMTS430S'
+slug: 'B07MSQMGLT-de Transcend 512GB SATA III 6GB/S MTS430S 42 mm m.2 SSD 430S...'
+tags: 
 actualPrice: 69.79 EUR
 currency: EUR
 price: 69.79

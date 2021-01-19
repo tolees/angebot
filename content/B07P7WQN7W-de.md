@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+WVjTD1yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7WQN7W-de Xoro HMT 500 - Micro System Internet-/ DAB+/FM-Radio  CD Player  Bluetooth  Mediaplayer  2.4" Farbdisplay  RC  2x10W'
+slug: 'B07P7WQN7W-de Xoro HMT 500 - Micro System Internet-/ DAB+/FM-Radio CD...'
+tags: 
 actualPrice: 102.22 EUR
 currency: EUR
 price: 102.22

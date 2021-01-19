@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G4ZReA4fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CCCLR1J-de Hoseili Bluetooth Kopfhörer In Ear Kopfhörer Kabellos mit 120 Stunden Spielzeit  Wireless Kopfhörer Sport Ohrhörer  Stereo Deep Bass Touch-Control  Stereoanrufe  Battery LED Display-L3'
+slug: 'B08CCCLR1J-de Hoseili Bluetooth Kopfhörer In Ear Kopfhörer Kabellos mit...'
+tags: 
 actualPrice: 37.41 EUR
 currency: EUR
 price: 37.41

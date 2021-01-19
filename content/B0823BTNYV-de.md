@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SJgIDodML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0823BTNYV-de Xiaomi Mi Smart Compact Projector Mini Beamer mit Google Android TV 9.0 und Google Assistent  Full HD  60-120 Zoll  500 ANSI-Lumen  Autofokus  Keystone Korrektur  Sprachsteuerung  Stereo Lautsprecher '
+slug: 'B0823BTNYV-de Xiaomi Mi Smart Compact Projector Mini Beamer mit Google...'
+tags: 
 actualPrice: 419.0 EUR
 currency: EUR
 price: 419.0

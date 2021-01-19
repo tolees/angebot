@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JL5abZpkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZTGRS-de Puma Unisex-Erwachsene Rebound Layup Sd Fur Sneaker   Puma Black-Castlerock 01   43 EU'
+slug: 'B07KFZTGRS-de Puma Unisex-Erwachsene Rebound Layup Sd Fur Sneaker Puma...'
+tags: 
 actualPrice: 40.02 EUR
 currency: EUR
 price: 40.02

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HlXhw5XFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082TXMMCP-de WC Sitz  MUJIUSHI Toilettendeckel Oval Klodeckel mit Quick-Release-Funktion  Absenkautomatik und Justierbaren Edelstahlscharnier  Antibakterielle Klobrille Universelle Größe O-Form PP Toilettensitz'
+slug: 'B082TXMMCP-de WC Sitz MUJIUSHI Toilettendeckel Oval Klodeckel mit Quick-...'
+tags: 
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

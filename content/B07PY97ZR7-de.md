@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-HNlP3myL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PY97ZR7-de Funko 39719 POP Vinyl: Animation: Simpsons-Bart Fly Sammelbares Spielzeug  Mehrfarben'
+slug: 'B07PY97ZR7-de Funko 39719 POP Vinyl: Animation: Simpsons-Bart Fly...'
+tags: 
 actualPrice: 9.7 EUR
 currency: EUR
 price: 9.7

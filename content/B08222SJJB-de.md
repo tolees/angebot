@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tfM-jnN1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08222SJJB-de Bosch Professional 18V System Akku Baustrahler GLI 18V-4000 C  ohne Akkus und Ladegerät  Leuchtstärke: 4.000 lm  im Karton '
+slug: 'B08222SJJB-de Bosch Professional 18V System Akku Baustrahler GLI...'
+tags: 
 actualPrice: 129.49 EUR
 currency: EUR
 price: 129.49

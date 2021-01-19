@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TcgVzx6gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O8U58JQ-de Element System 10810-00001 Buchstütze Babylon  2 Stück für Holzregalboden'
+slug: 'B00O8U58JQ-de Element System 10810-00001 Buchstütze Babylon 2 Stück für...'
+tags: 
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

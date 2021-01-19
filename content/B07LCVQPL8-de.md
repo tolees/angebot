@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315Xk-omBML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LCVQPL8-de Lenovo Tab M10 25 5 cm  10 1 Zoll  1920x1200  FHD  IPS  Touch  Tablet-PC  Octa-Core  2 GB RAM  16 GB eMCP  WLAN  Android Oreo  schwarz'
+slug: 'B07LCVQPL8-de Lenovo Tab M10 25 5 cm 10 1 Zoll 1920x1200 FHD IPS Touch...'
+tags: 
 actualPrice: 160.63 EUR
 currency: EUR
 price: 160.63

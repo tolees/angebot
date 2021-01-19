@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CMOJUDA-de Scholl Clogs SUPERCOMFORT Frau'
+tags: 
 actualPrice: 55.86 EUR
 currency: EUR
 price: 55.86

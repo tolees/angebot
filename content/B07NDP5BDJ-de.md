@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vJeizyIIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDP5BDJ-de G-STAR RAW Herren Graphic 17 Core Round Neck Sweatshirt  Rosa  dk Tea Rose A827    Herstellergröße:XL '
+slug: 'B07NDP5BDJ-de G-STAR RAW Herren Graphic 17 Core Round Neck Sweatshirt...'
+tags: 
 actualPrice: 44.97 EUR
 currency: EUR
 price: 44.97

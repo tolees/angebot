@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071X7HZBN-de POP Television: Bob Ross'
+tags: 
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

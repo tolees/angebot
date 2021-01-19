@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4163N9lFJtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PW4WVRN-de SimpleLife Handtasche Drehverschluss  Tasche Fall Schnalle Verschluss für Handtaschen Zubehör DIY Handwerk'
+slug: 'B07PW4WVRN-de SimpleLife Handtasche Drehverschluss Tasche Fall Schnalle...'
+tags: 
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

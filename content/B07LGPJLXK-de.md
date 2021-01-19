@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4119AiM8uBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGPJLXK-de Smoby – Pretty Haus - Spielhaus für Kinder für drinnen und draußen  mit Küche und Küchenspielzeug  17 teilig   Gartenhaus für Jungen und Mädchen ab 2 Jahren'
+slug: 'B07LGPJLXK-de Smoby – Pretty Haus - Spielhaus für Kinder für drinnen und...'
+tags: 
 actualPrice: 124.94 EUR
 currency: EUR
 price: 124.94

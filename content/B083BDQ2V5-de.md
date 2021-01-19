@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51piiqN5VsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083BDQ2V5-de DXX Technik Bausteine 1965 Ford Mustang Hoonicorn Racing Auto  3181Teile 1:10 2.4G Sportwagen Bausteine Konstruktionsspielzeug Kompatibel mit Lego Technic'
+slug: 'B083BDQ2V5-de DXX Technik Bausteine 1965 Ford Mustang Hoonicorn Racing...'
+tags: 
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31W+M9SlIkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016RWKHBQ-de Trust Urban Senfus IPX5 wasserfeste Bluetooth In-Ear-Sport-Ohrhörer  kabellos  grün'
+slug: 'B016RWKHBQ-de Trust Urban Senfus IPX5 wasserfeste Bluetooth In-Ear-...'
+tags: 
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

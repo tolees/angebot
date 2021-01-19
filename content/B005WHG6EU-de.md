@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51j5fOeBgtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B005WHG6EU-de DeWalt Paneelsäge 1675W DWS780 inkl. Zubehör - Mit 305x30 mm HM-Sägeblatt ideal für den Innenausbau - Hohe Schnittkapazität & LED Schnittlinien Anzeige'
+slug: 'B005WHG6EU-de DeWalt Paneelsäge 1675W DWS780 inkl. Zubehör - Mit 305x30...'
+tags: 
 actualPrice: 699.46 EUR
 currency: EUR
 price: 699.46

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61WzFbGVy4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R7RSSGP-de Crystal Art CAK-XLED8 LED Kits  Multicolor'
+slug: 'B07R7RSSGP-de Crystal Art CAK-XLED8 LED Kits Multicolor'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

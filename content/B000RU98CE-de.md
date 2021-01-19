@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31jVD9Q2sKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000RU98CE-de Playshoes Unisex Kinder Regenhose  Buddelhose  Matschhose  Grün  Grün Gr.92'
+slug: 'B000RU98CE-de Playshoes Unisex Kinder Regenhose Buddelhose Matschhose...'
+tags: 
 actualPrice: 8.82 EUR
 currency: EUR
 price: 8.82

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41zrnm-nCtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF4Y6K1-de Levi s Damen 310 Shaping Super Skinny Jeans  Blau  Westbound 0036   29W/30L'
+slug: 'B07KF4Y6K1-de Levi s Damen 310 Shaping Super Skinny Jeans Blau Westbound...'
+tags: 
 actualPrice: 59.08 EUR
 currency: EUR
 price: 59.08

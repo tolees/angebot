@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51afrNee8WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083K1XDD5-de K9CK LED Licht Set für Lego Modell - DIY Leuchtende Bausteine Beleuchtung Kit für Lego 42078 Technic Mack Anthem - Modell Nicht Enthalten'
+slug: 'B083K1XDD5-de K9CK LED Licht Set für Lego Modell - DIY Leuchtende...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

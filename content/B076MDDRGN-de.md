@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HoUcv42ML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076MDDRGN-de Stranger Things: Music From The Netflix Original Series [2 LP] [Vinyl LP]'
+slug: 'B076MDDRGN-de Stranger Things: Music From The Netflix Original Series [2...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

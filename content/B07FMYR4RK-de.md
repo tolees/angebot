@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419A0VqHWRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FMYR4RK-de Philips Avent Natural Flaschenset SCD303/01  für Neugeborene aus Glas  transparent  3 Flaschen und Schnuller  120 und 240ml'
+slug: 'B07FMYR4RK-de Philips Avent Natural Flaschenset SCD303/01 für...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

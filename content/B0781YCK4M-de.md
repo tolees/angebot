@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h5OtZfYTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0781YCK4M-de caseable Kindle und Kindle Paperwhite Hülle  Gold Dots'
+slug: 'B0781YCK4M-de caseable Kindle und Kindle Paperwhite Hülle Gold Dots'
+tags: 
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

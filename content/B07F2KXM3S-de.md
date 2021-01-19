@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SQR1c+-9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F2KXM3S-de ECOVACS Robotics DEEBOT 600 Saugroboter – Staubsauger Roboter mit MAX-Modus  systematischer Reinigung auf Hartböden  Alexa- & Appsteuerung – Optional mit Wischfunktion'
+slug: 'B07F2KXM3S-de ECOVACS Robotics DEEBOT 600 Saugroboter – Staubsauger...'
+tags: 
 actualPrice: 209.99 EUR
 currency: EUR
 price: 209.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fkifRjI8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004QGXKR4-de Emsa 508570 Clip & Close Frischhaltedosen | 3-teiliges Set | 3 x 0 55 L | -40 bis +100 Grad | Kunststoff | 100 % Dicht | Besondere Frische-Dichtung'
+slug: 'B004QGXKR4-de Emsa 508570 Clip & Close Frischhaltedosen | 3-teiliges Set...'
+tags: 
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

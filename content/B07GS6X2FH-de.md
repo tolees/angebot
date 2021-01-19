@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zvTkxAI6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GS6X2FH-de Garmin vivomove HR Sport Black/Sandstone Fitness-Tracker  Schwarz/Sandstein  M'
+slug: 'B07GS6X2FH-de Garmin vivomove HR Sport Black/Sandstone Fitness-Tracker...'
+tags: 
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

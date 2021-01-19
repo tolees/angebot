@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51b7brWbpAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CKTJF17-de Frauen Geschenke，Body & Earth 6Pcs Lavendel Wellness Set für Frauen  Enthält Duschgel  Schaumbad  Bodylotion  Badesalz  Körperpeeling und Mehr  Geschenk für Mama'
+slug: 'B07CKTJF17-de Frauen Geschenke，Body & Earth 6Pcs Lavendel Wellness Set...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

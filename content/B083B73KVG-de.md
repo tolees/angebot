@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MNc6D9DzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083B73KVG-de UMIDIGI Smartwatch Uwatch3 Fitness Tracker 5 ATM Armbanduhr Sportuhr Smart Watch für Damen Herren Kinder mit Herzfrequenz Schlaftracker Kompatibel mit Android und IOS Xiaomi Samsung Huawei  Schwarz'
+slug: 'B083B73KVG-de UMIDIGI Smartwatch Uwatch3 Fitness Tracker 5 ATM...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

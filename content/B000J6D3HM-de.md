@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21VBMkS8QtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000J6D3HM-de Pentel R50 Tintenroller "Ball Pentel" 0 4mm  12 Stück  schwarz'
+slug: 'B000J6D3HM-de Pentel R50 Tintenroller "Ball Pentel" 0 4mm 12 Stück schwarz'
+tags: 
 actualPrice: 8.1 EUR
 currency: EUR
 price: 8.1

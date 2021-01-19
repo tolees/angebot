@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51o5Rr58LVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XGW3KRV-de Funko 13693 63650 Actionfigur Trollhunters: Jim Armored  Multicolour'
+slug: 'B06XGW3KRV-de Funko 13693 63650 Actionfigur Trollhunters: Jim Armored...'
+tags: 
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

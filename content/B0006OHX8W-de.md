@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D9Kh+DOtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0006OHX8W-de CALIDA Damen Midislip Lycraspitze Taillenslip  Schwarz  schwarz 992   38  Herstellergröße: XS = 36/38 '
+slug: 'B0006OHX8W-de CALIDA Damen Midislip Lycraspitze Taillenslip Schwarz...'
+tags: 
 actualPrice: 9.74 EUR
 currency: EUR
 price: 9.74

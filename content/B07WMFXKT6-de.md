@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41j5jEMDUQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WMFXKT6-de Dextro Energy Eiweißpulver Whey und Casein Protein inkl. Protein Shaker | 750g Vanille Proteinpulver ohne Zuckerzusatz | Ideal für Protein Pancake'
+slug: 'B07WMFXKT6-de Dextro Energy Eiweißpulver Whey und Casein Protein inkl....'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BPTqbyd0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPTBMW8-de Funko 37862 POP Vinyl: BTS: Jin Sammelbares Spielzeug  Mehrfarben'
+slug: 'B07KPTBMW8-de Funko 37862 POP Vinyl: BTS: Jin Sammelbares Spielzeug...'
+tags: 
 actualPrice: 9.39 EUR
 currency: EUR
 price: 9.39

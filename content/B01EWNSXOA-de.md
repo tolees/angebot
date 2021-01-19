@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41R-AzH8AEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EWNSXOA-de Petex Auto-Kindersitzerhöhung Max 103 ECE-Gruppe 2-3  Kinder von ca. 3 5-12 Jahre|15-36 kg  schwarz/grün'
+slug: 'B01EWNSXOA-de Petex Auto-Kindersitzerhöhung Max 103 ECE-Gruppe 2-3...'
+tags: 
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

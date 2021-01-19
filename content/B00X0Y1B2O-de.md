@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UviQIjvmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X0Y1B2O-de Funko 5897 S1 No POP Vinylfigur Mulan  Multi  Standard'
+slug: 'B00X0Y1B2O-de Funko 5897 S1 No POP Vinylfigur Mulan Multi Standard'
+tags: 
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

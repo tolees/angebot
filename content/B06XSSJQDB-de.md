@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41xl8-t151L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XSSJQDB-de American Tourister Soundbox - Spinner S Erweiterbar Handgepäck  55 cm  41 L  Schwarz  Bass Black '
+slug: 'B06XSSJQDB-de American Tourister Soundbox - Spinner S Erweiterbar...'
+tags: 
 actualPrice: 76.72 EUR
 currency: EUR
 price: 76.72

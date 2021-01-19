@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31A1BbZk2vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RY9L9YW-de Levi s Damen Perfect Vneck T-Shirt  Weiß  White + 0002   Medium'
+slug: 'B07RY9L9YW-de Levi s Damen Perfect Vneck T-Shirt Weiß White + 0002 Medium'
+tags: 
 actualPrice: 19.4 EUR
 currency: EUR
 price: 19.4

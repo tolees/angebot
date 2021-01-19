@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rnxbCLsyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WEN7IGU-de Hauck Eco Mobil - Bollerwagen Handwagen Transportwagen  für 2 Kinder Geeignet  mit Sonnendach und Sitzpolster  Faltbar  Traglast 50 kg - Forest Green'
+slug: 'B00WEN7IGU-de Hauck Eco Mobil - Bollerwagen Handwagen Transportwagen für...'
+tags: 
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

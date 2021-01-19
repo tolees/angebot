@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31XGhwSfxUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQYDU5B-de Lacoste L.12.12 Concept SStrap Vertical Shopping Bag High Risk Red'
+slug: 'B01MQYDU5B-de Lacoste L.12.12 Concept SStrap Vertical Shopping Bag High...'
+tags: 
 actualPrice: 69 EUR
 currency: EUR
 price: 69

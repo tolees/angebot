@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41B1gMFadkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M64JZV5-de JBL E55BT Over Ear Bluetooth Kopfhörer - Wireless Headphones mit integriertem Headset - Musikgenuss für bis zu 20 Stunden Blau'
+slug: 'B01M64JZV5-de JBL E55BT Over Ear Bluetooth Kopfhörer - Wireless...'
+tags: 
 actualPrice: 104.89 EUR
 currency: EUR
 price: 104.89

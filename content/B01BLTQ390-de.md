@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KxqDY637L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BLTQ390-de Echo Show  Vorherige Generation - 1. Gen.   Zertifiziert und generalüberholt - Weiß'
+slug: 'B01BLTQ390-de Echo Show Vorherige Generation - 1. Gen. Zertifiziert und...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

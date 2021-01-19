@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51KWtkrbGuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QM4WO7K-de Ravensburger 23402 - Disney Frozen Brettspiele auf zum Eispalast - Mitbringspiel'
+slug: 'B00QM4WO7K-de Ravensburger 23402 - Disney Frozen Brettspiele auf zum...'
+tags: 
 actualPrice: 5.31 EUR
 currency: EUR
 price: 5.31

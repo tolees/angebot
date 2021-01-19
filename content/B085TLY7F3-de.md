@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FvnNF7diL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085TLY7F3-de Bluetooth Kopfhörer  LESHI Bluetooth Kabellose Ohrhörer TWS In Ear Noise Cancelling Kopfhörer 5.0 Sport Headsets IPX7 Wasserdicht mit Mikrofon und Tragbare Ladehülle'
+slug: 'B085TLY7F3-de Bluetooth Kopfhörer LESHI Bluetooth Kabellose Ohrhörer TWS...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

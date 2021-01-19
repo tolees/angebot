@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414XGFC70rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WKFLC4Y-de Ajustable 2068 Reloj de metal Correa Correa Pulsera Remover removedor de pasador Plataforma de elevación Herramienta de reparación del kit de reparación Herramienta - Rojo'
+slug: 'B07WKFLC4Y-de Ajustable 2068 Reloj de metal Correa Correa Pulsera...'
+tags: 
 actualPrice: 2.13 EUR
 currency: EUR
 price: 2.13

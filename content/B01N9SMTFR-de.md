@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9SMTFR-de Citizen Herren Analog Quarz Uhr mit Nylon Armband AW5000-24E'
+tags: 
 actualPrice: 100.01 EUR
 currency: EUR
 price: 100.01

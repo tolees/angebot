@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BS5XBPDHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLRHK6M-de Huawei P30 128GB Handy  hellblau/Lavendel  Breathing Crystal  Android 9.0  Pie '
+slug: 'B07NLRHK6M-de Huawei P30 128GB Handy hellblau/Lavendel Breathing Crystal...'
+tags: 
 actualPrice: 289.9 EUR
 currency: EUR
 price: 289.9

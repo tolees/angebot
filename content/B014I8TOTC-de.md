@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41hv2Epz16L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B014I8TOTC-de AmazonBasics HL-007318 Hochgeschwindigkeits-HDMI-Kabel  CL3-zertifiziert  HDMI-Standard 2.0  4 6 m'
+slug: 'B014I8TOTC-de AmazonBasics HL-007318 Hochgeschwindigkeits-HDMI-Kabel...'
+tags: 
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

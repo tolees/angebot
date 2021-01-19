@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YeWyqjpdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B9YYN8X-de Keter Kissenbox Ontario  graphit'
+slug: 'B07B9YYN8X-de Keter Kissenbox Ontario graphit'
+tags: 
 actualPrice: 187.99 EUR
 currency: EUR
 price: 187.99

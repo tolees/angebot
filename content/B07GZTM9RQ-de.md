@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415SsMvOnqL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZTM9RQ-de HP Tango X Smart Home Drucker  HP Instant Ink  WLAN  Bluetooth  integrierte Sprachsteuerung  graues Wrap Pad  mit 2 Monaten Instant Ink inklusive  weiß/grau'
+slug: 'B07GZTM9RQ-de HP Tango X Smart Home Drucker HP Instant Ink WLAN...'
+tags: 
 actualPrice: 118.29 EUR
 currency: EUR
 price: 118.29

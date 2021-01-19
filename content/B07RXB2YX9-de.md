@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KNHku28QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXB2YX9-de LIGHTAILING Licht-Set Für  Architecture Venice  Modell - LED Licht-Set Kompatibel Mit Lego 21026 Modell Nicht Enthalten '
+slug: 'B07RXB2YX9-de LIGHTAILING Licht-Set Für Architecture Venice Modell - LED...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

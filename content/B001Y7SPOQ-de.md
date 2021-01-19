@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61PRNWuvivL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001Y7SPOQ-de Radio Rock Revolution  The Boat That Rocked '
+slug: 'B001Y7SPOQ-de Radio Rock Revolution The Boat That Rocked'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KKdoKPRhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZMZHQ3T-de 99AMZ Handyhalter fürs Auto & Handy Ring Halter | 2 in 1 Innovative Design | Multifunktion Autohalterung Lüftung Lüftungsschlitz Belüftung KFZ Phone Halterung Handy Halter für Smartphones  Blau '
+slug: 'B07ZMZHQ3T-de 99AMZ Handyhalter fürs Auto & Handy Ring Halter | 2 in 1...'
+tags: 
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

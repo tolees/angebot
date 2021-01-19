@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pTw+QB0gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7DPXFF-de Relaxdays Pizzablech  2er Set  rund  gelocht  antihaft  Pizza & Flammkuchen  Carbonstahl  Knusperblech  ∅ 32 cm  grau'
+slug: 'B07V7DPXFF-de Relaxdays Pizzablech 2er Set rund gelocht antihaft Pizza &...'
+tags: 
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

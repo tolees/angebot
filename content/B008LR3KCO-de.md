@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3106Jn5-BeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008LR3KCO-de Philips HF3510/01 Wake-Up Light mit Sonnenaufgangsfunktion in 3 Farbstufen inkl. digitalem FM Radio'
+slug: 'B008LR3KCO-de Philips HF3510/01 Wake-Up Light mit Sonnenaufgangsfunktion...'
+tags: 
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

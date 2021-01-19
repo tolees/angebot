@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21Ql+bLaNtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HHQVZQR-de Villeroy & Boch – Vapiano Suppenschalen-Set  2 Stück  700 ml  Premium Porzellan  weiß'
+slug: 'B07HHQVZQR-de Villeroy & Boch – Vapiano Suppenschalen-Set 2 Stück 700 ml...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

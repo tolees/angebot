@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wnHXaOLOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FFL495U-de Under Armour Herren HeatGear Armour 2.0 COMP Shorts halblange Kompressionshose  kurze Hose für Männer mit Kompressionspassform  Schwarz  L'
+slug: 'B01FFL495U-de Under Armour Herren HeatGear Armour 2.0 COMP Shorts...'
+tags: 
 actualPrice: 14.61 EUR
 currency: EUR
 price: 14.61

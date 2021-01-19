@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wy9JQrdKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JL73ZZD-de BenQ ZOWIE RL2460S 60 96 cm  24 Zoll  Konsolen e-Sports Monitor  offiziell lizensiert für PS4/PS4 Pro  Head-to-Head Setup  Höhenverstellung  Black eQualizer  Color Vibrance  1ms Reaktionszeit  grau'
+slug: 'B07JL73ZZD-de BenQ ZOWIE RL2460S 60 96 cm 24 Zoll Konsolen e-Sports...'
+tags: 
 actualPrice: 174.99 EUR
 currency: EUR
 price: 174.99

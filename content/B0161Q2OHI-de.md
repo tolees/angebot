@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515RuaauxqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0161Q2OHI-de Beurer BC 57 Handgelenk-Blutdruckmessgerät  Medizinprodukt mit App-Anbindung via Bluetooth  zertifizierter Datenschutz'
+slug: 'B0161Q2OHI-de Beurer BC 57 Handgelenk-Blutdruckmessgerät Medizinprodukt...'
+tags: 
 actualPrice: 39.96 EUR
 currency: EUR
 price: 39.96

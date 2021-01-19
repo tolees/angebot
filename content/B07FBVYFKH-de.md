@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519Q9-ZFYoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FBVYFKH-de Corsair CMK16GX4M2Z3600C18 Vengeance LPX 16GB  2x8GB  DDR4 3600MHz C18 XMP 2.0 High Performance Desktop Arbeitsspeicher Kit Schwarz'
+slug: 'B07FBVYFKH-de Corsair CMK16GX4M2Z3600C18 Vengeance LPX 16GB 2x8GB DDR4...'
+tags: 
 actualPrice: 60.9 EUR
 currency: EUR
 price: 60.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51b+cYL4eHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XBMG4JK-de Funko 14367 Actionfigur Westworld: Teddy  Multi'
+slug: 'B06XBMG4JK-de Funko 14367 Actionfigur Westworld: Teddy Multi'
+tags: 
 actualPrice: 4.13 EUR
 currency: EUR
 price: 4.13

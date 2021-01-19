@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51inozUeZxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078MZ4C6B-de Bart Schablone Bartpflege Bartschablone Bartformen für Kinnbart Koteletten Hals | Bartschablone Bartvorlage Styling | Bartkamm Styling Tool Symmetrische Bartschablonen und Kontur der Bartlinie'
+slug: 'B078MZ4C6B-de Bart Schablone Bartpflege Bartschablone Bartformen für...'
+tags: 
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

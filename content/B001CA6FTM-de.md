@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/212udpba5XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001CA6FTM-de HAZET 868X Verlängerung  1/4 Zoll  6.3 mm'
+slug: 'B001CA6FTM-de HAZET 868X Verlängerung 1/4 Zoll 6.3 mm'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

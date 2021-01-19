@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jfSQtF7oL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G6JFFNJ-de SEVERIN KA 4845 Type Switch Kaffeemaschine  Für gemahlenen Filterkaffee  8 Tassen  Inkl. Thermokanne  edelstahl/schwarz'
+slug: 'B07G6JFFNJ-de SEVERIN KA 4845 Type Switch Kaffeemaschine Für gemahlenen...'
+tags: 
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

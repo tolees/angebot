@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31QTX4c+mmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GT8ZDMP-de Sony PCM-A10 Diktiergerät  High-Res Aufnahme  FLAC  Stereo Mikrofon  SD Karten Slot  schwarz'
+slug: 'B07GT8ZDMP-de Sony PCM-A10 Diktiergerät High-Res Aufnahme FLAC Stereo...'
+tags: 
 actualPrice: 164.32 EUR
 currency: EUR
 price: 164.32

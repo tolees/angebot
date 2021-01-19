@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413HzRsAU4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXJ9B7X-de Maxi-Cosi CabrioFix Babyschale Gruppe 0+  nutzbar ab der Geburt - 12 Monate  ca. 0 - 13 kg  schwarz'
+slug: 'B01MXJ9B7X-de Maxi-Cosi CabrioFix Babyschale Gruppe 0+ nutzbar ab der...'
+tags: 
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

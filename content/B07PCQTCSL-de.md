@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hivXuPSaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PCQTCSL-de RATEL Mini USB Tischventilator  12 5 cm USB Ventilator 3 Geschwindigkeiten Tragbar PC Ventilator mit 1 2 Meter langem Kabel Mini-Schreibtisch Ventilator für Zuhause und Büro - Ruhig und kraftvoll'
+slug: 'B07PCQTCSL-de RATEL Mini USB Tischventilator 12 5 cm USB Ventilator 3...'
+tags: 
 actualPrice: 7.93 EUR
 currency: EUR
 price: 7.93

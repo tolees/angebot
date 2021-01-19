@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Yc-SgGusL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071FVH19S-de uvex Unisex – Erwachsene  hlmt 400 visor style Skihelm  black  58-61 cm'
+slug: 'B071FVH19S-de uvex Unisex – Erwachsene hlmt 400 visor style Skihelm...'
+tags: 
 actualPrice: 99.68 EUR
 currency: EUR
 price: 99.68

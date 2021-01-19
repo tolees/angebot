@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ozxy2i7YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0754FZJNP-de BENECREAT 3mm 20m elastische Schnur  Schmuckherstellung Perlenschnur  Stretchfaden Draht Stoff Crafting String Seil Bungee Cord für DIY Handwerk Armbänder Halsketten  Weiß'
+slug: 'B0754FZJNP-de BENECREAT 3mm 20m elastische Schnur Schmuckherstellung...'
+tags: 
 actualPrice: 11.09 EUR
 currency: EUR
 price: 11.09

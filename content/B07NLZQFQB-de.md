@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41YJf6cNgjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLZQFQB-de Fila Herren Disruptor Low Sneaker  Schwarz  Black 1010262-12v   44 EU'
+slug: 'B07NLZQFQB-de Fila Herren Disruptor Low Sneaker Schwarz Black...'
+tags: 
 actualPrice: 50.49 EUR
 currency: EUR
 price: 50.49

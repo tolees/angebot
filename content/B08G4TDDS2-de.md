@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kU5JxElUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08G4TDDS2-de Sensor Seifenspender  400ml Berührungsloser Infrared Sensor Seifenspender Automatischer Seifenspender mit Bewegungssensor IP67 tiefes wasserdichtes Design elektrischer Seifenspender für Bad/Küche'
+slug: 'B08G4TDDS2-de Sensor Seifenspender 400ml Berührungsloser Infrared Sensor...'
+tags: 
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31zgtttyqDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZTZC6R-de Yamaha P-125B Digital Piano  schwarz - - Kompaktes elektronisches Klavier in schlichtem Design für perfekte Spielbarkeit - Kompatibel mit kostenloser App "Smart Pianist"'
+slug: 'B07BZTZC6R-de Yamaha P-125B Digital Piano schwarz - - Kompaktes...'
+tags: 
 actualPrice: 400 EUR
 currency: EUR
 price: 400

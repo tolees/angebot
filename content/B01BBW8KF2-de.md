@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41WW7ptb0JL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BBW8KF2-de Aeronautica Militare  blank Melange Grey XL'
+slug: 'B01BBW8KF2-de Aeronautica Militare blank Melange Grey XL'
+tags: 
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

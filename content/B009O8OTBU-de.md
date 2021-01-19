@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HcIJ0qQxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009O8OTBU-de Lindt & Sprüngli Alpenmilch Mini Eier  3er Pack  3 x 100 g '
+slug: 'B009O8OTBU-de Lindt & Sprüngli Alpenmilch Mini Eier 3er Pack 3 x 100 g'
+tags: 
 actualPrice: 6.06 EUR
 currency: EUR
 price: 6.06

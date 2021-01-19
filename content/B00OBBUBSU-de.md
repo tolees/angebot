@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dyNC5uz7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OBBUBSU-de Bosch Professional Baustativ BT 150  55-157 cm  1 5 kg  Stativ-Gewinde 1/4 Zoll '
+slug: 'B00OBBUBSU-de Bosch Professional Baustativ BT 150 55-157 cm 1 5 kg...'
+tags: 
 actualPrice: 26.29 EUR
 currency: EUR
 price: 26.29

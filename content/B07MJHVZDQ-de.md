@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412spp4QkAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJHVZDQ-de Playstation Digital Wecker LCD | PS4 Dualshock Controller Design | Verwenden Sie die Tasten  um Uhrzeit und Datum einzustellen'
+slug: 'B07MJHVZDQ-de Playstation Digital Wecker LCD | PS4 Dualshock Controller...'
+tags: 
 actualPrice: 20.55 EUR
 currency: EUR
 price: 20.55

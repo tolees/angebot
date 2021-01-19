@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GH1S9GW9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081HD8ZTR-de CELMAN CADA Bausteine Auto Hybrid Tourenwagen 1586 Teile Sport Auto Modell mit Scheinwerfer  Frontspoiler  Lenkrad  doppelter Rückspiegel  Dachkanal  Karosserieseitenkanal und Antenne'
+slug: 'B081HD8ZTR-de CELMAN CADA Bausteine Auto Hybrid Tourenwagen 1586 Teile...'
+tags: 
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

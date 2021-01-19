@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51pvvFafZvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M1OUBES-de NOCO GB30 Lithium Starthilfegerät  12 V Anzahl 1'
+slug: 'B00M1OUBES-de NOCO GB30 Lithium Starthilfegerät 12 V Anzahl 1'
+tags: 
 actualPrice: 76.48 EUR
 currency: EUR
 price: 76.48

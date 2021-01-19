@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bioHwurvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RPW4PSS-de Pioneer DDJ-200 - Bluetooth-Einstiegscontroller für DJs mit Smartphone  Schwarz'
+slug: 'B07RPW4PSS-de Pioneer DDJ-200 - Bluetooth-Einstiegscontroller für DJs...'
+tags: 
 actualPrice: 139.97 EUR
 currency: EUR
 price: 139.97

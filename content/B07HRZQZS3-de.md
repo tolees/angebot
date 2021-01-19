@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YxQz8A0HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRZQZS3-de Nokia 7.1  2018  32GB Blau Dual-SIM Android 8 Smartphone mit Zeiss-Kamera'
+slug: 'B07HRZQZS3-de Nokia 7.1 2018 32GB Blau Dual-SIM Android 8 Smartphone mit...'
+tags: 
 actualPrice: 117.96 EUR
 currency: EUR
 price: 117.96

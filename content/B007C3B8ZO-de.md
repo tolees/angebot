@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311ekSCrwcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007C3B8ZO-de Hama "Bernstein" LED Nachtlicht für Kinderzimmer und Schlafzimmer  stromsparend  nur 0 2 W  Orientierungslicht für Gang und Keller  Stimmungslicht  Nachtlampe  Eurostecker '
+slug: 'B007C3B8ZO-de Hama "Bernstein" LED Nachtlicht für Kinderzimmer und...'
+tags: 
 actualPrice: 5.84 EUR
 currency: EUR
 price: 5.84

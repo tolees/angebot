@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SMvWkaKyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N3X06CS-de Philips HU4801/01 Luftbefeuchter  bis zu 25m²  hygienische NanoCloud-Technologie  leiser Nachtmodus  für Kinder und Babies geeignet  weiß  hellgrün'
+slug: 'B00N3X06CS-de Philips HU4801/01 Luftbefeuchter bis zu 25m² hygienische...'
+tags: 
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

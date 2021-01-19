@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/312YCwvG0XL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B000LVNR62-de WMF Ersatzteil Dichtungsring Schnellkochtopf  22 cm  Gummiring  Gummi'
+slug: 'B000LVNR62-de WMF Ersatzteil Dichtungsring Schnellkochtopf 22 cm...'
+tags: 
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

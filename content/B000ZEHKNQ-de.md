@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000ZEHKNQ-de Rothenberger 70228 Standhahnmutternschlüssel 235mm'
+tags: 
 actualPrice: 31.85 EUR
 currency: EUR
 price: 31.85

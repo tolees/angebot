@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51d4ySNwPfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WYYW2YM-de Tablet 10 Zoll  Android 8.1  Dragon Touch K10 Tablet Pad 2GB+16GB  Quad Core IPS HD  1280 x 800  Touchscreen  2MP Dual Kamera /Micro HDMI /GPS/ FM /5G WiFi /Bluetooth 4.0  schwarz'
+slug: 'B07WYYW2YM-de Tablet 10 Zoll Android 8.1 Dragon Touch K10 Tablet Pad...'
+tags: 
 actualPrice: 73.12 EUR
 currency: EUR
 price: 73.12

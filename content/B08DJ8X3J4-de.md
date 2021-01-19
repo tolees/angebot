@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Di4aVRskL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJ8X3J4-de Luftentfeuchter Elektrisch 1200ml Geringer Energieverbrauch Reinigungsfunktion Auto-Off  Timer gegen Feuchtigkeit und Schimmel für Badezimmer  Küche  Keller  Kleiderschrank  Schlafzimmer'
+slug: 'B08DJ8X3J4-de Luftentfeuchter Elektrisch 1200ml Geringer...'
+tags: 
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411Gox0wXXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FF8P5WA-de Maier Sports Herren Funktionshose Oberjoch  graphite  58'
+slug: 'B00FF8P5WA-de Maier Sports Herren Funktionshose Oberjoch graphite 58'
+tags: 
 actualPrice: 83.26 EUR
 currency: EUR
 price: 83.26

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318s3TXZnXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQ7P63G-de Samsung Galaxy Fit  Fitnesstracker  schwarz  mit Bluetooth  Farbdisplay  Pulsmesser und Schlafanalyse'
+slug: 'B07NQ7P63G-de Samsung Galaxy Fit Fitnesstracker schwarz mit Bluetooth...'
+tags: 
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

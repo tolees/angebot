@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/21zxUusy1kL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00SG5P7R2-de RÖSLE Steak Besteck Set 4-teilig  Edelstahl 18/10  inkl. praktischer Holzbox'
+slug: 'B00SG5P7R2-de RÖSLE Steak Besteck Set 4-teilig Edelstahl 18/10 inkl....'
+tags: 
 actualPrice: 17.57 EUR
 currency: EUR
 price: 17.57

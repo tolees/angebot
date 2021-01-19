@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+41Uv9INL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQGO8V6-de Nikon D5600 Kit AF-P DX 18-55 VR Spiegelreflexkamera  8 1 cm  3 2 Zoll   24 2 Megapixel  schwarz'
+slug: 'B01MQGO8V6-de Nikon D5600 Kit AF-P DX 18-55 VR Spiegelreflexkamera 8 1...'
+tags: 
 actualPrice: 477.0 EUR
 currency: EUR
 price: 477.0

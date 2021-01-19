@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sUoAYXqLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BJ1C8JZ-de Dickie Toys 203833004 - Playlife Fishing Boat  Schlauchboot inkl. Figur  20 cm'
+slug: 'B07BJ1C8JZ-de Dickie Toys 203833004 - Playlife Fishing Boat Schlauchboot...'
+tags: 
 actualPrice: 7.77 EUR
 currency: EUR
 price: 7.77

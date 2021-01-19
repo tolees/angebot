@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KlZzOwoFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M5G7DIP-de SHARP LC-24CHF4012 60 cm  24 Zoll  Fernseher  HD TV  Triple Tuner  [Energieklasse A]'
+slug: 'B01M5G7DIP-de SHARP LC-24CHF4012 60 cm 24 Zoll Fernseher HD TV Triple...'
+tags: 
 actualPrice: 116.93 EUR
 currency: EUR
 price: 116.93

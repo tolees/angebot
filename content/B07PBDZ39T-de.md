@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21XyNA1GJbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PBDZ39T-de Nordic Kitchen Rührlöffel  eiche schwarz LxB 20x8 4cm'
+slug: 'B07PBDZ39T-de Nordic Kitchen Rührlöffel eiche schwarz LxB 20x8 4cm'
+tags: 
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

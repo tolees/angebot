@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XMJAQLi-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HJB43VK-de Funko 34215 Rick & Morty: Tiny Rick w/Guitar  Exc  POP Vinylfigur  Multi  Standard'
+slug: 'B07HJB43VK-de Funko 34215 Rick & Morty: Tiny Rick w/Guitar Exc POP...'
+tags: 
 actualPrice: 7.72 EUR
 currency: EUR
 price: 7.72

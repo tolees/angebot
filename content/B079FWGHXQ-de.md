@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41564ln5+lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079FWGHXQ-de Trust GXT 707R Resto Gaming-Stuhl  Ergonomisch mit Höhenverstellbare Armlehnen  Rot'
+slug: 'B079FWGHXQ-de Trust GXT 707R Resto Gaming-Stuhl Ergonomisch mit...'
+tags: 
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

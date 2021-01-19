@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317VmQ4UQDL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFGW5S2-de Samsung Galaxy S10 Smartphone Bundle  15.5cm  6.1 Zoll  128 GB interner Speicher  8 GB RAM  Dual SIM  Android  prism blue  inkl. 36 Monate Herstellergarantie [Exklusiv bei Amazon] | Deutsche Version'
+slug: 'B07SFGW5S2-de Samsung Galaxy S10 Smartphone Bundle 15.5cm 6.1 Zoll 128...'
+tags: 
 actualPrice: 555.0 EUR
 currency: EUR
 price: 555.0

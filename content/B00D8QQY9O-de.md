@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41StjFf7xJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D8QQY9O-de Under Armour Herren Performance Poloshirt  Grau carbon heather  S'
+slug: 'B00D8QQY9O-de Under Armour Herren Performance Poloshirt Grau carbon...'
+tags: 
 actualPrice: 15.42 EUR
 currency: EUR
 price: 15.42

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31URF+3G-HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081Q5RCMV-de Bluetooth Headset mit Microfon TaoTronics PC Headset kabellos Kopfhörer Smart AI Noise Cancellation 34Std. Spielzeit für LKW Fahrer Computer Office Call Center Skype'
+slug: 'B081Q5RCMV-de Bluetooth Headset mit Microfon TaoTronics PC Headset...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

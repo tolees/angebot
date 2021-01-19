@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414gxeBakvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y7R5JW2-de Bluetooth Lautsprecher  AXLOIE Wireless tragbarer Lautsprecher Bluetooth 5.0 intensiver Bass HiFi Stereo Sound  TF-Karte/AUX-Freisprechanrufe Eingebautes Mikrofon 10 Stunden Spielzeit'
+slug: 'B07Y7R5JW2-de Bluetooth Lautsprecher AXLOIE Wireless tragbarer...'
+tags: 
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

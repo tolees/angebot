@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ffi1aygbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ASB66DA-de Neff TBD 4800 N Kochfeld Elektro / Induktion / 79 5 cm / Automatische Sicherheitsabschaltung Kindersicherung / schwarz'
+slug: 'B01ASB66DA-de Neff TBD 4800 N Kochfeld Elektro / Induktion / 79 5 cm /...'
+tags: 
 actualPrice: 581.85 EUR
 currency: EUR
 price: 581.85

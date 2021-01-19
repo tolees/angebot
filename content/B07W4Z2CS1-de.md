@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51z09Ju-IyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4Z2CS1-de LED Schrankbeleuchtung mit Bewegungsmelder - 30er LED Nachtlicht Schranklicht  USB Nachtlampe mit 3 Helligkeitsstufen für Kinderzimmer und Küche  Flurlicht  3er Set'
+slug: 'B07W4Z2CS1-de LED Schrankbeleuchtung mit Bewegungsmelder - 30er LED...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

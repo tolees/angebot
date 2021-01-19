@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kFFA3FmyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017IZGIR8-de Siemens EX845LYC1E iQ700 Kochfeld Elektro / Ceran/Glaskeramik / 79 5 cm / Power Boost Funktion / schwarz'
+slug: 'B017IZGIR8-de Siemens EX845LYC1E iQ700 Kochfeld Elektro /...'
+tags: 
 actualPrice: 829.0 EUR
 currency: EUR
 price: 829.0

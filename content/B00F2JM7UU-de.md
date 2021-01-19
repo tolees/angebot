@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Js49YKVpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F2JM7UU-de Karlie Transportbox Nomad  Größe XL  90 x 60 x 68 cm'
+slug: 'B00F2JM7UU-de Karlie Transportbox Nomad Größe XL 90 x 60 x 68 cm'
+tags: 
 actualPrice: 64.33 EUR
 currency: EUR
 price: 64.33

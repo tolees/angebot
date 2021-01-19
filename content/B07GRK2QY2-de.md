@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dCMxWC7OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GRK2QY2-de CITIZEN Promaster Marine Eco-Drive Herren Taucheruhr CA0710-82L'
+slug: 'B07GRK2QY2-de CITIZEN Promaster Marine Eco-Drive Herren Taucheruhr...'
+tags: 
 actualPrice: 198.1 EUR
 currency: EUR
 price: 198.1

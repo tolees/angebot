@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QzSiWc8dL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFY3Y94-de Puma Defy Wn s  Damen Hallenschuhe  Pink  Bridal Rose-Puma White 23   5  38 EU  EU   UK '
+slug: 'B07KFY3Y94-de Puma Defy Wn s Damen Hallenschuhe Pink Bridal Rose-Puma...'
+tags: 
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

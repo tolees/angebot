@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313IcmqH8BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WHF6X3X-de HyperX Fury HX432C16FB3AK2/32 Arbeitsspeicher DIMM DDR4   Kit 2x16GB  32GB 3200MHz CL16  RGB'
+slug: 'B07WHF6X3X-de HyperX Fury HX432C16FB3AK2/32 Arbeitsspeicher DIMM DDR4...'
+tags: 
 actualPrice: 119.9 EUR
 currency: EUR
 price: 119.9

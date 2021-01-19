@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OybvtcUdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0771VWSMG-de Tefal Elegance C36708 Bratpfanne 32 cm  Aluminium  schwarz'
+slug: 'B0771VWSMG-de Tefal Elegance C36708 Bratpfanne 32 cm Aluminium schwarz'
+tags: 
 actualPrice: 24.46 EUR
 currency: EUR
 price: 24.46

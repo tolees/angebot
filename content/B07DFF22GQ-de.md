@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WjlX7nj8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFF22GQ-de Funko 34910 Game of Thrones: Ghost POP Schlüsselanhänger Figur  Multi'
+slug: 'B07DFF22GQ-de Funko 34910 Game of Thrones: Ghost POP Schlüsselanhänger...'
+tags: 
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

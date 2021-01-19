@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41mrXWt5H3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPS9H48-de Funko 36666 POP Bobble: Avengers Endgame: Ant-Man Sammelfiguren  Multi  Standard'
+slug: 'B07KPS9H48-de Funko 36666 POP Bobble: Avengers Endgame: Ant-Man...'
+tags: 
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

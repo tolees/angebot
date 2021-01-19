@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+-eQaBRUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00J4JKPBC-de Invicta 8929OB Pro Diver Unisex Uhr Edelstahl Automatik schwarzen Zifferblat'
+slug: 'B00J4JKPBC-de Invicta 8929OB Pro Diver Unisex Uhr Edelstahl Automatik...'
+tags: 
 actualPrice: 83.23 EUR
 currency: EUR
 price: 83.23

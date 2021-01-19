@@ -6,7 +6,8 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JFWP34M-de RÖSLE Frischhaltedeckel Ø 28 cm  Glas mit rundumlaufenden Silikonrand  spülmaschinengeeignet'
+slug: 'B00JFWP34M-de RÖSLE Frischhaltedeckel Ø 28 cm Glas mit rundumlaufenden...'
+tags: 
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21wmmfVlZoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L2CPPH2-de GoPro Pro 3 5-mm-Mikrofonadapter für HERO7 Black  HERO6 Black  HERO5 Black  HERO5 Session  Offizielles GoPro-Zubehör '
+slug: 'B01L2CPPH2-de GoPro Pro 3 5-mm-Mikrofonadapter für HERO7 Black HERO6...'
+tags: 
 actualPrice: 46.76 EUR
 currency: EUR
 price: 46.76

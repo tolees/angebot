@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UcOz5iJUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MQD2TL-de Viewsonic PX747-4K UHD Heimkino DLP Beamer  4K  3.500 ANSI Lumen  2x HDMI  10 Watt Lautsprecher  1.2x optischer Zoom  HDR  weiß'
+slug: 'B079MQD2TL-de Viewsonic PX747-4K UHD Heimkino DLP Beamer 4K 3.500 ANSI...'
+tags: 
 actualPrice: 779.0 EUR
 currency: EUR
 price: 779.0

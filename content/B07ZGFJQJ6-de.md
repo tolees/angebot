@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51dFD5JBEOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZGFJQJ6-de Bluetooth Lautsprecher 5.0  Tronsmart T6 Mini 15W Tragbarer Lautsprecher mit 24-Stunden-Spielzeit  360° TWS Stereo Sound  IPX6 wasserdicht  Unterstützung für TF/Micro-SD-Karte  Sprachassistent  Alexa'
+slug: 'B07ZGFJQJ6-de Bluetooth Lautsprecher 5.0 Tronsmart T6 Mini 15W Tragbarer...'
+tags: 
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

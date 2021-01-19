@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31D3vZ0T-QL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0725FTG7Y-de Sony HT-RT4  5.1 Soundbar System  600W  hohe Rücklautsprechern  HDMI  USB  NFC/Bluetooth  schwarz'
+slug: 'B0725FTG7Y-de Sony HT-RT4 5.1 Soundbar System 600W hohe...'
+tags: 
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

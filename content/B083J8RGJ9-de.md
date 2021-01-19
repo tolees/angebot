@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cbxbCkEFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083J8RGJ9-de Oacvien Bluetooth Adapter 5.0 Transmitter Empfänger  2 in 1 mit High Definition und Low Latency Audio Adapter mit RCA & 3.5 mm AUX kompatibel  für TV PC Kopfhörer HiFi Lautsprecher Radio'
+slug: 'B083J8RGJ9-de Oacvien Bluetooth Adapter 5.0 Transmitter Empfänger 2 in 1...'
+tags: 
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

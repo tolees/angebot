@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511SstPPMWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083DF2SDB-de adsf Tentacles Double Stimulation Toy - Sie Müssen Hart Und Schnell Sein  Um Sie über Die Ränder Zu Schicken'
+slug: 'B083DF2SDB-de adsf Tentacles Double Stimulation Toy - Sie Müssen Hart...'
+tags: 
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

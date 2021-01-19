@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ceg-5dP8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083TSFB4Y-de Crucial Ballistix BL2K8G26C16U4W 2666 MHz  DDR4  DRAM  Desktop Gaming Speicher Kit  16GB  8GB x2   CL16  weiß'
+slug: 'B083TSFB4Y-de Crucial Ballistix BL2K8G26C16U4W 2666 MHz DDR4 DRAM...'
+tags: 
 actualPrice: 58.48 EUR
 currency: EUR
 price: 58.48

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Kv+m3AYwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R7BD68F-de LE-IDEA Drohne IDEA10 - Faltbare GPS Drohne mit 1080P 120° FPV WiFi Kamera HD live übertragung - Return Home - Follow Me  Anfänger und Experte Tragetasche  Verbesserte Version  7.4 V  1200 mAh '
+slug: 'B07R7BD68F-de LE-IDEA Drohne IDEA10 - Faltbare GPS Drohne mit 1080P 120°...'
+tags: 
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vRMM7kHDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P9BLDKR-de Amazon Echo  3. Generation   smarter Lautsprecher mit Alexa  Sandstein Stoff'
+slug: 'B07P9BLDKR-de Amazon Echo 3. Generation smarter Lautsprecher mit Alexa...'
+tags: 
 actualPrice: 53.6 EUR
 currency: EUR
 price: 53.6

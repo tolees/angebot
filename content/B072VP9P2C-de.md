@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NaOnA1Q+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072VP9P2C-de CITIZEN Herren Analog Solar Uhr mit Edelstahl Armband AS2050-87E'
+slug: 'B072VP9P2C-de CITIZEN Herren Analog Solar Uhr mit Edelstahl Armband...'
+tags: 
 actualPrice: 222.0 EUR
 currency: EUR
 price: 222.0

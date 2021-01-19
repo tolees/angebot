@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515R-2h68rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CDEXB56-de Funko 9299 S1 No Actionfigur Games: Overwatch: Reaper  Multi'
+slug: 'B01CDEXB56-de Funko 9299 S1 No Actionfigur Games: Overwatch: Reaper Multi'
+tags: 
 actualPrice: 9.03 EUR
 currency: EUR
 price: 9.03

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51idGTV1kiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0798NW8KM-de Elegant Life Besteck  24-teilige Besteck Set  aus Japan-Edelstahl Hochwertige Spiegelpolierte Besteck-Sets  Mehrzweckgebrauch für Haus  Küche  Restaurant Besteck Sets mit Geschenkbox für 6 Personen'
+slug: 'B0798NW8KM-de Elegant Life Besteck 24-teilige Besteck Set aus Japan-...'
+tags: 
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

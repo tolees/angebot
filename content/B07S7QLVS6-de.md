@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uEsJPjYfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7QLVS6-de HP ENVY x360 13-ar0205ng  13 3 Zoll / Full HD IPS Touch  Convertible Notebook  AMD Ryzen 5 3500U  8GB DDR4 RAM  512GB SSD  AMD Radeon RX Vega 8  Windows 10 Home  FPR IR camera  schwarz'
+slug: 'B07S7QLVS6-de HP ENVY x360 13-ar0205ng 13 3 Zoll / Full HD IPS Touch...'
+tags: 
 actualPrice: 545.0 EUR
 currency: EUR
 price: 545.0

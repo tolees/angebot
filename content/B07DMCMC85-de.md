@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cKAi5TscL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DMCMC85-de Lacoste Herren ESPARRE BL 1 CMA Sneaker  Blau  Navy/White   42 EU'
+slug: 'B07DMCMC85-de Lacoste Herren ESPARRE BL 1 CMA Sneaker Blau Navy/White 42 EU'
+tags: 
 actualPrice: 30.6 EUR
 currency: EUR
 price: 30.6

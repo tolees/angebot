@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rXK1ufDaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHJS4XR-de ONLY Damen T-Shirt Onlvic S/S Solid Top Noos Wvn   Schwarz  Black Black    40'
+slug: 'B06XHJS4XR-de ONLY Damen T-Shirt Onlvic S/S Solid Top Noos Wvn Schwarz...'
+tags: 
 actualPrice: 11.63 EUR
 currency: EUR
 price: 11.63

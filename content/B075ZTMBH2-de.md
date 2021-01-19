@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315YKMop4UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075ZTMBH2-de X-WATCH 54010 "SIONA XW FIT" Damen Smartwatch  Activity Tracker für Android und Apple iOS Light Rose Gold'
+slug: 'B075ZTMBH2-de X-WATCH 54010 "SIONA XW FIT" Damen Smartwatch Activity...'
+tags: 
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

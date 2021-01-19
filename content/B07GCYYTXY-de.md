@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41EMfiUoyZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GCYYTXY-de W.2 Fiber Carbon Cube - verbesserte Version - nur 73 g - Zauberwürfel'
+slug: 'B07GCYYTXY-de W.2 Fiber Carbon Cube - verbesserte Version - nur 73 g -...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

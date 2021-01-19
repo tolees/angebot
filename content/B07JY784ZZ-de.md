@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PiHC7DVYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JY784ZZ-de AUKEY Bluetooth Kopfhörer  Key Series Bluetooth 5 In Ear Kopfhörer mit Hybrid Treibern  aptX Low Latency  IPX6 Wasserdicht  8 Stunden Spielzeit und Mikrofon für iPhone  iPad  Samsung  Huawei und Sony'
+slug: 'B07JY784ZZ-de AUKEY Bluetooth Kopfhörer Key Series Bluetooth 5 In Ear...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/418S%2BRv-CTL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B004X9XOO8-de Panasonic VW-PH80XE-K Robuste Softtasche  geeignet für Camcorder schwarz '
+slug: 'B004X9XOO8-de Panasonic VW-PH80XE-K Robuste Softtasche geeignet für...'
+tags: 
 actualPrice: 16.52 EUR
 currency: EUR
 price: 16.52

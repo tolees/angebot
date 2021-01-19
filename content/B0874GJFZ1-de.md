@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-vmgtjYjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0874GJFZ1-de Multifunctional vegetable cutter 11 sets of plastic kitchen 6-blade draining sliced silk grinder'
+slug: 'B0874GJFZ1-de Multifunctional vegetable cutter 11 sets of plastic...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

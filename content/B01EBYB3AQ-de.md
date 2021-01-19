@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41T2IIdBizL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EBYB3AQ-de Bruetting KANSAS  Unisex-Erwachsene Trekking- & Wanderschuhe  Schwarz  Schwarz/anthrazit   36 EU  3 Erwachsene UK '
+slug: 'B01EBYB3AQ-de Bruetting KANSAS Unisex-Erwachsene Trekking- &...'
+tags: 
 actualPrice: 52.83 EUR
 currency: EUR
 price: 52.83

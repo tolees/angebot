@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZRkSQ05LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YN79RJG-de AOC Gaming 24G2U5/BK 60 cm  23 8 Zoll  Monitor  FHD  HDMI  DisplayPort  Free-Sync  1ms Reaktionszeit  75 Hz  1920x1080  schwarz/rot'
+slug: 'B07YN79RJG-de AOC Gaming 24G2U5/BK 60 cm 23 8 Zoll Monitor FHD HDMI...'
+tags: 
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

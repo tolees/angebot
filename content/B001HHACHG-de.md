@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31X3fawT88L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001HHACHG-de Leifheit Wandrollenhalter Parat ComfortLine-Serie für 3 Rollen  saubere Schnittkanten durch praktischen Schneidabroller  Küchenrollenhalter mit Folienschneider sorgt für griffbereite Folien-Enden'
+slug: 'B001HHACHG-de Leifheit Wandrollenhalter Parat ComfortLine-Serie für 3...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

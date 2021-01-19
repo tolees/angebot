@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416Ur4r9+NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HSB5ZM2-de SHARP PS 940 Partylautsprecher mit DJ-Mischpult und eingebautem Akku  14 Stunden Wiedergabezeit  Bluetooth  Ultra-Bass-Einstellung  Karaoke-Funktion  LED-Lichter blitzend zur Musik  180 Watt'
+slug: 'B07HSB5ZM2-de SHARP PS 940 Partylautsprecher mit DJ-Mischpult und...'
+tags: 
 actualPrice: 151.62 EUR
 currency: EUR
 price: 151.62

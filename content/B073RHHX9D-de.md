@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YAfu7zaAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RHHX9D-de adidas Herren Terrex Swift R2 Mid GTX Trekking-& Wanderhalbschuhe  Schwarz  Negbas 000   45 1/3 EU'
+slug: 'B073RHHX9D-de adidas Herren Terrex Swift R2 Mid GTX Trekking-&...'
+tags: 
 actualPrice: 97.52 EUR
 currency: EUR
 price: 97.52

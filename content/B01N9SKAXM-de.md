@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419OVOhny7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9SKAXM-de Citizen Damen Analog Quarz Uhr mit Edelstahl Armband EM0503-83X'
+slug: 'B01N9SKAXM-de Citizen Damen Analog Quarz Uhr mit Edelstahl Armband...'
+tags: 
 actualPrice: 113.25 EUR
 currency: EUR
 price: 113.25

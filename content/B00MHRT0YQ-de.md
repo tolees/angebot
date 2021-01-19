@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517LNy14SuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MHRT0YQ-de Sylvanian Families 5108 5108-Essen-Set in der Schule  Mehrfarbig'
+slug: 'B00MHRT0YQ-de Sylvanian Families 5108 5108-Essen-Set in der Schule...'
+tags: 
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

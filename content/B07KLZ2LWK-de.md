@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413QWLsiqmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KLZ2LWK-de BRIKSMAX Led Beleuchtungsset für Schiff in der Flasche  Kompatibel Mit Lego 21313 Bausteinen Modell - Ohne Lego Set'
+slug: 'B07KLZ2LWK-de BRIKSMAX Led Beleuchtungsset für Schiff in der Flasche...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

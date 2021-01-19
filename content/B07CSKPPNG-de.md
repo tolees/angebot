@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31osNq62-VL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CSKPPNG-de Razer Base Station Chroma Headset Ständer  mit RGB und USB-Port  Rutschfeste Unterlage  Chroma RGB Beleuchtung  mit 3 USB Anschlüssen '
+slug: 'B07CSKPPNG-de Razer Base Station Chroma Headset Ständer mit RGB und USB-...'
+tags: 
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

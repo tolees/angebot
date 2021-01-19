@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Eq8z0N7bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQCVHQ6-de Der neue Echo Dot  3. Gen.  – smarter Lautsprecher mit Uhr und Alexa  Sandstein Stoff'
+slug: 'B07NQCVHQ6-de Der neue Echo Dot 3. Gen. – smarter Lautsprecher mit Uhr...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

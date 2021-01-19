@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Tq2-OgJbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002OL2LL4-de Mannesmann Pneumatischer Türschließer  weiß  M41115'
+slug: 'B002OL2LL4-de Mannesmann Pneumatischer Türschließer weiß M41115'
+tags: 
 actualPrice: 9.93 EUR
 currency: EUR
 price: 9.93

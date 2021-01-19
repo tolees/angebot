@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31KD5bjx3dL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WWWLRJP-de Sonos One SL All-In-One Smart Speaker  Kraftvoller WLAN Lautsprecher mit App Steuerung und AirPlay 2 - Multiroom Speaker für unbegrenztes Musikstreaming  schwarz  ohne Sprachsteuerung'
+slug: 'B07WWWLRJP-de Sonos One SL All-In-One Smart Speaker Kraftvoller WLAN...'
+tags: 
 actualPrice: 162.99 EUR
 currency: EUR
 price: 162.99

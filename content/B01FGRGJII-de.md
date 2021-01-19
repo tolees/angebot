@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ajeukA01L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FGRGJII-de Corsair K70 LUX Rot LED Mechanische Gaming Tastatur  Cherry MX Blue: Präzise und Hörbar  Rote LED Hintergrundbeleuchtung  QWERTZ DE Layout  schwarz'
+slug: 'B01FGRGJII-de Corsair K70 LUX Rot LED Mechanische Gaming Tastatur Cherry...'
+tags: 
 actualPrice: 89.9 EUR
 currency: EUR
 price: 89.9

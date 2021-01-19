@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VbjDGQRwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083QSRJ2F-de Lenovo Tab M10 FHD Plus 26 2 cm  10 3 Zoll  1920x1200  FHD  IPS  Touch  Tablet-PC  Octa-Core  4 GB RAM  64 GB eMCP  WLAN  Android 9  grau'
+slug: 'B083QSRJ2F-de Lenovo Tab M10 FHD Plus 26 2 cm 10 3 Zoll 1920x1200 FHD...'
+tags: 
 actualPrice: 190.99 EUR
 currency: EUR
 price: 190.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x3A1tU95L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HM8GR4G-de Philips 50PUS6203/12 126 cm  50 Zoll  LED-Fernseher  4K Ultra HD  Smart TV  Triple Tuner '
+slug: 'B07HM8GR4G-de Philips 50PUS6203/12 126 cm 50 Zoll LED-Fernseher 4K Ultra...'
+tags: 
 actualPrice: 225.0 EUR
 currency: EUR
 price: 225.0

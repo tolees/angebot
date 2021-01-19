@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ONmed22SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MHX38B2-de Sony SRS-XB32 kabelloser Bluetooth Lautsprecher  tragbar  NFC  farbige Lichtleiste  Extra Bass  Stroboskoplicht  wasserabweisend  kompatibel mit Party Chain  schwarz'
+slug: 'B07MHX38B2-de Sony SRS-XB32 kabelloser Bluetooth Lautsprecher tragbar...'
+tags: 
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

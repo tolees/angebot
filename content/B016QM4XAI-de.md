@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31VPxkKfbOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016QM4XAI-de Tommy Hilfiger Herren CORE STRETCH SLIM POPLIN SHIRT Freizeithemd  Weiß  Bright White 100   Large'
+slug: 'B016QM4XAI-de Tommy Hilfiger Herren CORE STRETCH SLIM POPLIN SHIRT...'
+tags: 
 actualPrice: 53.52 EUR
 currency: EUR
 price: 53.52

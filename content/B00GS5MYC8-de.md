@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nPAf3lFXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GS5MYC8-de Bosch Rasenmäher ARM 34  Grasfangbox  Karton  1300 W  Schnitthöhe 20-70 mm  Schnittbreite 34 cm  11 kg '
+slug: 'B00GS5MYC8-de Bosch Rasenmäher ARM 34 Grasfangbox Karton 1300 W...'
+tags: 
 actualPrice: 85.99 EUR
 currency: EUR
 price: 85.99

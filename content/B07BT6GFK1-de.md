@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413ENCMabJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BT6GFK1-de ZIMZIM Multi-Tool Taschenmesser  5 in 1 Multifunktions-Taschenwerkzeug mit Dosenöffner Flaschenöffner Klappmesser und Schraubendreher  Multifunktionaler Taschenmesser'
+slug: 'B07BT6GFK1-de ZIMZIM Multi-Tool Taschenmesser 5 in 1 Multifunktions-...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

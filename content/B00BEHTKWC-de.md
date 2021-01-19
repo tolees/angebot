@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317vAV2EpYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BEHTKWC-de Sonos Playbar WLAN Soundbar  schwarz – TV Soundbar mit kraftvollem Sound für Heimkino & Musikstreaming – TV Lautsprecher mit optischem Audio Anschluss'
+slug: 'B00BEHTKWC-de Sonos Playbar WLAN Soundbar schwarz – TV Soundbar mit...'
+tags: 
 actualPrice: 639.99 EUR
 currency: EUR
 price: 639.99

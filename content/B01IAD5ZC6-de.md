@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412SiQIOYHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IAD5ZC6-de Seagate Backup Plus HUB  8 TB  externe Festplatte mit 2-fach USB Hub  3.5 Zoll  USB 3.0  PC & Mac  ModelNr.: STEL8000200'
+slug: 'B01IAD5ZC6-de Seagate Backup Plus HUB 8 TB externe Festplatte mit 2-fach...'
+tags: 
 actualPrice: 133.55 EUR
 currency: EUR
 price: 133.55

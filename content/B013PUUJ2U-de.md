@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31m5nJ1di3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013PUUJ2U-de SET-ERGÄNZUNG - Gigaset Lichtschalter - manueller Funktionsschalter für Funksteckdose und Alarmanlage - Smart Home Schalter'
+slug: 'B013PUUJ2U-de SET-ERGÄNZUNG - Gigaset Lichtschalter - manueller...'
+tags: 
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

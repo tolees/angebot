@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ktcpVqr+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DM8QD2B-de Philips 14-in-1 Multigroom MG7745/15  Barttrimmer  Haarschneider  Körperhaartrimmer  Ohr- und Nasenhaartrimmer  selbstschärfende Metallklingen'
+slug: 'B07DM8QD2B-de Philips 14-in-1 Multigroom MG7745/15 Barttrimmer...'
+tags: 
 actualPrice: 54.89 EUR
 currency: EUR
 price: 54.89

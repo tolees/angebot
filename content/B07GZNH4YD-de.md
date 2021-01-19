@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51tH5M7A39L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZNH4YD-de Bohrer Set  TACKLIFE 42tlg. Professionelles Set  Bohrer  Bit und Steckschlüssel  geeignet für alle Akkuschrauber Bohrschrauber - DNS02'
+slug: 'B07GZNH4YD-de Bohrer Set TACKLIFE 42tlg. Professionelles Set Bohrer Bit...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

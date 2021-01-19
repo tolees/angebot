@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bD1q-aa8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009TR6SF6-de Tablet Kissen - ideal passend zu Samsung Tab  Apple iPad  Lenovo  Huawei Mediapad - Tablet Halterung  eReader Halter für Bett & Couch'
+slug: 'B009TR6SF6-de Tablet Kissen - ideal passend zu Samsung Tab Apple iPad...'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

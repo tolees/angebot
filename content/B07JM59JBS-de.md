@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Q3QmAA0AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JM59JBS-de Playmobil 70179 1.2.3 Meine erste Eisenbahn  bunt'
+slug: 'B07JM59JBS-de Playmobil 70179 1.2.3 Meine erste Eisenbahn bunt'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

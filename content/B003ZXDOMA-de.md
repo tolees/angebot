@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-s87qsVJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003ZXDOMA-de Harman/Kardon Soundsticks III LED Desktop Soundsystem Lautsprechersystem mit Zwei "Sticks" Satellitenlautsprechern und Aktivem Subwoofer für Geräte mit 3 5mm Aux Kompatibilität - Transparent'
+slug: 'B003ZXDOMA-de Harman/Kardon Soundsticks III LED Desktop Soundsystem...'
+tags: 
 actualPrice: 167.75 EUR
 currency: EUR
 price: 167.75

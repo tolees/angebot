@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CHwC5rzQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7YZJQH-de Brother JX17FE Nähmaschine mit 17 Nähprogramme  Freiarm  Automatisches Nähen  Elektrische Nähmaschinen'
+slug: 'B07W7YZJQH-de Brother JX17FE Nähmaschine mit 17 Nähprogramme Freiarm...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

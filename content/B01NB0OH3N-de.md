@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iz3aMHo0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NB0OH3N-de Panama Jack Damen Julia Clay Riemchensandalen  Braun  Cuero B1   40 EU'
+slug: 'B01NB0OH3N-de Panama Jack Damen Julia Clay Riemchensandalen Braun Cuero...'
+tags: 
 actualPrice: 51.6 EUR
 currency: EUR
 price: 51.6

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31V52vVZ+-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AIHY66I-de UGG Damen Classic Short II 1016223-BLK Schneestiefel  Schwarz  38 EU'
+slug: 'B01AIHY66I-de UGG Damen Classic Short II 1016223-BLK Schneestiefel...'
+tags: 
 actualPrice: 110.0 EUR
 currency: EUR
 price: 110.0

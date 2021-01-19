@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nLBlCZCCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQ8PZ3N-de Samsung Galaxy Fit  Fitnesstracker  silber  mit Bluetooth  Farbdisplay  Pulsmesser und Schlafanalyse'
+slug: 'B07NQ8PZ3N-de Samsung Galaxy Fit Fitnesstracker silber mit Bluetooth...'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

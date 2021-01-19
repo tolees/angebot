@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EcHYTCUdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DWBPP4N-de Garmin vívoactive 3 Music Granitblau GPS-Fitness-Smartwatch – Musikplayer  Garmin Pay  Sport-Apps'
+slug: 'B07DWBPP4N-de Garmin vívoactive 3 Music Granitblau GPS-Fitness-...'
+tags: 
 actualPrice: 186.95 EUR
 currency: EUR
 price: 186.95

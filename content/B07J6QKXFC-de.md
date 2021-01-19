@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BohdHJXdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J6QKXFC-de PROACC Klavier Playmat  Kinder Klaviertastatur Musik Playmat Spielzeug  große Größe  39 * 14 Zoll  lustige Tanzmatte für Babys Kleinkind Jungen und Mädchen Geschenk'
+slug: 'B07J6QKXFC-de PROACC Klavier Playmat Kinder Klaviertastatur Musik...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

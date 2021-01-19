@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sUGzk2VsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00STL8GK8-de Hasbro FurReal Friends B0449EU6- JJ  mein hopsender Mops  elektronisches Haustier'
+slug: 'B00STL8GK8-de Hasbro FurReal Friends B0449EU6- JJ mein hopsender Mops...'
+tags: 
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

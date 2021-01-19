@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00R8RCLC8-de Floïd masaje genuino vigoroso Aftershave 150ml'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

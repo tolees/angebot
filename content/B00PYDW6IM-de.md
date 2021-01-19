@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414K992h9aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PYDW6IM-de Nike Md Runner 2  Herren Gymnastikschuhe  Blau  Midnight Navy/White-Wolf Grey   42 EU'
+slug: 'B00PYDW6IM-de Nike Md Runner 2 Herren Gymnastikschuhe Blau Midnight...'
+tags: 
 actualPrice: 53.9 EUR
 currency: EUR
 price: 53.9

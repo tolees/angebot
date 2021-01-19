@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rhqVAUQ0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7PL93P-de JOMARTO Smart Steckdose  Wlan Steckdose Alexa Steckdose Smart Plug Wifi Steckdose  APP gesteuert Kompatibel mit Alexa Echo und Google Home Assistant  16A'
+slug: 'B07S7PL93P-de JOMARTO Smart Steckdose Wlan Steckdose Alexa Steckdose...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

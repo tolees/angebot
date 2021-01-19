@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zGhaxWmYL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083JGLPVC-de IBTOM CASTLE Rapunzel Kostüm Kinder Prinzessin Kleid Karneval Cosplay Party Halloween Faschingskostüm Verkleidung Karneval Faschingskostüm Cosplay Party Halloween Festkleid Violett 2-3 Jahre'
+slug: 'B083JGLPVC-de IBTOM CASTLE Rapunzel Kostüm Kinder Prinzessin Kleid...'
+tags: 
 actualPrice: 13.43 EUR
 currency: EUR
 price: 13.43

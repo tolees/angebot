@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P5bYyHu0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KHWIOOO-de Post-it R3306SMI Haftnotiz Super Sticky Z-Notes  6 Blöcke  90 Blatt  76 x 76 mm  türkis/neongrün/mohnrot'
+slug: 'B01KHWIOOO-de Post-it R3306SMI Haftnotiz Super Sticky Z-Notes 6 Blöcke...'
+tags: 
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

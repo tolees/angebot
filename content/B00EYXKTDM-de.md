@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GmkTm2GPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EYXKTDM-de TP-Link TL-WPA4220T KIT AV600 WLAN N300 WiFi Powerline  max. 600Mbit/s Powerline  max. 300Mbit/s WLAN 2 4GHz  Plug und Play  kompatibel zu allen Powerline Adaptern  3-Teilig  weiß'
+slug: 'B00EYXKTDM-de TP-Link TL-WPA4220T KIT AV600 WLAN N300 WiFi Powerline...'
+tags: 
 actualPrice: 85.9 EUR
 currency: EUR
 price: 85.9

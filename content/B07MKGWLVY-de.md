@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Nz3JfwUAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MKGWLVY-de Huker 18-in-1 Schneeflocke Multitool Karte Edelstahl Fahrrad Multifunktionswerkzeug tragbare Schraubendreher Flaschenöffner Ringschlüssel Sechskantschlüssel für Outdoor  Silber '
+slug: 'B07MKGWLVY-de Huker 18-in-1 Schneeflocke Multitool Karte Edelstahl...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

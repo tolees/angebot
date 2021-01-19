@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FtF6CvS4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQF4B63-de L.O.L. Surprise! - Mädchen-Badeanzug mit Volant und Allover-Print für Strand und Pool  offiziell lizenziertes Originalprodukt 18-XXX 146 cm/11 Jahre'
+slug: 'B07SQF4B63-de L.O.L. Surprise! - Mädchen-Badeanzug mit Volant und...'
+tags: 
 actualPrice: 20.31 EUR
 currency: EUR
 price: 20.31

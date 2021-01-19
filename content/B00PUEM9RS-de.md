@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Yb80zQ-zL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PUEM9RS-de Acer S277HKwmidpp 69 cm  27 Zoll  Monitor  DVI  HDMI  Displayport  mini Displayport  UHD  Speaker  4ms Reaktionszeit  glossy white'
+slug: 'B00PUEM9RS-de Acer S277HKwmidpp 69 cm 27 Zoll Monitor DVI HDMI...'
+tags: 
 actualPrice: 345.0 EUR
 currency: EUR
 price: 345.0

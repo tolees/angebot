@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lelDxJFBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PGQ6KMR-de Lenovo IdeaPad C340 35 6 cm  14 Zoll  1920x1080  FHD  IPS  Touch  Convertible Notebook  Intel Pentium 5405U  4GB RAM  128GB SSD  Intel UHD-Grafik 610  Windows 10 Home S  schwarz'
+slug: 'B07PGQ6KMR-de Lenovo IdeaPad C340 35 6 cm 14 Zoll 1920x1080 FHD IPS...'
+tags: 
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

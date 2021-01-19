@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51M+s6uzJEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072LDZXFC-de Ringverkleinerer mit Schmuck-Poliertuch für lose Ringe  12 Stück  3 Größen: 2 mm/3 mm/4 mm'
+slug: 'B072LDZXFC-de Ringverkleinerer mit Schmuck-Poliertuch für lose Ringe 12...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

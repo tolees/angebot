@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Kr5kDr5aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HBCNNL8-de Apple iPhone XS Max  512 GB  - Space Grau'
+slug: 'B07HBCNNL8-de Apple iPhone XS Max 512 GB - Space Grau'
+tags: 
 actualPrice: 974.9 EUR
 currency: EUR
 price: 974.9

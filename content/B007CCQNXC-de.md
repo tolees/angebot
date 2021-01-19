@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KakkMuhbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007CCQNXC-de Theo Klein 2813 - Bosch Car Service Parkhaus  5 Ebenen  Spielzeug'
+slug: 'B007CCQNXC-de Theo Klein 2813 - Bosch Car Service Parkhaus 5 Ebenen...'
+tags: 
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

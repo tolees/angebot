@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MZiZcFotL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EUUXBDE-de Logitech Z200 2.0 Lautsprecher mit Subwoofer  Surround Sound  10 Watt Spitzenleistung  2x 3.5mm Eingänge  Lautstärke-Regler  PC/TV/Smartphone/Tablet - Midnight Black/schwarz'
+slug: 'B00EUUXBDE-de Logitech Z200 2.0 Lautsprecher mit Subwoofer Surround...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

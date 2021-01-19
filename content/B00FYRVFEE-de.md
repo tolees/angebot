@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51x2VTvd96L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FYRVFEE-de Kopfschutz / Schutzhelmkombination Yukon   stoßfester und atmungsaktiver PP – Helm  bequemer Gehörschutz  breites und robuste Netzvisier aus Edelstahl für den Augenschutz   SNR-Wert: 25 9 dB'
+slug: 'B00FYRVFEE-de Kopfschutz / Schutzhelmkombination Yukon stoßfester und...'
+tags: 
 actualPrice: 19.75 EUR
 currency: EUR
 price: 19.75

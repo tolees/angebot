@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tKJI2KSXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079PDFGSZ-de I  Tonya [Blu-ray]'
+slug: 'B079PDFGSZ-de I Tonya [Blu-ray]'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hvWDQ-ShL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081SK9C7W-de Bluetooth Lautsprecher Tragbarer Bluedio HS  Hurricane  Wireless-Neckband-Lautsprecher Theater Stereo Surroud Ton  FM Radio SD-Karten-Slot mit Mikrofon Kabelloser Lautsprecher für Sport im Freien'
+slug: 'B081SK9C7W-de Bluetooth Lautsprecher Tragbarer Bluedio HS Hurricane...'
+tags: 
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

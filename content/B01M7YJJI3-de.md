@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51n4dkiJ0RL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M7YJJI3-de Funko 12777 Actionfigur Marvel: Guardians O/T Galaxy 2: Ego  Skin Light Tri Coffee  Standard'
+slug: 'B01M7YJJI3-de Funko 12777 Actionfigur Marvel: Guardians O/T Galaxy 2:...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

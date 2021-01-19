@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3164eiJ066L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LUKEGGS-de WOFI Wandleuchte  1-flammig  Serie Avignon  1 x LED  6.6 W  Höhe 4.5 cm  Tiefe 30 cm  Kelvin 3000  L'
+slug: 'B00LUKEGGS-de WOFI Wandleuchte 1-flammig Serie Avignon 1 x LED 6.6 W...'
+tags: 
 actualPrice: 35.74 EUR
 currency: EUR
 price: 35.74

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41th1YA3VtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K9W5EJ0-de Garmin Forerunner 35 GPS-Laufuhr  Herzfrequenzmessung am Handgelenk  Smart Notifications  Lauffunktionen'
+slug: 'B01K9W5EJ0-de Garmin Forerunner 35 GPS-Laufuhr Herzfrequenzmessung am...'
+tags: 
 actualPrice: 121.14 EUR
 currency: EUR
 price: 121.14

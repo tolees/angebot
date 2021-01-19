@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TLPcy4AgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BGH6ZTZ-de Red Bull Energy Drink Kokos-Blaubeere Dosen Getränke White Edition 12er Palette  EINWEG  12 x 250 ml '
+slug: 'B07BGH6ZTZ-de Red Bull Energy Drink Kokos-Blaubeere Dosen Getränke White...'
+tags: 
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

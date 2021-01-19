@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21zi7xla8TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V9JCC78-de Samsung Clear View Cover EF-ZN975 für Galaxy Note 10+  White'
+slug: 'B07V9JCC78-de Samsung Clear View Cover EF-ZN975 für Galaxy Note 10+ White'
+tags: 
 actualPrice: 24.33 EUR
 currency: EUR
 price: 24.33

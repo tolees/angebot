@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hzuGd7ihL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0758NHWS8-de SanDisk Ultra 256GB MicroSDXC Speicherkarte + SD-Adapter mit A1 App-Leistung bis zu 100 MB/s  Klasse 10  U1'
+slug: 'B0758NHWS8-de SanDisk Ultra 256GB MicroSDXC Speicherkarte + SD-Adapter...'
+tags: 
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

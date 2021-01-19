@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Y-hWwAVDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6W8KVY-de Oral-B CrossAction Black Edition Aufsteckbürsten  Borsten im 16-Grad Winkel für eine überlegene Reinigung  5 Stück  schwarz'
+slug: 'B07L6W8KVY-de Oral-B CrossAction Black Edition Aufsteckbürsten Borsten...'
+tags: 
 actualPrice: 15.59 EUR
 currency: EUR
 price: 15.59

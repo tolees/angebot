@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Y+AhEFMqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D6GM25T-de Hoseili WK60 Bluetooth Kopfhörer In Ear  Kabellose Kopfhörer mit Soliden Bass-Sound  Wireless Kopfhörer Sport Ohrhörer  Stereo Deep Bass Touch-Control  Stereoanrufe  Battery LED Display'
+slug: 'B08D6GM25T-de Hoseili WK60 Bluetooth Kopfhörer In Ear Kabellose...'
+tags: 
 actualPrice: 30.98 EUR
 currency: EUR
 price: 30.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412YmrHRWUL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BNVRXKE-de Dakine Herren  Rucksack Duel  Schwarz  26L'
+slug: 'B01BNVRXKE-de Dakine Herren Rucksack Duel Schwarz 26L'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

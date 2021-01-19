@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316jswLm5wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CLPQ5TK-de Omars Powerbank 10000mAh Externer Akku Quick Charge 3.0 USB C PD Input/Output bis 9V/2A USB-A 18W Digital Display für iPhone X 8 Samsung Galaxy S8 S7 Handy Nintendo Switch Ladegerät Tragbar 10000'
+slug: 'B07CLPQ5TK-de Omars Powerbank 10000mAh Externer Akku Quick Charge 3.0...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

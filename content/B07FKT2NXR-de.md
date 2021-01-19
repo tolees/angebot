@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ffaiwx6VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKT2NXR-de Güde 02882 Automatik Schlauchtrommel 15M  12 Bar max. Arbeitsdruck  9 5mm Innendurchmesser  3mm Stärke Wandung '
+slug: 'B07FKT2NXR-de Güde 02882 Automatik Schlauchtrommel 15M 12 Bar max....'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

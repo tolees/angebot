@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mvzGELdTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013WAPAM2-de Bosch Professional Laser Entfernungsmesser GLM 50 C  Bluetooth-Datentransfer  Flächen-/Volumenberechnung  max. Messbereich: 50 m  2x 1 5-V Batterien  Schutztasche '
+slug: 'B013WAPAM2-de Bosch Professional Laser Entfernungsmesser GLM 50 C...'
+tags: 
 actualPrice: 90.99 EUR
 currency: EUR
 price: 90.99

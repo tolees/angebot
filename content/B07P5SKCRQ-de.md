@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cU1Ovmt1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5SKCRQ-de Vtech 80-520904 Switch & Go Dinos - Stegosaurus  Spielzeugdinosaurier  Mehrfarbig'
+slug: 'B07P5SKCRQ-de Vtech 80-520904 Switch & Go Dinos - Stegosaurus...'
+tags: 
 actualPrice: 18.68 EUR
 currency: EUR
 price: 18.68

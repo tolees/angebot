@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vGzOqZbrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XYG7B2D-de Bang & Olufsen Beoplay P2 Bluetooth-Lautsprecher  tragbar  mit integriertem Mikrofon  sandstone'
+slug: 'B06XYG7B2D-de Bang & Olufsen Beoplay P2 Bluetooth-Lautsprecher tragbar...'
+tags: 
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41I+5F930dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788BZY9S-de Tommy Hilfiger Damen Bralette  Blau  Navy Blazer 416   Medium  Herstellergröße: MD '
+slug: 'B0788BZY9S-de Tommy Hilfiger Damen Bralette Blau Navy Blazer 416 Medium...'
+tags: 
 actualPrice: 27.96 EUR
 currency: EUR
 price: 27.96

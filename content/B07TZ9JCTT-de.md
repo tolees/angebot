@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414Gdo4RlwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZ9JCTT-de Design Fahrradzubehör | Fahrradhalter Wand | Fahrrad Wandhalterung | Rennrad Halter | BIKE HOOKS | Holz | Rundstäbe | Buche  Esche  Nuss'
+slug: 'B07TZ9JCTT-de Design Fahrradzubehör | Fahrradhalter Wand | Fahrrad...'
+tags: 
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411p42vlvcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CTMOISQ-de Forever Speed Super ECO Teichpumpe Filterpumpe Energiespar Wasserpumpe Koiteich Bachlaufpumpe  3000-12000L/H  3000L/H …'
+slug: 'B01CTMOISQ-de Forever Speed Super ECO Teichpumpe Filterpumpe Energiespar...'
+tags: 
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

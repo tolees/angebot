@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0198KU5KM-de Naruto Naruto Vinyl Figure 71 Sammelfigur Standard'
+tags: 
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Zsxo+PFoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0748NCPRR-de Bose SoundLink Micro  tragbarer Outdoor - Lautsprecher   kabellose Bluetooth-Verbindung   Dunkelblau'
+slug: 'B0748NCPRR-de Bose SoundLink Micro tragbarer Outdoor - Lautsprecher...'
+tags: 
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JuzUKDQRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R5JKZJV-de Active Noise Cancelling Kopfhörer  Boltune Kabellos Bluetooth 5.0 Over Ear Ohrhörer Wireless ANC Headset mit CVC 8.0 Geräuschunterdrückendes Mikrofon 30 Std Spielzeit für iOS Android TV'
+slug: 'B07R5JKZJV-de Active Noise Cancelling Kopfhörer Boltune Kabellos...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

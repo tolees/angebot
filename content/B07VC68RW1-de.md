@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LMWy+7JOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VC68RW1-de TP-Link 5-Port Desktop Switch  10/100/1000Mbit/S  Ls1005G|1.0|1|5 Years|Switch|Usb Stick|Usb Stick'
+slug: 'B07VC68RW1-de TP-Link 5-Port Desktop Switch 10/100/1000Mbit/S...'
+tags: 
 actualPrice: 13.21 EUR
 currency: EUR
 price: 13.21

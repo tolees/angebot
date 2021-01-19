@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+n6nLGuBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4B7WDS-de AUTLEAD Auto Kompressor  C5 12V Luftkompressor  Tragbare Auto-Luftpumpe  120 PSI Portable Reifenpumpe  40l/m  LED-Taschenlampen und SOS-Modus  für Reifen  Fahrzeuge  Bälle  aufblasbare Gegenstände'
+slug: 'B07G4B7WDS-de AUTLEAD Auto Kompressor C5 12V Luftkompressor Tragbare...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

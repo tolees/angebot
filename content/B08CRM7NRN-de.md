@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uQYU2O-EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CRM7NRN-de MIHUA 10m Gummiband ，Elastikkordel，Gummiband Rund，Weiches Gummiband Für Masken，Für Basteln Kleidung Stricken Handwerk Kunstwerk'
+slug: 'B08CRM7NRN-de MIHUA 10m Gummiband ，Elastikkordel，Gummiband Rund，Weiches...'
+tags: 
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

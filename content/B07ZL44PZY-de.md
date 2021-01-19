@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Xf0EaPeHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZL44PZY-de Mammut Herren Hardshell-jacke Albula Hooded  rot  S'
+slug: 'B07ZL44PZY-de Mammut Herren Hardshell-jacke Albula Hooded rot S'
+tags: 
 actualPrice: 122.95 EUR
 currency: EUR
 price: 122.95

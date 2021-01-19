@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EhipZZDjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0777VVCBF-de Arlo Pro2 Smart Home Zusatz-Überwachungskamera & Sicherheitsalarm  130 Grad Blickwinkel  kabellos  WLAN  Bewegungsmelder  Innen/Außen  Nachtsicht  wetterfest  2-Wege Audio  weiß  VMC4030P'
+slug: 'B0777VVCBF-de Arlo Pro2 Smart Home Zusatz-Überwachungskamera &...'
+tags: 
 actualPrice: 154.99 EUR
 currency: EUR
 price: 154.99

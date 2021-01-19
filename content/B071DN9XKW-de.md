@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41r0FgR5EyL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071DN9XKW-de Pioneer 5.1 Kanal AV Receiver  VSX-832-S  Hifi Verstärker 130 Watt/Kanal  Multiroom  WLAN  Bluetooth  Hi-Res Audio  Dolby TrueHD-DTS:X  Musik Apps  Spotify  Deezer u.a.   Internetradio  Silber'
+slug: 'B071DN9XKW-de Pioneer 5.1 Kanal AV Receiver VSX-832-S Hifi Verstärker...'
+tags: 
 actualPrice: 294.9 EUR
 currency: EUR
 price: 294.9

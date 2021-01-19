@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UeBz2jExL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UEMFGQM-de Philips Hue Go LED Leuchte  tragbares  kabelloses Licht  dimmbar  bis zu 16 Millionen Farben  stuerbar via App  kompatibel mit Amazon Alexa  EU-Stecker  Echo  Echo Dot '
+slug: 'B00UEMFGQM-de Philips Hue Go LED Leuchte tragbares kabelloses Licht...'
+tags: 
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

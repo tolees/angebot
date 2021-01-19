@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jM8884LjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016XVRUKC-de VERO MODA Damen VMMAXI My SS Soft U-Neck NOOS T-Shirt  Schwarz Black  42  Herstellergröße: XL '
+slug: 'B016XVRUKC-de VERO MODA Damen VMMAXI My SS Soft U-Neck NOOS T-Shirt...'
+tags: 
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

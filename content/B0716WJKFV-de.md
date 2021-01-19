@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vEM+HYGtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0716WJKFV-de BIRKENSTOCK Damen Madrid Big Buckle Pantoletten  Braun  Cognac Cognac   39 EU'
+slug: 'B0716WJKFV-de BIRKENSTOCK Damen Madrid Big Buckle Pantoletten Braun...'
+tags: 
 actualPrice: 76.89 EUR
 currency: EUR
 price: 76.89

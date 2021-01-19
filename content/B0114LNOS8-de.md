@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415KsBwGrOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0114LNOS8-de Dell KB216 580-ADHE Mutlimedia Tastatur schwarz  QWERTZ '
+slug: 'B0114LNOS8-de Dell KB216 580-ADHE Mutlimedia Tastatur schwarz QWERTZ'
+tags: 
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

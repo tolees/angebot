@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41l5l8Dk21L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WJZPDBN-de RENTLIV TV Wandhalterung für 37-70 Zoll Fernseher  neigbare TV Halterung mit MAX VESA 600 x 400mm  Ladekapazität bis zu 60 kg'
+slug: 'B07WJZPDBN-de RENTLIV TV Wandhalterung für 37-70 Zoll Fernseher neigbare...'
+tags: 
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

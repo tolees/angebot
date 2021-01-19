@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51HTZsbFIsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AIJ8EQE-de UGG Bailey Button Ii Che Damen Schneestiefel  Beige  Chestnut   38 EU  5.5 UK '
+slug: 'B01AIJ8EQE-de UGG Bailey Button Ii Che Damen Schneestiefel Beige...'
+tags: 
 actualPrice: 157.66 EUR
 currency: EUR
 price: 157.66

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41jU19jSEHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B081QK6CXV-de REHYPE Herren Longsleeve Oversize Langarm T-Shirt O-Neck Raglan L-222 Bordeaux XL'
+slug: 'B081QK6CXV-de REHYPE Herren Longsleeve Oversize Langarm T-Shirt O-Neck...'
+tags: 
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

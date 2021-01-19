@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KZVxc8WLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M1VAY45-de TP-Link Archer VR400 Modem Router Gigabit ADSL/VDSL  Faser  Wireless AC1200 Mbps  Dual Band 2.4 GHz + 5 GHz  USB 2.0'
+slug: 'B01M1VAY45-de TP-Link Archer VR400 Modem Router Gigabit ADSL/VDSL Faser...'
+tags: 
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

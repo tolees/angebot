@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-OhhOuwxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081Z8F9HG-de Bluetooth Kopfhörer In-Ear M3 TWS True Wireless Minikopfhörer Bluetooth 5.0 On Echte Kabellose Ohrhörer mit integriertem Mikrofon und Ladebox Bass Headsets für Handy/Sport/Laufen/Android/IOS'
+slug: 'B081Z8F9HG-de Bluetooth Kopfhörer In-Ear M3 TWS True Wireless...'
+tags: 
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

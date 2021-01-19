@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31QStdvbioL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FY23LW7-de TP-Link TL-SG116 16-Ports Gigabit Netzwerk Switch  32 Gbit/S Switching-Kapazität  geschirmte RJ-45 Ports  Metallgehäuse  IGMP-snooping  Unmanaged  Plug-und-Play  lüfterlos  blau metallic'
+slug: 'B07FY23LW7-de TP-Link TL-SG116 16-Ports Gigabit Netzwerk Switch 32...'
+tags: 
 actualPrice: 48.75 EUR
 currency: EUR
 price: 48.75

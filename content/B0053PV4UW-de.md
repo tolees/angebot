@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vpeRSZ8UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0053PV4UW-de Bosch Akku Laubbläser ALB 18 LI  ohne Akku  18 V  1 8 kg  210 km/h Luftgeschwindigkeit '
+slug: 'B0053PV4UW-de Bosch Akku Laubbläser ALB 18 LI ohne Akku 18 V 1 8 kg 210...'
+tags: 
 actualPrice: 53.16 EUR
 currency: EUR
 price: 53.16

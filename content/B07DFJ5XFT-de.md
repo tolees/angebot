@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31p2KUQNICL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFJ5XFT-de Funko 33433 Rocks: Mariah Carey POP Vinylfigur  Multi  Standard'
+slug: 'B07DFJ5XFT-de Funko 33433 Rocks: Mariah Carey POP Vinylfigur Multi Standard'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

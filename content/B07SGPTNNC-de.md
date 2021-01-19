@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31c9pEsZzcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SGPTNNC-de Luftbefeuchter Ultraschall  Homech Raumbefeuchter 4L 50 Std Betriebszeit Kalt Dampf bis 20-40 m2 Abschaltautomatik  Humidifier mit 360° drehbaren Dampfdüse  geeignet für Wohn-  Schlafzimmer Büro.'
+slug: 'B07SGPTNNC-de Luftbefeuchter Ultraschall Homech Raumbefeuchter 4L 50 Std...'
+tags: 
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

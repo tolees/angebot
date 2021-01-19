@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hHDK4SlvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075LVYB9S-de TechniSat DIGITRADIO 20 CD – Modernes & kompaktes DAB+ Küchen- & Badezimmerradio  Empfangstarkes UKW Unterbauradio mit CD Player & Uhr '
+slug: 'B075LVYB9S-de TechniSat DIGITRADIO 20 CD – Modernes & kompaktes DAB+...'
+tags: 
 actualPrice: 130.32 EUR
 currency: EUR
 price: 130.32

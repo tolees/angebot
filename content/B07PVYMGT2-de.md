@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513ZEVH37QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVYMGT2-de Yavso USB Beleuchtungsset für Lego  LED-Licht Set LED Beleuchtung Baustein Spielzeug Licht Set für Lego Speed Champions 75880 McLaren 720S  Nicht enthalten Lego-Modell '
+slug: 'B07PVYMGT2-de Yavso USB Beleuchtungsset für Lego LED-Licht Set LED...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

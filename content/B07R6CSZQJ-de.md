@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pleUXRkzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R6CSZQJ-de SUADEEX Sicherheitsschuhe Herren Damen Arbeitsschuhe S3 Leicht Sportlich Atmungsaktiv Schutzschuhe Stahlkappe Sneaker Schwarz 44EU   270 '
+slug: 'B07R6CSZQJ-de SUADEEX Sicherheitsschuhe Herren Damen Arbeitsschuhe S3...'
+tags: 
 actualPrice: 32.25 EUR
 currency: EUR
 price: 32.25

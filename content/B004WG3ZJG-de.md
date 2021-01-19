@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41V5ELYF4OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004WG3ZJG-de BIONAIRE BT19-I Turmventilator  40 W  Grau'
+slug: 'B004WG3ZJG-de BIONAIRE BT19-I Turmventilator 40 W Grau'
+tags: 
 actualPrice: 40.76 EUR
 currency: EUR
 price: 40.76

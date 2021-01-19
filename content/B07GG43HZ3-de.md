@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d560+j7qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GG43HZ3-de De Longhi Nespresso Vertuo | ENV 150.R Kaffeekapselmaschine | Perfekte Crema dank Centrifusion Technologie |Eine Kaffeemaschine  3 Tassengrößen | 1 1 L | rot'
+slug: 'B07GG43HZ3-de De Longhi Nespresso Vertuo | ENV 150.R...'
+tags: 
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

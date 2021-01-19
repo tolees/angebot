@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419bDC-RsaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H33FX6C-de Acer Switch 3 SW312-31-P8VE 31 cm  12 2 Zoll Full-HD  Convertible Notebook  Intel Pentium N4200 Quad-Core  4GB RAM  128GB eMMC  Intel HD  Win 10 Home im S Modus  grau  Acer Active Pen'
+slug: 'B07H33FX6C-de Acer Switch 3 SW312-31-P8VE 31 cm 12 2 Zoll Full-HD...'
+tags: 
 actualPrice: 250.0 EUR
 currency: EUR
 price: 250.0

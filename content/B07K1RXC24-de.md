@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hPspa9qmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K1RXC24-de Ezviz S3 Sport Action Kamera  Auflösung 4K/24 fps oder Full HD Video  Fotos bis 8 MP  Touchscreen Display  WiFi  Bluetooth 4.0  wasserdichte Schutzhülle und Befestigungszubehör inklusive  Grau'
+slug: 'B07K1RXC24-de Ezviz S3 Sport Action Kamera Auflösung 4K/24 fps oder Full...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

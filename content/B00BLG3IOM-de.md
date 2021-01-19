@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h4tASEq3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BLG3IOM-de De Longhi Toaster Icona Vintage CTOV2103.GR - 2-Schlitz-Toaster mit Brötchenaufsatz  Edelstahl in elegantem Retro Look mit Chrom-Details  grün'
+slug: 'B00BLG3IOM-de De Longhi Toaster Icona Vintage CTOV2103.GR - 2-Schlitz-...'
+tags: 
 actualPrice: 57.19 EUR
 currency: EUR
 price: 57.19

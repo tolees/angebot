@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XvRtu28nL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004BTXHN8-de FALKE Damen Wandersocken TK1 - Merinowollmischung  1 Paar  Schwarz  Black-Mix 3010   Größe: 39-40'
+slug: 'B004BTXHN8-de FALKE Damen Wandersocken TK1 - Merinowollmischung 1 Paar...'
+tags: 
 actualPrice: 14.57 EUR
 currency: EUR
 price: 14.57

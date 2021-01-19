@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61nBtHsxuqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PHEAIJC-de caseable Kindle und Kindle Paperwhite Hülle  Ornate Elephant'
+slug: 'B00PHEAIJC-de caseable Kindle und Kindle Paperwhite Hülle Ornate Elephant'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

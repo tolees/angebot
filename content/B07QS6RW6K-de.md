@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41D+2CpWMdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QS6RW6K-de INSMART Körperfettwaage  Personenwaage digital mit APP  Bluetooth Waage für Körperfett  BMI  Gewicht  Muskelmasse  Wasser  Protein  Skelettmuskel  Knochengewicht  BMR  usw. | kg + lb | max.180kg'
+slug: 'B07QS6RW6K-de INSMART Körperfettwaage Personenwaage digital mit APP...'
+tags: 
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

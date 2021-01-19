@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+Y4ITMdJL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076QKQWBQ-de Speedlink HDMI auf VGA Adapter HQ - Vergoldete Kontakte - 3 5mm Klinke - Full HD  Audio- und Videoübertragung - schwarz'
+slug: 'B076QKQWBQ-de Speedlink HDMI auf VGA Adapter HQ - Vergoldete Kontakte -...'
+tags: 
 actualPrice: 10.28 EUR
 currency: EUR
 price: 10.28

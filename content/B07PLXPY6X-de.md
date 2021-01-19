@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hsmyCEZyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PLXPY6X-de Tragbare Seifenblasenmaschine  iTeknic Bubble Machine  Seifenblasen Maschine mit Antrieb von Batterie oder Stecker  Automatischer Seifenblasen für Outdoor  Indoor  Party  Hochzeit  Geburtstag  Feiern'
+slug: 'B07PLXPY6X-de Tragbare Seifenblasenmaschine iTeknic Bubble Machine...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yfdNmPDoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008KIGWBU-de NESCAFÉ Dolce Gusto Latte Macchiato Caramel | 48 Kaffeekapseln | Arabica Robusta Mischung | Feines Karamell Aroma und leckerer Milchschaum | Aromaversiegelte Kapseln | 3er Pack  3 x 16 Kapseln '
+slug: 'B008KIGWBU-de NESCAFÉ Dolce Gusto Latte Macchiato Caramel | 48...'
+tags: 
 actualPrice: 10.47 EUR
 currency: EUR
 price: 10.47

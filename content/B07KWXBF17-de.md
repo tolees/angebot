@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41EJANjCEGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KWXBF17-de Jakks 207474 - Disney Frozen II - Die Eiskönigin 2 Elsa als Funktionspuppe  ca. 35 cm groß  singt "Into the Unknown" und sagt 14 Sprüche aus dem Film  mit leuchtendem Kleid  geeignet ab 3 Jahre'
+slug: 'B07KWXBF17-de Jakks 207474 - Disney Frozen II - Die Eiskönigin 2 Elsa...'
+tags: 
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

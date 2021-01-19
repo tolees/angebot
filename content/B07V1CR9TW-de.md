@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TRzxenH+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V1CR9TW-de LEDVANCE LED Wand- und Deckenleuchte  Leuchte für Außenanwendungen  integrierter Bewegungssensor  Tag-Nacht-Sensor  Warmweiß  168 0 mm x 100 0 mm x 273 0 mm  ENDURA STYLE WALL'
+slug: 'B07V1CR9TW-de LEDVANCE LED Wand- und Deckenleuchte Leuchte für...'
+tags: 
 actualPrice: 40.65 EUR
 currency: EUR
 price: 40.65

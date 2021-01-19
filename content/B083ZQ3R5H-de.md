@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411YAEKbe7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083ZQ3R5H-de Dittzz Acryl Vitrine  Staubdicht Schaukasten Display Case für Lego 42096 Technic Porsche 911 RSR  Ohne Lego-Modelle '
+slug: 'B083ZQ3R5H-de Dittzz Acryl Vitrine Staubdicht Schaukasten Display Case...'
+tags: 
 actualPrice: 125.99 EUR
 currency: EUR
 price: 125.99

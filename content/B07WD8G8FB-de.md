@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419GKlqJ1ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WD8G8FB-de Edelstahl Trichter yidenguk Kitchen Strainer Trichter Set  3 Stück Edelstahl Trichter Filter Set mit abnehmbarem Sieb für die Übertragung von flüssigen Zutaten'
+slug: 'B07WD8G8FB-de Edelstahl Trichter yidenguk Kitchen Strainer Trichter Set...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

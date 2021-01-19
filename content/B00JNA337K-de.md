@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HWRQcV0BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JNA337K-de Asus PCE-AC56 PCIe-Karte  Wi-Fi 5 AC1300 Dual-Band  PCIe 1x  2x externe Antennen mit Standfuß  High-Power 2x2 Design  TurboQAM  DFS '
+slug: 'B00JNA337K-de Asus PCE-AC56 PCIe-Karte Wi-Fi 5 AC1300 Dual-Band PCIe 1x...'
+tags: 
 actualPrice: 42.37 EUR
 currency: EUR
 price: 42.37

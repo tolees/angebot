@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51z+5wRPr-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MLYDJ10-de Tommy Hilfiger Watches Herren-Armbanduhr Analog Quarz Leder 1791066'
+slug: 'B00MLYDJ10-de Tommy Hilfiger Watches Herren-Armbanduhr Analog Quarz...'
+tags: 
 actualPrice: 115.47 EUR
 currency: EUR
 price: 115.47

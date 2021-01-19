@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PQvC+CW2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0756X8FWQ-de Tumi Alpha Münzbörse 019246D  10 cm  Black Ballistic'
+slug: 'B0756X8FWQ-de Tumi Alpha Münzbörse 019246D 10 cm Black Ballistic'
+tags: 
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51liWgYNCLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001B4VBKW-de Brennenstuhl BREMAXX Verlängerungskabel  20m Kabel in orange  für den Einsatz im Außenbereich IP44  Stromkabel einsetzbar bis -35°C  Öl- und UV-beständig '
+slug: 'B001B4VBKW-de Brennenstuhl BREMAXX Verlängerungskabel 20m Kabel in...'
+tags: 
 actualPrice: 32.66 EUR
 currency: EUR
 price: 32.66

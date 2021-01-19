@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g4bKqKFvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZYEOOW-de American Tourister Urban Groove - 15 6 Zoll Laptop Rucksack  47 cm  27 L  schwarz  black/blue '
+slug: 'B01LZYEOOW-de American Tourister Urban Groove - 15 6 Zoll Laptop...'
+tags: 
 actualPrice: 31.96 EUR
 currency: EUR
 price: 31.96

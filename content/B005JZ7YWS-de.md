@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c-aoOyUoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005JZ7YWS-de Sony SEL-55210 Tele-Zoom-Objektiv  55-210 mm  F4.5–6.3  OSS  APS-C  geeignet für A6000  A5100  A5000 und Nex Serien  E-Mount  silber'
+slug: 'B005JZ7YWS-de Sony SEL-55210 Tele-Zoom-Objektiv 55-210 mm F4.5–6.3 OSS...'
+tags: 
 actualPrice: 184.0 EUR
 currency: EUR
 price: 184.0

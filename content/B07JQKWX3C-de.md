@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41L7NhdZWEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQKWX3C-de iVANKY DisplayPort Kabel  2M/4K  DisplayPort auf DisplayPort Kabel  4K@60Hz und 2K@144Hz   DP Kabel geeignet für Monitor Gaming-Grafikkarte - 2M/ Grau  Verschlussfrei & aus Nylongeflecht '
+slug: 'B07JQKWX3C-de iVANKY DisplayPort Kabel 2M/4K DisplayPort auf DisplayPort...'
+tags: 
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

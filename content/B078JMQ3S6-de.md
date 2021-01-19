@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+M76Piw2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078JMQ3S6-de ICY BOX IB-MSA102-VM Halterung für Mini-PC  Intel NUC  Mac mini etc.  bis 5 kg  Montage an Monitorständer oder VESA  variable Breite  Stahl  schwarz'
+slug: 'B078JMQ3S6-de ICY BOX IB-MSA102-VM Halterung für Mini-PC Intel NUC Mac...'
+tags: 
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

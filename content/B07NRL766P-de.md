@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRL766P-de Unbekannt Gasgrill-Smoker Portland XL'
+tags: 
 actualPrice: 157.31 EUR
 currency: EUR
 price: 157.31

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k7vGKKQRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRCBJN4-de Kipling Damen Osyka Umhängetasche  Pink  Metallic Rose Gift   21x15x3.2 cm'
+slug: 'B07PRCBJN4-de Kipling Damen Osyka Umhängetasche Pink Metallic Rose Gift...'
+tags: 
 actualPrice: 48.3 EUR
 currency: EUR
 price: 48.3

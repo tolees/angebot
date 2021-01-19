@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sZehYLLXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGPLD36-de Lioncast LM40 WL Wireless Gaming Maus für kabelloses Gaming  RGB  PMW3360 Optischer Sensor  12.000 DPI  Li-Ionen-Akku  Dual-Mode mit Kabel '
+slug: 'B07NGPLD36-de Lioncast LM40 WL Wireless Gaming Maus für kabelloses...'
+tags: 
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

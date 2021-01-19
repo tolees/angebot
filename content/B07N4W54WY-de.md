@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LrpEshW5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N4W54WY-de Tommy Jeans Damen TJW 3/4 Sleeve Drop Waist Dress Kleid  Rot  Red 0qx    Herstellergröße:S '
+slug: 'B07N4W54WY-de Tommy Jeans Damen TJW 3/4 Sleeve Drop Waist Dress Kleid...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

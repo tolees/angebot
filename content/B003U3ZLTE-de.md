@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QNGsY0IcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003U3ZLTE-de Intenso Photobase Digitaler Bilderrahmen  20 3cm  8 Zoll  Display  SD Kartenslot  Fernbedienung  schwarz'
+slug: 'B003U3ZLTE-de Intenso Photobase Digitaler Bilderrahmen 20 3cm 8 Zoll...'
+tags: 
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

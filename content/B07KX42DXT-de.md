@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SM8vt4VJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KX42DXT-de WAFTING 4er Set Esszimmerstühle Gepolsterter Seitenstuhl mit Buchenholz-Beinen und Weich Gepolsterte Tulip Chair für Esszimmer Wohnzimmer Schlafzimmer Küche  4er Set gepolstert weiß  …'
+slug: 'B07KX42DXT-de WAFTING 4er Set Esszimmerstühle Gepolsterter Seitenstuhl...'
+tags: 
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yUCZyS8qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006TYY9P8-de Krups FDD95D Professionelles Waffeleisen | Doppelwaffeleisen | 2 belgische Waffeln gleichzeitig | Dreh-Funktion für perfekte Waffel | 7 Bräunungsstufen | spülmaschinengeeignete Platten | 1200W'
+slug: 'B006TYY9P8-de Krups FDD95D Professionelles Waffeleisen |...'
+tags: 
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

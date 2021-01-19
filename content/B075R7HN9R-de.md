@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61GWVccHSOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R7HN9R-de Condis Magnetische Bausteine 95 Teile  Magnetspielzeug Magnete Kinder Magnetbausteine Magnet Spielzeug Magnetspiele Kinderspielzeug Puzzle Geschenke Kinderspiele ab 2 3 4 5 6 7 Jahren Jungen Mädchen'
+slug: 'B075R7HN9R-de Condis Magnetische Bausteine 95 Teile Magnetspielzeug...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

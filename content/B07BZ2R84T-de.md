@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418vm5nGGUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZ2R84T-de SHYNE Premium 1/2 Zoll Doppel-Wasserhahn aus Messing rost-  und frostsicher + 2X Gratis Schlauchanschlüsse + Ebook | für Garten  Waschmaschine  Regentonne'
+slug: 'B07BZ2R84T-de SHYNE Premium 1/2 Zoll Doppel-Wasserhahn aus Messing rost-...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

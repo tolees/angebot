@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qpjT+MCOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F8T8YT8-de Philips HD9941/00 Grill-Kit für Aifryer  Grillpfanne und Grillspieße   Metall  Schwarz/Edelstahl'
+slug: 'B07F8T8YT8-de Philips HD9941/00 Grill-Kit für Aifryer Grillpfanne und...'
+tags: 
 actualPrice: 19.23 EUR
 currency: EUR
 price: 19.23

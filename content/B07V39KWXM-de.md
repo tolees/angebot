@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZbQwSSlvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V39KWXM-de Apple MacBook Air  13"  Neuestes Modell  8GB RAM  128GB Speicherplatz  1 6GHz Intel Core i5  - Space Grau'
+slug: 'B07V39KWXM-de Apple MacBook Air 13" Neuestes Modell 8GB RAM 128GB...'
+tags: 
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

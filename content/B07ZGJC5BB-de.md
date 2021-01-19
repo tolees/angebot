@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51k2QeL5usL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZGJC5BB-de Xiaomi Mi Note 10 Smartphone  16 43cm  6 47"  3D Curved AMOLED FHD+ Display  128GB interner Speicher + 6GB RAM  108MP KI-Penta-Rückkamera  32MP Selfie-Frontkamera  Dual-SIM  Android 9  Aurora Green'
+slug: 'B07ZGJC5BB-de Xiaomi Mi Note 10 Smartphone 16 43cm 6 47" 3D Curved...'
+tags: 
 actualPrice: 445.0 EUR
 currency: EUR
 price: 445.0

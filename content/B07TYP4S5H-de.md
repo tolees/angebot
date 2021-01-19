@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rqtY8nbDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYP4S5H-de VGEBY Bulldozer Toy  Huina 1700 1: 50 Metallbetriebenes Jumbo Bulldozer Traktor LKW Technik BAU Spielzeugauto Fahrzeug'
+slug: 'B07TYP4S5H-de VGEBY Bulldozer Toy Huina 1700 1: 50 Metallbetriebenes...'
+tags: 
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

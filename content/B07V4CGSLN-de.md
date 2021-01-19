@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411BqLwOB1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V4CGSLN-de QD Niederdruck Wasserhahn Küche Schwarz Spültischarmatur Armatur Kueche Küchenarmatur mit Brause Ausziehbar'
+slug: 'B07V4CGSLN-de QD Niederdruck Wasserhahn Küche Schwarz Spültischarmatur...'
+tags: 
 actualPrice: 88.99 EUR
 currency: EUR
 price: 88.99

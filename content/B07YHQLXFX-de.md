@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zQ3Jc7GKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YHQLXFX-de Character World Disney Eiskönigin Bettwäsche Kinderbettwäsche für Mädchen ☆ Disney Frozen 2 Anna & ELSA - 1 Kissenbezug 40x60 + 1 Bettbezug 100x135 cm'
+slug: 'B07YHQLXFX-de Character World Disney Eiskönigin Bettwäsche...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31HWy+WV6RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KZVQB42-de Logitech M720 Triathlon Kabellose Maus  Bluetooth & 2.4 GHz Verbindung via Unifying USB-Empfänger  1000 DPI Sensor  24-Monate Akkulaufzeit  Multi-Device  8 Tasten  PC/Mac/iPadOS - Englische Verpackung'
+slug: 'B01KZVQB42-de Logitech M720 Triathlon Kabellose Maus Bluetooth & 2.4 GHz...'
+tags: 
 actualPrice: 40.32 EUR
 currency: EUR
 price: 40.32

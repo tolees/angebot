@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eHSVRgsxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00APUXOTE-de walther design WD030S Chloe Portraitrahmen 20 x 30 cm  silber'
+slug: 'B00APUXOTE-de walther design WD030S Chloe Portraitrahmen 20 x 30 cm silber'
+tags: 
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

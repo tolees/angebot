@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41t7vEqPPwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075CMWLXD-de Sublevel Damen Winter-Jacke mit Kapuze warm gefüttert Dark-Blue L'
+slug: 'B075CMWLXD-de Sublevel Damen Winter-Jacke mit Kapuze warm gefüttert...'
+tags: 
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

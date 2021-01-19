@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61YL4oWvhCL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQZ0IZ1-de Schmidt Spiele Mouse TV Puzzle 56212  blau  Gute Freunde  3x24 Teile'
+slug: 'B01MQZ0IZ1-de Schmidt Spiele Mouse TV Puzzle 56212 blau Gute Freunde...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

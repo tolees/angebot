@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JHpvvpZ3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001CA10XS-de Hazet 2169 Ölfilterschlüssel  Antrieb: Innenvierkant 10 mm  3/8 Zoll  oder Außensechskant 27 mm  Abtrieb 14kant  Schlüsselweite 74 4 mm'
+slug: 'B001CA10XS-de Hazet 2169 Ölfilterschlüssel Antrieb: Innenvierkant 10 mm...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

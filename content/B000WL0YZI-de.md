@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21WCNPluzcL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000WL0YZI-de Herlitz 10843746 Aktenhülle A4 Standard   PP  0 11 mm  transparent glasklar 100er Packung'
+slug: 'B000WL0YZI-de Herlitz 10843746 Aktenhülle A4 Standard PP 0 11 mm...'
+tags: 
 actualPrice: 9.01 EUR
 currency: EUR
 price: 9.01

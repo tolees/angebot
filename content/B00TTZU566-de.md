@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xpByH-TyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TTZU566-de Bosch Akkuschrauber IXO  5. Generation  in Aufbewahrungsbox '
+slug: 'B00TTZU566-de Bosch Akkuschrauber IXO 5. Generation in Aufbewahrungsbox'
+tags: 
 actualPrice: 37.91 EUR
 currency: EUR
 price: 37.91

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41d3sgnmOpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003ZYWR18-de Melitta Caffeo CI E970-101 Kaffeevollautomat | mit Milchbehälter | Zweikammern-Bohnenbehälter | One Touch Funktion | 15 Bar | Automatische Reinigungsprogramme | Silber'
+slug: 'B003ZYWR18-de Melitta Caffeo CI E970-101 Kaffeevollautomat | mit...'
+tags: 
 actualPrice: 548.99 EUR
 currency: EUR
 price: 548.99

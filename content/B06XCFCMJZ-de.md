@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xNk2nJAML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCFCMJZ-de Russell Hobbs Standmixer Glas Steel 2-in-1  inkl. To-Go-Becher & Deckel  1.5l Glasbehälter  Mixer 0.8 PS-Motor  Impuls-/Ice-Crush Funktion  mini Smoothie-Maker 23821-56'
+slug: 'B06XCFCMJZ-de Russell Hobbs Standmixer Glas Steel 2-in-1 inkl. To-Go-...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

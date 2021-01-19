@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Guf-M1HvL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZV5JX8-de Ihr Auftritt  Al Mundy! - Komplettbox  Alle 3 Staffeln / Folgen 1-66  - Fernsehjuwelen [21 DVDs]'
+slug: 'B01LZV5JX8-de Ihr Auftritt Al Mundy! - Komplettbox Alle 3 Staffeln /...'
+tags: 
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

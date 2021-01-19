@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41MFmqfCngL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CBSCA52-de ara München Gore Tex  Damen Warm gefütterte Schneestiefel  Braun  caffee natur -08   39 EU'
+slug: 'B00CBSCA52-de ara München Gore Tex Damen Warm gefütterte Schneestiefel...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41QFb%2BS1BlL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XYT37NK-de SanDisk SDSQXCG-064G-GN6MA 64GB Extreme Pro Micro SD Karte mit Adapter  Schwarz/Rot'
+slug: 'B06XYT37NK-de SanDisk SDSQXCG-064G-GN6MA 64GB Extreme Pro Micro SD Karte...'
+tags: 
 actualPrice: 33.64 EUR
 currency: EUR
 price: 33.64

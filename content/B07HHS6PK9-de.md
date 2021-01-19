@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vwsJqpCOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HHS6PK9-de Rollei Vintage Fototasche / Everyday Messenger Bag / Schultertasche für DSLM  DSLR Kameras und Objektiv  mit 12 l Fassungsvermögen  inkl. Regenschutz'
+slug: 'B07HHS6PK9-de Rollei Vintage Fototasche / Everyday Messenger Bag /...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

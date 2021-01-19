@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yUvMmmPoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXDSMZN-de Büchel LED-Akkuleuchtenset  80 Lux  Frontlampe: Vail + Akku-Rücklicht: Micro Light  inkl. Ladegerät  StVZO zugelassen  schwarz  51252526'
+slug: 'B01MXDSMZN-de Büchel LED-Akkuleuchtenset 80 Lux Frontlampe: Vail + Akku-...'
+tags: 
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

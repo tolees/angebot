@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31crgXhuuHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001ALYPY0-de Wedo 78722 Cutter Hobbymesser Set  inklusive 6 verschiedenen Klingen  silber'
+slug: 'B001ALYPY0-de Wedo 78722 Cutter Hobbymesser Set inklusive 6...'
+tags: 
 actualPrice: 3.56 EUR
 currency: EUR
 price: 3.56

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41z3uL5N6-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYV5G3K-de Bluetooth Kopfhörer in Ear  YONMIG Kabellos Bluetooth 5.0 Headset mit 3000mAh Ladebox Wireless Noise Cancelling Earbuds 150H Stunden Spielzeit Sport Wasserdicht IPX7 Ohrhörer mit Mikrofon  Schwarz '
+slug: 'B07TYV5G3K-de Bluetooth Kopfhörer in Ear YONMIG Kabellos Bluetooth 5.0...'
+tags: 
 actualPrice: 33.96 EUR
 currency: EUR
 price: 33.96

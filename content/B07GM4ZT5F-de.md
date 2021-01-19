@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416UXNRKJjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GM4ZT5F-de Cudy GS105D 5 Port LAN Switch Gigabit  Gigabit Switch 5-Port  5 * 10/100/1000Mbit/s RJ45  Netzwerk Switch  LAN Verteiler  Plug & Play'
+slug: 'B07GM4ZT5F-de Cudy GS105D 5 Port LAN Switch Gigabit Gigabit Switch...'
+tags: 
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

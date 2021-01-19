@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31IUKMKkoXL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4ND86P-de TP-Link Deco P7 Powerline WLAN Mesh Set  1300Mbits + 600Mbits  inkl. Antivirus  Kindersicherung  Reichweite bis zu 570m²  6xGigabit-Ports 3-Pack  Schnellinstallation  weiß'
+slug: 'B07G4ND86P-de TP-Link Deco P7 Powerline WLAN Mesh Set 1300Mbits +...'
+tags: 
 actualPrice: 199.9 EUR
 currency: EUR
 price: 199.9

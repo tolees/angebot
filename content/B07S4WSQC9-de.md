@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zVoBMtXgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4WSQC9-de Levi s Damen Ls Baby Tee T-Shirt  Caviar 0014  Large'
+slug: 'B07S4WSQC9-de Levi s Damen Ls Baby Tee T-Shirt Caviar 0014 Large'
+tags: 
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

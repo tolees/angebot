@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51m0x1g5BAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072R4BL6S-de Logitech MEETUP Zusatzmikrofon  Breitband-Audio mit Rauschunterdrückung  Bluetooth  Stummschaltung  LED-Anzeigen  Kompatibel mit MeetUp Videokonferenz-Webcams  Für größere Meetingräume - Schwarz'
+slug: 'B072R4BL6S-de Logitech MEETUP Zusatzmikrofon Breitband-Audio mit...'
+tags: 
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

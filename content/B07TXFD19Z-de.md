@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51wrIXkMX3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TXFD19Z-de Kinder Klavier  Multifunktions Mini 49 Tasten Musik Klaviertastatur Tragbare Wiederaufladbare Elektronische Musikinstrument Mikrofon für Baby Kinder'
+slug: 'B07TXFD19Z-de Kinder Klavier Multifunktions Mini 49 Tasten Musik...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

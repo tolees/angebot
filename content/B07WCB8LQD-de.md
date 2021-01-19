@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41l+fi3rKcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WCB8LQD-de GORE WEAR C3 Herren Fahrrad Kurzarmtrikot  M  schwarz'
+slug: 'B07WCB8LQD-de GORE WEAR C3 Herren Fahrrad Kurzarmtrikot M schwarz'
+tags: 
 actualPrice: 54.9 EUR
 currency: EUR
 price: 54.9

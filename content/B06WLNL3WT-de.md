@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AqsOyEYKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WLNL3WT-de Hasbro My Little Pony C0677EU4 - Movie Schwimmendes Seepony Pinkie Pie  Spielset'
+slug: 'B06WLNL3WT-de Hasbro My Little Pony C0677EU4 - Movie Schwimmendes...'
+tags: 
 actualPrice: 10.23 EUR
 currency: EUR
 price: 10.23

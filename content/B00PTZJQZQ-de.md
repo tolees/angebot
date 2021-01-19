@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x1VSpZUcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PTZJQZQ-de INSTAR IN-6001HD schwarz - WLAN Überwachungskamera - IP Kamera - Innenkamera – Mikrofon – Lautsprecher - Bewegungserkennung - Nachtsicht - Weitwinkel - LAN - RTSP - ONVIF'
+slug: 'B00PTZJQZQ-de INSTAR IN-6001HD schwarz - WLAN Überwachungskamera - IP...'
+tags: 
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

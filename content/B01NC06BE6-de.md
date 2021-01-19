@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51l1MkM6kYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NC06BE6-de Hasbro Gaming C2018398 - Klartext Partyspiel  Alter 16+ '
+slug: 'B01NC06BE6-de Hasbro Gaming C2018398 - Klartext Partyspiel Alter 16+'
+tags: 
 actualPrice: 18.45 EUR
 currency: EUR
 price: 18.45

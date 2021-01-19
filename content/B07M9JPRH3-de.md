@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411IhwEi1vL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M9JPRH3-de DEERCON Haarschneidemaschine Haartrimmer Bart Trimmer Haarschneider Profi Langhaarschneider Bartschneider Barttrimmer Herren USB Wiederaufladbar'
+slug: 'B07M9JPRH3-de DEERCON Haarschneidemaschine Haartrimmer Bart Trimmer...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

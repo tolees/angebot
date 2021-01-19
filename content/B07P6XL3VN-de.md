@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uINE4SJ4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6XL3VN-de Souarts Ring Damen Schmuck Silber Rosegold Farbe Edelstahl mit Zirkon Strass Korne Geschenk für Frauen'
+slug: 'B07P6XL3VN-de Souarts Ring Damen Schmuck Silber Rosegold Farbe Edelstahl...'
+tags: 
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31k8NSk-7tL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9DR8QG-de Logitech G703 LIGHTSPEED kabellose Gaming-Maus  mit HERO 16K-Sensor  LIGHTSYNC RGB  POWERPLAY-kompatibel  geringes Gewicht von 95 g + optionales 10-g-Gewicht  EU Verpackung  Westeuropa '
+slug: 'B07S9DR8QG-de Logitech G703 LIGHTSPEED kabellose Gaming-Maus mit HERO...'
+tags: 
 actualPrice: 73.91 EUR
 currency: EUR
 price: 73.91

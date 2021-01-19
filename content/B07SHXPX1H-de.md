@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OUxUWNklL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SHXPX1H-de Samsung Galaxy S10+ Smartphone  16.3cm  6.4 Zoll  512 GB interner Speicher  8 GB RAM  Dual SIM  Android  Ceramic Black  inkl. 36 Monate Herstellergarantie [Exklusiv bei Amazon] Deutsche Version'
+slug: 'B07SHXPX1H-de Samsung Galaxy S10+ Smartphone 16.3cm 6.4 Zoll 512 GB...'
+tags: 
 actualPrice: 729.0 EUR
 currency: EUR
 price: 729.0

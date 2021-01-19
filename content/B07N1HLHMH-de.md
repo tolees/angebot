@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31hEqYQWk7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1HLHMH-de Clarks Damen Un Adorn Zip Slipper  Beige  Pebble Metallic   39.5 EU'
+slug: 'B07N1HLHMH-de Clarks Damen Un Adorn Zip Slipper Beige Pebble Metallic...'
+tags: 
 actualPrice: 32.62 EUR
 currency: EUR
 price: 32.62

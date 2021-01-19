@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PLjM2J1wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D1G2XVX-de Echo Dot  3. Gen.   Anthrazit Stoff + Amazon Smart Plug  WLAN-Steckdose   Funktionert mit Alexa'
+slug: 'B08D1G2XVX-de Echo Dot 3. Gen. Anthrazit Stoff + Amazon Smart Plug WLAN-...'
+tags: 
 actualPrice: 63.08 EUR
 currency: EUR
 price: 63.08

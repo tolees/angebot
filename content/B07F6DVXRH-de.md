@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YVbGRZsZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F6DVXRH-de Gifts Treat Kinder Sommer Sonnenhut  UPF 50+ Sonnenschutz Legionärskappe für 3-15 Jahre Mädchen und Jungen  Blau Fisch  52CM '
+slug: 'B07F6DVXRH-de Gifts Treat Kinder Sommer Sonnenhut UPF 50+ Sonnenschutz...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

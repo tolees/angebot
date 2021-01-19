@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BPum5wg3L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TQ5EXQM-de Funko 5859 Ron Weasley POP Vinyl Harry Potter S1  Multi'
+slug: 'B00TQ5EXQM-de Funko 5859 Ron Weasley POP Vinyl Harry Potter S1 Multi'
+tags: 
 actualPrice: 11.82 EUR
 currency: EUR
 price: 11.82

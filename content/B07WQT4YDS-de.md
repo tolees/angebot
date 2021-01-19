@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51UhX3+lyBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WQT4YDS-de WEWE Estantes De Pared De Madera De 2 Niveles Muro De Estante Flotante Rústico-estante De Madera Montada para Dormitorio Baño Sala De Estar Y Cocina-a 62x17x7cm 24x7x3inch '
+slug: 'B07WQT4YDS-de WEWE Estantes De Pared De Madera De 2 Niveles Muro De...'
+tags: 
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

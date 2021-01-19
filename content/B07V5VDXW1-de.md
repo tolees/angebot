@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31u77HgxlYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V5VDXW1-de Razer Huntsman Tournament Edition - TKL Mechanical Gaming Keyboard  Kompakte Tastatur mit schnellsten Linear Opto-Mechanischen Schaltern  PBT-Tastenkappen  RGB Chroma Beleuchtung  EU-Layout  Schwarz'
+slug: 'B07V5VDXW1-de Razer Huntsman Tournament Edition - TKL Mechanical Gaming...'
+tags: 
 actualPrice: 119.08 EUR
 currency: EUR
 price: 119.08

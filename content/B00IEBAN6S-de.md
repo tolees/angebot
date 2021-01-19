@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IEBAN6S-de TOTO: 35th Anniversary Tour-Live in Poland [Blu-ray]'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41viaYKgQ9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B7JP71S-de New bee Bluetooth Headset Wireless Freisprech Telefon 5.0 Bluetooth-Headset mit Mikrofon für iPhone Samsung Huawei mit 60 Tage Standby Schwarz'
+slug: 'B07B7JP71S-de New bee Bluetooth Headset Wireless Freisprech Telefon 5.0...'
+tags: 
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

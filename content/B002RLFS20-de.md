@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31N0WAa9w2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002RLFS20-de Soehnle Page Profi Digitalwaage für max. 15 kg  digitale Küchenwaage mit großer Wiegefläche und Tara  praktische Haushaltswaage mit Hold-Funktion'
+slug: 'B002RLFS20-de Soehnle Page Profi Digitalwaage für max. 15 kg digitale...'
+tags: 
 actualPrice: 32.51 EUR
 currency: EUR
 price: 32.51

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31b+GAfkl9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTM26JL-de Hpybest Zahnbürstenhalter für Rasierapparat  Saugnapf  Saugnapf  Rasierer  Badezimmer  Cocina Küche  Organizer Mutfak Prateleira Rack'
+slug: 'B07TTM26JL-de Hpybest Zahnbürstenhalter für Rasierapparat Saugnapf...'
+tags: 
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

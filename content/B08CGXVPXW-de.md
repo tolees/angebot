@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GyIv6J7zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CGXVPXW-de Xiaomi Redmi 9A - Smartphone 32GB  2GB RAM  Dual SIM  Granite Gray'
+slug: 'B08CGXVPXW-de Xiaomi Redmi 9A - Smartphone 32GB 2GB RAM Dual SIM Granite...'
+tags: 
 actualPrice: 82.0 EUR
 currency: EUR
 price: 82.0

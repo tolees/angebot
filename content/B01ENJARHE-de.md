@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uCGm4tD0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ENJARHE-de Challenge Disc 2.0  e Balance Board per Bluetooth mit Smartphone verbinden inkl. App  Digitaler Trainer und lustige Spiele  I Therapiekreisel aus Holz mit Sensorchip I 44 cm Ø'
+slug: 'B01ENJARHE-de Challenge Disc 2.0 e Balance Board per Bluetooth mit...'
+tags: 
 actualPrice: 210.69 EUR
 currency: EUR
 price: 210.69

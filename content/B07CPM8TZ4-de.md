@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qpXvbXE6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CPM8TZ4-de AKASO Action Cam/4K/30fps 20MP Action Camera mit Touchscreen  30m Unterwasserkamera/helmkamera Fernbedienung EIS LCD Zeitraffer Slow Motion Akku Zubehör'
+slug: 'B07CPM8TZ4-de AKASO Action Cam/4K/30fps 20MP Action Camera mit...'
+tags: 
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

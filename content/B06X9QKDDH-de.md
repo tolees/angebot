@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WVZ-fCxzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X9QKDDH-de Hasbro Hanazuki B9922EU4 - Light-Up Puppe  Plüsch'
+slug: 'B06X9QKDDH-de Hasbro Hanazuki B9922EU4 - Light-Up Puppe Plüsch'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

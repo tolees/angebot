@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mdFExiFkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WSQQ1S-de Sony SRS-XB41 kabelloser Bluetooth Lautsprecher  tragbar  mehrfarbige Lichtleiste  Lautsprecherbeleuchtung  Stroboskoplicht  NFC  kompatibel mit Party Chain  Freisprechfunktion für Anrufe  weiß'
+slug: 'B078WSQQ1S-de Sony SRS-XB41 kabelloser Bluetooth Lautsprecher tragbar...'
+tags: 
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

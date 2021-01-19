@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Vyx4pRgLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078Y3H7LF-de Remington Barttrimmer Herren Lithium mit abnehmbarer Vakuum-Kammer  Netz-/Akkubetrieb  12 Längeneinstellungen 0 5-18mm  2 Aufsteckköpfe: 32mm + 20mm Trimmer  Aufbewahrungstasche  Bartschneider MB6850'
+slug: 'B078Y3H7LF-de Remington Barttrimmer Herren Lithium mit abnehmbarer...'
+tags: 
 actualPrice: 32.49 EUR
 currency: EUR
 price: 32.49

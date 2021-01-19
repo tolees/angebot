@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4160ozp9b5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2YO7JS-de 10 x Rauchmelder / Feueralarm Tana x5 mit Montagematerial  85dB Xeltys'
+slug: 'B01N2YO7JS-de 10 x Rauchmelder / Feueralarm Tana x5 mit Montagematerial...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

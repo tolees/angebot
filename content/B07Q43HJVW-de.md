@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Pc8WynjML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q43HJVW-de Kabelclips Kabelhalter  URAQT Vielzwecke Kabelführung Kabel Organizer Set für Schreibtisch  Netzkabel  USB Ladekabel  Ladegeräte  Audiokabel  20 Stück  Schwarz'
+slug: 'B07Q43HJVW-de Kabelclips Kabelhalter URAQT Vielzwecke Kabelführung Kabel...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313hQhHU+8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AIIIKPQ-de Logitech R700 Presenter  Kabellose 2.4 GHz Verbindung via USB-Empfänger  30m Reichweite  Roter Laserpointer  LCD-Display mit Timer und Batterieanzeige  6 Tasten  PC - schwarz  Englische Verpackung'
+slug: 'B00AIIIKPQ-de Logitech R700 Presenter Kabellose 2.4 GHz Verbindung via...'
+tags: 
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

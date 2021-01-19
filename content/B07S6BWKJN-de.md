@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PbxZMYErL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6BWKJN-de Dell Inspiron - 15 6" - i7 - 32GB RAM - 1000GB SSD - Windows 10 Pro - Office 2019 Pro #mit Funkmaus +Notebooktasche'
+slug: 'B07S6BWKJN-de Dell Inspiron - 15 6" - i7 - 32GB RAM - 1000GB SSD -...'
+tags: 
 actualPrice: 610.0 EUR
 currency: EUR
 price: 610.0

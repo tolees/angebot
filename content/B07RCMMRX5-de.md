@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51q9itOsH1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCMMRX5-de Hisense H55U7B 138 cm  55 Zoll  Fernseher  4K Ultra HD  HDR  Dolby Vision  Triple Tuner  Smart-TV  USB-Aufnahmefunktion '
+slug: 'B07RCMMRX5-de Hisense H55U7B 138 cm 55 Zoll Fernseher 4K Ultra HD HDR...'
+tags: 
 actualPrice: 469.0 EUR
 currency: EUR
 price: 469.0

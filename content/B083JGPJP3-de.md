@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ENct9E9rL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083JGPJP3-de IBTOM CASTLE Prinzessin Mädchen Anna Kostüm Eiskönigin Kleid für Kinder Schneekönigin Fasching Tüll Ballkleid Cosplay Party Karneval Halloween Verkleidung Party Outfit Gelb Frozen Anna 4-5 Jahre'
+slug: 'B083JGPJP3-de IBTOM CASTLE Prinzessin Mädchen Anna Kostüm Eiskönigin...'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415x8lke0SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3B9Z7Q-de Brother ADS1700W Mobiler Scanner ADS1700WUN1 A4/Duplex/WLAN/Farbe'
+slug: 'B07H3B9Z7Q-de Brother ADS1700W Mobiler Scanner ADS1700WUN1...'
+tags: 
 actualPrice: 262.65 EUR
 currency: EUR
 price: 262.65

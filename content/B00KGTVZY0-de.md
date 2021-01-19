@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KGTVZY0-de Fossil Damen-Uhren ES3625'
+tags: 
 actualPrice: 69.16 EUR
 currency: EUR
 price: 69.16

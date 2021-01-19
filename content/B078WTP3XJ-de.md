@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fP91u8IXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WTP3XJ-de Sony Tragbare Bluetooth-Lautsprecher SRSXB31W.CE7   Weiß '
+slug: 'B078WTP3XJ-de Sony Tragbare Bluetooth-Lautsprecher SRSXB31W.CE7 Weiß'
+tags: 
 actualPrice: 97.99 EUR
 currency: EUR
 price: 97.99

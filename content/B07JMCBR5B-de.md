@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51mlfQ-bpIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMCBR5B-de Playmobil 70059 Special Plus Elfe mit REH  bunt'
+slug: 'B07JMCBR5B-de Playmobil 70059 Special Plus Elfe mit REH bunt'
+tags: 
 actualPrice: 2.97 EUR
 currency: EUR
 price: 2.97

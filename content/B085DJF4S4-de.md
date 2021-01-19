@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41J1whJSFEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085DJF4S4-de Bluetooth Adapter 5.0  3 in 1 3.5 mm Bluetooth Empfänger Sender Auto Aux Audio Empfänger TV Kopfhörer Sender Empfänger'
+slug: 'B085DJF4S4-de Bluetooth Adapter 5.0 3 in 1 3.5 mm Bluetooth Empfänger...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

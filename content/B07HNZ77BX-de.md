@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TiXJHthML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HNZ77BX-de INSMART PS4 Headset  PC Gaming Headset Auch für Nintendo Switch  Xbox One & Laptop  3.5mm Noise Cancelling Gaming Kopfhörer mit Mikrofon  Surround Sound System & Extra 3 5mm Y-Klinkenadapter'
+slug: 'B07HNZ77BX-de INSMART PS4 Headset PC Gaming Headset Auch für Nintendo...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

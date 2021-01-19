@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415PomFx4zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BZB1S7V-de AOC AGON AG352UCG6 88 9 cm  35 Zoll  Curved Monitor  HDMI  USB Hub  4ms Reaktionszeit  3440 x 1440  DisplayPort  120 Hz  Nvidia G-Sync  schwarz/rot'
+slug: 'B07BZB1S7V-de AOC AGON AG352UCG6 88 9 cm 35 Zoll Curved Monitor HDMI USB...'
+tags: 
 actualPrice: 769.0 EUR
 currency: EUR
 price: 769.0

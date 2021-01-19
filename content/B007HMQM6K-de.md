@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31dIZQDhjdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B007HMQM6K-de SEVERIN DK 1042 Doppel-Kochplatte  2 Massekochfelder  1x Ø 15 5 cm  1x Ø 18 5 cm  Stufenlose Temperatureinstellung  weiß'
+slug: 'B007HMQM6K-de SEVERIN DK 1042 Doppel-Kochplatte 2 Massekochfelder 1x Ø...'
+tags: 
 actualPrice: 29.84 EUR
 currency: EUR
 price: 29.84

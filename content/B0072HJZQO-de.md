@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Q3dHOKwzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0072HJZQO-de Inter Link 13500020 Regal weiß Bücherregal Wandregal Aktenregal Büroregal Büro Wohnzimmer 2 Böden'
+slug: 'B0072HJZQO-de Inter Link 13500020 Regal weiß Bücherregal Wandregal...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

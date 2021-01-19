@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EFpS6it+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083DMJ5HN-de DXX Technik Bausteine FRR-F1 Racing Auto  585Teile 2.4G Sportwagen Bausteine Konstruktionsspielzeug Kompatibel mit Lego Technic'
+slug: 'B083DMJ5HN-de DXX Technik Bausteine FRR-F1 Racing Auto 585Teile 2.4G...'
+tags: 
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

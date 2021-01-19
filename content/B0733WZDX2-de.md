@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tDe4fJKkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0733WZDX2-de Festina Herren Chronograph Quarz Uhr mit Leder Armband F20339/6'
+slug: 'B0733WZDX2-de Festina Herren Chronograph Quarz Uhr mit Leder Armband...'
+tags: 
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

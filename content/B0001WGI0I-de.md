@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MSBGMWCQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0001WGI0I-de BRIO Bahn 33204 - Parkhaus  Straßen&Schienen'
+slug: 'B0001WGI0I-de BRIO Bahn 33204 - Parkhaus Straßen&Schienen'
+tags: 
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

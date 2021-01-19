@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51LzJcYRxHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083XNNZVG-de DXX Technik Bausteine Auto G500 AWD Wagon Racing Auto  1662Teile 1:10 2.4G Geländewagen Bausteine Konstruktionsspielzeug'
+slug: 'B083XNNZVG-de DXX Technik Bausteine Auto G500 AWD Wagon Racing Auto...'
+tags: 
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419ZSOkvJaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073SG45RD-de HyperX HXK-DM01 Pulsefire FPS & FURY S Gaming Maus mit Mauspad Bundle'
+slug: 'B073SG45RD-de HyperX HXK-DM01 Pulsefire FPS & FURY S Gaming Maus mit...'
+tags: 
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

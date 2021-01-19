@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KShRYC1ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XXSRV7M-de 1080P FHD WLAN IP Kamera  CACAGOO Überwachungskamera mit Zwei-Wege-Audio  Bewegungserkennung  Nachtsicht  Monitor Baby hundekamera'
+slug: 'B07XXSRV7M-de 1080P FHD WLAN IP Kamera CACAGOO Überwachungskamera mit...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

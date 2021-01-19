@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41BKmigJZbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F6IL11M-de satch Pack Chaka Cherry  ergonomischer Schulrucksack  30 Liter  Organisationstalent  Pink'
+slug: 'B01F6IL11M-de satch Pack Chaka Cherry ergonomischer Schulrucksack 30...'
+tags: 
 actualPrice: 75 EUR
 currency: EUR
 price: 75

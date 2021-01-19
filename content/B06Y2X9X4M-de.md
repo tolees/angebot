@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ktpfGc08L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y2X9X4M-de Hasbro Spiele C0432100 - Perfektion  Geschicklichkeitsspiel'
+slug: 'B06Y2X9X4M-de Hasbro Spiele C0432100 - Perfektion Geschicklichkeitsspiel'
+tags: 
 actualPrice: 14.14 EUR
 currency: EUR
 price: 14.14

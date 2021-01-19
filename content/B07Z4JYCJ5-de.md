@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vO5aYegqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4JYCJ5-de Unizooke Messerschärfer Profi  Messerschleifer Messer Schärfer für Restaurant Küchenmesser und Haushalt Messer  Knife Sharpener für Wellenschliff und Glatter Klinge Kitchen Messerschaerfer Leicht'
+slug: 'B07Z4JYCJ5-de Unizooke Messerschärfer Profi Messerschleifer Messer...'
+tags: 
 actualPrice: 14.58 EUR
 currency: EUR
 price: 14.58

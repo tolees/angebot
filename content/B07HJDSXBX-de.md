@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ApTNO7YsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HJDSXBX-de Funko 34496 Pop-Vinyl: Television: Money Heist: The Professor  Multi'
+slug: 'B07HJDSXBX-de Funko 34496 Pop-Vinyl: Television: Money Heist: The...'
+tags: 
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

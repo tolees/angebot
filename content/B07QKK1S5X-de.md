@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51b1WccyfxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QKK1S5X-de Finish Maschinenpfleger Tabs – Spülmaschinentabs gegen Schmutz & Fett im Inneren der Spülmaschine – Jahresvorrat mit 12 Geschirrspülreiniger Tabs'
+slug: 'B07QKK1S5X-de Finish Maschinenpfleger Tabs – Spülmaschinentabs gegen...'
+tags: 
 actualPrice: 8.27 EUR
 currency: EUR
 price: 8.27

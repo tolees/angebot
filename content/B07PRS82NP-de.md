@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RfvwgHoJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRS82NP-de Samsung RU7409 163 cm  65 Zoll  LED Fernseher  Ultra HD  HDR  Triple Tuner  Smart TV  [Modelljahr 2019]'
+slug: 'B07PRS82NP-de Samsung RU7409 163 cm 65 Zoll LED Fernseher Ultra HD HDR...'
+tags: 
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X6RFepw-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6VBFYD-de Cudy GS1005P 5-Port Gigabit PoE+ Switch 60W  4 * 10/100/1000Mbit/s PoE+ Ports  802.3af / 802.3at  Desktop- und Wandmontage  Plug-and-Play  Metallgehäuse'
+slug: 'B07W6VBFYD-de Cudy GS1005P 5-Port Gigabit PoE+ Switch 60W 4 *...'
+tags: 
 actualPrice: 42.9 EUR
 currency: EUR
 price: 42.9

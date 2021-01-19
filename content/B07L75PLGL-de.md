@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AYr7-O0wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L75PLGL-de GRIFEMA GRIFERÍA DE COCINA-G4002-2 | Küchenarmatur - Wasserhahn Küche mit Flexibler Auslauf  Hoher Auslauf 250mm  | Spültischarmatur  G3/8   Anschlüsse  Hochdruck  Schwarz  Chrom'
+slug: 'B07L75PLGL-de GRIFEMA GRIFERÍA DE COCINA-G4002-2 | Küchenarmatur -...'
+tags: 
 actualPrice: 26.35 EUR
 currency: EUR
 price: 26.35

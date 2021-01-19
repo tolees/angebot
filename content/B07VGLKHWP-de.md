@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hWgk4hegL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGLKHWP-de motorola one zoom mit Alexa Hands-Free Smartphone  6 4-Zoll-FHD+Display  Vierfach-Kamerasystem; 128 GB/4 GB  Android 9 Pie  Dual-SIM-Smartphone   Grau-Metallic + Headset + Schutzcover'
+slug: 'B07VGLKHWP-de motorola one zoom mit Alexa Hands-Free Smartphone 6...'
+tags: 
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

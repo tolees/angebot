@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Snh0cGx3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084H9DDPW-de Samsung Sound Tower Lautsprecher MX-T50  Bluetooth  2.0-Kanal-System  Bass Booster  Karaoke-Modus'
+slug: 'B084H9DDPW-de Samsung Sound Tower Lautsprecher MX-T50 Bluetooth...'
+tags: 
 actualPrice: 294.99 EUR
 currency: EUR
 price: 294.99

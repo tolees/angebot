@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41jdrzrOmxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BQX491G-de erima Club 5 Sporttasche  Orange/Schwarz  L  76 Liter  723363'
+slug: 'B00BQX491G-de erima Club 5 Sporttasche Orange/Schwarz L 76 Liter 723363'
+tags: 
 actualPrice: 17.18 EUR
 currency: EUR
 price: 17.18

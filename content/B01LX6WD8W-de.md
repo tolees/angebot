@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oYYrGedYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LX6WD8W-de Pioneer HTP-074 B  5.1 Heimkinosystem mit AV Receiver und Lautsprecher Set  100 W/Kanal  Multiroom  Dolby TrueHD  Bluetooth  Radio  Front USB/Audio in  Eco Mode   Schwarz'
+slug: 'B01LX6WD8W-de Pioneer HTP-074 B 5.1 Heimkinosystem mit AV Receiver und...'
+tags: 
 actualPrice: 338.48 EUR
 currency: EUR
 price: 338.48

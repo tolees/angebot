@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mudrE0TWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HK899YZ-de Alex Perry Muttertagsgeschenk ohrringe silber geschenke für frauen schmuck damen frauen geschenk für mama oma partner lustige personalisierte geschenke geburtstagsgeschenk'
+slug: 'B07HK899YZ-de Alex Perry Muttertagsgeschenk ohrringe silber geschenke...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

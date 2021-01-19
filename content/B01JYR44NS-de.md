@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412x+m8HBwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JYR44NS-de Parrot 3520410038808 Minidrone Swing mit Flypad  schwarz'
+slug: 'B01JYR44NS-de Parrot 3520410038808 Minidrone Swing mit Flypad schwarz'
+tags: 
 actualPrice: 44.49 EUR
 currency: EUR
 price: 44.49

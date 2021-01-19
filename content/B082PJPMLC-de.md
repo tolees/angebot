@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rmyZlG8IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082PJPMLC-de HP Sprocket Studio Fotodrucker  Drucken  scannen  kopieren  Bluetooth  10 x 15 cm Ausdrucke  Luna Pearl'
+slug: 'B082PJPMLC-de HP Sprocket Studio Fotodrucker Drucken scannen kopieren...'
+tags: 
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

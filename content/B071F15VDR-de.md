@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21-E5So+1PL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071F15VDR-de Hisense RB400N4EG3 Kühl-Gefrier-Kombination/A+++/No-Frost/Invertermotor/Türanschlag rechts  wechselbar'
+slug: 'B071F15VDR-de Hisense RB400N4EG3 Kühl-Gefrier-Kombination/A+++/No-...'
+tags: 
 actualPrice: 283.25 EUR
 currency: EUR
 price: 283.25

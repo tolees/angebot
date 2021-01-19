@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UtrXyDXbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VHW5K7H-de Hugo Boss Damen Analog Quarz Uhr mit Edelstahl Armband 1502499'
+slug: 'B07VHW5K7H-de Hugo Boss Damen Analog Quarz Uhr mit Edelstahl Armband...'
+tags: 
 actualPrice: 151.58 EUR
 currency: EUR
 price: 151.58

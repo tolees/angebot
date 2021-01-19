@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hVq-Z6gdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FN4CL35-de Philips Avent 4-in-1-Babynahrungszubereiter SCF883/01  Dampfgaren und Mixen  4 Mahlzeiten  weiß'
+slug: 'B07FN4CL35-de Philips Avent 4-in-1-Babynahrungszubereiter SCF883/01...'
+tags: 
 actualPrice: 107.99 EUR
 currency: EUR
 price: 107.99

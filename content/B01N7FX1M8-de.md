@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kQwgJlQxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7FX1M8-de Barbie FBR34 - Super Abenteuer Camper  Puppen Camping Wohnwagen mit Zubehör  Mädchen Spielzeug ab 3 Jahren'
+slug: 'B01N7FX1M8-de Barbie FBR34 - Super Abenteuer Camper Puppen Camping...'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

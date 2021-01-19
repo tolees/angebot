@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41emi7qLBlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y55RCLD-de Hair Dryer Ribivaul Anion Hairdryer Salon Haarfön mit Ionenfunktion ThermoProtect Haartrockner Advanced Technologie 3 Aufsätze Dry Care DIY Styling für Damen Herren Friseurladen & Zu Hause Haar Fön'
+slug: 'B07Y55RCLD-de Hair Dryer Ribivaul Anion Hairdryer Salon Haarfön mit...'
+tags: 
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

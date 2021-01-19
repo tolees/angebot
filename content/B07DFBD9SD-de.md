@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G+veRxEIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFBD9SD-de Funko B07DFBD9SD Kingdom Hearts 3: Mickey POP Vinylfigur  Multi'
+slug: 'B07DFBD9SD-de Funko B07DFBD9SD Kingdom Hearts 3: Mickey POP Vinylfigur...'
+tags: 
 actualPrice: 6.7 EUR
 currency: EUR
 price: 6.7

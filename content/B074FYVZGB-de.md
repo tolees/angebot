@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510N1W0GX4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074FYVZGB-de Revell 06053 Modellbausatz  Star Wars 1:2700-Republic Destroyer  Level 3  orginalgetreue Nachbildung mit vielen Details-06053'
+slug: 'B074FYVZGB-de Revell 06053 Modellbausatz Star Wars 1:2700-Republic...'
+tags: 
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

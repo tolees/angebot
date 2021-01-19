@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-5d1NJUQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R4WVMH1-de HUAWEI Y5 2019 Dual SIM Smartphone  14  5 cm  5  71 Zoll   16GB ROM  2GB RAM  13MP Hauptkamera  5MP Frontkamera  Android 9.0  EMUI 9.0  Sapphire Blue'
+slug: 'B07R4WVMH1-de HUAWEI Y5 2019 Dual SIM Smartphone 14 5 cm 5 71 Zoll 16GB...'
+tags: 
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

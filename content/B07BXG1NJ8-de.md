@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Fa2TnNBVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BXG1NJ8-de Villeroy & Boch Toy s Delight Eierbecher  Premium Porzellan  Weiß/Rot/Gold'
+slug: 'B07BXG1NJ8-de Villeroy & Boch Toy s Delight Eierbecher Premium Porzellan...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

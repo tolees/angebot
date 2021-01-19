@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31YMzl%2B6LmL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B078T8Q3MR-de COLUMBIA Mädchen Wanderschuhe  Wasserdicht  YOUTH MINX MID III WP OMNI-HEAT  Schwarz  Black  Iceberg   38'
+slug: 'B078T8Q3MR-de COLUMBIA Mädchen Wanderschuhe Wasserdicht YOUTH MINX MID...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZpetixXML._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0772WCTYY-de Sluban M38-70128B Pat and Mat at The Workbank  Mehrfarbig'
+slug: 'B0772WCTYY-de Sluban M38-70128B Pat and Mat at The Workbank Mehrfarbig'
+tags: 
 actualPrice: 7.63 EUR
 currency: EUR
 price: 7.63

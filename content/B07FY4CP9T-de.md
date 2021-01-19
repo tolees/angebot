@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418JjW0I8mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FY4CP9T-de Jacobs Kaffeebohnen Barista Editions Crema Mild  1 kg Bohnenkaffee'
+slug: 'B07FY4CP9T-de Jacobs Kaffeebohnen Barista Editions Crema Mild 1 kg...'
+tags: 
 actualPrice: 8.64 EUR
 currency: EUR
 price: 8.64

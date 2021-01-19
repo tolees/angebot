@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61eWaP0MI4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0766DJPQV-de PLAYMOBIL Knights 9340 Mobile Zwergenfestung  Ab 5 Jahren'
+slug: 'B0766DJPQV-de PLAYMOBIL Knights 9340 Mobile Zwergenfestung Ab 5 Jahren'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

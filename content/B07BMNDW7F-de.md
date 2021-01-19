@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ur66VTI0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BMNDW7F-de ACCUWEIGHT Küchenwaage Digitale Haushaltswaage Digitalwaage elektronische Waage Briefwaage LCD Dislay  mit großer Edelstahl Wiegefläche und Tara  Präzise Waage bis zu 1g  max. 5kg  Inkl. Batterien'
+slug: 'B07BMNDW7F-de ACCUWEIGHT Küchenwaage Digitale Haushaltswaage...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

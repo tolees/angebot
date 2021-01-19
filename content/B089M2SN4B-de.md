@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YNf1L0LSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089M2SN4B-de Symiu Montessori Spielzeug Holzbausteine Bauklötze Werkbank Werkzeugkoffer Holzspielzeug Kinderspielzeug Lernspiele ab 3 4 5 Jahren Geschenk für Mädchen Jungen Kinder'
+slug: 'B089M2SN4B-de Symiu Montessori Spielzeug Holzbausteine Bauklötze...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61rsqAViPHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T9C4HMH-de Fintie Hülle für Kindle Paperwhite - Die dünnste und leichteste Schutzhülle mit Auto Sleep/Wake Funktion  Nicht geeignet für das Modell der 10. Generation 2018   die Bibliothek'
+slug: 'B07T9C4HMH-de Fintie Hülle für Kindle Paperwhite - Die dünnste und...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

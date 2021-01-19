@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p4783n+lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPSSW54-de Marvel 39403 POP Vinyl Far from Home: Spider-Man  Hero Suit  Disney Siper Sammelbares Spielzeug  Mehrfarben  Einheitsgröße'
+slug: 'B07KPSSW54-de Marvel 39403 POP Vinyl Far from Home: Spider-Man Hero Suit...'
+tags: 
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Qg3GmyceL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D68QR7G-de Blackview Tab8 Tablet 25 54cm  10 1 Zoll  Android 10 Tablet-PC  1920x1200 FHD  IPS  Touch 6580mAh Akku  Octa-Core-Prozessor  4GB RAM  64GB ROM  4G LTE Dual SIM  Wi-Fi  GPS  Bluetooth   Grau '
+slug: 'B08D68QR7G-de Blackview Tab8 Tablet 25 54cm 10 1 Zoll Android 10 Tablet-...'
+tags: 
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

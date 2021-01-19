@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41axi6QaURL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DB1R8FK-de Bio Granatapfel Muttersaft  6 x 1 Liter Granatapfelsaft Direktsaft'
+slug: 'B00DB1R8FK-de Bio Granatapfel Muttersaft 6 x 1 Liter Granatapfelsaft...'
+tags: 
 actualPrice: 31.79 EUR
 currency: EUR
 price: 31.79

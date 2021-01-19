@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/516eU1MOsZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MMBTCHW-de Remington Haarglätter Pro Sleek & Curl S6505  abgerundetes Design zum Glätten und Stylen von Locken  schwarz'
+slug: 'B00MMBTCHW-de Remington Haarglätter Pro Sleek & Curl S6505 abgerundetes...'
+tags: 
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

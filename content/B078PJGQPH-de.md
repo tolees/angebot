@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OYxszJ-8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078PJGQPH-de Coleman Blackout Zelt  4 Personen  4 Mann Zelt  wasserdicht WS 4.500 mm'
+slug: 'B078PJGQPH-de Coleman Blackout Zelt 4 Personen 4 Mann Zelt wasserdicht...'
+tags: 
 actualPrice: 115.99 EUR
 currency: EUR
 price: 115.99

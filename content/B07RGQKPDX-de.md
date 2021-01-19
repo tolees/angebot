@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31m2hoN65rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGQKPDX-de Tommy Jeans Damen Tjw Waffle Hybrid Longsleeve Sport Pullover  Blau  Blue Cbk   40  Herstellergröße: X-Large '
+slug: 'B07RGQKPDX-de Tommy Jeans Damen Tjw Waffle Hybrid Longsleeve Sport...'
+tags: 
 actualPrice: 23.3 EUR
 currency: EUR
 price: 23.3

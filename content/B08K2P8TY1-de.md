@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pj1myU12L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08K2P8TY1-de MAJOZ0 Beleuchtungsset für LEGO Architecture London Skyline Sammlungsset  LED Beleuchtungsset Kompatibel mit LEGO 21034  Nicht Enthalten Lego Modell '
+slug: 'B08K2P8TY1-de MAJOZ0 Beleuchtungsset für LEGO Architecture London...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

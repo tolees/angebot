@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/414o6OaWgTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKDS55W-de Nike Unisex-Erwachsene Phantom VSN Academy Dynamic Fit MG Fußballschuhe  Mehrfarbig  Bright Crimson/Metallic Silver 600   42 EU'
+slug: 'B07FKDS55W-de Nike Unisex-Erwachsene Phantom VSN Academy Dynamic Fit MG...'
+tags: 
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

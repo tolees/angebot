@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41afalWQJ3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0725VZZP2-de Buff Lightweight Merino Wool Multifunktionstuch  Edgy Denim  One Size'
+slug: 'B0725VZZP2-de Buff Lightweight Merino Wool Multifunktionstuch Edgy Denim...'
+tags: 
 actualPrice: 18.58 EUR
 currency: EUR
 price: 18.58

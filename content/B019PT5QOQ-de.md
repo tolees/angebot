@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JAvIp-cdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019PT5QOQ-de Mobicool V30  tragbare thermo-elektrische Kühlbox  29 Liter  12 V und 230 V für Auto  Lkw  Steckdose'
+slug: 'B019PT5QOQ-de Mobicool V30 tragbare thermo-elektrische Kühlbox 29 Liter...'
+tags: 
 actualPrice: 58.8 EUR
 currency: EUR
 price: 58.8

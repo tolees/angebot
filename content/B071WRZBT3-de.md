@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412kT3HnwlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WRZBT3-de Original Falken 5er Pack PP-Color Kunststoff-Ordner. Made in Germany. 8 cm breit DIN A4 weiß Vegan Ringordner Aktenordner Briefordner Büroordner Plastikordner Schlitzordner'
+slug: 'B071WRZBT3-de Original Falken 5er Pack PP-Color Kunststoff-Ordner. Made...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

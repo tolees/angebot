@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TelEhv1BL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKKLJ62-de Kipling Damen CITY PACK S Rucksack  Blau  Active Denim   27x33.5x19 cm'
+slug: 'B07DKKLJ62-de Kipling Damen CITY PACK S Rucksack Blau Active Denim...'
+tags: 
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

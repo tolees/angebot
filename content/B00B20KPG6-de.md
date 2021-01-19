@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xcdKdbpGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B20KPG6-de Melitta Caffeo Solo & Perfect Milk E957-101 Schlanker Kaffeevollautomat mit Auto-Cappuccinatore | Automatische Reinigungsprogramme | Automatische Mahlmengenregulierung | Schwarz'
+slug: 'B00B20KPG6-de Melitta Caffeo Solo & Perfect Milk E957-101 Schlanker...'
+tags: 
 actualPrice: 314.99 EUR
 currency: EUR
 price: 314.99

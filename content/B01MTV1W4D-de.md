@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414EXSgJmxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTV1W4D-de Samsung CLT-P504C Multipack  schwarz  Cyan  Magenta  Gelb  Original Toner'
+slug: 'B01MTV1W4D-de Samsung CLT-P504C Multipack schwarz Cyan Magenta Gelb...'
+tags: 
 actualPrice: 214.55 EUR
 currency: EUR
 price: 214.55

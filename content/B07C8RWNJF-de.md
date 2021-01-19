@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nbTVo40XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C8RWNJF-de Huawei P20 Pro Smartphone Bundle  15 5 cm  6 1 Zoll   40/20/8 MP Leica Triple Kamera  128GB interner Speicher  6GB RAM  Android 8.1  EMUI 8.1  Blau [Exklusiv bei Amazon] - Deutsche Version'
+slug: 'B07C8RWNJF-de Huawei P20 Pro Smartphone Bundle 15 5 cm 6 1 Zoll 40/20/8...'
+tags: 
 actualPrice: 449.99 EUR
 currency: EUR
 price: 449.99

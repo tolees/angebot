@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Jg-cqGPSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083K28TFB-de DXX Acryl Schaukasten Vitrine  Schaukasten Acryl Vitrine Display Case für Lego Technic Bugatti Chiron 42083 Ohne Modell '
+slug: 'B083K28TFB-de DXX Acryl Schaukasten Vitrine Schaukasten Acryl Vitrine...'
+tags: 
 actualPrice: 82.99 EUR
 currency: EUR
 price: 82.99

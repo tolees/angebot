@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51i7cyDQ4AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013WY3MDC-de LIPTON ICE TEA Sparkling Classic  Eistee mit Kohlensäure und Zitronen Geschmack  24 x 0.33l '
+slug: 'B013WY3MDC-de LIPTON ICE TEA Sparkling Classic Eistee mit Kohlensäure...'
+tags: 
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

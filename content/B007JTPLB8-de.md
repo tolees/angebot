@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4173q1uaX0L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007JTPLB8-de BaByliss 6614E Profi-Haartrockner Pro Express Ionic  2300 Watt'
+slug: 'B007JTPLB8-de BaByliss 6614E Profi-Haartrockner Pro Express Ionic 2300 Watt'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

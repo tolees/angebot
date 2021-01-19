@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DVLs7zfcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YJB35QK-de Küchenarmatur Heimwerkerzubehör Antike Messing 360 Swivel Waschbecken Mischbatterie Kran Grifo De Cocina'
+slug: 'B07YJB35QK-de Küchenarmatur Heimwerkerzubehör Antike Messing 360 Swivel...'
+tags: 
 actualPrice: 92.99 EUR
 currency: EUR
 price: 92.99

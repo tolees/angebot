@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41J4efLrciL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N7PL55Z-de L-RUN Damen Wasserschuhe Herren Aqua Socken Leichtes M_schwarz XXL  B: 9-9.5  M: 9-9.5 '
+slug: 'B07N7PL55Z-de L-RUN Damen Wasserschuhe Herren Aqua Socken Leichtes...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

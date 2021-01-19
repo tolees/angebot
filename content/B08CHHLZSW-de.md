@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rKIuL+IbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CHHLZSW-de Montessori Spielzeug Ab 3 4 5 6 7 Jahren - Scrabble Junior  Lesen Lernen  Buchstaben Spiel  Holzbuchstaben Lernspiele Ab 3-7 Jahren Geschenk FüR 3 Jahre Alte Jungen MäDchen Kinder-Vorschule Lernspiele'
+slug: 'B08CHHLZSW-de Montessori Spielzeug Ab 3 4 5 6 7 Jahren - Scrabble Junior...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

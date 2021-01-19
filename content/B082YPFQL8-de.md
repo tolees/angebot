@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61T5994Ea1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082YPFQL8-de Playmobil Family Fun 70341 Mein großer Erlebnis-Zoo  Ab 4 Jahren'
+slug: 'B082YPFQL8-de Playmobil Family Fun 70341 Mein großer Erlebnis-Zoo Ab 4...'
+tags: 
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

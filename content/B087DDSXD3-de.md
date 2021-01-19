@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uL6HzXatL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087DDSXD3-de Samsung T7 Portable SSD - 500 GB - USB 3.2 Gen.2 Externe SSD Titan Gray  MU-PC500T/WW '
+slug: 'B087DDSXD3-de Samsung T7 Portable SSD - 500 GB - USB 3.2 Gen.2 Externe...'
+tags: 
 actualPrice: 94.89 EUR
 currency: EUR
 price: 94.89

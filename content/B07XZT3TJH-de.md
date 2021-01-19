@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317vIDk5aoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XZT3TJH-de Sony Xperia 5 Bundle  6.1” FHD+ HDR OLED 21:9 Display  6GB RAM  128GB Speicher  Schwarz + gratis 64 GB Speicherkarte [Exklusiv bei Amazon DE]'
+slug: 'B07XZT3TJH-de Sony Xperia 5 Bundle 6.1” FHD+ HDR OLED 21:9 Display 6GB...'
+tags: 
 actualPrice: 603.55 EUR
 currency: EUR
 price: 603.55

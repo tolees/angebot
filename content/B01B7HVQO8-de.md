@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519YEUzQl5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B7HVQO8-de Bosch MUM5 CreationLine Küchenmaschine MUM58020  vielseitig einsetzbar  große Edelstahl-Schüssel  3 9l   Mixer  Durchlaufschnitzler  1000 W  Rot Diamond/Silber'
+slug: 'B01B7HVQO8-de Bosch MUM5 CreationLine Küchenmaschine MUM58020 vielseitig...'
+tags: 
 actualPrice: 222.0 EUR
 currency: EUR
 price: 222.0

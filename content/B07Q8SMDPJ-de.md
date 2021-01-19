@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fmDKlMcbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q8SMDPJ-de HABA 304697 - Tal der Wikinger  Kinderspiel des Jahres 2019  Spiel ab 6 Jahren'
+slug: 'B07Q8SMDPJ-de HABA 304697 - Tal der Wikinger Kinderspiel des Jahres 2019...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

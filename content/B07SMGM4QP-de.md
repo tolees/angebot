@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41v2wyaCDZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SMGM4QP-de SS&LL Cubo de basura del Pedal Papelera de Acero inoxidable Con tapa cubos de basura para cocinas baños dormitorio-B'
+slug: 'B07SMGM4QP-de SS&LL Cubo de basura del Pedal Papelera de Acero...'
+tags: 
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

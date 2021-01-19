@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31C02tSdCyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000RQU2KU-de Brennenstuhl Eco-Line  Steckdosenleiste 10-fach  Steckerleiste mit erhöhtem Berührungsschutz  Schalter und 3m Kabel  schwarz'
+slug: 'B000RQU2KU-de Brennenstuhl Eco-Line Steckdosenleiste 10-fach...'
+tags: 
 actualPrice: 9.53 EUR
 currency: EUR
 price: 9.53

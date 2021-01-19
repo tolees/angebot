@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AkQIjYjmL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRZ60F0-de AVM FRITZ!DECT 210  intelligente Steckdose für Smart Home  mit Spritzwasserschutz  IP 44  für Einsatz im Außenbereich '
+slug: 'B01MRZ60F0-de AVM FRITZ!DECT 210 intelligente Steckdose für Smart Home...'
+tags: 
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

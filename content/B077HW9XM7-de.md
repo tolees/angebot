@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZDhvEsEpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077HW9XM7-de ECOVACS Robotics DEEBOT N79S Saugroboter – Leistungsstarker Staubsauger Roboter mit Klopfbürste  App- und Alexa-Steuerung – Mit 100 min Laufzeit'
+slug: 'B077HW9XM7-de ECOVACS Robotics DEEBOT N79S Saugroboter –...'
+tags: 
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

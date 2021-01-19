@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lBmwqwgYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IAV917O-de Panasonic RF-D10EG-K Digitalradio  DAB+/UKW Tuner  Netz- und Batteriebetrieb  schwarz'
+slug: 'B00IAV917O-de Panasonic RF-D10EG-K Digitalradio DAB+/UKW Tuner Netz- und...'
+tags: 
 actualPrice: 61.72 EUR
 currency: EUR
 price: 61.72

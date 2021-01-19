@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wOaIPK5LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082NZYDDM-de Cudy AX3000 WiFi 6 PCIe Karte für PC  Bluetooth 5.0 PCIe Karte  Intel AX200  2402+574 Mbit/s WiFi 6-Geschwindigkeit  802.11ax/ac/a/b/g/n  Bluetooth 5.0/4.2/4.0  nur Windows 10  64-bit  System'
+slug: 'B082NZYDDM-de Cudy AX3000 WiFi 6 PCIe Karte für PC Bluetooth 5.0 PCIe...'
+tags: 
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41o4VVON9hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGHWPR7-de BRIKSMAX Volkswagen Käfer Led Beleuchtungsset - Kompatibel Mit Lego 10252 Bausteinen Modell - Ohne Lego Set'
+slug: 'B07LGHWPR7-de BRIKSMAX Volkswagen Käfer Led Beleuchtungsset - Kompatibel...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

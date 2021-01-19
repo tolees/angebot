@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wwNNTzaKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGBSN21-de PUMA Herren Boxershort Limited Statement Edition 6er Pack - orange - Gr. S'
+slug: 'B07RGBSN21-de PUMA Herren Boxershort Limited Statement Edition 6er Pack...'
+tags: 
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

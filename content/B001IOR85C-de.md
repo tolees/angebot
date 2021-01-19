@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WBRf84FyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001IOR85C-de Städter Ausstechform  Edelstahl  Silber  7.5 cm'
+slug: 'B001IOR85C-de Städter Ausstechform Edelstahl Silber 7.5 cm'
+tags: 
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

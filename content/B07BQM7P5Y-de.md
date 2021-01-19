@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+rtfWdzUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BQM7P5Y-de Schreibtafel  IGERESS 8 5 Zoll LCD Schreibtablett abwischbar elektronisch  licht und einfach zu bedienen schreibtafel fur Kinder zum Schreiben  Malen oder Lernen'
+slug: 'B07BQM7P5Y-de Schreibtafel IGERESS 8 5 Zoll LCD Schreibtablett...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31k1NH-50LL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082SDNDVC-de LloydBP Displayport zum HDMI-Adapterkabel Mini-Dp zum HDMI-Kabel Mini-Displayport zum HDMI-Computer  der an den Fernseher angeschlossen ist - Weiß'
+slug: 'B082SDNDVC-de LloydBP Displayport zum HDMI-Adapterkabel Mini-Dp zum...'
+tags: 
 actualPrice: 1.21 EUR
 currency: EUR
 price: 1.21

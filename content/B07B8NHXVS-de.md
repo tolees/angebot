@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZV4uyrx4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B8NHXVS-de Air Wick Freshmatic Max Raumspray – Nachfüller für den Air Wick Freshmatic Max – Duft: Seide & Lilienfrische – 6 x 250 ml Nachfüller'
+slug: 'B07B8NHXVS-de Air Wick Freshmatic Max Raumspray – Nachfüller für den Air...'
+tags: 
 actualPrice: 22.4 EUR
 currency: EUR
 price: 22.4

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HAyRqG-TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DV3C6PC-de N/P WLAN Repeater  2 4GHz WLAN Verstärker WiFi Extender mit Router/AP/WPS/Wireless Access Point Modus  WiFi Repeater 4 External Antennas  2 Ethernet Ports  Kompatibel zu Allen WLAN Geräten'
+slug: 'B08DV3C6PC-de N/P WLAN Repeater 2 4GHz WLAN Verstärker WiFi Extender mit...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bMA+lX3uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SRCR1H3-de Acer Nitro 5  AN517-51-754T  43 9 cm  17 3 Zoll Full-HD mit IPS 144 Hz  Intel Core i7-9750H  16 GB DDR4 RAM  2x 512 GB PCIe SSD - RAID  NVIDIA GeForce GTX 1660Ti  Win 10 Home  64 Bit   Schwarz  Rot '
+slug: 'B07SRCR1H3-de Acer Nitro 5 AN517-51-754T 43 9 cm 17 3 Zoll Full-HD mit...'
+tags: 
 actualPrice: 715.0 EUR
 currency: EUR
 price: 715.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418Jg-FJ0yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G7BGMZ2-de Reishunger Digitaler Reiskocher & Dampfgarer Weiss mit Warmhaltefunktion  Timer & Premium Innentopf - Multikocher inkl. Reislöffel & Messbecher  12 Programme  7-Phasen-Technologie  Bis 8 Personen'
+slug: 'B07G7BGMZ2-de Reishunger Digitaler Reiskocher & Dampfgarer Weiss mit...'
+tags: 
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

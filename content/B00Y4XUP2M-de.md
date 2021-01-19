@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vRz4Jj35L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Y4XUP2M-de Lacoste Herren Poloshirt  Schwarz  Noir   Medium  Herstellergröße: 4 '
+slug: 'B00Y4XUP2M-de Lacoste Herren Poloshirt Schwarz Noir Medium...'
+tags: 
 actualPrice: 57.88 EUR
 currency: EUR
 price: 57.88

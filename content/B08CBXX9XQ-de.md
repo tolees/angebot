@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41n9oS3L70L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CBXX9XQ-de SmartQian 9/10 Paar Sneaker Socken Herren Damen Baumwollsocken Kurze Männer Halbsocken Sportsocken Unisex（Schwarz×5 | Grau×5  43-46）'
+slug: 'B08CBXX9XQ-de SmartQian 9/10 Paar Sneaker Socken Herren Damen...'
+tags: 
 actualPrice: 13.43 EUR
 currency: EUR
 price: 13.43

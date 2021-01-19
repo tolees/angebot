@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xXtYwWqDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFDFZ72-de Funko 30695 Full Metal Alchemist: Alphonse POP Vinylfigur  Multi'
+slug: 'B07DFDFZ72-de Funko 30695 Full Metal Alchemist: Alphonse POP Vinylfigur...'
+tags: 
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414mOvdWneL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGPGXPS-de Crucial Ballistix Sport LT BLS16G4D30AESE 3000 MHz  DDR4  DRAM  Desktop Gaming Speicher  16GB  CL15  Rot '
+slug: 'B07MGPGXPS-de Crucial Ballistix Sport LT BLS16G4D30AESE 3000 MHz DDR4...'
+tags: 
 actualPrice: 55.92 EUR
 currency: EUR
 price: 55.92

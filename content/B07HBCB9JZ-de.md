@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vBMFd3EOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HBCB9JZ-de Apple iPhone XR  256GB  - Gelb'
+slug: 'B07HBCB9JZ-de Apple iPhone XR 256GB - Gelb'
+tags: 
 actualPrice: 749.0 EUR
 currency: EUR
 price: 749.0

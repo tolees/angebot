@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gKjJG0uvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TS8NT4T-de Funko 45009 POP Marvel: Fantastic Four - Galactus Collectible Toy  Multicolour'
+slug: 'B07TS8NT4T-de Funko 45009 POP Marvel: Fantastic Four - Galactus...'
+tags: 
 actualPrice: 8.26 EUR
 currency: EUR
 price: 8.26

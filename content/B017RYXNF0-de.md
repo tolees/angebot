@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wYF7u3PPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017RYXNF0-de Linksys Max-Stream AC5400 MU-MIMO Dual-Band Wi-Fi Router für Zuhause  Schneller WLAN-Router  4K UHD- Streaming und Gaming  4 Gigabit-Ethernet-Anschlüsse '
+slug: 'B017RYXNF0-de Linksys Max-Stream AC5400 MU-MIMO Dual-Band Wi-Fi Router...'
+tags: 
 actualPrice: 215.0 EUR
 currency: EUR
 price: 215.0

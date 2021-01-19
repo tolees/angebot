@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xw8oLaoyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074DTXKRZ-de Paulis Kitchen Pfannenwender Silikon/Edelstahl  spülmaschinengeeignet  Schwarz'
+slug: 'B074DTXKRZ-de Paulis Kitchen Pfannenwender Silikon/Edelstahl...'
+tags: 
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

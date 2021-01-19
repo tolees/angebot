@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512MhaN4NML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ND9SVPB-de LEGO 75254 Star Wars AT-ST-Räuber  Set mit abfeuerbaren Shootern und 4 Minifiguren  TV-Serie The Mandalorian Kollektion'
+slug: 'B07ND9SVPB-de LEGO 75254 Star Wars AT-ST-Räuber Set mit abfeuerbaren...'
+tags: 
 actualPrice: 46.55 EUR
 currency: EUR
 price: 46.55
@@ -25,9 +26,9 @@ Sie können [LEGO 75254 Star Wars AT-ST-Räuber  Set mit abfeuerbaren Shootern u
 
 ℹ️:
 
+- Dieses Sammlerstück zum Zusammenbauen verfügt über zahlreiche anregende Merkmale und Funktionen, darunter bewegliche Beine, ein drehbarer, aufklappbarer Geschützturm und 2 abfeuerbare Shooter
 - Mit dem einzigartigen AT-ST-Räuber können alle Fans von LEGO Star Wars in galaktische Abenteuer eintauchen
 - Der 540-teilige AT-ST-Räuber ist 25 cm hoch, 15 cm lang und 13 cm breit
-- Dieses Sammlerstück zum Zusammenbauen verfügt über zahlreiche anregende Merkmale und Funktionen, darunter bewegliche Beine, ein drehbarer, aufklappbarer Geschützturm und 2 abfeuerbare Shooter
 - Mit 4 Charakteren von LEGO Star Wars – dem Mandalorianer, Cara Dune und 2 klatooiniaschen Räubern als Minifiguren – sowie 3 Blaster-Gewehren und einem Blaster steht Action nichts mehr im Wege
 - Diese LEGO Version des AT-ST-Räubers aus der TV-Hitserie The Mandalorian inspiriert Jungen und Mädchen ab 8 Jahren zu tollem Spielspaß.
 

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+ToYWGJmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016IGUH02-de Neff T18TT16N0 Elektrokochfeld N70 / 80cm / TwistPad  / Bräterzone / Glaskeramik / Edelstahlrahmen'
+slug: 'B016IGUH02-de Neff T18TT16N0 Elektrokochfeld N70 / 80cm / TwistPad /...'
+tags: 
 actualPrice: 341.0 EUR
 currency: EUR
 price: 341.0

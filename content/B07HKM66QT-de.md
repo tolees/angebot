@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OpYsY35kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HKM66QT-de Bosch TDS6530 Serie I 6 EasyComfort Dampfbügelstation  2.400 W  6 5 bar  mit 420 g Dampfstoß  iTemp Technologie  ECO-Modus'
+slug: 'B07HKM66QT-de Bosch TDS6530 Serie I 6 EasyComfort Dampfbügelstation...'
+tags: 
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

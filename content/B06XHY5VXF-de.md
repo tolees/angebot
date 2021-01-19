@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310Y99pr1EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHY5VXF-de Sabrent Bluetooth-Adapter USB Bluetooth 4.0 Micro Adapter für PC [v4.0 Klasse 2  mit Niedrig Energie Technologie]  BT-UB40 '
+slug: 'B06XHY5VXF-de Sabrent Bluetooth-Adapter USB Bluetooth 4.0 Micro Adapter...'
+tags: 
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mP3Q2xvhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000NIF31A-de Ecco ECCO OFFROAD  Herren Outdoor Sandale  Schwarz  BLACK/MOLE/BLACK50034   42 EU  8 Herren UK '
+slug: 'B000NIF31A-de Ecco ECCO OFFROAD Herren Outdoor Sandale Schwarz...'
+tags: 
 actualPrice: 48.2 EUR
 currency: EUR
 price: 48.2

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5107r+d0+zL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G4PR97Q-de Ravensburger Malen nach Zahlen 28027 28027-Frozen  Malset'
+slug: 'B01G4PR97Q-de Ravensburger Malen nach Zahlen 28027 28027-Frozen Malset'
+tags: 
 actualPrice: 8.84 EUR
 currency: EUR
 price: 8.84

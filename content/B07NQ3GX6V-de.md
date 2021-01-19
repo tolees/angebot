@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zD5WFkhfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQ3GX6V-de EACHINE E58 Drohne mit Kamera 720P HD Kamera  Live Übertragung 120°WeitwinkelWiFi FPV Quadrocopter  App-Steuerung  One Key Start/Landung Headless Modus Pocket Drohne für Anfänger  3 AKKU  Schwarz'
+slug: 'B07NQ3GX6V-de EACHINE E58 Drohne mit Kamera 720P HD Kamera Live...'
+tags: 
 actualPrice: 86.66 EUR
 currency: EUR
 price: 86.66

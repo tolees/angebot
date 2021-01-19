@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Pd91JTKBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LW5J9XR-de Grundig CMS 1050 DAB+ BT Kompakt Micro Anlage  Bluetooth  CD-MP3-Wiedergabe  USB Anschluss  schwarz/silber'
+slug: 'B01LW5J9XR-de Grundig CMS 1050 DAB+ BT Kompakt Micro Anlage Bluetooth...'
+tags: 
 actualPrice: 94.04 EUR
 currency: EUR
 price: 94.04

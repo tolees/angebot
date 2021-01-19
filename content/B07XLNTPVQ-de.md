@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415XqOW2IrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XLNTPVQ-de Belkin ScreenForce TemperedCurve Displayschutz für iPhone 11  Displayschutzfolie für iPhone 11  auch kompatibel mit iPhone XR '
+slug: 'B07XLNTPVQ-de Belkin ScreenForce TemperedCurve Displayschutz für iPhone...'
+tags: 
 actualPrice: 21.04 EUR
 currency: EUR
 price: 21.04

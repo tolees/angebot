@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CnWjZKfJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMYM2QV-de Fintie Hülle kompatibel für Kindle Paperwhite  10. Generation - 2018 / alle Generationen  - Kickstand Schutzhülle mit Kartenfach Handschlaufe und Auto Sleep/Wake Funktion  die Bibliothek'
+slug: 'B07TMYM2QV-de Fintie Hülle kompatibel für Kindle Paperwhite 10....'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

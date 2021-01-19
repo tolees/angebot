@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514nyVD6KlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076BJMG38-de The Stage   Deluxe Edt. '
+slug: 'B076BJMG38-de The Stage Deluxe Edt.'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

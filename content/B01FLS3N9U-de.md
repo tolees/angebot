@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41S+kfyNTrL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FLS3N9U-de Funko 39827 POP Vinyl: Football-Neymar da Silva Santos Jr.  PSG  Collectible Figure  Multicolour'
+slug: 'B01FLS3N9U-de Funko 39827 POP Vinyl: Football-Neymar da Silva Santos Jr....'
+tags: 
 actualPrice: 5.92 EUR
 currency: EUR
 price: 5.92

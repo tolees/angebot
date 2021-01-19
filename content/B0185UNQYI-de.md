@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HGHvXlU7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0185UNQYI-de SLV GU10 ES111 LED Leuchtmittel  11 1 cm Ø | 6 5 Watt  2700 Kelvin  warmweiß   390 Lumen Lichtstrom  nicht dimmbar | sehr sparsame LED-Lampe  EEK A+ und 7 kWh Energieverbrauch | 30.000 h Lebensdauer'
+slug: 'B0185UNQYI-de SLV GU10 ES111 LED Leuchtmittel 11 1 cm Ø | 6 5 Watt 2700...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

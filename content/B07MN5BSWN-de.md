@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ulNJrzPeL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MN5BSWN-de Braun Barttrimmer und Haarschneider BT7040  39 Längeneinstellungen  Edelstahl-Trimmerkopf  Präzisionstrimmer und Präzisionsscherkopf  mit Gillette Rasierer und Ladestation  schwarz/grau'
+slug: 'B07MN5BSWN-de Braun Barttrimmer und Haarschneider BT7040 39...'
+tags: 
 actualPrice: 64.68 EUR
 currency: EUR
 price: 64.68

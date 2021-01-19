@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517NJ-WTbpL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M86YCPQ-de SD-Kartenleser  Micro SD / TF-Compact-Flash-Kartenleser mit 3-in-1-USB-Typ-C / Micro-USB-Steckeradapter und tragbarer OTG-Speicherkartenleser für & PC & Laptop & Smartphones & Tablets'
+slug: 'B07M86YCPQ-de SD-Kartenleser Micro SD / TF-Compact-Flash-Kartenleser mit...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

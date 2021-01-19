@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31bCofRIwCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JFRNBUU-de Kitchen Craft Kuchenbox  Aufschrift "Cake"  kuppelförmig  aus der Living-Nostalgia-Produktreihe  Creme'
+slug: 'B00JFRNBUU-de Kitchen Craft Kuchenbox Aufschrift "Cake" kuppelförmig aus...'
+tags: 
 actualPrice: 29.05 EUR
 currency: EUR
 price: 29.05

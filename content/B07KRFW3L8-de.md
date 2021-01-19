@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4113me2cPjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRFW3L8-de Geschenke 24 Schlüsselanhänger Schönster Tag in Rot mit Wunschgravur – gravierter Schlüssel Anhänger im Kalender Design - mit Wunschtag  Monat und Jahr personalisiert'
+slug: 'B07KRFW3L8-de Geschenke 24 Schlüsselanhänger Schönster Tag in Rot mit...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

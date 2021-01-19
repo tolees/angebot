@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gm5C5qL5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00R0Z7TFM-de Bosch Professional Laser Entfernungsmesser GLM 40  Flächen-/Volumenberechnung  max. Messbereich: 40 m  Flächen-Volumenberechnung  2x 1 5-V Batterien  Schutztasche '
+slug: 'B00R0Z7TFM-de Bosch Professional Laser Entfernungsmesser GLM 40...'
+tags: 
 actualPrice: 55.91 EUR
 currency: EUR
 price: 55.91

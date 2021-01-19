@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4100Ws9w5cL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0794ZR5QK-de Philips Ambilight 65PUS7303/12 Fernseher 164 cm  65 Zoll  LED Smart TV  4K UHD  HDR Plus  Micro Dimming Pro  Android TV  Google Assistant '
+slug: 'B0794ZR5QK-de Philips Ambilight 65PUS7303/12 Fernseher 164 cm 65 Zoll...'
+tags: 
 actualPrice: 580.0 EUR
 currency: EUR
 price: 580.0

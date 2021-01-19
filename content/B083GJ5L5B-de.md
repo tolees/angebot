@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AgDmVpOhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083GJ5L5B-de K9CK Halterung für Lego Millenium Falcon 75192 - Modell Nicht Enthalten'
+slug: 'B083GJ5L5B-de K9CK Halterung für Lego Millenium Falcon 75192 - Modell...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

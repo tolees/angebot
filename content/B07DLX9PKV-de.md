@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31civl2W90L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DLX9PKV-de SAMSONITE PRO-DLX 5 - Rolling Tote for 15.6" Laptop - 3.1 KG Reise-Henkeltasche  Magnetic Grey'
+slug: 'B07DLX9PKV-de SAMSONITE PRO-DLX 5 - Rolling Tote for 15.6" Laptop - 3.1...'
+tags: 
 actualPrice: 223.25 EUR
 currency: EUR
 price: 223.25

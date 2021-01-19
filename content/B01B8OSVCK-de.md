@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31chAFSKzyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B8OSVCK-de DELL KB216 USB QWERTY US International Schwarz Tastatur - Tastaturen  Standard  Verkabelt  USB  QWERTY  Schwarz '
+slug: 'B01B8OSVCK-de DELL KB216 USB QWERTY US International Schwarz Tastatur -...'
+tags: 
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

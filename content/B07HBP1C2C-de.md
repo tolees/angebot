@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51aEaDIrljL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HBP1C2C-de Apple iPhone XS  64GB  - Silber'
+slug: 'B07HBP1C2C-de Apple iPhone XS 64GB - Silber'
+tags: 
 actualPrice: 659.0 EUR
 currency: EUR
 price: 659.0

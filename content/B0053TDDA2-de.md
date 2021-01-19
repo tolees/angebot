@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311fiB-9i8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0053TDDA2-de Rotho Paso Mülleimer 20l mit Deckel  Kunststoff  PP  BPA-frei  silber metallic  20l  29 3 x 26 6 x 45 7 cm '
+slug: 'B0053TDDA2-de Rotho Paso Mülleimer 20l mit Deckel Kunststoff PP BPA-frei...'
+tags: 
 actualPrice: 21.32 EUR
 currency: EUR
 price: 21.32

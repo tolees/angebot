@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XKHT5VM-de Carrera 20062428 GO'
+tags: 
 actualPrice: 50.04 EUR
 currency: EUR
 price: 50.04

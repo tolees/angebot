@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X6hnUsdbL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TJD79BW-de Acer H7550ST DLP Projektor  Full HD 1920 x 1080 Pixel  3.000 ANSI Lumen  Kontrast 16.000:1  3D Kurzdistanz '
+slug: 'B00TJD79BW-de Acer H7550ST DLP Projektor Full HD 1920 x 1080 Pixel 3.000...'
+tags: 
 actualPrice: 400.0 EUR
 currency: EUR
 price: 400.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-5V42gjfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014QKKOQE-de RAVPower USB Ladegerät 30W 3 Port USB Netzteil 5V/6A USB Stecker mit iSmart Technologie für iPhone 11 Pro Max XS XR X 8/7/6  iPad  Galaxy S9 S8 Plus  LG  Huawei  HTC  Powerbank  MP3 usw. schwarz'
+slug: 'B014QKKOQE-de RAVPower USB Ladegerät 30W 3 Port USB Netzteil 5V/6A USB...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

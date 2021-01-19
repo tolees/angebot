@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51B6-pQ8T-L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YS4MPMD-de G DATA Internet Security 2020 | 3 Geräte - 1 Jahr  DVD-ROM inkl. Webcam-Cover | Windows  Mac  Android  iOS Antivirus | Made in Germany'
+slug: 'B07YS4MPMD-de G DATA Internet Security 2020 | 3 Geräte - 1 Jahr DVD-ROM...'
+tags: 
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51y2FI-qSDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CZVB3PI-de Paco Home Kinder Teppich Karo Design Multicolour Grün Rot Grau Schwarz Creme Pink  Grösse:120x170 cm'
+slug: 'B00CZVB3PI-de Paco Home Kinder Teppich Karo Design Multicolour Grün Rot...'
+tags: 
 actualPrice: 39.2 EUR
 currency: EUR
 price: 39.2

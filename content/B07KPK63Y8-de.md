@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AiwNzz9cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPK63Y8-de Funko POP! Bobble: Avengers Endgame: Nebula  Multi'
+slug: 'B07KPK63Y8-de Funko POP! Bobble: Avengers Endgame: Nebula Multi'
+tags: 
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

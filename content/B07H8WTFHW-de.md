@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x6o1048NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H8WTFHW-de MEATER Plus | Das ultimative kabellose smarte Fleischthermometer mit 50m Reichweite | Für Ofen  Grill  Pfanne und Rotisserie | Perfekter Fleischgenuss via App'
+slug: 'B07H8WTFHW-de MEATER Plus | Das ultimative kabellose smarte...'
+tags: 
 actualPrice: 89.96 EUR
 currency: EUR
 price: 89.96

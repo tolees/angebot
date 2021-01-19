@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31LsUXq%2Bk6L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BYJO7AE-de American Tourister Bon Air Spinner L Koffer  75 cm  91 L  Türkis  Deep Turquoise '
+slug: 'B01BYJO7AE-de American Tourister Bon Air Spinner L Koffer 75 cm 91 L...'
+tags: 
 actualPrice: 74.97 EUR
 currency: EUR
 price: 74.97

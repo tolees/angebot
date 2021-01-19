@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TPmCf3upL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083FSGK6F-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Resistance Tie Interceptor mit Allianz-Pilot Kompatibel Mit Lego 75242 Bausteinen Modell - Ohne Lego Set'
+slug: 'B083FSGK6F-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Resistance...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

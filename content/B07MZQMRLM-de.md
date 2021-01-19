@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41j+bnI4AFL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQMRLM-de Funko 39947 POP Vinyl: Animation Scooby DOO w/Sandwich Sammelbares Spielzeug  Mehrfarben'
+slug: 'B07MZQMRLM-de Funko 39947 POP Vinyl: Animation Scooby DOO w/Sandwich...'
+tags: 
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

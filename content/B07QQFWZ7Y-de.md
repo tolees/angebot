@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+qIjwQufL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QQFWZ7Y-de Dickie Toys 203713009 Special Forces  Spezialeinheit  SUV  Truck  Polizeiauto mit Funktionen  Sondereinheit  1:32  blau/gelb/grau'
+slug: 'B07QQFWZ7Y-de Dickie Toys 203713009 Special Forces Spezialeinheit SUV...'
+tags: 
 actualPrice: 7.27 EUR
 currency: EUR
 price: 7.27

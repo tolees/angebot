@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XzOAkX4+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M3ST6H6-de HOPPEDIZ Baby-Tragetuch  inklusive Bindeanleitung  Aberdeen 4 60 m'
+slug: 'B01M3ST6H6-de HOPPEDIZ Baby-Tragetuch inklusive Bindeanleitung Aberdeen...'
+tags: 
 actualPrice: 39.49 EUR
 currency: EUR
 price: 39.49

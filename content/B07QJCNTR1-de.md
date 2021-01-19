@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418Ez+SZgfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QJCNTR1-de Zapf Creation 960202 Elli Smiles Puppe mit Funktion und Emotionen  43 cm'
+slug: 'B07QJCNTR1-de Zapf Creation 960202 Elli Smiles Puppe mit Funktion und...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sQ-fmbOxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MEP27FA-de Clatronic RK 3566 Reiskocher und Dampfgarer in Einem  herausnehmbarer Topf  antihaft-beschichtet   automatischer Warmhaltemodus  weiß'
+slug: 'B00MEP27FA-de Clatronic RK 3566 Reiskocher und Dampfgarer in Einem...'
+tags: 
 actualPrice: 27.25 EUR
 currency: EUR
 price: 27.25

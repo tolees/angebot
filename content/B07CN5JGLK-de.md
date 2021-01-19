@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Zr1oLIN2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CN5JGLK-de GEDORE red Steckschlüsselsatz  94-teilig  Mit Umschaltknarren  Ratschen  Steckschlüssel und Bitsatz'
+slug: 'B07CN5JGLK-de GEDORE red Steckschlüsselsatz 94-teilig Mit...'
+tags: 
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

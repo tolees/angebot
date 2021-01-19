@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bltr60DxL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L9QTV6T-de Napapijri Herren Rainforest S PKT Jacke  Blau  Skydiver Blue Bc5   Large  Herstellergröße: L '
+slug: 'B07L9QTV6T-de Napapijri Herren Rainforest S PKT Jacke Blau Skydiver Blue...'
+tags: 
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

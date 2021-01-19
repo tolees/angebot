@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317y-+0xWWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074ZT5HDS-de Eva Solo Miska 1  2L Nordic Kitchen'
+slug: 'B074ZT5HDS-de Eva Solo Miska 1 2L Nordic Kitchen'
+tags: 
 actualPrice: 14.04 EUR
 currency: EUR
 price: 14.04

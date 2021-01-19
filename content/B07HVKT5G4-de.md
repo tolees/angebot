@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xffojkqoL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HVKT5G4-de Nebula Prizm Beamer  Multimedia Projektor mit 480P LCD Bildqualität  500 Lumen / 100 ANSI Lumen  40-100 Zoll Bild  Aux-Out für Filme  Videos usw.  Aktualisierte Version '
+slug: 'B07HVKT5G4-de Nebula Prizm Beamer Multimedia Projektor mit 480P LCD...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

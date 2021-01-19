@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FL5cAKadL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005LB9EUA-de Green Toys Schulbus  Spielzeugauto'
+slug: 'B005LB9EUA-de Green Toys Schulbus Spielzeugauto'
+tags: 
 actualPrice: 31.14 EUR
 currency: EUR
 price: 31.14

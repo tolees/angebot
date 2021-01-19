@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41C0XCMT8mL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DWS4V6K-de AmazonBasics - Lightning-auf-USB-A-Kabel  Premium-Kollektion  0 9 m  1er-Pack - Rot'
+slug: 'B07DWS4V6K-de AmazonBasics - Lightning-auf-USB-A-Kabel Premium-...'
+tags: 
 actualPrice: 4 EUR
 currency: EUR
 price: 4

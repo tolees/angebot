@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nSMpEzqQL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C2XV9LM-de Triumph Damen Sport-BH Triaction Wellness N  Rosa  Pink/Rosa/Rose/1196   Gr. 80F'
+slug: 'B07C2XV9LM-de Triumph Damen Sport-BH Triaction Wellness N Rosa...'
+tags: 
 actualPrice: 31.79 EUR
 currency: EUR
 price: 31.79

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41N3Dj+P+qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SB1Y89L-de OMEN 17-cb0221ng  17 3 Zoll / FHD IPS 144Hz  Gaming Laptop  Intel Core i7-9750H   16GB DDR4 RAM  512GB SSD  Nvidia GeForce RTX 2070 8GB GDDR6  Nvidia G-SYNC  Windows 10  schwarz'
+slug: 'B07SB1Y89L-de OMEN 17-cb0221ng 17 3 Zoll / FHD IPS 144Hz Gaming Laptop...'
+tags: 
 actualPrice: 600.0 EUR
 currency: EUR
 price: 600.0

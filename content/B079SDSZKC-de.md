@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vs3axczNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079SDSZKC-de Samsung Externer Akkupack  EB-P3000C  10.000 mAh  Navy Blau'
+slug: 'B079SDSZKC-de Samsung Externer Akkupack EB-P3000C 10.000 mAh Navy Blau'
+tags: 
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

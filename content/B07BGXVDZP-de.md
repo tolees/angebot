@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HnOcjFs2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BGXVDZP-de Sony Xperia XZ2 Smartphone  14 5 cm  5 7 Zoll  IPS Full HD+ Display  64 GB interner Speicher und 4 GB RAM  Single-SIM  IP68  Android 8.0  Liquid Black - Deutsche Version'
+slug: 'B07BGXVDZP-de Sony Xperia XZ2 Smartphone 14 5 cm 5 7 Zoll IPS Full HD+...'
+tags: 
 actualPrice: 249.0 EUR
 currency: EUR
 price: 249.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qPJxER1RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0894DKRCF-de COULAX Smartwatch  Fitness Tracker Armband mit 1.4 Zoll Touch Farbdisplay  Sportuhr mit Pulsmesser Schlafmonitor Musiksteuerung Schrittzähler Stoppuhr für Damen Herren'
+slug: 'B0894DKRCF-de COULAX Smartwatch Fitness Tracker Armband mit 1.4 Zoll...'
+tags: 
 actualPrice: 27.45 EUR
 currency: EUR
 price: 27.45

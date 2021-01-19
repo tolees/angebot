@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BZoHcR3qL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B073HTKFGV-de Anki 000-00060 Cozmo Carry Case Transporttasche  Mehrfarbig'
+slug: 'B073HTKFGV-de Anki 000-00060 Cozmo Carry Case Transporttasche Mehrfarbig'
+tags: 
 actualPrice: 26.98 EUR
 currency: EUR
 price: 26.98

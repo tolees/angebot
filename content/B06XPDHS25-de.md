@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ujl7bLJpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPDHS25-de Ankermann Office Silent PC Intel Core i5 2400 4X 3.1 GHz Graphic DVI-HDMI-VGA 16GB RAM 480GB SSD 500GB HDD Windows 10 PRO Leise W-LAN Office Professional'
+slug: 'B06XPDHS25-de Ankermann Office Silent PC Intel Core i5 2400 4X 3.1 GHz...'
+tags: 
 actualPrice: 369.0 EUR
 currency: EUR
 price: 369.0

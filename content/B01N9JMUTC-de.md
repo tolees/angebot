@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WLX19pvrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9JMUTC-de Bosch Akku Rasenmäher Rotak 430 LI  2 Akku  36 Volt  Ladegerät  Karton  Grasfangkorb: 50 l  Schnittbreite/Schnitthöhe: 43 cm/2-7 cm '
+slug: 'B01N9JMUTC-de Bosch Akku Rasenmäher Rotak 430 LI 2 Akku 36 Volt...'
+tags: 
 actualPrice: 509.59 EUR
 currency: EUR
 price: 509.59

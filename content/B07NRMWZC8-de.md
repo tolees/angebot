@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ukuVF0hnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRMWZC8-de Bluetooth Kopfhörer Kabellos In-Ear Ohrhörer  iTeknic True-Wireless CVC Noise Cancelling Earbuds Headset Touch-Control Bluetooth 5.0 mit Mikrofon und Ladekästchen für Android IOS Smartphone'
+slug: 'B07NRMWZC8-de Bluetooth Kopfhörer Kabellos In-Ear Ohrhörer iTeknic True-...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

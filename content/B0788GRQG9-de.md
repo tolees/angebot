@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4147CQ9ZktL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788GRQG9-de Unold 48165 PANCAKE-MAKER American  Kunststoff  Schwarz/edelstahl Gebürstet'
+slug: 'B0788GRQG9-de Unold 48165 PANCAKE-MAKER American Kunststoff...'
+tags: 
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

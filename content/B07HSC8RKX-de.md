@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ACsOHrmzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HSC8RKX-de MSI MPG Z390i Gaming Edge AC  LGA 1151 Mainboard  DDR4  2X Turbo M.2  9x USB 3.1  2X Gen2 und 4X Gen1  WLAN  BT '
+slug: 'B07HSC8RKX-de MSI MPG Z390i Gaming Edge AC LGA 1151 Mainboard DDR4 2X...'
+tags: 
 actualPrice: 72.13 EUR
 currency: EUR
 price: 72.13

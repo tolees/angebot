@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512c8JhD47L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004TGL2K8-de KMC X8-93 Kette  114 Glieder  Silber/Grau'
+slug: 'B004TGL2K8-de KMC X8-93 Kette 114 Glieder Silber/Grau'
+tags: 
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

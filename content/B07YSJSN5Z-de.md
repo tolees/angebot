@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415x7ntKG9L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YSJSN5Z-de Hamkaw Game Hülle Für iPhone  Retro 3D Schutzhülle Case Mit 36 Kleinen Spielen  Vollfarbdisplay  Spielbar Stoßfest Videospiel Hülle Für iPhone 11 Pro Max/iPhone 11 Pro/iPhone 11'
+slug: 'B07YSJSN5Z-de Hamkaw Game Hülle Für iPhone Retro 3D Schutzhülle Case Mit...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

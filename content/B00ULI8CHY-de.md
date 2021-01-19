@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414d0-MUvIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ULI8CHY-de Samsonite Neopulse - Spinner S  Breite: 20 cm  Handgepäck  55 cm  38 L  rot  Metallic Red '
+slug: 'B00ULI8CHY-de Samsonite Neopulse - Spinner S Breite: 20 cm Handgepäck 55...'
+tags: 
 actualPrice: 155.4 EUR
 currency: EUR
 price: 155.4

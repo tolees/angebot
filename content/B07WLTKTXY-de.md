@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cm69HM4ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WLTKTXY-de Echo Dot  3. Gen.  Intelligenter Lautsprecher mit Alexa  Lila Stoff'
+slug: 'B07WLTKTXY-de Echo Dot 3. Gen. Intelligenter Lautsprecher mit Alexa Lila...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GVaCbLkpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086YJYHSF-de K9CK Bauspielzeug  Bauset Modifiziertes Paket Lässt Sich umbauen Kompatibel mit Lego 42082 Technic: Geländegängiger'
+slug: 'B086YJYHSF-de K9CK Bauspielzeug Bauset Modifiziertes Paket Lässt Sich...'
+tags: 
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

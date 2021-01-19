@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JiYMaZYcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KLS61D4-de EZVIZ CTQ3W Überwachungskamera aussen WLAN/LAN IP Kamera Full HD Wasserdicht Außenkamera mit Nachtsicht  Bewegungsmelder aussen  Sirene und Licht Alarm  2 Way Audio  Smart Home Sicherheitskamera'
+slug: 'B07KLS61D4-de EZVIZ CTQ3W Überwachungskamera aussen WLAN/LAN IP Kamera...'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

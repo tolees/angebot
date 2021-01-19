@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WZQUjmnJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084TJDDL1-de AstroAI Staubschutzmaske mit Filtern & Ventile- verstellbar Mundschutz Maske Schutzmaske Wiederverwendbar für Laufen  Radfahren  Gesichtsmaske für Damen und Herren'
+slug: 'B084TJDDL1-de AstroAI Staubschutzmaske mit Filtern & Ventile-...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

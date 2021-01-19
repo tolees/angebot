@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aT5jdUiNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0198KU6OW-de Funko 6356 S1 No Actionfigur Fairy Tail: Natsu  Multi  Einheitsgröße'
+slug: 'B0198KU6OW-de Funko 6356 S1 No Actionfigur Fairy Tail: Natsu Multi...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

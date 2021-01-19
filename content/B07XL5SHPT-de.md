@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21uWOH7DLWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XL5SHPT-de Apple Silikon Case  für iPhone 11 Pro  - Schwarz'
+slug: 'B07XL5SHPT-de Apple Silikon Case für iPhone 11 Pro - Schwarz'
+tags: 
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31gRarwpD7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J3WL2SY-de ONLY Damen Onlnew ROYAL REG SK. Biker Coated NOOS Hose  Schwarz  Black   L/L30  Herstellergröße: L '
+slug: 'B01J3WL2SY-de ONLY Damen Onlnew ROYAL REG SK. Biker Coated NOOS Hose...'
+tags: 
 actualPrice: 26.54 EUR
 currency: EUR
 price: 26.54

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vYFuDShNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MT5JFHZ-de Sony MDR-XB550AP Kopfhörer  Extrabass  Mikrofon '
+slug: 'B01MT5JFHZ-de Sony MDR-XB550AP Kopfhörer Extrabass Mikrofon'
+tags: 
 actualPrice: 28.64 EUR
 currency: EUR
 price: 28.64

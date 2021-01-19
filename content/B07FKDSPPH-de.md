@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PpmZNK5xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKDSPPH-de Hasbro E4163ES2 - Disney Prinzessin  Schimmerglanz Jasmin  Puppe'
+slug: 'B07FKDSPPH-de Hasbro E4163ES2 - Disney Prinzessin Schimmerglanz Jasmin...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

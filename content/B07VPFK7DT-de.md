@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51Q6heJe9kL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPFK7DT-de EKKONG Aufkleber  46 Stück Dekorative Aufkleber  Wasserdicht Vinyl Stickers Decals für Auto Motorräd Fahrrad Skateboard Snowboard Gepäck Laptop MacBook Pad  46pcs '
+slug: 'B07VPFK7DT-de EKKONG Aufkleber 46 Stück Dekorative Aufkleber Wasserdicht...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

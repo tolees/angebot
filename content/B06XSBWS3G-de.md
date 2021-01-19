@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kkan+ecGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XSBWS3G-de Holy Stone Mini Drohne HS170 RC Quadrocopter 2.4GHz 6-Achsen-Gyro Helicopter ferngesteuert mit Fernbedienung  blau'
+slug: 'B06XSBWS3G-de Holy Stone Mini Drohne HS170 RC Quadrocopter 2.4GHz...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

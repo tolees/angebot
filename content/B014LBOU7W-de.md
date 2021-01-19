@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41id+-WKFuL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014LBOU7W-de auna MIC-900S LED - USB Kondensator-Mikrofon  Nierencharakteristik  Metallgehäuse  Plug & Play  Mikrofonspinne mit 3/8" zu 5/8" Gewinde-Adapter  USB-Kabel  silber'
+slug: 'B014LBOU7W-de auna MIC-900S LED - USB Kondensator-Mikrofon...'
+tags: 
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

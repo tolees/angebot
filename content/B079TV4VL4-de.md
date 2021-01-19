@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419pDDIzxyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079TV4VL4-de Zwillingsherz Slouch-Beanie-Mütze aus 100% Kaschmir - Hochwertige Strickmütze für Damen Mädchen Jungen - Hat - Unisex - One Size - warm und weich im Sommer Herbst und Winter - Navy'
+slug: 'B079TV4VL4-de Zwillingsherz Slouch-Beanie-Mütze aus 100% Kaschmir -...'
+tags: 
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

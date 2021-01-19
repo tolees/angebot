@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31Os05VZ7pL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XH2GX7W-de Huawei P30 Pro Dual SIM Smartphone Bundle  16 434 cm  6.47 Zoll   128GB interner Speicher  8GB RAM  40MP + 20MP + 8MP Hauptkamera  32MP Frontkamera  Android 9.0  EMUI 9.1  Misty Lavender'
+slug: 'B07XH2GX7W-de Huawei P30 Pro Dual SIM Smartphone Bundle 16 434 cm 6.47...'
+tags: 
 actualPrice: 606 EUR
 currency: EUR
 price: 606

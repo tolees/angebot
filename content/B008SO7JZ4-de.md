@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51UCvqHZjqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B008SO7JZ4-de Remington Haarglätter Keratin Therapy S8590  innovativer Hitzeschutzsensor  braun'
+slug: 'B008SO7JZ4-de Remington Haarglätter Keratin Therapy S8590 innovativer...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

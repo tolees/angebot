@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hSc3xtQLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074D1SSSR-de Philips Sonicare DiamondClean Elektrische Zahnbürste HX9396/89 - Schallzahnbürste mit 5 Putzprogrammen  Timer  USB-Reise-Ladeetui & Ladeglas – Rose Gold'
+slug: 'B074D1SSSR-de Philips Sonicare DiamondClean Elektrische Zahnbürste...'
+tags: 
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

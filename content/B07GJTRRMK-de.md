@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hamrrmWdL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GJTRRMK-de ZENS Qi-zertifiziertes kabelloses Aluminium Lade-Pad  Unterstützt Fast Wireless Charging mit bis zu 10 Watt - Funktioniert mit allen Geräten mit kabellosem Laden'
+slug: 'B07GJTRRMK-de ZENS Qi-zertifiziertes kabelloses Aluminium Lade-Pad...'
+tags: 
 actualPrice: 38.88 EUR
 currency: EUR
 price: 38.88

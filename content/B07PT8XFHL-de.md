@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZE6LxZaaL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PT8XFHL-de Briksmax Led Beleuchtungsset für Ferris Wheel  Kompatibel Mit Lego 10247 Bausteinen Modell - Ohne Lego Set'
+slug: 'B07PT8XFHL-de Briksmax Led Beleuchtungsset für Ferris Wheel Kompatibel...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SyCQ+ZHVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXWNJNE-de G-STAR RAW Damen Eyben Slim R T Wmn S/S T-Shirt  Schwarz  Black 990   40  Herstellergröße:L '
+slug: 'B01MXWNJNE-de G-STAR RAW Damen Eyben Slim R T Wmn S/S T-Shirt Schwarz...'
+tags: 
 actualPrice: 14.55 EUR
 currency: EUR
 price: 14.55

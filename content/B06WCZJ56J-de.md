@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zzQtnJAyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WCZJ56J-de Hasbro C2697EU5 - Baby Alive Fütterspaß Lily  Puppe'
+slug: 'B06WCZJ56J-de Hasbro C2697EU5 - Baby Alive Fütterspaß Lily Puppe'
+tags: 
 actualPrice: 19.17 EUR
 currency: EUR
 price: 19.17

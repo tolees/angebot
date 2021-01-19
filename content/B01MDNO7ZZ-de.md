@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gLrVdWfEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MDNO7ZZ-de Dickie Toys Happy Fendt Traktor  Trecker  Bauernhof Spielzeug  keine verschluckbaren Teile  für Kinder ab 1 Jahr  25 cm'
+slug: 'B01MDNO7ZZ-de Dickie Toys Happy Fendt Traktor Trecker Bauernhof...'
+tags: 
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

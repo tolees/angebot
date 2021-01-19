@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513N6JsbaML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089RF8BNG-de PUMA Sneakersocken 18 Paar Pack Statement Edition - Damen und Herren - Navigate-Peacoat - Gr. 43-46'
+slug: 'B089RF8BNG-de PUMA Sneakersocken 18 Paar Pack Statement Edition - Damen...'
+tags: 
 actualPrice: 21.2 EUR
 currency: EUR
 price: 21.2

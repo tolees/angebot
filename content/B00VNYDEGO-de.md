@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61VJKLpBEUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VNYDEGO-de Looping Louie Kinderspiel  lustiges 3D Spiel  Partyspiel für Kindergeburtstage  unterhaltsames Gesellschafts- & Familienspiel  für Kinder & Erwachsene  2-4 Spieler  ab 4 Jahren'
+slug: 'B00VNYDEGO-de Looping Louie Kinderspiel lustiges 3D Spiel Partyspiel für...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

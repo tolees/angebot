@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41Iw5Ypki1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HIH1P06-de HP Officejet 3831 Multifunktionsdrucker  Instant Ink  Drucker  Kopierer  Scanner  Fax  WLAN  Airprint  mit 2 Probemonaten HP Instant Ink inklusive'
+slug: 'B01HIH1P06-de HP Officejet 3831 Multifunktionsdrucker Instant Ink...'
+tags: 
 actualPrice: 62.17 EUR
 currency: EUR
 price: 62.17

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Gqn3s9-QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00018GWMQ-de Winnie Puuh - Spaß im Frühling  Winnie Puuh Collection '
+slug: 'B00018GWMQ-de Winnie Puuh - Spaß im Frühling Winnie Puuh Collection'
+tags: 
 actualPrice: 3.82 EUR
 currency: EUR
 price: 3.82

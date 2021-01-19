@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4134Lv5bzgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BWH668J-de Romoss Powerbank 10000mAh  Externer Akku mit 2-Port Output Mini  Akkupack mit LED-Statusanzeige für i Phone  S umsung  Huawei und Handys  Smartphones  Tablets  usw. Minzgrün'
+slug: 'B07BWH668J-de Romoss Powerbank 10000mAh Externer Akku mit 2-Port Output...'
+tags: 
 actualPrice: 14.86 EUR
 currency: EUR
 price: 14.86

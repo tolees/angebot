@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4128f9Gxe3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004JX7MRI-de Yankee Candle große Duftkerze im Glas  Soft Blanket  Brenndauer bis zu 150 Stunden'
+slug: 'B004JX7MRI-de Yankee Candle große Duftkerze im Glas Soft Blanket...'
+tags: 
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

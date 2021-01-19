@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51X3EJPfu8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S35QJMS-de BERTASCHE Laptoptasche 17 Zoll - 17 3 Zoll Notebooktasche Schulter Tasche für Uni Arbeit Business'
+slug: 'B07S35QJMS-de BERTASCHE Laptoptasche 17 Zoll - 17 3 Zoll Notebooktasche...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

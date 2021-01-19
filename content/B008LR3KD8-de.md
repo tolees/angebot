@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x+qqVsngL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008LR3KD8-de Philips HF3520/01 Wake-Up Light  Sonnenaufgangfunktion  digitales FM Radio  Tageslichtwecker  weiß'
+slug: 'B008LR3KD8-de Philips HF3520/01 Wake-Up Light Sonnenaufgangfunktion...'
+tags: 
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

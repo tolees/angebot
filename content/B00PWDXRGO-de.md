@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41nqjELNHAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PWDXRGO-de Columbia Herren Woodburn II Chukka Wp Omni-Heat Schwarz  Goldenrod  43 EU'
+slug: 'B00PWDXRGO-de Columbia Herren Woodburn II Chukka Wp Omni-Heat Schwarz...'
+tags: 
 actualPrice: 50.16 EUR
 currency: EUR
 price: 50.16

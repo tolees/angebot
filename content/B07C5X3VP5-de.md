@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VKdTs3glL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C5X3VP5-de JACK & JONES Herren JJEHOLMEN Sweat Hood NOOS Kapuzenpullover  Grün  Olive Night Fit:Reg Fit   Medium'
+slug: 'B07C5X3VP5-de JACK & JONES Herren JJEHOLMEN Sweat Hood NOOS...'
+tags: 
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98
