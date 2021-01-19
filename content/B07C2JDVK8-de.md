@@ -27,8 +27,8 @@ Es gibt ein [Original Xiaomi MI Robot Vacuum Cleaner Roborock Saugroboter Ersatz
 ℹ️:
 
 - Auch passend für Roborock der S50 Serie
-- 1 x Zentralbürste mit Reinigungshilfe
 - 1 x HEPA Filter (2er Set)
+- 1 x Zentralbürste mit Reinigungshilfe
 - 1 x Seitenbürsten (2er Set)
 - Original Zubehör für den Xiaomi Mi Robot und den Roborock Saugroboter
 

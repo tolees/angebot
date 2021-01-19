@@ -26,10 +26,10 @@ Sie können [Corsair CX450 PC-Netzteil  80 Plus Bronze  450 Watt  EU ](https://w
 
 ℹ️:
 
-- Temperaturgesteuerter 120-mm-Lüfter: Leiser Betrieb bei verschiedensten Lasten
 - Schwarzes Gehäuse, Kabelhülsen und Anschlüsse: Verleihen Sie Ihrem System einen High-End-Look zu geringen Kosten
-- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
-- 80 Plus Bronze: Kühlerer Betrieb und weniger Stromverbrauch als bei weniger effizienten Netzteilen
+- Temperaturgesteuerter 120-mm-Lüfter: Leiser Betrieb bei verschiedensten Lasten
 - LLC-Resonanz-Topologie mit DC-DC: Gewährleistet eine höhere Effizienz bei geringeren Lasten und die volle Kompatibilität mit allen modernen PCs
+- 80 Plus Bronze: Kühlerer Betrieb und weniger Stromverbrauch als bei weniger effizienten Netzteilen
+- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
 
 [🛒 Hier!!](https://www.amazon.de/dp/B06X6BFY3Q/?tag=tolees0ca-21)

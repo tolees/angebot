@@ -26,10 +26,10 @@ Es gibt ein [s.Oliver Herren 2er-Pack T-Shirts White M](https://www.amazon.de/dp
 
 ℹ️:
 
+- schmale Passform; Rückenlänge bei Größe M ca. 72 cm
+- angenehm zu tragende, elastische Jersey-Qualität aus Baumwollmix
 - V-Ausschnitt mit schmaler Blende
 - kleine Logo-Stickerei vorn auf der Brust
-- angenehm zu tragende, elastische Jersey-Qualität aus Baumwollmix
 - Doppelpack mit zwei Basic-T-Shirts
-- schmale Passform; Rückenlänge bei Größe M ca. 72 cm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B018I1YBY8/?tag=tolees0ca-21)

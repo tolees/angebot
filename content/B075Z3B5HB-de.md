@@ -26,9 +26,9 @@ Sie können [Makita 198720-9 Ladegerät DC18RE](https://www.amazon.de/dp/B075Z3B
 
 ℹ️:
 
+- Verpackungsabmessungen (L x B x H): 13.0 zm x 18.0 zm x 28.2 zm
 - Herkunftsland:- China
 - Verpackungsgewicht: 1.44 Kg
-- Verpackungsabmessungen (L x B x H): 13.0 zm x 18.0 zm x 28.2 zm
 - Anzahl der Packung: 1
 
 [🛒 Hier!!](https://www.amazon.de/dp/B075Z3B5HB/?tag=tolees0ca-21)
