@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0J2PKM-de adidas Herren Essentials Basic Poloshirt Black L'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.57 EUR
 currency: EUR
 price: 16.57

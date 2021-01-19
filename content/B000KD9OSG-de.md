@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KD9OSG-de Casio Collection Herren-Armbanduhr F105W1AWYEF'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.85 EUR
 currency: EUR
 price: 15.85

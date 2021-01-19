@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L34I7HY-de Sony Xperia X Compact Smartphone 11 7 cm 4 6 Zoll 32 GB...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 111.87 EUR
 currency: EUR
 price: 111.87

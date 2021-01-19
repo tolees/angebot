@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015TKPT1A-de NOCO Boost Sport GB20 400 Ampere 12 Volt UltraSafe...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

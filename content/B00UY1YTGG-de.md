@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UY1YTGG-de PopSockets - Ausziehbarer Nicht Austauschbarer Sockel und...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.81 EUR
 currency: EUR
 price: 5.81

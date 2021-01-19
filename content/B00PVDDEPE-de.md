@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PVDDEPE-de D-Link DSP-W115 mydlink WLAN Smart Steckdose-/ plug...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.84 EUR
 currency: EUR
 price: 26.84

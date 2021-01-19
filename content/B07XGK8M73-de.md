@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XGK8M73-de YIGII Handtuchhalter Ohne Bohren Handtuchring...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

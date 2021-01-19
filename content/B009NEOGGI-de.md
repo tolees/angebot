@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009NEOGGI-de Doc Johnson - TitanMen Master Tool 4-6 inch'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.41 EUR
 currency: EUR
 price: 17.41

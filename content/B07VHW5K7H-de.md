@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHW5K7H-de Hugo Boss Damen Analog Quarz Uhr mit Edelstahl Armband...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 151.58 EUR
 currency: EUR
 price: 151.58

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYSF4F1-de tado° Smartes Heizkörper-Thermostat Starter Kit V3+ -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

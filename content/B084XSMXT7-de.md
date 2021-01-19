@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084XSMXT7-de LG Electronics 75UM7050PLF 189 cm 75 Zoll UHD Fernseher 4K...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 849.0 EUR
 currency: EUR
 price: 849.0

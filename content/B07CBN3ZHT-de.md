@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CBN3ZHT-de ZWILLING Selbstschärfender Messerblock 7 teilig...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

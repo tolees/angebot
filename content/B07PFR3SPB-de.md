@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFR3SPB-de Rollei Go! Profi Smartphone-Gimbal I Handy-Gimbal I Video...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

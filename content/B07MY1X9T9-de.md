@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MY1X9T9-de GIKERSY USB C Hub 7 IN 1 USB C Adapter mit 4K HDMI USB C...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

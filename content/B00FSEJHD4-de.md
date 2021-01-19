@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FSEJHD4-de KALFF KFZ-Verbandkasten Compact DIN 13164 mit Erste-Hilfe...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.81 EUR
 currency: EUR
 price: 6.81

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HT94JC0-de Einhell Akku-Hochentaster GC-LC 1815 T Lithium-Ionen Akku...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

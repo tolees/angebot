@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GFRPR2D-de SteelSeries Arctis 7 Gaming Headset verlustfreies und...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 139.9 EUR
 currency: EUR
 price: 139.9

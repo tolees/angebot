@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5NVYDN-de KitchenAid Küchenmaschine Artisan 4 8L Onyx Schwarz'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 519.48 EUR
 currency: EUR
 price: 519.48

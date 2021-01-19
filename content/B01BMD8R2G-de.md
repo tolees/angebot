@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BMD8R2G-de Eizo CS2420 61 cm 24 Zoll Grafik Monitor DisplayPort DVI-D...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 393.0 EUR
 currency: EUR
 price: 393.0

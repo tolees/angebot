@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075SVP2ZF-de LEGO DC Super Heroes Mighty Micros: Supergirl vs. Brainiac...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

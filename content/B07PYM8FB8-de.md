@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYM8FB8-de Apple AirPods mit kabellosem Ladecase 2. Generation'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

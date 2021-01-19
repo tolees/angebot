@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086PD9PWV-de GVFTG La Cocina Spanisch Zitate Wandtattoo Kunst...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.24 EUR
 currency: EUR
 price: 19.24

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PM99YTC-de BRIKSMAX Led Beleuchtungsset für Mini Cooper Kompatibel...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

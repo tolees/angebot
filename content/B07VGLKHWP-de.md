@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGLKHWP-de motorola one zoom mit Alexa Hands-Free Smartphone 6...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

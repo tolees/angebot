@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078X5MK7G-de Sony HT-XF9000 2.1-Kanal Dolby Atmos/DTS:X Soundbar mit...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 326.89 EUR
 currency: EUR
 price: 326.89

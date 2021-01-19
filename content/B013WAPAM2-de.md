@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013WAPAM2-de Bosch Professional Laser Entfernungsmesser GLM 50 C...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 90.99 EUR
 currency: EUR
 price: 90.99

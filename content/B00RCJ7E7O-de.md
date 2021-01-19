@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RCJ7E7O-de Crocs Creative Crocs Frozen Fuzz Lined Clog Mädchen Clogs...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

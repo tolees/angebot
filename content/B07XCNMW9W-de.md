@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCNMW9W-de OSOYOO Starter Kit for BBC Micro:bit | Early STEM...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 54.93 EUR
 currency: EUR
 price: 54.93

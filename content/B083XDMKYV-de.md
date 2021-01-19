@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083XDMKYV-de DXX Technik Bausteine Auto Off-Road 1090Teile 2.4G 4CH...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

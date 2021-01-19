@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000E8RB5K-de Der Patriot - Extended Version'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 0.67 EUR
 currency: EUR
 price: 0.67

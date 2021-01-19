@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CTO4EB6-de Inter Link 99200250 Regalbox Regalkorb Aufbewahrungsbox...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

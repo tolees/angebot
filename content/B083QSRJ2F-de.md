@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083QSRJ2F-de Lenovo Tab M10 FHD Plus 26 2 cm 10 3 Zoll 1920x1200 FHD...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 190.99 EUR
 currency: EUR
 price: 190.99

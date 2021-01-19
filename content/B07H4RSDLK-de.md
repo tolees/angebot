@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H4RSDLK-de Libratone ZIPP MINI 2 Smart Wireless kleiner Lautsprecher...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

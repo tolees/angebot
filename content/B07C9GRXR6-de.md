@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C9GRXR6-de Osup 7 Stück Geheimstift mit UV-Licht Unsichtbar Schreiben...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

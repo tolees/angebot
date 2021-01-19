@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XYTN1VB-de SanDisk Extreme - 64GB MicroSDXC-Speicherkarte für Handys...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016YQ8G5O-de Garmin fēnix 3 HR Saphir GPS-Multisportuhr...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 219.9 EUR
 currency: EUR
 price: 219.9

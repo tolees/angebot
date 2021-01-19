@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R13XB3Z-de Badebomben Geschenkset 12 x 86g STNTUS Badekugeln...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

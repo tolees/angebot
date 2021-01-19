@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D3VZWDC-de Seidensticker Herren Business Hemd Slim Fit – Bügelfreies...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.04 EUR
 currency: EUR
 price: 33.04

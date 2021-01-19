@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Z65OA5A-de Kitchen Craft 25 5 cm Living Nostalgia innen Wall Clock...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.28 EUR
 currency: EUR
 price: 21.28

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCK6BY2-de OYMMENEY Holzspielzeug 3 In 1 Angelspiel Montessori...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.27 EUR
 currency: EUR
 price: 12.27

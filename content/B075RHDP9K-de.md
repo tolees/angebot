@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075RHDP9K-de GORE Wear C3 kurze Herren Hose XXL Schwarz'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 65.76 EUR
 currency: EUR
 price: 65.76

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HM5FDZ3-de Legacy Vinyl Box Set [Vinyl LP]'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 134.26 EUR
 currency: EUR
 price: 134.26

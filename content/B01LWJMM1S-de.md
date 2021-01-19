@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LWJMM1S-de Viewsonic XG2703-GS 68 6 cm 27 Zoll Gaming Monitor WQHD...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 598.63 EUR
 currency: EUR
 price: 598.63

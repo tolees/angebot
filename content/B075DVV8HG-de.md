@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075DVV8HG-de Spyderco Dragonfly 2 Zome Taschenmesser Military Tan...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 73.01 EUR
 currency: EUR
 price: 73.01

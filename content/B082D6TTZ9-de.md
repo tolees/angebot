@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082D6TTZ9-de Kopfhörer Kabellos Bluetooth 5.1 Wireless Ohrhörer in Ear...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.37 EUR
 currency: EUR
 price: 21.37

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HIH1P06-de HP Officejet 3831 Multifunktionsdrucker Instant Ink...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 62.17 EUR
 currency: EUR
 price: 62.17

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DQBFQ2D-de Seagate Desktop Drive 8000 GB 8 TB externe Festplatte 3.5...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

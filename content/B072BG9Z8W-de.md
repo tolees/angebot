@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072BG9Z8W-de Logitech MX Anywhere 2S Kabellose Maus Bluetooth und 2.4...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 60.9 EUR
 currency: EUR
 price: 60.9

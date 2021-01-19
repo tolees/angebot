@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAR3EMO-de Lacerto® | 13x13mm Deutsche Aufkleber für PC/Laptop &...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

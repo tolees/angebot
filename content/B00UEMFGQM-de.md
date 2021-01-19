@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UEMFGQM-de Philips Hue Go LED Leuchte tragbares kabelloses Licht...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DUK44U8-de Fisher-Price DRH31 - Lernspaß Spieltisch Lernspielzeug mit...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 54.79 EUR
 currency: EUR
 price: 54.79

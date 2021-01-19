@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075FGBGJW-de Beats Studio3 Over-Ear Bluetooth Kopfhörer mit Noise-...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 293.2 EUR
 currency: EUR
 price: 293.2

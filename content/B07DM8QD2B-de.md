@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DM8QD2B-de Philips 14-in-1 Multigroom MG7745/15 Barttrimmer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 54.89 EUR
 currency: EUR
 price: 54.89

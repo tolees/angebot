@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DM2R1DF-de Lavazza Kaffeebohnen - Caffè Crema Classico - 6er Pack 1 x...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 69.53 EUR
 currency: EUR
 price: 69.53

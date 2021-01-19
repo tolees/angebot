@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0154G9GFE-de Philips AZ215S CD-Soundmachine Digital UKW Audioeingang 3...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.97 EUR
 currency: EUR
 price: 25.97

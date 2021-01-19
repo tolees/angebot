@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YQJSGWY-de Kingston A400 SSD SA400S37/1920G - Interne SSD 2.5 Zoll...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 149.9 EUR
 currency: EUR
 price: 149.9

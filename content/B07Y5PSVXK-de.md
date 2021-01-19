@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y5PSVXK-de Smartwatch Amazfit GTR 42mm/A1910 42 Starry Black Xiaomi'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

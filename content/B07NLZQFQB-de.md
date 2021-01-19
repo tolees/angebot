@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLZQFQB-de Fila Herren Disruptor Low Sneaker Schwarz Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 50.49 EUR
 currency: EUR
 price: 50.49

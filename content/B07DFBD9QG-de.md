@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFBD9QG-de Pop Aquaman Vinyl Figure'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T1CFJ9Z-de FISCHER Twin Fahrrad-Rücklicht mit 360° Bodenleuchte für...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.01 EUR
 currency: EUR
 price: 9.01

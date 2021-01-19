@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q4SBW81-de Dadanism Hülle für Der Neue Kindle 10. Generation - 2019...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

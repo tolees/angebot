@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0742KCMF5-de Thames & Kosmos 692872 Zubehör'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

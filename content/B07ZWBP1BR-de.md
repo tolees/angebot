@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZWBP1BR-de Systemsprenger [Blu-ray]'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.74 EUR
 currency: EUR
 price: 9.74

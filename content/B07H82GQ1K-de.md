@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H82GQ1K-de caseable Kindle und Kindle Paperwhite Hülle Don t care'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

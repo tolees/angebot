@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HBCSYLL-de Apple iPhone XS 512 GB - Space Grau'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 999.99 EUR
 currency: EUR
 price: 999.99

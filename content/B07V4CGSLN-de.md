@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4CGSLN-de QD Niederdruck Wasserhahn Küche Schwarz Spültischarmatur...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 88.99 EUR
 currency: EUR
 price: 88.99

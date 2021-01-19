@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0892JMSTD-de Symiu Holzspielzeug Montessori Kinderspielzeug für Kinder...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

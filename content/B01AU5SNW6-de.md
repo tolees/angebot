@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AU5SNW6-de Bosch Professional 5 tlg. Hammerbohrer SDS Plus-7X Set für...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.74 EUR
 currency: EUR
 price: 14.74

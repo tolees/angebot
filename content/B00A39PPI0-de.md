@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A39PPI0-de V-MODA Crossfade M-100 Over-Ear Kopfhörer - Weiß Silber'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 130.22 EUR
 currency: EUR
 price: 130.22

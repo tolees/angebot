@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HK6VB22-de Marttiini 183609 Gürtelmesser Big Dipper Messer Silber'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 35.94 EUR
 currency: EUR
 price: 35.94

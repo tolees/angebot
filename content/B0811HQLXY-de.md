@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0811HQLXY-de Hosome Wake Up Licht Lichtwecker mit Sonnenaufgang...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

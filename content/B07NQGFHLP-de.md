@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQGFHLP-de Joy For All Zeitlose innovative Haustier-Begleiter Tuxedo-...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 111.11 EUR
 currency: EUR
 price: 111.11

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086C3GF8W-de LUKAT Bausteine Spielzeug für 5 6 7 8 9+ Jahre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

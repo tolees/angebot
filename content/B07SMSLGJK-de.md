@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SMSLGJK-de Braun Series 8 8370cc Elektrischer Rasierer Reinigungs-...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HQIFKWW-de Sony Mobile SWR10 SmartBand Aktivitätstracker...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

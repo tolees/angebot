@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002UXQJY6-de Clatronic EK 3321 Eierkocher mit Härtegradeinstellung 7...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

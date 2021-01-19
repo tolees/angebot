@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079PQ7TQS-de Funko Pop Marvel: Avengers Infinity War - Captain America...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

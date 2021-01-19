@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ON4EZSM-de Funko 5100 No POP Vinylfigur: Supernatural: Crowley'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

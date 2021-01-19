@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085CJZ8ML-de EDELHAND © Küchenschrank Geschirrtuchhalter zum Einhängen...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

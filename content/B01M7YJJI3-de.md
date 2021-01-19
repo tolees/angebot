@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M7YJJI3-de Funko 12777 Actionfigur Marvel: Guardians O/T Galaxy 2:...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

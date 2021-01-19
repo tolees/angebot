@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ITGS3UU-de De Longhi Nespresso EN267.BAE Citiz Kaffemaschine |...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HSB5ZM2-de SHARP PS 940 Partylautsprecher mit DJ-Mischpult und...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 151.62 EUR
 currency: EUR
 price: 151.62

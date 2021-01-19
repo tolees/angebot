@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X6NMQT9-de Playmobil 6930 - Reitturnier'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.07 EUR
 currency: EUR
 price: 23.07

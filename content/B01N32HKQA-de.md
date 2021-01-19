@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N32HKQA-de Philips Lumea Prestige IPL Haarentfernungsgerät BRI950 –...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 258.99 EUR
 currency: EUR
 price: 258.99

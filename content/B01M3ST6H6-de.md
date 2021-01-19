@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M3ST6H6-de HOPPEDIZ Baby-Tragetuch inklusive Bindeanleitung Aberdeen...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.49 EUR
 currency: EUR
 price: 39.49

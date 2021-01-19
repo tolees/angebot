@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LSUZMAS-de Apple iPhone 7 128 GB - Gold'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 469 EUR
 currency: EUR
 price: 469

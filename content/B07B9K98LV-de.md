@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9K98LV-de Tommy Hilfiger Herren-Armbanduhr Denim'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 79.8 EUR
 currency: EUR
 price: 79.8

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHY5VXF-de Sabrent Bluetooth-Adapter USB Bluetooth 4.0 Micro Adapter...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4VKKP9-de Tommy Jeans Damen TJW MODERN Logo Hoodie Sweatshirt Grau...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

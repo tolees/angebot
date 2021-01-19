@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LX5ZT44-de NUK Vario Express Dampf-Sterilisator 3-in-1 Modular für...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.88 EUR
 currency: EUR
 price: 21.88

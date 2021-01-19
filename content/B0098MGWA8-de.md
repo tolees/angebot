@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0098MGWA8-de Netatmo Smarte Wetterstation - WLAN Funk Innen- und...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 143.13 EUR
 currency: EUR
 price: 143.13

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076PD2RP1-de adidas Herren REGI18 PES PNT Sport Trousers Black/White M'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.7 EUR
 currency: EUR
 price: 16.7

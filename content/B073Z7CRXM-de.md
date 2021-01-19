@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073Z7CRXM-de PETKIT P008 Reiseflasche EVERSWEET Travel One-Touch grau'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.92 EUR
 currency: EUR
 price: 11.92

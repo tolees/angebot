@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CYL90EY-de Sony MDR-XB650BT kabelloser Extra-Bass Kopfhörer Bluetooth...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 42.89 EUR
 currency: EUR
 price: 42.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPK63Y8-de Funko POP! Bobble: Avengers Endgame: Nebula Multi'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

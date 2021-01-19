@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X0W9NVM-de Tommy Hilfiger Herren JOHNSON MINI CC FLAP AND COIN POCKET...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

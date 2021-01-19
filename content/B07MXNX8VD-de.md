@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXNX8VD-de DELSEY PARIS COMETE Koffer 67 cm 64.1 liters Grau Gris Argent'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 66.55 EUR
 currency: EUR
 price: 66.55

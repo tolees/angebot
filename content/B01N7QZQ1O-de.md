@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7QZQ1O-de Dell Business Thunderbolt Dock TB16 mit 240-W-Adapter'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 215.0 EUR
 currency: EUR
 price: 215.0

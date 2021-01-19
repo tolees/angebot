@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KX6H8K6-de Gorenje R6192FX Kühlschrank / A++ / Höhe 185 cm / Kühlen:...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 225.0 EUR
 currency: EUR
 price: 225.0

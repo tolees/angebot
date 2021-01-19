@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075NB5N4T-de Lintelek Fitness Armband Fitness Tracker wasserdicht...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKK43KC-de Aucma Küchenmaschine 1400W mit 6 2L Edelstahl-Rühlschüssel...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 105.99 EUR
 currency: EUR
 price: 105.99

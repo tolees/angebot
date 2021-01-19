@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KLS61D4-de EZVIZ CTQ3W Überwachungskamera aussen WLAN/LAN IP Kamera...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

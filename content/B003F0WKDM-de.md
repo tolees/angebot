@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003F0WKDM-de CASO VC10 Vakuumierer - Testsieger bei Stiftung Warentest...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 56.21 EUR
 currency: EUR
 price: 56.21

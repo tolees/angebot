@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JLDGLB4-de Paw Patrol 6022632 Lookout Hauptquartier Spielset mit...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 38.38 EUR
 currency: EUR
 price: 38.38

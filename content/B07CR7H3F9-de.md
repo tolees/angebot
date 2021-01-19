@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CR7H3F9-de Fairy Ultra Plus Konzentrat Original Spülmittel 800 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5X5M7G-de McFarlane Toys 15601-0 Actionfigur'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.86 EUR
 currency: EUR
 price: 22.86

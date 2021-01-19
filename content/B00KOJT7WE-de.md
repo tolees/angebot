@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KOJT7WE-de Columbia Herren Woodburn II Waterproof Wasserdichte Schuhe...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

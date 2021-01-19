@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J29RJVG-de pinzas cejas pinzas led depilar Herramienta de maquillaje...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

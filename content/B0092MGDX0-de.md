@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0092MGDX0-de Villeroy & Boch Toy s Delight Tasse 200 ml Premium...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

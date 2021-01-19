@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSDS1QN-de Dickie Toys RC Amphy Rider ferngesteuertes Amphibien-...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

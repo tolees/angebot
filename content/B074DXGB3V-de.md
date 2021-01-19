@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074DXGB3V-de WD My Cloud Home persönlicher Cloudspeicher 8 TB zentraler...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

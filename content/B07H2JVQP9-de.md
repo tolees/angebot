@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H2JVQP9-de Omars Powerbank 10000mAh Externer Akku 3 Ausgänge 2 USB-A...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

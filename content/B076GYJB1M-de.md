@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076GYJB1M-de [Neue Version] SYCEES 29 in 1 Mini Schraubendreher Set...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

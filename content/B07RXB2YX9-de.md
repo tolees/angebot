@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXB2YX9-de LIGHTAILING Licht-Set Für Architecture Venice Modell - LED...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

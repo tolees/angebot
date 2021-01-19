@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8CYX9V-de Braun Silk-Expert Pro 5 PL5137 IPL Haarentfernungsgerät...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 379.35 EUR
 currency: EUR
 price: 379.35

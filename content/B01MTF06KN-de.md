@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTF06KN-de Philips beutelloser Staubsauger PowerPro Compact FC9332/09...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

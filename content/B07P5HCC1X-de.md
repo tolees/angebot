@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5HCC1X-de Playmobil 70165 1.2.3. Baukran ab 18 Monaten bunt one Size'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.2 EUR
 currency: EUR
 price: 14.2

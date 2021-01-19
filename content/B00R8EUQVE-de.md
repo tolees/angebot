@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00R8EUQVE-de Fascinations Metal Earth ICX019 - 502830 London Eye...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.65 EUR
 currency: EUR
 price: 16.65

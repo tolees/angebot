@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRHS6DL-de Ostwind - Aris Ankunft [Blu-ray]'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

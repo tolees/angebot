@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CGLFGT2-de Thinkfun Geschicklichkeitsspiel 76356 - Laze Maze - Spiel...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

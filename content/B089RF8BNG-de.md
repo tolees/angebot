@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089RF8BNG-de PUMA Sneakersocken 18 Paar Pack Statement Edition - Damen...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.2 EUR
 currency: EUR
 price: 21.2

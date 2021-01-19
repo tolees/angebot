@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0743DMZ5K-de DISNEY Frozen - DIE EISKÖNIGIN Scooli Campus UP...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

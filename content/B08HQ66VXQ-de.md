@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HQ66VXQ-de LED Streifen 5m RGB Sylvwin LED Strip Lichterkette mit...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

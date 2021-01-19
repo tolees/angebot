@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0788YKWCX-de PORSCHE Carrera-Rennmotor: 4-Zylinder Boxermodell vom Typ...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 156.96 EUR
 currency: EUR
 price: 156.96

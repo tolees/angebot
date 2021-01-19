@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N7QBGGW-de beyerdynamic Phonum Wireless Bluetooth Speakerphone...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 199 EUR
 currency: EUR
 price: 199

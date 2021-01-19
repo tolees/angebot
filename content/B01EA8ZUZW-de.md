@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EA8ZUZW-de Yealink WF40 WLAN 150 MBit/s Netzwerkkarte – Zubehör...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.72 EUR
 currency: EUR
 price: 26.72

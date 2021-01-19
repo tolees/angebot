@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SXJX2P2-de Duschkopf DALMO DCH01Y Wassersparende Handbrause mit 1.5 m...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

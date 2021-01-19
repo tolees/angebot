@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078JMQ3S6-de ICY BOX IB-MSA102-VM Halterung für Mini-PC Intel NUC Mac...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

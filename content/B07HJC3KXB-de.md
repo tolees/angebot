@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJC3KXB-de Funko 35678 Vinyl: Movies: James Bond: Daniel Craig Casino...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

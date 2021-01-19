@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000S5HYEM-de Herlitz 8842700 Packbandabroller für Grossrollen Ind. Abrisse'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.74 EUR
 currency: EUR
 price: 5.74

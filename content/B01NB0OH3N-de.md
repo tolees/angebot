@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NB0OH3N-de Panama Jack Damen Julia Clay Riemchensandalen Braun Cuero...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 51.6 EUR
 currency: EUR
 price: 51.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084H9DDPW-de Samsung Sound Tower Lautsprecher MX-T50 Bluetooth...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 294.99 EUR
 currency: EUR
 price: 294.99

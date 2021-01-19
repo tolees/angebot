@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014QKKOQE-de RAVPower USB Ladegerät 30W 3 Port USB Netzteil 5V/6A USB...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

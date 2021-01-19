@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB4VLYZ-de POP Scrubs Turk Vinyl Figure'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.34 EUR
 currency: EUR
 price: 12.34

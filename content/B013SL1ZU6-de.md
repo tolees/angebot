@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013SL1ZU6-de Logitech K380 Bluetooth-Tastatur für Windows Mac Chrome...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 38.38 EUR
 currency: EUR
 price: 38.38

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DTFSV0E-de ISI Doseernaald Roestvrijstaal 4'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

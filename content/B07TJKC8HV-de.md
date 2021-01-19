@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJKC8HV-de Anna [Blu-ray]'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.33 EUR
 currency: EUR
 price: 6.33

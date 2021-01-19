@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CGGWWMN-de Disney Malrolle selbstklebend Anna und ELSA - Großartiger...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.88 EUR
 currency: EUR
 price: 8.88

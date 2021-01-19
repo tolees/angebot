@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFDV368-de POP Lord of The Rings Legolas'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

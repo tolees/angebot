@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BS6ATCO-de Bosch Rasentrimmer ART 35 Schultergurt Zusatzhandgriff...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

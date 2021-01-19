@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0024WTXNW-de SONAX MicrofaserTücher Außen - der Lackpflegeprofi 2 Stück...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.68 EUR
 currency: EUR
 price: 4.68

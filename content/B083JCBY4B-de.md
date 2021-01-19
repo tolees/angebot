@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083JCBY4B-de DXX Technik Bausteine Bulldozer Spielzeug 1572Teile 1:10...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 126.99 EUR
 currency: EUR
 price: 126.99

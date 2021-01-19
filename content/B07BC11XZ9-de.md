@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BC11XZ9-de Mario & Luigi: Abenteuer Bowser + Bowser Jr.s Reise -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

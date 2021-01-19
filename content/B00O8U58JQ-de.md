@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O8U58JQ-de Element System 10810-00001 Buchstütze Babylon 2 Stück für...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

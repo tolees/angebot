@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0733WZDX2-de Festina Herren Chronograph Quarz Uhr mit Leder Armband...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

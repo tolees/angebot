@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0746MQ3DH-de Pegasus Spiele 18324G - Memoarrr Edition Spielwiese'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.29 EUR
 currency: EUR
 price: 8.29

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L5D2VY6-de PNY Quadro RTX 4000 8 GB GDDR6'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 500.0 EUR
 currency: EUR
 price: 500.0

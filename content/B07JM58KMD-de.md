@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JM58KMD-de PLAYMOBIL Country 70133 Bauernhaus Ab 4 Jahren'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D371FDM-de Bluetooth-Kopfhörer5.0 kabellose Touch-Kopfhörer HiFi-...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

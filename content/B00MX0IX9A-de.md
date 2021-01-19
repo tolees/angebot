@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MX0IX9A-de FUXTEC Benzin Motorsense FX-MS152 mit 52 cc 2in1 Multitool...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

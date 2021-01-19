@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHXPX1H-de Samsung Galaxy S10+ Smartphone 16.3cm 6.4 Zoll 512 GB...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 729.0 EUR
 currency: EUR
 price: 729.0

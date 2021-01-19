@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P2BF43Y-de Funko 37254 POP Vinyl: Held 80th-Batman 1995 Sammelbares...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.51 EUR
 currency: EUR
 price: 7.51

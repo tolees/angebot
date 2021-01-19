@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015CH1JIW-de SanDisk Ultra Flair 32GB USB-Flash-Laufwerk USB 3.0 mit...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

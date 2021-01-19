@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071ZV8JL6-de Terminator 5 - Genisys 4K Ultra HD + Blu-ray'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0789QGL9F-de Garmin vívofit 4 Fitness Tracker personalisierbares...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

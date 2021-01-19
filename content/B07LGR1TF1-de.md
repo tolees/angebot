@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGR1TF1-de iEFiEL Damen Prinzessin Kostüm Königin Partykleid...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

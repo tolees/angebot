@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XXR3C69-de Homematic IP Smart Home Starter Set Beschattung -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

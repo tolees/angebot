@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DSX3M6Y-de B.K.Licht I 6er Set LED Einbaustrahler I Dimmbar I...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

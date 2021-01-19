@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088RKSXH7-de LOUIS XVI Herren-Armbanduhr Athos Stahlband Rosegold Braun...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 266.25 EUR
 currency: EUR
 price: 266.25

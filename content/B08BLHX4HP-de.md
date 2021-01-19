@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BLHX4HP-de Bluetooth Kopfhörer In-Ear Kabellose Kopfhörer Noise...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.89 EUR
 currency: EUR
 price: 30.89

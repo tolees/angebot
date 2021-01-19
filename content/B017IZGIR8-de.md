@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017IZGIR8-de Siemens EX845LYC1E iQ700 Kochfeld Elektro /...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 829.0 EUR
 currency: EUR
 price: 829.0

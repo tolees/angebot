@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BNBHMPG-de Yaasier WLAN Repeater 2 4GHz WLAN Verstärker WiFi Extender...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

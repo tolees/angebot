@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XD9TCFJ-de Tarent Skibrille mit Ultragroßes rahmenloses Design und...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.85 EUR
 currency: EUR
 price: 25.85

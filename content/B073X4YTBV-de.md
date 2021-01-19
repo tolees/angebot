@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073X4YTBV-de KLIM OTG Brillen Clip on Gläser gegen blaues Licht NEU –...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

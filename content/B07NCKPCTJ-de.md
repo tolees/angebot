@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NCKPCTJ-de HÖGL Damen DRYFLEX Stiefeletten Schwarz Schwarz 0100 38 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 107.56 EUR
 currency: EUR
 price: 107.56

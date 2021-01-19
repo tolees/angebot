@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S68CKNP-de Coredy R600 Saugroboter mit Boost Intellect 1600Pa...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 151.99 EUR
 currency: EUR
 price: 151.99

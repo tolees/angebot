@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0198KU8PY-de Funko 024563 S1 No Actionfigur One Piece: Portgas D. Ace...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

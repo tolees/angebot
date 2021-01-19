@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XWOB46K-de Nike Herren Court Royale Sneaker Sneakers Weiß White /...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.72 EUR
 currency: EUR
 price: 34.72

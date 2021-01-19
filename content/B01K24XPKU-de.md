@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K24XPKU-de Acer Predator Z301C 75cm 29 5 Zoll Full HD Curved Gaming...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 540.0 EUR
 currency: EUR
 price: 540.0

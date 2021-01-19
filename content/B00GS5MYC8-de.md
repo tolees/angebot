@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GS5MYC8-de Bosch Rasenmäher ARM 34 Grasfangbox Karton 1300 W...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 85.99 EUR
 currency: EUR
 price: 85.99

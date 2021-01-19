@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TD4R22P-de LIGHTAILING Licht-Set Für Architecture Paris Modell - LED...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

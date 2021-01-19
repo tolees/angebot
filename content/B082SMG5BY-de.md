@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082SMG5BY-de BERTASCHE Laptoptasche 14 Zoll Notebooktasche Schulter...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

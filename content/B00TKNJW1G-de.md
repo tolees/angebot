@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TKNJW1G-de Sylvanian Families 2243 - Gartenbank mit Springbrunnen'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

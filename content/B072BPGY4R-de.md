@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072BPGY4R-de Samsung Galaxy Book W620 26 92 cm 10 6 Zoll Convertible...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 383.0 EUR
 currency: EUR
 price: 383.0

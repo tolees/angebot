@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072ZNPRNS-de Transformers 5 - The Last Knight + Blu-ray + Bonus-Disc'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.24 EUR
 currency: EUR
 price: 10.24

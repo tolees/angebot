@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KJMAJK-de AVERY Zweckform 1725 Auftrag A5 2x40 Blatt...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.35 EUR
 currency: EUR
 price: 5.35

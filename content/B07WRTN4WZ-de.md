@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRTN4WZ-de Good Gain Garden Tools Set 9-teiliges Gardening Organizer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

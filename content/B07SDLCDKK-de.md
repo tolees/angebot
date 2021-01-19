@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SDLCDKK-de LIGHTAILING Licht-Set Für Architecture Freiheitsstatue...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

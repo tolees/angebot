@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R7BD68F-de LE-IDEA Drohne IDEA10 - Faltbare GPS Drohne mit 1080P 120°...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

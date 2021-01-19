@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DSKM4T4-de Grundig MF 5260 Milchaufschäumer 400 Watt schwarz'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.4 EUR
 currency: EUR
 price: 31.4

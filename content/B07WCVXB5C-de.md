@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WCVXB5C-de Samsung RU7099 125 cm 50 Zoll LED Fernseher Ultra HD HDR...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 399 EUR
 currency: EUR
 price: 399

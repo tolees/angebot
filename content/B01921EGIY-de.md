@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01921EGIY-de Funko 6371 No Actionfigur Tokyo Ghoul: Ken Kaneki'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

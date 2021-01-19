@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0034CL3MA-de TP-Link TL-SF1008D 8-Port Fast Ethernet-/Netzwerk-/Lan...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.47 EUR
 currency: EUR
 price: 8.47

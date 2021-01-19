@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0037TDXNW-de Reality Leuchten Tischleuchte Kugel ohne Leuchtmittel...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.08 EUR
 currency: EUR
 price: 18.08

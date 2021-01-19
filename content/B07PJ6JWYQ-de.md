@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PJ6JWYQ-de Clementoni 59126 Action & Reaction-Maxi Set Mehrfarben'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

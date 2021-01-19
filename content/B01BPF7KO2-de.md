@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BPF7KO2-de Playmobil 6880 - Sternchenbahn mit Schienenkreis'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25 EUR
 currency: EUR
 price: 25

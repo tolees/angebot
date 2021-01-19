@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYP4S5H-de VGEBY Bulldozer Toy Huina 1700 1: 50 Metallbetriebenes...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MSC6RFQ-de G-STAR RAW Herren 3301 Straight Jeans Blau medium Aged...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

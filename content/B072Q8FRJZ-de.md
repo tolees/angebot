@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072Q8FRJZ-de Lenovo V340-17IWL - Intel CORE i5 - 500GB SSD - 8GB...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 350.0 EUR
 currency: EUR
 price: 350.0

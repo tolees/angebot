@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLFKPJ1-de PLAYMOBIL Sand 70065 Sandeimerchen "Frühlingsblume" Ab 2...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

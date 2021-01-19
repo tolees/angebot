@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ODRSHZ6-de Jabra Evolve 40 UC Stereo-Kabel-Headset mit USB und 3 5...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 81.89 EUR
 currency: EUR
 price: 81.89

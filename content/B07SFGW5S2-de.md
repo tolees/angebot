@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFGW5S2-de Samsung Galaxy S10 Smartphone Bundle 15.5cm 6.1 Zoll 128...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 555.0 EUR
 currency: EUR
 price: 555.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQCVHQ6-de Der neue Echo Dot 3. Gen. – smarter Lautsprecher mit Uhr...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

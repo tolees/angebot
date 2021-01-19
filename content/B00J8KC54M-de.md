@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J8KC54M-de Wenko Herdabdeckplatte Universal Kräutergarten 2er Set...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.71 EUR
 currency: EUR
 price: 15.71

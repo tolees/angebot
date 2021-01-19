@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AY6BU94-de UGG W Classic Mini II Damenstiefel Schwarz Black Blk 38 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

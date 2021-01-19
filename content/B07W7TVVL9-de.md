@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7TVVL9-de Seiko Solar Herren-Uhr Edelstahl mit Metallband SNE523P1'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 145.3 EUR
 currency: EUR
 price: 145.3

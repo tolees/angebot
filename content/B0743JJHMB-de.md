@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0743JJHMB-de Samsung Alcantara Hülle EF-XN950 für Galaxy Note8 schwarz'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

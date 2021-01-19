@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NHMTZ8-de Funko 12381 POP Vinylfigur: My Hero Academia: All Might Multi'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

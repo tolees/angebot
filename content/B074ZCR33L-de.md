@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074ZCR33L-de Hauck Runner Dreirad Jogger Buggy bis 25 kg mit...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

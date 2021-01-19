@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000LY0VN6-de Tetra Pro Energy Premiumfutter Flockenfutter für alle...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.88 EUR
 currency: EUR
 price: 5.88

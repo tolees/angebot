@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVQ6Z8R-de BenQ EX3203R 81 2 cm 32 Zoll Gaming Monitor WQHD FreeSync...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 411.9 EUR
 currency: EUR
 price: 411.9

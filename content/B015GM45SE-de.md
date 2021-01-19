@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015GM45SE-de Ice-Watch - ICE glitter Black Rose-Gold - Women s...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 56.87 EUR
 currency: EUR
 price: 56.87

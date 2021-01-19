@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9JBHXL-de Under Armour Damen Play Up Shorts 3.0 atmungsaktive...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.83 EUR
 currency: EUR
 price: 21.83

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JMXFXMK-de Beregnungsschlauch Bewässerungsschlauch / Sprühschlauch...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.91 EUR
 currency: EUR
 price: 23.91

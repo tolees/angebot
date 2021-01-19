@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PNULHYU-de Gardena Reinigungsspritze: Wasserspritze mit stufenlos...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.03 EUR
 currency: EUR
 price: 4.03

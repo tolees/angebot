@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QN1YPQM-de HolyHigh Bluetooth Kopfhörer in Ear Sport Kabellos...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

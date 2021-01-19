@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HBCCGY8-de Apple iPhone XS 64GB - Space Grau'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 666 EUR
 currency: EUR
 price: 666

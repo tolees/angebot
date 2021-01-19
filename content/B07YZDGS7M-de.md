@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YZDGS7M-de Tenda Nova MW5G 3er Pack echtes Dual-Band Mesh WLAN bis zu...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

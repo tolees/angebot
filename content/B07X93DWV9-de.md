@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X93DWV9-de Victure 1080P WLAN IP Kamera Überwachungskamera Aussen PIR...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

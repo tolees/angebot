@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N2CLC96-de Bosch Professional Ortungsgerät D-tect 120 1x 1 5 Ah Akku...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 170.99 EUR
 currency: EUR
 price: 170.99

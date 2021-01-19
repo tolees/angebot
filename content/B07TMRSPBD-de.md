@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMRSPBD-de Harmony'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.93 EUR
 currency: EUR
 price: 8.93

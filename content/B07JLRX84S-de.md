@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLRX84S-de PLAYMOBIL Top Agents 70006 Team S.H.A.R.K. Harpoon Craft...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.1 EUR
 currency: EUR
 price: 21.1

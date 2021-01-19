@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000S6OKUM-de Sorel Herren Caribou Winterstiefel Dunkelbraun Bruno 43 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 91.44 EUR
 currency: EUR
 price: 91.44

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LCVQPL8-de Lenovo Tab M10 25 5 cm 10 1 Zoll 1920x1200 FHD IPS Touch...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 160.63 EUR
 currency: EUR
 price: 160.63

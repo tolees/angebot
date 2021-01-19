@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002ZWQVHC-de Odlo Herren Shirt Long Sleeve Crew Neck X-Warm Unterhemd...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.11 EUR
 currency: EUR
 price: 34.11

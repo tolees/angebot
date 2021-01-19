@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B3QSV16-de Bluetooth Kopfhörer in Ear Bluetooth 5.0 Kopfhörer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

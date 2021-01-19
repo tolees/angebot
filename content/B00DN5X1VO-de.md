@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DN5X1VO-de Die Monster AG/Die Monster Uni [Blu-ray]'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

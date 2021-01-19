@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5BVHL8-de Nene Toys - Lernspielzeug für Jungen und Mädchen 2 3 4...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

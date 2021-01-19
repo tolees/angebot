@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CPCHSV5-de HP 27f 27 Zoll Full HD IPS Monitor AMD FreeSync HDMI VGA...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 161.3 EUR
 currency: EUR
 price: 161.3

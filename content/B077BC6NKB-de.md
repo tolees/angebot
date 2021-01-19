@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077BC6NKB-de Hasbro FurReal Friends E0497EU4 Frisierspaß Hündchen...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

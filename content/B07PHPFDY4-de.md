@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHPFDY4-de Dickie Toys 203818000 Happy Farm House Bauernhof Set für...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.11 EUR
 currency: EUR
 price: 34.11

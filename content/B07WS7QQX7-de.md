@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WS7QQX7-de BRIKSMAX Led Beleuchtungsset für Lego Technic Container...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

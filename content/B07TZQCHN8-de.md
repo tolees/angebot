@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZQCHN8-de BRIKSMAX Led Beleuchtungsset für Lego Ideas Pop-Up-Buch...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LQ4BMEQ-de Razer Ornata Chroma - Mecha-Membrane Gaming Keyboard...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 53.61 EUR
 currency: EUR
 price: 53.61

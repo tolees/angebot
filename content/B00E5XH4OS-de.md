@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E5XH4OS-de MAJA-Möbel 1611 9499 TV- HiFi-Rack Metall Alu - Klarglas...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 133.99 EUR
 currency: EUR
 price: 133.99

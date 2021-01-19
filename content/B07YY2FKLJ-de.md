@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YY2FKLJ-de CNC 3018 Pro Fräsmaschine mit 5.5W Lasermodul...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

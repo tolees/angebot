@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MWZ34GP-de Ostwind 1-3 [3 DVDs]'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

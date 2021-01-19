@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O90JNO6-de HUGO Herren 708 Slim Jeans Blau Dark Blue 405 W32/L32'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 79.79 EUR
 currency: EUR
 price: 79.79

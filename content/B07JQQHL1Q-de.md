@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQQHL1Q-de iiniim Damen Festlich Kleid Königin Prinzessin Kleid...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.39 EUR
 currency: EUR
 price: 23.39

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HZ3MJHC-de Ferm Bandschleifmaschine – 350W – 150mm - einschl. 2...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

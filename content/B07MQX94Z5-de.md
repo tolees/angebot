@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQX94Z5-de GANT Jungen D1. Shield Logo Sweat Hoodie...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

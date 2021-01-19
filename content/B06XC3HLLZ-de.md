@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XC3HLLZ-de Huawei P10 Smartphone 12 95 cm 5 1 Zoll Touch-Display 64...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 134.59 EUR
 currency: EUR
 price: 134.59

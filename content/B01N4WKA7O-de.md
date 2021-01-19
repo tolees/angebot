@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4WKA7O-de AFUT Fotostudio 1 5 x 2 1 M klassische Holz Holzboden Mode...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

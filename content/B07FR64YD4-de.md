@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FR64YD4-de Bosch Akkuschrauber PushDrive 3 6 Volt 32 Bits...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

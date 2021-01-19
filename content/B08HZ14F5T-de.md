@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HZ14F5T-de Bluetooth-Kopfhörer5.0 In-Ear-Bluetooth-Kopfhörer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

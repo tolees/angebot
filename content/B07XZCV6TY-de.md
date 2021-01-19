@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XZCV6TY-de ZTE Smartphone Blade 10 16 cm 6 3 Zoll FHD+ Display 64 GB...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

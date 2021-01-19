@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0027AAPH4-de Pentel Arts FR-101-X Pentelarts NachfLlpatrone Colour...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000EGSGQK-de VARTA Longlife 9V Block 6LP3146 Batterie Alkaline E-Block...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XWP21JI-de Nike Herren Md Runner 2 Gymnastikschuhe Grau Wolf...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.9 EUR
 currency: EUR
 price: 37.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVK5TVT-de Occulto 10 Paar Damen Socken aus Baumwolle Punkte und...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019EN52WE-de Engtanz'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.09 EUR
 currency: EUR
 price: 6.09

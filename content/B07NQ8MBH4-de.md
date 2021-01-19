@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQ8MBH4-de Samsung Galaxy Buds SM-R170NZYADBT I Kabellose Kopfhörer...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 85.21 EUR
 currency: EUR
 price: 85.21

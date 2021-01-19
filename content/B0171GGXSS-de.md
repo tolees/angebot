@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0171GGXSS-de Stubai - Strick Fleecejacke Herren/Strickjacke mit Fleece...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

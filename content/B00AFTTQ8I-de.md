@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AFTTQ8I-de Fossil Herren-Uhr FS4813'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 96.09 EUR
 currency: EUR
 price: 96.09

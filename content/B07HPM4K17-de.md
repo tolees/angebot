@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HPM4K17-de Samsung VG-SCFN49BM/XC The Frame Bilderrahmen 123 cm 49...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 73.33 EUR
 currency: EUR
 price: 73.33

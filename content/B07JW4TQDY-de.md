@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JW4TQDY-de Acer Aspire 5 A517-51-3666 43 9 cm 17 3 Zoll Full-HD matt...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 300.0 EUR
 currency: EUR
 price: 300.0

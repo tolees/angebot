@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRRDT7K-de Sylvanian Families 4862 Dorfladen für Schuhe Mehrfarbig'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

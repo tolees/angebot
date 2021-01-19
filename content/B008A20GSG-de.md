@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008A20GSG-de Amigo 01735 - Ringlding'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

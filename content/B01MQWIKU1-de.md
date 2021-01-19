@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQWIKU1-de Sex Gutscheine mit verschiedenen Stellungen für Paare für...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H33FX6C-de Acer Switch 3 SW312-31-P8VE 31 cm 12 2 Zoll Full-HD...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 250.0 EUR
 currency: EUR
 price: 250.0

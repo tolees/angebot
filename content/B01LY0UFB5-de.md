@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LY0UFB5-de The Accountant'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

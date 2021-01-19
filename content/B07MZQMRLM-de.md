@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQMRLM-de Funko 39947 POP Vinyl: Animation Scooby DOO w/Sandwich...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

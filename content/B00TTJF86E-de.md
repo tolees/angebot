@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TTJF86E-de Clarks Men’s Tilden Walk Derby Schwarz Black Leather 42.5 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 62.11 EUR
 currency: EUR
 price: 62.11

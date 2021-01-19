@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P8PYZCR-de Microsoft Surface Book 2 34 29 cm 13 Zoll Laptop Intel...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 545.0 EUR
 currency: EUR
 price: 545.0

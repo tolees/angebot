@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MVHKTZQ-de Anker 36W 5V / 7.2A 4 Port USB Ladegerät Wand Ladeadapter...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EIC6J1A-de WMF Diadem Plus Topfset 5-teilig Cromargan Edelstahl...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

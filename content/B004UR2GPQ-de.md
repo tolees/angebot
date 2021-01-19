@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004UR2GPQ-de Relaxdays Badregal Bambus Natur 33 x 33 x 79 cm'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

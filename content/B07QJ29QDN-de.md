@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJ29QDN-de Funko 42064 POP Bobble Vinyl Mandalorian-IG-11 Star Wars...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.78 EUR
 currency: EUR
 price: 9.78

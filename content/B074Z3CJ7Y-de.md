@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074Z3CJ7Y-de De Longhi EDG 355.B1 | NESCAFÉ Dolce Gusto Colors | Kapsel...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 78.9 EUR
 currency: EUR
 price: 78.9

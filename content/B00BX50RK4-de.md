@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BX50RK4-de Immenhof - Die 5 Originalfilme [3 DVDs]'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

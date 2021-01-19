@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072KL77LR-de POP Rocks: Metallica - James Hetfield'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

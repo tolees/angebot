@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BLG3IOM-de De Longhi Toaster Icona Vintage CTOV2103.GR - 2-Schlitz-...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 57.19 EUR
 currency: EUR
 price: 57.19

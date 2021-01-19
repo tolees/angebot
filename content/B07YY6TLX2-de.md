@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YY6TLX2-de Upgraded LED Sensor Licht 78 LED Wiederaufladbar Dimmbare...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

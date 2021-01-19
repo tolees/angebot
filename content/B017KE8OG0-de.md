@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017KE8OG0-de Seagate Expansion Portable tragbare externe Festplatte 4...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 93.5 EUR
 currency: EUR
 price: 93.5

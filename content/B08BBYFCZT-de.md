@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BBYFCZT-de Tesoky Automatisch Desinfektionsspender Automatisk...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

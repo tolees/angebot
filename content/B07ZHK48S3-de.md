@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZHK48S3-de DJI RoboMaster S1-Bildungsfördernder Roboter Intelligente...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 342.25 EUR
 currency: EUR
 price: 342.25

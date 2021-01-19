@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074K4DPQV-de Holy Stone Hs160 Fpv Mini Drohne Faltbar Mit HD Kamera...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4CM3SC-de Bose Portable Home Speaker – mit integrierter Alexa-...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 265.0 EUR
 currency: EUR
 price: 265.0

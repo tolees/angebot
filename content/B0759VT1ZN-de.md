@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0759VT1ZN-de LG Beamer PH30JG bis 254 cm 100 Zoll CineBeam Native HD...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XC2XMXD-de Samsung Galaxy Tab S3 T825 24 58 cm 9 68 Zoll Touchscreen...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 346.5 EUR
 currency: EUR
 price: 346.5

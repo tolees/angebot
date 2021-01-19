@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCZM0HW-de Emporio Armani Damen - Edelstahl Kristall'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.06 EUR
 currency: EUR
 price: 59.06

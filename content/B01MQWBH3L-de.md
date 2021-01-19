@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQWBH3L-de SHEKO Diät Shake Vanille | 25 Portionen Protein Pulver...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

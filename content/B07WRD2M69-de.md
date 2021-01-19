@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRD2M69-de Philips XC7042/01 SpeedPro Max kabelloser Staubsauger 7000...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 287.99 EUR
 currency: EUR
 price: 287.99

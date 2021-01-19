@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EE6I9WM-de Fossil Herren-Kette mit Anhänger Edelstahl Leder 45 cm -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.24 EUR
 currency: EUR
 price: 30.24

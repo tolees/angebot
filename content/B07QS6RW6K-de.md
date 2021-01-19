@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QS6RW6K-de INSMART Körperfettwaage Personenwaage digital mit APP...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

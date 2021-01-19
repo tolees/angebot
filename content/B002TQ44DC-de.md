@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002TQ44DC-de ANSMANN APS 1000 Universal Stecker Netzteil 12V inkl. 7...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.64 EUR
 currency: EUR
 price: 13.64

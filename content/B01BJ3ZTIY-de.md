@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BJ3ZTIY-de Bauerfeind Kniebandage „Knee Support“ für Männer 1...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 63.2 EUR
 currency: EUR
 price: 63.2

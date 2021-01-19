@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YTKKSF-de Logitech G513 mechanische Gaming-Tastatur mit RGB...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XY9B91B-de OnePlus 8 5G Smartphone ohne Vertrag 8GB + 128GB Speicher...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 467.65 EUR
 currency: EUR
 price: 467.65

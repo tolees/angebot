@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085ST7G7F-de Palado® Damen Sandale Korfu | Made in EU | Pantoletten in...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

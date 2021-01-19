@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L2N2LWT-de Sharkoon Drakonia II Gaming Maus optischer Sensor PixArt...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PL5ZY8G-de Park Tool PCS-10.2 Montageständer blau Einheitsgröße'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 184.95 EUR
 currency: EUR
 price: 184.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LB5GMMN-de SCHLEICH 42485 Pferdestall'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 51.05 EUR
 currency: EUR
 price: 51.05

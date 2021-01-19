@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JJ3AK76-de Apple iPad 4 9.7-Inch Tablet-PC Schwarz A1460 Prozessor 16...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

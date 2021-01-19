@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089SZNY4P-de BRIKSMAX Led Beleuchtungsset für 1985 Audi Sport Quattro...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

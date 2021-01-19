@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M2CMZJO-de S&R Kreissägeblatt 160mm x 20mm x 2 2mm 40T Reduzierring...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.55 EUR
 currency: EUR
 price: 14.55

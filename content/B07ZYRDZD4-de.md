@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZYRDZD4-de FATO. Frühling Gartenpuppenstuben Spielset Werkzeuge mit...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.12 EUR
 currency: EUR
 price: 15.12

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ACHY6I-de hansgrohe Crometta 85 Duschkopf 3 Strahlarten Chrom'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

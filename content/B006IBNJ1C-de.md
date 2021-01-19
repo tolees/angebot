@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006IBNJ1C-de Bodum assam Teebereiter French Press System Permanent...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.45 EUR
 currency: EUR
 price: 28.45

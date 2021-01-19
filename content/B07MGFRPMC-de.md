@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGFRPMC-de Napapijri Damen Rainforest W WINT 3 Jacke Weiß Whitecap...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 58.95 EUR
 currency: EUR
 price: 58.95

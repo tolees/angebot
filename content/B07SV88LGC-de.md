@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SV88LGC-de Philips Hue White E27 LED Lampe Einzelpack dimmbar...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.7 EUR
 currency: EUR
 price: 12.7

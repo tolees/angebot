@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003BLPRL2-de Crocs Unisex-Erwachsene Baya Clogs Grau Graphite 45/46 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

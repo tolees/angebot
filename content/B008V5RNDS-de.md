@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008V5RNDS-de Ice Age 1-4 [4 DVDs]'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

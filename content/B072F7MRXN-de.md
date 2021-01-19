@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072F7MRXN-de Hisense RB338N4AG2 Kühl-Gefrier-Kombination/A++/No-...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 349.0 EUR
 currency: EUR
 price: 349.0

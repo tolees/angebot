@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NFHYF68-de Tommy Hilfiger Damen TH ESS Hilfiger Hoodie LS Sweatshirt...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 61.78 EUR
 currency: EUR
 price: 61.78

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003SANWI6-de Western Digital WD1003FBYX RE4 1TB interne Festplatte 8 9...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

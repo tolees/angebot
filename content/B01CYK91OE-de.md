@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CYK91OE-de SATCH Berry Carry Schulrucksack 45 cm 24 L Purple Blue Checks'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49 EUR
 currency: EUR
 price: 49

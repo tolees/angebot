@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CGKZSCF-de Hot Wheels GBN81 Track Builder Booster Pack Spielset...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.24 EUR
 currency: EUR
 price: 14.24

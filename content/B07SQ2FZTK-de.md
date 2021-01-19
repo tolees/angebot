@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQ2FZTK-de Philips Hue White & Col. Amb. LED Tischleuchte Go dimmbar...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

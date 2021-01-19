@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0068XIHXA-de Tassimo Kapseln Jacobs Krönung XL 80 Kaffeekapseln 5er...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.93 EUR
 currency: EUR
 price: 16.93

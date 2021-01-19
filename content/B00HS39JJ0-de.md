@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HS39JJ0-de New Balance Herren MRL996AG Revlite Sneaker Grau MRL996AG...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 57.89 EUR
 currency: EUR
 price: 57.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7F1MC3-de Toyaword outdoor sport Action Cam 4K 60FPS 20MP...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

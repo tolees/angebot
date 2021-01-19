@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019OUUNR6-de Landmann Gasgrillwagen 12220 emaillierte...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 175.01 EUR
 currency: EUR
 price: 175.01

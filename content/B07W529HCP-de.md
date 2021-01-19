@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W529HCP-de Explosion Box Geschenkbox Sporgo Kreative Überraschung Box...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

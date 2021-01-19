@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KYRFJYD-de SAMSONITE Guardit 2.0 - Laptop Rollkoffer 45 cm 26.5 Liter...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

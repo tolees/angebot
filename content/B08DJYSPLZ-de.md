@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJYSPLZ-de STEM Roboter Spielzeug Bausatz 351-tlg Bausatz für...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

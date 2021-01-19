@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BVC4ZWE-de Christopeit Türreck Klimmzugstange 1688'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17 EUR
 currency: EUR
 price: 17

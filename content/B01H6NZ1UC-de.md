@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H6NZ1UC-de Crocs Herren Swiftwater River Sandal Men Römersandalen...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

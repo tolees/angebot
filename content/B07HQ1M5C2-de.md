@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HQ1M5C2-de Funko FUN334463 POP Vinylfigur Specialist FunkoPop...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BBW8KF2-de Aeronautica Militare blank Melange Grey XL'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

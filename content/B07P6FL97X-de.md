@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6FL97X-de PLAYMOBIL:THE MOVIE 70077 Marla im Märchenschloss Ab 5 Jahren'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VZLMQN7-de Logitech G915 LIGHTSPEED kabellose mechanische Gaming-...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 171.7 EUR
 currency: EUR
 price: 171.7

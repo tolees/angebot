@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E3JTPFE-de Bang & Olufsen BeoPlay S3 Bluetooth-Lautsprecher schwarz'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 146.68 EUR
 currency: EUR
 price: 146.68

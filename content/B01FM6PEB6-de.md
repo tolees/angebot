@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FM6PEB6-de HapiLeap Kühlschrank Storage Organizer - Kühlschrank...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

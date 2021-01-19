@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YTC4MCH-de Immer Ärger mit Sergeant Bilko [Blu-ray]'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

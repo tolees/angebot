@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073GJ9X2R-de ALTRAD-FORT FO37990 Universal-Schubkarre 90 L Boxer-90...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 62.9 EUR
 currency: EUR
 price: 62.9

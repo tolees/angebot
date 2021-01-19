@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F3PBNX1-de DARLINGTON & Sohns 2X Classic Controller für Xbox mit...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.85 EUR
 currency: EUR
 price: 26.85

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XPT68R8-de WISHDOIT Herren Uhren Sport Militär Wasserdicht...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

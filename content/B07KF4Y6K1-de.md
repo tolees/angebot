@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF4Y6K1-de Levi s Damen 310 Shaping Super Skinny Jeans Blau Westbound...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.08 EUR
 currency: EUR
 price: 59.08

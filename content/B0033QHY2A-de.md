@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0033QHY2A-de Trelock Schloss FS 300 Trigo-85 cm Faltschloss schwarz...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

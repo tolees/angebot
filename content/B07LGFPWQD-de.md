@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGFPWQD-de HONOR Smartwatch im klassischen Uhrendesign mit 3 cm 1 2...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

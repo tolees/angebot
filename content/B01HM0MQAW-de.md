@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HM0MQAW-de FIBARO Double Switch 2 / Z-Wave Plus Relaisschalter...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 43.27 EUR
 currency: EUR
 price: 43.27

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0083H2KFA-de Odys Seal 9 tragbarer DVD-Player mit zusätzlichem...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 97.47 EUR
 currency: EUR
 price: 97.47

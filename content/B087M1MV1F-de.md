@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087M1MV1F-de Banane NEU 2020 2 Paar Niedlicher Ersatz Silikon Analog...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 3.48 EUR
 currency: EUR
 price: 3.48

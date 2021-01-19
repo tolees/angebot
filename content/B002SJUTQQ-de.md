@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002SJUTQQ-de Samsonite Aeris Spinner L Koffer 75 cm 87.5 L Rot Red'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 125.4 EUR
 currency: EUR
 price: 125.4

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3B9Z7Q-de Brother ADS1700W Mobiler Scanner ADS1700WUN1...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 262.65 EUR
 currency: EUR
 price: 262.65

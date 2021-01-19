@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XCC71EG-de Leibniz PiCK UP! Black´n White 24 x 28 g-knackige weiße...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

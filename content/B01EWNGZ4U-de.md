@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EWNGZ4U-de Akku-Set 18 V / 5 Ah DCD796 / DCF887'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 342.0 EUR
 currency: EUR
 price: 342.0

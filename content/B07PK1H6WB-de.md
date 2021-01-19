@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PK1H6WB-de LG SL8YG Dolby Atmos 3.1.2 Soundbar mit Meridian...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 405.0 EUR
 currency: EUR
 price: 405.0

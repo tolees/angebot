@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N10SBT4-de PDP Nintendo Switch The Legend of Zelda: Breath of the...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.76 EUR
 currency: EUR
 price: 11.76

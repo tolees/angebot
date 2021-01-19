@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004H4EFF6-de Hazet 810SPC/6 Schraubendreher-Satz'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.04 EUR
 currency: EUR
 price: 12.04

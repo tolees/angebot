@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005LB9EUA-de Green Toys Schulbus Spielzeugauto'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.14 EUR
 currency: EUR
 price: 31.14

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B6GYZ9V-de Hasbro Gaming E1844100 - Dummschwätzer Partyspiel'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

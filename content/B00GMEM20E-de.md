@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GMEM20E-de Belkin Boost up USB-Ladegerät Netzladegerät 2 4A 12 Watt...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.3 EUR
 currency: EUR
 price: 14.3

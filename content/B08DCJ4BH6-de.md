@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DCJ4BH6-de ORICO M.2 NGFF SSD Externes Gehäuse USB 3.1 auf M.2 SATA...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

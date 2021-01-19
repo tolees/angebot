@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LCYF50C-de roba Garderobe Kindermöbel mit Kleiderständer Regal...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 103.72 EUR
 currency: EUR
 price: 103.72

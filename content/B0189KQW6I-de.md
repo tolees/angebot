@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0189KQW6I-de mecablitz 44 AF-2 für Sony Kameras DSLR und CSC |...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

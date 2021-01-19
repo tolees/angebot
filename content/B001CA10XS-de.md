@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001CA10XS-de Hazet 2169 Ölfilterschlüssel Antrieb: Innenvierkant 10 mm...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

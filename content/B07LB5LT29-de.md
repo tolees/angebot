@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LB5LT29-de SCHLEICH 42519 Spielset - Reiter-Café Horse Club'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

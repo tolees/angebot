@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPVM8SD-de De Longhi EDG505.W | NESCAFÉ Dolce Gusto Esperta | Kapsel...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 91.99 EUR
 currency: EUR
 price: 91.99

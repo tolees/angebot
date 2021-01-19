@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B12UHPS-de Fiskars Profi Handsäge für frisches Holz Grobzahnung...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 36.95 EUR
 currency: EUR
 price: 36.95

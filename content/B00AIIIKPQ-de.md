@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AIIIKPQ-de Logitech R700 Presenter Kabellose 2.4 GHz Verbindung via...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

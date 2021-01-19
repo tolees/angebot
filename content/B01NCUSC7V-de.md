@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCUSC7V-de Fisher-Price FFC84 - Babys Erste Bausteine Baby Spielzeug...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.45 EUR
 currency: EUR
 price: 9.45

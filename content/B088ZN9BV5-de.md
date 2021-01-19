@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088ZN9BV5-de Heißklebepistole ORSIFOW 20W Klebepistole mit 42 Stück...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

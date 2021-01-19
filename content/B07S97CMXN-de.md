@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S97CMXN-de Ice-Watch - Ice Duo Chic Weiß marine - Damen wristwatch...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 63.78 EUR
 currency: EUR
 price: 63.78

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082PJPMLC-de HP Sprocket Studio Fotodrucker Drucken scannen kopieren...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

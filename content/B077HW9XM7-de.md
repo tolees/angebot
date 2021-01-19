@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077HW9XM7-de ECOVACS Robotics DEEBOT N79S Saugroboter –...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

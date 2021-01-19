@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F5K6SIM-de Nixon Damen Analog Quarz Uhr mit Leder Armband A10912369-00'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

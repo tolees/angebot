@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVKQ7QZ-de Samsonite S Cure Disney Spinner Suitcase 75 cm 102 L Blau...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 158.88 EUR
 currency: EUR
 price: 158.88

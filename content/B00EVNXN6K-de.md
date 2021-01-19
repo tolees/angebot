@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EVNXN6K-de adidas Bauchtrainer'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.07 EUR
 currency: EUR
 price: 14.07

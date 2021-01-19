@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H334QWK-de Echo Plus 2. Gen. Sandstein Stoff + Philips Hue White Lampe'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

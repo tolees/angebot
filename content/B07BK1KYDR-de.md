@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BK1KYDR-de Muzili Fitness Armband Wasserdicht Fitness Tracker Sport...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.43 EUR
 currency: EUR
 price: 13.43

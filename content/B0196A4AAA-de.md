@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0196A4AAA-de Sylvanian Families 5231 - Strandkarusell'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

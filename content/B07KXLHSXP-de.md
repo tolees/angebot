@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXLHSXP-de Bosch BBH32101 Flexxo 2 in 1 kabelloser Handstaubsauger...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

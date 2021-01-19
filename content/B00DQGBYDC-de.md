@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DQGBYDC-de SanDisk Ultra 64GB USB-Flash-Laufwerk USB 3.0 bis zu 130MB/s'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

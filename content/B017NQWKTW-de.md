@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017NQWKTW-de Funko 025596 Schlüsselanhänger Figur Harry Potter Multi'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

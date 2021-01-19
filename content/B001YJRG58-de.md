@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001YJRG58-de Bosch HMT84M421 Serie 2 Mikrowelle / 900 W / 25 l /...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 107.91 EUR
 currency: EUR
 price: 107.91

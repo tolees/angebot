@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCNBRJD-de Heimkamera 1080P FHD Wireless WiFi IP Überwachungskamera...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 17.09 EUR
 currency: EUR
 price: 17.09

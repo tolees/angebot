@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TDNYNP8-de Arlo HD Überwachungskamera & Alarmanlage 2er Set Smart...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 279.78 EUR
 currency: EUR
 price: 279.78

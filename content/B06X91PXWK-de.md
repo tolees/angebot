@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X91PXWK-de Hasbro Star Wars C1252EU4 - Episode 8 Forcelink Tie...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 49.43 EUR
 currency: EUR
 price: 49.43
