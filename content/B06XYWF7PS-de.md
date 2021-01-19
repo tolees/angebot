@@ -26,7 +26,7 @@ Sie können [Issey Miyake L Eau d Issey Pure femme/woman Eau de Toilette Spray  
 ℹ️:
 
 - Hergestellt im Japan
-- Leichter Damenduft
 - Leau DIssey Pure Femme/Woman Eau de Toilette Spray
+- Leichter Damenduft
 
 [🛒 Hier!!](https://www.amazon.de/dp/B06XYWF7PS/?tag=tolees0ca-21)

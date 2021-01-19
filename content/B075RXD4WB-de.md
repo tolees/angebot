@@ -25,10 +25,10 @@ Es gibt ein [GORE WEAR Damen R3 Gore-TEX Active Kapuzenjacke  Black  38](https:/
 
 ℹ️:
 
-- Komfortable Passform/Läuferspezifischer Schnitt
-- Kapuze mit Weiten- und Sichtfeldregulierung, Verstellbare Bundweite, 2 Reißverschlusstaschen vorne
-- GORE-TEX Active Technologie: Wasserdicht, winddicht und extrem atmungsaktiv
 - GORE R3 WOMEN GORE-TEX Active Hooded Jacket, Größe: 38, Farbe: Schwarz, 100071
 - Vielseitig einsetzbare Damen Jacke für kühle Wetterbedingungen
+- GORE-TEX Active Technologie: Wasserdicht, winddicht und extrem atmungsaktiv
+- Kapuze mit Weiten- und Sichtfeldregulierung, Verstellbare Bundweite, 2 Reißverschlusstaschen vorne
+- Komfortable Passform/Läuferspezifischer Schnitt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B075RXD4WB/?tag=tolees0ca-21)
