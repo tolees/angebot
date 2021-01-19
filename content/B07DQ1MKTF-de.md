@@ -26,8 +26,8 @@ Sie können [LG Electronics SPK8 Lautsprecher-Systeme Schwarz](https://www.amazo
 
 ℹ️:
 
-- 2.0 140 Watt Rücklautsprecher Set
-- Kompatibel mit den LG Soundbars SK10Y und SK9Y
 - Kabellose Verbindung zur Soundbar
+- Kompatibel mit den LG Soundbars SK10Y und SK9Y
+- 2.0 140 Watt Rücklautsprecher Set
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07DQ1MKTF/?tag=tolees0ca-21)
