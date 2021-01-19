@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Sony HT-SF200 2.1-Kanal kompakte TV Soun mit 33.37 % Rabatt'
-date: 2021-01-18 18:57:55
+date: 2021-01-19 20:14:04
 image: 'https://m.media-amazon.com/images/I/21oWg7LdpsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078X6T3HV-de'
+slug: 'B078X6T3HV-de Sony HT-SF200 2.1-Kanal kompakte TV Soundbar mit...'
+tags: [  ]
 actualPrice: 132.6 EUR
 currency: EUR
 price: 132.6
@@ -16,7 +17,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B078X6T3HV/?tag=tolees0ca-21'
 descuento: '33.37'
-average: '129.753125'
+average: '130.06944444444446'
 ---
 
 Sie können [Sony HT-SF200 2.1-Kanal kompakte TV Soundbar mit eingebautem Subwoofer  Home Entertainment System  HDMI  Bluetooth  USB  Surround Sound  schwarz](https://www.amazon.de/dp/B078X6T3HV/?tag=tolees0ca-21) mit Preis 132.6 EUR (original: 199.0 EUR) 33.37 % Rabatt hier:
@@ -26,10 +27,10 @@ Sie können [Sony HT-SF200 2.1-Kanal kompakte TV Soundbar mit eingebautem Subwoo
 ℹ️:
 
 - Lieferumfang: Sony HT-SF200 2.1-Kanal kompakte TV Soundbar mit eingebautem Subwoofer
-- Direktes Abspielen von Musik von Ihrem Smartphone über Bluetooth oder USB
-- Volle Leistung mit raumfüllendem Sound: Home Entertainment System mit Surround Sound
-- Kinderleichte Verbindung zu Ihrem TV über HDMI. Standby-Modus Aktiviert: Nach 20 Minuten
 - Hochkarätiger Sound über die kompakte Größe hinaus dank des eingebauten Subwoofers und S-Force PRO Surround Sound
+- Kinderleichte Verbindung zu Ihrem TV über HDMI. Standby-Modus Aktiviert: Nach 20 Minuten
+- Volle Leistung mit raumfüllendem Sound: Home Entertainment System mit Surround Sound
 - Stylisches und kompaktes Design, dass sich optimal Ihrer Einrichtung anpasst
+- Direktes Abspielen von Musik von Ihrem Smartphone über Bluetooth oder USB
 
 [🛒 Hier!!](https://www.amazon.de/dp/B078X6T3HV/?tag=tolees0ca-21)
