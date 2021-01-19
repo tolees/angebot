@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDDQJ9S-de Bresser Junior Schülermikroskop BIOLUX SEL mit...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4G7UIT-de Hot Wheels FDY09 Ai Starter Kit 2.0 Street Racing Auto...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

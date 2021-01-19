@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y55RCLD-de Hair Dryer Ribivaul Anion Hairdryer Salon Haarfön mit...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

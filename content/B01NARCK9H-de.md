@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NARCK9H-de SuSenGo Titanic Bausteinsatz 1021 Stück Ziegel für Kinder'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

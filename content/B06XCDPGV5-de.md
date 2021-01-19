@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XCDPGV5-de Westfalia bikelander Premium Fahrradträger für...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 475.63 EUR
 currency: EUR
 price: 475.63

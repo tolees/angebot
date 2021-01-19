@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083JGPJP3-de IBTOM CASTLE Prinzessin Mädchen Anna Kostüm Eiskönigin...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

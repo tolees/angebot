@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4GXNT2-de Carrera GO!!! PLUS Power Lap 20066006 Autorennbahn Set'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

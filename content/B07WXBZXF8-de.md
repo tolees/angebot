@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WXBZXF8-de Tefal L95693 Ingenio Jamie Oliver Topfset 3-teilig Topf...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SLP7XX8-de FIFA 20 | Xbox One - Download Code'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088MMRGRP-de Samsung Galaxy S10+ Smartphone Bundle 16.3 cm 6.4 Zoll...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 629.0 EUR
 currency: EUR
 price: 629.0

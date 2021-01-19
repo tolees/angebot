@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085XYDNMZ-de Dittzz Technic Auto Bausteine AMG-G65 2.4Ghz RC Sportwagen...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 115.99 EUR
 currency: EUR
 price: 115.99

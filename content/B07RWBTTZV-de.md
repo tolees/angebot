@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWBTTZV-de Disney Die Eiskönigin Elsa aus Arendelle Deluxe Modepuppe...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 19.36 EUR
 currency: EUR
 price: 19.36

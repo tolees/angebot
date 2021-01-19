@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NED5RTO-de Olympus M.Zuiko Digital ED 40-150mm 1:2.8 Pro Objektiv...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 700.0 EUR
 currency: EUR
 price: 700.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BSZBVLH-de Wangel Hakenleiste Küchenhelfer Hängeleiste 7 Haken ohne...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

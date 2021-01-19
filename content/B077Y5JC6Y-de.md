@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y5JC6Y-de Ravensburger 24990" Entdecke die Welt Lernspiel'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 8.29 EUR
 currency: EUR
 price: 8.29

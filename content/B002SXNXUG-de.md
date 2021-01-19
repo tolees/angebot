@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002SXNXUG-de Nikon BF-1B Gehäusedeckel'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GNP4Y70-de Dark Grey/White'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

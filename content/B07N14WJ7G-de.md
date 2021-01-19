@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N14WJ7G-de G-STAR RAW Herren 3301 Straight Jeans Blau Worker Blue...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 35.11 EUR
 currency: EUR
 price: 35.11

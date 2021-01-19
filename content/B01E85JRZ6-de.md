@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E85JRZ6-de DeWalt Akku-Schnellladegerät/ Akkuladegerät 10 8- 18 Volt...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 36.82 EUR
 currency: EUR
 price: 36.82

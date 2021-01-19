@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AY6BVH0-de UGG Female Classic Mini II Classic Boot Black 6 UK'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 84.95 EUR
 currency: EUR
 price: 84.95

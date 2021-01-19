@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q4F4B7D-de Bose Home Speaker 300 mit integrierter Amazon Alexa-...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

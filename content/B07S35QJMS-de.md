@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S35QJMS-de BERTASCHE Laptoptasche 17 Zoll - 17 3 Zoll Notebooktasche...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

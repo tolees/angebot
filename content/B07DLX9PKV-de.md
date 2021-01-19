@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLX9PKV-de SAMSONITE PRO-DLX 5 - Rolling Tote for 15.6" Laptop - 3.1...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 223.25 EUR
 currency: EUR
 price: 223.25

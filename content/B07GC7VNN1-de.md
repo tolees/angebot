@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GC7VNN1-de BREE Collection Unisex-Erwachsene Punch 93 Backpack M S19...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 89.38 EUR
 currency: EUR
 price: 89.38

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001E1DDSU-de Das Schweigen der Lämmer + Krabat Sonder-Disc'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 4.3 EUR
 currency: EUR
 price: 4.3

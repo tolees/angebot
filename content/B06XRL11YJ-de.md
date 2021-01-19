@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XRL11YJ-de Our Generation 44557 Rollerblades & Outfit Puppenkleidung...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

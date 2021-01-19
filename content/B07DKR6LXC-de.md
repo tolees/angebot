@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKR6LXC-de Asus ZenBook Pro 15 UX580GD 90NB0I73-M00240 Notebook 39 6...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 800.0 EUR
 currency: EUR
 price: 800.0

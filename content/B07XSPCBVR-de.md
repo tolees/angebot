@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XSPCBVR-de L.O.L. Surprise! 565222E7C Car-Pool Coupe Puppenauto mit...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0073R1HFU-de Bosch Heckenschere AHS 50-26 Messerabdeckung Karton 600 W...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 129.86 EUR
 currency: EUR
 price: 129.86

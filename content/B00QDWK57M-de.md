@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QDWK57M-de Ravensburger 16701 Star Wars Universum Puzzle 2000-teilig'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 17.13 EUR
 currency: EUR
 price: 17.13

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JGHLNJ4-de Einhell Sägekettenschärfgerät GC-CS 85 Schleifscheibe...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

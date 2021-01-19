@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLX9XF7-de SAMSONITE PRO-DLX 5 - Spinner Tote for 15.6 Laptop - 3.3...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 233.06 EUR
 currency: EUR
 price: 233.06

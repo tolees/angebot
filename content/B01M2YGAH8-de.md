@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M2YGAH8-de Timberland Herren Bradstreet Leather Sensorflex Chukka...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

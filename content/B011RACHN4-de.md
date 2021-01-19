@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011RACHN4-de TP-Link TL-WA901ND V5.0 450MBit/s-WLAN Accesspoint...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 31.9 EUR
 currency: EUR
 price: 31.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PV97J2Q-de NextBase S2RFCZ Rückfahrkamera Blickwinkel horizontal...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 58.06 EUR
 currency: EUR
 price: 58.06

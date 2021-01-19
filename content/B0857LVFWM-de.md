@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0857LVFWM-de Lenovo Yoga Smart Tab 25 5 cm 10 1 Zoll 1920x1200 FHD IPS...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

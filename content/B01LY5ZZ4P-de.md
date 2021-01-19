@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LY5ZZ4P-de SanDisk SSD PLUS 960GB Sata III 2 5 Zoll Interne SSD bis...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 136.96 EUR
 currency: EUR
 price: 136.96

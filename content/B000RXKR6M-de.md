@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000RXKR6M-de Meguiar s X3002EU Microfibre Wash Mitt Mikrofaser-...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 11.7 EUR
 currency: EUR
 price: 11.7

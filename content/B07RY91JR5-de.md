@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RY91JR5-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars X-Wing...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

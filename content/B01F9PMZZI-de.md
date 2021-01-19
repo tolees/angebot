@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F9PMZZI-de 182/im Haus des Henkers'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S19TPNH-de edc by ESPRIT Damen 999Cc1B807 Slim Jeans Blau Blue Dark...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MBV6QB9-de BaByliss C2000E BaByliss C2000E Smooth & Wave 2 in 1 Auto-...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 109.44 EUR
 currency: EUR
 price: 109.44

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IUMPET2-de Flow-Mow für Zeitraffer-Fotografie 360 Grad drehbar'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 20.87 EUR
 currency: EUR
 price: 20.87

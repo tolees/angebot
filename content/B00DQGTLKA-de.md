@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DQGTLKA-de Silit Ersatzteil Sicomatic Dichtungsring 22 cm für...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 13.41 EUR
 currency: EUR
 price: 13.41

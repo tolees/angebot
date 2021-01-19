@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D6GM25T-de Hoseili WK60 Bluetooth Kopfhörer In Ear Kabellose...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 30.98 EUR
 currency: EUR
 price: 30.98

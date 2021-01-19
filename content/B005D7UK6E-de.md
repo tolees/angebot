@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005D7UK6E-de Bushmills Single Malt Irish Whiskey 10 Jahre 1 x 0.7 l'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

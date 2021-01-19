@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5VDXW1-de Razer Huntsman Tournament Edition - TKL Mechanical Gaming...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 119.08 EUR
 currency: EUR
 price: 119.08

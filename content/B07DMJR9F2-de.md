@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DMJR9F2-de FIFA 19 - Champions Edition - [Xbox One]'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 38.36 EUR
 currency: EUR
 price: 38.36

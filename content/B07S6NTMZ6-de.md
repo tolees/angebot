@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6NTMZ6-de Puma Damen Smash WNS v2 L Zapatillas Weiß White-Bright...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 31.56 EUR
 currency: EUR
 price: 31.56

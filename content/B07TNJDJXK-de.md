@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNJDJXK-de Smartwatch Sport Uhr Fitness Tracker - IP68 Wasserdicht...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

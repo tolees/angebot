@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0071J4AYK-de 156/Im Netz des Drachen'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

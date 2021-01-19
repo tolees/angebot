@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFWSTJK-de Salewa Puez Alphubel Wo Headband Stirnbänder Carrot/4630...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 11.64 EUR
 currency: EUR
 price: 11.64

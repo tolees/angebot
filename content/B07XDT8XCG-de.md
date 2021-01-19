@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XDT8XCG-de Aigital AC1200 WLAN Repeater Wi-Fi Verstaerker Range...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 24.94 EUR
 currency: EUR
 price: 24.94

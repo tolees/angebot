@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLS11LP-de Playmobil 70175 Figurenset Ghostbusters bunt'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 13.67 EUR
 currency: EUR
 price: 13.67

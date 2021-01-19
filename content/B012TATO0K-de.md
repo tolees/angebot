@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012TATO0K-de Archos Hello 10 Home Assistent 10 1“ HD Display 16 GB...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 157.34 EUR
 currency: EUR
 price: 157.34

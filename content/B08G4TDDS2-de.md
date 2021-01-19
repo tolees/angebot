@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08G4TDDS2-de Sensor Seifenspender 400ml Berührungsloser Infrared Sensor...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

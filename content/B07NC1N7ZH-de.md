@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NC1N7ZH-de camel active Herren Houston 488415/2513 Hose Beige Beige...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 43.04 EUR
 currency: EUR
 price: 43.04

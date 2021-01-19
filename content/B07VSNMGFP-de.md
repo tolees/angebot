@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSNMGFP-de Wlan Bluetooth 5W LED Einbaustrahler RGBW+CCT 5 in 1...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 152.99 EUR
 currency: EUR
 price: 152.99

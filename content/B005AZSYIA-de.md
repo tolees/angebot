@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005AZSYIA-de Band of Gypsys'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

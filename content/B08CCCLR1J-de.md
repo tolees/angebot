@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CCCLR1J-de Hoseili Bluetooth Kopfhörer In Ear Kopfhörer Kabellos mit...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 37.41 EUR
 currency: EUR
 price: 37.41

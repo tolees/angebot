@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000UHMXVC-de Pentel BK440-C Kugelschreiber mit Druckmechanik und...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 7.33 EUR
 currency: EUR
 price: 7.33

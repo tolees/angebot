@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BF4YJKW-de fischertechnik BASIC Solar Konstruktionsbaukasten - 520396'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 14.91 EUR
 currency: EUR
 price: 14.91

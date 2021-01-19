@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081VK75BK-de K9CK LED Licht Set für Lego Modell - DIY Leuchtende...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 23.69 EUR
 currency: EUR
 price: 23.69

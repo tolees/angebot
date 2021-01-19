@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3G34ZH-de Bluetooth Headset 0.3 Unzen Wasserdicht Dual CVC 8.0...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 18.77 EUR
 currency: EUR
 price: 18.77

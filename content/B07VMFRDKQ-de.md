@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMFRDKQ-de Samsung Galaxy Buds SM-R170 I Kabellose Kopfhörer Silber I...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 74.1 EUR
 currency: EUR
 price: 74.1

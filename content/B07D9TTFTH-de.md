@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D9TTFTH-de Google WiFi - WLAN-Router Dual-Band 2 4 GHz/5 GHz Wi-Fi 5...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 242.68 EUR
 currency: EUR
 price: 242.68

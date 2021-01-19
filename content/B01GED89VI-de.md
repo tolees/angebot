@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GED89VI-de Kölln Müsli Schoko "30 % weniger Zucker" 1er Pack 1 x 2 kg'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

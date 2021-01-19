@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4XQGW2-de Tommy Jeans Damen TJW 3/4 Sleeve Drop Waist Dress Kleid...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

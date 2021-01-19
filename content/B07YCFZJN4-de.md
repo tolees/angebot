@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCFZJN4-de Roccat Kone AIMO Gaming Maus hohe Präzision Optischer Owl-...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

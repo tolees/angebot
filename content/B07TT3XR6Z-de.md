@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TT3XR6Z-de Akku Hülle für iPhone X/XS [4000 mAh] Ultra Dünn Ladehülle...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

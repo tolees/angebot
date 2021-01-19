@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQ2KCSU-de Maxi-Cosi Priori SPS + Kindersitz mit optimalen...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 97.99 EUR
 currency: EUR
 price: 97.99

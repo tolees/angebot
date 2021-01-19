@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000LFXDNK-de Silverline 598492 Gummihammer schwarz 907 g'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

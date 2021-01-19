@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X6F69QX-de HolyHigh Bluetooth Kopfhörer Bluetooth 5.0 Kabellose In...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

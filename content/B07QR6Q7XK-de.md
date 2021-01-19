@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QR6Q7XK-de Madden NFL 20 - Standard Edition - [PlayStation 4]'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

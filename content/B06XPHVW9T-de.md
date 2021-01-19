@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPHVW9T-de Keine Nacht für Niemand Ltd. Digi'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

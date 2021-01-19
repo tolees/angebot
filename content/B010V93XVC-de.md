@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010V93XVC-de The Witcher 3: Wild Hunt - Game of the Year Edition -...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

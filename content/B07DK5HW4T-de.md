@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DK5HW4T-de ✮ Barber Tools ✮ Rasiermesser mit austauschbarer Klingen....'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

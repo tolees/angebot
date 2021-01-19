@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072HHYT2D-de TOM TAILOR Damen Jeanshosen Alexa Straight Jeans mid Stone...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 38.96 EUR
 currency: EUR
 price: 38.96

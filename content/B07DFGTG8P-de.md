@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFGTG8P-de Funko 33877 The Simpsons: Lisa w/Saxophone POP Vinylfigur...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 9.94 EUR
 currency: EUR
 price: 9.94

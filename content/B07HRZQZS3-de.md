@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRZQZS3-de Nokia 7.1 2018 32GB Blau Dual-SIM Android 8 Smartphone mit...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 117.96 EUR
 currency: EUR
 price: 117.96

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001DCQIAA-de Sinfonien 1-4 Karajan Sinfonien-Edition'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 5.25 EUR
 currency: EUR
 price: 5.25

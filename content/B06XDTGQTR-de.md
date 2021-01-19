@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDTGQTR-de Alnatura Bio Tee Beerenzeit 20 Beutel 40 g'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 1.83 EUR
 currency: EUR
 price: 1.83

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001P0LV0W-de taymar® Prospekthalter/Flyerhalter 4 Fächer DIN Lang DL'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 10.29 EUR
 currency: EUR
 price: 10.29

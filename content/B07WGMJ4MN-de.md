@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WGMJ4MN-de SEIKO Automatische Uhr SRPD81K1 schwarz Street'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 213.2 EUR
 currency: EUR
 price: 213.2

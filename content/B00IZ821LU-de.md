@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IZ821LU-de Tassimo Kapseln Jacobs Caffè Crema Mild XL 80...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 16.93 EUR
 currency: EUR
 price: 16.93

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071J8CGMC-de Garmin VIRB 360 - wasserdichte 360-Grad-Kamera mit GPS und...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 388 EUR
 currency: EUR
 price: 388

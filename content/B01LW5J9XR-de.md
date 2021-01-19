@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LW5J9XR-de Grundig CMS 1050 DAB+ BT Kompakt Micro Anlage Bluetooth...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 94.04 EUR
 currency: EUR
 price: 94.04

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBL5JXL-de Huawei P smart 2019 BUNDLE Dual-Sim Smartphone 15 77 cm 6...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 134.9 EUR
 currency: EUR
 price: 134.9

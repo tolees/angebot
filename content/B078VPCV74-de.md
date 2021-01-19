@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078VPCV74-de Sony Alpha 6300 E-Mount Systemkamera 24.2 Megapixel 7 5 cm...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 539.0 EUR
 currency: EUR
 price: 539.0

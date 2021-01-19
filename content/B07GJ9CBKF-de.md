@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GJ9CBKF-de riverso Herren Kapuzenpullover Kapuzensweater Hoodie...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

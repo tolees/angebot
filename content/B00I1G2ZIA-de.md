@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I1G2ZIA-de Jil Sander Evergreen femme/woman Eau de Toilette...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 21.5 EUR
 currency: EUR
 price: 21.5

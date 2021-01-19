@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009NFGI5Y-de Mattel Games Y9598 - Scrabble Original Wörterspiel und...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 20.59 EUR
 currency: EUR
 price: 20.59

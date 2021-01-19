@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2XNHPM-de New Balance Herren 574v2 Core Sneaker Blau Navy 37.5 EU'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 34.93 EUR
 currency: EUR
 price: 34.93

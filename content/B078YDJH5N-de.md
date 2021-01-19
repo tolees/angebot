@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078YDJH5N-de SLS3 Triathlon Einteiler Herren | FRT 2.0 Trisuit | 2...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 71.19 EUR
 currency: EUR
 price: 71.19

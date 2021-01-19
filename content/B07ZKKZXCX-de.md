@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZKKZXCX-de INPHIC Bluetooth-Maus Multi-Device Silent wiederaufladbare...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

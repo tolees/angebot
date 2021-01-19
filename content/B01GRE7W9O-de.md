@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GRE7W9O-de Logitech C925E Business Webcam mit 1080p und integrierter...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 56.0 EUR
 currency: EUR
 price: 56.0

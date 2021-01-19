@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0014GQZTO-de Bosch Professional Diamant-Dosensenker mit Power-Change-...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

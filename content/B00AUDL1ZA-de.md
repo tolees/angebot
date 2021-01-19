@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AUDL1ZA-de One Piece - Box 6: Season 6 Episoden 163-195 [6 DVDs]'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 38.24 EUR
 currency: EUR
 price: 38.24

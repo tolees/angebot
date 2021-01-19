@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMD4QQH-de PLAYMOBIL Magic 70096 Beautysalon mit Perlenschatulle Ab 4...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 18.33 EUR
 currency: EUR
 price: 18.33

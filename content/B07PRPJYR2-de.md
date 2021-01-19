@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRPJYR2-de Garmin Instinct – wasserdichte Sport-Smartwatch mit...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 188.0 EUR
 currency: EUR
 price: 188.0

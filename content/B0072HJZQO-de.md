@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0072HJZQO-de Inter Link 13500020 Regal weiß Bücherregal Wandregal...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

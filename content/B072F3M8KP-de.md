@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072F3M8KP-de Funko 12384 POP Vinylfigur: My Hero Academia: Ochako'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

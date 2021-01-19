@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007JTPLB8-de BaByliss 6614E Profi-Haartrockner Pro Express Ionic 2300 Watt'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

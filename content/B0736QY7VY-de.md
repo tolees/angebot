@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0736QY7VY-de ALPINA Herren JSP 3.0 Vest Rückenprotektor Black/White XXL'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 70.2 EUR
 currency: EUR
 price: 70.2

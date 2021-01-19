@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPS562-de Funko 39697 POP Vinyl: Dragonball Z S6: Vegeta Sammelbares...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

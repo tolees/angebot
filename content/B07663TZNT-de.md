@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07663TZNT-de CAMELBAK Trinkflasche Chute Mag 750 ml sea glass'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 13.52 EUR
 currency: EUR
 price: 13.52

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017EW5TG6-de ORICO Bluetooth 4.0 Adapter Highspeed USB Bluetooth Dongle...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

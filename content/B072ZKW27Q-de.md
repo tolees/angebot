@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072ZKW27Q-de Augsburger Puppenkiste - Klassiker Kollektion [5 DVDs]'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 13.93 EUR
 currency: EUR
 price: 13.93

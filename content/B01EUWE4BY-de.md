@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EUWE4BY-de Duschdas Duschgel für ein besseres Gefühl mit...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 3.91 EUR
 currency: EUR
 price: 3.91

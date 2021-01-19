@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XX7TNVZ-de Premium Messerschärfer Schleifstein Körnung 1000/6000....'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 27.97 EUR
 currency: EUR
 price: 27.97

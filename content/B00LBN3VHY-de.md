@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LBN3VHY-de Ice-Watch - ICE glam pastel Aqua - Women s wristwatch with...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 53.77 EUR
 currency: EUR
 price: 53.77

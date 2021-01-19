@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QND4VZ6-de Samsung MU-PA500R/EU Portable SSD T5 500 GB USB 3.1...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 77.79 EUR
 currency: EUR
 price: 77.79

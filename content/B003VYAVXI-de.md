@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003VYAVXI-de Villeroy & Boch Toy s Delight Spieluhr "Weihnachtsbaum"...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 89.9 EUR
 currency: EUR
 price: 89.9

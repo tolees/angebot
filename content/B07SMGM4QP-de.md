@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SMGM4QP-de SS&LL Cubo de basura del Pedal Papelera de Acero...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

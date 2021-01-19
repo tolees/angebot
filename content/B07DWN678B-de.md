@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DWN678B-de iMangoo Dash Ladegerät 5V 4A Dash Ladegerät Schnelladapter...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 15.88 EUR
 currency: EUR
 price: 15.88

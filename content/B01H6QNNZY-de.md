@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H6QNNZY-de Kitchenaid 5KSMPRA Optionales Zubehör für alle KitchenAid...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

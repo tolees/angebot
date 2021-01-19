@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085CDQ2BB-de Adeept Spider Robot Quadruped Robot Kit für Raspberry Pi...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GJG8XPM-de Acer TravelMate X3410 TMX3410-MG-50LB 35 6 cm 14 Zoll...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 356 EUR
 currency: EUR
 price: 356

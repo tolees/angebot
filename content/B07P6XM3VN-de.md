@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6XM3VN-de Funko 41474 Action Figur: Dark Crystal - Aughra...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

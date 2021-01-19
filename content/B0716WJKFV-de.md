@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0716WJKFV-de BIRKENSTOCK Damen Madrid Big Buckle Pantoletten Braun...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 76.89 EUR
 currency: EUR
 price: 76.89

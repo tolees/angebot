@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJ4S3Y8-de OnePlus 7T Smartphone Frosted Silver | 8 GB RAM + 128 GB...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 499.32 EUR
 currency: EUR
 price: 499.32

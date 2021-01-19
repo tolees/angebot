@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UH9OSX4-de Bose ® Companion 50 Multimedia Lautsprechersystem schwarz'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 309.0 EUR
 currency: EUR
 price: 309.0

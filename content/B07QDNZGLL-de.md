@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QDNZGLL-de Funko 43533 POP Vinyl TV: Walking Dead-Dog The Sammelbares...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7VDTYX-de Orzly Tastatur Maus Set Gaming RX250 4 in 1 PC Pack Combo...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 36.11 EUR
 currency: EUR
 price: 36.11

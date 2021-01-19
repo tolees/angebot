@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WKFJX84-de Color de bronce Hombres Mujeres Anillo de salto Abrir y...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

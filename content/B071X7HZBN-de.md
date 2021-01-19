@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071X7HZBN-de POP Television: Bob Ross'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X0Y1B2O-de Funko 5897 S1 No POP Vinylfigur Mulan Multi Standard'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

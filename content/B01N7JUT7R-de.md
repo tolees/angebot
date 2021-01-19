@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7JUT7R-de Bref Power Kalk und Schmutz Reiniger 750 ml'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 1.9 EUR
 currency: EUR
 price: 1.9

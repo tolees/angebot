@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MDSJKDU-de VOVEES Athena Serum Gesicht Falten Hyaluronsäure Ultrapure...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 26.18 EUR
 currency: EUR
 price: 26.18

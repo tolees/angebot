@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0018LMKXK-de Nicht Von Dieser Welt/Re-release + Bonus'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 5.26 EUR
 currency: EUR
 price: 5.26

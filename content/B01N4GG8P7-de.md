@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4GG8P7-de Corsair K95 RGB Platinum Mechanische Gaming Tastatur...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0772WCTYY-de Sluban M38-70128B Pat and Mat at The Workbank Mehrfarbig'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 7.63 EUR
 currency: EUR
 price: 7.63

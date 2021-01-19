@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PK6WLF6-de HP 250 G7 15 6 Zoll / FHD Business Laptop Intel Core...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

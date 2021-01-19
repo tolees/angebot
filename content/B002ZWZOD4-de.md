@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002ZWZOD4-de Odlo Damen Traininghose X-Warm Schwarz black 15000 Gr.M'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 34.11 EUR
 currency: EUR
 price: 34.11

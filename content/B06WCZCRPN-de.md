@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WCZCRPN-de Playmobil 9243 - Berk'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 86.94 EUR
 currency: EUR
 price: 86.94

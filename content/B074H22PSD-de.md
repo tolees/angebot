@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074H22PSD-de Merry Style Damen Leggings 3/4 aus Viskose MS10-144 Schwarz L'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

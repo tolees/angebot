@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CDQQ5VD-de SVITA T20 grau Metall Mülleimer Treteimer Abfalleimer 20...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

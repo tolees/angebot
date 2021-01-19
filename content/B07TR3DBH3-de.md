@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TR3DBH3-de Clarks Damen Orinoco Strap Slingback Sandalen Schwarz...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 61.74 EUR
 currency: EUR
 price: 61.74

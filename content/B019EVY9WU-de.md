@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019EVY9WU-de Mobicool FR40 elektrische Kompressor-Kühlbox mit 38 Liter...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 258.81 EUR
 currency: EUR
 price: 258.81

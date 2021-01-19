@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076P7QJ2R-de Alicemall SUS304 Edelstahl Küchen Hängeleiste Bad...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

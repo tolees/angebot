@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9FJNTW-de Fire HD 10-Tablet 1080p Full HD-Display 64 GB Schwarz mit...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 92.6 EUR
 currency: EUR
 price: 92.6

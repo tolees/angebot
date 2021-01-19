@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ST67HFW-de Hue White & Col. Amb. Sana Wandleuchte schwarz 1500lm...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 135.5 EUR
 currency: EUR
 price: 135.5

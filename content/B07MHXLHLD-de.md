@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MHXLHLD-de Funko 39048 POP Vinyl: Games: Fortnite: Loot Lama...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 8.87 EUR
 currency: EUR
 price: 8.87

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078Y3H7LF-de Remington Barttrimmer Herren Lithium mit abnehmbarer...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 32.49 EUR
 currency: EUR
 price: 32.49

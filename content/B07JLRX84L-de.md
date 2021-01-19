@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLRX84L-de Playmobil 70004 Top Agents Spy Team Underwater Wing bunt'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

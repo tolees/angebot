@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07576QBJV-de Ecco Herren BIOMLITEM Sneaker Schwarz Ombre/Ombre 54780 41 EU'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 87.28 EUR
 currency: EUR
 price: 87.28

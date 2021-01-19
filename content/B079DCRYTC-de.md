@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079DCRYTC-de Skagen Herren Analog Quarz Uhr mit Leder Armband SKW6459'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

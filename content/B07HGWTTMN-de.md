@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HGWTTMN-de AKASO Smart WLAN Kamera HD 1080P IP Überwachungskamera...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

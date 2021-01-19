@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DWBPP4N-de Garmin vívoactive 3 Music Granitblau GPS-Fitness-...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 186.95 EUR
 currency: EUR
 price: 186.95

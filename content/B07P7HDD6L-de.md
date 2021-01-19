@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7HDD6L-de Aigle Herren Alten Leather Sneaker Braun Brown 001 42 EU'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 19.51 EUR
 currency: EUR
 price: 19.51

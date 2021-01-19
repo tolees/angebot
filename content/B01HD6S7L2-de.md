@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HD6S7L2-de Salomon Herren Trail Running Schuhe XA PRO 3D GTX Farbe:...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 130 EUR
 currency: EUR
 price: 130

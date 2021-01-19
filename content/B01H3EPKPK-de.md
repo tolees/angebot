@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H3EPKPK-de Mario Party: Star Rush [3DS]'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

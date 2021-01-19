@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G6HKH2S-de Remington Elektrischer Rasierer Herren R9 +Bart-...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 52.49 EUR
 currency: EUR
 price: 52.49

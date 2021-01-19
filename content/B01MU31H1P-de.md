@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MU31H1P-de Sony Digitalkamera DSC-HX350 Bridge-Kamera mit 50-fach...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 286.99 EUR
 currency: EUR
 price: 286.99

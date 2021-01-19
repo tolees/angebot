@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FK3VRSF-de Diamond Mangofrüchte in Scheiben leicht gezuckert 425 g'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

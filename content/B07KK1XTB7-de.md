@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK1XTB7-de Under Armour Unisex – Erwachsene Patterson Backpack...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 13.11 EUR
 currency: EUR
 price: 13.11

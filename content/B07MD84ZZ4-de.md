@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MD84ZZ4-de Akkuschrauber GOXAWEE 12V Akku Bohrschrauber mit 100...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 57.98 EUR
 currency: EUR
 price: 57.98

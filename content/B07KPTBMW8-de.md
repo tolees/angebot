@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPTBMW8-de Funko 37862 POP Vinyl: BTS: Jin Sammelbares Spielzeug...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 9.39 EUR
 currency: EUR
 price: 9.39

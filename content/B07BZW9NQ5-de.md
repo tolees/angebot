@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZW9NQ5-de Hasbro Gaming E2420100 - Schnapp n Happen Familienspiel'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 11.45 EUR
 currency: EUR
 price: 11.45

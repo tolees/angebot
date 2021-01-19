@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H5FZ3D2-de SEVERIN SV 2447 Sous-Vide Garer 6 L Fassungsvermögen Timer...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

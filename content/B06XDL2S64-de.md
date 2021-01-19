@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDL2S64-de Hasbro Hanazuki B8256EU4 - MoodGleam Farben-elektronisches...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007VUWUQY-de ECCO Damen Offroad Sport- & Outdoor Sandalen Blau...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 55.28 EUR
 currency: EUR
 price: 55.28

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMD494D-de Playmobil 70052 City Life Rettungs-Balance-Roller bunt'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 5.25 EUR
 currency: EUR
 price: 5.25

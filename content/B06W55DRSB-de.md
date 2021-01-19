@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06W55DRSB-de Star Trek - The Next Generation The Complete Series [Blu-ray]'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 47.59 EUR
 currency: EUR
 price: 47.59

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013JF8DVK-de Kitekat Katzenfutter Nassfutter Klassische Auswahl in...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XM0XWUA-de Polaroid ZIP Handydrucker mit ZINK Zero tintenfreier...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KM2ZLMV-de Samsung C32JG51FD 81 28 cm 32 Zoll Curved Monitor 16:9...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

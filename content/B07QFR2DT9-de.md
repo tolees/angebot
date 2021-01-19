@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QFR2DT9-de Westmark Wasserkaraffe mit Infuser/Fruchteinsatz...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 18.66 EUR
 currency: EUR
 price: 18.66

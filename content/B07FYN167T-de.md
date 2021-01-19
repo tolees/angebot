@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYN167T-de Scuderia Ferrari Herren Multi Zifferblatt Quarz Uhr mit...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 126.97 EUR
 currency: EUR
 price: 126.97

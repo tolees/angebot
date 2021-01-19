@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0134TI0AU-de Unbekannt Creative Converting 16 Stück 3-lagig Lunch-...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 1.12 EUR
 currency: EUR
 price: 1.12

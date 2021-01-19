@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y4S8QKQ-de ACEPC T11 Mini-PC Windows 10 Pro 4GB DDR3/ 64GB eMMC/...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

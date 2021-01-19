@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSK2GX4-de Yazubi Cargo Hose Männer Jayden - Schwarze Lange Cargohose...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

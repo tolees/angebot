@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0187RFKQ6-de FMD Möbel 291-001 Tower Drehregal Holz sandeiche 34 x 34 x...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 36.9 EUR
 currency: EUR
 price: 36.9

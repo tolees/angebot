@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTV80T9-de Neff TBD1676N / T16BD76N0 / Autarkes Kochfeld /...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 284.98 EUR
 currency: EUR
 price: 284.98

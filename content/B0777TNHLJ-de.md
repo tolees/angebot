@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0777TNHLJ-de Pop Royal Family Prince William Vinyl Figure'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

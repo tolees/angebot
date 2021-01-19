@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001RQ27VQ-de Cramer Reparatur-Lackstift Email Acryl Keramik -...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 9.7 EUR
 currency: EUR
 price: 9.7

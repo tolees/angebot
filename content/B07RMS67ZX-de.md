@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMS67ZX-de HP Pavilion 595-p0020ng Desktop PC AMD Ryzen 7 16 GB DDR4...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 708 EUR
 currency: EUR
 price: 708

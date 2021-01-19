@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LLGWCOS-de Kitchen Craft Wasserkocher Living Nostalgia 1 4l in...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 19.66 EUR
 currency: EUR
 price: 19.66

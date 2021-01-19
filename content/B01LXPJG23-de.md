@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXPJG23-de Tado Smartes Heizkörper-Thermostat Zusatzprodukt für...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 61.0 EUR
 currency: EUR
 price: 61.0

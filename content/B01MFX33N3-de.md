@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MFX33N3-de Te Tonic - 6 Gin Tonic Infusions Aroma Beuteln Botanicals...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

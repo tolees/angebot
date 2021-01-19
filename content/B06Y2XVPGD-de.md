@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2XVPGD-de New Balance Herren 574v2 Core Sneaker Rot Burgundy 45 EU'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 38.23 EUR
 currency: EUR
 price: 38.23

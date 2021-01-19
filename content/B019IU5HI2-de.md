@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019IU5HI2-de KLIM Wind Laptop Kühler - Leistungsstark Wie Kein Anderer...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 49.97 EUR
 currency: EUR
 price: 49.97

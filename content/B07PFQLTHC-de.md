@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFQLTHC-de Dickie Toys 203713012 Iveco Daily Ambulance Krankenwagen...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 7.47 EUR
 currency: EUR
 price: 7.47

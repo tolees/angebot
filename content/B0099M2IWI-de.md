@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0099M2IWI-de Casio Collection Herren-Armbanduhr AE 1200WH 1AVEF'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 17.54 EUR
 currency: EUR
 price: 17.54

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B819VMQ-de SteelSeries Arctis Pro Wireless – Drahtlos Gaming-Headset...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 277.11 EUR
 currency: EUR
 price: 277.11

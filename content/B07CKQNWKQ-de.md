@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CKQNWKQ-de WIN.MAX Dartpfeile 12 Stück Steel Darts Pfeile Set 24...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 12.3 EUR
 currency: EUR
 price: 12.3

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CDK41VS-de Bluetooth Kopfhörer In Ear Kopfhörer Kabellos mit HiFi...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

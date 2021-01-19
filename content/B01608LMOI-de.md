@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01608LMOI-de Playmobil 6971 Schmück Pony Schmetterling'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

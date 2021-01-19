@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PLBKX7P-de Filofax Kalendereinlage Personal 1 Woche auf 2 Seiten...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

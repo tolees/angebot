@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRXBPMB-de Lenovo Tab E7 17 7 cm 7 Zoll WSVGA Touch Tablet-PC...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 47.8 EUR
 currency: EUR
 price: 47.8

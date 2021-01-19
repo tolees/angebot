@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHDDDHJ-de HUAWEI P20 Pro Smartphone 15 5 cm 6 1 Zoll 40/20/8 MP...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 526.25 EUR
 currency: EUR
 price: 526.25

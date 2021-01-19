@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001NYXXVU-de KS Tools 911.1584 1/2" 12-kant-Stecknuss 24mm'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 4.82 EUR
 currency: EUR
 price: 4.82

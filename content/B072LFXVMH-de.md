@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072LFXVMH-de Carvapet rutschfeste Küchenmatte Rückseite aus Gummi...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

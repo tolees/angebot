@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JXRFJIO-de LECHUZA CUBICO Premium 40 Taupe Hochglanz Hochwertiger...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 105.68 EUR
 currency: EUR
 price: 105.68

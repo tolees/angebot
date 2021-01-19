@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WRPFTFH-de Swarovski Sparkling Dance Round Halskette für Frauen'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 65.85 EUR
 currency: EUR
 price: 65.85

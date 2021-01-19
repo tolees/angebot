@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMN4NJD-de L.O.L. Surprise! 559764E7C Amazing Surprise mit über 70...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

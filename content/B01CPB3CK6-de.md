@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CPB3CK6-de Tomorrow`s Kitchen bislang Vacu Vin 46703606...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 3.59 EUR
 currency: EUR
 price: 3.59

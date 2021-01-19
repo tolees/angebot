@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKJKCZM-de Philips HR2382/15 Pastamaker 200 W vollautomatische...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 162.99 EUR
 currency: EUR
 price: 162.99

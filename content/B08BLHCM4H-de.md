@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BLHCM4H-de LIGHTAILING Licht-Set Für Technic Ducati Panigale V4 R...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

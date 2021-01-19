@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CXXBTST-de Samsung MB-ME32GA/EU EVO Select 32 GB microSDHC UHS-I U1...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

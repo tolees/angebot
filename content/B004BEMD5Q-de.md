@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004BEMD5Q-de KabelDirekt - 4K HDMI Kabel - 2m - kompatibel mit HDMI...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

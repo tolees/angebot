@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QSED8JM-de Tuxedo'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 5.73 EUR
 currency: EUR
 price: 5.73

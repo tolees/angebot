@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QM4WB28-de Ravensburger 29835 - Mini Mandala-Designer Frozen'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 4.91 EUR
 currency: EUR
 price: 4.91

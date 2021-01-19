@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZNLYJX-de Akku Handkreissäge TECCPO 18V 4.0Ah Akku 1 Std....'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 125.99 EUR
 currency: EUR
 price: 125.99

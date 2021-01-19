@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QB1JYQH-de HERZ KRAFT WERKE Deluxe Edition'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 8.24 EUR
 currency: EUR
 price: 8.24

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M2XPWJF-de JBL E55BT Over Ear Bluetooth Kopfhörer - Wireless...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

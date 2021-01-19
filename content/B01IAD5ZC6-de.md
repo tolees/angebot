@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IAD5ZC6-de Seagate Backup Plus HUB 8 TB externe Festplatte mit 2-fach...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 133.55 EUR
 currency: EUR
 price: 133.55

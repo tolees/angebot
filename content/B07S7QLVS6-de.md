@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7QLVS6-de HP ENVY x360 13-ar0205ng 13 3 Zoll / Full HD IPS Touch...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 545.0 EUR
 currency: EUR
 price: 545.0

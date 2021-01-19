@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I9BVMTO-de Swarovski Symbolic Evil Eye Armreif für Frauen blaues...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

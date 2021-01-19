@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9GDFRW-de Sony SF-G128T SD-Speicherkarte 128 GB UHS-II SD Tough G Serie'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

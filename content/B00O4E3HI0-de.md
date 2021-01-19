@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O4E3HI0-de Playmobil 6153 - Strand-Shooting'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XNTX8TL-de S&R Kreissägeblatt 160mm x 20mm x 2 2 mm"Wood Craft"...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

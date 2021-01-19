@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKWPRSS-de Playmobil 70041 - Astrid mit Fluganzug und Nimmersatt'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 3.97 EUR
 currency: EUR
 price: 3.97

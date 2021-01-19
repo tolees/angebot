@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZL4GF2L-de Panasonic TX-39GW334 LED-TV 39 Zoll 98 cm HD Fernseher...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 257.19 EUR
 currency: EUR
 price: 257.19

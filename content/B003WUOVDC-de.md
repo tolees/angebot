@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003WUOVDC-de Deuter Rain Cover I Regenhülle 20-35 L'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 9.32 EUR
 currency: EUR
 price: 9.32

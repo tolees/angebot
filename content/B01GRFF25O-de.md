@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GRFF25O-de WD 16 TB My Cloud Pro PR2100 Pro Serie 2-Bay Network...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 360.0 EUR
 currency: EUR
 price: 360.0

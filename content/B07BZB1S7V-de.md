@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZB1S7V-de AOC AGON AG352UCG6 88 9 cm 35 Zoll Curved Monitor HDMI USB...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 769.0 EUR
 currency: EUR
 price: 769.0

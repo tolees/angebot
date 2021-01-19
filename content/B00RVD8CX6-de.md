@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RVD8CX6-de Original Album Classics'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 7.84 EUR
 currency: EUR
 price: 7.84

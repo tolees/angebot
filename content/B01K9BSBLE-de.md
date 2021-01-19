@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K9BSBLE-de Hugo BOSS Herren-Armbanduhr 1513440 Stahl/Grau'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 182.9 EUR
 currency: EUR
 price: 182.9

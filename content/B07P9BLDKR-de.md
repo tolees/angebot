@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P9BLDKR-de Amazon Echo 3. Generation smarter Lautsprecher mit Alexa...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 53.6 EUR
 currency: EUR
 price: 53.6

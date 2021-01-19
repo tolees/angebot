@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015XQ6OQY-de ECCO Damen SOFT7W Sneakers Blau 1038marine 38 EU'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

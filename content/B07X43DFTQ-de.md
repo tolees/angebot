@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X43DFTQ-de Lenovo Chromebook C340 Laptop 29 5 cm 11 6 Zoll 1366x768...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 231.57 EUR
 currency: EUR
 price: 231.57

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004SQSRSE-de Zassenhaus Stirnholz Braun 45 x 30 x 4 5 cm'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 29.23 EUR
 currency: EUR
 price: 29.23

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VRANHW-de Hama Fotoalbum 28 x 24 cm 50 schwarze Seiten 25 Blatt mit...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 7.23 EUR
 currency: EUR
 price: 7.23

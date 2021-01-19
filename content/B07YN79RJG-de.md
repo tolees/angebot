@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YN79RJG-de AOC Gaming 24G2U5/BK 60 cm 23 8 Zoll Monitor FHD HDMI...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

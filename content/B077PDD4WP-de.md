@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077PDD4WP-de Hasbro Gaming 98936398 - Hippo Flipp Kinderspiel'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073P7KZNL-de Kamik Unisex-Kinder SOUTHPOLE4 Schneestiefel Schwarz Black...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 42.09 EUR
 currency: EUR
 price: 42.09

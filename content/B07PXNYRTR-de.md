@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PXNYRTR-de Ravensburger 14973 Disney Museum'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

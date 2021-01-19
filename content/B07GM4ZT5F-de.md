@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GM4ZT5F-de Cudy GS105D 5 Port LAN Switch Gigabit Gigabit Switch...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

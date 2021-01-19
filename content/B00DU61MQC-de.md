@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DU61MQC-de Bei Anruf Mord inkl. 2D-Version [3D Blu-ray]'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 11.6 EUR
 currency: EUR
 price: 11.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPK63XL-de Funko 30596 POP Vinyl: Fairy Tail S3: Pantherlily...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

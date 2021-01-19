@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B7HVQO8-de Bosch MUM5 CreationLine Küchenmaschine MUM58020 vielseitig...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 222.0 EUR
 currency: EUR
 price: 222.0

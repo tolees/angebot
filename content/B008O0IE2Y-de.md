@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008O0IE2Y-de Canon Mount Adapter EF-EOS M schwarz'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 91.28 EUR
 currency: EUR
 price: 91.28

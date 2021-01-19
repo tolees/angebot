@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ERM5RKE-de The First Avenger: Civil War'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

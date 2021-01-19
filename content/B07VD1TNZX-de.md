@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VD1TNZX-de Kids Bay Walkie Talkie Kinder Spielzeuge Funkgeräte 8...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

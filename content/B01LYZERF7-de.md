@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYZERF7-de Brennenstuhl Comfort-Line Plus Steckdosenleiste 6-fach...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

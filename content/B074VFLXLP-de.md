@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074VFLXLP-de Schleich 42415 Horse Club Wohnwagen für geheime Club-...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

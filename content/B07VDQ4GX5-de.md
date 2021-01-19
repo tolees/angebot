@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDQ4GX5-de toptrek Fahrradrucksack 20L Fahrrad Rucksäcke mit...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

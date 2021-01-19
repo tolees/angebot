@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRG6DSY-de Ultimate Ears BOOM 3 Bluetooth Lautsprecher wasserdichter...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

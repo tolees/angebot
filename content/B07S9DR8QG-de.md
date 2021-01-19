@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9DR8QG-de Logitech G703 LIGHTSPEED kabellose Gaming-Maus mit HERO...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 73.91 EUR
 currency: EUR
 price: 73.91

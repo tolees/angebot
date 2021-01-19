@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZNRVFQ-de TOM TAILOR Herren Kapuzen Jacke Sportjacke Grau Light...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 12.57 EUR
 currency: EUR
 price: 12.57

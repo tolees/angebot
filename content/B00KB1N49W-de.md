@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KB1N49W-de Casio Damen Analog Quarz mit Edelstahl Armbanduhr LTP...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 31.85 EUR
 currency: EUR
 price: 31.85

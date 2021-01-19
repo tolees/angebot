@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005Q89JEY-de Senseo Pads Extra Strong 80 Kaffeepads 5er Pack 5 x 16...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 7.45 EUR
 currency: EUR
 price: 7.45

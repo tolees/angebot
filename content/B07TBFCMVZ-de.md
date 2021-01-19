@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TBFCMVZ-de HolyHigh Bluetooth Sport Kopfhörer Bluetooth 5.0 Kabellose...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

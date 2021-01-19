@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0SLO42-de Cullmann Neomax Reisestativ mit geringem Packmaß 28 5 cm...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 36.96 EUR
 currency: EUR
 price: 36.96

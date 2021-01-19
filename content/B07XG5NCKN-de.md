@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XG5NCKN-de POP! Disney: Frozen 2 - Bruni'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 11.02 EUR
 currency: EUR
 price: 11.02

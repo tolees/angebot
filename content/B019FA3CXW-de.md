@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019FA3CXW-de Star Wars: Das Erwachen der Macht'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 2.56 EUR
 currency: EUR
 price: 2.56

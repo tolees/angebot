@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PY5BFHL-de LG 60UM71007LB 151 cm 60 Zoll Fernseher UHD Triple Tuner...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 529.0 EUR
 currency: EUR
 price: 529.0

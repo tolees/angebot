@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FY4CP9T-de Jacobs Kaffeebohnen Barista Editions Crema Mild 1 kg...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 8.64 EUR
 currency: EUR
 price: 8.64

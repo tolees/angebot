@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VDAKO2-de Kopp 565656001 Nautic Universalschalter Aus-und...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

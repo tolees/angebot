@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008OW2VW6-de Gimi Modular 4 Turm-Wäscheständer aus Stahl 40 m Trockenlänge'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 35.39 EUR
 currency: EUR
 price: 35.39

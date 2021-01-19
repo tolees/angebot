@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002ALSHZC-de SEVERIN Crêpes Maker CM 2198 Inkl. Holz-Teigspatel und...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

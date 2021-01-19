@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07542DNXR-de WISO steuer:Office 2018 für Steuerjahr 2017'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 15.77 EUR
 currency: EUR
 price: 15.77

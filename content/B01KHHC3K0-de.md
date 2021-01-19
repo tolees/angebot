@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KHHC3K0-de Yamaha R-N402D Black MusicCast Netzwerk Receiver mit DAB...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 374.32 EUR
 currency: EUR
 price: 374.32

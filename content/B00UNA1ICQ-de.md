@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UNA1ICQ-de Seagate Expansion Desktop 3 TB externe Festplatte 3.5" USB...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 85.0 EUR
 currency: EUR
 price: 85.0

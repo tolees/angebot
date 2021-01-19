@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVLMHL8-de Emsa N2010800 Travel Mug Waves 0 36 L PA. Grau'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

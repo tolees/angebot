@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N5WGWQT-de Funko 38578 POP Vinyl: Big Bang Theory S2: Howard...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

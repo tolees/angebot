@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GSX1VN8-de Bright Starts June Berry höhenverstellbare Lauflernhilfe...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 47.98 EUR
 currency: EUR
 price: 47.98

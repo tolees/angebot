@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00000JICB-de TOMY Kinderspiel "Pop Up Pirate" Hochwertiges Aktionsspiel...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 11.16 EUR
 currency: EUR
 price: 11.16

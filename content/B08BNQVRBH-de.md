@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BNQVRBH-de Bluetooth Kopfhörer Kabellose Kopfhörer mit Premium...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

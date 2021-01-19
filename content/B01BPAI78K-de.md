@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BPAI78K-de Hugo Boss Bottled Intense Eau De Parfum 100 ml'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 41.5 EUR
 currency: EUR
 price: 41.5

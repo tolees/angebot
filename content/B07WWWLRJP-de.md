@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WWWLRJP-de Sonos One SL All-In-One Smart Speaker Kraftvoller WLAN...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 162.99 EUR
 currency: EUR
 price: 162.99

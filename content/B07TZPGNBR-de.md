@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZPGNBR-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Kylo Ren s...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

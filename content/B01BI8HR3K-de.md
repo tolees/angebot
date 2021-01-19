@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BI8HR3K-de Gigaset E630HX Universal-Mobilteil - IP-Telefon zum...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 88.96 EUR
 currency: EUR
 price: 88.96

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RX7TX3R-de Levi s Damen Perfect Vneck T-Shirt Schwarz Caviar 0003 Medium'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 19.4 EUR
 currency: EUR
 price: 19.4

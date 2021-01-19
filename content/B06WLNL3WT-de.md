@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WLNL3WT-de Hasbro My Little Pony C0677EU4 - Movie Schwimmendes...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 10.23 EUR
 currency: EUR
 price: 10.23

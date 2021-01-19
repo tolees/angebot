@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00S17UAS6-de WMF Gourmet Kräutertopf mit Bewässerungssystem 3-teilig...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 42.25 EUR
 currency: EUR
 price: 42.25

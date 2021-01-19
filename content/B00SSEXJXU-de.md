@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SSEXJXU-de Oac 3cd Slipcase - Wham [3 CD]'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 6.93 EUR
 currency: EUR
 price: 6.93

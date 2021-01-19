@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WVNB6N-de Paco Home Designer Teppich Kurzflor Wohnzimmer Vintage...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 13.2 EUR
 currency: EUR
 price: 13.2

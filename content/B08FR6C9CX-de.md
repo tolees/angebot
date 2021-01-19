@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FR6C9CX-de [3 Bonusgegenstand] Simbans TangoTab 10-Zoll-Tablet 4 GB...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

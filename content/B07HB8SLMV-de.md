@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB8SLMV-de SanDisk Extreme 64 GB microSDXC Memory Card for Action...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

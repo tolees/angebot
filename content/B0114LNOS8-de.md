@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0114LNOS8-de Dell KB216 580-ADHE Mutlimedia Tastatur schwarz QWERTZ'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

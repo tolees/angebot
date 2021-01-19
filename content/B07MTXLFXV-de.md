@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MTXLFXV-de Logitech G432 kabelgebundenes Gaming-Headset 7.1 Surround...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

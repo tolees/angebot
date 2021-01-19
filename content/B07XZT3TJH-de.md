@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XZT3TJH-de Sony Xperia 5 Bundle 6.1” FHD+ HDR OLED 21:9 Display 6GB...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 603.55 EUR
 currency: EUR
 price: 603.55

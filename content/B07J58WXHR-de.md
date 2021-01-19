@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J58WXHR-de Medion E4273 35 5 cm 14 Zoll Full HD Touch Convertible...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 207.0 EUR
 currency: EUR
 price: 207.0

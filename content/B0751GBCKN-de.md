@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0751GBCKN-de Garmin vívoactive 3 GPS-Fitness-Smartwatch -...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

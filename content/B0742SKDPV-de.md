@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0742SKDPV-de Russell Hobbs Popcornmaschine Fiesta Heißluft Popcorn...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5QNY1B-de Contra: Rogue Corps für Playstation 4 USK ab 16 Jahren...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 9.01 EUR
 currency: EUR
 price: 9.01

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002SSZ7BE-de MTV Unplugged'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

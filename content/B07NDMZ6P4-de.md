@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDMZ6P4-de G-STAR RAW Herren Arctic Expedition Jacke Grau Charcoal...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 94.76 EUR
 currency: EUR
 price: 94.76

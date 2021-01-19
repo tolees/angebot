@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X2X32TM-de Tablet 10 Zoll LNMBBS P30 Android 10.0 5G Wi-Fi Tablet...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 139.98 EUR
 currency: EUR
 price: 139.98

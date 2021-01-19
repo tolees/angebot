@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014UXZMEG-de Dremel Platin Edition 4000 Multifunktionswerkzeug 175W Set...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

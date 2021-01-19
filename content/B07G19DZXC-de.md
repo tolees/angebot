@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G19DZXC-de TomTom Navigationsgerät GO Essential 6 Zoll Stauvermeidung...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007WAYS8G-de Blanco Botton Pro 45/2 Manuell; Müllsystem für die...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 63.2 EUR
 currency: EUR
 price: 63.2

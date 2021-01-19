@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001R8D5AG-de Herlitz 10999753 Schulfüllhalter inkl. Patrone -Für...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

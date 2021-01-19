@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GBS74KF-de HAPPYPO Po-Dusche 2.0 Weiß ersetzt Feuchttücher & Dusch-WC...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 14.21 EUR
 currency: EUR
 price: 14.21

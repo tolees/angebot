@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079TSG6N8-de Strellson Herren Harley 2495 Derbys Schwarz Black 900 41 EU'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 64.48 EUR
 currency: EUR
 price: 64.48

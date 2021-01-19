@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YZ9PCBY-de NIVEA Pflegedusche Love Splash 250 ml erfrischendes...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 1.06 EUR
 currency: EUR
 price: 1.06

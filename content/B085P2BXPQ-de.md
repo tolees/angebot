@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085P2BXPQ-de LG UltraHD 4K LED HDR 3940 x 2160 Radeon FreeSync HDMI...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 349.9 EUR
 currency: EUR
 price: 349.9

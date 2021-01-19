@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WKFLC4Y-de Ajustable 2068 Reloj de metal Correa Correa Pulsera...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 2.13 EUR
 currency: EUR
 price: 2.13

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F9S8DIO-de Eagle Creek Pack-It Original Cube Packtasche Rot red fire...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 8.88 EUR
 currency: EUR
 price: 8.88

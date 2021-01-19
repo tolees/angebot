@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C7A3W7S-de Sigma Mount Converter MC-11 für Global Vision Produkte mit...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 225.99 EUR
 currency: EUR
 price: 225.99

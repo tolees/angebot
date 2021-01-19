@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XDYNPE8-de Tommy Hilfiger Damen DANNY BELT Gürtel Schwarz MASTERS...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 31.88 EUR
 currency: EUR
 price: 31.88

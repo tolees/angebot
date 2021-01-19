@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMBCFPC-de Funko 44823 POP TV: Game of Thrones-Crystal Night King...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

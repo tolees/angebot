@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B8V5DCJ-de JBL GO 2 kleine Musikbox - Wasserfester portabler...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

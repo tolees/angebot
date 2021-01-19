@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0009JI5RW-de ZWILLING Schneiderschere Stoffschere Länge: 21 cm...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 22.3 EUR
 currency: EUR
 price: 22.3

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CZYOFAY-de Hasbro Nerf B8086EU4 - N-Strike Elite Mega Mastodon...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 73.6 EUR
 currency: EUR
 price: 73.6

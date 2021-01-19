@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCT6T6Y-de Hasbro Spiele E5804EU4 The Slow Motion Race Game...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 10.24 EUR
 currency: EUR
 price: 10.24

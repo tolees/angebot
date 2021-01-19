@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JM3TC29-de Außen Überwachungskamera 1080P WiFi Kamera Drahtlose...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 49.89 EUR
 currency: EUR
 price: 49.89

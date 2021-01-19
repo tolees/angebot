@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3RN1PV-de Marc O Polo Herren 021010810064 Hose Grün Shadow 425 W...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 44.04 EUR
 currency: EUR
 price: 44.04

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGL4BR4-de fischertechnik Dynamic S Kugelbahn mit Klang - für Kinder...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

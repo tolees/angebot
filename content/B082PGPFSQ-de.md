@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082PGPFSQ-de s.Oliver Herren 130.11.899.12.130.2037840 T-Shirt Blue XL'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 12.44 EUR
 currency: EUR
 price: 12.44

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYWR3LW-de Dolce & Gabbana K Eau de Toilette 100 ml'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

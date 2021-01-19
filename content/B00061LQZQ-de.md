@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00061LQZQ-de D-Link DGS-1024D Gigabit Ethernet Switch 24 Ports...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 85.9 EUR
 currency: EUR
 price: 85.9

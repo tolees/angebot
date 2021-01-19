@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088JYX5N2-de XIDU PhilMac Mini PC Al-Legierung Windows 10 8GB DDR4...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 229.99 EUR
 currency: EUR
 price: 229.99

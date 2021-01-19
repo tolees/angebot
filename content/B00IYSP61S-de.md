@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IYSP61S-de Rekord'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 2.86 EUR
 currency: EUR
 price: 2.86

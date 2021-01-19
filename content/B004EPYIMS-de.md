@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004EPYIMS-de roba Komplettwiegenset Babywiege 40x90cm Holz weiß...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 113.95 EUR
 currency: EUR
 price: 113.95

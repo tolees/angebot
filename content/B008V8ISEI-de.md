@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008V8ISEI-de Villeroy & Boch Toy s Delight Rotes "Breakfast for Two"...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 83.89 EUR
 currency: EUR
 price: 83.89

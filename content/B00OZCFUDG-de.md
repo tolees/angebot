@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OZCFUDG-de Netgear GS752TX 52-Port Gigabit/10G Stackable LAN Switch...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 730.08 EUR
 currency: EUR
 price: 730.08

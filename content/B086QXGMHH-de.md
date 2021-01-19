@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086QXGMHH-de HMY Transparente Florero vidrio Florero hidropónico...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

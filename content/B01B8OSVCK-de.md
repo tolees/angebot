@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B8OSVCK-de DELL KB216 USB QWERTY US International Schwarz Tastatur -...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

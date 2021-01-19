@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMN8FC6-de Nerd Clear Ninja Schwert für Kinder | Schwert & Scheide |...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

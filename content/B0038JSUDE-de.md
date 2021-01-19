@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0038JSUDE-de Playtastic Geduldspiele mit Kugeln: Geduldspiel-Megapack...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

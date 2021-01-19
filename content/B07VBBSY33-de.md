@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBBSY33-de Emporio Armani Herren-Schildarmband Edelstahl EGS2660040'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 49.59 EUR
 currency: EUR
 price: 49.59

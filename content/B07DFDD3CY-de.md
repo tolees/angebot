@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFDD3CY-de Funko 32221 Married w/Children: Peggy POP Vinylfigur Multi'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 5.24 EUR
 currency: EUR
 price: 5.24

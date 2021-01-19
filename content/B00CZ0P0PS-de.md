@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CZ0P0PS-de Verbatim MediaShare Wireless tragbares Streaming-Gerät mit...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 22.01 EUR
 currency: EUR
 price: 22.01

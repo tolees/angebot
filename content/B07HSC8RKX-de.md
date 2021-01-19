@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HSC8RKX-de MSI MPG Z390i Gaming Edge AC LGA 1151 Mainboard DDR4 2X...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 72.13 EUR
 currency: EUR
 price: 72.13

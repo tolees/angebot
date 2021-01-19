@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPR9P74-de GANT Herren ORIGINAL Barstripe Heavy Rugger Poloshirt...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

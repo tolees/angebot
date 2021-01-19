@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHNXK84-de SAMSONITE Checkmate - Laptop Backpack - Double Pocket...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 121.02 EUR
 currency: EUR
 price: 121.02

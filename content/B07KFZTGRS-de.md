@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFZTGRS-de Puma Unisex-Erwachsene Rebound Layup Sd Fur Sneaker Puma...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 40.02 EUR
 currency: EUR
 price: 40.02

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079JFTL73-de Barbie FRH73 - Cooking und Baking Deluxe Küche Spielset...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 41.18 EUR
 currency: EUR
 price: 41.18

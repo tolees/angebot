@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BNMSSM0-de Philips Elektrorasierer Damen SatinShave Advanced...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 30.17 EUR
 currency: EUR
 price: 30.17

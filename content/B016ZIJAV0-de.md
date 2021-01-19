@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016ZIJAV0-de iRobot Roomba 615 Saugroboter mit 3-stufigem...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

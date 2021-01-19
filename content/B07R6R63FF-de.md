@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R6R63FF-de WEB EYEWEAR Herren WE0261 Sonnenbrille Schwarz 60 EU'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 91.0 EUR
 currency: EUR
 price: 91.0

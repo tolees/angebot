@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LRX4W6G-de Dymo 1978243 MobileLabeler-Etikettendrucker mit...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 90.54 EUR
 currency: EUR
 price: 90.54

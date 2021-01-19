@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGBSN21-de PUMA Herren Boxershort Limited Statement Edition 6er Pack...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

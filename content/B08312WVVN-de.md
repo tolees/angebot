@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08312WVVN-de NHUAIYINSHUGUOGUANGGAOJINGY Displayport auf HDMI Adapter-...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 2.91 EUR
 currency: EUR
 price: 2.91

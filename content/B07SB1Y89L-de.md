@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SB1Y89L-de OMEN 17-cb0221ng 17 3 Zoll / FHD IPS 144Hz Gaming Laptop...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 600.0 EUR
 currency: EUR
 price: 600.0

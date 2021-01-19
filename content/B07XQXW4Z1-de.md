@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQXW4Z1-de Glück'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 7.36 EUR
 currency: EUR
 price: 7.36

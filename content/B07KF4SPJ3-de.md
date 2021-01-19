@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF4SPJ3-de Levi s Damen 312 Shaping Slim Jeans Grey Horizont 0102 30W...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

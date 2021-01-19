@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071WPGFXR-de yo-kai Watch Jungen Yokai Watch Schlafanzug - Slim Fit - 128'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

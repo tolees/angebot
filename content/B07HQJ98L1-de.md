@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HQJ98L1-de Microsoft Office 2019 Home & Student multilingual | 1 PC...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

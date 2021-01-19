@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGQKPDX-de Tommy Jeans Damen Tjw Waffle Hybrid Longsleeve Sport...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 23.3 EUR
 currency: EUR
 price: 23.3

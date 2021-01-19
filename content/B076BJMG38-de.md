@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076BJMG38-de The Stage Deluxe Edt.'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

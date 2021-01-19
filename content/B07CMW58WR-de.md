@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CMW58WR-de De Longhi Nespresso Vertuo Plus | ENV 155.B...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

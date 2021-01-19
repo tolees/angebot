@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001HUGYE8-de E-Mail für Dich [Special Edition]'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0788BZY9S-de Tommy Hilfiger Damen Bralette Blau Navy Blazer 416 Medium...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 27.96 EUR
 currency: EUR
 price: 27.96

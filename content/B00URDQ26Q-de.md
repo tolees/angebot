@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00URDQ26Q-de Original MANN-FILTER Innenraumfilter FP 2442 –...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 15.22 EUR
 currency: EUR
 price: 15.22

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W69JTH9-de Funko 45312 POP Movies: Devil Wears Prada - Andy Sachs...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YDWRS6-de Maxi-Cosi FamilyFix One i-Size Isofix Basisstation 0-18 kg...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 148.71 EUR
 currency: EUR
 price: 148.71

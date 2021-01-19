@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPKY5XD-de Spyderco Para 3 Taschenmesser Schwarz Klingenlänge: 7 6 cm...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 163.7 EUR
 currency: EUR
 price: 163.7

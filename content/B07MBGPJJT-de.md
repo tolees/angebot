@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MBGPJJT-de Pentel SESF30C-4 Brush Sign Pen Artist - Pinselstift mit...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 11.68 EUR
 currency: EUR
 price: 11.68

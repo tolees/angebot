@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JPYQCVM-de Yoedge iPhone XR Hülle [Ultra Dünn] Schutzhülle Silikon...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

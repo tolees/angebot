@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075S9KRSZ-de Mütze Baumwolle Herren schwarz Made in Germany - Beanie...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

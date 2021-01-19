@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QH7DCZF-de BABY born Surprise 904091 Baby Überraschungsfigur im Kokon...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

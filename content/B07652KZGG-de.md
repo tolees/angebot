@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07652KZGG-de Synology DS218 + 6TB 2 x 3TB WD RED 2 Bay Desktop-NAS-Einheit'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 374.0 EUR
 currency: EUR
 price: 374.0

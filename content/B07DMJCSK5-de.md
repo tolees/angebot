@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DMJCSK5-de Philips Sonicare ProtectiveClean 5100 elektrische...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 101.99 EUR
 currency: EUR
 price: 101.99

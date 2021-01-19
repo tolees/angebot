@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O8LASLS-de Onkyo CS-265 B CD HiFi Minisystem CD Player MP3 Radio 2 x...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 129.24 EUR
 currency: EUR
 price: 129.24

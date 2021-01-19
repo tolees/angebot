@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RVMBS8W-de Funko 40869 POP Rides: Lord of The Rings-Gwaihir w/Gandalf...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9
@@ -26,9 +26,9 @@ Es gibt ein [Funko 40869 POP Rides: Lord of The Rings-Gwaihir w/Gandalf Hobbit S
 
 ℹ️:
 
-- Schauen Sie sich jetzt die anderen Lord of the Rings-Figuren von Funko an! Sammeln Sie alle!
-- Die Figur ist 16 cm groß und wird in einer illustrierten Fensterbox geliefert
 - Von Lord of the Rings, Gwaihir w/ Gandalf, zur stilisierten POP Rides Vinyl-Figur von Funko!
 - Funko POP! ist das Spielzeug des Jahres 2018
+- Schauen Sie sich jetzt die anderen Lord of the Rings-Figuren von Funko an! Sammeln Sie alle!
+- Die Figur ist 16 cm groß und wird in einer illustrierten Fensterbox geliefert
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07RVMBS8W/?tag=tolees0ca-21)

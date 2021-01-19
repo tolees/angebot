@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WWGG85P-de GraviTrax 27590 Starter Set Konstruktionsspielzeug...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

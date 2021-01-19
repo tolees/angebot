@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00006JAPR-de Hama Euro-Netzkabel 2-polig 1 5m gerade Eurostecker auf...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

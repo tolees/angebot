@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BD2CIG2-de Urban Classics Ladies Tech Mesh Leggings Schwarz black 7 M'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 15.52 EUR
 currency: EUR
 price: 15.52

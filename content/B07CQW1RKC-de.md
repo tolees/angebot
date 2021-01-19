@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CQW1RKC-de Potensic GPS Drohne FPV RC Quadrocopter 2K HD Kamera...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

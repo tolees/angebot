@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FN4CL35-de Philips Avent 4-in-1-Babynahrungszubereiter SCF883/01...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 107.99 EUR
 currency: EUR
 price: 107.99

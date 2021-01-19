@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PS1KVD1-de Mini PC Lüfterlos Intel Atom X5-Z8350 Prozessor Quad-Core...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 111.99 EUR
 currency: EUR
 price: 111.99

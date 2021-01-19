@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002SEV2E4-de sodastream 1020195490 Sirup Cola Sugar Free 500 ml...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 3.69 EUR
 currency: EUR
 price: 3.69

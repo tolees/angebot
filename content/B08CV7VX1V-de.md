@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CV7VX1V-de WLAN Repeater 2 4GHz WLAN Verstärker WiFi Extender mit...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 32.98 EUR
 currency: EUR
 price: 32.98

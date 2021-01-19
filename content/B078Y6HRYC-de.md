@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078Y6HRYC-de Regal Schwerlastregal Regal 180x90x45 Steckregal 875kg...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

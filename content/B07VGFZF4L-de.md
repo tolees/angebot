@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGFZF4L-de BERTASCHE Laptoptasche 15.6 Zoll Notebooktasche Schulter...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

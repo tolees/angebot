@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EABSGF0-de Inter Link Sammlervitrine Hängevitrine Wandregal...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

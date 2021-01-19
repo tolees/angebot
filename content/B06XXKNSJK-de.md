@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XXKNSJK-de Philips YKF406-003 996596006068 Original-Fernbedienung für...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 13.84 EUR
 currency: EUR
 price: 13.84

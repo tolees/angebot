@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FK1KPKN-de Hasbro E4161ES2 - Disney Prinzessin Schimmerglanz...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

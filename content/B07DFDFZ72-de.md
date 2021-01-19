@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFDFZ72-de Funko 30695 Full Metal Alchemist: Alphonse POP Vinylfigur...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

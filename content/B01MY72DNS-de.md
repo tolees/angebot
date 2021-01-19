@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MY72DNS-de ÷ Divide Deluxe Edition'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

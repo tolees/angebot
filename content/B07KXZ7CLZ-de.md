@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXZ7CLZ-de AMD Ryzen 7 Prozessor Schwarz Ryzen 7 2700 Max'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

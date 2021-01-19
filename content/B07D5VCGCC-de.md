@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5VCGCC-de Under Armour Herren schnelltrocknende Boxershorts 6inch -...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 25.29 EUR
 currency: EUR
 price: 25.29

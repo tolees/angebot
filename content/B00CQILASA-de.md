@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CQILASA-de UHU 45450 Doppel-Strips Extrem 4 kg 26 mm x 31 mm 16 Stück'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 4.3 EUR
 currency: EUR
 price: 4.3

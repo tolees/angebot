@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D19ZKRU-de Metabo 6.06154.00 KHE 2444 Elektrowerkzeuge Schwarz Grün'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

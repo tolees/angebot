@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRXF7RZ-de Lenovo Tab P10 25 5 cm 10 1 Zoll Full HD IPS Touch Tablet-...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 258.94 EUR
 currency: EUR
 price: 258.94

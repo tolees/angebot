@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079VPPDKV-de Ladeheid Herren Schmale Fliege M 12cm x 6cm Amarant 12cm x...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

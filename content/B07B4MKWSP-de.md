@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4MKWSP-de Rieker Damen Chelsea Boots 75754 Frauen Stiefel...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 34.91 EUR
 currency: EUR
 price: 34.91

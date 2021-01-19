@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0032DB1QE-de Dragonball Z - Box 2/10 Episoden 36-74 [6 DVDs]'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 35.74 EUR
 currency: EUR
 price: 35.74

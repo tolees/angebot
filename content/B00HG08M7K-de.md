@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HG08M7K-de Fossil Damen Analog Quarz Uhr mit Edelstahl Armband ES3545'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 105.2 EUR
 currency: EUR
 price: 105.2

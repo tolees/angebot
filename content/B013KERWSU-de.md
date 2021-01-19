@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013KERWSU-de Unbekannt Creative Converting 5 Dizzy Danglers Sortiert...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 1.45 EUR
 currency: EUR
 price: 1.45

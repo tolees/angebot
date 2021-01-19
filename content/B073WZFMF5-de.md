@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073WZFMF5-de Emporio Armani Herren Chronograph Quarz Smart Watch...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 186.75 EUR
 currency: EUR
 price: 186.75

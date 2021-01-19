@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GWDLLHA-de Dunlop Protective Footwear Purofort Thermo+ full safety...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 68.15 EUR
 currency: EUR
 price: 68.15

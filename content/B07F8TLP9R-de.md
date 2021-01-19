@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F8TLP9R-de Huawei MateBook X Pro 35 31 cm 13 9 Zoll 3K-FullView-...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 776 EUR
 currency: EUR
 price: 776

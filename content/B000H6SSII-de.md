@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000H6SSII-de JBL 61672 Solar-Leuchtstoffröhre Tageslichtröhre für...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 17.37 EUR
 currency: EUR
 price: 17.37

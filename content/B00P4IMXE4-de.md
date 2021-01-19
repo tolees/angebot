@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P4IMXE4-de Tony Bennett & Lady Gaga - Cheek to Cheek - Live! [Blu-ray]'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 3.43 EUR
 currency: EUR
 price: 3.43

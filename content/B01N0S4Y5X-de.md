@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0S4Y5X-de Bosch Professional Akku-Bohrhammer GBH 18 V-26 F 2 x 5 0...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 425.0 EUR
 currency: EUR
 price: 425.0

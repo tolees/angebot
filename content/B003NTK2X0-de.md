@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003NTK2X0-de EuroTrail Grillabdeckung für 3-flamm-Grill'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 15.52 EUR
 currency: EUR
 price: 15.52

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N77C6KY-de Lexar High-Performance 633x 512GB microSDXC UHS-I Karte'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 57.95 EUR
 currency: EUR
 price: 57.95

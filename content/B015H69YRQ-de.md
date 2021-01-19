@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015H69YRQ-de Metallbaukasten CLAAS LEXION 770 Mähdrescher 2356 Teile...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

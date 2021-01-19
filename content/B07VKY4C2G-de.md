@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKY4C2G-de Ariel Color Flüssigwaschmittel Farbschutz 2 2 l 1er Pack 1...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 7.04 EUR
 currency: EUR
 price: 7.04

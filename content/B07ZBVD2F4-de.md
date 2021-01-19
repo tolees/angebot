@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZBVD2F4-de Diesel Herren Chronograph Quarz Uhr mit Edelstahl Armband...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 132.51 EUR
 currency: EUR
 price: 132.51

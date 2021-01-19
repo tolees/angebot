@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000OWNBMI-de Zeller Kinder-Regal mit Vlies Box Safari MDF Dekor 23.5 x...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99
