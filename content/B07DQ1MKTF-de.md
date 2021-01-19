@@ -1,30 +1,33 @@
 ---
 layout: post
-title: 'LG SPK8 Rücklautsprecher Set 2.0  140W f mit 29.65 % Rabatt'
-date: 2020-02-11 21:43:50
-image: 'https://m.media-amazon.com/images/I/31yRUTuUucL._AC_._SL200_.jpg'
+title: 'LG Electronics SPK8 Lautsprecher-Systeme mit 40.72 % Rabatt'
+date: 2021-01-19 16:06:25
+image: 'https://m.media-amazon.com/images/I/31yRUTuUucL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DQ1MKTF-de LG SPK8 Rücklautsprecher Set 2.0 140W für SK10Y und SK9Y...'
+slug: 'B07DQ1MKTF-de LG Electronics SPK8 Lautsprecher-Systeme Schwarz'
 tags: [ tole.es ]
-actualPrice: 125.92 EUR
+actualPrice: 106.12 EUR
 currency: EUR
-price: 125.92
+price: 106.12
 comparePrice: 179.0 EUR
-prodname: 'LG SPK8 Rücklautsprecher Set 2.0  140W für SK10Y und SK9Y  Schwarz'
+prodname: 'LG Electronics SPK8 Lautsprecher-Systeme Schwarz'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07DQ1MKTF/?tag=tolees0ca-21'
-descuento: '29.65'
-average: '130.895'
+descuento: '40.72'
+average: '118.50750000000001'
 ---
 
-Sie können [LG SPK8 Rücklautsprecher Set 2.0  140W für SK10Y und SK9Y  Schwarz](https://www.amazon.de/dp/B07DQ1MKTF/?tag=tolees0ca-21) mit Preis 125.92 EUR (original: 179.0 EUR) 29.65 % Rabatt hier:
+Sie können [LG Electronics SPK8 Lautsprecher-Systeme Schwarz](https://www.amazon.de/dp/B07DQ1MKTF/?tag=tolees0ca-21) mit Preis 106.12 EUR (original: 179.0 EUR) 40.72 % Rabatt hier:
 
-[![LG SPK8 Rücklautsprecher Set 2.0  140W f](https://m.media-amazon.com/images/I/31yRUTuUucL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07DQ1MKTF/?tag=tolees0ca-21)
+[![LG Electronics SPK8 Lautsprecher-Systeme](https://m.media-amazon.com/images/I/31yRUTuUucL._SL200_.jpg)](https://www.amazon.de/dp/B07DQ1MKTF/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Kabellose Verbindung zur Soundbar
+- Kompatibel mit den LG Soundbars SK10Y und SK9Y
+- 2.0 140 Watt Rücklautsprecher Set
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07DQ1MKTF/?tag=tolees0ca-21)
