@@ -1,25 +1,25 @@
 ---
 layout: post
-title: '16.74 % rabat auf Drahtloser Controller für PlayStation 4 '
-date: 2021-01-18 06:48:46
+title: '19.52 % rabat auf Drahtloser Controller für PlayStation 4 '
+date: 2021-01-19 07:23:31
 image: 'https://m.media-amazon.com/images/I/41I5C5mb-NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B0892MVJSB-de'
-actualPrice: 25.81 EUR
+actualPrice: 24.95 EUR
 currency: EUR
-price: 25.81
+price: 24.95
 comparePrice: 31.0 EUR
 prodname: 'Drahtloser Controller für PlayStation 4  Camouflage Red  titanium gold blue'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B0892MVJSB/?tag=tolees0ca-21'
-descuento: '16.74'
-average: '30.659999999999997'
+descuento: '19.52'
+average: '30.32411764705882'
 ---
 
-Es gibt ein [Drahtloser Controller für PlayStation 4  Camouflage Red  titanium gold blue](https://www.amazon.de/dp/B0892MVJSB/?tag=tolees0ca-21) mit aktuellem Preis 25.81 EUR (original: 31.0 EUR) 16.74 % Rabatt hier:
+Es gibt ein [Drahtloser Controller für PlayStation 4  Camouflage Red  titanium gold blue](https://www.amazon.de/dp/B0892MVJSB/?tag=tolees0ca-21) mit aktuellem Preis 24.95 EUR (original: 31.0 EUR) 19.52 % Rabatt hier:
 
 [![Drahtloser Controller für PlayStation 4 ](https://m.media-amazon.com/images/I/41I5C5mb-NL._SL200_.jpg)](https://www.amazon.de/dp/B0892MVJSB/?tag=tolees0ca-21)
 

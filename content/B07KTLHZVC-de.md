@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21046 Architecture Empire State Bui mit 18.23 % Rabatt'
-date: 2021-01-18 06:46:42
+date: 2021-01-19 07:10:26
 image: 'https://m.media-amazon.com/images/I/41G+vpQWg7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07KTLHZVC/?tag=tolees0ca-21'
 descuento: '18.23'
-average: '69.59024221453284'
+average: '69.65972508591061'
 ---
 
 Sie können [LEGO 21046 Architecture Empire State Building  Wahrzeichen von New York  Bauset für Sammler](https://www.amazon.de/dp/B07KTLHZVC/?tag=tolees0ca-21) mit Preis 79.7 EUR (original: 97.47 EUR) 18.23 % Rabatt hier:

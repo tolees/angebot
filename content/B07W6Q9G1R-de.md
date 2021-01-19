@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76897 Speed Champions 1985 Audi Spo mit 17.96 % Rabatt'
-date: 2021-01-18 06:32:25
+date: 2021-01-19 07:21:31
 image: 'https://m.media-amazon.com/images/I/51zBhBOMzzL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07W6Q9G1R/?tag=tolees0ca-21'
 descuento: '17.96'
-average: '17.052103004291823'
+average: '17.04306382978721'
 ---
 
 Sie können [LEGO 76897 Speed Champions 1985 Audi Sport Quattro S1  Rennwagenspielzeug mit Rennfahrer Minifigur  Rennwagen Bauset](https://www.amazon.de/dp/B07W6Q9G1R/?tag=tolees0ca-21) mit Preis 15.99 EUR (original: 19.49 EUR) 17.96 % Rabatt hier:
@@ -25,10 +25,10 @@ Sie können [LEGO 76897 Speed Champions 1985 Audi Sport Quattro S1  Rennwagenspi
 
 ℹ️:
 
-- Features a classic rally car reborn for the 35th anniversary of the quattro, one of the kings of the Group B rally racing circuit
-- The model brilliantly reflects the original with its famous yellow and white livery, front engine, bulked-up bumper and vast rear wing
-- Includes 1 collectible LEGO driver minifigure in an authentic Audi race suit
-- Build your own model of the car that technical features earned a place in rallying history if only because of their extreme character
-- For car fans delight, the new for January 2020, LEGO Speed Champions replicas are now 25 Percent bigger and more realistic than ever
+- Aus Anlass des 35-jährigen Bestehens des quattro, einem der Könige der Rallye-Rennstrecke der Gruppe B, wurde ein klassischer Rallyewagen wiedergeboren
+- Enthält 1 sammelbare LEGO-Fahrer-Minifigur in einem authentischen Audi-Rennanzug
+- Für Autofans sind die neuen LEGO Speed ​​Champions Repliken für Januar 2020 25 Prozent größer und realistischer als je zuvor
+- Bauen Sie Ihr eigenes Modell des Autos, dessen technische Merkmale schon allein aufgrund ihres extremen Charakters einen Platz in der Rallye-Geschichte einnehmen
+- Das Modell spiegelt das Original mit seiner berühmten gelb-weißen Lackierung, dem Frontmotor, der aufgebauten Stoßstange und dem riesigen Heckflügel hervorragend wider
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W6Q9G1R/?tag=tolees0ca-21)

@@ -25,10 +25,10 @@ Es gibt ein [Leibniz PiCK UP! Choco Single im 24er Pack — Butterkekse mit Scho
 
 ℹ️:
 
+- Crunchy chocolate with two delicious Leibniz cookies.
+- Pick up. The Picknicker of Leibniz.
 - Just the thing for a crisp Picnic.
 - No added artificial flavours, colours Undkonservierungsstoffen. (Lt. DT. Food right)
-- Crunchy chocolate with two delicious Leibniz cookies.
 - With pick up. Anytime And Anywhere enjoy a care-free off from everyday life.
-- Pick up. The Picknicker of Leibniz.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000KTAVGE/?tag=tolees0ca-21)
