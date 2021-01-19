@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MH96GQ-de Nintendo Gameboy Thermobecher Edelstahl Mehrfarbig 9 x 9 x...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

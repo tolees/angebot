@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GG43HZ3-de De Longhi Nespresso Vertuo | ENV 150.R...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

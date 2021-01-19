@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JXF7CMM-de LEABAGS Cambridge Umhängetasche Schultertasche...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 106.68 EUR
 currency: EUR
 price: 106.68

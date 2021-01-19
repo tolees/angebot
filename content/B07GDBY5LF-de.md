@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GDBY5LF-de Aoyool WiFi Adapter 1200Mbit/s 5.8G/867Mbps+2.4G/300Mbps...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

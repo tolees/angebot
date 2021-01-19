@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHJ5X2C-de KINLO Aufkleber Küchenschränke Weiß 2 Stk. 61x500cm aus...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

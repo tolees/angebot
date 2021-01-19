@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFC39GZ-de Funko 34052 Kingdom Hearts 3: Sora POP Vinylfigur Multi'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KR9JXBG-de New Balance 624v5 Herren Hallenschuhe Weiß White/Navy...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 28.87 EUR
 currency: EUR
 price: 28.87

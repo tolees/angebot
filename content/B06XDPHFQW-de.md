@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDPHFQW-de Calvin Klein Damen Bottom Pant Jogger Sporthose Grau Grey...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 36.8 EUR
 currency: EUR
 price: 36.8

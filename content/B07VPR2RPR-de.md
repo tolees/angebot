@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPR2RPR-de Tommy Jeans Damen Tjw Sleeve Detail Logo Tee T-Shirt...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

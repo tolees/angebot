@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WGVH7M-de Pentel BL77-BO EnerGel Gel-Tintenroller mit Druckmechanik...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 2.34 EUR
 currency: EUR
 price: 2.34

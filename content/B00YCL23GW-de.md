@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YCL23GW-de BOSCH 1987301106 Gigalight Plus 120 Xenon Bulb H4 12 V 60...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 11.52 EUR
 currency: EUR
 price: 11.52

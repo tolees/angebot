@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5PZMUX-de Rosenstein & Söhne Kaffeepresse: Thermo-Kaffeebereiter...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

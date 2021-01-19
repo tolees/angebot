@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H8WTFHW-de MEATER Plus | Das ultimative kabellose smarte...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 89.96 EUR
 currency: EUR
 price: 89.96

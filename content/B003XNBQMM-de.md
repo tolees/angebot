@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003XNBQMM-de SEVERIN KG 2388 Tischgrill 2.200 W mit Hotzone-Element...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 23.3 EUR
 currency: EUR
 price: 23.3

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00628VOEA-de ghd air Haartrockner schwarz'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 96.75 EUR
 currency: EUR
 price: 96.75

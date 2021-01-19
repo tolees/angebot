@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DPK4IPO-de The North Face Unisex Rucksack Borealis Classic tnf...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 43.32 EUR
 currency: EUR
 price: 43.32

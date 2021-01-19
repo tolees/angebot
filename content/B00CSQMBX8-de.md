@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CSQMBX8-de The Complete Legendary 1938 Carnegie Hall Concert'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 10.01 EUR
 currency: EUR
 price: 10.01

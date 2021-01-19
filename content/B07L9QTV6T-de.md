@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9QTV6T-de Napapijri Herren Rainforest S PKT Jacke Blau Skydiver Blue...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

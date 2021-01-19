@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008CQI47A-de Smart Games SG 423 - Spiel Iq Fit'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

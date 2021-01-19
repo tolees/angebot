@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2YO7JS-de 10 x Rauchmelder / Feueralarm Tana x5 mit Montagematerial...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084HB1DKM-de Samsung Sound Tower Lautsprecher MX-T70 Bluetooth...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 399.97 EUR
 currency: EUR
 price: 399.97

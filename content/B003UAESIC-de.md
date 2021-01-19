@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003UAESIC-de HTC - DC-M410 - Micro USB Data Cable - 1m - Universal > Black'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 2.37 EUR
 currency: EUR
 price: 2.37

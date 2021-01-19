@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WGQJ5NF-de Vaude Herren Jacke Men s Drop Jacket III Icicle XL 04979'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 64.47 EUR
 currency: EUR
 price: 64.47

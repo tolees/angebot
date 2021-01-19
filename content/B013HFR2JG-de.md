@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013HFR2JG-de Unheimliche Begegnung der Dritten Art [Blu-ray]'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 5.55 EUR
 currency: EUR
 price: 5.55

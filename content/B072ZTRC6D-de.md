@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072ZTRC6D-de Huawei Y6 2017 Grey'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 96.72 EUR
 currency: EUR
 price: 96.72

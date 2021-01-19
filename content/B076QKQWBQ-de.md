@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076QKQWBQ-de Speedlink HDMI auf VGA Adapter HQ - Vergoldete Kontakte -...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 10.28 EUR
 currency: EUR
 price: 10.28

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GTKVCYJ-de Monster Jam 6053296 - Original Monster Jam Champ Ramp...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088GPBNLL-de CHALA 200STK Klebstoff Applikatorspitzen Kleber Extender...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TWFTYKG-de Pneumatic Power - der Pneumatik Spielzeug Bagger und 4...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CCD7PQA-de Geox Herren U SYMBOL D Derby Schwarz BLACKC9999 42 EU'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 76.7 EUR
 currency: EUR
 price: 76.7

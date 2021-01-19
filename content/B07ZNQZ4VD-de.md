@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZNQZ4VD-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Resistance...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

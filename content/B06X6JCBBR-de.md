@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X6JCBBR-de Ultimate Ears Wonderboom Tragbarer Bluetooth-Lautsprecher...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

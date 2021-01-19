@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012O45UFE-de Unbekannt Quadratische Pappteller 22 9 cm 8er-Packung'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 1.12 EUR
 currency: EUR
 price: 1.12

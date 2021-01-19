@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001TCUGKC-de Samsung GT-B2100 Outdoor Handy 1 3 MP-Kamera MP3...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 149.97 EUR
 currency: EUR
 price: 149.97

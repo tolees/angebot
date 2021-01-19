@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014GXQ3JS-de Logitech G633 Artemis Spectrum Pro Gaming Headset 7.1...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

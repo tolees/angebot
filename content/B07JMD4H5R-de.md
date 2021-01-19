@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMD4H5R-de Playmobil 70040 - Hicks und Astrid mit Babydrachen'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 11.38 EUR
 currency: EUR
 price: 11.38

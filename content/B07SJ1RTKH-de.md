@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJ1RTKH-de Corsair HS35 Stereo Gaming Headset 50mm Neodym...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 29.89 EUR
 currency: EUR
 price: 29.89

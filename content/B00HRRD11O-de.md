@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRRD11O-de Sylvanian Families 5036 5036-Babyzimmer Puppenzimmer...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 23.07 EUR
 currency: EUR
 price: 23.07

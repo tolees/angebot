@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079VPLW7K-de WORX WG322E.9 Akku Kettensäge 20V – Praktische Holzsäge...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 91.19 EUR
 currency: EUR
 price: 91.19

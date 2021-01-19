@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QXZ9BNT-de Be Mammy Lange Umstandsleggings aus Viskose BE-02 2er Pack...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

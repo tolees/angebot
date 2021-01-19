@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M6Y1Y4A-de Red Dead Redemption 2 Standard Edition [PlayStation 4] Disk'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

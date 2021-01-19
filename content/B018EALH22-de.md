@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018EALH22-de Mattel Games DPX25 - Mister Pups lustiges Kartenspiel und...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

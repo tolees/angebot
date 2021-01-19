@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LR8PG66-de Arlo Pro Smart Home 1 HD- Pro Überwachungskamera und...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 239.99 EUR
 currency: EUR
 price: 239.99

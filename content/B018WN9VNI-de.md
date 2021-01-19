@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018WN9VNI-de Samsung DA29-10105J HAFEX / EXP Wasserfilter für Samsung...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

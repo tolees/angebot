@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVFSTKS-de Acer Swift 1 SF114-32-P31S 35 6 cm 14 Zoll Full-HD IPS...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 300.0 EUR
 currency: EUR
 price: 300.0

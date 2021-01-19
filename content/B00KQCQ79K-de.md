@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KQCQ79K-de Omron Schrittzähler Walking style IV'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 23.82 EUR
 currency: EUR
 price: 23.82

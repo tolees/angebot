@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076FDH9WN-de Palladium Pampa Sport Shearling Waterproof Unisex-...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 80.38 EUR
 currency: EUR
 price: 80.38

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WTDH699-de Seiko Herren Analog Automatik Uhr mit Silikon Armband...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 193.0 EUR
 currency: EUR
 price: 193.0

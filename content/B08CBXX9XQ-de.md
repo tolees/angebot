@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CBXX9XQ-de SmartQian 9/10 Paar Sneaker Socken Herren Damen...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 13.43 EUR
 currency: EUR
 price: 13.43

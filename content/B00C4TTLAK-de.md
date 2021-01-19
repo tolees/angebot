@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C4TTLAK-de Oehlbach Powercord C13 / 150 - Netzkabel mit Schukostecker...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 15.13 EUR
 currency: EUR
 price: 15.13

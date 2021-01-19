@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZFXM1PY-de Villeroy & Boch Toy s Delight Große Vorratsdose Premium...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

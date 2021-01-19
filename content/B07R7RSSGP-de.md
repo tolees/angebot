@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R7RSSGP-de Crystal Art CAK-XLED8 LED Kits Multicolor'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

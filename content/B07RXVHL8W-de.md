@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXVHL8W-de Sony SRS-XB402M Bluetooth-Lautsprecher EXTRA BASS...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

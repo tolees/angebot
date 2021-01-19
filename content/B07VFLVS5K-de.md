@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFLVS5K-de HANPURE Bluetooth Mütze Damen & Herren Geschenke Bluetooth...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01608LOIC-de PLAYMOBIL City Action 6876 Motorradstreife mit LED-...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

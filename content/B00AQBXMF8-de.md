@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AQBXMF8-de Kyocera Klimaschutz-System Ecosys FS-1325MFP 4-in-1 Laser-...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 197.95 EUR
 currency: EUR
 price: 197.95

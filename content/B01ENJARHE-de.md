@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ENJARHE-de Challenge Disc 2.0 e Balance Board per Bluetooth mit...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 210.69 EUR
 currency: EUR
 price: 210.69

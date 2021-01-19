@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B2Y1N8B-de Corsair Vengeance LPX 16GB 2x8GB DDR4 3000MHz C16 XMP 2.0...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

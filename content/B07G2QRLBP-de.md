@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G2QRLBP-de Reusch Primus R-TEX XT Handschuhe Black/Black Melange 8'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 37.59 EUR
 currency: EUR
 price: 37.59

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015CH1NAQ-de SanDisk Ultra Flair 64GB USB-Flash-Laufwerk USB 3.0 mit...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

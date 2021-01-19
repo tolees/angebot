@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001PMNF9A-de MONACOR WS-60 Mikrofon-Windschutz für Mikrofone schwarz'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

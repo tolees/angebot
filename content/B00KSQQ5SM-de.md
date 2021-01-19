@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KSQQ5SM-de BaByliss ST330E Glätteisen 2in1 Straight & Curl Intense...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 23.97 EUR
 currency: EUR
 price: 23.97

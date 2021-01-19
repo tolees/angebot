@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B17G9BU-de The Impossible'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 2.54 EUR
 currency: EUR
 price: 2.54

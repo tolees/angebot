@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077TWL7WK-de Toaster 4 Scheiben 1600W（7 einstellbare Bräunungsstufe +...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 25.59 EUR
 currency: EUR
 price: 25.59

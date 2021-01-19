@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012SMMYW4-de Fahrradrucksack Damen & Herren 18L - Leichter Kleiner...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

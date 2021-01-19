@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XC6Y3B8-de Philips Senseo Viva Cafe HD6561/67 Nr. 1 Kaffepadmaschine...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

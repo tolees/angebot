@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001IOR85C-de Städter Ausstechform Edelstahl Silber 7.5 cm'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

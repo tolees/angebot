@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSY1P55-de Sharkoon NIGHT SHARK RGB PC-Gehäuse Rgb'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 63.95 EUR
 currency: EUR
 price: 63.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGQ6KMR-de Lenovo IdeaPad C340 35 6 cm 14 Zoll 1920x1080 FHD IPS...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

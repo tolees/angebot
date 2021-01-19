@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078XTLQ5Q-de Kitchen Emperor Santokumesser Damastmesser Küchenmesser...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 65.89 EUR
 currency: EUR
 price: 65.89

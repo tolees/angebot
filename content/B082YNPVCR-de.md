@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082YNPVCR-de PLAYMOBIL Family Fun 70342 Erlebnis-Streichelzoo Ab 4 Jahren'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

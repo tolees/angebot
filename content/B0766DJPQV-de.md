@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0766DJPQV-de PLAYMOBIL Knights 9340 Mobile Zwergenfestung Ab 5 Jahren'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T5VLWX3-de Acer TravelMate P2 TMP215-51-83MD 39 6 cm 15 6 Zoll Full-...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 330.0 EUR
 currency: EUR
 price: 330.0

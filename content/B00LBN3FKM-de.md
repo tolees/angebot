@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LBN3FKM-de Ice-Watch - ICE ola White Black - Women s wristwatch with...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 49.15 EUR
 currency: EUR
 price: 49.15

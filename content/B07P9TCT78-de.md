@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P9TCT78-de Playmobil 70198 City Life Beim Facharzt: Zahnarzt ab 4...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 9.08 EUR
 currency: EUR
 price: 9.08

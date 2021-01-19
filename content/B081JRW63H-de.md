@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081JRW63H-de LLOYD Herren ORWIN Uniform-Schuh Braun Brandy 44.5'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 86.16 EUR
 currency: EUR
 price: 86.16

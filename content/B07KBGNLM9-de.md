@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KBGNLM9-de VAUDE Damen Hose Women s Farley Stretch Pants II...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 58.17 EUR
 currency: EUR
 price: 58.17

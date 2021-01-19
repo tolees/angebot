@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013DQEJF4-de Bosch MUM5 CreationLine Küchenmaschine MUM58L20 Testsieger...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 154.99 EUR
 currency: EUR
 price: 154.99

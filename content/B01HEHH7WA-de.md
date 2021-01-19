@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HEHH7WA-de Acer H6517ABD DLP Projektor Full HD 1920 x 1080 Pixel 3200...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 419.9 EUR
 currency: EUR
 price: 419.9

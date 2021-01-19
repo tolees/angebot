@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K3DZF4R-de BOSS Herren Paddy Pro Poloshirt Blau Medium Blue 422...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 69 EUR
 currency: EUR
 price: 69

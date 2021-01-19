@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RN8FTCZ-de Funko 44270 POP NBA: OKC-Paul George Sammelbares Spielzeug...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

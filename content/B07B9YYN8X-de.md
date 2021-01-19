@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9YYN8X-de Keter Kissenbox Ontario graphit'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 187.99 EUR
 currency: EUR
 price: 187.99

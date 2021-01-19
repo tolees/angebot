@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XL5SHPT-de Apple Silikon Case für iPhone 11 Pro - Schwarz'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

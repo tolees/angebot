@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F1R5K4W-de Mountain Dew Regular Koffeinhaltige Limonade mit Lemon-...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

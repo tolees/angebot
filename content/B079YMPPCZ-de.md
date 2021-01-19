@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YMPPCZ-de Funko 30633 Actionfigur Marvel Unmasked Spider-Man Multi...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 11.66 EUR
 currency: EUR
 price: 11.66

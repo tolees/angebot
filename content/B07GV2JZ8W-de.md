@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GV2JZ8W-de Kitchen Diamonds Premium Tafelsticker-Set – 136...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

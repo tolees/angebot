@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000EGWODQ-de Varta V381 Knopfzelle 45mAh 1 Stück'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 0.61 EUR
 currency: EUR
 price: 0.61

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HOIC7OM-de NUBWO S2 V4.1 Bluetooth kabellose On-Ear HiFi Stereo...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

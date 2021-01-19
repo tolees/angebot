@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPG4SRX-de Philips Sonicare Elektrische Zahnbürste und Munddusche...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 189.88 EUR
 currency: EUR
 price: 189.88

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZ6LLTG-de Gardena Set Akku-Grasschere ClassicCut Li: Rasenschere-...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 59.04 EUR
 currency: EUR
 price: 59.04

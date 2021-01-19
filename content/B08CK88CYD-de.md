@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CK88CYD-de Arbily 【2020 Neues Upgrade】 Bluetooth Kopfhörer In Ear...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 36.54 EUR
 currency: EUR
 price: 36.54

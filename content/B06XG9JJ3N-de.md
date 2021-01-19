@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XG9JJ3N-de Puzzlematte ineinandergreifende Schaumstoffmatten zum...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 17.69 EUR
 currency: EUR
 price: 17.69

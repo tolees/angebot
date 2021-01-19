@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KX42DXT-de WAFTING 4er Set Esszimmerstühle Gepolsterter Seitenstuhl...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

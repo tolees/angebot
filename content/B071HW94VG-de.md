@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071HW94VG-de Hasbro Beyblade Burst B9503ES0 - Single Top Roktavor Kreisel'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 10.01 EUR
 currency: EUR
 price: 10.01

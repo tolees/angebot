@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BM59VHC-de Hasbro Gaming E1921100 - Trivial Pursuit Familien Edition...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

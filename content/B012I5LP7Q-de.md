@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012I5LP7Q-de funny-frisch goldfischli Sesam 100 g'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 0.89 EUR
 currency: EUR
 price: 0.89

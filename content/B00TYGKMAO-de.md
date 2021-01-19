@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TYGKMAO-de Whiskas 1 + Katzenfutter Klassische Auswahl in Sauce 48 x...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 10.96 EUR
 currency: EUR
 price: 10.96

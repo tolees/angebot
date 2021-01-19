@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFYDWJ1-de Sloggi Zero Feel Bralette EX BH Damen Rot Bordeaux 3407 L'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 22.72 EUR
 currency: EUR
 price: 22.72

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071WKDW95-de Philips SHB3175WT BASS+ Over-Ear Bluetooth-Kopfhörer 13...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

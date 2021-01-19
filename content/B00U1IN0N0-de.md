@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U1IN0N0-de Kitchen Craft Kuchendose Living Nostalgia mit Deckel 28...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 27.64 EUR
 currency: EUR
 price: 27.64

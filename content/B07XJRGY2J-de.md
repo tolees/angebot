@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJRGY2J-de HP Pavilion Gaming TG01-0016ng Desktop Intel Core i5-9400F...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 510.0 EUR
 currency: EUR
 price: 510.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WQT4YDS-de WEWE Estantes De Pared De Madera De 2 Niveles Muro De...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

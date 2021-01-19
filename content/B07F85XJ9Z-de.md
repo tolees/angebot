@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F85XJ9Z-de GORE Wear M Unisex Stretch Handschuhe GORE-TEX INFINIUM 10...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 30.47 EUR
 currency: EUR
 price: 30.47

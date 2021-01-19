@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FYRVFEE-de Kopfschutz / Schutzhelmkombination Yukon stoßfester und...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 19.75 EUR
 currency: EUR
 price: 19.75

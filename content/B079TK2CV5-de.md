@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079TK2CV5-de Goobay 45400 2 in 1 Superspeed Adapter USB 3.0 Typ A auf...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

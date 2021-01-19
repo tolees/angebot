@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CHILPPW-de Sylvanian Families Kinderzimmer-Möbel'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

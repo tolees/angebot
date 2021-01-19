@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DX231ST-de Garmin Edge Explore GPS-Fahrrad-Navi - Vorinstallierte...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

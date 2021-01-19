@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPDM4YQ-de Sanhelios® Beauty Kollagen HAUT-ELIXIER - Anti-Aging zum...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

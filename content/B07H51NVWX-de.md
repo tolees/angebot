@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H51NVWX-de Nikon D3500 Kit AF-S DX 18-105 mm und weiteres Zubehör'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 539.95 EUR
 currency: EUR
 price: 539.95

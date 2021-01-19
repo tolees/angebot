@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TFNEOIC-de normani 4 x Herren Retroshorts mit hohem Baumwollanteil...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 15.08 EUR
 currency: EUR
 price: 15.08

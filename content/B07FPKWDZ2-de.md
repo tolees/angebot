@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FPKWDZ2-de Ecco Damen FLOWTW Riemchensandalen Schwarz Black 1001 39 EU'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 68.11 EUR
 currency: EUR
 price: 68.11

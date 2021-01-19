@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016ZPORIE-de GROHE Minta | Küchenarmatur - Einhand-Spültischbatterie...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 174.49 EUR
 currency: EUR
 price: 174.49

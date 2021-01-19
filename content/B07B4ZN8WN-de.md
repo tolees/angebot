@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4ZN8WN-de RITUALS The Rituals of Happy Buddha Raumdufttspray 1er...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

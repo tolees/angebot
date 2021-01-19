@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016XSPUPW-de WOLF-Garten - Trocken-Rasen Premium L-TP 50 rot'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 12.96 EUR
 currency: EUR
 price: 12.96

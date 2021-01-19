@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXOQ54Z-de Omega 3 Kapseln 2000mg - Fischöl 660 EPA 440 DHA pro...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 14.31 EUR
 currency: EUR
 price: 14.31

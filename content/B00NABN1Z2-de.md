@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NABN1Z2-de WMF Stelio Eierkocher für 1-7 Eier 350 W mit...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

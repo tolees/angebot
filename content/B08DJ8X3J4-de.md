@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJ8X3J4-de Luftentfeuchter Elektrisch 1200ml Geringer...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

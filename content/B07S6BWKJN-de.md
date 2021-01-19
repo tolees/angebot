@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6BWKJN-de Dell Inspiron - 15 6" - i7 - 32GB RAM - 1000GB SSD -...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 610.0 EUR
 currency: EUR
 price: 610.0

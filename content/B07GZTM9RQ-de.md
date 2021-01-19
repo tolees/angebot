@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZTM9RQ-de HP Tango X Smart Home Drucker HP Instant Ink WLAN...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 118.29 EUR
 currency: EUR
 price: 118.29

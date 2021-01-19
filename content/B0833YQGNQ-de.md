@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0833YQGNQ-de Kiztoys Handheld Spielkonsole 400 Klassische Spielen...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

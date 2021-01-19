@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BC3TPB8-de Samsung WW80K6404QW/EG Waschmaschine FL/A+++/116...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 419.0 EUR
 currency: EUR
 price: 419.0

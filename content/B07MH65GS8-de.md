@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MH65GS8-de Skagen Damen Digital Smart Watch Armbanduhr mit Silikon...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X5PMGOA-de WMF Aston Besteckset 12 Personen 60-teilig Monobloc-Messer...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 113.81 EUR
 currency: EUR
 price: 113.81

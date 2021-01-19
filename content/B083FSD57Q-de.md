@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083FSD57Q-de BRIKSMAX Led Beleuchtungsset für Lego City Mars...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

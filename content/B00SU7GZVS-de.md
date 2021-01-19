@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SU7GZVS-de Marvel s Agents of S.H.I.E.L.D. - Die komplette erste...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 8.04 EUR
 currency: EUR
 price: 8.04

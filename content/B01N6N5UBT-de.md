@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6N5UBT-de VIA FORTIS Resistance Bands für Fitness &...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

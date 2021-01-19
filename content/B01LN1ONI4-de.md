@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LN1ONI4-de LG 34UC79G-B 86 36 cm 34 Zoll Curved 21:9 UltraWideTM Full...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 419.95 EUR
 currency: EUR
 price: 419.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WLN43JJ-de Rieker Damen Frühjahr/Sommer 64260 Geschlossene Sandalen...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 16.22 EUR
 currency: EUR
 price: 16.22

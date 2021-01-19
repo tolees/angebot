@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCN3S0J-de HP 410X CF252XM Multipack Original Toner Blau Magenta Gelb...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 376.49 EUR
 currency: EUR
 price: 376.49

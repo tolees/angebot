@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078XFBXYB-de 3D Stift Filament PLA Filament 1.75mm 60M 3 Farben je 20M...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 8.03 EUR
 currency: EUR
 price: 8.03

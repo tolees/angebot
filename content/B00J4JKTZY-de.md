@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J4JKTZY-de Invicta 8930OB Pro Diver Unisex Uhr Edelstahl Automatik...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 78.5 EUR
 currency: EUR
 price: 78.5

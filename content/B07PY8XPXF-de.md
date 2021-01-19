@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PY8XPXF-de HITACHI F43E4000 109 cm 43 Zoll Fernseher Full HD Smart TV...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 309.99 EUR
 currency: EUR
 price: 309.99

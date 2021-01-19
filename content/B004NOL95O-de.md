@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004NOL95O-de Draper Expert 02753 Innenmessgerät 50-160 mm'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 62.21 EUR
 currency: EUR
 price: 62.21

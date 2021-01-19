@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XTB2L21-de Bosch Nass- und Trockensauger AdvancedVac 20 1200 Watt 20...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 88.99 EUR
 currency: EUR
 price: 88.99

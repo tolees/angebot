@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005SJIP1E-de The Complete Mahler Symphonies'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

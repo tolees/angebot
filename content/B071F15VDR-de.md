@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071F15VDR-de Hisense RB400N4EG3 Kühl-Gefrier-Kombination/A+++/No-...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 283.25 EUR
 currency: EUR
 price: 283.25

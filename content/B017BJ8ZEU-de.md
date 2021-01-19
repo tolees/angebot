@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017BJ8ZEU-de Bosch Serie 8 KIF41AD40 Einbau Kühlschrank / EEK A+++ / 80...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 773.87 EUR
 currency: EUR
 price: 773.87

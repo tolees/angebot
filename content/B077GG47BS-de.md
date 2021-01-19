@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077GG47BS-de Clatronic PO 3682 Elektrischer Pizzaofen für 6 Personen...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 56.05 EUR
 currency: EUR
 price: 56.05

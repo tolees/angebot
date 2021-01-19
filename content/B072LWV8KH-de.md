@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072LWV8KH-de Monuments'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 13.31 EUR
 currency: EUR
 price: 13.31

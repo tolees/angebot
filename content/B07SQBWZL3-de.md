@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQBWZL3-de The Dead Don t Die [Blu-ray]'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 10.94 EUR
 currency: EUR
 price: 10.94

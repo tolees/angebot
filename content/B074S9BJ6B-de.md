@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074S9BJ6B-de Shiatsu-Rücken Schulter- und Nackenmassagegerät mit Wärme...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YFY2FG-de Funko 30032 Pop Movies Actionfigur Harry Potter-Tom Riddle...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

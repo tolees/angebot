@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F2JM7UU-de Karlie Transportbox Nomad Größe XL 90 x 60 x 68 cm'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 64.33 EUR
 currency: EUR
 price: 64.33

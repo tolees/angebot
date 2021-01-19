@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HHVXDDL-de BONTEC TV Ständer Mobile TV Wagen Trolley Höhenverstellbar...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KXIKAX6-de Under Armour Herren Kurze Hose Ua Raid 8 Shorts Schwarz Small'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 16.85 EUR
 currency: EUR
 price: 16.85

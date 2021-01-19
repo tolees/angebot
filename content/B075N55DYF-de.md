@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075N55DYF-de Sylvanian Families 5285 5285-Schlafzimmer-und Schmink-Set...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 14.61 EUR
 currency: EUR
 price: 14.61

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PP9BPVN-de Carrera GO!!! Nintendo Mario Kart 8 5 3 Meter 20062491...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 46.12 EUR
 currency: EUR
 price: 46.12

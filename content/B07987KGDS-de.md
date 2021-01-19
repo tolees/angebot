@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07987KGDS-de Funko 26713 Grumpy Bear Spielfigur Mehrfarbig 10 Centimeters'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

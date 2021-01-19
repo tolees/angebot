@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083FS8JFH-de BRIKSMAX Led Beleuchtungsset für Lego Hidden Side Geister-...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

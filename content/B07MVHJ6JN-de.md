@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVHJ6JN-de Graef CH502EU Zerkleinerer Glas'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 42.03 EUR
 currency: EUR
 price: 42.03

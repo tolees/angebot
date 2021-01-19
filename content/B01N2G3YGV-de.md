@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2G3YGV-de Hasbro B7784EU4 - N-Strike Elite AccuStrike Alphahawk...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 33.67 EUR
 currency: EUR
 price: 33.67

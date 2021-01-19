@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B51SR9Y-de LG Beamer PF50KS bis 254 cm 100 Zoll CineBeam Full HD LED...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 300.0 EUR
 currency: EUR
 price: 300.0

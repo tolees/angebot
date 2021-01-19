@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QDS9LB4-de Rotho Albula Mülltrennungssystem für Küche / Set 3fach /...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

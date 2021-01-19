@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XL97CPD-de Apple iPhone 11 256 GB - Gelb'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 799.0 EUR
 currency: EUR
 price: 799.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QP3JCQC-de Dickie Toys Harry Potter Tarnumhang Umhang unsichtbar...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 53.14 EUR
 currency: EUR
 price: 53.14

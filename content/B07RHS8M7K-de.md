@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHS8M7K-de APEMAN Dashcam Vorne und Hinten Autokamera mit MicroSD-...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 36.11 EUR
 currency: EUR
 price: 36.11

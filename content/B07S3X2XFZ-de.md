@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3X2XFZ-de ASICS Herren Gel-Bondi Laufschuhe Schwarz Black/White 001...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 46.95 EUR
 currency: EUR
 price: 46.95

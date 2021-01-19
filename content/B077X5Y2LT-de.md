@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077X5Y2LT-de Wifi Adapter 1200Mbit/s mit 5dBi Antenna Dualband...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

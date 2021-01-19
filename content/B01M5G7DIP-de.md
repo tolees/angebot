@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M5G7DIP-de SHARP LC-24CHF4012 60 cm 24 Zoll Fernseher HD TV Triple...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 116.93 EUR
 currency: EUR
 price: 116.93

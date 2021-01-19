@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0748DGHSG-de ViewSonic VP2785-4K 68 6 cm 27 Zoll Fotografen Monitor mit...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 545.0 EUR
 currency: EUR
 price: 545.0

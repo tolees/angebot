@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CYRZK73-de Calvin Klein Herren Analog Quarz Uhr mit Leder Armband...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 129.45 EUR
 currency: EUR
 price: 129.45

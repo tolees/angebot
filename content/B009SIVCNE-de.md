@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009SIVCNE-de Samsonite S Cure - Spinner S Handgepäck 55 cm 34 L Blau...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 107.4 EUR
 currency: EUR
 price: 107.4

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSTNTZJ-de Funko 36409 POP Vinyl: Pretty Woman: Vivian red Dress...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 8.17 EUR
 currency: EUR
 price: 8.17

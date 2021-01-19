@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KWJMTIO-de Bosch Professional 18V System Akku Kreissäge GKS 18V-57 G...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 116.99 EUR
 currency: EUR
 price: 116.99

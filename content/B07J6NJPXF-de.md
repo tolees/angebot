@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6NJPXF-de Funko POP Hey Arnold Gerald JOHANSSE'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 4.09 EUR
 currency: EUR
 price: 4.09

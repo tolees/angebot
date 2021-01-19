@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5JH3C1-de Lintelek Fitness Tracker Fitness Armband Fitness Uhr...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 29.88 EUR
 currency: EUR
 price: 29.88

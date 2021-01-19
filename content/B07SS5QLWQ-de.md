@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SS5QLWQ-de HP 24x 23 8 Zoll / Full HD 144Hz Gaming Monitor AMD...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 155.27 EUR
 currency: EUR
 price: 155.27

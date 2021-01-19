@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002NXFFDY-de The Green Mile [Blu-ray]'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

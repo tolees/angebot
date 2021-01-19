@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FY23LW7-de TP-Link TL-SG116 16-Ports Gigabit Netzwerk Switch 32...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 48.75 EUR
 currency: EUR
 price: 48.75

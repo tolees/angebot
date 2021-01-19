@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R5NCDMY-de Razer Seiren X Mercury USB-Streaming-Mikrofon in Profi...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

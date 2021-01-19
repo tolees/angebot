@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WLNLBJG-de Hasbro Star Wars C1439EU4 - Episode 8 ferngesteuerter...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 83.15 EUR
 currency: EUR
 price: 83.15

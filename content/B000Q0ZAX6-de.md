@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000Q0ZAX6-de Jil Sander Sun femme/ woman Duschgel 150 ml'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

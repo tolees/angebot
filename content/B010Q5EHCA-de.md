@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010Q5EHCA-de Panasonic H-FS1442AEKA LUMIX G Vario Stardzoom 14-42 mm...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 176.63 EUR
 currency: EUR
 price: 176.63

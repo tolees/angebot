@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SG5P7R2-de RÖSLE Steak Besteck Set 4-teilig Edelstahl 18/10 inkl....'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 17.57 EUR
 currency: EUR
 price: 17.57

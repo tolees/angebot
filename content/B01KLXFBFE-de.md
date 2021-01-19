@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KLXFBFE-de Remington Haarglätter PROluxe S9100 OPTIheat-Technologie...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 45.86 EUR
 currency: EUR
 price: 45.86

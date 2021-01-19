@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072PRPGR8-de Acer Switch 5 SW512-52-5819 30 48 cm 12 Zoll QHD Multi-...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 450.0 EUR
 currency: EUR
 price: 450.0

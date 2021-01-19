@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072FJWB43-de Bomann VS 3171 Kühlschrank / A++ / 144 cm / 103 kWh/Jahr...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 245.0 EUR
 currency: EUR
 price: 245.0

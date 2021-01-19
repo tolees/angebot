@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9JMUTC-de Bosch Akku Rasenmäher Rotak 430 LI 2 Akku 36 Volt...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 509.59 EUR
 currency: EUR
 price: 509.59

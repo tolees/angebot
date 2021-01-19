@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KZVQB42-de Logitech M720 Triathlon Kabellose Maus Bluetooth & 2.4 GHz...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 40.32 EUR
 currency: EUR
 price: 40.32

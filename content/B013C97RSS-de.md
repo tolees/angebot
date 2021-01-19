@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013C97RSS-de Kitchen Craft Tablett 30cm Living Nostalgia in weiß/grau...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 17.53 EUR
 currency: EUR
 price: 17.53

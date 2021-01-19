@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AO0JHGY-de RoomMates 54161 Happi Raketenhunde'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 7.06 EUR
 currency: EUR
 price: 7.06

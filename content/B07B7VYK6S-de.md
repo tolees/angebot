@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B7VYK6S-de Dickie Toys Fire Rescue Unit Feuerwehrauto Spielzeugauto...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 8.64 EUR
 currency: EUR
 price: 8.64

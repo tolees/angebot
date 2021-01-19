@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007CCQNXC-de Theo Klein 2813 - Bosch Car Service Parkhaus 5 Ebenen...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

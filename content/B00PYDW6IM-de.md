@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PYDW6IM-de Nike Md Runner 2 Herren Gymnastikschuhe Blau Midnight...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 53.9 EUR
 currency: EUR
 price: 53.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRBYD99-de Carrera GO!!! Race to Win 20062483 Autorennbahn Set'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 32.7 EUR
 currency: EUR
 price: 32.7

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GT7Q2Q2-de GoPro HERO7 White – wasserdichte digitale Actionkamera mit...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

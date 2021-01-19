@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010TQY7A8-de Asmodee Exploding Kittens: A Card Game About Kittens and...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

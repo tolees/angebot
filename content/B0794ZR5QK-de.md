@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0794ZR5QK-de Philips Ambilight 65PUS7303/12 Fernseher 164 cm 65 Zoll...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 580.0 EUR
 currency: EUR
 price: 580.0

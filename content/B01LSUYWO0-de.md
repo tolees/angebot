@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LSUYWO0-de Apple iPhone 7 32 GB - Schwarz'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 374.99 EUR
 currency: EUR
 price: 374.99

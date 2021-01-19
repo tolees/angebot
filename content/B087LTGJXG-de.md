@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087LTGJXG-de EXTSUD Gummiband und Nasenbügel Set Elastische Schnur Band...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 13.89 EUR
 currency: EUR
 price: 13.89

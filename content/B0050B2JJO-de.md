@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0050B2JJO-de Aigle Damen Aiglentine Langschaft Gummistiefel Schwarz...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 69.1 EUR
 currency: EUR
 price: 69.1

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GKWOYWW-de VTech 80-139304 - Smart Kid s Phone'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

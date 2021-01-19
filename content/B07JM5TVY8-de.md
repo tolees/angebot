@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JM5TVY8-de QARFEE - Universal 128GB Flash Drive LUV-Share USB Stick...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 31.48 EUR
 currency: EUR
 price: 31.48

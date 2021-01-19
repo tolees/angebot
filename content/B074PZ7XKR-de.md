@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PZ7XKR-de OSRAM Smart+ Mini Switch Blau ZigBee Lichtschalter Dimmer...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

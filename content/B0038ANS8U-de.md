@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0038ANS8U-de KidKraft 53179 - Rosa Retroküche'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

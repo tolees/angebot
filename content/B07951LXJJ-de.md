@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07951LXJJ-de Fire HD 8-Tablet 32 GB Schwarz ohne Spezialangebote'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

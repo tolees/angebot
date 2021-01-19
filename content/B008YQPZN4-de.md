@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008YQPZN4-de Remington Elektrischer Rasierer Herren F7800 +LED Minuten-...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 49.33 EUR
 currency: EUR
 price: 49.33

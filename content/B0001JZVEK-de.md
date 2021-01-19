@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0001JZVEK-de D-Link DGS-1005D 5-Port Gigabit Switch Desktop 10/100/1000...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 13.54 EUR
 currency: EUR
 price: 13.54

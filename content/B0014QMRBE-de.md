@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0014QMRBE-de Theo Klein - Bosch 8429 - Tool Box Spielzeug'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 33.37 EUR
 currency: EUR
 price: 33.37

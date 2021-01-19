@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013V52ZDU-de DESIRES Tilda Damen Übergangsjacke Jacke gefüttert mit...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

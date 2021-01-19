@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKJFRK4-de HP Spectre x360 15-df0106ng 15 6 Zoll/ UHD Touchscreen...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 824 EUR
 currency: EUR
 price: 824

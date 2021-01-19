@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPFJ7NB-de Funko 44515 POP TV: Umbrella Academy-Ben Hargreeves...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

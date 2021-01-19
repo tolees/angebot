@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MXR6WUA-de Cellular Line TEMPGLASSIPH647 Displayschutzglas für Apple...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 6.21 EUR
 currency: EUR
 price: 6.21

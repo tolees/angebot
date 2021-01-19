@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D39KBB5-de Dell 2YK0F - AC Adapter USB Type-C 65W Includes Power...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 40.26 EUR
 currency: EUR
 price: 40.26

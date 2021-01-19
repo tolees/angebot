@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRRVBXQ-de Ergonomischer Dreikant-Bleistift für Rechtshänder -...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 3.94 EUR
 currency: EUR
 price: 3.94

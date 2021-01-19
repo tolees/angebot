@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZFK1OR-de CYBEX Silver Kinder-Autositz Juno 2-Fix Für Autos mit...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 115.43 EUR
 currency: EUR
 price: 115.43

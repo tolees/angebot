@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M1KGUU5-de Fitbit Special Edition Alta Fitness-Armband Rosa/Gold L'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 67.89 EUR
 currency: EUR
 price: 67.89

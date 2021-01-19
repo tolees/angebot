@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0794TLHP4-de Fire HD 8-Tablet 16 GB Schwarz mit Spezialangeboten'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 41.24 EUR
 currency: EUR
 price: 41.24

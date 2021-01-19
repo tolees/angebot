@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVJFBN5-de Smart LED Bulb E27 Glühbirne TECKIN WLAN Lampen mit 16...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFB37XB-de Funko 33923 Squarepants: Spongebob Xmas POP Vinylfigur Multi'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 3.76 EUR
 currency: EUR
 price: 3.76

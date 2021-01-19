@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078XGY4K6-de Christa Ludwig-Complete Recitals'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 14.21 EUR
 currency: EUR
 price: 14.21

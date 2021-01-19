@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PZ8ZEGW-de Nike Damen WMNS Md Runner 2 Hallenschuhe Schwarz...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 40.16 EUR
 currency: EUR
 price: 40.16

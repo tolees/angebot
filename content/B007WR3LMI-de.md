@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007WR3LMI-de Chocolat Blu *** Europe Zone ***'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 8.34 EUR
 currency: EUR
 price: 8.34

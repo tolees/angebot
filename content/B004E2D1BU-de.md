@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004E2D1BU-de Hasbro 33596848 - Super Soaker Bottle Blitz'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

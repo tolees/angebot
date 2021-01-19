@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDGHP5V-de WC Ente Total Aktiv Gel Flüssiger WC Reiniger mit...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G5JF7QW-de Canon PIXMA TS6250 Drucker Farbtintenstrahl...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 98.26 EUR
 currency: EUR
 price: 98.26

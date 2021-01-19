@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRD42WK-de Samsung LS01R The Serif 108 cm 43 Zoll QLED Lifestyle...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 431 EUR
 currency: EUR
 price: 431

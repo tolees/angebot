@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KHIM1R4-de Philips LED Lampe 11 W ersetzt 75 W E27 warmweiß 2700K...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 19.09 EUR
 currency: EUR
 price: 19.09

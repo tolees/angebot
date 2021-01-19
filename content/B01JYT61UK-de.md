@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JYT61UK-de Gembird JPD-WDV-01 Kabelloses Gamepad mit Vibration...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 16.4 EUR
 currency: EUR
 price: 16.4

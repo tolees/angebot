@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001Q3FSD4-de 1/la-le-Lu'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 2.37 EUR
 currency: EUR
 price: 2.37

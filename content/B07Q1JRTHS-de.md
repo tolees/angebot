@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q1JRTHS-de Funko 42869 POP Vinyl: NFL: Cowboys-Amari Cooper Home...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 7.39 EUR
 currency: EUR
 price: 7.39

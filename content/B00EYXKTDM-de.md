@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EYXKTDM-de TP-Link TL-WPA4220T KIT AV600 WLAN N300 WiFi Powerline...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 85.9 EUR
 currency: EUR
 price: 85.9

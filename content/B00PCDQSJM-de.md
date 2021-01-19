@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PCDQSJM-de Sony Alpha 6000 Systemkamera 24 Megapixel 7 6 cm 3 Zoll...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 346.0 EUR
 currency: EUR
 price: 346.0

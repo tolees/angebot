@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06W57WQDS-de Craft Damen Greatness Fahrradunterhose Black M'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 34.65 EUR
 currency: EUR
 price: 34.65

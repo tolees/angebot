@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MZ2F3Z8-de Krups EA8105 Kaffeevollautomat automatische Reinigung...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 228.99 EUR
 currency: EUR
 price: 228.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QMB3LY3-de Dickie Toys 203715011 Police Chase Polizeiauto...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 14.71 EUR
 currency: EUR
 price: 14.71

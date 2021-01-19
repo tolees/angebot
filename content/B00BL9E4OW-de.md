@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BL9E4OW-de VAUDE Damen Hose Women s Farley Stretch Capri T-Zip II...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 73.24 EUR
 currency: EUR
 price: 73.24

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0765Z1NWT-de JBL E65BTNC Over Ear Bluetooth Kopfhörer - Active Noise...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XFNPNC3-de Schrankleuchten mit Bewegungsmelder 78 LED USB...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

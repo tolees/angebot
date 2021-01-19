@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019YJNT8C-de Hasbro Play-Doh B5520EU4 - Dr. Wackelzahn Knete für...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 16.33 EUR
 currency: EUR
 price: 16.33

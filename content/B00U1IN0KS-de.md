@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U1IN0KS-de KitchenCraft Living Nostalgia Küchenspülbeckenbehälter 17...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 14.18 EUR
 currency: EUR
 price: 14.18

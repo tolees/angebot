@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HOY7S4U-de Original Kingston MicroSD Karte Speicherkarte 32 GB Für...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 4.33 EUR
 currency: EUR
 price: 4.33

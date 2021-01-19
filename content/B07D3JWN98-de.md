@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D3JWN98-de Deadpool 2 [DVD]'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 5.21 EUR
 currency: EUR
 price: 5.21

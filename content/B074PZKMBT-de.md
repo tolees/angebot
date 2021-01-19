@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PZKMBT-de Sony Xperia XZ1 Smartphone 13 2 cm 5 2 Zoll Triluminos...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 170.99 EUR
 currency: EUR
 price: 170.99

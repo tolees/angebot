@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H8JLM94-de Corsair CC-9011048-WW Carbide Series Air 540 Computer...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 144.16 EUR
 currency: EUR
 price: 144.16

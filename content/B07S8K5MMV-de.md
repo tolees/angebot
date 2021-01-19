@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8K5MMV-de Ensure NutriVigor Schokolade – Nahrungsergänzungspulver...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

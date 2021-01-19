@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000RQU2KU-de Brennenstuhl Eco-Line Steckdosenleiste 10-fach...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 9.53 EUR
 currency: EUR
 price: 9.53

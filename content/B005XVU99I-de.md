@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005XVU99I-de Bosch S4005 Autobatterie Starter 60Ah 12V 540A'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 58.08 EUR
 currency: EUR
 price: 58.08

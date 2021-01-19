@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KFF9WJ0-de Timezone Herren Straight Leg Hose BenitoTZ cargo pants...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 45.09 EUR
 currency: EUR
 price: 45.09

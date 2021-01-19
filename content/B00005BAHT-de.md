@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00005BAHT-de Jakobs 4019960 - Rody Hüpfpferd rot'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 23.76 EUR
 currency: EUR
 price: 23.76

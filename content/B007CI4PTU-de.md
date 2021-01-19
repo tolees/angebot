@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007CI4PTU-de Nestlé KITKAT Schoko-Riegel Milch-Schokolade Großpackung...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

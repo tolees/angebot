@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WVTJFFF-de LG 75UM7000PLA 189 cm 75 Zoll UHD Fernseher LCD Single...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 525.0 EUR
 currency: EUR
 price: 525.0

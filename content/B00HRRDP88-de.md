@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRRDP88-de Sylvanian Families 2239 - Garten-Grill-Set'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 19.86 EUR
 currency: EUR
 price: 19.86

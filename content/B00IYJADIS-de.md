@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IYJADIS-de Odlo Herren Mütze Polyknit Black One size 776350'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 14.91 EUR
 currency: EUR
 price: 14.91

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PMB9C9-de HP ENVY 5030 Multifunktionsdrucker Instant Ink Fotodrucker...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

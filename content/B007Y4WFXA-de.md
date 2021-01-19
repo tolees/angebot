@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007Y4WFXA-de Lico Jungen Bernie V Hallenschuhe Grün Grün/Marine/Weiß 27 EU'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

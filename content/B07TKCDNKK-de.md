@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKCDNKK-de iBetter für Google Pixel 4 Hülle Ultra Thin Tasche Cover...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

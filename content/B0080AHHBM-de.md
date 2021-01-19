@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0080AHHBM-de B. Toys 44123 - Wheeeee-Is Kinderauto'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JXJJ67S-de PLAYMOBIL City Life 70015 Mein Lieblingscafé Ab 4 Jahren'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 29.88 EUR
 currency: EUR
 price: 29.88

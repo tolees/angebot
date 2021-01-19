@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W1SYTTT-de SanDisk Ultra 3D SSD interne Festplatte 4 TB 2 5 Zoll...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 389.55 EUR
 currency: EUR
 price: 389.55

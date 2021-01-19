@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NP9SYPJ-de Samsung N5375 80 cm 32 Zoll LED Fernseher Full HD Triple...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 367.0 EUR
 currency: EUR
 price: 367.0

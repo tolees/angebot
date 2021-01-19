@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IZDL3CS-de B. toys by Battat – B. Pet Vet – Tierarztkoffer mit Arzt...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 39.25 EUR
 currency: EUR
 price: 39.25

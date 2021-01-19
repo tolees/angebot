@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XVZ4T9O-de Dyson V6 Mattress beutel- & kabelloser Staubsauger inkl....'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 190.0 EUR
 currency: EUR
 price: 190.0

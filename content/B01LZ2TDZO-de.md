@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZ2TDZO-de Gigabyte GeForce GTX 1060 GV-N1060WF2OC-6GDGrafikkarte...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 185.0 EUR
 currency: EUR
 price: 185.0

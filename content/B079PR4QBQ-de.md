@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079PR4QBQ-de Ladeheid Jungen Hausschuhe mit Klettverschluss LAVI0003...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

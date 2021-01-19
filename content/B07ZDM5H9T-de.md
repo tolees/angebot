@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZDM5H9T-de Philips Hi-Res Audio Kopfhörer PH802BK/00 On Ear Bluetooth...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 74.75 EUR
 currency: EUR
 price: 74.75

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017JTHLNS-de SELECTED HOMME Herren SLHSTRAIGHT ST PANTS NOOS Hose Grau...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 36 EUR
 currency: EUR
 price: 36

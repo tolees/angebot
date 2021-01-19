@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KR662CC-de TOM TAILOR Herren T-Shirts/Tops T-Shirt mit Logo-Print...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 8.05 EUR
 currency: EUR
 price: 8.05

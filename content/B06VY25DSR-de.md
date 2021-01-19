@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VY25DSR-de Merry Style Damen Bikini Oberteil P614W Schwarz 9240 75 D'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 26.24 EUR
 currency: EUR
 price: 26.24

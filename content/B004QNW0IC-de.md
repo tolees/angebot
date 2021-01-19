@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004QNW0IC-de Robin Hood / Gladiator Director s Cut / Extended Edition...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

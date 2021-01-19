@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2OI8L2-de Neff TBD1836N / T18BD36N0 / Autarkes Kochfeld /...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 423.12 EUR
 currency: EUR
 price: 423.12

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006JZ8FU2-de Schiesser Herren Bademantel Kapuze 128546-815 Blau...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 74.81 EUR
 currency: EUR
 price: 74.81

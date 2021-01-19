@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X9QKDDH-de Hasbro Hanazuki B9922EU4 - Light-Up Puppe Plüsch'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

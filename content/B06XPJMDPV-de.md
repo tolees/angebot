@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPJMDPV-de Meister Nivelliersystem für Fliesen 351-teilig -...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 28.23 EUR
 currency: EUR
 price: 28.23

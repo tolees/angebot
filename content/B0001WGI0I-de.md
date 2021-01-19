@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0001WGI0I-de BRIO Bahn 33204 - Parkhaus Straßen&Schienen'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

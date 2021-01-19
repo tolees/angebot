@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LUKEGGS-de WOFI Wandleuchte 1-flammig Serie Avignon 1 x LED 6.6 W...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 35.74 EUR
 currency: EUR
 price: 35.74

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LX4US13-de Playmobil 9078 - Einkaufspassage'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 35.9 EUR
 currency: EUR
 price: 35.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071CZ8ZS9-de Satisfyer 1 Next Generation Klitoris-Sauger mit 11...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 14.15 EUR
 currency: EUR
 price: 14.15

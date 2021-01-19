@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GLZFTZ-de LEGO Duplo 10869 - Ausflug auf den Bauernhof Lernspielzeug...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

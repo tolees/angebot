@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015QETCQ2-de RUBYCA 64pcs Mix Floating Charms Lot for Glass Living...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 17.03 EUR
 currency: EUR
 price: 17.03

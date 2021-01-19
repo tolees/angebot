@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFCBK7L-de Funko 33514 Marvel Studios 10: Groot Chrome POP Bobble Multi'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 14.26 EUR
 currency: EUR
 price: 14.26

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007WQJSGM-de Samsonite S Cure - Spinner L Koffer 75 cm 102 L schwarz black'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 105.05 EUR
 currency: EUR
 price: 105.05

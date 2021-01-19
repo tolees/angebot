@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GT8ZDMP-de Sony PCM-A10 Diktiergerät High-Res Aufnahme FLAC Stereo...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 164.32 EUR
 currency: EUR
 price: 164.32

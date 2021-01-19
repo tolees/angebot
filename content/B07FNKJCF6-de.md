@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNKJCF6-de ELTD Tastatur Hülle für Samsung Galaxy Tab S4 10.5...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

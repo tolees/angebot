@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CGXVPXW-de Xiaomi Redmi 9A - Smartphone 32GB 2GB RAM Dual SIM Granite...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 82.0 EUR
 currency: EUR
 price: 82.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000UXF36I-de Mennekes AM 10863 Wandsteckdose SCHUKO 16A 230V IP68...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 34.94 EUR
 currency: EUR
 price: 34.94

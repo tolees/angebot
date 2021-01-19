@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ZYWR18-de Melitta Caffeo CI E970-101 Kaffeevollautomat | mit...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 548.99 EUR
 currency: EUR
 price: 548.99

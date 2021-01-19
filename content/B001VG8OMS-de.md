@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001VG8OMS-de Calvin Klein Underwear Herren Cotton Stretch Slip 3er Pack...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 28.75 EUR
 currency: EUR
 price: 28.75

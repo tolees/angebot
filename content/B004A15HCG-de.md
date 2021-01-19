@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004A15HCG-de Lico Mädchen Silverstar V Hallenschuhe Weiß...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 20.23 EUR
 currency: EUR
 price: 20.23

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FT2BZ4S-de Levi s Emerson Herren Kurzschaft Stiefel Schwarz Black 59...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

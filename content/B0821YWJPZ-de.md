@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0821YWJPZ-de Acer Aspire 3 A315-54-58ZK 39 6 cm 15 6 Zoll Full-HD matt...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 340.0 EUR
 currency: EUR
 price: 340.0

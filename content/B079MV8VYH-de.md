@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MV8VYH-de Playmobil 9481 Spielzeug-Maricela'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

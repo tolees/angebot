@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CBME57S-de Funko 7427 Dragonball POP Vinylfigur: Dragon Ball Z: Goku...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

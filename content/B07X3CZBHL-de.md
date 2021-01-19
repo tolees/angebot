@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X3CZBHL-de Zigma Spark Saugroboter Staubsauger Roboter mit...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 297.49 EUR
 currency: EUR
 price: 297.49

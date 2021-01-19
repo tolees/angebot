@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U8IUTNM-de Intel Dual Band Wireless-AC 7265'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 14.86 EUR
 currency: EUR
 price: 14.86

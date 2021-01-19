@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBRYWHX-de Microsoft Surface Pro 7 12 3 Zoll 2-in-1 Tablet Intel Core...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 1619.0 EUR
 currency: EUR
 price: 1619.0

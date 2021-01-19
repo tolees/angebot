@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6QKXFC-de PROACC Klavier Playmat Kinder Klaviertastatur Musik...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M1VAY45-de TP-Link Archer VR400 Modem Router Gigabit ADSL/VDSL Faser...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

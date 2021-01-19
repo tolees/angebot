@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E1QUFBM-de Samsung Galaxy S7 Smartphone 12 92 cm 5 1 Zoll Touch-...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

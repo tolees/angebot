@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KHTLCVU-de Schiesser Damen Tai 3er Pack Slip Weiß weiss 100 40/L'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 21.81 EUR
 currency: EUR
 price: 21.81

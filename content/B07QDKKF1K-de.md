@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QDKKF1K-de Salomon und die Königin von Saba - Mediabook Cover A + DVD...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 17.64 EUR
 currency: EUR
 price: 17.64

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P82NFF5-de Funko 42192 POP Vinyl: Harry Potter S7-Professor Sybill...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

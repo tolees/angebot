@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077VB1S1W-de Beloved Antichrist'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 8.06 EUR
 currency: EUR
 price: 8.06

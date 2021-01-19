@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075ZJD16P-de Haier HWD80-B14636 Waschtrockner / A / 1080 kWh/Jahr /1400...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 225.0 EUR
 currency: EUR
 price: 225.0

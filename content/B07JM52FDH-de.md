@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JM52FDH-de Playmobil 70026 Figures Girls Serie 15 bunt'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 0.19 EUR
 currency: EUR
 price: 0.19

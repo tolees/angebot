@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F4VZJCI-de HP PageWide 352dw Tintenstrahldrucker Duplex WLAN Netzwerk...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

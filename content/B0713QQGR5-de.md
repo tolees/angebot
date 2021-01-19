@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0713QQGR5-de Bosch Säge AdvancedCut 50 500 Watt NanoBlade Technologie...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

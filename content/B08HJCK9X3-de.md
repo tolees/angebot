@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HJCK9X3-de MACLY SmartBand Aktivitäts Tracker mit Blutdruckmessung...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

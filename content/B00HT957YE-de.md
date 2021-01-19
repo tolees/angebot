@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HT957YE-de Original Einhell System Akku Power X-Change Lithium Ionen...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 35.69 EUR
 currency: EUR
 price: 35.69

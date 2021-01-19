@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMLP1T7-de Napapijri Herren Aric Jacke Schwarz Black 041...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 72.16 EUR
 currency: EUR
 price: 72.16

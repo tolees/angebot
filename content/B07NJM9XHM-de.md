@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJM9XHM-de Tamaris Damen 1-1-25129-23 Stiefeletten Schwarz Black 1 38 EU'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 47.43 EUR
 currency: EUR
 price: 47.43

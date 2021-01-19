@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2YK6BH-de Ravensburger 20782 - STAR WARS Elfer raus! Familienspiel'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 5.84 EUR
 currency: EUR
 price: 5.84

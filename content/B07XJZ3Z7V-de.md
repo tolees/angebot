@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJZ3Z7V-de LG PK5W Outdoor Bluetooth Lautsprecher mit Meridian...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

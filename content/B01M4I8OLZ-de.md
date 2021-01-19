@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M4I8OLZ-de Parker IM Kugelschreiber | Schwarze Lackierung mit...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

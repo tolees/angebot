@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFBSH5B-de Funko 30773 Austin Powers POP Vinylfigur Multi'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 7.61 EUR
 currency: EUR
 price: 7.61

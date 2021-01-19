@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XH2GX7W-de Huawei P30 Pro Dual SIM Smartphone Bundle 16 434 cm 6.47...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 606 EUR
 currency: EUR
 price: 606

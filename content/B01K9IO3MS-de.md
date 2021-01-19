@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K9IO3MS-de Funko 10408 Harry Potter Phantastische Tierwesen-Niffler...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

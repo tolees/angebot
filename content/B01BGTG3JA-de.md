@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGTG3JA-de SanDisk SDCZ43-064G-GAM46 USB-Flash-Laufwerk USB 3.0 bis...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 16.83 EUR
 currency: EUR
 price: 16.83

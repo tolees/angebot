@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHZ7T4M-de Bqeel Android 10.0 TV Box【4G+64G】 R2 MAX Android TV Box...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

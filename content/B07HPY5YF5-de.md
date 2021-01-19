@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HPY5YF5-de Pop Fortnite Love Ranger Vinyl Figure'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 3.84 EUR
 currency: EUR
 price: 3.84

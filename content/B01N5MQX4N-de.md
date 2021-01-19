@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5MQX4N-de Sony MDR-XB950N1 kabelloser Kopfhörer mit...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 98 EUR
 currency: EUR
 price: 98

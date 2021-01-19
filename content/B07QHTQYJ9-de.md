@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QHTQYJ9-de AGT Staubsaugerdüse: 3er-Set Universal-Staubsauger-...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

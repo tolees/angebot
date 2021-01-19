@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B67ZK2P-de JACK & JONES Herren Jjeholmen Sweat Zip Hood Noos...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

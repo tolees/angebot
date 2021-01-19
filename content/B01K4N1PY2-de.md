@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K4N1PY2-de Sennheiser HD 4.30i Headset geschlossenes...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 45.9 EUR
 currency: EUR
 price: 45.9

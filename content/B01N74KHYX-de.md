@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N74KHYX-de Princess Raclette Grill in Bambusausführung - für bis zu 8...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

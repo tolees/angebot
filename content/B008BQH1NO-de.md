@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008BQH1NO-de Amazon Kindle Paperwhite Lederhülle Onyx-Schwarz – nicht...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 21.82 EUR
 currency: EUR
 price: 21.82

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003UOYB8A-de Duracell Specialty 2032 Lithium-Knopfzelle 3 V 2er-Packung...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

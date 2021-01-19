@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077T1MMX1-de Navitech lila Harter Fall für die Transcend 16 GB DrivePro...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

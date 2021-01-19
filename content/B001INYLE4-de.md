@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001INYLE4-de Panasonic RPHV154EK In-Ear-Kopfhörer 1 2 m Kabellänge 3 5...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 4.93 EUR
 currency: EUR
 price: 4.93

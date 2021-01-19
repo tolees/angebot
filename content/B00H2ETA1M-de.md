@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H2ETA1M-de Netgear GS748T 48-Port Gigabit Ethernet LAN Switch Smart...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 234.19 EUR
 currency: EUR
 price: 234.19

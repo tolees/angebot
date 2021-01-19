@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YS4MPMD-de G DATA Internet Security 2020 | 3 Geräte - 1 Jahr DVD-ROM...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

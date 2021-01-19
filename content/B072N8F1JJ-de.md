@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072N8F1JJ-de roba Spielregal Rennfahrer Spielzeug- & Aufbewahrungs-...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 44.06 EUR
 currency: EUR
 price: 44.06

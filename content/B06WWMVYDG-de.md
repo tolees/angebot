@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WWMVYDG-de Craft Herren Greatness Bike Shorts weiß XS'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

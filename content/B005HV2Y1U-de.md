@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005HV2Y1U-de Crocs Baya Slide Unisex - Erwachsene Dusch- & Badeschuhe...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

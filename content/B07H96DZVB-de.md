@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H96DZVB-de LincPlus P1 Laptop 13 3 Zoll Full HD Ultrabook Intel...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 279.0 EUR
 currency: EUR
 price: 279.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZMK1JB-de DJI Mavic Pro - Umhängetasche für Mavic Pro Zubehör 1...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 27.98 EUR
 currency: EUR
 price: 27.98

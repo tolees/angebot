@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08K8V6RX3-de Bluetooth Kopfhörer Ajcoflt Wireless Noise Cancelling...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

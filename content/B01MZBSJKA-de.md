@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZBSJKA-de The Afterlove'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XWQ8Z5G-de Live At Rockpalast'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 13.91 EUR
 currency: EUR
 price: 13.91

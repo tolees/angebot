@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QG9JN79-de Externes CD DVD Laufwerk Amicool USB 3.0 mit Type-C...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

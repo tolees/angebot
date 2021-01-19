@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DWIY39A-de Garmin Forerunner 735XT-GPS-Uhr schwarz/grau M 010-01614-06'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 164.95 EUR
 currency: EUR
 price: 164.95

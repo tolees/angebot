@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D83JHPB-de Honor 10 Smartphone 14 83 cm 5 84 Zoll Full HD+ Touch-...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 180.0 EUR
 currency: EUR
 price: 180.0

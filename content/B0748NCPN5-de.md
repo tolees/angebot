@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0748NCPN5-de Logitech Brio Stream Webcam 4K Ultra-HD 1080p Weites...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 152.99 EUR
 currency: EUR
 price: 152.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXMQ71Z-de Funko – 43350 – Television: Dr Who – Reconnaissance Dalek...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 9.7 EUR
 currency: EUR
 price: 9.7

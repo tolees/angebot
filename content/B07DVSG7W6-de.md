@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVSG7W6-de Jack Wolfskin Unisex-Erwachsene Warwick Ave sac à...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 28.48 EUR
 currency: EUR
 price: 28.48

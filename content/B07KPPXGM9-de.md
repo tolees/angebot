@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPPXGM9-de GANT Herren The ORIGINAL Pique SS Rugger Poloshirt Orange...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

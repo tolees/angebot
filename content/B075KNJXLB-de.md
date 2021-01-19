@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075KNJXLB-de hansgrohe Wasserhahn Novus wassersparende Armatur Auslauf...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

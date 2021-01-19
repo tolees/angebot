@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004KX5KTO-de Murder Ballads 2011-Remaster'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 4.29 EUR
 currency: EUR
 price: 4.29

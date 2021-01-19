@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B4VRFM0-de Fossil Herren Chronograph Quarz Uhr mit Edelstahl Armband...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 83.01 EUR
 currency: EUR
 price: 83.01

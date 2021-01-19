@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D4QFYM0-de Revell Modellbausatz Star Wars Rebel U-Wing Fighter im...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 11.08 EUR
 currency: EUR
 price: 11.08

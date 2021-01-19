@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IBJ522W-de Regal Raumteiler Raumtrenner Standregal | Weiß Dekor | 9...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 76.9 EUR
 currency: EUR
 price: 76.9

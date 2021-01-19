@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076DNLS3G-de Oral-B CrossAction Aufsteckbürsten Briefkastenfähige...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

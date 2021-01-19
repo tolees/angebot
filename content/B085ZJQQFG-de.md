@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085ZJQQFG-de AIKELA Handyhalterung Auto Handyhalter für Vent...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

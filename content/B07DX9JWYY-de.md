@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DX9JWYY-de Just Cause 4 - Standard Edition - [PlayStation 4]'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 6.66 EUR
 currency: EUR
 price: 6.66

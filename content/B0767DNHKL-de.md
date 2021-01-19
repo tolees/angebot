@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0767DNHKL-de Playmobil 9334 - Sheriff'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 1.48 EUR
 currency: EUR
 price: 1.48

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0171NKAR6-de Garmin vívosmart HR Fitness-Tracker - integrierte...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBPHYP3-de Hosome V912 Saugroboter mit LDS Navigation Wischfunktion...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 289.99 EUR
 currency: EUR
 price: 289.99

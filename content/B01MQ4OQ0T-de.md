@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQ4OQ0T-de Julbo Vermont Herren-Sonnenbrille Herren Sonnenbrille...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

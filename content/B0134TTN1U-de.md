@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0134TTN1U-de Creative Converting 315252 Birthday Plastic Tablecover...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

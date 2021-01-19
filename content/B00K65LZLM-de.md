@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K65LZLM-de Transcend TS32GJF590K JetFlash 32GB Speicherstick USB 2.0...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

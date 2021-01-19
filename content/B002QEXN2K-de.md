@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002QEXN2K-de Battle Studies'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 2.86 EUR
 currency: EUR
 price: 2.86

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FXP2KV-de Samsung Clear View Standing Cover EF-ZG960 für das Galaxy...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 8.26 EUR
 currency: EUR
 price: 8.26

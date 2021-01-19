@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002CF37OC-de Mantona Basic Scout Fotostativ Kamerastativ bis 144cm...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

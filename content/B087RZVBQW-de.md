@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087RZVBQW-de TP-Link Tapo L510E smarte WLAN Glühbirne E27 dimmbar 8.7 W...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

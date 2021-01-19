@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q9BXNLW-de Samsung Galaxy Tab A T515N 25 54 cm 10 1 Zoll Tablet-PC 1...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 179.25 EUR
 currency: EUR
 price: 179.25

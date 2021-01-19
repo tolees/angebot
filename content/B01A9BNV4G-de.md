@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01A9BNV4G-de Ravensburger Memory 21204 - Fireman Sam Mein erstes Memory'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 14.11 EUR
 currency: EUR
 price: 14.11

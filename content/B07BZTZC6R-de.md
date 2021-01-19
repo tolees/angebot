@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZTZC6R-de Yamaha P-125B Digital Piano schwarz - - Kompaktes...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 400 EUR
 currency: EUR
 price: 400

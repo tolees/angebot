@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HBP1C2C-de Apple iPhone XS 64GB - Silber'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 659.0 EUR
 currency: EUR
 price: 659.0

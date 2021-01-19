@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXWNJNE-de G-STAR RAW Damen Eyben Slim R T Wmn S/S T-Shirt Schwarz...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 14.55 EUR
 currency: EUR
 price: 14.55

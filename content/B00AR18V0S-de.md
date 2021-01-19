@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AR18V0S-de The North Face Herren Parkajacke McMurdo tnf black S...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 262.94 EUR
 currency: EUR
 price: 262.94
