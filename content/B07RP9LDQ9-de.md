@@ -25,9 +25,9 @@ Sie können [Pentel Pointliner S20P-5  5er Set Fineliner  schwarz  wasserfest un
 
 ℹ️:
 
-- kann mit wasservermalbaren Produkten kombiniert werden
 - ultra feine Faserspitze
-- Perfekt zum feinen Zeichnen, Skizzieren, Illustrieren und Schreiben
+- kann mit wasservermalbaren Produkten kombiniert werden
 - wasserfest und lichtecht nach ISO 14145-2 zertifiziert
+- Perfekt zum feinen Zeichnen, Skizzieren, Illustrieren und Schreiben
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07RP9LDQ9/?tag=tolees0ca-21)
