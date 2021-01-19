@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NC06BE6-de Hasbro Gaming C2018398 - Klartext Partyspiel Alter 16+'
-tags: 
+tags: tole.es
 actualPrice: 18.45 EUR
 currency: EUR
 price: 18.45

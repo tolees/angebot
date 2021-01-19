@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005TUK0R4-de Intex Filteranlagenzubehör - Filterkartusche - Typ A - 3...'
-tags: 
+tags: tole.es
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

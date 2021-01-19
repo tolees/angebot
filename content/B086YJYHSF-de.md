@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086YJYHSF-de K9CK Bauspielzeug Bauset Modifiziertes Paket Lässt Sich...'
-tags: 
+tags: tole.es
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

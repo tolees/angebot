@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LDZYN6C-de Bosch Professional Bohrhammer GBH 2-28 F SDS-plus-...'
-tags: 
+tags: tole.es
 actualPrice: 156.99 EUR
 currency: EUR
 price: 156.99

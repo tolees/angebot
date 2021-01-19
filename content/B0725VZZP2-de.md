@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0725VZZP2-de Buff Lightweight Merino Wool Multifunktionstuch Edgy Denim...'
-tags: 
+tags: tole.es
 actualPrice: 18.58 EUR
 currency: EUR
 price: 18.58

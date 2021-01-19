@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DG6VCYB-de Medisana BU 570 connect Oberarmblutdruckmessgerät...'
-tags: 
+tags: tole.es
 actualPrice: 53.24 EUR
 currency: EUR
 price: 53.24

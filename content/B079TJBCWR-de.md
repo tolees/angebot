@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079TJBCWR-de Funko 30850 POP Vinyl Deadpool Parody Multi Standard'
-tags: 
+tags: tole.es
 actualPrice: 9.8 EUR
 currency: EUR
 price: 9.8

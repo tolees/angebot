@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G7DJO7I-de Columbia Herren Woodburn II Chukka Wp Omni-Heat Schwarz...'
-tags: 
+tags: tole.es
 actualPrice: 50.16 EUR
 currency: EUR
 price: 50.16

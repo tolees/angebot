@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IJFGBTG-de VNOX Männer Frauen Edelstahl Umgekehrt Upside Down Kreuz...'
-tags: 
+tags: tole.es
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

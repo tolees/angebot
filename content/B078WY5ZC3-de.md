@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WY5ZC3-de ONLY Damen Skinny Fit Jeans ONLBlush Mid Ankle XS30White'
-tags: 
+tags: tole.es
 actualPrice: 19.96 EUR
 currency: EUR
 price: 19.96

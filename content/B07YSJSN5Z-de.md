@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YSJSN5Z-de Hamkaw Game Hülle Für iPhone Retro 3D Schutzhülle Case Mit...'
-tags: 
+tags: tole.es
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

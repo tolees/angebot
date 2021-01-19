@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001FSKH8G-de MIYABI 7000D Santoku Messer 18 cm Klinge CMV60 Stahl...'
-tags: 
+tags: tole.es
 actualPrice: 90.0 EUR
 currency: EUR
 price: 90.0

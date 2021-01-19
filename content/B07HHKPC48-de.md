@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HHKPC48-de Bosch Akkuschrauber AdvancedDrill 18 Set 2 Akkus 18 Volt...'
-tags: 
+tags: tole.es
 actualPrice: 166.99 EUR
 currency: EUR
 price: 166.99

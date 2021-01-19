@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VPST91-de Barilla Pasta Gemelli n. 90 500g'
-tags: 
+tags: tole.es
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

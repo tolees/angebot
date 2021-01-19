@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4PCTPK-de Tommy Hilfiger Herren Multi Zifferblatt Quarz Uhr mit...'
-tags: 
+tags: tole.es
 actualPrice: 117.37 EUR
 currency: EUR
 price: 117.37

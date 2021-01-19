@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0002IPFBY-de Netgear GS116GE 16-Port Gigabit Ethernet LAN Switch...'
-tags: 
+tags: tole.es
 actualPrice: 64.9 EUR
 currency: EUR
 price: 64.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KHHC7NS-de Yamaha WX-010 White MusicCast WX-010 Netzwerklautsprecher...'
-tags: 
+tags: tole.es
 actualPrice: 112.14 EUR
 currency: EUR
 price: 112.14

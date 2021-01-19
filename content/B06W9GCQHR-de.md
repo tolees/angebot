@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06W9GCQHR-de Schleich 42389 - Reitschule mit Reiterinnen und Pferden'
-tags: 
+tags: tole.es
 actualPrice: 35.79 EUR
 currency: EUR
 price: 35.79

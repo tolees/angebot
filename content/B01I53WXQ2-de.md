@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I53WXQ2-de WMF Intension Topfset 5-teilig Cromargan Edelstahl poliert...'
-tags: 
+tags: tole.es
 actualPrice: 129.95 EUR
 currency: EUR
 price: 129.95

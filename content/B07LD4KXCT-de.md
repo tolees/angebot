@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LD4KXCT-de Morituri [Blu-ray]'
-tags: 
+tags: tole.es
 actualPrice: 9.84 EUR
 currency: EUR
 price: 9.84

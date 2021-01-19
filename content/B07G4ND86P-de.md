@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4ND86P-de TP-Link Deco P7 Powerline WLAN Mesh Set 1300Mbits +...'
-tags: 
+tags: tole.es
 actualPrice: 199.9 EUR
 currency: EUR
 price: 199.9

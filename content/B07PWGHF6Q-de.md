@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWGHF6Q-de HP 14-dk0008ng 14 Zoll / FHD IPS Laptop AMD Ryzen 7 3700U...'
-tags: 
+tags: tole.es
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

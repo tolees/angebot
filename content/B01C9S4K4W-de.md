@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C9S4K4W-de Boxset'
-tags: 
+tags: tole.es
 actualPrice: 15.81 EUR
 currency: EUR
 price: 15.81

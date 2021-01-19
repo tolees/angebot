@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GV7W32C-de ELEGOO Roboter Penguin Bot Zweibeiniger Roboter Baukasten...'
-tags: 
+tags: tole.es
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

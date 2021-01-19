@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q4D14QV-de Simba 6315877626 Disney Frozen 2 Chunky ELSA 43cm'
-tags: 
+tags: tole.es
 actualPrice: 14.09 EUR
 currency: EUR
 price: 14.09

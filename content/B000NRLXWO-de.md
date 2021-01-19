@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NRLXWO-de Chopard Wish Duschgel 150 ml'
-tags: 
+tags: tole.es
 actualPrice: 6.72 EUR
 currency: EUR
 price: 6.72

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBHYJF3-de HTC Desire 19+ Smartphone 15 8 cm 6 22 Zoll IPS Display...'
-tags: 
+tags: tole.es
 actualPrice: 157.55 EUR
 currency: EUR
 price: 157.55

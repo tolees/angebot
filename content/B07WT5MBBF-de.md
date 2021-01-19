@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WT5MBBF-de SuperZings PSZ4D824IN00 Serie 4 Blaster Jet'
-tags: 
+tags: tole.es
 actualPrice: 2.17 EUR
 currency: EUR
 price: 2.17

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007AU9POU-de HAUPTSTADTKOFFER - Alex - Hartschalen-Koffer Koffer...'
-tags: 
+tags: tole.es
 actualPrice: 72.09 EUR
 currency: EUR
 price: 72.09

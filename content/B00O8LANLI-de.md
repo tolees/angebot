@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O8LANLI-de Onkyo CS-265 W CD HiFi Minisystem CD Player MP3 Radio 2 x...'
-tags: 
+tags: tole.es
 actualPrice: 147.0 EUR
 currency: EUR
 price: 147.0

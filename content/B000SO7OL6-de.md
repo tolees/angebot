@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000SO7OL6-de The Very Best Of Diana Krall'
-tags: 
+tags: tole.es
 actualPrice: 3.92 EUR
 currency: EUR
 price: 3.92

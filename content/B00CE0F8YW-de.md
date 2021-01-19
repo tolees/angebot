@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CE0F8YW-de Neff Z1913X0 Backstein Brot Pizza Keramik Holzschieber...'
-tags: 
+tags: tole.es
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008SDMMKM-de Simba 107108605 - Sandformen Eis'
-tags: 
+tags: tole.es
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

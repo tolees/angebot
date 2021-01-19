@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6QT7TR-de eufy Security Sicherheitskamera mit Scheinwerfer 1080p...'
-tags: 
+tags: tole.es
 actualPrice: 125.99 EUR
 currency: EUR
 price: 125.99

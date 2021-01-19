@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NH1S3CX-de Barbie FXH15 - Reitspaß Spielset mit Barbie blond Chelsea...'
-tags: 
+tags: tole.es
 actualPrice: 40.42 EUR
 currency: EUR
 price: 40.42

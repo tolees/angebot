@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0798NW8KM-de Elegant Life Besteck 24-teilige Besteck Set aus Japan-...'
-tags: 
+tags: tole.es
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

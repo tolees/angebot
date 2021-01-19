@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C8OMP8A-de Bandai – Miraculous Ladybug – Verwandlungsset – Verkleiden...'
-tags: 
+tags: tole.es
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

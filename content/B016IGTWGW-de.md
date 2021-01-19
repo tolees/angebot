@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016IGTWGW-de Neff TPT5960X /T59PT60X0 / Autarkes Kochfeld / Induktion /...'
-tags: 
+tags: tole.es
 actualPrice: 885.0 EUR
 currency: EUR
 price: 885.0

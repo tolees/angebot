@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFX12M8-de Sloggi Damen Zero Microfibre C2P Hipster Mehrfarbig Black...'
-tags: 
+tags: tole.es
 actualPrice: 9.39 EUR
 currency: EUR
 price: 9.39

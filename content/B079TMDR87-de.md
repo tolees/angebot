@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079TMDR87-de Orbsmart lüfterloser 4K Mini PC AW-09 Windows 10 Desktop-...'
-tags: 
+tags: tole.es
 actualPrice: 209.9 EUR
 currency: EUR
 price: 209.9

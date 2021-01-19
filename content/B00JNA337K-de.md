@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JNA337K-de Asus PCE-AC56 PCIe-Karte Wi-Fi 5 AC1300 Dual-Band PCIe 1x...'
-tags: 
+tags: tole.es
 actualPrice: 42.37 EUR
 currency: EUR
 price: 42.37

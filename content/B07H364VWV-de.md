@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H364VWV-de Acer Swift 3 Pro SF313-51-873X 33 78 cm 13 3 Zoll Full-HD...'
-tags: 
+tags: tole.es
 actualPrice: 533 EUR
 currency: EUR
 price: 533

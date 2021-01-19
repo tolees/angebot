@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF5BDLK-de Levi s Herren 527 Slim Boot Cut Jeans Pulley T2 0563 32W /...'
-tags: 
+tags: tole.es
 actualPrice: 48.69 EUR
 currency: EUR
 price: 48.69

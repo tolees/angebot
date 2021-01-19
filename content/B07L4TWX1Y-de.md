@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L4TWX1Y-de SVITA TM2X15 Treteimer 30 Liter 2x15L oder 54 Liter 3x18L...'
-tags: 
+tags: tole.es
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

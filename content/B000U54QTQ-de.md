@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000U54QTQ-de Sink or Swim'
-tags: 
+tags: tole.es
 actualPrice: 6.68 EUR
 currency: EUR
 price: 6.68

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVDQB4F-de Pop Trolls Teal Troll Vinyl Figure'
-tags: 
+tags: tole.es
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

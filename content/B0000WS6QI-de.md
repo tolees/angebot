@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0000WS6QI-de Numark HF125 - professioneller DJ Kopfhörer mit 2m Kabel...'
-tags: 
+tags: tole.es
 actualPrice: 8.3 EUR
 currency: EUR
 price: 8.3

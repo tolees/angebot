@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AN8ZF58-de Legend - Steel Edition [Blu-ray]'
-tags: 
+tags: tole.es
 actualPrice: 5.93 EUR
 currency: EUR
 price: 5.93

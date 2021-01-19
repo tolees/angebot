@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K3GKY16-de SteelSeries Apex M750 Mechanische Gaming-Tastatur RGB-...'
-tags: 
+tags: tole.es
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

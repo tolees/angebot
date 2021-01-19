@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BV13S7S-de Seagate Game Drive für Xbox tragbare externe Festplatte 4...'
-tags: 
+tags: tole.es
 actualPrice: 112.99 EUR
 currency: EUR
 price: 112.99

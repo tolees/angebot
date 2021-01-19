@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NH66TYA-de Gypsy Heart'
-tags: 
+tags: tole.es
 actualPrice: 5.39 EUR
 currency: EUR
 price: 5.39

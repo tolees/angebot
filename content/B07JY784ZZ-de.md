@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JY784ZZ-de AUKEY Bluetooth Kopfhörer Key Series Bluetooth 5 In Ear...'
-tags: 
+tags: tole.es
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

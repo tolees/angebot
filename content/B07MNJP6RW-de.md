@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNJP6RW-de Crucial Ballistix Sport LT BLS2K8G4D32AESBK 3200 MHz DDR4...'
-tags: 
+tags: tole.es
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

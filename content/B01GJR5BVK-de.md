@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GJR5BVK-de HP OfficeJet Pro 8715 Multifunktionsdrucker Instant Ink...'
-tags: 
+tags: tole.es
 actualPrice: 132.06 EUR
 currency: EUR
 price: 132.06

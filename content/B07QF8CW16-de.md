@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QF8CW16-de BBLAC 2KEY B2KEY® SWAT Revolver Military Technique...'
-tags: 
+tags: tole.es
 actualPrice: 53.37 EUR
 currency: EUR
 price: 53.37

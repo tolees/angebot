@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076W5GMG6-de Pepe Jeans Damen Jeans Soho Blau D26 29W/30L'
-tags: 
+tags: tole.es
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

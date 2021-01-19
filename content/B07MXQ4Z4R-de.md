@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXQ4Z4R-de DELSEY PARIS COMETE FASHION azzurro'
-tags: 
+tags: tole.es
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

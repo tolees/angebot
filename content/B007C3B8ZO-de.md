@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007C3B8ZO-de Hama "Bernstein" LED Nachtlicht für Kinderzimmer und...'
-tags: 
+tags: tole.es
 actualPrice: 5.84 EUR
 currency: EUR
 price: 5.84

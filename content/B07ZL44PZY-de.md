@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZL44PZY-de Mammut Herren Hardshell-jacke Albula Hooded rot S'
-tags: 
+tags: tole.es
 actualPrice: 122.95 EUR
 currency: EUR
 price: 122.95

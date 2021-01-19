@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072MFLD2T-de Philips SHB3175BK BASS+ Over-Ear Bluetooth-Kopfhörer 13...'
-tags: 
+tags: tole.es
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

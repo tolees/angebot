@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZX5NML-de adidas Tiro Rucksack Rucksack 45 cm 25 Liter Power Red/White'
-tags: 
+tags: tole.es
 actualPrice: 15.4 EUR
 currency: EUR
 price: 15.4

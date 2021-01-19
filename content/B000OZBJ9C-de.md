@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000OZBJ9C-de Park Tool Mini-Faltwerkzeug IB-3 I-Beam g 4000840'
-tags: 
+tags: tole.es
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

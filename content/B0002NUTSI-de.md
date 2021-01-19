@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0002NUTSI-de Crosby Stills & Nash - Greatest Hits'
-tags: 
+tags: tole.es
 actualPrice: 3.92 EUR
 currency: EUR
 price: 3.92

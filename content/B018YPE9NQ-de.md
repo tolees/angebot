@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018YPE9NQ-de Bosch Professional Multi-Tool GOP 40-30 inkl. 9xStarlock...'
-tags: 
+tags: tole.es
 actualPrice: 178.99 EUR
 currency: EUR
 price: 178.99

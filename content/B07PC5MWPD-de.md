@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PC5MWPD-de RITUALS The Ritual of Samurai Classic Duschschaum 200 ml'
-tags: 
+tags: tole.es
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

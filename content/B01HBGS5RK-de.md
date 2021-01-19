@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HBGS5RK-de Souarts Ring Damen Schmuck Silber Gold Rosegold Farbe...'
-tags: 
+tags: tole.es
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

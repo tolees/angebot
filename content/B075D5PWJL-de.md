@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075D5PWJL-de Britax Römer BABY-SAFE PLUS SHR II Autositz Babyschale...'
-tags: 
+tags: tole.es
 actualPrice: 122.01 EUR
 currency: EUR
 price: 122.01

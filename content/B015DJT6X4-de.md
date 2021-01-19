@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015DJT6X4-de Siemens EX645LYC1E iQ700 Kochfeld Elektro /...'
-tags: 
+tags: tole.es
 actualPrice: 633.0 EUR
 currency: EUR
 price: 633.0

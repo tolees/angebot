@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ZXDOMA-de Harman/Kardon Soundsticks III LED Desktop Soundsystem...'
-tags: 
+tags: tole.es
 actualPrice: 167.75 EUR
 currency: EUR
 price: 167.75

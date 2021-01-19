@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JK3RC16-de Yazubi Herren Kapuzenjacke Jacob - graue Sweatjacke Herren...'
-tags: 
+tags: tole.es
 actualPrice: 27.96 EUR
 currency: EUR
 price: 27.96

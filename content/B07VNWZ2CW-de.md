@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNWZ2CW-de Boltune Noise Cancelling Bluetooth Kopfhörer 5.0 Over-Ear...'
-tags: 
+tags: tole.es
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

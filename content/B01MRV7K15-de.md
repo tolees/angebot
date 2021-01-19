@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRV7K15-de Beko DE8535RX0 Wärmepumpentrockner/8...'
-tags: 
+tags: tole.es
 actualPrice: 365.0 EUR
 currency: EUR
 price: 365.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MHRT0YQ-de Sylvanian Families 5108 5108-Essen-Set in der Schule...'
-tags: 
+tags: tole.es
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

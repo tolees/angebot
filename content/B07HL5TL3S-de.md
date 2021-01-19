@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HL5TL3S-de Skagen Smartwatch SKT5100'
-tags: 
+tags: tole.es
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

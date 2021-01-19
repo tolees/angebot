@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000GPI19G-de The Cooker Rvg'
-tags: 
+tags: tole.es
 actualPrice: 4.29 EUR
 currency: EUR
 price: 4.29

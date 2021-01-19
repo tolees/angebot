@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2QYF4N-de HUGO Herren Dicago193 Sweatshirt per Pack Blau Dark Blue...'
-tags: 
+tags: tole.es
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

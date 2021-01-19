@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009B0YWDG-de Games of Thrones 3012 Actionfigur Daenerys Targaryen'
-tags: 
+tags: tole.es
 actualPrice: 11.34 EUR
 currency: EUR
 price: 11.34

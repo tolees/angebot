@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004P2ZYLO-de Umarex Spitzkopf 4 5mm für Diabolo Cobra Luftpistolen...'
-tags: 
+tags: tole.es
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

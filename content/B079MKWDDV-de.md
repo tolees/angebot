@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MKWDDV-de PLAYMOBIL DreamWorks Spirit 9477 Vater Jim mit Kutsche Ab...'
-tags: 
+tags: tole.es
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M5BURG9-de JBL E45BT On-Ear Bluetooth Kopfhörer - Headphones mit...'
-tags: 
+tags: tole.es
 actualPrice: 55.48 EUR
 currency: EUR
 price: 55.48

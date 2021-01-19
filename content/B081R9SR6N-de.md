@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081R9SR6N-de BRIKSMAX Led Beleuchtungsset für Lego Gingerbread House...'
-tags: 
+tags: tole.es
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

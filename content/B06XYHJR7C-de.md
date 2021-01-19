@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XYHJR7C-de Hasbro - Kristallica kindgerechtes Geschicklichkeitsspiel...'
-tags: 
+tags: tole.es
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

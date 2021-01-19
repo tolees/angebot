@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D1WMB7I-de Acer Chromebook 14 Notebook 14 Zoll Full-HD IPS matt...'
-tags: 
+tags: tole.es
 actualPrice: 294.39 EUR
 currency: EUR
 price: 294.39

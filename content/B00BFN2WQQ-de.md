@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BFN2WQQ-de Casio Edifice Herren Massives Edelstahlgehäuse und...'
-tags: 
+tags: tole.es
 actualPrice: 70.71 EUR
 currency: EUR
 price: 70.71

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078YHD9BB-de Microsoft Surface Book 2 38 1 cm 15 Zoll Laptop Intel Core...'
-tags: 
+tags: tole.es
 actualPrice: 545.0 EUR
 currency: EUR
 price: 545.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001P4ZACS-de Haba 4655 - Meine ersten Spiele Erster Obstgarten...'
-tags: 
+tags: tole.es
 actualPrice: 18.29 EUR
 currency: EUR
 price: 18.29

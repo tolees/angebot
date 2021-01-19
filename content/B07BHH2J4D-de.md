@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHH2J4D-de ghd max Styler breites Glätteisen mit Keramik-Heiztechnologie'
-tags: 
+tags: tole.es
 actualPrice: 133.33 EUR
 currency: EUR
 price: 133.33

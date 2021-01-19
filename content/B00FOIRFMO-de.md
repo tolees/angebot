@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FOIRFMO-de Philips HU4803/01 Luftbefeuchter bis zu 25m² hygienische...'
-tags: 
+tags: tole.es
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NX64SN5-de Pioneer VSX-934 7.2-Kanal Netzwerk AV Receiver 7x160 Watt...'
-tags: 
+tags: tole.es
 actualPrice: 311.99 EUR
 currency: EUR
 price: 311.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HNS43Z5-de Philips 276E8VJSB/00 68 cm 27 Zoll Monitor HDMI 5ms...'
-tags: 
+tags: tole.es
 actualPrice: 228.61 EUR
 currency: EUR
 price: 228.61

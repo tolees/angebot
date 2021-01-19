@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06W9LSS3V-de Honeywell HYF260E4 Quiet-Set Turmventilator mit...'
-tags: 
+tags: tole.es
 actualPrice: 74.82 EUR
 currency: EUR
 price: 74.82

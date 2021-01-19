@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085VLRP4Z-de Gowind6 Video-Kabel für SNES Nintendo 64 N64 1 8 m'
-tags: 
+tags: tole.es
 actualPrice: 5.05 EUR
 currency: EUR
 price: 5.05

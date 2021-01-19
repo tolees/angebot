@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P3DFPM3-de Mattel GGH45 - Toy Story 4 Super Action Buzz Lightyear...'
-tags: 
+tags: tole.es
 actualPrice: 28.23 EUR
 currency: EUR
 price: 28.23

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00006CFJJ-de Willow [Special Edition]'
-tags: 
+tags: tole.es
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

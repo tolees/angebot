@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G8FN3XD-de Huawei Mate 20 lite Dual-SIM Android 8.1 Smartphone mit...'
-tags: 
+tags: tole.es
 actualPrice: 148.45 EUR
 currency: EUR
 price: 148.45

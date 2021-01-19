@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M5ELVUH-de Jane Austen s Love & Friendship'
-tags: 
+tags: tole.es
 actualPrice: 2.33 EUR
 currency: EUR
 price: 2.33

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FZ4P5KR-de Tado Smartes Heizkörper-Thermostat Duo Pack Zusatzprodukte...'
-tags: 
+tags: tole.es
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J63IWVQ-de B. Toys 44172 - Baa-Baa-Barn Bauernhof'
-tags: 
+tags: tole.es
 actualPrice: 53.74 EUR
 currency: EUR
 price: 53.74

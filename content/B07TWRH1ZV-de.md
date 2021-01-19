@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWRH1ZV-de Ladeheid Eva Kinder Jungen Mädchen Gummistiefel...'
-tags: 
+tags: tole.es
 actualPrice: 17.24 EUR
 currency: EUR
 price: 17.24

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005XVUJWU-de Bosch 0092S40070 Starterbatterien'
-tags: 
+tags: tole.es
 actualPrice: 69.58 EUR
 currency: EUR
 price: 69.58

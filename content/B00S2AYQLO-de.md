@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00S2AYQLO-de Nike Pro Patella Band 2.0 Patellaband Schwarz L-XL'
-tags: 
+tags: tole.es
 actualPrice: 11.14 EUR
 currency: EUR
 price: 11.14

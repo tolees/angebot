@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017RYXNF0-de Linksys Max-Stream AC5400 MU-MIMO Dual-Band Wi-Fi Router...'
-tags: 
+tags: tole.es
 actualPrice: 215.0 EUR
 currency: EUR
 price: 215.0

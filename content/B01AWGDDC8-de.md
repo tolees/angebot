@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AWGDDC8-de Brother ADS-3600W Dokumentenscanner mit LAN und WLAN schwarz'
-tags: 
+tags: tole.es
 actualPrice: 489.0 EUR
 currency: EUR
 price: 489.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079Y9PP1Y-de Funko 30682 Actionfigur Marvel Spider-Man-Mary Jane mit...'
-tags: 
+tags: tole.es
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

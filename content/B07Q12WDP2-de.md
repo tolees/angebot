@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q12WDP2-de Marshall Stockwell II Tragbarer Lautsprecher - schwarz'
-tags: 
+tags: tole.es
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

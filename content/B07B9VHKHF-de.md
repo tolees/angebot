@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9VHKHF-de HMIYA Unisex Badeschuhe-Strandschuhe-Aquaschuhe Barfuß...'
-tags: 
+tags: tole.es
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

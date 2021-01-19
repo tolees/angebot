@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074Z2ZJDG-de Seiko Herren Chronograph Quarz Uhr mit Edelstahl Armband...'
-tags: 
+tags: tole.es
 actualPrice: 148.98 EUR
 currency: EUR
 price: 148.98

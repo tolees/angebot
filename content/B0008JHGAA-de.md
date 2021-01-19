@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0008JHGAA-de Kodak Portra 800 135-36 Farbfilm'
-tags: 
+tags: tole.es
 actualPrice: 10.73 EUR
 currency: EUR
 price: 10.73

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004VCT3DI-de Sony MDR-E9LP In-Ear / In-Ohr Kopfhörer 1 2m Kabel Neodym-...'
-tags: 
+tags: tole.es
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

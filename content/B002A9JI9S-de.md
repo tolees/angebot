@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002A9JI9S-de Philips Ersatzlampenbox H1 / H7'
-tags: 
+tags: tole.es
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

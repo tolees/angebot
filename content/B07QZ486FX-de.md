@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZ486FX-de HUAWEI Y5 2019 Dual SIM Smartphone 14 5 cm 5 71 Zoll 16GB...'
-tags: 
+tags: tole.es
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

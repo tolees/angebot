@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000AGL1A2-de Sämtliche Sinfonien Ga'
-tags: 
+tags: tole.es
 actualPrice: 8.82 EUR
 currency: EUR
 price: 8.82

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P2HSC7R-de Hasbro FURREAL Friends E7963EU4 furReal Topper Mein Baby-...'
-tags: 
+tags: tole.es
 actualPrice: 37.84 EUR
 currency: EUR
 price: 37.84

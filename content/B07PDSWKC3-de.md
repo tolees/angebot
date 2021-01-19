@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDSWKC3-de HUAWEI Cover PU Case P30 Pro Schwarz'
-tags: 
+tags: tole.es
 actualPrice: 13.63 EUR
 currency: EUR
 price: 13.63

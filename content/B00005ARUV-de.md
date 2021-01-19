@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00005ARUV-de Kult Die besten Schlager'
-tags: 
+tags: tole.es
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

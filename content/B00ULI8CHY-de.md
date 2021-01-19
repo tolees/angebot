@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ULI8CHY-de Samsonite Neopulse - Spinner S Breite: 20 cm Handgepäck 55...'
-tags: 
+tags: tole.es
 actualPrice: 155.4 EUR
 currency: EUR
 price: 155.4

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075CMWLXD-de Sublevel Damen Winter-Jacke mit Kapuze warm gefüttert...'
-tags: 
+tags: tole.es
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

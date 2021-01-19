@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000RU98CE-de Playshoes Unisex Kinder Regenhose Buddelhose Matschhose...'
-tags: 
+tags: tole.es
 actualPrice: 8.82 EUR
 currency: EUR
 price: 8.82

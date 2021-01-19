@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WV9L2DH-de BRIKSMAX Led Beleuchtungsset für Lego Ideas Die NASA-...'
-tags: 
+tags: tole.es
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

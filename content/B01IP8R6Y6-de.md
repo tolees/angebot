@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IP8R6Y6-de Philips 3-in-1 LED Lampe SceneSwitch ersetzt 60W EEK A+...'
-tags: 
+tags: tole.es
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

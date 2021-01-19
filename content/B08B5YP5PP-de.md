@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B5YP5PP-de Echo Plus 2. Gen. Anthrazit Stoff + Philips Hue White LED-...'
-tags: 
+tags: tole.es
 actualPrice: 68.23 EUR
 currency: EUR
 price: 68.23

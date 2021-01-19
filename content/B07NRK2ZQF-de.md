@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRK2ZQF-de Gifort 1200 stücke 1-1.5cm Pompons Bunte Pompom Pom Pom...'
-tags: 
+tags: tole.es
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

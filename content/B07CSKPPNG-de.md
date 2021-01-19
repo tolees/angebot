@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CSKPPNG-de Razer Base Station Chroma Headset Ständer mit RGB und USB-...'
-tags: 
+tags: tole.es
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

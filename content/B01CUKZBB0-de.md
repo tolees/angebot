@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CUKZBB0-de Amazon-Schutzhülle für Kindle Schwarz —nicht geeignet für...'
-tags: 
+tags: tole.es
 actualPrice: 9.22 EUR
 currency: EUR
 price: 9.22

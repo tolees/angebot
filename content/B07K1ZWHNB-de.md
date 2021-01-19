@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K1ZWHNB-de Dowinx Gaming Stuhl Ergonomischer Racing Stil Lehnstuhl...'
-tags: 
+tags: tole.es
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

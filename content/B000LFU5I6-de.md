@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000LFU5I6-de Silverline 726040 Schleifwalzen 25-tlg. Satz 80er-Körnung'
-tags: 
+tags: tole.es
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XPCC3NN-de HP Pavilion Gaming TG01-0023ng Desktop AMD Ryzen 7-3700X...'
-tags: 
+tags: tole.es
 actualPrice: 500 EUR
 currency: EUR
 price: 500

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018IFNSX4-de Elvie Trainer - Der preisgekrönte Beckenbodentrainer mit...'
-tags: 
+tags: tole.es
 actualPrice: 142.64 EUR
 currency: EUR
 price: 142.64

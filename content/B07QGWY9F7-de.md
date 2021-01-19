@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QGWY9F7-de Funko POP! Vinyl Rocks: Iggy Pop - Iggy Mehrfarben Standard'
-tags: 
+tags: tole.es
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

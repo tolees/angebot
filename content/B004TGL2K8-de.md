@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004TGL2K8-de KMC X8-93 Kette 114 Glieder Silber/Grau'
-tags: 
+tags: tole.es
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000K6ASZQ-de STABILO OHPen 853/4 M non-permanent 4er Etui'
-tags: 
+tags: tole.es
 actualPrice: 3.08 EUR
 currency: EUR
 price: 3.08

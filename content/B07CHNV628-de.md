@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CHNV628-de Worx 40V 2 x 20V/4.0Ah Max Li-Ion 34 cm Akku-Rasenmäher...'
-tags: 
+tags: tole.es
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014WCLGHW-de Philips BTM3360/12 Stereoanlage mit Bluetooth Multipair...'
-tags: 
+tags: tole.es
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

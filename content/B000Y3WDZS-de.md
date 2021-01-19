@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000Y3WDZS-de Wrangler Herren Texas Contrast Jeans Blau Vintage...'
-tags: 
+tags: tole.es
 actualPrice: 51.07 EUR
 currency: EUR
 price: 51.07

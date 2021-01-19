@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G5MG47O-de Die Rosenheim-Cops - Die komplette elfte Staffel [6 DVDs]'
-tags: 
+tags: tole.es
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

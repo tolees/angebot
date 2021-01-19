@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WYYZ323-de Tablet Android 10 Zoll Dragon Touch K10 Tablet Pad Android...'
-tags: 
+tags: tole.es
 actualPrice: 70.78 EUR
 currency: EUR
 price: 70.78

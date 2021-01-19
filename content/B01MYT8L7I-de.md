@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYT8L7I-de Audio Pro Addon T5 Bluetooth Stereo-Lautsprecher...'
-tags: 
+tags: tole.es
 actualPrice: 134.89 EUR
 currency: EUR
 price: 134.89

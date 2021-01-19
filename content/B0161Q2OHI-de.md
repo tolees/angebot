@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0161Q2OHI-de Beurer BC 57 Handgelenk-Blutdruckmessgerät Medizinprodukt...'
-tags: 
+tags: tole.es
 actualPrice: 39.96 EUR
 currency: EUR
 price: 39.96

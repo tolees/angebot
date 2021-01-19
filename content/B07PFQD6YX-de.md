@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFQD6YX-de Original BestLoft® Weinregal Amber aus Eiche Wandregal...'
-tags: 
+tags: tole.es
 actualPrice: 120.0 EUR
 currency: EUR
 price: 120.0

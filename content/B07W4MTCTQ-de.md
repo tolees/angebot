@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4MTCTQ-de Mini Kinder Spielen Küche Moderne rote Küche Spielzeug...'
-tags: 
+tags: tole.es
 actualPrice: 22.19 EUR
 currency: EUR
 price: 22.19

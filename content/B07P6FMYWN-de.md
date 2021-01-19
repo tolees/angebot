@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6FMYWN-de PLAYMOBIL:THE MOVIE 70071 Robotitron mit Drohne Ab 5 Jahren'
-tags: 
+tags: tole.es
 actualPrice: 11.17 EUR
 currency: EUR
 price: 11.17

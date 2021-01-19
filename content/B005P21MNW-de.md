@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005P21MNW-de SKROSS Country Adapter World to Europe: Reiseadapter für...'
-tags: 
+tags: tole.es
 actualPrice: 6.32 EUR
 currency: EUR
 price: 6.32

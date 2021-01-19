@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MS01VXT-de Kitchen Craft Kaffeebüchse Industrial Kitchen 11x16 5cm...'
-tags: 
+tags: tole.es
 actualPrice: 12.25 EUR
 currency: EUR
 price: 12.25

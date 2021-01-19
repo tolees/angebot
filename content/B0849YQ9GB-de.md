@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0849YQ9GB-de Oliver’s Kitchen Premium Schneidebrett 100% Bio Bambus –...'
-tags: 
+tags: tole.es
 actualPrice: 19.93 EUR
 currency: EUR
 price: 19.93

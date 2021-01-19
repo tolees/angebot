@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016IGUH02-de Neff T18TT16N0 Elektrokochfeld N70 / 80cm / TwistPad /...'
-tags: 
+tags: tole.es
 actualPrice: 341.0 EUR
 currency: EUR
 price: 341.0

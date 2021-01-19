@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KMVOX82-de Einhell Kompressor TH-AC 240/50/10 OF 1500 W 240 l/min...'
-tags: 
+tags: tole.es
 actualPrice: 104.95 EUR
 currency: EUR
 price: 104.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJDSXBX-de Funko 34496 Pop-Vinyl: Television: Money Heist: The...'
-tags: 
+tags: tole.es
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

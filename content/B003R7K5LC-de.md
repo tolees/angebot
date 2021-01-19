@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003R7K5LC-de Mentos Fruit Dragees 40 Rollen Bonbons Frucht-Geschmack...'
-tags: 
+tags: tole.es
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

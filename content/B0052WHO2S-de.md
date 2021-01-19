@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0052WHO2S-de Brother FS20 Computer-Nähmaschine mit 32 Nähprogramme...'
-tags: 
+tags: tole.es
 actualPrice: 179.98 EUR
 currency: EUR
 price: 179.98

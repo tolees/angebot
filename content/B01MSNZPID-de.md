@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MSNZPID-de ASICS Damen Noosa FF Turnschuhe Schwarz Black/Bay/Viridian...'
-tags: 
+tags: tole.es
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

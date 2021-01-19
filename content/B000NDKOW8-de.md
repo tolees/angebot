@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NDKOW8-de Kathrein ESC 30 Sat 3Loch Einzeldose'
-tags: 
+tags: tole.es
 actualPrice: 9.52 EUR
 currency: EUR
 price: 9.52

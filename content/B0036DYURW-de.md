@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0036DYURW-de NIKE Damen Sport-BH Victory Compression Schwarz...'
-tags: 
+tags: tole.es
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPTBSM4-de Funko 37022 POP Vinyl: Disney: Aladdin Live Action :...'
-tags: 
+tags: tole.es
 actualPrice: 10.11 EUR
 currency: EUR
 price: 10.11

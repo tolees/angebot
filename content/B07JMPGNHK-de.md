@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMPGNHK-de Xiaomi M1808D2TGN-64 Mi 8 Lite Smartphone 64 GB schwarz...'
-tags: 
+tags: tole.es
 actualPrice: 170.0 EUR
 currency: EUR
 price: 170.0

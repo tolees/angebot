@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LP4H22S-de Bosch Professional Kreuzlinienlaser GLL 2-10 roter Laser...'
-tags: 
+tags: tole.es
 actualPrice: 62.0 EUR
 currency: EUR
 price: 62.0

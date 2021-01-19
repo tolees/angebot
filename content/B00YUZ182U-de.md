@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YUZ182U-de Le Creuset Signature Gusseisen Gourmet-Profitopf Rund Ø 30...'
-tags: 
+tags: tole.es
 actualPrice: 145.25 EUR
 currency: EUR
 price: 145.25

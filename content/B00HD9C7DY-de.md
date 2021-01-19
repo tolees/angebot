@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HD9C7DY-de Wenger 600627 GIGABYTE 15.4" MacBook Pro Laptop-Rucksack...'
-tags: 
+tags: tole.es
 actualPrice: 45.09 EUR
 currency: EUR
 price: 45.09

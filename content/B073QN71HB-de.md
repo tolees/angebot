@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073QN71HB-de Notebook ES1-732 - 500GB SSD - 8GB RAM - Windows 10 PRO -...'
-tags: 
+tags: tole.es
 actualPrice: 275.0 EUR
 currency: EUR
 price: 275.0

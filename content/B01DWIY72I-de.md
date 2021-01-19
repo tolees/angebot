@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DWIY72I-de Garmin Forerunner 735XT-GPS-Uhr frost blau M 010-01614-16'
-tags: 
+tags: tole.es
 actualPrice: 271.02 EUR
 currency: EUR
 price: 271.02

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZTX8YG1-de PLAYMOBIL Top Agents 70233 Arctic Rebels Eisroboter Ab 6...'
-tags: 
+tags: tole.es
 actualPrice: 17.57 EUR
 currency: EUR
 price: 17.57

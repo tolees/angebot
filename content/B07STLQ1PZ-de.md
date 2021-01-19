@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STLQ1PZ-de Geox Herren U SNAKE.2 A Grün Dk Green/Lt Grey C3287 43 EU'
-tags: 
+tags: tole.es
 actualPrice: 37.22 EUR
 currency: EUR
 price: 37.22

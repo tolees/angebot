@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079KD4PR6-de Hot Wheels FTB67 - City Ultimative Autowaschanlage mit...'
-tags: 
+tags: tole.es
 actualPrice: 53.29 EUR
 currency: EUR
 price: 53.29

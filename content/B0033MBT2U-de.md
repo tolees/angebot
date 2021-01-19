@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0033MBT2U-de Ravensburger tiptoi Der interaktive Globus Spiel ab 7...'
-tags: 
+tags: tole.es
 actualPrice: 40.34 EUR
 currency: EUR
 price: 40.34

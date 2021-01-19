@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077T6QTZG-de Bosch Akku Kettensäge Universalchain 18 1 Akku 18 Volt...'
-tags: 
+tags: tole.es
 actualPrice: 115.99 EUR
 currency: EUR
 price: 115.99

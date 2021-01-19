@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082YPFQL8-de Playmobil Family Fun 70341 Mein großer Erlebnis-Zoo Ab 4...'
-tags: 
+tags: tole.es
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

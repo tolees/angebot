@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D8OHE5E-de Steiff 239571 Schlaf-gut-Bär Plüschtier Mehrfarbig'
-tags: 
+tags: tole.es
 actualPrice: 22.19 EUR
 currency: EUR
 price: 22.19

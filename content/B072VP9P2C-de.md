@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072VP9P2C-de CITIZEN Herren Analog Solar Uhr mit Edelstahl Armband...'
-tags: 
+tags: tole.es
 actualPrice: 222.0 EUR
 currency: EUR
 price: 222.0

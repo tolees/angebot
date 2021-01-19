@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010A7EA3K-de Icy Box IB-AC636 Tablet Halterung 22 9 cm bis 27 9 cm mit...'
-tags: 
+tags: tole.es
 actualPrice: 59.27 EUR
 currency: EUR
 price: 59.27

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081Q5RCMV-de Bluetooth Headset mit Microfon TaoTronics PC Headset...'
-tags: 
+tags: tole.es
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

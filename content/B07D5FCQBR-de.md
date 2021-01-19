@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5FCQBR-de HP ENVY x360 13-ag0005ng Touchdisplay 13 3 Zoll / Full HD...'
-tags: 
+tags: tole.es
 actualPrice: 500.0 EUR
 currency: EUR
 price: 500.0

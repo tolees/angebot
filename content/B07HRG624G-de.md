@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRG624G-de Ultimate Ears Boom 3 Tragbarer Bluetooth-Lautsprecher +...'
-tags: 
+tags: tole.es
 actualPrice: 98.43 EUR
 currency: EUR
 price: 98.43

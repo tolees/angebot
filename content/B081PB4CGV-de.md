@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081PB4CGV-de RB&G Lauflernwagen aus Holz mit Gummibereifung'
-tags: 
+tags: tole.es
 actualPrice: 37.9 EUR
 currency: EUR
 price: 37.9

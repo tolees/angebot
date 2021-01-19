@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N10LJN9-de Funko 12921-PDQ POP Schlüsselanhänger Figur: Rick & Morty:...'
-tags: 
+tags: tole.es
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

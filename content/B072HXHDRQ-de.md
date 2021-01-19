@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072HXHDRQ-de POP! Games: "FNAF SL" Funtime Freddy'
-tags: 
+tags: tole.es
 actualPrice: 4.18 EUR
 currency: EUR
 price: 4.18

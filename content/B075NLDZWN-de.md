@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075NLDZWN-de Acer H277HK 69 cm 27 Zoll Ultra HD IPS Monitor USB 3.1...'
-tags: 
+tags: tole.es
 actualPrice: 366.0 EUR
 currency: EUR
 price: 366.0

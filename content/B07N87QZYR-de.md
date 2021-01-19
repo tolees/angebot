@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N87QZYR-de Fitbit Inspire und Inspire HR Print-Armbänder Deko Large'
-tags: 
+tags: tole.es
 actualPrice: 17.64 EUR
 currency: EUR
 price: 17.64

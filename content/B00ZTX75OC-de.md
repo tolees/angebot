@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZTX75OC-de Whiskas 1 + Katzenfutter – Fisch-Auswahl in Sauce –...'
-tags: 
+tags: tole.es
 actualPrice: 11.16 EUR
 currency: EUR
 price: 11.16

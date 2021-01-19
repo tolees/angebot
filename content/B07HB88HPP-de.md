@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB88HPP-de Funko 36371 Pocket POP! Schlüsselanhänger Dalmatiner-...'
-tags: 
+tags: tole.es
 actualPrice: 10.67 EUR
 currency: EUR
 price: 10.67

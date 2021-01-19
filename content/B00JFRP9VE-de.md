@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JFRP9VE-de Living Nostalgia Utensilienhalter Metall Blau'
-tags: 
+tags: tole.es
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

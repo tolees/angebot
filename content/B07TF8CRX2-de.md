@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TF8CRX2-de Hasbro Monopoly E7572100 Monopoly Spiel: L.O.L. Surprise...'
-tags: 
+tags: tole.es
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

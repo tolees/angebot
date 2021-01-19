@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z369SZQ-de Warxin Handyhalter Fürs Auto Magnet KFZ Handyhalterung...'
-tags: 
+tags: tole.es
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

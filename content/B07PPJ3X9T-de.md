@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPJ3X9T-de Samsung Harman/kardon 5.1-Kanal Soundbar HW-Q60R...'
-tags: 
+tags: tole.es
 actualPrice: 365.0 EUR
 currency: EUR
 price: 365.0

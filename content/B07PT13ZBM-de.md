@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT13ZBM-de Smoby 312300 Tefal Evo Küche Spielküche Kinderküche...'
-tags: 
+tags: tole.es
 actualPrice: 94.08 EUR
 currency: EUR
 price: 94.08

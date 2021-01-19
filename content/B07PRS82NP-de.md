@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRS82NP-de Samsung RU7409 163 cm 65 Zoll LED Fernseher Ultra HD HDR...'
-tags: 
+tags: tole.es
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

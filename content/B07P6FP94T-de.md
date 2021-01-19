@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6FP94T-de PLAYMOBIL Novelmore 70224 Geniale Wasserballiste Für...'
-tags: 
+tags: tole.es
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

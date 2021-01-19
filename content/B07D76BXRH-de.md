@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D76BXRH-de Levi s Damen 310 Shaping Super Skinny Jeans Blau Taurus...'
-tags: 
+tags: tole.es
 actualPrice: 57.94 EUR
 currency: EUR
 price: 57.94

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W1H9AW4-de Philips HF3500/01 Lichtwecker 7.5 W Wake-Up Light weiß'
-tags: 
+tags: tole.es
 actualPrice: 57 EUR
 currency: EUR
 price: 57

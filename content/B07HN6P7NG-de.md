@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HN6P7NG-de Ballon [Blu-ray]'
-tags: 
+tags: tole.es
 actualPrice: 6.33 EUR
 currency: EUR
 price: 6.33

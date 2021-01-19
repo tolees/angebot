@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XWGTK6D-de House of Marley Positive Vibration 2 Faltbare Kopfhörer...'
-tags: 
+tags: tole.es
 actualPrice: 28.8 EUR
 currency: EUR
 price: 28.8

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0766DJPRK-de PLAYMOBIL Family Fun 9420 Sonnige Ferienvilla Ab 4 Jahren'
-tags: 
+tags: tole.es
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

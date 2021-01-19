@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089CZY1YS-de LetsGO toyz Spielzeug Mädchen 4 5 6 7 8 9 10 11 12 13 14...'
-tags: 
+tags: tole.es
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

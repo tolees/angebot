@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RRXXPMZ-de Ultimate Ears Wonderboom 2 Tragbarer Bluetooth-...'
-tags: 
+tags: tole.es
 actualPrice: 54.49 EUR
 currency: EUR
 price: 54.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGHHVS8-de PUMA Damen Carina L Niedrig Weiß White-White-Silver 39 EU'
-tags: 
+tags: tole.es
 actualPrice: 41.34 EUR
 currency: EUR
 price: 41.34

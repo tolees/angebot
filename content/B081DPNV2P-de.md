@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081DPNV2P-de s.Oliver RED LABEL Beachwear LM Damen Cocina Bikini blau-...'
-tags: 
+tags: tole.es
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

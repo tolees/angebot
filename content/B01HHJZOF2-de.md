@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HHJZOF2-de Crocs Fun Lab Frozen Clog Mädchen Clogs Blau Navy 34/35 EU'
-tags: 
+tags: tole.es
 actualPrice: 19.05 EUR
 currency: EUR
 price: 19.05

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVJC43P-de Samsung Galaxy A51 Android Smartphone ohne Vertrag 4...'
-tags: 
+tags: tole.es
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

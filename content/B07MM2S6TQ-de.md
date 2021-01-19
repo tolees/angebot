@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MM2S6TQ-de Huawei Y7 2019 Dual-SIM Smartphone 15 9 cm 6 26 Zoll...'
-tags: 
+tags: tole.es
 actualPrice: 123.0 EUR
 currency: EUR
 price: 123.0

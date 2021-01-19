@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZT672FX-de Mpow EM18 Handy Bluetooth-Headsets für EIN Ohr Dual-Mik+...'
-tags: 
+tags: tole.es
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

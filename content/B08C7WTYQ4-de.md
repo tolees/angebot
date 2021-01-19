@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C7WTYQ4-de GLÜCKSWOLKE - Spardose I Motiv Lebensbaum I Geschenk für...'
-tags: 
+tags: tole.es
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4KNV8D-de Tommy Hilfiger Damen Analog Quarz Uhr mit Edelstahl...'
-tags: 
+tags: tole.es
 actualPrice: 121.95 EUR
 currency: EUR
 price: 121.95

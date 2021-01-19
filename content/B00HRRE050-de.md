@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRRE050-de Sylvanian Families 5052 Supermarkt-Besitzer'
-tags: 
+tags: tole.es
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

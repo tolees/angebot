@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EHMVK0U-de Remonte R2277 Damen Langschaft Stiefel braun chestnut/24 39'
-tags: 
+tags: tole.es
 actualPrice: 89.56 EUR
 currency: EUR
 price: 89.56

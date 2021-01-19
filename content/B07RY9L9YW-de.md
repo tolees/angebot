@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RY9L9YW-de Levi s Damen Perfect Vneck T-Shirt Weiß White + 0002 Medium'
-tags: 
+tags: tole.es
 actualPrice: 19.4 EUR
 currency: EUR
 price: 19.4

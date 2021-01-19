@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073XJM2PJ-de Bestand Aluminiumständer für Laptop und Macbook Desktop...'
-tags: 
+tags: tole.es
 actualPrice: 40.48 EUR
 currency: EUR
 price: 40.48

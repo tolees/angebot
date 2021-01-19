@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFCM5RX-de Funko B07DFCM5RX Marvel Studios 10: Iron Man Chrome POP...'
-tags: 
+tags: tole.es
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

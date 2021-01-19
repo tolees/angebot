@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L75PLGL-de GRIFEMA GRIFERÍA DE COCINA-G4002-2 | Küchenarmatur -...'
-tags: 
+tags: tole.es
 actualPrice: 26.35 EUR
 currency: EUR
 price: 26.35

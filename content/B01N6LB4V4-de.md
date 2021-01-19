@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6LB4V4-de Meister Werkzeugtrolley 156-teilig - Werkzeug-Set - Mit...'
-tags: 
+tags: tole.es
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

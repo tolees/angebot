@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FSPZDSK-de LG Beamer PF1500G bis 304 8 cm 120 Zoll CineBeam Full HD...'
-tags: 
+tags: tole.es
 actualPrice: 300.0 EUR
 currency: EUR
 price: 300.0

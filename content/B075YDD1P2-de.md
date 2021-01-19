@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075YDD1P2-de Razer Thresher Xbox One - Wireless Gaming Headset für Xbox...'
-tags: 
+tags: tole.es
 actualPrice: 135.79 EUR
 currency: EUR
 price: 135.79

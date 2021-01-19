@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0811MY3NL-de HATTEKER Rasierer Elektrorasierer Herren Rasierapparat...'
-tags: 
+tags: tole.es
 actualPrice: 31.44 EUR
 currency: EUR
 price: 31.44

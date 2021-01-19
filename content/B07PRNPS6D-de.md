@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRNPS6D-de Samsung RU8009 207 cm 82 Zoll LED Fernseher Ultra HD HDR...'
-tags: 
+tags: tole.es
 actualPrice: 1699.0 EUR
 currency: EUR
 price: 1699.0

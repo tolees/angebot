@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EZ0X55C-de SanDisk Ultra Dual USB Type-C Laufwerk Smartphone Speicher...'
-tags: 
+tags: tole.es
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C8YCGHK-de Vans Herren Filmore Sneakers Schwarz Suede Canvas...'
-tags: 
+tags: tole.es
 actualPrice: 50.76 EUR
 currency: EUR
 price: 50.76

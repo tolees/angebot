@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073SG45RD-de HyperX HXK-DM01 Pulsefire FPS & FURY S Gaming Maus mit...'
-tags: 
+tags: tole.es
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

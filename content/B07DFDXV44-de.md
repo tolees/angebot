@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFDXV44-de Funko 31633 Actionfigur Mehrfarbig'
-tags: 
+tags: tole.es
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

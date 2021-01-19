@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XXF4Q68-de NZXT KRAKEN G12 - GPU-Montagesatz für AIO-Kühler der...'
-tags: 
+tags: tole.es
 actualPrice: 26.89 EUR
 currency: EUR
 price: 26.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CAE8PM4-de Rode Rycote Edition VideoMic Line Gradient Polar Pattern'
-tags: 
+tags: tole.es
 actualPrice: 58.21 EUR
 currency: EUR
 price: 58.21

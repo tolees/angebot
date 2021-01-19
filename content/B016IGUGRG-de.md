@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016IGUGRG-de Neff TPT4660X / T46PT60X0 / Autarkes Kochfeld / Induktion...'
-tags: 
+tags: tole.es
 actualPrice: 352.0 EUR
 currency: EUR
 price: 352.0

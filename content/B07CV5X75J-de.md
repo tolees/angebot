@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CV5X75J-de VAUDE Rucksäcke20-29L Aspe 17l ecru 17 129215140'
-tags: 
+tags: tole.es
 actualPrice: 70.27 EUR
 currency: EUR
 price: 70.27

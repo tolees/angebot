@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073TW9VCV-de Nachttischlampe mit Bluetooth Lautsprecher ELEPOWSTAR LED...'
-tags: 
+tags: tole.es
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

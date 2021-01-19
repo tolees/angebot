@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079N37BLF-de PLAYMOBIL DreamWorks Spirit 9479 Pferdebox Pru & Chica...'
-tags: 
+tags: tole.es
 actualPrice: 14.67 EUR
 currency: EUR
 price: 14.67

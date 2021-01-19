@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQDD43K-de LaCie MOBILE DRIVE Moon Silver tragbare externe Festplatte...'
-tags: 
+tags: tole.es
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

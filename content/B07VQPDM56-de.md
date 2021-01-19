@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQPDM56-de SanDisk 256GB iXpand Go Flash-Laufwerk für Ihr iPhone und...'
-tags: 
+tags: tole.es
 actualPrice: 60.44 EUR
 currency: EUR
 price: 60.44

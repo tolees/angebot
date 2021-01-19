@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAPUJ8F-de Lacoste Herren-Armbanduhr - 2010901'
-tags: 
+tags: tole.es
 actualPrice: 98.16 EUR
 currency: EUR
 price: 98.16

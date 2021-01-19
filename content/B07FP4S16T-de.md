@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP4S16T-de Puma Herren Carson 2 Knit NM Laufschuhe Black Black 44.5 EU'
-tags: 
+tags: tole.es
 actualPrice: 21.5 EUR
 currency: EUR
 price: 21.5

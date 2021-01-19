@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FY8B52E-de Panasonic TY-ER3D6ME Aktive Bluetooth Shutterbrille...'
-tags: 
+tags: tole.es
 actualPrice: 16.1 EUR
 currency: EUR
 price: 16.1

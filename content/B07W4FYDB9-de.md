@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4FYDB9-de Universal Niedertemperatur Aluminium Schweißstab mit...'
-tags: 
+tags: tole.es
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

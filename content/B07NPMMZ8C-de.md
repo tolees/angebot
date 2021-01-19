@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPMMZ8C-de Seagate Expansion Desktop 10 TB externe Festplatte 3.5...'
-tags: 
+tags: tole.es
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

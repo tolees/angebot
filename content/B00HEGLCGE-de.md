@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HEGLCGE-de Intex Kinderpool Frame Pool Mini Blau 122 x 122 x 30 cm'
-tags: 
+tags: tole.es
 actualPrice: 26.36 EUR
 currency: EUR
 price: 26.36

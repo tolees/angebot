@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AIFSY2M-de Famosa 700012778 - Heidi Quietsch und Badefigur im...'
-tags: 
+tags: tole.es
 actualPrice: 8.85 EUR
 currency: EUR
 price: 8.85

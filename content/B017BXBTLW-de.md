@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017BXBTLW-de Schwiizer Schüümli Gastronom Ganze Kaffeebohnen 1kg...'
-tags: 
+tags: tole.es
 actualPrice: 11.09 EUR
 currency: EUR
 price: 11.09

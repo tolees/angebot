@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HPXVIPQ-de Gardena Comfort FLEX Schlauch 13 mm 1/2 Zoll 10 m:...'
-tags: 
+tags: tole.es
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

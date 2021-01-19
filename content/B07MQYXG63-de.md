@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQYXG63-de leanBonnie Compuesto Karbonfaser Hose LCD Digital...'
-tags: 
+tags: tole.es
 actualPrice: 4.58 EUR
 currency: EUR
 price: 4.58

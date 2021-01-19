@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075PY4TGV-de Dove go fresh fresh Seife 8er Pack 8 x 100 g'
-tags: 
+tags: tole.es
 actualPrice: 5.2 EUR
 currency: EUR
 price: 5.2

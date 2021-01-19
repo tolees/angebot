@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CWTFMH-de waytoplay 24 Autobahn Building Set Schwarz mit Weiß Striping'
-tags: 
+tags: tole.es
 actualPrice: 50.19 EUR
 currency: EUR
 price: 50.19

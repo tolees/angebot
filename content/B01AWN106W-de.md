@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AWN106W-de Kitchen Craft LOVELLO Brotkasten 42 x 22 x 18 cm – Schwarz'
-tags: 
+tags: tole.es
 actualPrice: 52.83 EUR
 currency: EUR
 price: 52.83

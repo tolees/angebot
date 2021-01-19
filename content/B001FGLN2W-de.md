@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001FGLN2W-de BOSCH 3397004772 Wischblatt Heck H772 - Länge: 340'
-tags: 
+tags: tole.es
 actualPrice: 3.76 EUR
 currency: EUR
 price: 3.76

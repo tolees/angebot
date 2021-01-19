@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQ3GX6V-de EACHINE E58 Drohne mit Kamera 720P HD Kamera Live...'
-tags: 
+tags: tole.es
 actualPrice: 86.66 EUR
 currency: EUR
 price: 86.66

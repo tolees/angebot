@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHMWRQF-de Samsung LS03R The Frame 108 cm 43 Zoll QLED Lifestyle...'
-tags: 
+tags: tole.es
 actualPrice: 697.0 EUR
 currency: EUR
 price: 697.0

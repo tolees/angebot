@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXLJRZK-de Funko 45437 POP Animation: Rick & Morty-King of $#+...'
-tags: 
+tags: tole.es
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99
@@ -26,9 +26,9 @@ Sie können [Funko 45437 POP Animation: Rick & Morty-King of $#+ w/Sound Rick an
 
 ℹ️:
 
+- Figure stands 9cm and comes in a window display box
+- Check out the other Rick und Morty figures from Funko Collect them all
 - From Rick und Morty, King of $#!+, as a stylized Sound-up POP vinyl from Funko
 - Funko POP! is the 2018 Toy of the Year and Peoples Choice award winner
-- Check out the other Rick und Morty figures from Funko Collect them all
-- Figure stands 9cm and comes in a window display box
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07TXLJRZK/?tag=tolees0ca-21)

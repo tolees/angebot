@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDLSKBN-de LIGHTAILING Licht-Set Für Ghostbusters Ecto-1 Modell - LED...'
-tags: 
+tags: tole.es
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

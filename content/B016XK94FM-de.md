@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016XK94FM-de Netgear GS308P 8-Port Gigabit Ethernet LAN PoE Switch...'
-tags: 
+tags: tole.es
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

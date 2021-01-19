@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MRKBST3-de Zyxel Gigabit Unmanaged PoE+ Switch mit 5 Ports davon 4...'
-tags: 
+tags: tole.es
 actualPrice: 45.8 EUR
 currency: EUR
 price: 45.8

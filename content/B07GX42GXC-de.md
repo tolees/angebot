@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GX42GXC-de ECOVACS Robotics DEEBOT 710 Saugroboter - Leistungsstarker...'
-tags: 
+tags: tole.es
 actualPrice: 269 EUR
 currency: EUR
 price: 269

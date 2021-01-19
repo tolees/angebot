@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZNPSTX-de Willkommen bei den Hartmanns [Blu-ray]'
-tags: 
+tags: tole.es
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

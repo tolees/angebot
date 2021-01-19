@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BDRNSB5-de SUUNTO 3 Fitness all black'
-tags: 
+tags: tole.es
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

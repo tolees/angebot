@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Q5XF7B-de Siemens PowerProtect Staubsaugerbeutel VZ16GALL 16 Stück...'
-tags: 
+tags: tole.es
 actualPrice: 25.07 EUR
 currency: EUR
 price: 25.07

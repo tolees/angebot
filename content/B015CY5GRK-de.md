@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015CY5GRK-de Man lernt nie aus [Blu-ray]'
-tags: 
+tags: tole.es
 actualPrice: 4.98 EUR
 currency: EUR
 price: 4.98

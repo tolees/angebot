@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QH3KFJJ-de LG Magic Remote-Fernbedienung AN-MR19BA Schwarz'
-tags: 
+tags: tole.es
 actualPrice: 32.44 EUR
 currency: EUR
 price: 32.44

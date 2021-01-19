@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EI9HAGU-de adidas Herren Gazelle Sneakers Azul Collegiate...'
-tags: 
+tags: tole.es
 actualPrice: 72.9 EUR
 currency: EUR
 price: 72.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N3X06CS-de Philips HU4801/01 Luftbefeuchter bis zu 25m² hygienische...'
-tags: 
+tags: tole.es
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

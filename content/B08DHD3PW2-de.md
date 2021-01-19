@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DHD3PW2-de Bluetooth Kopfhörer In-Ear Wireless Kopfhörer Touch...'
-tags: 
+tags: tole.es
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

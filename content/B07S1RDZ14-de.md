@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1RDZ14-de Hpybest 10 Ps 12–60 mm HSS Lochsägenbohrer HSS HSS...'
-tags: 
+tags: tole.es
 actualPrice: 22.84 EUR
 currency: EUR
 price: 22.84

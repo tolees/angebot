@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X3ZWVZ7-de De’Longhi Dedica EC 685.W Espresso Siebträgermaschine | 15...'
-tags: 
+tags: tole.es
 actualPrice: 129.9 EUR
 currency: EUR
 price: 129.9

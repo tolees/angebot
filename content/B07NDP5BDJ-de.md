@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDP5BDJ-de G-STAR RAW Herren Graphic 17 Core Round Neck Sweatshirt...'
-tags: 
+tags: tole.es
 actualPrice: 44.97 EUR
 currency: EUR
 price: 44.97

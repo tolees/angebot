@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H4X6M7H-de Huawei Band 3 Pro Fitness-Aktivitätstracker All-in-One...'
-tags: 
+tags: tole.es
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M9CHL3L-de Huawei P smart 2019 64GB Hybrid-SIM Aurora Blau EU [15...'
-tags: 
+tags: tole.es
 actualPrice: 151.99 EUR
 currency: EUR
 price: 151.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XVWSF9M-de Microsoft Surface Laptop 3 15 Zoll Laptop AMD Ryzen 5...'
-tags: 
+tags: tole.es
 actualPrice: 1269.0 EUR
 currency: EUR
 price: 1269.0

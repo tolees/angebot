@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DKKNVTN-de HDMI KVM Switch USB 4 Port 4K 4 PC 1 Monitor Switch 4K @...'
-tags: 
+tags: tole.es
 actualPrice: 82.99 EUR
 currency: EUR
 price: 82.99

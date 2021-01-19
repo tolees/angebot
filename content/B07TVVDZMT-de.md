@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVVDZMT-de Skechers Herren Moreno Sneaker Blau Navy Mesh NVY 45 EU'
-tags: 
+tags: tole.es
 actualPrice: 46.46 EUR
 currency: EUR
 price: 46.46

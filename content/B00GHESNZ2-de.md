@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GHESNZ2-de WOLF-Garten - Elektro-Heckenschere HS 60 E; 41AF0EE5650'
-tags: 
+tags: tole.es
 actualPrice: 49.84 EUR
 currency: EUR
 price: 49.84

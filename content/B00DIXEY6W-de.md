@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DIXEY6W-de LogiLink KAB0039 Kabel-Clip Selbstklebend schwarz'
-tags: 
+tags: tole.es
 actualPrice: 2.82 EUR
 currency: EUR
 price: 2.82

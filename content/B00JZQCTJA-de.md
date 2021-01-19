@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JZQCTJA-de Schiesser Damen Midi 2er Pack Slip Weiß Weiss 100 40...'
-tags: 
+tags: tole.es
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

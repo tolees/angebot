@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC68RW1-de TP-Link 5-Port Desktop Switch 10/100/1000Mbit/S...'
-tags: 
+tags: tole.es
 actualPrice: 13.21 EUR
 currency: EUR
 price: 13.21

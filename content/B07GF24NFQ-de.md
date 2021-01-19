@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GF24NFQ-de Levi s Herren Type 3 Sherpa Trucker-Jacke Blau Mayze...'
-tags: 
+tags: tole.es
 actualPrice: 94.39 EUR
 currency: EUR
 price: 94.39

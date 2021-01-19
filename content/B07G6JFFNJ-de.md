@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G6JFFNJ-de SEVERIN KA 4845 Type Switch Kaffeemaschine Für gemahlenen...'
-tags: 
+tags: tole.es
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

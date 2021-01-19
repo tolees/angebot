@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HH7KWYM-de Drohne mit Kamera 720P HD Drohne Faltbare mit WiFi FPV App...'
-tags: 
+tags: tole.es
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

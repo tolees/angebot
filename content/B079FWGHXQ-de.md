@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FWGHXQ-de Trust GXT 707R Resto Gaming-Stuhl Ergonomisch mit...'
-tags: 
+tags: tole.es
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

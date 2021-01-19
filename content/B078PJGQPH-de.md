@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078PJGQPH-de Coleman Blackout Zelt 4 Personen 4 Mann Zelt wasserdicht...'
-tags: 
+tags: tole.es
 actualPrice: 115.99 EUR
 currency: EUR
 price: 115.99

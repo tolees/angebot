@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CHCKJ7M-de Externes 3D Blu Ray DVD Laufwerk Brenner USB 3.0 Tragbare...'
-tags: 
+tags: tole.es
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

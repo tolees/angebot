@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07668BTNV-de The Luckiest Man'
-tags: 
+tags: tole.es
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

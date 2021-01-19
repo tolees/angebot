@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000EULJLU-de 10.000 Days'
-tags: 
+tags: tole.es
 actualPrice: 9.77 EUR
 currency: EUR
 price: 9.77

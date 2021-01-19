@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHPXHQS-de Echo Dot 3. Gen. Intelligenter Lautsprecher mit Alexa...'
-tags: 
+tags: tole.es
 actualPrice: 48.72 EUR
 currency: EUR
 price: 48.72

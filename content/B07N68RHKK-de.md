@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N68RHKK-de Symiu 3D Puzzle Kinder Mosaik Steckspiel Bausteine mit...'
-tags: 
+tags: tole.es
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

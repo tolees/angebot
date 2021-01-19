@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073VMWTLV-de Uglyfrog HDSLJ13 Frühling/Herbst Männer Radfahren Kleidung...'
-tags: 
+tags: tole.es
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

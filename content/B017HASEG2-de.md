@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017HASEG2-de Hasbro B5286ES2 Disney Prinzessin Schimmerglanz Rapunzel'
-tags: 
+tags: tole.es
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

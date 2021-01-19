@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BKQT590-de Daniel Wellington Damen Analog Japanese Quartz Uhr mit...'
-tags: 
+tags: tole.es
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

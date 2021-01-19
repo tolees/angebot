@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZCNR4C-de LEDVANCE LED Wand- und Deckenleuchte Leuchte für...'
-tags: 
+tags: tole.es
 actualPrice: 17.27 EUR
 currency: EUR
 price: 17.27

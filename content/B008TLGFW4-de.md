@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008TLGFW4-de Emsa 513357 Travel Mug Thermo-/Isolierbecher...'
-tags: 
+tags: tole.es
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

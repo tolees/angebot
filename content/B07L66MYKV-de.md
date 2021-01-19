@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L66MYKV-de AKASO Brave 6 Action Cam 4K 20MP WiFi Sprachsteuerung EIS...'
-tags: 
+tags: tole.es
 actualPrice: 53.11 EUR
 currency: EUR
 price: 53.11

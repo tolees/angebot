@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014LBOU7W-de auna MIC-900S LED - USB Kondensator-Mikrofon...'
-tags: 
+tags: tole.es
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

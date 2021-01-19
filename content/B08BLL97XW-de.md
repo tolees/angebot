@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BLL97XW-de DYON Smart 55 XT 138 7 cm 55 Zoll Fernseher 4K Ultra-HD...'
-tags: 
+tags: tole.es
 actualPrice: 359.99 EUR
 currency: EUR
 price: 359.99

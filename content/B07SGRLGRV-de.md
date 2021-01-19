@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SGRLGRV-de MSI GL63 9SFK-1001DE 39 6 cm/15 6 Zoll/144Hz Gaming-Laptop...'
-tags: 
+tags: tole.es
 actualPrice: 600.0 EUR
 currency: EUR
 price: 600.0

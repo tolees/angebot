@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M3UYCM7-de Sylvanian Families 5034 - Badezimmer-Set Puppenzubehör'
-tags: 
+tags: tole.es
 actualPrice: 24.8 EUR
 currency: EUR
 price: 24.8

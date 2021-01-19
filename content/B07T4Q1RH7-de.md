@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T4Q1RH7-de Microsoft Pro IntelliMouse schwarz'
-tags: 
+tags: tole.es
 actualPrice: 31.92 EUR
 currency: EUR
 price: 31.92

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GNNJTX8-de Krups CZ7158 Cook4Me+ Connect Multikocher 1600 Watt...'
-tags: 
+tags: tole.es
 actualPrice: 155.99 EUR
 currency: EUR
 price: 155.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L2CPPH2-de GoPro Pro 3 5-mm-Mikrofonadapter für HERO7 Black HERO6...'
-tags: 
+tags: tole.es
 actualPrice: 46.76 EUR
 currency: EUR
 price: 46.76

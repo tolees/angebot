@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FK4C31Y-de Feuchtmann Spielwaren 6281513 - MEINE LIEBLINGSKNETE aus...'
-tags: 
+tags: tole.es
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

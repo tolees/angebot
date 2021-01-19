@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0007OECGC-de Faber-Castell 127102 - 10 Fallminen TK 9071 Minenstärke 2...'
-tags: 
+tags: tole.es
 actualPrice: 4.73 EUR
 currency: EUR
 price: 4.73

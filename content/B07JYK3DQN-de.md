@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYK3DQN-de Bosch Akku Staubsauger UniversalVac 18 2 5 Ah Akku 18 Volt...'
-tags: 
+tags: tole.es
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

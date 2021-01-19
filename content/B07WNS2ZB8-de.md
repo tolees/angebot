@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WNS2ZB8-de GoPro Schutzgehäuse für HERO8 Black Offizielles GoPro Zubehör'
-tags: 
+tags: tole.es
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

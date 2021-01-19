@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079TSKV3G-de Paladone Game-Boy-Wecker mit Sound von Nintendo'
-tags: 
+tags: tole.es
 actualPrice: 20.13 EUR
 currency: EUR
 price: 20.13

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0113OCUKY-de Nike Damen WMNS Tanjun Turnschuhe Grau Wolfgrau/Weiß 40 EU'
-tags: 
+tags: tole.es
 actualPrice: 50.35 EUR
 currency: EUR
 price: 50.35

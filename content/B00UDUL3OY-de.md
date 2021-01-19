@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UDUL3OY-de 5 Zimmer Küche Sarg'
-tags: 
+tags: tole.es
 actualPrice: 3.51 EUR
 currency: EUR
 price: 3.51

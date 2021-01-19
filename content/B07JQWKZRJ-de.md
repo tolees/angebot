@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQWKZRJ-de adidas Herren Terrex EASTRAIL Walkingschuhe Schwarz...'
-tags: 
+tags: tole.es
 actualPrice: 56.53 EUR
 currency: EUR
 price: 56.53

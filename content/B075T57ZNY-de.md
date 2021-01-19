@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075T57ZNY-de Pentel bl2007z-cof Roller EnerGel Gel Körper Metall matt...'
-tags: 
+tags: tole.es
 actualPrice: 13.06 EUR
 currency: EUR
 price: 13.06

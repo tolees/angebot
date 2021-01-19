@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X3RGV9C-de NUBWO PS4 Headset Xbox one Stereo-Gaming-Kopfhörer mit...'
-tags: 
+tags: tole.es
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

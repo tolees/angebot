@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B2X1VXZ-de SAGE SES875 the Barista Express Siebträger mit Manometer-...'
-tags: 
+tags: tole.es
 actualPrice: 499 EUR
 currency: EUR
 price: 499

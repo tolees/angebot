@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XH3BV5B-de Puma Herren Carson 2 Outdoor Fitnessschuhe Blau Blue...'
-tags: 
+tags: tole.es
 actualPrice: 37.39 EUR
 currency: EUR
 price: 37.39

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083G8G9GM-de Samsung Galaxy S10 Lite Android Smartphone ohne Vertrag...'
-tags: 
+tags: tole.es
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

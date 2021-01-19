@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H3J25BM-de Motorola TLKR T41 PMR Funkgerät mit LC-Display grün'
-tags: 
+tags: tole.es
 actualPrice: 25.38 EUR
 currency: EUR
 price: 25.38

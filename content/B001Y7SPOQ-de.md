@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001Y7SPOQ-de Radio Rock Revolution The Boat That Rocked'
-tags: 
+tags: tole.es
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

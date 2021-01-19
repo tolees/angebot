@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZTP2JE-de Samsung WW70K4420YW/EG AddWash Waschmaschine...'
-tags: 
+tags: tole.es
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

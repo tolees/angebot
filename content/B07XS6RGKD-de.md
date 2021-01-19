@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XS6RGKD-de Lenovo Q24i-10 60 45 cm 23 8 Zoll Full HD IPS matt Monitor...'
-tags: 
+tags: tole.es
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

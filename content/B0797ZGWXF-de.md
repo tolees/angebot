@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797ZGWXF-de Sylvanian Families 6013 Town Series 6013-Fashion...'
-tags: 
+tags: tole.es
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

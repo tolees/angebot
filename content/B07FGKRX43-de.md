@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FGKRX43-de AmazonBasics - Lightning-auf-USB-A-Kabel Premium-...'
-tags: 
+tags: tole.es
 actualPrice: 5 EUR
 currency: EUR
 price: 5

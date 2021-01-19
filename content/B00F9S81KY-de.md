@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F9S81KY-de Kleidertasche Pack-It Original Garment Folder M I...'
-tags: 
+tags: tole.es
 actualPrice: 19.02 EUR
 currency: EUR
 price: 19.02

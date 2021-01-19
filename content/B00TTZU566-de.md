@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TTZU566-de Bosch Akkuschrauber IXO 5. Generation in Aufbewahrungsbox'
-tags: 
+tags: tole.es
 actualPrice: 37.91 EUR
 currency: EUR
 price: 37.91

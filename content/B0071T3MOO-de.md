@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0071T3MOO-de Bosch Professional 12V System Akku Schlagbohrschrauber GSB...'
-tags: 
+tags: tole.es
 actualPrice: 54.9 EUR
 currency: EUR
 price: 54.9

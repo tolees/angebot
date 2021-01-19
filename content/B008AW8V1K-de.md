@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008AW8V1K-de Lacoste Herren Sport Poloshirt L1230-00 Einfarbig Gr....'
-tags: 
+tags: tole.es
 actualPrice: 40.95 EUR
 currency: EUR
 price: 40.95

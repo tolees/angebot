@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D6M7TQJ-de Vgo 3 Paare Arbeitshandschuhe aus Spandex und...'
-tags: 
+tags: tole.es
 actualPrice: 10.82 EUR
 currency: EUR
 price: 10.82

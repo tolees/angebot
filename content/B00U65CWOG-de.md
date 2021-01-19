@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U65CWOG-de Russell Hobbs Multicooker 5 0l digitales Display + Timer...'
-tags: 
+tags: tole.es
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

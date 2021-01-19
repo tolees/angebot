@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001RI7BVU-de Enders Camping Gasgrill EXPLORER NEXT Grillen- Kochen- und...'
-tags: 
+tags: tole.es
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

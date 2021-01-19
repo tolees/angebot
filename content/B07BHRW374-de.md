@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHRW374-de Hisense H55U7A 138 cm 55 Zoll Fernseher Ultra HD HDR Plus...'
-tags: 
+tags: tole.es
 actualPrice: 350.0 EUR
 currency: EUR
 price: 350.0

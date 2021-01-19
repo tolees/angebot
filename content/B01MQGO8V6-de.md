@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQGO8V6-de Nikon D5600 Kit AF-P DX 18-55 VR Spiegelreflexkamera 8 1...'
-tags: 
+tags: tole.es
 actualPrice: 477.0 EUR
 currency: EUR
 price: 477.0

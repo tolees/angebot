@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0846JTM4Z-de moto g8 power lite Dual-SIM Smartphone 6 5 Zoll-Max...'
-tags: 
+tags: tole.es
 actualPrice: 142.37 EUR
 currency: EUR
 price: 142.37

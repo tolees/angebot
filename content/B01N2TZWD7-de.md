@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2TZWD7-de SodaStream Easy Wassersprudler mit CO2 Zylinder 1 L PET-...'
-tags: 
+tags: tole.es
 actualPrice: 59 EUR
 currency: EUR
 price: 59

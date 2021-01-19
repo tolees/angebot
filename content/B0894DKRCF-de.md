@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0894DKRCF-de COULAX Smartwatch Fitness Tracker Armband mit 1.4 Zoll...'
-tags: 
+tags: tole.es
 actualPrice: 27.45 EUR
 currency: EUR
 price: 27.45

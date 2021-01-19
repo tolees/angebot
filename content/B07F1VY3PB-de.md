@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1VY3PB-de Unique Party 79123 Taschen'
-tags: 
+tags: tole.es
 actualPrice: 2.81 EUR
 currency: EUR
 price: 2.81

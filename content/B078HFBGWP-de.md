@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HFBGWP-de Swiss Military Hanowa Herren Analog Quarz Uhr mit...'
-tags: 
+tags: tole.es
 actualPrice: 178.3 EUR
 currency: EUR
 price: 178.3

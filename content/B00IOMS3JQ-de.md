@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IOMS3JQ-de Sylvanian Families 3149 - Chihuahua - Familie Wuffel'
-tags: 
+tags: tole.es
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

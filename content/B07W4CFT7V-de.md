@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4CFT7V-de Nackenmassagegerät Shiatsu Massagegerät mit Wärmefunktion...'
-tags: 
+tags: tole.es
 actualPrice: 38.98 EUR
 currency: EUR
 price: 38.98

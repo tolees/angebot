@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F7X2SJF-de super vaule DIY 5D Diamant Malerei Kristall Strass...'
-tags: 
+tags: tole.es
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

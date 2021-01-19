@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RBR1DPP-de YLCJ - Lámpara colgante moderna de 14 con lámpara colgante...'
-tags: 
+tags: tole.es
 actualPrice: 41.0 EUR
 currency: EUR
 price: 41.0

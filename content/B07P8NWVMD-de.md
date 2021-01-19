@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P8NWVMD-de Playmobil 70212 Dollhouse Kindergeburtstag mit Clown ab 4...'
-tags: 
+tags: tole.es
 actualPrice: 17.22 EUR
 currency: EUR
 price: 17.22

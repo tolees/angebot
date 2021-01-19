@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085DPJN6T-de Buntpapier Farbigen A4 Kopierpapier Papier 100 bunte...'
-tags: 
+tags: tole.es
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

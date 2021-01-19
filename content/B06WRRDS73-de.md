@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WRRDS73-de Cooler Master MasterLiquid Lite 120-CPU-Wasserkühler -...'
-tags: 
+tags: tole.es
 actualPrice: 34.25 EUR
 currency: EUR
 price: 34.25

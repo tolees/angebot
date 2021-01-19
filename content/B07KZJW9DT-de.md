@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KZJW9DT-de Fire 7-Tablet Zertifiziert und generalüberholt 7-Zoll-...'
-tags: 
+tags: tole.es
 actualPrice: 34.11 EUR
 currency: EUR
 price: 34.11

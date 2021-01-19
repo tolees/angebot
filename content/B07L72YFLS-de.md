@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L72YFLS-de Ankermann Business Work Silent leise PC PC Intel CPU 2X...'
-tags: 
+tags: tole.es
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

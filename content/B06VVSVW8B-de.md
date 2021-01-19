@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VVSVW8B-de fischer FIXtainer DUOPOWER Tiefenbiss-Box Dübelbox mit 210...'
-tags: 
+tags: tole.es
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SNHGYN6-de SS&LL La basura del paso Puede Cubos de basura Con Tapas...'
-tags: 
+tags: tole.es
 actualPrice: 107.99 EUR
 currency: EUR
 price: 107.99

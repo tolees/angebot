@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074D1SSSR-de Philips Sonicare DiamondClean Elektrische Zahnbürste...'
-tags: 
+tags: tole.es
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

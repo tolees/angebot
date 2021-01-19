@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GWVPYHN-de Soundcore Liberty Air Bluetooth Kopfhörer True Wireless in...'
-tags: 
+tags: tole.es
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

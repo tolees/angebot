@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9QRNVF-de LG SK8 Dolby Atmos 2.1 Soundbar 360W mit Drahtlosem...'
-tags: 
+tags: tole.es
 actualPrice: 399.53 EUR
 currency: EUR
 price: 399.53

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BVFL132-de QAZQA Modern Industrielle Hängelampe schwarz mit...'
-tags: 
+tags: tole.es
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

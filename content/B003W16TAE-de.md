@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003W16TAE-de Tafelmusik'
-tags: 
+tags: tole.es
 actualPrice: 11.46 EUR
 currency: EUR
 price: 11.46

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KWXBF17-de Jakks 207474 - Disney Frozen II - Die Eiskönigin 2 Elsa...'
-tags: 
+tags: tole.es
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

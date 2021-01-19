@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RC7RS7M-de Ecco Damen SOFT7W Sneakers Schwarz BLACK 1001 40 EU'
-tags: 
+tags: tole.es
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003QTENM8-de Invicta 9223 Speedway Unisex Uhr Edelstahl Quarz schwarzen...'
-tags: 
+tags: tole.es
 actualPrice: 72.1 EUR
 currency: EUR
 price: 72.1

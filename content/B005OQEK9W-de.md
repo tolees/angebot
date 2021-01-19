@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005OQEK9W-de Bosch Tischbohrmaschine PBD 40 710 W Max. Bohr-Ø in...'
-tags: 
+tags: tole.es
 actualPrice: 193.99 EUR
 currency: EUR
 price: 193.99

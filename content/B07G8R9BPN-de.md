@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G8R9BPN-de BOSE Lautsprecher Bass Module 500 Schwarz'
-tags: 
+tags: tole.es
 actualPrice: 329.0 EUR
 currency: EUR
 price: 329.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0006OHX8W-de CALIDA Damen Midislip Lycraspitze Taillenslip Schwarz...'
-tags: 
+tags: tole.es
 actualPrice: 9.74 EUR
 currency: EUR
 price: 9.74

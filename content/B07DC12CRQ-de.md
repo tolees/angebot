@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC12CRQ-de Puma Damen Sneakers Sneaker Puma Vikky Stacked L Weiß Puma...'
-tags: 
+tags: tole.es
 actualPrice: 40.55 EUR
 currency: EUR
 price: 40.55

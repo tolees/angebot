@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012A4KW2Y-de Skechers Equalizer Double Play Men s Fitness Shoes Grey...'
-tags: 
+tags: tole.es
 actualPrice: 45.27 EUR
 currency: EUR
 price: 45.27

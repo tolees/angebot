@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UWS743Q-de Kirby und der Regenbogen-Pinsel'
-tags: 
+tags: tole.es
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

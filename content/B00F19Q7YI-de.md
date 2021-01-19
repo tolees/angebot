@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F19Q7YI-de GoPro Front Saugnapfhalterung - gebogene vertikale...'
-tags: 
+tags: tole.es
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

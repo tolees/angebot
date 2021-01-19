@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003Z0O5SA-de CMP Softshell Jungen Kapuzen Jacke Schwarz U901 140'
-tags: 
+tags: tole.es
 actualPrice: 17.47 EUR
 currency: EUR
 price: 17.47

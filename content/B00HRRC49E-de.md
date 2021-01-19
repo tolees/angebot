@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRRC49E-de Sylvanian Families - 5017 - Schokoladenhasen Baby mit...'
-tags: 
+tags: tole.es
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

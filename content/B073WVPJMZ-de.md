@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073WVPJMZ-de Akkuschrauber 12volt set TACKLIFE Akku-Bohrschrauber 2000...'
-tags: 
+tags: tole.es
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

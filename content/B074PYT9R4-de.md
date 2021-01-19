@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PYT9R4-de OSRAM Smart+ Mini Switch Weiß ZigBee Lichtschalter Dimmer...'
-tags: 
+tags: tole.es
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

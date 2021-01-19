@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YX8DD1-de Hubelino 420473 55-teiliges Bahnelemente Set Kugelbahn'
-tags: 
+tags: tole.es
 actualPrice: 33.59 EUR
 currency: EUR
 price: 33.59

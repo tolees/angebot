@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PCQTCSL-de RATEL Mini USB Tischventilator 12 5 cm USB Ventilator 3...'
-tags: 
+tags: tole.es
 actualPrice: 7.93 EUR
 currency: EUR
 price: 7.93

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QQFWZ7Y-de Dickie Toys 203713009 Special Forces Spezialeinheit SUV...'
-tags: 
+tags: tole.es
 actualPrice: 7.27 EUR
 currency: EUR
 price: 7.27

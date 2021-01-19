@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000CRBEJ2-de Eastpak Padded Pak r Rucksack 40 cm 24 L Schwarz Black'
-tags: 
+tags: tole.es
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

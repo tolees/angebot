@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008HRFFJE-de Bosch Professional 7tlg. Betonbohrer Set CYL-3 für Beton Ø...'
-tags: 
+tags: tole.es
 actualPrice: 8.53 EUR
 currency: EUR
 price: 8.53

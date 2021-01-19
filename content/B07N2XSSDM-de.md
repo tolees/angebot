@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N2XSSDM-de SID & VAIN Laptop Messenger Bag echt Leder Spencer XL groß...'
-tags: 
+tags: tole.es
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

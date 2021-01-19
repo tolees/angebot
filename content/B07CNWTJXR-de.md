@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CNWTJXR-de Avengers: Infinity War'
-tags: 
+tags: tole.es
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07896LHJW-de May Your Kindness Remain'
-tags: 
+tags: tole.es
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

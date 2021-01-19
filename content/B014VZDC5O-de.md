@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014VZDC5O-de Corsair Strafe RGB Mechanische Gaming Tastatur Cherry MX...'
-tags: 
+tags: tole.es
 actualPrice: 136.99 EUR
 currency: EUR
 price: 136.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FC493DO-de Predator [Blu-ray 3D]'
-tags: 
+tags: tole.es
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

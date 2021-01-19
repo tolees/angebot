@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GGM7G9B-de ghd Platinum+ Styler weiß'
-tags: 
+tags: tole.es
 actualPrice: 183.9 EUR
 currency: EUR
 price: 183.9

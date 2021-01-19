@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X4SO5XS-de G.I.G.A. DX Damen Madoka Parka Dunkelnavy 42'
-tags: 
+tags: tole.es
 actualPrice: 69.66 EUR
 currency: EUR
 price: 69.66

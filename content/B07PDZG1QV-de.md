@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDZG1QV-de iRobot Roomba i7 i7156 Saugroboter 3-stufiges...'
-tags: 
+tags: tole.es
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

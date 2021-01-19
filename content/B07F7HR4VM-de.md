@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F7HR4VM-de Yamaha MusicCast 50 Musikbox Multiroom Stereo-Lautsprecher...'
-tags: 
+tags: tole.es
 actualPrice: 357.99 EUR
 currency: EUR
 price: 357.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QKZZZH8-de MSI GS65 9SE-461 Stealth 39 6 cm/15 6 Zoll/240Hz Gaming-...'
-tags: 
+tags: tole.es
 actualPrice: 545.0 EUR
 currency: EUR
 price: 545.0

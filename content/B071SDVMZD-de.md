@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071SDVMZD-de camel active Damen Canberra 72 Chelsea Boots Grau Dk.Grey...'
-tags: 
+tags: tole.es
 actualPrice: 68.76 EUR
 currency: EUR
 price: 68.76

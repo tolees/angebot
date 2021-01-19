@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CES5A60-de Logitech C930e Business-Webcam Full-HD 1080p 90° Blickfeld...'
-tags: 
+tags: tole.es
 actualPrice: 78.09 EUR
 currency: EUR
 price: 78.09

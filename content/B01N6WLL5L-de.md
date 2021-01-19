@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6WLL5L-de Neff NTK1320N Kochfeld Elektro/Einbau / 2 Heizelemente /...'
-tags: 
+tags: tole.es
 actualPrice: 323.0 EUR
 currency: EUR
 price: 323.0

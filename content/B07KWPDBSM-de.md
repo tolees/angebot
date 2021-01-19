@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KWPDBSM-de TOM TAILOR Herren Jeanshosen Marvin Straight Jeans Dark...'
-tags: 
+tags: tole.es
 actualPrice: 37.69 EUR
 currency: EUR
 price: 37.69

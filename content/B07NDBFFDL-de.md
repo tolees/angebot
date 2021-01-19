@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDBFFDL-de Produkttitel fehlt - Wird nachgereicht'
-tags: 
+tags: tole.es
 actualPrice: 14.48 EUR
 currency: EUR
 price: 14.48

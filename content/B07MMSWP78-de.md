@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMSWP78-de Philips 2200 Serie EP2231/40 Kaffeevollautomat 3...'
-tags: 
+tags: tole.es
 actualPrice: 415.9 EUR
 currency: EUR
 price: 415.9

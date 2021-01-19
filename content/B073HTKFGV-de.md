@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073HTKFGV-de Anki 000-00060 Cozmo Carry Case Transporttasche Mehrfarbig'
-tags: 
+tags: tole.es
 actualPrice: 26.98 EUR
 currency: EUR
 price: 26.98

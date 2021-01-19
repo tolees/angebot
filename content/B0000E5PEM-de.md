@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0000E5PEM-de The Diary of Alicia Keys'
-tags: 
+tags: tole.es
 actualPrice: 2.86 EUR
 currency: EUR
 price: 2.86

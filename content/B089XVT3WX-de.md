@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089XVT3WX-de Bluetooth-Kopfhörer 5.0 kabellose Touch-Kopfhörer HiFi-...'
-tags: 
+tags: tole.es
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

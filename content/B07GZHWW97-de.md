@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZHWW97-de TechniSat DIGITRADIO 2 S - Tragbares DAB Stereo-Radio mit...'
-tags: 
+tags: tole.es
 actualPrice: 76.02 EUR
 currency: EUR
 price: 76.02

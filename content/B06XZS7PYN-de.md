@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XZS7PYN-de Kingwin Damen - Titan Farblos blau Opale'
-tags: 
+tags: tole.es
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

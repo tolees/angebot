@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014EBKMMG-de Osprey Farpoint 40 Reisetasche für Männer - Volcanic Grey S/M'
-tags: 
+tags: tole.es
 actualPrice: 92.71 EUR
 currency: EUR
 price: 92.71
