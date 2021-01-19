@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.08 % rabat auf Funko 48845 POP Marvel: Black Light-Capt'
-date: 2021-01-17 12:34:56
+date: 2021-01-19 01:47:56
 image: 'https://m.media-amazon.com/images/I/51GJF6TpfhL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B08BKXT4QQ/?tag=tolees0ca-21'
 descuento: '16.08'
-average: '15.435740740740739'
+average: '15.384107142857141'
 ---
 
 Es gibt ein [Funko 48845 POP Marvel: Black Light-Captain America  Multicolour](https://www.amazon.de/dp/B08BKXT4QQ/?tag=tolees0ca-21) mit aktuellem Preis 13.99 EUR (original: 16.67 EUR) 16.08 % Rabatt hier:
