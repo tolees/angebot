@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'Xiaomi Mi Band 5 - Smart Fitness Bracele mit 17.12 % Rabatt'
-date: 2021-01-19 13:04:53
+date: 2021-01-20 20:28:23
 image: 'https://m.media-amazon.com/images/I/41FX2X0eMNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B08B1MGGYY-de Xiaomi Mi Band 5 - Smart Fitness Bracelet Black XMSH10HM'
-tags: [ tole.es ]
+tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0
@@ -17,7 +17,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B08B1MGGYY/?tag=tolees0ca-21'
 descuento: '17.12'
-average: '32.61408163265306'
+average: '32.472352941176474'
 ---
 
 Sie können [Xiaomi Mi Band 5 - Smart Fitness Bracelet Black  XMSH10HM](https://www.amazon.de/dp/B08B1MGGYY/?tag=tolees0ca-21) mit Preis 29.0 EUR (original: 34.99 EUR) 17.12 % Rabatt hier:

@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Tommy Jeans Damen Tjw Basic Hooded Down  mit 50.00 % Rabatt'
-date: 2021-01-19 07:08:18
+date: 2021-01-20 20:24:10
 image: 'https://m.media-amazon.com/images/I/41m74kDYiGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZFW9RTC-de'
+slug: 'B07ZFW9RTC-de Tommy Jeans Damen Tjw Basic Hooded Down Jacket Jacke...'
+tags: [  ]
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95
