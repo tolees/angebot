@@ -26,8 +26,8 @@ Es gibt ein [POP! Harry Potter: Harry Potter - Hermione w/Feather](https://www.a
 
 ℹ️:
 
-- Von Harry Potter, Hermione w/Feather, zur stilisierten POP-Vinyl Figur von Funko!
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
+- Von Harry Potter, Hermione w/Feather, zur stilisierten POP-Vinyl Figur von Funko!
 - Schauen Sie sich jetzt die anderen Harry Potter-Figuren von Funko an! Sammeln Sie alle!
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07ZZP4HHG/?tag=tolees0ca-21)
