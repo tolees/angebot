@@ -26,8 +26,8 @@ Sie können [Nike Herren AIR MAX 90 Laufschuh  White Hyper Jade Black  45 EU](ht
 
 ℹ️:
 
+- Sportschuhe
 - Dämpfung
 - Leichtgewicht
-- Sportschuhe
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08CXSZV39/?tag=tolees0ca-21)
