@@ -26,9 +26,9 @@ Sie können [JBL Charge 4 Bluetooth-Lautsprecher in Grau – Wasserfeste  portab
 
 ℹ️:
 
-- Lieferumfang: 1 x Musikbox Charge 4 von JBL inkl. USB-C-Ladekabel / Mit JBL Connect+ bis zu 100 Lautsprecher mit der Boom Box koppeln / Wasserdicht gemäß IPX7 / Lange Akkulaufzeit / 30 Watt
 - Power gefällig? 7.500 mAh Akku-Kapazität für bis zu 20 Std. Wireless Streaming - bei Bedarf kann sogar zeitgleich der Dual-USB-Anschluss zum Aufladen von Smartphone oder Tablet genutzt werden
 - Die kabellose Lautsprecherbox kann mit bis zu zwei Geräten verbunden werden - abwechselnd Musik in top Soundqualität hören / Widerstandsfähiges Material und beständiges Gummi-Gehäuse
+- Lieferumfang: 1 x Musikbox Charge 4 von JBL inkl. USB-C-Ladekabel / Mit JBL Connect+ bis zu 100 Lautsprecher mit der Boom Box koppeln / Wasserdicht gemäß IPX7 / Lange Akkulaufzeit / 30 Watt
 - Kraftpaket für unterwegs: Die JBL Box kombiniert gewaltigen Sound mit sattem Bass und überzeugt so auf ganzer Linie - der Hingucker auf jeder Party, sowohl zuhause als auch outdoor in Garten & Co
 - Tragbarer Bluetooth Speaker für jede Gelegenheit - die mobile Soundbox eignet sich perfekt für einen Ausflug ins Schwimmbad oder an den Strand: Wasser? Für die robuste Charge 4 kein Problem
 
