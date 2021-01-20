@@ -26,9 +26,9 @@ Es gibt ein [super.natural Dünnes Herren Langarm-Shirt  Mit Merinowolle  M BASE
 
 ℹ️:
 
-- Lieferumfang: 1 super.natural Herren Langarm Shirt, M BASE LS 140, Größe: L, Farbe: Schwarz
 - Materialmix: 50 Prozent Merinowolle und 50 Prozent strapazierfähiges Polyester, Pflegeleicht: Waschbar bis 40°C im Schonwaschgang, Trocknergeeignet
 - Leichtes, unifarbenes Herren Langarm-Shirt für milde Tage, Tragbar als Unterzieh-Shirt oder im Alltag, beim Sport und auf Reisen, Regulärer Schnitt
+- Lieferumfang: 1 super.natural Herren Langarm Shirt, M BASE LS 140, Größe: L, Farbe: Schwarz
 - Temperaturregulierende Merinowolle mit natürlichem UV-Schutz: Kühlend bei Hitze und wärmend bei Kälte, Optimaler Feuchtigkeitstransport
 - Geruchshemmend durch antibakterielle Wirkung, Sehr weiche nicht kratzende Merinowolle für einen angenehmen Tragekomfort
 

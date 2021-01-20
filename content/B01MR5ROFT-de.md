@@ -26,10 +26,10 @@ Sie können [WORX WA3867 Akku Ladestation – Akku Schnell-Ladegerät universal 
 
 ℹ️:
 
+- WORX Safety: Die Akku Ladestation entspricht den üblichen Sicherheitsstandards
+- Schnelles Aufladen der WORX Akkubatterien: Ladezeit ca. 25 Minuten bei 2000mAh / ca. 30 Minuten bei 2500mAh / ca. 45 Minuten bei 4000mAh / ca. 60 Minuten bei 5000mAh
+- Die ideale Akku Ladestation: Leicht im Gewicht, handlich, benutzerfreundlich, mit Überladungsschutz und integrierter Ladestandanzeige
 - Kompakte Akku Ladestation für alle WORX PowerShare Akkus bis 6000mAh Akku-Kapazität / Universal WORX-kompatibel
 - Lieferumfang: 1x WORX 20V Akku Ladestation WA3867 / Schnellladegerät für PowerShare Akkus bis 6000mAh
-- WORX Safety: Die Akku Ladestation entspricht den üblichen Sicherheitsstandards
-- Die ideale Akku Ladestation: Leicht im Gewicht, handlich, benutzerfreundlich, mit Überladungsschutz und integrierter Ladestandanzeige
-- Schnelles Aufladen der WORX Akkubatterien: Ladezeit ca. 25 Minuten bei 2000mAh / ca. 30 Minuten bei 2500mAh / ca. 45 Minuten bei 4000mAh / ca. 60 Minuten bei 5000mAh
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01MR5ROFT/?tag=tolees0ca-21)
