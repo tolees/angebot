@@ -26,8 +26,8 @@ Es gibt ein [Tommy Hilfiger Damen JENNA SHIRT LS W2 Hemdbluse  Weiß  Classic Wh
 
 ℹ️:
 
-- Geknöpfte Manschetten
 - Aufgestickte Tommy Hilfiger Flagge auf der Brust
+- Geknöpfte Manschetten
 - Letztes Knopfloch mit kontrastierender Einfassung
 - Aufgesetzte Tommy-Streifen an den Manschetten und innen am Ausschnitt
 

@@ -27,8 +27,8 @@ Sie können [Samsung EVO Select 256 GB microSD 100MB/s  Geschwindigkeit  Full HD
 ℹ️:
 
 - Hohe Sicherheit für Ihre Daten dank 4-fach Schutz: Wasserfest, temperaturbeständig, röntgensicher und magnetresistent
-- Hohe Geschwindigkeit: geeignet für 4K UHD- und Super Slow Motion Aufnahmen mit bis zu 100 MB/s Übertragungsgeschwindigkeit (UHS-I U3)
 - Auf Geschwindigkeit optimierte microSD Speicherkarte perfekt für den Einsatz in Smartphones, Tablets, 360° Kameras, Full HD Action Kameras und Drohnen
+- Hohe Geschwindigkeit: geeignet für 4K UHD- und Super Slow Motion Aufnahmen mit bis zu 100 MB/s Übertragungsgeschwindigkeit (UHS-I U3)
 - Viel Platz: 256 GB Speicherkapazität für bis zu 12 Stunden Aufnahmezeit von 4K UHD Videos oder 75. 200 Fotos
 - Hohe Kompatibilität: dank mitgeliefertem SD Adapter kompatibel zu einer Vielzahl an Geräten
 

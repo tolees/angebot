@@ -1,34 +1,35 @@
 ---
 layout: post
-title: '22.07 % rabat auf LEGO 75969 Harry Potter Astronomieturm a'
-date: 2021-01-18 07:54:43
+title: '22.04 % rabat auf LEGO 75969 Harry Potter Astronomieturm a'
+date: 2021-01-20 03:03:13
 image: 'https://m.media-amazon.com/images/I/51+4CsFSz+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0813QBV6V-de'
-actualPrice: 75.96 EUR
+slug: 'B0813QBV6V-de LEGO 75969 Harry Potter Astronomieturm auf Schloss...'
+tags: [  ]
+actualPrice: 75.99 EUR
 currency: EUR
-price: 75.96
+price: 75.99
 comparePrice: 97.47 EUR
 prodname: 'LEGO 75969 Harry Potter Astronomieturm auf Schloss Hogwarts  Spielzeug kompatibel mit der Großen Halle von Hogwarts und der Peitschenden Weide'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B0813QBV6V/?tag=tolees0ca-21'
-descuento: '22.07'
-average: '75.74048458149782'
+descuento: '22.04'
+average: '75.74266375545855'
 ---
 
-Es gibt ein [LEGO 75969 Harry Potter Astronomieturm auf Schloss Hogwarts  Spielzeug kompatibel mit der Großen Halle von Hogwarts und der Peitschenden Weide](https://www.amazon.de/dp/B0813QBV6V/?tag=tolees0ca-21) mit aktuellem Preis 75.96 EUR (original: 97.47 EUR) 22.07 % Rabatt hier:
+Es gibt ein [LEGO 75969 Harry Potter Astronomieturm auf Schloss Hogwarts  Spielzeug kompatibel mit der Großen Halle von Hogwarts und der Peitschenden Weide](https://www.amazon.de/dp/B0813QBV6V/?tag=tolees0ca-21) mit aktuellem Preis 75.99 EUR (original: 97.47 EUR) 22.04 % Rabatt hier:
 
 [![LEGO 75969 Harry Potter Astronomieturm a](https://m.media-amazon.com/images/I/51+4CsFSz+L._SL200_.jpg)](https://www.amazon.de/dp/B0813QBV6V/?tag=tolees0ca-21)
 
 ℹ️:
 
 - Wenn Kinder das Klassenzimmer des Zaubertränke-Lehrers betreten und seine Party besuchen, sich eine Alraune im Gewächshaus ansehen und den Schlafsaal in Haus Ravenclaw erkunden können sie die Magie mit eigenen Händen erleben
-- Dieses einzigartige Harry Potter Bauset enthält unter anderem Draco Malfoy und Neville Longbottom als LEGO Minifiguren und ist ein tolles Geschenk für Kinder ab 9 Jahren
-- Das Modell ist 40 cm hoch, 29 cm breit und 17 cm tief und lässt sich ideale mit den LEGO Hogwarts Sets 75953, 75954 und 75948 kombinieren (die zum Teil nur in begrenzter Auflage erhältlich sind)
-- Dieses Hogwarts-Set zum Verschenken enthält viele berühmte Schauplätze aus Harry Potter Filmen, 8 beliebte Minifiguren, Hedwig als Spielzeug-Eule und jede Menge Zubehörelemente wie z.B. Alraunen, Briefe, Zauberstäbe und ein Buch über Zaubertränke
 - Wenn Kinder den LEGO Harry Potter Astronomieturm auf Schloss Hogwarts (75969) betreten, können sie magische Hogwarts-Geschichten mit beliebten Figuren, legendären Schauplätzen und realistischen Details nachspielen
+- Dieses Hogwarts-Set zum Verschenken enthält viele berühmte Schauplätze aus Harry Potter Filmen, 8 beliebte Minifiguren, Hedwig als Spielzeug-Eule und jede Menge Zubehörelemente wie z.B. Alraunen, Briefe, Zauberstäbe und ein Buch über Zaubertränke
+- Das Modell ist 40 cm hoch, 29 cm breit und 17 cm tief und lässt sich ideale mit den LEGO Hogwarts Sets 75953, 75954 und 75948 kombinieren (die zum Teil nur in begrenzter Auflage erhältlich sind)
+- Dieses einzigartige Harry Potter Bauset enthält unter anderem Draco Malfoy und Neville Longbottom als LEGO Minifiguren und ist ein tolles Geschenk für Kinder ab 9 Jahren
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0813QBV6V/?tag=tolees0ca-21)
