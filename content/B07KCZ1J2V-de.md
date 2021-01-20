@@ -1,12 +1,13 @@
 ---
 layout: post
 title: '15.03 % rabat auf Mi Home Security Camera 360° 16839 Webca'
-date: 2021-01-17 19:18:00
+date: 2021-01-20 02:20:28
 image: 'https://m.media-amazon.com/images/I/21v1rodN3DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KCZ1J2V-de'
+slug: 'B07KCZ1J2V-de Mi Home Security Camera 360° 16839 Webcam 1080P'
+tags: [  ]
 actualPrice: 33.98 EUR
 currency: EUR
 price: 33.98
@@ -16,7 +17,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07KCZ1J2V/?tag=tolees0ca-21'
 descuento: '15.03'
-average: '32.73527777777777'
+average: '32.8007894736842'
 ---
 
 Es gibt ein [Mi Home Security Camera 360° 16839 Webcam   1080P](https://www.amazon.de/dp/B07KCZ1J2V/?tag=tolees0ca-21) mit aktuellem Preis 33.98 EUR (original: 39.99 EUR) 15.03 % Rabatt hier:
@@ -26,9 +27,9 @@ Es gibt ein [Mi Home Security Camera 360° 16839 Webcam   1080P](https://www.ama
 ℹ️:
 
 - Aufgezeichnen von Videos auf microSDXC-Karte
+- Keine Stecker, nur USB-Kabel
 - ausgezeichnete Funktionsweise und Bildqualität
 - 360 Grad schwenkbar
 - WLAN-Kamera besteht aus hochglänzendem weißen Kunststoff, die Abmessungen betragen 118 × 80 × 80 Millimeter bei einem Gewicht von 250 Gramm
-- Keine Stecker, nur USB-Kabel
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07KCZ1J2V/?tag=tolees0ca-21)

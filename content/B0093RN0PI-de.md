@@ -1,25 +1,26 @@
 ---
 layout: post
-title: '34.81 % rabat auf Intenso interne SSD-Festplatte 128GB Top'
-date: 2021-01-19 01:33:22
+title: '37.35 % rabat auf Intenso interne SSD-Festplatte 128GB Top'
+date: 2021-01-20 02:16:34
 image: 'https://m.media-amazon.com/images/I/41zvUPLK3oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0093RN0PI-de'
-actualPrice: 19.55 EUR
+slug: 'B0093RN0PI-de Intenso interne SSD-Festplatte 128GB Top Performance'
+tags: [  ]
+actualPrice: 18.79 EUR
 currency: EUR
-price: 19.55
+price: 18.79
 comparePrice: 29.99 EUR
 prodname: 'Intenso interne SSD-Festplatte 128GB Top Performance'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B0093RN0PI/?tag=tolees0ca-21'
-descuento: '34.81'
-average: '18.02038461538462'
+descuento: '37.35'
+average: '18.03204545454546'
 ---
 
-Es gibt ein [Intenso interne SSD-Festplatte 128GB Top Performance](https://www.amazon.de/dp/B0093RN0PI/?tag=tolees0ca-21) mit aktuellem Preis 19.55 EUR (original: 29.99 EUR) 34.81 % Rabatt hier:
+Es gibt ein [Intenso interne SSD-Festplatte 128GB Top Performance](https://www.amazon.de/dp/B0093RN0PI/?tag=tolees0ca-21) mit aktuellem Preis 18.79 EUR (original: 29.99 EUR) 37.35 % Rabatt hier:
 
 [![Intenso interne SSD-Festplatte 128GB Top](https://m.media-amazon.com/images/I/41zvUPLK3oL._SL200_.jpg)](https://www.amazon.de/dp/B0093RN0PI/?tag=tolees0ca-21)
 
@@ -27,8 +28,8 @@ Es gibt ein [Intenso interne SSD-Festplatte 128GB Top Performance](https://www.a
 
 - SMART command support, TRIM command support; Gewicht: 83g; Abmessungen: 100 x 70 x 7mm
 - Lieferumgang: Intenso SSD Festplatte
-- Geringer Stromverbrauch; Schock-resistent, geräuschloser Betrieb (0dB)
-- SATA III (6Gbps)
 - Lesegeschwindigkeit: bis zu 520MB/s - Schreibgeschwindigkeit: bis zu 520MB/s
+- SATA III (6Gbps)
+- Geringer Stromverbrauch; Schock-resistent, geräuschloser Betrieb (0dB)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0093RN0PI/?tag=tolees0ca-21)

@@ -1,12 +1,13 @@
 ---
 layout: post
 title: '24.03 % rabat auf Drahtloser Controller für PlayStation 4 '
-date: 2021-01-19 01:51:12
+date: 2021-01-20 02:39:34
 image: 'https://m.media-amazon.com/images/I/41IPBpZZvYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0892LQMBM-de'
+slug: 'B0892LQMBM-de Drahtloser Controller für PlayStation 4 Camouflage Red...'
+tags: [  ]
 actualPrice: 23.55 EUR
 currency: EUR
 price: 23.55
@@ -16,7 +17,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B0892LQMBM/?tag=tolees0ca-21'
 descuento: '24.03'
-average: '30.569999999999997'
+average: '29.567142857142855'
 ---
 
 Es gibt ein [Drahtloser Controller für PlayStation 4  Camouflage Red  rose gold](https://www.amazon.de/dp/B0892LQMBM/?tag=tolees0ca-21) mit aktuellem Preis 23.55 EUR (original: 31.0 EUR) 24.03 % Rabatt hier:
