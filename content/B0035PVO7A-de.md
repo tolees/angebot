@@ -26,10 +26,10 @@ Sie können [Dremel 290 Multifunktions Gravurgerät  35 Watt  Gravierer Set mit 
 
 ℹ️:
 
-- Gravierschablonen für präzises Gravieren von speziellen Formen in jedem gewünschten Material wie Glas, Keramik, Metall, Kunststoff, Holz und Leder
 - Das Dremel 290 Gravur Gerät in umweltfreundlicher Verpackung mit Auswechselbare Karbidspitze für eine Vielzahl von Materialien geeignet
-- Lieferumfang: Dremel Gravierer 290, 3 Gravierspitzen (2x Karbidspitze, 1x Diamantspitze), 3x Zubehör für Gravieren (1x Buchstaben- und Zahlenschablone, 1x Motivschablone, 2x Ikonenschablonen)
-- Schnelle Hubbewegung für eine bessere Kontrolle beim Gravieren
 - Herstellergarantie: 2 Jahre. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
+- Lieferumfang: Dremel Gravierer 290, 3 Gravierspitzen (2x Karbidspitze, 1x Diamantspitze), 3x Zubehör für Gravieren (1x Buchstaben- und Zahlenschablone, 1x Motivschablone, 2x Ikonenschablonen)
+- Gravierschablonen für präzises Gravieren von speziellen Formen in jedem gewünschten Material wie Glas, Keramik, Metall, Kunststoff, Holz und Leder
+- Schnelle Hubbewegung für eine bessere Kontrolle beim Gravieren
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0035PVO7A/?tag=tolees0ca-21)
