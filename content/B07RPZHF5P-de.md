@@ -26,10 +26,10 @@ Sie können [COSORI Wasserkocher Glas Elektrisch Glaswasserkocher 2200W/1.5L mit
 
 ℹ️:
 
-- 【LED Beleuchtung】Hellblaue LED-Anzeige strahlt beim Kochen - Elegant und Stylisch. Ideal für Kaffee, Tee, Haferflocken, heiße Suppen und vieles mehr; Zertifikate: CE, RoHS, BPA-frei. Beim Qualitätsproblem bitte kontaktieren Sie uns durch unsere Support-Email für einen Ersatz
-- 【Schnelle Aufheizung】COSORI 2200W Wasserkocher ist effizienter und Leistungstärker als Ihre alte Teekessel, nur 80 Sekunden Topfzeit für eine Tasse, 3-5 Minuten für ganze Kapazität (max. 1, 5L)
 - 【Sicher-Tech】Automatische Abschaltung aus ausgezeichneter Britischer Strix-Thermostat-Tech, Trockenlauf- und Überhitzungsschutz für sichere Verwendung. Wärmeisolierter Griff für sicheres Transportieren zu jeder Zeit
-- 【100% BPA-frei】Elektrischer Wasserkocher aus Food-Grade Borosilikatglas, Innendeckel und Heizplatte aus austenitischem Edelstahl (nicht magnetisch). Kein Schadstoff in Berührung mit Trinkwasser, trinken Sie getrost und sicher
+- 【Schnelle Aufheizung】COSORI 2200W Wasserkocher ist effizienter und Leistungstärker als Ihre alte Teekessel, nur 80 Sekunden Topfzeit für eine Tasse, 3-5 Minuten für ganze Kapazität (max. 1, 5L)
+- 【LED Beleuchtung】Hellblaue LED-Anzeige strahlt beim Kochen - Elegant und Stylisch. Ideal für Kaffee, Tee, Haferflocken, heiße Suppen und vieles mehr; Zertifikate: CE, RoHS, BPA-frei. Beim Qualitätsproblem bitte kontaktieren Sie uns durch unsere Support-Email für einen Ersatz
 - 【Bequemlichkeit】Breite Öffnung für leichtes Befüllen und Reinigen, Wasserstandsanzeige für tassengenaues Befüllen, 360 ° drehbarer Sockel mit integrierter Kabelaufwicklung für leichte Handhabung
+- 【100% BPA-frei】Elektrischer Wasserkocher aus Food-Grade Borosilikatglas, Innendeckel und Heizplatte aus austenitischem Edelstahl (nicht magnetisch). Kein Schadstoff in Berührung mit Trinkwasser, trinken Sie getrost und sicher
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07RPZHF5P/?tag=tolees0ca-21)

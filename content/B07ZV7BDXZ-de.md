@@ -27,8 +27,8 @@ Sie können [Xiaomi Smart Air Purifier 3H Luftreiniger  Bianco  Einheitsgröße]
 ℹ️:
 
 - OLED Touch Display zur Anzeige von Luftqualität, Raumtemperatur und Luftfeuchtigkeit
-- 3-fach Filter-System mit HEPA Class 13 Filter: filtert 99,97% aller allergenen Stoffe uvm.
 - Filterwechsel-Alarm
+- 3-fach Filter-System mit HEPA Class 13 Filter: filtert 99,97% aller allergenen Stoffe uvm.
 - Volle und smarte Kontrolle über die Mi Home App, Alexa und Google
 - Air Flow Optimierung, filtert 380 qm3 pro Stunde
 
