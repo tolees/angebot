@@ -26,10 +26,10 @@ Es gibt ein [Sylvanian Families - 5317 - Baby Bus "Sonnenschein"](https://www.am
 
 ℹ️:
 
-- Stimulates imaginative role-playing by children
-- Suitable for ages three years and above
 - Up to 12 babies can ride
 - Removing the seats reveals a pool
 - The chairs on the upper deck can be turned over to make a seesaw to play with
+- Stimulates imaginative role-playing by children
+- Suitable for ages three years and above
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01BREEQW0/?tag=tolees0ca-21)

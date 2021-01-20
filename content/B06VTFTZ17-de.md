@@ -27,9 +27,9 @@ Sie können [Sony SEL-85F18 Porträt Objektiv  Festbrennweite  85 mm  F1.8  Voll
 ℹ️:
 
 - Lieferumfang : SEL-85F18, Kappe: ALC-SH150, vordere Objektivkappe: ALC-F67S, hintere Objektivkappe: ALC-R1EM
+- Lichtstarkes Teleobjektiv
 - Linearer Motor für eine präzise, ruhige Fokussierung
 - Zirkuläre Blende mit neun Lamellen für wunderschöne Unschärfe-Effekte, minimale Fokusentfernung 0,8 m
 - ED-Glas kompensiert Abbildungsfehler
-- Lichtstarkes Teleobjektiv
 
 [🛒 Hier!!](https://www.amazon.de/dp/B06VTFTZ17/?tag=tolees0ca-21)
