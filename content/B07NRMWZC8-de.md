@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRMWZC8-de Bluetooth Kopfhörer Kabellos In-Ear Ohrhörer iTeknic True-...'
+sku: 'B07NRMWZC8-de'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

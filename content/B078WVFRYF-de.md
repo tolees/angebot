@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WVFRYF-de Einhell Rasenwalze GC-GR 57 57cm Breite 32cm Durchmesser...'
+sku: 'B078WVFRYF-de'
 tags: [  ]
 actualPrice: 42.75 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WJH79WM-de TP-Link KL50 Kasa Smart WLAN Filament Glühbirne Lampe mit...'
+sku: 'B07WJH79WM-de'
 tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR

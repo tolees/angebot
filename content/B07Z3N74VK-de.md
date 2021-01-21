@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z3N74VK-de SNAPTAIN SP300 Drohne mit Blaue LED RC Quadrocopter mit 3...'
+sku: 'B07Z3N74VK-de'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076P7QJ2R-de Alicemall SUS304 Edelstahl Küchen Hängeleiste Bad...'
+sku: 'B076P7QJ2R-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

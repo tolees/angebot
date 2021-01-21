@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DEJXRAE-de Dis Dell Acc Soundbar AC511 0MN008'
+sku: 'B00DEJXRAE-de'
 tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR

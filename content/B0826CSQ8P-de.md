@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0826CSQ8P-de Deadpool Life Size Vinyl Figur 543 Funko Pop! Standard'
+sku: 'B0826CSQ8P-de'
 tags: [  ]
 actualPrice: 32.63 EUR
 currency: EUR

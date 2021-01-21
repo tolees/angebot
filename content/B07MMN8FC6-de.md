@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMN8FC6-de Nerd Clear Ninja Schwert für Kinder | Schwert & Scheide |...'
+sku: 'B07MMN8FC6-de'
 tags: [  ]
 actualPrice: 3.95 EUR
 currency: EUR

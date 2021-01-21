@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J9ZF24P-de MEDION S6445 39 5 cm 15 6 Zoll Full HD Notebook Intel Core...'
+sku: 'B07J9ZF24P-de'
 tags: [  ]
 actualPrice: 699.0 EUR
 currency: EUR

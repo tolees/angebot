@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001IBMNU0-de Bosch Professional 10tlg. Stichsägeblatt-Set Robust Line...'
+sku: 'B001IBMNU0-de'
 tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR

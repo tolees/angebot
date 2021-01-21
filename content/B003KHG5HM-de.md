@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003KHG5HM-de Shutter Island [Blu-ray]'
+sku: 'B003KHG5HM-de'
 tags: [  ]
 actualPrice: 2.74 EUR
 currency: EUR

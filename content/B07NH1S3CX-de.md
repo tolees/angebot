@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NH1S3CX-de Barbie FXH15 - Reitspaß Spielset mit Barbie blond Chelsea...'
+sku: 'B07NH1S3CX-de'
 tags: [  ]
 actualPrice: 40.42 EUR
 currency: EUR

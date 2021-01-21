@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00008XWOZ-de WMF Pfannenwender Kunststoff 31 x 7 5 cm Brat-/...'
+sku: 'B00008XWOZ-de'
 tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR

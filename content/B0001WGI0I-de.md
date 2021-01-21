@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0001WGI0I-de BRIO Bahn 33204 - Parkhaus Straßen&Schienen'
+sku: 'B0001WGI0I-de'
 tags: [  ]
 actualPrice: 32.5 EUR
 currency: EUR

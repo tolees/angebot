@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077HXFFQL-de Fisher-Price FPP53 - Lernspaß Hundefreundin Baby Spielzeug...'
+sku: 'B077HXFFQL-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

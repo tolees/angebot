@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MTYCG43-de Samsung Galaxy S10e Smartphone 128 GB Interner Speicher weiß'
+sku: 'B07MTYCG43-de'
 tags: [  ]
 actualPrice: 474.0 EUR
 currency: EUR

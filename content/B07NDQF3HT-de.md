@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDQF3HT-de Ravensburger 08066 Abenteuer mit TKKG'
+sku: 'B07NDQF3HT-de'
 tags: [  ]
 actualPrice: 5.5 EUR
 currency: EUR

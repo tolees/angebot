@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFQLTHC-de Dickie Toys 203713012 Iveco Daily Ambulance Krankenwagen...'
+sku: 'B07PFQLTHC-de'
 tags: [  ]
 actualPrice: 7.47 EUR
 currency: EUR

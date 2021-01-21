@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZTPPQ9-de Dermaroller【Newest 2020】 ETEREAUTY 0.5mm Micronadeln Derma...'
+sku: 'B07MZTPPQ9-de'
 tags: [  ]
 actualPrice: 12.79 EUR
 currency: EUR

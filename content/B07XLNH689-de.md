@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XLNH689-de Tales of: Vesperia + Berseria + Zestiria'
+sku: 'B07XLNH689-de'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

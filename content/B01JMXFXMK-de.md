@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JMXFXMK-de Beregnungsschlauch Bewässerungsschlauch / Sprühschlauch...'
+sku: 'B01JMXFXMK-de'
 tags: [  ]
 actualPrice: 23.91 EUR
 currency: EUR

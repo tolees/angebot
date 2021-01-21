@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B8FC9TH-de Smart Alexa Lichtschalter SAINKO Wifi lichtschalter...'
+sku: 'B08B8FC9TH-de'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BCE30RS-de Logitech MK270 Kabelloses Tastatur-Maus Set 2.4 GHz...'
+sku: 'B00BCE30RS-de'
 tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR

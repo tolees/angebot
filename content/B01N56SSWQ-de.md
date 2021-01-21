@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N56SSWQ-de Pioneer SE-MS7BT S Bluetooth Over-Ear Kopfhörer Mikrofon...'
+sku: 'B01N56SSWQ-de'
 tags: [  ]
 actualPrice: 55.0 EUR
 currency: EUR

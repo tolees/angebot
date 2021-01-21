@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013WSME96-de Sony Xperia Z5 Smartphone 5 2 Zoll 13 2 cm Touch-Display...'
+sku: 'B013WSME96-de'
 tags: [  ]
 actualPrice: 189.99 EUR
 currency: EUR

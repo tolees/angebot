@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0007VDNWO-de Ravensburger 09074 - Nordlichter'
+sku: 'B0007VDNWO-de'
 tags: [  ]
 actualPrice: 6.15 EUR
 currency: EUR

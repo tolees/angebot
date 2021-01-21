@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FGRGJII-de Corsair K70 LUX Rot LED Mechanische Gaming Tastatur Cherry...'
+sku: 'B01FGRGJII-de'
 tags: [  ]
 actualPrice: 89.9 EUR
 currency: EUR

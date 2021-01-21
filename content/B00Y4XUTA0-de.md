@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Y4XUTA0-de Lacoste Herren Poloshirt Schwarz Noir X-Small...'
+sku: 'B00Y4XUTA0-de'
 tags: [  ]
 actualPrice: 54.45 EUR
 currency: EUR

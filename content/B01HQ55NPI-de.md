@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HQ55NPI-de Pokémon GO Plus'
+sku: 'B01HQ55NPI-de'
 tags: [  ]
 actualPrice: 74.98 EUR
 currency: EUR

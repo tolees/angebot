@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GYX7TNM-de Bosch Smart Home Überwachungskamera 360° drehbar...'
+sku: 'B07GYX7TNM-de'
 tags: [  ]
 actualPrice: 141.99 EUR
 currency: EUR

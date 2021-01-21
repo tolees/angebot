@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075TQTVGP-de Songs in the Key of Rock 3cd Remastered Edition'
+sku: 'B075TQTVGP-de'
 tags: [  ]
 actualPrice: 7.64 EUR
 currency: EUR

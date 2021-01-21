@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PVE6FRC-de D-Link DAP-1365 N300 Wi-Fi Range Extender mit Power...'
+sku: 'B00PVE6FRC-de'
 tags: [  ]
 actualPrice: 17.85 EUR
 currency: EUR

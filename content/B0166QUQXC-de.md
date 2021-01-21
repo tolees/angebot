@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0166QUQXC-de CREATIVE Tragbarer Bluetooth-Audio-Transceiver BT-W2 aptX...'
+sku: 'B0166QUQXC-de'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

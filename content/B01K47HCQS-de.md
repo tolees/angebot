@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K47HCQS-de Krups HZ4071 Perfect Mix 9000 Pro Stabmixer | inklusive 4...'
+sku: 'B01K47HCQS-de'
 tags: [  ]
 actualPrice: 68.99 EUR
 currency: EUR

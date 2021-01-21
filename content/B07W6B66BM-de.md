@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6B66BM-de Pepsi Max Das zuckerfreie Erfrischungsgetränk von Pepsi...'
+sku: 'B07W6B66BM-de'
 tags: [  ]
 actualPrice: 9.69 EUR
 currency: EUR

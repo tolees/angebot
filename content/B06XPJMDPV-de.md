@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPJMDPV-de Meister Nivelliersystem für Fliesen 351-teilig -...'
+sku: 'B06XPJMDPV-de'
 tags: [  ]
 actualPrice: 28.23 EUR
 currency: EUR

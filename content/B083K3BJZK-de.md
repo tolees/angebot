@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083K3BJZK-de DXX Acryl Schaukasten Vitrine Schaukasten Acryl Vitrine...'
+sku: 'B083K3BJZK-de'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

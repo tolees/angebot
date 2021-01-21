@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H82GQ1K-de caseable Kindle und Kindle Paperwhite Hülle Don t care'
+sku: 'B07H82GQ1K-de'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

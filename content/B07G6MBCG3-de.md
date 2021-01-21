@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G6MBCG3-de Ultimate Ears Boom 3 Tragbarer Bluetooth-Lautsprecher 360°...'
+sku: 'B07G6MBCG3-de'
 tags: [  ]
 actualPrice: 78.84 EUR
 currency: EUR

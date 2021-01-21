@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLS3ZV1-de PLAYMOBIL 70150 Pirates Mitnehm-Pirateninsel bunt'
+sku: 'B07JLS3ZV1-de'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

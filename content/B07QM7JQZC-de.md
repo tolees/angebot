@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QM7JQZC-de OUTXE Outdoor Powerbank Solar 10000mAh USB C IP67...'
+sku: 'B07QM7JQZC-de'
 tags: [  ]
 actualPrice: 17.33 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079LBWG6Z-de Olympus PEN E-PL9 Micro Four Thirds Systemkamera 16...'
+sku: 'B079LBWG6Z-de'
 tags: [  ]
 actualPrice: 335.33 EUR
 currency: EUR

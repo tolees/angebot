@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PTMMSTS-de ASTRO A40 TR Gaming-Headsest + MixAmp Pro TR Generation 4...'
+sku: 'B07PTMMSTS-de'
 tags: [  ]
 actualPrice: 212.93 EUR
 currency: EUR

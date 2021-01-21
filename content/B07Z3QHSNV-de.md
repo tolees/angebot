@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z3QHSNV-de EUGAD 0215QJ Wandregal Wandboard Bücherregal CD DVD Regal...'
+sku: 'B07Z3QHSNV-de'
 tags: [  ]
 actualPrice: 18.9 EUR
 currency: EUR

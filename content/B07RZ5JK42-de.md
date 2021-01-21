@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZ5JK42-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars TIE...'
+sku: 'B07RZ5JK42-de'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

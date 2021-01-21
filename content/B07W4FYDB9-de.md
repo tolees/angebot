@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4FYDB9-de Universal Niedertemperatur Aluminium Schweißstab mit...'
+sku: 'B07W4FYDB9-de'
 tags: [  ]
 actualPrice: 3.45 EUR
 currency: EUR

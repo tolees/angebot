@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0874GJFZ1-de Multifunctional vegetable cutter 11 sets of plastic...'
+sku: 'B0874GJFZ1-de'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

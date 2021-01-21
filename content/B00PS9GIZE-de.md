@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PS9GIZE-de Ecomed HP-40E Heizkissen Super-Flausch Wärmekissen mit 3...'
+sku: 'B00PS9GIZE-de'
 tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR

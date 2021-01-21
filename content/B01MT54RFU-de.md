@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MT54RFU-de Omron EVOLV All-in-One digitales Oberarm-...'
+sku: 'B01MT54RFU-de'
 tags: [  ]
 actualPrice: 107.23 EUR
 currency: EUR

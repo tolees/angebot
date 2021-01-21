@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMH6V1C-de Samsung Galaxy Watch Active2 Aluminium 40 mm Bluetooth...'
+sku: 'B07VMH6V1C-de'
 tags: [  ]
 actualPrice: 252.9 EUR
 currency: EUR

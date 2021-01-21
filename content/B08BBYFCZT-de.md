@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BBYFCZT-de Tesoky Automatisch Desinfektionsspender Automatisk...'
+sku: 'B08BBYFCZT-de'
 tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR

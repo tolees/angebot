@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013ZR4IGG-de Philips Sonicare FlexCare Platinum Zahnbürste HX9111/20 -...'
+sku: 'B013ZR4IGG-de'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

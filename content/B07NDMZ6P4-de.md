@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDMZ6P4-de G-STAR RAW Herren Arctic Expedition Jacke Grau Charcoal...'
+sku: 'B07NDMZ6P4-de'
 tags: [  ]
 actualPrice: 94.76 EUR
 currency: EUR

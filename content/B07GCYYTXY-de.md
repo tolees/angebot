@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GCYYTXY-de W.2 Fiber Carbon Cube - verbesserte Version - nur 73 g -...'
+sku: 'B07GCYYTXY-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

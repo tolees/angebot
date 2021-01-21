@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCSPMZ7-de Napapijri Herren Aric Jacke Blau BLU Marine 176...'
+sku: 'B07MCSPMZ7-de'
 tags: [  ]
 actualPrice: 68.97 EUR
 currency: EUR

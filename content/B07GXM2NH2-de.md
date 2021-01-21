@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXM2NH2-de Mülleimer Abfalleimer Mülltrennsystem 60L - 3x20L Behälter...'
+sku: 'B07GXM2NH2-de'
 tags: [  ]
 actualPrice: 14.42 EUR
 currency: EUR

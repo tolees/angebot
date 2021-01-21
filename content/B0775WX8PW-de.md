@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0775WX8PW-de Yazubi Herren Chino Hose Modell Dustin Chinohose by Yzb...'
+sku: 'B0775WX8PW-de'
 tags: [  ]
 actualPrice: 27.8 EUR
 currency: EUR

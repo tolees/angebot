@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082SDNDVC-de LloydBP Displayport zum HDMI-Adapterkabel Mini-Dp zum...'
+sku: 'B082SDNDVC-de'
 tags: [  ]
 actualPrice: 1.21 EUR
 currency: EUR

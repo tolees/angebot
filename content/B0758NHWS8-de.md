@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0758NHWS8-de SanDisk Ultra 256GB MicroSDXC Speicherkarte + SD-Adapter...'
+sku: 'B0758NHWS8-de'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

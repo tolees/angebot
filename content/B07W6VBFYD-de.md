@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6VBFYD-de Cudy GS1005P 5-Port Gigabit PoE+ Switch 60W 4 *...'
+sku: 'B07W6VBFYD-de'
 tags: [  ]
 actualPrice: 42.9 EUR
 currency: EUR

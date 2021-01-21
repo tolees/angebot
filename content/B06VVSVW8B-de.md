@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VVSVW8B-de fischer FIXtainer DUOPOWER Tiefenbiss-Box Dübelbox mit 210...'
+sku: 'B06VVSVW8B-de'
 tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR

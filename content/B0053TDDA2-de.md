@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0053TDDA2-de Rotho Paso Mülleimer 20l mit Deckel Kunststoff PP BPA-frei...'
+sku: 'B0053TDDA2-de'
 tags: [  ]
 actualPrice: 21.32 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KYQF5M1-de OBEEII Kinder Festliche Kleider Mädchen Einhorn Kostüm...'
+sku: 'B07KYQF5M1-de'
 tags: [  ]
 actualPrice: 12.49 EUR
 currency: EUR

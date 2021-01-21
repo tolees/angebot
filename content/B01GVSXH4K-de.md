@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GVSXH4K-de Bungsa® P - Silberner Buchstaben Kristall Charm Anhänger...'
+sku: 'B01GVSXH4K-de'
 tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR

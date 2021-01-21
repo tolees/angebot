@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRSGJ2W-de Rollei Actioncam 560 Touch - WiFi Action-Cam wasserdicht...'
+sku: 'B07KRSGJ2W-de'
 tags: [  ]
 actualPrice: 88 EUR
 currency: EUR

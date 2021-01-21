@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVFXSLL-de CRYSTAL ART Crystal Card Kits 18x18cm Mulitcolor 18x18'
+sku: 'B07NVFXSLL-de'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

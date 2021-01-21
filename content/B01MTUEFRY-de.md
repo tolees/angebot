@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTUEFRY-de Emsa Kräutertopf für frische Kräuter Selbstbewässerung...'
+sku: 'B01MTUEFRY-de'
 tags: [  ]
 actualPrice: 7.79 EUR
 currency: EUR

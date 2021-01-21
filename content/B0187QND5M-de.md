@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0187QND5M-de Kärcher Fensterdüse für Kärcher Dampfreiniger...'
+sku: 'B0187QND5M-de'
 tags: [  ]
 actualPrice: 13.79 EUR
 currency: EUR

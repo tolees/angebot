@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M5ELVUH-de Jane Austen s Love & Friendship'
+sku: 'B01M5ELVUH-de'
 tags: [  ]
 actualPrice: 2.33 EUR
 currency: EUR

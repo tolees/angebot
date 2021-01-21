@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D4RSK9L-de HyperX HX-HSCA-GD/NAP Cloud Alpha Gold - Gaming Kopfhörer...'
+sku: 'B07D4RSK9L-de'
 tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR

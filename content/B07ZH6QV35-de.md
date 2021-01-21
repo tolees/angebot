@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZH6QV35-de Furnoor Holzwürfel 10pcs 25mm Naturholz Quadrat Blocks...'
+sku: 'B07ZH6QV35-de'
 tags: [  ]
 actualPrice: 5.19 EUR
 currency: EUR

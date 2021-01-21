@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1SJ2B4-de Levi s Herren Slim Jeans 511 SLIM FIT Schwarz Mineral...'
+sku: 'B07F1SJ2B4-de'
 tags: [  ]
 actualPrice: 46.39 EUR
 currency: EUR

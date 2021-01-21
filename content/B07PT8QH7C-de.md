@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT8QH7C-de BRIKSMAX Led Beleuchtungsset für Ghostbusters Ecto-1...'
+sku: 'B07PT8QH7C-de'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OX1LDV2-de Jomos Herren 1928 Low-Top Braun capucino/Cognac 155-3123...'
+sku: 'B00OX1LDV2-de'
 tags: [  ]
 actualPrice: 52.67 EUR
 currency: EUR

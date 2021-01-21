@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06W9NRM2T-de Clementoni 59031 Galileo-Evolution Roboter'
+sku: 'B06W9NRM2T-de'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

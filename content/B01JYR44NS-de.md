@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JYR44NS-de Parrot 3520410038808 Minidrone Swing mit Flypad schwarz'
+sku: 'B01JYR44NS-de'
 tags: [  ]
 actualPrice: 44.49 EUR
 currency: EUR

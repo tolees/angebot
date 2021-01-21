@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2QYF4N-de HUGO Herren Dicago193 Sweatshirt per Pack Blau Dark Blue...'
+sku: 'B07K2QYF4N-de'
 tags: [  ]
 actualPrice: 64.0 EUR
 currency: EUR

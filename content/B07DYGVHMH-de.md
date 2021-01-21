@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYGVHMH-de Mi Smart Wasserkocher weiß Appsteuerung...'
+sku: 'B07DYGVHMH-de'
 tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR

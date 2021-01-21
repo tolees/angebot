@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000GT11HQ-de Sony SAL85F14Z Tele-Objektiv 85 mm F1 4 ZA Planar T*...'
+sku: 'B000GT11HQ-de'
 tags: [  ]
 actualPrice: 1024.76 EUR
 currency: EUR

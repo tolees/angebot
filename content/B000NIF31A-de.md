@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NIF31A-de Ecco ECCO OFFROAD Herren Outdoor Sandale Schwarz...'
+sku: 'B000NIF31A-de'
 tags: [  ]
 actualPrice: 48.2 EUR
 currency: EUR

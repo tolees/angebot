@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015CH1JIW-de SanDisk Ultra Flair 32GB USB-Flash-Laufwerk USB 3.0 mit...'
+sku: 'B015CH1JIW-de'
 tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR

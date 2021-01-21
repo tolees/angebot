@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HTQ6BP-de KitchenAid CLASSIC 4 3 L-Küchenmaschinen mit kippbarem...'
+sku: 'B076HTQ6BP-de'
 tags: [  ]
 actualPrice: 363.47 EUR
 currency: EUR

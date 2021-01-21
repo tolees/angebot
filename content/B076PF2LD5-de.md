@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076PF2LD5-de Motorola MDC 10W Dash Cam | Auto Dashkamera Wlan-...'
+sku: 'B076PF2LD5-de'
 tags: [  ]
 actualPrice: 15.97 EUR
 currency: EUR

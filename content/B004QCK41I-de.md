@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004QCK41I-de Hamax Kindersitz Fahrrad hinten Caress Testsieger schwarz...'
+sku: 'B004QCK41I-de'
 tags: [  ]
 actualPrice: 102.99 EUR
 currency: EUR

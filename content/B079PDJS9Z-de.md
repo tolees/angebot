@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079PDJS9Z-de I Tonya'
+sku: 'B079PDJS9Z-de'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

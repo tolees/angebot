@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHZFQ9L-de SANROCK U61W Drohne für Kinder mit Kamera RC Quadcopter...'
+sku: 'B07RHZFQ9L-de'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7HSPLM-de Zeonetak Bluetooth Headset mit Kabellosem Mikrofon Headset...'
+sku: 'B07Z7HSPLM-de'
 tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR

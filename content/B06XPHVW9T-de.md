@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPHVW9T-de Keine Nacht für Niemand Ltd. Digi'
+sku: 'B06XPHVW9T-de'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

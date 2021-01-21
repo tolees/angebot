@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLS11KJ-de Playmobil 70119 Spirit - Riding Free Reitplatz mit Lucky &...'
+sku: 'B07JLS11KJ-de'
 tags: [  ]
 actualPrice: 16.64 EUR
 currency: EUR

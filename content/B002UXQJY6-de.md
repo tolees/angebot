@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002UXQJY6-de Clatronic EK 3321 Eierkocher mit Härtegradeinstellung 7...'
+sku: 'B002UXQJY6-de'
 tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR

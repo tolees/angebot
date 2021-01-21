@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZZLHXL-de KATOOM 8er Ringgrößenmesser Ringstock Ringgröße Messen...'
+sku: 'B07WZZLHXL-de'
 tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR

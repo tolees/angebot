@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071WKDW95-de Philips SHB3175WT BASS+ Over-Ear Bluetooth-Kopfhörer 13...'
+sku: 'B071WKDW95-de'
 tags: [  ]
 actualPrice: 39.9 EUR
 currency: EUR

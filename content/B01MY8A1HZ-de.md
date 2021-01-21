@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MY8A1HZ-de Philips Lumea Prestige IPL Haarentfernungsgerät BRI954 –...'
+sku: 'B01MY8A1HZ-de'
 tags: [  ]
 actualPrice: 378.88 EUR
 currency: EUR

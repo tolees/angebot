@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0772WFJVF-de Funko 22058 S1 POP Vinylfigur: Ready Player One: i-R0k Multi'
+sku: 'B0772WFJVF-de'
 tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR

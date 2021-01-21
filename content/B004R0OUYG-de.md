@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004R0OUYG-de Spyderco Messer Para-Military 2 Black G-10 Plain schwarz...'
+sku: 'B004R0OUYG-de'
 tags: [  ]
 actualPrice: 184.01 EUR
 currency: EUR

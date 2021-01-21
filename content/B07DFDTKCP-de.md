@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFDTKCP-de Funko 34053 Kingdom Hearts 3: Riku POP Vinylfigur Multi'
+sku: 'B07DFDTKCP-de'
 tags: [  ]
 actualPrice: 7.17 EUR
 currency: EUR

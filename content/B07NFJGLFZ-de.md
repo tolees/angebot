@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NFJGLFZ-de Tommy Hilfiger Damen New TYRA DOWN Coat Mantel Blau Sky...'
+sku: 'B07NFJGLFZ-de'
 tags: [  ]
 actualPrice: 200.16 EUR
 currency: EUR

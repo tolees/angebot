@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000PKII2C-de SuperCat Wühlmaus-Falle: Effiziente Schlagfalle kein...'
+sku: 'B000PKII2C-de'
 tags: [  ]
 actualPrice: 12.14 EUR
 currency: EUR

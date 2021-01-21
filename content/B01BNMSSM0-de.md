@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BNMSSM0-de Philips Elektrorasierer Damen SatinShave Advanced...'
+sku: 'B01BNMSSM0-de'
 tags: [  ]
 actualPrice: 30.17 EUR
 currency: EUR

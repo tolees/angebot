@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HVKT5G4-de Nebula Prizm Beamer Multimedia Projektor mit 480P LCD...'
+sku: 'B07HVKT5G4-de'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

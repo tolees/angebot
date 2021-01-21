@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XL6KZFG-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Clone...'
+sku: 'B07XL6KZFG-de'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

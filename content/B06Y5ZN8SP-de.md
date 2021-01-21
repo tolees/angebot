@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y5ZN8SP-de Citizen Herren Datum klassisch Solar Uhr mit Titan Armband...'
+sku: 'B06Y5ZN8SP-de'
 tags: [  ]
 actualPrice: 168.96 EUR
 currency: EUR

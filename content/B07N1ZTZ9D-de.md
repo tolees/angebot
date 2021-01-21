@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1ZTZ9D-de Noris 606071825 Tiere&Natur Spaß am Lernen Tiere und Natur...'
+sku: 'B07N1ZTZ9D-de'
 tags: [  ]
 actualPrice: 12.89 EUR
 currency: EUR

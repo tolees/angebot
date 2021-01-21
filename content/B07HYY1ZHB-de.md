@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HYY1ZHB-de Nordcap Herren Thermohose Funktionelle Wintersport-Hose in...'
+sku: 'B07HYY1ZHB-de'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

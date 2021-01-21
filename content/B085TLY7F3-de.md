@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085TLY7F3-de Bluetooth Kopfhörer LESHI Bluetooth Kabellose Ohrhörer TWS...'
+sku: 'B085TLY7F3-de'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

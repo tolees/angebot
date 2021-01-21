@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QPPPRPB-de Wiko View 3 Lite Silver bleen 6 09" HD+ Display 13MP+2MP...'
+sku: 'B07QPPPRPB-de'
 tags: [  ]
 actualPrice: 105.0 EUR
 currency: EUR

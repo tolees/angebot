@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082DW2QN1-de KKTICK AirPods Pro Silikon Hülle Tragbares Schutzhülle mit...'
+sku: 'B082DW2QN1-de'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

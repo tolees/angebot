@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZGHYFZ4-de Xiaomi Mi Note 10 Smartphone 16 43cm 6 47" 3D Curved...'
+sku: 'B07ZGHYFZ4-de'
 tags: [  ]
 actualPrice: 402.47 EUR
 currency: EUR

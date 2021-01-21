@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GBNWYLQ-de VNOX Magnetfeldtherapie-Armband 99 9% Reine Rote Kupferne...'
+sku: 'B07GBNWYLQ-de'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014I8TOTC-de AmazonBasics HL-007318 Hochgeschwindigkeits-HDMI-Kabel...'
+sku: 'B014I8TOTC-de'
 tags: [  ]
 actualPrice: 6.39 EUR
 currency: EUR

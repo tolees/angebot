@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CITSAPI-de Mobicool W40 AC/DC - thermo-elektrische Kühlbox mit Rollen...'
+sku: 'B00CITSAPI-de'
 tags: [  ]
 actualPrice: 107.57 EUR
 currency: EUR

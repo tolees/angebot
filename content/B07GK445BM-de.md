@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GK445BM-de Krups KB181D Freshboost Vakuum to go Standmixer 800...'
+sku: 'B07GK445BM-de'
 tags: [  ]
 actualPrice: 84.99 EUR
 currency: EUR

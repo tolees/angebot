@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YDKSHFB-de PITTMAN Cargo Hose Herren Darius - Männer Chino by Pit...'
+sku: 'B07YDKSHFB-de'
 tags: [  ]
 actualPrice: 35.93 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083J33FHC-de H0 V Acryl Schaukasten Vitrine Vitrine Acryl Schaukasten...'
+sku: 'B083J33FHC-de'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

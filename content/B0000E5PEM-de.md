@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0000E5PEM-de The Diary of Alicia Keys'
+sku: 'B0000E5PEM-de'
 tags: [  ]
 actualPrice: 2.86 EUR
 currency: EUR

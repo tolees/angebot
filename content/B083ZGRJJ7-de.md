@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083ZGRJJ7-de Nestlé KITKAT und LION Party Box 6 Sorten 68 Schokoriegel...'
+sku: 'B083ZGRJJ7-de'
 tags: [  ]
 actualPrice: 24.49 EUR
 currency: EUR

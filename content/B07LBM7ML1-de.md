@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBM7ML1-de CREATIVE Sound BlasterX H6 USB-Gaming-Headset virtueller...'
+sku: 'B07LBM7ML1-de'
 tags: [  ]
 actualPrice: 59.39 EUR
 currency: EUR

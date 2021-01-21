@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KJMN8I-de Scotch 5501933 Klebeband 550 Polypropylenfolie 19 mm x 33...'
+sku: 'B000KJMN8I-de'
 tags: [  ]
 actualPrice: 5.7 EUR
 currency: EUR

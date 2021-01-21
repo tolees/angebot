@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3RPX4V-de Tommy Hilfiger Damen Honey Mini Crossover Umhängetasche...'
+sku: 'B07V3RPX4V-de'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

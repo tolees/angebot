@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QDR5K4N-de Marc O Polo Damen 71143 Steppmantel mit Daunen-Federn-...'
+sku: 'B07QDR5K4N-de'
 tags: [  ]
 actualPrice: 139.95 EUR
 currency: EUR

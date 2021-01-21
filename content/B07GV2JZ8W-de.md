@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GV2JZ8W-de Kitchen Diamonds Premium Tafelsticker-Set – 136...'
+sku: 'B07GV2JZ8W-de'
 tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR

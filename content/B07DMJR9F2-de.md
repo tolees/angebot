@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DMJR9F2-de FIFA 19 - Champions Edition - [Xbox One]'
+sku: 'B07DMJR9F2-de'
 tags: [  ]
 actualPrice: 38.36 EUR
 currency: EUR

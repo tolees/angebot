@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WR3QQTN-de Bluetooth Kopfhörer Kopfhörer Kabellos In Ear Ohrhörer...'
+sku: 'B07WR3QQTN-de'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

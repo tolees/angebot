@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MMDF5V-de PLAYMOBIL Magic 9473 Schneetroll mit Schlitten und...'
+sku: 'B079MMDF5V-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

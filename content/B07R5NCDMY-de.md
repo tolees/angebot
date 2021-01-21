@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R5NCDMY-de Razer Seiren X Mercury USB-Streaming-Mikrofon in Profi...'
+sku: 'B07R5NCDMY-de'
 tags: [  ]
 actualPrice: 76.99 EUR
 currency: EUR

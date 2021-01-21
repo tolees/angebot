@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071FB2D5L-de Kindergarten Cop [Blu-ray]'
+sku: 'B071FB2D5L-de'
 tags: [  ]
 actualPrice: 6.75 EUR
 currency: EUR

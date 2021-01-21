@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018HT1NW4-de Krampus [Blu-ray]'
+sku: 'B018HT1NW4-de'
 tags: [  ]
 actualPrice: 4.44 EUR
 currency: EUR

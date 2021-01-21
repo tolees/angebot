@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QGVVFLL-de Küchenarmatur Dalmo Wasserhahn Küche Einhand-...'
+sku: 'B07QGVVFLL-de'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

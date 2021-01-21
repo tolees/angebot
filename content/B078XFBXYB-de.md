@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078XFBXYB-de 3D Stift Filament PLA Filament 1.75mm 60M 3 Farben je 20M...'
+sku: 'B078XFBXYB-de'
 tags: [  ]
 actualPrice: 8.03 EUR
 currency: EUR

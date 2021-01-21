@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071YRBY9T-de Acer Swift 1 SF113-31-P2CP 33 8 cm 13 3 Zoll Full-HD IPS...'
+sku: 'B071YRBY9T-de'
 tags: [  ]
 actualPrice: 250.0 EUR
 currency: EUR

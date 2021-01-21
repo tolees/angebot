@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TB87JKY-de BRIKSMAX Led Beleuchtungsset für Lego NASA Apollo Saturn V...'
+sku: 'B07TB87JKY-de'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

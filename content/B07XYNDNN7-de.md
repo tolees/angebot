@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XYNDNN7-de Joyspot Kochmesser Japanisch Chefmesser Santokumesser...'
+sku: 'B07XYNDNN7-de'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

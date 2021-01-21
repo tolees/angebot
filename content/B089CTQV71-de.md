@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089CTQV71-de Bluetooth-Headset 5.0 drahtloses Touch-Headset Stereo-In-...'
+sku: 'B089CTQV71-de'
 tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR

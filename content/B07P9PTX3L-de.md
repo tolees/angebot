@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P9PTX3L-de Mr Muscle Drano Power Rohrreiniger Gel Abflussreiniger...'
+sku: 'B07P9PTX3L-de'
 tags: [  ]
 actualPrice: 1.4 EUR
 currency: EUR

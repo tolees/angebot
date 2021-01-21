@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WSN17F3-de Gehörschutz mit DAB + / FM-Radio und Bluetooth...'
+sku: 'B07WSN17F3-de'
 tags: [  ]
 actualPrice: 102.8 EUR
 currency: EUR

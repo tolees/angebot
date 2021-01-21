@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVNBKVQ-de FULLOSUN Illusion-Nachtlicht 3D LED-Tisch-Schreibtisch-...'
+sku: 'B07TVNBKVQ-de'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

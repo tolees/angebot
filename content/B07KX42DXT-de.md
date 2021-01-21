@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KX42DXT-de WAFTING 4er Set Esszimmerstühle Gepolsterter Seitenstuhl...'
+sku: 'B07KX42DXT-de'
 tags: [  ]
 actualPrice: 94.99 EUR
 currency: EUR

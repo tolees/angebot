@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q3ZQW7Y-de licaso Jutebeutel Bedruckt Love Liebe L O V E Print in...'
+sku: 'B07Q3ZQW7Y-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

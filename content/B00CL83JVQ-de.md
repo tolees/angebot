@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CL83JVQ-de Bose ® Companion 2 Serie III Multimedia Lautsprechersystem...'
+sku: 'B00CL83JVQ-de'
 tags: [  ]
 actualPrice: 74.9 EUR
 currency: EUR

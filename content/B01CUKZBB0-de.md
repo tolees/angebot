@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CUKZBB0-de Amazon-Schutzhülle für Kindle Schwarz —nicht geeignet für...'
+sku: 'B01CUKZBB0-de'
 tags: [  ]
 actualPrice: 9.22 EUR
 currency: EUR

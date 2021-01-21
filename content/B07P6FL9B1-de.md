@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6FL9B1-de PLAYMOBIL Novelmore 70221 Festung der Burnham Raiders Für...'
+sku: 'B07P6FL9B1-de'
 tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR

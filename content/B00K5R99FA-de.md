@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K5R99FA-de Tommy Hilfiger Herren 3p Trunk Shorts Weiß White 100 XXL...'
+sku: 'B00K5R99FA-de'
 tags: [  ]
 actualPrice: 23.02 EUR
 currency: EUR

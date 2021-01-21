@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BFL8YXJ-de Ynigimy Bluetooth Kopfhörer In Ear Kabellose Kopfhörer mit...'
+sku: 'B08BFL8YXJ-de'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

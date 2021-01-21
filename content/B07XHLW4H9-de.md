@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XHLW4H9-de Uvex Unisex Jugend hlmt 4 cc Fahrradhelm red mat 51-55 cm'
+sku: 'B07XHLW4H9-de'
 tags: [  ]
 actualPrice: 27.29 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074FYVZGB-de Revell 06053 Modellbausatz Star Wars 1:2700-Republic...'
+sku: 'B074FYVZGB-de'
 tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR

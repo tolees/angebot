@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FOHW548-de Calvin Klein Herren 3p Low Rise Trunk Boxershorts...'
+sku: 'B00FOHW548-de'
 tags: [  ]
 actualPrice: 27.15 EUR
 currency: EUR

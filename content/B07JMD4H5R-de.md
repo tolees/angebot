@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMD4H5R-de Playmobil 70040 - Hicks und Astrid mit Babydrachen'
+sku: 'B07JMD4H5R-de'
 tags: [  ]
 actualPrice: 11.38 EUR
 currency: EUR

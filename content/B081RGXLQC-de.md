@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081RGXLQC-de ELEGIANT Bluetooth Kopfhörer kabellos in Ear Ohrhörer...'
+sku: 'B081RGXLQC-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DQBFQ2D-de Seagate Desktop Drive 8000 GB 8 TB externe Festplatte 3.5...'
+sku: 'B07DQBFQ2D-de'
 tags: [  ]
 actualPrice: 124.99 EUR
 currency: EUR

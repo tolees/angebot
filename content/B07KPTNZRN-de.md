@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPTNZRN-de Funko 36659 POP Bobble: Avengers Endgame: Hulk...'
+sku: 'B07KPTNZRN-de'
 tags: [  ]
 actualPrice: 5.75 EUR
 currency: EUR

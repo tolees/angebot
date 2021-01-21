@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQQAFZB-de BRITA Filterkartuschen MAXTRA+ im 2er Pack – Kartuschen...'
+sku: 'B01MQQAFZB-de'
 tags: [  ]
 actualPrice: 9.16 EUR
 currency: EUR

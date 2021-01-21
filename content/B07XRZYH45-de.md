@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XRZYH45-de Trust Gaming GXT 764 Glide-Flex XXL RGB Mauspad Größe:...'
+sku: 'B07XRZYH45-de'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

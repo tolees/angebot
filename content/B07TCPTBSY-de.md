@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TCPTBSY-de Fisher-Price GLM38 - Little People Frozen Elsas Eispalast...'
+sku: 'B07TCPTBSY-de'
 tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR

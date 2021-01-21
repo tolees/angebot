@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DMVK4DQ-de Hilitand hivetool flach Extralanges 390 mm für...'
+sku: 'B07DMVK4DQ-de'
 tags: [  ]
 actualPrice: 7.29 EUR
 currency: EUR

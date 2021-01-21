@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJY95JF-de EASTHILL Federmäppchen mit grossem Fassungsvermögen...'
+sku: 'B07QJY95JF-de'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7YZJQH-de Brother JX17FE Nähmaschine mit 17 Nähprogramme Freiarm...'
+sku: 'B07W7YZJQH-de'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLGXHW4-de Sonos Beam Smart Soundbar schwarz - Kompakte TV Soundbar...'
+sku: 'B07DLGXHW4-de'
 tags: [  ]
 actualPrice: 350 EUR
 currency: EUR

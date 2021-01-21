@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0821YWJPZ-de Acer Aspire 3 A315-54-58ZK 39 6 cm 15 6 Zoll Full-HD matt...'
+sku: 'B0821YWJPZ-de'
 tags: [  ]
 actualPrice: 340.0 EUR
 currency: EUR

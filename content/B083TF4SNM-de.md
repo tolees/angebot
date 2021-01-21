@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083TF4SNM-de OBEEII Mädchen Anna ELSA Prinzessin Kostüm Eiskönigin...'
+sku: 'B083TF4SNM-de'
 tags: [  ]
 actualPrice: 13.07 EUR
 currency: EUR

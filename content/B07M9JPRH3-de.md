@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M9JPRH3-de DEERCON Haarschneidemaschine Haartrimmer Bart Trimmer...'
+sku: 'B07M9JPRH3-de'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

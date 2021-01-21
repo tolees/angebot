@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007C7WPCK-de Martha Stewart Satin Acrylic Craft Paint 2 Ounces-Seaweed'
+sku: 'B007C7WPCK-de'
 tags: [  ]
 actualPrice: 4.74 EUR
 currency: EUR

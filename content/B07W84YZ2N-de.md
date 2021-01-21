@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W84YZ2N-de s.Oliver BLACK LABEL Damen Steppmantel mit Kunstfell-...'
+sku: 'B07W84YZ2N-de'
 tags: [  ]
 actualPrice: 60.99 EUR
 currency: EUR

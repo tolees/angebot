@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZFFBCD-de LEDVANCE LED Wand- und Deckenleuchte Leuchte für...'
+sku: 'B07TZFFBCD-de'
 tags: [  ]
 actualPrice: 11.58 EUR
 currency: EUR

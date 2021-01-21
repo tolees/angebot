@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2Z5DIY-de Samsung Galaxy A3 2017 Smartphone 12 04 cm 4 7 Zoll Touch-...'
+sku: 'B01N2Z5DIY-de'
 tags: [  ]
 actualPrice: 219.95 EUR
 currency: EUR

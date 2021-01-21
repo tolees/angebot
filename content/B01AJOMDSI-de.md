@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AJOMDSI-de Linksys Max-Stream AC1900 MU-MIMO Dual-Band Wi-Fi Router...'
+sku: 'B01AJOMDSI-de'
 tags: [  ]
 actualPrice: 100.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRG624G-de Ultimate Ears Boom 3 Tragbarer Bluetooth-Lautsprecher +...'
+sku: 'B07HRG624G-de'
 tags: [  ]
 actualPrice: 98.43 EUR
 currency: EUR

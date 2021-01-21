@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BNQVRBH-de Bluetooth Kopfhörer Kabellose Kopfhörer mit Premium...'
+sku: 'B08BNQVRBH-de'
 tags: [  ]
 actualPrice: 28.0 EUR
 currency: EUR

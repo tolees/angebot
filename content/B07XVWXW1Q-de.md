@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XVWXW1Q-de Microsoft Surface Laptop 3 13 5 Zoll Laptop Intel Core i5...'
+sku: 'B07XVWXW1Q-de'
 tags: [  ]
 actualPrice: 828.0 EUR
 currency: EUR

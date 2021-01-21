@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRFW3L8-de Geschenke 24 Schlüsselanhänger Schönster Tag in Rot mit...'
+sku: 'B07KRFW3L8-de'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YWDF8M-de Steiff AFFE Brownie - 30 cm - Plüschaffe mit Langen Armen...'
+sku: 'B079YWDF8M-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HSVR5D-de DXX Technik Bausteine Liebherr Kran LTM11200 7692Teile...'
+sku: 'B083HSVR5D-de'
 tags: [  ]
 actualPrice: 629.99 EUR
 currency: EUR

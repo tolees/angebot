@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0767CKP9M-de Playmobil 9339 - Waldelfe Spiel'
+sku: 'B0767CKP9M-de'
 tags: [  ]
 actualPrice: 1.5 EUR
 currency: EUR

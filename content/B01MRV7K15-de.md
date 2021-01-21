@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRV7K15-de Beko DE8535RX0 Wärmepumpentrockner/8...'
+sku: 'B01MRV7K15-de'
 tags: [  ]
 actualPrice: 365.0 EUR
 currency: EUR

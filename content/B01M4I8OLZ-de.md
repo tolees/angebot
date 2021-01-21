@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M4I8OLZ-de Parker IM Kugelschreiber | Schwarze Lackierung mit...'
+sku: 'B01M4I8OLZ-de'
 tags: [  ]
 actualPrice: 10.9 EUR
 currency: EUR

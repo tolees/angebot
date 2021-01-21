@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNTFHD5-de WD Black P10 Game Drive externe Festplatte 5 TB mobile und...'
+sku: 'B07VNTFHD5-de'
 tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR

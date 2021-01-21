@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079TV4VL4-de Zwillingsherz Slouch-Beanie-Mütze aus 100% Kaschmir -...'
+sku: 'B079TV4VL4-de'
 tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M4S7ZGM-de 1home Bildschirmständer Notebooktisch Notebookständer...'
+sku: 'B01M4S7ZGM-de'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

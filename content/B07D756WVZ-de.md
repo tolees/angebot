@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D756WVZ-de Levi s Damen 311 Shaping Skinny-60% Baumwolle 17% Lyocell...'
+sku: 'B07D756WVZ-de'
 tags: [  ]
 actualPrice: 51.94 EUR
 currency: EUR

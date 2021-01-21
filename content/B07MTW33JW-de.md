@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MTW33JW-de Philips Bartschneider BT5502/15 40 verschiedene Looks 0 4...'
+sku: 'B07MTW33JW-de'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

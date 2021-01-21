@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0823BTNYV-de Xiaomi Mi Smart Compact Projector Mini Beamer mit Google...'
+sku: 'B0823BTNYV-de'
 tags: [  ]
 actualPrice: 419.0 EUR
 currency: EUR

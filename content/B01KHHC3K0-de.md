@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KHHC3K0-de Yamaha R-N402D Black MusicCast Netzwerk Receiver mit DAB...'
+sku: 'B01KHHC3K0-de'
 tags: [  ]
 actualPrice: 374.32 EUR
 currency: EUR

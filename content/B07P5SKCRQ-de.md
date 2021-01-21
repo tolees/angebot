@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5SKCRQ-de Vtech 80-520904 Switch & Go Dinos - Stegosaurus...'
+sku: 'B07P5SKCRQ-de'
 tags: [  ]
 actualPrice: 18.68 EUR
 currency: EUR

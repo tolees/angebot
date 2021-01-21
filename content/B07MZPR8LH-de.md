@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPR8LH-de Funko 39699 POP Vinyl: Dragonball Z S6: Radditz...'
+sku: 'B07MZPR8LH-de'
 tags: [  ]
 actualPrice: 4.21 EUR
 currency: EUR

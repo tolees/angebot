@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6X4K3T-de Black+Decker Akku-Handstaubsauger Dustbuster 3.6V Lithium...'
+sku: 'B07L6X4K3T-de'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

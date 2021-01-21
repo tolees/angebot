@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYHTKDT-de GANT Herren Shield Sweat Hoodie Kapuzenpullover Schwarz...'
+sku: 'B01LYHTKDT-de'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000G4OZ2O-de adidas Unisex-Erwachsene Mundial Team Fußballschuhe...'
+sku: 'B000G4OZ2O-de'
 tags: [  ]
 actualPrice: 50.7 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVF4RCM-de Control Deluxe Edition - Future Pack - [PlayStation 4]'
+sku: 'B07VVF4RCM-de'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WT5MBBF-de SuperZings PSZ4D824IN00 Serie 4 Blaster Jet'
+sku: 'B07WT5MBBF-de'
 tags: [  ]
 actualPrice: 2.17 EUR
 currency: EUR

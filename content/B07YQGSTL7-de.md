@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YQGSTL7-de Funko 47165 POP Movies: Fight Club-Tyler Durden w/Chase...'
+sku: 'B07YQGSTL7-de'
 tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR

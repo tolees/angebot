@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMNH3DM-de Tokyo Laundry Tybalt Canvas Rucksack Gr. Einheitsgröße...'
+sku: 'B07MMNH3DM-de'
 tags: [  ]
 actualPrice: 15.28 EUR
 currency: EUR

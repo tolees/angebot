@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XCDPGV5-de Westfalia bikelander Premium Fahrradträger für...'
+sku: 'B06XCDPGV5-de'
 tags: [  ]
 actualPrice: 475.63 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0052WHO2S-de Brother FS20 Computer-Nähmaschine mit 32 Nähprogramme...'
+sku: 'B0052WHO2S-de'
 tags: [  ]
 actualPrice: 179.98 EUR
 currency: EUR

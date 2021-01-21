@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DPJFP5Y-de Concrete Genie [PlayStation 4]'
+sku: 'B07DPJFP5Y-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

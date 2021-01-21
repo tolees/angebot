@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B8OSVCK-de DELL KB216 USB QWERTY US International Schwarz Tastatur -...'
+sku: 'B01B8OSVCK-de'
 tags: [  ]
 actualPrice: 13.0 EUR
 currency: EUR

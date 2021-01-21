@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WBYD5NT-de Philips AC0820/10 Luftreiniger Kompakt für Allergiker bis...'
+sku: 'B07WBYD5NT-de'
 tags: [  ]
 actualPrice: 103.99 EUR
 currency: EUR

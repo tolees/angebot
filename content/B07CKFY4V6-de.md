@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CKFY4V6-de Funko 30730 Marvel: Ant-Man & The Wasp w/Chase POP Bobble...'
+sku: 'B07CKFY4V6-de'
 tags: [  ]
 actualPrice: 10.06 EUR
 currency: EUR

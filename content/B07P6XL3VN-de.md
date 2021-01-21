@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6XL3VN-de Souarts Ring Damen Schmuck Silber Rosegold Farbe Edelstahl...'
+sku: 'B07P6XL3VN-de'
 tags: [  ]
 actualPrice: 0.01 EUR
 currency: EUR

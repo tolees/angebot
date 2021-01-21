@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSQ69GD-de Funko 39333 POP Vinyl: Ghostbusters: Slimer w/Hot Dogs...'
+sku: 'B07NSQ69GD-de'
 tags: [  ]
 actualPrice: 11.69 EUR
 currency: EUR

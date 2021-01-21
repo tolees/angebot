@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YHQLXFX-de Character World Disney Eiskönigin Bettwäsche...'
+sku: 'B07YHQLXFX-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

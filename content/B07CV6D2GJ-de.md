@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CV6D2GJ-de JACK & JONES Herren JFWALBANY Leather STS Biker Boots...'
+sku: 'B07CV6D2GJ-de'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

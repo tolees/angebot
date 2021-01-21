@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LX6WD8W-de Pioneer HTP-074 B 5.1 Heimkinosystem mit AV Receiver und...'
+sku: 'B01LX6WD8W-de'
 tags: [  ]
 actualPrice: 338.48 EUR
 currency: EUR

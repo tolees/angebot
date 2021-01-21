@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCK6BY2-de OYMMENEY Holzspielzeug 3 In 1 Angelspiel Montessori...'
+sku: 'B07XCK6BY2-de'
 tags: [  ]
 actualPrice: 12.27 EUR
 currency: EUR

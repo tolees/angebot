@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00405RLBM-de Kenwood Zerkleinerer CH580 elektrischer Mini...'
+sku: 'B00405RLBM-de'
 tags: [  ]
 actualPrice: 31.8 EUR
 currency: EUR

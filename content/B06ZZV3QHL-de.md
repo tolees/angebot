@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZZV3QHL-de Philips 273V7QDAB/00 68 cm 27 Zoll Monitor VGA DVI HDMI...'
+sku: 'B06ZZV3QHL-de'
 tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR

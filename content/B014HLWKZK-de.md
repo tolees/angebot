@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014HLWKZK-de Levi Strauss & Co Herren 514 Jeans Blau Onewash 95977...'
+sku: 'B014HLWKZK-de'
 tags: [  ]
 actualPrice: 47.94 EUR
 currency: EUR

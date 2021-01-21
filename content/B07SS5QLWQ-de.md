@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SS5QLWQ-de HP 24x 23 8 Zoll / Full HD 144Hz Gaming Monitor AMD...'
+sku: 'B07SS5QLWQ-de'
 tags: [  ]
 actualPrice: 155.27 EUR
 currency: EUR

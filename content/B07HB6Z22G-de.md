@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB6Z22G-de V-Kids Watch by Vodafone - Smartwatch mit GPS-Tracker und...'
+sku: 'B07HB6Z22G-de'
 tags: [  ]
 actualPrice: 79.1 EUR
 currency: EUR

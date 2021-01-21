@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DF39J3N-de Ice-Watch - ICE steel Marine - Blaue Herrenuhr mit...'
+sku: 'B07DF39J3N-de'
 tags: [  ]
 actualPrice: 70.4 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPG4SRX-de Philips Sonicare Elektrische Zahnbürste und Munddusche...'
+sku: 'B06XPG4SRX-de'
 tags: [  ]
 actualPrice: 189.88 EUR
 currency: EUR

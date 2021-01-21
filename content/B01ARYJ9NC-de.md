@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ARYJ9NC-de Einhell Kompressor TC-AC 190/24/8 max. 8 bar 24 l-Tank...'
+sku: 'B01ARYJ9NC-de'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

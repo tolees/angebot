@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JK8DXF6-de LaCie Portable SSD 500 GB externe SSD 2.5 Zoll USB-C Mac &...'
+sku: 'B07JK8DXF6-de'
 tags: [  ]
 actualPrice: 92.76 EUR
 currency: EUR

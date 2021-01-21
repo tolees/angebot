@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5PTCVQ-de OneOdio Active Noise Cancelling Kopfhörer ANC 40 Stunden...'
+sku: 'B07W5PTCVQ-de'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

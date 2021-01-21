@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9PSJGV-de Fitbit Versa Special Edition Gesundheits & Fitness...'
+sku: 'B07B9PSJGV-de'
 tags: [  ]
 actualPrice: 139.0 EUR
 currency: EUR

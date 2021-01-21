@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LBN3FKM-de Ice-Watch - ICE ola White Black - Women s wristwatch with...'
+sku: 'B00LBN3FKM-de'
 tags: [  ]
 actualPrice: 49.15 EUR
 currency: EUR

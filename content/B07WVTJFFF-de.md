@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WVTJFFF-de LG 75UM7000PLA 189 cm 75 Zoll UHD Fernseher LCD Single...'
+sku: 'B07WVTJFFF-de'
 tags: [  ]
 actualPrice: 525.0 EUR
 currency: EUR

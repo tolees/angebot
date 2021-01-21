@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XRMBHKD-de Nike Jungen Revolution 4 PSV Laufschuhe Schwarz...'
+sku: 'B06XRMBHKD-de'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

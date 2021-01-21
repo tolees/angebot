@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071HPJTSB-de Tommy Hilfiger Herren CORE Stretch Slim Vneck Tee T-Shirt...'
+sku: 'B071HPJTSB-de'
 tags: [  ]
 actualPrice: 19.92 EUR
 currency: EUR

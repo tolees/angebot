@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EZGCVRO-de Auferstanden'
+sku: 'B01EZGCVRO-de'
 tags: [  ]
 actualPrice: 4.49 EUR
 currency: EUR

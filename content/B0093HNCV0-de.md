@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0093HNCV0-de Tassimo Kapseln Jacobs Cappuccino Classico 40...'
+sku: 'B0093HNCV0-de'
 tags: [  ]
 actualPrice: 16.93 EUR
 currency: EUR

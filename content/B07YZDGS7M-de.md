@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YZDGS7M-de Tenda Nova MW5G 3er Pack echtes Dual-Band Mesh WLAN bis zu...'
+sku: 'B07YZDGS7M-de'
 tags: [  ]
 actualPrice: 149.99 EUR
 currency: EUR

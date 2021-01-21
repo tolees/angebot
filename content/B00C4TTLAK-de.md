@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C4TTLAK-de Oehlbach Powercord C13 / 150 - Netzkabel mit Schukostecker...'
+sku: 'B00C4TTLAK-de'
 tags: [  ]
 actualPrice: 15.13 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWDG88G-de s.Oliver BLACK LABEL Damen 01.899.76.5561 Hose Schwarz...'
+sku: 'B07SWDG88G-de'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

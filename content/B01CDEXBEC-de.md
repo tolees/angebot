@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CDEXBEC-de Funko 9298 S1 No Actionfigur Games: Overwatch: Tracer Multi'
+sku: 'B01CDEXBEC-de'
 tags: [  ]
 actualPrice: 8.24 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018WN9VNI-de Samsung DA29-10105J HAFEX / EXP Wasserfilter für Samsung...'
+sku: 'B018WN9VNI-de'
 tags: [  ]
 actualPrice: 38.5 EUR
 currency: EUR

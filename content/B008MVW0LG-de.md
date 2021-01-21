@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008MVW0LG-de WENKO Anti-Schimmel Duschvorhang Uni Anti-Bakteriell...'
+sku: 'B008MVW0LG-de'
 tags: [  ]
 actualPrice: 12.86 EUR
 currency: EUR

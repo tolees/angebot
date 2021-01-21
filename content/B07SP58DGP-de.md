@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SP58DGP-de Netgear GC108P Gigabit 8 Port Ethernet LAN Switch 8x PoE+...'
+sku: 'B07SP58DGP-de'
 tags: [  ]
 actualPrice: 124.68 EUR
 currency: EUR

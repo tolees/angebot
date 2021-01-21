@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MD0RWD6-de Stranger Things Funko Pop! Vinyl Figur Demogorgon 9cm aus...'
+sku: 'B01MD0RWD6-de'
 tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR

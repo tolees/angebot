@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BMNDW7F-de ACCUWEIGHT Küchenwaage Digitale Haushaltswaage...'
+sku: 'B07BMNDW7F-de'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

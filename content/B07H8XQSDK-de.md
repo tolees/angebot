@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H8XQSDK-de Xian Ju Nachttischlampe Mit Bluetooth Lautsprecher...'
+sku: 'B07H8XQSDK-de'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

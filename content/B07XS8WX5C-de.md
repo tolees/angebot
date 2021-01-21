@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XS8WX5C-de Apple Watch Series 5 GPS + Cellular 40 mm Edelstahlgehäuse...'
+sku: 'B07XS8WX5C-de'
 tags: [  ]
 actualPrice: 667.01 EUR
 currency: EUR

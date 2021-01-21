@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZXTZ519-de Hama Outdoor Steckdosenleiste mit Schalter 2-fach 2m...'
+sku: 'B06ZXTZ519-de'
 tags: [  ]
 actualPrice: 6.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMN4NJD-de L.O.L. Surprise! 559764E7C Amazing Surprise mit über 70...'
+sku: 'B07PMN4NJD-de'
 tags: [  ]
 actualPrice: 80.0 EUR
 currency: EUR

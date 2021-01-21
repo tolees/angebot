@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PCQF1QH-de INPHIC Bluetooth Maus 3-Modus Silent wiederaufladbare Maus...'
+sku: 'B07PCQF1QH-de'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

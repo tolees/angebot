@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC68RW1-de TP-Link 5-Port Desktop Switch 10/100/1000Mbit/S...'
+sku: 'B07VC68RW1-de'
 tags: [  ]
 actualPrice: 13.21 EUR
 currency: EUR

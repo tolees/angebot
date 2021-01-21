@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GGFXKJ2-de ghd platinum+ Styler professionelles Glätteisen mit...'
+sku: 'B07GGFXKJ2-de'
 tags: [  ]
 actualPrice: 187.85 EUR
 currency: EUR

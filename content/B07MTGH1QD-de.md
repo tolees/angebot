@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MTGH1QD-de ORTHOPEO© Akupressur Einlegesohlen - Massage Magnetische...'
+sku: 'B07MTGH1QD-de'
 tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR

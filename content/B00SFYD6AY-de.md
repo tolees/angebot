@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SFYD6AY-de Bosch HEZ631070 Zubehör für Backöfen / Backblech /...'
+sku: 'B00SFYD6AY-de'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

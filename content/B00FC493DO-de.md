@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FC493DO-de Predator [Blu-ray 3D]'
+sku: 'B00FC493DO-de'
 tags: [  ]
 actualPrice: 9.1 EUR
 currency: EUR

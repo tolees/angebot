@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HHBF923-de Oral-B CrossAction Aufsteckbürsten mit Bakterienschutz...'
+sku: 'B07HHBF923-de'
 tags: [  ]
 actualPrice: 9.75 EUR
 currency: EUR

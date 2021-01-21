@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0894MK2WL-de Zorara LED TV Hintergrundbeleuchtung LED Strip USB 3M mit...'
+sku: 'B0894MK2WL-de'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

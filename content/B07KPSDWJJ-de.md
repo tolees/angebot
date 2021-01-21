@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPSDWJJ-de Funko 36890 POP Vinyl: NBA: Bulls: Michael Jordan...'
+sku: 'B07KPSDWJJ-de'
 tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR

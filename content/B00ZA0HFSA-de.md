@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZA0HFSA-de KLIM Cool Universaler Kühler für Spielekonsole Laptop PC –...'
+sku: 'B00ZA0HFSA-de'
 tags: [  ]
 actualPrice: 24.97 EUR
 currency: EUR

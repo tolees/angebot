@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CG1R3VF-de Call Of Cthulhu [Playstation 4]'
+sku: 'B07CG1R3VF-de'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

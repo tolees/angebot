@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083NHDMKM-de Bluetooth Kopfhörer In Ear Kopfhörer Kabellos mit 125...'
+sku: 'B083NHDMKM-de'
 tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR

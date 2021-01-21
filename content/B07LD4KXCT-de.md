@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LD4KXCT-de Morituri [Blu-ray]'
+sku: 'B07LD4KXCT-de'
 tags: [  ]
 actualPrice: 9.84 EUR
 currency: EUR

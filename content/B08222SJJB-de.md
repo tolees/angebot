@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08222SJJB-de Bosch Professional 18V System Akku Baustrahler GLI...'
+sku: 'B08222SJJB-de'
 tags: [  ]
 actualPrice: 129.49 EUR
 currency: EUR

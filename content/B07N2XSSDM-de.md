@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N2XSSDM-de SID & VAIN Laptop Messenger Bag echt Leder Spencer XL groß...'
+sku: 'B07N2XSSDM-de'
 tags: [  ]
 actualPrice: 99.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQSBXQ7-de kingromargo Herramienta precisa de reparación de retrabajo...'
+sku: 'B07MQSBXQ7-de'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

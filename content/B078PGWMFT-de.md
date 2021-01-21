@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078PGWMFT-de CYD 45W Notebook-Netzteil für Lenovo Yoga 310-14 510-14...'
+sku: 'B078PGWMFT-de'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001VFY7MU-de Maladjusted Expanded Edition'
+sku: 'B001VFY7MU-de'
 tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR

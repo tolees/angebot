@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MNQV6V-de Playmobil 9457 Hausmeister mit Kiosk'
+sku: 'B079MNQV6V-de'
 tags: [  ]
 actualPrice: 6.45 EUR
 currency: EUR

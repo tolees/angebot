@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779V1VHR-de Paco Home In- & Outdoor Teppich Vintage Design...'
+sku: 'B0779V1VHR-de'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

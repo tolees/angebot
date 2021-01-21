@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFBD9SD-de Funko B07DFBD9SD Kingdom Hearts 3: Mickey POP Vinylfigur...'
+sku: 'B07DFBD9SD-de'
 tags: [  ]
 actualPrice: 6.7 EUR
 currency: EUR

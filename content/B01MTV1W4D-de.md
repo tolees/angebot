@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTV1W4D-de Samsung CLT-P504C Multipack schwarz Cyan Magenta Gelb...'
+sku: 'B01MTV1W4D-de'
 tags: [  ]
 actualPrice: 214.55 EUR
 currency: EUR

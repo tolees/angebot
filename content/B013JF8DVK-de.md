@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013JF8DVK-de Kitekat Katzenfutter Nassfutter Klassische Auswahl in...'
+sku: 'B013JF8DVK-de'
 tags: [  ]
 actualPrice: 2.69 EUR
 currency: EUR

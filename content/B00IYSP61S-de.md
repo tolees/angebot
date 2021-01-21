@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IYSP61S-de Rekord'
+sku: 'B00IYSP61S-de'
 tags: [  ]
 actualPrice: 2.86 EUR
 currency: EUR

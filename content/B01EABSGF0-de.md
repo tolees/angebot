@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EABSGF0-de Inter Link Sammlervitrine Hängevitrine Wandregal...'
+sku: 'B01EABSGF0-de'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

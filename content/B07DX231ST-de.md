@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DX231ST-de Garmin Edge Explore GPS-Fahrrad-Navi - Vorinstallierte...'
+sku: 'B07DX231ST-de'
 tags: [  ]
 actualPrice: 149.95 EUR
 currency: EUR

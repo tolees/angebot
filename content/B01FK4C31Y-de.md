@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FK4C31Y-de Feuchtmann Spielwaren 6281513 - MEINE LIEBLINGSKNETE aus...'
+sku: 'B01FK4C31Y-de'
 tags: [  ]
 actualPrice: 7.29 EUR
 currency: EUR

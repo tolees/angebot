@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWHJ1TZ-de Pop Guild Wars 2 Joko Vinyl Figure'
+sku: 'B07TWHJ1TZ-de'
 tags: [  ]
 actualPrice: 9.78 EUR
 currency: EUR

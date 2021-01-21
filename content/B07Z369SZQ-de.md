@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z369SZQ-de Warxin Handyhalter Fürs Auto Magnet KFZ Handyhalterung...'
+sku: 'B07Z369SZQ-de'
 tags: [  ]
 actualPrice: 7.64 EUR
 currency: EUR

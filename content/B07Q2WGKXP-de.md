@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q2WGKXP-de Roccat Vulcan 121 - Mechanische Gaming Tastatur AIMO LED...'
+sku: 'B07Q2WGKXP-de'
 tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR

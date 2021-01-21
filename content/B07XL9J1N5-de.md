@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XL9J1N5-de Krups Nespresso XN110E Essenza Mini kompakte Kaffee-...'
+sku: 'B07XL9J1N5-de'
 tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR

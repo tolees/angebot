@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003LQSHBO-de Die Symphonien Orchesterlieder Eloquence'
+sku: 'B003LQSHBO-de'
 tags: [  ]
 actualPrice: 10.98 EUR
 currency: EUR

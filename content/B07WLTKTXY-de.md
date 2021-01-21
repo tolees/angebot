@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WLTKTXY-de Echo Dot 3. Gen. Intelligenter Lautsprecher mit Alexa Lila...'
+sku: 'B07WLTKTXY-de'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

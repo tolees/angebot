@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001NYX1W6-de KS Tools 515.1432 3/4" Sechskant-Kraft-Stecknuss lang 32mm'
+sku: 'B001NYX1W6-de'
 tags: [  ]
 actualPrice: 16.6 EUR
 currency: EUR

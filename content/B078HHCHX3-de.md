@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HHCHX3-de Prime Herren Arbeitshose Herren Cargohose Army Twill Cargo...'
+sku: 'B078HHCHX3-de'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

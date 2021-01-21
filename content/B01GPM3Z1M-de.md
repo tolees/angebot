@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GPM3Z1M-de Parker 1950385 Quink Nachfüllpatronen für Füllfederhalter...'
+sku: 'B01GPM3Z1M-de'
 tags: [  ]
 actualPrice: 2.45 EUR
 currency: EUR

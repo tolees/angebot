@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CHBXK4R-de Eilsorrn WLAN Repeater WLAN Verstärker 300Mbit/s 2 4GHz...'
+sku: 'B08CHBXK4R-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

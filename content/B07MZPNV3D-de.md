@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPNV3D-de Pepe Jeans Herren Hatch Slim Jeans Dark Used Powerflex...'
+sku: 'B07MZPNV3D-de'
 tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR

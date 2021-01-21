@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WN6CD4W-de Vige 25 Pares Herramienta de reparación de almohadillas de...'
+sku: 'B07WN6CD4W-de'
 tags: [  ]
 actualPrice: 1.38 EUR
 currency: EUR

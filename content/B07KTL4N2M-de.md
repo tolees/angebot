@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTL4N2M-de Columbia Street Elite Rucksack Grau Cool Grey'
+sku: 'B07KTL4N2M-de'
 tags: [  ]
 actualPrice: 60.94 EUR
 currency: EUR

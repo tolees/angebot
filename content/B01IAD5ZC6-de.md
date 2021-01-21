@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IAD5ZC6-de Seagate Backup Plus HUB 8 TB externe Festplatte mit 2-fach...'
+sku: 'B01IAD5ZC6-de'
 tags: [  ]
 actualPrice: 133.55 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DV3C6PC-de N/P WLAN Repeater 2 4GHz WLAN Verstärker WiFi Extender mit...'
+sku: 'B08DV3C6PC-de'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

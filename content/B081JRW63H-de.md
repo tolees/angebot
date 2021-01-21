@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081JRW63H-de LLOYD Herren ORWIN Uniform-Schuh Braun Brandy 44.5'
+sku: 'B081JRW63H-de'
 tags: [  ]
 actualPrice: 86.16 EUR
 currency: EUR

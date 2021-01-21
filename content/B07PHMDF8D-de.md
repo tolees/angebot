@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHMDF8D-de Huawei Watch GT Active Smartwatch 46 mm Amoled Touchscreen...'
+sku: 'B07PHMDF8D-de'
 tags: [  ]
 actualPrice: 114.58 EUR
 currency: EUR

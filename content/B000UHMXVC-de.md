@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000UHMXVC-de Pentel BK440-C Kugelschreiber mit Druckmechanik und...'
+sku: 'B000UHMXVC-de'
 tags: [  ]
 actualPrice: 7.33 EUR
 currency: EUR

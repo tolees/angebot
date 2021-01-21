@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TS8NT4T-de Funko 45009 POP Marvel: Fantastic Four - Galactus...'
+sku: 'B07TS8NT4T-de'
 tags: [  ]
 actualPrice: 8.26 EUR
 currency: EUR

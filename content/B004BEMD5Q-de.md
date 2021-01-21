@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004BEMD5Q-de KabelDirekt - 4K HDMI Kabel - 2m - kompatibel mit HDMI...'
+sku: 'B004BEMD5Q-de'
 tags: [  ]
 actualPrice: 6.59 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WJZPDBN-de RENTLIV TV Wandhalterung für 37-70 Zoll Fernseher neigbare...'
+sku: 'B07WJZPDBN-de'
 tags: [  ]
 actualPrice: 21.24 EUR
 currency: EUR

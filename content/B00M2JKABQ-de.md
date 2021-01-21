@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M2JKABQ-de devolo Home Control Heizkörperthermostat Funk...'
+sku: 'B00M2JKABQ-de'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

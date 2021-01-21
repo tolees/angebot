@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JXJJ6B4-de PLAYMOBIL City Life 70050 Notarzt-PKW mit Licht und Sound...'
+sku: 'B07JXJJ6B4-de'
 tags: [  ]
 actualPrice: 22.89 EUR
 currency: EUR

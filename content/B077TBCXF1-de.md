@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077TBCXF1-de Navitech rot Harter Fall für die APEMAN Mini Car Camera...'
+sku: 'B077TBCXF1-de'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

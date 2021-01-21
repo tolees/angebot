@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084JPQM92-de Yazubi Herren Chino Hose Merlin II - Slim Fit - NEU...'
+sku: 'B084JPQM92-de'
 tags: [  ]
 actualPrice: 20.8 EUR
 currency: EUR

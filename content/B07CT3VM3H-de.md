@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CT3VM3H-de Echo Plus 2. Gen. mit Premiumklang und integriertem Smart...'
+sku: 'B07CT3VM3H-de'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

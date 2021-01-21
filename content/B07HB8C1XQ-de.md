@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB8C1XQ-de Funko 33973 Vinyl: Games: Fallout S2: T-51 Power Armor Pop...'
+sku: 'B07HB8C1XQ-de'
 tags: [  ]
 actualPrice: 11.33 EUR
 currency: EUR

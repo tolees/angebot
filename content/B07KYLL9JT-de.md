@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KYLL9JT-de Panama Jack Damen Julia Cork Riemchensandalen Blau Marino...'
+sku: 'B07KYLL9JT-de'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

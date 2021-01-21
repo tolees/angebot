@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFDXV44-de Funko 31633 Actionfigur Mehrfarbig'
+sku: 'B07DFDXV44-de'
 tags: [  ]
 actualPrice: 8.75 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078LRBKVZ-de Kronenschein® Premium Herren Geldbörse mit Geldklammer...'
+sku: 'B078LRBKVZ-de'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

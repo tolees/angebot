@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKM6S4C-de iRobot Braava Jet 250 Wischroboter mit Präzisions-...'
+sku: 'B07TKM6S4C-de'
 tags: [  ]
 actualPrice: 148.17 EUR
 currency: EUR

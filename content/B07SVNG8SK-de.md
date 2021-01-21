@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVNG8SK-de TRIBE Infinity-Energieriegel aus natürlichen Zutaten zur...'
+sku: 'B07SVNG8SK-de'
 tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR

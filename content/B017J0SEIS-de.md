@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017J0SEIS-de Mousehouse Gifts Holzspielzeug Eulen Werkzeugkasten für...'
+sku: 'B017J0SEIS-de'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

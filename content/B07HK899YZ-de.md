@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HK899YZ-de Alex Perry Muttertagsgeschenk ohrringe silber geschenke...'
+sku: 'B07HK899YZ-de'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

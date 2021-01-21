@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FMW24JB-de FLOWZOOM Schlauchschal mit Filterfach zum Einlegen eines...'
+sku: 'B08FMW24JB-de'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

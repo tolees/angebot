@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RB2CXS3-de YLCJ - Lámpara colgante moderna de 14 con lámpara colgante...'
+sku: 'B07RB2CXS3-de'
 tags: [  ]
 actualPrice: 52.0 EUR
 currency: EUR

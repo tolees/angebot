@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FGKRX43-de AmazonBasics - Lightning-auf-USB-A-Kabel Premium-...'
+sku: 'B07FGKRX43-de'
 tags: [  ]
 actualPrice: 5 EUR
 currency: EUR

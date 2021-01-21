@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWVWG9X-de USB Stick 64GB EIVOTOR Memory Stick USB 3.0 Flash Drive...'
+sku: 'B07RWVWG9X-de'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZNLYJX-de Akku Handkreissäge TECCPO 18V 4.0Ah Akku 1 Std....'
+sku: 'B07TZNLYJX-de'
 tags: [  ]
 actualPrice: 125.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RHHX9D-de adidas Herren Terrex Swift R2 Mid GTX Trekking-&...'
+sku: 'B073RHHX9D-de'
 tags: [  ]
 actualPrice: 97.52 EUR
 currency: EUR

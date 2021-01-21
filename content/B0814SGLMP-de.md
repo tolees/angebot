@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0814SGLMP-de Elfcraft Lederarmband Herren Armband Meteorite Schwarz mit...'
+sku: 'B0814SGLMP-de'
 tags: [  ]
 actualPrice: 98.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PLXPY6X-de Tragbare Seifenblasenmaschine iTeknic Bubble Machine...'
+sku: 'B07PLXPY6X-de'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

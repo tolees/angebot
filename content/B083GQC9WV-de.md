@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083GQC9WV-de Kepae Vitrinen für Ideas 21319 Acryl Box Display Vitrine...'
+sku: 'B083GQC9WV-de'
 tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR

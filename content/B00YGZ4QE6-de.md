@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YGZ4QE6-de Hasbro Gaming B7063100 - Pie Face Partyspiel'
+sku: 'B00YGZ4QE6-de'
 tags: [  ]
 actualPrice: 16.49 EUR
 currency: EUR

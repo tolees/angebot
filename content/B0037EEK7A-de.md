@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0037EEK7A-de Yankee Candle Duftkerze im großen Jar Vanilla Cupcake...'
+sku: 'B0037EEK7A-de'
 tags: [  ]
 actualPrice: 18.79 EUR
 currency: EUR

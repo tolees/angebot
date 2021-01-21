@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9RG3XS-de Nintendo Switch Displayschutzfolie Glas 2 Stück Orzly...'
+sku: 'B01N9RG3XS-de'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

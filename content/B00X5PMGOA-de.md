@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X5PMGOA-de WMF Aston Besteckset 12 Personen 60-teilig Monobloc-Messer...'
+sku: 'B00X5PMGOA-de'
 tags: [  ]
 actualPrice: 113.81 EUR
 currency: EUR

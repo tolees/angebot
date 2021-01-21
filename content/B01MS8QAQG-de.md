@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MS8QAQG-de Philips SHD8800/12 Over-Ear Funkkopfhörer offen 15m...'
+sku: 'B01MS8QAQG-de'
 tags: [  ]
 actualPrice: 73.41 EUR
 currency: EUR

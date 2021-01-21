@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LCFC2D2-de 64 Fächer Kunststoff Dosen Diamant Stickerei Sortierbox in...'
+sku: 'B07LCFC2D2-de'
 tags: [  ]
 actualPrice: 12.88 EUR
 currency: EUR

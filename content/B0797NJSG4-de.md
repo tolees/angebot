@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797NJSG4-de Funko 30171 Actionfigur Destiny-Osiris'
+sku: 'B0797NJSG4-de'
 tags: [  ]
 actualPrice: 6.03 EUR
 currency: EUR

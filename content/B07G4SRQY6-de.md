@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4SRQY6-de Tommy Hilfiger Damen Multi Zifferblatt Quarz Uhr mit...'
+sku: 'B07G4SRQY6-de'
 tags: [  ]
 actualPrice: 104.77 EUR
 currency: EUR

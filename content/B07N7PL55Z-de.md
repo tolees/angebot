@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N7PL55Z-de L-RUN Damen Wasserschuhe Herren Aqua Socken Leichtes...'
+sku: 'B07N7PL55Z-de'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0007OEEU6-de Leitz Büroheftgerät aus Metall Für 40 Blatt Inkl....'
+sku: 'B0007OEEU6-de'
 tags: [  ]
 actualPrice: 12.5 EUR
 currency: EUR

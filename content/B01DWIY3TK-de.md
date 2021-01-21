@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DWIY3TK-de Garmin Forerunner 735XT-GPS-Uhr frost blau M 010-01614-07'
+sku: 'B01DWIY3TK-de'
 tags: [  ]
 actualPrice: 164.95 EUR
 currency: EUR

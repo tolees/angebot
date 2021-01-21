@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPHL1YZ-de Funko! Rides: Game of Thrones S10: White Walker on Horse...'
+sku: 'B07KPHL1YZ-de'
 tags: [  ]
 actualPrice: 16.65 EUR
 currency: EUR

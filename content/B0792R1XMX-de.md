@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792R1XMX-de My Little Pony - Cuties Sammelfiguren kleines Pony in...'
+sku: 'B0792R1XMX-de'
 tags: [  ]
 actualPrice: 2.0 EUR
 currency: EUR

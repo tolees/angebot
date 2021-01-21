@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCT6T6Y-de Hasbro Spiele E5804EU4 The Slow Motion Race Game...'
+sku: 'B07MCT6T6Y-de'
 tags: [  ]
 actualPrice: 10.24 EUR
 currency: EUR

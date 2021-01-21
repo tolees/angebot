@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6WDXMR-de Sylvanian Families 5367 Gourmet Kitchen Set Mehrfarbig'
+sku: 'B07P6WDXMR-de'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

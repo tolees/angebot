@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C4VWWF1-de Aigital WLAN verstärker WiFi Repeater Range Extender...'
+sku: 'B08C4VWWF1-de'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

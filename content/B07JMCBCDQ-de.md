@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMCBCDQ-de Playmobil 70184 1.2.3 LKW mit Sortiergarage bunt'
+sku: 'B07JMCBCDQ-de'
 tags: [  ]
 actualPrice: 17.57 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073XQCVQB-de YOKAI WATCH 2: Geistige Geister - [Nintendo 3DS]'
+sku: 'B073XQCVQB-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

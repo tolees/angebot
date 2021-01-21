@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQXW4Z1-de Glück'
+sku: 'B07XQXW4Z1-de'
 tags: [  ]
 actualPrice: 7.36 EUR
 currency: EUR

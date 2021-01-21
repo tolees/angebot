@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V376HSG-de Homgeek Zerkleinerer Universalzerkleinerer 1.8L Edelstahl...'
+sku: 'B07V376HSG-de'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

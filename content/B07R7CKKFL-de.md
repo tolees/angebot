@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R7CKKFL-de Jack Wolfskin Herren Argon Storm Jacket M...'
+sku: 'B07R7CKKFL-de'
 tags: [  ]
 actualPrice: 89.9 EUR
 currency: EUR

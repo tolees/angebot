@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K81CUMC-de Desinfektionsmittel Hand 100ml - Hände Desinfektionsmittel...'
+sku: 'B00K81CUMC-de'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CHILPPW-de Sylvanian Families Kinderzimmer-Möbel'
+sku: 'B00CHILPPW-de'
 tags: [  ]
 actualPrice: 22.49 EUR
 currency: EUR

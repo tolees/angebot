@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCX5BZS-de Jnwayb Katze Brunnen Katze Wasserspender automatischer...'
+sku: 'B07VCX5BZS-de'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

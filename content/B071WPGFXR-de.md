@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071WPGFXR-de yo-kai Watch Jungen Yokai Watch Schlafanzug - Slim Fit - 128'
+sku: 'B071WPGFXR-de'
 tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR

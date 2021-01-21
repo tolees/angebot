@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002I2BMRS-de Caffè Vergnano 1882 Gran Aroma Ganze Bohnen 1 kg'
+sku: 'B002I2BMRS-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

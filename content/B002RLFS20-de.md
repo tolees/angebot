@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002RLFS20-de Soehnle Page Profi Digitalwaage für max. 15 kg digitale...'
+sku: 'B002RLFS20-de'
 tags: [  ]
 actualPrice: 32.51 EUR
 currency: EUR

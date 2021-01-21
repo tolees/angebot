@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JKATV5G-de Transcend 16GB JetFlash 790 USB 3.1 Gen 1 USB Stick...'
+sku: 'B00JKATV5G-de'
 tags: [  ]
 actualPrice: 5.19 EUR
 currency: EUR

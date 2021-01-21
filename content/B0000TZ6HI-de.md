@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0000TZ6HI-de Piatnik 6012 - Activity Junior'
+sku: 'B0000TZ6HI-de'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYN167T-de Scuderia Ferrari Herren Multi Zifferblatt Quarz Uhr mit...'
+sku: 'B07FYN167T-de'
 tags: [  ]
 actualPrice: 126.97 EUR
 currency: EUR

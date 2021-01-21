@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFN376L-de Zendure SuperMini Powerbank mit 10.000 mAh robust klein...'
+sku: 'B07YFN376L-de'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

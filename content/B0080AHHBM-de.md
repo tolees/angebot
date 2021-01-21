@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0080AHHBM-de B. Toys 44123 - Wheeeee-Is Kinderauto'
+sku: 'B0080AHHBM-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

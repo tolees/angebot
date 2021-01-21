@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X2SG4VD-de Emsa N2011900 Travel Mug Wave-Design...'
+sku: 'B07X2SG4VD-de'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

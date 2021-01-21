@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VV6ZLKR-de Bluetooth Schlafmaske Achort Schlafkopfhörer Bluetooth...'
+sku: 'B07VV6ZLKR-de'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003VYAVXI-de Villeroy & Boch Toy s Delight Spieluhr "Weihnachtsbaum"...'
+sku: 'B003VYAVXI-de'
 tags: [  ]
 actualPrice: 89.9 EUR
 currency: EUR

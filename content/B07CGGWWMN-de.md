@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CGGWWMN-de Disney Malrolle selbstklebend Anna und ELSA - Großartiger...'
+sku: 'B07CGGWWMN-de'
 tags: [  ]
 actualPrice: 8.88 EUR
 currency: EUR

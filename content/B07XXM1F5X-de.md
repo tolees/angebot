@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XXM1F5X-de Kunst aus Eisen Regal Regale Wandregal Vintage Eisen...'
+sku: 'B07XXM1F5X-de'
 tags: [  ]
 actualPrice: 169.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001NYXUKY-de KS Tools 911.8100 Hebeleisen-Satz 4-tlg.'
+sku: 'B001NYXUKY-de'
 tags: [  ]
 actualPrice: 24.94 EUR
 currency: EUR

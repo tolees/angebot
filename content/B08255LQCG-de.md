@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08255LQCG-de OwlFay Mädchen Prinzessin ELSA Kleid Frozen Blaue...'
+sku: 'B08255LQCG-de'
 tags: [  ]
 actualPrice: 17.67 EUR
 currency: EUR

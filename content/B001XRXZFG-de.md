@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001XRXZFG-de Finish Line Schmiermittel Keramik Kettenöl 120 ml 4002055'
+sku: 'B001XRXZFG-de'
 tags: [  ]
 actualPrice: 6.81 EUR
 currency: EUR

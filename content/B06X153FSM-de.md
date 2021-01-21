@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X153FSM-de Comedian Harmonists'
+sku: 'B06X153FSM-de'
 tags: [  ]
 actualPrice: 6.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DM3R4H8-de Rolimate Steckplatte Holz Holzpuzzles Sortierspiel...'
+sku: 'B07DM3R4H8-de'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

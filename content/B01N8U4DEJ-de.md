@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N8U4DEJ-de Duronic VC8 /BK beutelloser Staubsauger | 800 Watt |...'
+sku: 'B01N8U4DEJ-de'
 tags: [  ]
 actualPrice: 30.39 EUR
 currency: EUR

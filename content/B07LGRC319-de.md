@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGRC319-de Laurastar 000.0305.530 Lift Plus Blue Sky...'
+sku: 'B07LGRC319-de'
 tags: [  ]
 actualPrice: 327.48 EUR
 currency: EUR

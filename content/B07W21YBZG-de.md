@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W21YBZG-de Kate Lynn Muttertagsgeschenk Armband Frauen schmuck Damen...'
+sku: 'B07W21YBZG-de'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

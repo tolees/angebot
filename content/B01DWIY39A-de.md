@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DWIY39A-de Garmin Forerunner 735XT-GPS-Uhr schwarz/grau M 010-01614-06'
+sku: 'B01DWIY39A-de'
 tags: [  ]
 actualPrice: 164.95 EUR
 currency: EUR

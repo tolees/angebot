@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JNA337K-de Asus PCE-AC56 PCIe-Karte Wi-Fi 5 AC1300 Dual-Band PCIe 1x...'
+sku: 'B00JNA337K-de'
 tags: [  ]
 actualPrice: 42.37 EUR
 currency: EUR

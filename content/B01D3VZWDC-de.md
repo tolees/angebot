@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D3VZWDC-de Seidensticker Herren Business Hemd Slim Fit – Bügelfreies...'
+sku: 'B01D3VZWDC-de'
 tags: [  ]
 actualPrice: 33.04 EUR
 currency: EUR

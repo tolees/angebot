@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L90PW3O-de Kapsel-Adapter für Dolce Gusto® Maschinen'
+sku: 'B01L90PW3O-de'
 tags: [  ]
 actualPrice: 5.46 EUR
 currency: EUR

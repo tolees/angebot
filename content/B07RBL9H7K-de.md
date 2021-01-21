@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RBL9H7K-de CARE OF by PUMA Herren Low-Top Sneaker Grau Grey Grey 42 EU'
+sku: 'B07RBL9H7K-de'
 tags: [  ]
 actualPrice: 20.95 EUR
 currency: EUR

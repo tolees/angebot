@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0000TZ4XE-de Ravensburger Lotti Karotti'
+sku: 'B0000TZ4XE-de'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

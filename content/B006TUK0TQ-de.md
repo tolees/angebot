@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006TUK0TQ-de Triumph Damen BH Push-up Body Make-Up WHU Beige Smooth...'
+sku: 'B006TUK0TQ-de'
 tags: [  ]
 actualPrice: 33.75 EUR
 currency: EUR

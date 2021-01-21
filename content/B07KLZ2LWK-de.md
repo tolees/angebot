@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KLZ2LWK-de BRIKSMAX Led Beleuchtungsset für Schiff in der Flasche...'
+sku: 'B07KLZ2LWK-de'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GL8HS18-de Fossil Herren Digital Smart Watch Armbanduhr mit Leder...'
+sku: 'B07GL8HS18-de'
 tags: [  ]
 actualPrice: 173.15 EUR
 currency: EUR

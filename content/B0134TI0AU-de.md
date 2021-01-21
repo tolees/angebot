@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0134TI0AU-de Unbekannt Creative Converting 16 Stück 3-lagig Lunch-...'
+sku: 'B0134TI0AU-de'
 tags: [  ]
 actualPrice: 1.12 EUR
 currency: EUR

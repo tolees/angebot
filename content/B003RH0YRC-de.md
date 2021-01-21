@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003RH0YRC-de Bullyland 12764 - Spielfigur Walt Disney Toy Story 3 Rex...'
+sku: 'B003RH0YRC-de'
 tags: [  ]
 actualPrice: 4.09 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012I5LP7Q-de funny-frisch goldfischli Sesam 100 g'
+sku: 'B012I5LP7Q-de'
 tags: [  ]
 actualPrice: 0.89 EUR
 currency: EUR

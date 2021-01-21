@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IJS0DJS-de Maier sports Herren Nil Wanderhose Feder grau 25'
+sku: 'B00IJS0DJS-de'
 tags: [  ]
 actualPrice: 68.69 EUR
 currency: EUR

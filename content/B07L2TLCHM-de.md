@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L2TLCHM-de MCleanPin 2 x 500ml Edelstahlbecher "Mr. Right & Mrs....'
+sku: 'B07L2TLCHM-de'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

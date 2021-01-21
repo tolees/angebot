@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D4KHY72-de Lenovo 15 6 Zoll Notebook Intel N4000 Dual Core 2x2.60 GHz...'
+sku: 'B07D4KHY72-de'
 tags: [  ]
 actualPrice: 359.0 EUR
 currency: EUR

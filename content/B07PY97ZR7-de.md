@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PY97ZR7-de Funko 39719 POP Vinyl: Animation: Simpsons-Bart Fly...'
+sku: 'B07PY97ZR7-de'
 tags: [  ]
 actualPrice: 9.7 EUR
 currency: EUR

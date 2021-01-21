@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PHEAV80-de caseable Kindle und Kindle Paperwhite Hülle Pass this on'
+sku: 'B00PHEAV80-de'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

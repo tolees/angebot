@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001DCQI9Q-de Pariser & Londoner Sinfonien Karajan-Edition'
+sku: 'B001DCQI9Q-de'
 tags: [  ]
 actualPrice: 11.76 EUR
 currency: EUR

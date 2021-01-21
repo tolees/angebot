@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NFB33FN-de camel active Herren Crew Neck GMT Dyed Pullover Blau...'
+sku: 'B07NFB33FN-de'
 tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR

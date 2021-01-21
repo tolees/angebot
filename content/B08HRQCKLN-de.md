@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HRQCKLN-de Makramee Garn Rifny Kordel Natur Baumwollgarn 3 mm x 100 m...'
+sku: 'B08HRQCKLN-de'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

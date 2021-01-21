@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRHB3MR-de Jabra Elite Active 65t True Wireless Bluetooth Sport...'
+sku: 'B07DRHB3MR-de'
 tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR

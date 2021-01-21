@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0711LKZKX-de Withings Steel HR Hybrid Smartwatch - Fitnessuhr mit...'
+sku: 'B0711LKZKX-de'
 tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR

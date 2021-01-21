@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004ASOQE4-de Jane s Journey - Die Lebensreise der Jane Goodall'
+sku: 'B004ASOQE4-de'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

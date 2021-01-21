@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5I46XF-de Kärcher Hochdruckreiniger K 5 Premium Full Control Plus...'
+sku: 'B01N5I46XF-de'
 tags: [  ]
 actualPrice: 368.57 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NED5RTO-de Olympus M.Zuiko Digital ED 40-150mm 1:2.8 Pro Objektiv...'
+sku: 'B00NED5RTO-de'
 tags: [  ]
 actualPrice: 700.0 EUR
 currency: EUR

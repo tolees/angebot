@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CNWTJXR-de Avengers: Infinity War'
+sku: 'B07CNWTJXR-de'
 tags: [  ]
 actualPrice: 7.19 EUR
 currency: EUR

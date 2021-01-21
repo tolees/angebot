@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JZQCTJA-de Schiesser Damen Midi 2er Pack Slip Weiß Weiss 100 40...'
+sku: 'B00JZQCTJA-de'
 tags: [  ]
 actualPrice: 10.95 EUR
 currency: EUR

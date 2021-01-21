@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQGKFPJ-de FURREAL Friends E4649EU4 FurReal Hector Mein Wachhund-...'
+sku: 'B07KQGKFPJ-de'
 tags: [  ]
 actualPrice: 38.04 EUR
 currency: EUR

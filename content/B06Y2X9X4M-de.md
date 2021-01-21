@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2X9X4M-de Hasbro Spiele C0432100 - Perfektion Geschicklichkeitsspiel'
+sku: 'B06Y2X9X4M-de'
 tags: [  ]
 actualPrice: 14.14 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007VJSL1I-de Barilla Hartweizen Pasta Risoni n. 26 – 1er Pack 1x500g'
+sku: 'B007VJSL1I-de'
 tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR

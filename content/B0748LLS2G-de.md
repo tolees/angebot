@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0748LLS2G-de Salamander Herren Matheus Derbys Braun Cognac Brown 07 42 EU'
+sku: 'B0748LLS2G-de'
 tags: [  ]
 actualPrice: 59.8 EUR
 currency: EUR

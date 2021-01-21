@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E85JRZ6-de DeWalt Akku-Schnellladegerät/ Akkuladegerät 10 8- 18 Volt...'
+sku: 'B01E85JRZ6-de'
 tags: [  ]
 actualPrice: 36.82 EUR
 currency: EUR

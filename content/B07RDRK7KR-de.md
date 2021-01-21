@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDRK7KR-de Dominion'
+sku: 'B07RDRK7KR-de'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

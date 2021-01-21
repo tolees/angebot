@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085ZJQQFG-de AIKELA Handyhalterung Auto Handyhalter für Vent...'
+sku: 'B085ZJQQFG-de'
 tags: [  ]
 actualPrice: 12.79 EUR
 currency: EUR

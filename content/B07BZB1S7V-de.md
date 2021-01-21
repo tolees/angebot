@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZB1S7V-de AOC AGON AG352UCG6 88 9 cm 35 Zoll Curved Monitor HDMI USB...'
+sku: 'B07BZB1S7V-de'
 tags: [  ]
 actualPrice: 769.0 EUR
 currency: EUR

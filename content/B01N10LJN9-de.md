@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N10LJN9-de Funko 12921-PDQ POP Schlüsselanhänger Figur: Rick & Morty:...'
+sku: 'B01N10LJN9-de'
 tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR

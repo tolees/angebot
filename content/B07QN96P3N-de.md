@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QN96P3N-de Amzchef Zerkleinerer Elektrisch Universalzerkleinerer mit...'
+sku: 'B07QN96P3N-de'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

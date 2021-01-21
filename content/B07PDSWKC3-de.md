@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDSWKC3-de HUAWEI Cover PU Case P30 Pro Schwarz'
+sku: 'B07PDSWKC3-de'
 tags: [  ]
 actualPrice: 13.63 EUR
 currency: EUR

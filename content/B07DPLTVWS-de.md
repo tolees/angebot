@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DPLTVWS-de Kinder Musikinstrumenten Spielzeug Set - Smarkids...'
+sku: 'B07DPLTVWS-de'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

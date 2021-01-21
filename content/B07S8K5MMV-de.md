@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8K5MMV-de Ensure NutriVigor Schokolade – Nahrungsergänzungspulver...'
+sku: 'B07S8K5MMV-de'
 tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR

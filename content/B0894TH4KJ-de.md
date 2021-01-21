@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0894TH4KJ-de Bluetooth Adapter 5.0 Empfänger Transmitter 2 in 1...'
+sku: 'B0894TH4KJ-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

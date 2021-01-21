@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015GZDB04-de Timberland Herren Bradstreet Leather Sensorflex Chukka...'
+sku: 'B015GZDB04-de'
 tags: [  ]
 actualPrice: 54.89 EUR
 currency: EUR

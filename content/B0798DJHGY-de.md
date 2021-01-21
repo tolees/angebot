@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0798DJHGY-de Hasbro FurReal E0418EU4 - Cara mein kuscheliges Kätzchen...'
+sku: 'B0798DJHGY-de'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

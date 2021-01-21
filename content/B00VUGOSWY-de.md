@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VUGOSWY-de Anker PowerPort 40W 5-Port USB Ladegerät Multi-Port USB...'
+sku: 'B00VUGOSWY-de'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083K4TWZV-de 144 Stunden In-Ear Bluetooth Kopfhörer Ohrhörer Kabellos...'
+sku: 'B083K4TWZV-de'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

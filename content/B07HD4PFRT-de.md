@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HD4PFRT-de Half Mile Harvest'
+sku: 'B07HD4PFRT-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

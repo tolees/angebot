@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCDHTB5-de EVERSEE Bluetooth Mütze Geschenke für Männer & Frauen...'
+sku: 'B07VCDHTB5-de'
 tags: [  ]
 actualPrice: 21.98 EUR
 currency: EUR

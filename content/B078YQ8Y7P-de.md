@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078YQ8Y7P-de JewelryWe Schmuck Herren Magnetarmband + Link Removal Tool...'
+sku: 'B078YQ8Y7P-de'
 tags: [  ]
 actualPrice: 8.89 EUR
 currency: EUR

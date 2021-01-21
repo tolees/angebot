@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074NPMNY7-de Funko 21724 Actionfigur Disney Snow White: Sleepy Multi'
+sku: 'B074NPMNY7-de'
 tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR

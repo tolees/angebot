@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D9VLW5K-de HP 22y 21 5 Zoll Full HD LED Monitor DVI-D VGA 1920 x 1080...'
+sku: 'B07D9VLW5K-de'
 tags: [  ]
 actualPrice: 65.0 EUR
 currency: EUR

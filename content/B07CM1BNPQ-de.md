@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CM1BNPQ-de Laser Entfernungsmesser Meterk Distanzmessgerät...'
+sku: 'B07CM1BNPQ-de'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

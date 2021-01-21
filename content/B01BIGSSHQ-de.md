@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BIGSSHQ-de Western Digital 4 TB My Cloud EX2 Ultra-Netzwerkspeicher'
+sku: 'B01BIGSSHQ-de'
 tags: [  ]
 actualPrice: 261.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C3IMXDI-de Euphoria'
+sku: 'B01C3IMXDI-de'
 tags: [  ]
 actualPrice: 4.63 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001UHO61G-de Gran Torino'
+sku: 'B001UHO61G-de'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

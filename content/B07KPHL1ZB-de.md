@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPHL1ZB-de Funko 38551 POP Vinyl: Castlevania: Adrian Tepes...'
+sku: 'B07KPHL1ZB-de'
 tags: [  ]
 actualPrice: 8.5 EUR
 currency: EUR

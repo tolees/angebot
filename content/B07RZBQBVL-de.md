@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZBQBVL-de LIGHTAILING Licht-Set Für Architecture Capitol Modell -...'
+sku: 'B07RZBQBVL-de'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

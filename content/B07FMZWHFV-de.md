@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FMZWHFV-de De Longhi EDG736.RM | NESCAFÉ Dolce Gusto Eclipse | Kapsel...'
+sku: 'B07FMZWHFV-de'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRPJYR2-de Garmin Instinct – wasserdichte Sport-Smartwatch mit...'
+sku: 'B07PRPJYR2-de'
 tags: [  ]
 actualPrice: 188.0 EUR
 currency: EUR

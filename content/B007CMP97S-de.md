@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007CMP97S-de Sylvanian Families 3409 - Walnuss Eichhörnchen Baby -...'
+sku: 'B007CMP97S-de'
 tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR

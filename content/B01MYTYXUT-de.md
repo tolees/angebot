@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYTYXUT-de Eyoyo 17" Zoll Monitor 1280x1024 TFT LCD CCTV HDMI HD...'
+sku: 'B01MYTYXUT-de'
 tags: [  ]
 actualPrice: 111.26 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJ88F7J-de Funko B07HJ88F7J POP Vinyl: Movies: James Bond: Le Chiffre...'
+sku: 'B07HJ88F7J-de'
 tags: [  ]
 actualPrice: 7.67 EUR
 currency: EUR

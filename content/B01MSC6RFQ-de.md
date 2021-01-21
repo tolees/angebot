@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MSC6RFQ-de G-STAR RAW Herren 3301 Straight Jeans Blau medium Aged...'
+sku: 'B01MSC6RFQ-de'
 tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004LZSP6Q-de Brilliant Spari Deckenfluter mit separat schaltbarem...'
+sku: 'B004LZSP6Q-de'
 tags: [  ]
 actualPrice: 18.33 EUR
 currency: EUR

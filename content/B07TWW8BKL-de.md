@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWW8BKL-de YITHINC Überraschungsbox Kreative Explosion Box DIY...'
+sku: 'B07TWW8BKL-de'
 tags: [  ]
 actualPrice: 11.04 EUR
 currency: EUR

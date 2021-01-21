@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017JTHLNS-de SELECTED HOMME Herren SLHSTRAIGHT ST PANTS NOOS Hose Grau...'
+sku: 'B017JTHLNS-de'
 tags: [  ]
 actualPrice: 36 EUR
 currency: EUR

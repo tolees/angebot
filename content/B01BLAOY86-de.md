@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BLAOY86-de Santana [Vinyl LP]'
+sku: 'B01BLAOY86-de'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

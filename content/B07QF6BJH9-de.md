@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QF6BJH9-de Autowerkstatt Simulator [Playstation 4]'
+sku: 'B07QF6BJH9-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

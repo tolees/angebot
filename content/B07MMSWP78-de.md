@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMSWP78-de Philips 2200 Serie EP2231/40 Kaffeevollautomat 3...'
+sku: 'B07MMSWP78-de'
 tags: [  ]
 actualPrice: 415.9 EUR
 currency: EUR

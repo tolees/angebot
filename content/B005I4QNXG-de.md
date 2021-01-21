@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005I4QNXG-de BaByliss C260E Welleneisen Easy Beach Waves'
+sku: 'B005I4QNXG-de'
 tags: [  ]
 actualPrice: 29.19 EUR
 currency: EUR

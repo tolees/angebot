@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002SSZ7BE-de MTV Unplugged'
+sku: 'B002SSZ7BE-de'
 tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR

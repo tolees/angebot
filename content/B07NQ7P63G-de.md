@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQ7P63G-de Samsung Galaxy Fit Fitnesstracker schwarz mit Bluetooth...'
+sku: 'B07NQ7P63G-de'
 tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR

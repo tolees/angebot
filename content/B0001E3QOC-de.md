@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0001E3QOC-de Gardena Raseneinfassung 20 cm hoch: Ideale Rasen-...'
+sku: 'B0001E3QOC-de'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

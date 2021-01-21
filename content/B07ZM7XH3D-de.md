@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZM7XH3D-de Mpow Headset Bluetooth M5 Pro Wireless Headset mit 180h...'
+sku: 'B07ZM7XH3D-de'
 tags: [  ]
 actualPrice: 25.64 EUR
 currency: EUR

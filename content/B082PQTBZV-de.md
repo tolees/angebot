@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082PQTBZV-de UMIDIGI Smartwatch Uwatch GT Fitness Tracker Armbanduhr...'
+sku: 'B082PQTBZV-de'
 tags: [  ]
 actualPrice: 39.98 EUR
 currency: EUR

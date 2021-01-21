@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GF9NTR0-de Advanced Chemistry'
+sku: 'B01GF9NTR0-de'
 tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR

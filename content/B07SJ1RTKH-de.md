@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJ1RTKH-de Corsair HS35 Stereo Gaming Headset 50mm Neodym...'
+sku: 'B07SJ1RTKH-de'
 tags: [  ]
 actualPrice: 29.89 EUR
 currency: EUR

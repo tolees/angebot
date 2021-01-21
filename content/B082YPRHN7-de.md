@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082YPRHN7-de Playmobil Family Fun 70343 Löwen im Freigehege Ab 4 Jahren'
+sku: 'B082YPRHN7-de'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

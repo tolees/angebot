@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VYFMVJF-de Hasbro Disney Die Eiskönigin Feuergeist mit Schnee-Snack...'
+sku: 'B07VYFMVJF-de'
 tags: [  ]
 actualPrice: 13.0 EUR
 currency: EUR

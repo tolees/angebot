@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FG4TZFK-de Wissen ist Macht: Dekaden [PlayStation 4]'
+sku: 'B07FG4TZFK-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

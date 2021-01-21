@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IJFGBTG-de VNOX Männer Frauen Edelstahl Umgekehrt Upside Down Kreuz...'
+sku: 'B01IJFGBTG-de'
 tags: [  ]
 actualPrice: 16.59 EUR
 currency: EUR

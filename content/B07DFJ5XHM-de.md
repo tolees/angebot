@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFJ5XHM-de Funko 33253 LOTR/Hobbit: Galadriel POP Vinylfigur Multi...'
+sku: 'B07DFJ5XHM-de'
 tags: [  ]
 actualPrice: 9.16 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YYWZDX7-de LABISTS Raspberry Pi 4 Model B 4 GB Ultimatives Kit mit...'
+sku: 'B07YYWZDX7-de'
 tags: [  ]
 actualPrice: 91.98 EUR
 currency: EUR

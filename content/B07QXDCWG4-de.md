@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QXDCWG4-de one-home 2er Set Mikrofaser Kissenbezug Kissenhülle...'
+sku: 'B07QXDCWG4-de'
 tags: [  ]
 actualPrice: 6.06 EUR
 currency: EUR

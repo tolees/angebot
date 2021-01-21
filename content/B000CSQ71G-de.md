@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000CSQ71G-de Eichhorn buntes Spielcenter Motorikwürfel mit...'
+sku: 'B000CSQ71G-de'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YSSVYH4-de GARDENA Hahnverbinder für Indoor-Wasserhähne: Anschluss...'
+sku: 'B07YSSVYH4-de'
 tags: [  ]
 actualPrice: 10.91 EUR
 currency: EUR

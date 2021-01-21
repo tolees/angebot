@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004LAXG9C-de TUGA Chemie Felgenreiniger Alu-Teufel Spezial Sprühflasche...'
+sku: 'B004LAXG9C-de'
 tags: [  ]
 actualPrice: 9.74 EUR
 currency: EUR

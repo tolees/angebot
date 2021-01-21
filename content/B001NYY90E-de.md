@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001NYY90E-de KS Tools 515.1124 1/2" Sechskant-Kraft-Stecknuss lang 24mm'
+sku: 'B001NYY90E-de'
 tags: [  ]
 actualPrice: 11.37 EUR
 currency: EUR

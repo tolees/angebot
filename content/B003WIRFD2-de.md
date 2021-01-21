@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003WIRFD2-de Kingston SDC4/16GB Micro SDHC 16GB bis zu 4MB/s Klasse 4...'
+sku: 'B003WIRFD2-de'
 tags: [  ]
 actualPrice: 2.8 EUR
 currency: EUR

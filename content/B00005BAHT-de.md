@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00005BAHT-de Jakobs 4019960 - Rody Hüpfpferd rot'
+sku: 'B00005BAHT-de'
 tags: [  ]
 actualPrice: 23.76 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXVVP7Q-de BRIKSMAX Led Beleuchtungsset für Lego City Personenzug...'
+sku: 'B07TXVVP7Q-de'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

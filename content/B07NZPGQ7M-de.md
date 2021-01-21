@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZPGQ7M-de BRIKSMAX Led Beleuchtungsset für Star Wars Millennium...'
+sku: 'B07NZPGQ7M-de'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

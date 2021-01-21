@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PLLM9PT-de Samsung RU7179 163 cm 65 Zoll LED Fernseher Ultra HD HDR...'
+sku: 'B07PLLM9PT-de'
 tags: [  ]
 actualPrice: 799.0 EUR
 currency: EUR

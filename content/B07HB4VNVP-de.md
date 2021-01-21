@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB4VNVP-de Pop Billy Idol Vinyl Figure'
+sku: 'B07HB4VNVP-de'
 tags: [  ]
 actualPrice: 5.17 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U1IN0KS-de KitchenCraft Living Nostalgia Küchenspülbeckenbehälter 17...'
+sku: 'B00U1IN0KS-de'
 tags: [  ]
 actualPrice: 14.18 EUR
 currency: EUR

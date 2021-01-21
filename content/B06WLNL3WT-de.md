@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WLNL3WT-de Hasbro My Little Pony C0677EU4 - Movie Schwimmendes...'
+sku: 'B06WLNL3WT-de'
 tags: [  ]
 actualPrice: 10.23 EUR
 currency: EUR

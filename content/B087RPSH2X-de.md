@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087RPSH2X-de WOTEGA Jeans Herren Alistar Slim fit - Stretch Jeanshose -...'
+sku: 'B087RPSH2X-de'
 tags: [  ]
 actualPrice: 31.92 EUR
 currency: EUR

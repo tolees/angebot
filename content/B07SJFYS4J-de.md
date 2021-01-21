@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJFYS4J-de ASUS VivoBook S15 S532FA 90NB0MI2-M00390 39 6 cm 15 6 Zoll...'
+sku: 'B07SJFYS4J-de'
 tags: [  ]
 actualPrice: 649.0 EUR
 currency: EUR

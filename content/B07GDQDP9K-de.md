@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GDQDP9K-de Levi s Herren Type 3 Sherpa Trucker-Jacke Blau Mayze...'
+sku: 'B07GDQDP9K-de'
 tags: [  ]
 actualPrice: 107.7 EUR
 currency: EUR

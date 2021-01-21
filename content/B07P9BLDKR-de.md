@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P9BLDKR-de Amazon Echo 3. Generation smarter Lautsprecher mit Alexa...'
+sku: 'B07P9BLDKR-de'
 tags: [  ]
 actualPrice: 53.6 EUR
 currency: EUR

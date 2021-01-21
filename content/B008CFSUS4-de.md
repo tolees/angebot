@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008CFSUS4-de Drive Medical Duschhocker 12004KDR weiß verstellbar'
+sku: 'B008CFSUS4-de'
 tags: [  ]
 actualPrice: 18.11 EUR
 currency: EUR

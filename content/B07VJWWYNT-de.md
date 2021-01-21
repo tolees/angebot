@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJWWYNT-de Die drei !!! [Blu-ray]'
+sku: 'B07VJWWYNT-de'
 tags: [  ]
 actualPrice: 6.5 EUR
 currency: EUR

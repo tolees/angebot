@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0028YUZJC-de ParkTool Werkzeugablage One size 4001145'
+sku: 'B0028YUZJC-de'
 tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR

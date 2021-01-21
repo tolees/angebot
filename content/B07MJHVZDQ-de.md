@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJHVZDQ-de Playstation Digital Wecker LCD | PS4 Dualshock Controller...'
+sku: 'B07MJHVZDQ-de'
 tags: [  ]
 actualPrice: 20.55 EUR
 currency: EUR

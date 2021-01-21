@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZWBP1BR-de Systemsprenger [Blu-ray]'
+sku: 'B07ZWBP1BR-de'
 tags: [  ]
 actualPrice: 9.74 EUR
 currency: EUR

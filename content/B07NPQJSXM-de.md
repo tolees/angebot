@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPQJSXM-de Netgear Orbi Pro SRC60 Mesh-WLAN-Satellit für Decken- und...'
+sku: 'B07NPQJSXM-de'
 tags: [  ]
 actualPrice: 189.99 EUR
 currency: EUR

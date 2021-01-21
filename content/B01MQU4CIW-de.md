@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQU4CIW-de Hasbro Spiele C0376100 - Rudi Reck Kinderspiel'
+sku: 'B01MQU4CIW-de'
 tags: [  ]
 actualPrice: 12.69 EUR
 currency: EUR

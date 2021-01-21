@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H2ETA1M-de Netgear GS748T 48-Port Gigabit Ethernet LAN Switch Smart...'
+sku: 'B00H2ETA1M-de'
 tags: [  ]
 actualPrice: 234.19 EUR
 currency: EUR

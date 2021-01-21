@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FJLA9IM-de Intel BX80671I76950X Core i7-6950X Prozessor schwarz'
+sku: 'B01FJLA9IM-de'
 tags: [  ]
 actualPrice: 895.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NPJYC98-de The Polydor Years 1986-1992 Ltd Edt Boxset'
+sku: 'B00NPJYC98-de'
 tags: [  ]
 actualPrice: 47.4 EUR
 currency: EUR

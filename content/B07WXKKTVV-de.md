@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WXKKTVV-de Tefal L95691 Ingenio Jamie Oliver Set 9-teilig inkl. 3 x...'
+sku: 'B07WXKKTVV-de'
 tags: [  ]
 actualPrice: 134.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004KX5KTO-de Murder Ballads 2011-Remaster'
+sku: 'B004KX5KTO-de'
 tags: [  ]
 actualPrice: 4.29 EUR
 currency: EUR

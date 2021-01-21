@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BNJDL65-de Bluetooth Kopfhörer kabellose Kopfhörer Touch Control...'
+sku: 'B08BNJDL65-de'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

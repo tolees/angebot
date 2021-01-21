@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073VJB74C-de GAMEWAREZ Cosmic Lightning 2.0 Gaming Sitzsack Made in...'
+sku: 'B073VJB74C-de'
 tags: [  ]
 actualPrice: 109.9 EUR
 currency: EUR

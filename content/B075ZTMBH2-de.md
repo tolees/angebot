@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075ZTMBH2-de X-WATCH 54010 "SIONA XW FIT" Damen Smartwatch Activity...'
+sku: 'B075ZTMBH2-de'
 tags: [  ]
 actualPrice: 50.99 EUR
 currency: EUR

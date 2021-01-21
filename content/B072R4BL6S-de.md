@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072R4BL6S-de Logitech MEETUP Zusatzmikrofon Breitband-Audio mit...'
+sku: 'B072R4BL6S-de'
 tags: [  ]
 actualPrice: 169.0 EUR
 currency: EUR

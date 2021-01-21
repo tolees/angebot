@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071SG4J1K-de Pirates of the Caribbean: Salazars Rache'
+sku: 'B071SG4J1K-de'
 tags: [  ]
 actualPrice: 2.5 EUR
 currency: EUR

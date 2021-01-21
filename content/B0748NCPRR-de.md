@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0748NCPRR-de Bose SoundLink Micro tragbarer Outdoor - Lautsprecher...'
+sku: 'B0748NCPRR-de'
 tags: [  ]
 actualPrice: 84.99 EUR
 currency: EUR

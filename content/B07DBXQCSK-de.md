@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBXQCSK-de Puma Popcat Unisex-Erwachsene Dusch- & Badeschuhe Violett...'
+sku: 'B07DBXQCSK-de'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

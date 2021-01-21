@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071LNS4G5-de Dove Men+Care Duschgel für erfrischende Reinigung Clean...'
+sku: 'B071LNS4G5-de'
 tags: [  ]
 actualPrice: 5.79 EUR
 currency: EUR

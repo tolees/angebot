@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZX030M-de New Balance Herren 373 Core h Sneaker Rot Burgundy 42.5 EU'
+sku: 'B01MZX030M-de'
 tags: [  ]
 actualPrice: 46.3 EUR
 currency: EUR

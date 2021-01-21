@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFB37W6-de Funko POP 1 Piece Donquixote DOFLAMI'
+sku: 'B07DFB37W6-de'
 tags: [  ]
 actualPrice: 10.42 EUR
 currency: EUR

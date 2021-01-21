@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMRZPSV-de Samsung Book Cover Keyboard EF-DT860 für Galaxy Tab S6'
+sku: 'B07VMRZPSV-de'
 tags: [  ]
 actualPrice: 139.87 EUR
 currency: EUR

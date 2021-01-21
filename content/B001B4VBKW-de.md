@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001B4VBKW-de Brennenstuhl BREMAXX Verlängerungskabel 20m Kabel in...'
+sku: 'B001B4VBKW-de'
 tags: [  ]
 actualPrice: 32.66 EUR
 currency: EUR

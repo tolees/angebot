@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0053PV4UW-de Bosch Akku Laubbläser ALB 18 LI ohne Akku 18 V 1 8 kg 210...'
+sku: 'B0053PV4UW-de'
 tags: [  ]
 actualPrice: 53.16 EUR
 currency: EUR

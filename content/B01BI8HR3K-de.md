@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BI8HR3K-de Gigaset E630HX Universal-Mobilteil - IP-Telefon zum...'
+sku: 'B01BI8HR3K-de'
 tags: [  ]
 actualPrice: 88.96 EUR
 currency: EUR

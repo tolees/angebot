@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DXVSR99-de Under Armour Herren UA GL Foundation Short Sleeve Tee...'
+sku: 'B07DXVSR99-de'
 tags: [  ]
 actualPrice: 14.61 EUR
 currency: EUR

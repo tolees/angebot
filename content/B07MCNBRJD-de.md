@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCNBRJD-de Heimkamera 1080P FHD Wireless WiFi IP Überwachungskamera...'
+sku: 'B07MCNBRJD-de'
 tags: [  ]
 actualPrice: 17.09 EUR
 currency: EUR

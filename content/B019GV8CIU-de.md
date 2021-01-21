@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019GV8CIU-de LECHUZA CUBE Color 14 13380 Kräutertopf Hochwertiger...'
+sku: 'B019GV8CIU-de'
 tags: [  ]
 actualPrice: 6.96 EUR
 currency: EUR

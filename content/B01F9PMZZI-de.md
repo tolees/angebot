@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F9PMZZI-de 182/im Haus des Henkers'
+sku: 'B01F9PMZZI-de'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F3UWWHU-de Prym 390901 Prym Love Vario-Zange mit Loch-/Color Snaps...'
+sku: 'B01F3UWWHU-de'
 tags: [  ]
 actualPrice: 10.27 EUR
 currency: EUR

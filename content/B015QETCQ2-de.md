@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015QETCQ2-de RUBYCA 64pcs Mix Floating Charms Lot for Glass Living...'
+sku: 'B015QETCQ2-de'
 tags: [  ]
 actualPrice: 17.03 EUR
 currency: EUR

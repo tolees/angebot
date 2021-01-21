@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0785SFNDT-de PUMA - Liga - Sporttasche - Unisex - Schwarz Puma Black -...'
+sku: 'B0785SFNDT-de'
 tags: [  ]
 actualPrice: 21.95 EUR
 currency: EUR

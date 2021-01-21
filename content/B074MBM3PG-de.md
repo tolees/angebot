@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074MBM3PG-de Somat Spülmaschinen-Tabs 10 All in 1 Extra extra...'
+sku: 'B074MBM3PG-de'
 tags: [  ]
 actualPrice: 11.34 EUR
 currency: EUR

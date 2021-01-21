@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PYDW6IM-de Nike Md Runner 2 Herren Gymnastikschuhe Blau Midnight...'
+sku: 'B00PYDW6IM-de'
 tags: [  ]
 actualPrice: 53.9 EUR
 currency: EUR

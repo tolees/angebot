@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MAZ6ZN4-de Unbekannt Batterie Abdeckung Tür Ersatz für XBox Ein...'
+sku: 'B00MAZ6ZN4-de'
 tags: [  ]
 actualPrice: 1.01 EUR
 currency: EUR

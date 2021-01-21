@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CBXX9XQ-de SmartQian 9/10 Paar Sneaker Socken Herren Damen...'
+sku: 'B08CBXX9XQ-de'
 tags: [  ]
 actualPrice: 13.43 EUR
 currency: EUR

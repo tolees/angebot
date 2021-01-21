@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GWVPYHN-de Soundcore Liberty Air Bluetooth Kopfhörer True Wireless in...'
+sku: 'B07GWVPYHN-de'
 tags: [  ]
 actualPrice: 66.99 EUR
 currency: EUR

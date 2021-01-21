@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XFCXBZT-de LG K50s Smartphone 16 49 cm 6 49 Zoll IPS LC-Display 32 GB...'
+sku: 'B07XFCXBZT-de'
 tags: [  ]
 actualPrice: 165.72 EUR
 currency: EUR

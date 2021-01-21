@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2KXM3S-de ECOVACS Robotics DEEBOT 600 Saugroboter – Staubsauger...'
+sku: 'B07F2KXM3S-de'
 tags: [  ]
 actualPrice: 209.99 EUR
 currency: EUR

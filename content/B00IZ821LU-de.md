@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IZ821LU-de Tassimo Kapseln Jacobs Caffè Crema Mild XL 80...'
+sku: 'B00IZ821LU-de'
 tags: [  ]
 actualPrice: 16.93 EUR
 currency: EUR

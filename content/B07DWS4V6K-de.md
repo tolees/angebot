@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DWS4V6K-de AmazonBasics - Lightning-auf-USB-A-Kabel Premium-...'
+sku: 'B07DWS4V6K-de'
 tags: [  ]
 actualPrice: 4 EUR
 currency: EUR

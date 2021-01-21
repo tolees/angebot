@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082XCPG7C-de Tesoky Karaoke Mikrofon Bluetooth mit Lichteffekte...'
+sku: 'B082XCPG7C-de'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CKRVCVZ-de Hasbro Nerf B8072EU5 N-Strike Elite TerraScout Multicolor'
+sku: 'B07CKRVCVZ-de'
 tags: [  ]
 actualPrice: 209.49 EUR
 currency: EUR

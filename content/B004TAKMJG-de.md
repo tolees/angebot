@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004TAKMJG-de Funko 42474 5 Star: The Shining - Jack Torrance...'
+sku: 'B004TAKMJG-de'
 tags: [  ]
 actualPrice: 10.89 EUR
 currency: EUR

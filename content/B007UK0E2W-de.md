@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007UK0E2W-de Intenso Micro SDHC 32GB Class 4 Speicherkarte inkl. SD-...'
+sku: 'B007UK0E2W-de'
 tags: [  ]
 actualPrice: 5.49 EUR
 currency: EUR

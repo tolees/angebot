@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XL97CPD-de Apple iPhone 11 256 GB - Gelb'
+sku: 'B07XL97CPD-de'
 tags: [  ]
 actualPrice: 799.0 EUR
 currency: EUR

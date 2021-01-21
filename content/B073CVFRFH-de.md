@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073CVFRFH-de Beurer BF 600 Diagnosewaage weiß Messung von Körperfett...'
+sku: 'B073CVFRFH-de'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

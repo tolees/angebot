@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00004THGD-de Hook [Collector s Edition]'
+sku: 'B00004THGD-de'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

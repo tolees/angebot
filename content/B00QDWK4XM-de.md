@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QDWK4XM-de Ravensburger 17956 - Roll your Puzzle Puzzlematte'
+sku: 'B00QDWK4XM-de'
 tags: [  ]
 actualPrice: 10.03 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G2PK4RT-de Dionysus'
+sku: 'B07G2PK4RT-de'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

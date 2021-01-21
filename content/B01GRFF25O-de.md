@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GRFF25O-de WD 16 TB My Cloud Pro PR2100 Pro Serie 2-Bay Network...'
+sku: 'B01GRFF25O-de'
 tags: [  ]
 actualPrice: 360.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083DRW1MH-de TuToy Herren Sicherheit Stahlkappe Rutschfeste...'
+sku: 'B083DRW1MH-de'
 tags: [  ]
 actualPrice: 63.92 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084TJDDL1-de AstroAI Staubschutzmaske mit Filtern & Ventile-...'
+sku: 'B084TJDDL1-de'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JM5TVY8-de QARFEE - Universal 128GB Flash Drive LUV-Share USB Stick...'
+sku: 'B07JM5TVY8-de'
 tags: [  ]
 actualPrice: 31.48 EUR
 currency: EUR

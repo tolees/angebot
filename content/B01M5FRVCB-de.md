@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M5FRVCB-de bugatti Herren 311251011100 Derby Braun 42 EU Large'
+sku: 'B01M5FRVCB-de'
 tags: [  ]
 actualPrice: 38.94 EUR
 currency: EUR

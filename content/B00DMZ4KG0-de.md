@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DMZ4KG0-de Kingdom Hearts III - [Xbox One]'
+sku: 'B00DMZ4KG0-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

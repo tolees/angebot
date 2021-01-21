@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJ8X3J4-de Luftentfeuchter Elektrisch 1200ml Geringer...'
+sku: 'B08DJ8X3J4-de'
 tags: [  ]
 actualPrice: 52.99 EUR
 currency: EUR

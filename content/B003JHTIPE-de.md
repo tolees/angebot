@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003JHTIPE-de Liqui Moly Motoröl Top Tec 4200 5 W-30 5 Liter'
+sku: 'B003JHTIPE-de'
 tags: [  ]
 actualPrice: 47.71 EUR
 currency: EUR

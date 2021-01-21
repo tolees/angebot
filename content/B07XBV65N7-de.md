@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBV65N7-de Lenovo IdeaCentre AIO A540 60 45 cm 23 8 Zoll Full HD IPS...'
+sku: 'B07XBV65N7-de'
 tags: [  ]
 actualPrice: 707.12 EUR
 currency: EUR

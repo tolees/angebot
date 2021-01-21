@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MZ2F3Z8-de Krups EA8105 Kaffeevollautomat automatische Reinigung...'
+sku: 'B00MZ2F3Z8-de'
 tags: [  ]
 actualPrice: 228.99 EUR
 currency: EUR

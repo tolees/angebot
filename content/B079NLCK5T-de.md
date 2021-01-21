@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079NLCK5T-de TFA Dostmann Küchen-Chef Digitales...'
+sku: 'B079NLCK5T-de'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

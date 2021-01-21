@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AJNPOAI-de Schleich 42344 - Reiterhof mit Reiterin und Pferden'
+sku: 'B01AJNPOAI-de'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

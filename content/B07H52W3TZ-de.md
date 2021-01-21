@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H52W3TZ-de Nestlé KITKAT ChunKy Salted Caramel Fudge Schokoriegel aus...'
+sku: 'B07H52W3TZ-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

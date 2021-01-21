@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CBME2LC-de Funko 8659 S1 No Actionfigur Suicide Squad: Joker...'
+sku: 'B01CBME2LC-de'
 tags: [  ]
 actualPrice: 8.01 EUR
 currency: EUR

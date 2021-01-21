@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WWRH6W5-de Revell Control 24710 - Technik RC Car als Bausatz mit 27...'
+sku: 'B06WWRH6W5-de'
 tags: [  ]
 actualPrice: 13.98 EUR
 currency: EUR

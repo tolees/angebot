@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMCC8R4-de Playmobil 70098 Magic Meerjungfrau mit Schneckengondel bunt'
+sku: 'B07JMCC8R4-de'
 tags: [  ]
 actualPrice: 10.57 EUR
 currency: EUR

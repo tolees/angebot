@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OZCFUDG-de Netgear GS752TX 52-Port Gigabit/10G Stackable LAN Switch...'
+sku: 'B00OZCFUDG-de'
 tags: [  ]
 actualPrice: 730.08 EUR
 currency: EUR

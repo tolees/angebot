@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK1XTB7-de Under Armour Unisex – Erwachsene Patterson Backpack...'
+sku: 'B07KK1XTB7-de'
 tags: [  ]
 actualPrice: 13.11 EUR
 currency: EUR

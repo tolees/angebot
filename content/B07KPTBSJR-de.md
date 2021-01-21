@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPTBSJR-de Funko 38565 POP Vinyl 6" Jaws Sammelbares Spielzeug...'
+sku: 'B07KPTBSJR-de'
 tags: [  ]
 actualPrice: 13.79 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PBBXR1R-de Funko 42650 POP Vinyl: Harry Potter S7-Ginny Yule...'
+sku: 'B07PBBXR1R-de'
 tags: [  ]
 actualPrice: 10.39 EUR
 currency: EUR

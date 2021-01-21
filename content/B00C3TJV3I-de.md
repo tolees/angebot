@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C3TJV3I-de Ravensburger tiptoi Dein Körper und Du Spiel ab 4 Jahren...'
+sku: 'B00C3TJV3I-de'
 tags: [  ]
 actualPrice: 19.49 EUR
 currency: EUR

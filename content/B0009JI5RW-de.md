@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0009JI5RW-de ZWILLING Schneiderschere Stoffschere Länge: 21 cm...'
+sku: 'B0009JI5RW-de'
 tags: [  ]
 actualPrice: 22.3 EUR
 currency: EUR

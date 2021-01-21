@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CQILASA-de UHU 45450 Doppel-Strips Extrem 4 kg 26 mm x 31 mm 16 Stück'
+sku: 'B00CQILASA-de'
 tags: [  ]
 actualPrice: 4.3 EUR
 currency: EUR

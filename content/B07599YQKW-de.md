@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07599YQKW-de Funko 24704 POP Vinylfigur: James Bond: Sean Connery Multi'
+sku: 'B07599YQKW-de'
 tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR

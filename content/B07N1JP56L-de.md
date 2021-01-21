@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JP56L-de Fisher-Price FXC66 - Schlummer Otter Spieluhr aus Plüsch...'
+sku: 'B07N1JP56L-de'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

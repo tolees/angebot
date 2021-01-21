@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FL1M4LQ-de Apple MacBook Pro 15" Vorgängermodell 16GB RAM 512GB...'
+sku: 'B07FL1M4LQ-de'
 tags: [  ]
 actualPrice: 2114.46 EUR
 currency: EUR

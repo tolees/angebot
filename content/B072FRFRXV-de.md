@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072FRFRXV-de ONLY Damen Langarmshirt Onlelcos 4/5 Solid Top Jrs Noos...'
+sku: 'B072FRFRXV-de'
 tags: [  ]
 actualPrice: 11.65 EUR
 currency: EUR

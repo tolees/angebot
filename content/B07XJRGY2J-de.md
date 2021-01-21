@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJRGY2J-de HP Pavilion Gaming TG01-0016ng Desktop Intel Core i5-9400F...'
+sku: 'B07XJRGY2J-de'
 tags: [  ]
 actualPrice: 510.0 EUR
 currency: EUR

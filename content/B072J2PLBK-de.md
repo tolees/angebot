@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072J2PLBK-de Lenovo L24q-10 60 45 cm 23 8 Zoll QHD IPS matt Monitor...'
+sku: 'B072J2PLBK-de'
 tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR

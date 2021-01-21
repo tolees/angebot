@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNVYDQS-de Samsung MG23 K3 515aw / EG Mikrowelle / 48 9 cm /...'
+sku: 'B07DNVYDQS-de'
 tags: [  ]
 actualPrice: 104.48 EUR
 currency: EUR

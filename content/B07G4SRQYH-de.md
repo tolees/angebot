@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4SRQYH-de Hugo Boss Damen Multi Zifferblatt Quarz Uhr mit Roségold...'
+sku: 'B07G4SRQYH-de'
 tags: [  ]
 actualPrice: 176.22 EUR
 currency: EUR

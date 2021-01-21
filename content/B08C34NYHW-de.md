@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C34NYHW-de 4G LTE Tablet 10 Zoll - Android 9.0 Zertifiziert von...'
+sku: 'B08C34NYHW-de'
 tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR

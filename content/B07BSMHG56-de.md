@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BSMHG56-de Pans Labyrinth - Ultimate Edition Blu-ray + CD-Soundtrack...'
+sku: 'B07BSMHG56-de'
 tags: [  ]
 actualPrice: 44.2 EUR
 currency: EUR

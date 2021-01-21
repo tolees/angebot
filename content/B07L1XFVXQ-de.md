@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L1XFVXQ-de Under Armour Herren Rival Fleece Sportstyle Logo Hoodie...'
+sku: 'B07L1XFVXQ-de'
 tags: [  ]
 actualPrice: 34.97 EUR
 currency: EUR

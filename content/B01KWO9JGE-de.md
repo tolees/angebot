@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KWO9JGE-de Huntvp Gürteltasche wasserdichte Bauchtasche für Handy bis...'
+sku: 'B01KWO9JGE-de'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

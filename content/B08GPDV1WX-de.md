@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GPDV1WX-de Socken Herren Damen 6 Paar Wandersocken Baumwolle...'
+sku: 'B08GPDV1WX-de'
 tags: [  ]
 actualPrice: 16.74 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008XI79XW-de Bosch Dampfbügeleisen TDA503001P sparsame eco Dampfstufe...'
+sku: 'B008XI79XW-de'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

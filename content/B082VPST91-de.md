@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VPST91-de Barilla Pasta Gemelli n. 90 500g'
+sku: 'B082VPST91-de'
 tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR

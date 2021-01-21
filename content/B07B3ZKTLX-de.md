@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B3ZKTLX-de PLAYMOBIL Christmas 9493 Weihnachtsbäckerei mit...'
+sku: 'B07B3ZKTLX-de'
 tags: [  ]
 actualPrice: 18.7 EUR
 currency: EUR

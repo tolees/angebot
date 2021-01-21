@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00006JAXW-de Hama Universal-Drehteller 360° drehbar Drehscheibe...'
+sku: 'B00006JAXW-de'
 tags: [  ]
 actualPrice: 20.1 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076DNLS3G-de Oral-B CrossAction Aufsteckbürsten Briefkastenfähige...'
+sku: 'B076DNLS3G-de'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

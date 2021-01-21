@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GC7VNN1-de BREE Collection Unisex-Erwachsene Punch 93 Backpack M S19...'
+sku: 'B07GC7VNN1-de'
 tags: [  ]
 actualPrice: 89.38 EUR
 currency: EUR

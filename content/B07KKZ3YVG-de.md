@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKZ3YVG-de Street One Damen T-Shirt 313104 Palmira Schwarz Black...'
+sku: 'B07KKZ3YVG-de'
 tags: [  ]
 actualPrice: 12.81 EUR
 currency: EUR

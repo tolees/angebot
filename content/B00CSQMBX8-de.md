@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CSQMBX8-de The Complete Legendary 1938 Carnegie Hall Concert'
+sku: 'B00CSQMBX8-de'
 tags: [  ]
 actualPrice: 10.01 EUR
 currency: EUR

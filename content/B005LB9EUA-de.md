@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005LB9EUA-de Green Toys Schulbus Spielzeugauto'
+sku: 'B005LB9EUA-de'
 tags: [  ]
 actualPrice: 31.14 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004A15HCG-de Lico Mädchen Silverstar V Hallenschuhe Weiß...'
+sku: 'B004A15HCG-de'
 tags: [  ]
 actualPrice: 20.23 EUR
 currency: EUR

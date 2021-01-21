@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074DYHDLK-de Asus ROG Zenith Extreme Gaming Mainboard Sockel TR4 eATX...'
+sku: 'B074DYHDLK-de'
 tags: [  ]
 actualPrice: 499.0 EUR
 currency: EUR

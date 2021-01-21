@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XH4DJBK-de KINLO möbelfolie Braun 2 Stk. 61x500cm aus hochwertigem...'
+sku: 'B06XH4DJBK-de'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

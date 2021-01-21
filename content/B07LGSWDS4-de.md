@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGSWDS4-de iEFiEL Damen Prinzessin Kostüm Königin Partykleid...'
+sku: 'B07LGSWDS4-de'
 tags: [  ]
 actualPrice: 23.39 EUR
 currency: EUR

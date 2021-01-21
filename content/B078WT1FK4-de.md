@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WT1FK4-de Sony SRS-XB41 kabelloser Bluetooth Lautsprecher tragbar...'
+sku: 'B078WT1FK4-de'
 tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR

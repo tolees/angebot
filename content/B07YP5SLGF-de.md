@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YP5SLGF-de DOMISO 17 Zoll Wasserdicht Laptop Tasche Tragetasche...'
+sku: 'B07YP5SLGF-de'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C9S4K4W-de Boxset'
+sku: 'B01C9S4K4W-de'
 tags: [  ]
 actualPrice: 15.81 EUR
 currency: EUR

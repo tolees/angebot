@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CKXXTQC-de LED Strips 20M HEERTTOGO LED Streifen RGB mit Bluetooth...'
+sku: 'B08CKXXTQC-de'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

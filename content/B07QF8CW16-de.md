@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QF8CW16-de BBLAC 2KEY B2KEY® SWAT Revolver Military Technique...'
+sku: 'B07QF8CW16-de'
 tags: [  ]
 actualPrice: 53.37 EUR
 currency: EUR

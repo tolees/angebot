@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076BJMG38-de The Stage Deluxe Edt.'
+sku: 'B076BJMG38-de'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

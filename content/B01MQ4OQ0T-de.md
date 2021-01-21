@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQ4OQ0T-de Julbo Vermont Herren-Sonnenbrille Herren Sonnenbrille...'
+sku: 'B01MQ4OQ0T-de'
 tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR

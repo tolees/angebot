@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081T6YVBD-de Lenovo IdeaPad C340 Laptop 35 6 cm 14 Zoll 1920x1080 FHD...'
+sku: 'B081T6YVBD-de'
 tags: [  ]
 actualPrice: 399.0 EUR
 currency: EUR

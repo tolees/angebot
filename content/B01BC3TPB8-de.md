@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BC3TPB8-de Samsung WW80K6404QW/EG Waschmaschine FL/A+++/116...'
+sku: 'B01BC3TPB8-de'
 tags: [  ]
 actualPrice: 419.0 EUR
 currency: EUR

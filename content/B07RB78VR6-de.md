@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RB78VR6-de Hasbro Disney Die Eiskönigin II Elsa Puppe mit langem...'
+sku: 'B07RB78VR6-de'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

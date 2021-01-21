@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PLG5RTD-de MUSTANG Damen 1346-502-55 Cowboystiefel Rot Bordeaux 55 39 EU'
+sku: 'B07PLG5RTD-de'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

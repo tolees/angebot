@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C58S3GW-de Netgear GS728TPP 28-Port Gigabit Ethernet LAN PoE Switch...'
+sku: 'B07C58S3GW-de'
 tags: [  ]
 actualPrice: 290.07 EUR
 currency: EUR

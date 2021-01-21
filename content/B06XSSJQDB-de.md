@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XSSJQDB-de American Tourister Soundbox - Spinner S Erweiterbar...'
+sku: 'B06XSSJQDB-de'
 tags: [  ]
 actualPrice: 76.72 EUR
 currency: EUR

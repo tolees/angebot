@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y1RJFF-de BRITA Wasserfilter Style XL hellgrau inkl. 1 MAXTRA+...'
+sku: 'B077Y1RJFF-de'
 tags: [  ]
 actualPrice: 28.84 EUR
 currency: EUR

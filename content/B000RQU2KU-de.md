@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000RQU2KU-de Brennenstuhl Eco-Line Steckdosenleiste 10-fach...'
+sku: 'B000RQU2KU-de'
 tags: [  ]
 actualPrice: 9.53 EUR
 currency: EUR

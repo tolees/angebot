@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011WEVVTG-de 177/der Geist des Goldgräbers'
+sku: 'B011WEVVTG-de'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

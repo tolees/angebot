@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRRCX7C-de EPOCH Traumwiesen 5033 Sylvanian Families Esszimmer-Set'
+sku: 'B00HRRCX7C-de'
 tags: [  ]
 actualPrice: 24.2 EUR
 currency: EUR

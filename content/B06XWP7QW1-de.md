@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XWP7QW1-de Ehdis 1.5" High Visibility Mini Razor Kunststoff...'
+sku: 'B06XWP7QW1-de'
 tags: [  ]
 actualPrice: 15.29 EUR
 currency: EUR

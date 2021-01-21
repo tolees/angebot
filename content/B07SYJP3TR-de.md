@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SYJP3TR-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Imperial...'
+sku: 'B07SYJP3TR-de'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

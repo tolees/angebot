@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QDSCMZV-de Simba - Disney Frozen 2 Olaf Spaß Olaf Plüschfigur...'
+sku: 'B07QDSCMZV-de'
 tags: [  ]
 actualPrice: 36.32 EUR
 currency: EUR

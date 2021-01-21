@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075LYDD7Z-de Apple iPhone X 64GB - Silber'
+sku: 'B075LYDD7Z-de'
 tags: [  ]
 actualPrice: 568.79 EUR
 currency: EUR

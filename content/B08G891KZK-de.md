@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08G891KZK-de Bluetooth Kopfhörer In-Ear Kabellose Kopfhörer Bluetooth...'
+sku: 'B08G891KZK-de'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

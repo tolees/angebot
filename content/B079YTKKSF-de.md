@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YTKKSF-de Logitech G513 mechanische Gaming-Tastatur mit RGB...'
+sku: 'B079YTKKSF-de'
 tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR

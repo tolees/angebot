@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WGMJ4MN-de SEIKO Automatische Uhr SRPD81K1 schwarz Street'
+sku: 'B07WGMJ4MN-de'
 tags: [  ]
 actualPrice: 213.2 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZV5JX8-de Ihr Auftritt Al Mundy! - Komplettbox Alle 3 Staffeln /...'
+sku: 'B01LZV5JX8-de'
 tags: [  ]
 actualPrice: 39.97 EUR
 currency: EUR

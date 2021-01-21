@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FOIRFMO-de Philips HU4803/01 Luftbefeuchter bis zu 25m² hygienische...'
+sku: 'B00FOIRFMO-de'
 tags: [  ]
 actualPrice: 99.9 EUR
 currency: EUR

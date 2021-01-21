@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBSGJ80-de Canon PowerShot G9 X Mark II Kompaktkamera 20 1 MP 7 5cm 3...'
+sku: 'B01NBSGJ80-de'
 tags: [  ]
 actualPrice: 399.0 EUR
 currency: EUR

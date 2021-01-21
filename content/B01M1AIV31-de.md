@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M1AIV31-de Parker IM Füller | schwarze Lackierung mit Chromzierteilen...'
+sku: 'B01M1AIV31-de'
 tags: [  ]
 actualPrice: 17.38 EUR
 currency: EUR

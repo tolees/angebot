@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WRVMOAE-de Der Alte - Collector s Box Volume 18 Folgen 281 - 295 [5...'
+sku: 'B00WRVMOAE-de'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

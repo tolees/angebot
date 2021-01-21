@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WWQHWKD-de Ravensburger 13698 - Magische Einhörner Puzzle'
+sku: 'B06WWQHWKD-de'
 tags: [  ]
 actualPrice: 8.38 EUR
 currency: EUR

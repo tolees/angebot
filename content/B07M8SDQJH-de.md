@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8SDQJH-de Frozen Disney Die Eiskönigin II Königliches Schloss von...'
+sku: 'B07M8SDQJH-de'
 tags: [  ]
 actualPrice: 137.9 EUR
 currency: EUR

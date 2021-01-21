@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CGGP7SV-de Samsung MZ-V7E500BW 970 EVO 500 GB NVMe M.2 Interne SSD...'
+sku: 'B07CGGP7SV-de'
 tags: [  ]
 actualPrice: 73.9 EUR
 currency: EUR

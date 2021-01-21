@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FXP2KV-de Samsung Clear View Standing Cover EF-ZG960 für das Galaxy...'
+sku: 'B079FXP2KV-de'
 tags: [  ]
 actualPrice: 8.26 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HZ14F5T-de Bluetooth-Kopfhörer5.0 In-Ear-Bluetooth-Kopfhörer...'
+sku: 'B08HZ14F5T-de'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

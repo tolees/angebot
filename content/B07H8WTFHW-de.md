@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H8WTFHW-de MEATER Plus | Das ultimative kabellose smarte...'
+sku: 'B07H8WTFHW-de'
 tags: [  ]
 actualPrice: 89.96 EUR
 currency: EUR

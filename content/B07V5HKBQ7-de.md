@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5HKBQ7-de Retevis RT637 Walkie Talkie Kinder 16 Kanal PMR446...'
+sku: 'B07V5HKBQ7-de'
 tags: [  ]
 actualPrice: 15.19 EUR
 currency: EUR

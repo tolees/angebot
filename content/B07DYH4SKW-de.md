@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYH4SKW-de Merrell Damen Vapor Glove 4 Hallenschuhe Blau Velvet...'
+sku: 'B07DYH4SKW-de'
 tags: [  ]
 actualPrice: 72.45 EUR
 currency: EUR

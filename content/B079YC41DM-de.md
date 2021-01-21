@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YC41DM-de Funko 29501 Actionfigur Harry Potter-Ron Herbology...'
+sku: 'B079YC41DM-de'
 tags: [  ]
 actualPrice: 6.79 EUR
 currency: EUR

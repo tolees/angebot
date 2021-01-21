@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001P4ZACS-de Haba 4655 - Meine ersten Spiele Erster Obstgarten...'
+sku: 'B001P4ZACS-de'
 tags: [  ]
 actualPrice: 18.29 EUR
 currency: EUR

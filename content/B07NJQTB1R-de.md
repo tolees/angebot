@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJQTB1R-de Ankermann Neu Business Office Work PC PC Intel i5 4570 4X...'
+sku: 'B07NJQTB1R-de'
 tags: [  ]
 actualPrice: 449.0 EUR
 currency: EUR

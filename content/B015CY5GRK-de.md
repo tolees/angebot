@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015CY5GRK-de Man lernt nie aus [Blu-ray]'
+sku: 'B015CY5GRK-de'
 tags: [  ]
 actualPrice: 4.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0784WYXCL-de Navitech schwarz Gehäuse für APEMAN Mini Car Camera Dash...'
+sku: 'B0784WYXCL-de'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

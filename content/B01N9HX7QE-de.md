@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9HX7QE-de arena Damen Sport Badeanzug Dynamo Schnelltrocknend UV-...'
+sku: 'B01N9HX7QE-de'
 tags: [  ]
 actualPrice: 15.36 EUR
 currency: EUR

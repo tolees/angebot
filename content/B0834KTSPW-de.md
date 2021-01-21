@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0834KTSPW-de Wepro kompatibel mit AirPods Pro Hülle Abstrahlend 2019...'
+sku: 'B0834KTSPW-de'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

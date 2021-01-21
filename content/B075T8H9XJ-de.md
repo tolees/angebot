@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075T8H9XJ-de AUKEY Dashcam Dual 1080P Front und Rück Autokamera mit...'
+sku: 'B075T8H9XJ-de'
 tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR

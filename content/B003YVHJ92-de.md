@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003YVHJ92-de NESCAFÉ Dolce Gusto Nesquik | 48 Kapseln Trinkschokolade |...'
+sku: 'B003YVHJ92-de'
 tags: [  ]
 actualPrice: 10.47 EUR
 currency: EUR

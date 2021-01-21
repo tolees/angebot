@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4MKWSP-de Rieker Damen Chelsea Boots 75754 Frauen Stiefel...'
+sku: 'B07B4MKWSP-de'
 tags: [  ]
 actualPrice: 34.91 EUR
 currency: EUR

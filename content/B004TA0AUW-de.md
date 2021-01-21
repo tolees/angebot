@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004TA0AUW-de Transcend Extreme-Speed Micro SDHC 8GB Class 10...'
+sku: 'B004TA0AUW-de'
 tags: [  ]
 actualPrice: 5.49 EUR
 currency: EUR

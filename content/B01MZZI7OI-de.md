@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZZI7OI-de BRITA Wasserfilter Marella weiß inkl. 3 MAXTRA+...'
+sku: 'B01MZZI7OI-de'
 tags: [  ]
 actualPrice: 19.97 EUR
 currency: EUR

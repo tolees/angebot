@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NXT8QD4-de Vicstar [2 Stück] Samsung Galaxy S10e Panzerglas...'
+sku: 'B07NXT8QD4-de'
 tags: [  ]
 actualPrice: 3.98 EUR
 currency: EUR

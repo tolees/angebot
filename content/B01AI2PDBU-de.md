@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AI2PDBU-de Bosch Akku Heckenschere AHS 55-20 LI 1 Akku 18 Volt System...'
+sku: 'B01AI2PDBU-de'
 tags: [  ]
 actualPrice: 148.89 EUR
 currency: EUR

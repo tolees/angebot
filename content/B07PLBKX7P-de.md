@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PLBKX7P-de Filofax Kalendereinlage Personal 1 Woche auf 2 Seiten...'
+sku: 'B07PLBKX7P-de'
 tags: [  ]
 actualPrice: 5.5 EUR
 currency: EUR

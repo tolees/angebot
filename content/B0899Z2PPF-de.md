@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0899Z2PPF-de Controller für Nintendo Switch 6-Achsen Einstellbarem...'
+sku: 'B0899Z2PPF-de'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

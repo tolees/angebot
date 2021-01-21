@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YYSPZNZ-de Smartwatch Zagzog 1 54 Vollfarb-Touchscreen 15 Tage...'
+sku: 'B07YYSPZNZ-de'
 tags: [  ]
 actualPrice: 23.79 EUR
 currency: EUR

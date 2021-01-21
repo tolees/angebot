@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0144LQYSW-de Somat Klarspüler 1er Pack 1 x 750 ml'
+sku: 'B0144LQYSW-de'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01557TFGW-de Aberfeldy Highland Single Malt Whisky 16 Jahre 1 x 0.7 l'
+sku: 'B01557TFGW-de'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

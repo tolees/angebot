@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XYNQ2PT-de Hasbro Spiele C2473100 - OhwEi Vorschulspiel'
+sku: 'B06XYNQ2PT-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVJYMQZ-de VATOS Ferngesteuertes Auto RC Off-Road Buggy Auto 1:16...'
+sku: 'B07GVJYMQZ-de'
 tags: [  ]
 actualPrice: 94.99 EUR
 currency: EUR

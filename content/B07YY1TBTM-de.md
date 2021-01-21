@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YY1TBTM-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars PORG...'
+sku: 'B07YY1TBTM-de'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

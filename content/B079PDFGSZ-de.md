@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079PDFGSZ-de I Tonya [Blu-ray]'
+sku: 'B079PDFGSZ-de'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0006ZXLIW-de Philips LFH0720 Analoges Schreibtisch-Wiedergabesystem...'
+sku: 'B0006ZXLIW-de'
 tags: [  ]
 actualPrice: 410.0 EUR
 currency: EUR

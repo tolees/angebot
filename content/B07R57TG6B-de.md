@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R57TG6B-de SNAPTAIN Mini Drohne H823H Plus mit 3 Akkus für 21 Minuten...'
+sku: 'B07R57TG6B-de'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

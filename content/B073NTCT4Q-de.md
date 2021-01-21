@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073NTCT4Q-de BenQ GW2480 60 45cm 23 8 Zoll LED Monitor Full-HD Eye-Care...'
+sku: 'B073NTCT4Q-de'
 tags: [  ]
 actualPrice: 105.0 EUR
 currency: EUR

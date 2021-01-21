@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083NN5NQY-de DXX Technik Bausteine Auto Jeep Wrangler Adventurer...'
+sku: 'B083NN5NQY-de'
 tags: [  ]
 actualPrice: 97.99 EUR
 currency: EUR

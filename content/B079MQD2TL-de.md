@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MQD2TL-de Viewsonic PX747-4K UHD Heimkino DLP Beamer 4K 3.500 ANSI...'
+sku: 'B079MQD2TL-de'
 tags: [  ]
 actualPrice: 779.0 EUR
 currency: EUR

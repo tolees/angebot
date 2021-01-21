@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MUBNIS5-de Citizen Herren Analog Mechanisch Uhr mit Kunststoff...'
+sku: 'B01MUBNIS5-de'
 tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR

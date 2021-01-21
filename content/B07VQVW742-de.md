@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQVW742-de deAO Kinderspielset Pretend Kitchen Sink mit simuliertem...'
+sku: 'B07VQVW742-de'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CU0CM7G-de Naipo Schulter Massagegerät Elektrisch für Nacken Rücken...'
+sku: 'B01CU0CM7G-de'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

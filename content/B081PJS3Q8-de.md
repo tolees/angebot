@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081PJS3Q8-de TONGJI Acryl Vitrine Mit Beleuchtungsset Kompatibel Mit...'
+sku: 'B081PJS3Q8-de'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

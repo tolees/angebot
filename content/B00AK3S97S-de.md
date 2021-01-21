@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AK3S97S-de James Bond - Die Welt ist nicht genug [Blu-ray]'
+sku: 'B00AK3S97S-de'
 tags: [  ]
 actualPrice: 6.75 EUR
 currency: EUR

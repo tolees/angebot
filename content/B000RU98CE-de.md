@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000RU98CE-de Playshoes Unisex Kinder Regenhose Buddelhose Matschhose...'
+sku: 'B000RU98CE-de'
 tags: [  ]
 actualPrice: 8.82 EUR
 currency: EUR

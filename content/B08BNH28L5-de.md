@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BNH28L5-de Bluetooth Kopfhörer In Ear Wireless Noise Cancelling...'
+sku: 'B08BNH28L5-de'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KHHC7NS-de Yamaha WX-010 White MusicCast WX-010 Netzwerklautsprecher...'
+sku: 'B01KHHC7NS-de'
 tags: [  ]
 actualPrice: 112.14 EUR
 currency: EUR

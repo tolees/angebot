@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074F2G8ZP-de ViewSonic VP3881 95 3 cm 38 Zoll Fotografen Monitor mit...'
+sku: 'B074F2G8ZP-de'
 tags: [  ]
 actualPrice: 830.0 EUR
 currency: EUR

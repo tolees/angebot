@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082HMYF79-de TuToy Einstellbare Stiefelspanner Breite Schuhformer...'
+sku: 'B082HMYF79-de'
 tags: [  ]
 actualPrice: 23.1 EUR
 currency: EUR

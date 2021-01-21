@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XCQM2TZ-de Samsung HW-MS650 Soundbar Sound+ integrierter Subwoofer...'
+sku: 'B06XCQM2TZ-de'
 tags: [  ]
 actualPrice: 288.98 EUR
 currency: EUR

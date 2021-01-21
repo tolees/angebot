@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ZYWR18-de Melitta Caffeo CI E970-101 Kaffeevollautomat | mit...'
+sku: 'B003ZYWR18-de'
 tags: [  ]
 actualPrice: 548.99 EUR
 currency: EUR

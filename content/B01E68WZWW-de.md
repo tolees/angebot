@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E68WZWW-de Sensodyne MultiCare Original Zahnpasta Tägliche Zahnpasta...'
+sku: 'B01E68WZWW-de'
 tags: [  ]
 actualPrice: 2.22 EUR
 currency: EUR

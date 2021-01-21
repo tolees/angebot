@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D1WMB7I-de Acer Chromebook 14 Notebook 14 Zoll Full-HD IPS matt...'
+sku: 'B01D1WMB7I-de'
 tags: [  ]
 actualPrice: 294.39 EUR
 currency: EUR

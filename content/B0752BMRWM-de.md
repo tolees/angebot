@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0752BMRWM-de Swarovski Angelic Square Set weiss Rhodiniert'
+sku: 'B0752BMRWM-de'
 tags: [  ]
 actualPrice: 155.07 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HTTQ6A2-de Vileda Turbo EasyWring und Clean Komplett Set mit...'
+sku: 'B01HTTQ6A2-de'
 tags: [  ]
 actualPrice: 33.27 EUR
 currency: EUR

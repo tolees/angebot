@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KQCQ79K-de Omron Schrittzähler Walking style IV'
+sku: 'B00KQCQ79K-de'
 tags: [  ]
 actualPrice: 23.82 EUR
 currency: EUR

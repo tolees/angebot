@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001D0RSRO-de Wettsingen in Schwetzingen/MTV unplugged'
+sku: 'B001D0RSRO-de'
 tags: [  ]
 actualPrice: 7.55 EUR
 currency: EUR

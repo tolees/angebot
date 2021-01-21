@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XZC9K61-de Dreamzie - Gewichtsdecke - Verfügbar für Betten 90 bis 180...'
+sku: 'B07XZC9K61-de'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

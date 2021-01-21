@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9WC9Y3-de SAGE SCG600 the Dose Control Kaffeemühle für Press- oder...'
+sku: 'B07B9WC9Y3-de'
 tags: [  ]
 actualPrice: 134.99 EUR
 currency: EUR

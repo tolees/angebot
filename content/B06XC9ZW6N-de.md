@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XC9ZW6N-de Olympus OM-D E-M10 Mark III Micro Four Thirds Systemkamera...'
+sku: 'B06XC9ZW6N-de'
 tags: [  ]
 actualPrice: 499.0 EUR
 currency: EUR

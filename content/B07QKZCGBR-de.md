@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QKZCGBR-de Grillido Sportwurst Original 25er Pack| Die Power Salami...'
+sku: 'B07QKZCGBR-de'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQ7ZN4C-de Antimi Bluetooth Kopfhörer Kabellos in Ear Kopfhoerer...'
+sku: 'B07NQ7ZN4C-de'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N684PPX-de Haier HRF-521DS6 Side-by-Side / A+ / 179 cm Höhe / 435...'
+sku: 'B01N684PPX-de'
 tags: [  ]
 actualPrice: 329.47 EUR
 currency: EUR

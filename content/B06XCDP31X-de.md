@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XCDP31X-de camel active klein B00 Journey Umhängetasche 22 cm schwarz'
+sku: 'B06XCDP31X-de'
 tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR

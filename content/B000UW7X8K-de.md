@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000UW7X8K-de Jung Abdeckung CD561SATWW für SAT-TV-Steckdose'
+sku: 'B000UW7X8K-de'
 tags: [  ]
 actualPrice: 2.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FDIVD9A-de Hasbro Gaming B2176398 - Dr. Bibber Kinderspiel'
+sku: 'B01FDIVD9A-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

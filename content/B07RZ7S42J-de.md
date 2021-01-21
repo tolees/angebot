@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZ7S42J-de BRIKSMAX Led Beleuchtungsset für Disney Mickey s Steamboat...'
+sku: 'B07RZ7S42J-de'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

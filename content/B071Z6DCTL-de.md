@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071Z6DCTL-de Lenovo L27q-10 68 58 cm 27 Zoll QHD IPS matt Monitor HDMI...'
+sku: 'B071Z6DCTL-de'
 tags: [  ]
 actualPrice: 179.0 EUR
 currency: EUR

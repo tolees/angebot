@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PCQTCSL-de RATEL Mini USB Tischventilator 12 5 cm USB Ventilator 3...'
+sku: 'B07PCQTCSL-de'
 tags: [  ]
 actualPrice: 7.93 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MP1QV1X-de BRIKSMAX Led Beleuchtungsset für James Bond Bricks...'
+sku: 'B07MP1QV1X-de'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

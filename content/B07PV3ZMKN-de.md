@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PV3ZMKN-de Samsung LS03R The Frame 163 cm 65 Zoll QLED Lifestyle...'
+sku: 'B07PV3ZMKN-de'
 tags: [  ]
 actualPrice: 1650.0 EUR
 currency: EUR

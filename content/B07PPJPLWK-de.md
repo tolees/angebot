@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPJPLWK-de LG OLED55C97LA 139 cm 55 Zoll OLED Fernseher OLED Dual...'
+sku: 'B07PPJPLWK-de'
 tags: [  ]
 actualPrice: 1699.0 EUR
 currency: EUR

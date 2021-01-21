@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JGSYM9C-de Catalonia TV Decke Sherpa Kuscheldecke mit Ärmel- und...'
+sku: 'B08JGSYM9C-de'
 tags: [  ]
 actualPrice: 39.98 EUR
 currency: EUR

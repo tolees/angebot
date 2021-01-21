@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016QM4XAI-de Tommy Hilfiger Herren CORE STRETCH SLIM POPLIN SHIRT...'
+sku: 'B016QM4XAI-de'
 tags: [  ]
 actualPrice: 53.52 EUR
 currency: EUR

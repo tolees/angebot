@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQWKZRJ-de adidas Herren Terrex EASTRAIL Walkingschuhe Schwarz...'
+sku: 'B07JQWKZRJ-de'
 tags: [  ]
 actualPrice: 56.53 EUR
 currency: EUR

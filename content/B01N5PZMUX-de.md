@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5PZMUX-de Rosenstein & Söhne Kaffeepresse: Thermo-Kaffeebereiter...'
+sku: 'B01N5PZMUX-de'
 tags: [  ]
 actualPrice: 22.9 EUR
 currency: EUR

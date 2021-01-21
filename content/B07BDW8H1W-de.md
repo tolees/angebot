@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BDW8H1W-de Poopsie Surprise 555964E5C Pink Unicorn or Rainbow Unicorn...'
+sku: 'B07BDW8H1W-de'
 tags: [  ]
 actualPrice: 44.1 EUR
 currency: EUR

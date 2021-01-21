@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MU0WX8G-de Carlo Milano Wandschublade: Wandregal mit versteckter...'
+sku: 'B01MU0WX8G-de'
 tags: [  ]
 actualPrice: 20.95 EUR
 currency: EUR

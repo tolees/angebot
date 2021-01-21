@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FCGJJ26-de Rooxs Damen Hipster Panties 3er Pack Perfekte Passform...'
+sku: 'B07FCGJJ26-de'
 tags: [  ]
 actualPrice: 18.36 EUR
 currency: EUR

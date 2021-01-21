@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089N3KR3W-de Tryone Tablet Ständer verstellbare Tablet Halterung -...'
+sku: 'B089N3KR3W-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZNQ78FS-de BRIKSMAX Led Beleuchtungsset für Lego Central Perk Friends...'
+sku: 'B07ZNQ78FS-de'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

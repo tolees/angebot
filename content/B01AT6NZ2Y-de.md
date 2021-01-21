@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AT6NZ2Y-de 2er Set BRUBAKER Tisch- oder Nachttischlampen Anthrazit...'
+sku: 'B01AT6NZ2Y-de'
 tags: [  ]
 actualPrice: 31.95 EUR
 currency: EUR

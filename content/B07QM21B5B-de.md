@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QM21B5B-de Star Wars Jedi: Fallen Order - Deluxe Edition - [Xbox One]'
+sku: 'B07QM21B5B-de'
 tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR

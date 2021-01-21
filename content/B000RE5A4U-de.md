@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000RE5A4U-de Eastpak Wyoming Rucksack 40 cm 24 L Schwarz Black'
+sku: 'B000RE5A4U-de'
 tags: [  ]
 actualPrice: 31.9 EUR
 currency: EUR

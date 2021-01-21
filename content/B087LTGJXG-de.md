@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087LTGJXG-de EXTSUD Gummiband und Nasenbügel Set Elastische Schnur Band...'
+sku: 'B087LTGJXG-de'
 tags: [  ]
 actualPrice: 13.89 EUR
 currency: EUR

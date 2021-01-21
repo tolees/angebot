@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XYHT37W-de The Big Bang Theory S1-12 Boxset DVD'
+sku: 'B07XYHT37W-de'
 tags: [  ]
 actualPrice: 87.87 EUR
 currency: EUR

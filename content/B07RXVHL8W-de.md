@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXVHL8W-de Sony SRS-XB402M Bluetooth-Lautsprecher EXTRA BASS...'
+sku: 'B07RXVHL8W-de'
 tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR

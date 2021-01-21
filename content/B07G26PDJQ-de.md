@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G26PDJQ-de Fitbit Unisex-Adult Charge 3 Der Innovative Gesundheits-...'
+sku: 'B07G26PDJQ-de'
 tags: [  ]
 actualPrice: 99 EUR
 currency: EUR

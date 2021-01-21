@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MS7R41V-de flintronic Herren Gürtel Leder Ratsche Automatik Gürtel...'
+sku: 'B07MS7R41V-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

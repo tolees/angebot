@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NTTHJ1X-de Borderlands 3 - Standard Edition Code in der Box - [PC]'
+sku: 'B07NTTHJ1X-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004EAMAKA-de Lillet Blanc Aperitif – Fruchtiger französischer...'
+sku: 'B004EAMAKA-de'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

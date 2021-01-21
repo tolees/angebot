@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DX9JWYY-de Just Cause 4 - Standard Edition - [PlayStation 4]'
+sku: 'B07DX9JWYY-de'
 tags: [  ]
 actualPrice: 6.66 EUR
 currency: EUR

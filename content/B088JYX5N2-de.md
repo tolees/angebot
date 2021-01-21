@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088JYX5N2-de XIDU PhilMac Mini PC Al-Legierung Windows 10 8GB DDR4...'
+sku: 'B088JYX5N2-de'
 tags: [  ]
 actualPrice: 229.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F5YAFC4-de AEG AEF144 Austauschfilter für Rapido & Ergorapido CX7-1...'
+sku: 'B00F5YAFC4-de'
 tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR

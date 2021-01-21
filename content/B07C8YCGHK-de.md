@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C8YCGHK-de Vans Herren Filmore Sneakers Schwarz Suede Canvas...'
+sku: 'B07C8YCGHK-de'
 tags: [  ]
 actualPrice: 50.76 EUR
 currency: EUR

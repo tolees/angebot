@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6NJPXF-de Funko POP Hey Arnold Gerald JOHANSSE'
+sku: 'B07J6NJPXF-de'
 tags: [  ]
 actualPrice: 4.09 EUR
 currency: EUR

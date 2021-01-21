@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DTFSV0E-de ISI Doseernaald Roestvrijstaal 4'
+sku: 'B00DTFSV0E-de'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

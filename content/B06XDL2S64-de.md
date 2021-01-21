@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDL2S64-de Hasbro Hanazuki B8256EU4 - MoodGleam Farben-elektronisches...'
+sku: 'B06XDL2S64-de'
 tags: [  ]
 actualPrice: 4.6 EUR
 currency: EUR

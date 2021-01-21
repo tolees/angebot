@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FN3ZTXK-de Superdry Herren O L Vintage Embroidery L/S Tee...'
+sku: 'B07FN3ZTXK-de'
 tags: [  ]
 actualPrice: 23.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O4E3HI0-de Playmobil 6153 - Strand-Shooting'
+sku: 'B00O4E3HI0-de'
 tags: [  ]
 actualPrice: 6.1 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STTDQBV-de s.Oliver Mädchen 66.908.32.5702 T-Shirt Beige Ecru 0210...'
+sku: 'B07STTDQBV-de'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

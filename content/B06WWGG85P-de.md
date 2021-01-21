@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WWGG85P-de GraviTrax 27590 Starter Set Konstruktionsspielzeug...'
+sku: 'B06WWGG85P-de'
 tags: [  ]
 actualPrice: 32.0 EUR
 currency: EUR

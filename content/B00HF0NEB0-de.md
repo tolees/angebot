@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HF0NEB0-de WMF Ceramill Nature Salz und Pfeffer Mühle Set 2-teilig...'
+sku: 'B00HF0NEB0-de'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

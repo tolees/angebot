@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002NKR4VI-de Melitta Caffeo Solo E950-103 Schlanker Kaffeevollautomat...'
+sku: 'B002NKR4VI-de'
 tags: [  ]
 actualPrice: 249.9 EUR
 currency: EUR

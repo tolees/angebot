@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AFTTQ8I-de Fossil Herren-Uhr FS4813'
+sku: 'B00AFTTQ8I-de'
 tags: [  ]
 actualPrice: 96.09 EUR
 currency: EUR

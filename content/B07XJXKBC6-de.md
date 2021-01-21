@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJXKBC6-de Körperfettwaage INSMART Personenwaage digital mit APP...'
+sku: 'B07XJXKBC6-de'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

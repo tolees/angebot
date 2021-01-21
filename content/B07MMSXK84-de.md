@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMSXK84-de Hasbro FurReal Friends E5679EU4 FurReal König der Löwen -...'
+sku: 'B07MMSXK84-de'
 tags: [  ]
 actualPrice: 111.89 EUR
 currency: EUR

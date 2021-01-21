@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07611WDMG-de Pokemon Tekken Tournament DX Pro Controller [Nintendo Switch]'
+sku: 'B07611WDMG-de'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

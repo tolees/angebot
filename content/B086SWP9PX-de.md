@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086SWP9PX-de Mini Beamer APEMAN Support 1080P Video Projektor ±30° Fern...'
+sku: 'B086SWP9PX-de'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

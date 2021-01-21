@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CDEXB56-de Funko 9299 S1 No Actionfigur Games: Overwatch: Reaper Multi'
+sku: 'B01CDEXB56-de'
 tags: [  ]
 actualPrice: 9.03 EUR
 currency: EUR

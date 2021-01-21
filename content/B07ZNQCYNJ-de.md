@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZNQCYNJ-de BRIKSMAX Led Beleuchtungsset für Lego Technic First...'
+sku: 'B07ZNQCYNJ-de'
 tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR

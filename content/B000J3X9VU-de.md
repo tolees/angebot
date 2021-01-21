@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000J3X9VU-de Waterman S0110720 Füllfederhaltertinte im 50 ml Tintenfass...'
+sku: 'B000J3X9VU-de'
 tags: [  ]
 actualPrice: 4.93 EUR
 currency: EUR

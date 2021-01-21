@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XWT23FZ-de Amazfit GTS'
+sku: 'B07XWT23FZ-de'
 tags: [  ]
 actualPrice: 113.99 EUR
 currency: EUR

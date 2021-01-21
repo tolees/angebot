@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013WY9YKW-de Red Bull Energy Drink Heidelbeere Dosen Getränke Blue...'
+sku: 'B013WY9YKW-de'
 tags: [  ]
 actualPrice: 11.58 EUR
 currency: EUR

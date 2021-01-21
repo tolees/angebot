@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U8IUTNM-de Intel Dual Band Wireless-AC 7265'
+sku: 'B00U8IUTNM-de'
 tags: [  ]
 actualPrice: 14.86 EUR
 currency: EUR

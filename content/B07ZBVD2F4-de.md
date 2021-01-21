@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZBVD2F4-de Diesel Herren Chronograph Quarz Uhr mit Edelstahl Armband...'
+sku: 'B07ZBVD2F4-de'
 tags: [  ]
 actualPrice: 132.51 EUR
 currency: EUR

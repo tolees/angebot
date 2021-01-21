@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTQDFQ1-de Tommy Hilfiger Armbanduhr 1710382'
+sku: 'B07KTQDFQ1-de'
 tags: [  ]
 actualPrice: 127.7 EUR
 currency: EUR

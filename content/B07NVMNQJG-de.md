@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVMNQJG-de Kurkraft Mönchspfeffer Extrakt 180 Kapseln - Original...'
+sku: 'B07NVMNQJG-de'
 tags: [  ]
 actualPrice: 16.9 EUR
 currency: EUR

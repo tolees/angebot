@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HT957YE-de Original Einhell System Akku Power X-Change Lithium Ionen...'
+sku: 'B00HT957YE-de'
 tags: [  ]
 actualPrice: 35.69 EUR
 currency: EUR

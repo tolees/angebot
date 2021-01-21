@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002SXNXUG-de Nikon BF-1B Gehäusedeckel'
+sku: 'B002SXNXUG-de'
 tags: [  ]
 actualPrice: 4.6 EUR
 currency: EUR

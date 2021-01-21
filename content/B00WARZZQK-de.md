@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WARZZQK-de Der dritte Mann Digital Remastered 2 Discs [Special Edition]'
+sku: 'B00WARZZQK-de'
 tags: [  ]
 actualPrice: 5.09 EUR
 currency: EUR

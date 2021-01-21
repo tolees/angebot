@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5MQX4N-de Sony MDR-XB950N1 kabelloser Kopfhörer mit...'
+sku: 'B01N5MQX4N-de'
 tags: [  ]
 actualPrice: 98 EUR
 currency: EUR

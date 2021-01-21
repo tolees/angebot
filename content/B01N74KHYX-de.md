@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N74KHYX-de Princess Raclette Grill in Bambusausführung - für bis zu 8...'
+sku: 'B01N74KHYX-de'
 tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR

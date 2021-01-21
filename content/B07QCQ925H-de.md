@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QCQ925H-de Funko 40879 POP Vinyl Animation: Disenchantment-King Zog...'
+sku: 'B07QCQ925H-de'
 tags: [  ]
 actualPrice: 9.08 EUR
 currency: EUR

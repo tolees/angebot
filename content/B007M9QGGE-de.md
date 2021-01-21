@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007M9QGGE-de THOMAS SABO Unisex Anhänger Kreuz Anhänger Kreuz 925er...'
+sku: 'B007M9QGGE-de'
 tags: [  ]
 actualPrice: 44.78 EUR
 currency: EUR

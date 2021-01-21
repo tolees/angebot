@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYZM75C-de Microsoft Office 365 Personal multilingual | 1 Nutzer |...'
+sku: 'B07FYZM75C-de'
 tags: [  ]
 actualPrice: 49.98 EUR
 currency: EUR

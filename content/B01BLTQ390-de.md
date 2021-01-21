@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BLTQ390-de Echo Show Vorherige Generation - 1. Gen. Zertifiziert und...'
+sku: 'B01BLTQ390-de'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

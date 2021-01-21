@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9RJ1LL-de Aigostar Handrührer Klein Edelstahl Quir 6...'
+sku: 'B07L9RJ1LL-de'
 tags: [  ]
 actualPrice: 18.39 EUR
 currency: EUR

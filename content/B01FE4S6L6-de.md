@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FE4S6L6-de 10x Druckerpatronen Komp. für Epson T1301 XL für Stylus...'
+sku: 'B01FE4S6L6-de'
 tags: [  ]
 actualPrice: 12.5 EUR
 currency: EUR

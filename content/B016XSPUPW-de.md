@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016XSPUPW-de WOLF-Garten - Trocken-Rasen Premium L-TP 50 rot'
+sku: 'B016XSPUPW-de'
 tags: [  ]
 actualPrice: 12.96 EUR
 currency: EUR

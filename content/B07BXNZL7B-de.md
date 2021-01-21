@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BXNZL7B-de EZVIZ ezTube 720p Überwachungskamera aussen WiFi 2.4Ghz...'
+sku: 'B07BXNZL7B-de'
 tags: [  ]
 actualPrice: 54.17 EUR
 currency: EUR

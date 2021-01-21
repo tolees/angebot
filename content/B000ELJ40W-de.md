@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000ELJ40W-de Playmobil 4132 SuperSet Spielplatz'
+sku: 'B000ELJ40W-de'
 tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR

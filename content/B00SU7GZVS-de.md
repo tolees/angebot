@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SU7GZVS-de Marvel s Agents of S.H.I.E.L.D. - Die komplette erste...'
+sku: 'B00SU7GZVS-de'
 tags: [  ]
 actualPrice: 8.04 EUR
 currency: EUR

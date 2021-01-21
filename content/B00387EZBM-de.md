@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00387EZBM-de Bosch BBZ154HF HEPA Filter'
+sku: 'B00387EZBM-de'
 tags: [  ]
 actualPrice: 4.87 EUR
 currency: EUR

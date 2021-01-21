@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010SWJVS6-de JBL Xtreme Spritzwasserfester Tragbarer Bluetooth...'
+sku: 'B010SWJVS6-de'
 tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR

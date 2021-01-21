@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085VPKXGM-de Dittzz LED Licht-Set für Baustein Spielzeug...'
+sku: 'B085VPKXGM-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

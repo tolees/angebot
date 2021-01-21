@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B7IO72Q-de Rasch Tapeten 226751 Kollektion Kids & Teens II silber'
+sku: 'B00B7IO72Q-de'
 tags: [  ]
 actualPrice: 7.0 EUR
 currency: EUR

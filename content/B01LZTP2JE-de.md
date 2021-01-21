@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZTP2JE-de Samsung WW70K4420YW/EG AddWash Waschmaschine...'
+sku: 'B01LZTP2JE-de'
 tags: [  ]
 actualPrice: 399.99 EUR
 currency: EUR

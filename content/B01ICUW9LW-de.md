@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ICUW9LW-de KLIM Chroma Gaming Tastatur QWERTZ DEUTSCH mit Kabel USB +...'
+sku: 'B01ICUW9LW-de'
 tags: [  ]
 actualPrice: 15.98 EUR
 currency: EUR

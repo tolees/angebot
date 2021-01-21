@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0041WGQOM-de Lena 65823 Magnet Holzkiste mit 37 magnetischen...'
+sku: 'B0041WGQOM-de'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

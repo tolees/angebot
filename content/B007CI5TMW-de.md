@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007CI5TMW-de Haribo Roulette 50 Rollen 1.25 kg'
+sku: 'B007CI5TMW-de'
 tags: [  ]
 actualPrice: 9.83 EUR
 currency: EUR

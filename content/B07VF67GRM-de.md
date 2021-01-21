@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VF67GRM-de WYANG Kerzenhalter Kerzenhalter Eisen Schwarz Gold Runde...'
+sku: 'B07VF67GRM-de'
 tags: [  ]
 actualPrice: 12.69 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHP4W36-de Soundcore Flare Tragbarer & Kompakter Bluetooth...'
+sku: 'B07BHP4W36-de'
 tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR

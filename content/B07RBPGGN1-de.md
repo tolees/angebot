@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RBPGGN1-de YLCJ Bronze Industrial Vintage doble cabeza Chunky...'
+sku: 'B07RBPGGN1-de'
 tags: [  ]
 actualPrice: 28.02 EUR
 currency: EUR

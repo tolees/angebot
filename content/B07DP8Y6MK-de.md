@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DP8Y6MK-de Philips 5000 Serie EP5335/10 Kaffeevollautomat 6...'
+sku: 'B07DP8Y6MK-de'
 tags: [  ]
 actualPrice: 599.0 EUR
 currency: EUR

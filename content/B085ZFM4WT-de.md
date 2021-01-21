@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085ZFM4WT-de VATOS Bausteine Set für Mädchen 568 PCS Prinzessin Burg...'
+sku: 'B085ZFM4WT-de'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

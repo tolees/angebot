@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004AO0HMI-de Jillian Michaels - Shred: Schlank in 30 Tagen'
+sku: 'B004AO0HMI-de'
 tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR

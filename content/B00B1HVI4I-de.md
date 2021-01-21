@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B1HVI4I-de Belkin Dual KfZ-Ladegerät 2.1A 10 Watt geeignet für iPhone...'
+sku: 'B00B1HVI4I-de'
 tags: [  ]
 actualPrice: 23.91 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHPXHQS-de Echo Dot 3. Gen. Intelligenter Lautsprecher mit Alexa...'
+sku: 'B07PHPXHQS-de'
 tags: [  ]
 actualPrice: 48.72 EUR
 currency: EUR

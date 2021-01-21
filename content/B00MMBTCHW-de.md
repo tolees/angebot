@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MMBTCHW-de Remington Haarglätter Pro Sleek & Curl S6505 abgerundetes...'
+sku: 'B00MMBTCHW-de'
 tags: [  ]
 actualPrice: 24.0 EUR
 currency: EUR

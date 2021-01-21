@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007UZPP94-de Lacoste Herren Sport Poloshirt L1230-00 Einfarbig Gr. XX-...'
+sku: 'B007UZPP94-de'
 tags: [  ]
 actualPrice: 40.95 EUR
 currency: EUR

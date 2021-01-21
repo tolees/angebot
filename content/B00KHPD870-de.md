@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KHPD870-de Belkin Metallic Lightning-/USB iPhone Ladekabel geeignet...'
+sku: 'B00KHPD870-de'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

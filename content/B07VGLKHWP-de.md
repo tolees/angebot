@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGLKHWP-de motorola one zoom mit Alexa Hands-Free Smartphone 6...'
+sku: 'B07VGLKHWP-de'
 tags: [  ]
 actualPrice: 299.99 EUR
 currency: EUR

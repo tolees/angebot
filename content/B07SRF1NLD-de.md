@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRF1NLD-de Wer Sagt Denn Das?'
+sku: 'B07SRF1NLD-de'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00106XCYY-de Samsonite Aeris Upright L Koffer 78 cm 118.5 L Schwarz Black'
+sku: 'B00106XCYY-de'
 tags: [  ]
 actualPrice: 119.4 EUR
 currency: EUR

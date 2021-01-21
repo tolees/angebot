@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075FVDLJK-de Norton Security Standard 2019 | 1 Gerät | 1 Jahr |...'
+sku: 'B075FVDLJK-de'
 tags: [  ]
 actualPrice: 9.49 EUR
 currency: EUR

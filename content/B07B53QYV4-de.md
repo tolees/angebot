@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B53QYV4-de G-STAR RAW Damen Lynn Mid Skinny Jeans Lt Aged 8968-424...'
+sku: 'B07B53QYV4-de'
 tags: [  ]
 actualPrice: 42.02 EUR
 currency: EUR

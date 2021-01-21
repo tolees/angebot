@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QPRQZMC-de EIVOTOR 6 in 1 Flaschenwärmer Baby Bottle Warmer...'
+sku: 'B07QPRQZMC-de'
 tags: [  ]
 actualPrice: 36.89 EUR
 currency: EUR

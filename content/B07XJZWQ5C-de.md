@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJZWQ5C-de KASTEWILL Bluetooth Adapter 5.0 Transmitter Empfänger 80m...'
+sku: 'B07XJZWQ5C-de'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

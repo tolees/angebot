@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT8XFHL-de Briksmax Led Beleuchtungsset für Ferris Wheel Kompatibel...'
+sku: 'B07PT8XFHL-de'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

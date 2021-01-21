@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CV6D2KW-de JACK & JONES Herren JFWALBANY Leather Brown Stone STS...'
+sku: 'B07CV6D2KW-de'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

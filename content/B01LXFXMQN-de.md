@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXFXMQN-de Bosch Ortungsgerät Truvo 3 x AAA Batterien Erfassungstiefe...'
+sku: 'B01LXFXMQN-de'
 tags: [  ]
 actualPrice: 37.95 EUR
 currency: EUR

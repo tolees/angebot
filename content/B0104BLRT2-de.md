@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0104BLRT2-de Sylvanian Families 5220 Einrichtungsset für Starter Haus...'
+sku: 'B0104BLRT2-de'
 tags: [  ]
 actualPrice: 25.2 EUR
 currency: EUR

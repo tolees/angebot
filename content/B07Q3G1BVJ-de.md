@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q3G1BVJ-de Hunter Mason Plissee Klemmfix Faltrollo ohne Bohren...'
+sku: 'B07Q3G1BVJ-de'
 tags: [  ]
 actualPrice: 14.39 EUR
 currency: EUR

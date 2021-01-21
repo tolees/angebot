@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000UYUWGI-de GEDORE E 620 H-1500 Ersatzstiel ROTBAND-Plus Hickory 280 mm'
+sku: 'B000UYUWGI-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

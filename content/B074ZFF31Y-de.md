@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074ZFF31Y-de De Longhi Nespresso EN 500.W Kaffeemaschine 1400 W 1 l 19...'
+sku: 'B074ZFF31Y-de'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGFZF4L-de BERTASCHE Laptoptasche 15.6 Zoll Notebooktasche Schulter...'
+sku: 'B07VGFZF4L-de'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

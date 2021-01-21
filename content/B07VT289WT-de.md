@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VT289WT-de USB WiFi Digital Mikroskop Pancellent 1000 x Vergrößerung...'
+sku: 'B07VT289WT-de'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

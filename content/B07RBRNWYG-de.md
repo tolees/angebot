@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RBRNWYG-de YLCJ Milan Nordic American Retro industria pesada metal...'
+sku: 'B07RBRNWYG-de'
 tags: [  ]
 actualPrice: 65.97 EUR
 currency: EUR

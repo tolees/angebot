@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P96L7TV-de Funko 42038 POP Vinyl: WWE-Undertaker Hooded Sammelbares...'
+sku: 'B07P96L7TV-de'
 tags: [  ]
 actualPrice: 10.52 EUR
 currency: EUR

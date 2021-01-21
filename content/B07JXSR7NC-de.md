@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JXSR7NC-de FYLINA Handyhalterung Fahrrad Handyhalterung Motorrad 360°...'
+sku: 'B07JXSR7NC-de'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

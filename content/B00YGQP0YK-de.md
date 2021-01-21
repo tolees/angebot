@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YGQP0YK-de Westmark Bratensaft-/Marinier-Spritze mit abnehmbarer...'
+sku: 'B00YGQP0YK-de'
 tags: [  ]
 actualPrice: 10.98 EUR
 currency: EUR

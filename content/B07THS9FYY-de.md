@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THS9FYY-de LIGHTAILING Licht-Set Für Marvel Super Heroes Iron Mans...'
+sku: 'B07THS9FYY-de'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

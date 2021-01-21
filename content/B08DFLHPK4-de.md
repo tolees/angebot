@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DFLHPK4-de LiveRowing Bluetooth Kopfhörer Kabellose Kopfhörer mit...'
+sku: 'B08DFLHPK4-de'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

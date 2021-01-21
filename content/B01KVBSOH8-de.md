@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KVBSOH8-de LOGONA Naturkosmetik mann After Shave Balm Beruhigend &...'
+sku: 'B01KVBSOH8-de'
 tags: [  ]
 actualPrice: 8.39 EUR
 currency: EUR

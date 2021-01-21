@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JPB373W-de Microsoft Wireless Mobile Mouse 1850 Maus rot kabellos für...'
+sku: 'B00JPB373W-de'
 tags: [  ]
 actualPrice: 9.46 EUR
 currency: EUR

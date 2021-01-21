@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014RZTDOW-de Eizo EV2750-BK 68 5 cm 27 Zoll Monitor DVI-D HDMI USB 3.0...'
+sku: 'B014RZTDOW-de'
 tags: [  ]
 actualPrice: 383.0 EUR
 currency: EUR

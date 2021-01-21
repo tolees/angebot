@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WPTYSDM-de Lindt Spezialitäten 2er pack 2 x 250 g'
+sku: 'B07WPTYSDM-de'
 tags: [  ]
 actualPrice: 11.01 EUR
 currency: EUR

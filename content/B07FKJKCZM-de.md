@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKJKCZM-de Philips HR2382/15 Pastamaker 200 W vollautomatische...'
+sku: 'B07FKJKCZM-de'
 tags: [  ]
 actualPrice: 162.99 EUR
 currency: EUR

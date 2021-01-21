@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XGWQNS6-de Funko 13555 Herr der Ringe POP Vinylfigur: LOTR/Hobbit:...'
+sku: 'B06XGWQNS6-de'
 tags: [  ]
 actualPrice: 10.55 EUR
 currency: EUR

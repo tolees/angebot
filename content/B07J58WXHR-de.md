@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J58WXHR-de Medion E4273 35 5 cm 14 Zoll Full HD Touch Convertible...'
+sku: 'B07J58WXHR-de'
 tags: [  ]
 actualPrice: 207.0 EUR
 currency: EUR

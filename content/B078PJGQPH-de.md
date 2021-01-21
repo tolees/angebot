@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078PJGQPH-de Coleman Blackout Zelt 4 Personen 4 Mann Zelt wasserdicht...'
+sku: 'B078PJGQPH-de'
 tags: [  ]
 actualPrice: 115.99 EUR
 currency: EUR

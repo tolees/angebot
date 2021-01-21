@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBMKTKW-de Original Album Classics'
+sku: 'B01NBMKTKW-de'
 tags: [  ]
 actualPrice: 7.84 EUR
 currency: EUR

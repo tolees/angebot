@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZWBNZNY-de FBI - Staffel Eins [5 DVDs]'
+sku: 'B07ZWBNZNY-de'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

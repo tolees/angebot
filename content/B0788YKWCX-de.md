@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0788YKWCX-de PORSCHE Carrera-Rennmotor: 4-Zylinder Boxermodell vom Typ...'
+sku: 'B0788YKWCX-de'
 tags: [  ]
 actualPrice: 156.96 EUR
 currency: EUR

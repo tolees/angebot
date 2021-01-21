@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JY1B7PL-de JACK & JONES Herren Slim Fit Jeans Glenn ORIGINAL AM 814...'
+sku: 'B07JY1B7PL-de'
 tags: [  ]
 actualPrice: 23.76 EUR
 currency: EUR

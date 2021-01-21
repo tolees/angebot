@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086QXGMHH-de HMY Transparente Florero vidrio Florero hidropónico...'
+sku: 'B086QXGMHH-de'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

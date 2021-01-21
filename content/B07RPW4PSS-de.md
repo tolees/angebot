@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RPW4PSS-de Pioneer DDJ-200 - Bluetooth-Einstiegscontroller für DJs...'
+sku: 'B07RPW4PSS-de'
 tags: [  ]
 actualPrice: 139.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0185UNQYI-de SLV GU10 ES111 LED Leuchtmittel 11 1 cm Ø | 6 5 Watt 2700...'
+sku: 'B0185UNQYI-de'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

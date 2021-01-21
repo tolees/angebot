@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L95HCN9-de Auto Starthilfe TACKLIFE T6 800A 18000mAh Tragbare...'
+sku: 'B07L95HCN9-de'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

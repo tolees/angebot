@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGPJLXK-de Smoby – Pretty Haus - Spielhaus für Kinder für drinnen und...'
+sku: 'B07LGPJLXK-de'
 tags: [  ]
 actualPrice: 124.94 EUR
 currency: EUR

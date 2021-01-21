@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXQ4Z4R-de DELSEY PARIS COMETE FASHION azzurro'
+sku: 'B07MXQ4Z4R-de'
 tags: [  ]
 actualPrice: 99.95 EUR
 currency: EUR

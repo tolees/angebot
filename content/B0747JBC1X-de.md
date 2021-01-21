@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0747JBC1X-de LED Discokugel SOLMORE 51LEDs 12W 7 Farben Discolampe...'
+sku: 'B0747JBC1X-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

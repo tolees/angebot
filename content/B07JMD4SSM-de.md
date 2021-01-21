@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMD4SSM-de Meereskönig mit Haikutsche'
+sku: 'B07JMD4SSM-de'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

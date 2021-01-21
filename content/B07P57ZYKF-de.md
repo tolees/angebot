@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P57ZYKF-de PLAYMOBIL:THE MOVIE 70074 Marla Del und Pferd mit Flügeln...'
+sku: 'B07P57ZYKF-de'
 tags: [  ]
 actualPrice: 6.58 EUR
 currency: EUR

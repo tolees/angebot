@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGQ6KMR-de Lenovo IdeaPad C340 35 6 cm 14 Zoll 1920x1080 FHD IPS...'
+sku: 'B07PGQ6KMR-de'
 tags: [  ]
 actualPrice: 399.0 EUR
 currency: EUR

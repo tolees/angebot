@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076ZGN9NS-de Asmodee CGED0036 - Codenames Duett Familienspiel deutsch'
+sku: 'B076ZGN9NS-de'
 tags: [  ]
 actualPrice: 12.59 EUR
 currency: EUR

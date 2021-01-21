@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWBYZZ8-de Balter Turmventilator mit Fernbedienung ✓ Leise ✓ 120cm...'
+sku: 'B07VWBYZZ8-de'
 tags: [  ]
 actualPrice: 55.92 EUR
 currency: EUR

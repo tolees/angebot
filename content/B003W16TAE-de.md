@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003W16TAE-de Tafelmusik'
+sku: 'B003W16TAE-de'
 tags: [  ]
 actualPrice: 11.46 EUR
 currency: EUR

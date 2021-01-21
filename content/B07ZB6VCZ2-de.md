@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZB6VCZ2-de CMaster Roboter STEM Spielzeug 576 Stück Konstruktions...'
+sku: 'B07ZB6VCZ2-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

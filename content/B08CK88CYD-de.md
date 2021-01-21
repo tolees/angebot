@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CK88CYD-de Arbily 【2020 Neues Upgrade】 Bluetooth Kopfhörer In Ear...'
+sku: 'B08CK88CYD-de'
 tags: [  ]
 actualPrice: 36.54 EUR
 currency: EUR

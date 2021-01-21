@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019MFNO2Y-de Rollei Actioncam Zubehör Set Outdoor I 23-teiliges Set I...'
+sku: 'B019MFNO2Y-de'
 tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR

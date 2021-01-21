@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGPPBG2-de Elektronische Tasche Kabeltasche Kabelorganizer Doppelte...'
+sku: 'B07PGPPBG2-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

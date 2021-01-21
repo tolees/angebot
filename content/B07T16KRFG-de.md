@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T16KRFG-de Ni no Kuni: Der Fluch der Weißen Königin - [Nintendo Switch]'
+sku: 'B07T16KRFG-de'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

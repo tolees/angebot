@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7PL93P-de JOMARTO Smart Steckdose Wlan Steckdose Alexa Steckdose...'
+sku: 'B07S7PL93P-de'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

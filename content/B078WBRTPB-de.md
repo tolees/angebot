@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WBRTPB-de iiyama ProLite XB2779QQS-S1 68 3cm 27 Zoll IPS LED-Monitor...'
+sku: 'B078WBRTPB-de'
 tags: [  ]
 actualPrice: 297.0 EUR
 currency: EUR

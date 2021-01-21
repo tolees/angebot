@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J4JKTZY-de Invicta 8930OB Pro Diver Unisex Uhr Edelstahl Automatik...'
+sku: 'B00J4JKTZY-de'
 tags: [  ]
 actualPrice: 78.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHMWRQF-de Samsung LS03R The Frame 108 cm 43 Zoll QLED Lifestyle...'
+sku: 'B07NHMWRQF-de'
 tags: [  ]
 actualPrice: 697.0 EUR
 currency: EUR

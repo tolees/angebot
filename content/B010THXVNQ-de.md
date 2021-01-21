@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010THXVNQ-de Sony Alpha 7RM2 E-Mount Vollformat Digitalkamera ILCE-7RM2...'
+sku: 'B010THXVNQ-de'
 tags: [  ]
 actualPrice: 850.0 EUR
 currency: EUR

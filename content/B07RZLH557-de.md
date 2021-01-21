@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZLH557-de Levi s Herren The Original T-Shirt Grau Hm Patch Og Tee...'
+sku: 'B07RZLH557-de'
 tags: [  ]
 actualPrice: 14.52 EUR
 currency: EUR

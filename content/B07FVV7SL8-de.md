@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FVV7SL8-de Laser Entfernungsmesser Distanz 50M LOMVUM Laser Messgerät...'
+sku: 'B07FVV7SL8-de'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

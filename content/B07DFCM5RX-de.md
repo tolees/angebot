@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFCM5RX-de Funko B07DFCM5RX Marvel Studios 10: Iron Man Chrome POP...'
+sku: 'B07DFCM5RX-de'
 tags: [  ]
 actualPrice: 7.64 EUR
 currency: EUR

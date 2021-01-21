@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OVRTXT2-de Im Labyrinth des Schweigens'
+sku: 'B00OVRTXT2-de'
 tags: [  ]
 actualPrice: 4.29 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPLSWXS-de Koogeek Smart & Bluetooth Elektronische Handgelenk...'
+sku: 'B07TPLSWXS-de'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

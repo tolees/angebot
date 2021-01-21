@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X5RQBN6-de LED Einbaustrahler Dimmbar Schwenkbar Ultra Flach 5er Set...'
+sku: 'B07X5RQBN6-de'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

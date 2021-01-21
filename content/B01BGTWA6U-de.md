@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGTWA6U-de G-STAR RAW Herren Rovic Zip 3d Straight Tapered Hose...'
+sku: 'B01BGTWA6U-de'
 tags: [  ]
 actualPrice: 79.96 EUR
 currency: EUR

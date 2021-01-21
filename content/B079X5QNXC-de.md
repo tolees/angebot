@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079X5QNXC-de Gillette Fusion5 Rasierklingen für Männer 14 Stück'
+sku: 'B079X5QNXC-de'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

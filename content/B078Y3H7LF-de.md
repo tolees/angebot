@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078Y3H7LF-de Remington Barttrimmer Herren Lithium mit abnehmbarer...'
+sku: 'B078Y3H7LF-de'
 tags: [  ]
 actualPrice: 32.49 EUR
 currency: EUR

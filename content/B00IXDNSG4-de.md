@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IXDNSG4-de axentia Türgarderobe mit 6 Haken Kleiderhaken für die Tür...'
+sku: 'B00IXDNSG4-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

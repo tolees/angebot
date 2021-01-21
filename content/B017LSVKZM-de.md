@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017LSVKZM-de Braun Haarschneider HC5090 – Ultimatives Haare schneiden...'
+sku: 'B017LSVKZM-de'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BK1KYDR-de Muzili Fitness Armband Wasserdicht Fitness Tracker Sport...'
+sku: 'B07BK1KYDR-de'
 tags: [  ]
 actualPrice: 13.43 EUR
 currency: EUR

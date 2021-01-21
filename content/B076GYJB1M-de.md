@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076GYJB1M-de [Neue Version] SYCEES 29 in 1 Mini Schraubendreher Set...'
+sku: 'B076GYJB1M-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

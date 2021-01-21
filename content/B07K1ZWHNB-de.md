@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K1ZWHNB-de Dowinx Gaming Stuhl Ergonomischer Racing Stil Lehnstuhl...'
+sku: 'B07K1ZWHNB-de'
 tags: [  ]
 actualPrice: 179.99 EUR
 currency: EUR

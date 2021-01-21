@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WLN43JJ-de Rieker Damen Frühjahr/Sommer 64260 Geschlossene Sandalen...'
+sku: 'B07WLN43JJ-de'
 tags: [  ]
 actualPrice: 16.22 EUR
 currency: EUR

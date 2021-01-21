@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HN6P7NG-de Ballon [Blu-ray]'
+sku: 'B07HN6P7NG-de'
 tags: [  ]
 actualPrice: 6.33 EUR
 currency: EUR

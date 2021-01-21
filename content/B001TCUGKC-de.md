@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001TCUGKC-de Samsung GT-B2100 Outdoor Handy 1 3 MP-Kamera MP3...'
+sku: 'B001TCUGKC-de'
 tags: [  ]
 actualPrice: 149.97 EUR
 currency: EUR

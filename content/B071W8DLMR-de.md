@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071W8DLMR-de Netgear RR230400-100NES Ready-NAS Network Attached Storage'
+sku: 'B071W8DLMR-de'
 tags: [  ]
 actualPrice: 313.0 EUR
 currency: EUR

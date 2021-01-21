@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GV3WP6-de beyerdynamic professionelles FOX USB Mikrofon für...'
+sku: 'B078GV3WP6-de'
 tags: [  ]
 actualPrice: 104.0 EUR
 currency: EUR

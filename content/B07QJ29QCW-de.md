@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJ29QCW-de Funko B07QJ29QCW POP Vinyl Games Bandicoot-Crash...'
+sku: 'B07QJ29QCW-de'
 tags: [  ]
 actualPrice: 10.43 EUR
 currency: EUR

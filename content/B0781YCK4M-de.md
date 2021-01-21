@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0781YCK4M-de caseable Kindle und Kindle Paperwhite Hülle Gold Dots'
+sku: 'B0781YCK4M-de'
 tags: [  ]
 actualPrice: 29.75 EUR
 currency: EUR

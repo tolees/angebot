@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BCQIIMS-de Philips DryCare Advanced Haartrockner mit ThermoProtect...'
+sku: 'B00BCQIIMS-de'
 tags: [  ]
 actualPrice: 14.36 EUR
 currency: EUR

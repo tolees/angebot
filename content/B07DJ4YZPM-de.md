@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ4YZPM-de Eastpak Orbit Mini Rucksack 34 cm 10 L Grün Crafty Moss'
+sku: 'B07DJ4YZPM-de'
 tags: [  ]
 actualPrice: 23.5 EUR
 currency: EUR

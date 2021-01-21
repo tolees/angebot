@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XC75Q6H-de Samsung Tablet Tasche EF-BT820PBEGWW Book Hülle leichteres...'
+sku: 'B06XC75Q6H-de'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

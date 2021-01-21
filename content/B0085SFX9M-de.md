@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0085SFX9M-de JACK & JONES Herren T-Shirt 12058529 Basic O-Neck Tee...'
+sku: 'B0085SFX9M-de'
 tags: [  ]
 actualPrice: 8.83 EUR
 currency: EUR

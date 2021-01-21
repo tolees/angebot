@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F4VZJCI-de HP PageWide 352dw Tintenstrahldrucker Duplex WLAN Netzwerk...'
+sku: 'B01F4VZJCI-de'
 tags: [  ]
 actualPrice: 229.0 EUR
 currency: EUR

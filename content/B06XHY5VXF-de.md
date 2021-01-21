@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHY5VXF-de Sabrent Bluetooth-Adapter USB Bluetooth 4.0 Micro Adapter...'
+sku: 'B06XHY5VXF-de'
 tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR

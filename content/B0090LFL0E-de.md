@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0090LFL0E-de Nintendo Wii U - Konsole Premium Pack 32 GB schwarz mit...'
+sku: 'B0090LFL0E-de'
 tags: [  ]
 actualPrice: 129.95 EUR
 currency: EUR

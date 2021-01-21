@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014UXZMEG-de Dremel Platin Edition 4000 Multifunktionswerkzeug 175W Set...'
+sku: 'B014UXZMEG-de'
 tags: [  ]
 actualPrice: 84.99 EUR
 currency: EUR

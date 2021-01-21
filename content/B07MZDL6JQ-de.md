@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZDL6JQ-de MUSTANG Herren Regular Fit Michigan Straight Jeans'
+sku: 'B07MZDL6JQ-de'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

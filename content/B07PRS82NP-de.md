@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRS82NP-de Samsung RU7409 163 cm 65 Zoll LED Fernseher Ultra HD HDR...'
+sku: 'B07PRS82NP-de'
 tags: [  ]
 actualPrice: 599.0 EUR
 currency: EUR

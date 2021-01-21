@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075S9KRSZ-de Mütze Baumwolle Herren schwarz Made in Germany - Beanie...'
+sku: 'B075S9KRSZ-de'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

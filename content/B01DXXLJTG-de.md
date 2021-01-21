@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DXXLJTG-de Metroid Prime: Federation Force [3DS]'
+sku: 'B01DXXLJTG-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

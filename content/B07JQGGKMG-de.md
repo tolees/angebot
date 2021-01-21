@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQGGKMG-de iiniim Damen Festlich Kleid Königin Prinzessin Kleid...'
+sku: 'B07JQGGKMG-de'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

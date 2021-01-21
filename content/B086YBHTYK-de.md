@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086YBHTYK-de Quick-Connect INVERTER Split Klimaanlage mit Wärmepumpe 3...'
+sku: 'B086YBHTYK-de'
 tags: [  ]
 actualPrice: 649.9 EUR
 currency: EUR

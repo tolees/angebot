@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q6ZKWCK-de deAO 2-in-1 Puppenhaus Handtasche Tragetasche Spielset mit...'
+sku: 'B07Q6ZKWCK-de'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

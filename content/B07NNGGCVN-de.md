@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNGGCVN-de Panasonic In-Ear Kopfhörer Bluetooth RP-NJ310BE-K 6 h...'
+sku: 'B07NNGGCVN-de'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

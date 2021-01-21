@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCZBXQ8-de G-STAR RAW Herren 3301 Straight Jeans Antic Charcoal...'
+sku: 'B07RCZBXQ8-de'
 tags: [  ]
 actualPrice: 33.23 EUR
 currency: EUR

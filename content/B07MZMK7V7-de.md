@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZMK7V7-de Vans Damen Filmore Decon Sneaker Pink Suede Lilac...'
+sku: 'B07MZMK7V7-de'
 tags: [  ]
 actualPrice: 27.19 EUR
 currency: EUR

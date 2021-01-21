@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F19Q7YI-de GoPro Front Saugnapfhalterung - gebogene vertikale...'
+sku: 'B00F19Q7YI-de'
 tags: [  ]
 actualPrice: 21.9 EUR
 currency: EUR

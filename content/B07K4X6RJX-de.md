@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K4X6RJX-de Lightailing Licht-Set Für Creator Tower Bridge Modell -...'
+sku: 'B07K4X6RJX-de'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

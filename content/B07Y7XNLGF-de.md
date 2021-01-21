@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y7XNLGF-de LED Unterbauleuchte Schrankleuchte Heller Lichtleiste mit...'
+sku: 'B07Y7XNLGF-de'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

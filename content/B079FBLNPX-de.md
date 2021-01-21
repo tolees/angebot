@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FBLNPX-de Tristar VE-5894 Ventilateur Standventilator-Durchmesser...'
+sku: 'B079FBLNPX-de'
 tags: [  ]
 actualPrice: 14.49 EUR
 currency: EUR

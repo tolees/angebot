@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084GPNG9V-de SodaStream Sirup Pepsi Cola - 1x Flasche ergibt 9 Liter...'
+sku: 'B084GPNG9V-de'
 tags: [  ]
 actualPrice: 3.79 EUR
 currency: EUR

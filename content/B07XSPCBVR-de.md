@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XSPCBVR-de L.O.L. Surprise! 565222E7C Car-Pool Coupe Puppenauto mit...'
+sku: 'B07XSPCBVR-de'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

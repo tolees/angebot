@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3B3HKR-de Hasbro Gaming E3278100 Monopoly Game of Thrones deutsche...'
+sku: 'B07N3B3HKR-de'
 tags: [  ]
 actualPrice: 30.25 EUR
 currency: EUR

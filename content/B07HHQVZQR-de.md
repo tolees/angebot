@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HHQVZQR-de Villeroy & Boch – Vapiano Suppenschalen-Set 2 Stück 700 ml...'
+sku: 'B07HHQVZQR-de'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

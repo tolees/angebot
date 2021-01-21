@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NIB80U-de Ecco ECCO OFFROAD Herren Outdoor Sandale Schwarz...'
+sku: 'B000NIB80U-de'
 tags: [  ]
 actualPrice: 49.7 EUR
 currency: EUR

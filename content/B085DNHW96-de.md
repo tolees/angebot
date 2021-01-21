@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085DNHW96-de 100 Blatt A4 Farbigen Kopierpapier Papier Set aus 10...'
+sku: 'B085DNHW96-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

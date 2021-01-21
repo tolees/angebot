@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6FL99M-de Playmobil 70207 Dollhouse Gemütliches Wohnzimmer ab 4...'
+sku: 'B07P6FL99M-de'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T9C4HMH-de Fintie Hülle für Kindle Paperwhite - Die dünnste und...'
+sku: 'B07T9C4HMH-de'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

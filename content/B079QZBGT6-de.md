@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079QZBGT6-de Tefal Smart Protect FV4980 Dampfbügeleisen 2600 Watt extra...'
+sku: 'B079QZBGT6-de'
 tags: [  ]
 actualPrice: 33.86 EUR
 currency: EUR

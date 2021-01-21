@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0751GBCKN-de Garmin vívoactive 3 GPS-Fitness-Smartwatch -...'
+sku: 'B0751GBCKN-de'
 tags: [  ]
 actualPrice: 139.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GRK2QY2-de CITIZEN Promaster Marine Eco-Drive Herren Taucheruhr...'
+sku: 'B07GRK2QY2-de'
 tags: [  ]
 actualPrice: 198.1 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5VDXW1-de Razer Huntsman Tournament Edition - TKL Mechanical Gaming...'
+sku: 'B07V5VDXW1-de'
 tags: [  ]
 actualPrice: 119.08 EUR
 currency: EUR

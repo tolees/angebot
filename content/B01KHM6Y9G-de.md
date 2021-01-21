@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KHM6Y9G-de tegut... Gurken Cornichons 300 g'
+sku: 'B01KHM6Y9G-de'
 tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EJAJY3K-de Märklin Start up 29641 - Startpackung "Moderner...'
+sku: 'B01EJAJY3K-de'
 tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR

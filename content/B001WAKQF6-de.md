@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001WAKQF6-de Skagen Damen-Uhren 358XSSLBC'
+sku: 'B001WAKQF6-de'
 tags: [  ]
 actualPrice: 52.74 EUR
 currency: EUR

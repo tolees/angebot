@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M6QQB2T-de Meerjungfrau Decke Geschenke Beste Freundin -...'
+sku: 'B07M6QQB2T-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

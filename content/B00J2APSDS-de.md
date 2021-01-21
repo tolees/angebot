@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J2APSDS-de Birkenstock Madrid EVA Damen Pantoletten Weiß White 40 EU'
+sku: 'B00J2APSDS-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

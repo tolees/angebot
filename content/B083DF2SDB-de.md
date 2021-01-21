@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083DF2SDB-de adsf Tentacles Double Stimulation Toy - Sie Müssen Hart...'
+sku: 'B083DF2SDB-de'
 tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR

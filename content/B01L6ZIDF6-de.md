@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L6ZIDF6-de VHOME Meerjungfrau Decke Geschenke Beste Freundin -...'
+sku: 'B01L6ZIDF6-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

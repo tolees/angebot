@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0117ZTDSG-de AVM FRITZ!Box 7430 VDSL-/ADSL2+ WLAN N 450 MBit/s 2 4 GHz...'
+sku: 'B0117ZTDSG-de'
 tags: [  ]
 actualPrice: 78.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011GVHQZI-de Mousehouse Gifts Rote Dinosaurier Kinder Spardose...'
+sku: 'B011GVHQZI-de'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

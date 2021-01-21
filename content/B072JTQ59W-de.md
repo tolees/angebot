@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072JTQ59W-de Philips SHL3175WT BASS+ Over-Ear Kopfhörer mit Mikrofon...'
+sku: 'B072JTQ59W-de'
 tags: [  ]
 actualPrice: 6.5 EUR
 currency: EUR

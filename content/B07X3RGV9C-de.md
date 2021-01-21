@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X3RGV9C-de NUBWO PS4 Headset Xbox one Stereo-Gaming-Kopfhörer mit...'
+sku: 'B07X3RGV9C-de'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

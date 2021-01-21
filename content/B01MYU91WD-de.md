@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYU91WD-de Puma Basket Heart Patent Wn s Damen Sneakers Weiß Puma...'
+sku: 'B01MYU91WD-de'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

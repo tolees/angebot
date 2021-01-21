@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLX8D8H-de SAMSONITE PRO-DLX 5 - Wheeled Business Case 15.6"...'
+sku: 'B07DLX8D8H-de'
 tags: [  ]
 actualPrice: 169.92 EUR
 currency: EUR

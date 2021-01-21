@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XP5CLFY-de Makita Akku-Handkreissäge 57 mm 18 V/5 0 Ah DHS680RTJ'
+sku: 'B00XP5CLFY-de'
 tags: [  ]
 actualPrice: 259.99 EUR
 currency: EUR

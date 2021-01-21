@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HPXVIPQ-de Gardena Comfort FLEX Schlauch 13 mm 1/2 Zoll 10 m:...'
+sku: 'B00HPXVIPQ-de'
 tags: [  ]
 actualPrice: 9.79 EUR
 currency: EUR

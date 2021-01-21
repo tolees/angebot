@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VR4MEA2-de Ravensburger 19549 Star Wars Episode VII 1000-teilig Puzzle'
+sku: 'B00VR4MEA2-de'
 tags: [  ]
 actualPrice: 8.64 EUR
 currency: EUR

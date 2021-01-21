@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076DQWD8G-de 24 Farben Luft trockenen Lehm Ultra Light Modellierung...'
+sku: 'B076DQWD8G-de'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

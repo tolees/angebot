@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VV2ZM5D-de Krups Nescafé Dolce Gusto Piccolo XS Kapsel Kaffeemaschine...'
+sku: 'B07VV2ZM5D-de'
 tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR

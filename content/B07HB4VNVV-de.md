@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB4VNVV-de Funko 36391 POP Vinyl: Lion King: Mufasa Multi Sammelbares...'
+sku: 'B07HB4VNVV-de'
 tags: [  ]
 actualPrice: 9.51 EUR
 currency: EUR

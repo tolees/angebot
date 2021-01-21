@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GS6X2FH-de Garmin vivomove HR Sport Black/Sandstone Fitness-Tracker...'
+sku: 'B07GS6X2FH-de'
 tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR

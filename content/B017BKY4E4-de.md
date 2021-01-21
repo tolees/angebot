@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017BKY4E4-de Tepro Mini Kugelgrill Holzkohlegrill"Salida" für unterwegs...'
+sku: 'B017BKY4E4-de'
 tags: [  ]
 actualPrice: 19 EUR
 currency: EUR

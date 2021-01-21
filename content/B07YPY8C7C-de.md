@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YPY8C7C-de JVC HA-A10T-BU Truly Wireless In-Ear Bluetooth Kopfhörer...'
+sku: 'B07YPY8C7C-de'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

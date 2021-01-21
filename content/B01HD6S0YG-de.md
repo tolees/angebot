@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HD6S0YG-de Salomon Herren Trail Running Schuhe XA PRO 3D GTX Farbe:...'
+sku: 'B01HD6S0YG-de'
 tags: [  ]
 actualPrice: 103.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077BJNRZ8-de Hasbro E0011EU4 - N-Strike Elite Surgefire...'
+sku: 'B077BJNRZ8-de'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

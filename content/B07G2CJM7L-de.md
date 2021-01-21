@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G2CJM7L-de You Win.Who Cares? Deluxe 2cd Edition'
+sku: 'B07G2CJM7L-de'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

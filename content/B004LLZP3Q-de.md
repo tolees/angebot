@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004LLZP3Q-de Hendrick s Gin – der einzigartige Gin mit Gurken und...'
+sku: 'B004LLZP3Q-de'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

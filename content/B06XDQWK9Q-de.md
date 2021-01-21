@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDQWK9Q-de Coma Ecliptic Live'
+sku: 'B06XDQWK9Q-de'
 tags: [  ]
 actualPrice: 5.73 EUR
 currency: EUR

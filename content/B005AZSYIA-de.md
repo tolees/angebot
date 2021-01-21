@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005AZSYIA-de Band of Gypsys'
+sku: 'B005AZSYIA-de'
 tags: [  ]
 actualPrice: 5.59 EUR
 currency: EUR

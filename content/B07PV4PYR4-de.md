@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PV4PYR4-de PLAYMOBIL 70046 - FC Bayern München Fußballarena zum...'
+sku: 'B07PV4PYR4-de'
 tags: [  ]
 actualPrice: 37.97 EUR
 currency: EUR

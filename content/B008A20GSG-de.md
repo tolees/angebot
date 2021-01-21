@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008A20GSG-de Amigo 01735 - Ringlding'
+sku: 'B008A20GSG-de'
 tags: [  ]
 actualPrice: 11.69 EUR
 currency: EUR

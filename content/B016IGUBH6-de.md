@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016IGUBH6-de Neff TTT1906N / T19TT06N0 / Autarkes Kochfeld /...'
+sku: 'B016IGUBH6-de'
 tags: [  ]
 actualPrice: 359.0 EUR
 currency: EUR

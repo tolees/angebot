@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JXF7CMM-de LEABAGS Cambridge Umhängetasche Schultertasche...'
+sku: 'B00JXF7CMM-de'
 tags: [  ]
 actualPrice: 106.68 EUR
 currency: EUR

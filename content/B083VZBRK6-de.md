@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083VZBRK6-de Kepae Acryl Vitrine für Lego 42096 Technic Porsche 911 RSR...'
+sku: 'B083VZBRK6-de'
 tags: [  ]
 actualPrice: 279.89 EUR
 currency: EUR

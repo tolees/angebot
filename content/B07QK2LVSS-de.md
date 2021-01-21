@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QK2LVSS-de Pentel BL77TLE-AX EnerGel Pure Gel-Tintenroller mit...'
+sku: 'B07QK2LVSS-de'
 tags: [  ]
 actualPrice: 2.27 EUR
 currency: EUR

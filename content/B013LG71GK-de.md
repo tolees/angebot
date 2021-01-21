@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013LG71GK-de G-STAR RAW Herren Straight Tapered Jeans 3301 Straight...'
+sku: 'B013LG71GK-de'
 tags: [  ]
 actualPrice: 55.01 EUR
 currency: EUR

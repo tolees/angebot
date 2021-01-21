@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LY0UFB5-de The Accountant'
+sku: 'B01LY0UFB5-de'
 tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR

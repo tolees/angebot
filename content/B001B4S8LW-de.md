@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001B4S8LW-de Brennenstuhl Safe-Box / Schutzbox für Verlängerungskabel...'
+sku: 'B001B4S8LW-de'
 tags: [  ]
 actualPrice: 1.77 EUR
 currency: EUR

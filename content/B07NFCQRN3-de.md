@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NFCQRN3-de camel active Herren Zip UP Hoodie Sportjacke Blau Marine...'
+sku: 'B07NFCQRN3-de'
 tags: [  ]
 actualPrice: 56.95 EUR
 currency: EUR

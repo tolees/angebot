@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMD4SK8-de Playmobil 70010 SuperSet Familiengarten bunt'
+sku: 'B07JMD4SK8-de'
 tags: [  ]
 actualPrice: 15.58 EUR
 currency: EUR

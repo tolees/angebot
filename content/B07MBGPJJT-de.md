@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MBGPJJT-de Pentel SESF30C-4 Brush Sign Pen Artist - Pinselstift mit...'
+sku: 'B07MBGPJJT-de'
 tags: [  ]
 actualPrice: 11.68 EUR
 currency: EUR

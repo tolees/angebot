@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IHH06JI-de HQ 11768450 - Symphony Beach III 2.2 Rainbow Zweileiner...'
+sku: 'B00IHH06JI-de'
 tags: [  ]
 actualPrice: 41.44 EUR
 currency: EUR

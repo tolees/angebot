@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JJ3AK76-de Apple iPad 4 9.7-Inch Tablet-PC Schwarz A1460 Prozessor 16...'
+sku: 'B01JJ3AK76-de'
 tags: [  ]
 actualPrice: 81.99 EUR
 currency: EUR

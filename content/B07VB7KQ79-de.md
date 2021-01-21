@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VB7KQ79-de GODNECE Batteriebetrieben LED Licht-Set für Baustein...'
+sku: 'B07VB7KQ79-de'
 tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR

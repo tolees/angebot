@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013WALD1O-de Bosch Professional Bohrmaschine GBM 13-2 RE...'
+sku: 'B013WALD1O-de'
 tags: [  ]
 actualPrice: 199.9 EUR
 currency: EUR

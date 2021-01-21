@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MSH0NXA-de Levi s Herren Freizeithemd Barstow Western Schwarz/Black...'
+sku: 'B01MSH0NXA-de'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

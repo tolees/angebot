@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XSDFBWF-de Akku Schlagschrauber WESCO 18V 2.0Ah System Akku...'
+sku: 'B07XSDFBWF-de'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

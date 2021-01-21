@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWRH1ZV-de Ladeheid Eva Kinder Jungen Mädchen Gummistiefel...'
+sku: 'B07TWRH1ZV-de'
 tags: [  ]
 actualPrice: 17.24 EUR
 currency: EUR

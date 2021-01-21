@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXFD19Z-de Kinder Klavier Multifunktions Mini 49 Tasten Musik...'
+sku: 'B07TXFD19Z-de'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

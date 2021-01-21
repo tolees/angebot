@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NR65Y4B-de Dickie Toys 203714013 VW Tiguan R-Line Polizeiwagen mit...'
+sku: 'B07NR65Y4B-de'
 tags: [  ]
 actualPrice: 12.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TQPUAYG-de FORTE Kompaktgarderobe inklusive Spiegel Sandeiche Dekor...'
+sku: 'B00TQPUAYG-de'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

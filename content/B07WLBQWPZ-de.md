@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WLBQWPZ-de Third Degree CD Digipak'
+sku: 'B07WLBQWPZ-de'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

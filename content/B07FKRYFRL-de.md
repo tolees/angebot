@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKRYFRL-de Smart Steckdosenleiste Koogeek Intelligent WiFi-...'
+sku: 'B07FKRYFRL-de'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

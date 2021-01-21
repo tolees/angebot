@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N68RHKK-de Symiu 3D Puzzle Kinder Mosaik Steckspiel Bausteine mit...'
+sku: 'B07N68RHKK-de'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

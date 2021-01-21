@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006UII3OQ-de Tayg Kanister mit Wasserhahn'
+sku: 'B006UII3OQ-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

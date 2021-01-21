@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNPY7W5-de THE NORTH FACE Damen Thermoball Sportjacke Rumba Red/Fig S'
+sku: 'B07FNPY7W5-de'
 tags: [  ]
 actualPrice: 33.46 EUR
 currency: EUR

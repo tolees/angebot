@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WL4TLS-de Maul Ferroband Selbstklebende Magnethaft-Wandleiste aus...'
+sku: 'B000WL4TLS-de'
 tags: [  ]
 actualPrice: 7.7 EUR
 currency: EUR

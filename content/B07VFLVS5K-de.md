@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFLVS5K-de HANPURE Bluetooth Mütze Damen & Herren Geschenke Bluetooth...'
+sku: 'B07VFLVS5K-de'
 tags: [  ]
 actualPrice: 24.98 EUR
 currency: EUR

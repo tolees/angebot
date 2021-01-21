@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QN1YPQM-de HolyHigh Bluetooth Kopfhörer in Ear Sport Kabellos...'
+sku: 'B07QN1YPQM-de'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

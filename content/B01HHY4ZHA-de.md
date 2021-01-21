@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HHY4ZHA-de Vileda Steam Dampfreiniger mit 2 zusätzliche Ersatzbezüge...'
+sku: 'B01HHY4ZHA-de'
 tags: [  ]
 actualPrice: 69.04 EUR
 currency: EUR

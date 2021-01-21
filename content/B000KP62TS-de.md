@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KP62TS-de Cookin Rudy Van Gelder Remaster'
+sku: 'B000KP62TS-de'
 tags: [  ]
 actualPrice: 4.41 EUR
 currency: EUR

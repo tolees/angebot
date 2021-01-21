@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNP96LG-de SCIJOY IPX6 Wireless Bluetooth Lautsprecher Wasserdicht...'
+sku: 'B07VNP96LG-de'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079N2S8PN-de PLAYMOBIL 9461 - DreamWorks Dragons Grobian mit...'
+sku: 'B079N2S8PN-de'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

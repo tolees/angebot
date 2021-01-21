@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DHD3PW2-de Bluetooth Kopfhörer In-Ear Wireless Kopfhörer Touch...'
+sku: 'B08DHD3PW2-de'
 tags: [  ]
 actualPrice: 34.0 EUR
 currency: EUR

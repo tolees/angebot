@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THL8PP1-de Anker Wireless Charger PowerWave Ladepad Doppelpack Zwei...'
+sku: 'B07THL8PP1-de'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

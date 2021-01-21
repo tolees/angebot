@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFZTGRS-de Puma Unisex-Erwachsene Rebound Layup Sd Fur Sneaker Puma...'
+sku: 'B07KFZTGRS-de'
 tags: [  ]
 actualPrice: 40.02 EUR
 currency: EUR

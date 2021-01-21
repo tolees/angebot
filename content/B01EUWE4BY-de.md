@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EUWE4BY-de Duschdas Duschgel für ein besseres Gefühl mit...'
+sku: 'B01EUWE4BY-de'
 tags: [  ]
 actualPrice: 3.91 EUR
 currency: EUR

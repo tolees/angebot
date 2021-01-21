@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0X50CZ-de Mpow Bluetooth Headset Wireless Headset Auto Stereo Sound...'
+sku: 'B01M0X50CZ-de'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087GLLQ7Q-de Telefunken XU55J521 139 cm / 55 Zoll Fernseher Smart TV...'
+sku: 'B087GLLQ7Q-de'
 tags: [  ]
 actualPrice: 349.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KBR6X2K-de The Verdict Ltd. 2CD Box Set'
+sku: 'B07KBR6X2K-de'
 tags: [  ]
 actualPrice: 16.79 EUR
 currency: EUR

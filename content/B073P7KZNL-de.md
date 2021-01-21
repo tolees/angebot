@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073P7KZNL-de Kamik Unisex-Kinder SOUTHPOLE4 Schneestiefel Schwarz Black...'
+sku: 'B073P7KZNL-de'
 tags: [  ]
 actualPrice: 42.09 EUR
 currency: EUR

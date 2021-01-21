@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S68CKNP-de Coredy R600 Saugroboter mit Boost Intellect 1600Pa...'
+sku: 'B07S68CKNP-de'
 tags: [  ]
 actualPrice: 151.99 EUR
 currency: EUR

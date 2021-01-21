@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016EYK1C2-de Creative Sound Blaster ROAR Pro - tragbarer Bluetooth-...'
+sku: 'B016EYK1C2-de'
 tags: [  ]
 actualPrice: 64.52 EUR
 currency: EUR

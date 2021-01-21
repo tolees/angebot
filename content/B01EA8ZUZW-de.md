@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EA8ZUZW-de Yealink WF40 WLAN 150 MBit/s Netzwerkkarte – Zubehör...'
+sku: 'B01EA8ZUZW-de'
 tags: [  ]
 actualPrice: 26.72 EUR
 currency: EUR

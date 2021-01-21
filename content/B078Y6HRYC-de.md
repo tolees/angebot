@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078Y6HRYC-de Regal Schwerlastregal Regal 180x90x45 Steckregal 875kg...'
+sku: 'B078Y6HRYC-de'
 tags: [  ]
 actualPrice: 22.49 EUR
 currency: EUR

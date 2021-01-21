@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLFKJSP-de PLAYMOBIL DreamWorks Spirit 70118 Pferdestall mit Lucky...'
+sku: 'B07JLFKJSP-de'
 tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR

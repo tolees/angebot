@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6JKL78-de Logitech G604 LIGHTSPEED kabellose Gaming-Maus mit 15...'
+sku: 'B07W6JKL78-de'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

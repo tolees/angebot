@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WP1W8B1-de PLAYMOBIL 9247 - DreamWorks Dragons Astrid und Sturmpfeil...'
+sku: 'B06WP1W8B1-de'
 tags: [  ]
 actualPrice: 19.49 EUR
 currency: EUR

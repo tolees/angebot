@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071FVH19S-de uvex Unisex – Erwachsene hlmt 400 visor style Skihelm...'
+sku: 'B071FVH19S-de'
 tags: [  ]
 actualPrice: 99.68 EUR
 currency: EUR

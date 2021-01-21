@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B2X1VXZ-de SAGE SES875 the Barista Express Siebträger mit Manometer-...'
+sku: 'B07B2X1VXZ-de'
 tags: [  ]
 actualPrice: 499 EUR
 currency: EUR

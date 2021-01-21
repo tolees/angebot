@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UBJ4L32-de Yamaha Digital Piano P-45B schwarz - Elektronisches...'
+sku: 'B00UBJ4L32-de'
 tags: [  ]
 actualPrice: 244 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JV7RKQK-de Pop Fortnite Dark Voyager Vinyl Figure'
+sku: 'B07JV7RKQK-de'
 tags: [  ]
 actualPrice: 3.45 EUR
 currency: EUR

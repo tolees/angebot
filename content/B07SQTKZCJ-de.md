@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQTKZCJ-de Der Klavierspieler vom Gare du Nord'
+sku: 'B07SQTKZCJ-de'
 tags: [  ]
 actualPrice: 8.12 EUR
 currency: EUR

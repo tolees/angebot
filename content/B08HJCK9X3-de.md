@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HJCK9X3-de MACLY SmartBand Aktivitäts Tracker mit Blutdruckmessung...'
+sku: 'B08HJCK9X3-de'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

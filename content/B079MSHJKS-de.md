@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MSHJKS-de PLAYMOBIL City Life 9456 Chemieunterricht Ab 5 Jahren'
+sku: 'B079MSHJKS-de'
 tags: [  ]
 actualPrice: 12.18 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079M59MSH-de American Tourister Soundbox - Spinner S Erweiterbar...'
+sku: 'B079M59MSH-de'
 tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YDWRS6-de Maxi-Cosi FamilyFix One i-Size Isofix Basisstation 0-18 kg...'
+sku: 'B077YDWRS6-de'
 tags: [  ]
 actualPrice: 148.71 EUR
 currency: EUR

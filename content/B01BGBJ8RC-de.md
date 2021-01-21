@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGBJ8RC-de Logitech C310 Webcam HD 720p 60° Sichtfeld Fester Fokus...'
+sku: 'B01BGBJ8RC-de'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

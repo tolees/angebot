@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PTZJQZQ-de INSTAR IN-6001HD schwarz - WLAN Überwachungskamera - IP...'
+sku: 'B00PTZJQZQ-de'
 tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR

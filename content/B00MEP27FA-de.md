@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MEP27FA-de Clatronic RK 3566 Reiskocher und Dampfgarer in Einem...'
+sku: 'B00MEP27FA-de'
 tags: [  ]
 actualPrice: 27.25 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DJBH8SS-de Parker Jotter Kugelschreiber | Bond Street Black |...'
+sku: 'B01DJBH8SS-de'
 tags: [  ]
 actualPrice: 9.29 EUR
 currency: EUR

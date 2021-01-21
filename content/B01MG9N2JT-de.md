@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MG9N2JT-de Sharp R760S 2-in-1 Flatbed Mikrowelle mit Grill / 23 L /...'
+sku: 'B01MG9N2JT-de'
 tags: [  ]
 actualPrice: 125.0 EUR
 currency: EUR

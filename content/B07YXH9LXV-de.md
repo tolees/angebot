@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YXH9LXV-de Nikon Z 50 Kamera'
+sku: 'B07YXH9LXV-de'
 tags: [  ]
 actualPrice: 667.58 EUR
 currency: EUR

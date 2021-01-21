@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QKDPPRQ-de Queta 5 Stück Zehennagel-Tools-Kit eingewachsene...'
+sku: 'B07QKDPPRQ-de'
 tags: [  ]
 actualPrice: 13.89 EUR
 currency: EUR

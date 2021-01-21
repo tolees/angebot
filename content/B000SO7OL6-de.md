@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000SO7OL6-de The Very Best Of Diana Krall'
+sku: 'B000SO7OL6-de'
 tags: [  ]
 actualPrice: 3.92 EUR
 currency: EUR

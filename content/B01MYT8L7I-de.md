@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYT8L7I-de Audio Pro Addon T5 Bluetooth Stereo-Lautsprecher...'
+sku: 'B01MYT8L7I-de'
 tags: [  ]
 actualPrice: 134.89 EUR
 currency: EUR

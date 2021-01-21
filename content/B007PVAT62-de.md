@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007PVAT62-de Invision TV Wandhalterung Ultrastarker Schwenkbare...'
+sku: 'B007PVAT62-de'
 tags: [  ]
 actualPrice: 26.24 EUR
 currency: EUR

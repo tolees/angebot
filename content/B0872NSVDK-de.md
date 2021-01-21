@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872NSVDK-de Bluetooth Kopfhörer Cshidworld Kabellose Kopfhörer mit...'
+sku: 'B0872NSVDK-de'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSMDZLB-de Funko 39524 POP Vinyl Johnny Cash Sammelbares Spielzeug...'
+sku: 'B07NSMDZLB-de'
 tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR

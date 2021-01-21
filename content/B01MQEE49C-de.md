@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQEE49C-de Buss Kartoffel-Eintopf mit Rauchspeck und...'
+sku: 'B01MQEE49C-de'
 tags: [  ]
 actualPrice: 1.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006JMJ31A-de Playmobil 4013 - SuperSet Pinguinbecken'
+sku: 'B006JMJ31A-de'
 tags: [  ]
 actualPrice: 23.0 EUR
 currency: EUR

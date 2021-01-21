@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N23VN3B-de Craft Mütze Light Thermal Outdoor Running Training Beanie...'
+sku: 'B07N23VN3B-de'
 tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR

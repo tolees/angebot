@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081RDKS3F-de BRIKSMAX Led Beleuchtungsset für Lego Technic...'
+sku: 'B081RDKS3F-de'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQQ5S6T-de Trilogy DS-15 Nerf N-Strike Elite Spielzeug Blaster mit 15...'
+sku: 'B07KQQ5S6T-de'
 tags: [  ]
 actualPrice: 36.04 EUR
 currency: EUR

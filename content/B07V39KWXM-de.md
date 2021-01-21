@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V39KWXM-de Apple MacBook Air 13" Neuestes Modell 8GB RAM 128GB...'
+sku: 'B07V39KWXM-de'
 tags: [  ]
 actualPrice: 999.0 EUR
 currency: EUR

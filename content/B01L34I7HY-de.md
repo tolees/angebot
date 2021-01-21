@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L34I7HY-de Sony Xperia X Compact Smartphone 11 7 cm 4 6 Zoll 32 GB...'
+sku: 'B01L34I7HY-de'
 tags: [  ]
 actualPrice: 111.87 EUR
 currency: EUR

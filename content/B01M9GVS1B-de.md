@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M9GVS1B-de hummel Unisex Erwachsene Slimmer Stadil Tonal Low Sneaker'
+sku: 'B01M9GVS1B-de'
 tags: [  ]
 actualPrice: 34.49 EUR
 currency: EUR

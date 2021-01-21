@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0027WLUXA-de Boccia Herrenuhr Analog Quarz mit Lederarmband – 3533-03'
+sku: 'B0027WLUXA-de'
 tags: [  ]
 actualPrice: 68.95 EUR
 currency: EUR

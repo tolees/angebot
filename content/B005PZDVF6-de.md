@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005PZDVF6-de OWC NewerTech AdaptaDrive - Mounting Kits 99.22 G 101.2 mm...'
+sku: 'B005PZDVF6-de'
 tags: [  ]
 actualPrice: 16.67 EUR
 currency: EUR

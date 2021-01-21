@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082D65MJY-de IWEMEK Mädchen Eiskönigin 2 Kostüm Frozen Prinzessin ELSA...'
+sku: 'B082D65MJY-de'
 tags: [  ]
 actualPrice: 9.45 EUR
 currency: EUR

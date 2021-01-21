@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0725FTG7Y-de Sony HT-RT4 5.1 Soundbar System 600W hohe...'
+sku: 'B0725FTG7Y-de'
 tags: [  ]
 actualPrice: 229.0 EUR
 currency: EUR

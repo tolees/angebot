@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GJTRRMK-de ZENS Qi-zertifiziertes kabelloses Aluminium Lade-Pad...'
+sku: 'B07GJTRRMK-de'
 tags: [  ]
 actualPrice: 38.88 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EDXGCCE-de Acer K272HLEbid 69 cm 27 Zoll Full HD Monitor VGA DVI HDMI...'
+sku: 'B01EDXGCCE-de'
 tags: [  ]
 actualPrice: 150.61 EUR
 currency: EUR

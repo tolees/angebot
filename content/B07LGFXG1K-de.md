@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGFXG1K-de HONOR Smartwatch im klassischen Uhrendesign mit 3 cm 1 2...'
+sku: 'B07LGFXG1K-de'
 tags: [  ]
 actualPrice: 133.07 EUR
 currency: EUR

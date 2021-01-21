@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H4NKO70-de Nitecore CU6 Taschenlampe Schwarz One Size'
+sku: 'B00H4NKO70-de'
 tags: [  ]
 actualPrice: 98.12 EUR
 currency: EUR

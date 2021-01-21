@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WH5WBN5-de YxFlower Custom Bausteine 1:8 2.4GHz RC Auto Sportwagen...'
+sku: 'B07WH5WBN5-de'
 tags: [  ]
 actualPrice: 116.99 EUR
 currency: EUR

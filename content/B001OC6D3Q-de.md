@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001OC6D3Q-de HUDORA 14724 BigWheel 205-Das Original mit RX Pro...'
+sku: 'B001OC6D3Q-de'
 tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR

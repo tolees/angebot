@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UH9OSX4-de Bose ® Companion 50 Multimedia Lautsprechersystem schwarz'
+sku: 'B00UH9OSX4-de'
 tags: [  ]
 actualPrice: 309.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CSKPPNG-de Razer Base Station Chroma Headset Ständer mit RGB und USB-...'
+sku: 'B07CSKPPNG-de'
 tags: [  ]
 actualPrice: 58.99 EUR
 currency: EUR

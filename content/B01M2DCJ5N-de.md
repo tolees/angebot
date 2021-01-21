@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M2DCJ5N-de Gardena combisystem-Kleinhäckchen: Kleine Gartenhacke zum...'
+sku: 'B01M2DCJ5N-de'
 tags: [  ]
 actualPrice: 8.73 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081PB4CGV-de RB&G Lauflernwagen aus Holz mit Gummibereifung'
+sku: 'B081PB4CGV-de'
 tags: [  ]
 actualPrice: 37.9 EUR
 currency: EUR

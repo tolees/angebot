@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NH66TYA-de Gypsy Heart'
+sku: 'B00NH66TYA-de'
 tags: [  ]
 actualPrice: 5.39 EUR
 currency: EUR

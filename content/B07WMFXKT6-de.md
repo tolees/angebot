@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WMFXKT6-de Dextro Energy Eiweißpulver Whey und Casein Protein inkl....'
+sku: 'B07WMFXKT6-de'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

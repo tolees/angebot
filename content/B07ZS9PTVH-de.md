@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZS9PTVH-de Insmart Silikon-Küchenschwamm ， 4 STÜCKE Antibakterieller...'
+sku: 'B07ZS9PTVH-de'
 tags: [  ]
 actualPrice: 8.69 EUR
 currency: EUR

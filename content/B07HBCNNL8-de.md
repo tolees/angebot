@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HBCNNL8-de Apple iPhone XS Max 512 GB - Space Grau'
+sku: 'B07HBCNNL8-de'
 tags: [  ]
 actualPrice: 974.9 EUR
 currency: EUR

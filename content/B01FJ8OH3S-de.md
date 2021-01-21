@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FJ8OH3S-de Bosch Professional Schwingschleifer GSS 160-1 A Multi 180...'
+sku: 'B01FJ8OH3S-de'
 tags: [  ]
 actualPrice: 103.0 EUR
 currency: EUR

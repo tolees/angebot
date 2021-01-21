@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZ5D7SX-de ASICS Damen Gel-Pulse 11 G-TX Laufschuhe Blau Mako...'
+sku: 'B07QZ5D7SX-de'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

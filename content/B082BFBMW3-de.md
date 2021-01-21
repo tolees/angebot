@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082BFBMW3-de IWEMEK Mädchen Eiskönigin ELSA Kleid Schneekönigin...'
+sku: 'B082BFBMW3-de'
 tags: [  ]
 actualPrice: 12.35 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PX3QHKT-de POP! Vinyl: Harry Potter: Harry Potter - Minerva...'
+sku: 'B07PX3QHKT-de'
 tags: [  ]
 actualPrice: 8.26 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00000JICB-de TOMY Kinderspiel "Pop Up Pirate" Hochwertiges Aktionsspiel...'
+sku: 'B00000JICB-de'
 tags: [  ]
 actualPrice: 11.16 EUR
 currency: EUR

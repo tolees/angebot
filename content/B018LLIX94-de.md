@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018LLIX94-de Tommy Hilfiger Herren CORE HILFIGER REGULAR POLO Poloshirt...'
+sku: 'B018LLIX94-de'
 tags: [  ]
 actualPrice: 49.47 EUR
 currency: EUR

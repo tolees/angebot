@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07896LHJW-de May Your Kindness Remain'
+sku: 'B07896LHJW-de'
 tags: [  ]
 actualPrice: 7.29 EUR
 currency: EUR

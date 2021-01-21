@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCVD7G3-de Bluetooth Smart Watch PHIPUDS Health & Fitness Tracker...'
+sku: 'B07XCVD7G3-de'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

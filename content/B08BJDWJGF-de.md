@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BJDWJGF-de Tres Chicon Mezcal Artesanal 100% Espadin Agave 1 x 0.7l'
+sku: 'B08BJDWJGF-de'
 tags: [  ]
 actualPrice: 36.8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076Z34BHR-de Sharplace Multifunktionale Erweiterungskarte Shield...'
+sku: 'B076Z34BHR-de'
 tags: [  ]
 actualPrice: 4.21 EUR
 currency: EUR

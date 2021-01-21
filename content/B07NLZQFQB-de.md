@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLZQFQB-de Fila Herren Disruptor Low Sneaker Schwarz Black...'
+sku: 'B07NLZQFQB-de'
 tags: [  ]
 actualPrice: 50.49 EUR
 currency: EUR

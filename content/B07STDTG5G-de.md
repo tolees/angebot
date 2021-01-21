@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STDTG5G-de Oral-B PRO 1 200 Elektrische Zahnbürste für eine sanfte...'
+sku: 'B07STDTG5G-de'
 tags: [  ]
 actualPrice: 30.23 EUR
 currency: EUR

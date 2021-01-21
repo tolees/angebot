@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSC26JF-de Philips BRL175/00 Elektrischer Nass-und Trockenrasierer...'
+sku: 'B07NSC26JF-de'
 tags: [  ]
 actualPrice: 50.99 EUR
 currency: EUR

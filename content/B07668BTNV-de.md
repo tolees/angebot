@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07668BTNV-de The Luckiest Man'
+sku: 'B07668BTNV-de'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

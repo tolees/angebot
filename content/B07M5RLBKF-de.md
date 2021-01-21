@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5RLBKF-de Crucial Ballistix Sport LT BLS2K8G4D30AESEK Desktop Gaming...'
+sku: 'B07M5RLBKF-de'
 tags: [  ]
 actualPrice: 59.2 EUR
 currency: EUR

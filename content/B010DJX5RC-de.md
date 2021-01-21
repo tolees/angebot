@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010DJX5RC-de Sylvanian Families - 5214 - Affen: Familie Kletter'
+sku: 'B010DJX5RC-de'
 tags: [  ]
 actualPrice: 14.55 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086QXKVGQ-de HMY Vidrio Transparente Florero decoración Vsaes mesa...'
+sku: 'B086QXKVGQ-de'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

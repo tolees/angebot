@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005WHG6EU-de DeWalt Paneelsäge 1675W DWS780 inkl. Zubehör - Mit 305x30...'
+sku: 'B005WHG6EU-de'
 tags: [  ]
 actualPrice: 699.46 EUR
 currency: EUR

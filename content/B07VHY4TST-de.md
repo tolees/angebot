@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHY4TST-de Die drei !!!'
+sku: 'B07VHY4TST-de'
 tags: [  ]
 actualPrice: 7.79 EUR
 currency: EUR

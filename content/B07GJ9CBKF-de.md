@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GJ9CBKF-de riverso Herren Kapuzenpullover Kapuzensweater Hoodie...'
+sku: 'B07GJ9CBKF-de'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

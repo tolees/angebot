@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0799BCY3P-de BISSELL 2380 CrossWave Hartboden-Bürstenrolle'
+sku: 'B0799BCY3P-de'
 tags: [  ]
 actualPrice: 9.72 EUR
 currency: EUR

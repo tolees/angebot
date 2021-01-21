@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XD4S19N-de Calvin Klein Damen TOP Hoodie Full Zip Kapuzenpullover...'
+sku: 'B06XD4S19N-de'
 tags: [  ]
 actualPrice: 50.54 EUR
 currency: EUR

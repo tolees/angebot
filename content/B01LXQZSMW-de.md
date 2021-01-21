@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXQZSMW-de Samsonite - Openroad Bailhandle 15 6" Erweiterbar Schwarz...'
+sku: 'B01LXQZSMW-de'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

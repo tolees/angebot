@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JW814NH-de Hasbro Monopoly - Junior der Klassiker der Brettspiele für...'
+sku: 'B07JW814NH-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

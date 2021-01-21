@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NGTH95K-de Grundig Multi-Zerkleinerer 0 5 L Plastic Delisia'
+sku: 'B01NGTH95K-de'
 tags: [  ]
 actualPrice: 32.6 EUR
 currency: EUR

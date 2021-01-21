@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S97KY8H-de Gigaset Smart Speaker L800HX - Lautsprecher mit Alexa-...'
+sku: 'B07S97KY8H-de'
 tags: [  ]
 actualPrice: 53.96 EUR
 currency: EUR

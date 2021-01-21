@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JFRNBUU-de Kitchen Craft Kuchenbox Aufschrift "Cake" kuppelförmig aus...'
+sku: 'B00JFRNBUU-de'
 tags: [  ]
 actualPrice: 29.05 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MHJ28YM-de Bang & Olufsen Beoplay E8 2.0 - 100% kabellose Bluetooth-...'
+sku: 'B07MHJ28YM-de'
 tags: [  ]
 actualPrice: 269.39 EUR
 currency: EUR

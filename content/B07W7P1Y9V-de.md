@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7P1Y9V-de Dragon Touch Action Cam 4K Action Kamera 20MP EIS Anti-...'
+sku: 'B07W7P1Y9V-de'
 tags: [  ]
 actualPrice: 26.73 EUR
 currency: EUR

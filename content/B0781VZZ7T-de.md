@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0781VZZ7T-de Puma Herren Liga Shorts Core with Brief Hose Black White M'
+sku: 'B0781VZZ7T-de'
 tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR

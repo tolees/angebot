@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B819VMQ-de SteelSeries Arctis Pro Wireless – Drahtlos Gaming-Headset...'
+sku: 'B07B819VMQ-de'
 tags: [  ]
 actualPrice: 277.11 EUR
 currency: EUR

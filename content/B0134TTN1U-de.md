@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0134TTN1U-de Creative Converting 315252 Birthday Plastic Tablecover...'
+sku: 'B0134TTN1U-de'
 tags: [  ]
 actualPrice: 3.49 EUR
 currency: EUR

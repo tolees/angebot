@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005Q89JEY-de Senseo Pads Extra Strong 80 Kaffeepads 5er Pack 5 x 16...'
+sku: 'B005Q89JEY-de'
 tags: [  ]
 actualPrice: 7.45 EUR
 currency: EUR

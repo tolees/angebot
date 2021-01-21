@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBQBTRC-de Polk Audio Signature S35E Center Lautsprecher HiFi...'
+sku: 'B07JBQBTRC-de'
 tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR

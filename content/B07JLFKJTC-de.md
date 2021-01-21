@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLFKJTC-de Playmobil 70090 Family Fun Wassersport-Schule bunt'
+sku: 'B07JLFKJTC-de'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

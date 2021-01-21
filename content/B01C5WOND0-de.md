@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C5WOND0-de Ravensburger tiptoi Wir spielen Schule Spiel ab 5 Jahren...'
+sku: 'B01C5WOND0-de'
 tags: [  ]
 actualPrice: 13.36 EUR
 currency: EUR

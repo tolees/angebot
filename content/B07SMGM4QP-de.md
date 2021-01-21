@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SMGM4QP-de SS&LL Cubo de basura del Pedal Papelera de Acero...'
+sku: 'B07SMGM4QP-de'
 tags: [  ]
 actualPrice: 118.99 EUR
 currency: EUR

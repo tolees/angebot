@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VTRLTQC-de Schwip Schwap Das Original – Koffeinhaltiges Cola-...'
+sku: 'B07VTRLTQC-de'
 tags: [  ]
 actualPrice: 9.69 EUR
 currency: EUR

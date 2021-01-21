@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X6NMQT9-de Playmobil 6930 - Reitturnier'
+sku: 'B06X6NMQT9-de'
 tags: [  ]
 actualPrice: 23.07 EUR
 currency: EUR

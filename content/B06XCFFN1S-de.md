@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XCFFN1S-de G-STAR RAW Herren 3301 Deconstructed Skinny Jeans Blau...'
+sku: 'B06XCFFN1S-de'
 tags: [  ]
 actualPrice: 52.79 EUR
 currency: EUR

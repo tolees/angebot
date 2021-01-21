@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L5VCRMM-de The Surge: Augmented Edition PS4'
+sku: 'B07L5VCRMM-de'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

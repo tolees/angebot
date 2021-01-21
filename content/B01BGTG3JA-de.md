@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGTG3JA-de SanDisk SDCZ43-064G-GAM46 USB-Flash-Laufwerk USB 3.0 bis...'
+sku: 'B01BGTG3JA-de'
 tags: [  ]
 actualPrice: 16.83 EUR
 currency: EUR

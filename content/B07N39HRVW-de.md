@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N39HRVW-de DELSEY PARIS Belmont Plus Koffer 76cm 102 2 Liter...'
+sku: 'B07N39HRVW-de'
 tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001INYLE4-de Panasonic RPHV154EK In-Ear-Kopfhörer 1 2 m Kabellänge 3 5...'
+sku: 'B001INYLE4-de'
 tags: [  ]
 actualPrice: 4.93 EUR
 currency: EUR

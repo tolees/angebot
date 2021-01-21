@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NAUYYNG-de Sony CMT-X3CD Micro-HiFi System CD USB Bluetooth 20 Watt rot'
+sku: 'B00NAUYYNG-de'
 tags: [  ]
 actualPrice: 130.99 EUR
 currency: EUR

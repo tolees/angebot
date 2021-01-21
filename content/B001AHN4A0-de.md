@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001AHN4A0-de HAN Briefablage KLASSIK 1026-X-23 in Transparent-Glasklar...'
+sku: 'B001AHN4A0-de'
 tags: [  ]
 actualPrice: 10.98 EUR
 currency: EUR

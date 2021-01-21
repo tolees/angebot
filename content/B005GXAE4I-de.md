@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005GXAE4I-de AEG TR3LFSTV FlexiRunnersT Vollauszug für ProCombi 3 Paar...'
+sku: 'B005GXAE4I-de'
 tags: [  ]
 actualPrice: 109.5 EUR
 currency: EUR

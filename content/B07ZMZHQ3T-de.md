@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZMZHQ3T-de 99AMZ Handyhalter fürs Auto & Handy Ring Halter | 2 in 1...'
+sku: 'B07ZMZHQ3T-de'
 tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR

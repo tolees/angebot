@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PYC13J-de OSRAM Smart+ LED ZigBee GU5.3 Reflektor 12V warmweiß bis...'
+sku: 'B074PYC13J-de'
 tags: [  ]
 actualPrice: 16.71 EUR
 currency: EUR

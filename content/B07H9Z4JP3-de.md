@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9Z4JP3-de Pop Nacho Libre Vinyl Figure'
+sku: 'B07H9Z4JP3-de'
 tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR

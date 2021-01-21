@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000FWHX12-de Segafredo Kaffee Espresso - Intermezzo 1000g Bohnen'
+sku: 'B000FWHX12-de'
 tags: [  ]
 actualPrice: 10.79 EUR
 currency: EUR

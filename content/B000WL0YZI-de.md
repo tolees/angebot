@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WL0YZI-de Herlitz 10843746 Aktenhülle A4 Standard PP 0 11 mm...'
+sku: 'B000WL0YZI-de'
 tags: [  ]
 actualPrice: 9.01 EUR
 currency: EUR

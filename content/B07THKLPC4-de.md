@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THKLPC4-de Music Maker – 2020 Performer Edition – Music Maker Premium...'
+sku: 'B07THKLPC4-de'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

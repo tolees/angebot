@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XTQS357-de Huawei Band 4e wasserdichter Bluetooth Fitness-...'
+sku: 'B07XTQS357-de'
 tags: [  ]
 actualPrice: 19.35 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EWNSXOA-de Petex Auto-Kindersitzerhöhung Max 103 ECE-Gruppe 2-3...'
+sku: 'B01EWNSXOA-de'
 tags: [  ]
 actualPrice: 12.79 EUR
 currency: EUR

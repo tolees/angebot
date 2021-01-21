@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HG1HC5-de Dell Inspiron 13 7000 7370-9702 33 78 cm 13 3 Zoll FHD...'
+sku: 'B076HG1HC5-de'
 tags: [  ]
 actualPrice: 700 EUR
 currency: EUR

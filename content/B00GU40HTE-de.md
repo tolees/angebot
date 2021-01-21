@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GU40HTE-de Lost - Die komplette Serie 37 Discs'
+sku: 'B00GU40HTE-de'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

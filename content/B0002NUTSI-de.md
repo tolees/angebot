@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0002NUTSI-de Crosby Stills & Nash - Greatest Hits'
+sku: 'B0002NUTSI-de'
 tags: [  ]
 actualPrice: 3.92 EUR
 currency: EUR

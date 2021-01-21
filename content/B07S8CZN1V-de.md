@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8CZN1V-de Dell Inspiron - 15 6" - i7 - 32GB RAM - 1000GB SSD -...'
+sku: 'B07S8CZN1V-de'
 tags: [  ]
 actualPrice: 595.0 EUR
 currency: EUR

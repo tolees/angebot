@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQ7XSBP-de BRIKSMAX Led Beleuchtungsset für Eck Garage Kompatibel Mit...'
+sku: 'B07PQ7XSBP-de'
 tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR

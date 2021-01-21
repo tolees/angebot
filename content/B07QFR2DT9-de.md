@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QFR2DT9-de Westmark Wasserkaraffe mit Infuser/Fruchteinsatz...'
+sku: 'B07QFR2DT9-de'
 tags: [  ]
 actualPrice: 18.66 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVJFBN5-de Smart LED Bulb E27 Glühbirne TECKIN WLAN Lampen mit 16...'
+sku: 'B07GVJFBN5-de'
 tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR

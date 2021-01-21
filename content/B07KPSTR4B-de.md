@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPSTR4B-de Funko 37867 POP Vinyl: BTS: RM Sammelbares Spielzeug...'
+sku: 'B07KPSTR4B-de'
 tags: [  ]
 actualPrice: 9.79 EUR
 currency: EUR

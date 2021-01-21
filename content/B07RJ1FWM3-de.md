@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJ1FWM3-de Pro Bike Tool Fahrradpumpe CO2 - Kartuschenpumpe Fahrrad...'
+sku: 'B07RJ1FWM3-de'
 tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR

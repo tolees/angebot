@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JKG7IGY-de Kitchencraft Living Nostalgia Large Metal Bread Box Bin...'
+sku: 'B00JKG7IGY-de'
 tags: [  ]
 actualPrice: 36.27 EUR
 currency: EUR

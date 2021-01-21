@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMFRDKQ-de Samsung Galaxy Buds SM-R170 I Kabellose Kopfhörer Silber I...'
+sku: 'B07VMFRDKQ-de'
 tags: [  ]
 actualPrice: 74.1 EUR
 currency: EUR

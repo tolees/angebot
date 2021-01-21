@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ENJARHE-de Challenge Disc 2.0 e Balance Board per Bluetooth mit...'
+sku: 'B01ENJARHE-de'
 tags: [  ]
 actualPrice: 210.69 EUR
 currency: EUR

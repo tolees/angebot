@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CDEXBAG-de Funko 9301 S1 No Actionfigur Games: Overwatch: Widowmaker...'
+sku: 'B01CDEXBAG-de'
 tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR

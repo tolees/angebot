@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BCCSX6W-de B.K.Licht I schwenkbare LED Deckenleuchte I 6-flammiger...'
+sku: 'B01BCCSX6W-de'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

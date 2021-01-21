@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KOJT4ZE-de Columbia Herren Woodburn II Waterproof Wasserdichte Schuhe...'
+sku: 'B00KOJT4ZE-de'
 tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR

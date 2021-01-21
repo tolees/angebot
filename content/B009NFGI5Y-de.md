@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009NFGI5Y-de Mattel Games Y9598 - Scrabble Original Wörterspiel und...'
+sku: 'B009NFGI5Y-de'
 tags: [  ]
 actualPrice: 20.59 EUR
 currency: EUR

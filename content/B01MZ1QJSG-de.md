@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZ1QJSG-de Allmay Bart Schürze für Bartgestaltung- Sammel Tuch für...'
+sku: 'B01MZ1QJSG-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

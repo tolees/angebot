@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MB7HJ8-de Oacvien Bluetooth Adapter 5.0 Transmitter Empfänger 2 in 1...'
+sku: 'B082MB7HJ8-de'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

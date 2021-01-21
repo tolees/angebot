@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003VEILMG-de Bosch Professional 12V System Akku Bohrschrauber GSR...'
+sku: 'B003VEILMG-de'
 tags: [  ]
 actualPrice: 48.9 EUR
 currency: EUR

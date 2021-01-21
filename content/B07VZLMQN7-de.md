@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VZLMQN7-de Logitech G915 LIGHTSPEED kabellose mechanische Gaming-...'
+sku: 'B07VZLMQN7-de'
 tags: [  ]
 actualPrice: 171.7 EUR
 currency: EUR

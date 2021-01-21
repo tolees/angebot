@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BHLRNEM-de COPIC Markerstifte vielfach einsetzbar Einheitsgröße'
+sku: 'B00BHLRNEM-de'
 tags: [  ]
 actualPrice: 20.96 EUR
 currency: EUR

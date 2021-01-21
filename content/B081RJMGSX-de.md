@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081RJMGSX-de Aikzik Tageslichtlampe 10000 Lux Tageslichtleuchte UV...'
+sku: 'B081RJMGSX-de'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

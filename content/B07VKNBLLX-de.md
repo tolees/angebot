@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKNBLLX-de ZTE Smartphone Blade 10 16 cm 6 3 Zoll FHD+ Display 64 GB...'
+sku: 'B07VKNBLLX-de'
 tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR

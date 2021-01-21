@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E9U5PTI-de Dr. Oetker Backblech 3in1 mit Transporthaube Ofenblech zum...'
+sku: 'B00E9U5PTI-de'
 tags: [  ]
 actualPrice: 11.69 EUR
 currency: EUR

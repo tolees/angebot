@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VP535TP-de Magnetisches Armband Werkzeug Handwerker Magnetarmband mit...'
+sku: 'B07VP535TP-de'
 tags: [  ]
 actualPrice: 10.98 EUR
 currency: EUR

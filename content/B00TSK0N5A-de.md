@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TSK0N5A-de Better Call Saul - Die komplette erste Staffel [Blu-ray]'
+sku: 'B00TSK0N5A-de'
 tags: [  ]
 actualPrice: 11.52 EUR
 currency: EUR

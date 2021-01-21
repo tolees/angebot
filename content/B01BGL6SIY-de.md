@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGL6SIY-de fischertechnik - 536619 PROFI Dynamic XS Kugelbahn'
+sku: 'B01BGL6SIY-de'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002A9JI9S-de Philips Ersatzlampenbox H1 / H7'
+sku: 'B002A9JI9S-de'
 tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR

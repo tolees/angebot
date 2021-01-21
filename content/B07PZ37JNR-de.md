@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PZ37JNR-de ONLY Damen Onlmariana Myrina S/S Det Dress Noos WVN Kleid...'
+sku: 'B07PZ37JNR-de'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

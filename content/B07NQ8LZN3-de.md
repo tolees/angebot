@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQ8LZN3-de Samsung Galaxy Buds SM-R170NZWADBT I Kabellose Kopfhörer...'
+sku: 'B07NQ8LZN3-de'
 tags: [  ]
 actualPrice: 76.0 EUR
 currency: EUR

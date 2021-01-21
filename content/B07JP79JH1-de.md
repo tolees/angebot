@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JP79JH1-de Holzmeißel Set Tacklife Stechbeitel Set für Holz...'
+sku: 'B07JP79JH1-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

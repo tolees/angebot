@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L2X4ZBX-de Corsair Harpoon Kabellose RGB Wiederaufladbare Optisch...'
+sku: 'B07L2X4ZBX-de'
 tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR

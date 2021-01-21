@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073WZFMF5-de Emporio Armani Herren Chronograph Quarz Smart Watch...'
+sku: 'B073WZFMF5-de'
 tags: [  ]
 actualPrice: 186.75 EUR
 currency: EUR

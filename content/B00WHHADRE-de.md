@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WHHADRE-de ADAPTIL Express Tabletten 10 Stück Ergänzungsfuttermittel...'
+sku: 'B00WHHADRE-de'
 tags: [  ]
 actualPrice: 8.72 EUR
 currency: EUR

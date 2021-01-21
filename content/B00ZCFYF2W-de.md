@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZCFYF2W-de SanDisk 64GB Connect Wireless Stick'
+sku: 'B00ZCFYF2W-de'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088WVNFBW-de Xbox Game Pass 3 Monate Ultimate + 1 Monat GRATIS | Xbox...'
+sku: 'B088WVNFBW-de'
 tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR

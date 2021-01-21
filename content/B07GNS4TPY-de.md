@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GNS4TPY-de Tefal G11519 Delicia Pro Wokpfanne 28 cm Aluminium schwarz'
+sku: 'B07GNS4TPY-de'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

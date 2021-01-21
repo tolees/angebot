@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F1R5K4W-de Mountain Dew Regular Koffeinhaltige Limonade mit Lemon-...'
+sku: 'B01F1R5K4W-de'
 tags: [  ]
 actualPrice: 14.89 EUR
 currency: EUR

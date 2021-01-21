@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074S9BJ6B-de Shiatsu-Rücken Schulter- und Nackenmassagegerät mit Wärme...'
+sku: 'B074S9BJ6B-de'
 tags: [  ]
 actualPrice: 39.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZAQ5OQ-de Citizen Herren Chronograph Quarz Uhr mit Leder Armband...'
+sku: 'B01MZAQ5OQ-de'
 tags: [  ]
 actualPrice: 165.0 EUR
 currency: EUR

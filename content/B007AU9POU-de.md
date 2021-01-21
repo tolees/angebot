@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007AU9POU-de HAUPTSTADTKOFFER - Alex - Hartschalen-Koffer Koffer...'
+sku: 'B007AU9POU-de'
 tags: [  ]
 actualPrice: 72.09 EUR
 currency: EUR

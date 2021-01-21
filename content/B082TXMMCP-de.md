@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082TXMMCP-de WC Sitz MUJIUSHI Toilettendeckel Oval Klodeckel mit Quick-...'
+sku: 'B082TXMMCP-de'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

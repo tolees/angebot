@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L47FEEU-de uRage "Illuminated" Gaming Keyboard Tastatur QWERTZ an-...'
+sku: 'B00L47FEEU-de'
 tags: [  ]
 actualPrice: 29.23 EUR
 currency: EUR

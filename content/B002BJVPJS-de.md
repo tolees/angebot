@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002BJVPJS-de Castrol POWER 1 RACING 4T 10W-40 4-Takt Motorrad Motorenöl 1L'
+sku: 'B002BJVPJS-de'
 tags: [  ]
 actualPrice: 9.38 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P7QM5UK-de POWERADD Pilot X7 20000mAh Externer Akku enorme...'
+sku: 'B00P7QM5UK-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

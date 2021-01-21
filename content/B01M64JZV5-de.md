@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M64JZV5-de JBL E55BT Over Ear Bluetooth Kopfhörer - Wireless...'
+sku: 'B01M64JZV5-de'
 tags: [  ]
 actualPrice: 104.89 EUR
 currency: EUR

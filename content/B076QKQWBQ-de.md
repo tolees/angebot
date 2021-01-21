@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076QKQWBQ-de Speedlink HDMI auf VGA Adapter HQ - Vergoldete Kontakte -...'
+sku: 'B076QKQWBQ-de'
 tags: [  ]
 actualPrice: 10.28 EUR
 currency: EUR

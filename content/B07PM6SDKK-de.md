@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PM6SDKK-de Samsung RB8000 RL36R8739S9/EG Kühl-/Gefrierkombination 202...'
+sku: 'B07PM6SDKK-de'
 tags: [  ]
 actualPrice: 687.45 EUR
 currency: EUR

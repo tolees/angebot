@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J34TNPQ-de Funko 38481 POP Bobble Marvel Studios 10: Doctor Strange...'
+sku: 'B07J34TNPQ-de'
 tags: [  ]
 actualPrice: 6.13 EUR
 currency: EUR

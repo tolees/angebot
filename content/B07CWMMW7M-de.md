@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CWMMW7M-de Fdit 2er Universal Gasherd Herd Knopf Teil für...'
+sku: 'B07CWMMW7M-de'
 tags: [  ]
 actualPrice: 7.69 EUR
 currency: EUR

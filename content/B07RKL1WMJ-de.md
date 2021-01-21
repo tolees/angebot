@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RKL1WMJ-de Lüfterloser Mini-PC-Stick Windows 10 Pro 64-Bit T6 Intel...'
+sku: 'B07RKL1WMJ-de'
 tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR

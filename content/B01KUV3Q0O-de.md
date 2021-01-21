@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KUV3Q0O-de Anker PowerPort Speed 5 63W 5 Port USB Ladegerät Netzteile...'
+sku: 'B01KUV3Q0O-de'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

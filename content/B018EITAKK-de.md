@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018EITAKK-de COMPO SAAT Vertikutier-Mix Rasensamen Rasendünger und...'
+sku: 'B018EITAKK-de'
 tags: [  ]
 actualPrice: 12.94 EUR
 currency: EUR

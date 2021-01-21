@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JL73ZZD-de BenQ ZOWIE RL2460S 60 96 cm 24 Zoll Konsolen e-Sports...'
+sku: 'B07JL73ZZD-de'
 tags: [  ]
 actualPrice: 174.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAICT6S-de Ondis24 Steckregal 60 x 30 x 135 H cm 4 Böden...'
+sku: 'B01NAICT6S-de'
 tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR

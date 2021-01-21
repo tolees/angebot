@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRCR1H3-de Acer Nitro 5 AN517-51-754T 43 9 cm 17 3 Zoll Full-HD mit...'
+sku: 'B07SRCR1H3-de'
 tags: [  ]
 actualPrice: 715.0 EUR
 currency: EUR

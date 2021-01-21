@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWJXX7H-de NIVEA MEN Sensitive Rasierschaum im 6er Pack 6 x 200 ml...'
+sku: 'B07RWJXX7H-de'
 tags: [  ]
 actualPrice: 11.34 EUR
 currency: EUR

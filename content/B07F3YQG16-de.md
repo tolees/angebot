@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F3YQG16-de TOYMYTOY Armee Figuren Soldaten Modell Set für Kinder...'
+sku: 'B07F3YQG16-de'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

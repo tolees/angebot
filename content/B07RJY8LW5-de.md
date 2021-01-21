@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJY8LW5-de WLAN Adapter WiFi Stick 600Mbps Mini Dual Band 2.4GHz /...'
+sku: 'B07RJY8LW5-de'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

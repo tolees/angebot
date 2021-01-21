@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CCD7PQA-de Geox Herren U SYMBOL D Derby Schwarz BLACKC9999 42 EU'
+sku: 'B00CCD7PQA-de'
 tags: [  ]
 actualPrice: 76.7 EUR
 currency: EUR

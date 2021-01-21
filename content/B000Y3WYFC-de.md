@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000Y3WYFC-de Wrangler Texas Herren Jeans Blau Stonewash Light blue 40W...'
+sku: 'B000Y3WYFC-de'
 tags: [  ]
 actualPrice: 51.93 EUR
 currency: EUR

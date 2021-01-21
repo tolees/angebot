@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNTVR86-de DoGeek Ringstock Metall Ringmaß Ringmesser Kostenlos...'
+sku: 'B07FNTVR86-de'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

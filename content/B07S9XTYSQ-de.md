@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9XTYSQ-de GODNECE LED Licht-Set für Baustein Led Beleuchtungsset...'
+sku: 'B07S9XTYSQ-de'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

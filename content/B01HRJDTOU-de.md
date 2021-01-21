@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HRJDTOU-de HP OfficeJet Pro 6960 Multifunktionsdrucker Instant Ink...'
+sku: 'B01HRJDTOU-de'
 tags: [  ]
 actualPrice: 127.08 EUR
 currency: EUR

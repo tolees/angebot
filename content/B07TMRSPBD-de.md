@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMRSPBD-de Harmony'
+sku: 'B07TMRSPBD-de'
 tags: [  ]
 actualPrice: 8.93 EUR
 currency: EUR

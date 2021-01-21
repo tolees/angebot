@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QH7DCZF-de BABY born Surprise 904091 Baby Überraschungsfigur im Kokon...'
+sku: 'B07QH7DCZF-de'
 tags: [  ]
 actualPrice: 7.5 EUR
 currency: EUR

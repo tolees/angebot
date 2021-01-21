@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S19TPNH-de edc by ESPRIT Damen 999Cc1B807 Slim Jeans Blau Blue Dark...'
+sku: 'B07S19TPNH-de'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

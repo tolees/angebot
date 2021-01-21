@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VUQ6CU0-de Fotowiderstand Entdeckung Lichtempfindlich Licht Sensor...'
+sku: 'B00VUQ6CU0-de'
 tags: [  ]
 actualPrice: 1.01 EUR
 currency: EUR

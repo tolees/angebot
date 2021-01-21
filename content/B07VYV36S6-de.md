@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VYV36S6-de SAMSUNG Galaxy Note 10+ Smartphone Bundle 17.2cm 6.8 Zoll...'
+sku: 'B07VYV36S6-de'
 tags: [  ]
 actualPrice: 755.46 EUR
 currency: EUR

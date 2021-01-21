@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CJ46LP8-de Jamara 403071 - BMW M3 Sport 1:14 schwarz'
+sku: 'B00CJ46LP8-de'
 tags: [  ]
 actualPrice: 31.0 EUR
 currency: EUR

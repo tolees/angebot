@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDL3XFM-de Seagate Backup Plus Portable tragbare externe Festplatte 5...'
+sku: 'B07MDL3XFM-de'
 tags: [  ]
 actualPrice: 113.95 EUR
 currency: EUR

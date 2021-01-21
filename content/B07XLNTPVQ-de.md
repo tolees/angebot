@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XLNTPVQ-de Belkin ScreenForce TemperedCurve Displayschutz für iPhone...'
+sku: 'B07XLNTPVQ-de'
 tags: [  ]
 actualPrice: 21.04 EUR
 currency: EUR

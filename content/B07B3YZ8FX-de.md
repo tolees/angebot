@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B3YZ8FX-de V-Bag movetrack by Vodafone - GPS Tracker...'
+sku: 'B07B3YZ8FX-de'
 tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR

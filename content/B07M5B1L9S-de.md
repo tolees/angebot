@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5B1L9S-de Philips Bartschneider BT5515/15 40 verschiedene Looks 0 4...'
+sku: 'B07M5B1L9S-de'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

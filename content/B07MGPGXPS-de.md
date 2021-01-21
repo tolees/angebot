@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGPGXPS-de Crucial Ballistix Sport LT BLS16G4D30AESE 3000 MHz DDR4...'
+sku: 'B07MGPGXPS-de'
 tags: [  ]
 actualPrice: 55.92 EUR
 currency: EUR

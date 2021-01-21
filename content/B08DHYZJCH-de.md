@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DHYZJCH-de ieGeek Überwachungskamera Aussen WLAN IP Kamera 1080P WiFi...'
+sku: 'B08DHYZJCH-de'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

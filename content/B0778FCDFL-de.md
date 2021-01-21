@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0778FCDFL-de Hasbro Gaming E2489100 - Ach du Kacke Kinderspiel Green'
+sku: 'B0778FCDFL-de'
 tags: [  ]
 actualPrice: 21.03 EUR
 currency: EUR

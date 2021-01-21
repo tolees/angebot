@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086ZXZYGH-de PS4-Controller Touchpanel-Gamepad mit Vibrations- und...'
+sku: 'B086ZXZYGH-de'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

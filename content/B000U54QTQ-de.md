@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000U54QTQ-de Sink or Swim'
+sku: 'B000U54QTQ-de'
 tags: [  ]
 actualPrice: 6.68 EUR
 currency: EUR

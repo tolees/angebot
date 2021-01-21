@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0065HBJOS-de walther design AJ330B Aluminium-Bilderrahmen Chair 30x30...'
+sku: 'B0065HBJOS-de'
 tags: [  ]
 actualPrice: 13.14 EUR
 currency: EUR

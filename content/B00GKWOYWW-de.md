@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GKWOYWW-de VTech 80-139304 - Smart Kid s Phone'
+sku: 'B00GKWOYWW-de'
 tags: [  ]
 actualPrice: 10.8 EUR
 currency: EUR

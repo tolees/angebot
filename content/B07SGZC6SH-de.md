@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SGZC6SH-de Samsung Galaxy S10 Smartphone Bundle 15.5cm 6.1 Zoll 128...'
+sku: 'B07SGZC6SH-de'
 tags: [  ]
 actualPrice: 555.0 EUR
 currency: EUR

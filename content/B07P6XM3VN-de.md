@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6XM3VN-de Funko 41474 Action Figur: Dark Crystal - Aughra...'
+sku: 'B07P6XM3VN-de'
 tags: [  ]
 actualPrice: 14.09 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNQG4BQ-de YOSICIL Mädchen Prinzessin Schuhe ELSA Kristall Schuhe...'
+sku: 'B07VNQG4BQ-de'
 tags: [  ]
 actualPrice: 22.89 EUR
 currency: EUR

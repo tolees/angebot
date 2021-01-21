@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z4JYCJ5-de Unizooke Messerschärfer Profi Messerschleifer Messer...'
+sku: 'B07Z4JYCJ5-de'
 tags: [  ]
 actualPrice: 14.58 EUR
 currency: EUR

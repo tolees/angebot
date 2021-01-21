@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003R7K5LC-de Mentos Fruit Dragees 40 Rollen Bonbons Frucht-Geschmack...'
+sku: 'B003R7K5LC-de'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

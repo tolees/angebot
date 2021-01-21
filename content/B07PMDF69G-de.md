@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMDF69G-de Samsung RU7179 147 cm 58 Zoll LED Fernseher Ultra HD HDR...'
+sku: 'B07PMDF69G-de'
 tags: [  ]
 actualPrice: 637.89 EUR
 currency: EUR

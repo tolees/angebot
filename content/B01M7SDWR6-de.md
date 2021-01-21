@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M7SDWR6-de Creative Outlier Sports - Kabellose Schweissresistente In-...'
+sku: 'B01M7SDWR6-de'
 tags: [  ]
 actualPrice: 43.8 EUR
 currency: EUR

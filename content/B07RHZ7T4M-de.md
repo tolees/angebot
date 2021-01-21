@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHZ7T4M-de Bqeel Android 10.0 TV Box【4G+64G】 R2 MAX Android TV Box...'
+sku: 'B07RHZ7T4M-de'
 tags: [  ]
 actualPrice: 59.49 EUR
 currency: EUR

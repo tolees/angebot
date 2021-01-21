@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9N8Z3D-de Doritos Paprika - Paprika Tortilla Nachos - Herzhafter...'
+sku: 'B07S9N8Z3D-de'
 tags: [  ]
 actualPrice: 8.57 EUR
 currency: EUR

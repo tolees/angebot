@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0829DZH2W-de Sabrent Rocket Q 2TB NVMe PCIe M.2 2280 Interne...'
+sku: 'B0829DZH2W-de'
 tags: [  ]
 actualPrice: 229.89 EUR
 currency: EUR

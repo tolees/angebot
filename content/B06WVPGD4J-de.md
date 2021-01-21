@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WVPGD4J-de Playmobil 9282 - Skischule'
+sku: 'B06WVPGD4J-de'
 tags: [  ]
 actualPrice: 10.98 EUR
 currency: EUR

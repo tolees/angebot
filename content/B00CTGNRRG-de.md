@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CTGNRRG-de Anita Comfort Damen Komfort Entlastungs Safina BH Weiß...'
+sku: 'B00CTGNRRG-de'
 tags: [  ]
 actualPrice: 32.09 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BV7MQUW-de Chicco Fahrzeuge mit Funktion Fiat 500 Driver'
+sku: 'B01BV7MQUW-de'
 tags: [  ]
 actualPrice: 43.8 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G6MYMKD-de Ultimate Ears Megaboom 3 Bluetooth Lautsprecher...'
+sku: 'B07G6MYMKD-de'
 tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR

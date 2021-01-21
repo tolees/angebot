@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075JCXS1K-de Unuber Badewanne Caddy & Laptop Bett Schreibtisch - 2 in 1...'
+sku: 'B075JCXS1K-de'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

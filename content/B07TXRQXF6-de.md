@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXRQXF6-de Spider-Man: Far From Home DVD'
+sku: 'B07TXRQXF6-de'
 tags: [  ]
 actualPrice: 4.34 EUR
 currency: EUR

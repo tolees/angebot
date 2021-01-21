@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004UR2GPQ-de Relaxdays Badregal Bambus Natur 33 x 33 x 79 cm'
+sku: 'B004UR2GPQ-de'
 tags: [  ]
 actualPrice: 27.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00R8EUQVE-de Fascinations Metal Earth ICX019 - 502830 London Eye...'
+sku: 'B00R8EUQVE-de'
 tags: [  ]
 actualPrice: 16.65 EUR
 currency: EUR

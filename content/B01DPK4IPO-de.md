@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DPK4IPO-de The North Face Unisex Rucksack Borealis Classic tnf...'
+sku: 'B01DPK4IPO-de'
 tags: [  ]
 actualPrice: 43.32 EUR
 currency: EUR

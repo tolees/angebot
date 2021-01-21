@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018DRK2BS-de Kunzer 7SS172 Steckschlüsselsatz 1/4" - 3/8" - 1/2"...'
+sku: 'B018DRK2BS-de'
 tags: [  ]
 actualPrice: 99.1 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014GXQ3JS-de Logitech G633 Artemis Spectrum Pro Gaming Headset 7.1...'
+sku: 'B014GXQ3JS-de'
 tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR

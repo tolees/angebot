@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081QK6CXV-de REHYPE Herren Longsleeve Oversize Langarm T-Shirt O-Neck...'
+sku: 'B081QK6CXV-de'
 tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR

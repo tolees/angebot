@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XTGTQFW-de CSL - USB Bluetooth Adapter V4.0 - A2DP - Windows 10...'
+sku: 'B07XTGTQFW-de'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

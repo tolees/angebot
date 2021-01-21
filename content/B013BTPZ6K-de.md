@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013BTPZ6K-de Hauck Duett 2 Geschwisterwagen bis 36 kg Zwillingsbuggy...'
+sku: 'B013BTPZ6K-de'
 tags: [  ]
 actualPrice: 292.0 EUR
 currency: EUR

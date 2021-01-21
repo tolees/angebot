@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008ZCAIWA-de EISL DX25 Waschbeckenbrause Handbrause für Küche Bad...'
+sku: 'B008ZCAIWA-de'
 tags: [  ]
 actualPrice: 12.5 EUR
 currency: EUR

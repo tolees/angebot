@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008LR3KCO-de Philips HF3510/01 Wake-Up Light mit Sonnenaufgangsfunktion...'
+sku: 'B008LR3KCO-de'
 tags: [  ]
 actualPrice: 68.99 EUR
 currency: EUR

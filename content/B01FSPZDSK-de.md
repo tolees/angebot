@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FSPZDSK-de LG Beamer PF1500G bis 304 8 cm 120 Zoll CineBeam Full HD...'
+sku: 'B01FSPZDSK-de'
 tags: [  ]
 actualPrice: 300.0 EUR
 currency: EUR

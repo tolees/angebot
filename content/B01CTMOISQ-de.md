@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CTMOISQ-de Forever Speed Super ECO Teichpumpe Filterpumpe Energiespar...'
+sku: 'B01CTMOISQ-de'
 tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR

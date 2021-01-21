@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XWQ8Z5G-de Live At Rockpalast'
+sku: 'B06XWQ8Z5G-de'
 tags: [  ]
 actualPrice: 13.91 EUR
 currency: EUR

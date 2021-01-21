@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AYB3H2C-de 100 Vakuumbeutel 20x30cm groß - Premium Qualität |...'
+sku: 'B01AYB3H2C-de'
 tags: [  ]
 actualPrice: 16.78 EUR
 currency: EUR

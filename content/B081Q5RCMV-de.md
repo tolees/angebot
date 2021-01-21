@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081Q5RCMV-de Bluetooth Headset mit Microfon TaoTronics PC Headset...'
+sku: 'B081Q5RCMV-de'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

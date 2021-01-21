@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FY4CP9T-de Jacobs Kaffeebohnen Barista Editions Crema Mild 1 kg...'
+sku: 'B07FY4CP9T-de'
 tags: [  ]
 actualPrice: 8.64 EUR
 currency: EUR

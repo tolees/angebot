@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0018LMKXK-de Nicht Von Dieser Welt/Re-release + Bonus'
+sku: 'B0018LMKXK-de'
 tags: [  ]
 actualPrice: 5.26 EUR
 currency: EUR

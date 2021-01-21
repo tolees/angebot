@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001DCQIAA-de Sinfonien 1-4 Karajan Sinfonien-Edition'
+sku: 'B001DCQIAA-de'
 tags: [  ]
 actualPrice: 5.25 EUR
 currency: EUR

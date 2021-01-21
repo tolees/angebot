@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TT3XR6Z-de Akku Hülle für iPhone X/XS [4000 mAh] Ultra Dünn Ladehülle...'
+sku: 'B07TT3XR6Z-de'
 tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR

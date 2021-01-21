@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KJMAJK-de AVERY Zweckform 1725 Auftrag A5 2x40 Blatt...'
+sku: 'B000KJMAJK-de'
 tags: [  ]
 actualPrice: 5.35 EUR
 currency: EUR

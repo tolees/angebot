@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G7DJO7I-de Columbia Herren Woodburn II Chukka Wp Omni-Heat Schwarz...'
+sku: 'B01G7DJO7I-de'
 tags: [  ]
 actualPrice: 50.16 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ95F3W-de Deluxe Whisky Steine Geschenkset - Sei anders bei der...'
+sku: 'B07DJ95F3W-de'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

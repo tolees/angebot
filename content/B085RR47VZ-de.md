@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085RR47VZ-de TONGJI Acryl Vitrine Kompatibel Mit Lego 42083 Technic...'
+sku: 'B085RR47VZ-de'
 tags: [  ]
 actualPrice: 103.99 EUR
 currency: EUR

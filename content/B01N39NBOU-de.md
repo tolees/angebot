@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N39NBOU-de Revell Build & Play - Star Wars Resistance A-wing Fighter...'
+sku: 'B01N39NBOU-de'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

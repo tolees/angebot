@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y6PPHM-de Ravensburger Spielen und Lernen 24920 - Quips'
+sku: 'B077Y6PPHM-de'
 tags: [  ]
 actualPrice: 14.14 EUR
 currency: EUR

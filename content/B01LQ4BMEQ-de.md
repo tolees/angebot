@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LQ4BMEQ-de Razer Ornata Chroma - Mecha-Membrane Gaming Keyboard...'
+sku: 'B01LQ4BMEQ-de'
 tags: [  ]
 actualPrice: 53.61 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075XPHGLW-de Think Gizmos Roboter Set für Kinder - Roboter zum...'
+sku: 'B075XPHGLW-de'
 tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR

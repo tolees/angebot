@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016BRGMNY-de Bartöl - Beard Oil für Männer - Für gesundes Bartwachstum...'
+sku: 'B016BRGMNY-de'
 tags: [  ]
 actualPrice: 12.39 EUR
 currency: EUR

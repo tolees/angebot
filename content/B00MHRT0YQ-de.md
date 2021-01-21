@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MHRT0YQ-de Sylvanian Families 5108 5108-Essen-Set in der Schule...'
+sku: 'B00MHRT0YQ-de'
 tags: [  ]
 actualPrice: 12.6 EUR
 currency: EUR

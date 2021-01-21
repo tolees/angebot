@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KJ59JBG-de Netgear Orbi RBK50 Ultra Speed Mesh-WLAN-System 3.000...'
+sku: 'B01KJ59JBG-de'
 tags: [  ]
 actualPrice: 299.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003KHLKF4-de Proxxon 27130 MICRO-Heißluftpistole MH 550 mit 3 Zusatzdüsen'
+sku: 'B003KHLKF4-de'
 tags: [  ]
 actualPrice: 28.26 EUR
 currency: EUR

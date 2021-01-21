@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4ND86P-de TP-Link Deco P7 Powerline WLAN Mesh Set 1300Mbits +...'
+sku: 'B07G4ND86P-de'
 tags: [  ]
 actualPrice: 199.9 EUR
 currency: EUR

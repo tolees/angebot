@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPS9H48-de Funko 36666 POP Bobble: Avengers Endgame: Ant-Man...'
+sku: 'B07KPS9H48-de'
 tags: [  ]
 actualPrice: 11.4 EUR
 currency: EUR

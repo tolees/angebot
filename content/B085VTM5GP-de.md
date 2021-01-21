@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085VTM5GP-de Dasket 6pcs / Set V-Form-Durchschlag für Nähen Form Punch-...'
+sku: 'B085VTM5GP-de'
 tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR

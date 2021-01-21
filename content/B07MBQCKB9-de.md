@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MBQCKB9-de Funko 39049 POP Vinyl: Games: Fortnite: Loot Llama 10"...'
+sku: 'B07MBQCKB9-de'
 tags: [  ]
 actualPrice: 23.41 EUR
 currency: EUR

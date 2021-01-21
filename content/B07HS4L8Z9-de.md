@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HS4L8Z9-de Lenovo Tab P10 25 5 cm 10 1 Zoll Full HD IPS Touch Tablet-...'
+sku: 'B07HS4L8Z9-de'
 tags: [  ]
 actualPrice: 246.22 EUR
 currency: EUR

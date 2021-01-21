@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CBSCA52-de ara München Gore Tex Damen Warm gefütterte Schneestiefel...'
+sku: 'B00CBSCA52-de'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

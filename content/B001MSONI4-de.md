@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001MSONI4-de Catwalk Collection Handbags - Leder - Übergroße...'
+sku: 'B001MSONI4-de'
 tags: [  ]
 actualPrice: 99.95 EUR
 currency: EUR

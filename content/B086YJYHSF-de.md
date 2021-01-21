@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086YJYHSF-de K9CK Bauspielzeug Bauset Modifiziertes Paket Lässt Sich...'
+sku: 'B086YJYHSF-de'
 tags: [  ]
 actualPrice: 189.99 EUR
 currency: EUR

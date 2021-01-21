@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YPDNK78-de Einhell Trockenbauschleifer TC-DW 225 600 W max. 1500...'
+sku: 'B00YPDNK78-de'
 tags: [  ]
 actualPrice: 84.99 EUR
 currency: EUR

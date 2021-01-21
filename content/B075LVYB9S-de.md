@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075LVYB9S-de TechniSat DIGITRADIO 20 CD – Modernes & kompaktes DAB+...'
+sku: 'B075LVYB9S-de'
 tags: [  ]
 actualPrice: 130.32 EUR
 currency: EUR

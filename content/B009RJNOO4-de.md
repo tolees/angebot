@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009RJNOO4-de Inter Link 19500010 Regal "Parini 1" 1 Boden 2 Fächer...'
+sku: 'B009RJNOO4-de'
 tags: [  ]
 actualPrice: 22.84 EUR
 currency: EUR

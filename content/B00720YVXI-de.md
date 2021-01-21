@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00720YVXI-de Playtastic Autorennbahn: Portable Rennbahn im Koffer -...'
+sku: 'B00720YVXI-de'
 tags: [  ]
 actualPrice: 46.95 EUR
 currency: EUR

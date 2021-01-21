@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BD2CIG2-de Urban Classics Ladies Tech Mesh Leggings Schwarz black 7 M'
+sku: 'B01BD2CIG2-de'
 tags: [  ]
 actualPrice: 15.52 EUR
 currency: EUR

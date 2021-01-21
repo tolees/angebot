@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005VNXOWW-de Eine ganz heisse Nummer'
+sku: 'B005VNXOWW-de'
 tags: [  ]
 actualPrice: 4.59 EUR
 currency: EUR

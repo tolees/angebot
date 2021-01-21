@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C7JIV5M-de Tommy Hilfiger Herren Multi Zifferblatt Quarz Uhr mit...'
+sku: 'B01C7JIV5M-de'
 tags: [  ]
 actualPrice: 122.13 EUR
 currency: EUR

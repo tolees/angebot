@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075KPNDC8-de JBL Tune110BT In-Ear Bluetooth-Kopfhörer - Kabellose...'
+sku: 'B075KPNDC8-de'
 tags: [  ]
 actualPrice: 32.76 EUR
 currency: EUR

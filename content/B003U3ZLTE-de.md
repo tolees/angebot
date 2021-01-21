@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003U3ZLTE-de Intenso Photobase Digitaler Bilderrahmen 20 3cm 8 Zoll...'
+sku: 'B003U3ZLTE-de'
 tags: [  ]
 actualPrice: 27.9 EUR
 currency: EUR

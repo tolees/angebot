@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001FDERS2-de Wenko Herdabdeckplatte Universal Kaffee 2er Set für alle...'
+sku: 'B001FDERS2-de'
 tags: [  ]
 actualPrice: 16.02 EUR
 currency: EUR

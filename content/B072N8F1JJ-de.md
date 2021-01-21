@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072N8F1JJ-de roba Spielregal Rennfahrer Spielzeug- & Aufbewahrungs-...'
+sku: 'B072N8F1JJ-de'
 tags: [  ]
 actualPrice: 44.06 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFDQLMX-de Funko 34460 Riverdale: Reggie in Football Uniform POP...'
+sku: 'B07DFDQLMX-de'
 tags: [  ]
 actualPrice: 4.29 EUR
 currency: EUR

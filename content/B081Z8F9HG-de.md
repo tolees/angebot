@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081Z8F9HG-de Bluetooth Kopfhörer In-Ear M3 TWS True Wireless...'
+sku: 'B081Z8F9HG-de'
 tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR

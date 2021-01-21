@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LCBRFF6-de PROACC wasserdichte Kamera für Kinder bis 3 Meter...'
+sku: 'B07LCBRFF6-de'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

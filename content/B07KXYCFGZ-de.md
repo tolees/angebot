@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXYCFGZ-de T98 Airpods Case Metall 2019 Neuestes AirPods Hülle Mit...'
+sku: 'B07KXYCFGZ-de'
 tags: [  ]
 actualPrice: 5.34 EUR
 currency: EUR

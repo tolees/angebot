@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0766DJPRK-de PLAYMOBIL Family Fun 9420 Sonnige Ferienvilla Ab 4 Jahren'
+sku: 'B0766DJPRK-de'
 tags: [  ]
 actualPrice: 29.75 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HH9QAT2-de Kärcher Hochdruckreiniger K 2 Basic Druck:110 bar...'
+sku: 'B00HH9QAT2-de'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

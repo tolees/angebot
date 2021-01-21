@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KZ67MS2-de LG 32QK500-W 80 01 cm 31 5 Zoll Monitor WQHD AMD Radeon...'
+sku: 'B07KZ67MS2-de'
 tags: [  ]
 actualPrice: 225.99 EUR
 currency: EUR

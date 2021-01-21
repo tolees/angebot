@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FF4ZSPI-de Kultkomödien mit Thomas Gottschalk & Mike Krüger - 5DVD-...'
+sku: 'B00FF4ZSPI-de'
 tags: [  ]
 actualPrice: 11.13 EUR
 currency: EUR

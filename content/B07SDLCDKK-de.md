@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SDLCDKK-de LIGHTAILING Licht-Set Für Architecture Freiheitsstatue...'
+sku: 'B07SDLCDKK-de'
 tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR

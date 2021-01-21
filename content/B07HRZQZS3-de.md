@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRZQZS3-de Nokia 7.1 2018 32GB Blau Dual-SIM Android 8 Smartphone mit...'
+sku: 'B07HRZQZS3-de'
 tags: [  ]
 actualPrice: 117.96 EUR
 currency: EUR

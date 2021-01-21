@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XB1PK4C-de Need for Speed Heat | Standard | PC Download - Origin Code'
+sku: 'B07XB1PK4C-de'
 tags: [  ]
 actualPrice: 29.98 EUR
 currency: EUR

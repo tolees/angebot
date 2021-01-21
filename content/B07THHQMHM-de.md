@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THHQMHM-de Anker Wireless Charger PowerWave Ladepad Kabelloses 7.5W...'
+sku: 'B07THHQMHM-de'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

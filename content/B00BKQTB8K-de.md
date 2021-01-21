@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BKQTB8K-de Daniel Wellington Classic Glasgow Blau-weiß/Roségold...'
+sku: 'B00BKQTB8K-de'
 tags: [  ]
 actualPrice: 12.33 EUR
 currency: EUR

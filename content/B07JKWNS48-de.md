@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKWNS48-de Playmobil 70051 City Life Notarzt-Motorrad mit Blinklicht...'
+sku: 'B07JKWNS48-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

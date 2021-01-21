@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072LWV8KH-de Monuments'
+sku: 'B072LWV8KH-de'
 tags: [  ]
 actualPrice: 13.31 EUR
 currency: EUR

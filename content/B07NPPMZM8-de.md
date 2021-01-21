@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPPMZM8-de Nene Toys - Pädagogisches Kinderspiel ab 3 Jahre -...'
+sku: 'B07NPPMZM8-de'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

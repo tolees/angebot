@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076N2ZQJZ-de miaX Profi Ceranfeldschaber - Ihr zuverlässiger Schaber...'
+sku: 'B076N2ZQJZ-de'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR

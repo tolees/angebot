@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0000WS6QI-de Numark HF125 - professioneller DJ Kopfhörer mit 2m Kabel...'
+sku: 'B0000WS6QI-de'
 tags: [  ]
 actualPrice: 8.3 EUR
 currency: EUR

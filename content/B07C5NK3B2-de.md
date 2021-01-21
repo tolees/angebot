@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C5NK3B2-de Rosti Mepal 107778076700 Flasche Ellipse 700 ml Kunststoff...'
+sku: 'B07C5NK3B2-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

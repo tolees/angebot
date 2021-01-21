@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFC39GS-de Funko 33977 Marvel Into The Verse: Spider-Man Miles POP...'
+sku: 'B07DFC39GS-de'
 tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079ZWRPMF-de Philips Epiliergerät Satinelle Prestige BRE651/00 – Nass-...'
+sku: 'B079ZWRPMF-de'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

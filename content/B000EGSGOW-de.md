@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000EGSGOW-de VARTA Longlife Power Batterie 4 5 V Block Alkaline...'
+sku: 'B000EGSGOW-de'
 tags: [  ]
 actualPrice: 2.5 EUR
 currency: EUR

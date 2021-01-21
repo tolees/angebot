@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P47MZZC-de Led Leuchtmittel E27 Warmweiß 5W Tropfen Birne Licht 3000K...'
+sku: 'B00P47MZZC-de'
 tags: [  ]
 actualPrice: 7.19 EUR
 currency: EUR

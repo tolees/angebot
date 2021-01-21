@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RPB5PVD-de Funko 44278 POP NBA: Dallas Mavericks-Kristaps Prozingis...'
+sku: 'B07RPB5PVD-de'
 tags: [  ]
 actualPrice: 7.39 EUR
 currency: EUR

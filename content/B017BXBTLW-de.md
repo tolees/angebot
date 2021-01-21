@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017BXBTLW-de Schwiizer Schüümli Gastronom Ganze Kaffeebohnen 1kg...'
+sku: 'B017BXBTLW-de'
 tags: [  ]
 actualPrice: 11.09 EUR
 currency: EUR

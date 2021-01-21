@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JM3TC29-de Außen Überwachungskamera 1080P WiFi Kamera Drahtlose...'
+sku: 'B08JM3TC29-de'
 tags: [  ]
 actualPrice: 49.89 EUR
 currency: EUR

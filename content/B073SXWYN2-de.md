@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073SXWYN2-de Google WiFi-Router Wireless Bluetooth Weiß weiß weiß Pack...'
+sku: 'B073SXWYN2-de'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

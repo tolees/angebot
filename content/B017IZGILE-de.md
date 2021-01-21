@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017IZGILE-de Siemens EX645LXC1E iQ700 Kochfeld Elektro /...'
+sku: 'B017IZGILE-de'
 tags: [  ]
 actualPrice: 599.0 EUR
 currency: EUR

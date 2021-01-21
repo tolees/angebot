@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B3I8REY-de KS Tools 515.0990 SlimPOWER Impact-Stecknuss-Satz 3-tlg. 1/2"'
+sku: 'B00B3I8REY-de'
 tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR

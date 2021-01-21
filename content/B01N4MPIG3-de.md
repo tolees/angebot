@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4MPIG3-de Grsta Magnetisches Armband - Personalisierte Geschenke für...'
+sku: 'B01N4MPIG3-de'
 tags: [  ]
 actualPrice: 10.97 EUR
 currency: EUR

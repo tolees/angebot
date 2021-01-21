@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0042FGPXU-de Urban Classics TB207 Herren Jacke Bekleidung 2 Tone...'
+sku: 'B0042FGPXU-de'
 tags: [  ]
 actualPrice: 34.11 EUR
 currency: EUR

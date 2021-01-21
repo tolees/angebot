@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRD42WK-de Samsung LS01R The Serif 108 cm 43 Zoll QLED Lifestyle...'
+sku: 'B07PRD42WK-de'
 tags: [  ]
 actualPrice: 431 EUR
 currency: EUR

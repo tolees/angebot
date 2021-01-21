@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0082AYFH4-de Panama Jack Felia Igloo Damen Warm gefüttert Biker Boots...'
+sku: 'B0082AYFH4-de'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

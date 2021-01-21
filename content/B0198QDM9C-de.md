@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0198QDM9C-de Crucial Ballistix Sport LT BLS16G4D240FSC Desktop Gaming...'
+sku: 'B0198QDM9C-de'
 tags: [  ]
 actualPrice: 52.9 EUR
 currency: EUR

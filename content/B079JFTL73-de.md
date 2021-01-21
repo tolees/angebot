@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079JFTL73-de Barbie FRH73 - Cooking und Baking Deluxe Küche Spielset...'
+sku: 'B079JFTL73-de'
 tags: [  ]
 actualPrice: 41.18 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FZZVBNL-de Meetory Etikettenhalter aus Kunststoff transparent...'
+sku: 'B07FZZVBNL-de'
 tags: [  ]
 actualPrice: 10.59 EUR
 currency: EUR

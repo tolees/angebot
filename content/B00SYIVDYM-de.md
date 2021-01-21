@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SYIVDYM-de Fjällräven Herren High Coast Wind Jacket Anorak Navy XL'
+sku: 'B00SYIVDYM-de'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

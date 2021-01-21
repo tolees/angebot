@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKTFCK5-de Onforu 16er LED Lichterkette Batterie 3 m 30 LEDs...'
+sku: 'B07DKTFCK5-de'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

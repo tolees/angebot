@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079PC9JQ5-de One Piece World Seeker Standard - [PlayStation 4]'
+sku: 'B079PC9JQ5-de'
 tags: [  ]
 actualPrice: 15.64 EUR
 currency: EUR

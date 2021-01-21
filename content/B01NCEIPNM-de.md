@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCEIPNM-de BRITA Wasserfilter Marella weiß inkl. 1 MAXTRA+...'
+sku: 'B01NCEIPNM-de'
 tags: [  ]
 actualPrice: 12.14 EUR
 currency: EUR

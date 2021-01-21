@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKSDJXL-de BOYOU Herren Warmen Windproof Radfahren Handschuhe Winter...'
+sku: 'B07JKSDJXL-de'
 tags: [  ]
 actualPrice: 15.98 EUR
 currency: EUR

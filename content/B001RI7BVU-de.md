@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001RI7BVU-de Enders Camping Gasgrill EXPLORER NEXT Grillen- Kochen- und...'
+sku: 'B001RI7BVU-de'
 tags: [  ]
 actualPrice: 109.0 EUR
 currency: EUR

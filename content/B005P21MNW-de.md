@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005P21MNW-de SKROSS Country Adapter World to Europe: Reiseadapter für...'
+sku: 'B005P21MNW-de'
 tags: [  ]
 actualPrice: 6.32 EUR
 currency: EUR

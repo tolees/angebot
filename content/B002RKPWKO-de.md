@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002RKPWKO-de 135/Fluch des Piraten'
+sku: 'B002RKPWKO-de'
 tags: [  ]
 actualPrice: 3.39 EUR
 currency: EUR

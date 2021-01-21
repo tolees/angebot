@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K8R8QCX-de infactory Spielwaren: Selbstklebendes Spielbaustein-Tape...'
+sku: 'B07K8R8QCX-de'
 tags: [  ]
 actualPrice: 4.95 EUR
 currency: EUR

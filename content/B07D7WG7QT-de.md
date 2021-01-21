@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7WG7QT-de TALENT Zuse Weekender - Geräumige Reisetasche XL...'
+sku: 'B07D7WG7QT-de'
 tags: [  ]
 actualPrice: 198.99 EUR
 currency: EUR

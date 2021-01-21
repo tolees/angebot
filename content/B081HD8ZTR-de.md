@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081HD8ZTR-de CELMAN CADA Bausteine Auto Hybrid Tourenwagen 1586 Teile...'
+sku: 'B081HD8ZTR-de'
 tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR

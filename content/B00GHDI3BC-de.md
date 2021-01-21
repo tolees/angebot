@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GHDI3BC-de Gardena Teleskop-Hochentaster TCS Li-18/20 Set: Astsäge...'
+sku: 'B00GHDI3BC-de'
 tags: [  ]
 actualPrice: 130.62 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XS6RGKD-de Lenovo Q24i-10 60 45 cm 23 8 Zoll Full HD IPS matt Monitor...'
+sku: 'B07XS6RGKD-de'
 tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077BC6NKB-de Hasbro FurReal Friends E0497EU4 Frisierspaß Hündchen...'
+sku: 'B077BC6NKB-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

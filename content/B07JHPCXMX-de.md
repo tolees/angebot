@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHPCXMX-de Schiesser Damen Mix & Relax Shirt 1/2 Arm...'
+sku: 'B07JHPCXMX-de'
 tags: [  ]
 actualPrice: 20.55 EUR
 currency: EUR

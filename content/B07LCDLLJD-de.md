@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LCDLLJD-de BRIKSMAX Parisian Restaurant Led Beleuchtungsset -...'
+sku: 'B07LCDLLJD-de'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

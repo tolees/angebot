@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YDYFGTS-de OMEN 15-dc1015ng 15 6 Zoll / FHD IPS 60Hz Gaming Laptop...'
+sku: 'B07YDYFGTS-de'
 tags: [  ]
 actualPrice: 715.0 EUR
 currency: EUR

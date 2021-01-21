@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CQ5L3YH-de Swiffer - Staubmagnet Nachfüller mit Febrezeduft 1er Pack...'
+sku: 'B07CQ5L3YH-de'
 tags: [  ]
 actualPrice: 4.17 EUR
 currency: EUR

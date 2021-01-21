@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000PAU11S-de Die Rotkäppchen-Verschwörung'
+sku: 'B000PAU11S-de'
 tags: [  ]
 actualPrice: 2.68 EUR
 currency: EUR

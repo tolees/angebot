@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019OUUNR6-de Landmann Gasgrillwagen 12220 emaillierte...'
+sku: 'B019OUUNR6-de'
 tags: [  ]
 actualPrice: 175.01 EUR
 currency: EUR

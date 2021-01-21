@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007TGA2HY-de Timberland Damen 14 Inch Premium Waterproof Stiefel Gelb...'
+sku: 'B007TGA2HY-de'
 tags: [  ]
 actualPrice: 68.99 EUR
 currency: EUR

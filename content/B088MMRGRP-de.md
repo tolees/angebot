@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088MMRGRP-de Samsung Galaxy S10+ Smartphone Bundle 16.3 cm 6.4 Zoll...'
+sku: 'B088MMRGRP-de'
 tags: [  ]
 actualPrice: 629.0 EUR
 currency: EUR

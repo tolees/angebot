@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZFHDC7-de Schmidt Spiele 49365 Noch mal so gut Würfelspiel aus der...'
+sku: 'B07WZFHDC7-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

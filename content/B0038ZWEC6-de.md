@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0038ZWEC6-de fischertechnik - 508775 ADVANCED Super Fun Park...'
+sku: 'B0038ZWEC6-de'
 tags: [  ]
 actualPrice: 75.99 EUR
 currency: EUR

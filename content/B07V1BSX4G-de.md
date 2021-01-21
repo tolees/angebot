@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V1BSX4G-de LEDVANCE LED Wand- und Deckenleuchte Leuchte für...'
+sku: 'B07V1BSX4G-de'
 tags: [  ]
 actualPrice: 12.77 EUR
 currency: EUR

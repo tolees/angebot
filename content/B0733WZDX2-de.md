@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0733WZDX2-de Festina Herren Chronograph Quarz Uhr mit Leder Armband...'
+sku: 'B0733WZDX2-de'
 tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LLGWCOS-de Kitchen Craft Wasserkocher Living Nostalgia 1 4l in...'
+sku: 'B01LLGWCOS-de'
 tags: [  ]
 actualPrice: 19.66 EUR
 currency: EUR

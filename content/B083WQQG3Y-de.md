@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083WQQG3Y-de GODNECE Display Halterung Ständer Für 75257 Vertikaler...'
+sku: 'B083WQQG3Y-de'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

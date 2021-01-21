@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002CMSOFW-de Mantona Colt DSLR Kamera Tasche für Spiegelreflex SLR...'
+sku: 'B002CMSOFW-de'
 tags: [  ]
 actualPrice: 15.82 EUR
 currency: EUR

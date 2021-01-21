@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0000TLA6E-de Miss Marple Box 4 DVDs'
+sku: 'B0000TLA6E-de'
 tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CMW58WR-de De Longhi Nespresso Vertuo Plus | ENV 155.B...'
+sku: 'B07CMW58WR-de'
 tags: [  ]
 actualPrice: 74.9 EUR
 currency: EUR

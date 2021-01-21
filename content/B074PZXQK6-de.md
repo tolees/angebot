@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PZXQK6-de Jaybird Run Kabellose In-Ear Kopfhörer Bluetooth...'
+sku: 'B074PZXQK6-de'
 tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR

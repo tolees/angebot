@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BHMJOU6-de Funko 7295 No Actionfigur Disney: Alice Through Looking...'
+sku: 'B01BHMJOU6-de'
 tags: [  ]
 actualPrice: 10.43 EUR
 currency: EUR

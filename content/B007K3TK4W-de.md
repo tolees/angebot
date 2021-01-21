@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007K3TK4W-de GoPro Surf HERO Expansion Kit Kamerabefestigung geeignet...'
+sku: 'B007K3TK4W-de'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

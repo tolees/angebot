@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004UBU8IE-de TP-Link TL-WA801ND V5.0 WLAN Access Point 300Mbit/s Client...'
+sku: 'B004UBU8IE-de'
 tags: [  ]
 actualPrice: 21.14 EUR
 currency: EUR

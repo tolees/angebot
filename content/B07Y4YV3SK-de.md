@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y4YV3SK-de USB Stick 64GB MECO ELEVERDE 2-in-1 OTG Speicherstick...'
+sku: 'B07Y4YV3SK-de'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

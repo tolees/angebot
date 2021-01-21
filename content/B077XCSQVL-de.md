@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XCSQVL-de Ravensburger Kinderspiele 21353 Monsterstarker Glibberklatsch'
+sku: 'B077XCSQVL-de'
 tags: [  ]
 actualPrice: 13.11 EUR
 currency: EUR

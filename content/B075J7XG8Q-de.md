@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075J7XG8Q-de ADORIC Digitalwaage Professionelle Electronische Waage...'
+sku: 'B075J7XG8Q-de'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

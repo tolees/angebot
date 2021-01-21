@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R24ZQ4D-de VAUDE Tool Aqua Satteltasche Riemen 15 cm Black'
+sku: 'B07R24ZQ4D-de'
 tags: [  ]
 actualPrice: 8.76 EUR
 currency: EUR

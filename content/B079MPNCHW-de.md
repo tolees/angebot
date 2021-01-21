@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MPNCHW-de PLAYMOBIL Space 9489 Mars-Erkundungsfahrzeug Ab 6 Jahren'
+sku: 'B079MPNCHW-de'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

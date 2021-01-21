@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085CLKXHL-de PUMA Sportsocken Crew 18 Paar Pack Statement Edition -...'
+sku: 'B085CLKXHL-de'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

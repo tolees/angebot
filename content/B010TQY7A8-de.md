@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010TQY7A8-de Asmodee Exploding Kittens: A Card Game About Kittens and...'
+sku: 'B010TQY7A8-de'
 tags: [  ]
 actualPrice: 19.49 EUR
 currency: EUR

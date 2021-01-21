@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CFRGNG-de Samsonite Happy Sammies - Kinder-Rucksack S 28 cm 7.5 L...'
+sku: 'B076CFRGNG-de'
 tags: [  ]
 actualPrice: 29.72 EUR
 currency: EUR

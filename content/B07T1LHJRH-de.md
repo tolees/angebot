@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T1LHJRH-de Disgaea 4 Complete+ PS4'
+sku: 'B07T1LHJRH-de'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

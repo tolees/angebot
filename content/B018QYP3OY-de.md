@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018QYP3OY-de Xoro HRK 7660 HD Receiver für digitales Kabelfernsehen...'
+sku: 'B018QYP3OY-de'
 tags: [  ]
 actualPrice: 26.9 EUR
 currency: EUR

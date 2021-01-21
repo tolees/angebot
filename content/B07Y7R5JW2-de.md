@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y7R5JW2-de Bluetooth Lautsprecher AXLOIE Wireless tragbarer...'
+sku: 'B07Y7R5JW2-de'
 tags: [  ]
 actualPrice: 29.98 EUR
 currency: EUR

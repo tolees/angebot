@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4JLS52-de GODNECE LED Licht-Set für Baustein Led Beleuchtungsset...'
+sku: 'B07V4JLS52-de'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

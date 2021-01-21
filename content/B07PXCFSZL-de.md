@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PXCFSZL-de VGA HDMI Dummy Plug Virtueller Display-Emulator-Adapter...'
+sku: 'B07PXCFSZL-de'
 tags: [  ]
 actualPrice: 1.38 EUR
 currency: EUR

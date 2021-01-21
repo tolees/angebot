@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CQKKFKN-de No Way Out - Gegen die Flammen [Blu-ray]'
+sku: 'B07CQKKFKN-de'
 tags: [  ]
 actualPrice: 6.33 EUR
 currency: EUR

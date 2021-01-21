@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GNP4Y70-de Dark Grey/White'
+sku: 'B01GNP4Y70-de'
 tags: [  ]
 actualPrice: 81.99 EUR
 currency: EUR

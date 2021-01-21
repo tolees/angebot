@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BHPXMX3-de Kopfhörer Kabellos Bluetooth Kopfhor Noise Cancelling...'
+sku: 'B08BHPXMX3-de'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

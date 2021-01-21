@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L1HAYUW-de Exquisit KS 85-9 RVA+ Kühlschrank/ 82 Liter Nutzinhalt/...'
+sku: 'B00L1HAYUW-de'
 tags: [  ]
 actualPrice: 115.0 EUR
 currency: EUR

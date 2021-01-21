@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CES5A60-de Logitech C930e Business-Webcam Full-HD 1080p 90° Blickfeld...'
+sku: 'B00CES5A60-de'
 tags: [  ]
 actualPrice: 78.09 EUR
 currency: EUR

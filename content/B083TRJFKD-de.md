@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083TRJFKD-de H0 V Minifiguren Schaukasten 3-Schicht Acryl Schaukasten...'
+sku: 'B083TRJFKD-de'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

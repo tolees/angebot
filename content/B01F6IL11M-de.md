@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F6IL11M-de satch Pack Chaka Cherry ergonomischer Schulrucksack 30...'
+sku: 'B01F6IL11M-de'
 tags: [  ]
 actualPrice: 75 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0148NMVQA-de Philips Hue LightStrip+ Basis Set ohne Bridge 2m flexibel...'
+sku: 'B0148NMVQA-de'
 tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR

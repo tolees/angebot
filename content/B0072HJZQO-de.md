@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0072HJZQO-de Inter Link 13500020 Regal weiß Bücherregal Wandregal...'
+sku: 'B0072HJZQO-de'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

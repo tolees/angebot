@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LCXPKXR-de Spigen L37CS25731 Thin Fit 360 Kompatibel mit Huawei P30...'
+sku: 'B07LCXPKXR-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

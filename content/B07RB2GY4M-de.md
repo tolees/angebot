@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RB2GY4M-de YLCJ Vintage Doble Bronce Industrial Industrial Lámparas...'
+sku: 'B07RB2GY4M-de'
 tags: [  ]
 actualPrice: 45.28 EUR
 currency: EUR

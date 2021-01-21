@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C3SFFEI-de Ravensburger 26601 Scotland Yard Strategiespiel'
+sku: 'B00C3SFFEI-de'
 tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR

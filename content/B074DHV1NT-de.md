@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074DHV1NT-de Thomas Sabo Damen-Charm-Armband 925 Sterlingsilber...'
+sku: 'B074DHV1NT-de'
 tags: [  ]
 actualPrice: 18.43 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00018GWMQ-de Winnie Puuh - Spaß im Frühling Winnie Puuh Collection'
+sku: 'B00018GWMQ-de'
 tags: [  ]
 actualPrice: 3.82 EUR
 currency: EUR

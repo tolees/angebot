@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMCQHKR-de Yazubi Jeans Herren Akon Slim - Jeans Hosen für Männer -...'
+sku: 'B07TMCQHKR-de'
 tags: [  ]
 actualPrice: 31.96 EUR
 currency: EUR

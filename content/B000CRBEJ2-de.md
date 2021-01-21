@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000CRBEJ2-de Eastpak Padded Pak r Rucksack 40 cm 24 L Schwarz Black'
+sku: 'B000CRBEJ2-de'
 tags: [  ]
 actualPrice: 21.0 EUR
 currency: EUR

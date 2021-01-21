@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000UAOIVC-de WMF Perfect Schnellkochtopf Induktion Dampfkochtopf 4 5l...'
+sku: 'B000UAOIVC-de'
 tags: [  ]
 actualPrice: 68.99 EUR
 currency: EUR

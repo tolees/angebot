@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0104LSLIM-de Brennenstuhl Tower Power Tischsteckdosenleiste 3-fach...'
+sku: 'B0104LSLIM-de'
 tags: [  ]
 actualPrice: 17.41 EUR
 currency: EUR

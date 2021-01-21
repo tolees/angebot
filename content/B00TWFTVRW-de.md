@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TWFTVRW-de fischertechnik Kugelbahn Dynamic M mit Kettenaufzug und...'
+sku: 'B00TWFTVRW-de'
 tags: [  ]
 actualPrice: 46.39 EUR
 currency: EUR

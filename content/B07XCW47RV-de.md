@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCW47RV-de Microsoft Surface Pro 7 12 3 Zoll 2-in-1 Tablet Intel Core...'
+sku: 'B07XCW47RV-de'
 tags: [  ]
 actualPrice: 1039.0 EUR
 currency: EUR

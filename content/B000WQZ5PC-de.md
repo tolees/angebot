@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WQZ5PC-de Yankee Candle große Duftkerze im Glas Lemon Lavender...'
+sku: 'B000WQZ5PC-de'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XL1P36N-de Inkbird IBBQ-4T WLAN Grillthermometer Wasserdichtes WiFi...'
+sku: 'B07XL1P36N-de'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

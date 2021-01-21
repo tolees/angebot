@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001JNNDEC-de Die Suche Geht Weiter Jewelbox'
+sku: 'B001JNNDEC-de'
 tags: [  ]
 actualPrice: 3.34 EUR
 currency: EUR

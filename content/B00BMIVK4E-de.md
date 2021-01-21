@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BMIVK4E-de The Iceman'
+sku: 'B00BMIVK4E-de'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

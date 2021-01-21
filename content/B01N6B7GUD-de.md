@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6B7GUD-de Kenwood Chef Elite KVC5320S Küchenmaschine 4 6 l Edelstahl...'
+sku: 'B01N6B7GUD-de'
 tags: [  ]
 actualPrice: 387.35 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OXWN70Q-de uvex Unisex – Erwachsene plug-in LED für i-vo/airwing...'
+sku: 'B00OXWN70Q-de'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR

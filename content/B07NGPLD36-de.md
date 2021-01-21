@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGPLD36-de Lioncast LM40 WL Wireless Gaming Maus für kabelloses...'
+sku: 'B07NGPLD36-de'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

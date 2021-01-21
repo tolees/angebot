@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079N83MSD-de Hansaplast Frozen Pflaster 1 x 20 Stück'
+sku: 'B079N83MSD-de'
 tags: [  ]
 actualPrice: 1.25 EUR
 currency: EUR

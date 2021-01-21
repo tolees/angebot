@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YA10NBQ-de Panasonic Nass/Trocken-Rasierer ES-LT4N mit ultraflexiblem...'
+sku: 'B00YA10NBQ-de'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

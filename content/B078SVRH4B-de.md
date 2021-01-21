@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SVRH4B-de SanDisk Extreme Portable SSD externe Festplatte 250GB SSD...'
+sku: 'B078SVRH4B-de'
 tags: [  ]
 actualPrice: 62.38 EUR
 currency: EUR

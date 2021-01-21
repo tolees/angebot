@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NC4WT71-de Disney Cars GGL47 - Radiator Springs Rennset Spielzeugauto...'
+sku: 'B07NC4WT71-de'
 tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR

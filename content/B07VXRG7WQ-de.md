@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXRG7WQ-de Garmin fenix 6S PRO kompakte GPS-Multisport-Smartwatch mit...'
+sku: 'B07VXRG7WQ-de'
 tags: [  ]
 actualPrice: 589.99 EUR
 currency: EUR

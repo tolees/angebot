@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005VQODPG-de Leuchtturm 313845 Banknotenalbum'
+sku: 'B005VQODPG-de'
 tags: [  ]
 actualPrice: 8.5 EUR
 currency: EUR

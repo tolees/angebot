@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000SO40SG-de Rössler 1329452707 - S.O.H.O. Wire-O Fotoalbum 290 x 290...'
+sku: 'B000SO40SG-de'
 tags: [  ]
 actualPrice: 14.5 EUR
 currency: EUR

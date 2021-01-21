@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLRHK6M-de Huawei P30 128GB Handy hellblau/Lavendel Breathing Crystal...'
+sku: 'B07NLRHK6M-de'
 tags: [  ]
 actualPrice: 289.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKM66QT-de Bosch TDS6530 Serie I 6 EasyComfort Dampfbügelstation...'
+sku: 'B07HKM66QT-de'
 tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR

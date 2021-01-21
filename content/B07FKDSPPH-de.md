@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKDSPPH-de Hasbro E4163ES2 - Disney Prinzessin Schimmerglanz Jasmin...'
+sku: 'B07FKDSPPH-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00R0Z7TFM-de Bosch Professional Laser Entfernungsmesser GLM 40...'
+sku: 'B00R0Z7TFM-de'
 tags: [  ]
 actualPrice: 55.91 EUR
 currency: EUR

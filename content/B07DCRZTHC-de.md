@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DCRZTHC-de LIGHTAILING Licht-Set Für Volkswagen T1 Campingbus Modell...'
+sku: 'B07DCRZTHC-de'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

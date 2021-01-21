@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGFBC7S-de Souarts Ring Damen Schmuck Silber Gold Rosegold Farbe...'
+sku: 'B07PGFBC7S-de'
 tags: [  ]
 actualPrice: 0.01 EUR
 currency: EUR

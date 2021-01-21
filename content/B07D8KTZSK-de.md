@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D8KTZSK-de Led Leuchtmittel E27 Warmweiß 12W Lampe Licht 3000K 984...'
+sku: 'B07D8KTZSK-de'
 tags: [  ]
 actualPrice: 11.19 EUR
 currency: EUR

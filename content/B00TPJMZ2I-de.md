@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TPJMZ2I-de Milwaukee Akku M18 B5 18 V/5.0 Ah Red Li-Ion'
+sku: 'B00TPJMZ2I-de'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

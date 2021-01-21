@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FM2GLNQ-de Trust Verto Wireless Vertikale Ergonomische Maus...'
+sku: 'B07FM2GLNQ-de'
 tags: [  ]
 actualPrice: 16.91 EUR
 currency: EUR

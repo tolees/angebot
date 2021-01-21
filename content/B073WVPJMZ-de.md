@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073WVPJMZ-de Akkuschrauber 12volt set TACKLIFE Akku-Bohrschrauber 2000...'
+sku: 'B073WVPJMZ-de'
 tags: [  ]
 actualPrice: 51.99 EUR
 currency: EUR

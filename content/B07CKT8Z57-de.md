@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CKT8Z57-de Sennheiser HD 4.50 Special Edition kabelloser Over-Ear-...'
+sku: 'B07CKT8Z57-de'
 tags: [  ]
 actualPrice: 94.99 EUR
 currency: EUR

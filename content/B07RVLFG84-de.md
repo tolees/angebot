@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RVLFG84-de Funko 44821 POP TV: Game of Thrones-Theon w/Flaming Arrows...'
+sku: 'B07RVLFG84-de'
 tags: [  ]
 actualPrice: 11.5 EUR
 currency: EUR

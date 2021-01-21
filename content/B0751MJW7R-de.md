@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0751MJW7R-de Canon PGI-580 XL Tintenpatrone PGBK Pigment Black'
+sku: 'B0751MJW7R-de'
 tags: [  ]
 actualPrice: 13.27 EUR
 currency: EUR

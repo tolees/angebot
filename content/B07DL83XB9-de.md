@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DL83XB9-de Landwirtschafts-Simulator 19 PS4'
+sku: 'B07DL83XB9-de'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

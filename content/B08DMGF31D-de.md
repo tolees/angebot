@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DMGF31D-de AngLink Elektrisch Augenbrauentrimmer USB Augenbrauen...'
+sku: 'B08DMGF31D-de'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

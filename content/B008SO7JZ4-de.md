@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008SO7JZ4-de Remington Haarglätter Keratin Therapy S8590 innovativer...'
+sku: 'B008SO7JZ4-de'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KHTNLXM-de Under Armour Herren UA HeatGear Long Sleeve langärmliges...'
+sku: 'B00KHTNLXM-de'
 tags: [  ]
 actualPrice: 15.73 EUR
 currency: EUR

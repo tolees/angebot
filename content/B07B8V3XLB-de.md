@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B8V3XLB-de Tommy Hilfiger Herren CORE Hilfiger Regular Polo Poloshirt...'
+sku: 'B07B8V3XLB-de'
 tags: [  ]
 actualPrice: 58.1 EUR
 currency: EUR

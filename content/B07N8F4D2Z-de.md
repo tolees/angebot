@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8F4D2Z-de Veganz BIO Protein Choc Bar Strawberry Cake Style -...'
+sku: 'B07N8F4D2Z-de'
 tags: [  ]
 actualPrice: 23.9 EUR
 currency: EUR

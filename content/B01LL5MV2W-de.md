@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LL5MV2W-de HERMKO 5722 2er Pack Damen 3/4-Leggings mit Spitze...'
+sku: 'B01LL5MV2W-de'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

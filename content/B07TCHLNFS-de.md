@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TCHLNFS-de Walk the Sky'
+sku: 'B07TCHLNFS-de'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

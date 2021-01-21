@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EUUXBDE-de Logitech Z200 2.0 Lautsprecher mit Subwoofer Surround...'
+sku: 'B00EUUXBDE-de'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

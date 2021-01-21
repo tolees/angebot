@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GHU9HSM-de Avoseedo das Besondere Garten Geschenke - Pflanzen Sie...'
+sku: 'B01GHU9HSM-de'
 tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR

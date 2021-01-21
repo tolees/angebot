@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WD8G8FB-de Edelstahl Trichter yidenguk Kitchen Strainer Trichter Set...'
+sku: 'B07WD8G8FB-de'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0746PBM7D-de Die Sims 4 - Standard Edition - [PlayStation 4] - Cover-...'
+sku: 'B0746PBM7D-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

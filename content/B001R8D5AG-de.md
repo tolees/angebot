@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001R8D5AG-de Herlitz 10999753 Schulfüllhalter inkl. Patrone -Für...'
+sku: 'B001R8D5AG-de'
 tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR

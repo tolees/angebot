@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071F15VDR-de Hisense RB400N4EG3 Kühl-Gefrier-Kombination/A+++/No-...'
+sku: 'B071F15VDR-de'
 tags: [  ]
 actualPrice: 283.25 EUR
 currency: EUR

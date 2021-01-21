@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074LJ4JRG-de MacBook Schraubendreher Reparatur Werkzeug Set mit...'
+sku: 'B074LJ4JRG-de'
 tags: [  ]
 actualPrice: 16.78 EUR
 currency: EUR

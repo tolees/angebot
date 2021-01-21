@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KCL8ZZO-de Krups F30908 Krups ProAroma Glas-Kaffeemaschine 10 Tassen...'
+sku: 'B00KCL8ZZO-de'
 tags: [  ]
 actualPrice: 24.0 EUR
 currency: EUR

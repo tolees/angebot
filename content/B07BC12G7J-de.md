@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BC12G7J-de WarioWare Gold - [Nintendo 3DS]'
+sku: 'B07BC12G7J-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D69KKBZ-de LG G7 ThinQ Smartphone 15 47 cm 6 1 Zoll FullVision LCD...'
+sku: 'B07D69KKBZ-de'
 tags: [  ]
 actualPrice: 259.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0002HWPB8-de Theo Klein 8520 - Bosch Tool Box mit Akkuschrauber Baukästen'
+sku: 'B0002HWPB8-de'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HPM4K17-de Samsung VG-SCFN49BM/XC The Frame Bilderrahmen 123 cm 49...'
+sku: 'B07HPM4K17-de'
 tags: [  ]
 actualPrice: 73.33 EUR
 currency: EUR

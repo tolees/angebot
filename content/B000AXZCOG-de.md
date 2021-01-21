@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000AXZCOG-de All for You'
+sku: 'B000AXZCOG-de'
 tags: [  ]
 actualPrice: 3.92 EUR
 currency: EUR

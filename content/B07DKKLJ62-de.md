@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKKLJ62-de Kipling Damen CITY PACK S Rucksack Blau Active Denim...'
+sku: 'B07DKKLJ62-de'
 tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR

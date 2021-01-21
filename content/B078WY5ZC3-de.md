@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WY5ZC3-de ONLY Damen Skinny Fit Jeans ONLBlush Mid Ankle XS30White'
+sku: 'B078WY5ZC3-de'
 tags: [  ]
 actualPrice: 19.96 EUR
 currency: EUR

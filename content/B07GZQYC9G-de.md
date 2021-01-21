@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZQYC9G-de 4Ucycling lang Fahrrad Hose Winddicht Thermo Fleece...'
+sku: 'B07GZQYC9G-de'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

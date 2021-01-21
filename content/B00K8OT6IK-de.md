@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K8OT6IK-de camel active Herren 488845/9939 Jeans Dark Blue Used W33/...'
+sku: 'B00K8OT6IK-de'
 tags: [  ]
 actualPrice: 37.95 EUR
 currency: EUR

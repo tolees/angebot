@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RN73M6F-de Oral-B Kids Star Wars Elektrische Zahnbürste mit Disney-...'
+sku: 'B07RN73M6F-de'
 tags: [  ]
 actualPrice: 17.96 EUR
 currency: EUR

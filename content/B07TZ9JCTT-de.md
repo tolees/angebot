@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ9JCTT-de Design Fahrradzubehör | Fahrradhalter Wand | Fahrrad...'
+sku: 'B07TZ9JCTT-de'
 tags: [  ]
 actualPrice: 39.9 EUR
 currency: EUR

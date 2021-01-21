@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WCQRJM2-de HyperX Fury HX432C16FB3A/16 Arbeitsspeicher DIMM DDR4 16GB...'
+sku: 'B07WCQRJM2-de'
 tags: [  ]
 actualPrice: 64.9 EUR
 currency: EUR

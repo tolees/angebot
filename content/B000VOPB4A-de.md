@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VOPB4A-de Moschino Funny femme/woman Eau de Toilette...'
+sku: 'B000VOPB4A-de'
 tags: [  ]
 actualPrice: 27.9 EUR
 currency: EUR

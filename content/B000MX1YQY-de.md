@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000MX1YQY-de Casio Collection Unisex-Armbanduhr DB 36 1AVEF'
+sku: 'B000MX1YQY-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073WC6YRH-de PAUL HEWITT Anker Armkette Anchor Spirit Plated - Armkette...'
+sku: 'B073WC6YRH-de'
 tags: [  ]
 actualPrice: 42.16 EUR
 currency: EUR

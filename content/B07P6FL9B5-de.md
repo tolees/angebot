@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6FL9B5-de PLAYMOBIL Novelmore 70225 Wolfsgespann und Wasserkanone...'
+sku: 'B07P6FL9B5-de'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

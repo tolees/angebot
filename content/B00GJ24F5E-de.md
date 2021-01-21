@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GJ24F5E-de Boccia Damen-Armbanduhr XS Analog Quarz Titan 3296-02'
+sku: 'B00GJ24F5E-de'
 tags: [  ]
 actualPrice: 81.32 EUR
 currency: EUR

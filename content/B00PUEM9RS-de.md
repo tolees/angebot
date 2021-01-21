@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PUEM9RS-de Acer S277HKwmidpp 69 cm 27 Zoll Monitor DVI HDMI...'
+sku: 'B00PUEM9RS-de'
 tags: [  ]
 actualPrice: 345.0 EUR
 currency: EUR

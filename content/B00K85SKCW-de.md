@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K85SKCW-de BRA Terra - Set de 3 poêles Aluminium fondu compatibles...'
+sku: 'B00K85SKCW-de'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

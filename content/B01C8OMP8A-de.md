@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C8OMP8A-de Bandai – Miraculous Ladybug – Verwandlungsset – Verkleiden...'
+sku: 'B01C8OMP8A-de'
 tags: [  ]
 actualPrice: 19.5 EUR
 currency: EUR

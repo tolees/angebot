@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LPPNJX8-de Belkin ScreenForce InvisiGlass Displayschutzfolie geeignet...'
+sku: 'B01LPPNJX8-de'
 tags: [  ]
 actualPrice: 16.04 EUR
 currency: EUR

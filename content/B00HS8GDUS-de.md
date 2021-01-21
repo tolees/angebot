@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HS8GDUS-de Barbara Becker präsentiert das Bauch Beine Po-Bootcamp...'
+sku: 'B00HS8GDUS-de'
 tags: [  ]
 actualPrice: 4.69 EUR
 currency: EUR

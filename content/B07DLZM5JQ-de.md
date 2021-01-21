@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLZM5JQ-de SAMSONITE PRO-DLX 5 - Bailhandle Erweiterbar für 17.3"...'
+sku: 'B07DLZM5JQ-de'
 tags: [  ]
 actualPrice: 152.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H6CMDWF-de TechniSat Digitradio 52 Stereo DAB Radiowecker mit zwei...'
+sku: 'B07H6CMDWF-de'
 tags: [  ]
 actualPrice: 60.57 EUR
 currency: EUR

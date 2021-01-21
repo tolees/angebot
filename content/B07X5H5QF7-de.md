@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X5H5QF7-de ETEPON Bausteine STEM Spielzeug 160 Stück Baugebäude...'
+sku: 'B07X5H5QF7-de'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

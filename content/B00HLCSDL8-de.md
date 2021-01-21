@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HLCSDL8-de Finish Klarspüler mit Glanz- und Glasschutz – Für...'
+sku: 'B00HLCSDL8-de'
 tags: [  ]
 actualPrice: 10.01 EUR
 currency: EUR

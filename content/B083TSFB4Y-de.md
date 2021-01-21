@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083TSFB4Y-de Crucial Ballistix BL2K8G26C16U4W 2666 MHz DDR4 DRAM...'
+sku: 'B083TSFB4Y-de'
 tags: [  ]
 actualPrice: 58.48 EUR
 currency: EUR

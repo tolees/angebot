@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q78RT6N-de bayala - das Spiel'
+sku: 'B07Q78RT6N-de'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

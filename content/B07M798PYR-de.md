@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M798PYR-de Clarks Herren Bampton Lace Brogues Braun Tan Tan 42.5 EU'
+sku: 'B07M798PYR-de'
 tags: [  ]
 actualPrice: 28.55 EUR
 currency: EUR

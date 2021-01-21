@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015GM45SE-de Ice-Watch - ICE glitter Black Rose-Gold - Women s...'
+sku: 'B015GM45SE-de'
 tags: [  ]
 actualPrice: 56.87 EUR
 currency: EUR

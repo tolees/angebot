@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HTJRFS-de Eagle Creek Leichter Rollkoffer Gear Warrior™ AWD 29...'
+sku: 'B076HTJRFS-de'
 tags: [  ]
 actualPrice: 135.93 EUR
 currency: EUR

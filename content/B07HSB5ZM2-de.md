@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HSB5ZM2-de SHARP PS 940 Partylautsprecher mit DJ-Mischpult und...'
+sku: 'B07HSB5ZM2-de'
 tags: [  ]
 actualPrice: 151.62 EUR
 currency: EUR

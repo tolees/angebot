@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0754FZJNP-de BENECREAT 3mm 20m elastische Schnur Schmuckherstellung...'
+sku: 'B0754FZJNP-de'
 tags: [  ]
 actualPrice: 11.09 EUR
 currency: EUR

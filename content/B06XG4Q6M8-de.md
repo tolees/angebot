@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XG4Q6M8-de Fila Classic Logo Hoody Sweatshirt Grau XL'
+sku: 'B06XG4Q6M8-de'
 tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR

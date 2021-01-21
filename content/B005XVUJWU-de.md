@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005XVUJWU-de Bosch 0092S40070 Starterbatterien'
+sku: 'B005XVUJWU-de'
 tags: [  ]
 actualPrice: 69.58 EUR
 currency: EUR

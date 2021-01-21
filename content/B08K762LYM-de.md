@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08K762LYM-de Aigital WLAN Repeater WLAN Verstärker Wireless Range...'
+sku: 'B08K762LYM-de'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXVB5NX-de Timezone Herren Slim ScottTZ Shorts Blau Used Bright Blue...'
+sku: 'B07GXVB5NX-de'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLY61BX-de Bluetooth Kopfhörer【Neuestes Modell】 Donerton Kopfhörer...'
+sku: 'B07TLY61BX-de'
 tags: [  ]
 actualPrice: 22.96 EUR
 currency: EUR

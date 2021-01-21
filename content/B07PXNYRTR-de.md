@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PXNYRTR-de Ravensburger 14973 Disney Museum'
+sku: 'B07PXNYRTR-de'
 tags: [  ]
 actualPrice: 62.99 EUR
 currency: EUR

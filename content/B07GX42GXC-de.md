@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GX42GXC-de ECOVACS Robotics DEEBOT 710 Saugroboter - Leistungsstarker...'
+sku: 'B07GX42GXC-de'
 tags: [  ]
 actualPrice: 269 EUR
 currency: EUR

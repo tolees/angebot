@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079TSG6N8-de Strellson Herren Harley 2495 Derbys Schwarz Black 900 41 EU'
+sku: 'B079TSG6N8-de'
 tags: [  ]
 actualPrice: 64.48 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MKRQQ14-de iPosible Powerbank 24800mAh Hohe Kapazität Akkupack mit...'
+sku: 'B07MKRQQ14-de'
 tags: [  ]
 actualPrice: 18.73 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PZQQMHK-de GUND 6053047 - Interaktiver Flappy der Elefant mit...'
+sku: 'B07PZQQMHK-de'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

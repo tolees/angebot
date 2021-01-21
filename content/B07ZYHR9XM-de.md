@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZYHR9XM-de Mammut Herren Hardshell-jacke Mit Kapuze Masao Light...'
+sku: 'B07ZYHR9XM-de'
 tags: [  ]
 actualPrice: 209.0 EUR
 currency: EUR

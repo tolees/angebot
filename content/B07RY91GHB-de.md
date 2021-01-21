@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RY91GHB-de BRIKSMAX Led Beleuchtungsset für Lego City Fahrzeuge...'
+sku: 'B07RY91GHB-de'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

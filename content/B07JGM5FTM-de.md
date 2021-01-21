@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGM5FTM-de Master Regale® Schwerlastregal 180x120x45cm HxBxT...'
+sku: 'B07JGM5FTM-de'
 tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR

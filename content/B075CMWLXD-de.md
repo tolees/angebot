@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075CMWLXD-de Sublevel Damen Winter-Jacke mit Kapuze warm gefüttert...'
+sku: 'B075CMWLXD-de'
 tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR

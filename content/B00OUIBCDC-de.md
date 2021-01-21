@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OUIBCDC-de Pelikan 946806 Füller Twist in Faltschachtel universell...'
+sku: 'B00OUIBCDC-de'
 tags: [  ]
 actualPrice: 6.85 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6W8KVY-de Oral-B CrossAction Black Edition Aufsteckbürsten Borsten...'
+sku: 'B07L6W8KVY-de'
 tags: [  ]
 actualPrice: 15.59 EUR
 currency: EUR

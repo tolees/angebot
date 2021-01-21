@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZNH4YD-de Bohrer Set TACKLIFE 42tlg. Professionelles Set Bohrer Bit...'
+sku: 'B07GZNH4YD-de'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

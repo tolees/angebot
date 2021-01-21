@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QMSY2YS-de ONECE Duschsystem mit Thermostat Duscharmatur Regendusche...'
+sku: 'B07QMSY2YS-de'
 tags: [  ]
 actualPrice: 104.99 EUR
 currency: EUR

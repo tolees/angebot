@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6QKXFC-de PROACC Klavier Playmat Kinder Klaviertastatur Musik...'
+sku: 'B07J6QKXFC-de'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

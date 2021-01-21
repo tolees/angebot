@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AIJ8EQE-de UGG Bailey Button Ii Che Damen Schneestiefel Beige...'
+sku: 'B01AIJ8EQE-de'
 tags: [  ]
 actualPrice: 157.66 EUR
 currency: EUR

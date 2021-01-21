@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I5G76UI-de Lamy 1226061 al-star Füllhalter Aluminium Feder M blaugrün'
+sku: 'B00I5G76UI-de'
 tags: [  ]
 actualPrice: 18.79 EUR
 currency: EUR

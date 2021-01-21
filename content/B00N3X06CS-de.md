@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N3X06CS-de Philips HU4801/01 Luftbefeuchter bis zu 25m² hygienische...'
+sku: 'B00N3X06CS-de'
 tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR

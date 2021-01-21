@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074DTXKRZ-de Paulis Kitchen Pfannenwender Silikon/Edelstahl...'
+sku: 'B074DTXKRZ-de'
 tags: [  ]
 actualPrice: 11.97 EUR
 currency: EUR

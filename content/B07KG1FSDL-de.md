@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG1FSDL-de LIGHTAILING Licht-Set Für Schiff in der Flasche Modell -...'
+sku: 'B07KG1FSDL-de'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

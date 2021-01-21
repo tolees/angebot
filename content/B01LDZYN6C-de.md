@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LDZYN6C-de Bosch Professional Bohrhammer GBH 2-28 F SDS-plus-...'
+sku: 'B01LDZYN6C-de'
 tags: [  ]
 actualPrice: 156.99 EUR
 currency: EUR

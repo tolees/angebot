@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XZCSTBS-de ZTE Smartphone Blade 10 VITA 16 cm 6 26 Zoll HD+ Display...'
+sku: 'B07XZCSTBS-de'
 tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR

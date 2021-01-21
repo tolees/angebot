@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CDTKGKB-de JOYSKY Wireless Controller für Nintendo Switch 2er-Set...'
+sku: 'B08CDTKGKB-de'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

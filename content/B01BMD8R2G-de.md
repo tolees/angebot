@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BMD8R2G-de Eizo CS2420 61 cm 24 Zoll Grafik Monitor DisplayPort DVI-D...'
+sku: 'B01BMD8R2G-de'
 tags: [  ]
 actualPrice: 393.0 EUR
 currency: EUR

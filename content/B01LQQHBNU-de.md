@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LQQHBNU-de WD My Passport Mobile WDBYFT0040BWT-WESN 4TB Externe...'
+sku: 'B01LQQHBNU-de'
 tags: [  ]
 actualPrice: 117.08 EUR
 currency: EUR

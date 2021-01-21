@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004EPYIMS-de roba Komplettwiegenset Babywiege 40x90cm Holz weiß...'
+sku: 'B004EPYIMS-de'
 tags: [  ]
 actualPrice: 113.95 EUR
 currency: EUR

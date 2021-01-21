@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001IOR85C-de Städter Ausstechform Edelstahl Silber 7.5 cm'
+sku: 'B001IOR85C-de'
 tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR

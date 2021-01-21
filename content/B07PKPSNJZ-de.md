@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PKPSNJZ-de LG GH24NSD5 Internes DVD-W Black Bare-Laufwerk'
+sku: 'B07PKPSNJZ-de'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TX24QJT-de Kompatibel für Samsung Galaxy A6 Plus 2018 Hülle...'
+sku: 'B07TX24QJT-de'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

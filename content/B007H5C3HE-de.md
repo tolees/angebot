@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007H5C3HE-de Pontec Filter- und Bachlaufpumpe PondoMax Eco 1500'
+sku: 'B007H5C3HE-de'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

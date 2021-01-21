@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002OI55EC-de Brennenstuhl Eco-Line Steckdosenleiste 3-fach...'
+sku: 'B002OI55EC-de'
 tags: [  ]
 actualPrice: 3.42 EUR
 currency: EUR

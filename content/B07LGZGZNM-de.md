@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGZGZNM-de BRIKSMAX Hochgeschwindigkeitszug Led Beleuchtungsset -...'
+sku: 'B07LGZGZNM-de'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

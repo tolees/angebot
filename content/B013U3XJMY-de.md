@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013U3XJMY-de Berydale Damen Parka Jacke wasser- und winddicht Gr. 36...'
+sku: 'B013U3XJMY-de'
 tags: [  ]
 actualPrice: 75.99 EUR
 currency: EUR

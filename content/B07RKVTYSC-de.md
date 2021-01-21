@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RKVTYSC-de USB 3.0 WLAN Stick WLAN Adapter PC WiFi Adapter USB WiFi...'
+sku: 'B07RKVTYSC-de'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

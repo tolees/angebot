@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C2XV9LM-de Triumph Damen Sport-BH Triaction Wellness N Rosa...'
+sku: 'B07C2XV9LM-de'
 tags: [  ]
 actualPrice: 31.79 EUR
 currency: EUR

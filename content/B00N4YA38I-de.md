@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N4YA38I-de Technoline Miss Ticki Wecker Bunt'
+sku: 'B00N4YA38I-de'
 tags: [  ]
 actualPrice: 19.46 EUR
 currency: EUR

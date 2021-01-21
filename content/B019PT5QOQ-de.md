@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019PT5QOQ-de Mobicool V30 tragbare thermo-elektrische Kühlbox 29 Liter...'
+sku: 'B019PT5QOQ-de'
 tags: [  ]
 actualPrice: 58.8 EUR
 currency: EUR

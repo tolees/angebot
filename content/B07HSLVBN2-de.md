@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HSLVBN2-de Hasbro Game Night - [Nintendo Switch]'
+sku: 'B07HSLVBN2-de'
 tags: [  ]
 actualPrice: 31.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LB5GMMN-de SCHLEICH 42485 Pferdestall'
+sku: 'B07LB5GMMN-de'
 tags: [  ]
 actualPrice: 51.05 EUR
 currency: EUR

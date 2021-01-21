@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNWZ2CW-de Boltune Noise Cancelling Bluetooth Kopfhörer 5.0 Over-Ear...'
+sku: 'B07VNWZ2CW-de'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

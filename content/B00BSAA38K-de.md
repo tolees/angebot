@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BSAA38K-de Bar Keepers Friend Allzweck Macht-Creme 350ml 1 x 1 x 1 cm'
+sku: 'B00BSAA38K-de'
 tags: [  ]
 actualPrice: 5.85 EUR
 currency: EUR

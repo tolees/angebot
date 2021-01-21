@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQWIKU1-de Sex Gutscheine mit verschiedenen Stellungen für Paare für...'
+sku: 'B01MQWIKU1-de'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

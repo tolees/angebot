@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B67QAE6-de Outbreak - Lautlose Killer [Blu-ray]'
+sku: 'B00B67QAE6-de'
 tags: [  ]
 actualPrice: 6.81 EUR
 currency: EUR

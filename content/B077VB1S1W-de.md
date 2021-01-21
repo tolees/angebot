@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077VB1S1W-de Beloved Antichrist'
+sku: 'B077VB1S1W-de'
 tags: [  ]
 actualPrice: 8.06 EUR
 currency: EUR

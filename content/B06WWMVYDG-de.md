@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WWMVYDG-de Craft Herren Greatness Bike Shorts weiß XS'
+sku: 'B06WWMVYDG-de'
 tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR

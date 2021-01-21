@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015Q3S5VQ-de Rubie s 3620100 - MLP Twilight Sparkle Deluxe - Child...'
+sku: 'B015Q3S5VQ-de'
 tags: [  ]
 actualPrice: 23.62 EUR
 currency: EUR

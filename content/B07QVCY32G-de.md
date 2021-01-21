@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QVCY32G-de Miniart Crafts Perlenstickerei-Set mehrfarbig 30 x 30 cm'
+sku: 'B07QVCY32G-de'
 tags: [  ]
 actualPrice: 32.75 EUR
 currency: EUR

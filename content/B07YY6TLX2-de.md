@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YY6TLX2-de Upgraded LED Sensor Licht 78 LED Wiederaufladbar Dimmbare...'
+sku: 'B07YY6TLX2-de'
 tags: [  ]
 actualPrice: 22.09 EUR
 currency: EUR

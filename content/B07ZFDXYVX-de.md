@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZFDXYVX-de Winzwon Smartwatch Fitness Armband wasserdichte...'
+sku: 'B07ZFDXYVX-de'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

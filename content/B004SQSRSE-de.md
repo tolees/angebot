@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004SQSRSE-de Zassenhaus Stirnholz Braun 45 x 30 x 4 5 cm'
+sku: 'B004SQSRSE-de'
 tags: [  ]
 actualPrice: 29.23 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003SANWI6-de Western Digital WD1003FBYX RE4 1TB interne Festplatte 8 9...'
+sku: 'B003SANWI6-de'
 tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR

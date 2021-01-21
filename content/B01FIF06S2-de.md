@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FIF06S2-de Funko 9016 and S1 No Actionfigur Rick Morty gelb Standard'
+sku: 'B01FIF06S2-de'
 tags: [  ]
 actualPrice: 5.58 EUR
 currency: EUR

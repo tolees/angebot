@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PW4WVRN-de SimpleLife Handtasche Drehverschluss Tasche Fall Schnalle...'
+sku: 'B07PW4WVRN-de'
 tags: [  ]
 actualPrice: 2.49 EUR
 currency: EUR

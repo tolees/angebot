@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMD4QQH-de PLAYMOBIL Magic 70096 Beautysalon mit Perlenschatulle Ab 4...'
+sku: 'B07JMD4QQH-de'
 tags: [  ]
 actualPrice: 18.33 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGY9MJ8-de Microsoft Surface Headphones'
+sku: 'B07NGY9MJ8-de'
 tags: [  ]
 actualPrice: 145.25 EUR
 currency: EUR

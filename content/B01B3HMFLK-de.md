@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B3HMFLK-de PROCAVE wasserdichter Matratzenschoner 80 x 200 cm -...'
+sku: 'B01B3HMFLK-de'
 tags: [  ]
 actualPrice: 15.96 EUR
 currency: EUR

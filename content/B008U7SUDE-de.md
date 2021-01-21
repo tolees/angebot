@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008U7SUDE-de Whisky Ardbeg Islay Single Malt 10 Jahre in...'
+sku: 'B008U7SUDE-de'
 tags: [  ]
 actualPrice: 38.71 EUR
 currency: EUR

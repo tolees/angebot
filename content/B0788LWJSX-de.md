@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0788LWJSX-de Predator Cestus 500 Gaming Maus Dual Omron Switches 70...'
+sku: 'B0788LWJSX-de'
 tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR

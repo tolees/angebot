@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGHJCZR-de Yamaha MCR-B370D Schwarz/Schwarz'
+sku: 'B07PGHJCZR-de'
 tags: [  ]
 actualPrice: 298.65 EUR
 currency: EUR

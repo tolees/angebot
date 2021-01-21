@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VF4WJ9P-de mama stadt Prinzessin Cosplay Perücke Erwachsene und...'
+sku: 'B07VF4WJ9P-de'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

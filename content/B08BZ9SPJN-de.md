@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZ9SPJN-de Wireless Controller für Nintendo Switch RegeMoudal Switch...'
+sku: 'B08BZ9SPJN-de'
 tags: [  ]
 actualPrice: 23.79 EUR
 currency: EUR

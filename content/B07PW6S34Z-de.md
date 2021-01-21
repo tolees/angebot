@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PW6S34Z-de ONLY Damen Maxikleid Ärmelloses 40Cloud Dancer'
+sku: 'B07PW6S34Z-de'
 tags: [  ]
 actualPrice: 28.38 EUR
 currency: EUR

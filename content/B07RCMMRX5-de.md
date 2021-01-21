@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCMMRX5-de Hisense H55U7B 138 cm 55 Zoll Fernseher 4K Ultra HD HDR...'
+sku: 'B07RCMMRX5-de'
 tags: [  ]
 actualPrice: 469.0 EUR
 currency: EUR

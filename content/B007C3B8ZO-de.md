@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007C3B8ZO-de Hama "Bernstein" LED Nachtlicht für Kinderzimmer und...'
+sku: 'B007C3B8ZO-de'
 tags: [  ]
 actualPrice: 5.84 EUR
 currency: EUR

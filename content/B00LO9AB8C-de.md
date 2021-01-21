@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LO9AB8C-de Philips Essential Care Reisehaartrockner BHD006/00 1600...'
+sku: 'B00LO9AB8C-de'
 tags: [  ]
 actualPrice: 12.85 EUR
 currency: EUR

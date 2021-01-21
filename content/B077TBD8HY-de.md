@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077TBD8HY-de Navitech rot Harter Fall für die Transcend 16 GB DrivePro...'
+sku: 'B077TBD8HY-de'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

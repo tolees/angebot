@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LSUYWO0-de Apple iPhone 7 32 GB - Schwarz'
+sku: 'B01LSUYWO0-de'
 tags: [  ]
 actualPrice: 374.99 EUR
 currency: EUR

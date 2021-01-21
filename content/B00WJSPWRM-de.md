@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WJSPWRM-de Belkin Adapter USB-C auf USB-A 15cm USB-C Stecker USB-A...'
+sku: 'B00WJSPWRM-de'
 tags: [  ]
 actualPrice: 9.5 EUR
 currency: EUR

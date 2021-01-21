@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF61ZJQ-de Levi s Herren Tapered Fit Jeans 502 Regular Taper Blau...'
+sku: 'B07KF61ZJQ-de'
 tags: [  ]
 actualPrice: 38.85 EUR
 currency: EUR

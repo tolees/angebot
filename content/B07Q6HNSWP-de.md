@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q6HNSWP-de Monsieur Claude 2 [Blu-ray]'
+sku: 'B07Q6HNSWP-de'
 tags: [  ]
 actualPrice: 6.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HTTWB2-de DXX Technik Bausteine Liebherr Kran LTM11200 7692Teile...'
+sku: 'B083HTTWB2-de'
 tags: [  ]
 actualPrice: 489.99 EUR
 currency: EUR

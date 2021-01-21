@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXG7ILD-de Siemens LZ10AFA00 Aktivkohlefilter'
+sku: 'B01LXG7ILD-de'
 tags: [  ]
 actualPrice: 81.9 EUR
 currency: EUR

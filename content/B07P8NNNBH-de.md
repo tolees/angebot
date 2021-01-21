@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P8NNNBH-de Sony KD-65XG7005 Bravia 65 Zoll 164cm Fernseher Ultra HD...'
+sku: 'B07P8NNNBH-de'
 tags: [  ]
 actualPrice: 719.0 EUR
 currency: EUR

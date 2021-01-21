@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EI9HAGU-de adidas Herren Gazelle Sneakers Azul Collegiate...'
+sku: 'B01EI9HAGU-de'
 tags: [  ]
 actualPrice: 72.9 EUR
 currency: EUR

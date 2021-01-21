@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082XT1DBX-de NHUAIYINSHUGUOGUANGGAOJINGY Displayport zum HDMI-...'
+sku: 'B082XT1DBX-de'
 tags: [  ]
 actualPrice: 3.98 EUR
 currency: EUR

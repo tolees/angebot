@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRRE050-de Sylvanian Families 5052 Supermarkt-Besitzer'
+sku: 'B00HRRE050-de'
 tags: [  ]
 actualPrice: 13.19 EUR
 currency: EUR

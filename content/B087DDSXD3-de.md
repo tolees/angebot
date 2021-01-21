@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087DDSXD3-de Samsung T7 Portable SSD - 500 GB - USB 3.2 Gen.2 Externe...'
+sku: 'B087DDSXD3-de'
 tags: [  ]
 actualPrice: 94.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NRLXWO-de Chopard Wish Duschgel 150 ml'
+sku: 'B000NRLXWO-de'
 tags: [  ]
 actualPrice: 6.72 EUR
 currency: EUR

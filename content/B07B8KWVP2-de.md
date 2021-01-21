@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B8KWVP2-de CREW Republic Craft Beer IPA Paket Craft Bier Probierset...'
+sku: 'B07B8KWVP2-de'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

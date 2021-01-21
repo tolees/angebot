@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CKTJF17-de Frauen Geschenke，Body & Earth 6Pcs Lavendel Wellness Set...'
+sku: 'B07CKTJF17-de'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

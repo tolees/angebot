@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NDKOW8-de Kathrein ESC 30 Sat 3Loch Einzeldose'
+sku: 'B000NDKOW8-de'
 tags: [  ]
 actualPrice: 9.52 EUR
 currency: EUR

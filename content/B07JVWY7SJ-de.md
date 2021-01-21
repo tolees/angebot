@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JVWY7SJ-de ASUS ROG STRIX NVIDIA GeForce RTX 2070 OC 8G Gaming...'
+sku: 'B07JVWY7SJ-de'
 tags: [  ]
 actualPrice: 325.0 EUR
 currency: EUR

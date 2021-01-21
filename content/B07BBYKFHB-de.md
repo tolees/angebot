@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BBYKFHB-de SAGE SWM520 the No-Mess-Waffle Waffeleisen mit Teig-...'
+sku: 'B07BBYKFHB-de'
 tags: [  ]
 actualPrice: 94.9 EUR
 currency: EUR

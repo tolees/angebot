@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016IGTWGW-de Neff TPT5960X /T59PT60X0 / Autarkes Kochfeld / Induktion /...'
+sku: 'B016IGTWGW-de'
 tags: [  ]
 actualPrice: 885.0 EUR
 currency: EUR

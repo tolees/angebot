@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083B9HV5N-de DXX Technik Bausteine Auto Icarus Roadster 1928Teile 1:10...'
+sku: 'B083B9HV5N-de'
 tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR

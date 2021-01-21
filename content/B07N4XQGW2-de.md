@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4XQGW2-de Tommy Jeans Damen TJW 3/4 Sleeve Drop Waist Dress Kleid...'
+sku: 'B07N4XQGW2-de'
 tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR

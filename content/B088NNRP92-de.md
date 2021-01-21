@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088NNRP92-de Elektrischer Rasierer Herren OriHea 6-in-1 Glatzenrasierer...'
+sku: 'B088NNRP92-de'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

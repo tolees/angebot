@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HJUSZ14-de QNAP TVS-1282-i3-8G Hochleistungsfähiges NAS-System Tiered...'
+sku: 'B01HJUSZ14-de'
 tags: [  ]
 actualPrice: 545.0 EUR
 currency: EUR

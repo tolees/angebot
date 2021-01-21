@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001FSKH8G-de MIYABI 7000D Santoku Messer 18 cm Klinge CMV60 Stahl...'
+sku: 'B001FSKH8G-de'
 tags: [  ]
 actualPrice: 90.0 EUR
 currency: EUR

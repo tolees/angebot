@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHLR98V-de Huawei Watch GT Active Smartwatch 46 mm Amoled Touchscreen...'
+sku: 'B07PHLR98V-de'
 tags: [  ]
 actualPrice: 95.97 EUR
 currency: EUR

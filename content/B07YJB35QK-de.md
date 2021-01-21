@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YJB35QK-de Küchenarmatur Heimwerkerzubehör Antike Messing 360 Swivel...'
+sku: 'B07YJB35QK-de'
 tags: [  ]
 actualPrice: 92.99 EUR
 currency: EUR

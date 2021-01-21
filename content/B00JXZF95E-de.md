@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JXZF95E-de Der fliegende Holländer'
+sku: 'B00JXZF95E-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CHGQ4SM-de Microsoft Sculpt Comfort Mouse Maus schwarz ergonomisch...'
+sku: 'B00CHGQ4SM-de'
 tags: [  ]
 actualPrice: 32.49 EUR
 currency: EUR

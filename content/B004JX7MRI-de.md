@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004JX7MRI-de Yankee Candle große Duftkerze im Glas Soft Blanket...'
+sku: 'B004JX7MRI-de'
 tags: [  ]
 actualPrice: 23.1 EUR
 currency: EUR

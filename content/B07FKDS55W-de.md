@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKDS55W-de Nike Unisex-Erwachsene Phantom VSN Academy Dynamic Fit MG...'
+sku: 'B07FKDS55W-de'
 tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR

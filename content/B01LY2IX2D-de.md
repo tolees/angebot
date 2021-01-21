@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LY2IX2D-de Rogue One: A Star Wars Story Original Motion Picture...'
+sku: 'B01LY2IX2D-de'
 tags: [  ]
 actualPrice: 5.04 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TB8BT8J-de BRIKSMAX Led Beleuchtungsset für Lego Technic Chevrolet...'
+sku: 'B07TB8BT8J-de'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

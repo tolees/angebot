@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07663TZNT-de CAMELBAK Trinkflasche Chute Mag 750 ml sea glass'
+sku: 'B07663TZNT-de'
 tags: [  ]
 actualPrice: 13.52 EUR
 currency: EUR

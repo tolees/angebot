@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JPB62U2-de Microsoft Wireless Mobile Mouse 1850 Maus rosa kabellos...'
+sku: 'B00JPB62U2-de'
 tags: [  ]
 actualPrice: 9.82 EUR
 currency: EUR

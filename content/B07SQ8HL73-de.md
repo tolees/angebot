@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQ8HL73-de Tronsmart T6 Plus 40W Wireless Outdoor Bluetooth...'
+sku: 'B07SQ8HL73-de'
 tags: [  ]
 actualPrice: 65.99 EUR
 currency: EUR

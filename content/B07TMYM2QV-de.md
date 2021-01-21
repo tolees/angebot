@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMYM2QV-de Fintie Hülle kompatibel für Kindle Paperwhite 10....'
+sku: 'B07TMYM2QV-de'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

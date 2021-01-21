@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFL3LFK-de Old Spice Citron Anti-Transpirant und Deo-Stick für Herren...'
+sku: 'B07PFL3LFK-de'
 tags: [  ]
 actualPrice: 16.3 EUR
 currency: EUR

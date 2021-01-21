@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008YQPZN4-de Remington Elektrischer Rasierer Herren F7800 +LED Minuten-...'
+sku: 'B008YQPZN4-de'
 tags: [  ]
 actualPrice: 49.33 EUR
 currency: EUR

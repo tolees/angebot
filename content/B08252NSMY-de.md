@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08252NSMY-de zxcvb Armario de vino Boca abajo Titular de copa de vino...'
+sku: 'B08252NSMY-de'
 tags: [  ]
 actualPrice: 39.21 EUR
 currency: EUR

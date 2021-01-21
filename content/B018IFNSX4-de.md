@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018IFNSX4-de Elvie Trainer - Der preisgekrönte Beckenbodentrainer mit...'
+sku: 'B018IFNSX4-de'
 tags: [  ]
 actualPrice: 142.64 EUR
 currency: EUR

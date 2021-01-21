@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008LR3KD8-de Philips HF3520/01 Wake-Up Light Sonnenaufgangfunktion...'
+sku: 'B008LR3KD8-de'
 tags: [  ]
 actualPrice: 78.99 EUR
 currency: EUR

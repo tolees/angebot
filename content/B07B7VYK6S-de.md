@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B7VYK6S-de Dickie Toys Fire Rescue Unit Feuerwehrauto Spielzeugauto...'
+sku: 'B07B7VYK6S-de'
 tags: [  ]
 actualPrice: 8.64 EUR
 currency: EUR

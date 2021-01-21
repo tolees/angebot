@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T6KW9HV-de COOLJOY Magnetische Bausteine 117 Stück Magnet Baustein...'
+sku: 'B07T6KW9HV-de'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

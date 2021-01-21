@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0071J4AYK-de 156/Im Netz des Drachen'
+sku: 'B0071J4AYK-de'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

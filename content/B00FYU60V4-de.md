@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FYU60V4-de Lindt Lindor Schokoladenkugeln Auswahl glutenfrei – ca. 80...'
+sku: 'B00FYU60V4-de'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PHEAIJC-de caseable Kindle und Kindle Paperwhite Hülle Ornate Elephant'
+sku: 'B00PHEAIJC-de'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

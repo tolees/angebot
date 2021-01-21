@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GFB4YFF-de Lightess 4er LED Unterbauleuchte Schrankbeleuchtung...'
+sku: 'B07GFB4YFF-de'
 tags: [  ]
 actualPrice: 26.9 EUR
 currency: EUR

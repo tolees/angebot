@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BPLMSMC-de Jura 10 Years Old Single Malt Scotch Whisky mit...'
+sku: 'B07BPLMSMC-de'
 tags: [  ]
 actualPrice: 23.97 EUR
 currency: EUR

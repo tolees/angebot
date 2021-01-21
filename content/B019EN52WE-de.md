@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019EN52WE-de Engtanz'
+sku: 'B019EN52WE-de'
 tags: [  ]
 actualPrice: 6.09 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076FDH9WN-de Palladium Pampa Sport Shearling Waterproof Unisex-...'
+sku: 'B076FDH9WN-de'
 tags: [  ]
 actualPrice: 80.38 EUR
 currency: EUR

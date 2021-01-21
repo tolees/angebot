@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H7TFQCS-de Optoma LV130 LED Projektor WVGA 100.000:1 Kontrast...'
+sku: 'B07H7TFQCS-de'
 tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR

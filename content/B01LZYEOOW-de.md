@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZYEOOW-de American Tourister Urban Groove - 15 6 Zoll Laptop...'
+sku: 'B01LZYEOOW-de'
 tags: [  ]
 actualPrice: 31.96 EUR
 currency: EUR

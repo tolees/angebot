@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4HXLQP-de Navitech Rot hartes Wasser-beständiges Mini Desktop PC /...'
+sku: 'B07B4HXLQP-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MDNO7ZZ-de Dickie Toys Happy Fendt Traktor Trecker Bauernhof...'
+sku: 'B01MDNO7ZZ-de'
 tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR

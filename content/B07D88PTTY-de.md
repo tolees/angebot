@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D88PTTY-de Battlefield V - Standard Edition | PC Download - Origin Code'
+sku: 'B07D88PTTY-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089NS7DY9-de Maxjaa NES-Klassiker Wireless Controller Bluetooth Gamepad...'
+sku: 'B089NS7DY9-de'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFX5B2T-de My Little Pony Kicherspaß Pinkie Pie – 20 cm großes...'
+sku: 'B07LFX5B2T-de'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQF4B63-de L.O.L. Surprise! - Mädchen-Badeanzug mit Volant und...'
+sku: 'B07SQF4B63-de'
 tags: [  ]
 actualPrice: 20.31 EUR
 currency: EUR

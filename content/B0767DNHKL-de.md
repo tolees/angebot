@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0767DNHKL-de Playmobil 9334 - Sheriff'
+sku: 'B0767DNHKL-de'
 tags: [  ]
 actualPrice: 1.48 EUR
 currency: EUR

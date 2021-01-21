@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DK5HW4T-de ✮ Barber Tools ✮ Rasiermesser mit austauschbarer Klingen....'
+sku: 'B07DK5HW4T-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHPMYD9-de Salomon Herren Trail Running Schuhe ALPHACROSS Farbe:...'
+sku: 'B07RHPMYD9-de'
 tags: [  ]
 actualPrice: 41.28 EUR
 currency: EUR

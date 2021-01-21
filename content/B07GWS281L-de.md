@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GWS281L-de Suunto 9 Unisex Multisport-GPS-Uhr Über 25h...'
+sku: 'B07GWS281L-de'
 tags: [  ]
 actualPrice: 236.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PZ8ZLKG-de Nike Damen Sneaker Md Runner 2 Schwarz Schwarz/Weiß 40 EU'
+sku: 'B00PZ8ZLKG-de'
 tags: [  ]
 actualPrice: 36.98 EUR
 currency: EUR

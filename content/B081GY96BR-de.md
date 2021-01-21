@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081GY96BR-de Susan Y muttertagsgeschenke ideen ohrringe silber 925...'
+sku: 'B081GY96BR-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

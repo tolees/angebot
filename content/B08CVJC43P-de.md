@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVJC43P-de Samsung Galaxy A51 Android Smartphone ohne Vertrag 4...'
+sku: 'B08CVJC43P-de'
 tags: [  ]
 actualPrice: 279.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SNHL6GH-de SS&LL La basura del paso Puede Cubos de basura Con Tapas...'
+sku: 'B07SNHL6GH-de'
 tags: [  ]
 actualPrice: 93.99 EUR
 currency: EUR

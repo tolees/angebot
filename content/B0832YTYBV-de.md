@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0832YTYBV-de WenTop LED Strip 10m WiFi Smart Controller SMD 5050 LED...'
+sku: 'B0832YTYBV-de'
 tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR

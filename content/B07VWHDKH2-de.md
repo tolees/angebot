@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWHDKH2-de SEEYA Hülle für Samsung Galaxy A40 Silikon Weich TPU Gummi...'
+sku: 'B07VWHDKH2-de'
 tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR

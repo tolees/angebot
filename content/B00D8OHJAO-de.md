@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D8OHJAO-de Steiff Schlaf Gut Bär Schmusetuch - 30 cm - Kuscheltuch...'
+sku: 'B00D8OHJAO-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

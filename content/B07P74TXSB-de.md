@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P74TXSB-de Rayuda Große Faltbare Wäschekorb 3 Fächer Wäschesack...'
+sku: 'B07P74TXSB-de'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

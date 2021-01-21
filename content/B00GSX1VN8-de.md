@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GSX1VN8-de Bright Starts June Berry höhenverstellbare Lauflernhilfe...'
+sku: 'B00GSX1VN8-de'
 tags: [  ]
 actualPrice: 47.98 EUR
 currency: EUR

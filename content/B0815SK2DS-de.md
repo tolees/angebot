@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0815SK2DS-de HERCN Hülle Kompatibel mit Oppo K5/Realme X2/Realme XT...'
+sku: 'B0815SK2DS-de'
 tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR

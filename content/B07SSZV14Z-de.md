@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSZV14Z-de Men in Black: International Ltd. Steelbook [Blu-ray]'
+sku: 'B07SSZV14Z-de'
 tags: [  ]
 actualPrice: 9.81 EUR
 currency: EUR

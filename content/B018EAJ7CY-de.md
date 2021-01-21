@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018EAJ7CY-de Fisher-Price CDH40 - Lernspaß Liederbuch Baby Spielzeug...'
+sku: 'B018EAJ7CY-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

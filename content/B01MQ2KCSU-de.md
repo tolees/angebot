@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQ2KCSU-de Maxi-Cosi Priori SPS + Kindersitz mit optimalen...'
+sku: 'B01MQ2KCSU-de'
 tags: [  ]
 actualPrice: 97.99 EUR
 currency: EUR

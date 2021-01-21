@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSWFSBH-de Funko 40252 POP Vinyl: Animation: Rick & Morty S6-Dr....'
+sku: 'B07NSWFSBH-de'
 tags: [  ]
 actualPrice: 6.37 EUR
 currency: EUR

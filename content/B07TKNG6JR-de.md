@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKNG6JR-de Kaspersky Internet Security 2020 Standard | 3 Geräte | 1...'
+sku: 'B07TKNG6JR-de'
 tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QM4WKT2-de Ravensburger 29841 - 2-in-1 Mandala Designer Frozen'
+sku: 'B00QM4WKT2-de'
 tags: [  ]
 actualPrice: 10.33 EUR
 currency: EUR

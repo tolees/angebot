@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FR6C9CX-de [3 Bonusgegenstand] Simbans TangoTab 10-Zoll-Tablet 4 GB...'
+sku: 'B08FR6C9CX-de'
 tags: [  ]
 actualPrice: 149.95 EUR
 currency: EUR

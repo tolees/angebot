@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FJWS1YF-de Manuelle Rasierer Cut Throat Rasierer Professionelle...'
+sku: 'B07FJWS1YF-de'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

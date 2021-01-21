@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MOIE1E2-de De Longhi Autentica Cappuccino ETAM 29.660.SB...'
+sku: 'B00MOIE1E2-de'
 tags: [  ]
 actualPrice: 468.34 EUR
 currency: EUR

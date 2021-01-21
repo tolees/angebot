@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y1XMMG7-de Systemsprenger'
+sku: 'B07Y1XMMG7-de'
 tags: [  ]
 actualPrice: 7.79 EUR
 currency: EUR

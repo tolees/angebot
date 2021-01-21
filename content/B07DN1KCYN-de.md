@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DN1KCYN-de Jade Roller und Gua Sha Scraping Gesichts-Tools Set...'
+sku: 'B07DN1KCYN-de'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

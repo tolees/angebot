@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072ZTRC6D-de Huawei Y6 2017 Grey'
+sku: 'B072ZTRC6D-de'
 tags: [  ]
 actualPrice: 96.72 EUR
 currency: EUR

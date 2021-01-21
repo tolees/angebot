@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F86THC1-de Gore Wear Unisex M Infinium Handschuhe Schwarz Black/Neon...'
+sku: 'B07F86THC1-de'
 tags: [  ]
 actualPrice: 22.96 EUR
 currency: EUR

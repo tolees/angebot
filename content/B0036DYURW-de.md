@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0036DYURW-de NIKE Damen Sport-BH Victory Compression Schwarz...'
+sku: 'B0036DYURW-de'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

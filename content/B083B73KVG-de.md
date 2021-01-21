@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083B73KVG-de UMIDIGI Smartwatch Uwatch3 Fitness Tracker 5 ATM...'
+sku: 'B083B73KVG-de'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

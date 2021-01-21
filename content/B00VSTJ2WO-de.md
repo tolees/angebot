@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VSTJ2WO-de Philips Audio SHB3075BK/00 On-Ear Kopfhörer Bluetooth...'
+sku: 'B00VSTJ2WO-de'
 tags: [  ]
 actualPrice: 28.98 EUR
 currency: EUR

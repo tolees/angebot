@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXW5DHV-de Withings Steel HR Sport - Multisport Hybrid Smartwatch'
+sku: 'B07GXW5DHV-de'
 tags: [  ]
 actualPrice: 149.99 EUR
 currency: EUR

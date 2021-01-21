@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTSE2SA-de New Balance Herren ML373 Sneaker Grau Light Grey/ML373 42 EU'
+sku: 'B01MTSE2SA-de'
 tags: [  ]
 actualPrice: 51.11 EUR
 currency: EUR

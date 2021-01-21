@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HT7NFOO-de Ruigor ICON 87 – großer multifunktionaler Rucksack...'
+sku: 'B01HT7NFOO-de'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

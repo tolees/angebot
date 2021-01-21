@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X19NCPN-de Osprey Fairview 70 Reisetasche für Frauen mit abnehmbarem...'
+sku: 'B06X19NCPN-de'
 tags: [  ]
 actualPrice: 128.79 EUR
 currency: EUR

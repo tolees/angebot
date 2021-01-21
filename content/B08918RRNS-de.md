@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08918RRNS-de Casiwaft 14er Set Vinylfolie Heat Transfer Glitzer...'
+sku: 'B08918RRNS-de'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

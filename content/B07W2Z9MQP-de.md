@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W2Z9MQP-de Garmin vívoactive 4 – wasserdichte GPS-Fitness-Smartwatch...'
+sku: 'B07W2Z9MQP-de'
 tags: [  ]
 actualPrice: 279.0 EUR
 currency: EUR

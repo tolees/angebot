@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005G3Q1ZY-de Tefal Talent Pro E44040 Grillpfanne 26 cm...'
+sku: 'B005G3Q1ZY-de'
 tags: [  ]
 actualPrice: 42.23 EUR
 currency: EUR

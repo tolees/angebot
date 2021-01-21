@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J2BL01K-de Amazon Echo Spot Smarter Wecker mit Alexa - Schwarz'
+sku: 'B01J2BL01K-de'
 tags: [  ]
 actualPrice: 87.72 EUR
 currency: EUR

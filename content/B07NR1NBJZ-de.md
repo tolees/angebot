@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NR1NBJZ-de Eichhorn 109475850 - Schienenbahn Set Porsche Racing...'
+sku: 'B07NR1NBJZ-de'
 tags: [  ]
 actualPrice: 41.46 EUR
 currency: EUR

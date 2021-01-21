@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZHWW97-de TechniSat DIGITRADIO 2 S - Tragbares DAB Stereo-Radio mit...'
+sku: 'B07GZHWW97-de'
 tags: [  ]
 actualPrice: 76.02 EUR
 currency: EUR

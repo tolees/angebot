@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FFKSDTC-de Logitech K600 Kabellose TV-Tastatur mit Touchpad & D-Pad...'
+sku: 'B07FFKSDTC-de'
 tags: [  ]
 actualPrice: 38.33 EUR
 currency: EUR

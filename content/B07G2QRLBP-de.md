@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G2QRLBP-de Reusch Primus R-TEX XT Handschuhe Black/Black Melange 8'
+sku: 'B07G2QRLBP-de'
 tags: [  ]
 actualPrice: 37.59 EUR
 currency: EUR

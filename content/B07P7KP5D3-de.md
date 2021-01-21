@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7KP5D3-de PLAYMOBIL:THE MOVIE 70073 Charlie mit Gefängniswagen Ab 5...'
+sku: 'B07P7KP5D3-de'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

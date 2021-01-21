@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007VUWUQY-de ECCO Damen Offroad Sport- & Outdoor Sandalen Blau...'
+sku: 'B007VUWUQY-de'
 tags: [  ]
 actualPrice: 55.28 EUR
 currency: EUR

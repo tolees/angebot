@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CXXBTST-de Samsung MB-ME32GA/EU EVO Select 32 GB microSDHC UHS-I U1...'
+sku: 'B07CXXBTST-de'
 tags: [  ]
 actualPrice: 9.49 EUR
 currency: EUR

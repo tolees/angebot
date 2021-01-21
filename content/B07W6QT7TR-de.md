@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6QT7TR-de eufy Security Sicherheitskamera mit Scheinwerfer 1080p...'
+sku: 'B07W6QT7TR-de'
 tags: [  ]
 actualPrice: 125.99 EUR
 currency: EUR

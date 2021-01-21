@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXG5SMD-de TaoTronics Garten Fackeln 2 Stück Solarleuchte Solar...'
+sku: 'B07KXG5SMD-de'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

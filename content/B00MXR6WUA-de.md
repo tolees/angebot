@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MXR6WUA-de Cellular Line TEMPGLASSIPH647 Displayschutzglas für Apple...'
+sku: 'B00MXR6WUA-de'
 tags: [  ]
 actualPrice: 6.21 EUR
 currency: EUR

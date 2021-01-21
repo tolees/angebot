@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083KPJSQV-de Samsung Clear View Cover EF-ZG980 für Galaxy S20 | S20 5G...'
+sku: 'B083KPJSQV-de'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

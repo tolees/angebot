@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M5G7DIP-de SHARP LC-24CHF4012 60 cm 24 Zoll Fernseher HD TV Triple...'
+sku: 'B01M5G7DIP-de'
 tags: [  ]
 actualPrice: 116.93 EUR
 currency: EUR

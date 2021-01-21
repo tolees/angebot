@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0009Q1DUQ-de Bialetti Venus Espressokocher für induktion Stahl Silber...'
+sku: 'B0009Q1DUQ-de'
 tags: [  ]
 actualPrice: 29.23 EUR
 currency: EUR

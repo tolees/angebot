@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L1N3KND-de LIGHTAILING Licht-Set Für VW Käfer Modell - LED Licht-Set...'
+sku: 'B07L1N3KND-de'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

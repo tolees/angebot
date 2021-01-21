@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00062ILVW-de WMF Profi Plus Rührblitz 27 cm Schneebesen Edelstahl...'
+sku: 'B00062ILVW-de'
 tags: [  ]
 actualPrice: 14.71 EUR
 currency: EUR

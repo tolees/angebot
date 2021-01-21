@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPFJ7NB-de Funko 44515 POP TV: Umbrella Academy-Ben Hargreeves...'
+sku: 'B07SPFJ7NB-de'
 tags: [  ]
 actualPrice: 8.39 EUR
 currency: EUR

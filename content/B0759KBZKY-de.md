@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0759KBZKY-de Canon PGI-580 BK / CLI-581 BK/C/M/Y Druckertinte -...'
+sku: 'B0759KBZKY-de'
 tags: [  ]
 actualPrice: 38.49 EUR
 currency: EUR

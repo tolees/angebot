@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZTX75OC-de Whiskas 1 + Katzenfutter – Fisch-Auswahl in Sauce –...'
+sku: 'B00ZTX75OC-de'
 tags: [  ]
 actualPrice: 11.16 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSNMGFP-de Wlan Bluetooth 5W LED Einbaustrahler RGBW+CCT 5 in 1...'
+sku: 'B07VSNMGFP-de'
 tags: [  ]
 actualPrice: 152.99 EUR
 currency: EUR

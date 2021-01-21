@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFLS1QX-de AEG IKB6430AXB Autarkes Kochfeld / Herdplatte mit...'
+sku: 'B07HFLS1QX-de'
 tags: [  ]
 actualPrice: 229.0 EUR
 currency: EUR

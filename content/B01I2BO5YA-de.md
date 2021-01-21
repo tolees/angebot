@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I2BO5YA-de Lucy 4K Ultra HD + Blu-ray'
+sku: 'B01I2BO5YA-de'
 tags: [  ]
 actualPrice: 16.96 EUR
 currency: EUR

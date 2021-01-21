@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IUWFAMW-de Kommissarin Lund - Die komplette Serie - 10 Jahre...'
+sku: 'B01IUWFAMW-de'
 tags: [  ]
 actualPrice: 17.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3G34ZH-de Bluetooth Headset 0.3 Unzen Wasserdicht Dual CVC 8.0...'
+sku: 'B07V3G34ZH-de'
 tags: [  ]
 actualPrice: 18.77 EUR
 currency: EUR

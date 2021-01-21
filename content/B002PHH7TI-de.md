@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002PHH7TI-de Jil Sander Jil femme/woman Eau de Parfum 1er Pack 1 x 50 ml'
+sku: 'B002PHH7TI-de'
 tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR

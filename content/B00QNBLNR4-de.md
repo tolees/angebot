@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QNBLNR4-de Post-it Super Sticky Notes Marrakesh Collection 6556SM –...'
+sku: 'B00QNBLNR4-de'
 tags: [  ]
 actualPrice: 12.1 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JK3RC16-de Yazubi Herren Kapuzenjacke Jacob - graue Sweatjacke Herren...'
+sku: 'B07JK3RC16-de'
 tags: [  ]
 actualPrice: 27.96 EUR
 currency: EUR

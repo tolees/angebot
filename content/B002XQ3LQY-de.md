@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002XQ3LQY-de Rosti Mepal Vorratsdose Modula Starterset 5-teilig'
+sku: 'B002XQ3LQY-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

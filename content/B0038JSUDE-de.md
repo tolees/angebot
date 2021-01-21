@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0038JSUDE-de Playtastic Geduldspiele mit Kugeln: Geduldspiel-Megapack...'
+sku: 'B0038JSUDE-de'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR

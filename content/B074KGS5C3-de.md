@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074KGS5C3-de Logitech Craft Kabellose Tastatur Bluetooth & 2.4 GHz...'
+sku: 'B074KGS5C3-de'
 tags: [  ]
 actualPrice: 125.99 EUR
 currency: EUR

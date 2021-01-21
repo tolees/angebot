@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6N5UBT-de VIA FORTIS Resistance Bands für Fitness &...'
+sku: 'B01N6N5UBT-de'
 tags: [  ]
 actualPrice: 7.9 EUR
 currency: EUR

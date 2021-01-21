@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQKWX3C-de iVANKY DisplayPort Kabel 2M/4K DisplayPort auf DisplayPort...'
+sku: 'B07JQKWX3C-de'
 tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR

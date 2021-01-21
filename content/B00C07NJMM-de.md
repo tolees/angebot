@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C07NJMM-de Sanpellegrino | Orangen Limonade | Aranciata | Hoher...'
+sku: 'B00C07NJMM-de'
 tags: [  ]
 actualPrice: 18.49 EUR
 currency: EUR

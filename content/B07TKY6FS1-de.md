@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKY6FS1-de THE NORTH FACE Herren M Zaneck Jacket Insulated Synthetic...'
+sku: 'B07TKY6FS1-de'
 tags: [  ]
 actualPrice: 83.29 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076S2VF4R-de Microsoft Surface Book 2 34 29 cm 13 5 Zoll Laptop Intel...'
+sku: 'B076S2VF4R-de'
 tags: [  ]
 actualPrice: 380.0 EUR
 currency: EUR

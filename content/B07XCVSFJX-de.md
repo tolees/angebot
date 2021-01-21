@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCVSFJX-de Bosch Professional 18V System Akku Bohrhammer GBH 18V-20...'
+sku: 'B07XCVSFJX-de'
 tags: [  ]
 actualPrice: 204.99 EUR
 currency: EUR

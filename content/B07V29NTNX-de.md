@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V29NTNX-de Anker Nebula Capsule Max Mini Projektor in Pint-Größe...'
+sku: 'B07V29NTNX-de'
 tags: [  ]
 actualPrice: 399.99 EUR
 currency: EUR

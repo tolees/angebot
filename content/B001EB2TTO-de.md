@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001EB2TTO-de Siemens Keramikbackstein inkl. Holzschieber / Für Backöfen...'
+sku: 'B001EB2TTO-de'
 tags: [  ]
 actualPrice: 75.12 EUR
 currency: EUR

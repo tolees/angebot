@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I3KFFKS-de Ravensburger 12528" Porsche 911 R 3D-Puzzle bunt'
+sku: 'B01I3KFFKS-de'
 tags: [  ]
 actualPrice: 18.38 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CFI25CQ-de Theo Klein 5293 - Princess Coralie Frisierkoffer mit...'
+sku: 'B00CFI25CQ-de'
 tags: [  ]
 actualPrice: 15.3 EUR
 currency: EUR

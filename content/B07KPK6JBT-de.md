@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPK6JBT-de Funko 28506 POP Vinyl: KISS: Spaceman Sammelbares...'
+sku: 'B07KPK6JBT-de'
 tags: [  ]
 actualPrice: 9.79 EUR
 currency: EUR

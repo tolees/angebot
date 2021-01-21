@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XYT37NK-de SanDisk SDSQXCG-064G-GN6MA 64GB Extreme Pro Micro SD Karte...'
+sku: 'B06XYT37NK-de'
 tags: [  ]
 actualPrice: 33.64 EUR
 currency: EUR

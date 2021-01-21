@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDLSKBN-de LIGHTAILING Licht-Set Für Ghostbusters Ecto-1 Modell - LED...'
+sku: 'B07MDLSKBN-de'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

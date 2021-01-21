@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008KIGWBU-de NESCAFÉ Dolce Gusto Latte Macchiato Caramel | 48...'
+sku: 'B008KIGWBU-de'
 tags: [  ]
 actualPrice: 10.47 EUR
 currency: EUR

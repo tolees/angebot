@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001CW53JI-de Pagna Bewerbungsset Start Basic 5 Bewerbungsmappen grau'
+sku: 'B001CW53JI-de'
 tags: [  ]
 actualPrice: 2.88 EUR
 currency: EUR

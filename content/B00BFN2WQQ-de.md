@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BFN2WQQ-de Casio Edifice Herren Massives Edelstahlgehäuse und...'
+sku: 'B00BFN2WQQ-de'
 tags: [  ]
 actualPrice: 70.71 EUR
 currency: EUR

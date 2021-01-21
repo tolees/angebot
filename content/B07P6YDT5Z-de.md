@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6YDT5Z-de Krups XN304T Kaffeemaschine Freistehende Espressomaschine...'
+sku: 'B07P6YDT5Z-de'
 tags: [  ]
 actualPrice: 88.99 EUR
 currency: EUR

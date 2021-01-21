@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007WR3LMI-de Chocolat Blu *** Europe Zone ***'
+sku: 'B007WR3LMI-de'
 tags: [  ]
 actualPrice: 8.34 EUR
 currency: EUR

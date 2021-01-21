@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002NXFFDY-de The Green Mile [Blu-ray]'
+sku: 'B002NXFFDY-de'
 tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR

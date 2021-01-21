@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z49LLB4-de JACK & JONES Herren Jacke Stehkragen Stepp XLNavy Blazer'
+sku: 'B07Z49LLB4-de'
 tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR

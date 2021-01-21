@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XY9B91B-de OnePlus 8 5G Smartphone ohne Vertrag 8GB + 128GB Speicher...'
+sku: 'B07XY9B91B-de'
 tags: [  ]
 actualPrice: 467.65 EUR
 currency: EUR

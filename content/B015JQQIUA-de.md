@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015JQQIUA-de Cobb Pro - Tisch oder tragbarer Außengrill Kochsystem...'
+sku: 'B015JQQIUA-de'
 tags: [  ]
 actualPrice: 80.0 EUR
 currency: EUR

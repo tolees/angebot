@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005OTE2UG-de Hook [Blu-ray]'
+sku: 'B005OTE2UG-de'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

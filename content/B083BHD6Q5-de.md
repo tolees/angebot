@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083BHD6Q5-de Sanglory Schnitzmesser 4 Stück Holz Schnitz Set Wood...'
+sku: 'B083BHD6Q5-de'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W1SYTTT-de SanDisk Ultra 3D SSD interne Festplatte 4 TB 2 5 Zoll...'
+sku: 'B07W1SYTTT-de'
 tags: [  ]
 actualPrice: 389.55 EUR
 currency: EUR

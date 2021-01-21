@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085TBQQL1-de ColiCor Display Halterung DIY Vertikales Ständer für Lego...'
+sku: 'B085TBQQL1-de'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

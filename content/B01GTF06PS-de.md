@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GTF06PS-de Rightwell Lupenbrille mit Licht Hände Frei Kopfband Lupen...'
+sku: 'B01GTF06PS-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

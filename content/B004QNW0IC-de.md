@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004QNW0IC-de Robin Hood / Gladiator Director s Cut / Extended Edition...'
+sku: 'B004QNW0IC-de'
 tags: [  ]
 actualPrice: 6.1 EUR
 currency: EUR

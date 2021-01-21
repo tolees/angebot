@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LE0A9OQ-de 707'
+sku: 'B01LE0A9OQ-de'
 tags: [  ]
 actualPrice: 10.19 EUR
 currency: EUR

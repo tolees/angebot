@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07951LXJJ-de Fire HD 8-Tablet 32 GB Schwarz ohne Spezialangebote'
+sku: 'B07951LXJJ-de'
 tags: [  ]
 actualPrice: 84.99 EUR
 currency: EUR

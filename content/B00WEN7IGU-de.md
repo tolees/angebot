@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WEN7IGU-de Hauck Eco Mobil - Bollerwagen Handwagen Transportwagen für...'
+sku: 'B00WEN7IGU-de'
 tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR

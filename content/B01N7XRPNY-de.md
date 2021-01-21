@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7XRPNY-de Revell Build & Play - Star Wars First Order Heavy Assault...'
+sku: 'B01N7XRPNY-de'
 tags: [  ]
 actualPrice: 11.09 EUR
 currency: EUR

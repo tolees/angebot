@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FK1KP2C-de Hasbro Beyblade Burst E3629EU4 - Rail Rush Battle Set...'
+sku: 'B07FK1KP2C-de'
 tags: [  ]
 actualPrice: 38.12 EUR
 currency: EUR

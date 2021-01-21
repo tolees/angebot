@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QHVFLG5-de KFD 19V 65W Power Adapter Netzteil Ladegerät für Intel NUC...'
+sku: 'B07QHVFLG5-de'
 tags: [  ]
 actualPrice: 24.29 EUR
 currency: EUR

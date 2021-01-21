@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07669YJJD-de PLAYMOBIL Dinos 9433 Propellerboot mit Dinokäfig...'
+sku: 'B07669YJJD-de'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

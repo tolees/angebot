@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016C0FFBK-de Timone Mädchen und Jugendlicher Schlafanzug 850 Türkis 152'
+sku: 'B016C0FFBK-de'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

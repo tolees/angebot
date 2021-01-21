@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079L9SCM1-de Lacoste Herren Ch9623 Smoking Hemd Weiß Blanc/Blanc 37'
+sku: 'B079L9SCM1-de'
 tags: [  ]
 actualPrice: 36.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YQ3KJWR-de Paco Home Kinder-Teppich Für Kinderzimmer Spiel-Teppich...'
+sku: 'B07YQ3KJWR-de'
 tags: [  ]
 actualPrice: 103.92 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TDUR6ZU-de Belkin Premium Mixit Metallic Ladegerät 2 4A USB Anschluss...'
+sku: 'B00TDUR6ZU-de'
 tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR

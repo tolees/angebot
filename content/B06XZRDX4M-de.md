@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XZRDX4M-de Kingwin Damen - Titan blau Opale'
+sku: 'B06XZRDX4M-de'
 tags: [  ]
 actualPrice: 11.8 EUR
 currency: EUR

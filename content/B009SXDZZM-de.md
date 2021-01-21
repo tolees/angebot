@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009SXDZZM-de Kamerahalter Halter Halterung Eye Stand für PS3 Kamera'
+sku: 'B009SXDZZM-de'
 tags: [  ]
 actualPrice: 2.21 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083VRM4PM-de Kepae Acryl Vitrine für Lego 42083 Technic Bugatti Chiron...'
+sku: 'B083VRM4PM-de'
 tags: [  ]
 actualPrice: 82.99 EUR
 currency: EUR

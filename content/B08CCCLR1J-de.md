@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CCCLR1J-de Hoseili Bluetooth Kopfhörer In Ear Kopfhörer Kabellos mit...'
+sku: 'B08CCCLR1J-de'
 tags: [  ]
 actualPrice: 37.41 EUR
 currency: EUR

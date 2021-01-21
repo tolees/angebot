@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPKY5XD-de Spyderco Para 3 Taschenmesser Schwarz Klingenlänge: 7 6 cm...'
+sku: 'B06XPKY5XD-de'
 tags: [  ]
 actualPrice: 163.7 EUR
 currency: EUR

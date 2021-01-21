@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BF4YJKW-de fischertechnik BASIC Solar Konstruktionsbaukasten - 520396'
+sku: 'B00BF4YJKW-de'
 tags: [  ]
 actualPrice: 14.91 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EBYB3AQ-de Bruetting KANSAS Unisex-Erwachsene Trekking- &...'
+sku: 'B01EBYB3AQ-de'
 tags: [  ]
 actualPrice: 52.83 EUR
 currency: EUR

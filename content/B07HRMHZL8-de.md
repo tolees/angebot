@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRMHZL8-de Ultimate Ears BOOM 3 Bluetooth Lautsprecher wasserdichter...'
+sku: 'B07HRMHZL8-de'
 tags: [  ]
 actualPrice: 88.99 EUR
 currency: EUR

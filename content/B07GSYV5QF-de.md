@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSYV5QF-de BRÜSTE MEMO - In diesem Trinkspiel warten die Paare darauf...'
+sku: 'B07GSYV5QF-de'
 tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CDK41VS-de Bluetooth Kopfhörer In Ear Kopfhörer Kabellos mit HiFi...'
+sku: 'B08CDK41VS-de'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PJ6JWYQ-de Clementoni 59126 Action & Reaction-Maxi Set Mehrfarben'
+sku: 'B07PJ6JWYQ-de'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

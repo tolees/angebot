@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WVX1T2-de Paco Home Designer Teppich Wohnzimmer Ausgefallen...'
+sku: 'B078WVX1T2-de'
 tags: [  ]
 actualPrice: 29.52 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X6JCBBR-de Ultimate Ears Wonderboom Tragbarer Bluetooth-Lautsprecher...'
+sku: 'B06X6JCBBR-de'
 tags: [  ]
 actualPrice: 44.9 EUR
 currency: EUR

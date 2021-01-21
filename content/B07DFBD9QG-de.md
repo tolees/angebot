@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFBD9QG-de Pop Aquaman Vinyl Figure'
+sku: 'B07DFBD9QG-de'
 tags: [  ]
 actualPrice: 12.98 EUR
 currency: EUR

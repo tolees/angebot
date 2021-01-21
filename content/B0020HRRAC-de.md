@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0020HRRAC-de Craft Weste Visibility Vest Warnweste neon XL'
+sku: 'B0020HRRAC-de'
 tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BHSF8KQ-de erima Sporttasche Granit/Schwarz L 76 Liter 723334'
+sku: 'B00BHSF8KQ-de'
 tags: [  ]
 actualPrice: 18.2 EUR
 currency: EUR

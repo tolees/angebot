@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IULM63K-de Spielzeugkiste Schatztruhe Spielzeugtruhe...'
+sku: 'B00IULM63K-de'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

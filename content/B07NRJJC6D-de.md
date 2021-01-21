@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRJJC6D-de DERMATEST: SEHR GUT - TRUE NATURE® [1000 Stück] Zero Waste...'
+sku: 'B07NRJJC6D-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

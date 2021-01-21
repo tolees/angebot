@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GMWJCEY-de Cremefarbener Segeltuch-Hundespielzeugkorb - Qualitätskorb...'
+sku: 'B01GMWJCEY-de'
 tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR

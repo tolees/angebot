@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0743CJXV6-de TENGA FLIP ZERO EV Vibrierende Masturbationshilfe für...'
+sku: 'B0743CJXV6-de'
 tags: [  ]
 actualPrice: 99.95 EUR
 currency: EUR

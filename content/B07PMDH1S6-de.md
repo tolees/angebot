@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMDH1S6-de WLAN Steckdose Smart Steckdose TECKIN Smart Plug Stecker...'
+sku: 'B07PMDH1S6-de'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

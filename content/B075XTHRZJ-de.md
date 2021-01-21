@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075XTHRZJ-de Hasbro Spiele C2131100 Probieren Oder Verlieren Partyspiel'
+sku: 'B075XTHRZJ-de'
 tags: [  ]
 actualPrice: 7.91 EUR
 currency: EUR

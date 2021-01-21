@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AJGL1TE-de OLI-NATURA Projektöl für innen speziell für Möbel Parkett...'
+sku: 'B00AJGL1TE-de'
 tags: [  ]
 actualPrice: 13.52 EUR
 currency: EUR

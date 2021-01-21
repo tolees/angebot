@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B17G9BU-de The Impossible'
+sku: 'B00B17G9BU-de'
 tags: [  ]
 actualPrice: 2.54 EUR
 currency: EUR

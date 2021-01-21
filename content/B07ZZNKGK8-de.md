@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZZNKGK8-de POP! Animation: Masters of The Universe - Sorceress'
+sku: 'B07ZZNKGK8-de'
 tags: [  ]
 actualPrice: 11.67 EUR
 currency: EUR

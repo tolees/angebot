@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0716CN5BT-de King Arthur: Legend of the Sword [Blu-ray]'
+sku: 'B0716CN5BT-de'
 tags: [  ]
 actualPrice: 4.98 EUR
 currency: EUR

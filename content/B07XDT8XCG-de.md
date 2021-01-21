@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XDT8XCG-de Aigital AC1200 WLAN Repeater Wi-Fi Verstaerker Range...'
+sku: 'B07XDT8XCG-de'
 tags: [  ]
 actualPrice: 24.94 EUR
 currency: EUR

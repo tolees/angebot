@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JYUU1ZU-de SanDisk Extreme PRO 64 GB SDXC-Speicherkarte bis zu 300...'
+sku: 'B01JYUU1ZU-de'
 tags: [  ]
 actualPrice: 72.99 EUR
 currency: EUR

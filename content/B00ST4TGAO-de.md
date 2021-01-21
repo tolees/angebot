@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ST4TGAO-de Merry Style Damen Langarm Body BD900 Schwarz L'
+sku: 'B00ST4TGAO-de'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

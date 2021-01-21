@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078MZ4C6B-de Bart Schablone Bartpflege Bartschablone Bartformen für...'
+sku: 'B078MZ4C6B-de'
 tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR

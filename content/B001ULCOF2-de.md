@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001ULCOF2-de tesa Insect Stop COMFORT Fliegengitter für Fenster -...'
+sku: 'B001ULCOF2-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

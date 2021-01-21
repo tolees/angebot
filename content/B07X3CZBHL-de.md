@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X3CZBHL-de Zigma Spark Saugroboter Staubsauger Roboter mit...'
+sku: 'B07X3CZBHL-de'
 tags: [  ]
 actualPrice: 297.49 EUR
 currency: EUR

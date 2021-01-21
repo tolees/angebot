@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X2JNKSD-de EYSAFT Babyphone mit Kamera Video Baby Monitor 3.2 Zoll...'
+sku: 'B07X2JNKSD-de'
 tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR

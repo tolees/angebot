@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FWKMKK1-de Mattel GFB55 - Disney Pixar Toy Story 4 Stunt...'
+sku: 'B07FWKMKK1-de'
 tags: [  ]
 actualPrice: 15.55 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08K8N46JY-de Bluetooth Kopfhörer Ajcoflt Wireless Noise Cancelling...'
+sku: 'B08K8N46JY-de'
 tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR

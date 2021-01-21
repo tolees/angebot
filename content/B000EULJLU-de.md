@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000EULJLU-de 10.000 Days'
+sku: 'B000EULJLU-de'
 tags: [  ]
 actualPrice: 9.77 EUR
 currency: EUR

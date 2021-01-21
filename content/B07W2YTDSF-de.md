@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W2YTDSF-de Eddi Stachel Spiel für Kinder ab 4 Jahren'
+sku: 'B07W2YTDSF-de'
 tags: [  ]
 actualPrice: 10.11 EUR
 currency: EUR

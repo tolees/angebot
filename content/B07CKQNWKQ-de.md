@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CKQNWKQ-de WIN.MAX Dartpfeile 12 Stück Steel Darts Pfeile Set 24...'
+sku: 'B07CKQNWKQ-de'
 tags: [  ]
 actualPrice: 12.3 EUR
 currency: EUR

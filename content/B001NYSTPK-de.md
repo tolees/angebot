@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001NYSTPK-de KS Tools 917.1217 1/2" CLASSIC Sechskant-Stecknuss 17mm'
+sku: 'B001NYSTPK-de'
 tags: [  ]
 actualPrice: 3.13 EUR
 currency: EUR

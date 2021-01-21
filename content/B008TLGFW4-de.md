@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008TLGFW4-de Emsa 513357 Travel Mug Thermo-/Isolierbecher...'
+sku: 'B008TLGFW4-de'
 tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR

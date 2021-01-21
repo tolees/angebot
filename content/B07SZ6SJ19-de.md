@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SZ6SJ19-de kindergeburtstag gastgeschenke 20 LED Fingerlampe...'
+sku: 'B07SZ6SJ19-de'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

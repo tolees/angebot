@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TWFTYKG-de Pneumatic Power - der Pneumatik Spielzeug Bagger und 4...'
+sku: 'B00TWFTYKG-de'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

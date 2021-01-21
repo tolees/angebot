@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HD9C7DY-de Wenger 600627 GIGABYTE 15.4" MacBook Pro Laptop-Rucksack...'
+sku: 'B00HD9C7DY-de'
 tags: [  ]
 actualPrice: 45.09 EUR
 currency: EUR

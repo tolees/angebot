@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRN58WG-de Play-Doh A5417EU8 Glitzerknete für fantasievolles und...'
+sku: 'B07KRN58WG-de'
 tags: [  ]
 actualPrice: 5.41 EUR
 currency: EUR

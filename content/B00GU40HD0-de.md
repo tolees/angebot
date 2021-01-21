@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GU40HD0-de Desperate Housewives - Die komplette Serie [49 DVDs]'
+sku: 'B00GU40HD0-de'
 tags: [  ]
 actualPrice: 48.71 EUR
 currency: EUR

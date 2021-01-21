@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075R91VYB-de Tacklife Akkuschrauber set mit 2 Akkus 12V 2 Gang Getriebe...'
+sku: 'B075R91VYB-de'
 tags: [  ]
 actualPrice: 66.99 EUR
 currency: EUR

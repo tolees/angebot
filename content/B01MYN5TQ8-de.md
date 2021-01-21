@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYN5TQ8-de Knauf Gartenbau Perlite Perligran 2-6 mm 100 L • zur...'
+sku: 'B01MYN5TQ8-de'
 tags: [  ]
 actualPrice: 20.02 EUR
 currency: EUR

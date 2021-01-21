@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XL5SHPT-de Apple Silikon Case für iPhone 11 Pro - Schwarz'
+sku: 'B07XL5SHPT-de'
 tags: [  ]
 actualPrice: 22.5 EUR
 currency: EUR

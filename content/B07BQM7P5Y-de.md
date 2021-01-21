@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQM7P5Y-de Schreibtafel IGERESS 8 5 Zoll LCD Schreibtablett...'
+sku: 'B07BQM7P5Y-de'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

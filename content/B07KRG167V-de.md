@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRG167V-de Geschenke 24 Schlüsselanhänger Schönster Tag in Schwarz –...'
+sku: 'B07KRG167V-de'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

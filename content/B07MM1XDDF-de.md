@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MM1XDDF-de Lenovo IdeaPad 330s Laptop 35 56 cm 14 0 Zoll HD TN matt...'
+sku: 'B07MM1XDDF-de'
 tags: [  ]
 actualPrice: 412.84 EUR
 currency: EUR

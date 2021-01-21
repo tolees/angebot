@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002N6ZEFA-de Brennenstuhl Eco-Line Steckdosenleiste 6-fach...'
+sku: 'B002N6ZEFA-de'
 tags: [  ]
 actualPrice: 5.09 EUR
 currency: EUR

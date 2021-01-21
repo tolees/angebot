@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0171GGXSS-de Stubai - Strick Fleecejacke Herren/Strickjacke mit Fleece...'
+sku: 'B0171GGXSS-de'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

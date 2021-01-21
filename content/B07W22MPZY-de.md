@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W22MPZY-de KINGDUO Update-Tool Für Den Walkera Up02-Transmitter-...'
+sku: 'B07W22MPZY-de'
 tags: [  ]
 actualPrice: 28.97 EUR
 currency: EUR

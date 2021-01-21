@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NH3F8C6-de Neato Robotics D450 945-0343 Saugroboter Exklusive Tier...'
+sku: 'B07NH3F8C6-de'
 tags: [  ]
 actualPrice: 406.99 EUR
 currency: EUR

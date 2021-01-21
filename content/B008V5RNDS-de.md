@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008V5RNDS-de Ice Age 1-4 [4 DVDs]'
+sku: 'B008V5RNDS-de'
 tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR

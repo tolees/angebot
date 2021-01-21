@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCKF619-de Soundcore Wakey Bluetooth Lautsprecher Powered by Anker...'
+sku: 'B07VCKF619-de'
 tags: [  ]
 actualPrice: 42.49 EUR
 currency: EUR

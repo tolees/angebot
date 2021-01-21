@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YF1R2FS-de HP Pavilion Gaming 15-dk0206ng 15 6 Zoll / FHD IPS Gaming...'
+sku: 'B07YF1R2FS-de'
 tags: [  ]
 actualPrice: 450.0 EUR
 currency: EUR

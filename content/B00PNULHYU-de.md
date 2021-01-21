@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PNULHYU-de Gardena Reinigungsspritze: Wasserspritze mit stufenlos...'
+sku: 'B00PNULHYU-de'
 tags: [  ]
 actualPrice: 4.03 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BDRY863-de SUUNTO 3 Fitness black'
+sku: 'B07BDRY863-de'
 tags: [  ]
 actualPrice: 94.99 EUR
 currency: EUR

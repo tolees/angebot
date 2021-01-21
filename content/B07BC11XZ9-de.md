@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BC11XZ9-de Mario & Luigi: Abenteuer Bowser + Bowser Jr.s Reise -...'
+sku: 'B07BC11XZ9-de'
 tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR

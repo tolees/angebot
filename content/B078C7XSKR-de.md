@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078C7XSKR-de Navitech Blauer Harter Fall für die APEMAN Mini Car Camera...'
+sku: 'B078C7XSKR-de'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

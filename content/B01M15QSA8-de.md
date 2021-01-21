@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M15QSA8-de Original Einhell Starter Kit Akku und Ladegerät Power...'
+sku: 'B01M15QSA8-de'
 tags: [  ]
 actualPrice: 34 EUR
 currency: EUR

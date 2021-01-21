@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074VM1ZFP-de Sony WH-H900N High-Resolution Kopfhörer Kabelloser Noise...'
+sku: 'B074VM1ZFP-de'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

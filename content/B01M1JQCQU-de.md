@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M1JQCQU-de Fossil Damen-Armband JA6851791'
+sku: 'B01M1JQCQU-de'
 tags: [  ]
 actualPrice: 27.88 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001ALYPY0-de Wedo 78722 Cutter Hobbymesser Set inklusive 6...'
+sku: 'B001ALYPY0-de'
 tags: [  ]
 actualPrice: 3.56 EUR
 currency: EUR

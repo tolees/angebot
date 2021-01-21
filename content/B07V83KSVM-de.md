@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V83KSVM-de Transport Fever 2'
+sku: 'B07V83KSVM-de'
 tags: [  ]
 actualPrice: 31.23 EUR
 currency: EUR

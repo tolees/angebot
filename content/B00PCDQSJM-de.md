@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PCDQSJM-de Sony Alpha 6000 Systemkamera 24 Megapixel 7 6 cm 3 Zoll...'
+sku: 'B00PCDQSJM-de'
 tags: [  ]
 actualPrice: 346.0 EUR
 currency: EUR

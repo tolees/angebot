@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08J6M88LC-de Bluetooth-Kopfhörer 5.0 Kabellose Kopfhörer IPX7...'
+sku: 'B08J6M88LC-de'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

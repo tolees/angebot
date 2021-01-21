@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N2NMT8G-de BRIKSMAX Led Beleuchtungsset für The Big Bang Theory...'
+sku: 'B07N2NMT8G-de'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

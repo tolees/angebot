@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001RM8BUG-de Panasonic LUMIX DMW-BCG10E Aufladbarer Li-Ion Akku...'
+sku: 'B001RM8BUG-de'
 tags: [  ]
 actualPrice: 18.9 EUR
 currency: EUR

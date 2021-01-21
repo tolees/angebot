@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071RNKJPS-de Funko Pop! TV: Game of Thrones - Das Lied von Eis und...'
+sku: 'B071RNKJPS-de'
 tags: [  ]
 actualPrice: 9.78 EUR
 currency: EUR

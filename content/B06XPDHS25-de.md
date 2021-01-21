@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPDHS25-de Ankermann Office Silent PC Intel Core i5 2400 4X 3.1 GHz...'
+sku: 'B06XPDHS25-de'
 tags: [  ]
 actualPrice: 369.0 EUR
 currency: EUR

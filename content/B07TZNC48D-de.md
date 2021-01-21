@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZNC48D-de BRIKSMAX Led Beleuchtungsset für Lego City Starke...'
+sku: 'B07TZNC48D-de'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

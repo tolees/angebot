@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WR7KB8-de Villeroy & Boch Piemont Tafelbesteck für bis zu 6 Personen...'
+sku: 'B000WR7KB8-de'
 tags: [  ]
 actualPrice: 84.95 EUR
 currency: EUR

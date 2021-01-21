@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GC1QJX4-de JOYXEON Gummibänder Rund 120 pcs 6mm x 103mm Gummikordel...'
+sku: 'B08GC1QJX4-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IAPOPAI-de Kärcher Mehrzwecksauger WD 3 Premium Behältergröße: 17 l...'
+sku: 'B00IAPOPAI-de'
 tags: [  ]
 actualPrice: 52 EUR
 currency: EUR

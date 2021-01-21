@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WDDSLFB-de Wir stellen vor: Amazon eero Pro WLAN-Mesh-Router/Extender'
+sku: 'B07WDDSLFB-de'
 tags: [  ]
 actualPrice: 139.0 EUR
 currency: EUR

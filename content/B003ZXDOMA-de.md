@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ZXDOMA-de Harman/Kardon Soundsticks III LED Desktop Soundsystem...'
+sku: 'B003ZXDOMA-de'
 tags: [  ]
 actualPrice: 167.75 EUR
 currency: EUR

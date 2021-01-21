@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G6HKH2S-de Remington Elektrischer Rasierer Herren R9 +Bart-...'
+sku: 'B07G6HKH2S-de'
 tags: [  ]
 actualPrice: 52.49 EUR
 currency: EUR

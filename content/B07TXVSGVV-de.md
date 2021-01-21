@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXVSGVV-de BRIKSMAX Led Beleuchtungsset für Lego Ideas Voltron...'
+sku: 'B07TXVSGVV-de'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

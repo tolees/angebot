@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CKLTE3U-de LG 34UM88C-P 86 36 cm 34 Zoll 21:9 UltraWide QHD IPS...'
+sku: 'B01CKLTE3U-de'
 tags: [  ]
 actualPrice: 319.0 EUR
 currency: EUR

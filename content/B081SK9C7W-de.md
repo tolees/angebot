@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081SK9C7W-de Bluetooth Lautsprecher Tragbarer Bluedio HS Hurricane...'
+sku: 'B081SK9C7W-de'
 tags: [  ]
 actualPrice: 15.29 EUR
 currency: EUR

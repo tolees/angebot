@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H96DZVB-de LincPlus P1 Laptop 13 3 Zoll Full HD Ultrabook Intel...'
+sku: 'B07H96DZVB-de'
 tags: [  ]
 actualPrice: 279.0 EUR
 currency: EUR

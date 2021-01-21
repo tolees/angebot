@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F1WR2YF-de Timberland Herren klassische 2 Eye Bootsschuhe Braun Argan...'
+sku: 'B07F1WR2YF-de'
 tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR

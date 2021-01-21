@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P0XXRXO-de Cobi 2449 Opel Blitz 3 6 - 36S Grau'
+sku: 'B00P0XXRXO-de'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

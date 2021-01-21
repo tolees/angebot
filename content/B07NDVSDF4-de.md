@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDVSDF4-de Sony Xperia 10 Plus Smartphone 16 5 cm 6 5 Zoll 21:9 Full...'
+sku: 'B07NDVSDF4-de'
 tags: [  ]
 actualPrice: 329.0 EUR
 currency: EUR

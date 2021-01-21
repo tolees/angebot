@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LGKRVPK-de Bosch 3tlg. Starter Set Fliesen für...'
+sku: 'B00LGKRVPK-de'
 tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR

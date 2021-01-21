@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4GG8P7-de Corsair K95 RGB Platinum Mechanische Gaming Tastatur...'
+sku: 'B01N4GG8P7-de'
 tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR

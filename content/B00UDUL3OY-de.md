@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UDUL3OY-de 5 Zimmer Küche Sarg'
+sku: 'B00UDUL3OY-de'
 tags: [  ]
 actualPrice: 3.51 EUR
 currency: EUR

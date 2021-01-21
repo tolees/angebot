@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JFBNP48-de Westmark Spätzle-/Kartoffelpresse Mit Spezial-Lochung für...'
+sku: 'B00JFBNP48-de'
 tags: [  ]
 actualPrice: 31.37 EUR
 currency: EUR

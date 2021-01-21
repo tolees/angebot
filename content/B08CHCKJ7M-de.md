@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CHCKJ7M-de Externes 3D Blu Ray DVD Laufwerk Brenner USB 3.0 Tragbare...'
+sku: 'B08CHCKJ7M-de'
 tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR

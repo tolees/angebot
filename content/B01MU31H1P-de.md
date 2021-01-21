@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MU31H1P-de Sony Digitalkamera DSC-HX350 Bridge-Kamera mit 50-fach...'
+sku: 'B01MU31H1P-de'
 tags: [  ]
 actualPrice: 286.99 EUR
 currency: EUR

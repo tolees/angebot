@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9VHKHF-de HMIYA Unisex Badeschuhe-Strandschuhe-Aquaschuhe Barfuß...'
+sku: 'B07B9VHKHF-de'
 tags: [  ]
 actualPrice: 11.19 EUR
 currency: EUR

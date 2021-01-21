@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WVNB6N-de Paco Home Designer Teppich Kurzflor Wohnzimmer Vintage...'
+sku: 'B078WVNB6N-de'
 tags: [  ]
 actualPrice: 13.2 EUR
 currency: EUR

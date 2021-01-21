@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007UFKZ1W-de Cellfast Gartenschlauch ECONOMIC Elastisch und flexibel...'
+sku: 'B007UFKZ1W-de'
 tags: [  ]
 actualPrice: 29.56 EUR
 currency: EUR

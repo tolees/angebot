@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083TLXRNZ-de Regal bambus 2er set Badezimmerregal Badregal Bambus...'
+sku: 'B083TLXRNZ-de'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

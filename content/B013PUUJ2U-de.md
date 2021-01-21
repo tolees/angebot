@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013PUUJ2U-de SET-ERGÄNZUNG - Gigaset Lichtschalter - manueller...'
+sku: 'B013PUUJ2U-de'
 tags: [  ]
 actualPrice: 22.45 EUR
 currency: EUR

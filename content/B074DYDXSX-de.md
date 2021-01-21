@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074DYDXSX-de WD My Cloud Home Duo 12 TB Persönlicher Cloudspeicher -...'
+sku: 'B074DYDXSX-de'
 tags: [  ]
 actualPrice: 327.2 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFHDM2H-de PROCAVE Baumwolle Komfort Qualitäts-Bettdecke für den...'
+sku: 'B07RFHDM2H-de'
 tags: [  ]
 actualPrice: 31.96 EUR
 currency: EUR

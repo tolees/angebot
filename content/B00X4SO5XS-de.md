@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X4SO5XS-de G.I.G.A. DX Damen Madoka Parka Dunkelnavy 42'
+sku: 'B00X4SO5XS-de'
 tags: [  ]
 actualPrice: 69.66 EUR
 currency: EUR

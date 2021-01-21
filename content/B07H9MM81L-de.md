@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9MM81L-de Nebula Prizm II von Anker 3600 Lux 1080p Full HD Video...'
+sku: 'B07H9MM81L-de'
 tags: [  ]
 actualPrice: 159.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005SJIP1E-de The Complete Mahler Symphonies'
+sku: 'B005SJIP1E-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

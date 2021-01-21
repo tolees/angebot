@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y12PQJ8-de Pampers Premium Protection Windeln Gr. 1 2-5kg...'
+sku: 'B06Y12PQJ8-de'
 tags: [  ]
 actualPrice: 14.15 EUR
 currency: EUR

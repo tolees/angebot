@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PZKMBT-de Sony Xperia XZ1 Smartphone 13 2 cm 5 2 Zoll Triluminos...'
+sku: 'B074PZKMBT-de'
 tags: [  ]
 actualPrice: 170.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0766CSY7G-de PLAYMOBIL Family Fun 9422 Swimmingpool mit Pump-Dusche Ab...'
+sku: 'B0766CSY7G-de'
 tags: [  ]
 actualPrice: 22.31 EUR
 currency: EUR

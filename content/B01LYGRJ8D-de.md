@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYGRJ8D-de Panama Jack Herren Panama 03 Aviator Combat Boots...'
+sku: 'B01LYGRJ8D-de'
 tags: [  ]
 actualPrice: 106.48 EUR
 currency: EUR

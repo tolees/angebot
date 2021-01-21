@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KBTTCNG-de Lightailing Licht-Set Für Star Wars Todesstern Modell -...'
+sku: 'B07KBTTCNG-de'
 tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR

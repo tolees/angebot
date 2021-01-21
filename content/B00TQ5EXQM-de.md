@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TQ5EXQM-de Funko 5859 Ron Weasley POP Vinyl Harry Potter S1 Multi'
+sku: 'B00TQ5EXQM-de'
 tags: [  ]
 actualPrice: 11.82 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYQ194L-de Pop Avengers Endgame Thanos in the Garden Vinyl Figure'
+sku: 'B07TYQ194L-de'
 tags: [  ]
 actualPrice: 8.01 EUR
 currency: EUR

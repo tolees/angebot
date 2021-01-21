@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HVORHNA-de Westmark Kartoffelstampfer Kunststoff Länge: 27 5 cm...'
+sku: 'B01HVORHNA-de'
 tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR

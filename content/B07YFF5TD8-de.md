@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFF5TD8-de Kohlenmonoxid Warnmelder LCD Anzeige CO Melder 85Db Alarm...'
+sku: 'B07YFF5TD8-de'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

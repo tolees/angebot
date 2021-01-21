@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WC1MXN7-de ECOVACS DEEBOT OZMO 950 Saug- & Wischroboter – 2-in-1...'
+sku: 'B07WC1MXN7-de'
 tags: [  ]
 actualPrice: 454.9 EUR
 currency: EUR

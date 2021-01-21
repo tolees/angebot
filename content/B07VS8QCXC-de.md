@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VS8QCXC-de Seagate Expansion Portable 5 TB externe tragbare...'
+sku: 'B07VS8QCXC-de'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

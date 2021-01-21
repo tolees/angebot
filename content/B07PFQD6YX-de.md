@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFQD6YX-de Original BestLoft® Weinregal Amber aus Eiche Wandregal...'
+sku: 'B07PFQD6YX-de'
 tags: [  ]
 actualPrice: 120.0 EUR
 currency: EUR

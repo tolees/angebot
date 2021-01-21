@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079P2J6GM-de Fitbit Ionic Health & Fitness Smartwatch grau Einheitsgröße'
+sku: 'B079P2J6GM-de'
 tags: [  ]
 actualPrice: 199.95 EUR
 currency: EUR

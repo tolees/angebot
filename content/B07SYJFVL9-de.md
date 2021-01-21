@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SYJFVL9-de Bluetooth Kopfhörer Donerton Bluetooth 5.0 In Ear...'
+sku: 'B07SYJFVL9-de'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

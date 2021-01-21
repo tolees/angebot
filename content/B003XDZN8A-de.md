@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003XDZN8A-de Crocs Shayna Women Damen Slingback Ballerinas Schwarz...'
+sku: 'B003XDZN8A-de'
 tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR

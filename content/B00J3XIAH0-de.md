@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J3XIAH0-de LogiLink MP0032 Modular Splitter 4Port RJ45 geschirmt mit...'
+sku: 'B00J3XIAH0-de'
 tags: [  ]
 actualPrice: 7.65 EUR
 currency: EUR

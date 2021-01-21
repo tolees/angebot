@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H2T0FMA-de HEAD Herren Boxer Shorts Basic 2er Pack mehrfarbig...'
+sku: 'B00H2T0FMA-de'
 tags: [  ]
 actualPrice: 10.11 EUR
 currency: EUR

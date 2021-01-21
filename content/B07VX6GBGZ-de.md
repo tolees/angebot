@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VX6GBGZ-de ExcLent 10-24 Cm De Acero Inoxidable De Boca Ancha Líquido...'
+sku: 'B07VX6GBGZ-de'
 tags: [  ]
 actualPrice: 7.31 EUR
 currency: EUR

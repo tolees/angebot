@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079KCHXCD-de Mattel FRV84 - Disney Pixar Cars Stunt Champion Lightning...'
+sku: 'B079KCHXCD-de'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

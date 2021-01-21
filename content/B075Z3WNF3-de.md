@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075Z3WNF3-de Hasbro Super Soaker E0021EU4 - Splash Mouth Wasserpistole...'
+sku: 'B075Z3WNF3-de'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

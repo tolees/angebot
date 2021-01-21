@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005AUU0LO-de Magnat Needle Alu Super Center I 2-Wege Centerlautsprecher...'
+sku: 'B005AUU0LO-de'
 tags: [  ]
 actualPrice: 76.0 EUR
 currency: EUR

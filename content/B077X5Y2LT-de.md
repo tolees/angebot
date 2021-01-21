@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077X5Y2LT-de Wifi Adapter 1200Mbit/s mit 5dBi Antenna Dualband...'
+sku: 'B077X5Y2LT-de'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

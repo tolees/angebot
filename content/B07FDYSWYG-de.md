@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDYSWYG-de 2 teilig Kochmesser Profi Messer Set AKZIM Scharfe...'
+sku: 'B07FDYSWYG-de'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

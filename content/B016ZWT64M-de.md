@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016ZWT64M-de Garmin Forerunner 235 Handgelenk-Based Herzfrequenz-GPS-...'
+sku: 'B016ZWT64M-de'
 tags: [  ]
 actualPrice: 209.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014LBOU7W-de auna MIC-900S LED - USB Kondensator-Mikrofon...'
+sku: 'B014LBOU7W-de'
 tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR

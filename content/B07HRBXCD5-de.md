@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRBXCD5-de Susan Y muttertagsgeschenke tennis armband frauen schmuck...'
+sku: 'B07HRBXCD5-de'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FFMFNBP-de Fossil Herren Digital Smart Watch Armbanduhr mit Edelstahl...'
+sku: 'B07FFMFNBP-de'
 tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR

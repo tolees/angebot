@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZNS328-de Funko 40101 POP Vinyl: Disney: Little Mermaid-Ariel Purple...'
+sku: 'B07MZNS328-de'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPW1ZXM-de Tommy Hilfiger Herren-Ketten mit Anhänger & Anhänger...'
+sku: 'B07NPW1ZXM-de'
 tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR

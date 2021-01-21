@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XH4LGHC-de Belkin PowerHouse Ladestation geeignet für iPhone XS XS...'
+sku: 'B06XH4LGHC-de'
 tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR

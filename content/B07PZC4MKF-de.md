@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PZC4MKF-de ReliBeauty Mädchen Prinzessin ELSA Schneeflocke Süßer...'
+sku: 'B07PZC4MKF-de'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

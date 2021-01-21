@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCNLGMS-de Star Wars- ferngesteuerte D-O Figur Star Wars: Der...'
+sku: 'B07RCNLGMS-de'
 tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR

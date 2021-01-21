@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074FZKNDF-de Revell 06719 Modellbausatz Star Wars 1:2700-Imperial...'
+sku: 'B074FZKNDF-de'
 tags: [  ]
 actualPrice: 58.85 EUR
 currency: EUR

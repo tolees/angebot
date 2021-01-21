@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0788GRQG9-de Unold 48165 PANCAKE-MAKER American Kunststoff...'
+sku: 'B0788GRQG9-de'
 tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR

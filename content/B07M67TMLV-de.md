@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M67TMLV-de Ondis24 Regal Lagerregal 71 x 35 x 180 H cm Steckregal...'
+sku: 'B07M67TMLV-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MM2S6TQ-de Huawei Y7 2019 Dual-SIM Smartphone 15 9 cm 6 26 Zoll...'
+sku: 'B07MM2S6TQ-de'
 tags: [  ]
 actualPrice: 123.0 EUR
 currency: EUR

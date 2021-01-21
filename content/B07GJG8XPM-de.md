@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GJG8XPM-de Acer TravelMate X3410 TMX3410-MG-50LB 35 6 cm 14 Zoll...'
+sku: 'B07GJG8XPM-de'
 tags: [  ]
 actualPrice: 356 EUR
 currency: EUR

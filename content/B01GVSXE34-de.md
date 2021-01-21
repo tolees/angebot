@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GVSXE34-de Bungsa® L - Silberner Buchstaben Kristall Charm Anhänger...'
+sku: 'B01GVSXE34-de'
 tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR

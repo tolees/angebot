@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008JZUBNY-de Fossil Damen-Ketten Edelstahl Rundschliff Oxyde de Zirconium'
+sku: 'B008JZUBNY-de'
 tags: [  ]
 actualPrice: 26.45 EUR
 currency: EUR

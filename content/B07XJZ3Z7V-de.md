@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJZ3Z7V-de LG PK5W Outdoor Bluetooth Lautsprecher mit Meridian...'
+sku: 'B07XJZ3Z7V-de'
 tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR

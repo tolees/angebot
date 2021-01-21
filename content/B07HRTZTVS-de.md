@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRTZTVS-de prettygood7 Eingabestift für Nintendo 3DS / N3DS / XL/LL...'
+sku: 'B07HRTZTVS-de'
 tags: [  ]
 actualPrice: 3.89 EUR
 currency: EUR

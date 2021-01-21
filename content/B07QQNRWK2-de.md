@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QQNRWK2-de Reolink Überwachungskamera Argus Eco + Solarpanel 1080p...'
+sku: 'B07QQNRWK2-de'
 tags: [  ]
 actualPrice: 79.49 EUR
 currency: EUR

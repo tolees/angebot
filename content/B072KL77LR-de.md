@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072KL77LR-de POP Rocks: Metallica - James Hetfield'
+sku: 'B072KL77LR-de'
 tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR

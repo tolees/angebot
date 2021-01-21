@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YS4MPMD-de G DATA Internet Security 2020 | 3 Geräte - 1 Jahr DVD-ROM...'
+sku: 'B07YS4MPMD-de'
 tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR

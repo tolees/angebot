@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QQHM5SQ-de The Space Between the Shadows'
+sku: 'B07QQHM5SQ-de'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

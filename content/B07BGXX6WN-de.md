@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BGXX6WN-de Faltbare Seiher Sieb Set Klappbar Abtropfsieb über die...'
+sku: 'B07BGXX6WN-de'
 tags: [  ]
 actualPrice: 12.89 EUR
 currency: EUR

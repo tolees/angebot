@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PZ8ZEGW-de Nike Damen WMNS Md Runner 2 Hallenschuhe Schwarz...'
+sku: 'B00PZ8ZEGW-de'
 tags: [  ]
 actualPrice: 40.16 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CXRC6P4-de Ela Mo’s Rucksack Damen | Schön und Durchdacht | für Uni...'
+sku: 'B07CXRC6P4-de'
 tags: [  ]
 actualPrice: 54.95 EUR
 currency: EUR

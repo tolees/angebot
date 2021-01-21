@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HPZVHF-de adidas Herren Core 18 Sweat Trainingshose Dark Blue/White XL'
+sku: 'B076HPZVHF-de'
 tags: [  ]
 actualPrice: 26.7 EUR
 currency: EUR

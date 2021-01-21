@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0151GJSSM-de Trust GXT 540 kabelgebundenes Gamepad'
+sku: 'B0151GJSSM-de'
 tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR

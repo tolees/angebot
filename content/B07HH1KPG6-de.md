@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HH1KPG6-de Tommy Jeans Herren Scanton Slim Jeans Blau Cobalt Light Bl...'
+sku: 'B07HH1KPG6-de'
 tags: [  ]
 actualPrice: 56.94 EUR
 currency: EUR

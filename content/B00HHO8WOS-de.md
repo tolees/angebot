@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HHO8WOS-de Flashpoint - Das Spezialkommando: Die komplette Serie [24...'
+sku: 'B00HHO8WOS-de'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

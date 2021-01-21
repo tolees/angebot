@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG5FYPP-de Star Wars Geschenke 3D Lampe für Männer - Star Wars...'
+sku: 'B07KG5FYPP-de'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QB1JYQH-de HERZ KRAFT WERKE Deluxe Edition'
+sku: 'B07QB1JYQH-de'
 tags: [  ]
 actualPrice: 8.24 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IRBFF6I-de THERMOS Kühltasche Classic medium 15 Liter - Isolierte...'
+sku: 'B00IRBFF6I-de'
 tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR

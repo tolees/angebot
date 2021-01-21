@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G5SF48Z-de Logitech G PRO Wireless Gaming Maus Hero 16000 DPI Sensor...'
+sku: 'B07G5SF48Z-de'
 tags: [  ]
 actualPrice: 87.2 EUR
 currency: EUR

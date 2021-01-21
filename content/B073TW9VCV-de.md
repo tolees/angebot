@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073TW9VCV-de Nachttischlampe mit Bluetooth Lautsprecher ELEPOWSTAR LED...'
+sku: 'B073TW9VCV-de'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

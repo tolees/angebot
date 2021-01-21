@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MG8NB84-de ECCO Herren Byway TRED Hohe Sneaker Schwarz Black/Moonless...'
+sku: 'B07MG8NB84-de'
 tags: [  ]
 actualPrice: 101.93 EUR
 currency: EUR

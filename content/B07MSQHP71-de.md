@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MSQHP71-de ASUS ZenBook Flip 15 UX562FA 90NB0LK1-M00360 39 6 cm 15 6...'
+sku: 'B07MSQHP71-de'
 tags: [  ]
 actualPrice: 500.0 EUR
 currency: EUR

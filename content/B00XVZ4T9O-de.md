@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XVZ4T9O-de Dyson V6 Mattress beutel- & kabelloser Staubsauger inkl....'
+sku: 'B00XVZ4T9O-de'
 tags: [  ]
 actualPrice: 190.0 EUR
 currency: EUR

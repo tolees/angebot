@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015CIZEDC-de Intenso Powerbank S10000 Slim externes Ladegerät 10000mAh...'
+sku: 'B015CIZEDC-de'
 tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR

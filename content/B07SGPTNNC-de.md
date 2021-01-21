@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SGPTNNC-de Luftbefeuchter Ultraschall Homech Raumbefeuchter 4L 50 Std...'
+sku: 'B07SGPTNNC-de'
 tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR

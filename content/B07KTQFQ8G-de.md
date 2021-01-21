@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTQFQ8G-de Tommy Hilfiger Damen Multi Dial Quartz Uhr Jenna'
+sku: 'B07KTQFQ8G-de'
 tags: [  ]
 actualPrice: 101.27 EUR
 currency: EUR

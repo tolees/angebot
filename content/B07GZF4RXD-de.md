@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZF4RXD-de Thrustmaster T.Racing Scuderia Ferrari Edition Gaming-...'
+sku: 'B07GZF4RXD-de'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

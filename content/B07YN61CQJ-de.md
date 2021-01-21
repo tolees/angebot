@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YN61CQJ-de Philips Audio Philips Bluetooth Soundbar HTL3310/10 TV...'
+sku: 'B07YN61CQJ-de'
 tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR

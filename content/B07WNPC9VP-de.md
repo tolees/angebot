@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WNPC9VP-de GODNECE LED Licht-Set für Baustein Aufgerüstet Typ Led...'
+sku: 'B07WNPC9VP-de'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

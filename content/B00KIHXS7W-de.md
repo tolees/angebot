@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KIHXS7W-de devolo dLAN 550 duo+ Starter Kit Powerline 500 Mbit/s...'
+sku: 'B00KIHXS7W-de'
 tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR

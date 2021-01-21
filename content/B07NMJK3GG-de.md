@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NMJK3GG-de Hollow Knight'
+sku: 'B07NMJK3GG-de'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

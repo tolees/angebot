@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FCDW8D3-de ELEGIANT Fitness Armband Fitness Tracker Pulsmesser...'
+sku: 'B07FCDW8D3-de'
 tags: [  ]
 actualPrice: 11.23 EUR
 currency: EUR

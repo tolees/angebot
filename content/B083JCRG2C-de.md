@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083JCRG2C-de Bluetooth Kopfhörer In Ear Wireless Noise Cancelling...'
+sku: 'B083JCRG2C-de'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

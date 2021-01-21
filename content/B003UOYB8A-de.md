@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003UOYB8A-de Duracell Specialty 2032 Lithium-Knopfzelle 3 V 2er-Packung...'
+sku: 'B003UOYB8A-de'
 tags: [  ]
 actualPrice: 1.95 EUR
 currency: EUR

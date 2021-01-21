@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D4GT1RK-de 3D Pudding Kuchen Dekorieren DIY Werkzeug Set 10 Nadeln +...'
+sku: 'B07D4GT1RK-de'
 tags: [  ]
 actualPrice: 6.89 EUR
 currency: EUR

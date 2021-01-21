@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVDPFGW-de Funko 45119 POP Animation: Evangelion - Rei Ayanami Neon...'
+sku: 'B07TVDPFGW-de'
 tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR

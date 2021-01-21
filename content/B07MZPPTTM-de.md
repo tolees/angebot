@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPPTTM-de Funko POP! Vinyl: Dragonball Z S6: Kid Buu Mehrfarben...'
+sku: 'B07MZPPTTM-de'
 tags: [  ]
 actualPrice: 8.26 EUR
 currency: EUR

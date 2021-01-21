@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D9TY5P3-de Google WiFi - WLAN-Router Dual-Band 2 4 GHz/5 GHz Wi-Fi 5...'
+sku: 'B07D9TY5P3-de'
 tags: [  ]
 actualPrice: 93.51 EUR
 currency: EUR

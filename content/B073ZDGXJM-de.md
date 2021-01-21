@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073ZDGXJM-de Remington Hygiene Clipper Lithium NanoSeries NE3870...'
+sku: 'B073ZDGXJM-de'
 tags: [  ]
 actualPrice: 15.55 EUR
 currency: EUR

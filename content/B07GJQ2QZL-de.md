@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GJQ2QZL-de DJI Mavic 2 Zoom Drohne Quadrocopter mit 24-48mm Optischer...'
+sku: 'B07GJQ2QZL-de'
 tags: [  ]
 actualPrice: 999.0 EUR
 currency: EUR

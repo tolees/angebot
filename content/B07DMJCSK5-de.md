@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DMJCSK5-de Philips Sonicare ProtectiveClean 5100 elektrische...'
+sku: 'B07DMJCSK5-de'
 tags: [  ]
 actualPrice: 101.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFV4KF9-de Ztotops Tasche Kompatibel für Nintendo Switch Lite mit...'
+sku: 'B07YFV4KF9-de'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

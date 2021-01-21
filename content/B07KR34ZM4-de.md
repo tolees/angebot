@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KR34ZM4-de LIGHTAILING Licht-Set Für Alter Angelladen Modell - LED...'
+sku: 'B07KR34ZM4-de'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

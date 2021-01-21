@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCK5PRM-de Tageslichtlampe 10000 Lux Tageslichtleuchte LED...'
+sku: 'B07XCK5PRM-de'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

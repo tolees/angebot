@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTF0FKG-de Sylvanian Families 5273 Limousine Puppenauto 26 x 12 5 x...'
+sku: 'B01MTF0FKG-de'
 tags: [  ]
 actualPrice: 24.16 EUR
 currency: EUR

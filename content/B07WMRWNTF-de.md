@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WMRWNTF-de GODNECE Bausteine Classic 7692 Teile Kran Modellbausatz...'
+sku: 'B07WMRWNTF-de'
 tags: [  ]
 actualPrice: 626.99 EUR
 currency: EUR

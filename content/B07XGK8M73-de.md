@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XGK8M73-de YIGII Handtuchhalter Ohne Bohren Handtuchring...'
+sku: 'B07XGK8M73-de'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMCC38B-de PLAYMOBIL 70039 - DreamWorks Dragons Todbringer und...'
+sku: 'B07JMCC38B-de'
 tags: [  ]
 actualPrice: 16.0 EUR
 currency: EUR

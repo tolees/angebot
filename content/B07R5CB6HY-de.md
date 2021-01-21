@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R5CB6HY-de Belkin Thunderbolt 3 Mini-Dock mit Integriertem...'
+sku: 'B07R5CB6HY-de'
 tags: [  ]
 actualPrice: 133.58 EUR
 currency: EUR

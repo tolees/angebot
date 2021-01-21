@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVLZ9R8-de Samsung Galaxy Note 10 Smartphone Bundle 15.9cm 6.3 Zoll...'
+sku: 'B07VVLZ9R8-de'
 tags: [  ]
 actualPrice: 649.0 EUR
 currency: EUR

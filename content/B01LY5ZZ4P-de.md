@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LY5ZZ4P-de SanDisk SSD PLUS 960GB Sata III 2 5 Zoll Interne SSD bis...'
+sku: 'B01LY5ZZ4P-de'
 tags: [  ]
 actualPrice: 136.96 EUR
 currency: EUR

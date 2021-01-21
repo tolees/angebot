@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B51SR9Y-de LG Beamer PF50KS bis 254 cm 100 Zoll CineBeam Full HD LED...'
+sku: 'B07B51SR9Y-de'
 tags: [  ]
 actualPrice: 300.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005LMXP72-de !Solid Dash Herren Lederjacke Bikerjacke Echtleder Mit...'
+sku: 'B005LMXP72-de'
 tags: [  ]
 actualPrice: 86.95 EUR
 currency: EUR

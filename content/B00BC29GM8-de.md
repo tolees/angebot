@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BC29GM8-de Vibram FiveFingers 13M0101 EL-X Fitnessschuhe Herren...'
+sku: 'B00BC29GM8-de'
 tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR

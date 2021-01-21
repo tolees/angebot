@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NC1N7ZH-de camel active Herren Houston 488415/2513 Hose Beige Beige...'
+sku: 'B07NC1N7ZH-de'
 tags: [  ]
 actualPrice: 43.04 EUR
 currency: EUR

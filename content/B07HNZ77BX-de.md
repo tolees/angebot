@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HNZ77BX-de INSMART PS4 Headset PC Gaming Headset Auch für Nintendo...'
+sku: 'B07HNZ77BX-de'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

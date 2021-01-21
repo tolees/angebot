@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G7BGMZ2-de Reishunger Digitaler Reiskocher & Dampfgarer Weiss mit...'
+sku: 'B07G7BGMZ2-de'
 tags: [  ]
 actualPrice: 114.99 EUR
 currency: EUR

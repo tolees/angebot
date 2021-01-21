@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087CJFZZK-de ZHENREN USB WLAN Stick USB WLAN verstärker Adapter für PC...'
+sku: 'B087CJFZZK-de'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRZ60F0-de AVM FRITZ!DECT 210 intelligente Steckdose für Smart Home...'
+sku: 'B01MRZ60F0-de'
 tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR

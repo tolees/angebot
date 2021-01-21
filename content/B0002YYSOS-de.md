@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0002YYSOS-de Element System Wandschiene 1-reihig 2 Stück 4 Abmessungen...'
+sku: 'B0002YYSOS-de'
 tags: [  ]
 actualPrice: 3.39 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075MHNSNB-de Das fünfte Element Remastered 2017 – Mediabook exklusiv...'
+sku: 'B075MHNSNB-de'
 tags: [  ]
 actualPrice: 9.97 EUR
 currency: EUR

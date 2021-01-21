@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0759MJW6F-de Funko 28034 64202 S1 No Actionfigur Mad Max: Fury Road:...'
+sku: 'B0759MJW6F-de'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

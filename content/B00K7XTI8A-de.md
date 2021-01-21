@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K7XTI8A-de WENKO Spül-Set Empire Spülmittelspender Spülbürste...'
+sku: 'B00K7XTI8A-de'
 tags: [  ]
 actualPrice: 11.27 EUR
 currency: EUR

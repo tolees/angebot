@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MT7DMBQ-de Digital Wecker mit Hölzerner Elektronischer LED-...'
+sku: 'B07MT7DMBQ-de'
 tags: [  ]
 actualPrice: 26.88 EUR
 currency: EUR

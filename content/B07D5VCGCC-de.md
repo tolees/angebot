@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5VCGCC-de Under Armour Herren schnelltrocknende Boxershorts 6inch -...'
+sku: 'B07D5VCGCC-de'
 tags: [  ]
 actualPrice: 25.29 EUR
 currency: EUR

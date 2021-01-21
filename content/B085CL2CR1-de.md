@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085CL2CR1-de PUMA Sneakersocken 18 Paar Pack Statement Edition - Damen...'
+sku: 'B085CL2CR1-de'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

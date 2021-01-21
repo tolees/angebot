@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W3M7NHR-de Ionen Haartrockner Ribivaul 1700 Watt Salon Dry Care...'
+sku: 'B07W3M7NHR-de'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

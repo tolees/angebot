@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXFCAZR-de Samsonite Base Boost - Spinner L Erweiterbar Koffer 78 cm...'
+sku: 'B01LXFCAZR-de'
 tags: [  ]
 actualPrice: 75.0 EUR
 currency: EUR

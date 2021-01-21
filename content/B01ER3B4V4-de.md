@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ER3B4V4-de Blend Cross Herren Kapuzenpullover Hoodie Pullover Mit...'
+sku: 'B01ER3B4V4-de'
 tags: [  ]
 actualPrice: 23.95 EUR
 currency: EUR

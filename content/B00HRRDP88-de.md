@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRRDP88-de Sylvanian Families 2239 - Garten-Grill-Set'
+sku: 'B00HRRDP88-de'
 tags: [  ]
 actualPrice: 19.86 EUR
 currency: EUR

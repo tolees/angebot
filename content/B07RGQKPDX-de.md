@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGQKPDX-de Tommy Jeans Damen Tjw Waffle Hybrid Longsleeve Sport...'
+sku: 'B07RGQKPDX-de'
 tags: [  ]
 actualPrice: 23.3 EUR
 currency: EUR

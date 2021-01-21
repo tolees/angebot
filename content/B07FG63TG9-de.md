@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FG63TG9-de Huawei 55030237 FreeBuds Wireless Earphones schwarz'
+sku: 'B07FG63TG9-de'
 tags: [  ]
 actualPrice: 51.36 EUR
 currency: EUR

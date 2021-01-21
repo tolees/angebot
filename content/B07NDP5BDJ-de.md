@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDP5BDJ-de G-STAR RAW Herren Graphic 17 Core Round Neck Sweatshirt...'
+sku: 'B07NDP5BDJ-de'
 tags: [  ]
 actualPrice: 44.97 EUR
 currency: EUR

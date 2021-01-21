@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003R7KQQQ-de Barilla Pasta Penne Rigate 500g'
+sku: 'B003R7KQQQ-de'
 tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR

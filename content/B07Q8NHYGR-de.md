@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q8NHYGR-de Candylocks 6054716 - Beste Freundinnen 2er Pack Mint Choco...'
+sku: 'B07Q8NHYGR-de'
 tags: [  ]
 actualPrice: 15.05 EUR
 currency: EUR

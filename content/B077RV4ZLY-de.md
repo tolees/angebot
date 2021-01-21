@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077RV4ZLY-de Western Digital 6 TB Elements Desktop externe Festplatte...'
+sku: 'B077RV4ZLY-de'
 tags: [  ]
 actualPrice: 96.51 EUR
 currency: EUR

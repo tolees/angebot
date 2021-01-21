@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KLLX7MA-de Citizen Herren Chronograph Quartz Uhr mit Leder Armband...'
+sku: 'B01KLLX7MA-de'
 tags: [  ]
 actualPrice: 259.3 EUR
 currency: EUR

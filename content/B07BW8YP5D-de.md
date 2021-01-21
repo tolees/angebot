@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BW8YP5D-de Jakks Pacific 32382-11L G.L.O.W. Stick Mehrfarbig'
+sku: 'B07BW8YP5D-de'
 tags: [  ]
 actualPrice: 5.68 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001HHACHG-de Leifheit Wandrollenhalter Parat ComfortLine-Serie für 3...'
+sku: 'B001HHACHG-de'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

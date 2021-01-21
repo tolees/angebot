@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N9BK3J9-de JBL Live 500BT kabellose Over-Ear Kopfhörer - Bluetooth...'
+sku: 'B07N9BK3J9-de'
 tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR

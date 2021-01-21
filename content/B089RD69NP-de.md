@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089RD69NP-de PUMA Sneakersocken 18 Paar Pack Statement Edition - Damen...'
+sku: 'B089RD69NP-de'
 tags: [  ]
 actualPrice: 23.74 EUR
 currency: EUR

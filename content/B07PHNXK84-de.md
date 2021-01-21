@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PHNXK84-de SAMSONITE Checkmate - Laptop Backpack - Double Pocket...'
+sku: 'B07PHNXK84-de'
 tags: [  ]
 actualPrice: 121.02 EUR
 currency: EUR

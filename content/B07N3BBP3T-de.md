@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3BBP3T-de ECCO Jungen URBAN Hiker Klassische Stiefel Grau...'
+sku: 'B07N3BBP3T-de'
 tags: [  ]
 actualPrice: 60.95 EUR
 currency: EUR

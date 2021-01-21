@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PJLJQWC-de Konturenlehre Konturmessgerät Duplikator Profil...'
+sku: 'B07PJLJQWC-de'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

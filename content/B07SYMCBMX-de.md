@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SYMCBMX-de Dragon Ball Z: Kakarot -Standard Edition [PlayStation 4]'
+sku: 'B07SYMCBMX-de'
 tags: [  ]
 actualPrice: 30.48 EUR
 currency: EUR

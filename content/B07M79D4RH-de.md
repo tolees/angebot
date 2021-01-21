@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M79D4RH-de Fossil Herren-Smartwatch mit Silikon Armband FTW4019'
+sku: 'B07M79D4RH-de'
 tags: [  ]
 actualPrice: 175.51 EUR
 currency: EUR

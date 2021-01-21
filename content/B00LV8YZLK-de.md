@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LV8YZLK-de Ubiquiti USG Netzwerk/Router 3 Gigabit-Ethernet-Ports...'
+sku: 'B00LV8YZLK-de'
 tags: [  ]
 actualPrice: 100.9 EUR
 currency: EUR
@@ -26,9 +27,9 @@ Es gibt ein [Ubiquiti USG Netzwerk/Router   3 Gigabit-Ethernet-Ports  UniFi-Cont
 
 ℹ️:
 
-- Bis zu 1 Million Pakete pro Sekunde für Pakete von 64 Bytes
-- Integrierte und mit UniFi-Controller verwaltet v4.x
-- über 3 Gigabit-Ethernet-Ports und CLI-Management für Fortgeschrittene
 - Gesamtleitungsrate von 3 Gbit / s für 512-Byte-Pakete oder mehr
+- über 3 Gigabit-Ethernet-Ports und CLI-Management für Fortgeschrittene
+- Integrierte und mit UniFi-Controller verwaltet v4.x
+- Bis zu 1 Million Pakete pro Sekunde für Pakete von 64 Bytes
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00LV8YZLK/?tag=tolees0ca-21)

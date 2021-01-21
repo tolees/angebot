@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0836VHZXV-de TEECY Kartenetui Neue Kreditkartentasche Kartenetui mit...'
+sku: 'B0836VHZXV-de'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

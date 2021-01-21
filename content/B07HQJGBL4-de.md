@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HQJGBL4-de K2 Sports Europe Unisex Kinder Inlineskates Raider'
+sku: 'B07HQJGBL4-de'
 tags: [  ]
 actualPrice: 65.9 EUR
 currency: EUR

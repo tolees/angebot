@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000B8KYO8-de Leifheit Wandrollenhalter Parat Royal für 3 Rollen...'
+sku: 'B000B8KYO8-de'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YY1QDX4-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars First...'
+sku: 'B07YY1QDX4-de'
 tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR

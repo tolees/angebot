@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CMB1TSZ-de Hasbro Black Panther E1971EU4 Black Panther Legends...'
+sku: 'B07CMB1TSZ-de'
 tags: [  ]
 actualPrice: 89.85 EUR
 currency: EUR

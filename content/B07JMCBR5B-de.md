@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMCBR5B-de Playmobil 70059 Special Plus Elfe mit REH bunt'
+sku: 'B07JMCBR5B-de'
 tags: [  ]
 actualPrice: 2.97 EUR
 currency: EUR

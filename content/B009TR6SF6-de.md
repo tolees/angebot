@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009TR6SF6-de Tablet Kissen - ideal passend zu Samsung Tab Apple iPad...'
+sku: 'B009TR6SF6-de'
 tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR

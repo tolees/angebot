@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085ST7G7F-de Palado® Damen Sandale Korfu | Made in EU | Pantoletten in...'
+sku: 'B085ST7G7F-de'
 tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR

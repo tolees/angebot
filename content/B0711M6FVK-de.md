@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0711M6FVK-de Under Armour Damen Fly Fast Tight Legging schwarz Black /...'
+sku: 'B0711M6FVK-de'
 tags: [  ]
 actualPrice: 38.47 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HM5FDZ3-de Legacy Vinyl Box Set [Vinyl LP]'
+sku: 'B07HM5FDZ3-de'
 tags: [  ]
 actualPrice: 134.26 EUR
 currency: EUR

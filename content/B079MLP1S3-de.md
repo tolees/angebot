@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MLP1S3-de Playmobil Space 9487 Mars-Station Ab 6 Jahren'
+sku: 'B079MLP1S3-de'
 tags: [  ]
 actualPrice: 52.25 EUR
 currency: EUR

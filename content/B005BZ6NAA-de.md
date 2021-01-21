@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005BZ6NAA-de Arrietty - Die wundersame Welt der Borger'
+sku: 'B005BZ6NAA-de'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

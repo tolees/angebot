@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0823XF5WH-de OBEEII Mädchen ELSA Kostüm Prinzessin Kleid mit Umhang...'
+sku: 'B0823XF5WH-de'
 tags: [  ]
 actualPrice: 8.8 EUR
 currency: EUR

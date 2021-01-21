@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FWGHXQ-de Trust GXT 707R Resto Gaming-Stuhl Ergonomisch mit...'
+sku: 'B079FWGHXQ-de'
 tags: [  ]
 actualPrice: 169.0 EUR
 currency: EUR

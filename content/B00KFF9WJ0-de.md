@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KFF9WJ0-de Timezone Herren Straight Leg Hose BenitoTZ cargo pants...'
+sku: 'B00KFF9WJ0-de'
 tags: [  ]
 actualPrice: 45.09 EUR
 currency: EUR

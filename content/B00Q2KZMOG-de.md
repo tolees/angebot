@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Q2KZMOG-de AWA - Sydney – Chrom - Waschtischarmatur – RED DOT 2015'
+sku: 'B00Q2KZMOG-de'
 tags: [  ]
 actualPrice: 49.28 EUR
 currency: EUR

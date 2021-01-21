@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082SJ2FQ9-de K9CK LED Licht Set für Lego Modell - DIY Leuchtende...'
+sku: 'B082SJ2FQ9-de'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

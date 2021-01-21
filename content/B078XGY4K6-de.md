@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078XGY4K6-de Christa Ludwig-Complete Recitals'
+sku: 'B078XGY4K6-de'
 tags: [  ]
 actualPrice: 14.21 EUR
 currency: EUR

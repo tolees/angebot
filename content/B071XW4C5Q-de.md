@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071XW4C5Q-de Withings Body+ - WLAN-Körperwaage für...'
+sku: 'B071XW4C5Q-de'
 tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR

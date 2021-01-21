@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRBYD99-de Carrera GO!!! Race to Win 20062483 Autorennbahn Set'
+sku: 'B07PRBYD99-de'
 tags: [  ]
 actualPrice: 32.7 EUR
 currency: EUR

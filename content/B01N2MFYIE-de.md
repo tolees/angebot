@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2MFYIE-de Tommy Hilfiger Herren H2285ARLOW 1D Sneakers Grau Steel...'
+sku: 'B01N2MFYIE-de'
 tags: [  ]
 actualPrice: 42.14 EUR
 currency: EUR

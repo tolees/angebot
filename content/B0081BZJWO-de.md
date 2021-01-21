@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0081BZJWO-de Nestlé KITKAT ChunKy Classic Schokoriegel in...'
+sku: 'B0081BZJWO-de'
 tags: [  ]
 actualPrice: 9.75 EUR
 currency: EUR

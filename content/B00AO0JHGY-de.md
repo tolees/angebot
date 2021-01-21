@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AO0JHGY-de RoomMates 54161 Happi Raketenhunde'
+sku: 'B00AO0JHGY-de'
 tags: [  ]
 actualPrice: 7.06 EUR
 currency: EUR

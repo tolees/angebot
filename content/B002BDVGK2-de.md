@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002BDVGK2-de Durable 840500 Selbstklebe-Taben Quick Tab wiederablösbar...'
+sku: 'B002BDVGK2-de'
 tags: [  ]
 actualPrice: 4.45 EUR
 currency: EUR
