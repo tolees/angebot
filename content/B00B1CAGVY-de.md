@@ -27,8 +27,8 @@ Sie können [Funko 3090 Dragonball Game of Thrones-Pop Vinyl 07 Jon Snow](https:
 
 ℹ️:
 
-- Jon Snow
 - POP! Vinylfigur
 - Game of Thrones
+- Jon Snow
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00B1CAGVY/?tag=tolees0ca-21)
