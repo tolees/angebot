@@ -28,7 +28,7 @@ Sie können [Tommy Hilfiger Herren Vn Tee ss 3 Pack Premium Essentials Unterhemd
 ℹ️:
 
 - Tommy Hilfiger V.Neck Tee
-- 95 Prozent Baumwolle, 5 Prozent Elastan Stretch
 - 3er pack Unterhemd in Weiß
+- 95 Prozent Baumwolle, 5 Prozent Elastan Stretch
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00K5R9UGS/?tag=tolees0ca-21)
