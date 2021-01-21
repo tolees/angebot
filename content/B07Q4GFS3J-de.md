@@ -27,8 +27,8 @@ Sie können [Tommy Hilfiger Damen Heritage Como Skinny Rw Skinny Jeans  Schwarz 
 
 ℹ️:
 
-- Pflegehinweise: Trommeltrocknen bei niedriger Temperatur; Maschinenwäsche 40 Grad; Reinigen mit Perchlorethylen; Bügeln mit mittlerer Temperatur; nicht bleichen
-- Teile tierischen Ursprungs: Nein
 - Material: 98% Baumwolle, 2% Elasthan
+- Teile tierischen Ursprungs: Nein
+- Pflegehinweise: Trommeltrocknen bei niedriger Temperatur; Maschinenwäsche 40 Grad; Reinigen mit Perchlorethylen; Bügeln mit mittlerer Temperatur; nicht bleichen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07Q4GFS3J/?tag=tolees0ca-21)
