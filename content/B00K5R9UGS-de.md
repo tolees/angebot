@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Herren Vn Tee ss 3 Pack P mit 28.84 % Rabatt'
-date: 2021-01-19 20:30:01
+date: 2021-01-21 02:42:03
 image: 'https://m.media-amazon.com/images/I/31JIsdKS+DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00K5R9UGS-de Tommy Hilfiger Herren Vn Tee ss 3 Pack Premium Essentials...'
+sku: 'B00K5R9UGS-de'
 tags: [  ]
 actualPrice: 31.95 EUR
 currency: EUR
