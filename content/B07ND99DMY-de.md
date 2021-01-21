@@ -27,10 +27,10 @@ Sie können [LEGO 70423 Hidden Side Spezialbus Geisterschreck 3000 Kinderspielze
 
 ℹ️:
 
-- Dieses Spielzeug mit Augmented Reality für Kinder enthält 6 Figuren, mit denen die Kinder ihre eigenen Geisterjäger-Abenteuer unternehmen können
-- Die kostenlose LEGO Hidden Side App ist für ausgewählte iOS- und Android-Smartgeräte verfügbar
-- Der energiegeladene Spielzeug-Schulbus verfügt über eine Kommandostation, ausklappbare Kanonen zum Entfluchen, Scanner auf dem Dach und Platz für 4 Minifiguren für Geisterjäger-Abenteuer
-- Entdecke die Welt von LEGO Hidden Side: ein einzigartiges Spielerlebnis, das das offene, kreative Spielvergnügen mit LEGO Bauspielzeug für Kinder mit einer App mit Augmented Reality verbindet
 - Für das Erlebnis mit Augmented Reality ist ein Tablet oder Smartphone erforderlich. Beides ist in diesem Set nicht enthalten
+- Die kostenlose LEGO Hidden Side App ist für ausgewählte iOS- und Android-Smartgeräte verfügbar
+- Dieses Spielzeug mit Augmented Reality für Kinder enthält 6 Figuren, mit denen die Kinder ihre eigenen Geisterjäger-Abenteuer unternehmen können
+- Entdecke die Welt von LEGO Hidden Side: ein einzigartiges Spielerlebnis, das das offene, kreative Spielvergnügen mit LEGO Bauspielzeug für Kinder mit einer App mit Augmented Reality verbindet
+- Der energiegeladene Spielzeug-Schulbus verfügt über eine Kommandostation, ausklappbare Kanonen zum Entfluchen, Scanner auf dem Dach und Platz für 4 Minifiguren für Geisterjäger-Abenteuer
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07ND99DMY/?tag=tolees0ca-21)
