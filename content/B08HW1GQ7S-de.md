@@ -27,10 +27,10 @@ Sie können [Lego Technic 42119 - Monster Jam - Max-D Truck  230 Teile  NEU 2021
 
 ℹ️:
 
-- Das LEGO Technik Bauset „Monster Jam Max-D“ (42119) inspiriert Monster Jam Fans dazu, ihren eigenen Monstertruck zu bauen. Der Rückziehmotor ermöglicht es Jungen und Mädchen im Handumdrehen selbst die waghalsigen Stunts aus Monster Jam Arena vorzuführen.
-- Mit dem LEGO Technic Monster Jam Max-D (42119) können Monstertruckfans spannende Stunts aus der Arena nachstellen. Zwei Bauherausforderungen! Der Max-D ist ein 2-in-1-Modell und ein cooler Spielzeug-Monstertruck, der sich in ein Quad mit Rückziehmotor umbauen lässt.
 - Dank des Rückziehmotors können Kinder ihren Monstertruck und ihr Quad rasant beschleunigen lassen. Einfach zurückziehen und loslassen – und schon flitzen sie los. Ist das Set für ein Kind gedacht, das Monstertrucks liebt? Dieses Baumodell ist das ideale Geschenk für Jungen und Mädchen ab 7 Jahren, die sich für spektakuläre Flitzer begeistern.
+- Das LEGO Technik Bauset „Monster Jam Max-D“ (42119) inspiriert Monster Jam Fans dazu, ihren eigenen Monstertruck zu bauen. Der Rückziehmotor ermöglicht es Jungen und Mädchen im Handumdrehen selbst die waghalsigen Stunts aus Monster Jam Arena vorzuführen.
 - Das 2-in-1-Modell beeindruckt mit denselben Details, die auch den echten Monstertruck auszeichnen. Sieh dir die authentischen Grafiken und Farben, die Dornen und die bewegliche Flagge an. Mit Pull-back Funktion.
+- Mit dem LEGO Technic Monster Jam Max-D (42119) können Monstertruckfans spannende Stunts aus der Arena nachstellen. Zwei Bauherausforderungen! Der Max-D ist ein 2-in-1-Modell und ein cooler Spielzeug-Monstertruck, der sich in ein Quad mit Rückziehmotor umbauen lässt.
 - Die legendären Dornen und die raue Metalloberfläche mit Flammen-Grafiken zählen zu den authentischen Details, die auch den echten Max-D auszeichnen. Der Monster Jam ist 10 cm hoch, mit Flagge 25 cm lang und 11 cm breit. Eine Bauanleitung für den Max-D liegt bei. In der kostenlosen LEGO Building Instructions App gibt es außerdem Instructions PLUS. Die Bauanleitung für das Quad ist online verfügbar.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08HW1GQ7S/?tag=tolees0ca-21)

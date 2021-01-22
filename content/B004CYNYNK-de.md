@@ -27,10 +27,10 @@ Es gibt ein [Jack Daniel`s Gentleman Jack Tennessee Whisky  1 x 0.7l ](https://w
 
 ℹ️:
 
-- Geruch: ausgeprägt würzige Vanille dominiert zart-fruchtige Orange und reife Minze
-- Kann pur, oder auf Eis verzehrt werden
-- Abgang: weich und lang, feine einzigartige Nuancen in jedem Fass
 - Farbe: brilliant, satt-rötlicher Bernstein
+- Kann pur, oder auf Eis verzehrt werden
 - Geschmack: ein Mix aus süßer Vanille, schwerer Eiche und dunklen Kirschen
+- Abgang: weich und lang, feine einzigartige Nuancen in jedem Fass
+- Geruch: ausgeprägt würzige Vanille dominiert zart-fruchtige Orange und reife Minze
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004CYNYNK/?tag=tolees0ca-21)
