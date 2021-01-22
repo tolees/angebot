@@ -27,7 +27,7 @@ Sie können [Australian Gold Moisture Lock  1er Pack  1 x 473 ml ](https://www.a
 
 ℹ️:
 
-- Nährt und spendet Feuchtigkeit
 - Hält die Feuchtigkeit in der Haut
+- Nährt und spendet Feuchtigkeit
 
 [🛒 Hier!!](https://www.amazon.de/dp/B000FCR7MM/?tag=tolees0ca-21)
