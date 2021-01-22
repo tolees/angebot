@@ -29,8 +29,8 @@ Es gibt ein [SteelSeries Apex Pro – Mechanische Gaming-Tastatur – Mechanisch
 
 - eine flugzeugtaugliche aluminiumlegierung sorgt für Lebenslange bruchsichere Haltbarkeit
 - Omnipoint-schalter-technologie garantiert 100 Millionen tastenbetätigungen
-- tastaturlayout: Deutsch qwertz. Diese Layouts unterscheiden sich von den produktbildern, welche das amerikanische qwerty-layout zeigen
 - OLED Smart Display mit eigenem Speicher zeigt spontan Infos zum Spiel und mehr an
 - unvergleichliche Individualisierung dank 16, 8 Millionen lichtfarben je Taste
+- tastaturlayout: Deutsch qwertz. Diese Layouts unterscheiden sich von den produktbildern, welche das amerikanische qwerty-layout zeigen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07SF7XYQ4/?tag=tolees0ca-21)

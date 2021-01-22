@@ -27,10 +27,10 @@ Sie können [Einhell Tischkreissäge TC-TS 2025/2 U  max. 2.000 Watt  Verstellun
 
 ℹ️:
 
-- Die Auflagefläche wird durch die stabilen Seitentische noch vergrößert: Links und rechts befinden sich Verbreiterungen für breitere Werkstücke. Das stabile Untergestell hat mit 850 mm eine angenehme Arbeitshöhe.
-- Die Tischkreissäge ist mit einem Präzisionssägeblatt aus Hartmetall ausgestattet, bei dem sich Höhe und Neigung mit Hilfe der 2-in-1-Verstellung einfach mit einem Handgriff einstellen lassen.
-- Der verbesserte sehr stabile Parallelanschlag ermöglicht problemlos vollkommen exakte Längsschnitte und der Winkelanschlag (+/- 60°) und das neigbare Sägeblatt ermöglichen Gehrungsschnitte.
 - Die Einhell Tischkreissäge TC-TS 2025/2 U ist ein bis 2.000 Watt starker Helfer, das ambitionierten Heimwerkern das Bearbeiten von Massivholz, Holzfaserplatten und ähnlichen Werkstoffen ermöglicht.
+- Der verbesserte sehr stabile Parallelanschlag ermöglicht problemlos vollkommen exakte Längsschnitte und der Winkelanschlag (+/- 60°) und das neigbare Sägeblatt ermöglichen Gehrungsschnitte.
+- Die Tischkreissäge ist mit einem Präzisionssägeblatt aus Hartmetall ausgestattet, bei dem sich Höhe und Neigung mit Hilfe der 2-in-1-Verstellung einfach mit einem Handgriff einstellen lassen.
+- Die Auflagefläche wird durch die stabilen Seitentische noch vergrößert: Links und rechts befinden sich Verbreiterungen für breitere Werkstücke. Das stabile Untergestell hat mit 850 mm eine angenehme Arbeitshöhe.
 - Die Absaugung am Gehäuse und an der Sägeblattabdeckung sorgen bei der Arbeit für einen sauberen Arbeitsplatz. Am Gehäuse ist eine Vorrichtung zum Aufwickeln des Stromkabels vorhanden.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0816XHC1G/?tag=tolees0ca-21)

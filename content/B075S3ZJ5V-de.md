@@ -27,10 +27,10 @@ Sie können [GORE Wear C3 Herren Kapuzenjacke GORE-TEX  L  Schwarz](https://www.
 
 ℹ️:
 
-- Verlängerte Rückenpartie, Bund und Ärmelweite verstellbar, Rucksacktauglich, Brusttasche mit Reißverschluss
-- GORE C3 GORE-TEX Paclite Hooded Jacket, Größe: L, Farbe: Schwarz, 100036
-- Komfortable Passform/Bike-Spezifischer Schnitt
 - Vielseitig einsetzbare Herren Jacke für kühle Wetterbedingungen
+- GORE C3 GORE-TEX Paclite Hooded Jacket, Größe: L, Farbe: Schwarz, 100036
+- Verlängerte Rückenpartie, Bund und Ärmelweite verstellbar, Rucksacktauglich, Brusttasche mit Reißverschluss
 - GORE-TEX Active Technologie: Wasserdicht, winddicht und extrem atmungsaktiv
+- Komfortable Passform/Bike-Spezifischer Schnitt
 
 [🛒 Hier!!](https://www.amazon.de/dp/B075S3ZJ5V/?tag=tolees0ca-21)
