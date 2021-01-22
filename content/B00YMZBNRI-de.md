@@ -27,10 +27,10 @@ Es gibt ein [Intenso Professional SDHC UHS-I Class 10 32GB Speicherkarte  bis 90
 
 ℹ️:
 
-- Extreme Speed: Lesegeschwindigkeiten von bis zu 90 MB/s (600x)
 - Garantierte Mindestgeschwindigkeit 10 MB/s, Geschwindigkeitsklasse 10
 - besonders empfehlenswert für hochwertige Digitalkameras und Camcorder, ideal für hochauflösende Full-HD / 4K-Videoaufnahmen
-- Schutz gegen unbeabsichtiges Überschreiben der Daten durch mechanischen Schreibschutz
 - Intenso Professional SDHC UHS-I Class 10 Speicherkarte
+- Schutz gegen unbeabsichtiges Überschreiben der Daten durch mechanischen Schreibschutz
+- Extreme Speed: Lesegeschwindigkeiten von bis zu 90 MB/s (600x)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00YMZBNRI/?tag=tolees0ca-21)

@@ -27,10 +27,10 @@ Es gibt ein [Bosch Professional Absaughaube GDE 115/125 FC-T  für 115 mm Trenns
 
 ℹ️:
 
-- Lieferumfang: GDE 115/125 FC-T
-- Perfekt abgestimmt auf das Bosch Click & Clean System
-- Geringes Gewicht für ermüdungsarmes Arbeiten
 - Einfache Handhabung: Bequemer Anschluss an Winkelschleifer und Staubsauger
+- Perfekt abgestimmt auf das Bosch Click & Clean System
 - Präzises Arbeiten durch praktische Schnitttiefeneinstellung
+- Lieferumfang: GDE 115/125 FC-T
+- Geringes Gewicht für ermüdungsarmes Arbeiten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00XP038QU/?tag=tolees0ca-21)

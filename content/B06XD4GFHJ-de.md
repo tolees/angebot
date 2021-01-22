@@ -27,10 +27,10 @@ Es gibt ein [Wera Schraubendreher Set im textilen Köcher Kraftform 2go 300  11-
 
 ℹ️:
 
-- Formstabiler Wera 2go Werkzeug-Köcher
-- Variabler Klett-Teiler zur Aufteilung in bis zu 5 Innenfächer
-- Große Standfläche; Griff zum Tragen und zum Aufhängen
-- Isolierte VDE Klingen für sicheres Arbeiten bis 1.000 Volt
 - Mehrkomponentiger Kraftform Griff für schnelles und ergonomisches Verschrauben
+- Variabler Klett-Teiler zur Aufteilung in bis zu 5 Innenfächer
+- Isolierte VDE Klingen für sicheres Arbeiten bis 1.000 Volt
+- Große Standfläche; Griff zum Tragen und zum Aufhängen
+- Formstabiler Wera 2go Werkzeug-Köcher
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06XD4GFHJ/?tag=tolees0ca-21)

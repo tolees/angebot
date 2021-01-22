@@ -27,8 +27,8 @@ Sie können [Samsung Galaxy S20 5G Smartphone Bundle  15 83 cm  128 GB interner 
 
 ℹ️:
 
-- HyperSchnelle Datengeschwindigkeit: Das neue Galaxy S20 5G mit 5G Datengeschwindigkeit ermöglicht Ihnen blitzschnelle Up- und Downloads. Spielen, Streamen und verschicken Sie Inhalte mit atemberaubender Geschwindigkeit
 - Weit Entferntes nah heranholen: Mit dem 3-fachen Hybrid Optic Zoom können Sie fantastische Nahaufnahmen ohne Qualitätsverlust machen und mit dem 30-fachen Space Zoom bringen Sie sich direkt ins Geschehen
+- HyperSchnelle Datengeschwindigkeit: Das neue Galaxy S20 5G mit 5G Datengeschwindigkeit ermöglicht Ihnen blitzschnelle Up- und Downloads. Spielen, Streamen und verschicken Sie Inhalte mit atemberaubender Geschwindigkeit
 - Ein Meilenstein der Fotografie: Das Galaxy S20 hat eine Kamera, die mehr sieht. Erleben Sie Videos in 8K, Fotos mit 64 Megapixel, Space Zoom und Bright Night
 - Filme oder Videos: Mit 8K Video sind Ihre Videos so hochauflösend, dass Sie sie mit einem Beamer auf einer Leinwand genießen können. Und mit 8K Video Snap können Sie kristallklare Standbilder aus Ihren 8K-Aufnahmen festhalten
 - Großer Akku für lange Tage: Der Akku des Galaxy S20 hat mit 4.000 mAh riesige Energiereserven und kann sich mit dem intelligenten Akku-Management an Ihr Nutzungsverhalten anpassen, um Sie effizient mit Energie zu versorgen.

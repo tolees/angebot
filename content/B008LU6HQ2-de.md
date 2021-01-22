@@ -29,7 +29,7 @@ Es gibt ein [Caramba 693405 Handwaschpaste  500 ml](https://www.amazon.de/dp/B00
 
 - Hautschonend und zugleich wirkungsvoll bei starker Verschmutzung.
 - Säubert porentief und schonend
-- Dermatologisch getestet
 - Beseitigt Schmutz, Öl und Fett
+- Dermatologisch getestet
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B008LU6HQ2/?tag=tolees0ca-21)
