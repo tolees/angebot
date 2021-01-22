@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'The Crown - Die komplette dritte Season  mit 21.94 % Rabatt'
-date: 2021-01-12 16:27:51
+date: 2021-01-22 07:26:48
 image: 'https://m.media-amazon.com/images/I/51XVqiBHlLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JHNLS55-de'
+slug: 'B08JHNLS55-de The Crown - Die komplette dritte Season [Blu-ray]'
+sku: 'B08JHNLS55-de'
+tags: [  ]
 actualPrice: 24.97 EUR
 currency: EUR
 price: 24.97
@@ -16,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B08JHNLS55/?tag=tolees0ca-21'
 descuento: '21.94'
-average: '31.307499999999997'
+average: '30.348999999999997'
 ---
 
 Sie können [The Crown - Die komplette dritte Season [Blu-ray]](https://www.amazon.de/dp/B08JHNLS55/?tag=tolees0ca-21) mit Preis 24.97 EUR (original: 31.99 EUR) 21.94 % Rabatt hier:
@@ -26,4 +28,4 @@ Sie können [The Crown - Die komplette dritte Season [Blu-ray]](https://www.amaz
 ℹ️:
 
 
-[Hier!!](https://www.amazon.de/dp/B08JHNLS55/?tag=tolees0ca-21)
+[🛒 Hier!!](https://www.amazon.de/dp/B08JHNLS55/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '30.24 % rabat auf Kingston A400 SSD SA400S37/240G - Intern'
-date: 2021-01-21 02:41:01
+date: 2021-01-22 07:16:58
 image: 'https://m.media-amazon.com/images/I/41UKoJx2tZL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B01N5IB20Q/?tag=tolees0ca-21'
 descuento: '30.24'
-average: '29.26727272727273'
+average: '29.298695652173915'
 ---
 
 Es gibt ein [Kingston A400 SSD SA400S37/240G - Interne SSD  2.5 Zoll  SATA 240GB](https://www.amazon.de/dp/B01N5IB20Q/?tag=tolees0ca-21) mit aktuellem Preis 29.99 EUR (original: 42.99 EUR) 30.24 % Rabatt hier:

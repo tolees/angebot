@@ -1,12 +1,13 @@
 ---
 layout: post
 title: '23.75 % rabat auf Alaskaprint TV Wandhalterung Schwenkbar '
-date: 2021-01-20 14:03:56
+date: 2021-01-22 07:06:56
 image: 'https://m.media-amazon.com/images/I/41g-SYrmFQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B084SD2FNN-de Alaskaprint TV Wandhalterung Schwenkbar Neigbar TV...'
+sku: 'B084SD2FNN-de'
 tags: [  ]
 actualPrice: 28.9 EUR
 currency: EUR
