@@ -27,10 +27,10 @@ Es gibt ein [LG 32LM6300PLA 80 cm  32 Zoll  Fernseher  LED  Triple Tuner  Active
 
 ℹ️:
 
-- 3x HDMI (ARC, SIMPLINK), 2x USB, 1x LAN, WLAN (802.11ac), Bluetooth (v5.0), Optischer Ausgang, CI+ 1.4
-- Quad Core Prozessor, Active HDR (HDR10 Pro, HLG)
-- Triple Tuner (2x DVB-T2 HD/-C/-S2), CI+ 1.4, WLAN (802.11ac), LAN, DLNA
-- webOS 4.5 (AI ThinQ), Home Dashboard, Magic Remote-Kompatibel, Spracherkennung (benötigt Magic Remote)
 - (LED) LED Smart TV mit 80 cm (32 Zoll) Bildschirmdiagonale und einer Auflösung von 1.920 x 1.080 Pixel (FullHD (FHD/2K))
+- Triple Tuner (2x DVB-T2 HD/-C/-S2), CI+ 1.4, WLAN (802.11ac), LAN, DLNA
+- Quad Core Prozessor, Active HDR (HDR10 Pro, HLG)
+- webOS 4.5 (AI ThinQ), Home Dashboard, Magic Remote-Kompatibel, Spracherkennung (benötigt Magic Remote)
+- 3x HDMI (ARC, SIMPLINK), 2x USB, 1x LAN, WLAN (802.11ac), Bluetooth (v5.0), Optischer Ausgang, CI+ 1.4
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07Q124XGQ/?tag=tolees0ca-21)

@@ -27,9 +27,9 @@ Sie können [Funko 42934 POP Vinyl: Animation: My Hero Academia-Tokoyami Sammelb
 
 ℹ️:
 
-- Von My Hero Academia, Tokoyami, zur stilisierten POP-Vinyl Figur von Funko!
-- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 - Schauen Sie sich jetzt die anderen My Hero Academia-Figuren von Funko an! Sammeln Sie alle!
+- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 - Funko POP! ist das Spielzeug des Jahres 2018
+- Von My Hero Academia, Tokoyami, zur stilisierten POP-Vinyl Figur von Funko!
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07PZDWYFB/?tag=tolees0ca-21)

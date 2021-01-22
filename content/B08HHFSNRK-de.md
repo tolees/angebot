@@ -27,9 +27,9 @@ Es gibt ein [Funko Pop! Disney: Disneyland 65th Anniversary - Captain Hook](http
 
 ℹ️:
 
-- Perfect for fans of Peter Pan
 - Great gift idea for anyone who loves Statues
 - Offiziell Lizenziert from Funko
+- Perfect for fans of Peter Pan
 - Includes all original tags/packaging straight from the manufacturer/distributor
 - 100% brand new and authentic merchandise
 
