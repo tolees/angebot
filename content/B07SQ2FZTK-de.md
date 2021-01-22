@@ -28,9 +28,9 @@ Es gibt ein [Philips Hue White & Col. Amb. LED Tischleuchte Go  dimmbar  16 Mio.
 ℹ️:
 
 - Wählen Sie in der Hue App aus 16 Mio. Farben und verschiedensten Weißtönen vom kühlen bis warmen Licht, um so einem Raum die gewünschte Farbe zu verleihen
-- Einfache Einrichtung per Bluetooth: Tischleuchte mit integriertem Leuchtmittel platzieren, Hue Bluetooth App downloaden und schon können Sie Ihr Licht in einem Raum dimmen oder Lichtszenen einstellen
-- Sofort einsatzbereit: Über die Taste auf der Unterseite können Sie auf zwei statische und fünf dynamische Farbeffekte zurückgreifen. Alternativ ist die Steuerung über Hue Bluetooth App möglich
 - Steuern Sie Ihre Philips Hue Bluetooth Lampen einfach mit Ihrer Stimme: funktioniert mit allen Echo und Google Nest Geräten. (Hue Bridge erforderlich für Echo (1st Gen) und Echo Dot (1st Gen))
+- Einfache Einrichtung per Bluetooth: Tischleuchte mit integriertem Leuchtmittel platzieren, Hue Bluetooth App downloaden und schon können Sie Ihr Licht in einem Raum dimmen oder Lichtszenen einstellen
 - Für das volle Smart Home Erlebnis im gesamten Zuhause: Erweitern Sie Ihr System mit der Hue Bridge (separat erhältlich) und entdecken Sie viele weitere Funktionen
+- Sofort einsatzbereit: Über die Taste auf der Unterseite können Sie auf zwei statische und fünf dynamische Farbeffekte zurückgreifen. Alternativ ist die Steuerung über Hue Bluetooth App möglich
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07SQ2FZTK/?tag=tolees0ca-21)

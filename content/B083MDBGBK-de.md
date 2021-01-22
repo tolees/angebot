@@ -27,8 +27,8 @@ Sie können [Funko 49842 POP Animation 2020-Spongebob Pride 2020 Spongebob RNBW 
 
 ℹ️:
 
-- Von Pride 2020, Spongebob (RNBW), zur stilisierten POP-Vinyl Figur von Funko!
 - Schauen Sie sich jetzt die anderen Pride 2020-Figuren von Funko an! Sammeln Sie alle!
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
+- Von Pride 2020, Spongebob (RNBW), zur stilisierten POP-Vinyl Figur von Funko!
 
 [🛒 Hier!!](https://www.amazon.de/dp/B083MDBGBK/?tag=tolees0ca-21)

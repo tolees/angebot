@@ -27,10 +27,10 @@ Es gibt ein [Telefunken XF43G511-W 109 cm  43 Zoll  Fernseher  Full HD  Triple T
 
 ℹ️:
 
-- Auflösung: 1.920 x 1.080 Pixel (Full HD) / Bildwiederholungsrate: 600 CMP
 - Empfang: Integrierter Triple-Tuner DVB-T2 (Codec H.265/HEVC), DVB-C- (Kabel) und DVB-S2 (Satellit) – Digitales Fernsehen terrestrisch über Satellit oder Kabel empfangen ohne zusätzlichen Receiver.
-- Typ: LED Fernseher mit 108 cm (43 Zoll) Bildschirmdiagonale
-- Smart TV mit integriertem WLAN, USB Media-Players / Unterstützte Streaming-Dienste: Prime Video, Netflix, Maxdome, Freenet Video, Youtube uvm. / Speaker Box für verbesserten Sound - Works with Alexa
 - Lieferumfang: Telefunken FHD TV XF43G511-W weiß, Fernbedienung inkl. 2x AAA Batterien, Bedienungsanleitung
+- Smart TV mit integriertem WLAN, USB Media-Players / Unterstützte Streaming-Dienste: Prime Video, Netflix, Maxdome, Freenet Video, Youtube uvm. / Speaker Box für verbesserten Sound - Works with Alexa
+- Auflösung: 1.920 x 1.080 Pixel (Full HD) / Bildwiederholungsrate: 600 CMP
+- Typ: LED Fernseher mit 108 cm (43 Zoll) Bildschirmdiagonale
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07N8WG6MB/?tag=tolees0ca-21)
