@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '24.97 % rabat auf Philips Hue White & Col. Amb. LED Tischl'
-date: 2020-03-09 20:56:25
-image: 'https://m.media-amazon.com/images/I/41KOLNVVBoL._AC_._SL200_.jpg'
+date: 2021-01-22 14:11:24
+image: 'https://m.media-amazon.com/images/I/41KOLNVVBoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -23,9 +23,14 @@ average: '59.99'
 
 Es gibt ein [Philips Hue White & Col. Amb. LED Tischleuchte Go  dimmbar  16 Mio. Farben  steuerbar via App  kompatibel mit Amazon Alexa  Echo  Echo Dot ](https://www.amazon.de/dp/B07SQ2FZTK/?tag=tolees0ca-21) mit aktuellem Preis 59.99 EUR (original: 79.95 EUR) 24.97 % Rabatt hier:
 
-[![Philips Hue White & Col. Amb. LED Tischl](https://m.media-amazon.com/images/I/41KOLNVVBoL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07SQ2FZTK/?tag=tolees0ca-21)
+[![Philips Hue White & Col. Amb. LED Tischl](https://m.media-amazon.com/images/I/41KOLNVVBoL._SL200_.jpg)](https://www.amazon.de/dp/B07SQ2FZTK/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Wählen Sie in der Hue App aus 16 Mio. Farben und verschiedensten Weißtönen vom kühlen bis warmen Licht, um so einem Raum die gewünschte Farbe zu verleihen
+- Einfache Einrichtung per Bluetooth: Tischleuchte mit integriertem Leuchtmittel platzieren, Hue Bluetooth App downloaden und schon können Sie Ihr Licht in einem Raum dimmen oder Lichtszenen einstellen
+- Sofort einsatzbereit: Über die Taste auf der Unterseite können Sie auf zwei statische und fünf dynamische Farbeffekte zurückgreifen. Alternativ ist die Steuerung über Hue Bluetooth App möglich
+- Steuern Sie Ihre Philips Hue Bluetooth Lampen einfach mit Ihrer Stimme: funktioniert mit allen Echo und Google Nest Geräten. (Hue Bridge erforderlich für Echo (1st Gen) und Echo Dot (1st Gen))
+- Für das volle Smart Home Erlebnis im gesamten Zuhause: Erweitern Sie Ihr System mit der Hue Bridge (separat erhältlich) und entdecken Sie viele weitere Funktionen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07SQ2FZTK/?tag=tolees0ca-21)
