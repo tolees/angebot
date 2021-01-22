@@ -27,7 +27,7 @@ Sie können [GANT Herren Shield Sweat Hoodie Kapuzenpullover  Blau  Evening Blue
 
 ℹ️:
 
-- GANT Tape am Hals.
 - Öse und Kordelenden aus silbernem Metall.
+- GANT Tape am Hals.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01MZ0MRV1/?tag=tolees0ca-21)

@@ -27,9 +27,9 @@ Es gibt ein [Lico Bernie V Unisex Kinder Hallenschuhe  Grün/ Marine/ Weiß  27 
 
 ℹ️:
 
-- Obermaterial: PU
-- Textilfutter
 - als Hallenschuh für Hallenböden geeignet
+- Textilfutter
+- Obermaterial: PU
 - auswechselbare Textileinlegsohle
 - Lieferumfang: 1 x LICO Bernie V - Kids, Boys grün Gr. 27
 
