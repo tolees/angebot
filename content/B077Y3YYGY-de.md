@@ -27,10 +27,10 @@ Sie können [GORE Wear C3 Herren Kapuzenjacke GORE-TEX  S  Rot/Schwarz](https://
 
 ℹ️:
 
+- GORE-TEX Active Technologie: Wasserdicht, winddicht und extrem atmungsaktiv
+- Verlängerte Rückenpartie, Bund und Ärmelweite verstellbar, Rucksacktauglich, Brusttasche mit Reißverschluss
+- Komfortable Passform/Bike-Spezifischer Schnitt
 - GORE C3 GORE-TEX Paclite Hooded Jacket, Größe: S, Farbe: Rot/Schwarz, 100036
 - Vielseitig einsetzbare Herren Jacke für kühle Wetterbedingungen
-- Verlängerte Rückenpartie, Bund und Ärmelweite verstellbar, Rucksacktauglich, Brusttasche mit Reißverschluss
-- GORE-TEX Active Technologie: Wasserdicht, winddicht und extrem atmungsaktiv
-- Komfortable Passform/Bike-Spezifischer Schnitt
 
 [🛒 Hier!!](https://www.amazon.de/dp/B077Y3YYGY/?tag=tolees0ca-21)

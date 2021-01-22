@@ -27,10 +27,10 @@ Es gibt ein [Original MANN-FILTER Ölfilter HU 611/1 X – Für PKW](https://www
 
 ℹ️:
 
-- MANN-FILTER Produkte erfüllen alle Anforderungen der EU REACH-Verordnung zur Gewährleistung des Gesundheits- & Umweltschutzes bei Prozessen der Entwicklung, Herstellung, Verwendung & Entsorgung
-- MANN-FILTER Ölfilter-Elemente bieten nicht nur höchste Filtrationsleistung, sondern schützen den Motor zusätzlich durch eine ausgezeichnete Reinigung des Öls
-- Finden Sie den passenden Filter: Ersatzteil über die Auswahl von Marke, Modell, Fahrzeugtyp & Motorisierung im oberen Bereich oder auch über die Schlüsselnummern (HSN/TSN) aus den Fahrzeugpapieren
-- MANN-FILTER Ölfilter HU 611/1 X / Metallfreies Öl Filterelement / Maße: H = 78 ; A = 59; D = 59; B = 25 ; C = 30 / Premium-Filter in Erstausrüstungsqualität
 - Optimaler Schutz und Abdichtung über das gesamte Wartungsintervall - u.a. dank des individuell auf den Einsatzzweck abgestimmten Filtermediums / Metallfrei und voll veraschbar
+- MANN-FILTER Produkte erfüllen alle Anforderungen der EU REACH-Verordnung zur Gewährleistung des Gesundheits- & Umweltschutzes bei Prozessen der Entwicklung, Herstellung, Verwendung & Entsorgung
+- Finden Sie den passenden Filter: Ersatzteil über die Auswahl von Marke, Modell, Fahrzeugtyp & Motorisierung im oberen Bereich oder auch über die Schlüsselnummern (HSN/TSN) aus den Fahrzeugpapieren
+- MANN-FILTER Ölfilter-Elemente bieten nicht nur höchste Filtrationsleistung, sondern schützen den Motor zusätzlich durch eine ausgezeichnete Reinigung des Öls
+- MANN-FILTER Ölfilter HU 611/1 X / Metallfreies Öl Filterelement / Maße: H = 78 ; A = 59; D = 59; B = 25 ; C = 30 / Premium-Filter in Erstausrüstungsqualität
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00252FUVK/?tag=tolees0ca-21)

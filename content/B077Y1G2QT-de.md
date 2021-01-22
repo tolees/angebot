@@ -27,10 +27,10 @@ Es gibt ein [GORE WEAR Herren M WINDSTOPPER BaseLayer Thermo Stehkragenshirt  bl
 
 ℹ️:
 
-- Lieferumfang: 1 GORE Wear Herren Stehkragen-Unterzieh-Shirt, GORE M WINDSTOPPER Base Layer Thermo Turtleneck, Größe: L, Farbe: Schwarz, 100325
-- Ganzjährig geeignet, Winddicht, extrem atmungsaktiv und wasserabweisend durch GORE WINDSTOPPER Technologie
-- Schutz vor Auskühlung dank elastischen GORE WINDSTOPPER Einsätzen über den Schultern, an der Ärmeln sowie im Vorder- und Nierenbereich, Keine Kältebrücke dank enganliegendem Stehkragen, Angenehmes Tragegefühl dank Thermo-Stretch-Funktionsmaterial
 - Warmes Herren Stehkragen-Unterzieh-Shirt für alle sportlichen Aktivitäten geeignet - Enganliegende Passform
+- Lieferumfang: 1 GORE Wear Herren Stehkragen-Unterzieh-Shirt, GORE M WINDSTOPPER Base Layer Thermo Turtleneck, Größe: L, Farbe: Schwarz, 100325
 - Optimale Ventilation dank kurzem Front-Reißverschluss mit Feststellschieber, Minimierte Reibung durch optimierten Flachnahtverlauf, Verlängerte Rückenpartie
+- Schutz vor Auskühlung dank elastischen GORE WINDSTOPPER Einsätzen über den Schultern, an der Ärmeln sowie im Vorder- und Nierenbereich, Keine Kältebrücke dank enganliegendem Stehkragen, Angenehmes Tragegefühl dank Thermo-Stretch-Funktionsmaterial
+- Ganzjährig geeignet, Winddicht, extrem atmungsaktiv und wasserabweisend durch GORE WINDSTOPPER Technologie
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B077Y1G2QT/?tag=tolees0ca-21)

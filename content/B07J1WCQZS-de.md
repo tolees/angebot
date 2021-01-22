@@ -27,7 +27,7 @@ Sie können [GATOR Etuis GTR-BASS-GRY Nylon starrer E-Bass grau](https://www.ama
 
 ℹ️:
 
-- Weather resistant Blended fabric exterior in grey color with molded, padded, contoured handle for a secure yet comfortable grip
 - Transit Series hybrid style Lightweight case designed to fit bass guitars
+- Weather resistant Blended fabric exterior in grey color with molded, padded, contoured handle for a secure yet comfortable grip
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07J1WCQZS/?tag=tolees0ca-21)

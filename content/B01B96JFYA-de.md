@@ -27,9 +27,9 @@ Es gibt ein [ESI Propolaid Propolgola Halsspray mit Propolis  Weg-Rauke und Manu
 
 ℹ️:
 
-- Trägt zum Wohlbefinden vom Hals- und Mundbereich bei.
-- Ohne Alkohol. Auf Basis von Propolis, Weg-Rauke und Manukahonig.
-- Hilfreich bei ersten Erkältungssymptomen.
 - Abmessung des Artikelpakets:- 11.81 x 4.19 x 3.99 cm
+- Hilfreich bei ersten Erkältungssymptomen.
+- Ohne Alkohol. Auf Basis von Propolis, Weg-Rauke und Manukahonig.
+- Trägt zum Wohlbefinden vom Hals- und Mundbereich bei.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01B96JFYA/?tag=tolees0ca-21)
