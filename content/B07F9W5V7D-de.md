@@ -27,9 +27,9 @@ Sie können [Control – [PlayStation 4 ]](https://www.amazon.de/dp/B07F9W5V7D/?
 
 ℹ️:
 
+- Tauchen Sie in eine düstere und brutale Welt ein, in der eine außerweltliche Macht die alltägliche Realität korrumpiert hat
+- Hochwertige Grafik und anspruchsvolles Gameplay
 - Nutzen Sie die dynamische Zerstörung der Umgebung für spannende Kampfmöglichkeiten
 - Definieren Sie Ihren Spielstil durch die Kombination übernatürlicher Fähigkeiten mit Upgrades und modifizierbaren Ausrüstungen
-- Hochwertige Grafik und anspruchsvolles Gameplay
-- Tauchen Sie in eine düstere und brutale Welt ein, in der eine außerweltliche Macht die alltägliche Realität korrumpiert hat
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07F9W5V7D/?tag=tolees0ca-21)

@@ -27,10 +27,10 @@ Es gibt ein [TFA Dostmann Digitales Thermometer für innen oder außen  30.1039 
 
 ℹ️:
 
-- Max.-Min.-Werte: Permanente Anzeige der Höchst- und Tiefstwerte mit Anzeige der aktuellen Innen- oder Außentemperatur in der Mitte des Displays
-- Energieversorgung: Das Thermometer benötigt eine 1,5V AAA Batterie, diese ist im Lieferumfang enthalten
-- Messbereich: Der Messbereich des Thermometers geht von -20 bis zu +70° Celsius; es kann auch zwischen Fahrenheit und Celsius gewechselt werden
 - Thermometer digital: Digitale Anzeige der aktuellen Temperatur für Innen oder Aussen auf übersichtlichen Display, mit aktueller Temperatur in Celsius in der Mitte
 - Wetterfest: Das Thermometer ist aufgrund seiner Bauweise wetterfest und kann sowohl innen als auch außen angebracht werden
+- Max.-Min.-Werte: Permanente Anzeige der Höchst- und Tiefstwerte mit Anzeige der aktuellen Innen- oder Außentemperatur in der Mitte des Displays
+- Messbereich: Der Messbereich des Thermometers geht von -20 bis zu +70° Celsius; es kann auch zwischen Fahrenheit und Celsius gewechselt werden
+- Energieversorgung: Das Thermometer benötigt eine 1,5V AAA Batterie, diese ist im Lieferumfang enthalten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0033X8NSM/?tag=tolees0ca-21)

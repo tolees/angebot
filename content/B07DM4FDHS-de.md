@@ -28,7 +28,7 @@ Es gibt ein [Assassin s Creed Odyssey - Standard Edition - [PC]](https://www.ama
 ℹ️:
 
 - Epic adventures in a world where every decision counts
-- 32 hours of dialogues with different ends
 - For the first time, choose between two characters: Alexios or Kassandra
+- 32 hours of dialogues with different ends
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07DM4FDHS/?tag=tolees0ca-21)

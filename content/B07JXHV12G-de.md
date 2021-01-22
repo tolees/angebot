@@ -28,8 +28,8 @@ Es gibt ein [PLAYMOBIL 70053 City Life Quad mit Rettungsanhänger  bunt](https:/
 ℹ️:
 
 - mit Licht und Sound (1 x 1,5V Micor-Batterie nötig)
-- Dach abnehmbar
 - 1 Figur mit Fahrzeug
+- Dach abnehmbar
 - Inkl.Liege und Erstversorgungsmaterial im Inneren
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07JXHV12G/?tag=tolees0ca-21)

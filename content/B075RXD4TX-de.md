@@ -27,10 +27,10 @@ Es gibt ein [GORE Wear C3 Herren Kapuzenjacke GORE-TEX  M  Schwarz](https://www.
 
 ℹ️:
 
-- Comfort Fit/bike-specific cut
-- GORE C3 GORE-TEX Paclite Hooded Jacket, Size: M, Colour: Black, 100036
 - Versatile mens jacket for cool weather conditions
 - Extended back, Adjustable waistband and sleeve width, Can be worn with a backpack, Breast pocket with zip
+- GORE C3 GORE-TEX Paclite Hooded Jacket, Size: M, Colour: Black, 100036
+- Comfort Fit/bike-specific cut
 - GORE-TEX Active Technology: Waterproof, windproof and extremely breathable
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B075RXD4TX/?tag=tolees0ca-21)
