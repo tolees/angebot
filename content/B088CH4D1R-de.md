@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'G-STAR RAW Mens Droner Cargo Relaxed Swe mit 50.64 % Rabatt'
-date: 2021-01-20 14:12:34
+date: 2021-01-22 01:40:45
 image: 'https://m.media-amazon.com/images/I/319DzXjUKTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B088CH4D1R-de G-STAR RAW Mens Droner Cargo Relaxed Sweatpants wild Olive...'
+sku: 'B088CH4D1R-de'
 tags: [  ]
 actualPrice: 52.9 EUR
 currency: EUR
@@ -17,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B088CH4D1R/?tag=tolees0ca-21'
 descuento: '50.64'
-average: '76.46142857142857'
+average: '73.51625'
 ---
 
 Sie können [G-STAR RAW Mens Droner Cargo Relaxed Sweatpants  wild Olive A613-1866  XL](https://www.amazon.de/dp/B088CH4D1R/?tag=tolees0ca-21) mit Preis 52.9 EUR (original: 107.18 EUR) 50.64 % Rabatt hier:

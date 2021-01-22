@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Samsung Galaxy A20e Smartphone  14.82cm  mit 19.55 % Rabatt'
-date: 2021-01-20 08:29:08
+date: 2021-01-22 01:49:52
 image: 'https://m.media-amazon.com/images/I/41l61VAj5qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07QKMZPQ5-de Samsung Galaxy A20e Smartphone 14.82cm 148.2 mm 5.8 Zoll...'
+sku: 'B07QKMZPQ5-de'
 tags: [  ]
 actualPrice: 144.0 EUR
 currency: EUR
@@ -17,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07QKMZPQ5/?tag=tolees0ca-21'
 descuento: '19.55'
-average: '151.98694117647057'
+average: '151.8033333333333'
 ---
 
 Sie können [Samsung Galaxy A20e Smartphone  14.82cm  148.2 mm  5.8 Zoll  32GB interner Speicher  3GB RAM  Dual SIM  Schwarz  - Deutsche Version](https://www.amazon.de/dp/B07QKMZPQ5/?tag=tolees0ca-21) mit Preis 144.0 EUR (original: 179.0 EUR) 19.55 % Rabatt hier:
@@ -26,9 +27,9 @@ Sie können [Samsung Galaxy A20e Smartphone  14.82cm  148.2 mm  5.8 Zoll  32GB i
 
 ℹ️:
 
-- Besondere Motive mit der Dual-Hauptkamera in Szene setzen
-- 3 SIM-Karten-Slots und microSD-Speichererweiterung für flexible Nutzung
 - Fingerabdruckscanner für einfachen Schutz
 - Beeindruckendes Design mit Infinity-V Display
+- 3 SIM-Karten-Slots und microSD-Speichererweiterung für flexible Nutzung
+- Besondere Motive mit der Dual-Hauptkamera in Szene setzen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07QKMZPQ5/?tag=tolees0ca-21)

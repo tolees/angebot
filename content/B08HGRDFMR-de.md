@@ -1,12 +1,14 @@
 ---
 layout: post
 title: '15.45 % rabat auf Jurassic World - 5-Movie Collection  4K '
-date: 2021-01-16 00:49:50
+date: 2021-01-22 01:26:34
 image: 'https://m.media-amazon.com/images/I/61ejEhR5oGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HGRDFMR-de'
+slug: 'B08HGRDFMR-de Jurassic World - 5-Movie Collection 4K Ultra HD 5 BR4Ks +...'
+sku: 'B08HGRDFMR-de'
+tags: [  ]
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97
@@ -16,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B08HGRDFMR/?tag=tolees0ca-21'
 descuento: '15.45'
-average: '69.89952380952383'
+average: '69.44818181818184'
 ---
 
 Es gibt ein [Jurassic World - 5-Movie Collection  4K Ultra HD   5 BR4Ks + 5 BRs  [Blu-ray]](https://www.amazon.de/dp/B08HGRDFMR/?tag=tolees0ca-21) mit aktuellem Preis 59.97 EUR (original: 70.93 EUR) 15.45 % Rabatt hier:

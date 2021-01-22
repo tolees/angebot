@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Jacobs Kaffeebohnen Barista Editions Cre mit 35.02 % Rabatt'
-date: 2021-01-18 16:24:23
+date: 2021-01-22 01:30:08
 image: 'https://m.media-amazon.com/images/I/41s+H1XZfSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079VXVMPN-de'
+slug: 'B079VXVMPN-de Jacobs Kaffeebohnen Barista Editions Crema 1 kg Bohnenkaffee'
+sku: 'B079VXVMPN-de'
+tags: [  ]
 actualPrice: 9.74 EUR
 currency: EUR
 price: 9.74
@@ -16,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B079VXVMPN/?tag=tolees0ca-21'
 descuento: '35.02'
-average: '9.610930232558143'
+average: '9.616666666666669'
 ---
 
 Sie können [Jacobs Kaffeebohnen Barista Editions Crema  1 kg Bohnenkaffee](https://www.amazon.de/dp/B079VXVMPN/?tag=tolees0ca-21) mit Preis 9.74 EUR (original: 14.99 EUR) 35.02 % Rabatt hier:
@@ -25,10 +27,10 @@ Sie können [Jacobs Kaffeebohnen Barista Editions Crema  1 kg Bohnenkaffee](http
 
 ℹ️:
 
+- Erste Wahl für Caffè Crema, Caffè Latte oder Café au lait
 - Sorgfältig und schonend im Trommelröster geröstet
 - Sanfter und ausgewogener Geschmack mit einem Hauch Zitrus- ideal für die Zubereitung mit Kaffeevollautomat, Siebträger oder French Press.
-- Erste Wahl für Caffè Crema, Caffè Latte oder Café au lait
-- Lieferumfang 1x 1000g Packung
 - Kaffee vom Barista inspiriert: hochwertige Mischung aus den besten Anbaugebieten der Welt.
+- Lieferumfang 1x 1000g Packung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B079VXVMPN/?tag=tolees0ca-21)

@@ -1,12 +1,13 @@
 ---
 layout: post
 title: '19.14 % rabat auf Playmobil City Action 6872 Polizeistatio'
-date: 2021-01-20 07:58:15
+date: 2021-01-22 01:28:49
 image: 'https://m.media-amazon.com/images/I/61l8FjTD+YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01608LOHS-de Playmobil City Action 6872 Polizeistation mit Gefängnis Ab...'
+sku: 'B01608LOHS-de'
 tags: [  ]
 actualPrice: 66.99 EUR
 currency: EUR
@@ -17,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B01608LOHS/?tag=tolees0ca-21'
 descuento: '19.14'
-average: '64.23017777777778'
+average: '64.25449339207049'
 ---
 
 Es gibt ein [Playmobil City Action 6872 Polizeistation mit Gefängnis  Ab 5 Jahren](https://www.amazon.de/dp/B01608LOHS/?tag=tolees0ca-21) mit aktuellem Preis 66.99 EUR (original: 82.85 EUR) 19.14 % Rabatt hier:
