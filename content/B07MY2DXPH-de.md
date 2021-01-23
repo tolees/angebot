@@ -28,9 +28,9 @@ Es gibt ein [Philips 499P9H/00 124 cm  49 Zoll  Curved Monitor  HDMI  DisplayPor
 ℹ️:
 
 - Low Blue Light Technologie, Helligkeit/Kontrast: 450 cd/m² 3000:1, Anschlüsse: 1x DP 1.4, 2x HDMI 2.0, 1x USB-C 3.1 Gen 2, 1x USB Upstream, 3x USB Downstream, RJ45 Ethernet LAN, Webcam
-- Lieferumfang: Philips 499P9H/00 124cm (49 Zoll) Curved Monitor, Stromkabel, HDMI-, DP-, USB-A zu B, USB-c zu C Kabel, Treiber-CD, Garantiekarte
+- Herstellergarantie: 2 Jahre. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
 - VA Panel, 1800 mm Krümmung, mattes Display, 130 mm höhenverstellbar, 2x 5W Lautsprecher, Headphone out, VESA 100 x 100, Standfuss abnehmbar, FlickerFree
 - Philips Brilliance Curved SuperWide-LCD Display im Format 32:9 mit Funktionen wie USB-C und Popup-Webcam mit Windows Hello Funktion
-- Herstellergarantie: 2 Jahre. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
+- Lieferumfang: Philips 499P9H/00 124cm (49 Zoll) Curved Monitor, Stromkabel, HDMI-, DP-, USB-A zu B, USB-c zu C Kabel, Treiber-CD, Garantiekarte
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07MY2DXPH/?tag=tolees0ca-21)
