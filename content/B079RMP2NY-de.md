@@ -27,9 +27,9 @@ Es gibt ein [Funko 27300-PDQ POP! Schlüsselanhänger Figur: Marvel: Avengers In
 
 ℹ️:
 
-- Farbe: mehrfarbig
 - Hulkbuster
-- POP! Schlüsselanhänger Figur
 - Herkunftsland:- China
+- Farbe: mehrfarbig
+- POP! Schlüsselanhänger Figur
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B079RMP2NY/?tag=tolees0ca-21)
