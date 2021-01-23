@@ -27,8 +27,8 @@ Es gibt ein [Pringles Original Chips 6er Party-Pack | 6er Party-Pack  6 x 200g ]
 
 ℹ️:
 
-- Pringles: Pop Play Eat
 - Genieße den klassischen Geschmack unserer kultigen Pringles Original
+- Pringles: Pop Play Eat
 - Durch die wiederverschließbare Dose kannst du sie entweder sofort teilen oder für später aufheben
 - Gönn dir eine Portion oder teile sie mit Freunden
 - Pringles Original 200g im praktischen 6er Pack. Der ideale Partybegleiter

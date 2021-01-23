@@ -28,9 +28,9 @@ Es gibt ein [Jack Daniel`s Gentleman Jack Tennessee Whisky  1 x 0.7l ](https://w
 ℹ️:
 
 - Kann pur, oder auf Eis verzehrt werden
-- Farbe: brilliant, satt-rötlicher Bernstein
 - Abgang: weich und lang, feine einzigartige Nuancen in jedem Fass
 - Geschmack: ein Mix aus süßer Vanille, schwerer Eiche und dunklen Kirschen
 - Geruch: ausgeprägt würzige Vanille dominiert zart-fruchtige Orange und reife Minze
+- Farbe: brilliant, satt-rötlicher Bernstein
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004CYNYNK/?tag=tolees0ca-21)

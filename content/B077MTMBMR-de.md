@@ -27,9 +27,9 @@ Sie können [PUMA Damen Smash WNS v2 L Zapatillas  Black Black  39 EU](https://w
 
 ℹ️:
 
-- Laufsohle aus Gummi
-- Herausnehmbare SoftFoam Einlegesohle
 - Obermaterial aus weichem Leder
+- Herausnehmbare SoftFoam Einlegesohle
+- Laufsohle aus Gummi
 - Inspiriert vom Tennis. Stylischer Komfort für jeden Tag
 - Update des PUMA Smash
 

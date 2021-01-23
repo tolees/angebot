@@ -28,9 +28,9 @@ Es gibt ein [Samsung MZ-76E500B/EU 860 EVO 500 GB SATA 2 5" Interne SSD Schwarz]
 ℹ️:
 
 - Available Capacity: up to 4 TB
-- Compatible with any version of Windows and all PCs with Sata 2.5 "interface
-- Form Factor: 2.5 Inch
-- Designed for mainstream PCs and laptops for personal, gaming and business use
 - Sequential Read/Write speeds up to 550/520 MB/s respectively; performance varies based on system hardware configuration
+- Form Factor: 2.5 Inch
+- Compatible with any version of Windows and all PCs with Sata 2.5 "interface
+- Designed for mainstream PCs and laptops for personal, gaming and business use
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B078WQT6S6/?tag=tolees0ca-21)

@@ -27,8 +27,8 @@ Sie können [Samsung MZ-V7E1T0BW 970 EVO 1 TB NVMe M.2 Interne SSD Schwarz](http
 
 ℹ️:
 
-- Herstellergarantie: 5 Jahre Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
 - Die 970 EVO transformiert High-End-Gaming und bietet rasante Geschwindigkeit für datenintensive Arbeiten durch Phoenix-Controller und die TurboWrite Technologie
+- Herstellergarantie: 5 Jahre Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
 - Leistungsdaten bis zu 3.300 MB/s beim Lesen und bis zu 2.500 MB/s beim Schreiben sind bis zu 32% als bei der Vorgängergeneration
 - Die Samsung Magician-Software hält das Laufwerk mit Updates immer auf dem Stand; überwacht Statusparameter und optimiert für Sie die Leistungsfähigkeit
 
