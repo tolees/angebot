@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '25.46 % rabat auf Knives Out - Mord ist Familiensache'
-date: 2021-01-21 21:52:44
+date: 2021-01-23 10:11:37
 image: 'https://m.media-amazon.com/images/I/51nZRl0xtqL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07ZWB2Q4D/?tag=tolees0ca-21'
 descuento: '25.46'
-average: '8.167166666666665'
+average: '8.11241935483871'
 ---
 
 Es gibt ein [Knives Out - Mord ist Familiensache](https://www.amazon.de/dp/B07ZWB2Q4D/?tag=tolees0ca-21) mit aktuellem Preis 6.47 EUR (original: 8.68 EUR) 25.46 % Rabatt hier:
