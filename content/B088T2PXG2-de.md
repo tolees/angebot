@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '30.02 % rabat auf Govee LED TV Hintergrundbeleuchtung  LED'
-date: 2021-01-22 07:27:10
+date: 2021-01-23 13:39:22
 image: 'https://m.media-amazon.com/images/I/51iUugGq9mL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B088T2PXG2/?tag=tolees0ca-21'
 descuento: '30.02'
-average: '18.609047619047615'
+average: '18.3990909090909'
 ---
 
 Es gibt ein [Govee LED TV Hintergrundbeleuchtung  LED Strip 3m  für 46-60 Zoll Fernseher und PC  steuerbar via Fernbedienung oder App  RGB  USB-Betrieb](https://www.amazon.de/dp/B088T2PXG2/?tag=tolees0ca-21) mit aktuellem Preis 13.99 EUR (original: 19.99 EUR) 30.02 % Rabatt hier:

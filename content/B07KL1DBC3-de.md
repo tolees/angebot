@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 's.Oliver Damen Analog Quarz Armbanduhr m mit 26.13 % Rabatt'
-date: 2021-01-22 13:08:04
+date: 2021-01-23 13:39:46
 image: 'https://m.media-amazon.com/images/I/31mUegylpgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07KL1DBC3/?tag=tolees0ca-21'
 descuento: '26.13'
-average: '36.93288000000001'
+average: '36.9326190476191'
 ---
 
 Sie können [s.Oliver Damen Analog Quarz Armbanduhr mit Silikonarmband SO-3706-PQ](https://www.amazon.de/dp/B07KL1DBC3/?tag=tolees0ca-21) mit Preis 36.9 EUR (original: 49.95 EUR) 26.13 % Rabatt hier:
