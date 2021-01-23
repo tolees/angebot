@@ -27,10 +27,10 @@ Es gibt ein [WMF Gourmet Kräutertopf mit Bewässerungssystem 3-teilig  Kräuter
 
 ℹ️:
 
-- Das Bewässerungssystem des Kräutergarten für die Küche hilft bei der richtigen Dosierung. Über den Glasfaserdocht holen sich die Küchenkräuter soviel Flüssigkeit wie sie brauchen
+- Den Glasfaserdocht durch die Öffnung der Kräutertöpfe so einfädeln, dass etwa die Hälfte davon im Topf liegt. Pflanze mit Wurzelballen direkt in den Kräutertopf setzen und Erde leicht festdrücken
 - Inhalt: 3x Pflanztopf, 1x Wassertank mit abnehmbarem Deckel (36x 12,5x 12,5 cm, Topf-Ø 10,8 cm), 3x Glasserdocht, Kräuter werden nicht mitgeliefert - Artikelnummer: 0641306040
 - Bei durchschnittlicher Raumtemperatur reicht der Wasservorrat im Tank für mehrere Tage. So bleiben die Kräuter (Basilikum, Petersilie, Schnittlauch oder Minze) wochenlang frisch
-- Den Glasfaserdocht durch die Öffnung der Kräutertöpfe so einfädeln, dass etwa die Hälfte davon im Topf liegt. Pflanze mit Wurzelballen direkt in den Kräutertopf setzen und Erde leicht festdrücken
+- Das Bewässerungssystem des Kräutergarten für die Küche hilft bei der richtigen Dosierung. Über den Glasfaserdocht holen sich die Küchenkräuter soviel Flüssigkeit wie sie brauchen
 - Material: Cromargan Edelstahl rostfrei 18/10, Kunststoff, Glasfaserdocht - die Edelstahltöpfe sind spülmaschinengeeignet. Für den Wassertank wird Handwäsche empfohlen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00S17UAS6/?tag=tolees0ca-21)
