@@ -27,9 +27,9 @@ Es gibt ein [Intenso Premium Edition Portable 256GB Externe SSD Festplatte  USB 
 
 ℹ️:
 
-- Geräuschloser Betrieb, geringer Stromverbrauch
 - Schock-resistent
 - Lieferumfang: externe SSD, USB 3.0 Kabel
+- Geräuschloser Betrieb, geringer Stromverbrauch
 - Stromversorgung über USB 3.0 Anschluss (abwärtskompatibel)
 - Transferraten: Lesen bis zu 320MB/s, Schreiben bis zu 100MB/s
 

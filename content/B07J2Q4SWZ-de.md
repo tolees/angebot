@@ -27,10 +27,10 @@ Es gibt ein [Crucial P1 1TB CT1000P1SSD8 Internes SSD-bis zu 2000 MB/s  3D NAND 
 
 ℹ️:
 
-- Redundant Array of Independent NAND (RAIN)
-- Micron 3D NAND – Fortschritt in der Speicherwelt seit 40 Jahren
-- Die NVMe PCIe-Schnittstelle ist der nächste Schritt bei der Speicherinnovation
-- NVMe standard Self-Monitoring and Reporting Technology (SMART)
 - Kapazitäten bis zu 2TB mit sequentiellen Lese-/Schreibvorgängen bis zu 2.000/1.700 MB/s
+- Die NVMe PCIe-Schnittstelle ist der nächste Schritt bei der Speicherinnovation
+- Micron 3D NAND – Fortschritt in der Speicherwelt seit 40 Jahren
+- NVMe standard Self-Monitoring and Reporting Technology (SMART)
+- Redundant Array of Independent NAND (RAIN)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07J2Q4SWZ/?tag=tolees0ca-21)

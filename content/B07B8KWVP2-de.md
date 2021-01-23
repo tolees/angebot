@@ -27,11 +27,11 @@ Es gibt ein [CREW REPUBLIC® Craft Beer IPA Mix | Probierset | World Beer Awards
 
 ℹ️:
 
-- 🍺 PERFEKTES GESCHENK-SET: Lust auf ein Beer-Tasting zuhause? Unser IPA Set ist das perfekte Geschenk für alle Bierliebhaber. Und mal ehrlich: Einen besonderen Anlass für gutes Bier braucht man nicht
-- 🍺 AUSGEZEICHNETE BIERE: Alle unsere Biersorten sind international & national ausgezeichnet. Unser Drunken Sailor trägt sogar den Titel World’s Best IPA 2020. Wir stehen für Certified Awesomeness!
 - 🍺 IPA PROBIERSET: Du bist ein echter Hopfenliebhaber und kannst dich einfach nicht für eine unserer IPA-Sorten entscheiden? Dann ist unser IPA Sampler genau das Richtige für dich
-- 🍺 JUNGE START-UP BRAUEREI UNTERSTÜTZEN: Du liebst Craft Beer und möchtest ein Start-Up unterstützen? Dann bist du bei uns genau richtig: Wir sind eine 2011 gegründete Mikro-Brauerei aus München
 - 🍺 ABWECHSLUNGSREICH HOPFIG: Vom leichten Session IPA bis zum kräftigen Double IPA ist alles dabei. Du erhältst 5x Drunken Sailor, 5x Hop Junkie, 5x 7:45 Escalation und 5x In Your Face
+- 🍺 AUSGEZEICHNETE BIERE: Alle unsere Biersorten sind international & national ausgezeichnet. Unser Drunken Sailor trägt sogar den Titel World’s Best IPA 2020. Wir stehen für Certified Awesomeness!
 - 🍺 NACH DEUTSCHEM REINHEITSGEBOT GEBRAUT: Wir stellen ehrliche, handwerklich gebraute und geschmacklich außergewöhnliche Biere her - streng nach deutschem Reinheitsgebot und mit besten natürlichen Zutaten!
+- 🍺 JUNGE START-UP BRAUEREI UNTERSTÜTZEN: Du liebst Craft Beer und möchtest ein Start-Up unterstützen? Dann bist du bei uns genau richtig: Wir sind eine 2011 gegründete Mikro-Brauerei aus München
+- 🍺 PERFEKTES GESCHENK-SET: Lust auf ein Beer-Tasting zuhause? Unser IPA Set ist das perfekte Geschenk für alle Bierliebhaber. Und mal ehrlich: Einen besonderen Anlass für gutes Bier braucht man nicht
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07B8KWVP2/?tag=tolees0ca-21)

@@ -27,10 +27,10 @@ Es gibt ein [Hershey s Chocolate Syrup](https://www.amazon.de/dp/B07X1YK3S4/?tag
 
 ℹ️:
 
-- Erhältlich als Einzelverpackung oder als Schachtel mit 24 Einheiten - ursprünglich importiert aus den USA
-- Enthält eine wiederverschließbare Flasche Hershey Chocolate syrup (680 g)
-- Hershey Chocolate syrup ist koscher und glutenfrei
 - Der köstliche Hershey Chocolate syrup ist ein authentischer Sirup mit Schokogeschmack
+- Hershey Chocolate syrup ist koscher und glutenfrei
+- Enthält eine wiederverschließbare Flasche Hershey Chocolate syrup (680 g)
+- Erhältlich als Einzelverpackung oder als Schachtel mit 24 Einheiten - ursprünglich importiert aus den USA
 - HERSHEYS Chocolate Syrup ist perfekt für Eiscreme, Desserts, Getränke und mehr. Träufeln Sie den Schokosirup über Eiscreme und Früchte, mischen Sie ihn in Getränke oder versüßen Sie Gebäck
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07X1YK3S4/?tag=tolees0ca-21)
