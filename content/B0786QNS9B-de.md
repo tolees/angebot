@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crucial MX500 500GB CT500MX500SSD1-bis z mit 16.80 % Rabatt'
-date: 2021-01-22 01:56:36
+date: 2021-01-23 07:36:10
 image: 'https://m.media-amazon.com/images/I/41eY2+fI9eL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B0786QNS9B/?tag=tolees0ca-21'
 descuento: '16.80'
-average: '54.14591304347825'
+average: '54.2100854700855'
 ---
 
 Sie können [Crucial MX500 500GB CT500MX500SSD1-bis zu 560 MB/s  3D NAND  SATA  2 5 Zoll  Internes SSD ](https://www.amazon.de/dp/B0786QNS9B/?tag=tolees0ca-21) mit Preis 57.9 EUR (original: 69.59 EUR) 16.80 % Rabatt hier:

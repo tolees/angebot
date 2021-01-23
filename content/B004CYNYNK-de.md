@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '21.94 % rabat auf Jack Daniel`s Gentleman Jack Tennessee W'
-date: 2021-01-22 01:50:34
+date: 2021-01-23 07:30:28
 image: 'https://m.media-amazon.com/images/I/41AVyGKrTSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,8 +27,8 @@ Es gibt ein [Jack Daniel`s Gentleman Jack Tennessee Whisky  1 x 0.7l ](https://w
 
 ℹ️:
 
-- Farbe: brilliant, satt-rötlicher Bernstein
 - Kann pur, oder auf Eis verzehrt werden
+- Farbe: brilliant, satt-rötlicher Bernstein
 - Abgang: weich und lang, feine einzigartige Nuancen in jedem Fass
 - Geschmack: ein Mix aus süßer Vanille, schwerer Eiche und dunklen Kirschen
 - Geruch: ausgeprägt würzige Vanille dominiert zart-fruchtige Orange und reife Minze

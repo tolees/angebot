@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '30.00 % rabat auf Columbia Herren Peakfreak Venture Waterp'
-date: 2021-01-22 07:08:04
+date: 2021-01-23 07:29:35
 image: 'https://m.media-amazon.com/images/I/41ozdA6o9SL._SL200_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WH-XB900N Bluetooth Noise Cancellin mit 40.96 % Rabatt'
-date: 2021-01-22 07:21:49
+date: 2021-01-23 07:49:09
 image: 'https://m.media-amazon.com/images/I/31V4mUj6maL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07RVC23SG/?tag=tolees0ca-21'
 descuento: '40.96'
-average: '140.39230158730157'
+average: '140.495546875'
 ---
 
 Sie können [Sony WH-XB900N Bluetooth Noise Cancelling Kopfhörer  Extra Bass  30h Akku  Alexa & Google Assistant  Gestensteuerung  Headset mit Mikrofon für Telefon & PC/Laptop  schwarz](https://www.amazon.de/dp/B07RVC23SG/?tag=tolees0ca-21) mit Preis 147.0 EUR (original: 249.0 EUR) 40.96 % Rabatt hier:
@@ -29,8 +29,8 @@ Sie können [Sony WH-XB900N Bluetooth Noise Cancelling Kopfhörer  Extra Bass  3
 
 - Optimierbare Klangeinstellungen mit der Sony Headphones Connect App, Google Assistant und Alexa/Siri kompatibel
 - Bis zu 30 Stunden Akkulaufzeit
-- Digitale Geräuschunterdrückung auf Knopfdruck
 - Quick Attention Modus: blitzschnell die Umgebung durch intuitives Handauflegen wahrnehmen
 - Extra Bass für satten, kraftvollen Sound
+- Digitale Geräuschunterdrückung auf Knopfdruck
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07RVC23SG/?tag=tolees0ca-21)
