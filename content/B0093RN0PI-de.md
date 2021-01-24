@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '37.35 % rabat auf Intenso interne SSD-Festplatte 128GB Top'
-date: 2021-01-23 07:23:00
+date: 2021-01-24 12:46:54
 image: 'https://m.media-amazon.com/images/I/41zvUPLK3oL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B0093RN0PI/?tag=tolees0ca-21'
 descuento: '37.35'
-average: '18.065'
+average: '18.0753571428571'
 ---
 
 Es gibt ein [Intenso interne SSD-Festplatte 128GB Top Performance](https://www.amazon.de/dp/B0093RN0PI/?tag=tolees0ca-21) mit aktuellem Preis 18.79 EUR (original: 29.99 EUR) 37.35 % Rabatt hier:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Jeans Damen Tjw Basic Hooded Down  mit 34.99 % Rabatt'
-date: 2021-01-23 07:38:44
+date: 2021-01-24 13:29:47
 image: 'https://m.media-amazon.com/images/I/41m74kDYiGL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07ZFW9RTC/?tag=tolees0ca-21'
 descuento: '34.99'
-average: '104.235714285714'
+average: '109.95'
 ---
 
 Sie können [Tommy Jeans Damen Tjw Basic Hooded Down Jacket Jacke  Schwarz  Black   L](https://www.amazon.de/dp/B07ZFW9RTC/?tag=tolees0ca-21) mit Preis 129.95 EUR (original: 199.9 EUR) 34.99 % Rabatt hier:

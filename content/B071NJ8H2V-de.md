@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '29.97 % rabat auf Tommy Hilfiger Poppy Small Tote  Damen S'
-date: 2021-01-23 07:34:00
+date: 2021-01-24 12:51:21
 image: 'https://m.media-amazon.com/images/I/41Bh25ibo5L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B071NJ8H2V/?tag=tolees0ca-21'
 descuento: '29.97'
-average: '52.4607042253522'
+average: '52.3645205479453'
 ---
 
 Es gibt ein [Tommy Hilfiger Poppy Small Tote  Damen Stofftasche  Black  13x20.5x25.5 cm  W x H L ](https://www.amazon.de/dp/B071NJ8H2V/?tag=tolees0ca-21) mit aktuellem Preis 48.95 EUR (original: 69.9 EUR) 29.97 % Rabatt hier:
