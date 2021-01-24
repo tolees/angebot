@@ -28,9 +28,9 @@ Es gibt ein [Pentel BLN75-AO Gel-Tintenroller EnerGel mit Druckmechanik und Nade
 ℹ️:
 
 - mit allen EnerGel Minen nachfüllbar (LRN5, LR7, LR10)
-- Schreibfarbe Schwarz
-- trocknet blitzschnell
 - weich fließendes Schreiben
+- trocknet blitzschnell
+- Schreibfarbe Schwarz
 - kein Verschmieren, auch für Linkshänder geeignet
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000WH2WL6/?tag=tolees0ca-21)

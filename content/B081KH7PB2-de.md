@@ -27,8 +27,8 @@ Es gibt ein [Salomon Damen XA PRO 3D V8 GTX  Leichte Schuhe für Trail Running u
 
 ℹ️:
 
-- Salomon
-- Farbe: Black/Black/Phantom
 - Xa pro 3D V8 GTX W
+- Farbe: Black/Black/Phantom
+- Salomon
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B081KH7PB2/?tag=tolees0ca-21)

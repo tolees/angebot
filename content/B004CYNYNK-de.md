@@ -27,10 +27,10 @@ Es gibt ein [Jack Daniel s - Jack Daniel`s Gentleman Jack Tennessee Whisky  1 x 
 
 ℹ️:
 
-- Kann pur, oder auf Eis verzehrt werden
+- Geschmack: ein Mix aus süßer Vanille, schwerer Eiche und dunklen Kirschen
 - Abgang: weich und lang, feine einzigartige Nuancen in jedem Fass
+- Kann pur, oder auf Eis verzehrt werden
 - Farbe: brilliant, satt-rötlicher Bernstein
 - Geruch: ausgeprägt würzige Vanille dominiert zart-fruchtige Orange und reife Minze
-- Geschmack: ein Mix aus süßer Vanille, schwerer Eiche und dunklen Kirschen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004CYNYNK/?tag=tolees0ca-21)
