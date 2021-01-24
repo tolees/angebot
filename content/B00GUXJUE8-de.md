@@ -1,34 +1,36 @@
 ---
 layout: post
-title: '29.65 % rabat auf Columbia Herren Woodburn Li  Scarpe da N'
-date: 2021-01-13 16:50:11
+title: '19.97 % rabat auf Columbia Herren Woodburn Li  Scarpe da N'
+date: 2021-01-24 06:55:55
 image: 'https://m.media-amazon.com/images/I/41izmzDecXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GUXJUE8-de'
-actualPrice: 70.31 EUR
+slug: 'B00GUXJUE8-de Columbia Herren Woodburn Li Scarpe da Nordic Walking Braun...'
+sku: 'B00GUXJUE8-de'
+tags: [  ]
+actualPrice: 79.99 EUR
 currency: EUR
-price: 70.31
+price: 79.99
 comparePrice: 99.95 EUR
 prodname: 'Columbia Herren Woodburn Li  Scarpe da Nordic Walking  Braun Braun Cordovan Cinnamon  44 EU'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B00GUXJUE8/?tag=tolees0ca-21'
-descuento: '29.65'
-average: '71.55434782608693'
+descuento: '19.97'
+average: '72.2292'
 ---
 
-Es gibt ein [Columbia Herren Woodburn Li  Scarpe da Nordic Walking  Braun Braun Cordovan Cinnamon  44 EU](https://www.amazon.de/dp/B00GUXJUE8/?tag=tolees0ca-21) mit aktuellem Preis 70.31 EUR (original: 99.95 EUR) 29.65 % Rabatt hier:
+Es gibt ein [Columbia Herren Woodburn Li  Scarpe da Nordic Walking  Braun Braun Cordovan Cinnamon  44 EU](https://www.amazon.de/dp/B00GUXJUE8/?tag=tolees0ca-21) mit aktuellem Preis 79.99 EUR (original: 99.95 EUR) 19.97 % Rabatt hier:
 
 [![Columbia Herren Woodburn Li  Scarpe da N](https://m.media-amazon.com/images/I/41izmzDecXL._SL200_.jpg)](https://www.amazon.de/dp/B00GUXJUE8/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Obermaterial aus wasserdichtem Netzgewebe und Leder
-- Omni-Tech wasserdichte und atmungsaktive Schuhkonstruktion mit versiegelten Nähten
 - Der Columbia Peakfreak Nomad Waterproof ist ein typischer Outdoor-Schuh
 - Abtriebfeste Omni-Grip Gummi-Außensohle für gute Bodenhaftung
 - Leichte Techlite Zwischensohle
+- Obermaterial aus wasserdichtem Netzgewebe und Leder
+- Omni-Tech wasserdichte und atmungsaktive Schuhkonstruktion mit versiegelten Nähten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00GUXJUE8/?tag=tolees0ca-21)
