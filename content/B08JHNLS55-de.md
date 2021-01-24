@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Pictures Home Entertainment - The C mit 21.94 % Rabatt'
-date: 2021-01-23 14:17:32
+date: 2021-01-24 19:36:34
 image: 'https://m.media-amazon.com/images/I/51XVqiBHlLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B08JHNLS55/?tag=tolees0ca-21'
 descuento: '21.94'
-average: '29.86'
+average: '29.6473913043478'
 ---
 
 Sie können [Sony Pictures Home Entertainment - The Crown - Die komplette dritte Season [Blu-ray]](https://www.amazon.de/dp/B08JHNLS55/?tag=tolees0ca-21) mit Preis 24.97 EUR (original: 31.99 EUR) 21.94 % Rabatt hier:

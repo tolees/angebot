@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.76 % rabat auf Warner Bros Entertainment - Aquaman [Blu'
-date: 2021-01-23 13:44:44
+date: 2021-01-24 19:46:49
 image: 'https://m.media-amazon.com/images/I/51kJjnMp-vL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07KZHBP78/?tag=tolees0ca-21'
 descuento: '15.76'
-average: '8.49444444444444'
+average: '8.51054054054054'
 ---
 
 Es gibt ein [Warner Bros Entertainment - Aquaman [Blu-ray]](https://www.amazon.de/dp/B07KZHBP78/?tag=tolees0ca-21) mit aktuellem Preis 9.09 EUR (original: 10.79 EUR) 15.76 % Rabatt hier:
