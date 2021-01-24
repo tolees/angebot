@@ -27,9 +27,9 @@ Es gibt ein [SCHWAIGER -ZHS05- 4 in 1 Bewegungsmelder/ Temperatursensor/ Helligk
 
 ℹ️:
 
-- Erweitern Sie Ihre Smart Home Lösung mit über 150 Produkte verschiedenster kooperierender Hersteller - die Kompatibilitätsliste finden Sie unter schwaiger.de
-- Lieferumfang: 1x Sensor, 1x Befestigungsplatte, 1x USB Anschlusskabel, 1x Halterung (schwenkbar), 2x Schrauben, Bedienungsanleitung
 - Der Sensor garantiert Ihnen mehr Sicherheit und Kontrolle über Ihr Zuhause. Behalten Sie immer den Überblick über Licht-, Temperatur- und Feuchtigkeitsveränderung oder die Registrierung von Bewegung.
+- Lieferumfang: 1x Sensor, 1x Befestigungsplatte, 1x USB Anschlusskabel, 1x Halterung (schwenkbar), 2x Schrauben, Bedienungsanleitung
+- Erweitern Sie Ihre Smart Home Lösung mit über 150 Produkte verschiedenster kooperierender Hersteller - die Kompatibilitätsliste finden Sie unter schwaiger.de
 - Steuern Sie ganz einfach ihr zu Hause von unterwegs oder von zu Hause aus über die kostenlose Schwaiger App via Smartphone / Tablet - Ebenfalls ist die Sprachsteuerung über Amazon Alexa (Amazon Echo) oder Google Assistant (Google Home) möglich
 - Mehr Komfort für Ihre eigenen 4 Wände durch die Steuerung Ihrer Beleuchtung (z.B. Licht, Nachtlicht) über den Bewegungssensor. Außerdem kann der Sensor als Alarmanlage und somit zum Einbruchschutz dienen.
 
