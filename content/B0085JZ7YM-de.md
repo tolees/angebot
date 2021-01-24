@@ -27,11 +27,11 @@ Sie können [Philips myGarden Wandleuchte Bridge  15W energiesparend  Höhe 21 c
 
 ℹ️:
 
-- Elegantes, modernes Design für Ihren Garten
 - IP44 für die Anwendung im Außenbereich
-- Energiesparend inkl. Leuchtmittel
-- Robustes und zuverlässiges Material in höchster Qualität
 - Warmweißes Licht zum Wohlfühlen
 - Mehr Informationen zu der Produktfamilie finden Sie weiter unten auf dieser Seite
+- Energiesparend inkl. Leuchtmittel
+- Elegantes, modernes Design für Ihren Garten
+- Robustes und zuverlässiges Material in höchster Qualität
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0085JZ7YM/?tag=tolees0ca-21)

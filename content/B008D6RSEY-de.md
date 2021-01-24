@@ -27,8 +27,8 @@ Es gibt ein [Plantronics 87317-01 EHS-Modul Plantronics APC-45 für Savi & CS500
 
 ℹ️:
 
-- Ref - 410611
 - Marke - Plantronics
+- Ref - 410611
 - Kategorie - Technologie
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B008D6RSEY/?tag=tolees0ca-21)
