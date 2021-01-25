@@ -27,9 +27,9 @@ Sie können [Funko - POP! Marvel: Avengers Game- Iron Man  Stark Tech Suit ](htt
 
 ℹ️:
 
-- Funko POP! ist das Spielzeug des Jahres 2018
 - Von Avengers Game, Iron Man (Stark Tech Suit), zur stilisierten POP-Vinyl Figur von Funko!
-- Schauen Sie sich jetzt die anderen Marvel-Figuren von Funko an! Sammeln Sie alle!
+- Funko POP! ist das Spielzeug des Jahres 2018
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
+- Schauen Sie sich jetzt die anderen Marvel-Figuren von Funko an! Sammeln Sie alle!
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XF7X5KH/?tag=tolees0ca-21)

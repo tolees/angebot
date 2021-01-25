@@ -28,8 +28,8 @@ Es gibt ein [Jack Wolfskin Herren Vojo 3 Texapore MID M Outdoorschuhe  Black/Bur
 ℹ️:
 
 - wasserdicht, atmungsaktiv
-- komfortable Passform, griffiges Profil
 - Aktivitätsindex: A (Hiking)
+- komfortable Passform, griffiges Profil
 - Wanderschuh für Tagestouren
 - gut dämpfende, robuste Wandersohle
 
