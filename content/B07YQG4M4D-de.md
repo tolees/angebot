@@ -27,10 +27,10 @@ Es gibt ein [Barilla Pasta Penne Rigate n. 73  1kg](https://www.amazon.de/dp/B07
 
 ℹ️:
 
-- Einfache Zubereitung: Nach einer Kochzeit von 11 Minuten steht dem Genuss der köstlichen Pasta nichts mehr im Wege
-- Geschmacksträger: Mit ihrer schlanken Form eignet sich die Penne auch ideal für leckere Pasta Aufläufe - Penne als Star bei jedem Festessen oder im Alltag
 - Lieferumfang: Barilla Penne Rigate n. 73 / Schmeckt besonders gut mit Barilla Pomodoro oder Ricotta Sauce!
+- Einfache Zubereitung: Nach einer Kochzeit von 11 Minuten steht dem Genuss der köstlichen Pasta nichts mehr im Wege
 - Penne Rigate betont sowohl traditionelle Saucen auf Fleisch- oder Tomatenbasis, als auch originelle Saucen mit Gemüse & Käse - für den besonderen Genuss alleine, mit Freunden oder Familie
+- Geschmacksträger: Mit ihrer schlanken Form eignet sich die Penne auch ideal für leckere Pasta Aufläufe - Penne als Star bei jedem Festessen oder im Alltag
 - Al dente für jeden Tag: Durch die Fertigung aus hochwertigem Hartweizen wird die italienische Pasta nicht zu weich, klebrig oder verkocht zu schnell, sondern begeistert mit optimaler Konsistenz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07YQG4M4D/?tag=tolees0ca-21)
