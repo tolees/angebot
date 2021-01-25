@@ -27,15 +27,15 @@ Sie können [Tenda AC1200 Dualband WLAN Router AC5 V3.0  867Mbit/s 5GHz + 300Mbi
 
 ℹ️:
 
-- ap-modus: tenda ac5 v3.0 kann in den access point-modus geschaltet werden, um ihr internet drahtlos zu teilen.
 - kundenservice: wenn sie weitere fragen zu diesem produkt haben oder vor dem kauf technische hilfe benötigen, senden sie bitte eine e-mail an service-de@tendacn.com. wir helfen ihnen gerne weiter.
-- gast-netzwerk und kindersicherung: behalten sie die sicherheit ihre hauptnetzwerks und erstellen sie für ihre freunde und besucher ein separates gast-netzwerk. sie können außerdem beschränkungen für internetzugriffszeiten und inhalte für die geräte ihrer kinder über die app festlegen.
-- app steuerung: verwenden sie die tenda wifi app für ein eine einfache inbetriebnahme und steuerung ihres netzwerks. für maximale flexibilität, können sie ihr netzwerk von zu hause oder von unterwegs aus steuern.
 - highspeed wlan-geschwindigkeit: entdecken sie eine kombinierte wlan-geschwindigkeit von bis zu 300 mbit/s über das 2,4 ghz band sowie 867 mbit/s über das 5 ghz band; 3x10/100mbit/s-lan-ports mit 10/100mbit/s-wan-port
-- 3 jahre garantie
-- unterstützt 20 datenhungrige geräte: der ac5 v3.0 ist mit einem 28-nm-performance-booster-chip, mit 32 mb ram ausgestattet und unterstützt das internetprotokoll version 6, das mehr verbindungen bei höheren geschwindigkeiten ermöglicht.
-- einfache und schnelle inbetriebnahme: in weniger als 1 minute, keine aufwendige konfiguration nötig.
 - komplette heimabdeckung: dank 4×6dbi externe antennen und high-performance verstärker.
+- app steuerung: verwenden sie die tenda wifi app für ein eine einfache inbetriebnahme und steuerung ihres netzwerks. für maximale flexibilität, können sie ihr netzwerk von zu hause oder von unterwegs aus steuern.
+- unterstützt 20 datenhungrige geräte: der ac5 v3.0 ist mit einem 28-nm-performance-booster-chip, mit 32 mb ram ausgestattet und unterstützt das internetprotokoll version 6, das mehr verbindungen bei höheren geschwindigkeiten ermöglicht.
+- 3 jahre garantie
+- ap-modus: tenda ac5 v3.0 kann in den access point-modus geschaltet werden, um ihr internet drahtlos zu teilen.
+- gast-netzwerk und kindersicherung: behalten sie die sicherheit ihre hauptnetzwerks und erstellen sie für ihre freunde und besucher ein separates gast-netzwerk. sie können außerdem beschränkungen für internetzugriffszeiten und inhalte für die geräte ihrer kinder über die app festlegen.
 - lieferumfang: wireless router: 1, ethernet cable: 1, power adapter: 1, installation guide: 1
+- einfache und schnelle inbetriebnahme: in weniger als 1 minute, keine aufwendige konfiguration nötig.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08DR6Y5VX/?tag=tolees0ca-21)
