@@ -28,7 +28,7 @@ Sie können [Airwaves Kaugummi | Cool Cassis | Lila  zuckerfrei |  1 x 50 Dragee
 ℹ️:
 
 - Für noch mehr Frische und besonders lang anhaltenden Geschmack
-- Zuckerfreier Kaugummi
 - Das original starke Geschmackserlebnis für den einzigartigen Airwaves Frische-Kick
+- Zuckerfreier Kaugummi
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01IHHLWOK/?tag=tolees0ca-21)

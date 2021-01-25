@@ -27,10 +27,10 @@ Es gibt ein [GREATHTEK HDMI KVM Switch USB 2 Port 4K  4 USB 2.0  4K@30 Hz  KVM S
 
 ℹ️:
 
-- 【4 USB 2.0, Hohe Kompatibilität】 Dieser HDMI KVM 2 fach Schalter verfügt über 4 USB 2.0-Anschlüsse für die gemeinsame Nutzung, Scanner und USB-Drucker usw. Er erkennt und passt verschiedene Anzeigegeräte automatisch an und unterstützt auch viele Arten von Eingabegeräten oder Signalquellen wie PCs , Laptop,usw.
 - 【 Button Switch】 Mit den Tasten auf dem Bedienfeld können Sie bequem und schnell zwischen zwei Signalquellen umschalten. Dies ist besonders für den Einsatz zu Hause, im Büro oder im persönlichen Studio geeignet.
 - 【Ultra HD 4K visueller Genuss】HDMI KVM Umschalter maximale Unterstützung UHD 4K @ 30Hz (3840x2160) YUV 4: 4: 4, macht die Bildanzeige exquisiter und realistischer, Farbe heller und beweglicher, ist eine wahre Augenweide. Natürlich ist es abwärtskompatibel mit niedrigeren Auflösungen.
-- 【2 Signalquellen teilen sich ein Anzeigegerät】HDMI KVM Switch 2Port und Sie können 2Geräte mit 1 Tastatur und 1 Maus steuern,unterstützung drahtlose / kabelgebundene/mechanische tastatur und maus.Das Kit wird häufig in den Bereichen Lehre, Videokonferenzen, Sicherheitsüberwachung und in anderen Bereichen eingesetzt.
 - 【Stromversorgung Über USB】 Metall gehäuse, thermisches Design, Plug & Play, Stromversorgung über USB. Kompatibel mit einer Vielzahl von Computersystemen, wie Windows 10/7/2000 / XP / Vista, Linux, UNIX, Mac, Ubuntu, Fedora usw. Wenn Sie Fragen zum Produkt haben, kontaktieren Sie uns bitte, wir werden Ihnen antworten beim ersten Mal.
+- 【4 USB 2.0, Hohe Kompatibilität】 Dieser HDMI KVM 2 fach Schalter verfügt über 4 USB 2.0-Anschlüsse für die gemeinsame Nutzung, Scanner und USB-Drucker usw. Er erkennt und passt verschiedene Anzeigegeräte automatisch an und unterstützt auch viele Arten von Eingabegeräten oder Signalquellen wie PCs , Laptop,usw.
+- 【2 Signalquellen teilen sich ein Anzeigegerät】HDMI KVM Switch 2Port und Sie können 2Geräte mit 1 Tastatur und 1 Maus steuern,unterstützung drahtlose / kabelgebundene/mechanische tastatur und maus.Das Kit wird häufig in den Bereichen Lehre, Videokonferenzen, Sicherheitsüberwachung und in anderen Bereichen eingesetzt.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B083TC68VQ/?tag=tolees0ca-21)
