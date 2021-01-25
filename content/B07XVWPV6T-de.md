@@ -27,9 +27,9 @@ Es gibt ein [Microsoft Bluetooth Mouse Schwarz](https://www.amazon.de/dp/B07XVWP
 
 ℹ️:
 
+- Energiesparende Elektronik für eine lange Batterielebensdauer bis zu 12 Monate
 - Kabellose Freiheit dank Bluetooth Konnektivität
 - Uneingeschränkte Mobilität dank geringem Gewicht und kompakten Abmessungen
-- Energiesparende Elektronik für eine lange Batterielebensdauer bis zu 12 Monate
 - Fast Tracking Sensor für hohe Präzision auch auf Glasoberflächen und einer Auflösung von bis zu 1.800 dpi
 - Arbeiten Sie effizienter mit drei Tasten (inklusive Scrollrad)
 
