@@ -28,7 +28,7 @@ Es gibt ein [adidas Herren CORE18 SW PNT Sport Trousers  Dark Blue/White  XL](ht
 ℹ️:
 
 - Front pockets
-- Elastic waistband with lanyard
 - Regular Fit
+- Elastic waistband with lanyard
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B076HPZVHF/?tag=tolees0ca-21)

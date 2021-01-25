@@ -27,10 +27,10 @@ Sie können [adidas Herren Core 18 Hoodie  White  M](https://www.amazon.de/dp/B0
 
 ℹ️:
 
-- 70% Baumwolle
-- Kängurutasche
 - Reguläre Passform
 - Verstellbare Kapuze mit Kordelzug
+- 70% Baumwolle
 - Gerippter Saum und Bündchen
+- Kängurutasche
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XCQ23TM/?tag=tolees0ca-21)
