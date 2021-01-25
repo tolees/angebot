@@ -28,8 +28,8 @@ Es gibt ein [Columbia Herren Vapor Vent Schuh  Schwarz  Black  White 010   40.5 
 ℹ️:
 
 - Omni-Grip abriebfester Traktionsgummi
-- Zwischensohlenöffnungen für Belüftung und Kühlung
 - Leichte Techlite Zwischensohle für lang anhaltenden Komfort, Polsterung und hohe Energierückgabe
 - Stützend geschweißte Textil-Overlays mit atmungsaktivem Mesh; synthetische Zehenkappe
+- Zwischensohlenöffnungen für Belüftung und Kühlung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01HDPPX4C/?tag=tolees0ca-21)

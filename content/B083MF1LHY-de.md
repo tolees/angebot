@@ -27,7 +27,7 @@ Sie können [Urban Classics Damen Ladies Basic Pullover Jacke  vintageblue  M](h
 
 ℹ️:
 
-- Leichte Pullover Jacke in dezenten Farben mit Drawstrings am Saum zur Einstellung der Weite um die Hüfte, um den Wind vom Körper zu halten
 - Einfarbiger langarm Windbreaker für Frauen & Mädchen zum Überziehen an etwas frischeren Tagen im Frühling oder Sommer
+- Leichte Pullover Jacke in dezenten Farben mit Drawstrings am Saum zur Einstellung der Weite um die Hüfte, um den Wind vom Körper zu halten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B083MF1LHY/?tag=tolees0ca-21)

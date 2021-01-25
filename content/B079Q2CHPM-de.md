@@ -27,10 +27,10 @@ Es gibt ein [Philips Senseo HD6592/60 Switch 2-in-1 Kaffeemaschine  schwarz](htt
 
 ℹ️:
 
-- Bedienung einfach per Knopfdruck: wählen Sie aus 3 Tasten für die Zubereitung von 1 Tasse, 2 Tassen und einer Kanne Filterkaffee
-- Thermoskanne aus Edelstahl für bis zu 7 Tassen Filterkaffee in praktischer Edelstahl Thermoskanne
 - Endlich eine Kaffeemaschine für Filterkaffee und Kaffeepads: Mit der Philips Senseo Kaffeemaschine können Sie Filterkaffee aus Kaffeepulver und Senseo Kaffee aus Kaffeepads zubereiten
 - Individuell einstellbare Kaffeestärke: stark oder normal
 - 1 oder 2 Tassen Padkaffee mit Crema Plus für eine dichtere, goldbraune und feinporige Pad Crema
+- Bedienung einfach per Knopfdruck: wählen Sie aus 3 Tasten für die Zubereitung von 1 Tasse, 2 Tassen und einer Kanne Filterkaffee
+- Thermoskanne aus Edelstahl für bis zu 7 Tassen Filterkaffee in praktischer Edelstahl Thermoskanne
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B079Q2CHPM/?tag=tolees0ca-21)
