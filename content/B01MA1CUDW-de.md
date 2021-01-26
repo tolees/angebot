@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS Herren T-Shirt RN 3P CO T-Shirts au mit 26.11 % Rabatt'
-date: 2021-01-25 01:20:38
+date: 2021-01-26 01:32:47
 image: 'https://m.media-amazon.com/images/I/21bIdL8xF-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,8 +27,8 @@ Sie können [BOSS Herren T-Shirt RN 3P CO T-Shirts aus Baumwolle im Dreier-Pack]
 
 ℹ️:
 
+- Ausschnitt: Rundhalsausschnitt
 - Verpackung: Box
 - Regular Fit
-- Ausschnitt: Rundhalsausschnitt
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01MA1CUDW/?tag=tolees0ca-21)
