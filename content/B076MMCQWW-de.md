@@ -27,10 +27,10 @@ Es gibt ein [Mattel Games FRM36 DOS Kartenspiel  geeignet für 2 - 4 Spieler  Sp
 
 ℹ️:
 
-- Bei diesem aufregenden Kartenspiel können sich zwei bis vier Spieler gegenseitig oder in Teams herausfordern.
-- Legt man als Erster alle Karten ab, bekommt man Punkte für die Karten, die die Mitspieler noch nicht abgelegt haben!
 - Passende Zahlen sind am wichtigsten – aber auch durch Bonuspunkte für gleiche Farben werden die 200 Punkte schneller erreicht.
-- Wer nur noch zwei Karten auf der Hand hat, muss „DOS!“ rufen!
+- Bei diesem aufregenden Kartenspiel können sich zwei bis vier Spieler gegenseitig oder in Teams herausfordern.
 - Ziel ist es, als Erster alle Karten loszuwerden – aber Vorsicht: Mit den neuen Jokerkarten kann sich das Blatt ganz schnell wenden.
+- Legt man als Erster alle Karten ab, bekommt man Punkte für die Karten, die die Mitspieler noch nicht abgelegt haben!
+- Wer nur noch zwei Karten auf der Hand hat, muss „DOS!“ rufen!
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B076MMCQWW/?tag=tolees0ca-21)
