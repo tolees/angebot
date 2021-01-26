@@ -27,8 +27,8 @@ Es gibt ein [Burton Herren Protektor  True Black  L  10347101002](https://www.am
 
 ℹ️:
 
-- Flexible, schmale Schienen oben
-- Flexible Velcro Anpassung
 - Weiche Handfläche
+- Flexible Velcro Anpassung
+- Flexible, schmale Schienen oben
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00KL48QCO/?tag=tolees0ca-21)

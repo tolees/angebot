@@ -27,8 +27,8 @@ Es gibt ein [WAGNER Control Pro HEA Düsenverlängerung für WAGNER Airless Farb
 
 ℹ️:
 
-- Ergonomischer und komfortabler Farbauftrag an Decken, hohen Wänden oder Böden
 - Passend für alle Control Pro
 - Verlängerung (Gewinde G) inklusive Düsenhalter für hohe Reichweite
+- Ergonomischer und komfortabler Farbauftrag an Decken, hohen Wänden oder Böden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B073JY8PJD/?tag=tolees0ca-21)
