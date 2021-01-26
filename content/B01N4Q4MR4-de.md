@@ -27,8 +27,8 @@ Es gibt ein [Vans Herren Ward Hi Sneaker  Schwarz   Suede/Canvas  Black/White C4
 
 ℹ️:
 
-- Obermaterial: Leder
 - Innenmaterial: Textil
+- Obermaterial: Leder
 - Sohle: Gummi
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01N4Q4MR4/?tag=tolees0ca-21)

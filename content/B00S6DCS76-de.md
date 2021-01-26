@@ -30,7 +30,7 @@ Es gibt ein [Sylvanian Families - 5190 - Schokoladenhasen Großeltern](https://w
 - Sylvanian Families Schokoladenhasen Großeltern Else und Reinhard Löffel (inkl. Zubehör)
 - Schönes Geschenk für Mädchen zu Weihnachten, Ostern oder zum Geburtstag
 - Größe einer Figur: ca 6-8 cm
-- Geeignet für Kinder ab 3 Jahren
 - Gut kombinierbar mit den anderen Sammelfiguren der Familie Löffel
+- Geeignet für Kinder ab 3 Jahren
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00S6DCS76/?tag=tolees0ca-21)
