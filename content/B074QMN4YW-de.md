@@ -27,9 +27,9 @@ Es gibt ein [Microsoft - Xbox Wireless Adapter für Windows 10](https://www.amaz
 
 ℹ️:
 
-- Kompatibel mit allen Windows 10 PCs, Laptops und Tablet PCs
+- Funktioniert auch beim Streamen von Xbox One Spielen auf Windows 10 Geräte
 - Die Freiheit und Präzision des besten Controllers auf dem Markt jetzt auch kabellos für PC Games nutzen
 - Features wie der In Game Chat und qualitativ hochwertiger Sound können wie gewohnt verwendet werden
-- Funktioniert auch beim Streamen von Xbox One Spielen auf Windows 10 Geräte
+- Kompatibel mit allen Windows 10 PCs, Laptops und Tablet PCs
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B074QMN4YW/?tag=tolees0ca-21)
