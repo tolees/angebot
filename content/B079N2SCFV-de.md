@@ -27,10 +27,10 @@ Es gibt ein [Playmobil 9458 - DreamWorks Dragons  Raffnuss und Taffnuss mit Kotz
 
 ℹ️:
 
-- Schwimmfähiges Boot, Bewegliche Flügel, Kiefer und Beine, 2 abnehmbare Sattel, uvm., Erweiterbar mit Grobian mit Schafschleuder (9461)
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 - Spielspaß für kleine Abenteurer: DreamWorks Dragons Raffnuss und Taffnuss mit Kotz und Würg, Mit schwimmendem Ruderboot, Wurfschaf und weiteren Zubehörteilen
 - Lieferumfang: 1x DreamWorks Dragons Raffnuss und Taffnuss mit Kotz und Würg, 45-teiliges Spielfiguren-Set mit Anleitung: 2 Figuren, 1 Drache, 42 Zubehörteile, Material: Kunststoff, LxBxH: 47,5x40x10,5-20 cm, 9458
+- Schwimmfähiges Boot, Bewegliche Flügel, Kiefer und Beine, 2 abnehmbare Sattel, uvm., Erweiterbar mit Grobian mit Schafschleuder (9461)
 - Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B079N2SCFV/?tag=tolees0ca-21)

@@ -27,8 +27,8 @@ Sie können [Lacoste L.12.12 Magnetic homme/man  Eau de Toilette Spray  100 g](h
 
 ℹ️:
 
+- Inhalt: 100 ml
 - Eleganter und frischer Duft
 - Patchouli, Ambra, Vetiver, Geranie und Veilchen zeichnen diese Komposition aus
-- Inhalt: 100 ml
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01NBIDU61/?tag=tolees0ca-21)
