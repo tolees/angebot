@@ -27,9 +27,9 @@ Sie können [HYBRID Dual Metallic Gel-Tintenroller  verschiedene Farben  8 Stü
 
 ℹ️:
 
-- Unwiderstehlich glatt
-- Jeder Stift erzeugt einen anderen Schirm auf dunklem oder hellem Papier
 - Sehen Sie zwei verschiedene Farben in verschiedenen Winkeln
+- Jeder Stift erzeugt einen anderen Schirm auf dunklem oder hellem Papier
+- Unwiderstehlich glatt
 - Ideal für Karten, Dekoration, Bilder, Zeichnungen und Designs
 - 8 schimmernde Metallic-Gelschreiber
 

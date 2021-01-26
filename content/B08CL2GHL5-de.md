@@ -27,15 +27,15 @@ Sie können [Xiaomi Mi Electric Scooter Pro2  DE  Faltbarer E-Scooter mit Straß
 
 ℹ️:
 
-- Duales Bremssystem mit Bremsenergie-Rückgewinnung
+- Bremslicht hinten, Frontlicht vorne und seitliche Reflektoren
 - 474Wh Lithium Ionen Akku mit ultra langer Reichweite von bis zu 45km (abhängig von Straßengegebenheiten, Körpergröße & -gewicht)
 - LED Anzeige für Geschwindigkeit, Batteriestand und Fahrmodus
-- Intuitive und einfache Bedienung
-- Bremslicht hinten, Frontlicht vorne und seitliche Reflektoren
-- Per iOS/Android Mi Home App Einstellungen verwalten und sperren
-- E-Scooter mit Straßenzulassung (ABE) zur Nutzung auf öffentlichen Straßen
-- 8,5" Luftreifen für ein sicheres Fahrgefühl
 - Klappbar und leicht zu transportieren dank einem Gewicht von lediglich 14,2kg
 - Maximale Geschwindigkeit von 20km/h
+- 8,5" Luftreifen für ein sicheres Fahrgefühl
+- Intuitive und einfache Bedienung
+- E-Scooter mit Straßenzulassung (ABE) zur Nutzung auf öffentlichen Straßen
+- Per iOS/Android Mi Home App Einstellungen verwalten und sperren
+- Duales Bremssystem mit Bremsenergie-Rückgewinnung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08CL2GHL5/?tag=tolees0ca-21)
