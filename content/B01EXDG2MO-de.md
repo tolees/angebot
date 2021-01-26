@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.78 % rabat auf TP-Link TL-SG108 V3 8-Ports Gigabit Netz'
-date: 2021-01-25 07:06:44
+date: 2021-01-26 07:28:14
 image: 'https://m.media-amazon.com/images/I/41CWSmfzytL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B01EXDG2MO/?tag=tolees0ca-21'
 descuento: '23.78'
-average: '22.0436559139785'
+average: '22.0593684210527'
 ---
 
 Es gibt ein [TP-Link TL-SG108 V3 8-Ports Gigabit Netzwerk Switch  bis 2000MBit/s im Vollduplexmodus  geschirmte RJ-45 Ports  Metallgehäuse  optimiert Datenverkehr  IGMP-Snooping  unmanaged  blau metallic](https://www.amazon.de/dp/B01EXDG2MO/?tag=tolees0ca-21) mit aktuellem Preis 22.79 EUR (original: 29.9 EUR) 23.78 % Rabatt hier:
@@ -27,12 +27,12 @@ Es gibt ein [TP-Link TL-SG108 V3 8-Ports Gigabit Netzwerk Switch  bis 2000MBit/s
 
 ℹ️:
 
+- Green-Ethernet zum Energiesparen
+- Flusskontrolle nach IEEE802.3x für zuverlässige Datenübertragung
 - Plug-and-Play, keine Konfiguration notwendig
 - 8 10/100/1000Mbit/s-RJ45-Ports mit Autoabstimmung und Auto-MDI/MDIX
-- Flusskontrolle nach IEEE802.3x für zuverlässige Datenübertragung
-- Metallgehäuse für Tischaufbau oder Wandmontage
 - Unterstützt QoS nach IEEE802.1p sowie IGMP-Snooping
 - Lieferumfang, TL-SG108, Schnellinstallationsanleitung, Netzteiladapter
-- Green-Ethernet zum Energiesparen
+- Metallgehäuse für Tischaufbau oder Wandmontage
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01EXDG2MO/?tag=tolees0ca-21)
