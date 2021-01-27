@@ -27,10 +27,10 @@ Es gibt ein [Tommy Hilfiger Herren NEW DENTON BELT Gürtel  Schwarz  BLACK 090  
 
 ℹ️:
 
-- Size Large = 32"/34"
-- Brushed Metal Buckle
-- Size Medium = 30"/32"
-- Five Puncture Holes
 - Tommy Flag Logo
+- Size Medium = 30"/32"
+- Size Large = 32"/34"
+- Five Puncture Holes
+- Brushed Metal Buckle
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00NONX8PY/?tag=tolees0ca-21)

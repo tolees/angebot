@@ -27,8 +27,8 @@ Es gibt ein [Schiesser Damen TrÃ¤gertop  2er Pack  Unterhemd  Schwarz  schwarz
 
 ℹ️:
 
-- im Uni Design
 - Material: 95% Baumwolle , 5% Elasthan
+- im Uni Design
 - Trocknen niedrige Temperatur, Bügeln wenig
 - Serie Cotton Essentials
 
