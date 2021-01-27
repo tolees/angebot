@@ -28,9 +28,9 @@ Sie können [ONLY Damen onlPAOLA HW SK DNM AZGZ878 NOOS Skinny Jeans  Blau  Dark
 ℹ️:
 
 - bewährte Only Qualität
+- mit schmalem Beinverlauf und hoher Leibhöhe
 - Klassische 5-Pocket Jeans
 - Stretchanteil
 - Only Skinny Jeans
-- mit schmalem Beinverlauf und hoher Leibhöhe
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07F7Q47QB/?tag=tolees0ca-21)

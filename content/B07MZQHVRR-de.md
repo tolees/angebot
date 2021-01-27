@@ -27,9 +27,9 @@ Sie können [Funko 39894 POP Rides Lord of The Rings S5: Witch King w/Fellbeast 
 
 ℹ️:
 
-- POP! Rides: The Lord of the Rings S5: Witch King w/ Fellbeast
-- Vinyl
 - Witch King
 - Lord of the Rings
+- POP! Rides: The Lord of the Rings S5: Witch King w/ Fellbeast
+- Vinyl
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MZQHVRR/?tag=tolees0ca-21)

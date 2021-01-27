@@ -28,9 +28,9 @@ Es gibt ein [LLOYD Herren Osmond Derbys  Schwarz  Schwarz   43 EU](https://www.a
 ℹ️:
 
 - Schuhspitze: rund
+- Innensohle: Leder, weich gepolstert
 - Absatzhöhe: 0 - 3 cm
 - Passform: normal
 - Muster: Uni
-- Innensohle: Leder, weich gepolstert
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06XRJLZSL/?tag=tolees0ca-21)
