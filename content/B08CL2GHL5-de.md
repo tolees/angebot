@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi Electric Scooter Pro2  DE  Fal mit 20.41 % Rabatt'
-date: 2021-01-26 01:35:44
+date: 2021-01-27 02:43:49
 image: 'https://m.media-amazon.com/images/I/21bKoC1qzWL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B08CL2GHL5/?tag=tolees0ca-21'
 descuento: '20.41'
-average: '544.4759375'
+average: '541.217575757575'
 ---
 
 Sie können [Xiaomi Mi Electric Scooter Pro2  DE  Faltbarer E-Scooter mit Straßenzulassung + Appanbindung aus Luftfahrtaluminium  max Geschwindigkeit 20km/h  max Reichweite 45km  max Belastung 100kg  LED Anzeige ](https://www.amazon.de/dp/B08CL2GHL5/?tag=tolees0ca-21) mit Preis 436.95 EUR (original: 549.0 EUR) 20.41 % Rabatt hier:
@@ -27,15 +27,15 @@ Sie können [Xiaomi Mi Electric Scooter Pro2  DE  Faltbarer E-Scooter mit Straß
 
 ℹ️:
 
-- Bremslicht hinten, Frontlicht vorne und seitliche Reflektoren
-- 474Wh Lithium Ionen Akku mit ultra langer Reichweite von bis zu 45km (abhängig von Straßengegebenheiten, Körpergröße & -gewicht)
-- LED Anzeige für Geschwindigkeit, Batteriestand und Fahrmodus
 - Klappbar und leicht zu transportieren dank einem Gewicht von lediglich 14,2kg
-- Maximale Geschwindigkeit von 20km/h
 - 8,5" Luftreifen für ein sicheres Fahrgefühl
-- Intuitive und einfache Bedienung
-- E-Scooter mit Straßenzulassung (ABE) zur Nutzung auf öffentlichen Straßen
+- Bremslicht hinten, Frontlicht vorne und seitliche Reflektoren
+- LED Anzeige für Geschwindigkeit, Batteriestand und Fahrmodus
 - Per iOS/Android Mi Home App Einstellungen verwalten und sperren
+- 474Wh Lithium Ionen Akku mit ultra langer Reichweite von bis zu 45km (abhängig von Straßengegebenheiten, Körpergröße & -gewicht)
 - Duales Bremssystem mit Bremsenergie-Rückgewinnung
+- E-Scooter mit Straßenzulassung (ABE) zur Nutzung auf öffentlichen Straßen
+- Maximale Geschwindigkeit von 20km/h
+- Intuitive und einfache Bedienung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08CL2GHL5/?tag=tolees0ca-21)

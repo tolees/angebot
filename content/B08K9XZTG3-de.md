@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - NEED FOR SPEED HOT PUR mit 16.01 % Rabatt'
-date: 2021-01-25 19:57:03
+date: 2021-01-27 02:52:03
 image: 'https://m.media-amazon.com/images/I/51JjBAOwBWL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B08K9XZTG3/?tag=tolees0ca-21'
 descuento: '16.01'
-average: '36.1461538461539'
+average: '34.1253333333334'
 ---
 
 Sie können [Electronic Arts - NEED FOR SPEED HOT PURSUIT REMASTERED - [Playstation 4]](https://www.amazon.de/dp/B08K9XZTG3/?tag=tolees0ca-21) mit Preis 20.99 EUR (original: 24.99 EUR) 16.01 % Rabatt hier:
