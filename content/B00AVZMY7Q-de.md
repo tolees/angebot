@@ -27,8 +27,8 @@ Sie können [Vans Herren Atwood Canvas Sneaker  Schwarz  Blk/Wht 187   43 EU](ht
 
 ℹ️:
 
+- Sohle: Gummi
 - Innenmaterial: Textil
 - Obermaterial: Canvas
-- Sohle: Gummi
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00AVZMY7Q/?tag=tolees0ca-21)

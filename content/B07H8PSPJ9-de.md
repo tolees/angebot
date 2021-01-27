@@ -28,9 +28,9 @@ Sie können [Xiaomi Original Mi Air Purifier Filter - Antibakterielle Version - 
 ℹ️:
 
 - E Version
-- Speziell entwickelte E Schicht kann es die Bakterien wirksam töten
 - Leistungsaufnahme: 1,5 W ~ 1,75 W, Unterstützung des globalen Spannungsbereichs: AC 100 V ~ 220 V, 50/60 Hz
 - Vierfache Reinigungseffekt mit brillanter absorptionsfähigkeit
 - Purifier Filter Hocheffizienter 3-schichten-
+- Speziell entwickelte E Schicht kann es die Bakterien wirksam töten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07H8PSPJ9/?tag=tolees0ca-21)

@@ -27,12 +27,12 @@ Es gibt ein [TP-Link TL-SG108 V3 8-Ports Gigabit Netzwerk Switch  bis 2000MBit/s
 
 ℹ️:
 
-- Flusskontrolle nach IEEE802.3x für zuverlässige Datenübertragung
-- Lieferumfang, TL-SG108, Schnellinstallationsanleitung, Netzteiladapter
-- 8 10/100/1000Mbit/s-RJ45-Ports mit Autoabstimmung und Auto-MDI/MDIX
-- Metallgehäuse für Tischaufbau oder Wandmontage
 - Green-Ethernet zum Energiesparen
 - Unterstützt QoS nach IEEE802.1p sowie IGMP-Snooping
 - Plug-and-Play, keine Konfiguration notwendig
+- 8 10/100/1000Mbit/s-RJ45-Ports mit Autoabstimmung und Auto-MDI/MDIX
+- Metallgehäuse für Tischaufbau oder Wandmontage
+- Flusskontrolle nach IEEE802.3x für zuverlässige Datenübertragung
+- Lieferumfang, TL-SG108, Schnellinstallationsanleitung, Netzteiladapter
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01EXDG2MO/?tag=tolees0ca-21)
