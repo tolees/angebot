@@ -1,29 +1,29 @@
 ---
 layout: post
-title: '19.97 % rabat auf Drahtloser Controller für PlayStation 4 '
-date: 2021-01-23 07:51:23
+title: '33.71 % rabat auf HPH - Drahtloser Controller für PlayStat'
+date: 2021-01-27 20:23:41
 image: 'https://m.media-amazon.com/images/I/41I5C5mb-NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0892MVJSB-de Drahtloser Controller für PlayStation 4 Camouflage Red...'
+slug: 'B0892MVJSB-de HPH - Drahtloser Controller für PlayStation 4 Camouflage...'
 sku: 'B0892MVJSB-de'
 tags: [  ]
-actualPrice: 24.0 EUR
+actualPrice: 19.88 EUR
 currency: EUR
-price: 24.0
+price: 19.88
 comparePrice: 29.99 EUR
-prodname: 'Drahtloser Controller für PlayStation 4  Camouflage Red  titanium gold blue'
+prodname: 'HPH - Drahtloser Controller für PlayStation 4  Camouflage Red  titanium gold blue'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B0892MVJSB/?tag=tolees0ca-21'
-descuento: '19.97'
-average: '29.353'
+descuento: '33.71'
+average: '28.6745833333333'
 ---
 
-Es gibt ein [Drahtloser Controller für PlayStation 4  Camouflage Red  titanium gold blue](https://www.amazon.de/dp/B0892MVJSB/?tag=tolees0ca-21) mit aktuellem Preis 24.0 EUR (original: 29.99 EUR) 19.97 % Rabatt hier:
+Es gibt ein [HPH - Drahtloser Controller für PlayStation 4  Camouflage Red  titanium gold blue](https://www.amazon.de/dp/B0892MVJSB/?tag=tolees0ca-21) mit aktuellem Preis 19.88 EUR (original: 29.99 EUR) 33.71 % Rabatt hier:
 
-[![Drahtloser Controller für PlayStation 4 ](https://m.media-amazon.com/images/I/41I5C5mb-NL._SL200_.jpg)](https://www.amazon.de/dp/B0892MVJSB/?tag=tolees0ca-21)
+[![HPH - Drahtloser Controller für PlayStat](https://m.media-amazon.com/images/I/41I5C5mb-NL._SL200_.jpg)](https://www.amazon.de/dp/B0892MVJSB/?tag=tolees0ca-21)
 
 ℹ️:
 
