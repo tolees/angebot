@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Original Mi Air Purifier Filter - mit 30.59 % Rabatt'
-date: 2021-01-26 07:17:05
+date: 2021-01-27 07:53:21
 image: 'https://m.media-amazon.com/images/I/41vzOBJjUmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Sie können [Xiaomi Original Mi Air Purifier Filter - Antibakterielle Version - 
 ℹ️:
 
 - Purifier Filter Hocheffizienter 3-schichten-
-- Leistungsaufnahme: 1,5 W ~ 1,75 W, Unterstützung des globalen Spannungsbereichs: AC 100 V ~ 220 V, 50/60 Hz
 - E Version
 - Vierfache Reinigungseffekt mit brillanter absorptionsfähigkeit
 - Speziell entwickelte E Schicht kann es die Bakterien wirksam töten
+- Leistungsaufnahme: 1,5 W ~ 1,75 W, Unterstützung des globalen Spannungsbereichs: AC 100 V ~ 220 V, 50/60 Hz
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07H8PSPJ9/?tag=tolees0ca-21)
