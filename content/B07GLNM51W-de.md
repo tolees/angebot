@@ -29,8 +29,8 @@ Sie können [Hot Wheels GBF97 - City Triceratops Angriff Dinosaurier Spielset mi
 
 - Ein Hot-Wheels-Fahrzeug in den Starter hineinstellen und auf den Triceratops schleudern, um ihn zu besiegen
 - Kinder müssen die notwendigen Fähigkeiten entwickeln und genug Kraft besitzen, um den riesigen Triceratops zu besiegen. Wenn der Dino das Gleichgewicht verliert, fällt er um. Die City ist gerettet
-- Der Wiederaufbau ist simpel: einfach die Hauptstraße nach unten drücken und den Triceratops erneut aufstellen
 - Wenn der Start nicht schnell genug war, wird der Triceratops die Hauptstraße zerstören
+- Der Wiederaufbau ist simpel: einfach die Hauptstraße nach unten drücken und den Triceratops erneut aufstellen
 - Kinder können ihr Können unter Beweis stellen, indem sie mit mehreren Die-Cast-Fahrzeugen gegen den riesigen Dino antreten – für spannendes Geschichtenerzählen und Geschicklichkeits-Training
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07GLNM51W/?tag=tolees0ca-21)
