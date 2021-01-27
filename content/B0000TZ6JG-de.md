@@ -27,10 +27,10 @@ Es gibt ein [Piatnik Tick Tack Bumm](https://www.amazon.de/dp/B0000TZ6JG/?tag=to
 
 ℹ️:
 
-- <b>Spieldauer:</b> beliebig
 - <b>Auszeichnungen Spiele:</b> Ausländische Auszeichnungen
-- <b>Autor Spiele:</b> Rodriguez, Los
 - <b>Warnhinweis:</b> Achtung! Nicht für Kinder unter 36 Monaten geeignet
 - <b>Sprache Spielanleitung:</b> DE
+- <b>Autor Spiele:</b> Rodriguez, Los
+- <b>Spieldauer:</b> beliebig
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0000TZ6JG/?tag=tolees0ca-21)

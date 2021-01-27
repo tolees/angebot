@@ -27,8 +27,8 @@ Sie können [LEGO 10922 DUPLO Disney Princess Arielles Unterwasserschloss mit Ar
 
 ℹ️:
 
-- Kleinkinder ab 2 Jahren können sich Arielle und Fabius dem Doktorfisch von Disneys Arielle, die Meerjungfrau auf einem Unterwasser-Spielplatz voller Überraschungen anschließen
 - Enthält Disney Prinzessin Arielle die Meerjungfrau und den Doktorfisch Fabius zum Spielen sowie ein Musikinstrument, eine Haarbürste und Blumen
+- Kleinkinder ab 2 Jahren können sich Arielle und Fabius dem Doktorfisch von Disneys Arielle, die Meerjungfrau auf einem Unterwasser-Spielplatz voller Überraschungen anschließen
 - Kinder entwickeln ihre Feinmotorik und ihr kreatives Denken, indem sie mit großen Elementen spielen, die für kleine Hände einfach zu handhaben sind
 - Vorschulkinder können auf der Rutsche spielen, so tun, als ob sie auf dem Xylophon Musik machen würden, und die versunkene Schatzkiste aufschließen, während sie das Schloss wieder aufbauen
 - Das Set verfügt über ein Schlossgelände mit Turm und Tor sowie ein Karussell, eine Rutsche und eine zu öffnende Kiste
