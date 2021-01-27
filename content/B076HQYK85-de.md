@@ -28,7 +28,7 @@ Sie können [adidas Herren Core 18 Hose  schwarz  Black/White   L](https://www.a
 ℹ️:
 
 - Elastic waistband with lanyard
-- Regular Fit
 - Front pockets
+- Regular Fit
 
 [🛒 Hier!!](https://www.amazon.de/dp/B076HQYK85/?tag=tolees0ca-21)

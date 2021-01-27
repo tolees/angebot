@@ -27,10 +27,10 @@ Es gibt ein [s.Oliver Damen Strickjacke in Unicolor navy 40](https://www.amazon.
 
 ℹ️:
 
-- Ohne Verschluss
-- Geschmeidiger Griff
-- Label Plate
 - Gerader Saum
+- Geschmeidiger Griff
 - Keine Angabe
+- Label Plate
+- Ohne Verschluss
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07XNHG4ZN/?tag=tolees0ca-21)

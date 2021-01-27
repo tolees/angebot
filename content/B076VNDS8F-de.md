@@ -27,10 +27,10 @@ Es gibt ein [Sony SEL-24105G G Standard Zoom-Objektiv  24-105 mm  F4  OSS  Vollf
 
 ℹ️:
 
-- Drei ED-Glaselemente (Extra-low Dispersion) vermeiden chromatische Aberrationen und ermöglichen extrem hohe Auflösung. Nano Coating verhindert Geistereffekte und Lichtreflektionen
-- Hochmoderner und präziser Autofokus mit Direct Drive SSM und mit 663 Gramm das leichteste Objektiv seiner Klasse
 - Brennweitenbereich zwischen 24 und 105 Millimetern bietet eine herausragende Bildqualität in einem leichten, kompakten Design
 - Lieferumfang: Kappe (Modell): ALC-SH152, Vordere Objektivkappe: ALC-F77S, Hintere Objektivkappe: ALC-R1EM, Tasche
+- Hochmoderner und präziser Autofokus mit Direct Drive SSM und mit 663 Gramm das leichteste Objektiv seiner Klasse
 - Vier asphärischen Objektivelemente, inkl. zwei präziser AA-Objektivelemente (Advanced Aspherical). Sichtwinkel (35 mm): 84°–23°
+- Drei ED-Glaselemente (Extra-low Dispersion) vermeiden chromatische Aberrationen und ermöglichen extrem hohe Auflösung. Nano Coating verhindert Geistereffekte und Lichtreflektionen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B076VNDS8F/?tag=tolees0ca-21)
