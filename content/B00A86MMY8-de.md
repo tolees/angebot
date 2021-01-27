@@ -27,10 +27,10 @@ Es gibt ein [Delkin Fat Gecko Triple Mount Saugstativ](https://www.amazon.de/dp/
 
 ℹ️:
 
-- 3 Saugnäpfe für ultrastarken Halt
-- Tragkraft: 5kg
-- schwingungsarm
 - Lieferumfang:Delkin "FAT GECKO" Triple Mount Saugstativ
+- schwingungsarm
+- 3 Saugnäpfe für ultrastarken Halt
 - geeignet für Camcorder, digitale Spiegelreflexkameras, Systemkameras, Kompaktkameras
+- Tragkraft: 5kg
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00A86MMY8/?tag=tolees0ca-21)
