@@ -28,8 +28,8 @@ Es gibt ein [Nintendo NINTENDO NES Console Bi-fold Wallet  Multi-Colour  MW27070
 ℹ️:
 
 - Offizielles Nintendo-Lizenzprodukt
+- Kartenfächer und ausklappbares Ausweisfach
 - Premium-Qualität
 - 70 % PU/30 % Polyester
-- Kartenfächer und ausklappbares Ausweisfach
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B078MGGWBZ/?tag=tolees0ca-21)

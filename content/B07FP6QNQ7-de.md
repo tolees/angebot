@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42096 Technic Porsche 911 RSR  Renn mit 17.93 % Rabatt'
-date: 2021-01-27 22:15:56
+date: 2021-01-28 22:39:11
 image: 'https://m.media-amazon.com/images/I/51Iy4eoEOAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07FP6QNQ7/?tag=tolees0ca-21'
 descuento: '17.93'
-average: '115.82'
+average: '115.845272727272'
 ---
 
 Sie können [LEGO 42096 Technic Porsche 911 RSR  Rennauto Bausatz für Fortgeschrittene  exklusives Sammlerstück](https://www.amazon.de/dp/B07FP6QNQ7/?tag=tolees0ca-21) mit Preis 119.99 EUR (original: 146.21 EUR) 17.93 % Rabatt hier:
@@ -27,10 +27,10 @@ Sie können [LEGO 42096 Technic Porsche 911 RSR  Rennauto Bausatz für Fortgesch
 
 ℹ️:
 
+- Sieh dir den Sechszylinder-Boxermotor mit beweglichen Kolben an
 - Die Nachbildung des Porsche 911 RSR besticht durch eine Fülle auThentischer Eigenschaften wie den Heckflügel mit Schwanenhalsanbindung, den Heckdiffuser und die aerodynamischen Seitenspiegel sowie schwarze Felgen und realistische Vorder- und Rücklichter
+- Öffne die Türen und greife auf das Cockpit zu, das mit vielen realistischen Details wie einer Radarüberwachung, einer funktionstüchtigen Lenkung, Feuerlöschanlage und Streckenkarte der Leguna Seca Rennstrecke auf der Innenseite der Fahrertür besticht
 - Dieses Set enthält 1.580 Teile; Das Modell verfügt außerdem über ein detailreiches Cockpit, ein sichtbares funktionstüchtiges Differential, Einzelradaufhängung und einen Sechszylinder-Boxermotor mit beweglichen, vor der Hinterachse platzierten Kolben
 - Dieses Spielzeugauto zum Sammeln überzeugt mit einer auThentischen Farbgebung in Weiß, Rot und Schwarz sowie einem Aufkleberbogen für weitere Details
-- Öffne die Türen und greife auf das Cockpit zu, das mit vielen realistischen Details wie einer Radarüberwachung, einer funktionstüchtigen Lenkung, Feuerlöschanlage und Streckenkarte der Leguna Seca Rennstrecke auf der Innenseite der Fahrertür besticht
-- Sieh dir den Sechszylinder-Boxermotor mit beweglichen Kolben an
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FP6QNQ7/?tag=tolees0ca-21)
