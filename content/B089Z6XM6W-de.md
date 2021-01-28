@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '50.01 % rabat auf Electronic Arts - FIFA 21 Standard Xbox '
-date: 2021-01-27 02:51:49
+date: 2021-01-28 07:53:40
 image: 'https://m.media-amazon.com/images/I/412Ec6CUyQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B089Z6XM6W/?tag=tolees0ca-21'
 descuento: '50.01'
-average: '46.2036363636364'
+average: '45.8738235294118'
 ---
 
 Es gibt ein [Electronic Arts - FIFA 21 Standard Xbox One - Download Code [inkl. kostenlosem Upgrade auf Xbox Series X]](https://www.amazon.de/dp/B089Z6XM6W/?tag=tolees0ca-21) mit aktuellem Preis 34.99 EUR (original: 69.99 EUR) 50.01 % Rabatt hier:
