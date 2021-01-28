@@ -27,9 +27,9 @@ Es gibt ein [Sylvanian Families - 5059 - Bären: Familie Pelzig](https://www.ama
 
 ℹ️:
 
-- Bewegliche Püppchen mit samtigem Fell
 - Tierfamilie bestehend aus 4 Figuren der Familie Pelzig: Vater, Mutter, Bruder und Schwester
 - Größe einer Ankleidepuppe ca. 6-8 cm
+- Bewegliche Püppchen mit samtigem Fell
 - Geeignet für Kinder ab 3 Jahren
 - Schönes Geburtstagsgeschenk für Mädchen
 
