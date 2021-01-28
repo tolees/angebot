@@ -29,8 +29,8 @@ Es gibt ein [Polk Audio TL1600 5.1 Lautsprecher-System mit Subwoofer  schwarz](h
 
 - 125W an 8 Ohm; 40Hz - 27kHz; 6,5 Zoll Polymerkomposit Mittel- und Tieftöner; PowerPort und ARC-Port
 - Lieferumfang: Polk Audio RTi A3 Regal-Lautsprecher schwarz, Bespannung, Bedienungsanleitung, Anti-Rutsch-Pads
+- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
 - 1 Zoll Seidenpolymerkomposit Hochtöner
 - Hochwertiger Regallautsprecher, für Stereo-Musikgenuss
-- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004AHLQVQ/?tag=tolees0ca-21)
