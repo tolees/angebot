@@ -27,10 +27,10 @@ Es gibt ein [Jelly Comb Kabellose Beleuchtete Tastatur  Bluetooth Funktastatur m
 
 ℹ️:
 
-- Lieferumfang: Im Lieferumfang enthält 1 x Tablet Tastatur, 1 x USB C Ladekabel, 1 x Bedienungsanleitung, 1 x Silikonfolie.
 - Bluetooth Verbindung Mit 3 Kanälen: durch Bluetooth 5.1 ermöglicht der wireless Keyboard eine schnellere und stabile Verbindung ohne Kabel bis zu 10m. Mit 3 Bluetooth Kanälen ausgestattet, daher können Sie die Tastatur gleichzeitig mit 3 Geräten verbinden und durch die Umschalter-Taste leicht und schnell dazwischen wechseln.
-- Ergonomisches Design für mehrere TABs: Abmessung der Tastatur: 16.99cm*29.49cm*1.06-1.7cm . Nettogewicht beträgt 820g. Sie können Ihr Tablet und Handy in die Rille einlegen, wegen dem Gewicht wird die Tastatur nicht herunterfallen, obwohl Sie ein iPad Pro 12,9" in die Rille einsetzen.
 - Tastatur Beleuchtet & Wiederaufladbar: bei der Bluetooth Tastatur ist 7-farbigen Beleuchtung verfügbar, 3 Helligkeit-Stufen lassen sich einstellen. Mit einer großen Kapazität von 1000mAh ermöglicht die Tastatur eine Arbeitszeit bis zu 660 Stunden ohne Beleuchtung, 5 Stunden mit helligster Beleuchtung. Ladezeit dauert 2 Stunden.
+- Ergonomisches Design für mehrere TABs: Abmessung der Tastatur: 16.99cm*29.49cm*1.06-1.7cm . Nettogewicht beträgt 820g. Sie können Ihr Tablet und Handy in die Rille einlegen, wegen dem Gewicht wird die Tastatur nicht herunterfallen, obwohl Sie ein iPad Pro 12,9" in die Rille einsetzen.
+- Lieferumfang: Im Lieferumfang enthält 1 x Tablet Tastatur, 1 x USB C Ladekabel, 1 x Bedienungsanleitung, 1 x Silikonfolie.
 - Kompatibilität: diese Funktastatur ist mit iPad OS, MacOS, Android Tablet z.B. Samsung Galaxy Tab, Huawei MatePad, FireTab und Microsoft Surface kompatibel.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08GFC38LY/?tag=tolees0ca-21)

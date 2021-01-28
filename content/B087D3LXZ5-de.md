@@ -28,9 +28,9 @@ Sie können [Jack Wolfskin Damen CRYSTAL PALACE JACKET W winddichte Daunenjacke 
 ℹ️:
 
 - Pfc-frei
-- Mit Kapuze
+- Sehr warm
 - Winddicht, wasserabweisend
 - Daunenjacke
-- Sehr warm
+- Mit Kapuze
 
 [🛒 Hier!!](https://www.amazon.de/dp/B087D3LXZ5/?tag=tolees0ca-21)

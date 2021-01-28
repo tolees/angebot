@@ -27,8 +27,8 @@ Sie können [Lego Creator - LEGO 31102 Creator 3-in-1 Feuerdrache  Feuerdrache -
 
 ℹ️:
 
-- Enthält eine Schatzkiste mit einer goldenen Kette, Edelsteinen und einem Schwert
 - Der giftige Skorpion verfügt über bewegliche Beine, Zangen und den berühmten tödlichen Schwanzvorwärts über den Rücken gebogen, gekrönt von seinem giftigen Stachel
+- Enthält eine Schatzkiste mit einer goldenen Kette, Edelsteinen und einem Schwert
 - Das 3-in-1-Set enthält ein aktionreiches Tiere-Spielzeug aus Fantasie und Wirklichkeit: einen furchterregenden, feuerspeienden Drachen, einen Säbelzahntiger und einen Skorpion
 - Das Drachenspielzeug hat einen beweglichen Kopf, Kiefer, Beine, Schwanz, Flügel und Klauen, und wenn Flammen aus seinem Mund kommen, ist er wirklich der Mächtigste
 - Der Säbelzahntiger mit einem markanten Paar langer, messerscharfer Eckzähne hat bewegliche Glidmaßen, einen beweglichen Kopf und ein bewegliches Unterkiefer, um seine Beute anzubrüllen
