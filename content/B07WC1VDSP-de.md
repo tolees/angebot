@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42108 Technic Kran-LKW  Spielzeug   mit 19.99 % Rabatt'
-date: 2021-01-26 20:20:32
+date: 2021-01-28 01:39:57
 image: 'https://m.media-amazon.com/images/I/51CkclEiWiL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07WC1VDSP/?tag=tolees0ca-21'
 descuento: '19.99'
-average: '75.1334911242606'
+average: '75.1502941176473'
 ---
 
 Sie können [LEGO 42108 Technic Kran-LKW  Spielzeug  Bausatz für Baufahrzeuge](https://www.amazon.de/dp/B07WC1VDSP/?tag=tolees0ca-21) mit Preis 77.99 EUR (original: 97.47 EUR) 19.99 % Rabatt hier:
@@ -27,10 +27,10 @@ Sie können [LEGO 42108 Technic Kran-LKW  Spielzeug  Bausatz für Baufahrzeuge](
 
 ℹ️:
 
+- Dieses technisch fortgeschrittene Spielzeugmodell ist eine Herausforderung für junge Fans von Baumaschinen, aber mit Anleitung dennoch einfach zu bauen
 - Das klassische schwarz-gelbe Design sieht genauso aus wie das Original, während Fans erforschen, was all die verschiedenen fantastischen Funktionen leisten können
 - Die Kabine des Kranführers ist drehbar und der Hydraulikmechanismus hebt den Arm um 70° an, während Kranblöcke und Seile die schwere Ladung mühelos anheben
-- Das Kran-LKW-Spielzeug verfügt über eine 8-Rad-Lenkung, vier einzeln steuerbare Stützfüße, zwei Kabinen und einen superhohen Teleskopausleger von 78 cm Länge
 - Um zu sehen, wie ein echter Kran funktioniert: Fahre den Ausleger aus und hebe ihn an, hebe dann die Betonsäule an und versuche schließlich, ihn präzise abzustellen
-- Dieses technisch fortgeschrittene Spielzeugmodell ist eine Herausforderung für junge Fans von Baumaschinen, aber mit Anleitung dennoch einfach zu bauen
+- Das Kran-LKW-Spielzeug verfügt über eine 8-Rad-Lenkung, vier einzeln steuerbare Stützfüße, zwei Kabinen und einen superhohen Teleskopausleger von 78 cm Länge
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07WC1VDSP/?tag=tolees0ca-21)
