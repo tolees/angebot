@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '62.96 % rabat auf Eastpak Springer Gürteltasche  23 cm  2 '
-date: 2021-01-26 14:47:11
+date: 2021-01-28 05:49:22
 image: 'https://m.media-amazon.com/images/I/31nYS0O8jtL._SL200_.jpg'
 comments: true
 category: ofertas
