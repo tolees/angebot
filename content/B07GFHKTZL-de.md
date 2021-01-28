@@ -28,9 +28,9 @@ Sie können [Sublevel Damen Winter-Jacke mit Kapuze warm gefüttert Blue L](http
 ℹ️:
 
 - LOOK: Stylisch auch im Winter unterwegs. Kein Problem mit der sportlichen Jacke, die warm gefüttert ist und zudem auch noch gut aussieht.
-- FARBE BLUE BITTE EINE NUMMER GRÖSSER BESTELLEN!
-- DETAILS: Rippbündchen am Saum ✔ Rippbündchen mit Daumenloch ✔ Stehkragen ✔ 2 Leistentaschen ✔ Schräger Reißverschluss ✔ Innen gesteppt ✔ 2 Innentaschen ✔
 - PASSFORM: Sie ist schön tailliert und sehr bequem. Durch die innen liegende Längs-Steppung und das glatte Material gleitet die Jacke über jedes Shirt und jeden Pulli.
+- DETAILS: Rippbündchen am Saum ✔ Rippbündchen mit Daumenloch ✔ Stehkragen ✔ 2 Leistentaschen ✔ Schräger Reißverschluss ✔ Innen gesteppt ✔ 2 Innentaschen ✔
+- FARBE BLUE BITTE EINE NUMMER GRÖSSER BESTELLEN!
 - MATERIAL: Robustes und wetterfestes Material. Die Storm Cuffs und die Kapuze sind wunderbar in die Jacke eingearbeitet.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07GFHKTZL/?tag=tolees0ca-21)

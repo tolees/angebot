@@ -27,8 +27,8 @@ Sie können [Playmobil 6933 - Voltigier-Training](https://www.amazon.de/dp/B06W5
 
 ℹ️:
 
-- Die Hand-in-Hand-Stücke ermöglichen den Figuren einen Handstand übereinander
-- Mit 2 Figuren, 1 Pferd und viel Zubehör
 - Mit Voltigiersattel viele Akrobatik-Kunststücke möglich
+- Mit 2 Figuren, 1 Pferd und viel Zubehör
+- Die Hand-in-Hand-Stücke ermöglichen den Figuren einen Handstand übereinander
 
 [🛒 Hier!!](https://www.amazon.de/dp/B06W5XHTTS/?tag=tolees0ca-21)
