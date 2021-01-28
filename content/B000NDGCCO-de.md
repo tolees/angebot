@@ -27,8 +27,8 @@ Es gibt ein [Eastpak Springer Gürteltasche  23 cm  2 L  Schwarz  Black ](https:
 
 ℹ️:
 
-- Höhe: 16,5 cm, Breite: 23 cm, Tiefe: 8,5 cm
-- Hauptfach mit separatem Abteil für Bargeld oder Karten, das mit Reißverschluss verschließbar ist
 - Aus 100 Prozent Nylon
+- Hauptfach mit separatem Abteil für Bargeld oder Karten, das mit Reißverschluss verschließbar ist
+- Höhe: 16,5 cm, Breite: 23 cm, Tiefe: 8,5 cm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000NDGCCO/?tag=tolees0ca-21)
