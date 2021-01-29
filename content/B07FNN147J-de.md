@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21044 Architecture Paris  Modell mi mit 22.04 % Rabatt'
-date: 2021-01-28 01:46:01
+date: 2021-01-29 02:40:39
 image: 'https://m.media-amazon.com/images/I/51Z5jQEdUOL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07FNN147J/?tag=tolees0ca-21'
 descuento: '22.04'
-average: '37.4514393939394'
+average: '37.4554887218045'
 ---
 
 Sie können [LEGO 21044 Architecture Paris  Modell mit Eiffelturm und Louvre  Skyline-Kollektion  Geschenkidee für Sammler](https://www.amazon.de/dp/B07FNN147J/?tag=tolees0ca-21) mit Preis 37.99 EUR (original: 48.73 EUR) 22.04 % Rabatt hier:
@@ -27,8 +27,8 @@ Sie können [LEGO 21044 Architecture Paris  Modell mit Eiffelturm und Louvre  Sk
 
 ℹ️:
 
-- Mit der LEGO Architecture Skyline-Kollektion lassen sich einige der weltweit aufregendsten Städte nachbilden
 - Das beiliegende Heft enthält Informationen über den Designer, die Architektur und die Geschichte der einzelnen Gebäude sowie historische Fakten zu Paris und dem architektonischen Erbe dieser berühmten Stadt (nur in französischer und englischer Sprache, Das Heft kann in anderen Sprachen auf LEGO.com/architecture heruntergeladen werden
+- Mit der LEGO Architecture Skyline-Kollektion lassen sich einige der weltweit aufregendsten Städte nachbilden
 - Ebenfalls enthalten: eine 4x32-Grundplatte mit dekorativem Namensschild „Paris“
 - Dieses Set enthält mehr als 649 Teile
 - Das Set ist 22 cm hoch, 28 cm breit und 11 cm tief
