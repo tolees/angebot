@@ -27,8 +27,8 @@ Sie können [Disney Classic Games: Aladdin and the Lion King NSW [](https://www.
 
 ℹ️:
 
+- einstellbare bildschirmseitenverhältnisse und Ränder
 - Anzeigeoptionen und aktualisierte Grafiken: 1080p-grafik und Verbesserungen für moderne hd-fernseher
 - benutzerdefinierte filteroptionen entwickelt fürs nachahmen klassischer röhrenfernseher und anderer gängiger bildschirmtypen
-- einstellbare bildschirmseitenverhältnisse und Ränder
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XFDXYLB/?tag=tolees0ca-21)

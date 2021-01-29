@@ -27,9 +27,9 @@ Sie können [GIESSWEIN Merino Runners Women - Atmungsaktive Sneaker für Damen a
 
 ℹ️:
 
+- ✅ aus 100% natürlicher Merinowolle
 - ✅ atmungsaktiv & barfuß tragbar
 - ✅ wechselbares Komfortfußbett
-- ✅ aus 100% natürlicher Merinowolle
 - ✅ bei 30°C waschbar
 - ✅ ultraleichte EVA-Sohle
 
