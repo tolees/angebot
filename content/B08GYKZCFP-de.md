@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '34.42 % rabat auf Samsung Clear View Smartphone Cover EF-Z'
-date: 2021-01-28 07:46:13
+date: 2021-01-29 08:25:58
 image: 'https://m.media-amazon.com/images/I/21Mpmx2WpdL._SL200_.jpg'
 comments: true
 category: ofertas

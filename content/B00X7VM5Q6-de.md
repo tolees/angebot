@@ -27,8 +27,8 @@ Es gibt ein [VERO MODA Female Hose Vmseven NW Smooth Coated M32Black](https://ww
 
 ℹ️:
 
-- Slim fit mit Stretch.
 - Normal waist.
+- Slim fit mit Stretch.
 - Materialzusammensetzung: 77% Viskose, 20% Nylon, 3% Elasthan
 - Glatt beschichtete Hose.
 
