@@ -27,11 +27,11 @@ Sie können [Xiaomi Mi 10T Smartphone + Kopfhörer  6 67" FHD+ TrueColor DotDisp
 
 ℹ️:
 
+- Mit den integrierten Alexa-Telefonen könnt ihr von unterwegs telefonieren, Apps öffnen, Smart-Home-Geräte steuern, auf die Bibliothek der Alexa-Fähigkeiten durch eure Stimme zugreifen und vieles mehr. Ladet die Alexa-App herunter und führt die Einrichtung der Freisprecheinrichtung durch, um loszulegen. Frag einfach - und Alexa wird dir sofort antworten
+- Im Mi 10T ist ein 5000mAh Akku verbaut, für längere Nutzungsdauer ohne aufladen zu müssen.
+- Das Mi 10T Pro besitzt einen AI 64MP Hauptsensor mit OIS, und kann Ultra-Weitwinkel-Photos sowie Landschaftsaufnahmen machen, Portrait Modus, und Macro Modus. Das Mi 10T Pro kommt mit einer 20mp Punch-Hole Selfiekamera.
+- Das Mi 10T wird über USB-C geladen und unterstützt bis zu 33W Fast-Charging. Ein 33W Schnellladeadapter ist im Lieferumfang enthalten.
 - Das Mi 10T besitzt ein 6.67" FHD+ DotDisplay mit TureColor, und mit einem 144Hz AdaptiveSync display für flüssigeres Scrollen und Browsen. Das Mi 10T verfügt über NFC, was kontaktloses Zahlen via Google Pay möglich macht.
 - Das Mi 10T verwendet den neusten 5G Qualcomm Snapdragon 865 Processor, und eine Octa-Core CPU. Das Mi 10T Pro verfügt darüber hinaus über einen seitlich im Power-Button untergebrachten Fingerprintsensor, der es erlaubt das Smartphone in der ganz natürlichen Handhaltung einfach von der Seite zu entsperren.
-- Mit den integrierten Alexa-Telefonen könnt ihr von unterwegs telefonieren, Apps öffnen, Smart-Home-Geräte steuern, auf die Bibliothek der Alexa-Fähigkeiten durch eure Stimme zugreifen und vieles mehr. Ladet die Alexa-App herunter und führt die Einrichtung der Freisprecheinrichtung durch, um loszulegen. Frag einfach - und Alexa wird dir sofort antworten
-- Das Mi 10T Pro besitzt einen AI 64MP Hauptsensor mit OIS, und kann Ultra-Weitwinkel-Photos sowie Landschaftsaufnahmen machen, Portrait Modus, und Macro Modus. Das Mi 10T Pro kommt mit einer 20mp Punch-Hole Selfiekamera.
-- Im Mi 10T ist ein 5000mAh Akku verbaut, für längere Nutzungsdauer ohne aufladen zu müssen.
-- Das Mi 10T wird über USB-C geladen und unterstützt bis zu 33W Fast-Charging. Ein 33W Schnellladeadapter ist im Lieferumfang enthalten.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08K3DJRSG/?tag=tolees0ca-21)

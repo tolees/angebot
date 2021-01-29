@@ -27,10 +27,10 @@ Sie können [PLAYMOBIL:THE MOVIE 70073 Charlie mit Gefängniswagen  Ab 5 Jahren]
 
 ℹ️:
 
-- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
-- Spielfiguren-Set für Kinder ab 5 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Spielspaß für kleine Leinwand-Fans & Ganoven: PLAYMOBIL:THE MOVIE Charlie mit Gefängniswagen, Falle und Gefängnisgang für detailgetreues Nachspielen
 - Balliste mit Bolzen-Schussfunktion, Verschließbare Gefängnistür, 4 Figuren, Kutsche mit 2 Pferden, uvm., Passend zu PLAYMOBIL:THE MOVIE Marla (70072)
+- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
+- Spielfiguren-Set für Kinder ab 5 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Lieferumfang: 1x PLAYMOBIL:THE MOVIE Charlie mit Gefängniswagen, 65-teiliges Spielfiguren-Set mit Anleitung: 1 Gefängniswagen, 4 Figuren, 60 Zubehörteile, Material: Kunststoff, LxBxH: 34.8x18.7x9 cm, Art.-Nr. 70073
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07P7KP5D3/?tag=tolees0ca-21)
