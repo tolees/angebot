@@ -29,7 +29,7 @@ Es gibt ein [ONLY Female Jacke Leder-Look 38Phantom](https://www.amazon.de/dp/B0
 
 - Kurze Jacke im leder-Look.
 - Reißverschlusstaschen.
-- Asymmetrischer Reißverschluss bis ganz nach unten.
 - Materialzusammensetzung: Außenmaterial: 100% Viskose; Futter: 100% Polyester
+- Asymmetrischer Reißverschluss bis ganz nach unten.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00V4UVDWO/?tag=tolees0ca-21)
