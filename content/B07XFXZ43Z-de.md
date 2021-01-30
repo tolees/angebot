@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 75278 Star Wars D-O Droide  Sammler mit 22.34 % Rabatt'
-date: 2021-01-29 08:24:54
+title: 'LEGO 75278 Star Wars D-O Droide  Sammler mit 19.35 % Rabatt'
+date: 2021-01-30 14:31:26
 image: 'https://m.media-amazon.com/images/I/51-l+A+5g7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,29 @@ author: ring
 slug: 'B07XFXZ43Z-de LEGO 75278 Star Wars D-O Droide Sammlermodell Bauset aus...'
 sku: 'B07XFXZ43Z-de'
 tags: [  ]
-actualPrice: 52.99 EUR
+actualPrice: 56.45 EUR
 currency: EUR
-price: 52.99
-comparePrice: 68.23 EUR
+price: 56.45
+comparePrice: 69.99 EUR
 prodname: 'LEGO 75278 Star Wars D-O Droide  Sammlermodell  Bauset aus Der Aufstieg Skywalkers'
 country: 'de'
 flag: '🇩🇪'
+brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07XFXZ43Z/?tag=tolees0ca-21'
-descuento: '22.34'
-average: '51.440223880597'
+descuento: '19.35'
+average: '51.4773333333333'
 ---
 
-Sie können [LEGO 75278 Star Wars D-O Droide  Sammlermodell  Bauset aus Der Aufstieg Skywalkers](https://www.amazon.de/dp/B07XFXZ43Z/?tag=tolees0ca-21) mit Preis 52.99 EUR (original: 68.23 EUR) 22.34 % Rabatt hier:
+Sie können [LEGO 75278 Star Wars D-O Droide  Sammlermodell  Bauset aus Der Aufstieg Skywalkers](https://www.amazon.de/dp/B07XFXZ43Z/?tag=tolees0ca-21) mit Preis 56.45 EUR (original: 69.99 EUR) 19.35 % Rabatt hier:
 
 [![LEGO 75278 Star Wars D-O Droide  Sammler](https://m.media-amazon.com/images/I/51-l+A+5g7L._SL200_.jpg)](https://www.amazon.de/dp/B07XFXZ43Z/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Der Droide D-O gehört zu einer fantastischen neuen LEGO Star Wars Reihe aus Baumodellen und Schaustücken (ab Januar 2020), zu der auch die Sets -Stormtrooper Helm- (75276) und -Boba Fett Helm- (75277) zählen
-- Fans können den liebenswerten Droiden D-O aus dem Film -Star Wars: Der Aufstieg Skywalkers- als Sammlerobjekt nachbauen und die authentischen Details nach LEGO Art nachbilden, um ein fantastisches Baumodell und Schaustück zu erschaffen
 - Das Modell verfügt über bewegliche Antennen, der Kopf des Droiden lässt sich so kippen und um 360 Grad drehen, wie wir es vom Star Wars Charakter kennen. Das Set enthält auch einen integrierten Ständer, ein Infoschild und D-O als Minifigur
+- Fans können den liebenswerten Droiden D-O aus dem Film -Star Wars: Der Aufstieg Skywalkers- als Sammlerobjekt nachbauen und die authentischen Details nach LEGO Art nachbilden, um ein fantastisches Baumodell und Schaustück zu erschaffen
 - Dieses coole 519-teilige LEGO Star Wars Bauspielzeug bereitet kreativen Star Wars Fans ab 10 Jahren riesige Freude und ist ein perfektes Geburtstags-, Weihnachts- oder Überraschungsgeschenk
+- Der Droide D-O gehört zu einer fantastischen neuen LEGO Star Wars Reihe aus Baumodellen und Schaustücken (ab Januar 2020), zu der auch die Sets -Stormtrooper Helm- (75276) und -Boba Fett Helm- (75277) zählen
 - Als Baumodell ist D-O 27 cm hoch, 10 cm breit und 16 cm tief. Obwohl der Droide nur wenig Platz beansprucht, beeindruckt er als spektakuläres Schaustück im Büro oder in den eigenen vier Wänden
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XFXZ43Z/?tag=tolees0ca-21)
