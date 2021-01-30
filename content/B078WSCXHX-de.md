@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '33.09 % rabat auf Sony UBP-X700 4K Ultra HD Blu-ray Disc P'
-date: 2021-01-29 20:31:52
+date: 2021-01-30 20:55:13
 image: 'https://m.media-amazon.com/images/I/21pokmSsDNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 269.0 EUR
 prodname: 'Sony UBP-X700 4K Ultra HD Blu-ray Disc Player  4K HDR  4K Streaming Dienste  Super Audio CDs  SACD   USB  WiFi  HDMI  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B078WSCXHX/?tag=tolees0ca-21'
 descuento: '33.09'
-average: '176.51724137931'
+average: '176.74064516129'
 ---
 
 Es gibt ein [Sony UBP-X700 4K Ultra HD Blu-ray Disc Player  4K HDR  4K Streaming Dienste  Super Audio CDs  SACD   USB  WiFi  HDMI  Schwarz](https://www.amazon.de/dp/B078WSCXHX/?tag=tolees0ca-21) mit aktuellem Preis 179.98 EUR (original: 269.0 EUR) 33.09 % Rabatt hier:
@@ -28,9 +29,9 @@ Es gibt ein [Sony UBP-X700 4K Ultra HD Blu-ray Disc Player  4K HDR  4K Streaming
 ℹ️:
 
 - Wiedergabe von Super Audio CDs (SACD)
-- Attraktives Design & flache Bauweise – die Schönheit findet sich in jedem Detail
-- Erleben Sie eine Welt des (4K) Streamings mithilfe des integrierten Wi-Fi. Standyby-modus Aktiviert: Nach 20 Minuten
 - Wiedergabe nahezu aller Disc- und Dateiformate, incl. Dolby Atmos und DTS:X Soundtracks, DSD, FLAC & MP3
 - Ultimatives 4K HDR Erlebnis mit HDR10 und Dolby Vision (Ab Juli 2018) für überragende Details, Farben und Helligkeit
+- Erleben Sie eine Welt des (4K) Streamings mithilfe des integrierten Wi-Fi. Standyby-modus Aktiviert: Nach 20 Minuten
+- Attraktives Design & flache Bauweise – die Schönheit findet sich in jedem Detail
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B078WSCXHX/?tag=tolees0ca-21)
