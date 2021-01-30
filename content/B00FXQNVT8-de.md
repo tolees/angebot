@@ -27,10 +27,10 @@ Es gibt ein [Pentel GmbH - Pentel XGFL-101X - Colour Brush  einzigartiger Pinsel
 
 ℹ️:
 
-- Innovativer Aquarellpinsel für Kalligrafie, Illustrationen & Skizzen
-- Nachfüllbar mit Ersatzpatrone FR
-- Die enthaltene Farbstofftinte auf Wasserbasis ist mit Wasser untereinander mischbar
 - Die strahlende Farbtinte fließt leicht, trocknet schnell und erzeugt transparente Aquarelleffekte
 - Hochwertige Nylon Pinselspitze für variable Strichbreiten von 1-10mm
+- Nachfüllbar mit Ersatzpatrone FR
+- Innovativer Aquarellpinsel für Kalligrafie, Illustrationen & Skizzen
+- Die enthaltene Farbstofftinte auf Wasserbasis ist mit Wasser untereinander mischbar
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00FXQNVT8/?tag=tolees0ca-21)

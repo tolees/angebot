@@ -1,34 +1,36 @@
 ---
 layout: post
-title: 'LEGO 75249 Star Wars Widerstands Y-Wing  mit 17.94 % Rabatt'
-date: 2021-01-16 18:26:43
+title: 'LEGO 75249 Star Wars Widerstands Y-Wing  mit 17.15 % Rabatt'
+date: 2021-01-30 03:00:44
 image: 'https://m.media-amazon.com/images/I/51Q88jSfO0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ND9TJF7-de'
-actualPrice: 55.99 EUR
+slug: 'B07ND9TJF7-de LEGO 75249 Star Wars Widerstands Y-Wing Starfighter Bauset...'
+sku: 'B07ND9TJF7-de'
+tags: [  ]
+actualPrice: 57.99 EUR
 currency: EUR
-price: 55.99
-comparePrice: 68.23 EUR
+price: 57.99
+comparePrice: 69.99 EUR
 prodname: 'LEGO 75249 Star Wars Widerstands Y-Wing Starfighter Bauset  Der Aufstieg Skywalkers Kollektion'
 country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07ND9TJF7/?tag=tolees0ca-21'
-descuento: '17.94'
-average: '55.937672413793095'
+descuento: '17.15'
+average: '56.1629032258065'
 ---
 
-Sie können [LEGO 75249 Star Wars Widerstands Y-Wing Starfighter Bauset  Der Aufstieg Skywalkers Kollektion](https://www.amazon.de/dp/B07ND9TJF7/?tag=tolees0ca-21) mit Preis 55.99 EUR (original: 68.23 EUR) 17.94 % Rabatt hier:
+Sie können [LEGO 75249 Star Wars Widerstands Y-Wing Starfighter Bauset  Der Aufstieg Skywalkers Kollektion](https://www.amazon.de/dp/B07ND9TJF7/?tag=tolees0ca-21) mit Preis 57.99 EUR (original: 69.99 EUR) 17.15 % Rabatt hier:
 
 [![LEGO 75249 Star Wars Widerstands Y-Wing ](https://m.media-amazon.com/images/I/51Q88jSfO0L._SL200_.jpg)](https://www.amazon.de/dp/B07ND9TJF7/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Das Modell Widerstands Y-Wing Starfighter kann Raketen abfeuern und Bomben abwerfen. Mit neuer Farbgestaltung (ab Oktober 2019), wie sie im Film Star Wars: Der Aufstieg Skywalkers zu sehen ist
 - Dieses Spielset enthält 5 Figuren von LEGO Star Wars: Poe Dameron, Zorii Bliss und einen Sturmtruppler der Ersten Ordnung als Minifiguren sowie LEGO Figuren von D-O und einem Astromech-Droiden
 - Dieser LEGO YWing-Sternenjäger – kurz Y-Flügler – ist mit tollen Funktionen ausgestattet, darunter ein aufklappbares Cockpit, Shooter mit Federmechanismus sowie Bombenelemente zum Abwerfen
 - Mit diesem anregenden Modell können fantastische Momente aus dem Blockbuster Star Wars: Der Aufstieg Skywalkers nachgespielt werden
-- Das Modell Widerstands Y-Wing Starfighter kann Raketen abfeuern und Bomben abwerfen. Mit neuer Farbgestaltung (ab Oktober 2019), wie sie im Film Star Wars: Der Aufstieg Skywalkers zu sehen ist
 - Der 578-teilige Spielzeug-Sternenjäger von LEGO Star Wars für Jungen und Mädchen ab 8 Jahren ist 7 cm hoch, 43 cm lang und 19 cm breit
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07ND9TJF7/?tag=tolees0ca-21)

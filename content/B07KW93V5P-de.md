@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOM TAILOR Herren Marvin Straight Jeans  mit 30.01 % Rabatt'
-date: 2021-01-29 02:28:32
+date: 2021-01-30 03:04:58
 image: 'https://m.media-amazon.com/images/I/41iinZK6vsL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B07KW93V5P/?tag=tolees0ca-21'
 descuento: '30.01'
-average: '35.99'
+average: '35.7042857142857'
 ---
 
 Sie können [TOM TAILOR Herren Marvin Straight Jeans  Blau  Mid Stone Wash Denim 785   38W / 32L](https://www.amazon.de/dp/B07KW93V5P/?tag=tolees0ca-21) mit Preis 34.99 EUR (original: 49.99 EUR) 30.01 % Rabatt hier:
