@@ -28,10 +28,10 @@ Sie können [Tommy Hilfiger Herren Tommy Logo Hoody Sweatshirt  Schwarz  Jet Bla
 
 ℹ️:
 
-- Pflegehinweis: Maschinenwäsche
-- Regular Fit
-- Kragenform: Kapuze
-- 64% Baumwolle, 36% Polyester
 - Langarm
+- Regular Fit
+- 64% Baumwolle, 36% Polyester
+- Kragenform: Kapuze
+- Pflegehinweis: Maschinenwäsche
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07QR6TG95/?tag=tolees0ca-21)

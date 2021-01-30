@@ -28,10 +28,10 @@ Sie können [HYBRID Dual Metallic Gel-Tintenroller  verschiedene Farben  8 Stü
 
 ℹ️:
 
-- Each pen produces a different shade on dark or light coloured paper
-- Perfect for cards, decorations, pictures, drawings and designs
-- Irresistibly smooth
-- See two different colours at different angles
 - 8 Shimmering metallic pens
+- See two different colours at different angles
+- Perfect for cards, decorations, pictures, drawings and designs
+- Each pen produces a different shade on dark or light coloured paper
+- Irresistibly smooth
 
 [🛒 Hier!!](https://www.amazon.de/dp/B06XPDTR9C/?tag=tolees0ca-21)
