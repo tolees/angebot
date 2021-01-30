@@ -28,9 +28,9 @@ Sie können [PLAYMOBIL 70344 Kleine Pandas im Freigehege  ab 4 Jahren](https://w
 
 ℹ️:
 
-- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Spielspaß als Einzelartikel oder Ergänzung für den großen Erlebnis-Zoo (# 70341) und dem Erweiterungsset Erlebnis-Zoo (#70348).
-- Der Opa besucht mit seinen Enkeln die kleinen Pandas im Freigehege. Der Kindersitz ist aus dem Bollerwagen herausnehmbar.
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
+- Der Opa besucht mit seinen Enkeln die kleinen Pandas im Freigehege. Der Kindersitz ist aus dem Bollerwagen herausnehmbar.
+- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0829JL1SS/?tag=tolees0ca-21)

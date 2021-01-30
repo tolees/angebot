@@ -28,10 +28,10 @@ Es gibt ein [Sony Vlog-Kamera ZV-1  Digitalkamera  24-70mm  seitlich klappbares 
 
 ℹ️:
 
+- Mit Product Showcase Setting werden Videorezensionen perfekt aufgenommen und mit Bokeh Switch kann die Hintergrundunschärfe ganz einfach angepasst werden.
+- Die ZV-1 eignet sich mit dem seitlich klappbaren LC-Display, dem Aufnahmelicht für Selfie-Videos, dem sicheren Haltegriff und der einfachen Bedienung perfekt für Vlogging.
+- Diese Premium Kamera gibt Hauttöne mit Soft Skin Effect weich und natürlich wieder und sorgt für eine optimale Gesichtsausleuchtung.
 - Die Kamera verfügt über ein direktionales 3-Kapsel-Mikrofon und einen Windschutz für hochqualitativen Sound.
 - Die innovative Echtzeit-Autofokus-Technologie mit Augenerkennung von Sony verfolgt die Augen selbst bei der Aufnahme von 4K Videos kontinuierlich.
-- Die ZV-1 eignet sich mit dem seitlich klappbaren LC-Display, dem Aufnahmelicht für Selfie-Videos, dem sicheren Haltegriff und der einfachen Bedienung perfekt für Vlogging.
-- Mit Product Showcase Setting werden Videorezensionen perfekt aufgenommen und mit Bokeh Switch kann die Hintergrundunschärfe ganz einfach angepasst werden.
-- Diese Premium Kamera gibt Hauttöne mit Soft Skin Effect weich und natürlich wieder und sorgt für eine optimale Gesichtsausleuchtung.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B088S2CNFC/?tag=tolees0ca-21)
