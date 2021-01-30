@@ -28,15 +28,15 @@ Sie können [Xiaomi Mi Smart TV 4S 43 Zoll  4K Ultra HD  Triple Tuner  Android T
 
 ℹ️:
 
+- 2GB Arbeitsspeicher für schnelles Umschalten und flüssige Darstellung / interner Speicher 8 GB
+- Auflösung: 3. 840 x 2. 160 Pixel (4K/Ultra HD) - HDR und MEMC Unterstützung
+- Digitaler Empfang: HD Triple Tuner für DVB-S2, DVB-C und DVB-T2 mit HEVC
+- Größe mit Standfüße (BxTxH): 960 x 208 x 608mm, Größe ohne Standfüße (BxTxH): 960 x 81 x 557mm
+- Android TV 9. 0 mit Google Assistent und Zugriff auf den Google Playstore
 - Typ: 4K UHD TV - 43 Zoll (108cm), Flat, LED Fernseher, Rahmen: Aluminium Design
 - Garantie und Service für Deutschland, Österreich und Schweiz
-- 3x HDMI 2.0, 3x USB 2.0, AV Input, Ethernet LAN (RJ45), WLAN, Optischer Audioausgang, Kopfhörerausgang, CI+ Slot
-- Größe mit Standfüße (BxTxH): 960 x 208 x 608mm, Größe ohne Standfüße (BxTxH): 960 x 81 x 557mm
-- 2GB Arbeitsspeicher für schnelles Umschalten und flüssige Darstellung / interner Speicher 8 GB
-- Digitaler Empfang: HD Triple Tuner für DVB-S2, DVB-C und DVB-T2 mit HEVC
-- Auflösung: 3. 840 x 2. 160 Pixel (4K/Ultra HD) - HDR und MEMC Unterstützung
 - Bluetooth Fernbedienung mit Mikrofon, Prime Video und Netflix Taste
+- 3x HDMI 2.0, 3x USB 2.0, AV Input, Ethernet LAN (RJ45), WLAN, Optischer Audioausgang, Kopfhörerausgang, CI+ Slot
 - HbbTV 2.0, Streaming Dienste: Prime Video, Netflix, YouTube, uvm.
-- Android TV 9. 0 mit Google Assistent und Zugriff auf den Google Playstore
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07X5CWWQN/?tag=tolees0ca-21)
