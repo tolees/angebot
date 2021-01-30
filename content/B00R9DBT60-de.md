@@ -28,10 +28,10 @@ Es gibt ein [Hasbro Gaming - Hasbro Wer ist es? Kompaktes Reisespiel  deutsche V
 
 ℹ️:
 
-- Förderung von logischen Denken
-- Denkspiel
 - Überall spielbar
+- Denkspiel
 - 2 Spieler
 - Ab 6 Jahren
+- Förderung von logischen Denken
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00R9DBT60/?tag=tolees0ca-21)
