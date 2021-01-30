@@ -28,8 +28,8 @@ Es gibt ein [Proxxon 27130 MICRO-Heißluftpistole MH 550 mit 3 Zusatzdüsen](htt
 
 ℹ️:
 
-- Zum Trocknen und Beschleunigen von Aushärtungsvorgängen (Klebstoffe, Farben). Zum Aufbringen und Entfernen von Folien (Aufklebern). Zum Bräunen von Holz
 - Zum Schrumpfen von Schläuchen, Verformen und Verschweißen von Kunststoff, Löten und Entlöten elektronischer Bauteile. Zum Entfernen von Farb- und Lackschichten ohne chemische Keule (Abbeitzer)
+- Zum Trocknen und Beschleunigen von Aushärtungsvorgängen (Klebstoffe, Farben). Zum Aufbringen und Entfernen von Folien (Aufklebern). Zum Bräunen von Holz
 - Zum Schrumpfen von Schläuchen (viele andere Geräte sind dafür zu groß) und 1.000 andere Arbeiten. Klein, robust und leistungsstark. Komplett mit 3 Zusatzdüsen
 - Technische Daten:Anschlußspannung: 220 - 240V, Leistung 500Watt, Lufttemperatur in Stufe 1: 350 °C. Stufe 2: 550 °C. Luftmenge ca. 180 l/min. Gewicht ca. 500 g
 

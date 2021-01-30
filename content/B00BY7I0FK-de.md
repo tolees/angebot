@@ -28,9 +28,9 @@ Es gibt ein [Asmodee HE466 - Android Netrunner: Im Schatten der Menschheit - Gen
 
 ℹ️:
 
-- Der fünfte Datensatz im Genesis-Zyklus für „Android: Netrunner“
 - Ein neuer Runner für die Kriminellen
 - Achtung: Ein Grundset von „Android: Netrunner LCG“ wird zum Spielen benötigt.
+- Der fünfte Datensatz im Genesis-Zyklus für „Android: Netrunner“
 - Talentierte Persönlichkeiten unterstützen Runner und Konzerne
 - Tiefergehende Betrachtung traditioneller Stärken der Fraktionen
 
