@@ -28,10 +28,10 @@ Es gibt ein [Intenso Alu Line 8 GB USB-Stick USB 2.0 silber](https://www.amazon.
 
 ℹ️:
 
-- Material: Aluminium
 - Gewicht: federleichte 4 g; Abmessungen: 17 x 59 x 7 mm
-- Lieferumfang: Intenso Alu Line USB-Stick silber
-- Transferraten: Lesen: bis 28,00 MB/s (187x), Schreiben: bis 6,50 MB/s (43x)
 - Hochwertiger USB-Speicherstick im Aluminiumgehäuse
+- Lieferumfang: Intenso Alu Line USB-Stick silber
+- Material: Aluminium
+- Transferraten: Lesen: bis 28,00 MB/s (187x), Schreiben: bis 6,50 MB/s (43x)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B008RDCERY/?tag=tolees0ca-21)

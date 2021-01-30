@@ -28,10 +28,10 @@ Es gibt ein [Asmodee HE466 - Android Netrunner: Im Schatten der Menschheit - Gen
 
 ℹ️:
 
-- Talentierte Persönlichkeiten unterstützen Runner und Konzerne
-- Tiefergehende Betrachtung traditioneller Stärken der Fraktionen
 - Der fünfte Datensatz im Genesis-Zyklus für „Android: Netrunner“
 - Ein neuer Runner für die Kriminellen
 - Achtung: Ein Grundset von „Android: Netrunner LCG“ wird zum Spielen benötigt.
+- Talentierte Persönlichkeiten unterstützen Runner und Konzerne
+- Tiefergehende Betrachtung traditioneller Stärken der Fraktionen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00BY7I0FK/?tag=tolees0ca-21)
