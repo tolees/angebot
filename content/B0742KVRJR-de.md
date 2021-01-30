@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '35.84 % rabat auf Intenso Premium Edition Portable 256GB E'
-date: 2021-01-28 21:22:12
+date: 2021-01-30 02:58:22
 image: 'https://m.media-amazon.com/images/I/31rSY5RZ8lL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B0742KVRJR/?tag=tolees0ca-21'
 descuento: '35.84'
-average: '38.264693877551'
+average: '38.2735294117647'
 ---
 
 Es gibt ein [Intenso Premium Edition Portable 256GB Externe SSD Festplatte  USB 3.0. Aluminium  anthrazit](https://www.amazon.de/dp/B0742KVRJR/?tag=tolees0ca-21) mit aktuellem Preis 38.49 EUR (original: 59.99 EUR) 35.84 % Rabatt hier:
@@ -27,10 +27,10 @@ Es gibt ein [Intenso Premium Edition Portable 256GB Externe SSD Festplatte  USB 
 
 ℹ️:
 
+- Transferraten: Lesen bis zu 320MB/s, Schreiben bis zu 100MB/s
 - Schock-resistent
-- Geräuschloser Betrieb, geringer Stromverbrauch
 - Lieferumfang: externe SSD, USB 3.0 Kabel
 - Stromversorgung über USB 3.0 Anschluss (abwärtskompatibel)
-- Transferraten: Lesen bis zu 320MB/s, Schreiben bis zu 100MB/s
+- Geräuschloser Betrieb, geringer Stromverbrauch
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0742KVRJR/?tag=tolees0ca-21)
