@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '49.21 % rabat auf InLine 33328Y Y-Kabel für Lüfter PWM  4p'
-date: 2021-01-28 21:22:09
+date: 2021-01-30 08:12:31
 image: 'https://m.media-amazon.com/images/I/41pnhPhhT0L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'de'
 flag: '🇩🇪'
 buyurl: 'https://www.amazon.de/dp/B01BPSOU38/?tag=tolees0ca-21'
 descuento: '49.21'
-average: '3.80926605504588'
+average: '3.79270270270271'
 ---
 
 Es gibt ein [InLine 33328Y Y-Kabel für Lüfter PWM  4pol Molex 1 Stecker / 2 Buchse  0 15m](https://www.amazon.de/dp/B01BPSOU38/?tag=tolees0ca-21) mit aktuellem Preis 2.89 EUR (original: 5.69 EUR) 49.21 % Rabatt hier:
@@ -28,8 +28,8 @@ Es gibt ein [InLine 33328Y Y-Kabel für Lüfter PWM  4pol Molex 1 Stecker / 2 Bu
 ℹ️:
 
 - InLine Y-Kabel für Lüfter PWM
+- für Lüfter mit 4pol. PWM Anschluß
 - 4pol Molex 1x Stecker/ 2x Buchse
 - Länge ca. 0, 15m
-- für Lüfter mit 4pol. PWM Anschluß
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01BPSOU38/?tag=tolees0ca-21)
