@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Pop Royal Family Prince William Vinyl Figure'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0777TNHLJ/?tag=tolees0ca-21'
 descuento: '64.33'
 average: '7.235'

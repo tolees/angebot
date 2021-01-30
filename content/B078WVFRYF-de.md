@@ -16,6 +16,7 @@ comparePrice: 57.0 EUR
 prodname: 'Einhell Rasenwalze GC-GR 57  57cm Breite  32cm Durchmesser  seitliche Füllmöglichkeit  Wasser und Sand  mit Verschluss  beidseitig einstellbarer Schmutzabstreifer '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078WVFRYF/?tag=tolees0ca-21'
 descuento: '25.00'
 average: '42.75'

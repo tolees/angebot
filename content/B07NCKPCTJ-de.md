@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'HÖGL Damen DRYFLEX Stiefeletten  Schwarz  Schwarz 0100   38 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NCKPCTJ/?tag=tolees0ca-21'
 descuento: '28.29'
 average: '107.56'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: '2er Set BRUBAKER Tisch- oder Nachttischlampen Anthrazit Grau  Keramikfüße in zweifarbigem  mattem Finish - 38 cm Höhe'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01AT6NZ2Y/?tag=tolees0ca-21'
 descuento: '20.11'
 average: '31.95'

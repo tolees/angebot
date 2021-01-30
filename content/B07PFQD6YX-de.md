@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Original BestLoft® Weinregal Amber aus Eiche Wandregal Original Louis Martel Flaschenregal Weinschrank  Maße: Breite 60cm x Höhe 100xm x Tiefe 10cm '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PFQD6YX/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '120.0'

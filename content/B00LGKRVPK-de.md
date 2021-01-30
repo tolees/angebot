@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Bosch 3tlg. Starter Set Fliesen für Multifunktionswerkzeuge Starlock'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00LGKRVPK/?tag=tolees0ca-21'
 descuento: '56.98'
 average: '9.89'

@@ -16,6 +16,7 @@ comparePrice: 679.0 EUR
 prodname: 'HP LaserJet Enterprise M506x  F2A70A  Mono Laserdrucker  Drucker  Duplex  LAN  ePrint  AirPrint  Cloud Print  NFC  USB  1200 x 1200 dpi  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B014VY6V1M/?tag=tolees0ca-21'
 descuento: '68.78'
 average: '245.0'

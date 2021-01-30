@@ -16,6 +16,7 @@ comparePrice: 539.0 EUR
 prodname: 'BenQ EX3203R 81 2 cm  32 Zoll  Gaming Monitor  WQHD  FreeSync  Curved  144Hz '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DVQ6Z8R/?tag=tolees0ca-21'
 descuento: '23.58'
 average: '388.56'

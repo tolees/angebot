@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Hasbro FurReal Friends E5679EU4 FurReal König der Löwen - Brüllender Simba  interaktives Plüschspielzeug  Multicolor'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MMSXK84/?tag=tolees0ca-21'
 descuento: '25.40'
 average: '103.88363636363636'

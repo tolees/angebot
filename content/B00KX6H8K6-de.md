@@ -16,6 +16,7 @@ comparePrice: 458.94 EUR
 prodname: 'Gorenje R6192FX Kühlschrank / A++ / Höhe 185 cm / Kühlen: 368 L / Dynamic Cooling-Funktion / 7 Glasabstellflächen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00KX6H8K6/?tag=tolees0ca-21'
 descuento: '50.97'
 average: '225.0'

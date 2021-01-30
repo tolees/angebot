@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Salomon Herren Trail Running Schuhe  XA PRO 3D GTX  Farbe: navy  navy Blazer/Hawaiian Ocean/Dawn Blue  Größe: EU 46 2/3'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01HD6S7L2/?tag=tolees0ca-21'
 descuento: '18.74'
 average: '130'

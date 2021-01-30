@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Panasonic TX-39GW334 LED-TV 39 Zoll  98 cm   HD Fernseher  Triple Tuner  DVB-T2 HD  HDMI  USB '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZL4GF2L/?tag=tolees0ca-21'
 descuento: '35.54'
 average: '255.7539024390244'

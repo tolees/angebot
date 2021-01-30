@@ -16,6 +16,7 @@ comparePrice: 164.99 EUR
 prodname: 'SALOMON Herren X Ultra 3 Mid GTX Trekking- & Wanderstiefel  Schwarz  Black/India Ink/Monument 000   44 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0725SK4ZH/?tag=tolees0ca-21'
 descuento: '21.81'
 average: '129.0'

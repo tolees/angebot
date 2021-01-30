@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Ecco Herren BIOMLITEM Sneaker  Schwarz  Ombre/Ombre 54780   41 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07576QBJV/?tag=tolees0ca-21'
 descuento: '27.27'
 average: '87.28'

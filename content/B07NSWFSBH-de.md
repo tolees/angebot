@@ -16,6 +16,7 @@ comparePrice: 9.16 EUR
 prodname: 'Funko 40252 POP Vinyl: Animation: Rick & Morty S6-Dr. Xenon Bloom Sammelbares Spielzeug  Mehrfarben  Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NSWFSBH/?tag=tolees0ca-21'
 descuento: '30.46'
 average: '5.9275'

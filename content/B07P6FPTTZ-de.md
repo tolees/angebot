@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Playmobil 70126 1.2.3 Kipplaster  ab 18 Monaten  bunt  one Size'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P6FPTTZ/?tag=tolees0ca-21'
 descuento: '24.08'
 average: '12.490000000000002'

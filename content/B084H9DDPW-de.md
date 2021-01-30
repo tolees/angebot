@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Samsung Sound Tower Lautsprecher MX-T50  Bluetooth  2.0-Kanal-System  Bass Booster  Karaoke-Modus'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B084H9DDPW/?tag=tolees0ca-21'
 descuento: '26.07'
 average: '294.99'

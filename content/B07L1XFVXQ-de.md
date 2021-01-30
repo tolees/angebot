@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Under Armour Herren Rival Fleece Sportstyle Logo Hoodie Oberteil  Schwarz  Large'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07L1XFVXQ/?tag=tolees0ca-21'
 descuento: '36.36'
 average: '34.97'

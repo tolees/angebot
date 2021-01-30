@@ -16,6 +16,7 @@ comparePrice: 69 EUR
 prodname: 'SATCH Berry Carry Schulrucksack  45 cm  24 L  Purple Blue Checks'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01CYK91OE/?tag=tolees0ca-21'
 descuento: '28.99'
 average: '49'

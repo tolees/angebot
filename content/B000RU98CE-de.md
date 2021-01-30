@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Playshoes Unisex Kinder Regenhose  Buddelhose  Matschhose  Grün  Grün Gr.92'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000RU98CE/?tag=tolees0ca-21'
 descuento: '55.88'
 average: '8.82'

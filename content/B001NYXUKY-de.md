@@ -16,6 +16,7 @@ comparePrice: 30.42 EUR
 prodname: 'KS Tools 911.8100 Hebeleisen-Satz  4-tlg.'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001NYXUKY/?tag=tolees0ca-21'
 descuento: '18.01'
 average: '25.285'

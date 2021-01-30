@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Pop Royal Family Princess Diana Vinyl Figure'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0777PLSQM/?tag=tolees0ca-21'
 descuento: '50.54'
 average: '10.664000000000001'

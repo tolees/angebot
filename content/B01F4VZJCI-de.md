@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'HP PageWide 352dw Tintenstrahldrucker  Duplex  WLAN  Netzwerk  ePrint  Airprint  Cloud Print  USB  2400 x 1200 dpt  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01F4VZJCI/?tag=tolees0ca-21'
 descuento: '42.61'
 average: '229.0'

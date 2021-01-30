@@ -16,6 +16,7 @@ comparePrice: 175.0 EUR
 prodname: 'Bang & Olufsen Beoplay P2 Bluetooth-Lautsprecher  tragbar  mit integriertem Mikrofon  sandstone'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XYG7B2D/?tag=tolees0ca-21'
 descuento: '43.43'
 average: '99.0'

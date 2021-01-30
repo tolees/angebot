@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Lenovo Tab E7 17 7 cm  7 Zoll  WSVGA Touch  Tablet-PC  Mediatek MT8167A Quad-Core  1GB RAM  8GB eMCP  Wi-Fi  Android 8.0  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HRXBPMB/?tag=tolees0ca-21'
 descuento: '39.49'
 average: '47.8'

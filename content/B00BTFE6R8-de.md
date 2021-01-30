@@ -16,6 +16,7 @@ comparePrice: 44.34 EUR
 prodname: 'Castrol EDGE 0W-30 Motorenöl 5L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00BTFE6R8/?tag=tolees0ca-21'
 descuento: '27.88'
 average: '31.98'

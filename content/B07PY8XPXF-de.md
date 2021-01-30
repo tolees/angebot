@@ -16,6 +16,7 @@ comparePrice: 429.99 EUR
 prodname: 'HITACHI F43E4000 109 cm  43 Zoll  Fernseher  Full HD  Smart TV  Prime Video  Works with Alexa  Bluetooth  Triple-Tuner  PVR '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PY8XPXF/?tag=tolees0ca-21'
 descuento: '27.91'
 average: '309.99'

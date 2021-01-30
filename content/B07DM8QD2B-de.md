@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Philips 14-in-1 Multigroom MG7745/15  Barttrimmer  Haarschneider  Körperhaartrimmer  Ohr- und Nasenhaartrimmer  selbstschärfende Metallklingen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DM8QD2B/?tag=tolees0ca-21'
 descuento: '39.00'
 average: '54.89'

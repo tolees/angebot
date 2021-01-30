@@ -16,6 +16,7 @@ comparePrice: 38.6 EUR
 prodname: 'Casio Damen Analog Quarz mit Edelstahl Armbanduhr LTP 1234PG 7A'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00KB1N49W/?tag=tolees0ca-21'
 descuento: '17.49'
 average: '31.85'

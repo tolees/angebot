@@ -16,6 +16,7 @@ comparePrice: 72.93 EUR
 prodname: 'Clatronic PO 3682 Elektrischer Pizzaofen für 6 Personen  Terrakotta-Haube inklusiv Rezeptvorschläge  1100 W  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077GG47BS/?tag=tolees0ca-21'
 descuento: '23.15'
 average: '56.05'

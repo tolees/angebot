@@ -16,6 +16,7 @@ comparePrice: 7.57 EUR
 prodname: 'leanBonnie Compuesto Karbonfaser Hose LCD Digital Indicador 0 – 150 mm Herramienta  Kalibrador Regla Con Umwandlung in Pulgadas A mm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MQYXG63/?tag=tolees0ca-21'
 descuento: '39.50'
 average: '4.58'

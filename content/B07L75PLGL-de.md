@@ -16,6 +16,7 @@ comparePrice: 37.89 EUR
 prodname: 'GRIFEMA GRIFERÍA DE COCINA-G4002-2 | Küchenarmatur - Wasserhahn Küche mit Flexibler Auslauf  Hoher Auslauf 250mm  | Spültischarmatur  G3/8   Anschlüsse  Hochdruck  Schwarz  Chrom'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07L75PLGL/?tag=tolees0ca-21'
 descuento: '30.46'
 average: '26.35'

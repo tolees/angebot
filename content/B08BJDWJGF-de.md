@@ -16,6 +16,7 @@ comparePrice: 46.0 EUR
 prodname: 'Tres Chicon Mezcal Artesanal  100% Espadin Agave   1 x 0.7l '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08BJDWJGF/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '36.8'

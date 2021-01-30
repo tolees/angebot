@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'LIGHTAILING Licht-Set Für  Technic Porsche 911 RSR  Modell - LED Licht-Set Kompatibel Mit Lego 42096 Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07THGWS4M/?tag=tolees0ca-21'
 descuento: '46.26'
 average: '42.24'

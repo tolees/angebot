@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Victorinox Holz Taschenmesser Ranger Wood 55  10 Funktionen  Feststellklinge  Schraubendreher '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00K3LH4OQ/?tag=tolees0ca-21'
 descuento: '40.67'
 average: '52.8'

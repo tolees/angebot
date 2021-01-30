@@ -16,6 +16,7 @@ comparePrice: 3.43 EUR
 prodname: 'HTC - DC-M410 - Micro USB Data Cable - 1m - Universal > Black'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003UAESIC/?tag=tolees0ca-21'
 descuento: '30.90'
 average: '1.28'

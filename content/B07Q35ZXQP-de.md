@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Ice Crusher  tragbare Handkurbel Ice Crusher Rasierer Manuelle Ice Chipper Runde Haushalt EIS Rasierer Schneekegel Maker Kitchen Tool'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Q35ZXQP/?tag=tolees0ca-21'
 descuento: '19.35'
 average: '37.09'

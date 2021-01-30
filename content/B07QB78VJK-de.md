@@ -16,6 +16,7 @@ comparePrice: 203.05 EUR
 prodname: 'PUTORSEN® PC Gaming Monitorständer für 17-32 Zoll - Schwenkbar Neigbar Interaktiver Ausgleich Monitorhalterung Bildschirmständer mit USB und Multimediaport - VESA 75x75 100x100  Wiegt 2-8 kg'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QB78VJK/?tag=tolees0ca-21'
 descuento: '75.44'
 average: '49.87'

@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Merry Style Damen Bikini Oberteil P614W  Schwarz  9240   75 D '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06VY25DSR/?tag=tolees0ca-21'
 descuento: '25.01'
 average: '26.24'

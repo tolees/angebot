@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'Salomon Herren XA PRO 3D GTX Traillaufschuhe  Schwarz  Black/Lime Green/White   47 1/3 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CZ9HSV9/?tag=tolees0ca-21'
 descuento: '37.22'
 average: '100.41'

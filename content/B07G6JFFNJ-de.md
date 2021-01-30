@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'SEVERIN KA 4845 Type Switch Kaffeemaschine  Für gemahlenen Filterkaffee  8 Tassen  Inkl. Thermokanne  edelstahl/schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G6JFFNJ/?tag=tolees0ca-21'
 descuento: '51.24'
 average: '39.0'

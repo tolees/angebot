@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'USB Stick 64GB  EIVOTOR Memory Stick USB 3.0 Flash Drive Mini Speicherstick Wasserdicht USB Flash Laufwerk Pendrive Data Traveler Geschenk für Schule Büro Auto PC Kinder'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RWVWG9X/?tag=tolees0ca-21'
 descuento: '25.01'
 average: '14.99'

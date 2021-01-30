@@ -16,6 +16,7 @@ comparePrice: 3.13 EUR
 prodname: 'Ajustable 2068 Reloj de metal Correa Correa Pulsera Remover removedor de pasador Plataforma de elevación Herramienta de reparación del kit de reparación Herramienta - Rojo'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WKFLC4Y/?tag=tolees0ca-21'
 descuento: '31.95'
 average: '2.13'

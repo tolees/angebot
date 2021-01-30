@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Maier sports Herren Nil Wanderhose  Feder grau  25'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00IJS0DJS/?tag=tolees0ca-21'
 descuento: '23.64'
 average: '68.69'

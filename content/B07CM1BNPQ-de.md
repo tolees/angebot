@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Laser Entfernungsmesser  Meterk Distanzmessgerät Messbereich: 0 05-40m Genauigkeit:±2 mm mit M/In/Ft Datenspeicherfunktion LCD Display Hintergrundbeleuchtung Elektronische Ebene'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CM1BNPQ/?tag=tolees0ca-21'
 descuento: '30.56'
 average: '25.24'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Panasonic In-Ear Kopfhörer Bluetooth RP-NJ310BE-K  6 h Akkulaufzeit  Quick-Charge  Sprachsteuerung  Kopfhörer wireless  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NNGGCVN/?tag=tolees0ca-21'
 descuento: '55.01'
 average: '17.99'

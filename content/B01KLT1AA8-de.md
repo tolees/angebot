@@ -16,6 +16,7 @@ comparePrice: 199 EUR
 prodname: 'Skagen Unisex Hybrid Smartwatch SKT1104'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01KLT1AA8/?tag=tolees0ca-21'
 descuento: '40.00'
 average: '119.4'

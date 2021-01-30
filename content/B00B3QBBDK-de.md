@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Citizen Herren Analog Quarz Uhr mit Leder Armband BM8476-07EE'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00B3QBBDK/?tag=tolees0ca-21'
 descuento: '29.57'
 average: '90.86'

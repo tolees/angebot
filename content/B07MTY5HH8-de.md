@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Logitech G635 kabelgebundenes Gaming-Headset mit LIGHTSYNC RGB  7.1 Surround Sound  DTS Headphone:X 2.0  50 mm Treiber  Bügelmikrofon mit Flip-Stummschaltung  PC/Xbox One/PS4/Nintendo Switch  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MTY5HH8/?tag=tolees0ca-21'
 descuento: '42.96'
 average: '80.11428571428573'

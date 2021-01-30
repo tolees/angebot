@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'SuperCat Wühlmaus-Falle: Effiziente Schlagfalle  kein umständliches Graben oder Kraft erforderlich  1er Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000PKII2C/?tag=tolees0ca-21'
 descuento: '32.52'
 average: '12.14'

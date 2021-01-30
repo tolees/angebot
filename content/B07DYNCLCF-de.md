@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Merrell Herren Vapor Glove 4 Hallenschuhe  Schwarz  Black Black   45 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DYNCLCF/?tag=tolees0ca-21'
 descuento: '40.05'
 average: '59.95'

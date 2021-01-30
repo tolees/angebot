@@ -16,6 +16,7 @@ comparePrice: 27.49 EUR
 prodname: 'Converse Cross Body 2 10008299-A02 Sporttasche  22 cm  4 L  Red'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07M9TBFDF/?tag=tolees0ca-21'
 descuento: '31.43'
 average: '18.85'

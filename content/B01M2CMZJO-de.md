@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'S&R Kreissägeblatt 160mm x 20mm x 2 2mm 40T  Reduzierring 16mm"Wood Craft" Sägeblatt Holz in Profiqualität'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M2CMZJO/?tag=tolees0ca-21'
 descuento: '63.58'
 average: '14.55'

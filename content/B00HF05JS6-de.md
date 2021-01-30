@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'VAUDE  Satteltaschen Tool Stick M  black  One Size  117190100'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HF05JS6/?tag=tolees0ca-21'
 descuento: '46.63'
 average: '10.14'

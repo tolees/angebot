@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'Under Armour Damen Play Up Shorts 3.0 atmungsaktive Sporthose  komfortable Sportshorts mit Loser Passform  Schwarz  MD'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07L9JBHXL/?tag=tolees0ca-21'
 descuento: '15.88'
 average: '26.034'

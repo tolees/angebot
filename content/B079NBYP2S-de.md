@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'HSP Himoto Space Car Renn-Auto aus Bausteinen mit Rückziehfunktion Pull Back Car  Steckbausatz Konstruktion DIY  Auto zum Selberbauen Basteln  Block Building Fahrzeug  Racing-Car'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079NBYP2S/?tag=tolees0ca-21'
 descuento: '33.34'
 average: '19.99'

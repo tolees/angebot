@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Post-it R3306SMI Haftnotiz Super Sticky Z-Notes  6 Blöcke  90 Blatt  76 x 76 mm  türkis/neongrün/mohnrot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01KHWIOOO/?tag=tolees0ca-21'
 descuento: '30.72'
 average: '9.0'

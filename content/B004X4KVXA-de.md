@@ -16,6 +16,7 @@ comparePrice: 179.24 EUR
 prodname: 'Braun Herren Analog Quarz Armbanduhr BN0024WHBKG'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004X4KVXA/?tag=tolees0ca-21'
 descuento: '60.08'
 average: '71.55'

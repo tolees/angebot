@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Funko Fortnite Pop! Vinyl Figur 459 Raven aus Kunststoff   Geschenkbox.'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07L48JXFR/?tag=tolees0ca-21'
 descuento: '29.87'
 average: '12.1525'

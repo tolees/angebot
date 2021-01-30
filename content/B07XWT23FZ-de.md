@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Amazfit GTS'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XWT23FZ/?tag=tolees0ca-21'
 descuento: '17.99'
 average: '110.4975'

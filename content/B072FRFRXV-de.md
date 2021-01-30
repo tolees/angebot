@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'ONLY Damen Langarmshirt Onlelcos 4/5 Solid Top Jrs Noos  Rosa  Mesa Rose Detail:Melange   40  Herstellergröße: L '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072FRFRXV/?tag=tolees0ca-21'
 descuento: '41.72'
 average: '11.65'

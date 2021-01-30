@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Funko 29526 IT  2017  S2 Pennywise Actionfigur 2017-Pennywise mit Crab Legs  Multi  Einheitsgröße'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0797MYW9S/?tag=tolees0ca-21'
 descuento: '49.69'
 average: '8.0'

@@ -16,6 +16,7 @@ comparePrice: 21.83 EUR
 prodname: 'Tokyo Laundry Tybalt Canvas Rucksack Gr. Einheitsgröße  Hellgrau  Light Grey Marl '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MMNH3DM/?tag=tolees0ca-21'
 descuento: '30.00'
 average: '15.28'

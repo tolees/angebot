@@ -16,6 +16,7 @@ comparePrice: 204.0 EUR
 prodname: 'MIYABI 7000D Santoku Messer  18 cm Klinge  CMV60 Stahl  Damast Design  65 Lagen  traditioneller D-Griff  Micarta  Edelstahl'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001FSKH8G/?tag=tolees0ca-21'
 descuento: '55.88'
 average: '90.0'

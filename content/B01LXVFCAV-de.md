@@ -16,6 +16,7 @@ comparePrice: 4.7 EUR
 prodname: 'Simplicol Textilfarbe expert Brombeer-Rot 1706: Farbe für kreatives  einfaches Färben in der Waschmaschine oder manuell'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LXVFCAV/?tag=tolees0ca-21'
 descuento: '34.89'
 average: '3.06'

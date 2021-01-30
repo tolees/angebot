@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Logitech K600 Kabellose TV-Tastatur mit Touchpad & D-Pad  Bluetooth  Multimedia-Tasten  Multi-Device  Für Samsung  LG  Sony TVs/Windows/Mac/Android/iOS - Spanisches QWERTY-Layout'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FFKSDTC/?tag=tolees0ca-21'
 descuento: '52.08'
 average: '38.33'

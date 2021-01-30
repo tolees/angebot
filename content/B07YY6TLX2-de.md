@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Upgraded LED Sensor Licht 78 LED Wiederaufladbar Dimmbare SchrankLicht mit Bewegungsmelder 4 Modi Intelligente LED Küchenleuchte Weiches Licht für Küche Kleiderschrank Kofferraum Treppe Wohnmobil'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YY6TLX2/?tag=tolees0ca-21'
 descuento: '15.01'
 average: '24.056666666666665'

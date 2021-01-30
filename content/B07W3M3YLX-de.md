@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'Grundig Vision 6 - Fire TV Edition  32 GFW 6060  80 cm  32 Zoll  Fernseher  Full HD  Alexa-Sprachsteuerung  Magic Fidelity  weiß [Modelljahr 2019]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W3M3YLX/?tag=tolees0ca-21'
 descuento: '59.32'
 average: '210.505'

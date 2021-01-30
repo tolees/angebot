@@ -16,6 +16,7 @@ comparePrice: 39.47 EUR
 prodname: 'Simple Minds - Street Fighting Years  Super Deluxe '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07R5QWCYJ/?tag=tolees0ca-21'
 descuento: '22.85'
 average: '30.45'

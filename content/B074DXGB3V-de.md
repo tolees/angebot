@@ -16,6 +16,7 @@ comparePrice: 359.0 EUR
 prodname: 'WD My Cloud Home persönlicher Cloudspeicher 8 TB  zentraler Speicher  mobiler Zugriff unterwegs  automatische Backups  Dateisuchfunktion  einfache Installation '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074DXGB3V/?tag=tolees0ca-21'
 descuento: '36.21'
 average: '227.29166666666666'

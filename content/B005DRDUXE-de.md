@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'tesa Powerstrips Strips LARGE   wasserfest  Packung mit 6 Strips'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005DRDUXE/?tag=tolees0ca-21'
 descuento: '30.86'
 average: '3.45'

@@ -16,6 +16,7 @@ comparePrice: 6.75 EUR
 prodname: 'AVERY Zweckform 1725 Auftrag  A5  2x40 Blatt  selbstdurchschreibend mit farbigem Durchschlag  zur systematischen Erfassung aller relevanten Auftragspositionen  weiß/gelb'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000KJMAJK/?tag=tolees0ca-21'
 descuento: '20.74'
 average: '5.35'

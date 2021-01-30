@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Proxxon 23080 Steckschlüsselsatz 1/4 Zoll  36-teilig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002C6LU6S/?tag=tolees0ca-21'
 descuento: '15.03'
 average: '34.485'

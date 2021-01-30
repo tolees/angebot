@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Pop Dirty Dancing Johnny Vinyl Figure'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HB3HKD6/?tag=tolees0ca-21'
 descuento: '57.50'
 average: '5.1'

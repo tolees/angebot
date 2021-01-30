@@ -16,6 +16,7 @@ comparePrice: 1899.0 EUR
 prodname: 'Philips 65PUS7803/12 164cm  65 Zoll  LED-TV  Ambilight  4K Ultra HD  Triple Tuner  Android Smart TV '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0794XTF6S/?tag=tolees0ca-21'
 descuento: '71.30'
 average: '847.0'

@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Odlo Damen Traininghose X-Warm  Schwarz  black 15000   Gr.M'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002ZWZOD4/?tag=tolees0ca-21'
 descuento: '37.93'
 average: '34.11'

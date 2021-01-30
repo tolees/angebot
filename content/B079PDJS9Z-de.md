@@ -16,6 +16,7 @@ comparePrice: 7.39 EUR
 prodname: 'I  Tonya'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079PDJS9Z/?tag=tolees0ca-21'
 descuento: '18.94'
 average: '5.99'

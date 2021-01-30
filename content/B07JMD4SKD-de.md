@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'PLAYMOBIL Top Agents 70005 Team S.H.A.R.K. Drill Destroyer  Ab 6 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JMD4SKD/?tag=tolees0ca-21'
 descuento: '23.95'
 average: '21.80391304347826'

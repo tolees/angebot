@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Oral-B PRO 3000 CrossAction'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00KBWBI6M/?tag=tolees0ca-21'
 descuento: '55.78'
 average: '61.9'

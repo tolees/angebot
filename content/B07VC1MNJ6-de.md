@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Intenso USB-Stick Ultra Line 512 GB USB 3.0'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VC1MNJ6/?tag=tolees0ca-21'
 descuento: '49.30'
 average: '38.02'

@@ -16,6 +16,7 @@ comparePrice: 124.99 EUR
 prodname: 'Playmobil 9243 - Berk'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06WCZCRPN/?tag=tolees0ca-21'
 descuento: '30.44'
 average: '72.058125'

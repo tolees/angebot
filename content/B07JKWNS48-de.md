@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Playmobil 70051 City Life Notarzt-Motorrad mit Blinklicht  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JKWNS48/?tag=tolees0ca-21'
 descuento: '33.36'
 average: '10.453333333333333'

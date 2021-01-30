@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Belkin Adapter USB-C auf USB-A  15cm  USB-C Stecker  USB-A Buchse  geeignet für Apple MacBook und Chromebook Pixel  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00WJSPWRM/?tag=tolees0ca-21'
 descuento: '52.48'
 average: '9.5'

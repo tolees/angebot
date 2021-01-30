@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Funko 40652 IT Pennywise Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RQ964KR/?tag=tolees0ca-21'
 descuento: '26.04'
 average: '4.4350000000000005'

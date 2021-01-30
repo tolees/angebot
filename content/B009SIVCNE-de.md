@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Samsonite S Cure - Spinner S Handgepäck  55 cm  34 L  Blau  Dark Blue '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B009SIVCNE/?tag=tolees0ca-21'
 descuento: '40.00'
 average: '107.4'

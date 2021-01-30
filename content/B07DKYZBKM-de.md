@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Jump Force: Standard Edition - [PlayStation 4]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DKYZBKM/?tag=tolees0ca-21'
 descuento: '16.42'
 average: '24.99'

@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Kitchenaid 5KSMPRA Optionales Zubehör  für alle KitchenAid Dreiteiliger Nudelvorsatz Küchenmaschine'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01H6QNNZY/?tag=tolees0ca-21'
 descuento: '34.68'
 average: '129.97571428571428'

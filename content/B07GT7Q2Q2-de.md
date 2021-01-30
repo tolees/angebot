@@ -16,6 +16,7 @@ comparePrice: 219.99 EUR
 prodname: 'GoPro  HERO7  White  –  wasserdichte  digitale  Actionkamera  mit  Touchscreen   1440p-HD-Videos   10-MP-Fotos'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GT7Q2Q2/?tag=tolees0ca-21'
 descuento: '41.36'
 average: '123.83'

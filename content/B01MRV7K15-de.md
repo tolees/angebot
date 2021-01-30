@@ -16,6 +16,7 @@ comparePrice: 519.99 EUR
 prodname: 'Beko DE8535RX0 Wärmepumpentrockner/8 kg/A+++/Multifunktionsdisplay/Automatischer Knitterschutz/Reversierende Trommelbewegungen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MRV7K15/?tag=tolees0ca-21'
 descuento: '29.81'
 average: '365.0'

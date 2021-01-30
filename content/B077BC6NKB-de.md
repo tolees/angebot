@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Hasbro FurReal Friends E0497EU4 Frisierspaß Hündchen  elektronisches Haustier'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077BC6NKB/?tag=tolees0ca-21'
 descuento: '42.87'
 average: '19.99'

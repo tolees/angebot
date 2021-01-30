@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'BOSS Herren RN 2P CO/EL T-Shirts  Schwarz  Black 1   Small  2er Pack '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M9GC54O/?tag=tolees0ca-21'
 descuento: '50.19'
 average: '19.9'

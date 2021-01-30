@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'BOYOU Herren Warmen Windproof Radfahren Handschuhe  Winter Outdoor Touchscreen Handschuhe für Herren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JKSDJXL/?tag=tolees0ca-21'
 descuento: '55.60'
 average: '15.98'

@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Funko 42064 POP Bobble Vinyl Mandalorian-IG-11 Star Wars The Mandalorian IG-11 Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QJ29QDN/?tag=tolees0ca-21'
 descuento: '18.50'
 average: '9.78'

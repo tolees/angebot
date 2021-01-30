@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'GHT HDMI KVM Switch USB 2 Port Umschalter 4K 4K @ 30Hz  2 PC 1 Monitor  2 In 1 Out  YUV 4: 4: 4  Ultra HD Mit Kabel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MNBM8TJ/?tag=tolees0ca-21'
 descuento: '33.34'
 average: '39.99'

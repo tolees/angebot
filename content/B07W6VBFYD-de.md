@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Cudy GS1005P 5-Port Gigabit PoE+ Switch 60W  4 * 10/100/1000Mbit/s PoE+ Ports  802.3af / 802.3at  Desktop- und Wandmontage  Plug-and-Play  Metallgehäuse'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W6VBFYD/?tag=tolees0ca-21'
 descuento: '56.67'
 average: '42.9'

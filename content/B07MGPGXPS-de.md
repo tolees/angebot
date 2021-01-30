@@ -16,6 +16,7 @@ comparePrice: 82.1 EUR
 prodname: 'Crucial Ballistix Sport LT BLS16G4D30AESE 3000 MHz  DDR4  DRAM  Desktop Gaming Speicher  16GB  CL15  Rot '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MGPGXPS/?tag=tolees0ca-21'
 descuento: '31.89'
 average: '55.92'

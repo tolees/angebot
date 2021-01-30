@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'STARWARE HDMI auf VGA  HDMI auf VGA Adapter  Stecker zu Buchse  für Computer  Desktop  Laptop  PC  Monitor  Projektor  HDTV  Chromebook  Intel Nuc  TV Box und mehr - Raumgrau Aluminium'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VN5LHS7/?tag=tolees0ca-21'
 descuento: '16.68'
 average: '9.99'

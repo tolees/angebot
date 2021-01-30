@@ -16,6 +16,7 @@ comparePrice: 165.98 EUR
 prodname: 'DXX Acryl Schaukasten Vitrine  Schaukasten Acryl Vitrine Display Case für Lego Technic Bugatti Chiron 42083 Ohne Modell '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083K28TFB/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '82.99'

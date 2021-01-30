@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'PLAYMOBIL Ghostbusters 9221 Stay Puft Marshmallow Man  Ab 6 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LYRIWYZ/?tag=tolees0ca-21'
 descuento: '52.63'
 average: '9.08'

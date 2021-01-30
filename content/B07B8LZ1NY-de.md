@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Haustier-Küche® | Sepiaschalen 20 Stück 8-12cm Größe – Kalzium  Nahrung  Futter für Reptilien – Schildkröten Zubehör | Sepia Schale für Bartagame'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B8LZ1NY/?tag=tolees0ca-21'
 descuento: '44.14'
 average: '9.49'

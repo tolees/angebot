@@ -16,6 +16,7 @@ comparePrice: 199 EUR
 prodname: 'LG Electronics OM4560 High Power Hifianlage Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B018SVQXU8/?tag=tolees0ca-21'
 descuento: '44.69'
 average: '111.12'

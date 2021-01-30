@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Anker 36W 5V / 7.2A 4 Port USB Ladegerät Wand Ladeadapter mit PowerIQ Technologie Wall Charger für iPhone iPad Tablet Samsung Galaxy  HTC  Sony  LG  Nexus Motorola und usw  Schwarz '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00MVHKTZQ/?tag=tolees0ca-21'
 descuento: '15.01'
 average: '15.29'

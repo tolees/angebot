@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Sony WH-H900N High-Resolution Kopfhörer  Kabelloser  Noise Cancelling  blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074VF1BW9/?tag=tolees0ca-21'
 descuento: '18.25'
 average: '169.495'

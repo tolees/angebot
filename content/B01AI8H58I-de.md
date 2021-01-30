@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Nikon AF-P DX Nikkor 18-55 mm f/3.5-5.6G VR Zoomobjektiv'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01AI8H58I/?tag=tolees0ca-21'
 descuento: '48.19'
 average: '129.0'

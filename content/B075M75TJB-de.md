@@ -16,6 +16,7 @@ comparePrice: 22.94 EUR
 prodname: 'Kirby Battle Royale - [Nintendo 3DS]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075M75TJB/?tag=tolees0ca-21'
 descuento: '56.45'
 average: '9.99'

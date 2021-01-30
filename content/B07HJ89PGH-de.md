@@ -16,6 +16,7 @@ comparePrice: 8.0 EUR
 prodname: 'Pop Tokyo Ghoul Rize Vinyl Figure'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HJ89PGH/?tag=tolees0ca-21'
 descuento: '53.12'
 average: '3.75'

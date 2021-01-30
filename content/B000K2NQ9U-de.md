@@ -16,6 +16,7 @@ comparePrice: 25.9 EUR
 prodname: 'Mannesmann M10997 Zangensatz 4-teilig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000K2NQ9U/?tag=tolees0ca-21'
 descuento: '49.96'
 average: '12.96'

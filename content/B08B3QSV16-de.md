@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Bluetooth Kopfhörer in Ear  Bluetooth 5.0 Kopfhörer Kabellos Sport 3500mAh 150H Spielzeit Kabellose Kopfhörer Wireless Earbuds IPX7 Wasserdicht CVC8.0 Ohrhörer mit LED-Anzeige Ladebox & Mic'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08B3QSV16/?tag=tolees0ca-21'
 descuento: '17.50'
 average: '33.989999999999995'

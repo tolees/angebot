@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Bluetooth-Headset 5.0  drahtloses Touch-Headset  Stereo-In-Ear-Sport-Headset mit Ladebox  integriertes 3D-Mikrofon mit Geräuschunterdrückung  geeignet für Android/AirPods Pro/iPhone'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B089CTQV71/?tag=tolees0ca-21'
 descuento: '51.12'
 average: '43.99'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'CREATIVE Sound BlasterX H6 USB-Gaming-Headset  virtueller 7.1-Surround-Klang  Hardware-EQ-Modi  Ambient Monitoring - kompatibel mit PS4  Xbox One  Nintendo Switch und PC'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07LBM7ML1/?tag=tolees0ca-21'
 descuento: '25.75'
 average: '59.39'

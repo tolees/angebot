@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Bluetooth Lautsprecher Tragbarer Bluedio HS  Hurricane  Wireless-Neckband-Lautsprecher Theater Stereo Surroud Ton  FM Radio SD-Karten-Slot mit Mikrofon Kabelloser Lautsprecher für Sport im Freien'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B081SK9C7W/?tag=tolees0ca-21'
 descuento: '15.01'
 average: '20.64'

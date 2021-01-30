@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Hasbro Gaming E1871100 - Monopoly Mogeln und Mauscheln Familienspiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BM1WMG5/?tag=tolees0ca-21'
 descuento: '16.67'
 average: '22.42'

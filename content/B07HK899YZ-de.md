@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Alex Perry Muttertagsgeschenk ohrringe silber geschenke für frauen schmuck damen frauen geschenk für mama oma partner lustige personalisierte geschenke geburtstagsgeschenk'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HK899YZ/?tag=tolees0ca-21'
 descuento: '75.01'
 average: '24.99'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Remington Ionen-Haartrockner Keratin Protect AC8002  2200 Watt  hochwertiges keramikbeschichtetes Gitter  zwei Stylingdüsen  Diffusor  gold braun'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B073ZDGXJF/?tag=tolees0ca-21'
 descuento: '40.01'
 average: '29.99'

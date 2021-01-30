@@ -16,6 +16,7 @@ comparePrice: 50.99 EUR
 prodname: 'Kinder Klavier  Multifunktions Mini 49 Tasten Musik Klaviertastatur Tragbare Wiederaufladbare Elektronische Musikinstrument Mikrofon für Baby Kinder'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TXFD19Z/?tag=tolees0ca-21'
 descuento: '27.46'
 average: '36.99'

@@ -16,6 +16,7 @@ comparePrice: 58.99 EUR
 prodname: 'Fisher-Price P4326 Meine erste Toilette Töpfchen und Toilettensitz mit Musik und Soundeffekten Toilettentrainer für Kleinkinder'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001KQ0UI0/?tag=tolees0ca-21'
 descuento: '49.16'
 average: '29.99'

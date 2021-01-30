@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Philips Hi-Res Audio Kopfhörer PH802BK/00 On Ear Bluetooth Kopfhörer  Hi-Res-Audio  Bluetooth  bis 30 Stunden Akku  Schnellladefunktion  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZDM5H9T/?tag=tolees0ca-21'
 descuento: '37.70'
 average: '74.75'

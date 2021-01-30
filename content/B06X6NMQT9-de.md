@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Playmobil 6930 - Reitturnier'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06X6NMQT9/?tag=tolees0ca-21'
 descuento: '23.07'
 average: '22.303846153846152'

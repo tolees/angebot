@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Playmobil 70138 Country Mobiles Hühnerhaus  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JM52FHX/?tag=tolees0ca-21'
 descuento: '28.59'
 average: '9.232'

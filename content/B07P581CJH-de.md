@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Playmobil 70194 City Life Oma mit Rollator  ab 4 Jahren  bunt  one Size'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P581CJH/?tag=tolees0ca-21'
 descuento: '25.03'
 average: '5.015000000000001'

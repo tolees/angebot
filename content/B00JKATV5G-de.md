@@ -16,6 +16,7 @@ comparePrice: 13.9 EUR
 prodname: 'Transcend 16GB JetFlash 790 USB 3.1 Gen 1 USB Stick TS16GJF790K'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00JKATV5G/?tag=tolees0ca-21'
 descuento: '62.66'
 average: '5.19'

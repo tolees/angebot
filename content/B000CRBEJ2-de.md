@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Eastpak Padded Pak r Rucksack  40 cm  24 L  Schwarz  Black '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000CRBEJ2/?tag=tolees0ca-21'
 descuento: '58.00'
 average: '21.0'

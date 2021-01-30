@@ -16,6 +16,7 @@ comparePrice: 799.0 EUR
 prodname: 'OnePlus 8  5G  Smartphone ohne Vertrag  12GB + 256GB Speicher  6.55" AMOLED 90Hz Display  4300 mAh Akku  Dreifach-Kamera  Dual-Sim - Grün'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XY6KRTD/?tag=tolees0ca-21'
 descuento: '37.43'
 average: '499.94'

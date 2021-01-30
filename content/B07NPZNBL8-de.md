@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Xiaomi Dreame V9 Vacuum Cleaner  Staubsauger  Weiß  450 W  0.5 liters  80 Dezibel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NPZNBL8/?tag=tolees0ca-21'
 descuento: '43.15'
 average: '169.99'

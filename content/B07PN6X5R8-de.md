@@ -16,6 +16,7 @@ comparePrice: 96.95 EUR
 prodname: 'Tefal E21846 Trattoria Kochtopf  mit Gussdeckel  antihaftbeschichtet  24 cm  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PN6X5R8/?tag=tolees0ca-21'
 descuento: '29.87'
 average: '67.99'

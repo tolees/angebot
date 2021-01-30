@@ -16,6 +16,7 @@ comparePrice: 58.48 EUR
 prodname: 'Echo Dot  3. Gen.  Intelligenter Lautsprecher mit Alexa  Anthrazit Stoff'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PHPXHQS/?tag=tolees0ca-21'
 descuento: '16.69'
 average: '42.03941176470588'

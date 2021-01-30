@@ -16,6 +16,7 @@ comparePrice: 859.0 EUR
 prodname: 'Sony Alpha 6300 E-Mount Systemkamera  24.2 Megapixel  7 5 cm  3 Zoll  Display  XGA OLED Sucher  4K  inklusiv 16-50 mm Objektiv  Silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078VPCV74/?tag=tolees0ca-21'
 descuento: '37.25'
 average: '539.0'

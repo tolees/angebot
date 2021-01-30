@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Salewa WS WILDFIRE  Damen Trekking- & Wanderhalbschuhe  Blau  Magnet/blue Fog 734   35 EU  3 UK '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B86RFGG/?tag=tolees0ca-21'
 descuento: '74.19'
 average: '38.72'

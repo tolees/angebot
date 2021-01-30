@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'HOPPEDIZ Baby-Tragetuch  inklusive Bindeanleitung  Aberdeen 4 60 m'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M3ST6H6/?tag=tolees0ca-21'
 descuento: '34.17'
 average: '39.49'

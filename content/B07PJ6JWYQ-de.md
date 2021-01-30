@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Clementoni 59126 Action & Reaction-Maxi Set  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PJ6JWYQ/?tag=tolees0ca-21'
 descuento: '22.23'
 average: '27.99'

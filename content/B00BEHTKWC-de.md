@@ -16,6 +16,7 @@ comparePrice: 799.0 EUR
 prodname: 'Sonos Playbar WLAN Soundbar  schwarz – TV Soundbar mit kraftvollem Sound für Heimkino & Musikstreaming – TV Lautsprecher mit optischem Audio Anschluss'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00BEHTKWC/?tag=tolees0ca-21'
 descuento: '19.90'
 average: '578.398'

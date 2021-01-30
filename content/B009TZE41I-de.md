@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'D-Link GO-SW-5G 5-Port Gigabit Easy Desktop Switch  10/100/1000 Mbit/s  automatische MDI/MDIX-Erkennung  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B009TZE41I/?tag=tolees0ca-21'
 descuento: '15.60'
 average: '12.66'

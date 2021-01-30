@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'VAUDE Rucksäcke20-29L Aspe  17l  ecru  17  129215140'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CV5X75J/?tag=tolees0ca-21'
 descuento: '29.73'
 average: '70.27'

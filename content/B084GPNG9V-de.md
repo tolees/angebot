@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'SodaStream Sirup Pepsi Cola - 1x Flasche ergibt 9 Liter Fertiggetränk  Sekundenschnell zubereitet und immer frisch  440 ml'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B084GPNG9V/?tag=tolees0ca-21'
 descuento: '24.05'
 average: '3.79'

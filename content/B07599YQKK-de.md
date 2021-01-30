@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 24520 POP Bobble: Marvel: GOTG TT: Gamora'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07599YQKK/?tag=tolees0ca-21'
 descuento: '32.17'
 average: '9.696666666666665'

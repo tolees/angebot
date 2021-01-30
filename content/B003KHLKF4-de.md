@@ -16,6 +16,7 @@ comparePrice: 41.5 EUR
 prodname: 'Proxxon 27130 MICRO-Heißluftpistole MH 550 mit 3 Zusatzdüsen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003KHLKF4/?tag=tolees0ca-21'
 descuento: '31.90'
 average: '28.26'

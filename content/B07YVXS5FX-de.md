@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Beats Solo3 Wireless Kopfhörer - Satin Silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YVXS5FX/?tag=tolees0ca-21'
 descuento: '25.48'
 average: '149.0'

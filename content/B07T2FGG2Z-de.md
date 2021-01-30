@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Sony WF-1000XM3 vollkommen kabellose Bluetooth Kopfhörer / Earbuds mit aktiver Geräuschunterdrückung zum Telefonieren u. Musikhören  Amazon Alexa - incl. Ladecase für mehr Akku'
 country: 'de'
 flag: '🇩🇪'
+brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B07T2FGG2Z/?tag=tolees0ca-21'
 descuento: '31.54'
 average: '175.895480769229'
@@ -27,10 +28,10 @@ Es gibt ein [Sony WF-1000XM3 vollkommen kabellose Bluetooth Kopfhörer / Earbuds
 
 ℹ️:
 
+- Up to 8H battery life per single charge + additional 3 charges from carrying case
 - Ergonomic Tri-hold Structure for secure fitting
-- Alexa built-in devices let you instantly connect to Alexa to play music, control your smart home, get information, news, weather, and more using just your voice.
 - Industry-leading noise cancellation* to block out unnecessary ambient noise (*As of June 1st 2019. According to research by Sony Corporation, measured using JEITA-compliant guidelines in Truly Wireless style noise cancelling headphones market)
 - Stable Bluetooth connection
-- Up to 8H battery life per single charge + additional 3 charges from carrying case
+- Alexa built-in devices let you instantly connect to Alexa to play music, control your smart home, get information, news, weather, and more using just your voice.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07T2FGG2Z/?tag=tolees0ca-21)

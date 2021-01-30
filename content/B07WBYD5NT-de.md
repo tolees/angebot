@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Philips AC0820/10 Luftreiniger Kompakt  für Allergiker  bis zu 49M²  Cadr 190M³/H  Aerasense Sensor  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WBYD5NT/?tag=tolees0ca-21'
 descuento: '35.00'
 average: '103.99'

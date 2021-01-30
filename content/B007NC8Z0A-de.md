@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Durex Play Perfect Glide Gleitgel auf Silikonbasis – Seidig-glattes Gleitgel für langanhaltenden Spaß – 1 x 50 ml in der praktischen Dosierflasche'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007NC8Z0A/?tag=tolees0ca-21'
 descuento: '48.15'
 average: '5.18'

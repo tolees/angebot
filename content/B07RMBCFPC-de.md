@@ -16,6 +16,7 @@ comparePrice: 11.17 EUR
 prodname: 'Funko 44823 POP TV: Game of Thrones-Crystal Night King w/Dagger in Chest Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RMBCFPC/?tag=tolees0ca-21'
 descuento: '23.90'
 average: '8.5'

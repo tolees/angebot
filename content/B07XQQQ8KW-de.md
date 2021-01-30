@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'LG PK7W Outdoor Bluetooth Lautsprecher mit Meridian Technologie Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XQQQ8KW/?tag=tolees0ca-21'
 descuento: '60.30'
 average: '79.0'

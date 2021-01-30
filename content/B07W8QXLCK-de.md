@@ -16,6 +16,7 @@ comparePrice: 369.95 EUR
 prodname: 'Bose Portable Home Speaker – mit integrierter Alexa-Sprachsteuerung  in Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W8QXLCK/?tag=tolees0ca-21'
 descuento: '25.40'
 average: '275.99'

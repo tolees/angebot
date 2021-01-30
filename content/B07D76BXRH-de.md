@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Levi s Damen 310 Shaping Super Skinny Jeans  Blau  Taurus 0007   W27/L32'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07D76BXRH/?tag=tolees0ca-21'
 descuento: '39.01'
 average: '57.94'

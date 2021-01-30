@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Need for Speed Heat | Standard | PC Download - Origin Code'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XB1PK4C/?tag=tolees0ca-21'
 descuento: '50.03'
 average: '39.983333333333334'

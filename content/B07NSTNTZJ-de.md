@@ -16,6 +16,7 @@ comparePrice: 12.5 EUR
 prodname: 'Funko 36409 POP Vinyl: Pretty Woman: Vivian  red Dress  Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NSTNTZJ/?tag=tolees0ca-21'
 descuento: '34.64'
 average: '10.742'

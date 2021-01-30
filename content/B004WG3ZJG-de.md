@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'BIONAIRE BT19-I Turmventilator  40 W  Grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004WG3ZJG/?tag=tolees0ca-21'
 descuento: '32.06'
 average: '40.76'

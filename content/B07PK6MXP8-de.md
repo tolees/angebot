@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Detektiv Conan - TV-Serie - Vol.9 - [DVD]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PK6MXP8/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '39.99'

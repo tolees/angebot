@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Microsoft Office 365 Home multilingual | 6 Nutzer | Mehrere PCs / Macs  Tablets und mobile Geräte | 1 Jahresabonnement | Box'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FZ53VKR/?tag=tolees0ca-21'
 descuento: '25.26'
 average: '67.91428571428571'

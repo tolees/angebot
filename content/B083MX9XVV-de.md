@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Massagepistole  Abask Massage Gun für Nacken Schulter Rücken Professionelles Muskel Massagegerät mit 8 Massageköpfen  5200 mAh Akkulaufzeit bis zu 8 Stunden  Herzfrequenz Sensor  Kalorienberechnung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083MX9XVV/?tag=tolees0ca-21'
 descuento: '25.00'
 average: '149.99'

@@ -16,6 +16,7 @@ comparePrice: 19.98 EUR
 prodname: 'Lindt Spezialitäten  2er pack  2 x 250 g '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WPTYSDM/?tag=tolees0ca-21'
 descuento: '44.89'
 average: '11.01'

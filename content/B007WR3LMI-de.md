@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Chocolat  Blu *** Europe Zone ***'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007WR3LMI/?tag=tolees0ca-21'
 descuento: '24.11'
 average: '8.34'

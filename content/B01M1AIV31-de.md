@@ -16,6 +16,7 @@ comparePrice: 47.5 EUR
 prodname: 'Parker IM Füller | schwarze Lackierung mit Chromzierteilen | Füllfederhalter Mittlere Spitze | Geschenkbox'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M1AIV31/?tag=tolees0ca-21'
 descuento: '63.41'
 average: '17.38'

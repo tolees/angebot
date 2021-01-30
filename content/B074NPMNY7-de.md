@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 21724 Actionfigur Disney Snow White: Sleepy  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074NPMNY7/?tag=tolees0ca-21'
 descuento: '42.82'
 average: '8.0'

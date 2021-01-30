@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'PLAYMOBIL City Life 70015 Mein Lieblingscafé  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JXJJ67S/?tag=tolees0ca-21'
 descuento: '25.28'
 average: '26.0675'

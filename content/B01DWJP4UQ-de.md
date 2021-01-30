@@ -16,6 +16,7 @@ comparePrice: 219.99 EUR
 prodname: 'Garmin 010-01597-11"vivomove Classic Lederarmband Rosegold'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01DWJP4UQ/?tag=tolees0ca-21'
 descuento: '55.00'
 average: '99.0'

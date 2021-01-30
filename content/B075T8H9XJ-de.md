@@ -16,6 +16,7 @@ comparePrice: 131.99 EUR
 prodname: 'AUKEY Dashcam Dual 1080P Front und Rück Autokamera mit 170° Weitwinkel  Superkondensator  WDR Nachtsicht Dash Cam mit G-Sensor Bewegungserkennung  Loop-Aufnahme und Dual-Port Kfz-Ladegerä'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075T8H9XJ/?tag=tolees0ca-21'
 descuento: '16.67'
 average: '109.99'

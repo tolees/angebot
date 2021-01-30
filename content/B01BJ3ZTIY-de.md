@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Bauerfeind Kniebandage „Knee Support“ für Männer  1 Sportkniebandage für Fußball  Joggen oder Fitness  Meniskus Knie-Bandage mit Silikonring  Rechts & links tragbar'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BJ3ZTIY/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '63.2'

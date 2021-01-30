@@ -16,6 +16,7 @@ comparePrice: 2799.0 EUR
 prodname: 'Microsoft Surface Book 2 38 1 cm  15 Zoll  Laptop  Intel Core i7-8650U  16GB RAM  256 GB SSD  NVIDIA GeForce GTX 1060  Win 10 Pro  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078YHD9BB/?tag=tolees0ca-21'
 descuento: '80.53'
 average: '1096.3333333333333'

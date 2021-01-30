@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Schiesser Damen Mix & Relax Shirt 1/2 Arm Schlafanzugoberteil  Blau  Nachtblau 804   38  Herstellergröße: 038 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JHPCXMX/?tag=tolees0ca-21'
 descuento: '17.64'
 average: '20.55'

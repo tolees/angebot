@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'PLAYMOBIL Novelmore 70224 Geniale Wasserballiste  Für Kinder von 5-10 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P6FP94T/?tag=tolees0ca-21'
 descuento: '25.21'
 average: '18.192'

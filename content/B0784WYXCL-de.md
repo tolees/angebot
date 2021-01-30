@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Navitech schwarz Gehäuse für APEMAN Mini Car Camera Dash Cam 1080P Full HD Video Recorder with Sony Sensor  650NM Lens  WDR  Loop Recording  Motion Detection  Park Monitor and G-Senso'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0784WYXCL/?tag=tolees0ca-21'
 descuento: '15.40'
 average: '10.99'

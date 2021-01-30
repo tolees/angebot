@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Pokemon Tekken Tournament DX Pro Controller [Nintendo Switch]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07611WDMG/?tag=tolees0ca-21'
 descuento: '51.63'
 average: '19.47'

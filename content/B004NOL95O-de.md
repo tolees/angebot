@@ -16,6 +16,7 @@ comparePrice: 82.33 EUR
 prodname: 'Draper Expert 02753 Innenmessgerät 50-160 mm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004NOL95O/?tag=tolees0ca-21'
 descuento: '24.44'
 average: '62.21'

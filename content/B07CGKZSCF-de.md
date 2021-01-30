@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Hot Wheels GBN81 Track Builder Booster Pack Spielset  Beschleuniger mit 2 Tracks und 1 Spielzeugauto  Trackset Zubehör  ab 6 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CGKZSCF/?tag=tolees0ca-21'
 descuento: '28.76'
 average: '14.24'

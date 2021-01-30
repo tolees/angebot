@@ -16,6 +16,7 @@ comparePrice: 2.79 EUR
 prodname: 'keeeper Ordnungssystem 30x8  Polypropylen  Silber  30 x 8 x 5 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003PAKGZG/?tag=tolees0ca-21'
 descuento: '40.86'
 average: '1.65'

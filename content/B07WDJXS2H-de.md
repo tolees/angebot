@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'SEIKO Automatische Uhr SRPD83K1  schwarz  Street'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WDJXS2H/?tag=tolees0ca-21'
 descuento: '29.70'
 average: '210.2'

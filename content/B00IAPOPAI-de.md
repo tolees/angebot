@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Kärcher Mehrzwecksauger WD 3 Premium  Behältergröße: 17 l aus Edelstahl  Tatsächliche Saugleistung: 200 Air Watt  Blasfunktion  Parkposition  ergonomischer Tragegriff '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00IAPOPAI/?tag=tolees0ca-21'
 descuento: '42.22'
 average: '52'

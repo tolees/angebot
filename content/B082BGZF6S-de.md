@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'IWEMEK Mädchen Eiskönigin ELSA Kleid Schneekönigin Prinzessin Kostüm Schneeflocke Tüll Kleid + Mantel + Hose + Zubehör Weihnachten Karneval Verkleidung Geburtstag Partykleid Blaue Outfits 5-6 Jahre'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B082BGZF6S/?tag=tolees0ca-21'
 descuento: '52.09'
 average: '23.95'

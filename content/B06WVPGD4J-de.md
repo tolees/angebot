@@ -16,6 +16,7 @@ comparePrice: 14.49 EUR
 prodname: 'Playmobil 9282 - Skischule'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06WVPGD4J/?tag=tolees0ca-21'
 descuento: '24.22'
 average: '10.806756756756753'

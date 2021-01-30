@@ -16,6 +16,7 @@ comparePrice: 85.99 EUR
 prodname: 'Carrera GO!!! PLUS Power Lap 20066006 Autorennbahn Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B4GXNT2/?tag=tolees0ca-21'
 descuento: '19.76'
 average: '69.0'

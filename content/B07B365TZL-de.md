@@ -16,6 +16,7 @@ comparePrice: 11.41 EUR
 prodname: 'DCU: Suicide Squad - Hell to Pay  exklusiv bei Amazon.de  [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B365TZL/?tag=tolees0ca-21'
 descuento: '30.15'
 average: '7.97'

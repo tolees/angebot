@@ -16,6 +16,7 @@ comparePrice: 12.36 EUR
 prodname: 'Men in Black: International  Ltd. Steelbook  [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SSZV14Z/?tag=tolees0ca-21'
 descuento: '20.63'
 average: '9.81'

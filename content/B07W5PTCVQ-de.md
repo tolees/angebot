@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'OneOdio Active Noise Cancelling Kopfhörer  ANC   40 Stunden Kabellos Bluetooth Over Ear Kopfhörer  Tiefer Bass CVC 8.0 Mikrofon Schnellladung Protein-Ohrpolster faltbar für Reise Büro TV Handy PC'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W5PTCVQ/?tag=tolees0ca-21'
 descuento: '22.22'
 average: '69.99'

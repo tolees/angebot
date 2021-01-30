@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Ecco Damen FLOWTW Riemchensandalen  Schwarz  Black 1001   39 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FPKWDZ2/?tag=tolees0ca-21'
 descuento: '31.86'
 average: '68.11'

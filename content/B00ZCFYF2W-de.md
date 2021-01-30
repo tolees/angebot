@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'SanDisk 64GB Connect Wireless Stick'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00ZCFYF2W/?tag=tolees0ca-21'
 descuento: '26.54'
 average: '37.31666666666667'

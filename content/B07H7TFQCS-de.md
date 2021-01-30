@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Optoma LV130  LED Projektor  WVGA  100.000:1 Kontrast  300Lumen  HDMI  MHL  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07H7TFQCS/?tag=tolees0ca-21'
 descuento: '33.44'
 average: '199.0'

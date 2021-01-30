@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'PLAYMOBIL:THE MOVIE 70071 Robotitron mit Drohne  Ab 5 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P6FMYWN/?tag=tolees0ca-21'
 descuento: '25.48'
 average: '8.333333333333334'

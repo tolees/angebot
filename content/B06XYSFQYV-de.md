@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Hasbro Star Wars C1428EU4 - Episode 8 Kylo Ren elektronische Maske mit Stimmenverzerrer  Verkleidung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XYSFQYV/?tag=tolees0ca-21'
 descuento: '63.65'
 average: '20.1675'

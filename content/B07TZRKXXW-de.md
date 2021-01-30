@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego Star Wars Kylo Ren s Command Shuttle  Kompatibel Mit Lego 75104 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TZRKXXW/?tag=tolees0ca-21'
 descuento: '23.92'
 average: '44.669999999999995'

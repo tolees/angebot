@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'axentia Türgarderobe mit 6 Haken  Kleiderhaken für die Tür ohne Bohren  Türhaken für Küche  Badezimmer  Wohnzimmer und Flur  Edelstahl'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00IXDNSG4/?tag=tolees0ca-21'
 descuento: '23.09'
 average: '9.976666666666665'

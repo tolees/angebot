@@ -16,6 +16,7 @@ comparePrice: 9.09 EUR
 prodname: 'Villeroy & Boch Toy s Delight Eierbecher  Premium Porzellan  Weiß/Rot/Gold'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BXG1NJ8/?tag=tolees0ca-21'
 descuento: '23.10'
 average: '7.99'

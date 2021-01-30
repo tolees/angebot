@@ -16,6 +16,7 @@ comparePrice: 50 EUR
 prodname: 'Skibrille  Ski Snowboardbrille Brillenträger Schneebrille Verspiegelt- Für Skibrillen mit Anti-Nebel UV-Schutz  Winter Schnee Sport  Austauschbar Sphärische Doppelte Linse für Männer Frauen Schwarz '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07J2GBXDR/?tag=tolees0ca-21'
 descuento: '28.02'
 average: '35.99'

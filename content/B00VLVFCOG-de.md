@@ -16,6 +16,7 @@ comparePrice: 16.49 EUR
 prodname: 'Playmobil 5306 - Buntes Kinderzimmer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00VLVFCOG/?tag=tolees0ca-21'
 descuento: '45.42'
 average: '9.0'

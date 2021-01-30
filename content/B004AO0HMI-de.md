@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Jillian Michaels - Shred: Schlank in 30 Tagen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004AO0HMI/?tag=tolees0ca-21'
 descuento: '28.47'
 average: '5.0'

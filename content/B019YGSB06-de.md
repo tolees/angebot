@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Ravensburger Spiele 24721 - Spielend Erstes Lernen: Komm  wir kaufen EIN'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B019YGSB06/?tag=tolees0ca-21'
 descuento: '40.74'
 average: '8.29'

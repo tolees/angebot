@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Yazubi Herren Chino Hose Merlin II - Slim Fit - NEU  Schwarz  Black 194008   W28/L30'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B084JPQM92/?tag=tolees0ca-21'
 descuento: '65.30'
 average: '20.8'

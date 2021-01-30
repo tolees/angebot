@@ -16,6 +16,7 @@ comparePrice: 10.67 EUR
 prodname: 'Tödliche Versprechen - Eastern Promises [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001B0AY7M/?tag=tolees0ca-21'
 descuento: '43.86'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'HolyHigh Bluetooth Kopfhörer in Ear Sport Kabellos Drahtlose kopfhörer Ohrhörer Bluetooth 5.0 Wasserdicht IPX7 Auto Pairing Mikrofon mit Ladebox 3000mAh 120 Stunden Spielzeit für iOS Android Samsung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QN1YPQM/?tag=tolees0ca-21'
 descuento: '48.85'
 average: '39.99'

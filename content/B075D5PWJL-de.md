@@ -16,6 +16,7 @@ comparePrice: 169.9 EUR
 prodname: 'Britax Römer  BABY-SAFE PLUS SHR II Autositz Babyschale Geburt  13 kg  Gruppe 0+  wine rose'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075D5PWJL/?tag=tolees0ca-21'
 descuento: '28.19'
 average: '122.01'

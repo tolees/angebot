@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'HUGO Herren 708 Slim Jeans  Blau  Dark Blue 405   W32/L32'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00O90JNO6/?tag=tolees0ca-21'
 descuento: '38.15'
 average: '79.79'

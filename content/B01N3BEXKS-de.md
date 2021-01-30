@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Lion - Der lange Weg nach Hause [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N3BEXKS/?tag=tolees0ca-21'
 descuento: '31.37'
 average: '6.17'

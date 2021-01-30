@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Master Regale® Schwerlastregal 180x120x45cm  HxBxT  Steckregal  Tragkraft bis zu 300 kg pro Fachboden. Verwendbar als Kellerregal  Lagerregal  Werkstattregal oder Garagenregal'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JGM5FTM/?tag=tolees0ca-21'
 descuento: '28.12'
 average: '79.0'

@@ -16,6 +16,7 @@ comparePrice: 228.48 EUR
 prodname: 'HP 27f  27 Zoll Full HD IPS  Monitor  AMD FreeSync  HDMI  VGA  1920 x 1080 Pixel  60Hz  5ms Reaktionszeit  schwarz silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CPCHSV5/?tag=tolees0ca-21'
 descuento: '29.40'
 average: '172.53'

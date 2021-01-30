@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Immenhof - Die 5 Originalfilme [3 DVDs]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00BX50RK4/?tag=tolees0ca-21'
 descuento: '25.14'
 average: '11.97'

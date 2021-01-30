@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Akku Hülle für iPhone X/XS  [4000 mAh] Ultra Dünn Ladehülle FLYLINKTECH Akku Hülle für iPhone X/XS Ladegerät Batterie Hülle Schutzhülle Wiederaufladen Leistungsstarke Power Bank iPhone X/XS [5 8 Zoll]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TT3XR6Z/?tag=tolees0ca-21'
 descuento: '44.44'
 average: '14.44'

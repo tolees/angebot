@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Kids Bay Walkie Talkie Kinder Spielzeuge Funkgeräte 8 Kanäle 4KM Reichweite Eingebaute Taschenlampe 3 Schlüsselbänder Wasserdicht Geschenk für Jungen/ Mädchen  3 Stück Tarnung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VD1TNZX/?tag=tolees0ca-21'
 descuento: '19.57'
 average: '36.99'

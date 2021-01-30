@@ -16,6 +16,7 @@ comparePrice: 88.99 EUR
 prodname: 'SLS3 Triathlon Einteiler Herren | FRT 2.0 Trisuit | 2 Taschen | Wettkampf | Front Reißverschluss |  Black/Red  M '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078YDJH5N/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '71.19'

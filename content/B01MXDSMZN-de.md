@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Büchel LED-Akkuleuchtenset  80 Lux  Frontlampe: Vail + Akku-Rücklicht: Micro Light  inkl. Ladegerät  StVZO zugelassen  schwarz  51252526'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MXDSMZN/?tag=tolees0ca-21'
 descuento: '38.46'
 average: '39.97'

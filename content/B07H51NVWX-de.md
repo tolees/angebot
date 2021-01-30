@@ -16,6 +16,7 @@ comparePrice: 689.0 EUR
 prodname: 'Nikon D3500 Kit AF-S DX 18-105 mm und weiteres Zubehör'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07H51NVWX/?tag=tolees0ca-21'
 descuento: '21.63'
 average: '539.95'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'PLAYMOBIL Sports & Action 9375 Stomp Racer mit Booster  Ab 5 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076CNJQN9/?tag=tolees0ca-21'
 descuento: '26.16'
 average: '14.76'

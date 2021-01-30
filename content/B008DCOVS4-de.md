@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Doctor s Diary Collection - Staffel 1-3 in einer Box [6 DVDs]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B008DCOVS4/?tag=tolees0ca-21'
 descuento: '25.60'
 average: '12.64'

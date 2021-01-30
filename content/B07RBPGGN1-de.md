@@ -16,6 +16,7 @@ comparePrice: 53.02 EUR
 prodname: 'YLCJ Bronze Industrial Vintage doble cabeza Chunky Steampunk Water Pipe Lámpara de pared Retro luz de la pared para Loft Barn cocina Almacén Bar Cafe'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RBPGGN1/?tag=tolees0ca-21'
 descuento: '47.15'
 average: '28.02'

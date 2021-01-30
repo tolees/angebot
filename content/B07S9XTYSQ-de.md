@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'GODNECE LED Licht-Set für Baustein  Led Beleuchtungsset Licht-Set für Baustein Spielzeug Kompatibel Mit Lego Technic 42030 Volvo L350F Radlader Bausatz Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07S9XTYSQ/?tag=tolees0ca-21'
 descuento: '55.01'
 average: '44.99'

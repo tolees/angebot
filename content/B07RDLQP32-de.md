@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'Salomon Herren X REVEAL GTX Trekking- & Wanderhalbschuhe  Farbe: lila  Flint Stone/Black/India Ink  Größe: EU 42'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RDLQP32/?tag=tolees0ca-21'
 descuento: '44.33'
 average: '66.3'

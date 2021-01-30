@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Villeroy & Boch Toy s Delight Dip-Set  4-teillig  Premium Porzellan  Weiß/Rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00ZKD7WG2/?tag=tolees0ca-21'
 descuento: '29.46'
 average: '35.2'

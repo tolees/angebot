@@ -16,6 +16,7 @@ comparePrice: 540.0 EUR
 prodname: 'LG 38UC99-W 95 25 cm  37 5 Zoll  Curved 21:9 UltraWide™ IPS Monitor  QHD+  AMD Radeon FreeSync  DAS Mode   weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LSRCQ14/?tag=tolees0ca-21'
 descuento: '40.74'
 average: '320.0'

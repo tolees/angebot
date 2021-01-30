@@ -16,6 +16,7 @@ comparePrice: 493.0 EUR
 prodname: 'Neff NTK1320N Kochfeld  Elektro/Einbau  / 2 Heizelemente / 30.6 cm/Schwertknebel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N6WLL5L/?tag=tolees0ca-21'
 descuento: '34.48'
 average: '323.0'

@@ -16,6 +16,7 @@ comparePrice: 449.99 EUR
 prodname: 'DYON Smart 55 XT 138 7 cm  55 Zoll  Fernseher  4K Ultra-HD Smart TV  HD Triple Tuner  DVB-C/-S2/-T2   Prime Video  Netflix & HbbTV  [Modelljahr 2020]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08BLL97XW/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '359.99'

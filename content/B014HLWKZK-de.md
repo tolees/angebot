@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Levi Strauss & Co Herren 514 Jeans  Blau  Onewash 95977   40/32 UK '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B014HLWKZK/?tag=tolees0ca-21'
 descuento: '39.32'
 average: '47.94'

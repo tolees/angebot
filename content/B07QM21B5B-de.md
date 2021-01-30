@@ -16,6 +16,7 @@ comparePrice: 76.89 EUR
 prodname: 'Star Wars Jedi: Fallen Order - Deluxe  Edition - [Xbox One]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QM21B5B/?tag=tolees0ca-21'
 descuento: '28.48'
 average: '54.99'

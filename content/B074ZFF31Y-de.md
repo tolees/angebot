@@ -16,6 +16,7 @@ comparePrice: 158.41 EUR
 prodname: 'De Longhi Nespresso EN 500.W Kaffeemaschine  1400 W  1 l  19 Bar   Silky Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074ZFF31Y/?tag=tolees0ca-21'
 descuento: '24.25'
 average: '119.99'

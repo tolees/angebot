@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Russell Hobbs Popcornmaschine Fiesta  Heißluft Popcorn Maker  ohne Fett & Öl  inkl. Messlöffel   1200 Watt  24630-56'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0742SKDPV/?tag=tolees0ca-21'
 descuento: '40.01'
 average: '17.99'

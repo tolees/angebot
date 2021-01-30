@@ -16,6 +16,7 @@ comparePrice: 29.88 EUR
 prodname: 'SLV GU10 ES111 LED Leuchtmittel  11 1 cm Ø | 6 5 Watt  2700 Kelvin  warmweiß   390 Lumen Lichtstrom  nicht dimmbar | sehr sparsame LED-Lampe  EEK A+ und 7 kWh Energieverbrauch | 30.000 h Lebensdauer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0185UNQYI/?tag=tolees0ca-21'
 descuento: '23.06'
 average: '22.99'

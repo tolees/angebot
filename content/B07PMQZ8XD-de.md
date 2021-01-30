@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'SAWAKE Handventilator mini Ventilator mit Handyhalter  elektrisch Handlüfter für Reisen  Büro  Zuhause  Draußen  Innen  140g  Bambus-Stäbe Design  USB aufladbar  verstellbar  2600mAh Batterie '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PMQZ8XD/?tag=tolees0ca-21'
 descuento: '60.04'
 average: '5.99'

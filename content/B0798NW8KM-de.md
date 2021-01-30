@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Elegant Life Besteck  24-teilige Besteck Set  aus Japan-Edelstahl Hochwertige Spiegelpolierte Besteck-Sets  Mehrzweckgebrauch für Haus  Küche  Restaurant Besteck Sets mit Geschenkbox für 6 Personen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0798NW8KM/?tag=tolees0ca-21'
 descuento: '15.01'
 average: '28.25923076923077'

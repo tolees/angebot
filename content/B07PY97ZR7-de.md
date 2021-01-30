@@ -16,6 +16,7 @@ comparePrice: 13.77 EUR
 prodname: 'Funko 39719 POP Vinyl: Animation: Simpsons-Bart Fly Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PY97ZR7/?tag=tolees0ca-21'
 descuento: '29.56'
 average: '9.344999999999999'

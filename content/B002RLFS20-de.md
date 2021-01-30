@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Soehnle Page Profi Digitalwaage für max. 15 kg  digitale Küchenwaage mit großer Wiegefläche und Tara  praktische Haushaltswaage mit Hold-Funktion'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002RLFS20/?tag=tolees0ca-21'
 descuento: '34.97'
 average: '34.163333333333334'

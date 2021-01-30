@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Gore Wear Unisex M Infinium Handschuhe  Schwarz  Black/Neon Yellow   Gr. 10'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07F86THC1/?tag=tolees0ca-21'
 descuento: '54.03'
 average: '22.96'

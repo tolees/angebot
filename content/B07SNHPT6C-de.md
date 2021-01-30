@@ -16,6 +16,7 @@ comparePrice: 135.2 EUR
 prodname: 'SS&LL La basura del paso Puede Cubos de basura Con Tapas rectángulo cubo de basura de Acero inoxidable en casa & Baño de cocina-D'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SNHPT6C/?tag=tolees0ca-21'
 descuento: '39.36'
 average: '81.99'

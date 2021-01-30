@@ -16,6 +16,7 @@ comparePrice: 11.82 EUR
 prodname: 'Funko 39697 POP Vinyl: Dragonball Z S6: Vegeta Sammelbares Spielzeug  Mehrfarben  Einheitsgröße'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MZPS562/?tag=tolees0ca-21'
 descuento: '25.97'
 average: '9.783333333333333'

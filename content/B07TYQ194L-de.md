@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Pop Avengers Endgame Thanos in the Garden Vinyl Figure'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TYQ194L/?tag=tolees0ca-21'
 descuento: '33.25'
 average: '7.696666666666668'

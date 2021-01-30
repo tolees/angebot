@@ -16,6 +16,7 @@ comparePrice: 69.6 EUR
 prodname: 'Liqui Moly Motoröl Top Tec 4200 5 W-30 5 Liter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003JHTIPE/?tag=tolees0ca-21'
 descuento: '31.45'
 average: '47.71'

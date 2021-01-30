@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Drei Engel für Charlie - Volle Power [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00BB626QI/?tag=tolees0ca-21'
 descuento: '28.90'
 average: '4.97'

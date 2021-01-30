@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Garmin Forerunner 235 Handgelenk-Based Herzfrequenz-GPS-Laufuhr  010-03717-55'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B016ZWT64M/?tag=tolees0ca-21'
 descuento: '30.03'
 average: '259.095'

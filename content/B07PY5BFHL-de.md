@@ -16,6 +16,7 @@ comparePrice: 671.43 EUR
 prodname: 'LG 60UM71007LB 151 cm  60 Zoll  Fernseher  UHD  Triple Tuner  4K Active HDR  Smart TV '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PY5BFHL/?tag=tolees0ca-21'
 descuento: '21.21'
 average: '529.0'

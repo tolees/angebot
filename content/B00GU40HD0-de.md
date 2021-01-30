@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Desperate Housewives - Die komplette Serie [49 DVDs]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00GU40HD0/?tag=tolees0ca-21'
 descuento: '30.40'
 average: '48.71'

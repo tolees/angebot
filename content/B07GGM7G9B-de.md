@@ -16,6 +16,7 @@ comparePrice: 265 EUR
 prodname: 'ghd Platinum+ Styler  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GGM7G9B/?tag=tolees0ca-21'
 descuento: '30.60'
 average: '183.9'

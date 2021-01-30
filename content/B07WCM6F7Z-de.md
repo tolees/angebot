@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'ORICO Tool-Free 5 Bay USB 3.0 3.5 Zoll Magnetic-Type Festplattengehäuse für 3.5“ SATA Externe Festplatte Gehäuse SATA3.0 Unterstützung 5x10TB -12V6.5A Netzteil mit Windows/Mac/Linux ABS Kunststoffe'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WCM6F7Z/?tag=tolees0ca-21'
 descuento: '17.65'
 average: '139.99'

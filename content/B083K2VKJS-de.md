@@ -16,6 +16,7 @@ comparePrice: 189.98 EUR
 prodname: 'DXX Acryl Schaukasten Vitrine  Schaukasten Acryl Vitrine Display Case für Lego Technic 42056 Porsche 911 GT3 RS  Ohne Modell '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083K2VKJS/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '85.99'

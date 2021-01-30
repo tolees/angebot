@@ -16,6 +16,7 @@ comparePrice: 79.23 EUR
 prodname: 'Bosch Professional Kreuzlinienlaser GLL 2-10  roter Laser  Max. Reichweite: 10 m  3x AA Batterien  Schutztasche  im Karton '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LP4H22S/?tag=tolees0ca-21'
 descuento: '21.75'
 average: '62.0'

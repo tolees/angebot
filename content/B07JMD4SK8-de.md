@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Playmobil 70010 SuperSet Familiengarten  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JMD4SK8/?tag=tolees0ca-21'
 descuento: '22.06'
 average: '13.395'

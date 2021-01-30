@@ -16,6 +16,7 @@ comparePrice: 999 EUR
 prodname: 'ASUS VivoBook S15 S532FL  90NB0MJ2-M00560  39 6 cm  15 6 Zoll  FHD  WV  matt  Notebook  Intel Core i5-8265U  8GB RAM  512GB SSD  NVIDIA GeForce MX250  2GB   Windows 10  Transparent Silver'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SMRNRCR/?tag=tolees0ca-21'
 descuento: '51.45'
 average: '485'

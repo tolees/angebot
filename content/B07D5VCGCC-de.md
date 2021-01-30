@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Under Armour Herren schnelltrocknende Boxershorts  6inch - 3 Pack  Schwarz  Black   XX-Large'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07D5VCGCC/?tag=tolees0ca-21'
 descuento: '36.70'
 average: '25.29'

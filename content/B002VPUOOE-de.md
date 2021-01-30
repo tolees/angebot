@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Johnnie Walker Red Label Blended Scotch Whisky - Rauchige Note mit frischen und süßen Akzenten - Aus den vier Ecken Schottlands direkt ins Glas - 1 x 0 7l'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002VPUOOE/?tag=tolees0ca-21'
 descuento: '28.59'
 average: '9.99'

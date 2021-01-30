@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Gabor Shoes Damen Jollys Stiefeletten  Beige  Cognac  Natur  14   41 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PQJ9MYM/?tag=tolees0ca-21'
 descuento: '38.06'
 average: '61.91'

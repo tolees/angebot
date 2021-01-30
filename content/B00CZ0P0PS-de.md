@@ -16,6 +16,7 @@ comparePrice: 49.49 EUR
 prodname: 'Verbatim MediaShare Wireless  tragbares Streaming-Gerät mit W-Lan  zur Datensicherung und Datenabruf  mit SD-Karten Slot und USB-Anschluss  98243'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00CZ0P0PS/?tag=tolees0ca-21'
 descuento: '55.53'
 average: '22.01'

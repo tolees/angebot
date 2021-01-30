@@ -16,6 +16,7 @@ comparePrice: 61.99 EUR
 prodname: 'Beurer BC 57 Handgelenk-Blutdruckmessgerät  Medizinprodukt mit App-Anbindung via Bluetooth  zertifizierter Datenschutz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0161Q2OHI/?tag=tolees0ca-21'
 descuento: '35.54'
 average: '39.96'

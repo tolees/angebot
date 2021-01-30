@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Belkin PowerHouse Ladestation  geeignet für iPhone XS  XS Max  XR  X  8/8 Plus und andere Modelle  Apple Watch Series 4  3  2  1 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XH4LGHC/?tag=tolees0ca-21'
 descuento: '49.99'
 average: '50.0'

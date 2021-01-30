@@ -16,6 +16,7 @@ comparePrice: 17.97 EUR
 prodname: 'Monuments'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072LWV8KH/?tag=tolees0ca-21'
 descuento: '25.93'
 average: '13.31'

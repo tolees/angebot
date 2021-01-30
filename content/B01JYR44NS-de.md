@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Parrot 3520410038808 Minidrone Swing mit Flypad  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01JYR44NS/?tag=tolees0ca-21'
 descuento: '67.99'
 average: '44.978750000000005'

@@ -16,6 +16,7 @@ comparePrice: 172.99 EUR
 prodname: 'Pioneer DDJ-200 - Bluetooth-Einstiegscontroller für DJs mit Smartphone  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RPW4PSS/?tag=tolees0ca-21'
 descuento: '19.09'
 average: '139.97'

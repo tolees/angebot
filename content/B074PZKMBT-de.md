@@ -16,6 +16,7 @@ comparePrice: 249.97 EUR
 prodname: 'Sony Xperia XZ1 Smartphone   13 2 cm  5 2 Zoll  Triluminos Display  19MP Kamera  64GB Speicher  Android  Silber - Deutsche Version'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074PZKMBT/?tag=tolees0ca-21'
 descuento: '31.60'
 average: '240.235'

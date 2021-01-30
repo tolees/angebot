@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Polaroid Originals OneStep 2 VF Camera - Coral'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07T8BJ4MC/?tag=tolees0ca-21'
 descuento: '39.26'
 average: '78.95'

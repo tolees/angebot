@@ -16,6 +16,7 @@ comparePrice: 13.79 EUR
 prodname: 'The Dead Don t Die [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SQBWZL3/?tag=tolees0ca-21'
 descuento: '20.67'
 average: '10.94'

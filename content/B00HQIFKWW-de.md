@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Sony Mobile SWR10 SmartBand Aktivitätstracker Schlaftracker Fitness Tracker - Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HQIFKWW/?tag=tolees0ca-21'
 descuento: '51.99'
 average: '24.0'

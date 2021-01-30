@@ -16,6 +16,7 @@ comparePrice: 1.95 EUR
 prodname: 'NIVEA MEN Fresh Active Deo Stift  ohne Aluminium  ACH  mit erfrischender Formel  Deodorant Stick mit 48h Schutz pflegt die Haut  40 ml'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YSNGN48/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '1.56'

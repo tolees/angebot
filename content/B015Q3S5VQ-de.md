@@ -16,6 +16,7 @@ comparePrice: 29.57 EUR
 prodname: 'Rubie s 3620100 - MLP Twilight Sparkle Deluxe - Child  Action Dress Up'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B015Q3S5VQ/?tag=tolees0ca-21'
 descuento: '20.12'
 average: '23.62'

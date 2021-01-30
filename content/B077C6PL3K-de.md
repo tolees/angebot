@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Diesel Damen Analog Quarz Uhr mit Edelstahl Armband DZ5567'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077C6PL3K/?tag=tolees0ca-21'
 descuento: '40.71'
 average: '117.99'

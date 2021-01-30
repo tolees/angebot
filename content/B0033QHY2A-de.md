@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Trelock Schloss FS 300 Trigo-85 cm Faltschloss  schwarz  19.5 x 5.5 x 4 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0033QHY2A/?tag=tolees0ca-21'
 descuento: '33.49'
 average: '39.9'

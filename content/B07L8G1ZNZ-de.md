@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Kara Harvey Damen-Armbanduhr Roségold Mesh in 36mm und 32mm Diverse Zifferblätter Analog Quarz Edelstahl  36 Millimeter  Roségold Perlmutt '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07L8G1ZNZ/?tag=tolees0ca-21'
 descuento: '40.00'
 average: '89.4'

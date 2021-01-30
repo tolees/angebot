@@ -16,6 +16,7 @@ comparePrice: 809.0 EUR
 prodname: 'Keter Gerätehaus Manor 6x8 DD  Grau  7 6 m³'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00CJRIQU8/?tag=tolees0ca-21'
 descuento: '39.43'
 average: '482.5'

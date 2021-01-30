@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Dickie 203715001 Toys City Fire Engine  Feuerwehrauto mit manueller Wasserspritze  Feuerwehr  Einsatzfahrzeug  Licht & Sound  31 cm  ab 3 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00U770FEC/?tag=tolees0ca-21'
 descuento: '34.80'
 average: '14.99'

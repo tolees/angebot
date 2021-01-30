@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Funko 39049 POP Vinyl: Games: Fortnite: Loot Llama 10" Sammelbares Spielzeug  Mehrfarben  Einheitsgröße'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MBQCKB9/?tag=tolees0ca-21'
 descuento: '32.92'
 average: '23.41'

@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Laser Entfernungsmesser Distanz 50M LOMVUM Laser Messgerät Entfernung Messen Sie Entfernung  Fläche und Volumen Pythagoras'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FVV7SL8/?tag=tolees0ca-21'
 descuento: '80.78'
 average: '24.99'

@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'SanDisk Ultra 3D SSD 250GB  geeignet für lesen mit bis zu 550 MB/Sek.  schreiben mit bis zu 525 MB/Sek. '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071KGRXRH/?tag=tolees0ca-21'
 descuento: '38.60'
 average: '34.99'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Philips HF3500/01 Lichtwecker 7.5 W Wake-Up Light  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00W1H9AW4/?tag=tolees0ca-21'
 descuento: '18.56'
 average: '57'

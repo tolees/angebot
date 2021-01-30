@@ -16,6 +16,7 @@ comparePrice: 253.98 EUR
 prodname: 'DXX Technik Bausteine Bulldozer Spielzeug  1572Teile 1:10 2.4G RC Ferngesteuerter Bagger Baustellen-Fahrzeug Bausteine Konstruktionsspielzeug Kompatibel mit Lego Technic'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083JCBY4B/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '111.02921568627451'

@@ -16,6 +16,7 @@ comparePrice: 27.18 EUR
 prodname: 'COPIC  Markerstifte  vielfach einsetzbar  Einheitsgröße'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00BHLRNEM/?tag=tolees0ca-21'
 descuento: '22.88'
 average: '20.96'

@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Huawei Y7 2019 Dual-SIM Smartphone 15 9 cm  6 26 Zoll   4000mAh Akku  32 GB interner Speicher  3GB RAM  Android 8.0  midnight black'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MM2S6TQ/?tag=tolees0ca-21'
 descuento: '38.19'
 average: '123.0'

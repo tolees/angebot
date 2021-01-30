@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Rieker Herren B1340 Desert Boots  Braun  nuss/river/22   41'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01EIJNZ7I/?tag=tolees0ca-21'
 descuento: '69.99'
 average: '17.99'

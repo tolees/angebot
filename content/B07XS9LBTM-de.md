@@ -16,6 +16,7 @@ comparePrice: 749 EUR
 prodname: 'Apple Watch Series 5  GPS + Cellular  40 mm  Edelstahlgehäuse Space Schwarz - Sportarmband Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XS9LBTM/?tag=tolees0ca-21'
 descuento: '18.09'
 average: '613.51'

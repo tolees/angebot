@@ -16,6 +16,7 @@ comparePrice: 105.0 EUR
 prodname: 'HDMI KVM Switch USB 4 Port 4K 4 PC 1 Monitor Switch 4K @ 30Hz 4 In 1 Out Hotkey Switch HDCP1.2 Ultra HD YUV 4: 4: 4 Mit Kabel Kompatibel mit Mehreren Systemen und Geräten'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08DKKNVTN/?tag=tolees0ca-21'
 descuento: '20.96'
 average: '82.99'

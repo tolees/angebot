@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Uvex Unisex Jugend  hlmt 4 cc Fahrradhelm  red mat  51-55 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XHLW4H9/?tag=tolees0ca-21'
 descuento: '54.48'
 average: '27.29'

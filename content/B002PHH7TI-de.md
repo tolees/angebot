@@ -16,6 +16,7 @@ comparePrice: 38.95 EUR
 prodname: 'Jil Sander Jil  femme/woman  Eau de Parfum  1er Pack  1 x 50 ml '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002PHH7TI/?tag=tolees0ca-21'
 descuento: '28.24'
 average: '27.95'

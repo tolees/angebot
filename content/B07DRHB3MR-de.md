@@ -16,6 +16,7 @@ comparePrice: 189.99 EUR
 prodname: 'Jabra Elite Active 65t True Wireless Bluetooth Sport Kopfhörer  Musik und telefonieren  bis zu 15 Std. Akkulaufzeit mit Ladecase  Sprachsteuerung für Alexa  Siri  Google Assistant  titanium schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DRHB3MR/?tag=tolees0ca-21'
 descuento: '37.37'
 average: '120.91333333333334'

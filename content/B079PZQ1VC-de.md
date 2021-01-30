@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Funko 26904 Pop Marvel: Avengers Infinity War - Teenager Groot mit Pistole Collectible Figur'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079PZQ1VC/?tag=tolees0ca-21'
 descuento: '18.30'
 average: '13.106206896551726'

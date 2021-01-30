@@ -16,6 +16,7 @@ comparePrice: 13.79 EUR
 prodname: 'Better Call Saul - Die komplette erste Staffel [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00TSK0N5A/?tag=tolees0ca-21'
 descuento: '16.46'
 average: '11.52'

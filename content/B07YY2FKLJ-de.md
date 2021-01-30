@@ -16,6 +16,7 @@ comparePrice: 399.99 EUR
 prodname: 'CNC 3018 Pro Fräsmaschine mit 5.5W Lasermodul  Arbeitsbereich: 300 * 180 * 45mm  GRBL Control 3 Achsen Mini DIY Holz Router CNC Graviermaschine mit Offline Controller + ER11 + 5mm Verlängerungsstange'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YY2FKLJ/?tag=tolees0ca-21'
 descuento: '25.00'
 average: '299.99'

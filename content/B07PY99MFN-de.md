@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'ASS 22583135 Paw Patrol Missions Memo'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PY99MFN/?tag=tolees0ca-21'
 descuento: '17.52'
 average: '6.8149999999999995'

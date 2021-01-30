@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Superdry Herren O L Vintage Embroidery L/S Tee Langarmshirt  Weiß  Optic White 26C   X-Small'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FN2MWN8/?tag=tolees0ca-21'
 descuento: '20.03'
 average: '26.004166666666666'

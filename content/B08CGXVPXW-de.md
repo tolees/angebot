@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Xiaomi Redmi 9A - Smartphone 32GB  2GB RAM  Dual SIM  Granite Gray'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08CGXVPXW/?tag=tolees0ca-21'
 descuento: '17.17'
 average: '93.33333333333333'

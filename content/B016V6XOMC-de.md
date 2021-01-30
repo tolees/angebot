@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Original HTC Micro USB Ladekabel für HTC One M7 M8 M9 Smartphone 1m schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B016V6XOMC/?tag=tolees0ca-21'
 descuento: '47.81'
 average: '3.7649999999999997'

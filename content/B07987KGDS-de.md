@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 26713 Grumpy Bear Spielfigur  Mehrfarbig  10 Centimeters'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07987KGDS/?tag=tolees0ca-21'
 descuento: '42.89'
 average: '7.99'

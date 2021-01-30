@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Unbekannt Quadratische Pappteller 22 9 cm  8er-Packung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B012O45UFE/?tag=tolees0ca-21'
 descuento: '71.93'
 average: '1.12'

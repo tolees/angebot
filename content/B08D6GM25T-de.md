@@ -16,6 +16,7 @@ comparePrice: 39.98 EUR
 prodname: 'Hoseili WK60 Bluetooth Kopfhörer In Ear  Kabellose Kopfhörer mit Soliden Bass-Sound  Wireless Kopfhörer Sport Ohrhörer  Stereo Deep Bass Touch-Control  Stereoanrufe  Battery LED Display'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08D6GM25T/?tag=tolees0ca-21'
 descuento: '22.51'
 average: '36.98'

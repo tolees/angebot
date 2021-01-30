@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Version 3.0 HD Malen nach Zahlen Diy Kit Weihnachten Gift  Ohne Frame '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07D9K5RLX/?tag=tolees0ca-21'
 descuento: '23.51'
 average: '19.88'

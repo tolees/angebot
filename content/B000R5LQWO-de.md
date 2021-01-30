@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Bosch Professional  6tlg. Flachfräsbohrer-Set Self Cut Speed mit 1/4"-Sechskantschaft'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000R5LQWO/?tag=tolees0ca-21'
 descuento: '22.73'
 average: '14.476666666666667'

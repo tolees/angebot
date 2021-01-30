@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'Fitbit Unisex-Adult Charge 3 Der Innovative Gesundheits-und Fitness-Tracker  Schwarz/Aluminium-Graphitgrau Advanced Health & Fitness  Einheitsgröße'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G26PDJQ/?tag=tolees0ca-21'
 descuento: '33.98'
 average: '99'

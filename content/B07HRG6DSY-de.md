@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Ultimate Ears BOOM 3 Bluetooth Lautsprecher  wasserdichter 360°-Sound  inklusive Power up Ladestation  bengalrot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HRG6DSY/?tag=tolees0ca-21'
 descuento: '38.55'
 average: '109.99'

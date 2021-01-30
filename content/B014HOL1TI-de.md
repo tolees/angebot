@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Jumbo Spiele 12163 12163-Rubik s Cube-3x3'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B014HOL1TI/?tag=tolees0ca-21'
 descuento: '56.09'
 average: '7.9'

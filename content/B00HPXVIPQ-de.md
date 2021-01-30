@@ -16,6 +16,7 @@ comparePrice: 14.69 EUR
 prodname: 'Gardena Comfort FLEX Schlauch 13 mm  1/2 Zoll   10 m: Formstabiler  flexibler Gartenschlauch mit Power-Grip-Profil  aus hochwertigem Spiralgewebe  25 bar Berstdruck  ohne Systemteile  18030-20 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HPXVIPQ/?tag=tolees0ca-21'
 descuento: '33.36'
 average: '9.79'

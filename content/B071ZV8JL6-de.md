@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Terminator 5 - Genisys   4K Ultra HD   + Blu-ray '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071ZV8JL6/?tag=tolees0ca-21'
 descuento: '25.01'
 average: '17.99'

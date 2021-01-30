@@ -16,6 +16,7 @@ comparePrice: 269.0 EUR
 prodname: 'ECOVACS Robotics DEEBOT 600 Saugroboter – Staubsauger Roboter mit MAX-Modus  systematischer Reinigung auf Hartböden  Alexa- & Appsteuerung – Optional mit Wischfunktion'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07F2KXM3S/?tag=tolees0ca-21'
 descuento: '21.94'
 average: '227.49333333333334'

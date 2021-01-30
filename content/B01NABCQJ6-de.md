@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger Herren H2285arlow 1d Turnschuh  Grau  Steel Grey 039   43 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.de/dp/B01NABCQJ6/?tag=tolees0ca-21'
 descuento: '24.97'
 average: '40.6331313131314'

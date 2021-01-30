@@ -16,6 +16,7 @@ comparePrice: 54.9 EUR
 prodname: 'Transcend TS1TSJ25M3S 1TB stabile  tragbare  externe USB3.1 Festplatte  HDD  kompakt  stoßunempfindlich und leicht in grau/grün mit Backup-Funktion  Datensicherung per Knopfdruck   Plug und Play'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B4CJ4KS/?tag=tolees0ca-21'
 descuento: '20.60'
 average: '43.59'

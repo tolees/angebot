@@ -16,6 +16,7 @@ comparePrice: 4.98 EUR
 prodname: 'SimpleLife Handtasche Drehverschluss  Tasche Fall Schnalle Verschluss für Handtaschen Zubehör DIY Handwerk'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PW4WVRN/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '2.49'

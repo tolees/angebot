@@ -16,6 +16,7 @@ comparePrice: 64.0 EUR
 prodname: 'OMEN  K5Q03AA  Gaming Rucksack  für Notebooks  43 94 cm  17 3 Zoll  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00OHW69LQ/?tag=tolees0ca-21'
 descuento: '53.14'
 average: '29.99'

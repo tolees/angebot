@@ -16,6 +16,7 @@ comparePrice: 219.99 EUR
 prodname: 'Portable Monitor - Corprit 15 6 Zoll Tragbarer Monitor 1920X1080 Full HD USB-C Monitor mit IPS Bildschirm USB-C/Mini-HDMI für PC  Handy  PS4 usw  Xbox  mit Schutzhülle'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B089LNM5HP/?tag=tolees0ca-21'
 descuento: '22.73'
 average: '169.99'

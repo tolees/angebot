@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'New Balance Herren ML373 Sneaker  Grau  Light Grey/ML373   42 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MTSE2SA/?tag=tolees0ca-21'
 descuento: '31.84'
 average: '51.11'

@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Kleidertasche Pack-It Original Garment Folder M I Organisation für die Reise und für Zuhause I Koffer- und Home Organizer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00F9S81KY/?tag=tolees0ca-21'
 descuento: '36.60'
 average: '19.02'

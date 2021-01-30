@@ -16,6 +16,7 @@ comparePrice: 8.76 EUR
 prodname: 'King Arthur: Legend of the Sword [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0716CN5BT/?tag=tolees0ca-21'
 descuento: '43.15'
 average: '4.98'

@@ -16,6 +16,7 @@ comparePrice: 267.82 EUR
 prodname: 'AMD Ryzen 7 Prozessor Schwarz Ryzen 7 2700 Max'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KXZ7CLZ/?tag=tolees0ca-21'
 descuento: '25.70'
 average: '199.0'

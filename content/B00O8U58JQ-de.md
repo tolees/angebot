@@ -16,6 +16,7 @@ comparePrice: 7.0 EUR
 prodname: 'Element System 10810-00001 Buchstütze Babylon  2 Stück für Holzregalboden'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00O8U58JQ/?tag=tolees0ca-21'
 descuento: '35.86'
 average: '4.49'

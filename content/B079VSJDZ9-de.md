@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'Hasbro FurReal E0367EU4 - Kleiner Patient Zandi interaktives Plüschtier'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079VSJDZ9/?tag=tolees0ca-21'
 descuento: '40.46'
 average: '25.0'

@@ -16,6 +16,7 @@ comparePrice: 43.9 EUR
 prodname: 'Inter Link 19500010 Regal "Parini 1"  1 Boden  2 Fächer Sonoma Eiche'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B009RJNOO4/?tag=tolees0ca-21'
 descuento: '47.97'
 average: '22.84'

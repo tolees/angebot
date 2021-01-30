@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Ravensburger 26132 - Minecraft Builders & Biomes - Brettspiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PXSJMHF/?tag=tolees0ca-21'
 descuento: '47.49'
 average: '21.0'

@@ -16,6 +16,7 @@ comparePrice: 479.99 EUR
 prodname: 'Kärcher Hochdruckreiniger K 5 Premium Full Control Plus Home  Druck: 20-145 bar  Fördermenge: 500 l/h  Schlauchtrommel  Flächenreiniger T 350  Reinigungsmittel  3-in-1 Strahlrohr  Plus Power Pistole '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N5I46XF/?tag=tolees0ca-21'
 descuento: '23.21'
 average: '368.57'

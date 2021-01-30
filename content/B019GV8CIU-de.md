@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'LECHUZA CUBE Color 14 13380 Kräutertopf  Hochwertiger Kunststoff  Inkl. Stick-Bewässerungssystem  für Innenraumbegrünung geeignet  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B019GV8CIU/?tag=tolees0ca-21'
 descuento: '30.33'
 average: '6.96'

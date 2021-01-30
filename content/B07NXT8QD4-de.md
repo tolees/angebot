@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Vicstar [2 Stück] Samsung Galaxy S10e Panzerglas Displayschutzfolie  9H Härte Anti-Kratzen Anti-Fingerabdruck 99% Transparenz Full HD 3D Touch Kompatibel Schutzfolie für Samsung Galaxy S10e'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NXT8QD4/?tag=tolees0ca-21'
 descuento: '43.06'
 average: '3.98'

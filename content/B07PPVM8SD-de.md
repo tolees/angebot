@@ -16,6 +16,7 @@ comparePrice: 124.99 EUR
 prodname: 'De Longhi EDG505.W | NESCAFÉ Dolce Gusto Esperta | Kapsel Kaffeemaschine | Individuelle Getränkeabstimmung | 15 bar Pumpendruck | 1 4l Wassertank | Farbe Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PPVM8SD/?tag=tolees0ca-21'
 descuento: '26.40'
 average: '90.99'

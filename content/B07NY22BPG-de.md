@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Mattel GFR28 - Toy Story 4 Sprechender Buzz Lightyear deutschsprachig mit +15 Sätzen  17 cm Spielzeug Actionfiguren ab 3 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NY22BPG/?tag=tolees0ca-21'
 descuento: '19.32'
 average: '20.97'

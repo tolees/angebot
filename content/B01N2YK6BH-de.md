@@ -16,6 +16,7 @@ comparePrice: 8.85 EUR
 prodname: 'Ravensburger 20782  - STAR WARS Elfer raus! Familienspiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N2YK6BH/?tag=tolees0ca-21'
 descuento: '34.01'
 average: '5.84'

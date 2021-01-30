@@ -16,6 +16,7 @@ comparePrice: 7.5 EUR
 prodname: 'Duschdas Duschgel  für ein besseres Gefühl mit erfrischendem Kräuterduft  6 x 250 ml '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01EUWE4BY/?tag=tolees0ca-21'
 descuento: '47.87'
 average: '3.91'

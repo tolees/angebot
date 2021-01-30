@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Mattel FRV84 - Disney Pixar Cars Stunt Champion Lightning McQueen Fahrzeug Spielset mit Starter für Stunts und Wheelies  Kinder Spielzeug ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079KCHXCD/?tag=tolees0ca-21'
 descuento: '40.01'
 average: '16.663333333333334'

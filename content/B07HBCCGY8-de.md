@@ -16,6 +16,7 @@ comparePrice: 1149 EUR
 prodname: 'Apple iPhone XS  64GB  - Space Grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HBCCGY8/?tag=tolees0ca-21'
 descuento: '42.04'
 average: '730.7833333333333'

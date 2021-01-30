@@ -16,6 +16,7 @@ comparePrice: 17.49 EUR
 prodname: 'ANSMANN APS 1000 Universal Stecker Netzteil 12V inkl. 7 verschiedende Adapter Stecker - Netzstecker bis max. 1000mA - Netzadapter zur Stromversorgung vieler Elektrokleingeräte von 3-12 Volt regelbar'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002TQ44DC/?tag=tolees0ca-21'
 descuento: '22.01'
 average: '13.64'

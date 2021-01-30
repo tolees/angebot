@@ -16,6 +16,7 @@ comparePrice: 36.9 EUR
 prodname: 'Tommy Hilfiger Damen Bralette  Blau  Navy Blazer 416   Medium  Herstellergröße: MD '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0788BZY9S/?tag=tolees0ca-21'
 descuento: '24.23'
 average: '27.956666666666667'

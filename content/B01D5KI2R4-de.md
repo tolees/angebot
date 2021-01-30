@@ -16,6 +16,7 @@ comparePrice: 14.05 EUR
 prodname: 'Onibaba - Die Töterinnen  Filmjuwelen  [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01D5KI2R4/?tag=tolees0ca-21'
 descuento: '25.41'
 average: '10.48'

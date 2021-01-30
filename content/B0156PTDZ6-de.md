@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'Reishunger Reiskocher  1 2l / 500W / 220V  Warmhaltefunktion  hochwertiger Innentopf  Löffel und Messbecher – Reis für bis zu 6 Personen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0156PTDZ6/?tag=tolees0ca-21'
 descuento: '16.67'
 average: '39.99'

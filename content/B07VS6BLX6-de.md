@@ -16,6 +16,7 @@ comparePrice: 76.37 EUR
 prodname: 'Tommy Hilfiger Damen Aila Slim Polo Ss Poloshirt  Blau  Desert Sky Dw5   40  Herstellergröße: X-Large '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VS6BLX6/?tag=tolees0ca-21'
 descuento: '24.92'
 average: '57.34'

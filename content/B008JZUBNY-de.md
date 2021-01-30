@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Fossil Damen-Ketten Edelstahl Rundschliff Oxyde de Zirconium'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B008JZUBNY/?tag=tolees0ca-21'
 descuento: '32.18'
 average: '24.16761904761905'

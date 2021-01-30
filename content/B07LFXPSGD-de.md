@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Sloggi Zero Feel Bralette EX BH Damen  Weiß  White  03    M'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07LFXPSGD/?tag=tolees0ca-21'
 descuento: '17.45'
 average: '28.85'

@@ -16,6 +16,7 @@ comparePrice: 549.9 EUR
 prodname: 'Xiaomi Mi Note 10 Smartphone  16 43cm  6 47"  3D Curved AMOLED FHD+ Display  128GB interner Speicher + 6GB RAM  108MP KI-Penta-Rückkamera  32MP Selfie-Frontkamera  Dual-SIM  Android 9  Aurora Green'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZGJC5BB/?tag=tolees0ca-21'
 descuento: '19.08'
 average: '440.01418604651167'

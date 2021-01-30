@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Frozen Disney Die Eiskönigin II Königliches Schloss von Arendelle E5495EU4'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07M8SDQJH/?tag=tolees0ca-21'
 descuento: '31.05'
 average: '118.2576923076923'

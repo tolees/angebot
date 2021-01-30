@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Eastpak Wyoming Rucksack  40 cm  24 L  Schwarz  Black '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000RE5A4U/?tag=tolees0ca-21'
 descuento: '54.43'
 average: '31.9'

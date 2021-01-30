@@ -16,6 +16,7 @@ comparePrice: 618.63 EUR
 prodname: 'Eizo CS2420 61 cm  24 Zoll  Grafik Monitor  DisplayPort  DVI-D  HDMI  Auflösung 1920 x 1200  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BMD8R2G/?tag=tolees0ca-21'
 descuento: '36.47'
 average: '393.0'

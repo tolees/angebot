@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Playmobil 9283 - Schneeballschlacht'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06W5X76ZY/?tag=tolees0ca-21'
 descuento: '30.03'
 average: '6.99'

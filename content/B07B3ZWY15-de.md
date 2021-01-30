@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Clarks Men’s Batcombe Lord Chelsea Boots  Schwarz  Black   45 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B3ZWY15/?tag=tolees0ca-21'
 descuento: '70.01'
 average: '44.99'

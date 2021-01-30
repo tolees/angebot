@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Philips HU4803/01 Luftbefeuchter  bis zu 25m²  hygienische Nano-Cloud-Technologie  leiser Nachtmodus  Automodus  weiß und grau metallic'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00FOIRFMO/?tag=tolees0ca-21'
 descuento: '23.15'
 average: '99.9'

@@ -16,6 +16,7 @@ comparePrice: 50.01 EUR
 prodname: 'Samsung DA29-10105J HAFEX / EXP Wasserfilter für Samsung Kühlschrank  3 Stück  '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B018WN9VNI/?tag=tolees0ca-21'
 descuento: '23.02'
 average: '38.5'

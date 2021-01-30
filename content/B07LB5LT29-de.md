@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'SCHLEICH 42519 Spielset - Reiter-Café  Horse Club '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07LB5LT29/?tag=tolees0ca-21'
 descuento: '37.01'
 average: '33.58166666666666'

@@ -16,6 +16,7 @@ comparePrice: 11.9 EUR
 prodname: 'Morituri [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07LD4KXCT/?tag=tolees0ca-21'
 descuento: '17.31'
 average: '9.84'

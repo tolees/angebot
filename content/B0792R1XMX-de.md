@@ -16,6 +16,7 @@ comparePrice: 3.69 EUR
 prodname: 'My Little Pony - Cuties Sammelfiguren  kleines Pony in Überraschungshäuschen sortiert'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0792R1XMX/?tag=tolees0ca-21'
 descuento: '45.80'
 average: '2.0'

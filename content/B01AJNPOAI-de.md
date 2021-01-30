@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Schleich 42344 - Reiterhof mit Reiterin und Pferden'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01AJNPOAI/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '79.99'

@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'Rooxs Damen Hipster Panties  3er Pack  Perfekte Passform  Frauen Unterhosen Slip aus 95% Baumwolle  Große Farbauswahl   Grau  Pink  Rot  M'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FCGJJ26/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '18.36'

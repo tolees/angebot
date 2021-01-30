@@ -16,6 +16,7 @@ comparePrice: 632.64 EUR
 prodname: 'Samsung Galaxy S10 Lite Android Smartphone ohne Vertrag  4.500 mAh Akku  Schnellldaden  6 7 Zoll Super AMOLED Display  128 GB/8 GB RAM  Dual SIM  Handy in weiß  deutsche Version'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083G8G9GM/?tag=tolees0ca-21'
 descuento: '36.77'
 average: '421.94'

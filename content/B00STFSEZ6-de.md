@@ -16,6 +16,7 @@ comparePrice: 295.0 EUR
 prodname: 'Gift Company - Tang - Schmuckkasten  Schmuckbox  Schmuckschatulle - mit Schloss - Größe: L - Farbe: Lavender  Violett'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00STFSEZ6/?tag=tolees0ca-21'
 descuento: '27.12'
 average: '215.0'

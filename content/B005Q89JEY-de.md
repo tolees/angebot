@@ -16,6 +16,7 @@ comparePrice: 12.45 EUR
 prodname: 'Senseo Pads Extra Strong  80 Kaffeepads  5er Pack  5 x 16 Getränke'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005Q89JEY/?tag=tolees0ca-21'
 descuento: '40.16'
 average: '7.45'

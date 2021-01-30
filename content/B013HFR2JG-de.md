@@ -16,6 +16,7 @@ comparePrice: 6.96 EUR
 prodname: 'Unheimliche Begegnung der Dritten Art [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B013HFR2JG/?tag=tolees0ca-21'
 descuento: '20.26'
 average: '5.55'

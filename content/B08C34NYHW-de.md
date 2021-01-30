@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: '4G LTE Tablet 10 Zoll - Android 9.0 Zertifiziert von Google GMS  2 in1 Tablet mit Tastatur 4 GB RAM und 64 GB ROM  8000 mAh Quad-Core  Dual SIM WiFi Bluetooth  GPS  OTG  Typ C - Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08C34NYHW/?tag=tolees0ca-21'
 descuento: '45.00'
 average: '109.99'

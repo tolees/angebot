@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Funko 34691 Games: Don t Starve: Willow & Bernie POP Vinylfigur  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFF81HY/?tag=tolees0ca-21'
 descuento: '19.92'
 average: '8.568571428571428'

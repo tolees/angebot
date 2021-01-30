@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'PLAYMOBIL Magic 9470 Suche nach dem Liebeskristall mit Leuchtkristall  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079MNQZW6/?tag=tolees0ca-21'
 descuento: '38.17'
 average: '24.094642857142855'

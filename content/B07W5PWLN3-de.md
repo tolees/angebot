@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'LEGO 76895 Speed Champions Ferrari F8 Tributo Rennwagenspielzeug mit Rennfahrer Minifigur  Rennwagen Bauset'
 country: 'de'
 flag: '🇩🇪'
+brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W5PWLN3/?tag=tolees0ca-21'
 descuento: '26.66'
 average: '19.7712820512822'
@@ -27,10 +28,10 @@ Sie können [LEGO 76895 Speed Champions Ferrari F8 Tributo Rennwagenspielzeug mi
 
 ℹ️:
 
-- Mit LEGO Speed ​​Champions-Bausets für Kinder können Autofans Mini-Versionen einiger der berühmtesten Autos der Welt bauen
+- Rennwagen-Fans können ihr eigenes superschnelles F8 Tributo-Modellauto zusammenbauen, bevor sie die elegante Mini-Replik ausstellen
 - LEGO Speed ​​Champions Repliken sind seit Januar 2020 25 Prozent größer und realistischer als je zuvor
 - Dieses erstaunlich detaillierte Spielzeugauto enthält viele der Originalmerkmale des stärksten V8-Autos, das Ferrari jemals gebaut hat
-- Rennwagen-Fans können ihr eigenes superschnelles F8 Tributo-Modellauto zusammenbauen, bevor sie die elegante Mini-Replik ausstellen
 - Beinhaltet eine Ferrari-Fahrer-Minifigur, der einen Helm trägt, und für Rennen hinter dem Lenkrad platziert werden kann
+- Mit LEGO Speed ​​Champions-Bausets für Kinder können Autofans Mini-Versionen einiger der berühmtesten Autos der Welt bauen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W5PWLN3/?tag=tolees0ca-21)

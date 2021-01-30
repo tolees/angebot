@@ -16,6 +16,7 @@ comparePrice: 13.64 EUR
 prodname: 'Kärcher Rundbürstenset für Kärcher Dampfreiniger  hochwertiges Borstenmaterial  2 Farben '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077ZL6THL/?tag=tolees0ca-21'
 descuento: '29.69'
 average: '9.59'

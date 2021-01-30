@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Castle - Staffel 7 [6 DVDs]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00ZZ91YR4/?tag=tolees0ca-21'
 descuento: '23.25'
 average: '9.97'

@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'fischertechnik Dynamic S Kugelbahn mit Klang - für Kinder ab 7 Jahren - 3 Modelle - einfache Kugelbahn  Action-Kugelbahn und Kugelbahn mit zwei Kreisläufen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BGL4BR4/?tag=tolees0ca-21'
 descuento: '39.94'
 average: '17.914666666666662'

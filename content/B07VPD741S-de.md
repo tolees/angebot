@@ -16,6 +16,7 @@ comparePrice: 499.99 EUR
 prodname: 'Xbox One X 1TB - Gears 5 Bundle'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VPD741S/?tag=tolees0ca-21'
 descuento: '46.00'
 average: '265.57'

@@ -16,6 +16,7 @@ comparePrice: 54.9 EUR
 prodname: 'Samsung Clear View Cover EF-ZN975 für Galaxy Note 10+  White'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07V9JCC78/?tag=tolees0ca-21'
 descuento: '55.68'
 average: '24.33'

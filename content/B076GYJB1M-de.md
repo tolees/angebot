@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: '[Neue Version] SYCEES 29 in 1 Mini Schraubendreher Set Reparatur Werkzeugset mit 2 Plektron für PC  Laptop  Kamera  Brillen  Uhren  Handy wie iPhone 7 / 7s plus  29 in 1 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076GYJB1M/?tag=tolees0ca-21'
 descuento: '23.09'
 average: '9.99'

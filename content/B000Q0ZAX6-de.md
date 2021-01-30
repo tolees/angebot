@@ -16,6 +16,7 @@ comparePrice: 8.4 EUR
 prodname: 'Jil Sander Sun femme/ woman Duschgel  150 ml'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000Q0ZAX6/?tag=tolees0ca-21'
 descuento: '16.67'
 average: '7.0'

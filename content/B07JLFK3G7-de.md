@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Playmobil 70000 Fairies Romantisches Feenboot  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JLFK3G7/?tag=tolees0ca-21'
 descuento: '50.28'
 average: '10.002333333333334'

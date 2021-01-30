@@ -16,6 +16,7 @@ comparePrice: 6.85 EUR
 prodname: 'Wedo 78722 Cutter Hobbymesser Set  inklusive 6 verschiedenen Klingen  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001ALYPY0/?tag=tolees0ca-21'
 descuento: '48.03'
 average: '3.56'

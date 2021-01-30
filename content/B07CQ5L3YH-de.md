@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Swiffer - Staubmagnet Nachfüller mit Febrezeduft  1er Pack  1 x 9 Tücher '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CQ5L3YH/?tag=tolees0ca-21'
 descuento: '30.38'
 average: '4.17'

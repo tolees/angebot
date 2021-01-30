@@ -16,6 +16,7 @@ comparePrice: 11.88 EUR
 prodname: 'Wettsingen in Schwetzingen/MTV unplugged'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001D0RSRO/?tag=tolees0ca-21'
 descuento: '36.45'
 average: '7.59'

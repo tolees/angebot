@@ -16,6 +16,7 @@ comparePrice: 189.99 EUR
 prodname: 'Sony CMT-X3CD Micro-HiFi System  CD  USB  Bluetooth  20 Watt  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00MLXOOB0/?tag=tolees0ca-21'
 descuento: '47.89'
 average: '99.0'

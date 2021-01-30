@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Einhell Elektro-Rasentrimmer GC-ET 3023  300 W  11.000 1/min Umdrehungen  230 mm Schnittkreis  Zusatzhandgriff  Tipp-Automatik  Kabelzugentlastung '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HT94CVS/?tag=tolees0ca-21'
 descuento: '30.78'
 average: '20.73'

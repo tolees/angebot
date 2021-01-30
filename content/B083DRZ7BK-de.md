@@ -16,6 +16,7 @@ comparePrice: 180.19 EUR
 prodname: 'TuToy Lcd Automatische Fischfutterautomat Teich Aquarium Fütterung Timer Digitale Automatische Fischfutterautomat'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083DRZ7BK/?tag=tolees0ca-21'
 descuento: '16.39'
 average: '150.66'

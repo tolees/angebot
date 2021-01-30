@@ -16,6 +16,7 @@ comparePrice: 549.0 EUR
 prodname: 'Lenovo IdeaPad 330s Laptop 35 56 cm  14 0 Zoll HD TN matt  Slim Notebook  Intel Core i3-8130U  8 GB RAM  256 GB SSD  Intel UHD Grafik 620  Windows 10 Home  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MM1XDDF/?tag=tolees0ca-21'
 descuento: '24.80'
 average: '412.84'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'mama stadt Prinzessin Cosplay Perücke  Erwachsene und Kinder Perücke mit Perücke-Kappe  Perücken für Karneval Halloween Fasching Kostüme Party Fest'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VF4WJ9P/?tag=tolees0ca-21'
 descuento: '77.52'
 average: '8.99'

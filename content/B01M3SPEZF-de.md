@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Original Einhell Starter Kit Akku und Ladegerät Power X-Change  Lithium Ionen  18 V  4 0 Ah Akku und Schnellladegerät  passend für alle Power X-Change Geräte '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M3SPEZF/?tag=tolees0ca-21'
 descuento: '50.02'
 average: '59.95'

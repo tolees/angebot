@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Oacvien Bluetooth Adapter 5.0 Transmitter Empfänger  2 in 1 Mini Bluetooth Audio Adapter mit RCA & 3.5 mm AUX kompatibel  für TV PC Kopfhörer HiFi Lautsprecher Radio Auto Laptop Tablet'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B082MB7HJ8/?tag=tolees0ca-21'
 descuento: '52.51'
 average: '18.419999999999998'

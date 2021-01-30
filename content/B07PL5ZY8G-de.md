@@ -16,6 +16,7 @@ comparePrice: 259.99 EUR
 prodname: 'Park Tool PCS-10.2 Montageständer  blau  Einheitsgröße'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PL5ZY8G/?tag=tolees0ca-21'
 descuento: '28.86'
 average: '184.95'

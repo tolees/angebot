@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'WMF Gala Plus Topfset 5-teilig  Cromargan Edelstahl poliert  Töpfe mit Metalldeckel  Induktionstöpfe  Topf Induktion  unbeschichtet'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0009YHUPK/?tag=tolees0ca-21'
 descuento: '39.95'
 average: '167.54'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Onforu 16er LED Lichterkette Batterie  3 m 30 LEDs Drahtlichterkette  3000K Warmweiß Fairy Light  IP67 Wasserdicht Kleine Lichterkette Kupferdraht für Innen Außen Dekor  Hochzeit  DIY  Party  Garten'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DKTFCK5/?tag=tolees0ca-21'
 descuento: '15.01'
 average: '18.49'

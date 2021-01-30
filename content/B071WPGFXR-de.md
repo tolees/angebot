@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'yo-kai Watch Jungen Yokai Watch Schlafanzug - Slim Fit - 128'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071WPGFXR/?tag=tolees0ca-21'
 descuento: '58.05'
 average: '7.95'

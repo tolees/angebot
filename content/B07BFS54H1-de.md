@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'Acer P1650 DLP Projektor  Native WUXGA 1.920 x 1.200 Pixel  Kontrast 10.000:1  3.500 ANSI Lumen '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BFS54H1/?tag=tolees0ca-21'
 descuento: '49.92'
 average: '300.0'

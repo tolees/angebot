@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'DELSEY PARIS Belmont Plus Koffer  76cm  102 2 Liter  Grau/Anthrazit'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07N39HRVW/?tag=tolees0ca-21'
 descuento: '41.42'
 average: '99.0'

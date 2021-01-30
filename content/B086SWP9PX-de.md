@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Mini Beamer  APEMAN Support 1080P Video Projektor  ±30° Fern Elektronische Korrektur  Dual Lautsprecher  120" Display Full HD  Kompatibel mit HDMI/USB/Smartphone/PS4/TV Box  Für Heimkino[New Upgrade]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B086SWP9PX/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '79.99'

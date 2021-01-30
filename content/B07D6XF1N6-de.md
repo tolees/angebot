@@ -16,6 +16,7 @@ comparePrice: 1149.0 EUR
 prodname: 'Microsoft Surface Laptop 34 29 cm  13 5 Zoll   Intel Core M3 7Y30   128GB Festplatte  4GB RAM  Intel HD Graphics 615  Win 10 S  Platin Grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07D6XF1N6/?tag=tolees0ca-21'
 descuento: '34.81'
 average: '749.0'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'PLAYMOBIL Magic 70096 Beautysalon mit Perlenschatulle  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JMD4QQH/?tag=tolees0ca-21'
 descuento: '26.65'
 average: '18.538'

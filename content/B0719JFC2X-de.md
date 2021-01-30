@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Hasbro Gaming – Klassische Spiel von Simon  b7962eu4 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0719JFC2X/?tag=tolees0ca-21'
 descuento: '25.72'
 average: '24.82705882352941'

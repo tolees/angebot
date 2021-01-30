@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'CITIZEN Herren Analog Solar Uhr mit Edelstahl Armband AS2050-87E'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072VP9P2C/?tag=tolees0ca-21'
 descuento: '36.39'
 average: '224.13'

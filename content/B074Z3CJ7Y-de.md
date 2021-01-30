@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'De Longhi EDG 355.B1 | NESCAFÉ Dolce Gusto Colors | Kapsel Kaffeemaschine | Für heiße und kalte Getränke | 15 bar Pumpendruck für samtige Crema | Mit 3 farbigen Einsätzen | Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074Z3CJ7Y/?tag=tolees0ca-21'
 descuento: '21.09'
 average: '78.9'

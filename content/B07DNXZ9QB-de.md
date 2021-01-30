@@ -16,6 +16,7 @@ comparePrice: 312.0 EUR
 prodname: 'Dyson V7 Cord Free Beutel- und kabelloser Handstaubsauger  inkl. Elektrobürste mit Direktantrieb  Fugendüse und Kombidüse  mit Nickel-Mangan-Cobalt Akku  Wandhalterung und Ladestation '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DNXZ9QB/?tag=tolees0ca-21'
 descuento: '20.62'
 average: '247.66'

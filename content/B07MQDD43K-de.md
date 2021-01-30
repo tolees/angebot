@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'LaCie MOBILE DRIVE Moon Silver  tragbare externe Festplatte 5 TB  2.5 Zoll  USB-C  für Mac & PC  Modellnr.: STHG5000400'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MQDD43K/?tag=tolees0ca-21'
 descuento: '28.33'
 average: '129.0'

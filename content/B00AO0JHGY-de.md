@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'RoomMates 54161 Happi Raketenhunde'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00AO0JHGY/?tag=tolees0ca-21'
 descuento: '62.74'
 average: '7.06'

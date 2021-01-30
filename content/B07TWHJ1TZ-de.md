@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Pop Guild Wars 2 Joko Vinyl Figure'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TWHJ1TZ/?tag=tolees0ca-21'
 descuento: '18.50'
 average: '10.891666666666666'

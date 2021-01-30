@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Yazubi Cargo Hose Männer Jayden - Schwarze Lange Cargohose Herren Chino - Security Chinos Reissverschluss Taschen  Schwarz  Black 4008   W28/L30'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TSK2GX4/?tag=tolees0ca-21'
 descuento: '61.72'
 average: '34.43'

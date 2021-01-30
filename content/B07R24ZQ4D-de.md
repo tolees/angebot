@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'VAUDE Tool Aqua  Satteltasche Riemen  15 cm  Black'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07R24ZQ4D/?tag=tolees0ca-21'
 descuento: '70.80'
 average: '8.89'

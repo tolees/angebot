@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'jpantech Smartwatch  Fitness Armband Tracker Voller 5ATM Wasserdicht Smart Watch Intelligente Aktivitäts Uhr Sportuhr  Damen Herren Schlafmonitor SMS Beachten Armbanduhr für Android iOS Schwarz '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0816HKYYF/?tag=tolees0ca-21'
 descuento: '57.15'
 average: '59.99'

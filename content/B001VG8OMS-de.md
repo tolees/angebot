@@ -16,6 +16,7 @@ comparePrice: 36.95 EUR
 prodname: 'Calvin Klein Underwear Herren Cotton Stretch Slip 3er Pack  Schwarz  001   XL'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001VG8OMS/?tag=tolees0ca-21'
 descuento: '22.19'
 average: '28.75'

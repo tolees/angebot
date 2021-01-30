@@ -16,6 +16,7 @@ comparePrice: 28.45 EUR
 prodname: 'MACLY SmartBand Aktivitäts Tracker mit Blutdruckmessung  Smartwatch Fitness Tracker mit Pulsmesser Wasserdicht IP67 Fitness Uhr Pulsuhr Schrittzähler Uhr Kalorien für Damen Herren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08HJCK9X3/?tag=tolees0ca-21'
 descuento: '54.34'
 average: '12.99'

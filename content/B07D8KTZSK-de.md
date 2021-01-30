@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Led Leuchtmittel E27 Warmweiß 12W  Lampe Licht 3000K 984 Lumen  Birnen Abstrahlwinkel 280 Grad Tropfen Energiesparlampe 5er Verpack'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07D8KTZSK/?tag=tolees0ca-21'
 descuento: '25.35'
 average: '11.19'

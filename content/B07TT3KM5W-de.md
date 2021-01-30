@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'SZMDLX Bluetooth Adapter  Transmitter und Empfänger 3 in 1  USB Bluetooth 5.0 Dongle Stick USB Audioadapter Sender Receiver mit 3 5mm digitales Audiokabel für PC TV Kopfhörer Autoradio für Zuhause'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TT3KM5W/?tag=tolees0ca-21'
 descuento: '52.04'
 average: '12.09'

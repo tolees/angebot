@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Tefal E494S7 Jamie Oliver Brushed Topfset  7-teilig  inkl. 3 x Glasdeckel  genietete Griffe  kompatibel mit allen Herdarten  Edelstahl'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WXKWBJZ/?tag=tolees0ca-21'
 descuento: '30.77'
 average: '102.99333333333334'

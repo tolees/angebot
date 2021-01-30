@@ -16,6 +16,7 @@ comparePrice: 27.28 EUR
 prodname: 'PLAYMOBIL 9247 - DreamWorks Dragons  Astrid und Sturmpfeil  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06WP1W8B1/?tag=tolees0ca-21'
 descuento: '28.56'
 average: '20.0404761904762'

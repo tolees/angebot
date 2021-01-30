@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Italian Fashion IF Damen Schlafanzug 194R 0223  Schwarz  S '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B016QEL1CO/?tag=tolees0ca-21'
 descuento: '40.02'
 average: '13.19'

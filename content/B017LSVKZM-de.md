@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Braun Haarschneider HC5090 – Ultimatives Haare schneiden mit Braun in 17 Längen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B017LSVKZM/?tag=tolees0ca-21'
 descuento: '48.58'
 average: '35.99'

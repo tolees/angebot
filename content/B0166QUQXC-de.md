@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'CREATIVE Tragbarer Bluetooth-Audio-Transceiver BT-W2 aptX Low Latency für PC  Mac  PS4 und Nintendo Switch'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0166QUQXC/?tag=tolees0ca-21'
 descuento: '25.01'
 average: '29.99'

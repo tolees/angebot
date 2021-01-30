@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Cobb Pro - Tisch oder tragbarer Außengrill  Kochsystem  Edelstahl - 32 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B015JQQIUA/?tag=tolees0ca-21'
 descuento: '38.46'
 average: '80.0'

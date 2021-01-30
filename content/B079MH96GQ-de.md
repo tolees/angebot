@@ -16,6 +16,7 @@ comparePrice: 18.4 EUR
 prodname: 'Nintendo Gameboy Thermobecher  Edelstahl  Mehrfarbig  9 x 9 x 18 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079MH96GQ/?tag=tolees0ca-21'
 descuento: '24.46'
 average: '14.0475'

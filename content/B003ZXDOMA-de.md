@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Harman/Kardon Soundsticks III LED Desktop Soundsystem Lautsprechersystem mit Zwei "Sticks" Satellitenlautsprechern und Aktivem Subwoofer für Geräte mit 3 5mm Aux Kompatibilität - Transparent'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003ZXDOMA/?tag=tolees0ca-21'
 descuento: '23.40'
 average: '161.3275'

@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'FALKE Damen Wandersocken TK1 - Merinowollmischung  1 Paar  Schwarz  Black-Mix 3010   Größe: 39-40'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004BTXHN8/?tag=tolees0ca-21'
 descuento: '36.65'
 average: '14.57'

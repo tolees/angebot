@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Mi Note 10 Lite 6+128GB Nebula Purple'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B087MRTWQ4/?tag=tolees0ca-21'
 descuento: '18.93'
 average: '314.44875'

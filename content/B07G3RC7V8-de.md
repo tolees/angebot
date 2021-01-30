@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'camel active Damen Innocence 71 Slipper  Pink  Rosé 3   38.5 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G3RC7V8/?tag=tolees0ca-21'
 descuento: '69.99'
 average: '29.99'

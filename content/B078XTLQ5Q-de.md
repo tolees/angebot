@@ -16,6 +16,7 @@ comparePrice: 146.51 EUR
 prodname: 'Kitchen Emperor Santokumesser  Damastmesser Küchenmesser  Kochmesser 67 Schichten Damastmesser mit G10 Griff'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078XTLQ5Q/?tag=tolees0ca-21'
 descuento: '55.03'
 average: '65.89'

@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'De Longhi Nespresso Vertuo | ENV 150.R Kaffeekapselmaschine | Perfekte Crema dank Centrifusion Technologie |Eine Kaffeemaschine  3 Tassengrößen | 1 1 L | rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GG43HZ3/?tag=tolees0ca-21'
 descuento: '58.16'
 average: '67.44500000000001'

@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: '!Solid Dash Herren Lederjacke Bikerjacke Echtleder Mit Stehkragen  Größe:L  Farbe:Cognac  5048 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005LMXP72/?tag=tolees0ca-21'
 descuento: '42.01'
 average: '86.95'

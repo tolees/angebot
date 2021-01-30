@@ -16,6 +16,7 @@ comparePrice: 20.93 EUR
 prodname: 'Finish Klarspüler mit Glanz- und Glasschutz – Für strahlendes und trockeneres Geschirr ohne Wasserflecken – Megapack  7er Pack  7 x 750 ml '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HLCSDL8/?tag=tolees0ca-21'
 descuento: '52.17'
 average: '10.01'

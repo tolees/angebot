@@ -16,6 +16,7 @@ comparePrice: 74.98 EUR
 prodname: 'Bosch S4005 Autobatterie Starter 60Ah 12V 540A'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005XVU99I/?tag=tolees0ca-21'
 descuento: '22.54'
 average: '58.08'

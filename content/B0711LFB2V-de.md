@@ -16,6 +16,7 @@ comparePrice: 1199 EUR
 prodname: 'Lenovo Miix 720 Schwarz Hybrid  2-in-1  UK Keyboard - 30 5 cm  12 Zoll  2880 x 1920 Pixel Touchscreen 2 50 GHz Intel® CoreTM i5-7200U  8 GB  256 GB '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0711LFB2V/?tag=tolees0ca-21'
 descuento: '58.38'
 average: '499'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Fitbit Alta HR & Alta Classic Band'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06VXC2HKN/?tag=tolees0ca-21'
 descuento: '71.69'
 average: '8.48'

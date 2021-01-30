@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'SanDisk SDCZ43-064G-GAM46 USB-Flash-Laufwerk USB 3.0 bis zu 150 MB/S  64 GB Schwarz / Silberfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BGTG3JA/?tag=tolees0ca-21'
 descuento: '39.87'
 average: '16.83'

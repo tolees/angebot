@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Mi Bluetooth Speaker PC-Lautsprecher'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CY1MC99/?tag=tolees0ca-21'
 descuento: '16.22'
 average: '30.99'

@@ -16,6 +16,7 @@ comparePrice: 18.63 EUR
 prodname: 'Levi s Herren The Original T-Shirt  Grau  Hm Patch Og Tee Forged Iron 0004   Small  Herstellergröße: S '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RZLH557/?tag=tolees0ca-21'
 descuento: '22.06'
 average: '14.52'

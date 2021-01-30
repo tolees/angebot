@@ -16,6 +16,7 @@ comparePrice: 149.62 EUR
 prodname: 'BaByliss C2000E BaByliss C2000E Smooth & Wave 2 in 1 Auto-Glätter & Auto-Curler schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MBV6QB9/?tag=tolees0ca-21'
 descuento: '26.85'
 average: '109.44'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Samsung VG-SCFN49BM/XC The Frame Bilderrahmen  123 cm  49 Zoll   schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HPM4K17/?tag=tolees0ca-21'
 descuento: '25.93'
 average: '73.33'

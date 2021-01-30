@@ -16,6 +16,7 @@ comparePrice: 35.08 EUR
 prodname: 'NZXT KRAKEN G12 - GPU-Montagesatz für AIO-Kühler der Kraken X-Serie - Leistungsstärkere GPU-Kühlung - Kompatibilität mit AMD- und NVIDIA-GPUs - Aktive Kühlung für VRM - Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XXF4Q68/?tag=tolees0ca-21'
 descuento: '23.35'
 average: '26.89'

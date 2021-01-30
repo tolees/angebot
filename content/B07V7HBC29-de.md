@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Philips Kopfhörer On Ear BH305BK/00 On Ear Kopfhörer  Bluetooth  Voluminöse Bässe  Aktive Geräuschunterdrückung  18 Stunden Akkulaufzeit  Faltbar  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07V7HBC29/?tag=tolees0ca-21'
 descuento: '45.17'
 average: '54.82'

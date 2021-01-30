@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'The Afterlove'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MZBSJKA/?tag=tolees0ca-21'
 descuento: '15.03'
 average: '5.09'

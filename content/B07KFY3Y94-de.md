@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Puma Defy Wn s  Damen Hallenschuhe  Pink  Bridal Rose-Puma White 23   5  38 EU  EU   UK '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KFY3Y94/?tag=tolees0ca-21'
 descuento: '70.04'
 average: '26.95'

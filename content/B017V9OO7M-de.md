@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Mädchen gegen Jungs'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B017V9OO7M/?tag=tolees0ca-21'
 descuento: '15.03'
 average: '5.09'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Luftbefeuchter Ultraschall  Homech Raumbefeuchter 4L 50 Std Betriebszeit Kalt Dampf bis 20-40 m2 Abschaltautomatik  Humidifier mit 360° drehbaren Dampfdüse  geeignet für Wohn-  Schlafzimmer Büro.'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SGPTNNC/?tag=tolees0ca-21'
 descuento: '21.98'
 average: '42.495000000000005'

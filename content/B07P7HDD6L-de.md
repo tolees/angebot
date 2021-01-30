@@ -16,6 +16,7 @@ comparePrice: 24.92 EUR
 prodname: 'Aigle Herren Alten Leather Sneaker  Braun  Brown 001   42 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P7HDD6L/?tag=tolees0ca-21'
 descuento: '21.71'
 average: '19.51'

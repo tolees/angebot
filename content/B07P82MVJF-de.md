@@ -16,6 +16,7 @@ comparePrice: 12.5 EUR
 prodname: 'Funko 41941 POP Vinyl: WWE-Becky Lynch Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P82MVJF/?tag=tolees0ca-21'
 descuento: '20.08'
 average: '11.496'

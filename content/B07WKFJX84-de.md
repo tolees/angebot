@@ -16,6 +16,7 @@ comparePrice: 1.46 EUR
 prodname: 'Color de bronce Hombres Mujeres Anillo de salto Abrir y cerrar Herramientas Anillos de dedo Pendientes de bricolaje Trabajo hecho a mano Herramientas Joyas de anillo - Dorado'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WKFJX84/?tag=tolees0ca-21'
 descuento: '32.19'
 average: '0.99'

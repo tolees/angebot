@@ -16,6 +16,7 @@ comparePrice: 70.2 EUR
 prodname: 'Crucial Ballistix Sport LT BLS16G4D240FSC Desktop Gaming Speicher  2400 MHz  DDR4  DRAM  16GB  CL16  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0198QDM9C/?tag=tolees0ca-21'
 descuento: '24.64'
 average: '52.9'

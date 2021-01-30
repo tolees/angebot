@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'Seiko Solar Herren-Uhr Edelstahl mit Metallband SNE523P1'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W7TVVL9/?tag=tolees0ca-21'
 descuento: '39.21'
 average: '145.3'

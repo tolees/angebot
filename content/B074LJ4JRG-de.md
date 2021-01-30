@@ -16,6 +16,7 @@ comparePrice: 26.13 EUR
 prodname: 'MacBook Schraubendreher Reparatur Werkzeug Set mit Pentalobe P5 für Macbook Air Pro Retina  All Version '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074LJ4JRG/?tag=tolees0ca-21'
 descuento: '35.78'
 average: '16.78'

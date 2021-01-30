@@ -16,6 +16,7 @@ comparePrice: 579.0 EUR
 prodname: 'Sonos Play:5 WLAN Speaker  Kraftvoller WLAN Lautsprecher mit bestem  kristallklarem Stereo Sound – AirPlay kompatibler Multiroom Lautsprecher  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01615UVQU/?tag=tolees0ca-21'
 descuento: '17.79'
 average: '476.0'

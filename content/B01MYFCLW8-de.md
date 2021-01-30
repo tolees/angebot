@@ -16,6 +16,7 @@ comparePrice: 12.98 EUR
 prodname: 'Bones - Season Eleven [6 DVDs]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MYFCLW8/?tag=tolees0ca-21'
 descuento: '23.19'
 average: '9.97'

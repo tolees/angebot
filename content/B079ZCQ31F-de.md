@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Ravensburger 22334 Break Free'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079ZCQ31F/?tag=tolees0ca-21'
 descuento: '53.14'
 average: '14.99'

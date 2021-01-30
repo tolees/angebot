@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: 'Playmobil 70025 Figures Boys  Serie 15   bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JKWPRRF/?tag=tolees0ca-21'
 descuento: '21.11'
 average: '1.806'

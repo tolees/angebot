@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: '[3 Bonusgegenstand] Simbans TangoTab 10-Zoll-Tablet  4 GB RAM  64 GB Festplatte  Android 10  Mini-HDMI  Micro-USB  USB-A  GPS  Dual WiFi  Bluetooth  IPS Screen  Dual Camera Computer-PC - TX4C'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08FR6C9CX/?tag=tolees0ca-21'
 descuento: '24.65'
 average: '149.95'

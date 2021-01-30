@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Barbie FBR34 - Super Abenteuer Camper  Puppen Camping Wohnwagen mit Zubehör  Mädchen Spielzeug ab 3 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N7FX1M8/?tag=tolees0ca-21'
 descuento: '41.67'
 average: '69.80818181818181'

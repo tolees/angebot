@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Elvie Trainer - Der preisgekrönte Beckenbodentrainer mit Biofeedback zur Stärkung und Straffung Ihres Beckenbodens'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B018IFNSX4/?tag=tolees0ca-21'
 descuento: '28.32'
 average: '142.64'

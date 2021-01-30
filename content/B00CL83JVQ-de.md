@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Bose ® Companion 2 Serie III Multimedia Lautsprechersystem schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00CL83JVQ/?tag=tolees0ca-21'
 descuento: '25.06'
 average: '74.9'

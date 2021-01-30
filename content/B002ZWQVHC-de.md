@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Odlo Herren Shirt Long Sleeve Crew Neck X-Warm Unterhemd  black  L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002ZWQVHC/?tag=tolees0ca-21'
 descuento: '37.93'
 average: '34.11'

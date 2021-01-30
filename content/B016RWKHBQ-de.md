@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Trust Urban Senfus IPX5 wasserfeste Bluetooth In-Ear-Sport-Ohrhörer  kabellos  grün'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B016RWKHBQ/?tag=tolees0ca-21'
 descuento: '43.68'
 average: '16.89'

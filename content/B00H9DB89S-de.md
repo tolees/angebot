@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'VAUDE Kappe UV Cap  black  L  049880105400'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00H9DB89S/?tag=tolees0ca-21'
 descuento: '41.95'
 average: '11.61'

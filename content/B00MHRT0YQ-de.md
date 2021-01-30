@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Sylvanian Families 5108 5108-Essen-Set in der Schule  Mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00MHRT0YQ/?tag=tolees0ca-21'
 descuento: '36.97'
 average: '12.6'

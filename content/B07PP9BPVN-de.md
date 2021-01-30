@@ -16,6 +16,7 @@ comparePrice: 54.31 EUR
 prodname: 'Carrera GO!!! Nintendo Mario Kart 8 5 3 Meter 20062491 Autorennbahn Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PP9BPVN/?tag=tolees0ca-21'
 descuento: '15.08'
 average: '49.07666666666667'

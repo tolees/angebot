@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'KALFF KFZ-Verbandkasten Compact DIN 13164 mit Erste-Hilfe Broschüre'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00FSEJHD4/?tag=tolees0ca-21'
 descuento: '24.25'
 average: '6.81'

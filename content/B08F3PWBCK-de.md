@@ -16,6 +16,7 @@ comparePrice: 21.85 EUR
 prodname: 'DARLINGTON & Sohns Grauer Controller für Nintendo 64 N64 Joystick Grau Gamepad Joypad + Verlängerung Extansion Verlängerungskabel Gamepad'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08F3PWBCK/?tag=tolees0ca-21'
 descuento: '18.76'
 average: '17.75'

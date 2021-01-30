@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'ONECE Duschsystem mit Thermostat Duscharmatur Regendusche mit Edelstahl Duschkopf Duschsäule Chrom Dusche mit Verstellbar Duschstange 3 Strahlen Handbrause'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QMSY2YS/?tag=tolees0ca-21'
 descuento: '34.38'
 average: '104.99'

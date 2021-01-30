@@ -16,6 +16,7 @@ comparePrice: 117.98 EUR
 prodname: 'GODNECE Batteriebetrieben LED Licht-Set für Baustein  Kompatibel Mit Lego Technic 42043 Mercedes-Benz Arocs 3245  Auto-Spielzeug  Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VB7KQ79/?tag=tolees0ca-21'
 descuento: '52.54'
 average: '55.99'

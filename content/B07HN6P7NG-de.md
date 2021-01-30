@@ -16,6 +16,7 @@ comparePrice: 9.33 EUR
 prodname: 'Ballon [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HN6P7NG/?tag=tolees0ca-21'
 descuento: '32.15'
 average: '6.33'

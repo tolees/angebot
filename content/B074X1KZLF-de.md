@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Sony GTKXB60B.CEL GTK-XB60 Bluetooth Party Lautsprecher  Extra Bass  NFC  Lichteffekte  14 Stunden Akku  kompatibel mit Party Chain  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074X1KZLF/?tag=tolees0ca-21'
 descuento: '23.31'
 average: '214.48000000000002'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Playmobil 70175 Figurenset Ghostbusters  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JLS11LP/?tag=tolees0ca-21'
 descuento: '31.62'
 average: '13.67'

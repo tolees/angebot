@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 30850 POP Vinyl Deadpool Parody  Multi  Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079TJBCWR/?tag=tolees0ca-21'
 descuento: '29.95'
 average: '10.353333333333332'

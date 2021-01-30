@@ -16,6 +16,7 @@ comparePrice: 12.91 EUR
 prodname: 'The Stage   Deluxe Edt. '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076BJMG38/?tag=tolees0ca-21'
 descuento: '45.86'
 average: '6.99'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Rolimate Steckplatte Holz Holzpuzzles Sortierspiel Holzsteckspiel für Kinder 1 2 3 Jahre 16-teilig Farben-und Formenwürfel  Sortier Stapel Steckspielzeug Montessori Sensorisches Spielzeug  38.5*7.5cm '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DM3R4H8/?tag=tolees0ca-21'
 descuento: '43.35'
 average: '16.99'

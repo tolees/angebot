@@ -16,6 +16,7 @@ comparePrice: 799.0 EUR
 prodname: 'OnePlus 8  5G  Smartphone ohne Vertrag  12GB + 256GB Speicher  6.55" AMOLED 90Hz Display  4300 mAh Akku  Dreifach-Kamera  Dual-Sim - Interstellar Glow'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XY8V3K5/?tag=tolees0ca-21'
 descuento: '36.72'
 average: '533.2049999999999'

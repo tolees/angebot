@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'HMY Transparente Florero vidrio Florero hidropónico Floreros decorativo Flor Florero para Sala De Estar Estudio Dormitorio Cocina Sala De Recepción Sala De Reuniones Morado H30.5xw13cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B086QXGMHH/?tag=tolees0ca-21'
 descuento: '24.49'
 average: '36.99'

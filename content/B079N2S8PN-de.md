@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'PLAYMOBIL 9461 - DreamWorks Dragons  Grobian mit Schafschleuder  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079N2S8PN/?tag=tolees0ca-21'
 descuento: '50.02'
 average: '14.99'

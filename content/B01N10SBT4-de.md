@@ -16,6 +16,7 @@ comparePrice: 17.01 EUR
 prodname: 'PDP Nintendo Switch The Legend of Zelda: Breath of the Wild Premium Reiseetui für Konsole und Spiele  500-006'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N10SBT4/?tag=tolees0ca-21'
 descuento: '30.86'
 average: '11.76'

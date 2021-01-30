@@ -16,6 +16,7 @@ comparePrice: 98.16 EUR
 prodname: 'BRA Terra - Set de 3 poêles  Aluminium fondu  compatibles Tous feux Dont Induction'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00K85SKCW/?tag=tolees0ca-21'
 descuento: '51.11'
 average: '47.99'

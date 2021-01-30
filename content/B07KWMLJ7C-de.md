@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Swarovski One Set  Mehrfarbig  Rosé vergoldet'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KWMLJ7C/?tag=tolees0ca-21'
 descuento: '35.36'
 average: '63.99'

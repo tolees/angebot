@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'THERMOS Kühltasche Classic medium 15 Liter - Isolierte Einkaufstasche aus Polyester  blau 24 x 27 5 x 28 cm - Faltbare Isoliertasche ideal für Sport  Picknick  Büro  Auto oder Urlaub - 4080.252.150'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00IRBFF6I/?tag=tolees0ca-21'
 descuento: '40.40'
 average: '11.89'

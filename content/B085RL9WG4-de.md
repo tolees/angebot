@@ -16,6 +16,7 @@ comparePrice: 179.98 EUR
 prodname: 'TONGJI Acryl Vitrine Kompatibel Mit Lego 42096 Technic Porsche 911 RSR  Schaukasten Staubdicht Display Box  Beinhaltet Nicht das Modell  '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B085RL9WG4/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '83.44454545454545'

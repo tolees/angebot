@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Mattel Games Y9598 - Scrabble Original Wörterspiel und Brettspiel geeignet für 2 - 4 Spieler  Familienspiele und Wortspiele ab 10 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B009NFGI5Y/?tag=tolees0ca-21'
 descuento: '31.34'
 average: '20.59'

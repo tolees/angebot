@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Universal Niedertemperatur Aluminium Schweißstab mit Aluminium Flux Kerndraht Niedrigen Stabelektroden Temperatur Aluminium Elektroden Tun Nicht Erfordern Solder  50X0.16cm-50PCS '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W4FYDB9/?tag=tolees0ca-21'
 descuento: '42.40'
 average: '3.45'

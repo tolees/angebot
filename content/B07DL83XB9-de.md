@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Landwirtschafts-Simulator 19 PS4'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DL83XB9/?tag=tolees0ca-21'
 descuento: '24.00'
 average: '37.99'

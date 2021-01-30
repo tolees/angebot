@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Ravensburger Lotti Karotti'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0000TZ4XE/?tag=tolees0ca-21'
 descuento: '30.78'
 average: '16.775'

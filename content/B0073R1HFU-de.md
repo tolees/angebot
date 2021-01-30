@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Bosch Heckenschere AHS 50-26  Messerabdeckung  Karton  600 W  500 mm Schnittlänge  26 mm Messerabstand '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0073R1HFU/?tag=tolees0ca-21'
 descuento: '18.83'
 average: '129.86'

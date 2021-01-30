@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Rosti Mepal Vorratsdose Modula Starterset  5-teilig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002XQ3LQY/?tag=tolees0ca-21'
 descuento: '33.34'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 5.45 EUR
 prodname: 'Winnie Puuh - Spaß im Frühling  Winnie Puuh Collection '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00018GWMQ/?tag=tolees0ca-21'
 descuento: '29.91'
 average: '3.82'

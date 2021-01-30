@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Wrangler Texas Herren Jeans  Blau  Stonewash  Light blue   40W / 30L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000Y3WYFC/?tag=tolees0ca-21'
 descuento: '35.05'
 average: '42.96'

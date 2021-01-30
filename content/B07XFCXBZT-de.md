@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'LG K50s Smartphone  16 49 cm  6 49 Zoll  IPS LC-Display  32 GB interner Speicher  3 GB RAM  MIL-STD-810G  Android 9.0  Aurora Black'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XFCXBZT/?tag=tolees0ca-21'
 descuento: '16.72'
 average: '145.36'

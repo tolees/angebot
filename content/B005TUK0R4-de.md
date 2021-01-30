@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Intex Filteranlagenzubehör - Filterkartusche - Typ A - 3 Stück'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005TUK0R4/?tag=tolees0ca-21'
 descuento: '60.23'
 average: '7.95'

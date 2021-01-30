@@ -16,6 +16,7 @@ comparePrice: 101.99 EUR
 prodname: 'FurReal Friends furReal Cubby  mein Knuddelbär  interaktives Plüschtier  ab 4 Jahren  braun'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KQPG7KB/?tag=tolees0ca-21'
 descuento: '26.19'
 average: '76.79888888888888'

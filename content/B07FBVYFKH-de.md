@@ -16,6 +16,7 @@ comparePrice: 74.9 EUR
 prodname: 'Corsair CMK16GX4M2Z3600C18 Vengeance LPX 16GB  2x8GB  DDR4 3600MHz C18 XMP 2.0 High Performance Desktop Arbeitsspeicher Kit Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FBVYFKH/?tag=tolees0ca-21'
 descuento: '18.69'
 average: '60.9'

@@ -16,6 +16,7 @@ comparePrice: 899.0 EUR
 prodname: 'Acer Chromebook Spin 13  13 3 Zoll QHD IPS Multi-Touch  360° Convertible  Aluminium Unibody  17mm flach  extrem lange Akkulaufzeit  schnelles WLAN  beleuchtete Tastatur  Google Chrome OS  Anthrazit'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07H1L3GMP/?tag=tolees0ca-21'
 descuento: '49.94'
 average: '450.0'

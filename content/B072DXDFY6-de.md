@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Guardians of the Galaxy Vol. 2'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072DXDFY6/?tag=tolees0ca-21'
 descuento: '45.68'
 average: '6.165'

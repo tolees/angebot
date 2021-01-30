@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'camel active Womenswear Damen 2R48 Weste  Braun  Brown 27    Herstellergröße: 34 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07N5XHCLY/?tag=tolees0ca-21'
 descuento: '50.03'
 average: '49.95'

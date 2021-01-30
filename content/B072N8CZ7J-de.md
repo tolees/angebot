@@ -16,6 +16,7 @@ comparePrice: 9.01 EUR
 prodname: 'Funko 22718 Actionfigur Hellboy S1: Liz Sherman'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072N8CZ7J/?tag=tolees0ca-21'
 descuento: '34.74'
 average: '5.88'

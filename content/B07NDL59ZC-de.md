@@ -16,6 +16,7 @@ comparePrice: 169.95 EUR
 prodname: 'G-STAR RAW Herren Pakke Blazer  Blau  Mazarine Blue 4213    Herstellergröße:L '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NDL59ZC/?tag=tolees0ca-21'
 descuento: '65.80'
 average: '58.12'

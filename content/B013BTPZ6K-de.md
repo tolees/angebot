@@ -16,6 +16,7 @@ comparePrice: 369.99 EUR
 prodname: 'Hauck Duett 2 Geschwisterwagen bis 36 kg  Zwillingsbuggy mit Babywanne ab Geburt umbaubar zur drehbaren Sitzeinheit  Sitz abnehmbarer  höhenverstellbarer Schieber  mit Regenverdeck  black forest'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B013BTPZ6K/?tag=tolees0ca-21'
 descuento: '21.08'
 average: '292.0'

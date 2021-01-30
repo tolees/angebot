@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'OSRAM Smart+ Mini Switch Weiß  ZigBee Lichtschalter  Dimmer und Fernbedienung für LED Lampen  Erweiterung für Ihr Smart Home'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074PYT9R4/?tag=tolees0ca-21'
 descuento: '63.59'
 average: '9.1'

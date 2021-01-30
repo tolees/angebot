@@ -16,6 +16,7 @@ comparePrice: 249.95 EUR
 prodname: 'LEABAGS Cambridge Umhängetasche Schultertasche Laptoptasche 15 Zoll aus Echtleder   LxBxH  ca. 38 x 10 x 31 cm - Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00JXF7CMM/?tag=tolees0ca-21'
 descuento: '57.32'
 average: '106.68'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'ZIMZIM Multi-Tool Taschenmesser  5 in 1 Multifunktions-Taschenwerkzeug mit Dosenöffner Flaschenöffner Klappmesser und Schraubendreher  Multifunktionaler Taschenmesser'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BT6GFK1/?tag=tolees0ca-21'
 descuento: '34.63'
 average: '16.99'

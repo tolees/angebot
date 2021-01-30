@@ -16,6 +16,7 @@ comparePrice: 224.9 EUR
 prodname: 'roba Komplettwiegenset  Babywiege  40x90cm   Holz  weiß  Stubenwagen & Wiege mit Feststellfunktion  Wiegenset inkl. kompletter Ausstattung & Baby Bettwäsche  80x80cm '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004EPYIMS/?tag=tolees0ca-21'
 descuento: '49.33'
 average: '113.95'

@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'COMPO SAAT Vertikutier-Mix  Rasensamen  Rasendünger und Bodenaktivator  2 kg  66 m²'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B018EITAKK/?tag=tolees0ca-21'
 descuento: '28.07'
 average: '12.94'

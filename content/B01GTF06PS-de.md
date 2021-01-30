@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Rightwell Lupenbrille mit Licht Hände Frei Kopfband Lupen mit 2 LED Lichts für Hobby Denest Elektriker Juweliere Nähen Handwerk und ältere Menschen-5 Wechselobjektive  1.0X bis 3.5X '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01GTF06PS/?tag=tolees0ca-21'
 descuento: '16.67'
 average: '19.99'

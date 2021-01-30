@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: '183/und der Letzte Song'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01IJ4YG5I/?tag=tolees0ca-21'
 descuento: '42.92'
 average: '3.99'

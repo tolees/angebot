@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Funko 36673 POP Bobble: Avengers Endgame: War Machine Sammelfiguren  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KPTBSP2/?tag=tolees0ca-21'
 descuento: '37.42'
 average: '9.905000000000001'

@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 28632 S4 Demogorgon POP Vinylfigur: Stranger Things: Dart Demodog  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0777TSSFW/?tag=tolees0ca-21'
 descuento: '35.74'
 average: '8.99'

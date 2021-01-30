@@ -16,6 +16,7 @@ comparePrice: 7.26 EUR
 prodname: 'Dove Men+Care Duschgel für erfrischende Reinigung Clean Comfort milde Formel  6er Pack  6 x 250 ml '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071LNS4G5/?tag=tolees0ca-21'
 descuento: '20.25'
 average: '6.5600000000000005'

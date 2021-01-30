@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 7295 No Actionfigur Disney: Alice Through Looking Glass: Kingsleigh'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BHMJOU6/?tag=tolees0ca-21'
 descuento: '25.45'
 average: '10.43'

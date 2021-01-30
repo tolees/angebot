@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Yankee Candle Duftkerze im großen Jar  Vanilla Cupcake  Brenndauer bis zu 150 Stunden'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0037EEK7A/?tag=tolees0ca-21'
 descuento: '37.16'
 average: '18.79'

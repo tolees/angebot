@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Stranger Things: Music From The Netflix Original Series [2 LP] [Vinyl LP]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076MDDRGN/?tag=tolees0ca-21'
 descuento: '15.01'
 average: '16.99'

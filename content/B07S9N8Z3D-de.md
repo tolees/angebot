@@ -16,6 +16,7 @@ comparePrice: 14.31 EUR
 prodname: 'Doritos Paprika - Paprika Tortilla Nachos - Herzhafter Snack zum Knabbern aus Mais - 9 x 125g'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07S9N8Z3D/?tag=tolees0ca-21'
 descuento: '40.11'
 average: '9.64'

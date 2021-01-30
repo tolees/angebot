@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Daniel Wellington Damen Analog Japanese Quartz Uhr mit Natoband Armband DW00100030'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00BKQT590/?tag=tolees0ca-21'
 descuento: '48.93'
 average: '70.99'

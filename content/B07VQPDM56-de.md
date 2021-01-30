@@ -16,6 +16,7 @@ comparePrice: 107.99 EUR
 prodname: 'SanDisk 256GB iXpand Go Flash-Laufwerk für Ihr iPhone und iPad'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VQPDM56/?tag=tolees0ca-21'
 descuento: '44.03'
 average: '60.44'

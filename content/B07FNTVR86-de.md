@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'DoGeek Ringstock Metall Ringmaß Ringmesser Kostenlos Ringdorn Set/UK  EU  USA und Switzerland  Kunststoff '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FNTVR86/?tag=tolees0ca-21'
 descuento: '33.36'
 average: '7.99'

@@ -16,6 +16,7 @@ comparePrice: 359.99 EUR
 prodname: 'Philips XC7042/01 SpeedPro Max kabelloser Staubsauger 7000 Series  mit Akku  360°-Saugdüse  65 Min. Akkulaufzeit  rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WRD2M69/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '287.99'

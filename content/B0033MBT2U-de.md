@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Ravensburger tiptoi Der interaktive Globus Spiel  ab 7 Jahren  Wissen und Spiele rund um die Welt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0033MBT2U/?tag=tolees0ca-21'
 descuento: '26.64'
 average: '40.34'

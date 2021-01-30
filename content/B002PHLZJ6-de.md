@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Inter Link Sammlervitrine Hängevitrine Wandregal Glasvitrine Wandvitrine Hängeregal Schaukasten MDF Buche Nachbildung BxHxT: 80 x 60 x 9.50 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002PHLZJ6/?tag=tolees0ca-21'
 descuento: '33.26'
 average: '40.97333333333333'

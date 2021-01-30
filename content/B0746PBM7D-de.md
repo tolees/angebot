@@ -16,6 +16,7 @@ comparePrice: 26.47 EUR
 prodname: 'Die Sims 4 - Standard Edition - [PlayStation 4] -  Cover-Bild kann abweichen '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0746PBM7D/?tag=tolees0ca-21'
 descuento: '24.48'
 average: '19.99'

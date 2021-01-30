@@ -16,6 +16,7 @@ comparePrice: 44.49 EUR
 prodname: 'Smartwatch Sport Uhr Fitness Tracker - IP68 Wasserdicht Bracelet Touchscreen mit Schrittzähler Schlafanalyse Kamera Musik Knopf  Anruf SMS Facebook Vibration für Herren Damen Kompatible Android IOS'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TNJDJXK/?tag=tolees0ca-21'
 descuento: '46.10'
 average: '23.98'

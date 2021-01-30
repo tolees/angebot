@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'Krups F30908 Krups ProAroma Glas-Kaffeemaschine  10 Tassen  1.050 W im modernen Design  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00KCL8ZZO/?tag=tolees0ca-21'
 descuento: '57.89'
 average: '24.0'

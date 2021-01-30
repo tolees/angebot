@@ -16,6 +16,7 @@ comparePrice: 42.5 EUR
 prodname: 'Marttiini 183609 Gürtelmesser Big Dipper Messer  Silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HK6VB22/?tag=tolees0ca-21'
 descuento: '15.44'
 average: '35.94'

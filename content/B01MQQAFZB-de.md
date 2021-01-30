@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'BRITA Filterkartuschen MAXTRA+ im 2er Pack – Kartuschen für alle BRITA Wasserfilter zur Reduzierung von Kalk  Chlor & geschmacksstörenden Stoffen im Leitungswasser'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MQQAFZB/?tag=tolees0ca-21'
 descuento: '42.71'
 average: '9.16'

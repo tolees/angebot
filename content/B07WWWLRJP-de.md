@@ -16,6 +16,7 @@ comparePrice: 199 EUR
 prodname: 'Sonos One SL All-In-One Smart Speaker  Kraftvoller WLAN Lautsprecher mit App Steuerung und AirPlay 2 - Multiroom Speaker für unbegrenztes Musikstreaming  schwarz  ohne Sprachsteuerung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WWWLRJP/?tag=tolees0ca-21'
 descuento: '18.10'
 average: '165.995'

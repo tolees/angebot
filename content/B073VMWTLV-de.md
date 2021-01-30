@@ -16,6 +16,7 @@ comparePrice: 87.99 EUR
 prodname: 'Uglyfrog HDSLJ13 Frühling/Herbst Männer Radfahren Kleidung Set Fahrrad Anzug Outdoor Langarmtrikot+ Hose Atmungsaktiv Schnell Trocken Zwei Stücke'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B073VMWTLV/?tag=tolees0ca-21'
 descuento: '45.46'
 average: '47.99'

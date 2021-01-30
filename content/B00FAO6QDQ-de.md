@@ -16,6 +16,7 @@ comparePrice: 119.75 EUR
 prodname: 'Cybex Silver Solution X  Autositz Gruppe 2/3  15-36 kg   ohne Isofix  Kollektion 2018  Gray Rabbit'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00FAO6QDQ/?tag=tolees0ca-21'
 descuento: '26.93'
 average: '87.5'

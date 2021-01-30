@@ -16,6 +16,7 @@ comparePrice: 58.99 EUR
 prodname: 'Pans Labyrinth - Ultimate Edition  Blu-ray + CD-Soundtrack + 3 Bonus-Blu-rays + DVD  [Limited Edition]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BSMHG56/?tag=tolees0ca-21'
 descuento: '25.07'
 average: '44.2'

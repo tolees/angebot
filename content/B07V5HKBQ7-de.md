@@ -16,6 +16,7 @@ comparePrice: 19.49 EUR
 prodname: 'Retevis RT637 Walkie Talkie Kinder 16 Kanal PMR446 Taschenlampe VOX Kinder Funkgeräte Einfache Bedienung Spy Gear Spielzeug Geschenk für Kinder  Orange  1 Paar '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07V5HKBQ7/?tag=tolees0ca-21'
 descuento: '22.06'
 average: '15.19'

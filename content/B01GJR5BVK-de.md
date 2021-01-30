@@ -16,6 +16,7 @@ comparePrice: 199.9 EUR
 prodname: 'HP OfficeJet Pro 8715 Multifunktionsdrucker  Instant Ink  Drucker  Scanner  Kopierer  Fax  WLAN  LAN  Duplex  Airprint  mit 3 Probemonaten HP Instant Ink inklusive'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01GJR5BVK/?tag=tolees0ca-21'
 descuento: '33.94'
 average: '132.06'

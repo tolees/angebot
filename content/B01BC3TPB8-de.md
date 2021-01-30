@@ -16,6 +16,7 @@ comparePrice: 649.0 EUR
 prodname: 'Samsung WW80K6404QW/EG Waschmaschine FL/A+++/116 kWh/Jahr/1400 UpM/8 kg/Add Wash/WiFi Smart Control/Super Speed Wash/Digital Inverter Motor'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BC3TPB8/?tag=tolees0ca-21'
 descuento: '35.44'
 average: '554.4449999999999'

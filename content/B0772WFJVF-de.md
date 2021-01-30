@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 22058 S1 POP Vinylfigur: Ready Player One: i-R0k  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0772WFJVF/?tag=tolees0ca-21'
 descuento: '29.31'
 average: '9.89'

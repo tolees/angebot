@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'ABUS AB72498 5805C Vorhängeschloss  Schwarz  110 cm Länge'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01J9IG0JI/?tag=tolees0ca-21'
 descuento: '21.32'
 average: '21.99'

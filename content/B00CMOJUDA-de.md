@@ -16,6 +16,7 @@ comparePrice: 71.99 EUR
 prodname: 'Scholl Clogs SUPERCOMFORT Frau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00CMOJUDA/?tag=tolees0ca-21'
 descuento: '22.41'
 average: '55.86'

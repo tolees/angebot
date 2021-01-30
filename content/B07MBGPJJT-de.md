@@ -16,6 +16,7 @@ comparePrice: 16.6 EUR
 prodname: 'Pentel SESF30C-4 Brush Sign Pen Artist - Pinselstift mit extra feiner Pinsel-Spitze  4er Set  sortiert'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MBGPJJT/?tag=tolees0ca-21'
 descuento: '29.64'
 average: '11.289999999999997'

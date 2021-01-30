@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Fossil Herren-Smartwatch mit Silikon Armband FTW4019'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07M79D4RH/?tag=tolees0ca-21'
 descuento: '37.09'
 average: '145.30599999999998'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JBL Tune110BT In-Ear Bluetooth-Kopfhörer - Kabellose Ohrhörer mit integriertem Mikrofon - Musik Streaming bis zu 6 Stunden mit nur einer Akku-Ladung Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075KPNDC8/?tag=tolees0ca-21'
 descuento: '18.08'
 average: '25.513333333333335'

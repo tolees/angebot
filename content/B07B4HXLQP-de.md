@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Navitech Rot hartes Wasser-beständiges Mini Desktop PC / Mini PC Tasche / Hülle kompatibel mit dem Intel NUC mini PC'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B4HXLQP/?tag=tolees0ca-21'
 descuento: '31.05'
 average: '19.99'

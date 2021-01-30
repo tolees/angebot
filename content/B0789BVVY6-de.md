@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Fossil Damen-Armreifen Edelstahl JF02854998'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0789BVVY6/?tag=tolees0ca-21'
 descuento: '33.25'
 average: '39.13'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Philips 996596003606 Original Fernbedienung für 32PFS5362 49PUS610112 65PUS6262 LCD LED 3D HD Smart TV mit Netflix-Taste'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078YG62KQ/?tag=tolees0ca-21'
 descuento: '35.26'
 average: '11.0'

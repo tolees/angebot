@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'LiveRowing Bluetooth Kopfhörer  Kabellose Kopfhörer mit Bluetooth 5.0 TWS Ohrhörer In Ear Kopfhörer HiFi APT-X CVC8.0 für iPhone/Android-Sport-Ohrhörer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08DFLHPK4/?tag=tolees0ca-21'
 descuento: '16.67'
 average: '21.990000000000002'

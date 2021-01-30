@@ -16,6 +16,7 @@ comparePrice: 2099.0 EUR
 prodname: 'Microsoft Surface Pro 7  12 3 Zoll 2-in-1 Tablet  Intel Core i7  16GB RAM  512GB SSD  Win 10 Home  Platin Grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XBRYWHX/?tag=tolees0ca-21'
 descuento: '22.87'
 average: '1619.0'

@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Hasbro Gaming E3278100 Monopoly Game of Thrones  deutsche Version   Brettspiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07N3B3HKR/?tag=tolees0ca-21'
 descuento: '29.63'
 average: '30.25'

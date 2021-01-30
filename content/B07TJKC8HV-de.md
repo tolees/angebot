@@ -16,6 +16,7 @@ comparePrice: 8.76 EUR
 prodname: 'Anna [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TJKC8HV/?tag=tolees0ca-21'
 descuento: '27.74'
 average: '6.33'

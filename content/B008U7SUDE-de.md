@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Whisky Ardbeg Islay Single Malt 10 Jahre in Geschenkverpackung  1 x 0.7 l '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B008U7SUDE/?tag=tolees0ca-21'
 descuento: '22.42'
 average: '38.71'

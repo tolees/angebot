@@ -16,6 +16,7 @@ comparePrice: 144.99 EUR
 prodname: 'L.O.L. Surprise! 559764E7C Amazing Surprise mit über 70 Überraschungen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PMN4NJD/?tag=tolees0ca-21'
 descuento: '44.82'
 average: '89.43480000000001'

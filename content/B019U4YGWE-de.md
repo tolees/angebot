@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Triumph Damen Halbschalen BH Body Make-Up Essent WHP  Schwarz  Black 04   Gr. 80B'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B019U4YGWE/?tag=tolees0ca-21'
 descuento: '44.23'
 average: '19.49'

@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Bosch Akkuschrauber IXO  5. Generation  in Aufbewahrungsbox '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00TTZU566/?tag=tolees0ca-21'
 descuento: '31.06'
 average: '37.294'

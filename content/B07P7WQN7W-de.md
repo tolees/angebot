@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Xoro HMT 500 - Micro System Internet-/ DAB+/FM-Radio  CD Player  Bluetooth  Mediaplayer  2.4" Farbdisplay  RC  2x10W'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P7WQN7W/?tag=tolees0ca-21'
 descuento: '20.76'
 average: '102.22'

@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Sensor Seifenspender  400ml Berührungsloser Infrared Sensor Seifenspender Automatischer Seifenspender mit Bewegungssensor IP67 tiefes wasserdichtes Design elektrischer Seifenspender für Bad/Küche'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08G4TDDS2/?tag=tolees0ca-21'
 descuento: '15.01'
 average: '20.39'

@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'Lightailing Licht-Set Für  Creator Tower Bridge  Modell - Licht Blinkt Nicht - LED Licht-Set Kompatibel Mit Lego 10214 Modell NICHT Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07K4X6RJX/?tag=tolees0ca-21'
 descuento: '44.45'
 average: '99.99'

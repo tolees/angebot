@@ -16,6 +16,7 @@ comparePrice: 197.19 EUR
 prodname: 'Bosch Professional Bohrhammer GBH 2-28 F  SDS-plus-Wechselfutter  13 mm Schnellspannbohrfutter  bis 28 mm Bohr-Ø  Rückschlag-Schutz  in L-BOXX '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LDZYN6C/?tag=tolees0ca-21'
 descuento: '20.39'
 average: '155.65666666666667'

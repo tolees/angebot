@@ -16,6 +16,7 @@ comparePrice: 265.0 EUR
 prodname: 'ghd platinum+ Styler  professionelles Glätteisen mit vorausschauender Technologie  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GGFXKJ2/?tag=tolees0ca-21'
 descuento: '29.11'
 average: '185.015'

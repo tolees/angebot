@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'BOSS Herren RN 3P CO T-shirts  3er Pack  Schwarz  Black 001   Medium'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MECGBC4/?tag=tolees0ca-21'
 descuento: '34.89'
 average: '26.01'

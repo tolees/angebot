@@ -16,6 +16,7 @@ comparePrice: 14.97 EUR
 prodname: 'EDELHAND © Küchenschrank Geschirrtuchhalter zum Einhängen - 35 cm langer Edelstahl Handtuchhalter Küche inkl. 2 GRATIS Haken - Geschirrtuch Halter ohne Bohren als Türhandtuchhalter mit Stange'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B085CJZ8ML/?tag=tolees0ca-21'
 descuento: '33.40'
 average: '9.97'

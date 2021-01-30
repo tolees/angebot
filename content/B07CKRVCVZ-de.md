@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Hasbro Nerf B8072EU5 N-Strike Elite TerraScout  Multicolor'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CKRVCVZ/?tag=tolees0ca-21'
 descuento: '16.20'
 average: '254.74'

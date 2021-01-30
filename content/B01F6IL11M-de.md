@@ -16,6 +16,7 @@ comparePrice: 109 EUR
 prodname: 'satch Pack Chaka Cherry  ergonomischer Schulrucksack  30 Liter  Organisationstalent  Pink'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01F6IL11M/?tag=tolees0ca-21'
 descuento: '31.19'
 average: '75'

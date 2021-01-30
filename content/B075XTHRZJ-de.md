@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Hasbro Spiele C2131100 Probieren Oder Verlieren Partyspiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075XTHRZJ/?tag=tolees0ca-21'
 descuento: '65.59'
 average: '7.91'

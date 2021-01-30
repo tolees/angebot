@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Funko 9298 S1 No Actionfigur Games: Overwatch: Tracer  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01CDEXBEC/?tag=tolees0ca-21'
 descuento: '48.18'
 average: '8.74'

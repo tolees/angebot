@@ -16,6 +16,7 @@ comparePrice: 136.1 EUR
 prodname: 'Huawei Y6 2017  Grey '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072ZTRC6D/?tag=tolees0ca-21'
 descuento: '28.93'
 average: '96.72'

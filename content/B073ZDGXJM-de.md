@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Remington Hygiene Clipper Lithium NanoSeries NE3870  Trimmer für Nasen-  Ohren- & Augenbrauenhärchen  inkl. Detailtrimmer-Aufsatz  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B073ZDGXJM/?tag=tolees0ca-21'
 descuento: '37.78'
 average: '15.55'

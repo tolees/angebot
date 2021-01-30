@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Exzenterschleifer  300W Meterk Schleifmaschine holz mit 125mm Schleifteller  6 Geschwindigkeit  12 Stück Schleifpapier  Staubsammelbehälter  Ideal für Heimwerker  Schleifen  Polieren von Holz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Z8MD4SC/?tag=tolees0ca-21'
 descuento: '50.06'
 average: '39.95'

@@ -16,6 +16,7 @@ comparePrice: 35.49 EUR
 prodname: 'Symiu Holzspielzeug Montessori Kinderspielzeug für Kinder 3 IN 1 Xylophon Hammerspiel Klopfbank Planen Musik Geschenk Kind ab 3 4 5 Jahr Junge Mädchen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0892JMSTD/?tag=tolees0ca-21'
 descuento: '32.40'
 average: '23.99'

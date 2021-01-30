@@ -16,6 +16,7 @@ comparePrice: 339.99 EUR
 prodname: 'WD My Book externe Festplatte 14 TB  USB 3.0-Schnittstelle  automatische Datensicherung mit WD Backup  kompatibel mit Time Machine  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Y3JXGPL/?tag=tolees0ca-21'
 descuento: '24.71'
 average: '255.99'

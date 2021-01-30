@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 26384 S1 Pop Vinylfigur Games Minecraft Alex  Multi  one Size'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0777TNHLM/?tag=tolees0ca-21'
 descuento: '50.54'
 average: '6.92'

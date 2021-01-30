@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Oacvien Bluetooth Adapter 5.0 Transmitter Empfänger  2 in 1 mit High Definition und Low Latency Audio Adapter mit RCA & 3.5 mm AUX kompatibel  für TV PC Kopfhörer HiFi Lautsprecher Radio'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083J8RGJ9/?tag=tolees0ca-21'
 descuento: '19.48'
 average: '15.29'

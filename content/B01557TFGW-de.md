@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Aberfeldy Highland Single Malt Whisky 16 Jahre  1 x 0.7 l '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01557TFGW/?tag=tolees0ca-21'
 descuento: '25.00'
 average: '44.99'

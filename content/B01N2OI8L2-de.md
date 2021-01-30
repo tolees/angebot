@@ -16,6 +16,7 @@ comparePrice: 935.0 EUR
 prodname: 'Neff TBD1836N / T18BD36N0 / Autarkes Kochfeld / Konventionell / 80cm / Touch Control / Bräterzone'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N2OI8L2/?tag=tolees0ca-21'
 descuento: '54.75'
 average: '427.57'

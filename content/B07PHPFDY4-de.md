@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Dickie Toys 203818000 Happy Farm House  Bauernhof  Set für Kinder ab 1 Jahr  Traktor  mit Tieren  Licht & Sound  Mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PHPFDY4/?tag=tolees0ca-21'
 descuento: '37.97'
 average: '34.11'

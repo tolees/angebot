@@ -16,6 +16,7 @@ comparePrice: 7.5 EUR
 prodname: 'Star Wars: Das Erwachen der Macht'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B019FA3CXW/?tag=tolees0ca-21'
 descuento: '65.87'
 average: '4.775'

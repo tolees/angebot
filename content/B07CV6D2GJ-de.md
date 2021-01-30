@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'JACK & JONES Herren JFWALBANY Leather STS Biker Boots  Braun  Brown Stone Brown Stone   45 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CV6D2GJ/?tag=tolees0ca-21'
 descuento: '30.00'
 average: '69.99'

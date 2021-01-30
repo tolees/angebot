@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Lightess 4er LED Unterbauleuchte Schrankbeleuchtung Warmweiß Schrankleuchte LED Nachtlicht Schrank Lichter Wandleuchten Treppen Licht Vitrinenbeleuchtung für Kabinett Schränke Kleiderschrank Küche'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GFB4YFF/?tag=tolees0ca-21'
 descuento: '45.10'
 average: '26.9'

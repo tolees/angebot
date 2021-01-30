@@ -16,6 +16,7 @@ comparePrice: 7.79 EUR
 prodname: 'Crosby  Stills & Nash - Greatest Hits'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0002NUTSI/?tag=tolees0ca-21'
 descuento: '49.68'
 average: '3.92'

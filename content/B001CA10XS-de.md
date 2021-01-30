@@ -16,6 +16,7 @@ comparePrice: 17.15 EUR
 prodname: 'Hazet 2169 Ölfilterschlüssel  Antrieb: Innenvierkant 10 mm  3/8 Zoll  oder Außensechskant 27 mm  Abtrieb 14kant  Schlüsselweite 74 4 mm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001CA10XS/?tag=tolees0ca-21'
 descuento: '35.92'
 average: '10.99'

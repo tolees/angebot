@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Emsa N2010800 Travel Mug Waves  0 36 L PA. Grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GVLMHL8/?tag=tolees0ca-21'
 descuento: '33.35'
 average: '17.99'

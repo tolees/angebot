@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'UHU 45450 Doppel-Strips Extrem  4 kg  26 mm x 31 mm  16 Stück'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00CQILASA/?tag=tolees0ca-21'
 descuento: '28.21'
 average: '4.3'

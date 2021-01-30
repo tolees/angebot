@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'SanDisk microSDXC UHS-I card for Nintendo Switch 64GB - Nintendo licensed Product  New '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KXRGM8X/?tag=tolees0ca-21'
 descuento: '29.18'
 average: '16.13285714285714'

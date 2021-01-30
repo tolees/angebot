@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'G-STAR RAW Damen Syenite Slim Hemd  Blau  Mazarine Blue 4213    Herstellergröße:L '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NDPT3CL/?tag=tolees0ca-21'
 descuento: '21.49'
 average: '16.48'

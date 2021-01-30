@@ -16,6 +16,7 @@ comparePrice: 15.69 EUR
 prodname: 'The Luckiest Man'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07668BTNV/?tag=tolees0ca-21'
 descuento: '49.08'
 average: '7.99'

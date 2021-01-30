@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'GANT Herren Shield Sweat Hoodie Kapuzenpullover  Schwarz  Black 5   Small'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LYHTKDT/?tag=tolees0ca-21'
 descuento: '40.00'
 average: '59.99'

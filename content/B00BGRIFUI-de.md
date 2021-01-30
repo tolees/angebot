@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Dickie Toys Mega Crane  elektrischer Kran mit Fernbedienung  für Kinder ab 3 Jahren  120 cm hoch  mit Greifarm  Seilwinde  Kabine  Ladeplattform'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00BGRIFUI/?tag=tolees0ca-21'
 descuento: '30.24'
 average: '29.99'

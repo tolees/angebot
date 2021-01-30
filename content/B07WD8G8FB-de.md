@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Edelstahl Trichter yidenguk Kitchen Strainer Trichter Set  3 Stück Edelstahl Trichter Filter Set mit abnehmbarem Sieb für die Übertragung von flüssigen Zutaten'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WD8G8FB/?tag=tolees0ca-21'
 descuento: '23.54'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 417.99 EUR
 prodname: 'HyperX Impact DDR4 HX426S16IBK2/64 Arbeitsspeicher 2666MHz CL16 SOIMM 64GB Kit  2x32GB '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08492TQGQ/?tag=tolees0ca-21'
 descuento: '33.25'
 average: '279.0'

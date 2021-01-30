@@ -16,6 +16,7 @@ comparePrice: 2.49 EUR
 prodname: 'Energizer Alkaline Batterie E23 A'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000IWXWI2/?tag=tolees0ca-21'
 descuento: '30.12'
 average: '1.74'

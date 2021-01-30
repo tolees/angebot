@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Bio Granatapfel Muttersaft  6 x 1 Liter Granatapfelsaft Direktsaft'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00DB1R8FK/?tag=tolees0ca-21'
 descuento: '20.51'
 average: '31.79'

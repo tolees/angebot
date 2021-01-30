@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Philips HF3520/01 Wake-Up Light  Sonnenaufgangfunktion  digitales FM Radio  Tageslichtwecker  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B008LR3KD8/?tag=tolees0ca-21'
 descuento: '50.63'
 average: '88.788'

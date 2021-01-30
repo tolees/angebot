@@ -16,6 +16,7 @@ comparePrice: 17.39 EUR
 prodname: 'BOSCH 1987301106 Gigalight Plus 120 Xenon Bulb H4 12 V 60 / 55 W P43T 2 Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00YCL23GW/?tag=tolees0ca-21'
 descuento: '33.76'
 average: '11.52'

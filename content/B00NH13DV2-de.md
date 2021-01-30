@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'AmazonBasics USB 2.0-Druckerkabel A-Stecker auf B-Stecker  3 m'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00NH13DV2/?tag=tolees0ca-21'
 descuento: '50.96'
 average: '5.39'

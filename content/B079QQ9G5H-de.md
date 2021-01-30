@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'König & Meyer 16075 Headphones Table Stand  Schwarz '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079QQ9G5H/?tag=tolees0ca-21'
 descuento: '55.31'
 average: '8.0'

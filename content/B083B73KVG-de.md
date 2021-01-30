@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'UMIDIGI Smartwatch Uwatch3 Fitness Tracker 5 ATM Armbanduhr Sportuhr Smart Watch für Damen Herren Kinder mit Herzfrequenz Schlaftracker Kompatibel mit Android und IOS Xiaomi Samsung Huawei  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083B73KVG/?tag=tolees0ca-21'
 descuento: '15.00'
 average: '36.99'

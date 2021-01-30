@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Hasbro C2697EU5 - Baby Alive Fütterspaß Lily  Puppe'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06WCZJ56J/?tag=tolees0ca-21'
 descuento: '28.97'
 average: '19.17'

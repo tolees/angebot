@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: 'Fairy Ultra Plus Konzentrat Original Spülmittel  800 ml'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CR7H3F9/?tag=tolees0ca-21'
 descuento: '49.75'
 average: '1.0'

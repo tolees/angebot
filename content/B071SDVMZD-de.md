@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'camel active Damen Canberra 72 Chelsea Boots  Grau  Dk.Grey 4   39 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071SDVMZD/?tag=tolees0ca-21'
 descuento: '47.09'
 average: '68.76'

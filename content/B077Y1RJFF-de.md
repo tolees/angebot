@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'BRITA Wasserfilter Style XL hellgrau inkl. 1 MAXTRA+ Filterkartusche – Großer BRITA Filter in modernem Design zur Reduzierung von Kalk  Chlor & geschmacksstörenden Stoffen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077Y1RJFF/?tag=tolees0ca-21'
 descuento: '17.58'
 average: '28.875'

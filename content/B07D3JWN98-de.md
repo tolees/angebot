@@ -16,6 +16,7 @@ comparePrice: 6.64 EUR
 prodname: 'Deadpool 2 [DVD]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07D3JWN98/?tag=tolees0ca-21'
 descuento: '21.54'
 average: '5.21'

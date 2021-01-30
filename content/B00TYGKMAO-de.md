@@ -16,6 +16,7 @@ comparePrice: 17.16 EUR
 prodname: 'Whiskas 1 + Katzenfutter   Klassische Auswahl in Sauce  48 x 100g'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00TYGKMAO/?tag=tolees0ca-21'
 descuento: '36.13'
 average: '10.96'

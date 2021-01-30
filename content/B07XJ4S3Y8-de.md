@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'OnePlus 7T Smartphone Frosted Silver | 8 GB RAM + 128 GB Speicher | 16 6 cm AMOLED Display 90Hz Screen | Triple Kamera + Front-Kamera | Warp Charge 30'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XJ4S3Y8/?tag=tolees0ca-21'
 descuento: '16.64'
 average: '499.32'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Unisex-Erwachsene Baya  Clogs  Grau  Graphite   45/46 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003BLPRL2/?tag=tolees0ca-21'
 descuento: '59.99'
 average: '16.0'

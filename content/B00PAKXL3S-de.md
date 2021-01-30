@@ -16,6 +16,7 @@ comparePrice: 21.93 EUR
 prodname: 'Stereo Gaming Headset Dual Format PS4/PSVita-weiss'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00PAKXL3S/?tag=tolees0ca-21'
 descuento: '19.79'
 average: '17.59'

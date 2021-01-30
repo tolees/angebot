@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Sharp R760S 2-in-1 Flatbed Mikrowelle mit Grill / 23 L / 900 W / 1000 W Grill / 8 Automatikprogramme / LCD-Display / Timer / Gewicht- und zeitgesteuertes Auftauen / Kindersicherung / silber/schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MG9N2JT/?tag=tolees0ca-21'
 descuento: '16.11'
 average: '125.0'

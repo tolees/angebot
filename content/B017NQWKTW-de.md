@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Funko 025596 Schlüsselanhänger Figur Harry Potter  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B017NQWKTW/?tag=tolees0ca-21'
 descuento: '42.78'
 average: '4.0'

@@ -16,6 +16,7 @@ comparePrice: 689.0 EUR
 prodname: 'Samsung Galaxy Tab S3 T825 24 58 cm  9 68 Zoll  Touchscreen LTE Tablet PC  Quad Core 4GB RAM 32GB eMMC LTE Android 7 0  silber inkl. S Pen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XC2XMXD/?tag=tolees0ca-21'
 descuento: '49.71'
 average: '352.75'

@@ -16,6 +16,7 @@ comparePrice: 12.01 EUR
 prodname: 'Funko 36661 POP Bobble: Avengers Endgame: Captain America Sammelfiguren  Multi  Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KPSDWJ1/?tag=tolees0ca-21'
 descuento: '33.39'
 average: '8.5'

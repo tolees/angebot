@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'De Longhi Nespresso EN267.BAE Citiz Kaffemaschine | Hochdruckpumpe und perfekte Wärmeregelung | Energiesparfunktion | Integrierter Aeroccino-Milchaufschäumer | schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01ITGS3UU/?tag=tolees0ca-21'
 descuento: '40.16'
 average: '149.0'

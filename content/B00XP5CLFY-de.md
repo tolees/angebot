@@ -16,6 +16,7 @@ comparePrice: 642.6 EUR
 prodname: 'Makita Akku-Handkreissäge 57 mm   18 V/5 0 Ah   DHS680RTJ'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00XP5CLFY/?tag=tolees0ca-21'
 descuento: '59.54'
 average: '259.99'

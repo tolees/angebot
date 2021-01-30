@@ -16,6 +16,7 @@ comparePrice: 81.46 EUR
 prodname: 'TP-Link Archer VR400 Modem Router Gigabit ADSL/VDSL  Faser  Wireless AC1200 Mbps  Dual Band 2.4 GHz + 5 GHz  USB 2.0'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M1VAY45/?tag=tolees0ca-21'
 descuento: '44.78'
 average: '44.98'

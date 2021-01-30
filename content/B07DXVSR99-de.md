@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'Under Armour Herren UA GL Foundation Short Sleeve Tee atmungsaktives Sportshirt  kurzärmliges und komfortables Funktionsshirt mit loser Passform  Blau  XL'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DXVSR99/?tag=tolees0ca-21'
 descuento: '43.70'
 average: '14.61'

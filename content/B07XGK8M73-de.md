@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'YIGII Handtuchhalter Ohne Bohren Handtuchring Selbstklebend Handtuchstange für Badzimmer  SUS304 Edelstahl'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XGK8M73/?tag=tolees0ca-21'
 descuento: '46.17'
 average: '13.99'

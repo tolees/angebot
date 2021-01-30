@@ -16,6 +16,7 @@ comparePrice: 5.1 EUR
 prodname: 'The Dark Knight Rises [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B008ML8RMC/?tag=tolees0ca-21'
 descuento: '16.27'
 average: '4.27'

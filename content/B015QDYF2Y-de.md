@@ -16,6 +16,7 @@ comparePrice: 11.88 EUR
 prodname: 'Colgate Komplett Ultra Weiß Zahnpasta  12er Pack  12 x 75 ml '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B015QDYF2Y/?tag=tolees0ca-21'
 descuento: '42.17'
 average: '6.87'

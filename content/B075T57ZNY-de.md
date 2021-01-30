@@ -16,6 +16,7 @@ comparePrice: 18.64 EUR
 prodname: 'Pentel bl2007z-cof Roller EnerGel Gel Körper Metall matt silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075T57ZNY/?tag=tolees0ca-21'
 descuento: '29.94'
 average: '17.996923076923075'

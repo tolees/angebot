@@ -16,6 +16,7 @@ comparePrice: 130 EUR
 prodname: 'Lacoste L.12.12 Concept SStrap Vertical Shopping Bag High Risk Red'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MQYDU5B/?tag=tolees0ca-21'
 descuento: '46.92'
 average: '69'

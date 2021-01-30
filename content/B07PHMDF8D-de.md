@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Huawei Watch GT Active Smartwatch  46 mm Amoled Touchscreen  GPS  Fitness Tracker  Herzfrequenzmessung  5 ATM wasserdicht  Dunkelgrün'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PHMDF8D/?tag=tolees0ca-21'
 descuento: '53.98'
 average: '106.71000000000001'

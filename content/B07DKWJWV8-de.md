@@ -16,6 +16,7 @@ comparePrice: 9.21 EUR
 prodname: 'The Strangers - Opfernacht [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DKWJWV8/?tag=tolees0ca-21'
 descuento: '24.32'
 average: '6.97'

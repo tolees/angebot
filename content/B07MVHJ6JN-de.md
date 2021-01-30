@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Graef CH502EU Zerkleinerer  Glas'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MVHJ6JN/?tag=tolees0ca-21'
 descuento: '23.57'
 average: '42.03'

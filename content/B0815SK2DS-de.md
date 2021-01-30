@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'HERCN Hülle Kompatibel mit Oppo K5/Realme X2/Realme XT 6.4" Ultra Dünn Handyhülle Anti-Rutsch PC Plastik Harte Case Schutzhülle für Oppo K5/Realme X2/Realme XT Smartphone  Blau '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0815SK2DS/?tag=tolees0ca-21'
 descuento: '49.81'
 average: '3.99'

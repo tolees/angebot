@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'AIKELA Bluetooth Kopfhörer Kabellos in Ear Wireless Kopfhörer Sport Ohrhörer Bluetooth 5.0 Headset mit LED Digitalanzeige 140 Stunden Spielzeit IPX7 Wasserdicht Mikrofon für iPhone Android usw'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YX2BRJL/?tag=tolees0ca-21'
 descuento: '42.88'
 average: '44.87740740740741'

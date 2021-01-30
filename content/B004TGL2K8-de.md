@@ -16,6 +16,7 @@ comparePrice: 12.39 EUR
 prodname: 'KMC X8-93 Kette  114 Glieder  Silber/Grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004TGL2K8/?tag=tolees0ca-21'
 descuento: '19.69'
 average: '9.95'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'FIFA 20 | Xbox One - Download Code'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SLP7XX8/?tag=tolees0ca-21'
 descuento: '60.01'
 average: '58.090999999999994'

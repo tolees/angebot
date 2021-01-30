@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'PLAYMOBIL Magic 9474 Schlitten mit Königspaar  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079MNH48Z/?tag=tolees0ca-21'
 descuento: '29.43'
 average: '11.07181818181818'

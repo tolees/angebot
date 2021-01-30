@@ -16,6 +16,7 @@ comparePrice: 259.98 EUR
 prodname: 'DXX Acryl Schaukasten Vitrine  Schaukasten Acryl Vitrine Display Case für Lego Star Wars 75159 Death Star Ohne Modell '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083K4YMBG/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '129.99'

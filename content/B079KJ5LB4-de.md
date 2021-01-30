@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'LLOYD Herren Gala Derbys  Schwarz  Schwarz/Midnight 0   44 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079KJ5LB4/?tag=tolees0ca-21'
 descuento: '54.96'
 average: '44.99'

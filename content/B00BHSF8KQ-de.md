@@ -16,6 +16,7 @@ comparePrice: 22.59 EUR
 prodname: 'erima Sporttasche  Granit/Schwarz  L  76 Liter  723334'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00BHSF8KQ/?tag=tolees0ca-21'
 descuento: '19.43'
 average: '18.2'

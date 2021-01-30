@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Ecco Damen SOFT7W Sneakers  Schwarz  BLACK 1001   40 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00RC7RS7M/?tag=tolees0ca-21'
 descuento: '35.01'
 average: '77.99'

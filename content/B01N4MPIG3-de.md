@@ -16,6 +16,7 @@ comparePrice: 22.42 EUR
 prodname: 'Grsta Magnetisches Armband - Personalisierte Geschenke für Männer  Frauen geschenk  DIY Gadget  kleine Geschenke für Elektriker  Handwerker  Heimwerker  Herren Magnetarmband Werkzeuge  Papa Geschenk'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N4MPIG3/?tag=tolees0ca-21'
 descuento: '51.07'
 average: '10.97'

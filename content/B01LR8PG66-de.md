@@ -16,6 +16,7 @@ comparePrice: 339.99 EUR
 prodname: 'Arlo Pro Smart Home 1 HD- Pro Überwachungskamera und Sicherheitsalarm  100% kabellos  720p HD  130 Grad Blickwinkel  WLAN  Bewegungsmelder  Nachtsicht  Innen/Außen 100 dB Sirene  weiß  VMS4130'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LR8PG66/?tag=tolees0ca-21'
 descuento: '29.41'
 average: '239.99'

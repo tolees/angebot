@@ -16,6 +16,7 @@ comparePrice: 4.09 EUR
 prodname: 'Rekord'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00IYSP61S/?tag=tolees0ca-21'
 descuento: '30.07'
 average: '2.86'

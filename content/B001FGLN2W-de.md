@@ -16,6 +16,7 @@ comparePrice: 8.0 EUR
 prodname: 'BOSCH 3397004772 Wischblatt Heck H772 - Länge: 340'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001FGLN2W/?tag=tolees0ca-21'
 descuento: '53.00'
 average: '3.76'

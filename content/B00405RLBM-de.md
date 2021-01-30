@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Kenwood Zerkleinerer CH580  elektrischer Mini Universalzerkleinerer mit Quadblade-System  0 5 l Arbeitsbehälter  500 Watt  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00405RLBM/?tag=tolees0ca-21'
 descuento: '29.32'
 average: '31.8'

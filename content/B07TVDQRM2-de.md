@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Pop Gladiator Maximus Vinyl Figure'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TVDQRM2/?tag=tolees0ca-21'
 descuento: '18.42'
 average: '9.785'

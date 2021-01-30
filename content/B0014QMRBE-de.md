@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Theo Klein - Bosch 8429 - Tool Box  Spielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0014QMRBE/?tag=tolees0ca-21'
 descuento: '22.38'
 average: '33.51'

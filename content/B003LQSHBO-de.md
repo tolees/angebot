@@ -16,6 +16,7 @@ comparePrice: 15.69 EUR
 prodname: 'Die Symphonien  Orchesterlieder  Eloquence '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003LQSHBO/?tag=tolees0ca-21'
 descuento: '30.02'
 average: '10.98'

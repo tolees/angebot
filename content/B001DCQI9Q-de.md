@@ -16,6 +16,7 @@ comparePrice: 16.79 EUR
 prodname: 'Pariser & Londoner Sinfonien  Karajan-Edition '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001DCQI9Q/?tag=tolees0ca-21'
 descuento: '29.96'
 average: '11.76'

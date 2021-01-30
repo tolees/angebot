@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'HP Sprocket Studio Fotodrucker  Drucken  scannen  kopieren  Bluetooth  10 x 15 cm Ausdrucke  Luna Pearl'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B082PJPMLC/?tag=tolees0ca-21'
 descuento: '33.36'
 average: '99.9'

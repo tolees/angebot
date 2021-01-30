@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Nike Herren Court Royale Sneaker Sneakers  Weiß  White / White   41 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00XWOB46K/?tag=tolees0ca-21'
 descuento: '36.87'
 average: '34.72'

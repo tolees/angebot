@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Logitech Brio Stream Webcam  4K Ultra-HD 1080p  Weites anpassbares Blickfeld  USB-Anschluss  Abdeckblende  Abnehmbarer Clip  Für Skype  Zoom  Xsplit  Youtube  PC - Schwarz  Streaming Edition'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0748NCPN5/?tag=tolees0ca-21'
 descuento: '38.56'
 average: '152.99'

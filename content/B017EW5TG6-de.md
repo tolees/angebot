@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'ORICO Bluetooth 4.0 Adapter Highspeed  USB Bluetooth Dongle 4.0 für Desktop-PC Computer Notebook Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B017EW5TG6/?tag=tolees0ca-21'
 descuento: '30.03'
 average: '6.99'

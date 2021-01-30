@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Funko 42650 POP Vinyl: Harry Potter S7-Ginny  Yule  Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PBBXR1R/?tag=tolees0ca-21'
 descuento: '42.25'
 average: '10.29'

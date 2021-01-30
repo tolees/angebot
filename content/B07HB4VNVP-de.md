@@ -16,6 +16,7 @@ comparePrice: 8.0 EUR
 prodname: 'Pop Billy Idol Vinyl Figure'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HB4VNVP/?tag=tolees0ca-21'
 descuento: '35.38'
 average: '5.17'

@@ -16,6 +16,7 @@ comparePrice: 39.73 EUR
 prodname: 'Under Armour Herren Sporthose  Schwarz  X-Large'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N90UVZQ/?tag=tolees0ca-21'
 descuento: '22.23'
 average: '30.9'

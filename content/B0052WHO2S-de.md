@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Brother FS20 Computer-Nähmaschine mit 32 Nähprogramme  Automatisches Nähen  Freiarm  Multifunktionsdisplay'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0052WHO2S/?tag=tolees0ca-21'
 descuento: '21.41'
 average: '179.98'

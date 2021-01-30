@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'CRYSTAL ART Crystal Card Kits 18x18cm  Mulitcolor  18x18'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NVFXSLL/?tag=tolees0ca-21'
 descuento: '33.37'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 4.4 EUR
 prodname: 'Unique Party 79123 Taschen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07F1VY3PB/?tag=tolees0ca-21'
 descuento: '36.14'
 average: '4.095'

@@ -16,6 +16,7 @@ comparePrice: 99.74 EUR
 prodname: 'adidas Herren Terrex AX3 Klassische Stiefel  Schwarz  Black Bc0524   44 2/3 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JQYFQ54/?tag=tolees0ca-21'
 descuento: '27.93'
 average: '71.88'

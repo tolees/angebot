@@ -16,6 +16,7 @@ comparePrice: 12.78 EUR
 prodname: 'Funko 33877 The Simpsons: Lisa w/Saxophone POP Vinylfigur  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFGTG8P/?tag=tolees0ca-21'
 descuento: '22.22'
 average: '9.56'

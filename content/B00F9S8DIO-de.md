@@ -16,6 +16,7 @@ comparePrice: 14.0 EUR
 prodname: 'Eagle Creek Pack-It Original Cube Packtasche  Rot  red fire 26 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00F9S8DIO/?tag=tolees0ca-21'
 descuento: '36.57'
 average: '8.88'

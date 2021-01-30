@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'Corsair K70 LUX Rot LED Mechanische Gaming Tastatur  Cherry MX Blue: Präzise und Hörbar  Rote LED Hintergrundbeleuchtung  QWERTZ DE Layout  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01FGRGJII/?tag=tolees0ca-21'
 descuento: '35.74'
 average: '89.9'

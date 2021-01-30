@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'One Piece World Seeker Standard - [PlayStation 4]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079PC9JQ5/?tag=tolees0ca-21'
 descuento: '37.41'
 average: '15.64'

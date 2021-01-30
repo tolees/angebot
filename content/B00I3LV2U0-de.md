@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Sony MDR-EX15AP In-Ear-Kopfhörer  mit Headsetfunktion  integriertes Mikrofon  blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00I3LV2U0/?tag=tolees0ca-21'
 descuento: '29.23'
 average: '7.167142857142858'

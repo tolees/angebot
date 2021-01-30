@@ -16,6 +16,7 @@ comparePrice: 517 EUR
 prodname: 'Yamaha Digital Piano P-45B  schwarz - Elektronisches Klavier für Einsteiger für authentisches Klavierspielen - Kompaktes & leicht zu bedienendes Digital Piano'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00UBJ4L32/?tag=tolees0ca-21'
 descuento: '52.80'
 average: '244'

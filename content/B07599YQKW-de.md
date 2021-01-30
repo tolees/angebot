@@ -16,6 +16,7 @@ comparePrice: 8.83 EUR
 prodname: 'Funko 24704 POP Vinylfigur: James Bond: Sean Connery  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07599YQKW/?tag=tolees0ca-21'
 descuento: '43.37'
 average: '9.775714285714287'

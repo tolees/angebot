@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Amazon-Schutzhülle für Kindle  Schwarz —nicht geeignet für Modelle der 10. Generation  2019 Amazon-Schutzhülle für Kindle  8. Generation - 2016 Modell   Schwarz - nicht geeignet für Modelle der 10. Generation  2018 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01CUKZBB0/?tag=tolees0ca-21'
 descuento: '63.11'
 average: '9.2325'

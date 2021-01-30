@@ -16,6 +16,7 @@ comparePrice: 40.22 EUR
 prodname: 'Disgaea 4 Complete+  PS4 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07T1LHJRH/?tag=tolees0ca-21'
 descuento: '25.44'
 average: '29.99'

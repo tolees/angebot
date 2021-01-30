@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'deAO 2-in-1 Puppenhaus Handtasche Tragetasche Spielset mit Mini Custom Doll  Schlafzimmer und Zubehör enthalten'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Q6ZKWCK/?tag=tolees0ca-21'
 descuento: '52.65'
 average: '19.323333333333334'

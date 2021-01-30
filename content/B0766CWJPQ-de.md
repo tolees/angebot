@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Playmobil 9377 - Zoo Spiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0766CWJPQ/?tag=tolees0ca-21'
 descuento: '29.32'
 average: '26.85'

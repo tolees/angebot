@@ -16,6 +16,7 @@ comparePrice: 144.99 EUR
 prodname: 'Krups KB181D Freshboost Vakuum to go Standmixer  800  Edelstahl  grau/schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GK445BM/?tag=tolees0ca-21'
 descuento: '41.38'
 average: '83.82'

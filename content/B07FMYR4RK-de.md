@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Philips Avent Natural Flaschenset SCD303/01  für Neugeborene aus Glas  transparent  3 Flaschen und Schnuller  120 und 240ml'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FMYR4RK/?tag=tolees0ca-21'
 descuento: '40.01'
 average: '23.99'

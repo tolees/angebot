@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Spielzeugkiste Schatztruhe Spielzeugtruhe Aufbewahrungskiste 46 Liter  1  Funny '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00IULM63K/?tag=tolees0ca-21'
 descuento: '33.39'
 average: '19.95'

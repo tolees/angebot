@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Sylvanian Families 4333 - Der Neuankömmling'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HRRD58S/?tag=tolees0ca-21'
 descuento: '25.26'
 average: '16.01852459016393'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'HUAWEI Cover PU Case P30 Pro  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PDSWKC3/?tag=tolees0ca-21'
 descuento: '45.46'
 average: '13.63'

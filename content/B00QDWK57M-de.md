@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Ravensburger 16701 Star Wars Universum Puzzle  2000-teilig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00QDWK57M/?tag=tolees0ca-21'
 descuento: '46.45'
 average: '17.13'

@@ -16,6 +16,7 @@ comparePrice: 18.9 EUR
 prodname: 'BRÜSTE MEMO - In diesem Trinkspiel warten die Paare darauf entdeckt zu werden - Scherzartikel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GSYV5QF/?tag=tolees0ca-21'
 descuento: '21.16'
 average: '14.9'

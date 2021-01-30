@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'EZVIZ CTQ3W Überwachungskamera aussen WLAN/LAN IP Kamera Full HD Wasserdicht Außenkamera mit Nachtsicht  Bewegungsmelder aussen  Sirene und Licht Alarm  2 Way Audio  Smart Home Sicherheitskamera'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KLS61D4/?tag=tolees0ca-21'
 descuento: '30.00'
 average: '69.99'

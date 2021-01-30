@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Einhell Bohrhammer TC-RH 900  900 W  3 J  Bohrleistung in Beton 26 mm  SDS-Plus-Aufnahme  Metall-Tiefenanschlag  Koffer '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00IYEEY0Q/?tag=tolees0ca-21'
 descuento: '37.47'
 average: '49.99'

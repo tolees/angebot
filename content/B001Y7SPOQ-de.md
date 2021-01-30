@@ -16,6 +16,7 @@ comparePrice: 14.55 EUR
 prodname: 'Radio Rock Revolution  The Boat That Rocked '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001Y7SPOQ/?tag=tolees0ca-21'
 descuento: '51.96'
 average: '6.99'

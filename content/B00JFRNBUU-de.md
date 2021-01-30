@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Kitchen Craft Kuchenbox  Aufschrift "Cake"  kuppelförmig  aus der Living-Nostalgia-Produktreihe  Creme'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00JFRNBUU/?tag=tolees0ca-21'
 descuento: '19.28'
 average: '33.77'

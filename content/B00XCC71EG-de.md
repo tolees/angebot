@@ -16,6 +16,7 @@ comparePrice: 12.59 EUR
 prodname: 'Leibniz PiCK UP! Black´n White 24 x 28 g-knackige weiße Schokolade  knuspriger dunkler Keks-lecker für zwischendurch-Schokoriegel für die ganze Familie-einzeln verpackt-Großpackung-praktisch-Riegel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00XCC71EG/?tag=tolees0ca-21'
 descuento: '32.57'
 average: '7.773333333333333'

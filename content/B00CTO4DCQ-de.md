@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Inter Link 99200220 Regalbox Regalkorb Aufbewahrungsbox Schrankbox Box Würfel faltbar Regal rosa NEU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00CTO4DCQ/?tag=tolees0ca-21'
 descuento: '69.30'
 average: '3.96'

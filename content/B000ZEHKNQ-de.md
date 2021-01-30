@@ -16,6 +16,7 @@ comparePrice: 55.81 EUR
 prodname: 'Rothenberger 70228 Standhahnmutternschlüssel 235mm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000ZEHKNQ/?tag=tolees0ca-21'
 descuento: '42.93'
 average: '31.85'

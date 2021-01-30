@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Samsung Galaxy Watch Active2 Aluminium  40 mm  Bluetooth  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VMH6V1C/?tag=tolees0ca-21'
 descuento: '15.42'
 average: '269.155'

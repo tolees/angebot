@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Funko 36391 POP Vinyl: Lion King: Mufasa  Multi Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HB4VNVV/?tag=tolees0ca-21'
 descuento: '20.75'
 average: '11.02'

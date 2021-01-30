@@ -16,6 +16,7 @@ comparePrice: 63.75 EUR
 prodname: 'Milwaukee Akku  M18 B5  18 V/5.0 Ah Red Li-Ion'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00TPJMZ2I/?tag=tolees0ca-21'
 descuento: '40.41'
 average: '37.99'

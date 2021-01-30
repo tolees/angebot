@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'Dunlop Protective Footwear Purofort Thermo+ full safety Unisex-Erwachsene Gummistiefel  Grün 44/45 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00GWDLLHA/?tag=tolees0ca-21'
 descuento: '51.29'
 average: '68.15'

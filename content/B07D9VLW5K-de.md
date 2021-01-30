@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'HP 22y  21 5 Zoll Full HD LED  Monitor  DVI-D  VGA  1920 x 1080  60Hz  5ms Reaktionszeit  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07D9VLW5K/?tag=tolees0ca-21'
 descuento: '17.72'
 average: '65.0'

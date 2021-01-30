@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Fossil Herren Digital Smart Watch Armbanduhr mit Edelstahl Armband FTW4012'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FFMFNBP/?tag=tolees0ca-21'
 descuento: '50.17'
 average: '149.0'

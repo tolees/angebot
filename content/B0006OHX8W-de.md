@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'CALIDA Damen Midislip Lycraspitze Taillenslip  Schwarz  schwarz 992   38  Herstellergröße: XS = 36/38 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0006OHX8W/?tag=tolees0ca-21'
 descuento: '38.93'
 average: '9.74'

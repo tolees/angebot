@@ -16,6 +16,7 @@ comparePrice: 569.0 EUR
 prodname: 'Sony BDV-N5200W 5.1 3D-DVD/Blu-ray Heimkinosystem  Bluetooth  WLAN  Smart TV  NFC  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00IO31B8K/?tag=tolees0ca-21'
 descuento: '16.38'
 average: '475.82'

@@ -16,6 +16,7 @@ comparePrice: 134.51 EUR
 prodname: 'Joy For All  Zeitlose  innovative Haustier-Begleiter  Tuxedo-Katze  lebensecht realistisch  Orange'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NQGFHLP/?tag=tolees0ca-21'
 descuento: '17.40'
 average: '111.11'

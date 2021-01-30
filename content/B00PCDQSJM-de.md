@@ -16,6 +16,7 @@ comparePrice: 899.0 EUR
 prodname: 'Sony Alpha 6000 Systemkamera  24 Megapixel  7 6 cm  3 Zoll  LCD Display  Exmor APS-C Sensor  Full HD  High Speed Hybrid AF  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00PCDQSJM/?tag=tolees0ca-21'
 descuento: '61.51'
 average: '326.0'

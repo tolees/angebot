@@ -16,6 +16,7 @@ comparePrice: 23.3 EUR
 prodname: 'Bluetooth Kopfhörer  Ajcoflt Wireless Noise Cancelling Earbuds BT5.0 IPX4 Sport kopfhörer Stereo-Ohrhörer mit 280mAh Ladespeicherbox  Automatische Kopplung Touch Steuerung für Android/iOS'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08K8V6RX3/?tag=tolees0ca-21'
 descuento: '31.33'
 average: '16.0'

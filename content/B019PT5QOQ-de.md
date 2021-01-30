@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Mobicool V30  tragbare thermo-elektrische Kühlbox  29 Liter  12 V und 230 V für Auto  Lkw  Steckdose'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B019PT5QOQ/?tag=tolees0ca-21'
 descuento: '40.61'
 average: '64.375'

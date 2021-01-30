@@ -16,6 +16,7 @@ comparePrice: 58.99 EUR
 prodname: 'HMY Vidrio Transparente Florero decoración Vsaes mesa Decoración Florero adecuado para Mesa Auxiliar Baño Dormitorio Oficina Mesa De Centro Al Aire Libre Cocina Transparente  h  28x w  6cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B086QXKVGQ/?tag=tolees0ca-21'
 descuento: '23.73'
 average: '44.99'

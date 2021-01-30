@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'Mammut Herren Hardshell-jacke Albula Hooded  rot  S'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZL44PZY/?tag=tolees0ca-21'
 descuento: '38.52'
 average: '122.95'

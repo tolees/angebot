@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Philips Hue LED 2-er Buratto Spot inkl. Dimmschalter  dimmbar  alle Weißschattierungen  steuerbar via App  weiß  kompatibel mit Amazon Alexa  Echo  Echo Dot '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0767BT4PB/?tag=tolees0ca-21'
 descuento: '21.44'
 average: '109.985'

@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'VCM Waschmaschinenschrank Badschrank Hochschrank Badregal Überbau Schrank Jutas Weiß 190 x 64 Badmöbel Regal'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01DCQWCIG/?tag=tolees0ca-21'
 descuento: '37.43'
 average: '49.99'

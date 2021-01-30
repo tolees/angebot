@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'PLAYMOBIL 70150 Pirates Mitnehm-Pirateninsel  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JLS3ZV1/?tag=tolees0ca-21'
 descuento: '46.68'
 average: '18.9325'

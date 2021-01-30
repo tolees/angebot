@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'AEG IKB6430AXB Autarkes Kochfeld / Herdplatte mit Touchscreen  Topferkennung & Hob²Hood-Funktion / Induktionskochplatte / 4 Kochzonen / Edelstahlrahmen / 60 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HFLS1QX/?tag=tolees0ca-21'
 descuento: '23.41'
 average: '247.5'

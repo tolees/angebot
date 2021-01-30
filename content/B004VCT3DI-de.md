@@ -16,6 +16,7 @@ comparePrice: 8.0 EUR
 prodname: 'Sony MDR-E9LP In-Ear / In-Ohr Kopfhörer  1 2m Kabel  Neodym-Magnet  für MP3-Player  Walkman  iPod  weiß/blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004VCT3DI/?tag=tolees0ca-21'
 descuento: '50.12'
 average: '3.99'

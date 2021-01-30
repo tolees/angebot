@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Balter Turmventilator mit Fernbedienung ✓ Leise ✓ 120cm hoch ✓ 3 Geschwindigkeitsstufen ✓ Wind/Schlafmodi ✓ Timer ✓ 80° oszillierend ✓ Extra Stabil - 32cm Standfuß ✓ Farbe:Antrazit'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VWBYZZ8/?tag=tolees0ca-21'
 descuento: '30.01'
 average: '55.92'

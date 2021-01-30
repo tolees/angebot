@@ -16,6 +16,7 @@ comparePrice: 7.55 EUR
 prodname: 'SONAX 386400 ScheibenReiniger Konzentrat Green Lemon  3 Liter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HYSNGKC/?tag=tolees0ca-21'
 descuento: '21.99'
 average: '5.89'

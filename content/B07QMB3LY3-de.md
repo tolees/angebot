@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Dickie Toys 203715011 Police Chase  Polizeiauto  Spielzeugauto  Helikopter  Spielset  3er Set mit Licht & Sound  Mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QMB3LY3/?tag=tolees0ca-21'
 descuento: '50.95'
 average: '14.71'

@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Playmobil 9481 Spielzeug-Maricela'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079MV8VYH/?tag=tolees0ca-21'
 descuento: '49.87'
 average: '1.901111111111111'

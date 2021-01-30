@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'PAUL HEWITT Armbanduhr Edelstahl Sailor Line White Sand  Damen und Herren  - Uhr mit Edelstahlarmband  Silber   Silberne Armbanduhr  weißes Ziffernblatt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LYI79LB/?tag=tolees0ca-21'
 descuento: '34.34'
 average: '117.54'

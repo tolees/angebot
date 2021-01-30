@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Razer Huntsman Tournament Edition - TKL Mechanical Gaming Keyboard  Kompakte Tastatur mit schnellsten Linear Opto-Mechanischen Schaltern  PBT-Tastenkappen  RGB Chroma Beleuchtung  EU-Layout  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07V5VDXW1/?tag=tolees0ca-21'
 descuento: '20.61'
 average: '119.08'

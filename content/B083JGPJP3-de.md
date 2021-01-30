@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'IBTOM CASTLE Prinzessin Mädchen Anna Kostüm Eiskönigin Kleid für Kinder Schneekönigin Fasching Tüll Ballkleid Cosplay Party Karneval Halloween Verkleidung Party Outfit Gelb Frozen Anna 4-5 Jahre'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083JGPJP3/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '9.95'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Compo Bi 58 N gegen saugende und beißende Insekten an Zierpflanzen  Gemüse und Erdbeeren  Konzentrat  30 ml'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B081JZTJCG/?tag=tolees0ca-21'
 descuento: '37.34'
 average: '6.26'

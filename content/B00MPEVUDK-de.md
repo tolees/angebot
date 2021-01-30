@@ -16,6 +16,7 @@ comparePrice: 7.06 EUR
 prodname: 'Philips Disney Frozen  Die Eiskönigin  Olaf LED Taschenlampe  hellblau  717670816'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00MPEVUDK/?tag=tolees0ca-21'
 descuento: '26.77'
 average: '5.826666666666667'

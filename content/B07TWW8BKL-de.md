@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'YITHINC Überraschungsbox  Kreative Explosion Box DIY Geschenk Scrapbook und Foto-Album Geschenkbox als Geburtstagsgeschenk über die Liebe  Überraschung zum Öffnen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TWW8BKL/?tag=tolees0ca-21'
 descuento: '15.01'
 average: '12.015'

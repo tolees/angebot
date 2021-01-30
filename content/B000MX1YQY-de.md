@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Casio Collection Unisex-Armbanduhr DB 36 1AVEF'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000MX1YQY/?tag=tolees0ca-21'
 descuento: '55.48'
 average: '19.99'

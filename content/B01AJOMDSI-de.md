@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Linksys Max-Stream AC1900 MU-MIMO Dual-Band Wi-Fi Router für Zuhause  Schneller WLAN-Router  4K UHD- Streaming und Gaming  4 Gigabit-Ethernet-Anschlüsse '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01AJOMDSI/?tag=tolees0ca-21'
 descuento: '44.44'
 average: '100.0'

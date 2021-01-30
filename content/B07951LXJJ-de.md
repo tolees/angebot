@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Fire HD 8-Tablet  32 GB  Schwarz  ohne Spezialangebote'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07951LXJJ/?tag=tolees0ca-21'
 descuento: '29.17'
 average: '84.99'

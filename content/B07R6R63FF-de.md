@@ -16,6 +16,7 @@ comparePrice: 176.0 EUR
 prodname: 'WEB EYEWEAR Herren WE0261 Sonnenbrille  Schwarz  60 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07R6R63FF/?tag=tolees0ca-21'
 descuento: '48.30'
 average: '91.0'

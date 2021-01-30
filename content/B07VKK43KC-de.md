@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Aucma Küchenmaschine 1400W mit 6 2L Edelstahl-Rühlschüssel  Rührbesen  Knethaken  Schlagbesen und Spritzschutz  6 Geschwindigkeit Geräuschlos Teigmaschine  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VKK43KC/?tag=tolees0ca-21'
 descuento: '18.46'
 average: '105.99'

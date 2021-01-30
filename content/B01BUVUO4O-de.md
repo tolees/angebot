@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'London Has Fallen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BUVUO4O/?tag=tolees0ca-21'
 descuento: '16.69'
 average: '4.99'

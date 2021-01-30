@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Fisher-Price FPP53 - Lernspaß Hundefreundin Baby Spielzeug und Plüschtier  Lernspielzeug mit Liedern und Sätzen  mitwachsende Spielstufen  Spielzeug ab 6 Monaten  deutschsprachig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077HXFFQL/?tag=tolees0ca-21'
 descuento: '33.34'
 average: '19.99'

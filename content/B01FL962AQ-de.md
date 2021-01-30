@@ -16,6 +16,7 @@ comparePrice: 559.99 EUR
 prodname: 'Netgear WAC720B03-10000S Dual Band 802.11ac Wireless Access Point  3-er Pack '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01FL962AQ/?tag=tolees0ca-21'
 descuento: '42.14'
 average: '289.7'

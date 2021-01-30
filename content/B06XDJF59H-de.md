@@ -16,6 +16,7 @@ comparePrice: 250.0 EUR
 prodname: 'Bang & Olufsen Beoplay A1 Bluetooth-Lautsprecher  wetterfest  sandstone'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XDJF59H/?tag=tolees0ca-21'
 descuento: '41.32'
 average: '138.345'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Microsoft Pro IntelliMouse schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07T4Q1RH7/?tag=tolees0ca-21'
 descuento: '46.79'
 average: '32.46'

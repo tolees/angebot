@@ -16,6 +16,7 @@ comparePrice: 24.85 EUR
 prodname: 'GLÜCKSWOLKE Aufbewahrungsbox Kinder I Spielzeug Kiste mit Deckel und Griffen I Spielzeugbox  33x33x33  zur Aufbewahrung im Kallax Regal I Waldtiere Motiv Fuchs für Kinderzimmer  Willi Wildfuchs '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KYJCFD1/?tag=tolees0ca-21'
 descuento: '27.97'
 average: '17.9'

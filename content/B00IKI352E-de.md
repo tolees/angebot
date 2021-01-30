@@ -16,6 +16,7 @@ comparePrice: 136.85 EUR
 prodname: 'Bosch Professional 18V System Akku GBA 18V 5.0Ah'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00IKI352E/?tag=tolees0ca-21'
 descuento: '51.13'
 average: '66.88'

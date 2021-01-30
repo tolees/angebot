@@ -16,6 +16,7 @@ comparePrice: 269.0 EUR
 prodname: 'Seiko Herren Chronograph Quarz Uhr mit Edelstahl Armband SSB259P1'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074Z2ZJDG/?tag=tolees0ca-21'
 descuento: '44.62'
 average: '148.98'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Omars Powerbank 10000mAh Externer Akku Quick Charge 3.0 USB C PD Input/Output bis 9V/2A USB-A 18W Digital Display für iPhone X 8 Samsung Galaxy S8 S7 Handy Nintendo Switch Ladegerät Tragbar 10000'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CLPQ5TK/?tag=tolees0ca-21'
 descuento: '47.39'
 average: '9.99'

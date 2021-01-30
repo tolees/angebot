@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'DISNEY BADETUCH FROZEN DIE EISKÖNIGIN VÖLLIG UNVERFROREN STRANDTUCH 70 x 140 cm - TEAM 100% BAUMWOLLE STRANDLAKEN STRANDTUCH BADELAKEN HANDTUCH SAUNATUCH ANNA ELSA OLAF KRISTOFF SVEN ARENDELLE'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LW6JE5T/?tag=tolees0ca-21'
 descuento: '30.02'
 average: '13.99'

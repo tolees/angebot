@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Boltune Noise Cancelling Bluetooth Kopfhörer 5.0 Over-Ear Ohrhörer Wireless ANC Headphones mit CVC 6.0 Geräuschunterdrückendes Mikrofon 30 Std Spielzeit für iOS Android TV'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VNWZ2CW/?tag=tolees0ca-21'
 descuento: '40.01'
 average: '58.65666666666666'

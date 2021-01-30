@@ -16,6 +16,7 @@ comparePrice: 219.98 EUR
 prodname: 'DXX Acryl Schaukasten Vitrine  Schaukasten Acryl Vitrine Display Case für Lego Creator 10265 Ford Mustang 1960  Ohne Modell '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083K3G8SJ/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '109.99'

@@ -16,6 +16,7 @@ comparePrice: 71.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Eck Garage  Kompatibel Mit Lego 10264 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PQ7XSBP/?tag=tolees0ca-21'
 descuento: '34.73'
 average: '46.99'

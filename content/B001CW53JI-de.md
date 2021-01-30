@@ -16,6 +16,7 @@ comparePrice: 3.95 EUR
 prodname: 'Pagna Bewerbungsset Start Basic  5 Bewerbungsmappen  grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001CW53JI/?tag=tolees0ca-21'
 descuento: '27.09'
 average: '2.88'

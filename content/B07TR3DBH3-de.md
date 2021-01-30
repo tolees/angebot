@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks Damen Orinoco Strap Slingback Sandalen  Schwarz  Black Leather Black Leather   39 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TR3DBH3/?tag=tolees0ca-21'
 descuento: '31.36'
 average: '61.35'

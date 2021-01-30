@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Lavazza Kaffeebohnen - Crema E Aroma - 1er Pack  1 x 1 kg '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000FWHWGS/?tag=tolees0ca-21'
 descuento: '28.09'
 average: '10.125'

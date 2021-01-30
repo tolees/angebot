@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'LG Magic Remote-Fernbedienung AN-MR19BA Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QH3KFJJ/?tag=tolees0ca-21'
 descuento: '45.02'
 average: '32.44'

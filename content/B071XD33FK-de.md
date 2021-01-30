@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 22613 Actionfigur Games: Horizon Zero Dawn: Watcher  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071XD33FK/?tag=tolees0ca-21'
 descuento: '30.74'
 average: '9.072499999999998'

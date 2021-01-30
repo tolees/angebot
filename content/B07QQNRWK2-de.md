@@ -16,6 +16,7 @@ comparePrice: 105.99 EUR
 prodname: 'Reolink Überwachungskamera Argus Eco + Solarpanel  1080p WLAN IP Kamera Aussen mit Akku  SD Kartenslot  PIR Bewegungsmelder  IR Nachtsicht und 2-Wege-Audio  2019 Version'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QQNRWK2/?tag=tolees0ca-21'
 descuento: '25.00'
 average: '79.49'

@@ -16,6 +16,7 @@ comparePrice: 7.98 EUR
 prodname: 'Das Schweigen der Lämmer  + Krabat Sonder-Disc '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001E1DDSU/?tag=tolees0ca-21'
 descuento: '46.12'
 average: '4.3'

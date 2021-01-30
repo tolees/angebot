@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'LIGHTAILING Licht-Set Für  Schiff in der Flasche  Modell - LED Licht-Set Kompatibel Mit Lego 21313 Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KG1FSDL/?tag=tolees0ca-21'
 descuento: '62.51'
 average: '29.99'

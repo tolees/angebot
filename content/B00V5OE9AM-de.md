@@ -16,6 +16,7 @@ comparePrice: 399.99 EUR
 prodname: 'Complete Studio Album  Limited Coloured LP-Box  [Vinyl LP]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00V5OE9AM/?tag=tolees0ca-21'
 descuento: '24.70'
 average: '301.21'

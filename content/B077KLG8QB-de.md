@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Garmin Vivomove HR Sport Fitness-Tracker  Rosegold  M'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077KLG8QB/?tag=tolees0ca-21'
 descuento: '40.50'
 average: '125.66666666666667'

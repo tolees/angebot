@@ -16,6 +16,7 @@ comparePrice: 179.9 EUR
 prodname: 'Samsung Book Cover Keyboard  EF-DT860  für Galaxy Tab S6'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VMRZPSV/?tag=tolees0ca-21'
 descuento: '22.25'
 average: '139.87'

@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Bluetooth-Kopfhörer 5.0  kabellose Touch-Kopfhörer HiFi-Kopfhörer In-Ear-Kopfhörer Rauschunterdrückungskopfhörer  Tragbare Sport-Bluetooth-Funkkopfhörer  Für Apple Android/iPhone/AirPods Pro - Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B089XVT3WX/?tag=tolees0ca-21'
 descuento: '42.39'
 average: '33.99'

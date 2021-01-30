@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'MEDION Küchenmaschine mit Kochfunktion  1000 Watt Leistung  2 Liter Edelstahlschüssel  Koch und Mixaufsatz  Dampfgaraufsatz  Rezeptbuch  MD 16361'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MYYXTRE/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '199.99'

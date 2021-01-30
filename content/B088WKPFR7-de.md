@@ -16,6 +16,7 @@ comparePrice: 17.21 EUR
 prodname: 'VPCOK 25 Meter Gummiband rund  elastische Gummikordel  DIY Seil  Gummilitze Gummizug zum Nähen von DIY schmuck Kleidung Nähzubehör Handwerk  Schwarze  MEHRWEG '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B088WKPFR7/?tag=tolees0ca-21'
 descuento: '65.19'
 average: '6.99'

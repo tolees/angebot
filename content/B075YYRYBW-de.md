@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Gigaset E370 Schnurloses Telefon  für Senioren  mit großen Tasten und SOS-Funktion  einfache Bedienung  extra großes Farbdisplay  einfache Bedienung  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075YYRYBW/?tag=tolees0ca-21'
 descuento: '40.19'
 average: '29.9'

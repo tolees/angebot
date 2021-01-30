@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Tommy Hilfiger Herren Arlos Bomber Sportjacke  Blau  Blue Dw5   Small'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RKWSZJT/?tag=tolees0ca-21'
 descuento: '63.75'
 average: '83.02'

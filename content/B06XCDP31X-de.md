@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'camel active klein B00 Journey Umhängetasche  22 cm  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XCDP31X/?tag=tolees0ca-21'
 descuento: '38.87'
 average: '22.0'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'WENKO Vacuum-Loc Eckregal Bari 2 Etagen  Befestigen ohne bohren  Stahl  22.5 x 29.5 x 16 cm  chrom'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00KLFACQ6/?tag=tolees0ca-21'
 descuento: '40.82'
 average: '11.83'

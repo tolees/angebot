@@ -16,6 +16,7 @@ comparePrice: 1413.62 EUR
 prodname: 'ASUS ROG STRIX NVIDIA GeForce RTX 2080 Ti OC 11G Gaming Grafikkarte  PCIe 3.0  11GB DDR6 Speicher  HDMI  Displayport  USB Type-C '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HNMT91C/?tag=tolees0ca-21'
 descuento: '63.22'
 average: '959.995'

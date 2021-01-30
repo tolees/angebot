@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'TP-Link TL-SF1008D 8-Port Fast Ethernet-/Netzwerk-/Lan Switch  10/100Mbit/s  automatische Geschwindigkeits- und Duplexanpassung  Plug-und-Play  Auto-MDI/MDIX  lüfterlos  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0034CL3MA/?tag=tolees0ca-21'
 descuento: '34.34'
 average: '8.47'

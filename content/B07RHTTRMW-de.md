@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'Bose SoundLink Color Bluetooth speaker II - Yellow'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RHTTRMW/?tag=tolees0ca-21'
 descuento: '32.13'
 average: '94.99'

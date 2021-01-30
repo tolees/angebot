@@ -16,6 +16,7 @@ comparePrice: 33.0 EUR
 prodname: 'SET-ERGÄNZUNG Gigaset Fenstersensor – für große und kleine Fenster – Alarmsensor mit kostenfreier App – Smart Home Fenstersensor'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00EPLF8K2/?tag=tolees0ca-21'
 descuento: '42.06'
 average: '21.2125'

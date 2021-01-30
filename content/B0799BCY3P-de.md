@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'BISSELL 2380 CrossWave Hartboden-Bürstenrolle'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0799BCY3P/?tag=tolees0ca-21'
 descuento: '35.16'
 average: '9.72'

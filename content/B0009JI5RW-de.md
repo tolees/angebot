@@ -16,6 +16,7 @@ comparePrice: 41.95 EUR
 prodname: 'ZWILLING Schneiderschere  Stoffschere  Länge: 21 cm  Rostfreier Spezialstahl/Kunststoff  Superfection Classic'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0009JI5RW/?tag=tolees0ca-21'
 descuento: '46.84'
 average: '22.3'

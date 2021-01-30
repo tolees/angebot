@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego Stadthaus mit Zoohandlung and Café Kompatibel Mit Lego 31097 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XCGBVMT/?tag=tolees0ca-21'
 descuento: '33.34'
 average: '49.99'

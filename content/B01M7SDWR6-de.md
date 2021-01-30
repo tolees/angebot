@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Creative Outlier Sports - Kabellose   Schweissresistente In-Ear Kopfhörer  orange'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M7SDWR6/?tag=tolees0ca-21'
 descuento: '37.42'
 average: '43.69333333333333'

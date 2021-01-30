@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Tronsmart T6 Plus 40W Wireless Outdoor Bluetooth Lautsprecher 5.0 mit Tri-Bass-Effekten  Powerbank  360° TWS Stereo Sound  wasserdichtes IPX6  15-Stunden Spielzeit  Sprachassistent und Mikrofon'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SQ8HL73/?tag=tolees0ca-21'
 descuento: '26.67'
 average: '61.2025'

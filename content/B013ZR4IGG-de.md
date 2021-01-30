@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Philips Sonicare FlexCare Platinum Zahnbürste HX9111/20 - elektrische Schallzahnbürste mit Andruckkontrolle  3 Putzprogrammen  3 Intensitäten  Timer & Etui - schonend für Zähne & Zahnfleisch – Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B013ZR4IGG/?tag=tolees0ca-21'
 descuento: '29.41'
 average: '114.13166666666666'

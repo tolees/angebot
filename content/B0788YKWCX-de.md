@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'PORSCHE Carrera-Rennmotor: 4-Zylinder Boxermodell vom Typ 547 | Carrera Racing Engine | Ab 14 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0788YKWCX/?tag=tolees0ca-21'
 descuento: '31.46'
 average: '156.96'

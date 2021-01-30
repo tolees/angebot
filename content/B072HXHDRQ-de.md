@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'POP! Games: "FNAF SL" Funtime Freddy'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072HXHDRQ/?tag=tolees0ca-21'
 descuento: '70.12'
 average: '7.585'

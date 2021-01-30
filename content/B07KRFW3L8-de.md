@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Geschenke 24 Schlüsselanhänger Schönster Tag in Rot mit Wunschgravur – gravierter Schlüssel Anhänger im Kalender Design - mit Wunschtag  Monat und Jahr personalisiert'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KRFW3L8/?tag=tolees0ca-21'
 descuento: '32.01'
 average: '16.99'

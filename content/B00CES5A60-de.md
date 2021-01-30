@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Logitech C930e Business-Webcam  Full-HD 1080p  90° Blickfeld  4-fach Zoom  Autofokus  RightLight 2-Technologie  Abdeckblende  Für Skype Business  WebEx  Lync  Cisco  etc.  PC/Mac/ChromeOS - Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00CES5A60/?tag=tolees0ca-21'
 descuento: '43.82'
 average: '78.09'

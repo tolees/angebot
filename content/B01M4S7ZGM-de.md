@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: '1home Bildschirmständer Notebooktisch Notebookständer Laptopständer Computertisch 420mm Breit 2 Stufen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M4S7ZGM/?tag=tolees0ca-21'
 descuento: '16.67'
 average: '24.99'

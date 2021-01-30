@@ -16,6 +16,7 @@ comparePrice: 899.0 EUR
 prodname: 'Samsung Galaxy S10 Smartphone Bundle  15.5cm  6.1 Zoll  128 GB interner Speicher  8 GB RAM  Dual SIM  Android  prism blue  inkl. 36 Monate Herstellergarantie [Exklusiv bei Amazon] | Deutsche Version'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SFGW5S2/?tag=tolees0ca-21'
 descuento: '38.26'
 average: '555.0'

@@ -16,6 +16,7 @@ comparePrice: 19.87 EUR
 prodname: 'Live At Rockpalast'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XWQ8Z5G/?tag=tolees0ca-21'
 descuento: '29.99'
 average: '13.91'

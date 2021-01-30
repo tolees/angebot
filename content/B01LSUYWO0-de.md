@@ -16,6 +16,7 @@ comparePrice: 519.0 EUR
 prodname: 'Apple iPhone 7  32 GB  - Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LSUYWO0/?tag=tolees0ca-21'
 descuento: '27.75'
 average: '386.29333333333335'

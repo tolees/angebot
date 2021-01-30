@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'AVM FRITZ!Fon C5 DECT-Komforttelefon  hochwertiges Farbdisplay  HD-Telefonie  Internet-/Komfortdienste  Steuerung FRITZ!Box-Funktionen  schwarz  deutschsprachige Version'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BBWWFB2/?tag=tolees0ca-21'
 descuento: '30.39'
 average: '54.99'

@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 5100 No POP Vinylfigur: Supernatural: Crowley'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00ON4EZSM/?tag=tolees0ca-21'
 descuento: '42.82'
 average: '8.0'

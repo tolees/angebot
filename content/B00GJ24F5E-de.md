@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Boccia Damen-Armbanduhr XS Analog Quarz Titan 3296-02'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00GJ24F5E/?tag=tolees0ca-21'
 descuento: '17.86'
 average: '81.32'

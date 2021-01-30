@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 's.Oliver Mädchen 66.908.32.5702 T-Shirt  Beige  Ecru 0210   164  Herstellergröße: L/REG '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07STTDQBV/?tag=tolees0ca-21'
 descuento: '68.79'
 average: '4.99'

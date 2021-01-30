@@ -16,6 +16,7 @@ comparePrice: 19.04 EUR
 prodname: 'Dell KB216 580-ADHE Mutlimedia Tastatur schwarz  QWERTZ '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0114LNOS8/?tag=tolees0ca-21'
 descuento: '42.23'
 average: '11.0'

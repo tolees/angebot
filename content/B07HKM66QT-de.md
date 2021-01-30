@@ -16,6 +16,7 @@ comparePrice: 176.06 EUR
 prodname: 'Bosch TDS6530 Serie I 6 EasyComfort Dampfbügelstation  2.400 W  6 5 bar  mit 420 g Dampfstoß  iTemp Technologie  ECO-Modus'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HKM66QT/?tag=tolees0ca-21'
 descuento: '15.37'
 average: '149.0'

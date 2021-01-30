@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Fitbit Inspire und Inspire HR Print-Armbänder  Deko  Large'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07N87QZYR/?tag=tolees0ca-21'
 descuento: '41.10'
 average: '15.835'

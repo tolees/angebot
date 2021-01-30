@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Eddi Stachel Spiel für Kinder ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W2YTDSF/?tag=tolees0ca-21'
 descuento: '65.13'
 average: '10.0825'

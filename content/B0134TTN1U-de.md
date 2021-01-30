@@ -16,6 +16,7 @@ comparePrice: 4.29 EUR
 prodname: 'Creative Converting 315252 Birthday Plastic Tablecover Block Party Geburtstag Kunststoff Tischdecke  plastik  mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0134TTN1U/?tag=tolees0ca-21'
 descuento: '18.65'
 average: '3.49'

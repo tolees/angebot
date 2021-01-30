@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'POP Lord of The Rings Legolas'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFDV368/?tag=tolees0ca-21'
 descuento: '38.43'
 average: '13.42470588235294'

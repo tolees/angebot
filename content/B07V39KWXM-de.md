@@ -16,6 +16,7 @@ comparePrice: 1249.0 EUR
 prodname: 'Apple MacBook Air  13"  Neuestes Modell  8GB RAM  128GB Speicherplatz  1 6GHz Intel Core i5  - Space Grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07V39KWXM/?tag=tolees0ca-21'
 descuento: '20.02'
 average: '999.0'

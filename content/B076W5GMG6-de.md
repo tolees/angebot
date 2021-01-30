@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Pepe Jeans Damen Jeans Soho  Blau  D26   29W/30L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076W5GMG6/?tag=tolees0ca-21'
 descuento: '49.51'
 average: '49.99'

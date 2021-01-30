@@ -16,6 +16,7 @@ comparePrice: 49.98 EUR
 prodname: 'Under Armour Herren Performance Poloshirt  Grau carbon heather  S'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00D8QQY9O/?tag=tolees0ca-21'
 descuento: '69.15'
 average: '15.42'

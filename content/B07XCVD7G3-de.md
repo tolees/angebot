@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Bluetooth Smart Watch  PHIPUDS Health & Fitness Tracker Smartwatch Blutdruck-Aktivitätsuhr  Anrufe SMS Benachrichtigung Fernbedienung Kamera für iOS Android Handy'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XCVD7G3/?tag=tolees0ca-21'
 descuento: '55.56'
 average: '39.99'

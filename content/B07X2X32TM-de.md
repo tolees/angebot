@@ -16,6 +16,7 @@ comparePrice: 259.98 EUR
 prodname: 'Tablet 10 Zoll LNMBBS P30 Android 10.0 5G Wi-Fi Tablet Octa-Core  64GB ROM und 4GB RAM Tablet PC  Einer SIM-Steckplätzen und Wi-Fi  13MP und 5MP Kamera  1920 * 1200 HD IPS  GPS  Schwarz '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07X2X32TM/?tag=tolees0ca-21'
 descuento: '46.16'
 average: '139.98'

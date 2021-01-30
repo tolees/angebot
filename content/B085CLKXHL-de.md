@@ -16,6 +16,7 @@ comparePrice: 47.94 EUR
 prodname: 'PUMA Sportsocken Crew 18 Paar Pack Statement Edition - Damen und Herren - grey-white-black - Gr. 39-42'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B085CLKXHL/?tag=tolees0ca-21'
 descuento: '43.70'
 average: '26.99'

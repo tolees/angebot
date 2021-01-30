@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'HyperX HX-HSCAS-BL/WW Cloud Alpha S - Gaming Headset mit HyperX Virtual 7.1 surround sound und verstellbarem Bass'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07X6HDSDY/?tag=tolees0ca-21'
 descuento: '22.61'
 average: '89.0'

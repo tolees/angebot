@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance Herren 373 Core Sneaker  Schwarz  Black/White Ca2   43 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RYL66D4/?tag=tolees0ca-21'
 descuento: '20.65'
 average: '59.51833333333333'

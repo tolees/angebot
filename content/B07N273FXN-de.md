@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Razer BlackWidow Elite - Premium Mechanical Full-Size Gaming Keyboard  Tastatur mit Razer Orange Switches  Taktil & Leise   Handballenauflage  RGB Chroma Beleuchtung  DE-Layout'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07N273FXN/?tag=tolees0ca-21'
 descuento: '39.89'
 average: '108.2'

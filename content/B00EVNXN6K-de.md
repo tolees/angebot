@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'adidas Bauchtrainer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00EVNXN6K/?tag=tolees0ca-21'
 descuento: '29.65'
 average: '14.07'

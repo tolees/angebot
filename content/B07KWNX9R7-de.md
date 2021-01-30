@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'BRIKSMAX Technic Porsche 911 GT3 RS Led Beleuchtungsset - Kompatibel Mit Lego 42056 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KWNX9R7/?tag=tolees0ca-21'
 descuento: '38.47'
 average: '39.99'

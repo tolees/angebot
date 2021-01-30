@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Susan Y muttertagsgeschenke tennis armband frauen schmuck damen schmuckkästchen damen geschenke für frauen geschenk für mama personalisierte geschenke freundschaftsarmband frauen Aquamarin '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HRBXCD5/?tag=tolees0ca-21'
 descuento: '75.01'
 average: '24.99'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Retevis RT388 Walkie Talkies für Kinder PMR446 8 Kanäle Kinder Funkgeräte mit Wiederaufladbar Akkus VOX Taschenlampe Kinder Funkgerät Geschenk Spielzeug Spy-Gear für Kinder  1 Paar  Rosa '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0183DJCXG/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '23.99'

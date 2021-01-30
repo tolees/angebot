@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Leifheit Standtrockner Classic 250 Flex  individuell einstellbarer Wäschetrockner mit 25m Wäscheleine für 2-3 Waschmaschinenladungen  Wäscheständer für drinnen und draußen  für lange Wäsche'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00VQBEGCU/?tag=tolees0ca-21'
 descuento: '34.30'
 average: '22.99'

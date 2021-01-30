@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'SAMSONITE PRO-DLX 5 - Wheeled Business Case 15.6" Erweiterbar - 29.5/37L Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DLX8D8H/?tag=tolees0ca-21'
 descuento: '43.17'
 average: '169.92'

@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Te Tonic - 6 Gin Tonic Infusions Aroma Beuteln Botanicals Geschenk - Aromen Zum Verfeinern Ihres Gin. 100% Natürliche Gewürze  Kräuter  Blumen Machen Ihren Cocktail'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MFX33N3/?tag=tolees0ca-21'
 descuento: '30.15'
 average: '6.95'

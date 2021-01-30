@@ -16,6 +16,7 @@ comparePrice: 156.07 EUR
 prodname: 'Festina Herren Chronograph Quarz Uhr mit Leder Armband F20339/6'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0733WZDX2/?tag=tolees0ca-21'
 descuento: '23.75'
 average: '119.0'

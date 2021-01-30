@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'IWEMEK Mädchen Eiskönigin 2 Kostüm Frozen Prinzessin ELSA Anna Kleid Schneekönigin Cosplay Kostüme Weihnachten Karneval Party Verkleidung Halloween Festkleid Party Outfits 02 Blau 2tlg 3-4 Jahre'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B082D7FDNR/?tag=tolees0ca-21'
 descuento: '77.62'
 average: '8.95'

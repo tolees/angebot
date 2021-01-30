@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Nestlé KITKAT ChunKy Salted Caramel Fudge  Schokoriegel aus Milchschokolade und Fudge-Füllung mit Salznote & knuspriger Waffel  Multi-Pack  24er Pack  24 x 42g '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07H52W3TZ/?tag=tolees0ca-21'
 descuento: '44.50'
 average: '9.99'

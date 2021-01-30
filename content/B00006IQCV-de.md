@@ -16,6 +16,7 @@ comparePrice: 7.36 EUR
 prodname: 'BIC 811935 Marker mit abgeschrägter Spitze  gelb  abgeschrägte Spitze  gelb  grau  rund  12 Stück'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00006IQCV/?tag=tolees0ca-21'
 descuento: '28.26'
 average: '5.9975000000000005'

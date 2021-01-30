@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'Samsung Galaxy S7 Smartphone  12 92 cm  5 1 Zoll  Touch-Display  32GB interner Speicher  Android OS  pink'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01E1QUFBM/?tag=tolees0ca-21'
 descuento: '49.92'
 average: '289.495'

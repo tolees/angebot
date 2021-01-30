@@ -16,6 +16,7 @@ comparePrice: 399.95 EUR
 prodname: 'Park Tool Montageständer PRS-25 Team Issue  4000277'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0036UNK0I/?tag=tolees0ca-21'
 descuento: '27.50'
 average: '289.95'

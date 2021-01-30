@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 29501 Actionfigur Harry Potter-Ron Herbology  Mehrfarbig  Einheitsgröße'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079YC41DM/?tag=tolees0ca-21'
 descuento: '51.47'
 average: '7.632380952380951'

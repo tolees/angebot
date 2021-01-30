@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Adidas Adilette Shower  Herren Dusch- & Badeschuhe  Weiß  Footwear White/Core Black/Footwear White 0   40 1/2 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06X16JXJ9/?tag=tolees0ca-21'
 descuento: '18.28'
 average: '20.395'

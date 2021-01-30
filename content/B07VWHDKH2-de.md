@@ -16,6 +16,7 @@ comparePrice: 6.79 EUR
 prodname: 'SEEYA Hülle für Samsung Galaxy A40 Silikon  Weich TPU Gummi Case Ultra Dünn Handyhülle 3D Anime Muster Niedlich Druck Design Silikonhülle Schutzhülle für Samsung A40 Panda Familie'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VWHDKH2/?tag=tolees0ca-21'
 descuento: '55.96'
 average: '2.99'

@@ -16,6 +16,7 @@ comparePrice: 34.63 EUR
 prodname: 'WOLF-Garten Unkrautvernichter plus Rasendünger SQ 250  mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00S1KLFTG/?tag=tolees0ca-21'
 descuento: '19.17'
 average: '27.99'

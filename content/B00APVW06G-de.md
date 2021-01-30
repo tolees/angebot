@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Django Unchained [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00APVW06G/?tag=tolees0ca-21'
 descuento: '59.89'
 average: '4.776'

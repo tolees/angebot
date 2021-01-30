@@ -16,6 +16,7 @@ comparePrice: 94.99 EUR
 prodname: 'Carrera GO!!! PLUS DTM Speed Record 20066009 Autorennbahn Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PT7L28Y/?tag=tolees0ca-21'
 descuento: '23.16'
 average: '72.99'

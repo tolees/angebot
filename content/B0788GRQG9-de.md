@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Unold 48165 PANCAKE-MAKER American  Kunststoff  Schwarz/edelstahl Gebürstet'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0788GRQG9/?tag=tolees0ca-21'
 descuento: '49.98'
 average: '15.0'

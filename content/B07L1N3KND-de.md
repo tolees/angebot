@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'LIGHTAILING Licht-Set Für  VW Käfer  Modell - LED Licht-Set Kompatibel Mit Lego 10252 Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07L1N3KND/?tag=tolees0ca-21'
 descuento: '56.26'
 average: '34.24'

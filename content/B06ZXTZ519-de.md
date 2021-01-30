@@ -16,6 +16,7 @@ comparePrice: 14.49 EUR
 prodname: 'Hama Outdoor Steckdosenleiste mit Schalter  2-fach  2m  spritzwassergeschützt nach IP44  mit Klappdeckel  zur Wandmontage geeignet  Außenbereich Mehrfachsteckdose schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06ZXTZ519/?tag=tolees0ca-21'
 descuento: '55.21'
 average: '6.49'

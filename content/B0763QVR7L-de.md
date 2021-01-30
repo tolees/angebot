@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'MSI TORX FAN 12CM'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0763QVR7L/?tag=tolees0ca-21'
 descuento: '26.09'
 average: '17.0'

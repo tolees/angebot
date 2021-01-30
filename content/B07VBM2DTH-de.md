@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Alex Perry Muttertagsgeschenk kette damen geschenke für frauen schmuck damen frauen geschenk für mama oma halsketten für frauen partner lustige personalisierte geschenke jahrestag Antibakterielle'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VBM2DTH/?tag=tolees0ca-21'
 descuento: '75.01'
 average: '24.99'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Pepe Jeans Herren Hatch Slim Jeans   Dark Used Powerflex Denim 000   W29/L32'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MZPNV3D/?tag=tolees0ca-21'
 descuento: '49.60'
 average: '49.9'

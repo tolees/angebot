@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'CSL - USB Bluetooth Adapter V4.0 - A2DP - Windows 10 kompatibel - Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XTGTQFW/?tag=tolees0ca-21'
 descuento: '40.04'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'Josamogre Astronauten Kostüm Erwachsene Herren Kostüm Astronaut Weltraum Raumfahrer Halloween Cosplay Blau l'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TZ45MNH/?tag=tolees0ca-21'
 descuento: '68.42'
 average: '17.68'

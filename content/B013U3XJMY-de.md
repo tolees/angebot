@@ -16,6 +16,7 @@ comparePrice: 94.36 EUR
 prodname: 'Berydale Damen Parka Jacke wasser- und winddicht  Gr. 36  Herstellergröße: S   Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B013U3XJMY/?tag=tolees0ca-21'
 descuento: '19.47'
 average: '75.99'

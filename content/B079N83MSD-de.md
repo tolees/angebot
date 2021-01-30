@@ -16,6 +16,7 @@ comparePrice: 2.49 EUR
 prodname: 'Hansaplast Frozen Pflaster  1 x 20 Stück '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079N83MSD/?tag=tolees0ca-21'
 descuento: '49.80'
 average: '1.25'

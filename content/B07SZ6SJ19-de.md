@@ -16,6 +16,7 @@ comparePrice: 68.99 EUR
 prodname: 'kindergeburtstag gastgeschenke 20 LED Fingerlampe Mitbringsel Fingerring Leuchtringe Fingerlichter Ring für Finger Mitgebsel Gastgeschenke Kindergeburtstag Geburtstag Kinder Giveaways Jungen Mädchen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SZ6SJ19/?tag=tolees0ca-21'
 descuento: '76.82'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Pop Fantastic Four Mister Fantastic Vinyl Figure'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TS8P2J1/?tag=tolees0ca-21'
 descuento: '26.50'
 average: '8.82'

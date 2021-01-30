@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'HyperX Fury HX432C16FB3AK2/32 Arbeitsspeicher DIMM DDR4   Kit 2x16GB  32GB 3200MHz CL16  RGB'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WHF6X3X/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '119.9'

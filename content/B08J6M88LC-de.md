@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Bluetooth-Kopfhörer 5.0 Kabellose Kopfhörer IPX7 wasserdichte Noise-Cancelling-Kopfhörer Geräuschisolierung mit 24H Ladekästchen，für Android/iPhone/für Samsung/für Apple AirPods Pro'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08J6M88LC/?tag=tolees0ca-21'
 descuento: '23.54'
 average: '29.990000000000002'

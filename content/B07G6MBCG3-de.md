@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Ultimate Ears Boom 3 Tragbarer Bluetooth-Lautsprecher  360° Sound  Satter Bass  Wasserdicht  Staubresistent & Sturzfest  One-Touch-Musiksteuerung  15-Stunden Akkulaufzeit - Night Black/schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G6MBCG3/?tag=tolees0ca-21'
 descuento: '47.09'
 average: '82.27666666666667'

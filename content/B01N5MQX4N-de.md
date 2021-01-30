@@ -16,6 +16,7 @@ comparePrice: 199.9 EUR
 prodname: 'Sony MDR-XB950N1 kabelloser Kopfhörer mit Geräuschminimierung  Noise Cancelling  Extrabass  NFC  Bluetooth  faltbar   schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N5MQX4N/?tag=tolees0ca-21'
 descuento: '50.98'
 average: '93.5'

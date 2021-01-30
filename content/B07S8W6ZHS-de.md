@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'GODNECE LED Licht-Set für Baustein  Led Beleuchtungsset Licht-Set für Baustein Spielzeug Kompatibel Mit Lego Star Wars 75095 - Tie Fighter Bausatz Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07S8W6ZHS/?tag=tolees0ca-21'
 descuento: '50.01'
 average: '22.99'

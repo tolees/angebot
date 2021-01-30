@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'AEG AEF144 Austauschfilter für Rapido & Ergorapido CX7-1  Doppelpack  2 Innenfilter  optimale Saugleistung und Filtration  regelmäßiger Filtertausch  einfache Reinigung und Austausch  schwarz/weiß '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00F5YAFC4/?tag=tolees0ca-21'
 descuento: '19.95'
 average: '12.0'

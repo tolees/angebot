@@ -16,6 +16,7 @@ comparePrice: 47.38 EUR
 prodname: 'K9CK LED Licht Set für Lego Modell - DIY Leuchtende Bausteine Beleuchtung Kit für Lego Technic Land Rover Defender 42110 - Nur LED enthalten'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B081VK75BK/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '23.69'

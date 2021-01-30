@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Bosch Hochdruckreiniger UniversalAquatak 125  2 x Düse  transparenter Wasserfilter  Hochdruckpistole  5 m Schlauch  5 m Kabel  Karton  1500 Watt  Druck: 125 bar  max. Fördermenge: 360 l/h '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XQJMZFK/?tag=tolees0ca-21'
 descuento: '56.25'
 average: '89.7425'

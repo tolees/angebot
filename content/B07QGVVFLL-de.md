@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Küchenarmatur  Dalmo Wasserhahn Küche  Einhand-Spültischbatterie mit herausziehbarer Spülbrause chrom  Schwenkbereich 360° & Drei Spülbrause  100% Blei- und Nickelfrei Küchen- Spültischarmatur '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QGVVFLL/?tag=tolees0ca-21'
 descuento: '44.45'
 average: '49.99'

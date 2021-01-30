@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Knauf Gartenbau Perlite Perligran 2-6 mm 100 L • zur Erden- und Substratverbesserung • für optimale Luft- und Wasserführung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MYN5TQ8/?tag=tolees0ca-21'
 descuento: '19.60'
 average: '20.02'

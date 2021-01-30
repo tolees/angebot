@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'caseable Kindle und Kindle Paperwhite Hülle  Pass this on'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00PHEAV80/?tag=tolees0ca-21'
 descuento: '37.51'
 average: '24.99'

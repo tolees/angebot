@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'Mammut Herren Hardshell-jacke Mit Kapuze Trovat  blau  S'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZL3RSMQ/?tag=tolees0ca-21'
 descuento: '55.41'
 average: '89.18'

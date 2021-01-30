@@ -16,6 +16,7 @@ comparePrice: 277.0 EUR
 prodname: 'Kyocera Klimaschutz-System Ecosys FS-1325MFP 4-in-1 Laser-Multifunktionsdrucker  Duplex Drucker  SW-Drucker  Kopierer  Scanner  Fax '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00AQBXMF8/?tag=tolees0ca-21'
 descuento: '28.54'
 average: '197.95'

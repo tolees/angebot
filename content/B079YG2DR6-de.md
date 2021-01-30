@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 26974 Pop! Star Wars: Han Solo Bobble Figure'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079YG2DR6/?tag=tolees0ca-21'
 descuento: '51.47'
 average: '7.094999999999999'

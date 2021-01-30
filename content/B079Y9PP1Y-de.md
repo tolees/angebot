@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 30682 Actionfigur Marvel Spider-Man-Mary Jane mit Plush  Multi  Einheitsgröße'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079Y9PP1Y/?tag=tolees0ca-21'
 descuento: '42.82'
 average: '8.0'

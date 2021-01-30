@@ -16,6 +16,7 @@ comparePrice: 9.87 EUR
 prodname: 'Alien 40th - Xenomorph Pop! Keychain Funko Pocket Pop! Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NSSCR7X/?tag=tolees0ca-21'
 descuento: '59.47'
 average: '6.61'

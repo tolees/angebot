@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Bluetooth Lautsprecher  VOTOMY Bluetooth Kabelloser Lautsprecher  30W Bluetooth 5.0 Speaker mit Dualen Bass-Treibern und DSP  IP67 Wasserschutz  TWS-Paarung für Hause  Freien und Reisen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B088CRVF93/?tag=tolees0ca-21'
 descuento: '15.00'
 average: '74.84571428571427'

@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'TechniSat Z-Wave Innenkamera 1  Smart Home Kamera  Überwachungskamera Innen  Sicherheitskamera  Nachtsichtfunktion  Smarthome Hausautomation '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01IM9WAGM/?tag=tolees0ca-21'
 descuento: '50.29'
 average: '54.18'

@@ -16,6 +16,7 @@ comparePrice: 2.49 EUR
 prodname: 'Buss Kartoffel-Eintopf mit Rauchspeck und Cocktailwürstchen  800 g'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MQEE49C/?tag=tolees0ca-21'
 descuento: '21.69'
 average: '1.95'

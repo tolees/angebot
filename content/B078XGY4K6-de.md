@@ -16,6 +16,7 @@ comparePrice: 20.29 EUR
 prodname: 'Christa Ludwig-Complete Recitals'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078XGY4K6/?tag=tolees0ca-21'
 descuento: '29.97'
 average: '14.21'

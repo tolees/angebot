@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Remington Elektrischer Rasierer Herren R9  +Bart-Stylingsaufsatz  LED Minuten-Display  Turbo   Nass- & Trocken-Rasierapparat  Lithium  Präzisionstrimmer  Aufbewahrungstasche  XR1570 Rotationsrasierer '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G6HKH2S/?tag=tolees0ca-21'
 descuento: '56.25'
 average: '56.653333333333336'

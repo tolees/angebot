@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'LincPlus P1 Laptop 13 3 Zoll Full HD Ultrabook  Intel Celeron N4000 4GB RAM 64GB eMMC aufrüstbar mit bis zu 512GB SSD lüfterlos kompakter Aluminium Notebook mit QWERTZ Tastaturlayout  Windows 10 S'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07H96DZVB/?tag=tolees0ca-21'
 descuento: '20.06'
 average: '279.0'

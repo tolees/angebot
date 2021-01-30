@@ -16,6 +16,7 @@ comparePrice: 16.26 EUR
 prodname: 'Stihl Original 36700000064 Kette 30 cm Klinge 1/4  64 Glieder MSA 160 ms'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00D79H6QM/?tag=tolees0ca-21'
 descuento: '22.20'
 average: '12.65'

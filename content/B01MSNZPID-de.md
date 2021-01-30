@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'ASICS Damen Noosa FF Turnschuhe  Schwarz  Black/Bay/Viridian Green   40.5 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MSNZPID/?tag=tolees0ca-21'
 descuento: '70.00'
 average: '45.0'

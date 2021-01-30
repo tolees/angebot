@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Krups HZ656815 Steffen Henssler Special Edition Stabmixer  1000 Watt  Geschwindigkeitseinstellungen: 20  inkl.: Messbecher  Schneebesen  Zerkleinerer  schwarz/silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PFXLP8G/?tag=tolees0ca-21'
 descuento: '34.93'
 average: '71.57'

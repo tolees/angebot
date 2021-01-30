@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Napapijri Herren Aric Jacke  Schwarz  Black 041    Herstellergröße:S '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MMLP1T7/?tag=tolees0ca-21'
 descuento: '79.32'
 average: '72.16'

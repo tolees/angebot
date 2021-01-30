@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'UTTORA Draussen Forscherset Spielzeug  Kinder fernglas 22 Stück Kids Adventurer Explorer Set mit Bug Catcher Pinzette Insect Viewer Kompass Lupe & Schmetterlingsnetz für Camping Fernrohre Mikroskope'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VS6HX4G/?tag=tolees0ca-21'
 descuento: '35.14'
 average: '23.99'

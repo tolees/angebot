@@ -16,6 +16,7 @@ comparePrice: 12.46 EUR
 prodname: 'The Complete Legendary 1938 Carnegie Hall Concert'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00CSQMBX8/?tag=tolees0ca-21'
 descuento: '19.66'
 average: '10.01'

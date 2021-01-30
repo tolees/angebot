@@ -16,6 +16,7 @@ comparePrice: 211.92 EUR
 prodname: 'UGG Damen W Bailey Bow II Schlupfstiefel  Schwarz  Nero   40 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01AIIOARC/?tag=tolees0ca-21'
 descuento: '45.74'
 average: '114.98'

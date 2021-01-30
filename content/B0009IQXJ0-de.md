@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Meguiar s G7516EU Endurance High Gloss Tyre Gel Reifenglanz  473 ml'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0009IQXJ0/?tag=tolees0ca-21'
 descuento: '36.33'
 average: '10.76'

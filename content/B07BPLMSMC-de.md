@@ -16,6 +16,7 @@ comparePrice: 28.57 EUR
 prodname: 'Jura 10 Years Old Single Malt Scotch Whisky mit Geschenkverpackung  1 x 0.7 l '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BPLMSMC/?tag=tolees0ca-21'
 descuento: '16.10'
 average: '23.97'

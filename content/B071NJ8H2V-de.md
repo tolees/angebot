@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Tommy Hilfiger Poppy Small Tote  Damen Stofftasche  Black  13x20.5x25.5 cm  W x H L '
 country: 'de'
 flag: '🇩🇪'
+brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.de/dp/B071NJ8H2V/?tag=tolees0ca-21'
 descuento: '29.00'
 average: '52.0350602409638'

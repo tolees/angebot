@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Fascinations Metal Earth ICX019 - 502830  London Eye  Konstruktionsspielzeug  2 Metallplatinen  ab 14 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00R8EUQVE/?tag=tolees0ca-21'
 descuento: '16.71'
 average: '16.65'

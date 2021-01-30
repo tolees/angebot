@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Ravensburger 24990" Entdecke die Welt Lernspiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077Y5JC6Y/?tag=tolees0ca-21'
 descuento: '40.74'
 average: '8.29'

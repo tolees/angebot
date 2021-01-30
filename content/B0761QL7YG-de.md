@@ -16,6 +16,7 @@ comparePrice: 799.0 EUR
 prodname: 'Acer P5530 DLP Projektor  Full HD 1.920 x 1.080  4.000 ANSI Lumen  Kontrast 20.000:1  3D '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0761QL7YG/?tag=tolees0ca-21'
 descuento: '56.20'
 average: '350.0'

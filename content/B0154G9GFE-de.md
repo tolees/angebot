@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Philips AZ215S CD-Soundmachine  Digital UKW  Audioeingang  3 Watt  leicht bedienbar  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0154G9GFE/?tag=tolees0ca-21'
 descuento: '48.05'
 average: '25.97'

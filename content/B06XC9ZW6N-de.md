@@ -16,6 +16,7 @@ comparePrice: 649.0 EUR
 prodname: 'Olympus OM-D E-M10 Mark III Micro Four Thirds Systemkamera  16 Megapixel  Bildstabilisator  elektronischer Sucher  4K-Video  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XC9ZW6N/?tag=tolees0ca-21'
 descuento: '23.11'
 average: '499.0'

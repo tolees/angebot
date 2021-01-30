@@ -16,6 +16,7 @@ comparePrice: 449.99 EUR
 prodname: 'Linksys Max-Stream AC5400 MU-MIMO Dual-Band Wi-Fi Router für Zuhause  Schneller WLAN-Router  4K UHD- Streaming und Gaming  4 Gigabit-Ethernet-Anschlüsse '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B017RYXNF0/?tag=tolees0ca-21'
 descuento: '52.22'
 average: '237.1021428571429'

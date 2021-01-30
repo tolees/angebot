@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'INSTAR IN-6001HD schwarz - WLAN Überwachungskamera - IP Kamera - Innenkamera – Mikrofon – Lautsprecher - Bewegungserkennung - Nachtsicht - Weitwinkel - LAN - RTSP - ONVIF'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00PTZJQZQ/?tag=tolees0ca-21'
 descuento: '34.16'
 average: '79.0'

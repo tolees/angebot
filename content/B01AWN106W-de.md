@@ -16,6 +16,7 @@ comparePrice: 68.99 EUR
 prodname: 'Kitchen Craft LOVELLO Brotkasten  42 x 22 x 18 cm – Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01AWN106W/?tag=tolees0ca-21'
 descuento: '23.42'
 average: '52.83'

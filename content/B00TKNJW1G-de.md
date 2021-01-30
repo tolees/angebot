@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Sylvanian Families 2243 - Gartenbank mit Springbrunnen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00TKNJW1G/?tag=tolees0ca-21'
 descuento: '30.93'
 average: '6.9'

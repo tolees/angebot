@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Belkin Dual KfZ-Ladegerät  2.1A  10 Watt  geeignet für iPhone 5/5c/5s  iPhone 6/6s/6 Plus/6s Plus  iPhone 7/7 Plus  iPhone SE  iPad Air 2  iPad Pro  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00B1HVI4I/?tag=tolees0ca-21'
 descuento: '20.27'
 average: '23.91'

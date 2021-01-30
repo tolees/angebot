@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Schiesser Herren Bademantel Kapuze 128546-815  Blau  815-navy   Gr. 52  L '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B006JZ8FU2/?tag=tolees0ca-21'
 descuento: '25.15'
 average: '74.81'

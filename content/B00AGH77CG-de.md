@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Dometic DEFA A430061 Termini 2100 Innenraumheizung  2100 Watt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00AGH77CG/?tag=tolees0ca-21'
 descuento: '40.57'
 average: '94.5'

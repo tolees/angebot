@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Paco Home Kinder Teppich Karo Design Multicolour Grün Rot Grau Schwarz Creme Pink  Grösse:120x170 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00CZVB3PI/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '39.2'

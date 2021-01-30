@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Funko 44515 POP TV: Umbrella Academy-Ben Hargreeves Collectible Figure  Multicolour'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SPFJ7NB/?tag=tolees0ca-21'
 descuento: '50.62'
 average: '9.23375'

@@ -16,6 +16,7 @@ comparePrice: 999.0 EUR
 prodname: 'HP Pavilion Gaming TG01-0017ng Desktop  Intel Core i7-9700F  16GB DDR4 RAM  512GB SSD  Nvidia GeForce GTX 1650 4GB GDDR5   Windows 10 Home  schwarz/grün'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XPHQ8W7/?tag=tolees0ca-21'
 descuento: '59.96'
 average: '400.0'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'VTech 80-139304 - Smart Kid s Phone'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00GKWOYWW/?tag=tolees0ca-21'
 descuento: '36.43'
 average: '10.8'

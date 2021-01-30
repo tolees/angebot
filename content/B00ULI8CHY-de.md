@@ -16,6 +16,7 @@ comparePrice: 259.0 EUR
 prodname: 'Samsonite Neopulse - Spinner S  Breite: 20 cm  Handgepäck  55 cm  38 L  rot  Metallic Red '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00ULI8CHY/?tag=tolees0ca-21'
 descuento: '40.00'
 average: '155.4'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'PUMA Unisex-Erwachsene Smash v2 L Sneaker  White White Black  44 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077MG6DDP/?tag=tolees0ca-21'
 descuento: '38.07'
 average: '30.61529411764706'

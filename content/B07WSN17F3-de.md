@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Gehörschutz mit DAB + / FM-Radio und Bluetooth  Rauschunterdrückungs-Headsets mit Lithium-Akku und eingebautem Mikrofon für Werkstatt  Garten  Mähen  Sägen  Bauwesen  Traktorfahren  SNR 30 dB'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WSN17F3/?tag=tolees0ca-21'
 descuento: '35.35'
 average: '102.8'

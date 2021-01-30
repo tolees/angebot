@@ -16,6 +16,7 @@ comparePrice: 35.9 EUR
 prodname: 'D-Link DGS-1100-08 8-Port Layer2 Gigabit Switch EasySmart  10/100/1000 Mbit/s  lüfterlos  Metallgehäuse '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00C8JWWBQ/?tag=tolees0ca-21'
 descuento: '24.23'
 average: '27.2'

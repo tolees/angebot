@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Ruigor ICON 87 – großer multifunktionaler Rucksack Tagesrucksack 30l Wasserdichter Laptop Tasche 15 Zoll schwarzer Sportrucksack für Damen und Herren RG6187'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01HT7NFOO/?tag=tolees0ca-21'
 descuento: '16.61'
 average: '49.99'

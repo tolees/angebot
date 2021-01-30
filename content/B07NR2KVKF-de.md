@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Dickie Toys 201119141 RC Nitro League  RTR 201119141-RC  Ferngesteuertes Fahrzeug mit Turbofunktion  1:10  46 cm  15 km/h  gelb/orange/rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NR2KVKF/?tag=tolees0ca-21'
 descuento: '61.68'
 average: '22.47'

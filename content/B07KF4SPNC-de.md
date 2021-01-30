@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s Damen 2PACK Tee T-Shirt  Mehrfarbig  2 Pack White +/Smokestack Htr 0005   Large'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KF4SPNC/?tag=tolees0ca-21'
 descuento: '17.43'
 average: '28.9'

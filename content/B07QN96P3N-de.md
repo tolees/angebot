@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Amzchef Zerkleinerer Elektrisch Universalzerkleinerer mit Starker Motor  1.8L Edelstahlschüssel  2 Geschwindigkeitsstufen Bremsfunktion 300W Multizerkleinerer für Fleisch  Obst  Gemüse und Babynahrung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QN96P3N/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '31.99'

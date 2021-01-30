@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Huawei Wireless Charger Supercharge mit Adapter CP60  Kabellose Ladestation passend für Mate 20 Pro'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JD35YS6/?tag=tolees0ca-21'
 descuento: '42.22'
 average: '34.66'

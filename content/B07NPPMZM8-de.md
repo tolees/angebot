@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Nene Toys - Pädagogisches Kinderspiel ab 3 Jahre - Wackelturm 4 in 1 aus Holz mit Farben und Tieren - Spielzeug für Mädchen und Jungs von 3 bis 9 Jahren - Stapelturm Holz Brettspiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NPPMZM8/?tag=tolees0ca-21'
 descuento: '31.46'
 average: '23.704285714285714'

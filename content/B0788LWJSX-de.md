@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Predator Cestus 500 Gaming Maus  Dual Omron Switches  70 Mio. Klicks  7.200 DPI Bewegungsauflösung  8 Tasten  ergonomisches Design  einstellbarer Druckpunkt  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0788LWJSX/?tag=tolees0ca-21'
 descuento: '30.39'
 average: '54.99'

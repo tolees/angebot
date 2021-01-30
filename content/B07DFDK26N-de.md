@@ -16,6 +16,7 @@ comparePrice: 10.49 EUR
 prodname: 'Funko 33881 The Simpsons: Abe POP Vinylfigur  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFDK26N/?tag=tolees0ca-21'
 descuento: '20.02'
 average: '8.39'

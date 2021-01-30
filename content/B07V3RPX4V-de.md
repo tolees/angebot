@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Damen Honey Mini Crossover Umhängetasche  Schwarz  Black   1x1x1 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07V3RPX4V/?tag=tolees0ca-21'
 descuento: '49.96'
 average: '49.99'

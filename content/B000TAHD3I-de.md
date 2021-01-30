@@ -16,6 +16,7 @@ comparePrice: 15.94 EUR
 prodname: 'Flipper'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000TAHD3I/?tag=tolees0ca-21'
 descuento: '25.41'
 average: '11.89'

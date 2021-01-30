@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'GoPro Surf HERO Expansion Kit Kamerabefestigung  geeignet für HD HERO2/HERO3/HERO3+ '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007K3TK4W/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '23.99'

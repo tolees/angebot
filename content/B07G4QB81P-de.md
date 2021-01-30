@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Samsung EE-D3100T Charging Dock Pogo Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G4QB81P/?tag=tolees0ca-21'
 descuento: '53.66'
 average: '27.76'

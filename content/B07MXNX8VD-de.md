@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'DELSEY PARIS COMETE Koffer  67 cm  64.1 liters  Grau  Gris Argent '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MXNX8VD/?tag=tolees0ca-21'
 descuento: '48.41'
 average: '66.55'

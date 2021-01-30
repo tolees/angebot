@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Paw Patrol 6022632 Lookout Hauptquartier Spielset mit Chase  Multicolour'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00JLDGLB4/?tag=tolees0ca-21'
 descuento: '36.02'
 average: '38.38'

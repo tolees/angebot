@@ -16,6 +16,7 @@ comparePrice: 10.74 EUR
 prodname: 'Funko 40101 POP Vinyl: Disney: Little Mermaid-Ariel  Purple Dress  Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MZNS328/?tag=tolees0ca-21'
 descuento: '16.29'
 average: '9.292000000000002'

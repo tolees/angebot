@@ -16,6 +16,7 @@ comparePrice: 849.0 EUR
 prodname: 'Samsung RU7179 147 cm  58 Zoll  LED Fernseher  Ultra HD  HDR  Triple Tuner  Smart TV  [Modelljahr 2019]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PMDF69G/?tag=tolees0ca-21'
 descuento: '24.87'
 average: '581.778'

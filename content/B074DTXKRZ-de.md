@@ -16,6 +16,7 @@ comparePrice: 14.97 EUR
 prodname: 'Paulis Kitchen Pfannenwender Silikon/Edelstahl  spülmaschinengeeignet  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074DTXKRZ/?tag=tolees0ca-21'
 descuento: '20.04'
 average: '11.97'

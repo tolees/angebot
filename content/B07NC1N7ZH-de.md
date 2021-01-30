@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'camel active Herren Houston 488415/2513 Hose  Beige  Beige 23   W31/L34 Herstellergröße: 31/34 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NC1N7ZH/?tag=tolees0ca-21'
 descuento: '52.15'
 average: '43.04'

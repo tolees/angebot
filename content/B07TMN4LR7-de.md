@@ -16,6 +16,7 @@ comparePrice: 107.0 EUR
 prodname: 'SanDisk Extreme PRO Portable SSD externe Festplatte 500GB   bis zu 1050 MB/Sek.  USB-C  robust und wasserbeständig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TMN4LR7/?tag=tolees0ca-21'
 descuento: '18.70'
 average: '94.58999999999999'

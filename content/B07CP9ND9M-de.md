@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'Panasonic TX-43FSW504 43 Zoll/108 cm Smart TV  TV LED Backlight  Full HD  Quattro Tuner  HDR  schwarz '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CP9ND9M/?tag=tolees0ca-21'
 descuento: '23.37'
 average: '459.0'

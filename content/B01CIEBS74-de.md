@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'SanDisk 64GB iXpand USB-Flash-Laufwerk für iPhone und iPad'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01CIEBS74/?tag=tolees0ca-21'
 descuento: '17.50'
 average: '31.490000000000002'

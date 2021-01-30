@@ -16,6 +16,7 @@ comparePrice: 132.71 EUR
 prodname: 'Samsung MG23 K3 515aw / EG Mikrowelle / 48 9 cm / Schnellabtauung / 27 automatische Programme  Deutsches Handbuch '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DNVYDQS/?tag=tolees0ca-21'
 descuento: '21.27'
 average: '104.48'

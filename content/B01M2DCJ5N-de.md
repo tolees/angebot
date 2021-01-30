@@ -16,6 +16,7 @@ comparePrice: 12.29 EUR
 prodname: 'Gardena combisystem-Kleinhäckchen: Kleine Gartenhacke zum Bodenlockern und Unkraut jäten  rostgeschützt  schmutzunempfindlich  verlängerbar  8913-20 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M2DCJ5N/?tag=tolees0ca-21'
 descuento: '28.97'
 average: '8.73'

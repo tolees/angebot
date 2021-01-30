@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Citizen Herren Chronograph Quarz Uhr mit Leder Armband CA0641-16X'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MZAQ5OQ/?tag=tolees0ca-21'
 descuento: '17.09'
 average: '165.0'

@@ -16,6 +16,7 @@ comparePrice: 14.58 EUR
 prodname: 'The Space Between the Shadows'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QQHM5SQ/?tag=tolees0ca-21'
 descuento: '45.20'
 average: '7.99'

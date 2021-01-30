@@ -16,6 +16,7 @@ comparePrice: 259.0 EUR
 prodname: 'Le Creuset Signature Gusseisen-Bräter mit Deckel  Ø 26 cm  La Marmite  Rund  Für alle Herdarten und Induktion geeignet  Volumen: 4 1 l  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079JNKQD7/?tag=tolees0ca-21'
 descuento: '30.24'
 average: '180.69'

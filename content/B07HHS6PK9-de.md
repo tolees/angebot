@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Rollei Vintage Fototasche / Everyday Messenger Bag / Schultertasche für DSLM  DSLR Kameras und Objektiv  mit 12 l Fassungsvermögen  inkl. Regenschutz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HHS6PK9/?tag=tolees0ca-21'
 descuento: '42.86'
 average: '39.99'

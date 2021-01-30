@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Playmobil 70207 Dollhouse Gemütliches Wohnzimmer  ab 4 Jahren  bunt  one Size'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P6FL99M/?tag=tolees0ca-21'
 descuento: '16.68'
 average: '14.39'

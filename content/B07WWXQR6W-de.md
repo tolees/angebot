@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Frechdax® Memo Spiel Tiere Gedächtnisspiel Spielkarten Kinder Memospiel  Grün - Aquarell Tierchen '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WWXQR6W/?tag=tolees0ca-21'
 descuento: '31.45'
 average: '10.9'

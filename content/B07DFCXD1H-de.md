@@ -16,6 +16,7 @@ comparePrice: 13.61 EUR
 prodname: 'Funko 30697 Full Metal Alchemist: Ed POP Vinylfigur  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFCXD1H/?tag=tolees0ca-21'
 descuento: '41.22'
 average: '8.0'

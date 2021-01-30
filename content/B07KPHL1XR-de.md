@@ -16,6 +16,7 @@ comparePrice: 5.93 EUR
 prodname: 'Funko Pop! Games: Warhammer - Blutengel Assault Marine'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KPHL1XR/?tag=tolees0ca-21'
 descuento: '20.40'
 average: '7.13'

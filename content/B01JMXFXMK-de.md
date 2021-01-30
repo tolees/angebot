@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Beregnungsschlauch Bewässerungsschlauch / Sprühschlauch 20m schwarz inkl. Anschlüsse / sofort Startklar'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01JMXFXMK/?tag=tolees0ca-21'
 descuento: '31.49'
 average: '23.91'

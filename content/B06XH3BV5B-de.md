@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Puma Herren Carson 2 Outdoor Fitnessschuhe  Blau  Blue Depths-Quiet Shade-White   44 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XH3BV5B/?tag=tolees0ca-21'
 descuento: '42.48'
 average: '37.39'

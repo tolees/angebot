@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 30032 Pop Movies Actionfigur Harry Potter-Tom Riddle  Multicolour  Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079YFY2FG/?tag=tolees0ca-21'
 descuento: '51.47'
 average: '7.396470588235294'

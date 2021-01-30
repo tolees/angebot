@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Kitchen Diamonds Premium Tafelsticker-Set inkl. Stift - 136 Selbstklebende Küchen-Etiketten-Aufkleber in diversen Formen und Größen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YNS8GZB/?tag=tolees0ca-21'
 descuento: '23.17'
 average: '9.95'

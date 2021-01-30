@@ -16,6 +16,7 @@ comparePrice: 949.99 EUR
 prodname: 'MEDION ERAZER P6705 39 5 cm  15 6 Zoll  Full HD Gaming Notebook  Intel Core i7-8750H  16GB DDR4 RAM  1TB HDD  256GB PCIe SSD  NVIDIA GeForce GTX 1050 Ti 4GB GDDR5  Win 10 Home '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WSD4CNM/?tag=tolees0ca-21'
 descuento: '42.63'
 average: '609.0'

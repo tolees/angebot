@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'Timberland Herren klassische 2 Eye Bootsschuhe  Braun  Argan Oil Hmk   43 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07F1WR2YF/?tag=tolees0ca-21'
 descuento: '70.70'
 average: '40.99'

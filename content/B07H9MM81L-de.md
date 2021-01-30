@@ -16,6 +16,7 @@ comparePrice: 239.99 EUR
 prodname: 'Nebula Prizm II von Anker 3600 Lux 1080p Full HD Video LCD-Projektor  Duale 5W Lautsprecher  Kino für Zuhause  Multimedia Unterhaltung  Automatische Trapezkorrektur  HDMI- und USB-Funktionen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07H9MM81L/?tag=tolees0ca-21'
 descuento: '33.33'
 average: '207.99'

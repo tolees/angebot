@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Jeans Damen Tjw Waffle Hybrid Longsleeve Sport Pullover  Blau  Blue Cbk   40  Herstellergröße: X-Large '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RGQKPDX/?tag=tolees0ca-21'
 descuento: '61.10'
 average: '23.3'

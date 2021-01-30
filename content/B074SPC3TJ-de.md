@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Philips Star Wars Special Edition Nass-und Trockenrasierer SW9700/67'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074SPC3TJ/?tag=tolees0ca-21'
 descuento: '38.93'
 average: '190.80666666666667'

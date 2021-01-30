@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'Spiegelau & Nachtmann Longdrinkgläser  Glas  durchsichtig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007K0GJSA/?tag=tolees0ca-21'
 descuento: '37.20'
 average: '11.9'

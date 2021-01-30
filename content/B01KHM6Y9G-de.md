@@ -16,6 +16,7 @@ comparePrice: 1.19 EUR
 prodname: 'tegut... Gurken Cornichons  300 g'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01KHM6Y9G/?tag=tolees0ca-21'
 descuento: '15.97'
 average: '1.0'

@@ -16,6 +16,7 @@ comparePrice: 111.6 EUR
 prodname: 'G-STAR RAW Herren Arctic Expedition Jacke  Grau  Charcoal 942    Herstellergröße:M '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NDMZ6P4/?tag=tolees0ca-21'
 descuento: '15.09'
 average: '94.76'

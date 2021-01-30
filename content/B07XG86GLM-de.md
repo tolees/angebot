@@ -16,6 +16,7 @@ comparePrice: 399.99 EUR
 prodname: 'Oral-B Genius 10900N Elektrische Zahnbürste mit Zahnfleischschutz-Assistent  mit 2. Handstück  rosegold & schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XG86GLM/?tag=tolees0ca-21'
 descuento: '54.79'
 average: '180.84'

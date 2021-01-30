@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'ara München Gore Tex  Damen Warm gefütterte Schneestiefel  Braun  caffee natur -08   39 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00CBSCA52/?tag=tolees0ca-21'
 descuento: '69.99'
 average: '29.99'

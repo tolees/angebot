@@ -16,6 +16,7 @@ comparePrice: 117.99 EUR
 prodname: 'GODNECE LED Licht-Set für Baustein  Led Beleuchtungsset Licht-Set für Baustein Spielzeug Kompatibel Mit Lego 42096 Technic Porsche 911 RSR Bausatz-Aufgerüstet Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07T2YYWRN/?tag=tolees0ca-21'
 descuento: '59.33'
 average: '47.99'

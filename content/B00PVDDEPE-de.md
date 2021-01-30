@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'D-Link DSP-W115 mydlink WLAN Smart Steckdose-/ plug  Überwachung von Elektrogeräten via App Steuerung  funktioniert mit Google Assistant/Google Home und Amazon Alexa '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00PVDDEPE/?tag=tolees0ca-21'
 descuento: '23.09'
 average: '20.933333333333334'

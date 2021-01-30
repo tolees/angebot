@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Socken Herren Damen  6 Paar Wandersocken Baumwolle Sportsocken Tennissocken Arbeitssocken mit Weicher Polsterung  12er pack S08 bequemere Wintersocken Business & Freizeit  Schwarz - S06  S: 35-38 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08GPDV1WX/?tag=tolees0ca-21'
 descuento: '27.19'
 average: '16.74'

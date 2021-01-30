@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Playmobil 70120 Spirit - Riding Free Pferdebox Snips & Herr Karotte  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JM5FCVZ/?tag=tolees0ca-21'
 descuento: '52.58'
 average: '11.272'

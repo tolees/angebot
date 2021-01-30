@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'ORICO M.2 NGFF SSD Externes Gehäuse USB 3.1 auf M.2 SATA Adapter für 2230/2242/2260/2280 B-Key und M+B-Key M.2 SATA SSDs  5Gpbs mit UASP'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08DCJ4BH6/?tag=tolees0ca-21'
 descuento: '38.11'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Rieker Damen Frühjahr/Sommer 64260 Geschlossene Sandalen  Gelb  Yellow-Multi/Sonne 90   39 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WLN43JJ/?tag=tolees0ca-21'
 descuento: '59.40'
 average: '16.22'

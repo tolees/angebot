@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'Palladium Pampa Sport Shearling Waterproof  Unisex-Erwachsene  Klassische Stiefel  Braun  Marron Mahogany/Chocolate 728   47 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076FDH9WN/?tag=tolees0ca-21'
 descuento: '49.75'
 average: '80.38'

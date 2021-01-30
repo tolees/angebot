@@ -16,6 +16,7 @@ comparePrice: 49.02 EUR
 prodname: 'HQ 11768450 - Symphony Beach III 2.2 Rainbow  Zweileiner Lenkmatten  ab 14 Jahren  73x220cm  inkl. 100 kp Dyneemaschnüre 2x25m auf Winder mit Schlaufen  2-6 Beaufort'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00IHH06JI/?tag=tolees0ca-21'
 descuento: '15.46'
 average: '41.44'

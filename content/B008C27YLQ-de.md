@@ -16,6 +16,7 @@ comparePrice: 8 EUR
 prodname: 'Nike Unisex Erwachsene Swoosh Headband/Stirnband  Schwarz  Black/White   Einheitsgröße'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B008C27YLQ/?tag=tolees0ca-21'
 descuento: '17.25'
 average: '6.62'

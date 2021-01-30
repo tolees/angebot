@@ -16,6 +16,7 @@ comparePrice: 369.99 EUR
 prodname: 'Netgear GS728TPP 28-Port Gigabit Ethernet LAN PoE Switch Smart Managed Pro  mit 24x PoE+ 380W  4x 1G-SFP  Desktop-oder Rack-Montage mit ProSAFE Lifetime-Garantie  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07C58S3GW/?tag=tolees0ca-21'
 descuento: '21.60'
 average: '290.07'

@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Transport Fever 2'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07V83KSVM/?tag=tolees0ca-21'
 descuento: '15.57'
 average: '31.23'

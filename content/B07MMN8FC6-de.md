@@ -16,6 +16,7 @@ comparePrice: 8.95 EUR
 prodname: 'Nerd Clear Ninja Schwert für Kinder | Schwert & Scheide | 60cm Länge aus Kunststoff | ideal für Karneval & Fasching: Farbe: Blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MMN8FC6/?tag=tolees0ca-21'
 descuento: '55.87'
 average: '3.95'

@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA Herren Boxershort Limited Statement Edition 9er Pack - Black - Gr. XL'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RDC11BR/?tag=tolees0ca-21'
 descuento: '27.22'
 average: '48.966'

@@ -16,6 +16,7 @@ comparePrice: 12.8 EUR
 prodname: 'Mannesmann Pneumatischer Türschließer  weiß  M41115'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002OL2LL4/?tag=tolees0ca-21'
 descuento: '22.42'
 average: '9.93'

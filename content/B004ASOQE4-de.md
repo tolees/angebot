@@ -16,6 +16,7 @@ comparePrice: 7.78 EUR
 prodname: 'Jane s Journey - Die Lebensreise der Jane Goodall'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004ASOQE4/?tag=tolees0ca-21'
 descuento: '23.01'
 average: '5.99'

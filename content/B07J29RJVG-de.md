@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'pinzas cejas pinzas led depilar Herramienta de maquillaje para cosméticos de cejas  pinzas de acero inoxidable con luz LED para quitar el pelo de pestañas'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07J29RJVG/?tag=tolees0ca-21'
 descuento: '60.03'
 average: '7.99'

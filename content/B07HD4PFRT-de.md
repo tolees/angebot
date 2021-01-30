@@ -16,6 +16,7 @@ comparePrice: 16.06 EUR
 prodname: 'Half Mile Harvest'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HD4PFRT/?tag=tolees0ca-21'
 descuento: '37.80'
 average: '9.99'

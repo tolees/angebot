@@ -16,6 +16,7 @@ comparePrice: 460.0 EUR
 prodname: 'iiyama ProLite XB2779QQS-S1 68 3cm  27 Zoll  IPS LED-Monitor 5K  3xHDMI  2xDisplayPort  Höhenverstellung  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078WBRTPB/?tag=tolees0ca-21'
 descuento: '35.43'
 average: '297.0'

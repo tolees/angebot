@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Fossil Herren-Uhr FS4813'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00AFTTQ8I/?tag=tolees0ca-21'
 descuento: '25.51'
 average: '99.0'

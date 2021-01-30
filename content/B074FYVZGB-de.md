@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Revell 06053 Modellbausatz  Star Wars 1:2700-Republic Destroyer  Level 3  orginalgetreue Nachbildung mit vielen Details-06053'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074FYVZGB/?tag=tolees0ca-21'
 descuento: '35.00'
 average: '60.25692307692308'

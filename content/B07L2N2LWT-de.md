@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Sharkoon Drakonia II Gaming Maus  optischer Sensor PixArt 3360  15.000 DPI  12 programmierbare Tasten  grün'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07L2N2LWT/?tag=tolees0ca-21'
 descuento: '37.73'
 average: '24.9'

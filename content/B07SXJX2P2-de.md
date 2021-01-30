@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Duschkopf  DALMO DCH01Y Wassersparende Handbrause mit 1.5 m Schlauch und Halterung  3 Strahlarten für Großes Duschvergnügen  Verchromte Duschbrause mit Antikalk-Funktion  Leicht zu Reinigen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SXJX2P2/?tag=tolees0ca-21'
 descuento: '36.37'
 average: '20.99'

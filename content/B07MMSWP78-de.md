@@ -16,6 +16,7 @@ comparePrice: 529.99 EUR
 prodname: 'Philips 2200 Serie EP2231/40 Kaffeevollautomat  3 Kaffeespezialitäten  LatteGo Milchsystem  Klavierlack-schwarz/Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MMSWP78/?tag=tolees0ca-21'
 descuento: '21.53'
 average: '411.16249999999997'

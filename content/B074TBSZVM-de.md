@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Puma Roma Basic  Herren Sneaker  Mehrfarbig Weiß  white-black    36 EU  3.5 UK '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074TBSZVM/?tag=tolees0ca-21'
 descuento: '16.01'
 average: '49.480000000000004'

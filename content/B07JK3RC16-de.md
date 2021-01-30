@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Yazubi Herren Kapuzenjacke Jacob - graue Sweatjacke Herren Kapuzenpullover mit Reißverschluss - Kapuzensweatshirt  Grau  Mirage Gray 154703   XS'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JK3RC16/?tag=tolees0ca-21'
 descuento: '30.01'
 average: '27.96'

@@ -16,6 +16,7 @@ comparePrice: 151.97 EUR
 prodname: 'MSI MPG Z390i Gaming Edge AC  LGA 1151 Mainboard  DDR4  2X Turbo M.2  9x USB 3.1  2X Gen2 und 4X Gen1  WLAN  BT '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HSC8RKX/?tag=tolees0ca-21'
 descuento: '52.54'
 average: '72.13'

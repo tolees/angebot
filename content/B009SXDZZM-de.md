@@ -16,6 +16,7 @@ comparePrice: 5.0 EUR
 prodname: 'Kamerahalter Halter Halterung Eye Stand für PS3 Kamera'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B009SXDZZM/?tag=tolees0ca-21'
 descuento: '55.80'
 average: '2.21'

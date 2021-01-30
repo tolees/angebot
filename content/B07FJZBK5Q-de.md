@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Hasbro Beyblade Burst Original Precision Strike Launcher'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FJZBK5Q/?tag=tolees0ca-21'
 descuento: '26.68'
 average: '10.99'

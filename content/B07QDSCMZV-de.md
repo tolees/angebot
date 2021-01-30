@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Simba - Disney Frozen 2 Olaf Spaß Olaf Plüschfigur  Activity Plüsch  30cm groß  sprechender Schneemann aus dem Film Die Eiskönigin 2  für Kinder ab 3 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QDSCMZV/?tag=tolees0ca-21'
 descuento: '27.35'
 average: '35.43333333333334'

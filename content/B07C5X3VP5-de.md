@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'JACK & JONES Herren JJEHOLMEN Sweat Hood NOOS Kapuzenpullover  Grün  Olive Night Fit:Reg Fit   Medium'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07C5X3VP5/?tag=tolees0ca-21'
 descuento: '40.06'
 average: '14.98'

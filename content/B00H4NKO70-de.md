@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Nitecore CU6 Taschenlampe  Schwarz  One Size'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00H4NKO70/?tag=tolees0ca-21'
 descuento: '23.94'
 average: '98.12'

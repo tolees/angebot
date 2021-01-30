@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Ultimate Ears Boom 3 Tragbarer Bluetooth-Lautsprecher + Power Up Ladestation  360°-Sound  satter Bass  wasserdicht  sturzfest und staubresistent  15-Stunden Akkulaufzeit - Mitternachtsschwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HRG624G/?tag=tolees0ca-21'
 descuento: '45.01'
 average: '97.94'

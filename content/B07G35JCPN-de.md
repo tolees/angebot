@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Match L.O.L. Surprise'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G35JCPN/?tag=tolees0ca-21'
 descuento: '39.90'
 average: '11.942380952380953'

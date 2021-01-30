@@ -16,6 +16,7 @@ comparePrice: 164.99 EUR
 prodname: 'Philips Avent 4-in-1-Babynahrungszubereiter SCF883/01  Dampfgaren und Mixen  4 Mahlzeiten  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FN4CL35/?tag=tolees0ca-21'
 descuento: '34.55'
 average: '107.99'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Dickie Toys RC Monster Flippy  RTR  Spielzeugauto mit Funkfernsteuerung  Rotations- und Flipfunktion  mit Licht  Hochleistungsgummireifen  Geschwindigkeit bis zu 10 km/h  ab 6 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XCKXFB5/?tag=tolees0ca-21'
 descuento: '33.34'
 average: '39.99'

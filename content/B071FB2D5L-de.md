@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Kindergarten Cop [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071FB2D5L/?tag=tolees0ca-21'
 descuento: '15.52'
 average: '6.75'

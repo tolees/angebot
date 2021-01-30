@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Vans Damen Filmore Decon Sneaker  Pink   Suede  Lilac Snow/True White Xof   40.5 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MZMK7V7/?tag=tolees0ca-21'
 descuento: '58.17'
 average: '27.19'

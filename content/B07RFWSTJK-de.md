@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Salewa Puez Alphubel Wo Headband Stirnbänder  Carrot/4630  UNI58'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RFWSTJK/?tag=tolees0ca-21'
 descuento: '61.20'
 average: '11.64'

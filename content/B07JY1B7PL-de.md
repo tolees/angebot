@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES Herren Slim Fit Jeans Glenn ORIGINAL AM 814 3132Blue Denim'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JY1B7PL/?tag=tolees0ca-21'
 descuento: '40.59'
 average: '23.76'

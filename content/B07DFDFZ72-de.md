@@ -16,6 +16,7 @@ comparePrice: 14.36 EUR
 prodname: 'Funko 30695 Full Metal Alchemist: Alphonse POP Vinylfigur  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFDFZ72/?tag=tolees0ca-21'
 descuento: '39.07'
 average: '8.75'

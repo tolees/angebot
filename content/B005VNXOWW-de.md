@@ -16,6 +16,7 @@ comparePrice: 7.55 EUR
 prodname: 'Eine ganz heisse Nummer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005VNXOWW/?tag=tolees0ca-21'
 descuento: '39.21'
 average: '4.59'

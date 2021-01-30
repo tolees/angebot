@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'VAUDE Herren Men s Active Pants Hose  Schwarz  Black Uni   M'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NL9T6KY/?tag=tolees0ca-21'
 descuento: '25.12'
 average: '29.95'

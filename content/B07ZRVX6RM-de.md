@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Anker Soundcore Flare 2 Bluetooth Lautsprecher  mit IPX7 Wasserschutz  360° Rundum-Sound  für Draußen  Garten  Strand  Urlaub  mit PartyCast  EQ Regulierung und 12 Stunden Akkulaufzeit'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZRVX6RM/?tag=tolees0ca-21'
 descuento: '25.00'
 average: '59.99'

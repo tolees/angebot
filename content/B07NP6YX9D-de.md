@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Ersatz Fernbedienung for Philips TV 22PFL3403/60 22PFL3403S/10 22PFL3403S/60 26PFL3403 32PFL3403 32PFL3403/12'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NP6YX9D/?tag=tolees0ca-21'
 descuento: '61.21'
 average: '3.86'

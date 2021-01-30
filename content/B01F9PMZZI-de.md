@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: '182/im Haus des Henkers'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01F9PMZZI/?tag=tolees0ca-21'
 descuento: '50.06'
 average: '3.99'

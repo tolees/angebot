@@ -16,6 +16,7 @@ comparePrice: 17.93 EUR
 prodname: 'Philips TX1BK/00 In-Ear Kopfhörer mit Mikrofon schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00IFUWHZI/?tag=tolees0ca-21'
 descuento: '16.45'
 average: '14.98'

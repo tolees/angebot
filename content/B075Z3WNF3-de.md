@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Hasbro Super Soaker E0021EU4 - Splash Mouth Wasserpistole  mit Splash-Attacke'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075Z3WNF3/?tag=tolees0ca-21'
 descuento: '28.59'
 average: '10.03'

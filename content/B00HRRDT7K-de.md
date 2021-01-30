@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Sylvanian Families 4862 Dorfladen für Schuhe  Mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HRRDT7K/?tag=tolees0ca-21'
 descuento: '28.59'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Ladeheid Eva Kinder Jungen Mädchen Gummistiefel Regenschuhe LA-CA-04  Blau/Marineblau  22/23 EU '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TWRH1ZV/?tag=tolees0ca-21'
 descuento: '25.01'
 average: '17.24'

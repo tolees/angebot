@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'BaByliss 6614E Profi-Haartrockner Pro Express Ionic  2300 Watt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007JTPLB8/?tag=tolees0ca-21'
 descuento: '33.24'
 average: '39.99'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'New Balance Herren 574v2 Core Sneaker  Grau  Grau   46.5 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06Y2XQPCN/?tag=tolees0ca-21'
 descuento: '58.49'
 average: '41.49'

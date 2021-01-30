@@ -16,6 +16,7 @@ comparePrice: 1799 EUR
 prodname: 'HP Spectre x360 15-df0106ng  15 6 Zoll/ UHD Touchscreen  Convertible Laptop  Intel Core i7-8565U quad  16GB DDR RAM  512GB SSD  NVIDIA GeForce MX150  Windows 10 Home  schwarz/Dunkle grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JKJFRK4/?tag=tolees0ca-21'
 descuento: '54.20'
 average: '824'

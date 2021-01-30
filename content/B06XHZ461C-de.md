@@ -16,6 +16,7 @@ comparePrice: 1699.0 EUR
 prodname: 'Philips 55PUS7502/12 139cm  55 Zoll  LED-Fernseher  Ultra-HD  Smart TV  Android  Ambilight '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XHZ461C/?tag=tolees0ca-21'
 descuento: '76.63'
 average: '397.0'

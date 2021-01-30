@@ -16,6 +16,7 @@ comparePrice: 19.49 EUR
 prodname: 'Produkttitel fehlt - Wird nachgereicht'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NDBFFDL/?tag=tolees0ca-21'
 descuento: '25.71'
 average: '16.62535714285714'

@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Swiss Military Hanowa Herren Analog Quarz Uhr mit Edelstahl Armband 06-5296.04.003'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078HFBGWP/?tag=tolees0ca-21'
 descuento: '28.39'
 average: '178.3'

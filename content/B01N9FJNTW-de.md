@@ -16,6 +16,7 @@ comparePrice: 185.2 EUR
 prodname: 'Fire HD 10-Tablet  1080p Full HD-Display  64 GB  Schwarz  mit Spezialangeboten  vorherige Generation – 7. '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N9FJNTW/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '97.16428571428571'

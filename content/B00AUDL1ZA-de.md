@@ -16,6 +16,7 @@ comparePrice: 50.99 EUR
 prodname: 'One Piece - Box 6: Season 6  Episoden 163-195  [6 DVDs]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00AUDL1ZA/?tag=tolees0ca-21'
 descuento: '25.00'
 average: '38.24'

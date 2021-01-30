@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Sylvanian Families - 5333 - Baby Abenteuer Riesenrad'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07M6ZGK3Q/?tag=tolees0ca-21'
 descuento: '15.13'
 average: '13.57'

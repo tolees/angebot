@@ -16,6 +16,7 @@ comparePrice: 29.23 EUR
 prodname: 'Playmobil Family Fun 70343 Löwen im Freigehege  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B082YPRHN7/?tag=tolees0ca-21'
 descuento: '35.03'
 average: '18.99'

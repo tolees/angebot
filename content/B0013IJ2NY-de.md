@@ -16,6 +16,7 @@ comparePrice: 8.86 EUR
 prodname: 'Troja  Director s Cut  [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0013IJ2NY/?tag=tolees0ca-21'
 descuento: '27.31'
 average: '6.44'

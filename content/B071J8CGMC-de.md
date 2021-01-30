@@ -16,6 +16,7 @@ comparePrice: 699.99 EUR
 prodname: 'Garmin VIRB 360 - wasserdichte 360-Grad-Kamera mit GPS und bis zu 5 7K/30fps Auflösung oder 4K/30fps mit Auto-Stitching Funktion und sphärischer Bildstabilisierung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071J8CGMC/?tag=tolees0ca-21'
 descuento: '44.57'
 average: '388'

@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Nixon Damen Analog Quarz Uhr mit Leder Armband A10912369-00'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01F5K6SIM/?tag=tolees0ca-21'
 descuento: '76.73'
 average: '34.9'

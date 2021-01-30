@@ -16,6 +16,7 @@ comparePrice: 189.97 EUR
 prodname: 'Sony Xperia X Compact Smartphone  11 7 cm  4 6 Zoll   32 GB Speicher  Android 6.0  Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01L34I7HY/?tag=tolees0ca-21'
 descuento: '41.11'
 average: '125.92'

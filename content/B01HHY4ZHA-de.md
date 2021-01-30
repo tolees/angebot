@@ -16,6 +16,7 @@ comparePrice: 121.59 EUR
 prodname: 'Vileda Steam Dampfreiniger  mit 2 zusätzliche Ersatzbezüge  Entfernt 99 9 Prozent der Bakterien ohne chemische Reinigungsmittel  schwarz/rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01HHY4ZHA/?tag=tolees0ca-21'
 descuento: '43.22'
 average: '69.9'

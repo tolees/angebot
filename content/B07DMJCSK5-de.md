@@ -16,6 +16,7 @@ comparePrice: 189.99 EUR
 prodname: 'Philips Sonicare ProtectiveClean 5100 elektrische Zahnbürste HX6851/34 Doppelpack – 2 Schallzahnbürsten mit 3 Putzprogrammen  Andruckkontrolle  Reiseetuis – Weiß/Blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DMJCSK5/?tag=tolees0ca-21'
 descuento: '46.32'
 average: '104.99'

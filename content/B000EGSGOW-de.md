@@ -16,6 +16,7 @@ comparePrice: 4.18 EUR
 prodname: 'VARTA Longlife Power Batterie 4 5 V Block Alkaline Batterien 3LR12 - 1er Pack'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000EGSGOW/?tag=tolees0ca-21'
 descuento: '40.19'
 average: '2.5'

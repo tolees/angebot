@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'McKINLEY Herren Icepak Varel Jacke  Marinenblau  48'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YD9RM15/?tag=tolees0ca-21'
 descuento: '37.92'
 average: '80.7'

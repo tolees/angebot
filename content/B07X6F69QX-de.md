@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'HolyHigh Bluetooth Kopfhörer Bluetooth 5.0 Kabellose In Ear Kopfhörer Duale Dynamische Treiber 3000 mAh Ladebox 100H Wiedergabe HiFi Stereo Rauschunterdrückung Berührungssteuerung für Sport Pendeln'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07X6F69QX/?tag=tolees0ca-21'
 descuento: '25.01'
 average: '29.99'

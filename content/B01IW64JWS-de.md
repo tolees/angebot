@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Logitech 939-001471 BASE Ladestation mit Smart Connector-Technologie für Apple iPad  7th gen   iPad Air  3rd gen   iPad Pro 9.7-inch  10.5-inch  12.9-inch  1st and 2nd gen '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01IW64JWS/?tag=tolees0ca-21'
 descuento: '39.17'
 average: '60.82'

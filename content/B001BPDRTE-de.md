@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'ABUS Zubehör Steel-O-Chain 880/85  Black  7 mm/85 cm  43306'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001BPDRTE/?tag=tolees0ca-21'
 descuento: '37.73'
 average: '27.99'

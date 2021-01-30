@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'L.O.L. Surprise! 560487E7C Fluffy Pets- Winter Disco Series - mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PT4S9RB/?tag=tolees0ca-21'
 descuento: '18.76'
 average: '11.166470588235294'

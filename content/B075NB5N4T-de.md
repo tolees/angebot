@@ -16,6 +16,7 @@ comparePrice: 36.98 EUR
 prodname: 'Lintelek Fitness Armband Fitness Tracker wasserdicht Fitness Uhr Aktivity Tracker Schrittzähler Schlaf Monitor Pedometer Kalorie Anrufe/SMS/Whatsapp Vibration'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075NB5N4T/?tag=tolees0ca-21'
 descuento: '40.56'
 average: '21.98'

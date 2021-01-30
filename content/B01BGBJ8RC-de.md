@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'Logitech C310 Webcam  HD 720p  60° Sichtfeld  Fester Fokus  Belichtungskorrektur  USB-Anschluss  Rauschunterdrückung  Universalhalterung  Für Skype  FaceTime  Hangouts  etc.  PC/Mac/ChromeOS/Android'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BGBJ8RC/?tag=tolees0ca-21'
 descuento: '53.82'
 average: '59.99'

@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Bohrer Set  TACKLIFE 42tlg. Professionelles Set  Bohrer  Bit und Steckschlüssel  geeignet für alle Akkuschrauber Bohrschrauber - DNS02'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GZNH4YD/?tag=tolees0ca-21'
 descuento: '19.36'
 average: '24.99'

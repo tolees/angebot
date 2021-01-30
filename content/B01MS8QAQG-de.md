@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Philips SHD8800/12 Over-Ear Funkkopfhörer  offen  15m Reichweite  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MS8QAQG/?tag=tolees0ca-21'
 descuento: '38.82'
 average: '73.41'

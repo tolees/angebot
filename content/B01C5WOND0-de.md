@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Ravensburger tiptoi Wir spielen Schule Spiel  ab 5 Jahren  Erlebe interaktiv einen kompletten Schultag'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01C5WOND0/?tag=tolees0ca-21'
 descuento: '46.54'
 average: '14.813333333333333'

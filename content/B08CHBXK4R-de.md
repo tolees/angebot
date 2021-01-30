@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Eilsorrn WLAN Repeater  WLAN Verstärker 300Mbit/s 2 4GHz Wireless Netz Signal Verstärker WiFi Range Extender mit Ethernet Port  WPS Taste  AP-Modus Kompatibel mit Allen WLAN Geräten[EU Stecker]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08CHBXK4R/?tag=tolees0ca-21'
 descuento: '50.01'
 average: '19.99'

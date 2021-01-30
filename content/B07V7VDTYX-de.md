@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Orzly Tastatur Maus Set Gaming RX250 4 in 1 PC Pack Combo – RGB Hintergrundbeleuchtung Tastatur [QWERTZ DE Layout] und Maus [bis zu 3200 DPI]  Gaming Headset & Mauspad großen - für PC  Xbox  PS4'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07V7VDTYX/?tag=tolees0ca-21'
 descuento: '34.33'
 average: '36.11'

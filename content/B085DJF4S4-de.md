@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Bluetooth Adapter 5.0  3 in 1 3.5 mm Bluetooth Empfänger Sender Auto Aux Audio Empfänger TV Kopfhörer Sender Empfänger'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B085DJF4S4/?tag=tolees0ca-21'
 descuento: '34.49'
 average: '19.49'

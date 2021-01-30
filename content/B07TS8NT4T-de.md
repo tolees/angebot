@@ -16,6 +16,7 @@ comparePrice: 10.44 EUR
 prodname: 'Funko 45009 POP Marvel: Fantastic Four - Galactus Collectible Toy  Multicolour'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TS8NT4T/?tag=tolees0ca-21'
 descuento: '20.88'
 average: '8.935'

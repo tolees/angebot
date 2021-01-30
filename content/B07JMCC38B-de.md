@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'PLAYMOBIL 70039 - DreamWorks Dragons Todbringer und Grimmel  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JMCC38B/?tag=tolees0ca-21'
 descuento: '46.65'
 average: '16.0'

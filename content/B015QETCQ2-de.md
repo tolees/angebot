@@ -16,6 +16,7 @@ comparePrice: 26.5 EUR
 prodname: 'RUBYCA 64pcs Mix Floating Charms Lot for Glass Living Memory Lockets Black and White Silver Color by'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B015QETCQ2/?tag=tolees0ca-21'
 descuento: '35.74'
 average: '17.03'

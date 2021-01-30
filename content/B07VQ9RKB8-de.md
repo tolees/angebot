@@ -16,6 +16,7 @@ comparePrice: 22.68 EUR
 prodname: 'Chicago Fire - Staffel sieben [6 DVDs]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VQ9RKB8/?tag=tolees0ca-21'
 descuento: '20.06'
 average: '19.498749999999998'

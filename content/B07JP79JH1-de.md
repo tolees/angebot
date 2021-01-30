@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Holzmeißel Set  Tacklife  Stechbeitel Set für Holz  Kohlenstoffstahl  bestehend aus 6 mm  12 mm  19 mm & 25mm  Griff aus Polypropylen  Geeignet für Holzbearbeitung  Hobeln  Schnitzen-HWC5A'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JP79JH1/?tag=tolees0ca-21'
 descuento: '33.34'
 average: '19.99'

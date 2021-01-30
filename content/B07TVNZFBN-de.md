@@ -16,6 +16,7 @@ comparePrice: 60.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego Star Wars Slave I  Kompatibel Mit Lego 75243 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TVNZFBN/?tag=tolees0ca-21'
 descuento: '40.99'
 average: '35.99'

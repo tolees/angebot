@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'VNOX Magnetfeldtherapie-Armband 99 9% Reine Rote Kupferne Armbänder für Arthritis-Schmerzlinderungs-Armband für Männer Justierbares Werkzeug  15mm Breite'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GBNWYLQ/?tag=tolees0ca-21'
 descuento: '25.01'
 average: '29.99'

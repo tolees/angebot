@@ -16,6 +16,7 @@ comparePrice: 11.4 EUR
 prodname: 'Castrol POWER 1 RACING 4T 10W-40 4-Takt Motorrad Motorenöl 1L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002BJVPJS/?tag=tolees0ca-21'
 descuento: '17.72'
 average: '9.38'

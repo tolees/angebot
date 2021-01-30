@@ -16,6 +16,7 @@ comparePrice: 409.99 EUR
 prodname: 'Braun Series 8 8370cc Elektrischer Rasierer  Reinigungs- und Ladestation  Stoff-Etui  Wet&Dry Elektrorasierer Herren  Rasierapparat mit Präzisionstrimmer  Lithium-Ionen-Akku  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SMSLGJK/?tag=tolees0ca-21'
 descuento: '61.22'
 average: '159.0'

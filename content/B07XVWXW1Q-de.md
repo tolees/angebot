@@ -16,6 +16,7 @@ comparePrice: 1149.0 EUR
 prodname: 'Microsoft Surface Laptop 3  13 5 Zoll Laptop  Intel Core i5  8GB RAM  128GB SSD  Win 10 Home  Platin'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XVWXW1Q/?tag=tolees0ca-21'
 descuento: '27.94'
 average: '1006.1400000000001'

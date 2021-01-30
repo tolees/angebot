@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Einhell Tauchpumpe GC-SP 3580 LL  350 W  8.000 Liter pro Stunde  flachabsaugend bis 1 mm  Pumpenstart ab 8 mm  integriertes Rückschlagventil '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N9EM3U4/?tag=tolees0ca-21'
 descuento: '39.96'
 average: '29.99'

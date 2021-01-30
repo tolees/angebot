@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Harry Potter Fantastic Beasts 2 Pop! Vinyl Figur 17 Thestral aus Kunststoff  von Funko  in Geschenkbox.'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07D55J8ZB/?tag=tolees0ca-21'
 descuento: '46.35'
 average: '7.115'

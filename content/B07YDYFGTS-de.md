@@ -16,6 +16,7 @@ comparePrice: 1199.0 EUR
 prodname: 'OMEN 15-dc1015ng  15 6 Zoll / FHD IPS 60Hz  Gaming Laptop  Intel Core i7-9750H  16GB DDR4 RAM  512GB SSD  Nvidia GeForce GTX 1650 4GB GDDR5  Windows 10  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YDYFGTS/?tag=tolees0ca-21'
 descuento: '40.37'
 average: '811.8'

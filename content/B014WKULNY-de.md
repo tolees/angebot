@@ -16,6 +16,7 @@ comparePrice: 6.35 EUR
 prodname: 'EMOS 1x universales selbstverschweißendes Band  LxBxH 5 m x 25 mm x 0 76 mm  für Außenbereich als Isolierband  Dichtungsband  Reparaturband geeignet  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B014WKULNY/?tag=tolees0ca-21'
 descuento: '78.74'
 average: '1.35'

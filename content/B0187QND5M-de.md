@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Kärcher Fensterdüse für Kärcher Dampfreiniger  Streifenfreie Reinigung von Glas  Fenstern und Spiegeln  Dampfaustrittsöffnungen an der Düse  kleine Maße und geringes Gewicht '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0187QND5M/?tag=tolees0ca-21'
 descuento: '31.02'
 average: '13.79'

@@ -16,6 +16,7 @@ comparePrice: 39.39 EUR
 prodname: 'Mini Kinder Spielen Küche  Moderne rote Küche Spielzeug Küche Spielset Spaß mit Freunden Küche Mädchen Jungen Geschenk'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W4MTCTQ/?tag=tolees0ca-21'
 descuento: '43.67'
 average: '22.19'

@@ -16,6 +16,7 @@ comparePrice: 189 EUR
 prodname: 'Lacoste Herren-Armbanduhr - 2010901'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01NAPUJ8F/?tag=tolees0ca-21'
 descuento: '48.06'
 average: '98.16'

@@ -16,6 +16,7 @@ comparePrice: 68.99 EUR
 prodname: 'HomeLava 360° Drehbar Wasserhahn Küche Edelstahl Küchenarmatur Wandmontage Kalt und Heiß Einhebelmischer Spültisch Armatur'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07L2PNZP9/?tag=tolees0ca-21'
 descuento: '27.54'
 average: '49.99'

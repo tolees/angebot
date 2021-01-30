@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Mpow EM19 Bluetooth-Headset für Ein Ohr  Bluetooth Headset Handy Wireless Headset Bluetooth Freisprechen Kopfhörer in Ear Bluetooth In-Ear Headset mit CVC6.0 -Noise Cancelling 20H für iPhone Huawei'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07X1JKV71/?tag=tolees0ca-21'
 descuento: '42.29'
 average: '15.0'

@@ -16,6 +16,7 @@ comparePrice: 21.37 EUR
 prodname: 'Ecomed HP-40E Heizkissen  Super-Flausch  Wärmekissen mit 3 Temperaturstufen  Überhitzungsschutz  Abschaltautomatik  waschbar  für Rücken  Nacken  Schulter  2.Generation'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00PS9GIZE/?tag=tolees0ca-21'
 descuento: '25.36'
 average: '15.95'

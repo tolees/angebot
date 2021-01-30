@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 7427 Dragonball POP Vinylfigur: Dragon Ball Z: Goku und Wolke'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01CBME57S/?tag=tolees0ca-21'
 descuento: '42.82'
 average: '8.0'

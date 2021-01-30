@@ -16,6 +16,7 @@ comparePrice: 459.58 EUR
 prodname: 'SanDisk Ultra 3D SSD interne Festplatte 4 TB  2 5 Zoll  stoßfest  3D NAND-Technologie  n-Cache 2.0-Technologie  560 MB/s Übertragungsraten  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W1SYTTT/?tag=tolees0ca-21'
 descuento: '15.24'
 average: '422.01666666666665'

@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Funko 3090 Dragonball Game of Thrones-Pop Vinyl 07 Jon Snow'
 country: 'de'
 flag: '🇩🇪'
+brand: 'Funko'
 buyurl: 'https://www.amazon.de/dp/B00B1CAGVY/?tag=tolees0ca-21'
 descuento: '16.04'
 average: '13.9055555555556'
@@ -27,8 +28,8 @@ Sie können [Funko 3090 Dragonball Game of Thrones-Pop Vinyl 07 Jon Snow](https:
 
 ℹ️:
 
+- POP! Vinylfigur
 - Jon Snow
 - Game of Thrones
-- POP! Vinylfigur
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00B1CAGVY/?tag=tolees0ca-21)

@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Wireless Controller für Nintendo Switch RegeMoudal Switch Pro Controller Remote Controller Gamepad mit Double Shock Turbo Funktionen für Nintendo Switch/Switch Lite'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08BZ9SPJN/?tag=tolees0ca-21'
 descuento: '15.01'
 average: '27.639999999999997'

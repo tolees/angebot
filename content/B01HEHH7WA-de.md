@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'Acer H6517ABD DLP Projektor  Full HD 1920 x 1080 Pixel  3200 ANSi Lumen  Kontrast 20.000:1 3D '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01HEHH7WA/?tag=tolees0ca-21'
 descuento: '29.90'
 average: '419.9'

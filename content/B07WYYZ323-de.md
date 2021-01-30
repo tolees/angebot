@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Tablet Android 10 Zoll  Dragon Touch K10 Tablet Pad Android 8.1 2GB+16GB  Quad Core IPS HD  1280 x 800   2MP Dual Kamera Touchscreen /Micro HDMI /GPS/ FM /WiFi /Bluetooth /5G'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WYYZ323/?tag=tolees0ca-21'
 descuento: '35.65'
 average: '70.78'

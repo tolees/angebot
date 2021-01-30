@@ -16,6 +16,7 @@ comparePrice: 9.88 EUR
 prodname: 'The Green Mile [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002NXFFDY/?tag=tolees0ca-21'
 descuento: '39.78'
 average: '5.95'

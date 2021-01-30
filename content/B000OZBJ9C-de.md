@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'Park Tool Mini-Faltwerkzeug IB-3 I-Beam g  4000840'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000OZBJ9C/?tag=tolees0ca-21'
 descuento: '34.68'
 average: '16.95'

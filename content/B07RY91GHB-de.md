@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego City Fahrzeuge Pickup und Wohnwagen  Kompatibel Mit Lego 60182 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RY91GHB/?tag=tolees0ca-21'
 descuento: '45.46'
 average: '29.99'

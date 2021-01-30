@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'AmazonBasics Stereo-Audiokabel  3 5-mm-Klinkenstecker auf 3 5-mm-Klinkenbuchse  1 8 m'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01CNAUYBY/?tag=tolees0ca-21'
 descuento: '28.61'
 average: '4.99'

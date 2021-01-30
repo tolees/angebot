@@ -16,6 +16,7 @@ comparePrice: 269.0 EUR
 prodname: 'TomTom Navigationsgerät GO Essential   6 Zoll  Stauvermeidung dank TomTom Traffic  Karten-Updates Europa  Freisprechen  Updates über Wi-Fi  TMC '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G19DZXC/?tag=tolees0ca-21'
 descuento: '40.89'
 average: '159.0'

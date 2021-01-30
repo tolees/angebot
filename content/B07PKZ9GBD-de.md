@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'FRANZIS VW Bulli T1 Adventskalender 2019  In 24 Schritten zum Bulli unterm Weihnachtsbaum  Das Kultauto im Maßstab 1:43| Ab 14 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PKZ9GBD/?tag=tolees0ca-21'
 descuento: '33.49'
 average: '39.879999999999995'

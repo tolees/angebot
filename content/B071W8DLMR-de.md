@@ -16,6 +16,7 @@ comparePrice: 534.99 EUR
 prodname: 'Netgear RR230400-100NES Ready-NAS Network Attached Storage'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071W8DLMR/?tag=tolees0ca-21'
 descuento: '41.49'
 average: '313.0'

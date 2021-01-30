@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Dreamzie - Gewichtsdecke - Verfügbar für Betten 90 bis 180 - Für Erwachsene und Kinder von 17 bis 115 kg - Außenstoff 100% Bambus - Oeko-TEX®'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XZC9K61/?tag=tolees0ca-21'
 descuento: '45.46'
 average: '59.99'

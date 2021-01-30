@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'JBL Xtreme Spritzwasserfester Tragbarer Bluetooth Lautsprecher mit 10  000 mAh Akku  Dualem USB-Ladeanschluss und Freisprechfunktion'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B010SWJVS6/?tag=tolees0ca-21'
 descuento: '53.18'
 average: '139.792'

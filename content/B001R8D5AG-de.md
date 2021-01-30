@@ -16,6 +16,7 @@ comparePrice: 4.77 EUR
 prodname: 'Herlitz  10999753  Schulfüllhalter  inkl. Patrone  -Für Rechtshänder  Minze/Lila'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001R8D5AG/?tag=tolees0ca-21'
 descuento: '16.14'
 average: '4.0'

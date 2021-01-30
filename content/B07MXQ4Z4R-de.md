@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'DELSEY PARIS COMETE FASHION    azzurro '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MXQ4Z4R/?tag=tolees0ca-21'
 descuento: '32.92'
 average: '99.95'

@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Bosch Nass- und Trockensauger AdvancedVac 20  1200 Watt  20 Liter Behältervolumen  in Karton '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XTB2L21/?tag=tolees0ca-21'
 descuento: '40.67'
 average: '95.97333333333333'

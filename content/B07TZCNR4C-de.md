@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'LEDVANCE LED Wand- und Deckenleuchte  Leuchte für Außenanwendungen  Warmweiß  Endura Style Mini Cyl Updown'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TZCNR4C/?tag=tolees0ca-21'
 descuento: '71.19'
 average: '17.27'

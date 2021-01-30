@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: '÷ Divide  Deluxe Edition '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MY72DNS/?tag=tolees0ca-21'
 descuento: '25.03'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'Linksys WRT1900ACS-EU Wireless AC1900 Open Source Router  1900Mbit/s  MU-MIMO  4 Gigabit Ethernet Ports  1x USB 3.0  1x eSata Smart WiFi app   schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0154B0GWG/?tag=tolees0ca-21'
 descuento: '36.98'
 average: '144.95'

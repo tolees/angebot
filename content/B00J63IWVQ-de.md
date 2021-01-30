@@ -16,6 +16,7 @@ comparePrice: 94.95 EUR
 prodname: 'B. Toys 44172 - Baa-Baa-Barn Bauernhof'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00J63IWVQ/?tag=tolees0ca-21'
 descuento: '43.40'
 average: '53.74'

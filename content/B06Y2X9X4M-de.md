@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Hasbro Spiele C0432100 - Perfektion  Geschicklichkeitsspiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06Y2X9X4M/?tag=tolees0ca-21'
 descuento: '16.77'
 average: '14.9875'

@@ -16,6 +16,7 @@ comparePrice: 27.21 EUR
 prodname: 'McFarlane Toys 15601-0 Actionfigur'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07V5X5M7G/?tag=tolees0ca-21'
 descuento: '15.99'
 average: '25.291999999999998'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Logitech R700 Presenter  Kabellose 2.4 GHz Verbindung via USB-Empfänger  30m Reichweite  Roter Laserpointer  LCD-Display mit Timer und Batterieanzeige  6 Tasten  PC - schwarz  Englische Verpackung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00AIIIKPQ/?tag=tolees0ca-21'
 descuento: '56.66'
 average: '44.495000000000005'

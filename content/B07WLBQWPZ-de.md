@@ -16,6 +16,7 @@ comparePrice: 11.25 EUR
 prodname: 'Third Degree  CD Digipak '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WLBQWPZ/?tag=tolees0ca-21'
 descuento: '28.98'
 average: '7.99'

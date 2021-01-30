@@ -16,6 +16,7 @@ comparePrice: 45.7 EUR
 prodname: 'Hpybest 10 Ps 12–60 mm HSS Lochsägenbohrer HSS HSS Lochsäge Metallschneider Bohrmaschine Herramientas Para Carpinteria'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07S1RDZ14/?tag=tolees0ca-21'
 descuento: '50.02'
 average: '22.84'

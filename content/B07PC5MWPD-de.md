@@ -16,6 +16,7 @@ comparePrice: 8.39 EUR
 prodname: 'RITUALS The Ritual of Samurai Classic Duschschaum   200 ml'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PC5MWPD/?tag=tolees0ca-21'
 descuento: '18.95'
 average: '6.8'

@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Nokia ACP-12E Reiseladegerät'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000LAX6RI/?tag=tolees0ca-21'
 descuento: '54.60'
 average: '4.99'

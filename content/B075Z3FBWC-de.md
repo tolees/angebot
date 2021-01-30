@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Hasbro Super Soaker E0022EU4 - Soakzooka Wasserpistole  mit Mega-Wasserstrahl'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075Z3FBWC/?tag=tolees0ca-21'
 descuento: '38.16'
 average: '18.43166666666667'

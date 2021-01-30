@@ -16,6 +16,7 @@ comparePrice: 11.5 EUR
 prodname: 'Chopard Wish Duschgel  150 ml'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000NRLXWO/?tag=tolees0ca-21'
 descuento: '41.57'
 average: '6.72'

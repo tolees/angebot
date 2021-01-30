@@ -16,6 +16,7 @@ comparePrice: 11.58 EUR
 prodname: 'Funko B07DFCM5RX Marvel Studios 10: Iron Man  Chrome  POP Bobble  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFCM5RX/?tag=tolees0ca-21'
 descuento: '34.02'
 average: '10.4675'

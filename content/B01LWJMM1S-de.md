@@ -16,6 +16,7 @@ comparePrice: 734.9 EUR
 prodname: 'Viewsonic XG2703-GS 68 6 cm  27 Zoll  Gaming Monitor  WQHD  IPS-Panel  4 ms  165 Hz  G-Sync  geringer input Lag  Höhenverstellbar  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LWJMM1S/?tag=tolees0ca-21'
 descuento: '18.54'
 average: '598.63'

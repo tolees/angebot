@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Polk Audio Signature S35E Center Lautsprecher  HiFi Lautsprecher für Musik und Heimkino Sound  20 - 150 Watt  8 Ohm  High Res  70Hz - 40kHz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JBQBTRC/?tag=tolees0ca-21'
 descuento: '42.98'
 average: '199.0'

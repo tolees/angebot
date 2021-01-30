@@ -16,6 +16,7 @@ comparePrice: 124.99 EUR
 prodname: 'Fire HD 8 Kids Edition-Tablet  8-Zoll-HD-Display  32 GB  blaue kindgerechte Hülle'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0794SNF6C/?tag=tolees0ca-21'
 descuento: '32.00'
 average: '84.99'

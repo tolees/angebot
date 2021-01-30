@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Playmobil 6880 - Sternchenbahn mit Schienenkreis'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BPF7KO2/?tag=tolees0ca-21'
 descuento: '26.45'
 average: '25.994999999999997'

@@ -16,6 +16,7 @@ comparePrice: 215.99 EUR
 prodname: 'Philips HR2382/15 Pastamaker  200 W  vollautomatische Nudelmaschine  mit Wiegefunktion und 8 Formscheiben  kaschmirgrau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FKJKCZM/?tag=tolees0ca-21'
 descuento: '24.54'
 average: '160.32333333333335'

@@ -16,6 +16,7 @@ comparePrice: 94.95 EUR
 prodname: 'adidas Herren Gazelle Sneakers  Azul  Collegiate Navy/White/Gold Met   41 1/3 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01EI9HAGU/?tag=tolees0ca-21'
 descuento: '23.22'
 average: '67.67500000000001'

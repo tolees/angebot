@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Tamaris Damen 1-1-25129-23 Stiefeletten  Schwarz  Black 1   38 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NJM9XHM/?tag=tolees0ca-21'
 descuento: '40.68'
 average: '47.43'

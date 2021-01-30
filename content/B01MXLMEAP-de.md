@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Hasbro B9837EU4 - N-Strike Elite Disruptor Spielzeugblaster  mit Trommelmagazin'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MXLMEAP/?tag=tolees0ca-21'
 descuento: '21.06'
 average: '12.347142857142856'

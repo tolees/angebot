@@ -16,6 +16,7 @@ comparePrice: 95 EUR
 prodname: 'Levi s Damen 310 Shaping Super Skinny Jeans  Blau  Westbound 0036   29W/30L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KF4Y6K1/?tag=tolees0ca-21'
 descuento: '37.81'
 average: '59.08'

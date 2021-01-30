@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Park Tool Unisex – Erwachsene cm-5.3 Kettenreinigungsgerät  blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YWQYC83/?tag=tolees0ca-21'
 descuento: '27.34'
 average: '21.79'

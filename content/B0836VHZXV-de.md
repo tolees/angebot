@@ -16,6 +16,7 @@ comparePrice: 52.99 EUR
 prodname: 'TEECY Kartenetui Neue Kreditkartentasche Kartenetui mit RFID Schutz Einer starken Magnetsaug Tasche aus Aluminium von Hand eindrücken automatische Bankkarte Portmonee für bis zu 8-10 Karten Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0836VHZXV/?tag=tolees0ca-21'
 descuento: '62.28'
 average: '19.99'

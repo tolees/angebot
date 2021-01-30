@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Ravensburger 09264 - Abenteuer im Winterland'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00C3MXOSS/?tag=tolees0ca-21'
 descuento: '38.44'
 average: '6.15'

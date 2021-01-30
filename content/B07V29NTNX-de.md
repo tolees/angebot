@@ -16,6 +16,7 @@ comparePrice: 499.99 EUR
 prodname: 'Anker Nebula Capsule Max  Mini Projektor in Pint-Größe  Beamer mit WLAN und 200 ANSI Lumen  8W Lautsprecher  100 Zoll Bildformat  4 Stunden Wiedergabezeit  ideal für zu Hause  Home Entertainment'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07V29NTNX/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '399.99'

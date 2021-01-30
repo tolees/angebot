@@ -16,6 +16,7 @@ comparePrice: 1199 EUR
 prodname: 'Samsung LS01R The Serif 108 cm  43 Zoll  QLED Lifestyle Fernseher  Serif Ambient Mode  Ultra HD  HDR  Smart TV  Keramikweiß  [Modelljahr 2019]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PRD42WK/?tag=tolees0ca-21'
 descuento: '64.05'
 average: '431'

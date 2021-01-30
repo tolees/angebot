@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Alice im Wunderland: Hinter den Spiegeln'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01G5I4U7Y/?tag=tolees0ca-21'
 descuento: '57.22'
 average: '4.99'

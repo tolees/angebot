@@ -16,6 +16,7 @@ comparePrice: 22.79 EUR
 prodname: 'BGS 199 | Adapter-Satz | 6-tlg. | 1/4" auf 3/8"  3/8" auf 1/4"  3/8" auf 1/2"  1/2" auf 3/8"  1/2" auf 3/4"  3/4" auf 1/2"'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0013JDWHU/?tag=tolees0ca-21'
 descuento: '51.78'
 average: '10.99'

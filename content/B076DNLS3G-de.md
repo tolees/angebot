@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Oral-B CrossAction Aufsteckbürsten  Briefkastenfähige Verpackung  8+2 Stück'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076DNLS3G/?tag=tolees0ca-21'
 descuento: '39.53'
 average: '19.95'

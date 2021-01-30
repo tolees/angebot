@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Gigaset GS180 Smartphone ohne Vertrag  12 7 cm  5 Zoll HD  16:9 Display  16GB Speicher  Pure Android 8.1  silver grey'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFCKY1N/?tag=tolees0ca-21'
 descuento: '22.82'
 average: '115.0'

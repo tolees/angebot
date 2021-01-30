@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Playmobil 70204 City Life Motorradtour  ab 4 Jahren  bunt  one Size'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P6FJ41T/?tag=tolees0ca-21'
 descuento: '23.72'
 average: '7.62'

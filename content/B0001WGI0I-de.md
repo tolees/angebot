@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'BRIO Bahn 33204 - Parkhaus  Straßen&Schienen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0001WGI0I/?tag=tolees0ca-21'
 descuento: '53.56'
 average: '32.5'

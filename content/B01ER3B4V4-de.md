@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Blend Cross Herren Kapuzenpullover Hoodie Pullover Mit Kapuze Cross-Over-Kragen Und Fleece-Innenseite  Größe:M  Farbe:Black  70155 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01ER3B4V4/?tag=tolees0ca-21'
 descuento: '20.03'
 average: '23.95'

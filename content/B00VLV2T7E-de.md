@@ -16,6 +16,7 @@ comparePrice: 9.88 EUR
 prodname: 'Playmobil 6662 - Zahnarzt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00VLV2T7E/?tag=tolees0ca-21'
 descuento: '29.25'
 average: '9.04684210526316'

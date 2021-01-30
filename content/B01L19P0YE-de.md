@@ -16,6 +16,7 @@ comparePrice: 13.49 EUR
 prodname: 'TomTom Touch Wechselarmband - Himmelblau  Größe S  geeignet für alle TomTom Touch & TomTom Touch Cardio Modelle '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01L19P0YE/?tag=tolees0ca-21'
 descuento: '44.48'
 average: '7.49'

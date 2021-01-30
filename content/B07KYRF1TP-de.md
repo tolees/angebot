@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'OBEEII Kinder Festliche Kleider Mädchen Einhorn Kostüm Karneval Weihnachten Allerheilige Geburtstag Geschenk Baby Kinder Prinzessin Kleid 4-5 Jahre'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KYRF1TP/?tag=tolees0ca-21'
 descuento: '57.16'
 average: '14.99'

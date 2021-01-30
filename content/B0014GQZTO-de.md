@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Bosch Professional Diamant-Dosensenker mit Power-Change-Adapter  Ø 68 mm '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0014GQZTO/?tag=tolees0ca-21'
 descuento: '30.89'
 average: '23.49'

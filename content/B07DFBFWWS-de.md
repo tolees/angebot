@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'POP! Vinylfigur: Die Hard: John McClane'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFBFWWS/?tag=tolees0ca-21'
 descuento: '22.41'
 average: '13.402800000000001'

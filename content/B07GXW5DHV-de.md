@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Withings Steel HR Sport - Multisport Hybrid Smartwatch'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GXW5DHV/?tag=tolees0ca-21'
 descuento: '24.99'
 average: '149.99'

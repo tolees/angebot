@@ -16,6 +16,7 @@ comparePrice: 209.0 EUR
 prodname: 'Nokia 7.1  2018  32GB Blau Dual-SIM Android 8 Smartphone mit Zeiss-Kamera'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HRZQZS3/?tag=tolees0ca-21'
 descuento: '43.56'
 average: '117.96'

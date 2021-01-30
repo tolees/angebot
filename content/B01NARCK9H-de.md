@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'SuSenGo Titanic Bausteinsatz 1021 Stück Ziegel für Kinder'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01NARCK9H/?tag=tolees0ca-21'
 descuento: '42.00'
 average: '57.99'

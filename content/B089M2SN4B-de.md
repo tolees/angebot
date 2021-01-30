@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Symiu Montessori Spielzeug Holzbausteine Bauklötze Werkbank Werkzeugkoffer Holzspielzeug Kinderspielzeug Lernspiele ab 3 4 5 Jahren Geschenk für Mädchen Jungen Kinder'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B089M2SN4B/?tag=tolees0ca-21'
 descuento: '29.18'
 average: '16.99'

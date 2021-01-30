@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Timezone Herren Straight Leg Hose BenitoTZ cargo pants incl. belt  Gr. W34/L36  Beige  dirty sand 6166 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00KFF9WJ0/?tag=tolees0ca-21'
 descuento: '43.60'
 average: '45.09'

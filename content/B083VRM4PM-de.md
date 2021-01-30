@@ -16,6 +16,7 @@ comparePrice: 165.98 EUR
 prodname: 'Kepae Acryl Vitrine für Lego 42083 Technic Bugatti Chiron  Durchsichtigen Kästen Autos Modell Vitrinen Staubfreien Display Boxen Schaukasten  Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083VRM4PM/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '82.99'

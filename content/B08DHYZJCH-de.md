@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'ieGeek Überwachungskamera Aussen  WLAN IP Kamera 1080P WiFi Kamera mit 5dBi WiFi Antenne  Zweiwege-Audio  PIR Bewegungserkennung  Infrarot Nachtsicht 30m  Fernzugriff'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08DHYZJCH/?tag=tolees0ca-21'
 descuento: '25.00'
 average: '59.99'

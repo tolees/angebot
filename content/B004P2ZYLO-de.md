@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Umarex  Spitzkopf  4 5mm für Diabolo Cobra Luftpistolen  super perforierend  500 Stück'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004P2ZYLO/?tag=tolees0ca-21'
 descuento: '15.92'
 average: '8.4'

@@ -16,6 +16,7 @@ comparePrice: 8.76 EUR
 prodname: 'Murder Ballads  2011-Remaster '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004KX5KTO/?tag=tolees0ca-21'
 descuento: '51.03'
 average: '4.29'

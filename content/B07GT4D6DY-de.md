@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Sony SRS-XB01 tragbarer Bluetooth Lautsprecher  Extra Bass  6h Akku  Spritzwassergeschützt  gelb'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GT4D6DY/?tag=tolees0ca-21'
 descuento: '45.59'
 average: '18.99'

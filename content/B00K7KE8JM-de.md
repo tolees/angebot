@@ -16,6 +16,7 @@ comparePrice: 57.95 EUR
 prodname: 'Blomus 68812 Seifenspender Areo  Edelstahl poliert'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00K7KE8JM/?tag=tolees0ca-21'
 descuento: '30.27'
 average: '40.41'

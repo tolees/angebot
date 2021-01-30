@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'PopSockets - Ausziehbarer  Nicht Austauschbarer  Sockel und Griff für Smartphone und Tablet - Black'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00UY1YTGG/?tag=tolees0ca-21'
 descuento: '61.24'
 average: '5.81'

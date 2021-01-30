@@ -16,6 +16,7 @@ comparePrice: 899.0 EUR
 prodname: 'Samsung Galaxy Tab S6 T865  10.5 Zoll  LTE  mountain grey'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VVF495D/?tag=tolees0ca-21'
 descuento: '22.25'
 average: '699.0'

@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Playmobil 70013 Western Westernkutsche  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JKWPRQL/?tag=tolees0ca-21'
 descuento: '44.11'
 average: '16.073174603174603'

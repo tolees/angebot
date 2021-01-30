@@ -16,6 +16,7 @@ comparePrice: 60.62 EUR
 prodname: 'waytoplay  24 Autobahn  Building Set  Schwarz mit Weiß Striping'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076CWTFMH/?tag=tolees0ca-21'
 descuento: '17.21'
 average: '50.19'

@@ -16,6 +16,7 @@ comparePrice: 17.18 EUR
 prodname: 'Hellboy – Call of Darkness BD  Ltd. Steelbook  [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PYJ45KN/?tag=tolees0ca-21'
 descuento: '40.05'
 average: '10.3'

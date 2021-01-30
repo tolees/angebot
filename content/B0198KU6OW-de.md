@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 6356 S1 No Actionfigur Fairy Tail: Natsu  Multi  Einheitsgröße'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0198KU6OW/?tag=tolees0ca-21'
 descuento: '42.89'
 average: '7.99'

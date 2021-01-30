@@ -16,6 +16,7 @@ comparePrice: 56.04 EUR
 prodname: 'Canon PGI-580 BK / CLI-581 BK/C/M/Y Druckertinte - Pigment- und Farbstofftinte Multipack für PIXMA Tintenstrahldrucker ORIGINAL'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0759KBZKY/?tag=tolees0ca-21'
 descuento: '31.32'
 average: '38.49'

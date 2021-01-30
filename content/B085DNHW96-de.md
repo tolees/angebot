@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: '100 Blatt A4 Farbigen Kopierpapier Papier  Set aus 10 Farben  bunte Blätter in 80g/m²  für Drucker DIY Kunst Handwerk Kopierpapier farbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B085DNHW96/?tag=tolees0ca-21'
 descuento: '16.68'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Hasbro Gaming B7063100 - Pie Face Partyspiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00YGZ4QE6/?tag=tolees0ca-21'
 descuento: '46.79'
 average: '16.49'

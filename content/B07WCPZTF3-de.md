@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'Salomon Herren XA PRO 3D V8 GTX  Leichte Schuhe für Trail Running und Wandern  Wasserdicht  Schwarz  Black/Black/Black   43 1/3 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: 'Salomon'
 buyurl: 'https://www.amazon.de/dp/B07WCPZTF3/?tag=tolees0ca-21'
 descuento: '30.01'
 average: '112.98'

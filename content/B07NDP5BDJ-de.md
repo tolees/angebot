@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'G-STAR RAW Herren Graphic 17 Core Round Neck Sweatshirt  Rosa  dk Tea Rose A827    Herstellergröße:XL '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NDP5BDJ/?tag=tolees0ca-21'
 descuento: '50.01'
 average: '44.97'

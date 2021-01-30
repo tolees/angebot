@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Men’s Tilden Walk Derby  Schwarz  Black Leather   42 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00TTJF882/?tag=tolees0ca-21'
 descuento: '67.49'
 average: '25.99'

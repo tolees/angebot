@@ -16,6 +16,7 @@ comparePrice: 219.99 EUR
 prodname: 'Netgear AC810-100EUS LTE Router/Mobiler WLAN Router  WiFi Hotspot  4G Router  bis zu 600 Mbit/s  802.11ac Standard  Cat 11  Powerbank  ohne SIM-Lock '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01FUZE5H8/?tag=tolees0ca-21'
 descuento: '27.52'
 average: '159.45'

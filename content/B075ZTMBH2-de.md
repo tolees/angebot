@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'X-WATCH 54010 "SIONA XW FIT" Damen Smartwatch  Activity Tracker für Android und Apple iOS Light Rose Gold'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075ZTMBH2/?tag=tolees0ca-21'
 descuento: '15.00'
 average: '48.536'

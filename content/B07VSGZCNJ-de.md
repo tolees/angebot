@@ -16,6 +16,7 @@ comparePrice: 58.99 EUR
 prodname: 'Microsoft Xbox Wireless Controller  Night Ops Camo  Special Edition'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VSGZCNJ/?tag=tolees0ca-21'
 descuento: '32.21'
 average: '39.99'

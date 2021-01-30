@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'B. toys by Battat – B. Pet Vet – Tierarztkoffer mit Arzt Zubehör und Plüschtieren für Kinder ab 2 Jahren  8 Teile '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00IZDL3CS/?tag=tolees0ca-21'
 descuento: '34.53'
 average: '39.25'

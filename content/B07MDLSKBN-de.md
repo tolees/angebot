@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'LIGHTAILING Licht-Set Für  Ghostbusters Ecto-1  Modell - LED Licht-Set Kompatibel Mit Lego 21108 Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MDLSKBN/?tag=tolees0ca-21'
 descuento: '62.51'
 average: '29.99'

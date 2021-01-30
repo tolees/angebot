@@ -16,6 +16,7 @@ comparePrice: 18.8 EUR
 prodname: 'SmartQian 9/10 Paar Sneaker Socken Herren Damen Baumwollsocken Kurze Männer Halbsocken Sportsocken Unisex（Schwarz×5 | Grau×5  43-46）'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08CBXX9XQ/?tag=tolees0ca-21'
 descuento: '28.56'
 average: '13.43'

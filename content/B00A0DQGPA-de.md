@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Clementoni 13405.2 - Memo Kompakt Minnie'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00A0DQGPA/?tag=tolees0ca-21'
 descuento: '39.88'
 average: '3.0'

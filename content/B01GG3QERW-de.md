@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'NINETEC Luna Wireless Home Bluetooth NFC Speaker Lautsprecher 22 Watt 360 Sound 2x 8W Tieftonlautsprecher - 2x 3W Hochtonlautsprecher Subwoofer Freisprechfunktion Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01GG3QERW/?tag=tolees0ca-21'
 descuento: '40.00'
 average: '51.39'

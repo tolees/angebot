@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Sylvanian Families 2239 - Garten-Grill-Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HRRDP88/?tag=tolees0ca-21'
 descuento: '17.22'
 average: '19.86'

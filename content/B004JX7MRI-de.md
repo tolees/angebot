@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Yankee Candle große Duftkerze im Glas  Soft Blanket  Brenndauer bis zu 150 Stunden'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004JX7MRI/?tag=tolees0ca-21'
 descuento: '22.74'
 average: '23.1'

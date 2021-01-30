@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Segafredo Kaffee Espresso - Intermezzo  1000g Bohnen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000FWHX12/?tag=tolees0ca-21'
 descuento: '22.87'
 average: '11.68'

@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Potensic GPS Drohne  FPV RC Quadrocopter  2K HD Kamera  Bürstenloser Motor  Dual GPS  5 0 GHz WiFi Live Übertragung  16 min Flugzeit  Eine Taste Start / Landung  Kopflos Modus  mit Koffer D80'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CQW1RKC/?tag=tolees0ca-21'
 descuento: '27.78'
 average: '129.99'

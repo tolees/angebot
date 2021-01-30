@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Hasbro Spiele B5355100 - Honigklau im Bienenbau  Vorschulspiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01FK4AGRM/?tag=tolees0ca-21'
 descuento: '61.31'
 average: '12.440000000000001'

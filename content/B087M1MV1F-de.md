@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Banane NEU 2020 2 Paar Niedlicher Ersatz Silikon Analog Controller Joystick Daumenstiel Griffe Kappenabdeckung Für Switch/LITE Controller-Blätter  Grün '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B087M1MV1F/?tag=tolees0ca-21'
 descuento: '50.21'
 average: '3.235'

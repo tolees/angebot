@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Wenko Herdabdeckplatte Universal Brooklyn Bridge  2er Set Herdabdeckung für alle Herdarten  Gehärtetes Glas  30 x 52 cm  mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00576BSYO/?tag=tolees0ca-21'
 descuento: '45.45'
 average: '16.36'

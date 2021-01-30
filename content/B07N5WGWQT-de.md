@@ -16,6 +16,7 @@ comparePrice: 10.35 EUR
 prodname: 'Funko 38578 POP Vinyl: Big Bang Theory S2: Howard Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07N5WGWQT/?tag=tolees0ca-21'
 descuento: '15.94'
 average: '10.106428571428571'

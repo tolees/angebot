@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Pioneer GM D1004 Verstärker für Kfz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00PAQGYKE/?tag=tolees0ca-21'
 descuento: '44.76'
 average: '76.79'

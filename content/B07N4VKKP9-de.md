@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Jeans Damen TJW MODERN Logo Hoodie Sweatshirt  Grau  Grey PPP    Herstellergröße:M '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07N4VKKP9/?tag=tolees0ca-21'
 descuento: '49.96'
 average: '49.99'

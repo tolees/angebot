@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'LED Unterbauleuchte Schrankleuchte Heller Lichtleiste mit Schalter LED-Küche unter Schrankbeleuchtung für Regale Vitrinen Küchenlampen 12V Adapter 1100 LM 2700K 2m warmweiß，Energieklasse A+，4er Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Y7XNLGF/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '15.99'

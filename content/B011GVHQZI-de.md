@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Mousehouse Gifts Rote Dinosaurier Kinder Spardose Sparbüchse für Jungen und Mädchen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B011GVHQZI/?tag=tolees0ca-21'
 descuento: '22.23'
 average: '13.99'

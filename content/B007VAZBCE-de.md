@@ -16,6 +16,7 @@ comparePrice: 643.96 EUR
 prodname: 'Tamron 24-70mm F/2 8 Weitwinkelobjektiv mit USD-Motor und Spritzwasserschutz für Sony schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007VAZBCE/?tag=tolees0ca-21'
 descuento: '50.31'
 average: '320.0'

@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Playmobil 9078 - Einkaufspassage'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LX4US13/?tag=tolees0ca-21'
 descuento: '52.13'
 average: '42.966406250000006'

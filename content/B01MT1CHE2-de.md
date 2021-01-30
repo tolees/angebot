@@ -16,6 +16,7 @@ comparePrice: 309.0 EUR
 prodname: 'Huawei Mate 9  14 9 cm  5 9 Zoll   64GB  12 Megapixel Kamera  Android 7.0  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MT1CHE2/?tag=tolees0ca-21'
 descuento: '22.33'
 average: '243.29333333333332'

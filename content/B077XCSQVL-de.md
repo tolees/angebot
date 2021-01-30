@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Ravensburger Kinderspiele 21353 Monsterstarker Glibberklatsch'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077XCSQVL/?tag=tolees0ca-21'
 descuento: '49.56'
 average: '13.893333333333333'

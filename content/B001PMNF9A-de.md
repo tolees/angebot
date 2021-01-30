@@ -16,6 +16,7 @@ comparePrice: 5.49 EUR
 prodname: 'MONACOR WS-60 Mikrofon-Windschutz für Mikrofone schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001PMNF9A/?tag=tolees0ca-21'
 descuento: '27.32'
 average: '3.99'

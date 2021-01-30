@@ -16,6 +16,7 @@ comparePrice: 849.99 EUR
 prodname: 'MEDION P6645 39 5 cm  15 6 Zoll  Full HD Notebook  Intel Core i7-8565U  8GB DDR4 RAM  1TB HDD  256GB SSD  Nvidia GeForce MX150  Akku Schnellladefunktion  Win 10 Home '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XLTJ336/?tag=tolees0ca-21'
 descuento: '35.88'
 average: '598.3333333333334'

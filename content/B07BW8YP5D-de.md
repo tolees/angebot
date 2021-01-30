@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Jakks Pacific 32382-11L G.L.O.W. Stick  Mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BW8YP5D/?tag=tolees0ca-21'
 descuento: '77.27'
 average: '6.9350000000000005'

@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego Star Wars Y-Wing Starfighter  Kompatibel Mit Lego 75181 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TSJZB5V/?tag=tolees0ca-21'
 descuento: '52.64'
 average: '33.30914893617022'

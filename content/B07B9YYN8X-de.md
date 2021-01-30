@@ -16,6 +16,7 @@ comparePrice: 237.9 EUR
 prodname: 'Keter Kissenbox Ontario  graphit'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B9YYN8X/?tag=tolees0ca-21'
 descuento: '20.98'
 average: '187.99'

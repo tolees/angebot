@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Salomon Damen Trail Running Schuhe  SPEEDCROSS 4 W  Farbe: schwarz  black/black/black metallic  Größe: EU 38 2/3'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B017SQZQ34/?tag=tolees0ca-21'
 descuento: '37.90'
 average: '74.49'

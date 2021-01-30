@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Kronenschein® Premium Herren Geldbörse mit Geldklammer Portemonnaie klein Geldbeutel Männer Portmonee RFID Portmonaise Slim Wallet Geldtasche Brieftasche Kreditkartenetui Kartenetui Geldclip'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078LRBKVZ/?tag=tolees0ca-21'
 descuento: '39.92'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Echo Plus  2. Gen.   mit Premiumklang und integriertem Smart Home-Hub  Hellgrau Stoff'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CT3VM3H/?tag=tolees0ca-21'
 descuento: '33.34'
 average: '99.99'

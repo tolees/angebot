@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'PLAYMOBIL Family Fun 70091 Sportboot mit Fun-Reifen  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JLRX3CV/?tag=tolees0ca-21'
 descuento: '31.12'
 average: '13.767272727272728'

@@ -16,6 +16,7 @@ comparePrice: 199.9 EUR
 prodname: 'Sony MDR-XB950B1 Drahtloser Extrabass Kopfhörer - Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MT7AJLW/?tag=tolees0ca-21'
 descuento: '63.01'
 average: '73.95'

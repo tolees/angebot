@@ -16,6 +16,7 @@ comparePrice: 40.39 EUR
 prodname: 'Hasbro Game Night - [Nintendo Switch]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HSLVBN2/?tag=tolees0ca-21'
 descuento: '23.25'
 average: '31.0'

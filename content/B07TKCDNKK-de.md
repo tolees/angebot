@@ -16,6 +16,7 @@ comparePrice: 8.5 EUR
 prodname: 'iBetter für Google Pixel 4 Hülle  Ultra Thin Tasche Cover Silikon Handyhülle Stoßfest Case Schutzhülle Shock Absorption Backcover Hüllen passt für Google Pixel 4 Smartphone  Schwarz '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TKCDNKK/?tag=tolees0ca-21'
 descuento: '41.76'
 average: '4.95'

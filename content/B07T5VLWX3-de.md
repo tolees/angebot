@@ -16,6 +16,7 @@ comparePrice: 799.0 EUR
 prodname: 'Acer TravelMate P2  TMP215-51-83MD  39 6 cm  15 6 Zoll Full-HD IPS  Business-Laptop  Intel Core i7-8550U  8 GB RAM  512 GB PCIe SSD  Intel UHD  Win 10 Pro  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07T5VLWX3/?tag=tolees0ca-21'
 descuento: '58.70'
 average: '330.0'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Schiesser Damen Slip Tai  3er Pack  Gr. 40  Schwarz  schwarz 000 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00KHTLFOY/?tag=tolees0ca-21'
 descuento: '50.92'
 average: '14.7'

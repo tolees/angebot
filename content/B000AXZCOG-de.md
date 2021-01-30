@@ -16,6 +16,7 @@ comparePrice: 5.59 EUR
 prodname: 'All for You'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000AXZCOG/?tag=tolees0ca-21'
 descuento: '29.87'
 average: '3.92'

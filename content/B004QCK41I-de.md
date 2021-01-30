@@ -16,6 +16,7 @@ comparePrice: 138.0 EUR
 prodname: 'Hamax Kindersitz Fahrrad hinten Caress Testsieger schwarz Kinderfahrradsitz Baby'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004QCK41I/?tag=tolees0ca-21'
 descuento: '25.37'
 average: '102.99'

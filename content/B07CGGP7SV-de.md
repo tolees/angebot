@@ -16,6 +16,7 @@ comparePrice: 92.6 EUR
 prodname: 'Samsung MZ-V7E500BW 970 EVO 500 GB NVMe M.2 Interne SSD Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CGGP7SV/?tag=tolees0ca-21'
 descuento: '20.19'
 average: '81.5417857142857'

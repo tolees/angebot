@@ -16,6 +16,7 @@ comparePrice: 999.0 EUR
 prodname: 'Samyang 24mm F3.5 T/S Objektiv für Anschluss Micro Four Thirds'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00TS9HY6M/?tag=tolees0ca-21'
 descuento: '40.59'
 average: '593.46'

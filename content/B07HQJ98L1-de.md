@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Microsoft Office 2019 Home & Student multilingual | 1 PC  Windows 10  /Mac | Dauerlizenz | Download'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HQJ98L1/?tag=tolees0ca-21'
 descuento: '35.58'
 average: '109.185'

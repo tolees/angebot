@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Apple AirPods mit kabellosem Ladecase  2. Generation '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PYM8FB8/?tag=tolees0ca-21'
 descuento: '26.20'
 average: '169.0'

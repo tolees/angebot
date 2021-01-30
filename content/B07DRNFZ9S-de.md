@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Michael Kors Damen Voyager bag  Schwarz  Black   15x27x34 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DRNFZ9S/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '127.99'

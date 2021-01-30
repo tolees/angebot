@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'ONLY Female Skinny Fit Jeans ONLRain reg XL30Black Denim'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071FD3RZ8/?tag=tolees0ca-21'
 descuento: '18.67'
 average: '21.965'

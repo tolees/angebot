@@ -16,6 +16,7 @@ comparePrice: 1549.0 EUR
 prodname: 'Apple iPhone XS  512 GB  - Space Grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HBCSYLL/?tag=tolees0ca-21'
 descuento: '35.44'
 average: '1099.33'

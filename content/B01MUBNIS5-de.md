@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Citizen Herren Analog Mechanisch Uhr mit Kunststoff Armband NH8380-15EE'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MUBNIS5/?tag=tolees0ca-21'
 descuento: '31.75'
 average: '129.0'

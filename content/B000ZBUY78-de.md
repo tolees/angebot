@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Seiko Damenuhr Analog Automatisch mit Edelstahlarmband – SYMC07K1'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000ZBUY78/?tag=tolees0ca-21'
 descuento: '39.55'
 average: '77.98'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Auto Starthilfe  TACKLIFE T6 800A 18000mAh Tragbare Starthilfe Powerbank für 12V Fahrzeuge  bis zu 7L Benzin 5.5L Dieselmotor   Autobatterie Anlasser mit Quick Charge 3.0  Dual USB  LED Taschenlampe'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07L95HCN9/?tag=tolees0ca-21'
 descuento: '22.22'
 average: '69.99'

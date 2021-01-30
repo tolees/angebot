@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Tefal E79071 Jamie Oliver Induction Servierpfanne mit 2 Seitengriffen und Glasdeckel  25 cm  2 8L  Edelstahl'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B018GOP8K8/?tag=tolees0ca-21'
 descuento: '16.56'
 average: '27.47'

@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'UGG Female Mini Bailey Bow II Classic Boot  Black  8  UK '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01E96YCCM/?tag=tolees0ca-21'
 descuento: '48.90'
 average: '102.17'

@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'normani Palettenkissen Set Sofa Sitzkissen mit Rückenkissen Outdoor Palettenauflagen  Sitzkissen Gesteppt 120x80  Farbe Hellgrau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B086WCXWF3/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '51.96'

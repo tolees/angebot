@@ -16,6 +16,7 @@ comparePrice: 216.84 EUR
 prodname: 'Seagate Expansion Desktop  10 TB  externe Festplatte  3.5 Zoll  USB 3.0  PC  Xbox  PS4  ModelNr.: STEB10000400'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NPMMZ8C/?tag=tolees0ca-21'
 descuento: '17.45'
 average: '179.0'

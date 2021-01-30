@@ -16,6 +16,7 @@ comparePrice: 112.37 EUR
 prodname: 'Jade Roller und Gua Sha Scraping Gesichts-Tools Set  Rosenquarz Gesichts Roller  100% echter Jade Stone  natürliche Anti-Aging-Gesichts-Massage-Kit  Treat Eye Taschen Akne kosmetische'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DN1KCYN/?tag=tolees0ca-21'
 descuento: '73.31'
 average: '29.99'

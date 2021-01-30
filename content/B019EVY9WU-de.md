@@ -16,6 +16,7 @@ comparePrice: 349.95 EUR
 prodname: 'Mobicool FR40  elektrische Kompressor-Kühlbox mit 38 Liter Fassungsvermögen  12/24 V und 230 V für Auto  Lkw  Boot und Steckdose'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B019EVY9WU/?tag=tolees0ca-21'
 descuento: '26.04'
 average: '258.81'

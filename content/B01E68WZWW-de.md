@@ -16,6 +16,7 @@ comparePrice: 2.78 EUR
 prodname: 'Sensodyne MultiCare Original Zahnpasta  Tägliche Zahnpasta mit Fluorid  1x75ml  bei schmerzempfindlichen Zähnen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01E68WZWW/?tag=tolees0ca-21'
 descuento: '20.14'
 average: '2.22'

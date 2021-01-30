@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego Ideas Doctor Who  Kompatibel Mit Lego 21304 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W6CFWDH/?tag=tolees0ca-21'
 descuento: '45.46'
 average: '29.99'

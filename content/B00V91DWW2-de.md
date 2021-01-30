@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 021421 S2 No Actionfigur Sesame Street: Grover  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00V91DWW2/?tag=tolees0ca-21'
 descuento: '21.44'
 average: '10.99'

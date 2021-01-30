@@ -16,6 +16,7 @@ comparePrice: 14.61 EUR
 prodname: 'Wer Sagt Denn Das?'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SRF1NLD/?tag=tolees0ca-21'
 descuento: '45.31'
 average: '7.99'

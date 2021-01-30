@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'MEATER Plus | Das ultimative kabellose smarte Fleischthermometer mit 50m Reichweite | Für Ofen  Grill  Pfanne und Rotisserie | Perfekter Fleischgenuss via App'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07H8WTFHW/?tag=tolees0ca-21'
 descuento: '24.40'
 average: '89.96'

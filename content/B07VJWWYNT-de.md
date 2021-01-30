@@ -16,6 +16,7 @@ comparePrice: 12.49 EUR
 prodname: 'Die drei !!! [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VJWWYNT/?tag=tolees0ca-21'
 descuento: '47.96'
 average: '6.5'

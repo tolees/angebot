@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Herren Rovic Zip 3d Straight Tapered Hose  Schwarz  raven 5126-976   W32 / 34L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BGTWA6U/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '79.96'

@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Mattel GGH45 - Toy Story 4 Super Action Buzz Lightyear Actionfigur  17 cm  deutschsprachig  Spielzeug ab 3 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P3DFPM3/?tag=tolees0ca-21'
 descuento: '37.25'
 average: '28.259999999999998'

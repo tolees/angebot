@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'home3000 CD-Designregal in Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00O27SENC/?tag=tolees0ca-21'
 descuento: '16.68'
 average: '49.95'

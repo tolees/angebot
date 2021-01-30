@@ -16,6 +16,7 @@ comparePrice: 449.95 EUR
 prodname: 'BOSE Lautsprecher Bass Module 500 Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G8R9BPN/?tag=tolees0ca-21'
 descuento: '26.88'
 average: '329.0'

@@ -16,6 +16,7 @@ comparePrice: 85.99 EUR
 prodname: 'SanDisk Extreme Portable SSD externe Festplatte 250GB  SSD extern 2 5 Zoll  550 MB/s Übertragungsraten  stoßfest  AES-Verschlüsselung wasser- und staubfest  grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078SVRH4B/?tag=tolees0ca-21'
 descuento: '27.46'
 average: '62.38'

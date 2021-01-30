@@ -16,6 +16,7 @@ comparePrice: 28.48 EUR
 prodname: 'Playmobil 9091 - RC-Rock n Roll-Racer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LX4TJJJ/?tag=tolees0ca-21'
 descuento: '19.59'
 average: '26.719375'

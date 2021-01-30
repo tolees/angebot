@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Relaxdays Wandregal 3er Set  dekorative U-form Wandboards  kleine Holz-Regalbretter 10 cm tief  bis 40 cm breit  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B1P44TS/?tag=tolees0ca-21'
 descuento: '28.84'
 average: '24.9'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Dextro Energy Eiweißpulver Whey und Casein Protein inkl. Protein Shaker | 750g Vanille Proteinpulver ohne Zuckerzusatz | Ideal für Protein Pancake'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WMFXKT6/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '23.99'

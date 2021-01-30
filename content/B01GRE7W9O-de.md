@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Logitech C925E Business Webcam  mit 1080p und integrierter Abdeckblende  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01GRE7W9O/?tag=tolees0ca-21'
 descuento: '48.62'
 average: '58.27333333333333'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Seidensticker Herren Business Hemd Slim Fit – Bügelfreies  schmales Hemd mit Kent-Kragen – Langarm – 100% Baumwolle   Weiß  Weiß 01    41 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01D3VZWDC/?tag=tolees0ca-21'
 descuento: '33.91'
 average: '33.04'

@@ -16,6 +16,7 @@ comparePrice: 32.95 EUR
 prodname: 'Black+Decker Akku-Handstaubsauger Dustbuster  3.6V Lithium  Handsauger beutellos + kabellos  breite Saugöffnung  Abnehmbarer Staubfangbehälter  inkl. Ladekabel  NVC115JL'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07L6X4K3T/?tag=tolees0ca-21'
 descuento: '27.19'
 average: '23.99'

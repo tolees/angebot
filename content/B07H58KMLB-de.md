@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Garmin Instinct – wasserdichte Sport-Smartwatch mit Smartphone Benachrichtigungen und Sport-/Fitnessfunktionen mit GPS  14 Tage Akkulaufzeit  Feuerrot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07H58KMLB/?tag=tolees0ca-21'
 descuento: '37.00'
 average: '189.0'

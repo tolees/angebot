@@ -16,6 +16,7 @@ comparePrice: 79.72 EUR
 prodname: 'Crucial Ballistix Sport LT BLS2K8G4D30AESEK Desktop Gaming Speicher Kit  3000 MHz  DDR4  DRAM  16GB  8GB x2  CL15  rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07M5RLBKF/?tag=tolees0ca-21'
 descuento: '25.74'
 average: '59.2'

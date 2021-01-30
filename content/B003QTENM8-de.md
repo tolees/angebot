@@ -16,6 +16,7 @@ comparePrice: 84.94 EUR
 prodname: 'Invicta 9223 Speedway Unisex Uhr Edelstahl Quarz schwarzen Zifferblat'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003QTENM8/?tag=tolees0ca-21'
 descuento: '15.12'
 average: '72.1'

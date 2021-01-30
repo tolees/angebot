@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Playmobil 70099 Magic Perlensammler mit Rochen  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JLFKJVL/?tag=tolees0ca-21'
 descuento: '28.45'
 average: '18.518095238095242'

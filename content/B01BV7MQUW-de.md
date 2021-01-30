@@ -16,6 +16,7 @@ comparePrice: 62.51 EUR
 prodname: 'Chicco Fahrzeuge mit Funktion  Fiat 500 Driver'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BV7MQUW/?tag=tolees0ca-21'
 descuento: '29.93'
 average: '43.8'

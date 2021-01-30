@@ -16,6 +16,7 @@ comparePrice: 409.23 EUR
 prodname: 'Akku-Set 18 V / 5 Ah  DCD796 / DCF887 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01EWNGZ4U/?tag=tolees0ca-21'
 descuento: '16.43'
 average: '342.0'

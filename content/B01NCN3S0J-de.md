@@ -16,6 +16,7 @@ comparePrice: 595.49 EUR
 prodname: 'HP 410X  CF252XM  Multipack Original Toner  Blau  Magenta  Gelb  mit hoher Reichweite für HP Color Laserjet Pro M452  HP Color Laserjet Pro M477'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01NCN3S0J/?tag=tolees0ca-21'
 descuento: '36.78'
 average: '376.49'

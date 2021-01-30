@@ -16,6 +16,7 @@ comparePrice: 449.0 EUR
 prodname: 'LG Beamer PF1500G bis 304 8 cm  120 Zoll  CineBeam Full HD LED Projektor  1400 Lumen  Optischer Zoom  4-Punkt Trapezkorrektur   weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01FSPZDSK/?tag=tolees0ca-21'
 descuento: '33.18'
 average: '312.5'

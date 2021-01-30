@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Gardena Textilschlauch Liano Set 30m: flexibler und robuster Gartenschlauch aus Textilgewebe  Schlauch ideal für Balkon und Terrasse  kein Knicken oder Verdrehen  schwarz/anthrazit/orange  18438-20 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KWCYWM1/?tag=tolees0ca-21'
 descuento: '18.89'
 average: '56.77'

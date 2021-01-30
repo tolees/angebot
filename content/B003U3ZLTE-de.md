@@ -16,6 +16,7 @@ comparePrice: 36.9 EUR
 prodname: 'Intenso Photobase Digitaler Bilderrahmen  20 3cm  8 Zoll  Display  SD Kartenslot  Fernbedienung  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003U3ZLTE/?tag=tolees0ca-21'
 descuento: '24.39'
 average: '27.9'

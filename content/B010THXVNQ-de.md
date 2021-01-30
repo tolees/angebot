@@ -16,6 +16,7 @@ comparePrice: 2299.0 EUR
 prodname: 'Sony Alpha 7RM2 E-Mount Vollformat Digitalkamera ILCE-7RM2  42 4 Megapixel  7 6cm  3 Zoll  TFT-Display  4K Video  5-Achsen-Bildstabilisierung  nur Gehäuse  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B010THXVNQ/?tag=tolees0ca-21'
 descuento: '63.03'
 average: '850.0'

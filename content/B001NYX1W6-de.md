@@ -16,6 +16,7 @@ comparePrice: 24.89 EUR
 prodname: 'KS Tools 515.1432 3/4" Sechskant-Kraft-Stecknuss  lang  32mm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001NYX1W6/?tag=tolees0ca-21'
 descuento: '33.31'
 average: '16.6'

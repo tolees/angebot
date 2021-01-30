@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Geschenke 24 Schlüsselanhänger Schönster Tag in Schwarz – gravierter Schlüssel Anhänger im Kalender Design - mit Wunschtag  Monat und Jahr personalisiert – optional mit Wunschgravur'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KRG167V/?tag=tolees0ca-21'
 descuento: '23.54'
 average: '12.99'

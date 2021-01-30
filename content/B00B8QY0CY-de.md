@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'FjällRäven Kanken ochre'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00B8QY0CY/?tag=tolees0ca-21'
 descuento: '15.56'
 average: '75.99'

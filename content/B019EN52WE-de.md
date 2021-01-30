@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Engtanz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B019EN52WE/?tag=tolees0ca-21'
 descuento: '23.78'
 average: '6.09'

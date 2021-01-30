@@ -16,6 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'Archos Hello 10 Home Assistent  10 1“ HD Display  16 GB Speicher  vollwertiges Android 8 Tablet  kraftvoller Sound  eingebauter Akku  Smart Home Steuerung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B012TATO0K/?tag=tolees0ca-21'
 descuento: '31.59'
 average: '157.34'

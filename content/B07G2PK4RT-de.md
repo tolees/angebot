@@ -16,6 +16,7 @@ comparePrice: 12.27 EUR
 prodname: 'Dionysus'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G2PK4RT/?tag=tolees0ca-21'
 descuento: '43.03'
 average: '6.99'

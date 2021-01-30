@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Oriware Spülbecken Organizer für die Küche Caddy Ordnungshelfer Küchenutensilienhalter Rostfreier Edelstahl – 25 x 15 x 15 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CWNRKMQ/?tag=tolees0ca-21'
 descuento: '28.58'
 average: '24.99'

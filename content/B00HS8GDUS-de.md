@@ -16,6 +16,7 @@ comparePrice: 13.82 EUR
 prodname: 'Barbara Becker präsentiert das Bauch  Beine  Po-Bootcamp Miami / New York'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HS8GDUS/?tag=tolees0ca-21'
 descuento: '66.06'
 average: '4.69'

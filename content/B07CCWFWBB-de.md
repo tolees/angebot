@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'OSRAM SMART+ LED Filament Globe  Bluetooth Lampe mit E27 Sockel  dimmbar  ersetzt 50W Glühbirne  warmweiß   Kompatibel mit Apple Homekit und LEDVANCE Smart+ App für Android'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CCWFWBB/?tag=tolees0ca-21'
 descuento: '67.87'
 average: '12.85'

@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'ONLY Damen Onlmariana Myrina S/S Det Dress Noos WVN Kleid  Schwarz  Black Black    Herstellergröße:40.0 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PZ37JNR/?tag=tolees0ca-21'
 descuento: '22.23'
 average: '20.99'

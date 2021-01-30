@@ -16,6 +16,7 @@ comparePrice: 275.98 EUR
 prodname: 'XIDU PhilMac Mini PC Al-Legierung Windows 10  8GB DDR4  128GB eMMC  Intel Celeron J4115  4K Mini Computer mit HDMI/VGA/Gigabit Ethernet / 3xUSB 3.0 / SD-Karte  Dual Band WiFi  BT 4.2  Space Grau '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B088JYX5N2/?tag=tolees0ca-21'
 descuento: '16.66'
 average: '229.99'

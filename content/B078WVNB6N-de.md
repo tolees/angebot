@@ -16,6 +16,7 @@ comparePrice: 16.5 EUR
 prodname: 'Paco Home Designer Teppich Kurzflor Wohnzimmer Vintage Look Modern In Grau Creme  Grösse:80x150 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078WVNB6N/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '13.2'

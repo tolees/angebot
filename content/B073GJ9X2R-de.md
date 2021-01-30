@@ -16,6 +16,7 @@ comparePrice: 76.74 EUR
 prodname: 'ALTRAD-FORT FO37990 Universal-Schubkarre 90 L Boxer-90 kartonverpackt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B073GJ9X2R/?tag=tolees0ca-21'
 descuento: '18.03'
 average: '62.9'

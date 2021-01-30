@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Tassimo Kapseln Jacobs Typ Latte Macchiato Classico  40 Kaffeekapseln  5er Pack  5 x 8 Getränke'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B015FR2TZQ/?tag=tolees0ca-21'
 descuento: '32.14'
 average: '17.27'

@@ -16,6 +16,7 @@ comparePrice: 1.41 EUR
 prodname: 'NIVEA Pflegedusche Love Splash  250 ml   erfrischendes Duschgel mit natürlichen Meeresmineralien  pH-hautneutrale Dusche mit ozeanfrischem Duft'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YZ9PCBY/?tag=tolees0ca-21'
 descuento: '24.82'
 average: '1.06'

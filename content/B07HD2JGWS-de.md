@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Mattel GGX27 - Toy Story 4 Bunny  17 cm Spielzeug Actionfigur ab 3 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HD2JGWS/?tag=tolees0ca-21'
 descuento: '55.86'
 average: '7.468333333333333'

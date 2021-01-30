@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'LED Streifen 5m RGB Sylvwin LED Strip Lichterkette mit Fernbedienung LED Stripes Lichtband Selbstklebend mit 16 Farbwechsel 4 Modi für Zuhause Schlafzimmer TV Schrankdeko  Party SMD 5050 LED Bänder'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08HQ66VXQ/?tag=tolees0ca-21'
 descuento: '37.05'
 average: '16.99'

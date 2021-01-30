@@ -16,6 +16,7 @@ comparePrice: 349.95 EUR
 prodname: 'Beats Studio3 Over-Ear Bluetooth Kopfhörer mit Noise-Cancelling – Apple W1 Chip  Bluetooth der Klasse 1  aktives Noise-Cancelling  22 Stunden Wiedergabe – Blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075FGBGJW/?tag=tolees0ca-21'
 descuento: '16.22'
 average: '293.2'

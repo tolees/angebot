@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Mattel GGX34 - Toy Story 4 Woody Figur  17 cm Spielzeug Actionfigur ab 3 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HD1ZGGK/?tag=tolees0ca-21'
 descuento: '20.60'
 average: '13.49'

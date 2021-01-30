@@ -16,6 +16,7 @@ comparePrice: 9.45 EUR
 prodname: 'LogiLink MP0032 Modular Splitter 4Port RJ45  geschirmt  mit 15 cm Kabel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00J3XIAH0/?tag=tolees0ca-21'
 descuento: '19.05'
 average: '7.65'

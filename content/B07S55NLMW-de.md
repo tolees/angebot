@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'FIFA 20 - Standard Edition - [PlayStation 4]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07S55NLMW/?tag=tolees0ca-21'
 descuento: '44.28'
 average: '41.29916666666667'

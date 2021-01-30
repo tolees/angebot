@@ -16,6 +16,7 @@ comparePrice: 11.88 EUR
 prodname: 'Funko POP Alita Battle Angel Berserk'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFDQLLS/?tag=tolees0ca-21'
 descuento: '56.57'
 average: '9.1375'

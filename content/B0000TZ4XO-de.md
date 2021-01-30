@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Ravensburger 21570 Der Maulwurf und sein Lieblingsspiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0000TZ4XO/?tag=tolees0ca-21'
 descuento: '34.80'
 average: '14.99'

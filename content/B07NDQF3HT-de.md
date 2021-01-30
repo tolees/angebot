@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Ravensburger 08066 Abenteuer mit TKKG'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NDQF3HT/?tag=tolees0ca-21'
 descuento: '44.94'
 average: '5.5'

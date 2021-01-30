@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Jeans Herren  Scanton   Slim Jeans Blau  Cobalt Light Bl St 911  W32/L34  Herstellergröße: 3432 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HH1KPG6/?tag=tolees0ca-21'
 descuento: '43.00'
 average: '56.94'

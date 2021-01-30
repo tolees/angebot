@@ -16,6 +16,7 @@ comparePrice: 27.89 EUR
 prodname: 'The Witcher 3: Wild Hunt - Game of the Year Edition - [Xbox One]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B010V93XVC/?tag=tolees0ca-21'
 descuento: '33.70'
 average: '18.49'

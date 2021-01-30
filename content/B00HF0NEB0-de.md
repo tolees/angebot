@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'WMF Ceramill Nature Salz und Pfeffer Mühle Set 2-teilig  unbefüllt  für Salz  Pfeffer  Chilli  Salzmühle  Pfeffermühle Holz  Keramikmahlwerk'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HF0NEB0/?tag=tolees0ca-21'
 descuento: '58.34'
 average: '24.99'

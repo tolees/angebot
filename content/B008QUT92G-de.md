@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'TAURO 22914 7 Zonen Lattenrost  90 x 200 cm  Geeignet für alle Matratzen  Kopfteil verstellbar  Komfort Lattenrost mit 28 Leisten'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B008QUT92G/?tag=tolees0ca-21'
 descuento: '59.16'
 average: '49.0'

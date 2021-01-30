@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Kommissarin Lund - Die komplette Serie - 10 Jahre Jubiläums-Edition  20 DVDs '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01IUWFAMW/?tag=tolees0ca-21'
 descuento: '33.38'
 average: '17.98'

@@ -16,6 +16,7 @@ comparePrice: 449.0 EUR
 prodname: 'Olympus PEN E-PL9 Micro Four Thirds Systemkamera  16 Megapixel  Bildstabilisator  elektronischer Sucher  4k-Video  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079LBWG6Z/?tag=tolees0ca-21'
 descuento: '25.32'
 average: '332.16499999999996'

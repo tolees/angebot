@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'bugatti Herren 311251011100 Derby  Braun  42 EU Large'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M5FRVCB/?tag=tolees0ca-21'
 descuento: '51.29'
 average: '38.94'

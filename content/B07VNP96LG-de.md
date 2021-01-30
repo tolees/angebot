@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'SCIJOY IPX6 Wireless Bluetooth Lautsprecher Wasserdicht  16W Tragbarer BT4.2 Lautsprecher  Bass Stereo mit 12 Std.-Spielzeit  Freisprechfunktion für Handy  TWS für Outdoor/Dusche/Party'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VNP96LG/?tag=tolees0ca-21'
 descuento: '35.01'
 average: '25.49'

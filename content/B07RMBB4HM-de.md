@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Razer Kraken X - Gaming Headset  Ultra leichte Gaming Headphones für PC  Mac  Xbox One  PS4 und Switch  Kopfband-Polsterung  7.1 Surround Sound  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RMBB4HM/?tag=tolees0ca-21'
 descuento: '28.50'
 average: '45.292'

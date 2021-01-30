@@ -16,6 +16,7 @@ comparePrice: 63.94 EUR
 prodname: 'Dakine Herren  Rucksack Duel  Schwarz  26L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BNVRXKE/?tag=tolees0ca-21'
 descuento: '21.82'
 average: '49.99'

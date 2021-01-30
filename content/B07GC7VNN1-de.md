@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'BREE Collection Unisex-Erwachsene Punch 93  Backpack M S19 Rucksack  Grün  Belgian Block   12x46x41 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GC7VNN1/?tag=tolees0ca-21'
 descuento: '25.49'
 average: '89.38'

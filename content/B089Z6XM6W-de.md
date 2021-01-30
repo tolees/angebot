@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Electronic Arts - FIFA 21 Standard Xbox One - Download Code [inkl. kostenlosem Upgrade auf Xbox Series X]'
 country: 'de'
 flag: '🇩🇪'
+brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.de/dp/B089Z6XM6W/?tag=tolees0ca-21'
 descuento: '50.01'
 average: '45.2691666666667'

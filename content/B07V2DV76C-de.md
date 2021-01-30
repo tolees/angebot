@@ -16,6 +16,7 @@ comparePrice: 119.98 EUR
 prodname: 'GODNECE LED Licht-Set für Baustein  Led Beleuchtungsset Licht-Set für Baustein Spielzeug Kompatibel Mit Lego Star Wars Tantive IV 75244 Bausatz  Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07V2DV76C/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '59.99'

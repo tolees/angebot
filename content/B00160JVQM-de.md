@@ -16,6 +16,7 @@ comparePrice: 86.95 EUR
 prodname: 'Oase UVC Vorklärgerät Vitronic  11 W'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00160JVQM/?tag=tolees0ca-21'
 descuento: '32.55'
 average: '58.65'

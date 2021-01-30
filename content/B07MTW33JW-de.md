@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Philips Bartschneider BT5502/15  40 verschiedene Looks  0 4 - 20 mm   selbstschärfende Metallklingen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MTW33JW/?tag=tolees0ca-21'
 descuento: '38.34'
 average: '36.99'

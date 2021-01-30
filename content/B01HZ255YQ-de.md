@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'Quiksilver Herren Anton Kapuzenjacke oliv M'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01HZ255YQ/?tag=tolees0ca-21'
 descuento: '55.41'
 average: '57.95'

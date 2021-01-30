@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Corsair Vengeance LPX 8GB  1x8GB  DDR4 3000MHz C16 XMP 2.0 High Performance Desktop Arbeitsspeicher Kit  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B4FRMGV/?tag=tolees0ca-21'
 descuento: '23.27'
 average: '29.15'

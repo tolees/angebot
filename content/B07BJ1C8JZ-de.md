@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Dickie Toys 203833004 - Playlife Fishing Boat  Schlauchboot inkl. Figur  20 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BJ1C8JZ/?tag=tolees0ca-21'
 descuento: '35.20'
 average: '7.77'

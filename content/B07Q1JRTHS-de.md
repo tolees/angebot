@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Funko 42869 POP Vinyl: NFL: Cowboys-Amari Cooper  Home Jersey  Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Q1JRTHS/?tag=tolees0ca-21'
 descuento: '56.50'
 average: '10.054285714285713'

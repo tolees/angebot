@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'DESIRES Tilda Damen Weste Outdoor-Weste Mit Kapuze Und Stehkragen  Größe:XS  Farbe:Cinnamon  5056 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XDQYM3F/?tag=tolees0ca-21'
 descuento: '20.02'
 average: '43.95'

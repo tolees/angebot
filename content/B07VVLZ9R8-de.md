@@ -16,6 +16,7 @@ comparePrice: 949.0 EUR
 prodname: 'Samsung Galaxy Note 10 Smartphone Bundle  15.9cm  6.3 Zoll  256GB interner Speicher  8GB RAM  Dual SIM  Android  Aura Glow inkl. 36 Monate Herstellergarantie [Exklusiv bei Amazon] | Deutsche Version'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VVLZ9R8/?tag=tolees0ca-21'
 descuento: '31.61'
 average: '732.3333333333334'

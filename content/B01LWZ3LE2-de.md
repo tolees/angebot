@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Die Edelsteintrilogie  Rubinrot  Saphirblau  Smaragdgrün  [4 DVDs]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LWZ3LE2/?tag=tolees0ca-21'
 descuento: '28.64'
 average: '17.12'

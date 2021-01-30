@@ -16,6 +16,7 @@ comparePrice: 37.66 EUR
 prodname: 'KINGDUO Update-Tool Für Den Walkera Up02-Transmitter-Softwareadapter Mit Up02-Upgrade-Tool USB'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W22MPZY/?tag=tolees0ca-21'
 descuento: '23.07'
 average: '28.97'

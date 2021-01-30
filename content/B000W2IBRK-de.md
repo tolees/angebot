@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'WMF Safari Kinderbesteck  4-teilig  ab 3 Jahren  Cromargan Edelstahl poliert  spülmaschinengeeignet'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000W2IBRK/?tag=tolees0ca-21'
 descuento: '40.38'
 average: '14.9'

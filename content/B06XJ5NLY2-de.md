@@ -16,6 +16,7 @@ comparePrice: 141.6 EUR
 prodname: 'Crucial Ballistix Sport LT BLS4K8G4D26BFSCK Desktop Gaming Speicher Kit  2666 MHz  DDR4  DRAM  32GB  8GB x4   CL16  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XJ5NLY2/?tag=tolees0ca-21'
 descuento: '27.55'
 average: '102.59'

@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Garmin Edge Explore GPS-Fahrrad-Navi - Vorinstallierte Europakarte  Navigationsfunktionen  3“ Touchscreen  einfache Bedienung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DX231ST/?tag=tolees0ca-21'
 descuento: '40.02'
 average: '161.0975'

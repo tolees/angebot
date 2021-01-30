@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 12384 POP Vinylfigur: My Hero Academia: Ochako'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072F3M8KP/?tag=tolees0ca-21'
 descuento: '42.82'
 average: '8.0'

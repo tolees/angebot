@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Borderlands 3 - Standard Edition Code in der Box - [PC]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NTTHJ1X/?tag=tolees0ca-21'
 descuento: '33.34'
 average: '19.99'

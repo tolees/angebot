@@ -16,6 +16,7 @@ comparePrice: 17.49 EUR
 prodname: 'Dickie Toys City Train  Zug  Spielzeugzug  Bahn  Türen und Dach zum Öffnen  Interieur  Maßstab: 1:43  45 cm  ab 3 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01CKALQEQ/?tag=tolees0ca-21'
 descuento: '42.88'
 average: '9.99'

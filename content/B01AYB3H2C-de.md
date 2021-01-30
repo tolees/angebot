@@ -16,6 +16,7 @@ comparePrice: 20.98 EUR
 prodname: '100 Vakuumbeutel 20x30cm groß - Premium Qualität | Folienbeutel für JEDES Folienschweißgerät / Vakuumiergerät  wählen Sie die passende Breite - culivac Vakuumierfolie "Professional"  ideal für sous vide | Made in Germany'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01AYB3H2C/?tag=tolees0ca-21'
 descuento: '20.02'
 average: '16.78'

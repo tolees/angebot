@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Salomon Herren Trail Running Schuhe  ALPHACROSS  Farbe: beige  Bleached Sand/Vanilla Ice/White  Größe: EU 42'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RHPMYD9/?tag=tolees0ca-21'
 descuento: '54.11'
 average: '40.155'

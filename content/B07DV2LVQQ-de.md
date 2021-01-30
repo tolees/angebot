@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'ECCO Damen Terracruise II Sneaker  Blau  Dark Petrol/Pagoda Blue 51352   40 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DV2LVQQ/?tag=tolees0ca-21'
 descuento: '30.00'
 average: '77.0'

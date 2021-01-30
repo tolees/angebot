@@ -16,6 +16,7 @@ comparePrice: 63.17 EUR
 prodname: 'Skagen Damen-Uhren 358XSSLBC'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001WAKQF6/?tag=tolees0ca-21'
 descuento: '16.51'
 average: '52.74'

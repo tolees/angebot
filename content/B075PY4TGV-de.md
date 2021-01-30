@@ -16,6 +16,7 @@ comparePrice: 9.89 EUR
 prodname: 'Dove go fresh fresh Seife  8er Pack  8 x 100 g '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075PY4TGV/?tag=tolees0ca-21'
 descuento: '47.42'
 average: '5.2'

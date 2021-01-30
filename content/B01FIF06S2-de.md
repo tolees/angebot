@@ -16,6 +16,7 @@ comparePrice: 12.47 EUR
 prodname: 'Funko 9016 and S1 No Actionfigur Rick Morty  gelb  Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01FIF06S2/?tag=tolees0ca-21'
 descuento: '55.25'
 average: '9.54'

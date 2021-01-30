@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Skechers Herren Moreno Sneaker  Blau  Navy Mesh NVY   45 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TVVDZMT/?tag=tolees0ca-21'
 descuento: '38.01'
 average: '46.46'

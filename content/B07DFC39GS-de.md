@@ -16,6 +16,7 @@ comparePrice: 14.97 EUR
 prodname: 'Funko 33977 Marvel Into The Verse: Spider-Man Miles POP Bobble  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFC39GS/?tag=tolees0ca-21'
 descuento: '40.21'
 average: '8.95'

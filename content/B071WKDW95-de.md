@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Philips SHB3175WT BASS+ Over-Ear Bluetooth-Kopfhörer  13 Stunden Akku  satter Bass  Freisprechfunktion  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071WKDW95/?tag=tolees0ca-21'
 descuento: '42.99'
 average: '38.77166666666667'

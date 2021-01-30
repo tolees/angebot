@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Villeroy & Boch Toy s Delight Spieluhr "Weihnachtsbaum"  Porzellan  Grün'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003VYAVXI/?tag=tolees0ca-21'
 descuento: '30.31'
 average: '89.9'

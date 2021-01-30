@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'WLAN Adapter WiFi Stick 600Mbps Mini Dual Band 2.4GHz / 5GHz Wireless USB Adapter Empfänger 802.11ac/n/g/b Netzwerk Dongles für PC für Windows XP/7/8/10/Vista TV Box Keine CD benötigt Plug & Play'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RJY8LW5/?tag=tolees0ca-21'
 descuento: '44.46'
 average: '14.99'

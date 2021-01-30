@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'Star Trek - The Next Generation  The Complete Series  [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06W55DRSB/?tag=tolees0ca-21'
 descuento: '15.00'
 average: '47.59'

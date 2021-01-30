@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'ANSMANN 1400-0058 A-Oly BLN 1 Li-Ion Digicam Akku 7 4V/1140mAh für Olympus Foto Digitalkamera'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00K4XYBPI/?tag=tolees0ca-21'
 descuento: '58.61'
 average: '16.55'

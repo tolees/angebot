@@ -16,6 +16,7 @@ comparePrice: 350 EUR
 prodname: 'Bang & Olufsen Beoplay E8 2.0 - 100% kabellose Bluetooth-Earbuds und Ladeschale  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MHJ28YM/?tag=tolees0ca-21'
 descuento: '23.03'
 average: '269.39'

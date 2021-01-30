@@ -16,6 +16,7 @@ comparePrice: 1399.0 EUR
 prodname: 'Bosch Serie 8 KIF41AD40 Einbau Kühlschrank / EEK A+++ / 80 kWh/Jahr / 187 l / TouchControl Akustischer Türalarm / Profi-Türdämpfung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B017BJ8ZEU/?tag=tolees0ca-21'
 descuento: '44.68'
 average: '773.87'

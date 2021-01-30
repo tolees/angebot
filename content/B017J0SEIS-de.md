@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Mousehouse Gifts Holzspielzeug Eulen Werkzeugkasten für Mädchen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B017J0SEIS/?tag=tolees0ca-21'
 descuento: '25.01'
 average: '14.99'

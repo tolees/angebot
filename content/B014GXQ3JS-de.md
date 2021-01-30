@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Logitech G633 Artemis Spectrum Pro  Gaming Headset  7.1 Surround Sound  DTS Headphone:X 3D  Noise-Cancelling Mikrofon  RGB-Beleuchtung  G-Tasten  PC/ Mac/Xbox One/PS4/Nintendo Switch - blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B014GXQ3JS/?tag=tolees0ca-21'
 descuento: '46.75'
 average: '89.99'

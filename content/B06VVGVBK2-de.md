@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Trefl 90604 - Puzzles 2-in-1 Spaß mit Freunden Memory'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06VVGVBK2/?tag=tolees0ca-21'
 descuento: '18.40'
 average: '6.52'

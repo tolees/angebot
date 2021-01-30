@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'Buff Lightweight Merino Wool Multifunktionstuch  Edgy Denim  One Size'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0725VZZP2/?tag=tolees0ca-21'
 descuento: '33.52'
 average: '18.58'

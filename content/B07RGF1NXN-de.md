@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Hängekorb Metall  Hängekorb Regal  Regal Ablagekorb Schrankkorb Regaleinhängekorb Unter Schrank Lagerung Aufbewahrungs-Korb für Küchenschränke Küche Speisekammer Kleiderschränke 2 Stück'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RGF1NXN/?tag=tolees0ca-21'
 descuento: '50.02'
 average: '14.99'

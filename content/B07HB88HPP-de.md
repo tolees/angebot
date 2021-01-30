@@ -16,6 +16,7 @@ comparePrice: 12.97 EUR
 prodname: 'Funko 36371 Pocket POP! Schlüsselanhänger  Dalmatiner-Design  Pongo & Purdy  Mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HB88HPP/?tag=tolees0ca-21'
 descuento: '17.73'
 average: '10.67'

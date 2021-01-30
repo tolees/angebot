@@ -16,6 +16,7 @@ comparePrice: 234.99 EUR
 prodname: 'Seagate Backup Plus HUB  8 TB  externe Festplatte mit 2-fach USB Hub  3.5 Zoll  USB 3.0  PC & Mac  ModelNr.: STEL8000200'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01IAD5ZC6/?tag=tolees0ca-21'
 descuento: '43.17'
 average: '130.84199999999998'

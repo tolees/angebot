@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'Garmin vívosmart HR Fitness-Tracker - integrierte Herzfrequenzmessung am Handgelenk  Smart Notifications  Schwarz  M - L  13 7-18 8 cm '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0171NKAR6/?tag=tolees0ca-21'
 descuento: '36.38'
 average: '89.0'

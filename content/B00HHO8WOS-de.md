@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Flashpoint - Das Spezialkommando: Die komplette Serie [24 DVDs]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HHO8WOS/?tag=tolees0ca-21'
 descuento: '18.47'
 average: '39.95'

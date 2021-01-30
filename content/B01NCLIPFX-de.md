@@ -16,6 +16,7 @@ comparePrice: 299.9 EUR
 prodname: 'Thule Subterra Rolling Duffel 75L Reisetrolley  mit zwei großen seperaten Fächern  Dark Shadow'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01NCLIPFX/?tag=tolees0ca-21'
 descuento: '17.84'
 average: '224.8275'

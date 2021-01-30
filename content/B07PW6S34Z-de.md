@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'ONLY Damen Maxikleid Ärmelloses 40Cloud Dancer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PW6S34Z/?tag=tolees0ca-21'
 descuento: '18.89'
 average: '28.38'

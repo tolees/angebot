@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Marvel 39403 POP Vinyl Far from Home: Spider-Man  Hero Suit  Disney Siper Sammelbares Spielzeug  Mehrfarben  Einheitsgröße'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KPSSW54/?tag=tolees0ca-21'
 descuento: '44.97'
 average: '11.96111111111111'

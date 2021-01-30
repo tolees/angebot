@@ -16,6 +16,7 @@ comparePrice: 10.29 EUR
 prodname: 'Pop Fortnite Dark Voyager Vinyl Figure'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JV7RKQK/?tag=tolees0ca-21'
 descuento: '66.47'
 average: '4.99'

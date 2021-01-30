@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'Kitchen Diamonds Premium Tafelsticker-Set – 136 Selbstklebende Küchen-Etiketten-Aufkleber in diversen Formen und Größen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GV2JZ8W/?tag=tolees0ca-21'
 descuento: '18.26'
 average: '8.95'

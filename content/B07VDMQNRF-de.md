@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Michael Kors Smart Watch  Touchscreen MKT5073'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VDMQNRF/?tag=tolees0ca-21'
 descuento: '46.73'
 average: '159.27'

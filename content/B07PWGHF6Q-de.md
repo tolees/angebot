@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'HP 14-dk0008ng  14 Zoll / FHD IPS  Laptop  AMD Ryzen 7 3700U  8 GB DDR4 RAM  1 TB HDD  128 GB SSD  AMD Radeon RX Vega 10  Windows 10 Home  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PWGHF6Q/?tag=tolees0ca-21'
 descuento: '18.20'
 average: '522.6666666666666'

@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Controller für Nintendo Switch 6-Achsen Einstellbarem Switch Pro Controller Double Shock rutschfest Kompatibel mit Switch  Switch Lite  Gelb '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0899Z2PPF/?tag=tolees0ca-21'
 descuento: '21.75'
 average: '17.99'

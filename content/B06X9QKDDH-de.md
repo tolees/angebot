@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Hasbro Hanazuki B9922EU4 - Light-Up Puppe  Plüsch'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06X9QKDDH/?tag=tolees0ca-21'
 descuento: '81.84'
 average: '6.725'

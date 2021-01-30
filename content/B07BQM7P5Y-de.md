@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Schreibtafel  IGERESS 8 5 Zoll LCD Schreibtablett abwischbar elektronisch  licht und einfach zu bedienen schreibtafel fur Kinder zum Schreiben  Malen oder Lernen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BQM7P5Y/?tag=tolees0ca-21'
 descuento: '56.69'
 average: '12.99'

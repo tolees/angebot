@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Ladeheid Herren Schmale Fliege M  12cm x 6cm   Amarant  12cm x 6cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079VPPDKV/?tag=tolees0ca-21'
 descuento: '20.02'
 average: '7.19'

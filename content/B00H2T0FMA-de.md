@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'HEAD Herren Boxer Shorts Basic 2er Pack  mehrfarbig Blue/Black  L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00H2T0FMA/?tag=tolees0ca-21'
 descuento: '15.68'
 average: '10.11'

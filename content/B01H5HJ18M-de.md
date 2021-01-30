@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Libratone TOO Bluetooth Lautsprecher  360° Sound  Touch Bedienung  IPX4 Spritzwassergeschützt  12 Std. Akku  caribbean green'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01H5HJ18M/?tag=tolees0ca-21'
 descuento: '41.33'
 average: '88'

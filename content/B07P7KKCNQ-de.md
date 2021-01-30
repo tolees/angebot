@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'PLAYMOBIL:THE MOVIE 70076 Kaiser Maximus im Kolosseum  Ab 5 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P7KKCNQ/?tag=tolees0ca-21'
 descuento: '50.03'
 average: '8.90846153846154'

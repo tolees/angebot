@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JOMARTO Smart Steckdose  Wlan Steckdose Alexa Steckdose Smart Plug Wifi Steckdose  APP gesteuert Kompatibel mit Alexa Echo und Google Home Assistant  16A'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07S7PL93P/?tag=tolees0ca-21'
 descuento: '57.51'
 average: '16.99'

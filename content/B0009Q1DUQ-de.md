@@ -16,6 +16,7 @@ comparePrice: 35.77 EUR
 prodname: 'Bialetti Venus Espressokocher für induktion  Stahl  Silber  10 Tassen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0009Q1DUQ/?tag=tolees0ca-21'
 descuento: '18.28'
 average: '29.23'

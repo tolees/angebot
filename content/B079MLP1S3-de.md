@@ -16,6 +16,7 @@ comparePrice: 73.1 EUR
 prodname: 'Playmobil Space 9487 Mars-Station  Ab 6 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079MLP1S3/?tag=tolees0ca-21'
 descuento: '28.52'
 average: '48.622222222222234'

@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Navitech rot Harter Fall für die APEMAN Mini Car Camera Dash Cam 1080P Full HD Video Recorder with Sony Sensor  650NM Lens  WDR  Loop Recording  Motion Detection  Park Monitor and G-Senso'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077TBCXF1/?tag=tolees0ca-21'
 descuento: '30.79'
 average: '8.99'

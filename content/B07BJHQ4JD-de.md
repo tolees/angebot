@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-STAR RAW Damen Midge Saddle Mid-Waist Straight Jeans  Medium Indigo Aged 8968-6028  25W / 30L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BJHQ4JD/?tag=tolees0ca-21'
 descuento: '61.65'
 average: '46.0'

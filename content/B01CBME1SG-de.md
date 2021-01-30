@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 7424 No Actionfigur Dragonball Z: Gohan'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01CBME1SG/?tag=tolees0ca-21'
 descuento: '35.74'
 average: '8.99'

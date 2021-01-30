@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Philips Hue White and Color Ambiance GU10 LED Lampe Doppelpack 2er x 5 7W Bluetooth'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SHVQCTJ/?tag=tolees0ca-21'
 descuento: '24.99'
 average: '75.0'

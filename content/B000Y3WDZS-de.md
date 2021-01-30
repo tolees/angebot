@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Wrangler Herren Texas Contrast  Jeans  Blau  Vintage Stonewash   46W / 32L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000Y3WDZS/?tag=tolees0ca-21'
 descuento: '26.99'
 average: '51.07'

@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Master & Dynamic MH40 Leica-Ausgabe: ein erstklassiger  kabelgebundener  ohrumschließender Kopfhörer aus Leder und Aluminium  der einen preisgekrönten Klang erzeugt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01A5SW50Y/?tag=tolees0ca-21'
 descuento: '50.08'
 average: '199.17'

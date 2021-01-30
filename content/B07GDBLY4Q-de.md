@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Philips GC4537/70 Azur Dampfbügeleisen  2400 W  200 g Dampfstoß  SteamGlide-Bügelsohle  weiß/türkis'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GDBLY4Q/?tag=tolees0ca-21'
 descuento: '18.00'
 average: '40.99'

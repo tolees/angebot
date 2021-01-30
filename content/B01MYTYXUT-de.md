@@ -16,6 +16,7 @@ comparePrice: 175.8 EUR
 prodname: 'Eyoyo 17" Zoll Monitor 1280x1024 TFT LCD CCTV HDMI HD Monitor Farbdisplay Bildschirm mit BNC/VGA/AV/HDMI/USB Kopfhörerausgang  Eingebauter Lautsprecher  17   1280x1024 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MYTYXUT/?tag=tolees0ca-21'
 descuento: '36.71'
 average: '111.26'

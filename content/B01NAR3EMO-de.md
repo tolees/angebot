@@ -16,6 +16,7 @@ comparePrice: 6.95 EUR
 prodname: 'Lacerto® | 13x13mm Deutsche Aufkleber für PC/Laptop & Notebook Tastaturen mit mattem kratzfestem Laminat  Germany Keyboard Stickers QWERTZ | Farbe: Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01NAR3EMO/?tag=tolees0ca-21'
 descuento: '28.78'
 average: '4.95'

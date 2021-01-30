@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Finish Maschinenpfleger Tabs – Spülmaschinentabs gegen Schmutz & Fett im Inneren der Spülmaschine – Jahresvorrat mit 12 Geschirrspülreiniger Tabs'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QKK1S5X/?tag=tolees0ca-21'
 descuento: '17.22'
 average: '8.27'

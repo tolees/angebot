@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Sylvanian Families 5287 5287-Wohnzimmer-und TV-Set  Bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075N5PQBM/?tag=tolees0ca-21'
 descuento: '19.16'
 average: '16.154444444444447'

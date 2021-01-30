@@ -16,6 +16,7 @@ comparePrice: 112.99 EUR
 prodname: 'EACHINE E58 Drohne mit Kamera 720P HD Kamera  Live Übertragung 120°WeitwinkelWiFi FPV Quadrocopter  App-Steuerung  One Key Start/Landung Headless Modus Pocket Drohne für Anfänger  3 AKKU  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NQ3GX6V/?tag=tolees0ca-21'
 descuento: '23.30'
 average: '86.39375000000001'

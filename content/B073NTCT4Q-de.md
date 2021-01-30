@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'BenQ GW2480 60 45cm  23 8 Zoll  LED Monitor  Full-HD  Eye-Care  IPS-Panel Technologie  HDMI  DP  Lautsprecher  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B073NTCT4Q/?tag=tolees0ca-21'
 descuento: '29.53'
 average: '105.0'

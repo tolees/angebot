@@ -16,6 +16,7 @@ comparePrice: 124.99 EUR
 prodname: 'Adeept Spider Robot Quadruped Robot Kit für Raspberry Pi 4/3 Modell B+/B STEM-Kriechroboter OpenCV Tracking Selbststabilisierung mit MPU6050 Gyro Sensor Darkpaw Bionic Raspberry Pi Robot & PDF'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B085CDQ2BB/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '99.99'

@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Corsair Strafe RGB Mechanische Gaming Tastatur  Cherry MX Silent: Leichtgängig und Flüsterleise  Multi-Color RGB Beleuchtung  QWERTZ  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B014VZDC5O/?tag=tolees0ca-21'
 descuento: '23.89'
 average: '136.99'

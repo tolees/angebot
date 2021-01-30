@@ -16,6 +16,7 @@ comparePrice: 9.64 EUR
 prodname: 'No Way Out - Gegen die Flammen [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CQKKFKN/?tag=tolees0ca-21'
 descuento: '34.34'
 average: '6.33'

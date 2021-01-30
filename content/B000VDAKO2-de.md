@@ -16,6 +16,7 @@ comparePrice: 5.49 EUR
 prodname: 'Kopp 565656001 Nautic Universalschalter  Aus-und Wechselschalter   grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000VDAKO2/?tag=tolees0ca-21'
 descuento: '45.54'
 average: '2.99'

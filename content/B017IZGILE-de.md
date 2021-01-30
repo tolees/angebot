@@ -16,6 +16,7 @@ comparePrice: 1645.0 EUR
 prodname: 'Siemens EX645LXC1E iQ700 Kochfeld Elektro / Ceran/Glaskeramik / 58 3 cm / Flexible Kochzonen - 2 varioInduktions-Kochzonen / schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B017IZGILE/?tag=tolees0ca-21'
 descuento: '63.59'
 average: '599.0'

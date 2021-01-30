@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Anker PowerCore 26800mAh Power Bank Externer Akku mit Dual Input Ladeport  Doppelt so Schnell Wiederaufladbar  3 USB Ports für iPhone XR/XS/X / 8 / 8Plus / 7  Samsung Galaxy und weitere  Schwarz '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01JIWQPMW/?tag=tolees0ca-21'
 descuento: '32.22'
 average: '44.99'

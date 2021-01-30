@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Philips S5290/12 Elektrischer Nass-und Trockenrasierer Series 5000 mit MultiPrecision-Klingen  Präzisionstrimmer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FKN3VBJ/?tag=tolees0ca-21'
 descuento: '36.37'
 average: '66.49166666666667'

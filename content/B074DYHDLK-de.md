@@ -16,6 +16,7 @@ comparePrice: 621.0 EUR
 prodname: 'Asus ROG Zenith Extreme Gaming Mainboard Sockel TR4  eATX  AMD Threadripper X399  Aura Sync  8x DDR4 Speicher  USB 3.1 Gen 2  M.2 Kühlkörper '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074DYHDLK/?tag=tolees0ca-21'
 descuento: '19.65'
 average: '499.0'

@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Duftkerze ARINO Aroma Kerzen Naturwach in Dose 4er Deco Kerzen Geschenk Set - Natürliches Aromen von Rose Zitrone Labendel Mittelmeer für Entspannung Diffuser und Aromatherapie'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GR5XGQC/?tag=tolees0ca-21'
 descuento: '41.39'
 average: '16.99'

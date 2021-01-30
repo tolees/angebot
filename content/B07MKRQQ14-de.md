@@ -16,6 +16,7 @@ comparePrice: 23.95 EUR
 prodname: 'iPosible Powerbank  24800mAh Hohe Kapazität Akkupack mit LCD Digitalanzeige Externer Akku mit 2 USB Port Kompakt Externer Ladegerät für Handy  Tablette'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MKRQQ14/?tag=tolees0ca-21'
 descuento: '21.80'
 average: '21.84'

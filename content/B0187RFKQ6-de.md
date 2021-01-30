@@ -16,6 +16,7 @@ comparePrice: 52.7 EUR
 prodname: 'FMD Möbel 291-001 Tower Drehregal  Holz  sandeiche  34 x 34 x 108 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0187RFKQ6/?tag=tolees0ca-21'
 descuento: '29.98'
 average: '36.9'

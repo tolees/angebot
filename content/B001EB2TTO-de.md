@@ -16,6 +16,7 @@ comparePrice: 101.46 EUR
 prodname: 'Siemens Keramikbackstein inkl. Holzschieber / Für Backöfen / Ideal für das Backen von Pizza  Brot  Fladenbrot oder auch Tiefkühlgerichte / Hitze beständig / 37 5 x 33 x 2cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001EB2TTO/?tag=tolees0ca-21'
 descuento: '25.96'
 average: '75.12'

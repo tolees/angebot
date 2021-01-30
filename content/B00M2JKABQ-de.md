@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'devolo Home Control Heizkörperthermostat  Funk Heizungssteuerung  Smarthome Thermostat  Z-Wave Hausautomation  Haussteuerung per iOS/Android App  Smart Home Aktor  einfache Installation  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00M2JKABQ/?tag=tolees0ca-21'
 descuento: '52.80'
 average: '33.32'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Xiaomi Original Mi Air Purifier Filter - Antibakterielle Version - Lila'
 country: 'de'
 flag: '🇩🇪'
+brand: 'Xiaomi'
 buyurl: 'https://www.amazon.de/dp/B07H8PSPJ9/?tag=tolees0ca-21'
 descuento: '29.85'
 average: '34.7925'
@@ -27,10 +28,10 @@ Sie können [Xiaomi Original Mi Air Purifier Filter - Antibakterielle Version - 
 
 ℹ️:
 
-- Leistungsaufnahme: 1,5 W ~ 1,75 W, Unterstützung des globalen Spannungsbereichs: AC 100 V ~ 220 V, 50/60 Hz
-- Purifier Filter Hocheffizienter 3-schichten-
-- Vierfache Reinigungseffekt mit brillanter absorptionsfähigkeit
-- E Version
 - Speziell entwickelte E Schicht kann es die Bakterien wirksam töten
+- Leistungsaufnahme: 1,5 W ~ 1,75 W, Unterstützung des globalen Spannungsbereichs: AC 100 V ~ 220 V, 50/60 Hz
+- E Version
+- Vierfache Reinigungseffekt mit brillanter absorptionsfähigkeit
+- Purifier Filter Hocheffizienter 3-schichten-
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07H8PSPJ9/?tag=tolees0ca-21)

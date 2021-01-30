@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Games of Thrones 3012 Actionfigur Daenerys Targaryen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B009B0YWDG/?tag=tolees0ca-21'
 descuento: '18.94'
 average: '10.165'

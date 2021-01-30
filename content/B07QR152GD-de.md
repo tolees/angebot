@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'ASICS Damen Gel-Pulse 11 G-TX Laufschuhe  Blau  Mako Blue/Sun Coral 400   37 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QR152GD/?tag=tolees0ca-21'
 descuento: '41.68'
 average: '69.99'

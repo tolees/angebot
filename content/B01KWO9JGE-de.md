@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Huntvp Gürteltasche wasserdichte Bauchtasche für Handy bis 5.7 Zoll Herren Damen Militär Hüfttasche Taktisch Laufgürtel Sport Joggen Running Laufen  Braun'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01KWO9JGE/?tag=tolees0ca-21'
 descuento: '45.48'
 average: '11.99'

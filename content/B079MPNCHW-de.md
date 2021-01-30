@@ -16,6 +16,7 @@ comparePrice: 38.98 EUR
 prodname: 'PLAYMOBIL Space 9489 Mars-Erkundungsfahrzeug  Ab 6 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079MPNCHW/?tag=tolees0ca-21'
 descuento: '41.02'
 average: '26.0064'

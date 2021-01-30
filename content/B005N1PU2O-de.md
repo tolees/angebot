@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Wann I So Z Ruckschau  3cd '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005N1PU2O/?tag=tolees0ca-21'
 descuento: '50.79'
 average: '5.88'

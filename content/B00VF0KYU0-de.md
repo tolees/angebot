@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Levi s  Herren Jeans 514 Regular Fit  Blau  Onewash   Gr. W32/L34'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00VF0KYU0/?tag=tolees0ca-21'
 descuento: '48.76'
 average: '40.99'

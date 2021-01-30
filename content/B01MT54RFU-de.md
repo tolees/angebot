@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Omron EVOLV All-in-One digitales Oberarm-Blutdruckmessgerät  kabellos  schwarz und mit Intelli Wrap Technologie für genaue Messergebnisse in jeder Position rund um den Oberarm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MT54RFU/?tag=tolees0ca-21'
 descuento: '36.55'
 average: '111.44333333333333'

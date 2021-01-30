@@ -16,6 +16,7 @@ comparePrice: 53.99 EUR
 prodname: 'Dragon Ball Z: Kakarot -Standard Edition [PlayStation 4]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SYMCBMX/?tag=tolees0ca-21'
 descuento: '43.55'
 average: '38.36666666666667'

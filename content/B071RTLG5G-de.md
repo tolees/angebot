@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Levis Footwear and Accessories Herren Emerson Biker Boots  Braun  Medium Brown   40 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071RTLG5G/?tag=tolees0ca-21'
 descuento: '46.16'
 average: '69.99'

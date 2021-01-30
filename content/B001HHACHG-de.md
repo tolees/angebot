@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Leifheit Wandrollenhalter Parat ComfortLine-Serie für 3 Rollen  saubere Schnittkanten durch praktischen Schneidabroller  Küchenrollenhalter mit Folienschneider sorgt für griffbereite Folien-Enden'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001HHACHG/?tag=tolees0ca-21'
 descuento: '25.01'
 average: '14.99'

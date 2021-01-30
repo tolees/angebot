@@ -16,6 +16,7 @@ comparePrice: 37.95 EUR
 prodname: 'PUMA Herren Boxershort Limited Statement Edition 6er Pack - Black-Navy-Blue - Gr. M'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B089SLLB33/?tag=tolees0ca-21'
 descuento: '29.93'
 average: '26.59'

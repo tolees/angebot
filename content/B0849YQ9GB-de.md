@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Oliver’s Kitchen Premium Schneidebrett 100% Bio Bambus – Extra Froßes Holzschneidebrett – Edel  Robust & Leicht zu Reinigen – Küchenbrett mit Saftrille'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0849YQ9GB/?tag=tolees0ca-21'
 descuento: '33.54'
 average: '19.93'

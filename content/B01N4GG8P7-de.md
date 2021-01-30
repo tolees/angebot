@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Corsair K95 RGB Platinum Mechanische Gaming Tastatur  Cherry MX Speed: Schnell und Hochpräzise  Multi-Color RGB Beleuchtung  Qwertz  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N4GG8P7/?tag=tolees0ca-21'
 descuento: '35.50'
 average: '129.0'

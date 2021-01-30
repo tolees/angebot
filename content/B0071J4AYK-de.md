@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: '156/Im Netz des Drachen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0071J4AYK/?tag=tolees0ca-21'
 descuento: '42.92'
 average: '3.99'

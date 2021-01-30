@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'LEDVANCE LED Wand- und Deckenleuchte  Leuchte für Außenanwendungen  Warmweiß  100 0 mm x 110 0 mm x 54 0 mm  ENDURA STYLE MINI spot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TZFFBCD/?tag=tolees0ca-21'
 descuento: '78.93'
 average: '11.58'

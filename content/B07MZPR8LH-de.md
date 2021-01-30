@@ -16,6 +16,7 @@ comparePrice: 4.98 EUR
 prodname: 'Funko 39699 POP Vinyl: Dragonball Z S6: Radditz Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MZPR8LH/?tag=tolees0ca-21'
 descuento: '15.46'
 average: '4.21'

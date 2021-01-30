@@ -16,6 +16,7 @@ comparePrice: 46.13 EUR
 prodname: 'zxcvb Armario de vino Boca abajo Titular de copa de vino barra de inicio Titular de copa de vino Titular de cuchara de cocina Titular de copa copa de vino-Láser 10 tazas L45cmW18cm Blanco'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08252NSMY/?tag=tolees0ca-21'
 descuento: '15.00'
 average: '39.21'

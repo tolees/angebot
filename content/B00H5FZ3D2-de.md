@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'SEVERIN SV 2447 Sous-Vide Garer  6 L Fassungsvermögen  Timer  edelstahl/schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00H5FZ3D2/?tag=tolees0ca-21'
 descuento: '28.53'
 average: '49.99'

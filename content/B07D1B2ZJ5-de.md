@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'THE NORTH FACE Borealis Rucksack  Flag Blue Light Heather/TNF White  One Size'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07D1B2ZJ5/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '50.0'

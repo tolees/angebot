@@ -16,6 +16,7 @@ comparePrice: 209.95 EUR
 prodname: 'CYBEX Silver Kinder-Autositz Juno 2-Fix  Für Autos mit ISOFIX  Autositz Gruppe 1  9-18 kg   Gray Rabbit'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LZFK1OR/?tag=tolees0ca-21'
 descuento: '45.02'
 average: '113.28666666666668'

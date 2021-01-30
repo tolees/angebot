@@ -16,6 +16,7 @@ comparePrice: 259.0 EUR
 prodname: 'Le Creuset Signature Gusseisen Gourmet-Profitopf  Rund  Ø 30 cm  3 2 l  Für alle Herdarten inkl. Induktion geeignet  Kirschrot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00YUZ182U/?tag=tolees0ca-21'
 descuento: '43.92'
 average: '145.25'

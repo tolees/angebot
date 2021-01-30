@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Remington AS8810 Warmluftbürste Keratin Protect  rotierend  Rechts- und Linkslauf  zwei Rundbürstenaufsätze  gra'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B073ZG6YHR/?tag=tolees0ca-21'
 descuento: '50.01'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 46.88 EUR
 prodname: 'Digital Wecker mit Hölzerner Elektronischer LED-Zeitanzeige  Doppelte Temperatur- und Feuchtigkeitserkennung  Ideal für Schlafzimmer  Nacht Kinder'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MT7DMBQ/?tag=tolees0ca-21'
 descuento: '42.66'
 average: '26.88'

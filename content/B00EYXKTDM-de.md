@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'TP-Link TL-WPA4220T KIT AV600 WLAN N300 WiFi Powerline  max. 600Mbit/s Powerline  max. 300Mbit/s WLAN 2 4GHz  Plug und Play  kompatibel zu allen Powerline Adaptern  3-Teilig  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00EYXKTDM/?tag=tolees0ca-21'
 descuento: '21.19'
 average: '88.59666666666668'

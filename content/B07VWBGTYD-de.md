@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'APEMAN Action Cam A100 Echte 4K 50fps WiFi 20MP Touchscreen Unterwasserkamera Digitale wasserdichte 40M Helmkamera  2.4G Fernbedienung  2x1350mAh verbesserten Batterien '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VWBGTYD/?tag=tolees0ca-21'
 descuento: '23.08'
 average: '104.10764705882353'

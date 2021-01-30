@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'Audio-Technica ATH-DSR9BT Wireless Over-Ear Kopfhörer mit Pure Digital Drive™'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XYZB4VQ/?tag=tolees0ca-21'
 descuento: '44.91'
 average: '329.99'

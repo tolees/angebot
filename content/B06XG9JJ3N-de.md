@@ -16,6 +16,7 @@ comparePrice: 21.39 EUR
 prodname: 'Puzzlematte  ineinandergreifende Schaumstoffmatten zum Schutz der Kinder  zum Puzzlespielen  Teppich  Yoga- und Fitnessmatte  30 × 30 cm  9 Stück  Dunkles Holz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XG9JJ3N/?tag=tolees0ca-21'
 descuento: '17.30'
 average: '17.69'

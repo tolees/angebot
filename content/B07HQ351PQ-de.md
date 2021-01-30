@@ -16,6 +16,7 @@ comparePrice: 15.19 EUR
 prodname: 'Steins; Gate ELITE [Playstation 4]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HQ351PQ/?tag=tolees0ca-21'
 descuento: '25.21'
 average: '13.495000000000001'

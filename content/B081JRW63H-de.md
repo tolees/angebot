@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'LLOYD Herren ORWIN Uniform-Schuh  Braun  Brandy   44.5'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B081JRW63H/?tag=tolees0ca-21'
 descuento: '28.14'
 average: '90.15142857142857'

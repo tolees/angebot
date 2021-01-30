@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Fire 7-Tablet  16 GB  Schwarz  mit Spezialangeboten  vorherige Generation – 7. '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01J90OOIA/?tag=tolees0ca-21'
 descuento: '37.41'
 average: '40.68'

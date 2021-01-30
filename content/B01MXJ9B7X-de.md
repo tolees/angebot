@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'Maxi-Cosi CabrioFix Babyschale Gruppe 0+  nutzbar ab der Geburt - 12 Monate  ca. 0 - 13 kg  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MXJ9B7X/?tag=tolees0ca-21'
 descuento: '16.09'
 average: '109.0'

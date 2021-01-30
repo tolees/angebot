@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'GoPro Hülle + Trageband  offizielles GoPro-Zubehör  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DGSZDZX/?tag=tolees0ca-21'
 descuento: '64.38'
 average: '7.555'

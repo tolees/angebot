@@ -16,6 +16,7 @@ comparePrice: 28.48 EUR
 prodname: 'Plantronics APU-76 EHS Modul für Mitel/Cisco/Softphones/PC Nutzung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GC6PFYD/?tag=tolees0ca-21'
 descuento: '37.50'
 average: '15.673333333333334'

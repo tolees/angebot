@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'Deluxe Whisky Steine Geschenkset - Sei anders bei der Geschenkauswahl - Luxus Handgemachte Holzkiste mit 2 Whiskey Gläsern - 8 Granit Kühlsteine + Samtbeutel - Whisky Stones Gift Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DJ95F3W/?tag=tolees0ca-21'
 descuento: '55.37'
 average: '24.99'

@@ -16,6 +16,7 @@ comparePrice: 399.9 EUR
 prodname: 'SIRUI ET-2204/E-20 Easy Traveler Dreibeinstativ mit E-20 Kopf  Carbon  Höhe: 144 cm  Gewicht: 1  37kg  Belastbarkeit: 12kg  mit Tasche und Gurt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00IEP289Y/?tag=tolees0ca-21'
 descuento: '22.73'
 average: '309.0'

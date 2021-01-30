@@ -16,6 +16,7 @@ comparePrice: 26.93 EUR
 prodname: 'Motorola MDC 10W Dash Cam | Auto Dashkamera Wlan-Kompatibel | HD Video loop | KFZ Kamera mit G-Sensor | 360° Rotationswinkel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076PF2LD5/?tag=tolees0ca-21'
 descuento: '40.70'
 average: '15.97'

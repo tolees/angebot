@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'RAVPower USB Ladegerät 30W 3 Port USB Netzteil 5V/6A USB Stecker mit iSmart Technologie für iPhone 11 Pro Max XS XR X 8/7/6  iPad  Galaxy S9 S8 Plus  LG  Huawei  HTC  Powerbank  MP3 usw. schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B014QKKOQE/?tag=tolees0ca-21'
 descuento: '22.23'
 average: '13.99'

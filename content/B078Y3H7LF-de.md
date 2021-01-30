@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Remington Barttrimmer Herren Lithium mit abnehmbarer Vakuum-Kammer  Netz-/Akkubetrieb  12 Längeneinstellungen 0 5-18mm  2 Aufsteckköpfe: 32mm + 20mm Trimmer  Aufbewahrungstasche  Bartschneider MB6850'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078Y3H7LF/?tag=tolees0ca-21'
 descuento: '53.58'
 average: '32.49'

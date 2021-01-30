@@ -16,6 +16,7 @@ comparePrice: 49.88 EUR
 prodname: 'Lintelek Fitness Tracker Fitness Armband Fitness Uhr Schrittzähler Pulsmesser Herzfrequenzgerät Schlafmonitor IP67 Wasserdicht Anruf SMS Benachrichtigungen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07H5JH3C1/?tag=tolees0ca-21'
 descuento: '40.10'
 average: '29.88'

@@ -16,6 +16,7 @@ comparePrice: 2.29 EUR
 prodname: 'Alnatura Bio Tee Beerenzeit  20 Beutel  40 g'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XDTGQTR/?tag=tolees0ca-21'
 descuento: '20.09'
 average: '1.83'

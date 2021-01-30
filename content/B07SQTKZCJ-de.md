@@ -16,6 +16,7 @@ comparePrice: 11.71 EUR
 prodname: 'Der Klavierspieler vom Gare du Nord'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SQTKZCJ/?tag=tolees0ca-21'
 descuento: '30.66'
 average: '8.12'

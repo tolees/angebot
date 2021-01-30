@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Osup 7 Stück Geheimstift mit UV-Licht Unsichtbar Schreiben Lesbar durch Licht UV Stift Mitgebsel Kinder Give Aways Kindergeburtstag Gastgeschenke Kindergeburtstag Mitgebsel für Jungen Mädchen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07C9GRXR6/?tag=tolees0ca-21'
 descuento: '60.03'
 average: '7.267777777777778'

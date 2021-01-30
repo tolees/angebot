@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'Apple AIRPODS 1 & 2 kompatibel CASE Off ANHÄNGER White Cover SCHUTZHÜLLE AIRPOD Streetwear'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XPH1QFK/?tag=tolees0ca-21'
 descuento: '47.37'
 average: '10.0'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Gardena Set Akku-Grasschere ClassicCut Li: Rasenschere-Komplettset mit Teleskopstiel und Rädern  für den Schnitt von Rasenkanten ohne Bücken  9855-20 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JZ6LLTG/?tag=tolees0ca-21'
 descuento: '34.39'
 average: '59.04'

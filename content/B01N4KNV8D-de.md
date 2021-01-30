@@ -16,6 +16,7 @@ comparePrice: 169 EUR
 prodname: 'Tommy Hilfiger Damen Analog Quarz Uhr mit Edelstahl beschichtet Armband 1781756'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N4KNV8D/?tag=tolees0ca-21'
 descuento: '27.84'
 average: '121.95'

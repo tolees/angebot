@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Krups Nespresso XN110E Essenza Mini kompakte Kaffee-Kapselmaschine  1260 Watt  19 bar Pumpendruck  automatische Abschaltung  Silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XL9J1N5/?tag=tolees0ca-21'
 descuento: '34.16'
 average: '89.495'

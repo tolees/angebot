@@ -16,6 +16,7 @@ comparePrice: 28.28 EUR
 prodname: 'Dis Dell Acc Soundbar AC511 0MN008'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00DEJXRAE/?tag=tolees0ca-21'
 descuento: '29.28'
 average: '20.0'

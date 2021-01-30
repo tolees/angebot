@@ -16,6 +16,7 @@ comparePrice: 200 EUR
 prodname: 'Akku Handkreissäge  TECCPO 18V 4.0Ah Akku  1 Std. Schnellladegerät  Laserführung  3 Kreissägeblätter Ø89 mm  Handkoffer -TDMS23P'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TZNLYJX/?tag=tolees0ca-21'
 descuento: '37.00'
 average: '125.99'

@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas Tiro Rucksack Rucksack  45 cm  25 Liter  Power Red/White'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JZX5NML/?tag=tolees0ca-21'
 descuento: '55.94'
 average: '15.4'

@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Schmidt Spiele 49365 Noch mal so gut  Würfelspiel aus der Serie Klein & Fein  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WZFHDC7/?tag=tolees0ca-21'
 descuento: '16.68'
 average: '9.99'

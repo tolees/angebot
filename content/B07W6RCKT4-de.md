@@ -16,6 +16,7 @@ comparePrice: 15.19 EUR
 prodname: 'Funko POP! Icons MTV - Moon Person Spielfigur'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W6RCKT4/?tag=tolees0ca-21'
 descuento: '16.13'
 average: '13.538461538461538'

@@ -16,6 +16,7 @@ comparePrice: 36.59 EUR
 prodname: 'Smart Alexa Lichtschalter  SAINKO Wifi lichtschalter arbeitet mit Amazon Alexa Google Home Fernsteuerung Ihrer Geräte von überallre gehärtetes Glas Touchscreen-schalter mit Überlastungsschutz  2 Weg '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08B8FC9TH/?tag=tolees0ca-21'
 descuento: '53.57'
 average: '16.99'

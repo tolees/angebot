@@ -16,6 +16,7 @@ comparePrice: 429.95 EUR
 prodname: 'Bose ® Companion 50 Multimedia Lautsprechersystem schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00UH9OSX4/?tag=tolees0ca-21'
 descuento: '28.13'
 average: '310.995'

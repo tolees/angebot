@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Navitech rot Harter Fall für die Transcend 16 GB DrivePro 200 Car Video Recorder with Built-In Wi-Fi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077TBD8HY/?tag=tolees0ca-21'
 descuento: '30.79'
 average: '8.99'

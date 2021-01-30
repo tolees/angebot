@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'D-Link DGS-1005D 5-Port Gigabit Switch Desktop  10/100/1000 Mbit/s TP  RJ-45  Gigabit Ports  bis zu 2000 Mbit/s pro Port im Full-Duplex-Modus  lüfterlos '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0001JZVEK/?tag=tolees0ca-21'
 descuento: '24.36'
 average: '13.012'

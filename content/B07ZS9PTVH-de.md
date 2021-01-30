@@ -16,6 +16,7 @@ comparePrice: 15.89 EUR
 prodname: 'Insmart Silikon-Küchenschwamm ， 4 STÜCKE Antibakterieller Mehrzweck-Antihaft-Pinsel Silikonschwamm  Reinigungswäscher Topflappen Geschirrspül-Schimmelpilzbürste für Geschirrgemüse Babyflaschen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZS9PTVH/?tag=tolees0ca-21'
 descuento: '45.31'
 average: '8.69'

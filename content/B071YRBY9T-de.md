@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'Acer Swift 1 SF113-31-P2CP 33 8 cm  13 3 Zoll Full-HD IPS matt  Ultrabook  Intel Pentium N4200  4GB RAM  256GB SSD  Intel HD  Win 10  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071YRBY9T/?tag=tolees0ca-21'
 descuento: '58.26'
 average: '250.0'

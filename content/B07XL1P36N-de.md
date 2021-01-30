@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Inkbird IBBQ-4T WLAN Grillthermometer Wasserdichtes  WiFi Fleischthermometer mit 4 Temperaturfühlern + Magnethalter  USB-Wiederaufladbares Bratenthermometer mit Dual-Alarm Funktion für BBQ'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XL1P36N/?tag=tolees0ca-21'
 descuento: '16.67'
 average: '99.99'

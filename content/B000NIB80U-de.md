@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Ecco ECCO OFFROAD  Herren Outdoor Sandale  Schwarz  BLACK/MOLE/BLACK50034   43 EU  9 Herren UK '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000NIB80U/?tag=tolees0ca-21'
 descuento: '50.28'
 average: '49.7'

@@ -16,6 +16,7 @@ comparePrice: 11.42 EUR
 prodname: 'Pentel R50 Tintenroller "Ball Pentel" 0 4mm  12 Stück  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000J6D3HM/?tag=tolees0ca-21'
 descuento: '29.07'
 average: '8.51529411764706'

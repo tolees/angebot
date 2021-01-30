@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Skylanders Imaginators - Champions Combo Pack  Smolderdash  Dune Bag  Cynder '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LW0CCVU/?tag=tolees0ca-21'
 descuento: '16.42'
 average: '8.35'

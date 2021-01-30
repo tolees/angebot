@@ -16,6 +16,7 @@ comparePrice: 369.45 EUR
 prodname: 'Samsung Galaxy A51 Android Smartphone ohne Vertrag  4 Kameras  6 5 Zoll Super AMOLED Display  128 GB/4 GB RAM  Dual SIM  Handy in weiß  deutsche Version'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08CVJC43P/?tag=tolees0ca-21'
 descuento: '24.21'
 average: '279.99'

@@ -16,6 +16,7 @@ comparePrice: 8.68 EUR
 prodname: 'Martha Stewart Satin Acrylic Craft Paint 2 Ounces-Seaweed'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007C7WPCK/?tag=tolees0ca-21'
 descuento: '45.39'
 average: '4.74'

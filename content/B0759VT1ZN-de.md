@@ -16,6 +16,7 @@ comparePrice: 449.0 EUR
 prodname: 'LG Beamer PH30JG bis 254 cm  100 Zoll  CineBeam Native HD LED Projektor  250 Lumen  Auto Keystone  integrierter Akku   weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0759VT1ZN/?tag=tolees0ca-21'
 descuento: '33.41'
 average: '299.0'

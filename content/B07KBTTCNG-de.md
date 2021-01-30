@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'Lightailing Licht-Set Für  Star Wars Todesstern  Modell - LED Licht-Set Kompatibel Mit Lego 10188 Modell NICHT Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KBTTCNG/?tag=tolees0ca-21'
 descuento: '62.51'
 average: '74.99'

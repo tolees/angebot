@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 13555 Herr der Ringe POP Vinylfigur: LOTR/Hobbit: Saruman  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XGWQNS6/?tag=tolees0ca-21'
 descuento: '24.59'
 average: '8.84142857142857'

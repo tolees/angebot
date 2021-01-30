@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Kitchen Craft Wasserkocher Living Nostalgia 1 4l in hellblau  Metall  30 x 18 x 18 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LLGWCOS/?tag=tolees0ca-21'
 descuento: '27.16'
 average: '19.66'

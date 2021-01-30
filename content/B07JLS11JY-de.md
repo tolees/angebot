@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Playmobil 70137 Country Kleintiere im Freigehege  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JLS11JY/?tag=tolees0ca-21'
 descuento: '23.72'
 average: '7.672857142857142'

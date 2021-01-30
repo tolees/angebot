@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Philips 929001229801 EEK A+ LED Lampe ersetzt 120 W  E27  warmweiß  2700K   2000 Lumen  Globe'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01KHIM7O6/?tag=tolees0ca-21'
 descuento: '32.35'
 average: '12.17'

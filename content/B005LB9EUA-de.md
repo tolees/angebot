@@ -16,6 +16,7 @@ comparePrice: 49.93 EUR
 prodname: 'Green Toys Schulbus  Spielzeugauto'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005LB9EUA/?tag=tolees0ca-21'
 descuento: '37.63'
 average: '31.14'

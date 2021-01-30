@@ -16,6 +16,7 @@ comparePrice: 260.61 EUR
 prodname: 'Bosch Professional 18V System Akku Baustrahler GLI 18V-4000 C  ohne Akkus und Ladegerät  Leuchtstärke: 4.000 lm  im Karton '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08222SJJB/?tag=tolees0ca-21'
 descuento: '50.31'
 average: '129.49'

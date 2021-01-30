@@ -16,6 +16,7 @@ comparePrice: 126.71 EUR
 prodname: 'Amazon Echo Spot  Smarter Wecker mit Alexa - Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01J2BL01K/?tag=tolees0ca-21'
 descuento: '30.77'
 average: '87.72'

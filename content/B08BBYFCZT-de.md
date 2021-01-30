@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Tesoky Automatisch Desinfektionsspender Automatisk Sprühspender 350ml mit Sensor Infrarot Elektrischer Seifenspender Automatisch für Badezimmer  Küchen  Hotel  Restaurant/öffentlicher Ort'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08BBYFCZT/?tag=tolees0ca-21'
 descuento: '22.51'
 average: '20.946363636363635'

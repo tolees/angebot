@@ -16,6 +16,7 @@ comparePrice: 11.97 EUR
 prodname: 'Funko 39558 POP Vinyl: Spongebob Squarepants S3: Squidward Ballerina Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MZQ393Z/?tag=tolees0ca-21'
 descuento: '33.17'
 average: '11.265000000000002'

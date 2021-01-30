@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'PLAYMOBIL Ghostbusters 9222 Slimer mit Hot Dog Stand  Ab 6 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LY44LRZ/?tag=tolees0ca-21'
 descuento: '28.85'
 average: '12.0975'

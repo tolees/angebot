@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'LIGHTAILING Licht-Set Für  Creator Detektivbüro  Modell - LED Licht-Set Kompatibel Mit Lego 10246 Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07K1JYPN8/?tag=tolees0ca-21'
 descuento: '50.01'
 average: '39.99'

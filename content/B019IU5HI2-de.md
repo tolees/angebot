@@ -16,6 +16,7 @@ comparePrice: 59.97 EUR
 prodname: 'KLIM Wind Laptop Kühler - Leistungsstark Wie Kein Anderer – Schneller Kühlvorgang - 4 Lüfter PC Notebook PS4 - Belüfteter Laptop Ständer  Gamer Gaming Stützhalterung - 2020 Version - Blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B019IU5HI2/?tag=tolees0ca-21'
 descuento: '16.68'
 average: '49.97'

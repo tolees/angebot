@@ -16,6 +16,7 @@ comparePrice: 32.0 EUR
 prodname: 'Victorinox Fibrox Tranchiermesser  22cm  Rutschfest  Ergonomisch  Edelstahl  rostfrei  spülmaschinengeeignet  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000IAZC3W/?tag=tolees0ca-21'
 descuento: '20.25'
 average: '25.52'

@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'Acer Swift 1  SF114-32-P31S  35 6 cm  14 Zoll Full-HD IPS matt  Ultrabook  Intel Pentium N5000  8 GB RAM  256 GB SSD  Intel UHD  Win 10  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DVFSTKS/?tag=tolees0ca-21'
 descuento: '49.92'
 average: '300.0'

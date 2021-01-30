@@ -16,6 +16,7 @@ comparePrice: 11.38 EUR
 prodname: 'Funko 9299 S1 No Actionfigur Games: Overwatch: Reaper  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01CDEXB56/?tag=tolees0ca-21'
 descuento: '20.65'
 average: '10.623333333333333'

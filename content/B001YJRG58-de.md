@@ -16,6 +16,7 @@ comparePrice: 189 EUR
 prodname: 'Bosch HMT84M421 Serie 2 Mikrowelle / 900 W / 25 l / Drehteller 31 5 cm / Türanschlag Links / 7 voreingestellte Automatikprogramme / automatische Leistungsstufe nach Gewicht / Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001YJRG58/?tag=tolees0ca-21'
 descuento: '42.90'
 average: '107.91'

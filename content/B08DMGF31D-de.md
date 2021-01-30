@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'AngLink Elektrisch Augenbrauentrimmer  USB Augenbrauen Rasier für Damen Augenbrauen Rasier Eingebautes Helles mit Einer Reinigungsbürste  Gold '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08DMGF31D/?tag=tolees0ca-21'
 descuento: '44.02'
 average: '13.99'

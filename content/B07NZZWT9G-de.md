@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'ONLY NOS Damen Onlroyal Hw Sk White Noos Skinny Jeans Weiß  White   34 /L32  Herstellergröße:XS '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NZZWT9G/?tag=tolees0ca-21'
 descuento: '25.94'
 average: '22.175714285714285'

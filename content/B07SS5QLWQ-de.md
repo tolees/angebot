@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'HP 24x  23 8 Zoll / Full HD 144Hz  Gaming Monitor  AMD FreeSync  1 x DisplayPort  1 x HDMI  Reaktionszeit 1ms  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SS5QLWQ/?tag=tolees0ca-21'
 descuento: '21.97'
 average: '171.26874999999998'

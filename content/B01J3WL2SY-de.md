@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'ONLY Damen Onlnew ROYAL REG SK. Biker Coated NOOS Hose  Schwarz  Black   L/L30  Herstellergröße: L '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01J3WL2SY/?tag=tolees0ca-21'
 descuento: '33.57'
 average: '26.54'

@@ -16,6 +16,7 @@ comparePrice: 2.52 EUR
 prodname: 'Duracell Specialty 2032 Lithium-Knopfzelle 3 V  2er-Packung  CR2032 /DL2032 entwickelt für die Verwendung in Schlüsselanhängern  Waagen  Wearables und medizinischen Geräten.'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003UOYB8A/?tag=tolees0ca-21'
 descuento: '22.62'
 average: '1.95'

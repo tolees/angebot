@@ -16,6 +16,7 @@ comparePrice: 66.99 EUR
 prodname: 'Tarent Skibrille mit Ultragroßes rahmenloses Design und 170° Neigung  Antibeschlag und UV-Schutz  Helmkompatibilität Snowboard Brille  Skibrille Für Herren und Damen  Silber '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XD9TCFJ/?tag=tolees0ca-21'
 descuento: '61.41'
 average: '25.85'

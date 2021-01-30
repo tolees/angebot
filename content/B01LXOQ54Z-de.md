@@ -16,6 +16,7 @@ comparePrice: 17.89 EUR
 prodname: 'Omega 3 Kapseln 2000mg - Fischöl 660 EPA 440 DHA pro Portion - 180 Weiche Gele - Hochdosiert von NutriZing - Fischölkapseln aus Nachhaltigem Fischfang  ohne Unerwünschte Zusätze'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LXOQ54Z/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '14.31'

@@ -16,6 +16,7 @@ comparePrice: 22.13 EUR
 prodname: 'Casio Collection Herren-Armbanduhr AE 1200WH 1AVEF'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0099M2IWI/?tag=tolees0ca-21'
 descuento: '20.74'
 average: '17.54'

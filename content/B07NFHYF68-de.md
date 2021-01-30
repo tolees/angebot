@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Damen TH ESS Hilfiger Hoodie LS Sweatshirt  Rot  Red Clay Xb6   Medium  Herstellergröße:M '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NFHYF68/?tag=tolees0ca-21'
 descuento: '38.16'
 average: '61.78'

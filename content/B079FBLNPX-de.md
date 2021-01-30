@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Tristar VE-5894 Ventilateur Standventilator-Durchmesser Höhenverstellbar  45 W  Schwarz  105-125 cm/Ø 40 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079FBLNPX/?tag=tolees0ca-21'
 descuento: '58.59'
 average: '14.49'

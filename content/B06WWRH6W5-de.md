@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Revell Control 24710 - Technik RC Car als Bausatz mit 27 MHz Fernsteuerung - Ferngesteuerter Offroader zum Selberbauen  einfach zu montieren  mit großen & Griffigen Reifen - RC Kit Dakar'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06WWRH6W5/?tag=tolees0ca-21'
 descuento: '39.19'
 average: '13.98'

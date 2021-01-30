@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'BRUBAKER Cosmetics Bade- und Pflegeset Cranberry im Holzschrank'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MG9N4W8/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '19.99'

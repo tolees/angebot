@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Champion Herren Classic Logo Sweatshirt  Grau  S'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0731BL1LH/?tag=tolees0ca-21'
 descuento: '15.36'
 average: '33.715'

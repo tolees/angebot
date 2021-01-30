@@ -16,6 +16,7 @@ comparePrice: 355.0 EUR
 prodname: 'LOUIS XVI Herren-Armbanduhr Athos Stahlband Rosegold Braun Chronograph Analog Quarz Edelstahl 969'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B088RKSXH7/?tag=tolees0ca-21'
 descuento: '25.00'
 average: '266.25'

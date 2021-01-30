@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Der neue Echo Dot  3. Gen.  – smarter Lautsprecher mit Uhr und Alexa  Sandstein Stoff'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NQCVHQ6/?tag=tolees0ca-21'
 descuento: '42.86'
 average: '39.99'

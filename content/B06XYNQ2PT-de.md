@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Hasbro Spiele C2473100 - OhwEi  Vorschulspiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XYNQ2PT/?tag=tolees0ca-21'
 descuento: '62.99'
 average: '10.000000000000002'

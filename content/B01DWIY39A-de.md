@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Garmin Forerunner 735XT-GPS-Uhr  schwarz/grau  M  010-01614-06'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01DWIY39A/?tag=tolees0ca-21'
 descuento: '45.01'
 average: '183.235'

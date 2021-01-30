@@ -16,6 +16,7 @@ comparePrice: 85.98 EUR
 prodname: 'Kepae Vitrinen für Ideas 21319  Acryl Box Display Vitrine Schaukästen Kompatibel Mit Friends Central Perk  Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083GQC9WV/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '42.99'

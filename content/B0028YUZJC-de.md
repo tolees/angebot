@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'ParkTool Werkzeugablage  One size  4001145'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0028YUZJC/?tag=tolees0ca-21'
 descuento: '20.03'
 average: '27.95'

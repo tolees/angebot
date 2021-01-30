@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Naruto Naruto Vinyl Figure 71 Sammelfigur Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0198KU5KM/?tag=tolees0ca-21'
 descuento: '42.82'
 average: '8.0'

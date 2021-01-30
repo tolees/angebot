@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Rollei Actioncam 560 Touch - WiFi Action-Cam wasserdicht 4k 60 FPS - Sports-Cam mit Touchscreen  Unterwasser-Filter  Fotointervallaufnahmen mit 160° Super-Weitwinkel-Objektiv mit viel Zubehör'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KRSGJ2W/?tag=tolees0ca-21'
 descuento: '41.33'
 average: '88.0'

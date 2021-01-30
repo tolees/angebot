@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Keine Nacht für Niemand  Ltd. Digi '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XPHVW9T/?tag=tolees0ca-21'
 descuento: '38.49'
 average: '7.99'

@@ -16,6 +16,7 @@ comparePrice: 25.97 EUR
 prodname: 'Buluri Washi Tape 50 Rolls Washi Masking Tape Dekorative Klebeband für Scrapbooking DIY Handwerk'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0753CV8QW/?tag=tolees0ca-21'
 descuento: '38.78'
 average: '15.9'

@@ -16,6 +16,7 @@ comparePrice: 91.62 EUR
 prodname: 'Lexar High-Performance 633x 512GB microSDXC UHS-I Karte'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07N77C6KY/?tag=tolees0ca-21'
 descuento: '36.75'
 average: '57.95'

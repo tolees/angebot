@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Mattel Games V9364 - UNO Extreme Kartenspiel  geeignet für 2 - 10 Spieler  Spieldauer ca. 15 Minuten  Gesellschaftsspiele und Kartenspiele ab 7 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0043YKXUG/?tag=tolees0ca-21'
 descuento: '43.07'
 average: '29.41090909090909'

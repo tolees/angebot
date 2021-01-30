@@ -16,6 +16,7 @@ comparePrice: 16.5 EUR
 prodname: 'walther design AJ330B Aluminium-Bilderrahmen Chair  30x30 cm  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0065HBJOS/?tag=tolees0ca-21'
 descuento: '20.36'
 average: '13.14'

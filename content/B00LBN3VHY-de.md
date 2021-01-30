@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Ice-Watch - ICE glam pastel Aqua - Women s wristwatch with silicon strap - 001064  Small '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00LBN3VHY/?tag=tolees0ca-21'
 descuento: '39.58'
 average: '53.77'

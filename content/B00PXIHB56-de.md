@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Yamaha EPH-M200 In-Ear Kopfhörer  15 mm Treiber  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00PXIHB56/?tag=tolees0ca-21'
 descuento: '22.00'
 average: '35.02'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Schiesser Damen Tai  3er Pack  Slip  Weiß  weiss 100   40/L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00KHTLCVU/?tag=tolees0ca-21'
 descuento: '27.18'
 average: '21.81'

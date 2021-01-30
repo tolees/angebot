@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Geox Herren U Shark A Mokassin  Grau  Stone   46 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076X5FNJV/?tag=tolees0ca-21'
 descuento: '52.60'
 average: '47.38'

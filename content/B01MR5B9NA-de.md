@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'B.K.Licht I LED Pendelleuchte inkl. 4x 4W Platinen I 330lm I Höhenverstellbar I 3.000K warmweiß I Länge: 87cm I Echtglas I Matt-Nickel I Deckenlampe'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MR5B9NA/?tag=tolees0ca-21'
 descuento: '25.00'
 average: '44.99'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'WMF KÜCHENminis 1-Ei-Eierkocher My Egg  mit Eierbecher  Cromargan matt  platzsparend  mit Härtegradeinstellung  56 W'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075X6WRJV/?tag=tolees0ca-21'
 descuento: '24.01'
 average: '16.994999999999997'

@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Funko 33973 Vinyl: Games: Fallout S2: T-51 Power Armor Pop Sammelbares Spielzeug  Mehrfarben  Einheitsgröße'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HB8C1XQ/?tag=tolees0ca-21'
 descuento: '24.21'
 average: '11.443333333333333'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'PLAYMOBIL Family Fun 9420 Sonnige Ferienvilla  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0766DJPRK/?tag=tolees0ca-21'
 descuento: '50.41'
 average: '38.727647058823536'

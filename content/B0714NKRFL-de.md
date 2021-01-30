@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Uglyfrog Bike-T Full Zip Herren Radtrikot Set  Atmungsaktiv Quick-Dry Kurzarm Radsport-Shirt + Gel Gepolsterte Shorts'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0714NKRFL/?tag=tolees0ca-21'
 descuento: '45.01'
 average: '43.99'

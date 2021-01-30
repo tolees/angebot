@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'JACK & JONES Herren T-Shirt O-Neck Print Shirt  L  Total Eclipse '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WVNV8M3/?tag=tolees0ca-21'
 descuento: '35.02'
 average: '12.99'

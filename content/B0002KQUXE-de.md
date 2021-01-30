@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Technics RP-DH1200 DJ Kopfhörer silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0002KQUXE/?tag=tolees0ca-21'
 descuento: '46.97'
 average: '106.05'

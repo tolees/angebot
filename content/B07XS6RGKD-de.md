@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Lenovo Q24i-10 60 45 cm  23 8 Zoll Full HD IPS matt  Monitor  VGA  HDMI  4ms Reaktionszeit  AMD FreeSync  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XS6RGKD/?tag=tolees0ca-21'
 descuento: '21.16'
 average: '149.0'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'SanDisk Ultra 64GB microSDXC Speicherkarte + Adapter bis zu 100 MB/Sek.  Class 10  U1  A1  FFP'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B073SB2L3C/?tag=tolees0ca-21'
 descuento: '38.44'
 average: '11.69'

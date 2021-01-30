@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'YI Überwachungskamera Home IP Kamera 3 1080P Full HD mit Künstlicher Intelligenz Haustier Monitor  Nachtsicht Bewegungsmelder  Personenerkennung  Audio-Analyse  App für Smartphone/PC'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07M6VNDXK/?tag=tolees0ca-21'
 descuento: '37.15'
 average: '21.99'

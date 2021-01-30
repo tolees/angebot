@@ -16,6 +16,7 @@ comparePrice: 329.0 EUR
 prodname: 'Samsung HW-R530 Soundbar  Bluetooth  Surround Ready - Kompatibel mit SWA-8500S  Subwoofer  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PDHW9W5/?tag=tolees0ca-21'
 descuento: '26.31'
 average: '242.43'

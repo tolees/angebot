@@ -16,6 +16,7 @@ comparePrice: 33.31 EUR
 prodname: 'LED Discokugel  SOLMORE 51LEDs 12W 7 Farben Discolampe Partyleuchte RGB Lichteffekt Bühnenbeleuchtung Party Licht Deko'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0747JBC1X/?tag=tolees0ca-21'
 descuento: '39.99'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Lenovo L27q-10 68 58 cm  27 Zoll QHD IPS matt  Monitor  HDMI  DisplayPort  4ms Reaktionszeit  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071Z6DCTL/?tag=tolees0ca-21'
 descuento: '40.13'
 average: '179.0'

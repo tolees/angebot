@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Regal Raumteiler Raumtrenner Standregal | Weiß Dekor | 9 Fächer | B/H/L: 112x112x38 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01IBJ522W/?tag=tolees0ca-21'
 descuento: '23.02'
 average: '76.9'

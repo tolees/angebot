@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'SEVERIN Crêpes Maker CM 2198  Inkl. Holz-Teigspatel und -Crêpeswender  1.000 W  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002ALSHZC/?tag=tolees0ca-21'
 descuento: '43.35'
 average: '19.156666666666666'

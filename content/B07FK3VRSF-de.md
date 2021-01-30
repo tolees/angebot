@@ -16,6 +16,7 @@ comparePrice: 1.69 EUR
 prodname: 'Diamond Mangofrüchte in Scheiben  leicht gezuckert  425 g'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FK3VRSF/?tag=tolees0ca-21'
 descuento: '40.83'
 average: '1.345'

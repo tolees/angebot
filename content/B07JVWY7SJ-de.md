@@ -16,6 +16,7 @@ comparePrice: 545.5 EUR
 prodname: 'ASUS ROG STRIX NVIDIA GeForce RTX 2070 OC 8G Gaming Grafikkarte  PCIe 3.0  8GB DDR6 Speicher  HDMI  Displayport  USB Type-C '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JVWY7SJ/?tag=tolees0ca-21'
 descuento: '40.42'
 average: '325.0'

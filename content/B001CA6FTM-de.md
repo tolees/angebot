@@ -16,6 +16,7 @@ comparePrice: 17.37 EUR
 prodname: 'HAZET 868X Verlängerung  1/4 Zoll  6.3 mm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001CA6FTM/?tag=tolees0ca-21'
 descuento: '30.97'
 average: '11.99'

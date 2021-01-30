@@ -16,6 +16,7 @@ comparePrice: 2831.0 EUR
 prodname: 'Siemens EX801KYW1E iQ700 Kochfeld / 79 2 cm / WLAN-fähig mit Home Connect / VarioInduktion Plus / varioMotion / Brat-Sensor Plus mit 5 Temperaturstufen / Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XPSYLFH/?tag=tolees0ca-21'
 descuento: '56.65'
 average: '1218.9566666666667'

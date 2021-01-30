@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Hasbro Beyblade Burst B9503ES0 - Single Top Roktavor  Kreisel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071HW94VG/?tag=tolees0ca-21'
 descuento: '28.45'
 average: '10.0'

@@ -16,6 +16,7 @@ comparePrice: 349.99 EUR
 prodname: 'Garmin Forerunner 735XT-GPS-Uhr  frost blau  M  010-01614-16'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01DWIY72I/?tag=tolees0ca-21'
 descuento: '22.56'
 average: '271.02'

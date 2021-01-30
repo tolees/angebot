@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Honor 10 Smartphone  14 83 cm  5 84 Zoll   Full HD+ Touch-Display  64GB interner Speicher  4GB RAM  Phantom Grün - Deutsche Version'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07D83JHPB/?tag=tolees0ca-21'
 descuento: '54.89'
 average: '210.82666666666668'

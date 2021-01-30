@@ -16,6 +16,7 @@ comparePrice: 6.65 EUR
 prodname: 'Die Suche Geht Weiter  Jewelbox '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001JNNDEC/?tag=tolees0ca-21'
 descuento: '49.77'
 average: '4.1979999999999995'

@@ -16,6 +16,7 @@ comparePrice: 13.9 EUR
 prodname: 'Villeroy & Boch Toy s Delight Tasse  200 ml  Premium Porzellan  Weiß/Rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0092MGDX0/?tag=tolees0ca-21'
 descuento: '42.52'
 average: '7.99'

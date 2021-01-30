@@ -16,6 +16,7 @@ comparePrice: 29.37 EUR
 prodname: 'L.O.L. Surprise! - Mädchen-Badeanzug mit Volant und Allover-Print für Strand und Pool  offiziell lizenziertes Originalprodukt 18-XXX 146 cm/11 Jahre'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SQF4B63/?tag=tolees0ca-21'
 descuento: '30.85'
 average: '20.31'

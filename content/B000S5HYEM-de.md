@@ -16,6 +16,7 @@ comparePrice: 9.29 EUR
 prodname: 'Herlitz 8842700 Packbandabroller für Grossrollen Ind. Abrisse'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000S5HYEM/?tag=tolees0ca-21'
 descuento: '38.21'
 average: '5.74'

@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Pegasus Spiele 18324G - Memoarrr  Edition Spielwiese '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0746MQ3DH/?tag=tolees0ca-21'
 descuento: '16.68'
 average: '8.29'

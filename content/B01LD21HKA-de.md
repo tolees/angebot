@@ -16,6 +16,7 @@ comparePrice: 198.26 EUR
 prodname: 'LG Electronics VRD 710 RRC Carpet Care Roboter-Staubsauger  Raumerkennung durch Dual-Kamera System  4 Reinigungsmodi  inkl. Teppichbürste  ruby rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LD21HKA/?tag=tolees0ca-21'
 descuento: '29.84'
 average: '210.2'

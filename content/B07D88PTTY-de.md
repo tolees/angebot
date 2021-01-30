@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Battlefield V - Standard Edition | PC Download - Origin Code'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07D88PTTY/?tag=tolees0ca-21'
 descuento: '75.02'
 average: '11.99'

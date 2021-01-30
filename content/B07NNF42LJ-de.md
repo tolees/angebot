@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Panasonic RP-HTX20BE-H In-Ear Kopfhörer Bluetooth  8 5 h Akkulaufzeit  Quick-Charge  Sprachsteuerung  Kopfhörer wireless  grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NNF42LJ/?tag=tolees0ca-21'
 descuento: '58.57'
 average: '29.0'

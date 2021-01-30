@@ -16,6 +16,7 @@ comparePrice: 37.95 EUR
 prodname: 'SUADEEX Sicherheitsschuhe Herren Damen Arbeitsschuhe S3 Leicht Sportlich Atmungsaktiv Schutzschuhe Stahlkappe Sneaker Schwarz 44EU   270 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07R6CSZQJ/?tag=tolees0ca-21'
 descuento: '15.02'
 average: '32.25'

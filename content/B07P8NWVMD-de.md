@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Playmobil 70212 Dollhouse Kindergeburtstag mit Clown  ab 4 Jahren  bunt  one Size'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P8NWVMD/?tag=tolees0ca-21'
 descuento: '25.10'
 average: '17.034736842105264'

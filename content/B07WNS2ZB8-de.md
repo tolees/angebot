@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'GoPro Schutzgehäuse für HERO8 Black  Offizielles GoPro Zubehör '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WNS2ZB8/?tag=tolees0ca-21'
 descuento: '24.00'
 average: '38.015'

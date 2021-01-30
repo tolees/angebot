@@ -16,6 +16,7 @@ comparePrice: 40.1 EUR
 prodname: 'Funko! Rides: Game of Thrones S10: White Walker on Horse  Einheitsgröße  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KPHL1YZ/?tag=tolees0ca-21'
 descuento: '58.48'
 average: '21.562602739726028'

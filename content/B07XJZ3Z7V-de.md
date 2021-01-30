@@ -16,6 +16,7 @@ comparePrice: 59.66 EUR
 prodname: 'LG PK5W Outdoor Bluetooth Lautsprecher mit Meridian Technologie Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XJZ3Z7V/?tag=tolees0ca-21'
 descuento: '34.63'
 average: '39.0'

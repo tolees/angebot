@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Funko 37867 POP Vinyl: BTS: RM Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KPSTR4B/?tag=tolees0ca-21'
 descuento: '38.43'
 average: '10.20777777777778'

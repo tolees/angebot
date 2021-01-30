@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Durex Gefühlsecht Kondome – Hauchzarte Kondome für intensives Empfinden und innige Zweisamkeit – 100er Großpackung  1 x 100 Stück '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GJ5G4CJ/?tag=tolees0ca-21'
 descuento: '35.99'
 average: '38.4'

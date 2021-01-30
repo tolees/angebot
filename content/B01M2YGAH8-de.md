@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'Timberland Herren Bradstreet Leather Sensorflex Chukka Boots  Gelb  Wheat Nubuck   43 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M2YGAH8/?tag=tolees0ca-21'
 descuento: '54.97'
 average: '62.99'

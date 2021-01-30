@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Kami Idea Muttertagsgeschenk Halsketten für Frauen Ringe Anhänger Swarovski Kristall Schmuck Damen Kette Geschenk für Frauen Geburtstagsgeschenk für Frauen Mama Modeschmuck Roségold Schmuckkästchen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07N7XRNVT/?tag=tolees0ca-21'
 descuento: '75.01'
 average: '24.99'

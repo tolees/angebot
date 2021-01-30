@@ -16,6 +16,7 @@ comparePrice: 12.96 EUR
 prodname: 'Playmobil 5309 - Schlafzimmer mit Schminktischchen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00VLVH1UO/?tag=tolees0ca-21'
 descuento: '30.56'
 average: '11.209411764705878'

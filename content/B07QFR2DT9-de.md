@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Westmark Wasserkaraffe mit Infuser/Fruchteinsatz  Füllvolumen: 1 Liter  Glas  Mit Edelstahldeckel  62952260'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QFR2DT9/?tag=tolees0ca-21'
 descuento: '37.78'
 average: '18.66'

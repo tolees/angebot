@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Monsieur Claude 2 [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Q6HNSWP/?tag=tolees0ca-21'
 descuento: '30.23'
 average: '6.97'

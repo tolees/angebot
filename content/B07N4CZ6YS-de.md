@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Pantofola d Oro Herren MILITO Uomo Low Sneaker  Braun  Tortoise Shell.Jcu   44 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07N4CZ6YS/?tag=tolees0ca-21'
 descuento: '39.98'
 average: '59.99'

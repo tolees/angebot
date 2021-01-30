@@ -16,6 +16,7 @@ comparePrice: 5.58 EUR
 prodname: 'Durable 840500 Selbstklebe-Taben Quick Tab  wiederablösbar Btl. à 48 Stück farbig sortiert'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002BDVGK2/?tag=tolees0ca-21'
 descuento: '20.25'
 average: '4.45'

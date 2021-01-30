@@ -16,6 +16,7 @@ comparePrice: 9.04 EUR
 prodname: 'Pentel BK440-C Kugelschreiber mit Druckmechanik und ergonomischer Dreiecksgriffzone  blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000UHMXVC/?tag=tolees0ca-21'
 descuento: '18.92'
 average: '7.33'

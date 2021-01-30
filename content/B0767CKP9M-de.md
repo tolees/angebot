@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Playmobil 9339 - Waldelfe Spiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0767CKP9M/?tag=tolees0ca-21'
 descuento: '49.83'
 average: '1.5'

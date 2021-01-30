@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Marc O Polo Herren 021010810064 Hose  Grün  Shadow 425   W Herstellergröße: 30 32 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07V3RN1PV/?tag=tolees0ca-21'
 descuento: '51.04'
 average: '44.04'

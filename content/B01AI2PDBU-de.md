@@ -16,6 +16,7 @@ comparePrice: 189.99 EUR
 prodname: 'Bosch Akku Heckenschere AHS 55-20 LI  1 Akku  18 Volt System  Schnittlänge 55 cm  im Karton '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01AI2PDBU/?tag=tolees0ca-21'
 descuento: '21.63'
 average: '148.89'

@@ -16,6 +16,7 @@ comparePrice: 11.04 EUR
 prodname: 'Cellular Line TEMPGLASSIPH647 Displayschutzglas für Apple iPhone 6'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00MXR6WUA/?tag=tolees0ca-21'
 descuento: '43.75'
 average: '6.21'

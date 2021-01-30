@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Eva Solo Miska 1  2L Nordic Kitchen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074ZT5HDS/?tag=tolees0ca-21'
 descuento: '29.62'
 average: '14.04'

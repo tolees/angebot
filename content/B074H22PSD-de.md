@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Merry Style Damen Leggings 3/4 aus Viskose MS10-144  Schwarz  L '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074H22PSD/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '11.19'

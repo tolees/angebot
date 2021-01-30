@@ -16,6 +16,7 @@ comparePrice: 749.0 EUR
 prodname: 'Samsung Galaxy S10e Smartphone  128 GB Interner Speicher  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MTYCG43/?tag=tolees0ca-21'
 descuento: '36.72'
 average: '474.0'

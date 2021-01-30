@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Philips Bartschneider BT5515/15  40 verschiedene Looks  0 4 - 20 mm   Präzisionstrimmer  Ladestand  selbstschärfende Metallklingen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07M5B1L9S/?tag=tolees0ca-21'
 descuento: '42.86'
 average: '48.32333333333334'

@@ -16,6 +16,7 @@ comparePrice: 13.53 EUR
 prodname: 'Funko 40631 POP Vinyl: Movies: IT: Chapter 2-Pennywise w/Dog Tongue Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PCCT9L3/?tag=tolees0ca-21'
 descuento: '27.64'
 average: '9.498'

@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Ice-Watch - ICE ola White Black - Women s wristwatch with silicon strap - 000992  Small '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00LBN3FKM/?tag=tolees0ca-21'
 descuento: '37.78'
 average: '49.15'

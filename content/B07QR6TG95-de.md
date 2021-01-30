@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Herren Tommy Logo Hoody Sweatshirt  Schwarz  Jet Black Base   Medium  Herstellergröße: M '
 country: 'de'
 flag: '🇩🇪'
+brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.de/dp/B07QR6TG95/?tag=tolees0ca-21'
 descuento: '45.05'
 average: '60.2885714285714'
@@ -29,8 +30,8 @@ Sie können [Tommy Hilfiger Herren Tommy Logo Hoody Sweatshirt  Schwarz  Jet Bla
 
 - Pflegehinweis: Maschinenwäsche
 - Regular Fit
-- 64% Baumwolle, 36% Polyester
 - Kragenform: Kapuze
+- 64% Baumwolle, 36% Polyester
 - Langarm
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07QR6TG95/?tag=tolees0ca-21)

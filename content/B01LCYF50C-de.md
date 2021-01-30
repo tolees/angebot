@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'roba Garderobe  Kindermöbel mit Kleiderständer  Regal  Kleiderstange & grossem Spiegel; aus Holz weiß lackiert  Standgarderobe für Kinder'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LCYF50C/?tag=tolees0ca-21'
 descuento: '30.81'
 average: '103.72'

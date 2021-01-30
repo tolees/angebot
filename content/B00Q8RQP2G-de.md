@@ -16,6 +16,7 @@ comparePrice: 22.71 EUR
 prodname: 'Magi: The Kingdom of Magic - Staffel 2 - Vol.2 - [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00Q8RQP2G/?tag=tolees0ca-21'
 descuento: '42.84'
 average: '12.98'

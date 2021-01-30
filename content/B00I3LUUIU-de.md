@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Sony MDR-EX110APB In-Ear-Kopfhörer schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00I3LUUIU/?tag=tolees0ca-21'
 descuento: '25.01'
 average: '14.99'

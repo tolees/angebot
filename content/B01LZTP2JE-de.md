@@ -16,6 +16,7 @@ comparePrice: 699.0 EUR
 prodname: 'Samsung WW70K4420YW/EG AddWash Waschmaschine Frontlader/A+++/1400UpM/7 kg/AddWash/SmartCheck/weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LZTP2JE/?tag=tolees0ca-21'
 descuento: '42.78'
 average: '399.99'

@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Medisana BU 570 connect Oberarmblutdruckmessgerät  Arrhythmie-Anzeige  Bluetooth  WHO-Ampel-Farbskala für präzise Blutdruckmessung und Pulsmessung mit Speicherfunktion während des Aufpumpens'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08DG6VCYB/?tag=tolees0ca-21'
 descuento: '23.89'
 average: '53.24'

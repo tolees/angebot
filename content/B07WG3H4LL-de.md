@@ -16,6 +16,7 @@ comparePrice: 9.03 EUR
 prodname: 'Vige 25 Pares Herramienta de reparación de almohadillas de silicona para gafas Gafas de sol Gafas de nariz Accesorios de gafas 13mm - Transparente'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WG3H4LL/?tag=tolees0ca-21'
 descuento: '37.98'
 average: '3.4899999999999998'

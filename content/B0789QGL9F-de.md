@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Garmin vívofit 4 Fitness Tracker  personalisierbares Farbdisplay  schlankes Design  bis zu 1 Jahr Batterielaufzeit   schwarz   Small/Medium'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0789QGL9F/?tag=tolees0ca-21'
 descuento: '43.74'
 average: '45.0'

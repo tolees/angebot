@@ -16,6 +16,7 @@ comparePrice: 5.6 EUR
 prodname: 'Silverline 598492 Gummihammer  schwarz 907 g'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000LFXDNK/?tag=tolees0ca-21'
 descuento: '46.61'
 average: '2.99'

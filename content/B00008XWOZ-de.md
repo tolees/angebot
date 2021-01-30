@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'WMF Pfannenwender Kunststoff 31 x 7 5 cm  Brat-/ Grillwender  spülmaschinengeeignet  hitzebeständig bis 270°C  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00008XWOZ/?tag=tolees0ca-21'
 descuento: '30.93'
 average: '6.9'

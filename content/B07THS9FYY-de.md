@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'LIGHTAILING Licht-Set Für  Marvel Super Heroes Iron Mans Werkstatt  Modell - LED Licht-Set Kompatibel Mit Lego 76125 Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07THS9FYY/?tag=tolees0ca-21'
 descuento: '53.76'
 average: '36.99'

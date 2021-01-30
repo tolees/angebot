@@ -16,6 +16,7 @@ comparePrice: 146.29 EUR
 prodname: 'Dremel Platin Edition 4000 Multifunktionswerkzeug 175W  Set mit 4 Vorsatzgeräten  65 Zubehörteilen  Variable Drehzahl 5.000-35.000 U/min zum Schneiden  Schnitzen  Bohren  Gravieren  Schleifen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B014UXZMEG/?tag=tolees0ca-21'
 descuento: '41.90'
 average: '84.99'

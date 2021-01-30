@@ -16,6 +16,7 @@ comparePrice: 7.69 EUR
 prodname: 'The Iceman'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00BMIVK4E/?tag=tolees0ca-21'
 descuento: '22.11'
 average: '5.99'

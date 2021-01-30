@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s Damen Ls Baby Tee T-Shirt  Caviar 0014  Large'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07S4WSQC9/?tag=tolees0ca-21'
 descuento: '31.71'
 average: '21.325'

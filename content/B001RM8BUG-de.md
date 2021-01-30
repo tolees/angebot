@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Panasonic LUMIX DMW-BCG10E Aufladbarer Li-Ion Akku  geeignet für LUMIX Digitalkameras  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001RM8BUG/?tag=tolees0ca-21'
 descuento: '57.99'
 average: '18.9'

@@ -16,6 +16,7 @@ comparePrice: 69.69 EUR
 prodname: 'Bluetooth Adapter 5.0 Empfänger Transmitter  2 in 1 Bluetooth Sender Receiver Low Latency HD Bluetooth Audio Adapter mit RCA & 3.5 mm AUX kompatibel für TV PC Kopfhörer autsprecher Auto Radio'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0894TH4KJ/?tag=tolees0ca-21'
 descuento: '71.32'
 average: '19.215806451612906'

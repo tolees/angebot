@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Pegasus Spiele 57104G - Kingdomino Spiel des Jahres 2017'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0742XTFT7/?tag=tolees0ca-21'
 descuento: '24.75'
 average: '11.85'

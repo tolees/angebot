@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Sylvanian Families 5273 Limousine  Puppenauto  26 x 12 5 x 17 5 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MTF0FKG/?tag=tolees0ca-21'
 descuento: '19.44'
 average: '24.1925'

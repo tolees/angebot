@@ -16,6 +16,7 @@ comparePrice: 50.99 EUR
 prodname: 'Aikzik Tageslichtlampe  10000 Lux Tageslichtleuchte UV freie LED Lichttherapielampe  mit 3 einstellbare Helligkeitsstufen Lichttherapie mit Multi Winkel Ständer mit Timer-Funktion Touch-Steuerung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B081RJMGSX/?tag=tolees0ca-21'
 descuento: '21.57'
 average: '38.99'

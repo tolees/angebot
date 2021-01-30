@@ -16,6 +16,7 @@ comparePrice: 289.99 EUR
 prodname: 'Netgear GS748T 48-Port Gigabit Ethernet LAN Switch Smart Managed Pro  mit 4x 1G SFP  Desktop- oder Rack-Montage mit ProSAFE Lifetime-Garantie '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00H2ETA1M/?tag=tolees0ca-21'
 descuento: '19.24'
 average: '235.59'

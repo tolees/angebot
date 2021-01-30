@@ -16,6 +16,7 @@ comparePrice: 570.9 EUR
 prodname: 'Synology DS218 + 6TB  2 x 3TB WD RED  2 Bay Desktop-NAS-Einheit'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07652KZGG/?tag=tolees0ca-21'
 descuento: '34.49'
 average: '374.0'

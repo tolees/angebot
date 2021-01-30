@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Oral-B CrossAction Black Edition Aufsteckbürsten  Borsten im 16-Grad Winkel für eine überlegene Reinigung  5 Stück  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07L6W8KVY/?tag=tolees0ca-21'
 descuento: '25.73'
 average: '15.59'

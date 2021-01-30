@@ -16,6 +16,7 @@ comparePrice: 47.94 EUR
 prodname: 'PUMA Sneakersocken 18 Paar Pack Statement Edition - Damen und Herren - Navigate-Peacoat - Gr. 43-46'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B089RF8BNG/?tag=tolees0ca-21'
 descuento: '55.78'
 average: '21.2'

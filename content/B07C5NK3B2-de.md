@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'Rosti Mepal 107778076700 Flasche  Ellipse  700 ml  Kunststoff  Nordic Pink  6 8 x 6 8 x 29 8'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07C5NK3B2/?tag=tolees0ca-21'
 descuento: '16.40'
 average: '9.99'

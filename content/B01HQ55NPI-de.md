@@ -16,6 +16,7 @@ comparePrice: 114.36 EUR
 prodname: 'Pokémon GO Plus'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01HQ55NPI/?tag=tolees0ca-21'
 descuento: '34.44'
 average: '92.49000000000001'

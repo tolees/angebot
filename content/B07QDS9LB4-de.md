@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Rotho Albula Mülltrennungssystem für Küche / Set 3fach / Mülleimer 25L / Kunststoff braun blau anthrazit 3x 25 Liter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QDS9LB4/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '55.95'

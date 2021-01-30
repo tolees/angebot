@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Ravensburger 13698 - Magische Einhörner Puzzle'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06WWQHWKD/?tag=tolees0ca-21'
 descuento: '40.10'
 average: '8.38'

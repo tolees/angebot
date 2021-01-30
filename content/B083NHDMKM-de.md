@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Bluetooth Kopfhörer In Ear Kopfhörer Kabellos mit 125 Stunden Spielzeit  Wireless Kopfhörer Sport Ohrhörer IP7 Wasserdicht  Stereo Deep Bass Touch-Control  Stereoanrufe  Battery LED Display'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083NHDMKM/?tag=tolees0ca-21'
 descuento: '15.01'
 average: '30.204285714285717'

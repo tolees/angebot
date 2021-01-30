@@ -16,6 +16,7 @@ comparePrice: 11.49 EUR
 prodname: 'May Your Kindness Remain'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07896LHJW/?tag=tolees0ca-21'
 descuento: '36.55'
 average: '7.29'

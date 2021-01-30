@@ -16,6 +16,7 @@ comparePrice: 54.9 EUR
 prodname: 'Samsung Clear View Cover  EF-ZG985  für Galaxy S20+ | S20+ 5G  Black'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083LZGNGV/?tag=tolees0ca-21'
 descuento: '36.27'
 average: '34.99'

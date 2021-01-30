@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'ENACFIRE Bluetooth Kopfhörer  E60 kabellos Ohrhörer mit Wireless Ladekoffer  8H ununterbrochene Wiedergabezeit Dual Apt-X Deep-Bass Ohrhörer  wasserdichte IPX8 Bluetooth V5.0 Kopfhörer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WHN3XRF/?tag=tolees0ca-21'
 descuento: '33.34'
 average: '37.99'

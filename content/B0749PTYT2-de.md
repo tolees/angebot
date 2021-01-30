@@ -16,6 +16,7 @@ comparePrice: 125.99 EUR
 prodname: 'AmazonBasics - Terassenstuhl  5-Stufen verstellbar  Doppelpack'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0749PTYT2/?tag=tolees0ca-21'
 descuento: '48.41'
 average: '65'

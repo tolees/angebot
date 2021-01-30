@@ -16,6 +16,7 @@ comparePrice: 14.5 EUR
 prodname: 'YOKAI WATCH 2: Geistige Geister - [Nintendo 3DS]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B073XQCVQB/?tag=tolees0ca-21'
 descuento: '31.10'
 average: '9.99'

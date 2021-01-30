@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Playmobil 70123 Spirit - Riding Free Solana beim Voltigieren  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JLS11KQ/?tag=tolees0ca-21'
 descuento: '34.04'
 average: '6.3966666666666665'

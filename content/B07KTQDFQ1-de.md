@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Tommy Hilfiger Armbanduhr 1710382'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KTQDFQ1/?tag=tolees0ca-21'
 descuento: '24.44'
 average: '127.7'

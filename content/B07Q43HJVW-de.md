@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Kabelclips Kabelhalter  URAQT Vielzwecke Kabelführung Kabel Organizer Set für Schreibtisch  Netzkabel  USB Ladekabel  Ladegeräte  Audiokabel  20 Stück  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Q43HJVW/?tag=tolees0ca-21'
 descuento: '30.03'
 average: '6.99'

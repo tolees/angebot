@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'SELECTED HOMME Herren SLHSTRAIGHT ST PANTS NOOS Hose  Grau  Phantom   W32/L34  Herstellergröße: 32 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B017JTHLNS/?tag=tolees0ca-21'
 descuento: '27.93'
 average: '36'

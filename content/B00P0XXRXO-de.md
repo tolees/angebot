@@ -16,6 +16,7 @@ comparePrice: 23.48 EUR
 prodname: 'Cobi 2449 Opel Blitz 3 6 - 36S  Grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00P0XXRXO/?tag=tolees0ca-21'
 descuento: '19.12'
 average: '18.99'

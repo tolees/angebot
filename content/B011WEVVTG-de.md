@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: '177/der Geist des Goldgräbers'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B011WEVVTG/?tag=tolees0ca-21'
 descuento: '42.92'
 average: '3.99'

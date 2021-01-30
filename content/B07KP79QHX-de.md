@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Unigear Touchscreen Handschuhe  Anti-Rutsch Full Finger Fahrradhandschuhe Wasserdicht Winddicht Laufhandschuhe Atmungsaktiv Geeignet für Winter Herbst Frühling'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KP79QHX/?tag=tolees0ca-21'
 descuento: '20.02'
 average: '7.99'

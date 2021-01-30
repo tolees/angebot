@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Pieces of a Man  180 Gr.Gatefold Black Vinyl  [Vinyl LP]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HS95HT0/?tag=tolees0ca-21'
 descuento: '30.01'
 average: '16.79'

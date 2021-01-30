@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Simba 6315877626 Disney Frozen 2  Chunky ELSA  43cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Q4D14QV/?tag=tolees0ca-21'
 descuento: '53.02'
 average: '15.008333333333333'

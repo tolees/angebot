@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Amazon Kindle Paperwhite Lederhülle  Onyx-Schwarz – nicht geeignet für Modelle der 10. Generation  2018 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B008BQH1NO/?tag=tolees0ca-21'
 descuento: '37.64'
 average: '21.82'

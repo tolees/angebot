@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Razer Ornata Chroma - Mecha-Membrane Gaming Keyboard  Tastatur mit Mecha-Membranen Schaltern  Ergonomische Handballenablage  voll programmierbar  RGB Chroma Beleuchtung  DE-Layout'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LQ4BMEQ/?tag=tolees0ca-21'
 descuento: '51.26'
 average: '62.40333333333333'

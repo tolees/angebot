@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'fischertechnik - 536619 PROFI Dynamic XS  Kugelbahn'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BGL6SIY/?tag=tolees0ca-21'
 descuento: '35.16'
 average: '10.323333333333334'

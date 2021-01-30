@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Kitchen Craft Tablett 30cm Living Nostalgia in weiß/grau  Emaille  30 x 18 x 18 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B013C97RSS/?tag=tolees0ca-21'
 descuento: '16.48'
 average: '17.53'

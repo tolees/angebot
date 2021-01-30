@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'VHOME Meerjungfrau Decke Geschenke Beste Freundin - Personalisierte Handgemacht Gestrickt Warmes Wohnzimmer Sofa Decke Damen Mädchen Für Weihnachts Geburtstagsgeschenk  S-Grau  Erwachsene 180x90CM '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01L6ZIDF6/?tag=tolees0ca-21'
 descuento: '33.34'
 average: '19.99'

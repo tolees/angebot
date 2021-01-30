@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Calvin Klein Herren 3p Low Rise Trunk  Boxershorts  Mehrfarbig  998 White  Red ginger  Pyro blue   L  3er Pack '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00FOHW548/?tag=tolees0ca-21'
 descuento: '32.04'
 average: '27.15'

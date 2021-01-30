@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Logitech MEETUP Zusatzmikrofon  Breitband-Audio mit Rauschunterdrückung  Bluetooth  Stummschaltung  LED-Anzeigen  Kompatibel mit MeetUp Videokonferenz-Webcams  Für größere Meetingräume - Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072R4BL6S/?tag=tolees0ca-21'
 descuento: '32.13'
 average: '169.0'

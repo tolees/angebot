@@ -16,6 +16,7 @@ comparePrice: 12.45 EUR
 prodname: 'Rasch Tapeten 226751 Kollektion Kids & Teens II  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00B7IO72Q/?tag=tolees0ca-21'
 descuento: '43.78'
 average: '7.0'

@@ -16,6 +16,7 @@ comparePrice: 111.64 EUR
 prodname: 'Samsung T7 Portable SSD - 500 GB - USB 3.2 Gen.2 Externe SSD Titan Gray  MU-PC500T/WW '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B087DDSXD3/?tag=tolees0ca-21'
 descuento: '15.00'
 average: '94.89'

@@ -16,6 +16,7 @@ comparePrice: 83.94 EUR
 prodname: 'Lavazza Kaffeebohnen - Caffè Crema Classico - 6er Pack  1 x 6 kg '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DM2R1DF/?tag=tolees0ca-21'
 descuento: '17.17'
 average: '67.99000000000001'

@@ -16,6 +16,7 @@ comparePrice: 12.5 EUR
 prodname: 'Pop Fortnite Love Ranger Vinyl Figure'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HPY5YF5/?tag=tolees0ca-21'
 descuento: '69.28'
 average: '3.91'

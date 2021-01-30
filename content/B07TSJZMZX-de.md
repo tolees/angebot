@@ -16,6 +16,7 @@ comparePrice: 72.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego Technic Geländegängiger Kranwagen  Kompatibel Mit Lego 42082 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TSJZMZX/?tag=tolees0ca-21'
 descuento: '27.40'
 average: '50.1775'

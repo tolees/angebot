@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Playmobil 70042 Dragons Raffnuss und Taffnuss mit Fluganzug  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JXJJ69P/?tag=tolees0ca-21'
 descuento: '46.45'
 average: '5.35'

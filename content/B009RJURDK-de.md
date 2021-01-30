@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'CAT Footwear Herren Caterpillar Colorado Wc44100940 Stiefel  Gelb  Honey   42 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B009RJURDK/?tag=tolees0ca-21'
 descuento: '70.01'
 average: '44.99'

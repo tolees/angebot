@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Vagabond Grace  Damen Chelsea Boots  Schwarz  Black   39 EU  6  UK '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01EOU9RW8/?tag=tolees0ca-21'
 descuento: '44.98'
 average: '54.99'

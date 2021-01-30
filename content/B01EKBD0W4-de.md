@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Playmobil 6848 - Prinzessinnenschloss'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01EKBD0W4/?tag=tolees0ca-21'
 descuento: '39.18'
 average: '91.23'

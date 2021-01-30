@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'BaByliss ST330E Glätteisen 2in1 Straight & Curl Intense Protect'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00KSQQ5SM/?tag=tolees0ca-21'
 descuento: '51.96'
 average: '23.97'

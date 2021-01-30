@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'FOSSIL Watch FS5697'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B084ZVHR4S/?tag=tolees0ca-21'
 descuento: '37.50'
 average: '118.12'

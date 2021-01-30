@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Damen Perfect Vneck T-Shirt  Schwarz  Caviar 0003   Medium'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RX7TX3R/?tag=tolees0ca-21'
 descuento: '22.40'
 average: '21.86'

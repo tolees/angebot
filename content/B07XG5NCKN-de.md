@@ -16,6 +16,7 @@ comparePrice: 17.55 EUR
 prodname: 'POP! Disney: Frozen 2 - Bruni'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XG5NCKN/?tag=tolees0ca-21'
 descuento: '37.21'
 average: '12.473333333333334'

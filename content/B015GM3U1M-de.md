@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Ice-Watch - ICE glitter Black Rose-Gold - Women s wristwatch with silicon strap - 001346  Small '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B015GM3U1M/?tag=tolees0ca-21'
 descuento: '43.13'
 average: '56.3'

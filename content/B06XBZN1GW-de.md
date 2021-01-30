@@ -16,6 +16,7 @@ comparePrice: 899.0 EUR
 prodname: 'Panasonic DMR-UBS90EGK Ultra HD Blu-ray Recorder  2TB HDD  4K Blu-ray Disc Wiedergabe  UHD TV Satellitenempfang  3 x DVB-S/S2 HD Tuner '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XBZN1GW/?tag=tolees0ca-21'
 descuento: '51.06'
 average: '440.0'

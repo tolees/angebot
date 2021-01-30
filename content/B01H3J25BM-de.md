@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Motorola TLKR T41 PMR Funkgerät mit LC-Display grün'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01H3J25BM/?tag=tolees0ca-21'
 descuento: '15.37'
 average: '25.38'

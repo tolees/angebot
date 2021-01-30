@@ -16,6 +16,7 @@ comparePrice: 36.27 EUR
 prodname: 'N/P WLAN Repeater  2 4GHz WLAN Verstärker WiFi Extender mit Router/AP/WPS/Wireless Access Point Modus  WiFi Repeater 4 External Antennas  2 Ethernet Ports  Kompatibel zu Allen WLAN Geräten'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08DV3C6PC/?tag=tolees0ca-21'
 descuento: '17.31'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 's.Oliver RED LABEL Beachwear LM Damen Cocina Bikini  blau-rot Bedruckt  40 D'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B081DPJNFL/?tag=tolees0ca-21'
 descuento: '42.74'
 average: '22.9'

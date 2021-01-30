@@ -16,6 +16,7 @@ comparePrice: 899.0 EUR
 prodname: 'Huawei P20 Pro Smartphone Bundle  15 5 cm  6 1 Zoll   40/20/8 MP Leica Triple Kamera  128GB interner Speicher  6GB RAM  Android 8.1  EMUI 8.1  Blau [Exklusiv bei Amazon] - Deutsche Version'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07C8RWNJF/?tag=tolees0ca-21'
 descuento: '49.95'
 average: '449.99'

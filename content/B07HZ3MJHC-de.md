@@ -16,6 +16,7 @@ comparePrice: 106.56 EUR
 prodname: 'Ferm Bandschleifmaschine – 350W – 150mm - einschl. 2 Schleifbänder  P80 & P120  und 2 Schleifscheiben  P80 & P120 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HZ3MJHC/?tag=tolees0ca-21'
 descuento: '24.93'
 average: '79.99'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Avoseedo das Besondere Garten Geschenke - Pflanzen Sie Ihren Eigenen Avocadobaum. Kleine Geschenke Für Männer Und Frauen. Die Neue Klein Dekoration Für Ein Schöneres Zu Hause. Das Komplette Pflanz Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01GHU9HSM/?tag=tolees0ca-21'
 descuento: '29.96'
 average: '11.9'

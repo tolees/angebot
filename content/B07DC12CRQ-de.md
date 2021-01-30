@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Puma Damen Sneakers Sneaker Puma Vikky Stacked L  Weiß  Puma White   40 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DC12CRQ/?tag=tolees0ca-21'
 descuento: '32.36'
 average: '40.55'

@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Ravensburger 23402 - Disney Frozen Brettspiele auf zum Eispalast - Mitbringspiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00QM4WO7K/?tag=tolees0ca-21'
 descuento: '24.03'
 average: '5.683333333333333'

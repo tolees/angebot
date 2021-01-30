@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Relaxdays Pizzablech  2er Set  rund  gelocht  antihaft  Pizza & Flammkuchen  Carbonstahl  Knusperblech  ∅ 32 cm  grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07V7DPXFF/?tag=tolees0ca-21'
 descuento: '41.04'
 average: '5.89'

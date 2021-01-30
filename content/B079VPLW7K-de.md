@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'WORX WG322E.9 Akku Kettensäge 20V – Praktische Holzsäge für Einsätze im Garten & Bauarbeiten - mit 25 cm Schnittlänge & automatischer Kettenspannung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079VPLW7K/?tag=tolees0ca-21'
 descuento: '24.00'
 average: '91.19'

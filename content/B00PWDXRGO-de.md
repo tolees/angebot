@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Columbia Herren Woodburn II Chukka Wp Omni-Heat Schwarz  Goldenrod  43 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00PWDXRGO/?tag=tolees0ca-21'
 descuento: '54.40'
 average: '50.16'

@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Dickie Toys 203713009 Special Forces  Spezialeinheit  SUV  Truck  Polizeiauto mit Funktionen  Sondereinheit  1:32  blau/gelb/grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QQFWZ7Y/?tag=tolees0ca-21'
 descuento: '44.03'
 average: '7.275'

@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Im Labyrinth des Schweigens'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00OVRTXT2/?tag=tolees0ca-21'
 descuento: '38.63'
 average: '4.29'

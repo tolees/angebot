@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Victure 1080P WLAN IP Kamera Überwachungskamera Aussen PIR Bewegungserkennung Wasserdicht mit Nachtsicht 2.4Ghz WiFi Outdoor Bullet Kamera kompatibel mit IOS/Android'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07X93DWV9/?tag=tolees0ca-21'
 descuento: '27.28'
 average: '44.99'

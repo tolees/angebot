@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Timezone Damen Jeans Slim Enya Jogg  Grau  Steel Grey Wash 9198   W29/L32'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0716V8LGP/?tag=tolees0ca-21'
 descuento: '46.69'
 average: '47.95'

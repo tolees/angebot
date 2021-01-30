@@ -16,6 +16,7 @@ comparePrice: 24.36 EUR
 prodname: 'Asmodee Exploding Kittens: A Card Game About Kittens and Explosions and Sometimes Goats  Englisch'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B010TQY7A8/?tag=tolees0ca-21'
 descuento: '19.99'
 average: '19.49'

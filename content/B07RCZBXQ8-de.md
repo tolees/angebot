@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-STAR RAW Herren 3301 Straight Jeans  Antic Charcoal B479-A800  44W / 36L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RCZBXQ8/?tag=tolees0ca-21'
 descuento: '72.30'
 average: '35.59'

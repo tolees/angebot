@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'adidas Unisex-Erwachsene Mundial Team Fußballschuhe  Schwarz  Black/Running White Ftw/Red   45 1/3 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000G4OZ4C/?tag=tolees0ca-21'
 descuento: '37.71'
 average: '80.95'

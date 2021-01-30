@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Anker Wireless Charger PowerWave Ladepad  Kabelloses 7.5W Ladegerät für iPhone 11/XR/XS/X/8  10W für Samsung Galaxy S20/S10/S9/S9+/S8  Netzteil Nicht inklusive  120cm Kabel inklusive '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07THHQMHM/?tag=tolees0ca-21'
 descuento: '15.01'
 average: '16.99'

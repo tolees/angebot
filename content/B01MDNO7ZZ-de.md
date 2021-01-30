@@ -16,6 +16,7 @@ comparePrice: 14.49 EUR
 prodname: 'Dickie Toys Happy Fendt Traktor  Trecker  Bauernhof Spielzeug  keine verschluckbaren Teile  für Kinder ab 1 Jahr  25 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MDNO7ZZ/?tag=tolees0ca-21'
 descuento: '41.41'
 average: '8.865'

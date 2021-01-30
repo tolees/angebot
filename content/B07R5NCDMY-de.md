@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Razer Seiren X Mercury USB-Streaming-Mikrofon  in Profi Qualität aus Eloxiertem Aluminium mit Eingebautem Schockdämpfer und Supernieren Aufnahme-Muster  Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07R5NCDMY/?tag=tolees0ca-21'
 descuento: '30.00'
 average: '76.99'

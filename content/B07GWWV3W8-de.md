@@ -16,6 +16,7 @@ comparePrice: 157 EUR
 prodname: 'DT Swiss Unisex - Erwachsene VR E 1900 Spline DB Läufrad  schwarz  1size'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GWWV3W8/?tag=tolees0ca-21'
 descuento: '22.69'
 average: '121.37'

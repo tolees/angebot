@@ -16,6 +16,7 @@ comparePrice: 12.49 EUR
 prodname: 'Russian Standard Original Vodka  1 x 0.7 l '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B009H2UWJG/?tag=tolees0ca-21'
 descuento: '20.02'
 average: '9.99'

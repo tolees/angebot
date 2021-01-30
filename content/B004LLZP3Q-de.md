@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Hendrick s Gin – der einzigartige Gin mit Gurken und Rosenblattessenzen  1 x 0.7 l  44% Vol.'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004LLZP3Q/?tag=tolees0ca-21'
 descuento: '22.86'
 average: '27.49'

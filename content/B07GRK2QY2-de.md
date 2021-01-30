@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'CITIZEN Promaster Marine Eco-Drive Herren Taucheruhr CA0710-82L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GRK2QY2/?tag=tolees0ca-21'
 descuento: '43.24'
 average: '198.1'

@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: '64 Fächer Kunststoff Dosen  Diamant Stickerei Sortierbox in Stabiler Aufbewahrungbox Werkzeugbehälter Schmuck Organizer diamond painting box für Nägel  Strass  Perlen  DIY Handwerk'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07LCFC2D2/?tag=tolees0ca-21'
 descuento: '38.64'
 average: '12.88'

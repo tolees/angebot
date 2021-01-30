@@ -16,6 +16,7 @@ comparePrice: 9.65 EUR
 prodname: 'Boston [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06X9J7D1W/?tag=tolees0ca-21'
 descuento: '34.40'
 average: '6.33'

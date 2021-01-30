@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Clarks Herren Bampton Lace Brogues  Braun  Tan Tan   42.5 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07M798PYR/?tag=tolees0ca-21'
 descuento: '64.29'
 average: '28.55'

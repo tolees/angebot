@@ -16,6 +16,7 @@ comparePrice: 26.9 EUR
 prodname: 'Enders 5676 Wetterschutzhülle  Schwarz  50 x 50 x 120 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077DBH4FF/?tag=tolees0ca-21'
 descuento: '26.02'
 average: '19.9'

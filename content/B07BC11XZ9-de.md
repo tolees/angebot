@@ -16,6 +16,7 @@ comparePrice: 34.78 EUR
 prodname: 'Mario & Luigi: Abenteuer Bowser + Bowser Jr.s Reise - [Nintendo 3DS]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BC11XZ9/?tag=tolees0ca-21'
 descuento: '28.12'
 average: '25.0'

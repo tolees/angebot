@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Napapijri Herren Rainforest S PKT Jacke  Blau  Skydiver Blue Bc5   Large  Herstellergröße: L '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07L9QTV6T/?tag=tolees0ca-21'
 descuento: '52.27'
 average: '109.965'

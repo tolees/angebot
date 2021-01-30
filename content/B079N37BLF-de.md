@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'PLAYMOBIL DreamWorks Spirit 9479 Pferdebox Pru & Chica Linda  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079N37BLF/?tag=tolees0ca-21'
 descuento: '26.61'
 average: '14.67'

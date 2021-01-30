@@ -16,6 +16,7 @@ comparePrice: 48.83 EUR
 prodname: 'Lachen Sie mit Stan & Ollie - Die komplette ZDF-Serie [7 DVDs]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MCW5F91/?tag=tolees0ca-21'
 descuento: '18.14'
 average: '39.97'

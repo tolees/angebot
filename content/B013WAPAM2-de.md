@@ -16,6 +16,7 @@ comparePrice: 113.15 EUR
 prodname: 'Bosch Professional Laser Entfernungsmesser GLM 50 C  Bluetooth-Datentransfer  Flächen-/Volumenberechnung  max. Messbereich: 50 m  2x 1 5-V Batterien  Schutztasche '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B013WAPAM2/?tag=tolees0ca-21'
 descuento: '19.58'
 average: '86.82333333333332'

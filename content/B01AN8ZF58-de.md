@@ -16,6 +16,7 @@ comparePrice: 9.45 EUR
 prodname: 'Legend - Steel Edition [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01AN8ZF58/?tag=tolees0ca-21'
 descuento: '37.25'
 average: '5.93'

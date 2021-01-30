@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Funko 35678 Vinyl: Movies: James Bond: Daniel Craig  Casino Royale  007-James Pop Sammelbares Spielzeug  Mehrfarben  Einheitsgröße'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HJC3KXB/?tag=tolees0ca-21'
 descuento: '27.58'
 average: '12.768571428571429'

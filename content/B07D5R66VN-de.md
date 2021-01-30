@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'FullBerg Nagellack Regal mit 3 Metall Ablagen als Wandregal Aufbewahrung für Nagellack oder ätherische Öle Nagellackständer Display Valentinstag Geschenk Damen - Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07D5R66VN/?tag=tolees0ca-21'
 descuento: '46.68'
 average: '15.99'

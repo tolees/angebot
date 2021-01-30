@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Salewa Herren Sweatshirts Pedroc Pgd M Fz HDY  Black Out/3860  48/M  00-0000027169'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FGMXHY1/?tag=tolees0ca-21'
 descuento: '25.07'
 average: '104.9'

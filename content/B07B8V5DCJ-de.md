@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'JBL GO 2 kleine Musikbox - Wasserfester  portabler Bluetooth-Lautsprecher mit Freisprechfunktion - Bis zu 5 Stunden Musikgenuss mit nur einer Akku-Ladung Mint'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B8V5DCJ/?tag=tolees0ca-21'
 descuento: '26.97'
 average: '18.98'

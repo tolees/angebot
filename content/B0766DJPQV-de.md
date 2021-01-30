@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'PLAYMOBIL Knights 9340 Mobile Zwergenfestung  Ab 5 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0766DJPQV/?tag=tolees0ca-21'
 descuento: '42.86'
 average: '39.495400000000004'

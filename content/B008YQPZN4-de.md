@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Remington Elektrischer Rasierer Herren F7800  +LED Minuten-Display  Netz-/Akkubetrieb   Trocken-Rasierapparat  Präzisionstrimmer  Abwaschbar  Folienrasierer '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B008YQPZN4/?tag=tolees0ca-21'
 descuento: '50.67'
 average: '42.66'

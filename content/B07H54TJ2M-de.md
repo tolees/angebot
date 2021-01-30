@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Libratone ZIPP MINI 2 Smart Wireless kleiner Lautsprecher  Alexa Integration  AirPlay 2  MultiRoom  360° Sound  Wlan  Bluetooth  Spotify Connect  12 Std. Akku  frosty grey'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07H54TJ2M/?tag=tolees0ca-21'
 descuento: '34.18'
 average: '163.9'

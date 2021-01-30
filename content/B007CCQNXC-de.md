@@ -16,6 +16,7 @@ comparePrice: 76.99 EUR
 prodname: 'Theo Klein 2813 - Bosch Car Service Parkhaus  5 Ebenen  Spielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007CCQNXC/?tag=tolees0ca-21'
 descuento: '37.67'
 average: '47.39833333333334'

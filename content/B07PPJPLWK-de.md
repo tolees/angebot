@@ -16,6 +16,7 @@ comparePrice: 2499.0 EUR
 prodname: 'LG OLED55C97LA 139 cm  55 Zoll  OLED Fernseher  OLED  Dual Triple Tuner  4K Cinema HDR  Dolby Vision  Dolby Atmos  Smart TV '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PPJPLWK/?tag=tolees0ca-21'
 descuento: '32.01'
 average: '1371.0'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'PLAYMOBIL City Life 70016 Mein Blumenladen  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JKWP1DK/?tag=tolees0ca-21'
 descuento: '30.21'
 average: '22.339999999999996'

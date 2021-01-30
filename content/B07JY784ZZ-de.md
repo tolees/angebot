@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'AUKEY Bluetooth Kopfhörer  Key Series Bluetooth 5 In Ear Kopfhörer mit Hybrid Treibern  aptX Low Latency  IPX6 Wasserdicht  8 Stunden Spielzeit und Mikrofon für iPhone  iPad  Samsung  Huawei und Sony'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JY784ZZ/?tag=tolees0ca-21'
 descuento: '40.01'
 average: '50.656666666666666'

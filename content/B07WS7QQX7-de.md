@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego Technic Container Transport Kompatibel Mit Lego 42062 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WS7QQX7/?tag=tolees0ca-21'
 descuento: '53.58'
 average: '30.779473684210533'

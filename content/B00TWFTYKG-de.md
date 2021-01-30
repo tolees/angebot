@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Pneumatic Power - der Pneumatik Spielzeug Bagger und 4 weitere Modelle von fischertechnik garantieren Spielspaß - Bergungsraupe  Stanzmaschine  Werksttkran und Funktionsmodell - für Kinder ab 8 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00TWFTYKG/?tag=tolees0ca-21'
 descuento: '29.95'
 average: '34.55'

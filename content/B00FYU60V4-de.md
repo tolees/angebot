@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Lindt Lindor Schokoladenkugeln Auswahl  glutenfrei – ca. 80 Kugeln  1 kg  inkl. Milch  Weiß  Dark und Haselnuss '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00FYU60V4/?tag=tolees0ca-21'
 descuento: '39.80'
 average: '15.656666666666666'

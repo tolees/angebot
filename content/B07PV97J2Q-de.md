@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'NextBase S2RFCZ Rückfahrkamera Blickwinkel horizontal max.=30° Passend 322GW  422GW '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PV97J2Q/?tag=tolees0ca-21'
 descuento: '41.91'
 average: '58.06'

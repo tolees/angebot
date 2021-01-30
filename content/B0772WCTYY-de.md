@@ -16,6 +16,7 @@ comparePrice: 12.44 EUR
 prodname: 'Sluban M38-70128B Pat and Mat at The Workbank  Mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0772WCTYY/?tag=tolees0ca-21'
 descuento: '38.67'
 average: '7.63'

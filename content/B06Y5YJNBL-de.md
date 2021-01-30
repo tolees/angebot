@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'BURG-WÄCHTER Digital-Multimeter  Spannungsmesser für elektrische Geräte  MULTI PS 7455'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06Y5YJNBL/?tag=tolees0ca-21'
 descuento: '29.83'
 average: '35.05'

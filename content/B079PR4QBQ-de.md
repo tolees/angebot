@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Ladeheid Jungen Hausschuhe mit Klettverschluss LAVI0003  Dunkelblau  24 EU '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079PR4QBQ/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '12.79'

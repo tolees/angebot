@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Smart Steckdosenleiste Koogeek Intelligent WiFi-stopcontact werkt mit Alexa/Echo mit Apple HomeKit mit Google Assistant mit Siri Remote Control op 2 4 GHz netwerk'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FKRYFRL/?tag=tolees0ca-21'
 descuento: '40.00'
 average: '59.99'

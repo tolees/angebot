@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Muzili Fitness Armband Wasserdicht Fitness Tracker Sport Armband Fitness Uhr Aktivitätstracker mit Schrittzähler/Schlafmonitor/Anruf Nachricht Benachrichtigung für Kinder Frauen und Männer Rosa '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BK1KYDR/?tag=tolees0ca-21'
 descuento: '46.26'
 average: '13.43'

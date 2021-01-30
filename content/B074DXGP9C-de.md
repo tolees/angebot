@@ -16,6 +16,7 @@ comparePrice: 729.0 EUR
 prodname: 'WD My Cloud Home Duo 16 TB Persönlicher Cloudspeicher - externe Festplatte 2-Bay - WLAN  USB 3.0. Backup  Videostreaming - WDBMUT0160JWT-EESN'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074DXGP9C/?tag=tolees0ca-21'
 descuento: '31.55'
 average: '484.0'

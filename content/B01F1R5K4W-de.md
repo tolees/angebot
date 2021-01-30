@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Mountain Dew Regular  Koffeinhaltige Limonade mit Lemon-Lime-Geschmack  das Kultgetränk aus den USA  EINWEG Dose  24 x 330 ml '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01F1R5K4W/?tag=tolees0ca-21'
 descuento: '17.28'
 average: '14.89'

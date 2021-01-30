@@ -16,6 +16,7 @@ comparePrice: 1419.0 EUR
 prodname: 'Apple iPhone 11 Pro Max  256 GB  - Space Grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XL95ZZM/?tag=tolees0ca-21'
 descuento: '21.71'
 average: '1111.0'

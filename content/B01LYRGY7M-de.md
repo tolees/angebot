@@ -16,6 +16,7 @@ comparePrice: 84.99 EUR
 prodname: 'PLAYMOBIL Ghostbusters 9219 Feuerwache  Ab 6 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LYRGY7M/?tag=tolees0ca-21'
 descuento: '34.36'
 average: '49.39941176470588'

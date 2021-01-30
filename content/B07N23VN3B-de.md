@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Craft Mütze Light Thermal Outdoor Running Training Beanie  Unisex Herren  Light Thermal Outdoor Running Training Beanie Hat  Kiefer  Small/Medium'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07N23VN3B/?tag=tolees0ca-21'
 descuento: '23.60'
 average: '12.95'

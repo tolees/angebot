@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'PLAYMOBIL Top Agents 70233 Arctic Rebels Eisroboter  Ab 6 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZTX8YG1/?tag=tolees0ca-21'
 descuento: '29.69'
 average: '18.978181818181817'

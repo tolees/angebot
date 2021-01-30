@@ -16,6 +16,7 @@ comparePrice: 649.0 EUR
 prodname: 'Xiaomi Mi 10T Pro 8GB+256GB Cosmic Black ohne Simlock  Alexa Hands-Free  ohne Branding'
 country: 'de'
 flag: '🇩🇪'
+brand: 'Xiaomi'
 buyurl: 'https://www.amazon.de/dp/B08HJDQXBD/?tag=tolees0ca-21'
 descuento: '15.41'
 average: '583.459999999999'

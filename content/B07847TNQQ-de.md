@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Hasbro Spiele E2617100 Lippengeflüster  Erwachsenenspiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07847TNQQ/?tag=tolees0ca-21'
 descuento: '48.46'
 average: '14.308333333333334'

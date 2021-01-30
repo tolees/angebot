@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Grillido Sportwurst Original 25er Pack| Die Power Salami mit wenig Fett| Der Ideale herzhafte Snack für Unterwegs'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QKZCGBR/?tag=tolees0ca-21'
 descuento: '44.02'
 average: '15.989999999999998'

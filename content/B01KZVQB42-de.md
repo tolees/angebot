@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Logitech M720 Triathlon Kabellose Maus  Bluetooth & 2.4 GHz Verbindung via Unifying USB-Empfänger  1000 DPI Sensor  24-Monate Akkulaufzeit  Multi-Device  8 Tasten  PC/Mac/iPadOS - Englische Verpackung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01KZVQB42/?tag=tolees0ca-21'
 descuento: '42.39'
 average: '37.09909090909092'

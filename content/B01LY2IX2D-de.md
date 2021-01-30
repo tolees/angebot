@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Rogue One: A Star Wars Story  Original Motion Picture Soundtrack '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LY2IX2D/?tag=tolees0ca-21'
 descuento: '49.60'
 average: '5.04'

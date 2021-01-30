@@ -16,6 +16,7 @@ comparePrice: 141.99 EUR
 prodname: 'Metabo 6.06154.00 KHE 2444 Elektrowerkzeuge  Schwarz  Grün'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00D19ZKRU/?tag=tolees0ca-21'
 descuento: '29.61'
 average: '99.95'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Playmobil 70040 - Hicks und Astrid mit Babydrachen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JMD4H5R/?tag=tolees0ca-21'
 descuento: '24.08'
 average: '11.38'

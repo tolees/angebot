@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Bluetooth Kopfhörer In Ear  Wireless Noise Cancelling Earbuds Bluetooth 5.0 True Wireless Deep Bass HD-Stereo Headset Ohrhörer Kabellos Sport Touch-Control Earphone Automatische Kopplung  Schwarz '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08BNH28L5/?tag=tolees0ca-21'
 descuento: '40.01'
 average: '29.99'

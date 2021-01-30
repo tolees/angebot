@@ -16,6 +16,7 @@ comparePrice: 319.0 EUR
 prodname: 'Samsung Galaxy Tab A T515N 25  54 cm  10  1 Zoll  Tablet-PC  1  8 GHz Octa-Core  2 GB RAM  64 GB eMMC  LTE  Android 9.0  Gold'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Q87SZ8H/?tag=tolees0ca-21'
 descuento: '25.08'
 average: '239.0'

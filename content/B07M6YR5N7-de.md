@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Greylags Premium Boxershorts/Retroshorts für Herren | Unterwäsche im praktischen 6er Pack | Farbe: grau | Größe L | Röhre Kurz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07M6YR5N7/?tag=tolees0ca-21'
 descuento: '25.01'
 average: '26.24'

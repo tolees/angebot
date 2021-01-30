@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Inter Link Sammlervitrine Hängevitrine Wandregal Glasvitrine Wandvitrine Hängeregal Schaukasten MDF Sonoma-Eiche Nachbildung BxHxT: 80 x 60 x 9.50 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01CLJ3OO6/?tag=tolees0ca-21'
 descuento: '33.24'
 average: '39.99'

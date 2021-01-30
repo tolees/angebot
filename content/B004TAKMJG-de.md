@@ -16,6 +16,7 @@ comparePrice: 12.88 EUR
 prodname: 'Funko 42474 5 Star: The Shining - Jack Torrance Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004TAKMJG/?tag=tolees0ca-21'
 descuento: '15.45'
 average: '10.915'

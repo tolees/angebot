@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Crocs Creative Crocs Frozen Fuzz Lined Clog  Mädchen Clogs  Pink  Berry   33/34 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00RCJ7E7O/?tag=tolees0ca-21'
 descuento: '53.35'
 average: '20.99'

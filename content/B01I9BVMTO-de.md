@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Swarovski Symbolic Evil Eye Armreif für Frauen  blaues Kristall  Metallmix'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01I9BVMTO/?tag=tolees0ca-21'
 descuento: '33.71'
 average: '59.0'

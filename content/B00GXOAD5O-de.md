@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'POP! Vinyl 3779 Actionfigur Game of Thrones: Tyrion Lannister In Battle Armor  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00GXOAD5O/?tag=tolees0ca-21'
 descuento: '42.89'
 average: '7.99'

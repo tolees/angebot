@@ -16,6 +16,7 @@ comparePrice: 169.95 EUR
 prodname: 'Friedrich|23  Schmuckkoffer  Leder  22 4 x 16 x 14 8 cm  Rechteckig  Abschließbar  Mit Spiegel  London  Schwarz  26104-2'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01688GRMW/?tag=tolees0ca-21'
 descuento: '34.22'
 average: '111.79'

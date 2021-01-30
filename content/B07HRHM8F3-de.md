@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Sennheiser MOMENTUM True Wireless Bluetooth-Ohrhörer  Schwarz/Chrom'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HRHM8F3/?tag=tolees0ca-21'
 descuento: '41.34'
 average: '175.39'

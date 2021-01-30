@@ -16,6 +16,7 @@ comparePrice: 161.0 EUR
 prodname: 'WEB EYEWEAR Herren WE0267 Sonnenbrille  Gold  54 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QMTPZCK/?tag=tolees0ca-21'
 descuento: '28.88'
 average: '114.5'

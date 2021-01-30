@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'De Longhi EDG736.RM | NESCAFÉ Dolce Gusto Eclipse | Kapsel Kaffeemaschine | Für heiße und kalte Getränke | 15 bar Pumpendruck für samtige Crema | Sensor Touch Bedienung |Red Metallic'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FMZWHFV/?tag=tolees0ca-21'
 descuento: '44.45'
 average: '99.99'

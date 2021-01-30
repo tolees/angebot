@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Playmobil 70179 1.2.3 Meine erste Eisenbahn  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JM59JBS/?tag=tolees0ca-21'
 descuento: '30.91'
 average: '29.081818181818182'

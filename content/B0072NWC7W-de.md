@@ -16,6 +16,7 @@ comparePrice: 27.9 EUR
 prodname: 'Pedea Laptoptasche Trendline Umhängetasche Messenger Bag 13 3/15 6/17 3/18 4/20 1 Zoll  17 3 Zoll  Tasche '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0072NWC7W/?tag=tolees0ca-21'
 descuento: '28.67'
 average: '19.9'

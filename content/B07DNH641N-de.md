@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Assassin s Creed Odyssey - Gold Edition [PC Code - Uplay]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DNH641N/?tag=tolees0ca-21'
 descuento: '67.00'
 average: '33.0'

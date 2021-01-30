@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Metalldetektor INTEY Professionell Metallsuchgerät ALL METAL und Diskrimination Funktion Hochempfindlich Gold Silber Metalldetektoren für Profis und Einsteiger mit Faltschaufel und Tragetasche'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MTAJJ4N/?tag=tolees0ca-21'
 descuento: '30.34'
 average: '83.295'

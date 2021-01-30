@@ -16,6 +16,7 @@ comparePrice: 51.98 EUR
 prodname: 'Xbox Game Pass  3 Monate Ultimate + 1 Monat GRATIS | Xbox One/Windows 10 PC - Download Code'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B088WVNFBW/?tag=tolees0ca-21'
 descuento: '24.99'
 average: '38.99'

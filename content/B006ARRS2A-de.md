@@ -16,6 +16,7 @@ comparePrice: 71.49 EUR
 prodname: 'WOLF-Garten - Sport- und Spiel-Rasen LG 500; 3825040'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B006ARRS2A/?tag=tolees0ca-21'
 descuento: '39.87'
 average: '42.99'

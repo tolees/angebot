@@ -16,6 +16,7 @@ comparePrice: 107.4 EUR
 prodname: 'Gardena Comfort Rückenspritzgerät 12 l: Drucksprühgerät zur Pflege von Pflanzen/Obstgehölzen  auch für Linkshänder  Teleskop-Sprühlanze  885-20 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0001E3RHI/?tag=tolees0ca-21'
 descuento: '26.02'
 average: '79.45'

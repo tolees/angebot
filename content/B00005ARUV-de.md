@@ -16,6 +16,7 @@ comparePrice: 6.81 EUR
 prodname: 'Kult  Die besten Schlager '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00005ARUV/?tag=tolees0ca-21'
 descuento: '44.93'
 average: '4.220000000000001'

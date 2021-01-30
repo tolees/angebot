@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Huawei Band 3 Pro Fitness-Aktivitätstracker  All-in-One Smart Armband  Herzfrequenz - und Schlafüberwachung  eingebautes GPS  farbreiches Touch Display  5 ATM wasserfest  space blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07H4X6M7H/?tag=tolees0ca-21'
 descuento: '29.39'
 average: '71.63333333333334'

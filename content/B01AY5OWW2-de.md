@@ -16,6 +16,7 @@ comparePrice: 229.9 EUR
 prodname: 'UGG Damen W Mini Bailey Button Bling Stiefeletten  Schwarz  Black BLK   37 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01AY5OWW2/?tag=tolees0ca-21'
 descuento: '42.78'
 average: '131.54'

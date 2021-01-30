@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'PROCAVE Baumwolle Komfort Qualitäts-Bettdecke für den Sommer 135x200cm  leichte Baumwolldecke  waschbar  aus der Natur  atmungsaktiv & wärmeausgleichend  100% aus Deutschland'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RFHDM2H/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '31.96'

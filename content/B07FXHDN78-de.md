@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Gold XL Edelstahl Whisky Steine Bullets – Hohe Kühltechnologie - Geschenk für Männer - Eiswürfel Wiederverwendbar - Edelstahl Eiswürfel - 6 Whiskey Patrone Männer Geschenke - Amerigo Whiskey Zubehör'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FXHDN78/?tag=tolees0ca-21'
 descuento: '30.01'
 average: '27.99'

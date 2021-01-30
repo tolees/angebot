@@ -16,6 +16,7 @@ comparePrice: 84.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego Hidden Side Geister-Expresszug Kompatibel Mit Lego 70424 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083FS8JFH/?tag=tolees0ca-21'
 descuento: '35.30'
 average: '54.99'

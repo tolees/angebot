@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Hasbro Play-Doh B5520EU4 - Dr. Wackelzahn Knete  für fantasievolles und kreatives Spielen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B019YJNT8C/?tag=tolees0ca-21'
 descuento: '25.74'
 average: '16.424'

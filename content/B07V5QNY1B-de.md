@@ -16,6 +16,7 @@ comparePrice: 14.57 EUR
 prodname: 'Contra: Rogue Corps für Playstation 4 USK ab 16 Jahren Singleplayer- oder Multiplayer-Modus'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07V5QNY1B/?tag=tolees0ca-21'
 descuento: '38.16'
 average: '9.01'

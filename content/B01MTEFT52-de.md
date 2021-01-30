@@ -16,6 +16,7 @@ comparePrice: 14.55 EUR
 prodname: 'Noctua NM-AM4  CPU-Kühler-Montageset für Noctua CPU Kühler auf AMD AM4'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MTEFT52/?tag=tolees0ca-21'
 descuento: '49.42'
 average: '8.045'

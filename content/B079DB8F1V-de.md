@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'JAKO Herren Competition 2.0 Shorts  schwarz  schwarz   M'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079DB8F1V/?tag=tolees0ca-21'
 descuento: '38.38'
 average: '12.632000000000001'

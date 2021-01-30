@@ -16,6 +16,7 @@ comparePrice: 52.99 EUR
 prodname: 'Hasbro Beyblade Burst E3629EU4 - Rail Rush Battle Set  Spielset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FK1KP2C/?tag=tolees0ca-21'
 descuento: '28.06'
 average: '38.77428571428571'

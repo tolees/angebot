@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Original Einhell System Akku Power X-Change  Lithium Ionen Akku  18 V  3 0 Ah  passend für alle Power X-Change Geräte '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HT957YE/?tag=tolees0ca-21'
 descuento: '45.05'
 average: '36.205'

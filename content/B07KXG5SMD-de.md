@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'TaoTronics Garten Fackeln 2 Stück Solarleuchte  Solar Garten Licht Gartenleuchten Solar Fackel Solarlampen für Außen  mit realistischen Flammen und IP65 wasserdicht'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KXG5SMD/?tag=tolees0ca-21'
 descuento: '33.34'
 average: '39.99'

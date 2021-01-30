@@ -16,6 +16,7 @@ comparePrice: 84.99 EUR
 prodname: 'WMF Provence Plus Gemüsetopf  24cm  Glasdeckel  Topf groß 8 8l  Cromargan Edelstahl poliert  Topf Induktion  unbeschichtet  backofengeeignet'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01B1M4KG0/?tag=tolees0ca-21'
 descuento: '54.12'
 average: '38.99'

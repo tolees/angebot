@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'Fitbit Special Edition Alta Fitness-Armband  Rosa/Gold  L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M1KGUU5/?tag=tolees0ca-21'
 descuento: '51.49'
 average: '67.89'

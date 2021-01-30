@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Rollei Go! Profi Smartphone-Gimbal I Handy-Gimbal I Video Stabilisator I Gimbal für Iphone & Android inklusiver kabelloser Ladefunktion & Tasche'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PFR3SPB/?tag=tolees0ca-21'
 descuento: '55.45'
 average: '71.29'

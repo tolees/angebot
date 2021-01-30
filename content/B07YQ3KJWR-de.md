@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'Paco Home Kinder-Teppich Für Kinderzimmer  Spiel-Teppich Mit Landschaft und Pferden  In Grün  Grösse:300x400 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YQ3KJWR/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '103.92'

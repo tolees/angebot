@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: 'Playmobil 70026 Figures Girls  Serie 15   bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JM52FDH/?tag=tolees0ca-21'
 descuento: '90.45'
 average: '1.43'

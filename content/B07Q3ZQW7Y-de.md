@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'licaso Jutebeutel Bedruckt Love Liebe L O V E Print in Babyrosa Baumwolltasche mit Langen Henkeln Beutel Druck Ökologisch & Nachhaltig Tragetasche 100% Baumwolle'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Q3ZQW7Y/?tag=tolees0ca-21'
 descuento: '44.47'
 average: '9.99'

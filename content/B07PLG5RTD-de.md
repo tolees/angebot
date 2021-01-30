@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'MUSTANG Damen 1346-502-55 Cowboystiefel  Rot  Bordeaux 55   39 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PLG5RTD/?tag=tolees0ca-21'
 descuento: '57.13'
 average: '29.99'

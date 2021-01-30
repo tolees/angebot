@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Levi s Herren Type 3 Sherpa Trucker-Jacke  Blau  Mayze Sherpa Trucker 0089   Small'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GF24NFQ/?tag=tolees0ca-21'
 descuento: '27.39'
 average: '94.39'

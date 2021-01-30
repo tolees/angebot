@@ -16,6 +16,7 @@ comparePrice: 5.49 EUR
 prodname: 'Bullyland 12764 - Spielfigur  Walt Disney Toy Story 3  Rex  ca. 7 5 cm groß  liebevoll handbemalte Figur  PVC-frei  tolles Geschenk für Jungen und Mädchen zum fantasievollen Spielen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003RH0YRC/?tag=tolees0ca-21'
 descuento: '25.50'
 average: '4.09'

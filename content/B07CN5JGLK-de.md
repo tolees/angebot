@@ -16,6 +16,7 @@ comparePrice: 79.31 EUR
 prodname: 'GEDORE red Steckschlüsselsatz  94-teilig  Mit Umschaltknarren  Ratschen  Steckschlüssel und Bitsatz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CN5JGLK/?tag=tolees0ca-21'
 descuento: '24.35'
 average: '60.0'

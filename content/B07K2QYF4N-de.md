@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'HUGO Herren Dicago193 Sweatshirt  per Pack Blau  Dark Blue 405   Large  Herstellergröße: L '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07K2QYF4N/?tag=tolees0ca-21'
 descuento: '41.28'
 average: '64.0'

@@ -16,6 +16,7 @@ comparePrice: 60.99 EUR
 prodname: 'KASTEWILL Bluetooth Adapter 5.0 Transmitter Empfänger 80m  3-in-1 Sender Receiver Bluetooth Adapter Audio mit aptX HD  RCA Kable  3 5 mm AUX  Optisches TOSLINK für Home/TV/Car'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XJZWQ5C/?tag=tolees0ca-21'
 descuento: '34.43'
 average: '39.99'

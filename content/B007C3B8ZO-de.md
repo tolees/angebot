@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Hama "Bernstein" LED Nachtlicht für Kinderzimmer und Schlafzimmer  stromsparend  nur 0 2 W  Orientierungslicht für Gang und Keller  Stimmungslicht  Nachtlampe  Eurostecker '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007C3B8ZO/?tag=tolees0ca-21'
 descuento: '41.54'
 average: '5.84'

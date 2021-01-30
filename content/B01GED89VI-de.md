@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Kölln Müsli Schoko "30 % weniger Zucker"  1er Pack  1 x 2 kg '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01GED89VI/?tag=tolees0ca-21'
 descuento: '25.03'
 average: '5.99'

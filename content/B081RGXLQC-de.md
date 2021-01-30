@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'ELEGIANT Bluetooth Kopfhörer kabellos in Ear Ohrhörer Bluetooth 5.0 Headset Wireless Earbuds Stereo Sport Drahtlos Kopfhörer mit tragbar Ladekästchen  24 Std Spielzeit  Touch Steuerung für iOS Android'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B081RGXLQC/?tag=tolees0ca-21'
 descuento: '25.94'
 average: '19.99'

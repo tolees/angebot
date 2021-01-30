@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Ravensburger 21122 Lustige Kinderspiele Tiere'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00B6SC40E/?tag=tolees0ca-21'
 descuento: '53.20'
 average: '10.32'

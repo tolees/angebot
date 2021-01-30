@@ -16,6 +16,7 @@ comparePrice: 25.9 EUR
 prodname: '3 Sprouts Aufbewahrungskiste Elefant'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00LIX3AW8/?tag=tolees0ca-21'
 descuento: '19.11'
 average: '20.95'

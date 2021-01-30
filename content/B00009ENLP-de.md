@@ -16,6 +16,7 @@ comparePrice: 94.95 EUR
 prodname: 'Dancook 7500 - Großer Boxgrill mit Seitenablagen und Rädern'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00009ENLP/?tag=tolees0ca-21'
 descuento: '38.92'
 average: '58.0'

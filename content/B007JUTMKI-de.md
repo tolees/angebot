@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Erima Damen Casual Basics Sweathose mit Bündchen  schwarz  40'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007JUTMKI/?tag=tolees0ca-21'
 descuento: '40.69'
 average: '23.72'

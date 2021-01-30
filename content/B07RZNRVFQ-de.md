@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'TOM TAILOR Herren Kapuzen Jacke Sportjacke  Grau  Light Stone Grey Mel 15398   Small  Herstellergröße: S '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RZNRVFQ/?tag=tolees0ca-21'
 descuento: '74.85'
 average: '12.57'

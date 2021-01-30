@@ -16,6 +16,7 @@ comparePrice: 17.54 EUR
 prodname: 'HERZ KRAFT WERKE  Deluxe Edition '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QB1JYQH/?tag=tolees0ca-21'
 descuento: '53.02'
 average: '8.24'

@@ -16,6 +16,7 @@ comparePrice: 1799.0 EUR
 prodname: 'OMEN 17-cb0221ng  17 3 Zoll / FHD IPS 144Hz  Gaming Laptop  Intel Core i7-9750H   16GB DDR4 RAM  512GB SSD  Nvidia GeForce RTX 2070 8GB GDDR6  Nvidia G-SYNC  Windows 10  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SB1Y89L/?tag=tolees0ca-21'
 descuento: '66.65'
 average: '847.0'

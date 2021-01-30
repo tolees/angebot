@@ -16,6 +16,7 @@ comparePrice: 202.3 EUR
 prodname: 'Bosch Professional Schwingschleifer GSS 160-1 A Multi  180 Watt  1 6 mm Schwingkreis-Ø  in L-BOXX '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01FJ8OH3S/?tag=tolees0ca-21'
 descuento: '49.09'
 average: '106.995'

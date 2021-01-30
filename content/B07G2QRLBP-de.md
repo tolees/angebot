@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Reusch Primus R-TEX XT Handschuhe  Black/Black Melange  8'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G2QRLBP/?tag=tolees0ca-21'
 descuento: '24.74'
 average: '37.59'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Santana [Vinyl LP]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BLAOY86/?tag=tolees0ca-21'
 descuento: '31.27'
 average: '10.99'

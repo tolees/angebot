@@ -16,6 +16,7 @@ comparePrice: 17.38 EUR
 prodname: 'Hunter Mason Plissee Klemmfix Faltrollo ohne Bohren Jalousie  Weiß 70x100cm BxH  Rollo Sichtschutz und Sonnenschutz Blickdicht Sonnenschutz Jalousie für Fenster & Tür'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Q3G1BVJ/?tag=tolees0ca-21'
 descuento: '17.20'
 average: '14.39'

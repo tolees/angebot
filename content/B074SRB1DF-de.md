@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Herren CORE Cotton-Silk CNECK Pullover  Blau  Sky Captain 403   Small'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074SRB1DF/?tag=tolees0ca-21'
 descuento: '29.98'
 average: '69.95'

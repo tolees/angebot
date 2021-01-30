@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Logitech K380 Bluetooth-Tastatur für Windows  Mac  Chrome und Android dunkelgrau  QWERTZ  deutsches Tastaturlayout '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B013SL1ZU6/?tag=tolees0ca-21'
 descuento: '23.22'
 average: '38.78666666666667'

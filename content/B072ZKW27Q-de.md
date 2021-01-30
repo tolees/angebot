@@ -16,6 +16,7 @@ comparePrice: 19.46 EUR
 prodname: 'Augsburger Puppenkiste - Klassiker Kollektion [5 DVDs]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072ZKW27Q/?tag=tolees0ca-21'
 descuento: '28.42'
 average: '13.93'

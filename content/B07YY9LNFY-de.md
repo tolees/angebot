@@ -16,6 +16,7 @@ comparePrice: 7.98 EUR
 prodname: 'HYMY Hülle für Oppo Reno 2 Smartphone + 1 x Schutzfolie Panzerglas - Transparent Schutzhülle TPU Handytasche Tasche Durchsichtig Klar Silikon Case für Oppo Reno 2  6.5"  -Clear'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YY9LNFY/?tag=tolees0ca-21'
 descuento: '62.53'
 average: '2.99'

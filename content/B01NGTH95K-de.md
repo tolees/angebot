@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Grundig Multi-Zerkleinerer  0 5 L Plastic  Delisia'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01NGTH95K/?tag=tolees0ca-21'
 descuento: '45.66'
 average: '32.6'

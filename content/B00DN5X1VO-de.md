@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Die Monster AG/Die Monster Uni [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00DN5X1VO/?tag=tolees0ca-21'
 descuento: '24.72'
 average: '14.98'

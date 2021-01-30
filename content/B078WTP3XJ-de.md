@@ -16,6 +16,7 @@ comparePrice: 169.9 EUR
 prodname: 'Sony Tragbare Bluetooth-Lautsprecher SRSXB31W.CE7   Weiß '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078WTP3XJ/?tag=tolees0ca-21'
 descuento: '42.32'
 average: '97.99'

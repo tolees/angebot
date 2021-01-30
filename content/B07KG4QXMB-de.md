@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'PUMA Herren Speed Orbiter Laufschuhe  High Rise-Blue Turquoise  46 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KG4QXMB/?tag=tolees0ca-21'
 descuento: '55.66'
 average: '66.49'

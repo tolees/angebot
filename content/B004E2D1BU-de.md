@@ -16,6 +16,7 @@ comparePrice: 21.49 EUR
 prodname: 'Hasbro 33596848 - Super Soaker Bottle Blitz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004E2D1BU/?tag=tolees0ca-21'
 descuento: '25.59'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'ONLY Damen onlELCOS 4/5 AOP TOP JRS NOOS Langarmshirt  Mehrfarbig  Light Grey Melange AOP:W. Black Zigzag   38  Herstellergröße: M '
 country: 'de'
 flag: '🇩🇪'
+brand: 'ONLY'
 buyurl: 'https://www.amazon.de/dp/B072BZYF19/?tag=tolees0ca-21'
 descuento: '30.62'
 average: '14.8413000000001'

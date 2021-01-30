@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Casio Collection Herren Armbanduhr BEM-111D-1AVEF'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000NLWFK4/?tag=tolees0ca-21'
 descuento: '22.40'
 average: '62.0'

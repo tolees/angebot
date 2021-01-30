@@ -16,6 +16,7 @@ comparePrice: 29.98 EUR
 prodname: 'TOUCHBeauty Kosmetikspiegel mit LED Faltbar Schminkspiegel Beleuchtet 1X/2X/3X/7X Vergrößerungsspiegel 90° Drehbarer Tischspiegel Touchschalter für Dimmbare USB-Aufladung AG-1971W'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WRKRV1T/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '23.98'

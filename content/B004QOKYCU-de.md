@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Yankee Candle Duftkerze im großen Jar  Cinnamon Stick  Brenndauer bis zu 150 Stunden'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004QOKYCU/?tag=tolees0ca-21'
 descuento: '51.67'
 average: '14.45'

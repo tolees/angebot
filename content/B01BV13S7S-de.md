@@ -16,6 +16,7 @@ comparePrice: 144.99 EUR
 prodname: 'Seagate Game Drive für Xbox  tragbare externe Festplatte  4 TB  2.5 Zoll  USB 3.0  Xbox  ModelNr.: STEA4000402'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BV13S7S/?tag=tolees0ca-21'
 descuento: '22.07'
 average: '112.99'

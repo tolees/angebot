@@ -16,6 +16,7 @@ comparePrice: 799.9 EUR
 prodname: 'Quick-Connect INVERTER Split Klimaanlage mit Wärmepumpe 3 2kW Klimagerät ECO Smart WiFi/WLAN komplett Set inkl. 5m Kupferleitungen mit Heizfunktion'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B086YBHTYK/?tag=tolees0ca-21'
 descuento: '18.75'
 average: '649.9'

@@ -16,6 +16,7 @@ comparePrice: 26.14 EUR
 prodname: 'Guardians Of the Galaxy Legends Iron Man Figure Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00LPENFJ8/?tag=tolees0ca-21'
 descuento: '29.99'
 average: '18.3'

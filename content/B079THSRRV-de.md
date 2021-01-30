@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 28888 No Actionfigur Game of Thrones: S8 Daenerys  Weiß Coat   Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079THSRRV/?tag=tolees0ca-21'
 descuento: '16.23'
 average: '10.252608695652174'

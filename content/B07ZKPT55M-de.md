@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Panasonic TX-32GW334 LED-TV 32 Zoll  80 cm   HD Fernseher  Triple Tuner  DVB-T2 HD  HDMI  USB '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZKPT55M/?tag=tolees0ca-21'
 descuento: '31.44'
 average: '206.33333333333334'

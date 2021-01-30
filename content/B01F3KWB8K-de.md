@@ -16,6 +16,7 @@ comparePrice: 84.19 EUR
 prodname: 'BRAUN Wecker und Tischuhren Uhrenradio Kunststoff BLACK BNC020BK'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01F3KWB8K/?tag=tolees0ca-21'
 descuento: '29.68'
 average: '59.2'

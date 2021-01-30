@@ -16,6 +16,7 @@ comparePrice: 13.15 EUR
 prodname: 'Transformers 5 - The Last Knight   + Blu-ray   + Bonus-Disc '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072ZNPRNS/?tag=tolees0ca-21'
 descuento: '22.13'
 average: '10.24'

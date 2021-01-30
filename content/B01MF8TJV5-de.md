@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Red Dead Redemption 2 Standard Edition [Xbox One] Disk'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MF8TJV5/?tag=tolees0ca-21'
 descuento: '70.01'
 average: '19.98090909090909'

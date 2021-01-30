@@ -16,6 +16,7 @@ comparePrice: 7.5 EUR
 prodname: 'KS Tools 911.1584 1/2" 12-kant-Stecknuss  24mm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001NYXXVU/?tag=tolees0ca-21'
 descuento: '35.73'
 average: '4.82'

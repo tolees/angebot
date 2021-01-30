@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'MAJOZ0 Beleuchtungsset für LEGO Architecture London Skyline Sammlungsset  LED Beleuchtungsset Kompatibel mit LEGO 21034  Nicht Enthalten Lego Modell '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08K2P8TY1/?tag=tolees0ca-21'
 descuento: '30.56'
 average: '24.99'

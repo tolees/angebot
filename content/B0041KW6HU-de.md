@@ -16,6 +16,7 @@ comparePrice: 8.74 EUR
 prodname: 'La leggenda del pianista sull oceano [Blu-ray] [IT Import]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0041KW6HU/?tag=tolees0ca-21'
 descuento: '20.48'
 average: '6.95'

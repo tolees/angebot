@@ -16,6 +16,7 @@ comparePrice: 50.21 EUR
 prodname: 'Stanley Legendary Classic Vakuum-Thermoskanne  1.9 Liter  Hammertone Green  18/8 Stainless Edelstahl  Integrierter Thermobecher  Doppelwandige Isolierung Isolierflasche Isolierkanne Kaffeekanne'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001EN21BS/?tag=tolees0ca-21'
 descuento: '21.31'
 average: '39.51'

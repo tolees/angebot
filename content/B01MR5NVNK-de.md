@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Hasbro Gaming C0447100 - Pipi Party Kinderspiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MR5NVNK/?tag=tolees0ca-21'
 descuento: '40.02'
 average: '14.99'

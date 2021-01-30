@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'PROACC wasserdichte Kamera für Kinder  bis 3 Meter   Unterwasser Kinderkamera Camcorder HD720p 12MP Digital Sportkamera mit 8 GB Speicherkarte  2.0    LCD-Bildschirm  8X Digital Zoom  Flash Mic  Rot '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07LCBRFF6/?tag=tolees0ca-21'
 descuento: '58.34'
 average: '49.99'

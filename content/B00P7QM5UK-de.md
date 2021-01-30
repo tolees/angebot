@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'POWERADD Pilot X7 20000mAh Externer Akku enorme Energiedichte Power Bank mit Dual 3.4A Ausgänge kompatibel für iPhone  iPad Huawei Samsung  Nexus  HTC und mehr'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00P7QM5UK/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '19.99'

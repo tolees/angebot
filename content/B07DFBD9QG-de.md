@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Pop Aquaman Vinyl Figure'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFBD9QG/?tag=tolees0ca-21'
 descuento: '18.36'
 average: '11.22103448275862'

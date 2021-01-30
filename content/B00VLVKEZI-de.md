@@ -16,6 +16,7 @@ comparePrice: 10.93 EUR
 prodname: 'Playmobil 6193 - Eisbearbeitungsmaschine'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00VLVKEZI/?tag=tolees0ca-21'
 descuento: '41.63'
 average: '8.655'

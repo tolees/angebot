@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'PLAYMOBIL Ghostbusters 9220 Ecto-1 mit Licht- und Soundeffekten  Ab 6 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LYRIWZ0/?tag=tolees0ca-21'
 descuento: '30.24'
 average: '31.60117647058824'

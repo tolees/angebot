@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'camel active Herren Crew Neck GMT Dyed Pullover  Blau  Marine Core 19   X-Large  Herstellergröße: XL '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NFB33FN/?tag=tolees0ca-21'
 descuento: '44.47'
 average: '49.95'

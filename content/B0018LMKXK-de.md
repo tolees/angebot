@@ -16,6 +16,7 @@ comparePrice: 8.76 EUR
 prodname: 'Nicht Von Dieser Welt/Re-release + Bonus'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0018LMKXK/?tag=tolees0ca-21'
 descuento: '39.95'
 average: '5.26'

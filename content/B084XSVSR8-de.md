@@ -16,6 +16,7 @@ comparePrice: 749.0 EUR
 prodname: 'LG Electronics 65UM7050PLA  164 cm  65 Zoll   UHD  Fernseher  4K  Triple Tuner  DVB-T2/T -C -S2/S   Active HDR  50 Hz  Smart TV   [Modelljahr 2020]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B084XSVSR8/?tag=tolees0ca-21'
 descuento: '26.70'
 average: '549.0'

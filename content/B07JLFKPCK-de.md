@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'PLAYMOBIL City Life 70017 Meine Trendboutique  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JLFKPCK/?tag=tolees0ca-21'
 descuento: '30.01'
 average: '24.383809523809525'

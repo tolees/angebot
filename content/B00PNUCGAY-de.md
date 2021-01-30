@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Gardena Classic Bewässerungsbrause: Gartenbrause zur Bewässerung von Topfpflanzen und Beeten  frostbeständig  Einhandbedienung  verpackt  18311-20 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00PNUCGAY/?tag=tolees0ca-21'
 descuento: '36.69'
 average: '9.49'

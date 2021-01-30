@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Durex Play Pflegend Sensitives Gleitgel  mit Aloe Vera  1er Pack  1 x 50 ml '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001QWL0ZU/?tag=tolees0ca-21'
 descuento: '25.04'
 average: '4.49'

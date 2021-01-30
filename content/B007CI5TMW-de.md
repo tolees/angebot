@@ -16,6 +16,7 @@ comparePrice: 12.89 EUR
 prodname: 'Haribo Roulette 50 Rollen  1.25 kg'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007CI5TMW/?tag=tolees0ca-21'
 descuento: '23.74'
 average: '9.83'

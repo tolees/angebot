@@ -16,6 +16,7 @@ comparePrice: 224.11 EUR
 prodname: 'Bosch Professional Multi-Tool GOP 40-30  inkl. 9xStarlock BIM Tauchsägeblätter  Starlock Carbid-RIFF Schleifplatte  Starlock Deltaschleifplatte  5xSchleifblätter  in L-Boxx 136'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B018YPE9NQ/?tag=tolees0ca-21'
 descuento: '20.13'
 average: '178.99'

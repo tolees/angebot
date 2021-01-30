@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Nike Unisex-Erwachsene Phantom VSN Academy Dynamic Fit MG Fußballschuhe  Mehrfarbig  Bright Crimson/Metallic Silver 600   42 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FKDS55W/?tag=tolees0ca-21'
 descuento: '44.55'
 average: '49.9'

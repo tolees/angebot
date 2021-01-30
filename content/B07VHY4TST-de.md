@@ -16,6 +16,7 @@ comparePrice: 9.45 EUR
 prodname: 'Die drei !!!'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VHY4TST/?tag=tolees0ca-21'
 descuento: '17.57'
 average: '7.79'

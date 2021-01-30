@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Sylvanian Families 5231 - Strandkarusell'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0196A4AAA/?tag=tolees0ca-21'
 descuento: '50.48'
 average: '9.566666666666668'

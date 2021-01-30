@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'House of Marley Positive Vibration 2  Faltbare Kopfhörer  bequemes Design  Geräuschisolierung  Premium Sound 50mm Treiber  Mikrofon  gewebte Kabel  nachhaltige Materialen  silver'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XWGTK6D/?tag=tolees0ca-21'
 descuento: '17.69'
 average: '28.8'

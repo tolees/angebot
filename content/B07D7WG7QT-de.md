@@ -16,6 +16,7 @@ comparePrice: 389.95 EUR
 prodname: 'TALENT  Zuse  Weekender - Geräumige Reisetasche XL Umhängetasche Vintage Kalbsleder Cognac'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07D7WG7QT/?tag=tolees0ca-21'
 descuento: '48.97'
 average: '198.99'

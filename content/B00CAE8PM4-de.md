@@ -16,6 +16,7 @@ comparePrice: 71.0 EUR
 prodname: 'Rode Rycote Edition VideoMic  Line Gradient  Polar Pattern '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00CAE8PM4/?tag=tolees0ca-21'
 descuento: '18.01'
 average: '58.21'

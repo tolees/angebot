@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Prym 390901 Prym Love Vario-Zange mit Loch-/Color Snaps Werkzeug mint'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01F3UWWHU/?tag=tolees0ca-21'
 descuento: '35.61'
 average: '10.27'

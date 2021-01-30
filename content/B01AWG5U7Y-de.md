@@ -16,6 +16,7 @@ comparePrice: 749.0 EUR
 prodname: 'LG 34UC88-B 86 36 cm  34 Zoll  Curved 21:9 UltraWide™ IPS Monitor  QHD  AMD Radeon FreeSync  99%sRGB   schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01AWG5U7Y/?tag=tolees0ca-21'
 descuento: '49.95'
 average: '374.88'

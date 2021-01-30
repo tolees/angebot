@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Triumph Damen Halbschalen BH Body Make-Up WHP  Beige  Smooth Skin  5G     Gr. 80B  Herstellergröße: 36B '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B006TUA4HO/?tag=tolees0ca-21'
 descuento: '43.06'
 average: '19.9'

@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'WOTEGA Jeans Herren Alistar Slim fit - Stretch Jeanshose - Blaue Hose für Männer  Blau  Flint Stone 183916   W30/L30'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B087RPSH2X/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '31.92'

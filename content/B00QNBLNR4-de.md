@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Post-it Super Sticky Notes Marrakesh Collection 6556SM – Selbstklebende Haftnotizzettel in 76 x 127 mm – 6 Notizblöcke rechteckig à 90 Blatt in 5 Farben  ultragelb  Kanariengelb  blau  ultrapink  rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00QNBLNR4/?tag=tolees0ca-21'
 descuento: '24.33'
 average: '12.1'

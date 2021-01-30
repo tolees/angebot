@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'Samsung GX-MB540TL DVB-T2 HD Receiver  freenet TV connect  Wi-Fi Unterstützung  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MZ6QPOU/?tag=tolees0ca-21'
 descuento: '67.18'
 average: '32.49'

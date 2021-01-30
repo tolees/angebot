@@ -16,6 +16,7 @@ comparePrice: 25.58 EUR
 prodname: 'GVFTG La Cocina Spanisch Zitate Wandtattoo Kunst Schriftzug Vinyl Aufkleber Für Die Küchendekoration 46X86cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B086PD9PWV/?tag=tolees0ca-21'
 descuento: '24.78'
 average: '19.24'

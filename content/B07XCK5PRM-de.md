@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Tageslichtlampe  10000 Lux Tageslichtleuchte LED Lichtdusche Einstellbare Helligkeitsstufen Tageslicht Lichttherapie Lampe Nachtlicht mit Multi Winkel Ständer zum Ausgleich von Lichtmangel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XCK5PRM/?tag=tolees0ca-21'
 descuento: '64.01'
 average: '35.99'

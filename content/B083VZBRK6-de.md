@@ -16,6 +16,7 @@ comparePrice: 559.78 EUR
 prodname: 'Kepae Acryl Vitrine für Lego 42096 Technic Porsche 911 RSR  Durchsichtigen Kästen mit dreifache Beleuchtung Rennauto Modell Vitrinen Staubfreien Display Boxen Schaukasten  Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083VZBRK6/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '279.89'

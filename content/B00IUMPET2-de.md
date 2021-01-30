@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Flow-Mow für Zeitraffer-Fotografie  360 Grad drehbar'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00IUMPET2/?tag=tolees0ca-21'
 descuento: '30.41'
 average: '20.87'

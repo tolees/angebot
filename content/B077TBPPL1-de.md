@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Fossil Damen-Kette ohne Anhänger Edelstahl JF02856998'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077TBPPL1/?tag=tolees0ca-21'
 descuento: '46.33'
 average: '22.028333333333336'

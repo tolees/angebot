@@ -16,6 +16,7 @@ comparePrice: 37.58 EUR
 prodname: 'Triumph Damen Sport-BH Triaction Wellness N  Rosa  Pink/Rosa/Rose/1196   Gr. 80F'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07C2XV9LM/?tag=tolees0ca-21'
 descuento: '15.41'
 average: '31.79'

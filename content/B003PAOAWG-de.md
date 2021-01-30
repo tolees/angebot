@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Logitech C270 Webcam  720p Videoqualität  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003PAOAWG/?tag=tolees0ca-21'
 descuento: '37.15'
 average: '21.99'

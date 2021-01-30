@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'JACK & JONES Herren T-Shirt 12058529 Basic O-Neck Tee  Schwarz  BLACK C-N10   L / 52'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0085SFX9M/?tag=tolees0ca-21'
 descuento: '31.81'
 average: '8.83'

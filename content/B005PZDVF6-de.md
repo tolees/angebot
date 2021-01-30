@@ -16,6 +16,7 @@ comparePrice: 20.14 EUR
 prodname: 'OWC NewerTech AdaptaDrive - Mounting Kits  99.22 G  101.2 mm  146.7 mm  9 mm  8.89 cm  3.5  '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005PZDVF6/?tag=tolees0ca-21'
 descuento: '17.23'
 average: '16.67'

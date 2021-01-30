@@ -16,6 +16,7 @@ comparePrice: 1419.9 EUR
 prodname: 'ViewSonic VP3881 95 3 cm  38 Zoll  Fotografen Monitor mit Kalibrierfunktion  WQHD+  IPS-Panel  100% sRGB  Curved  HDR10  USB C  HDMI 2.0  DP  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074F2G8ZP/?tag=tolees0ca-21'
 descuento: '41.55'
 average: '747.5'

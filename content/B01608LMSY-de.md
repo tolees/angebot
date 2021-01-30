@@ -16,6 +16,7 @@ comparePrice: 4.95 EUR
 prodname: 'Playmobil 6970 - Schmück-Pony Sternchen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01608LMSY/?tag=tolees0ca-21'
 descuento: '55.76'
 average: '2.19'

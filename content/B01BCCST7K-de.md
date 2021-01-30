@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'B.K.Licht I LED Deckenleuchte I Schwenkbar I Inkl. 2x 3W Leuchtmittel GU10 I Warmweiße Lichtfarbe I LED Deckenlampe I LED Deckenstrahler I LED Deckenspot I Länge: 25cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BCCST7K/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '12.79'

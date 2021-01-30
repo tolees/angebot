@@ -16,6 +16,7 @@ comparePrice: 1899.0 EUR
 prodname: 'MSI GL63 9SFK-1001DE  39 6 cm/15 6 Zoll/144Hz  Gaming-Laptop  Intel Core i7-9750H  16 GB RAM  512 GB PCIe SSD + 1TB HDD  Nvidia GeForce RTX2070 16 GB  Windows 10 Home '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SGRLGRV/?tag=tolees0ca-21'
 descuento: '68.40'
 average: '600.0'

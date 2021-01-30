@@ -16,6 +16,7 @@ comparePrice: 31.87 EUR
 prodname: 'Yaogroo 208 Spiele in 1 NDS Game Pack-Karte Super Combo Multi-Cartridge für DS NDS NDSL NDSi 3DS 2DS XL'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QN67KN5/?tag=tolees0ca-21'
 descuento: '71.76'
 average: '9.0'

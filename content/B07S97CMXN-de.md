@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Ice-Watch - Ice Duo Chic Weiß marine - Damen wristwatch mit Silikonarmband - 017153  Small '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07S97CMXN/?tag=tolees0ca-21'
 descuento: '35.58'
 average: '63.78'

@@ -16,6 +16,7 @@ comparePrice: 249.9 EUR
 prodname: 'Orbsmart lüfterloser 4K Mini PC AW-09 Windows 10 Desktop-PC/Office/Business  Intel Quadcore CPU  4GB  max. 8GB  RAM  120GB SSD  2.5" HDD-Bay  HDMI & DisplayPort '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079TMDR87/?tag=tolees0ca-21'
 descuento: '16.01'
 average: '202.2863636363637'

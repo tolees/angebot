@@ -16,6 +16,7 @@ comparePrice: 54.9 EUR
 prodname: 'Bierothek® Bierpaket Emelisse  12 Flaschen Craft Bier | außergewöhnliches Geschenk '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RRQDYSZ/?tag=tolees0ca-21'
 descuento: '18.21'
 average: '44.9'

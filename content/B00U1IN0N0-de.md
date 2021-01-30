@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Kitchen Craft Kuchendose Living Nostalgia mit Deckel 28 5x18cm in grau  Stahl  30 x 18 x 18 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00U1IN0N0/?tag=tolees0ca-21'
 descuento: '23.20'
 average: '27.64'

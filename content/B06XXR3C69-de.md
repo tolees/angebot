@@ -16,6 +16,7 @@ comparePrice: 169.95 EUR
 prodname: 'Homematic IP Smart Home Starter Set Beschattung - Intelligente Rollladensteuerung per Smartphone  151670A0'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XXR3C69/?tag=tolees0ca-21'
 descuento: '18.21'
 average: '139.0'

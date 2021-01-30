@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Samsonite S Cure - Spinner L Koffer  75 cm  102 L  schwarz  black '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007WQJSGM/?tag=tolees0ca-21'
 descuento: '47.21'
 average: '105.05'

@@ -16,6 +16,7 @@ comparePrice: 5.17 EUR
 prodname: 'Pentel Arts FR-101-X Pentelarts NachfLlpatrone Colour Brush  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0027AAPH4/?tag=tolees0ca-21'
 descuento: '38.10'
 average: '3.2'

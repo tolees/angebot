@@ -16,6 +16,7 @@ comparePrice: 209.99 EUR
 prodname: 'ACEPC T11 Mini-PC Windows 10 Pro  4GB DDR3/ 64GB eMMC/ 120GB SSD Intel Atom x5-Z8350 Lüfterloser Mini-Computer  Unterstützung von 4K HD  2.4/ 5G WLAN  Gigabit Ethernet  HDMI/VGA Ausgang'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Y4S8QKQ/?tag=tolees0ca-21'
 descuento: '19.05'
 average: '169.99'

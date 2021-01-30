@@ -16,6 +16,7 @@ comparePrice: 129.64 EUR
 prodname: 'The Big Bang Theory S1-12 Boxset DVD'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XYHT37W/?tag=tolees0ca-21'
 descuento: '32.22'
 average: '108.93'

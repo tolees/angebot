@@ -16,6 +16,7 @@ comparePrice: 71.95 EUR
 prodname: 'Western Digital WD1003FBYX RE4 1TB interne Festplatte  8 9 cm  3 5 Zoll   7200rpm  SATA 3Gb/s  64MB Cache '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003SANWI6/?tag=tolees0ca-21'
 descuento: '41.70'
 average: '67.42500000000001'

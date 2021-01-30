@@ -16,6 +16,7 @@ comparePrice: 315.89 EUR
 prodname: 'Bomann VS 3171 Kühlschrank / A++ / 144 cm / 103 kWh/Jahr /245 L Kühlteil / Flaschenhalterung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072FJWB43/?tag=tolees0ca-21'
 descuento: '22.44'
 average: '245.0'

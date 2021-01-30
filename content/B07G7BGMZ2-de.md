@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Reishunger Digitaler Reiskocher & Dampfgarer Weiss mit Warmhaltefunktion  Timer & Premium Innentopf - Multikocher inkl. Reislöffel & Messbecher  12 Programme  7-Phasen-Technologie  Bis 8 Personen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G7BGMZ2/?tag=tolees0ca-21'
 descuento: '23.33'
 average: '114.99'

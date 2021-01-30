@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Rowenta CF4132 Multistyler Elite 14 In 1'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00EAA6IZW/?tag=tolees0ca-21'
 descuento: '55.18'
 average: '26.89'

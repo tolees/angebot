@@ -16,6 +16,7 @@ comparePrice: 5.99 EUR
 prodname: 'Der Patriot - Extended Version'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000E8RB5K/?tag=tolees0ca-21'
 descuento: '88.81'
 average: '0.67'

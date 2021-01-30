@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'The Impossible'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00B17G9BU/?tag=tolees0ca-21'
 descuento: '71.75'
 average: '2.54'

@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Microsoft Surface Headphones'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NGY9MJ8/?tag=tolees0ca-21'
 descuento: '18.85'
 average: '145.25'

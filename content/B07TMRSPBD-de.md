@@ -16,6 +16,7 @@ comparePrice: 11.96 EUR
 prodname: 'Harmony'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TMRSPBD/?tag=tolees0ca-21'
 descuento: '25.33'
 average: '8.93'

@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Citizen Herren Analog Quarz Uhr mit Nylon Armband AW5000-24E'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N9SMTFR/?tag=tolees0ca-21'
 descuento: '28.05'
 average: '100.01'

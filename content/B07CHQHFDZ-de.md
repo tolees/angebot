@@ -16,6 +16,7 @@ comparePrice: 519.0 EUR
 prodname: 'OnePlus 6 Smartphone  15 95 cm  6 28 Zoll  19:9 Touch-Display  64 GB interner Speicher  Android 8.1 Oreo / Oxygen OS 5.1   Mirror Black'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CHQHFDZ/?tag=tolees0ca-21'
 descuento: '20.04'
 average: '415.0'

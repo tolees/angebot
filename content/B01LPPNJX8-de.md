@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Belkin ScreenForce InvisiGlass Displayschutzfolie  geeignet für iPhone 8  iPhone 7 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LPPNJX8/?tag=tolees0ca-21'
 descuento: '19.76'
 average: '16.015'

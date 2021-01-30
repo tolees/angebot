@@ -16,6 +16,7 @@ comparePrice: 103.45 EUR
 prodname: 'The North Face Unisex Rucksack Borealis Classic  tnf black/asphalt grey  34 5 x 18 5 x 48 cm  29 Liter  T0CF9CKT0'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01DPK4IPO/?tag=tolees0ca-21'
 descuento: '58.12'
 average: '44.233333333333334'

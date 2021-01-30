@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'GraviTrax 27611 Lift Spielzeug  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BLYRLZ4/?tag=tolees0ca-21'
 descuento: '23.82'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'ASTRO A40 TR Gaming-Headsest + MixAmp Pro TR  Generation 4  7.1 Dolby Surround Sound  ASTRO Audio V2  3.5mm Klinke  austauschbares Mikrofon  Lautsprecher-Tags  PC/Mac/Xbox One - Schwarz/Rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PRYFGXG/?tag=tolees0ca-21'
 descuento: '26.54'
 average: '204.95'

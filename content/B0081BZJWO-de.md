@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Nestlé KITKAT ChunKy Classic  Schokoriegel in Milchschokolade  mit Vollmilchschokolade & knuspriger Waffel  Multi-Pack  24er Pack  24 x 40g '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0081BZJWO/?tag=tolees0ca-21'
 descuento: '45.83'
 average: '9.75'

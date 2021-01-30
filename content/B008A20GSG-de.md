@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Amigo 01735 - Ringlding'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B008A20GSG/?tag=tolees0ca-21'
 descuento: '26.89'
 average: '11.69'

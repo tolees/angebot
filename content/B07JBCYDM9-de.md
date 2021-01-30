@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Trust GXT Mechanische Gaming Tastatur mit LED Beleuchtung  Deutsches QWERTZ Layout  Rote Schalter  Anti-Ghosting N-Key-Rollover  Metall Oberplatte  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JBCYDM9/?tag=tolees0ca-21'
 descuento: '40.01'
 average: '29.99'

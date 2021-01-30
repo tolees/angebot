@@ -16,6 +16,7 @@ comparePrice: 58.48 EUR
 prodname: 'PLAYMOBIL Family Fun 70087 Großer Campingplatz  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JMCCF85/?tag=tolees0ca-21'
 descuento: '31.62'
 average: '40.733137254901955'

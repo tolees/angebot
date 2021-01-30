@@ -16,6 +16,7 @@ comparePrice: 8.69 EUR
 prodname: 'Feuchtmann Spielwaren 6281513 - MEINE LIEBLINGSKNETE aus besten Rohstoffen  4 Dosen á 150 g - lufttrocknende Modelliermasse'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01FK4C31Y/?tag=tolees0ca-21'
 descuento: '16.11'
 average: '7.29'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Strellson Herren Harley 2495 Derbys  Schwarz  Black 900   41 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079TSG6N8/?tag=tolees0ca-21'
 descuento: '35.49'
 average: '64.48'

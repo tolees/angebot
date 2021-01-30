@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Living Nostalgia 14 5 cm  Peg Dose mit Haken  grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00U1INHG0/?tag=tolees0ca-21'
 descuento: '35.72'
 average: '12.85'

@@ -16,6 +16,7 @@ comparePrice: 19.19 EUR
 prodname: 'LG GH24NSD5 Internes DVD-W Black Bare-Laufwerk'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PKPSNJZ/?tag=tolees0ca-21'
 descuento: '21.89'
 average: '14.99'

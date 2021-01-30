@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'GARDENA Hahnverbinder für Indoor-Wasserhähne: Anschluss für Indoor-Wasserhähne  inkl. Adapter für Perlstrahlkopf  Schlüssel für einfaches Anbringen  für Küche und Bad  18210-20 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YSSVYH4/?tag=tolees0ca-21'
 descuento: '22.02'
 average: '10.965833333333334'

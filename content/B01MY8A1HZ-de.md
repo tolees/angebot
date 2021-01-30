@@ -16,6 +16,7 @@ comparePrice: 549.99 EUR
 prodname: 'Philips Lumea Prestige IPL Haarentfernungsgerät BRI954 – Lichtbasierte Haarentfernung für dauerhaft glatte Haut - inkl. 3 speziell geformter Aufsätze für Körper  Gesicht  Bikini-Zone & Achseln'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MY8A1HZ/?tag=tolees0ca-21'
 descuento: '31.11'
 average: '339.435'

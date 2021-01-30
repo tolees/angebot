@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'PLAYMOBIL Top Agents 70002 Spy Team Turboship  Ab 6 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JKWNS1N/?tag=tolees0ca-21'
 descuento: '37.51'
 average: '28.65175438596491'

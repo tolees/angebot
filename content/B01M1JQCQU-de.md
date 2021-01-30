@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Fossil Damen-Armband JA6851791'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M1JQCQU/?tag=tolees0ca-21'
 descuento: '28.51'
 average: '27.88'

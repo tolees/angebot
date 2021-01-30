@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Dermaroller【Newest 2020】  ETEREAUTY 0.5mm Micronadeln Derma Roller  CE Kennzeichnung 1.0/1.5mm aus Edelstahl Micronadeln für Anti Falten  Schwangerschaftsstreifen  Haarausfall und Anti Falten'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MZTPPQ9/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '12.79'

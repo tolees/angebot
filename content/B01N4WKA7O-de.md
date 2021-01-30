@@ -16,6 +16,7 @@ comparePrice: 24.98 EUR
 prodname: 'AFUT Fotostudio 1 5 x 2 1 M klassische Holz Holzboden Mode Hintergrund-Hintergrundstoff für Fotografie Studio-Portrait-Foto  Video und Fernsehen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N4WKA7O/?tag=tolees0ca-21'
 descuento: '39.99'
 average: '14.99'

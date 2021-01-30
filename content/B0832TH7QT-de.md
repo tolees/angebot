@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'PITTMAN Cargo Hose Herren Darius - Männer Chino by Pit Jeans - Schwarze Cargohosen - Jogginghose Hosen Pants  Schwarz  Black 194008   W28/L32'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0832TH7QT/?tag=tolees0ca-21'
 descuento: '30.00'
 average: '34.93'

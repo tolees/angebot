@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Barbie FRH73 - Cooking und Baking Deluxe Küche Spielset und Puppe  mit Zubehör und Spielknete  Mädchen Spielzeug ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079JFTL73/?tag=tolees0ca-21'
 descuento: '31.36'
 average: '41.18'

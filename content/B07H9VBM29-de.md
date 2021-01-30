@@ -16,6 +16,7 @@ comparePrice: 285.99 EUR
 prodname: 'SanDisk Extreme PRO 512GB SDXC Speicherkarte bis zu 170 MB/s  Class 10  U3  V30'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07H9VBM29/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '142.99'

@@ -16,6 +16,7 @@ comparePrice: 15.11 EUR
 prodname: 'Funko 5859 Ron Weasley POP Vinyl Harry Potter S1  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00TQ5EXQM/?tag=tolees0ca-21'
 descuento: '21.77'
 average: '11.793333333333335'

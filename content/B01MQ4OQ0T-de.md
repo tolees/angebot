@@ -16,6 +16,7 @@ comparePrice: 121.8 EUR
 prodname: 'Julbo Vermont Herren-Sonnenbrille  Herren  Sonnenbrille  J0101150  Messing / Fauve  one size'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MQ4OQ0T/?tag=tolees0ca-21'
 descuento: '35.14'
 average: '79.0'

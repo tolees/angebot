@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'AKASO Smart WLAN Kamera HD 1080P IP Überwachungskamera Alexa/ Echo Spot/Show /Google Home/Fire-TV Kompatibel  Bewegungserkennung  2 Wege Audio  Nachtsicht  App Kontrolle  Haustier/Baby Monitor'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HGWTTMN/?tag=tolees0ca-21'
 descuento: '64.45'
 average: '31.99'

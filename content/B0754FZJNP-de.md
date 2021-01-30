@@ -16,6 +16,7 @@ comparePrice: 13.29 EUR
 prodname: 'BENECREAT 3mm 20m elastische Schnur  Schmuckherstellung Perlenschnur  Stretchfaden Draht Stoff Crafting String Seil Bungee Cord für DIY Handwerk Armbänder Halsketten  Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0754FZJNP/?tag=tolees0ca-21'
 descuento: '16.55'
 average: '11.09'

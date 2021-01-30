@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Bartöl - Beard Oil für Männer - Für gesundes Bartwachstum & einen gepflegten Stil - Leicht parfümiert  enthält Jojoba- & Mandelöl - Vegane Bartpflege - 100 ml'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B016BRGMNY/?tag=tolees0ca-21'
 descuento: '26.90'
 average: '12.39'

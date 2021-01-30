@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Adidas Herren Core 18 Trainingshose  Black/White  S'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076HRLVB5/?tag=tolees0ca-21'
 descuento: '40.53'
 average: '23.196'

@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'BaByliss C260E Welleneisen Easy Beach Waves'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005I4QNXG/?tag=tolees0ca-21'
 descuento: '41.50'
 average: '29.19'

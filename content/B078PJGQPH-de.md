@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Coleman Blackout Zelt  4 Personen  4 Mann Zelt  wasserdicht WS 4.500 mm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078PJGQPH/?tag=tolees0ca-21'
 descuento: '38.63'
 average: '115.99'

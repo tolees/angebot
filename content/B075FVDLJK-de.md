@@ -16,6 +16,7 @@ comparePrice: 20.92 EUR
 prodname: 'Norton Security Standard 2019 | 1 Gerät | 1 Jahr | PC/Mac/Android/iOS | Download  Aktivierungscode in Frustfreier Verpackung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075FVDLJK/?tag=tolees0ca-21'
 descuento: '54.64'
 average: '9.49'

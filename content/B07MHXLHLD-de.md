@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Funko 39048 POP Vinyl: Games: Fortnite: Loot Lama Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MHXLHLD/?tag=tolees0ca-21'
 descuento: '31.72'
 average: '10.36'

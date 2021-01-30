@@ -16,6 +16,7 @@ comparePrice: 18.92 EUR
 prodname: 'Bei Anruf Mord  inkl. 2D-Version  [3D Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00DU61MQC/?tag=tolees0ca-21'
 descuento: '38.69'
 average: '11.6'

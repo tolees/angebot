@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Paco Home In- & Outdoor Teppich Vintage Design Rautenmuster Flachgewebt In Grau  Grösse:120x170 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0779V1VHR/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '23.99'

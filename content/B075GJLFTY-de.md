@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Das fünfte Element [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075GJLFTY/?tag=tolees0ca-21'
 descuento: '33.37'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 300.0 EUR
 prodname: 'Mammut Herren Hardshell-jacke Mit Kapuze Masao Light Hooded  grau  S'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZYHR9XM/?tag=tolees0ca-21'
 descuento: '30.33'
 average: '209.0'

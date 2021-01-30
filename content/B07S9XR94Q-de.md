@@ -16,6 +16,7 @@ comparePrice: 99.98 EUR
 prodname: 'GODNECE LED Licht-Set für Baustein  Led Beleuchtungsset Licht-Set für Baustein Spielzeug Kompatibel Mit Lego Technic Geländegängiger Kranwagen 42082 Bausatz Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07S9XR94Q/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '52.391612903225806'

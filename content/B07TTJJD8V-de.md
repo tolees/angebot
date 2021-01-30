@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'Acer Aspire 3  A315-54-56KY  39.6 cm  15 6 Zoll Full-HD matt  Multimedia Notebook  Intel Core i5-8265U  8 GB RAM  256 GB PCIe SSD  Intel UHD  Win 10 Home  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TTJJD8V/?tag=tolees0ca-21'
 descuento: '19.84'
 average: '400.0'

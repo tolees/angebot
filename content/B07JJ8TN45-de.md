@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'eufy Security  eufyCam E Kabellose Überwachungskamera  1 Jahr Akkulaufzeit  1080p 100dB Diebstahlalarm  16GB microSD-Speicherkarte  doppelseitige Kommunikation  IP65 Wetterfest'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JJ8TN45/?tag=tolees0ca-21'
 descuento: '25.00'
 average: '112.49'

@@ -16,6 +16,7 @@ comparePrice: 25.33 EUR
 prodname: 'Philips HD9941/00 Grill-Kit für Aifryer  Grillpfanne und Grillspieße   Metall  Schwarz/Edelstahl'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07F8T8YT8/?tag=tolees0ca-21'
 descuento: '24.08'
 average: '19.23'

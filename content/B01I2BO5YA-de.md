@@ -16,6 +16,7 @@ comparePrice: 19.97 EUR
 prodname: 'Lucy   4K Ultra HD   + Blu-ray '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01I2BO5YA/?tag=tolees0ca-21'
 descuento: '15.07'
 average: '16.96'

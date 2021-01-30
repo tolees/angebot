@@ -16,6 +16,7 @@ comparePrice: 114.9 EUR
 prodname: 'D-Link DGS-1024D Gigabit Ethernet Switch  24 Ports  10/100/1000 Mbit/s  einfache Plug & Play-Installation  lüfterlos '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00061LQZQ/?tag=tolees0ca-21'
 descuento: '25.24'
 average: '85.9'

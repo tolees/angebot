@@ -16,6 +16,7 @@ comparePrice: 112.4 EUR
 prodname: 'New Balance Herren MRL996AG Revlite Sneaker  Grau  MRL996AG   44.5 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HS39JJ0/?tag=tolees0ca-21'
 descuento: '48.50'
 average: '57.89'

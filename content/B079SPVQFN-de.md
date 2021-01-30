@@ -16,6 +16,7 @@ comparePrice: 479.99 EUR
 prodname: 'Philips FC6826/01 SpeedPro Max Kabelloser Staubsauger  mit Akku  360°-Saugdüse  65 Min. Akkulaufzeit  kupfer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079SPVQFN/?tag=tolees0ca-21'
 descuento: '40.00'
 average: '288.0'

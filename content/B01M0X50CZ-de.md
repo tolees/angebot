@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Mpow Bluetooth Headset  Wireless Headset Auto  Stereo Sound  cVc 6.0 Freisprechen Headset mit Mikrofon  Bluetooth Headset in Ear für Handys/Telefon / Tablet/PC  Business usw.  Schwarz '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M0X50CZ/?tag=tolees0ca-21'
 descuento: '16.67'
 average: '24.58176470588235'

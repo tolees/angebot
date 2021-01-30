@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Odlo Herren Mütze Polyknit  Black  One size  776350'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00IYJADIS/?tag=tolees0ca-21'
 descuento: '25.26'
 average: '14.91'

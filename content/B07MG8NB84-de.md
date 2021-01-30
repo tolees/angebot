@@ -16,6 +16,7 @@ comparePrice: 170.0 EUR
 prodname: 'ECCO Herren Byway TRED Hohe Sneaker  Schwarz  Black/Moonless 55869   43 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MG8NB84/?tag=tolees0ca-21'
 descuento: '40.04'
 average: '101.93'

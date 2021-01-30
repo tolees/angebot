@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas Herren Essentials Basic Poloshirt  Black  L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N0J2PKM/?tag=tolees0ca-21'
 descuento: '52.59'
 average: '16.57'

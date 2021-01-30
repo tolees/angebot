@@ -16,6 +16,7 @@ comparePrice: 214.9 EUR
 prodname: 'Huawei Mate 20 lite Dual-SIM Android 8.1 Smartphone mit Dual-Kamera  black  West European Version '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G8FN3XD/?tag=tolees0ca-21'
 descuento: '30.92'
 average: '148.45'

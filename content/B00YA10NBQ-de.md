@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Panasonic Nass/Trocken-Rasierer ES-LT4N mit ultraflexiblem 3D-Scherkopf  Rasierapparat für Herren  elektrischer Bartschneider  Pflege für jeden Bart'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00YA10NBQ/?tag=tolees0ca-21'
 descuento: '32.89'
 average: '99.99'

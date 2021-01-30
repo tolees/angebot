@@ -16,6 +16,7 @@ comparePrice: 227.98 EUR
 prodname: 'TONGJI Acryl Vitrine Mit Beleuchtungsset Kompatibel Mit Lego 10265 Ford Mustang  Schaukasten Staubdicht Display Box  Beinhaltet Nicht das Modell  '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XD2CGPG/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '113.99'

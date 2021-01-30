@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Funko 44278 POP NBA: Dallas Mavericks-Kristaps Prozingis Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RPB5PVD/?tag=tolees0ca-21'
 descuento: '61.08'
 average: '7.39'

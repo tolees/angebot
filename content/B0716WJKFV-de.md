@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'BIRKENSTOCK Damen Madrid Big Buckle Pantoletten  Braun  Cognac Cognac   39 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0716WJKFV/?tag=tolees0ca-21'
 descuento: '19.06'
 average: '75.85'

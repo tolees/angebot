@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'SEVERIN DK 1042 Doppel-Kochplatte  2 Massekochfelder  1x Ø 15 5 cm  1x Ø 18 5 cm  Stufenlose Temperatureinstellung  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007HMQM6K/?tag=tolees0ca-21'
 descuento: '40.31'
 average: '29.84'

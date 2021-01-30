@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'BOSS Herren Paddy Pro Poloshirt  Blau  Medium Blue 422   X-Large  Herstellergröße: XL '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07K3DZF4R/?tag=tolees0ca-21'
 descuento: '30.97'
 average: '69'

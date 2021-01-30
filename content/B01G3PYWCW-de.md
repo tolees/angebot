@@ -16,6 +16,7 @@ comparePrice: 9.49 EUR
 prodname: 'Smart Games SG455 IQ-Puzzler PRO  Geschicklichkeitsspiel  Reisespiel  Gehirntraining'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01G3PYWCW/?tag=tolees0ca-21'
 descuento: '26.34'
 average: '6.99'

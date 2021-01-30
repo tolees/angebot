@@ -16,6 +16,7 @@ comparePrice: 11.39 EUR
 prodname: 'Boneshaker  Ltd.Deluxe Edt. '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07X1M7YTY/?tag=tolees0ca-21'
 descuento: '29.85'
 average: '7.99'

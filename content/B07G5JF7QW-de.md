@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Canon PIXMA TS6250 Drucker Farbtintenstrahl Multifunktionsgerät DIN A4  Scanner  Kopierer  Touchscreen  4.800 x 1.200 dpi  USB  WLAN  5 separate Tinten  Duplexdruck  2 Papierzuführungen  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G5JF7QW/?tag=tolees0ca-21'
 descuento: '29.31'
 average: '98.26'

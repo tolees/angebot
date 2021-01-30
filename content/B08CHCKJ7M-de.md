@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Externes 3D Blu Ray DVD Laufwerk Brenner USB 3.0 Tragbare Ultra Slim BD/CD/DVD RW Player Disc für Windows 10/7/8.1 / Vista/XP/Mac OS Linux  PC'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08CHCKJ7M/?tag=tolees0ca-21'
 descuento: '18.18'
 average: '89.99'

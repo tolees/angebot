@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Tommy Hilfiger Damen DANNY BELT Gürtel  Schwarz  MASTERS BLACK 017   75 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00XDYNPE8/?tag=tolees0ca-21'
 descuento: '29.00'
 average: '31.88'

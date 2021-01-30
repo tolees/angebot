@@ -16,6 +16,7 @@ comparePrice: 599.99 EUR
 prodname: 'Garmin fēnix 3 HR Saphir GPS-Multisportuhr  Herzfrequenzmessung am Handgelenk  zahlreiche Sport- und Navigationsfunktionen  010-01338-71'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B016YQ8G5O/?tag=tolees0ca-21'
 descuento: '63.35'
 average: '219.9'

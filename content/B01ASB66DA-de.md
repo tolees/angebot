@@ -16,6 +16,7 @@ comparePrice: 1329.0 EUR
 prodname: 'Neff TBD 4800 N Kochfeld Elektro / Induktion / 79 5 cm / Automatische Sicherheitsabschaltung Kindersicherung / schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01ASB66DA/?tag=tolees0ca-21'
 descuento: '56.22'
 average: '581.85'

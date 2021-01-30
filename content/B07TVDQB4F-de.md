@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Pop Trolls Teal Troll Vinyl Figure'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TVDQB4F/?tag=tolees0ca-21'
 descuento: '38.00'
 average: '8.012'

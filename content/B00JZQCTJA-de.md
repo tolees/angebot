@@ -16,6 +16,7 @@ comparePrice: 15.95 EUR
 prodname: 'Schiesser Damen Midi  2er Pack  Slip  Weiß  Weiss 100   40  Herstellergröße: 040 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00JZQCTJA/?tag=tolees0ca-21'
 descuento: '31.35'
 average: '10.95'

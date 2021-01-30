@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'ColiCor Display Halterung DIY Vertikales Ständer für Lego Star Wars 75192 Millennium Falcon'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B085TB2QJH/?tag=tolees0ca-21'
 descuento: '16.67'
 average: '29.99'

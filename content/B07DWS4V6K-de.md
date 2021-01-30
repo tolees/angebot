@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'AmazonBasics - Lightning-auf-USB-A-Kabel  Premium-Kollektion  0 9 m  1er-Pack - Rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DWS4V6K/?tag=tolees0ca-21'
 descuento: '49.94'
 average: '4.0'

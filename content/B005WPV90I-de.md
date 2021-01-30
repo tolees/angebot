@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'LTB Herren Boot-Cut Jeans  Powder Aged 1241  L30W / 30L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005WPV90I/?tag=tolees0ca-21'
 descuento: '20.02'
 average: '47.95'

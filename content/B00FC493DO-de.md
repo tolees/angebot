@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Predator [Blu-ray 3D]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00FC493DO/?tag=tolees0ca-21'
 descuento: '29.95'
 average: '9.1'

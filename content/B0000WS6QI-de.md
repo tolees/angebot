@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Numark HF125 - professioneller DJ Kopfhörer mit 2m Kabel und 40 mm Lautsprechern für besseren Frequenzgang und geschlossenen Ohrmuscheln für optimale Abschirmung  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0000WS6QI/?tag=tolees0ca-21'
 descuento: '16.92'
 average: '8.233333333333333'

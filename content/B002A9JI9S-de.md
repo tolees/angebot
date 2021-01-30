@@ -16,6 +16,7 @@ comparePrice: 11.61 EUR
 prodname: 'Philips Ersatzlampenbox H1 / H7'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002A9JI9S/?tag=tolees0ca-21'
 descuento: '48.32'
 average: '6.0'

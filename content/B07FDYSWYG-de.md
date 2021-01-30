@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: '2 teilig Kochmesser Profi Messer Set AKZIM Scharfe Küchenmesser und Santokumesser Set Extra Scharfe Messerklinge mit Ergonomischer Griff Deutsches High Carbon Edelstahlmesser Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FDYSWYG/?tag=tolees0ca-21'
 descuento: '61.44'
 average: '26.99'

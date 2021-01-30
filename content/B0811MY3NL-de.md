@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'HATTEKER Rasierer Elektrorasierer Herren Rasierapparat Nass-und Trockenrasierer Elektrisch Bartschneider Präzisionstrimmer Rotationsrasierer Männer Wasserdicht 3 IN 1'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0811MY3NL/?tag=tolees0ca-21'
 descuento: '15.00'
 average: '34.924736842105276'

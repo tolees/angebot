@@ -16,6 +16,7 @@ comparePrice: 12.51 EUR
 prodname: 'Tayg Kanister mit Wasserhahn'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B006UII3OQ/?tag=tolees0ca-21'
 descuento: '20.14'
 average: '9.99'

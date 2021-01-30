@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'LIGHTAILING Licht-Set Für  Alter Angelladen  Modell - LED Licht-Set Kompatibel Mit Lego 21310 Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KR34ZM4/?tag=tolees0ca-21'
 descuento: '56.26'
 average: '34.99'

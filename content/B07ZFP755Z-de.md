@@ -16,6 +16,7 @@ comparePrice: 34.19 EUR
 prodname: 'Tommy Hilfiger Herren Stretch Slim Fit Long Sleeve Tee Hemd  Blue  L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZFP755Z/?tag=tolees0ca-21'
 descuento: '15.18'
 average: '29.0'

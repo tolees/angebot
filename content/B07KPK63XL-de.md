@@ -16,6 +16,7 @@ comparePrice: 10.87 EUR
 prodname: 'Funko 30596 POP Vinyl: Fairy Tail S3: Pantherlily Sammelbares Spielzeug  Mehrfarben  Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KPK63XL/?tag=tolees0ca-21'
 descuento: '26.40'
 average: '9.495000000000001'

@@ -16,6 +16,7 @@ comparePrice: 9.98 EUR
 prodname: 'Der Mann ohne Nerven  Breakout  [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N0AEM5I/?tag=tolees0ca-21'
 descuento: '32.46'
 average: '6.74'

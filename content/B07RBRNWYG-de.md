@@ -16,6 +16,7 @@ comparePrice: 90.97 EUR
 prodname: 'YLCJ Milan Nordic American Retro industria pesada metal lámpara de pared artesanal ajustable industrial de hierro y minería Garaje cocina mesa de comedor lámpara de pared'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RBRNWYG/?tag=tolees0ca-21'
 descuento: '27.48'
 average: '65.97'

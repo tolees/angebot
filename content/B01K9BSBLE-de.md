@@ -16,6 +16,7 @@ comparePrice: 232.59 EUR
 prodname: 'Hugo BOSS Herren-Armbanduhr 1513440  Stahl/Grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01K9BSBLE/?tag=tolees0ca-21'
 descuento: '21.36'
 average: '182.9'

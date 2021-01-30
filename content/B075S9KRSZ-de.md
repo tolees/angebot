@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Mütze Baumwolle Herren schwarz Made in Germany - Beanie Herren Sommer - Perfekte Passform - Sehr leichte & Bequeme Sommermütze  L  59-60   schwarz '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075S9KRSZ/?tag=tolees0ca-21'
 descuento: '30.01'
 average: '34.99'

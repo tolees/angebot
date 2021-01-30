@@ -16,6 +16,7 @@ comparePrice: 299.9 EUR
 prodname: 'ZTE Smartphone Blade 10  16 cm  6 3 Zoll  FHD+ Display  64 GB interner Speicher  32 MP AI-Selfie- und 16+5 MP Dual-Hauptkamera  Dual-SIM  Android 9  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XZCV6TY/?tag=tolees0ca-21'
 descuento: '66.99'
 average: '121.66666666666667'

@@ -16,6 +16,7 @@ comparePrice: 21.0 EUR
 prodname: 'Funko POP Fantastic Beasts 2 Baby NI'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFBJR9C/?tag=tolees0ca-21'
 descuento: '23.86'
 average: '18.826153846153847'

@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Tommy Hilfiger Herren Analoger Quarz Uhr mit Edelstahl Armband 1710407'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YNB3ZJJ/?tag=tolees0ca-21'
 descuento: '31.03'
 average: '116.56'

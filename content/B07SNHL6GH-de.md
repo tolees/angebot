@@ -16,6 +16,7 @@ comparePrice: 153.38 EUR
 prodname: 'SS&LL La basura del paso Puede Cubos de basura Con Tapas redondas basura Puede en casa & Cuarto de baño de la cocina -N'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SNHL6GH/?tag=tolees0ca-21'
 descuento: '38.72'
 average: '93.99'

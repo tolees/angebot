@@ -16,6 +16,7 @@ comparePrice: 699.99 EUR
 prodname: 'SAGE SES875 the Barista Express  Siebträger mit Manometer-Anzeige  15 Bar  Gebürsteter Edelstahl'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B2X1VXZ/?tag=tolees0ca-21'
 descuento: '28.71'
 average: '449.495'

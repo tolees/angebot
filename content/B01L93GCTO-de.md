@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Hasbro B7493EU00 - Star Wars Rogue One Interaktiver Droid - Smart R2-D2  Actionfigur'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01L93GCTO/?tag=tolees0ca-21'
 descuento: '50.71'
 average: '49.29'

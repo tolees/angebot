@@ -16,6 +16,7 @@ comparePrice: 280.84 EUR
 prodname: 'Bosch Professional Bohrmaschine GBM 13-2 RE  Schnellspannbohrfutter 13 mm '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B013WALD1O/?tag=tolees0ca-21'
 descuento: '28.82'
 average: '199.9'

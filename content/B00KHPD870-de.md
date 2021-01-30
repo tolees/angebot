@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Belkin Metallic Lightning-/USB iPhone Ladekabel  geeignet für iPhone XS  XS Max  XR  X  8/8 Plus und andere Geräte  1 2 m   silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00KHPD870/?tag=tolees0ca-21'
 descuento: '25.01'
 average: '14.99'

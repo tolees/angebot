@@ -16,6 +16,7 @@ comparePrice: 529.0 EUR
 prodname: 'KitchenAid CLASSIC 4 3 L-Küchenmaschinen mit kippbarem Motorkopf  4.3 L  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076HTQ6BP/?tag=tolees0ca-21'
 descuento: '31.29'
 average: '361.07000000000005'

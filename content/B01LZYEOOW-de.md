@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'American Tourister Urban Groove - 15 6 Zoll Laptop Rucksack  47 cm  27 L  schwarz  black/blue '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LZYEOOW/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '31.96'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'fischertechnik Experimentierbaukasten Mechanic + Static 2 - der optimale Technik Baukasten um die Grundlagen der Technik zu entdecken - 30 realtätsnahe Modelle - für Kinder ab 9 Jahren -'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BLF1U9C/?tag=tolees0ca-21'
 descuento: '25.06'
 average: '74.9'

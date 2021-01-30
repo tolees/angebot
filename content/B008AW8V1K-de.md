@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Lacoste Herren Sport  Poloshirt L1230-00  Einfarbig  Gr. Large  Herstellergröße: 50  T5   Schwarz  031 NOIR '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B008AW8V1K/?tag=tolees0ca-21'
 descuento: '40.65'
 average: '40.95'

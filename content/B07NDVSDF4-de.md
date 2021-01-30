@@ -16,6 +16,7 @@ comparePrice: 429.0 EUR
 prodname: 'Sony Xperia 10 Plus Smartphone  16 5 cm  6 5 Zoll  21:9 Full HD+ Display  64 GB Speicher  Dual-SIM  Split-Screen  Android 9  Silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NDVSDF4/?tag=tolees0ca-21'
 descuento: '23.31'
 average: '329.0'

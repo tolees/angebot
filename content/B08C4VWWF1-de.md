@@ -16,6 +16,7 @@ comparePrice: 29.89 EUR
 prodname: 'Aigital WLAN verstärker WiFi Repeater Range Extender 300Mbps Multifunktion Mini Wireless W-LAN Signal Booster Wireless Access Point 2.4GHz mit WPS Funktion Willigt IEEE802.11n/g/b'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08C4VWWF1/?tag=tolees0ca-21'
 descuento: '19.74'
 average: '23.99'

@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Sabrent Rocket Q 2TB NVMe PCIe M.2 2280 Interne Hochleistungs-Solid-State SSD  SB-RKTQ-2TB '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0829DZH2W/?tag=tolees0ca-21'
 descuento: '23.37'
 average: '229.89'

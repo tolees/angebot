@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Parker Jotter Kugelschreiber | Bond Street Black | Mittlere Spitze | Blaue Tinte | Geschenkbox'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01DJBH8SS/?tag=tolees0ca-21'
 descuento: '48.25'
 average: '9.29'

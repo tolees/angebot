@@ -16,6 +16,7 @@ comparePrice: 1249.0 EUR
 prodname: 'Samsung Galaxy S10+ Smartphone  16.3cm  6.4 Zoll  512 GB interner Speicher  8 GB RAM  Dual SIM  Android  Ceramic Black  inkl. 36 Monate Herstellergarantie [Exklusiv bei Amazon] Deutsche Version'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SHXPX1H/?tag=tolees0ca-21'
 descuento: '41.63'
 average: '714.0'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Fisher-Price CDH40 - Lernspaß Liederbuch Baby Spielzeug zum Lernen von Buchstaben  Zahlen und Formen  Spielzeug ab 6 Monaten  deutschsprachig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B018EAJ7CY/?tag=tolees0ca-21'
 descuento: '50.03'
 average: '9.99'

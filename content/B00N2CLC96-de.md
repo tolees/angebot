@@ -16,6 +16,7 @@ comparePrice: 377.99 EUR
 prodname: 'Bosch Professional Ortungsgerät D-tect 120  1x 1 5 Ah Akku  Schnellladegerät  L-BOXX  Ortungstiefe max: 120 mm  12 Volt '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00N2CLC96/?tag=tolees0ca-21'
 descuento: '54.76'
 average: '170.99'

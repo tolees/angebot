@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Funko 38481 POP Bobble Marvel Studios 10: Doctor Strange  Chrome  Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07J34TNPQ/?tag=tolees0ca-21'
 descuento: '31.81'
 average: '8.97'

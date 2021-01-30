@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Tommy Hilfiger Damen Multi Zifferblatt Quarz Uhr mit Roségold Armband 1781944'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G4SRQY6/?tag=tolees0ca-21'
 descuento: '38.01'
 average: '104.77'

@@ -16,6 +16,7 @@ comparePrice: 28.01 EUR
 prodname: 'SEVERIN KG 2388 Tischgrill  2.200 W  mit Hotzone-Element  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003XNBQMM/?tag=tolees0ca-21'
 descuento: '16.82'
 average: '23.3'

@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Smoby 311207 Tefal French Touch Bubble Küche  rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CH1Q9XJ/?tag=tolees0ca-21'
 descuento: '35.72'
 average: '89.99'

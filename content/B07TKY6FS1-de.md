@@ -16,6 +16,7 @@ comparePrice: 105.34 EUR
 prodname: 'THE NORTH FACE Herren M Zaneck Jacket Insulated Synthetic  Deep Garnet Red  L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TKY6FS1/?tag=tolees0ca-21'
 descuento: '20.93'
 average: '83.29'

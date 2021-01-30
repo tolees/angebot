@@ -16,6 +16,7 @@ comparePrice: 799.0 EUR
 prodname: 'Apple Watch Series 5  GPS + Cellular  40 mm  Edelstahlgehäuse Gold - Milanaise Armband Gold'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XS8WX5C/?tag=tolees0ca-21'
 descuento: '16.52'
 average: '667.01'

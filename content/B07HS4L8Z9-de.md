@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Lenovo Tab P10 25 5 cm  10 1 Zoll Full HD IPS Touch  Tablet-PC  Qualcomm Snapdragon 450 Octa-Core  4GB RAM  64GB eMCP  Wi-Fi  Android 8.1  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HS4L8Z9/?tag=tolees0ca-21'
 descuento: '29.45'
 average: '246.22'

@@ -16,6 +16,7 @@ comparePrice: 5.48 EUR
 prodname: 'Gran Torino'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001UHO61G/?tag=tolees0ca-21'
 descuento: '27.19'
 average: '3.99'

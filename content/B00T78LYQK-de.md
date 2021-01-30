@@ -16,6 +16,7 @@ comparePrice: 37.8 EUR
 prodname: 'Leibniz Pick Up Choco  100 Stück   1er Pack  1 x 2.8 kg '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00T78LYQK/?tag=tolees0ca-21'
 descuento: '16.96'
 average: '31.39'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'GoPro Karma Ladegerät Steckdosenadapter für EU schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06Y5SWQMF/?tag=tolees0ca-21'
 descuento: '50.10'
 average: '49.9'

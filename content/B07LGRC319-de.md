@@ -16,6 +16,7 @@ comparePrice: 499 EUR
 prodname: 'Laurastar 000.0305.530 Lift Plus Blue Sky  Dampfbügelstation  Dampfdruck 3.5 Bar  Hygiene-Dampf  Abnehmbarer Wassertank  1.1 liters'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07LGRC319/?tag=tolees0ca-21'
 descuento: '34.37'
 average: '327.48'

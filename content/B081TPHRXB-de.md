@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'adidas Damen 3-Streifen Kapuzenjacke  Black/White  M'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B081TPHRXB/?tag=tolees0ca-21'
 descuento: '27.64'
 average: '43.38'

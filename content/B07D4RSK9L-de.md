@@ -16,6 +16,7 @@ comparePrice: 86.99 EUR
 prodname: 'HyperX HX-HSCA-GD/NAP Cloud Alpha Gold - Gaming Kopfhörer mit In-Line Audio Control'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07D4RSK9L/?tag=tolees0ca-21'
 descuento: '32.18'
 average: '68.99666666666667'

@@ -16,6 +16,7 @@ comparePrice: 599.99 EUR
 prodname: 'Braun Silk-Expert Pro 5 PL5137 IPL Haarentfernungsgerät für dauerhaft sichtbare Haarentfernung  für Körper und Gesicht  Präzisionsaufsatz für empfindlichere Bereiche  400.000 Lichtimpulse  weiß/gold'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07M8CYX9V/?tag=tolees0ca-21'
 descuento: '36.77'
 average: '382.31'

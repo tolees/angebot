@@ -16,6 +16,7 @@ comparePrice: 151.0 EUR
 prodname: 'Nike Herren Air Max 270 Turnschuh  Black Anthracite White Solar Red  44 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: 'Nike'
 buyurl: 'https://www.amazon.de/dp/B078WZJLWB/?tag=tolees0ca-21'
 descuento: '16.23'
 average: '132.163225806451'
@@ -27,10 +28,10 @@ Es gibt ein [Nike Herren Air Max 270 Turnschuh  Black Anthracite White Solar Red
 
 ℹ️:
 
-- Schuhbreite: Normal
 - Sohlenmaterial: Gummi.
-- Obermaterial: Synthetik
 - Futter: Synthetik
 - Verschluss: Kordelzug.
+- Obermaterial: Synthetik
+- Schuhbreite: Normal
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B078WZJLWB/?tag=tolees0ca-21)

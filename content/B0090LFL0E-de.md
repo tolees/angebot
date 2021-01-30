@@ -16,6 +16,7 @@ comparePrice: 689.0 EUR
 prodname: 'Nintendo Wii U - Konsole  Premium Pack  32 GB  schwarz mit Nintendo Land'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0090LFL0E/?tag=tolees0ca-21'
 descuento: '81.14'
 average: '127.475'

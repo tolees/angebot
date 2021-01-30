@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Stanger 270012 WC Super set 10 Flaschen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005VSCU7C/?tag=tolees0ca-21'
 descuento: '59.85'
 average: '7.99'

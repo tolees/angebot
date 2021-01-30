@@ -16,6 +16,7 @@ comparePrice: 20.37 EUR
 prodname: 'Gifts Treat Kinder Sommer Sonnenhut  UPF 50+ Sonnenschutz Legionärskappe für 3-15 Jahre Mädchen und Jungen  Blau Fisch  52CM '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07F6DVXRH/?tag=tolees0ca-21'
 descuento: '36.23'
 average: '12.99'

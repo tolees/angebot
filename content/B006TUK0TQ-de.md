@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Triumph Damen BH  Push-up   Body Make-Up WHU  Beige  Smooth Skin  5G     Gr. 80C'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B006TUK0TQ/?tag=tolees0ca-21'
 descuento: '15.52'
 average: '33.75'

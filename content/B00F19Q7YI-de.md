@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'GoPro Front Saugnapfhalterung - gebogene  vertikale Schnellspannschnalle  2 x Schwenkarme  Rändelschrauben  Offizielles GoPro-Zubehör '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00F19Q7YI/?tag=tolees0ca-21'
 descuento: '31.54'
 average: '21.9'

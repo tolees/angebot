@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'OUTXE Outdoor Powerbank Solar 10000mAh USB C IP67 Wasserdicht Akkupack Solar Ladegerät mit Taschenlampe'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QM7JQZC/?tag=tolees0ca-21'
 descuento: '42.21'
 average: '17.33'

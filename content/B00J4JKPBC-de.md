@@ -16,6 +16,7 @@ comparePrice: 113.03 EUR
 prodname: 'Invicta 8929OB Pro Diver Unisex Uhr Edelstahl Automatik schwarzen Zifferblat'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00J4JKPBC/?tag=tolees0ca-21'
 descuento: '26.36'
 average: '83.23'

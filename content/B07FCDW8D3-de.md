@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'ELEGIANT Fitness Armband  Fitness Tracker Pulsmesser Wasserdicht IP67 Smartwatch Schrittzähler Aktivitätstracker Pulsuhr Sportuhr Damen Herren Anruf SMS SNS Whatsapp Vibrationsalarm für iPhone Android'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FCDW8D3/?tag=tolees0ca-21'
 descuento: '48.93'
 average: '11.23'

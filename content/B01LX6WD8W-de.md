@@ -16,6 +16,7 @@ comparePrice: 479.0 EUR
 prodname: 'Pioneer HTP-074 B  5.1 Heimkinosystem mit AV Receiver und Lautsprecher Set  100 W/Kanal  Multiroom  Dolby TrueHD  Bluetooth  Radio  Front USB/Audio in  Eco Mode   Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LX6WD8W/?tag=tolees0ca-21'
 descuento: '29.34'
 average: '408.74'

@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'G.I.G.A. DX Damen Madoka Parka  Dunkelnavy  42'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00X4SO5XS/?tag=tolees0ca-21'
 descuento: '56.45'
 average: '69.66'

@@ -16,6 +16,7 @@ comparePrice: 6.35 EUR
 prodname: 'Sebamed Trockene Haut Lotion Urea Akut 200ml'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001BEGGU2/?tag=tolees0ca-21'
 descuento: '21.42'
 average: '4.99'

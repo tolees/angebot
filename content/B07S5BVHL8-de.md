@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Nene Toys - Lernspielzeug für Jungen und Mädchen 2 3 4 Jahre Alt - Magnetisches Kinderspiel mit Farben zur Kognitiven  Körperlichen und Emotionale Entwicklung von Fähigkeiten für Babys Vorschülern'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07S5BVHL8/?tag=tolees0ca-21'
 descuento: '33.37'
 average: '19.99'

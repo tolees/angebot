@@ -16,6 +16,7 @@ comparePrice: 259.98 EUR
 prodname: 'DXX Technik Bausteine Gabelstapler  1719Teile 1:10 2.4G RC Ferngesteuert Gabelstapler mit Motor Bausteine Konstruktionsspielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083LHX1RY/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '122.49'

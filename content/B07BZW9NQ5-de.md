@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Hasbro Gaming E2420100 - Schnapp n Happen Familienspiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BZW9NQ5/?tag=tolees0ca-21'
 descuento: '64.21'
 average: '11.45'

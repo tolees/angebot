@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'HERMKO 5722 2er Pack Damen 3/4-Leggings mit Spitze  Farbe:weiß  Größe:32/34  XS '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LL5MV2W/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 149.98 EUR
 prodname: 'Brother JX17FE Nähmaschine mit 17 Nähprogramme  Freiarm  Automatisches Nähen  Elektrische Nähmaschinen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W7YZJQH/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '119.99'

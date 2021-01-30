@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'BECO Badeschuhe / Surfschuhe für Damen und Herren schwarz 45'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004SGFPDY/?tag=tolees0ca-21'
 descuento: '46.02'
 average: '6.99'

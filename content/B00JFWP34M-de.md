@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'RÖSLE Frischhaltedeckel Ø 28 cm  Glas mit rundumlaufenden Silikonrand  spülmaschinengeeignet'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00JFWP34M/?tag=tolees0ca-21'
 descuento: '35.31'
 average: '16.14'

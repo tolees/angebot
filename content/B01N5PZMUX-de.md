@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Rosenstein & Söhne Kaffeepresse: Thermo-Kaffeebereiter  French-Press  Edelstahl  doppelwandig  350 ml  Kaffeekannen '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N5PZMUX/?tag=tolees0ca-21'
 descuento: '42.61'
 average: '22.9'

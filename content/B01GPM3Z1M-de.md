@@ -16,6 +16,7 @@ comparePrice: 3.6 EUR
 prodname: 'Parker 1950385 Quink Nachfüllpatronen für Füllfederhalter  lange Patronen  5er Packung  blauschwarze tinte'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01GPM3Z1M/?tag=tolees0ca-21'
 descuento: '31.94'
 average: '2.45'

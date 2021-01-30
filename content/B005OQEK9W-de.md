@@ -16,6 +16,7 @@ comparePrice: 349.99 EUR
 prodname: 'Bosch Tischbohrmaschine PBD 40  710 W  Max. Bohr-Ø in Stahl/Holz: 13 mm/40 mm  Bohrhub 90mm  im Karton '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005OQEK9W/?tag=tolees0ca-21'
 descuento: '44.57'
 average: '189.49'

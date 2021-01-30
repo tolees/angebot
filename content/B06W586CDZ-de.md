@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'TP-Link Kasa Amazon Alexa zubehör Smart Home WLAN Steckdose HS100  EU  funktionieren mit Echo und Echo Dot  Google Home und IFTTT  Fernzugriff  Zeitpläne  Kein Hub erforderlich  Kasa App '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06W586CDZ/?tag=tolees0ca-21'
 descuento: '44.38'
 average: '13.9'

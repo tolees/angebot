@@ -16,6 +16,7 @@ comparePrice: 4.51 EUR
 prodname: 'Hpybest Zahnbürstenhalter für Rasierapparat  Saugnapf  Saugnapf  Rasierer  Badezimmer  Cocina Küche  Organizer Mutfak Prateleira Rack'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TTM26JL/?tag=tolees0ca-21'
 descuento: '50.11'
 average: '2.25'

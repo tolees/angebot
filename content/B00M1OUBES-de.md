@@ -16,6 +16,7 @@ comparePrice: 145.2 EUR
 prodname: 'NOCO GB30 Lithium Starthilfegerät  12 V Anzahl 1'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00M1OUBES/?tag=tolees0ca-21'
 descuento: '47.33'
 average: '76.48'

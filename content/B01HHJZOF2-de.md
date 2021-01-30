@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Crocs Fun Lab Frozen Clog  Mädchen Clogs  Blau  Navy   34/35 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01HHJZOF2/?tag=tolees0ca-21'
 descuento: '45.56'
 average: '19.05'

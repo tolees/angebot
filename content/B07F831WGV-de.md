@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Calvin Klein Herren - 3er-Pack mittlere Taille Hüft-Shorts - Cotton Stretch  Blau  Black/Blueshadow/Cobaltwater Dtm Wb 4Ku   M'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07F831WGV/?tag=tolees0ca-21'
 descuento: '28.71'
 average: '28.48'

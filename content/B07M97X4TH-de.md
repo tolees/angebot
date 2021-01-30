@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Braun Barttrimmer und Haarschneider BT3041  39 Längeneinstellungen  inkl. Gillette Rasierer  schwarz/grün'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07M97X4TH/?tag=tolees0ca-21'
 descuento: '31.27'
 average: '34.36'

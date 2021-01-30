@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Philips Senseo Viva Cafe HD6561/67 Nr. 1 Kaffepadmaschine mit 100 Pads in der Box  schwarz   Kunststoff'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XC6Y3B8/?tag=tolees0ca-21'
 descuento: '16.67'
 average: '69.16499999999999'

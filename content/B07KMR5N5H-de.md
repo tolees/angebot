@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'adidas Damen Essentials 3-Streifen Trainingshose  Black/White  S'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KMR5N5H/?tag=tolees0ca-21'
 descuento: '20.02'
 average: '35.89000000000001'

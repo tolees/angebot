@@ -16,6 +16,7 @@ comparePrice: 1149.0 EUR
 prodname: 'Apple iPhone XS  64GB  - Silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HBP1C2C/?tag=tolees0ca-21'
 descuento: '42.65'
 average: '714.9725'

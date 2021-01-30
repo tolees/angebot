@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Bosch BBZ154HF HEPA Filter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00387EZBM/?tag=tolees0ca-21'
 descuento: '78.82'
 average: '4.87'

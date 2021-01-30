@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'The Surge: Augmented Edition  PS4 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07L5VCRMM/?tag=tolees0ca-21'
 descuento: '75.04'
 average: '4.99'

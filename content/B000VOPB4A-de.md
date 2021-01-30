@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Moschino Funny femme/woman  Eau de Toilette  Vaporisateur/Spray 100 ml  1er Pack  1 x 100 ml '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000VOPB4A/?tag=tolees0ca-21'
 descuento: '20.06'
 average: '27.9'

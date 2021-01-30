@@ -16,6 +16,7 @@ comparePrice: 34 EUR
 prodname: 'YOSICIL Mädchen Prinzessin Schuhe ELSA Kristall Schuhe Frozen Eiskönigin Sandalen Partei Glitzer Pumps Festlich Ballerina Karneval Verkleidung Kinder Kostüm Zubehör Schuhe 22-36'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VNQG4BQ/?tag=tolees0ca-21'
 descuento: '32.68'
 average: '22.89'

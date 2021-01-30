@@ -16,6 +16,7 @@ comparePrice: 32.98 EUR
 prodname: 'erima Club 5 Sporttasche  Orange/Schwarz  L  76 Liter  723363'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00BQX491G/?tag=tolees0ca-21'
 descuento: '47.91'
 average: '17.18'

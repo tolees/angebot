@@ -16,6 +16,7 @@ comparePrice: 19.91 EUR
 prodname: 'Satisfyer 1 Next Generation  Klitoris-Sauger mit 11 Intensitätsstufen  Auflege-Vibrator mit Batteriebetrieb  wasserdicht'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071CZ8ZS9/?tag=tolees0ca-21'
 descuento: '28.93'
 average: '14.15'

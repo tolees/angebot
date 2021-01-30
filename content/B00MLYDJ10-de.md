@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Tommy Hilfiger Watches Herren-Armbanduhr Analog Quarz Leder 1791066'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00MLYDJ10/?tag=tolees0ca-21'
 descuento: '38.90'
 average: '115.47'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Mattel GGX28 - Toy Story 4 Ducky  17 cm Spielzeug Actionfigur ab 3 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HD228WN/?tag=tolees0ca-21'
 descuento: '25.52'
 average: '11.91'

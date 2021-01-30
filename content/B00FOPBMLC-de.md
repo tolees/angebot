@@ -16,6 +16,7 @@ comparePrice: 55.2 EUR
 prodname: 'Maggi Würze Vorratsflasche  6er Pack  6 x 1 kg '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00FOPBMLC/?tag=tolees0ca-21'
 descuento: '41.45'
 average: '32.32'

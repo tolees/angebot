@@ -16,6 +16,7 @@ comparePrice: 15.42 EUR
 prodname: 'POP Scrubs Turk Vinyl Figure'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HB4VLYZ/?tag=tolees0ca-21'
 descuento: '19.97'
 average: '12.235882352941175'

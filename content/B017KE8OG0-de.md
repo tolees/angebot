@@ -16,6 +16,7 @@ comparePrice: 134.99 EUR
 prodname: 'Seagate Expansion Portable  tragbare externe Festplatte  4 TB  2.5 Zoll  USB 3.0  PC  Xbox  PS4  ModelNr.: STEA4000400  2019 Edition'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B017KE8OG0/?tag=tolees0ca-21'
 descuento: '30.74'
 average: '90.976'

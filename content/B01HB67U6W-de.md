@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'MEDION P85035 Internetradio mit DAB+  DAB+ Digital-Radioempfang  UKW  Wecker  Sleeptimer  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01HB67U6W/?tag=tolees0ca-21'
 descuento: '20.41'
 average: '95.5'

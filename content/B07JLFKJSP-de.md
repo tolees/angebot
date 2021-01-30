@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'PLAYMOBIL DreamWorks Spirit 70118 Pferdestall mit Lucky  Pru & Abigail  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JLFKJSP/?tag=tolees0ca-21'
 descuento: '35.01'
 average: '37.29066666666667'

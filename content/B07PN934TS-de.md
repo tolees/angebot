@@ -16,6 +16,7 @@ comparePrice: 77.99 EUR
 prodname: 'LATITOP Luftentfeuchter mit 500ml Wassertank kompakter und tragbarer Mini Bautrockner gegen Feuchtigkeit in der Küche  im Schlafzimmer  Wohnwagen  Büro und Garage  150 Quadratfuß '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PN934TS/?tag=tolees0ca-21'
 descuento: '48.72'
 average: '39.99'

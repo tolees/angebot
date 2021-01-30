@@ -16,6 +16,7 @@ comparePrice: 12.66 EUR
 prodname: 'The Fall - Tod in Belfast - die komplette Staffel 1 [2 Blu-rays]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B015ZJRI5A/?tag=tolees0ca-21'
 descuento: '17.06'
 average: '11.665'

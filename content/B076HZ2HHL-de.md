@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'JVC KD-X351BT Digital-Media-Receiver mit Bluetooth-Freisprechfunktion und Audiostreaming schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076HZ2HHL/?tag=tolees0ca-21'
 descuento: '26.76'
 average: '65.18'

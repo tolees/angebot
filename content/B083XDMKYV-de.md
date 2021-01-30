@@ -16,6 +16,7 @@ comparePrice: 199.98 EUR
 prodname: 'DXX Technik Bausteine Auto Off-Road  1090Teile 2.4G 4CH Geländewagen Bausteine Konstruktionsspielzeug Kompatibel mit Lego Technic'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083XDMKYV/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '90.19833333333332'

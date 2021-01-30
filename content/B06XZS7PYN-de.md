@@ -16,6 +16,7 @@ comparePrice: 18 EUR
 prodname: 'Kingwin Damen -    Titan    Farblos blau Opale '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XZS7PYN/?tag=tolees0ca-21'
 descuento: '34.44'
 average: '11.8'

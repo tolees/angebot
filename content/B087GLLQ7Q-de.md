@@ -16,6 +16,7 @@ comparePrice: 599.99 EUR
 prodname: 'Telefunken XU55J521 139 cm / 55 Zoll Fernseher  Smart TV inkl. Prime Video / Netflix / YouTube  4K UHD mit Dolby Vision HDR / HDR 10 + HLG  Works with Alexa  Triple-Tuner  [Modelljahr 2020]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B087GLLQ7Q/?tag=tolees0ca-21'
 descuento: '41.67'
 average: '363.3233333333333'

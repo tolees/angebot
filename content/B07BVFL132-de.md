@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'QAZQA Modern Industrielle Hängelampe schwarz mit 4-flammig-Licht-Rack - Cage Rack/Innenbeleuchtung/Wohnzimmerlampe/Küche Stahl Länglich LED geeignet E27 Max. 4 x 60 Watt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BVFL132/?tag=tolees0ca-21'
 descuento: '23.41'
 average: '223.275'

@@ -16,6 +16,7 @@ comparePrice: 27.39 EUR
 prodname: 'Doc Johnson - TitanMen Master Tool 4-6 inch'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B009NEOGGI/?tag=tolees0ca-21'
 descuento: '36.44'
 average: '17.5'

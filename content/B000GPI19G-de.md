@@ -16,6 +16,7 @@ comparePrice: 8.76 EUR
 prodname: 'The Cooker  Rvg '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000GPI19G/?tag=tolees0ca-21'
 descuento: '51.03'
 average: '4.29'

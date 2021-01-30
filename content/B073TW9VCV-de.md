@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Nachttischlampe mit Bluetooth Lautsprecher  ELEPOWSTAR LED Nachtlampe Stimmungslicht mit Dimmer und Touch Sensor  3 Heilligkeiten mit 7 Farbwechsel  Haken Design für Camping  Romantische Geschenke'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B073TW9VCV/?tag=tolees0ca-21'
 descuento: '40.55'
 average: '22.489999999999995'

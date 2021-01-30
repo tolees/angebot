@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Predator XB273GXbmiiprzx Gaming G-SYNC Compatible 27 Zoll IPS FHD Display  1920x1080  240Hz 400 cd/m2  Fast LC 1ms  G2G   0.1ms  G2G Min.   HDMI 1.4   DP  USB 3.0  integrierte Lautsprecher  ZeroFrame'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B082QFMK48/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '319.2'

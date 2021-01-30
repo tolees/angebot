@@ -16,6 +16,7 @@ comparePrice: 16.79 EUR
 prodname: 'Vileda Profi Fensterwischer 2in1  Fensterabzieher und Einwascher  Handgerät für streifenfreie Fenster'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002IJO38G/?tag=tolees0ca-21'
 descuento: '39.31'
 average: '10.19'

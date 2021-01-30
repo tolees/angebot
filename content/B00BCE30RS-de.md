@@ -16,6 +16,7 @@ comparePrice: 20.11 EUR
 prodname: 'Logitech MK270 Kabelloses Tastatur-Maus Set  2.4 GHz Wireless Verbindung via Nano USB-Empfänger  Lange Akkulaufzeit  Für Windows und ChromeOS PCs/Laptops  Deutsches QWERTZ-Layout - Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00BCE30RS/?tag=tolees0ca-21'
 descuento: '25.41'
 average: '17.74'

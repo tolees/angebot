@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Anker 2.4G Wireless Maus Vertikale Ergonomische Funkmaus Vertical Mouse Kabellos für Windows  Mac OS  USB  800/1200/1600 DPI  5 Tasten'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00FGI2QVC/?tag=tolees0ca-21'
 descuento: '24.56'
 average: '16.59'

@@ -16,6 +16,7 @@ comparePrice: 1299 EUR
 prodname: 'Dell Inspiron 13 7000 7370-9702 33 78 cm  13 3 Zoll FHD  Laptop  Intel Core i7  16GB RAM  512GB SSD  Intel HD Grafik  Windows 10  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076HG1HC5/?tag=tolees0ca-21'
 descuento: '46.11'
 average: '700'

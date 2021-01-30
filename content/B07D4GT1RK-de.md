@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: '3D Pudding Kuchen Dekorieren DIY Werkzeug Set 10 Nadeln + 1 Spritze Gelatine Art Tools Küche e'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07D4GT1RK/?tag=tolees0ca-21'
 descuento: '37.31'
 average: '6.89'

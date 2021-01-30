@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Tumi Alpha Münzbörse 019246D  10 cm  Black Ballistic'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0756X8FWQ/?tag=tolees0ca-21'
 descuento: '24.71'
 average: '64.0'

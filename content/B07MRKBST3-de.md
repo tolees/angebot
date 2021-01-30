@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Zyxel Gigabit Unmanaged PoE+ Switch mit 5 Ports  davon 4 mit PoE  und einem PoE-Budget von 60 Watt  Lifetime Garantie [GS1005HP]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MRKBST3/?tag=tolees0ca-21'
 descuento: '23.65'
 average: '45.8'

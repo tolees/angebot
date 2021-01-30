@@ -16,6 +16,7 @@ comparePrice: 1649.0 EUR
 prodname: 'Microsoft Surface Laptop 3  15 Zoll Laptop  AMD Ryzen 5 3580U  8GB RAM  256GB SSD  Win 10 Home  Platin'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XVWSF9M/?tag=tolees0ca-21'
 descuento: '23.04'
 average: '1435.6666666666667'

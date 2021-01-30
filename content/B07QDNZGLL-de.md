@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Funko 43533 POP Vinyl TV: Walking Dead-Dog The Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QDNZGLL/?tag=tolees0ca-21'
 descuento: '38.26'
 average: '10.323333333333334'

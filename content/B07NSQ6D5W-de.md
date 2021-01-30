@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Funko 39742 POP Vinyl: Avengers Endgame-Thor 2 Pajama Party W2 Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NSQ6D5W/?tag=tolees0ca-21'
 descuento: '49.69'
 average: '9.735555555555557'

@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Fitbit Unisex Fitness Uhr Blaze  Schwarz  S'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B019VM3F2M/?tag=tolees0ca-21'
 descuento: '53.01'
 average: '116.94999999999999'

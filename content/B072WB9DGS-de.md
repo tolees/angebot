@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'QNAP TS-231P-1G Desktop NAS Gehäuse mit 1 GB DDR3 RAM  Powerful 4-Bay Storage Server'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072WB9DGS/?tag=tolees0ca-21'
 descuento: '19.68'
 average: '202.875'

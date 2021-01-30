@@ -16,6 +16,7 @@ comparePrice: 36.0 EUR
 prodname: 'SuperZings - Big Vehicle Serie 4 Fahrzeuge und Sammelfiguren Farbe Sortiert'
 country: 'de'
 flag: '🇩🇪'
+brand: 'Superzings'
 buyurl: 'https://www.amazon.de/dp/B07P6GCLZP/?tag=tolees0ca-21'
 descuento: '27.89'
 average: '26.208'
@@ -27,9 +28,9 @@ Es gibt ein [SuperZings - Big Vehicle Serie 4 Fahrzeuge und Sammelfiguren Farbe 
 
 ℹ️:
 
-- Die neue Superzings Serie 4 umfasst 6 Geheimwagen mit einem komplett neuen Design.
-- Herkunftsland:- China
 - Stil: Comic
+- Herkunftsland:- China
+- Die neue Superzings Serie 4 umfasst 6 Geheimwagen mit einem komplett neuen Design.
 - Farbe: Sortiert
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07P6GCLZP/?tag=tolees0ca-21)

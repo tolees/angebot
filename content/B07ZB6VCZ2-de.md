@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'CMaster Roboter STEM Spielzeug 576 Stück Konstruktions Spielzeug Konstruktions Spielzeug  12-in-1-Roboter STEM Spielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZB6VCZ2/?tag=tolees0ca-21'
 descuento: '44.46'
 average: '19.99'

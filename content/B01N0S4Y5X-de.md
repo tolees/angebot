@@ -16,6 +16,7 @@ comparePrice: 723.52 EUR
 prodname: 'Bosch Professional Akku-Bohrhammer GBH 18 V-26 F  2 x 5 0 Ah Akku  Schnellladegerät GAL 1880 CV  Schlagenergie: 2 6 J  18 Volt System '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N0S4Y5X/?tag=tolees0ca-21'
 descuento: '41.26'
 average: '431.985'

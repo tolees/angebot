@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Salamander Herren Matheus Derbys  Braun  Cognac  Brown 07   42 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0748LLS2G/?tag=tolees0ca-21'
 descuento: '40.17'
 average: '59.8'

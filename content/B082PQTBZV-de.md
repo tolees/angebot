@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'UMIDIGI Smartwatch Uwatch GT Fitness Tracker Armbanduhr Sportuhr Smart Watch für Damen Herren mit Herzfrequenz Schlaftracker 5 ATM Wasserdicht Kompatibel mit Android IOS Xiaomi Samsung Huawei  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B082PQTBZV/?tag=tolees0ca-21'
 descuento: '20.02'
 average: '53.32'

@@ -16,6 +16,7 @@ comparePrice: 28.07 EUR
 prodname: 'hansgrohe Crometta 85 Duschkopf  3 Strahlarten  Chrom'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003ACHY6I/?tag=tolees0ca-21'
 descuento: '28.79'
 average: '19.99'

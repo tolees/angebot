@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'LG 32QK500-W 80 01 cm  31 5 Zoll  Monitor  WQHD  AMD Radeon FreeSync  DAS Mode  Reader Mode  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KZ67MS2/?tag=tolees0ca-21'
 descuento: '24.42'
 average: '225.99'

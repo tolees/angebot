@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Explosion Box  Geschenkbox  Sporgo Kreative Überraschung Box DIY Fotoalbum Handgemachtes Scrapbook Geschenk für Geburtstag  Weihnachten  Jahrestag  Valentinstag  Heiratsantrag  Hochzeit  Muttertag'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W529HCP/?tag=tolees0ca-21'
 descuento: '47.85'
 average: '11.99'

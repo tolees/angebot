@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'PLAYMOBIL:THE MOVIE 70070 Rex Dasher mit Fallschirm  Ab 5 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P8PJ1XN/?tag=tolees0ca-21'
 descuento: '70.07'
 average: '6.782'

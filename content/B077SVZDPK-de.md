@@ -16,6 +16,7 @@ comparePrice: 50.22 EUR
 prodname: 'Kopp 939633016 VersaHIT Dual Einbausteckdose  16A  IP54  3400 W  Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077SVZDPK/?tag=tolees0ca-21'
 descuento: '17.28'
 average: '41.54'

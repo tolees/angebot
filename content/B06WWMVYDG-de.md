@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Craft Herren Greatness Bike Shorts  weiß  XS'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06WWMVYDG/?tag=tolees0ca-21'
 descuento: '30.03'
 average: '32.085'

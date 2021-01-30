@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Gifort 1200 stücke 1-1.5cm Pompons  Bunte Pompom  Pom Pom b?lle Flauschigen Plüsch Balle für Lustige DIY Kreative Handwerk  1200pcs- 1-1.5cm '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NRK2ZQF/?tag=tolees0ca-21'
 descuento: '55.03'
 average: '9.323333333333334'

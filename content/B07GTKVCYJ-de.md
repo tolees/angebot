@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Monster Jam 6053296 - Original Monster Jam Champ Ramp Freestyle Spielset  Maßstab 1:64'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GTKVCYJ/?tag=tolees0ca-21'
 descuento: '36.01'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Brennenstuhl Tower Power Tischsteckdosenleiste  3-fach  versenkbare Steckdosenleiste  2m Kabel  komplett in Tischplatte versenkbar  alu / schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0104LSLIM/?tag=tolees0ca-21'
 descuento: '27.43'
 average: '15.705'

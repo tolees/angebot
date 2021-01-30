@@ -16,6 +16,7 @@ comparePrice: 82.57 EUR
 prodname: 'WEWE Estantes De Cocina Montados En La Pared estantes Flotantes De Madera Rústica Con Gran Almacenamiento para Dormitorio Sala De Estar Baño Cocina Office Conjunto De 2-c 42x17x9cm 17x7x4inch '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WQV78R9/?tag=tolees0ca-21'
 descuento: '45.51'
 average: '44.99'

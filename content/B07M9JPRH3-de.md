@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'DEERCON Haarschneidemaschine Haartrimmer Bart Trimmer Haarschneider Profi Langhaarschneider Bartschneider Barttrimmer Herren USB Wiederaufladbar'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07M9JPRH3/?tag=tolees0ca-21'
 descuento: '33.35'
 average: '39.99'

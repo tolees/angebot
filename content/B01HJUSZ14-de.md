@@ -16,6 +16,7 @@ comparePrice: 1962.0 EUR
 prodname: 'QNAP TVS-1282-i3-8G  Hochleistungsfähiges NAS-System  Tiered Storage  Intel-Prozessoren der 7. Generation  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01HJUSZ14/?tag=tolees0ca-21'
 descuento: '72.22'
 average: '1206.7350000000001'

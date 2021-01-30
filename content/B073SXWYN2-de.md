@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Google WiFi-Router Wireless Bluetooth Weiß weiß weiß Pack de 2'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B073SXWYN2/?tag=tolees0ca-21'
 descuento: '28.57'
 average: '99.99'

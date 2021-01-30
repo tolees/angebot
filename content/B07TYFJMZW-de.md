@@ -16,6 +16,7 @@ comparePrice: 36.85 EUR
 prodname: 'normani Leichte XXL Reisetasche Rollenreisetasche Trolley Sporttasche mit Rollen Farbe Schwarz Größe 120 Liter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TYFJMZW/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '29.48'

@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Razer Thresher Xbox One - Wireless Gaming Headset für Xbox One & PC  Kabellose Kopfhörer  bis zu 16 Stunden Akku-Laufzeit  50-mm Treiber  Windows Sonic  Ohrpolster aus Kunstleder  Schwarz-Grün'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075YDD1P2/?tag=tolees0ca-21'
 descuento: '20.12'
 average: '135.79'

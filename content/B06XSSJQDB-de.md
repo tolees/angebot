@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'American Tourister Soundbox - Spinner S Erweiterbar Handgepäck  55 cm  41 L  Schwarz  Bass Black '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XSSJQDB/?tag=tolees0ca-21'
 descuento: '40.96'
 average: '76.72'

@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Playtastic Autorennbahn: Portable Rennbahn im Koffer - Komplett-Set mit 2 Autos  Autorennbahn im Koffer '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00720YVXI/?tag=tolees0ca-21'
 descuento: '47.78'
 average: '46.95'

@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Barilla Hartweizen Pasta Risoni n. 26 – 1er Pack  1x500g '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007VJSL1I/?tag=tolees0ca-21'
 descuento: '66.89'
 average: '0.99'

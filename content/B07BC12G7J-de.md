@@ -16,6 +16,7 @@ comparePrice: 19.32 EUR
 prodname: 'WarioWare Gold - [Nintendo 3DS]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BC12G7J/?tag=tolees0ca-21'
 descuento: '48.29'
 average: '9.99'

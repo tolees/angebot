@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'RABALUX Milano Wandleuchte  Metall  E27  60 W  antik-gold  22 x 16 5 x 28 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002MT7K2S/?tag=tolees0ca-21'
 descuento: '41.01'
 average: '29.49'

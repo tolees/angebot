@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'caseable Kindle und Kindle Paperwhite Hülle  Ornate Elephant'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00PHEAIJC/?tag=tolees0ca-21'
 descuento: '37.51'
 average: '24.99'

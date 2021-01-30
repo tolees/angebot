@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Withings Body+ - WLAN-Körperwaage für Körperzusammensetzung  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071XW4C5Q/?tag=tolees0ca-21'
 descuento: '30.02'
 average: '71.3'

@@ -16,6 +16,7 @@ comparePrice: 239.98 EUR
 prodname: 'DXX Technik Bausteine Auto Benz G500  1343Teile 2.4G SUV Bausteine Konstruktionsspielzeug Kompatibel mit Lego Technic'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083DNTRKP/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '119.99'

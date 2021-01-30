@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Scotch 5501933 Klebeband 550  Polypropylenfolie  19 mm x 33 m  8 Rollen transparent'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000KJMN8I/?tag=tolees0ca-21'
 descuento: '56.12'
 average: '5.7'

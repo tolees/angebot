@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Ravensburger 29835 - Mini Mandala-Designer Frozen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00QM4WB28/?tag=tolees0ca-21'
 descuento: '29.76'
 average: '4.8704'

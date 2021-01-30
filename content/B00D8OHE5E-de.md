@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Steiff 239571 Schlaf-gut-Bär Plüschtier  Mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00D8OHE5E/?tag=tolees0ca-21'
 descuento: '36.42'
 average: '22.19'

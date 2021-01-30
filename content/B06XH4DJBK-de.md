@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'KINLO möbelfolie Braun 2 Stk. 61x500cm aus hochwertigem PVC tapeten küche klebefolie küchenschränke Wasserfest aufkleber für schrank selbstklebende folie Küchenschrank küchenfolie Dekofolie'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XH4DJBK/?tag=tolees0ca-21'
 descuento: '60.01'
 average: '35.99'

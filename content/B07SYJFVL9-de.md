@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Bluetooth Kopfhörer  Donerton Bluetooth 5.0 In Ear Kopfhörer  IPX7 Wasserdicht Kopfhörer Kabellos Sport  120H Standby-Zeit  1200mAh Ladekoffer  Deep Bass HD-Stereo Mikrofon  LCD Digitalanzeige'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SYJFVL9/?tag=tolees0ca-21'
 descuento: '78.47'
 average: '35.09'

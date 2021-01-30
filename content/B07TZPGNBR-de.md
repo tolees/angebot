@@ -16,6 +16,7 @@ comparePrice: 63.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego Star Wars Kylo Ren s Tie Fighter  Kompatibel Mit Lego 75179 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TZPGNBR/?tag=tolees0ca-21'
 descuento: '39.07'
 average: '38.99'

@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Disney Cars GGL47 - Radiator Springs Rennset Spielzeugauto Spielset mit Beschleuniger und Lightning McQueen Auto  Spielzeug ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NC4WT71/?tag=tolees0ca-21'
 descuento: '27.06'
 average: '32.118'

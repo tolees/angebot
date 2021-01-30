@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'CASO VC10 Vakuumierer - Testsieger bei Stiftung Warentest  Vakuumiergerät  Lebensmittel bleiben vakuumiert bis zu 8x länger frisch  30cm lange & stabile Schweißnaht  inkl. 10 Profi-Folienbeutel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003F0WKDM/?tag=tolees0ca-21'
 descuento: '19.69'
 average: '56.21'

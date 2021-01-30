@@ -16,6 +16,7 @@ comparePrice: 441.0 EUR
 prodname: 'LG 34UC89G 86 36 cm  34 Zoll  Curved 21:9 UltraWide™  Full HD IPS Gaming Monitor  144 Hz  G-Sync  DAS Mode   schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N5XWRBE/?tag=tolees0ca-21'
 descuento: '26.98'
 average: '322.0'

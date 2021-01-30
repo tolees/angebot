@@ -16,6 +16,7 @@ comparePrice: 34.98 EUR
 prodname: 'Pro Bike Tool Fahrradpumpe CO2 - Kartuschenpumpe  Fahrrad Minipumpe Für Presta Und Schrader Ventile - Einfaches Und Schnelles Aufpumpen Von Fahrradreifen - Keine Kartusche Im Lieferumfang'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RJ1FWM3/?tag=tolees0ca-21'
 descuento: '42.88'
 average: '19.98'

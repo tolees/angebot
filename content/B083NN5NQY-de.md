@@ -16,6 +16,7 @@ comparePrice: 195.98 EUR
 prodname: 'DXX Technik Bausteine Auto Jeep Wrangler Adventurer  2343Teile 1:8 Geländewagen Bausteine Konstruktionsspielzeug Kompatibel mit Lego Technic'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083NN5NQY/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '97.99'

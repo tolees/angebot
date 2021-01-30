@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Selected Homme NOS Herren 16068376 Hose  Grün Sea Spray   44 /L34 Herstellergröße:31 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07X4FPF6P/?tag=tolees0ca-21'
 descuento: '75.93'
 average: '14.44'

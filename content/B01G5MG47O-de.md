@@ -16,6 +16,7 @@ comparePrice: 12.59 EUR
 prodname: 'Die Rosenheim-Cops - Die komplette elfte Staffel [6 DVDs]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01G5MG47O/?tag=tolees0ca-21'
 descuento: '28.75'
 average: '8.97'

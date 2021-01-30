@@ -16,6 +16,7 @@ comparePrice: 25.45 EUR
 prodname: 'JBL 61672 Solar-Leuchtstoffröhre Tageslichtröhre für Süßwasseraquarien  39 W Solar Natur Ultra T5'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000H6SSII/?tag=tolees0ca-21'
 descuento: '31.75'
 average: '17.37'

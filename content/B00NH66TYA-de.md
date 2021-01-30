@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Gypsy Heart'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00NH66TYA/?tag=tolees0ca-21'
 descuento: '50.96'
 average: '5.39'

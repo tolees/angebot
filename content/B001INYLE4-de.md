@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Panasonic RPHV154EK In-Ear-Kopfhörer  1 2 m Kabellänge  3 5 mm Vergoldeter Mini Stecker  XBS-Akustiksystem  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001INYLE4/?tag=tolees0ca-21'
 descuento: '29.47'
 average: '4.93'

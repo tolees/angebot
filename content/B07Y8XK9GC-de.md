@@ -16,6 +16,7 @@ comparePrice: 249.9 EUR
 prodname: 'Xiaomi Redmi Note 8 Pro Smartphone  16 59cm  6 53 Zoll  FHD+ Display  64GB interner Speicher + 6GB RAM  64MP Vierfach-KI-Rückkamera  20MP Selfie-Frontkamera  Dual-SIM  Android 9  Pearl White  Weiß '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Y8XK9GC/?tag=tolees0ca-21'
 descuento: '23.37'
 average: '211.7394594594595'

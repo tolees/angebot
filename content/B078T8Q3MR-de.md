@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'COLUMBIA Mädchen Wanderschuhe  Wasserdicht  YOUTH MINX MID III WP OMNI-HEAT  Schwarz  Black  Iceberg   38'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078T8Q3MR/?tag=tolees0ca-21'
 descuento: '60.01'
 average: '35.99'

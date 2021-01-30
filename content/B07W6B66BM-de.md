@@ -16,6 +16,7 @@ comparePrice: 13.2 EUR
 prodname: 'Pepsi Max  Das zuckerfreie Erfrischungsgetränk von Pepsi ohne Kalorien  Koffeinhaltige Cola in der Dose  24 x 0 33l '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W6B66BM/?tag=tolees0ca-21'
 descuento: '26.59'
 average: '9.69'

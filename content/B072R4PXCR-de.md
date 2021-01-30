@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'POP Rocks: Metallica - Robert Trujillo'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072R4PXCR/?tag=tolees0ca-21'
 descuento: '49.75'
 average: '8.56'

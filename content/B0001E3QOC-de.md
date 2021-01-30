@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Gardena Raseneinfassung 20 cm hoch: Ideale Rasen-Abgrenzung  auch für Beete  9 m  verhindert Wurzelausbreitung  aus Kunststoff  braun  534-20 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0001E3QOC/?tag=tolees0ca-21'
 descuento: '47.85'
 average: '11.99'

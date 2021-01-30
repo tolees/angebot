@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Kingdom Hearts III Deluxe Edition  PS4 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DQ9LRMJ/?tag=tolees0ca-21'
 descuento: '24.76'
 average: '39.375'

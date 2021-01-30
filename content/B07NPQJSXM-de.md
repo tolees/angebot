@@ -16,6 +16,7 @@ comparePrice: 314.99 EUR
 prodname: 'Netgear Orbi Pro SRC60 Mesh-WLAN-Satellit für Decken- und Wandmontage  zusätzliche 175 m² Abdeckung  Voraussetzung ist bestehendes Orbi PRO AC3000 Mesh-WLAN-System '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NPQJSXM/?tag=tolees0ca-21'
 descuento: '39.68'
 average: '189.99'

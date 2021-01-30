@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Samsung SM-R210NZWADBT Gear 360  2017  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06Y41B5GN/?tag=tolees0ca-21'
 descuento: '39.76'
 average: '139.945'

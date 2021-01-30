@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Emsa 515352 Trio Kräutertopf für frische Kräuter  Selbstbewässerung  Wasserstandsanzeiger  27 x 25 x 21 cm  Weiss  Fresh Herbs Trio'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00SMCY62G/?tag=tolees0ca-21'
 descuento: '20.21'
 average: '19.94'

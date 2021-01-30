@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'TP-Link TL-WA901ND V5.0 450MBit/s-WLAN Accesspoint  802.11b/g/n  WPS  Multi-SSID  WMM  Ping-Watchdog  3 abnehmbare 4dBi-Antennen  unterstützt AP/Client/Bridge/Repeater  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B011RACHN4/?tag=tolees0ca-21'
 descuento: '20.05'
 average: '29.123695652173918'

@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'NEXGADGET Küchenhelfer Set  42 Stücke Küchenzubehör Kochgeschirr Set aus Edelstahl & Nylon  Küchenutensilien Inkl. Löffel  Turners  Tongs  Schneebesen  Dosenöffner  Schäler  Schaber  Messbecher usw.'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01G4P1QFM/?tag=tolees0ca-21'
 descuento: '23.22'
 average: '42.99'

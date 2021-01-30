@@ -16,6 +16,7 @@ comparePrice: 6.49 EUR
 prodname: 'Playmobil 70041 - Astrid mit Fluganzug und Nimmersatt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JKWPRSS/?tag=tolees0ca-21'
 descuento: '38.83'
 average: '3.97'

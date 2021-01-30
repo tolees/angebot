@@ -16,6 +16,7 @@ comparePrice: 679.99 EUR
 prodname: 'Netgear GS752TPP 52-Port Gigabit Ethernet LAN PoE Switch Smart Managed Pro  mit 48x PoE+ 760W  4x 1G-SFP  Desktop- oder Rack-Montage mit ProSAFE Lifetime-Garantie  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07C58TFMB/?tag=tolees0ca-21'
 descuento: '20.47'
 average: '540.82'

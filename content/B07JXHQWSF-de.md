@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Playmobil 70007 Top Agents Team S.H.A.R.K. Rocket Rafter  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JXHQWSF/?tag=tolees0ca-21'
 descuento: '36.03'
 average: '8.6252'

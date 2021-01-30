@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego Technic Mack Anthem Kompatibel Mit Lego 42078 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07X7TJ2P2/?tag=tolees0ca-21'
 descuento: '25.00'
 average: '44.99'

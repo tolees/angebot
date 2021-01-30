@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Schleich 42370 - Mobile Tierärztin mit Hannoveraner Fohlen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06X3S11YM/?tag=tolees0ca-21'
 descuento: '53.35'
 average: '20.99'

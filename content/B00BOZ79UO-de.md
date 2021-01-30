@@ -16,6 +16,7 @@ comparePrice: 29.67 EUR
 prodname: 'One Step Looper Tool-'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00BOZ79UO/?tag=tolees0ca-21'
 descuento: '16.78'
 average: '24.69'

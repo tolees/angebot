@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Active Noise Cancelling Kopfhörer  Boltune Kabellos Bluetooth 5.0 Over Ear Ohrhörer Wireless ANC Headset mit CVC 8.0 Geräuschunterdrückendes Mikrofon 30 Std Spielzeit für iOS Android TV'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07R5JKZJV/?tag=tolees0ca-21'
 descuento: '24.06'
 average: '59.99'

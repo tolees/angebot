@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Elektrischer Rasierer Herren  OriHea 6-in-1 Glatzenrasierer für Männer  Elektrorasierer Rasierapparat Bartrasierer Herren-Pflegeset IPX7-Wasserdichtes  Mit USB Schnell Aufladbarer Nasenhaartrimmer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B088NNRP92/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '39.99'

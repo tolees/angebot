@@ -16,6 +16,7 @@ comparePrice: 9.5 EUR
 prodname: 'Pelikan 946806 Füller Twist in Faltschachtel  universell für Rechts- und Linkshänder  Feder M  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00OUIBCDC/?tag=tolees0ca-21'
 descuento: '27.89'
 average: '6.85'

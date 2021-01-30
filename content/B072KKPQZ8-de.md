@@ -16,6 +16,7 @@ comparePrice: 1119.0 EUR
 prodname: 'Western Digital 20 TB My Cloud EX2 Ultra-Netzwerkspeicher'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072KKPQZ8/?tag=tolees0ca-21'
 descuento: '42.00'
 average: '649.0'

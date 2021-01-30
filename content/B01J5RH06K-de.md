@@ -16,6 +16,7 @@ comparePrice: 84.99 EUR
 prodname: 'SanDisk Extreme PRO 128 GB SDXC Speicherkarte bis zu 95 MB/Sek  Class 10  U3  V30'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01J5RH06K/?tag=tolees0ca-21'
 descuento: '65.88'
 average: '29.0'

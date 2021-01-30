@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'G-STAR RAW Herren 3301 Straight Jeans  Blau  medium Aged 6564-071   31W/34L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MSC6RFQ/?tag=tolees0ca-21'
 descuento: '37.48'
 average: '74.99'

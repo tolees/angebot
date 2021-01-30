@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Kopfhörer Kabellos Bluetooth 5.1  Wireless Ohrhörer in Ear Sport mit Deep Bass  One Step Pairing  Mini Tragbare Ladetasche  IPX7 Wasserdicht Ohrhörer Touch Control für iOS & Android'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B082D6TTZ9/?tag=tolees0ca-21'
 descuento: '28.74'
 average: '27.18'

@@ -16,6 +16,7 @@ comparePrice: 199 EUR
 prodname: 'Panama Jack Felia Igloo  Damen Warm gefüttert Biker Boots Halbschaft Stiefel & Stiefeletten  Braun  Bark B4   40 EU  7 Damen UK '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0082AYFH4/?tag=tolees0ca-21'
 descuento: '39.70'
 average: '119.99'

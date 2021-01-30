@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Bosch Akku Staubsauger UniversalVac 18  2 5 Ah Akku  18 Volt System  im Karton '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JYK3DQN/?tag=tolees0ca-21'
 descuento: '42.00'
 average: '86.99'

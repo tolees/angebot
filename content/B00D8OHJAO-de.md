@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Steiff Schlaf Gut Bär Schmusetuch - 30 cm - Kuscheltuch Teddybär - Schmusetier für Babys - beige/blau  239588 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00D8OHJAO/?tag=tolees0ca-21'
 descuento: '33.14'
 average: '19.99'

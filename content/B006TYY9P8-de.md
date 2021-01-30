@@ -16,6 +16,7 @@ comparePrice: 185.99 EUR
 prodname: 'Krups FDD95D Professionelles Waffeleisen | Doppelwaffeleisen | 2 belgische Waffeln gleichzeitig | Dreh-Funktion für perfekte Waffel | 7 Bräunungsstufen | spülmaschinengeeignete Platten | 1200W'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B006TYY9P8/?tag=tolees0ca-21'
 descuento: '48.93'
 average: '94.99'

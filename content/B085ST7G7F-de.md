@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Palado® Damen Sandale Korfu | Made in EU | Pantoletten in 11 modischen Farben | 2-Riemen Sandaletten mit Natur Kork-Fussbett | Herren Hausschuhe mit Leder-Laufsohle Silber Python Altsilber 38 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B085ST7G7F/?tag=tolees0ca-21'
 descuento: '30.04'
 average: '27.95'

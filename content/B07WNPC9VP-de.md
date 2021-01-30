@@ -16,6 +16,7 @@ comparePrice: 99.98 EUR
 prodname: 'GODNECE LED Licht-Set für Baustein  Aufgerüstet Typ Led Beleuchtungsset Licht-Set für Baustein Spielzeug Kompatibel Mit Lego Technic 42078 - Mack Anthem Bausatz  Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WNPC9VP/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '49.99'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Zacfton 78 in 1 Magnet Präzisions Schraubendreher Set Reparatur Tool Kit für Pad  iPhone  Laptop  PC  Smartphones  Uhren  Brillen und andere Geräte mit Beweglicher Tasche  Grün '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YZFFMNF/?tag=tolees0ca-21'
 descuento: '42.13'
 average: '14.589999999999998'

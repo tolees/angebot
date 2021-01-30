@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Puma Herren Carson 2 Knit NM Laufschuhe  Black Black  44.5 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FP4S16T/?tag=tolees0ca-21'
 descuento: '69.29'
 average: '21.5'

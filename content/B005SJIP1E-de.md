@@ -16,6 +16,7 @@ comparePrice: 24.19 EUR
 prodname: 'The Complete Mahler Symphonies'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005SJIP1E/?tag=tolees0ca-21'
 descuento: '17.36'
 average: '19.979999999999997'

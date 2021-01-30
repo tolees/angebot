@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'FULLOSUN Illusion-Nachtlicht 3D LED-Tisch-Schreibtisch-Lampen  16 Farben USB-Lade  die Schlafzimmer-Dekoration für Kinder Weihnachten Halloween-Geburtstagsgeschenk beleuchten'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TVNBKVQ/?tag=tolees0ca-21'
 descuento: '30.02'
 average: '17.980454545454545'

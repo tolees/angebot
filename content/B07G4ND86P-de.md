@@ -16,6 +16,7 @@ comparePrice: 329.9 EUR
 prodname: 'TP-Link Deco P7 Powerline WLAN Mesh Set  1300Mbits + 600Mbits  inkl. Antivirus  Kindersicherung  Reichweite bis zu 570m²  6xGigabit-Ports 3-Pack  Schnellinstallation  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G4ND86P/?tag=tolees0ca-21'
 descuento: '39.41'
 average: '199.9'

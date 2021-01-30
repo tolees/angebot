@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'American Tourister Bon Air Spinner L Koffer  75 cm  91 L  Türkis  Deep Turquoise '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BYJO7AE/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '74.97'

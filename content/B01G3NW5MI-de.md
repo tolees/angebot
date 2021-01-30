@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Sagrotan Handseife mit frischem Duft nach Aloe Vera – Antibakterielle Flüssigseife – 3 x 250 ml Seifenspender im praktischen Vorteilspack'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01G3NW5MI/?tag=tolees0ca-21'
 descuento: '34.42'
 average: '16.32777777777777'

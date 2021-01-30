@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'Zeonetak Bluetooth Headset mit Kabellosem Mikrofon  Headset mit Ladestation  Professionelles PC-Headset  Leicht Funk-Headset for Freisprechen  Rauschunterdrückung   Callcenter  LKW-Fahrer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Z7HSPLM/?tag=tolees0ca-21'
 descuento: '31.58'
 average: '38.99'

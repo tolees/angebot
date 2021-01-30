@@ -16,6 +16,7 @@ comparePrice: 549.0 EUR
 prodname: 'Acer Predator XB1 XB271H 68.6 cm  27 Zoll  Monitor  HDMI  USB 3.0  1ms Reaktionszeit  1920 x 1080  Pivot  Nvidia G-Sync  schwarz/rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01AJTVBU4/?tag=tolees0ca-21'
 descuento: '40.07'
 average: '329.0'

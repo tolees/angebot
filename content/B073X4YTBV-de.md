@@ -16,6 +16,7 @@ comparePrice: 29.97 EUR
 prodname: 'KLIM OTG Brillen Clip on Gläser gegen blaues Licht NEU – Guter Schutz bei der Arbeit am Bildschirm - Gaming Brillen PC Mobil TV - Anti Augenmüdigkeit Anti UV Anti blaues Licht - Filtert blaues Licht'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B073X4YTBV/?tag=tolees0ca-21'
 descuento: '19.99'
 average: '23.98'

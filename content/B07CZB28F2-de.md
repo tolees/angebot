@@ -16,6 +16,7 @@ comparePrice: 88.99 EUR
 prodname: 'Keg Bierspender  Merrday Edelstahl Mini Fass Bier Growler Speer Tap Dispenser für Handwerk Bier Wachsen Homebrew Speer 2L / 3.6L / 4L / 5L / 10L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CZB28F2/?tag=tolees0ca-21'
 descuento: '51.69'
 average: '42.99'

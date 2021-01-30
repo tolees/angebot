@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Morella® Damen Engels Klangkugel Zirkonia grün Ø 16 mm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00WX6VEBS/?tag=tolees0ca-21'
 descuento: '49.60'
 average: '4.99'

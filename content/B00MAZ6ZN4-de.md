@@ -16,6 +16,7 @@ comparePrice: 1.61 EUR
 prodname: 'Unbekannt Batterie Abdeckung Tür Ersatz für XBox Ein Wireless Controller Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00MAZ6ZN4/?tag=tolees0ca-21'
 descuento: '37.27'
 average: '1.35'

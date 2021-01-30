@@ -16,6 +16,7 @@ comparePrice: 4.98 EUR
 prodname: 'Simba 107108605 - Sandformen Eis'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B008SDMMKM/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '2.49'

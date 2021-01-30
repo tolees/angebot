@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Fossil Herren Chronograph Quarz Uhr mit Leder Armband FS5210'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01KUX5D7Q/?tag=tolees0ca-21'
 descuento: '34.88'
 average: '84.0'

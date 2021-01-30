@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Gamory Controller für Nintendo Switch  Bluetooth Wireless Controller für Nintendo Switch Wiederaufladbarer Akku Controller Gamepad für Switch mit einstellbarem Turbo und Dual Shock Fernbedienungen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B085ZXJTNZ/?tag=tolees0ca-21'
 descuento: '26.10'
 average: '19.99'

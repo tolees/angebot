@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'HANPURE Bluetooth Mütze Damen & Herren Geschenke  Bluetooth Mütze mit Bluetooth 5.0 Kopfhörern für Outdoor-Sport  Skifahren  Laufen  Skaten  Geburtstagsgeschenke für Frauen&Männer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VFLVS5K/?tag=tolees0ca-21'
 descuento: '64.31'
 average: '24.98'

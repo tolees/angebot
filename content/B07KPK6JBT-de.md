@@ -16,6 +16,7 @@ comparePrice: 11.64 EUR
 prodname: 'Funko 28506 POP Vinyl: KISS: Spaceman Sammelbares Spielzeug  Mehrfarben  Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KPK6JBT/?tag=tolees0ca-21'
 descuento: '15.89'
 average: '11.749722222222227'

@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Playstation Digital Wecker LCD | PS4 Dualshock Controller Design | Verwenden Sie die Tasten  um Uhrzeit und Datum einzustellen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MJHVZDQ/?tag=tolees0ca-21'
 descuento: '17.47'
 average: '20.906666666666666'

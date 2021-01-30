@@ -16,6 +16,7 @@ comparePrice: 19.54 EUR
 prodname: 'Skechers Girls  Go Walk 4-Kindle Low-Top Sneakers  Black  Black BBK   13 UK Child 32 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MXJ4NAZ/?tag=tolees0ca-21'
 descuento: '18.17'
 average: '15.99'

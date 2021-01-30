@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Napapijri Damen Rainforest W Sum 1 Jacke  Rosa  Pale Pink New P77   Small  Herstellergröße: S '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07L9JKYDB/?tag=tolees0ca-21'
 descuento: '43.05'
 average: '101.94'

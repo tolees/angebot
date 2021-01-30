@@ -16,6 +16,7 @@ comparePrice: 8.76 EUR
 prodname: 'Book Club - Das Beste kommt noch [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KC1CT3Z/?tag=tolees0ca-21'
 descuento: '48.40'
 average: '7.7'

@@ -16,6 +16,7 @@ comparePrice: 16.94 EUR
 prodname: 'Funko 41474 Action Figur: Dark Crystal - Aughra Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P6XM3VN/?tag=tolees0ca-21'
 descuento: '16.82'
 average: '14.09'

@@ -16,6 +16,7 @@ comparePrice: 57.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego Ideas Voltron  Kompatibel Mit Lego 21311 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TXVSGVV/?tag=tolees0ca-21'
 descuento: '43.11'
 average: '32.99'

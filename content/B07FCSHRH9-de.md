@@ -16,6 +16,7 @@ comparePrice: 6.49 EUR
 prodname: 'Aufbewahrungsbox  Vlies  rosé'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FCSHRH9/?tag=tolees0ca-21'
 descuento: '23.11'
 average: '4.99'

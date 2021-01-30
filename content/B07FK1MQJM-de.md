@@ -16,6 +16,7 @@ comparePrice: 4.74 EUR
 prodname: 'Lebendige Farben Filzwolle Merinowolle Kammzug Wolle  Filz Material für Handwerk - Hautfarbe'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FK1MQJM/?tag=tolees0ca-21'
 descuento: '16.67'
 average: '3.45'

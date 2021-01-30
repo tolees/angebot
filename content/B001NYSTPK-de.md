@@ -16,6 +16,7 @@ comparePrice: 7.12 EUR
 prodname: 'KS Tools 917.1217 1/2" CLASSIC Sechskant-Stecknuss  17mm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001NYSTPK/?tag=tolees0ca-21'
 descuento: '56.04'
 average: '3.13'

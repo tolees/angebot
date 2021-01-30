@@ -16,6 +16,7 @@ comparePrice: 5.95 EUR
 prodname: 'Ergonomischer Dreikant-Bleistift für Rechtshänder -  STABILO EASYgraph in grün - Härtegrad HB - 2er Pack'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MRRVBXQ/?tag=tolees0ca-21'
 descuento: '33.78'
 average: '3.94'

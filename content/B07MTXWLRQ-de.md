@@ -16,6 +16,7 @@ comparePrice: 899.0 EUR
 prodname: 'Samsung Galaxy S10 Smartphone  15.5cm  6.1 Zoll  128 GB interner Speicher  8 GB RAM  prism white  - [Standard] Deutsche Version'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MTXWLRQ/?tag=tolees0ca-21'
 descuento: '41.60'
 average: '524.99'

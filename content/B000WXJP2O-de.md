@@ -16,6 +16,7 @@ comparePrice: 16.89 EUR
 prodname: 'Damenwahl  Deluxe-Edition mit Bonus-Tracks '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000WXJP2O/?tag=tolees0ca-21'
 descuento: '28.77'
 average: '12.03'

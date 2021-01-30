@@ -16,6 +16,7 @@ comparePrice: 159.9 EUR
 prodname: 'Aeronautica Militare  blank Melange Grey XL'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BBW8KF2/?tag=tolees0ca-21'
 descuento: '81.27'
 average: '29.95'

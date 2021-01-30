@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Braun Barttrimmer und Haarschneider BT7040  39 Längeneinstellungen  Edelstahl-Trimmerkopf  Präzisionstrimmer und Präzisionsscherkopf  mit Gillette Rasierer und Ladestation  schwarz/grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MN5BSWN/?tag=tolees0ca-21'
 descuento: '19.14'
 average: '64.56'

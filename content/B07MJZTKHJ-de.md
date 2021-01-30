@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: '1More E1026BT Stylish True Wireless In-Ear Headphones  Black'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MJZTKHJ/?tag=tolees0ca-21'
 descuento: '40.85'
 average: '59.09'

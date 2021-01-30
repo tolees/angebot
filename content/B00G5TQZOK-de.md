@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'POP! Vinyl 3735 No POP Vinylfigur: Supernatural: Sam  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00G5TQZOK/?tag=tolees0ca-21'
 descuento: '42.82'
 average: '8.0'

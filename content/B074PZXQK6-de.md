@@ -16,6 +16,7 @@ comparePrice: 62.47 EUR
 prodname: 'Jaybird Run Kabellose In-Ear Kopfhörer  Bluetooth  Schweißbeständig & Wasserdicht  12-Stunden Akkulaufzeit  Sport-Fit  Smartphone/Tablet/iOS/Android - Jet/Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074PZXQK6/?tag=tolees0ca-21'
 descuento: '21.56'
 average: '49.0'

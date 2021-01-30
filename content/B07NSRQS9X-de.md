@@ -16,6 +16,7 @@ comparePrice: 7.5 EUR
 prodname: 'Funko Schlüsselanhänger Pop – SOS Geister – Bouftou'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NSRQS9X/?tag=tolees0ca-21'
 descuento: '42.67'
 average: '4.3'

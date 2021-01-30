@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Belkin Boost up USB-Ladegerät Netzladegerät  2 4A  12 Watt  geeignet für iPhone 11  11 Pro  11 Pro Max  XS  XS Max  XR  X  SE  8/8 Plus anderer Smartphones und Tablets  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00GMEM20E/?tag=tolees0ca-21'
 descuento: '20.51'
 average: '14.3'

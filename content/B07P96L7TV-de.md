@@ -16,6 +16,7 @@ comparePrice: 12.55 EUR
 prodname: 'Funko 42038 POP Vinyl: WWE-Undertaker  Hooded  Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P96L7TV/?tag=tolees0ca-21'
 descuento: '16.18'
 average: '11.555'

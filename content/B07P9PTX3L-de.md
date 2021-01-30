@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Mr Muscle Drano Power Rohrreiniger Gel Abflussreiniger  entfernt Verstopfungen  rohrfrei  1er Pack  1 x 1000 ml '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P9PTX3L/?tag=tolees0ca-21'
 descuento: '53.18'
 average: '1.99'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'TOM TAILOR Herren T-Shirts/Tops T-Shirt mit Logo-Print Tarmac Grey L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KR662CC/?tag=tolees0ca-21'
 descuento: '19.42'
 average: '8.05'

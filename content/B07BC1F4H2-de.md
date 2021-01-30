@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Captain Toad: Treasure Tracker - [Nintendo 3DS]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BC1F4H2/?tag=tolees0ca-21'
 descuento: '22.26'
 average: '24.87'

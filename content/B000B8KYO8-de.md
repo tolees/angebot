@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Leifheit Wandrollenhalter Parat Royal für 3 Rollen  Küchenrollenhalter für glatte Schnittkanten  Papierrollenhalter für griffbereite Folien'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000B8KYO8/?tag=tolees0ca-21'
 descuento: '34.30'
 average: '22.99'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Herren 3301 Straight Jeans  Blau  Worker Blue Faded A088-A888   32W / 38L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07N14WJ7G/?tag=tolees0ca-21'
 descuento: '64.87'
 average: '35.11'

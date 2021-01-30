@@ -16,6 +16,7 @@ comparePrice: 12.98 EUR
 prodname: 'Two and a Half Men - Mein cooler Onkel Charlie - Staffel 6 [4 DVDs]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00P3N9L7M/?tag=tolees0ca-21'
 descuento: '60.40'
 average: '5.14'

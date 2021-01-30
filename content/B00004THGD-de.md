@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'Hook [Collector s Edition]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00004THGD/?tag=tolees0ca-21'
 descuento: '20.04'
 average: '4.49'

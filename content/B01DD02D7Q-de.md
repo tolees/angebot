@@ -16,6 +16,7 @@ comparePrice: 24.56 EUR
 prodname: 'Complete Chamber Music Recordings on Dg'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01DD02D7Q/?tag=tolees0ca-21'
 descuento: '30.01'
 average: '17.19'

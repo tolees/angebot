@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Warxin Handyhalter Fürs Auto  Magnet KFZ Handyhalterung fürs Auto Lüftung mit 3 magnetischen Metallplatten Handy Halter Universale Halterungen Für iPhone Samsung Huawei Smartphone und GPS - Silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Z369SZQ/?tag=tolees0ca-21'
 descuento: '15.02'
 average: '7.64'

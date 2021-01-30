@@ -16,6 +16,7 @@ comparePrice: 82.0 EUR
 prodname: 'Alessi "La Stanza dello Scirocco"  Korbschale'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002TWO92M/?tag=tolees0ca-21'
 descuento: '48.61'
 average: '42.14'

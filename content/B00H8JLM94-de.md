@@ -16,6 +16,7 @@ comparePrice: 169.9 EUR
 prodname: 'Corsair CC-9011048-WW Carbide Series Air 540 Computer Gehäuse  Seitenfenster ATX High Airflow Cube Performance  arctic weiß mit weiß LED Lüfter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00H8JLM94/?tag=tolees0ca-21'
 descuento: '15.15'
 average: '144.16'

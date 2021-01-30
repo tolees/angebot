@@ -16,6 +16,7 @@ comparePrice: 229.9 EUR
 prodname: 'Timberland Damen 14 Inch Premium Waterproof Stiefel  Gelb  Wheat Nubuck   37 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007TGA2HY/?tag=tolees0ca-21'
 descuento: '69.99'
 average: '68.99'

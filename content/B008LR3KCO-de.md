@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Philips HF3510/01 Wake-Up Light mit Sonnenaufgangsfunktion in 3 Farbstufen inkl. digitalem FM Radio'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B008LR3KCO/?tag=tolees0ca-21'
 descuento: '46.93'
 average: '72.65666666666667'

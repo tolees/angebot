@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'arena Damen Sport Badeanzug Dynamo  Schnelltrocknend  UV-Schutz UPF 50+  Chlor- /Salzwasserbeständig   Navy  75   36'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N9HX7QE/?tag=tolees0ca-21'
 descuento: '56.05'
 average: '15.36'

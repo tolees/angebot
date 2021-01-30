@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'infactory Spielwaren: Selbstklebendes Spielbaustein-Tape für gängige Systeme  1 m  schwarz  Bauspielzeuge '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07K8R8QCX/?tag=tolees0ca-21'
 descuento: '61.63'
 average: '4.95'

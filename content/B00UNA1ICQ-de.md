@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Seagate Expansion Desktop  3 TB  externe Festplatte  3.5"  USB 3.0  PC  Xbox  PS4  ModelNr.: STEB3000200'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00UNA1ICQ/?tag=tolees0ca-21'
 descuento: '29.16'
 average: '85.0'

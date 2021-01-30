@@ -16,6 +16,7 @@ comparePrice: 8.85 EUR
 prodname: 'EKKONG Aufkleber  46 Stück Dekorative Aufkleber  Wasserdicht Vinyl Stickers Decals für Auto Motorräd Fahrrad Skateboard Snowboard Gepäck Laptop MacBook Pad  46pcs '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VPFK7DT/?tag=tolees0ca-21'
 descuento: '32.32'
 average: '5.99'

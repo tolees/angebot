@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Huawei Band 4e wasserdichter Bluetooth Fitness- Aktivitätstracker mit 6-achsigem Bewegungssensor  OLED Display und Touchscreen  Sakura Coral'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XTQS357/?tag=tolees0ca-21'
 descuento: '33.28'
 average: '19.35'

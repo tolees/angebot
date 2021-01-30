@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'PLAYMOBIL DreamWorks Spirit 9475 Luckys glückliches Zuhause  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079N2CMRT/?tag=tolees0ca-21'
 descuento: '35.66'
 average: '54.06666666666667'

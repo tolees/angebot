@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Acer K272HLEbid 69 cm  27 Zoll Full HD  Monitor  VGA  DVI  HDMI  4ms Reaktionszeit  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01EDXGCCE/?tag=tolees0ca-21'
 descuento: '15.86'
 average: '149.135'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Merry Style Mädchen Lange Leggings aus Viskose MS10-130  Schwarz  110 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0716SS1FC/?tag=tolees0ca-21'
 descuento: '25.03'
 average: '7.49'

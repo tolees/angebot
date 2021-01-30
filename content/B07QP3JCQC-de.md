@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Dickie Toys Harry Potter Tarnumhang  Umhang unsichtbar machen mit App  Zauberumhang  Heiligtümer des Todes  Harry Potter Kostüm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QP3JCQC/?tag=tolees0ca-21'
 descuento: '24.07'
 average: '53.14'

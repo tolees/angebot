@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: '144 Stunden In-Ear Bluetooth Kopfhörer  Ohrhörer Kabellos CVC Noise Cancelling Earbuds Headset  Wireless Kopfhörer Sport Ohrhörer mit IPX6 Wasserdicht/HD-Stereo Deep Bass/Portable Ladecase'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083K4TWZV/?tag=tolees0ca-21'
 descuento: '38.34'
 average: '37.99'

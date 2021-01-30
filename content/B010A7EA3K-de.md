@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Icy Box IB-AC636 Tablet Halterung  22 9 cm bis 27 9 cm  mit Doppelgelenkarm  drehbar um 360 Grad  Befestigung per Schraubklemme schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B010A7EA3K/?tag=tolees0ca-21'
 descuento: '37.61'
 average: '59.27'

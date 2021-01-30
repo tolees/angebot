@@ -16,6 +16,7 @@ comparePrice: 11.09 EUR
 prodname: 'AmazonBasics HL-007318 Hochgeschwindigkeits-HDMI-Kabel  CL3-zertifiziert  HDMI-Standard 2.0  4 6 m'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B014I8TOTC/?tag=tolees0ca-21'
 descuento: '42.38'
 average: '6.39'

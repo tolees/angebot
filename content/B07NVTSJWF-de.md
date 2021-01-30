@@ -16,6 +16,7 @@ comparePrice: 899.0 EUR
 prodname: 'Samsung WW6400 WW8HK6400QW/EG Waschmaschine 8 kg  1400 U/min  A+++  AddWash  SchaumAktiv-Technologie  FleckenIntensiv-Funktion'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NVTSJWF/?tag=tolees0ca-21'
 descuento: '17.81'
 average: '681.4499999999999'

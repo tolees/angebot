@@ -16,6 +16,7 @@ comparePrice: 279.98 EUR
 prodname: 'DXX Technik Bausteine Auto Icarus Roadster  1928Teile 1:10 2.4G Sportwagen Bausteine Konstruktionsspielzeug Kompatibel mit Lego Technic'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083B9HV5N/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '130.85206896551728'

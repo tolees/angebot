@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Oral-B Vitality 100 CrossAction Elektrische Zahnbürste Powered By Braun  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DGH9V7S/?tag=tolees0ca-21'
 descuento: '62.88'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'TP-Link TL-PA7017KIT AV1000 Gigabit Powerline Adapter  1x Gigabit Port  Plug und Play  energiesparend  kompatibel zu allen gängigen Powerline Adaptern  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WRQ9S1B/?tag=tolees0ca-21'
 descuento: '24.05'
 average: '37.9'

@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Bosch MUM5 CreationLine Küchenmaschine MUM58L20  Testsieger  vielseitig einsetzbar  große Edelstahl-Schüsssel  3 9l   Durchlaufschnitzler  3 Scheiben  Mixer  1000 W  grau/silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B013DQEJF4/?tag=tolees0ca-21'
 descuento: '55.59'
 average: '166.1866666666667'

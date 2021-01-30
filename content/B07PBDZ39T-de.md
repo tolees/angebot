@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'Nordic Kitchen Rührlöffel  eiche schwarz LxB 20x8 4cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PBDZ39T/?tag=tolees0ca-21'
 descuento: '22.00'
 average: '17.9'

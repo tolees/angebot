@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 14751 The Last Jedi No Bobble: Star Wars: E8 TLJ: BB-9E  POP 10   Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071VTGDQQ/?tag=tolees0ca-21'
 descuento: '75.41'
 average: '6.736000000000001'

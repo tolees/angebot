@@ -16,6 +16,7 @@ comparePrice: 64.85 EUR
 prodname: 'Levi s Herren 512 Slim Taper FIT Jeans  Nightshade X 0013  29W / 30L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074ZNZ4SX/?tag=tolees0ca-21'
 descuento: '18.49'
 average: '52.86'

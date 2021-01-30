@@ -16,6 +16,7 @@ comparePrice: 24.75 EUR
 prodname: 'WarGroove: Deluxe Edition - [Nintendo Switch]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WYH5T52/?tag=tolees0ca-21'
 descuento: '20.12'
 average: '19.77'

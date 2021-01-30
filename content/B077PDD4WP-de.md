@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Hasbro Gaming 98936398 - Hippo Flipp Kinderspiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077PDD4WP/?tag=tolees0ca-21'
 descuento: '28.01'
 average: '18.23625'

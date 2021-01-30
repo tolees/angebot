@@ -16,6 +16,7 @@ comparePrice: 32.22 EUR
 prodname: 'Veganz BIO Protein Choc Bar Strawberry Cake Style - Eiweißriegel Vegan Proteinreich Cremige Erdbeere Schokolade - 18 Vegane Proteinriegel je 50g'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07N8F4D2Z/?tag=tolees0ca-21'
 descuento: '25.82'
 average: '23.9'

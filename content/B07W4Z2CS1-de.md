@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'LED Schrankbeleuchtung mit Bewegungsmelder - 30er LED Nachtlicht Schranklicht  USB Nachtlampe mit 3 Helligkeitsstufen für Kinderzimmer und Küche  Flurlicht  3er Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W4Z2CS1/?tag=tolees0ca-21'
 descuento: '21.63'
 average: '28.99'

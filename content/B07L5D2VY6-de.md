@@ -16,6 +16,7 @@ comparePrice: 935.99 EUR
 prodname: 'PNY Quadro RTX 4000 8 GB GDDR6'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07L5D2VY6/?tag=tolees0ca-21'
 descuento: '46.58'
 average: '750.485'

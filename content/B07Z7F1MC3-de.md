@@ -16,6 +16,7 @@ comparePrice: 98.99 EUR
 prodname: 'Toyaword outdoor sport Action Cam 4K 60FPS 20MP Sportkamera 40M wasserdichte Unterwasserkamera WiFi actioncam mit EIS Sensor 2.4G Fernbedienung externem Mikrofon Montage Zubehör Kit'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Z7F1MC3/?tag=tolees0ca-21'
 descuento: '23.23'
 average: '75.99'

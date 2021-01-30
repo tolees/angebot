@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Tommy Jeans Damen Tjw Sleeve Detail Logo Tee T-Shirt  Schwarz  Black Bds   36  Herstellergröße: Medium '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VPR2RPR/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '19.95'

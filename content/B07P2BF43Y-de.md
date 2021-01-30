@@ -16,6 +16,7 @@ comparePrice: 16.42 EUR
 prodname: 'Funko 37254 POP Vinyl: Held 80th-Batman  1995  Sammelbares Spielzeug  Mehrfarben  Einheitsgröße'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P2BF43Y/?tag=tolees0ca-21'
 descuento: '54.26'
 average: '7.67'

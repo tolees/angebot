@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'FJÄLLRÄVEN Byron Hat Doppelstrickmütze  Graphite  One Size'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071RXY27R/?tag=tolees0ca-21'
 descuento: '30.24'
 average: '29.99'

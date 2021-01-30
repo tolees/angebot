@@ -16,6 +16,7 @@ comparePrice: 18.88 EUR
 prodname: 'Bluetooth Kopfhörer In-Ear Kabellose Kopfhörer Bluetooth Headset Sport-3D-Stereo-Kopfhörer mit 24H Ladekästchen und Integriertem Mikrofon Auto-Pairing für Samsung/Huawei/iPhone/Airpod/Android'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08G891KZK/?tag=tolees0ca-21'
 descuento: '15.31'
 average: '16.57'

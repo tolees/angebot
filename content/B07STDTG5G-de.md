@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Oral-B PRO 1 200 Elektrische Zahnbürste  für eine sanfte Reinigung bei empfindlichem Zahnfleisch  weiß  1 Stück'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07STDTG5G/?tag=tolees0ca-21'
 descuento: '49.61'
 average: '31.375'

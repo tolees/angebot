@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Hasbro Gaming B7714100 - Elefun Kinderspiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01ELG5G7K/?tag=tolees0ca-21'
 descuento: '34.37'
 average: '27.634999999999998'

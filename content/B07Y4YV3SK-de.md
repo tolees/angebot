@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'USB Stick 64GB  MECO ELEVERDE 2-in-1 OTG Speicherstick  USB-C＆USB 3.0  Memory Stick mit Schutzhülle Weihnachten/Geburtstag Geschenk für PC/Laptop/Notebook/Typ-C  Schule  Büro und Kinder'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Y4YV3SK/?tag=tolees0ca-21'
 descuento: '58.01'
 average: '20.99'

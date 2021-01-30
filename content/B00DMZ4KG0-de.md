@@ -16,6 +16,7 @@ comparePrice: 18.49 EUR
 prodname: 'Kingdom Hearts III - [Xbox One]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00DMZ4KG0/?tag=tolees0ca-21'
 descuento: '45.97'
 average: '11.49'

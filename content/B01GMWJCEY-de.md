@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Cremefarbener Segeltuch-Hundespielzeugkorb - Qualitätskorb zur Aufbewahrung von Hundespielzeug 40 cm x 30 cm x 25 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01GMWJCEY/?tag=tolees0ca-21'
 descuento: '28.71'
 average: '24.95'

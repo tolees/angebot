@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'SHARP LC-24CHF4012 60 cm  24 Zoll  Fernseher  HD TV  Triple Tuner  [Energieklasse A]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M5G7DIP/?tag=tolees0ca-21'
 descuento: '53.04'
 average: '116.93'

@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Citizen Herren Analog Quarz Uhr mit Plastik Armband BN0150-10E'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00R7PSW38/?tag=tolees0ca-21'
 descuento: '21.18'
 average: '156.86'

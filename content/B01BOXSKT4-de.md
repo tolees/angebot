@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'NIVEA SUN Pflegendes After Sun Spray  200 ml Sprühflasche'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BOXSKT4/?tag=tolees0ca-21'
 descuento: '29.86'
 average: '3.5'

@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Garmin Forerunner 35 GPS-Laufuhr  Herzfrequenzmessung am Handgelenk  Smart Notifications  Lauffunktionen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01K9W5EJ0/?tag=tolees0ca-21'
 descuento: '19.23'
 average: '107.9425'

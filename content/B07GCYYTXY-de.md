@@ -16,6 +16,7 @@ comparePrice: 17.52 EUR
 prodname: 'W.2 Fiber Carbon Cube - verbesserte Version - nur 73 g - Zauberwürfel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GCYYTXY/?tag=tolees0ca-21'
 descuento: '42.98'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 13.52 EUR
 prodname: 'Funko 45312 POP Movies: Devil Wears Prada - Andy Sachs Collectible Toy  Multicolour'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W69JTH9/?tag=tolees0ca-21'
 descuento: '27.59'
 average: '9.79'

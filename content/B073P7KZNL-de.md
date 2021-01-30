@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Kamik Unisex-Kinder SOUTHPOLE4 Schneestiefel  Schwarz  Black   27 EU  10 US '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B073P7KZNL/?tag=tolees0ca-21'
 descuento: '35.25'
 average: '42.09'

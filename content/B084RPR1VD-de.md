@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Bellivalini Damen Kurze Leggings aus Viskose BLV50-149  Schwarz  3XL '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B084RPR1VD/?tag=tolees0ca-21'
 descuento: '20.02'
 average: '8.79'

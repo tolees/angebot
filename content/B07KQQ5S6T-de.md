@@ -16,6 +16,7 @@ comparePrice: 52.99 EUR
 prodname: 'Trilogy DS-15 Nerf N-Strike Elite Spielzeug Blaster mit 15 Nerf Elite Darts und 5 Hülsen – Für Kinder  Teenager  Erwachsene'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KQQ5S6T/?tag=tolees0ca-21'
 descuento: '31.99'
 average: '37.00333333333333'

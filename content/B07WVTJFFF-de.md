@@ -16,6 +16,7 @@ comparePrice: 1699.0 EUR
 prodname: 'LG 75UM7000PLA 189 cm  75 Zoll  UHD Fernseher  LCD  Single Triple Tuner  4K Active HDR  Smart TV '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WVTJFFF/?tag=tolees0ca-21'
 descuento: '69.10'
 average: '525.0'

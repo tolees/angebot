@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Ravensburger 12528" Porsche 911 R 3D-Puzzle  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01I3KFFKS/?tag=tolees0ca-21'
 descuento: '38.71'
 average: '18.38'

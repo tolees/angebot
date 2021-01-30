@@ -16,6 +16,7 @@ comparePrice: 10.49 EUR
 prodname: 'Layenberger LowCarb.one 3K Protein-Shake Vanille-Sahne  1er Pack  1 x 360 g '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00H96PVE8/?tag=tolees0ca-21'
 descuento: '33.37'
 average: '6.99'

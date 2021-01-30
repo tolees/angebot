@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'T98 Airpods Case Metall 2019 Neuestes AirPods Hülle Mit Airpods Zubehör  AirPods Tasche Ultraleicht Staubdicht Kratzfestes Gehäuse für AirPods 1&2 Aufladen Case[Nicht für Wireless-Ladekoffer]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KXYCFGZ/?tag=tolees0ca-21'
 descuento: '58.89'
 average: '5.640000000000001'

@@ -16,6 +16,7 @@ comparePrice: 369.99 EUR
 prodname: 'Arlo HD Überwachungskamera & Alarmanlage  2er Set  Smart Home  kabellos  Innen/Außen  Nachtsicht  WLAN  wetterfest  Bewegungsmelder   VMS3230  - Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00TDNYNP8/?tag=tolees0ca-21'
 descuento: '24.38'
 average: '216.25666666666666'

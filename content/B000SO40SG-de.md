@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Rössler 1329452707 - S.O.H.O. Wire-O Fotoalbum 290 x 290 mm  30 Blatt  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000SO40SG/?tag=tolees0ca-21'
 descuento: '19.40'
 average: '14.5'

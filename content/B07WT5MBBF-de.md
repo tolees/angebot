@@ -16,6 +16,7 @@ comparePrice: 4.2 EUR
 prodname: 'SuperZings PSZ4D824IN00 Serie 4 Blaster Jet'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WT5MBBF/?tag=tolees0ca-21'
 descuento: '48.33'
 average: '3.67875'

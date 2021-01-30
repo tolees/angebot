@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 026997 POP Vinylfigur: Disney: The Little Mermaid: Ariel  Auburn Pink  Einheitsgröße'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LAMQ758/?tag=tolees0ca-21'
 descuento: '42.82'
 average: '8.0'

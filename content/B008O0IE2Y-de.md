@@ -16,6 +16,7 @@ comparePrice: 129 EUR
 prodname: 'Canon Mount Adapter EF-EOS M schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B008O0IE2Y/?tag=tolees0ca-21'
 descuento: '29.24'
 average: '91.28'

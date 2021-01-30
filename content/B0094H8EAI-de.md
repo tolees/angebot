@@ -16,6 +16,7 @@ comparePrice: 26.69 EUR
 prodname: 'Yankee Candle Duftkerze im Glas  groß  | Cranberry Ice | Brenndauer bis zu 150 Stunden'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0094H8EAI/?tag=tolees0ca-21'
 descuento: '43.84'
 average: '14.99'

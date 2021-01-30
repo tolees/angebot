@@ -16,6 +16,7 @@ comparePrice: 61.72 EUR
 prodname: 'Wenger 600627 GIGABYTE 15.4" MacBook Pro Laptop-Rucksack  Anti-Kratz-Futter und iPad/Tablet / eReader Fach  Schwarz {17 Liter}'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HD9C7DY/?tag=tolees0ca-21'
 descuento: '26.94'
 average: '45.09'

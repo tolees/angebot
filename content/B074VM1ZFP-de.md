@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Sony WH-H900N High-Resolution Kopfhörer  Kabelloser  Noise Cancelling  rot  mit Alexa-Integration'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074VM1ZFP/?tag=tolees0ca-21'
 descuento: '59.87'
 average: '121.65666666666667'

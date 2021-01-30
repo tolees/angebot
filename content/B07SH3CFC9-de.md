@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego Star Wars Darth Vader Transformation  Kompatibel Mit Lego 75183 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SH3CFC9/?tag=tolees0ca-21'
 descuento: '42.56'
 average: '26.07064516129032'

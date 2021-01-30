@@ -16,6 +16,7 @@ comparePrice: 2849.0 EUR
 prodname: 'Microsoft Surface Book 2 34 29 cm  13 5 Zoll  Laptop  Intel Core i7 der 8. Generation  16GB RAM  512GB SSD  Intel HD Graphics 620  Win 10  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076SH9NYT/?tag=tolees0ca-21'
 descuento: '80.87'
 average: '996.6633333333333'

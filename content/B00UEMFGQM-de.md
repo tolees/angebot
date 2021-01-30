@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Philips Hue Go LED Leuchte  tragbares  kabelloses Licht  dimmbar  bis zu 16 Millionen Farben  stuerbar via App  kompatibel mit Amazon Alexa  EU-Stecker  Echo  Echo Dot '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00UEMFGQM/?tag=tolees0ca-21'
 descuento: '23.00'
 average: '74.85142857142856'

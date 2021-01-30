@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'EYSAFT Babyphone mit Kamera Video Baby Monitor 3.2 Zoll Babyfon mit Talk Back und Temperaturüberwachung Nachtsichtkamera Schlaflieder Nachtsicht  Intercom-Funktion VOX'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07X2JNKSD/?tag=tolees0ca-21'
 descuento: '47.70'
 average: '67.99'

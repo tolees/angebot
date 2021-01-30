@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Trefl 31131 - Rahmen-Puzzle  Mickey Mouse  Auf dem Land  15 Teile'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00CS04JAC/?tag=tolees0ca-21'
 descuento: '52.50'
 average: '3.32'

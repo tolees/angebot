@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'PAUL HEWITT Anker Armkette Anchor Spirit Plated - Armkette Damen Silber 925  Anker Armband Frauen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B073WC6YRH/?tag=tolees0ca-21'
 descuento: '29.62'
 average: '42.16'

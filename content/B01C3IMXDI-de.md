@@ -16,6 +16,7 @@ comparePrice: 9.45 EUR
 prodname: 'Euphoria'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01C3IMXDI/?tag=tolees0ca-21'
 descuento: '51.01'
 average: '4.63'

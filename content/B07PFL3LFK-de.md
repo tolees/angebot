@@ -16,6 +16,7 @@ comparePrice: 24.25 EUR
 prodname: 'Old Spice Citron Anti-Transpirant und Deo-Stick für Herren  50 ml  1 Packung mit 6 Einheiten'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PFL3LFK/?tag=tolees0ca-21'
 descuento: '32.78'
 average: '16.3'

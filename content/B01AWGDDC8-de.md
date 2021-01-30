@@ -16,6 +16,7 @@ comparePrice: 754.99 EUR
 prodname: 'Brother ADS-3600W  Dokumentenscanner mit LAN und WLAN  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01AWGDDC8/?tag=tolees0ca-21'
 descuento: '35.23'
 average: '489.0'

@@ -16,6 +16,7 @@ comparePrice: 21.98 EUR
 prodname: 'Salomon und die Königin von Saba - Mediabook Cover A   + DVD  [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QDKKF1K/?tag=tolees0ca-21'
 descuento: '19.75'
 average: '17.64'

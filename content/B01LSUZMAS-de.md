@@ -16,6 +16,7 @@ comparePrice: 629 EUR
 prodname: 'Apple iPhone 7  128 GB  - Gold'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LSUZMAS/?tag=tolees0ca-21'
 descuento: '25.44'
 average: '469'

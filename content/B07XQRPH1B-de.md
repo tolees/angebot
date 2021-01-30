@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego Star Wars Das Imperium schlägt zurück Snowspeeder Kompatibel Mit Lego 75259 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XQRPH1B/?tag=tolees0ca-21'
 descuento: '57.70'
 average: '24.43444444444445'

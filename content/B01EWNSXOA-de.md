@@ -16,6 +16,7 @@ comparePrice: 15.06 EUR
 prodname: 'Petex Auto-Kindersitzerhöhung Max 103 ECE-Gruppe 2-3  Kinder von ca. 3 5-12 Jahre|15-36 kg  schwarz/grün'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01EWNSXOA/?tag=tolees0ca-21'
 descuento: '15.07'
 average: '12.79'

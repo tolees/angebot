@@ -16,6 +16,7 @@ comparePrice: 14.42 EUR
 prodname: 'Funko POP My Hero Academia SHOTA AIZ'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07D7SMLG9/?tag=tolees0ca-21'
 descuento: '39.32'
 average: '8.91'

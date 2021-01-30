@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'TP-Link TL-SG116 16-Ports Gigabit Netzwerk Switch  32 Gbit/S Switching-Kapazität  geschirmte RJ-45 Ports  Metallgehäuse  IGMP-snooping  Unmanaged  Plug-und-Play  lüfterlos  blau metallic'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FY23LW7/?tag=tolees0ca-21'
 descuento: '30.26'
 average: '48.42454545454543'

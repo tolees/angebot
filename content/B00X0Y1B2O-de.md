@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 5897 S1 No POP Vinylfigur Mulan  Multi  Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00X0Y1B2O/?tag=tolees0ca-21'
 descuento: '42.82'
 average: '8.0'

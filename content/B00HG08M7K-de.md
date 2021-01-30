@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Fossil Damen Analog Quarz Uhr mit Edelstahl Armband ES3545'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HG08M7K/?tag=tolees0ca-21'
 descuento: '29.40'
 average: '105.2'

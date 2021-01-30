@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Fdit 2er Universal Gasherd Herd Knopf Teil für kindersicherheit Metall Drehschalter Steuerknöpfe Ersatz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CWMMW7M/?tag=tolees0ca-21'
 descuento: '30.03'
 average: '7.69'

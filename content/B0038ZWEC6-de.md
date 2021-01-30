@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'fischertechnik - 508775 ADVANCED Super Fun Park  Konstruktionsbaukasten'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0038ZWEC6/?tag=tolees0ca-21'
 descuento: '23.97'
 average: '75.99'

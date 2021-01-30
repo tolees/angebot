@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Sämtliche Sinfonien  Ga '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000AGL1A2/?tag=tolees0ca-21'
 descuento: '50.97'
 average: '8.82'

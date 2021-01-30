@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Siemens PowerProtect Staubsaugerbeutel VZ16GALL  16 Stück   mit Verschluss  effizienter Motorschutz  50% längere Nutzungsdauer  alle Baureihen außer VS08  VS01'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077Q5XF7B/?tag=tolees0ca-21'
 descuento: '37.31'
 average: '25.07'

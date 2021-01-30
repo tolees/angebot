@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'WLAN Steckdose Smart Steckdose TECKIN Smart Plug Stecker Fernbedienbar und Sprachsteuerung IP Steckdosen Stromverbrauch messen  funktioniert mit Google Home und Alexa  auf NUR 2.4 GHz Netzwerk  4 Pack'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PMDH1S6/?tag=tolees0ca-21'
 descuento: '33.34'
 average: '39.99'

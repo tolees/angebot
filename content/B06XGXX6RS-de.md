@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 14375 Actionfigur Kingsman: Gazelle  Mehrfarbig  Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XGXX6RS/?tag=tolees0ca-21'
 descuento: '48.89'
 average: '7.043333333333334'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'AKASO Brave 6 Action Cam 4K 20MP WiFi Sprachsteuerung EIS Anti-Shake 30 Meters wasserdicht Unterwasserkamera Fernbedienung 6X Zoom Sports Helmkamera mit 2 Batterien und Helmzubehör-Kit'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07L66MYKV/?tag=tolees0ca-21'
 descuento: '40.98'
 average: '53.11'

@@ -16,6 +16,7 @@ comparePrice: 369.0 EUR
 prodname: 'Yamaha MCR-B370D Schwarz/Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PGHJCZR/?tag=tolees0ca-21'
 descuento: '19.07'
 average: '298.65'

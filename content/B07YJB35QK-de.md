@@ -16,6 +16,7 @@ comparePrice: 152.99 EUR
 prodname: 'Küchenarmatur Heimwerkerzubehör Antike Messing 360 Swivel Waschbecken Mischbatterie Kran Grifo De Cocina'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YJB35QK/?tag=tolees0ca-21'
 descuento: '39.22'
 average: '92.99'

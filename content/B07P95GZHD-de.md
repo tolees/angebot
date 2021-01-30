@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Sylvanian Families 5366 Luxury Bed  Mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P95GZHD/?tag=tolees0ca-21'
 descuento: '25.02'
 average: '8.99'

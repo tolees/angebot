@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Fila Classic Logo Hoody  Sweatshirt Grau XL'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XG4Q6M8/?tag=tolees0ca-21'
 descuento: '72.31'
 average: '18.0'

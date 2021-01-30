@@ -16,6 +16,7 @@ comparePrice: 9.48 EUR
 prodname: 'one-home 2er Set Mikrofaser Kissenbezug Kissenhülle Kopfkissen Hülle Uni  Farbe:Petrol  Maße:40 x 40 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QXDCWG4/?tag=tolees0ca-21'
 descuento: '36.08'
 average: '6.06'

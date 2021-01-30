@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'SGODDE Handwärmer Powerbank 7800mAh  USB Wiederaufladbare 2 IN 1 Taschenwärmer  tragbare ladegerät elektrische Doppelseitig Heizung Handwärmer  Valentinstag Wintergeschenke für Frauen Kinder Familien'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YVD3JQC/?tag=tolees0ca-21'
 descuento: '44.69'
 average: '25.99'

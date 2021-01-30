@@ -16,6 +16,7 @@ comparePrice: 104.9 EUR
 prodname: 'Bresser Junior Schülermikroskop BIOLUX SEL mit Smartphonehalter  reichhaltigem Zubehör und Barlow-Zoom-System für Kinder  Einsteiger und Erwachsene  rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NDDQJ9S/?tag=tolees0ca-21'
 descuento: '34.22'
 average: '69.0'

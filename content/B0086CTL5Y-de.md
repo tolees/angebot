@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Garmin KFZ Ladekabel Mini USB  2 Amp'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0086CTL5Y/?tag=tolees0ca-21'
 descuento: '23.81'
 average: '15.23'

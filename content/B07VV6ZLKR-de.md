@@ -16,6 +16,7 @@ comparePrice: 24.74 EUR
 prodname: 'Bluetooth Schlafmaske Achort Schlafkopfhörer Bluetooth Musik Augenmaske für kühle/warme Therapie Hands-Free Schlafkopfhörer Nachtmaske integrierter Lautsprecher Mikrofon'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VV6ZLKR/?tag=tolees0ca-21'
 descuento: '47.49'
 average: '12.99'

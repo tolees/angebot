@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'I  Tonya [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079PDFGSZ/?tag=tolees0ca-21'
 descuento: '40.04'
 average: '5.99'

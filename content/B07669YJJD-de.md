@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'PLAYMOBIL Dinos 9433 Propellerboot mit Dinokäfig  Schwimmfähig  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07669YJJD/?tag=tolees0ca-21'
 descuento: '34.22'
 average: '24.17692307692307'

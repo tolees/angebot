@@ -16,6 +16,7 @@ comparePrice: 4.83 EUR
 prodname: 'Silverline HK11 Innensechskantschlüssel  10-tlg. Satz 2 – 10 mm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000LFXJUM/?tag=tolees0ca-21'
 descuento: '38.10'
 average: '2.99'

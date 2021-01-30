@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Anker PowerPort Speed 5  63W 5 Port USB Ladegerät  Netzteile mit Quick Charge 3.0 & Power IQ für Samsung Galaxy S8 / S7 / S6 / Edge / Plus / Note  iPhone  iPad  LG  Nexus  HTC usw.'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01KUV3Q0O/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '29.656666666666666'

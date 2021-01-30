@@ -16,6 +16,7 @@ comparePrice: 849.0 EUR
 prodname: 'Hisense H55U7B 138 cm  55 Zoll  Fernseher  4K Ultra HD  HDR  Dolby Vision  Triple Tuner  Smart-TV  USB-Aufnahmefunktion '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RCMMRX5/?tag=tolees0ca-21'
 descuento: '44.76'
 average: '465.198'

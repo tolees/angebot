@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'BRAX Herren Style Cadiz Ultralight Hose  Blau  Ocean 22   31W / 32L'
 country: 'de'
 flag: '🇩🇪'
+brand: 'BRAX'
 buyurl: 'https://www.amazon.de/dp/B07W7CN61Q/?tag=tolees0ca-21'
 descuento: '46.90'
 average: '53.07'
@@ -27,7 +28,7 @@ Sie können [BRAX Herren Style Cadiz Ultralight Hose  Blau  Ocean 22   31W / 32L
 
 ℹ️:
 
-- Chinohose
 - Leistengesäßtaschen mit Knopf
+- Chinohose
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W7CN61Q/?tag=tolees0ca-21)

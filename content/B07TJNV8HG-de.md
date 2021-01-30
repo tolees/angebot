@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'GODNECE Bauplatten Straße  50 x 50 Loch Straßenplatten Bauplatte Baustein Bauplatten für Straßen  Städte  Garagen & mehr - 100 % kompatibel mit Allen führenden Marken'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TJNV8HG/?tag=tolees0ca-21'
 descuento: '55.03'
 average: '8.99'

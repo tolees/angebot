@@ -16,6 +16,7 @@ comparePrice: 4.39 EUR
 prodname: 'Syoss Colorist Tools Serum  2er Pack  2 x 30 ml '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B4KPZHW/?tag=tolees0ca-21'
 descuento: '22.55'
 average: '3.4'

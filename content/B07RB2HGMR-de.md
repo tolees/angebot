@@ -16,6 +16,7 @@ comparePrice: 69.97 EUR
 prodname: 'YLCJ - Lámpara colgante moderna de 14  con lámpara colgante en hierro de cocina con detalles en madera Cinco colores para restaurante Comedor Hall Café Loft Cocina Granero Almacén'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RB2HGMR/?tag=tolees0ca-21'
 descuento: '35.73'
 average: '44.97'

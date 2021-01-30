@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'TOM TAILOR Damen Jeanshosen Alexa Straight Jeans mid Stone wash Denim 30/32 10281 6000'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072HHYT2D/?tag=tolees0ca-21'
 descuento: '22.06'
 average: '38.76384615384615'

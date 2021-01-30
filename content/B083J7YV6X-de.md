@@ -16,6 +16,7 @@ comparePrice: 45.98 EUR
 prodname: 'GODNECE LED Licht-Set für Baustein  Klassisch RC Led Beleuchtungsset Licht-Set für Baustein Spielzeug Kompatibel Mit Lego- Land Rover Defender 42110 Bausatz  Modell Nicht Enthalten  Batteriebetrieben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083J7YV6X/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '22.99'

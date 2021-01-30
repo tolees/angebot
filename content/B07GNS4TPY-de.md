@@ -16,6 +16,7 @@ comparePrice: 57.99 EUR
 prodname: 'Tefal G11519 Delicia Pro Wokpfanne  28 cm  Aluminium  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GNS4TPY/?tag=tolees0ca-21'
 descuento: '41.39'
 average: '33.99'

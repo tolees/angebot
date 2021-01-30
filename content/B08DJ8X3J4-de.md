@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Luftentfeuchter Elektrisch 1200ml Geringer Energieverbrauch Reinigungsfunktion Auto-Off  Timer gegen Feuchtigkeit und Schimmel für Badezimmer  Küche  Keller  Kleiderschrank  Schlafzimmer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08DJ8X3J4/?tag=tolees0ca-21'
 descuento: '41.12'
 average: '52.99'

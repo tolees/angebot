@@ -16,6 +16,7 @@ comparePrice: 9.74 EUR
 prodname: 'Jane Austen s Love & Friendship'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M5ELVUH/?tag=tolees0ca-21'
 descuento: '76.08'
 average: '4.883333333333334'

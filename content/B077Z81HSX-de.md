@@ -16,6 +16,7 @@ comparePrice: 17.54 EUR
 prodname: 'Cars 1 + Cars 2 + Cars 3 [3 DVDs]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077Z81HSX/?tag=tolees0ca-21'
 descuento: '18.70'
 average: '17.035384615384615'

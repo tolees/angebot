@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Der Unbestechliche - Mörderisches Marseille'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B010PCUZ4S/?tag=tolees0ca-21'
 descuento: '28.61'
 average: '4.99'

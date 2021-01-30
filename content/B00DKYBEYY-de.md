@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'SONAX 281941 281.941 Premium Class Lederwartungssatz  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00DKYBEYY/?tag=tolees0ca-21'
 descuento: '33.01'
 average: '40.19'

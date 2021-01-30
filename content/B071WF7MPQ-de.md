@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Fast & Furious - 8 Movie Collection [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071WF7MPQ/?tag=tolees0ca-21'
 descuento: '21.94'
 average: '24.97'

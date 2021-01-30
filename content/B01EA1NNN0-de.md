@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Microsoft Office Home and Student 2016 | PC | Box'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01EA1NNN0/?tag=tolees0ca-21'
 descuento: '52.66'
 average: '76.33333333333334'

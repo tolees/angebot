@@ -16,6 +16,7 @@ comparePrice: 46.1 EUR
 prodname: 'GoPro Armband schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XHKQKDH/?tag=tolees0ca-21'
 descuento: '35.03'
 average: '29.95'

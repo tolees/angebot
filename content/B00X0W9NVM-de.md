@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger Herren JOHNSON MINI CC FLAP AND COIN POCKET Geldbörsen  Braun  Brown 041   11x7x3 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00X0W9NVM/?tag=tolees0ca-21'
 descuento: '38.23'
 average: '37.0'

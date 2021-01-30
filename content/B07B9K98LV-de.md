@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Tommy Hilfiger Herren-Armbanduhr Denim'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B9K98LV/?tag=tolees0ca-21'
 descuento: '32.94'
 average: '79.8'

@@ -16,6 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'Garmin vívoactive 3 GPS-Fitness-Smartwatch - vorinstallierte Sport-Apps  kontaktloses Bezahlen mit Garmin Pay  Schwarz-Silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0751GBCKN/?tag=tolees0ca-21'
 descuento: '39.56'
 average: '145.19'

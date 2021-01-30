@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Lico Mädchen Silverstar V Hallenschuhe  Weiß  WEISS/SILBER/LILA   32 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004A15HCG/?tag=tolees0ca-21'
 descuento: '32.45'
 average: '20.23'

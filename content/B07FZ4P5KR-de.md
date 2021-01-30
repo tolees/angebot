@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Tado Smartes Heizkörper-Thermostat  Duo Pack  Zusatzprodukte für Einzelraumsteuerung  intelligente Heizungssteuerung '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FZ4P5KR/?tag=tolees0ca-21'
 descuento: '33.34'
 average: '99.99'

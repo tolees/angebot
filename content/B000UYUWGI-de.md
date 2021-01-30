@@ -16,6 +16,7 @@ comparePrice: 15.7 EUR
 prodname: 'GEDORE E 620 H-1500 Ersatzstiel ROTBAND-Plus Hickory 280 mm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000UYUWGI/?tag=tolees0ca-21'
 descuento: '36.37'
 average: '9.99'

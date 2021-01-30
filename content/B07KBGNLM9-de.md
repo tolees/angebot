@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'VAUDE Damen Hose Women s Farley Stretch Pants II  abzippbare Wanderhose  eclipse  40/Short  045767504400'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KBGNLM9/?tag=tolees0ca-21'
 descuento: '41.83'
 average: '58.17'

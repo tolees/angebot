@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Oehlbach Powercord C13 / 150 - Netzkabel mit Schukostecker & Kaltgerätekupplung - Hochflexibel  hervorragende Kontaktsicherheit - 1 50 m - weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00C4TTLAK/?tag=tolees0ca-21'
 descuento: '39.46'
 average: '15.13'

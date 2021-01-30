@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'NSSZ Teddybär 6 Hand Büro Puppe Ornamente Puppe Spielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KKCWR8V/?tag=tolees0ca-21'
 descuento: '37.05'
 average: '16.99'

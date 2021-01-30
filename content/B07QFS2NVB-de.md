@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Funko 40243 POP Vinyl Animation: BT21-RJ BT21 RJ Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QFS2NVB/?tag=tolees0ca-21'
 descuento: '39.69'
 average: '9.905600000000005'

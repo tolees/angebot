@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'Kitchencraft Living Nostalgia Large Metal Bread Box Bin  Antique Cream'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00JKG7IGY/?tag=tolees0ca-21'
 descuento: '24.42'
 average: '36.27'

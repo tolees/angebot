@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'ORTHOPEO© Akupressur Einlegesohlen - Massage Magnetische Einlegesohle für Mann & Frau - Relaxed Feet - Orthopädische Insoles gegen Fußschmerzen | Schuheinlagen mit Wohlfühl-Effekt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MTGH1QD/?tag=tolees0ca-21'
 descuento: '40.10'
 average: '11.95'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'hummel Unisex Erwachsene Slimmer Stadil Tonal Low Sneaker'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M9GVS1B/?tag=tolees0ca-21'
 descuento: '42.47'
 average: '34.49'

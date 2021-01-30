@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Hugo Boss Damen Analog Quarz Uhr mit Edelstahl Armband 1502499'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VHW5K7H/?tag=tolees0ca-21'
 descuento: '39.12'
 average: '151.58'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Eichhorn buntes Spielcenter  Motorikwürfel mit Motorikschleife  Uhr  Motorikspiel  Drehspiel und 5 Steckbausteine  für Kinder ab 1 Jahr  Größe: 20x20x36 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000CSQ71G/?tag=tolees0ca-21'
 descuento: '15.01'
 average: '16.99'

@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'JBL E55BT Over Ear Bluetooth Kopfhörer - Wireless Headphones mit integriertem Headset - Musikgenuss für bis zu 20 Stunden Blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M64JZV5/?tag=tolees0ca-21'
 descuento: '18.69'
 average: '100.72428571428571'

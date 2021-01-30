@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Logitech G602 Wireless Gaming Maus  2500 DPI Sensor  11 Programmierbare Tasten  250 Stunden Akkulaufzeit  Benutzerdefinierte Spielprofile  Leichtgewicht  PC / Mac'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00ETPAEDU/?tag=tolees0ca-21'
 descuento: '55.56'
 average: '40.96666666666667'

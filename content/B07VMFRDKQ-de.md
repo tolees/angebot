@@ -16,6 +16,7 @@ comparePrice: 125.75 EUR
 prodname: 'Samsung Galaxy Buds SM-R170 I Kabellose Kopfhörer Silber I Bluetooth I In-Ear I Stereo-Sport Headphones'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VMFRDKQ/?tag=tolees0ca-21'
 descuento: '41.07'
 average: '79.91384615384614'

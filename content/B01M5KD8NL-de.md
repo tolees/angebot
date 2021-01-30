@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 12784 Actionfigur "Guardians O/T Galaxy 2: Star-Lord"  Modell sortiert '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M5KD8NL/?tag=tolees0ca-21'
 descuento: '42.82'
 average: '8.0'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Hasbro Disney Die Eiskönigin Feuergeist mit Schnee-Snack  Salamander Spielzeug mit Licht  inspiriert vom Disney Film Die Eiskönigin 2'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VYFMVJF/?tag=tolees0ca-21'
 descuento: '31.54'
 average: '16.594'

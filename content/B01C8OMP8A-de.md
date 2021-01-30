@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Bandai – Miraculous Ladybug – Verwandlungsset – Verkleiden – Rollenspiel – 39749'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01C8OMP8A/?tag=tolees0ca-21'
 descuento: '34.78'
 average: '19.5'

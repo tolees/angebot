@@ -16,6 +16,7 @@ comparePrice: 11.95 EUR
 prodname: 'miaX Profi Ceranfeldschaber - Ihr zuverlässiger Schaber für Küche und Haushalt - Stabiler Kochfeldschaber mit Soft-Touch Griff - Ersatzklingen im Glasschaber integriert'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076N2ZQJZ/?tag=tolees0ca-21'
 descuento: '16.74'
 average: '9.95'

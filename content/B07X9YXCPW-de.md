@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Smartwatch  YONMIG Fitness Armband Tracker Voller Touch Screen Uhr IP68 Wasserdicht Armbanduhr Smart Watch mit Schrittzähler Pulsmesser Stoppuhr für Damen Kinder Sportuhr für iOS Android  Rosa '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07X9YXCPW/?tag=tolees0ca-21'
 descuento: '24.03'
 average: '30.38'

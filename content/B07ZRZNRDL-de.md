@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'HUAWEI FreeBuds 3 kabellose Kopfhörer mit Active Noise Canceling  ultra schnelle Bluetooth-Verbindung  14mm Lautsprecher  kabelloses Aufladen  + 5EUR Amazon Gutschein  Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZRZNRDL/?tag=tolees0ca-21'
 descuento: '35.75'
 average: '115.0'

@@ -16,6 +16,7 @@ comparePrice: 9.97 EUR
 prodname: 'Ostwind - Aris Ankunft [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NRHS6DL/?tag=tolees0ca-21'
 descuento: '39.82'
 average: '7.7266666666666675'

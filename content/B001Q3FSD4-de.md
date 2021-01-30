@@ -16,6 +16,7 @@ comparePrice: 4.84 EUR
 prodname: '1/la-le-Lu'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001Q3FSD4/?tag=tolees0ca-21'
 descuento: '51.03'
 average: '2.37'

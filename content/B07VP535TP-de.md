@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Magnetisches Armband Werkzeug  Handwerker Magnetarmband mit 15 Starken Magneten zum Halten von Schrauben/Nägeln/Bohrern  Bestes Geschenk für Männer/Papa/Ehemann/Heimwerker/Gadgets'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VP535TP/?tag=tolees0ca-21'
 descuento: '63.39'
 average: '10.98'

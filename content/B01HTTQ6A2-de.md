@@ -16,6 +16,7 @@ comparePrice: 57.69 EUR
 prodname: 'Vileda Turbo EasyWring und Clean Komplett Set  mit Kraftfaser-Wischmop und Rotationseimer mit Powerschleuder'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01HTTQ6A2/?tag=tolees0ca-21'
 descuento: '42.33'
 average: '27.88'

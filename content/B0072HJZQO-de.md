@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Inter Link 13500020 Regal weiß Bücherregal Wandregal Aktenregal Büroregal Büro Wohnzimmer 2 Böden'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0072HJZQO/?tag=tolees0ca-21'
 descuento: '35.89'
 average: '31.99'

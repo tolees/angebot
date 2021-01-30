@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Dickie Toys RC Amphy Rider  ferngesteuertes Amphibien-Fahrzeug  2-Kanal-Funksteuerung  Allradantrieb  360-Grad-Drehung  20 cm  blau/weiß/gelb'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NSDS1QN/?tag=tolees0ca-21'
 descuento: '48.59'
 average: '17.99'

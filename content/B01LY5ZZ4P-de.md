@@ -16,6 +16,7 @@ comparePrice: 219.99 EUR
 prodname: 'SanDisk SSD PLUS 960GB Sata III 2 5 Zoll Interne SSD  bis zu 535 MB/Sek'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LY5ZZ4P/?tag=tolees0ca-21'
 descuento: '37.74'
 average: '136.96'

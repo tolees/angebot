@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'SteelSeries Arctis 7  Gaming Headset  verlustfreies und drahtloses  DTS Headphone:X v2.0 Surround für PC und PlayStation 4  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GFRPR2D/?tag=tolees0ca-21'
 descuento: '22.27'
 average: '139.9'

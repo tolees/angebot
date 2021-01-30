@@ -16,6 +16,7 @@ comparePrice: 8.76 EUR
 prodname: 'Ariel Color Flüssigwaschmittel Farbschutz  2 2 l   1er Pack  1 x 40 Waschladungen '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VKY4C2G/?tag=tolees0ca-21'
 descuento: '19.63'
 average: '7.04'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Wepro kompatibel mit AirPods Pro Hülle Abstrahlend 2019  Stoßfeste Silikon Schutzhülle für Apple Airpods 3 Case  mit karabiner  Front LED Sichtbar  Unterstützt kabelloses Laden  Nachtglühen Grün/Rosa'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0834KTSPW/?tag=tolees0ca-21'
 descuento: '40.04'
 average: '5.99'

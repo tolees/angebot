@@ -16,6 +16,7 @@ comparePrice: 59.45 EUR
 prodname: 'STEM Roboter Spielzeug Bausatz  351-tlg Bausatz für Ferngesteuerte Bildungsroboter für Kinder ab 8 Jahren  Wiederaufladbare Heimwerker Roboterbausätze  Großartiges Kreatives Geburtstagsgeschenk'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08DJYSPLZ/?tag=tolees0ca-21'
 descuento: '17.59'
 average: '48.99'

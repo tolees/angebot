@@ -16,6 +16,7 @@ comparePrice: 104.9 EUR
 prodname: 'Samsung MU-PA500R/EU  Portable SSD T5 500 GB USB 3.1 Externe SSD Rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QND4VZ6/?tag=tolees0ca-21'
 descuento: '25.84'
 average: '77.79'

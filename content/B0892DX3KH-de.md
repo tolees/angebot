@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Axloie Bluetooth Kopfhörer Sport in Ear Wireless Sportkopfhörer Bluetooth 5.0 HiFi Stereo Deep Bass IPX7 Wasserdicht 35 Stunden Mikrofon für Laufen Training Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0892DX3KH/?tag=tolees0ca-21'
 descuento: '33.34'
 average: '39.99'

@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Fisher-Price FXC66 - Schlummer Otter Spieluhr aus Plüsch beruhigender Musik  Licht und Atembewegungen  Einschlafhilfe für Babys  ab der Geburt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07N1JP56L/?tag=tolees0ca-21'
 descuento: '28.90'
 average: '31.99'

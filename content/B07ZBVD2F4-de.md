@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Diesel Herren Chronograph Quarz Uhr mit Edelstahl Armband DZ4525'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZBVD2F4/?tag=tolees0ca-21'
 descuento: '52.51'
 average: '132.51'

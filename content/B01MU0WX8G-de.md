@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Carlo Milano Wandschublade: Wandregal mit versteckter Schublade  40 x 5 x 25 cm  weiß  Regale '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MU0WX8G/?tag=tolees0ca-21'
 descuento: '47.49'
 average: '20.95'

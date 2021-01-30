@@ -16,6 +16,7 @@ comparePrice: 13.2 EUR
 prodname: 'Schwip Schwap  Das Original – Koffeinhaltiges Cola-Erfrischungsgetränk mit Orange  EINWEG Dose  24 x 330 ml '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VTRLTQC/?tag=tolees0ca-21'
 descuento: '26.59'
 average: '9.69'

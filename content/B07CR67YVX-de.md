@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lee Herren Daren Button Fly Jeans  Blau  Light Daze Zx   36W / 32L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CR67YVX/?tag=tolees0ca-21'
 descuento: '40.00'
 average: '59.97'

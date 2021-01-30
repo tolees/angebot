@@ -16,6 +16,7 @@ comparePrice: 198.0 EUR
 prodname: 'Elfcraft Lederarmband Herren Armband Meteorite Schwarz mit Echtem Meteoritenstein Zertifiziert Verschluss Echt Silber 925 Made in Germany-S'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0814SGLMP/?tag=tolees0ca-21'
 descuento: '50.05'
 average: '98.9'

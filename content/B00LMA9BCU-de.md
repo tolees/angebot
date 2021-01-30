@@ -16,6 +16,7 @@ comparePrice: 2.79 EUR
 prodname: 'Disney 84624 Frozen Papier Servietten  20 Stück mit Sommer Olaf  Multi-Colored'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00LMA9BCU/?tag=tolees0ca-21'
 descuento: '64.16'
 average: '1'

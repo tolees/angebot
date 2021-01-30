@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Playmobil 70090 Family Fun Wassersport-Schule  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JLFKJTC/?tag=tolees0ca-21'
 descuento: '32.01'
 average: '11.425'

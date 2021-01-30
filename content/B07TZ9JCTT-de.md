@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Design Fahrradzubehör | Fahrradhalter Wand | Fahrrad Wandhalterung | Rennrad Halter | BIKE HOOKS | Holz | Rundstäbe | Buche  Esche  Nuss'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TZ9JCTT/?tag=tolees0ca-21'
 descuento: '20.04'
 average: '39.9'

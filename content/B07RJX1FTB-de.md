@@ -16,6 +16,7 @@ comparePrice: 899 EUR
 prodname: 'Philips Ambilight 55PUS6814/12 139 cm  55 Zoll  Smart TV mit Alexa-Integration  4K UHD  P5 Perfect Picture Engine  HDR 10+  Dolby Vision  Dolby Atmos  HDMI '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RJX1FTB/?tag=tolees0ca-21'
 descuento: '44.38'
 average: '499.99'

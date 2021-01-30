@@ -16,6 +16,7 @@ comparePrice: 103.99 EUR
 prodname: 'Masthome 10pcs Edelstahl Kochgeschirr Set Kochtopf und Bratpfanne Edelstahl mit Stahlabdeckung Topfset Induktionsgeeignet mit 5 Messlöffel 3 Spatel und 5 Lappen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07V68DQGV/?tag=tolees0ca-21'
 descuento: '60.58'
 average: '40.99'

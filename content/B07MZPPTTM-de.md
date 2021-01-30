@@ -16,6 +16,7 @@ comparePrice: 12.5 EUR
 prodname: 'Funko POP! Vinyl: Dragonball Z S6: Kid Buu  Mehrfarben  Einheitsgröße'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MZPPTTM/?tag=tolees0ca-21'
 descuento: '33.92'
 average: '9.272499999999999'

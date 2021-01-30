@@ -16,6 +16,7 @@ comparePrice: 5.0 EUR
 prodname: '99AMZ Handyhalter fürs Auto & Handy Ring Halter | 2 in 1 Innovative Design | Multifunktion Autohalterung Lüftung Lüftungsschlitz Belüftung KFZ Phone Halterung Handy Halter für Smartphones  Blau '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZMZHQ3T/?tag=tolees0ca-21'
 descuento: '40.20'
 average: '2.99'

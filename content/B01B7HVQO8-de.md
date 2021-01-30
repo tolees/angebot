@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Bosch MUM5 CreationLine Küchenmaschine MUM58020  vielseitig einsetzbar  große Edelstahl-Schüssel  3 9l   Mixer  Durchlaufschnitzler  1000 W  Rot Diamond/Silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01B7HVQO8/?tag=tolees0ca-21'
 descuento: '36.39'
 average: '235.6125'

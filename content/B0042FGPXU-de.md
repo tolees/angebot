@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Urban Classics TB207 Herren Jacke Bekleidung 2 Tone College Sweatjacket  Black/White  L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0042FGPXU/?tag=tolees0ca-21'
 descuento: '31.64'
 average: '34.11'

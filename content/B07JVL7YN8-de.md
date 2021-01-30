@@ -16,6 +16,7 @@ comparePrice: 22.27 EUR
 prodname: 'Komake Überraschung Box  Explosion Box  DIY Geschenk Scrapbook und Foto-Album für Weihnachten/Valentine/Jahrestag/Geburtstag/Hochzeit  Schwarz '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JVL7YN8/?tag=tolees0ca-21'
 descuento: '41.67'
 average: '13.06142857142857'

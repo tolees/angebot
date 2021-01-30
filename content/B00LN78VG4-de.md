@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'TFA Dostmann 50.1002.01 Samba Körper-Analysewaage mit Trittfläche'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00LN78VG4/?tag=tolees0ca-21'
 descuento: '47.93'
 average: '24.99'

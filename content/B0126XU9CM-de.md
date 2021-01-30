@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Maxesla Bluetooth USB 4.0 Dongle Empfänger Bluetooth für Windows 10/ 8/ 7/ Vista/ XP  Unterstützt Bluetooth Kopfhörer  Maus  Tastatur  Druckern Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0126XU9CM/?tag=tolees0ca-21'
 descuento: '43.78'
 average: '9.367777777777778'

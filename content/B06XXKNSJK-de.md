@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Philips YKF406-003 996596006068 Original-Fernbedienung für 32PHS5301  32PHT5301  32PHT5302  65PUT6121  65PUS6121 | Neuware'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XXKNSJK/?tag=tolees0ca-21'
 descuento: '44.42'
 average: '11.57'

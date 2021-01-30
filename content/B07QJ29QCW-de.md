@@ -16,6 +16,7 @@ comparePrice: 13.53 EUR
 prodname: 'Funko B07QJ29QCW POP Vinyl Games Bandicoot-Crash Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QJ29QCW/?tag=tolees0ca-21'
 descuento: '22.91'
 average: '12.766666666666666'

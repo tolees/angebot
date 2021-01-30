@@ -16,6 +16,7 @@ comparePrice: 30.5 EUR
 prodname: 'Piatnik 6012 - Activity Junior'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0000TZ6HI/?tag=tolees0ca-21'
 descuento: '50.85'
 average: '14.790000000000001'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'HABA 304697 - Tal der Wikinger  Kinderspiel des Jahres 2019  Spiel ab 6 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Q8SMDPJ/?tag=tolees0ca-21'
 descuento: '66.64'
 average: '10.746428571428572'

@@ -16,6 +16,7 @@ comparePrice: 4.47 EUR
 prodname: 'Playmobil 6150 - Star-Shooting'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00O4E3H0S/?tag=tolees0ca-21'
 descuento: '31.32'
 average: '3.07'

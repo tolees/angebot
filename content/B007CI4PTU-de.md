@@ -16,6 +16,7 @@ comparePrice: 15.6 EUR
 prodname: 'Nestlé KITKAT Schoko-Riegel  Milch-Schokolade  Großpackung  24er Pack  24 x 41 5g '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007CI4PTU/?tag=tolees0ca-21'
 descuento: '23.21'
 average: '9.986666666666668'

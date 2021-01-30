@@ -16,6 +16,7 @@ comparePrice: 195.0 EUR
 prodname: 'Scuderia Ferrari Herren Multi Zifferblatt Quarz Uhr mit Edelstahl Armband 830535'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FYN167T/?tag=tolees0ca-21'
 descuento: '34.89'
 average: '126.97'

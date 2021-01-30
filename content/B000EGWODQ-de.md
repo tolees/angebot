@@ -16,6 +16,7 @@ comparePrice: 1.82 EUR
 prodname: 'Varta V381 Knopfzelle  45mAh  1 Stück '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000EGWODQ/?tag=tolees0ca-21'
 descuento: '66.48'
 average: '0.61'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Echo Dot  3. Gen.  Intelligenter Lautsprecher mit Alexa  Lila Stoff'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WLTKTXY/?tag=tolees0ca-21'
 descuento: '50.01'
 average: '29.99'

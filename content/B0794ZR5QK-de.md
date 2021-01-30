@@ -16,6 +16,7 @@ comparePrice: 929.0 EUR
 prodname: 'Philips Ambilight 65PUS7303/12 Fernseher 164 cm  65 Zoll  LED Smart TV  4K UHD  HDR Plus  Micro Dimming Pro  Android TV  Google Assistant '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0794ZR5QK/?tag=tolees0ca-21'
 descuento: '37.57'
 average: '580.0'

@@ -16,6 +16,7 @@ comparePrice: 7.79 EUR
 prodname: 'Advanced Chemistry'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01GF9NTR0/?tag=tolees0ca-21'
 descuento: '37.10'
 average: '4.9'

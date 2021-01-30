@@ -16,6 +16,7 @@ comparePrice: 88.76 EUR
 prodname: 'Creative Sound Blaster ROAR Pro - tragbarer Bluetooth-Lautsprecher  NFC-Funktion  AAC  aptX  5 Treiber  integrierter Subwoofer  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B016EYK1C2/?tag=tolees0ca-21'
 descuento: '27.31'
 average: '64.52'

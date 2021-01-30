@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Lenovo Tab M10 25 5 cm  10 1 Zoll  1920x1200  FHD  IPS  Touch  Tablet-PC  Octa-Core  2 GB RAM  16 GB eMCP  WLAN  Android Oreo  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07LCVQPL8/?tag=tolees0ca-21'
 descuento: '19.28'
 average: '160.63'

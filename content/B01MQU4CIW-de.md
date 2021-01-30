@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Hasbro Spiele C0376100 - Rudi Reck  Kinderspiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MQU4CIW/?tag=tolees0ca-21'
 descuento: '60.33'
 average: '12.995'

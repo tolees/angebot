@@ -16,6 +16,7 @@ comparePrice: 11.69 EUR
 prodname: 'Original Album Classics'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00RVD8CX6/?tag=tolees0ca-21'
 descuento: '32.93'
 average: '7.84'

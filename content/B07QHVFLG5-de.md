@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'KFD 19V 65W Power Adapter Netzteil Ladegerät für Intel NUC FSP065-10AABA Barebone System Mini PC NUC8I7BEH NUC8i5BEH NUC8i5BEK NUC7I7BNH NUC7I5BNK NUC7i5BNH NUC5CPYH NUC5i7RYH NUC6i3SYH NUC6CAYH'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QHVFLG5/?tag=tolees0ca-21'
 descuento: '62.63'
 average: '22.715'

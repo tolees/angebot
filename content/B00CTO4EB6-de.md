@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Inter Link 99200250 Regalbox Regalkorb Aufbewahrungsbox Schrankbox Box Würfel faltbar Regal weiß NEU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00CTO4EB6/?tag=tolees0ca-21'
 descuento: '15.50'
 average: '6.374'

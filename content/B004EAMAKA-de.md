@@ -16,6 +16,7 @@ comparePrice: 14.49 EUR
 prodname: 'Lillet Blanc Aperitif – Fruchtiger französischer Weinaperitif aus 85% Weinen und 15% Fruchtlikören – 1 x 0 75 L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004EAMAKA/?tag=tolees0ca-21'
 descuento: '24.15'
 average: '10.99'

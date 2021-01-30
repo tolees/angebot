@@ -16,6 +16,7 @@ comparePrice: 429.99 EUR
 prodname: 'motorola one zoom mit Alexa Hands-Free Smartphone  6 4-Zoll-FHD+Display  Vierfach-Kamerasystem; 128 GB/4 GB  Android 9 Pie  Dual-SIM-Smartphone   Grau-Metallic + Headset + Schutzcover'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VGLKHWP/?tag=tolees0ca-21'
 descuento: '30.23'
 average: '311.99'

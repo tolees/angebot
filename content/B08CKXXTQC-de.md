@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'LED Strips 20M HEERTTOGO LED Streifen RGB mit Bluetooth Musikalische LED Lichtband Dynamischer Musikmodus mit Mikrofon APP Steuerung Fernbedienung 23 Tasten16 Millionen Farben Led lichterkette'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08CKXXTQC/?tag=tolees0ca-21'
 descuento: '19.57'
 average: '36.99'

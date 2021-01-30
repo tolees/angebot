@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Tieflochmarker Pica Dry Trockenmarker 2 8mm Graphit 2er Pack'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00NDJ08RA/?tag=tolees0ca-21'
 descuento: '18.16'
 average: '20.42'

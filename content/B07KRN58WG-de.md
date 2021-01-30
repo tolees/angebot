@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Play-Doh A5417EU8 Glitzerknete für fantasievolles und kreatives Spielen  Multicolor'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KRN58WG/?tag=tolees0ca-21'
 descuento: '39.82'
 average: '5.41'

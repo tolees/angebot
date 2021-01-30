@@ -16,6 +16,7 @@ comparePrice: 14.87 EUR
 prodname: 'walther design WD030S Chloe Portraitrahmen 20 x 30 cm  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00APUXOTE/?tag=tolees0ca-21'
 descuento: '22.73'
 average: '11.49'

@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'AKASO Action Cam/4K/30fps 20MP Action Camera mit Touchscreen  30m Unterwasserkamera/helmkamera Fernbedienung EIS LCD Zeitraffer Slow Motion Akku Zubehör'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CPM8TZ4/?tag=tolees0ca-21'
 descuento: '33.34'
 average: '79.99'

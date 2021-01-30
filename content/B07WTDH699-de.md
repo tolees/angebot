@@ -16,6 +16,7 @@ comparePrice: 256.19 EUR
 prodname: 'Seiko Herren Analog Automatik Uhr mit Silikon Armband SRPD65K2'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WTDH699/?tag=tolees0ca-21'
 descuento: '24.67'
 average: '193.0'

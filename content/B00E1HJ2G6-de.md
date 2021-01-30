@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'Diesel Herren-Uhr DZ4297'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00E1HJ2G6/?tag=tolees0ca-21'
 descuento: '61.32'
 average: '92.44'

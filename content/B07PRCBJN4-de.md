@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Kipling Damen Osyka Umhängetasche  Pink  Metallic Rose Gift   21x15x3.2 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PRCBJN4/?tag=tolees0ca-21'
 descuento: '30.00'
 average: '48.3'

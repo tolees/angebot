@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Anita Comfort Damen Komfort Entlastungs Safina BH  Weiß  weiß   85D'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00CTGNRRG/?tag=tolees0ca-21'
 descuento: '46.47'
 average: '32.09'

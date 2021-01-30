@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Kohlenmonoxid Warnmelder LCD Anzeige CO Melder 85Db Alarm Kohlenmonoxidsensor Kohlenmonoxid Melder mit Prüftaste Batteriebetrieb'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YFF5TD8/?tag=tolees0ca-21'
 descuento: '21.22'
 average: '25.99'

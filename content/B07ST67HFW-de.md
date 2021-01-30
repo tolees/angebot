@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Hue White & Col. Amb. Sana Wandleuchte schwarz 1500lm Bluetooth'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ST67HFW/?tag=tolees0ca-21'
 descuento: '20.29'
 average: '135.5'

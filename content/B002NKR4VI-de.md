@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Melitta Caffeo Solo E950-103 Schlanker Kaffeevollautomat mit Vorbrühfunktion | 15 Bar | LED-Display | höhenverstellbarer Kaffeeauslauf | Herausnehmbare Brühgruppe |Silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002NKR4VI/?tag=tolees0ca-21'
 descuento: '37.37'
 average: '249.9'

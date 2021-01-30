@@ -16,6 +16,7 @@ comparePrice: 46.16 EUR
 prodname: 'Cullmann Neomax Reisestativ mit geringem Packmaß  28 5 cm   leicht  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M0SLO42/?tag=tolees0ca-21'
 descuento: '19.93'
 average: '36.96'

@@ -16,6 +16,7 @@ comparePrice: 11.48 EUR
 prodname: 'Funko 37707 POP & Buddy Vinyl Men In Black Agent K & Neeble Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KPT1H46/?tag=tolees0ca-21'
 descuento: '40.85'
 average: '12.161052631578947'

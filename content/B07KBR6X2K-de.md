@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'The Verdict  Ltd. 2CD Box Set '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KBR6X2K/?tag=tolees0ca-21'
 descuento: '30.01'
 average: '16.79'

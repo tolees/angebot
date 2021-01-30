@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Soundcore Wakey Bluetooth Lautsprecher  Powered by Anker mit 10W Schnellladetechnologie  Wecker-Funktion  Stereo Sound  FM Radio  QI Kabelloses Laden für 7 5W iPhone Ladungen  Weiß '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VCKF619/?tag=tolees0ca-21'
 descuento: '46.88'
 average: '61.239999999999995'

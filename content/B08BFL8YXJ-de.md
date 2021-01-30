@@ -16,6 +16,7 @@ comparePrice: 50.99 EUR
 prodname: 'Ynigimy Bluetooth Kopfhörer In Ear  Kabellose Kopfhörer mit intensivem Bass TWS Bluetooth 5.0 Headset True Wireless Earbuds mit Mikrofon und Tragbare Ladehülle'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08BFL8YXJ/?tag=tolees0ca-21'
 descuento: '43.15'
 average: '28.99'

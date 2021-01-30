@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Winzwon Smartwatch  Fitness Armband  wasserdichte Touchscreen Smart Watch mit Schrittzähler Pulsuhren Stoppuhr  Fitness Tracker Sportuhr für iOS Android Handy  Geeignet für Damen und Herren '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZFDXYVX/?tag=tolees0ca-21'
 descuento: '32.51'
 average: '26.99'

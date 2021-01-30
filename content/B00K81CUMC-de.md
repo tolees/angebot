@@ -16,6 +16,7 @@ comparePrice: 8.9 EUR
 prodname: 'Desinfektionsmittel Hand 100ml - Hände Desinfektionsmittel für unterwegs - Pflegende Handdesinfektion mit Aloe Vera - Desinfektionsgel Alternative'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00K81CUMC/?tag=tolees0ca-21'
 descuento: '43.93'
 average: '5.945'

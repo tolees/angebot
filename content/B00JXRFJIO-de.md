@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'LECHUZA CUBICO Premium 40  Taupe Hochglanz  Hochwertiger Kunststoff  Inkl. Bewässerungssystem  Herausnehmbarer Pflanzeinsatz  Für Innenraumbegrünung  18215'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00JXRFJIO/?tag=tolees0ca-21'
 descuento: '29.54'
 average: '105.68'

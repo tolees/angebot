@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Western Digital WD My Passport externe Festplatte 4 TB  mobiler Speicher  schlankes Design  WD Discovery Software  automatische Backups  Passwortschutz  Schwarz - auch kompatibel mit PC  Xbox und PS4'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VTW2LPX/?tag=tolees0ca-21'
 descuento: '16.67'
 average: '99.99'

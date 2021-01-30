@@ -16,6 +16,7 @@ comparePrice: 28.95 EUR
 prodname: 'Call Of Cthulhu [Playstation 4]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CG1R3VF/?tag=tolees0ca-21'
 descuento: '44.77'
 average: '15.99'

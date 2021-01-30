@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Ni no Kuni: Der Fluch der Weißen Königin - [Nintendo Switch]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07T16KRFG/?tag=tolees0ca-21'
 descuento: '15.00'
 average: '33.99'

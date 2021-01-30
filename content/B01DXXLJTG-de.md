@@ -16,6 +16,7 @@ comparePrice: 12.92 EUR
 prodname: 'Metroid Prime: Federation Force [3DS]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01DXXLJTG/?tag=tolees0ca-21'
 descuento: '22.68'
 average: '9.99'

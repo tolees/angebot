@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Bumblebee [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07LDNGM5Y/?tag=tolees0ca-21'
 descuento: '47.05'
 average: '5.29'

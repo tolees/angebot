@@ -16,6 +16,7 @@ comparePrice: 999 EUR
 prodname: 'Acer TravelMate X3410  TMX3410-MG-50LB  35 6 cm  14 Zoll Full-HD IPS matt  Office Laptop  Intel Core i5-8250U  8 GB RAM  512 GB SSD  NVIDIA GeForce MX130  Win 10 Home  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GJG8XPM/?tag=tolees0ca-21'
 descuento: '64.36'
 average: '356'

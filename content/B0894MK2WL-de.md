@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Zorara LED TV Hintergrundbeleuchtung  LED Strip USB 3M mit Fernbedienung  RGB LED Fernseher Beleuchtung für 46-65 Zoll HDTV PC Bildschirm  LED Streifen TV IP65 Wasserdicht Musik Lichtband'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0894MK2WL/?tag=tolees0ca-21'
 descuento: '17.66'
 average: '14.656666666666666'

@@ -16,6 +16,7 @@ comparePrice: 132.1 EUR
 prodname: 'Sony SRS-XB41 kabelloser Bluetooth Lautsprecher  tragbar  mehrfarbige Lichtleiste  Lautsprecherbeleuchtung  Stroboskoplicht  NFC  kompatibel mit Party Chain  Freisprechfunktion für Anrufe  blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078WT1FK4/?tag=tolees0ca-21'
 descuento: '25.06'
 average: '121.0'

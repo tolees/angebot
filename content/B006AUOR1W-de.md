@@ -16,6 +16,7 @@ comparePrice: 114.09 EUR
 prodname: 'Thetford 92828 Porta Potti 335 Tragbare Toilette Qube  Weiß-Grau 313 x 342 x 382 mm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B006AUOR1W/?tag=tolees0ca-21'
 descuento: '38.69'
 average: '69.95'

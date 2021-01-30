@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Tommy Jeans Herren Causal Sneaker  Weiß  White Ybs   40 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07V2J34NM/?tag=tolees0ca-21'
 descuento: '63.18'
 average: '33.1'

@@ -16,6 +16,7 @@ comparePrice: 22.85 EUR
 prodname: 'BIO Ahornsirup Grad A  Dark  Robust taste  - 1 Liter  1 320 Kg  – GLUTEN FREE - VEGAN - Organic Maple Syrup - BIO Ahornsirup - ahornsirup Kanada - pancake sirup - ahorn sirup - reiner ahornsirup'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01HXTLSHO/?tag=tolees0ca-21'
 descuento: '24.99'
 average: '17.14'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Microsoft Sculpt Comfort Mouse  Maus  schwarz  ergonomisch  kabellos über Bluetooth '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00CHGQ4SM/?tag=tolees0ca-21'
 descuento: '18.75'
 average: '30.293333333333333'

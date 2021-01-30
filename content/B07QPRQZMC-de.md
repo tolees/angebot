@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'EIVOTOR 6 in 1 Flaschenwärmer Baby Bottle Warmer Babykostwärmer Doppelt Dampfsterilisator Flaschen Sterilisator Milchwärmer mit Timer  Warmhaltefunktion  Auftauen für Babyflaschen und Schnuller'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QPRQZMC/?tag=tolees0ca-21'
 descuento: '26.21'
 average: '36.89'

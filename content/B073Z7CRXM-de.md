@@ -16,6 +16,7 @@ comparePrice: 20.9 EUR
 prodname: 'PETKIT P008 Reiseflasche EVERSWEET Travel One-Touch  grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B073Z7CRXM/?tag=tolees0ca-21'
 descuento: '42.97'
 average: '11.92'

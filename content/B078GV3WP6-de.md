@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'beyerdynamic professionelles FOX USB Mikrofon für Heimstudios und unterwegs Großmembran-Kondensator-Kapsel mit Nierencharakteristik'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078GV3WP6/?tag=tolees0ca-21'
 descuento: '41.90'
 average: '109.625'

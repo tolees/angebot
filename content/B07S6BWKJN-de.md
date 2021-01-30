@@ -16,6 +16,7 @@ comparePrice: 1219.0 EUR
 prodname: 'Dell Inspiron - 15 6" - i7 - 32GB RAM - 1000GB SSD - Windows 10 Pro - Office 2019 Pro #mit Funkmaus +Notebooktasche'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07S6BWKJN/?tag=tolees0ca-21'
 descuento: '49.96'
 average: '610.0'

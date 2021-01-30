@@ -16,6 +16,7 @@ comparePrice: 14.79 EUR
 prodname: 'Der fliegende Holländer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00JXZF95E/?tag=tolees0ca-21'
 descuento: '32.45'
 average: '9.99'

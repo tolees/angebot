@@ -16,6 +16,7 @@ comparePrice: 329.0 EUR
 prodname: 'Landmann Gasgrillwagen 12220  emaillierte Brennerabdeckungen  126 x 110 x 56 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B019OUUNR6/?tag=tolees0ca-21'
 descuento: '46.81'
 average: '175.01'

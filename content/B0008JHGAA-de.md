@@ -16,6 +16,7 @@ comparePrice: 15.87 EUR
 prodname: 'Kodak Portra 800 135-36 Farbfilm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0008JHGAA/?tag=tolees0ca-21'
 descuento: '32.39'
 average: '10.73'

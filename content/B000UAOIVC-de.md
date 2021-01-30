@@ -16,6 +16,7 @@ comparePrice: 90.7 EUR
 prodname: 'WMF Perfect Schnellkochtopf Induktion  Dampfkochtopf 4 5l  22 cm  Cromargan Edelstahl poliert  2 Kochstufen  Einhand-Kochstufenregler'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000UAOIVC/?tag=tolees0ca-21'
 descuento: '23.94'
 average: '68.99'

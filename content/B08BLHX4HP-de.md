@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Bluetooth Kopfhörer  In-Ear Kabellose Kopfhörer  Noise Cancelling Sport-3D-Stereo-Kopfhörer  mit 24H Ladekästchen und Integriertem Mikrofon für iPhone/Android/Samsung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08BLHX4HP/?tag=tolees0ca-21'
 descuento: '55.87'
 average: '30.963333333333335'

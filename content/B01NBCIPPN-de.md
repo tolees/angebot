@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 4717 Movie S1 No Actionfigur The Godfather: Fredo Corleone  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01NBCIPPN/?tag=tolees0ca-21'
 descuento: '50.54'
 average: '9.1975'

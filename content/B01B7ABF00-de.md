@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Sony BDP-S1700 Blu-ray-Player  USB  Ethernet  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B01B7ABF00/?tag=tolees0ca-21'
 descuento: '27.79'
 average: '66.8298979591837'
@@ -27,10 +28,10 @@ Es gibt ein [Sony BDP-S1700 Blu-ray-Player  USB  Ethernet  schwarz](https://www.
 
 ℹ️:
 
-- Brillante Wiedergabe von High Quality Video in Full HD 1080p
 - Online-Dienste für das erweiterte Heimkino-Erlebnis mit dem Ethernet-Eingang. Stromverbrauch: 8,5 W
-- Geniessen Sie Ihre Lieblingsfilme und Musik via USB Play
-- Lieferumfang: Sony BDP-S1700 Blu-ray-Player schwarz
 - Catch up TV und Video on Demand mit dem Zugriff auf über 300 Apps inkl. Amazon Instant Video
+- Lieferumfang: Sony BDP-S1700 Blu-ray-Player schwarz
+- Brillante Wiedergabe von High Quality Video in Full HD 1080p
+- Geniessen Sie Ihre Lieblingsfilme und Musik via USB Play
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01B7ABF00/?tag=tolees0ca-21)

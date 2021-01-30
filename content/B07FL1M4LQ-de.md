@@ -16,6 +16,7 @@ comparePrice: 3299.0 EUR
 prodname: 'Apple MacBook Pro  15"  Vorgängermodell  16GB RAM  512GB Speicherplatz  - Space Grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FL1M4LQ/?tag=tolees0ca-21'
 descuento: '35.91'
 average: '2130.7999999999997'

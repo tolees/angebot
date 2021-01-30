@@ -16,6 +16,7 @@ comparePrice: 14.85 EUR
 prodname: 'AGT Staubsaugerdüse: 3er-Set Universal-Staubsauger-Aufsätze mit 30 flexiblen Saug-Röhrchen  Tastatur Reiniger '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QHTQYJ9/?tag=tolees0ca-21'
 descuento: '33.00'
 average: '9.95'

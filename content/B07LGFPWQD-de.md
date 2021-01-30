@@ -16,6 +16,7 @@ comparePrice: 179.9 EUR
 prodname: 'HONOR Smartwatch im klassischen Uhrendesign mit 3 cm  1 2 Zoll  AMOLED Display  Meteorite Black + Rotes Silikon'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07LGFPWQD/?tag=tolees0ca-21'
 descuento: '44.97'
 average: '103.87'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'LED TV Hintergrundbeleuchtung  MustWin 3M USB LED Beleuchtung für 32-60 Zoll RGBW Strip Dimmbar mit RF-Ferbedienung 6000K Kaltweiß  6 Modi 20 Farben DIY Farbwechsel mit Memoryfunktion für Fernseher PC'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B089SKQL9J/?tag=tolees0ca-21'
 descuento: '42.32'
 average: '14.99'

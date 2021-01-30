@@ -16,6 +16,7 @@ comparePrice: 799.0 EUR
 prodname: 'Acer Nitro 5  AN515-43-R90F  39 6 cm  15 6 Zoll 144Hz Full-HD IPS matt  Gaming Notebook  AMD Ryzen 5 3550H  8 GB RAM  512 GB PCIe SSD  AMD Radeon RX 560X  Win 10  schwarz aluminium'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RJYCNQ6/?tag=tolees0ca-21'
 descuento: '38.67'
 average: '431.25'

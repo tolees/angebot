@@ -16,6 +16,7 @@ comparePrice: 6.88 EUR
 prodname: 'Funko 41965 POP Vinyl: Filme: Silence of Lambs-Hannibal Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PBBYT46/?tag=tolees0ca-21'
 descuento: '18.17'
 average: '6.148571428571429'

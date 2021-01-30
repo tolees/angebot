@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'TOM TAILOR Herren Poloshirts Basic Poloshirt Sky Captain Blue L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B082WKQSWF/?tag=tolees0ca-21'
 descuento: '28.21'
 average: '14.35'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Tado Smartes Heizkörper-Thermostat  Zusatzprodukt für Einzelraumsteuerung  intelligente Heizungssteuerung '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LXPJG23/?tag=tolees0ca-21'
 descuento: '23.74'
 average: '61.0'

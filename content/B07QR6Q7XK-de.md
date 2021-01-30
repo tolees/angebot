@@ -16,6 +16,7 @@ comparePrice: 37.89 EUR
 prodname: 'Madden NFL 20 - Standard Edition - [PlayStation 4]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QR6Q7XK/?tag=tolees0ca-21'
 descuento: '20.85'
 average: '29.99'

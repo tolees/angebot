@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'MP3 Player  Bluetooth 8GB MP3 Player mit Kopfhörern  Digital Kinder MP3 Player mit Lautsprecher FM Radio Voice Recorder unterstützt erweiterbar Max bis zu 128G  Kopfhörer und Sport Armband enthalten'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FNL9GKN/?tag=tolees0ca-21'
 descuento: '47.51'
 average: '20.99'

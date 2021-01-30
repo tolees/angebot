@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'SAMSONITE PRO-DLX 5 - Bailhandle Erweiterbar für 17.3" Laptop - 24.5/31L  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DLZM5JQ/?tag=tolees0ca-21'
 descuento: '30.14'
 average: '152.99'

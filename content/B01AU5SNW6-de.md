@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Bosch Professional 5 tlg. Hammerbohrer SDS Plus-7X Set  für Beton und Mauerwerk  Robust Line  Zubehör Bohrhammer '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01AU5SNW6/?tag=tolees0ca-21'
 descuento: '43.29'
 average: '14.74'

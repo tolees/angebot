@@ -16,6 +16,7 @@ comparePrice: 21.85 EUR
 prodname: 'DARLINGTON & Sohns Schwarzer Controller für Nintendo 64 N64 USB Anschluss PC Computer Joystick Schwarz Gamepad Joypad'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08F3RJ2YP/?tag=tolees0ca-21'
 descuento: '18.76'
 average: '17.75'

@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'DOMISO 17 Zoll Wasserdicht Laptop Tasche Tragetasche Schultertasche Aktentasche mit USB Ladeanschluss für 17-17.3" Notebook/Dell/Lenovo/Acer/HP/MSI/ASUS  Dunkelgrau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YP5SLGF/?tag=tolees0ca-21'
 descuento: '22.59'
 average: '23.99'

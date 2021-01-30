@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'HAPPYPO Po-Dusche 2.0  Weiß   ersetzt Feuchttücher & Dusch-WC  Mobiles Bidet  inc. Reisebeutel - sanft  gründlich  spart Papier - gut bei Hämorrhoiden  Reizdarm - Bekannt aus „Höhle der Löwen“'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GBS74KF/?tag=tolees0ca-21'
 descuento: '28.91'
 average: '14.21'

@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Anki 000-00060 Cozmo Carry Case Transporttasche  Mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B073HTKFGV/?tag=tolees0ca-21'
 descuento: '22.89'
 average: '26.98'

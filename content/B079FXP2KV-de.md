@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Samsung Clear View Standing Cover  EF-ZG960  für das Galaxy S9  Violett'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079FXP2KV/?tag=tolees0ca-21'
 descuento: '86.21'
 average: '12.350000000000001'

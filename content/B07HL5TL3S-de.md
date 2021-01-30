@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Skagen Smartwatch SKT5100'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HL5TL3S/?tag=tolees0ca-21'
 descuento: '66.89'
 average: '105.78'

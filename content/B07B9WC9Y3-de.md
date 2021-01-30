@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'SAGE SCG600 the Dose Control Kaffeemühle für Press- oder Filterkaffee  Silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B9WC9Y3/?tag=tolees0ca-21'
 descuento: '32.50'
 average: '134.99'

@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'iEFiEL Damen Prinzessin Kostüm Königin Partykleid Bodenlang Rundausschnitt Pailletten Kleid Fasching Cosplay Karneval Weihnachten Party Blau Medium'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07LGSWDS4/?tag=tolees0ca-21'
 descuento: '49.14'
 average: '23.39'

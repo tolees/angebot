@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Replay Herren Anbass Slim Jeans  Blau  Mid Blue 9   W30/L32'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075M8V4FN/?tag=tolees0ca-21'
 descuento: '39.44'
 average: '59.95'

@@ -16,6 +16,7 @@ comparePrice: 37.93 EUR
 prodname: 'Funko 39547 POP Vinyl Squarepants S3: Spongebob w/Pineapple Sammelbares Spielzeug  Mehrfarben  Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NSN6R2X/?tag=tolees0ca-21'
 descuento: '20.93'
 average: '35.501111111111115'

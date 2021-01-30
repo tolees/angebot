@@ -16,6 +16,7 @@ comparePrice: 42.5 EUR
 prodname: 'Brüder Mannesmann Werkzeug Mannesmann 87-teiliger Werkzeugkoffer  M29084'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M8G4JVD/?tag=tolees0ca-21'
 descuento: '20.02'
 average: '33.99'

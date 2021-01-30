@@ -16,6 +16,7 @@ comparePrice: 272.49 EUR
 prodname: 'Samsung CLT-P504C Multipack  schwarz  Cyan  Magenta  Gelb  Original Toner'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MTV1W4D/?tag=tolees0ca-21'
 descuento: '21.26'
 average: '214.55'

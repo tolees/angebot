@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Lammcou Schutz Hülle Set für Nintendo Switch Lite 2019  Flüssigkeit Silikon Switch Lite Case & 9H Panzerglas Displayschutzfolie & Thumb Grip Kappen für Nintendo Switch Lite Case Grip - Gelb'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07K8GQV6S/?tag=tolees0ca-21'
 descuento: '33.34'
 average: '19.99'

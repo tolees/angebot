@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Funko 4851 S6 No Actionfigur Game of Thrones: Rhaegal  Multi  6 Zoll'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00TQ8SLLC/?tag=tolees0ca-21'
 descuento: '52.33'
 average: '11.486'

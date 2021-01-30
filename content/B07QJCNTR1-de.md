@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Zapf Creation 960202 Elli Smiles Puppe mit Funktion und Emotionen  43 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QJCNTR1/?tag=tolees0ca-21'
 descuento: '57.78'
 average: '37.99'

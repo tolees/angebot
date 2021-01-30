@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Intenso USB-Stick Ultra Line 256 GB USB 3.0'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VB29GFY/?tag=tolees0ca-21'
 descuento: '46.07'
 average: '19.41'

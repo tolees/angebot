@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Bosch Akku Kettensäge Universalchain 18  1 Akku  18 Volt System  im Karton '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077T6QTZG/?tag=tolees0ca-21'
 descuento: '42.00'
 average: '113.49'

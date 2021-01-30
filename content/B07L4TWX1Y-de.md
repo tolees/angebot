@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'SVITA TM2X15 Treteimer 30 Liter  2x15L  oder 54 Liter  3x18L  Abfalleimer Mülleimer Design Mülltrennung Edelstahl  30 Liter  2x15L  '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07L4TWX1Y/?tag=tolees0ca-21'
 descuento: '16.69'
 average: '49.9'

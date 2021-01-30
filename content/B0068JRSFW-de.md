@@ -16,6 +16,7 @@ comparePrice: 28.89 EUR
 prodname: 'Ravensburger – 22099 – Lernspiel – Memory  Dinosaurier'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0068JRSFW/?tag=tolees0ca-21'
 descuento: '27.35'
 average: '16.158'

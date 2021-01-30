@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Timone Mädchen und Jugendlicher Schlafanzug 850  Türkis  152 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B016C0FFBK/?tag=tolees0ca-21'
 descuento: '25.01'
 average: '17.99'

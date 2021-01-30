@@ -16,6 +16,7 @@ comparePrice: 51.29 EUR
 prodname: 'Miniart Crafts Perlenstickerei-Set  mehrfarbig  30 x 30 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QVCY32G/?tag=tolees0ca-21'
 descuento: '36.15'
 average: '32.75'

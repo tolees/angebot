@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'SAGE SWM520 the No-Mess-Waffle Waffeleisen mit Teig-Auffangrinne  Klassische Herzchen-Waffeln'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BBYKFHB/?tag=tolees0ca-21'
 descuento: '26.97'
 average: '94.9'

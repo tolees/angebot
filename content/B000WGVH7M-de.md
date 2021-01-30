@@ -16,6 +16,7 @@ comparePrice: 3.6 EUR
 prodname: 'Pentel BL77-BO EnerGel Gel-Tintenroller mit Druckmechanik  0 7 mm Kugeldurchmesser = 0 35 mm Strichstärke  nachfüllbar  1 Stück  rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000WGVH7M/?tag=tolees0ca-21'
 descuento: '35.00'
 average: '2.279696969696971'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'ReliBeauty Mädchen Prinzessin ELSA Schneeflocke Süßer Ausschnitt Kleid Kostüme  Himmelblau mit Zubehör   116-122 Etikett 130 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PZC4MKF/?tag=tolees0ca-21'
 descuento: '37.51'
 average: '26.6525'

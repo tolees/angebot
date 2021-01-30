@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Konturenlehre Konturmessgerät Duplikator Profil Messwerkzeugkontur Konturmesser vervielfältigungslehre Profil Messwerkzeug unregelmäßiges Profilmessgerät Kopierlehre  12cm '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PJLJQWC/?tag=tolees0ca-21'
 descuento: '46.19'
 average: '6.99'

@@ -16,6 +16,7 @@ comparePrice: 2299.0 EUR
 prodname: 'MSI GS65 9SE-461 Stealth  39 6 cm/15 6 Zoll/240Hz  Gaming-Notebook  Intel Core i7-9750H  16GB RAM  1TB PCIe SSD  Nvidia GeForce RTX2060 6GB  Windows 10 Pro '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QKZZZH8/?tag=tolees0ca-21'
 descuento: '76.29'
 average: '686.6666666666666'

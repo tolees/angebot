@@ -16,6 +16,7 @@ comparePrice: 11.5 EUR
 prodname: 'Funko FUN334463 POP Vinylfigur Specialist FunkoPop Fortnite Tower Recon  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HQ1M5C2/?tag=tolees0ca-21'
 descuento: '52.61'
 average: '4.495'

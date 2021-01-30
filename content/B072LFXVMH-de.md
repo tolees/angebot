@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Carvapet  rutschfeste Küchenmatte  Rückseite aus Gummi  Fußmatte  Läufer  Teppich  38 x 119 cm und 38 x 58 cm   2 Stück Kitchenware  Grey '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072LFXVMH/?tag=tolees0ca-21'
 descuento: '16.67'
 average: '24.99'

@@ -16,6 +16,7 @@ comparePrice: 8.71 EUR
 prodname: 'Spider-Man: Far From Home  DVD '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TXRQXF6/?tag=tolees0ca-21'
 descuento: '50.17'
 average: '6.91'

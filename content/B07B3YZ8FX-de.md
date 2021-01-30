@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'V-Bag movetrack by Vodafone - GPS Tracker  Standortermittlung von Taschen  Gepäck und Wertgegenständen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B3YZ8FX/?tag=tolees0ca-21'
 descuento: '82.83'
 average: '13.950000000000001'

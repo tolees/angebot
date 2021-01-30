@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 13431 Minions POP Vinylfigur: Despicable Me 3: Kyle  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XCL61QL/?tag=tolees0ca-21'
 descuento: '46.46'
 average: '7.4766666666666675'

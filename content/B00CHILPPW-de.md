@@ -16,6 +16,7 @@ comparePrice: 33.95 EUR
 prodname: 'Sylvanian Families Kinderzimmer-Möbel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00CHILPPW/?tag=tolees0ca-21'
 descuento: '33.76'
 average: '20.17'

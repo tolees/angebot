@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'HUAWEI Y5 2019 Dual SIM Smartphone  14  5 cm  5  71 Zoll   16GB ROM  2GB RAM  13MP Hauptkamera  5MP Frontkamera  Android 9.0  EMUI 9.0  Sapphire Blue'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07R4WVMH1/?tag=tolees0ca-21'
 descuento: '16.81'
 average: '99.0'

@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Philips Hue White E27 LED Lampe Einzelpack  dimmbar  warmweißes Licht  steuerbar via App  kompatibel mit Amazon Alexa  Echo  Echo Dot   Gerät „Zertifiziert für Menschen“'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SV88LGC/?tag=tolees0ca-21'
 descuento: '36.34'
 average: '14.03'

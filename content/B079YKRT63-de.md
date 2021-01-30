@@ -16,6 +16,7 @@ comparePrice: 11.9 EUR
 prodname: 'Funko 26992 Actionfigur Star Wars Red Cup - Pop 16'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079YKRT63/?tag=tolees0ca-21'
 descuento: '37.39'
 average: '6.62'

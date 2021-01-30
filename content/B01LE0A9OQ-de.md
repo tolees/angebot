@@ -16,6 +16,7 @@ comparePrice: 14.81 EUR
 prodname: '707'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LE0A9OQ/?tag=tolees0ca-21'
 descuento: '31.20'
 average: '10.19'

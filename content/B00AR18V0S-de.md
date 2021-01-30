@@ -16,6 +16,7 @@ comparePrice: 450.0 EUR
 prodname: 'The North Face Herren Parkajacke McMurdo  tnf black  S  T0A8XZJK3'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00AR18V0S/?tag=tolees0ca-21'
 descuento: '41.57'
 average: '262.94'

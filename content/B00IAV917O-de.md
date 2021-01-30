@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Panasonic RF-D10EG-K Digitalradio  DAB+/UKW Tuner  Netz- und Batteriebetrieb  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00IAV917O/?tag=tolees0ca-21'
 descuento: '22.84'
 average: '61.72'

@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Under Armour Undeniable Duffel 4.0 geräumige Sporttasche  Wasserabweisende Umhängetasche  Schwarz  Einheitsgröße'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07J37YHD2/?tag=tolees0ca-21'
 descuento: '32.76'
 average: '36.95'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Philips SHB3175BK BASS+ Over-Ear Bluetooth-Kopfhörer  13 Stunden Akku  satter Bass  Freisprechfunktion  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072MFLD2T/?tag=tolees0ca-21'
 descuento: '42.85'
 average: '40.0'

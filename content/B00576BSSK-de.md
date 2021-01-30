@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Wenko Herdabdeckplatte Universal Chili  2er Set Herdabdeckung für alle Herdarten  Gehärtetes Glas  30 x 52 cm  mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00576BSSK/?tag=tolees0ca-21'
 descuento: '31.68'
 average: '20.49'

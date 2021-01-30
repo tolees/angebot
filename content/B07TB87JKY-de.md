@@ -16,6 +16,7 @@ comparePrice: 61.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego NASA Apollo Saturn V  Kompatibel Mit Lego 21309 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TB87JKY/?tag=tolees0ca-21'
 descuento: '48.39'
 average: '37.15129032258066'

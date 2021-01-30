@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Nikon BF-1B Gehäusedeckel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002SXNXUG/?tag=tolees0ca-21'
 descuento: '48.83'
 average: '4.6'

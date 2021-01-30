@@ -16,6 +16,7 @@ comparePrice: 7.59 EUR
 prodname: 'Tetra Pro Energy Premiumfutter  Flockenfutter für alle tropischen Zierfische  Fischfutter mit Energiekonzentrat für gesteigerte Vitalität   verschiedene Größen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000LY0VN6/?tag=tolees0ca-21'
 descuento: '22.53'
 average: '5.88'

@@ -16,6 +16,7 @@ comparePrice: 9.74 EUR
 prodname: 'Wunderbare Macht [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00J9W0EXI/?tag=tolees0ca-21'
 descuento: '72.38'
 average: '2.69'

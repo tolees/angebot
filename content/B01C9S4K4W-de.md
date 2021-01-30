@@ -16,6 +16,7 @@ comparePrice: 21.49 EUR
 prodname: 'Boxset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01C9S4K4W/?tag=tolees0ca-21'
 descuento: '26.43'
 average: '15.81'

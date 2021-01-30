@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Toaster 4 Scheiben 1600W（7 einstellbare Bräunungsstufe + Auftau- & Aufwärmfunktion）edelstahl/schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077TWL7WK/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '25.59'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Philips Hue LightStrip+ Basis Set  ohne Bridge   2m  flexibel erweiterbar  dimmbar  bis zu 16 Millionen Farben  steuerbar via App  kompatibel mit Amazon Alexa  Echo  Echo Dot '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0148NMVQA/?tag=tolees0ca-21'
 descuento: '29.97'
 average: '55.99'

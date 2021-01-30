@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Wahoo ELEMNT MINI Fahrradcomputer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0741JGHB5/?tag=tolees0ca-21'
 descuento: '33.34'
 average: '59.99'

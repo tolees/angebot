@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Schwerlastregal | 178 5x130x60cm | CALLIDUS BAUMARKT | blau pulverbeschichtet | 130 cm breit ✓ 4 Böden je max. 250 kg Tragkraft ✓ Lagerregal Metallregal Kellerregal'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GJRYBLC/?tag=tolees0ca-21'
 descuento: '30.00'
 average: '69.99'

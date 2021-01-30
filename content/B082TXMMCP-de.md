@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'WC Sitz  MUJIUSHI Toilettendeckel Oval Klodeckel mit Quick-Release-Funktion  Absenkautomatik und Justierbaren Edelstahlscharnier  Antibakterielle Klobrille Universelle Größe O-Form PP Toilettensitz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B082TXMMCP/?tag=tolees0ca-21'
 descuento: '38.01'
 average: '30.99'

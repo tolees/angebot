@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Vans Herren Filmore Sneakers  Schwarz   Suede Canvas  Black/Pewter T2j   46 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07C8YCGHK/?tag=tolees0ca-21'
 descuento: '21.91'
 average: '50.76'

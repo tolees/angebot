@@ -16,6 +16,7 @@ comparePrice: 138.14 EUR
 prodname: 'Mannesmann 232-tlg. Steckschlüsselsatz 1/4" + 1/2"  M98450'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00DSIL7KS/?tag=tolees0ca-21'
 descuento: '31.19'
 average: '95.06'

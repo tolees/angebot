@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Bosch Professional Laser Entfernungsmesser GLM 40  Flächen-/Volumenberechnung  max. Messbereich: 40 m  Flächen-Volumenberechnung  2x 1 5-V Batterien  Schutztasche '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00R0Z7TFM/?tag=tolees0ca-21'
 descuento: '55.27'
 average: '55.44499999999999'

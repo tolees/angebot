@@ -16,6 +16,7 @@ comparePrice: 65.99 EUR
 prodname: 'SanDisk Ultra Dual Drive Go USB Type-C 256 GB  Android Smartphone Speicher  USB Type-C-Anschluss  150 MB/s Lesegeschwindigkeit   Nutzung als Schlüsselanhänger möglich '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YYJL21Z/?tag=tolees0ca-21'
 descuento: '39.40'
 average: '39.99'

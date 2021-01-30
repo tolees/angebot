@@ -16,6 +16,7 @@ comparePrice: 7.62 EUR
 prodname: 'Rustic 103667630382 Stumpenkerze mit Metallic-Finish  Paraffinwachs  Goldfarben.'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004U3PAEE/?tag=tolees0ca-21'
 descuento: '61.68'
 average: '2.92'

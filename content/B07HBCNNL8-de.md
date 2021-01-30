@@ -16,6 +16,7 @@ comparePrice: 1649.0 EUR
 prodname: 'Apple iPhone XS Max  512 GB  - Space Grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HBCNNL8/?tag=tolees0ca-21'
 descuento: '40.88'
 average: '1061.95'

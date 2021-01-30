@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'WOLF-Garten - Trocken-Rasen Premium L-TP 50  rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B016XSPUPW/?tag=tolees0ca-21'
 descuento: '35.17'
 average: '12.96'

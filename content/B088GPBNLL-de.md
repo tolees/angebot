@@ -16,6 +16,7 @@ comparePrice: 14.15 EUR
 prodname: 'CHALA 200STK Klebstoff Applikatorspitzen Kleber Extender Applikator Kunststoffkleber Spender Micro-Tips Pipette Dropper für Hobby Handwerk Labor Klebespender'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B088GPBNLL/?tag=tolees0ca-21'
 descuento: '43.82'
 average: '7.95'

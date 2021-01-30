@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'INSTINNCT Damen Nahtlos Yoga Sport-BH Ohne Bügel mit Polstern - Komfort Klassische Fitness Training Bustier Bra Top Weinrot S'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YFP3K3T/?tag=tolees0ca-21'
 descuento: '83.01'
 average: '16.99'

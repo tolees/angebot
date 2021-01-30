@@ -16,6 +16,7 @@ comparePrice: 27.28 EUR
 prodname: 'PLAYMOBIL Family Fun 70089 Familien-Camping  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JMCBLWK/?tag=tolees0ca-21'
 descuento: '20.49'
 average: '20.754651162790694'

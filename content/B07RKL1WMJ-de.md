@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Lüfterloser Mini-PC-Stick Windows 10 Pro  64-Bit   T6 Intel Atom Z8350 Computer Stick 2GB RAM/ 32GB eMMC  Unterstützung von 4K HD  Dual Band WLAN  USB 3.0  Bluetooth 4.2  Auto Power On'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RKL1WMJ/?tag=tolees0ca-21'
 descuento: '35.30'
 average: '109.99'

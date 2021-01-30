@@ -16,6 +16,7 @@ comparePrice: 29.5 EUR
 prodname: '10 x Rauchmelder / Feueralarm Tana x5 mit Montagematerial  85dB Xeltys'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N2YO7JS/?tag=tolees0ca-21'
 descuento: '15.29'
 average: '24.99'

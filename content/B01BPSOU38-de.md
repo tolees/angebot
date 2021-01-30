@@ -16,6 +16,7 @@ comparePrice: 5.69 EUR
 prodname: 'InLine 33328Y Y-Kabel für Lüfter PWM  4pol Molex 1 Stecker / 2 Buchse  0 15m'
 country: 'de'
 flag: '🇩🇪'
+brand: 'InLine'
 buyurl: 'https://www.amazon.de/dp/B01BPSOU38/?tag=tolees0ca-21'
 descuento: '49.21'
 average: '3.79270270270271'
@@ -27,9 +28,9 @@ Es gibt ein [InLine 33328Y Y-Kabel für Lüfter PWM  4pol Molex 1 Stecker / 2 Bu
 
 ℹ️:
 
-- InLine Y-Kabel für Lüfter PWM
-- für Lüfter mit 4pol. PWM Anschluß
 - 4pol Molex 1x Stecker/ 2x Buchse
+- InLine Y-Kabel für Lüfter PWM
 - Länge ca. 0, 15m
+- für Lüfter mit 4pol. PWM Anschluß
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01BPSOU38/?tag=tolees0ca-21)

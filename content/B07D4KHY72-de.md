@@ -16,6 +16,7 @@ comparePrice: 555.55 EUR
 prodname: 'Lenovo  15 6 Zoll  Notebook  Intel N4000 Dual Core 2x2.60 GHz  8GB RAM  256GB SSD  Intel HD 505  HDMI  Webcam  Bluetooth  USB 3.0  WLAN  Windows 10 Prof. 64 Bit  #5799'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07D4KHY72/?tag=tolees0ca-21'
 descuento: '35.38'
 average: '359.0'

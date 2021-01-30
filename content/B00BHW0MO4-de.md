@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Remington Epilierer smooth&silky EP7010  Anti-Rutsch-Pinzetten-Technologie  weiß/lila'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00BHW0MO4/?tag=tolees0ca-21'
 descuento: '16.64'
 average: '25.0'

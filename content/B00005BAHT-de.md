@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Jakobs 4019960 - Rody Hüpfpferd  rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00005BAHT/?tag=tolees0ca-21'
 descuento: '32.09'
 average: '26.27'

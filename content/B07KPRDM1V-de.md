@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'GANT Herren O1. The Panel Down Vest Outdoor Weste  Blau  Poseidon Blue 448   Large  Herstellergröße: L '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KPRDM1V/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '100'

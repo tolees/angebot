@@ -16,6 +16,7 @@ comparePrice: 28.95 EUR
 prodname: 'Ensure NutriVigor Schokolade – Nahrungsergänzungspulver mit Proteinen – Gluten- und laktosefrei – 1 x 850 g'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07S8K5MMV/?tag=tolees0ca-21'
 descuento: '34.37'
 average: '19.0'

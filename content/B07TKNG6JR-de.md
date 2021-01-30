@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Kaspersky Internet Security 2020 Standard | 3 Geräte | 1 Jahr | Windows/Mac/Android | Aktivierungscode in frustfreier Verpackung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TKNG6JR/?tag=tolees0ca-21'
 descuento: '55.96'
 average: '22.0'

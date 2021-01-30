@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'ghd air Haartrockner  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00628VOEA/?tag=tolees0ca-21'
 descuento: '25.00'
 average: '89.37'

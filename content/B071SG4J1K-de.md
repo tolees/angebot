@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Pirates of the Caribbean: Salazars Rache'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071SG4J1K/?tag=tolees0ca-21'
 descuento: '72.19'
 average: '2.5'

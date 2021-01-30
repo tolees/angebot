@@ -16,6 +16,7 @@ comparePrice: 48.73 EUR
 prodname: 'Fire 7-Tablet  Zertifiziert und generalüberholt  7-Zoll-Display  16 GB  Schwarz mit Spezialangeboten'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KZJW9DT/?tag=tolees0ca-21'
 descuento: '30.00'
 average: '34.11'

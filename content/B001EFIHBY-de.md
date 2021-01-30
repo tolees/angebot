@@ -16,6 +16,7 @@ comparePrice: 10.46 EUR
 prodname: 'Faber-Castell 144187 - Kugelschreiber GRIP 2011  Mine XB  schwarz-matt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001EFIHBY/?tag=tolees0ca-21'
 descuento: '28.20'
 average: '7.51'

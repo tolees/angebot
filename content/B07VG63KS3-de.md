@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Bluetooth Kopfhörer In-Ear  Boltune Sport Headphones mit 16 Std. Spielzeit/IPX7 Wasserschutzklasse/eingebautem Mikrofon Federleicht Headset für iPhone  Samsung  Huawei  HTC uws.'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VG63KS3/?tag=tolees0ca-21'
 descuento: '22.23'
 average: '27.99'

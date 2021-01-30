@@ -16,6 +16,7 @@ comparePrice: 25.36 EUR
 prodname: 'CARE OF by PUMA Herren Low-Top Sneaker  Grau  Grey Grey   42 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RBL9H7K/?tag=tolees0ca-21'
 descuento: '17.39'
 average: '20.95'

@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Kitchen Craft Kaffeebüchse Industrial Kitchen 11x16 5cm  Metall  Grau  30 x 18 x 18 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MS01VXT/?tag=tolees0ca-21'
 descuento: '31.91'
 average: '12.25'

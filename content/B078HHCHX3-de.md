@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Prime Herren Arbeitshose Herren Cargohose Army Twill Cargo Multi Taschen BLJ-02  BLJ-007  34W X 32L '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078HHCHX3/?tag=tolees0ca-21'
 descuento: '33.34'
 average: '39.99'

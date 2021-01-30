@@ -16,6 +16,7 @@ comparePrice: 57.9 EUR
 prodname: 'Levi s Herren Freizeithemd Barstow Western  Schwarz/Black 0216  Medium'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MSH0NXA/?tag=tolees0ca-21'
 descuento: '30.93'
 average: '39.99'

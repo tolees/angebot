@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'RAVPower 20100mAh Powerbank USB C Power Delivery  45W PD Ausgang  Externer Akku mit Type C Kabel für iPhone 11/11 Pro Max/XS Max/XR / 8 / X  iPad  MacBook Pro  Dell XPS  HP  Nintendo Switch usw.'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KS4PXVF/?tag=tolees0ca-21'
 descuento: '18.57'
 average: '56.99'

@@ -16,6 +16,7 @@ comparePrice: 82.99 EUR
 prodname: 'BONTEC TV Ständer Mobile TV Wagen Trolley Höhenverstellbar TV Halterung Standfuß Fernsehtisch für 32"-65" LCD LED Plasma TV'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HHVXDDL/?tag=tolees0ca-21'
 descuento: '28.32'
 average: '67.74'

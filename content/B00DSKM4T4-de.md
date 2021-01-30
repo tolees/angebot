@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Grundig MF 5260  Milchaufschäumer  400 Watt   schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00DSKM4T4/?tag=tolees0ca-21'
 descuento: '17.35'
 average: '31.4'

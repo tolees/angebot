@@ -16,6 +16,7 @@ comparePrice: 155.0 EUR
 prodname: 'Geox Damen D Felicity D Knee High Boot  Black  39 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0792TCSWS/?tag=tolees0ca-21'
 descuento: '70.33'
 average: '45.99'

@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'adidas Herren Core 18 Hose  schwarz  Black/White   L'
 country: 'de'
 flag: '🇩🇪'
+brand: 'adidas'
 buyurl: 'https://www.amazon.de/dp/B076HQYK85/?tag=tolees0ca-21'
 descuento: '39.00'
 average: '19.2556060606059'
@@ -27,8 +28,8 @@ Sie können [adidas Herren Core 18 Hose  schwarz  Black/White   L](https://www.a
 
 ℹ️:
 
-- Regular Fit
 - Front pockets
 - Elastic waistband with lanyard
+- Regular Fit
 
 [🛒 Hier!!](https://www.amazon.de/dp/B076HQYK85/?tag=tolees0ca-21)

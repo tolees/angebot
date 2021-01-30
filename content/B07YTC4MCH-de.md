@@ -16,6 +16,7 @@ comparePrice: 15.89 EUR
 prodname: 'Immer Ärger mit Sergeant Bilko [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YTC4MCH/?tag=tolees0ca-21'
 descuento: '30.52'
 average: '11.04'

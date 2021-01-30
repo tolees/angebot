@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'ghd max Styler  breites Glätteisen mit Keramik-Heiztechnologie'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BHH2J4D/?tag=tolees0ca-21'
 descuento: '33.00'
 average: '133.33'

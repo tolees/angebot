@@ -16,6 +16,7 @@ comparePrice: 66.0 EUR
 prodname: 'Nike Md Runner 2  Herren Gymnastikschuhe  Blau  Midnight Navy/White-Wolf Grey   42 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00PYDW6IM/?tag=tolees0ca-21'
 descuento: '18.33'
 average: '53.9'

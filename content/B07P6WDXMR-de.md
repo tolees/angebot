@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Sylvanian Families 5367 Gourmet Kitchen Set  Mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P6WDXMR/?tag=tolees0ca-21'
 descuento: '30.03'
 average: '6.99'

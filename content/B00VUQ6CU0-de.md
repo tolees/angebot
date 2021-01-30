@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: 'Fotowiderstand  Entdeckung Lichtempfindlich Licht Sensor Modul für Arduino'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00VUQ6CU0/?tag=tolees0ca-21'
 descuento: '49.25'
 average: '1.01'

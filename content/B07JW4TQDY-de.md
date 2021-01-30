@@ -16,6 +16,7 @@ comparePrice: 649.0 EUR
 prodname: 'Acer Aspire 5  A517-51-3666  43 9 cm  17 3 Zoll Full-HD matt  Multimedia Laptop  Intel Core i3-7020U  8GB RAM  256GB SSD  Intel HD  Win 10  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JW4TQDY/?tag=tolees0ca-21'
 descuento: '53.78'
 average: '300.0'

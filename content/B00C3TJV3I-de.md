@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Ravensburger tiptoi Dein Körper und Du Spiel  ab 4 Jahren  Das Wissensspiel rund um den menschlichen Körper'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00C3TJV3I/?tag=tolees0ca-21'
 descuento: '37.11'
 average: '18.49'

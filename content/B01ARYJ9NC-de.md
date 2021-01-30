@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'Einhell Kompressor TC-AC 190/24/8  max. 8 bar  24 l-Tank  Ölschmierung  Druckminderer  Manometer + Schnellkupplung  Rückschlag-/Sicherungsventil  Standfuß mit Gummipuffer '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01ARYJ9NC/?tag=tolees0ca-21'
 descuento: '36.34'
 average: '69.99'

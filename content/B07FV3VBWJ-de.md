@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Bosch PST 700 ReadyToSaw Stichsäge inkl. Koffer 500W'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FV3VBWJ/?tag=tolees0ca-21'
 descuento: '23.47'
 average: '91.83'

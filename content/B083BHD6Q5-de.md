@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Sanglory Schnitzmesser  4 Stück Holz Schnitz Set Wood Carving Tools Knife Set  Edelstahl Schnitzwerkzeug für Holz  Carving DIY und Skulptur'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083BHD6Q5/?tag=tolees0ca-21'
 descuento: '48.85'
 average: '21.99'

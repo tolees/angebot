@@ -16,6 +16,7 @@ comparePrice: 139 EUR
 prodname: 'Fossil Damen-Uhren ES3625'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00KGTVZY0/?tag=tolees0ca-21'
 descuento: '50.24'
 average: '69.16'

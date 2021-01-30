@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'PLAYMOBIL Novelmore 70221 Festung der Burnham Raiders  Für Kinder von 5-10 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P6FL9B1/?tag=tolees0ca-21'
 descuento: '39.23'
 average: '77.32964285714286'

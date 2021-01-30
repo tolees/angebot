@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Philips Audio SHB3075BK/00 On-Ear Kopfhörer Bluetooth  Bass+  Kabellos  Bluetooth  Mikrofon  12 Stunden Akku  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00VSTJ2WO/?tag=tolees0ca-21'
 descuento: '42.03'
 average: '30.027749999999997'

@@ -16,6 +16,7 @@ comparePrice: 72.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego Star Wars Kessel Run Millennium Falcon  Kompatibel Mit Lego 75212 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TXVSWZ6/?tag=tolees0ca-21'
 descuento: '27.40'
 average: '50.05818181818182'

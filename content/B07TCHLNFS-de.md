@@ -16,6 +16,7 @@ comparePrice: 13.36 EUR
 prodname: 'Walk the Sky'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TCHLNFS/?tag=tolees0ca-21'
 descuento: '40.19'
 average: '7.99'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Bluetooth Kopfhörer  kabellose Kopfhörer Touch Control Sportkopfhörer  IPX7 wasserdicht  3D-Stereo-Rauschunterdrückung  geeignet für Airpods/iPhone/Samsung Apple AirPods Pro/AirPods'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08BNJDL65/?tag=tolees0ca-21'
 descuento: '45.72'
 average: '37.99'

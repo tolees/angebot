@@ -16,6 +16,7 @@ comparePrice: 634.77 EUR
 prodname: 'Eizo EV2750-BK 68 5 cm  27 Zoll  Monitor  DVI-D  HDMI  USB 3.0  DisplayPort  5ms Reaktionszeit  Auflösung 2560 x 1440  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B014RZTDOW/?tag=tolees0ca-21'
 descuento: '39.66'
 average: '383.0'

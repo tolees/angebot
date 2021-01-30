@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Vtech 80-520904 Switch & Go Dinos - Stegosaurus  Spielzeugdinosaurier  Mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P5SKCRQ/?tag=tolees0ca-21'
 descuento: '15.05'
 average: '18.68'

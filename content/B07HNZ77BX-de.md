@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'INSMART PS4 Headset  PC Gaming Headset Auch für Nintendo Switch  Xbox One & Laptop  3.5mm Noise Cancelling Gaming Kopfhörer mit Mikrofon  Surround Sound System & Extra 3 5mm Y-Klinkenadapter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HNZ77BX/?tag=tolees0ca-21'
 descuento: '30.31'
 average: '24.49'

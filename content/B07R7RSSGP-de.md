@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'Crystal Art CAK-XLED8 LED Kits  Multicolor'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07R7RSSGP/?tag=tolees0ca-21'
 descuento: '15.91'
 average: '36.99'

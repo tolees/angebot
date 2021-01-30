@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'TP-Link KL50 Kasa Smart WLAN Filament Glühbirne  Lampe mit E27 Sockel  warmweiß  dimmbar  7W  kompatibel mit Amazon Alexa  Google Home  IFTTT  kein Hub notwendig  Schnellinstallation Kasa-App'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WJH79WM/?tag=tolees0ca-21'
 descuento: '25.13'
 average: '14.9'

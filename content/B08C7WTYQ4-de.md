@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'GLÜCKSWOLKE - Spardose I Motiv Lebensbaum I Geschenk für Taufe  Kommunion  Konfirmation  Jugendweihe  Abitur I Taufgeschenke Mädchen Jungen I 3D Bilderrahmen Sparbüchse I Sparschwein Geldgeschenke'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08C7WTYQ4/?tag=tolees0ca-21'
 descuento: '16.44'
 average: '12.45'

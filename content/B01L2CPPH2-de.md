@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'GoPro Pro 3 5-mm-Mikrofonadapter für HERO7 Black  HERO6 Black  HERO5 Black  HERO5 Session  Offizielles GoPro-Zubehör '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01L2CPPH2/?tag=tolees0ca-21'
 descuento: '28.05'
 average: '46.76'

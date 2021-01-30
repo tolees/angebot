@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Disney Kuscheldecke 120x140 cm Frozen die Eiskönigin Snowflake völlig unverfroren Decke Fleecedecke Schmusedecke Tagesdecke Autokuscheldecke Elsa Anna Olaf Sven Kristoff von Arendelle kuschelweich'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MYMT862/?tag=tolees0ca-21'
 descuento: '30.02'
 average: '13.99'

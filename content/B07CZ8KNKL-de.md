@@ -16,6 +16,7 @@ comparePrice: 23.88 EUR
 prodname: 'Bulmers Original Premium Cider 12er  12 x 0.5 l '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CZ8KNKL/?tag=tolees0ca-21'
 descuento: '20.48'
 average: '18.99'

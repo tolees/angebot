@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'VATOS Bausteine Set für Mädchen  568 PCS Prinzessin Burg Spielzeug für Mädchen Rosa Palace Bricks Spielzeug STEM Baukästen für Kinder  25 Spielstil  Mädchen Spielzeug Geschenk für 6 7 8 9 Jahre Alt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B085ZFM4WT/?tag=tolees0ca-21'
 descuento: '54.01'
 average: '22.99'

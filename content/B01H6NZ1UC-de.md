@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Herren Swiftwater River Sandal Men Römersandalen  Schwarz  Black   48/49 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01H6NZ1UC/?tag=tolees0ca-21'
 descuento: '49.99'
 average: '20.0'

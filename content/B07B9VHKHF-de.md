@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'HMIYA Unisex Badeschuhe-Strandschuhe-Aquaschuhe Barfuß Schwarz02  Gr.- 39-40 EU/Herstellergröße: 40-41'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B9VHKHF/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '11.19'

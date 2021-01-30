@@ -16,6 +16,7 @@ comparePrice: 249.95 EUR
 prodname: 'Bosch Smart Home Überwachungskamera  360° drehbar  kompatibel mit Alexa  für den Innenbereich  2. Generation '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GYX7TNM/?tag=tolees0ca-21'
 descuento: '43.19'
 average: '141.99'

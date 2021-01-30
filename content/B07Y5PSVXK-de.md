@@ -16,6 +16,7 @@ comparePrice: 124.9 EUR
 prodname: 'Smartwatch Amazfit GTR 42mm/A1910 42 Starry Black Xiaomi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Y5PSVXK/?tag=tolees0ca-21'
 descuento: '20.74'
 average: '99.0'

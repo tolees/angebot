@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Eagle Creek Nackenkissen Exhale Neck Pillow leichtes Reisekissen für das Schlafen im Flugzeug mit Tragetasche  blue sea'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B010AZUMCU/?tag=tolees0ca-21'
 descuento: '33.37'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Craft Damen Greatness Fahrradunterhose  Black  M'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06W57WQDS/?tag=tolees0ca-21'
 descuento: '30.63'
 average: '30.89'

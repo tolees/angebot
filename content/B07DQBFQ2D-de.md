@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Seagate Desktop Drive 8000 GB  8 TB  externe Festplatte  3.5 Zoll  USB 3.0  PC  Xbox  PS4  ModelNr.: STGY8000400'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DQBFQ2D/?tag=tolees0ca-21'
 descuento: '16.67'
 average: '128.32333333333332'

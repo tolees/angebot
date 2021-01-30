@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Lenovo Chromebook S340T Laptop 35 6 cm  14 Zoll  1920x1080  Full HD  IPS  Touch  Slim Notebook  Intel Celeron N4000  4GB RAM  64GB eMMC  Intel UHD-Grafik 600  ChromeOS  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0868WNHR5/?tag=tolees0ca-21'
 descuento: '30.45'
 average: '245.84333333333333'

@@ -16,6 +16,7 @@ comparePrice: 6.02 EUR
 prodname: 'Pentel Correction Pen/ZLC31-WG fein weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000KJOBNI/?tag=tolees0ca-21'
 descuento: '38.04'
 average: '4.75'

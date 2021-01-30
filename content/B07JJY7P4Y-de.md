@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Winning Moves GmbH 11545 - Cluedo: The Walking Dead AMC'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JJY7P4Y/?tag=tolees0ca-21'
 descuento: '16.56'
 average: '21.494999999999997'

@@ -16,6 +16,7 @@ comparePrice: 8.59 EUR
 prodname: 'Funko POP Hey Arnold Gerald JOHANSSE'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07J6NJPXF/?tag=tolees0ca-21'
 descuento: '52.39'
 average: '4.09'

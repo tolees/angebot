@@ -16,6 +16,7 @@ comparePrice: 412.55 EUR
 prodname: 'GROHE Minta | Küchenarmatur - Einhand-Spültischbatterie  mit Schwenkbereich 360°  Einlochmontage| chrom | 30274000'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B016ZPORIE/?tag=tolees0ca-21'
 descuento: '57.70'
 average: '174.49'

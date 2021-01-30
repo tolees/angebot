@@ -16,6 +16,7 @@ comparePrice: 18.07 EUR
 prodname: 'TOTO: 35th Anniversary Tour-Live in Poland [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00IEBAN6S/?tag=tolees0ca-21'
 descuento: '44.71'
 average: '9.99'

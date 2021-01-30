@@ -16,6 +16,7 @@ comparePrice: 36.16 EUR
 prodname: 'New Balance 624v5  Herren Hallenschuhe  Weiß  White/Navy White/Navy   44 EU  9.5 UK '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KR9JXBG/?tag=tolees0ca-21'
 descuento: '20.16'
 average: '28.87'

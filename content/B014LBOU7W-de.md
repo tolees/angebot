@@ -16,6 +16,7 @@ comparePrice: 69.67 EUR
 prodname: 'auna MIC-900S LED - USB Kondensator-Mikrofon  Nierencharakteristik  Metallgehäuse  Plug & Play  Mikrofonspinne mit 3/8" zu 5/8" Gewinde-Adapter  USB-Kabel  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B014LBOU7W/?tag=tolees0ca-21'
 descuento: '41.17'
 average: '40.99'

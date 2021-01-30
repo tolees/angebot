@@ -16,6 +16,7 @@ comparePrice: 33.21 EUR
 prodname: 'McFarlane Toys Cyberpunk 2077 Action Figure Johnny 18 cm Figuren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B081J8WJR9/?tag=tolees0ca-21'
 descuento: '15.99'
 average: '27.9'

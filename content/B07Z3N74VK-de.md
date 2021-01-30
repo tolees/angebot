@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'SNAPTAIN SP300 Drohne mit Blaue LED  RC Quadrocopter mit 3 Fernbedienungen  2 Akkus für 14 Minuten  Throw’N Go  Automatische Ausweichfunktion  Spielzeug Drohne für Anfänger und Kinder.'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Z3N74VK/?tag=tolees0ca-21'
 descuento: '28.58'
 average: '49.99'

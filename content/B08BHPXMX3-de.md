@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Kopfhörer Kabellos Bluetooth Kopfhor Noise Cancelling Kopfhörer für immersiven Klang mit 24H Ladekästchen und Mikrofon für Android/iPhone/Samsung in Ear kopfhörer Bluetooth kopfhörer iPhone'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08BHPXMX3/?tag=tolees0ca-21'
 descuento: '56.68'
 average: '22.990000000000002'

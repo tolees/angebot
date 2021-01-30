@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Apple Silikon Case  für iPhone 11 Pro  - Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XL5SHPT/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '22.5'

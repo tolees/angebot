@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Samsung MB-ME32GA/EU EVO Select 32 GB microSDHC UHS-I U1 Speicherkarte inkl. SD-Adapter Weiß/Grun'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CXXBTST/?tag=tolees0ca-21'
 descuento: '40.31'
 average: '9.49'

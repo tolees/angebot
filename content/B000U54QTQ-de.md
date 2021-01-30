@@ -16,6 +16,7 @@ comparePrice: 9.55 EUR
 prodname: 'Sink or Swim'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000U54QTQ/?tag=tolees0ca-21'
 descuento: '30.05'
 average: '6.68'

@@ -16,6 +16,7 @@ comparePrice: 799.99 EUR
 prodname: 'Philips 5000 Serie EP5335/10 Kaffeevollautomat  6 Kaffeespezialitäten  LatteGo Milchsystem  Edelstahl'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DP8Y6MK/?tag=tolees0ca-21'
 descuento: '25.12'
 average: '599.0'

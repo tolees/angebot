@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'flintronic Herren Gürtel  Leder Ratsche Automatik Gürtel für Männer Ledergürtel Breite 3.5cm Länge 125CM  inkl Schlüsselbund & Geschenkbox '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MS7R41V/?tag=tolees0ca-21'
 descuento: '41.20'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'AstroAI Staubschutzmaske mit Filtern & Ventile- verstellbar Mundschutz Maske Schutzmaske Wiederverwendbar für Laufen  Radfahren  Gesichtsmaske für Damen und Herren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B084TJDDL1/?tag=tolees0ca-21'
 descuento: '18.19'
 average: '20.656666666666666'

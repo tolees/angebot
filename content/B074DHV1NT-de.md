@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Thomas Sabo Damen-Charm-Armband 925 Sterlingsilber X0231-001-12-L19v'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074DHV1NT/?tag=tolees0ca-21'
 descuento: '36.45'
 average: '18.43'

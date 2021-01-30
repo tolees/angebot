@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'WMF Profi Plus Rührblitz 27 cm  Schneebesen Edelstahl -Kugeln  Cromargan Edelstahl teilmattiert  Rührbesen  Quirl'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00062ILVW/?tag=tolees0ca-21'
 descuento: '41.14'
 average: '14.71'

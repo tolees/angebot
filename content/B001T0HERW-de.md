@@ -16,6 +16,7 @@ comparePrice: 41.5 EUR
 prodname: 'ABUS Schlüsseltresor KeyGarage 787 mit Zahlencode 463310'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001T0HERW/?tag=tolees0ca-21'
 descuento: '44.10'
 average: '23.2'

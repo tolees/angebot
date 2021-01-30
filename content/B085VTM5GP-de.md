@@ -16,6 +16,7 @@ comparePrice: 22.32 EUR
 prodname: 'Dasket 6pcs / Set V-Form-Durchschlag für Nähen  Form Punch-Gurt-Leder Carft V End Cutter DIY'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B085VTM5GP/?tag=tolees0ca-21'
 descuento: '46.68'
 average: '12.350000000000001'

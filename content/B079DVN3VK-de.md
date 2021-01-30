@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Träumschön Biber Bettwäsche 135x200 2tlg | Bettwäsche-Set im Karo Design | Biber Bettwäsche 135x200 cm & Kissen 80x80 | Kuschelige Bettwäsche 100% Baumwolle'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079DVN3VK/?tag=tolees0ca-21'
 descuento: '25.01'
 average: '25.49'

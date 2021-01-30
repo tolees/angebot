@@ -16,6 +16,7 @@ comparePrice: 5.98 EUR
 prodname: 'NHUAIYINSHUGUOGUANGGAOJINGY Displayport zum HDMI-Adapterkabel Mini-Dp zum HDMI-Kabel Mini-Displayport zum HDMI-Computer  der an den Fernseher angeschlossen ist - Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B082XT1DBX/?tag=tolees0ca-21'
 descuento: '33.44'
 average: '3.6233333333333335'

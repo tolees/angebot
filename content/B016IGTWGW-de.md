@@ -16,6 +16,7 @@ comparePrice: 2299.0 EUR
 prodname: 'Neff TPT5960X /T59PT60X0 / Autarkes Kochfeld / Induktion / 90cm / TwistPad Flat / 3x Flexzone'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B016IGTWGW/?tag=tolees0ca-21'
 descuento: '61.51'
 average: '885.0'

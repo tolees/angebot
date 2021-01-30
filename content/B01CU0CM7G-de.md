@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Naipo Schulter Massagegerät Elektrisch für Nacken Rücken Shiatsu Nackenmassagegerät mit Wärmefunktion 3D-Rotation Massage Einstellbaren Geschwindigkeiten für Haus Büro Auto'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01CU0CM7G/?tag=tolees0ca-21'
 descuento: '16.67'
 average: '54.99'

@@ -16,6 +16,7 @@ comparePrice: 449.0 EUR
 prodname: 'Philips 50PUS6203/12 126 cm  50 Zoll  LED-Fernseher  4K Ultra HD  Smart TV  Triple Tuner '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HM8GR4G/?tag=tolees0ca-21'
 descuento: '49.89'
 average: '225.0'

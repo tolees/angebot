@@ -16,6 +16,7 @@ comparePrice: 31.98 EUR
 prodname: 'GODNECE Display Halterung Ständer Für 75257  Vertikaler Ständer Für 75257 Star Wars Millennium Falcon  Lego Modell Nicht Enthalten -407 Stücke'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083WQQG3Y/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '15.99'

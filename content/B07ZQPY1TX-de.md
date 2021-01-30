@@ -16,6 +16,7 @@ comparePrice: 21.84 EUR
 prodname: 'Pegasus Spiele 51310G - Der Kartograph'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZQPY1TX/?tag=tolees0ca-21'
 descuento: '17.81'
 average: '17.95'

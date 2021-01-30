@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Ravensburger tiptoi Rekorde im Tierreich memory  ab 5 Jahren  Neue Spielformen  Tiergeräusche  spannende Audioinformationen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004DL15EC/?tag=tolees0ca-21'
 descuento: '23.97'
 average: '19.0'

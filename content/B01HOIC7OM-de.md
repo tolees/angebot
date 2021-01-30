@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'NUBWO S2 V4.1 Bluetooth kabellose On-Ear HiFi Stereo Kopfhörer mit Mikrofon für Handys  Tablets  Laptops & PC - Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01HOIC7OM/?tag=tolees0ca-21'
 descuento: '15.39'
 average: '21.99'

@@ -16,6 +16,7 @@ comparePrice: 16.68 EUR
 prodname: 'Red Bull Energy Drink Kokos-Blaubeere Dosen Getränke White Edition 12er Palette  EINWEG  12 x 250 ml '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BGH6ZTZ/?tag=tolees0ca-21'
 descuento: '30.58'
 average: '11.58'

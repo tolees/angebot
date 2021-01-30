@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'uvex Unisex – Erwachsene  i-vo 3D Fahrradhelm  white  52-57 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074P3SBSN/?tag=tolees0ca-21'
 descuento: '36.28'
 average: '38.2'

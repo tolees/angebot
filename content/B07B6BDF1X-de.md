@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Philips 246E9QJAB/00 60 cm  23 8 Zoll  Monitor  VGA  HDMI  DisplayPort  FHD  5ms Reaktionszeit  1920 x 1080  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B6BDF1X/?tag=tolees0ca-21'
 descuento: '25.50'
 average: '111.0'

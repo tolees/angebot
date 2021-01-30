@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Playtastic Geduldspiele mit Kugeln: Geduldspiel-Megapack mit 24 Spielen  Geduldsspiel Kugel '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0038JSUDE/?tag=tolees0ca-21'
 descuento: '66.78'
 average: '9.95'

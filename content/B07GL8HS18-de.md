@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Fossil Herren Digital Smart Watch Armbanduhr mit Leder Armband FTW4015'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GL8HS18/?tag=tolees0ca-21'
 descuento: '37.94'
 average: '173.15'

@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'REHYPE Herren Longsleeve Oversize Langarm T-Shirt O-Neck Raglan L-222 Bordeaux XL'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B081QK6CXV/?tag=tolees0ca-21'
 descuento: '62.66'
 average: '14.9'

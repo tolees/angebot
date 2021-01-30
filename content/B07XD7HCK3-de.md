@@ -16,6 +16,7 @@ comparePrice: 165.98 EUR
 prodname: 'TONGJI Acryl Vitrine Mit Beleuchtungsset Kompatibel Mit Lego 42056 Porsche 911 GT3 RS   Schaukasten Staubdicht Display Box  Beinhaltet Nicht das Modell  '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XD7HCK3/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '82.99'

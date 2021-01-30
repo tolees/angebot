@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'RAMPOW  Kfz Ladegerät  Auto Ladegerät  Zigarettenanzünder USB Ladegerät  24 W / 4 8A 2-Port USB Auto Ladegerät kompatibel für Samsung Galaxy Note 8  Huawei P9 und mehr'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HT1T24W/?tag=tolees0ca-21'
 descuento: '30.79'
 average: '8.99'

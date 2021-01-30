@@ -16,6 +16,7 @@ comparePrice: 9.79 EUR
 prodname: 'Funko 44154 POP Bobble Marvel: 80th-First Appearance: Deadpool Actionfigur  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RN8DSN7/?tag=tolees0ca-21'
 descuento: '18.39'
 average: '9.139599999999998'

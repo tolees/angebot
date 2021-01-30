@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Original Motorola Reiselader Netzteil CH700 für Motorola RAZR V3'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001DZDCY2/?tag=tolees0ca-21'
 descuento: '50.23'
 average: '9.95'

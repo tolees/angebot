@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Kopfschutz / Schutzhelmkombination Yukon   stoßfester und atmungsaktiver PP – Helm  bequemer Gehörschutz  breites und robuste Netzvisier aus Edelstahl für den Augenschutz   SNR-Wert: 25 9 dB'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00FYRVFEE/?tag=tolees0ca-21'
 descuento: '51.82'
 average: '19.75'

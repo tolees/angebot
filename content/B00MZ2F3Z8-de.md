@@ -16,6 +16,7 @@ comparePrice: 629.99 EUR
 prodname: 'Krups EA8105 Kaffeevollautomat  automatische Reinigung  2-Tassen-Funktion  Milchsystem mit CappucinoPlus-Düse  15 bar  Espresso-Kaffee-Maschine  Kaffeeautomat in weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00MZ2F3Z8/?tag=tolees0ca-21'
 descuento: '63.65'
 average: '225.66'

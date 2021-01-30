@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'AIKELA Handyhalterung Auto  Handyhalter für Vent  Windschutzscheibe und Dashboard mit klebrigem Gel-Saugnapf  Anti-Shake Kompatibel iPhone Android Samsung Huawei'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B085ZJQQFG/?tag=tolees0ca-21'
 descuento: '36.02'
 average: '12.79'

@@ -16,6 +16,7 @@ comparePrice: 13.08 EUR
 prodname: 'Funko 34053 Kingdom Hearts 3: Riku POP Vinylfigur  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFDTKCP/?tag=tolees0ca-21'
 descuento: '45.18'
 average: '9.691666666666668'

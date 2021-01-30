@@ -16,6 +16,7 @@ comparePrice: 146.58 EUR
 prodname: 'Exquisit KS 85-9 RVA+ Kühlschrank/ 82 Liter Nutzinhalt/ EEK: A+/ Türanschlag wechselbar'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00L1HAYUW/?tag=tolees0ca-21'
 descuento: '21.54'
 average: '115.0'

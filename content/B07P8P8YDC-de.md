@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Playmobil 70209 Dollhouse Jugendzimmer  ab 4 Jahren  bunt  one Size'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P8P8YDC/?tag=tolees0ca-21'
 descuento: '33.36'
 average: '11.045000000000002'

@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'HP Officejet 3831 Multifunktionsdrucker  Instant Ink  Drucker  Kopierer  Scanner  Fax  WLAN  Airprint  mit 2 Probemonaten HP Instant Ink inklusive'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01HIH1P06/?tag=tolees0ca-21'
 descuento: '30.85'
 average: '62.17'

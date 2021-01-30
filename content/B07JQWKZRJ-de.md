@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'adidas Herren Terrex EASTRAIL Walkingschuhe  Schwarz  Carbon/Core Black/Grey Five Carbon/Core Black/Grey Five   43 1/3 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JQWKZRJ/?tag=tolees0ca-21'
 descuento: '29.29'
 average: '56.53'

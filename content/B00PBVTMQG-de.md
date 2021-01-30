@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Eschenbach Optik OPTIK Fernglas klein  weiß  VIVA 6X15 NEW'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00PBVTMQG/?tag=tolees0ca-21'
 descuento: '30.87'
 average: '38.02'

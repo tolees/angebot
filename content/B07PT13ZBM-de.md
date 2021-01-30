@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Smoby 312300 Tefal Evo Küche  Spielküche  Kinderküche  Spielzeugküche  für Kinder ab 3 Jahren  grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PT13ZBM/?tag=tolees0ca-21'
 descuento: '21.59'
 average: '94.72222222222221'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'uRage "Illuminated" Gaming Keyboard Tastatur  QWERTZ  an- und ausschaltbare  dreifarbige LED Beleuchtung  Präzisionsanschlag  Anti-Ghosting-Effekt  integrierte Handballenauflage  schwarz/blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00L47FEEU/?tag=tolees0ca-21'
 descuento: '41.53'
 average: '29.23'

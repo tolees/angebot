@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Geox Herren U SNAKE.2 A  Grün  Dk Green/Lt Grey C3287   43 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07STLQ1PZ/?tag=tolees0ca-21'
 descuento: '66.16'
 average: '37.22'

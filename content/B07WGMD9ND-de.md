@@ -16,6 +16,7 @@ comparePrice: 269.0 EUR
 prodname: 'SEIKO Automatische Uhr SRPD53K1  blau  Sport'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WGMD9ND/?tag=tolees0ca-21'
 descuento: '29.67'
 average: '189.2'

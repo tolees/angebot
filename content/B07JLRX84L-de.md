@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Playmobil 70004 Top Agents Spy Team Underwater Wing  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JLRX84L/?tag=tolees0ca-21'
 descuento: '30.72'
 average: '7.614444444444444'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Playmobil 70119 Spirit - Riding Free Reitplatz mit Lucky & Javier  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JLS11KJ/?tag=tolees0ca-21'
 descuento: '16.76'
 average: '15.466'

@@ -16,6 +16,7 @@ comparePrice: 10.95 EUR
 prodname: 'Finish Line Schmiermittel Keramik Kettenöl 120 ml  4002055'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001XRXZFG/?tag=tolees0ca-21'
 descuento: '37.81'
 average: '6.81'

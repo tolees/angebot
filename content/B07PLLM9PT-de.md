@@ -16,6 +16,7 @@ comparePrice: 1099.0 EUR
 prodname: 'Samsung RU7179 163 cm  65 Zoll  LED Fernseher  Ultra HD  HDR  Triple Tuner  Smart TV  [Modelljahr 2019]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PLLM9PT/?tag=tolees0ca-21'
 descuento: '27.30'
 average: '799.0'

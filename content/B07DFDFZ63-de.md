@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Funko 32118 The Flash: Vibe POP Vinylfigur  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFDFZ63/?tag=tolees0ca-21'
 descuento: '52.14'
 average: '10.16375'

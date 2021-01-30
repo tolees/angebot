@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Hasbro Play-Doh B9740EU4 - Magischer Ofen Knete  für fantasievolles und kreatives Spielen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06X9QRJLS/?tag=tolees0ca-21'
 descuento: '24.25'
 average: '24.99'

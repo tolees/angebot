@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'G & G KF6000A oder KF3000A 0 1g - 6000g Präzisionswaage Küchenwaage Briefwaage Tischwaage  KF3000A '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01JOS8H3K/?tag=tolees0ca-21'
 descuento: '57.15'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 36.9 EUR
 prodname: 'Paco Home Designer Teppich Wohnzimmer Ausgefallen Farbkombination Jungle Design Mehrfarbig  Grösse:160x220 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078WVX1T2/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '29.52'

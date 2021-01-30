@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'PLAYMOBIL Sand 70065 Sandeimerchen "Frühlingsblume"  Ab 2 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JLFKPJ1/?tag=tolees0ca-21'
 descuento: '45.22'
 average: '11.055'

@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'VIA FORTIS Resistance Bands für Fitness & Krafttraining/Klimmzugband und Klimmzughilfe mit Tasche und Übungsanleitung/Fitnessband Widerstandsband/Fitnessbänder Widerstandsbänder'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N6N5UBT/?tag=tolees0ca-21'
 descuento: '20.20'
 average: '7.9'

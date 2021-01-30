@@ -16,6 +16,7 @@ comparePrice: 729.0 EUR
 prodname: 'Samsung Galaxy Book W620 26 92 cm  10 6 Zoll  Convertible Tablet PC  Intel Core m3 7Y30  4GB RAM  64GB Speicher  Windows 10 Home  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072BPGY4R/?tag=tolees0ca-21'
 descuento: '47.46'
 average: '322.5'

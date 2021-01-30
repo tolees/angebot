@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Funko 33514 Marvel Studios 10: Groot  Chrome  POP Bobble  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFCBK7L/?tag=tolees0ca-21'
 descuento: '20.34'
 average: '12.263333333333334'

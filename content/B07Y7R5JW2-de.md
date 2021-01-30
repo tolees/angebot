@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Bluetooth Lautsprecher  AXLOIE Wireless tragbarer Lautsprecher Bluetooth 5.0 intensiver Bass HiFi Stereo Sound  TF-Karte/AUX-Freisprechanrufe Eingebautes Mikrofon 10 Stunden Spielzeit'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Y7R5JW2/?tag=tolees0ca-21'
 descuento: '25.03'
 average: '29.98'

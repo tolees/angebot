@@ -16,6 +16,7 @@ comparePrice: 39.12 EUR
 prodname: '3Ds Mario Sports Superstars  Eu '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MUF6O42/?tag=tolees0ca-21'
 descuento: '23.34'
 average: '29.99'

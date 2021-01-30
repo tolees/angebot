@@ -16,6 +16,7 @@ comparePrice: 558.95 EUR
 prodname: 'Bauknecht WATK Pure 96G4 DE Waschtrockner / EEK A / 9kg Waschen / 6kg Trocknen / 1400 UpM / Nachlegefunktion / Mengenautomatik / Mehrfachwasserschutz+ / SteamCare Knitterschutzprogramme'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079JDN9CM/?tag=tolees0ca-21'
 descuento: '19.67'
 average: '449.0'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Ravensburger 17956 - Roll your Puzzle Puzzlematte'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00QDWK4XM/?tag=tolees0ca-21'
 descuento: '40.97'
 average: '10.03'

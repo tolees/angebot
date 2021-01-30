@@ -16,6 +16,7 @@ comparePrice: 999.0 EUR
 prodname: 'Melitta Caffeo CI E970-101 Kaffeevollautomat | mit Milchbehälter | Zweikammern-Bohnenbehälter | One Touch Funktion | 15 Bar | Automatische Reinigungsprogramme | Silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003ZYWR18/?tag=tolees0ca-21'
 descuento: '45.05'
 average: '548.99'

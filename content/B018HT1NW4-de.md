@@ -16,6 +16,7 @@ comparePrice: 8.75 EUR
 prodname: 'Krampus [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B018HT1NW4/?tag=tolees0ca-21'
 descuento: '49.26'
 average: '4.44'

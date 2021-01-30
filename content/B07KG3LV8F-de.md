@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Lightailing Licht-Set Für  Bugatti Chiron  Modell - LED Licht-Set Kompatibel Mit Lego 42083 Modell NICHT Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KG3LV8F/?tag=tolees0ca-21'
 descuento: '40.01'
 average: '59.99'

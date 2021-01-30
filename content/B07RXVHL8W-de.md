@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Sony SRS-XB402M Bluetooth-Lautsprecher  EXTRA BASS  integriertes Amazon Alexa  Spotify Connect  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RXVHL8W/?tag=tolees0ca-21'
 descuento: '38.12'
 average: '99.0'

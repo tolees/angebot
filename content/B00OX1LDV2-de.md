@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Jomos Herren 1928 Low-Top  Braun  capucino/Cognac 155-3123   43 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00OX1LDV2/?tag=tolees0ca-21'
 descuento: '34.12'
 average: '52.67'

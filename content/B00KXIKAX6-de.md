@@ -16,6 +16,7 @@ comparePrice: 32.95 EUR
 prodname: 'Under Armour Herren Kurze Hose Ua Raid 8 Shorts  Schwarz  Small'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00KXIKAX6/?tag=tolees0ca-21'
 descuento: '48.86'
 average: '16.85'

@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Talisker Single Malt Whisky 10 Jahre  Geschenkpackung mit 2 Gläsern  1 x 0.7 l '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076JKSGMT/?tag=tolees0ca-21'
 descuento: '25.48'
 average: '28.31'

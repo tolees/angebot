@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Microsoft Ergonomic Mouse'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YGQJ9XN/?tag=tolees0ca-21'
 descuento: '30.01'
 average: '24.49'

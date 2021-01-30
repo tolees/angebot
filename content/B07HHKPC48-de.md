@@ -16,6 +16,7 @@ comparePrice: 259.99 EUR
 prodname: 'Bosch Akkuschrauber AdvancedDrill 18 Set  2 Akkus  18 Volt System  3 Aufsätze  im Koffer '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HHKPC48/?tag=tolees0ca-21'
 descuento: '35.77'
 average: '176.32333333333335'

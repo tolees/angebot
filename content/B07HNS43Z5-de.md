@@ -16,6 +16,7 @@ comparePrice: 289.0 EUR
 prodname: 'Philips 276E8VJSB/00 68 cm  27 Zoll  Monitor  HDMI  5ms Reaktionszeit  DisplayPort  3840 x 2160  60 Hz  nicht Curved  4K  Adaptive Sync  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HNS43Z5/?tag=tolees0ca-21'
 descuento: '20.90'
 average: '228.61'

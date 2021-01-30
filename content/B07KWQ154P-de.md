@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'BRIKSMAX Alter Angelladen Led Beleuchtungsset - Kompatibel Mit Lego 21310 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KWQ154P/?tag=tolees0ca-21'
 descuento: '45.46'
 average: '29.76777777777778'

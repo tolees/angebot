@@ -16,6 +16,7 @@ comparePrice: 4.86 EUR
 prodname: 'E-Mail für Dich [Special Edition]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001HUGYE8/?tag=tolees0ca-21'
 descuento: '17.90'
 average: '3.99'

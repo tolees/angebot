@@ -16,6 +16,7 @@ comparePrice: 49.44 EUR
 prodname: 'Bestand Aluminiumständer für Laptop und Macbook Desktop für Apple Macbook und alle Laptops Grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B073XJM2PJ/?tag=tolees0ca-21'
 descuento: '18.12'
 average: '40.48'

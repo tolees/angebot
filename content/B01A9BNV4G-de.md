@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Ravensburger Memory 21204 - Fireman Sam  Mein erstes Memory'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01A9BNV4G/?tag=tolees0ca-21'
 descuento: '25.70'
 average: '13.745000000000001'

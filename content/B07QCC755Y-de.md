@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'adidas CORE Men Archivo Running Schuh EF0419 cblack/ftwwht/gresix 44 2/3'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QCC755Y/?tag=tolees0ca-21'
 descuento: '33.29'
 average: '39.69'

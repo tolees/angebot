@@ -16,6 +16,7 @@ comparePrice: 6.29 EUR
 prodname: 'Element System Wandschiene 1-reihig  2 Stück  4 Abmessungen  3 farben  Länge 50 cm für Regalsystem  Regalträger  Wandregal  weiß  10000-00000'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0002YYSOS/?tag=tolees0ca-21'
 descuento: '46.10'
 average: '3.39'

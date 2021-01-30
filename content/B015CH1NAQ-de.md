@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'SanDisk Ultra Flair 64GB USB-Flash-Laufwerk USB 3.0 mit bis zu 150 MB/Sek  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B015CH1NAQ/?tag=tolees0ca-21'
 descuento: '35.02'
 average: '10.786666666666667'

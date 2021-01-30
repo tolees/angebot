@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'WMF Stelio Eierkocher  für 1-7 Eier  350 W  mit Härtegradeinstellung  Eierhalter  Messbecher mit Eipick  edelstahl matt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00NABN1Z2/?tag=tolees0ca-21'
 descuento: '43.32'
 average: '33.998000000000005'

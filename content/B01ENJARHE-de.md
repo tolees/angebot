@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Challenge Disc 2.0  e Balance Board per Bluetooth mit Smartphone verbinden inkl. App  Digitaler Trainer und lustige Spiele  I Therapiekreisel aus Holz mit Sensorchip I 44 cm Ø'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01ENJARHE/?tag=tolees0ca-21'
 descuento: '24.48'
 average: '207.21571428571428'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'PLAYMOBIL Dinos 9432 Forschermobil mit Stegosaurus und Seilwinde  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0766CKZBJ/?tag=tolees0ca-21'
 descuento: '43.35'
 average: '17.85307692307692'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'TOM TAILOR Herren Jeanshosen Marvin Straight Jeans Dark Stone wash Denim 32/32 10282 6000'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KWPDBSM/?tag=tolees0ca-21'
 descuento: '46.15'
 average: '37.69'

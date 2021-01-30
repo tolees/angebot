@@ -16,6 +16,7 @@ comparePrice: 33.4 EUR
 prodname: 'Playmobil 4013 - SuperSet Pinguinbecken'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B006JMJ31A/?tag=tolees0ca-21'
 descuento: '31.14'
 average: '23.0'

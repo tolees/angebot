@@ -16,6 +16,7 @@ comparePrice: 219.99 EUR
 prodname: 'Philips Sonicare DiamondClean Elektrische Zahnbürste HX9396/89 - Schallzahnbürste mit 5 Putzprogrammen  Timer  USB-Reise-Ladeetui & Ladeglas – Rose Gold'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074D1SSSR/?tag=tolees0ca-21'
 descuento: '31.84'
 average: '149.95'

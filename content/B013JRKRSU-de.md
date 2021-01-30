@@ -16,6 +16,7 @@ comparePrice: 81.99 EUR
 prodname: 'Beurer PO 40 Pulsoximeter  Ermittlung der arteriellen Sauerstoffsättigung im Blut'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B013JRKRSU/?tag=tolees0ca-21'
 descuento: '42.94'
 average: '46.78'

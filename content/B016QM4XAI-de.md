@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Tommy Hilfiger Herren CORE STRETCH SLIM POPLIN SHIRT Freizeithemd  Weiß  Bright White 100   Large'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B016QM4XAI/?tag=tolees0ca-21'
 descuento: '23.43'
 average: '53.52'

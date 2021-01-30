@@ -16,6 +16,7 @@ comparePrice: 94.9 EUR
 prodname: 'Bosch 0092S40070 Starterbatterien'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005XVUJWU/?tag=tolees0ca-21'
 descuento: '26.68'
 average: '69.58'

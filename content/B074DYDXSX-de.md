@@ -16,6 +16,7 @@ comparePrice: 569.0 EUR
 prodname: 'WD My Cloud Home Duo 12 TB Persönlicher Cloudspeicher - externe Festplatte 2-Bay - WLAN  USB 3.0. Backup  Videostreaming - WDBMUT0120JWT-EESN'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074DYDXSX/?tag=tolees0ca-21'
 descuento: '42.50'
 average: '327.2'

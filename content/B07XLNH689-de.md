@@ -16,6 +16,7 @@ comparePrice: 46.17 EUR
 prodname: 'Tales of: Vesperia + Berseria + Zestiria'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XLNH689/?tag=tolees0ca-21'
 descuento: '26.38'
 average: '33.99'

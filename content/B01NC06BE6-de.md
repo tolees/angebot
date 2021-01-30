@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Hasbro Gaming C2018398 - Klartext Partyspiel  Alter 16+ '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01NC06BE6/?tag=tolees0ca-21'
 descuento: '38.48'
 average: '22.708000000000002'

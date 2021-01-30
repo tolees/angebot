@@ -16,6 +16,7 @@ comparePrice: 247.49 EUR
 prodname: 'UGG Bailey Button Ii Che Damen Schneestiefel  Beige  Chestnut   38 EU  5.5 UK '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01AIJ8EQE/?tag=tolees0ca-21'
 descuento: '36.30'
 average: '157.66'

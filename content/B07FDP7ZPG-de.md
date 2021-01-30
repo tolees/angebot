@@ -16,6 +16,7 @@ comparePrice: 6.79 EUR
 prodname: '195/im Reich der Ungeheuer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FDP7ZPG/?tag=tolees0ca-21'
 descuento: '26.51'
 average: '4.99'

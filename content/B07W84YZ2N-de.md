@@ -16,6 +16,7 @@ comparePrice: 189.99 EUR
 prodname: 's.Oliver BLACK LABEL Damen Steppmantel mit Kunstfell-Blende Black 36'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W84YZ2N/?tag=tolees0ca-21'
 descuento: '67.90'
 average: '60.99'

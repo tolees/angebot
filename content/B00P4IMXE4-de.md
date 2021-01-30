@@ -16,6 +16,7 @@ comparePrice: 4.89 EUR
 prodname: 'Tony Bennett & Lady Gaga - Cheek to Cheek - Live! [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00P4IMXE4/?tag=tolees0ca-21'
 descuento: '29.86'
 average: '3.916666666666667'

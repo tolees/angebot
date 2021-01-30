@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Samsonite S Cure Disney Spinner Suitcase  75 cm  102 L  Blau  Mickey Summer Navy '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PVKQ7QZ/?tag=tolees0ca-21'
 descuento: '30.62'
 average: '158.88'

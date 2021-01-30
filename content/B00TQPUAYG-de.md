@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'FORTE Kompaktgarderobe inklusive Spiegel  Sandeiche Dekor  97.5 x 25 x 180 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00TQPUAYG/?tag=tolees0ca-21'
 descuento: '25.00'
 average: '59.99'

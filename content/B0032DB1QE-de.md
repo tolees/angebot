@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'Dragonball Z - Box 2/10  Episoden 36-74  [6 DVDs]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0032DB1QE/?tag=tolees0ca-21'
 descuento: '27.05'
 average: '35.74'

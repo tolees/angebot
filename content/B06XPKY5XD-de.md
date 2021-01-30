@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Spyderco Para 3 Taschenmesser Schwarz  Klingenlänge: 7 6 cm  01SP927'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XPKY5XD/?tag=tolees0ca-21'
 descuento: '18.13'
 average: '155.58999999999997'

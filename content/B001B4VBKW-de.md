@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'Brennenstuhl BREMAXX Verlängerungskabel  20m Kabel in orange  für den Einsatz im Außenbereich IP44  Stromkabel einsetzbar bis -35°C  Öl- und UV-beständig '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001B4VBKW/?tag=tolees0ca-21'
 descuento: '22.22'
 average: '32.14666666666666'

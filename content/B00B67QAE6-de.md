@@ -16,6 +16,7 @@ comparePrice: 9.74 EUR
 prodname: 'Outbreak - Lautlose Killer [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00B67QAE6/?tag=tolees0ca-21'
 descuento: '30.08'
 average: '6.81'

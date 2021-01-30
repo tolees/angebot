@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'B.K.Licht I 6er Set LED Einbaustrahler I Dimmbar I Schwenkbar I Ultra Flach 30mm I 5 5W LED Module I 470lm I warmweiße Lichtfarbe I IP23 I Spots I Einbauleuchten I Deckenspots I Deckenstrahler I LED Spot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01DSX3M6Y/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '55.99'

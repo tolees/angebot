@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Elektronische Tasche Kabeltasche Kabelorganizer Doppelte Schichte Elektronik Zubehör Organizer Tasche Reise für 9 7 Zoll Tablet  Ipad  Nintendo Switch  Ladegerät  Adapter  Maus'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PGPPBG2/?tag=tolees0ca-21'
 descuento: '37.52'
 average: '12.99'

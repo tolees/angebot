@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Clementoni 59031 Galileo-Evolution Roboter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06W9NRM2T/?tag=tolees0ca-21'
 descuento: '28.58'
 average: '49.99'

@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Disney Die Eiskönigin Elsa aus Arendelle Deluxe Modepuppe mit Outfit im Ombré-Look  inspiriert von Disneys Die Eiskönigin 2 – Spielzeug für Kinder ab 3 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RWBTTZV/?tag=tolees0ca-21'
 descuento: '54.97'
 average: '25.355454545454545'

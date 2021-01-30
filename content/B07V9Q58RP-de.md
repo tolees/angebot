@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'AVIWIS Micro USB Kabel  [4Pack 0.3M 1M 2M 3M] Nylon Micro USB Ladekabel Android Schnellladekabel für Samsung Galaxy S7 S6 J7 Note 5  Xiaomi  Huawei  Wiko  Nexus  Motorola  Nokia  Kindle  Echo Dot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07V9Q58RP/?tag=tolees0ca-21'
 descuento: '20.02'
 average: '8.74'

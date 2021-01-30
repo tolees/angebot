@@ -16,6 +16,7 @@ comparePrice: 79.33 EUR
 prodname: 'AWA - Sydney – Chrom - Waschtischarmatur – RED DOT 2015'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00Q2KZMOG/?tag=tolees0ca-21'
 descuento: '37.88'
 average: '49.28'

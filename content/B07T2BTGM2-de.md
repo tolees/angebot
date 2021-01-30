@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Sennheiser GSP 670 Wireless Gaming Headset  7.1 Surround Sound  Noise-Cancelling Mikrofon  Latenzarme Verbindung und Bluetooth  Flip-to-Mute  Kabellose Kopfhörer für Windows PC  PS4 und Handy'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07T2BTGM2/?tag=tolees0ca-21'
 descuento: '22.92'
 average: '269.0'

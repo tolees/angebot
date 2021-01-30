@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'L-RUN Damen Wasserschuhe Herren Aqua Socken Leichtes M_schwarz XXL  B: 9-9.5  M: 9-9.5 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07N7PL55Z/?tag=tolees0ca-21'
 descuento: '30.45'
 average: '15.99'

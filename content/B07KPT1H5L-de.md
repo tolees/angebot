@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Funko POP Sock HOP Betty BOOP & PUDG'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KPT1H5L/?tag=tolees0ca-21'
 descuento: '29.17'
 average: '8.5'

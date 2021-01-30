@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Kipling Damen CITY PACK S Rucksack  Blau  Deepest Blue   27x33.5x19 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XPCMBCC/?tag=tolees0ca-21'
 descuento: '61.40'
 average: '34.7'

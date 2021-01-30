@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Susan Y muttertagsgeschenke ideen ohrringe silber 925 perlen ohrringe damen antibakteriell schmuck damen geschenke für frauen schmuckkästchen damen weihnachtgeschenke für frauen personalisierter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B081GY96BR/?tag=tolees0ca-21'
 descuento: '80.01'
 average: '19.99'

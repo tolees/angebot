@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'Hasbro B7784EU4 - N-Strike Elite AccuStrike Alphahawk Präzisions-Spielzeugblaster'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N2G3YGV/?tag=tolees0ca-21'
 descuento: '31.27'
 average: '33.67'

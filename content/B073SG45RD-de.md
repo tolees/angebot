@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'HyperX HXK-DM01 Pulsefire FPS & FURY S Gaming Maus mit Mauspad Bundle'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B073SG45RD/?tag=tolees0ca-21'
 descuento: '28.70'
 average: '49.9'

@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'Samsung Sound Tower Lautsprecher MX-T70  Bluetooth  2.1-Kanal-System  Bass Booster  Karaoke-Modus'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B084HB1DKM/?tag=tolees0ca-21'
 descuento: '33.23'
 average: '399.97'

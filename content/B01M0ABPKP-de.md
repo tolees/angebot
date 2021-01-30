@@ -16,6 +16,7 @@ comparePrice: 8.09 EUR
 prodname: 'RITUALS The Ritual of Sakura AntitranspirantSpray   150 ml'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M0ABPKP/?tag=tolees0ca-21'
 descuento: '39.43'
 average: '4.9'

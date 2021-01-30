@@ -16,6 +16,7 @@ comparePrice: 124.99 EUR
 prodname: 'Polaroid ZIP Handydrucker mit ZINK Zero tintenfreier Drucktechnologie – Kompatibel mit iOS- & Androidgeräten - Blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00XM0XWUA/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '94.97666666666666'

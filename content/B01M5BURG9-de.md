@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'JBL E45BT On-Ear Bluetooth Kopfhörer - Headphones mit Textil-Kopfbügel und abnehmbarem Klinkenstecker Kabel - Bis zu 16 Stunden Akkulaufzeit Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M5BURG9/?tag=tolees0ca-21'
 descuento: '44.51'
 average: '55.48'

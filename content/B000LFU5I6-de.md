@@ -16,6 +16,7 @@ comparePrice: 14.22 EUR
 prodname: 'Silverline 726040 Schleifwalzen  25-tlg. Satz 80er-Körnung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000LFU5I6/?tag=tolees0ca-21'
 descuento: '36.78'
 average: '8.99'

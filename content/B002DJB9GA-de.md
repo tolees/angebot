@@ -16,6 +16,7 @@ comparePrice: 111.31 EUR
 prodname: 'BEABA 912111 - Wippe Transat Up & Down noir gris'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002DJB9GA/?tag=tolees0ca-21'
 descuento: '19.15'
 average: '89.99'

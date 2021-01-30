@@ -16,6 +16,7 @@ comparePrice: 5.84 EUR
 prodname: 'Battle Studies'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002QEXN2K/?tag=tolees0ca-21'
 descuento: '51.03'
 average: '2.86'

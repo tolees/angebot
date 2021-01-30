@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Aigital WLAN Repeater WLAN Verstärker Wireless Range Extender  300 Mbit/s WiFi Signal Verstaerker mit WPS Taste und Zwei Ethernet LAN Ports  2.4 GHz Kompatibel zu gängigen WLAN Geräten'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08K762LYM/?tag=tolees0ca-21'
 descuento: '52.01'
 average: '23.99'

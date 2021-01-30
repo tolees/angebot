@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Bright Starts June Berry höhenverstellbare Lauflernhilfe mit abnehmbarem Spielzeug  Lichtern  Melodien  Lautstärkeregler  hoher Rückenlehne  Sicherheitsstopper'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00GSX1VN8/?tag=tolees0ca-21'
 descuento: '20.02'
 average: '47.98'

@@ -16,6 +16,7 @@ comparePrice: 329.0 EUR
 prodname: 'Gigabyte GeForce GTX 1060 GV-N1060WF2OC-6GDGrafikkarte schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LZ2TDZO/?tag=tolees0ca-21'
 descuento: '43.77'
 average: '185.0'

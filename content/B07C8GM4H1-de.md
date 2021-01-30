@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Noise Cancelling Kopfhörer Leichte Srhythm NC25 Over Ear ANC Kopfhoerer Bluetooth Kabellos Faltbar mit 40 mm HD Tieftontöner Eingebaut Mikro HiFi CVC6.0 für Alle Geräte mit Bluetooth  Matt-Schwarz '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07C8GM4H1/?tag=tolees0ca-21'
 descuento: '33.34'
 average: '59.99'

@@ -16,6 +16,7 @@ comparePrice: 449.0 EUR
 prodname: 'Citizen Herren Chronograph Quartz Uhr mit Leder Armband AT8126-02E'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01KLLX7MA/?tag=tolees0ca-21'
 descuento: '42.25'
 average: '259.3'

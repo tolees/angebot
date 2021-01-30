@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Bosch Akku Schlagbohrschrauber UniversalImpact 18  2 Akku  18 Volt System  im Koffer '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QSY791S/?tag=tolees0ca-21'
 descuento: '35.06'
 average: '103.9'

@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Wrigley s Extra Professional Strong Mint Dose  50 Dragees'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01IHHKDFO/?tag=tolees0ca-21'
 descuento: '24.75'
 average: '2.25'

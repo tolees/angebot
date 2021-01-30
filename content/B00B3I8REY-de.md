@@ -16,6 +16,7 @@ comparePrice: 24.17 EUR
 prodname: 'KS Tools 515.0990 SlimPOWER Impact-Stecknuss-Satz  3-tlg.  1/2"'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00B3I8REY/?tag=tolees0ca-21'
 descuento: '17.25'
 average: '20.0'

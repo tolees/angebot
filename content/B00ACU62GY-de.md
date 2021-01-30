@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Remington SPF-300 Scherköpfe Kombi Pack  für F5800 und F7800 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00ACU62GY/?tag=tolees0ca-21'
 descuento: '55.42'
 average: '13.37'

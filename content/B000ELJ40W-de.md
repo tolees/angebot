@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Playmobil 4132 SuperSet Spielplatz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000ELJ40W/?tag=tolees0ca-21'
 descuento: '33.85'
 average: '15.134137931034482'

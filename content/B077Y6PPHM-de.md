@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Ravensburger Spielen und Lernen 24920 - Quips'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077Y6PPHM/?tag=tolees0ca-21'
 descuento: '51.22'
 average: '14.14'

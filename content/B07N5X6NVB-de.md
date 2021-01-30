@@ -16,6 +16,7 @@ comparePrice: 11.73 EUR
 prodname: 'Funko 38587 POP Vinyl: Big Bang Theory S2: Penny Sammelbares Spielzeug  Mehrfarben  Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07N5X6NVB/?tag=tolees0ca-21'
 descuento: '16.54'
 average: '9.796'

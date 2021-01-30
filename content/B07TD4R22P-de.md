@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'LIGHTAILING Licht-Set Für  Architecture Paris  Modell - LED Licht-Set Kompatibel Mit Lego 21044 Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TD4R22P/?tag=tolees0ca-21'
 descuento: '46.26'
 average: '42.99'

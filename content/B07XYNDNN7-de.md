@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Joyspot Kochmesser Japanisch Chefmesser  Santokumesser Küchenmesser 17cm  Deutsche Karbon-Edelstahlmesser Extra Scharfe Messerklinge mit Ergonomischer Griff  Beste für Home Kitchen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XYNDNN7/?tag=tolees0ca-21'
 descuento: '37.51'
 average: '24.99'

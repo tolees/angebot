@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Bluetooth Kopfhörer Kabellose Kopfhörer mit Premium Klangprofil Noise Cancelling 24 Stunden Akkulaufzeit Kabellose Ohrhörer IPX5 Wasserschutzklasse für iPhone Android in-Ear Kopfhörer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08BNQVRBH/?tag=tolees0ca-21'
 descuento: '59.99'
 average: '34.21555555555556'

@@ -16,6 +16,7 @@ comparePrice: 74.95 EUR
 prodname: 'Rieker 93157 Damen Winterstiefel Winter-Boots Fellboots Fellstiefel gefüttert warm Reißverschluss schwarz 41 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XW6VXL8/?tag=tolees0ca-21'
 descuento: '26.75'
 average: '57.28666666666666'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego Ideas Wall E  Kompatibel Mit Lego 21303 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SJ2SGGT/?tag=tolees0ca-21'
 descuento: '63.34'
 average: '21.99'

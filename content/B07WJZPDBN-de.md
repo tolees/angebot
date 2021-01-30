@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'RENTLIV TV Wandhalterung für 37-70 Zoll Fernseher  neigbare TV Halterung mit MAX VESA 600 x 400mm  Ladekapazität bis zu 60 kg'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WJZPDBN/?tag=tolees0ca-21'
 descuento: '15.01'
 average: '23.25923076923077'

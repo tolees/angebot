@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'Big Spielwarenfabrik 57072 Bausteine  Multicolour'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00M0LWL0O/?tag=tolees0ca-21'
 descuento: '42.01'
 average: '5.77'

@@ -16,6 +16,7 @@ comparePrice: 37.42 EUR
 prodname: 'Lacoste Herren ESPARRE BL 1 CMA Sneaker  Blau  Navy/White   42 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DMCMC85/?tag=tolees0ca-21'
 descuento: '18.23'
 average: '30.6'

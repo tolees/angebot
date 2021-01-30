@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Sports Laboratory Bauchweggürtel für Gewichtsverlust für Männer & Frauen Schwarz Verstellbar Bis Zu Eine Größe Passt Meistens mit kostenlosem Bag & Guide'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01GDACY7C/?tag=tolees0ca-21'
 descuento: '25.02'
 average: '11.99'

@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Sony HT-RT4  5.1 Soundbar System  600W  hohe Rücklautsprechern  HDMI  USB  NFC/Bluetooth  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0725FTG7Y/?tag=tolees0ca-21'
 descuento: '42.61'
 average: '219.0'

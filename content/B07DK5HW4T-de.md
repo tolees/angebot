@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: '✮ Barber Tools ✮ Rasiermesser mit austauschbarer Klingen. Mit 5 Rasierklingen  10 einfache Klingen  + Poliertuch + Hämostase-Stick 10g + Lagerung Pu + Hämostatischer Stick'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DK5HW4T/?tag=tolees0ca-21'
 descuento: '28.59'
 average: '9.99'

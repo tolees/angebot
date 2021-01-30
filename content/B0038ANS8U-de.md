@@ -16,6 +16,7 @@ comparePrice: 187.99 EUR
 prodname: 'KidKraft 53179 - Rosa Retroküche'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0038ANS8U/?tag=tolees0ca-21'
 descuento: '41.49'
 average: '109.99'

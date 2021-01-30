@@ -16,6 +16,7 @@ comparePrice: 6.59 EUR
 prodname: 'Gardena Reinigungsspritze: Wasserspritze mit stufenlos einstellbarem Strahl  zum Reinigen und Sprühen  Aquastop  Frostschutz  verpackt  18300-20 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00PNULHYU/?tag=tolees0ca-21'
 descuento: '38.85'
 average: '4.035'

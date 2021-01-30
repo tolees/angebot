@@ -16,6 +16,7 @@ comparePrice: 13.73 EUR
 prodname: 'Funko 38551 POP Vinyl: Castlevania: Adrian Tepes Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KPHL1ZB/?tag=tolees0ca-21'
 descuento: '38.09'
 average: '8.5'

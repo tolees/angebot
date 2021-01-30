@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Westmark Kartoffelstampfer  Kunststoff  Länge: 27 5 cm  Gallant  Schwarz/Rot  29632270'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01HVORHNA/?tag=tolees0ca-21'
 descuento: '57.22'
 average: '2.99'

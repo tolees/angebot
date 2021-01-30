@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'James Bond - Die Welt ist nicht genug [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00AK3S97S/?tag=tolees0ca-21'
 descuento: '24.92'
 average: '6.75'

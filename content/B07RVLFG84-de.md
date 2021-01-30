@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Funko 44821 POP TV: Game of Thrones-Theon w/Flaming Arrows  GW  Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RVLFG84/?tag=tolees0ca-21'
 descuento: '27.67'
 average: '9.556521739130435'

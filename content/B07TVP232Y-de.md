@@ -16,6 +16,7 @@ comparePrice: 61.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego Transporter für Mähdrescher  Kompatibel Mit Lego 60223 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TVP232Y/?tag=tolees0ca-21'
 descuento: '40.33'
 average: '36.99'

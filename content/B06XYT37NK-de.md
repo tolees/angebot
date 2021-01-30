@@ -16,6 +16,7 @@ comparePrice: 50.99 EUR
 prodname: 'SanDisk SDSQXCG-064G-GN6MA 64GB Extreme Pro Micro SD Karte mit Adapter  Schwarz/Rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XYT37NK/?tag=tolees0ca-21'
 descuento: '34.03'
 average: '33.64'

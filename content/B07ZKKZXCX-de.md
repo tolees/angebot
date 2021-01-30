@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'INPHIC Bluetooth-Maus  Multi-Device Silent wiederaufladbare Bluetooth-Funkmaus  Tri-Mode: BT 5.0/3.0+2.4G   1600 DPI Ergonomische tragbare Maus kabellos für Laptop-PC-Computer  Mac OS Android Windows'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZKKZXCX/?tag=tolees0ca-21'
 descuento: '34.63'
 average: '16.99'

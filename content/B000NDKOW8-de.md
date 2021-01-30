@@ -16,6 +16,7 @@ comparePrice: 11.97 EUR
 prodname: 'Kathrein ESC 30 Sat 3Loch Einzeldose'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000NDKOW8/?tag=tolees0ca-21'
 descuento: '20.47'
 average: '9.52'

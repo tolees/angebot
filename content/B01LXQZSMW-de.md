@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Samsonite - Openroad Bailhandle 15 6" Erweiterbar  Schwarz  Jet SCHWARZ '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LXQZSMW/?tag=tolees0ca-21'
 descuento: '58.59'
 average: '78.99333333333334'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Philips Elektrorasierer Damen SatinShave Advanced BRL130/00 – Elektrischer Rasierer inklusive zusätzlichem Kammaufsatz zum Trimmen für die Körperbehaarung an den Beinen und Achseln'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BNMSSM0/?tag=tolees0ca-21'
 descuento: '24.56'
 average: '30.17'

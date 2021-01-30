@@ -16,6 +16,7 @@ comparePrice: 207.0 EUR
 prodname: 'Huawei P10 Smartphone  12 95 cm  5 1 Zoll  Touch-Display  64 GB Interner Speicher  Android 7.0   EMUI 5.1  Mystic Silver'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XC3HLLZ/?tag=tolees0ca-21'
 descuento: '34.98'
 average: '134.59'

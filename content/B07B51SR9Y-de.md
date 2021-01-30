@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'LG Beamer PF50KS bis 254 cm  100 Zoll  CineBeam Full HD LED Projektor  600 Lumen  USB Type-C  webOS   weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B51SR9Y/?tag=tolees0ca-21'
 descuento: '49.92'
 average: '300.0'

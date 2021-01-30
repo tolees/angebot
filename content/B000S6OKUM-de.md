@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Sorel Herren Caribou Winterstiefel  Dunkelbraun  Bruno   43 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000S6OKUM/?tag=tolees0ca-21'
 descuento: '46.21'
 average: '91.44'

@@ -16,6 +16,7 @@ comparePrice: 89.36 EUR
 prodname: 'Kitchen Emperor Santokumesser  Küchenmesser  Kuechenmesser Scharfe Klinge  Prämie Rostfreier Stahl Chef Messer mit pakakaholzgriff'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HRQ4SRM/?tag=tolees0ca-21'
 descuento: '70.92'
 average: '25.99'

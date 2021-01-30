@@ -16,6 +16,7 @@ comparePrice: 13.59 EUR
 prodname: 'wolketon Fahrradschloss-Schloss 90cm lang Kettenschloss Stahl mit Zahlen für Fahrräd  Motorräd und Elektrofahrzeuge Nicht leicht zu rosten'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TKJ26XZ/?tag=tolees0ca-21'
 descuento: '32.52'
 average: '10.58'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'SanDisk Ultra SDXC I 128 GB bis zu 80 MB/Sek  Class 10 Speicherkarte [Standardverpackung]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0143IISD0/?tag=tolees0ca-21'
 descuento: '53.35'
 average: '13.99'

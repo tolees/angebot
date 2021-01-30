@@ -16,6 +16,7 @@ comparePrice: 22.79 EUR
 prodname: 'DELL KB216 USB QWERTY US International Schwarz Tastatur - Tastaturen  Standard  Verkabelt  USB  QWERTY  Schwarz '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01B8OSVCK/?tag=tolees0ca-21'
 descuento: '42.96'
 average: '13.0'

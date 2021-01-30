@@ -16,6 +16,7 @@ comparePrice: 21.44 EUR
 prodname: 'Bosch Professional 40-tlgs. Bohrer Bit Set  Pick and Click  extra harte Schrauber Bits  mit Universalhalter '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PC5WFLY/?tag=tolees0ca-21'
 descuento: '20.76'
 average: '16.99'

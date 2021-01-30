@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Calvin Klein Herren Analog Quarz Uhr mit Leder Armband K8Q311C1'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CYRZK73/?tag=tolees0ca-21'
 descuento: '34.95'
 average: '129.45'

@@ -16,6 +16,7 @@ comparePrice: 111.0 EUR
 prodname: 'Blanco Botton Pro 45/2 Manuell; Müllsystem für die Abfalltrennung in der Küche  mit 2 Mülleimern  je 13 l   zur Boden-Montage im 45 cm-Unterschrank; 517467'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007WAYS8G/?tag=tolees0ca-21'
 descuento: '43.06'
 average: '63.2'

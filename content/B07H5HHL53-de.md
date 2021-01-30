@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Küchenhelfer Set Silikon Küchenutensilien aus Edelstahl und Holzoptik  Aufhängen Hitzebeständig Kochbesteck  Schneebesen  Pfannenwender  Spaghettilöffel Zange  Schöpflöffel - Chef’s Hand  9 Teilig '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07H5HHL53/?tag=tolees0ca-21'
 descuento: '39.03'
 average: '24.99'

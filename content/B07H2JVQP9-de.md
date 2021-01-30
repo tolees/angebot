@@ -16,6 +16,7 @@ comparePrice: 19.78 EUR
 prodname: 'Omars Powerbank 10000mAh Externer Akku 3 Ausgänge 2 USB-A 9V/2A max Quick Charge 3.0 & 30W PD USB C für Handy iPhone X 8 iPad Samsung Galaxy S9 S8 S7 Laptop Nintendo Switch Tragbar Ladegerät 10000'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07H2JVQP9/?tag=tolees0ca-21'
 descuento: '49.49'
 average: '9.99'

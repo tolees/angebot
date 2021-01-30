@@ -16,6 +16,7 @@ comparePrice: 19.97 EUR
 prodname: 'Jurassic Park 2 - Vergessene Welt   4K Ultra HD   + Blu-ray '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B5TJ65W/?tag=tolees0ca-21'
 descuento: '15.02'
 average: '16.97'

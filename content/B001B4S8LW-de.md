@@ -16,6 +16,7 @@ comparePrice: 4.79 EUR
 prodname: 'Brennenstuhl Safe-Box / Schutzbox für Verlängerungskabel  Schutzkapsel für Kabel  für die Verwendung im Innenbereich  grün'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001B4S8LW/?tag=tolees0ca-21'
 descuento: '63.05'
 average: '1.77'

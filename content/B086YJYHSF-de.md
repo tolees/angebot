@@ -16,6 +16,7 @@ comparePrice: 379.98 EUR
 prodname: 'K9CK Bauspielzeug  Bauset Modifiziertes Paket Lässt Sich umbauen Kompatibel mit Lego 42082 Technic: Geländegängiger'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B086YJYHSF/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '189.99'

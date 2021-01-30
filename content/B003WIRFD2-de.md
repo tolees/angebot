@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Kingston SDC4/16GB Micro SDHC 16GB bis zu 4MB/s Klasse 4 Speicherkarte  inkl. microSD zu SD Adapter  '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003WIRFD2/?tag=tolees0ca-21'
 descuento: '59.94'
 average: '2.8'

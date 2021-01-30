@@ -16,6 +16,7 @@ comparePrice: 899.99 EUR
 prodname: 'HP Pavilion Gaming 15-dk0007ng  15 6 Zoll / FHD IPS  Gaming Notebook  Intel Core i5-9300H  16GB DDR4  512GB SSD  32GB Intel Optane  Nvidia GeForce GTX 1650 4GB GDDR5  Windows 10  schwarz / grün'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SDVGW8Z/?tag=tolees0ca-21'
 descuento: '20.55'
 average: '617.5'

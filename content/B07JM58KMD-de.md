@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'PLAYMOBIL Country 70133 Bauernhaus  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JM58KMD/?tag=tolees0ca-21'
 descuento: '24.00'
 average: '30.365833333333335'

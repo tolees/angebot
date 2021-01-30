@@ -16,6 +16,7 @@ comparePrice: 68.99 EUR
 prodname: 'Xian Ju Nachttischlampe Mit Bluetooth Lautsprecher  Nachtleuchte LED Nachtlampe Schlummerleuchte Stimmungslicht Mit 7 Farbwechsel Touch Control Nachttischlampe Für Camping  Romantische Geschenke'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07H8XQSDK/?tag=tolees0ca-21'
 descuento: '55.08'
 average: '30.99'

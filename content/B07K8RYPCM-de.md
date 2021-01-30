@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'infactory Spielbaustein-Klebeband: Selbstklebendes Spielbaustein-Tape für gängige Systeme  1 m  hellblau  Spielzeug '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07K8RYPCM/?tag=tolees0ca-21'
 descuento: '61.63'
 average: '4.95'

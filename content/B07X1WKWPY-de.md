@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Anker Powerbank  PowerCore Slim 10000 PD kompakte 10000mAh mit USB-C Power Delivery  18W  für iPhone 8 / 8+ / X / XS / XR / XS Max  Samsung Galaxy S10  Pixel 3 / 3XL  iPad Pro 2018'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07X1WKWPY/?tag=tolees0ca-21'
 descuento: '34.64'
 average: '19.6'

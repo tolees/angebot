@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Puma Popcat  Unisex-Erwachsene Dusch- & Badeschuhe  Violett  Elderberry-Puma Team Gold 42   43 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DBXQCSK/?tag=tolees0ca-21'
 descuento: '44.91'
 average: '10.99'

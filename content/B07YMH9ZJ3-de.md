@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: '1917/Ost'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YMH9ZJ3/?tag=tolees0ca-21'
 descuento: '22.79'
 average: '9.96'

@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'Superfit HAPPY 800293  Jungen Hohe Hausschuhe  Blau  Ocean 80   26 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01CZJDS0C/?tag=tolees0ca-21'
 descuento: '35.07'
 average: '16.85'

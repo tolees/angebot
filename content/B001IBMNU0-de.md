@@ -16,6 +16,7 @@ comparePrice: 24.31 EUR
 prodname: 'Bosch Professional 10tlg. Stichsägeblatt-Set Robust Line  Wood und Metal zum Sägen in Holz und Metall  Zubehör Stichsäge '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001IBMNU0/?tag=tolees0ca-21'
 descuento: '50.64'
 average: '12.0'

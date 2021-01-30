@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'MUSTANG Herren Slim Fit Oregon Tapered Jeans'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078YL5TVN/?tag=tolees0ca-21'
 descuento: '25.00'
 average: '59.99'

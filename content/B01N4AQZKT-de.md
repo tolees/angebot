@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Starboy  2lp  [Vinyl LP]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N4AQZKT/?tag=tolees0ca-21'
 descuento: '26.68'
 average: '19.79'

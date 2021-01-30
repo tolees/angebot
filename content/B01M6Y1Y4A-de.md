@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Red Dead Redemption 2 Standard Edition [PlayStation 4] Disk'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M6Y1Y4A/?tag=tolees0ca-21'
 descuento: '77.18'
 average: '18.765714285714285'

@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Lenovo Yoga Smart Tab 25 5 cm  10 1 Zoll  1920x1200  FHD  IPS  Touch  Tablet-PC  Octa-Core  3 GB RAM  32 GB eMMC  Wi-Fi  LTE  Android 9  grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0857LVFWM/?tag=tolees0ca-21'
 descuento: '17.92'
 average: '229.0'

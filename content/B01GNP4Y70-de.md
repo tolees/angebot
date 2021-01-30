@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Dark Grey/White'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01GNP4Y70/?tag=tolees0ca-21'
 descuento: '24.78'
 average: '80.99'

@@ -16,6 +16,7 @@ comparePrice: 899.0 EUR
 prodname: 'Sigma 10-20 mm F3 5 EX DC HSM-Objektiv  82 mm Filtergewinde  für Canon Objektivbajonett '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002D2VS9U/?tag=tolees0ca-21'
 descuento: '65.22'
 average: '312.64'

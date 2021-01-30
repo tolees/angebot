@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Tommy Hilfiger Herren-Ketten mit Anhänger & Anhänger Edelstahl 2790062'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NPW1ZXM/?tag=tolees0ca-21'
 descuento: '43.48'
 average: '39.0'

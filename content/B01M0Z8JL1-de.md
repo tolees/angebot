@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'HÖGL Pumps Boulevard 90 Red 4.5 0-189004'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M0Z8JL1/?tag=tolees0ca-21'
 descuento: '51.09'
 average: '63.58'

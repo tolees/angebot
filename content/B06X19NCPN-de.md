@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'Osprey Fairview 70 Reisetasche für Frauen  mit abnehmbarem 13-Liter-TagesrucksackReisetasche für Frauen  mit abnehmbarem 13-Liter-Tagesrucksack - Rainforest Green  WS/WM '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06X19NCPN/?tag=tolees0ca-21'
 descuento: '28.45'
 average: '128.79'

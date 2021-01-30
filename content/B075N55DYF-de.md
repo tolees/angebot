@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Sylvanian Families 5285 5285-Schlafzimmer-und Schmink-Set  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075N55DYF/?tag=tolees0ca-21'
 descuento: '26.91'
 average: '14.662380952380952'

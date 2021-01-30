@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Fossil Herren-Kette mit Anhänger Edelstahl Leder 45 cm - JF00899797'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00EE6I9WM/?tag=tolees0ca-21'
 descuento: '22.46'
 average: '30.24'

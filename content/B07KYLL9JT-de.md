@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Panama Jack Damen Julia Cork Riemchensandalen  Blau  Marino B4   38 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KYLL9JT/?tag=tolees0ca-21'
 descuento: '49.51'
 average: '49.99'

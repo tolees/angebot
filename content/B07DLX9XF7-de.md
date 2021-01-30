@@ -16,6 +16,7 @@ comparePrice: 329.0 EUR
 prodname: 'SAMSONITE PRO-DLX 5 - Spinner Tote for 15.6   Laptop - 3.3 KG Reise-Henkeltasche  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DLX9XF7/?tag=tolees0ca-21'
 descuento: '29.16'
 average: '234.38'

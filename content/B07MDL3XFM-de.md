@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Seagate Backup Plus Portable  tragbare externe Festplatte  5 TB  2.5 Zoll  USB 3.0  PC & Mac  schwarz  ModelNr.: STHP5000400'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MDL3XFM/?tag=tolees0ca-21'
 descuento: '24.03'
 average: '108.96666666666667'

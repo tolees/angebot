@@ -16,6 +16,7 @@ comparePrice: 279.99 EUR
 prodname: 'Arlo Pro2 Smart Home Zusatz-Überwachungskamera & Sicherheitsalarm  130 Grad Blickwinkel  kabellos  WLAN  Bewegungsmelder  Innen/Außen  Nachtsicht  wetterfest  2-Wege Audio  weiß  VMC4030P'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0777VVCBF/?tag=tolees0ca-21'
 descuento: '44.64'
 average: '154.99'

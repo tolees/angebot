@@ -16,6 +16,7 @@ comparePrice: 599 EUR
 prodname: 'LG 34UC79G-B 86 36 cm  34 Zoll  Curved 21:9 UltraWideTM Full HD IPS Gaming Monitor  144 Hz  AMD Radeon FreeSync  DAS Mode   schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LN1ONI4/?tag=tolees0ca-21'
 descuento: '29.89'
 average: '419.95'

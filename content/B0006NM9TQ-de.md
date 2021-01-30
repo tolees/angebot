@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Ravensburger 21108 1 Memory Die Eiskönigin Lernspiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0006NM9TQ/?tag=tolees0ca-21'
 descuento: '25.75'
 average: '10.870869565217392'

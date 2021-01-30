@@ -16,6 +16,7 @@ comparePrice: 53.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego Ideas Pop-Up-Buch  Kompatibel Mit Lego 21315 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TZQCHN8/?tag=tolees0ca-21'
 descuento: '55.57'
 average: '27.913076923076922'

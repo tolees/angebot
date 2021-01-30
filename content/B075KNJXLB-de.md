@@ -16,6 +16,7 @@ comparePrice: 77.3 EUR
 prodname: 'hansgrohe Wasserhahn Novus wassersparende Armatur  Auslauf Höhe 100mm mit Zugstangen Ablauf  Chrom'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075KNJXLB/?tag=tolees0ca-21'
 descuento: '24.98'
 average: '57.99'

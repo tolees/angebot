@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'CMP Softshell Jungen Kapuzen Jacke  Schwarz  U901   140'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003Z0O5SA/?tag=tolees0ca-21'
 descuento: '56.27'
 average: '17.47'

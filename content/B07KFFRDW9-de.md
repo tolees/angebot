@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Aitsite Schneeflocke Multi-Tool 18-in-1 Tragbares Edelstahl-Multifunktionswerkzeug für Outdoor-Abent  Schwarz '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KFFRDW9/?tag=tolees0ca-21'
 descuento: '50.03'
 average: '7.99'

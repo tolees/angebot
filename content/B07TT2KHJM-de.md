@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'ENACFIRE SoundBar Bluetooth Lautsprecher  12W Kabellose Tragbare Musikbox mit Freisprechfunktion  25 Stunden Spielzeit  30m Bluetooth Reichweite  IPX7 Wasserdicht'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TT2KHJM/?tag=tolees0ca-21'
 descuento: '17.37'
 average: '32.864999999999995'

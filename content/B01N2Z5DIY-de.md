@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Samsung Galaxy A3  2017  Smartphone  12 04 cm  4 7 Zoll  Touch-Display  16 GB Speicher  Android 6.0  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N2Z5DIY/?tag=tolees0ca-21'
 descuento: '26.44'
 average: '219.95'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Panasonic RP-HF410BE-W Bluetooth Kopfhörer  24 h Akkulaufzeit  Quick-Charge  Sprachsteuerung  On-Ear  leichte Kopfhörer faltbar  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NNBQ8TL/?tag=tolees0ca-21'
 descuento: '39.47'
 average: '30.26'

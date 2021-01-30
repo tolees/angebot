@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'JBL E65BTNC Over Ear Bluetooth Kopfhörer - Active Noise Cancelling Headphones mit JBL Signature Sound - Musikgenuss für bis zu 24 Stunden Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0765Z1NWT/?tag=tolees0ca-21'
 descuento: '57.29'
 average: '84.99'

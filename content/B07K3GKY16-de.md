@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'SteelSeries Apex M750 Mechanische Gaming-Tastatur  RGB-Beleuchtung pro Taste  6 Makro-Tasten  Deutsches QWERTZ-Layout '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07K3GKY16/?tag=tolees0ca-21'
 descuento: '18.23'
 average: '139.0'

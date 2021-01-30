@@ -16,6 +16,7 @@ comparePrice: 12.82 EUR
 prodname: 'Leuchtturm 313845 Banknotenalbum'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005VQODPG/?tag=tolees0ca-21'
 descuento: '33.70'
 average: '8.5'

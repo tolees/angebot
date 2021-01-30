@@ -16,6 +16,7 @@ comparePrice: 7.45 EUR
 prodname: '5 Zimmer  Küche  Sarg'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00UDUL3OY/?tag=tolees0ca-21'
 descuento: '52.89'
 average: '3.51'

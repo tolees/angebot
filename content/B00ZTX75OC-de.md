@@ -16,6 +16,7 @@ comparePrice: 17.16 EUR
 prodname: 'Whiskas 1 + Katzenfutter – Fisch-Auswahl in Sauce – Hochwertiges Nassfutter mit vielen Vitaminen – 48 Portionsbeutel à 100g'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00ZTX75OC/?tag=tolees0ca-21'
 descuento: '34.97'
 average: '11.16'

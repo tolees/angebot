@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'LABISTS Raspberry Pi 4 Model B 4 GB Ultimatives Kit mit 32GB Class10 Micro SD-Karte  5 1V 3 0A USB-C EIN/Aus-Schaltnetzteil  3 Premium Kupfer Kühlkörper  Micro HDMI-Kabel  Premium Schwarzes Gehäuse'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W7Q6ZC9/?tag=tolees0ca-21'
 descuento: '15.39'
 average: '98.99'

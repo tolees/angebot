@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'WIN.MAX Dartpfeile 12 Stück Steel Darts Pfeile Set 24 Gramm Profi Steeldarts mit Metallspitze Darts Steel dartpfeil Dart Aluminium Schaft 30 Flights 50 Anti-Lose Gummiringe Steeldarts  12 Stück '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CKQNWKQ/?tag=tolees0ca-21'
 descuento: '60.31'
 average: '12.3'

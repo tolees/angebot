@@ -16,6 +16,7 @@ comparePrice: 32.9 EUR
 prodname: 'Mantona Colt DSLR Kamera Tasche für Spiegelreflex  SLR  Kompaktkamera  Systemkamera  Schultertasche Umhängetasche mit Platz für Zubehör  wasserdicht'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002CMSOFW/?tag=tolees0ca-21'
 descuento: '51.91'
 average: '15.82'

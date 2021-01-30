@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Anker PowerPort+ Atom III Kompaktes 60W PIQ 3.0 & GaN Tech USB-C-Wandladegerät  Doppel-Port mit PIQ 2.0 USB-A und 45W USB-C  USB-C Laptops  Macbook  iPad Pro  iPhone  Galaxy  Pixel und mehr'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QL5CXNR/?tag=tolees0ca-21'
 descuento: '28.58'
 average: '28.56'

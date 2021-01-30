@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Occulto 10 Paar Damen Socken aus Baumwolle Punkte und Streifen Baumwollsocken Sneakersocken  39-42  Schwarz '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TVK5TVT/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '13.59'

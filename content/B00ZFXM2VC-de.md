@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Villeroy & Boch Toy s Delight Mittelgroße Vorratsdose  Premium Porzellan  Weiß/Rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00ZFXM2VC/?tag=tolees0ca-21'
 descuento: '30.06'
 average: '31.445'

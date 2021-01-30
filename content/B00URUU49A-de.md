@@ -16,6 +16,7 @@ comparePrice: 105.88 EUR
 prodname: 'Einhell Schmutzwasserpumpe GE-DP 7330 LL ECO  730 W  Ø 30 mm Fremdkörper  16.500 L/h Förderleistung  Absaugniveau-Regelung  Schwimmerschalter  Tragegriff '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00URUU49A/?tag=tolees0ca-21'
 descuento: '24.28'
 average: '100.3075'

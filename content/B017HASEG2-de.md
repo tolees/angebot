@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Hasbro B5286ES2 Disney Prinzessin Schimmerglanz Rapunzel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B017HASEG2/?tag=tolees0ca-21'
 descuento: '32.86'
 average: '12.75'

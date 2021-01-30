@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Hasbro - Kristallica  kindgerechtes Geschicklichkeitsspiel ab 3 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XYHJR7C/?tag=tolees0ca-21'
 descuento: '32.02'
 average: '14.19'

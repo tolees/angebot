@@ -16,6 +16,7 @@ comparePrice: 13.79 EUR
 prodname: 'Ravensburger 19549 Star Wars Episode VII  1000-teilig Puzzle'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00VR4MEA2/?tag=tolees0ca-21'
 descuento: '37.35'
 average: '8.977500000000001'

@@ -16,6 +16,7 @@ comparePrice: 1009.0 EUR
 prodname: 'Neff T18TT16N0 Elektrokochfeld N70 / 80cm / TwistPad  / Bräterzone / Glaskeramik / Edelstahlrahmen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B016IGUH02/?tag=tolees0ca-21'
 descuento: '66.20'
 average: '341.0'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Die Rotkäppchen-Verschwörung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000PAU11S/?tag=tolees0ca-21'
 descuento: '85.89'
 average: '2.68'

@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'Maxi-Cosi Priori SPS + Kindersitz mit optimalen Seitenaufprallschutz und 4 Sitz- und Ruhepositionen  Gruppe 1  9-18 kg   nutzbar ab 9 Monate bis 4 Jahre  Slate Black  schwarz '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MQ2KCSU/?tag=tolees0ca-21'
 descuento: '34.63'
 average: '97.99'

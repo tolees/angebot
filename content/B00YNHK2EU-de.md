@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Castrol POWER 1 2T 2-Takt Motorrad Motorenöl 1L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00YNHK2EU/?tag=tolees0ca-21'
 descuento: '74.87'
 average: '5.0'

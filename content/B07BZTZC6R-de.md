@@ -16,6 +16,7 @@ comparePrice: 738 EUR
 prodname: 'Yamaha P-125B Digital Piano  schwarz - - Kompaktes elektronisches Klavier in schlichtem Design für perfekte Spielbarkeit - Kompatibel mit kostenloser App "Smart Pianist"'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BZTZC6R/?tag=tolees0ca-21'
 descuento: '45.80'
 average: '400'

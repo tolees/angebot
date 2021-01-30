@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Merrell Damen Vapor Glove 4 Hallenschuhe  Blau  Velvet Morning   39 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DYH4SKW/?tag=tolees0ca-21'
 descuento: '27.55'
 average: '72.45'

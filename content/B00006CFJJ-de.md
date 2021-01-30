@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Willow [Special Edition]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00006CFJJ/?tag=tolees0ca-21'
 descuento: '21.44'
 average: '21.99'

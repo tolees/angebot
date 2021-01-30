@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'B.K.Licht I schwenkbare LED Deckenleuchte I 6-flammiger Deckenspot inkl. 6x 3W GU10 Leuchtmittel I warmweiße Lichtfarbe I 6x 250lm Deckenlampe I Wohnzimmerlampe I Länge: 1 2m'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BCCSX6W/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '35.99'

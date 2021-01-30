@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Bombay Sapphire English Estate Limited Edition  0.7 l '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PPWMSX1/?tag=tolees0ca-21'
 descuento: '32.01'
 average: '16.99'

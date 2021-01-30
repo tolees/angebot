@@ -16,6 +16,7 @@ comparePrice: 299 EUR
 prodname: 'beyerdynamic Phonum Wireless Bluetooth Speakerphone Freisprecheinrichtung für Skype  Google Handouts  Cisco WebEx  Spark  Zoom  VoIP Kommunikation  Telefonkonferenzen  PC Mac und Windows'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07N7QBGGW/?tag=tolees0ca-21'
 descuento: '33.44'
 average: '199'

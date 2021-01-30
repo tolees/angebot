@@ -16,6 +16,7 @@ comparePrice: 898.0 EUR
 prodname: 'Philips LFH0720 Analoges Schreibtisch-Wiedergabesystem  Mini-Kassette  incl. Fußschalter  Unterkinn-Kopfhörer Netzteil  30 Min. Mini-Kassette   Anthrazit'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0006ZXLIW/?tag=tolees0ca-21'
 descuento: '54.34'
 average: '410.0'

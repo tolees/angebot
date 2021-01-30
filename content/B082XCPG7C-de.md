@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Tesoky Karaoke Mikrofon Bluetooth mit Lichteffekte Upgraded 4-in-1 Drahtloses Mikrofon für Kinder und Erwachsene zu Hause KTV/Party Tragbares Handmikrofon mit Sprecher für Android/IOS/PC/Laptop'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B082XCPG7C/?tag=tolees0ca-21'
 descuento: '48.01'
 average: '25.99'

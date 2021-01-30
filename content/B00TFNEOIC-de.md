@@ -16,6 +16,7 @@ comparePrice: 18.85 EUR
 prodname: 'normani 4 x Herren Retroshorts mit hohem Baumwollanteil und verschiedenen Motiven Farbe Red Cross Größe L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00TFNEOIC/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '15.08'

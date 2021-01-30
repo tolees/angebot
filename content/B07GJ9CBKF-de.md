@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'riverso Herren Kapuzenpullover Kapuzensweater Hoodie Pullover Karl Einfarbig mit Kängurutasche Kapuze mit Tunnelzug Anthrazit Grau Blau S M L XL XXL  Größe:L  Farbe:Grey Melange Standart 1'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GJ9CBKF/?tag=tolees0ca-21'
 descuento: '66.72'
 average: '29.950000000000003'

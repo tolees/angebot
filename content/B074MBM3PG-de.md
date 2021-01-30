@@ -16,6 +16,7 @@ comparePrice: 16.06 EUR
 prodname: 'Somat Spülmaschinen-Tabs 10 All in 1 Extra  extra kraftvolle Reinigung und Edelstahlglanz  1 x 59 Tabs '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074MBM3PG/?tag=tolees0ca-21'
 descuento: '29.39'
 average: '14.113333333333333'

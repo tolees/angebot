@@ -16,6 +16,7 @@ comparePrice: 52.99 EUR
 prodname: 'FURREAL Friends E4649EU4 FurReal Hector  Mein Wachhund-reagiert auf Bewegung  heult und bellt  Multicolor'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KQGKFPJ/?tag=tolees0ca-21'
 descuento: '28.21'
 average: '38.896'

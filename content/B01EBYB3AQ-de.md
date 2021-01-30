@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Bruetting KANSAS  Unisex-Erwachsene Trekking- & Wanderschuhe  Schwarz  Schwarz/anthrazit   36 EU  3 Erwachsene UK '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01EBYB3AQ/?tag=tolees0ca-21'
 descuento: '24.47'
 average: '52.83'

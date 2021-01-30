@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'LIGHTAILING Licht-Set Für  Architecture Capitol  Modell - LED Licht-Set Kompatibel Mit Lego 21030 Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RZBQBVL/?tag=tolees0ca-21'
 descuento: '53.76'
 average: '36.99'

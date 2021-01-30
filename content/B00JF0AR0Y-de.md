@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Microsoft Wireless Mobile Mouse 1850  Maus  schwarz  kabellos  für Rechts- und Linkshänder geeignet '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00JF0AR0Y/?tag=tolees0ca-21'
 descuento: '44.32'
 average: '9.46'

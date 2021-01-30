@@ -16,6 +16,7 @@ comparePrice: 49.98 EUR
 prodname: 'iNeego Bausteine 1000 Stück Bauklötze Spielzeug Hochbau Ziegel Bunte Spielzeug Spielen Spiel für Kleinkind Jungen Mädchen Unisex Kühle Lernspielzeug Kompatibel mit den Meisten Markenblöcken  Set C '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07V4C94FG/?tag=tolees0ca-21'
 descuento: '40.00'
 average: '27.99'

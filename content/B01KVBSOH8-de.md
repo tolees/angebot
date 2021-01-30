@@ -16,6 +16,7 @@ comparePrice: 12.57 EUR
 prodname: 'LOGONA Naturkosmetik mann After Shave Balm  Beruhigend & vitalisierend  Bio-Extrakte Koffein & Ginkgo  Für Männer  50 ml'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01KVBSOH8/?tag=tolees0ca-21'
 descuento: '33.25'
 average: '8.39'

@@ -16,6 +16,7 @@ comparePrice: 305.99 EUR
 prodname: 'Kunst aus Eisen Regal Regale Wandregal Vintage Eisen Kleine Topfpflanzen an der Wand Wand Wandregal Ladeneinrichtung Treppenhaus Blumenständer Wandbehang'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XXM1F5X/?tag=tolees0ca-21'
 descuento: '44.45'
 average: '169.99'

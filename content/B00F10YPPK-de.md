@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Nerf Super Soaker A5832EU4- Scatter Blast  Wasserpistole'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00F10YPPK/?tag=tolees0ca-21'
 descuento: '25.83'
 average: '11.86'

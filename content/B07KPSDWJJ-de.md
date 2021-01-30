@@ -16,6 +16,7 @@ comparePrice: 16.42 EUR
 prodname: 'Funko 36890 POP Vinyl: NBA: Bulls: Michael Jordan Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KPSDWJJ/?tag=tolees0ca-21'
 descuento: '17.24'
 average: '13.830344827586208'

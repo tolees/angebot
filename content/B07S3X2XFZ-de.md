@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'ASICS Herren Gel-Bondi Laufschuhe  Schwarz  Black/White 001   45 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07S3X2XFZ/?tag=tolees0ca-21'
 descuento: '44.73'
 average: '46.95'

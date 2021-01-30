@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance Herren 997H Core Trainers  Grau  Marblehead   43.5 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BL38DSY/?tag=tolees0ca-21'
 descuento: '33.90'
 average: '59.49'

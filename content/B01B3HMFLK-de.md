@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PROCAVE wasserdichter Matratzenschoner 80 x 200 cm - atmungsaktive Matratzenauflage  Made in Germany  weiß  Matratzenschutz ohne Knistern'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01B3HMFLK/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '15.96'

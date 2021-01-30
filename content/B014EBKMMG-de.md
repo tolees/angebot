@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Osprey Farpoint 40 Reisetasche für Männer - Volcanic Grey  S/M '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B014EBKMMG/?tag=tolees0ca-21'
 descuento: '28.68'
 average: '90.11333333333333'

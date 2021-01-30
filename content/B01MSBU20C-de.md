@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'foodspring L-Carnitin Kapseln  120 Stück  Vegan  Ideal für das Figur-Training mit 1200mg Carnipure pro Portion  Hergestellt in Deutschland'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MSBU20C/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 1399.0 EUR
 prodname: 'HP Pavilion Gaming 17-cd0228ng  17 3 Zoll / FHD IPS 144Hz  Notebook  Intel Core i7-9750H  16GB DDR4 RAM  1TB HDD  512GB SSD  Nvidia GeForce GTX 1660Ti Max-Q 6GB DDR6  Windows 10  schwarz/grün'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07S6KP8P7/?tag=tolees0ca-21'
 descuento: '48.89'
 average: '585.0'

@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Goliath Toys 90515 Starter Set: Recoil  Mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BQMX386/?tag=tolees0ca-21'
 descuento: '76.67'
 average: '34.24'

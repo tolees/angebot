@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'SodaStream Easy Wassersprudler mit CO2 Zylinder  1 L PET-Flasche  BPA frei   weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N2TZWD7/?tag=tolees0ca-21'
 descuento: '40.94'
 average: '59'

@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'Ravensburger FC Bayern München 3D Puzzle Allianz Arena'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B48NJM6/?tag=tolees0ca-21'
 descuento: '38.76'
 average: '30.0'

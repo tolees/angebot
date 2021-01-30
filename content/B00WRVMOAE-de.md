@@ -16,6 +16,7 @@ comparePrice: 33.77 EUR
 prodname: 'Der Alte - Collector s Box Volume 18  Folgen 281 - 295  [5 DVDs]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00WRVMOAE/?tag=tolees0ca-21'
 descuento: '20.08'
 average: '24.23333333333333'

@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'New Balance Herren 373 Core h Sneaker  Rot  Burgundy   42.5 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MZX030M/?tag=tolees0ca-21'
 descuento: '42.12'
 average: '46.3'

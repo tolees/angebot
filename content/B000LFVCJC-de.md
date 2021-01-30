@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Silverline 633608 Gummihammer  weiß 454 g'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000LFVCJC/?tag=tolees0ca-21'
 descuento: '25.06'
 average: '2.99'

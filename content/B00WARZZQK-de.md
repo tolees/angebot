@@ -16,6 +16,7 @@ comparePrice: 6.68 EUR
 prodname: 'Der dritte Mann  Digital Remastered  2 Discs  [Special Edition]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00WARZZQK/?tag=tolees0ca-21'
 descuento: '23.80'
 average: '5.09'

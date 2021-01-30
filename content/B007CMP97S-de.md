@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Sylvanian Families 3409 - Walnuss Eichhörnchen Baby - Sammelfigur'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007CMP97S/?tag=tolees0ca-21'
 descuento: '57.08'
 average: '5.499999999999999'

@@ -16,6 +16,7 @@ comparePrice: 119.4 EUR
 prodname: 'Fossil Smartwatch FTW1203'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06VW38HC7/?tag=tolees0ca-21'
 descuento: '16.73'
 average: '109.29666666666667'

@@ -16,6 +16,7 @@ comparePrice: 26.86 EUR
 prodname: 'IBTOM CASTLE Rapunzel Kostüm Kinder Prinzessin Kleid Karneval Cosplay Party Halloween Faschingskostüm Verkleidung Karneval Faschingskostüm Cosplay Party Halloween Festkleid Violett 2-3 Jahre'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083JGLPVC/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '13.43'

@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Bosch Dampfbügeleisen TDA503001P sparsame eco Dampfstufe  200g Dampfstoß  3fach-Entkalkung  3.000 Watt  schwarz/rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B008XI79XW/?tag=tolees0ca-21'
 descuento: '22.23'
 average: '34.99'

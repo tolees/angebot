@@ -16,6 +16,7 @@ comparePrice: 13.52 EUR
 prodname: 'Funko 9301 S1 No Actionfigur Games: Overwatch: Widowmaker  Multi  Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01CDEXBAG/?tag=tolees0ca-21'
 descuento: '40.83'
 average: '8.0'

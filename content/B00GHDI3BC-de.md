@@ -16,6 +16,7 @@ comparePrice: 184.99 EUR
 prodname: 'Gardena Teleskop-Hochentaster TCS Li-18/20 Set: Astsäge für bis zu 30 min Arbeitszeit  bis zu 4 m Reichweite  20 cm Schwertlänge  abwinkelbarer Kopf  mit Akku  Ladegerät & Tragegurt  8866-20 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00GHDI3BC/?tag=tolees0ca-21'
 descuento: '29.39'
 average: '130.62'

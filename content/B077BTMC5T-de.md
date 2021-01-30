@@ -16,6 +16,7 @@ comparePrice: 7.79 EUR
 prodname: 'Tierisch wild  Disney Classics '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077BTMC5T/?tag=tolees0ca-21'
 descuento: '20.03'
 average: '6.23'

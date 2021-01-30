@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Echo Show  Vorherige Generation - 1. Gen.   Zertifiziert und generalüberholt - Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01KIYA46W/?tag=tolees0ca-21'
 descuento: '40.00'
 average: '109.99'

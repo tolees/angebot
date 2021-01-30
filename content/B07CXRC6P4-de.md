@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Ela Mo’s Rucksack Damen | Schön und Durchdacht | für Uni Reisen Freizeit Job | mit Laptopfach & Anti Diebstahl Tasche | Blumen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CXRC6P4/?tag=tolees0ca-21'
 descuento: '15.40'
 average: '54.95'

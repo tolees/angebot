@@ -16,6 +16,7 @@ comparePrice: 59.91 EUR
 prodname: 'Lost - Die komplette Serie  37 Discs '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00GU40HTE/?tag=tolees0ca-21'
 descuento: '49.94'
 average: '29.99'

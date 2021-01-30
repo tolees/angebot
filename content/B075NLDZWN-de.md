@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'Acer H277HK 69 cm  27 Zoll Ultra HD IPS  Monitor  USB 3.1 Type-C  DisplayPort  HDMI 2.0  4 ms Reaktionszeit  AMD FreeSync  ZeroFrame  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075NLDZWN/?tag=tolees0ca-21'
 descuento: '26.65'
 average: '472.83000000000004'

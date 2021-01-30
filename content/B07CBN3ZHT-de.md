@@ -16,6 +16,7 @@ comparePrice: 176.3 EUR
 prodname: 'ZWILLING Selbstschärfender Messerblock  7 teilig  dunkelbraun  Esche   Vier Sterne'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CBN3ZHT/?tag=tolees0ca-21'
 descuento: '26.27'
 average: '129.99'

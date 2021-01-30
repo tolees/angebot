@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'Willful Bluetooth Kopfhörer In Ear Kopfhörer Kabellos Bluetooth 5.0 Headset True Wireless Kopfhörer mit Integriertem Mikrofon Hi-Fi Stereo Sound Deep Bass Bluetooth Reichweite 10M Portable Ladecase'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YB7GND5/?tag=tolees0ca-21'
 descuento: '42.32'
 average: '29.409696969696963'

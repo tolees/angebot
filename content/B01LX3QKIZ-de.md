@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Pioneer X-HM26 B  Microsystem mit Zweiwege-Boxen  Bluetooth  FM-Radio  CD  MP3-USB  Fernbedienung  Timer- und Weckfunktion  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LX3QKIZ/?tag=tolees0ca-21'
 descuento: '36.12'
 average: '139.9'

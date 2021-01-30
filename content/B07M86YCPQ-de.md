@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'SD-Kartenleser  Micro SD / TF-Compact-Flash-Kartenleser mit 3-in-1-USB-Typ-C / Micro-USB-Steckeradapter und tragbarer OTG-Speicherkartenleser für & PC & Laptop & Smartphones & Tablets'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07M86YCPQ/?tag=tolees0ca-21'
 descuento: '40.02'
 average: '11.99'

@@ -16,6 +16,7 @@ comparePrice: 4.63 EUR
 prodname: 'Aluminiumstangen Ringwerkzeuge Fine Arts Sculpture Pottery Diy Tools - Silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B084Z72RXH/?tag=tolees0ca-21'
 descuento: '31.97'
 average: '3.15'

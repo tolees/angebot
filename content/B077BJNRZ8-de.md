@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Hasbro E0011EU4 - N-Strike Elite Surgefire Spielzeugblaster  mit Trommelmagazin'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077BJNRZ8/?tag=tolees0ca-21'
 descuento: '25.72'
 average: '23.7405'

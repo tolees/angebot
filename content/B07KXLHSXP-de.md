@@ -16,6 +16,7 @@ comparePrice: 145.24 EUR
 prodname: 'Bosch BBH32101 Flexxo 2 in 1 kabelloser Handstaubsauger  mit Akku  Zubehör am Gerät  lange Laufzeit  21 6 V  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KXLHSXP/?tag=tolees0ca-21'
 descuento: '31.16'
 average: '99.99'

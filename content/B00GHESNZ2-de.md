@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'WOLF-Garten - Elektro-Heckenschere HS 60 E; 41AF0EE5650'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00GHESNZ2/?tag=tolees0ca-21'
 descuento: '44.62'
 average: '49.84'

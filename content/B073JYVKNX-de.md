@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'SanDisk Ultra 64GB MicroSDXC Speicherkarte + SD-Adapter mit A1 App-Leistung bis zu 100 MB/s  Klasse 10  U1'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B073JYVKNX/?tag=tolees0ca-21'
 descuento: '57.93'
 average: '10.882222222222223'

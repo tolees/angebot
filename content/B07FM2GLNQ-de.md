@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Trust Verto Wireless Vertikale Ergonomische Maus  Vorbeugung Gegen Mausarm/Tennisarm  RSI Syndrom   Nur für Rechtshänder  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FM2GLNQ/?tag=tolees0ca-21'
 descuento: '43.61'
 average: '17.60333333333333'

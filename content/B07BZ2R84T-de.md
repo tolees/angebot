@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'SHYNE Premium 1/2 Zoll Doppel-Wasserhahn aus Messing rost-  und frostsicher + 2X Gratis Schlauchanschlüsse + Ebook | für Garten  Waschmaschine  Regentonne'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BZ2R84T/?tag=tolees0ca-21'
 descuento: '44.46'
 average: '19.99'

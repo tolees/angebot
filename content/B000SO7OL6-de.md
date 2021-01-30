@@ -16,6 +16,7 @@ comparePrice: 6.79 EUR
 prodname: 'The Very Best Of Diana Krall'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000SO7OL6/?tag=tolees0ca-21'
 descuento: '42.27'
 average: '3.92'

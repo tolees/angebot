@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Habor Küchenthermometer  Bratenthermometer  Digital Grillthermometer  Lange Probe Fleischthermometer  5s Sofortiges Auslesen für Küche  Grill  BBQ  Steak  Türkei  Süßigkeiten  Milch  Edelstah'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CHHL9M7/?tag=tolees0ca-21'
 descuento: '50.03'
 average: '11.656666666666666'

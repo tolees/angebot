@@ -16,6 +16,7 @@ comparePrice: 68.94 EUR
 prodname: 'Dolce & Gabbana K Eau de Toilette  100 ml'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RYWR3LW/?tag=tolees0ca-21'
 descuento: '20.29'
 average: '54.95'

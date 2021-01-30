@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'WISO steuer:Office 2018  für Steuerjahr 2017 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07542DNXR/?tag=tolees0ca-21'
 descuento: '68.45'
 average: '15.77'

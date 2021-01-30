@@ -16,6 +16,7 @@ comparePrice: 46.71 EUR
 prodname: 'Fiskars Profi Handsäge für frisches Holz  Grobzahnung  Hochwertiges Stahl-Sägeblatt  Schwarz/Orange  SW-330  1020199'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01B12UHPS/?tag=tolees0ca-21'
 descuento: '20.89'
 average: '36.95'

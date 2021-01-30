@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Lioncast LM40 WL Wireless Gaming Maus für kabelloses Gaming  RGB  PMW3360 Optischer Sensor  12.000 DPI  Li-Ionen-Akku  Dual-Mode mit Kabel '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NGPLD36/?tag=tolees0ca-21'
 descuento: '33.36'
 average: '39.95'

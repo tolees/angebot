@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Funko 45119 POP Animation: Evangelion - Rei Ayanami Neon Genesis Collectible Toy  Multicolour'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TVDPFGW/?tag=tolees0ca-21'
 descuento: '38.26'
 average: '10.49'

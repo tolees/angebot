@@ -16,6 +16,7 @@ comparePrice: 40.5 EUR
 prodname: 'THE NORTH FACE Damen Thermoball Sportjacke  Rumba Red/Fig  S'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FNPY7W5/?tag=tolees0ca-21'
 descuento: '17.38'
 average: '45.495000000000005'

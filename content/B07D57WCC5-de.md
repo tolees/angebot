@@ -16,6 +16,7 @@ comparePrice: 36.19 EUR
 prodname: 'Wreckfest [Xbox One]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07D57WCC5/?tag=tolees0ca-21'
 descuento: '17.13'
 average: '34.615'

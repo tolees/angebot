@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Cookin   Rudy Van Gelder Remaster '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000KP62TS/?tag=tolees0ca-21'
 descuento: '50.95'
 average: '4.41'

@@ -16,6 +16,7 @@ comparePrice: 49.42 EUR
 prodname: 'Ihr Auftritt  Al Mundy! - Komplettbox  Alle 3 Staffeln / Folgen 1-66  - Fernsehjuwelen [21 DVDs]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LZV5JX8/?tag=tolees0ca-21'
 descuento: '19.12'
 average: '39.97'

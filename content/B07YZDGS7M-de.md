@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Tenda Nova MW5G  3er Pack  echtes Dual-Band Mesh WLAN  bis zu 325m²  6X Gigabit Ports  AC1200  Gigabit WAN  QoS  MU-MIMO  Beamforming  Ersetzt Router  Powerline & Repeater'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YZDGS7M/?tag=tolees0ca-21'
 descuento: '24.63'
 average: '149.99'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Funko 44270 POP NBA: OKC-Paul George Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RN8FTCZ/?tag=tolees0ca-21'
 descuento: '44.14'
 average: '9.49'

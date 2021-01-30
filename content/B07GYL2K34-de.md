@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Toyuugo Heizlüfter Keramik Heizstrahler 950W / 450W / 30W  3 Heizstufen 2S Schnellheizter 90º Oszillation mini Wärmestrahler Heizgerät für Schlafzimmer  Büro'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GYL2K34/?tag=tolees0ca-21'
 descuento: '44.01'
 average: '27.99'

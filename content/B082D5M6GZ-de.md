@@ -16,6 +16,7 @@ comparePrice: 13.04 EUR
 prodname: 'TuToy 64 Cm Lange Kurze Dehnbare Schuhlöffel Edelstahl Metall Schuhe Remover Tools Kit'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B082D5M6GZ/?tag=tolees0ca-21'
 descuento: '16.64'
 average: '10.87'

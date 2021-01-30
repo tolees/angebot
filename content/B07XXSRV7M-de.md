@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: '1080P FHD WLAN IP Kamera  CACAGOO Überwachungskamera mit Zwei-Wege-Audio  Bewegungserkennung  Nachtsicht  Monitor Baby hundekamera'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XXSRV7M/?tag=tolees0ca-21'
 descuento: '40.01'
 average: '29.99'

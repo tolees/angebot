@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'DJI Mavic Pro - Umhängetasche für Mavic Pro Zubehör  1 Fluggerät  1 Fernsteuerung  4 Batterien  1 Smartphone etc. - Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LZMK1JB/?tag=tolees0ca-21'
 descuento: '68.56'
 average: '27.98'

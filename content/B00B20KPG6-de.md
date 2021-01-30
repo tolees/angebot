@@ -16,6 +16,7 @@ comparePrice: 379.19 EUR
 prodname: 'Melitta Caffeo Solo & Perfect Milk E957-101 Schlanker Kaffeevollautomat mit Auto-Cappuccinatore | Automatische Reinigungsprogramme | Automatische Mahlmengenregulierung | Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00B20KPG6/?tag=tolees0ca-21'
 descuento: '16.93'
 average: '314.99'

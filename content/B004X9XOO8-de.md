@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Panasonic VW-PH80XE-K Robuste Softtasche  geeignet für Camcorder schwarz '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004X9XOO8/?tag=tolees0ca-21'
 descuento: '33.89'
 average: '16.52'

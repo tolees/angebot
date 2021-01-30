@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Regal Schwerlastregal Regal 180x90x45 Steckregal 875kg Lagerregal Werkstattregal Kellerregal MDF-Platten'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078Y6HRYC/?tag=tolees0ca-21'
 descuento: '59.11'
 average: '22.49'

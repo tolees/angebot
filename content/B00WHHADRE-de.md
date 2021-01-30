@@ -16,6 +16,7 @@ comparePrice: 13.5 EUR
 prodname: 'ADAPTIL Express Tabletten  10 Stück  Ergänzungsfuttermittel zur Beruhigung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00WHHADRE/?tag=tolees0ca-21'
 descuento: '35.41'
 average: '8.72'

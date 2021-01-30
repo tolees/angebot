@@ -16,6 +16,7 @@ comparePrice: 5.11 EUR
 prodname: 'STABILO OHPen 853/4 M non-permanent 4er Etui '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000K6ASZQ/?tag=tolees0ca-21'
 descuento: '39.73'
 average: '3.08'

@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'Delinuo Bluetooth Kopfhörer Kabellos mit 6000mAh Batterie / IPX6 / Mikrofon / Digitales Display'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07S7DYK2F/?tag=tolees0ca-21'
 descuento: '32.15'
 average: '39.444545454545455'

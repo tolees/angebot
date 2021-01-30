@@ -16,6 +16,7 @@ comparePrice: 15.21 EUR
 prodname: 'tesa Insect Stop COMFORT Fliegengitter für Fenster - Insektenschutz mit Klettband selbstklebend - Fliegen Netz ohne Bohren - weiß  leichter sichtschutz   130 cm x 130 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001ULCOF2/?tag=tolees0ca-21'
 descuento: '34.32'
 average: '9.985000000000001'

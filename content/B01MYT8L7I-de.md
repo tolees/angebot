@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Audio Pro Addon T5 Bluetooth Stereo-Lautsprecher  Echtholzgehäuse  Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MYT8L7I/?tag=tolees0ca-21'
 descuento: '32.55'
 average: '134.89'

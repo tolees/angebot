@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Levi s Emerson Herren Kurzschaft Stiefel  Schwarz  Black 59   42 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01FT2BZ4S/?tag=tolees0ca-21'
 descuento: '51.55'
 average: '62.99'

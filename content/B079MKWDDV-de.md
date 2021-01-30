@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'PLAYMOBIL DreamWorks Spirit 9477 Vater Jim mit Kutsche  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079MKWDDV/?tag=tolees0ca-21'
 descuento: '36.65'
 average: '18.80857142857143'

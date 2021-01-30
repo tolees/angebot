@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Under Armour Herren Unstoppable Windbreaker Oberteil  Weiß  Small'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0785GM8YP/?tag=tolees0ca-21'
 descuento: '81.01'
 average: '18.99'

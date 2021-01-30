@@ -16,6 +16,7 @@ comparePrice: 329.99 EUR
 prodname: 'Worx 40V  2 x 20V/4.0Ah  Max Li-Ion 34 cm Akku-Rasenmäher WG779E.1'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CHNV628/?tag=tolees0ca-21'
 descuento: '39.70'
 average: '199.0'

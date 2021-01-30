@@ -16,6 +16,7 @@ comparePrice: 229.17 EUR
 prodname: 'Krups CZ7158 Cook4Me+ Connect Multikocher  1600 Watt  elektrischer Schnellkochtopf  inkl. kostenlose App  Bluetooth Steuerung  4 Liter Fassungsvermögen  schwarz/grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GNNJTX8/?tag=tolees0ca-21'
 descuento: '31.93'
 average: '184.392'

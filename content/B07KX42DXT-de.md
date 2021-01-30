@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'WAFTING 4er Set Esszimmerstühle Gepolsterter Seitenstuhl mit Buchenholz-Beinen und Weich Gepolsterte Tulip Chair für Esszimmer Wohnzimmer Schlafzimmer Küche  4er Set gepolstert weiß  …'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KX42DXT/?tag=tolees0ca-21'
 descuento: '52.50'
 average: '94.99'

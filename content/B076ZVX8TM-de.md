@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Nintendo Spielset Mushroom Castle Deluxe mit 6 5 cm Figuren und vielen interaktiven Teilen  Mario  Luigi  Bowser '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076ZVX8TM/?tag=tolees0ca-21'
 descuento: '16.67'
 average: '49.99'

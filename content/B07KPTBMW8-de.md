@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Funko 37862 POP Vinyl: BTS: Jin Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KPTBMW8/?tag=tolees0ca-21'
 descuento: '40.94'
 average: '11.356666666666667'

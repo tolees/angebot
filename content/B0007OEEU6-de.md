@@ -16,6 +16,7 @@ comparePrice: 16.63 EUR
 prodname: 'Leitz Büroheftgerät aus Metall  Für 40 Blatt  Inkl. Heftklammern  Ergonomisches Design  Schwarz  NeXXt-Serie  55040095'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0007OEEU6/?tag=tolees0ca-21'
 descuento: '24.83'
 average: '12.5'

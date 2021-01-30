@@ -16,6 +16,7 @@ comparePrice: 34.24 EUR
 prodname: 'Tefal Elegance C36708 Bratpfanne 32 cm  Aluminium  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0771VWSMG/?tag=tolees0ca-21'
 descuento: '28.56'
 average: '24.46'

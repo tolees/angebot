@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'K2 Sports Europe Unisex Kinder Inlineskates Raider'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HQJGBL4/?tag=tolees0ca-21'
 descuento: '26.74'
 average: '65.9'

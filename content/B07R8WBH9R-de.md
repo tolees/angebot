@@ -16,6 +16,7 @@ comparePrice: 78.0 EUR
 prodname: 'YLCJ Nordic ball moderno araña con cáñamo cuerda araña techo de ratán creativo bola dormitorio restaurante sala de estar decorada tienda araña araña granero villa garaje'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07R8WBH9R/?tag=tolees0ca-21'
 descuento: '32.05'
 average: '53.0'

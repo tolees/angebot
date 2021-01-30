@@ -16,6 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'Märklin Start up 29641 - Startpackung "Moderner Nahverkehr". 230 Volt  DB AG  Spur  H0'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01EJAJY3K/?tag=tolees0ca-21'
 descuento: '43.48'
 average: '129.99'

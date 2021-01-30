@@ -16,6 +16,7 @@ comparePrice: 999.0 EUR
 prodname: 'Samsung Galaxy Note 9 Smartphone  128GB  Dual SIM  - Deutsche Version'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G4P7MVG/?tag=tolees0ca-21'
 descuento: '37.31'
 average: '626.25'

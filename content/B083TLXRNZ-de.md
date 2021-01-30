@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Regal bambus 2er set Badezimmerregal Badregal Bambus Standregal Bad Küchenregal Bücherregal Schuhregal mit 5 Ablagen DIY Mehrere Kombinationen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083TLXRNZ/?tag=tolees0ca-21'
 descuento: '25.00'
 average: '59.99'

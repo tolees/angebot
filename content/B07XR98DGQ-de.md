@@ -16,6 +16,7 @@ comparePrice: 53.6 EUR
 prodname: 'Apple Leder Case  für iPhone 11 Pro Max  - Sonnengelb'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XR98DGQ/?tag=tolees0ca-21'
 descuento: '26.32'
 average: '39.49'

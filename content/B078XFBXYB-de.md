@@ -16,6 +16,7 @@ comparePrice: 24.64 EUR
 prodname: '3D Stift Filament PLA Filament 1.75mm 60M 3 Farben je 20M  Maigel 3D Print Filament Temperatur ändernde'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078XFBXYB/?tag=tolees0ca-21'
 descuento: '67.41'
 average: '8.03'

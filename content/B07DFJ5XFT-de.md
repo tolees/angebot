@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Funko 33433 Rocks: Mariah Carey POP Vinylfigur  Multi  Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFJ5XFT/?tag=tolees0ca-21'
 descuento: '18.20'
 average: '8.99'

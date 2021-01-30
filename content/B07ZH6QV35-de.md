@@ -16,6 +16,7 @@ comparePrice: 6.49 EUR
 prodname: 'Furnoor Holzwürfel  10pcs 25mm Naturholz Quadrat Blocks Cubes Holzhandwerk Accessary für Puzzle Making Crafts DIY-Projekte'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZH6QV35/?tag=tolees0ca-21'
 descuento: '20.03'
 average: '5.19'

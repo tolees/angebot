@@ -16,6 +16,7 @@ comparePrice: 74.69 EUR
 prodname: 'QARFEE - Universal 128GB Flash Drive  LUV-Share USB Stick Micro USB Memory Stick Externer Speicher Disk kompatibel mit iPhone/iPad/iPod/Mac/iOS/Android Smartphone und PC  Schwarz '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JM5TVY8/?tag=tolees0ca-21'
 descuento: '57.85'
 average: '31.48'

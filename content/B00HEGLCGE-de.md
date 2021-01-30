@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Intex Kinderpool Frame Pool Mini  Blau  122 x 122 x 30 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HEGLCGE/?tag=tolees0ca-21'
 descuento: '34.08'
 average: '26.36'

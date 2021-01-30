@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Living Nostalgia Utensilienhalter  Metall  Blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00JFRP9VE/?tag=tolees0ca-21'
 descuento: '25.64'
 average: '11.89'

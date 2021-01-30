@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Herren 3301 Deconstructed Skinny Jeans  Blau  medium Indigo Aged 8968-6028   33W/30L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XCFFN1S/?tag=tolees0ca-21'
 descuento: '47.18'
 average: '52.79'

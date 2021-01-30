@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'FIFA 19 - Champions Edition - [Xbox One]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DMJR9F2/?tag=tolees0ca-21'
 descuento: '45.19'
 average: '38.36'

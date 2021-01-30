@@ -16,6 +16,7 @@ comparePrice: 8.07 EUR
 prodname: 'Lindt & Sprüngli Alpenmilch Mini Eier  3er Pack  3 x 100 g '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B009O8OTBU/?tag=tolees0ca-21'
 descuento: '24.91'
 average: '6.06'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Russell Hobbs Standmixer Glas Steel 2-in-1  inkl. To-Go-Becher & Deckel  1.5l Glasbehälter  Mixer 0.8 PS-Motor  Impuls-/Ice-Crush Funktion  mini Smoothie-Maker 23821-56'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XCFCMJZ/?tag=tolees0ca-21'
 descuento: '37.50'
 average: '49.99'

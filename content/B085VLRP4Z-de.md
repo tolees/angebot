@@ -16,6 +16,7 @@ comparePrice: 7.58 EUR
 prodname: 'Gowind6 Video-Kabel für SNES Nintendo 64 N64  1 8 m '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B085VLRP4Z/?tag=tolees0ca-21'
 descuento: '33.38'
 average: '5.05'

@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Belkin Thunderbolt 3 Mini-Dock mit Integriertem Thunderbolt 3-Kabel  Thunderbolt Dock für Mac OS- und Windows USB-C-Laptops '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07R5CB6HY/?tag=tolees0ca-21'
 descuento: '33.21'
 average: '133.58'

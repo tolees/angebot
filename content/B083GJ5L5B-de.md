@@ -16,6 +16,7 @@ comparePrice: 51.98 EUR
 prodname: 'K9CK Halterung für Lego Millenium Falcon 75192 - Modell Nicht Enthalten'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083GJ5L5B/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '25.99'

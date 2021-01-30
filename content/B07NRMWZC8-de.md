@@ -16,6 +16,7 @@ comparePrice: 63.99 EUR
 prodname: 'Bluetooth Kopfhörer Kabellos In-Ear Ohrhörer  iTeknic True-Wireless CVC Noise Cancelling Earbuds Headset Touch-Control Bluetooth 5.0 mit Mikrofon und Ladekästchen für Android IOS Smartphone'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NRMWZC8/?tag=tolees0ca-21'
 descuento: '21.88'
 average: '49.99'

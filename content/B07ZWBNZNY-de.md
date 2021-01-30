@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'FBI - Staffel Eins [5 DVDs]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZWBNZNY/?tag=tolees0ca-21'
 descuento: '16.68'
 average: '14.99'

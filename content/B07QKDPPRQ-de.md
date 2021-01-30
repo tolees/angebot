@@ -16,6 +16,7 @@ comparePrice: 21.27 EUR
 prodname: 'Queta 5 Stück Zehennagel-Tools-Kit  eingewachsene Zehennagelentfernungs-Korrekturknipser  chirurgischer Grad eingewachsene Zehennagelfeile und Heber  professionelle Pediküre-Werkzeuge'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QKDPPRQ/?tag=tolees0ca-21'
 descuento: '34.70'
 average: '13.89'

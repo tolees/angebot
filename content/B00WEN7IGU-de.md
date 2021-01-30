@@ -16,6 +16,7 @@ comparePrice: 173.94 EUR
 prodname: 'Hauck Eco Mobil - Bollerwagen Handwagen Transportwagen  für 2 Kinder Geeignet  mit Sonnendach und Sitzpolster  Faltbar  Traglast 50 kg - Forest Green'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00WEN7IGU/?tag=tolees0ca-21'
 descuento: '25.84'
 average: '129.0'

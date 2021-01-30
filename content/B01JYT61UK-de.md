@@ -16,6 +16,7 @@ comparePrice: 22.23 EUR
 prodname: 'Gembird JPD-WDV-01 Kabelloses Gamepad mit Vibration  PS2/PS3/PC schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01JYT61UK/?tag=tolees0ca-21'
 descuento: '26.23'
 average: '16.4'

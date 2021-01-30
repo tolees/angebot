@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Ice Age 1  2  3 & 4  Limitierte Sonderbox mit Ice Age Figuren!  [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00AE9PBTW/?tag=tolees0ca-21'
 descuento: '41.98'
 average: '22.04'

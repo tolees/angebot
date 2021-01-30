@@ -16,6 +16,7 @@ comparePrice: 419.99 EUR
 prodname: 'Oral-B Genius X Luxe Edition Elektrische Zahnbürste  mit künstlicher Intelligenz und Premium Lade-Reise-Etui  anthracite grey'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RP8T2D2/?tag=tolees0ca-21'
 descuento: '60.36'
 average: '171.48000000000002'

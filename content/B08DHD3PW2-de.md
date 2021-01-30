@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Bluetooth Kopfhörer  In-Ear Wireless Kopfhörer Touch Control Bluetooth 5.0 Headset  Noise Cancelling Ohrhörer mit Mikrofon für AirPods Pro/Android/iPhone/Samsung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08DHD3PW2/?tag=tolees0ca-21'
 descuento: '62.22'
 average: '34.0'

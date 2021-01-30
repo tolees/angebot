@@ -16,6 +16,7 @@ comparePrice: 3.59 EUR
 prodname: 'Somat Klarspüler  1er Pack  1 x 750 ml '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0144LQYSW/?tag=tolees0ca-21'
 descuento: '72.14'
 average: '1.1055555555555554'

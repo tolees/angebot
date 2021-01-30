@@ -16,6 +16,7 @@ comparePrice: 61.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego Central Perk Friends Kompatibel Mit Lego 21319 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZNQ78FS/?tag=tolees0ca-21'
 descuento: '40.33'
 average: '36.99'

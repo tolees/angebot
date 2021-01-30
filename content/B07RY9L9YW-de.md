@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Damen Perfect Vneck T-Shirt  Weiß  White + 0002   Medium'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RY9L9YW/?tag=tolees0ca-21'
 descuento: '22.40'
 average: '16.8'

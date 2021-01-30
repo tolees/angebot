@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 6371 No Actionfigur Tokyo Ghoul: Ken Kaneki'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01921EGIY/?tag=tolees0ca-21'
 descuento: '42.82'
 average: '8.0'

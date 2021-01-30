@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Huawei Nanomemory Speicherkarte 128G für Mate20/Pro'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JCF56KF/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '39.99'

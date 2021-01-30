@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Pegasus Spiele 51223G  Kitchen Rush'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZZ8N68W/?tag=tolees0ca-21'
 descuento: '24.93'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Damen Lynn Mid Skinny Jeans  Lt Aged 8968-424  24W / 28L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B53QYV4/?tag=tolees0ca-21'
 descuento: '57.96'
 average: '42.02'

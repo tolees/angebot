@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'kingromargo Herramienta precisa de reparación de retrabajo de soldadura SMD de alambre de soldadura DE 0.3 mm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MQSBXQ7/?tag=tolees0ca-21'
 descuento: '37.55'
 average: '4.99'

@@ -16,6 +16,7 @@ comparePrice: 64.9 EUR
 prodname: 'LED View Cover für Galaxy S10e Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NBZR1PY/?tag=tolees0ca-21'
 descuento: '63.79'
 average: '23.5'

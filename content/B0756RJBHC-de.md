@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger Herren CORE Stretch Slim CNECK Tee T-Shirt  Schwarz  Flag Black 083   XXX-Large'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0756RJBHC/?tag=tolees0ca-21'
 descuento: '21.91'
 average: '21.799565217391304'

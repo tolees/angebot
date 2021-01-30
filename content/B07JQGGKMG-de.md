@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'iiniim Damen Festlich Kleid Königin Prinzessin Kleid Langes Abendkleid Cosplay Fasching Karneval Verkleidung Party Kleid S-XXL Blau XXL'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JQGGKMG/?tag=tolees0ca-21'
 descuento: '38.47'
 average: '23.99'

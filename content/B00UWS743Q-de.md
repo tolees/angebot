@@ -16,6 +16,7 @@ comparePrice: 22.48 EUR
 prodname: 'Kirby und der Regenbogen-Pinsel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00UWS743Q/?tag=tolees0ca-21'
 descuento: '15.93'
 average: '20.7'

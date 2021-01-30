@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'L.O.L. Surprise! 565222E7C Car-Pool Coupe Puppenauto mit Schwarzlichteffekt & Sound  inklusiv Puppe'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XSPCBVR/?tag=tolees0ca-21'
 descuento: '24.33'
 average: '27.99'

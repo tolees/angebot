@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Philips 3-in-1 LED Lampe SceneSwitch ersetzt 60W  EEK A+  E27  Matt '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01IP8R6Y6/?tag=tolees0ca-21'
 descuento: '20.42'
 average: '7.7275'

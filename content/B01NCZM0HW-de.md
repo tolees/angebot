@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Emporio Armani Damen - Edelstahl Kristall'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01NCZM0HW/?tag=tolees0ca-21'
 descuento: '40.34'
 average: '59.06'

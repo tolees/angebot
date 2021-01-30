@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'L.O.L. Surprise! 64119E7C Furniture with Closet & Queen Bee - mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PNLR4C2/?tag=tolees0ca-21'
 descuento: '22.56'
 average: '15.48'

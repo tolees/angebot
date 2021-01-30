@@ -16,6 +16,7 @@ comparePrice: 13.74 EUR
 prodname: 'NIVEA MEN Sensitive Rasierschaum im 6er Pack  6 x 200 ml   Rasierschaum für eine glatte und sanfte Rasur  schonender Rasierschaum für Herren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RWJXX7H/?tag=tolees0ca-21'
 descuento: '17.47'
 average: '11.34'

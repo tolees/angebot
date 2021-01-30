@@ -16,6 +16,7 @@ comparePrice: 120 EUR
 prodname: 'Aigle Damen Aiglentine Langschaft Gummistiefel   Schwarz  noir 9   39 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0050B2JJO/?tag=tolees0ca-21'
 descuento: '42.42'
 average: '69.1'

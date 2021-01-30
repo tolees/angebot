@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'G-STAR RAW Herren Rovulc Denim Low Sneakers  Schwarz  Black 990   42 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01NAQ760R/?tag=tolees0ca-21'
 descuento: '49.98'
 average: '34.99'

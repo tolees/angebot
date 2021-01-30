@@ -16,6 +16,7 @@ comparePrice: 7.5 EUR
 prodname: 'Sinfonien 1-4  Karajan Sinfonien-Edition '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001DCQIAA/?tag=tolees0ca-21'
 descuento: '30.00'
 average: '5.25'

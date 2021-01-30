@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'GraviTrax 27590 Starter Set Konstruktionsspielzeug  deutsche Version'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06WWGG85P/?tag=tolees0ca-21'
 descuento: '41.81'
 average: '32.0'

@@ -16,6 +16,7 @@ comparePrice: 25.25 EUR
 prodname: 'OwlFay Prinzessin Kleid Mädchen Blaue Schneekönigin Kostüm für Kinder Cosplay Party Karneval Halloween Outfit Rosa 4-5 Jahre'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B082VW8V4W/?tag=tolees0ca-21'
 descuento: '56.48'
 average: '10.99'

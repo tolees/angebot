@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Duronic VC8 /BK beutelloser Staubsauger | 800 Watt | Handstaubsauger | Standstaubsauger | Stielstaubsauger | 2-in-1 Staubsauger | HEPA Filter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N8U4DEJ/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '30.39'

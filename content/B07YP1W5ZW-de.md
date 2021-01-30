@@ -16,6 +16,7 @@ comparePrice: 1.65 EUR
 prodname: 'Barilla Pasta Spaghettini n. 3  500g'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YP1W5ZW/?tag=tolees0ca-21'
 descuento: '53.33'
 average: '0.77'

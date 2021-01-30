@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JFUME Männer Magnet Armband aus Edelstahl Herren Armbänder mit Link Remove Tool Schwarz und Blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PDP4GTQ/?tag=tolees0ca-21'
 descuento: '45.01'
 average: '21.99'

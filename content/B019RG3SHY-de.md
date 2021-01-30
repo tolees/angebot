@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Kosmos AllesKönnerKiste 604257 - Schnitzen Komplett-Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B019RG3SHY/?tag=tolees0ca-21'
 descuento: '26.21'
 average: '23.166363636363634'

@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Lightailing Licht-Set Für  Creator Expert James Bond 007 Aston Martin DB5  Modell - LED Licht-Set Kompatibel Mit Lego 10262 Modell NICHT Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07K4YZ16B/?tag=tolees0ca-21'
 descuento: '55.57'
 average: '39.99'

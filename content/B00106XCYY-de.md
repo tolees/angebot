@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Samsonite Aeris Upright L Koffer  78 cm  118.5 L  Schwarz  Black '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00106XCYY/?tag=tolees0ca-21'
 descuento: '40.00'
 average: '119.4'

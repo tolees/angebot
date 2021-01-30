@@ -16,6 +16,7 @@ comparePrice: 64.9 EUR
 prodname: 'roba Spielregal  Rennfahrer   Spielzeug- & Aufbewahrungs-Regal fürs Kinderzimmer  inkl. 5 Stoffboxen m  Auto blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072N8F1JJ/?tag=tolees0ca-21'
 descuento: '32.11'
 average: '44.06'

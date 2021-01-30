@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'PLAYMOBIL Top Agents 70003 Spy Team Sub Bot  Ab 6 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JKWNS1V/?tag=tolees0ca-21'
 descuento: '44.02'
 average: '10.356666666666666'

@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'RB&G Lauflernwagen aus Holz mit Gummibereifung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B081PB4CGV/?tag=tolees0ca-21'
 descuento: '24.05'
 average: '37.9'

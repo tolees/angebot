@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'JACK & JONES Herren JJECORP Logo Tee SS Crew Neck NOOS T-Shirt  Schwarz  Black Detail: Slim Fit   Large'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079CBP5N8/?tag=tolees0ca-21'
 descuento: '28.41'
 average: '9.320363636363641'

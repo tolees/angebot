@@ -16,6 +16,7 @@ comparePrice: 163.0 EUR
 prodname: 'Dymo 1978243 MobileLabeler-Etikettendrucker mit Smartphone-Anbindung über Bluetooth'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LRX4W6G/?tag=tolees0ca-21'
 descuento: '44.45'
 average: '90.54'

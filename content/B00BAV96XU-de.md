@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'CEP Damen Strumpf Progressive+ Run Socks 2.0  Black/Grey  Gr.II'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00BAV96XU/?tag=tolees0ca-21'
 descuento: '59.92'
 average: '20.0'

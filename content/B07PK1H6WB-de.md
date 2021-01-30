@@ -16,6 +16,7 @@ comparePrice: 699.0 EUR
 prodname: 'LG SL8YG Dolby Atmos 3.1.2 Soundbar  mit Meridian Soundtechnologie  integriertem Google Assistant  440W mit drahtlosem Subwoofer  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PK1H6WB/?tag=tolees0ca-21'
 descuento: '42.06'
 average: '405.0'

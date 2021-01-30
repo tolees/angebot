@@ -16,6 +16,7 @@ comparePrice: 209.0 EUR
 prodname: 'Samsonite Aeris Spinner L Koffer  75 cm  87.5 L  Rot  Red '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002SJUTQQ/?tag=tolees0ca-21'
 descuento: '40.00'
 average: '125.4'

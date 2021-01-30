@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Die Sims 4 - Hunde & Katzen Edition DLC [PC Download – Origin Code]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074WRN2PW/?tag=tolees0ca-21'
 descuento: '50.01'
 average: '19.99'

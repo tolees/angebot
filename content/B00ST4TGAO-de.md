@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Merry Style Damen Langarm Body BD900  Schwarz  L '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00ST4TGAO/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '15.99'

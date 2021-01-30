@@ -16,6 +16,7 @@ comparePrice: 549.0 EUR
 prodname: 'LG SK8 Dolby Atmos 2.1 Soundbar  360W mit Drahtlosem Subwoofer  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B9QRNVF/?tag=tolees0ca-21'
 descuento: '27.23'
 average: '399.53'

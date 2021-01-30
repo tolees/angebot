@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Omron Schrittzähler Walking style IV'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00KQCQ79K/?tag=tolees0ca-21'
 descuento: '20.47'
 average: '24.3'

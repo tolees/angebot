@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 's.Oliver Herren 130.11.899.12.130.2037840 T-Shirt  Blue  XL'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B082PGPFSQ/?tag=tolees0ca-21'
 descuento: '22.20'
 average: '12.44'

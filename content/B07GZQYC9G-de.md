@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: '4Ucycling lang Fahrrad Hose Winddicht Thermo Fleece Radhose Laufhose Winter  Schwarz  S'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GZQYC9G/?tag=tolees0ca-21'
 descuento: '23.54'
 average: '25.99'

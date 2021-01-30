@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Ice Age 1-4 [4 DVDs]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B008V5RNDS/?tag=tolees0ca-21'
 descuento: '16.64'
 average: '16.395'

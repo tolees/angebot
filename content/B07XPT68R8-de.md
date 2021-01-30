@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'WISHDOIT Herren Uhren Sport Militär Wasserdicht Chronograph Silber Edelstahl Armbanduhr Männer Schwarz Herrenuhr Markenuhren Analog Quarzuhr'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XPT68R8/?tag=tolees0ca-21'
 descuento: '76.43'
 average: '32.99'

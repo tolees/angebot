@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Razer Blackwidow Elite Mechanische Full-Size-Gaming-Tastatur mit Mediensteuerung und Handballenauflage  Yellow Switches  QWERTZ Layout '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KNG4L74/?tag=tolees0ca-21'
 descuento: '27.78'
 average: '129.99'

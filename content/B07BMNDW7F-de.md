@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'ACCUWEIGHT Küchenwaage Digitale Haushaltswaage Digitalwaage elektronische Waage Briefwaage LCD Dislay  mit großer Edelstahl Wiegefläche und Tara  Präzise Waage bis zu 1g  max. 5kg  Inkl. Batterien'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BMNDW7F/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '11.99'

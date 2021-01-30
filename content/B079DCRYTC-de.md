@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Skagen Herren Analog Quarz Uhr mit Leder Armband SKW6459'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079DCRYTC/?tag=tolees0ca-21'
 descuento: '70.54'
 average: '38.0'

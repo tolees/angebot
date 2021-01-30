@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Floïd masaje genuino vigoroso Aftershave 150ml'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00R8RCLC8/?tag=tolees0ca-21'
 descuento: '33.36'
 average: '9.99'

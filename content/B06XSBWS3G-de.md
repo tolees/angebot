@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Holy Stone Mini Drohne HS170 RC Quadrocopter 2.4GHz 6-Achsen-Gyro Helicopter ferngesteuert mit Fernbedienung  blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XSBWS3G/?tag=tolees0ca-21'
 descuento: '34.79'
 average: '29.99'

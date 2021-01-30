@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Bosch Säge AdvancedCut 50  500 Watt  NanoBlade Technologie  im Koffer '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0713QQGR5/?tag=tolees0ca-21'
 descuento: '42.00'
 average: '86.99'

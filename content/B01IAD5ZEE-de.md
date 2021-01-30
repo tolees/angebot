@@ -16,6 +16,7 @@ comparePrice: 164.99 EUR
 prodname: 'Seagate Backup Plus HUB  6 TB  externe Festplatte mit 2-fach USB Hub  3.5 Zoll  USB 3.0  PC  Notebook & Mac  Modellnr.: STEL6000200'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01IAD5ZEE/?tag=tolees0ca-21'
 descuento: '48.49'
 average: '91.72'

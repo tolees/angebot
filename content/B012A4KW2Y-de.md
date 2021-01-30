@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Equalizer Double Play  Men s Fitness Shoes Grey  Charcoal/Orange  11 UK 46 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B012A4KW2Y/?tag=tolees0ca-21'
 descuento: '30.30'
 average: '45.27'

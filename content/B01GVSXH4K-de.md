@@ -16,6 +16,7 @@ comparePrice: 12.95 EUR
 prodname: 'Bungsa® P - Silberner Buchstaben Kristall Charm Anhänger für Bettelarmband Ohrring Halskette Zirkonia Damen Herren Kinder  Kettenanhänger Pendant Beads A B C D E F G H I J K L M N O P R S T U V W Z '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01GVSXH4K/?tag=tolees0ca-21'
 descuento: '46.33'
 average: '6.95'

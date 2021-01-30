@@ -16,6 +16,7 @@ comparePrice: 699 EUR
 prodname: 'Denon AVR-X2600H 7.2-Kanal AV-Receiver  Hifi Verstärker  Alexa Kompatibel  8 HDMI Eingänge und 2 Ausgänge  Bluetooth und WLAN  Musikstreaming  Dolby Atmos  AirPlay 2  HEOS Multiroom'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RHVCY1M/?tag=tolees0ca-21'
 descuento: '32.51'
 average: '471.79'

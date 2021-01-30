@@ -16,6 +16,7 @@ comparePrice: 42.85 EUR
 prodname: 'Deadpool Life Size Vinyl Figur 543 Funko Pop! Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0826CSQ8P/?tag=tolees0ca-21'
 descuento: '23.85'
 average: '32.63'

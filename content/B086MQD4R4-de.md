@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Tablet 10.1 Zoll 4G LTE Android 9.0 Dual SIM  2 in1 Tablet mit Tastatur 4 GB RAM und 64 GB ROM  Quad Core Prozessor  1080p Full HD IPS Display  WiFi  Bluetooth  GPS  OTG  Typ C - Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B086MQD4R4/?tag=tolees0ca-21'
 descuento: '37.50'
 average: '99.99'

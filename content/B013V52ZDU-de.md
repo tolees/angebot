@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'DESIRES Tilda Damen Übergangsjacke Jacke gefüttert mit Kapuze  Größe:M  Farbe:Black  9000 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B013V52ZDU/?tag=tolees0ca-21'
 descuento: '18.76'
 average: '62.329310344827604'

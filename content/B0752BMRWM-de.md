@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Swarovski Angelic Square Set  weiss  Rhodiniert'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0752BMRWM/?tag=tolees0ca-21'
 descuento: '22.08'
 average: '155.07'

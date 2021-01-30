@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Corsair HS35 Stereo Gaming Headset  50mm Neodym Lautsprecher  Abnehmbares Unidirektionales Mikrofon  Federleichtes Design  für Xbox One  PS4  Nintendo Switch und Mobilgeräte  rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SJ1RTKH/?tag=tolees0ca-21'
 descuento: '40.21'
 average: '29.89'

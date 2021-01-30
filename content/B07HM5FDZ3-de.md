@@ -16,6 +16,7 @@ comparePrice: 161.63 EUR
 prodname: 'Legacy Vinyl Box Set [Vinyl LP]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HM5FDZ3/?tag=tolees0ca-21'
 descuento: '16.93'
 average: '134.26'

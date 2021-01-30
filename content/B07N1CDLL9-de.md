@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Glass [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07N1CDLL9/?tag=tolees0ca-21'
 descuento: '16.68'
 average: '9.99'

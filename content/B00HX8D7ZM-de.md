@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'HP F6V97AA#ABB Externes USB Laufwerk  für CD  DVD  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HX8D7ZM/?tag=tolees0ca-21'
 descuento: '50.86'
 average: '28.99'

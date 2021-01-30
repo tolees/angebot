@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Ice-Watch - ICE steel Marine - Blaue Herrenuhr mit Silikonarmband - 015774  Large '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DF39J3N/?tag=tolees0ca-21'
 descuento: '40.84'
 average: '70.4'

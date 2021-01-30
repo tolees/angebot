@@ -16,6 +16,7 @@ comparePrice: 571.82 EUR
 prodname: 'Epson B11B223401 Perfection V800 Photo Scanner Flachbett-Scanner  6.400 dpi x 9  schwarz/silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00NV4BZT2/?tag=tolees0ca-21'
 descuento: '36.87'
 average: '361.0'

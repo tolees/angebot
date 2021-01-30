@@ -16,6 +16,7 @@ comparePrice: 80.91 EUR
 prodname: 'Crucial Ballistix BL2K8G26C16U4W 2666 MHz  DDR4  DRAM  Desktop Gaming Speicher Kit  16GB  8GB x2   CL16  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083TSFB4Y/?tag=tolees0ca-21'
 descuento: '27.72'
 average: '58.48'

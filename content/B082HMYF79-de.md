@@ -16,6 +16,7 @@ comparePrice: 27.71 EUR
 prodname: 'TuToy Einstellbare Stiefelspanner Breite Schuhformer Kiefer Holzstiefel Baum Stretch Für Männer Frauen Eu35-46 - # 1'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B082HMYF79/?tag=tolees0ca-21'
 descuento: '16.64'
 average: '23.1'

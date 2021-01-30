@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'CELMAN CADA Bausteine Auto Hybrid Tourenwagen 1586 Teile Sport Auto Modell mit Scheinwerfer  Frontspoiler  Lenkrad  doppelter Rückspiegel  Dachkanal  Karosserieseitenkanal und Antenne'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B081HD8ZTR/?tag=tolees0ca-21'
 descuento: '34.78'
 average: '45.0'

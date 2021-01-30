@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'PLAYMOBIL Novelmore 70225 Wolfsgespann und Wasserkanone  Für Kinder von 5-10 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P6FL9B5/?tag=tolees0ca-21'
 descuento: '35.02'
 average: '15.195'

@@ -16,6 +16,7 @@ comparePrice: 299 EUR
 prodname: 'Sigma Mount Converter MC-11 für Global Vision Produkte mit Canon Objektivbajonett für Sony E-Mount-Kameras'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01C7A3W7S/?tag=tolees0ca-21'
 descuento: '24.42'
 average: '225.99'

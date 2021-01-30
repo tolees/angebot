@@ -16,6 +16,7 @@ comparePrice: 1099 EUR
 prodname: 'Acer Swift 3 Pro  SF313-51-873X  33 78 cm  13 3 Zoll Full-HD  Ultrabook  Intel Core i7-8550U  8GB RAM  512GB PCIe SSD  Intel UHD  Win 10 Pro  LTE  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07H364VWV/?tag=tolees0ca-21'
 descuento: '51.50'
 average: '533'

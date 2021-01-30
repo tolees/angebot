@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'SCHLEICH 42485 Pferdestall'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07LB5GMMN/?tag=tolees0ca-21'
 descuento: '36.18'
 average: '51.0175'

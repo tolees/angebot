@@ -16,6 +16,7 @@ comparePrice: 82.24 EUR
 prodname: 'adidas Herren Forest Grove Fitnessschuhe  Blau  Collegiate Navy/Cloud White/Core Black   46 EU  11 UK '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JZPXB19/?tag=tolees0ca-21'
 descuento: '26.29'
 average: '67.07499999999999'

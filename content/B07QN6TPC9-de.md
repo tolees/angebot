@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Dickie Toys 203715012 Prison Break  Polizeistation  Spielstation  Set Polizei  Polizeiauto Spielzeug mit vielen Funktionen  Gefängnis inkl. 2 Autos  Mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QN6TPC9/?tag=tolees0ca-21'
 descuento: '42.78'
 average: '17.16'

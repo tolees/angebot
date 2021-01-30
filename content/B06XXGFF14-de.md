@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance Damen 574v2 Core Sneaker  Grau  Grey   40 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XXGFF14/?tag=tolees0ca-21'
 descuento: '28.86'
 average: '64.03'

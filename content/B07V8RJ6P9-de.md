@@ -16,6 +16,7 @@ comparePrice: 87.99 EUR
 prodname: 'GODNECE LED Licht-Set für Baustein  Led Beleuchtungsset Licht-Set für Baustein Spielzeug Kompatibel Mit Lego Star Wars UCS 75060 Slave Nr. 1 Bausatz  Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07V8RJ6P9/?tag=tolees0ca-21'
 descuento: '45.46'
 average: '47.99'

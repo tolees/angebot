@@ -16,6 +16,7 @@ comparePrice: 179.95 EUR
 prodname: 'uvex Unisex – Erwachsene  hlmt 400 visor style Skihelm  black  58-61 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071FVH19S/?tag=tolees0ca-21'
 descuento: '44.61'
 average: '99.84'

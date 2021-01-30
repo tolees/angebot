@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Craft Weste Visibility Vest Warnweste  neon  XL'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0020HRRAC/?tag=tolees0ca-21'
 descuento: '37.55'
 average: '24.95'

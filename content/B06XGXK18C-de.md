@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 13242 POP Vinylfigur: Disney: Cars 3: Cruz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XGXK18C/?tag=tolees0ca-21'
 descuento: '42.89'
 average: '7.99'

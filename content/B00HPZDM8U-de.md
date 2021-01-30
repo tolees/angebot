@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'PUMA Unisex-Erwachsene Basket Classic LFS Sneakers  white-white  43 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HPZDM8U/?tag=tolees0ca-21'
 descuento: '60.04'
 average: '33.95'

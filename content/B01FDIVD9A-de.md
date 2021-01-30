@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Hasbro Gaming B2176398 - Dr. Bibber Kinderspiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01FDIVD9A/?tag=tolees0ca-21'
 descuento: '28.58'
 average: '20.532222222222224'

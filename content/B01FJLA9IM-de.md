@@ -16,6 +16,7 @@ comparePrice: 1295.0 EUR
 prodname: 'Intel BX80671I76950X Core i7-6950X Prozessor schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01FJLA9IM/?tag=tolees0ca-21'
 descuento: '30.89'
 average: '895.0'

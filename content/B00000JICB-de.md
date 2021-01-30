@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'TOMY Kinderspiel "Pop Up Pirate"  Hochwertiges Aktionsspiel für die Familie  Piratenspiel zur Verfeinerung der Geschicklichkeit Ihres Kindes  Gesellschaftsspiel ab 4 Jahren  Pop up Spiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00000JICB/?tag=tolees0ca-21'
 descuento: '25.55'
 average: '10.707142857142857'

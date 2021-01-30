@@ -16,6 +16,7 @@ comparePrice: 1019.0 EUR
 prodname: 'Apple iPhone XR  256GB  - Gelb'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HBCB9JZ/?tag=tolees0ca-21'
 descuento: '26.50'
 average: '749.0'

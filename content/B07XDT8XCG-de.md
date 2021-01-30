@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Aigital AC1200 WLAN Repeater Wi-Fi Verstaerker Range Extender Booster Dualband 5GHz 867Mbps+2.4GHz 300Mbps  Signalverstärker 4xflexible Externe Antennen WPS  Kompatibel mit Allen WLAN Geräten'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XDT8XCG/?tag=tolees0ca-21'
 descuento: '37.63'
 average: '24.94'

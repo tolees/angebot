@@ -16,6 +16,7 @@ comparePrice: 394.0 EUR
 prodname: 'Sony Xperia XZ2 Smartphone  14 5 cm  5 7 Zoll  IPS Full HD+ Display  64 GB interner Speicher und 4 GB RAM  Single-SIM  IP68  Android 8.0  Liquid Black - Deutsche Version'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BGXVDZP/?tag=tolees0ca-21'
 descuento: '36.80'
 average: '249.0'

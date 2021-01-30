@@ -16,6 +16,7 @@ comparePrice: 9.95 EUR
 prodname: 'VERO MODA Damen VMMAXI My SS Soft U-Neck NOOS T-Shirt  Schwarz Black  42  Herstellergröße: XL '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B016XVRUKC/?tag=tolees0ca-21'
 descuento: '19.60'
 average: '8.0'

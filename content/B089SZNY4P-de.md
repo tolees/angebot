@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für 1985 Audi Sport Quattro S1 Kompatibel Mit Lego 76897 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B089SZNY4P/?tag=tolees0ca-21'
 descuento: '25.01'
 average: '29.99'

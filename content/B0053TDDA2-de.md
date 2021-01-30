@@ -16,6 +16,7 @@ comparePrice: 33.95 EUR
 prodname: 'Rotho Paso Mülleimer 20l mit Deckel  Kunststoff  PP  BPA-frei  silber metallic  20l  29 3 x 26 6 x 45 7 cm '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0053TDDA2/?tag=tolees0ca-21'
 descuento: '37.20'
 average: '21.327999999999996'

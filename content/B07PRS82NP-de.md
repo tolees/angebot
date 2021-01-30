@@ -16,6 +16,7 @@ comparePrice: 714.9 EUR
 prodname: 'Samsung RU7409 163 cm  65 Zoll  LED Fernseher  Ultra HD  HDR  Triple Tuner  Smart TV  [Modelljahr 2019]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PRS82NP/?tag=tolees0ca-21'
 descuento: '16.21'
 average: '656.95'

@@ -16,6 +16,7 @@ comparePrice: 12.01 EUR
 prodname: 'Funko 40879 POP Vinyl Animation: Disenchantment-King Zog Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QCQ925H/?tag=tolees0ca-21'
 descuento: '24.40'
 average: '10.721'

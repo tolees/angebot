@@ -16,6 +16,7 @@ comparePrice: 8.65 EUR
 prodname: 'Iris & Lilly Damen Hipster mit unterschiedlichen Mustern im 3er-Pack  Mehrfarbig  Soft Pink/Print   Large'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LXXT1RJ/?tag=tolees0ca-21'
 descuento: '18.03'
 average: '7.09'

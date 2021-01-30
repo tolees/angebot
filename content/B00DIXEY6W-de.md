@@ -16,6 +16,7 @@ comparePrice: 4.66 EUR
 prodname: 'LogiLink KAB0039 Kabel-Clip Selbstklebend schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00DIXEY6W/?tag=tolees0ca-21'
 descuento: '39.48'
 average: '2.82'

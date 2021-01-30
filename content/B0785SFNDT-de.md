@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'PUMA - Liga - Sporttasche - Unisex - Schwarz  Puma Black  - Einheitsgröße - 63 x 33 x 26 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0785SFNDT/?tag=tolees0ca-21'
 descuento: '45.06'
 average: '21.95'

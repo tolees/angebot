@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego Technic Schwerlast-Gabelstapler  Kompatibel Mit Lego 42079 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TVP2NYW/?tag=tolees0ca-21'
 descuento: '48.09'
 average: '26.99'

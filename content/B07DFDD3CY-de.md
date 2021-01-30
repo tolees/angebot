@@ -16,6 +16,7 @@ comparePrice: 6.81 EUR
 prodname: 'Funko 32221 Married w/Children: Peggy POP Vinylfigur  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFDD3CY/?tag=tolees0ca-21'
 descuento: '23.05'
 average: '5.942295081967212'

@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'American Tourister Funlight Disney Spinner Suitcase  67 cm  66 L  Mehrfarbig  Minnie Miami Holiday '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NNPZ7JY/?tag=tolees0ca-21'
 descuento: '53.41'
 average: '65.2'

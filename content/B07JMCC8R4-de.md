@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Playmobil 70098 Magic Meerjungfrau mit Schneckengondel  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JMCC8R4/?tag=tolees0ca-21'
 descuento: '41.25'
 average: '11.26090909090909'

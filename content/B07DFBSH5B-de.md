@@ -16,6 +16,7 @@ comparePrice: 9.28 EUR
 prodname: 'Funko 30773 Austin Powers POP Vinylfigur  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFBSH5B/?tag=tolees0ca-21'
 descuento: '18.00'
 average: '8.515454545454546'

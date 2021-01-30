@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Our Generation 44557 Rollerblades & Outfit Puppenkleidung  Outfit  mit Helm Inliner  Knieschützer  T-Shirt und Hose  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XRL11YJ/?tag=tolees0ca-21'
 descuento: '24.86'
 average: '14.99'

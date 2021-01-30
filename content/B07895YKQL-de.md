@@ -16,6 +16,7 @@ comparePrice: 7.06 EUR
 prodname: 'Sharplace 3 Paar Annähen Oval Ellenbogen/Knie Patches Jeans Reparatur Handwerk Nähen Applique - Farbe 5'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07895YKQL/?tag=tolees0ca-21'
 descuento: '43.48'
 average: '3.99'

@@ -16,6 +16,7 @@ comparePrice: 32.65 EUR
 prodname: 'WOLF-Garten - Rasen-Langzeitdünger »Premium« 120 Tage LE 450  3830045'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00R7GR2EM/?tag=tolees0ca-21'
 descuento: '15.16'
 average: '27.7'

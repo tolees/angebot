@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Drohne mit Kamera  720P HD Drohne Faltbare mit WiFi FPV App  Live Übertragung  Höhe Halten  Headless-Modus  One Key Start/Landung und RTF-Schwerkraftlandung   AT-146'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HH7KWYM/?tag=tolees0ca-21'
 descuento: '25.00'
 average: '59.99'

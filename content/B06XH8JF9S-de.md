@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Picard Handgelenktasche Toscana Leder Small 17 x 24 x 6 cm  H/B/T  Herren Handtaschen  8362 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XH8JF9S/?tag=tolees0ca-21'
 descuento: '32.79'
 average: '79.98'

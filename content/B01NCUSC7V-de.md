@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Fisher-Price FFC84 - Babys Erste Bausteine Baby Spielzeug Formensortierspiel mit Spielwürfeln und Eimer zum Verstauen ab 6 Monaten'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01NCUSC7V/?tag=tolees0ca-21'
 descuento: '36.96'
 average: '9.45'

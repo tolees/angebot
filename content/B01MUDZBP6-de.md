@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'JAIMIE JACOBS Flap Boy Slim - Das Original - Magic Wallet Magischer Geldbeutel Dünn Schmale Geldbörse Herren RFID Schutz Geldklammer Klein Slim Wallet Geschenk Echtleder  Schwarz '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MUDZBP6/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '71.2'

@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'LED Lenser F1R high Performance Line  F-Serie  1x 18650 Li-Ion Akku 8701-R'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00NNJ0LMW/?tag=tolees0ca-21'
 descuento: '56.64'
 average: '55.93'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Meetory Etikettenhalter aus Kunststoff transparent Preisschildhalter für Draht-Regale für Preisetiketten zur Waren-Beschilderung  6 cm x 4 cm 50 Stück'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FZZVBNL/?tag=tolees0ca-21'
 descuento: '29.35'
 average: '10.59'

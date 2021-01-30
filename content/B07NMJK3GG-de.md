@@ -16,6 +16,7 @@ comparePrice: 45.46 EUR
 prodname: 'Hollow Knight'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NMJK3GG/?tag=tolees0ca-21'
 descuento: '23.03'
 average: '34.99'

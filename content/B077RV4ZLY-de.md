@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Western Digital 6 TB Elements Desktop externe Festplatte USB3.0 -WDBWLG0060HBK-EESN'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077RV4ZLY/?tag=tolees0ca-21'
 descuento: '43.23'
 average: '105.81099999999999'

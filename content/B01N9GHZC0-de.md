@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'RAVPower Quick Charge 3.0 USB Ladegerät Schnellladegerät  6-Port 60W USB Ladestation für iPhone 11 Pro Max XS Max XR X 8 7 6 Plus  iPad  Galaxy S9 S8 Plus  Huawei  LG  HTC  Smartphones  Tablet  usw.'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N9GHZC0/?tag=tolees0ca-21'
 descuento: '18.19'
 average: '24.49'

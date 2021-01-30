@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Calvin Klein Damen TOP Hoodie Full Zip Kapuzenpullover  Schwarz  Black 001   One Size  Herstellergröße: XS '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XD4S19N/?tag=tolees0ca-21'
 descuento: '27.75'
 average: '52.995'

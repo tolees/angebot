@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'PLAYMOBIL Top Agents 70232 Arctic Rebels Eistrike  Ab 6 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZTXCXKG/?tag=tolees0ca-21'
 descuento: '28.16'
 average: '29.128611111111113'

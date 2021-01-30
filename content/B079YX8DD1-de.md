@@ -16,6 +16,7 @@ comparePrice: 44.09 EUR
 prodname: 'Hubelino 420473 55-teiliges Bahnelemente Set Kugelbahn'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079YX8DD1/?tag=tolees0ca-21'
 descuento: '23.81'
 average: '33.59'

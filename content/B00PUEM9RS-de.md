@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'Acer S277HKwmidpp 69 cm  27 Zoll  Monitor  DVI  HDMI  Displayport  mini Displayport  UHD  Speaker  4ms Reaktionszeit  glossy white'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00PUEM9RS/?tag=tolees0ca-21'
 descuento: '42.40'
 average: '427.66333333333336'

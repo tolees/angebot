@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Dragon Touch Action Cam 4K  Action Kamera 20MP EIS Anti-Shake-Unterstützung Externes Mikrofon Unterwasserkamera 30M wasserdicht Sportskamera mit Montagezubehör Kit - Vision 4 Lite'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W7P1Y9V/?tag=tolees0ca-21'
 descuento: '55.44'
 average: '26.73'

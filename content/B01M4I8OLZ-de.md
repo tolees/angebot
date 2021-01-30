@@ -16,6 +16,7 @@ comparePrice: 26.5 EUR
 prodname: 'Parker IM Kugelschreiber | Schwarze Lackierung mit Chromzierteilen | Mittlere Spitze | Blau | Geschenkbox'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M4I8OLZ/?tag=tolees0ca-21'
 descuento: '58.87'
 average: '10.9'

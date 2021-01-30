@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Lenovo Chromebook C340 Laptop 29 5 cm  11 6 Zoll  1366x768  HD  IPS  Touch  Convertible Notebook  Intel Celeron N4000  4 GB RAM  64GB eMMC  Intel UHD-Grafik 600  ChromeOS  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07X43DFTQ/?tag=tolees0ca-21'
 descuento: '33.65'
 average: '231.57'

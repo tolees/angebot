@@ -16,6 +16,7 @@ comparePrice: 899 EUR
 prodname: 'HP Pavilion 595-p0020ng Desktop PC  AMD Ryzen 7  16 GB DDR4 RAM  1 TB HDD  256 GB SSD  Nvidia GeForce GTX 1050ti 4 GB DDR5  Windows 10 Home 64  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RMS67ZX/?tag=tolees0ca-21'
 descuento: '21.25'
 average: '708'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Occulto 3 Paar Sportsocken/Laufsocken/Wandersocken für Damen und Herren  Golfen UVM 1xSchwarz-1xtuerkis-1xblue 43-46'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TWHJMG5/?tag=tolees0ca-21'
 descuento: '20.02'
 average: '7.99'

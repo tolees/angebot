@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Ravensburger 14973 Disney Museum'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PXNYRTR/?tag=tolees0ca-21'
 descuento: '54.68'
 average: '62.99'

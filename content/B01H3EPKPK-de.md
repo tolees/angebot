@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'Mario Party: Star Rush [3DS]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01H3EPKPK/?tag=tolees0ca-21'
 descuento: '37.89'
 average: '11.8'

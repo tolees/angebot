@@ -16,6 +16,7 @@ comparePrice: 14.97 EUR
 prodname: 'NESCAFÉ Dolce Gusto Nesquik | 48 Kapseln Trinkschokolade | köstlicher Kakao Geschmack | Leckeres Kakaoaroma von Nesquik | Schnelle Zubereitung | Aromaversiegelte Kapseln | 3er Pack  3 x 16 Kapseln '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003YVHJ92/?tag=tolees0ca-21'
 descuento: '30.06'
 average: '10.47'

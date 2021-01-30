@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Garmin vivomove HR Sport Black/Sandstone Fitness-Tracker  Schwarz/Sandstein  M'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GS6X2FH/?tag=tolees0ca-21'
 descuento: '40.50'
 average: '119.0'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Cardinal Games 6045052 - LOL Water Surprise Spiel  Kinderspiel  Suchspiel mit Schwamm  L.O.L. Surprise'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B71MSVS/?tag=tolees0ca-21'
 descuento: '51.78'
 average: '8.76272727272727'

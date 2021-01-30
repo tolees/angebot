@@ -16,6 +16,7 @@ comparePrice: 41.91 EUR
 prodname: 'PLAYMOBIL City Life 70199 Abschleppdienst  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P8PMYDR/?tag=tolees0ca-21'
 descuento: '25.94'
 average: '33.124'

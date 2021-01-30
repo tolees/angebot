@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Ravensburger 09074 - Nordlichter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0007VDNWO/?tag=tolees0ca-21'
 descuento: '38.44'
 average: '6.243636363636363'

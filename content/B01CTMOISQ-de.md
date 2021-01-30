@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Forever Speed Super ECO Teichpumpe Filterpumpe Energiespar Wasserpumpe Koiteich Bachlaufpumpe  3000-12000L/H  3000L/H …'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01CTMOISQ/?tag=tolees0ca-21'
 descuento: '30.00'
 average: '48.99'

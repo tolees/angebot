@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Schleich 42407 Bauernhaus mit Stall und Tieren  Bunt  Large'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079NH9PVH/?tag=tolees0ca-21'
 descuento: '32.90'
 average: '53.67'

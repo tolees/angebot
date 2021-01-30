@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'GIKERSY USB C Hub  7 IN 1 USB C Adapter mit 4K HDMI  USB C Ladeanschluss  SD/Micro SD Kartenleser  3 USB3.0 Anschlüsse  Kompatibel mit MacBook Pro 2016  2017  2018  2019 Chromebook  XPS'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MY1X9T9/?tag=tolees0ca-21'
 descuento: '26.10'
 average: '16.99'

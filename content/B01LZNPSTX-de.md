@@ -16,6 +16,7 @@ comparePrice: 8.42 EUR
 prodname: 'Willkommen bei den Hartmanns [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LZNPSTX/?tag=tolees0ca-21'
 descuento: '46.56'
 average: '4.5'

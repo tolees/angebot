@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Comedian Harmonists'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06X153FSM/?tag=tolees0ca-21'
 descuento: '22.47'
 average: '6.97'

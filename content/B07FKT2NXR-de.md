@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Güde 02882 Automatik Schlauchtrommel 15M  12 Bar max. Arbeitsdruck  9 5mm Innendurchmesser  3mm Stärke Wandung '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FKT2NXR/?tag=tolees0ca-21'
 descuento: '27.55'
 average: '49.99'

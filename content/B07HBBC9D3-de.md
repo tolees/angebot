@@ -16,6 +16,7 @@ comparePrice: 13.71 EUR
 prodname: 'Funko POP Dragon Ball Z Android 18 V'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HBBC9D3/?tag=tolees0ca-21'
 descuento: '34.28'
 average: '9.01'

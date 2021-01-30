@@ -16,6 +16,7 @@ comparePrice: 11.98 EUR
 prodname: 'CXZC Raspador de nieve para automóviles y camiones pequeños  raspador de hielo portátil para herramientas de nieve para parabrisas de automóviles  ventanas y superficies de carrocerías'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZKHVQG9/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Miss Marple Box  4 DVDs '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0000TLA6E/?tag=tolees0ca-21'
 descuento: '82.04'
 average: '8.98'

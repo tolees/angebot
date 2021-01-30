@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'RÖSLE Steak Besteck Set 4-teilig  Edelstahl 18/10  inkl. praktischer Holzbox'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00SG5P7R2/?tag=tolees0ca-21'
 descuento: '64.82'
 average: '17.57'

@@ -16,6 +16,7 @@ comparePrice: 1099.9 EUR
 prodname: 'Viewsonic PX747-4K UHD Heimkino DLP Beamer  4K  3.500 ANSI Lumen  2x HDMI  10 Watt Lautsprecher  1.2x optischer Zoom  HDR  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079MQD2TL/?tag=tolees0ca-21'
 descuento: '29.18'
 average: '845.9666666666667'

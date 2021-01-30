@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Logitech Harmony Companion Universalfernbedienung schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B014GXQ3S4/?tag=tolees0ca-21'
 descuento: '56.38'
 average: '67.0'

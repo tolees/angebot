@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 11411 POP Vinylfigur: Dishonored 2: Emily'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LEJCUWQ/?tag=tolees0ca-21'
 descuento: '46.39'
 average: '7.5'

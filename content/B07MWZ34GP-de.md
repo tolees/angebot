@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Ostwind 1-3 [3 DVDs]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MWZ34GP/?tag=tolees0ca-21'
 descuento: '26.67'
 average: '8.8'

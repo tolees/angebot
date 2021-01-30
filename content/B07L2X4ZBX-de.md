@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Corsair Harpoon Kabellose RGB Wiederaufladbare Optisch Gaming-Maus  mit SLIPSTREAM Technologie  10.000DPI Optisch Sensor  RGB LED Hintergrundbeleuchtung  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07L2X4ZBX/?tag=tolees0ca-21'
 descuento: '41.66'
 average: '35.0'

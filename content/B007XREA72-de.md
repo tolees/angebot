@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'funny-frisch Chipsfrisch Currywurst Style  10er Pack  10 x 175 g '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007XREA72/?tag=tolees0ca-21'
 descuento: '44.65'
 average: '8.8'

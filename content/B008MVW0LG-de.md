@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'WENKO Anti-Schimmel Duschvorhang Uni  Anti-Bakteriell  waschbar  mit 12 Duschvorhangringen  200 x 180 cm  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B008MVW0LG/?tag=tolees0ca-21'
 descuento: '62.17'
 average: '12.86'

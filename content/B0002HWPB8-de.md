@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Theo Klein 8520 - Bosch Tool Box mit Akkuschrauber  Baukästen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0002HWPB8/?tag=tolees0ca-21'
 descuento: '34.22'
 average: '24.13285714285714'

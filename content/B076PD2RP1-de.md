@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'adidas Herren REGI18 PES PNT Sport Trousers  Black/White  M'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076PD2RP1/?tag=tolees0ca-21'
 descuento: '52.22'
 average: '16.7'

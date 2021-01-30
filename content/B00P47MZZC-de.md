@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Led Leuchtmittel E27 Warmweiß 5W Tropfen Birne Licht 3000K 400 Lumen Abstrahlwinkel 280 Grad Tropfen Glühbirne 5er Verpackung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00P47MZZC/?tag=tolees0ca-21'
 descuento: '28.03'
 average: '7.19'

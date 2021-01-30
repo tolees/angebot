@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Under Armour Unisex – Erwachsene Patterson Backpack strapazierfähiger Tagesrucksack mit Laptopfach  wasserabweisender Laptop Rucksack mit viel Platz  Schwarz  Einheitsgröße'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KK1XTB7/?tag=tolees0ca-21'
 descuento: '56.29'
 average: '13.696666666666667'

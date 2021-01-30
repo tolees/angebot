@@ -16,6 +16,7 @@ comparePrice: 350.9 EUR
 prodname: 'D-Link COVR-2202 Whole Home Mesh Wifi System  Tri-Band AC2200  kombinierte WLAN-Geschwindigkeit von bis zu 2 2 Gbit/s '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DJHZD87/?tag=tolees0ca-21'
 descuento: '55.86'
 average: '152.17000000000002'

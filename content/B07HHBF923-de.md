@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Oral-B CrossAction Aufsteckbürsten mit Bakterienschutz  Verhindert bakterielles Wachstum auf den Borsten  3+1 Stück'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HHBF923/?tag=tolees0ca-21'
 descuento: '34.96'
 average: '9.75'

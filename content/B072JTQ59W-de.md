@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Philips SHL3175WT BASS+ Over-Ear Kopfhörer  mit Mikrofon  Fernbedienung  satter Bass  Freisprechfunktion  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072JTQ59W/?tag=tolees0ca-21'
 descuento: '83.75'
 average: '6.5'

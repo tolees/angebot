@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Stubai - Strick Fleecejacke Herren/Strickjacke mit Fleece Innenseite für Outdooraktivität  Strick Fleece Jacke mit Stehkragen und Reißverschluss  Farbe: Dunkelblau  Größe: M - 3XL '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0171GGXSS/?tag=tolees0ca-21'
 descuento: '37.50'
 average: '49.99'

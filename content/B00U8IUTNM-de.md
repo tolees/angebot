@@ -16,6 +16,7 @@ comparePrice: 17.82 EUR
 prodname: 'Intel Dual Band Wireless-AC 7265'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00U8IUTNM/?tag=tolees0ca-21'
 descuento: '16.61'
 average: '14.86'

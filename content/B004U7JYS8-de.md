@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Fujifilm Instax Mini Instant Film  1x 10 Blatt  10 Blatt   Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004U7JYS8/?tag=tolees0ca-21'
 descuento: '20.02'
 average: '7.99'

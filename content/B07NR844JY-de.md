@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Dickie Toys 203719011 Polizeistation  Ultimate Police Headquarter  Set Polizei  inkl. Fahrzeuge  bekannt aus TV-Werbung  Geschenkset Kinder  Mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NR844JY/?tag=tolees0ca-21'
 descuento: '54.67'
 average: '35.994'

@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'AVM FRITZ!Box 7430  VDSL-/ADSL2+  WLAN N  450 MBit/s  2 4 GHz   TK-Anlage für Voice over IP mit DECT-Basis  Mediaserver  geeignet für Deutschland'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0117ZTDSG/?tag=tolees0ca-21'
 descuento: '38.77'
 average: '78.99'

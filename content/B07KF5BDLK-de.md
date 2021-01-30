@@ -16,6 +16,7 @@ comparePrice: 58.44 EUR
 prodname: 'Levi s Herren 527 Slim Boot Cut Jeans  Pulley T2 0563  32W / 30L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KF5BDLK/?tag=tolees0ca-21'
 descuento: '16.68'
 average: '48.69'

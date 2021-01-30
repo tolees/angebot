@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Dyson DYS-5028155 V 7 Motorhead Origin  100 W  21.6 V  Grau  Violett'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076Z3QFFY/?tag=tolees0ca-21'
 descuento: '18.62'
 average: '284.0'

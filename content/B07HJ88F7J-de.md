@@ -16,6 +16,7 @@ comparePrice: 12.2 EUR
 prodname: 'Funko B07HJ88F7J POP Vinyl: Movies: James Bond: Le Chiffre Casino Royale 007-LeChiffre Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HJ88F7J/?tag=tolees0ca-21'
 descuento: '37.13'
 average: '7.67'

@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Nestlé KITKAT und LION Party Box  6 Sorten  68 Schokoriegel  2 8kg '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083ZGRJJ7/?tag=tolees0ca-21'
 descuento: '33.79'
 average: '24.49'

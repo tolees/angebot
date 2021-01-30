@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Catwalk Collection Handbags - Leder - Übergroße Laptoptasche Schultasche/Organizer/Arbeitstasche/Aktentasche für Damen - Laptop/iPad - Handtasche mit Schultergurt - HELENA - Braun'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001MSONI4/?tag=tolees0ca-21'
 descuento: '47.12'
 average: '99.95'

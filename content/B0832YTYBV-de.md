@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'WenTop LED Strip 10m WiFi Smart Controller  SMD 5050 LED Streifen mit Fernbedienung 300leds für Schlafzimmer  TV  Deckenbeleuchtung und Dekorieren  Arbeiten Sie mit Google Assistant und Alexa'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0832YTYBV/?tag=tolees0ca-21'
 descuento: '27.51'
 average: '28.99'

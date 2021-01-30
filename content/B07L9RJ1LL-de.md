@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Aigostar Handrührer Klein Edelstahl Quir 6 Geschwindigkeitsstufen Turbofunktion'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07L9RJ1LL/?tag=tolees0ca-21'
 descuento: '26.41'
 average: '18.39'

@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Wanbasion 6 Teilig scharfe Messer Set küche Edelstahl  küchen Messer Set scharf damast  Profi Messer Set für köche kochmesser damastmesser rostfrei'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08398BQXL/?tag=tolees0ca-21'
 descuento: '32.27'
 average: '20.99'

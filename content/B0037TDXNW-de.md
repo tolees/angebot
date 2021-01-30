@@ -16,6 +16,7 @@ comparePrice: 21.85 EUR
 prodname: 'Reality Leuchten Tischleuchte Kugel  ohne Leuchtmittel  Durchmesser 20 cm  mit Schnurschalter  1 x E27 maximum 25 W  Glas opal weiß R5220-07'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0037TDXNW/?tag=tolees0ca-21'
 descuento: '17.25'
 average: '18.08'

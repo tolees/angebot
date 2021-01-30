@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'Kingston DT100G3/128GB DataTraveler 100 G3  USB 3.0  3.1 Flash Drive  128 GB  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B016BEPP9O/?tag=tolees0ca-21'
 descuento: '19.46'
 average: '12.0'

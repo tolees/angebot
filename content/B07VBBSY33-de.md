@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Emporio Armani Herren-Schildarmband Edelstahl EGS2660040'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VBBSY33/?tag=tolees0ca-21'
 descuento: '54.50'
 average: '49.59'

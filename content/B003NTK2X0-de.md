@@ -16,6 +16,7 @@ comparePrice: 18.9 EUR
 prodname: 'EuroTrail Grillabdeckung für 3-flamm-Grill'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003NTK2X0/?tag=tolees0ca-21'
 descuento: '17.88'
 average: '15.52'

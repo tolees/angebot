@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Remington Haarschneidemaschine HC5810  selbstschärfende Keramikklingen  10 Aufsteckkämme + Präzisionslängeneinstellung  Netz-/Akkubetrieb  Lithium  Profi-Alukoffer  Haarschneider  Haartrimmer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003WOKJLQ/?tag=tolees0ca-21'
 descuento: '35.15'
 average: '45.07666666666667'

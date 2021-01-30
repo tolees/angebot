@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 12777 Actionfigur Marvel: Guardians O/T Galaxy 2: Ego  Skin Light Tri Coffee  Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M7YJJI3/?tag=tolees0ca-21'
 descuento: '42.89'
 average: '7.99'

@@ -16,6 +16,7 @@ comparePrice: 312.08 EUR
 prodname: 'Brother ADS1700W Mobiler Scanner ADS1700WUN1 A4/Duplex/WLAN/Farbe'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07H3B9Z7Q/?tag=tolees0ca-21'
 descuento: '15.84'
 average: '262.65'

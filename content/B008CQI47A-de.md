@@ -16,6 +16,7 @@ comparePrice: 9.4 EUR
 prodname: 'Smart Games SG 423 - Spiel Iq Fit'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B008CQI47A/?tag=tolees0ca-21'
 descuento: '15.00'
 average: '7.99'

@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'adsf Tentacles Double Stimulation Toy - Sie Müssen Hart Und Schnell Sein  Um Sie über Die Ränder Zu Schicken'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083DF2SDB/?tag=tolees0ca-21'
 descuento: '60.75'
 average: '12.95'

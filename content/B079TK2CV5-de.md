@@ -16,6 +16,7 @@ comparePrice: 4.78 EUR
 prodname: 'Goobay 45400 2 in 1 Superspeed Adapter USB 3.0  Typ A  auf USB-C  verwandelt den USB 3.0 Anschluss in einen USB-C Anschluss  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079TK2CV5/?tag=tolees0ca-21'
 descuento: '17.36'
 average: '3.95'

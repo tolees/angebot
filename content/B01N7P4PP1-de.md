@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Sigma Sport Zubehör  R1 DUO Herzfrequenz Sender  ANT+/Bluetooth Smart  inkl. COMFORTEX+'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N7P4PP1/?tag=tolees0ca-21'
 descuento: '28.83'
 average: '38.419999999999995'

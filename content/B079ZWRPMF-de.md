@@ -16,6 +16,7 @@ comparePrice: 114.99 EUR
 prodname: 'Philips Epiliergerät Satinelle Prestige BRE651/00 – Nass- und Trocken Epilierer inkl. 10 Zubehörteile für eine mühelose Anwendung an Beinen  Körper & Gesicht für langanhaltend glatte Haut'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079ZWRPMF/?tag=tolees0ca-21'
 descuento: '30.44'
 average: '79.99'

@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Hama Universal-Drehteller  360° drehbar  Drehscheibe geeignet für Büro  Zuhause  Hobby  PC-Monitor  TV  Küche  Pflanzen  Blumentöpfe uvm  Drehplatte mit Durchmesser 40 cm  bis zu 100 kg  rund  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00006JAXW/?tag=tolees0ca-21'
 descuento: '25.53'
 average: '20.093333333333334'

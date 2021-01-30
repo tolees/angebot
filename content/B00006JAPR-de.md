@@ -16,6 +16,7 @@ comparePrice: 6.49 EUR
 prodname: 'Hama Euro-Netzkabel 2-polig 1 5m  gerade  Eurostecker auf Doppelnut  Netzstecker auf Euro 8 Doppelbuchse  Stromkabel schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00006JAPR/?tag=tolees0ca-21'
 descuento: '15.41'
 average: '5.6125'

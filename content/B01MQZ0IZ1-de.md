@@ -16,6 +16,7 @@ comparePrice: 8.49 EUR
 prodname: 'Schmidt Spiele Mouse TV Puzzle 56212  blau  Gute Freunde  3x24 Teile'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MQZ0IZ1/?tag=tolees0ca-21'
 descuento: '41.22'
 average: '4.99'

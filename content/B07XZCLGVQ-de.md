@@ -16,6 +16,7 @@ comparePrice: 39.98 EUR
 prodname: 'Xiaomi MJCQB02QJ Mobiler Luftkompressor  A  1'
 country: 'de'
 flag: '🇩🇪'
+brand: 'Xiaomi'
 buyurl: 'https://www.amazon.de/dp/B07XZCLGVQ/?tag=tolees0ca-21'
 descuento: '15.23'
 average: '39.5040506329114'

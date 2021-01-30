@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Panama Jack Herren Panama 03 Aviator Combat Boots  Lederfarben  44 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LYGRJ8D/?tag=tolees0ca-21'
 descuento: '43.66'
 average: '106.92500000000001'

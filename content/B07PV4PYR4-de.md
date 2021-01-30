@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'PLAYMOBIL 70046 - FC Bayern München Fußballarena zum Mitnehmen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PV4PYR4/?tag=tolees0ca-21'
 descuento: '36.71'
 average: '37.97'

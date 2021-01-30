@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Jack Wolfskin Unisex-Erwachsene Warwick Ave sac à bandoulière Tasche  Blau  Night Blue   One Size'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DVSG7W6/?tag=tolees0ca-21'
 descuento: '28.71'
 average: '28.48'

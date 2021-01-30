@@ -16,6 +16,7 @@ comparePrice: 124.99 EUR
 prodname: 'Hasbro Black Panther E1971EU4 Black Panther Legends  elektronischer Helm für Erwachsene  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CMB1TSZ/?tag=tolees0ca-21'
 descuento: '28.11'
 average: '89.85'

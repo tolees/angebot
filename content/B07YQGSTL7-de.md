@@ -16,6 +16,7 @@ comparePrice: 15.94 EUR
 prodname: 'Funko 47165 POP Movies: Fight Club-Tyler Durden w/Chase and Buddy  Sonderausgabe  Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YQGSTL7/?tag=tolees0ca-21'
 descuento: '25.03'
 average: '13.597428571428573'

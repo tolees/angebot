@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'AmazonBasics - Lightning-auf-USB-A-Kabel  Premium-Kollektion  1 8 m  1er-Pack - Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FGKRX43/?tag=tolees0ca-21'
 descuento: '49.95'
 average: '5.0'

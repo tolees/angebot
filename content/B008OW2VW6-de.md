@@ -16,6 +16,7 @@ comparePrice: 48.45 EUR
 prodname: 'Gimi Modular 4 Turm-Wäscheständer aus Stahl  40 m Trockenlänge'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B008OW2VW6/?tag=tolees0ca-21'
 descuento: '26.96'
 average: '35.39'

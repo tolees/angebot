@@ -16,6 +16,7 @@ comparePrice: 8.59 EUR
 prodname: 'Das Phantom der Oper [Blu-ray] [Special Edition]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003XOWP1C/?tag=tolees0ca-21'
 descuento: '30.38'
 average: '7.430000000000001'

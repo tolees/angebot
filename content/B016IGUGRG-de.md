@@ -16,6 +16,7 @@ comparePrice: 1419.0 EUR
 prodname: 'Neff TPT4660X / T46PT60X0 / Autarkes Kochfeld / Induktion / 60cm / TwistPad Flat / Bräterzone'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B016IGUGRG/?tag=tolees0ca-21'
 descuento: '75.19'
 average: '352.0'

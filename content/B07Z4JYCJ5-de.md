@@ -16,6 +16,7 @@ comparePrice: 26.95 EUR
 prodname: 'Unizooke Messerschärfer Profi  Messerschleifer Messer Schärfer für Restaurant Küchenmesser und Haushalt Messer  Knife Sharpener für Wellenschliff und Glatter Klinge Kitchen Messerschaerfer Leicht'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Z4JYCJ5/?tag=tolees0ca-21'
 descuento: '45.90'
 average: '14.58'

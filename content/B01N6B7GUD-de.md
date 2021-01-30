@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'Kenwood Chef Elite KVC5320S Küchenmaschine  4 6 l Edelstahl Rührschüssel  Interlock-Sicherheitssystem  Metallgehäuse  1200 Watt  inkl. 3-Teiligem Patisserie-Set und Glas-Mixaufsatz  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N6B7GUD/?tag=tolees0ca-21'
 descuento: '35.33'
 average: '458.175'

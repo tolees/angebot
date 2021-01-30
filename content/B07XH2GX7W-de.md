@@ -16,6 +16,7 @@ comparePrice: 999 EUR
 prodname: 'Huawei P30 Pro Dual SIM Smartphone Bundle  16 434 cm  6.47 Zoll   128GB interner Speicher  8GB RAM  40MP + 20MP + 8MP Hauptkamera  32MP Frontkamera  Android 9.0  EMUI 9.1  Misty Lavender'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XH2GX7W/?tag=tolees0ca-21'
 descuento: '39.34'
 average: '606'

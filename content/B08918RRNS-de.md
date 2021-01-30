@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Casiwaft 14er Set Vinylfolie Heat Transfer Glitzer Transferfolie Vinyl HTV Craft Sheets for DIY T-Shirt Textil  Handwerk  Leder mit 14 Farben 25cm*30cm '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08918RRNS/?tag=tolees0ca-21'
 descuento: '25.01'
 average: '20.99'

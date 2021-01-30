@@ -16,6 +16,7 @@ comparePrice: 549.0 EUR
 prodname: 'Pioneer VSX-934 7.2-Kanal Netzwerk AV Receiver  7x160 Watt  Dolby Atmos  DTS:X  Dolby Atmos Height Virtualizer  Sonos  Zone 2  AirPlay 2  Bluetooth  USB   Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NX5YDLK/?tag=tolees0ca-21'
 descuento: '30.24'
 average: '383.0'

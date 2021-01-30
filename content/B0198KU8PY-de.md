@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 024563 S1 No Actionfigur One Piece: Portgas D. Ace  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0198KU8PY/?tag=tolees0ca-21'
 descuento: '42.82'
 average: '8.0'

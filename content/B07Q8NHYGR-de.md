@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Candylocks 6054716 - Beste Freundinnen 2er Pack  Mint Choco Chick und Choco Lisa'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Q8NHYGR/?tag=tolees0ca-21'
 descuento: '24.71'
 average: '16.90222222222222'

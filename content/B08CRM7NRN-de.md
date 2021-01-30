@@ -16,6 +16,7 @@ comparePrice: 7.64 EUR
 prodname: 'MIHUA 10m Gummiband ，Elastikkordel，Gummiband Rund，Weiches Gummiband Für Masken，Für Basteln Kleidung Stricken Handwerk Kunstwerk'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08CRM7NRN/?tag=tolees0ca-21'
 descuento: '60.86'
 average: '2.99'

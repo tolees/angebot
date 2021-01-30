@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Romoss Powerbank 10000mAh  Externer Akku mit 2-Port Output Mini  Akkupack mit LED-Statusanzeige für i Phone  S umsung  Huawei und Handys  Smartphones  Tablets  usw. Minzgrün'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BWH668J/?tag=tolees0ca-21'
 descuento: '40.54'
 average: '14.86'

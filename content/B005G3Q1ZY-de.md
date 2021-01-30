@@ -16,6 +16,7 @@ comparePrice: 114.99 EUR
 prodname: 'Tefal Talent Pro E44040 Grillpfanne  26 cm  induktionsgeeignet  antihaftversiegelt  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005G3Q1ZY/?tag=tolees0ca-21'
 descuento: '63.28'
 average: '42.23'

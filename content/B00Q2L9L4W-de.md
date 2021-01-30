@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Morella® Damen Engels Klangkugel grün Ø 16 mm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00Q2L9L4W/?tag=tolees0ca-21'
 descuento: '19.29'
 average: '7.99'

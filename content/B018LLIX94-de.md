@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Tommy Hilfiger Herren CORE HILFIGER REGULAR POLO Poloshirt  Schwarz  Flag Black 060   X-Large'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B018LLIX94/?tag=tolees0ca-21'
 descuento: '29.23'
 average: '40.61888888888888'

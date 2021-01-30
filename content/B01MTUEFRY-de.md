@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Emsa Kräutertopf für frische Kräuter  Selbstbewässerung  Wasserstandsanzeiger  Ø 13 cm  Hellgrün  Fresh Herbs  517531'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MTUEFRY/?tag=tolees0ca-21'
 descuento: '22.02'
 average: '10.510000000000002'

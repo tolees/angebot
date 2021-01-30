@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'LaCie Portable SSD  500 GB  externe SSD  2.5 Zoll  USB-C  Mac & PC  Modellnr.: STHK500800'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JK8DXF6/?tag=tolees0ca-21'
 descuento: '15.67'
 average: '92.76'

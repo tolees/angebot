@@ -16,6 +16,7 @@ comparePrice: 8.09 EUR
 prodname: 'Pop Marvel Studios 10 Black Panther Vinyl Figure'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FNS779Y/?tag=tolees0ca-21'
 descuento: '23.61'
 average: '6.18'

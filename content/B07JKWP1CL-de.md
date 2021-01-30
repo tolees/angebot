@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Playmobil 70009 SuperSet Galaxy Police Gefängnis  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JKWP1CL/?tag=tolees0ca-21'
 descuento: '35.12'
 average: '12.817499999999999'

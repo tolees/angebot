@@ -16,6 +16,7 @@ comparePrice: 10.91 EUR
 prodname: 'Songs in the Key of Rock  3cd Remastered Edition '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075TQTVGP/?tag=tolees0ca-21'
 descuento: '29.97'
 average: '7.64'

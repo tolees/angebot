@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Puma Unisex-Erwachsene Rebound Layup Sd Fur Sneaker   Puma Black-Castlerock 01   43 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KFZTGRS/?tag=tolees0ca-21'
 descuento: '42.79'
 average: '38.05'

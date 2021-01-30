@@ -16,6 +16,7 @@ comparePrice: 175.0 EUR
 prodname: 'TechniSat DIGITRADIO 20 CD – Modernes & kompaktes DAB+ Küchen- & Badezimmerradio  Empfangstarkes UKW Unterbauradio mit CD Player & Uhr '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075LVYB9S/?tag=tolees0ca-21'
 descuento: '25.53'
 average: '130.0788888888889'

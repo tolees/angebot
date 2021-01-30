@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Enders Gasgrill URBAN  Tischgrill  Grillen-  Kochen- und Backen Funktion  2 Brenner Edelstahl  kleiner Grill mit Grill-Thermometer  Balkon-Grill  Camping-Grill  Aluguss-Gehäuse  Gusseisen-Rost  #2095'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0144KSXVO/?tag=tolees0ca-21'
 descuento: '45.21'
 average: '124.495'

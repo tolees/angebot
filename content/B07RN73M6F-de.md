@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Oral-B Kids Star Wars Elektrische Zahnbürste mit Disney-Stickern  für Kinder ab 3 Jahren  rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RN73M6F/?tag=tolees0ca-21'
 descuento: '48.67'
 average: '17.96'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'WMF Ersatzteil Dichtungsring Schnellkochtopf  22 cm  Gummiring  Gummi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000LVNR62/?tag=tolees0ca-21'
 descuento: '39.49'
 average: '11.49'

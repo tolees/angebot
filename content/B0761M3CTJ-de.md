@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Fruitman Kugelschreiber lustige geschenk für männer geschenke weihnachten büro gadgets helfen für weihnachtsdeko werkzeug stift papa geschenkideen weihnachtsgeschenke für frauen und männer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0761M3CTJ/?tag=tolees0ca-21'
 descuento: '50.03'
 average: '9.99'

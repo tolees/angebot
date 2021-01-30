@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Funko 37743 POP Vinyl: Alien 40th: Xenomorph Sammelbares Spielzeug  Mehrfarben  Einheitsgröße'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KPT76JZ/?tag=tolees0ca-21'
 descuento: '44.97'
 average: '8.75'

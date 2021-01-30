@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Samsung Externer Akkupack  EB-P3000C  10.000 mAh  Navy Blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079SDSZKC/?tag=tolees0ca-21'
 descuento: '23.24'
 average: '22.95'

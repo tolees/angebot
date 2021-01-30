@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'ZENS Qi-zertifiziertes kabelloses Aluminium Lade-Pad  Unterstützt Fast Wireless Charging mit bis zu 10 Watt - Funktioniert mit allen Geräten mit kabellosem Laden'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GJTRRMK/?tag=tolees0ca-21'
 descuento: '22.22'
 average: '38.88'

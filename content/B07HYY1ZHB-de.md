@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Nordcap Herren Thermohose  Funktionelle Wintersport-Hose in Anthrazit  mit warmem Innenfutter  Skihose  Wanderhose  Lange Freizeithose  Gr. 25-56'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HYY1ZHB/?tag=tolees0ca-21'
 descuento: '39.40'
 average: '59.99'

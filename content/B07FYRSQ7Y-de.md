@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Microsoft Office 2019 Home & Business multilingual | 1 PC  Windows 10  /Mac | Dauerlizenz | Box'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FYRSQ7Y/?tag=tolees0ca-21'
 descuento: '23.19'
 average: '239.56799999999998'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'GUND 6053047 - Interaktiver Flappy der Elefant  mit deutscher Sprache  ca. 30 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PZQQMHK/?tag=tolees0ca-21'
 descuento: '37.51'
 average: '24.99'

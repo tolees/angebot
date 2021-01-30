@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'LIGHTAILING Licht-Set Für  Architecture Venice  Modell - LED Licht-Set Kompatibel Mit Lego 21026 Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RXB2YX9/?tag=tolees0ca-21'
 descuento: '40.02'
 average: '29.99'

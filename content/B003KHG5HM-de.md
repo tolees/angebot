@@ -16,6 +16,7 @@ comparePrice: 11.97 EUR
 prodname: 'Shutter Island [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003KHG5HM/?tag=tolees0ca-21'
 descuento: '77.11'
 average: '2.322'

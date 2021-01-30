@@ -16,6 +16,7 @@ comparePrice: 139.98 EUR
 prodname: 'Bluetooth Kopfhörer  In Ear Bluetooth 5.0 Kabellos Wireless Earbuds  HiFi Stereo Sound Ohrhörer  Sports Headset mit 30 Stunden Spielzeit  IP7 Wasserdicht  LED Digitalanzeige  USB-C Quick Charge'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01KC5AH7S/?tag=tolees0ca-21'
 descuento: '75.73'
 average: '33.98'

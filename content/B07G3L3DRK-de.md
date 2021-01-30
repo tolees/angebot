@@ -16,6 +16,7 @@ comparePrice: 24.35 EUR
 prodname: 'Crucial BX500 120GB CT120BX500SSD1 Z -bis zu 540 MB/s Internes SSD  3D NAND  SATA  2 5-Zoll '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G3L3DRK/?tag=tolees0ca-21'
 descuento: '17.91'
 average: '20.33606557377049'

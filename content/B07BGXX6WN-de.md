@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Faltbare Seiher Sieb Set Klappbar Abtropfsieb über die Spüle Vegtable/Obst Küche Sieb Teesieb mit ausziehbaren Griffen 3 Stück'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BGXX6WN/?tag=tolees0ca-21'
 descuento: '58.41'
 average: '12.47'

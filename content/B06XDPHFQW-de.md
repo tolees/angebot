@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Calvin Klein Damen Bottom Pant Jogger Sporthose  Grau  Grey Heather 020   W Herstellergröße: S '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XDPHFQW/?tag=tolees0ca-21'
 descuento: '38.62'
 average: '42.51'

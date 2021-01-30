@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Samsung MB-ME128GA/EU EVO Select 128 GB microSDXC UHS-I U3 Speicherkarte inkl. SD-Adapter Weiß/Grun'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CY5JGWJ/?tag=tolees0ca-21'
 descuento: '15.42'
 average: '26.393333333333334'

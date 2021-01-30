@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'SanDisk Extreme 64 GB microSDXC Memory Card for Action Cameras and Drones with A2 App Performance up to 160 MB/s  Class 10  U3  V30'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HB8SLMV/?tag=tolees0ca-21'
 descuento: '27.24'
 average: '11.75'

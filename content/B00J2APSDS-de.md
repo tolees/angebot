@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Birkenstock Madrid EVA  Damen Pantoletten  Weiß  White   40 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00J2APSDS/?tag=tolees0ca-21'
 descuento: '20.04'
 average: '19.99'

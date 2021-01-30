@@ -16,6 +16,7 @@ comparePrice: 21.86 EUR
 prodname: 'Drive Medical Duschhocker 12004KDR  weiß  verstellbar'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B008CFSUS4/?tag=tolees0ca-21'
 descuento: '17.15'
 average: '18.11'

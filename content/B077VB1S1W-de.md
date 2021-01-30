@@ -16,6 +16,7 @@ comparePrice: 11.51 EUR
 prodname: 'Beloved Antichrist'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077VB1S1W/?tag=tolees0ca-21'
 descuento: '29.97'
 average: '8.06'

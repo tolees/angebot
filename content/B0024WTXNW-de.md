@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'SONAX MicrofaserTücher Außen - der Lackpflegeprofi  2 Stück  hochwertig und flauschig  zum Entfernen von Polierrückständen | Art-Nr. 04162410'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0024WTXNW/?tag=tolees0ca-21'
 descuento: '33.05'
 average: '4.68'

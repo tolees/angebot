@@ -16,6 +16,7 @@ comparePrice: 60.74 EUR
 prodname: 'The Polydor Years 1986-1992  Ltd Edt Boxset '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00NPJYC98/?tag=tolees0ca-21'
 descuento: '21.96'
 average: '47.4'

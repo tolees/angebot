@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Panasonic LUMIX DMC-SZ10EG-S Style-Kompakt Digitalkamera  12x opt. Zoom  2 7 Zoll LCD-Display um 180° schwenkbar WiFi  HD-Videos  Bildstabilisator  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00T53FZXU/?tag=tolees0ca-21'
 descuento: '43.72'
 average: '83.85'

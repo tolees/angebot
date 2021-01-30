@@ -16,6 +16,7 @@ comparePrice: 11.79 EUR
 prodname: 'Hilitand hivetool flach Extralanges 390 mm für zuführungstechnologien Reinigung des Bienenzucht-Team der Bienenstock'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DMVK4DQ/?tag=tolees0ca-21'
 descuento: '38.17'
 average: '6.315'

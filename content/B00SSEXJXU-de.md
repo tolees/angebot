@@ -16,6 +16,7 @@ comparePrice: 9.89 EUR
 prodname: 'Oac 3cd Slipcase - Wham [3 CD]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00SSEXJXU/?tag=tolees0ca-21'
 descuento: '29.93'
 average: '6.93'

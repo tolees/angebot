@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Briksmax Led Beleuchtungsset für Ferris Wheel  Kompatibel Mit Lego 10247 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PT8XFHL/?tag=tolees0ca-21'
 descuento: '50.01'
 average: '49.99'

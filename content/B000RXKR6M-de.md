@@ -16,6 +16,7 @@ comparePrice: 16.56 EUR
 prodname: 'Meguiar s X3002EU Microfibre Wash Mitt Mikrofaser-Waschhandschuh'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000RXKR6M/?tag=tolees0ca-21'
 descuento: '29.35'
 average: '11.7'

@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'JOYSKY Wireless Controller für Nintendo Switch  2er-Set Replacement Joy Con Links Rechts Kabelloser Bluetooth Gamepad Joystick Controller （ L  Blau /  R  Rot）'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08CDTKGKB/?tag=tolees0ca-21'
 descuento: '21.28'
 average: '36.99'

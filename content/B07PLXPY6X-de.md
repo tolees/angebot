@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Tragbare Seifenblasenmaschine  iTeknic Bubble Machine  Seifenblasen Maschine mit Antrieb von Batterie oder Stecker  Automatischer Seifenblasen für Outdoor  Indoor  Party  Hochzeit  Geburtstag  Feiern'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PLXPY6X/?tag=tolees0ca-21'
 descuento: '36.68'
 average: '18.99'

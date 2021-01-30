@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Logitech G915 LIGHTSPEED kabellose mechanische Gaming-Tastatur  Taktiler GL-Tasten-Switch mit flachem Profil  LIGHTSYNC RGB  Ultraschlankes Design  30+ Stunden Akkulaufzeit  Wireless Verbindung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VZLMQN7/?tag=tolees0ca-21'
 descuento: '31.04'
 average: '171.7'

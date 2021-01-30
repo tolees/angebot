@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Leifheit Wandrollenhalter Parat Plus ComfortLine-Serie  für jede Küche  bewährter Schneidabroller für Alu- und Klarsichtfolie  Folienschneider mit Spezialmesser'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000B8FNUS/?tag=tolees0ca-21'
 descuento: '41.58'
 average: '17.63583333333333'

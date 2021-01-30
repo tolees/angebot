@@ -16,6 +16,7 @@ comparePrice: 199.41 EUR
 prodname: 'Bang & Olufsen BeoPlay S3 Bluetooth-Lautsprecher  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01E3JTPFE/?tag=tolees0ca-21'
 descuento: '26.44'
 average: '146.68'

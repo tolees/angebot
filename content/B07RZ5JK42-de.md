@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego Star Wars TIE Fighter Attack  Kompatibel Mit Lego 75237 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RZ5JK42/?tag=tolees0ca-21'
 descuento: '63.84'
 average: '26.245319148936176'

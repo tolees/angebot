@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'Timberland Herren Bradstreet Leather Sensorflex Chukka Stiefel  Schwarz Nubuck  43.5 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B015GZDB04/?tag=tolees0ca-21'
 descuento: '60.76'
 average: '54.89'

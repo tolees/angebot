@@ -16,6 +16,7 @@ comparePrice: 24.15 EUR
 prodname: 'Grundig MS 6240 Herrenrasierer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00GOMZS2S/?tag=tolees0ca-21'
 descuento: '25.51'
 average: '17.99'

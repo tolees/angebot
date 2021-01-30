@@ -16,6 +16,7 @@ comparePrice: 1255.45 EUR
 prodname: 'DeWalt Paneelsäge 1675W DWS780 inkl. Zubehör - Mit 305x30 mm HM-Sägeblatt ideal für den Innenausbau - Hohe Schnittkapazität & LED Schnittlinien Anzeige'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005WHG6EU/?tag=tolees0ca-21'
 descuento: '44.29'
 average: '699.46'

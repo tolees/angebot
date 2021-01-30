@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'AUKEY USB C Ladegeräte 30W  Tragbares Schnellladegerät USB Typ C mit Power Delivery 3.0  PD Ladegeräte für iPhone 11 Pro Max/XR/XS Max  MacBook  iPad Pro Air  Samsung S7 / S8  Huawei P30 / P20  27W '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CVS68K5/?tag=tolees0ca-21'
 descuento: '60.02'
 average: '11.99'

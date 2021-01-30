@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Panasonic H-FS1442AEKA LUMIX G Vario Stardzoom 14-42 mm F3.5-5.6 II ASPH. Objektiv  28-44 mm KB  O.I.S. Bildstabilisator  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B010Q5EHCA/?tag=tolees0ca-21'
 descuento: '29.06'
 average: '176.63'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Schiesser Herren Anzug Kurz Zweiteiliger Schlafanzug  Blau  Dunkelblau 803   XXXXX-Large'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072HJB1QL/?tag=tolees0ca-21'
 descuento: '22.22'
 average: '38.85'

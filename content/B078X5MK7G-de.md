@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'Sony HT-XF9000 2.1-Kanal Dolby Atmos/DTS:X Soundbar  mit Vertical Surround Engine und Subwoofer  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078X5MK7G/?tag=tolees0ca-21'
 descuento: '34.49'
 average: '317.46666666666664'

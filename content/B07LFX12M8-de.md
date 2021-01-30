@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Sloggi Damen Zero Microfibre C2P Hipster  Mehrfarbig  Black Combination M014   S  2erPack '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07LFX12M8/?tag=tolees0ca-21'
 descuento: '44.60'
 average: '9.39'

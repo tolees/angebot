@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'HSP Himoto 2.4GHz RC Ferngesteuerter Bausteine Steckbausatz Kipper Dump Truck  DIY Block Building Fahrzeug  Komplett-Set Inkl.Fernsteuerung  Akku und Ladekabel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WSYGV39/?tag=tolees0ca-21'
 descuento: '33.34'
 average: '39.99'

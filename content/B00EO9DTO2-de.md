@@ -16,6 +16,7 @@ comparePrice: 65.9 EUR
 prodname: 'Talisker Dark Storm Whisky  1 x 1 l '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00EO9DTO2/?tag=tolees0ca-21'
 descuento: '24.42'
 average: '49.81'

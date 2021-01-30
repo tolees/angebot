@@ -16,6 +16,7 @@ comparePrice: 1.19 EUR
 prodname: 'funny-frisch goldfischli Sesam  100 g'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B012I5LP7Q/?tag=tolees0ca-21'
 descuento: '25.21'
 average: '0.89'

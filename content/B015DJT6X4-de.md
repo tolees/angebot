@@ -16,6 +16,7 @@ comparePrice: 1717.0 EUR
 prodname: 'Siemens EX645LYC1E iQ700 Kochfeld Elektro / Ceran/Glaskeramik / 58 3 cm / Power Boost Funktion / schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B015DJT6X4/?tag=tolees0ca-21'
 descuento: '63.13'
 average: '633.0'

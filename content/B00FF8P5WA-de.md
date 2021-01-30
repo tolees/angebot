@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'Maier Sports Herren Funktionshose Oberjoch  graphite  58'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00FF8P5WA/?tag=tolees0ca-21'
 descuento: '40.51'
 average: '83.26'

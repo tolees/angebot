@@ -16,6 +16,7 @@ comparePrice: 999 EUR
 prodname: 'HP Pavilion Gaming TG01-0023ng Desktop  AMD Ryzen 7-3700X  16GB DDR4 RAM  512GB SSD  Nvidia GeForce GTX 1660Ti 6GB GDDR6  Windows 10 Home  schwarz / grün'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XPCC3NN/?tag=tolees0ca-21'
 descuento: '49.95'
 average: '705.405'

@@ -16,6 +16,7 @@ comparePrice: 21.31 EUR
 prodname: 'Mülleimer Abfalleimer Mülltrennsystem 60L - 3x20L Behälter Sorti Box Müllsortierer 3 Farben von rg-vertrieb  Anthrazit '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GXM2NH2/?tag=tolees0ca-21'
 descuento: '32.33'
 average: '18.377368421052626'

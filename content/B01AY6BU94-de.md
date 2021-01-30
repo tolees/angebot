@@ -16,6 +16,7 @@ comparePrice: 169.95 EUR
 prodname: 'UGG W Classic Mini II  Damenstiefel  Schwarz  Black Blk   38 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01AY6BU94/?tag=tolees0ca-21'
 descuento: '41.17'
 average: '103.53'

@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Grundig CMS 1050 DAB+ BT Kompakt Micro Anlage  Bluetooth  CD-MP3-Wiedergabe  USB Anschluss  schwarz/silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LW5J9XR/?tag=tolees0ca-21'
 descuento: '36.89'
 average: '94.26407407407409'

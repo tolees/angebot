@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko Pop Marvel: Avengers Infinity War - Captain America Collectible Figur'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079PQ7TQS/?tag=tolees0ca-21'
 descuento: '30.02'
 average: '9.506666666666666'

@@ -16,6 +16,7 @@ comparePrice: 61.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Disney Mickey s Steamboat Willie  Kompatibel Mit Lego 21317 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RZ7S42J/?tag=tolees0ca-21'
 descuento: '40.33'
 average: '36.99'

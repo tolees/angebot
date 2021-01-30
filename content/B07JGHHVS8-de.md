@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'PUMA Damen Carina L Niedrig  Weiß White-White-Silver  39 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JGHHVS8/?tag=tolees0ca-21'
 descuento: '31.09'
 average: '42.03821428571428'

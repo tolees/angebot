@@ -16,6 +16,7 @@ comparePrice: 949.0 EUR
 prodname: 'Nikon Z 50 Kamera'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YXH9LXV/?tag=tolees0ca-21'
 descuento: '29.65'
 average: '667.58'

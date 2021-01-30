@@ -16,6 +16,7 @@ comparePrice: 9.74 EUR
 prodname: 'Glück'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XQXW4Z1/?tag=tolees0ca-21'
 descuento: '24.44'
 average: '7.36'

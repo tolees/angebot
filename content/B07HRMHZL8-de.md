@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Ultimate Ears BOOM 3 Bluetooth Lautsprecher  wasserdichter 360°-Sound  inklusive Power up Ladestation  blaue Lagune'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HRMHZL8/?tag=tolees0ca-21'
 descuento: '50.28'
 average: '88.99'

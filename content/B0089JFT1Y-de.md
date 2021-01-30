@@ -16,6 +16,7 @@ comparePrice: 14.95 EUR
 prodname: 'Silikomart 196371 Eisform Classic Mini  4er-Form'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0089JFT1Y/?tag=tolees0ca-21'
 descuento: '30.70'
 average: '10.36'

@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Sony MDR-XB650BT kabelloser Extra-Bass Kopfhörer  Bluetooth  NFC  weiche On-Ear Ohrpolster  hohe Tragekomfort  gute Schallisolierung  Headset mit Mikrofon für Telefon & PC/Laptop  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01CYL90EY/?tag=tolees0ca-21'
 descuento: '52.29'
 average: '41.714999999999996'

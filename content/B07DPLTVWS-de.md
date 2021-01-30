@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Kinder Musikinstrumenten Spielzeug Set - Smarkids Schlaginstrument Musikalisches Spielzeug für Kinder Vorschulunterricht Pädagogisches Spielzeug für Mädchen und Jungen mit kleinkind rucksack'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DPLTVWS/?tag=tolees0ca-21'
 descuento: '24.00'
 average: '37.99'

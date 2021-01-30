@@ -16,6 +16,7 @@ comparePrice: 67.9 EUR
 prodname: 'Pawhut Welpenauslauf Welpenfreigehege Freigehege Laufstall Laufgitter Welpenzaun 60 x 80 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005VAL35K/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '54.32'

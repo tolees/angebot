@@ -16,6 +16,7 @@ comparePrice: 18.12 EUR
 prodname: 'Philips Essential Care Reisehaartrockner BHD006/00  1600 Watt  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00LO9AB8C/?tag=tolees0ca-21'
 descuento: '29.08'
 average: '12.85'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Schöffel Damen Pants Ascona Zip Off leichte und komfortable optimaler Passform  Flexible Outdoor Hose für Frauen  Grau  Asphalt   19  M '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MY6LY95/?tag=tolees0ca-21'
 descuento: '53.44'
 average: '46.54'

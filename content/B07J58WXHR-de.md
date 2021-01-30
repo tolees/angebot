@@ -16,6 +16,7 @@ comparePrice: 467.28 EUR
 prodname: 'Medion E4273 35  5 cm  14 Zoll Full HD Touch  Convertible Notebook  Intel Pentium Silver N5000  256GB SSD  8GB DDR4 RAM  Win 10 Home '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07J58WXHR/?tag=tolees0ca-21'
 descuento: '55.70'
 average: '343.495'

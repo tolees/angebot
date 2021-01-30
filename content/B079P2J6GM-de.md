@@ -16,6 +16,7 @@ comparePrice: 329.95 EUR
 prodname: 'Fitbit Ionic Health & Fitness Smartwatch  grau Einheitsgröße'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079P2J6GM/?tag=tolees0ca-21'
 descuento: '39.40'
 average: '199.95'

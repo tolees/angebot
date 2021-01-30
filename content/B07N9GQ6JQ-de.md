@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'SAMSONITE Uplite - Three-Way Laptop Expandable Rucksack  40 cm  18 Liter  Blue'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07N9GQ6JQ/?tag=tolees0ca-21'
 descuento: '40.00'
 average: '71.4'

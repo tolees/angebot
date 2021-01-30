@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Sabrent Bluetooth-Adapter USB Bluetooth 4.0 Micro Adapter für PC [v4.0 Klasse 2  mit Niedrig Energie Technologie]  BT-UB40 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XHY5VXF/?tag=tolees0ca-21'
 descuento: '53.64'
 average: '6.95'

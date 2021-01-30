@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'American Tourister Soundbox - Spinner S Erweiterbar Handgepäck  55 cm  41 L  Gelb  Golden Yellow '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079M59MSH/?tag=tolees0ca-21'
 descuento: '49.99'
 average: '64.99'

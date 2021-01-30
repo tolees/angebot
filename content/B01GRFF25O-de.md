@@ -16,6 +16,7 @@ comparePrice: 1077.0 EUR
 prodname: 'WD 16 TB My Cloud Pro PR2100 Pro Serie 2-Bay Network Attached Storage - NAS - WDBBCL0160JBK-EESN'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01GRFF25O/?tag=tolees0ca-21'
 descuento: '66.57'
 average: '526.2133333333333'

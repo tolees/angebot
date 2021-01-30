@@ -16,6 +16,7 @@ comparePrice: 66.0 EUR
 prodname: 'Nike Damen WMNS Md Runner 2 Hallenschuhe  Schwarz  Schwarz/Weiß   37.5 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00PZ8ZEGW/?tag=tolees0ca-21'
 descuento: '39.15'
 average: '37.06999999999999'

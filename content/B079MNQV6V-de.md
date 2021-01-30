@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Playmobil 9457 Hausmeister mit Kiosk'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079MNQV6V/?tag=tolees0ca-21'
 descuento: '35.44'
 average: '6.38409090909091'

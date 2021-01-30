@@ -16,6 +16,7 @@ comparePrice: 9.58 EUR
 prodname: 'Maul Ferroband  Selbstklebende Magnethaft-Wandleiste aus Stahlblech  Größe 250 cm x 3 5 cm  Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000WL4TLS/?tag=tolees0ca-21'
 descuento: '19.62'
 average: '7.8774999999999995'

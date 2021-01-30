@@ -16,6 +16,7 @@ comparePrice: 67.99 EUR
 prodname: 'Hasbro FurReal Friends B0449EU6- JJ  mein hopsender Mops  elektronisches Haustier'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00STL8GK8/?tag=tolees0ca-21'
 descuento: '36.77'
 average: '42.99'

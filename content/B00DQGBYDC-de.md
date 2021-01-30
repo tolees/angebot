@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'SanDisk Ultra 64GB USB-Flash-Laufwerk USB 3.0 bis zu 130MB/s'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00DQGBYDC/?tag=tolees0ca-21'
 descuento: '37.52'
 average: '9.33'

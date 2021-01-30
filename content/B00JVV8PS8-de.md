@@ -16,6 +16,7 @@ comparePrice: 7.6 EUR
 prodname: 'Panasonic eneloop  Ready-to-Use Ni-MH Akku  AAA Micro  4er Pack  min. 750 mAh  2100 Ladezyklen  starke Leistung und geringe Selbstentladung  wiederaufladbare Akku Batterie'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00JVV8PS8/?tag=tolees0ca-21'
 descuento: '20.92'
 average: '6.01'

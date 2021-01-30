@@ -16,6 +16,7 @@ comparePrice: 4.55 EUR
 prodname: 'Mascara Volum  Express Turbo Boost'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0013BE8YY/?tag=tolees0ca-21'
 descuento: '23.30'
 average: '3.49'

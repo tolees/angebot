@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Swarovski Damen-Kette mit Anhänger SWAN Lake Edelstahl Kristall weiß Marquiseschliff 38 cm - 5169080'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N63FOWS/?tag=tolees0ca-21'
 descuento: '33.76'
 average: '98.7'

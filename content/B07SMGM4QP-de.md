@@ -16,6 +16,7 @@ comparePrice: 195.42 EUR
 prodname: 'SS&LL Cubo de basura del Pedal Papelera de Acero inoxidable Con tapa cubos de basura para cocinas baños dormitorio-B'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SMGM4QP/?tag=tolees0ca-21'
 descuento: '39.11'
 average: '118.99'

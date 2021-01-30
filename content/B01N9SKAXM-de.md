@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Citizen Damen Analog Quarz Uhr mit Edelstahl Armband EM0503-83X'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N9SKAXM/?tag=tolees0ca-21'
 descuento: '28.77'
 average: '113.25'

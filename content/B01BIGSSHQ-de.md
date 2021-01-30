@@ -16,6 +16,7 @@ comparePrice: 340.0 EUR
 prodname: 'Western Digital 4 TB My Cloud EX2 Ultra-Netzwerkspeicher'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BIGSSHQ/?tag=tolees0ca-21'
 descuento: '22.97'
 average: '257.898'

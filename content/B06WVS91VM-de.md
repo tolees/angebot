@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Playmobil 6932 - Pferdekutsche'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06WVS91VM/?tag=tolees0ca-21'
 descuento: '29.14'
 average: '11.33'

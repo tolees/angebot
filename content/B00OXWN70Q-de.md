@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'uvex Unisex – Erwachsene  plug-in LED für i-vo/airwing Zusatzbehör    one size'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00OXWN70Q/?tag=tolees0ca-21'
 descuento: '23.40'
 average: '9.95'

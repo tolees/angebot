@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Monkey 47 Schwarzwald Dry Gin – Harmonischer Gin mit Wacholderaroma & frischen Zitronen- und Fruchtnoten – Britische Tradition  indische Exotik & Schwarzwälder Handwerk – 1 x 0 5 L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B008JAAT5Y/?tag=tolees0ca-21'
 descuento: '20.23'
 average: '29.405'

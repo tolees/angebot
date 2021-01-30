@@ -16,6 +16,7 @@ comparePrice: 319.0 EUR
 prodname: 'STAUB Gusseisen Bräter/ Cocotte  oval 37 cm  8 L  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001EPF9WO/?tag=tolees0ca-21'
 descuento: '41.76'
 average: '185.8'

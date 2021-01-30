@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Hasbro Monopoly E7572100 Monopoly Spiel: L.O.L. Surprise Brettspiel für Kinder ab 8 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TF8CRX2/?tag=tolees0ca-21'
 descuento: '31.05'
 average: '19.99'

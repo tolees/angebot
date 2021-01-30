@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'USB WiFi Digital Mikroskop  Pancellent 1000 x Vergrößerung Magnification  mit 8-LEDs für PC Computer Windows IOS Android Handys  12er-Pack Diasammlung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VT289WT/?tag=tolees0ca-21'
 descuento: '20.02'
 average: '39.99'

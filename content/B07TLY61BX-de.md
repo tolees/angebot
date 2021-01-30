@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Bluetooth Kopfhörer【Neuestes Modell】  Donerton Kopfhörer Kabellos In Ear Earbuds  IPX7 Wasserdicht Sport Wireless Kopfhörer mit 130H Spielzeit  LED Digitalanzeige  Deep Bass HD-Stereo  Touch-Control'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TLY61BX/?tag=tolees0ca-21'
 descuento: '17.97'
 average: '26.98'

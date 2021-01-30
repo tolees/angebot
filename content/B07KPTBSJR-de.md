@@ -16,6 +16,7 @@ comparePrice: 17.02 EUR
 prodname: 'Funko 38565 POP Vinyl 6" Jaws Sammelbares Spielzeug  Mehrfarben  Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KPTBSJR/?tag=tolees0ca-21'
 descuento: '18.98'
 average: '13.79'

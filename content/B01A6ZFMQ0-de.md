@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'ONLY Damen Hose Einfarbige L34Black'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01A6ZFMQ0/?tag=tolees0ca-21'
 descuento: '35.19'
 average: '25.89'

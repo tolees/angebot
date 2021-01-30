@@ -16,6 +16,7 @@ comparePrice: 11.73 EUR
 prodname: 'Robin Hood / Gladiator  Director s Cut / Extended Edition  1+1 Discs  [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004QNW0IC/?tag=tolees0ca-21'
 descuento: '48.00'
 average: '6.1'

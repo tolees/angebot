@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Funko 12921-PDQ POP Schlüsselanhänger Figur: Rick & Morty: Mr. Meeseeks'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N10LJN9/?tag=tolees0ca-21'
 descuento: '42.78'
 average: '4.0'

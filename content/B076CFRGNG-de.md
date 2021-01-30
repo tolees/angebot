@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Samsonite Happy Sammies - Kinder-Rucksack S  28 cm  7.5 L  Orange  Fox William '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076CFRGNG/?tag=tolees0ca-21'
 descuento: '23.79'
 average: '29.72'

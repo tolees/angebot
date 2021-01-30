@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Ravensburger 29841 - 2-in-1 Mandala Designer Frozen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00QM4WKT2/?tag=tolees0ca-21'
 descuento: '42.58'
 average: '10.094285714285714'

@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'POP! Animation: Masters of The Universe - Sorceress'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZZNKGK8/?tag=tolees0ca-21'
 descuento: '31.31'
 average: '11.67'

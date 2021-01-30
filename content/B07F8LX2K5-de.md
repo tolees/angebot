@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Superdry Herren O L Vintage Embroidery L/S Tee Langarmshirt  Schwarz  Black 02A   Medium'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07F8LX2K5/?tag=tolees0ca-21'
 descuento: '42.61'
 average: '24.928749999999997'

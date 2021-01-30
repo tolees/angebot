@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Samsung Galaxy Fit  Fitnesstracker  silber  mit Bluetooth  Farbdisplay  Pulsmesser und Schlafanalyse'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NQ8PZ3N/?tag=tolees0ca-21'
 descuento: '29.30'
 average: '70.0325'

@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'SVITA TC3X20 Küchen-Eimer 60Liter 3x20L Edelstahl dreifach XXL Abfalleimer 3er-Mülleimer Mülltrennung Treteimer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00SYE5BJ4/?tag=tolees0ca-21'
 descuento: '16.63'
 average: '74.95'

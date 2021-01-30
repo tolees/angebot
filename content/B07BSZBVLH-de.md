@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Wangel Hakenleiste Küchenhelfer Hängeleiste 7 Haken ohne Bohren  Patentierter Kleber + Selbstklebender Kleber  Aluminium  Matte Finish'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BSZBVLH/?tag=tolees0ca-21'
 descuento: '17.40'
 average: '20.443124999999995'

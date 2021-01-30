@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Puma Damen Smash WNS v2 L Zapatillas  Weiß White-Bright Rose Silver  36 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07S6NTMZ6/?tag=tolees0ca-21'
 descuento: '36.82'
 average: '31.56'

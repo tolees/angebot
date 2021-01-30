@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 10408 Harry Potter Phantastische Tierwesen-Niffler Figur  Multi  Einheitsgröße'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01K9IO3MS/?tag=tolees0ca-21'
 descuento: '41.03'
 average: '8.25'

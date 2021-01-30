@@ -16,6 +16,7 @@ comparePrice: 246.0 EUR
 prodname: 'BenQ ZOWIE RL2460S 60 96 cm  24 Zoll  Konsolen e-Sports Monitor  offiziell lizensiert für PS4/PS4 Pro  Head-to-Head Setup  Höhenverstellung  Black eQualizer  Color Vibrance  1ms Reaktionszeit  grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JL73ZZD/?tag=tolees0ca-21'
 descuento: '28.87'
 average: '174.99'

@@ -16,6 +16,7 @@ comparePrice: 33.65 EUR
 prodname: 'Hugo Boss Orange Man  men  Eau de Toilette  Vaprisateur / Spray  1er Pack  1 x 100 ml '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000UMG5AW/?tag=tolees0ca-21'
 descuento: '15.36'
 average: '28.48'

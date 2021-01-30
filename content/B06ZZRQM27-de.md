@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'Maxi-Cosi Rodi XP Fix Kinder/-Autositz 15-36 kg mit Isofix  mitwachsender Gruppe 2/3  nutzbar ab 3 5 bis 12 Jahre  night black  schwarz '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06ZZRQM27/?tag=tolees0ca-21'
 descuento: '32.26'
 average: '87.99'

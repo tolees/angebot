@@ -16,6 +16,7 @@ comparePrice: 9.08 EUR
 prodname: 'KS Tools 515.1119 1/2" Sechskant-Kraft-Stecknuss  lang  19mm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001NYX7RU/?tag=tolees0ca-21'
 descuento: '24.56'
 average: '6.73'

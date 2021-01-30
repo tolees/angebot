@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'iRobot Roomba 615 Saugroboter mit 3-stufigem Reinigungssystem  Dirt Detect  Staubsauger Roboter selbstaufladend mit Ladestation  geeignet für Tierhaare  Teppiche und Hartböden  mit intelligentem Griff'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B016ZIJAV0/?tag=tolees0ca-21'
 descuento: '39.80'
 average: '179.99'

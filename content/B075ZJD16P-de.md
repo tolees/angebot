@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Haier HWD80-B14636 Waschtrockner / A / 1080 kWh/Jahr /1400 UpM / 8 kg Waschen / 5kg Trocken / Endzeitvorwahl / AquaProtect'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075ZJD16P/?tag=tolees0ca-21'
 descuento: '35.53'
 average: '319.66'

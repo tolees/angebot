@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'Hasbro Gaming 04199100 - Tabu XXL Partyspiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000I1TDA4/?tag=tolees0ca-21'
 descuento: '36.18'
 average: '31.17'

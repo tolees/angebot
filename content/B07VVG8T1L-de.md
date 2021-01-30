@@ -16,6 +16,7 @@ comparePrice: 40.2 EUR
 prodname: 'ATOMIC Unisex – Erwachsene Count 360 Goggles  Rot/Pink-Gelb Stereo  One Size'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VVG8T1L/?tag=tolees0ca-21'
 descuento: '21.77'
 average: '31.45'

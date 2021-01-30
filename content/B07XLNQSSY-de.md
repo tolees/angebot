@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Belkin ScreenForce TemperedCurve Displayschutz für iPhone 11 Pro Max  Displayschutzfolie für iPhone 11 Pro Max  auch kompatibel mit iPhone XS Max '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XLNQSSY/?tag=tolees0ca-21'
 descuento: '52.51'
 average: '19.32333333333333'

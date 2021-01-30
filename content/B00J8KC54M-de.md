@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Wenko Herdabdeckplatte Universal Kräutergarten  2er Set Herdabdeckung für alle Herdarten  Gehärtetes Glas  30 x 52 cm  mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00J8KC54M/?tag=tolees0ca-21'
 descuento: '47.62'
 average: '15.71'

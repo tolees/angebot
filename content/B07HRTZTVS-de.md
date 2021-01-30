@@ -16,6 +16,7 @@ comparePrice: 5.66 EUR
 prodname: 'prettygood7 Eingabestift für Nintendo 3DS / N3DS / XL/LL  Kunststoff  Schwarz  2 Stück'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HRTZTVS/?tag=tolees0ca-21'
 descuento: '31.27'
 average: '3.89'

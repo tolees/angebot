@@ -16,6 +16,7 @@ comparePrice: 11.9 EUR
 prodname: 'Filofax Kalendereinlage Personal 1 Woche auf 2 Seiten vertikal  deutsch 2020'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PLBKX7P/?tag=tolees0ca-21'
 descuento: '53.78'
 average: '5.5'

@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 28034 64202 S1 No Actionfigur Mad Max: Fury Road: Furiosa  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0759MJW6F/?tag=tolees0ca-21'
 descuento: '64.33'
 average: '7.575'

@@ -16,6 +16,7 @@ comparePrice: 13.2 EUR
 prodname: 'Nike Pro Patella Band 2.0 Patellaband  Schwarz  L-XL'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00S2AYQLO/?tag=tolees0ca-21'
 descuento: '15.61'
 average: '11.14'

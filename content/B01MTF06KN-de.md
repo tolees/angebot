@@ -16,6 +16,7 @@ comparePrice: 85.99 EUR
 prodname: 'Philips beutelloser Staubsauger PowerPro Compact FC9332/09  sehr niedriger Stromverbrauch bei hoher Leistung  1 5 L Staubvolumen  integriertes Zubehör  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MTF06KN/?tag=tolees0ca-21'
 descuento: '16.28'
 average: '71.99'

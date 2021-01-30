@@ -16,6 +16,7 @@ comparePrice: 111.0 EUR
 prodname: 'AKG K275 Geschlossener leichter Over-Ear-Studiokopfhörer zum Zusammenklappen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06Y5T4Y3Y/?tag=tolees0ca-21'
 descuento: '19.82'
 average: '89.0'

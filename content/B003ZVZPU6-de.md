@@ -16,6 +16,7 @@ comparePrice: 33.88 EUR
 prodname: 'MÜHLE - Klassischer Rasierhobel - geschlossener Kamm - Metall verchromt/feine Ziselierung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003ZVZPU6/?tag=tolees0ca-21'
 descuento: '23.41'
 average: '25.95'

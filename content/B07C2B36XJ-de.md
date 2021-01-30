@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'JACK & JONES Herren Strickpullover V-Ausschnitt LNavy Blazer 2'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07C2B36XJ/?tag=tolees0ca-21'
 descuento: '33.97'
 average: '16.5'

@@ -16,6 +16,7 @@ comparePrice: 114.99 EUR
 prodname: 'De Longhi HCX 3220 FTS Konvektor  Schmales Design  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00MSOK5VA/?tag=tolees0ca-21'
 descuento: '40.66'
 average: '68.23'

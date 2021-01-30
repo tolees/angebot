@@ -16,6 +16,7 @@ comparePrice: 5.19 EUR
 prodname: 'Bref Power Kalk und Schmutz Reiniger  750 ml'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N7JUT7R/?tag=tolees0ca-21'
 descuento: '63.39'
 average: '2.0166666666666666'

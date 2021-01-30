@@ -16,6 +16,7 @@ comparePrice: 13.97 EUR
 prodname: 'Funko POP! Bobble: Avengers Endgame: Nebula  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KPK63Y8/?tag=tolees0ca-21'
 descuento: '37.80'
 average: '8.98'

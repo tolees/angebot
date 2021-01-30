@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Fastskin Erwachsene Speedsocket 2 Goggles  Black/Mirror  One Size'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M65QSJV/?tag=tolees0ca-21'
 descuento: '21.82'
 average: '35.18'

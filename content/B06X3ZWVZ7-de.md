@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'De’Longhi  Dedica EC 685.W Espresso Siebträgermaschine | 15 bar | Professionelle Milchschaum Düse| Füllmenge 1 l | Vollmetallgehäuse | Auch für Pads geeignet | Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06X3ZWVZ7/?tag=tolees0ca-21'
 descuento: '47.83'
 average: '129.9'

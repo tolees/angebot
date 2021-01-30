@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'Smart LED Bulb E27 Glühbirne  TECKIN WLAN Lampen mit 16 Millionen mehreren Farben und warmes Licht 7.5W  ohne Hub  kompatibel mit Alexa und Google Assistant 800 Lumen 4er Pack [Energieklasse A+]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GVJFBN5/?tag=tolees0ca-21'
 descuento: '26.32'
 average: '41.99'

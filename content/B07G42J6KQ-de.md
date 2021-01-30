@@ -16,6 +16,7 @@ comparePrice: 36.05 EUR
 prodname: 'Intel Wireless-AC 9560  M.2 2230  2x2 Ac+Bt  Gigabit  ohne Vpro'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G42J6KQ/?tag=tolees0ca-21'
 descuento: '54.98'
 average: '20.615000000000002'

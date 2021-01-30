@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Beurer BF 600 Diagnosewaage weiß  Messung von Körperfett  Körperwasser  Muskelanteil und Knochenmasse   Kalorienbedarf AMR/BMR  BMI  mit App-Anbindung  zertifizierter Datenschutz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B073CVFRFH/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '39.99'

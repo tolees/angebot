@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Clarks Orinoco Jazz  Damen Reitstiefel  Braun  Tan Wlined Lea   37 EU  4 UK '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B8W5XTZ/?tag=tolees0ca-21'
 descuento: '42.73'
 average: '85.9'

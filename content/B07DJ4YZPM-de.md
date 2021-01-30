@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Eastpak Orbit Mini Rucksack  34 cm  10 L  Grün  Crafty Moss '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DJ4YZPM/?tag=tolees0ca-21'
 descuento: '47.78'
 average: '23.5'

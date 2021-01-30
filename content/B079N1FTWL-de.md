@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Playmobil 9467 Feuerwehr-Löschroboter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079N1FTWL/?tag=tolees0ca-21'
 descuento: '36.45'
 average: '9.753333333333332'

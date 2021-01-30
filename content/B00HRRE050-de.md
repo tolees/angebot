@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Sylvanian Families 5052 Supermarkt-Besitzer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HRRE050/?tag=tolees0ca-21'
 descuento: '34.02'
 average: '13.19'

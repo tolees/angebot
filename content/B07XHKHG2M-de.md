@@ -16,6 +16,7 @@ comparePrice: 139.1 EUR
 prodname: 'Uten Heißluftfritteuse  6.5L Airfryer XXL Frittieren ohne Fett  Aerofryer mit Umluft  Heißluft-Fritteuse Temperatur und Zeit Basierend Auf Dem Essen Einstellen  inkl.Bodeneinsatz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XHKHG2M/?tag=tolees0ca-21'
 descuento: '51.12'
 average: '67.99'

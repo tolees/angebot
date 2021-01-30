@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Kipling Damen CITY PACK S Rucksack  Blau  Active Denim   27x33.5x19 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DKKLJ62/?tag=tolees0ca-21'
 descuento: '47.47'
 average: '49.9'

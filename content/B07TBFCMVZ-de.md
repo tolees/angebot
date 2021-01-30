@@ -16,6 +16,7 @@ comparePrice: 68.99 EUR
 prodname: 'HolyHigh Bluetooth Sport Kopfhörer Bluetooth 5.0 Kabellose Ohrhörer mit Mikrofon Wasserdicht IPX7 6+30H Spielzeit Auto Pairing Siri Aktivierung Stereo Lärmminderung Headsets für iOS  Android'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TBFCMVZ/?tag=tolees0ca-21'
 descuento: '42.04'
 average: '39.99'

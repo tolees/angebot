@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'CAMELBAK Trinkflasche Chute Mag  750 ml  sea glass'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07663TZNT/?tag=tolees0ca-21'
 descuento: '24.85'
 average: '13.52'

@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'VAUDE Damen Escape Bike Light Jacke  Nickel Green  36'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KD9HGWW/?tag=tolees0ca-21'
 descuento: '55.05'
 average: '44.95'

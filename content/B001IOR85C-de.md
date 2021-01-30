@@ -16,6 +16,7 @@ comparePrice: 3.5 EUR
 prodname: 'Städter Ausstechform  Edelstahl  Silber  7.5 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001IOR85C/?tag=tolees0ca-21'
 descuento: '43.14'
 average: '1.99'

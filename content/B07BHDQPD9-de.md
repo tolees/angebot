@@ -16,6 +16,7 @@ comparePrice: 369 EUR
 prodname: 'Huawei P20 lite Smartphone  14.83 cm  5.84 Zoll   64GB interner Speicher  4GB RAM  16 MP Plus 2 MP Kamera  Android 8.0  EMUI 8.0  Dual SIM  Sakura Pink  West European Version '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BHDQPD9/?tag=tolees0ca-21'
 descuento: '26.83'
 average: '269.99'

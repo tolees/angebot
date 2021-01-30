@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Funko 36659 POP Bobble: Avengers Endgame: Hulk Sammelfiguren  Multi  Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KPTNZRN/?tag=tolees0ca-21'
 descuento: '63.84'
 average: '5.75'

@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'PLAYMOBIL Top Agents 70006 Team S.H.A.R.K. Harpoon Craft  Ab 6 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JLRX84S/?tag=tolees0ca-21'
 descuento: '21.82'
 average: '17.857999999999997'

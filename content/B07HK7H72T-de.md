@@ -16,6 +16,7 @@ comparePrice: 749.0 EUR
 prodname: 'Apple Watch Series 4 GPS + Cellular  44mm Edelstahlgehäuse  Gold  mit Stone Sportarmband'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HK7H72T/?tag=tolees0ca-21'
 descuento: '29.59'
 average: '527.35'

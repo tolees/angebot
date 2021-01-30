@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'toptrek Fahrradrucksack 20L Fahrrad Rucksäcke mit Regenschutz und Helmabdeckung Wasserdicht Trinkrucksack Ultraleicht Hydration Rucksack für Herren/Damen Radsport  Camping  Wandern und Laufen  Blau '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VDQ4GX5/?tag=tolees0ca-21'
 descuento: '41.70'
 average: '34.98'

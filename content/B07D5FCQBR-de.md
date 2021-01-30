@@ -16,6 +16,7 @@ comparePrice: 999.0 EUR
 prodname: 'HP ENVY x360 13-ag0005ng  Touchdisplay 13 3 Zoll / Full HD IPS  Convertible Laptop  AMD Ryzen 5 2500U  512 GB SSD  16 GB RAM  AMD Radeon Vega  Windows 10 Home 64  Dark ash silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07D5FCQBR/?tag=tolees0ca-21'
 descuento: '49.95'
 average: '469.0'

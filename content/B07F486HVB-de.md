@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'OSOYOO Electricity Science Experiment Kit for Kids | Parallel Series Circuit Building Learning Project | Energy Problem Solving Set for Students | Stimulate Early STEM Intelligence IQ for Girl Boy'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07F486HVB/?tag=tolees0ca-21'
 descuento: '47.39'
 average: '9.99'

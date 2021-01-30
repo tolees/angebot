@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 's.Oliver BLACK LABEL Damen 01.899.76.5561 Hose  Schwarz  Forever Black 99q2   W Herstellergröße: 34 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SWDG88G/?tag=tolees0ca-21'
 descuento: '46.67'
 average: '47.99'

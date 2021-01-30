@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Timezone Herren Slim ScottTZ Shorts  Blau  Used Bright Blue wash 3348   W30/L34'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GXVB5NX/?tag=tolees0ca-21'
 descuento: '44.42'
 average: '49.99'

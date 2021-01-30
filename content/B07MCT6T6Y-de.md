@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Hasbro Spiele E5804EU4 The Slow Motion Race Game  Partyspiel  mit Langsamkeit zum Sieg  Multicolor'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MCT6T6Y/?tag=tolees0ca-21'
 descuento: '64.68'
 average: '10.7'

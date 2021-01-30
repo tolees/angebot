@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 30730 Marvel: Ant-Man & The Wasp w/Chase POP Bobble  Mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CKFY4V6/?tag=tolees0ca-21'
 descuento: '28.09'
 average: '10.865882352941176'

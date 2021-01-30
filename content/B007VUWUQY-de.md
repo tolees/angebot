@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'ECCO Damen Offroad Sport- & Outdoor Sandalen  Blau  57807medieval/wild Dove   38 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007VUWUQY/?tag=tolees0ca-21'
 descuento: '44.69'
 average: '61.125'

@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Famosa 700012778 - Heidi Quietsch und Badefigur im Thekendisplay  17 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01AIFSY2M/?tag=tolees0ca-21'
 descuento: '50.81'
 average: '8.85'

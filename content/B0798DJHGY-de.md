@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Hasbro FurReal E0418EU4 - Cara  mein kuscheliges Kätzchen interaktives Plüschtier'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0798DJHGY/?tag=tolees0ca-21'
 descuento: '17.15'
 average: '28.99'

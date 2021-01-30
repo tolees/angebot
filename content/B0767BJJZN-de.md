@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Playmobil 9358 - Pirat mit Schatzkiste Spiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0767BJJZN/?tag=tolees0ca-21'
 descuento: '17.54'
 average: '3.29'

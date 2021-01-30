@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Transcend TS32GJF590K JetFlash 32GB Speicherstick USB 2.0 schwarz/rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00K65LZLM/?tag=tolees0ca-21'
 descuento: '76.93'
 average: '4.59'

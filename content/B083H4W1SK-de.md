@@ -16,6 +16,7 @@ comparePrice: 48.73 EUR
 prodname: 'PUMA Essentials Herren Fleece Sweatjacke mit Kapuze Cotton Black L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083H4W1SK/?tag=tolees0ca-21'
 descuento: '30.00'
 average: '34.11'

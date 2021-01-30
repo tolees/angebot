@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Gillette Fusion5 Rasierklingen für Männer  14 Stück'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079X5QNXC/?tag=tolees0ca-21'
 descuento: '32.51'
 average: '26.99'

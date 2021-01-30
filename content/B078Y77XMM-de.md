@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Pro Breeze™ Oszillierender Turmventilator  100 cm Höhe  80 Grad Oszillation  Säulenventilator mit 3 Geschwindigkeitsstufen  45 Watt Ventilator mit Fernbedienung und Timer | Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078Y77XMM/?tag=tolees0ca-21'
 descuento: '48.00'
 average: '51.99'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Carrera FIRST Nintendo Mario Kart™ 2 4 Meter 20063026 Autorennbahn Set ab 3 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PQGP8B7/?tag=tolees0ca-21'
 descuento: '18.84'
 average: '24.34'

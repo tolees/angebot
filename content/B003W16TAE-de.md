@@ -16,6 +16,7 @@ comparePrice: 16.37 EUR
 prodname: 'Tafelmusik'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003W16TAE/?tag=tolees0ca-21'
 descuento: '29.99'
 average: '11.46'

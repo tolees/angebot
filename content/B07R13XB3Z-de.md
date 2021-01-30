@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Badebomben Geschenkset  12 x 86g   STNTUS Badekugeln Luxuriöses Geschenk für Frauen  Freundin  Mutter  Perfektes Valentinsgruß Geburtstags Weihnachts Badeperlen geschenke für Mama  Frau  Freundin'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07R13XB3Z/?tag=tolees0ca-21'
 descuento: '15.01'
 average: '16.69'

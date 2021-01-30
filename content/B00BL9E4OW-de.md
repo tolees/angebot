@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'VAUDE Damen Hose Women s Farley Stretch Capri T-Zip II  Black  44  045770100440'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00BL9E4OW/?tag=tolees0ca-21'
 descuento: '33.42'
 average: '73.972'

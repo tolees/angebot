@@ -16,6 +16,7 @@ comparePrice: 10.45 EUR
 prodname: 'Marvel s Agents of S.H.I.E.L.D. - Die komplette erste Staffel [6 DVDs]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00SU7GZVS/?tag=tolees0ca-21'
 descuento: '23.06'
 average: '8.04'

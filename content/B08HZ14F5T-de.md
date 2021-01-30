@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Bluetooth-Kopfhörer5.0  In-Ear-Bluetooth-Kopfhörer  3D-Rauschunterdrückung  IPX7 wasserdicht  geeignet für Airpods/Airpods Pro/Android'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08HZ14F5T/?tag=tolees0ca-21'
 descuento: '23.54'
 average: '25.99'

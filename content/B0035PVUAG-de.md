@@ -16,6 +16,7 @@ comparePrice: 266.56 EUR
 prodname: 'Bosch Professional Stichsäge GST 150 CE  780 Watt  Schnitttiefe Holz max: 150 mm  ohnne Schlauch  im Koffer '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0035PVUAG/?tag=tolees0ca-21'
 descuento: '52.73'
 average: '125.99'

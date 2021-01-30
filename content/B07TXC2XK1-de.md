@@ -16,6 +16,7 @@ comparePrice: 459.49 EUR
 prodname: 'Laptop 14.1 Zoll TECLAST F7PLUS Ultrabook Intel Celeron N4100  8GB DDR4 256GB SSD  Hintergrundbeleuchtete Tastatur  Groß Berühren Pad  1920 * 1080 IPS  Windows 10- QWERTY'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TXC2XK1/?tag=tolees0ca-21'
 descuento: '15.34'
 average: '389.0'

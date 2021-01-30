@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Ringverkleinerer mit Schmuck-Poliertuch für lose Ringe  12 Stück  3 Größen: 2 mm/3 mm/4 mm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072LDZXFC/?tag=tolees0ca-21'
 descuento: '56.29'
 average: '6.99'

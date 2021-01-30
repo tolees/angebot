@@ -16,6 +16,7 @@ comparePrice: 37.5 EUR
 prodname: 'Thule Baby mit QR Achskupplung  silber  One Size'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00FY2OJTM/?tag=tolees0ca-21'
 descuento: '46.72'
 average: '19.98'

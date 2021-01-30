@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Bushmills Single Malt Irish Whiskey 10 Jahre  1 x 0.7 l '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005D7UK6E/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '23.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'PLAYMOBIL Ghostbusters 9388 Stantz mit Flybike  Ab 6 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0767FCWXY/?tag=tolees0ca-21'
 descuento: '41.22'
 average: '11.865'

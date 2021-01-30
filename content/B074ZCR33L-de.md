@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Hauck Runner Dreirad Jogger Buggy bis 25 kg mit Liegefunktion ab Geburt  große Lufträder für jedes Terrain  höhenverstellbarer Schiebegriff  kompakt zusammenfaltbar  schwarz/neon-gelb'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074ZCR33L/?tag=tolees0ca-21'
 descuento: '38.89'
 average: '109.99'

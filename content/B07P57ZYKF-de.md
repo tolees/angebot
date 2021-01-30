@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'PLAYMOBIL:THE MOVIE 70074 Marla  Del und Pferd mit Flügeln  Ab 5 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P57ZYKF/?tag=tolees0ca-21'
 descuento: '67.08'
 average: '9.011999999999999'

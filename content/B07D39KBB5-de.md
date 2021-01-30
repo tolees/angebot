@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Dell 2YK0F - AC Adapter USB Type-C 65W Includes Power Cable  12 Warranty '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07D39KBB5/?tag=tolees0ca-21'
 descuento: '17.84'
 average: '40.26'

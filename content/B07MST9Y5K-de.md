@@ -16,6 +16,7 @@ comparePrice: 68.99 EUR
 prodname: 'Razer Kraken - Gaming Headset mit Kühlenden Gel-Ohrpolstern für Ambitionierte Gamer  Grün '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MST9Y5K/?tag=tolees0ca-21'
 descuento: '28.98'
 average: '49.0'

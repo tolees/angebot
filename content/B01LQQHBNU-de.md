@@ -16,6 +16,7 @@ comparePrice: 153.0 EUR
 prodname: 'WD My Passport Mobile WDBYFT0040BWT-WESN 4TB  Externe Festplatte  6 4 cm  2 5 Zoll   mit Kennwortschutz  Standard Oberfläche  Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LQQHBNU/?tag=tolees0ca-21'
 descuento: '23.48'
 average: '117.08'

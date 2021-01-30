@@ -16,6 +16,7 @@ comparePrice: 1029.0 EUR
 prodname: 'Neff TTT1906N / T19TT06N0 / Autarkes Kochfeld / Konventionell / 90cm / TwistPad Flat / Zweikreis'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B016IGUBH6/?tag=tolees0ca-21'
 descuento: '65.11'
 average: '359.0'

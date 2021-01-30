@@ -16,6 +16,7 @@ comparePrice: 25.95 EUR
 prodname: 'Tassimo Kapseln Jacobs Krönung XL  80 Kaffeekapseln  5er Pack  5 x 16 Getränke'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0068XIHXA/?tag=tolees0ca-21'
 descuento: '34.76'
 average: '17.17'

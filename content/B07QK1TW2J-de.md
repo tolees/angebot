@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Emporio Armani Herren-Ringe Edelstahl mit Ringgröße 59 EGS2635040-9'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QK1TW2J/?tag=tolees0ca-21'
 descuento: '40.31'
 average: '59.09'

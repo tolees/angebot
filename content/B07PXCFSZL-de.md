@@ -16,6 +16,7 @@ comparePrice: 2.03 EUR
 prodname: 'VGA HDMI Dummy Plug Virtueller Display-Emulator-Adapter DDC Edid-Unterstützung 1920x1080P für Videokarte BTC Mining Miner - Silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PXCFSZL/?tag=tolees0ca-21'
 descuento: '32.02'
 average: '1.38'

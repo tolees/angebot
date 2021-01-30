@@ -16,6 +16,7 @@ comparePrice: 699.0 EUR
 prodname: 'HP 250 G7  15 6 Zoll / FHD  Business Laptop  Intel Core i7-8565U  8GB DDR4 RAM  512GB SSD  Intel UHD Grafik 620  Windows 10 Home  Silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PK72ZMJ/?tag=tolees0ca-21'
 descuento: '29.90'
 average: '490.0'

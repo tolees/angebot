@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Yazubi Jeans Herren Akon Slim - Jeans Hosen für Männer - dunkel Blaue Denim Stretch Hose Jeanshose Regular  Blau  Dark Denim 194118   W29/L30'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TMCQHKR/?tag=tolees0ca-21'
 descuento: '46.69'
 average: '31.96'

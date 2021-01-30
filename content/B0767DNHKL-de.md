@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Playmobil 9334 - Sheriff'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0767DNHKL/?tag=tolees0ca-21'
 descuento: '50.50'
 average: '2.2350000000000003'

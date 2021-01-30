@@ -16,6 +16,7 @@ comparePrice: 35.45 EUR
 prodname: 'Wrebbit 3D W3D-2014 Harry Potter 3D Puzzle  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B016NWRFGA/?tag=tolees0ca-21'
 descuento: '21.04'
 average: '27.99'

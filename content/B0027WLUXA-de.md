@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Boccia Herrenuhr Analog Quarz mit Lederarmband – 3533-03'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0027WLUXA/?tag=tolees0ca-21'
 descuento: '30.35'
 average: '68.95'

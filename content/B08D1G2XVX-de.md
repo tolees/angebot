@@ -16,6 +16,7 @@ comparePrice: 82.84 EUR
 prodname: 'Echo Dot  3. Gen.   Anthrazit Stoff + Amazon Smart Plug  WLAN-Steckdose   Funktionert mit Alexa'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08D1G2XVX/?tag=tolees0ca-21'
 descuento: '23.85'
 average: '63.08'

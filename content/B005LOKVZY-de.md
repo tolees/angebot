@@ -16,6 +16,7 @@ comparePrice: 18.8 EUR
 prodname: 'Jil Sander Eve femme / woman  Eau de Toilette  Vaporisateur / Spray  1er Pack  1 x 30 ml '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005LOKVZY/?tag=tolees0ca-21'
 descuento: '17.61'
 average: '15.49'

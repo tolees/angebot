@@ -16,6 +16,7 @@ comparePrice: 43.86 EUR
 prodname: 'PLAYMOBIL Family Fun 70342 Erlebnis-Streichelzoo  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B082YNPVCR/?tag=tolees0ca-21'
 descuento: '24.78'
 average: '32.99'

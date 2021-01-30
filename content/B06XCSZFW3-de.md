@@ -16,6 +16,7 @@ comparePrice: 20.44 EUR
 prodname: 'Timorn Ersatz Stoßfänger Bumper Triggert LB RB Button für Xbox One Elite Controller mit T8 Schraubendreher  1 Button + 1 T8 Schraubendreher '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XCSZFW3/?tag=tolees0ca-21'
 descuento: '51.13'
 average: '9.99'

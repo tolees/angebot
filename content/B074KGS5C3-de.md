@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Logitech Craft Kabellose Tastatur  Bluetooth & 2.4 GHz Wireless Verbindung  Programmierbarer Drehregler  Automatische Tastenbeleuchtung  Multi-Device  PC/Mac/Laptop  Deutsches QWERTZ-Layout - schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074KGS5C3/?tag=tolees0ca-21'
 descuento: '36.69'
 average: '125.99'

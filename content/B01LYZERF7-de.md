@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Brennenstuhl Comfort-Line Plus  Steckdosenleiste 6-fach  Steckerleiste mit Flachstecker und Schalter  Mehrfachsteckdose mit 2m Kabel und extra breiten Abständen der Steckdosen  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LYZERF7/?tag=tolees0ca-21'
 descuento: '47.27'
 average: '6.85'

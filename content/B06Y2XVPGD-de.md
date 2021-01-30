@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance Herren 574v2 Core Sneaker  Rot  Burgundy   45 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06Y2XVPGD/?tag=tolees0ca-21'
 descuento: '57.52'
 average: '38.23'

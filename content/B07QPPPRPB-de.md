@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Wiko View 3 Lite  Silver bleen  6 09" HD+ Display  13MP+2MP DUAL Kamera  4.000mAh Akku  32GB interner Speicher  2GB RAM  Octa-Core Prozessor '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QPPPRPB/?tag=tolees0ca-21'
 descuento: '19.22'
 average: '105.0'

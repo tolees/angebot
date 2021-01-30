@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego Technic Raupenlader  Kompatibel Mit Lego 42094 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TWRWFF8/?tag=tolees0ca-21'
 descuento: '53.58'
 average: '30.365'

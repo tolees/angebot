@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Citizen Herren Datum klassisch Solar Uhr mit Titan Armband BM7360-82M'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06Y5ZN8SP/?tag=tolees0ca-21'
 descuento: '32.14'
 average: '168.96'

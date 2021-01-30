@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'NIKE Damen Sport-BH Victory Compression  Schwarz  Black/White _010  M'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0036DYURW/?tag=tolees0ca-21'
 descuento: '28.04'
 average: '17.99'

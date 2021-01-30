@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'DERMATEST: SEHR GUT - TRUE NATURE® [1000 Stück] Zero Waste Bambus Wattestäbchen - Q Tips ohne Plastik - Cotton Buds - 100% biologisch abbaubar +Ebook'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NRJJC6D/?tag=tolees0ca-21'
 descuento: '33.36'
 average: '9.99'

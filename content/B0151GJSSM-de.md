@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Trust GXT 540 kabelgebundenes Gamepad'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0151GJSSM/?tag=tolees0ca-21'
 descuento: '23.97'
 average: '19.0'

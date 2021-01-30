@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Tryone Tablet Ständer  verstellbare Tablet Halterung - Tablet Stand Handy Ständer auf Tisch für iPad 10.5  9.7  Air Mini 2 3 4  E-Reader  Switch und weiteres Geräte von 4 bis 10.6 Zoll'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B089N3KR3W/?tag=tolees0ca-21'
 descuento: '50.01'
 average: '19.99'

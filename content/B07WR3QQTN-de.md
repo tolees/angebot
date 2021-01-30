@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Bluetooth Kopfhörer  Kopfhörer Kabellos In Ear Ohrhörer Sport Wireless Kopfhörer Bluetooth 5.0 Headset 6D Stereo Kabellose Kopfhörer mit 120H Standby-Zeit  IPX7 Wasserdicht  LED-Anzeige  Touch Control'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WR3QQTN/?tag=tolees0ca-21'
 descuento: '80.78'
 average: '26.59'

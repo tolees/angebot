@@ -16,6 +16,7 @@ comparePrice: 8.62 EUR
 prodname: 'Waterman S0110720 Füllfederhaltertinte im 50 ml Tintenfass serenity blue'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000J3X9VU/?tag=tolees0ca-21'
 descuento: '42.81'
 average: '4.93'

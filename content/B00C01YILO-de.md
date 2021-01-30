@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'alfi 5337.641.050 Isolier-Trinkflasche isoBottle II  Edelstahl Pferde Rosa 0 5 Liter  12 Stunden heiß  24 Stunden kalt  BPA-Free'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00C01YILO/?tag=tolees0ca-21'
 descuento: '46.37'
 average: '14.99'

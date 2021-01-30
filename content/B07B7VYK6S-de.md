@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Dickie Toys Fire Rescue Unit  Feuerwehrauto  Spielzeugauto  Feuerwehr  bewegliche und ausfahrbare Leiter  Licht & Sound  inkl. Batterien  30 cm groß  ab 3 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B7VYK6S/?tag=tolees0ca-21'
 descuento: '58.84'
 average: '8.64'

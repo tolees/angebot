@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'NOCO Boost Sport GB20 400 Ampere 12 Volt UltraSafe tragbares Lithium-Autobatterie-Starthilfe-Pack für bis zu 4-Liter Benzinmotoren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B015TKPT1A/?tag=tolees0ca-21'
 descuento: '39.98'
 average: '53.99'

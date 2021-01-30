@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Nike Jungen Revolution 4  PSV  Laufschuhe  Schwarz  Black/White-Anthracite 006   28 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XRMBHKD/?tag=tolees0ca-21'
 descuento: '43.14'
 average: '19.9'

@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Philips BRL175/00 Elektrischer Nass-und Trockenrasierer für Damen SatinShave Prestige inkl. Pediküreaufsatz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NSC26JF/?tag=tolees0ca-21'
 descuento: '21.54'
 average: '50.99'

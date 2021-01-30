@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'POP Television: Bob Ross'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071X7HZBN/?tag=tolees0ca-21'
 descuento: '30.02'
 average: '9.79'

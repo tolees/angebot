@@ -16,6 +16,7 @@ comparePrice: 289.0 EUR
 prodname: 'Ankermann Business Work Silent leise PC PC Intel CPU 2X 2.70 Ghz dual Core HD Graphic 8GB RAM 240GB SSD Windows 10 PRO Office Professional'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07L72YFLS/?tag=tolees0ca-21'
 descuento: '31.14'
 average: '199.0'

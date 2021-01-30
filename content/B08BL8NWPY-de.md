@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Bluetooth Kopfhörer Kabellose Kopfhörer mit Premium Klangprofil Noise Cancelling  kabellos Ohrhörer mit Wireless Ladekoffer  IPX5 Wasserschutzklasse für iPhone Android in-Ear Kopfhörer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08BL8NWPY/?tag=tolees0ca-21'
 descuento: '56.74'
 average: '30.293333333333333'

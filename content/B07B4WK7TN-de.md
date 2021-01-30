@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'ORICO - Aluminio 3.5 Pulgadas 4 Bahías Gabinete Disco Duro Externo - Libre de Herramientas para USB 3.0 a SATA HDD/SSD Con Ventilador - Soporte 4X 8TB - LED Indicador - Plata'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B4WK7TN/?tag=tolees0ca-21'
 descuento: '28.59'
 average: '9.99'

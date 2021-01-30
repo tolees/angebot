@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Schwiizer Schüümli Gastronom Ganze Kaffeebohnen  1kg  Stärkegrad 2/5  Premium Arabica  1er Pack x 1kg'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B017BXBTLW/?tag=tolees0ca-21'
 descuento: '20.73'
 average: '11.578'

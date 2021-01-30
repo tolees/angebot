@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Deuter Rain Cover I Regenhülle  20-35 L '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003WUOVDC/?tag=tolees0ca-21'
 descuento: '45.01'
 average: '9.32'

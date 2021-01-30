@@ -16,6 +16,7 @@ comparePrice: 84 EUR
 prodname: 'Fujifilm instax Mini 9 Kamera  kobalt-blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06Y69MRGS/?tag=tolees0ca-21'
 descuento: '25.12'
 average: '58.266666666666666'

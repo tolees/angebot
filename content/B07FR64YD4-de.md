@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Bosch Akkuschrauber PushDrive  3 6 Volt  32 Bits  Aufbewahrungsbox '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FR64YD4/?tag=tolees0ca-21'
 descuento: '29.99'
 average: '49.0'

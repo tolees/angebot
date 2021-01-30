@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Puma Damen Straight Leg Hose  black  XL  512809 01'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00S2FZK3M/?tag=tolees0ca-21'
 descuento: '74.45'
 average: '12.76'

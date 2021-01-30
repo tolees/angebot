@@ -16,6 +16,7 @@ comparePrice: 4.18 EUR
 prodname: 'Bosch Betonbohrer SDS-Quick  Ø 6 mm '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002C0E5YI/?tag=tolees0ca-21'
 descuento: '46.65'
 average: '2.23'

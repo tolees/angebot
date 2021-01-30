@@ -16,6 +16,7 @@ comparePrice: 180.24 EUR
 prodname: 'Tommy Hilfiger Damen Multi Dial Quartz Uhr Jenna'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KTQFQ8G/?tag=tolees0ca-21'
 descuento: '43.81'
 average: '101.27'

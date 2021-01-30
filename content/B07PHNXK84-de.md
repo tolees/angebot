@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'SAMSONITE Checkmate - Laptop Backpack - Double Pocket Rucksack  44 cm  22.5 Liter  Black'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PHNXK84/?tag=tolees0ca-21'
 descuento: '51.40'
 average: '121.02'

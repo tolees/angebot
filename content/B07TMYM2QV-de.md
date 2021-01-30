@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Fintie Hülle kompatibel für Kindle Paperwhite  10. Generation - 2018 / alle Generationen  - Kickstand Schutzhülle mit Kartenfach Handschlaufe und Auto Sleep/Wake Funktion  die Bibliothek'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TMYM2QV/?tag=tolees0ca-21'
 descuento: '26.68'
 average: '21.99'

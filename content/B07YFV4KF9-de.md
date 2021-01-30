@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Ztotops Tasche Kompatibel für Nintendo Switch Lite  mit Stauraum für 8 Spiele  Aufbewahrungs Tasche/Hülle/Schutzhülle auf die Reise für Nintendo Switch Lite Konsole & Accesoires -Blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YFV4KF9/?tag=tolees0ca-21'
 descuento: '15.40'
 average: '11.99'

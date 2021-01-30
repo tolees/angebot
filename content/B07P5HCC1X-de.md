@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Playmobil 70165 1.2.3. Baukran  ab 18 Monaten  bunt  one Size'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P5HCC1X/?tag=tolees0ca-21'
 descuento: '21.07'
 average: '11.923333333333334'

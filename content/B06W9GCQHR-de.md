@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Schleich 42389 - Reitschule mit Reiterinnen und Pferden'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06W9GCQHR/?tag=tolees0ca-21'
 descuento: '48.86'
 average: '37.85'

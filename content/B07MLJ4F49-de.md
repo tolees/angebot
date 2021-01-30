@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Lenovo Smart Tab M10 mit Amazon Alexa 25 5 cm  10 1 Zoll  1920x1200  FHD  IPS  Touch  Tablet-PC  Octa-Core  2 GB RAM  16 GB eMCP  Wi-Fi  Android 8  schwarz mit Smart Dock'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MLJ4F49/?tag=tolees0ca-21'
 descuento: '30.15'
 average: '160.73749999999998'

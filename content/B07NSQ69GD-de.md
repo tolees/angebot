@@ -16,6 +16,7 @@ comparePrice: 16.42 EUR
 prodname: 'Funko 39333 POP Vinyl: Ghostbusters: Slimer w/Hot Dogs Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NSQ69GD/?tag=tolees0ca-21'
 descuento: '28.81'
 average: '11.532'

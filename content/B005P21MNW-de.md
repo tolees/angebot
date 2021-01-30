@@ -16,6 +16,7 @@ comparePrice: 9.7 EUR
 prodname: 'SKROSS Country Adapter World to Europe: Reiseadapter für Reisen in Länder  die den Schuko-Standard verwenden'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005P21MNW/?tag=tolees0ca-21'
 descuento: '34.85'
 average: '6.32'

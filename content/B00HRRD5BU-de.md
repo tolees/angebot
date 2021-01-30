@@ -16,6 +16,7 @@ comparePrice: 18.43 EUR
 prodname: 'Sylvanian Families 5092 Baden mit Mutter und Baby  Mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HRRD5BU/?tag=tolees0ca-21'
 descuento: '18.67'
 average: '16.56'

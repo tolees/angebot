@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'PUMA RS-0 Core Sneaker Herren schwarz/gelb  9 UK - 43 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TTPNC77/?tag=tolees0ca-21'
 descuento: '60.03'
 average: '39.95'

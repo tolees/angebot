@@ -16,6 +16,7 @@ comparePrice: 479.0 EUR
 prodname: 'Yamaha R-N402D Black MusicCast Netzwerk Receiver mit DAB schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01KHHC3K0/?tag=tolees0ca-21'
 descuento: '21.85'
 average: '372.50666666666666'

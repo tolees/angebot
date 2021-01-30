@@ -16,6 +16,7 @@ comparePrice: 395.0 EUR
 prodname: 'Xiaomi Mi Smart TV 4S 43 Zoll  4K Ultra HD  Triple Tuner  Android TV 9.0  Fernbedienung mit Mikrofon  Amazon Prime Video und Netflix '
 country: 'de'
 flag: '🇩🇪'
+brand: 'Xiaomi'
 buyurl: 'https://www.amazon.de/dp/B07X5CWWQN/?tag=tolees0ca-21'
 descuento: '16.71'
 average: '297.67448275862'
@@ -27,15 +28,15 @@ Sie können [Xiaomi Mi Smart TV 4S 43 Zoll  4K Ultra HD  Triple Tuner  Android T
 
 ℹ️:
 
-- 2GB Arbeitsspeicher für schnelles Umschalten und flüssige Darstellung / interner Speicher 8 GB
-- HbbTV 2.0, Streaming Dienste: Prime Video, Netflix, YouTube, uvm.
-- Digitaler Empfang: HD Triple Tuner für DVB-S2, DVB-C und DVB-T2 mit HEVC
-- Bluetooth Fernbedienung mit Mikrofon, Prime Video und Netflix Taste
-- Typ: 4K UHD TV - 43 Zoll (108cm), Flat, LED Fernseher, Rahmen: Aluminium Design
 - Größe mit Standfüße (BxTxH): 960 x 208 x 608mm, Größe ohne Standfüße (BxTxH): 960 x 81 x 557mm
+- Typ: 4K UHD TV - 43 Zoll (108cm), Flat, LED Fernseher, Rahmen: Aluminium Design
+- Digitaler Empfang: HD Triple Tuner für DVB-S2, DVB-C und DVB-T2 mit HEVC
 - Android TV 9. 0 mit Google Assistent und Zugriff auf den Google Playstore
-- Auflösung: 3. 840 x 2. 160 Pixel (4K/Ultra HD) - HDR und MEMC Unterstützung
+- Bluetooth Fernbedienung mit Mikrofon, Prime Video und Netflix Taste
+- HbbTV 2.0, Streaming Dienste: Prime Video, Netflix, YouTube, uvm.
 - 3x HDMI 2.0, 3x USB 2.0, AV Input, Ethernet LAN (RJ45), WLAN, Optischer Audioausgang, Kopfhörerausgang, CI+ Slot
+- 2GB Arbeitsspeicher für schnelles Umschalten und flüssige Darstellung / interner Speicher 8 GB
 - Garantie und Service für Deutschland, Österreich und Schweiz
+- Auflösung: 3. 840 x 2. 160 Pixel (4K/Ultra HD) - HDR und MEMC Unterstützung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07X5CWWQN/?tag=tolees0ca-21)

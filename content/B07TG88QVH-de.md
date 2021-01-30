@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'LIGHTAILING Licht-Set Für  Architecture Shanghai  Modell - LED Licht-Set Kompatibel Mit Lego 21039 Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TG88QVH/?tag=tolees0ca-21'
 descuento: '66.26'
 average: '26.99'

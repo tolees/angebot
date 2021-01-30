@@ -16,6 +16,7 @@ comparePrice: 8.76 EUR
 prodname: 'We Get Requests  Verve Originals Serie '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000AXZCUU/?tag=tolees0ca-21'
 descuento: '51.03'
 average: '4.29'

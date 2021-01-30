@@ -16,6 +16,7 @@ comparePrice: 122.0 EUR
 prodname: 'Kunzer 7SS172 Steckschlüsselsatz 1/4" - 3/8" - 1/2"  172-teilig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B018DRK2BS/?tag=tolees0ca-21'
 descuento: '18.77'
 average: '99.1'

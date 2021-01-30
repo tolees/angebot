@@ -16,6 +16,7 @@ comparePrice: 82.99 EUR
 prodname: 'Krups GVX242 Kaffeemühle Mahlwerk'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000IWHXH8/?tag=tolees0ca-21'
 descuento: '66.88'
 average: '27.49'

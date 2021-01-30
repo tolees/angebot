@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'VITIKE Kinder Schuhe Jungen Schuhe Mädchen Sneaker Damen Sportschuhe Outdoor Schuhe Jungen Turnschuhe Laufschuhe Schnürer Freizeit Sportschuhe Kinder Sneaker  8-grün  36 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07J9WTFG6/?tag=tolees0ca-21'
 descuento: '30.01'
 average: '27.99'

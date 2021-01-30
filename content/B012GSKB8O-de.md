@@ -16,6 +16,7 @@ comparePrice: 31.95 EUR
 prodname: 'Buff Erwachsene Mütze Merino Thermal  Solid Black  one size'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B012GSKB8O/?tag=tolees0ca-21'
 descuento: '43.76'
 average: '17.97'

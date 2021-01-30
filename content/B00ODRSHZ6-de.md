@@ -16,6 +16,7 @@ comparePrice: 96.67 EUR
 prodname: 'Jabra Evolve 40 UC Stereo-Kabel-Headset mit USB und 3 5 mm-Klinke für Unified Communications an PC/Laptop/Smartphone/Tablet  Busylight'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00ODRSHZ6/?tag=tolees0ca-21'
 descuento: '15.29'
 average: '81.89'

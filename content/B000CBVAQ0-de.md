@@ -16,6 +16,7 @@ comparePrice: 31.53 EUR
 prodname: 'Toppik Haarfasern für mehr Fülle/Volumen  Dunkelbraun  27.5 g'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000CBVAQ0/?tag=tolees0ca-21'
 descuento: '27.37'
 average: '22.9'

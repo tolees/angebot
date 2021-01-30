@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Playmobil 9490 Spielzeug-Meteoroiden-Zerstörer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079N49GTH/?tag=tolees0ca-21'
 descuento: '43.93'
 average: '15.286666666666667'

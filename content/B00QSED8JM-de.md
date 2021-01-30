@@ -16,6 +16,7 @@ comparePrice: 8.18 EUR
 prodname: 'Tuxedo'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00QSED8JM/?tag=tolees0ca-21'
 descuento: '29.95'
 average: '5.73'

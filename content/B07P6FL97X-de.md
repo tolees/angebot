@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'PLAYMOBIL:THE MOVIE 70077 Marla im Märchenschloss  Ab 5 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P6FL97X/?tag=tolees0ca-21'
 descuento: '34.87'
 average: '16.434400000000004'

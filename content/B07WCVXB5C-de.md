@@ -16,6 +16,7 @@ comparePrice: 629 EUR
 prodname: 'Samsung RU7099 125 cm  50 Zoll  LED Fernseher  Ultra HD  HDR  Triple Tuner  Smart TV   [Modelljahr 2019]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WCVXB5C/?tag=tolees0ca-21'
 descuento: '36.57'
 average: '399'

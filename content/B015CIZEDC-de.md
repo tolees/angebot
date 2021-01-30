@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Intenso Powerbank S10000 Slim externes Ladegerät  10000mAh  geeignet für Smartphone/Tablet PC/MP3 Player/Digitalkamera  weiß  Art.-Nr. 7332532 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B015CIZEDC/?tag=tolees0ca-21'
 descuento: '33.29'
 average: '10.0'

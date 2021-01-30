@@ -16,6 +16,7 @@ comparePrice: 62.95 EUR
 prodname: 'Carrera 20062428 GO'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XKHT5VM/?tag=tolees0ca-21'
 descuento: '20.51'
 average: '53.714999999999996'

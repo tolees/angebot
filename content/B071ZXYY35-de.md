@@ -16,6 +16,7 @@ comparePrice: 59.97 EUR
 prodname: 'Granrosi Vorratsbehälter Set - Kartoffeltopf  Zwiebeltopf und Knoblauchtopf im Vintage Design für eine stilvolle Aufbewahrung und Lange Haltbarkeit'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071ZXYY35/?tag=tolees0ca-21'
 descuento: '33.35'
 average: '39.97'

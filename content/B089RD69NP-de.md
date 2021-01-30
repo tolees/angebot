@@ -16,6 +16,7 @@ comparePrice: 47.94 EUR
 prodname: 'PUMA Sneakersocken 18 Paar Pack Statement Edition - Damen und Herren - Black-White-Anthracite - Gr. 39-42'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B089RD69NP/?tag=tolees0ca-21'
 descuento: '50.48'
 average: '23.74'

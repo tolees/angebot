@@ -16,6 +16,7 @@ comparePrice: 999.0 EUR
 prodname: 'Acer Switch 5  SW512-52-5819  30 48 cm  12 Zoll QHD Multi-Touch IPS  2-in-1 Laptop  Intel Core i5-7200U  8GB RAM  256GB PCIe SSD  Intel HD  Win 10 Home  anthrazit'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072PRPGR8/?tag=tolees0ca-21'
 descuento: '54.95'
 average: '450.0'

@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'The First Avenger: Civil War'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01ERM5RKE/?tag=tolees0ca-21'
 descuento: '35.62'
 average: '8.293333333333333'

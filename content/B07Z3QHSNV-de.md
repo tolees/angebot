@@ -16,6 +16,7 @@ comparePrice: 24.0 EUR
 prodname: 'EUGAD 0215QJ Wandregal Wandboard Bücherregal CD DVD Regal aus MDF Holz DIY 100 Lange Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Z3QHSNV/?tag=tolees0ca-21'
 descuento: '21.25'
 average: '18.9'

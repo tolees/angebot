@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Käfer Caffè Crema  ganze Bohne  Aroma-Softpack  1.000 g  1er Pack  1 x 1 kg '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005BNZRYA/?tag=tolees0ca-21'
 descuento: '33.36'
 average: '7.99'

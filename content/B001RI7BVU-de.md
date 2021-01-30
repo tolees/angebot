@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Enders Camping Gasgrill EXPLORER NEXT  Grillen-  Kochen- und Backen Funktion  2 Brenner Edelstahl  kleiner Grill  Balkon-Picknick-Camping-Grill mit Aluguss-Grillwanne #2103'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001RI7BVU/?tag=tolees0ca-21'
 descuento: '26.85'
 average: '109.0'

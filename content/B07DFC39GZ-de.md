@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Funko 34052 Kingdom Hearts 3: Sora POP Vinylfigur  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFC39GZ/?tag=tolees0ca-21'
 descuento: '56.67'
 average: '6.89'

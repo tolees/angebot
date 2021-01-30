@@ -16,6 +16,7 @@ comparePrice: 29.0 EUR
 prodname: 'Daniel Wellington Classic Glasgow  Blau-weiß/Roségold Uhrenarmband  18mm  NATO  für Damen und Herren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00BKQTB8K/?tag=tolees0ca-21'
 descuento: '57.48'
 average: '12.33'

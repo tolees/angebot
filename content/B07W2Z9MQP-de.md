@@ -16,6 +16,7 @@ comparePrice: 329.99 EUR
 prodname: 'Garmin vívoactive 4 – wasserdichte GPS-Fitness-Smartwatch mit Trainingsplänen & animierten Übungen. Herzfrequenzmessung  20 Sport-Apps  8 Tage Akkulaufzeit  kontaktloses Bezahlen  Musikplayer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W2Z9MQP/?tag=tolees0ca-21'
 descuento: '15.45'
 average: '279.0'

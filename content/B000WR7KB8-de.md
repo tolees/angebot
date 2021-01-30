@@ -16,6 +16,7 @@ comparePrice: 269.0 EUR
 prodname: 'Villeroy & Boch Piemont Tafelbesteck für bis zu 6 Personen  30-teilig  Edelstahl'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000WR7KB8/?tag=tolees0ca-21'
 descuento: '68.42'
 average: '84.95'

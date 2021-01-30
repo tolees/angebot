@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Levi s Damen 310 Shaping Super Skinny Jeans  Schwarz  Black Galaxy 0003   W28/L30'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076X48LXJ/?tag=tolees0ca-21'
 descuento: '50.01'
 average: '47.49'

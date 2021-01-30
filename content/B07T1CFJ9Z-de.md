@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'FISCHER Twin Fahrrad-Rücklicht mit 360° Bodenleuchte für mehr Sichtbarkeit und Schutz  aufladbarer Akku'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07T1CFJ9Z/?tag=tolees0ca-21'
 descuento: '30.64'
 average: '9.01'

@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'PUMA Herren Tazon 6 FM Laufschuhe  Weiß White Black Silver  42.5 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01H4CWCUC/?tag=tolees0ca-21'
 descuento: '16.67'
 average: '34.99'

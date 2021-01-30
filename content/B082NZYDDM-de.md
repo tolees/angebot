@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Cudy AX3000 WiFi 6 PCIe Karte für PC  Bluetooth 5.0 PCIe Karte  Intel AX200  2402+574 Mbit/s WiFi 6-Geschwindigkeit  802.11ax/ac/a/b/g/n  Bluetooth 5.0/4.2/4.0  nur Windows 10  64-bit  System'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B082NZYDDM/?tag=tolees0ca-21'
 descuento: '16.72'
 average: '24.9'

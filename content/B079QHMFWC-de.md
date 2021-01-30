@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Fire TV Stick 4K Ultra HD mit Alexa-Sprachfernbedienung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079QHMFWC/?tag=tolees0ca-21'
 descuento: '41.67'
 average: '32.49'

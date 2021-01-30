@@ -16,6 +16,7 @@ comparePrice: 79 EUR
 prodname: 'Swarovski Attract runden Ring  Weiß  rhodiniert  Gr. 52'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078XN6KQC/?tag=tolees0ca-21'
 descuento: '39.24'
 average: '48'

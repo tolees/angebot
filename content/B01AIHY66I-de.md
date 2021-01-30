@@ -16,6 +16,7 @@ comparePrice: 189.01 EUR
 prodname: 'UGG Damen Classic Short II 1016223-BLK Schneestiefel  Schwarz  38 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01AIHY66I/?tag=tolees0ca-21'
 descuento: '41.80'
 average: '110.0'

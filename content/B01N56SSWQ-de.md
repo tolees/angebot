@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Pioneer SE-MS7BT S  Bluetooth Over-Ear Kopfhörer  Mikrofon  High-Res Audio  NFC  12 Stunden Wiedergabe  hoher Tragekomfort  für Smartphone  Tablet  Hifi Anlage  Aluminium Design   Silber-Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N56SSWQ/?tag=tolees0ca-21'
 descuento: '30.38'
 average: '55.0'

@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Brilliant Spari Deckenfluter mit separat schaltbarem Lesearm  1 8m in schwarz/weiß  geeignet für Leuchtmittel bis max. 60 Watt Hauptlicht und 25 Watt Lesearm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004LZSP6Q/?tag=tolees0ca-21'
 descuento: '49.07'
 average: '18.33'

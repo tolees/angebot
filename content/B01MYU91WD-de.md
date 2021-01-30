@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Puma Basket Heart Patent Wn s  Damen Sneakers  Weiß  Puma White-Puma White   36 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MYU91WD/?tag=tolees0ca-21'
 descuento: '67.77'
 average: '28.99'

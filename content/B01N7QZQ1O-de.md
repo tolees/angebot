@@ -16,6 +16,7 @@ comparePrice: 320.5 EUR
 prodname: 'Dell Business Thunderbolt Dock TB16 mit 240-W-Adapter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N7QZQ1O/?tag=tolees0ca-21'
 descuento: '32.92'
 average: '215.0'

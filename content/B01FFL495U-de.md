@@ -16,6 +16,7 @@ comparePrice: 27.95 EUR
 prodname: 'Under Armour Herren HeatGear Armour 2.0 COMP Shorts halblange Kompressionshose  kurze Hose für Männer mit Kompressionspassform  Schwarz  L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01FFL495U/?tag=tolees0ca-21'
 descuento: '47.73'
 average: '14.61'

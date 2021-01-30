@@ -16,6 +16,7 @@ comparePrice: 131.99 EUR
 prodname: 'Makita Akku-Heckenschere  52 cm  18 V  ohne Akku  ohne Ladegerät  DUH523Z'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00I8N1ABY/?tag=tolees0ca-21'
 descuento: '59.10'
 average: '53.99'

@@ -16,6 +16,7 @@ comparePrice: 270.0 EUR
 prodname: 'Sony SF-G128T SD-Speicherkarte  128 GB  UHS-II  SD Tough  G Serie '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07H9GDFRW/?tag=tolees0ca-21'
 descuento: '25.93'
 average: '199.57800000000003'

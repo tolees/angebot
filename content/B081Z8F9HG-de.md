@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Bluetooth Kopfhörer In-Ear M3 TWS True Wireless Minikopfhörer Bluetooth 5.0 On Echte Kabellose Ohrhörer mit integriertem Mikrofon und Ladebox Bass Headsets für Handy/Sport/Laufen/Android/IOS'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B081Z8F9HG/?tag=tolees0ca-21'
 descuento: '62.99'
 average: '17.978571428571428'

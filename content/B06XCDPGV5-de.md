@@ -16,6 +16,7 @@ comparePrice: 595.0 EUR
 prodname: 'Westfalia bikelander Premium Fahrradträger für Anhängerkupplung - LED-Hybrid-Leuchten - Zusammenklappbarer Kupplungsträger für 2 Fahrräder - E-Bike geeignet - Bis zu 60 kg Zuladung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XCDPGV5/?tag=tolees0ca-21'
 descuento: '20.06'
 average: '475.63'

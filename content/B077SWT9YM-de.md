@@ -16,6 +16,7 @@ comparePrice: 17.0 EUR
 prodname: 'Nike Metal Swoosh H86 Cap  weiß  One Size'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077SWT9YM/?tag=tolees0ca-21'
 descuento: '32.41'
 average: '11.49'

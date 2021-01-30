@@ -16,6 +16,7 @@ comparePrice: 12.55 EUR
 prodname: 'Bosch Professional 7tlg. Betonbohrer Set CYL-3  für Beton  Ø 4-10 mm  Zubehör Schlagbohrmaschine '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B008HRFFJE/?tag=tolees0ca-21'
 descuento: '32.03'
 average: '8.53'

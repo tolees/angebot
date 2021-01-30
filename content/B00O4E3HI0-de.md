@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Playmobil 6153 - Strand-Shooting'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00O4E3HI0/?tag=tolees0ca-21'
 descuento: '38.94'
 average: '6.1'

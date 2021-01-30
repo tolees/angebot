@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Samsung Alcantara Hülle  EF-XN950 für Galaxy Note8 schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0743JJHMB/?tag=tolees0ca-21'
 descuento: '22.23'
 average: '13.99'

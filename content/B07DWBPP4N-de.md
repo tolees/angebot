@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Garmin vívoactive 3 Music Granitblau GPS-Fitness-Smartwatch – Musikplayer  Garmin Pay  Sport-Apps'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DWBPP4N/?tag=tolees0ca-21'
 descuento: '37.68'
 average: '186.95'

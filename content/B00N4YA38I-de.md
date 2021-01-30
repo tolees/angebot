@@ -16,6 +16,7 @@ comparePrice: 24.64 EUR
 prodname: 'Technoline Miss Ticki Wecker  Bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00N4YA38I/?tag=tolees0ca-21'
 descuento: '21.02'
 average: '19.46'

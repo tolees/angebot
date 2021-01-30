@@ -16,6 +16,7 @@ comparePrice: 219.9 EUR
 prodname: 'Viewsonic VX3276-MHD-2 80 cm  32 Zoll  Design Monitor  Full-HD  IPS-Panel  HDMI  DP  Eye-Care  Eco-Mode  Lautsprecher  silber-schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0787WGCXT/?tag=tolees0ca-21'
 descuento: '24.99'
 average: '164.95'

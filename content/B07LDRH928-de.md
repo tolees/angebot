@@ -16,6 +16,7 @@ comparePrice: 609.0 EUR
 prodname: 'Ankermann Business Office Work PC Intel Core i5 4X 3.1 GHz Graphic DVI-HDMI-VGA 16GB RAM 480GB SSD 500GB HDD Windows 10 PRO W-LAN Office Professional'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07LDRH928/?tag=tolees0ca-21'
 descuento: '39.41'
 average: '369.0'

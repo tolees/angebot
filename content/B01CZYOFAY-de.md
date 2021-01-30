@@ -16,6 +16,7 @@ comparePrice: 134.99 EUR
 prodname: 'Hasbro Nerf B8086EU4 - N-Strike Elite Mega Mastodon  Spielzeugblaster'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01CZYOFAY/?tag=tolees0ca-21'
 descuento: '45.48'
 average: '75.05499999999999'

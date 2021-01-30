@@ -16,6 +16,7 @@ comparePrice: 85.52 EUR
 prodname: 'Napapijri Herren Aric Jacke  Blau  BLU Marine 176    Herstellergröße:XL '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MCSPMZ7/?tag=tolees0ca-21'
 descuento: '19.35'
 average: '68.97'

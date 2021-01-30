@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'ONLY Damen Skinny Fit Jeans ONLBlush Mid Ankle XS30White'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078WY5ZC3/?tag=tolees0ca-21'
 descuento: '50.09'
 average: '27.884'

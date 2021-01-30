@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Philips HU4801/01 Luftbefeuchter  bis zu 25m²  hygienische NanoCloud-Technologie  leiser Nachtmodus  für Kinder und Babies geeignet  weiß  hellgrün'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00N3X06CS/?tag=tolees0ca-21'
 descuento: '25.00'
 average: '70.99'

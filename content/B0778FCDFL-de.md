@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Hasbro Gaming E2489100 - Ach du Kacke Kinderspiel  Green'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0778FCDFL/?tag=tolees0ca-21'
 descuento: '22.08'
 average: '23.146'

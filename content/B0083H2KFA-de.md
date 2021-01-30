@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Odys Seal 9 tragbarer DVD-Player  mit zusätzlichem  drehbarem Bildschirm  23 cm  9 Zoll   hochauflösendes digitales TFT-Display  800x480 Pixel   USB  SD-Card   Autopaket  Fernbedienung  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0083H2KFA/?tag=tolees0ca-21'
 descuento: '34.58'
 average: '97.47'

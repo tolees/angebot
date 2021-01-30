@@ -16,6 +16,7 @@ comparePrice: 259.98 EUR
 prodname: 'DXX Technik Bausteine Auto G500 AWD Wagon Racing Auto  1662Teile 1:10 2.4G Geländewagen Bausteine Konstruktionsspielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083XNNZVG/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '112.45875'

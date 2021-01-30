@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Playmobil 70184 1.2.3 LKW mit Sortiergarage  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JMCBCDQ/?tag=tolees0ca-21'
 descuento: '29.69'
 average: '17.4875'

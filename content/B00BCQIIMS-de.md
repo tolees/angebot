@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Philips DryCare Advanced Haartrockner mit ThermoProtect Technologie HP8230/00  2100 W  DC-Motor und 1 Aufsatz  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00BCQIIMS/?tag=tolees0ca-21'
 descuento: '42.54'
 average: '14.36'

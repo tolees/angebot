@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'Alpina Mädchen XIMO Flash Fahrradhelm  Mint Unicorn  49-54 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GZM1MGL/?tag=tolees0ca-21'
 descuento: '23.00'
 average: '34.61'

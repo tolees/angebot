@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Sennheiser HD 4.30i Headset  geschlossenes  ohrumschließendes  geeignet für Apple iOS  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01K4N1PY2/?tag=tolees0ca-21'
 descuento: '53.64'
 average: '45.9'

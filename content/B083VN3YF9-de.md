@@ -16,6 +16,7 @@ comparePrice: 98.76 EUR
 prodname: 'Crucial Ballistix BL2K8G32C16U4WL RGB  3200 MHz  DDR4  DRAM  Desktop Gaming Speicher Kit  16GB  8GBx2   CL16  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083VN3YF9/?tag=tolees0ca-21'
 descuento: '19.01'
 average: '79.99'

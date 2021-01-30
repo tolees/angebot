@@ -16,6 +16,7 @@ comparePrice: 78.99 EUR
 prodname: 'Tacklife Akkuschrauber set mit 2 Akkus  12V 2 Gang Getriebe  Schrauben-Ø: 10 mm Max. Drehmoment: 27 Nm  19+1 Drehmomentstufen  1Uhr Schnellladegerät   inkl. Profi-Koffer PCD03B'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075R91VYB/?tag=tolees0ca-21'
 descuento: '15.19'
 average: '65.49'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Vgo 3 Paare Arbeitshandschuhe  aus Spandex und Sythetikleder  Kunstleder mit extra Innenschaumschichtpalmen  Lager  Handwerk und Mechanikarbeit  Schwarz + Grün + Orange  9/L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07D6M7TQJ/?tag=tolees0ca-21'
 descuento: '27.82'
 average: '10.82'

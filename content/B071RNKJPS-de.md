@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Funko Pop! TV: Game of Thrones - Das Lied von Eis und Feuer - Tyrion Lannister Vinyl Figur'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071RNKJPS/?tag=tolees0ca-21'
 descuento: '38.49'
 average: '12.029473684210526'

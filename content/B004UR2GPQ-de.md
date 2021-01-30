@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Relaxdays Badregal Bambus  Natur  33 x 33 x 79 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004UR2GPQ/?tag=tolees0ca-21'
 descuento: '32.48'
 average: '26.933333333333334'

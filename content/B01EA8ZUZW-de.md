@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Yealink WF40 WLAN 150 MBit/s Netzwerkkarte – Zubehör Netzwerk  kabellos  USB Type  WLAN  150 Mbit/s  2 4 GHz  IEEE 802.11b  IEEE 802.11 g  IEEE 802.11 N '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01EA8ZUZW/?tag=tolees0ca-21'
 descuento: '33.03'
 average: '26.72'

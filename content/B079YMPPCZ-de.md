@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 30633 Actionfigur Marvel Unmasked Spider-Man  Multi  Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079YMPPCZ/?tag=tolees0ca-21'
 descuento: '16.65'
 average: '10.868888888888888'

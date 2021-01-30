@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Fossil Watch FTW6031'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QCDNXQL/?tag=tolees0ca-21'
 descuento: '39.43'
 average: '169.0'

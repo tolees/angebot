@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Microsoft Office 365 Personal multilingual | 1 Nutzer | Mehrere PCs / Macs  Tablets und mobile Geräte | 1 Jahresabonnement | Box'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FYZM75C/?tag=tolees0ca-21'
 descuento: '27.57'
 average: '50.564'

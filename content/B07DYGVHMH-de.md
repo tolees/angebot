@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Mi Smart Wasserkocher  weiß  Appsteuerung  Schnellkochfunktion  Edelstahlinnengehäuse  dreifacher Sicherungsschutz  vordefinierte Temperaturprofile  Intelligente Wassertemperatursteuerung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DYGVHMH/?tag=tolees0ca-21'
 descuento: '21.92'
 average: '39.0'

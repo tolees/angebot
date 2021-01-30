@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'PLAYMOBIL Magic 9472 Prachtvoller Phönix mit Schmucksteckern  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079MLJP48/?tag=tolees0ca-21'
 descuento: '49.97'
 average: '9.556818181818182'

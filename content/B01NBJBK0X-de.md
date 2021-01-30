@@ -16,6 +16,7 @@ comparePrice: 25.9 EUR
 prodname: 'Magic Tracks Starter Set | Autorennbahn für Kinder ab 3 Jahren | Autobahn Kinder | Auto Spielzeug Set | Autorennbahn Leuchtend'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01NBJBK0X/?tag=tolees0ca-21'
 descuento: '22.86'
 average: '19.98'

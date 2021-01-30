@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Hair Dryer Ribivaul Anion Hairdryer Salon Haarfön mit Ionenfunktion ThermoProtect Haartrockner Advanced Technologie 3 Aufsätze Dry Care DIY Styling für Damen Herren Friseurladen & Zu Hause Haar Fön'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Y55RCLD/?tag=tolees0ca-21'
 descuento: '57.01'
 average: '42.99'

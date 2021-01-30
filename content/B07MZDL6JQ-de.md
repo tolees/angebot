@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'MUSTANG Herren Regular Fit Michigan Straight Jeans'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MZDL6JQ/?tag=tolees0ca-21'
 descuento: '50.01'
 average: '39.99'

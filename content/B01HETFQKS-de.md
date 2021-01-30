@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'Bose SoundLink Color II  Bluetooth - Outdoor - Lautsprecher   wasserdicht IPX4   Grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01HETFQKS/?tag=tolees0ca-21'
 descuento: '23.52'
 average: '101.52'

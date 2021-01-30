@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Crocs Baya Slide  Unisex - Erwachsene Dusch- & Badeschuhe  Blau  Navy   43/44 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005HV2Y1U/?tag=tolees0ca-21'
 descuento: '49.98'
 average: '13.0'

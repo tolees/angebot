@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'iVANKY DisplayPort Kabel  2M/4K  DisplayPort auf DisplayPort Kabel  4K@60Hz und 2K@144Hz   DP Kabel geeignet für Monitor Gaming-Grafikkarte - 2M/ Grau  Verschlussfrei & aus Nylongeflecht '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JQKWX3C/?tag=tolees0ca-21'
 descuento: '43.36'
 average: '8.49'

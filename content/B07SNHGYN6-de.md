@@ -16,6 +16,7 @@ comparePrice: 178.37 EUR
 prodname: 'SS&LL La basura del paso Puede Cubos de basura Con Tapas de Acero inoxidable papelera en casa & Baños de cocina oficina -O'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SNHGYN6/?tag=tolees0ca-21'
 descuento: '39.46'
 average: '107.99'

@@ -16,6 +16,7 @@ comparePrice: 258.9 EUR
 prodname: 'NUK Babyphone mit Kamera Eco Control+ Video  mit Gegensprechfunktion & Temperatursensor  frei von hochfrequenter Strahlung im Eco-Mode'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007CK1ESS/?tag=tolees0ca-21'
 descuento: '48.37'
 average: '131.44'

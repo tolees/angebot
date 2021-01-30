@@ -16,6 +16,7 @@ comparePrice: 399.99 EUR
 prodname: 'Sony Interactive Entertainment PS VR Mega Pack 3 inkl. PS VR-Headset / PS Camera / PS Camera-Adapter / 5 Spiele  Gutscheincode '
 country: 'de'
 flag: '🇩🇪'
+brand: 'Sony Interactive Entertainment'
 buyurl: 'https://www.amazon.de/dp/B08MSWBX26/?tag=tolees0ca-21'
 descuento: '17.50'
 average: '326.795057471264'

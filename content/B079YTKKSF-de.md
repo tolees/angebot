@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Logitech G513 mechanische Gaming-Tastatur  mit RGB Tastenbeleuchtung und linearen Romer-G Tasten-Switches  Carbon - QWERTZ Deutsches Tastaturlayout '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079YTKKSF/?tag=tolees0ca-21'
 descuento: '28.78'
 average: '99.0'

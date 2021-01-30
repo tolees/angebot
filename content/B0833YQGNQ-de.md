@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Kiztoys Handheld Spielkonsole 400 Klassische Spielen  2.8-Zoll-LCD Bildschirm Retro-spielkonsole Unterstützt das Anschließen TV-Anschluss und Zwei Spieler für Kinder und Erwachsene Geschenk Konsolen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0833YQGNQ/?tag=tolees0ca-21'
 descuento: '23.51'
 average: '15.29'

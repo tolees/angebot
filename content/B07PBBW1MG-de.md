@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 41475 Action Figur: Dark Crystal - Silk Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PBBW1MG/?tag=tolees0ca-21'
 descuento: '17.94'
 average: '11.836666666666668'

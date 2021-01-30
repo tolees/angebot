@@ -16,6 +16,7 @@ comparePrice: 105.91 EUR
 prodname: 'Bosch Professional 12V System Akku Bohrschrauber GSR 12V-15  ohne Akkus & Ladegerät  im Karton '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003VEILMG/?tag=tolees0ca-21'
 descuento: '53.83'
 average: '48.4'

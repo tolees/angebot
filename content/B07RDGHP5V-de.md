@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: 'WC Ente Total Aktiv Gel Flüssiger WC Reiniger  mit Entenhals-Technologie  antibakteriell  Marine Duft  1er Pack  1 x 750 ml '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RDGHP5V/?tag=tolees0ca-21'
 descuento: '49.75'
 average: '1.0'

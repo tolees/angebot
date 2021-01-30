@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'WMF Diadem Plus Topfset 5-teilig  Cromargan Edelstahl poliert  Töpfe mit Glasdeckel  Induktionstöpfe  Topf Induktion  unbeschichtet'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00EIC6J1A/?tag=tolees0ca-21'
 descuento: '60.70'
 average: '89.99'

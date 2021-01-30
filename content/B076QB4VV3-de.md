@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Razer Electra V2 USB - Digitales Gaming Headset  für Gamer und Musik  Individuell eingestellte 40 mm-Treiber  Virtueller 7.1 Sound und Unibody-Rahmen aus Alumnium '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076QB4VV3/?tag=tolees0ca-21'
 descuento: '31.43'
 average: '33.99666666666667'

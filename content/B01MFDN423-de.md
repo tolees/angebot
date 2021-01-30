@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'hummel Unisex-Erwachsene Slimmer Stadil Tonal High Top  Schwarz  Black   43 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MFDN423/?tag=tolees0ca-21'
 descuento: '37.81'
 average: '43.5'

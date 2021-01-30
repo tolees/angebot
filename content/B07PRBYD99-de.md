@@ -16,6 +16,7 @@ comparePrice: 43.5 EUR
 prodname: 'Carrera GO!!! Race to Win 20062483 Autorennbahn Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PRBYD99/?tag=tolees0ca-21'
 descuento: '24.83'
 average: '48.47857142857143'

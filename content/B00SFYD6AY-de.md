@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Bosch HEZ631070 Zubehör für Backöfen / Backblech / Anthrazit / emailliert'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00SFYD6AY/?tag=tolees0ca-21'
 descuento: '33.36'
 average: '25.99'

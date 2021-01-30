@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Hasbro Gaming E1844100 - Dummschwätzer Partyspiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B6GYZ9V/?tag=tolees0ca-21'
 descuento: '62.23'
 average: '11.791428571428574'

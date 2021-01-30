@@ -16,6 +16,7 @@ comparePrice: 27.59 EUR
 prodname: 'JewelryWe Schmuck Herren Magnetarmband + Link Removal Tool  14mm Edelstahl Klassiker Link Magnetisch Armreif Magnete Armband Armkette  Gold'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078YQ8Y7P/?tag=tolees0ca-21'
 descuento: '67.78'
 average: '8.89'

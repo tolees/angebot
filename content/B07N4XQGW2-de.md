@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Jeans Damen TJW 3/4 Sleeve Drop Waist Dress Kleid  Rot  Red 0qx    Herstellergröße:M '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07N4XQGW2/?tag=tolees0ca-21'
 descuento: '50.95'
 average: '49.495000000000005'

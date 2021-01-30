@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'KitchenCraft Living Nostalgia Küchenspülbeckenbehälter  17 x 14 x 11 cm  grau  French Grey '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00U1IN0KS/?tag=tolees0ca-21'
 descuento: '25.33'
 average: '14.18'

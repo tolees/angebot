@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Playmobil 70198 City Life Beim Facharzt: Zahnarzt  ab 4 Jahren  bunt  one Size'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P9TCT78/?tag=tolees0ca-21'
 descuento: '30.10'
 average: '9.557500000000001'

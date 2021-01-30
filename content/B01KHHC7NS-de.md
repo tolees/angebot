@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Yamaha WX-010 White MusicCast WX-010 Netzwerklautsprecher weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01KHHC7NS/?tag=tolees0ca-21'
 descuento: '37.35'
 average: '112.14'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Caffè Vergnano 1882 Gran Aroma Ganze Bohnen  1 kg'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002I2BMRS/?tag=tolees0ca-21'
 descuento: '33.36'
 average: '10.495000000000001'

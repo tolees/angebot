@@ -16,6 +16,7 @@ comparePrice: 37.9 EUR
 prodname: 'Westmark Spätzle-/Kartoffelpresse  Mit Spezial-Lochung für Spätzle wie Handgemacht  Aluminiumdruckguss  Länge: 41 cm  Spätzlechef  Silber  61202230'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00JFBNP48/?tag=tolees0ca-21'
 descuento: '17.23'
 average: '31.37'

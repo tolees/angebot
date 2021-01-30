@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'YUNKE Duschorganisator  Badezimmerregale  Duschkabine Badezimmeraufbewahrung mit rostfreiem Edelstahlkleber für Küchen- und Badezimmerzubehör - Kleberaufkleber enthalten -  Silber '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B086PMMFHG/?tag=tolees0ca-21'
 descuento: '15.01'
 average: '19.54'

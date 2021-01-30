@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Deckenlampe LED Deckenleuchte Öuesen Lampe Decke Wasserdicht Moderne Runde Dünne 18W 1650LM IP44 4000K Φ24cm Neutralweiß Deckenlampe Badezimmer Küche Schlafzimmer Bad Wohnzimmer Esszimmer Balkon Flur'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077N8FDZS/?tag=tolees0ca-21'
 descuento: '44.46'
 average: '19.99'

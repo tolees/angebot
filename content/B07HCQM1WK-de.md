@@ -16,6 +16,7 @@ comparePrice: 349.99 EUR
 prodname: 'BISSELL 2225N Crosswave Pet Pro 3-in-1 Bodenreiniger  für Hartböden & Teppiche  saugt & wischt Böden gleichzeitig  speziell für Haustier-Haushalte  0.82 l  560W'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HCQM1WK/?tag=tolees0ca-21'
 descuento: '29.15'
 average: '247.97'

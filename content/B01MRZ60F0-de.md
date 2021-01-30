@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'AVM FRITZ!DECT 210  intelligente Steckdose für Smart Home  mit Spritzwasserschutz  IP 44  für Einsatz im Außenbereich '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MRZ60F0/?tag=tolees0ca-21'
 descuento: '22.05'
 average: '45.99'

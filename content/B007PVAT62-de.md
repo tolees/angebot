@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Invision TV Wandhalterung  Ultrastarker Schwenkbare Neigbare  TV Halterung für 26-60 Zoll Flache und Geschwungen Fernseher oder Monitore  Max Gewichtskapazität 40 kg  Max. VESA 400x400 mm  HDTV-L '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007PVAT62/?tag=tolees0ca-21'
 descuento: '25.01'
 average: '26.24'

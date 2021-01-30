@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Hasbro E4161ES2 - Disney Prinzessin  Schimmerglanz Schneewittchen  Puppe'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FK1KPKN/?tag=tolees0ca-21'
 descuento: '28.59'
 average: '9.99'

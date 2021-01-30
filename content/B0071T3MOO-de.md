@@ -16,6 +16,7 @@ comparePrice: 105.91 EUR
 prodname: 'Bosch Professional 12V System Akku Schlagbohrschrauber GSB 12V-15  ohne Akkus und Ladegerät  im Karton '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0071T3MOO/?tag=tolees0ca-21'
 descuento: '48.16'
 average: '54.9'

@@ -16,6 +16,7 @@ comparePrice: 68.99 EUR
 prodname: 'Hasbro FURREAL Friends E7963EU4 furReal Topper  Mein Baby-Triceratops  interaktives Plüschtier  mehr als 35 Geräusch-und Bewegungskombinationen  Mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P2HSC7R/?tag=tolees0ca-21'
 descuento: '45.15'
 average: '39.18'

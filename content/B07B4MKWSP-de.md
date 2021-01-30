@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Rieker Damen Chelsea Boots 75754 Frauen Stiefel Halbstiefel Stiefelette Bootie Schlupfstiefel hoch Blockabsatz 4.6cm schwarz/anthrazit  EU 41'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B4MKWSP/?tag=tolees0ca-21'
 descuento: '41.77'
 average: '34.91'

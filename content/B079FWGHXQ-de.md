@@ -16,6 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'Trust GXT 707R Resto Gaming-Stuhl  Ergonomisch mit Höhenverstellbare Armlehnen  Rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079FWGHXQ/?tag=tolees0ca-21'
 descuento: '26.52'
 average: '159.0'

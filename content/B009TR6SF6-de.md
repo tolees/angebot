@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Tablet Kissen - ideal passend zu Samsung Tab  Apple iPad  Lenovo  Huawei Mediapad - Tablet Halterung  eReader Halter für Bett & Couch'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B009TR6SF6/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '10.219999999999999'

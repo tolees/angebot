@@ -16,6 +16,7 @@ comparePrice: 134.99 EUR
 prodname: 'Krups HZ4071 Perfect Mix 9000 Pro Stabmixer | inklusive 4 Zubehör | 1.000W | 25 Geschwindigkeiten + Turbostufe | Edelstahlfuß | 4 Messer | Zerkleinerer | Schneebesen | Kartoffelstampfer | Silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01K47HCQS/?tag=tolees0ca-21'
 descuento: '48.89'
 average: '77.77'

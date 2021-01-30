@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger Damen Heritage Crew Neck Graphic Tee Regular Fit T-Shirt  Schwarz  Masters Black 017   Large   Herstellergröße: L '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P9FQKWD/?tag=tolees0ca-21'
 descuento: '17.99'
 average: '25.695'

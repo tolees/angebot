@@ -16,6 +16,7 @@ comparePrice: 13.28 EUR
 prodname: 'HAN Briefablage KLASSIK 1026-X-23  in Transparent-Glasklar / Hochwertige  stapelbare Ablage im modernen Design / Für Briefe & Papiere bis Format A4–C4  6 Stück'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001AHN4A0/?tag=tolees0ca-21'
 descuento: '17.32'
 average: '10.98'

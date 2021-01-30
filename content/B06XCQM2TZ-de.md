@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'Samsung HW-MS650 Soundbar Sound+  integrierter Subwoofer  Bluetooth  Surround-Sound-Expansion  Alexa-Unterstützung  dunkel-titan'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XCQM2TZ/?tag=tolees0ca-21'
 descuento: '51.76'
 average: '288.98'

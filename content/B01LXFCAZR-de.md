@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Samsonite Base Boost - Spinner L Erweiterbar Koffer  78 cm  105/112.5 L  Schwarz  Black '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LXFCAZR/?tag=tolees0ca-21'
 descuento: '46.04'
 average: '76.75250000000001'

@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Samsung Galaxy Xcover 4 Smartphone  12 67 cm  5 Zoll  Touch-Display  16 GB Speicher  Android 7 0 Nougat  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XCJP94G/?tag=tolees0ca-21'
 descuento: '15.33'
 average: '210.84'

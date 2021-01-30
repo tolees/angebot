@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'caseable Kindle und Kindle Paperwhite Hülle  Gold Dots'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0781YCK4M/?tag=tolees0ca-21'
 descuento: '25.61'
 average: '29.055'

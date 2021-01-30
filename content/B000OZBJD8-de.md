@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Park Tool Mini-Faltwerkzeug IB-2 I-Beam  4000849'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000OZBJD8/?tag=tolees0ca-21'
 descuento: '40.10'
 average: '11.95'

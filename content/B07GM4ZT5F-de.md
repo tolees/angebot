@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Cudy GS105D 5 Port LAN Switch Gigabit  Gigabit Switch 5-Port  5 * 10/100/1000Mbit/s RJ45  Netzwerk Switch  LAN Verteiler  Plug & Play'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GM4ZT5F/?tag=tolees0ca-21'
 descuento: '50.17'
 average: '14.9'

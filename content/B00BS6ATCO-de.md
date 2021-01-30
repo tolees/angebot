@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Bosch Rasentrimmer ART 35  Schultergurt  Zusatzhandgriff  Karton  600 W  35 cm Schnittkreisdurchmesser '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00BS6ATCO/?tag=tolees0ca-21'
 descuento: '43.00'
 average: '60.656666666666666'

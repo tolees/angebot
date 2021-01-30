@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'Condis Magnetische Bausteine 95 Teile  Magnetspielzeug Magnete Kinder Magnetbausteine Magnet Spielzeug Magnetspiele Kinderspielzeug Puzzle Geschenke Kinderspiele ab 2 3 4 5 6 7 Jahren Jungen Mädchen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075R7HN9R/?tag=tolees0ca-21'
 descuento: '37.51'
 average: '29.99'

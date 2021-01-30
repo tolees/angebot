@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'B. Toys 44123 - Wheeeee-Is  Kinderauto'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0080AHHBM/?tag=tolees0ca-21'
 descuento: '42.80'
 average: '19.99'

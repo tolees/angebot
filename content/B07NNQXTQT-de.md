@@ -16,6 +16,7 @@ comparePrice: 69.97 EUR
 prodname: 'KLIM Ultimate + Laptop-RGB-Kühler- 11 bis 17 Zoll + Laptop-Gaming-Kühlung + Neuheit 2020 + USB-Lüfter + Stabil und leise + Mac- und PS4-kompatibel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NNQXTQT/?tag=tolees0ca-21'
 descuento: '25.73'
 average: '51.97'

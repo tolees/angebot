@@ -16,6 +16,7 @@ comparePrice: 199.9 EUR
 prodname: 'HP Tango X Smart Home Drucker  HP Instant Ink  WLAN  Bluetooth  integrierte Sprachsteuerung  graues Wrap Pad  mit 2 Monaten Instant Ink inklusive  weiß/grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GZTM9RQ/?tag=tolees0ca-21'
 descuento: '40.83'
 average: '108.39'

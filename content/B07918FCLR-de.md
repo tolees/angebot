@@ -16,6 +16,7 @@ comparePrice: 1899.0 EUR
 prodname: 'Samsung Flip  LH55WM  LED Display Flipchart  139 7 cm  55 Zoll   weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07918FCLR/?tag=tolees0ca-21'
 descuento: '26.33'
 average: '1399.0'

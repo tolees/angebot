@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Auferstanden'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01EZGCVRO/?tag=tolees0ca-21'
 descuento: '43.80'
 average: '4.49'

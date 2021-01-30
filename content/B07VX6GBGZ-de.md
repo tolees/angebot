@@ -16,6 +16,7 @@ comparePrice: 8.77 EUR
 prodname: 'ExcLent 10-24 Cm De Acero Inoxidable De Boca Ancha Líquido Agua Aceite Embudo Herramienta De Filtro De Cocina - 10cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VX6GBGZ/?tag=tolees0ca-21'
 descuento: '16.65'
 average: '7.31'

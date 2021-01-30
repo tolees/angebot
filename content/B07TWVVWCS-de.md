@@ -16,6 +16,7 @@ comparePrice: 279.99 EUR
 prodname: 'Staubsauger Roboter 1800 Pa  WLAN Saugroboter mit Hohe Saugkraft Selbstaufladender 120 Min Laufzeit für Tierhaare Hartböden Teppiche Fallschutz mit Alexa und APP-Steuerung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TWVVWCS/?tag=tolees0ca-21'
 descuento: '32.14'
 average: '189.99'

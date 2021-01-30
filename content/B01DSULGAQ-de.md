@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'VAUDE Men s Escape Light Jacke  Blau  Blau  Eclipse    Large  Herstellergröße: 52 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01DSULGAQ/?tag=tolees0ca-21'
 descuento: '26.56'
 average: '63.62'

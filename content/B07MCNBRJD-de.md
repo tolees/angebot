@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Heimkamera  1080P FHD Wireless WiFi IP Überwachungskamera mit 5 Antennen  super Starkes Signal  Nachtsicht  Bewegungserkennung  Echtzeit Zweiweg Audio  für Zuhause/Büro/Shop EU '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MCNBRJD/?tag=tolees0ca-21'
 descuento: '51.16'
 average: '17.09'

@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'Bluetooth Headset mit Microfon TaoTronics PC Headset kabellos Kopfhörer Smart AI Noise Cancellation 34Std. Spielzeit für LKW Fahrer Computer Office Call Center Skype'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B081Q5RCMV/?tag=tolees0ca-21'
 descuento: '22.73'
 average: '41.49'

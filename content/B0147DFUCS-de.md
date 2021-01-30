@@ -16,6 +16,7 @@ comparePrice: 7.95 EUR
 prodname: 'Mighty No.9 - Ray-Edition'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0147DFUCS/?tag=tolees0ca-21'
 descuento: '38.36'
 average: '4.9'

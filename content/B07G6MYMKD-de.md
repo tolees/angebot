@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Ultimate Ears Megaboom 3 Bluetooth Lautsprecher  Wasserdichter 360°-Sound  - Mitternachtsschwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G6MYMKD/?tag=tolees0ca-21'
 descuento: '50.25'
 average: '99.0'

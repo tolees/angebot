@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'eufy Security Sicherheitskamera mit Scheinwerfer  1080p Überwachungskamera  ohne Gebühren  2500 Lumen Helligkeit  Wetterfest & wasserdicht  Verkabelung & wasserdichter Kabelkasten notwendig '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07W6QT7TR/?tag=tolees0ca-21'
 descuento: '21.25'
 average: '125.99'

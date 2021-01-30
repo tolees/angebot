@@ -16,6 +16,7 @@ comparePrice: 29 EUR
 prodname: 'Christopeit Türreck Klimmzugstange  1688'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BVC4ZWE/?tag=tolees0ca-21'
 descuento: '41.38'
 average: '17.494999999999997'

@@ -16,6 +16,7 @@ comparePrice: 94.99 EUR
 prodname: 'Tefal Smart Protect FV4980 Dampfbügeleisen  2600 Watt  extra Dampfstoß 180 g/min  0 27 Liter  weiß/blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079QZBGT6/?tag=tolees0ca-21'
 descuento: '64.35'
 average: '33.86'

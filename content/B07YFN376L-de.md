@@ -16,6 +16,7 @@ comparePrice: 61.98 EUR
 prodname: 'Zendure SuperMini Powerbank mit 10.000 mAh  robust  klein und leistungsstark  2-Port QC 3.0 mit 18W Schnellladefunktion für iPhone  iPad  Android  Nintendo Switch  Handgepäck geeignet   Blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YFN376L/?tag=tolees0ca-21'
 descuento: '19.34'
 average: '49.99'

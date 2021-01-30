@@ -16,6 +16,7 @@ comparePrice: 999.0 EUR
 prodname: 'Samsung LS03R The Frame 108 cm  43 Zoll  QLED Lifestyle Fernseher  Art Mode  Ultra HD  HDR  Smart TV  [Modelljahr 2019]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NHMWRQF/?tag=tolees0ca-21'
 descuento: '30.23'
 average: '699.995'

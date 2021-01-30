@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'FLOWZOOM Schlauchschal mit Filterfach zum Einlegen eines Aktivkohlefilters | Multifunktionstuch Maske Herren/Damen Bandana waschbar - Herrengröße  L  Schwarz - mit 4 Filter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08FMW24JB/?tag=tolees0ca-21'
 descuento: '15.40'
 average: '11.99'

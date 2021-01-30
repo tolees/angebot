@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Superdry Herren O L Vintage Embroidery L/S Tee Langarmshirt  Grau  Flint Steel Grit A3Z   X-Large'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G1FS32X/?tag=tolees0ca-21'
 descuento: '30.26'
 average: '27.526666666666667'

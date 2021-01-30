@@ -16,6 +16,7 @@ comparePrice: 4.05 EUR
 prodname: 'The Diary of Alicia Keys'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0000E5PEM/?tag=tolees0ca-21'
 descuento: '29.38'
 average: '2.86'

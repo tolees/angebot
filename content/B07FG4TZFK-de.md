@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Wissen ist Macht: Dekaden [PlayStation 4]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FG4TZFK/?tag=tolees0ca-21'
 descuento: '50.03'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 244.0 EUR
 prodname: 'Samsung C32JG51FD 81 28 cm  32 Zoll  Curved Monitor  16:9  1920 x 1080 Pixel  144 Hz  4ms  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KM2ZLMV/?tag=tolees0ca-21'
 descuento: '18.44'
 average: '199.0'

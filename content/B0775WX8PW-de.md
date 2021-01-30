@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Yazubi Herren Chino Hose  Modell Dustin  Chinohose by Yzb Jeans  Camel  Otter 181018   W29/L30'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0775WX8PW/?tag=tolees0ca-21'
 descuento: '53.63'
 average: '27.8'

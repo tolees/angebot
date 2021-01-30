@@ -16,6 +16,7 @@ comparePrice: 697.9 EUR
 prodname: 'iRobot Roomba i7  i7156  Saugroboter  3-stufiges Reinigungssystem  intelligente Raumerfassung  Zeitplanreinigung  2 Multibodenbürsten  WLAN App Staubsauger Roboter  für Tierhaare  Waschbarer Behälter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PDZG1QV/?tag=tolees0ca-21'
 descuento: '28.36'
 average: '523.3233333333334'

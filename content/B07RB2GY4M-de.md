@@ -16,6 +16,7 @@ comparePrice: 70.28 EUR
 prodname: 'YLCJ Vintage Doble Bronce Industrial Industrial Lámparas de pared Lámparas de agua Steampunk Robustas para lámparas de pared Pared Retro para la cocina del granero Almacén Bar Café Ancho: 43 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RB2GY4M/?tag=tolees0ca-21'
 descuento: '35.57'
 average: '45.28'

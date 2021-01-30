@@ -16,6 +16,7 @@ comparePrice: 11.68 EUR
 prodname: 'Funko 31633 Actionfigur  Mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFDXV44/?tag=tolees0ca-21'
 descuento: '25.09'
 average: '10.414666666666665'

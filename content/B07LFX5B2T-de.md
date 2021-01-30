@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'My Little Pony Kicherspaß Pinkie Pie – 20 cm großes interaktives Spielzeug mit Geräuschen und Bewegung  für Kinder ab 3 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07LFX5B2T/?tag=tolees0ca-21'
 descuento: '21.88'
 average: '24.99'

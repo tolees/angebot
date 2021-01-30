@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Fisher-Price DRH31 - Lernspaß Spieltisch  Lernspielzeug mit Lichtern  Sätzen und Liedern  mitwachsenden Spielstufen  Baby Spielzeug ab 6 Monaten  deutschsprachig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01DUK44U8/?tag=tolees0ca-21'
 descuento: '26.94'
 average: '54.79'

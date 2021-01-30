@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'SUUNTO 3 Fitness black'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BDRY863/?tag=tolees0ca-21'
 descuento: '24.01'
 average: '94.99'

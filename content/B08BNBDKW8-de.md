@@ -16,6 +16,7 @@ comparePrice: 87.95 EUR
 prodname: 'Hoseili Bluetooth Kopfhörer In Ear Kopfhörer Kabellos mit 120 Stunden Spielzeit  Wireless Kopfhörer Sport Ohrhörer  Stereo Deep Bass Touch-Control  Stereoanrufe  Battery LED Display-L4'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08BNBDKW8/?tag=tolees0ca-21'
 descuento: '54.58'
 average: '39.95'

@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Schiff in der Flasche  Kompatibel Mit Lego 21313 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KLZ2LWK/?tag=tolees0ca-21'
 descuento: '45.46'
 average: '29.99'

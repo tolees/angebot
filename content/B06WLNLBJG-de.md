@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Hasbro Star Wars C1439EU4 - Episode 8 ferngesteuerter BB-8-Droide  elektronisches Spielzeug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06WLNLBJG/?tag=tolees0ca-21'
 descuento: '51.09'
 average: '71.99103448275862'

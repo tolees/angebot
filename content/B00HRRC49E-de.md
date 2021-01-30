@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Sylvanian Families - 5017 - Schokoladenhasen Baby mit Babybett'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HRRC49E/?tag=tolees0ca-21'
 descuento: '15.94'
 average: '13.527777777777779'

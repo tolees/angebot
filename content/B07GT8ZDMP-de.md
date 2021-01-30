@@ -16,6 +16,7 @@ comparePrice: 259.0 EUR
 prodname: 'Sony PCM-A10 Diktiergerät  High-Res Aufnahme  FLAC  Stereo Mikrofon  SD Karten Slot  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GT8ZDMP/?tag=tolees0ca-21'
 descuento: '36.56'
 average: '164.32'

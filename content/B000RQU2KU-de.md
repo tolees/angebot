@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Brennenstuhl Eco-Line  Steckdosenleiste 10-fach  Steckerleiste mit erhöhtem Berührungsschutz  Schalter und 3m Kabel  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000RQU2KU/?tag=tolees0ca-21'
 descuento: '40.40'
 average: '9.53'

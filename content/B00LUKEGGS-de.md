@@ -16,6 +16,7 @@ comparePrice: 60.24 EUR
 prodname: 'WOFI Wandleuchte  1-flammig  Serie Avignon  1 x LED  6.6 W  Höhe 4.5 cm  Tiefe 30 cm  Kelvin 3000  L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00LUKEGGS/?tag=tolees0ca-21'
 descuento: '40.67'
 average: '35.74'

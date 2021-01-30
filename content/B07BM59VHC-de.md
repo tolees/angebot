@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'Hasbro Gaming E1921100 - Trivial Pursuit Familien Edition Familienspiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BM59VHC/?tag=tolees0ca-21'
 descuento: '26.20'
 average: '30.99'

@@ -16,6 +16,7 @@ comparePrice: 10.02 EUR
 prodname: 'Paul Günther 1682 - Propellerspiel Twirly  Farblich sortiert'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000F5FNI4/?tag=tolees0ca-21'
 descuento: '52.00'
 average: '4.81'

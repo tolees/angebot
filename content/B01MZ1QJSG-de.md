@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Allmay Bart Schürze für Bartgestaltung- Sammel Tuch für Haare-Bart Lätzchen für Geschenk der Männer Bartlatz für Rasur Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MZ1QJSG/?tag=tolees0ca-21'
 descuento: '23.09'
 average: '9.99'

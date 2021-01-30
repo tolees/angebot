@@ -16,6 +16,7 @@ comparePrice: 32.0 EUR
 prodname: 'Genrics KÜCHEN-TELESKOPSTÄNDER AUS Edelstahl  1pcs '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08CZMBNZJ/?tag=tolees0ca-21'
 descuento: '60.38'
 average: '12.33'

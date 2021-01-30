@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Levi s Damen 312 Shaping Slim Jeans  Grey Horizont 0102  30W / 32L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KF4SPJ3/?tag=tolees0ca-21'
 descuento: '50.01'
 average: '44.99'

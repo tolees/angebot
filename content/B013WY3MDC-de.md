@@ -16,6 +16,7 @@ comparePrice: 16.56 EUR
 prodname: 'LIPTON ICE TEA Sparkling Classic  Eistee mit Kohlensäure und Zitronen Geschmack  24 x 0.33l '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B013WY3MDC/?tag=tolees0ca-21'
 descuento: '29.41'
 average: '11.69'

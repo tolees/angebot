@@ -16,6 +16,7 @@ comparePrice: 219.95 EUR
 prodname: 'Unbekannt Gasgrill-Smoker Portland XL'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NRL766P/?tag=tolees0ca-21'
 descuento: '28.48'
 average: '157.31'

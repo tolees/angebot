@@ -16,6 +16,7 @@ comparePrice: 9.49 EUR
 prodname: 'Hook [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005OTE2UG/?tag=tolees0ca-21'
 descuento: '26.34'
 average: '6.99'

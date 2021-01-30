@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Sylvanian Families 5220 Einrichtungsset für Starter Haus  29 x 4 8 x 21 8 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0104BLRT2/?tag=tolees0ca-21'
 descuento: '15.97'
 average: '25.2'

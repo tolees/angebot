@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Logitech G703 LIGHTSPEED kabellose Gaming-Maus  mit HERO 16K-Sensor  LIGHTSYNC RGB  POWERPLAY-kompatibel  geringes Gewicht von 95 g + optionales 10-g-Gewicht  EU Verpackung  Westeuropa '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07S9DR8QG/?tag=tolees0ca-21'
 descuento: '26.08'
 average: '73.91'

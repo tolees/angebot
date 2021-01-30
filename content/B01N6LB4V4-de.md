@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Meister Werkzeugtrolley 156-teilig - Werkzeug-Set - Mit Rollen - Teleskophandgriff / Profi Werkzeugkoffer befüllt / Werkzeugkiste fahrbar auf Rollen / Werkzeugbox komplett mit Werkzeug / 8971440'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N6LB4V4/?tag=tolees0ca-21'
 descuento: '15.87'
 average: '159.0'

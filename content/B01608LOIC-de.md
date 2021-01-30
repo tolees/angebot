@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'PLAYMOBIL City Action 6876 Motorradstreife mit LED-Blinklicht  Ab 5 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01608LOIC/?tag=tolees0ca-21'
 descuento: '18.76'
 average: '12.350000000000001'

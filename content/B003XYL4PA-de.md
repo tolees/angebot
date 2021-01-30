@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Deuter Streamer Thermo Bag 3.0 Zubehör Trinkblase'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003XYL4PA/?tag=tolees0ca-21'
 descuento: '30.00'
 average: '13.93'

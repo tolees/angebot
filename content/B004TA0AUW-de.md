@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Transcend Extreme-Speed Micro SDHC 8GB Class 10 Speicherkarte mit SD-Adapter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004TA0AUW/?tag=tolees0ca-21'
 descuento: '44.55'
 average: '5.49'

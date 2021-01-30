@@ -16,6 +16,7 @@ comparePrice: 8.48 EUR
 prodname: 'Funko B07DFBD9SD Kingdom Hearts 3: Mickey POP Vinylfigur  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFBD9SD/?tag=tolees0ca-21'
 descuento: '20.99'
 average: '7.806666666666667'

@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Tommy Hilfiger Herren Multi Zifferblatt Quarz Uhr mit Edelstahl Armband 1791534'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G4PCTPK/?tag=tolees0ca-21'
 descuento: '34.43'
 average: '117.37'

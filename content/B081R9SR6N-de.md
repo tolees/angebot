@@ -16,6 +16,7 @@ comparePrice: 70.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego Gingerbread House Kompatibel Mit Lego 10267 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B081R9SR6N/?tag=tolees0ca-21'
 descuento: '35.22'
 average: '45.99'

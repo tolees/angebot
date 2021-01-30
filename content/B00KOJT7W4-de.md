@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Columbia Herren Woodburn II Waterproof Wasserdichte Schuhe  Schwarz  black  caramel   42 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00KOJT7W4/?tag=tolees0ca-21'
 descuento: '49.99'
 average: '50.0'

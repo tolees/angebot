@@ -16,6 +16,7 @@ comparePrice: 27.84 EUR
 prodname: 'Autowerkstatt Simulator [Playstation 4]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QF6BJH9/?tag=tolees0ca-21'
 descuento: '28.20'
 average: '19.99'

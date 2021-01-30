@@ -16,6 +16,7 @@ comparePrice: 22.59 EUR
 prodname: 'Goki 4013594566834 Memo Klang  12-teilig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00UCOWGWY/?tag=tolees0ca-21'
 descuento: '69.46'
 average: '6.9'

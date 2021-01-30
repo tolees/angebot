@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'CITIZEN Damen Analog Quarz Uhr mit Leder Armband FE1083-02A'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00R7PSD5U/?tag=tolees0ca-21'
 descuento: '41.01'
 average: '70.2'

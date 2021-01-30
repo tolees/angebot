@@ -16,6 +16,7 @@ comparePrice: 8.49 EUR
 prodname: 'Intenso Micro SDHC 32GB Class 4 Speicherkarte inkl. SD-Adapter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007UK0E2W/?tag=tolees0ca-21'
 descuento: '35.34'
 average: '4.695'

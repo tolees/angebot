@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Funko 36379 Pop! Marvel: Captain Marvel - Goose The Cat Toy  Standard  Multicolor'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HB8C8XP/?tag=tolees0ca-21'
 descuento: '29.94'
 average: '11.44'

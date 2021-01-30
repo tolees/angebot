@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'deAO Kinderspielset Pretend Kitchen Sink mit simuliertem Wasserhahn und enthaltenem Küchenzubehör - Rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VQVW742/?tag=tolees0ca-21'
 descuento: '25.01'
 average: '17.99'

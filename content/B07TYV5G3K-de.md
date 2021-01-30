@@ -16,6 +16,7 @@ comparePrice: 39.96 EUR
 prodname: 'Bluetooth Kopfhörer in Ear  YONMIG Kabellos Bluetooth 5.0 Headset mit 3000mAh Ladebox Wireless Noise Cancelling Earbuds 150H Stunden Spielzeit Sport Wasserdicht IPX7 Ohrhörer mit Mikrofon  Schwarz '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TYV5G3K/?tag=tolees0ca-21'
 descuento: '15.02'
 average: '37.578'

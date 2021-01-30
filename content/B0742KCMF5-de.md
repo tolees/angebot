@@ -16,6 +16,7 @@ comparePrice: 15.69 EUR
 prodname: 'Thames & Kosmos 692872 Zubehör'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0742KCMF5/?tag=tolees0ca-21'
 descuento: '41.05'
 average: '9.25'

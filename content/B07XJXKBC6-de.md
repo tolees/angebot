@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'Körperfettwaage  INSMART Personenwaage digital mit APP  Bluetooth Waage für Körperfett  BMI  Gewicht  Muskelmasse  Wasser  Protein  Skelettmuskel  Knochengewicht  BMR  usw. | kg + lb | max.180kg'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XJXKBC6/?tag=tolees0ca-21'
 descuento: '31.92'
 average: '31.99'

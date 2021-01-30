@@ -16,6 +16,7 @@ comparePrice: 59.49 EUR
 prodname: 'Hot Wheels FXN21 - Auto Lift Expressway Track Set mit batteriebetriebenen Looping  Spielzeug ab 5 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07K71WFMW/?tag=tolees0ca-21'
 descuento: '42.66'
 average: '32.736666666666665'

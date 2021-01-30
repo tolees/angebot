@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Einhell Sägekettenschärfgerät GC-CS 85  Schleifscheibe  Tiefenbegrenzung  Kettenspannvorrichtung  präzise Schleifwinkeleinstellung '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01JGHLNJ4/?tag=tolees0ca-21'
 descuento: '26.58'
 average: '21.99'

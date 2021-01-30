@@ -16,6 +16,7 @@ comparePrice: 127.35 EUR
 prodname: 'Seagate Expansion Portable 5 TB externe tragbare Festplatte für PC  6 35 cm  2 5 Zoll   Amazon Exclusive Edition'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VS8QCXC/?tag=tolees0ca-21'
 descuento: '21.48'
 average: '99.99'

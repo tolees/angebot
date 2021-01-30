@@ -16,6 +16,7 @@ comparePrice: 16.88 EUR
 prodname: 'Philips SHE3905BK/00 In-Ear-Kopfhörer mit Mikrofon  satter Sound  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00J3XBA1I/?tag=tolees0ca-21'
 descuento: '46.74'
 average: '8.99'

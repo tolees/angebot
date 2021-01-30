@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Sylvanian Families 6013 Town Series 6013-Fashion Kleiderständer Set  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0797ZGWXF/?tag=tolees0ca-21'
 descuento: '23.51'
 average: '14.88'

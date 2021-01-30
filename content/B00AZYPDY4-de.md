@@ -16,6 +16,7 @@ comparePrice: 55.99 EUR
 prodname: 'WOLF-Garten - Amboss Astschere »Comfort Plus« POWER CUT** RS 750; 73AGA007650'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00AZYPDY4/?tag=tolees0ca-21'
 descuento: '42.86'
 average: '31.99'

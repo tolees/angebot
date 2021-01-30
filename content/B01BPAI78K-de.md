@@ -16,6 +16,7 @@ comparePrice: 62.62 EUR
 prodname: 'Hugo Boss Bottled Intense Eau De Parfum   100 ml'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BPAI78K/?tag=tolees0ca-21'
 descuento: '33.73'
 average: '41.5'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Mattel GCY62 - Disney Pixar Toy Story 4 Minis Porzellinchen und Skunkmobile  Sammelfiguren mit Fahrzeug  Spielzeug ab 3 Jahre'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GSN7FGL/?tag=tolees0ca-21'
 descuento: '37.34'
 average: '6.165'

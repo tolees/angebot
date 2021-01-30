@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Sylvanian Families 3149 - Chihuahua - Familie Wuffel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00IOMS3JQ/?tag=tolees0ca-21'
 descuento: '27.69'
 average: '15.9'

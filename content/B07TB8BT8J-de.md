@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego Technic Chevrolet Corvette ZR1  Kompatibel Mit Lego 42093 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TB8BT8J/?tag=tolees0ca-21'
 descuento: '18.19'
 average: '32.506129032258066'

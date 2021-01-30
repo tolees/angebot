@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'You Win.Who Cares?  Deluxe 2cd Edition '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G2CJM7L/?tag=tolees0ca-21'
 descuento: '21.06'
 average: '14.99'

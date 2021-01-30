@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'PLAYMOBIL Family Fun 9422 Swimmingpool mit Pump-Dusche  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0766CSY7G/?tag=tolees0ca-21'
 descuento: '36.24'
 average: '22.872142857142855'

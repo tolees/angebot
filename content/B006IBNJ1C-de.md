@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Bodum assam Teebereiter  French Press System  Permanent Edelstahlfilter   1 0 liters schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B006IBNJ1C/?tag=tolees0ca-21'
 descuento: '28.70'
 average: '28.45'

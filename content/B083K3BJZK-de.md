@@ -16,6 +16,7 @@ comparePrice: 119.98 EUR
 prodname: 'DXX Acryl Schaukasten Vitrine  Schaukasten Acryl Vitrine Display Case für Lego Ideas 21319 - Friends Central Perk Café  Ohne Modell '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083K3BJZK/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '59.99'

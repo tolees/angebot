@@ -16,6 +16,7 @@ comparePrice: 678.0 EUR
 prodname: 'Neff TBD1676N / T16BD76N0 / Autarkes Kochfeld / Konventionell / 60cm / Touch Control / Zweikreis'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MTV80T9/?tag=tolees0ca-21'
 descuento: '57.97'
 average: '284.98'

@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: '135/Fluch des Piraten'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002RKPWKO/?tag=tolees0ca-21'
 descuento: '51.50'
 average: '3.39'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Belkin ScreenForce TemperedCurve Displayschutz für iPhone 11  Displayschutzfolie für iPhone 11  auch kompatibel mit iPhone XR '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XLNTPVQ/?tag=tolees0ca-21'
 descuento: '47.39'
 average: '19.673333333333332'

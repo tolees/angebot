@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Bose SoundLink Micro  tragbarer Outdoor - Lautsprecher   kabellose Bluetooth-Verbindung   Dunkelblau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0748NCPRR/?tag=tolees0ca-21'
 descuento: '29.15'
 average: '71.995'

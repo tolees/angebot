@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Sylvanian Families - 5214 - Affen: Familie Kletter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B010DJX5RC/?tag=tolees0ca-21'
 descuento: '19.12'
 average: '14.55'

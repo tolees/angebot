@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'GORE WEAR C3 Herren Fahrrad Kurzarmtrikot  M  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WCB8LQD/?tag=tolees0ca-21'
 descuento: '21.52'
 average: '54.9'

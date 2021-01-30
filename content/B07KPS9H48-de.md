@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Funko 36666 POP Bobble: Avengers Endgame: Ant-Man Sammelfiguren  Multi  Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KPS9H48/?tag=tolees0ca-21'
 descuento: '28.30'
 average: '12.073076923076924'

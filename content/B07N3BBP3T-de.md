@@ -16,6 +16,7 @@ comparePrice: 94.95 EUR
 prodname: 'ECCO Jungen URBAN Hiker Klassische Stiefel  Grau  Black/Titanium 52570   31 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07N3BBP3T/?tag=tolees0ca-21'
 descuento: '35.81'
 average: '60.95'

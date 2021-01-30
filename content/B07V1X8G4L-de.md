@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'ADATA SE800 - 1 TB  externe Solid-State-Drive mit USB 3.2 Gen.2 Typ-C  2.5 Zoll  blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07V1X8G4L/?tag=tolees0ca-21'
 descuento: '36.05'
 average: '126.56666666666668'

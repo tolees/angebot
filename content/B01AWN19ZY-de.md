@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Kitchen Craft LOVELLO Utensilienhalter  20 x 10 x 16 cm – schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01AWN19ZY/?tag=tolees0ca-21'
 descuento: '32.36'
 average: '15.55'

@@ -16,6 +16,7 @@ comparePrice: 110 EUR
 prodname: 'Levi s Herren Tapered Fit Jeans 502 Regular Taper  Blau  Creeping Thyme Adv 0412   W32/L30'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KF61ZJQ/?tag=tolees0ca-21'
 descuento: '64.68'
 average: '38.85'

@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'Badewannensitz - ausziehbar  150 kg Tragkraft  Aluminium  Kunststoff  55-70 x 18 x 26 cm  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00I49NDKI/?tag=tolees0ca-21'
 descuento: '32.74'
 average: '34.349999999999994'

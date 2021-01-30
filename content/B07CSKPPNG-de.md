@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Razer Base Station Chroma Headset Ständer  mit RGB und USB-Port  Rutschfeste Unterlage  Chroma RGB Beleuchtung  mit 3 USB Anschlüssen '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CSKPPNG/?tag=tolees0ca-21'
 descuento: '15.72'
 average: '58.99'

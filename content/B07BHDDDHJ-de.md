@@ -16,6 +16,7 @@ comparePrice: 899.0 EUR
 prodname: 'HUAWEI P20 Pro Smartphone  15 5 cm  6 1 Zoll   40/20/8 MP Leica Triple Kamera  128GB interner Speicher  6GB RAM  Android 8.1  EMUI 8.1  Twilight'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BHDDDHJ/?tag=tolees0ca-21'
 descuento: '41.46'
 average: '526.25'

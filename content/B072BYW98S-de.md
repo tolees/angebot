@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'POP Heroes: Justice League Movie - Wonder Woman'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072BYW98S/?tag=tolees0ca-21'
 descuento: '42.82'
 average: '8.0'

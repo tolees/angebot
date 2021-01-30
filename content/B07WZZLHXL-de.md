@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'KATOOM 8er Ringgrößenmesser Ringstock Ringgröße Messen Ermitteln Ringmesser mit 6 Verkleinern Ringeinlagen Ringdorn Ring Sizer Tool Größe Adjuster Messgerät Schmuckwerkzeuge Größenstandard UK USA'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WZZLHXL/?tag=tolees0ca-21'
 descuento: '50.17'
 average: '12.95'

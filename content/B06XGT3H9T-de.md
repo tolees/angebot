@@ -16,6 +16,7 @@ comparePrice: 9.49 EUR
 prodname: 'Funko 14330  ESO  Actionfigur The Elder Scrolls Online Morrowind: Naryu  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XGT3H9T/?tag=tolees0ca-21'
 descuento: '35.19'
 average: '6.15'

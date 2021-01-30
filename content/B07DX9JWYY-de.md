@@ -16,6 +16,7 @@ comparePrice: 11.9 EUR
 prodname: 'Just Cause 4 - Standard Edition - [PlayStation 4]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DX9JWYY/?tag=tolees0ca-21'
 descuento: '44.03'
 average: '10.153333333333334'

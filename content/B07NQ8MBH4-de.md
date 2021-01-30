@@ -16,6 +16,7 @@ comparePrice: 125.75 EUR
 prodname: 'Samsung Galaxy Buds SM-R170NZYADBT I Kabellose Kopfhörer Gelb I Bluetooth I In-Ear I Stereo-Sport Headphones'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NQ8MBH4/?tag=tolees0ca-21'
 descuento: '32.24'
 average: '85.21'

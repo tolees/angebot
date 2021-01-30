@@ -16,6 +16,7 @@ comparePrice: 13.48 EUR
 prodname: 'Funko 39524 POP Vinyl Johnny Cash Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NSMDZLB/?tag=tolees0ca-21'
 descuento: '40.65'
 average: '10.917499999999999'

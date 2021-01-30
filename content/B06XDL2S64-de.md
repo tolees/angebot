@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Hasbro Hanazuki B8256EU4 - MoodGleam Farben-elektronisches Armband'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XDL2S64/?tag=tolees0ca-21'
 descuento: '82.96'
 average: '4.655'

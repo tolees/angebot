@@ -16,6 +16,7 @@ comparePrice: 58.95 EUR
 prodname: 'Pontec Filter- und Bachlaufpumpe PondoMax Eco 1500'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007H5C3HE/?tag=tolees0ca-21'
 descuento: '35.56'
 average: '37.99'

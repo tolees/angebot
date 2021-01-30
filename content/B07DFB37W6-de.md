@@ -16,6 +16,7 @@ comparePrice: 13.19 EUR
 prodname: 'Funko POP 1 Piece Donquixote DOFLAMI'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFB37W6/?tag=tolees0ca-21'
 descuento: '21.00'
 average: '10.42'

@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'POP! Vinyl: Harry Potter: Harry Potter - Minerva McGonagall  Yule '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PX3QHKT/?tag=tolees0ca-21'
 descuento: '54.09'
 average: '9.150212765957447'

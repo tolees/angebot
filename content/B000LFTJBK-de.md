@@ -16,6 +16,7 @@ comparePrice: 9.53 EUR
 prodname: 'Silverline FIXMAN 633499 Trockenbau-Abstandhalter  100er-Pckg.'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000LFTJBK/?tag=tolees0ca-21'
 descuento: '47.64'
 average: '4.99'

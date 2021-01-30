@@ -16,6 +16,7 @@ comparePrice: 179.95 EUR
 prodname: 'Jack Wolfskin Herren Argon Storm Jacket M Wetterschutzjacke  moss  L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07R7CKKFL/?tag=tolees0ca-21'
 descuento: '50.04'
 average: '89.9'

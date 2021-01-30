@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Bluetooth Lautsprecher 5.0  Tronsmart T6 Mini 15W Tragbarer Lautsprecher mit 24-Stunden-Spielzeit  360° TWS Stereo Sound  IPX6 wasserdicht  Unterstützung für TF/Micro-SD-Karte  Sprachassistent  Alexa'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZGFJQJ6/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '25.231666666666666'

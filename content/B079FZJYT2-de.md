@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'CITIZEN Eco-Drive Herren Armbanduhr AW1570-87L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079FZJYT2/?tag=tolees0ca-21'
 descuento: '37.74'
 average: '99.0'

@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Mini PC  Lüfterlos Intel Atom X5-Z8350 Prozessor Quad-Core CPU 4 GB DDR / 64 GB eMMC Mini Desktop Computer mit Windows 10  HDMI- und VGA Anschluss  Dual Band WiFi 2 4+5.8 G  BT 4.1  USB 3.0'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PS1KVD1/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '121.32333333333334'

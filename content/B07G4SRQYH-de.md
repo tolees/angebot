@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Hugo Boss Damen Multi Zifferblatt Quarz Uhr mit Roségold Armband 1502443'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G4SRQYH/?tag=tolees0ca-21'
 descuento: '41.06'
 average: '176.22'

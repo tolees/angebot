@@ -16,6 +16,7 @@ comparePrice: 22.66 EUR
 prodname: 'Speedo Herren Badehose Essential Endurance Plus Schwimmhose  Black  7'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000MWVQK4/?tag=tolees0ca-21'
 descuento: '19.02'
 average: '18.35'

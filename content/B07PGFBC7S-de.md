@@ -16,6 +16,7 @@ comparePrice: 16.21 EUR
 prodname: 'Souarts Ring Damen Schmuck Silber Gold Rosegold Farbe Edelstahl mit Zirkon Strass Geschenk für Frauen  White  10 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PGFBC7S/?tag=tolees0ca-21'
 descuento: '99.94'
 average: '0.01'

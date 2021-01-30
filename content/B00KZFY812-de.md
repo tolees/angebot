@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Dragonball Z 3991 Dragonball No POP Vinylfigur Vegeta  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00KZFY812/?tag=tolees0ca-21'
 descuento: '24.63'
 average: '8.672352941176472'

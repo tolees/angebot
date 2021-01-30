@@ -16,6 +16,7 @@ comparePrice: 17.95 EUR
 prodname: 'Canon PGI-580 XL Tintenpatrone  PGBK Pigment Black'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0751MJW7R/?tag=tolees0ca-21'
 descuento: '26.07'
 average: '13.27'

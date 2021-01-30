@@ -16,6 +16,7 @@ comparePrice: 1099.0 EUR
 prodname: 'Hisense H55U7A 138 cm  55 Zoll  Fernseher  Ultra HD  HDR Plus  Triple Tuner  Smart TV  USB-Aufnahmefunktion '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BHRW374/?tag=tolees0ca-21'
 descuento: '68.15'
 average: '612.9766666666666'

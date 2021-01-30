@@ -16,6 +16,7 @@ comparePrice: 35.34 EUR
 prodname: 'OwlFay Mädchen Prinzessin ELSA Kleid Frozen Blaue Schneekönigin Kostüm für Kinder Cosplay Party Karneval Halloween Outfit 3-4 Jahre'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08255LQCG/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '17.67'

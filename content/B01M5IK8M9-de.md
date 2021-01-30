@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 13318 Actionfigur Stranger Things: Eleven mit Eggos  sortiertes Modell'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M5IK8M9/?tag=tolees0ca-21'
 descuento: '30.02'
 average: '8.639285714285714'

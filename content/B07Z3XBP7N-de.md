@@ -16,6 +16,7 @@ comparePrice: 60.99 EUR
 prodname: 'ESOLOM Bluetooth Adapter Audio 5.0 Bluetooth Transmitter Empfänger 2 in 1 LED Sender Receiver Anzeige aptX LL HD 600MAh für PC Kopfhörer TV Laptop Stereoanlage Lautsprecher TOSLINK/RCA/3 5 mm AUX'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Z3XBP7N/?tag=tolees0ca-21'
 descuento: '39.35'
 average: '36.99'

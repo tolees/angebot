@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'ONLY Female Skinny Fit Jeans ONLUltimate King reg S30Dark Blue Denim'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00IWNCKHS/?tag=tolees0ca-21'
 descuento: '26.49'
 average: '25.69'

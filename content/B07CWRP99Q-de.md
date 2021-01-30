@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Kodak 32 GB Class 10 Microsd-Speicherkarte mit SD-Adapter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CWRP99Q/?tag=tolees0ca-21'
 descuento: '50.42'
 average: '6.44'

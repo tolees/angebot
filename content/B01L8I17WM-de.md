@@ -16,6 +16,7 @@ comparePrice: 12.66 EUR
 prodname: 'Supernatural - Staffel 10 [6 DVDs]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01L8I17WM/?tag=tolees0ca-21'
 descuento: '23.06'
 average: '9.74'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'BRIKSMAX Led Beleuchtungsset für Lego Star Wars X-Wing Starfighter  Kompatibel Mit Lego 75218 Bausteinen Modell - Ohne Lego Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RY91JR5/?tag=tolees0ca-21'
 descuento: '37.51'
 average: '24.99'

@@ -16,6 +16,7 @@ comparePrice: 759.0 EUR
 prodname: 'Samsung T835 Galaxy Tab S4 LTE Tablet-PC  4GB RAM  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G3DHY8C/?tag=tolees0ca-21'
 descuento: '58.23'
 average: '403.5'

@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Sony MDR-XB550AP Kopfhörer  Extrabass  Mikrofon '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MT5JFHZ/?tag=tolees0ca-21'
 descuento: '42.61'
 average: '28.64'

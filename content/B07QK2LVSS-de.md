@@ -16,6 +16,7 @@ comparePrice: 3.6 EUR
 prodname: 'Pentel BL77TLE-AX EnerGel Pure Gel-Tintenroller mit Druckmechanik  0 7 mm Kugeldurchmesser = 0 35 mm Strichstärke  nachfüllbar  1 Stück  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QK2LVSS/?tag=tolees0ca-21'
 descuento: '36.94'
 average: '2.2994736842105263'

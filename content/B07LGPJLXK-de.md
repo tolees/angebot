@@ -16,6 +16,7 @@ comparePrice: 174.99 EUR
 prodname: 'Smoby – Pretty Haus - Spielhaus für Kinder für drinnen und draußen  mit Küche und Küchenspielzeug  17 teilig   Gartenhaus für Jungen und Mädchen ab 2 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07LGPJLXK/?tag=tolees0ca-21'
 descuento: '28.60'
 average: '136.23166666666668'

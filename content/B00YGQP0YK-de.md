@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Westmark Bratensaft-/Marinier-Spritze mit abnehmbarer Nadel  Länge: 22 5 cm  Mit Skala bis 1 5 oz/50 ml  Kunststoff/Rostfreier Edelstahl  Transparent/Schwarz  61422280'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00YGQP0YK/?tag=tolees0ca-21'
 descuento: '15.47'
 average: '10.98'

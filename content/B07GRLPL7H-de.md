@@ -16,6 +16,7 @@ comparePrice: 12.18 EUR
 prodname: 'Gundermann'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GRLPL7H/?tag=tolees0ca-21'
 descuento: '37.03'
 average: '7.67'

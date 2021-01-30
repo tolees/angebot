@@ -16,6 +16,7 @@ comparePrice: 10.9 EUR
 prodname: 'Motorola Handy Akku Original kompatible Mobiltelefone'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00I1XS3WK/?tag=tolees0ca-21'
 descuento: '45.05'
 average: '5.99'

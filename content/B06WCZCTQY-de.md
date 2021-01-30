@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Playmobil 9249 - Eret mit 4-Schuss-Feuer-Balliste'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06WCZCTQY/?tag=tolees0ca-21'
 descuento: '50.08'
 average: '10.094444444444445'

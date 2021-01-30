@@ -16,6 +16,7 @@ comparePrice: 58.31 EUR
 prodname: 'Bosch Professional Baustativ BT 150  55-157 cm  1 5 kg  Stativ-Gewinde 1/4 Zoll '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00OBBUBSU/?tag=tolees0ca-21'
 descuento: '54.91'
 average: '26.29'

@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'GORE Wear M Unisex Stretch Handschuhe GORE-TEX INFINIUM  10  Neon-Gelb/Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07F85XJ9Z/?tag=tolees0ca-21'
 descuento: '32.21'
 average: '30.47'

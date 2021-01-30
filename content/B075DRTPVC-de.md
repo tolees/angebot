@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'LionSteel M4 Santos Taschenmesser Braun  Klingenlänge: 9 5 cm  02LS031'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075DRTPVC/?tag=tolees0ca-21'
 descuento: '15.17'
 average: '135.68'

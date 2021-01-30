@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'LIGHTAILING Licht-Set Für  Technic Chevrolet Corvette ZR1  Modell - LED Licht-Set Kompatibel Mit Lego 42093 Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TF7PNFM/?tag=tolees0ca-21'
 descuento: '56.26'
 average: '34.99'

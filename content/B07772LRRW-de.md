@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Tommy Jeans Herren Original Jersey Kurzarm  T-Shirt Schwarz  TOMMY Black 078  Large'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07772LRRW/?tag=tolees0ca-21'
 descuento: '19.88'
 average: '19.95'

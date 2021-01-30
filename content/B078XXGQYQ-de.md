@@ -16,6 +16,7 @@ comparePrice: 515.97 EUR
 prodname: 'Briggs & Stratton Tragbarer Benzin-Inverter-Generator der PowerSmart-Serie P2200 mit 2200 Watt/1700 Watt sauberem Strom  ultraleise und leichtgewichtig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B078XXGQYQ/?tag=tolees0ca-21'
 descuento: '20.93'
 average: '408.0'

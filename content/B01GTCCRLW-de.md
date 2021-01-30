@@ -16,6 +16,7 @@ comparePrice: 21.41 EUR
 prodname: 'flexi New NEON S Gurt 5 m schwarz für Hunde bis 15 kg'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01GTCCRLW/?tag=tolees0ca-21'
 descuento: '42.41'
 average: '12.33'

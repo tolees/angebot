@@ -16,6 +16,7 @@ comparePrice: 369.0 EUR
 prodname: 'Diesel Smartwatch DZT2014'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XLTV71Y/?tag=tolees0ca-21'
 descuento: '40.57'
 average: '219.3'

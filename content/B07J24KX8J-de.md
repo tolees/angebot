@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Nickelodeon Kart Racers Xbox One'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07J24KX8J/?tag=tolees0ca-21'
 descuento: '21.06'
 average: '29.99'

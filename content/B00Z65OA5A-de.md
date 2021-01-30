@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Kitchen Craft 25 5 cm  Living Nostalgia innen Wall Clock  Antique Cream'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00Z65OA5A/?tag=tolees0ca-21'
 descuento: '45.42'
 average: '21.28'

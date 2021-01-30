@@ -16,6 +16,7 @@ comparePrice: 16.52 EUR
 prodname: 'Asmodee CGED0036 - Codenames Duett  Familienspiel  deutsch'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076ZGN9NS/?tag=tolees0ca-21'
 descuento: '23.79'
 average: '12.59'

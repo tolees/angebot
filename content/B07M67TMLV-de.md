@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Ondis24 Regal  Lagerregal  71 x 35 x 180  H  cm  Steckregal  Kunststoffregal  15 Zoll Schwerlastregal  bis zu 180 kg belastbar'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07M67TMLV/?tag=tolees0ca-21'
 descuento: '19.88'
 average: '19.99'

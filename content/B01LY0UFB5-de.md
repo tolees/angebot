@@ -16,6 +16,7 @@ comparePrice: 5.0 EUR
 prodname: 'The Accountant'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LY0UFB5/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '4.0'

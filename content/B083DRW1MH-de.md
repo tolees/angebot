@@ -16,6 +16,7 @@ comparePrice: 76.11 EUR
 prodname: 'TuToy Herren Sicherheit Stahlkappe Rutschfeste Reißverschlussstiefel Wasserdichte Arbeitsschuhe Für Das Schweißen Im Freien - 41'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083DRW1MH/?tag=tolees0ca-21'
 descuento: '16.02'
 average: '63.92'

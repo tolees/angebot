@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'SID & VAIN Laptop Messenger Bag echt Leder Spencer XL groß Businesstasche 15" Laptoptasche Umhängetasche Laptopfach Ledertasche Herren braun'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07N2XSSDM/?tag=tolees0ca-21'
 descuento: '28.13'
 average: '99.9'

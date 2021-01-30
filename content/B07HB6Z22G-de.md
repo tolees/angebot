@@ -16,6 +16,7 @@ comparePrice: 169.9 EUR
 prodname: 'V-Kids Watch by Vodafone - Smartwatch mit GPS-Tracker und SOS-Alarmknopf  blau + 3 Monate Service Gutschein  kostenfreies Datenpaket '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HB6Z22G/?tag=tolees0ca-21'
 descuento: '53.44'
 average: '72.70333333333333'

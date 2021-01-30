@@ -16,6 +16,7 @@ comparePrice: 999.0 EUR
 prodname: 'HP ENVY x360 13-ar0210ng  13 3 Zoll / Full HD IPS Touch  Convertible Notebook  AMD Ryzen 7 3700U  16GB DDR4 RAM  512GB SSD  AMD Radeon RX Vega 10  Windows 10 Home  FPR IR camera  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SRXGBPH/?tag=tolees0ca-21'
 descuento: '59.96'
 average: '400.0'

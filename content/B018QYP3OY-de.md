@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Xoro HRK 7660 HD Receiver für digitales Kabelfernsehen  HDMI  SCART  USB 2.0  LAN  PVR Ready  Mediaplayer  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B018QYP3OY/?tag=tolees0ca-21'
 descuento: '46.20'
 average: '26.9'

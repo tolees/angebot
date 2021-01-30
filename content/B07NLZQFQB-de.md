@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Fila Herren Disruptor Low Sneaker  Schwarz  Black 1010262-12v   44 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NLZQFQB/?tag=tolees0ca-21'
 descuento: '49.48'
 average: '50.49'

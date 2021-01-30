@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'LED Einbaustrahler Dimmbar Schwenkbar Ultra Flach 5er Set 5W LED Modul IP44 230 Volt 550lm Warmweiss Einbauleuchten für Bad  Küche  Wohnzimmer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07X5RQBN6/?tag=tolees0ca-21'
 descuento: '38.34'
 average: '36.99'

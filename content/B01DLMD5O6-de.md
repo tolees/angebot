@@ -16,6 +16,7 @@ comparePrice: 329.0 EUR
 prodname: 'Sony SEL-50F18F Standard Objektiv  Festbrennweite  50 mm  F1.8  Vollformat  geeignet für A7  A6000  A5100  A5000 und Nex Serien  E-Mount  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B01DLMD5O6/?tag=tolees0ca-21'
 descuento: '44.99'
 average: '177.353120000002'
@@ -27,10 +28,10 @@ Es gibt ein [Sony SEL-50F18F Standard Objektiv  Festbrennweite  50 mm  F1.8  Vol
 
 ℹ️:
 
-- Exzentelle Bildqualität durch ein optisches Design mit einem asphärischen Element
 - Für Vollformat E-Mount Kameras, kompakt, leicht und handlich
 - Lieferumfang: Sony SEL50F18F.SYX E-Mount Vollformat Objektiv
-- Brennweite: 50 mm (entspricht APS-C: 75 mm), Blende: F1.8 (kleinste Blende: F22)
+- Exzentelle Bildqualität durch ein optisches Design mit einem asphärischen Element
 - Wunderschöne Bokeh-Effekte mit maximaler Lichtstärke von F1.8; Längere Lebensdauer mit dem robusten Metallgehäuse
+- Brennweite: 50 mm (entspricht APS-C: 75 mm), Blende: F1.8 (kleinste Blende: F22)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01DLMD5O6/?tag=tolees0ca-21)

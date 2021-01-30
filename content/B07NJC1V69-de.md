@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Playmobil 70054 Löscheinsatz Feuerwehr Feuerwehrfahrzeug mit Löschboot  Mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NJC1V69/?tag=tolees0ca-21'
 descuento: '30.81'
 average: '35.0611320754717'

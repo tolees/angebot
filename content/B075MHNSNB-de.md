@@ -16,6 +16,7 @@ comparePrice: 23.97 EUR
 prodname: 'Das fünfte Element  Remastered 2017  – Mediabook  exklusiv bei Amazon.de  [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075MHNSNB/?tag=tolees0ca-21'
 descuento: '58.41'
 average: '9.97'

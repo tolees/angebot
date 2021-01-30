@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Grundig GRB 2000 Tragbare Radio Boombox travertin/silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077CX2SR1/?tag=tolees0ca-21'
 descuento: '53.63'
 average: '45.91'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Panama Jack Damen Julia Clay Riemchensandalen  Braun  Cuero B1   40 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01NB0OH3N/?tag=tolees0ca-21'
 descuento: '47.88'
 average: '51.6'

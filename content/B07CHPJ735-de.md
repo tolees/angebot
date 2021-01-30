@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Fnatic Streak Pro Gaming mechanische E-Sports Tastatur  Cherry MX Brown-Tasten  Multi-Color RGB Beleuchtung  Ergonomische Handgelenkstütze  Programmierbar  DE-Layout'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CHPJ735/?tag=tolees0ca-21'
 descuento: '42.31'
 average: '74.99'

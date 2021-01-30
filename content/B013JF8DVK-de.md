@@ -16,6 +16,7 @@ comparePrice: 3.29 EUR
 prodname: 'Kitekat Katzenfutter Nassfutter Klassische Auswahl in Sauce  12 Portionsbeutel  12 x 100g '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B013JF8DVK/?tag=tolees0ca-21'
 descuento: '18.24'
 average: '2.69'

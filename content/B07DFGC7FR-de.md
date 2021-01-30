@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Funko 34618 Game of Thrones: Bran Stark POP Vinylfigur  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFGC7FR/?tag=tolees0ca-21'
 descuento: '26.29'
 average: '11.21'

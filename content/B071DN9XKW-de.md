@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'Pioneer 5.1 Kanal AV Receiver  VSX-832-S  Hifi Verstärker 130 Watt/Kanal  Multiroom  WLAN  Bluetooth  Hi-Res Audio  Dolby TrueHD-DTS:X  Musik Apps  Spotify  Deezer u.a.   Internetradio  Silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071DN9XKW/?tag=tolees0ca-21'
 descuento: '40.90'
 average: '294.9'

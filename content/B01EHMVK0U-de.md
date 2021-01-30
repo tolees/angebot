@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Remonte R2277 Damen Langschaft Stiefel  braun  chestnut/24   39'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01EHMVK0U/?tag=tolees0ca-21'
 descuento: '28.35'
 average: '89.56'

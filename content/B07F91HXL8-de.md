@@ -16,6 +16,7 @@ comparePrice: 929 EUR
 prodname: 'MSI PS42 8RB-073 Prestige Ultra Slim - Intel i7-8550U 1 80GHz  Win 10 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07F91HXL8/?tag=tolees0ca-21'
 descuento: '50.48'
 average: '460'

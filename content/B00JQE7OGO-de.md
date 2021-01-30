@@ -16,6 +16,7 @@ comparePrice: 72.0 EUR
 prodname: 'Makita DDF453Z Akku-Bohrschrauber  18 V  Blau  Silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00JQE7OGO/?tag=tolees0ca-21'
 descuento: '25.63'
 average: '53.55'

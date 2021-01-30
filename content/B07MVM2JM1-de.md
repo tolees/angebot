@@ -16,6 +16,7 @@ comparePrice: 170 EUR
 prodname: 'super.natural Bequemer Herren Pullover  Mit Merinowolle  M KNIT SWEATER'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MVM2JM1/?tag=tolees0ca-21'
 descuento: '50.59'
 average: '84'

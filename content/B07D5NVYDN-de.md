@@ -16,6 +16,7 @@ comparePrice: 699.0 EUR
 prodname: 'KitchenAid Küchenmaschine Artisan 4 8L Onyx Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07D5NVYDN/?tag=tolees0ca-21'
 descuento: '25.68'
 average: '516.995'

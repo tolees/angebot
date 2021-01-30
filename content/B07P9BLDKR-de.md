@@ -16,6 +16,7 @@ comparePrice: 97.47 EUR
 prodname: 'Amazon Echo  3. Generation   smarter Lautsprecher mit Alexa  Sandstein Stoff'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P9BLDKR/?tag=tolees0ca-21'
 descuento: '45.01'
 average: '53.6'

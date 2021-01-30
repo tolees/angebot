@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Sylvanian Families 5034 - Badezimmer-Set  Puppenzubehör'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01M3UYCM7/?tag=tolees0ca-21'
 descuento: '17.31'
 average: '24.618000000000002'

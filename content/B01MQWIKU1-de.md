@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Sex Gutscheine mit verschiedenen Stellungen für Paare  für sie & ihn  Liebesgutscheine/Sexy Love Coupons für Freund & Freundin  Männer & Frauen - Lustige Witzige Geschenke/Valentinstag Geschenk'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MQWIKU1/?tag=tolees0ca-21'
 descuento: '30.79'
 average: '8.99'

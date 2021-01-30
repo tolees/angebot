@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Playmobil - Privatjet'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GTP6BNM/?tag=tolees0ca-21'
 descuento: '42.58'
 average: '18.225'

@@ -16,6 +16,7 @@ comparePrice: 1.65 EUR
 prodname: 'Barilla Pasta Gemelli n. 90  500g'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B082VPST91/?tag=tolees0ca-21'
 descuento: '40.00'
 average: '0.99'

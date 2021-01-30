@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko Pop Marvel: Avengers Infinity War - Thanos Collectible Figur'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079PQ7T6B/?tag=tolees0ca-21'
 descuento: '52.32'
 average: '7.31952380952381'

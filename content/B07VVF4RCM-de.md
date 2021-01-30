@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Control Deluxe Edition - Future Pack - [PlayStation 4]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VVF4RCM/?tag=tolees0ca-21'
 descuento: '31.43'
 average: '47.99'

@@ -16,6 +16,7 @@ comparePrice: 8.64 EUR
 prodname: 'Funko 33923 Squarepants: Spongebob Xmas POP Vinylfigur  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFB37XB/?tag=tolees0ca-21'
 descuento: '56.48'
 average: '3.76'

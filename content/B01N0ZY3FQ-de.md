@@ -16,6 +16,7 @@ comparePrice: 76.95 EUR
 prodname: 'Anita Active Damen Air Control Deltapad Sport-BH  Weiß  Weiß 006   80C'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N0ZY3FQ/?tag=tolees0ca-21'
 descuento: '29.32'
 average: '54.39'

@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Sloggi Zero Feel Bralette EX BH Damen  Rot  Bordeaux 3407   L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07LFYDWJ1/?tag=tolees0ca-21'
 descuento: '34.99'
 average: '22.72'

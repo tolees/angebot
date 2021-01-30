@@ -16,6 +16,7 @@ comparePrice: 969.0 EUR
 prodname: 'Apple iPhone 11  256 GB  - Gelb'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XL97CPD/?tag=tolees0ca-21'
 descuento: '17.54'
 average: '853.495'

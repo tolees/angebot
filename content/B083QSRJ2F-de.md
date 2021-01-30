@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Lenovo Tab M10 FHD Plus 26 2 cm  10 3 Zoll  1920x1200  FHD  IPS  Touch  Tablet-PC  Octa-Core  4 GB RAM  64 GB eMCP  WLAN  Android 9  grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B083QSRJ2F/?tag=tolees0ca-21'
 descuento: '16.60'
 average: '190.99'

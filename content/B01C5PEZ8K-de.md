@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Tchibo Cafissimo Pure Kaffee Kapselmaschine  Rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01C5PEZ8K/?tag=tolees0ca-21'
 descuento: '37.97'
 average: '48.99882352941177'

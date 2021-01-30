@@ -16,6 +16,7 @@ comparePrice: 399.95 EUR
 prodname: 'Bose SoundTouch 20 Series III wireless music system'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B081B1T7VP/?tag=tolees0ca-21'
 descuento: '50.24'
 average: '199'

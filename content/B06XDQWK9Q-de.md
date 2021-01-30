@@ -16,6 +16,7 @@ comparePrice: 8.18 EUR
 prodname: 'Coma Ecliptic Live'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XDQWK9Q/?tag=tolees0ca-21'
 descuento: '29.95'
 average: '6.71'

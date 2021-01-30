@@ -16,6 +16,7 @@ comparePrice: 269.99 EUR
 prodname: 'Philips Sonicare Elektrische Zahnbürste und Munddusche HX8491/03  Diamond Clean Zahnbürste  AirFloss Ultra für die Zahnzwischenraumreinigung  Ladeglas und USB  Ladegerät  Zahnpflege Set in schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XPG4SRX/?tag=tolees0ca-21'
 descuento: '29.67'
 average: '189.88'

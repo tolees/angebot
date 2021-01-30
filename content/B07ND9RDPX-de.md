@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'bugatti Herren 311822021400 Derbys  Schwarz  41 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ND9RDPX/?tag=tolees0ca-21'
 descuento: '29.97'
 average: '55.99'

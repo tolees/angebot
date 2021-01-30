@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Urban Classics Ladies Tech Mesh Leggings  Schwarz  black 7   M'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01BD2CIG2/?tag=tolees0ca-21'
 descuento: '22.01'
 average: '15.52'

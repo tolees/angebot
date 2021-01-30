@@ -16,6 +16,7 @@ comparePrice: 8.0 EUR
 prodname: 'Funko 34460 Riverdale: Reggie in Football Uniform POP Vinylfigur  Multi  Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFDQLMX/?tag=tolees0ca-21'
 descuento: '46.38'
 average: '4.34'

@@ -16,6 +16,7 @@ comparePrice: 45.95 EUR
 prodname: 'Zeller Kinder-Regal mit Vlies Box Safari  MDF  Dekor  23.5 x 30 x 65 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000OWNBMI/?tag=tolees0ca-21'
 descuento: '30.38'
 average: '31.99'

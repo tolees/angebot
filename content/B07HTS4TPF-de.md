@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Calvin Klein Damen Bikini 3PK Panties  Schwarz  Black 001   M'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HTS4TPF/?tag=tolees0ca-21'
 descuento: '26.81'
 average: '34.284'

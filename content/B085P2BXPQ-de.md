@@ -16,6 +16,7 @@ comparePrice: 639.0 EUR
 prodname: 'LG UltraHD 4K LED HDR 3940 x 2160  Radeon FreeSync  HDMI  Display Port 4K HDR 10  32"  Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B085P2BXPQ/?tag=tolees0ca-21'
 descuento: '45.24'
 average: '349.9'

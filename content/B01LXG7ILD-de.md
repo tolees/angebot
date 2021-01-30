@@ -16,6 +16,7 @@ comparePrice: 105.0 EUR
 prodname: 'Siemens LZ10AFA00 Aktivkohlefilter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LXG7ILD/?tag=tolees0ca-21'
 descuento: '22.00'
 average: '81.9'

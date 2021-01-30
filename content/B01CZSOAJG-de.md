@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Jim Beam Double Oak Bourbon Whiskey  1 x 0.7 l '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01CZSOAJG/?tag=tolees0ca-21'
 descuento: '33.72'
 average: '15.9'

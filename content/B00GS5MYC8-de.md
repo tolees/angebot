@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Bosch Rasenmäher ARM 34  Grasfangbox  Karton  1300 W  Schnitthöhe 20-70 mm  Schnittbreite 34 cm  11 kg '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00GS5MYC8/?tag=tolees0ca-21'
 descuento: '49.41'
 average: '85.99'

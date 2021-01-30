@@ -16,6 +16,7 @@ comparePrice: 4.01 EUR
 prodname: 'Jung Abdeckung CD561SATWW für SAT-TV-Steckdose'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000UW7X8K/?tag=tolees0ca-21'
 descuento: '27.93'
 average: '2.89'

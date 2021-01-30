@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA Damen Vikky v2 Sneaker  Grau  Silver Gray-White Silver   40 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DBYR4WZ/?tag=tolees0ca-21'
 descuento: '45.30'
 average: '30.06'

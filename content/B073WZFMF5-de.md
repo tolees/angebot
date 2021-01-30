@@ -16,6 +16,7 @@ comparePrice: 329.0 EUR
 prodname: 'Emporio Armani Herren Chronograph Quarz Smart Watch Armbanduhr mit Edelstahl Armband ART3007'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B073WZFMF5/?tag=tolees0ca-21'
 descuento: '43.24'
 average: '186.75'

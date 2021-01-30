@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Philips HF3651/01 Sleep und Wake-up Light  Einschlafhilfe  Natürlich aufwachen  Sonnenauf- und untergangssimulation  Nachtlicht  Entspannungsübung '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B074TP48WY/?tag=tolees0ca-21'
 descuento: '45.50'
 average: '108.99'

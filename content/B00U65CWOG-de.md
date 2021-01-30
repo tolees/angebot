@@ -16,6 +16,7 @@ comparePrice: 77.97 EUR
 prodname: 'Russell Hobbs Multicooker 5 0l  digitales Display + Timer   11 Kochprogramme  Schongarer  Dampfgarer  Slow Cooker  Reiskocher  Joghurtbereiter etc.   Anti-Kondensations-Deckel  Cook@Home 21850-56'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00U65CWOG/?tag=tolees0ca-21'
 descuento: '25.63'
 average: '57.623333333333335'

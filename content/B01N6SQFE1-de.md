@@ -16,6 +16,7 @@ comparePrice: 15.45 EUR
 prodname: 'Fire Emblem Echoes: Shadows of Valentia [3DS]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N6SQFE1/?tag=tolees0ca-21'
 descuento: '35.34'
 average: '9.99'

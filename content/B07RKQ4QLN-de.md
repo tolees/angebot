@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Dragon Touch Action Cam 4K /unterwasserkamera 16MP WiFi Sports Kamera wasserdicht Kamera 30M 170° Touch Bildschirm Weitwinkel Fernbedienung mit 2 Batterien Vision 3 Pro'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07RKQ4QLN/?tag=tolees0ca-21'
 descuento: '55.74'
 average: '26.55'

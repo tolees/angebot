@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Funko POP! Vinyl Rocks: Iggy Pop - Iggy  Mehrfarben  Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QGWY9F7/?tag=tolees0ca-21'
 descuento: '31.25'
 average: '9.680000000000001'

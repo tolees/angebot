@@ -16,6 +16,7 @@ comparePrice: 454.0 EUR
 prodname: 'Huawei P30 128GB Handy  hellblau/Lavendel  Breathing Crystal  Android 9.0  Pie '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NLRHK6M/?tag=tolees0ca-21'
 descuento: '36.15'
 average: '289.9'

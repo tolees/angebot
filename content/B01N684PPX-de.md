@@ -16,6 +16,7 @@ comparePrice: 537.0 EUR
 prodname: 'Haier HRF-521DS6 Side-by-Side / A+ / 179 cm Höhe / 435 kWh/Jahr / 341 L Kühlteil / 177 L Gefrierteil / No Frost / Tür Display / Silber [Energieklasse A+]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N684PPX/?tag=tolees0ca-21'
 descuento: '38.65'
 average: '329.47'

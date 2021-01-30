@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'JOYXEON Gummibänder Rund 120 pcs 6mm x 103mm  Gummikordel Nähen  Gummilitze Gummiband zum Basteln  Hochwertige Elastikkordel  für DIY Hutgummi Ärmel Kordeltasche  Handwerk'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08GC1QJX4/?tag=tolees0ca-21'
 descuento: '16.68'
 average: '9.99'

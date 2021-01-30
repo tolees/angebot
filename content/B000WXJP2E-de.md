@@ -16,6 +16,7 @@ comparePrice: 21.97 EUR
 prodname: 'Auf dem Kreuzzug Ins Glück  Deluxe-Edition mit Bonus-Tracks '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000WXJP2E/?tag=tolees0ca-21'
 descuento: '24.17'
 average: '16.66'

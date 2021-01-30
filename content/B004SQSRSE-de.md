@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Zassenhaus  Stirnholz  Braun  45 x 30 x 4 5 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004SQSRSE/?tag=tolees0ca-21'
 descuento: '41.48'
 average: '29.23'

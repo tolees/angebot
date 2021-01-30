@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Lamy 1226061 al-star Füllhalter Aluminium Feder M  blaugrün'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00I5G76UI/?tag=tolees0ca-21'
 descuento: '24.54'
 average: '18.79'

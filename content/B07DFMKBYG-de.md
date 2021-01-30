@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Seiko Herren Analog Automatik Uhr mit Edelstahl Armband SRPC57K1'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFMKBYG/?tag=tolees0ca-21'
 descuento: '30.86'
 average: '206.74'

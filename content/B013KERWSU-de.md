@@ -16,6 +16,7 @@ comparePrice: 4.49 EUR
 prodname: 'Unbekannt Creative Converting 5 Dizzy Danglers  Sortiert mit Aussparungen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B013KERWSU/?tag=tolees0ca-21'
 descuento: '67.71'
 average: '1.45'

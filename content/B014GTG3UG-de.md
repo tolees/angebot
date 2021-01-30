@@ -16,6 +16,7 @@ comparePrice: 169.9 EUR
 prodname: 'Devolo dLAN pro 1200 DINrail Powerline Hutschienenadapter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B014GTG3UG/?tag=tolees0ca-21'
 descuento: '29.43'
 average: '119.9'

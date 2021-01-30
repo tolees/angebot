@@ -16,6 +16,7 @@ comparePrice: 1.82 EUR
 prodname: 'LloydBP Displayport zum HDMI-Adapterkabel Mini-Dp zum HDMI-Kabel Mini-Displayport zum HDMI-Computer  der an den Fernseher angeschlossen ist - Weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B082SDNDVC/?tag=tolees0ca-21'
 descuento: '33.52'
 average: '1.21'

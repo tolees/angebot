@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Arbily Bluetooth Kopfhörer 【2020 Neuestes Modell】 Kabellose Kopfhörer Sportkopfhörer Wireless Kopfhörer mit Premium Klangprofil  Trennbare/Automatische Koppelung / 60 Stunden Spielzeit'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XBR2W3N/?tag=tolees0ca-21'
 descuento: '30.01'
 average: '41.99'

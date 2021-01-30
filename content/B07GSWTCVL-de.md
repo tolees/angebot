@@ -16,6 +16,7 @@ comparePrice: 1798.63 EUR
 prodname: 'DJI Mavic 2 Pro Fly More Combo  Drohne mit Hasselblad HDR Video Kamera und Zubehör-Kit'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GSWTCVL/?tag=tolees0ca-21'
 descuento: '47.18'
 average: '950.0'

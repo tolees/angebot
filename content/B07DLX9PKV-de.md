@@ -16,6 +16,7 @@ comparePrice: 309.0 EUR
 prodname: 'SAMSONITE PRO-DLX 5 - Rolling Tote for 15.6" Laptop - 3.1 KG Reise-Henkeltasche  Magnetic Grey'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DLX9PKV/?tag=tolees0ca-21'
 descuento: '27.75'
 average: '223.25'

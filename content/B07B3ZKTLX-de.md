@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'PLAYMOBIL Christmas 9493 Weihnachtsbäckerei mit Plätzchenformen  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B3ZKTLX/?tag=tolees0ca-21'
 descuento: '56.50'
 average: '20.25'

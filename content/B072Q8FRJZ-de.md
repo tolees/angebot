@@ -16,6 +16,7 @@ comparePrice: 699.95 EUR
 prodname: 'Lenovo V340-17IWL - Intel CORE i5 - 500GB SSD - 8GB DDR4-RAM - CD/DVD Brenner - Windows 10 PRO - 44cm  17.3" LED TFT  Display MATT'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072Q8FRJZ/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '350.0'

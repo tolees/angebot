@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'HUDORA 14724 BigWheel 205-Das Original mit RX Pro Technologie-Tret-Roller klappbar-City-Scooter  schwarz/rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001OC6D3Q/?tag=tolees0ca-21'
 descuento: '31.98'
 average: '61.989999999999995'

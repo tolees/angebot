@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'GANT Herren Pullover 83072  Gr. Medium  Grau  NAVY 405 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004E9U2MY/?tag=tolees0ca-21'
 descuento: '53.01'
 average: '46.99'

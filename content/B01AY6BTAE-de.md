@@ -16,6 +16,7 @@ comparePrice: 169.95 EUR
 prodname: 'UGG Female Classic Mini II Classic Boot  Black  4  UK '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01AY6BTAE/?tag=tolees0ca-21'
 descuento: '50.01'
 average: '84.95'

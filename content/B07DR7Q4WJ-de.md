@@ -16,6 +16,7 @@ comparePrice: 62.99 EUR
 prodname: 'TaoTronics Stehlampe LED Dimmbar 12W Stehleuchte für Wohnzimmer Schlafzimmer  Hohe 30.000 Stunden Lebensdauer  5 Helligkeitsstufen  3 Farbtemperaturen  Touch-Bedienung  Flexibler Schwanenhals  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DR7Q4WJ/?tag=tolees0ca-21'
 descuento: '20.64'
 average: '49.99'

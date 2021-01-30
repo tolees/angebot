@@ -16,6 +16,7 @@ comparePrice: 492.99 EUR
 prodname: 'Hisense RB400N4EG3 Kühl-Gefrier-Kombination/A+++/No-Frost/Invertermotor/Türanschlag rechts  wechselbar'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071F15VDR/?tag=tolees0ca-21'
 descuento: '42.54'
 average: '283.25'

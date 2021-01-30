@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Gordon & Bros Herren Levet Derby  Braun  tan   42 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004WL9MVG/?tag=tolees0ca-21'
 descuento: '31.31'
 average: '82.43'

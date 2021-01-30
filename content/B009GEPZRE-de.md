@@ -16,6 +16,7 @@ comparePrice: 5.0 EUR
 prodname: '1602 16x2 Zeichen LCD Display Modul HD44780 blau mit Backlight für Arduino'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B009GEPZRE/?tag=tolees0ca-21'
 descuento: '76.20'
 average: '2.99'

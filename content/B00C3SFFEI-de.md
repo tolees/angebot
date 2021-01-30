@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Ravensburger 26601 Scotland Yard Strategiespiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00C3SFFEI/?tag=tolees0ca-21'
 descuento: '47.41'
 average: '20.482499999999998'

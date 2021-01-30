@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'EPOCH Traumwiesen 5033 Sylvanian Families  Esszimmer-Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HRRCX7C/?tag=tolees0ca-21'
 descuento: '19.31'
 average: '24.405714285714286'

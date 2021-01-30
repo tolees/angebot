@@ -16,6 +16,7 @@ comparePrice: 55.94 EUR
 prodname: 'Samsung Clear View Cover EF-ZG991 für Galaxy S21 5G  Black'
 country: 'de'
 flag: '🇩🇪'
+brand: 'Samsung'
 buyurl: 'https://www.amazon.de/dp/B08PPTBRWN/?tag=tolees0ca-21'
 descuento: '26.51'
 average: '41.0816666666667'

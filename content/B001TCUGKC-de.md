@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Samsung GT-B2100 Outdoor Handy  1 3 MP-Kamera  MP3  IP57-Zertifizierung  wasserdicht  scarlet-red'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001TCUGKC/?tag=tolees0ca-21'
 descuento: '25.01'
 average: '149.97'

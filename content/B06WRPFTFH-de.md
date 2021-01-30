@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Swarovski Sparkling Dance Round Halskette für Frauen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06WRPFTFH/?tag=tolees0ca-21'
 descuento: '33.48'
 average: '65.85'

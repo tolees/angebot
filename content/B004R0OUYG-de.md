@@ -16,6 +16,7 @@ comparePrice: 230.0 EUR
 prodname: 'Spyderco Messer Para-Military 2 Black G-10 Plain  schwarz  One Size'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004R0OUYG/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '182.64999999999998'

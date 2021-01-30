@@ -16,6 +16,7 @@ comparePrice: 1984.0 EUR
 prodname: 'Siemens EX845LYC1E iQ700 Kochfeld Elektro / Ceran/Glaskeramik / 79 5 cm / Power Boost Funktion / schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B017IZGIR8/?tag=tolees0ca-21'
 descuento: '58.22'
 average: '842.336'

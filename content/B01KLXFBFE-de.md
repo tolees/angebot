@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Remington Haarglätter PROluxe S9100  OPTIheat-Technologie und Ultimate-Glide-Keramikbeschichtung  rose gold'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01KLXFBFE/?tag=tolees0ca-21'
 descuento: '49.04'
 average: '45.86'

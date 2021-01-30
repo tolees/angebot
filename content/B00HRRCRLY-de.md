@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Sylvanian Families - 5027 - Waschmaschinen-Set'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HRRCRLY/?tag=tolees0ca-21'
 descuento: '26.33'
 average: '8.024249999999999'

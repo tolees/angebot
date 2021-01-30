@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Xoro SAT>IP Server 8100  4X DVB-S2 Eingänge  maximal 8 Ausgänge  HDTV  Gigabit LAN  TV/Radio Livestream  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N1Z6WAA/?tag=tolees0ca-21'
 descuento: '31.39'
 average: '122.81'

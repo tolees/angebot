@@ -16,6 +16,7 @@ comparePrice: 23.72 EUR
 prodname: 'Yankee Candle große Duftkerze im Glas  Lemon Lavender  Brenndauer bis zu 150 Stunden'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000WQZ5PC/?tag=tolees0ca-21'
 descuento: '28.37'
 average: '16.99'

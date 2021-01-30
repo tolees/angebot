@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Kitchen Craft Kanne  1 1 l  Creme  aus der Living-Nostalgia-Produktreihe'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00JFRO5PA/?tag=tolees0ca-21'
 descuento: '28.64'
 average: '11.41'

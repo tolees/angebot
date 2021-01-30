@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Seagate Expansion Portable  5 TB  tragbare externe Festplatte  2.5 Zoll  USB 3.0  PC & Notebook  Modellnr.: STEA5000402'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TNVBLNT/?tag=tolees0ca-21'
 descuento: '31.07'
 average: '101.0488888888889'

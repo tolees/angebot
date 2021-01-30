@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Playmobil 70093 Family Fun Familien-Fahrrad  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JMCCSYN/?tag=tolees0ca-21'
 descuento: '60.04'
 average: '8.874285714285715'

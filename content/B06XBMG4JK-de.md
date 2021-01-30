@@ -16,6 +16,7 @@ comparePrice: 8.0 EUR
 prodname: 'Funko 14367 Actionfigur Westworld: Teddy  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XBMG4JK/?tag=tolees0ca-21'
 descuento: '48.38'
 average: '4.13'

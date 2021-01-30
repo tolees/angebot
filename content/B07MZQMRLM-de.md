@@ -16,6 +16,7 @@ comparePrice: 11.98 EUR
 prodname: 'Funko 39947 POP Vinyl: Animation Scooby DOO w/Sandwich Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MZQMRLM/?tag=tolees0ca-21'
 descuento: '29.05'
 average: '8.745'

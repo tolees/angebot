@@ -16,6 +16,7 @@ comparePrice: 68.23 EUR
 prodname: 'Playmobil Family Fun 70341 Mein großer Erlebnis-Zoo  Ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B082YPFQL8/?tag=tolees0ca-21'
 descuento: '25.27'
 average: '49.708'

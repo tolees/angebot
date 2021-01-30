@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'bayala - das Spiel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Q78RT6N/?tag=tolees0ca-21'
 descuento: '25.01'
 average: '29.99'

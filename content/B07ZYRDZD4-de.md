@@ -16,6 +16,7 @@ comparePrice: 21.17 EUR
 prodname: 'FATO. Frühling Gartenpuppenstuben Spielset Werkzeuge mit Accessoriess Für Sylvanian Families Puppen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07ZYRDZD4/?tag=tolees0ca-21'
 descuento: '28.58'
 average: '15.12'

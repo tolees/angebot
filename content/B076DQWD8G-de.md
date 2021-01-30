@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: '24 Farben Luft trockenen Lehm  Ultra Light Modellierung Clay  QMay Magic Clay Künstler Studio Spielzeug  ungiftig Modellierung Clay & Teig  kreative Kunst DIY Handwerk  Geschenk für Kinder  Tasse '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076DQWD8G/?tag=tolees0ca-21'
 descuento: '15.01'
 average: '16.99'

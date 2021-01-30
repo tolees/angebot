@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Montessori Spielzeug Ab 3 4 5 6 7 Jahren - Scrabble Junior  Lesen Lernen  Buchstaben Spiel  Holzbuchstaben Lernspiele Ab 3-7 Jahren Geschenk FüR 3 Jahre Alte Jungen MäDchen Kinder-Vorschule Lernspiele'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B08CHHLZSW/?tag=tolees0ca-21'
 descuento: '38.72'
 average: '18.99'

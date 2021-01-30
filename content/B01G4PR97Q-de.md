@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Ravensburger Malen nach Zahlen 28027 28027-Frozen  Malset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01G4PR97Q/?tag=tolees0ca-21'
 descuento: '41.03'
 average: '8.631666666666668'

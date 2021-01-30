@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'OYMMENEY Holzspielzeug 3 In 1 Angelspiel Montessori Spielzeug Lernspielzeug Magnettafel Kinderspielzeug für Kinder ab 3 Jahre'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XCK6BY2/?tag=tolees0ca-21'
 descuento: '27.78'
 average: '12.27'

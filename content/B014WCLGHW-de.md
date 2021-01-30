@@ -16,6 +16,7 @@ comparePrice: 219.99 EUR
 prodname: 'Philips BTM3360/12 Stereoanlage mit Bluetooth Multipair  150 Watt  USB  MP3  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B014WCLGHW/?tag=tolees0ca-21'
 descuento: '36.82'
 average: '139.0'

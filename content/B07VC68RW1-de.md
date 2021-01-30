@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'TP-Link 5-Port Desktop Switch  10/100/1000Mbit/S  Ls1005G|1.0|1|5 Years|Switch|Usb Stick|Usb Stick'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07VC68RW1/?tag=tolees0ca-21'
 descuento: '16.92'
 average: '13.21'

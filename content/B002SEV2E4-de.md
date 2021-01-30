@@ -16,6 +16,7 @@ comparePrice: 4.49 EUR
 prodname: 'sodastream 1020195490 Sirup Cola Sugar Free 500 ml  Ergiebigkeit: 1x Flasche ergibt 12 Liter Fertiggetränk  Sekundenschnell zubereitet und Immer frisch  blau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002SEV2E4/?tag=tolees0ca-21'
 descuento: '17.82'
 average: '3.69'

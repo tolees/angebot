@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'Canon PowerShot G9 X Mark II Kompaktkamera  20 1 MP  7 5cm  3 Zoll  Display  WLAN  NFC  1080p  Full HD  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01NBSGJ80/?tag=tolees0ca-21'
 descuento: '20.04'
 average: '374.0'

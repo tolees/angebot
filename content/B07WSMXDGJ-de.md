@@ -16,6 +16,7 @@ comparePrice: 49.98 EUR
 prodname: 'GODNECE LED Licht-Set für Baustein  Led Beleuchtungsset Licht-Set für Baustein Spielzeug Kompatibel Mit Lego- 75187 Star Wars BB-8 Robot Bausatz  Modell Nicht Enthalten '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WSMXDGJ/?tag=tolees0ca-21'
 descuento: '50.00'
 average: '24.99'

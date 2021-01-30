@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Playmobil 70052 City Life Rettungs-Balance-Roller  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JMD494D/?tag=tolees0ca-21'
 descuento: '47.45'
 average: '4.776666666666666'

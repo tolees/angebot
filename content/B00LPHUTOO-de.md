@@ -16,6 +16,7 @@ comparePrice: 104.79 EUR
 prodname: 'Vileda Steam Dampfreiniger'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00LPHUTOO/?tag=tolees0ca-21'
 descuento: '47.91'
 average: '54.58'

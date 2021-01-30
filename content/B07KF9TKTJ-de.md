@@ -16,6 +16,7 @@ comparePrice: 959.0 EUR
 prodname: 'MSI GF75 8RC-005DE Thin  43 9 cm/17 3 Zoll/100% sRGB  Gaming-Laptop  Intel Core i7-8750H  8GB RAM  256 GB PCIe SSD  Nvidia GeForce GTX 1050 4GB  Windows 10 Home  Schwarz/Grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KF9TKTJ/?tag=tolees0ca-21'
 descuento: '50.47'
 average: '487.5'

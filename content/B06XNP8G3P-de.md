@@ -16,6 +16,7 @@ comparePrice: 239.0 EUR
 prodname: 'Campingaz Lavastein Gasgrill Xpert 200 LS Rocky'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XNP8G3P/?tag=tolees0ca-21'
 descuento: '16.16'
 average: '200.38'

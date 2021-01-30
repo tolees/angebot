@@ -16,6 +16,7 @@ comparePrice: 23.76 EUR
 prodname: 'Sanpellegrino | Orangen Limonade | Aranciata | Hoher Fruchtanteil 20% frisch gepresster Orangen | Leicht herbe Geschmacksnote | Ideal für unterwegs | 24er Pack  24 x 0 33l  Einweg Dosen'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00C07NJMM/?tag=tolees0ca-21'
 descuento: '22.18'
 average: '18.49'

@@ -16,6 +16,7 @@ comparePrice: 2198 EUR
 prodname: 'Neff CKS1561N Einbau-Kaffeemaschine aus Edelstahl  SensoFlow System'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00ONA5J4A/?tag=tolees0ca-21'
 descuento: '44.09'
 average: '1229'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Under Armour Damen Fly Fast Tight Legging  schwarz Black / Black / Reflective  MD'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0711M6FVK/?tag=tolees0ca-21'
 descuento: '35.83'
 average: '38.574'

@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Fossil Damen Analog Quarz Uhr mit Edelstahl Armband ES3020'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B007NM84PQ/?tag=tolees0ca-21'
 descuento: '30.17'
 average: '90.08'

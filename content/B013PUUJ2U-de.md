@@ -16,6 +16,7 @@ comparePrice: 34.1 EUR
 prodname: 'SET-ERGÄNZUNG - Gigaset Lichtschalter - manueller Funktionsschalter für Funksteckdose und Alarmanlage - Smart Home Schalter'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B013PUUJ2U/?tag=tolees0ca-21'
 descuento: '34.16'
 average: '22.45'

@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Clatronic RK 3566 Reiskocher und Dampfgarer in Einem  herausnehmbarer Topf  antihaft-beschichtet   automatischer Warmhaltemodus  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00MEP27FA/?tag=tolees0ca-21'
 descuento: '22.03'
 average: '27.25'

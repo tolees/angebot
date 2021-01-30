@@ -16,6 +16,7 @@ comparePrice: 99 EUR
 prodname: 'TechniSat Digitradio 52 Stereo DAB Radiowecker mit zwei einstellbaren Weckzeiten  Uhrenradio  DAB+  UKW  Snooze-Funktion  Sleeptimer  dimmbares Display  Wireless-Charging Funktion  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07H6CMDWF/?tag=tolees0ca-21'
 descuento: '38.82'
 average: '60.57'

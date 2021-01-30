@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Tommy Hilfiger Herren CORE Stretch Slim Vneck Tee T-Shirt  Blau  Navy Blazer 416   Large'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B071HPJTSB/?tag=tolees0ca-21'
 descuento: '33.38'
 average: '19.847499999999997'

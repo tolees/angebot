@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Columbia Street Elite Rucksack  Grau  Cool Grey '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KTL4N2M/?tag=tolees0ca-21'
 descuento: '32.28'
 average: '60.94'

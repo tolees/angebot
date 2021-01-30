@@ -16,6 +16,7 @@ comparePrice: 60.99 EUR
 prodname: 'COOLJOY Magnetische Bausteine  117 Stück Magnet Baustein  Pädagogische Bauklötze Spielzeug für Kinder  3D Grafiken Konstruktion Blöcke / Auto Spielzeug / Roboter / Animal / Ferris Wheel'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07T6KW9HV/?tag=tolees0ca-21'
 descuento: '37.71'
 average: '37.32333333333334'

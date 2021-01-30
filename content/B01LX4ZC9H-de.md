@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Playmobil 9224 - Spengler und Geist'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LX4ZC9H/?tag=tolees0ca-21'
 descuento: '49.05'
 average: '4.86'

@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'super vaule DIY 5D Diamant Malerei  Kristall Strass Stickerei Bilder Kunst Handwerk für Home Wall Decor  12  MEHRWEG'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07F7X2SJF/?tag=tolees0ca-21'
 descuento: '45.95'
 average: '6.11'

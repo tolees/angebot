@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'Thrustmaster T-GT  Lenkrad inkl. 3-Pedalset  Force Feedback  270° - 1080°  Eco-System  Gran Turismo Lizenz  PS4 / PC '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01HRYDV0M/?tag=tolees0ca-21'
 descuento: '18.20'
 average: '536.2'

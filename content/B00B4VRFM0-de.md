@@ -16,6 +16,7 @@ comparePrice: 109.81 EUR
 prodname: 'Fossil Herren Chronograph Quarz Uhr mit Edelstahl Armband FS4778'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00B4VRFM0/?tag=tolees0ca-21'
 descuento: '24.41'
 average: '83.01'

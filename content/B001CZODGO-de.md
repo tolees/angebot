@@ -16,6 +16,7 @@ comparePrice: 22.09 EUR
 prodname: 'LIQUI MOLY 1515 Marder-Schutz-Spray  200 ml'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001CZODGO/?tag=tolees0ca-21'
 descuento: '62.38'
 average: '8.31'

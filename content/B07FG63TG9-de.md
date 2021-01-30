@@ -16,6 +16,7 @@ comparePrice: 123.99 EUR
 prodname: 'Huawei 55030237 FreeBuds Wireless Earphones  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FG63TG9/?tag=tolees0ca-21'
 descuento: '58.58'
 average: '60.63'

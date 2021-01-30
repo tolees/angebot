@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Casio Edifice Herren Massives Edelstahlgehäuse und Lederarmband Uhrenarmband EFR-526L-1AVUEF'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00BFN2WQQ/?tag=tolees0ca-21'
 descuento: '29.22'
 average: '70.71'

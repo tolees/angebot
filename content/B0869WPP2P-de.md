@@ -16,6 +16,7 @@ comparePrice: 899.9 EUR
 prodname: 'Xiaomi Mi 10 Smartphone + Kopfhörer  16 94cm  6 67"  FHD+ Display  256GB interner Speicher + 8GB RAM  108MP Rückkamera  20MP Frontkamera  5G  Android 10  Grau  Deutsche Version - [Exklusiv bei Amazon]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0869WPP2P/?tag=tolees0ca-21'
 descuento: '31.87'
 average: '702.923076923077'

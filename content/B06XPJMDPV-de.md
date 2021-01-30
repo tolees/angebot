@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Meister Nivelliersystem für Fliesen 351-teilig - Fliesendicke 7-15 mm - Mit Zugzange - Clips & Abstandhalter / Fliesen-Nivellierhilfe mit Zuglasche / Verlegehilfe mit Keilen / 4423100'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XPJMDPV/?tag=tolees0ca-21'
 descuento: '19.32'
 average: '28.23'

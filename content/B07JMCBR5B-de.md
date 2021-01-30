@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Playmobil 70059 Special Plus Elfe mit REH  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07JMCBR5B/?tag=tolees0ca-21'
 descuento: '25.56'
 average: '2.97'

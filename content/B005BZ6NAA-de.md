@@ -16,6 +16,7 @@ comparePrice: 8.79 EUR
 prodname: 'Arrietty - Die wundersame Welt der Borger'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005BZ6NAA/?tag=tolees0ca-21'
 descuento: '20.48'
 average: '6.99'

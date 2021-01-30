@@ -16,6 +16,7 @@ comparePrice: 9.36 EUR
 prodname: 'MTV Unplugged'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B002SSZ7BE/?tag=tolees0ca-21'
 descuento: '47.65'
 average: '4.9'

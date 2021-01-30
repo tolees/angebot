@@ -16,6 +16,7 @@ comparePrice: 12.1 EUR
 prodname: 'Funko 33253 LOTR/Hobbit: Galadriel POP Vinylfigur  Multi  Standard'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07DFJ5XHM/?tag=tolees0ca-21'
 descuento: '24.30'
 average: '9.802727272727273'

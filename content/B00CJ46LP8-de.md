@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Jamara 403071 - BMW M3 Sport 1:14  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00CJ46LP8/?tag=tolees0ca-21'
 descuento: '16.19'
 average: '31.0'

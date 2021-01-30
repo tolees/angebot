@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Multifunktionswerkzeug  GOXAWEE Drehwerkzeug mit 140 Zubehör  Multipro Schnellspannbohrfutter und Biegsame Welle für Handwerker und Heimwerker'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07M8LFKVS/?tag=tolees0ca-21'
 descuento: '25.02'
 average: '44.98'

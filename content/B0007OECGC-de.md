@@ -16,6 +16,7 @@ comparePrice: 6.14 EUR
 prodname: 'Faber-Castell 127102 - 10 Fallminen TK 9071  Minenstärke 2 mm  Härtegrad 2B'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0007OECGC/?tag=tolees0ca-21'
 descuento: '22.96'
 average: '4.73'

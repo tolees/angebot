@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Logitech MX Anywhere 2S Kabellose Maus  Bluetooth und 2.4 GHz Verbindung via Unifying USB-Empfänger  4000 DPI Sensor  Wiederaufladbarer Akku  Multi-Device  7 Tasten  PC/Mac/iPadOS - graphit/schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B072BG9Z8W/?tag=tolees0ca-21'
 descuento: '32.33'
 average: '60.9'

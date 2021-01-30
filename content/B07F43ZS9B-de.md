@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'SHARP HT-SBW420  GR   2.1 All-in-One Slim Soundbar mit eingebautem Subwoofer in Premium Aluminium-Design  App-Steuerung  WiFi  Bluetooth  4K-Erlebnis  HDMI ARC/CEC und 220W Gesamtleistung  Grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07F43ZS9B/?tag=tolees0ca-21'
 descuento: '51.81'
 average: '124.495'

@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Die Profis - Die komplette Serie - HD-Remastered [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01KJASRMS/?tag=tolees0ca-21'
 descuento: '33.36'
 average: '39.95'

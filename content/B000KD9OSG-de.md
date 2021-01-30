@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Casio Collection Herren-Armbanduhr F105W1AWYEF'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000KD9OSG/?tag=tolees0ca-21'
 descuento: '20.35'
 average: '15.85'

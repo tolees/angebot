@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'INPHIC Bluetooth Maus  3-Modus Silent wiederaufladbare Maus kabellos  Bluetooth 5.0/3.0+2.4G Wireless   1600 DPI tragbare Bluetooth-Funkmaus für Mac MacBook Laptop Android Tablet PC Computer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PCQF1QH/?tag=tolees0ca-21'
 descuento: '30.02'
 average: '13.99'

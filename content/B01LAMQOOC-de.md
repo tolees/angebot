@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 11070 Actionfigur The Walking Dead: Negan  Multi  Einheitsgröße'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LAMQOOC/?tag=tolees0ca-21'
 descuento: '28.88'
 average: '11.2075'

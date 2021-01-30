@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Logitech G PRO Wireless Gaming Maus  Hero 16000 DPI Sensor  USB-Anschluss  RGB-Beleuchtung  4 - 8 Programmierbare Tasten  Benutzerdefinierte Spielprofile  Ultraleicht  PC/Mac'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G5SF48Z/?tag=tolees0ca-21'
 descuento: '41.48'
 average: '84.67833333333333'

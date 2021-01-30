@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Lacoste Herren Ch9623 Smoking Hemd  Weiß  Blanc/Blanc   37'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079L9SCM1/?tag=tolees0ca-21'
 descuento: '63.05'
 average: '36.95'

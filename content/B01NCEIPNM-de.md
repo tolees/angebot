@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'BRITA Wasserfilter Marella weiß inkl. 1 MAXTRA+ Filterkartusche – BRITA Filter zur Reduzierung von Kalk  Chlor & geschmacksstörenden Stoffen im Wasser'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01NCEIPNM/?tag=tolees0ca-21'
 descuento: '44.79'
 average: '12.14'

@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'Huawei P smart 2019 64GB Hybrid-SIM Aurora Blau EU [15 77cm  6 21"  LCD Display  Android 9.0  13MP+2MP]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07M9CHL3L/?tag=tolees0ca-21'
 descuento: '15.56'
 average: '149.03'

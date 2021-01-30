@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Unbekannt Creative Converting 16 Stück 3-lagig Lunch-Servietten mit Happy Birthday'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0134TI0AU/?tag=tolees0ca-21'
 descuento: '62.54'
 average: '1.11'

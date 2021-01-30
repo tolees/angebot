@@ -16,6 +16,7 @@ comparePrice: 4.95 EUR
 prodname: 'Playmobil 6971 Schmück  Pony Schmetterling'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01608LMOI/?tag=tolees0ca-21'
 descuento: '39.60'
 average: '2.99'

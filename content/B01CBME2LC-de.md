@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 8659 S1 No Actionfigur Suicide Squad: Joker Shirtless  Multi'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01CBME2LC/?tag=tolees0ca-21'
 descuento: '42.74'
 average: '8.08'

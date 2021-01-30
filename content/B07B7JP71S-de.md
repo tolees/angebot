@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'New bee Bluetooth Headset Wireless Freisprech Telefon 5.0 Bluetooth-Headset mit Mikrofon für iPhone Samsung Huawei mit 60 Tage Standby Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B7JP71S/?tag=tolees0ca-21'
 descuento: '15.01'
 average: '23.368787878787877'

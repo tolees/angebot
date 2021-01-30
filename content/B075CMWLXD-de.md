@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Sublevel Damen Winter-Jacke mit Kapuze warm gefüttert Dark-Blue L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075CMWLXD/?tag=tolees0ca-21'
 descuento: '21.43'
 average: '54.99'

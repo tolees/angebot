@@ -16,6 +16,7 @@ comparePrice: 749.0 EUR
 prodname: 'Samsung Galaxy S10e Smartphone Bundle  14.7cm  5.8 Zoll  128 GB interner Speicher  6 GB RAM  Dual SIM  Android  prism black  inkl. 36 Monate Herstellergarantie [Exklusiv bei Amazon] Deutsche Version'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SHXV8GL/?tag=tolees0ca-21'
 descuento: '33.25'
 average: '522.9933333333333'

@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Echo Plus  2. Gen.   Anthrazit Stoff + Philips Hue White Lampe'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07H2WSKVK/?tag=tolees0ca-21'
 descuento: '33.34'
 average: '99.99'

@@ -16,6 +16,7 @@ comparePrice: 179.9 EUR
 prodname: 'HONOR Smartwatch im klassischen Uhrendesign mit 3 cm  1 2 Zoll  AMOLED Display  Moonlight Silver + Brown Leather & Silicone'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07LGFXG1K/?tag=tolees0ca-21'
 descuento: '26.03'
 average: '133.07'

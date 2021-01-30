@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Ravensburger 22093 - Schnappt Hubi!'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004O0TOU4/?tag=tolees0ca-21'
 descuento: '26.01'
 average: '32.32333333333333'

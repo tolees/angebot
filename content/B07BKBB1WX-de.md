@@ -16,6 +16,7 @@ comparePrice: 574.27 EUR
 prodname: 'PC DESKTOP COMPLETE INTEL I3-8100 3.6 GHZ 8°GEN/LINDING WINDOWS 10 PRO 64 BIT/GRAFIK INTEL HD 630 1 GB 4K / WIFI 150 MBPS /HD 1TB SATA III/ RAM 8 GB DDR4 2133 MHZ /DVD-CD BATTERY/NETZTEIL 500WATT'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BKBB1WX/?tag=tolees0ca-21'
 descuento: '30.35'
 average: '399.99'

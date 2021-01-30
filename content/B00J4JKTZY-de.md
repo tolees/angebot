@@ -16,6 +16,7 @@ comparePrice: 94.17 EUR
 prodname: 'Invicta 8930OB Pro Diver Unisex Uhr Edelstahl Automatik blauen Zifferblat'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00J4JKTZY/?tag=tolees0ca-21'
 descuento: '16.64'
 average: '78.5'

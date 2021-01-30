@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Puma Herren Liga Shorts Core with Brief Hose  Black White  M'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0781VZZ7T/?tag=tolees0ca-21'
 descuento: '40.10'
 average: '11.95'

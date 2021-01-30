@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'edc by ESPRIT Damen 999Cc1B807 Slim Jeans  Blau  Blue Dark WASH 901   W30/L32  Herstellergröße:30/32 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07S19TPNH/?tag=tolees0ca-21'
 descuento: '34.01'
 average: '32.99'

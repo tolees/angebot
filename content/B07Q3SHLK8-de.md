@@ -16,6 +16,7 @@ comparePrice: 259.0 EUR
 prodname: 'Diesel Herren Chronograph Quarz Uhr mit Nylon Armband DZ4512'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Q3SHLK8/?tag=tolees0ca-21'
 descuento: '49.00'
 average: '132.09'

@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Sharkoon NIGHT SHARK RGB PC-Gehäuse Rgb'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GSY1P55/?tag=tolees0ca-21'
 descuento: '28.87'
 average: '63.95'

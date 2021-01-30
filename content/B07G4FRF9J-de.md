@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Tommy Hilfiger Damen Multi Zifferblatt Quarz Uhr mit Edelstahl Armband 1781945'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G4FRF9J/?tag=tolees0ca-21'
 descuento: '35.69'
 average: '108.69'

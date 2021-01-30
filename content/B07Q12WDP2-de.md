@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Marshall Stockwell II Tragbarer Lautsprecher - schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Q12WDP2/?tag=tolees0ca-21'
 descuento: '37.74'
 average: '99.0'

@@ -16,6 +16,7 @@ comparePrice: 64.9 EUR
 prodname: 'NUK Vario Express Dampf-Sterilisator 3-in-1 Modular für bis zu 6 Babyflaschen  Sauger & Zubehör oder Milchpumpe'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LX5ZT44/?tag=tolees0ca-21'
 descuento: '66.29'
 average: '21.88'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Ultimate Ears Wonderboom Tragbarer Bluetooth-Lautsprecher  Überraschend Starker Sound  Wasserdicht  Verbinde 2 Lautsprecher für Lautstarken Hi-Fi Sound  10-Stunden Akkulaufzeit - Phantom Black/schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06X6JCBBR/?tag=tolees0ca-21'
 descuento: '55.10'
 average: '46.90916666666667'

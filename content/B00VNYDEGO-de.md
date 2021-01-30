@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'Looping Louie Kinderspiel  lustiges 3D Spiel  Partyspiel für Kindergeburtstage  unterhaltsames Gesellschafts- & Familienspiel  für Kinder & Erwachsene  2-4 Spieler  ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00VNYDEGO/?tag=tolees0ca-21'
 descuento: '37.51'
 average: '20.656666666666666'

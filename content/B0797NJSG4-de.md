@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Funko 30171 Actionfigur Destiny-Osiris'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0797NJSG4/?tag=tolees0ca-21'
 descuento: '56.90'
 average: '6.11'

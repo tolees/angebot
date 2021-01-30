@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Rayuda Große Faltbare Wäschekorb 3 Fächer  Wäschesack Sortieren von Kleidung spart Zeit  65 x 59 x 39 cm  100 L'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07P74TXSB/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '31.99'

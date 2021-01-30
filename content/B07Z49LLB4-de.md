@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'JACK & JONES Herren Jacke Stehkragen Stepp XLNavy Blazer'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07Z49LLB4/?tag=tolees0ca-21'
 descuento: '50.04'
 average: '19.98'

@@ -16,6 +16,7 @@ comparePrice: 7.23 EUR
 prodname: 'Tomorrow`s Kitchen  bislang Vacu Vin  46703606 Küchenutensilablage  grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01CPB3CK6/?tag=tolees0ca-21'
 descuento: '50.35'
 average: '3.59'

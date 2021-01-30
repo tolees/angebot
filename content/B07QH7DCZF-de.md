@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'BABY born Surprise 904091 Baby Überraschungsfigur im Kokon mit Wasserfunktion und Überraschungen Welle 2  1 Stück - Figur nicht auswählbar'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QH7DCZF/?tag=tolees0ca-21'
 descuento: '42.26'
 average: '8.24'

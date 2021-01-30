@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'AUTLEAD Auto Kompressor  C5 12V Luftkompressor  Tragbare Auto-Luftpumpe  120 PSI Portable Reifenpumpe  40l/m  LED-Taschenlampen und SOS-Modus  für Reifen  Fahrzeuge  Bälle  aufblasbare Gegenstände'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07G4B7WDS/?tag=tolees0ca-21'
 descuento: '33.34'
 average: '39.99'

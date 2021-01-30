@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'SanDisk Extreme Go 64GB USB-Flash-Laufwerk USB 3.1'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01NARBPI7/?tag=tolees0ca-21'
 descuento: '42.42'
 average: '16.176666666666666'

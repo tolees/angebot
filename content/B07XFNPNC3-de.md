@@ -16,6 +16,7 @@ comparePrice: 55.49 EUR
 prodname: 'Schrankleuchten mit Bewegungsmelder 78 LED USB Wiederaufladbar Magnetisch Bewegungsmelder Nachtlicht LED  Auto/ON/OFF Geeignet für Schrank Kinderzimmer Flur Schlafzimmer Küche Treppe'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XFNPNC3/?tag=tolees0ca-21'
 descuento: '53.16'
 average: '25.99'

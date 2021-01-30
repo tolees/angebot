@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'EZVIZ ezTube 720p Überwachungskamera aussen WiFi 2.4Ghz Kamera  Sirene und Licht Alarm  Nachtsicht  Zwei-Wege-Audio  High-DB-Lautsprecher  Cloud-Service  Smart Home Security  Kompatibel mit Alexa'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BXNZL7B/?tag=tolees0ca-21'
 descuento: '32.28'
 average: '54.17'

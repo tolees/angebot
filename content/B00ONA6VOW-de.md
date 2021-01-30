@@ -16,6 +16,7 @@ comparePrice: 161.0 EUR
 prodname: 'Neff Z11TF36X0 Backofen- und Herdzubehör / Kochfeld / Teleskop-Vollauszug'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00ONA6VOW/?tag=tolees0ca-21'
 descuento: '39.75'
 average: '97.0'

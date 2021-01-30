@@ -16,6 +16,7 @@ comparePrice: 250.99 EUR
 prodname: 'Kingston A400 SSD SA400S37/1920G - Interne SSD  2.5 Zoll  SATA 1920GB'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YQJSGWY/?tag=tolees0ca-21'
 descuento: '40.28'
 average: '149.9'

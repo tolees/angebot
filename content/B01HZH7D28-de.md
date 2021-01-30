@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Jumbo Spiele 18161 - Disney Finding Dory Badewannen Memo'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01HZH7D28/?tag=tolees0ca-21'
 descuento: '17.40'
 average: '10.73'

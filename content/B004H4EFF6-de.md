@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Hazet 810SPC/6 Schraubendreher-Satz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004H4EFF6/?tag=tolees0ca-21'
 descuento: '51.82'
 average: '11.931666666666667'

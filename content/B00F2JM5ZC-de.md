@@ -16,6 +16,7 @@ comparePrice: 54.5 EUR
 prodname: 'Karlie Transportbox Nomad  Größe M 68 x 51 x 47 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00F2JM5ZC/?tag=tolees0ca-21'
 descuento: '37.41'
 average: '34.11'

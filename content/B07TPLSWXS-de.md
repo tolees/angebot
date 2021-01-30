@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Koogeek Smart & Bluetooth Elektronische Handgelenk Blutdruck Digital Heart Beat & Pulse Gesundheit LCD Bildschirm Monitor mit Sprachansagen  Grau '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TPLSWXS/?tag=tolees0ca-21'
 descuento: '35.01'
 average: '25.99'

@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'LEDVANCE LED Wand- und Deckenleuchte  Leuchte für Außenanwendungen  integrierter Bewegungssensor  Tag-Nacht-Sensor  Warmweiß  168 0 mm x 100 0 mm x 273 0 mm  ENDURA STYLE WALL'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07V1CR9TW/?tag=tolees0ca-21'
 descuento: '68.72'
 average: '40.65'

@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Bluetooth Headset 0.3 Unzen Wasserdicht Dual CVC 8.0 Rauschunterdrückung Mikrofon Bloothooth 5.0 Kabellos In-Ear Ohrhörer Hands Free Funk Kopfhörer für Fahren iPhone Samsung Huawei Handy von Samnyte…'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07V3G34ZH/?tag=tolees0ca-21'
 descuento: '30.46'
 average: '25.091935483870966'

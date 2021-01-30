@@ -16,6 +16,7 @@ comparePrice: 1799.0 EUR
 prodname: 'Samsung Q60R 163 cm  65 Zoll  4K QLED Fernseher  Q HDR  Ultra HD  HDR  Twin Tuner  Smart TV  [Modelljahr 2019]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PFR3WL7/?tag=tolees0ca-21'
 descuento: '42.44'
 average: '998.6317021276595'

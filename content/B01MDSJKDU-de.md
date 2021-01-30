@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'VOVEES Athena Serum Gesicht Falten Hyaluronsäure Ultrapure 30 ml – Antiage – Anti-Falten – Anti-Aging – Velours Hell Glättend – Natürliche organische – Made in Italy'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MDSJKDU/?tag=tolees0ca-21'
 descuento: '24.99'
 average: '26.18'

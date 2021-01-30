@@ -16,6 +16,7 @@ comparePrice: 349.99 EUR
 prodname: 'SteelSeries Arctis Pro Wireless – Drahtlos Gaming-Headset – hochauflösende Lautsprechertreiber – kombiniertes Funksystem  2 4 GHz & Bluetooth  – Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07B819VMQ/?tag=tolees0ca-21'
 descuento: '20.82'
 average: '277.11'

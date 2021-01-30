@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'camel active Herren 488845/9939 Jeans  Dark Blue Used  W33/ L34  Herstellergröße: 33/34 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00K8OT6IK/?tag=tolees0ca-21'
 descuento: '52.53'
 average: '37.95'

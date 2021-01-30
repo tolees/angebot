@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Under Armour Herren UA HeatGear Long Sleeve langärmliges Funktionsshirt  atmungsaktives Langarmshirt für Männer  Weiß  Medium'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00KHTNLXM/?tag=tolees0ca-21'
 descuento: '54.99'
 average: '17.475'

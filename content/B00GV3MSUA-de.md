@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'CMP Damen Zipp Off Hose  Antracite  40'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00GV3MSUA/?tag=tolees0ca-21'
 descuento: '26.61'
 average: '36.364999999999995'

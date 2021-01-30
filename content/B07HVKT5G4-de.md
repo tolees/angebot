@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Nebula Prizm Beamer  Multimedia Projektor mit 480P LCD Bildqualität  500 Lumen / 100 ANSI Lumen  40-100 Zoll Bild  Aux-Out für Filme  Videos usw.  Aktualisierte Version '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HVKT5G4/?tag=tolees0ca-21'
 descuento: '20.00'
 average: '39.99'

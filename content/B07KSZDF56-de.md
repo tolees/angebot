@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Schneiders Vienna 78335-080 - Schulranzenset Plus mit Federmappe  Schlamper und Sportbeutel  Space Ship  4 teilig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07KSZDF56/?tag=tolees0ca-21'
 descuento: '41.88'
 average: '116.21'

@@ -16,6 +16,7 @@ comparePrice: 66.0 EUR
 prodname: 'Nike Herren Md Runner 2 Gymnastikschuhe  Grau  Wolf Grey/Black/White 001   46 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00XWP21JI/?tag=tolees0ca-21'
 descuento: '42.58'
 average: '37.9'

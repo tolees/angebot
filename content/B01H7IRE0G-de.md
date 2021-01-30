@@ -16,6 +16,7 @@ comparePrice: 6.51 EUR
 prodname: 'Sluban Spielzeug Baustein Set Hot Dog Wagen M38-B0565'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01H7IRE0G/?tag=tolees0ca-21'
 descuento: '20.12'
 average: '6.2555555555555555'

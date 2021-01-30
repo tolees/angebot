@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'GORE Wear C3 kurze Herren Hose  XXL  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075RHDP9K/?tag=tolees0ca-21'
 descuento: '26.89'
 average: '65.76'

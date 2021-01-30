@@ -16,6 +16,7 @@ comparePrice: 34.89 EUR
 prodname: 'A Plague Tale Innocence [Xbox One]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NB946XZ/?tag=tolees0ca-21'
 descuento: '22.64'
 average: '26.99'

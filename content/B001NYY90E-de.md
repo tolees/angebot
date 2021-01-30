@@ -16,6 +16,7 @@ comparePrice: 13.49 EUR
 prodname: 'KS Tools 515.1124 1/2" Sechskant-Kraft-Stecknuss  lang  24mm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001NYY90E/?tag=tolees0ca-21'
 descuento: '15.72'
 average: '11.37'

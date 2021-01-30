@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Geox Damen D ASHEELY B Biker Boots  Blau  Blue C4000   39 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0792T5HSF/?tag=tolees0ca-21'
 descuento: '51.31'
 average: '68.17'

@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Cars 1 + Cars 2 + Cars 3 [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077ZCVZ72/?tag=tolees0ca-21'
 descuento: '25.08'
 average: '27.112499999999997'

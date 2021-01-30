@@ -16,6 +16,7 @@ comparePrice: 7.25 EUR
 prodname: 'Bar Keepers Friend Allzweck Macht-Creme 350ml  1 x 1 x 1 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00BSAA38K/?tag=tolees0ca-21'
 descuento: '19.31'
 average: '5.85'

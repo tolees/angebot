@@ -16,6 +16,7 @@ comparePrice: 23.73 EUR
 prodname: 'Funko 44469 POP Towns 80th-Hall of Justice w/Batman Collectible Figure  Multicolour'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07SNDHP8L/?tag=tolees0ca-21'
 descuento: '24.91'
 average: '17.82'

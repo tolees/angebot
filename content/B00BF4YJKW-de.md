@@ -16,6 +16,7 @@ comparePrice: 19.14 EUR
 prodname: 'fischertechnik BASIC Solar  Konstruktionsbaukasten - 520396'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00BF4YJKW/?tag=tolees0ca-21'
 descuento: '22.10'
 average: '14.94'

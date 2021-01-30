@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Große Kapazität Rucksack 35L/40L  Handgepäck Laptop Rucksack Herren Damen Reiserucksack Outdoor Sportrucksack Mit vielen Fächern  15 6 Zoll Tagesrucksack Schultasche Computer Rucksäcke Grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07H2FC1M3/?tag=tolees0ca-21'
 descuento: '53.85'
 average: '59.99'

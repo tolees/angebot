@@ -16,6 +16,7 @@ comparePrice: 46.98 EUR
 prodname: 'BERTASCHE Laptoptasche 14 Zoll Notebooktasche Schulter Tasche für Uni Arbeit Business'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B082SMG5BY/?tag=tolees0ca-21'
 descuento: '46.81'
 average: '24.99'

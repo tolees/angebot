@@ -16,6 +16,7 @@ comparePrice: 649.0 EUR
 prodname: 'Ankermann Neu Business Office Work PC PC Intel i5 4570 4X 3.20GHz NVIDIA GeForce GT 16GB RAM 240GB SSD 1TB HDD Windows 10 PRO W-LAN Office Professional'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NJQTB1R/?tag=tolees0ca-21'
 descuento: '30.82'
 average: '449.0'

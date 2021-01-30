@@ -16,6 +16,7 @@ comparePrice: 249.9 EUR
 prodname: 'Sony Xperia Z5 Smartphone  5 2 Zoll  13 2 cm  Touch-Display  32 GB interner Speicher  Android 6.0  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B013WSME96/?tag=tolees0ca-21'
 descuento: '23.97'
 average: '181.99'

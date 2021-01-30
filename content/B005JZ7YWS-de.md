@@ -16,6 +16,7 @@ comparePrice: 234.98 EUR
 prodname: 'Sony SEL-55210 Tele-Zoom-Objektiv  55-210 mm  F4.5–6.3  OSS  APS-C  geeignet für A6000  A5100  A5000 und Nex Serien  E-Mount  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005JZ7YWS/?tag=tolees0ca-21'
 descuento: '21.70'
 average: '185.0'

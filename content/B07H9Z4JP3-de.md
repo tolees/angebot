@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Pop Nacho Libre Vinyl Figure'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07H9Z4JP3/?tag=tolees0ca-21'
 descuento: '24.91'
 average: '6.0'

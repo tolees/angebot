@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'ORIENT Messer Set 3 teilig - Kochmesser Allzwekmesser Sagemesser - Deutsch Thyssenkrupp Edelstahl'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07QNL85Z5/?tag=tolees0ca-21'
 descuento: '26.00'
 average: '73.99'

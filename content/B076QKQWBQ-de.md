@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Speedlink HDMI auf VGA Adapter HQ - Vergoldete Kontakte - 3 5mm Klinke - Full HD  Audio- und Videoübertragung - schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B076QKQWBQ/?tag=tolees0ca-21'
 descuento: '61.91'
 average: '10.28'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Ezviz S3 Sport Action Kamera  Auflösung 4K/24 fps oder Full HD Video  Fotos bis 8 MP  Touchscreen Display  WiFi  Bluetooth 4.0  wasserdichte Schutzhülle und Befestigungszubehör inklusive  Grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07K1RXC24/?tag=tolees0ca-21'
 descuento: '44.45'
 average: '49.99'

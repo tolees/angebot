@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Stranger Things Funko Pop! Vinyl Figur Demogorgon  9cm aus Kunststoff'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01MD0RWD6/?tag=tolees0ca-21'
 descuento: '38.41'
 average: '8.166666666666666'

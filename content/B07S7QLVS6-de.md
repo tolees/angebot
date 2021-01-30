@@ -16,6 +16,7 @@ comparePrice: 849.0 EUR
 prodname: 'HP ENVY x360 13-ar0205ng  13 3 Zoll / Full HD IPS Touch  Convertible Notebook  AMD Ryzen 5 3500U  8GB DDR4 RAM  512GB SSD  AMD Radeon RX Vega 8  Windows 10 Home  FPR IR camera  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07S7QLVS6/?tag=tolees0ca-21'
 descuento: '35.81'
 average: '496.6666666666667'

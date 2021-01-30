@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Tommy Hilfiger Sportuhr 1791720'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0848N2YZK/?tag=tolees0ca-21'
 descuento: '28.32'
 average: '142.65'

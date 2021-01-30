@@ -16,6 +16,7 @@ comparePrice: 969.9 EUR
 prodname: 'ViewSonic VP2785-4K 68 6 cm  27 Zoll  Fotografen Monitor mit Kalibrierfunktion  4K  IPS-Panel  99% AdobeRGB  PIVOT  HDR10  USB-C  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0748DGHSG/?tag=tolees0ca-21'
 descuento: '43.81'
 average: '545.0'

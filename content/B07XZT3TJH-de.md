@@ -16,6 +16,7 @@ comparePrice: 799.0 EUR
 prodname: 'Sony Xperia 5 Bundle  6.1” FHD+ HDR OLED 21:9 Display  6GB RAM  128GB Speicher  Schwarz + gratis 64 GB Speicherkarte [Exklusiv bei Amazon DE]'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07XZT3TJH/?tag=tolees0ca-21'
 descuento: '24.46'
 average: '636.7139999999999'

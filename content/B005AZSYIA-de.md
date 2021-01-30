@@ -16,6 +16,7 @@ comparePrice: 9.42 EUR
 prodname: 'Band of Gypsys'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B005AZSYIA/?tag=tolees0ca-21'
 descuento: '40.66'
 average: '5.59'

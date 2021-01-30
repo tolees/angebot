@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Hosome Wake Up Licht Lichtwecker mit Sonnenaufgang Sonnenuntergang Simulation  Wecker mit Schlummerfunktion 8 natürlichen Klängen 7 Farben Nachttischlampe Stimmungslicht für Kinder Damen Herrn'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0811HQLXY/?tag=tolees0ca-21'
 descuento: '22.23'
 average: '27.99'

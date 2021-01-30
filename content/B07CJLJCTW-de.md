@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'ONLY Damen Onltahoe Hood Jacket Otw Noos Jacke  Schwarz  Black Black   Small'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CJLJCTW/?tag=tolees0ca-21'
 descuento: '30.23'
 average: '34.434000000000005'

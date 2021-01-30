@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Fisher-Price GLM38 - Little People Frozen Elsas Eispalast mit Olaf inkl. Lichtern und Liedern  Deutsche Sprachversion   Kleinkind Spielzeug ab 18 Monaten'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TCPTBSY/?tag=tolees0ca-21'
 descuento: '26.67'
 average: '38.78999999999999'

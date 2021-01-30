@@ -16,6 +16,7 @@ comparePrice: 11.29 EUR
 prodname: 'Hama Fotoalbum  28 x 24 cm  50 schwarze Seiten  25 Blatt  mit Ausschnitt für Bildeinschub  Fotobuch kreide'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B017JY5E7S/?tag=tolees0ca-21'
 descuento: '34.72'
 average: '7.37'

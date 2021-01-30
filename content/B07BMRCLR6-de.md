@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'MEDION MD 18500 Saugroboter mit Ladestation  90 Min Laufzeit  Roboterstaubsauger für Hartböden  Teppiche  Fliesen  Laminat  Tierhaar optimiert  Direktabsaugung  autom. Rückkehr zur Ladestation  weiß'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07BMRCLR6/?tag=tolees0ca-21'
 descuento: '25.00'
 average: '149.99'

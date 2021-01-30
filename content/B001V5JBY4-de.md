@@ -16,6 +16,7 @@ comparePrice: 117.98 EUR
 prodname: 'Ray Ban Sonnenbrille RB 4126 braun  hellbraun'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001V5JBY4/?tag=tolees0ca-21'
 descuento: '46.19'
 average: '63.49'

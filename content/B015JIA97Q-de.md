@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Polaroid Digitale Instant Snap Kamera mit ZINK Zero Ink Technologie  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B015JIA97Q/?tag=tolees0ca-21'
 descuento: '17.12'
 average: '99.45'

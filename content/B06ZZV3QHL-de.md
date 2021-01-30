@@ -16,6 +16,7 @@ comparePrice: 141.99 EUR
 prodname: 'Philips 273V7QDAB/00 68 cm  27 Zoll  Monitor  VGA  DVI  HDMI  5ms Reaktionszeit  1920 x 1080  60 Hz  mit Lautsprecher  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06ZZV3QHL/?tag=tolees0ca-21'
 descuento: '16.19'
 average: '119.0'

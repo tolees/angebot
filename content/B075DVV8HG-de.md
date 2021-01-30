@@ -16,6 +16,7 @@ comparePrice: 92.95 EUR
 prodname: 'Spyderco Dragonfly 2 Zome Taschenmesser Military Tan  Klingenlänge: 5 8 cm  01SP234'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B075DVV8HG/?tag=tolees0ca-21'
 descuento: '21.45'
 average: '73.01'

@@ -16,6 +16,7 @@ comparePrice: 1.65 EUR
 prodname: 'Barilla Hartweizen Pasta Spaghettini n. 3  1er Pack  1 x 500 g '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01D1P2VSY/?tag=tolees0ca-21'
 descuento: '39.39'
 average: '1.0'

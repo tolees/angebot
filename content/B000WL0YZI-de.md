@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Herlitz 10843746 Aktenhülle A4 Standard   PP  0 11 mm  transparent glasklar 100er Packung'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000WL0YZI/?tag=tolees0ca-21'
 descuento: '24.85'
 average: '9.01'

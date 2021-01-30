@@ -16,6 +16,7 @@ comparePrice: 499 EUR
 prodname: 'Suunto 9 Unisex Multisport-GPS-Uhr  Über 25h Batterielaufzeit  Wasserdicht bis 100m  Herzfrequenzmessung  Farbdisplay  Mineralkristallglas  Schwarz  SS050142000'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07GWS281L/?tag=tolees0ca-21'
 descuento: '52.51'
 average: '236.99'

@@ -16,6 +16,7 @@ comparePrice: 40.59 EUR
 prodname: 'Multifunctional vegetable cutter 11 sets of plastic kitchen 6-blade draining sliced silk grinder'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0874GJFZ1/?tag=tolees0ca-21'
 descuento: '28.58'
 average: '28.99'

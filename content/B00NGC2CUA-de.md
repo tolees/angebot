@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Tassimo Kapseln Milka  40 Kakao Kapseln  5er Pack  5 x 8 Getränke'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00NGC2CUA/?tag=tolees0ca-21'
 descuento: '32.14'
 average: '16.93'

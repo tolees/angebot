@@ -16,6 +16,7 @@ comparePrice: 59.51 EUR
 prodname: 'FIBARO Double Switch 2 / Z-Wave Plus Relaisschalter  Drahtloser Ein-Aus-Auslöser  FGS-223'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01HM0MQAW/?tag=tolees0ca-21'
 descuento: '27.29'
 average: '43.31666666666667'

@@ -16,6 +16,7 @@ comparePrice: 44.95 EUR
 prodname: 'adidas Kinder TIRO19 TR TOPY Sweatshirt  Dark Blue/Bold Blue/White  1516'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07K7H7JPX/?tag=tolees0ca-21'
 descuento: '72.86'
 average: '12.2'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Lacoste Herren Poloshirt  Schwarz  Noir   X-Small  Herstellergröße: 2 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00Y4XUTA0/?tag=tolees0ca-21'
 descuento: '45.00'
 average: '54.45'

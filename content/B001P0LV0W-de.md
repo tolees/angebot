@@ -16,6 +16,7 @@ comparePrice: 12.5 EUR
 prodname: 'taymar® Prospekthalter/Flyerhalter 4 Fächer DIN Lang  DL '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001P0LV0W/?tag=tolees0ca-21'
 descuento: '17.68'
 average: '11.3'

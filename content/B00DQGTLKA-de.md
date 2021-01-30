@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Silit Ersatzteil Sicomatic Dichtungsring  22 cm  für Schnellkochtopf 3 0l  4 5l  6 5l  8 5l  Silikonring  Silikon'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00DQGTLKA/?tag=tolees0ca-21'
 descuento: '25.46'
 average: '12.397999999999998'

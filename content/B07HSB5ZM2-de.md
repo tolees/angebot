@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'SHARP PS 940 Partylautsprecher mit DJ-Mischpult und eingebautem Akku  14 Stunden Wiedergabezeit  Bluetooth  Ultra-Bass-Einstellung  Karaoke-Funktion  LED-Lichter blitzend zur Musik  180 Watt'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07HSB5ZM2/?tag=tolees0ca-21'
 descuento: '39.11'
 average: '151.62'

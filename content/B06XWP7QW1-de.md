@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Ehdis 1.5" High Visibility Mini Razor Kunststoff zweischneidige Klinge Schaber mit 100PCS Kunststoff Razor Schaberklingen für Scraping Etiketten und Abziehbilder aus Glas  Windschutzscheiben'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06XWP7QW1/?tag=tolees0ca-21'
 descuento: '30.47'
 average: '15.29'

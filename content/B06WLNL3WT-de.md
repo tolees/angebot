@@ -16,6 +16,7 @@ comparePrice: 13.03 EUR
 prodname: 'Hasbro My Little Pony C0677EU4 - Movie Schwimmendes Seepony Pinkie Pie  Spielset'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B06WLNL3WT/?tag=tolees0ca-21'
 descuento: '21.49'
 average: '16.541111111111114'

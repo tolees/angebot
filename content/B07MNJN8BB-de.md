@@ -16,6 +16,7 @@ comparePrice: 40.45 EUR
 prodname: 'Crucial Ballistix Sport LT BLS8G4D30AESBK Desktop Gaming Speicher  3000 MHz  DDR4  DRAM  8GB  CL15  grau'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07MNJN8BB/?tag=tolees0ca-21'
 descuento: '28.80'
 average: '28.8'

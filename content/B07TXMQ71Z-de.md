@@ -16,6 +16,7 @@ comparePrice: 13.56 EUR
 prodname: 'Funko – 43350 – Television: Dr Who – Reconnaissance Dalek – Vinyl Figur ca. 9cm'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07TXMQ71Z/?tag=tolees0ca-21'
 descuento: '28.47'
 average: '11.8'

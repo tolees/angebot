@@ -16,6 +16,7 @@ comparePrice: 329.0 EUR
 prodname: 'Acer Chromebook 314 Notebook  14 Zoll HD matt  19 7mm flach und ultra leicht  extrem lange Akkulaufzeit  schnelles WLAN  MicroSD Slot  Google Chrome OS  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WRD2YH9/?tag=tolees0ca-21'
 descuento: '17.18'
 average: '266.8442857142857'

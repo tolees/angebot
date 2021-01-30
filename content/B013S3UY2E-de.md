@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Creative Sound BlasterX H3 analoges Pro-Gaming Headset  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B013S3UY2E/?tag=tolees0ca-21'
 descuento: '18.84'
 average: '40.57'

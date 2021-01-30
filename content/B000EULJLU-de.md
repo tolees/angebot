@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: '10.000 Days'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B000EULJLU/?tag=tolees0ca-21'
 descuento: '24.79'
 average: '12.383333333333333'

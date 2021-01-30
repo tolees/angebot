@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Ticwatch S Knight Smartwatch Intelligente Armbanduhr mit 1 4 Zoll OLED-Display  Android Wear 2.0  Sportuhr Hochwertig Kompatibel mit Android und ios Geeignet für Die Meisten Typen von Smartphone'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B077NB7P1F/?tag=tolees0ca-21'
 descuento: '32.14'
 average: '122.14'

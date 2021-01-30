@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Jacobs Kaffeebohnen Barista Editions Crema Mild  1 kg Bohnenkaffee'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FY4CP9T/?tag=tolees0ca-21'
 descuento: '42.36'
 average: '8.64'

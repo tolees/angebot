@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'AOC Gaming 24G2U5/BK 60 cm  23 8 Zoll  Monitor  FHD  HDMI  DisplayPort  Free-Sync  1ms Reaktionszeit  75 Hz  1920x1080  schwarz/rot'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07YN79RJG/?tag=tolees0ca-21'
 descuento: '16.76'
 average: '139.0'

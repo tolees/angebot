@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Zwillingsherz Slouch-Beanie-Mütze aus 100% Kaschmir - Hochwertige Strickmütze für Damen Mädchen Jungen - Hat - Unisex - One Size - warm und weich im Sommer Herbst und Winter - Navy'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B079TV4VL4/?tag=tolees0ca-21'
 descuento: '30.06'
 average: '34.9'

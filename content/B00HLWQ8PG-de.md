@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'Flexfit Unisex Baseball Cap Wooly Combed  Kappe ohne Verschluss für Herren  Damen und Kinder  Farbe darkgrey  Größe L/XL'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00HLWQ8PG/?tag=tolees0ca-21'
 descuento: '15.37'
 average: '12.555'

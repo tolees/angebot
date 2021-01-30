@@ -16,6 +16,7 @@ comparePrice: 186.99 EUR
 prodname: 'Apple iPad 4 9.7-Inch Tablet-PC  Schwarz  A1460 Prozessor  16 GB HDD  Mac OS 9.X   Zertifiziert Runderneuert '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01JJ3AK76/?tag=tolees0ca-21'
 descuento: '56.15'
 average: '82.10249999999999'

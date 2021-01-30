@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Remington Haarglätter Pro Sleek & Curl S6505  abgerundetes Design zum Glätten und Stylen von Locken  schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00MMBTCHW/?tag=tolees0ca-21'
 descuento: '51.99'
 average: '24.0'

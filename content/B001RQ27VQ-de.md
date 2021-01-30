@@ -16,6 +16,7 @@ comparePrice: 14.22 EUR
 prodname: 'Cramer Reparatur-Lackstift Email  Acryl  Keramik - Sanitärlack zum Ausbessern kleinerer Schäden an Badewannen  Duschwannen  Waschbecken und Fliesen  080 Weiß Alpin '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001RQ27VQ/?tag=tolees0ca-21'
 descuento: '31.79'
 average: '9.7'

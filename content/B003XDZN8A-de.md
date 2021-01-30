@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Shayna Women  Damen Slingback Ballerinas  Schwarz  Black   39/40 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B003XDZN8A/?tag=tolees0ca-21'
 descuento: '49.99'
 average: '20.0'

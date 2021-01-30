@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'L&L Damen Bademantel mit Kapuze LL0025  Melange/Weiß Sterne  M '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01KXP8T1S/?tag=tolees0ca-21'
 descuento: '20.01'
 average: '23.99'

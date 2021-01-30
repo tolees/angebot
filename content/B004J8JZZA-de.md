@@ -16,6 +16,7 @@ comparePrice: 2.79 EUR
 prodname: 'Ravensburger 20432 Schwarzer Peter - Schaf Kartenspiele  Mehrfarbig'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B004J8JZZA/?tag=tolees0ca-21'
 descuento: '92.83'
 average: '0.2'

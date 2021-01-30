@@ -16,6 +16,7 @@ comparePrice: 25.18 EUR
 prodname: 'ISI Doseernaald  Roestvrijstaal  4'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00DTFSV0E/?tag=tolees0ca-21'
 descuento: '24.58'
 average: '18.99'

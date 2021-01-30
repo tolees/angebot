@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Bosch Ortungsgerät Truvo  3 x AAA Batterien  Erfassungstiefe Stahl/Kupfer/stromführende Leitungen max. 70/60/50 mm  in Tinbox '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01LXFXMQN/?tag=tolees0ca-21'
 descuento: '24.08'
 average: '37.95'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Thinkfun Geschicklichkeitsspiel 76356 - Laze Maze - Spiel für Kinder ab 8 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07CGLFGT2/?tag=tolees0ca-21'
 descuento: '37.51'
 average: '24.99'

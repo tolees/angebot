@@ -16,6 +16,7 @@ comparePrice: 5.16 EUR
 prodname: '25'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B00L98V4UW/?tag=tolees0ca-21'
 descuento: '33.33'
 average: '3.44'

@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Music Maker – 2020 Performer Edition – Music Maker Premium 2020 Edition + USB-Pad-Controller.|Performer|Mehrere|Limitless|PC|Disc|Disc'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07THKLPC4/?tag=tolees0ca-21'
 descuento: '23.08'
 average: '99.99'

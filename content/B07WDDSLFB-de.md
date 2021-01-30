@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Wir stellen vor: Amazon eero Pro WLAN-Mesh-Router/Extender'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07WDDSLFB/?tag=tolees0ca-21'
 descuento: '30.15'
 average: '139.0'

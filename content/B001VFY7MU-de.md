@@ -16,6 +16,7 @@ comparePrice: 7.82 EUR
 prodname: 'Maladjusted  Expanded Edition '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B001VFY7MU/?tag=tolees0ca-21'
 descuento: '36.06'
 average: '5.0'

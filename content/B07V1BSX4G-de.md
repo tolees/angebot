@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'LEDVANCE LED Wand- und Deckenleuchte  Leuchte für Außenanwendungen  Warmweiß  Endura Style Updown Deco'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07V1BSX4G/?tag=tolees0ca-21'
 descuento: '74.43'
 average: '12.77'

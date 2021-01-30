@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'PS4-Controller  Touchpanel-Gamepad mit Vibrations- und Audiofunktion  rutschfestem Griff  für Playstation 4 / Pro/Slim/PC-Laptop'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B086ZXZYGH/?tag=tolees0ca-21'
 descuento: '52.01'
 average: '36.99'

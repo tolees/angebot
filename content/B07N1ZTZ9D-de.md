@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Noris 606071825 Tiere&Natur Spaß am Lernen Tiere und Natur  Lernspiel  violett'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07N1ZTZ9D/?tag=tolees0ca-21'
 descuento: '24.13'
 average: '12.89'

@@ -16,6 +16,7 @@ comparePrice: 150.63 EUR
 prodname: 'Bosch Professional 18V System Akku Kreissäge GKS 18V-57 G  Sägeblatt-Ø: 165 mm  inkl. 1x Kreissägeblatt Holz  ohne Akkus und Ladegerät  in L-BOXX 238 '
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B01KWJMTIO/?tag=tolees0ca-21'
 descuento: '22.33'
 average: '116.65666666666667'

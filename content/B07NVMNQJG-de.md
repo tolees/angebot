@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Kurkraft Mönchspfeffer Extrakt  180 Kapseln  - Original Vitex Agnus Castus - 10mg Extrakt je Kapsel - Vegan - Sorgfältig hergestellt in Deutschland'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B07NVMNQJG/?tag=tolees0ca-21'
 descuento: '15.08'
 average: '16.9'

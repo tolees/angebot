@@ -16,6 +16,7 @@ comparePrice: 12.79 EUR
 prodname: 'Concord Jazz Sacd Sampler Vol.'
 country: 'de'
 flag: '🇩🇪'
+brand: ''
 buyurl: 'https://www.amazon.de/dp/B0001FGBD4/?tag=tolees0ca-21'
 descuento: '30.18'
 average: '8.93'
