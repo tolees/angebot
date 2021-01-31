@@ -28,9 +28,9 @@ Es gibt ein [Impag - Olympia CPD 3212 S Tischrechner Druckend](https://www.amazo
 
 ℹ️:
 
+- Drucker: Serielles Druckwerk, Tintenrolle, Farbe ( schwarz, rot ), Geschwindigkeit: 3 Zeilen / sek. ,Druckgröße: Standard
 - Verpackungsgewicht: 1.8 kg
 - Stil: Einzeln
 - Verpackungsabmessungen (L x B x H): 26.0 x 11.5 x 35.0 Zm
-- Drucker: Serielles Druckwerk, Tintenrolle, Farbe ( schwarz, rot ), Geschwindigkeit: 3 Zeilen / sek. ,Druckgröße: Standard
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000TKF8C6/?tag=tolees0ca-21)

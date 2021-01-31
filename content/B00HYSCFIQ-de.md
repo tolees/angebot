@@ -30,8 +30,8 @@ Es gibt ein [SONAX SN 1837578 Cabrioverdeck- TextilImprägnierung & TextilImprä
 
 - Lieferumfang: 1x SONAX 03102000 Cabrioverdeck- und TextilImprägnierung (300 ml) inkl. SONAX ApplikationsSchwamm
 - Schützt und imprägniert auch Textilien im Innenraum. Verhindert das Eindringen von Schmutz und Feuchtigkeit in Sitze aus Stoff und Alcantara, Teppiche und Textilien
-- Transparent und daher für alle Farben geeignet. Mit praktischem Schaumspender und inklusive einem ApplikationsSchwamm zum sauberen und gleichmäßigen Auftragen
 - Dichtet vor allem die stark belasteten Faltstellen sowie die Nähte ab. Frischt die Farbe wieder auf und schützt vor Wiederverschmutzung
 - SONAX Autopflegeprodukte - Made in Germany - Damit glänzt, was uns bewegt
+- Transparent und daher für alle Farben geeignet. Mit praktischem Schaumspender und inklusive einem ApplikationsSchwamm zum sauberen und gleichmäßigen Auftragen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00HYSCFIQ/?tag=tolees0ca-21)
