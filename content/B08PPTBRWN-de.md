@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '26.51 % rabat auf Samsung Clear View Cover EF-ZG991 für Ga'
-date: 2021-01-30 08:28:55
+date: 2021-01-31 09:27:12
 image: 'https://m.media-amazon.com/images/I/21qXgwndJaL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.de/dp/B08PPTBRWN/?tag=tolees0ca-21'
 descuento: '26.51'
-average: '41.0816666666667'
+average: '41.08875'
 ---
 
 Es gibt ein [Samsung Clear View Cover EF-ZG991 für Galaxy S21 5G  Black](https://www.amazon.de/dp/B08PPTBRWN/?tag=tolees0ca-21) mit aktuellem Preis 41.11 EUR (original: 55.94 EUR) 26.51 % Rabatt hier:

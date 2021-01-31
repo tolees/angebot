@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '37.85 % rabat auf Timberland Herren Bradstreet Leather Sen'
-date: 2021-01-30 03:13:30
+date: 2021-01-31 09:20:56
 image: 'https://m.media-amazon.com/images/I/31LKGEgxcnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 139.9 EUR
 prodname: 'Timberland Herren Bradstreet Leather Sensorflex Chukka Stiefel  Braun Md Brown Full Grain  43 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: 'Timberland'
 buyurl: 'https://www.amazon.de/dp/B015GZQUM0/?tag=tolees0ca-21'
 descuento: '37.85'
-average: '81.4860919540231'
+average: '81.6088764044945'
 ---
 
 Es gibt ein [Timberland Herren Bradstreet Leather Sensorflex Chukka Stiefel  Braun Md Brown Full Grain  43 EU](https://www.amazon.de/dp/B015GZQUM0/?tag=tolees0ca-21) mit aktuellem Preis 86.95 EUR (original: 139.9 EUR) 37.85 % Rabatt hier:

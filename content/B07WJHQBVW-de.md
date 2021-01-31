@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salomon Herren XA PRO 3D V8  Leichte Sch mit 18.11 % Rabatt'
-date: 2021-01-30 03:07:55
+date: 2021-01-31 09:29:07
 image: 'https://m.media-amazon.com/images/I/41S9rRiVagL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 129.95 EUR
 prodname: 'Salomon Herren XA PRO 3D V8  Leichte Schuhe für Trail Running und Wandern  Schwarz  Black/Black/Black  44 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: 'Salomon'
 buyurl: 'https://www.amazon.de/dp/B07WJHQBVW/?tag=tolees0ca-21'
 descuento: '18.11'
-average: '92.4963414634146'
+average: '93.143953488372'
 ---
 
 Sie können [Salomon Herren XA PRO 3D V8  Leichte Schuhe für Trail Running und Wandern  Schwarz  Black/Black/Black  44 EU](https://www.amazon.de/dp/B07WJHQBVW/?tag=tolees0ca-21) mit Preis 106.42 EUR (original: 129.95 EUR) 18.11 % Rabatt hier:
@@ -27,8 +28,8 @@ Sie können [Salomon Herren XA PRO 3D V8  Leichte Schuhe für Trail Running und 
 
 ℹ️:
 
-- Xa pro 3D V8
 - Salomon
+- Xa pro 3D V8
 - Farbe: Black/Black/Black
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07WJHQBVW/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60256 City Rennwagen-Duell Spielzeu mit 16.96 % Rabatt'
-date: 2021-01-30 03:22:38
+date: 2021-01-31 09:17:39
 image: 'https://m.media-amazon.com/images/I/51VUfzrd2RL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 19.99 EUR
 prodname: 'LEGO 60256 City Rennwagen-Duell Spielzeug mit 2 Rennfahrer-Minifiguren  Rallyefahrzeuge für Kinder ab 5 Jahren'
 country: 'de'
 flag: '🇩🇪'
+brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W7TMP9M/?tag=tolees0ca-21'
 descuento: '16.96'
-average: '15.7472093023256'
+average: '15.7851111111111'
 ---
 
 Sie können [LEGO 60256 City Rennwagen-Duell Spielzeug mit 2 Rennfahrer-Minifiguren  Rallyefahrzeuge für Kinder ab 5 Jahren](https://www.amazon.de/dp/B07W7TMP9M/?tag=tolees0ca-21) mit Preis 16.6 EUR (original: 19.99 EUR) 16.96 % Rabatt hier:
@@ -28,9 +29,9 @@ Sie können [LEGO 60256 City Rennwagen-Duell Spielzeug mit 2 Rennfahrer-Minifigu
 ℹ️:
 
 - Das rot-weiße Auto hat einen superschnellen, benzinbetriebenen Motor, und das gelb-blaue Auto hat einen superleisen, superkraftvollen, elektrischen Motor
-- Beinhaltet 2 Rennfahrer-Minifiguren mit Rennhelmen, 2 Leitkegeln und Action mit Vollgas
+- Mit Spielzeugautos mit Elektro- und Benzinantrieb, abnehmbarer Motorhaube und 2 orangefarbenen Verkehrskegeln zur Markierung der Ziellinie
 - Ideal für Kinder, die Rennautospielzeug lieben. Ihr kleiner Rennfahrer wird endlose Highspeed-Action genießen, um herauszufinden, welche Art von Motor besser ist
 - Das Rennwagen-Duell-Set wird mit einer einfachen Bauanleitung geliefert, die Ihrem angehenden LEGO-Baumeister hilft, seine Baukünste zu erlernen
-- Mit Spielzeugautos mit Elektro- und Benzinantrieb, abnehmbarer Motorhaube und 2 orangefarbenen Verkehrskegeln zur Markierung der Ziellinie
+- Beinhaltet 2 Rennfahrer-Minifiguren mit Rennhelmen, 2 Leitkegeln und Action mit Vollgas
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W7TMP9M/?tag=tolees0ca-21)

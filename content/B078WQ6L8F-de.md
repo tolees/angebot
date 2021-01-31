@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '41.47 % rabat auf FILA Disruptor wmn Damen Sneaker  Weiß  '
-date: 2021-01-30 03:10:49
+date: 2021-01-31 09:18:54
 image: 'https://m.media-amazon.com/images/I/41+FgQPGBjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 99.95 EUR
 prodname: 'FILA Disruptor wmn Damen Sneaker  Weiß  White   38 EU'
 country: 'de'
 flag: '🇩🇪'
+brand: 'FILA'
 buyurl: 'https://www.amazon.de/dp/B078WQ6L8F/?tag=tolees0ca-21'
 descuento: '41.47'
-average: '55.7687499999999'
+average: '55.9294117647058'
 ---
 
 Es gibt ein [FILA Disruptor wmn Damen Sneaker  Weiß  White   38 EU](https://www.amazon.de/dp/B078WQ6L8F/?tag=tolees0ca-21) mit aktuellem Preis 58.5 EUR (original: 99.95 EUR) 41.47 % Rabatt hier:

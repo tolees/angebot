@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '26.87 % rabat auf Sony KDL-32WD757 80cm  32 Zoll  Fernsehe'
-date: 2021-01-30 02:57:21
+title: '26.86 % rabat auf Sony KDL-32WD757 80cm  32 Zoll  Fernsehe'
+date: 2021-01-31 09:28:18
 image: 'https://m.media-amazon.com/images/I/51dTCojLLBL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,29 @@ author: ring
 slug: 'B01DU8PSXC-de Sony KDL-32WD757 80cm 32 Zoll Fernseher Full HD HD Triple...'
 sku: 'B01DU8PSXC-de'
 tags: [  ]
-actualPrice: 364.91 EUR
+actualPrice: 364.98 EUR
 currency: EUR
-price: 364.91
+price: 364.98
 comparePrice: 499.0 EUR
 prodname: 'Sony KDL-32WD757 80cm  32 Zoll  Fernseher  Full HD  HD Triple Tuner  Smart-TV  silber'
 country: 'de'
 flag: '🇩🇪'
+brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B01DU8PSXC/?tag=tolees0ca-21'
-descuento: '26.87'
-average: '342.992985074629'
+descuento: '26.86'
+average: '343.316323529414'
 ---
 
-Es gibt ein [Sony KDL-32WD757 80cm  32 Zoll  Fernseher  Full HD  HD Triple Tuner  Smart-TV  silber](https://www.amazon.de/dp/B01DU8PSXC/?tag=tolees0ca-21) mit aktuellem Preis 364.91 EUR (original: 499.0 EUR) 26.87 % Rabatt hier:
+Es gibt ein [Sony KDL-32WD757 80cm  32 Zoll  Fernseher  Full HD  HD Triple Tuner  Smart-TV  silber](https://www.amazon.de/dp/B01DU8PSXC/?tag=tolees0ca-21) mit aktuellem Preis 364.98 EUR (original: 499.0 EUR) 26.86 % Rabatt hier:
 
 [![Sony KDL-32WD757 80cm  32 Zoll  Fernsehe](https://m.media-amazon.com/images/I/51dTCojLLBL._SL200_.jpg)](https://www.amazon.de/dp/B01DU8PSXC/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Smart Tv More Than Just Tv: Whether Your Favorite Clips On Youtube, Tv Shows From Various Media Libraries, Movies From Netflix, Amazon Video, Max Cathedrals Or Other Apps: You Decide What And When You Want To See It
-- Precious Aluminum Design: Ideal For Wall Mounting. The Compact Design And The Slim Frame Would Allow Unrestricted View Of The Essentials: The Image
-- Contents: Sony Kdl-32Wd757 80 Cm (32 Inch) Television, Supported Audio Formats - Dolby Digital, Dolby Digital Plus, Dolby Pulse, Dts Second 0 + Digital Output
-- Usb Recording: Program Your Tv And Record Tv Programs On An External Hard Drive
-- With X-Reality Pro You Will Experience An Exceptionally Clear And Sharp Picture Detail In Everything You Look At. Tuner Reception Area (Analog): 45.25 Mhz 863.25 Mhz (Depending On The Country)
+- USB-Aufnahmefunktion: Programmieren Sie Ihren Fernseher und zeichnen Sie Fernsehsendungen auf einer externen Festplatte auf
+- Smart TV-mehr als einfach nur Fernsehen: Ob Ihre Lieblingsclips auf YouTube, TV-Serien aus verschiedenen Mediatheken, Filme von Netflix, Amazon Video, Maxdome oder anderen Apps: Sie bestimmen, was und wann Sie es sehen wollen
+- Mit X-Reality PRO erleben Sie ein außergewöhnlich klares und detailscharfes Bild, bei allem was Sie sich anschauen. Tuner-Empfangsbereich (Analog): 45,25 MHz–863,25 MHz, (abhängig vom Land)
+- Edles Aluminium-Design: Ideal für die Wandmontage. Die kompakte Bauweise und der schmale Rahmen ermöglichen den uneingeschränkten Blick auf das Wesentliche: das Bild
+- Lieferumfang: Sony KDL-32WD757 80 cm (32 Zoll) Fernseher, Unterstützte Audio Formats - Dolby Digital, Dolby Digital Plus, Dolby Pulse, DTS 2.0 + Digitaler Ausgang
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01DU8PSXC/?tag=tolees0ca-21)
