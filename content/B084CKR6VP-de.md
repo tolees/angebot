@@ -28,10 +28,10 @@ Es gibt ein [LEGO 75317 BrickHeadz Star Wars Der Mandalorianer und das Kind  Bau
 
 ℹ️:
 
+- Authentische Details rufen die spannenden Geschichten aus „ Star Wars: The Mandalorian“ in Erinnerung.
+- Der Mandalorianer und das Kind als LEGO BrickHeadz Baumodelle und Schaustücke.
 - Ein grandioses Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Fans ab 10 Jahren.
 - Bei diesem Set steht die Freude am Bauen mit LEGO Steinen im Vordergrund. Batterien werden nicht benötigt.
-- Der Mandalorianer und das Kind als LEGO BrickHeadz Baumodelle und Schaustücke.
-- Authentische Details rufen die spannenden Geschichten aus „ Star Wars: The Mandalorian“ in Erinnerung.
 - Jedes dieser faszinierenden Bauspielzeuge für Kinder verfügt über eine Bodenplatte zum Aufstellen und Präsentieren der Figur.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B084CKR6VP/?tag=tolees0ca-21)

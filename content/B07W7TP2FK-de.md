@@ -28,9 +28,9 @@ Es gibt ein [LEGO 75271 Star Wars Luke Skywalkers Landspeeder Bauset mit Java Mi
 
 ℹ️:
 
-- Man kann das Modell auch heranzoomen, drehen und anzeigen, während das Original mit der digitalen Anleitung Instructions PLUS erstellt wird, die in der kostenlosen LEGO Life-App verfügbar ist
-- Kinder können nach dem Jawa Ausschau halten, der sich in einer Höhle versteckt und bereit ist, Luke zu überfallen. Dann können sie Lukes Blasterpistole nehmen und gegen diesen Wüstenräuber kämpfen
 - Bietet einen Landspeeder mit viel Platz für Luke- und C-3PO-Minifiguren sowie ein baubares Höhlenversteck für eine bewaffnete Jawa-Minifigur
+- Kinder können nach dem Jawa Ausschau halten, der sich in einer Höhle versteckt und bereit ist, Luke zu überfallen. Dann können sie Lukes Blasterpistole nehmen und gegen diesen Wüstenräuber kämpfen
+- Man kann das Modell auch heranzoomen, drehen und anzeigen, während das Original mit der digitalen Anleitung Instructions PLUS erstellt wird, die in der kostenlosen LEGO Life-App verfügbar ist
 - Der Landspeeder hat einen Kofferraum für Lukes Makrobinokular und einen Clip für seine Blasterpistole, drei gigantische Motoren und eine Waffe, mit der er auf den Feind feuern kann
 - Enthält drei Minifiguren: Luke Skywalker (mit einem neuen Stoffponcho), C-3PO, sowie einen bewaffneten Jawa für Kampfaction
 

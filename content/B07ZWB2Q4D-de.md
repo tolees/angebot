@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '31.22 % rabat auf LEONINE Distribution GmbH - Knives Out -'
-date: 2021-01-29 10:27:38
+title: '44.82 % rabat auf LEONINE Distribution GmbH - Knives Out -'
+date: 2021-01-31 04:22:22
 image: 'https://m.media-amazon.com/images/I/51nZRl0xtqL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,19 +9,20 @@ author: ring
 slug: 'B07ZWB2Q4D-de LEONINE Distribution GmbH - Knives Out - Mord ist...'
 sku: 'B07ZWB2Q4D-de'
 tags: [  ]
-actualPrice: 5.97 EUR
+actualPrice: 4.79 EUR
 currency: EUR
-price: 5.97
+price: 4.79
 comparePrice: 8.68 EUR
 prodname: 'LEONINE Distribution GmbH - Knives Out - Mord ist Familiensache'
 country: 'de'
 flag: '🇩🇪'
+brand: 'LEONINE Distribution GmbH'
 buyurl: 'https://www.amazon.de/dp/B07ZWB2Q4D/?tag=tolees0ca-21'
-descuento: '31.22'
-average: '7.88185714285715'
+descuento: '44.82'
+average: '7.83830985915494'
 ---
 
-Es gibt ein [LEONINE Distribution GmbH - Knives Out - Mord ist Familiensache](https://www.amazon.de/dp/B07ZWB2Q4D/?tag=tolees0ca-21) mit aktuellem Preis 5.97 EUR (original: 8.68 EUR) 31.22 % Rabatt hier:
+Es gibt ein [LEONINE Distribution GmbH - Knives Out - Mord ist Familiensache](https://www.amazon.de/dp/B07ZWB2Q4D/?tag=tolees0ca-21) mit aktuellem Preis 4.79 EUR (original: 8.68 EUR) 44.82 % Rabatt hier:
 
 [![LEONINE Distribution GmbH - Knives Out -](https://m.media-amazon.com/images/I/51nZRl0xtqL._SL200_.jpg)](https://www.amazon.de/dp/B07ZWB2Q4D/?tag=tolees0ca-21)
 
