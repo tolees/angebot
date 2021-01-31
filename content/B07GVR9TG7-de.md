@@ -28,10 +28,10 @@ Sie können [TP-Link Archer C6 Dualband Gigabit WLAN-Router  867Mbit/s 5GHz + 30
 
 ℹ️:
 
-- Die Beamforming-Technologie bietet eine größere Funkabdeckung. Betriebstemperatur: 0° C ~ 40° C
-- gleichzeitige Verbindungen mit 2, 4 GHz und 5 GHz mit bis zu 300 Mbit/s und 867 Mbit/s für insgesamt verfügbare Bandbreite von bis zu 1, 2 GBit/s
 - Unterstützt den Accesspoint-Modus, um einen neuen WLAN-Access Point zu schaffen
 - LAN-Ports 4 10/100/ 1000Mbps, Splitter 1 10/100/ 1000Mbps
+- gleichzeitige Verbindungen mit 2, 4 GHz und 5 GHz mit bis zu 300 Mbit/s und 867 Mbit/s für insgesamt verfügbare Bandbreite von bis zu 1, 2 GBit/s
+- Die Beamforming-Technologie bietet eine größere Funkabdeckung. Betriebstemperatur: 0° C ~ 40° C
 - 4 externe Antennen und 1 interne Antenne sorgen für stabile Funkverbindungen und optimale Abdeckung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07GVR9TG7/?tag=tolees0ca-21)
