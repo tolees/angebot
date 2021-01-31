@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi MJCQB02QJ Mobiler Luftkompressor  mit 15.23 % Rabatt'
-date: 2021-01-30 08:31:00
+date: 2021-01-31 20:47:22
 image: 'https://m.media-amazon.com/images/I/31oO38N5TbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.de/dp/B07XZCLGVQ/?tag=tolees0ca-21'
 descuento: '15.23'
-average: '39.5040506329114'
+average: '39.4570711297072'
 ---
 
 Sie können [Xiaomi MJCQB02QJ Mobiler Luftkompressor  A  1](https://www.amazon.de/dp/B07XZCLGVQ/?tag=tolees0ca-21) mit Preis 33.89 EUR (original: 39.98 EUR) 15.23 % Rabatt hier:
