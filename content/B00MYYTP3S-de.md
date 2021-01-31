@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Netgear GS108E Switch 8 Port Gigabit Eth mit 20.65 % Rabatt'
-date: 2021-01-30 02:57:05
+date: 2021-01-31 14:47:05
 image: 'https://m.media-amazon.com/images/I/41FEtHOL3RL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 44.99 EUR
 prodname: 'Netgear GS108E Switch 8 Port Gigabit Ethernet LAN Switch Smart Managed Plus  robustes und lüfterloses Metallgehäuse  für Desktop  mit ProSAFE-Lifetime-Garantie '
 country: 'de'
 flag: '🇩🇪'
+brand: 'Netgear'
 buyurl: 'https://www.amazon.de/dp/B00MYYTP3S/?tag=tolees0ca-21'
 descuento: '20.65'
-average: '37.6390109890109'
+average: '37.5973118279569'
 ---
 
 Sie können [Netgear GS108E Switch 8 Port Gigabit Ethernet LAN Switch Smart Managed Plus  robustes und lüfterloses Metallgehäuse  für Desktop  mit ProSAFE-Lifetime-Garantie ](https://www.amazon.de/dp/B00MYYTP3S/?tag=tolees0ca-21) mit Preis 35.7 EUR (original: 44.99 EUR) 20.65 % Rabatt hier:
@@ -27,12 +28,12 @@ Sie können [Netgear GS108E Switch 8 Port Gigabit Ethernet LAN Switch Smart Mana
 
 ℹ️:
 
+- LANGE LEBENSDAUER: Jeder NETGEAR Netzwerk-Switch wird nach strengen Kriterien auf Zuverlässigkeit, Qualität und Leistung getestet
+- PROSAFE LIFETIME GARANTIE: Branchenführende eingeschränkte, lebenslange Hardware-Garantie, Austausch nächster Arbeitstag, 24h Chat mit NETGEAR Experten
+- VIELSEITIGE MONTAGEMÖGLICHKEITEN: Desktop oder Wandmontage des LAN Verteiler-Switches möglich
+- ENERGIEEFFIZIENT: Optimiert Energieverbrauch und senkt Betriebskosten, da mit energieeffizientem Ethernet-Modus IEEE802.3az kompatibel
+- NETZWERKANSCHLUSSKONFIGURATION: 8 Gigabit Port (10/100/1000 MBit/s) RJ45 Netzwerk Switch
 - LEISER BETRIEB: Lüfterloses Design sorgt unabhängig vom Aufstellort für einen leisen Betrieb – ideal für geräuschempfindliche Umgebungen
 - KONFIGURATION UND STEUERUNG: Managementsoftware mit intuitiver WebGUI ermöglicht Funktionen zur Konfiguration, Sicherung und Überwachung des Netzwerks
-- VIELSEITIGE MONTAGEMÖGLICHKEITEN: Desktop oder Wandmontage des LAN Verteiler-Switches möglich
-- PROSAFE LIFETIME GARANTIE: Branchenführende eingeschränkte, lebenslange Hardware-Garantie, Austausch nächster Arbeitstag, 24h Chat mit NETGEAR Experten
-- NETZWERKANSCHLUSSKONFIGURATION: 8 Gigabit Port (10/100/1000 MBit/s) RJ45 Netzwerk Switch
-- LANGE LEBENSDAUER: Jeder NETGEAR Netzwerk-Switch wird nach strengen Kriterien auf Zuverlässigkeit, Qualität und Leistung getestet
-- ENERGIEEFFIZIENT: Optimiert Energieverbrauch und senkt Betriebskosten, da mit energieeffizientem Ethernet-Modus IEEE802.3az kompatibel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00MYYTP3S/?tag=tolees0ca-21)
