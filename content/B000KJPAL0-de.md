@@ -28,10 +28,10 @@ Es gibt ein [Wedo 212201 Rollhocker Step aus Kunststoff  Höhe 43 cm  Tragkraft 
 
 ℹ️:
 
-- EN 14183-F
-- WEDO Rollhocker STEP, schwarz (RAL 9005) aus bruchfestem, wiederverwertbarem Kunststoff, kinderleicht zusammensteckbar. Werkzeuge sind nicht erforderlich
-- Superleicht beweglich durch drei auf Stahlfedern gelagerte Gleitrollen. Bei Belastung steht er unverrückbar fest auf seinem integrierten Gummistandring.
 - Tragkraft 150 kg.
+- WEDO Rollhocker STEP, schwarz (RAL 9005) aus bruchfestem, wiederverwertbarem Kunststoff, kinderleicht zusammensteckbar. Werkzeuge sind nicht erforderlich
 - Höhe unbelastet ca. 43,0 cm, Höhe belastet ca. 42,5 cm. Durchmesser oben ca. 29,0 cm, unten ca. 44,0 cm
+- Superleicht beweglich durch drei auf Stahlfedern gelagerte Gleitrollen. Bei Belastung steht er unverrückbar fest auf seinem integrierten Gummistandring.
+- EN 14183-F
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000KJPAL0/?tag=tolees0ca-21)

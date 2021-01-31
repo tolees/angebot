@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '29.96 % rabat auf Tommy Hilfiger Damen DANNY BELT Gürtel  '
-date: 2021-01-29 20:36:23
+date: 2021-01-31 02:58:34
 image: 'https://m.media-amazon.com/images/I/41VYhv-KnbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 44.9 EUR
 prodname: 'Tommy Hilfiger Damen DANNY BELT Gürtel  Schwarz  MASTERS BLACK 017   95 cm'
 country: 'de'
 flag: '🇩🇪'
+brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.de/dp/B00XDYNWIW/?tag=tolees0ca-21'
 descuento: '29.96'
 average: '31.45'
@@ -27,8 +28,8 @@ Es gibt ein [Tommy Hilfiger Damen DANNY BELT Gürtel  Schwarz  MASTERS BLACK 017
 
 ℹ️:
 
-- Material: Leder
 - Gürtelbreite: 3.5cm
+- Material: Leder
 - Gürtelbreite: 3.5cm
 - Gürtelverschluss: Dornschließe
 - Serie: Danny

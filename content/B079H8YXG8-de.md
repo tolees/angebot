@@ -28,10 +28,10 @@ Es gibt ein [Cooler Master MasterLiquid ML240R RGB-CPU-Wasserkühler - ARGB-Sync
 
 ℹ️:
 
-- STILVOLLER SCHLAUCH - Der extra dicke FEB-Wellschlauch ist unter Premium-Gewindeschläuchen verborgen und ermöglicht scharfe Ecken oder enge Biegungen, ohne das Innenprofil zu beeinträchtigen, um einen unterbrechungsfreien Wasserfluss zu gewährleisten.
-- COOLER MASTER QUALITÄT - Die MasterLiquid ARGB-Serie kombiniert adressierbare Beleuchtung und leistungsstarke Wasserkühlung in einem All-in-One Kühlersystem (2 Jahre ). Mit einer intuitiven Anleitung ist die Installation im Handumdrehen erledigt.
 - ARGB-BELEUCHTUNG - Adressierbare RGB-LEDs im Pumpendiffusor und beiden MF120R-ARGB-Lüftern die mit RGB-zertifizierten Motherboards synchronisiert werden kann. Die Steuerung erfolgt über den mitgelieferten Controller oder mit unserer MasterPlus Software.
-- DOPPELKAMMERPUMPE - Die Zweikammerpumpe mit PPS und Glasfasergehäuse ist leicht und 100% unempfindlich gegen Oxidation und Korrosion. Der primäre Kupferwärmetauscher verfügt über Hunderte von Mikrokanälen, um die Wärmeleitfähigkeit zu erhöhen.
+- COOLER MASTER QUALITÄT - Die MasterLiquid ARGB-Serie kombiniert adressierbare Beleuchtung und leistungsstarke Wasserkühlung in einem All-in-One Kühlersystem (2 Jahre ). Mit einer intuitiven Anleitung ist die Installation im Handumdrehen erledigt.
 - DOPPELLÜFTERKÜHLER - MasterLiquid ML240R bietet zusätzliche Kapazität für einen intensiveren Einsatz mit einem niederohmigen Kühler mit doppelter Länge und zwei 120R ARGB Master Ventilatoren mit Hybridblättern, Stauschutz und Vibrationsdämpfung.
+- DOPPELKAMMERPUMPE - Die Zweikammerpumpe mit PPS und Glasfasergehäuse ist leicht und 100% unempfindlich gegen Oxidation und Korrosion. Der primäre Kupferwärmetauscher verfügt über Hunderte von Mikrokanälen, um die Wärmeleitfähigkeit zu erhöhen.
+- STILVOLLER SCHLAUCH - Der extra dicke FEB-Wellschlauch ist unter Premium-Gewindeschläuchen verborgen und ermöglicht scharfe Ecken oder enge Biegungen, ohne das Innenprofil zu beeinträchtigen, um einen unterbrechungsfreien Wasserfluss zu gewährleisten.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B079H8YXG8/?tag=tolees0ca-21)

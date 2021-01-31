@@ -28,10 +28,10 @@ Es gibt ein [Melissa & Doug Das Brettchen lehrt Grundkenntnisse  6 Teile ](https
 
 ℹ️:
 
-- Sechs Teile und ein Puzzlebrett
+- Ideal zum Üben feinmotorischer Fähigkeiten
 - Mit Schnallen, Knopf, Schuhbänder, Druckknöpfe und Reißverschluss
 - Aktivitätenbrett zum Erlernen von Fertigkeiten
+- Sechs Teile und ein Puzzlebrett
 - Fördert die Fertigkeit, sich allein anzuziehen
-- Ideal zum Üben feinmotorischer Fähigkeiten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0015XWTW8/?tag=tolees0ca-21)

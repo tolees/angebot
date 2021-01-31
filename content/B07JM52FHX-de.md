@@ -28,7 +28,7 @@ Es gibt ein [PLAYMOBIL 70138 Country Mobiles Hühnerhaus  bunt](https://www.amaz
 
 ℹ️:
 
-- 1 Figur mit vielen Tieren und Zubehör
 - Dach abnehmbar
+- 1 Figur mit vielen Tieren und Zubehör
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07JM52FHX/?tag=tolees0ca-21)

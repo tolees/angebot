@@ -28,10 +28,10 @@ Es gibt ein [De’Longhi - De Longhi Icona Vintage Espresso Siebträgermaschine 
 
 ℹ️:
 
-- Milchaufschäumdüse: Für die Zubereitung von cremigem Milchschaum
 - Energiesparfunktion: automatische Abschaltung 9 min. nach dem letzten Tassenbezug
-- Abnehmbarer Wassertank: Abnehmbarer Wassertank für eine leichte Befüllung und Reinigung
+- Milchaufschäumdüse: Für die Zubereitung von cremigem Milchschaum
 - Multifunkions-Siebträger: der Siebträgereinsatz ist geeignet für gemahlenen Kaffee und für E.S.E. Pods für 1 und 2 Tassen
 - Design: Edelstahl in elegantem Retro Look in Beige mit Chrom-Details
+- Abnehmbarer Wassertank: Abnehmbarer Wassertank für eine leichte Befüllung und Reinigung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00S4U4W4I/?tag=tolees0ca-21)
