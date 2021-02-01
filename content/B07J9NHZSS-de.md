@@ -28,10 +28,10 @@ Sie können [Atelier GARDEUR Herren Batu Comfort Stretch Jeans  Anthrazit 198  3
 
 ℹ️:
 
-- - Marke: Atelier Gardeur
 - - Artikel: BATU
-- - Superflex
 - - 5-Pocket Hose
 - - Stretch mit elastischem Komforbund
+- - Marke: Atelier Gardeur
+- - Superflex
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07J9NHZSS/?tag=tolees0ca-21)

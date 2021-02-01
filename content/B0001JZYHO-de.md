@@ -28,10 +28,10 @@ Sie können [ROTHENBERGER Industrial Super Cut Premium Qualität - 6 teiliger Ge
 
 ℹ️:
 
-- Perfekte Zentrierung
-- Optimierte Schneidgeometrie ermöglicht leichten Anschnitt und hervorragenden Spanablauf
 - Inklusive 3 x Schneidkopf
-- Premium-Ausführung ! Aus gehärtetem Stahl, lasergeschnitten, durch konisch zulaufende Gewindeschneidköpfe bessere Abdichtungseigenschaften
+- Perfekte Zentrierung
 - Kraftersparnis durch Hebelfunktion & Handliche, arretierbare Umstellung der Ratschenrichtung
+- Optimierte Schneidgeometrie ermöglicht leichten Anschnitt und hervorragenden Spanablauf
+- Premium-Ausführung ! Aus gehärtetem Stahl, lasergeschnitten, durch konisch zulaufende Gewindeschneidköpfe bessere Abdichtungseigenschaften
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0001JZYHO/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [Corona Extra Premium Lager Dosenbier  Einweg Lager Bier  24 X 0.33 
 
 ℹ️:
 
-- Corona hat dieses gewisse Etwas. Kein anderes Bier bringt das Gefühl von Strand und mexikanischer Sonne in den Alltag
-- Erfrischend mildes internationales Premium-Lagerbier
-- Corona sorgt für Beach-Feeling pur im Alltag. Am besten eiskalt mit einer Scheibe Limette genießen und die Sonne Mexikos nach Hause holen
 - Corona ist das erfolgreichste mexikanische Bier weltweit und ist bekannt durch seine hohe Qualität, typisch goldene Farbe und seinen einzigartigen Geschmack
+- Corona hat dieses gewisse Etwas. Kein anderes Bier bringt das Gefühl von Strand und mexikanischer Sonne in den Alltag
+- Corona sorgt für Beach-Feeling pur im Alltag. Am besten eiskalt mit einer Scheibe Limette genießen und die Sonne Mexikos nach Hause holen
 - Lieferumfang: 24 x 0, 33 l Corona Extra Lager Dosen-Bier/ 6€ Pfand zuzüglich zum Kaufpreis / Pfand wie üblich überall einlösbar
+- Erfrischend mildes internationales Premium-Lagerbier
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07YSNBQX2/?tag=tolees0ca-21)

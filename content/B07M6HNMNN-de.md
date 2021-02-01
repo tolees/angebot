@@ -28,9 +28,9 @@ Es gibt ein [THE NORTH FACE Bones Recyced Beanie Headgear  TNF Black  OS](https:
 
 ℹ️:
 
+- Farbe: Schwarz
+- Verpackungsgewicht: 109 g
 - Verpackungsabmessungen (L x B x H): 4.089 zm x 19.507 zm x 24.993 zm
 - Herkunftsland:- Vietnam
-- Verpackungsgewicht: 109 g
-- Farbe: Schwarz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07M6HNMNN/?tag=tolees0ca-21)

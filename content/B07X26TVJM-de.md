@@ -28,10 +28,10 @@ Es gibt ein [AEG AZE135 Elektrosaugbürste  Zubehör  Düse für Handteil des QX
 
 ℹ️:
 
-- Tiefenreinigung: Die Elektrosaugbürste entfernt tiefsitzenden Staub und Schmutz, der sonst nur schwer zu erreichen ist
-- Anwendungsbereiche: Polstermöbel, Teppiche, Matratzen, Decken oder Kissen werden effektiv von Schmutz befreit
-- Elektrosaugbürste: Elektrisch betriebene Zusatzdüse mit rotierender Bürstenrolle
 - Ideal für Allergiker und Haustierbesitzer: Zusätzliche Tierhaardüse für das entnehmbare Handteil zur Aufnahme von Tierhaaren, Milben und Hausstaub
 - Lieferumfang: 1x Elektrosaugbürste // Passend für: alle QX9 Akku-Staubsauger
+- Elektrosaugbürste: Elektrisch betriebene Zusatzdüse mit rotierender Bürstenrolle
+- Tiefenreinigung: Die Elektrosaugbürste entfernt tiefsitzenden Staub und Schmutz, der sonst nur schwer zu erreichen ist
+- Anwendungsbereiche: Polstermöbel, Teppiche, Matratzen, Decken oder Kissen werden effektiv von Schmutz befreit
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07X26TVJM/?tag=tolees0ca-21)

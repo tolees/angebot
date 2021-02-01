@@ -28,7 +28,7 @@ Es gibt ein [3M 6000 Serie Partikelfilter / 6035  1 Paar](https://www.amazon.de
 
 ℹ️:
 
-- Ergonomisches Design.
 - Schützt vor dem Einatmen von gefährlichen Stoffen in der Luft am Arbeitsplatz.
+- Ergonomisches Design.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00SOKSH0I/?tag=tolees0ca-21)
