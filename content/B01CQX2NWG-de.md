@@ -28,8 +28,8 @@ Es gibt ein [Rowenta CV8732F0 Infini Pro Professioneller Haartrockner mit Diffus
 
 ℹ️:
 
-- Ionisator
 - AC-Motor
+- Ionisator
 - Hub 6 mm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01CQX2NWG/?tag=tolees0ca-21)
