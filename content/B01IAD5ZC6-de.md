@@ -1,32 +1,38 @@
 ---
 layout: post
-title: '43.17 % rabat auf Seagate Backup Plus HUB  8 TB  externe F'
-date: 2020-07-30 10:47:27
-image: 'https://m.media-amazon.com/images/I/412SiQIOYHL._SL200_.jpg'
+title: '18.59 % rabat auf Seagate Backup Plus HUB  externe Festpla'
+date: 2021-02-01 09:45:37
+image: 'https://m.media-amazon.com/images/I/41dzKPe1meL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IAD5ZC6-de Seagate Backup Plus HUB 8 TB externe Festplatte mit 2-fach...'
+slug: 'B01IAD5ZC6-de Seagate Backup Plus HUB externe Festplatte mit 2-fach USB...'
 sku: 'B01IAD5ZC6-de'
 tags: [  ]
-actualPrice: 133.55 EUR
+actualPrice: 119.0 EUR
 currency: EUR
-price: 133.55
-comparePrice: 234.99 EUR
-prodname: 'Seagate Backup Plus HUB  8 TB  externe Festplatte mit 2-fach USB Hub  3.5 Zoll  USB 3.0  PC & Mac  ModelNr.: STEL8000200'
+price: 119.0
+comparePrice: 146.17 EUR
+prodname: 'Seagate Backup Plus HUB  externe Festplatte mit 2-fach USB Hub 8 TB  3.5 Zoll  USB 3.0  PC  Notebook & Mac  inkl. 2 Jahre Rescue Service Modellnr.: STEL8000200'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'Seagate'
 buyurl: 'https://www.amazon.de/dp/B01IAD5ZC6/?tag=tolees0ca-21'
-descuento: '43.17'
-average: '130.84199999999998'
+descuento: '18.59'
+average: '127.458571428571'
 ---
 
-Es gibt ein [Seagate Backup Plus HUB  8 TB  externe Festplatte mit 2-fach USB Hub  3.5 Zoll  USB 3.0  PC & Mac  ModelNr.: STEL8000200](https://www.amazon.de/dp/B01IAD5ZC6/?tag=tolees0ca-21) mit aktuellem Preis 133.55 EUR (original: 234.99 EUR) 43.17 % Rabatt hier:
+Es gibt ein [Seagate Backup Plus HUB  externe Festplatte mit 2-fach USB Hub 8 TB  3.5 Zoll  USB 3.0  PC  Notebook & Mac  inkl. 2 Jahre Rescue Service Modellnr.: STEL8000200](https://www.amazon.de/dp/B01IAD5ZC6/?tag=tolees0ca-21) mit aktuellem Preis 119.0 EUR (original: 146.17 EUR) 18.59 % Rabatt hier:
 
-[![Seagate Backup Plus HUB  8 TB  externe F](https://m.media-amazon.com/images/I/412SiQIOYHL._SL200_.jpg)](https://www.amazon.de/dp/B01IAD5ZC6/?tag=tolees0ca-21)
+[![Seagate Backup Plus HUB  externe Festpla](https://m.media-amazon.com/images/I/41dzKPe1meL._SL200_.jpg)](https://www.amazon.de/dp/B01IAD5ZC6/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Sichern Sie Ihre gesamten Fotos, Filme und Videos mit Seagate Dashboard, einschließlich der Dateien, die Sie auf Facebook, Flickr und YouTube freigegeben haben
+- Mobile Backup mit einem Klick und benutzerdefinierte Sicherung
+- Beinhaltet eine ergänzende 2 monatige Nutzung von Adobe Creative Cloud Photography Plan. Muss eingelösst sein bis zum 31. Januar 2020
+- Lieferumfang: Seagate Backup Plus Desktop, externe Festplatte, USB-3.0 Kabel, Netzteil, Installationsanleitung
+- Zwei integrierte Highspeed-USB-3.0-Anschlüsse an der Vorderseite zum Verbinden und Aufladen Ihrer anderen USB-Geräte
+- Sowohl mit PC als auch mit dem MAC verwendbar - ohne Umformatierung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01IAD5ZC6/?tag=tolees0ca-21)
