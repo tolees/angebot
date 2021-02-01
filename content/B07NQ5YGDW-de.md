@@ -32,7 +32,7 @@ Sie können [TP-Link UB400 Nano USB Bluetooth 4.0 Adapter Dongle  für PC Laptop
 - Nano-Design, Mini-Format, Ideal für den Einsatz unterwegs.Betriebstemperatur: 0 ~ 40 °C
 - Plug and Play keine Konfiguration erforderlich (für Win 8, Win 8.1 und Win 10)
 - Betriebssystem: Unterstützt Windows 10/8.1/8/7/XP
-- Lieferumfang - Bluetooth 4.0 Nano USB Adapter UB400, Quick Installation Guide
 - PS4 Controller kompatibel: Weitere Informationen finden Sie im PDF unter Produktinformation
+- Lieferumfang - Bluetooth 4.0 Nano USB Adapter UB400, Quick Installation Guide
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07NQ5YGDW/?tag=tolees0ca-21)
