@@ -29,9 +29,9 @@ Es gibt ein [Sylvanian Families 5317 Baby Bus "Sonnenschein" - Puppenhaus Auto S
 ℹ️:
 
 - The chairs on the upper deck can be turned over to make a seesaw to play with
+- Removing the seats reveals a pool
+- Suitable for ages three years and above
 - Stimulates imaginative role-playing by children
 - Up to 12 babies can ride
-- Suitable for ages three years and above
-- Removing the seats reveals a pool
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01BREEQW0/?tag=tolees0ca-21)

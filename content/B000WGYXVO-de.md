@@ -28,9 +28,9 @@ Es gibt ein [Pentel TRJ50-AO Tradio Federschreiber Stylo  Schreibfarbe: schwarz 
 
 ℹ️:
 
-- Ideal zum Schreiben aber auch Zeichnen
 - Nachfüllbar mit Patrone MLJ20
-- Matt-schwarzes Gehäuse, Kappe mit Clip
 - Tradio Stylo Federschreiber - einzigartig durch seine flexible Kunststoff-Federspitze
+- Matt-schwarzes Gehäuse, Kappe mit Clip
+- Ideal zum Schreiben aber auch Zeichnen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000WGYXVO/?tag=tolees0ca-21)

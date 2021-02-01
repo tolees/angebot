@@ -28,9 +28,9 @@ Es gibt ein [Nike Herren Tanjun Laufschuhe  Schwarz  Black/Black-Anthracite   43
 
 ℹ️:
 
-- Innenmaterial: Textil
-- Obermaterial: Textil
 - eBay Multihinweis: verschiedene Farben
+- Obermaterial: Textil
+- Innenmaterial: Textil
 - Anlass: Casual
 - Größenhinweis: Fällt passend aus
 

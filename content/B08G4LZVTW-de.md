@@ -29,10 +29,10 @@ Es gibt ein [LEGO 42122 Technic Jeep Wrangler 4x4 Spielzeugauto  Geländewagen  
 ℹ️:
 
 - Türen und Motorhaube lassen sich öffnen, damit das detailreiche Interieur des Geländewagens gut zugänglich ist
-- Dieses fantastische Modell enthält jede Menge authentische Details des Jeep Wrangler, etwa die klassischen runden Frontscheinwerfer, den 7-Slot-Kühlergrill, das vollwertige Ersatzrad und die umlegbaren Rücksitze
-- Die Frontlenkung, die leistungsstarke Radaufhängung, die eine enorme Achsverschränkung zulässt, und die Seilwinde lassen Kinder jede Menge Offroad-Abenteuer mit dem weltberühmten Jeep Wrangler erleben
 - Diese Version des Jeep Wrangler Rubicon ist ein tolles Geschenk für junge LEGO Fans, der gerne Spielzeugautos sammeln und sich schon auf die nächste Bauherausforderung freuen
 - Kinder werden die auffällige schwarz-gelbe Lackierung des prestigeträchtigen Jeep Wrangler Rubicon lieben
+- Die Frontlenkung, die leistungsstarke Radaufhängung, die eine enorme Achsverschränkung zulässt, und die Seilwinde lassen Kinder jede Menge Offroad-Abenteuer mit dem weltberühmten Jeep Wrangler erleben
+- Dieses fantastische Modell enthält jede Menge authentische Details des Jeep Wrangler, etwa die klassischen runden Frontscheinwerfer, den 7-Slot-Kühlergrill, das vollwertige Ersatzrad und die umlegbaren Rücksitze
 - Der LEGO Technic Jeep Wrangler (42122) ist das ideale Geschenk für Kinder, die coole Fahrzeuge lieben und gerne einen eigenen Geländewagen bauen würden, denn das Modell strotzt nur vor authentischen Details.
 - Der Jeep Wrangler Rubicon ist 12 cm hoch, 24 cm lang und 13 cm breit. Die ideale Größe, um als Spielzeugauto oder Dekoelement zu begeistern
 

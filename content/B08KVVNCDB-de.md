@@ -29,8 +29,8 @@ Es gibt ein [PLAYMOBIL City Life 70542 Im Stadtpark  Ab 4 Jahren](https://www.am
 ℹ️:
 
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
-- Spielspaß in der kleinen Stadt: PLAYMOBIL Im Stadtpark mit 3 Erwachsenen- und 2 Kinderfiguren, 1 Baby sowie Zubehör zum detailgetreuen Nachspielen
 - Lieferumfang: 1x PLAYMOBIL City Life Im Stadtpark, 54-teiliges Spielfiguren-Set mit Anleitung: 1 Baum, 1 Bank, 6 Figuren, 46 Zubehörteile, Material: Kunststoff, Individuell aufstellbar, Gewicht: 130 g, 70542
+- Spielspaß in der kleinen Stadt: PLAYMOBIL Im Stadtpark mit 3 Erwachsenen- und 2 Kinderfiguren, 1 Baby sowie Zubehör zum detailgetreuen Nachspielen
 - Damenrad für Erwachsenfigur mit Sitz für das Baby, Fahrbarer Rollstuhl für Kinderfigur uvm., Perfekt kombinierbar mit PLAYMOBIL Meine kleine Stadt
 - Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 
