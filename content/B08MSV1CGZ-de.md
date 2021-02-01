@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Interactive Entertainment PS VR Sta mit 25.25 % Rabatt'
-date: 2021-01-31 09:37:32
+date: 2021-02-01 21:19:37
 image: 'https://m.media-amazon.com/images/I/31DCZXGm1EL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony Interactive Entertainment'
 buyurl: 'https://www.amazon.de/dp/B08MSV1CGZ/?tag=tolees0ca-21'
 descuento: '25.25'
-average: '302.68705882353'
+average: '302.581714285714'
 ---
 
 Sie können [Sony Interactive Entertainment PS VR Starter Pack inkl. PS VR-Headset / PS Camera / PS Camera-Adapter / VR Worlds Gutscheincode](https://www.amazon.de/dp/B08MSV1CGZ/?tag=tolees0ca-21) mit Preis 299.0 EUR (original: 399.99 EUR) 25.25 % Rabatt hier:

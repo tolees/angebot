@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '36.11 % rabat auf Funko - POP! Vinyl: Disney: Aladdin  Liv'
-date: 2021-01-31 20:34:59
+date: 2021-02-01 21:39:55
 image: 'https://m.media-amazon.com/images/I/51DQ3juxjOL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Funko'
 buyurl: 'https://www.amazon.de/dp/B07KPTBSM4/?tag=tolees0ca-21'
 descuento: '36.11'
-average: '10.1144444444444'
+average: '10.152'
 ---
 
 Es gibt ein [Funko - POP! Vinyl: Disney: Aladdin  Live Action : Aladdin & Abu](https://www.amazon.de/dp/B07KPTBSM4/?tag=tolees0ca-21) mit aktuellem Preis 10.49 EUR (original: 16.42 EUR) 36.11 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [Funko - POP! Vinyl: Disney: Aladdin  Live Action : Aladdin & Abu](h
 
 ℹ️:
 
-- Disney Aladdin
-- Aladdin & Abu
-- Von Aladdin, Aladdin & Abu, zur stilisierten POP-Vinyl Figur von Funko!
 - POP! Vinyl
+- Disney Aladdin
+- Von Aladdin, Aladdin & Abu, zur stilisierten POP-Vinyl Figur von Funko!
 - Spielzeug des Jahres 2018
+- Aladdin & Abu
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07KPTBSM4/?tag=tolees0ca-21)

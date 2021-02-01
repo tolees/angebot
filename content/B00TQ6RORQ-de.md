@@ -1,33 +1,36 @@
 ---
 layout: post
-title: '33.11 % rabat auf Funko 5858 HP FunkoPop Harry Potter  bun'
-date: 2021-01-14 04:53:42
+title: '37.29 % rabat auf Funko 5858 HP FunkoPop Harry Potter  bun'
+date: 2021-02-01 21:21:35
 image: 'https://m.media-amazon.com/images/I/41awb69zsVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TQ6RORQ-de'
-actualPrice: 12.99 EUR
+slug: 'B00TQ6RORQ-de Funko 5858 HP FunkoPop Harry Potter bunt'
+sku: 'B00TQ6RORQ-de'
+tags: [  ]
+actualPrice: 15.67 EUR
 currency: EUR
-price: 12.99
-comparePrice: 19.42 EUR
+price: 15.67
+comparePrice: 24.99 EUR
 prodname: 'Funko 5858 HP FunkoPop Harry Potter  bunt'
 country: 'de'
 flag: '🇩🇪'
+brand: 'Funko'
 buyurl: 'https://www.amazon.de/dp/B00TQ6RORQ/?tag=tolees0ca-21'
-descuento: '33.11'
-average: '21.912000000000003'
+descuento: '37.29'
+average: '21.3445454545455'
 ---
 
-Es gibt ein [Funko 5858 HP FunkoPop Harry Potter  bunt](https://www.amazon.de/dp/B00TQ6RORQ/?tag=tolees0ca-21) mit aktuellem Preis 12.99 EUR (original: 19.42 EUR) 33.11 % Rabatt hier:
+Es gibt ein [Funko 5858 HP FunkoPop Harry Potter  bunt](https://www.amazon.de/dp/B00TQ6RORQ/?tag=tolees0ca-21) mit aktuellem Preis 15.67 EUR (original: 24.99 EUR) 37.29 % Rabatt hier:
 
 [![Funko 5858 HP FunkoPop Harry Potter  bun](https://m.media-amazon.com/images/I/41awb69zsVL._SL200_.jpg)](https://www.amazon.de/dp/B00TQ6RORQ/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Originalgetreu
 - Harry Potter
 - Harry Potter
 - POP! Vinylfigur
+- Originalgetreu
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00TQ6RORQ/?tag=tolees0ca-21)

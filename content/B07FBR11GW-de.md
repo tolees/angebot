@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Damen Flex Appeal 3.0-first Ins mit 28.01 % Rabatt'
-date: 2021-01-31 15:03:20
+date: 2021-02-01 21:24:19
 image: 'https://m.media-amazon.com/images/I/41qtS7zbItL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,6 +28,10 @@ Sie können [Skechers Damen Flex Appeal 3.0-first Insight Sneaker  Schwarz Rotgo
 
 ℹ️:
 
-- Fabric
+- Manufacturers article number: 13070 BKRG
+- More Information: FLEX APPEAL 3.0 FIRST INSIGHT
+- Color: black
+- Material: Textile
+- Type: Sneaker Low
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FBR11GW/?tag=tolees0ca-21)
