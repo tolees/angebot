@@ -29,8 +29,8 @@ Sie können [AmazonBasics - Amazon Basics – AA-Batterien mit hoher Kapazität 
 ℹ️:
 
 - Vorgeladen mit Solarenergie
-- Hohe Kapazität: 2400 mAh (Milliamperstunden)
 - Verfügt auch nach 3 Jahren Lagerung noch über 65 Prozent des ursprünglichen Ladestands
 - 24er-Pack (AA) wiederaufladbare Batterien mit hoher Kapazität
+- Hohe Kapazität: 2400 mAh (Milliamperstunden)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07NWWHK1J/?tag=tolees0ca-21)
