@@ -28,11 +28,11 @@ Sie können [Smartwares RM370 Kohlenmonoxid CO Melder mit Display und Temperatur
 
 ℹ️:
 
-- Typ des Alarmsensor : Elektrochemisch
-- Warnt Sie frühzeitig vor einer Kohlenmonoxidvergiftung, entsteht durch unvollständige Verbrennung (Kamin-/ Gastherme)
 - Langlebiger elektro-chemischer Sensor (7 Jahre). Betriebstemperatur min/max: 0°C / 40°C
-- Prüftaste für Funktionstest, digitales Display sorgt für einfaches Ablesen
 - Wechselnde Displayanzeige zwischen Kohlenmonoxid Wert in ppm und Temperatur
+- Warnt Sie frühzeitig vor einer Kohlenmonoxidvergiftung, entsteht durch unvollständige Verbrennung (Kamin-/ Gastherme)
 - Inkl. Batterie, Dübel und Schrauben = Einfache drahtlose schnelle Montage
+- Prüftaste für Funktionstest, digitales Display sorgt für einfaches Ablesen
+- Typ des Alarmsensor : Elektrochemisch
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00P0V5IYW/?tag=tolees0ca-21)

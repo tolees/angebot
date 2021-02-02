@@ -28,8 +28,8 @@ Sie können [TP-Link M7000 mobiler WLAN Router  4G/LTE bis zu 150Mbit/s Download
 
 ℹ️:
 
-- 8 Stunden Betrieb: Mit seinem leistungsfähigen 2000 mAh-Akku kann der M7000 bis zu 8 Stunden netzunabhängig betrieben werden
 - Sekundenschnell in Betrieb: Der M7000 verfügt über ein kompaktes und benutzerfreundliches Design, er erkennt die meisten Netze automatisch
+- 8 Stunden Betrieb: Mit seinem leistungsfähigen 2000 mAh-Akku kann der M7000 bis zu 8 Stunden netzunabhängig betrieben werden
 - Tragbares Design: Dank seiner kompakten Größe lässt sich der M7000 praktisch in der Hosentasche transportieren, damit eignet er sich ideal für den Einsatz unterwegs
 - Weltweit grenzlose Verbindung: Der M7000 unterstützt den Mobilfunkstandard 4G FDD/TDD-LTE, der in den meisten Ländern und Regionen schnelles WLAN anbietet
 - Gleichzeitige Verbindung für 10 Geräte: Mit TP-Links mobilem Router M7000 können Sie die mobile 3G/4G-Verbindung mit bis zu 10 drahtlosen Geräten nutzen
