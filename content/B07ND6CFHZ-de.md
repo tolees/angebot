@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '29.13 % rabat auf LEGO 42099 Technic Control+ 4x4 Allrad X'
-date: 2021-02-01 21:28:00
+title: '25.35 % rabat auf LEGO 42099 Technic Control+ 4x4 Allrad X'
+date: 2021-02-02 21:57:26
 image: 'https://m.media-amazon.com/images/I/51HWQ-wkFdL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B07ND6CFHZ-de LEGO 42099 Technic Control+ 4x4 Allrad Xtreme-Geländewagen...'
 sku: 'B07ND6CFHZ-de'
 tags: [  ]
-actualPrice: 162.99 EUR
+actualPrice: 171.69 EUR
 currency: EUR
-price: 162.99
+price: 171.69
 comparePrice: 229.99 EUR
 prodname: 'LEGO 42099 Technic Control+ 4x4 Allrad Xtreme-Geländewagen  App-gesteuertes Konstruktionsspielzeug mit Smarthub und interaktiven Motoren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21'
-descuento: '29.13'
-average: '164.54475609756'
+descuento: '25.35'
+average: '164.566474164133'
 ---
 
-Es gibt ein [LEGO 42099 Technic Control+ 4x4 Allrad Xtreme-Geländewagen  App-gesteuertes Konstruktionsspielzeug mit Smarthub und interaktiven Motoren](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21) mit aktuellem Preis 162.99 EUR (original: 229.99 EUR) 29.13 % Rabatt hier:
+Es gibt ein [LEGO 42099 Technic Control+ 4x4 Allrad Xtreme-Geländewagen  App-gesteuertes Konstruktionsspielzeug mit Smarthub und interaktiven Motoren](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21) mit aktuellem Preis 171.69 EUR (original: 229.99 EUR) 25.35 % Rabatt hier:
 
 [![LEGO 42099 Technic Control+ 4x4 Allrad X](https://m.media-amazon.com/images/I/51HWQ-wkFdL._SL200_.jpg)](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21)
 
