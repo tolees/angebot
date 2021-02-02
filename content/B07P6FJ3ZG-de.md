@@ -28,10 +28,10 @@ Sie können [PLAYMOBIL City Life 70190 Großes Krankenhaus mit Einrichtung  Ab 4
 
 ℹ️:
 
-- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
-- Lieferumfang: 1x PLAYMOBIL City Life Großes Krankenhaus mit Einrichtung, 512-teiliges Spielfiguren-Set mit Anleitung: 1 Krankenhausgebäude, 4 Figuren, 507 Zubehörteile (exkl. 1x 1,5 V Microbatterie), Material: Kunststoff, LxTxH: 70x31x34 cm, 70190
 - Spielspaß für kleine Patienten: PLAYMOBIL Großes Krankenhaus mit Einrichtung, Zubehör sowie Arzt, Pfleger und Figuren für detailgetreues Nachspielen
-- Operationssaal, Kranken- und Wartebereich, Aufzug, Getränkeautomat und OP-Lampe beweglich, Monitor beleuchtet, Erweiterbar mit Etagenergänzung (9848)
 - Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
+- Lieferumfang: 1x PLAYMOBIL City Life Großes Krankenhaus mit Einrichtung, 512-teiliges Spielfiguren-Set mit Anleitung: 1 Krankenhausgebäude, 4 Figuren, 507 Zubehörteile (exkl. 1x 1,5 V Microbatterie), Material: Kunststoff, LxTxH: 70x31x34 cm, 70190
+- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
+- Operationssaal, Kranken- und Wartebereich, Aufzug, Getränkeautomat und OP-Lampe beweglich, Monitor beleuchtet, Erweiterbar mit Etagenergänzung (9848)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07P6FJ3ZG/?tag=tolees0ca-21)

@@ -28,9 +28,9 @@ Sie können [Original Samsung Kopfhörer 2-er Set  Kopfhörer In-Ear Headset mit
 
 ℹ️:
 
-- TRAGEKOMFORT - Profitieren Sie von einem festen In-Ear Halt ohne, dass die Kopfhörer herausfallen oder rutschen. Die ergonomische Passform ermöglicht stundenlanges Tragen, ohne Ohrenschmerzen.
 - SATTES KLANGERLEBNIS - Erleben Sie ein fülliges und atmosphärisches Hörerlebnis. Perfekt zum Genießen von Musik, Hörbüchern oder Videos unterwegs.
 - SPEZIFIKATIONEN - Tragevariante: In-Ear; Frequenzbereich: 20-20.000Hz; Empfindlichkeit: 105dB; Anschluss: 3,5mm Klinke; Signalübertragung: Kabel; Tasten: Anrufannahme / Auflegen, Lautstärkeregelung, Play / Pause; Farbe: Weiß; Anzahl: 2 Stück.
+- TRAGEKOMFORT - Profitieren Sie von einem festen In-Ear Halt ohne, dass die Kopfhörer herausfallen oder rutschen. Die ergonomische Passform ermöglicht stundenlanges Tragen, ohne Ohrenschmerzen.
 - INKLUSIVE MIKROFON - Mit dem integrierten Mikro der Ohrhörer sowie Tasten zur Annahme des Anrufs und der Regulierung der Lautstärke, bleiben Ihre Hände beim Joggen, Laufen oder Radfahren frei.
 - NOISE CANCELLING: Außengeräusche wie Zug, Bus oder Straßenlärm werden gedämpft.
 
