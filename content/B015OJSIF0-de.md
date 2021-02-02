@@ -29,8 +29,8 @@ Es gibt ein [PUMA Unisex Adult Icra Trainer SD Sneaker  Black-White  42 EU](http
 ℹ️:
 
 - Rubber outsole
+- Perforations for improved breathability
 - Padded collar for increased comfort
 - Suede upper
-- Perforations for improved breathability
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B015OJSIF0/?tag=tolees0ca-21)

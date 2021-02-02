@@ -30,8 +30,8 @@ Es gibt ein [LEGO 75276 Star Wars Stormtrooper Helm  Bauset  Sammlerobjekt für 
 
 - The helmet comes with a base and nameplate to show it off at home or as an eye-catching office desk ornament
 - Features a build and display model of a Star Wars Stormtrooper helmet with super-details and beautifully recreated iconic contours
+- It comes with easy-to-follow instructions so even younger beginners can open the box and take on this complex build with confidence
 - Lots of love for all Star Wars fans! This set is a part of a collectible LEGO Star Wars series for adults and more patient teenagers
 - The Stormtrooper’s sinister look is reproduced in detail with LEGO bricks plus graphics stickers
-- It comes with easy-to-follow instructions so even younger beginners can open the box and take on this complex build with confidence
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07XFXWK48/?tag=tolees0ca-21)

@@ -29,9 +29,9 @@ Es gibt ein [Sony SEL-90M28G G Makro Objektiv  Festbrennweite  90 mm  F2.8  Voll
 ℹ️:
 
 - Circular aperture for smooth defocusing effect
-- Dust and moisture resistant design
-- Renowned G Lens bokeh
-- Direct Drive SSM for quiet, highly precise focus lens control
 - Built-in image stabilization; Filter Diameter: 62 millimeter
+- Dust and moisture resistant design
+- Direct Drive SSM for quiet, highly precise focus lens control
+- Renowned G Lens bokeh
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00ULLSWSU/?tag=tolees0ca-21)

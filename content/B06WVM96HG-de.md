@@ -28,8 +28,8 @@ Es gibt ein [Tommy Hilfiger Damen Bra Push-up BH  Schwarz  Black 990   80C](http
 
 ℹ️:
 
-- Material: Cup: 88% Polyamid, 12% Elasthan Seiten-/ Rückenteil: 88% Polyamid, 12% Elasthan
 - Pflegehinweise: Spezialschonwaschgang 30 Grad; nicht bleichen; nicht bügeln; nicht chemisch reinigen; nicht im Trockner trocknen
 - Teile tierischen Ursprungs: Nein
+- Material: Cup: 88% Polyamid, 12% Elasthan Seiten-/ Rückenteil: 88% Polyamid, 12% Elasthan
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06WVM96HG/?tag=tolees0ca-21)

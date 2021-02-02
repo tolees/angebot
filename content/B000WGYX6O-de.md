@@ -28,8 +28,8 @@ Es gibt ein [Pentel BL77-CO EnerGel Gel-Tintenroller mit Druckmechanik  0 7 mm K
 
 ℹ️:
 
-- Product - Blue roller 0,7mm
 - Brand - Pentel
 - Ref - 329826
+- Product - Blue roller 0,7mm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000WGYX6O/?tag=tolees0ca-21)

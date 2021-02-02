@@ -28,9 +28,9 @@ Sie können [DAWINSIE WLAN Verstärker WLAN Repeater WiFi Booster 300 Mbit/s 2 4
 
 ℹ️:
 
+- 【3 in 1 WLAN Repeater】:Verbessern Sie drahtlose Abdeckung in allen WLAN Netzen Unterstützen WLAN Repeater Modus und Standard- AP-Modus. WLAN-Einrichtung per Knopfdruck über WPS (Wi-Fi Protected Setup), maximale WLAN-Sicherheit mit WPA2, WPA und WE.
 - 【wlan verstärker】Verabschieden Sie sich von WLAN-Totzonen! Mit einer Geschwindigkeit von bis zu 300 Mbit/s erweitert er das WLAN-Signal in bisher unerreichte oder schwer zu verkabelnde Bereiche.Erhöht schnell und einfach die Reichweite des WLAN-Netzes, kompatibel zu allen gängigen WLAN-Routern (Funkstandards 802.11n/g/b)
 - 【Lieferumfang】Wireless-N Repeater, RJ-45-Netzwerkkabel,Deutschsprachiges Handbuch,24-monatige Zufriedenheitsgarantie
-- 【3 in 1 WLAN Repeater】:Verbessern Sie drahtlose Abdeckung in allen WLAN Netzen Unterstützen WLAN Repeater Modus und Standard- AP-Modus. WLAN-Einrichtung per Knopfdruck über WPS (Wi-Fi Protected Setup), maximale WLAN-Sicherheit mit WPA2, WPA und WE.
 - 【Vielseitiges Design】: Das kleine und praktisches wandsteckdosen design machen es einfach, flexibel zu implementieren und zu bewegen. Ideal für Zuhause / Reisen / Office-Nutzung
 - 【Universelle Kompatibilität】: DAWINSIE WLAN-Repeater ist kompatibe zu allen gängigen Routern oder Access Points und unterstützen den 802.11 b / g / n-Standard, so dass Ihr WLAN-Netzwerk schnell und einfach erweitert werden kann.
 

@@ -28,9 +28,9 @@ Es gibt ein [Intenso interne SSD-Festplatte 128GB Top Performance](https://www.a
 
 ℹ️:
 
+- Lieferumgang: Intenso SSD Festplatte
 - Geringer Stromverbrauch; Schock-resistent, geräuschloser Betrieb (0dB)
 - Lesegeschwindigkeit: bis zu 520MB/s - Schreibgeschwindigkeit: bis zu 520MB/s
-- Lieferumgang: Intenso SSD Festplatte
 - SMART command support, TRIM command support; Gewicht: 83g; Abmessungen: 100 x 70 x 7mm
 - SATA III (6Gbps)
 

@@ -30,8 +30,8 @@ Es gibt ein [Sony WF-XB700 vollkommen kabellose Bluetooth Kopfhörer / Earbuds -
 
 - Easy-to-operate buttons let you control playback, access your smartphones Voice Assistant and make hands-free calls on your Sony headphones
 - Big on streaming? Our latest Bluetooth headphones chip transmits sound to the left and right wireless earbuds simultaneously providing a seamlessly stable and reliable connection to overcome vocal delays
-- Headphones ready for every eventuality, with an IPX4 water resistance rating splashes and sweat wont stop these true wireless sports headphones
-- These truely wireless earphones feature an Ergonomic Tri-hold structure for a secure and comfortable fit
 - Up to 9h of battery life per single charge + additional full charge from the case, for up to 18h of unconfined playback on the WF-XB700 wireless earphones
+- These truely wireless earphones feature an Ergonomic Tri-hold structure for a secure and comfortable fit
+- Headphones ready for every eventuality, with an IPX4 water resistance rating splashes and sweat wont stop these true wireless sports headphones
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B086LKXYMD/?tag=tolees0ca-21)
