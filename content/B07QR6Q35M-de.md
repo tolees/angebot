@@ -28,10 +28,10 @@ Sie können [Funko - POP! Star Wars The Rise of Skywalker - Rey](https://www.ama
 
 ℹ️:
 
-- Rey
-- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
-- Schauen Sie sich jetzt die anderen Disney Star Wars-Figuren von Funko an! Sammeln Sie alle!
 - Von Star Wars The Rise of Skywalker, Rey, zur stilisierten POP-Vinyl Figur von Funko!
+- Schauen Sie sich jetzt die anderen Disney Star Wars-Figuren von Funko an! Sammeln Sie alle!
+- Rey
 - Disney Star Wars
+- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07QR6Q35M/?tag=tolees0ca-21)
