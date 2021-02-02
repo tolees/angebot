@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '23.13 % rabat auf LEGO 75892 Speed Champions McLaren Senna'
-date: 2021-01-29 02:41:56
+title: '25.08 % rabat auf LEGO 75892 Speed Champions McLaren Senna'
+date: 2021-02-02 22:03:25
 image: 'https://m.media-amazon.com/images/I/51N8SILh5RL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -12,25 +12,26 @@ tags: [  ]
 actualPrice: 11.23 EUR
 currency: EUR
 price: 11.23
-comparePrice: 14.61 EUR
+comparePrice: 14.99 EUR
 prodname: 'LEGO 75892 Speed Champions McLaren Senna Rennwagen  Bauset mit Rennfahrer-Minifigur  Forza Horizon 4 Erweiterungsset'
 country: 'de'
 flag: '🇩🇪'
+brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07FNW8PGR/?tag=tolees0ca-21'
-descuento: '23.13'
-average: '14.77425'
+descuento: '25.08'
+average: '14.7913855421687'
 ---
 
-Es gibt ein [LEGO 75892 Speed Champions McLaren Senna Rennwagen  Bauset mit Rennfahrer-Minifigur  Forza Horizon 4 Erweiterungsset](https://www.amazon.de/dp/B07FNW8PGR/?tag=tolees0ca-21) mit aktuellem Preis 11.23 EUR (original: 14.61 EUR) 23.13 % Rabatt hier:
+Es gibt ein [LEGO 75892 Speed Champions McLaren Senna Rennwagen  Bauset mit Rennfahrer-Minifigur  Forza Horizon 4 Erweiterungsset](https://www.amazon.de/dp/B07FNW8PGR/?tag=tolees0ca-21) mit aktuellem Preis 11.23 EUR (original: 14.99 EUR) 25.08 % Rabatt hier:
 
 [![LEGO 75892 Speed Champions McLaren Senna](https://m.media-amazon.com/images/I/51N8SILh5RL._SL200_.jpg)](https://www.amazon.de/dp/B07FNW8PGR/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Zubehör: McLaren-Rennfahrerhelm und Schraubenschlüssel.
+- Enthält eine Rennfahrer-Minifigur im McLaren-Rennoverall mit den Logos von McLaren und Pirelli.
 - Nimm die Windschutzscheibe ab und setze die Minifigur in den Wagen.
 - Enthält zudem einen Wildkanal zum Bauen samt rotierendem Gebläse.
 - Der McLaren Senna zum Bauen ist startklar für das nächste Rennen: mit Cockpit für eine Minifigur, abnehmbarer Windschutzscheibe, Rädern mit Gummireifen und austauschbaren Felgen, Heckspoiler, transparenten Elementen als Leuchten, Aufklebern mit den Logos von McLaren und Senna und authentischen Designdetails.
-- Enthält eine Rennfahrer-Minifigur im McLaren-Rennoverall mit den Logos von McLaren und Pirelli.
+- Zubehör: McLaren-Rennfahrerhelm und Schraubenschlüssel.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FNW8PGR/?tag=tolees0ca-21)

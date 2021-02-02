@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '19.64 % rabat auf LEGO 75271 Star Wars Luke Skywalkers Lan'
-date: 2021-02-01 21:19:00
+date: 2021-02-02 22:05:49
 image: 'https://m.media-amazon.com/images/I/51t0zrw2gTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W7TP2FK/?tag=tolees0ca-21'
 descuento: '19.64'
-average: '25.6551948051949'
+average: '25.6158227848102'
 ---
 
 Es gibt ein [LEGO 75271 Star Wars Luke Skywalkers Landspeeder Bauset mit Java Minifigur  Serie Eine Neue Hoffnug Serie](https://www.amazon.de/dp/B07W7TP2FK/?tag=tolees0ca-21) mit aktuellem Preis 24.1 EUR (original: 29.99 EUR) 19.64 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [LEGO 75271 Star Wars Luke Skywalkers Landspeeder Bauset mit Java Mi
 
 ℹ️:
 
-- Bietet einen Landspeeder mit viel Platz für Luke- und C-3PO-Minifiguren sowie ein baubares Höhlenversteck für eine bewaffnete Jawa-Minifigur
-- Enthält drei Minifiguren: Luke Skywalker (mit einem neuen Stoffponcho), C-3PO, sowie einen bewaffneten Jawa für Kampfaction
-- Man kann das Modell auch heranzoomen, drehen und anzeigen, während das Original mit der digitalen Anleitung Instructions PLUS erstellt wird, die in der kostenlosen LEGO Life-App verfügbar ist
 - Kinder können nach dem Jawa Ausschau halten, der sich in einer Höhle versteckt und bereit ist, Luke zu überfallen. Dann können sie Lukes Blasterpistole nehmen und gegen diesen Wüstenräuber kämpfen
+- Man kann das Modell auch heranzoomen, drehen und anzeigen, während das Original mit der digitalen Anleitung Instructions PLUS erstellt wird, die in der kostenlosen LEGO Life-App verfügbar ist
 - Der Landspeeder hat einen Kofferraum für Lukes Makrobinokular und einen Clip für seine Blasterpistole, drei gigantische Motoren und eine Waffe, mit der er auf den Feind feuern kann
+- Enthält drei Minifiguren: Luke Skywalker (mit einem neuen Stoffponcho), C-3PO, sowie einen bewaffneten Jawa für Kampfaction
+- Bietet einen Landspeeder mit viel Platz für Luke- und C-3PO-Minifiguren sowie ein baubares Höhlenversteck für eine bewaffnete Jawa-Minifigur
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07W7TP2FK/?tag=tolees0ca-21)

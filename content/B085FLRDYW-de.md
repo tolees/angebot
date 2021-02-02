@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Dinos 70632 T-Rex Angriff  ab  mit 35.89 % Rabatt'
-date: 2021-02-01 21:23:52
+date: 2021-02-02 22:42:59
 image: 'https://m.media-amazon.com/images/I/51sbOYyKUeL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.de/dp/B085FLRDYW/?tag=tolees0ca-21'
 descuento: '35.89'
-average: '24.5404166666665'
+average: '24.5525675675674'
 ---
 
 Sie können [PLAYMOBIL Dinos 70632 T-Rex Angriff  ab 4 Jahren](https://www.amazon.de/dp/B085FLRDYW/?tag=tolees0ca-21) mit Preis 24.99 EUR (original: 38.98 EUR) 35.89 % Rabatt hier:
@@ -28,6 +28,10 @@ Sie können [PLAYMOBIL Dinos 70632 T-Rex Angriff  ab 4 Jahren](https://www.amazo
 
 ℹ️:
 
-- Features a T-Rex and raptor
+- T-Rex u. Deinonychus mit bewegbaren Armen, Beinen, Kopf und Kiefer, Quad (ohne Motor) für 1 Figur, Gepäckträger mit Band zum Fixieren von Zubehör uvm.
+- Lieferumfang: 1x PLAYMOBIL Dinos T-Rex Angriff, 20-teiliges Spielfiguren-Set mit Anleitung: 1 Quad, 1 Figur, 2 Dinos, 16 Zubehörteile, Material: Kunststoff, Individuell aufstellbar, Gewicht: ca. 414 g, 70632
+- Spielspaß mit den coolen Dinosaurier Sets: PLAYMOBIL T-Rex Angriff mit 2 Dinos, 1 Forscher, 1 Quad und viel Zubehör für detailgetreues Nachspielen
+- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
+- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B085FLRDYW/?tag=tolees0ca-21)

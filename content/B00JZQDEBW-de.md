@@ -28,9 +28,9 @@ Es gibt ein [Schiesser Damen Essentials 2PACK Trägertop Unterhemd  Schwarz  sch
 
 ℹ️:
 
-- Material: 95% Baumwolle , 5% Elasthan
-- Serie Cotton Essentials
 - Trocknen niedrige Temperatur, Bügeln wenig
 - im Uni Design
+- Serie Cotton Essentials
+- Material: 95% Baumwolle , 5% Elasthan
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00JZQDEBW/?tag=tolees0ca-21)

@@ -29,8 +29,8 @@ Es gibt ein [Ubisoft - Watch Dogs Legion Limited Edition - exklusiv bei Amazon -
 ℹ️:
 
 - Bestens Vorbereitet: Die Limited Edition enthält das Londoner-Systemkritiker-Paket, inkl. drei neuer Masken, um den Widerstand mit Stil anzuführen
-- Watch Dogs Legion nutzt die Smart-Delivery-Technologie! Kaufe das Spiel einmal und spiele es auf der Xbox One oder auf der Xbox Series X, sobald verfügbar
 - Nehmen Sie Ihr Team mit in den Online-Modus und kombinieren Sie Ihre Kräfte mit denen von drei weiteren Freunden. Erkunden Sie gemeinsam die Welt, stellen Sie sich neuen Koop-Einsätzen oder herausfordernden Endspiel-Inhalten
+- Watch Dogs Legion nutzt die Smart-Delivery-Technologie! Kaufe das Spiel einmal und spiele es auf der Xbox One oder auf der Xbox Series X, sobald verfügbar
 - Erleben Sie eine bahnbrechende Gameplay-Innovation, in der jeder Charakter den Sie treffen, sich Ihrem Team anschließen kann und über eine eigene Hintergrundgeschichte, Persönlichkeit und besondere Fähigkeiten verfügt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B089R56TSX/?tag=tolees0ca-21)

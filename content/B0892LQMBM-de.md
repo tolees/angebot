@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '21.67 % rabat auf HPH - Drahtloser Controller für PlayStat'
-date: 2021-02-01 21:24:13
+title: '20.61 % rabat auf HPH - Drahtloser Controller für PlayStat'
+date: 2021-02-02 22:23:32
 image: 'https://m.media-amazon.com/images/I/41IPBpZZvYL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [  ]
 actualPrice: 21.15 EUR
 currency: EUR
 price: 21.15
-comparePrice: 27.0 EUR
+comparePrice: 26.64 EUR
 prodname: 'HPH - Drahtloser Controller für PlayStation 4  Camouflage Red  rose gold'
 country: 'de'
 flag: '🇩🇪'
 brand: 'HPH'
 buyurl: 'https://www.amazon.de/dp/B0892LQMBM/?tag=tolees0ca-21'
-descuento: '21.67'
-average: '27.0911764705881'
+descuento: '20.61'
+average: '26.7611111111109'
 ---
 
-Es gibt ein [HPH - Drahtloser Controller für PlayStation 4  Camouflage Red  rose gold](https://www.amazon.de/dp/B0892LQMBM/?tag=tolees0ca-21) mit aktuellem Preis 21.15 EUR (original: 27.0 EUR) 21.67 % Rabatt hier:
+Es gibt ein [HPH - Drahtloser Controller für PlayStation 4  Camouflage Red  rose gold](https://www.amazon.de/dp/B0892LQMBM/?tag=tolees0ca-21) mit aktuellem Preis 21.15 EUR (original: 26.64 EUR) 20.61 % Rabatt hier:
 
 [![HPH - Drahtloser Controller für PlayStat](https://m.media-amazon.com/images/I/41IPBpZZvYL._SL200_.jpg)](https://www.amazon.de/dp/B0892LQMBM/?tag=tolees0ca-21)
 
