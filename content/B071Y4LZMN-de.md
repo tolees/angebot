@@ -28,9 +28,9 @@ Es gibt ein [Levi s Herren Batwing Embroidered Slouchy Beanie Strickmütze  Schw
 
 ℹ️:
 
-- Doppellagig
 - Länge: 21cm, wenn flach hingelegt
-- Mützen-Größeninformation: One Size: dehnbar von 55cm bis 61cm.
 - Aufgesticktes Levis Batwing-Logo am Umschlag
+- Doppellagig
+- Mützen-Größeninformation: One Size: dehnbar von 55cm bis 61cm.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B071Y4LZMN/?tag=tolees0ca-21)

@@ -28,9 +28,9 @@ Sie können [icebreaker Herren 175 Everyday LS Half Zip Merino Baselayer Funktio
 
 ℹ️:
 
-- Leicht
-- Geruchsabweisend
 - Warm
+- Geruchsabweisend
+- Leicht
 - Komfortable
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07TQ5ZJYB/?tag=tolees0ca-21)
