@@ -28,10 +28,10 @@ Es gibt ein [Lego Creator - LEGO 31105 Creator 3-in-1 Spielzeugladen im Stadthau
 
 ℹ️:
 
-- Ausgestattet mit einem zweigeschossigen Stadthaus, das sich zu einer Konditorei mit Werkstatt und einem Blumenladen mit Dachfenster umbaut, sowie einem funktionierenden Raketen-Münzfahrgeschäft
-- Das Stadthaus hat eine Wohnung im Obergeschoss, ein Spielzeugladen im Erdgeschoss und viele architektonische Details und Spielzubehör zum gemeinsamen Spielen
-- Der Blumenladen bietet viele Blumen in Vasen, Sonnenschutz-Markisen, ein Dachfenster und ein großes rotes Schild seines Handels
-- Die Konditorei hat einen detaillierten Innenraum mit Kocheinrichtungen, Kaffeegarten für einen Kunden und sogar eine Satellitenantenne auf dem Dach
 - Enthält 2 Minifiguren, eine aus Steinen gebaute Vogelfigur, Zubehör wie Möbel, Lampen, eine Kasse, Banknoten, Kuchen, Spielzeuge und Kisten
+- Der Blumenladen bietet viele Blumen in Vasen, Sonnenschutz-Markisen, ein Dachfenster und ein großes rotes Schild seines Handels
+- Ausgestattet mit einem zweigeschossigen Stadthaus, das sich zu einer Konditorei mit Werkstatt und einem Blumenladen mit Dachfenster umbaut, sowie einem funktionierenden Raketen-Münzfahrgeschäft
+- Die Konditorei hat einen detaillierten Innenraum mit Kocheinrichtungen, Kaffeegarten für einen Kunden und sogar eine Satellitenantenne auf dem Dach
+- Das Stadthaus hat eine Wohnung im Obergeschoss, ein Spielzeugladen im Erdgeschoss und viele architektonische Details und Spielzubehör zum gemeinsamen Spielen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07W4KTR2V/?tag=tolees0ca-21)
