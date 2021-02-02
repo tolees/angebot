@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G923 TRUEFORCE Gaming Rennlenkr mit 15.29 % Rabatt'
-date: 2021-01-24 12:58:22
+date: 2021-02-02 15:53:35
 image: 'https://m.media-amazon.com/images/I/418FAxE+d2L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 399.0 EUR
 prodname: 'Logitech G923 TRUEFORCE Gaming Rennlenkrad mit Pedalen  Kraftrückkopplung bis 1000 Hz  Reaktionsschnellem Pedal  Doppelkupplungssystem  Echtleder Lenkrad  für Xbox Series X|S  Xbox One/PC - Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: 'Logitech G'
 buyurl: 'https://www.amazon.de/dp/B07W4DG81W/?tag=tolees0ca-21'
 descuento: '15.29'
-average: '349.869210526316'
+average: '349.27575'
 ---
 
 Sie können [Logitech G923 TRUEFORCE Gaming Rennlenkrad mit Pedalen  Kraftrückkopplung bis 1000 Hz  Reaktionsschnellem Pedal  Doppelkupplungssystem  Echtleder Lenkrad  für Xbox Series X|S  Xbox One/PC - Schwarz](https://www.amazon.de/dp/B07W4DG81W/?tag=tolees0ca-21) mit Preis 338.0 EUR (original: 399.0 EUR) 15.29 % Rabatt hier:
@@ -27,12 +28,12 @@ Sie können [Logitech G923 TRUEFORCE Gaming Rennlenkrad mit Pedalen  Kraftrückk
 
 ℹ️:
 
-- STEUERUNGEN AUF DEM LENKRAD: Stelle Lenkradempfindlichkeit und Kraftrückkopplungsstufen mit Funktionen auf dem Lenkrad ein. Kontrolle auf Knopfdruck dank integrierter Bedienelemente bei Xbox & PC
-- TRUEFORCE HD KRAFTRÜCKKOPPLUNG: Die neuartige TRUEFORCE-Technologie ist direkt mit dem Spiel vernetzt und verarbeitet Informationen 4000 Mal pro Sekunde für mehr Authentizität und Detailtreue
 - KLASSISCHES RENNDESIGN: Erlebe authentisches Fahrvergnügen mit dem modernen Lenkraddesign. Das polierte Pedal und der schwarze Lenkradüberzug aus Leder sorgen für Wirklichkeitstreue und Komfort
+- TRUEFORCE HD KRAFTRÜCKKOPPLUNG: Die neuartige TRUEFORCE-Technologie ist direkt mit dem Spiel vernetzt und verarbeitet Informationen 4000 Mal pro Sekunde für mehr Authentizität und Detailtreue
 - EINGEBAUTE DREHZAHLANZEIGE: Farbige LED-Leuchten zeigen deinen Drehzahlbereich an. Die integrierten Xbox oder PC-Steuerungen & die Bremsfeder sorgen auch bei hohen Geschwindigkeiten für Stabilität
-- PROGRAMMIERBARES DOPPELKUPPLUNGSSYSTEM: Erlebe die realistische Rennwagen-Startautomatik von deinem Controller aus in vielen Spielen. Verlasse die Startlinie blitzschnell bei maximaler Bodenhaftung
+- STEUERUNGEN AUF DEM LENKRAD: Stelle Lenkradempfindlichkeit und Kraftrückkopplungsstufen mit Funktionen auf dem Lenkrad ein. Kontrolle auf Knopfdruck dank integrierter Bedienelemente bei Xbox & PC
 - VOLLSTÄNDIGE KOMPATIBILITÄT: Rennlenkrad & Pedale von Logitech sind mit Logitech G HUB-Ausrüstung & Software und den meisten Rennspielen für PC, Xbox Series X|S und Xbox One kompatibel
+- PROGRAMMIERBARES DOPPELKUPPLUNGSSYSTEM: Erlebe die realistische Rennwagen-Startautomatik von deinem Controller aus in vielen Spielen. Verlasse die Startlinie blitzschnell bei maximaler Bodenhaftung
 - 24-STUFIGES WÄHLRAD: Du kannst die Rennspielfunktionen mit dem eingebauten Wählrad einstellen und Bodenhaftung, Drehmoment, Stabilität, Bremskraft und vieles mehr spontan selbst anpassen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W4DG81W/?tag=tolees0ca-21)

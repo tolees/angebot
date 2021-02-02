@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '50.00 % rabat auf Levi s Herren 501 Original Jeans  Ironwo'
-date: 2021-01-29 02:29:34
+date: 2021-02-02 15:51:50
 image: 'https://m.media-amazon.com/images/I/41XvqKGpMYL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s Herren 501 Original Jeans  Ironwood Overt  36W / 32L'
 country: 'de'
 flag: '🇩🇪'
+brand: 'Levis'
 buyurl: 'https://www.amazon.de/dp/B07LFDNDV6/?tag=tolees0ca-21'
 descuento: '50.00'
-average: '50.0'
+average: '57.0642857142856'
 ---
 
 Es gibt ein [Levi s Herren 501 Original Jeans  Ironwood Overt  36W / 32L](https://www.amazon.de/dp/B07LFDNDV6/?tag=tolees0ca-21) mit aktuellem Preis 50.0 EUR (original: 100.0 EUR) 50.00 % Rabatt hier:
@@ -27,9 +28,9 @@ Es gibt ein [Levi s Herren 501 Original Jeans  Ironwood Overt  36W / 32L](https:
 
 ℹ️:
 
+- Sitzt auf der Taille
 - Denim ohne Stretchanteil
 - Mit fünf Taschen
 - Geknöpfter Hosenschlitz
-- Sitzt auf der Taille
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07LFDNDV6/?tag=tolees0ca-21)
