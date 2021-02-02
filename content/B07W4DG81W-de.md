@@ -28,12 +28,12 @@ Sie können [Logitech G923 TRUEFORCE Gaming Rennlenkrad mit Pedalen  Kraftrückk
 
 ℹ️:
 
-- KLASSISCHES RENNDESIGN: Erlebe authentisches Fahrvergnügen mit dem modernen Lenkraddesign. Das polierte Pedal und der schwarze Lenkradüberzug aus Leder sorgen für Wirklichkeitstreue und Komfort
-- 24-STUFIGES WÄHLRAD: Du kannst die Rennspielfunktionen mit dem eingebauten Wählrad einstellen und Bodenhaftung, Drehmoment, Stabilität, Bremskraft und vieles mehr spontan selbst anpassen
-- EINGEBAUTE DREHZAHLANZEIGE: Farbige LED-Leuchten zeigen deinen Drehzahlbereich an. Die integrierten Xbox oder PC-Steuerungen & die Bremsfeder sorgen auch bei hohen Geschwindigkeiten für Stabilität
-- STEUERUNGEN AUF DEM LENKRAD: Stelle Lenkradempfindlichkeit und Kraftrückkopplungsstufen mit Funktionen auf dem Lenkrad ein. Kontrolle auf Knopfdruck dank integrierter Bedienelemente bei Xbox & PC
 - PROGRAMMIERBARES DOPPELKUPPLUNGSSYSTEM: Erlebe die realistische Rennwagen-Startautomatik von deinem Controller aus in vielen Spielen. Verlasse die Startlinie blitzschnell bei maximaler Bodenhaftung
-- VOLLSTÄNDIGE KOMPATIBILITÄT: Rennlenkrad & Pedale von Logitech sind mit Logitech G HUB-Ausrüstung & Software und den meisten Rennspielen für PC, Xbox Series X|S und Xbox One kompatibel
+- EINGEBAUTE DREHZAHLANZEIGE: Farbige LED-Leuchten zeigen deinen Drehzahlbereich an. Die integrierten Xbox oder PC-Steuerungen & die Bremsfeder sorgen auch bei hohen Geschwindigkeiten für Stabilität
+- 24-STUFIGES WÄHLRAD: Du kannst die Rennspielfunktionen mit dem eingebauten Wählrad einstellen und Bodenhaftung, Drehmoment, Stabilität, Bremskraft und vieles mehr spontan selbst anpassen
+- KLASSISCHES RENNDESIGN: Erlebe authentisches Fahrvergnügen mit dem modernen Lenkraddesign. Das polierte Pedal und der schwarze Lenkradüberzug aus Leder sorgen für Wirklichkeitstreue und Komfort
 - TRUEFORCE HD KRAFTRÜCKKOPPLUNG: Die neuartige TRUEFORCE-Technologie ist direkt mit dem Spiel vernetzt und verarbeitet Informationen 4000 Mal pro Sekunde für mehr Authentizität und Detailtreue
+- STEUERUNGEN AUF DEM LENKRAD: Stelle Lenkradempfindlichkeit und Kraftrückkopplungsstufen mit Funktionen auf dem Lenkrad ein. Kontrolle auf Knopfdruck dank integrierter Bedienelemente bei Xbox & PC
+- VOLLSTÄNDIGE KOMPATIBILITÄT: Rennlenkrad & Pedale von Logitech sind mit Logitech G HUB-Ausrüstung & Software und den meisten Rennspielen für PC, Xbox Series X|S und Xbox One kompatibel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W4DG81W/?tag=tolees0ca-21)

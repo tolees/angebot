@@ -28,8 +28,8 @@ Es gibt ein [Levi s Herren 501 Original Jeans  Ironwood Overt  36W / 32L](https:
 
 ℹ️:
 
-- Geknöpfter Hosenschlitz
 - Sitzt auf der Taille
+- Geknöpfter Hosenschlitz
 - Mit fünf Taschen
 - Denim ohne Stretchanteil
 
