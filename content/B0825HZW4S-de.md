@@ -28,10 +28,10 @@ Es gibt ein [HUAWEI Watch GT 2 Smartwatch  42 mm Full-Color-AMOLED Touchscreen  
 
 ℹ️:
 
+- Lokale Musikwiedergabe auf der Uhr und vom verbundenen Smartphone
+- Kontinuierliches Herzfrequenz-Monitoring, unterstützt Ruheherzfrequenz, Einzelherzfrequenz und andere Messfunktionen
 - Höhenbarometer zum Bergsteigen
 - GPS und GLONASS Positionsbestimmung
-- Kontinuierliches Herzfrequenz-Monitoring, unterstützt Ruheherzfrequenz, Einzelherzfrequenz und andere Messfunktionen
-- Lokale Musikwiedergabe auf der Uhr und vom verbundenen Smartphone
 - Extrastarker Akku (hält bis zu 1 Woche mit einer Aufladung)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0825HZW4S/?tag=tolees0ca-21)

@@ -28,9 +28,9 @@ Sie können [Samsung Original USB Ladekabel Daten Kabel Micro USB Kabel 150 cm E
 
 ℹ️:
 
+- Farbe: Weiß
 - Herkunftsland:- China
 - Verpackungsabmessungen (L x B x H): 1.4 zm x 3.8 zm x 10.7 zm
-- Farbe: Weiß
 - Anzahl der Packung: 1
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07BQT9SMH/?tag=tolees0ca-21)
