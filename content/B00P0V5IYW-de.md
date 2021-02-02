@@ -28,11 +28,11 @@ Sie können [Smartwares RM370 Kohlenmonoxid CO Melder mit Display und Temperatur
 
 ℹ️:
 
-- Langlebiger elektro-chemischer Sensor (7 Jahre). Betriebstemperatur min/max: 0°C / 40°C
-- Wechselnde Displayanzeige zwischen Kohlenmonoxid Wert in ppm und Temperatur
-- Warnt Sie frühzeitig vor einer Kohlenmonoxidvergiftung, entsteht durch unvollständige Verbrennung (Kamin-/ Gastherme)
-- Inkl. Batterie, Dübel und Schrauben = Einfache drahtlose schnelle Montage
-- Prüftaste für Funktionstest, digitales Display sorgt für einfaches Ablesen
 - Typ des Alarmsensor : Elektrochemisch
+- Prüftaste für Funktionstest, digitales Display sorgt für einfaches Ablesen
+- Inkl. Batterie, Dübel und Schrauben = Einfache drahtlose schnelle Montage
+- Langlebiger elektro-chemischer Sensor (7 Jahre). Betriebstemperatur min/max: 0°C / 40°C
+- Warnt Sie frühzeitig vor einer Kohlenmonoxidvergiftung, entsteht durch unvollständige Verbrennung (Kamin-/ Gastherme)
+- Wechselnde Displayanzeige zwischen Kohlenmonoxid Wert in ppm und Temperatur
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00P0V5IYW/?tag=tolees0ca-21)
