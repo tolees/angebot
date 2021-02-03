@@ -29,9 +29,9 @@ Es gibt ein [Durable 856739 Tisch-Flipchart Durastar  mit 10 PP-Hüllen  A4 quer
 ℹ️:
 
 - Beschriftbar durch herausnehmbaren Beschriftungsstreifen
-- Tischflipchart mit stabilem Kunststoffrücken und Klettverschluss
-- Für Format: DIN A4 quer; Maße: 265 x 330 x 40 mm (B x H x T), aufgestellt: 260 mm tief
 - Aufstellbares Präsentations-Ringbuch; hochkant abstellbar wie ein Ordner
+- Für Format: DIN A4 quer; Maße: 265 x 330 x 40 mm (B x H x T), aufgestellt: 260 mm tief
+- Tischflipchart mit stabilem Kunststoffrücken und Klettverschluss
 - 4-Ringmechanik inkl. 10 reflexionsarmer Premium-Prospekthüllen mit Einreißschutz am Lochrand. Erweiterbar um ca. 20 weitere Hüllen Art. 856619
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001JYHHV6/?tag=tolees0ca-21)

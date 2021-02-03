@@ -28,13 +28,13 @@ Es gibt ein [CANSON XL Aquarelle C400039170: Aquarellpapier - Aquarellblock in D
 
 ℹ️:
 
-- 30 BLATT: Der Spiralblock für Aquarellzeichnungen, Malen und Tusche bietet durch die hohe Blattanzahl eine Vielzahl an kreativen Kunstwerken.
-- MIT SPIRALBINDUNG: Der Malblock ist als Ringbuch gestaltet überaus praktisch und sorgt für einfaches Umblättern.
-- OPTIMAL GEEIGNET FÜR MALEN MIT AQUARELL: Der Spiralblock zum Malen ist dank der feinkörnigen Oberfläche für jede Art von Kunstwerk geeignet - von Aquarell-Bildern bis hin zu Watercolour Letterings.
-- HOCHWERTIGER AQUARELLBLOCK: In diesem Malblock für Aquarellfarben sind 30 Blatt des 300g Papiers enthalten.
-- NASSKORREKTURFÄHIGKEIT: Das Aquarellpapier ist sowohl für Anfänger als auch für Profis geeignet, da Fehler durch die exzellente Oberfläche des Aquarellpapiers korrigiert werden können.
-- AQUARELLPAPIER IN WEIß: Eignet sich als Studienblock optimal für diverse Zeichnungen.
-- ERSTKLASSIGES PAPIER DER CANSON ZEICHENBLÖCKE: Das Zeichenpapier ist säurefrei und frei von optischen Aufhellern. Dementsprechend vergilbt das Aquarellpapier auch nicht.
 - GRÖßE DIN A4: Die gängige A4 Größe des Studienblocks XL Aquarelle bietet jede Menge Platz, um sich mit Aquarell- und Nasstechniken individuell auszuleben.
+- AQUARELLPAPIER IN WEIß: Eignet sich als Studienblock optimal für diverse Zeichnungen.
+- 30 BLATT: Der Spiralblock für Aquarellzeichnungen, Malen und Tusche bietet durch die hohe Blattanzahl eine Vielzahl an kreativen Kunstwerken.
+- OPTIMAL GEEIGNET FÜR MALEN MIT AQUARELL: Der Spiralblock zum Malen ist dank der feinkörnigen Oberfläche für jede Art von Kunstwerk geeignet - von Aquarell-Bildern bis hin zu Watercolour Letterings.
+- ERSTKLASSIGES PAPIER DER CANSON ZEICHENBLÖCKE: Das Zeichenpapier ist säurefrei und frei von optischen Aufhellern. Dementsprechend vergilbt das Aquarellpapier auch nicht.
+- MIT SPIRALBINDUNG: Der Malblock ist als Ringbuch gestaltet überaus praktisch und sorgt für einfaches Umblättern.
+- NASSKORREKTURFÄHIGKEIT: Das Aquarellpapier ist sowohl für Anfänger als auch für Profis geeignet, da Fehler durch die exzellente Oberfläche des Aquarellpapiers korrigiert werden können.
+- HOCHWERTIGER AQUARELLBLOCK: In diesem Malblock für Aquarellfarben sind 30 Blatt des 300g Papiers enthalten.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00L8JFILS/?tag=tolees0ca-21)

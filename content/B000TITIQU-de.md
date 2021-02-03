@@ -28,10 +28,10 @@ Es gibt ein [Aqua Sphere - Kaiman Small Fit](https://www.amazon.de/dp/B000TITIQU
 
 ℹ️:
 
-- Aqua Sphere
 - Schwimmen
-- Schwimmbrillen
-- Unisex
 - NOS
+- Schwimmbrillen
+- Aqua Sphere
+- Unisex
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000TITIQU/?tag=tolees0ca-21)

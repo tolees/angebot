@@ -28,10 +28,10 @@ Es gibt ein [Hasbro Gaming B0408100 - Kroko Doc Kinderspiel](https://www.amazon.
 
 ℹ️:
 
+- Actiongeladene Spannung
 - Ab 4 Jahren
+- 2 bis 4 Spieler
 - Fördert die Reaktionsgeschwindigkeit
 - Geschicklichkeitsspiel
-- 2 bis 4 Spieler
-- Actiongeladene Spannung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00OTKOKFS/?tag=tolees0ca-21)

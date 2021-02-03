@@ -28,10 +28,10 @@ Es gibt ein [SanDisk Ultra 400GB MicroSDXC Speicherkarte + SD-Adapter mit A1 App
 
 ℹ️:
 
-- Ideal für Android-basierte Smartphones und Tablets sowie für MIL-Kameras
-- A1-Performance ermöglicht ein deutlich schnelleres Laden von Apps
 - Mit Übertragungsgeschwindigkeiten von bis zu 100 MB/Sek. können Sie in einer Minute bis zu 1.200 Fotos hochladen
-- Class 10 für die Aufnahme und Wiedergabe von Videos in Full HD. Betriebstemperatur: -25 ºC bis 85 ºC
 - Bis zu 400 GB, um sogar noch mehr Stunden Full-HD-Video aufzunehmen
+- Class 10 für die Aufnahme und Wiedergabe von Videos in Full HD. Betriebstemperatur: -25 ºC bis 85 ºC
+- A1-Performance ermöglicht ein deutlich schnelleres Laden von Apps
+- Ideal für Android-basierte Smartphones und Tablets sowie für MIL-Kameras
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B074RNRM2B/?tag=tolees0ca-21)
