@@ -28,10 +28,10 @@ Es gibt ein [LEONARDO HOME - Leonardo Vase Dynamic  Höhe 50 cm  Durchmesser 16 
 
 ℹ️:
 
-- Die abgeschrägte und geschliffene Öffnung sorgt für einen dynamischen Look
 - In verschiedenen Größen erhältlich
-- Elegante, konische Bodenvase aus Klarglas, Höhe 50 cm, Durchmesser 16,5 cm
-- Ideal, um Blumen perfekt in Szene zu setzen oder als reines Deko-Objekt
+- Die abgeschrägte und geschliffene Öffnung sorgt für einen dynamischen Look
 - Handgefertigt – unterstreicht den Unikat-Charakter
+- Ideal, um Blumen perfekt in Szene zu setzen oder als reines Deko-Objekt
+- Elegante, konische Bodenvase aus Klarglas, Höhe 50 cm, Durchmesser 16,5 cm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000ROERP8/?tag=tolees0ca-21)

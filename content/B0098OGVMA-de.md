@@ -28,9 +28,9 @@ Es gibt ein [Bosch Scheibenwischer Rear H306  Länge: 300mm – Scheibenwischer 
 
 ℹ️:
 
-- Available with Bosch Aerotwin, plastic or conventional wiper blade technology: For a range of vehicle specific solutions
-- Scope of delivery: 1 wiper blade for rear window, length: 300mm
-- Pre-assembled adapter: Enables quick and easy installation
 - Innovative Bosch wiper rubber technology: For better, quieter and longer wiping performance
+- Scope of delivery: 1 wiper blade for rear window, length: 300mm
+- Available with Bosch Aerotwin, plastic or conventional wiper blade technology: For a range of vehicle specific solutions
+- Pre-assembled adapter: Enables quick and easy installation
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0098OGVMA/?tag=tolees0ca-21)

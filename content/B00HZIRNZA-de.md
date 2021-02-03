@@ -28,8 +28,8 @@ Es gibt ein [Unbekannt - Heidelberger HE553 - Android Netrunner: Farbe bekennen 
 
 ℹ️:
 
-- 2 players
 - Playtime 30–60 minutes
+- 2 players
 - From 13 years
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00HZIRNZA/?tag=tolees0ca-21)

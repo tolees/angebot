@@ -28,8 +28,8 @@ Es gibt ein [Samsonite Aeris Spinner XL Koffer  81 cm  118.5 L  Rot  Red ](https
 
 ℹ️:
 
-- Hergestellt aus leichtem und doch widerstandsfähigem Polypropylen
 - Aeris Upright 78 (Zweiwöchige Reise): 59 x 34 x 78 cm - 118,5 L - 5,08 kg
 - Made in Europe
+- Hergestellt aus leichtem und doch widerstandsfähigem Polypropylen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002SJSWKG/?tag=tolees0ca-21)
