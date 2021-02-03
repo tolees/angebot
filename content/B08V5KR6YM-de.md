@@ -29,9 +29,9 @@ Es gibt ein [[en.casa] Hängeboard Halmstad 140 x 31 x 30 cm mit Schranktüren H
 ℹ️:
 
 - Markenware aus dem Hause: [en.casa]
-- Material: Spanplatte, melaminbeschichtet Farbe: Weiß
 - Hängeboard kann vielfältig genutzt werden, bspw. als Ablage oder Fernsehtisch - Stauraum durch zwei Schranktüren, die sich separat öffnen lassen und zwei Ablagefächer - Einfacher Aufbau - Belastbarkeit: max. 25 kg
-- Maße: Gesamt (LxBxH): 140 x 31 x 30 cm - Schranktürfront (HxB): je 18,5 x 69,7 cm - Schrankfach Innenmaße (LxBxH): je 67 x 28 x 15,5 cm - Ablagefach Innenmaße (LxBxH): je 67 x 28 x 10 cm
+- Material: Spanplatte, melaminbeschichtet Farbe: Weiß
 - Dieses dekorative und praktische Lowboard eignet sich perfekt für jeden Haushalt.
+- Maße: Gesamt (LxBxH): 140 x 31 x 30 cm - Schranktürfront (HxB): je 18,5 x 69,7 cm - Schrankfach Innenmaße (LxBxH): je 67 x 28 x 15,5 cm - Ablagefach Innenmaße (LxBxH): je 67 x 28 x 10 cm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08V5KR6YM/?tag=tolees0ca-21)
