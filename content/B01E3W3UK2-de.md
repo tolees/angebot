@@ -28,8 +28,8 @@ Es gibt ein [FJÄLLRÄVEN Kånken No. 2 Black Backpack  OneSize](https://www.ama
 
 ℹ️:
 
-- Classic backpack completely Black Version
 - L main pocket, Front pocket and padded sitting pad
 - With Handles and Details in leather
+- Classic backpack completely Black Version
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01E3W3UK2/?tag=tolees0ca-21)

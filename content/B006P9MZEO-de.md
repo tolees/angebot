@@ -28,10 +28,10 @@ Sie können [Steinel Infrarot-Bewegungsmelder IS 2160 weiß  160° Sensor schwen
 
 ℹ️:
 
-- Einsatzbereit - Abdeckblenden, Dichtstutzen und Schwenkvorrichtung im Lieferumfang enthalten
-- Schnell montiert - Einfache Installation in (optimal) 2 m Höhe im Außenbereich (IP54) mit Anschlussbeispielen in der Bedienungsanleitung
 - Zuverlässig - 160° PIR-Sensor mit max. 12 m Reichweite, Bewegungserfassung auf 5 Erfassungsebenen und 260 Schaltzonen
-- Flexibel - Erfassungsbereich durch schwenkbaren Sensor und mitgelieferte Abdeckblenden anpassbar, Dämmerungssenor und Leuchtdauer stufenlos einstellbar
+- Schnell montiert - Einfache Installation in (optimal) 2 m Höhe im Außenbereich (IP54) mit Anschlussbeispielen in der Bedienungsanleitung
 - Anschluss von Glühlampen mit max. 600 W, Leuchtstoffröhren mit max. 500 W und Energiesparlampen|LEDs mit max. 4 Stück möglich
+- Flexibel - Erfassungsbereich durch schwenkbaren Sensor und mitgelieferte Abdeckblenden anpassbar, Dämmerungssenor und Leuchtdauer stufenlos einstellbar
+- Einsatzbereit - Abdeckblenden, Dichtstutzen und Schwenkvorrichtung im Lieferumfang enthalten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B006P9MZEO/?tag=tolees0ca-21)

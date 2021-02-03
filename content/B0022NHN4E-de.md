@@ -28,10 +28,10 @@ Es gibt ein [Energizer LED-Kopflampe Vision HD+  3 weiße  2 rote LED  dimmbar  
 
 ℹ️:
 
-- Höhe des Gehäuses: 4.5cm
-- Gewicht inkl. Batterien :87g
-- Breite des Gehäuses: 6.0cm
 - Tiefe des Gehäuses: 3.5cm
+- Höhe des Gehäuses: 4.5cm
+- Breite des Gehäuses: 6.0cm
 - Artikelart: Kopflampen
+- Gewicht inkl. Batterien :87g
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0022NHN4E/?tag=tolees0ca-21)

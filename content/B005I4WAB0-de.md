@@ -29,7 +29,7 @@ Es gibt ein [L OCCITANE - Lavendel Handcreme - 30 ml](https://www.amazon.de/dp/B
 ℹ️:
 
 - ANWENDUNG: Eine kleine Menge der Creme in kreisenden Bewegungen 2 Minuten lang auf Handrücken und -flächen auftragen.
-- INHALTSSTOFFE: Sheabutter (intensiv pflegend und feuchtigkeitsspendend), ätherisches Öl von Lavendel aus der Haute-Provence (entspannend)
 - Handcreme mit Lavendelduft, pflegt die Haut intensiv und schützt sie.
+- INHALTSSTOFFE: Sheabutter (intensiv pflegend und feuchtigkeitsspendend), ätherisches Öl von Lavendel aus der Haute-Provence (entspannend)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B005I4WAB0/?tag=tolees0ca-21)

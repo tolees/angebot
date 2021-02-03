@@ -28,10 +28,10 @@ Es gibt ein [Olympus M.Zuiko Digital ED 9-18mm F4.0-5.6 Objektiv  Weitwinkelzoom
 
 ℹ️:
 
+- Exzellente Verarbeitung und hochwertiges Metallbajonett
 - Herausragende Bildqualität, trotz sehr kompakter Bauweise mit gestochen scharfen Bildern bis an die Bildränder
 - Einsatzbereiche: Landschaft, Reisen, Natur und Architektur - entspricht einem 18-36mm Kleinbild-Objektiv
-- Exzellente Verarbeitung und hochwertiges Metallbajonett
-- Mit einer Länge von nur 49,5 mm erweist sich der Ultraweitwinkelzoom als kompakter und leichter Begleiter auf jeder Reise
 - Der ungewöhnlich schnelle und leise Autofokus des MSC-Mechanismus ist ideal für subtile Foto- und Video-Aufnahmen
+- Mit einer Länge von nur 49,5 mm erweist sich der Ultraweitwinkelzoom als kompakter und leichter Begleiter auf jeder Reise
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0036MDF2Y/?tag=tolees0ca-21)
