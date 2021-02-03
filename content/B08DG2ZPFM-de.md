@@ -28,8 +28,8 @@ Es gibt ein [HolyHigh Bluetooth Kopfhörer In Ear Sport IPX7 Wasserdicht Kabello
 
 ℹ️:
 
-- 【36H Ultra Long Playtime and Fast Charging】 15 minutes of fast charging support 1 hour of listening time. Up to 36 hours of battery life in total with the portable USB-C charging case. Each Earbud can be used for 6 hours on a single full charge.Dont worry about sudden power outage while traveling.
 - 【Pair & Switch Fast】 HolyHigh ET6 earbuds allow you to seamlessly and optionally switch between Binaural mode and Mono mode.You can automatically connect immediately after opening the shell.
+- 【36H Ultra Long Playtime and Fast Charging】 15 minutes of fast charging support 1 hour of listening time. Up to 36 hours of battery life in total with the portable USB-C charging case. Each Earbud can be used for 6 hours on a single full charge.Dont worry about sudden power outage while traveling.
 - 【Comfortable Fit】The ear hooks use TPE material (with elastic resilience)which can maximize your wearing comfort and stability. The Bluetooth earphones will not cause any discomfort or pain while working or exercising, and they wont fall out either.Besides, our wireless earbuds come with 4 pairs of different sized ear tips to ensure your best listening experience.
 - 【Waterproof & Sweatproof】With Nano coating, IPX7 waterproof technology well protects your headphones from sweat and rain during intense workouts or daily use.
 - 【Hi-Fi Stereo Sound Quality】The earphones are equipped with the latest Bluetooth 5.0 chip which provides more stable connection. Wireless Headphones delivers wider sound stage with exceptional accuracy and superior Hi-Fi Stereo Sound across the entire frequency range. you’ll experience a whole new world of perfect music.
