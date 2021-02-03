@@ -28,10 +28,10 @@ Es gibt ein [Playmobil City Action 70338 - Große Mitnehm-SEK-Zentrale  Mit Lich
 
 ℹ️:
 
+- Spielspaß für kleine Polizeifans: PLAYMOBIL Große Mitnehm-SEK-Zentrale mit Helikopter, Motorrad, Quad, 3 Polizisten, 1 Ganove und mehr zum Nachspielen
 - Aufklappbare Box für unterwegs mit Stauraum für Einzelteile, leichtgängiger Verriegelung und Griff, Funktionstüchtige Seilwinde, LED-Blinklicht uvm.
 - Lieferumfang: 1x PLAYMOBIL City Action Große Mitnehm-SEK-Zentrale, 139-teiliges Spielfiguren-Set mit Anleitung: 1 Zentrale, 4 Figuren, 134 Zubehörteile (3x Knopfzelle LR754/Typ 393 - 1,5 V Batterien enthalten), Material: Kunststoff, LxTxH 33x13x20,5 cm cm, 70338
 - Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
-- Spielspaß für kleine Polizeifans: PLAYMOBIL Große Mitnehm-SEK-Zentrale mit Helikopter, Motorrad, Quad, 3 Polizisten, 1 Ganove und mehr zum Nachspielen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08174XWQM/?tag=tolees0ca-21)

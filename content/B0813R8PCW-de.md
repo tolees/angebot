@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '16.13 % rabat auf LEGO 75941 Jurassic World Indominus Rex '
-date: 2021-02-02 04:54:55
+title: '16.22 % rabat auf LEGO 75941 Jurassic World Indominus Rex '
+date: 2021-02-03 05:15:26
 image: 'https://m.media-amazon.com/images/I/51Y2y8CkQBL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B0813R8PCW-de LEGO 75941 Jurassic World Indominus Rex vs. Ankylosaurus...'
 sku: 'B0813R8PCW-de'
 tags: [  ]
-actualPrice: 83.86 EUR
+actualPrice: 83.77 EUR
 currency: EUR
-price: 83.86
+price: 83.77
 comparePrice: 99.99 EUR
 prodname: 'LEGO 75941 Jurassic World Indominus Rex vs. Ankylosaurus  Dinosaurier Set mit Gyrosphäre'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0813R8PCW/?tag=tolees0ca-21'
-descuento: '16.13'
-average: '98.5856962025316'
+descuento: '16.22'
+average: '98.4617154811715'
 ---
 
-Es gibt ein [LEGO 75941 Jurassic World Indominus Rex vs. Ankylosaurus  Dinosaurier Set mit Gyrosphäre](https://www.amazon.de/dp/B0813R8PCW/?tag=tolees0ca-21) mit aktuellem Preis 83.86 EUR (original: 99.99 EUR) 16.13 % Rabatt hier:
+Es gibt ein [LEGO 75941 Jurassic World Indominus Rex vs. Ankylosaurus  Dinosaurier Set mit Gyrosphäre](https://www.amazon.de/dp/B0813R8PCW/?tag=tolees0ca-21) mit aktuellem Preis 83.77 EUR (original: 99.99 EUR) 16.22 % Rabatt hier:
 
 [![LEGO 75941 Jurassic World Indominus Rex ](https://m.media-amazon.com/images/I/51Y2y8CkQBL._SL200_.jpg)](https://www.amazon.de/dp/B0813R8PCW/?tag=tolees0ca-21)
 
