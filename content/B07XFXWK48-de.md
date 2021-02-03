@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.00 % rabat auf LEGO 75276 Star Wars Stormtrooper Helm  '
-date: 2021-02-01 21:45:09
+date: 2021-02-03 03:45:04
 image: 'https://m.media-amazon.com/images/I/51450fUeLlL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07XFXWK48/?tag=tolees0ca-21'
 descuento: '20.00'
-average: '48.0540073529413'
+average: '48.0535401459855'
 ---
 
 Es gibt ein [LEGO 75276 Star Wars Stormtrooper Helm  Bauset  Sammlerobjekt für Erwachsene](https://www.amazon.de/dp/B07XFXWK48/?tag=tolees0ca-21) mit aktuellem Preis 47.99 EUR (original: 59.99 EUR) 20.00 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [LEGO 75276 Star Wars Stormtrooper Helm  Bauset  Sammlerobjekt für 
 
 ℹ️:
 
-- The helmet comes with a base and nameplate to show it off at home or as an eye-catching office desk ornament
-- Features a build and display model of a Star Wars Stormtrooper helmet with super-details and beautifully recreated iconic contours
-- It comes with easy-to-follow instructions so even younger beginners can open the box and take on this complex build with confidence
-- Lots of love for all Star Wars fans! This set is a part of a collectible LEGO Star Wars series for adults and more patient teenagers
-- The Stormtrooper’s sinister look is reproduced in detail with LEGO bricks plus graphics stickers
+- Dieser Helm gehört zu einer LEGO Star Wars Sammlerserie mit Baumodellen und Schaustücken, zu der auch das Sets „Boba Fett Helm“ (75277) gehört.
+- Star Wars Fans können ihre Loyalität zum Imperium und ihr herausragendes Können als LEGO Baumeister unter Beweis stellen, indem sie diese faszinierend detailreiche Nachbildung eines Sturmtruppler-Helms bauen und präsentieren.
+- Die legendäre Form und die authentischen Details eines Sturmtruppler-Helms lassen sich mit LEGO Steinen und Grafiken zum Aufkleben nachbilden. Wird er als Schaustück präsentiert, werden Erinnerungen an Actionszenen aus dem Star Wars Film wach.
+- Dieser 647-teilige Modellbausatz eines Star Wars Charakters ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Fans ab 18 Jahren und bietet erfahrenen LEGO Baumeistern ein lohnendes Bauerlebnis.
+- Das LEGO Star Wars Bauset und Sammlerstück „Stormtrooper Helm“ ist 18 cm hoch, 13 cm breit und 14 cm tief. Mit diesen Abmessungen macht es besonders großen Eindruck als Schaustück im Büro oder in den eigenen vier Wänden.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07XFXWK48/?tag=tolees0ca-21)

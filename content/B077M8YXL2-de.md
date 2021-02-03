@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '33.95 % rabat auf PUMA Unisex Smash v2 L Sneaker  White Wh'
-date: 2021-02-02 03:20:51
+date: 2021-02-03 03:38:20
 image: 'https://m.media-amazon.com/images/I/31y7F2VGUxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.de/dp/B077M8YXL2/?tag=tolees0ca-21'
 descuento: '33.95'
-average: '34.1473949579832'
+average: '34.1282644628099'
 ---
 
 Es gibt ein [PUMA Unisex Smash v2 L Sneaker  White White  44 EU](https://www.amazon.de/dp/B077M8YXL2/?tag=tolees0ca-21) mit aktuellem Preis 32.99 EUR (original: 49.95 EUR) 33.95 % Rabatt hier:
