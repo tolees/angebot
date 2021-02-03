@@ -28,8 +28,8 @@ Sie können [Duru  traditionelles  türkisches Aftershave mit Zitronenduft  400�
 
 ℹ️:
 
-- Frische für Unterwegs.
-- Traditionelles, türkisches Aftershave.
 - Süßer Zitronenduft.
+- Traditionelles, türkisches Aftershave.
+- Frische für Unterwegs.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B000RKTW1G/?tag=tolees0ca-21)
