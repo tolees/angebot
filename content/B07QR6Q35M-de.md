@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - POP! Star Wars The Rise of Skywa mit 20.57 % Rabatt'
-date: 2021-02-02 03:20:30
+date: 2021-02-03 21:58:37
 image: 'https://m.media-amazon.com/images/I/41ZdoO6yv4L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Funko'
 buyurl: 'https://www.amazon.de/dp/B07QR6Q35M/?tag=tolees0ca-21'
 descuento: '20.57'
-average: '9.65694444444444'
+average: '9.63236842105263'
 ---
 
 Sie können [Funko - POP! Star Wars The Rise of Skywalker - Rey](https://www.amazon.de/dp/B07QR6Q35M/?tag=tolees0ca-21) mit Preis 9.19 EUR (original: 11.57 EUR) 20.57 % Rabatt hier:
@@ -28,10 +28,10 @@ Sie können [Funko - POP! Star Wars The Rise of Skywalker - Rey](https://www.ama
 
 ℹ️:
 
-- Von Star Wars The Rise of Skywalker, Rey, zur stilisierten POP-Vinyl Figur von Funko!
-- Schauen Sie sich jetzt die anderen Disney Star Wars-Figuren von Funko an! Sammeln Sie alle!
 - Disney Star Wars
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
+- Schauen Sie sich jetzt die anderen Disney Star Wars-Figuren von Funko an! Sammeln Sie alle!
+- Von Star Wars The Rise of Skywalker, Rey, zur stilisierten POP-Vinyl Figur von Funko!
 - Rey
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07QR6Q35M/?tag=tolees0ca-21)
