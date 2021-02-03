@@ -28,10 +28,10 @@ Es gibt ein [NIGRIN 73889 Kettenreiniger  500 ml](https://www.amazon.de/dp/B001D
 
 ℹ️:
 
+- Beseitigt verunreinigtes Kettenfett und den darin gebundenen Schmutz
+- Beugt dem erhöhten Verschleiß des Kettensatzes durch Verschmutzung vor
+- Verbessert die Leichtlauf Eigenschaften
 - Geeignet für O-,Z- und X-Ring Antriebsketten
 - Reinigt und entfettet alle Motorradketten und erhöht den Verschleißschutz
-- Beseitigt verunreinigtes Kettenfett und den darin gebundenen Schmutz
-- Verbessert die Leichtlauf Eigenschaften
-- Beugt dem erhöhten Verschleiß des Kettensatzes durch Verschmutzung vor
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001DIJ7H0/?tag=tolees0ca-21)
