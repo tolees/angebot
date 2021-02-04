@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ONLY Damen Onlsedona Light Coat Otw Noos mit 39.99 % Rabatt'
-date: 2021-02-03 03:36:59
+date: 2021-02-04 16:37:09
 image: 'https://m.media-amazon.com/images/I/31mGcUT0jdL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'ONLY'
 buyurl: 'https://www.amazon.de/dp/B0714GP1SH/?tag=tolees0ca-21'
 descuento: '39.99'
-average: '29.996'
+average: '29.9971428571429'
 ---
 
 Sie können [ONLY Damen Onlsedona Light Coat Otw Noos Mantel  Schwarz  Black Black   44 EU](https://www.amazon.de/dp/B0714GP1SH/?tag=tolees0ca-21) mit Preis 30.0 EUR (original: 49.99 EUR) 39.99 % Rabatt hier:
