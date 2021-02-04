@@ -28,9 +28,9 @@ Es gibt ein [Ersatzmine Patrone für Pentel Tradio Stylo Tintenfederhalter MLJ20
 
 ℹ️:
 
-- Colour: Black
-- Model Number: MLJ20 Schwarz
-- Package Weight: 20 grams
 - Item Package Quantity: 1
+- Model Number: MLJ20 Schwarz
+- Colour: Black
+- Package Weight: 20 grams
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00PSH8PS4/?tag=tolees0ca-21)

@@ -28,8 +28,8 @@ Es gibt ein [ESPRIT Herren 999EE2B800 Classic Chino Hose  Navy  400   01/18  32W
 
 ℹ️:
 
-- Normale Bundhöhe
-- Ohne Gürtel
 - Oberschenkel normal, Beinverlauf (zum Saum hin) leicht schmaler werdend
+- Ohne Gürtel
+- Normale Bundhöhe
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07BC6PHND/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [Sony RX100 V | Premium-Kompaktkamera  1 0-Typ-Sensor  24-70 mm F1.8
 
 ℹ️:
 
-- IDEAL FÜR VIDEO-CREATOR: Interne 4K Video-Aufnahmen mit Pro-Funktionen und Bildstabilisierung
-- TEILEN SIE IHRE KREATIONEN: Einfache Freigabe auf Ihren mobilen Geräten über die Imaging Edge Mobile-App (Wi-Fi)
-- ATEMBERAUBENDE BILDQUALITÄT: Der große Bildsensor vom Typ 1.0 hat eine Auflösung von 20,1 Megapixeln, die mit der Back-Illuminated-Technologie einen großen Empfindlichkeitsbereich erreichen
-- KEINEN MOMENT VERPASSEN: Bis zu 24fps mit Autofokus
 - SCHNELLER UND PRÄZISER AUTOFOKUS: Das schnelle Hybrid-AF-System erreicht 0,05s AF, um Ihr Motiv in jeder Situation scharf zu halten
+- KEINEN MOMENT VERPASSEN: Bis zu 24fps mit Autofokus
+- ATEMBERAUBENDE BILDQUALITÄT: Der große Bildsensor vom Typ 1.0 hat eine Auflösung von 20,1 Megapixeln, die mit der Back-Illuminated-Technologie einen großen Empfindlichkeitsbereich erreichen
+- TEILEN SIE IHRE KREATIONEN: Einfache Freigabe auf Ihren mobilen Geräten über die Imaging Edge Mobile-App (Wi-Fi)
+- IDEAL FÜR VIDEO-CREATOR: Interne 4K Video-Aufnahmen mit Pro-Funktionen und Bildstabilisierung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07G4RNJ1R/?tag=tolees0ca-21)
