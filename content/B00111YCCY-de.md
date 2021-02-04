@@ -28,7 +28,7 @@ Sie können [Vans Herren Splitz Baseball Cap  Schwarz  Black BLK   L/XL](https:/
 
 ℹ️:
 
-- 63% Polyester, 34% Baumwolle und 3% Elasthan
 - Flexfit Cap von VANS
+- 63% Polyester, 34% Baumwolle und 3% Elasthan
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00111YCCY/?tag=tolees0ca-21)

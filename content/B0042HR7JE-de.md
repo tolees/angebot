@@ -28,10 +28,10 @@ Sie können [Kneipp Gesundheitsbad Rücken Wohl Teufelskralle  1er Pack  1 x 100
 
 ℹ️:
 
+- Hoch konzentriert
 - Badekosmetikum
+- Wohltuend und entspannend für den Rücken, Schultern und Nacken
 - Mit natürlichen ätherischen Ölen
 - Sehr ergiebig
-- Wohltuend und entspannend für den Rücken, Schultern und Nacken
-- Hoch konzentriert
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0042HR7JE/?tag=tolees0ca-21)

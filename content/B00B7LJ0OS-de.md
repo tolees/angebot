@@ -28,9 +28,9 @@ Es gibt ein [Läufer 40659 Durella Schreibtischunterlage  52x65 cm  graphit  rut
 
 ℹ️:
 
-- Schreibunterlage für hervorragenden Schreibkomfort, 52 x 65 cm, Farbe graphit-schwarz
 - besonders feinporige Kunstschaumbeschichtung auf der Rückseite bietet hohe Rutschfestigkeit und schont die Schreibtischoberfläche
-- der Läufer 3-Schichten-Aufbau sichert absolute Planlage auch bei großen Temperatuschwankungen
 - die unempfindliche, langlebige und abwaschbare Oberfläche der Schreibtischunterlage erleichtert das Schreiben
+- der Läufer 3-Schichten-Aufbau sichert absolute Planlage auch bei großen Temperatuschwankungen
+- Schreibunterlage für hervorragenden Schreibkomfort, 52 x 65 cm, Farbe graphit-schwarz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00B7LJ0OS/?tag=tolees0ca-21)

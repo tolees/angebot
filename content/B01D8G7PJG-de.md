@@ -29,7 +29,7 @@ Sie können [MUSTANG Herren Slim Fit Oregon Straight Jeans](https://www.amazon.d
 ℹ️:
 
 - Slim cut 5-pocket jeans with low waist and straight leg, patch back pockets.
-- Style: straight leg.
 - Straight leg.
+- Style: straight leg.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01D8G7PJG/?tag=tolees0ca-21)
