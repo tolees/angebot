@@ -28,8 +28,8 @@ Sie können [Semler Damen Judith Slipper  Schwarz  Schwarz 001   38 2/3 EU](http
 
 ℹ️:
 
-- Gepolsterte Lederdecksohle
 - Luftpolstersohle
 - Echtes Leder
+- Gepolsterte Lederdecksohle
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07N9FHSG3/?tag=tolees0ca-21)

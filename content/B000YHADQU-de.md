@@ -28,10 +28,10 @@ Es gibt ein [Staedtler Stick 430 M-2 Kugelschreiber 10 Stück Rot](https://www.a
 
 ℹ️:
 
-- Kappenfarbe entspricht der Schreibfarbe
-- Kugelschreiber mit Kappe und Clip
 - Strichbreite M
 - Dokumentenecht
+- Kugelschreiber mit Kappe und Clip
+- Kappenfarbe entspricht der Schreibfarbe
 - Airplane safe - automatischer Druckausgleich verhindert das Auslaufen des Stiftes im Flugzeug
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000YHADQU/?tag=tolees0ca-21)

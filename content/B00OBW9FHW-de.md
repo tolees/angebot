@@ -28,10 +28,10 @@ Sie können [Icy Dock EZConvert Air Lite MB482SP-3B - 2 5 Zoll  6 4cm  zu 3 5 Zo
 
 ℹ️:
 
-- Offene Vollmetall-Konstruktion
-- Ideal für Apple Mac Pro / iMac, PC und Server Upgrades
-- Wandelt eine 2,5" (6,4cm) SATA SSD/HDD zu einem 3,5" (8,9cm) SATA-Laufwerk um
 - Chrom-Look
+- Offene Vollmetall-Konstruktion
 - Unterstützt SATA 6GBit/s
+- Wandelt eine 2,5" (6,4cm) SATA SSD/HDD zu einem 3,5" (8,9cm) SATA-Laufwerk um
+- Ideal für Apple Mac Pro / iMac, PC und Server Upgrades
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00OBW9FHW/?tag=tolees0ca-21)

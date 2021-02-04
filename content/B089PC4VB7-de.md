@@ -28,13 +28,13 @@ Sie können [BANDAI NAMCO Entertainment - Project Cars 3 - [Xbox One]](https://w
 
 ℹ️:
 
-- Großer Umfang mit mehr als 200 Elite-Renn- und Straßensportwagen und über 140 Strecken rund um die Welt
 - SpielerInnen verdienen Credits und Erfahrungspunkte in den Rennen und können Autos kaufen, upgraden und nach Ihren Vorlieben individuell anpassen
-- Das spielt enthält englische Sprachausgabe und deutsche Texte
-- Visuelles Spektakel mit realistischem, dynamischen Wetter und verschiedenen Jahreszeiten bei allen Rennen
-- Vollständig skalierbare Fahr-Assistenten für jeden Schwierigkeitsgrad
-- Intuitive Controller Steuerung
-- In Project CARS 3, dem dritten Teil der beliebten Rennspiel-Serie, begeben sich die SpielerInnen im brandneuen Karrieremodus auf die Reise vom Sonntagsfahrer bis zur Rennsport-Legende
 - Neue Multiplayer- und Community-Modi
+- Das spielt enthält englische Sprachausgabe und deutsche Texte
+- Intuitive Controller Steuerung
+- Vollständig skalierbare Fahr-Assistenten für jeden Schwierigkeitsgrad
+- In Project CARS 3, dem dritten Teil der beliebten Rennspiel-Serie, begeben sich die SpielerInnen im brandneuen Karrieremodus auf die Reise vom Sonntagsfahrer bis zur Rennsport-Legende
+- Großer Umfang mit mehr als 200 Elite-Renn- und Straßensportwagen und über 140 Strecken rund um die Welt
+- Visuelles Spektakel mit realistischem, dynamischen Wetter und verschiedenen Jahreszeiten bei allen Rennen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B089PC4VB7/?tag=tolees0ca-21)
