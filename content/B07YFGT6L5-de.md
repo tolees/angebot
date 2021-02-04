@@ -28,10 +28,10 @@ Sie können [Western Digital - WD BLACK 500GB P50 Game Drive SSD Starke Leistung
 
 ℹ️:
 
-- WD_Black P50 Game Drive 500 GB externe Festplatte (SuperSpeed USB 3.2 Gen 2x2, stoßfest) Schwarz; USB Typ-C auf Typ-C, USB Typ-C auf Typ-A, Kurzanleitung; 5 Jahre Garantie
-- Die externe SSD wurde speziell für Gamer entiwickelt, die es Leid sind, durch langes Warten aufghalten zu werden.
 - Die externe SSD Festplatte bietet bis zu 500 GB Speicher für Ihre liebsten Spiele. Mit dieser Festplatte reduzieren Sie nicht nur Ladezeiten sondern erhöhen auch die Reaktionszeit.
 - Die externe Festplatte hat einen SuperSpeed USB 20 GB/s Anschluss, damit Sie auch in Zukunft mit allen neuen Geräten kompatibel ist.
 - Der externe Speicher ist der ideale Begleiter für Ihre Konsole oder Ihren PC. Dank einer Lesegeschwindigkeit von bis zu 2000 MB/s reduzieren Sie die Ladezeiten.
+- WD_Black P50 Game Drive 500 GB externe Festplatte (SuperSpeed USB 3.2 Gen 2x2, stoßfest) Schwarz; USB Typ-C auf Typ-C, USB Typ-C auf Typ-A, Kurzanleitung; 5 Jahre Garantie
+- Die externe SSD wurde speziell für Gamer entiwickelt, die es Leid sind, durch langes Warten aufghalten zu werden.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07YFGT6L5/?tag=tolees0ca-21)

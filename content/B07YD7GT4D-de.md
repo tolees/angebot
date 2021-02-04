@@ -28,10 +28,10 @@ Es gibt ein [GHT USB Switch 2PC 4 Port  2 In 4 Out USB 2.0 Umschalter  2 PCs Sha
 
 ℹ️:
 
-- 【Einfach zu bedienen】Klein (nur die Hälfte der Handfläche oder noch kleiner), Metallgehäuse mit 2 USB Kabeln, Unterstützt Hot-einstecken,Plug and Play, für mehr Komfort.
-- 【Knopfschalter】Tasten auf der Vorderseite，Durch Knopfdrucke kann man einfach auswählen, mit welchem PC Ihre Geräte zu verbinden.
 - 【Hohe Kompatibilität】 USB Umschalter 2.0 ist kompatibel mit Windows 10/7/2000 / XP / Vista / Linux / Unix / Mac OS / Ubuntu / Fedora,etc.
 - 【2 PCs teilen sich 4 USB2.0】USB 2.0 Switch kann dies erreichen 2 Computer teilen sich 4 USB 2.0 Geräte，Zum Beispiel Drucker, Scanner, Tastaturen, Mäuse, USB-Speichersticks und andere USB-Geräte.
 - 【Packing including】 USB 2.0 Switch x1, 3.9ft USB 2.0 Kabelx2(USB A-A Kabel)，3.28ft Micro USB Cable x1,Produkthandbuch x1.Wenn Sie Fragen zum Produkt haben, kontaktieren Sie uns bitte, wir werden Ihnen antworten beim ersten Mal.
+- 【Einfach zu bedienen】Klein (nur die Hälfte der Handfläche oder noch kleiner), Metallgehäuse mit 2 USB Kabeln, Unterstützt Hot-einstecken,Plug and Play, für mehr Komfort.
+- 【Knopfschalter】Tasten auf der Vorderseite，Durch Knopfdrucke kann man einfach auswählen, mit welchem PC Ihre Geräte zu verbinden.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07YD7GT4D/?tag=tolees0ca-21)

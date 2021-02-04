@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 71736 NINJAGO Coles Felsenbrecher F mit 17.28 % Rabatt'
-date: 2021-02-01 21:22:52
+title: 'LEGO 71736 NINJAGO Coles Felsenbrecher F mit 25.01 % Rabatt'
+date: 2021-02-04 11:01:27
 image: 'https://m.media-amazon.com/images/I/51k4r88gvWL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,31 +9,31 @@ author: ring
 slug: 'B08G4HBJ1J-de LEGO 71736 NINJAGO Coles Felsenbrecher Flugzeugspielzeug...'
 sku: 'B08G4HBJ1J-de'
 tags: [  ]
-actualPrice: 33.08 EUR
+actualPrice: 29.99 EUR
 currency: EUR
-price: 33.08
+price: 29.99
 comparePrice: 39.99 EUR
 prodname: 'LEGO 71736 NINJAGO Coles Felsenbrecher Flugzeugspielzeug mit Gefängnis und sammelbarer Figur des Goldenen Ninja Kai'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4HBJ1J/?tag=tolees0ca-21'
-descuento: '17.28'
-average: '31.495'
+descuento: '25.01'
+average: '31.3445'
 ---
 
-Sie können [LEGO 71736 NINJAGO Coles Felsenbrecher Flugzeugspielzeug mit Gefängnis und sammelbarer Figur des Goldenen Ninja Kai](https://www.amazon.de/dp/B08G4HBJ1J/?tag=tolees0ca-21) mit Preis 33.08 EUR (original: 39.99 EUR) 17.28 % Rabatt hier:
+Sie können [LEGO 71736 NINJAGO Coles Felsenbrecher Flugzeugspielzeug mit Gefängnis und sammelbarer Figur des Goldenen Ninja Kai](https://www.amazon.de/dp/B08G4HBJ1J/?tag=tolees0ca-21) mit Preis 29.99 EUR (original: 39.99 EUR) 25.01 % Rabatt hier:
 
 [![LEGO 71736 NINJAGO Coles Felsenbrecher F](https://m.media-amazon.com/images/I/51k4r88gvWL._SL200_.jpg)](https://www.amazon.de/dp/B08G4HBJ1J/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Das Spielzeug vermittelt Kindern ab 8 Jahren ein lohnendes Bauerlebnis und begeistert NINJAGO Fans als Geburtstags- oder Weihnachtsgeschenk
-- Das LEGO NINJAGO Legacy Spielset „Coles Felsenbrecher“ (71736) enthält eine überarbeitete Version des supercoolen Fliegers und ein Ninja-Gefängnis, um ein actionreiches Spielerlebnis zu vermitteln
-- Weitere goldene Minifiguren zum Sammeln finden Sie in den anderen NINJAGO Sets: Turnier der Elemente (71735), X-1 Ninja Supercar (71737) und Zanes Titan-Mech (71738)
-- Kinder werden mit großer Begeisterung die 8 Raketen aus der rotierenden Schnauze des Fliegers abfeuern, um den Ninja aus dem Gefängnis zu befreien
 - Enthält 4 Minifiguren: die Ninja Cole, Lloyd und Kai Legacy und den Bösewicht Eyezor, um Szenen aus der 4. Staffel der LEGO NINJAGO TV-Serie nachstellen zu können
-- Das Ninja-Spielzeug ist 12 cm hoch, 28 cm lang und 25 cm breit. Das ist die ideale Größe, um es auch mitnehmen und unterwegs damit spielen zu können
 - Enthält Kai Legacy als besondere goldene Minifigur zum Sammeln auf einem kleinen Ständer zur Feier des 10-jährigen Jubiläums der NINJAGO Spielzeuge
+- Kinder werden mit großer Begeisterung die 8 Raketen aus der rotierenden Schnauze des Fliegers abfeuern, um den Ninja aus dem Gefängnis zu befreien
+- Das LEGO NINJAGO Legacy Spielset „Coles Felsenbrecher“ (71736) enthält eine überarbeitete Version des supercoolen Fliegers und ein Ninja-Gefängnis, um ein actionreiches Spielerlebnis zu vermitteln
+- Das Spielzeug vermittelt Kindern ab 8 Jahren ein lohnendes Bauerlebnis und begeistert NINJAGO Fans als Geburtstags- oder Weihnachtsgeschenk
+- Weitere goldene Minifiguren zum Sammeln finden Sie in den anderen NINJAGO Sets: Turnier der Elemente (71735), X-1 Ninja Supercar (71737) und Zanes Titan-Mech (71738)
+- Das Ninja-Spielzeug ist 12 cm hoch, 28 cm lang und 25 cm breit. Das ist die ideale Größe, um es auch mitnehmen und unterwegs damit spielen zu können
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08G4HBJ1J/?tag=tolees0ca-21)
