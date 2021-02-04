@@ -1,32 +1,37 @@
 ---
 layout: post
-title: '20.02 % rabat auf LEGO 41401 Friends Stephanies magischer '
-date: 2020-04-06 05:03:22
-image: 'https://m.media-amazon.com/images/I/51j09NP4s4L._SL200_.jpg'
+title: '28.03 % rabat auf Lego Friends - LEGO 41401 Friends Stepha'
+date: 2021-02-04 10:56:44
+image: 'https://m.media-amazon.com/images/I/51-zVteND5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7TM72R-de LEGO 41401 Friends Stephanies magischer Würfel...'
+slug: 'B07W7TM72R-de Lego Friends - LEGO 41401 Friends Stephanies magischer...'
 sku: 'B07W7TM72R-de'
 tags: [  ]
-actualPrice: 7.99 EUR
+actualPrice: 7.19 EUR
 currency: EUR
-price: 7.99
+price: 7.19
 comparePrice: 9.99 EUR
-prodname: 'LEGO 41401 Friends Stephanies magischer Würfel  Sammlerbauset  Mini-Spielset  tragbares Spielzeug für unterwegs'
+prodname: 'Lego Friends - LEGO 41401 Friends Stephanies magischer Würfel  Sammlerbauset  Mini-Spielset  tragbares Spielzeug für unterwegs'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'Lego Friends'
 buyurl: 'https://www.amazon.de/dp/B07W7TM72R/?tag=tolees0ca-21'
-descuento: '20.02'
-average: '8.32'
+descuento: '28.03'
+average: '7.755'
 ---
 
-Es gibt ein [LEGO 41401 Friends Stephanies magischer Würfel  Sammlerbauset  Mini-Spielset  tragbares Spielzeug für unterwegs](https://www.amazon.de/dp/B07W7TM72R/?tag=tolees0ca-21) mit aktuellem Preis 7.99 EUR (original: 9.99 EUR) 20.02 % Rabatt hier:
+Es gibt ein [Lego Friends - LEGO 41401 Friends Stephanies magischer Würfel  Sammlerbauset  Mini-Spielset  tragbares Spielzeug für unterwegs](https://www.amazon.de/dp/B07W7TM72R/?tag=tolees0ca-21) mit aktuellem Preis 7.19 EUR (original: 9.99 EUR) 28.03 % Rabatt hier:
 
-[![LEGO 41401 Friends Stephanies magischer ](https://m.media-amazon.com/images/I/51j09NP4s4L._SL200_.jpg)](https://www.amazon.de/dp/B07W7TM72R/?tag=tolees0ca-21)
+[![Lego Friends - LEGO 41401 Friends Stepha](https://m.media-amazon.com/images/I/51-zVteND5L._SL200_.jpg)](https://www.amazon.de/dp/B07W7TM72R/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Das Zubehör umfasst eine Kochpfanne, einen Schneebesen, einen Schrank, einen Kuchen mit Dekorationen, einen Herd mit Backofen und ein Aufkleberblatt zur individuellen Gestaltung des Würfels
+- Der Würfel kann geteilt und mit anderen Würfeln kombiniert werden. Kinder können Würfel zum Spaß verbinden oder an einem Spieltag mitnehmen, um den Spaß mit Freunden zu teilen
+- Dieses Spielzeug mit Stephanie als Bäckerin ist handlich genug, um es überall mitnehmen zu können. Dank den kompakten Abmessungen ist der Würfel der ideale Reisebegleiter
+- Es gibt 5 Würfel zu sammeln (separat erhältlich), jeder mit einem geheimnisvollen Haustier, was ein Überraschungselement darstellt - Kinder können alle bezaubernden Haustiere sammeln oder mit Freunden tauschen
+- Das Spielset enthält die Bäckerin Stephanie als Spielfigur, ein Überraschungshaustier, einen Kuchen, 2 Bäckerei-Kulissen und viel mehr Zubehör zum Backen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07W7TM72R/?tag=tolees0ca-21)
