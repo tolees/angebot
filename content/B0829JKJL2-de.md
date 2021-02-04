@@ -28,8 +28,8 @@ Es gibt ein [PLAYMOBIL Special Plus 70302 Gladiator mit Waffenständer  ab 4 Jah
 
 ℹ️:
 
-- Schwert und Fangnetz
-- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
+- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
+- Schwert und Fangnetz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0829JKJL2/?tag=tolees0ca-21)

@@ -29,9 +29,9 @@ Es gibt ein [JAKO Herren Trainingshose Active  schwarz/weiß  L  8495](https://w
 ℹ️:
 
 - Ripp-Einsatz an der Wade
-- Elastischer Bund mit Kordelzug
 - Beinabschluss mit Reißverschluss
-- Material: 100 % Polyester
 - Seitentaschen mit Reißverschluss
+- Material: 100 % Polyester
+- Elastischer Bund mit Kordelzug
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00IN4JPYC/?tag=tolees0ca-21)
