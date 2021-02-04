@@ -28,11 +28,11 @@ Es gibt ein [Sennheiser CX 400BT True Wireless Earbuds - Bluetooth In-Ear Kopfh�
 
 ℹ️:
 
-- Full digital control with our app: Our Smart Control app for iOS / Android​ allows all of the earphone functionalities to be modified to your personal choice
-- Personalise to your everday needs: Fully adaptable controls for music, calls and voice assistant​ - Built-in audio equaliser​ adapts the sound to your preferences
-- Long battery life and comfortable wearing: Get up to 20 hours of music playtime with one charge - The ergonomic design​ offers optimal comfort and secure fit with 4 ear adapter sizes​​
 - Audio quality is our top priority: Experience great sound with a 7 mm dynamic driver and a wide range of Bluetooth codec support
-- Sennheiser uses decades of expertise to drive the world of audio technology forward with every product - for new, unique sound experiences
+- Personalise to your everday needs: Fully adaptable controls for music, calls and voice assistant​ - Built-in audio equaliser​ adapts the sound to your preferences
+- Full digital control with our app: Our Smart Control app for iOS / Android​ allows all of the earphone functionalities to be modified to your personal choice
 - Enjoy outstanding sound quality no matter your mobile device or surroundings with our wide range of audio codec support including AAC, aptX, SBC as well as passive Noise Cancelling
+- Long battery life and comfortable wearing: Get up to 20 hours of music playtime with one charge - The ergonomic design​ offers optimal comfort and secure fit with 4 ear adapter sizes​​
+- Sennheiser uses decades of expertise to drive the world of audio technology forward with every product - for new, unique sound experiences
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08CZQXLQJ/?tag=tolees0ca-21)

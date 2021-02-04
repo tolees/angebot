@@ -28,9 +28,9 @@ Es gibt ein [Crucial P2 CT500P2SSD8 500GB Internes SSD  Bis zu 2400 MB/s  3D NAN
 
 ℹ️:
 
+- Kapazitäten bis zu 2TB mit sequentiellen Lese/Schreibvorgängen bis zu 2.400/1.900 MB/s
 - Mit SSD-Verwaltungssoftware für Leistungsoptimierung, Datensicherheit und FirmwareUpdates
 - Die NVMe PCIe-Schnittstelle ist der nächste Schritt bei der Speicherinnovatio
 - 5 Jahre eingeschränkte Garantie
-- Kapazitäten bis zu 2TB mit sequentiellen Lese/Schreibvorgängen bis zu 2.400/1.900 MB/s
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B086BGWNY8/?tag=tolees0ca-21)

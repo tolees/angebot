@@ -28,13 +28,13 @@ Sie können [Microsoft - Xbox Wireless Controller Shock Blue](https://www.amazon
 
 ℹ️:
 
-- Enthält Xbox Wireless und Bluetooth-Technologie für drahtlose Spiele auf Konsole, PC, Mobiltelefonen und Tablets
-- Passe den Controller auf deine Bedürfnisse an und weise die Tasten so zu, wie du möchtest
-- Hergestellt für mehr Komfort und bessere Haptik
-- Dank der neuen Share Taste kannst du Inhalte wie Screenshots während des Spiels mühelos aufnehmen und teilen.
-- Bleibe mit Hilfe der strukturierten Oberflächen an Triggern, Bumpers und Rückseite auf Zielkurs
 - An der 3,5mm-Stereo-Headsetbuchse kannst du kompatible Headsets und Kopfhörer anschließen
-- Verfügt über Xbox Wireless- und Bluetooth-Technologie für drahtloses Gaming auf unterstützten Konsolen, Windows 10-PCs und Android-Smartphones sowie Tablets
+- Dank der neuen Share Taste kannst du Inhalte wie Screenshots während des Spiels mühelos aufnehmen und teilen.
 - Das neue hybride D-Pad ermöglicht eine genaue und dennoch vertraute Eingabe
+- Bleibe mit Hilfe der strukturierten Oberflächen an Triggern, Bumpers und Rückseite auf Zielkurs
+- Hergestellt für mehr Komfort und bessere Haptik
+- Verfügt über Xbox Wireless- und Bluetooth-Technologie für drahtloses Gaming auf unterstützten Konsolen, Windows 10-PCs und Android-Smartphones sowie Tablets
+- Passe den Controller auf deine Bedürfnisse an und weise die Tasten so zu, wie du möchtest
+- Enthält Xbox Wireless und Bluetooth-Technologie für drahtlose Spiele auf Konsole, PC, Mobiltelefonen und Tablets
 
 [🛒 Hier!!](https://www.amazon.de/dp/B087VMGP5G/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [Sony SEL-24105G G Standard Zoom-Objektiv  24-105 mm  F4  OSS  Vollf
 
 ℹ️:
 
-- Dust and moisture resistant design
 - Sony Nano AR Coating to eliminate flare and ghosting
-- G Lens standard zoom lens
 - Two AA (advanced aspherical) elements for outstanding resolution
 - Direct Drive SSM for quiet, highly precise focus lens control
+- Dust and moisture resistant design
+- G Lens standard zoom lens
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B076VNDS8F/?tag=tolees0ca-21)
