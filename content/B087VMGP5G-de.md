@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft - Xbox Wireless Controller Sho mit 28.54 % Rabatt'
-date: 2021-02-02 21:58:40
+date: 2021-02-04 04:32:04
 image: 'https://m.media-amazon.com/images/I/41sMC1pGmdL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.de/dp/B087VMGP5G/?tag=tolees0ca-21'
 descuento: '28.54'
-average: '69.5493333333334'
+average: '68.9493750000001'
 ---
 
 Sie können [Microsoft - Xbox Wireless Controller Shock Blue](https://www.amazon.de/dp/B087VMGP5G/?tag=tolees0ca-21) mit Preis 59.95 EUR (original: 83.89 EUR) 28.54 % Rabatt hier:
@@ -28,10 +28,13 @@ Sie können [Microsoft - Xbox Wireless Controller Shock Blue](https://www.amazon
 
 ℹ️:
 
-- Make the controller your own by customizing button mapping with the Xbox Accessories app
-- Plug in any compatible headset with the 3.5mm audio headset jack
-- Stay on target with textured grip on the triggers, bumpers, and back case and with a new hybrid D-pad for accurate, yet familiar input
-- Experience the modernised design of the Xbox Wireless Controller – Shock Blue, featuring sculpted surfaces and refined geometry for enhanced comfort and effortless control during gameplay
-- Includes Xbox Wireless and Bluetooth technology for wireless gaming on supported consoles, Windows 10 PCs, Android and tablets
+- Enthält Xbox Wireless und Bluetooth-Technologie für drahtlose Spiele auf Konsole, PC, Mobiltelefonen und Tablets
+- Dank der neuen Share Taste kannst du Inhalte wie Screenshots während des Spiels mühelos aufnehmen und teilen.
+- Hergestellt für mehr Komfort und bessere Haptik
+- Bleibe mit Hilfe der strukturierten Oberflächen an Triggern, Bumpers und Rückseite auf Zielkurs
+- An der 3,5mm-Stereo-Headsetbuchse kannst du kompatible Headsets und Kopfhörer anschließen
+- Verfügt über Xbox Wireless- und Bluetooth-Technologie für drahtloses Gaming auf unterstützten Konsolen, Windows 10-PCs und Android-Smartphones sowie Tablets
+- Das neue hybride D-Pad ermöglicht eine genaue und dennoch vertraute Eingabe
+- Passe den Controller auf deine Bedürfnisse an und weise die Tasten so zu, wie du möchtest
 
 [🛒 Hier!!](https://www.amazon.de/dp/B087VMGP5G/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '24.10 % rabat auf LEGO 21028 Architecture New York City Ba'
-date: 2021-02-02 22:23:11
+date: 2021-02-04 04:36:52
 image: 'https://m.media-amazon.com/images/I/51eda0bZppL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B012NOGGHQ/?tag=tolees0ca-21'
 descuento: '24.10'
-average: '37.672967032967'
+average: '37.6739416058394'
 ---
 
 Es gibt ein [LEGO 21028 Architecture New York City Bauset  Skyline-Kollektion](https://www.amazon.de/dp/B012NOGGHQ/?tag=tolees0ca-21) mit aktuellem Preis 37.94 EUR (original: 49.99 EUR) 24.10 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [LEGO 21028 Architecture New York City Bauset  Skyline-Kollektion](h
 
 ℹ️:
 
+- Die Spielzeugmodelle von LEGO Architecture sind kompatibel mit allen LEGO Bausets für kreatives Bauen
+- Die New Yorker Skyline ist 26 cm hoch, 23 cm breit und 3 cm tief; 598 Teile - Für Jungen und Mädchen ab 12 Jahren
+- Das Modell enthält das Flatiron Building, das Chrysler Building, das Empire State Building und das One World Trade Center
 - Enthält eine Broschüre zum Sammeln mit Informationen über Design, Architektur und Geschichte des Gebäudes
 - Bauen Sie ein detailgetreues Modell der New Yorker Skyline mit der Freiheitsstatue
-- Die New Yorker Skyline ist 26 cm hoch, 23 cm breit und 3 cm tief; 598 Teile - Für Jungen und Mädchen ab 12 Jahren
-- Die Spielzeugmodelle von LEGO Architecture sind kompatibel mit allen LEGO Bausets für kreatives Bauen
-- Das Modell enthält das Flatiron Building, das Chrysler Building, das Empire State Building und das One World Trade Center
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B012NOGGHQ/?tag=tolees0ca-21)
