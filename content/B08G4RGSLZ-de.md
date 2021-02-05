@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '15.55 % rabat auf LEGO 42124 Technic Geländewagen Buggy CO'
-date: 2021-02-04 04:44:28
+title: '15.56 % rabat auf LEGO 42124 Technic Geländewagen Buggy CO'
+date: 2021-02-05 05:11:04
 image: 'https://m.media-amazon.com/images/I/51yaxI8Fk4L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,31 +9,31 @@ author: ring
 slug: 'B08G4RGSLZ-de LEGO 42124 Technic Geländewagen Buggy CONTROL+ App-...'
 sku: 'B08G4RGSLZ-de'
 tags: [  ]
-actualPrice: 109.78 EUR
+actualPrice: 109.77 EUR
 currency: EUR
-price: 109.78
+price: 109.77
 comparePrice: 129.99 EUR
 prodname: 'LEGO 42124 Technic Geländewagen Buggy CONTROL+ App-gesteuertes Retro Rennwagenspielzeug für Kinder'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4RGSLZ/?tag=tolees0ca-21'
-descuento: '15.55'
-average: '112.215333333334'
+descuento: '15.56'
+average: '112.162173913044'
 ---
 
-Es gibt ein [LEGO 42124 Technic Geländewagen Buggy CONTROL+ App-gesteuertes Retro Rennwagenspielzeug für Kinder](https://www.amazon.de/dp/B08G4RGSLZ/?tag=tolees0ca-21) mit aktuellem Preis 109.78 EUR (original: 129.99 EUR) 15.55 % Rabatt hier:
+Es gibt ein [LEGO 42124 Technic Geländewagen Buggy CONTROL+ App-gesteuertes Retro Rennwagenspielzeug für Kinder](https://www.amazon.de/dp/B08G4RGSLZ/?tag=tolees0ca-21) mit aktuellem Preis 109.77 EUR (original: 129.99 EUR) 15.56 % Rabatt hier:
 
 [![LEGO 42124 Technic Geländewagen Buggy CO](https://m.media-amazon.com/images/I/51yaxI8Fk4L._SL200_.jpg)](https://www.amazon.de/dp/B08G4RGSLZ/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Der LEGO Technic Modellbausatz „Geländewagen“ (42124) bietet stundenlangen Spielspaß. Der ferngesteuerte Geländewagen fasziniert mit denselben coolen Funktionen, die schon die Original-Buggys aus den 1980ern zu Klassikern machten
+- Sieh dir die Retro-Lackierung an. Auch die Aufkleber im Stil der 1980er-Jahre dürfen nicht fehlen
+- Der ferngesteuerte Geländewagen ist bis zum Dach 13 cm beziehungsweise mit Antenne 19 cm hoch, 28 cm lang und 16 cm breit
 - Lade dir die kostenlose CONTROL+ App herunter, um diesem ferngesteuerten Buggy eine völlig Dimension zu verleihen. Benutze die App, um das Auto zu lenken, Stunts vorzuführen, Herausforderungen freizuschalten und Soundeffekte zu erzeugen
 - Die Vorder- und Hinterradfederung, die wuchtigen Reifen und die abgeschrägte Frontpartie ermöglichen spektakuläre Stunts
-- Der ferngesteuerte Geländewagen ist bis zum Dach 13 cm beziehungsweise mit Antenne 19 cm hoch, 28 cm lang und 16 cm breit
+- Der LEGO Technic Modellbausatz „Geländewagen“ (42124) bietet stundenlangen Spielspaß. Der ferngesteuerte Geländewagen fasziniert mit denselben coolen Funktionen, die schon die Original-Buggys aus den 1980ern zu Klassikern machten
 - Um alle Funktionen dieses Spielzeugautos mit App-Steuerung nutzen zu können, werden 6 nicht im Lieferumfang enthaltene AA-Batterien (LR6) benötigt
 - Dieser Geländewagen ist ein tolles Geschenk für Kinder ab 10 Jahren. Erwachsene werden sich an die klassischen ferngesteuerten Spielzeugautos aus den 1980ern erinnert fühlen. Ein Riesenspaß für alle Generationen
-- Sieh dir die Retro-Lackierung an. Auch die Aufkleber im Stil der 1980er-Jahre dürfen nicht fehlen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4RGSLZ/?tag=tolees0ca-21)

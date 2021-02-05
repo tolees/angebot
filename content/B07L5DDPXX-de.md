@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Modern Mobile Mouse Schwarz mit 33.59 % Rabatt'
-date: 2021-02-04 04:41:10
+date: 2021-02-05 05:21:23
 image: 'https://m.media-amazon.com/images/I/31qvCFHbM5L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.de/dp/B07L5DDPXX/?tag=tolees0ca-21'
 descuento: '33.59'
-average: '24.9834090909091'
+average: '24.9752631578947'
 ---
 
 Sie können [Microsoft Modern Mobile Mouse Schwarz](https://www.amazon.de/dp/B07L5DDPXX/?tag=tolees0ca-21) mit Preis 23.9 EUR (original: 35.99 EUR) 33.59 % Rabatt hier:
