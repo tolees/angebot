@@ -29,8 +29,8 @@ Sie können [Pentel Ölpastellkreide Set à 50 Stück](https://www.amazon.de/dp/
 ℹ️:
 
 - Durch unbegrenzte Mischmöglichkeiten lassen sich zarte Schattierungen und unterschiedlichste Tönungen Kreieren
+- Mit Lösungsmittel vermalbar, säurefrei
 - Intensiv deckende Farben für Papier und Karton, aber auch Holz, Leinen oder Ton
 - 50 Handliche Kreiden, die leicht und geschmeidig aufzutragen sind
-- Mit Lösungsmittel vermalbar, säurefrei
 
 [🛒 Hier!!](https://www.amazon.de/dp/B000WKKN5A/?tag=tolees0ca-21)

@@ -28,8 +28,8 @@ Sie können [s.Oliver Damen Regular Fit: Straight leg-Denim dark blue sretched 4
 
 ℹ️:
 
-- We Care
 - Dieses Produkt unterstützt nachhaltigen Baumwollanbau: ökonomisch, ökologisch, sozial. Die Beschaffung der nachhaltigen Baumwolle folgt dem Prinzip der Massenbilanz
 - Nachhaltige Faser
+- We Care
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07YF5T7VH/?tag=tolees0ca-21)
