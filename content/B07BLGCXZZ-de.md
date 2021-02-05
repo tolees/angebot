@@ -29,9 +29,9 @@ Sie können [LEGO Star Wars Y-Wing Starfighter 75181 Star Wars Spielzeug](https:
 ℹ️:
 
 - Verfügt über authentische Details, ein aufklappbares Minifiguren-Cockpit, radbetätigte drehbare Ionenkanonen auf dem Dach, einfahrbare Landekufen und Platz für den im Set enthaltenen Astromech-Droiden R2-BHD
-- Dieses LEGO Star Wars Set ist ab dem Alter von 14 Jahren geeignet
 - Präsentiere das Modell auf dem kippbaren Ständer mit Infoschild
 - Der perfekte Mittelpunkt jeder LEGO Star Wars Sammlung
+- Dieses LEGO Star Wars Set ist ab dem Alter von 14 Jahren geeignet
 - Enthält den Gold Leader als Minifigur und den Droiden R2-BHD als zusätzliche Figur
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07BLGCXZZ/?tag=tolees0ca-21)

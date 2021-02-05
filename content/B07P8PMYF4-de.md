@@ -28,10 +28,10 @@ Es gibt ein [PLAYMOBIL Dollhouse 70206 Familienküche  Ab 4 Jahren](https://www.
 
 ℹ️:
 
-- Lieferumfang: 1x PLAYMOBIL Dollhouse Familienküche, 129-teiliges Spielfiguren-Set mit Anleitung: 1 Küchenzeile, 2 Figuren, 126 Zubehörteile, Material: Kunststoff, LxBxH: 38 x 19 x 29 cm, 70206
 - Spielspaß für Mädchen: PLAYMOBIL Familienküche mit Einrichtung, 2 Figuren und praktischem Back- und Kochzubehör für detailgetreues Nachspielen
 - Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 - Küchenzeile mit Backofen, Spülmaschine, Kühlschrank und Essbereich sowie cleveren Utensilien zum Kochen, Kombinierbar: Mein Großes Puppenhaus (70205)
+- Lieferumfang: 1x PLAYMOBIL Dollhouse Familienküche, 129-teiliges Spielfiguren-Set mit Anleitung: 1 Küchenzeile, 2 Figuren, 126 Zubehörteile, Material: Kunststoff, LxBxH: 38 x 19 x 29 cm, 70206
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07P8PMYF4/?tag=tolees0ca-21)
