@@ -28,10 +28,10 @@ Es gibt ein [Intenso Premium Edition Portable 512GB Externe SSD Festplatte  USB 
 
 ℹ️:
 
-- Transferraten: Lesen bis zu 320MB/s, Schreiben bis zu 100MB/s
 - Lieferumfang: externe SSD, USB 3.0 Kabel
 - Geräuschloser Betrieb, geringer Stromverbrauch, Schock-resistent
-- Stromversorgung über USB 3.0 Anschluss (abwärtskompatibel)
 - LED Anzeige: Ja
+- Stromversorgung über USB 3.0 Anschluss (abwärtskompatibel)
+- Transferraten: Lesen bis zu 320MB/s, Schreiben bis zu 100MB/s
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0742KXY2R/?tag=tolees0ca-21)
