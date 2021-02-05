@@ -28,10 +28,10 @@ Sie können [DEERC D20 Mini Drohne für Kinder mit Kamera HD 720P Faltbar RC Qua
 
 ℹ️:
 
-- Flugbahn und 360° Flip: Wenn Sie einen Flugkurs auf Ihrem Smartphone zeichnen,wird die Drohne dieser Route folgen.Das macht im Flug viel Spaß.Die Drohne kann auch über der Fernbedienung um 360 Grad gedreht werden, und Sie können damit Stunts ausführen.
-- Bestes Spielzeug für Kinder: D20 ist einfach zu bedienen. Tippen Sie einfach auf die One Key Start/Landing-Taste, um die Fliege zu starten. Mit Höhenhaltung kann die Drohne auf einer bestimmten Höhe halten, wodurch die Steuerung und Aufnahme von qualitativ hochwertigem Filmmaterial so einfach ist.
 - Leistungsstark und sicher: Funktionen mit Alarm bei schwacher Batterie, Not-Aus und 4 Propellerschutz für einen sicheren Flug. 2 wiederaufladbare und leistungsstarke Batterien bieten eine Flugzeit bis zu 20 Min., sicherere Lademethode und längere Flugzeit.
 - HD Kamera and FPV Übertragung：Ausgestattet mit 720P HD WiFi Kamera für bessere Luftbilder und Videos; Mit der FPV-Bildübertragung können Sie den Himmel und die Welt von einem Live-Video-Feed über die Smartphone/App sehen.
+- Flugbahn und 360° Flip: Wenn Sie einen Flugkurs auf Ihrem Smartphone zeichnen,wird die Drohne dieser Route folgen.Das macht im Flug viel Spaß.Die Drohne kann auch über der Fernbedienung um 360 Grad gedreht werden, und Sie können damit Stunts ausführen.
 - Sprachsteuerung und Gesten-Selfie: Ermöglichen Sie die Steuerung der Drohne mit einfachen Sprach wie „Takeoff“, „Landing“. Stellen Sie ein V-Zeichen oder eine Handfläche vor die Kamera. Die Drohne kann automatisch Fotos oder Videos aufnehmen, was sich gut für Selfies eignet.
+- Bestes Spielzeug für Kinder: D20 ist einfach zu bedienen. Tippen Sie einfach auf die One Key Start/Landing-Taste, um die Fliege zu starten. Mit Höhenhaltung kann die Drohne auf einer bestimmten Höhe halten, wodurch die Steuerung und Aufnahme von qualitativ hochwertigem Filmmaterial so einfach ist.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B086W3ZKC9/?tag=tolees0ca-21)

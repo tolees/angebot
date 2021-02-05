@@ -28,9 +28,9 @@ Es gibt ein [Playmobil City Life 9270 Fröhliches Kinderzimmer  Ab 4 Jahren](htt
 
 ℹ️:
 
-- Spielspaß für kleine Alltags-Helden: PLAYMOBIL Fröhliches Kinderzimmer, Spielset mit 1 Mädchen und vielen Zubehörteilen für detailgetreues Nachspielen
 - Hochbett im Prinzessin-Stil, Fächer zum Verstauen von Einzelteilen, Schreibtisch mit Laptop, uvm., Passend zu City Life Modernes Wohnhaus (9266)
 - Lieferumfang: 1x PLAYMOBIL City Life Fröhliches Kinderzimmer, 40-teiliges Spielfiguren-Set mit Anleitung: 1 Hochbett, 1 Figur, 38 Zubehörteile, Material: Kunststoff, LxBxH: 28.4x18.7x9.2 cm, Art.-Nr. 9270
+- Spielspaß für kleine Alltags-Helden: PLAYMOBIL Fröhliches Kinderzimmer, Spielset mit 1 Mädchen und vielen Zubehörteilen für detailgetreues Nachspielen
 - Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 

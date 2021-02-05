@@ -28,8 +28,8 @@ Es gibt ein [BOSS Herren Trunk 3P CO/EL Dreier-Pack Boxershorts aus Stretch-Baum
 
 ℹ️:
 
-- Baumwollmischgewebe.
 - Elastischer Bund mit Kontrastlogo
+- Baumwollmischgewebe.
 - Einfarbig.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01JZD7Q90/?tag=tolees0ca-21)

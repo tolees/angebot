@@ -28,10 +28,10 @@ Es gibt ein [Playmobil City Life 9269 Große Familienküche  Ab 4 Jahren](https:
 
 ℹ️:
 
-- Playset for children aged 4+, ideal for childrens hands due to age-appropriate size and easy to hold thanks to the rounded edges
-- Can be used every day: Instructions for setting up with parents, high quality and robust design, clean the parts (without stickers) under running water without chemical agents
+- Contents: 1 x PLAYMOBIL City Life Kitchen, 102-piece playset with instructions: 1 kitchen, 3 figures, 98 accessories, Material: plastic, L x W x H: 28.4 x 18.7 x 12.2 cm, 9269
 - Explore the everyday: PLAYMOBIL kitchen playset with figures and many accessories for accurate role-play
 - Three figures, Kitchen fully equipped, compartments for stowing individual parts, etc., can be combined with the PLAYMOBIL City Life Modern House (9266 sold separately)
-- Contents: 1 x PLAYMOBIL City Life Kitchen, 102-piece playset with instructions: 1 kitchen, 3 figures, 98 accessories, Material: plastic, L x W x H: 28.4 x 18.7 x 12.2 cm, 9269
+- Can be used every day: Instructions for setting up with parents, high quality and robust design, clean the parts (without stickers) under running water without chemical agents
+- Playset for children aged 4+, ideal for childrens hands due to age-appropriate size and easy to hold thanks to the rounded edges
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06WVM68TB/?tag=tolees0ca-21)
