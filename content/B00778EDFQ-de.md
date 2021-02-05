@@ -28,10 +28,10 @@ Es gibt ein [ipuro ESSENTIALS Raumduft orange sky  1er Pack  1 x 200 ml ](https:
 
 ℹ️:
 
-- Herznote: Orange, Rose
-- Basisnote: Schwarze Johannisbeere
-- Kopfnote: Orange, Grapefruit, Pfirsich
 - Essentials by ipuro
+- Kopfnote: Orange, Grapefruit, Pfirsich
+- Basisnote: Schwarze Johannisbeere
+- Herznote: Orange, Rose
 - Frisch und fruchtig, direkt aus dem Herzen saftiger Zitrusfrüchte – hebt die Stimmung und zaubert Energie in den Raum.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00778EDFQ/?tag=tolees0ca-21)

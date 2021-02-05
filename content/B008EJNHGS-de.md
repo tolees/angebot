@@ -28,8 +28,8 @@ Es gibt ein [ipuro ESSENTIALS Raumduft cotton fields  1er Pack  1 x 200 ml ](htt
 
 ℹ️:
 
-- EINZIGARTIGES DUFTERLEBNIS: Eine Kopfnote aus Sternanis, Vanilleblume und Geranie - Eine Herznote aus Rose, Veilchen, Zedernholz und Vetiver - Eine Basisnote aus Tonkabohne, Vanille und weißem Moschus
 - HÖCHSTE QUALITÄT: Deine ipuro Raumdüfte werden in Europa, unter Einsatz der erlesensten Rohstoffe produziert und präsentieren sich in hochqualitativen Materialien.
+- EINZIGARTIGES DUFTERLEBNIS: Eine Kopfnote aus Sternanis, Vanilleblume und Geranie - Eine Herznote aus Rose, Veilchen, Zedernholz und Vetiver - Eine Basisnote aus Tonkabohne, Vanille und weißem Moschus
 - NATÜRLICH: Alle Düfte sind inspiriert von der Natur und wandeln Persönlichkeit in ein individuelles Raumgefühl um. Dafür verwenden wir ausschließlich natürliche und naturidentische Inhaltsstoffe.
 - DEKORATIVES DESIGN: Die Raumdüfte von ipuro glänzen nicht nur durch das besondere Dufterlebnis, sondern begeistern auch als dekoratives Element in deinen Räumen.
 - SANFT UND DEZENT: Sanft, dezent und leicht pudrig mit einem Hauch von Vanille. Dieser Duft zeichnet sich durch Zurückhaltung aus und sorgt für ein angenehmes Raumklima.

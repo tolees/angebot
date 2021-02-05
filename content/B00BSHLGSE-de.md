@@ -29,11 +29,11 @@ Es gibt ein [ipuro ESSENTIALS Geschenkset Raumduft flower bowl  1er Pack  2 x 50
 ℹ️:
 
 - kopfnote: mandarine, bergamotte, orange, kardamom, grüne noten
-- die wunderbare begegnung von blumiger note und belebender frische bringt luft und leben in ihr zuhause.
 - Anzahl der artikel: 1
-- Einheitenanzahltyp: milliliter
-- herznote: maiglöckchen, jasmin, veilchen, zedernholz
-- basisnote: amber, moschus
 - essentials by ipuro
+- basisnote: amber, moschus
+- die wunderbare begegnung von blumiger note und belebender frische bringt luft und leben in ihr zuhause.
+- herznote: maiglöckchen, jasmin, veilchen, zedernholz
+- Einheitenanzahltyp: milliliter
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00BSHLGSE/?tag=tolees0ca-21)
