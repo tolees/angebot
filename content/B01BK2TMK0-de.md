@@ -28,10 +28,10 @@ Es gibt ein [LEGO 10906 DUPLO Town Baumhaus im Dschungel Bauset  Lernspielzeug f
 
 ℹ️:
 
-- 73 Teile - Tier-Spielzeug für Mädchen und Jungen ab 2 Jahren
-- Das Set von LEGO Duplo Town Baumhaus im Dschungel (10906) regt zum spielerischen Lernen an, fördert die Feinmotorik und sorgt für jede Menge kreativen Spielspaß für Kinder
 - Das Baumhaus ist 27 cm hoch, 26 cm breit und 12 cm tief. Das andere Haus ist 19 cm hoch, 13 cm breit und 10 cm tief
-- Das Lernspielzeug für Kleinkinder umfasst 3 LEGO DUPLO Figuren sowie 6 Spielzeug-Tierfiguren: Elefant und Babyelefant, Tiger und Babytiger, Affe und Tukan
+- Das Set von LEGO Duplo Town Baumhaus im Dschungel (10906) regt zum spielerischen Lernen an, fördert die Feinmotorik und sorgt für jede Menge kreativen Spielspaß für Kinder
 - Das Spielset Baumhaus im Dschungel, das ein Dschungel-Baumhaus, den Hut des Tierpflegers und eine schwingende Brücke umfasst, bietet Ihrem Kleinkind endlosen kreativen Spielspaß bei der Entdeckung niedlicher Tiere im Dschungel
+- Das Lernspielzeug für Kleinkinder umfasst 3 LEGO DUPLO Figuren sowie 6 Spielzeug-Tierfiguren: Elefant und Babyelefant, Tiger und Babytiger, Affe und Tukan
+- 73 Teile - Tier-Spielzeug für Mädchen und Jungen ab 2 Jahren
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01BK2TMK0/?tag=tolees0ca-21)
