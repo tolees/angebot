@@ -28,10 +28,10 @@ Es gibt ein [Sylvanian Families 4172 Walnuss Eichhörnchen Familie - Figuren fü
 
 ℹ️:
 
-- Walnut squirrel family live in beech wood hall
-- Suitable for ages three years to 10 years
 - Four piece set: Father, mother, brother and sister
-- Dressed in removable fabric clothing
+- Walnut squirrel family live in beech wood hall
 - Walnut squirrel posable collectable figures
+- Suitable for ages three years to 10 years
+- Dressed in removable fabric clothing
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00HRRAFWM/?tag=tolees0ca-21)

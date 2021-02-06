@@ -28,11 +28,11 @@ Es gibt ein [LEGO 60285 City Sportwagen Spielzeug mit abnehmbarem Dach  Rennwage
 
 ℹ️:
 
+- Der fertige LEGO City Sportwagen ist 4 cm hoch, 12 cm lang und 5 cm breit
 - Grandioses Design mit markanter Karosserie, verstellbarem Heckspoiler, Breitreifen auf schwarzen Sportfelgen und detailreichem Cockpit hinter getönten Scheiben mit Sitz für den als Minifigur enthaltenen Fahre
 - Neben einer einfachen gedruckten Bauanleitung gibt es zu dem Set auch Instructions PLUS. Die interaktive Bauanleitung für aufstrebende Baumeister ist der kostenlosen LEGO Building Instructions App für Smartphones und Tablet verfügbar
 - Das LEGO City Bauset „Sportwagen“ (60285) ist ein tolles Weihnachts-, Geburtstags- oder Überraschungsgeschenk für Jungen und Mädchen ab 5 Jahren
 - Inhalt des Sets: Alles, was Kinder zum Bauen des spektakulären LEGO City Modells „Sportwagen“ aus der Reihe „Starke Fahrzeuge“ benötigen. Hinter das Lenkrad passt eine Fahrer-Minifigur. Tolle Belohnung für Fans cooler Flitzer
-- Der fertige LEGO City Sportwagen ist 4 cm hoch, 12 cm lang und 5 cm breit
 - Mit dem spektakulären Sportwagen aus diesem Bauset lernen Jungen und Mädchen ab 5 Jahren die faszinierende LEGO City Welt kennen. Der Flitzer inspiriert zu fantasievollen Rollenspielen
 - Als Antrieb reicht die lebhafte Fantasie der Kinder. Nach dem Öffnen der Beutel mit den Steinen kann der Spielspaß sofort beginnen
 
