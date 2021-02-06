@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 75249 Star Wars Widerstands Y-Wing  mit 15.72 % Rabatt'
-date: 2021-02-04 04:23:26
+title: 'LEGO 75249 Star Wars Widerstands Y-Wing  mit 16.56 % Rabatt'
+date: 2021-02-06 17:26:42
 image: 'https://m.media-amazon.com/images/I/51Q88jSfO0L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: ring
 slug: 'B07ND9TJF7-de LEGO 75249 Star Wars Widerstands Y-Wing Starfighter Bauset...'
 sku: 'B07ND9TJF7-de'
 tags: [  ]
-actualPrice: 58.99 EUR
+actualPrice: 58.4 EUR
 currency: EUR
-price: 58.99
+price: 58.4
 comparePrice: 69.99 EUR
 prodname: 'LEGO 75249 Star Wars Widerstands Y-Wing Starfighter Bauset  Der Aufstieg Skywalkers Kollektion'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07ND9TJF7/?tag=tolees0ca-21'
-descuento: '15.72'
-average: '56.2434375000001'
+descuento: '16.56'
+average: '56.2766153846155'
 ---
 
-Sie können [LEGO 75249 Star Wars Widerstands Y-Wing Starfighter Bauset  Der Aufstieg Skywalkers Kollektion](https://www.amazon.de/dp/B07ND9TJF7/?tag=tolees0ca-21) mit Preis 58.99 EUR (original: 69.99 EUR) 15.72 % Rabatt hier:
+Sie können [LEGO 75249 Star Wars Widerstands Y-Wing Starfighter Bauset  Der Aufstieg Skywalkers Kollektion](https://www.amazon.de/dp/B07ND9TJF7/?tag=tolees0ca-21) mit Preis 58.4 EUR (original: 69.99 EUR) 16.56 % Rabatt hier:
 
 [![LEGO 75249 Star Wars Widerstands Y-Wing ](https://m.media-amazon.com/images/I/51Q88jSfO0L._SL200_.jpg)](https://www.amazon.de/dp/B07ND9TJF7/?tag=tolees0ca-21)
 
 ℹ️:
 
 - Der 578-teilige Spielzeug-Sternenjäger von LEGO Star Wars für Jungen und Mädchen ab 8 Jahren ist 7 cm hoch, 43 cm lang und 19 cm breit
-- Mit diesem anregenden Modell können fantastische Momente aus dem Blockbuster Star Wars: Der Aufstieg Skywalkers nachgespielt werden
-- Dieser LEGO YWing-Sternenjäger – kurz Y-Flügler – ist mit tollen Funktionen ausgestattet, darunter ein aufklappbares Cockpit, Shooter mit Federmechanismus sowie Bombenelemente zum Abwerfen
 - Das Modell Widerstands Y-Wing Starfighter kann Raketen abfeuern und Bomben abwerfen. Mit neuer Farbgestaltung (ab Oktober 2019), wie sie im Film Star Wars: Der Aufstieg Skywalkers zu sehen ist
+- Dieser LEGO YWing-Sternenjäger – kurz Y-Flügler – ist mit tollen Funktionen ausgestattet, darunter ein aufklappbares Cockpit, Shooter mit Federmechanismus sowie Bombenelemente zum Abwerfen
 - Dieses Spielset enthält 5 Figuren von LEGO Star Wars: Poe Dameron, Zorii Bliss und einen Sturmtruppler der Ersten Ordnung als Minifiguren sowie LEGO Figuren von D-O und einem Astromech-Droiden
+- Mit diesem anregenden Modell können fantastische Momente aus dem Blockbuster Star Wars: Der Aufstieg Skywalkers nachgespielt werden
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07ND9TJF7/?tag=tolees0ca-21)
