@@ -29,7 +29,7 @@ Es gibt ein [Replay Herren M4001 .000.39B 357 Jeanshemd  Blau  Denim 9   X-Large
 ℹ️:
 
 - Saison: Frühling-Sommer
-- Artikelnummer: M4001 .000.39B 357-009
 - Originale Farbbezeichnung: Denim
+- Artikelnummer: M4001 .000.39B 357-009
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FNFXP8S/?tag=tolees0ca-21)

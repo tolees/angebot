@@ -28,10 +28,10 @@ Es gibt ein [Asus ROG Strix Evolve Gaming Maus  Rechts-/Linkshänder  anpassbare
 
 ℹ️:
 
-- Vier ergonomische Mausformen - Rechtshänder, Linkshänder und zwei beidhändige Stile - stehen mit einfach zu wechselnden Gehäuseoberseiten zur Auswahl
-- Hochwertige Omron-Taster mit einer Haltbarkeit von 50 Millionen Klicks
-- Asus Aura Sync RGB-Beleuchtung
 - Optischer Sensor mit 7200 DPI, 3,81 Meter pro Sekunde (150 IPS), 30g Beschleunigung und 1000Hz USB Abtastrate für schnelles, pixelgenaues Maus-Tracking
+- Asus Aura Sync RGB-Beleuchtung
 - Lieferumfang: Asus ROG Strix Evolve, 2x ROG Logo Sticker, 2x Top Cover Sets
+- Hochwertige Omron-Taster mit einer Haltbarkeit von 50 Millionen Klicks
+- Vier ergonomische Mausformen - Rechtshänder, Linkshänder und zwei beidhändige Stile - stehen mit einfach zu wechselnden Gehäuseoberseiten zur Auswahl
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B073SX44NX/?tag=tolees0ca-21)
