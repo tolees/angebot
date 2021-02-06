@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '49.95 % rabat auf Asus ROG Strix Evolve Gaming Maus  Recht'
-date: 2021-02-04 14:07:38
+date: 2021-02-06 02:42:43
 image: 'https://m.media-amazon.com/images/I/416OmDfj25L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Es gibt ein [Asus ROG Strix Evolve Gaming Maus  Rechts-/Linkshänder  anpassbare
 
 ℹ️:
 
-- Optischer Sensor mit 7200 DPI, 3,81 Meter pro Sekunde (150 IPS), 30g Beschleunigung und 1000Hz USB Abtastrate für schnelles, pixelgenaues Maus-Tracking
-- Lieferumfang: Asus ROG Strix Evolve, 2x ROG Logo Sticker, 2x Top Cover Sets
-- Asus Aura Sync RGB-Beleuchtung
 - Vier ergonomische Mausformen - Rechtshänder, Linkshänder und zwei beidhändige Stile - stehen mit einfach zu wechselnden Gehäuseoberseiten zur Auswahl
 - Hochwertige Omron-Taster mit einer Haltbarkeit von 50 Millionen Klicks
+- Asus Aura Sync RGB-Beleuchtung
+- Optischer Sensor mit 7200 DPI, 3,81 Meter pro Sekunde (150 IPS), 30g Beschleunigung und 1000Hz USB Abtastrate für schnelles, pixelgenaues Maus-Tracking
+- Lieferumfang: Asus ROG Strix Evolve, 2x ROG Logo Sticker, 2x Top Cover Sets
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B073SX44NX/?tag=tolees0ca-21)
