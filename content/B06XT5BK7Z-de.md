@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko JJL150514 Mystery Box mit 20.00 % Rabatt'
-date: 2021-02-05 22:44:24
+date: 2021-02-06 22:51:30
 image: 'https://m.media-amazon.com/images/I/51+0-lVA5pL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Funko'
 buyurl: 'https://www.amazon.de/dp/B06XT5BK7Z/?tag=tolees0ca-21'
 descuento: '20.00'
-average: '37.7255729166666'
+average: '37.7489175257731'
 ---
 
 Sie können [Funko JJL150514 Mystery Box](https://www.amazon.de/dp/B06XT5BK7Z/?tag=tolees0ca-21) mit Preis 39.99 EUR (original: 49.99 EUR) 20.00 % Rabatt hier:
@@ -29,7 +29,7 @@ Sie können [Funko JJL150514 Mystery Box](https://www.amazon.de/dp/B06XT5BK7Z/?t
 ℹ️:
 
 - Farbe: Mehrfarbig
-- Ursprungsland: Deutschland
 - Toy set figure bundle action, collectible gift figurine pack, funko pop vinyl bobble-head figure, set movie tv limited set marvel dc, star wars disney video game chase
+- Ursprungsland: Deutschland
 
 [🛒 Hier!!](https://www.amazon.de/dp/B06XT5BK7Z/?tag=tolees0ca-21)
