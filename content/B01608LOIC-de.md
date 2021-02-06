@@ -28,9 +28,9 @@ Es gibt ein [PLAYMOBIL City Action 6876 Motorradstreife mit LED-Blinklicht  Ab 5
 
 ℹ️:
 
-- Spielfiguren-Set für Kinder ab 5 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 - Spielspaß für kleine Polizeifans: PLAYMOBIL Motorradstreife mit LED-Blinklicht und passenden Zubehörteilen für detailgetreues Nachspielen
+- Spielfiguren-Set für Kinder ab 5 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Polizist mit Motorradhelm und Pistole, Motorrad mit blinkenden Lichtern an der Seitenverkleidung sowie am Heck, Ausklappbarer Ständer zum Parken
 - Lieferumfang: 1x PLAYMOBIL City Action Motorradstreife mit LED-Blinklicht, 9-teiliges Spielfiguren-Set mit Anleitung: 1 Motorrad, 1 Figur, 7 Zubehörteile (wird inklusive Batterien geliefert), Material: Kunststoff, LxTxH: 11x4,5x7,5 cm, 6876
 
