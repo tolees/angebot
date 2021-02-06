@@ -29,8 +29,8 @@ Es gibt ein [Puma / Puma Puma Herren Unisex Sport Socken in gewohnter Puma  43/4
 ℹ️:
 
 - sehr schneller und versicherter Versand bei Amazon Prime Angebot
-- Den Bund ziert das Puma Cat-Logo
 - Farbmix 1 = schwarz, Farbmix 2 = weiß, Farbmix 3 = navy
+- Den Bund ziert das Puma Cat-Logo
 - 9 Paar Puma Sportsocken Vorteilspack
 - Socken für alle Aktivitäten sehr gut geeignet ( Sport und Freizeit )
 
