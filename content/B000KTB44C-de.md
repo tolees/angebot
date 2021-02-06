@@ -29,9 +29,9 @@ Es gibt ein [Brennenstuhl Qualitäts- Kunststoff-Verlängerungskabel mit Schutzk
 ℹ️:
 
 - Kunststoffkabel mit 5m Kabellänge (H05VV-F 3G1,5)
-- Stromkabel mit Schutzkontakt-Stecker und Schutzkontakt-Kupplung aus Kunststoff
-- Schutzkontakt-Kupplung mit erhöhtem Berührungsschutz
-- Lieferumfang: 1x Verlängerungskabel 5m mit Schutzkontakt-Stecker und -Kupplung in der Farbe schwarz - in bester Qualität von brennenstuhl
 - Indoor-Verlängerungskabel eignet sich ideal für den praktischen und platzsparenden Einsatz im Innenbereich
+- Stromkabel mit Schutzkontakt-Stecker und Schutzkontakt-Kupplung aus Kunststoff
+- Lieferumfang: 1x Verlängerungskabel 5m mit Schutzkontakt-Stecker und -Kupplung in der Farbe schwarz - in bester Qualität von brennenstuhl
+- Schutzkontakt-Kupplung mit erhöhtem Berührungsschutz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000KTB44C/?tag=tolees0ca-21)

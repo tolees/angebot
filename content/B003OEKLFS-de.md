@@ -29,8 +29,8 @@ Sie können [Faber-Castell 166004 - 4er Set Tintenschreiber ECCO-PIGMENT  wasser
 ℹ️:
 
 - lange metallgefaßte Spitze, ideal zum Zeichnen
-- Qualität Made in Germany
 - wasserfest, dokumentenecht und lichtbeständig, mit Metallclip, ergonomische Griffzone
 - für Schablonen und Lineale geeignet. sortiert in 0,1/0,3/0,5/0,7 mm
+- Qualität Made in Germany
 
 [🛒 Hier!!](https://www.amazon.de/dp/B003OEKLFS/?tag=tolees0ca-21)
