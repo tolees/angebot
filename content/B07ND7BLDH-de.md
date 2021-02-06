@@ -28,9 +28,9 @@ Sie können [New Balance Herren 574v2-Core Sneaker  Blau  Navy   42.5 EU](https:
 
 ℹ️:
 
-- Herren
 - grau
 - fabric_type: Suede/Mesh
+- Herren
 - XL
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07ND7BLDH/?tag=tolees0ca-21)
