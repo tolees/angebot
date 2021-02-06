@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Original USB Ladekabel Daten Kab mit 25.47 % Rabatt'
-date: 2021-02-02 10:16:51
+date: 2021-02-06 11:11:44
 image: 'https://m.media-amazon.com/images/I/31cK3FBEDhL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Sie können [Samsung Original USB Ladekabel Daten Kabel Micro USB Kabel 150 cm E
 
 ℹ️:
 
-- Verpackungsabmessungen (L x B x H): 1.4 zm x 3.8 zm x 10.7 zm
-- Farbe: Weiß
 - Herkunftsland:- China
+- Verpackungsabmessungen (L x B x H): 1.4 zm x 3.8 zm x 10.7 zm
 - Anzahl der Packung: 1
+- Farbe: Weiß
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07BQT9SMH/?tag=tolees0ca-21)

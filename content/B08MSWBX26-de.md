@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '17.50 % rabat auf Sony Interactive Entertainment PS VR Meg'
-date: 2021-02-05 05:22:15
+date: 2021-02-06 11:19:40
 image: 'https://m.media-amazon.com/images/I/41uzyn+hjML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony Interactive Entertainment'
 buyurl: 'https://www.amazon.de/dp/B08MSWBX26/?tag=tolees0ca-21'
 descuento: '17.50'
-average: '327.094583333332'
+average: '327.153673469386'
 ---
 
 Es gibt ein [Sony Interactive Entertainment PS VR Mega Pack 3 inkl. PS VR-Headset / PS Camera / PS Camera-Adapter / 5 Spiele  Gutscheincode ](https://www.amazon.de/dp/B08MSWBX26/?tag=tolees0ca-21) mit aktuellem Preis 329.99 EUR (original: 399.99 EUR) 17.50 % Rabatt hier:
