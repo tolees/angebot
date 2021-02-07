@@ -28,10 +28,10 @@ Es gibt ein [Beexcellent - Controller für Switch  Wireless Pro Controller mit E
 
 ℹ️:
 
-- Bluetooth verbindung: der beexcellent controller ist voll kompatibel mit der nintendo switch / lite, reaktionssensitiv wie der original pro controller. sie können Ihren switch in nur 2 schritten anschließen. mann kann mit 4 controllern gleichzeitig spielen, was ideal für familienunterhaltung und partys ist.
 - Komfortables handgefühl: ergonomie design, bequemeres spielerlebnis als joycon. alle tasten sind bestens erreichbar und sanft. die textur auf der rückseite des controllers schmiegt (passt) sich eng an ihre finger an, um die stabilität des betriebs zu verbessern.
-- 6-achsen somatosensory: eingebauter gyroskop-chip, analoge sticks, präzise bewegungssteuerung ohne verzögerung oder drift, perfekt geeignet für alle switch-spiele wie csg the legend of zelda, mario kart 8 deluxe, animal crossing etc.
+- Bluetooth verbindung: der beexcellent controller ist voll kompatibel mit der nintendo switch / lite, reaktionssensitiv wie der original pro controller. sie können Ihren switch in nur 2 schritten anschließen. mann kann mit 4 controllern gleichzeitig spielen, was ideal für familienunterhaltung und partys ist.
 - Lange akkulaufzeit: der eingebaute lithium-akku mit 600 mah, unterstützt 12 stunden ununterbrochenes spielen und stabile verbindung. das mitgelieferte usb-ladekabel typ c kann der switch controller in 2 stunden vollständig aufgeladen werden.
+- 6-achsen somatosensory: eingebauter gyroskop-chip, analoge sticks, präzise bewegungssteuerung ohne verzögerung oder drift, perfekt geeignet für alle switch-spiele wie csg the legend of zelda, mario kart 8 deluxe, animal crossing etc.
 - Doppelter schock funktion: zwei eingebaute vibrationsmotoren, es erzeugt vibrationseffekte im spiel, bei kollisionen, schockwellen und kämpfen. turbo-funktion unterstützt kontinuierliche angriffe, achten sie darauf, in arcade- und actionspielen mühelos zu sein.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08HCWR4YH/?tag=tolees0ca-21)

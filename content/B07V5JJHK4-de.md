@@ -29,8 +29,8 @@ Es gibt ein [Nintendo Switch Lite  Standard  grau](https://www.amazon.de/dp/B07V
 ℹ️:
 
 - Entwickelt für tragbare Spiele !
-- Verbinden Sie bis zu acht Konsolen im Mehrspielermodus !
 - Tragen Sie ganz einfach alle Ihre Lieblingsspiele !
+- Verbinden Sie bis zu acht Konsolen im Mehrspielermodus !
 - 1
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07V5JJHK4/?tag=tolees0ca-21)
