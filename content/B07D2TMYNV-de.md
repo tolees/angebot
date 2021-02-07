@@ -29,9 +29,9 @@ Es gibt ein [Winning Moves 11460 Trivial Pursuit Harry Potter](https://www.amazo
 ℹ️:
 
 - Das Quizspiel eignet sich für 2 oder mehr Spieler ab 12 Jahren.
-- Wissen und quizzen – wer kennt sich am besten in Hogwarts und mit den Helden der beliebten Harry Potter Filmreihe aus?
-- Das Spiel benötigt kein Spielbrett und kann in der praktischen Spielbox transportiert werden - das perfekte Spiel für unterwegs oder auf Reisen
 - TRIVIAL PURSUIT Die Welt von Harry Potter enthält 600 Fragen und spannende Antworten rund um Harry, Ron, Hermine & Co.
 - TRIVIAL PURSUIT ist das beliebteste Quiz-Spiel aller Zeiten und die Mutter aller Wissensspiele
+- Wissen und quizzen – wer kennt sich am besten in Hogwarts und mit den Helden der beliebten Harry Potter Filmreihe aus?
+- Das Spiel benötigt kein Spielbrett und kann in der praktischen Spielbox transportiert werden - das perfekte Spiel für unterwegs oder auf Reisen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07D2TMYNV/?tag=tolees0ca-21)

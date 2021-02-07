@@ -28,10 +28,10 @@ Es gibt ein [WLAN RGBW Streifen  meross Smart Warmweiß und 5M LED Strip  12V IP
 
 ℹ️:
 
-- Sprachsteuerung: Der smarte LED Streifen von meross ist mit Alexa und Google Home kompatibel. Es könnte alle Haushaltsgeräte über Sprachbefehle steuern. Hey Alexa, der Streifen auf Blau. Einschalten des Geräts, Ausschalten des Geräts, Einstellen von Helligkeit, Farbtemperatur und Modus.
-- RGBW Streifen: Schalten Sie den intelligenten Wi-Fi Strip über Meross-App ein/aus. Sie können den Lichtstatus überprüfen. Sie können das Licht mit nur einem Mobiltelefon oder einer Fernbedienung in verschiedene Farben ändern. Es gibt bunte Lichter, sowie warmes oder kühles Licht.
-- Wunderbares Umgebungslicht； Unsere Lichtleisten bestehen aus LED-Leuchten in RGBW-Farben. Es könnte die Decke, Treppe, Küchenschrank, Veranda, Gaming-Schreibtisch und Wohnzimmer schmücken, besonders geeignet für Weihnachten und Urlaub.
 - Timing Funktion: Nachdem die Sonne untergegangen ist, schalten Sie Ihren Lichtstreifen ein. Es ist NICHT wasserdicht und wurde für den Innenbereich entwickelt. Die Dekoration der Wohn- und Schlafzimmer, die Beleuchtung auf dem Treppe, gehen Sie nicht in ein dunkles Haus, während Sie Stromkosten sparen.
 - Leicht zu installieren: Mit dem doppelseitigen Klebeband, das auf der Rückseite des Lichtstreifens angebracht ist, können Sie unsere Produkte einfach und frei installieren, wo immer Sie wollen. Sie können auch nach den goldenen Markierungen auf dem Lichtstreifen schneiden, um die Länge nach Ihren Wünschen zu planen.
+- Wunderbares Umgebungslicht； Unsere Lichtleisten bestehen aus LED-Leuchten in RGBW-Farben. Es könnte die Decke, Treppe, Küchenschrank, Veranda, Gaming-Schreibtisch und Wohnzimmer schmücken, besonders geeignet für Weihnachten und Urlaub.
+- Sprachsteuerung: Der smarte LED Streifen von meross ist mit Alexa und Google Home kompatibel. Es könnte alle Haushaltsgeräte über Sprachbefehle steuern. Hey Alexa, der Streifen auf Blau. Einschalten des Geräts, Ausschalten des Geräts, Einstellen von Helligkeit, Farbtemperatur und Modus.
+- RGBW Streifen: Schalten Sie den intelligenten Wi-Fi Strip über Meross-App ein/aus. Sie können den Lichtstatus überprüfen. Sie können das Licht mit nur einem Mobiltelefon oder einer Fernbedienung in verschiedene Farben ändern. Es gibt bunte Lichter, sowie warmes oder kühles Licht.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08CGMQGQS/?tag=tolees0ca-21)
