@@ -28,8 +28,8 @@ Es gibt ein [ONLY Damen Onlroyal High Sk Pim600 Noos 15093134 Jeans  Schwarz  EU
 
 ℹ️:
 
-- Materialzusammensetzung: 69% Baumwolle, 29% Polyester, 2% Elasthan
 - Skinny-Jeans mit hoher Taille.
+- Materialzusammensetzung: 69% Baumwolle, 29% Polyester, 2% Elasthan
 - 2 Vordertaschen und eine Münztasche.
 - Mit Reißverschluss und einem Knopf verschließbar.
 
