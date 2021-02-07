@@ -28,8 +28,8 @@ Es gibt ein [Sony BC-QZ1  Schnellladegerät für NP-FZ100 Akkus ](https://www.am
 
 ℹ️:
 
-- BC-QZ1 (Schnellladegerät für NP-FZ100 Akkus)
 - Kompatibel für :a7s, a7s, a7r, a7r. BC-QZ1 ist das Schnellladegerät für NP-FZ100 Akkus . Die Ladezeit eines NP-FZ100 Akkus beträgt circa 150 Minuten.
+- BC-QZ1 (Schnellladegerät für NP-FZ100 Akkus)
 - Stromversorgung: Wechselstrom, 100–240 V, 50/60 Hz
 - Abmessungen (B × H × T): ca. 70 x 33 x 95 mm
 - Gewicht: ca. 125 g
