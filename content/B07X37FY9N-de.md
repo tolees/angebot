@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rambo: Last Blood [Blu-ray] mit 20.57 % Rabatt'
-date: 2021-02-05 05:32:28
+date: 2021-02-07 11:34:36
 image: 'https://m.media-amazon.com/images/I/51VIHqLXQ5L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B07X37FY9N/?tag=tolees0ca-21'
 descuento: '20.57'
-average: '7.59333333333333'
+average: '7.44249999999999'
 ---
 
 Sie können [Rambo: Last Blood [Blu-ray]](https://www.amazon.de/dp/B07X37FY9N/?tag=tolees0ca-21) mit Preis 6.99 EUR (original: 8.8 EUR) 20.57 % Rabatt hier:

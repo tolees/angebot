@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SUADEX Arbeitsschuhe Herren Sicherheitss mit 19.35 % Rabatt'
-date: 2021-02-06 11:15:54
+date: 2021-02-07 11:40:25
 image: 'https://m.media-amazon.com/images/I/41iM1meDNwL._SL200_.jpg'
 comments: true
 category: ofertas
