@@ -28,10 +28,10 @@ Es gibt ein [TUTUO USB Type C auf 1080P HDMI Adapter für Nintendo Switch  USB C
 
 ℹ️:
 
-- 【Plug & Play】 Kein Laufwerk erforderlich, keine externe Stromversorgung erforderlich. Einfach zu installieren, einfach einstecken und den großen Bildschirm genießen.
 - 【Nintendo Switch Mini Dock】 Kompatibel mit der neuesten Version von Switch 9.2.0, kein Schaden für die Konsole. Es kann als Ersatz für Ihr Nintendo Switch Dock verwendet werden (Hinweis: 1. Schließen Sie den originalen Netzteiladapter an den Hub 2 an. Verwenden Sie das HDMI Kabel um den Hub mit TV oder zu verbinden Bildschirm 3.Schließen Sie den Nintendo Switch mit dem HUB an und warten Sie ca. 8 Sekunden bis das Bild erscheint).
-- 【1080P HD-Auflösung】 Spiegeln oder dehnt Ihr HDMI-fähiges Telefon, Ihren Tablet- oder Computerbildschirm über HDMI-Anschluss an ein Fernsehgerät, einen Monitor oder einen Projektor aus. Unterstützt 1080P-Auflösung.
-- 【USB C PD-Ladeadapter】 Laden während der Wiedergabe. Sie können den USB-C-Ladeport verwenden, um Ihr Gerät aufzuladen, wenn Sie den HDMI-Anschluss verwenden.
+- 【Plug & Play】 Kein Laufwerk erforderlich, keine externe Stromversorgung erforderlich. Einfach zu installieren, einfach einstecken und den großen Bildschirm genießen.
 - 【Multifunktionaler Hub】 Schließen Sie bis zu drei Geräte mit USB-A, USB-C und HDMI-Anschluss an. Sie können den USB-C und USB-A Anschluss verwenden, wenn Sie gleichzeitig den HDMI-Anschluss verwenden. ( Es kann iMac nicht unterstützen )
+- 【USB C PD-Ladeadapter】 Laden während der Wiedergabe. Sie können den USB-C-Ladeport verwenden, um Ihr Gerät aufzuladen, wenn Sie den HDMI-Anschluss verwenden.
+- 【1080P HD-Auflösung】 Spiegeln oder dehnt Ihr HDMI-fähiges Telefon, Ihren Tablet- oder Computerbildschirm über HDMI-Anschluss an ein Fernsehgerät, einen Monitor oder einen Projektor aus. Unterstützt 1080P-Auflösung.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B076Q7R2ZV/?tag=tolees0ca-21)

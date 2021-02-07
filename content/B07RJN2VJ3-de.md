@@ -28,10 +28,10 @@ Sie können [LE 15W Alexa LED Deckenlampe  1250lm 22cm Smart Wifi Deckenleuchte 
 
 ℹ️:
 
-- 【Weißes und Buntes Ambiente】Erschaffen Sie mit über 16 Millionen Farben, unterschiedlichen Weißtönen (2700K bis 6500K) verschiedenste Atmosphären, vollständig per App oder Sprachsteuerung dimmbar.
-- 【APP Fernsteuerung】Ihre Lampen per Fingertipp zu steuern, egal wann und egal wo Sie sind. Eine WLAN-Verbindung ist wesentlich zuverlässiger als Bluetooth und verbraucht weniger. "Lepro LampUX" APP kann sich nur einen Klick mit Alexa verbinden.
-- 【 Timer & IP54 Wasserdicht】 Richten Sie Beleuchtungszeiten so ein, automatisieren Sie Ihre Beleuchtung - schaltet sich automatisch zu eingestellten Zeiten ein und aus. Der IP54 Wasserschutzgrad, Licht für Badezimmer, Küche, Büro, Schlafzimmer, Flur.
 - 【Einfache Montage】 Drücken Sie den Schiebeverschluss einfach nach außen, um die flache Deckenleuchte anzubringen, verbinden Sie sie mit Ihrem WLAN und schon kann es losgehen. Die 15W Deckenleuchte gleicht einer 100W Glühbirne, spart aber 85% Strom.
 - 【Sprachsteuerung】Funktioniert mit Amazon Alexa (Echo, Dot und andere) und Google Assistant (Home, Mini und andere) und ermöglicht es Ihnen, Ihre Lampen freihändig mit einfachen Sprachbefehlen zu steuern.
+- 【 Timer & IP54 Wasserdicht】 Richten Sie Beleuchtungszeiten so ein, automatisieren Sie Ihre Beleuchtung - schaltet sich automatisch zu eingestellten Zeiten ein und aus. Der IP54 Wasserschutzgrad, Licht für Badezimmer, Küche, Büro, Schlafzimmer, Flur.
+- 【Weißes und Buntes Ambiente】Erschaffen Sie mit über 16 Millionen Farben, unterschiedlichen Weißtönen (2700K bis 6500K) verschiedenste Atmosphären, vollständig per App oder Sprachsteuerung dimmbar.
+- 【APP Fernsteuerung】Ihre Lampen per Fingertipp zu steuern, egal wann und egal wo Sie sind. Eine WLAN-Verbindung ist wesentlich zuverlässiger als Bluetooth und verbraucht weniger. "Lepro LampUX" APP kann sich nur einen Klick mit Alexa verbinden.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07RJN2VJ3/?tag=tolees0ca-21)
