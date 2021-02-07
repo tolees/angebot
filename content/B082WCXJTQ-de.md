@@ -28,8 +28,8 @@ Es gibt ein [LEGO 76167 Super Heroes Marvel Avengers Iron Mans Arsenal Set  Erwe
 
 ℹ️:
 
-- Dank der coolen Ausrüstung können Kinder richtig kreativ werden, um die Bösewichte zu verscheuchen
 - Ein facettenreiches Superhelden-Spielset, mit dem Kinder Iron Mans Abenteuer selbst nachspielen können
+- Dank der coolen Ausrüstung können Kinder richtig kreativ werden, um die Bösewichte zu verscheuchen
 - Enthält Tony Stark als Minifigur, 2 Iron Man-Rüstungen und einen megastarken Hot Rod
 - Ein tolles Weihnachts- oder Geburtstagsgeschenk für Kinder ab 7 Jahren
 - Inspiriert zu spannenden Superheldenabenteuern und bereichert als spektakuläres Schaustück jedes Kinderzimmer
