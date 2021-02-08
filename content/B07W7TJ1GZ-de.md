@@ -28,10 +28,10 @@ Sie können [Lego Ninjago - LEGO 71706 NINJAGO 4+ Coles Speeder  Prime Empire Re
 
 ℹ️:
 
-- Mit einfach zu bauendem Rennwagen mit größeren Hinterreifen, die die Spur halten, Griffen für 2 Katanas, Fronteinlässen, Heckflügel und 2 Auspuffanlagen
-- Zum Zubehör gehören Digi Coles zwei goldene Katanas, das Key-Tana-Schwert und Hausners hellblauen Zwillingsschwert, das Hoverboard und die Prime-Controller-Kette
-- Kinder im Vorschulalter werden es lieben, Coles Speeder zu bauen und gegen den Hoverboard fahrenden Bösewicht Hausner anzutreten, um das Key-Tana zu gewinnen
 - Beinhaltet 2 Minifiguren, die im Videospiel Prime Empire kämpfen: Meister Ninja der Erde Digi Cole und die böse Ratte Hausner
+- Kinder im Vorschulalter werden es lieben, Coles Speeder zu bauen und gegen den Hoverboard fahrenden Bösewicht Hausner anzutreten, um das Key-Tana zu gewinnen
+- Zum Zubehör gehören Digi Coles zwei goldene Katanas, das Key-Tana-Schwert und Hausners hellblauen Zwillingsschwert, das Hoverboard und die Prime-Controller-Kette
+- Mit einfach zu bauendem Rennwagen mit größeren Hinterreifen, die die Spur halten, Griffen für 2 Katanas, Fronteinlässen, Heckflügel und 2 Auspuffanlagen
 - Dieses Spielzeugauto-Set verfügt über einen Starter-Stein-Block, mit dem das Auto leichter gebaut werden kann, sodass Erstbaumeister es selbst bauen können
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W7TJ1GZ/?tag=tolees0ca-21)

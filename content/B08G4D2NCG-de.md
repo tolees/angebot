@@ -29,10 +29,10 @@ Es gibt ein [LEGO 71731 NINJAGO Battle Set: Zane vs. Nindroid Roboter Krieger mi
 ℹ️:
 
 - Zu dem Ninja-Spielzeug gehören auch eine kleine Nindroid-Fabrik aus LEGO Steinen sowie ein Actionkreisel, der Zane loswirbeln und seinen Gegner umstoßen lässt
-- Das 56-teilige Action-Spielset vermittelt Kindern ab 6 Jahren ein unterhaltsames Bauerlebnis und ist ein tolles Überraschungs- oder Geburtstagsgeschenk
-- Das LEGO NINJAGO Battle Set: Zane vs. Nindroid (71731) ermöglicht Kindern Ninja-Actionszenen mit ihrem Helden Zane und einem gefährlichen Nindroid
-- Das Ninja-Spielset enthält zwei Minifiguren: einen ab Januar 2021 erhältlichen Zane und einen Legacy Nindroid aus der NINJAGO TV-Serie sowie vier exklusive weiße Waffen
-- Noch größere LEGO NINJAGO Battles lassen sich zusammen mit anderen Sets austragen: Kai vs. Skulkin (71730), Jay vs. Serpentine (71732) und Cole vs. Geisterkämpfer (71733)
 - Die Nindroid-Fabrik ist 3 cm hoch, 6 cm breit und 8 cm tief. Das ist die ideale Größe für stundenlangen Spielspaß zu Hause oder bei einem Freund
+- Das LEGO NINJAGO Battle Set: Zane vs. Nindroid (71731) ermöglicht Kindern Ninja-Actionszenen mit ihrem Helden Zane und einem gefährlichen Nindroid
+- Das 56-teilige Action-Spielset vermittelt Kindern ab 6 Jahren ein unterhaltsames Bauerlebnis und ist ein tolles Überraschungs- oder Geburtstagsgeschenk
+- Noch größere LEGO NINJAGO Battles lassen sich zusammen mit anderen Sets austragen: Kai vs. Skulkin (71730), Jay vs. Serpentine (71732) und Cole vs. Geisterkämpfer (71733)
+- Das Ninja-Spielset enthält zwei Minifiguren: einen ab Januar 2021 erhältlichen Zane und einen Legacy Nindroid aus der NINJAGO TV-Serie sowie vier exklusive weiße Waffen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4D2NCG/?tag=tolees0ca-21)
