@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Samsung Schnellladegerät 25 w  Ep-TA800  mit 42.72 % Rabatt'
-date: 2021-02-05 05:23:31
+title: 'Samsung Schnellladegerät 25 w  Ep-TA800  mit 57.97 % Rabatt'
+date: 2021-02-08 12:35:28
 image: 'https://m.media-amazon.com/images/I/31X1lAanbTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B07TRP1GMV-de Samsung Schnellladegerät 25 w Ep-TA800 Schwarz'
 sku: 'B07TRP1GMV-de'
 tags: [  ]
-actualPrice: 19.99 EUR
+actualPrice: 14.67 EUR
 currency: EUR
-price: 19.99
+price: 14.67
 comparePrice: 34.9 EUR
 prodname: 'Samsung Schnellladegerät 25 w  Ep-TA800   Schwarz'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.de/dp/B07TRP1GMV/?tag=tolees0ca-21'
-descuento: '42.72'
-average: '18.988'
+descuento: '57.97'
+average: '17.7542857142857'
 ---
 
-Sie können [Samsung Schnellladegerät 25 w  Ep-TA800   Schwarz](https://www.amazon.de/dp/B07TRP1GMV/?tag=tolees0ca-21) mit Preis 19.99 EUR (original: 34.9 EUR) 42.72 % Rabatt hier:
+Sie können [Samsung Schnellladegerät 25 w  Ep-TA800   Schwarz](https://www.amazon.de/dp/B07TRP1GMV/?tag=tolees0ca-21) mit Preis 14.67 EUR (original: 34.9 EUR) 57.97 % Rabatt hier:
 
 [![Samsung Schnellladegerät 25 w  Ep-TA800 ](https://m.media-amazon.com/images/I/31X1lAanbTL._SL200_.jpg)](https://www.amazon.de/dp/B07TRP1GMV/?tag=tolees0ca-21)
 
