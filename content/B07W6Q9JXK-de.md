@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 60244 City Polizeihubschrauber-Tran mit 33.34 % Rabatt'
-date: 2021-01-29 21:02:27
+title: 'LEGO 60244 City Polizeihubschrauber-Tran mit 32.79 % Rabatt'
+date: 2021-02-07 21:05:45
 image: 'https://m.media-amazon.com/images/I/51rZdwUcXuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,29 @@ author: ring
 slug: 'B07W6Q9JXK-de LEGO 60244 City Polizeihubschrauber-Transport Bauset mit...'
 sku: 'B07W6Q9JXK-de'
 tags: [  ]
-actualPrice: 29.99 EUR
+actualPrice: 30.24 EUR
 currency: EUR
-price: 29.99
+price: 30.24
 comparePrice: 44.99 EUR
 prodname: 'LEGO 60244 City Polizeihubschrauber-Transport  Bauset mit Quad  Motorrad und Lastwagen mit Anhänger'
 country: 'de'
 flag: '🇩🇪'
+brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W6Q9JXK/?tag=tolees0ca-21'
-descuento: '33.34'
-average: '32.5047916666666'
+descuento: '32.79'
+average: '32.4585714285714'
 ---
 
-Sie können [LEGO 60244 City Polizeihubschrauber-Transport  Bauset mit Quad  Motorrad und Lastwagen mit Anhänger](https://www.amazon.de/dp/B07W6Q9JXK/?tag=tolees0ca-21) mit Preis 29.99 EUR (original: 44.99 EUR) 33.34 % Rabatt hier:
+Sie können [LEGO 60244 City Polizeihubschrauber-Transport  Bauset mit Quad  Motorrad und Lastwagen mit Anhänger](https://www.amazon.de/dp/B07W6Q9JXK/?tag=tolees0ca-21) mit Preis 30.24 EUR (original: 44.99 EUR) 32.79 % Rabatt hier:
 
 [![LEGO 60244 City Polizeihubschrauber-Tran](https://m.media-amazon.com/images/I/51rZdwUcXuL._SL200_.jpg)](https://www.amazon.de/dp/B07W6Q9JXK/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Der Transporter verfügt über eine detaillierte Fahrerkabine, eine mobile Gefängniszelle, einen Computer und Straßensperren mit vielen realistischen Details
+- Kinder können die Zelle öffnen, um den Ganoven entkommen zu lassen, und dann den neuen Polizeihubschrauber starten, der wirklich in die Luft fliegt
 - Das Polizeiset enthält vier Minifiguren: Rooky Partnur und Frankie Lupelli, den Polizisten und den Ganoven, für actionreiches Spielen
+- Der Transporter verfügt über eine detaillierte Fahrerkabine, eine mobile Gefängniszelle, einen Computer und Straßensperren mit vielen realistischen Details
 - Das Polizeispielset für mehrere Fahrzeuge umfasst einen Hubschraubertransporter mit Zugriemen, einen Lastwagen mit Anhänger, ein Quad und ein Motorrad
 - Die digitale Anleitung Instructions PLUS über die kostenlose LEGO Life-App für Smart-Geräte hilft Kindern, das Modell heranzuzoomen, zu drehen und anzuzeigen, während sie bauen
-- Kinder können die Zelle öffnen, um den Ganoven entkommen zu lassen, und dann den neuen Polizeihubschrauber starten, der wirklich in die Luft fliegt
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W6Q9JXK/?tag=tolees0ca-21)

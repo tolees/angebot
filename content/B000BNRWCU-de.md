@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '17.71 % rabat auf Dr. Martens Unisex-Erwachsene 1460 Boots'
-date: 2021-02-06 22:47:08
+date: 2021-02-07 23:15:16
 image: 'https://m.media-amazon.com/images/I/41kupU3lmhL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Dr. Martens'
 buyurl: 'https://www.amazon.de/dp/B000BNRWCU/?tag=tolees0ca-21'
 descuento: '17.71'
-average: '145.333333333333'
+average: '145.0'
 ---
 
 Es gibt ein [Dr. Martens Unisex-Erwachsene 1460 Bootsschuhe Schwarz  Black 001   41 EU](https://www.amazon.de/dp/B000BNRWCU/?tag=tolees0ca-21) mit aktuellem Preis 144.0 EUR (original: 174.99 EUR) 17.71 % Rabatt hier:
