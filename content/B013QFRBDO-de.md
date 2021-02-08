@@ -28,10 +28,10 @@ Sie können [Gigaset S850HX - Schnurloses DECT-Telefon zum Anschluss an Basis - 
 
 ℹ️:
 
-- VIELFÄLTIGE ANSCHLUSSMÖGLICHKEITEN - Anschluss an alle gängigen DECT-Basisstationen z.B. Gigaset Basis
+- MIT REICHLICH FUNKTIONEN - Freisprechen in brillanter Voll-Duplex-Qualität, Hinweis auf entgangene Anrufe über Display und beleuchtete Nachrichtentaste, großes Adressbuch für bis zu 500 Kontakte.
 - QUALITÄT MADE IN GERMANY - Design und Herstellung in Deutschland - die umweltfreundliche ECO DECT Technologie sorgt für einen reduzierten Energieverbrauch.
 - LIEFERUMFANG - 1x Gigaset S850HX Mobilteil, 1x Ladeschale, 1x Steckernetzteil, 2x AAA-Akku (NiMH), 1x Akku-Deckel, 1x Gürtelclip, 1x Bedienungsanleitung.
-- MIT REICHLICH FUNKTIONEN - Freisprechen in brillanter Voll-Duplex-Qualität, Hinweis auf entgangene Anrufe über Display und beleuchtete Nachrichtentaste, großes Adressbuch für bis zu 500 Kontakte.
 - TECHNOLOGIE TRIFFT AUF DESIGN - dank Headsetanschluss und Reichweitenwarnton behalten Sie mit dem Gigaset S850HX Bewegungsfreiheit für alles, was Sie während des Telefonierens erledigen wollen.
+- VIELFÄLTIGE ANSCHLUSSMÖGLICHKEITEN - Anschluss an alle gängigen DECT-Basisstationen z.B. Gigaset Basis
 
 [🛒 Hier!!](https://www.amazon.de/dp/B013QFRBDO/?tag=tolees0ca-21)
