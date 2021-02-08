@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '20.02 % rabat auf Lego Creator - LEGO 31100 Creator 3-in-1'
-date: 2021-02-04 11:19:38
+title: '26.03 % rabat auf Lego Creator - LEGO 31100 Creator 3-in-1'
+date: 2021-02-08 21:17:31
 image: 'https://m.media-amazon.com/images/I/5129mjnW5HL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: ring
 slug: 'B07W7TKRJ2-de Lego Creator - LEGO 31100 Creator 3-in-1 Sportwagen- Hot...'
 sku: 'B07W7TKRJ2-de'
 tags: [  ]
-actualPrice: 7.99 EUR
+actualPrice: 7.39 EUR
 currency: EUR
-price: 7.99
+price: 7.39
 comparePrice: 9.99 EUR
 prodname: 'Lego Creator - LEGO 31100 Creator 3-in-1 Sportwagen-  Hot Rod-  Flieger-Bauset  Spielzeuge für Jungen und Mädchen ab 7 Jahren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Lego Creator'
 buyurl: 'https://www.amazon.de/dp/B07W7TKRJ2/?tag=tolees0ca-21'
-descuento: '20.02'
-average: '7.49315789473685'
+descuento: '26.03'
+average: '7.48333333333334'
 ---
 
-Es gibt ein [Lego Creator - LEGO 31100 Creator 3-in-1 Sportwagen-  Hot Rod-  Flieger-Bauset  Spielzeuge für Jungen und Mädchen ab 7 Jahren](https://www.amazon.de/dp/B07W7TKRJ2/?tag=tolees0ca-21) mit aktuellem Preis 7.99 EUR (original: 9.99 EUR) 20.02 % Rabatt hier:
+Es gibt ein [Lego Creator - LEGO 31100 Creator 3-in-1 Sportwagen-  Hot Rod-  Flieger-Bauset  Spielzeuge für Jungen und Mädchen ab 7 Jahren](https://www.amazon.de/dp/B07W7TKRJ2/?tag=tolees0ca-21) mit aktuellem Preis 7.39 EUR (original: 9.99 EUR) 26.03 % Rabatt hier:
 
 [![Lego Creator - LEGO 31100 Creator 3-in-1](https://m.media-amazon.com/images/I/5129mjnW5HL._SL200_.jpg)](https://www.amazon.de/dp/B07W7TKRJ2/?tag=tolees0ca-21)
 
 ℹ️:
 
 - Der rot-schwarze Sportwagen hat einen schwarzen hinteren Motor mit Saugrohr und einen Spoiler auf dem Heck sowie 2 Auspuffrohre. Alle Modelle sind rot-schwarz-grau
-- LEGO Creator 3-in-1-Sets bieten drei verschiedene Bau- und Spielerlebnisse mit eigenständigen Modellen zum Bauen, Spielen und Wiederaufbauen
-- Der Hot-Rod ist mit breiten, spurstabilen Raupenreifen, einer vorderen Lufthutze und einem Kühlergrill sowie einem Mittelmotor ausgestattet und das Flugzeug verfügt über zwei Motoren
-- Das Creator 3-in-1-Set bietet Kindern gleich 3 Bauoptionen: Sie können einen Sportwagen, einen Hot Rod oder einen historischen Flieger bauen
 - Dieses faszinierende Spielzeug ist kompakt genug, um es überall mitzunehmen, und groß genug, um eine Minifigur (nicht enthalten) unterzubringen. Einfache Bauanleitungen sind enthalten
+- Das Creator 3-in-1-Set bietet Kindern gleich 3 Bauoptionen: Sie können einen Sportwagen, einen Hot Rod oder einen historischen Flieger bauen
+- Der Hot-Rod ist mit breiten, spurstabilen Raupenreifen, einer vorderen Lufthutze und einem Kühlergrill sowie einem Mittelmotor ausgestattet und das Flugzeug verfügt über zwei Motoren
+- LEGO Creator 3-in-1-Sets bieten drei verschiedene Bau- und Spielerlebnisse mit eigenständigen Modellen zum Bauen, Spielen und Wiederaufbauen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07W7TKRJ2/?tag=tolees0ca-21)
