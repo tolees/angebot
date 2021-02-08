@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '25.97 % rabat auf Vans Herren Ward Suede/Canvas Sneaker  S'
-date: 2021-02-07 05:40:22
+title: '24.67 % rabat auf Vans Herren Ward Suede/Canvas Sneaker  S'
+date: 2021-02-08 06:37:41
 image: 'https://m.media-amazon.com/images/I/41oUAHuRlcL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B06XHRXCGV-de Vans Herren Ward Suede/Canvas Sneaker Schwarz...'
 sku: 'B06XHRXCGV-de'
 tags: [  ]
-actualPrice: 51.82 EUR
+actualPrice: 52.73 EUR
 currency: EUR
-price: 51.82
+price: 52.73
 comparePrice: 70.0 EUR
 prodname: 'Vans Herren Ward Suede/Canvas Sneaker  Schwarz   Suede/Canvas- Black/White   44 EU'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Vans'
 buyurl: 'https://www.amazon.de/dp/B06XHRXCGV/?tag=tolees0ca-21'
-descuento: '25.97'
-average: '49.1183928571427'
+descuento: '24.67'
+average: '49.1817543859647'
 ---
 
-Es gibt ein [Vans Herren Ward Suede/Canvas Sneaker  Schwarz   Suede/Canvas- Black/White   44 EU](https://www.amazon.de/dp/B06XHRXCGV/?tag=tolees0ca-21) mit aktuellem Preis 51.82 EUR (original: 70.0 EUR) 25.97 % Rabatt hier:
+Es gibt ein [Vans Herren Ward Suede/Canvas Sneaker  Schwarz   Suede/Canvas- Black/White   44 EU](https://www.amazon.de/dp/B06XHRXCGV/?tag=tolees0ca-21) mit aktuellem Preis 52.73 EUR (original: 70.0 EUR) 24.67 % Rabatt hier:
 
 [![Vans Herren Ward Suede/Canvas Sneaker  S](https://m.media-amazon.com/images/I/41oUAHuRlcL._SL200_.jpg)](https://www.amazon.de/dp/B06XHRXCGV/?tag=tolees0ca-21)
 
