@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '25.44 % rabat auf Walt Disney - Pirates of the Caribbean 5'
-date: 2021-02-06 23:38:43
+date: 2021-02-08 00:29:27
 image: 'https://m.media-amazon.com/images/I/61ElNflf2OL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Walt Disney'
 buyurl: 'https://www.amazon.de/dp/B073W8Z6YS/?tag=tolees0ca-21'
 descuento: '25.44'
-average: '13.49'
+average: '13.115'
 ---
 
 Es gibt ein [Walt Disney - Pirates of the Caribbean 5 - Salazars Rache  + Blu-ray 2D ](https://www.amazon.de/dp/B073W8Z6YS/?tag=tolees0ca-21) mit aktuellem Preis 11.99 EUR (original: 16.08 EUR) 25.44 % Rabatt hier:

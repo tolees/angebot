@@ -29,11 +29,11 @@ Es gibt ein [LG Electronics - LG 75UN71006LC 189 cm  75 Zoll  UHD Fernseher  4K 
 ℹ️:
 
 - Bild und Ton: Optimale HDR-Unterstützung durch Active HDR mit HDR10 Pro und HLG, 4K Upscaler, 2.0 Soundsystem mit 20 Watt
-- 4K UHD Smart TV mit 189 cm (75 Zoll) Bildschirmdiagonale, Außenmaße 169,3 cm x 104,8 cm, VESA Norm: 600 x 400 mm
-- Lieferumfang: 75UN71006LC, LG Fernbedienung inkl. Batterien, Schnellstartanleitung, Standfuß, Stromkabel
-- Prozessor: Quad Core Prozessor mit AI Sound
-- Anschlüsse: 3x HDMI 2.0 (eARC, SIMPLINK), 2x USB, 1x LAN, WLAN (802. 11ac), Bluetooth (v5. 0), Optischer Ausgang, Kopfhörerausgang, CI+ 1.4
 - Smart TV: webOS 5.0 (LG ThinQ) mit Google Assistant und Alexa-Vorbereitung (optionale LG Magic Remote Fernbedienung erforderlich), Apple AirPlay 2-kompatibel, Home Dashboard
+- Prozessor: Quad Core Prozessor mit AI Sound
 - Tunertyp und Konnektivität: Single Triple Tuner: 1x (DVB-T2 HD/-C/-S2), CI+ 1. 4, WLAN (802. 11ac), LAN, Bluetooth
+- Lieferumfang: 75UN71006LC, LG Fernbedienung inkl. Batterien, Schnellstartanleitung, Standfuß, Stromkabel
+- Anschlüsse: 3x HDMI 2.0 (eARC, SIMPLINK), 2x USB, 1x LAN, WLAN (802. 11ac), Bluetooth (v5. 0), Optischer Ausgang, Kopfhörerausgang, CI+ 1.4
+- 4K UHD Smart TV mit 189 cm (75 Zoll) Bildschirmdiagonale, Außenmaße 169,3 cm x 104,8 cm, VESA Norm: 600 x 400 mm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B084XSXKMG/?tag=tolees0ca-21)
