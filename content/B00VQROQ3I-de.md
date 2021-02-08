@@ -28,9 +28,9 @@ Sie können [Courvoisier VSOP Cognac  1 x 0.7 l ](https://www.amazon.de/dp/B00VQ
 
 ℹ️:
 
-- Duftendes Bouquet und sein Aromenreichtum an Vanille, Schokolade, Honig, Zimt und Aprikosen
-- Courvoisier VSOP (Very superior old pale, bis 10 Jahre alt)
 - Als Partner für raffinierte Cocktails und Longdrinks
+- Duftendes Bouquet und sein Aromenreichtum an Vanille, Schokolade, Honig, Zimt und Aprikosen
 - Aus reifen, aromatischen Trauben
+- Courvoisier VSOP (Very superior old pale, bis 10 Jahre alt)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00VQROQ3I/?tag=tolees0ca-21)

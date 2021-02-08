@@ -28,9 +28,9 @@ Es gibt ein [Sipsmith VJOP Batch No. 1 Gin  1 x 0.7 l ](https://www.amazon.de/dp
 
 ℹ️:
 
-- Ein lang anhaltendes und ausgewogenes Finish runden das besondere Geschmackserlebnis dieses Gins ab.
-- An der Nase dominieren kräftige Aromen von Wacholder und Zedernholz zusammen mit einem Hauch von pikanter Orange.
 - Perfekt zum Valentinstag: Das ideale Geschenk für Gin-Liebhaber, die Wert auf höchste Qualität legen
 - Im Geschmack behält die Wacholderbeere ihre starke Präens, umgeben von einer leichten Würze und Noten dunkler Schokolade.
+- An der Nase dominieren kräftige Aromen von Wacholder und Zedernholz zusammen mit einem Hauch von pikanter Orange.
+- Ein lang anhaltendes und ausgewogenes Finish runden das besondere Geschmackserlebnis dieses Gins ab.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00GQYCE4O/?tag=tolees0ca-21)
