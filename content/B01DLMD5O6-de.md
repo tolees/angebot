@@ -28,10 +28,10 @@ Es gibt ein [Sony SEL-50F18F Standard Objektiv  Festbrennweite  50 mm  F1.8  Vol
 
 ℹ️:
 
-- Für Vollformat E-Mount Kameras, kompakt, leicht und handlich
-- Brennweite: 50 mm (entspricht APS-C: 75 mm), Blende: F1.8 (kleinste Blende: F22)
-- Wunderschöne Bokeh-Effekte mit maximaler Lichtstärke von F1.8; Längere Lebensdauer mit dem robusten Metallgehäuse
 - Lieferumfang: Sony SEL50F18F.SYX E-Mount Vollformat Objektiv
+- Brennweite: 50 mm (entspricht APS-C: 75 mm), Blende: F1.8 (kleinste Blende: F22)
 - Exzentelle Bildqualität durch ein optisches Design mit einem asphärischen Element
+- Wunderschöne Bokeh-Effekte mit maximaler Lichtstärke von F1.8; Längere Lebensdauer mit dem robusten Metallgehäuse
+- Für Vollformat E-Mount Kameras, kompakt, leicht und handlich
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01DLMD5O6/?tag=tolees0ca-21)

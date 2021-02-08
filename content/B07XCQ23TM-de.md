@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Herren Core 18 Hoodie  White  M mit 35.04 % Rabatt'
-date: 2021-02-07 11:39:05
+date: 2021-02-08 18:01:20
 image: 'https://m.media-amazon.com/images/I/318Fzns+7cL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'adidas'
 buyurl: 'https://www.amazon.de/dp/B07XCQ23TM/?tag=tolees0ca-21'
 descuento: '35.04'
-average: '25.8041666666665'
+average: '25.8099999999998'
 ---
 
 Sie können [adidas Herren Core 18 Hoodie  White  M](https://www.amazon.de/dp/B07XCQ23TM/?tag=tolees0ca-21) mit Preis 25.95 EUR (original: 39.95 EUR) 35.04 % Rabatt hier:
@@ -29,9 +29,9 @@ Sie können [adidas Herren Core 18 Hoodie  White  M](https://www.amazon.de/dp/B0
 ℹ️:
 
 - 70% Baumwolle
+- Reguläre Passform
 - Kängurutasche
 - Verstellbare Kapuze mit Kordelzug
-- Reguläre Passform
 - Gerippter Saum und Bündchen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XCQ23TM/?tag=tolees0ca-21)
