@@ -28,9 +28,9 @@ Es gibt ein [Apple Lightning auf USB Kabel  1 m ](https://www.amazon.de/dp/B081
 
 ℹ️:
 
-- Ein Meter lang
-- Dieses USB 2.0 Kabel verbindet iPhone, iPad oder iPod mit Lightning Connector zum Synchronisieren und Laden mit dem USB Anschluss deines Computers.
 - Oder du verbindest es zum Aufladen über eine Steckdose mit dem Apple USB Power Adapter (Netzteil).
 - Wendbares Design
+- Ein Meter lang
+- Dieses USB 2.0 Kabel verbindet iPhone, iPad oder iPod mit Lightning Connector zum Synchronisieren und Laden mit dem USB Anschluss deines Computers.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B081FWVSG8/?tag=tolees0ca-21)

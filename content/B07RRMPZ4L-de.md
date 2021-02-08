@@ -28,10 +28,10 @@ Es gibt ein [DJI Mavic Mini – Drohne  leicht und tragbar  Flugzeit: 30 Min  Ü
 
 ℹ️:
 
-- EIGENSCHAFTEN: Die tragbare und kompakte DJI Mavic Mini mit 30-minütiger Flugzeit, wiegt gerade einmal 249 Gramm und zählt somit zur niedrigsten und sichersten Gewichtsklasse unter den Drohnen
-- FERNSTEUERUNG: Die Fernsteuerung bietet eine Videoübertragung in HD mit niedriger Latenz, bei einer Reichweite von bis zu 2 Kilometern. Abnehmbare Steuerknüppel sorgen für einen leichteren Transport. Abmessungen: Gefaltet: 140 × 82 × 57 mm (L × B × H); Entfaltet: 160 × 202 × 55 mm (L × B × H)
-- INHALT: Kameraschutz, intelligenter Flugakku, Fernbedienung, Ersatzpropeller, Micro-USB-Kabel, Funkkabel (Micro-USB-Anschluss, USB-C, Blitz), Ersatzstick
 - FLY APP: Mit der DJI Fly App können Sie mit wenigen Klicks Filmaufnahmen erstellen. Die App bietet hilfreiche Tutorials, welche den Einstieg in die Flugwelt leicht, schnell und sicher machen
 - GIMBAL-KAMERA: Die Mavic Mini ist in der Lage Fotos mit 12 Megapixeln und Videos in 2,7K QHD aufzunehmen. Der Gimbal ist auf drei Achsen stabilisiert und bietet butterweiche Aufnahmen
+- INHALT: Kameraschutz, intelligenter Flugakku, Fernbedienung, Ersatzpropeller, Micro-USB-Kabel, Funkkabel (Micro-USB-Anschluss, USB-C, Blitz), Ersatzstick
+- EIGENSCHAFTEN: Die tragbare und kompakte DJI Mavic Mini mit 30-minütiger Flugzeit, wiegt gerade einmal 249 Gramm und zählt somit zur niedrigsten und sichersten Gewichtsklasse unter den Drohnen
+- FERNSTEUERUNG: Die Fernsteuerung bietet eine Videoübertragung in HD mit niedriger Latenz, bei einer Reichweite von bis zu 2 Kilometern. Abnehmbare Steuerknüppel sorgen für einen leichteren Transport. Abmessungen: Gefaltet: 140 × 82 × 57 mm (L × B × H); Entfaltet: 160 × 202 × 55 mm (L × B × H)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07RRMPZ4L/?tag=tolees0ca-21)

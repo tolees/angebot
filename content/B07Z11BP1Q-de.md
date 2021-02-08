@@ -28,10 +28,10 @@ Sie können [Asmodee - Zygomatic ASMD0050 Dobble Harry Potter  Kartenspiel  Deut
 
 ℹ️:
 
-- Ab 6 Jahren
 - SPIELDAUER ca. 15 Minuten
+- KARTEN-SPIEL für 2 - 8 Spieler
 - Das beliebte REAKTIONS-SPIEL in der Harry Potter Variante
 - 5 Spielvarianten in einem Spiel
-- KARTEN-SPIEL für 2 - 8 Spieler
+- Ab 6 Jahren
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07Z11BP1Q/?tag=tolees0ca-21)
