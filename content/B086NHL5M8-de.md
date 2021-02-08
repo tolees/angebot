@@ -28,10 +28,10 @@ Es gibt ein [Sony Interactive Entertainment - The Last of Us Part II - Exklusive
 
 ℹ️:
 
+- Unberechenbare Begegnungen mit Feinden durch das erstklassige KI-System
 - Eine intensive, von starken Charakteren getragene Geschichte, durch das Erfolgsstudio Naughty Dog perfekt inszeniert
 - Langerwartete Fortsetzung von "The Last of Us" kommt endlich auf PS4
-- "The Last of Us Part II" in der Amazon Exclusive Steelbook Edition
 - Dank modernster Motion-Capturing werden die Emotionen noch realistischer transportiert
-- Unberechenbare Begegnungen mit Feinden durch das erstklassige KI-System
+- "The Last of Us Part II" in der Amazon Exclusive Steelbook Edition
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B086NHL5M8/?tag=tolees0ca-21)

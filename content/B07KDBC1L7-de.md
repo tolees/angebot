@@ -28,12 +28,12 @@ Sie können [Amazon - Echo Show 5 – Durch Alexa in Verbindung bleiben  Weiß](
 
 ℹ️:
 
-- Kompaktes Smart Display mit 5,5 Zoll großem Bildschirm und Alexa
 - Personalisieren Sie Ihr Gerät mit einem Uhrdesign nach Wahl oder Ihrem Lieblingsfoto. Erstellen Sie Routinen und Wecker, um gut in den Tag zu kommen.
 - Sehen Sie Filme, Nachrichten und Serien. Hören Sie Musik, Radiosender und Hörbücher.
-- Steuern Sie kompatible Geräte per Sprachbefehl oder über das Display.
 - Tätigen Sie Sprach- oder Videoanrufe mit Freunden und Familienmitgliedern, die ein kompatibles Echo-Gerät oder die Alexa App haben.
-- Noch besserer Schutz für Ihre Privatsphäre mit der Mikrofon-/Kamerataste (an/aus) oder der integrierten Kameraabdeckung.
+- Steuern Sie kompatible Geräte per Sprachbefehl oder über das Display.
+- Kompaktes Smart Display mit 5,5 Zoll großem Bildschirm und Alexa
 - Verwalten Sie Kalender und To-do-Listen, hören Sie Wetter- und Verkehrsinformationen und kochen Sie Rezepte nach.
+- Noch besserer Schutz für Ihre Privatsphäre mit der Mikrofon-/Kamerataste (an/aus) oder der integrierten Kameraabdeckung.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07KDBC1L7/?tag=tolees0ca-21)

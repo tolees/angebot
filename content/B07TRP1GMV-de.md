@@ -28,8 +28,8 @@ Sie können [Samsung Schnellladegerät 25 w  Ep-TA800   Schwarz](https://www.ama
 
 ℹ️:
 
+- Usb Type-C zu USB Type-C
 - Unterstützt Super Schnellladen mit 25 Watt
 - Schnellladegerät zum Aufladen kompatibler Geräte über USB Type-C
-- Usb Type-C zu USB Type-C
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07TRP1GMV/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [Sylvanian Families - Elephant Family  5376 ](https://www.amazon.de/
 
 ℹ️:
 
-- In abnehmbarer Stoffkleidung gekleidet
-- Stimuliert fantasievolles Rollenspiele von Kindern
 - 3-teiliges Set: Vater, Mutter und Baby
-- Sammelfiguren Elefantenfamilie
+- In abnehmbarer Stoffkleidung gekleidet
 - Geeignet für Kinder ab 3 Jahren.
+- Stimuliert fantasievolles Rollenspiele von Kindern
+- Sammelfiguren Elefantenfamilie
 
 [🛒 Hier!!](https://www.amazon.de/dp/B017UDNQAU/?tag=tolees0ca-21)

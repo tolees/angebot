@@ -28,10 +28,10 @@ Sie können [LEGO 41444 Friends Heartlake City Bio-Café Spielset  Umweltbildung
 
 ℹ️:
 
-- Das Heartlake City Bio-Café (41444) enthält eine Küche, einen Garten, ein Saft-Verkaufsfahrrad und weitere Elemente, die umweltbewusste Kinder dazu anregen, Stein für Stein einen besseren Planeten zu bauen
 - Ideales Geschenk mit jeder Menge Funktionen für umweltbewusste kleine Feinschmecker. Kinder ab 6 Jahren können mit diesem kreativen Spielset köstliche Snacks zubereiten und sich stundenlang beschäftigen
-- Kinder können so tun, als würden sie Obst und Gemüse anbauen, Brot backen, Sandwiches belgen, Kunden bedienen und den Abfall sortieren.Das Spielerlebnis kann erweitert werden, indem Kinder mit dem Saft-Verkaufsfahrrad Getränke ausliefern
 - Enthält 3 Spielfiguren – darunter auch eine Opa-Spielfigur (neu ab Januar 2021) und seine Enkelin als Mikro-Spielfigur. Außerdem gibt es niedliche Details und realistische Funktionen zu entdecken
+- Das Heartlake City Bio-Café (41444) enthält eine Küche, einen Garten, ein Saft-Verkaufsfahrrad und weitere Elemente, die umweltbewusste Kinder dazu anregen, Stein für Stein einen besseren Planeten zu bauen
+- Kinder können so tun, als würden sie Obst und Gemüse anbauen, Brot backen, Sandwiches belgen, Kunden bedienen und den Abfall sortieren.Das Spielerlebnis kann erweitert werden, indem Kinder mit dem Saft-Verkaufsfahrrad Getränke ausliefern
 - Das Spielzeug-Café ist 11 cm hoch, 27 cm breit und 10 cm tief und beansprucht als fertiges Modell wenig Platz
 - Mit dem Set können Kinder in die Welt von Heartlake City eintauchen. Dort treffen sie auf Figuren, denen ihre Freunde und unser Planet am Herzen liegen
 - Dieses kreative Spielset enthält einen Ofen, einen Mixer, eine Kaffeemaschine, eine Sandwich-Auslage und jede Menge weiteres Zubehör, mit dem das Café zum Leben erweckt wird
