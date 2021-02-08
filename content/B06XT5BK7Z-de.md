@@ -28,8 +28,8 @@ Sie können [Funko JJL150514 Mystery Box](https://www.amazon.de/dp/B06XT5BK7Z/?t
 
 ℹ️:
 
-- Ursprungsland: Deutschland
-- Farbe: Mehrfarbig
 - Toy set figure bundle action, collectible gift figurine pack, funko pop vinyl bobble-head figure, set movie tv limited set marvel dc, star wars disney video game chase
+- Farbe: Mehrfarbig
+- Ursprungsland: Deutschland
 
 [🛒 Hier!!](https://www.amazon.de/dp/B06XT5BK7Z/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [LEGO 70425 Hidden Side Newbury´s spukende Schule Bauset  AR-App  G
 
 ℹ️:
 
-- Dieses Spielzeug mit Augmented Reality Funktionen für Kinder enthält für packende Geisterjäger-Abenteuer 8 Minifiguren – darunter die Helden Jack Davids und Parker L. Jackson mit Smartphones
-- Entdecke die spannende Welt von LEGO Hidden Side: ein einzigartiges Spielerlebnis, das das offene, kreative Spielvergnügen mit LEGO Bauspielzeug mit einer App verbindet
 - Für das Erlebnis mit Augmented Reality ist ein Tablet oder Smartphone erforderlich. Beides ist in diesem Set nicht enthalten
+- Dieses Spielzeug mit Augmented Reality Funktionen für Kinder enthält für packende Geisterjäger-Abenteuer 8 Minifiguren – darunter die Helden Jack Davids und Parker L. Jackson mit Smartphones
 - Das Spielset Newbury’s spukende Schule ist ein tolles Geschenk für jeden Anlass für Jungen und Mädchen. Kinder können damit ihre eigenen Schule bauen und stundenlangen Spielspaß erleben
 - Die kostenlose LEGO Hidden Side App ist für ausgewählte iOS- und Android-Smartgeräte verfügbar
+- Entdecke die spannende Welt von LEGO Hidden Side: ein einzigartiges Spielerlebnis, das das offene, kreative Spielvergnügen mit LEGO Bauspielzeug mit einer App verbindet
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07ND99DMZ/?tag=tolees0ca-21)

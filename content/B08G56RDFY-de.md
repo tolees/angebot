@@ -28,11 +28,11 @@ Es gibt ein [LEGO 31118 Creator 3-in-1 Surfer-Strandhaus  Leuchtturm & Poolhaus 
 
 ℹ️:
 
+- Dieses 564-teilige LEGO Creator 3-in-1-Spielset bietet LEGO Fans ab 8 Jahren ein anspruchsvolles Bauerlebnis. Die Modelle begeistern als Geburtstags- oder Weihnachtsgeschenk
 - Zu dem Leuchtturm gehören auch ein kleines Boot und ein Teufelsrochen. Das Poolhaus mit Surfbrettern besteht dagegen aus 2 Geschossen und einem Pool
 - Ab Januar 2021 darfen Sie Sie auch auf weitere tolle LEGO Creator 3-in-1-Sets freuen: Cyber-Drohne (31111), Wilder Löwe (31112), Rennwagentransporter (31113) und Geländemotorrad (31114)
-- Dieses LEGO Spielset beinhaltet zudem einen Mann und eine Frau als Minifiguren, um Kinder spannende Strandabenteuer erleben zu lassen
-- Dieses 564-teilige LEGO Creator 3-in-1-Spielset bietet LEGO Fans ab 8 Jahren ein anspruchsvolles Bauerlebnis. Die Modelle begeistern als Geburtstags- oder Weihnachtsgeschenk
 - Das LEGO Creator 3-in-1-Bauset „Surfer-Strandhaus“ (31118) wird Kinder viele Stunden fesseln. Das Set beinhaltet eine Surfer-Hütte, einen Leuchtturm und ein Poolhaus
+- Dieses LEGO Spielset beinhaltet zudem einen Mann und eine Frau als Minifiguren, um Kinder spannende Strandabenteuer erleben zu lassen
 - Das LEGO Strandhaus ist 19 cm hoch, 17 cm breit und 15 cm tief. Diese stolze Größe macht das Modell zu einem echten Hingucker im Kinderzimmer
 - Die beiden Etagen der Surfer-Hütte sind mit Scharnieren versehen, um die Hütte aufklappen zu können. 3 Meeresbewohner aus LEGO Steinen – ein Delfin, eine Schildkröte und ein Schildkrötenbaby – bieten weitere Spieloptionen
 

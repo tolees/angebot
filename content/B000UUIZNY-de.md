@@ -28,10 +28,10 @@ Es gibt ein [LAMY 2000 Füllhalter 001 - Füller aus Polycarbonat und Edelstahl 
 
 ℹ️:
 
-- Der Kolbenfüllhalter mit einem Gehäuse aus Polycarbonat, der durch die Strichmattierung edel strahlt. Im Kontrast dazu die Edelstahl Zierteile. Die 14 Karat Goldfeder ist entsprechend platinveredelt
-- Lieferumfang: 1 x LAMY 2000 Füllhalter 001 in der Farbe Matt-Schwarz mit Federstärke F und Geschenketui
-- Freude verschenken: Der LAMY 2000 Füllfederhalter ist ideal für das Büro, die Uni oder die Schule und daher der passende Schreiber für jeden, der Wert auf klare Formen und Funktionalität legt
 - Als zeitloser Klassiker ist der LAMY 2000 Füllhalter noch heute eines der modernsten Schreibgeräte
+- Freude verschenken: Der LAMY 2000 Füllfederhalter ist ideal für das Büro, die Uni oder die Schule und daher der passende Schreiber für jeden, der Wert auf klare Formen und Funktionalität legt
+- Lieferumfang: 1 x LAMY 2000 Füllhalter 001 in der Farbe Matt-Schwarz mit Federstärke F und Geschenketui
+- Der Kolbenfüllhalter mit einem Gehäuse aus Polycarbonat, der durch die Strichmattierung edel strahlt. Im Kontrast dazu die Edelstahl Zierteile. Die 14 Karat Goldfeder ist entsprechend platinveredelt
 - Made in Germany - auf LAMY ist Verlass: Hohe Qualität gepaart mit einer großen Auswahl attraktiver Farben und unterschiedlicher Federbreiten fördern den individuellen Schreibstil
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000UUIZNY/?tag=tolees0ca-21)
