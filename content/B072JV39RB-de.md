@@ -28,15 +28,15 @@ Sie können [Apple Magic Keyboard mit Ziffernblock](https://www.amazon.de/dp/B07
 
 ℹ️:
 
-- Das Magic Keyboard mit Ziffernblock hat ein erweitertes Layout, mit Steuerelementen für die Navigation in Dokumenten zum schnellen Scrollen und normalgroßen Pfeiltasten für Spiele
-- Kabellos
-- Der Ziffernblock ist außerdem großartig für Tabellen und Finanzanwendungen.
-- Kompatibilität: iPhone, iPad, iPad Air, iPad Pro, iPad mini, MacBook, MacBook Air, MacBook Pro, iMac, iMac Pro, Mac Pro, et Mac mini
-- Und die integrierte, wiederaufladbare Batterie hat eine unglaubliche Laufzeit.
-- So kannst du es ungefähr einen Monat oder länger verwenden, bevor du es aufladen musst.
-- Zusammen mit einem optimierten Tastenhub und dem flachen Profil wird präzises Tippen angenehm und einfach.
-- Ein Scherenmechanismus unter jeder Taste sorgt für mehr Stabilität.
 - Bluetooth
+- Und die integrierte, wiederaufladbare Batterie hat eine unglaubliche Laufzeit.
+- Der Ziffernblock ist außerdem großartig für Tabellen und Finanzanwendungen.
 - Lightning Anschluss
+- Zusammen mit einem optimierten Tastenhub und dem flachen Profil wird präzises Tippen angenehm und einfach.
+- Kompatibilität: iPhone, iPad, iPad Air, iPad Pro, iPad mini, MacBook, MacBook Air, MacBook Pro, iMac, iMac Pro, Mac Pro, et Mac mini
+- So kannst du es ungefähr einen Monat oder länger verwenden, bevor du es aufladen musst.
+- Ein Scherenmechanismus unter jeder Taste sorgt für mehr Stabilität.
+- Kabellos
+- Das Magic Keyboard mit Ziffernblock hat ein erweitertes Layout, mit Steuerelementen für die Navigation in Dokumenten zum schnellen Scrollen und normalgroßen Pfeiltasten für Spiele
 
 [🛒 Hier!!](https://www.amazon.de/dp/B072JV39RB/?tag=tolees0ca-21)

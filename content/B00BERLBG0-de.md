@@ -28,9 +28,9 @@ Es gibt ein [Connemara getorfter Single Malt Irish Whisky  mit Geschenkverpackun
 
 ℹ️:
 
-- Nach irischer Tradition wird Connemara auch heute noch zweifach destilliert und die Gerste nach dem Mälzen über Torffeuer
-- Das besondere Geschenk für Liebhaber von leicht rauchigen und ausgewogenen Whiskeys. Connemara, der einzige getorfte Single Malt Whiskey aus Irland
-- So entsteht ein besonders ausgeglichener Whiskey mit milder Süße und intensiven, rauchigen Aromen
 - Die traditionelle Herstellungsweise ist mittlerweile eine Besonderheit, sodass Connemara heute der einzige getorfte Single Malt Whiskey aus Irland ist. Sehr weich im Geschmack mit Honignoten, Malz- und Fruchtaromen, gefolgt von einem vollmundigen Torfaroma
+- Das besondere Geschenk für Liebhaber von leicht rauchigen und ausgewogenen Whiskeys. Connemara, der einzige getorfte Single Malt Whiskey aus Irland
+- Nach irischer Tradition wird Connemara auch heute noch zweifach destilliert und die Gerste nach dem Mälzen über Torffeuer
+- So entsteht ein besonders ausgeglichener Whiskey mit milder Süße und intensiven, rauchigen Aromen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00BERLBG0/?tag=tolees0ca-21)
