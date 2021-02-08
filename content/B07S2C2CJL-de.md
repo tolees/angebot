@@ -28,7 +28,7 @@ Es gibt ein [ONLY Damen Onlblush Mid Sk ANK Raw JNS Rea0918 Noos Skinny Jeans  G
 
 ℹ️:
 
-- Skinny Ankle Jeans
 - Grau Skinnyjeans
+- Skinny Ankle Jeans
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07S2C2CJL/?tag=tolees0ca-21)
