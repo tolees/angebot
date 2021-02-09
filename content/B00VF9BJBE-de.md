@@ -28,11 +28,11 @@ Sie können [Jura Claris Smart-Filterpatrone  Grau  3 7 x 14 x 15 cm  3er pack](
 
 ℹ️:
 
+- Hinweis - Kondenzwasser in den Verpackungen ist vollkommen normal.
 - Für alle Jura-Vollautomaten bei welchen im Wassertank die Filterhalterung anthrazit ist.
 - Claris-Filterpatrone speziell für Jura-Espresso-/Kaffeemaschinen entwickelt.
-- Hinweis - Kondenzwasser in den Verpackungen ist vollkommen normal.
-- Direkte Befestigung im Wassertank.
 - Stets frisch gefiltertes Kaffeewasser vor jeder Zubereitung.
+- Direkte Befestigung im Wassertank.
 - Entkalken ist mit Claris-Filterpatronen gänzlich überflüssig.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00VF9BJBE/?tag=tolees0ca-21)

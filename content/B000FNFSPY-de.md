@@ -31,13 +31,13 @@ Es gibt ein [TP-Link TL-SF1005D 5-Port Fast Ethernet-/Netzwerk-/Lan Switch  10/1
 - 5 10/100Mbit/s-RJ45-Ports mit Autoabstimmung und Auto-MDI/MDIX
 - Green IT spart bis zu 60% Energie
 - IEEE802.3x-Durchflusssteuerung sorgt für eine zuverlässige Datenübertragung
-- Plastikgehäuse für Tischaufbau
+- Systemanforderungen: Microsoft Windows 10/8/2012/7/2008/Vista/2003/XP/2000/Me/NT/98/95/3.11; MacOS; NetWare; UNIX; Linux
 - Lieferumfang: 5-Port-10/100Mbps-Desktop-Switch, Spannungsadapter, Bedienungsanleitung
 - Plastikgehäuse für Tischaufbau; Plug-and-Play, keine Konfiguration notwendig, Betriebstemperatur: 0 ° C ~ 40 ° C.
-- Systemanforderungen: Microsoft Windows 10/8/2012/7/2008/Vista/2003/XP/2000/Me/NT/98/95/3.11; MacOS; NetWare; UNIX; Linux
-- 5 10/100Mbps-RJ45-Ports mit Autoabstimmung und Auto-MDI/MDIX
 - Lieferumfang: 5-Port-10/100Mbps-Desktop-Switch, Spannungsadapter, Bedienungsanleitung
 - IEEE802.3x-Durchflusssteuerung sorgt für eine zuverlässige Datenübertragung
 - Energiesparmodus: Automatische Abschaltung von LAN-Ports, an die inaktive Geräte angeschlossen sind
+- 5 10/100Mbps-RJ45-Ports mit Autoabstimmung und Auto-MDI/MDIX
+- Plastikgehäuse für Tischaufbau
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000FNFSPY/?tag=tolees0ca-21)

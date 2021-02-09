@@ -29,7 +29,7 @@ Sie können [Tommy Hilfiger Herren TOMMY FLAG HILFIGER TEE Sporttop Regular Fit 
 ℹ️:
 
 - Aufgesetzte Tommy-Streifen an Kragen
-- Aufgestickte Tommy Hilfiger Flagge an Ärmel
 - Tommy Hilfiger Logo auf Brust
+- Aufgestickte Tommy Hilfiger Flagge an Ärmel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07JYTYFTH/?tag=tolees0ca-21)

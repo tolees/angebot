@@ -28,10 +28,10 @@ Sie können [Joseph Joseph - Einstellbares Nudelholz  9 Einheiten - mehrfarbig](
 
 ℹ️:
 
-- Verstellbarer Teigroller aus Holz
-- Inklusive Messskala
-- Gleichmäßiges Ausrollen von Teig auf wahlweise 10 mm, 6 mm, 4 mm oder 2 mm
 - Spülmaschinenegeeignet
+- Gleichmäßiges Ausrollen von Teig auf wahlweise 10 mm, 6 mm, 4 mm oder 2 mm
+- Verstellbarer Teigroller aus Holz
 - Einfache Handhabung und Reinigung
+- Inklusive Messskala
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0091QO3RK/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [Faber-Castell 110926 - Buntstift Jumbo Grip  permanentkarmin](https
 
 ℹ️:
 
-- Stärke der Mine 4
-- Schaft aus Holz
 - mit Soft-Grip-Zone
 - wasservermalbar
+- Schaft aus Holz
+- Stärke der Mine 4
 - ergonomische Dreieckform
 
 [🛒 Hier!!](https://www.amazon.de/dp/B000OZK5TM/?tag=tolees0ca-21)
