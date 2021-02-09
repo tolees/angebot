@@ -28,10 +28,10 @@ Es gibt ein [Bosch Professional 10tlg. Stichsägeblatt-Set Robust Line  Wood und
 
 ℹ️:
 
+- Für jede Anwendung das richtige Stichsägeblatt
 - Sägeblattbezeichnungen: Clean for: Schneidet fein und sauber; Flexible for: Bruchfest, lange Lebensdauer; Progressor for: Schnell durch dick und dünn; Speed for: Für den schnellen Zuschnitt
-- Verwendete Materialien der Sägeblätter: Bimetall (BIM), für höchste Ansprüche; Kohelnstoffstahl (HCS) für den Einsatz in weicheren Materialien; Vollgehärteter Hochleistungs-Schnellschnittstahl (HSS) für den Einsatz in härteren Materialien
 - Für werkzeuglosen Sägeblatt-Wechsel dank Bosch SDS-System
 - Je 1x T 244 D Speed for Wood / T 144 D Speed for Wood / T 101 AO Clean for Wood / T 101 B Clean for Wood / T 101 AOF Clean for Hard Wood / T 101 BF Clean for Hard Wood / T 118 EOF Flexible for Metal / T 118 AF Flexible for Metal / T 118 BF Flexible for Metal / T 123 X Progressor for Metal
-- Für jede Anwendung das richtige Stichsägeblatt
+- Verwendete Materialien der Sägeblätter: Bimetall (BIM), für höchste Ansprüche; Kohelnstoffstahl (HCS) für den Einsatz in weicheren Materialien; Vollgehärteter Hochleistungs-Schnellschnittstahl (HSS) für den Einsatz in härteren Materialien
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001IBMNU0/?tag=tolees0ca-21)
