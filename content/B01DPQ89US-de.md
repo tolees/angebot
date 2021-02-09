@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony KDL-32WD755 80 cm  32 Zoll  Fernseh mit 34.87 % Rabatt'
-date: 2021-01-25 00:53:59
+date: 2021-02-09 18:56:37
 image: 'https://m.media-amazon.com/images/I/512SF1Ew6GL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'Sony KDL-32WD755 80 cm  32 Zoll  Fernseher  Full HD  HD Triple Tuner  Smart-TV  Schwarz'
 country: 'de'
 flag: '🇩🇪'
+brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B01DPQ89US/?tag=tolees0ca-21'
 descuento: '34.87'
 average: '325.0'
@@ -27,10 +28,10 @@ Sie können [Sony KDL-32WD755 80 cm  32 Zoll  Fernseher  Full HD  HD Triple Tune
 
 ℹ️:
 
-- USB-Aufnahmefunktion: Programmieren Sie Ihren Fernseher und zeichnen Sie Fernsehsendungen auf einer externen Festplatte auf
-- Edles Aluminium-Design: Ideal für die Wandmontage. Die kompakte Bauweise und der schmale Rahmen ermöglichen den uneingeschränkten Blick auf das Wesentliche: das Bild
-- Mit X-Reality PRO erleben Sie ein außergewöhnlich klares und detailscharfes Bild, bei allem was Sie sich anschauen
-- Smart TV-mehr als einfach nur Fernsehen: Ob Ihre Lieblingsclips auf YouTube, TV-Serien aus verschiedenen Mediatheken, Filme von Netflix, Amazon Video, Maxdome oder anderen Apps: Sie bestimmen, was und wann Sie es sehen wollen
 - Lieferumfang: Sony KDL-32WD755 80 cm (32 Zoll) Fernseher
+- Edles Aluminium-Design: Ideal für die Wandmontage. Die kompakte Bauweise und der schmale Rahmen ermöglichen den uneingeschränkten Blick auf das Wesentliche: das Bild
+- Smart TV-mehr als einfach nur Fernsehen: Ob Ihre Lieblingsclips auf YouTube, TV-Serien aus verschiedenen Mediatheken, Filme von Netflix, Amazon Video, Maxdome oder anderen Apps: Sie bestimmen, was und wann Sie es sehen wollen
+- USB-Aufnahmefunktion: Programmieren Sie Ihren Fernseher und zeichnen Sie Fernsehsendungen auf einer externen Festplatte auf
+- Mit X-Reality PRO erleben Sie ein außergewöhnlich klares und detailscharfes Bild, bei allem was Sie sich anschauen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01DPQ89US/?tag=tolees0ca-21)

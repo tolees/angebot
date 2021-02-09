@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Der wunderbare Mr. Rogers [Blu-ray] mit 18.26 % Rabatt'
-date: 2021-02-08 00:47:22
+date: 2021-02-09 19:21:22
 image: 'https://m.media-amazon.com/images/I/51THza54Y2L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B08HG9NNDM/?tag=tolees0ca-21'
 descuento: '18.26'
-average: '13.6440000000001'
+average: '13.5525000000001'
 ---
 
 Sie können [Der wunderbare Mr. Rogers [Blu-ray]](https://www.amazon.de/dp/B08HG9NNDM/?tag=tolees0ca-21) mit Preis 12.18 EUR (original: 14.9 EUR) 18.26 % Rabatt hier:
