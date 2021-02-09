@@ -28,10 +28,10 @@ Es gibt ein [Asus USB-BT400 Nano Bluetooth Stick  PS4 und Xbox One Controller am
 
 ℹ️:
 
-- Bluetooth 4.0-Adapter - abwärtskompatibel zu Bluetooth 2.0/2.1/3.0
-- Lieferumfang: Asus USB-BT400 Nano Bluetooth-Stick schwarz
+- Kompatibel zu den Betriebssystemen Windows 10 / 8 / 7 und XP (32/64 Bit) und Linux und mac OS Sierra
 - Bluetooth Lösung zur Nutzung des PS4 und Xbox One Controllers am PC
 - Das Mutlitalent ermöglicht die drahtlose Verbindung zu Bluetooth-fähigen PCs, Druckern, Telefonen, Headsets, Lautsprechern, Tastaturen, Controllern u.v.m
-- Kompatibel zu den Betriebssystemen Windows 10 / 8 / 7 und XP (32/64 Bit) und Linux und mac OS Sierra
+- Lieferumfang: Asus USB-BT400 Nano Bluetooth-Stick schwarz
+- Bluetooth 4.0-Adapter - abwärtskompatibel zu Bluetooth 2.0/2.1/3.0
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00CM83SC0/?tag=tolees0ca-21)
