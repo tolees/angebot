@@ -31,7 +31,7 @@ Es gibt ein [LEGO 75269 Star Wars Duell auf Mustafar  Die Rache der Sith  Spiels
 - Zum Zubehör gehören zwei Lichtschwerter sowie Flammen und andere schweißrote Lavaelemente, um eine Lavaexplosion vorzutäuschen
 - Plattformen drehen und verschieben sich und das Modell lässt sich für aufregende Lichtschwert-Duelle ausklappen. Kinder können geschmolzene Lava-Elemente für glühende Lava-Action schießen
 - Verfügt über eine ausklappbare Mustafar-Mine mit Lava-Explosionsfunktion und verschiebbaren und drehbaren Plattformen für der Kampf der Minifiguren
-- Mit der digitalen Anleitung Instructions PLUS, die in der kostenlosen LEGO Life-App verfügbar ist, können Kinder heranzoomen, drehen und anzeigen, während sie das echte Modell bauen
 - Beinhaltet zwei LEGO Star Wars Minifiguren: Anakin Skywalker und Obi-Wan Kenobi mit Lichtschwertern
+- Mit der digitalen Anleitung Instructions PLUS, die in der kostenlosen LEGO Life-App verfügbar ist, können Kinder heranzoomen, drehen und anzeigen, während sie das echte Modell bauen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07W7TN6HQ/?tag=tolees0ca-21)

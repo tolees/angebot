@@ -28,10 +28,10 @@ Es gibt ein [Grohe Handbrause 1 Jet Sena Trigger Spray 26328000  Import Deutschl
 
 ℹ️:
 
-- Universal-Befestigungssystem: verbindet sich mit allen-Brauseschläuchen
-- Starlight Chrom und langlebiger
-- Mit Kalkschutz SpeedClean
 - Form Metall
 - Mit Abzugshebel
+- Universal-Befestigungssystem: verbindet sich mit allen-Brauseschläuchen
+- Mit Kalkschutz SpeedClean
+- Starlight Chrom und langlebiger
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01A5VJSF6/?tag=tolees0ca-21)

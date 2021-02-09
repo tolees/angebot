@@ -28,7 +28,7 @@ Sie können [ONLY Damen Onlsedona Light Coat Otw Noos Mantel  Schwarz  Black Bla
 
 ℹ️:
 
-- Kapuze
 - XS-XXL
+- Kapuze
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0714GP1SH/?tag=tolees0ca-21)
