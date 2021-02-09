@@ -29,9 +29,9 @@ Es gibt ein [Dekoback 04-10-00169 - Kuchenkerze "Star Wars - Darth Vader" Kerzen
 ℹ️:
 
 - Höhe: ca.7cm
-- Mit Abbrennschutz
 - Kuchenkerze Darth Vader 3D
-- Lebensmittelecht
 - Dekoback Kuchenkerzen - der leuchtende trendige Schmuck für jeden Geburtstag und jede Party
+- Mit Abbrennschutz
+- Lebensmittelecht
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B006FIL0ZU/?tag=tolees0ca-21)

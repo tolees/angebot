@@ -28,10 +28,10 @@ Es gibt ein [TFA Dostmann Analoges Maxima-Minima-Thermometer  10.3014.14  wetter
 
 ℹ️:
 
-- Wetterfest: Das Thermometer ist wetterfest und ideal für den Garten, die Landwirtschaft, aber auch dem Gewächshaus, Weinkeller oder Lagerraum
-- Kapillare: Das Max Min Thermometer enthält eine quecksilberfreie, patentierte Flüssigkeit, bei Spaltung dieser Flüssigkeit bitte Anleitung folgen
 - Anzeige: Aussenthermometer zeigt drei Werte gleichzeitig an; die aktuelle Temperatur, die Gutetemperatur und die tiefste Temperatur
-- Temperatur: Thermometer für innen und aussen, immer die aktuelle Temperatur im Blick haben; Rückstellung durch Drucktaste möglich
+- Kapillare: Das Max Min Thermometer enthält eine quecksilberfreie, patentierte Flüssigkeit, bei Spaltung dieser Flüssigkeit bitte Anleitung folgen
 - Qualität: Hergestellt in Deutschland, das Analog Thermometer ist wetterfest; kann bei jedem Wetter draußen bleiben, hochwertiges Thermometer
+- Wetterfest: Das Thermometer ist wetterfest und ideal für den Garten, die Landwirtschaft, aber auch dem Gewächshaus, Weinkeller oder Lagerraum
+- Temperatur: Thermometer für innen und aussen, immer die aktuelle Temperatur im Blick haben; Rückstellung durch Drucktaste möglich
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004TWWU8A/?tag=tolees0ca-21)

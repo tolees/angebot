@@ -28,9 +28,9 @@ Es gibt ein [Amigo Spiele 3910 - Lobo 77](https://www.amazon.de/dp/B00006YYXC/?t
 
 ℹ️:
 
-- Spieldauer: ca. 30 Min
-- Spiel Gut Auszeichnung: Ja
-- Warnhinweis: Achtung! Nicht für Kinder unter 36 Monaten geeignet
 - Sprache Spielanleitung: DE
+- Spiel Gut Auszeichnung: Ja
+- Spieldauer: ca. 30 Min
+- Warnhinweis: Achtung! Nicht für Kinder unter 36 Monaten geeignet
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00006YYXC/?tag=tolees0ca-21)
