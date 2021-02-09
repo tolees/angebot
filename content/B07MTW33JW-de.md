@@ -28,10 +28,10 @@ Sie können [Philips Barttrimmer BT5502/15  40 verschiedene Looks  0 4 - 20 mm  
 
 ℹ️:
 
+- Akkuleistung: bis zu 90 Min. | Lieferumfang: Bartschneider, 2 Bartkämme, Reisebeutel
 - Gleichmäßiges Trimmen in nur einem Zug dank Lift und Trim Pro System
+- Komplett abwaschbar für eine einfache Reinigung
 - Langanhaltende Schneideleistung dank selbstschärfender Metallklingen
 - 40 verschiedene Längeneinstellungen (0,4 mm - 20 mm), präzise einstellbar für jeden Bartstyle
-- Komplett abwaschbar für eine einfache Reinigung
-- Akkuleistung: bis zu 90 Min. | Lieferumfang: Bartschneider, 2 Bartkämme, Reisebeutel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MTW33JW/?tag=tolees0ca-21)
