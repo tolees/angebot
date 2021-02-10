@@ -28,10 +28,10 @@ Sie können [eufy Security eufyCam 2C  kabelloses Sicherheitssystem  180 Tage Ak
 
 ℹ️:
 
-- 180 TAGE AKKULAUFZEIT: Ihre Überwachungskamera dient Ihnen nach einem Aufladen ein halbes Jahr lang!
 - FULL HD QUALITÄT: 1080p Auflösung stellt sicher, dass jede Aufnahme kristallklar aufgezeichnet wird. Das 135° Weitwinkelobjektiv garantiert eine glasklare Panoramaansicht - von der Garage bis zur Haustüre ist alles mit dabei.
-- TAG UND NACHT: Unsere fortschrittliche Nachtsicht-Technologie garantiert, dass Ihr Zuhause tagsüber und vor allem nachts absolut geschützt ist.
 - ABSOLUT WETTERFEST: Dank der IP67-Wasserschutzklasse hält Ihre eufyCam 2C so gut wie alles aus, Sommerhitze, Regen und sogar den deutschen Winter!
+- 180 TAGE AKKULAUFZEIT: Ihre Überwachungskamera dient Ihnen nach einem Aufladen ein halbes Jahr lang!
+- TAG UND NACHT: Unsere fortschrittliche Nachtsicht-Technologie garantiert, dass Ihr Zuhause tagsüber und vor allem nachts absolut geschützt ist.
 - PERSONENERKENNUNG: eufyCam 2C erkennt Vögel, Hunde und Blätter im Wind und reduziert falschen Alarm um 95%, damit Sie wirklich nur im richtigen Moment alarmiert werden.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W4MY7HL/?tag=tolees0ca-21)
