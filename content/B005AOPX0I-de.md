@@ -28,8 +28,8 @@ Es gibt ein [Nike Herren Air Max Invigor Laufschuhe  Schwarz / Schwarz-Anthrazit
 
 ℹ️:
 
-- Größe - 42
 - Ref - 749680-001
+- Größe - 42
 - Marke - Nike
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B005AOPX0I/?tag=tolees0ca-21)
