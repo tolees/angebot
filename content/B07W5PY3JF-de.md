@@ -28,10 +28,10 @@ Sie können [LEGO 76150 Super Heroes Spiderjet vs. Venom Mech Spielset mit Spide
 
 ℹ️:
 
+- Verfügt über einen furchterregenden, schwarzen 4-armigen Mech mit sich öffnendem Cockpit und beweglichen Armen und Beinen sowie über das Düsenflugzeug von Spider-Man Noir mit den mit Bolzen geladenen Geschützen
+- Enthält 3 Minifiguren: Spider-Man, den bösen Außerirdischen Venom, und Spider-Man Noir, damit die Superhelden siegen können
 - Kinder können mit den Geschützen des Jets mit Scheiben schießen und die Raketen mit einer Druckknopf-Funktion abfeuern, um einen Jet-Angriff auf Venoms Mech zu starten
 - Kinder können die Arme und Beine des Mechs zur Action positionieren oder eine Pose zur Schau stellen. Das Cockpit öffnet sich, damit die Venom-Minifigur eindringen kann
-- Verfügt über einen furchterregenden, schwarzen 4-armigen Mech mit sich öffnendem Cockpit und beweglichen Armen und Beinen sowie über das Düsenflugzeug von Spider-Man Noir mit den mit Bolzen geladenen Geschützen
 - Dieses einfach zu bauende Set kann einfach zusammengebaut oder mithilfe der beigefügten Anleitung verwendet werden. Der Mech sieht in Kinderzimmern hervorragend aus
-- Enthält 3 Minifiguren: Spider-Man, den bösen Außerirdischen Venom, und Spider-Man Noir, damit die Superhelden siegen können
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W5PY3JF/?tag=tolees0ca-21)
