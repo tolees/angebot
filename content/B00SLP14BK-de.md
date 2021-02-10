@@ -28,15 +28,15 @@ Es gibt ein [Samyang 35/1 5 Objektiv Video DSLR II Canon EF manueller Fokus Vide
 
 ℹ️:
 
-- Blendenring und Fokusring mit Zahnkranz für Schärfezieheinrichtungen (Follow Focus-Systeme), Gear, 0,8mm Zahnkranz
-- Entfernungs- und Blendenskala seitlich angeordnet
-- Manulle Fokussierung, Videoobjektiv für 4K geeignet, hervorragendes Weitwinkelobjektiv für die Reportage- und Landschaftsvideografie
-- Speziell für APSC-Kameras bis hin zu Vollformat-Kameras
 - Manuell fokussierendes Video-Objektiv 35mm T1.5
-- Entkoppelte, stufenlose Fokusnachführung und Blendeneinstellung mit Zahnkranz (0,8 mm)
-- Samyang 35mm T1.5 VDSLR AS UMC II für Anschluss Canon; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel; Anleitung
-- Weitwinkel-Objektiv, 35 mm F15, geeignet für Vollformat und APS-C
-- Lieferumfang : Samyang 35 mm T1.5 VDSLR II für Anschluss Canon EF, Sonnenblende, Schutzdeckel für Linse und Anschlussgewinde, Objektivschutzbeutel, Anleitung
+- Manulle Fokussierung, Videoobjektiv für 4K geeignet, hervorragendes Weitwinkelobjektiv für die Reportage- und Landschaftsvideografie
 - Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon.de. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
+- Samyang 35mm T1.5 VDSLR AS UMC II für Anschluss Canon; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel; Anleitung
+- Lieferumfang : Samyang 35 mm T1.5 VDSLR II für Anschluss Canon EF, Sonnenblende, Schutzdeckel für Linse und Anschlussgewinde, Objektivschutzbeutel, Anleitung
+- Weitwinkel-Objektiv, 35 mm F15, geeignet für Vollformat und APS-C
+- Blendenring und Fokusring mit Zahnkranz für Schärfezieheinrichtungen (Follow Focus-Systeme), Gear, 0,8mm Zahnkranz
+- Speziell für APSC-Kameras bis hin zu Vollformat-Kameras
+- Entfernungs- und Blendenskala seitlich angeordnet
+- Entkoppelte, stufenlose Fokusnachführung und Blendeneinstellung mit Zahnkranz (0,8 mm)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00SLP14BK/?tag=tolees0ca-21)

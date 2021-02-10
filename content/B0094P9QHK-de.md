@@ -28,10 +28,10 @@ Sie können [Epson Original 24 Tinte Elefant  XP-750 XP-850 XP-950 XP-55 XP-760 
 
 ℹ️:
 
-- Kompatibel mit XP-750, XP-850, XP-950, XP-55, XP-760, XP-860, XP-960, XP-970
 - Einzelpatronen - nur die verbrauchte Farbe ersetzen
 - Niedrigere Druckkosten dank der Auswahl an Standard und XL-Tintenpatronen
-- Tinte von Epson ist für Epson Drucker optimiert
 - 6-Farb System für sanfte Tonwertabstufungen und tiefere, natürlichere Schwarztöne sowie kontrastreiche Fotos mit natürlichen Hauttönen
+- Tinte von Epson ist für Epson Drucker optimiert
+- Kompatibel mit XP-750, XP-850, XP-950, XP-55, XP-760, XP-860, XP-960, XP-970
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0094P9QHK/?tag=tolees0ca-21)

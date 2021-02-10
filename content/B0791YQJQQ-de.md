@@ -28,8 +28,8 @@ Sie können [Tommy Hilfiger Herren CORE TOMMY REGULAR POLO Poloshirt  Schwarz  F
 
 ℹ️:
 
-- Teile tierischen Ursprungs: Nein
 - Material: Obermaterial: 100% Baumwolle
+- Teile tierischen Ursprungs: Nein
 - Pflegehinweise: Bügeln mit einer Höchsttemperatur der Bügeleisensohle von 150 °C; Trocknen auf der Wäscheleine im Schatten; Nur Sauerstoffbleiche (keine Chlorbleiche) erlaubt; Spezialschonwaschgang 40°; Professionelle Trockenreinigung mit Perchlorethylen und/oder Kohlenwasserstoffen, normaler Prozess
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0791YQJQQ/?tag=tolees0ca-21)

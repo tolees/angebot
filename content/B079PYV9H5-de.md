@@ -28,10 +28,10 @@ Sie können [AEG ASKVX9 Performance Kit  Beutel & Filter  4 original s-bag XXL-S
 
 ℹ️:
 
-- Original s-fresh Duftgranulat Limette (ASMA): 4 Sachets - einfach auf den Boden streuen und aufsaugen für einen wohltuenden Geruch
+- Original s-bag GR210S: Leistungsfähiger 5 Liter Synthetik Staubbeutel - Patentierter Hygieneverschluss, Seitenfaltung für mehr Volumen - TÜV geprüft auf Saugleistung, Nutzungsdauer, Filterwirkung
 - Praktischer Lieferumfang: 4x original Staubbeutel GR210S, 1x Motorfilter, 1x D11 Hygienefilter, 4x s-fresh Zitrus Duftgranulat - passend für über 70 Staubsauger-Baureihen der Marken AEG und Philips
 - Motorfilter: wir empfehlen, Filter mindestens 1x jährlich oder bei deutlicher Verschmutzung auszutauschen um die Lebensdauer Ihres Staubsaugers zu verlängern
 - Hygienefilter: Waschbar - sorgt für spürbar bessere Luft - dauerhaft anhaltende Saugleistung, Anstieg der Saugkraft bei Filterwechsel
-- Original s-bag GR210S: Leistungsfähiger 5 Liter Synthetik Staubbeutel - Patentierter Hygieneverschluss, Seitenfaltung für mehr Volumen - TÜV geprüft auf Saugleistung, Nutzungsdauer, Filterwirkung
+- Original s-fresh Duftgranulat Limette (ASMA): 4 Sachets - einfach auf den Boden streuen und aufsaugen für einen wohltuenden Geruch
 
 [🛒 Hier!!](https://www.amazon.de/dp/B079PYV9H5/?tag=tolees0ca-21)
