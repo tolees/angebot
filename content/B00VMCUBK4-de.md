@@ -29,7 +29,7 @@ Es gibt ein [HyperX Impact HX318LS11IBK2/16 Arbeitsspeicher 1866 MHz DDR3L CL11 
 ℹ️:
 
 - Mit automatischem Plug-and-Play übertaktet HyperX Fury DDR4 mit der höchsten für das System-BIOS zulässigen Geschwindigkeit
-- Werkseitig zu 100% auf Geschwindigkeit geprüft
 - Plug-and-Play-Funktionalität
+- Werkseitig zu 100% auf Geschwindigkeit geprüft
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00VMCUBK4/?tag=tolees0ca-21)

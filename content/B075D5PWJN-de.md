@@ -29,9 +29,9 @@ Sie können [Britax Römer Reboarder Kindersitz 0 - 4 Jahre | 0 - 18 kg | FIRST 
 ℹ️:
 
 - Passt in die meisten Autos – Einbau mit dem 3-Punkt-Gurt des Fahrzeugs
-- Rückwärtsgerichteter Einbau von Geburt bis 13 kg und vorwärtsgerichtete Verwendung von 9 bis 18 kg
 - Made in Britain
 - Herausnehmbarer Neugeborenen-Einsatz für eine komfortable und ergonomische Liegeposition
 - Interaktives Gurtsystem – CLICK & SAFE
+- Rückwärtsgerichteter Einbau von Geburt bis 13 kg und vorwärtsgerichtete Verwendung von 9 bis 18 kg
 
 [🛒 Hier!!](https://www.amazon.de/dp/B075D5PWJN/?tag=tolees0ca-21)

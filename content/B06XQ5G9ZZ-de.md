@@ -28,8 +28,8 @@ Sie können [Corsair K63 Tastatur USB QWERTY UK Englisch Schwarz - Tastaturen  V
 
 ℹ️:
 
-- qwerty Englisch
 - Per-Taste, liefern rote LED-Hintergrundbeleuchtung und große Schrift Tastenkuppen lebendige Lichteffekte
 - Kompakt, zehn Keyless-Design für die Optimierung der Platz auf dem Schreibtisch und Mobilität
+- qwerty Englisch
 
 [🛒 Hier!!](https://www.amazon.de/dp/B06XQ5G9ZZ/?tag=tolees0ca-21)
