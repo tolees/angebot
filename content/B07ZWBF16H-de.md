@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.02 % rabat auf Universal Pictures - Last Christmas'
-date: 2021-02-08 00:41:51
+date: 2021-02-10 13:35:20
 image: 'https://m.media-amazon.com/images/I/51dD21np9cL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Universal Pictures'
 buyurl: 'https://www.amazon.de/dp/B07ZWBF16H/?tag=tolees0ca-21'
 descuento: '16.02'
-average: '8.10191489361701'
+average: '8.04510204081632'
 ---
 
 Es gibt ein [Universal Pictures - Last Christmas](https://www.amazon.de/dp/B07ZWBF16H/?tag=tolees0ca-21) mit aktuellem Preis 6.71 EUR (original: 7.99 EUR) 16.02 % Rabatt hier:
