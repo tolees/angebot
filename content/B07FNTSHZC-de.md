@@ -28,10 +28,10 @@ Sie können [LEGO 10902 DUPLO Polizeistation mit Polizeiauto  Gefängniszelle un
 
 ℹ️:
 
-- Auf Knopfdruck kannst du die Licht- und Geräuscheffekte des Polizeiautos aktivieren.
-- Enthält 3 LEGO DUPLOFiguren: 2 Polizisten und 1 Räuber.
-- Mit einer einfach zu bauenden Polizeistation mit aufklappbarer Zellentür und Spielzeug-Polizeiauto mit Licht- und Geräuscheffekten.
 - Als Zubehörelemente sind eine Tasse sowie als Donuts und Überwachungskamera bedruckte Steine enthalten.
+- Mit einer einfach zu bauenden Polizeistation mit aufklappbarer Zellentür und Spielzeug-Polizeiauto mit Licht- und Geräuscheffekten.
+- Enthält 3 LEGO DUPLOFiguren: 2 Polizisten und 1 Räuber.
 - Nehme den Räuber und wirf ihn in die Gefängniszelle der Spielzeug-Polizeistation.
+- Auf Knopfdruck kannst du die Licht- und Geräuscheffekte des Polizeiautos aktivieren.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FNTSHZC/?tag=tolees0ca-21)
