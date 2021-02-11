@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '27.11 % rabat auf LEGO 42100 Technic Liebherr Bagger R 980'
-date: 2021-02-09 13:49:40
+date: 2021-02-11 01:16:12
 image: 'https://m.media-amazon.com/images/I/516ASeai0xL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07NDBGW4G/?tag=tolees0ca-21'
 descuento: '27.11'
-average: '322.366395348836'
+average: '322.398901734103'
 ---
 
 Es gibt ein [LEGO 42100 Technic Liebherr Bagger R 9800  App-gesteuertes Konstruktionsspielzeug für Fortgeschrittene mit Smarthub und interaktiven Motoren](https://www.amazon.de/dp/B07NDBGW4G/?tag=tolees0ca-21) mit aktuellem Preis 327.99 EUR (original: 449.99 EUR) 27.11 % Rabatt hier:
@@ -31,7 +31,7 @@ Es gibt ein [LEGO 42100 Technic Liebherr Bagger R 9800  App-gesteuertes Konstruk
 - Auswahl zwischen 4 Kontrollbildschirmen, um den Ausleger und die Schaufel zu steuern und Echtzeit-Rückmeldungen zu erhalten, wie z. B. den Stromverbrauch und Entfernungen
 - Der Liebherr Bagger R 9800 von LEGO Technic ist 39 cm hoch, 65 cm lang und 27 cm breit. Für kreativen Bauspaß kann er mit allen anderen LEGO Originalsets und LEGO Steinen verwendet werden
 - Beim Zusammenbauen und Spielen des Liebherr Bagger R 9800 von LEGO Technic mit authentischen Details und fortschrittlicher App-Technologie erlangen Baumeister weitere Kenntnisse der Konstruktion
-- Das 4.108-teilige Modell Liebherr Bagger R 9800 (42100) von LEGO Technic mit originalgetreuen Details und einer authentischen Farbgestaltung ist das ideale Geschenk für Kinder ab 12 Jahren
 - Das Hightech-Konstruktionsspielzeug wird durch 2 fortschrittliche Smarthubs mit 7 Motoren angetrieben und über die LEGO Technic Control+ App gesteuert
+- Das 4.108-teilige Modell Liebherr Bagger R 9800 (42100) von LEGO Technic mit originalgetreuen Details und einer authentischen Farbgestaltung ist das ideale Geschenk für Kinder ab 12 Jahren
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07NDBGW4G/?tag=tolees0ca-21)

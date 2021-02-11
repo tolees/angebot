@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '16.91 % rabat auf LEGO 75954 Harry Potter Die große Halle '
-date: 2021-02-10 00:44:13
+title: '17.96 % rabat auf LEGO 75954 Harry Potter Die große Halle '
+date: 2021-02-11 01:17:52
 image: 'https://m.media-amazon.com/images/I/512WyegAHQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: ring
 slug: 'B0792RDN2V-de LEGO 75954 Harry Potter Die große Halle von Hogwarts...'
 sku: 'B0792RDN2V-de'
 tags: [  ]
-actualPrice: 80.99 EUR
+actualPrice: 79.96 EUR
 currency: EUR
-price: 80.99
+price: 79.96
 comparePrice: 97.47 EUR
 prodname: 'LEGO 75954 Harry Potter Die große Halle von Hogwarts  Geschenksidee für Zauberwelt-Fans  Bauset für Kinder'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0792RDN2V/?tag=tolees0ca-21'
-descuento: '16.91'
-average: '81.9609032258063'
+descuento: '17.96'
+average: '81.9480769230768'
 ---
 
-Es gibt ein [LEGO 75954 Harry Potter Die große Halle von Hogwarts  Geschenksidee für Zauberwelt-Fans  Bauset für Kinder](https://www.amazon.de/dp/B0792RDN2V/?tag=tolees0ca-21) mit aktuellem Preis 80.99 EUR (original: 97.47 EUR) 16.91 % Rabatt hier:
+Es gibt ein [LEGO 75954 Harry Potter Die große Halle von Hogwarts  Geschenksidee für Zauberwelt-Fans  Bauset für Kinder](https://www.amazon.de/dp/B0792RDN2V/?tag=tolees0ca-21) mit aktuellem Preis 79.96 EUR (original: 97.47 EUR) 17.96 % Rabatt hier:
 
 [![LEGO 75954 Harry Potter Die große Halle ](https://m.media-amazon.com/images/I/512WyegAHQL._SL200_.jpg)](https://www.amazon.de/dp/B0792RDN2V/?tag=tolees0ca-21)
 
 ℹ️:
 
 - Die große Halle von Hogwarts ist über 37 cm hoch, 30 cm breit und 18 cm tief.
-- Drehe Quirinus Quirrells Kopf und verwandle ihn so in Lord Voldemort!
-- Die Zubehörteile beinhalten 7 Zauberstäbe, 3 Bechergläser, einen Schirm, eine Laterne, einen Besen, den Sprechenden Hut, Kessel, Zaubertränke, Kerzen, 2 Hexenbesen, Lebensmittel, einen Pokal, einen Teekessel, Truhe und eine Spinne.
-- Der vierstöckige Turm verfügt im Erdgeschoss über eine bewegliche Wendeltreppe, ein Zaubertränke-Klassenzimmer, ein Schatzzimmer mit Truhe und ein Turmzimmer mit dem Spiegel Nerhegeb mit austauschbaren Bildern und Schlafplatz für Fawkes.
 - Die große Halle ist mit Tischen, Lehrertisch mit Stühlen, Kamin, 2 doppelseitigen Hausbannern und 4 „schwebenden“ Kerzen, Lebensmitteln (Truthahnkeule, Eiscreme und einem kleinen Kuchen), Besen, einem Pokal und einem Teekessel ausgestattet.
+- Die Zubehörteile beinhalten 7 Zauberstäbe, 3 Bechergläser, einen Schirm, eine Laterne, einen Besen, den Sprechenden Hut, Kessel, Zaubertränke, Kerzen, 2 Hexenbesen, Lebensmittel, einen Pokal, einen Teekessel, Truhe und eine Spinne.
+- Drehe Quirinus Quirrells Kopf und verwandle ihn so in Lord Voldemort!
+- Der vierstöckige Turm verfügt im Erdgeschoss über eine bewegliche Wendeltreppe, ein Zaubertränke-Klassenzimmer, ein Schatzzimmer mit Truhe und ein Turmzimmer mit dem Spiegel Nerhegeb mit austauschbaren Bildern und Schlafplatz für Fawkes.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0792RDN2V/?tag=tolees0ca-21)

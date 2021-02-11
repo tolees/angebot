@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Pictures Home Entertainment - Der w mit 21.56 % Rabatt'
-date: 2021-02-10 00:39:02
+date: 2021-02-11 01:14:33
 image: 'https://m.media-amazon.com/images/I/51hetxRYGmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony Pictures Home Entertainment'
 buyurl: 'https://www.amazon.de/dp/B08HG9MRBQ/?tag=tolees0ca-21'
 descuento: '21.56'
-average: '11.8755172413794'
+average: '11.759677419355'
 ---
 
 Sie können [Sony Pictures Home Entertainment - Der wunderbare Mr. Rogers](https://www.amazon.de/dp/B08HG9MRBQ/?tag=tolees0ca-21) mit Preis 10.08 EUR (original: 12.85 EUR) 21.56 % Rabatt hier:
