@@ -28,10 +28,10 @@ Es gibt ein [Gardena Ersatzfadenspule: Austauschbare Fadenspule für Gardena Tur
 
 ℹ️:
 
-- Passender Ersatz: Geeignet für den GARDENA Turbotrimmer Art.-Nr. 9811
-- Einfach ausgewechselt: Mit wenigen Handgriffen wird die Rasentrimmer-Spule ausgetauscht
-- Lieferumfang beinhaltet: 1x GARDENA Ersatzfadenspule
 - Immer Nachschub: Der 4 m-Trimmerfaden bietet stetigen Ersatz
+- Lieferumfang beinhaltet: 1x GARDENA Ersatzfadenspule
 - Sauberer Schnitt: Der Mähfaden schneidet das Gras mit maximaler Präzision
+- Einfach ausgewechselt: Mit wenigen Handgriffen wird die Rasentrimmer-Spule ausgetauscht
+- Passender Ersatz: Geeignet für den GARDENA Turbotrimmer Art.-Nr. 9811
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00PNUCKW8/?tag=tolees0ca-21)
