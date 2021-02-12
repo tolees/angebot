@@ -28,10 +28,10 @@ Sie können [Durex Play Perfect Glide Gleitgel auf Silikonbasis – Seidig-glatt
 
 ℹ️:
 
-- LIEFERUMFANG: 1 x 100ml "Play Perfect Glide" Erlebnis Gel von Durex / Für vaginalen und analen Geschlechtsverkehr geeignet / Silikonbasiertes Gleitmittel
-- FEUCHTFRÖHLICH: Das Gleitgel ist mit seiner auf Silikon basierenden Formel sanft zur Haut und eignet sich dank seiner guten Gleitfähigkeit besonders für den Analverkehr
-- FÜR RICHTIG GUTEN SEX GEMACHT: Durex Gleitgele können Symptome vaginaler Trockenheit lindern und daher die Geschmeidigkeit und den Spaß am Sex steigern.
 - MEHR ZEIT FÜRS WICHTIGE: Das Durex Perfect Glide Gel überzeugt durch seine extrem lange Gleitfähigkeit - die Silikonbasis vermeidet häufige Unterbrechungen während des Liebesspiels
+- FÜR RICHTIG GUTEN SEX GEMACHT: Durex Gleitgele können Symptome vaginaler Trockenheit lindern und daher die Geschmeidigkeit und den Spaß am Sex steigern.
 - EFFEKTIVE WIRKUNG: Anders als wasserbasierende Gleitmittel bietet die Silikonbasis eine längere Wirkung - das Perfect Glide ist ideal für den Analverkehr, aber auch für Vaginalverkehr geeignet
+- FEUCHTFRÖHLICH: Das Gleitgel ist mit seiner auf Silikon basierenden Formel sanft zur Haut und eignet sich dank seiner guten Gleitfähigkeit besonders für den Analverkehr
+- LIEFERUMFANG: 1 x 100ml "Play Perfect Glide" Erlebnis Gel von Durex / Für vaginalen und analen Geschlechtsverkehr geeignet / Silikonbasiertes Gleitmittel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B085SVQXWG/?tag=tolees0ca-21)
