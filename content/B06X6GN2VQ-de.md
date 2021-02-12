@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.43 % rabat auf LEGO 17101 Boost Programmierbares Roboti'
-date: 2021-02-11 07:08:08
+date: 2021-02-12 07:40:39
 image: 'https://m.media-amazon.com/images/I/51iS3tAeZgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B06X6GN2VQ/?tag=tolees0ca-21'
 descuento: '23.43'
-average: '123.719146757679'
+average: '123.710949152542'
 ---
 
 Es gibt ein [LEGO 17101 Boost Programmierbares Roboticset  5-in-1 App-gesteuertes Modell mit einem programmierbaren  interkativen Roboter Spielzeug und Bluetooth Hub  Coding Set für Kinder](https://www.amazon.de/dp/B06X6GN2VQ/?tag=tolees0ca-21) mit aktuellem Preis 122.51 EUR (original: 159.99 EUR) 23.43 % Rabatt hier:
@@ -28,11 +28,11 @@ Es gibt ein [LEGO 17101 Boost Programmierbares Roboticset  5-in-1 App-gesteuerte
 
 ℹ️:
 
+- Roboter 27 cm hoch Katze 17 cm groß MTR4 12 cm hoch, 23 cm lang, 14 cm breit
 - LEGO Boost Bauspielzeug ist kompatibel mit allen LEGO Bausets für kreatives Bauen
+- Einen von fünf multifunktionalen Robotern bauen und ihn mithilfe der intuitiv bedienbaren LEGO Boost App spannende Aktivitäten ausführen
+- 847 Teile - Für Jungen und Mädchen zwischen 7 und 12 Jahren
 - Grundsätzlich funktionieren Apple Geräte ab iOS 103 sowie Android Geräte ab Android 50 mit Bluetooth 41 oder höher
 - Guitar4000 5 cm hoch, 42 cm lang, 14 cm breit
-- Einen von fünf multifunktionalen Robotern bauen und ihn mithilfe der intuitiv bedienbaren LEGO Boost App spannende Aktivitäten ausführen
-- Roboter 27 cm hoch Katze 17 cm groß MTR4 12 cm hoch, 23 cm lang, 14 cm breit
-- 847 Teile - Für Jungen und Mädchen zwischen 7 und 12 Jahren
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06X6GN2VQ/?tag=tolees0ca-21)
