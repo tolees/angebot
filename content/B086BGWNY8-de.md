@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.49 % rabat auf Crucial P2 CT500P2SSD8 500GB Internes SS'
-date: 2021-02-09 00:02:33
+date: 2021-02-13 00:48:37
 image: 'https://m.media-amazon.com/images/I/4163oay2ohL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Crucial'
 buyurl: 'https://www.amazon.de/dp/B086BGWNY8/?tag=tolees0ca-21'
 descuento: '15.49'
-average: '53.1929787234043'
+average: '53.0622448979592'
 ---
 
 Es gibt ein [Crucial P2 CT500P2SSD8 500GB Internes SSD  Bis zu 2400 MB/s  3D NAND  NVMe  PCIe  M.2 ](https://www.amazon.de/dp/B086BGWNY8/?tag=tolees0ca-21) mit aktuellem Preis 49.99 EUR (original: 59.15 EUR) 15.49 % Rabatt hier:
@@ -30,7 +30,7 @@ Es gibt ein [Crucial P2 CT500P2SSD8 500GB Internes SSD  Bis zu 2400 MB/s  3D NAN
 
 - Kapazitäten bis zu 2TB mit sequentiellen Lese/Schreibvorgängen bis zu 2.400/1.900 MB/s
 - 5 Jahre eingeschränkte Garantie
-- Die NVMe PCIe-Schnittstelle ist der nächste Schritt bei der Speicherinnovatio
 - Mit SSD-Verwaltungssoftware für Leistungsoptimierung, Datensicherheit und FirmwareUpdates
+- Die NVMe PCIe-Schnittstelle ist der nächste Schritt bei der Speicherinnovatio
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B086BGWNY8/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '52.86 % rabat auf Sony Interactive Entertainment - The Las'
-date: 2021-02-08 12:35:54
+date: 2021-02-13 01:12:16
 image: 'https://m.media-amazon.com/images/I/51sTv7B9qIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony Interactive Entertainment'
 buyurl: 'https://www.amazon.de/dp/B086NHL5M8/?tag=tolees0ca-21'
 descuento: '52.86'
-average: '52.39'
+average: '49.1566666666666'
 ---
 
 Es gibt ein [Sony Interactive Entertainment - The Last of Us Part II - Exklusive Steelbook Edition [PlayStation 4]  Uncut ](https://www.amazon.de/dp/B086NHL5M8/?tag=tolees0ca-21) mit aktuellem Preis 32.99 EUR (original: 69.99 EUR) 52.86 % Rabatt hier:
@@ -29,9 +29,9 @@ Es gibt ein [Sony Interactive Entertainment - The Last of Us Part II - Exklusive
 ℹ️:
 
 - Unberechenbare Begegnungen mit Feinden durch das erstklassige KI-System
+- Dank modernster Motion-Capturing werden die Emotionen noch realistischer transportiert
 - Eine intensive, von starken Charakteren getragene Geschichte, durch das Erfolgsstudio Naughty Dog perfekt inszeniert
 - Langerwartete Fortsetzung von "The Last of Us" kommt endlich auf PS4
-- Dank modernster Motion-Capturing werden die Emotionen noch realistischer transportiert
 - "The Last of Us Part II" in der Amazon Exclusive Steelbook Edition
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B086NHL5M8/?tag=tolees0ca-21)
