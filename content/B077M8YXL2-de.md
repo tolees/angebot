@@ -29,8 +29,8 @@ Es gibt ein [PUMA Unisex Smash v2 L Sneaker  White White  44 EU](https://www.ama
 ℹ️:
 
 - AgeGroup: Adults
-- ArticleType: Low Boot
 - MidSole: Rubber
+- ArticleType: Low Boot
 - BusinessUnit: Athletic / Sport Leisure
 - ActivityGroup: Basics
 

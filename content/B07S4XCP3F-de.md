@@ -28,10 +28,10 @@ Sie können [Ravensburger Erwachsenenpuzzle - Ravensburger Puzzle 1000 Teile Dis
 
 ℹ️:
 
-- Dieses Disney Puzzle mit 1000 Teilen lässt Disney Fans Puzzleteil für Puzzleteil tiefer in die Welt von Prince John und Robin Hood eintauchen: Die unterschiedlichen Disney Figuren und die vielen Details sorgen für ein langanhaltendes Puzzle-Vergnügen
-- Die Ravensburger Puzzle-Qualität auf einen Blick: Formenvielfalt durch handgefertigte Stanzmesser, passgenaue sowie knickstabile Puzzleteile, reflexfreies Puzzlebild durch Naturleinenprägung, hergestellt aus recycelter Pappe
 - Das Villainous Puzzle Prince John lässt die Herzen aller Disney-Fans höher schlagen und besticht durch sein detailreiches Motiv und die originalgetreue Dartellung der Charaktere - das ideale Geschenk für jeden Anlass, egal zu Weihnachten oder zum Geburtstag
 - Mehr als nur ein Legespiel: Ein Villainous Puzzle von Ravensburger ist das ideale Konzentrationstraining für Kinder, eignet sich fabelhaft zum Gehirnjogging für Erwachsene und unterstützt Puzzler aller Altersklassen bei der Entspannung im Alltag
 - Das Motiv zeigt verschiedene Charaktere aus dem bekannten Disney-Film: An einer braunen Wand hängen goldene Bilderrahmen mit Portraits von Robin Hood, Prince John & Co. - Im Vordergrund thront die passende Spielfigur von Prince John aus dem Ravensburger Brettspiel Villainous
+- Die Ravensburger Puzzle-Qualität auf einen Blick: Formenvielfalt durch handgefertigte Stanzmesser, passgenaue sowie knickstabile Puzzleteile, reflexfreies Puzzlebild durch Naturleinenprägung, hergestellt aus recycelter Pappe
+- Dieses Disney Puzzle mit 1000 Teilen lässt Disney Fans Puzzleteil für Puzzleteil tiefer in die Welt von Prince John und Robin Hood eintauchen: Die unterschiedlichen Disney Figuren und die vielen Details sorgen für ein langanhaltendes Puzzle-Vergnügen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07S4XCP3F/?tag=tolees0ca-21)
