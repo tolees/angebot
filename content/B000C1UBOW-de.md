@@ -28,9 +28,9 @@ Sie können [Cacharel Parfümwasser für Männer 1er Pack  1x 30 ml ](https://ww
 
 ℹ️:
 
-- 30 ml Eau de Parfum (EdP) Spray
 - Der Flakon selbst ist ein blaues Glanzstück, der von einer roten Farbe unterteilt wird
 - Ein junger, frischer Duft mit einer warmherzigen Kopfnote, die unvergesslich in Erinnerung bleibt
+- 30 ml Eau de Parfum (EdP) Spray
 - Duftnoten: Blumig, Orientalisch
 
 [🛒 Hier!!](https://www.amazon.de/dp/B000C1UBOW/?tag=tolees0ca-21)

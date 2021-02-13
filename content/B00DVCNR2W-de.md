@@ -28,10 +28,10 @@ Es gibt ein [Panama Jack Herren Amur GTX Springerstiefel  Lederfarben  41 EU](ht
 
 ℹ️:
 
+- HeelHeight: 3, 00 cm
+- Panama Jack Men, Cuero / Bark Springer Boots
 - Made in Spain
 - Principal Material: Nappa, Lining Material: Gore-Tex Sole Material: Natural Rubber InnerSole RemovableInsert: Yes
-- Panama Jack Men, Cuero / Bark Springer Boots
 - Waterproof
-- HeelHeight: 3, 00 cm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00DVCNR2W/?tag=tolees0ca-21)

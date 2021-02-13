@@ -28,8 +28,8 @@ Sie können [BOSS Herren T-Shirt VN 3P CO Dreier-Pack T-Shirts aus Baumwolle mit
 
 ℹ️:
 
-- Ausschnitt: V-Ausschnitt
 - Regular Fit
+- Ausschnitt: V-Ausschnitt
 - Verpackung: Box
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01M2X9YFV/?tag=tolees0ca-21)

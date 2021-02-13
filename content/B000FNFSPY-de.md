@@ -29,9 +29,9 @@ Es gibt ein [TP-Link TL-SF1005D 5-Port Fast Ethernet-/Netzwerk-/Lan Switch  10/1
 ℹ️:
 
 - Plug-and-Play, requires no configuration
-- Five 10/100 Mbps auto-negotiation RJ45 ports, supports auto MDI / MDIX
 - Green Ethernet technology saves the power up to 60%
-- Plastic case, desktop design
 - IEEE 802.3x flow control provides reliable data transfer
+- Five 10/100 Mbps auto-negotiation RJ45 ports, supports auto MDI / MDIX
+- Plastic case, desktop design
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000FNFSPY/?tag=tolees0ca-21)

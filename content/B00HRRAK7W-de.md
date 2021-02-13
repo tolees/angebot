@@ -29,9 +29,9 @@ Sie können [Sylvanian Families 4018 Igel Familie - Figuren für Puppenhaus](htt
 ℹ️:
 
 - Suitable for ages 3 years to 10 years
+- Hedgehog posable collectable figures
 - Dressed in removable fabric clothing
 - Stimulating imaginative role-play in children
 - Four piece set: Father, mother, brother and sister
-- Hedgehog posable collectable figures
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00HRRAK7W/?tag=tolees0ca-21)
