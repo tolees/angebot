@@ -28,8 +28,8 @@ Es gibt ein [LEGO 10700 Classic Grüne Bauplatte  25 cm x 25 cm  Lernspielzeug  
 
 ℹ️:
 
-- 232 Anzahl Teile
-- Geschlecht: Jungen
 - Produktabmessungen (L/B/H): 26,2 x 28,2 x 6,4 cm
+- Geschlecht: Jungen
+- 232 Anzahl Teile
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00NVDOH2U/?tag=tolees0ca-21)
