@@ -28,10 +28,10 @@ Sie können [Devolo dLAN 1200+ DINrail WiFi ac  1x Gigabit-Powerline-Bridge für
 
 ℹ️:
 
-- dLAN 1200 WiFi ac: Powerline-Adapter für die Steckdose ausgestattet mit dem leistungsfähigsten WLAN-Standard ac und 2 Gigabit-LAN-Anschlüssen für blitzschnelles Internet in jedem Raum
 - Integrierte Phasenkopplung und parallele Nutzung aller drei Phasen des Stromnetzes für maximierte Leistung des Powerline-Netzwerks
-- dLAN 1200 DINrail: Ethernet-to-Powerline-Bridge für die Installation an der Hutschiene im Verteilerkasten und leistungsstarke Powerline-Technik mit bis zu 1200 Mbit/s im ganzen Haus
-- Starke Verbindung über extrem weite Strecken von bis zu 400 Metern dank devolo range+ Technology. Ideal geeignet für die Glasfaseranbindung aus dem Keller
 - Kompatibel mit allen Elektro-Verteilerkästen, Routern und dLAN-Powerline-Adaptern. Außerdem absolut sicher, da Daten durch eine 128 Bit AES-Verschlüsselung übertragen werden
+- dLAN 1200 DINrail: Ethernet-to-Powerline-Bridge für die Installation an der Hutschiene im Verteilerkasten und leistungsstarke Powerline-Technik mit bis zu 1200 Mbit/s im ganzen Haus
+- dLAN 1200 WiFi ac: Powerline-Adapter für die Steckdose ausgestattet mit dem leistungsfähigsten WLAN-Standard ac und 2 Gigabit-LAN-Anschlüssen für blitzschnelles Internet in jedem Raum
+- Starke Verbindung über extrem weite Strecken von bis zu 400 Metern dank devolo range+ Technology. Ideal geeignet für die Glasfaseranbindung aus dem Keller
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07CMC3F3V/?tag=tolees0ca-21)
