@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Samsung Galaxy A42 5G Android Smartphone mit 16.71 % Rabatt'
-date: 2021-02-02 03:36:51
+title: 'Samsung Galaxy A42 5G Android Smartphone mit 30.04 % Rabatt'
+date: 2021-02-13 18:48:15
 image: 'https://m.media-amazon.com/images/I/41jFEHpHVJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B08JGWB9DR-de Samsung Galaxy A42 5G Android Smartphone ohne Vertrag 4...'
 sku: 'B08JGWB9DR-de'
 tags: [  ]
-actualPrice: 299.0 EUR
+actualPrice: 251.16 EUR
 currency: EUR
-price: 299.0
+price: 251.16
 comparePrice: 359.0 EUR
 prodname: 'Samsung Galaxy A42 5G Android Smartphone ohne Vertrag  4 Kameras  großer 5.000 mAh Akku  6 6 Zoll Super AMOLED-Display  128 GB/4 GB RAM  5G Datenverbindung  Handy in Grau  deutsche Version'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.de/dp/B08JGWB9DR/?tag=tolees0ca-21'
-descuento: '16.71'
-average: '294.032499999999'
+descuento: '30.04'
+average: '291.510588235293'
 ---
 
-Sie können [Samsung Galaxy A42 5G Android Smartphone ohne Vertrag  4 Kameras  großer 5.000 mAh Akku  6 6 Zoll Super AMOLED-Display  128 GB/4 GB RAM  5G Datenverbindung  Handy in Grau  deutsche Version](https://www.amazon.de/dp/B08JGWB9DR/?tag=tolees0ca-21) mit Preis 299.0 EUR (original: 359.0 EUR) 16.71 % Rabatt hier:
+Sie können [Samsung Galaxy A42 5G Android Smartphone ohne Vertrag  4 Kameras  großer 5.000 mAh Akku  6 6 Zoll Super AMOLED-Display  128 GB/4 GB RAM  5G Datenverbindung  Handy in Grau  deutsche Version](https://www.amazon.de/dp/B08JGWB9DR/?tag=tolees0ca-21) mit Preis 251.16 EUR (original: 359.0 EUR) 30.04 % Rabatt hier:
 
 [![Samsung Galaxy A42 5G Android Smartphone](https://m.media-amazon.com/images/I/41jFEHpHVJL._SL200_.jpg)](https://www.amazon.de/dp/B08JGWB9DR/?tag=tolees0ca-21)
 
@@ -30,7 +30,7 @@ Sie können [Samsung Galaxy A42 5G Android Smartphone ohne Vertrag  4 Kameras  g
 
 - Blitzschnell dank 5G-Geschwindigkeit: Eine ganze Serienstaffel binnen Sekunden auf das Handy herunterladen oder Filme nahezu ohne Wartezeit streamen, über Cloud Gaming mit geringer Latenz spielen oder eigene Livestreams in Topqualität senden: Das Galaxy A42 5G unterstützt den aktuell schnellsten Netzstandard 5G, damit Sie Multimedia in Echtzeit genießen können.
 - Ein absoluter Blickfang: Versetzen Sie sich in Staunen mit dem kontrastreichen und farbstarken Bild des 6,6 Super AMOLED-Displays des Samsung Galaxy A42 5G. Das Display zeigt alle Inhalte brillant an, egal ob Fotos und Videos oder Ihre Lieblingsgames.
-- Beeindruckende Quad-Kamera: Die vier Objektive im Samsung Galaxy A42 5G sind für fast jeden Moment gewappnet: Low Light-Aufnahmen, Nahaufnahmen oder faszinierende Panoramen. Und mit der 20 Megapixel-Frontkamera können Sie sich auf Selfies immer von Ihrer besten Seite zeigen.
 - Einer der größten Akkus in einem Galaxy Smartphone: Das Galaxy A42 5G hat einen leistungsstarken 5.000mAh Akku an Bord. Wenn Sie Ihr Smartphone aufladen, muss es dank 15 Watt Schnellladefunktion nicht lange an der Steckdose bleiben. Ein paar Minuten können ausreichen, um Energie für eine mehrstündige Nutzung zu laden.
+- Beeindruckende Quad-Kamera: Die vier Objektive im Samsung Galaxy A42 5G sind für fast jeden Moment gewappnet: Low Light-Aufnahmen, Nahaufnahmen oder faszinierende Panoramen. Und mit der 20 Megapixel-Frontkamera können Sie sich auf Selfies immer von Ihrer besten Seite zeigen.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08JGWB9DR/?tag=tolees0ca-21)

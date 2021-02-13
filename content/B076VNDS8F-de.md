@@ -1,37 +1,37 @@
 ---
 layout: post
-title: '19.27 % rabat auf Sony SEL-24105G G Standard Zoom-Objektiv'
-date: 2021-02-08 17:58:21
+title: '22.24 % rabat auf Sony FE 24-105mm f/4 G OSS | Vollformat '
+date: 2021-02-13 18:34:37
 image: 'https://m.media-amazon.com/images/I/41TBuoZWONL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076VNDS8F-de Sony SEL-24105G G Standard Zoom-Objektiv 24-105 mm F4 OSS...'
+slug: 'B076VNDS8F-de Sony FE 24-105mm f/4 G OSS | Vollformat...'
 sku: 'B076VNDS8F-de'
 tags: [  ]
-actualPrice: 1089.0 EUR
+actualPrice: 1049.0 EUR
 currency: EUR
-price: 1089.0
+price: 1049.0
 comparePrice: 1349.0 EUR
-prodname: 'Sony SEL-24105G G Standard Zoom-Objektiv  24-105 mm  F4  OSS  Vollformat  geeignet für A7  A6000  A5100  A5000 und Nex Serien  E-Mount  schwarz'
+prodname: 'Sony FE 24-105mm f/4 G OSS | Vollformat  Standardzoomobjektiv  SEL24105G '
 country: 'de'
 flag: '🇩🇪'
 brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B076VNDS8F/?tag=tolees0ca-21'
-descuento: '19.27'
-average: '1048.52189655173'
+descuento: '22.24'
+average: '1048.53783333334'
 ---
 
-Es gibt ein [Sony SEL-24105G G Standard Zoom-Objektiv  24-105 mm  F4  OSS  Vollformat  geeignet für A7  A6000  A5100  A5000 und Nex Serien  E-Mount  schwarz](https://www.amazon.de/dp/B076VNDS8F/?tag=tolees0ca-21) mit aktuellem Preis 1089.0 EUR (original: 1349.0 EUR) 19.27 % Rabatt hier:
+Es gibt ein [Sony FE 24-105mm f/4 G OSS | Vollformat  Standardzoomobjektiv  SEL24105G ](https://www.amazon.de/dp/B076VNDS8F/?tag=tolees0ca-21) mit aktuellem Preis 1049.0 EUR (original: 1349.0 EUR) 22.24 % Rabatt hier:
 
-[![Sony SEL-24105G G Standard Zoom-Objektiv](https://m.media-amazon.com/images/I/41TBuoZWONL._SL200_.jpg)](https://www.amazon.de/dp/B076VNDS8F/?tag=tolees0ca-21)
+[![Sony FE 24-105mm f/4 G OSS | Vollformat ](https://m.media-amazon.com/images/I/41TBuoZWONL._SL200_.jpg)](https://www.amazon.de/dp/B076VNDS8F/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Brennweitenbereich zwischen 24 und 105 Millimetern bietet eine herausragende Bildqualität in einem leichten, kompakten Design
-- Hochmoderner und präziser Autofokus mit Direct Drive SSM und mit 663 Gramm das leichteste Objektiv seiner Klasse
-- Drei ED-Glaselemente (Extra-low Dispersion) vermeiden chromatische Aberrationen und ermöglichen extrem hohe Auflösung. Nano Coating verhindert Geistereffekte und Lichtreflektionen
-- Lieferumfang: Kappe (Modell): ALC-SH152, Vordere Objektivkappe: ALC-F77S, Hintere Objektivkappe: ALC-R1EM, Tasche
-- Vier asphärischen Objektivelemente, inkl. zwei präziser AA-Objektivelemente (Advanced Aspherical). Sichtwinkel (35 mm): 84°–23°
+- ALLE DETAILS EINFANGEN: Sony Nano AR-Beschichtung reduziert Geister- und Lichteffekte
+- SCHNELL UND PRÄZISE: Ein leistungsstarkes DDSSM-Fokusantriebssystem (Direct Drive SSM) sorgt für die Geschwindigkeit und Präzision, die sowohl bei Foto- als auch bei Videoaufnahmen erforderlich sind
+- UNGLAUBLICH SCHARF: Zwei AA- (Advanced Aspherical) und zwei asphärische Elemente unterdrücken Abbildungsfehler für eine hervorragende Auflösung über den gesamten Bildbereich, während drei ED-Glaselemente (Extra-low Dispersion) chromatische Abbildungsfehler auf ein Minimum reduzieren
+- PROFESSIONELLE ERGONOMIE: Ein Fokusmodus-Schalter, der ein sofortiges Umschalten zwischen Auto- und manuellem Fokusmodus ermöglicht, sowie eine anpassbare Fokushaltetaste für effiziente und vielseitige Aufnahmen
+- SCHÖNES BOKEH: Das sanfte Bokeh wird durch eine zirkuläre Blende mit 9 Lamellen unterstützt und sorgt für natürlich wirkende Ergebnisse
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B076VNDS8F/?tag=tolees0ca-21)
