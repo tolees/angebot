@@ -28,10 +28,10 @@ Es gibt ein [Xiaomi Mi Vacuum Cleaner Mini XM200047  Handstaubsauger  Weiß  120
 
 ℹ️:
 
-- Regulierbar um 2 Saugstufen
-- Starke Saugleistung mit 13000 Pa
 - Bis zu 30 Minuten Laufzeit
-- Klein und handlich mit einem Gewicht von nur 500g
 - Bürstenloser Motor mit 88000U/min
+- Klein und handlich mit einem Gewicht von nur 500g
+- Starke Saugleistung mit 13000 Pa
+- Regulierbar um 2 Saugstufen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08MPQQJHQ/?tag=tolees0ca-21)
