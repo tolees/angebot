@@ -29,8 +29,8 @@ Sie können [Joseph Joseph - Einstellbares Nudelholz  9 Einheiten - mehrfarbig](
 ℹ️:
 
 - Ideal for preparing biscuit dough, pizza bases, pie tops, lasagne sheets, filo pastry and more
-- Ensures that pastry or dough is rolled to an even thickness throughout and to the exact size required
 - Dishwasher safe
+- Ensures that pastry or dough is rolled to an even thickness throughout and to the exact size required
 - Four sets of removable discs that raise the rolling surface by different amounts
 - Create exactly the required pastry thickness either 2 mm, 4 mm, 6 mm or 10 mm
 
