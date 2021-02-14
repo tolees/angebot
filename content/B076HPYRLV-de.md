@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '27.53 % rabat auf adidas Herren Core 18 Sweat Trainingshos'
-date: 2021-02-13 01:16:57
+title: '33.12 % rabat auf adidas Herren Core 18 Sweat Trainingshos'
+date: 2021-02-14 01:23:20
 image: 'https://m.media-amazon.com/images/I/41eZaia+MfL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B076HPYRLV-de adidas Herren Core 18 Sweat Trainingshose Dark Grey...'
 sku: 'B076HPYRLV-de'
 tags: [  ]
-actualPrice: 28.95 EUR
+actualPrice: 26.72 EUR
 currency: EUR
-price: 28.95
+price: 26.72
 comparePrice: 39.95 EUR
 prodname: 'adidas Herren Core 18 Sweat Trainingshose  Dark Grey Heather/Black  M'
 country: 'de'
 flag: '🇩🇪'
 brand: 'adidas'
 buyurl: 'https://www.amazon.de/dp/B076HPYRLV/?tag=tolees0ca-21'
-descuento: '27.53'
-average: '26.2175'
+descuento: '33.12'
+average: '26.2733333333333'
 ---
 
-Es gibt ein [adidas Herren Core 18 Sweat Trainingshose  Dark Grey Heather/Black  M](https://www.amazon.de/dp/B076HPYRLV/?tag=tolees0ca-21) mit aktuellem Preis 28.95 EUR (original: 39.95 EUR) 27.53 % Rabatt hier:
+Es gibt ein [adidas Herren Core 18 Sweat Trainingshose  Dark Grey Heather/Black  M](https://www.amazon.de/dp/B076HPYRLV/?tag=tolees0ca-21) mit aktuellem Preis 26.72 EUR (original: 39.95 EUR) 33.12 % Rabatt hier:
 
 [![adidas Herren Core 18 Sweat Trainingshos](https://m.media-amazon.com/images/I/41eZaia+MfL._SL200_.jpg)](https://www.amazon.de/dp/B076HPYRLV/?tag=tolees0ca-21)
 
