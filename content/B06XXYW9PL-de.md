@@ -30,8 +30,8 @@ Sie können [Pentel EnerGel XM BL77 Druck-Gelschreiber  0 7 mm  52 % recycel
 
 - 0,7 mm breite Spitze, ergibt eine Strichbreite von 0,35 mm.
 - Legendärer Gelschreiber EnerGel von Pentel mit geringer Viskosität; trocknet schnell und bietet ein seidenweiches Schreibgefühl.
-- Mit gummierter Grifffläche für mehr Komfort und Kontrolle.
 - Druck-Geltintenroller BL77 von Pentel, zu 54 % aus recycelten Materialien.
+- Mit gummierter Grifffläche für mehr Komfort und Kontrolle.
 - Das Set enthält je ein Stück der folgenden Buntstifte: Rot, Orange, Rosa, Lila, himmelblau, blau, hellgrün, marineblau, Braun, Türkis, Grün und Schwarz.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B06XXYW9PL/?tag=tolees0ca-21)

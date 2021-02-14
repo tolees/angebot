@@ -30,8 +30,8 @@ Sie können [Xiaomi Mi True Wireless Earbuds Basic 2 iOS/Android Bluetooth In-Ea
 
 - Kabelloser Stereosound & kabelloses Telefonieren
 - Nach einfacher Einrichtung erfolgt die Verbindung automatisch, sobald man die Kopfhörer aus der Ladebox herausnimmt
-- Komfortable Steuerung
 - An- und Ablehnen von Anrufen per Touch Taste
+- Komfortable Steuerung
 - Bluetooth 5.0 sorgt für eine schnelle und stabile Verbindung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08GSQ7B9Z/?tag=tolees0ca-21)

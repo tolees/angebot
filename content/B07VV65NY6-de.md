@@ -28,10 +28,10 @@ Es gibt ein [RICOO TV Wand-Halterung Schwenkbar Neigbar  S7264  Universal Fernse
 
 ℹ️:
 
-- ✅ KAPAZITÄT: Der TV-Wandhalter hat eine hohe Belastbarkeit von bis zu 50kg. Unterstützte VESA-Normen: 300x200 300x300 400x200 400x300 400x400 600x400
-- ❗ BITTE BEACHTEN: Display-Diagonale nur Richtwert - wichtig sind: Position & Größe VESA-Norm, Bildschirm-Gewicht. Mitgelieferte Dübel nur für Massivbeton-Wände!
-- ✅ FUNKTIONEN: Diese Fernseher-Halterung ist bis 120 Grad schwenkbar je nach Bildschirm-Breite. Der Neige-Bereich liegt bei +/-10 Grad. Wand-Abstand zwischen 70mm - 375mm. Zur optimalen Einstellung nach der Montage ist die Front-Platte um +/-6 Grad drehbar
 - ✅ KOMPATIBILITÄT: Passende Bildschirm-Diagonalen: 102cm/40" 107cm/42" 109cm/43" 119cm/47" 124cm/49" 132cm/52" 140cm/55" 147cm/58" 152cm/60" 165cm/65" Zoll
 - ✅ GEEIGNET FÜR: Samsung TCL LG AOC Blaupunkt Changhong Dyon Grundig Hisense Jaytech JTC JVC OK Orion Panasonic Philips Skyworth Sony Technisat Telefunken Toshiba Medion Thomson
+- ✅ KAPAZITÄT: Der TV-Wandhalter hat eine hohe Belastbarkeit von bis zu 50kg. Unterstützte VESA-Normen: 300x200 300x300 400x200 400x300 400x400 600x400
+- ✅ FUNKTIONEN: Diese Fernseher-Halterung ist bis 120 Grad schwenkbar je nach Bildschirm-Breite. Der Neige-Bereich liegt bei +/-10 Grad. Wand-Abstand zwischen 70mm - 375mm. Zur optimalen Einstellung nach der Montage ist die Front-Platte um +/-6 Grad drehbar
+- ❗ BITTE BEACHTEN: Display-Diagonale nur Richtwert - wichtig sind: Position & Größe VESA-Norm, Bildschirm-Gewicht. Mitgelieferte Dübel nur für Massivbeton-Wände!
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07VV65NY6/?tag=tolees0ca-21)
