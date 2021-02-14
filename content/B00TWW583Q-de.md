@@ -28,10 +28,10 @@ Sie können [LG Electronics - LG BP250 Blu-ray Player  Upscaler 1080p  USB  schw
 
 ℹ️:
 
-- Spielt Blu-rays, DVDs und CDs
-- 1080p Upscaling
-- Lieferumfang:Fernbedienung, Bedienungsanleitung, Netzteil
-- Wiedergabe von externen Festplatten
 - Anschlüsse: HDMI-Out, USB
+- Lieferumfang:Fernbedienung, Bedienungsanleitung, Netzteil
+- Spielt Blu-rays, DVDs und CDs
+- Wiedergabe von externen Festplatten
+- 1080p Upscaling
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00TWW583Q/?tag=tolees0ca-21)
