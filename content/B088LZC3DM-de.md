@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pickwoo Solar Roboter Bausatz Set Kinder mit 23.51 % Rabatt'
-date: 2021-02-08 12:29:02
+date: 2021-02-14 19:10:24
 image: 'https://m.media-amazon.com/images/I/51HP4Zj4NUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Pickwoo'
 buyurl: 'https://www.amazon.de/dp/B088LZC3DM/?tag=tolees0ca-21'
 descuento: '23.51'
-average: '22.7725142857143'
+average: '22.6879661016949'
 ---
 
 Sie können [Pickwoo Solar Roboter Bausatz Set Kinder STEM Spielzeug Konstruktion Bauset Educationall Lernspielzeug mit Solar Wissenschaft Experimentierkasten Science Kit Kinder](https://www.amazon.de/dp/B088LZC3DM/?tag=tolees0ca-21) mit Preis 15.29 EUR (original: 19.99 EUR) 23.51 % Rabatt hier:
