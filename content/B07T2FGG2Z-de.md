@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '32.13 % rabat auf Sony WF-1000XM3 vollkommen kabellose Blu'
-date: 2021-02-13 06:55:27
+date: 2021-02-14 07:19:21
 image: 'https://m.media-amazon.com/images/I/31g7bOm7A5L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B07T2FGG2Z/?tag=tolees0ca-21'
 descuento: '32.13'
-average: '175.500714285713'
+average: '175.443185840707'
 ---
 
 Es gibt ein [Sony WF-1000XM3 vollkommen kabellose Bluetooth Kopfhörer / Earbuds mit aktiver Geräuschunterdrückung zum Telefonieren u. Musikhören  Amazon Alexa - incl. Ladecase für mehr Akku](https://www.amazon.de/dp/B07T2FGG2Z/?tag=tolees0ca-21) mit aktuellem Preis 169.0 EUR (original: 249.0 EUR) 32.13 % Rabatt hier:
@@ -28,10 +28,12 @@ Es gibt ein [Sony WF-1000XM3 vollkommen kabellose Bluetooth Kopfhörer / Earbuds
 
 ℹ️:
 
-- Industry-leading noise cancellation* to block out unnecessary ambient noise (*As of June 1st 2019. According to research by Sony Corporation, measured using JEITA-compliant guidelines in Truly Wireless style noise cancelling headphones market)
-- Up to 8H battery life per single charge + additional 3 charges from carrying case
-- Ergonomic Tri-hold Structure for secure fitting
-- Stable Bluetooth connection
-- Alexa built-in devices let you instantly connect to Alexa to play music, control your smart home, get information, news, weather, and more using just your voice.
+- Ergonomische Passform für sicheren Halt
+- Bis zu 8 Std. Akkulaufzeit + 3 zusätzliche Aufladungen durch die mitgelieferte Ladestation
+- Stabile Bluetooth Verbindung
+- Da Amazon Alexa Cloud-basiert ist, lernt sie kontinuierlich dazu. Bitten Sie Alexa, Musik abzuspielen, Nachrichten vorzulesen, das Wetter zu überprüfen, Ihr Smart Home zu steuern und vieles mehr.
+- Sony empfiehlt immer die neueste verfügbare Software auf Ihrem Gerät zu installieren. Update Benachrichtigungen für WF-1000XM3 und die Updates selbst, werden über die Sony Headphones Connect App bereitgestellt. Die App ist kostenlos im Google Play Store und im Apple Store verfügbar.
+- *Stand: 1. Juni 2019. Gemäß Untersuchungen der Sony Corporation basierend auf den JEITA-konformen Richtlinien auf dem Markt für komplett kabellose Kopfhörer mit Noise Cancelling.
+- True Wireless Kopfhörer mit branchenführendem Noise Cancelling. Kompatible Bluetooth Profile: A2DP, AVRCP, HFP
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07T2FGG2Z/?tag=tolees0ca-21)

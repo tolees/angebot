@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil Family Fun 70088 Familien-Wohn mit 21.66 % Rabatt'
-date: 2021-02-13 06:53:48
+date: 2021-02-14 07:26:37
 image: 'https://m.media-amazon.com/images/I/51hAWe7v9sL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.de/dp/B07JLFJKPQ/?tag=tolees0ca-21'
 descuento: '21.66'
-average: '40.3997340425532'
+average: '40.4164736842106'
 ---
 
 Sie können [Playmobil Family Fun 70088 Familien-Wohnmobil  Ab 4 Jahren](https://www.amazon.de/dp/B07JLFJKPQ/?tag=tolees0ca-21) mit Preis 41.99 EUR (original: 53.6 EUR) 21.66 % Rabatt hier:
