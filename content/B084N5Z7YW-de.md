@@ -28,10 +28,10 @@ Sie können [Power Rangers Lightning Collection Mighty Morphin Zordon und Alpha 
 
 ℹ️:
 
-- POWER RANGERS LIGHTNING COLLECTION: Es können noch andere Power Ranger Figuren gesammelt werden, inklusive der Charaktere aus Mighty Morphin Power Rangers, Power Rangers Dino Charge, Power Rangers Beast Morphers und mehr. Jeweils separat erhältlich
-- INSPIRIERT DURCH DIE MIGHTY MORPHIN POWER RANGERS: Zordon ist der Mentor der originalen Power Rangers und Alpha 5 ist sein loyaler robotischer Kumpel
 - 15 CM GROSSE POWER RANGERS FIGUREN: Go Go Power Rangers! Dieser Power Rangers Lightning Collection 2er-Pack enthält Figuren mit einem Premium Design
+- POWER RANGERS LIGHTNING COLLECTION: Es können noch andere Power Ranger Figuren gesammelt werden, inklusive der Charaktere aus Mighty Morphin Power Rangers, Power Rangers Dino Charge, Power Rangers Beast Morphers und mehr. Jeweils separat erhältlich
 - AYIEYIEYIEYIE! PREMIUM ALPHA 5 ACTION-FIGUR: Mit mehreren Bewegungspunkten für mehr Beweglichkeit und einem durch den Charakter inspirierten Accessoire
 - DIE ZORDON FIGUR LEUCHTET AUF: Durch das Drücken des Knopfes am Sockel der Zordon Figur leuchtet der Ständer auf und der schwebende Kopf des Zordons kommt zum Vorschein
+- INSPIRIERT DURCH DIE MIGHTY MORPHIN POWER RANGERS: Zordon ist der Mentor der originalen Power Rangers und Alpha 5 ist sein loyaler robotischer Kumpel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B084N5Z7YW/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60246 City Polizeistation  Bauset m mit 28.00 % Rabatt'
-date: 2021-02-14 07:54:01
+date: 2021-02-15 09:26:08
 image: 'https://m.media-amazon.com/images/I/51GphBT734L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W7TM73V/?tag=tolees0ca-21'
 descuento: '28.00'
-average: '71.6517670682731'
+average: '71.6544621513944'
 ---
 
 Sie können [LEGO 60246 City Polizeistation  Bauset mit 2 Trucks  Leucht- und Sound-Steinen  Drohne und Motorrad](https://www.amazon.de/dp/B07W7TM73V/?tag=tolees0ca-21) mit Preis 71.99 EUR (original: 99.99 EUR) 28.00 % Rabatt hier:
