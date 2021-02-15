@@ -30,7 +30,7 @@ Es gibt ein [Funko Alien POP! & Tee Box 40th Xenomorph heo Exclusive Size L Shir
 
 - Qualitativ hochwertiges T-Shirt
 - ca. 10 cm große Funko POP! Sammelfigur
-- 100% Baumwolle
 - in einem hübschen Geschenkkarton
+- 100% Baumwolle
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07Z86DTMH/?tag=tolees0ca-21)
