@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Tapo WLAN Smart Steckdose Tapo P mit 33.44 % Rabatt'
-date: 2021-02-10 00:55:29
+date: 2021-02-15 02:01:07
 image: 'https://m.media-amazon.com/images/I/31W0KrgSsIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Sie können [TP-Link Tapo WLAN Smart Steckdose Tapo P100  Smart Home WiFi Steckd
 
 ℹ️:
 
-- Sprachsteuerung - Aktivieren Sie Ihre smarte Steckdose mit Sprachbefehlen über Amazon Alexa oder den Google Assistant
-- Zugriff auch von unterwegs - Steuern Sie alle Geräte bequem über das Smartphone, überall und zu jeder Zeit
-- Abwesenheitsmodus - Schalten Sie Ihre Lichter zu unterschiedlichsten Zeiten an und aus um die Anwesenheit einer Person zu simulieren
 - Erstellen von Zeitplänen - Schalten Sie Ihre Geräte automatisch zu verschiedenen Zeiten an und aus
+- Abwesenheitsmodus - Schalten Sie Ihre Lichter zu unterschiedlichsten Zeiten an und aus um die Anwesenheit einer Person zu simulieren
+- Zugriff auch von unterwegs - Steuern Sie alle Geräte bequem über das Smartphone, überall und zu jeder Zeit
 - Einfache Einrichtung und Verwendung - Schnelle und einfache tägliche Einrichtung und Verwaltung über kostenlose App (kostenfrei für IOs und Android)
+- Sprachsteuerung - Aktivieren Sie Ihre smarte Steckdose mit Sprachbefehlen über Amazon Alexa oder den Google Assistant
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08GDD17BS/?tag=tolees0ca-21)
