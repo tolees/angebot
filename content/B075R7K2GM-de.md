@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.02 % rabat auf Paramount - Star Trek -Deep Space Nine -'
-date: 2021-02-14 20:13:10
+date: 2021-02-15 20:17:45
 image: 'https://m.media-amazon.com/images/I/518rD6BVyGL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Paramount'
 buyurl: 'https://www.amazon.de/dp/B075R7K2GM/?tag=tolees0ca-21'
 descuento: '15.02'
-average: '43.75'
+average: '43.906'
 ---
 
 Es gibt ein [Paramount - Star Trek -Deep Space Nine - Die komplette Serie [48 DVDs]](https://www.amazon.de/dp/B075R7K2GM/?tag=tolees0ca-21) mit aktuellem Preis 44.53 EUR (original: 52.4 EUR) 15.02 % Rabatt hier:

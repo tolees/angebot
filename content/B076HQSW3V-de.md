@@ -28,8 +28,8 @@ Sie können [adidas Herren CORE18 SW PNT Sport Trousers  Dark Grey Heather/Black
 
 ℹ️:
 
-- Elastic waistband with lanyard
-- Regular Fit
 - Front pockets
+- Regular Fit
+- Elastic waistband with lanyard
 
 [🛒 Hier!!](https://www.amazon.de/dp/B076HQSW3V/?tag=tolees0ca-21)
