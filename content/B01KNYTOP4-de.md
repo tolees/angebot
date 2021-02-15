@@ -29,8 +29,8 @@ Es gibt ein [TaoTronics Bluetooth Adapter Transmitter Empfänger 2 in 1 Bluetoot
 ℹ️:
 
 - ✅Konstantes streamen und automatisches re-pairing: ein interner Akku sorgt dafür, dass das Gerät bis zu 15 Stunden genutzt werden kann und sich unmittelbar wieder, mit bereits gepairten Geräten verbindet
-- ✅3. 5mm + Optical: Sie erhalten ein maximun an Flexibilität dank der Unterstützung von sowohl 3. 5mm (AUX und RCA), als auch 📍optisch- Digital (Toslink)📍, sowohl der Input als auch Output werden unterstützt
 - ✅Kabelfreie Bewegung: erhalten Sie Ihre alten Stereo- oder verkabelten Kopfhörer durch eine neue, kabellose Bluetooth Verbindung, Verbinden Sie Ihr Smartphone oder Tablet aus einer Entfernung von über 10 Metern und genießen Sie einen wunderbaren Sound, ganz ohne Kabelverbindungen
+- ✅3. 5mm + Optical: Sie erhalten ein maximun an Flexibilität dank der Unterstützung von sowohl 3. 5mm (AUX und RCA), als auch 📍optisch- Digital (Toslink)📍, sowohl der Input als auch Output werden unterstützt
 - ✅Keine Verzögerungen mehr: Die niedrige Latenz Technologie aptX eliminiert jegliche Bluetooth- audioverzögerungen, so dass Sie TV/Filme/ Videos in bester Synchronisierung anschauen und Musik klar und ohne Störungen hören können
 - ✅Bluetooth Adapter 2 in 1: ein tragbarer Adapter, der entweder als Transmitter oder Receiver genutzt werden kann, verfügt über 📍Bluetooth Version 5. 0📍, kann mit zwei Kopfhörern/ Lautsprechern zur gleichen Zeit verbunden werden
 
