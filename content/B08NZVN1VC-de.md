@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Böhse Onkelz - Waldstadion - Live in Fra mit 15.96 % Rabatt'
-date: 2021-02-14 00:57:08
+date: 2021-02-15 07:58:17
 image: 'https://m.media-amazon.com/images/I/41MLoocfLiL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B08NZVN1VC/?tag=tolees0ca-21'
 descuento: '15.96'
-average: '20.2455555555556'
+average: '19.7718181818182'
 ---
 
 Sie können [Böhse Onkelz - Waldstadion - Live in Frankfurt 2018 [Blu-ray]](https://www.amazon.de/dp/B08NZVN1VC/?tag=tolees0ca-21) mit Preis 17.64 EUR (original: 20.99 EUR) 15.96 % Rabatt hier:

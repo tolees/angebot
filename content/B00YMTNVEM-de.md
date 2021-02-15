@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '45.37 % rabat auf TP-Link TL-SG1005D 5-Port Gigabit/Netzwe'
-date: 2021-02-14 07:30:49
+date: 2021-02-15 07:49:16
 image: 'https://m.media-amazon.com/images/I/317hNOQceKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B00YMTNVEM/?tag=tolees0ca-21'
 descuento: '45.37'
-average: '11.7553968253969'
+average: '11.7296923076924'
 ---
 
 Es gibt ein [TP-Link TL-SG1005D 5-Port Gigabit/Netzwerk Switch  bis 2000 MBit/s  geschirmte RJ-45 Ports  Auto-MDI/MDIX  bis zu 70% Energie einsparen  Plug-and-Play Installation  lüfterlos  schwarz](https://www.amazon.de/dp/B00YMTNVEM/?tag=tolees0ca-21) mit aktuellem Preis 10.92 EUR (original: 19.99 EUR) 45.37 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [TP-Link TL-SG1005D 5-Port Gigabit/Netzwerk Switch  bis 2000 MBit/s 
 
 ℹ️:
 
-- IEEE802.3x-Flusskontrolle sorgt für eine zuverlässige Datenübertragung
 - Ethernet mit Stromsparfunktion, Plastikgehäuse für Tischaufbau oder Wandmontage
 - Lieferumfang: 5-Port-Gigabit-Desktopswitch TL-SG1005D, Spannungsadapter, Bedienungsanleitung
 - 5 Gigabit-RJ45-Ports mit Autoabstimmung und Auto-MDI/MDIX
 - Plug-and-Play, keine Konfiguration notwendig
+- IEEE802.3x-Flusskontrolle sorgt für eine zuverlässige Datenübertragung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00YMTNVEM/?tag=tolees0ca-21)
