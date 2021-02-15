@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '47.33 % rabat auf Samsung Schnellladegerät 45 w  Ep-TA845 '
-date: 2021-02-14 12:49:45
+date: 2021-02-15 12:50:29
 image: 'https://m.media-amazon.com/images/I/313QmpnIhWL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Es gibt ein [Samsung Schnellladegerät 45 w  Ep-TA845   Schwarz](https://www.ama
 
 ℹ️:
 
-- Unterstützt Schnellladen mit bis zu 45 Watt
 - Schnellladegerät zum Aufladen kompatibler Geräte über USB Typ-C
 - Usb Typ-C zu USB Typ-C Kabel (ep-dn975) im Lieferumfang
+- Unterstützt Schnellladen mit bis zu 45 Watt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07VC4TGCX/?tag=tolees0ca-21)
