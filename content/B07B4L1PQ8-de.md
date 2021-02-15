@@ -28,9 +28,9 @@ Es gibt ein [Sony Alpha 7 III | Spiegellose Vollformat-Kamera   Schneller 0 02s 
 
 ℹ️:
 
-- VERLÄNGERTE BATTERIENLEBENSDAUER: Große Z-Batteriekapazität für längere Aufnahme-Sessions.
-- PROFESSIONELLE VIDEOS: Vollpixel-Auslesung ohne Pixel-Binning für hochauflösende 4K-HDR-Filmaufnahmen.
 - STABILE AUFNAHMEN: Optische 5-Achsen-Bildstabilisierung für Fotos und Filme zur Kompensation von Kameraverwacklungen.
+- PROFESSIONELLE VIDEOS: Vollpixel-Auslesung ohne Pixel-Binning für hochauflösende 4K-HDR-Filmaufnahmen.
+- VERLÄNGERTE BATTERIENLEBENSDAUER: Große Z-Batteriekapazität für längere Aufnahme-Sessions.
 - SCHNELLER AUTOFOKUS: Verlassen Sie sich auf kontinuierliches Tracking und den Augen-AF (Mensch/Tier), um Ihr Motiv in jeder Situation im Fokus zu behalten.
 - ATEMBERAUBENDE BILDQUALITÄT: 24 Mp Vollformat-Sensor gepaart mit hohen ISO-Fähigkeiten, um auch bei schwachem Licht hervorragende Bilder aufzunehmen.
 

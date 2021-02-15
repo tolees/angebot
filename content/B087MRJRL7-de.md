@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi - Mi Note 10 Lite 6+128GB Midnigh mit 21.99 % Rabatt'
-date: 2021-02-14 07:20:08
+date: 2021-02-15 08:22:58
 image: 'https://m.media-amazon.com/images/I/41nB2tPufSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.de/dp/B087MRJRL7/?tag=tolees0ca-21'
 descuento: '21.99'
-average: '307.439714285715'
+average: '307.49323943662'
 ---
 
 Sie können [Xiaomi - Mi Note 10 Lite 6+128GB Midnight Black](https://www.amazon.de/dp/B087MRJRL7/?tag=tolees0ca-21) mit Preis 311.24 EUR (original: 399.0 EUR) 21.99 % Rabatt hier:
@@ -29,9 +29,9 @@ Sie können [Xiaomi - Mi Note 10 Lite 6+128GB Midnight Black](https://www.amazon
 ℹ️:
 
 - Robustes Corning Gorilla Glas 5
-- 6,47 ”FHD + 3D gebogenes AMOLED-Display
-- 5.260 mAh Hochleistungsakku
 - 64 MP hochauflösende Quad-Kamera
+- 5.260 mAh Hochleistungsakku
+- 6,47 ”FHD + 3D gebogenes AMOLED-Display
 - Qualcomm Snapdragon 730G
 
 [🛒 Hier!!](https://www.amazon.de/dp/B087MRJRL7/?tag=tolees0ca-21)

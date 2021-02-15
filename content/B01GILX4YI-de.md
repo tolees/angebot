@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '49.94 % rabat auf Calvin Klein Damen Bustier Bralette Lift'
-date: 2021-02-13 18:48:42
+date: 2021-02-15 08:03:31
 image: 'https://m.media-amazon.com/images/I/315La3jL61L._SL200_.jpg'
 comments: true
 category: ofertas

@@ -28,9 +28,9 @@ Es gibt ein [Funko 50961 POP Star Wars: The Mandalorian-Cara Dune Sammelbares Sp
 
 ℹ️:
 
-- Funko POP! ist das Spielzeug des Jahres 2018
-- Schauen Sie sich jetzt die anderen Star Wars-Figuren von Funko an! Sammeln Sie alle!
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
+- Funko POP! ist das Spielzeug des Jahres 2018
 - Von The Mandalorian, Cara Dune, zur stilisierten POP-Vinyl Figur von Funko!
+- Schauen Sie sich jetzt die anderen Star Wars-Figuren von Funko an! Sammeln Sie alle!
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B087N2MCSM/?tag=tolees0ca-21)
