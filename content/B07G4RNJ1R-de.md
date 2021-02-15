@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony RX100 V | Premium-Kompaktkamera  1  mit 34.70 % Rabatt'
-date: 2021-02-06 11:12:53
+date: 2021-02-15 01:08:33
 image: 'https://m.media-amazon.com/images/I/418dFnATfQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Sie können [Sony RX100 V | Premium-Kompaktkamera  1 0-Typ-Sensor  24-70 mm F1.8
 ℹ️:
 
 - KEINEN MOMENT VERPASSEN: Bis zu 24fps mit Autofokus
+- ATEMBERAUBENDE BILDQUALITÄT: Der große Bildsensor vom Typ 1.0 hat eine Auflösung von 20,1 Megapixeln, die mit der Back-Illuminated-Technologie einen großen Empfindlichkeitsbereich erreichen
 - SCHNELLER UND PRÄZISER AUTOFOKUS: Das schnelle Hybrid-AF-System erreicht 0,05s AF, um Ihr Motiv in jeder Situation scharf zu halten
 - TEILEN SIE IHRE KREATIONEN: Einfache Freigabe auf Ihren mobilen Geräten über die Imaging Edge Mobile-App (Wi-Fi)
-- ATEMBERAUBENDE BILDQUALITÄT: Der große Bildsensor vom Typ 1.0 hat eine Auflösung von 20,1 Megapixeln, die mit der Back-Illuminated-Technologie einen großen Empfindlichkeitsbereich erreichen
 - IDEAL FÜR VIDEO-CREATOR: Interne 4K Video-Aufnahmen mit Pro-Funktionen und Bildstabilisierung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07G4RNJ1R/?tag=tolees0ca-21)
