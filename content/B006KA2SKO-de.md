@@ -28,10 +28,10 @@ Es gibt ein [GROHE Swift | Badarmatur - Waschtischbatterie | 23264000](https://w
 
 ℹ️:
 
-- Superschnelle und einfache Montage auch durch flexible Anschlussschläuche
-- Für den Einsatz mit Durchlauferhitzern geeignet
-- Hinweis: Zur Verwendung mit Durchlauferhitzern (geschlossene Warmwasserbereiter), Thermen, Speichern; Nicht zur Verwendung mit offenen Warmwasserbereitern (sog. Niederdruckgeräte)
-- Lieferumfang: Waschtischarmatur, Zugstange, Ablaufstopfen, Befestigungsmaterial, Bedienungsanleitung
 - Herstellergarantie: 5 Jahre. Die Garantiebedingungen finden Sie unter Weitere technische Informationen. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
+- Hinweis: Zur Verwendung mit Durchlauferhitzern (geschlossene Warmwasserbereiter), Thermen, Speichern; Nicht zur Verwendung mit offenen Warmwasserbereitern (sog. Niederdruckgeräte)
+- Für den Einsatz mit Durchlauferhitzern geeignet
+- Superschnelle und einfache Montage auch durch flexible Anschlussschläuche
+- Lieferumfang: Waschtischarmatur, Zugstange, Ablaufstopfen, Befestigungsmaterial, Bedienungsanleitung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B006KA2SKO/?tag=tolees0ca-21)

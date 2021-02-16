@@ -28,10 +28,10 @@ Es gibt ein [goobay - 0.5m 2x Cinch Stecker auf 3.5mm stereo Stecker](https://ww
 
 ℹ️:
 
-- Anschluss 1: Klinke 3,5 mm Stecker (3-Pin, stereo) - Anschluss 2: 2x Cinch-Stecker (Audio links / rechts); Kabellänge 0,5 m; AWG 29 ; Farbe Schwarz
-- Auch zum Verbinden von Computern oder Notebooks mit der HiFi Anlage oder Lautsprechern mit Cinch-Eingang
+- Für die Verbindung von Geräten mit 3,5mm Kopfhöreranschluss wie Smartphones, MP3-Player oder Tablets mit den Cinch Anschlüssen von Verstärkern, Receivern, TV uvm
 - Verbinden sie z.B. ihr iPhone oder iPad mit ihrer Heimkinoanlage um ihre iTunes Playlist über ihr Soundsystem zu genießen. Das ganze geht natürlich mit jedem Smartphone mit 3,5mm Klinkenanschluss
 - Klinke 3,5mm Stecker (3-Pin, stereo) auf 2x Cinch-Stecker (Audio links / rechts)
-- Für die Verbindung von Geräten mit 3,5mm Kopfhöreranschluss wie Smartphones, MP3-Player oder Tablets mit den Cinch Anschlüssen von Verstärkern, Receivern, TV uvm
+- Anschluss 1: Klinke 3,5 mm Stecker (3-Pin, stereo) - Anschluss 2: 2x Cinch-Stecker (Audio links / rechts); Kabellänge 0,5 m; AWG 29 ; Farbe Schwarz
+- Auch zum Verbinden von Computern oder Notebooks mit der HiFi Anlage oder Lautsprechern mit Cinch-Eingang
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000LBA4UY/?tag=tolees0ca-21)
