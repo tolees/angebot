@@ -28,10 +28,10 @@ Sie können [DIGITUS Gigabit Ethernet Netzwerk-Switch - 10 Zoll - 8 Ports - Unma
 
 ℹ️:
 
-- Der LAN-Switch für 10" Netzwerk-Schränke verfügt über 8 RJ45-Buchsen und ist ideal für kleine bis mittelgroße Netzwerke im privaten sowie betrieblichen Umfeld geeignet
 - In Verbindung mit einem 10-Zoll Netzwerk-Schrank und weiteren 10" Komponenten, wie Patchpanel und Steckerleiste, lässt sich eine effiziente aber dennoch platzsparende Netzwerk-Infrastruktur aufbauen
-- Im Vollduplex-Modus erreicht der Switch eine jeweilige Datenübertragungsrate von 20 / 200 / 2000 Mbit - Der MAC-Speicher entspricht einer Größe von 8000 MAC-Adressen - Die Backplane arbeitet mit 16 Gbps
 - Dank Auto MDI/MDI-X Funktion entfällt die Notwendigkeit von Crossover-Kabeln und Uplink-Ports, da vor der Datenübertagung die Pin-Belegung des angeschlossenen Gerätes vom Switch überprüft wird
+- Der LAN-Switch für 10" Netzwerk-Schränke verfügt über 8 RJ45-Buchsen und ist ideal für kleine bis mittelgroße Netzwerke im privaten sowie betrieblichen Umfeld geeignet
 - Die Leistungsaufnahme des Gbit Network-Switch beträgt 5 Watt - Folgende Standards werden von dem Switch unterstützt: IEEE802.3, IEEE802.3u, IEEE802.3ab und IEEE802.3x
+- Im Vollduplex-Modus erreicht der Switch eine jeweilige Datenübertragungsrate von 20 / 200 / 2000 Mbit - Der MAC-Speicher entspricht einer Größe von 8000 MAC-Adressen - Die Backplane arbeitet mit 16 Gbps
 
 [🛒 Hier!!](https://www.amazon.de/dp/B079J5MNHK/?tag=tolees0ca-21)
