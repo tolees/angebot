@@ -30,8 +30,8 @@ Sie können [Corny free Nuss-Nougat  Müsliriegel OHNE Zuckerzusatz  10er Pack  
 
 - Mit 37 % Vollkorn, leckerem Haselnussmark und knusprigen Cornflakes
 - Ohne Farbstoffe und Zusatz von Konservierungsstoffen (laut Gesetz)
-- Voller Geschmack bei 69 kcal pro Riegel
 - Mit wertvollem Getreide
+- Voller Geschmack bei 69 kcal pro Riegel
 - Eine leckere Nuss-Nougat-Note und ein Hauch von Schokolade
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00XJO7BWE/?tag=tolees0ca-21)

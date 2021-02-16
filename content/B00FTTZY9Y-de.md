@@ -28,10 +28,10 @@ Sie können [Corny nussvoll erdnuss & vollmilch DER GROSSE  Nussriegel  24er Pac
 
 ℹ️:
 
-- Ohne Zusatz von Konservierungsstoffen (laut Gesetz)
-- Mit über 50 % Nüssen und mit UTZ-zertifiziertem Kakao
-- Mit knackigen Erdnüssen und leckerer Vollmilchschokolade
 - Der volle Nuss-Genuss in der klassischen Variante im XXL-Format
+- Ohne Zusatz von Konservierungsstoffen (laut Gesetz)
+- Mit knackigen Erdnüssen und leckerer Vollmilchschokolade
 - Ohne Farbstoffe
+- Mit über 50 % Nüssen und mit UTZ-zertifiziertem Kakao
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00FTTZY9Y/?tag=tolees0ca-21)

@@ -28,14 +28,14 @@ Sie können [Corny free Haselnuss  Müsliriegel OHNE Zuckerzusatz  10er Pack  10
 
 ℹ️:
 
-- Das Beste aus dem Korn
-- Energie, die schmeckt
-- Knackig lecker und ganz ohne schlechtes Gewissen
 - Köstlich körnig
-- Mit 37 % Vollkorn, wertvollen Haselnüssen und knusprigen Cornflakes
-- Ohne Zuckerzusatz, ohne Schokolade, aber mit viel Nuss
-- Voller Geschmack bei 71 kcal pro Riegel
 - Ohne Farbstoffe und Zusatz von Konservierungsstoffen (laut Gesetz)
 - Der körnige Riegel ohne zuckerzusatz
+- Das Beste aus dem Korn
+- Mit 37 % Vollkorn, wertvollen Haselnüssen und knusprigen Cornflakes
+- Energie, die schmeckt
+- Ohne Zuckerzusatz, ohne Schokolade, aber mit viel Nuss
+- Voller Geschmack bei 71 kcal pro Riegel
+- Knackig lecker und ganz ohne schlechtes Gewissen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B003SNIQPW/?tag=tolees0ca-21)

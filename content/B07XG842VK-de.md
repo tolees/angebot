@@ -28,10 +28,10 @@ Es gibt ein [Corny Your Protein Vanilla White Crunch  Eiweiß-Riegel mit 30% Pro
 
 ℹ️:
 
-- Genießen Sie unseren funktionalen Protein-Riegel, gepaart mit leckerer Schokolade, cremiger proteinfüllung und knackigen Nüssen!
 - Leckere Nüsse und Cerealien, kombiniert mit Protein
-- Kein zusätzlich hinzugefügter Zucker - maximal 2g Zucker pro Riegel
-- Ohne kollagenzusatz - nur mit vegetarischem Protein
 - Protein Power - 30% Protein aus Milch und Soja pro Riegel - 100% Geschmack
+- Ohne kollagenzusatz - nur mit vegetarischem Protein
+- Kein zusätzlich hinzugefügter Zucker - maximal 2g Zucker pro Riegel
+- Genießen Sie unseren funktionalen Protein-Riegel, gepaart mit leckerer Schokolade, cremiger proteinfüllung und knackigen Nüssen!
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07XG842VK/?tag=tolees0ca-21)
