@@ -28,12 +28,12 @@ Sie können [LEGO 76385 Harry Potter Hogwarts Moment: Zauberkunstunterricht  sam
 
 ℹ️:
 
-- The set features a brick-built book that opens to reveal 1 of 4 Hogwarts classrooms, ready to be joined while professors teach lessons
 - There are 3 more sets for kids to collect, recreating famous Hogwarts classrooms, that interlock to create a 360-degree environment
-- Kids open the sets cover to reveal Professor Flitwicks spell-casting lesson, lots of magical supplies to practice with and extend the play
 - Combine all LEGO Harry Potter Hogwarts Moment sets: Transfiguration Class (76382), Potions Class (76383), and Herbology Class (76384)
 - When the lesson ends, close the cover and take it with you wherever you go, it is of a Ideal travel size and easy to carry around
-- Also includes blackboard, bookshelf, fireplace, and a feather and textbook to help students learn the levitation charm – Wingardium Leviosa
+- Kids open the sets cover to reveal Professor Flitwicks spell-casting lesson, lots of magical supplies to practice with and extend the play
+- The set features a brick-built book that opens to reveal 1 of 4 Hogwarts classrooms, ready to be joined while professors teach lessons
 - Includes 3 minifigures: Harry Potter, Professor Flitwick standing on a pile of books to be seen, and Cho Chang, the Head of Ravenclaw House
+- Also includes blackboard, bookshelf, fireplace, and a feather and textbook to help students learn the levitation charm – Wingardium Leviosa
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08G41SJSQ/?tag=tolees0ca-21)

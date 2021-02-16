@@ -28,11 +28,11 @@ Es gibt ein [FGC - TCL TS8011 2.1-Kanal-Soundbar mit integriertem Subwoofer – 
 
 ℹ️:
 
-- INTEGRIERTER SUBWOOFER – Erleben Sie die Kraft tiefer, satter Bässe mit direkt in der Soundbar verbauten Subwoofern. Genießen Sie einen vollen, aufregenden Klang und holen Sie das Beste aus Ihrem Unterhaltungsprogramm heraus.
+- FIRE TV EDITION - Die TCL-Soundbar verfügt über einen integrierten Fire TV 4K-Streaming-Mediaplayer und bietet Ihnen ein komplettes Heimkino-Erlebnis mit Video-Streaming und überwältigendem Klang in einem einzigen Gerät. Sie benötigen kein zusätzliches Fire TV-Streaminggerät.
 - SPRACHFERNBEDIENUNG MIT ALEXA – Steuern Sie Ihre TCL-Soundbar und Ihren kompatiblen Fernseher ganz einfach mit der im Lieferumfang enthaltenen Sprachfernbedienung mit Alexa. Zudem können Sie Apps starten, Fernsehsendungen suchen, Musik abspielen, kompatible Smart Home-Geräte steuern und mehr. Drücken Sie einfach die Sprechtaste und fragen Sie Alexa.
+- INTEGRIERTER SUBWOOFER – Erleben Sie die Kraft tiefer, satter Bässe mit direkt in der Soundbar verbauten Subwoofern. Genießen Sie einen vollen, aufregenden Klang und holen Sie das Beste aus Ihrem Unterhaltungsprogramm heraus.
 - OPTIMIERTE KLANG-MODI – Verwenden Sie die Fernbedienung, um zwischen drei präzise abgestimmten Einstellungen zu wählen: Film, Musik und Nachrichten. Sorgen Sie mühelos für ein ideales Hörerlebnis ganz nach Ihrem Geschmack.
 - ENDLOSE UNTERHALTUNG - Mit dem integrierten Fire TV 4K-Streaming-Mediaplayer können Sie Tausende Apps, Alexa-Skills und Sender genießen, darunter Netflix, Prime Video, YouTube, ARD, ZDF, DAZN, waipu.tv, Amazon Music, Spotify und weitere. Möglicherweise sind Abonnements erforderlich.
 - ÜBERWÄLTIGENDE KLANGQUALITÄT WIE IM KINO – Holen Sie sich den aufregenden Klang, den Sie sonst nur im Kino erleben, in Ihre eigenen vier Wände. Unser Fokus bei der Entwicklung lag darauf, Ihnen eine beeindruckende akustische Leistung zu bieten. Um dies zu erreichen und zudem für einen klaren, dynamischen sowie intensiven Klang zu sorgen, ist das Gerät mit sorgfältig abgestimmten Treibern und Dolby Digital Plus ausgestattet.
-- FIRE TV EDITION - Die TCL-Soundbar verfügt über einen integrierten Fire TV 4K-Streaming-Mediaplayer und bietet Ihnen ein komplettes Heimkino-Erlebnis mit Video-Streaming und überwältigendem Klang in einem einzigen Gerät. Sie benötigen kein zusätzliches Fire TV-Streaminggerät.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07WGM6RB4/?tag=tolees0ca-21)

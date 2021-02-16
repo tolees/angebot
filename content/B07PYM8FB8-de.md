@@ -28,14 +28,14 @@ Es gibt ein [Apple AirPods mit kabellosem Ladecase  2. Generation ](https://www.
 
 ℹ️:
 
-- Der neue Apple H1 Chip ermöglicht schnellere kabellose Verbindungen zu deinen Geräten
-- Schnelles Aufladen im Case
-- Satte, hochwertige Audioqualität und Stimmwiedergabe
-- Schneller Zugriff auf Siri, indem du einfach „Hey Siri“ sagst
 - Zweimal tippen, um einen Track wiederzugeben oder zum nächsten zu springen
-- Das Case kann kabellos mit einer Qi kompatiblen Ladematte oder über den Lightning Connector aufgeladen werden
-- Automatisches Einschalten und Verbinden
-- Nahtloses Wechseln zwischen Geräten
 - Einfaches Einrichten für alle deine Apple Geräte
+- Automatisches Einschalten und Verbinden
+- Schnelles Aufladen im Case
+- Schneller Zugriff auf Siri, indem du einfach „Hey Siri“ sagst
+- Satte, hochwertige Audioqualität und Stimmwiedergabe
+- Der neue Apple H1 Chip ermöglicht schnellere kabellose Verbindungen zu deinen Geräten
+- Das Case kann kabellos mit einer Qi kompatiblen Ladematte oder über den Lightning Connector aufgeladen werden
+- Nahtloses Wechseln zwischen Geräten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07PYM8FB8/?tag=tolees0ca-21)

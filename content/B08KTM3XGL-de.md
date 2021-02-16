@@ -28,10 +28,10 @@ Sie können [PLAYMOBIL City Action 70670 Figurenset Ganoven  Für Kinder von 4 -
 
 ℹ️:
 
+- A great addition to the Police Mission Range, the Thief Figure Pack features three figures with acce
 - Designed to help encourage learning through interactive play
 - Features and specifications: Weight: 0
 - 7 x 4
-- A great addition to the Police Mission Range, the Thief Figure Pack features three figures with acce
 - 06 kg Dimensions: 18
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08KTM3XGL/?tag=tolees0ca-21)

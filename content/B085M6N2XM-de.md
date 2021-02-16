@@ -28,11 +28,11 @@ Es gibt ein [Amazon - Der neue Echo Dot  4. Generation  | Smarter Lautsprecher m
 
 ℹ️:
 
-- Sprachsteuerung für Ihr Smart Home – Schalten Sie Lampen ein, verstellen Sie Thermostate, steuern Sie Türschlösser und vieles mehr mit kompatiblen Geräten und allein mit Ihrer Stimme.
-- Stets bereit – Alexa kann Witze erzählen, Musik abspielen, Fragen beantworten, die Nachrichten und den Wetterbericht vorlesen, Wecker stellen und vieles mehr.
 - Wir stellen vor: der neue Echo Dot mit Uhr – unser beliebtester smarter Lautsprecher mit Alexa. Das geradlinige, kompakte Design sorgt für satten Klang, dank klarem Sound und ausgewogener Basswiedergabe.
+- Stets bereit – Alexa kann Witze erzählen, Musik abspielen, Fragen beantworten, die Nachrichten und den Wetterbericht vorlesen, Wecker stellen und vieles mehr.
+- Bleiben Sie in Verbindung – Tätigen Sie Anrufe ganz einfach per Sprachsteuerung. Verbinden Sie sich direkt über Drop In mit anderen Räumen oder verkünden Sie im gesamten Haushalt, dass das Abendessen fertig ist.
 - Perfekt für Ihren Nachttisch – Das LED-Display zeigt die Uhrzeit, Wecker sowie Timer an. Durch eine kurze Berührung an der Oberseite können Sie außerdem einen Wecker in den Schlummermodus versetzen.
 - Entwickelt, um Datenschutz zu gewährleisten – Umfasst Datenschutz- und Kontrollmaßnahmen auf mehreren Ebenen, darunter eine Mikrofon-aus-Taste, mit der Sie die Stromzufuhr zu den Mikrofonen unterbrechen und sie somit deaktivieren können.
-- Bleiben Sie in Verbindung – Tätigen Sie Anrufe ganz einfach per Sprachsteuerung. Verbinden Sie sich direkt über Drop In mit anderen Räumen oder verkünden Sie im gesamten Haushalt, dass das Abendessen fertig ist.
+- Sprachsteuerung für Ihr Smart Home – Schalten Sie Lampen ein, verstellen Sie Thermostate, steuern Sie Türschlösser und vieles mehr mit kompatiblen Geräten und allein mit Ihrer Stimme.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B085M6N2XM/?tag=tolees0ca-21)

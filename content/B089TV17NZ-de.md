@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal Pictures - Jurassic World - 5- mit 15.73 % Rabatt'
-date: 2021-02-15 09:18:11
+date: 2021-02-16 10:04:58
 image: 'https://m.media-amazon.com/images/I/51HBQQXcsBL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Universal Pictures'
 buyurl: 'https://www.amazon.de/dp/B089TV17NZ/?tag=tolees0ca-21'
 descuento: '15.73'
-average: '15.714'
+average: '15.7816666666667'
 ---
 
 Sie können [Universal Pictures - Jurassic World - 5-Movie-Collection [5 DVDs]](https://www.amazon.de/dp/B089TV17NZ/?tag=tolees0ca-21) mit Preis 16.12 EUR (original: 19.13 EUR) 15.73 % Rabatt hier:
