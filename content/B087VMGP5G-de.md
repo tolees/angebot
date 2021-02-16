@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft - Xbox Wireless Controller Sho mit 36.41 % Rabatt'
-date: 2021-02-15 01:11:05
+date: 2021-02-16 08:53:29
 image: 'https://m.media-amazon.com/images/I/41sMC1pGmdL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.de/dp/B087VMGP5G/?tag=tolees0ca-21'
 descuento: '36.41'
-average: '65.5531111111112'
+average: '65.1444680851064'
 ---
 
 Sie können [Microsoft - Xbox Wireless Controller Shock Blue](https://www.amazon.de/dp/B087VMGP5G/?tag=tolees0ca-21) mit Preis 55.95 EUR (original: 87.99 EUR) 36.41 % Rabatt hier:
@@ -29,12 +29,12 @@ Sie können [Microsoft - Xbox Wireless Controller Shock Blue](https://www.amazon
 ℹ️:
 
 - Enthält Xbox Wireless und Bluetooth-Technologie für drahtlose Spiele auf Konsole, PC, Mobiltelefonen und Tablets
-- Verfügt über Xbox Wireless- und Bluetooth-Technologie für drahtloses Gaming auf unterstützten Konsolen, Windows 10-PCs und Android-Smartphones sowie Tablets
 - Das neue hybride D-Pad ermöglicht eine genaue und dennoch vertraute Eingabe
+- An der 3,5mm-Stereo-Headsetbuchse kannst du kompatible Headsets und Kopfhörer anschließen
 - Hergestellt für mehr Komfort und bessere Haptik
 - Bleibe mit Hilfe der strukturierten Oberflächen an Triggern, Bumpers und Rückseite auf Zielkurs
 - Passe den Controller auf deine Bedürfnisse an und weise die Tasten so zu, wie du möchtest
-- An der 3,5mm-Stereo-Headsetbuchse kannst du kompatible Headsets und Kopfhörer anschließen
 - Dank der neuen Share Taste kannst du Inhalte wie Screenshots während des Spiels mühelos aufnehmen und teilen.
+- Verfügt über Xbox Wireless- und Bluetooth-Technologie für drahtloses Gaming auf unterstützten Konsolen, Windows 10-PCs und Android-Smartphones sowie Tablets
 
 [🛒 Hier!!](https://www.amazon.de/dp/B087VMGP5G/?tag=tolees0ca-21)

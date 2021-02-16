@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy A42 5G Android Smartphone mit 30.04 % Rabatt'
-date: 2021-02-15 01:19:01
+date: 2021-02-16 08:55:17
 image: 'https://m.media-amazon.com/images/I/41jFEHpHVJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.de/dp/B08JGWB9DR/?tag=tolees0ca-21'
 descuento: '30.04'
-average: '287.263157894736'
+average: '283.824761904761'
 ---
 
 Sie können [Samsung Galaxy A42 5G Android Smartphone ohne Vertrag  4 Kameras  großer 5.000 mAh Akku  6 6 Zoll Super AMOLED-Display  128 GB/4 GB RAM  5G Datenverbindung  Handy in Grau  deutsche Version](https://www.amazon.de/dp/B08JGWB9DR/?tag=tolees0ca-21) mit Preis 251.16 EUR (original: 359.0 EUR) 30.04 % Rabatt hier:

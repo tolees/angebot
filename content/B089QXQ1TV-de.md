@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung 870 QVO 1TB SATA 2 5 Zoll Intern mit 16.12 % Rabatt'
-date: 2021-02-15 07:37:22
+date: 2021-02-16 08:36:13
 image: 'https://m.media-amazon.com/images/I/31Wv-myB0kL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.de/dp/B089QXQ1TV/?tag=tolees0ca-21'
 descuento: '16.12'
-average: '96.6995045045047'
+average: '96.712098214286'
 ---
 
 Sie können [Samsung 870 QVO 1TB SATA 2 5 Zoll Internes Solid State Drive  SSD   MZ-77Q1T0BW ](https://www.amazon.de/dp/B089QXQ1TV/?tag=tolees0ca-21) mit Preis 98.11 EUR (original: 116.96 EUR) 16.12 % Rabatt hier:
