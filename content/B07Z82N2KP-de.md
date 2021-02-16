@@ -30,8 +30,8 @@ Es gibt ein [Ögon Smart Wallets - Cascade Slim Wallet - Automatische Geldbörse
 
 - Italienisches Leder und aluminium
 - Kartenfächer Mechanism
-- RFID Safe : schützen Sie Ihre Karten vor Datendiebstahl
 - Für 1 bis 8 Karten und Geldscheine
+- RFID Safe : schützen Sie Ihre Karten vor Datendiebstahl
 - Internes Scheinfach (≈ 6)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07Z82N2KP/?tag=tolees0ca-21)

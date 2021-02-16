@@ -28,12 +28,12 @@ Es gibt ein [LEGO 11013 Classic Kreativ-Bauset mit durchsichtigen Steinen und Ti
 
 ℹ️:
 
-- Tolles Weihnachts-, Geburtstags- oder spontanes Geschenk für LEGO Neulinge sowie für Jungen und Mädchen, die ihrer LEGO Steinsammlung ein Funkeln verleihen möchten
-- In der Box befinden sich separate Beutel mit Steinen, die jeweils die LEGO Teile für 2 Modelle enthalten. Wähle einfach einen Beutel aus, öffne ihn und mach Sie ans Werk
 - Inhalt des Sets: Alles, was Kinder für zwei Vögel, einen Löwen, eine Schildkröte, einen Roboter, einen Zauberer und einen Fisch brauchen, und zusätzliche LEGO Steine, um Kinder kreativ werden zu lassen
 - Neben einer gedruckten Bauanleitung sind in der kostenlosen LEGO Building Instructions App auch Instructions PLUS verfügbar. Dreh- und Vergrößerungsfunktonen erleichtern das Bauen
-- Das Bauen und Spielen mit den 8 Modellen aus dem LEGO Classic Kreativ-Bauset mit durchsichtigen Steinen (11013) ist nur der Anfang, denn Kinder können noch unzählige weitere kreative Modelle erschaffen
-- 500 LEGO Steine, darunter auch zahlreiche durchsichtige Teile, lassen Kinder kreativ werden. In Kombination mit anderen LEGO Sets bietet dieses Spielset noch mehr Bau- und Spielspaß
 - Dieses Spielset aus 500 Teilen enthält jede Menge durchsichtige LEGO Teile sowie klassische LEGO Steine, Augen und Räder für 8 witzige Modelle, die Kinder kreativ werden lassen
+- Tolles Weihnachts-, Geburtstags- oder spontanes Geschenk für LEGO Neulinge sowie für Jungen und Mädchen, die ihrer LEGO Steinsammlung ein Funkeln verleihen möchten
+- 500 LEGO Steine, darunter auch zahlreiche durchsichtige Teile, lassen Kinder kreativ werden. In Kombination mit anderen LEGO Sets bietet dieses Spielset noch mehr Bau- und Spielspaß
+- In der Box befinden sich separate Beutel mit Steinen, die jeweils die LEGO Teile für 2 Modelle enthalten. Wähle einfach einen Beutel aus, öffne ihn und mach Sie ans Werk
+- Das Bauen und Spielen mit den 8 Modellen aus dem LEGO Classic Kreativ-Bauset mit durchsichtigen Steinen (11013) ist nur der Anfang, denn Kinder können noch unzählige weitere kreative Modelle erschaffen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4KZPG4/?tag=tolees0ca-21)
