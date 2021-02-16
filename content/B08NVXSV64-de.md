@@ -28,8 +28,8 @@ Es gibt ein [SuperThings PST7S112UK00 Power Machines-Starterpack](https://www.am
 
 ℹ️:
 
-- Alles, was Sie brauchen, um Ihre Sammlung zu starten.
 - Gedruckt Comic hat lustige Geschichten und Spiele.
 - Kommt mit einem coolen metallischen Power Jet, exklusiv zu diesem Starter-Paket
+- Alles, was Sie brauchen, um Ihre Sammlung zu starten.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08NVXSV64/?tag=tolees0ca-21)

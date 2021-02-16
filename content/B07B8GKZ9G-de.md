@@ -28,10 +28,10 @@ Sie können [JBL GO 2 kleine Musikbox in Schwarz - Wasserfester  portabler Bluet
 
 ℹ️:
 
-- Lieferumfang: 1 x Mini-Boombox GO 2 von JBL inkl. Mikro-USB-Kabel / Soundbox mit Freisprechfunktion / Wasserdicht gemäß IPX7 / Lange Akkulaufzeit / 3,1 Watt / 3,5 mm Audiokabel-Anschluss
-- Schnell aufladen und loslegen? Einfach den kleinen, kabellosen Speaker schnappen und dank des integrierten Lithium-Ionen-Akkus bis zu 5 Std. Musik hören - der Ort spielt dabei keine Rolle
-- Kompakt, praktisch & stylisch zugleich: Die kleine Lautsprecherbox liefert tollen Sound in JBL-Qualität und kann zusätzlich Anrufe annehmen - ein ständiger Wegbegleiter für allerlei Abenteuer
-- Technische Geräte im Wasser? Richtig gehört Durch das wasserdichte Gehäuse wird Wireless Streaming sogar an Strand oder Pool zum unglaublichen Spaß - die GO 2 schnappen und ab ins kühle Nass
 - Smartphone oder Tablet via Bluetooth mit der Box verbinden und bequem die Lieblingsplaylist starten / Das handliche Gehäuse verschafft dem kleinen JBL Lautsprecher überall einen Platz
+- Kompakt, praktisch & stylisch zugleich: Die kleine Lautsprecherbox liefert tollen Sound in JBL-Qualität und kann zusätzlich Anrufe annehmen - ein ständiger Wegbegleiter für allerlei Abenteuer
+- Schnell aufladen und loslegen? Einfach den kleinen, kabellosen Speaker schnappen und dank des integrierten Lithium-Ionen-Akkus bis zu 5 Std. Musik hören - der Ort spielt dabei keine Rolle
+- Technische Geräte im Wasser? Richtig gehört Durch das wasserdichte Gehäuse wird Wireless Streaming sogar an Strand oder Pool zum unglaublichen Spaß - die GO 2 schnappen und ab ins kühle Nass
+- Lieferumfang: 1 x Mini-Boombox GO 2 von JBL inkl. Mikro-USB-Kabel / Soundbox mit Freisprechfunktion / Wasserdicht gemäß IPX7 / Lange Akkulaufzeit / 3,1 Watt / 3,5 mm Audiokabel-Anschluss
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07B8GKZ9G/?tag=tolees0ca-21)

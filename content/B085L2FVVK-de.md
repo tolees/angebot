@@ -28,13 +28,13 @@ Es gibt ein [Samsung TU8079 108 cm  43 Zoll  LED Fernseher  Ultra HD  HDR10+  Tr
 
 ℹ️:
 
-- Streaming-Dienste: Amazon Video, Netflix, Zattoo, Youtube, Maxdome, ARD, DAZN, Gamefly, Ran, Videoland, Videociety, Wuaki, Prosieben Apps, etc.
-- Lieferumfang: Samsung TU8079 108 cm (43 Zoll) mit Kielfuß, Fernbedienung Smarte Remote (schwarz), Stromkabel, Anleitung
 - Alexa integriert, Bixby integriert, Kompatibel mit Google Assistant und Airplay 2,
-- Typ: 4K UHD, Flat, LED Fernseher, Rahmenlos Schieferschwarz
-- HD+ integriert: 24 private HD- und 2 UHD-Sender sowie HD+ Komfort-Funktion mit Neustart, Mediatheken und TV-Guide. 6 Monate gratis testen. SAT-Empfang benötigt.
 - Digitaler Fernsehempfang (DVB): DVB-C/S2/T2 HD, Analoger Tuner, CI+, 3x HDMI, 2x USB, 1x LAN, WLAN, 1x CI+-Slot, 2x Antenneneingang
-- Auflösung 3.840 x 2.160 Pixel (4K/Ultra HD), HDR10+, PurColor, UHD Dimming, Auto Game Mode, Ambient Mode
 - HD+ integriert: 23 private HD- und 2 UHD-Sender sowie HD+ Komfort-Funktion mit Neustart, Mediatheken und TV-Guide. 6 Monate gratis testen. SAT-Empfang benötigt
+- Lieferumfang: Samsung TU8079 108 cm (43 Zoll) mit Kielfuß, Fernbedienung Smarte Remote (schwarz), Stromkabel, Anleitung
+- HD+ integriert: 24 private HD- und 2 UHD-Sender sowie HD+ Komfort-Funktion mit Neustart, Mediatheken und TV-Guide. 6 Monate gratis testen. SAT-Empfang benötigt.
+- Typ: 4K UHD, Flat, LED Fernseher, Rahmenlos Schieferschwarz
+- Streaming-Dienste: Amazon Video, Netflix, Zattoo, Youtube, Maxdome, ARD, DAZN, Gamefly, Ran, Videoland, Videociety, Wuaki, Prosieben Apps, etc.
+- Auflösung 3.840 x 2.160 Pixel (4K/Ultra HD), HDR10+, PurColor, UHD Dimming, Auto Game Mode, Ambient Mode
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B085L2FVVK/?tag=tolees0ca-21)
