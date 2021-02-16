@@ -28,8 +28,8 @@ Sie können [PLAYMOBIL Space 9489 Mars-Erkundungsfahrzeug  Ab 6 Jahren](https://
 
 ℹ️:
 
-- Spielfiguren-Set für Kinder ab 6 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Spielspaß für kleine Astronauten: PLAYMOBIL Space Mars-Erkundungsfahrzeug mit zahlreichen Zubehörteilen sowie coolen Licht- und Geräuscheffekten
+- Spielfiguren-Set für Kinder ab 6 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Mit professionellen Geräten zum Erkunden des Planeten: Abnehmbares Dach, beweglicher Greifarm, fliegende Geschosse, Öffenbare Luke, Ausklappbare Rampe
 - Lieferumfang: 1x PLAYMOBIL Space Mars-Erkundungsfahrzeug, 74-teiliges Spielset mit Anleitung: 1 Mars-Erkundungsfahrzeug, 73 Zubehörteile (wird ohne 2 x 1,5-V-Micro-Batterien geliefert), Material: Kunststoff, LxBxH: 26x17x18 cm, 9489
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel

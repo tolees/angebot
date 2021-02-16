@@ -28,12 +28,12 @@ Es gibt ein [Mepal Abfallbehälter Calypso Silber – 2200 ml – ideal für die
 
 ℹ️:
 
+- Die schmale Abfallbox nimmt wenig Platz auf der Arbeitsplatte in der Küche ein.
+- Der Müllbehälter lässt sich mit einer Hand tragen und entleeren. Der komplette Müllbehälter mit Deckel ist spülmaschinengeeignet
+- Die klappbare Deckel des Tisch-Mülleimers schließt gut ab und kann zum Reinigen abgenommen werden.
 - Auch verwendbar als Biomülleimer oder für Grünabfall und Recycling.
 - Der Silberne Abfallbehälter Calypso von Mepal eignet sich ideal für Küchenabfälle, Kaffeepads und Biomüll oder als Komposteimer für die Küche.
-- Die schmale Abfallbox nimmt wenig Platz auf der Arbeitsplatte in der Küche ein.
-- Die klappbare Deckel des Tisch-Mülleimers schließt gut ab und kann zum Reinigen abgenommen werden.
-- Hochwertiger und langlebiger Kunststoff, BPA-frei. Und wenn einmal ein Teil fehlt? Dann kann dies in aller Regel ganz einfach bei Mepal nachbestellt werden.
 - Inhalt: 2.2 L, länge 175 mm, breite 175 mm, höhe 184 mm.
-- Der Müllbehälter lässt sich mit einer Hand tragen und entleeren. Der komplette Müllbehälter mit Deckel ist spülmaschinengeeignet
+- Hochwertiger und langlebiger Kunststoff, BPA-frei. Und wenn einmal ein Teil fehlt? Dann kann dies in aller Regel ganz einfach bei Mepal nachbestellt werden.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002KQI2MK/?tag=tolees0ca-21)
