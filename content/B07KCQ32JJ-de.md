@@ -28,10 +28,10 @@ Es gibt ein [TOM TAILOR Damen Alexa Straight Jeans  Blau  Dark Stone Wash Denim 
 
 ℹ️:
 
-- aus Denim mit Stretchanteil
-- im Five-Pocket-Sytle
-- unifarben
 - mit Reißverschluss und Knopf zu schließen
+- unifarben
+- aus Denim mit Stretchanteil
 - mit Gürtelschlaufen und Logo-Badge hinten am Saum
+- im Five-Pocket-Sytle
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07KCQ32JJ/?tag=tolees0ca-21)
