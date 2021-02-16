@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '19.32 % rabat auf Playmobil City Life 70281 Abenteuerspiel'
-date: 2021-02-15 01:11:06
+date: 2021-02-16 01:50:29
 image: 'https://m.media-amazon.com/images/I/61SqZKkNgIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.de/dp/B082PGNDBV/?tag=tolees0ca-21'
 descuento: '19.32'
-average: '28.1978448275863'
+average: '28.1920512820514'
 ---
 
 Es gibt ein [Playmobil City Life 70281 Abenteuerspielplatz  ab 4 Jahren](https://www.amazon.de/dp/B082PGNDBV/?tag=tolees0ca-21) mit aktuellem Preis 27.52 EUR (original: 34.11 EUR) 19.32 % Rabatt hier:

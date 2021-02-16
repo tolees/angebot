@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NETGEAR GS108E Plus Switch 8 Port Gigabi mit 17.78 % Rabatt'
-date: 2021-02-15 01:02:48
+date: 2021-02-16 01:35:13
 image: 'https://m.media-amazon.com/images/I/41FEtHOL3RL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Netgear'
 buyurl: 'https://www.amazon.de/dp/B00MYYTP3S/?tag=tolees0ca-21'
 descuento: '17.78'
-average: '37.3714159292034'
+average: '37.3647826086956'
 ---
 
 Sie können [NETGEAR GS108E Plus Switch 8 Port Gigabit Ethernet LAN Switch  Desktop oder Wandmontage  Managed mit IGMP  QoS und VLAN  lüfterloses Metallgehäuse  ProSAFE Lifetime-Garantie ](https://www.amazon.de/dp/B00MYYTP3S/?tag=tolees0ca-21) mit Preis 36.99 EUR (original: 44.99 EUR) 17.78 % Rabatt hier:
@@ -28,12 +28,12 @@ Sie können [NETGEAR GS108E Plus Switch 8 Port Gigabit Ethernet LAN Switch  Desk
 
 ℹ️:
 
-- NETZWERKANSCHLUSSKONFIGURATION: 8 Gigabit Port (10/100/1000 MBit/s) RJ45 Netzwerk Switch
-- VIELSEITIGE MONTAGEMÖGLICHKEITEN: Desktop oder Wandmontage des LAN Verteiler-Switches möglich
-- KONFIGURATION UND STEUERUNG: Managementsoftware mit intuitiver WebGUI ermöglicht Funktionen zur Konfiguration, Sicherung und Überwachung des Netzwerks
 - LIMITED PROSAFE LIFETIME GARANTIE: Branchenführende eingeschränkte, lebenslange Hardware-Garantie, Austausch nächster Arbeitstag, 24h Chat mit NETGEAR Experten
-- ENERGIEEFFIZIENT: Optimiert Energieverbrauch und senkt Betriebskosten, da mit energieeffizientem Ethernet-Modus IEEE802.3az kompatibel
-- LANGE LEBENSDAUER: Jeder NETGEAR Netzwerk-Switch wird nach strengen Kriterien auf Zuverlässigkeit, Qualität und Leistung getestet
+- NETZWERKANSCHLUSSKONFIGURATION: 8 Gigabit Port (10/100/1000 MBit/s) RJ45 Netzwerk Switch
 - LEISER BETRIEB: Lüfterloses Design sorgt unabhängig vom Aufstellort für einen leisen Betrieb – ideal für geräuschempfindliche Umgebungen
+- ENERGIEEFFIZIENT: Optimiert Energieverbrauch und senkt Betriebskosten, da mit energieeffizientem Ethernet-Modus IEEE802.3az kompatibel
+- VIELSEITIGE MONTAGEMÖGLICHKEITEN: Desktop oder Wandmontage des LAN Verteiler-Switches möglich
+- LANGE LEBENSDAUER: Jeder NETGEAR Netzwerk-Switch wird nach strengen Kriterien auf Zuverlässigkeit, Qualität und Leistung getestet
+- KONFIGURATION UND STEUERUNG: Managementsoftware mit intuitiver WebGUI ermöglicht Funktionen zur Konfiguration, Sicherung und Überwachung des Netzwerks
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00MYYTP3S/?tag=tolees0ca-21)
