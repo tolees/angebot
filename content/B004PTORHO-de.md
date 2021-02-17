@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '33.59 % rabat auf Pentel P207-C Druckbleistift  HB  0.7 mm'
-date: 2021-02-15 19:32:09
+date: 2021-02-17 01:45:30
 image: 'https://m.media-amazon.com/images/I/41hXeNAIsKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Pentel'
 buyurl: 'https://www.amazon.de/dp/B004PTORHO/?tag=tolees0ca-21'
 descuento: '33.59'
-average: '6.6247619047619'
+average: '6.57130434782608'
 ---
 
 Es gibt ein [Pentel P207-C Druckbleistift  HB  0.7 mm  blau](https://www.amazon.de/dp/B004PTORHO/?tag=tolees0ca-21) mit aktuellem Preis 6.01 EUR (original: 9.05 EUR) 33.59 % Rabatt hier:
