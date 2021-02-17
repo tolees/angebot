@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60246 City Polizeistation  Bauset m mit 28.00 % Rabatt'
-date: 2021-02-16 10:15:20
+date: 2021-02-17 16:29:38
 image: 'https://m.media-amazon.com/images/I/51GphBT734L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W7TM73V/?tag=tolees0ca-21'
 descuento: '28.00'
-average: '71.6571146245059'
+average: '71.6597254901961'
 ---
 
 Sie können [LEGO 60246 City Polizeistation  Bauset mit 2 Trucks  Leucht- und Sound-Steinen  Drohne und Motorrad](https://www.amazon.de/dp/B07W7TM73V/?tag=tolees0ca-21) mit Preis 71.99 EUR (original: 99.99 EUR) 28.00 % Rabatt hier:
@@ -28,10 +28,10 @@ Sie können [LEGO 60246 City Polizeistation  Bauset mit 2 Trucks  Leucht- und So
 
 ℹ️:
 
-- Enthält eine 4-teilige, zwei Stockwerke hohe Polizeidienststelle mit Explosionsfunktion (für Ausbrüche), zwei Trucks, ein Motorrad und ein Drohnenspielzeug
-- Enthält 7 Minifiguren: Duke DeTain, den Polizeichef Wheeler, Daisy Kaboom, zwei Polizisten, zwei Ganoven sowie Bulldoggen- und Polizeihund-Figuren
 - Die digitale Anleitung Instructions PLUS über die kostenlose LEGO Life-App für Smart-Geräte hilft Kindern, das Modell heranzuzoomen, zu drehen und anzuzeigen, während sie bauen
 - Zum Zubehör des Spielsets gehören Handschellen, ein Skateboard, eine Taschenlampe, Dynamitstangen zum Sprengen von Gittern und eine Tischtennisplatte in der Station
 - Beinhaltet einen Suchscheinwerfer aus Leucht-Steinen, funktionierende Dachbeleuchtung und Sirene sowie eine hebelaktivierte Ausbruchs-Funktion, um dem Verfolgungsjagdspiel noch mehr Geschmack hinzuzufügen
+- Enthält eine 4-teilige, zwei Stockwerke hohe Polizeidienststelle mit Explosionsfunktion (für Ausbrüche), zwei Trucks, ein Motorrad und ein Drohnenspielzeug
+- Enthält 7 Minifiguren: Duke DeTain, den Polizeichef Wheeler, Daisy Kaboom, zwei Polizisten, zwei Ganoven sowie Bulldoggen- und Polizeihund-Figuren
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W7TM73V/?tag=tolees0ca-21)

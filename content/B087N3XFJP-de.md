@@ -28,9 +28,9 @@ Sie können [Funko 50959 The Mandalorian Mando Flying w/Jet Pack Sammelbares Spi
 
 ℹ️:
 
-- Schauen Sie sich jetzt die anderen Star Wars-Figuren von Funko an! Sammeln Sie alle!
 - Von The Mandalorian, Mando Flying w/Jet Pack, zur stilisierten POP-Vinyl Figur von Funko!
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
+- Schauen Sie sich jetzt die anderen Star Wars-Figuren von Funko an! Sammeln Sie alle!
 - Funko POP! ist das Spielzeug des Jahres 2018
 
 [🛒 Hier!!](https://www.amazon.de/dp/B087N3XFJP/?tag=tolees0ca-21)

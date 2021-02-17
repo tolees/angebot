@@ -28,11 +28,11 @@ Sie können [Pandora Damen Moments Offen gearbeitetes Unendlichkeits-Charm Sterl
 
 ℹ️:
 
-- Size: 10.5 x 10 mm
-- Material: 925 sterling silver, polished
-- Colour: silver
-- small infinity symbols strung together
 - Partly blackened
+- small infinity symbols strung together
+- Colour: silver
 - IMPORTANT: This product does not come in a Pandora box, the box is sold separately. Item comes in clear plastic bag only.
+- Material: 925 sterling silver, polished
+- Size: 10.5 x 10 mm
 
 [🛒 Hier!!](https://www.amazon.de/dp/B074WLBF9C/?tag=tolees0ca-21)

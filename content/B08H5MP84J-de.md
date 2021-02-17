@@ -28,9 +28,9 @@ Es gibt ein [Samsung Galaxy Fit2 Fitness-Tracker  1 1 Zoll AMOLED Farbdisplay  F
 
 ℹ️:
 
-- excellent quality
+- Display size: 1.1 inches
 - improve your health monitoring
 - unique style
-- Display size: 1.1 inches
+- excellent quality
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08H5MP84J/?tag=tolees0ca-21)

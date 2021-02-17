@@ -28,11 +28,11 @@ Es gibt ein [Crocs Unisex-Erwachsene Crocband Clogs  Navy  48/49 EU](https://www
 
 ℹ️:
 
+- Sohlenmaterial: Gummi
+- Absatzform: Flach; Materialzusammensetzung: 100 % Croslite
+- Verschluss: Ohne Verschluss; Größenhinweis: Fällt regulär aus
+- Futter: ohne Futter
 - Sohlengrößen sind US. Label zeigt UK. M = Herren W = Damen
 - Obermaterial: Synthetik
-- Absatzform: Flach; Materialzusammensetzung: 100 % Croslite
-- Futter: ohne Futter
-- Verschluss: Ohne Verschluss; Größenhinweis: Fällt regulär aus
-- Sohlenmaterial: Gummi
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002KAOCT8/?tag=tolees0ca-21)

@@ -30,8 +30,8 @@ Sie können [Lonheo Schwarze Edelstahl Küchenarmatur mit Dual-Spülbrause  360�
 
 - 𝗛𝗢𝗖𝗛𝗪𝗘𝗥𝗧𝗜𝗚𝗘 𝗤𝗨𝗔𝗟𝗜𝗧Ä𝗧 𝗜𝗡 𝗗𝗘𝗥 𝗞Ü𝗖𝗛𝗘: Die Einhand-Küchenarmatur ist aus Edelstahl und kombiniert mit der langlebige mattschwarze Oberfläche erhält das Modell einen Schutz vor Korrosion und Verschleiß.
 - 𝗚𝗥𝗢ß𝗘 𝗧Ö𝗣𝗙𝗘 𝗟𝗘𝗜𝗖𝗛𝗧 𝗕𝗘𝗙Ü𝗟𝗟𝗘𝗡: Das ergonomische Design mit einer angenehmen Auslaufhöhe von 204 mm ermöglicht das einfache Befüllen auch sehr großer Gefäße.
-- 𝗜𝗡𝗡𝗢𝗩𝗔𝗧𝗜𝗢𝗡 𝗗𝗜𝗘 𝗦𝗣𝗔𝗥𝗘𝗡𝗗: Die Wassersparfunktion ermöglicht durch eine zweistufige Hebelbewegung die Steuerung des Wasserflusses und spart damit bis zu 50 % Wasser.
 - 𝗘𝗜𝗡𝗙𝗔𝗖𝗛𝗘 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡: Dank des guten Bedienungsanleitung und Schnellmontage-Systems gelingt die Installation schnell und einfach. Hahnlochbohrung von 35 mm benötigt.
+- 𝗜𝗡𝗡𝗢𝗩𝗔𝗧𝗜𝗢𝗡 𝗗𝗜𝗘 𝗦𝗣𝗔𝗥𝗘𝗡𝗗: Die Wassersparfunktion ermöglicht durch eine zweistufige Hebelbewegung die Steuerung des Wasserflusses und spart damit bis zu 50 % Wasser.
 - 𝟮 𝗦𝗧𝗥𝗔𝗛𝗟𝗔𝗥𝗧𝗘𝗡: Auf Knopfdruck kann direkt am Auslauf zwischen zwei Strahlarten umgeschaltet werden. Der sanfte Brausestrahl eignet sich dabei ideal zum schonenden Abspülen von Obst und Gemüse.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08G1MSM5D/?tag=tolees0ca-21)
