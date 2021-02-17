@@ -28,14 +28,14 @@ Es gibt ein [LG Electronics - LG OLED55BX9LB 139 cm  55 Zoll  OLED Fernseher  4K
 
 ℹ️:
 
-- Anzeige größe: 55.0 inches
 - prozessor: α7 gen3 prozessor mit ai sound, ai picture und ai brightness optimiert die bilddarstellung auf basis von deep-learning-algorithmen
 - tunertyp und konnektivität: twin triple tuner: 2x (dvb-t2 hd/-c/-s2) mit watch & record, lan, wlan, bluetooth
-- bild und ton: optimale hdr-unterstützung durch 4k cinema hdr (dolby vision iq, hdr10 pro, hlg), dolby atmos-fähiges 2.2 soundsystem mit 40 watt
-- Stromquellentyp: Kabelgebundene Elektrik
-- smart tv: webos 5.0 (ai thinq) mit google assistant und alexa-integration, apple airplay 2-kompatibel, home dashboard, magic remote-fernbedienung
-- anschlüsse: 2x hdmi 2.0, 2x hdmi 2.1 (earc, simplink), 3x usb, 1x lan, wlan (802. 11ac), bluetooth (v5.0), optischer ausgang, kopfhörerausgang, ci+ 1.4
 - lieferumfang: oled55bx9lb, lg magic remote-fernbedienung inkl. batterien, schnellstartanleitung, standfuß, stromkabel
+- Stromquellentyp: Kabelgebundene Elektrik
+- bild und ton: optimale hdr-unterstützung durch 4k cinema hdr (dolby vision iq, hdr10 pro, hlg), dolby atmos-fähiges 2.2 soundsystem mit 40 watt
+- anschlüsse: 2x hdmi 2.0, 2x hdmi 2.1 (earc, simplink), 3x usb, 1x lan, wlan (802. 11ac), bluetooth (v5.0), optischer ausgang, kopfhörerausgang, ci+ 1.4
+- smart tv: webos 5.0 (ai thinq) mit google assistant und alexa-integration, apple airplay 2-kompatibel, home dashboard, magic remote-fernbedienung
+- Anzeige größe: 55.0 inches
 - 4k oled smart tv mit 139 cm (55 zoll) bildschirmdiagonale, außenmaße 122,8 cm x 74,4 cm, vesa norm: 300 x 200 mm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08GSRG6QP/?tag=tolees0ca-21)
