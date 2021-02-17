@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft - Xbox Wireless Controller Car mit 16.40 % Rabatt'
-date: 2021-02-16 09:02:29
+date: 2021-02-17 15:08:12
 image: 'https://m.media-amazon.com/images/I/414ZFHo8wUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.de/dp/B07SDFLVKD/?tag=tolees0ca-21'
 descuento: '16.40'
-average: '60.1892'
+average: '60.1152941176471'
 ---
 
 Sie können [Microsoft - Xbox Wireless Controller Carbon Black](https://www.amazon.de/dp/B07SDFLVKD/?tag=tolees0ca-21) mit Preis 56.42 EUR (original: 67.49 EUR) 16.40 % Rabatt hier:
@@ -30,7 +30,7 @@ Sie können [Microsoft - Xbox Wireless Controller Carbon Black](https://www.amaz
 
 - An der 3,5mm-Stereo-Headsetbuchse kannst du kompatible Headsets und Kopfhörer anschließen
 - Verfügt über Xbox Wireless- und Bluetooth-Technologie für drahtloses Gaming auf unterstützten Konsolen, Windows 10-PCs, Android-Smartphones sowie Tablets
-- Erleben Sie das modernisierte Design des Xbox Wireless Controllers in Carbon Black, der mit seinen geformten Oberflächen und der verfeinerten Geometrie für mehr Komfort beim Spielen sorgt. Bleiben Sie dank der strukturierten Grifffläche und dem hybriden D-Pad auf Zielkurs
 - Sie können den Controller auf ihre Bedürfnisse anpassen und über die Xbox Zubehör-App die Tasten so zuweisen, wie Sie möchten
+- Erleben Sie das modernisierte Design des Xbox Wireless Controllers in Carbon Black, der mit seinen geformten Oberflächen und der verfeinerten Geometrie für mehr Komfort beim Spielen sorgt. Bleiben Sie dank der strukturierten Grifffläche und dem hybriden D-Pad auf Zielkurs
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07SDFLVKD/?tag=tolees0ca-21)
