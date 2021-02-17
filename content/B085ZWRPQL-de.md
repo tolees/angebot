@@ -28,10 +28,10 @@ Sie können [le-idea GPS Drohne mit Kamera 4K Kamera FPV RC Quadcopter  5G WiFi 
 
 ℹ️:
 
-- 【Verschiedene Flugmodi】 Sie können nach Belieben fliegen, indem Sie den "Follow Me" -Modus oder "Zeichnen einer Route" auf der App-Steuerungsseite verwenden. Sie können sogar die App verwenden, um das Umkreisen eines Objekts festzulegen und eine gewünschte Route zu planen, auf die Sie sich konzentrieren möchten Nehmen Sie Fotos und Videos auf und genießen Sie den Spaß im Freien.
-- 【Drohne der Anfänger】 IDEA21 (Update） ist für Anfänger geeignet, die noch keine Drohnen verwendet haben. Spieler fliegen die Drohne in wenigen Schritten wie im Handbuch beschrieben. Bitte kontaktieren Sie uns, wenn Sie nicht verstehen, wie man abhebt.
-- 【4K-Kamera- und Drohnenmaterial】 120 ° -Weitwinkel-4K-Kamera. Stellen Sie die Kamera nach oben und unten ein, damit Sie eine recht klare und flüssige Echtzeitübertragung von Bildern und Videos genießen können. Die Drohne besteht aus hartem ABS-Material, das sehr langlebig ist. Anfänger müssen keine Angst haben, dass Drohnen herunterfallen.
 - 【GPS-Flugsystem】 IDEA21 kehrt automatisch nach Hause zurück, wenn die Fernbedienung ausgeschaltet oder die Drohne schwach ist. Machen Sie sich keine Sorgen, dass Sie sie wegfliegen. (Wenn Sie im Freien abheben, müssen Sie nach GPS-Signalen suchen. Wenn die 4 grünen und blauen Anzeigelampen der Drohne leuchten, blinken sie nicht.）
 - 【Leistung und Entfernung】 Der intelligente Akku mit großer Kapazität verlängert die Flugzeit auf 15 Minuten. 5G drahtlose Videoübertragungsentfernung: 200 m, Max. Flugradius: 200 m. Maximale Flughöhe: 120 m
+- 【Drohne der Anfänger】 IDEA21 (Update） ist für Anfänger geeignet, die noch keine Drohnen verwendet haben. Spieler fliegen die Drohne in wenigen Schritten wie im Handbuch beschrieben. Bitte kontaktieren Sie uns, wenn Sie nicht verstehen, wie man abhebt.
+- 【Verschiedene Flugmodi】 Sie können nach Belieben fliegen, indem Sie den "Follow Me" -Modus oder "Zeichnen einer Route" auf der App-Steuerungsseite verwenden. Sie können sogar die App verwenden, um das Umkreisen eines Objekts festzulegen und eine gewünschte Route zu planen, auf die Sie sich konzentrieren möchten Nehmen Sie Fotos und Videos auf und genießen Sie den Spaß im Freien.
+- 【4K-Kamera- und Drohnenmaterial】 120 ° -Weitwinkel-4K-Kamera. Stellen Sie die Kamera nach oben und unten ein, damit Sie eine recht klare und flüssige Echtzeitübertragung von Bildern und Videos genießen können. Die Drohne besteht aus hartem ABS-Material, das sehr langlebig ist. Anfänger müssen keine Angst haben, dass Drohnen herunterfallen.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B085ZWRPQL/?tag=tolees0ca-21)

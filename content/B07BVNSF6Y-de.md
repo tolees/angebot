@@ -28,8 +28,8 @@ Es gibt ein [Sony KDL-43WF665 Bravia 109 2 cm  43 Zoll  Fernseher  Full HD  HDR 
 
 ℹ️:
 
-- Die dynamische Hintergrundbeleuchtung optimiert die Energieeffizienz, da sich die Helligkeit des Bildschirms an die jeweiligen Inhalte anpass
-- Im Energiesparmodus wird die Helligkeit des Bildschirms angepasst
 - Im „Display Aus“-Modus wird der Bildschirm automatisch abgeschaltet, ohne dass dabei der Fernseher komplett in den Standby-Modus wechselt. Dies bedeutet, dass Sie Audioinhalte nach wie vor hören können
+- Im Energiesparmodus wird die Helligkeit des Bildschirms angepasst
+- Die dynamische Hintergrundbeleuchtung optimiert die Energieeffizienz, da sich die Helligkeit des Bildschirms an die jeweiligen Inhalte anpass
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07BVNSF6Y/?tag=tolees0ca-21)
