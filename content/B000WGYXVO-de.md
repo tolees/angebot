@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '37.28 % rabat auf Pentel TRJ50-AO Tradio Federschreiber St'
-date: 2021-02-15 19:31:58
+title: '16.67 % rabat auf Pentel TRJ50-AO Tradio Federschreiber St'
+date: 2021-02-17 02:13:58
 image: 'https://m.media-amazon.com/images/I/21B9P5vP6rL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -12,25 +12,25 @@ tags: [  ]
 actualPrice: 7.25 EUR
 currency: EUR
 price: 7.25
-comparePrice: 11.56 EUR
+comparePrice: 8.7 EUR
 prodname: 'Pentel TRJ50-AO Tradio Federschreiber Stylo  Schreibfarbe: schwarz  Gehäusefarbe: schwarz'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Pentel'
 buyurl: 'https://www.amazon.de/dp/B000WGYXVO/?tag=tolees0ca-21'
-descuento: '37.28'
-average: '7.95273743016762'
+descuento: '16.67'
+average: '7.94497237569063'
 ---
 
-Es gibt ein [Pentel TRJ50-AO Tradio Federschreiber Stylo  Schreibfarbe: schwarz  Gehäusefarbe: schwarz](https://www.amazon.de/dp/B000WGYXVO/?tag=tolees0ca-21) mit aktuellem Preis 7.25 EUR (original: 11.56 EUR) 37.28 % Rabatt hier:
+Es gibt ein [Pentel TRJ50-AO Tradio Federschreiber Stylo  Schreibfarbe: schwarz  Gehäusefarbe: schwarz](https://www.amazon.de/dp/B000WGYXVO/?tag=tolees0ca-21) mit aktuellem Preis 7.25 EUR (original: 8.7 EUR) 16.67 % Rabatt hier:
 
 [![Pentel TRJ50-AO Tradio Federschreiber St](https://m.media-amazon.com/images/I/21B9P5vP6rL._SL200_.jpg)](https://www.amazon.de/dp/B000WGYXVO/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Nachfüllbar mit Patrone MLJ20
-- Ideal zum Schreiben aber auch Zeichnen
 - Matt-schwarzes Gehäuse, Kappe mit Clip
 - Tradio Stylo Federschreiber - einzigartig durch seine flexible Kunststoff-Federspitze
+- Ideal zum Schreiben aber auch Zeichnen
+- Nachfüllbar mit Patrone MLJ20
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000WGYXVO/?tag=tolees0ca-21)
