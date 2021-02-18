@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NETGEAR GS108E Switch 8 Port Gigabit Eth mit 17.78 % Rabatt'
-date: 2021-02-17 01:45:37
+date: 2021-02-18 02:04:33
 image: 'https://m.media-amazon.com/images/I/41FEtHOL3RL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Netgear'
 buyurl: 'https://www.amazon.de/dp/B00MYYTP3S/?tag=tolees0ca-21'
 descuento: '17.78'
-average: '37.358376068376'
+average: '37.3552542372881'
 ---
 
 Sie können [NETGEAR GS108E Switch 8 Port Gigabit Ethernet LAN Switch Plus  Netzwerk Switch  Managed mit IGMP  QoS  VLAN  lüfterloses Metallgehäuse  ProSAFE Lifetime-Garantie ](https://www.amazon.de/dp/B00MYYTP3S/?tag=tolees0ca-21) mit Preis 36.99 EUR (original: 44.99 EUR) 17.78 % Rabatt hier:
@@ -29,11 +29,11 @@ Sie können [NETGEAR GS108E Switch 8 Port Gigabit Ethernet LAN Switch Plus  Netz
 ℹ️:
 
 - VIELSEITIGE MONTAGEMÖGLICHKEITEN: Desktop oder Wandmontage des LAN Verteiler-Switches möglich
+- ENERGIEEFFIZIENT: Optimiert Energieverbrauch und senkt Betriebskosten, da mit energieeffizientem Ethernet-Modus IEEE802.3az kompatibel
+- KONFIGURATION UND STEUERUNG: Managementsoftware mit intuitiver WebGUI ermöglicht Funktionen zur Konfiguration, Sicherung und Überwachung des Netzwerks
 - NETZWERKANSCHLUSSKONFIGURATION: 8 Gigabit Port (10/100/1000 MBit/s) RJ45 Netzwerk Switch
+- LANGE LEBENSDAUER: Jeder NETGEAR Netzwerk-Switch wird nach strengen Kriterien auf Zuverlässigkeit, Qualität und Leistung getestet
 - LEISER BETRIEB: Lüfterloses Design sorgt unabhängig vom Aufstellort für einen leisen Betrieb – ideal für geräuschempfindliche Umgebungen
 - LIMITED PROSAFE LIFETIME GARANTIE: Branchenführende eingeschränkte, lebenslange Hardware-Garantie, Austausch nächster Arbeitstag, 24h Chat mit NETGEAR Experten
-- KONFIGURATION UND STEUERUNG: Managementsoftware mit intuitiver WebGUI ermöglicht Funktionen zur Konfiguration, Sicherung und Überwachung des Netzwerks
-- LANGE LEBENSDAUER: Jeder NETGEAR Netzwerk-Switch wird nach strengen Kriterien auf Zuverlässigkeit, Qualität und Leistung getestet
-- ENERGIEEFFIZIENT: Optimiert Energieverbrauch und senkt Betriebskosten, da mit energieeffizientem Ethernet-Modus IEEE802.3az kompatibel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00MYYTP3S/?tag=tolees0ca-21)

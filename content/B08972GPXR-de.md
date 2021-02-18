@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '22.72 % rabat auf UNIVERSAL CLASSIC  A - Disney Goes Class'
-date: 2021-02-15 08:15:04
+date: 2021-02-18 02:11:41
 image: 'https://m.media-amazon.com/images/I/51gxkNHVYZL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'UNIVERSAL CLASSIC (A'
 buyurl: 'https://www.amazon.de/dp/B08972GPXR/?tag=tolees0ca-21'
 descuento: '22.72'
-average: '16.786'
+average: '15.9833333333333'
 ---
 
 Es gibt ein [UNIVERSAL CLASSIC  A - Disney Goes Classical](https://www.amazon.de/dp/B08972GPXR/?tag=tolees0ca-21) mit aktuellem Preis 11.97 EUR (original: 15.49 EUR) 22.72 % Rabatt hier:

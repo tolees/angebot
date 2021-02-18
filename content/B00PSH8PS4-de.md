@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '24.91 % rabat auf Ersatzmine Patrone für Pentel Tradio Sty'
-date: 2021-02-04 04:21:33
+title: '27.38 % rabat auf Ersatzmine Patrone für Pentel Tradio Sty'
+date: 2021-02-18 02:13:05
 image: 'https://m.media-amazon.com/images/I/31POKs9DnzL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,26 @@ author: ring
 slug: 'B00PSH8PS4-de Ersatzmine Patrone für Pentel Tradio Stylo...'
 sku: 'B00PSH8PS4-de'
 tags: [  ]
-actualPrice: 8.71 EUR
+actualPrice: 9.15 EUR
 currency: EUR
-price: 8.71
-comparePrice: 11.6 EUR
+price: 9.15
+comparePrice: 12.6 EUR
 prodname: 'Ersatzmine Patrone für Pentel Tradio Stylo Tintenfederhalter MLJ20  3 Stück  Schwarz '
 country: 'de'
 flag: '🇩🇪'
 brand: 'Pentel'
 buyurl: 'https://www.amazon.de/dp/B00PSH8PS4/?tag=tolees0ca-21'
-descuento: '24.91'
-average: '9.60142857142857'
+descuento: '27.38'
+average: '9.59172043010752'
 ---
 
-Es gibt ein [Ersatzmine Patrone für Pentel Tradio Stylo Tintenfederhalter MLJ20  3 Stück  Schwarz ](https://www.amazon.de/dp/B00PSH8PS4/?tag=tolees0ca-21) mit aktuellem Preis 8.71 EUR (original: 11.6 EUR) 24.91 % Rabatt hier:
+Es gibt ein [Ersatzmine Patrone für Pentel Tradio Stylo Tintenfederhalter MLJ20  3 Stück  Schwarz ](https://www.amazon.de/dp/B00PSH8PS4/?tag=tolees0ca-21) mit aktuellem Preis 9.15 EUR (original: 12.6 EUR) 27.38 % Rabatt hier:
 
 [![Ersatzmine Patrone für Pentel Tradio Sty](https://m.media-amazon.com/images/I/31POKs9DnzL._SL200_.jpg)](https://www.amazon.de/dp/B00PSH8PS4/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Item Package Quantity: 1
-- Colour: Black
-- Package Weight: 20 grams
-- Model Number: MLJ20 Schwarz
+- Pentel Federschreiber-Mine MLJ20-A, schwarz, 3 Stück
+- Flexible Platik-Federspitze für variable Strichstärke passend für alle Federschreiber Pentel Tradio
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00PSH8PS4/?tag=tolees0ca-21)
