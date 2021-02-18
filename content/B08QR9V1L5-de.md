@@ -28,10 +28,10 @@ Sie können [DANISH ENDURANCE Merino Wandersocken für Herren  Damen & Kinder  3
 
 ℹ️:
 
-- MERINOWOLLE FÜR TROCKENE FÜßE: Die antibakteriellen und temperaturregulierenden Eigenschaften der Merinowolle sorgen dafür, dass deine Füße im Winter warm und im Sommer frisch und schweißfrei sind. Belüftungsbahnen leiten Schweiß effektiv ab. Die gezielte Polsterung reduziert Erschütterungen und das Risiko von Blasen
 - IDEAL FÜR WANDERUNGEN, OUTDOOR- UND WINTERSPORTARTEN: Unsere Unisex Wandersocken eigen sich ideal für Bergsteigen, Wanderungen, Trekking, Outdoor-Abenteuer und gleichzeitig als gemütliche Alltags-Socken. Die starke Polsterung der Socken sorgt auch für Komfort in unbequemen Arbeitsschuhen. Diese Thermosocken sind ein ideales Geschenk für deine Familie und Freunde. Verfügbar in den folgenden Größen: 35-38, 39-42 und 43-47. Im Zweifel wird empfohlen die kleinere Größe zu bestellen
-- AUSGEZEICHNETER KUNDENSERVICE: Wir geben stets unser Bestes, um dir einen exzellenten Kundenservice zu bieten und helfen dir jederzeit gerne weiter. Schreib uns, wenn du Fragen oder Probleme hast
-- DÄNISCHES DESIGN – IN EUROPA HERGESTELLT: Unser Danish Endurance-Designteam entwickelt die Merino Wandersocken in Kopenhagen, Dänemark. Die Produktion befindet sich in Portugal, wo wir für faire Arbeitsbedingungen sorgen. Außerdem ist die von uns verwendete Merinowolle tierfreundlich und Mulesing-frei
 - EMPOHLEN VON BERGSTEIGER: Diese Wandersocken wurden zusammen mit dem Extremsportler und Bergsteiger Rasmus Kragh entwickelt, dem ersten Dänen, der im Mai 2019 den Mount Everest ohne künstlichen Sauerstoff bestieg. Während seines Trainings und seiner Exkursionen testet Rasmus unsere Socken, damit diese ein Höchstmaß an Leistung und Materialausdauer gewährleisten
+- AUSGEZEICHNETER KUNDENSERVICE: Wir geben stets unser Bestes, um dir einen exzellenten Kundenservice zu bieten und helfen dir jederzeit gerne weiter. Schreib uns, wenn du Fragen oder Probleme hast
+- MERINOWOLLE FÜR TROCKENE FÜßE: Die antibakteriellen und temperaturregulierenden Eigenschaften der Merinowolle sorgen dafür, dass deine Füße im Winter warm und im Sommer frisch und schweißfrei sind. Belüftungsbahnen leiten Schweiß effektiv ab. Die gezielte Polsterung reduziert Erschütterungen und das Risiko von Blasen
+- DÄNISCHES DESIGN – IN EUROPA HERGESTELLT: Unser Danish Endurance-Designteam entwickelt die Merino Wandersocken in Kopenhagen, Dänemark. Die Produktion befindet sich in Portugal, wo wir für faire Arbeitsbedingungen sorgen. Außerdem ist die von uns verwendete Merinowolle tierfreundlich und Mulesing-frei
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08QR9V1L5/?tag=tolees0ca-21)

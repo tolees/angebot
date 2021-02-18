@@ -28,11 +28,11 @@ Es gibt ein [Pegasus Spiele 55115G - Istanbul Kennerspiel des Jahres 2014](https
 
 ℹ️:
 
-- Clevere Kombination aus variablem Spielaufbau und strategischem Bewegungsmechanismus
 - Kennerspiel ab 10 Jahren
+- Clevere Kombination aus variablem Spielaufbau und strategischem Bewegungsmechanismus
+- Spieldauer: 40-60 Minuten
 - Stimmungsvoller Rubinhandel im orientalischen Istanbul
 - Kennerspiel des Jahres 2014
 - Spieleranzahl: 2-5
-- Spieldauer: 40-60 Minuten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00ICF0P0U/?tag=tolees0ca-21)

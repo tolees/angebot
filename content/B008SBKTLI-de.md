@@ -28,8 +28,8 @@ Es gibt ein [Lancôme La Vie Est Belle femme/ woman Eau de Parfum  1er Pack   1x
 
 ℹ️:
 
-- Duftnoten: Blumig, Fruchtig
 - Dieser Duft bringt jeden zum Strahlen - La Vie Est Belle von Lancôme
+- Duftnoten: Blumig, Fruchtig
 - Duftcharakter: Elegant, Feminin
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B008SBKTLI/?tag=tolees0ca-21)
