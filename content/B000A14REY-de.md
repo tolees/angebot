@@ -28,10 +28,10 @@ Es gibt ein [WMF Manhattan Flachmann Edelstahl 6-teilig  Flachmann 200ml  Flask 
 
 ℹ️:
 
-- Der Flachmann ist sehr temperaturbeständig, selbst bei niedrigster Temperaturen und hat eine hohe Langlebigkeit. Der mitgelieferte Trichter ermöglicht ein leichtes Befüllen mit Flüssigkeit
+- Material: Cromargan Edelstahl 18/10 mattiert - rostfrei, pflegeleicht, geschmacksneutral und säurefest, spülmaschinengeeignet. Leder
 - Inhalt: 1x Flachmann (Höhe 13 cm, Breite 10 cm, Volumen 20cl), 1x Trichter, 4x Schnapsgläser im Lederetui - Artikelnummer: 0603529990
 - Der klappbare Schraubverschlussdeckel ist mit dem Flachmann verbunden, so kann er nicht verloren gehen. Die Stamper zum Genuss von Schnaps können unterwegs gestapelt im Lederetui transportiert werden
 - Der Flachmann hat eine gute Größe um in einer Tasche oder der Hosentasche mitgetragen zu werden - beim Wandern, Ski Fahren, Angeln, Camping uvm. Er ist ein tolles Geschenk mit individueller Gravur
-- Material: Cromargan Edelstahl 18/10 mattiert - rostfrei, pflegeleicht, geschmacksneutral und säurefest, spülmaschinengeeignet. Leder
+- Der Flachmann ist sehr temperaturbeständig, selbst bei niedrigster Temperaturen und hat eine hohe Langlebigkeit. Der mitgelieferte Trichter ermöglicht ein leichtes Befüllen mit Flüssigkeit
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000A14REY/?tag=tolees0ca-21)

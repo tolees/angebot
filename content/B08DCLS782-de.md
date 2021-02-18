@@ -28,10 +28,10 @@ Es gibt ein [NULAXY KM13 Kabellose Tastatur mit Schiebeständer Bluetooth Tastat
 
 ℹ️:
 
-- 【Universelle Kompatibilität】 Kompatibel mit iOS, Android und Windows, iPad Air 3/2/1, iPad Pro, iPad Mini 4/3/2/1, iPad 4/3/2, iPhone X/ 8/ 8 Plus, Surface Tablet, Smartphones usw.
-- 【Tragbare drahtlose Tastatur】 Die Bluetooth Tastatur ist leicht und kompakt, kann problemlos in einem Rucksack, einer Schultasche oder einem Koffer getragen werden und bietet eine drahtlose Verbindung mit Betriebsentfernung beträgt bis zu 10 Meter, sodass Sie die Tastatur überall verwenden können.
-- 【Platzsparender Schiebeständer】Das Design des Schiebeständers hilft, Platz zu sparen, indem er in die Oberseite der Tastatur hinein- und herausgeschoben wird. Sie können Ihr Telefon oder Tablet auf den Ständer stellen. Geeignet für 4.0 - 10.5 Zoll Geräte.
 - 【Energieein Sparung】Die Tastatur wechselt automatisch in den Ruhezustand, nachdem sie 10 Minuten lang nicht benutzt wurde. Der Energiesparmodus kann mehr als 90 Tage dauern (basierend auf zwei Betriebsstunden pro Tag). Nicht enthalten 2*AAA Batterien.
+- 【Platzsparender Schiebeständer】Das Design des Schiebeständers hilft, Platz zu sparen, indem er in die Oberseite der Tastatur hinein- und herausgeschoben wird. Sie können Ihr Telefon oder Tablet auf den Ständer stellen. Geeignet für 4.0 - 10.5 Zoll Geräte.
+- 【Universelle Kompatibilität】 Kompatibel mit iOS, Android und Windows, iPad Air 3/2/1, iPad Pro, iPad Mini 4/3/2/1, iPad 4/3/2, iPhone X/ 8/ 8 Plus, Surface Tablet, Smartphones usw.
 - 【Komfortable Taste】 Mit weichen und verschleißfesten Tasten können Sie leise und reibungslos tippen. Die KM13 universelle Tastatur in voller Größe bietet ein sehr komfortables und wunderbares Tipperlebnis.
+- 【Tragbare drahtlose Tastatur】 Die Bluetooth Tastatur ist leicht und kompakt, kann problemlos in einem Rucksack, einer Schultasche oder einem Koffer getragen werden und bietet eine drahtlose Verbindung mit Betriebsentfernung beträgt bis zu 10 Meter, sodass Sie die Tastatur überall verwenden können.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08DCLS782/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [Mepal - Lunchpot Ellipse Nordic green – 500 ml praktischer Müsli
 
 ℹ️:
 
+- 2 Behälter: 500 ml (ohne Deckel mikrowellengeeignet) und 200 ml Inhalt, zum Beispiel für Müsli oder Knusperflakes.
 - Der Lunchpot ist auslaufsicher und besteht aus zwei verschiedenen Behältern, in denen zwei Zutaten einer Speise getrennt voneinander mitgenommen werden können.
 - Der Mepal Lunchpot ist vielseitig verwendbar, zum Beispiel als Joghurtbecher, Suppenbecher, Snackpot oder Müslibecher to go.
 - Der grüne Lunchpot Ellipse von Mepal ist der ideale Behälter, um Mittagessen, Pausensnack und Lunch to go mitzunehmen.
-- 2 Behälter: 500 ml (ohne Deckel mikrowellengeeignet) und 200 ml Inhalt, zum Beispiel für Müsli oder Knusperflakes.
 - Der vielseitig verwendbare Lunchpot kann ohne Deckel als Mikrowellengeschirr verwendet werden und ist zudem geeignet für Tiefkühler und Spülmaschine.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06XCJFKJB/?tag=tolees0ca-21)
