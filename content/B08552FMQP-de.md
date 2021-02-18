@@ -28,15 +28,15 @@ Es gibt ein [DYON Smart 32 XT 80 cm  32 Zoll  Fernseher  HD Smart TV  HD Triple 
 
 ℹ️:
 
+- Smart TV: integriertes WLAN, LAN Anschluss (RJ45), USB-Mediaplayer
 - Empfang: DVB-T2 (Terrestrisch), DVB-C (Kabel), DVB-S2 (Satellit), CI+
-- Abmessung (mit Standfuß): 73,2 x 47,6 x 20,7 cm (BxHxT)
-- Lieferumfang: Smart 32 XT, Fernbedienung inkl. Batterien, Standfuß, Schnellstart-Bedienungsanleitung
-- Auflösung: HD-Ready 1.366 x 768 Pixel
+- Smart Portal: Prime Video, Netflix, HbbTV, Youtube, Facebook, ARD-/ZDF-Mediathek, DEEZER, etc.
 - Fernbedienung: Prime Video und Netflix Taste für Schnellstart
+- Auflösung: HD-Ready 1.366 x 768 Pixel
+- Lieferumfang: Smart 32 XT, Fernbedienung inkl. Batterien, Standfuß, Schnellstart-Bedienungsanleitung
+- Typ: Smart LED-Fernseher mit 80 cm (31, 5 Zoll) Bildschirmdiagonale
+- Abmessung (mit Standfuß): 73,2 x 47,6 x 20,7 cm (BxHxT)
 - Kein externer Receiver erforderlich!
 - Wandhalterung (nicht mitgeliefert): 75 x 75 mm
-- Smart Portal: Prime Video, Netflix, HbbTV, Youtube, Facebook, ARD-/ZDF-Mediathek, DEEZER, etc.
-- Typ: Smart LED-Fernseher mit 80 cm (31, 5 Zoll) Bildschirmdiagonale
-- Smart TV: integriertes WLAN, LAN Anschluss (RJ45), USB-Mediaplayer
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08552FMQP/?tag=tolees0ca-21)

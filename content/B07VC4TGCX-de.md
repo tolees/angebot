@@ -29,7 +29,7 @@ Es gibt ein [Samsung Schnellladegerät 45 w  Ep-TA845   Schwarz](https://www.ama
 ℹ️:
 
 - Unterstützt Schnellladen mit bis zu 45 Watt
-- Schnellladegerät zum Aufladen kompatibler Geräte über USB Typ-C
 - Usb Typ-C zu USB Typ-C Kabel (ep-dn975) im Lieferumfang
+- Schnellladegerät zum Aufladen kompatibler Geräte über USB Typ-C
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07VC4TGCX/?tag=tolees0ca-21)

@@ -28,9 +28,9 @@ Es gibt ein [TOM TAILOR Damen Alexa Skinny  Jeans  Blau  Dark Stone Wash Deni 10
 
 ℹ️:
 
-- unifarben
-- mit Gürtelschlaufen 
 - aus Denim mit Stretchanteil 
+- mit Gürtelschlaufen 
+- unifarben
 - mit Reißverschluss und Knopf zu schließen 
 - im Five-Pocket-Style 
 
