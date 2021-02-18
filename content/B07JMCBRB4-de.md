@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '25.39 % rabat auf PLAYMOBIL 70100 Magic Familie mit Musche'
-date: 2021-02-17 02:17:34
+date: 2021-02-18 14:09:56
 image: 'https://m.media-amazon.com/images/I/51ymQufr7WL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.de/dp/B07JMCBRB4/?tag=tolees0ca-21'
 descuento: '25.39'
-average: '11.4635714285715'
+average: '11.3931250000001'
 ---
 
 Es gibt ein [PLAYMOBIL 70100 Magic Familie mit Muschelkinderwagen  bunt](https://www.amazon.de/dp/B07JMCBRB4/?tag=tolees0ca-21) mit aktuellem Preis 10.9 EUR (original: 14.61 EUR) 25.39 % Rabatt hier:

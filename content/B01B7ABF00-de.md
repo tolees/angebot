@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '31.59 % rabat auf Sony BDP-S1700 Blu-ray-Player  USB  Ethe'
-date: 2021-02-17 14:18:56
+date: 2021-02-18 14:20:34
 image: 'https://m.media-amazon.com/images/I/31AIue1unYL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B01B7ABF00/?tag=tolees0ca-21'
 descuento: '31.59'
-average: '66.7435779816515'
+average: '66.7119819819821'
 ---
 
 Es gibt ein [Sony BDP-S1700 Blu-ray-Player  USB  Ethernet  schwarz](https://www.amazon.de/dp/B01B7ABF00/?tag=tolees0ca-21) mit aktuellem Preis 64.99 EUR (original: 95.0 EUR) 31.59 % Rabatt hier:

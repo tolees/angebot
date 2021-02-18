@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Bobble: Avengers Endgame: Hawkeye  mit 29.75 % Rabatt'
-date: 2021-02-17 07:56:51
+date: 2021-02-18 14:20:35
 image: 'https://m.media-amazon.com/images/I/41Y26ZtskaL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Funko'
 buyurl: 'https://www.amazon.de/dp/B07KPTZ9WY/?tag=tolees0ca-21'
 descuento: '29.75'
-average: '11.4266666666666'
+average: '11.409906542056'
 ---
 
 Sie können [Funko Bobble: Avengers Endgame: Hawkeye w/Chase  Multi  Einheitsgröße](https://www.amazon.de/dp/B07KPTZ9WY/?tag=tolees0ca-21) mit Preis 10.53 EUR (original: 14.99 EUR) 29.75 % Rabatt hier:
@@ -29,7 +29,7 @@ Sie können [Funko Bobble: Avengers Endgame: Hawkeye w/Chase  Multi  Einheitsgr�
 ℹ️:
 
 - Jede Figur ist etwa 9 cm groß und in einer illustrierten Fensterbox verpackt
-- Hawkeye w/chase gehört jetzt zum ständig erweiterten POP! Produktangebot
 - Diese Hawkeye w/chase POP! Figur ist neu im Avengers Endgame Sortiment
+- Hawkeye w/chase gehört jetzt zum ständig erweiterten POP! Produktangebot
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07KPTZ9WY/?tag=tolees0ca-21)
