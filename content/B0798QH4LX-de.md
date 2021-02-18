@@ -28,8 +28,8 @@ Es gibt ein [Superzings PSZSD166IN06 MBXSZSP0100 S Kaboom Trap  Multicolour](htt
 
 ℹ️:
 
-- Lebensmittel, Objekte können Sie alles eine superzing
 - Jeder Buchstabe hat eine Rival zu sammeln
+- Lebensmittel, Objekte können Sie alles eine superzing
 - Über 80 superzings zu sammeln
 - von den Menschen brachte sie Star Monster und Zomlings
 

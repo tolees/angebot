@@ -28,9 +28,9 @@ Es gibt ein [Nintendo Orginal Bifold Standard Black](https://www.amazon.de/dp/B0
 
 ℹ️:
 
-- Professionell genäht
-- Stilnoten: Kartenfächer, Ausweisfach, Geldscheinfach, Münzfach mit Logo
 - Typ: Faltbare Brieftasche
 - Material: 70% PU/30% Polyester
+- Professionell genäht
+- Stilnoten: Kartenfächer, Ausweisfach, Geldscheinfach, Münzfach mit Logo
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07VKFJ3P8/?tag=tolees0ca-21)

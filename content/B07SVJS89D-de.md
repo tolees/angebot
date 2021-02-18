@@ -28,10 +28,10 @@ Sie können [Geox J Android Boy C Sneaker  Blau  Navy/Red C0735   30 EU](https:/
 
 ℹ️:
 
-- Weite: Normal, Verschluss: Klettverschluss
-- Absatztyp: Flach, Absatzhöhe: 3 cm, Schafttyp: Kurzschaft
 - Geox ANDROID BOY J0244C Jungen, Kinder Halbschuhe,Halbschuhe Klettverschluss,Halbschuh,Klettverschluss,Strassenschuh,Sneaker,Freizeitschuh,NAVY/RED (Blau)
 - atmungs-aktiv nebula amphibiox atmet net-breathing breathing-system wasser-dicht wasser-abweisend leder-sohle natuerlich undurchlaessig gummi-sohle sportlich respira schwarz weiss charlene snake donna klett-verschluss silber strel led blinkies artie android agasim airell alonisso claudio sand dublin federico freizeit-schuhe euro eclipse gelb gregg illusion inspiration kristof kaytan lana licht loris navy dunkel-blau ophira orizont oxford pavel taupe piuma roxanne vega vinto xunday
+- Weite: Normal, Verschluss: Klettverschluss
+- Absatztyp: Flach, Absatzhöhe: 3 cm, Schafttyp: Kurzschaft
 - Obermaterial: 76% Synthetic Polyurethane-4% Synthetic Tpu-20% Textile Mesh Polyester (Synthetik), Innenmaterial: 100% Textile Mesh Polyester (Textil), Laufsohle: 100% Termoplastic Rubber (Gummi), Decksohle: 87% Leather Goat-13% Synthetic (Lederdecksohle,atmungsaktiv)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07SVJS89D/?tag=tolees0ca-21)
