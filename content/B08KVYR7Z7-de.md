@@ -28,10 +28,10 @@ Sie können [PLAYMOBIL Stuntshow 70549 Monster Truck Horned  Für Kinder von 4 -
 
 ℹ️:
 
-- Truck mit Stierkopf und Hörnern, Vollgefederte Achsen, Abnehmbares Dach, Platzbietend für 4 Figuren, Öffenbares Heck, Hindernis mit Rutsch-Stopps uvm.
-- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Nervenkitzel ohne Ende: PLAYMOBIL Stuntshow Monster Truck Horned mit Sandhügel, Stuntman und monsterstarkem Zubehör zum Nachspielen von coolen Stunts
 - Lieferumfang: 1x PLAYMOBIL Stuntshow Monster Truck Horned, 57-teiliges Spielfiguren-Set mit Anleitung: 1 Auto, 1 Sandhügel, 1 Figur, 54 Zubehörteile, Material: Kunststoff, LxTxH Fahrzeug: 26x16x17 cm, Gewicht: 593 g, 70549
+- Truck mit Stierkopf und Hörnern, Vollgefederte Achsen, Abnehmbares Dach, Platzbietend für 4 Figuren, Öffenbares Heck, Hindernis mit Rutsch-Stopps uvm.
+- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08KVYR7Z7/?tag=tolees0ca-21)
