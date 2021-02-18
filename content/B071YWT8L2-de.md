@@ -29,9 +29,9 @@ Es gibt ein [Energel Pentel LR7 Kugelschreiberminen mit Metallspitze zum Nachf�
 ℹ️:
 
 - Geeignet für die Serien Energel Sterling Executive und Lancelot Executive sowie BL77/BL57/BL37.
-- 12 x LR7-Mine von Energel zum Nachfüllen mit blauer Tinte.
 - 12 x Nachfüllminen aus Metall für Energel, blaue Tinte.
-- 0,7 mm breite Spitze, ergibt eine Strichbreite von 0,35 mm.
+- 12 x LR7-Mine von Energel zum Nachfüllen mit blauer Tinte.
 - Flüssigtinte läuft sanfter und trocknet schneller als gewöhnliche Tinte.
+- 0,7 mm breite Spitze, ergibt eine Strichbreite von 0,35 mm.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B071YWT8L2/?tag=tolees0ca-21)

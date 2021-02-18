@@ -29,7 +29,7 @@ Sie können [adidas Damen W E 3S Pant Sport Trousers  Black/White  S](https://ww
 ℹ️:
 
 - Elastic waistband
-- Soft fabric
 - Regular Fit
+- Soft fabric
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07KMR5N5H/?tag=tolees0ca-21)
