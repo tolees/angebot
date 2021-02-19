@@ -28,8 +28,8 @@ Es gibt ein [Issey Miyake Homme  Eau de Toilette  1er Pack  1 x 200 ml ](https:/
 
 ℹ️:
 
-- Duftrichtung: Frisch
 - Herznote: Zimt, Muskatnuss
 - Kopfnote: Yuzu
+- Duftrichtung: Frisch
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000VOHH8I/?tag=tolees0ca-21)
