@@ -28,9 +28,9 @@ Sie können [Crucial BX500 120GB CT120BX500SSD1-bis zu 540 MB/s Internes SSD  3D
 
 ℹ️:
 
+- Sequenzielle Lese-/Schreibvorgänge mit bis zu 540/500 MB/s für alle Dateitypen
 - Erhöht die Akkulebensdauer aufgrund der 45 mal höheren Energieeffiz ienz als eine übliche Festplatte
 - Schnelleres Hochfahren. Schnelleres Laden von Dateien. Verbesserte System Reaktionsfähigkeit
-- Sequenzielle Lese-/Schreibvorgänge mit bis zu 540/500 MB/s für alle Dateitypen
 - 300% schneller als eine normale Festplatte
 - Micron 3D NAND – Fortschritt in der Speicherwelt seit 40 Jahren
 
