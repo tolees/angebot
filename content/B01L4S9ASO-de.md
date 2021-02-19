@@ -28,8 +28,8 @@ Sie können [Goldwell Sign Superego  Styling Creme  1er Pack   1x 75 ml ](https:
 
 ℹ️:
 
-- Strukturgebende Styling Creme
-- Mit starkem Halt
 - Für intensiven Glanz
+- Mit starkem Halt
+- Strukturgebende Styling Creme
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01L4S9ASO/?tag=tolees0ca-21)

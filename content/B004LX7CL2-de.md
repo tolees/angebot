@@ -28,10 +28,10 @@ Es gibt ein [Marc Jacobs Daisy Eau so Fresh  Eau de Toilette  1er Pack  1 x 75ml
 
 ℹ️:
 
-- pure Verführung
 - Damen
-- feminin
 - Eau de Toilette
 - blumig und frisch
+- feminin
+- pure Verführung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004LX7CL2/?tag=tolees0ca-21)

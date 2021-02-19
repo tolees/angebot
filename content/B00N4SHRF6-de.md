@@ -28,10 +28,10 @@ Es gibt ein [Sensai Cellular Performance Emulsion II  Moist  für Frauen  1er Pa
 
 ℹ️:
 
+- erfrischend
 - Damen
+- verfeinert das Hautbild
 - reinigend
 - schützend
-- verfeinert das Hautbild
-- erfrischend
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00N4SHRF6/?tag=tolees0ca-21)
