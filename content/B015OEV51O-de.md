@@ -29,9 +29,9 @@ Sie können [Zoch 601105081 - Heckmeck Extrawurm  das Erweiterungsset zum Würfe
 ℹ️:
 
 - Ziel des Spieles: Es gewinnt, wer am Ende des Spiels die meisten Bratwürmer auf den Krallen hat, ohne von seinen Mitspielern beklaut zu werden
-- Zoch Verlag: Kreative und originelle Spielideen auf höchstem Niveau. Kinder und Familien schätzen das Sortiment eingängiger Karten, Würfel und Mitbringspiele ebenso wie tolle Brettspiele
 - Würfelglück: Der pouläre Hühnerwürfelklassiker von Erfolgsautor Reiner Knizia bekommt Nachwuchs und verbreitet nun noch mehr Spaß
-- Erweiterung: Ergänzt das Basisspiel um tolle Holzfiguren, einen ganz speziellen Würfel, 2 zusätzliche Bratwurmportionen und sieben Rostbratwürmer
 - Spaßfaktor: Heckmeck am Bratwurmeck wird jetzt noch bunter. Ein unbedingtes Must have für alle Heckmeck-Fans und solche, dieses noch werden könnten
+- Zoch Verlag: Kreative und originelle Spielideen auf höchstem Niveau. Kinder und Familien schätzen das Sortiment eingängiger Karten, Würfel und Mitbringspiele ebenso wie tolle Brettspiele
+- Erweiterung: Ergänzt das Basisspiel um tolle Holzfiguren, einen ganz speziellen Würfel, 2 zusätzliche Bratwurmportionen und sieben Rostbratwürmer
 
 [🛒 Hier!!](https://www.amazon.de/dp/B015OEV51O/?tag=tolees0ca-21)
