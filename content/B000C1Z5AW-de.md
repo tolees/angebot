@@ -28,7 +28,7 @@ Sie können [Estée Lauder - Estee Lauder Pleasures femme/woman  Eau de Parfum  
 
 ℹ️:
 
-- Duftnote: blumig
 - Ein Duft für einen perfekten Neuanfang - ideal für den Frühling geeignet!
+- Duftnote: blumig
 
 [🛒 Hier!!](https://www.amazon.de/dp/B000C1Z5AW/?tag=tolees0ca-21)

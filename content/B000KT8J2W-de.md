@@ -28,10 +28,10 @@ Es gibt ein [Esselte Register für A4  Deckblatt und 10 Trennblätter mit Taben 
 
 ℹ️:
 
-- Lieferumfang: 1 x Esselte Trennblätter für Order A4, Karton, Maße (BxHxT): 22,5 x 29,7 x 0,3 cm, Farbe: Mehrfarbig, 100193
 - 10-teiliges Register zur übersichtlichen Organisation von A4 Dokumenten, Optimaler Überblick über wichtige Notizen oder Unterlagen, Für zu Hause, die Schule und das Büro
-- 250 g/m² Deckblatt und 160 g/m² Trennblätter aus recyceltem Material für optimale Ordnung für zu Hause und im Büro, Recyclebar
-- Praktisches Deckblatt mit Platz zur Beschreibung der verschiedenen Inhalte
 - 10 Taben in verschiedenen Farben (rot, blau, grün, gelb, orange) zur Ordnung der Dokumente, Praktische Universal-Lochung zum Abheften in Ringbücher und Ordner
+- Praktisches Deckblatt mit Platz zur Beschreibung der verschiedenen Inhalte
+- 250 g/m² Deckblatt und 160 g/m² Trennblätter aus recyceltem Material für optimale Ordnung für zu Hause und im Büro, Recyclebar
+- Lieferumfang: 1 x Esselte Trennblätter für Order A4, Karton, Maße (BxHxT): 22,5 x 29,7 x 0,3 cm, Farbe: Mehrfarbig, 100193
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000KT8J2W/?tag=tolees0ca-21)

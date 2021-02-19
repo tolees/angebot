@@ -28,10 +28,10 @@ Sie können [WELEDA 2in1 Erfrischende Reinigung  Naturkosmetik Gesichtswasser un
 
 ℹ️:
 
-- Höchste WELEDA Qualität: Die Hautverträglichkeit der 2in1 Reinigung ist dermatologisch bestätigt
 - Ideal zur täglichen Pflege: Morgens und abends auf einen angefeuchteten Wattepad geben und damit Gesicht, Hals und Dekolleté sanft abreiben
-- Lieferumfang: 1 x WELEDA 2in1 Gesichts-Reinigung für Männer und Frauen
 - Belebt Haut und Sinne: Der Citrus-frische Duft aus echten ätherischen Ölen belebt Haut und Sinne
 - Reinigt porentief: Die natürliche Olivenölseife und das Hamamelisextrakt, tonisiert und verfeinern das Hautbild. Die Haut wirkt rein, frisch und ist optimal auf eine darauffolgende Pflege vorbereitet
+- Höchste WELEDA Qualität: Die Hautverträglichkeit der 2in1 Reinigung ist dermatologisch bestätigt
+- Lieferumfang: 1 x WELEDA 2in1 Gesichts-Reinigung für Männer und Frauen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00377YNEC/?tag=tolees0ca-21)
