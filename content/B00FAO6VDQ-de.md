@@ -28,10 +28,10 @@ Es gibt ein [Cybex Silver Solution X-fix  Autositz Gruppe 2/3  15-36 kg   Mit Is
 
 ℹ️:
 
-- Einfache Befestigung im Auto mit Fahrzeug-Sicherheitsgurt und optional zusätzlich mit ISOFIX für extra Stabilität, Abnehmbarer Bezug - Waschmaschinengeeignet (30°C), Optional erhältliches Zubehör: Sommerbezug
-- Maximale Sicherheit - Integrierter Seitenaufprallschutz (L.S.P. System), 3-fach neigungsverstellbare Kopfstütze
-- Lieferumfang: 1 Autositz Solution X-Fix mit ISOFIX Connect System, Inkl. ISOFIX Einbauhilfen, Material Bezug: 100% Polyester, Maße (LxBxH): 41 x 47 x 64 cm, Gewicht: 7 kg, Farbe: Gray Rabbit
 - 11-fach verstellbare Komfortkopfstütze, Neigungsverstellbare Rückenlehne, Komfortables Sitzkissen. Bezug waschbar bei 30 Grad
 - Stabiler und hochwertiger Kinder-Autositz mit langer Nutzungsdauer - Für Kinder im Alter von ca. 3 bis ca. 12 Jahren (15-36 kg), Geeignet für Autos mit und ohne ISOFIX
+- Lieferumfang: 1 Autositz Solution X-Fix mit ISOFIX Connect System, Inkl. ISOFIX Einbauhilfen, Material Bezug: 100% Polyester, Maße (LxBxH): 41 x 47 x 64 cm, Gewicht: 7 kg, Farbe: Gray Rabbit
+- Einfache Befestigung im Auto mit Fahrzeug-Sicherheitsgurt und optional zusätzlich mit ISOFIX für extra Stabilität, Abnehmbarer Bezug - Waschmaschinengeeignet (30°C), Optional erhältliches Zubehör: Sommerbezug
+- Maximale Sicherheit - Integrierter Seitenaufprallschutz (L.S.P. System), 3-fach neigungsverstellbare Kopfstütze
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00FAO6VDQ/?tag=tolees0ca-21)
