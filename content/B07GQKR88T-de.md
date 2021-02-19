@@ -28,10 +28,10 @@ Es gibt ein [Bosch Hausgeräte - Tassimo Happy Kapselmaschine TAS1003 Kaffeemasc
 
 ℹ️:
 
-- Single serve: perfekt für eine Tasse des Getränks deiner Wahl.
-- Höhenverstellbares Tassenpodest: geeignet für jede Tassenhöhe.
 - One-Touch Bedienung: dein Lieblingsgetränk einfach auf Knopfdruck.
-- INTELLIBREW: automatische Anpassung der Einstellungen für perfekte Getränkequalität durch Scannen des T DISC Barcodes.
+- Single serve: perfekt für eine Tasse des Getränks deiner Wahl.
 - Große Auswahl: mit über 70 Getränken von bekannten Marken für jeden Geschmack.
+- INTELLIBREW: automatische Anpassung der Einstellungen für perfekte Getränkequalität durch Scannen des T DISC Barcodes.
+- Höhenverstellbares Tassenpodest: geeignet für jede Tassenhöhe.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07GQKR88T/?tag=tolees0ca-21)
