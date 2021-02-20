@@ -28,8 +28,8 @@ Es gibt ein [Import - Crossroads  New Version ](https://www.amazon.de/dp/B000VI0
 
 ℹ️:
 
-- CD-Set mit 4 CDs
-- herausgegeben 2007 in Europa von Polydor (0600753028094)
 - Musikstil: Rock
+- herausgegeben 2007 in Europa von Polydor (0600753028094)
+- CD-Set mit 4 CDs
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000VI04OI/?tag=tolees0ca-21)

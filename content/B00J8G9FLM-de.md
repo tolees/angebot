@@ -28,10 +28,10 @@ Sie können [fischertechnik 524326 - PROFI Electronics  Konstruktionsbaukasten](
 
 ℹ️:
 
-- Inkl.: Electronics-Modul, XS-Motor, 2x Transistor, 2x Kondensator, 4x Widerstand uvm.
-- Komplettset: vermittelt Grundlagen der Elektronik
-- Inkl. didaktisches Begleitheft
-- Fördert die Kreativität, Motorik und das dreidimensionale Vorstellungsvermögen
 - Lernspielzeug "Made in Germany"
+- Fördert die Kreativität, Motorik und das dreidimensionale Vorstellungsvermögen
+- Inkl. didaktisches Begleitheft
+- Komplettset: vermittelt Grundlagen der Elektronik
+- Inkl.: Electronics-Modul, XS-Motor, 2x Transistor, 2x Kondensator, 4x Widerstand uvm.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00J8G9FLM/?tag=tolees0ca-21)

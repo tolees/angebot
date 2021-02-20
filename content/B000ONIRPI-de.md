@@ -28,10 +28,10 @@ Es gibt ein [Bachmann - 19" Steckdosenleiste 8-fach  2300W  IEC320 C14 Stecker](
 
 ℹ️:
 
-- Profil aus eloxiertem Aluminium
 - 19" Steckdosenleiste 1HE zum Einbau in 19" Schränke, incl. Einbauwinkel
-- Anordnung der Steckdosen: 35°
+- Profil aus eloxiertem Aluminium
 - Sicherung 10A
 - Farbe der Schutzkontakteinsätze ROT
+- Anordnung der Steckdosen: 35°
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000ONIRPI/?tag=tolees0ca-21)

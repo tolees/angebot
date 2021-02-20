@@ -28,10 +28,10 @@ Es gibt ein [Brennenstuhl BREMAXX Verlängerungskabel  15m Kabel in schwarz  fü
 
 ℹ️:
 
-- Robustes Strom-Verlängerungskabel mit 15m BREMAXX-Kabel (AT-N05V3V3-F 3G1,5) - einsetzbar bis -35 °C, Öl- und UV-beständig und mechanisch hoch belastbar
-- Schuko-Verlängerungskabel mit einem Mantel aus hochflexiblem Spezialkunststoff
-- Lieferumfang: 1x BREMAXX Verlängerungskabel IP44 in der Farbe schwarz - in bester Qualität von brennenstuhl
 - Verlängerungskabel 15m für den Außenbereich - eine ideale Stromquelle für beispielsweise diverse Gartenarbeiten
+- Robustes Strom-Verlängerungskabel mit 15m BREMAXX-Kabel (AT-N05V3V3-F 3G1,5) - einsetzbar bis -35 °C, Öl- und UV-beständig und mechanisch hoch belastbar
+- Lieferumfang: 1x BREMAXX Verlängerungskabel IP44 in der Farbe schwarz - in bester Qualität von brennenstuhl
+- Schuko-Verlängerungskabel mit einem Mantel aus hochflexiblem Spezialkunststoff
 - Strom-Verlängerung mit extra robustem Schutzkontakt-Stecker und -Kupplung mit Verschlusskappe
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00M7VFDB6/?tag=tolees0ca-21)

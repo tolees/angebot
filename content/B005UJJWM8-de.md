@@ -28,10 +28,10 @@ Es gibt ein [Bosch Professional Geradschleifer GGS 28 LC  650 Watt  Leerlaufdreh
 
 ℹ️:
 
-- Kraftvoller 650-Watt-Motor für hohen Arbeitsfortschritt mit Sanftanlauf
 - Geringer Serviceaufwand durch stark verbesserte Kohlebürsten
+- Kraftvoller 650-Watt-Motor für hohen Arbeitsfortschritt mit Sanftanlauf
+- Lieferumfang: GGS 28 LC, Spannzange 6 mm, Einmaulschlüssel 13 mm, Einmaulschlüssel 19 mm
 - KickBack Stop: Erkennt ein Blockieren, schaltet die Maschine sofort ab - für hohen Anwenderschutz
 - Lange, schlanke Schleifspindel - besonders geeignet für den Einsatz an schwer zugänglichen Stellen
-- Lieferumfang: GGS 28 LC, Spannzange 6 mm, Einmaulschlüssel 13 mm, Einmaulschlüssel 19 mm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B005UJJWM8/?tag=tolees0ca-21)
