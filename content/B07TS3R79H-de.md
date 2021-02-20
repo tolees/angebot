@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Der König der Löwen – Neuverfil mit 20.08 % Rabatt'
-date: 2021-02-19 10:07:29
+date: 2021-02-20 16:38:08
 image: 'https://m.media-amazon.com/images/I/51uupfVdz-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Disney'
 buyurl: 'https://www.amazon.de/dp/B07TS3R79H/?tag=tolees0ca-21'
 descuento: '20.08'
-average: '9.69661971830986'
+average: '9.70465753424657'
 ---
 
 Sie können [Disney - Der König der Löwen – Neuverfilmung 2019 [Blu-ray]](https://www.amazon.de/dp/B07TS3R79H/?tag=tolees0ca-21) mit Preis 9.99 EUR (original: 12.5 EUR) 20.08 % Rabatt hier:

@@ -29,9 +29,9 @@ Es gibt ein [Tombow MONO-100-2B Bleistift Mono 100 Härtegrad 2B  12-er Set](htt
 ℹ️:
 
 - Härtegrad 2B (weich): geeignet z.B. zum Freihandzeichnen und Schreiben
-- Erhältlich in 17 Härtegraden
 - Bleistift von höchster Qualität
 - Bietet außerordentlichen Kontrast aufgrund von extra-dunkler, unzerbrechlicher Graphitmine mit hoher Dichte
 - Feine Lackveredelung
+- Erhältlich in 17 Härtegraden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0016GLVPA/?tag=tolees0ca-21)

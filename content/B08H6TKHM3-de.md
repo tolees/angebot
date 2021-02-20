@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal Pictures - In einem Land vor u mit 15.60 % Rabatt'
-date: 2021-02-19 10:05:35
+date: 2021-02-20 16:15:02
 image: 'https://m.media-amazon.com/images/I/51IiRaBH1YL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Universal Pictures'
 buyurl: 'https://www.amazon.de/dp/B08H6TKHM3/?tag=tolees0ca-21'
 descuento: '15.60'
-average: '36.47'
+average: '36.97'
 ---
 
 Sie können [Universal Pictures - In einem Land vor unserer Zeit - Alle Originalfilme 1-14 [14 DVDs]](https://www.amazon.de/dp/B08H6TKHM3/?tag=tolees0ca-21) mit Preis 37.97 EUR (original: 44.99 EUR) 15.60 % Rabatt hier:

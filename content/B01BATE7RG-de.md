@@ -28,10 +28,10 @@ Sie können [Black+Decker Li-Ion-Ergänzungsakku  2 0Ah  für 36V Geräte inkl. 
 
 ℹ️:
 
-- Schnelles Aufladen: Das Schnell-Ladegerät lädt den mitgelieferten 2,0 Ah Li-Ion-Akku in 90 min wieder vollständig auf
-- Starter-Kit zum individuellen Zusammenstellen eines 36V Gartengeräte-Pakets aus bis zu vier Gartengeräten, die auch ohne Akku erhältlich sind
 - 36V Li-Ion-Akku-System: 1 Akku - einsetzbar in allen Black+Decker 36V Akku-Gartengeräten
+- Schnelles Aufladen: Das Schnell-Ladegerät lädt den mitgelieferten 2,0 Ah Li-Ion-Akku in 90 min wieder vollständig auf
 - Lieferumfang: 1x Li-Ion-Ergänzungsakku 36V 2.0 Ah, 1x Schnellladegerät
+- Starter-Kit zum individuellen Zusammenstellen eines 36V Gartengeräte-Pakets aus bis zu vier Gartengeräten, die auch ohne Akku erhältlich sind
 - Ladezustandsanzeige am Akku zeigt jederzeit den aktuellen Ladestatus des Akkus an
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01BATE7RG/?tag=tolees0ca-21)
