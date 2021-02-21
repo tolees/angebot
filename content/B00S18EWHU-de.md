@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.00 % rabat auf Pandora Damen-Armband Moments 925 Silber'
-date: 2021-02-16 01:52:46
+date: 2021-02-21 12:06:28
 image: 'https://m.media-amazon.com/images/I/41Xph+ROy9L._SL200_.jpg'
 comments: true
 category: ofertas
