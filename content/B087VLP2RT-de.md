@@ -29,9 +29,9 @@ Es gibt ein [Microsoft - Xbox Wireless Controller Robot White](https://www.amazo
 ℹ️:
 
 - Verfügt über Xbox Wireless- und Bluetooth-Technologie für drahtloses Gaming auf unterstützten Konsolen, Windows 10-PCs und Android-Smartphones sowie Tablets
-- An der 3,5mm-Stereo-Headsetbuchse kannst du kompatible Headsets und Kopfhörer anschließen
 - Bleiben Sie dank der strukturierten Grifffläche und dem hybriden D-Pad auf Zielkurs
-- Erleben Sie das modernisierte Design des Xbox Wireless Controllers in Robot White, der mit seinen geformten Oberflächen und der verfeinerten Geometrie für mehr Komfort beim Spielen sorgt
+- An der 3,5mm-Stereo-Headsetbuchse kannst du kompatible Headsets und Kopfhörer anschließen
 - Sie können den Controller auf ihre Bedürfnisse anpassen und über die Xbox Zubehör-App die Tasten so zuweisen, wie Sie möchten
+- Erleben Sie das modernisierte Design des Xbox Wireless Controllers in Robot White, der mit seinen geformten Oberflächen und der verfeinerten Geometrie für mehr Komfort beim Spielen sorgt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B087VLP2RT/?tag=tolees0ca-21)

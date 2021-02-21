@@ -28,10 +28,10 @@ Es gibt ein [Playmobil DreamWorks Dragons 70037 Ohnezahn und Hicks mit Babydrach
 
 ℹ️:
 
-- Fun for little adventurers: DreamWorks Dragons Toothless and Hiccup playset with baby dragons by PLAYMOBIL with accessories such as fire sword, flight suit and much more
-- Contents: 1 x PLAYMOBIL DreamWorks Dragons Hiccup and Toothless with Baby Dragon, 19-piece playset with instructions: 2 arrows, 1 figurine, 16 accessories (1 x AAA battery not included), Material: plastic, L x W x H: 38 x 26-49.5 x 9-20 cm, 70037
 - Toothless with luminous teeth and shooting arrows function, etc., can be combined with PLAYMOBIL Light Fury with Baby Dragon and Children (70038 sold separately)
-- Can be used every day: Instructions for setting up with parents, high quality and robust design, clean the parts (without stickers) under running water without chemical agents
 - Playset for children aged 4+, ideal for childrens hands due to age-appropriate size and easy to hold thanks to the rounded edges
+- Contents: 1 x PLAYMOBIL DreamWorks Dragons Hiccup and Toothless with Baby Dragon, 19-piece playset with instructions: 2 arrows, 1 figurine, 16 accessories (1 x AAA battery not included), Material: plastic, L x W x H: 38 x 26-49.5 x 9-20 cm, 70037
+- Can be used every day: Instructions for setting up with parents, high quality and robust design, clean the parts (without stickers) under running water without chemical agents
+- Fun for little adventurers: DreamWorks Dragons Toothless and Hiccup playset with baby dragons by PLAYMOBIL with accessories such as fire sword, flight suit and much more
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07JM58H2C/?tag=tolees0ca-21)

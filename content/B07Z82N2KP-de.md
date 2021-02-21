@@ -28,10 +28,10 @@ Es gibt ein [Ögon Smart Wallets - Cascade Slim Wallet - Automatische Geldbörse
 
 ℹ️:
 
+- gray
 - 8,7 x 5,6 cm
 - cascade wallet aluminium and leather - gray - Ogon Designs
 - aluminum
 - Ogon Designs
-- gray
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07Z82N2KP/?tag=tolees0ca-21)

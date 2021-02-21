@@ -28,10 +28,10 @@ Sie können [PUMA Unisex Smash v2 L Sneaker  Black Black  43 EU](https://www.ama
 
 ℹ️:
 
-- BusinessUnit: Athletic / Sport Leisure
 - ArticleType: Low Boot
-- ActivityGroup: Basics
-- AgeGroup: Adults
 - MidSole: Rubber
+- BusinessUnit: Athletic / Sport Leisure
+- AgeGroup: Adults
+- ActivityGroup: Basics
 
 [🛒 Hier!!](https://www.amazon.de/dp/B077MLZZVM/?tag=tolees0ca-21)

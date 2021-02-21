@@ -28,8 +28,8 @@ Sie können [Superzings - Serie 4 - Display mit 24 BlasterJet Fahrzeugen und Sam
 
 ℹ️:
 
-- Herkunftsland:- China
 - Stil: Comic
+- Herkunftsland:- China
 - Die neue SuperZings Serie 4 Kollektion umfasst 8 Geheimwagen in neuem Design.
 - Farbe: Sortiert
 

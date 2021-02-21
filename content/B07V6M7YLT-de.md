@@ -28,7 +28,7 @@ Sie können [Nintendo Switch Lite  Standard  gelb](https://www.amazon.de/dp/B07V
 
 ℹ️:
 
-- Included components: 1 product
 - Operating system: nintendo_switch
+- Included components: 1 product
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07V6M7YLT/?tag=tolees0ca-21)

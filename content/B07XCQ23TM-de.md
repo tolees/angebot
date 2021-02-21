@@ -28,10 +28,10 @@ Sie können [adidas Mens Core18 Hoody Hooded Sweatshirt  White  M](https://www.a
 
 ℹ️:
 
-- Reguläre Passform
-- Verstellbare Kapuze mit Kordelzug
 - 70% Baumwolle
 - Kängurutasche
+- Verstellbare Kapuze mit Kordelzug
+- Reguläre Passform
 - Gerippter Saum und Bündchen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XCQ23TM/?tag=tolees0ca-21)

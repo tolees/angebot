@@ -28,10 +28,10 @@ Es gibt ein [Pentel EnerGel-Xm Gelschreiber/Tintenroller  einziehbar  0 7 mm  B
 
 ℹ️:
 
-- Besonders schnell trocknend, mit nahtlos fließender EnerGel-Tinte
-- 0,7-mm-Schreibspitze erzeugt eine Linienstärke von 0,35 mm
-- Metall-Taschenclip
 - Geriffelter Fingergriff aus Gummi
+- 0,7-mm-Schreibspitze erzeugt eine Linienstärke von 0,35 mm
+- Besonders schnell trocknend, mit nahtlos fließender EnerGel-Tinte
+- Metall-Taschenclip
 - Modischer Schaft in metallischen Farben
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00EJLV5K0/?tag=tolees0ca-21)
