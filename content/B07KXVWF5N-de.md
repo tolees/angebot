@@ -28,8 +28,8 @@ Sie können [Reebok Herren Club C 1985 TV Sneaker  Chalk/Paperwhite/Glen Green  
 
 ℹ️:
 
-- Weiches Leder-Obermaterial
 - Gummiaußensohle
+- Weiches Leder-Obermaterial
 - EVA-Zwischensohle
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07KXVWF5N/?tag=tolees0ca-21)
