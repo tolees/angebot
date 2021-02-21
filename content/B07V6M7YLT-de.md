@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo Switch Lite  Standard  gelb mit 17.03 % Rabatt'
-date: 2021-02-18 14:35:57
+date: 2021-02-21 00:39:20
 image: 'https://m.media-amazon.com/images/I/41HUECBFXtL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,7 @@ Sie können [Nintendo Switch Lite  Standard  gelb](https://www.amazon.de/dp/B07V
 
 ℹ️:
 
-- Verbinden Sie bis zu acht Konsolen im Mehrspielermodus !
-- Entwickelt für tragbare Spiele !
-- Tragen Sie ganz einfach alle Ihre Lieblingsspiele !
+- Included components: 1 product
+- Operating system: nintendo_switch
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07V6M7YLT/?tag=tolees0ca-21)

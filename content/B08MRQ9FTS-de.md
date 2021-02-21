@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo Switch Lite Türkis & Animal Cro mit 17.58 % Rabatt'
-date: 2021-02-16 08:40:38
+date: 2021-02-21 00:39:33
 image: 'https://m.media-amazon.com/images/I/418WmCRxuaL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.de/dp/B08MRQ9FTS/?tag=tolees0ca-21'
 descuento: '17.58'
-average: '236.938947368421'
+average: '236.956869565217'
 ---
 
 Sie können [Nintendo Switch Lite Türkis & Animal Crossing: New Horizons-Edition](https://www.amazon.de/dp/B08MRQ9FTS/?tag=tolees0ca-21) mit Preis 239.0 EUR (original: 289.99 EUR) 17.58 % Rabatt hier:

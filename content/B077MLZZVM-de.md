@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Unisex Smash v2 L Sneaker  Black Bl mit 22.94 % Rabatt'
-date: 2021-02-18 02:31:42
+date: 2021-02-21 00:32:11
 image: 'https://m.media-amazon.com/images/I/41pvb4b-LAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.de/dp/B077MLZZVM/?tag=tolees0ca-21'
 descuento: '22.94'
-average: '36.565'
+average: '36.95'
 ---
 
 Sie können [PUMA Unisex Smash v2 L Sneaker  Black Black  43 EU](https://www.amazon.de/dp/B077MLZZVM/?tag=tolees0ca-21) mit Preis 38.49 EUR (original: 49.95 EUR) 22.94 % Rabatt hier:
@@ -28,6 +28,10 @@ Sie können [PUMA Unisex Smash v2 L Sneaker  Black Black  43 EU](https://www.ama
 
 ℹ️:
 
-- Smash V2 L
+- AgeGroup: Adults
+- BusinessUnit: Athletic / Sport Leisure
+- ArticleType: Low Boot
+- MidSole: Rubber
+- ActivityGroup: Basics
 
 [🛒 Hier!!](https://www.amazon.de/dp/B077MLZZVM/?tag=tolees0ca-21)

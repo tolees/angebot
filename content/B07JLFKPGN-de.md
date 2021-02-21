@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL 70067 City Action Porsche 911  mit 25.20 % Rabatt'
-date: 2021-02-17 14:54:20
+date: 2021-02-21 00:58:51
 image: 'https://m.media-amazon.com/images/I/51q2Y4Bb7SL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.de/dp/B07JLFKPGN/?tag=tolees0ca-21'
 descuento: '25.20'
-average: '32.3707924528302'
+average: '32.3806390977444'
 ---
 
 Sie können [PLAYMOBIL 70067 City Action Porsche 911 Carrera 4S Polizei  bunt](https://www.amazon.de/dp/B07JLFKPGN/?tag=tolees0ca-21) mit Preis 34.99 EUR (original: 46.78 EUR) 25.20 % Rabatt hier:
@@ -28,9 +28,9 @@ Sie können [PLAYMOBIL 70067 City Action Porsche 911 Carrera 4S Polizei  bunt](h
 
 ℹ️:
 
+- Die Vorder- und Rücklichter sowie das Armaturenbrett leuchten (3 x 1,5-V-Micro-Batterien nötig)
 - 2 Figuren mit Fahrzeug und Zubehör
 - Das Dach kann abgenommen werden
-- Die Vorder- und Rücklichter sowie das Armaturenbrett leuchten (3 x 1,5-V-Micro-Batterien nötig)
 - mit Polizei-Licht und Sound (1 x 1,5V Micro-Batterie nötig) und viel Zubehör
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07JLFKPGN/?tag=tolees0ca-21)
