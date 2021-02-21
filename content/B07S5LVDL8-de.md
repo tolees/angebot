@@ -28,10 +28,10 @@ Es gibt ein [Astragon - Blacksad - Under the Skin Limited-Edition](https://www.a
 
 ℹ️:
 
-- Ein narratives Detektivspiel voller Untersuchungen, Rätsel, Quick Time Events (QTE) und Multiple-Choice-Dialogen
-- Ermittlungen, Spurensuche, Kämpfe, Zeugenbefragungen: Lassen Sie sich von Ihrem Katzeninstinkt leiten, während Sie in die korrupte Welt des Boxsports eintauchen
-- Ein 50er Jahre Film-Noir-Flair, das den Spieler in die unheimliche und düstere Abenteueratmosphäre eines Kriminalromans dieser Zeit entführt
-- Eine offizielle, brandneue Geschichte für den charismatischen Detektiv BLACKSAD - in der einzigartigen Welt der Comicserie angesiedelt und perfekt als Spiel umgesetzt
 - Ein finsterer Korruptionsskandal führt den charismatischen Detektiv John Blacksad mitten ins Herz der New Yorker Unterwelt
+- Ermittlungen, Spurensuche, Kämpfe, Zeugenbefragungen: Lassen Sie sich von Ihrem Katzeninstinkt leiten, während Sie in die korrupte Welt des Boxsports eintauchen
+- Eine offizielle, brandneue Geschichte für den charismatischen Detektiv BLACKSAD - in der einzigartigen Welt der Comicserie angesiedelt und perfekt als Spiel umgesetzt
+- Ein narratives Detektivspiel voller Untersuchungen, Rätsel, Quick Time Events (QTE) und Multiple-Choice-Dialogen
+- Ein 50er Jahre Film-Noir-Flair, das den Spieler in die unheimliche und düstere Abenteueratmosphäre eines Kriminalromans dieser Zeit entführt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07S5LVDL8/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [Samsung Galaxy A51 128GB Handy  Silber  Haze Crush Silver  Android 
 
 ℹ️:
 
-- - 2G-Netz: GSM 850/900/1800/1900 - SIM 1 & SIM 2 (nur Dual-SIM-Modell)
-- - Sim-Typ: Dual-SIM (Nano-SIM, Dual-Standby)
 - - 3G-Netzwerk: HSDPA 850/900/1900/2100
-- - 4G-Netzwerk: LTE-Band 1 (2100), 3 (1800), 5 (850), 7 (2600), 8 (900), 20 (800), 38 (2600), 40 (2300), 41 (2500)
 - - Typ: Smartphone
+- - Sim-Typ: Dual-SIM (Nano-SIM, Dual-Standby)
+- - 4G-Netzwerk: LTE-Band 1 (2100), 3 (1800), 5 (850), 7 (2600), 8 (900), 20 (800), 38 (2600), 40 (2300), 41 (2500)
+- - 2G-Netz: GSM 850/900/1800/1900 - SIM 1 & SIM 2 (nur Dual-SIM-Modell)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08CFVWCX7/?tag=tolees0ca-21)
