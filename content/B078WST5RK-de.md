@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Samsung MZ-76E1T0B/EU 860 EVO 1 TB SATA  mit 24.56 % Rabatt'
-date: 2021-02-18 02:05:07
+title: 'Samsung MZ-76E1T0B/EU 860 EVO 1 TB SATA  mit 24.98 % Rabatt'
+date: 2021-02-21 01:00:20
 image: 'https://m.media-amazon.com/images/I/41qn949SpcL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B078WST5RK-de Samsung MZ-76E1T0B/EU 860 EVO 1 TB SATA 2 5" Interne SSD...'
 sku: 'B078WST5RK-de'
 tags: [  ]
-actualPrice: 113.98 EUR
+actualPrice: 113.35 EUR
 currency: EUR
-price: 113.98
+price: 113.35
 comparePrice: 151.09 EUR
 prodname: 'Samsung MZ-76E1T0B/EU 860 EVO 1 TB SATA 2 5" Interne SSD Schwarz'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.de/dp/B078WST5RK/?tag=tolees0ca-21'
-descuento: '24.56'
-average: '122.580638297874'
+descuento: '24.98'
+average: '122.451538461541'
 ---
 
-Sie können [Samsung MZ-76E1T0B/EU 860 EVO 1 TB SATA 2 5" Interne SSD Schwarz](https://www.amazon.de/dp/B078WST5RK/?tag=tolees0ca-21) mit Preis 113.98 EUR (original: 151.09 EUR) 24.56 % Rabatt hier:
+Sie können [Samsung MZ-76E1T0B/EU 860 EVO 1 TB SATA 2 5" Interne SSD Schwarz](https://www.amazon.de/dp/B078WST5RK/?tag=tolees0ca-21) mit Preis 113.35 EUR (original: 151.09 EUR) 24.98 % Rabatt hier:
 
 [![Samsung MZ-76E1T0B/EU 860 EVO 1 TB SATA ](https://m.media-amazon.com/images/I/41qn949SpcL._SL200_.jpg)](https://www.amazon.de/dp/B078WST5RK/?tag=tolees0ca-21)
 

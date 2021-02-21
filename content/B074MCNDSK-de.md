@@ -28,8 +28,8 @@ Es gibt ein [Samsung MU-PA2T0B/EU Portable SSD T5 2 TB USB 3.1 Externe SSD Schwa
 
 ℹ️:
 
-- Hard disk size: 2000.0 GB
 - Memory storage capacity: 2000.0
+- Hard disk size: 2000.0 GB
 - Compatible devices: Desktop
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B074MCNDSK/?tag=tolees0ca-21)

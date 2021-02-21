@@ -29,9 +29,9 @@ Sie können [LEGO 42095 Technic Ferngesteuerter Stunt-Racer Spielzeug  2-in-1-Re
 ℹ️:
 
 - LEGO Power Functions include : 2 large motors, receiver, battery box and a remote control
-- Also features a fresh yellow and blue color scheme with cool stickers
-- This 2-in-1 remote-controlled tracked vehicle rebuilds into a remote-controlled toy racer
-- This LEGO Technic RC Stunt Racer 42095 set can be built together with all other original LEGO sets and LEGO bricks for creative building
 - Features a high-speed, fully motorized, remote-controlled toy vehicle with tracks and large rear sprockets for amazing acceleration
+- This LEGO Technic RC Stunt Racer 42095 set can be built together with all other original LEGO sets and LEGO bricks for creative building
+- This 2-in-1 remote-controlled tracked vehicle rebuilds into a remote-controlled toy racer
+- Also features a fresh yellow and blue color scheme with cool stickers
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FNMXFQF/?tag=tolees0ca-21)

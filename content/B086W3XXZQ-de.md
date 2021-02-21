@@ -28,10 +28,10 @@ Sie können [DEERC D30 Faltbar Drohne mit 1080P HD Kamera für Kinder RC Quadroc
 
 ℹ️:
 
-- 34 Min. längere Flugzeit：Ausgestattet mit 2 modularen Batterien kann die Flugzeugzeit bis zu 34 Minuten erreichen, so dass Sie das doppelte Flugerlebnis und Spaß genießen können.
-- Einfache Bedienung: Die Drohne lässt sich per App leicht über das Handy steuern. Sämtliche Zusatzfunktionen (One Key Start, Headless Modus,Schwerkkraft-Sensors, 360°Flip) können über die App direkt aktiviert werden.
 - Faltbar und tragbar: Einfach und schnell zusammengeklappt, dadurch ist die Drohne handlich und sicher zu transportieren. Wir haben eine einzigartige Aufbewahrungsbox entworfen, bequem für Sie zum Aufbewahren und Tragen auf Reisen.
 - 1080P HD Wi-Fi Kamera: Mit der hohewertige Kamera kann man Videos und Fotos aufnehmen, um die glücklichen Momente des Lebens zu behalten. Die FPV Echtzeitübertragung kann Live-Videos auf Ihr Handy übertragen, beobachten Sie die Welt aus der Perspektive einer Drohne.
+- Einfache Bedienung: Die Drohne lässt sich per App leicht über das Handy steuern. Sämtliche Zusatzfunktionen (One Key Start, Headless Modus,Schwerkkraft-Sensors, 360°Flip) können über die App direkt aktiviert werden.
+- 34 Min. längere Flugzeit：Ausgestattet mit 2 modularen Batterien kann die Flugzeugzeit bis zu 34 Minuten erreichen, so dass Sie das doppelte Flugerlebnis und Spaß genießen können.
 - Flugbahn und Gestensteuerung: Tap Fly ist die neueste Technologie, mit der Sie einfach eine Flugroute zeichnen und die Drohne entsprechend dem Pfad fliegen lassen können. Zudem können Fotos und Videos mittels Gestensteuerung aufgenommen werden.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B086W3XXZQ/?tag=tolees0ca-21)
