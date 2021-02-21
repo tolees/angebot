@@ -28,9 +28,9 @@ Es gibt ein [Pentel SESF30C-AX Brush Sign Pen Artist - Pinselstift mit extra fei
 
 ℹ️:
 
-- Farbstofftinte auf Wasserbasis
 - farbiger Banderole an Kappe
 - Gehäuse in Schwarz mit Metallic-Effekt
+- Farbstofftinte auf Wasserbasis
 - Beliebtes Tool für Handlettering und Brushlettering
 - extra feine Pinselspitze
 

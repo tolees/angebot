@@ -28,9 +28,9 @@ Sie können [APLI Kids 17115 Kork A4 3 Blatt Einzeln](https://www.amazon.de/dp/B
 
 ℹ️:
 
-- Es ist ein leicht zu schneiden, malen, kleben und dekorieren, wodurch es ideal für alle Arten von Bastelarbeiten und Bastelarbeiten ist.
-- Jede Packung enthält 3 Bögen.
 - Päckchen aus Kork, Größe A4 (210 x 297 mm), 2 mm dick
 - Kork ist ein natürliches, umweltfreundliches und sehr vielseitiges Material.
+- Es ist ein leicht zu schneiden, malen, kleben und dekorieren, wodurch es ideal für alle Arten von Bastelarbeiten und Bastelarbeiten ist.
+- Jede Packung enthält 3 Bögen.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07PDN2FQ3/?tag=tolees0ca-21)
