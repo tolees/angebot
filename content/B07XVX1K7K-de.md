@@ -28,10 +28,10 @@ Sie können [Microsoft Bluetooth Mouse Pfirsich](https://www.amazon.de/dp/B07XVX
 
 ℹ️:
 
-- DDR4
 - Fast Tracking Sensor für hohe Präzision auch auf Glasoberflächen und einer Auflösung von bis zu 1.800 dpi
-- Speichertechnik
 - Kabellose Freiheit dank Bluetooth Konnektivität
 - Uneingeschränkte Mobilität dank geringem Gewicht und kompakten Abmessungen
+- Speichertechnik
+- DDR4
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XVX1K7K/?tag=tolees0ca-21)
