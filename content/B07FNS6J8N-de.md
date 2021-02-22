@@ -29,8 +29,8 @@ Es gibt ein [LEGO 10900 DUPLO Polizeimotorrad  Bauset mit Polizisten als Minifig
 ℹ️:
 
 - Das Nachspielen von Polizeieinsätzen und Verkehrskontrollen fördert die Sprachentwicklung und die Rollenspielfähigkeiten.
-- Während das Kind mit dem Spielzeug-Polizeimotorrad durch die Gegend fährt, um Menschen in Not zu helfen, erlebt es endlosen Polizeispaß.
 - Mit Spielzeug-Polizeimotorrad und Polizeikiosk mit aufklappbarem Fenster.
+- Während das Kind mit dem Spielzeug-Polizeimotorrad durch die Gegend fährt, um Menschen in Not zu helfen, erlebt es endlosen Polizeispaß.
 - Enthält eine LEGO DUPLOPolizistenfigur.
 - Enthält außerdem ein doppelseitiges Schildelement zum Regeln des Verkehrs.
 

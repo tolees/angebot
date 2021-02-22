@@ -28,10 +28,10 @@ Sie können [LEGO 60260 City Air Race Spielzeug  Flugzeug & Hubschrauber Spielse
 
 ℹ️:
 
+- Kids can launch the helicopters into the air using ripcord tools, making them fly at the pull of a cord, which one will go further?
+- With 2 course pylons for a pretend runway, and aircraft with spinnable propellers and opening minifigure cockpits, the race is serious
 - Kids aged 5 plus can zoom, rotate and visualise as they build with Instructions PLUS – part of the LEGO Building Instructions app for mobiles
 - This air race set includes 3 minifigures: LEGO City Adventures TV series character Rivera and LEGO City Xtreme and Vitarush pilots
-- With 2 course pylons for a pretend runway, and aircraft with spinnable propellers and opening minifigure cockpits, the race is serious
 - Includes 2 toy ripcord helicopters and a stunt toy plane, all with opening cockpits that have room for any 1 of the 3 minifigure pilots
-- Kids can launch the helicopters into the air using ripcord tools, making them fly at the pull of a cord, which one will go further?
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0813QPZTR/?tag=tolees0ca-21)
