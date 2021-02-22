@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '30.05 % rabat auf Levi s Damen T-Shirt  The Perfect Tee  W'
-date: 2021-02-21 01:24:04
-image: 'https://m.media-amazon.com/images/I/41WDMW6l10L._SL200_.jpg'
+date: 2021-02-22 12:24:20
+image: 'https://m.media-amazon.com/images/I/41WDMW6l10L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇩🇪'
 brand: 'Levis'
 buyurl: 'https://www.amazon.de/dp/B00VLN6PYA/?tag=tolees0ca-21'
 descuento: '30.05'
-average: '14.6566666666666'
+average: '14.6053846153846'
 ---
 
 Es gibt ein [Levi s Damen T-Shirt  The Perfect Tee  Weiß  Batwing White Graphic 53   Gr. L](https://www.amazon.de/dp/B00VLN6PYA/?tag=tolees0ca-21) mit aktuellem Preis 13.99 EUR (original: 20.0 EUR) 30.05 % Rabatt hier:
 
-[![Levi s Damen T-Shirt  The Perfect Tee  W](https://m.media-amazon.com/images/I/41WDMW6l10L._SL200_.jpg)](https://www.amazon.de/dp/B00VLN6PYA/?tag=tolees0ca-21)
+[![Levi s Damen T-Shirt  The Perfect Tee  W](https://m.media-amazon.com/images/I/41WDMW6l10L._SL400_.jpg)](https://www.amazon.de/dp/B00VLN6PYA/?tag=tolees0ca-21)
 
 ℹ️:
 

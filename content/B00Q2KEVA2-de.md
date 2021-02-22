@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '23.32 % rabat auf Sony Alpha 7 II | Spiegellose Vollformat'
-date: 2021-02-21 01:00:32
-image: 'https://m.media-amazon.com/images/I/41dKx7eF5oL._SL200_.jpg'
+date: 2021-02-22 12:10:06
+image: 'https://m.media-amazon.com/images/I/41dKx7eF5oL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,19 +19,19 @@ flag: '🇩🇪'
 brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B00Q2KEVA2/?tag=tolees0ca-21'
 descuento: '23.32'
-average: '1035.1435483871'
+average: '1035.54436170213'
 ---
 
 Es gibt ein [Sony Alpha 7 II | Spiegellose Vollformat-Kamera mit Sony 28-70 mm f/3.5-5.6 Zoom-Objektiv  24 3 Megapixel  schneller Hybrid-Autofokus  optische 5-Achsen-Bildstabilisierung  XAVC S-Format-Aufzeichnung ](https://www.amazon.de/dp/B00Q2KEVA2/?tag=tolees0ca-21) mit aktuellem Preis 1072.82 EUR (original: 1399.0 EUR) 23.32 % Rabatt hier:
 
-[![Sony Alpha 7 II | Spiegellose Vollformat](https://m.media-amazon.com/images/I/41dKx7eF5oL._SL200_.jpg)](https://www.amazon.de/dp/B00Q2KEVA2/?tag=tolees0ca-21)
+[![Sony Alpha 7 II | Spiegellose Vollformat](https://m.media-amazon.com/images/I/41dKx7eF5oL._SL400_.jpg)](https://www.amazon.de/dp/B00Q2KEVA2/?tag=tolees0ca-21)
 
 ℹ️:
 
-- SCHNELL UND GENAU: Die A7 verfügt über einen schnellen Hybrid-Autofokus, um eine optimale Scharfstellung zu erreichen. Die Serienbildaufnahme mit 5 Bildern pro Sekunde hilft Ihnen, den Moment festzuhalten.
 - AUSDRUCKSSTARKE VIDEOS: Erstellen Sie Filme von atemberaubender Bild- und Tonqualität mit exquisiter Hintergrundunschärfe und der Sensibilität, dunkle Szenen zum Leben zu erwecken.
-- IDEAL FÜR: Einsteiger, die ein kompaktes Alltagsobjektiv möchten.
+- SCHNELL UND GENAU: Die A7 verfügt über einen schnellen Hybrid-Autofokus, um eine optimale Scharfstellung zu erreichen. Die Serienbildaufnahme mit 5 Bildern pro Sekunde hilft Ihnen, den Moment festzuhalten.
 - STABILE AUFNAHMEN: Optische 5-Achsen-Bildstabilisierung gepaart mit optischer Objektivstabilisierung zur Kompensation von Verwacklungen der Kamera.
 - SCHARFE DETAILS: 24 Mp Vollbildsensor für herausragende Bilder.
+- IDEAL FÜR: Einsteiger, die ein kompaktes Alltagsobjektiv möchten.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00Q2KEVA2/?tag=tolees0ca-21)

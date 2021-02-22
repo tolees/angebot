@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'Sony RX100 V | Premium-Kompaktkamera  1  mit 32.72 % Rabatt'
-date: 2021-02-21 01:05:39
-image: 'https://m.media-amazon.com/images/I/418dFnATfQL._SL200_.jpg'
+title: 'Sony RX100 V | Premium-Kompaktkamera  1  mit 34.70 % Rabatt'
+date: 2021-02-22 12:39:11
+image: 'https://m.media-amazon.com/images/I/418dFnATfQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07G4RNJ1R-de Sony RX100 V | Premium-Kompaktkamera 1 0-Typ-Sensor 24-70...'
 sku: 'B07G4RNJ1R-de'
 tags: [  ]
-actualPrice: 705.79 EUR
+actualPrice: 685.0 EUR
 currency: EUR
-price: 705.79
+price: 685.0
 comparePrice: 1049.0 EUR
 prodname: 'Sony RX100 V | Premium-Kompaktkamera  1 0-Typ-Sensor  24-70 mm F1.8-2.8-Zeiss-Objektiv  4K-Filmaufnahmen und neigbares Display '
 country: 'de'
 flag: '🇩🇪'
 brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B07G4RNJ1R/?tag=tolees0ca-21'
-descuento: '32.72'
-average: '689.158'
+descuento: '34.70'
+average: '688.78'
 ---
 
-Sie können [Sony RX100 V | Premium-Kompaktkamera  1 0-Typ-Sensor  24-70 mm F1.8-2.8-Zeiss-Objektiv  4K-Filmaufnahmen und neigbares Display ](https://www.amazon.de/dp/B07G4RNJ1R/?tag=tolees0ca-21) mit Preis 705.79 EUR (original: 1049.0 EUR) 32.72 % Rabatt hier:
+Sie können [Sony RX100 V | Premium-Kompaktkamera  1 0-Typ-Sensor  24-70 mm F1.8-2.8-Zeiss-Objektiv  4K-Filmaufnahmen und neigbares Display ](https://www.amazon.de/dp/B07G4RNJ1R/?tag=tolees0ca-21) mit Preis 685.0 EUR (original: 1049.0 EUR) 34.70 % Rabatt hier:
 
-[![Sony RX100 V | Premium-Kompaktkamera  1 ](https://m.media-amazon.com/images/I/418dFnATfQL._SL200_.jpg)](https://www.amazon.de/dp/B07G4RNJ1R/?tag=tolees0ca-21)
+[![Sony RX100 V | Premium-Kompaktkamera  1 ](https://m.media-amazon.com/images/I/418dFnATfQL._SL400_.jpg)](https://www.amazon.de/dp/B07G4RNJ1R/?tag=tolees0ca-21)
 
 ℹ️:
 

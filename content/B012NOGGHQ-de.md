@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '26.01 % rabat auf LEGO 21028 Architecture New York City Ba'
-date: 2021-02-21 01:49:51
-image: 'https://m.media-amazon.com/images/I/51eda0bZppL._SL200_.jpg'
+date: 2021-02-22 12:32:46
+image: 'https://m.media-amazon.com/images/I/51eda0bZppL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,19 +19,19 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B012NOGGHQ/?tag=tolees0ca-21'
 descuento: '26.01'
-average: '37.6855782312924'
+average: '37.6832203389829'
 ---
 
 Es gibt ein [LEGO 21028 Architecture New York City Bauset  Skyline-Kollektion](https://www.amazon.de/dp/B012NOGGHQ/?tag=tolees0ca-21) mit aktuellem Preis 36.99 EUR (original: 49.99 EUR) 26.01 % Rabatt hier:
 
-[![LEGO 21028 Architecture New York City Ba](https://m.media-amazon.com/images/I/51eda0bZppL._SL200_.jpg)](https://www.amazon.de/dp/B012NOGGHQ/?tag=tolees0ca-21)
+[![LEGO 21028 Architecture New York City Ba](https://m.media-amazon.com/images/I/51eda0bZppL._SL400_.jpg)](https://www.amazon.de/dp/B012NOGGHQ/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Das Modell enthält das Flatiron Building, das Chrysler Building, das Empire State Building und das One World Trade Center
-- Die New Yorker Skyline ist 26 cm hoch, 23 cm breit und 3 cm tief; 598 Teile - Für Jungen und Mädchen ab 12 Jahren
-- Die Spielzeugmodelle von LEGO Architecture sind kompatibel mit allen LEGO Bausets für kreatives Bauen
-- Enthält eine Broschüre zum Sammeln mit Informationen über Design, Architektur und Geschichte des Gebäudes
 - Bauen Sie ein detailgetreues Modell der New Yorker Skyline mit der Freiheitsstatue
+- Die Spielzeugmodelle von LEGO Architecture sind kompatibel mit allen LEGO Bausets für kreatives Bauen
+- Das Modell enthält das Flatiron Building, das Chrysler Building, das Empire State Building und das One World Trade Center
+- Enthält eine Broschüre zum Sammeln mit Informationen über Design, Architektur und Geschichte des Gebäudes
+- Die New Yorker Skyline ist 26 cm hoch, 23 cm breit und 3 cm tief; 598 Teile - Für Jungen und Mädchen ab 12 Jahren
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B012NOGGHQ/?tag=tolees0ca-21)

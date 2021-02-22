@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '17.10 % rabat auf Microsoft - Xbox Wireless Controller Rob'
-date: 2021-02-21 01:37:53
-image: 'https://m.media-amazon.com/images/I/319WfTMjpAL._SL200_.jpg'
+date: 2021-02-22 12:41:32
+image: 'https://m.media-amazon.com/images/I/319WfTMjpAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,19 +19,19 @@ flag: '🇩🇪'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.de/dp/B087VLP2RT/?tag=tolees0ca-21'
 descuento: '17.10'
-average: '56.4587719298245'
+average: '56.4499999999999'
 ---
 
 Es gibt ein [Microsoft - Xbox Wireless Controller Robot White](https://www.amazon.de/dp/B087VLP2RT/?tag=tolees0ca-21) mit aktuellem Preis 55.95 EUR (original: 67.49 EUR) 17.10 % Rabatt hier:
 
-[![Microsoft - Xbox Wireless Controller Rob](https://m.media-amazon.com/images/I/319WfTMjpAL._SL200_.jpg)](https://www.amazon.de/dp/B087VLP2RT/?tag=tolees0ca-21)
+[![Microsoft - Xbox Wireless Controller Rob](https://m.media-amazon.com/images/I/319WfTMjpAL._SL400_.jpg)](https://www.amazon.de/dp/B087VLP2RT/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Verfügt über Xbox Wireless- und Bluetooth-Technologie für drahtloses Gaming auf unterstützten Konsolen, Windows 10-PCs und Android-Smartphones sowie Tablets
-- Erleben Sie das modernisierte Design des Xbox Wireless Controllers in Robot White, der mit seinen geformten Oberflächen und der verfeinerten Geometrie für mehr Komfort beim Spielen sorgt
-- Sie können den Controller auf ihre Bedürfnisse anpassen und über die Xbox Zubehör-App die Tasten so zuweisen, wie Sie möchten
 - Bleiben Sie dank der strukturierten Grifffläche und dem hybriden D-Pad auf Zielkurs
 - An der 3,5mm-Stereo-Headsetbuchse kannst du kompatible Headsets und Kopfhörer anschließen
+- Verfügt über Xbox Wireless- und Bluetooth-Technologie für drahtloses Gaming auf unterstützten Konsolen, Windows 10-PCs und Android-Smartphones sowie Tablets
+- Sie können den Controller auf ihre Bedürfnisse anpassen und über die Xbox Zubehör-App die Tasten so zuweisen, wie Sie möchten
+- Erleben Sie das modernisierte Design des Xbox Wireless Controllers in Robot White, der mit seinen geformten Oberflächen und der verfeinerten Geometrie für mehr Komfort beim Spielen sorgt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B087VLP2RT/?tag=tolees0ca-21)
