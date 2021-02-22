@@ -1,36 +1,36 @@
 ---
 layout: post
-title: '43.24 % rabat auf Funko - POP! Vinyl: Disney: Aladdin  Liv'
-date: 2021-02-21 01:23:55
-image: 'https://m.media-amazon.com/images/I/51DQ3juxjOL._SL200_.jpg'
+title: '50.18 % rabat auf Funko - POP! Vinyl: Disney: Aladdin  Liv'
+date: 2021-02-22 17:54:09
+image: 'https://m.media-amazon.com/images/I/51DQ3juxjOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07KPTBSM4-de Funko - POP! Vinyl: Disney: Aladdin Live Action : Aladdin...'
 sku: 'B07KPTBSM4-de'
 tags: [  ]
-actualPrice: 9.32 EUR
+actualPrice: 8.18 EUR
 currency: EUR
-price: 9.32
+price: 8.18
 comparePrice: 16.42 EUR
 prodname: 'Funko - POP! Vinyl: Disney: Aladdin  Live Action : Aladdin & Abu'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Funko'
 buyurl: 'https://www.amazon.de/dp/B07KPTBSM4/?tag=tolees0ca-21'
-descuento: '43.24'
-average: '10.2927586206896'
+descuento: '50.18'
+average: '10.2223333333333'
 ---
 
-Es gibt ein [Funko - POP! Vinyl: Disney: Aladdin  Live Action : Aladdin & Abu](https://www.amazon.de/dp/B07KPTBSM4/?tag=tolees0ca-21) mit aktuellem Preis 9.32 EUR (original: 16.42 EUR) 43.24 % Rabatt hier:
+Es gibt ein [Funko - POP! Vinyl: Disney: Aladdin  Live Action : Aladdin & Abu](https://www.amazon.de/dp/B07KPTBSM4/?tag=tolees0ca-21) mit aktuellem Preis 8.18 EUR (original: 16.42 EUR) 50.18 % Rabatt hier:
 
-[![Funko - POP! Vinyl: Disney: Aladdin  Liv](https://m.media-amazon.com/images/I/51DQ3juxjOL._SL200_.jpg)](https://www.amazon.de/dp/B07KPTBSM4/?tag=tolees0ca-21)
+[![Funko - POP! Vinyl: Disney: Aladdin  Liv](https://m.media-amazon.com/images/I/51DQ3juxjOL._SL400_.jpg)](https://www.amazon.de/dp/B07KPTBSM4/?tag=tolees0ca-21)
 
 ℹ️:
 
 - Disney Aladdin
-- Spielzeug des Jahres 2018
 - Von Aladdin, Aladdin & Abu, zur stilisierten POP-Vinyl Figur von Funko!
+- Spielzeug des Jahres 2018
 - Aladdin & Abu
 - POP! Vinyl
 

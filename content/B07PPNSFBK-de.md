@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Seagate Game Drive PS4  tragbare externe mit 24.07 % Rabatt'
-date: 2021-02-21 01:16:36
-image: 'https://m.media-amazon.com/images/I/313IsSJJWoL._SL200_.jpg'
+date: 2021-02-22 17:37:17
+image: 'https://m.media-amazon.com/images/I/313IsSJJWoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇩🇪'
 brand: 'Seagate'
 buyurl: 'https://www.amazon.de/dp/B07PPNSFBK/?tag=tolees0ca-21'
 descuento: '24.07'
-average: '69.9066071428571'
+average: '69.9456140350877'
 ---
 
 Sie können [Seagate Game Drive PS4  tragbare externe Festplatte 2 TB  2.5 Zoll  USB 3.0  Playstation4  Modellnr.: STGD2000200](https://www.amazon.de/dp/B07PPNSFBK/?tag=tolees0ca-21) mit Preis 72.13 EUR (original: 94.99 EUR) 24.07 % Rabatt hier:
 
-[![Seagate Game Drive PS4  tragbare externe](https://m.media-amazon.com/images/I/313IsSJJWoL._SL200_.jpg)](https://www.amazon.de/dp/B07PPNSFBK/?tag=tolees0ca-21)
+[![Seagate Game Drive PS4  tragbare externe](https://m.media-amazon.com/images/I/313IsSJJWoL._SL400_.jpg)](https://www.amazon.de/dp/B07PPNSFBK/?tag=tolees0ca-21)
 
 ℹ️:
 

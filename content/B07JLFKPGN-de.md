@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'PLAYMOBIL 70067 City Action Porsche 911  mit 25.20 % Rabatt'
-date: 2021-02-21 00:58:51
-image: 'https://m.media-amazon.com/images/I/51q2Y4Bb7SL._SL200_.jpg'
+date: 2021-02-22 17:33:50
+image: 'https://m.media-amazon.com/images/I/51q2Y4Bb7SL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,18 +19,18 @@ flag: '🇩🇪'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.de/dp/B07JLFKPGN/?tag=tolees0ca-21'
 descuento: '25.20'
-average: '32.3806390977444'
+average: '32.4001119402986'
 ---
 
 Sie können [PLAYMOBIL 70067 City Action Porsche 911 Carrera 4S Polizei  bunt](https://www.amazon.de/dp/B07JLFKPGN/?tag=tolees0ca-21) mit Preis 34.99 EUR (original: 46.78 EUR) 25.20 % Rabatt hier:
 
-[![PLAYMOBIL 70067 City Action Porsche 911 ](https://m.media-amazon.com/images/I/51q2Y4Bb7SL._SL200_.jpg)](https://www.amazon.de/dp/B07JLFKPGN/?tag=tolees0ca-21)
+[![PLAYMOBIL 70067 City Action Porsche 911 ](https://m.media-amazon.com/images/I/51q2Y4Bb7SL._SL400_.jpg)](https://www.amazon.de/dp/B07JLFKPGN/?tag=tolees0ca-21)
 
 ℹ️:
 
-- mit Polizei-Licht und Sound (1 x 1,5V Micro-Batterie nötig) und viel Zubehör
 - Das Dach kann abgenommen werden
 - Die Vorder- und Rücklichter sowie das Armaturenbrett leuchten (3 x 1,5-V-Micro-Batterien nötig)
+- mit Polizei-Licht und Sound (1 x 1,5V Micro-Batterie nötig) und viel Zubehör
 - 2 Figuren mit Fahrzeug und Zubehör
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07JLFKPGN/?tag=tolees0ca-21)

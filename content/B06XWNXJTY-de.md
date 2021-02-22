@@ -1,30 +1,30 @@
 ---
 layout: post
-title: '18.63 % rabat auf Samsung Kabel Original Galaxy S8 Und S8 '
-date: 2021-02-04 04:51:14
-image: 'https://m.media-amazon.com/images/I/315MFIdVU6L._SL200_.jpg'
+title: '44.79 % rabat auf Samsung Kabel Original Galaxy S8 Und S8 '
+date: 2021-02-22 17:26:36
+image: 'https://m.media-amazon.com/images/I/315MFIdVU6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B06XWNXJTY-de Samsung Kabel Original Galaxy S8 Und S8 Edge mit USB-C...'
 sku: 'B06XWNXJTY-de'
 tags: [  ]
-actualPrice: 3.32 EUR
+actualPrice: 4.08 EUR
 currency: EUR
-price: 3.32
-comparePrice: 4.08 EUR
+price: 4.08
+comparePrice: 7.39 EUR
 prodname: 'Samsung Kabel Original Galaxy S8 Und S8 Edge mit USB-C Modell ep-dg950CBE Schwarz Black in Bulk'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.de/dp/B06XWNXJTY/?tag=tolees0ca-21'
-descuento: '18.63'
-average: '3.32'
+descuento: '44.79'
+average: '3.53714285714286'
 ---
 
-Es gibt ein [Samsung Kabel Original Galaxy S8 Und S8 Edge mit USB-C Modell ep-dg950CBE Schwarz Black in Bulk](https://www.amazon.de/dp/B06XWNXJTY/?tag=tolees0ca-21) mit aktuellem Preis 3.32 EUR (original: 4.08 EUR) 18.63 % Rabatt hier:
+Es gibt ein [Samsung Kabel Original Galaxy S8 Und S8 Edge mit USB-C Modell ep-dg950CBE Schwarz Black in Bulk](https://www.amazon.de/dp/B06XWNXJTY/?tag=tolees0ca-21) mit aktuellem Preis 4.08 EUR (original: 7.39 EUR) 44.79 % Rabatt hier:
 
-[![Samsung Kabel Original Galaxy S8 Und S8 ](https://m.media-amazon.com/images/I/315MFIdVU6L._SL200_.jpg)](https://www.amazon.de/dp/B06XWNXJTY/?tag=tolees0ca-21)
+[![Samsung Kabel Original Galaxy S8 Und S8 ](https://m.media-amazon.com/images/I/315MFIdVU6L._SL400_.jpg)](https://www.amazon.de/dp/B06XWNXJTY/?tag=tolees0ca-21)
 
 ℹ️:
 
