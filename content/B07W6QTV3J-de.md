@@ -28,9 +28,9 @@ Sie können [LEGO 21158 Minecraft Der Panda-Kindergarten  Bauset mit Alex und Ti
 
 ℹ️:
 
-- Der Panda-Kindergarten verfügt über eine Hütte für Pandas mit einem Dachbett für ein müdes Baby und einen kleinen Teich mit Wasserfall, Bäumen und Blumen
-- Inklusive 2 Pandas, Alex und ein Ozelot. Mama und Baby Panda Figuren sitzen, stehen und bewegen ihre Köpfe
 - Der Ozelot hat einen beweglichen Schwanz, es gibt reichlich Bambus für die putzigen Pandas zu fressen, damit sich die Kinder um sie kümmern können und Alex hat einen Kuchen für alle mitgebracht
+- Inklusive 2 Pandas, Alex und ein Ozelot. Mama und Baby Panda Figuren sitzen, stehen und bewegen ihre Köpfe
+- Der Panda-Kindergarten verfügt über eine Hütte für Pandas mit einem Dachbett für ein müdes Baby und einen kleinen Teich mit Wasserfall, Bäumen und Blumen
 - Ein großartiges Set für Panda-Fans und Minecraft-Spieler, die ihr Lieblingsspiel auch mal auf eine andere Weise erleben möchten. Erfordert nur sehr grundlegende Fähigkeiten im Zusammenbauen von Steinen
 - Das Zubehör umfasst einen Fisch, einen Kuchen, eine Lampe und falls es irgendwo Gold zum Ausgraben gibt, hat Alex eine Spitzhacke dabei
 
