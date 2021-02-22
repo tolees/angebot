@@ -28,10 +28,10 @@ Sie können [Samsung EP-TA20EWECGWW Modulares Schnellladegerät EP-TA-20 2Ampere
 
 ℹ️:
 
+- Die Lieferung erfolgt ohne zusätzliche Umverpackung
 - Samsung Schnell Ladegerät - Eingangsspannung: 100-240 V - Ausgangsspannung: 5 Volt - 2 Ampere
 - Typ C USB Datenkabel / Ladekabel EP-DN930CWE - Länge 1,2 Meter
 - Farbe Weiß.Gewicht: 38,3 g
-- Die Lieferung erfolgt ohne zusätzliche Umverpackung
 - Kompatibel zu folgenden Samsung Modellen: Samsung Galaxy A3 2017 , Samsung Galaxy A5 2017 , Samsung Galaxy A7 2017 , Samsung Galaxy S8 , Samsung Galaxy S8 Plus ,Samsung Galaxy J7 2017 , Samsung Galaxy Note 8 , Samsung Galaxy S9 , Samsung Galaxy S9 Plus , Samsung Galaxy A8 2018 , Samsung Galaxy A8 Plus 2018
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01M4I7FMC/?tag=tolees0ca-21)
