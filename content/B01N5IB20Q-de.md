@@ -28,7 +28,7 @@ Es gibt ein [Kingston A400 SSD SA400S37/240G - Interne SSD  2.5 Zoll  SATA 240GB
 
 ℹ️:
 
-- Kingston Solid State Drive are Operating System independent and will run on any system supporting a standard Serial Advanced Technology Attachment interface
 - Kingston SSD A400 Solid State Drive (2. 5 Inch SATA 3), 240 GB.
+- Kingston Solid State Drive are Operating System independent and will run on any system supporting a standard Serial Advanced Technology Attachment interface
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01N5IB20Q/?tag=tolees0ca-21)

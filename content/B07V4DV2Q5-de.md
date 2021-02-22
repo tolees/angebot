@@ -28,10 +28,10 @@ Sie können [TOM TAILOR Damen Basic V-Neck Pullover  Blau  Sea Blue Melange 1558
 
 ℹ️:
 
-- aus Baumwoll-Strick
-- abgesetzte Blende am Ausschnitt mit Rollkante
-- unifarben
 - mit Logo-Coin vorne
 - langärmlig mit V-Ausschnitt
+- abgesetzte Blende am Ausschnitt mit Rollkante
+- aus Baumwoll-Strick
+- unifarben
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07V4DV2Q5/?tag=tolees0ca-21)
