@@ -28,10 +28,10 @@ Es gibt ein [Funko 40884 POP Disney: Frozen 2-ELSA Sammelbares Spielzeug  Mehrfa
 
 ℹ️:
 
-- Von Frozen 2, Elsa, zur stilisierten POP-Vinyl Figur von Funko!
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
+- Von Frozen 2, Elsa, zur stilisierten POP-Vinyl Figur von Funko!
 - Disney Frozen 2
-- Elsa
 - Schauen Sie sich jetzt die anderen Disney-Figuren von Funko an! Sammeln Sie alle!
+- Elsa
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07QVSST4C/?tag=tolees0ca-21)

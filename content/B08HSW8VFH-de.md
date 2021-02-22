@@ -28,8 +28,8 @@ Es gibt ein [Ubisoft - Immortals Fenyx Rising - Limited Edition  exklusiv bei Am
 
 ℹ️:
 
-- Erschaffen Sie mit Fenyx Ihre eigene Legende. Fenyx kann auf mannigfaltige Weise angepasst werden. So lässt sich das Geschlecht wählen, das Aussehen, aber auch Waffen und Rüstungen anpassen
 - Treffen Sie im Kampf auf mythische Gegner wie Zyklopen, Medusen, dem Minotaurus, sowie korrumpierten Helden wie Achilles in schnellen Boden- und Luftkämpfen entgegen
+- Erschaffen Sie mit Fenyx Ihre eigene Legende. Fenyx kann auf mannigfaltige Weise angepasst werden. So lässt sich das Geschlecht wählen, das Aussehen, aber auch Waffen und Rüstungen anpassen
 - Käufer der Xbox One Version haben die Möglichkeit, per Smart Update auf Xbox Series X upzugraden
 - Bestens Vorbereitet: Die Limited Edition enthält das Orions gesegnete Waffen-Paket und Prisma-Flüge
 - Die Götter der Olymps gewähren Ihnen mächtige Gaben. Nutzen Sie sie beim Lösen von Rätseln und bei der Erkundung der riesigen Spielwelt

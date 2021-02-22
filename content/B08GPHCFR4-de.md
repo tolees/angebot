@@ -28,9 +28,9 @@ Es gibt ein [Samsung Galaxy M31s Android Smartphone ohne Vertrag  Quad-Kamera  6
 
 ℹ️:
 
-- Ein Riesen-Akku für pausenloses Entertainment: Mit dem ausdauernden 6.000 mAh-Akku des Samsung Galaxy M31s steht Ihrem Serienmarathon oder ausgiebigen Gaming-Sessions nichts mehr im Weg. Und die 25-Watt Schnellladefunktion sorgt dafür, dass der große Akku Ihre Smartphones auch blitzschnell wieder aufgeladen ist.
 - Wahre Power kommt von innen: Dieses Smartphone der Galaxy M-Serie wird von einem leistungsstarken Octa-Core-Prozessor und 6 GB RAM angetrieben und verfügt über 128 GB internen Speicher, den Sie komfortabel per microSD-Karte erweitern können.
 - Ein fast rahmenloses Erlebnis: Genießen Sie auf dem 6,5-Zoll Infinity-O Display des Galaxy M31s mit Super AMOLED FHD+-Technologie und brillanten Farben all Ihre Lieblingsvideos, Games und Fotos in gestochen scharfer Auflösung.
+- Ein Riesen-Akku für pausenloses Entertainment: Mit dem ausdauernden 6.000 mAh-Akku des Samsung Galaxy M31s steht Ihrem Serienmarathon oder ausgiebigen Gaming-Sessions nichts mehr im Weg. Und die 25-Watt Schnellladefunktion sorgt dafür, dass der große Akku Ihre Smartphones auch blitzschnell wieder aufgeladen ist.
 - Eine Kamera für jede Situation: Erleben Sie das Android Handy mit der vielseitigen Quad-Kamera, die jeden Moment in voller Schönheit einfängt. Die Ultra-Weitwinkelkamera nimmt fantastische Panoramen auf und mit der 32 MP Frontkamera des Galaxy M31s können Sie sich immer von Ihrer schönsten Seite zeigen.
 - Ein nahtloses Bedienerlebnis: Die One UI Core zeigt Ihnen auf minimalistische Art und Weise, wie praktisch eine Benutzeroberfläche sein kann, wenn Hardware und Software optimal zusammenarbeiten. Zusätzlich sorgen der Dark Mode des Smartphones und das minimalistische Design der Benutzeroberfläche für mehr Freude bei der Benutzung Ihres Galaxy M31s.
 

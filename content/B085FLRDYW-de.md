@@ -28,10 +28,10 @@ Sie können [PLAYMOBIL Dinos 70632 T-Rex Angriff  ab 4 Jahren](https://www.amazo
 
 ℹ️:
 
-- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
-- Spielspaß mit den coolen Dinosaurier Sets: PLAYMOBIL T-Rex Angriff mit 2 Dinos, 1 Forscher, 1 Quad und viel Zubehör für detailgetreues Nachspielen
-- T-Rex u. Deinonychus mit bewegbaren Armen, Beinen, Kopf und Kiefer, Quad (ohne Motor) für 1 Figur, Gepäckträger mit Band zum Fixieren von Zubehör uvm.
-- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 - Lieferumfang: 1x PLAYMOBIL Dinos T-Rex Angriff, 20-teiliges Spielfiguren-Set mit Anleitung: 1 Quad, 1 Figur, 2 Dinos, 16 Zubehörteile, Material: Kunststoff, Individuell aufstellbar, Gewicht: ca. 414 g, 70632
+- T-Rex u. Deinonychus mit bewegbaren Armen, Beinen, Kopf und Kiefer, Quad (ohne Motor) für 1 Figur, Gepäckträger mit Band zum Fixieren von Zubehör uvm.
+- Spielspaß mit den coolen Dinosaurier Sets: PLAYMOBIL T-Rex Angriff mit 2 Dinos, 1 Forscher, 1 Quad und viel Zubehör für detailgetreues Nachspielen
+- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
+- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B085FLRDYW/?tag=tolees0ca-21)
