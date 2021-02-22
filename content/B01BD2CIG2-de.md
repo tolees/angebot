@@ -2,7 +2,7 @@
 layout: post
 title: '22.01 % rabat auf Urban Classics Ladies Tech Mesh Leggings'
 date: 2020-09-25 19:48:31
-image: 'https://m.media-amazon.com/images/I/31pXjegZ+bL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31pXjegZ+bL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.52'
 
 Es gibt ein [Urban Classics Ladies Tech Mesh Leggings  Schwarz  black 7   M](https://www.amazon.de/dp/B01BD2CIG2/?tag=tolees0ca-21) mit aktuellem Preis 15.52 EUR (original: 19.9 EUR) 22.01 % Rabatt hier:
 
-[![Urban Classics Ladies Tech Mesh Leggings](https://m.media-amazon.com/images/I/31pXjegZ+bL._SL200_.jpg)](https://www.amazon.de/dp/B01BD2CIG2/?tag=tolees0ca-21)
+[![Urban Classics Ladies Tech Mesh Leggings](https://m.media-amazon.com/images/I/31pXjegZ+bL._SL400_.jpg)](https://www.amazon.de/dp/B01BD2CIG2/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '26.45 % rabat auf Playmobil 6880 - Sternchenbahn mit Schie'
 date: 2020-02-05 03:36:49
-image: 'https://images-eu.ssl-images-amazon.com/images/I/516f4VuVKFL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516f4VuVKFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.994999999999997'
 
 Es gibt ein [Playmobil 6880 - Sternchenbahn mit Schienenkreis](https://www.amazon.de/dp/B01BPF7KO2/?tag=tolees0ca-21) mit aktuellem Preis 25 EUR (original: 33.99 EUR) 26.45 % Rabatt hier:
 
-[![Playmobil 6880 - Sternchenbahn mit Schie](https://images-eu.ssl-images-amazon.com/images/I/516f4VuVKFL._SL200_.jpg)](https://www.amazon.de/dp/B01BPF7KO2/?tag=tolees0ca-21)
+[![Playmobil 6880 - Sternchenbahn mit Schie](https://images-eu.ssl-images-amazon.com/images/I/516f4VuVKFL._SL400_.jpg)](https://www.amazon.de/dp/B01BPF7KO2/?tag=tolees0ca-21)
 
 ℹ️:
 

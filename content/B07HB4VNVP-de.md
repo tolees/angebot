@@ -2,7 +2,7 @@
 layout: post
 title: '35.38 % rabat auf Pop Billy Idol Vinyl Figure'
 date: 2020-04-05 05:04:57
-image: 'https://m.media-amazon.com/images/I/41DFMoXHZnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DFMoXHZnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.17'
 
 Es gibt ein [Pop Billy Idol Vinyl Figure](https://www.amazon.de/dp/B07HB4VNVP/?tag=tolees0ca-21) mit aktuellem Preis 5.17 EUR (original: 8.0 EUR) 35.38 % Rabatt hier:
 
-[![Pop Billy Idol Vinyl Figure](https://m.media-amazon.com/images/I/41DFMoXHZnL._SL200_.jpg)](https://www.amazon.de/dp/B07HB4VNVP/?tag=tolees0ca-21)
+[![Pop Billy Idol Vinyl Figure](https://m.media-amazon.com/images/I/41DFMoXHZnL._SL400_.jpg)](https://www.amazon.de/dp/B07HB4VNVP/?tag=tolees0ca-21)
 
 ℹ️:
 

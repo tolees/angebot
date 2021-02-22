@@ -2,7 +2,7 @@
 layout: post
 title: '39.82 % rabat auf Ostwind - Aris Ankunft [Blu-ray]'
 date: 2020-07-13 07:24:42
-image: 'https://m.media-amazon.com/images/I/51R85ecCJ8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51R85ecCJ8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.7266666666666675'
 
 Es gibt ein [Ostwind - Aris Ankunft [Blu-ray]](https://www.amazon.de/dp/B07NRHS6DL/?tag=tolees0ca-21) mit aktuellem Preis 6.0 EUR (original: 9.97 EUR) 39.82 % Rabatt hier:
 
-[![Ostwind - Aris Ankunft [Blu-ray]](https://m.media-amazon.com/images/I/51R85ecCJ8L._SL200_.jpg)](https://www.amazon.de/dp/B07NRHS6DL/?tag=tolees0ca-21)
+[![Ostwind - Aris Ankunft [Blu-ray]](https://m.media-amazon.com/images/I/51R85ecCJ8L._SL400_.jpg)](https://www.amazon.de/dp/B07NRHS6DL/?tag=tolees0ca-21)
 
 ℹ️:
 

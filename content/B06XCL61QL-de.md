@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko 13431 Minions POP Vinylfigur: Desp mit 46.46 % Rabatt'
 date: 2020-04-07 21:31:45
-image: 'https://m.media-amazon.com/images/I/51lDU92n7xL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lDU92n7xL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.4766666666666675'
 
 Sie können [Funko 13431 Minions POP Vinylfigur: Despicable Me 3: Kyle  Multi](https://www.amazon.de/dp/B06XCL61QL/?tag=tolees0ca-21) mit Preis 7.49 EUR (original: 13.99 EUR) 46.46 % Rabatt hier:
 
-[![Funko 13431 Minions POP Vinylfigur: Desp](https://m.media-amazon.com/images/I/51lDU92n7xL._SL200_.jpg)](https://www.amazon.de/dp/B06XCL61QL/?tag=tolees0ca-21)
+[![Funko 13431 Minions POP Vinylfigur: Desp](https://m.media-amazon.com/images/I/51lDU92n7xL._SL400_.jpg)](https://www.amazon.de/dp/B06XCL61QL/?tag=tolees0ca-21)
 
 ℹ️:
 

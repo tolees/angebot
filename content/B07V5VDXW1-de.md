@@ -2,7 +2,7 @@
 layout: post
 title: 'Razer Huntsman Tournament Edition - TKL  mit 20.61 % Rabatt'
 date: 2020-09-29 08:43:41
-image: 'https://m.media-amazon.com/images/I/31u77HgxlYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31u77HgxlYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '119.08'
 
 Sie können [Razer Huntsman Tournament Edition - TKL Mechanical Gaming Keyboard  Kompakte Tastatur mit schnellsten Linear Opto-Mechanischen Schaltern  PBT-Tastenkappen  RGB Chroma Beleuchtung  EU-Layout  Schwarz](https://www.amazon.de/dp/B07V5VDXW1/?tag=tolees0ca-21) mit Preis 119.08 EUR (original: 149.99 EUR) 20.61 % Rabatt hier:
 
-[![Razer Huntsman Tournament Edition - TKL ](https://m.media-amazon.com/images/I/31u77HgxlYL._SL200_.jpg)](https://www.amazon.de/dp/B07V5VDXW1/?tag=tolees0ca-21)
+[![Razer Huntsman Tournament Edition - TKL ](https://m.media-amazon.com/images/I/31u77HgxlYL._SL400_.jpg)](https://www.amazon.de/dp/B07V5VDXW1/?tag=tolees0ca-21)
 
 ℹ️:
 

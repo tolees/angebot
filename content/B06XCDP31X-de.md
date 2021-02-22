@@ -2,7 +2,7 @@
 layout: post
 title: 'camel active klein B00 Journey Umhängeta mit 38.87 % Rabatt'
 date: 2020-09-22 22:06:51
-image: 'https://m.media-amazon.com/images/I/510K3Nv1EOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510K3Nv1EOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.0'
 
 Sie können [camel active klein B00 Journey Umhängetasche  22 cm  schwarz](https://www.amazon.de/dp/B06XCDP31X/?tag=tolees0ca-21) mit Preis 22.0 EUR (original: 35.99 EUR) 38.87 % Rabatt hier:
 
-[![camel active klein B00 Journey Umhängeta](https://m.media-amazon.com/images/I/510K3Nv1EOL._SL200_.jpg)](https://www.amazon.de/dp/B06XCDP31X/?tag=tolees0ca-21)
+[![camel active klein B00 Journey Umhängeta](https://m.media-amazon.com/images/I/510K3Nv1EOL._SL400_.jpg)](https://www.amazon.de/dp/B06XCDP31X/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '46.68 % rabat auf Fintie Hülle für Kindle Paperwhite - Die'
 date: 2020-04-18 00:41:59
-image: 'https://m.media-amazon.com/images/I/61rsqAViPHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61rsqAViPHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 Es gibt ein [Fintie Hülle für Kindle Paperwhite - Die dünnste und leichteste Schutzhülle mit Auto Sleep/Wake Funktion  Nicht geeignet für das Modell der 10. Generation 2018   die Bibliothek](https://www.amazon.de/dp/B07T9C4HMH/?tag=tolees0ca-21) mit aktuellem Preis 15.99 EUR (original: 29.99 EUR) 46.68 % Rabatt hier:
 
-[![Fintie Hülle für Kindle Paperwhite - Die](https://m.media-amazon.com/images/I/61rsqAViPHL._SL200_.jpg)](https://www.amazon.de/dp/B07T9C4HMH/?tag=tolees0ca-21)
+[![Fintie Hülle für Kindle Paperwhite - Die](https://m.media-amazon.com/images/I/61rsqAViPHL._SL400_.jpg)](https://www.amazon.de/dp/B07T9C4HMH/?tag=tolees0ca-21)
 
 ℹ️:
 

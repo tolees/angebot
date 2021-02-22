@@ -2,7 +2,7 @@
 layout: post
 title: '32.35 % rabat auf Philips 929001229801 EEK A+ LED Lampe er'
 date: 2020-10-09 12:12:28
-image: 'https://m.media-amazon.com/images/I/310sMb6lNTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/310sMb6lNTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.17'
 
 Es gibt ein [Philips 929001229801 EEK A+ LED Lampe ersetzt 120 W  E27  warmweiß  2700K   2000 Lumen  Globe](https://www.amazon.de/dp/B01KHIM7O6/?tag=tolees0ca-21) mit aktuellem Preis 12.17 EUR (original: 17.99 EUR) 32.35 % Rabatt hier:
 
-[![Philips 929001229801 EEK A+ LED Lampe er](https://m.media-amazon.com/images/I/310sMb6lNTL._SL200_.jpg)](https://www.amazon.de/dp/B01KHIM7O6/?tag=tolees0ca-21)
+[![Philips 929001229801 EEK A+ LED Lampe er](https://m.media-amazon.com/images/I/310sMb6lNTL._SL400_.jpg)](https://www.amazon.de/dp/B01KHIM7O6/?tag=tolees0ca-21)
 
 ℹ️:
 

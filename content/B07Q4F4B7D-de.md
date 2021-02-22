@@ -2,7 +2,7 @@
 layout: post
 title: 'Bose Home Speaker 300 mit integrierter A mit 28.02 % Rabatt'
 date: 2020-03-07 21:09:51
-image: 'https://m.media-amazon.com/images/I/416LHurN-FL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416LHurN-FL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '177.0'
 
 Sie können [Bose Home Speaker 300 mit integrierter Amazon Alexa-Sprachsteuerung  schwarz](https://www.amazon.de/dp/B07Q4F4B7D/?tag=tolees0ca-21) mit Preis 149.0 EUR (original: 207.0 EUR) 28.02 % Rabatt hier:
 
-[![Bose Home Speaker 300 mit integrierter A](https://m.media-amazon.com/images/I/416LHurN-FL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07Q4F4B7D/?tag=tolees0ca-21)
+[![Bose Home Speaker 300 mit integrierter A](https://m.media-amazon.com/images/I/416LHurN-FL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07Q4F4B7D/?tag=tolees0ca-21)
 
 ℹ️:
 

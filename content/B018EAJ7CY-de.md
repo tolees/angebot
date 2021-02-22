@@ -2,7 +2,7 @@
 layout: post
 title: 'Fisher-Price CDH40 - Lernspaß Liederbuch mit 50.03 % Rabatt'
 date: 2020-02-08 04:39:50
-image: 'https://m.media-amazon.com/images/I/51kKqyDzbxL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51kKqyDzbxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Sie können [Fisher-Price CDH40 - Lernspaß Liederbuch Baby Spielzeug zum Lernen von Buchstaben  Zahlen und Formen  Spielzeug ab 6 Monaten  deutschsprachig](https://www.amazon.de/dp/B018EAJ7CY/?tag=tolees0ca-21) mit Preis 9.99 EUR (original: 19.99 EUR) 50.03 % Rabatt hier:
 
-[![Fisher-Price CDH40 - Lernspaß Liederbuch](https://m.media-amazon.com/images/I/51kKqyDzbxL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B018EAJ7CY/?tag=tolees0ca-21)
+[![Fisher-Price CDH40 - Lernspaß Liederbuch](https://m.media-amazon.com/images/I/51kKqyDzbxL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B018EAJ7CY/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Sylvanian Families - 5214 - Affen: Famil mit 19.12 % Rabatt'
 date: 2020-08-30 18:39:14
-image: 'https://m.media-amazon.com/images/I/51RQSJqiJQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RQSJqiJQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.55'
 
 Sie können [Sylvanian Families - 5214 - Affen: Familie Kletter](https://www.amazon.de/dp/B010DJX5RC/?tag=tolees0ca-21) mit Preis 14.55 EUR (original: 17.99 EUR) 19.12 % Rabatt hier:
 
-[![Sylvanian Families - 5214 - Affen: Famil](https://m.media-amazon.com/images/I/51RQSJqiJQL._SL200_.jpg)](https://www.amazon.de/dp/B010DJX5RC/?tag=tolees0ca-21)
+[![Sylvanian Families - 5214 - Affen: Famil](https://m.media-amazon.com/images/I/51RQSJqiJQL._SL400_.jpg)](https://www.amazon.de/dp/B010DJX5RC/?tag=tolees0ca-21)
 
 ℹ️:
 

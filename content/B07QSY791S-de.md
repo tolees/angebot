@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch Akku Schlagbohrschrauber Universal mit 35.06 % Rabatt'
 date: 2020-01-29 09:40:31
-image: 'https://m.media-amazon.com/images/I/51G1dFeSOdL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51G1dFeSOdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '103.9'
 
 Sie können [Bosch Akku Schlagbohrschrauber UniversalImpact 18  2 Akku  18 Volt System  im Koffer ](https://www.amazon.de/dp/B07QSY791S/?tag=tolees0ca-21) mit Preis 103.9 EUR (original: 159.99 EUR) 35.06 % Rabatt hier:
 
-[![Bosch Akku Schlagbohrschrauber Universal](https://m.media-amazon.com/images/I/51G1dFeSOdL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07QSY791S/?tag=tolees0ca-21)
+[![Bosch Akku Schlagbohrschrauber Universal](https://m.media-amazon.com/images/I/51G1dFeSOdL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07QSY791S/?tag=tolees0ca-21)
 
 ℹ️:
 

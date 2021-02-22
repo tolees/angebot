@@ -2,7 +2,7 @@
 layout: post
 title: '44.73 % rabat auf ASICS Herren Gel-Bondi Laufschuhe  Schwa'
 date: 2020-03-09 08:27:03
-image: 'https://m.media-amazon.com/images/I/41Yhso8GrfL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Yhso8GrfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.95'
 
 Es gibt ein [ASICS Herren Gel-Bondi Laufschuhe  Schwarz  Black/White 001   45 EU](https://www.amazon.de/dp/B07S3X2XFZ/?tag=tolees0ca-21) mit aktuellem Preis 46.95 EUR (original: 84.95 EUR) 44.73 % Rabatt hier:
 
-[![ASICS Herren Gel-Bondi Laufschuhe  Schwa](https://m.media-amazon.com/images/I/41Yhso8GrfL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07S3X2XFZ/?tag=tolees0ca-21)
+[![ASICS Herren Gel-Bondi Laufschuhe  Schwa](https://m.media-amazon.com/images/I/41Yhso8GrfL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07S3X2XFZ/?tag=tolees0ca-21)
 
 ℹ️:
 

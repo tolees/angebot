@@ -2,7 +2,7 @@
 layout: post
 title: '36.43 % rabat auf VTech 80-139304 - Smart Kid s Phone'
 date: 2020-10-07 21:46:54
-image: 'https://m.media-amazon.com/images/I/51NA0XbC6JL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51NA0XbC6JL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.8'
 
 Es gibt ein [VTech 80-139304 - Smart Kid s Phone](https://www.amazon.de/dp/B00GKWOYWW/?tag=tolees0ca-21) mit aktuellem Preis 10.8 EUR (original: 16.99 EUR) 36.43 % Rabatt hier:
 
-[![VTech 80-139304 - Smart Kid s Phone](https://m.media-amazon.com/images/I/51NA0XbC6JL._SL200_.jpg)](https://www.amazon.de/dp/B00GKWOYWW/?tag=tolees0ca-21)
+[![VTech 80-139304 - Smart Kid s Phone](https://m.media-amazon.com/images/I/51NA0XbC6JL._SL400_.jpg)](https://www.amazon.de/dp/B00GKWOYWW/?tag=tolees0ca-21)
 
 ℹ️:
 

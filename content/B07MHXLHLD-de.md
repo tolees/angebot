@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko 39048 POP Vinyl: Games: Fortnite:  mit 31.72 % Rabatt'
 date: 2020-04-04 13:04:21
-image: 'https://m.media-amazon.com/images/I/41vdPJguF1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vdPJguF1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.36'
 
 Sie können [Funko 39048 POP Vinyl: Games: Fortnite: Loot Lama Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B07MHXLHLD/?tag=tolees0ca-21) mit Preis 8.87 EUR (original: 12.99 EUR) 31.72 % Rabatt hier:
 
-[![Funko 39048 POP Vinyl: Games: Fortnite: ](https://m.media-amazon.com/images/I/41vdPJguF1L._SL200_.jpg)](https://www.amazon.de/dp/B07MHXLHLD/?tag=tolees0ca-21)
+[![Funko 39048 POP Vinyl: Games: Fortnite: ](https://m.media-amazon.com/images/I/41vdPJguF1L._SL400_.jpg)](https://www.amazon.de/dp/B07MHXLHLD/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Whiskas 1 + Katzenfutter – Fisch-Auswahl mit 34.97 % Rabatt'
 date: 2020-03-21 04:55:10
-image: 'https://m.media-amazon.com/images/I/51xMOeruu9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xMOeruu9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.16'
 
 Sie können [Whiskas 1 + Katzenfutter – Fisch-Auswahl in Sauce – Hochwertiges Nassfutter mit vielen Vitaminen – 48 Portionsbeutel à 100g](https://www.amazon.de/dp/B00ZTX75OC/?tag=tolees0ca-21) mit Preis 11.16 EUR (original: 17.16 EUR) 34.97 % Rabatt hier:
 
-[![Whiskas 1 + Katzenfutter – Fisch-Auswahl](https://m.media-amazon.com/images/I/51xMOeruu9L._SL200_.jpg)](https://www.amazon.de/dp/B00ZTX75OC/?tag=tolees0ca-21)
+[![Whiskas 1 + Katzenfutter – Fisch-Auswahl](https://m.media-amazon.com/images/I/51xMOeruu9L._SL400_.jpg)](https://www.amazon.de/dp/B00ZTX75OC/?tag=tolees0ca-21)
 
 ℹ️:
 

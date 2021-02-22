@@ -2,7 +2,7 @@
 layout: post
 title: '60.30 % rabat auf LG PK7W Outdoor Bluetooth Lautsprecher m'
 date: 2020-05-26 09:20:37
-image: 'https://m.media-amazon.com/images/I/418exvMxwfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418exvMxwfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.0'
 
 Es gibt ein [LG PK7W Outdoor Bluetooth Lautsprecher mit Meridian Technologie Weiß](https://www.amazon.de/dp/B07XQQQ8KW/?tag=tolees0ca-21) mit aktuellem Preis 79.0 EUR (original: 199.0 EUR) 60.30 % Rabatt hier:
 
-[![LG PK7W Outdoor Bluetooth Lautsprecher m](https://m.media-amazon.com/images/I/418exvMxwfL._SL200_.jpg)](https://www.amazon.de/dp/B07XQQQ8KW/?tag=tolees0ca-21)
+[![LG PK7W Outdoor Bluetooth Lautsprecher m](https://m.media-amazon.com/images/I/418exvMxwfL._SL400_.jpg)](https://www.amazon.de/dp/B07XQQQ8KW/?tag=tolees0ca-21)
 
 ℹ️:
 

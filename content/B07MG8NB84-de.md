@@ -2,7 +2,7 @@
 layout: post
 title: '40.04 % rabat auf ECCO Herren Byway TRED Hohe Sneaker  Sch'
 date: 2020-03-04 06:07:26
-image: 'https://m.media-amazon.com/images/I/41xvZVBHFBL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xvZVBHFBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '101.93'
 
 Es gibt ein [ECCO Herren Byway TRED Hohe Sneaker  Schwarz  Black/Moonless 55869   43 EU](https://www.amazon.de/dp/B07MG8NB84/?tag=tolees0ca-21) mit aktuellem Preis 101.93 EUR (original: 170.0 EUR) 40.04 % Rabatt hier:
 
-[![ECCO Herren Byway TRED Hohe Sneaker  Sch](https://m.media-amazon.com/images/I/41xvZVBHFBL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07MG8NB84/?tag=tolees0ca-21)
+[![ECCO Herren Byway TRED Hohe Sneaker  Sch](https://m.media-amazon.com/images/I/41xvZVBHFBL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07MG8NB84/?tag=tolees0ca-21)
 
 ℹ️:
 

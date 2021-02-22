@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips SHB3175WT BASS+ Over-Ear Bluetoo mit 42.99 % Rabatt'
 date: 2020-03-27 13:27:33
-image: 'https://m.media-amazon.com/images/I/41jMc+TB6kL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jMc+TB6kL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.77166666666667'
 
 Sie können [Philips SHB3175WT BASS+ Over-Ear Bluetooth-Kopfhörer  13 Stunden Akku  satter Bass  Freisprechfunktion  weiß](https://www.amazon.de/dp/B071WKDW95/?tag=tolees0ca-21) mit Preis 39.9 EUR (original: 69.99 EUR) 42.99 % Rabatt hier:
 
-[![Philips SHB3175WT BASS+ Over-Ear Bluetoo](https://m.media-amazon.com/images/I/41jMc+TB6kL._SL200_.jpg)](https://www.amazon.de/dp/B071WKDW95/?tag=tolees0ca-21)
+[![Philips SHB3175WT BASS+ Over-Ear Bluetoo](https://m.media-amazon.com/images/I/41jMc+TB6kL._SL400_.jpg)](https://www.amazon.de/dp/B071WKDW95/?tag=tolees0ca-21)
 
 ℹ️:
 

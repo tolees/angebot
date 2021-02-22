@@ -2,7 +2,7 @@
 layout: post
 title: '51.13 % rabat auf Bosch Professional 18V System Akku GBA 1'
 date: 2020-02-29 19:18:21
-image: 'https://m.media-amazon.com/images/I/41nfdqU3wZL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nfdqU3wZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '66.88'
 
 Es gibt ein [Bosch Professional 18V System Akku GBA 18V 5.0Ah](https://www.amazon.de/dp/B00IKI352E/?tag=tolees0ca-21) mit aktuellem Preis 66.88 EUR (original: 136.85 EUR) 51.13 % Rabatt hier:
 
-[![Bosch Professional 18V System Akku GBA 1](https://m.media-amazon.com/images/I/41nfdqU3wZL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00IKI352E/?tag=tolees0ca-21)
+[![Bosch Professional 18V System Akku GBA 1](https://m.media-amazon.com/images/I/41nfdqU3wZL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00IKI352E/?tag=tolees0ca-21)
 
 ℹ️:
 

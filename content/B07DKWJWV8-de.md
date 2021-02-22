@@ -2,7 +2,7 @@
 layout: post
 title: '24.32 % rabat auf The Strangers - Opfernacht [Blu-ray]'
 date: 2020-03-19 05:13:55
-image: 'https://m.media-amazon.com/images/I/510mZAy1mOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510mZAy1mOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.97'
 
 Es gibt ein [The Strangers - Opfernacht [Blu-ray]](https://www.amazon.de/dp/B07DKWJWV8/?tag=tolees0ca-21) mit aktuellem Preis 6.97 EUR (original: 9.21 EUR) 24.32 % Rabatt hier:
 
-[![The Strangers - Opfernacht [Blu-ray]](https://m.media-amazon.com/images/I/510mZAy1mOL._SL200_.jpg)](https://www.amazon.de/dp/B07DKWJWV8/?tag=tolees0ca-21)
+[![The Strangers - Opfernacht [Blu-ray]](https://m.media-amazon.com/images/I/510mZAy1mOL._SL400_.jpg)](https://www.amazon.de/dp/B07DKWJWV8/?tag=tolees0ca-21)
 
 ℹ️:
 

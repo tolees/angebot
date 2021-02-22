@@ -2,7 +2,7 @@
 layout: post
 title: '45.42 % rabat auf Playmobil 5306 - Buntes Kinderzimmer'
 date: 2020-03-29 21:13:13
-image: 'https://m.media-amazon.com/images/I/61xtmsLQZuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61xtmsLQZuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.0'
 
 Es gibt ein [Playmobil 5306 - Buntes Kinderzimmer](https://www.amazon.de/dp/B00VLVFCOG/?tag=tolees0ca-21) mit aktuellem Preis 9.0 EUR (original: 16.49 EUR) 45.42 % Rabatt hier:
 
-[![Playmobil 5306 - Buntes Kinderzimmer](https://m.media-amazon.com/images/I/61xtmsLQZuL._SL200_.jpg)](https://www.amazon.de/dp/B00VLVFCOG/?tag=tolees0ca-21)
+[![Playmobil 5306 - Buntes Kinderzimmer](https://m.media-amazon.com/images/I/61xtmsLQZuL._SL400_.jpg)](https://www.amazon.de/dp/B00VLVFCOG/?tag=tolees0ca-21)
 
 ℹ️:
 

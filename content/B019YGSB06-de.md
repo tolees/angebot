@@ -2,7 +2,7 @@
 layout: post
 title: '40.74 % rabat auf Ravensburger Spiele 24721 - Spielend Ers'
 date: 2020-01-27 04:41:52
-image: 'https://m.media-amazon.com/images/I/516jEbMInQL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516jEbMInQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.29'
 
 Es gibt ein [Ravensburger Spiele 24721 - Spielend Erstes Lernen: Komm  wir kaufen EIN](https://www.amazon.de/dp/B019YGSB06/?tag=tolees0ca-21) mit aktuellem Preis 8.29 EUR (original: 13.99 EUR) 40.74 % Rabatt hier:
 
-[![Ravensburger Spiele 24721 - Spielend Ers](https://m.media-amazon.com/images/I/516jEbMInQL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B019YGSB06/?tag=tolees0ca-21)
+[![Ravensburger Spiele 24721 - Spielend Ers](https://m.media-amazon.com/images/I/516jEbMInQL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B019YGSB06/?tag=tolees0ca-21)
 
 ℹ️:
 

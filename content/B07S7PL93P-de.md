@@ -2,7 +2,7 @@
 layout: post
 title: 'JOMARTO Smart Steckdose  Wlan Steckdose  mit 57.51 % Rabatt'
 date: 2020-02-25 14:13:46
-image: 'https://m.media-amazon.com/images/I/31rhqVAUQ0L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rhqVAUQ0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Sie können [JOMARTO Smart Steckdose  Wlan Steckdose Alexa Steckdose Smart Plug Wifi Steckdose  APP gesteuert Kompatibel mit Alexa Echo und Google Home Assistant  16A](https://www.amazon.de/dp/B07S7PL93P/?tag=tolees0ca-21) mit Preis 16.99 EUR (original: 39.99 EUR) 57.51 % Rabatt hier:
 
-[![JOMARTO Smart Steckdose  Wlan Steckdose ](https://m.media-amazon.com/images/I/31rhqVAUQ0L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07S7PL93P/?tag=tolees0ca-21)
+[![JOMARTO Smart Steckdose  Wlan Steckdose ](https://m.media-amazon.com/images/I/31rhqVAUQ0L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07S7PL93P/?tag=tolees0ca-21)
 
 ℹ️:
 

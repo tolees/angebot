@@ -2,7 +2,7 @@
 layout: post
 title: 'tegut... Gurken Cornichons  300 g mit 15.97 % Rabatt'
 date: 2020-06-11 14:26:55
-image: 'https://m.media-amazon.com/images/I/51DYC8nUIGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51DYC8nUIGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.0'
 
 Sie können [tegut... Gurken Cornichons  300 g](https://www.amazon.de/dp/B01KHM6Y9G/?tag=tolees0ca-21) mit Preis 1.0 EUR (original: 1.19 EUR) 15.97 % Rabatt hier:
 
-[![tegut... Gurken Cornichons  300 g](https://m.media-amazon.com/images/I/51DYC8nUIGL._SL200_.jpg)](https://www.amazon.de/dp/B01KHM6Y9G/?tag=tolees0ca-21)
+[![tegut... Gurken Cornichons  300 g](https://m.media-amazon.com/images/I/51DYC8nUIGL._SL400_.jpg)](https://www.amazon.de/dp/B01KHM6Y9G/?tag=tolees0ca-21)
 
 ℹ️:
 

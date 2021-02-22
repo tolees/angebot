@@ -2,7 +2,7 @@
 layout: post
 title: '15.13 % rabat auf Corsair Vengeance LPX 16GB  2x8GB  DDR4 '
 date: 2020-08-24 14:24:40
-image: 'https://m.media-amazon.com/images/I/418sCJkoOYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418sCJkoOYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.936'
 
 Es gibt ein [Corsair Vengeance LPX 16GB  2x8GB  DDR4 3000MHz C16 XMP 2.0 High Performance Desktop Arbeitsspeicher Kit  Schwarz](https://www.amazon.de/dp/B07B2Y1N8B/?tag=tolees0ca-21) mit aktuellem Preis 49.99 EUR (original: 58.9 EUR) 15.13 % Rabatt hier:
 
-[![Corsair Vengeance LPX 16GB  2x8GB  DDR4 ](https://m.media-amazon.com/images/I/418sCJkoOYL._SL200_.jpg)](https://www.amazon.de/dp/B07B2Y1N8B/?tag=tolees0ca-21)
+[![Corsair Vengeance LPX 16GB  2x8GB  DDR4 ](https://m.media-amazon.com/images/I/418sCJkoOYL._SL400_.jpg)](https://www.amazon.de/dp/B07B2Y1N8B/?tag=tolees0ca-21)
 
 ℹ️:
 

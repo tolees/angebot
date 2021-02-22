@@ -2,7 +2,7 @@
 layout: post
 title: '47.47 % rabat auf LEGO NINJAGO 70663 - Spinjitzu Nya & Wu'
 date: 2020-03-28 13:07:20
-image: 'https://m.media-amazon.com/images/I/51782r0Oy2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51782r0Oy2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.245000000000001'
 
 Es gibt ein [LEGO NINJAGO 70663 - Spinjitzu Nya & Wu](https://www.amazon.de/dp/B07FNT8XBF/?tag=tolees0ca-21) mit aktuellem Preis 10.5 EUR (original: 19.99 EUR) 47.47 % Rabatt hier:
 
-[![LEGO NINJAGO 70663 - Spinjitzu Nya & Wu](https://m.media-amazon.com/images/I/51782r0Oy2L._SL200_.jpg)](https://www.amazon.de/dp/B07FNT8XBF/?tag=tolees0ca-21)
+[![LEGO NINJAGO 70663 - Spinjitzu Nya & Wu](https://m.media-amazon.com/images/I/51782r0Oy2L._SL400_.jpg)](https://www.amazon.de/dp/B07FNT8XBF/?tag=tolees0ca-21)
 
 ℹ️:
 

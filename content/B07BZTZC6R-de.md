@@ -2,7 +2,7 @@
 layout: post
 title: '45.80 % rabat auf Yamaha P-125B Digital Piano  schwarz - -'
 date: 2020-01-19 00:46:05
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31zgtttyqDL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zgtttyqDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '400'
 
 Es gibt ein [Yamaha P-125B Digital Piano  schwarz - - Kompaktes elektronisches Klavier in schlichtem Design für perfekte Spielbarkeit - Kompatibel mit kostenloser App "Smart Pianist"](https://www.amazon.de/dp/B07BZTZC6R/?tag=tolees0ca-21) mit aktuellem Preis 400 EUR (original: 738 EUR) 45.80 % Rabatt hier:
 
-[![Yamaha P-125B Digital Piano  schwarz - -](https://images-eu.ssl-images-amazon.com/images/I/31zgtttyqDL._SL200_.jpg)](https://www.amazon.de/dp/B07BZTZC6R/?tag=tolees0ca-21)
+[![Yamaha P-125B Digital Piano  schwarz - -](https://images-eu.ssl-images-amazon.com/images/I/31zgtttyqDL._SL400_.jpg)](https://www.amazon.de/dp/B07BZTZC6R/?tag=tolees0ca-21)
 
 ℹ️:
 

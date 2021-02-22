@@ -2,7 +2,7 @@
 layout: post
 title: '34.22 % rabat auf Theo Klein 8520 - Bosch Tool Box mit Akk'
 date: 2020-04-16 08:39:54
-image: 'https://m.media-amazon.com/images/I/41CKMFtoJvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CKMFtoJvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.13285714285714'
 
 Es gibt ein [Theo Klein 8520 - Bosch Tool Box mit Akkuschrauber  Baukästen](https://www.amazon.de/dp/B0002HWPB8/?tag=tolees0ca-21) mit aktuellem Preis 24.99 EUR (original: 37.99 EUR) 34.22 % Rabatt hier:
 
-[![Theo Klein 8520 - Bosch Tool Box mit Akk](https://m.media-amazon.com/images/I/41CKMFtoJvL._SL200_.jpg)](https://www.amazon.de/dp/B0002HWPB8/?tag=tolees0ca-21)
+[![Theo Klein 8520 - Bosch Tool Box mit Akk](https://m.media-amazon.com/images/I/41CKMFtoJvL._SL400_.jpg)](https://www.amazon.de/dp/B0002HWPB8/?tag=tolees0ca-21)
 
 ℹ️:
 

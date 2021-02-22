@@ -2,7 +2,7 @@
 layout: post
 title: '25.06 % rabat auf Sony SRS-XB41 kabelloser Bluetooth Lauts'
 date: 2020-04-25 09:08:47
-image: 'https://m.media-amazon.com/images/I/41FCfN892WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FCfN892WL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '121.0'
 
 Es gibt ein [Sony SRS-XB41 kabelloser Bluetooth Lautsprecher  tragbar  mehrfarbige Lichtleiste  Lautsprecherbeleuchtung  Stroboskoplicht  NFC  kompatibel mit Party Chain  Freisprechfunktion für Anrufe  blau](https://www.amazon.de/dp/B078WT1FK4/?tag=tolees0ca-21) mit aktuellem Preis 99.0 EUR (original: 132.1 EUR) 25.06 % Rabatt hier:
 
-[![Sony SRS-XB41 kabelloser Bluetooth Lauts](https://m.media-amazon.com/images/I/41FCfN892WL._SL200_.jpg)](https://www.amazon.de/dp/B078WT1FK4/?tag=tolees0ca-21)
+[![Sony SRS-XB41 kabelloser Bluetooth Lauts](https://m.media-amazon.com/images/I/41FCfN892WL._SL400_.jpg)](https://www.amazon.de/dp/B078WT1FK4/?tag=tolees0ca-21)
 
 ℹ️:
 

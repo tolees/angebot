@@ -2,7 +2,7 @@
 layout: post
 title: 'Kitchen Craft Tablett 30cm Living Nostal mit 16.48 % Rabatt'
 date: 2020-04-08 05:19:54
-image: 'https://m.media-amazon.com/images/I/31dMpgcyzbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31dMpgcyzbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.53'
 
 Sie können [Kitchen Craft Tablett 30cm Living Nostalgia in weiß/grau  Emaille  30 x 18 x 18 cm](https://www.amazon.de/dp/B013C97RSS/?tag=tolees0ca-21) mit Preis 17.53 EUR (original: 20.99 EUR) 16.48 % Rabatt hier:
 
-[![Kitchen Craft Tablett 30cm Living Nostal](https://m.media-amazon.com/images/I/31dMpgcyzbL._SL200_.jpg)](https://www.amazon.de/dp/B013C97RSS/?tag=tolees0ca-21)
+[![Kitchen Craft Tablett 30cm Living Nostal](https://m.media-amazon.com/images/I/31dMpgcyzbL._SL400_.jpg)](https://www.amazon.de/dp/B013C97RSS/?tag=tolees0ca-21)
 
 ℹ️:
 

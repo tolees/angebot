@@ -2,7 +2,7 @@
 layout: post
 title: '16.21 % rabat auf Samsung RU7409 163 cm  65 Zoll  LED Fern'
 date: 2020-03-22 04:58:02
-image: 'https://m.media-amazon.com/images/I/51RfvwgHoJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RfvwgHoJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '656.95'
 
 Es gibt ein [Samsung RU7409 163 cm  65 Zoll  LED Fernseher  Ultra HD  HDR  Triple Tuner  Smart TV  [Modelljahr 2019]](https://www.amazon.de/dp/B07PRS82NP/?tag=tolees0ca-21) mit aktuellem Preis 599.0 EUR (original: 714.9 EUR) 16.21 % Rabatt hier:
 
-[![Samsung RU7409 163 cm  65 Zoll  LED Fern](https://m.media-amazon.com/images/I/51RfvwgHoJL._SL200_.jpg)](https://www.amazon.de/dp/B07PRS82NP/?tag=tolees0ca-21)
+[![Samsung RU7409 163 cm  65 Zoll  LED Fern](https://m.media-amazon.com/images/I/51RfvwgHoJL._SL400_.jpg)](https://www.amazon.de/dp/B07PRS82NP/?tag=tolees0ca-21)
 
 ℹ️:
 

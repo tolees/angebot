@@ -2,7 +2,7 @@
 layout: post
 title: 'Pegasus Spiele 51310G - Der Kartograph mit 17.81 % Rabatt'
 date: 2020-03-01 04:52:59
-image: 'https://m.media-amazon.com/images/I/51MlmbB2mhL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51MlmbB2mhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.95'
 
 Sie können [Pegasus Spiele 51310G - Der Kartograph](https://www.amazon.de/dp/B07ZQPY1TX/?tag=tolees0ca-21) mit Preis 17.95 EUR (original: 21.84 EUR) 17.81 % Rabatt hier:
 
-[![Pegasus Spiele 51310G - Der Kartograph](https://m.media-amazon.com/images/I/51MlmbB2mhL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07ZQPY1TX/?tag=tolees0ca-21)
+[![Pegasus Spiele 51310G - Der Kartograph](https://m.media-amazon.com/images/I/51MlmbB2mhL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07ZQPY1TX/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko 11411 POP Vinylfigur: Dishonored 2 mit 46.39 % Rabatt'
 date: 2020-01-08 06:45:54
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51lDk6O70-L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51lDk6O70-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.5'
 
 Sie können [Funko 11411 POP Vinylfigur: Dishonored 2: Emily](https://www.amazon.de/dp/B01LEJCUWQ/?tag=tolees0ca-21) mit Preis 7.5 EUR (original: 13.99 EUR) 46.39 % Rabatt hier:
 
-[![Funko 11411 POP Vinylfigur: Dishonored 2](https://images-eu.ssl-images-amazon.com/images/I/51lDk6O70-L._SL200_.jpg)](https://www.amazon.de/dp/B01LEJCUWQ/?tag=tolees0ca-21)
+[![Funko 11411 POP Vinylfigur: Dishonored 2](https://images-eu.ssl-images-amazon.com/images/I/51lDk6O70-L._SL400_.jpg)](https://www.amazon.de/dp/B01LEJCUWQ/?tag=tolees0ca-21)
 
 ℹ️:
 

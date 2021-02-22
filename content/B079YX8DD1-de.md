@@ -2,7 +2,7 @@
 layout: post
 title: 'Hubelino 420473 55-teiliges Bahnelemente mit 23.81 % Rabatt'
 date: 2020-04-02 20:58:43
-image: 'https://m.media-amazon.com/images/I/41lW9DAOsvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lW9DAOsvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.59'
 
 Sie können [Hubelino 420473 55-teiliges Bahnelemente Set Kugelbahn](https://www.amazon.de/dp/B079YX8DD1/?tag=tolees0ca-21) mit Preis 33.59 EUR (original: 44.09 EUR) 23.81 % Rabatt hier:
 
-[![Hubelino 420473 55-teiliges Bahnelemente](https://m.media-amazon.com/images/I/41lW9DAOsvL._SL200_.jpg)](https://www.amazon.de/dp/B079YX8DD1/?tag=tolees0ca-21)
+[![Hubelino 420473 55-teiliges Bahnelemente](https://m.media-amazon.com/images/I/41lW9DAOsvL._SL400_.jpg)](https://www.amazon.de/dp/B079YX8DD1/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Lachen Sie mit Stan & Ollie - Die komple mit 18.14 % Rabatt'
 date: 2020-02-04 05:24:55
-image: 'https://m.media-amazon.com/images/I/51wi7kpBurL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wi7kpBurL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.97'
 
 Sie können [Lachen Sie mit Stan & Ollie - Die komplette ZDF-Serie [7 DVDs]](https://www.amazon.de/dp/B07MCW5F91/?tag=tolees0ca-21) mit Preis 39.97 EUR (original: 48.83 EUR) 18.14 % Rabatt hier:
 
-[![Lachen Sie mit Stan & Ollie - Die komple](https://m.media-amazon.com/images/I/51wi7kpBurL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07MCW5F91/?tag=tolees0ca-21)
+[![Lachen Sie mit Stan & Ollie - Die komple](https://m.media-amazon.com/images/I/51wi7kpBurL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07MCW5F91/?tag=tolees0ca-21)
 
 ℹ️:
 

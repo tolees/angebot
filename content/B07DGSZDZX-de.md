@@ -2,7 +2,7 @@
 layout: post
 title: 'GoPro Hülle + Trageband  offizielles GoP mit 64.38 % Rabatt'
 date: 2020-02-23 17:41:40
-image: 'https://m.media-amazon.com/images/I/21935WSOQ0L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21935WSOQ0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.555'
 
 Sie können [GoPro Hülle + Trageband  offizielles GoPro-Zubehör  Schwarz](https://www.amazon.de/dp/B07DGSZDZX/?tag=tolees0ca-21) mit Preis 7.12 EUR (original: 19.99 EUR) 64.38 % Rabatt hier:
 
-[![GoPro Hülle + Trageband  offizielles GoP](https://m.media-amazon.com/images/I/21935WSOQ0L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07DGSZDZX/?tag=tolees0ca-21)
+[![GoPro Hülle + Trageband  offizielles GoP](https://m.media-amazon.com/images/I/21935WSOQ0L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07DGSZDZX/?tag=tolees0ca-21)
 
 ℹ️:
 

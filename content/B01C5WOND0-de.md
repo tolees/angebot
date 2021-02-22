@@ -2,7 +2,7 @@
 layout: post
 title: '46.54 % rabat auf Ravensburger tiptoi Wir spielen Schule S'
 date: 2020-04-05 05:01:34
-image: 'https://m.media-amazon.com/images/I/518ZG6qj2tL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518ZG6qj2tL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.813333333333333'
 
 Es gibt ein [Ravensburger tiptoi Wir spielen Schule Spiel  ab 5 Jahren  Erlebe interaktiv einen kompletten Schultag](https://www.amazon.de/dp/B01C5WOND0/?tag=tolees0ca-21) mit aktuellem Preis 13.36 EUR (original: 24.99 EUR) 46.54 % Rabatt hier:
 
-[![Ravensburger tiptoi Wir spielen Schule S](https://m.media-amazon.com/images/I/518ZG6qj2tL._SL200_.jpg)](https://www.amazon.de/dp/B01C5WOND0/?tag=tolees0ca-21)
+[![Ravensburger tiptoi Wir spielen Schule S](https://m.media-amazon.com/images/I/518ZG6qj2tL._SL400_.jpg)](https://www.amazon.de/dp/B01C5WOND0/?tag=tolees0ca-21)
 
 ℹ️:
 

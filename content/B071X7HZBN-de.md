@@ -2,7 +2,7 @@
 layout: post
 title: 'POP Television: Bob Ross mit 30.02 % Rabatt'
 date: 2020-04-14 16:06:59
-image: 'https://m.media-amazon.com/images/I/514mWsb7uiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/514mWsb7uiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.79'
 
 Sie können [POP Television: Bob Ross](https://www.amazon.de/dp/B071X7HZBN/?tag=tolees0ca-21) mit Preis 9.79 EUR (original: 13.99 EUR) 30.02 % Rabatt hier:
 
-[![POP Television: Bob Ross](https://m.media-amazon.com/images/I/514mWsb7uiL._SL200_.jpg)](https://www.amazon.de/dp/B071X7HZBN/?tag=tolees0ca-21)
+[![POP Television: Bob Ross](https://m.media-amazon.com/images/I/514mWsb7uiL._SL400_.jpg)](https://www.amazon.de/dp/B071X7HZBN/?tag=tolees0ca-21)
 
 ℹ️:
 

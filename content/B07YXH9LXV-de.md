@@ -2,7 +2,7 @@
 layout: post
 title: 'Nikon Z 50 Kamera mit 29.65 % Rabatt'
 date: 2020-02-14 16:23:36
-image: 'https://m.media-amazon.com/images/I/4127rji7NSL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4127rji7NSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '667.58'
 
 Sie können [Nikon Z 50 Kamera](https://www.amazon.de/dp/B07YXH9LXV/?tag=tolees0ca-21) mit Preis 667.58 EUR (original: 949.0 EUR) 29.65 % Rabatt hier:
 
-[![Nikon Z 50 Kamera](https://m.media-amazon.com/images/I/4127rji7NSL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07YXH9LXV/?tag=tolees0ca-21)
+[![Nikon Z 50 Kamera](https://m.media-amazon.com/images/I/4127rji7NSL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07YXH9LXV/?tag=tolees0ca-21)
 
 ℹ️:
 

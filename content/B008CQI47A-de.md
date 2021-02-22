@@ -2,7 +2,7 @@
 layout: post
 title: 'Smart Games SG 423 - Spiel Iq Fit mit 15.00 % Rabatt'
 date: 2020-02-18 04:42:05
-image: 'https://m.media-amazon.com/images/I/51Qo+YaC-EL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Qo+YaC-EL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.99'
 
 Sie können [Smart Games SG 423 - Spiel Iq Fit](https://www.amazon.de/dp/B008CQI47A/?tag=tolees0ca-21) mit Preis 7.99 EUR (original: 9.4 EUR) 15.00 % Rabatt hier:
 
-[![Smart Games SG 423 - Spiel Iq Fit](https://m.media-amazon.com/images/I/51Qo+YaC-EL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B008CQI47A/?tag=tolees0ca-21)
+[![Smart Games SG 423 - Spiel Iq Fit](https://m.media-amazon.com/images/I/51Qo+YaC-EL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B008CQI47A/?tag=tolees0ca-21)
 
 ℹ️:
 

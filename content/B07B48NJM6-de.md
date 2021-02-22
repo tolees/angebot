@@ -2,7 +2,7 @@
 layout: post
 title: '38.76 % rabat auf Ravensburger FC Bayern München 3D Puzzle'
 date: 2020-02-07 19:44:42
-image: 'https://m.media-amazon.com/images/I/51iel02pucL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51iel02pucL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.0'
 
 Es gibt ein [Ravensburger FC Bayern München 3D Puzzle Allianz Arena](https://www.amazon.de/dp/B07B48NJM6/?tag=tolees0ca-21) mit aktuellem Preis 30.0 EUR (original: 48.99 EUR) 38.76 % Rabatt hier:
 
-[![Ravensburger FC Bayern München 3D Puzzle](https://m.media-amazon.com/images/I/51iel02pucL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07B48NJM6/?tag=tolees0ca-21)
+[![Ravensburger FC Bayern München 3D Puzzle](https://m.media-amazon.com/images/I/51iel02pucL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07B48NJM6/?tag=tolees0ca-21)
 
 ℹ️:
 

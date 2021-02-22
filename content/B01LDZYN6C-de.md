@@ -2,7 +2,7 @@
 layout: post
 title: '20.39 % rabat auf Bosch Professional Bohrhammer GBH 2-28 F'
 date: 2020-07-21 08:19:56
-image: 'https://m.media-amazon.com/images/I/31iAadHTOXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31iAadHTOXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '155.65666666666667'
 
 Es gibt ein [Bosch Professional Bohrhammer GBH 2-28 F  SDS-plus-Wechselfutter  13 mm Schnellspannbohrfutter  bis 28 mm Bohr-Ø  Rückschlag-Schutz  in L-BOXX ](https://www.amazon.de/dp/B01LDZYN6C/?tag=tolees0ca-21) mit aktuellem Preis 156.99 EUR (original: 197.19 EUR) 20.39 % Rabatt hier:
 
-[![Bosch Professional Bohrhammer GBH 2-28 F](https://m.media-amazon.com/images/I/31iAadHTOXL._SL200_.jpg)](https://www.amazon.de/dp/B01LDZYN6C/?tag=tolees0ca-21)
+[![Bosch Professional Bohrhammer GBH 2-28 F](https://m.media-amazon.com/images/I/31iAadHTOXL._SL400_.jpg)](https://www.amazon.de/dp/B01LDZYN6C/?tag=tolees0ca-21)
 
 ℹ️:
 

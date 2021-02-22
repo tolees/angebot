@@ -2,7 +2,7 @@
 layout: post
 title: '38.26 % rabat auf Samsung Galaxy S10 Smartphone Bundle  15'
 date: 2020-01-27 08:45:17
-image: 'https://m.media-amazon.com/images/I/317VmQ4UQDL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317VmQ4UQDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '555.0'
 
 Es gibt ein [Samsung Galaxy S10 Smartphone Bundle  15.5cm  6.1 Zoll  128 GB interner Speicher  8 GB RAM  Dual SIM  Android  prism blue  inkl. 36 Monate Herstellergarantie [Exklusiv bei Amazon] | Deutsche Version](https://www.amazon.de/dp/B07SFGW5S2/?tag=tolees0ca-21) mit aktuellem Preis 555.0 EUR (original: 899.0 EUR) 38.26 % Rabatt hier:
 
-[![Samsung Galaxy S10 Smartphone Bundle  15](https://m.media-amazon.com/images/I/317VmQ4UQDL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07SFGW5S2/?tag=tolees0ca-21)
+[![Samsung Galaxy S10 Smartphone Bundle  15](https://m.media-amazon.com/images/I/317VmQ4UQDL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07SFGW5S2/?tag=tolees0ca-21)
 
 ℹ️:
 

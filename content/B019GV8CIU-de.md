@@ -2,7 +2,7 @@
 layout: post
 title: '30.33 % rabat auf LECHUZA CUBE Color 14 13380 Kräutertopf '
 date: 2020-03-14 04:56:57
-image: 'https://m.media-amazon.com/images/I/41S+Ud9kAzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41S+Ud9kAzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.96'
 
 Es gibt ein [LECHUZA CUBE Color 14 13380 Kräutertopf  Hochwertiger Kunststoff  Inkl. Stick-Bewässerungssystem  für Innenraumbegrünung geeignet  weiß](https://www.amazon.de/dp/B019GV8CIU/?tag=tolees0ca-21) mit aktuellem Preis 6.96 EUR (original: 9.99 EUR) 30.33 % Rabatt hier:
 
-[![LECHUZA CUBE Color 14 13380 Kräutertopf ](https://m.media-amazon.com/images/I/41S+Ud9kAzL._SL200_.jpg)](https://www.amazon.de/dp/B019GV8CIU/?tag=tolees0ca-21)
+[![LECHUZA CUBE Color 14 13380 Kräutertopf ](https://m.media-amazon.com/images/I/41S+Ud9kAzL._SL400_.jpg)](https://www.amazon.de/dp/B019GV8CIU/?tag=tolees0ca-21)
 
 ℹ️:
 

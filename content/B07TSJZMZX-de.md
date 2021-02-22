@@ -2,7 +2,7 @@
 layout: post
 title: 'BRIKSMAX Led Beleuchtungsset für Lego Te mit 27.40 % Rabatt'
 date: 2020-04-14 16:25:31
-image: 'https://m.media-amazon.com/images/I/51S0cTl8gIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51S0cTl8gIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.1775'
 
 Sie können [BRIKSMAX Led Beleuchtungsset für Lego Technic Geländegängiger Kranwagen  Kompatibel Mit Lego 42082 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B07TSJZMZX/?tag=tolees0ca-21) mit Preis 52.99 EUR (original: 72.99 EUR) 27.40 % Rabatt hier:
 
-[![BRIKSMAX Led Beleuchtungsset für Lego Te](https://m.media-amazon.com/images/I/51S0cTl8gIL._SL200_.jpg)](https://www.amazon.de/dp/B07TSJZMZX/?tag=tolees0ca-21)
+[![BRIKSMAX Led Beleuchtungsset für Lego Te](https://m.media-amazon.com/images/I/51S0cTl8gIL._SL400_.jpg)](https://www.amazon.de/dp/B07TSJZMZX/?tag=tolees0ca-21)
 
 ℹ️:
 

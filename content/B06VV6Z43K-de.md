@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Star Wars 75180 - Rathtar Escape Sp mit 20.00 % Rabatt'
 date: 2020-04-15 15:43:09
-image: 'https://m.media-amazon.com/images/I/51D2dgXnacL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51D2dgXnacL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '70.97857142857143'
 
 Sie können [LEGO Star Wars 75180 - Rathtar Escape Spielzeug](https://www.amazon.de/dp/B06VV6Z43K/?tag=tolees0ca-21) mit Preis 71.99 EUR (original: 89.99 EUR) 20.00 % Rabatt hier:
 
-[![LEGO Star Wars 75180 - Rathtar Escape Sp](https://m.media-amazon.com/images/I/51D2dgXnacL._SL200_.jpg)](https://www.amazon.de/dp/B06VV6Z43K/?tag=tolees0ca-21)
+[![LEGO Star Wars 75180 - Rathtar Escape Sp](https://m.media-amazon.com/images/I/51D2dgXnacL._SL400_.jpg)](https://www.amazon.de/dp/B06VV6Z43K/?tag=tolees0ca-21)
 
 ℹ️:
 

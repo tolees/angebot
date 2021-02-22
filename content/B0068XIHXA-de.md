@@ -2,7 +2,7 @@
 layout: post
 title: '34.76 % rabat auf Tassimo Kapseln Jacobs Krönung XL  80 Ka'
 date: 2020-09-28 06:27:56
-image: 'https://m.media-amazon.com/images/I/416lV9qLmML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416lV9qLmML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.17'
 
 Es gibt ein [Tassimo Kapseln Jacobs Krönung XL  80 Kaffeekapseln  5er Pack  5 x 16 Getränke](https://www.amazon.de/dp/B0068XIHXA/?tag=tolees0ca-21) mit aktuellem Preis 16.93 EUR (original: 25.95 EUR) 34.76 % Rabatt hier:
 
-[![Tassimo Kapseln Jacobs Krönung XL  80 Ka](https://m.media-amazon.com/images/I/416lV9qLmML._SL200_.jpg)](https://www.amazon.de/dp/B0068XIHXA/?tag=tolees0ca-21)
+[![Tassimo Kapseln Jacobs Krönung XL  80 Ka](https://m.media-amazon.com/images/I/416lV9qLmML._SL400_.jpg)](https://www.amazon.de/dp/B0068XIHXA/?tag=tolees0ca-21)
 
 ℹ️:
 

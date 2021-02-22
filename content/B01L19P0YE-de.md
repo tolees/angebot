@@ -2,7 +2,7 @@
 layout: post
 title: '44.48 % rabat auf TomTom Touch Wechselarmband - Himmelblau'
 date: 2020-02-12 10:44:05
-image: 'https://m.media-amazon.com/images/I/31ejoS2ihZL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ejoS2ihZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.49'
 
 Es gibt ein [TomTom Touch Wechselarmband - Himmelblau  Größe S  geeignet für alle TomTom Touch & TomTom Touch Cardio Modelle ](https://www.amazon.de/dp/B01L19P0YE/?tag=tolees0ca-21) mit aktuellem Preis 7.49 EUR (original: 13.49 EUR) 44.48 % Rabatt hier:
 
-[![TomTom Touch Wechselarmband - Himmelblau](https://m.media-amazon.com/images/I/31ejoS2ihZL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01L19P0YE/?tag=tolees0ca-21)
+[![TomTom Touch Wechselarmband - Himmelblau](https://m.media-amazon.com/images/I/31ejoS2ihZL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01L19P0YE/?tag=tolees0ca-21)
 
 ℹ️:
 

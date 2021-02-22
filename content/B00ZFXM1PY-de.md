@@ -2,7 +2,7 @@
 layout: post
 title: 'Villeroy & Boch Toy s Delight Große Vorr mit 35.77 % Rabatt'
 date: 2020-04-13 23:57:36
-image: 'https://m.media-amazon.com/images/I/41CKeWi2NeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CKeWi2NeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.9'
 
 Sie können [Villeroy & Boch Toy s Delight Große Vorratsdose  Premium Porzellan  Weiß/Rot](https://www.amazon.de/dp/B00ZFXM1PY/?tag=tolees0ca-21) mit Preis 44.9 EUR (original: 69.9 EUR) 35.77 % Rabatt hier:
 
-[![Villeroy & Boch Toy s Delight Große Vorr](https://m.media-amazon.com/images/I/41CKeWi2NeL._SL200_.jpg)](https://www.amazon.de/dp/B00ZFXM1PY/?tag=tolees0ca-21)
+[![Villeroy & Boch Toy s Delight Große Vorr](https://m.media-amazon.com/images/I/41CKeWi2NeL._SL400_.jpg)](https://www.amazon.de/dp/B00ZFXM1PY/?tag=tolees0ca-21)
 
 ℹ️:
 

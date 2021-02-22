@@ -2,7 +2,7 @@
 layout: post
 title: '40.94 % rabat auf Funko 37862 POP Vinyl: BTS: Jin Sammelba'
 date: 2020-02-15 07:25:04
-image: 'https://m.media-amazon.com/images/I/41BPTqbyd0L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BPTqbyd0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.356666666666667'
 
 Es gibt ein [Funko 37862 POP Vinyl: BTS: Jin Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B07KPTBMW8/?tag=tolees0ca-21) mit aktuellem Preis 9.39 EUR (original: 15.9 EUR) 40.94 % Rabatt hier:
 
-[![Funko 37862 POP Vinyl: BTS: Jin Sammelba](https://m.media-amazon.com/images/I/41BPTqbyd0L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07KPTBMW8/?tag=tolees0ca-21)
+[![Funko 37862 POP Vinyl: BTS: Jin Sammelba](https://m.media-amazon.com/images/I/41BPTqbyd0L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07KPTBMW8/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '24.05 % rabat auf RB&G Lauflernwagen aus Holz mit Gummiber'
 date: 2020-08-29 06:39:46
-image: 'https://m.media-amazon.com/images/I/41Bvq8ritvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Bvq8ritvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.9'
 
 Es gibt ein [RB&G Lauflernwagen aus Holz mit Gummibereifung](https://www.amazon.de/dp/B081PB4CGV/?tag=tolees0ca-21) mit aktuellem Preis 37.9 EUR (original: 49.9 EUR) 24.05 % Rabatt hier:
 
-[![RB&G Lauflernwagen aus Holz mit Gummiber](https://m.media-amazon.com/images/I/41Bvq8ritvL._SL200_.jpg)](https://www.amazon.de/dp/B081PB4CGV/?tag=tolees0ca-21)
+[![RB&G Lauflernwagen aus Holz mit Gummiber](https://m.media-amazon.com/images/I/41Bvq8ritvL._SL400_.jpg)](https://www.amazon.de/dp/B081PB4CGV/?tag=tolees0ca-21)
 
 ℹ️:
 

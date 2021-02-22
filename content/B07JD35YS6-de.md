@@ -2,7 +2,7 @@
 layout: post
 title: '42.22 % rabat auf Huawei Wireless Charger Supercharge mit '
 date: 2020-03-18 08:02:57
-image: 'https://m.media-amazon.com/images/I/21bDx7OV+TL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21bDx7OV+TL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.66'
 
 Es gibt ein [Huawei Wireless Charger Supercharge mit Adapter CP60  Kabellose Ladestation passend für Mate 20 Pro](https://www.amazon.de/dp/B07JD35YS6/?tag=tolees0ca-21) mit aktuellem Preis 34.66 EUR (original: 59.99 EUR) 42.22 % Rabatt hier:
 
-[![Huawei Wireless Charger Supercharge mit ](https://m.media-amazon.com/images/I/21bDx7OV+TL._SL200_.jpg)](https://www.amazon.de/dp/B07JD35YS6/?tag=tolees0ca-21)
+[![Huawei Wireless Charger Supercharge mit ](https://m.media-amazon.com/images/I/21bDx7OV+TL._SL400_.jpg)](https://www.amazon.de/dp/B07JD35YS6/?tag=tolees0ca-21)
 
 ℹ️:
 

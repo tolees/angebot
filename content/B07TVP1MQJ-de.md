@@ -2,7 +2,7 @@
 layout: post
 title: 'BRIKSMAX Led Beleuchtungsset für Lego Id mit 45.46 % Rabatt'
 date: 2020-04-14 08:20:49
-image: 'https://m.media-amazon.com/images/I/51hypQH9lHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hypQH9lHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Sie können [BRIKSMAX Led Beleuchtungsset für Lego Ideas TRON Legacy  Kompatibel Mit Lego 21314 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B07TVP1MQJ/?tag=tolees0ca-21) mit Preis 29.99 EUR (original: 54.99 EUR) 45.46 % Rabatt hier:
 
-[![BRIKSMAX Led Beleuchtungsset für Lego Id](https://m.media-amazon.com/images/I/51hypQH9lHL._SL200_.jpg)](https://www.amazon.de/dp/B07TVP1MQJ/?tag=tolees0ca-21)
+[![BRIKSMAX Led Beleuchtungsset für Lego Id](https://m.media-amazon.com/images/I/51hypQH9lHL._SL400_.jpg)](https://www.amazon.de/dp/B07TVP1MQJ/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'PLAYMOBIL Family Fun 70089 Familien-Camp mit 20.49 % Rabatt'
 date: 2020-09-17 15:01:46
-image: 'https://m.media-amazon.com/images/I/4178KD2afDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4178KD2afDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.754651162790694'
 
 Sie können [PLAYMOBIL Family Fun 70089 Familien-Camping  Ab 4 Jahren](https://www.amazon.de/dp/B07JMCBLWK/?tag=tolees0ca-21) mit Preis 21.69 EUR (original: 27.28 EUR) 20.49 % Rabatt hier:
 
-[![PLAYMOBIL Family Fun 70089 Familien-Camp](https://m.media-amazon.com/images/I/4178KD2afDL._SL200_.jpg)](https://www.amazon.de/dp/B07JMCBLWK/?tag=tolees0ca-21)
+[![PLAYMOBIL Family Fun 70089 Familien-Camp](https://m.media-amazon.com/images/I/4178KD2afDL._SL400_.jpg)](https://www.amazon.de/dp/B07JMCBLWK/?tag=tolees0ca-21)
 
 ℹ️:
 

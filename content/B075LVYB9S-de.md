@@ -2,7 +2,7 @@
 layout: post
 title: 'TechniSat DIGITRADIO 20 CD – Modernes &  mit 25.53 % Rabatt'
 date: 2020-08-18 22:48:32
-image: 'https://m.media-amazon.com/images/I/41hHDK4SlvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hHDK4SlvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '130.0788888888889'
 
 Sie können [TechniSat DIGITRADIO 20 CD – Modernes & kompaktes DAB+ Küchen- & Badezimmerradio  Empfangstarkes UKW Unterbauradio mit CD Player & Uhr ](https://www.amazon.de/dp/B075LVYB9S/?tag=tolees0ca-21) mit Preis 130.32 EUR (original: 175.0 EUR) 25.53 % Rabatt hier:
 
-[![TechniSat DIGITRADIO 20 CD – Modernes & ](https://m.media-amazon.com/images/I/41hHDK4SlvL._SL200_.jpg)](https://www.amazon.de/dp/B075LVYB9S/?tag=tolees0ca-21)
+[![TechniSat DIGITRADIO 20 CD – Modernes & ](https://m.media-amazon.com/images/I/41hHDK4SlvL._SL400_.jpg)](https://www.amazon.de/dp/B075LVYB9S/?tag=tolees0ca-21)
 
 ℹ️:
 

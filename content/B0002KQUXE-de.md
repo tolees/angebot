@@ -2,7 +2,7 @@
 layout: post
 title: '46.97 % rabat auf Technics RP-DH1200 DJ Kopfhörer silber'
 date: 2020-04-29 15:55:36
-image: 'https://m.media-amazon.com/images/I/315Q7K76T6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/315Q7K76T6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '106.05'
 
 Es gibt ein [Technics RP-DH1200 DJ Kopfhörer silber](https://www.amazon.de/dp/B0002KQUXE/?tag=tolees0ca-21) mit aktuellem Preis 106.05 EUR (original: 199.99 EUR) 46.97 % Rabatt hier:
 
-[![Technics RP-DH1200 DJ Kopfhörer silber](https://m.media-amazon.com/images/I/315Q7K76T6L._SL200_.jpg)](https://www.amazon.de/dp/B0002KQUXE/?tag=tolees0ca-21)
+[![Technics RP-DH1200 DJ Kopfhörer silber](https://m.media-amazon.com/images/I/315Q7K76T6L._SL400_.jpg)](https://www.amazon.de/dp/B0002KQUXE/?tag=tolees0ca-21)
 
 ℹ️:
 

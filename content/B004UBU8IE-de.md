@@ -2,7 +2,7 @@
 layout: post
 title: '39.43 % rabat auf TP-Link TL-WA801ND V5.0 WLAN Access Poin'
 date: 2020-09-13 15:35:36
-image: 'https://m.media-amazon.com/images/I/31zn7QHX2WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31zn7QHX2WL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.14'
 
 Es gibt ein [TP-Link TL-WA801ND V5.0 WLAN Access Point 300Mbit/s  Client  Bridget  Universal/WDFS Repeater   WPS  zwei abnehmbare Antennen  weiß](https://www.amazon.de/dp/B004UBU8IE/?tag=tolees0ca-21) mit aktuellem Preis 21.14 EUR (original: 34.9 EUR) 39.43 % Rabatt hier:
 
-[![TP-Link TL-WA801ND V5.0 WLAN Access Poin](https://m.media-amazon.com/images/I/31zn7QHX2WL._SL200_.jpg)](https://www.amazon.de/dp/B004UBU8IE/?tag=tolees0ca-21)
+[![TP-Link TL-WA801ND V5.0 WLAN Access Poin](https://m.media-amazon.com/images/I/31zn7QHX2WL._SL400_.jpg)](https://www.amazon.de/dp/B004UBU8IE/?tag=tolees0ca-21)
 
 ℹ️:
 

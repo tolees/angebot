@@ -2,7 +2,7 @@
 layout: post
 title: '20.01 % rabat auf Bluetooth Lautsprecher 5.0  Tronsmart T6'
 date: 2020-03-07 18:37:32
-image: 'https://m.media-amazon.com/images/I/51dFD5JBEOL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51dFD5JBEOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.231666666666666'
 
 Es gibt ein [Bluetooth Lautsprecher 5.0  Tronsmart T6 Mini 15W Tragbarer Lautsprecher mit 24-Stunden-Spielzeit  360° TWS Stereo Sound  IPX6 wasserdicht  Unterstützung für TF/Micro-SD-Karte  Sprachassistent  Alexa](https://www.amazon.de/dp/B07ZGFJQJ6/?tag=tolees0ca-21) mit aktuellem Preis 20.79 EUR (original: 25.99 EUR) 20.01 % Rabatt hier:
 
-[![Bluetooth Lautsprecher 5.0  Tronsmart T6](https://m.media-amazon.com/images/I/51dFD5JBEOL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07ZGFJQJ6/?tag=tolees0ca-21)
+[![Bluetooth Lautsprecher 5.0  Tronsmart T6](https://m.media-amazon.com/images/I/51dFD5JBEOL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07ZGFJQJ6/?tag=tolees0ca-21)
 
 ℹ️:
 

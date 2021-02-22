@@ -2,7 +2,7 @@
 layout: post
 title: 'Hasbro B7493EU00 - Star Wars Rogue One I mit 50.71 % Rabatt'
 date: 2020-04-17 23:57:46
-image: 'https://m.media-amazon.com/images/I/41ESAgBa9pL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ESAgBa9pL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.29'
 
 Sie können [Hasbro B7493EU00 - Star Wars Rogue One Interaktiver Droid - Smart R2-D2  Actionfigur](https://www.amazon.de/dp/B01L93GCTO/?tag=tolees0ca-21) mit Preis 49.29 EUR (original: 99.99 EUR) 50.71 % Rabatt hier:
 
-[![Hasbro B7493EU00 - Star Wars Rogue One I](https://m.media-amazon.com/images/I/41ESAgBa9pL._SL200_.jpg)](https://www.amazon.de/dp/B01L93GCTO/?tag=tolees0ca-21)
+[![Hasbro B7493EU00 - Star Wars Rogue One I](https://m.media-amazon.com/images/I/41ESAgBa9pL._SL400_.jpg)](https://www.amazon.de/dp/B01L93GCTO/?tag=tolees0ca-21)
 
 ℹ️:
 

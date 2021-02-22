@@ -2,7 +2,7 @@
 layout: post
 title: 'Jacobs Kaffeebohnen Barista Editions Cre mit 42.36 % Rabatt'
 date: 2020-07-23 13:03:25
-image: 'https://m.media-amazon.com/images/I/418JjW0I8mL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418JjW0I8mL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.64'
 
 Sie können [Jacobs Kaffeebohnen Barista Editions Crema Mild  1 kg Bohnenkaffee](https://www.amazon.de/dp/B07FY4CP9T/?tag=tolees0ca-21) mit Preis 8.64 EUR (original: 14.99 EUR) 42.36 % Rabatt hier:
 
-[![Jacobs Kaffeebohnen Barista Editions Cre](https://m.media-amazon.com/images/I/418JjW0I8mL._SL200_.jpg)](https://www.amazon.de/dp/B07FY4CP9T/?tag=tolees0ca-21)
+[![Jacobs Kaffeebohnen Barista Editions Cre](https://m.media-amazon.com/images/I/418JjW0I8mL._SL400_.jpg)](https://www.amazon.de/dp/B07FY4CP9T/?tag=tolees0ca-21)
 
 ℹ️:
 

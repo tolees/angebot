@@ -2,7 +2,7 @@
 layout: post
 title: '24.00 % rabat auf GoPro Schutzgehäuse für HERO8 Black  Off'
 date: 2020-09-23 17:35:17
-image: 'https://m.media-amazon.com/images/I/411dk4HmCJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411dk4HmCJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.015'
 
 Es gibt ein [GoPro Schutzgehäuse für HERO8 Black  Offizielles GoPro Zubehör ](https://www.amazon.de/dp/B07WNS2ZB8/?tag=tolees0ca-21) mit aktuellem Preis 37.99 EUR (original: 49.99 EUR) 24.00 % Rabatt hier:
 
-[![GoPro Schutzgehäuse für HERO8 Black  Off](https://m.media-amazon.com/images/I/411dk4HmCJL._SL200_.jpg)](https://www.amazon.de/dp/B07WNS2ZB8/?tag=tolees0ca-21)
+[![GoPro Schutzgehäuse für HERO8 Black  Off](https://m.media-amazon.com/images/I/411dk4HmCJL._SL400_.jpg)](https://www.amazon.de/dp/B07WNS2ZB8/?tag=tolees0ca-21)
 
 ℹ️:
 

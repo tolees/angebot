@@ -2,7 +2,7 @@
 layout: post
 title: '52.64 % rabat auf BRIKSMAX Led Beleuchtungsset für Lego Id'
 date: 2020-04-18 00:47:29
-image: 'https://m.media-amazon.com/images/I/4147Z8gsZZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4147Z8gsZZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.064074074074075'
 
 Es gibt ein [BRIKSMAX Led Beleuchtungsset für Lego Ideas Die NASA-Frauen Kompatibel Mit Lego 21312 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B07WV9L2DH/?tag=tolees0ca-21) mit aktuellem Preis 26.99 EUR (original: 56.99 EUR) 52.64 % Rabatt hier:
 
-[![BRIKSMAX Led Beleuchtungsset für Lego Id](https://m.media-amazon.com/images/I/4147Z8gsZZL._SL200_.jpg)](https://www.amazon.de/dp/B07WV9L2DH/?tag=tolees0ca-21)
+[![BRIKSMAX Led Beleuchtungsset für Lego Id](https://m.media-amazon.com/images/I/4147Z8gsZZL._SL400_.jpg)](https://www.amazon.de/dp/B07WV9L2DH/?tag=tolees0ca-21)
 
 ℹ️:
 

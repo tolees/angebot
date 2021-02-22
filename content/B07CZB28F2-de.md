@@ -2,7 +2,7 @@
 layout: post
 title: '51.69 % rabat auf Keg Bierspender  Merrday Edelstahl Mini '
 date: 2020-04-18 00:18:21
-image: 'https://m.media-amazon.com/images/I/41ZVrNunb-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZVrNunb-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.99'
 
 Es gibt ein [Keg Bierspender  Merrday Edelstahl Mini Fass Bier Growler Speer Tap Dispenser für Handwerk Bier Wachsen Homebrew Speer 2L / 3.6L / 4L / 5L / 10L](https://www.amazon.de/dp/B07CZB28F2/?tag=tolees0ca-21) mit aktuellem Preis 42.99 EUR (original: 88.99 EUR) 51.69 % Rabatt hier:
 
-[![Keg Bierspender  Merrday Edelstahl Mini ](https://m.media-amazon.com/images/I/41ZVrNunb-L._SL200_.jpg)](https://www.amazon.de/dp/B07CZB28F2/?tag=tolees0ca-21)
+[![Keg Bierspender  Merrday Edelstahl Mini ](https://m.media-amazon.com/images/I/41ZVrNunb-L._SL400_.jpg)](https://www.amazon.de/dp/B07CZB28F2/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '31.27 % rabat auf Santana [Vinyl LP]'
 date: 2020-10-09 12:13:25
-image: 'https://m.media-amazon.com/images/I/61xzBgwuDaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61xzBgwuDaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Es gibt ein [Santana [Vinyl LP]](https://www.amazon.de/dp/B01BLAOY86/?tag=tolees0ca-21) mit aktuellem Preis 10.99 EUR (original: 15.99 EUR) 31.27 % Rabatt hier:
 
-[![Santana [Vinyl LP]](https://m.media-amazon.com/images/I/61xzBgwuDaL._SL200_.jpg)](https://www.amazon.de/dp/B01BLAOY86/?tag=tolees0ca-21)
+[![Santana [Vinyl LP]](https://m.media-amazon.com/images/I/61xzBgwuDaL._SL400_.jpg)](https://www.amazon.de/dp/B01BLAOY86/?tag=tolees0ca-21)
 
 ℹ️:
 

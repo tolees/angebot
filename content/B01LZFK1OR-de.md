@@ -2,7 +2,7 @@
 layout: post
 title: 'CYBEX Silver Kinder-Autositz Juno 2-Fix  mit 45.02 % Rabatt'
 date: 2020-09-05 08:45:45
-image: 'https://m.media-amazon.com/images/I/31rD2lzuQiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rD2lzuQiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '113.28666666666668'
 
 Sie können [CYBEX Silver Kinder-Autositz Juno 2-Fix  Für Autos mit ISOFIX  Autositz Gruppe 1  9-18 kg   Gray Rabbit](https://www.amazon.de/dp/B01LZFK1OR/?tag=tolees0ca-21) mit Preis 115.43 EUR (original: 209.95 EUR) 45.02 % Rabatt hier:
 
-[![CYBEX Silver Kinder-Autositz Juno 2-Fix ](https://m.media-amazon.com/images/I/31rD2lzuQiL._SL200_.jpg)](https://www.amazon.de/dp/B01LZFK1OR/?tag=tolees0ca-21)
+[![CYBEX Silver Kinder-Autositz Juno 2-Fix ](https://m.media-amazon.com/images/I/31rD2lzuQiL._SL400_.jpg)](https://www.amazon.de/dp/B01LZFK1OR/?tag=tolees0ca-21)
 
 ℹ️:
 

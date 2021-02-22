@@ -2,7 +2,7 @@
 layout: post
 title: 'Geox Damen D ASHEELY B Biker Boots  Blau mit 51.31 % Rabatt'
 date: 2020-02-09 13:30:27
-image: 'https://m.media-amazon.com/images/I/41oLQhTBbML._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oLQhTBbML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '68.17'
 
 Sie können [Geox Damen D ASHEELY B Biker Boots  Blau  Blue C4000   39 EU](https://www.amazon.de/dp/B0792T5HSF/?tag=tolees0ca-21) mit Preis 68.17 EUR (original: 140.0 EUR) 51.31 % Rabatt hier:
 
-[![Geox Damen D ASHEELY B Biker Boots  Blau](https://m.media-amazon.com/images/I/41oLQhTBbML._AC_._SL200_.jpg)](https://www.amazon.de/dp/B0792T5HSF/?tag=tolees0ca-21)
+[![Geox Damen D ASHEELY B Biker Boots  Blau](https://m.media-amazon.com/images/I/41oLQhTBbML._AC_._SL400_.jpg)](https://www.amazon.de/dp/B0792T5HSF/?tag=tolees0ca-21)
 
 ℹ️:
 

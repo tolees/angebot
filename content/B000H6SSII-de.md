@@ -2,7 +2,7 @@
 layout: post
 title: '31.75 % rabat auf JBL 61672 Solar-Leuchtstoffröhre Tagesli'
 date: 2020-10-01 05:52:57
-image: 'https://m.media-amazon.com/images/I/41VtoEEWU7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VtoEEWU7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.37'
 
 Es gibt ein [JBL 61672 Solar-Leuchtstoffröhre Tageslichtröhre für Süßwasseraquarien  39 W Solar Natur Ultra T5](https://www.amazon.de/dp/B000H6SSII/?tag=tolees0ca-21) mit aktuellem Preis 17.37 EUR (original: 25.45 EUR) 31.75 % Rabatt hier:
 
-[![JBL 61672 Solar-Leuchtstoffröhre Tagesli](https://m.media-amazon.com/images/I/41VtoEEWU7L._SL200_.jpg)](https://www.amazon.de/dp/B000H6SSII/?tag=tolees0ca-21)
+[![JBL 61672 Solar-Leuchtstoffröhre Tagesli](https://m.media-amazon.com/images/I/41VtoEEWU7L._SL400_.jpg)](https://www.amazon.de/dp/B000H6SSII/?tag=tolees0ca-21)
 
 ℹ️:
 

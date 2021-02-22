@@ -2,7 +2,7 @@
 layout: post
 title: '33.34 % rabat auf Echo Plus  2. Gen.   Sandstein Stoff + P'
 date: 2020-05-23 15:48:03
-image: 'https://m.media-amazon.com/images/I/41k4YVvM5ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41k4YVvM5ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.99'
 
 Es gibt ein [Echo Plus  2. Gen.   Sandstein Stoff + Philips Hue White Lampe](https://www.amazon.de/dp/B07H334QWK/?tag=tolees0ca-21) mit aktuellem Preis 99.99 EUR (original: 149.99 EUR) 33.34 % Rabatt hier:
 
-[![Echo Plus  2. Gen.   Sandstein Stoff + P](https://m.media-amazon.com/images/I/41k4YVvM5ZL._SL200_.jpg)](https://www.amazon.de/dp/B07H334QWK/?tag=tolees0ca-21)
+[![Echo Plus  2. Gen.   Sandstein Stoff + P](https://m.media-amazon.com/images/I/41k4YVvM5ZL._SL400_.jpg)](https://www.amazon.de/dp/B07H334QWK/?tag=tolees0ca-21)
 
 ℹ️:
 

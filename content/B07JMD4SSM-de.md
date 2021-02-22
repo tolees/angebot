@@ -2,7 +2,7 @@
 layout: post
 title: '43.61 % rabat auf Meereskönig mit Haikutsche'
 date: 2020-09-16 06:19:08
-image: 'https://m.media-amazon.com/images/I/51GYjPy-nZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51GYjPy-nZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.506666666666668'
 
 Es gibt ein [Meereskönig mit Haikutsche](https://www.amazon.de/dp/B07JMD4SSM/?tag=tolees0ca-21) mit aktuellem Preis 10.99 EUR (original: 19.49 EUR) 43.61 % Rabatt hier:
 
-[![Meereskönig mit Haikutsche](https://m.media-amazon.com/images/I/51GYjPy-nZL._SL200_.jpg)](https://www.amazon.de/dp/B07JMD4SSM/?tag=tolees0ca-21)
+[![Meereskönig mit Haikutsche](https://m.media-amazon.com/images/I/51GYjPy-nZL._SL400_.jpg)](https://www.amazon.de/dp/B07JMD4SSM/?tag=tolees0ca-21)
 
 ℹ️:
 

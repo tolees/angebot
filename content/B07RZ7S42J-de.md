@@ -2,7 +2,7 @@
 layout: post
 title: '40.33 % rabat auf BRIKSMAX Led Beleuchtungsset für Disney '
 date: 2020-03-04 18:26:42
-image: 'https://m.media-amazon.com/images/I/5102rYO89dL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5102rYO89dL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.99'
 
 Es gibt ein [BRIKSMAX Led Beleuchtungsset für Disney Mickey s Steamboat Willie  Kompatibel Mit Lego 21317 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B07RZ7S42J/?tag=tolees0ca-21) mit aktuellem Preis 36.99 EUR (original: 61.99 EUR) 40.33 % Rabatt hier:
 
-[![BRIKSMAX Led Beleuchtungsset für Disney ](https://m.media-amazon.com/images/I/5102rYO89dL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07RZ7S42J/?tag=tolees0ca-21)
+[![BRIKSMAX Led Beleuchtungsset für Disney ](https://m.media-amazon.com/images/I/5102rYO89dL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07RZ7S42J/?tag=tolees0ca-21)
 
 ℹ️:
 

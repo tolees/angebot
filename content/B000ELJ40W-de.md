@@ -2,7 +2,7 @@
 layout: post
 title: '33.85 % rabat auf Playmobil 4132 SuperSet Spielplatz'
 date: 2020-02-22 12:11:17
-image: 'https://m.media-amazon.com/images/I/51eCVmeIrML._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51eCVmeIrML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.134137931034482'
 
 Es gibt ein [Playmobil 4132 SuperSet Spielplatz](https://www.amazon.de/dp/B000ELJ40W/?tag=tolees0ca-21) mit aktuellem Preis 11.9 EUR (original: 17.99 EUR) 33.85 % Rabatt hier:
 
-[![Playmobil 4132 SuperSet Spielplatz](https://m.media-amazon.com/images/I/51eCVmeIrML._AC_._SL200_.jpg)](https://www.amazon.de/dp/B000ELJ40W/?tag=tolees0ca-21)
+[![Playmobil 4132 SuperSet Spielplatz](https://m.media-amazon.com/images/I/51eCVmeIrML._AC_._SL400_.jpg)](https://www.amazon.de/dp/B000ELJ40W/?tag=tolees0ca-21)
 
 ℹ️:
 

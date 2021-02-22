@@ -2,7 +2,7 @@
 layout: post
 title: 'Der Klavierspieler vom Gare du Nord mit 30.66 % Rabatt'
 date: 2020-04-18 00:41:17
-image: 'https://m.media-amazon.com/images/I/518LOIg8MdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518LOIg8MdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.12'
 
 Sie können [Der Klavierspieler vom Gare du Nord](https://www.amazon.de/dp/B07SQTKZCJ/?tag=tolees0ca-21) mit Preis 8.12 EUR (original: 11.71 EUR) 30.66 % Rabatt hier:
 
-[![Der Klavierspieler vom Gare du Nord](https://m.media-amazon.com/images/I/518LOIg8MdL._SL200_.jpg)](https://www.amazon.de/dp/B07SQTKZCJ/?tag=tolees0ca-21)
+[![Der Klavierspieler vom Gare du Nord](https://m.media-amazon.com/images/I/518LOIg8MdL._SL400_.jpg)](https://www.amazon.de/dp/B07SQTKZCJ/?tag=tolees0ca-21)
 
 ℹ️:
 

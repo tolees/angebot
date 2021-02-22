@@ -2,7 +2,7 @@
 layout: post
 title: '20.65 % rabat auf Funko 9299 S1 No Actionfigur Games: Over'
 date: 2020-03-22 13:09:46
-image: 'https://m.media-amazon.com/images/I/515R-2h68rL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/515R-2h68rL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.623333333333333'
 
 Es gibt ein [Funko 9299 S1 No Actionfigur Games: Overwatch: Reaper  Multi](https://www.amazon.de/dp/B01CDEXB56/?tag=tolees0ca-21) mit aktuellem Preis 9.03 EUR (original: 11.38 EUR) 20.65 % Rabatt hier:
 
-[![Funko 9299 S1 No Actionfigur Games: Over](https://m.media-amazon.com/images/I/515R-2h68rL._SL200_.jpg)](https://www.amazon.de/dp/B01CDEXB56/?tag=tolees0ca-21)
+[![Funko 9299 S1 No Actionfigur Games: Over](https://m.media-amazon.com/images/I/515R-2h68rL._SL400_.jpg)](https://www.amazon.de/dp/B01CDEXB56/?tag=tolees0ca-21)
 
 ℹ️:
 

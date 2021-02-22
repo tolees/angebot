@@ -2,7 +2,7 @@
 layout: post
 title: '81.14 % rabat auf Nintendo Wii U - Konsole  Premium Pack  '
 date: 2020-04-13 23:50:27
-image: 'https://m.media-amazon.com/images/I/51aN+VVHifL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51aN+VVHifL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '127.475'
 
 Es gibt ein [Nintendo Wii U - Konsole  Premium Pack  32 GB  schwarz mit Nintendo Land](https://www.amazon.de/dp/B0090LFL0E/?tag=tolees0ca-21) mit aktuellem Preis 129.95 EUR (original: 689.0 EUR) 81.14 % Rabatt hier:
 
-[![Nintendo Wii U - Konsole  Premium Pack  ](https://m.media-amazon.com/images/I/51aN+VVHifL._SL200_.jpg)](https://www.amazon.de/dp/B0090LFL0E/?tag=tolees0ca-21)
+[![Nintendo Wii U - Konsole  Premium Pack  ](https://m.media-amazon.com/images/I/51aN+VVHifL._SL400_.jpg)](https://www.amazon.de/dp/B0090LFL0E/?tag=tolees0ca-21)
 
 ℹ️:
 

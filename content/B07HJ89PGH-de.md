@@ -2,7 +2,7 @@
 layout: post
 title: 'Pop Tokyo Ghoul Rize Vinyl Figure mit 53.12 % Rabatt'
 date: 2020-04-05 05:04:33
-image: 'https://m.media-amazon.com/images/I/51SUfbCQjPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51SUfbCQjPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.75'
 
 Sie können [Pop Tokyo Ghoul Rize Vinyl Figure](https://www.amazon.de/dp/B07HJ89PGH/?tag=tolees0ca-21) mit Preis 3.75 EUR (original: 8.0 EUR) 53.12 % Rabatt hier:
 
-[![Pop Tokyo Ghoul Rize Vinyl Figure](https://m.media-amazon.com/images/I/51SUfbCQjPL._SL200_.jpg)](https://www.amazon.de/dp/B07HJ89PGH/?tag=tolees0ca-21)
+[![Pop Tokyo Ghoul Rize Vinyl Figure](https://m.media-amazon.com/images/I/51SUfbCQjPL._SL400_.jpg)](https://www.amazon.de/dp/B07HJ89PGH/?tag=tolees0ca-21)
 
 ℹ️:
 

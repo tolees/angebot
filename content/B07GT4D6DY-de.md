@@ -2,7 +2,7 @@
 layout: post
 title: '45.59 % rabat auf Sony SRS-XB01 tragbarer Bluetooth Lautsp'
 date: 2020-03-19 05:15:38
-image: 'https://m.media-amazon.com/images/I/51tgk1mlePL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51tgk1mlePL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.99'
 
 Es gibt ein [Sony SRS-XB01 tragbarer Bluetooth Lautsprecher  Extra Bass  6h Akku  Spritzwassergeschützt  gelb](https://www.amazon.de/dp/B07GT4D6DY/?tag=tolees0ca-21) mit aktuellem Preis 18.99 EUR (original: 34.9 EUR) 45.59 % Rabatt hier:
 
-[![Sony SRS-XB01 tragbarer Bluetooth Lautsp](https://m.media-amazon.com/images/I/51tgk1mlePL._SL200_.jpg)](https://www.amazon.de/dp/B07GT4D6DY/?tag=tolees0ca-21)
+[![Sony SRS-XB01 tragbarer Bluetooth Lautsp](https://m.media-amazon.com/images/I/51tgk1mlePL._SL400_.jpg)](https://www.amazon.de/dp/B07GT4D6DY/?tag=tolees0ca-21)
 
 ℹ️:
 

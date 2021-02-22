@@ -2,7 +2,7 @@
 layout: post
 title: '20.75 % rabat auf Funko 36391 POP Vinyl: Lion King: Mufasa'
 date: 2020-04-04 21:00:59
-image: 'https://m.media-amazon.com/images/I/41RVsxx3B6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RVsxx3B6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.02'
 
 Es gibt ein [Funko 36391 POP Vinyl: Lion King: Mufasa  Multi Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B07HB4VNVV/?tag=tolees0ca-21) mit aktuellem Preis 9.51 EUR (original: 12.0 EUR) 20.75 % Rabatt hier:
 
-[![Funko 36391 POP Vinyl: Lion King: Mufasa](https://m.media-amazon.com/images/I/41RVsxx3B6L._SL200_.jpg)](https://www.amazon.de/dp/B07HB4VNVV/?tag=tolees0ca-21)
+[![Funko 36391 POP Vinyl: Lion King: Mufasa](https://m.media-amazon.com/images/I/41RVsxx3B6L._SL400_.jpg)](https://www.amazon.de/dp/B07HB4VNVV/?tag=tolees0ca-21)
 
 ℹ️:
 

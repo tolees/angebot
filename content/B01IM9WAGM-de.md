@@ -2,7 +2,7 @@
 layout: post
 title: 'TechniSat Z-Wave Innenkamera 1  Smart Ho mit 50.29 % Rabatt'
 date: 2020-05-19 20:44:15
-image: 'https://m.media-amazon.com/images/I/31fJtGWfzYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31fJtGWfzYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.18'
 
 Sie können [TechniSat Z-Wave Innenkamera 1  Smart Home Kamera  Überwachungskamera Innen  Sicherheitskamera  Nachtsichtfunktion  Smarthome Hausautomation ](https://www.amazon.de/dp/B01IM9WAGM/?tag=tolees0ca-21) mit Preis 54.18 EUR (original: 109.0 EUR) 50.29 % Rabatt hier:
 
-[![TechniSat Z-Wave Innenkamera 1  Smart Ho](https://m.media-amazon.com/images/I/31fJtGWfzYL._SL200_.jpg)](https://www.amazon.de/dp/B01IM9WAGM/?tag=tolees0ca-21)
+[![TechniSat Z-Wave Innenkamera 1  Smart Ho](https://m.media-amazon.com/images/I/31fJtGWfzYL._SL400_.jpg)](https://www.amazon.de/dp/B01IM9WAGM/?tag=tolees0ca-21)
 
 ℹ️:
 

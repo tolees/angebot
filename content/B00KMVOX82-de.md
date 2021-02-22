@@ -2,7 +2,7 @@
 layout: post
 title: '38.25 % rabat auf Einhell Kompressor TH-AC 240/50/10 OF  1'
 date: 2020-03-14 04:57:01
-image: 'https://m.media-amazon.com/images/I/413xPnQ4pNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413xPnQ4pNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '104.95'
 
 Es gibt ein [Einhell Kompressor TH-AC 240/50/10 OF  1500 W  240 l/min Ansaugl.  50 l Kessel  10 bar max. Betriebsdruck  öl- und wartungsarm  Druckminderer  Manometer ](https://www.amazon.de/dp/B00KMVOX82/?tag=tolees0ca-21) mit aktuellem Preis 104.95 EUR (original: 169.95 EUR) 38.25 % Rabatt hier:
 
-[![Einhell Kompressor TH-AC 240/50/10 OF  1](https://m.media-amazon.com/images/I/413xPnQ4pNL._SL200_.jpg)](https://www.amazon.de/dp/B00KMVOX82/?tag=tolees0ca-21)
+[![Einhell Kompressor TH-AC 240/50/10 OF  1](https://m.media-amazon.com/images/I/413xPnQ4pNL._SL400_.jpg)](https://www.amazon.de/dp/B00KMVOX82/?tag=tolees0ca-21)
 
 ℹ️:
 

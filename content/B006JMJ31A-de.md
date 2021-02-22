@@ -2,7 +2,7 @@
 layout: post
 title: 'Playmobil 4013 - SuperSet Pinguinbecken mit 31.14 % Rabatt'
 date: 2020-04-17 23:36:44
-image: 'https://m.media-amazon.com/images/I/51pHPy3lWkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51pHPy3lWkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.0'
 
 Sie können [Playmobil 4013 - SuperSet Pinguinbecken](https://www.amazon.de/dp/B006JMJ31A/?tag=tolees0ca-21) mit Preis 23.0 EUR (original: 33.4 EUR) 31.14 % Rabatt hier:
 
-[![Playmobil 4013 - SuperSet Pinguinbecken](https://m.media-amazon.com/images/I/51pHPy3lWkL._SL200_.jpg)](https://www.amazon.de/dp/B006JMJ31A/?tag=tolees0ca-21)
+[![Playmobil 4013 - SuperSet Pinguinbecken](https://m.media-amazon.com/images/I/51pHPy3lWkL._SL400_.jpg)](https://www.amazon.de/dp/B006JMJ31A/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '50.19 % rabat auf BOSS Herren RN 2P CO/EL T-Shirts  Schwar'
 date: 2020-03-12 09:47:50
-image: 'https://m.media-amazon.com/images/I/41pyTA-gw0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pyTA-gw0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.9'
 
 Es gibt ein [BOSS Herren RN 2P CO/EL T-Shirts  Schwarz  Black 1   Small  2er Pack ](https://www.amazon.de/dp/B01M9GC54O/?tag=tolees0ca-21) mit aktuellem Preis 19.9 EUR (original: 39.95 EUR) 50.19 % Rabatt hier:
 
-[![BOSS Herren RN 2P CO/EL T-Shirts  Schwar](https://m.media-amazon.com/images/I/41pyTA-gw0L._SL200_.jpg)](https://www.amazon.de/dp/B01M9GC54O/?tag=tolees0ca-21)
+[![BOSS Herren RN 2P CO/EL T-Shirts  Schwar](https://m.media-amazon.com/images/I/41pyTA-gw0L._SL400_.jpg)](https://www.amazon.de/dp/B01M9GC54O/?tag=tolees0ca-21)
 
 ℹ️:
 

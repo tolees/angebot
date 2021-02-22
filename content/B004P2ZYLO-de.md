@@ -2,7 +2,7 @@
 layout: post
 title: '15.92 % rabat auf Umarex  Spitzkopf  4 5mm für Diabolo Cob'
 date: 2020-06-06 18:26:59
-image: 'https://m.media-amazon.com/images/I/51F--2ddTcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51F--2ddTcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.4'
 
 Es gibt ein [Umarex  Spitzkopf  4 5mm für Diabolo Cobra Luftpistolen  super perforierend  500 Stück](https://www.amazon.de/dp/B004P2ZYLO/?tag=tolees0ca-21) mit aktuellem Preis 8.4 EUR (original: 9.99 EUR) 15.92 % Rabatt hier:
 
-[![Umarex  Spitzkopf  4 5mm für Diabolo Cob](https://m.media-amazon.com/images/I/51F--2ddTcL._SL200_.jpg)](https://www.amazon.de/dp/B004P2ZYLO/?tag=tolees0ca-21)
+[![Umarex  Spitzkopf  4 5mm für Diabolo Cob](https://m.media-amazon.com/images/I/51F--2ddTcL._SL400_.jpg)](https://www.amazon.de/dp/B004P2ZYLO/?tag=tolees0ca-21)
 
 ℹ️:
 

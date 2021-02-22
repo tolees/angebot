@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO 41405 Andreas magischer Würfel - Ti mit 27.23 % Rabatt'
 date: 2020-09-16 09:17:33
-image: 'https://m.media-amazon.com/images/I/51shBWvu2LL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51shBWvu2LL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.485'
 
 Sie können [LEGO 41405 Andreas magischer Würfel - Tiergeschäft Friends Bauset](https://www.amazon.de/dp/B07XCXQ19H/?tag=tolees0ca-21) mit Preis 7.27 EUR (original: 9.99 EUR) 27.23 % Rabatt hier:
 
-[![LEGO 41405 Andreas magischer Würfel - Ti](https://m.media-amazon.com/images/I/51shBWvu2LL._SL200_.jpg)](https://www.amazon.de/dp/B07XCXQ19H/?tag=tolees0ca-21)
+[![LEGO 41405 Andreas magischer Würfel - Ti](https://m.media-amazon.com/images/I/51shBWvu2LL._SL400_.jpg)](https://www.amazon.de/dp/B07XCXQ19H/?tag=tolees0ca-21)
 
 ℹ️:
 

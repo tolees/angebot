@@ -2,7 +2,7 @@
 layout: post
 title: '18.75 % rabat auf Quick-Connect INVERTER Split Klimaanlage'
 date: 2020-09-08 01:57:10
-image: 'https://m.media-amazon.com/images/I/51uUFSyxYFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51uUFSyxYFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '649.9'
 
 Es gibt ein [Quick-Connect INVERTER Split Klimaanlage mit Wärmepumpe 3 2kW Klimagerät ECO Smart WiFi/WLAN komplett Set inkl. 5m Kupferleitungen mit Heizfunktion](https://www.amazon.de/dp/B086YBHTYK/?tag=tolees0ca-21) mit aktuellem Preis 649.9 EUR (original: 799.9 EUR) 18.75 % Rabatt hier:
 
-[![Quick-Connect INVERTER Split Klimaanlage](https://m.media-amazon.com/images/I/51uUFSyxYFL._SL200_.jpg)](https://www.amazon.de/dp/B086YBHTYK/?tag=tolees0ca-21)
+[![Quick-Connect INVERTER Split Klimaanlage](https://m.media-amazon.com/images/I/51uUFSyxYFL._SL400_.jpg)](https://www.amazon.de/dp/B086YBHTYK/?tag=tolees0ca-21)
 
 ℹ️:
 

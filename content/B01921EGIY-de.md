@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko 6371 No Actionfigur Tokyo Ghoul: K mit 42.82 % Rabatt'
 date: 2020-02-27 20:10:52
-image: 'https://m.media-amazon.com/images/I/519-ykF8ngL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/519-ykF8ngL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.0'
 
 Sie können [Funko 6371 No Actionfigur Tokyo Ghoul: Ken Kaneki](https://www.amazon.de/dp/B01921EGIY/?tag=tolees0ca-21) mit Preis 8.0 EUR (original: 13.99 EUR) 42.82 % Rabatt hier:
 
-[![Funko 6371 No Actionfigur Tokyo Ghoul: K](https://m.media-amazon.com/images/I/519-ykF8ngL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01921EGIY/?tag=tolees0ca-21)
+[![Funko 6371 No Actionfigur Tokyo Ghoul: K](https://m.media-amazon.com/images/I/519-ykF8ngL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01921EGIY/?tag=tolees0ca-21)
 
 ℹ️:
 

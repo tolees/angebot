@@ -2,7 +2,7 @@
 layout: post
 title: '53.35 % rabat auf SanDisk Ultra SDXC I 128 GB bis zu 80 MB'
 date: 2020-03-04 14:57:09
-image: 'https://m.media-amazon.com/images/I/51jq15qOxUL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jq15qOxUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Es gibt ein [SanDisk Ultra SDXC I 128 GB bis zu 80 MB/Sek  Class 10 Speicherkarte [Standardverpackung]](https://www.amazon.de/dp/B0143IISD0/?tag=tolees0ca-21) mit aktuellem Preis 13.99 EUR (original: 29.99 EUR) 53.35 % Rabatt hier:
 
-[![SanDisk Ultra SDXC I 128 GB bis zu 80 MB](https://m.media-amazon.com/images/I/51jq15qOxUL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B0143IISD0/?tag=tolees0ca-21)
+[![SanDisk Ultra SDXC I 128 GB bis zu 80 MB](https://m.media-amazon.com/images/I/51jq15qOxUL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B0143IISD0/?tag=tolees0ca-21)
 
 ℹ️:
 

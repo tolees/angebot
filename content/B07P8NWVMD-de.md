@@ -2,7 +2,7 @@
 layout: post
 title: '25.10 % rabat auf Playmobil 70212 Dollhouse Kindergeburtst'
 date: 2020-04-06 21:08:35
-image: 'https://m.media-amazon.com/images/I/61hT1NjcUcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61hT1NjcUcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.034736842105264'
 
 Es gibt ein [Playmobil 70212 Dollhouse Kindergeburtstag mit Clown  ab 4 Jahren  bunt  one Size](https://www.amazon.de/dp/B07P8NWVMD/?tag=tolees0ca-21) mit aktuellem Preis 17.22 EUR (original: 22.99 EUR) 25.10 % Rabatt hier:
 
-[![Playmobil 70212 Dollhouse Kindergeburtst](https://m.media-amazon.com/images/I/61hT1NjcUcL._SL200_.jpg)](https://www.amazon.de/dp/B07P8NWVMD/?tag=tolees0ca-21)
+[![Playmobil 70212 Dollhouse Kindergeburtst](https://m.media-amazon.com/images/I/61hT1NjcUcL._SL400_.jpg)](https://www.amazon.de/dp/B07P8NWVMD/?tag=tolees0ca-21)
 
 ℹ️:
 

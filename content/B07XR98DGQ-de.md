@@ -2,7 +2,7 @@
 layout: post
 title: '26.32 % rabat auf Apple Leder Case  für iPhone 11 Pro Max '
 date: 2020-09-29 08:43:09
-image: 'https://m.media-amazon.com/images/I/211at5SIxQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/211at5SIxQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.49'
 
 Es gibt ein [Apple Leder Case  für iPhone 11 Pro Max  - Sonnengelb](https://www.amazon.de/dp/B07XR98DGQ/?tag=tolees0ca-21) mit aktuellem Preis 39.49 EUR (original: 53.6 EUR) 26.32 % Rabatt hier:
 
-[![Apple Leder Case  für iPhone 11 Pro Max ](https://m.media-amazon.com/images/I/211at5SIxQL._SL200_.jpg)](https://www.amazon.de/dp/B07XR98DGQ/?tag=tolees0ca-21)
+[![Apple Leder Case  für iPhone 11 Pro Max ](https://m.media-amazon.com/images/I/211at5SIxQL._SL400_.jpg)](https://www.amazon.de/dp/B07XR98DGQ/?tag=tolees0ca-21)
 
 ℹ️:
 

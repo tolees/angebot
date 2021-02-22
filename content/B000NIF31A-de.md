@@ -2,7 +2,7 @@
 layout: post
 title: 'Ecco ECCO OFFROAD  Herren Outdoor Sandal mit 51.78 % Rabatt'
 date: 2020-10-01 05:53:29
-image: 'https://m.media-amazon.com/images/I/41mP3Q2xvhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mP3Q2xvhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.2'
 
 Sie können [Ecco ECCO OFFROAD  Herren Outdoor Sandale  Schwarz  BLACK/MOLE/BLACK50034   42 EU  8 Herren UK ](https://www.amazon.de/dp/B000NIF31A/?tag=tolees0ca-21) mit Preis 48.2 EUR (original: 99.95 EUR) 51.78 % Rabatt hier:
 
-[![Ecco ECCO OFFROAD  Herren Outdoor Sandal](https://m.media-amazon.com/images/I/41mP3Q2xvhL._SL200_.jpg)](https://www.amazon.de/dp/B000NIF31A/?tag=tolees0ca-21)
+[![Ecco ECCO OFFROAD  Herren Outdoor Sandal](https://m.media-amazon.com/images/I/41mP3Q2xvhL._SL400_.jpg)](https://www.amazon.de/dp/B000NIF31A/?tag=tolees0ca-21)
 
 ℹ️:
 

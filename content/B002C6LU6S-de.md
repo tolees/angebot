@@ -2,7 +2,7 @@
 layout: post
 title: '15.03 % rabat auf Proxxon 23080 Steckschlüsselsatz 1/4 Zol'
 date: 2020-04-15 00:28:50
-image: 'https://m.media-amazon.com/images/I/41DteNymtcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DteNymtcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.485'
 
 Es gibt ein [Proxxon 23080 Steckschlüsselsatz 1/4 Zoll  36-teilig](https://www.amazon.de/dp/B002C6LU6S/?tag=tolees0ca-21) mit aktuellem Preis 33.98 EUR (original: 39.99 EUR) 15.03 % Rabatt hier:
 
-[![Proxxon 23080 Steckschlüsselsatz 1/4 Zol](https://m.media-amazon.com/images/I/41DteNymtcL._SL200_.jpg)](https://www.amazon.de/dp/B002C6LU6S/?tag=tolees0ca-21)
+[![Proxxon 23080 Steckschlüsselsatz 1/4 Zol](https://m.media-amazon.com/images/I/41DteNymtcL._SL400_.jpg)](https://www.amazon.de/dp/B002C6LU6S/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '24.42 % rabat auf Talisker Dark Storm Whisky  1 x 1 l '
 date: 2020-04-20 16:46:02
-image: 'https://m.media-amazon.com/images/I/513TGhYb7IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513TGhYb7IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.81'
 
 Es gibt ein [Talisker Dark Storm Whisky  1 x 1 l ](https://www.amazon.de/dp/B00EO9DTO2/?tag=tolees0ca-21) mit aktuellem Preis 49.81 EUR (original: 65.9 EUR) 24.42 % Rabatt hier:
 
-[![Talisker Dark Storm Whisky  1 x 1 l ](https://m.media-amazon.com/images/I/513TGhYb7IL._SL200_.jpg)](https://www.amazon.de/dp/B00EO9DTO2/?tag=tolees0ca-21)
+[![Talisker Dark Storm Whisky  1 x 1 l ](https://m.media-amazon.com/images/I/513TGhYb7IL._SL400_.jpg)](https://www.amazon.de/dp/B00EO9DTO2/?tag=tolees0ca-21)
 
 ℹ️:
 

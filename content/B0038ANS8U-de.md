@@ -2,7 +2,7 @@
 layout: post
 title: '41.49 % rabat auf KidKraft 53179 - Rosa Retroküche'
 date: 2020-04-07 21:39:36
-image: 'https://m.media-amazon.com/images/I/51sQt99qd-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51sQt99qd-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '109.99'
 
 Es gibt ein [KidKraft 53179 - Rosa Retroküche](https://www.amazon.de/dp/B0038ANS8U/?tag=tolees0ca-21) mit aktuellem Preis 109.99 EUR (original: 187.99 EUR) 41.49 % Rabatt hier:
 
-[![KidKraft 53179 - Rosa Retroküche](https://m.media-amazon.com/images/I/51sQt99qd-L._SL200_.jpg)](https://www.amazon.de/dp/B0038ANS8U/?tag=tolees0ca-21)
+[![KidKraft 53179 - Rosa Retroküche](https://m.media-amazon.com/images/I/51sQt99qd-L._SL400_.jpg)](https://www.amazon.de/dp/B0038ANS8U/?tag=tolees0ca-21)
 
 ℹ️:
 

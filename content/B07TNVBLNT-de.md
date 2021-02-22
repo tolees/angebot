@@ -2,7 +2,7 @@
 layout: post
 title: 'Seagate Expansion Portable  5 TB  tragba mit 31.07 % Rabatt'
 date: 2020-08-12 08:44:56
-image: 'https://m.media-amazon.com/images/I/51vQa-Pge8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51vQa-Pge8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '101.0488888888889'
 
 Sie können [Seagate Expansion Portable  5 TB  tragbare externe Festplatte  2.5 Zoll  USB 3.0  PC & Notebook  Modellnr.: STEA5000402](https://www.amazon.de/dp/B07TNVBLNT/?tag=tolees0ca-21) mit Preis 96.5 EUR (original: 139.99 EUR) 31.07 % Rabatt hier:
 
-[![Seagate Expansion Portable  5 TB  tragba](https://m.media-amazon.com/images/I/51vQa-Pge8L._SL200_.jpg)](https://www.amazon.de/dp/B07TNVBLNT/?tag=tolees0ca-21)
+[![Seagate Expansion Portable  5 TB  tragba](https://m.media-amazon.com/images/I/51vQa-Pge8L._SL400_.jpg)](https://www.amazon.de/dp/B07TNVBLNT/?tag=tolees0ca-21)
 
 ℹ️:
 

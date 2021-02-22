@@ -2,7 +2,7 @@
 layout: post
 title: '53.00 % rabat auf BOSCH 3397004772 Wischblatt Heck H772 - '
 date: 2020-09-28 08:53:58
-image: 'https://m.media-amazon.com/images/I/31LGsf879bL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31LGsf879bL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.76'
 
 Es gibt ein [BOSCH 3397004772 Wischblatt Heck H772 - Länge: 340](https://www.amazon.de/dp/B001FGLN2W/?tag=tolees0ca-21) mit aktuellem Preis 3.76 EUR (original: 8.0 EUR) 53.00 % Rabatt hier:
 
-[![BOSCH 3397004772 Wischblatt Heck H772 - ](https://m.media-amazon.com/images/I/31LGsf879bL._SL200_.jpg)](https://www.amazon.de/dp/B001FGLN2W/?tag=tolees0ca-21)
+[![BOSCH 3397004772 Wischblatt Heck H772 - ](https://m.media-amazon.com/images/I/31LGsf879bL._SL400_.jpg)](https://www.amazon.de/dp/B001FGLN2W/?tag=tolees0ca-21)
 
 ℹ️:
 

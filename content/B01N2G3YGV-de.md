@@ -2,7 +2,7 @@
 layout: post
 title: 'Hasbro B7784EU4 - N-Strike Elite AccuStr mit 31.27 % Rabatt'
 date: 2020-04-18 00:00:26
-image: 'https://m.media-amazon.com/images/I/51I758vREQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51I758vREQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.67'
 
 Sie können [Hasbro B7784EU4 - N-Strike Elite AccuStrike Alphahawk Präzisions-Spielzeugblaster](https://www.amazon.de/dp/B01N2G3YGV/?tag=tolees0ca-21) mit Preis 33.67 EUR (original: 48.99 EUR) 31.27 % Rabatt hier:
 
-[![Hasbro B7784EU4 - N-Strike Elite AccuStr](https://m.media-amazon.com/images/I/51I758vREQL._SL200_.jpg)](https://www.amazon.de/dp/B01N2G3YGV/?tag=tolees0ca-21)
+[![Hasbro B7784EU4 - N-Strike Elite AccuStr](https://m.media-amazon.com/images/I/51I758vREQL._SL400_.jpg)](https://www.amazon.de/dp/B01N2G3YGV/?tag=tolees0ca-21)
 
 ℹ️:
 

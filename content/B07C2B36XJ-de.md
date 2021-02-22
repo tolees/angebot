@@ -2,7 +2,7 @@
 layout: post
 title: '33.97 % rabat auf JACK & JONES Herren Strickpullover V-Aus'
 date: 2020-08-10 14:57:46
-image: 'https://m.media-amazon.com/images/I/51fgt4ioWoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51fgt4ioWoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.5'
 
 Es gibt ein [JACK & JONES Herren Strickpullover V-Ausschnitt LNavy Blazer 2](https://www.amazon.de/dp/B07C2B36XJ/?tag=tolees0ca-21) mit aktuellem Preis 16.5 EUR (original: 24.99 EUR) 33.97 % Rabatt hier:
 
-[![JACK & JONES Herren Strickpullover V-Aus](https://m.media-amazon.com/images/I/51fgt4ioWoL._SL200_.jpg)](https://www.amazon.de/dp/B07C2B36XJ/?tag=tolees0ca-21)
+[![JACK & JONES Herren Strickpullover V-Aus](https://m.media-amazon.com/images/I/51fgt4ioWoL._SL400_.jpg)](https://www.amazon.de/dp/B07C2B36XJ/?tag=tolees0ca-21)
 
 ℹ️:
 

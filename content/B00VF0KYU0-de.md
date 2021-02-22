@@ -2,7 +2,7 @@
 layout: post
 title: '48.76 % rabat auf Levi s  Herren Jeans 514 Regular Fit  Bl'
 date: 2020-03-19 05:11:38
-image: 'https://m.media-amazon.com/images/I/31UcBRn2eoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31UcBRn2eoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.99'
 
 Es gibt ein [Levi s  Herren Jeans 514 Regular Fit  Blau  Onewash   Gr. W32/L34](https://www.amazon.de/dp/B00VF0KYU0/?tag=tolees0ca-21) mit aktuellem Preis 40.99 EUR (original: 79.99 EUR) 48.76 % Rabatt hier:
 
-[![Levi s  Herren Jeans 514 Regular Fit  Bl](https://m.media-amazon.com/images/I/31UcBRn2eoL._SL200_.jpg)](https://www.amazon.de/dp/B00VF0KYU0/?tag=tolees0ca-21)
+[![Levi s  Herren Jeans 514 Regular Fit  Bl](https://m.media-amazon.com/images/I/31UcBRn2eoL._SL400_.jpg)](https://www.amazon.de/dp/B00VF0KYU0/?tag=tolees0ca-21)
 
 ℹ️:
 

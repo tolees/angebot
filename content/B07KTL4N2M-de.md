@@ -2,7 +2,7 @@
 layout: post
 title: '32.28 % rabat auf Columbia Street Elite Rucksack  Grau  Co'
 date: 2020-09-16 05:46:36
-image: 'https://m.media-amazon.com/images/I/41Wzm6UCyEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Wzm6UCyEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '60.94'
 
 Es gibt ein [Columbia Street Elite Rucksack  Grau  Cool Grey ](https://www.amazon.de/dp/B07KTL4N2M/?tag=tolees0ca-21) mit aktuellem Preis 60.94 EUR (original: 89.99 EUR) 32.28 % Rabatt hier:
 
-[![Columbia Street Elite Rucksack  Grau  Co](https://m.media-amazon.com/images/I/41Wzm6UCyEL._SL200_.jpg)](https://www.amazon.de/dp/B07KTL4N2M/?tag=tolees0ca-21)
+[![Columbia Street Elite Rucksack  Grau  Co](https://m.media-amazon.com/images/I/41Wzm6UCyEL._SL400_.jpg)](https://www.amazon.de/dp/B07KTL4N2M/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'POP Rocks: Metallica - James Hetfield mit 42.82 % Rabatt'
 date: 2020-02-29 03:58:46
-image: 'https://m.media-amazon.com/images/I/516eUXorlJL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516eUXorlJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.0'
 
 Sie können [POP Rocks: Metallica - James Hetfield](https://www.amazon.de/dp/B072KL77LR/?tag=tolees0ca-21) mit Preis 8.0 EUR (original: 13.99 EUR) 42.82 % Rabatt hier:
 
-[![POP Rocks: Metallica - James Hetfield](https://m.media-amazon.com/images/I/516eUXorlJL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B072KL77LR/?tag=tolees0ca-21)
+[![POP Rocks: Metallica - James Hetfield](https://m.media-amazon.com/images/I/516eUXorlJL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B072KL77LR/?tag=tolees0ca-21)
 
 ℹ️:
 

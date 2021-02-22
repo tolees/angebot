@@ -2,7 +2,7 @@
 layout: post
 title: '19.05 % rabat auf ACEPC T11 Mini-PC Windows 10 Pro  4GB DD'
 date: 2020-04-18 00:50:01
-image: 'https://m.media-amazon.com/images/I/41nHODJ+W8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nHODJ+W8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '169.99'
 
 Es gibt ein [ACEPC T11 Mini-PC Windows 10 Pro  4GB DDR3/ 64GB eMMC/ 120GB SSD Intel Atom x5-Z8350 Lüfterloser Mini-Computer  Unterstützung von 4K HD  2.4/ 5G WLAN  Gigabit Ethernet  HDMI/VGA Ausgang](https://www.amazon.de/dp/B07Y4S8QKQ/?tag=tolees0ca-21) mit aktuellem Preis 169.99 EUR (original: 209.99 EUR) 19.05 % Rabatt hier:
 
-[![ACEPC T11 Mini-PC Windows 10 Pro  4GB DD](https://m.media-amazon.com/images/I/41nHODJ+W8L._SL200_.jpg)](https://www.amazon.de/dp/B07Y4S8QKQ/?tag=tolees0ca-21)
+[![ACEPC T11 Mini-PC Windows 10 Pro  4GB DD](https://m.media-amazon.com/images/I/41nHODJ+W8L._SL400_.jpg)](https://www.amazon.de/dp/B07Y4S8QKQ/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '51.47 % rabat auf Funko 30032 Pop Movies Actionfigur Harry'
 date: 2020-03-24 13:08:22
-image: 'https://m.media-amazon.com/images/I/41r3LmzIggL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41r3LmzIggL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.396470588235294'
 
 Es gibt ein [Funko 30032 Pop Movies Actionfigur Harry Potter-Tom Riddle  Multicolour  Standard](https://www.amazon.de/dp/B079YFY2FG/?tag=tolees0ca-21) mit aktuellem Preis 6.79 EUR (original: 13.99 EUR) 51.47 % Rabatt hier:
 
-[![Funko 30032 Pop Movies Actionfigur Harry](https://m.media-amazon.com/images/I/41r3LmzIggL._SL200_.jpg)](https://www.amazon.de/dp/B079YFY2FG/?tag=tolees0ca-21)
+[![Funko 30032 Pop Movies Actionfigur Harry](https://m.media-amazon.com/images/I/41r3LmzIggL._SL400_.jpg)](https://www.amazon.de/dp/B079YFY2FG/?tag=tolees0ca-21)
 
 ℹ️:
 

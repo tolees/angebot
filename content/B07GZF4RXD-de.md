@@ -2,7 +2,7 @@
 layout: post
 title: '30.00 % rabat auf Thrustmaster T.Racing Scuderia Ferrari E'
 date: 2020-05-08 15:02:01
-image: 'https://m.media-amazon.com/images/I/41o1nMeeSqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41o1nMeeSqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.99'
 
 Es gibt ein [Thrustmaster T.Racing Scuderia Ferrari Edition  Gaming-Headset  50mm drivers  for PS4 / Xbox One / PC ](https://www.amazon.de/dp/B07GZF4RXD/?tag=tolees0ca-21) mit aktuellem Preis 69.99 EUR (original: 99.99 EUR) 30.00 % Rabatt hier:
 
-[![Thrustmaster T.Racing Scuderia Ferrari E](https://m.media-amazon.com/images/I/41o1nMeeSqL._SL200_.jpg)](https://www.amazon.de/dp/B07GZF4RXD/?tag=tolees0ca-21)
+[![Thrustmaster T.Racing Scuderia Ferrari E](https://m.media-amazon.com/images/I/41o1nMeeSqL._SL400_.jpg)](https://www.amazon.de/dp/B07GZF4RXD/?tag=tolees0ca-21)
 
 ℹ️:
 

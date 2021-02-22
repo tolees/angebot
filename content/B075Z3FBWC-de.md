@@ -2,7 +2,7 @@
 layout: post
 title: 'Hasbro Super Soaker E0022EU4 - Soakzooka mit 38.16 % Rabatt'
 date: 2020-04-18 00:09:19
-image: 'https://m.media-amazon.com/images/I/41zPxVq-aUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zPxVq-aUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.43166666666667'
 
 Sie können [Hasbro Super Soaker E0022EU4 - Soakzooka Wasserpistole  mit Mega-Wasserstrahl](https://www.amazon.de/dp/B075Z3FBWC/?tag=tolees0ca-21) mit Preis 16.69 EUR (original: 26.99 EUR) 38.16 % Rabatt hier:
 
-[![Hasbro Super Soaker E0022EU4 - Soakzooka](https://m.media-amazon.com/images/I/41zPxVq-aUL._SL200_.jpg)](https://www.amazon.de/dp/B075Z3FBWC/?tag=tolees0ca-21)
+[![Hasbro Super Soaker E0022EU4 - Soakzooka](https://m.media-amazon.com/images/I/41zPxVq-aUL._SL400_.jpg)](https://www.amazon.de/dp/B075Z3FBWC/?tag=tolees0ca-21)
 
 ℹ️:
 

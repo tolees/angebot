@@ -2,7 +2,7 @@
 layout: post
 title: '48.06 % rabat auf Lacoste Herren-Armbanduhr - 2010901'
 date: 2020-01-04 21:13:38
-image: 'https://images-eu.ssl-images-amazon.com/images/I/4126gRJW8GL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4126gRJW8GL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '98.16'
 
 Es gibt ein [Lacoste Herren-Armbanduhr - 2010901](https://www.amazon.de/dp/B01NAPUJ8F/?tag=tolees0ca-21) mit aktuellem Preis 98.16 EUR (original: 189 EUR) 48.06 % Rabatt hier:
 
-[![Lacoste Herren-Armbanduhr - 2010901](https://images-eu.ssl-images-amazon.com/images/I/4126gRJW8GL._SL200_.jpg)](https://www.amazon.de/dp/B01NAPUJ8F/?tag=tolees0ca-21)
+[![Lacoste Herren-Armbanduhr - 2010901](https://images-eu.ssl-images-amazon.com/images/I/4126gRJW8GL._SL400_.jpg)](https://www.amazon.de/dp/B01NAPUJ8F/?tag=tolees0ca-21)
 
 ℹ️:
 

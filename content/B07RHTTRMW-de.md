@@ -2,7 +2,7 @@
 layout: post
 title: 'Bose SoundLink Color Bluetooth speaker I mit 32.13 % Rabatt'
 date: 2020-06-06 15:04:07
-image: 'https://m.media-amazon.com/images/I/51Mdsf6YllL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Mdsf6YllL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '94.99'
 
 Sie können [Bose SoundLink Color Bluetooth speaker II - Yellow](https://www.amazon.de/dp/B07RHTTRMW/?tag=tolees0ca-21) mit Preis 94.99 EUR (original: 139.95 EUR) 32.13 % Rabatt hier:
 
-[![Bose SoundLink Color Bluetooth speaker I](https://m.media-amazon.com/images/I/51Mdsf6YllL._SL200_.jpg)](https://www.amazon.de/dp/B07RHTTRMW/?tag=tolees0ca-21)
+[![Bose SoundLink Color Bluetooth speaker I](https://m.media-amazon.com/images/I/51Mdsf6YllL._SL400_.jpg)](https://www.amazon.de/dp/B07RHTTRMW/?tag=tolees0ca-21)
 
 ℹ️:
 

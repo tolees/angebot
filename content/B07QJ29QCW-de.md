@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko B07QJ29QCW POP Vinyl Games Bandico mit 22.91 % Rabatt'
 date: 2020-03-13 02:29:13
-image: 'https://m.media-amazon.com/images/I/41XIaTgdAnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XIaTgdAnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.766666666666666'
 
 Sie können [Funko B07QJ29QCW POP Vinyl Games Bandicoot-Crash Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B07QJ29QCW/?tag=tolees0ca-21) mit Preis 10.43 EUR (original: 13.53 EUR) 22.91 % Rabatt hier:
 
-[![Funko B07QJ29QCW POP Vinyl Games Bandico](https://m.media-amazon.com/images/I/41XIaTgdAnL._SL200_.jpg)](https://www.amazon.de/dp/B07QJ29QCW/?tag=tolees0ca-21)
+[![Funko B07QJ29QCW POP Vinyl Games Bandico](https://m.media-amazon.com/images/I/41XIaTgdAnL._SL400_.jpg)](https://www.amazon.de/dp/B07QJ29QCW/?tag=tolees0ca-21)
 
 ℹ️:
 

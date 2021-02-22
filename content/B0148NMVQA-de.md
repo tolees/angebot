@@ -2,7 +2,7 @@
 layout: post
 title: '29.97 % rabat auf Philips Hue LightStrip+ Basis Set  ohne '
 date: 2020-02-12 12:43:59
-image: 'https://m.media-amazon.com/images/I/41SJAzo3K3L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SJAzo3K3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.99'
 
 Es gibt ein [Philips Hue LightStrip+ Basis Set  ohne Bridge   2m  flexibel erweiterbar  dimmbar  bis zu 16 Millionen Farben  steuerbar via App  kompatibel mit Amazon Alexa  Echo  Echo Dot ](https://www.amazon.de/dp/B0148NMVQA/?tag=tolees0ca-21) mit aktuellem Preis 55.99 EUR (original: 79.95 EUR) 29.97 % Rabatt hier:
 
-[![Philips Hue LightStrip+ Basis Set  ohne ](https://m.media-amazon.com/images/I/41SJAzo3K3L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B0148NMVQA/?tag=tolees0ca-21)
+[![Philips Hue LightStrip+ Basis Set  ohne ](https://m.media-amazon.com/images/I/41SJAzo3K3L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B0148NMVQA/?tag=tolees0ca-21)
 
 ℹ️:
 

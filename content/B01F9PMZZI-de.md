@@ -2,7 +2,7 @@
 layout: post
 title: '182/im Haus des Henkers mit 50.06 % Rabatt'
 date: 2020-02-04 05:19:34
-image: 'https://m.media-amazon.com/images/I/61iFPHb99KL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61iFPHb99KL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.99'
 
 Sie können [182/im Haus des Henkers](https://www.amazon.de/dp/B01F9PMZZI/?tag=tolees0ca-21) mit Preis 3.99 EUR (original: 7.99 EUR) 50.06 % Rabatt hier:
 
-[![182/im Haus des Henkers](https://m.media-amazon.com/images/I/61iFPHb99KL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01F9PMZZI/?tag=tolees0ca-21)
+[![182/im Haus des Henkers](https://m.media-amazon.com/images/I/61iFPHb99KL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01F9PMZZI/?tag=tolees0ca-21)
 
 ℹ️:
 

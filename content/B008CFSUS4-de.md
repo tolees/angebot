@@ -2,7 +2,7 @@
 layout: post
 title: '17.15 % rabat auf Drive Medical Duschhocker 12004KDR  weiß'
 date: 2020-02-14 04:55:42
-image: 'https://m.media-amazon.com/images/I/31TagOfSx5L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31TagOfSx5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.11'
 
 Es gibt ein [Drive Medical Duschhocker 12004KDR  weiß  verstellbar](https://www.amazon.de/dp/B008CFSUS4/?tag=tolees0ca-21) mit aktuellem Preis 18.11 EUR (original: 21.86 EUR) 17.15 % Rabatt hier:
 
-[![Drive Medical Duschhocker 12004KDR  weiß](https://m.media-amazon.com/images/I/31TagOfSx5L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B008CFSUS4/?tag=tolees0ca-21)
+[![Drive Medical Duschhocker 12004KDR  weiß](https://m.media-amazon.com/images/I/31TagOfSx5L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B008CFSUS4/?tag=tolees0ca-21)
 
 ℹ️:
 

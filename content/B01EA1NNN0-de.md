@@ -2,7 +2,7 @@
 layout: post
 title: '52.66 % rabat auf Microsoft Office Home and Student 2016 |'
 date: 2020-04-15 23:45:08
-image: 'https://m.media-amazon.com/images/I/41nZNMi+-HL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nZNMi+-HL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '76.33333333333334'
 
 Es gibt ein [Microsoft Office Home and Student 2016 | PC | Box](https://www.amazon.de/dp/B01EA1NNN0/?tag=tolees0ca-21) mit aktuellem Preis 71.0 EUR (original: 149.99 EUR) 52.66 % Rabatt hier:
 
-[![Microsoft Office Home and Student 2016 |](https://m.media-amazon.com/images/I/41nZNMi+-HL._SL200_.jpg)](https://www.amazon.de/dp/B01EA1NNN0/?tag=tolees0ca-21)
+[![Microsoft Office Home and Student 2016 |](https://m.media-amazon.com/images/I/41nZNMi+-HL._SL400_.jpg)](https://www.amazon.de/dp/B01EA1NNN0/?tag=tolees0ca-21)
 
 ℹ️:
 

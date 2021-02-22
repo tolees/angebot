@@ -2,7 +2,7 @@
 layout: post
 title: '40.19 % rabat auf VARTA Longlife Power Batterie 4 5 V Bloc'
 date: 2020-03-06 04:54:33
-image: 'https://m.media-amazon.com/images/I/41SRQ8v2DmL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SRQ8v2DmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.5'
 
 Es gibt ein [VARTA Longlife Power Batterie 4 5 V Block Alkaline Batterien 3LR12 - 1er Pack](https://www.amazon.de/dp/B000EGSGOW/?tag=tolees0ca-21) mit aktuellem Preis 2.5 EUR (original: 4.18 EUR) 40.19 % Rabatt hier:
 
-[![VARTA Longlife Power Batterie 4 5 V Bloc](https://m.media-amazon.com/images/I/41SRQ8v2DmL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B000EGSGOW/?tag=tolees0ca-21)
+[![VARTA Longlife Power Batterie 4 5 V Bloc](https://m.media-amazon.com/images/I/41SRQ8v2DmL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B000EGSGOW/?tag=tolees0ca-21)
 
 ℹ️:
 

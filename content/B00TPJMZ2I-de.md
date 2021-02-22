@@ -2,7 +2,7 @@
 layout: post
 title: '40.41 % rabat auf Milwaukee Akku  M18 B5  18 V/5.0 Ah Red '
 date: 2020-03-20 07:54:02
-image: 'https://m.media-amazon.com/images/I/414CwO6CVcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414CwO6CVcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.99'
 
 Es gibt ein [Milwaukee Akku  M18 B5  18 V/5.0 Ah Red Li-Ion](https://www.amazon.de/dp/B00TPJMZ2I/?tag=tolees0ca-21) mit aktuellem Preis 37.99 EUR (original: 63.75 EUR) 40.41 % Rabatt hier:
 
-[![Milwaukee Akku  M18 B5  18 V/5.0 Ah Red ](https://m.media-amazon.com/images/I/414CwO6CVcL._SL200_.jpg)](https://www.amazon.de/dp/B00TPJMZ2I/?tag=tolees0ca-21)
+[![Milwaukee Akku  M18 B5  18 V/5.0 Ah Red ](https://m.media-amazon.com/images/I/414CwO6CVcL._SL400_.jpg)](https://www.amazon.de/dp/B00TPJMZ2I/?tag=tolees0ca-21)
 
 ℹ️:
 

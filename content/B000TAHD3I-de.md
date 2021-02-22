@@ -2,7 +2,7 @@
 layout: post
 title: 'Flipper mit 25.41 % Rabatt'
 date: 2020-04-10 00:05:26
-image: 'https://m.media-amazon.com/images/I/51+XjQ0wBfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+XjQ0wBfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.89'
 
 Sie können [Flipper](https://www.amazon.de/dp/B000TAHD3I/?tag=tolees0ca-21) mit Preis 11.89 EUR (original: 15.94 EUR) 25.41 % Rabatt hier:
 
-[![Flipper](https://m.media-amazon.com/images/I/51+XjQ0wBfL._SL200_.jpg)](https://www.amazon.de/dp/B000TAHD3I/?tag=tolees0ca-21)
+[![Flipper](https://m.media-amazon.com/images/I/51+XjQ0wBfL._SL400_.jpg)](https://www.amazon.de/dp/B000TAHD3I/?tag=tolees0ca-21)
 
 ℹ️:
 

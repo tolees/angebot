@@ -2,7 +2,7 @@
 layout: post
 title: '34.78 % rabat auf Bandai – Miraculous Ladybug – Verwandlun'
 date: 2020-09-11 08:18:00
-image: 'https://m.media-amazon.com/images/I/51OzP1L7OhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51OzP1L7OhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.5'
 
 Es gibt ein [Bandai – Miraculous Ladybug – Verwandlungsset – Verkleiden – Rollenspiel – 39749](https://www.amazon.de/dp/B01C8OMP8A/?tag=tolees0ca-21) mit aktuellem Preis 19.5 EUR (original: 29.9 EUR) 34.78 % Rabatt hier:
 
-[![Bandai – Miraculous Ladybug – Verwandlun](https://m.media-amazon.com/images/I/51OzP1L7OhL._SL200_.jpg)](https://www.amazon.de/dp/B01C8OMP8A/?tag=tolees0ca-21)
+[![Bandai – Miraculous Ladybug – Verwandlun](https://m.media-amazon.com/images/I/51OzP1L7OhL._SL400_.jpg)](https://www.amazon.de/dp/B01C8OMP8A/?tag=tolees0ca-21)
 
 ℹ️:
 

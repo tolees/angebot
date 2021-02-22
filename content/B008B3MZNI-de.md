@@ -2,7 +2,7 @@
 layout: post
 title: 'Supertramp: Live In Paris  79 [Blu-ray]  mit 40.35 % Rabatt'
 date: 2020-09-16 05:46:45
-image: 'https://m.media-amazon.com/images/I/41w6FtBciYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41w6FtBciYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.16'
 
 Sie können [Supertramp: Live In Paris  79 [Blu-ray] [2012][Region Free] [UK Import]](https://www.amazon.de/dp/B008B3MZNI/?tag=tolees0ca-21) mit Preis 11.16 EUR (original: 18.71 EUR) 40.35 % Rabatt hier:
 
-[![Supertramp: Live In Paris  79 [Blu-ray] ](https://m.media-amazon.com/images/I/41w6FtBciYL._SL200_.jpg)](https://www.amazon.de/dp/B008B3MZNI/?tag=tolees0ca-21)
+[![Supertramp: Live In Paris  79 [Blu-ray] ](https://m.media-amazon.com/images/I/41w6FtBciYL._SL400_.jpg)](https://www.amazon.de/dp/B008B3MZNI/?tag=tolees0ca-21)
 
 ℹ️:
 

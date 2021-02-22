@@ -2,7 +2,7 @@
 layout: post
 title: '20.00 % rabat auf Detektiv Conan - TV-Serie - Vol.9 - [DVD'
 date: 2020-04-10 23:47:01
-image: 'https://m.media-amazon.com/images/I/51PPCJ3KF3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51PPCJ3KF3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.99'
 
 Es gibt ein [Detektiv Conan - TV-Serie - Vol.9 - [DVD]](https://www.amazon.de/dp/B07PK6MXP8/?tag=tolees0ca-21) mit aktuellem Preis 39.99 EUR (original: 49.99 EUR) 20.00 % Rabatt hier:
 
-[![Detektiv Conan - TV-Serie - Vol.9 - [DVD](https://m.media-amazon.com/images/I/51PPCJ3KF3L._SL200_.jpg)](https://www.amazon.de/dp/B07PK6MXP8/?tag=tolees0ca-21)
+[![Detektiv Conan - TV-Serie - Vol.9 - [DVD](https://m.media-amazon.com/images/I/51PPCJ3KF3L._SL400_.jpg)](https://www.amazon.de/dp/B07PK6MXP8/?tag=tolees0ca-21)
 
 ℹ️:
 

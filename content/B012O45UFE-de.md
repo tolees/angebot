@@ -2,7 +2,7 @@
 layout: post
 title: 'Unbekannt Quadratische Pappteller 22 9 c mit 71.93 % Rabatt'
 date: 2020-03-18 02:32:54
-image: 'https://m.media-amazon.com/images/I/51lV4u2gwnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lV4u2gwnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.12'
 
 Sie können [Unbekannt Quadratische Pappteller 22 9 cm  8er-Packung](https://www.amazon.de/dp/B012O45UFE/?tag=tolees0ca-21) mit Preis 1.12 EUR (original: 3.99 EUR) 71.93 % Rabatt hier:
 
-[![Unbekannt Quadratische Pappteller 22 9 c](https://m.media-amazon.com/images/I/51lV4u2gwnL._SL200_.jpg)](https://www.amazon.de/dp/B012O45UFE/?tag=tolees0ca-21)
+[![Unbekannt Quadratische Pappteller 22 9 c](https://m.media-amazon.com/images/I/51lV4u2gwnL._SL400_.jpg)](https://www.amazon.de/dp/B012O45UFE/?tag=tolees0ca-21)
 
 ℹ️:
 

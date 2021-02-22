@@ -2,7 +2,7 @@
 layout: post
 title: '78.74 % rabat auf EMOS 1x universales selbstverschweißende'
 date: 2020-02-25 22:19:06
-image: 'https://m.media-amazon.com/images/I/51MihVZUIxL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51MihVZUIxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.35'
 
 Es gibt ein [EMOS 1x universales selbstverschweißendes Band  LxBxH 5 m x 25 mm x 0 76 mm  für Außenbereich als Isolierband  Dichtungsband  Reparaturband geeignet  schwarz](https://www.amazon.de/dp/B014WKULNY/?tag=tolees0ca-21) mit aktuellem Preis 1.35 EUR (original: 6.35 EUR) 78.74 % Rabatt hier:
 
-[![EMOS 1x universales selbstverschweißende](https://m.media-amazon.com/images/I/51MihVZUIxL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B014WKULNY/?tag=tolees0ca-21)
+[![EMOS 1x universales selbstverschweißende](https://m.media-amazon.com/images/I/51MihVZUIxL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B014WKULNY/?tag=tolees0ca-21)
 
 ℹ️:
 

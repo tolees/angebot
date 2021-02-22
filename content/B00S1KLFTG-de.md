@@ -2,7 +2,7 @@
 layout: post
 title: 'WOLF-Garten Unkrautvernichter plus Rasen mit 19.17 % Rabatt'
 date: 2020-03-14 04:57:00
-image: 'https://m.media-amazon.com/images/I/41nZy3xDYKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nZy3xDYKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.99'
 
 Sie können [WOLF-Garten Unkrautvernichter plus Rasendünger SQ 250  mehrfarbig](https://www.amazon.de/dp/B00S1KLFTG/?tag=tolees0ca-21) mit Preis 27.99 EUR (original: 34.63 EUR) 19.17 % Rabatt hier:
 
-[![WOLF-Garten Unkrautvernichter plus Rasen](https://m.media-amazon.com/images/I/41nZy3xDYKL._SL200_.jpg)](https://www.amazon.de/dp/B00S1KLFTG/?tag=tolees0ca-21)
+[![WOLF-Garten Unkrautvernichter plus Rasen](https://m.media-amazon.com/images/I/41nZy3xDYKL._SL400_.jpg)](https://www.amazon.de/dp/B00S1KLFTG/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'The Afterlove mit 15.03 % Rabatt'
 date: 2020-01-27 04:41:46
-image: 'https://m.media-amazon.com/images/I/517evVaVCeL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/517evVaVCeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.09'
 
 Sie können [The Afterlove](https://www.amazon.de/dp/B01MZBSJKA/?tag=tolees0ca-21) mit Preis 5.09 EUR (original: 5.99 EUR) 15.03 % Rabatt hier:
 
-[![The Afterlove](https://m.media-amazon.com/images/I/517evVaVCeL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01MZBSJKA/?tag=tolees0ca-21)
+[![The Afterlove](https://m.media-amazon.com/images/I/517evVaVCeL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01MZBSJKA/?tag=tolees0ca-21)
 
 ℹ️:
 

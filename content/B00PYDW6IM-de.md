@@ -2,7 +2,7 @@
 layout: post
 title: '18.33 % rabat auf Nike Md Runner 2  Herren Gymnastikschuhe'
 date: 2020-08-08 10:09:29
-image: 'https://m.media-amazon.com/images/I/414K992h9aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414K992h9aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '53.9'
 
 Es gibt ein [Nike Md Runner 2  Herren Gymnastikschuhe  Blau  Midnight Navy/White-Wolf Grey   42 EU](https://www.amazon.de/dp/B00PYDW6IM/?tag=tolees0ca-21) mit aktuellem Preis 53.9 EUR (original: 66.0 EUR) 18.33 % Rabatt hier:
 
-[![Nike Md Runner 2  Herren Gymnastikschuhe](https://m.media-amazon.com/images/I/414K992h9aL._SL200_.jpg)](https://www.amazon.de/dp/B00PYDW6IM/?tag=tolees0ca-21)
+[![Nike Md Runner 2  Herren Gymnastikschuhe](https://m.media-amazon.com/images/I/414K992h9aL._SL400_.jpg)](https://www.amazon.de/dp/B00PYDW6IM/?tag=tolees0ca-21)
 
 ℹ️:
 

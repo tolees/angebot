@@ -2,7 +2,7 @@
 layout: post
 title: 'Parker IM Füller | schwarze Lackierung m mit 63.41 % Rabatt'
 date: 2020-09-24 19:50:48
-image: 'https://m.media-amazon.com/images/I/31M5Q78AFHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31M5Q78AFHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.38'
 
 Sie können [Parker IM Füller | schwarze Lackierung mit Chromzierteilen | Füllfederhalter Mittlere Spitze | Geschenkbox](https://www.amazon.de/dp/B01M1AIV31/?tag=tolees0ca-21) mit Preis 17.38 EUR (original: 47.5 EUR) 63.41 % Rabatt hier:
 
-[![Parker IM Füller | schwarze Lackierung m](https://m.media-amazon.com/images/I/31M5Q78AFHL._SL200_.jpg)](https://www.amazon.de/dp/B01M1AIV31/?tag=tolees0ca-21)
+[![Parker IM Füller | schwarze Lackierung m](https://m.media-amazon.com/images/I/31M5Q78AFHL._SL400_.jpg)](https://www.amazon.de/dp/B01M1AIV31/?tag=tolees0ca-21)
 
 ℹ️:
 

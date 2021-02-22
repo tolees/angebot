@@ -2,7 +2,7 @@
 layout: post
 title: 'BaByliss ST330E Glätteisen 2in1 Straight mit 51.96 % Rabatt'
 date: 2020-09-12 17:38:55
-image: 'https://m.media-amazon.com/images/I/31nd45LaE6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nd45LaE6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.97'
 
 Sie können [BaByliss ST330E Glätteisen 2in1 Straight & Curl Intense Protect](https://www.amazon.de/dp/B00KSQQ5SM/?tag=tolees0ca-21) mit Preis 23.97 EUR (original: 49.9 EUR) 51.96 % Rabatt hier:
 
-[![BaByliss ST330E Glätteisen 2in1 Straight](https://m.media-amazon.com/images/I/31nd45LaE6L._SL200_.jpg)](https://www.amazon.de/dp/B00KSQQ5SM/?tag=tolees0ca-21)
+[![BaByliss ST330E Glätteisen 2in1 Straight](https://m.media-amazon.com/images/I/31nd45LaE6L._SL400_.jpg)](https://www.amazon.de/dp/B00KSQQ5SM/?tag=tolees0ca-21)
 
 ℹ️:
 

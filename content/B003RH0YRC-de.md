@@ -2,7 +2,7 @@
 layout: post
 title: '25.50 % rabat auf Bullyland 12764 - Spielfigur  Walt Disne'
 date: 2020-04-11 08:09:03
-image: 'https://m.media-amazon.com/images/I/510MKXjrhnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510MKXjrhnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.09'
 
 Es gibt ein [Bullyland 12764 - Spielfigur  Walt Disney Toy Story 3  Rex  ca. 7 5 cm groß  liebevoll handbemalte Figur  PVC-frei  tolles Geschenk für Jungen und Mädchen zum fantasievollen Spielen](https://www.amazon.de/dp/B003RH0YRC/?tag=tolees0ca-21) mit aktuellem Preis 4.09 EUR (original: 5.49 EUR) 25.50 % Rabatt hier:
 
-[![Bullyland 12764 - Spielfigur  Walt Disne](https://m.media-amazon.com/images/I/510MKXjrhnL._SL200_.jpg)](https://www.amazon.de/dp/B003RH0YRC/?tag=tolees0ca-21)
+[![Bullyland 12764 - Spielfigur  Walt Disne](https://m.media-amazon.com/images/I/510MKXjrhnL._SL400_.jpg)](https://www.amazon.de/dp/B003RH0YRC/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Konturenlehre Konturmessgerät Duplikator mit 46.19 % Rabatt'
 date: 2020-04-16 08:41:57
-image: 'https://m.media-amazon.com/images/I/51DwgTbkwmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51DwgTbkwmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Sie können [Konturenlehre Konturmessgerät Duplikator Profil Messwerkzeugkontur Konturmesser vervielfältigungslehre Profil Messwerkzeug unregelmäßiges Profilmessgerät Kopierlehre  12cm ](https://www.amazon.de/dp/B07PJLJQWC/?tag=tolees0ca-21) mit Preis 6.99 EUR (original: 12.99 EUR) 46.19 % Rabatt hier:
 
-[![Konturenlehre Konturmessgerät Duplikator](https://m.media-amazon.com/images/I/51DwgTbkwmL._SL200_.jpg)](https://www.amazon.de/dp/B07PJLJQWC/?tag=tolees0ca-21)
+[![Konturenlehre Konturmessgerät Duplikator](https://m.media-amazon.com/images/I/51DwgTbkwmL._SL400_.jpg)](https://www.amazon.de/dp/B07PJLJQWC/?tag=tolees0ca-21)
 
 ℹ️:
 

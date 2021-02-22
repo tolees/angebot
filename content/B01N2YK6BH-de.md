@@ -2,7 +2,7 @@
 layout: post
 title: '34.01 % rabat auf Ravensburger 20782  - STAR WARS Elfer ra'
 date: 2020-04-10 23:56:30
-image: 'https://m.media-amazon.com/images/I/51JmvQeLxXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51JmvQeLxXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.84'
 
 Es gibt ein [Ravensburger 20782  - STAR WARS Elfer raus! Familienspiel](https://www.amazon.de/dp/B01N2YK6BH/?tag=tolees0ca-21) mit aktuellem Preis 5.84 EUR (original: 8.85 EUR) 34.01 % Rabatt hier:
 
-[![Ravensburger 20782  - STAR WARS Elfer ra](https://m.media-amazon.com/images/I/51JmvQeLxXL._SL200_.jpg)](https://www.amazon.de/dp/B01N2YK6BH/?tag=tolees0ca-21)
+[![Ravensburger 20782  - STAR WARS Elfer ra](https://m.media-amazon.com/images/I/51JmvQeLxXL._SL400_.jpg)](https://www.amazon.de/dp/B01N2YK6BH/?tag=tolees0ca-21)
 
 ℹ️:
 

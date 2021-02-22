@@ -2,7 +2,7 @@
 layout: post
 title: '30.85 % rabat auf HP Officejet 3831 Multifunktionsdrucker '
 date: 2020-01-07 08:18:45
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Iw5Ypki1L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Iw5Ypki1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '62.17'
 
 Es gibt ein [HP Officejet 3831 Multifunktionsdrucker  Instant Ink  Drucker  Kopierer  Scanner  Fax  WLAN  Airprint  mit 2 Probemonaten HP Instant Ink inklusive](https://www.amazon.de/dp/B01HIH1P06/?tag=tolees0ca-21) mit aktuellem Preis 62.17 EUR (original: 89.9 EUR) 30.85 % Rabatt hier:
 
-[![HP Officejet 3831 Multifunktionsdrucker ](https://images-eu.ssl-images-amazon.com/images/I/41Iw5Ypki1L._SL200_.jpg)](https://www.amazon.de/dp/B01HIH1P06/?tag=tolees0ca-21)
+[![HP Officejet 3831 Multifunktionsdrucker ](https://images-eu.ssl-images-amazon.com/images/I/41Iw5Ypki1L._SL400_.jpg)](https://www.amazon.de/dp/B01HIH1P06/?tag=tolees0ca-21)
 
 ℹ️:
 

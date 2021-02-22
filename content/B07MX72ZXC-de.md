@@ -2,7 +2,7 @@
 layout: post
 title: '65.00 % rabat auf Lightailing Licht-Set Für  Star Wars Sup'
 date: 2020-04-10 23:53:00
-image: 'https://m.media-amazon.com/images/I/411X71mRl+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411X71mRl+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.99'
 
 Es gibt ein [Lightailing Licht-Set Für  Star Wars Super Star Zerstörer  Modell - LED Licht-Set Kompatibel Mit Lego 10221 Modell NICHT Enthalten ](https://www.amazon.de/dp/B07MX72ZXC/?tag=tolees0ca-21) mit aktuellem Preis 69.99 EUR (original: 200.0 EUR) 65.00 % Rabatt hier:
 
-[![Lightailing Licht-Set Für  Star Wars Sup](https://m.media-amazon.com/images/I/411X71mRl+L._SL200_.jpg)](https://www.amazon.de/dp/B07MX72ZXC/?tag=tolees0ca-21)
+[![Lightailing Licht-Set Für  Star Wars Sup](https://m.media-amazon.com/images/I/411X71mRl+L._SL400_.jpg)](https://www.amazon.de/dp/B07MX72ZXC/?tag=tolees0ca-21)
 
 ℹ️:
 

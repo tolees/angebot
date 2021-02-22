@@ -2,7 +2,7 @@
 layout: post
 title: '15.01 % rabat auf 24 Farben Luft trockenen Lehm  Ultra Lig'
 date: 2020-04-17 16:18:20
-image: 'https://m.media-amazon.com/images/I/51GPKvrK6JL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51GPKvrK6JL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Es gibt ein [24 Farben Luft trockenen Lehm  Ultra Light Modellierung Clay  QMay Magic Clay Künstler Studio Spielzeug  ungiftig Modellierung Clay & Teig  kreative Kunst DIY Handwerk  Geschenk für Kinder  Tasse ](https://www.amazon.de/dp/B076DQWD8G/?tag=tolees0ca-21) mit aktuellem Preis 16.99 EUR (original: 19.99 EUR) 15.01 % Rabatt hier:
 
-[![24 Farben Luft trockenen Lehm  Ultra Lig](https://m.media-amazon.com/images/I/51GPKvrK6JL._SL200_.jpg)](https://www.amazon.de/dp/B076DQWD8G/?tag=tolees0ca-21)
+[![24 Farben Luft trockenen Lehm  Ultra Lig](https://m.media-amazon.com/images/I/51GPKvrK6JL._SL400_.jpg)](https://www.amazon.de/dp/B076DQWD8G/?tag=tolees0ca-21)
 
 ℹ️:
 

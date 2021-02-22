@@ -2,7 +2,7 @@
 layout: post
 title: '72.38 % rabat auf Wunderbare Macht [Blu-ray]'
 date: 2020-04-13 23:43:39
-image: 'https://m.media-amazon.com/images/I/51UWA9h6osL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51UWA9h6osL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.69'
 
 Es gibt ein [Wunderbare Macht [Blu-ray]](https://www.amazon.de/dp/B00J9W0EXI/?tag=tolees0ca-21) mit aktuellem Preis 2.69 EUR (original: 9.74 EUR) 72.38 % Rabatt hier:
 
-[![Wunderbare Macht [Blu-ray]](https://m.media-amazon.com/images/I/51UWA9h6osL._SL200_.jpg)](https://www.amazon.de/dp/B00J9W0EXI/?tag=tolees0ca-21)
+[![Wunderbare Macht [Blu-ray]](https://m.media-amazon.com/images/I/51UWA9h6osL._SL400_.jpg)](https://www.amazon.de/dp/B00J9W0EXI/?tag=tolees0ca-21)
 
 ℹ️:
 

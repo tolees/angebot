@@ -2,7 +2,7 @@
 layout: post
 title: '17.32 % rabat auf HAN Briefablage KLASSIK 1026-X-23  in Tr'
 date: 2020-02-23 05:05:22
-image: 'https://m.media-amazon.com/images/I/31-XdFvslrL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-XdFvslrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.98'
 
 Es gibt ein [HAN Briefablage KLASSIK 1026-X-23  in Transparent-Glasklar / Hochwertige  stapelbare Ablage im modernen Design / Für Briefe & Papiere bis Format A4–C4  6 Stück](https://www.amazon.de/dp/B001AHN4A0/?tag=tolees0ca-21) mit aktuellem Preis 10.98 EUR (original: 13.28 EUR) 17.32 % Rabatt hier:
 
-[![HAN Briefablage KLASSIK 1026-X-23  in Tr](https://m.media-amazon.com/images/I/31-XdFvslrL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B001AHN4A0/?tag=tolees0ca-21)
+[![HAN Briefablage KLASSIK 1026-X-23  in Tr](https://m.media-amazon.com/images/I/31-XdFvslrL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B001AHN4A0/?tag=tolees0ca-21)
 
 ℹ️:
 

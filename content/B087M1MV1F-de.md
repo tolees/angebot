@@ -2,7 +2,7 @@
 layout: post
 title: 'Banane NEU 2020 2 Paar Niedlicher Ersatz mit 50.21 % Rabatt'
 date: 2020-08-30 23:41:21
-image: 'https://m.media-amazon.com/images/I/41v4Y+qrpeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41v4Y+qrpeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.235'
 
 Sie können [Banane NEU 2020 2 Paar Niedlicher Ersatz Silikon Analog Controller Joystick Daumenstiel Griffe Kappenabdeckung Für Switch/LITE Controller-Blätter  Grün ](https://www.amazon.de/dp/B087M1MV1F/?tag=tolees0ca-21) mit Preis 3.48 EUR (original: 6.99 EUR) 50.21 % Rabatt hier:
 
-[![Banane NEU 2020 2 Paar Niedlicher Ersatz](https://m.media-amazon.com/images/I/41v4Y+qrpeL._SL200_.jpg)](https://www.amazon.de/dp/B087M1MV1F/?tag=tolees0ca-21)
+[![Banane NEU 2020 2 Paar Niedlicher Ersatz](https://m.media-amazon.com/images/I/41v4Y+qrpeL._SL400_.jpg)](https://www.amazon.de/dp/B087M1MV1F/?tag=tolees0ca-21)
 
 ℹ️:
 

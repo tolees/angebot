@@ -2,7 +2,7 @@
 layout: post
 title: '40.54 % rabat auf Romoss Powerbank 10000mAh  Externer Akku'
 date: 2020-05-18 16:24:41
-image: 'https://m.media-amazon.com/images/I/4134Lv5bzgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4134Lv5bzgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.86'
 
 Es gibt ein [Romoss Powerbank 10000mAh  Externer Akku mit 2-Port Output Mini  Akkupack mit LED-Statusanzeige für i Phone  S umsung  Huawei und Handys  Smartphones  Tablets  usw. Minzgrün](https://www.amazon.de/dp/B07BWH668J/?tag=tolees0ca-21) mit aktuellem Preis 14.86 EUR (original: 24.99 EUR) 40.54 % Rabatt hier:
 
-[![Romoss Powerbank 10000mAh  Externer Akku](https://m.media-amazon.com/images/I/4134Lv5bzgL._SL200_.jpg)](https://www.amazon.de/dp/B07BWH668J/?tag=tolees0ca-21)
+[![Romoss Powerbank 10000mAh  Externer Akku](https://m.media-amazon.com/images/I/4134Lv5bzgL._SL400_.jpg)](https://www.amazon.de/dp/B07BWH668J/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '42.23 % rabat auf Dell KB216 580-ADHE Mutlimedia Tastatur '
 date: 2020-02-07 19:53:40
-image: 'https://m.media-amazon.com/images/I/415KsBwGrOL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415KsBwGrOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.0'
 
 Es gibt ein [Dell KB216 580-ADHE Mutlimedia Tastatur schwarz  QWERTZ ](https://www.amazon.de/dp/B0114LNOS8/?tag=tolees0ca-21) mit aktuellem Preis 11.0 EUR (original: 19.04 EUR) 42.23 % Rabatt hier:
 
-[![Dell KB216 580-ADHE Mutlimedia Tastatur ](https://m.media-amazon.com/images/I/415KsBwGrOL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B0114LNOS8/?tag=tolees0ca-21)
+[![Dell KB216 580-ADHE Mutlimedia Tastatur ](https://m.media-amazon.com/images/I/415KsBwGrOL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B0114LNOS8/?tag=tolees0ca-21)
 
 ℹ️:
 

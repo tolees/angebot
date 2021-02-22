@@ -2,7 +2,7 @@
 layout: post
 title: 'Amazon Kindle Paperwhite Lederhülle  Ony mit 37.64 % Rabatt'
 date: 2020-04-16 17:36:33
-image: 'https://m.media-amazon.com/images/I/51YgOuV00EL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51YgOuV00EL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.82'
 
 Sie können [Amazon Kindle Paperwhite Lederhülle  Onyx-Schwarz – nicht geeignet für Modelle der 10. Generation  2018 ](https://www.amazon.de/dp/B008BQH1NO/?tag=tolees0ca-21) mit Preis 21.82 EUR (original: 34.99 EUR) 37.64 % Rabatt hier:
 
-[![Amazon Kindle Paperwhite Lederhülle  Ony](https://m.media-amazon.com/images/I/51YgOuV00EL._SL200_.jpg)](https://www.amazon.de/dp/B008BQH1NO/?tag=tolees0ca-21)
+[![Amazon Kindle Paperwhite Lederhülle  Ony](https://m.media-amazon.com/images/I/51YgOuV00EL._SL400_.jpg)](https://www.amazon.de/dp/B008BQH1NO/?tag=tolees0ca-21)
 
 ℹ️:
 

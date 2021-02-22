@@ -2,7 +2,7 @@
 layout: post
 title: 'Hendrick s Gin – der einzigartige Gin mi mit 22.86 % Rabatt'
 date: 2020-04-17 12:38:14
-image: 'https://m.media-amazon.com/images/I/4147dDiahSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4147dDiahSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.49'
 
 Sie können [Hendrick s Gin – der einzigartige Gin mit Gurken und Rosenblattessenzen  1 x 0.7 l  44% Vol.](https://www.amazon.de/dp/B004LLZP3Q/?tag=tolees0ca-21) mit Preis 26.99 EUR (original: 34.99 EUR) 22.86 % Rabatt hier:
 
-[![Hendrick s Gin – der einzigartige Gin mi](https://m.media-amazon.com/images/I/4147dDiahSL._SL200_.jpg)](https://www.amazon.de/dp/B004LLZP3Q/?tag=tolees0ca-21)
+[![Hendrick s Gin – der einzigartige Gin mi](https://m.media-amazon.com/images/I/4147dDiahSL._SL400_.jpg)](https://www.amazon.de/dp/B004LLZP3Q/?tag=tolees0ca-21)
 
 ℹ️:
 

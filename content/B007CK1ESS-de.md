@@ -2,7 +2,7 @@
 layout: post
 title: 'NUK Babyphone mit Kamera Eco Control+ Vi mit 48.37 % Rabatt'
 date: 2020-04-07 13:05:52
-image: 'https://m.media-amazon.com/images/I/41zR-oNSdHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zR-oNSdHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '131.44'
 
 Sie können [NUK Babyphone mit Kamera Eco Control+ Video  mit Gegensprechfunktion & Temperatursensor  frei von hochfrequenter Strahlung im Eco-Mode](https://www.amazon.de/dp/B007CK1ESS/?tag=tolees0ca-21) mit Preis 133.68 EUR (original: 258.9 EUR) 48.37 % Rabatt hier:
 
-[![NUK Babyphone mit Kamera Eco Control+ Vi](https://m.media-amazon.com/images/I/41zR-oNSdHL._SL200_.jpg)](https://www.amazon.de/dp/B007CK1ESS/?tag=tolees0ca-21)
+[![NUK Babyphone mit Kamera Eco Control+ Vi](https://m.media-amazon.com/images/I/41zR-oNSdHL._SL400_.jpg)](https://www.amazon.de/dp/B007CK1ESS/?tag=tolees0ca-21)
 
 ℹ️:
 

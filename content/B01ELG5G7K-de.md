@@ -2,7 +2,7 @@
 layout: post
 title: 'Hasbro Gaming B7714100 - Elefun Kindersp mit 34.37 % Rabatt'
 date: 2020-06-12 00:06:18
-image: 'https://m.media-amazon.com/images/I/51lN5L22RxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lN5L22RxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.634999999999998'
 
 Sie können [Hasbro Gaming B7714100 - Elefun Kinderspiel](https://www.amazon.de/dp/B01ELG5G7K/?tag=tolees0ca-21) mit Preis 25.59 EUR (original: 38.99 EUR) 34.37 % Rabatt hier:
 
-[![Hasbro Gaming B7714100 - Elefun Kindersp](https://m.media-amazon.com/images/I/51lN5L22RxL._SL200_.jpg)](https://www.amazon.de/dp/B01ELG5G7K/?tag=tolees0ca-21)
+[![Hasbro Gaming B7714100 - Elefun Kindersp](https://m.media-amazon.com/images/I/51lN5L22RxL._SL400_.jpg)](https://www.amazon.de/dp/B01ELG5G7K/?tag=tolees0ca-21)
 
 ℹ️:
 

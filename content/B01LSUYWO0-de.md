@@ -2,7 +2,7 @@
 layout: post
 title: '27.75 % rabat auf Apple iPhone 7  32 GB  - Schwarz'
 date: 2020-01-24 20:58:18
-image: 'https://m.media-amazon.com/images/I/31usFIJpwzL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31usFIJpwzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '386.29333333333335'
 
 Es gibt ein [Apple iPhone 7  32 GB  - Schwarz](https://www.amazon.de/dp/B01LSUYWO0/?tag=tolees0ca-21) mit aktuellem Preis 374.99 EUR (original: 519.0 EUR) 27.75 % Rabatt hier:
 
-[![Apple iPhone 7  32 GB  - Schwarz](https://m.media-amazon.com/images/I/31usFIJpwzL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01LSUYWO0/?tag=tolees0ca-21)
+[![Apple iPhone 7  32 GB  - Schwarz](https://m.media-amazon.com/images/I/31usFIJpwzL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01LSUYWO0/?tag=tolees0ca-21)
 
 ℹ️:
 

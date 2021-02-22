@@ -2,7 +2,7 @@
 layout: post
 title: 'Ankermann Office Silent PC Intel Core i5 mit 31.54 % Rabatt'
 date: 2020-04-08 05:30:11
-image: 'https://m.media-amazon.com/images/I/41Ujl7bLJpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ujl7bLJpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '369.0'
 
 Sie können [Ankermann Office Silent PC Intel Core i5 2400 4X 3.1 GHz Graphic DVI-HDMI-VGA 16GB RAM 480GB SSD 500GB HDD Windows 10 PRO Leise W-LAN Office Professional](https://www.amazon.de/dp/B06XPDHS25/?tag=tolees0ca-21) mit Preis 369.0 EUR (original: 539.0 EUR) 31.54 % Rabatt hier:
 
-[![Ankermann Office Silent PC Intel Core i5](https://m.media-amazon.com/images/I/41Ujl7bLJpL._SL200_.jpg)](https://www.amazon.de/dp/B06XPDHS25/?tag=tolees0ca-21)
+[![Ankermann Office Silent PC Intel Core i5](https://m.media-amazon.com/images/I/41Ujl7bLJpL._SL400_.jpg)](https://www.amazon.de/dp/B06XPDHS25/?tag=tolees0ca-21)
 
 ℹ️:
 

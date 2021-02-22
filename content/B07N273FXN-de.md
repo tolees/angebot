@@ -2,7 +2,7 @@
 layout: post
 title: 'Razer BlackWidow Elite - Premium Mechani mit 39.89 % Rabatt'
 date: 2020-08-06 12:10:43
-image: 'https://m.media-amazon.com/images/I/41kzcBsskUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kzcBsskUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '108.2'
 
 Sie können [Razer BlackWidow Elite - Premium Mechanical Full-Size Gaming Keyboard  Tastatur mit Razer Orange Switches  Taktil & Leise   Handballenauflage  RGB Chroma Beleuchtung  DE-Layout](https://www.amazon.de/dp/B07N273FXN/?tag=tolees0ca-21) mit Preis 108.2 EUR (original: 179.99 EUR) 39.89 % Rabatt hier:
 
-[![Razer BlackWidow Elite - Premium Mechani](https://m.media-amazon.com/images/I/41kzcBsskUL._SL200_.jpg)](https://www.amazon.de/dp/B07N273FXN/?tag=tolees0ca-21)
+[![Razer BlackWidow Elite - Premium Mechani](https://m.media-amazon.com/images/I/41kzcBsskUL._SL400_.jpg)](https://www.amazon.de/dp/B07N273FXN/?tag=tolees0ca-21)
 
 ℹ️:
 

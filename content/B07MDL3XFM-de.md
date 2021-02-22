@@ -2,7 +2,7 @@
 layout: post
 title: 'Seagate Backup Plus Portable  tragbare e mit 24.03 % Rabatt'
 date: 2020-06-30 14:51:45
-image: 'https://m.media-amazon.com/images/I/41+HshpfEKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+HshpfEKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '108.96666666666667'
 
 Sie können [Seagate Backup Plus Portable  tragbare externe Festplatte  5 TB  2.5 Zoll  USB 3.0  PC & Mac  schwarz  ModelNr.: STHP5000400](https://www.amazon.de/dp/B07MDL3XFM/?tag=tolees0ca-21) mit Preis 113.95 EUR (original: 149.99 EUR) 24.03 % Rabatt hier:
 
-[![Seagate Backup Plus Portable  tragbare e](https://m.media-amazon.com/images/I/41+HshpfEKL._SL200_.jpg)](https://www.amazon.de/dp/B07MDL3XFM/?tag=tolees0ca-21)
+[![Seagate Backup Plus Portable  tragbare e](https://m.media-amazon.com/images/I/41+HshpfEKL._SL400_.jpg)](https://www.amazon.de/dp/B07MDL3XFM/?tag=tolees0ca-21)
 
 ℹ️:
 

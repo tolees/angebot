@@ -2,7 +2,7 @@
 layout: post
 title: 'Star Wars- ferngesteuerte D-O Figur  Sta mit 28.99 % Rabatt'
 date: 2020-04-18 00:39:18
-image: 'https://m.media-amazon.com/images/I/41IEPHf57VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IEPHf57VL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.98833333333333'
 
 Sie können [Star Wars- ferngesteuerte D-O Figur  Star Wars: Der Aufstieg Skywalkers elektronischer Droide mit Sounds  ab 5 Jahren](https://www.amazon.de/dp/B07RCNLGMS/?tag=tolees0ca-21) mit Preis 48.99 EUR (original: 68.99 EUR) 28.99 % Rabatt hier:
 
-[![Star Wars- ferngesteuerte D-O Figur  Sta](https://m.media-amazon.com/images/I/41IEPHf57VL._SL200_.jpg)](https://www.amazon.de/dp/B07RCNLGMS/?tag=tolees0ca-21)
+[![Star Wars- ferngesteuerte D-O Figur  Sta](https://m.media-amazon.com/images/I/41IEPHf57VL._SL400_.jpg)](https://www.amazon.de/dp/B07RCNLGMS/?tag=tolees0ca-21)
 
 ℹ️:
 

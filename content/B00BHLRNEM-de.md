@@ -2,7 +2,7 @@
 layout: post
 title: '22.88 % rabat auf COPIC  Markerstifte  vielfach einsetzbar'
 date: 2020-03-11 04:58:17
-image: 'https://m.media-amazon.com/images/I/412QJYga0hL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412QJYga0hL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.96'
 
 Es gibt ein [COPIC  Markerstifte  vielfach einsetzbar  Einheitsgröße](https://www.amazon.de/dp/B00BHLRNEM/?tag=tolees0ca-21) mit aktuellem Preis 20.96 EUR (original: 27.18 EUR) 22.88 % Rabatt hier:
 
-[![COPIC  Markerstifte  vielfach einsetzbar](https://m.media-amazon.com/images/I/412QJYga0hL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00BHLRNEM/?tag=tolees0ca-21)
+[![COPIC  Markerstifte  vielfach einsetzbar](https://m.media-amazon.com/images/I/412QJYga0hL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00BHLRNEM/?tag=tolees0ca-21)
 
 ℹ️:
 

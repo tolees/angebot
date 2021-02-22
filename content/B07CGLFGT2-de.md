@@ -2,7 +2,7 @@
 layout: post
 title: '37.51 % rabat auf Thinkfun Geschicklichkeitsspiel 76356 - '
 date: 2020-05-22 07:50:24
-image: 'https://m.media-amazon.com/images/I/51mFYTbwAqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51mFYTbwAqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.99'
 
 Es gibt ein [Thinkfun Geschicklichkeitsspiel 76356 - Laze Maze - Spiel für Kinder ab 8 Jahren](https://www.amazon.de/dp/B07CGLFGT2/?tag=tolees0ca-21) mit aktuellem Preis 24.99 EUR (original: 39.99 EUR) 37.51 % Rabatt hier:
 
-[![Thinkfun Geschicklichkeitsspiel 76356 - ](https://m.media-amazon.com/images/I/51mFYTbwAqL._SL200_.jpg)](https://www.amazon.de/dp/B07CGLFGT2/?tag=tolees0ca-21)
+[![Thinkfun Geschicklichkeitsspiel 76356 - ](https://m.media-amazon.com/images/I/51mFYTbwAqL._SL400_.jpg)](https://www.amazon.de/dp/B07CGLFGT2/?tag=tolees0ca-21)
 
 ℹ️:
 

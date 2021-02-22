@@ -2,7 +2,7 @@
 layout: post
 title: 'Playmobil 70137 Country Kleintiere im Fr mit 23.72 % Rabatt'
 date: 2020-04-18 00:25:44
-image: 'https://m.media-amazon.com/images/I/51egE3vqPoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51egE3vqPoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.672857142857142'
 
 Sie können [Playmobil 70137 Country Kleintiere im Freigehege  bunt](https://www.amazon.de/dp/B07JLS11JY/?tag=tolees0ca-21) mit Preis 7.62 EUR (original: 9.99 EUR) 23.72 % Rabatt hier:
 
-[![Playmobil 70137 Country Kleintiere im Fr](https://m.media-amazon.com/images/I/51egE3vqPoL._SL200_.jpg)](https://www.amazon.de/dp/B07JLS11JY/?tag=tolees0ca-21)
+[![Playmobil 70137 Country Kleintiere im Fr](https://m.media-amazon.com/images/I/51egE3vqPoL._SL400_.jpg)](https://www.amazon.de/dp/B07JLS11JY/?tag=tolees0ca-21)
 
 ℹ️:
 

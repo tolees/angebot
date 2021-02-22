@@ -2,7 +2,7 @@
 layout: post
 title: 'Trust Gaming GXT 764 Glide-Flex XXL RGB  mit 40.01 % Rabatt'
 date: 2020-05-14 17:03:42
-image: 'https://m.media-amazon.com/images/I/31NiHCG7EpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31NiHCG7EpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.99'
 
 Sie können [Trust Gaming GXT 764 Glide-Flex XXL RGB Mauspad  Größe: 930x300x3 mm  RGB LED Beleuchtung  schwarz](https://www.amazon.de/dp/B07XRZYH45/?tag=tolees0ca-21) mit Preis 23.99 EUR (original: 39.99 EUR) 40.01 % Rabatt hier:
 
-[![Trust Gaming GXT 764 Glide-Flex XXL RGB ](https://m.media-amazon.com/images/I/31NiHCG7EpL._SL200_.jpg)](https://www.amazon.de/dp/B07XRZYH45/?tag=tolees0ca-21)
+[![Trust Gaming GXT 764 Glide-Flex XXL RGB ](https://m.media-amazon.com/images/I/31NiHCG7EpL._SL400_.jpg)](https://www.amazon.de/dp/B07XRZYH45/?tag=tolees0ca-21)
 
 ℹ️:
 

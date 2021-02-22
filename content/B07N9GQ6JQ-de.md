@@ -2,7 +2,7 @@
 layout: post
 title: '40.00 % rabat auf SAMSONITE Uplite - Three-Way Laptop Expa'
 date: 2020-06-01 07:13:01
-image: 'https://m.media-amazon.com/images/I/31S8A0af-NL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31S8A0af-NL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '71.4'
 
 Es gibt ein [SAMSONITE Uplite - Three-Way Laptop Expandable Rucksack  40 cm  18 Liter  Blue](https://www.amazon.de/dp/B07N9GQ6JQ/?tag=tolees0ca-21) mit aktuellem Preis 71.4 EUR (original: 119.0 EUR) 40.00 % Rabatt hier:
 
-[![SAMSONITE Uplite - Three-Way Laptop Expa](https://m.media-amazon.com/images/I/31S8A0af-NL._SL200_.jpg)](https://www.amazon.de/dp/B07N9GQ6JQ/?tag=tolees0ca-21)
+[![SAMSONITE Uplite - Three-Way Laptop Expa](https://m.media-amazon.com/images/I/31S8A0af-NL._SL400_.jpg)](https://www.amazon.de/dp/B07N9GQ6JQ/?tag=tolees0ca-21)
 
 ℹ️:
 

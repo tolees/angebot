@@ -2,7 +2,7 @@
 layout: post
 title: '62.28 % rabat auf TEECY Kartenetui Neue Kreditkartentasche'
 date: 2020-04-15 17:38:34
-image: 'https://m.media-amazon.com/images/I/41Ia1Z5+UfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ia1Z5+UfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Es gibt ein [TEECY Kartenetui Neue Kreditkartentasche Kartenetui mit RFID Schutz Einer starken Magnetsaug Tasche aus Aluminium von Hand eindrücken automatische Bankkarte Portmonee für bis zu 8-10 Karten Schwarz](https://www.amazon.de/dp/B0836VHZXV/?tag=tolees0ca-21) mit aktuellem Preis 19.99 EUR (original: 52.99 EUR) 62.28 % Rabatt hier:
 
-[![TEECY Kartenetui Neue Kreditkartentasche](https://m.media-amazon.com/images/I/41Ia1Z5+UfL._SL200_.jpg)](https://www.amazon.de/dp/B0836VHZXV/?tag=tolees0ca-21)
+[![TEECY Kartenetui Neue Kreditkartentasche](https://m.media-amazon.com/images/I/41Ia1Z5+UfL._SL400_.jpg)](https://www.amazon.de/dp/B0836VHZXV/?tag=tolees0ca-21)
 
 ℹ️:
 

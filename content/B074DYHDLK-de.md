@@ -2,7 +2,7 @@
 layout: post
 title: '19.65 % rabat auf Asus ROG Zenith Extreme Gaming Mainboard'
 date: 2020-05-07 18:34:18
-image: 'https://m.media-amazon.com/images/I/41juu8fVdnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41juu8fVdnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '499.0'
 
 Es gibt ein [Asus ROG Zenith Extreme Gaming Mainboard Sockel TR4  eATX  AMD Threadripper X399  Aura Sync  8x DDR4 Speicher  USB 3.1 Gen 2  M.2 Kühlkörper ](https://www.amazon.de/dp/B074DYHDLK/?tag=tolees0ca-21) mit aktuellem Preis 499.0 EUR (original: 621.0 EUR) 19.65 % Rabatt hier:
 
-[![Asus ROG Zenith Extreme Gaming Mainboard](https://m.media-amazon.com/images/I/41juu8fVdnL._SL200_.jpg)](https://www.amazon.de/dp/B074DYHDLK/?tag=tolees0ca-21)
+[![Asus ROG Zenith Extreme Gaming Mainboard](https://m.media-amazon.com/images/I/41juu8fVdnL._SL400_.jpg)](https://www.amazon.de/dp/B074DYHDLK/?tag=tolees0ca-21)
 
 ℹ️:
 

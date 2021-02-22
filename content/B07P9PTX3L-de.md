@@ -2,7 +2,7 @@
 layout: post
 title: 'Mr Muscle Drano Power Rohrreiniger Gel A mit 53.18 % Rabatt'
 date: 2020-06-12 01:01:41
-image: 'https://m.media-amazon.com/images/I/41AkrSVv28L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AkrSVv28L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.99'
 
 Sie können [Mr Muscle Drano Power Rohrreiniger Gel Abflussreiniger  entfernt Verstopfungen  rohrfrei  1er Pack  1 x 1000 ml ](https://www.amazon.de/dp/B07P9PTX3L/?tag=tolees0ca-21) mit Preis 1.4 EUR (original: 2.99 EUR) 53.18 % Rabatt hier:
 
-[![Mr Muscle Drano Power Rohrreiniger Gel A](https://m.media-amazon.com/images/I/41AkrSVv28L._SL200_.jpg)](https://www.amazon.de/dp/B07P9PTX3L/?tag=tolees0ca-21)
+[![Mr Muscle Drano Power Rohrreiniger Gel A](https://m.media-amazon.com/images/I/41AkrSVv28L._SL400_.jpg)](https://www.amazon.de/dp/B07P9PTX3L/?tag=tolees0ca-21)
 
 ℹ️:
 

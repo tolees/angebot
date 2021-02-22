@@ -2,7 +2,7 @@
 layout: post
 title: 'Motorola Handy Akku Original kompatible  mit 45.05 % Rabatt'
 date: 2020-01-26 17:12:43
-image: 'https://m.media-amazon.com/images/I/41tBacuVutL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tBacuVutL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.99'
 
 Sie können [Motorola Handy Akku Original kompatible Mobiltelefone](https://www.amazon.de/dp/B00I1XS3WK/?tag=tolees0ca-21) mit Preis 5.99 EUR (original: 10.9 EUR) 45.05 % Rabatt hier:
 
-[![Motorola Handy Akku Original kompatible ](https://m.media-amazon.com/images/I/41tBacuVutL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00I1XS3WK/?tag=tolees0ca-21)
+[![Motorola Handy Akku Original kompatible ](https://m.media-amazon.com/images/I/41tBacuVutL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00I1XS3WK/?tag=tolees0ca-21)
 
 ℹ️:
 

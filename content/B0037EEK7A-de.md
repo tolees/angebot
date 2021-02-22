@@ -2,7 +2,7 @@
 layout: post
 title: 'Yankee Candle Duftkerze im großen Jar  V mit 37.16 % Rabatt'
 date: 2020-02-07 05:02:45
-image: 'https://m.media-amazon.com/images/I/41YBrIGoU2L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YBrIGoU2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.79'
 
 Sie können [Yankee Candle Duftkerze im großen Jar  Vanilla Cupcake  Brenndauer bis zu 150 Stunden](https://www.amazon.de/dp/B0037EEK7A/?tag=tolees0ca-21) mit Preis 18.79 EUR (original: 29.9 EUR) 37.16 % Rabatt hier:
 
-[![Yankee Candle Duftkerze im großen Jar  V](https://m.media-amazon.com/images/I/41YBrIGoU2L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B0037EEK7A/?tag=tolees0ca-21)
+[![Yankee Candle Duftkerze im großen Jar  V](https://m.media-amazon.com/images/I/41YBrIGoU2L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B0037EEK7A/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Schlüsselanhänger Pop – SOS Geiste mit 42.67 % Rabatt'
 date: 2020-03-08 18:31:41
-image: 'https://m.media-amazon.com/images/I/31JSL8MetgL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31JSL8MetgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.3'
 
 Sie können [Funko Schlüsselanhänger Pop – SOS Geister – Bouftou](https://www.amazon.de/dp/B07NSRQS9X/?tag=tolees0ca-21) mit Preis 4.3 EUR (original: 7.5 EUR) 42.67 % Rabatt hier:
 
-[![Funko Schlüsselanhänger Pop – SOS Geiste](https://m.media-amazon.com/images/I/31JSL8MetgL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07NSRQS9X/?tag=tolees0ca-21)
+[![Funko Schlüsselanhänger Pop – SOS Geiste](https://m.media-amazon.com/images/I/31JSL8MetgL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07NSRQS9X/?tag=tolees0ca-21)
 
 ℹ️:
 

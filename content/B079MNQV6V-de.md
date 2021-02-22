@@ -2,7 +2,7 @@
 layout: post
 title: '35.44 % rabat auf Playmobil 9457 Hausmeister mit Kiosk'
 date: 2020-04-16 17:44:48
-image: 'https://m.media-amazon.com/images/I/41v9KtanoTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41v9KtanoTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.38409090909091'
 
 Es gibt ein [Playmobil 9457 Hausmeister mit Kiosk](https://www.amazon.de/dp/B079MNQV6V/?tag=tolees0ca-21) mit aktuellem Preis 6.45 EUR (original: 9.99 EUR) 35.44 % Rabatt hier:
 
-[![Playmobil 9457 Hausmeister mit Kiosk](https://m.media-amazon.com/images/I/41v9KtanoTL._SL200_.jpg)](https://www.amazon.de/dp/B079MNQV6V/?tag=tolees0ca-21)
+[![Playmobil 9457 Hausmeister mit Kiosk](https://m.media-amazon.com/images/I/41v9KtanoTL._SL400_.jpg)](https://www.amazon.de/dp/B079MNQV6V/?tag=tolees0ca-21)
 
 ℹ️:
 

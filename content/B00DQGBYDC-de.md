@@ -2,7 +2,7 @@
 layout: post
 title: '37.52 % rabat auf SanDisk Ultra 64GB USB-Flash-Laufwerk US'
 date: 2020-03-31 18:07:52
-image: 'https://m.media-amazon.com/images/I/31E0ncgo8rL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31E0ncgo8rL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.33'
 
 Es gibt ein [SanDisk Ultra 64GB USB-Flash-Laufwerk USB 3.0 bis zu 130MB/s](https://www.amazon.de/dp/B00DQGBYDC/?tag=tolees0ca-21) mit aktuellem Preis 9.99 EUR (original: 15.99 EUR) 37.52 % Rabatt hier:
 
-[![SanDisk Ultra 64GB USB-Flash-Laufwerk US](https://m.media-amazon.com/images/I/31E0ncgo8rL._SL200_.jpg)](https://www.amazon.de/dp/B00DQGBYDC/?tag=tolees0ca-21)
+[![SanDisk Ultra 64GB USB-Flash-Laufwerk US](https://m.media-amazon.com/images/I/31E0ncgo8rL._SL400_.jpg)](https://www.amazon.de/dp/B00DQGBYDC/?tag=tolees0ca-21)
 
 ℹ️:
 

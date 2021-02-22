@@ -2,7 +2,7 @@
 layout: post
 title: 'Radio Rock Revolution  The Boat That Roc mit 51.96 % Rabatt'
 date: 2020-10-11 20:06:10
-image: 'https://m.media-amazon.com/images/I/61PRNWuvivL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61PRNWuvivL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Sie können [Radio Rock Revolution  The Boat That Rocked ](https://www.amazon.de/dp/B001Y7SPOQ/?tag=tolees0ca-21) mit Preis 6.99 EUR (original: 14.55 EUR) 51.96 % Rabatt hier:
 
-[![Radio Rock Revolution  The Boat That Roc](https://m.media-amazon.com/images/I/61PRNWuvivL._SL200_.jpg)](https://www.amazon.de/dp/B001Y7SPOQ/?tag=tolees0ca-21)
+[![Radio Rock Revolution  The Boat That Roc](https://m.media-amazon.com/images/I/61PRNWuvivL._SL400_.jpg)](https://www.amazon.de/dp/B001Y7SPOQ/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '17.31 % rabat auf Morituri [Blu-ray]'
 date: 2020-03-11 04:57:14
-image: 'https://m.media-amazon.com/images/I/51+Us7zhjKL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+Us7zhjKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.84'
 
 Es gibt ein [Morituri [Blu-ray]](https://www.amazon.de/dp/B07LD4KXCT/?tag=tolees0ca-21) mit aktuellem Preis 9.84 EUR (original: 11.9 EUR) 17.31 % Rabatt hier:
 
-[![Morituri [Blu-ray]](https://m.media-amazon.com/images/I/51+Us7zhjKL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07LD4KXCT/?tag=tolees0ca-21)
+[![Morituri [Blu-ray]](https://m.media-amazon.com/images/I/51+Us7zhjKL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07LD4KXCT/?tag=tolees0ca-21)
 
 ℹ️:
 

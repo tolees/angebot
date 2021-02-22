@@ -2,7 +2,7 @@
 layout: post
 title: 'kingromargo Herramienta precisa de repar mit 37.55 % Rabatt'
 date: 2020-04-07 21:31:51
-image: 'https://m.media-amazon.com/images/I/41Yfh9P8EYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Yfh9P8EYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.99'
 
 Sie können [kingromargo Herramienta precisa de reparación de retrabajo de soldadura SMD de alambre de soldadura DE 0.3 mm](https://www.amazon.de/dp/B07MQSBXQ7/?tag=tolees0ca-21) mit Preis 4.99 EUR (original: 7.99 EUR) 37.55 % Rabatt hier:
 
-[![kingromargo Herramienta precisa de repar](https://m.media-amazon.com/images/I/41Yfh9P8EYL._SL200_.jpg)](https://www.amazon.de/dp/B07MQSBXQ7/?tag=tolees0ca-21)
+[![kingromargo Herramienta precisa de repar](https://m.media-amazon.com/images/I/41Yfh9P8EYL._SL400_.jpg)](https://www.amazon.de/dp/B07MQSBXQ7/?tag=tolees0ca-21)
 
 ℹ️:
 

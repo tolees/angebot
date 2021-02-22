@@ -2,7 +2,7 @@
 layout: post
 title: 'GoPro Front Saugnapfhalterung - gebogene mit 31.54 % Rabatt'
 date: 2020-03-18 04:52:54
-image: 'https://m.media-amazon.com/images/I/31zuhtoX25L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31zuhtoX25L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.9'
 
 Sie können [GoPro Front Saugnapfhalterung - gebogene  vertikale Schnellspannschnalle  2 x Schwenkarme  Rändelschrauben  Offizielles GoPro-Zubehör ](https://www.amazon.de/dp/B00F19Q7YI/?tag=tolees0ca-21) mit Preis 21.9 EUR (original: 31.99 EUR) 31.54 % Rabatt hier:
 
-[![GoPro Front Saugnapfhalterung - gebogene](https://m.media-amazon.com/images/I/31zuhtoX25L._SL200_.jpg)](https://www.amazon.de/dp/B00F19Q7YI/?tag=tolees0ca-21)
+[![GoPro Front Saugnapfhalterung - gebogene](https://m.media-amazon.com/images/I/31zuhtoX25L._SL400_.jpg)](https://www.amazon.de/dp/B00F19Q7YI/?tag=tolees0ca-21)
 
 ℹ️:
 

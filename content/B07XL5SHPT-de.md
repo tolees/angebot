@@ -2,7 +2,7 @@
 layout: post
 title: 'Apple Silikon Case  für iPhone 11 Pro  - mit 50.00 % Rabatt'
 date: 2020-04-24 19:21:29
-image: 'https://m.media-amazon.com/images/I/21uWOH7DLWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21uWOH7DLWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.5'
 
 Sie können [Apple Silikon Case  für iPhone 11 Pro  - Schwarz](https://www.amazon.de/dp/B07XL5SHPT/?tag=tolees0ca-21) mit Preis 22.5 EUR (original: 45.0 EUR) 50.00 % Rabatt hier:
 
-[![Apple Silikon Case  für iPhone 11 Pro  -](https://m.media-amazon.com/images/I/21uWOH7DLWL._SL200_.jpg)](https://www.amazon.de/dp/B07XL5SHPT/?tag=tolees0ca-21)
+[![Apple Silikon Case  für iPhone 11 Pro  -](https://m.media-amazon.com/images/I/21uWOH7DLWL._SL400_.jpg)](https://www.amazon.de/dp/B07XL5SHPT/?tag=tolees0ca-21)
 
 ℹ️:
 

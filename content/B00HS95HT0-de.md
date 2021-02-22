@@ -2,7 +2,7 @@
 layout: post
 title: '30.01 % rabat auf Pieces of a Man  180 Gr.Gatefold Black V'
 date: 2020-09-21 15:16:46
-image: 'https://m.media-amazon.com/images/I/511xfeFOZ2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/511xfeFOZ2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.79'
 
 Es gibt ein [Pieces of a Man  180 Gr.Gatefold Black Vinyl  [Vinyl LP]](https://www.amazon.de/dp/B00HS95HT0/?tag=tolees0ca-21) mit aktuellem Preis 16.79 EUR (original: 23.99 EUR) 30.01 % Rabatt hier:
 
-[![Pieces of a Man  180 Gr.Gatefold Black V](https://m.media-amazon.com/images/I/511xfeFOZ2L._SL200_.jpg)](https://www.amazon.de/dp/B00HS95HT0/?tag=tolees0ca-21)
+[![Pieces of a Man  180 Gr.Gatefold Black V](https://m.media-amazon.com/images/I/511xfeFOZ2L._SL400_.jpg)](https://www.amazon.de/dp/B00HS95HT0/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Coma Ecliptic Live mit 29.95 % Rabatt'
 date: 2020-09-24 19:56:49
-image: 'https://m.media-amazon.com/images/I/41w0rb3x4bL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41w0rb3x4bL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.71'
 
 Sie können [Coma Ecliptic Live](https://www.amazon.de/dp/B06XDQWK9Q/?tag=tolees0ca-21) mit Preis 5.73 EUR (original: 8.18 EUR) 29.95 % Rabatt hier:
 
-[![Coma Ecliptic Live](https://m.media-amazon.com/images/I/41w0rb3x4bL._SL200_.jpg)](https://www.amazon.de/dp/B06XDQWK9Q/?tag=tolees0ca-21)
+[![Coma Ecliptic Live](https://m.media-amazon.com/images/I/41w0rb3x4bL._SL400_.jpg)](https://www.amazon.de/dp/B06XDQWK9Q/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'PLAYMOBIL City Life 70017 Meine Trendbou mit 30.01 % Rabatt'
 date: 2020-03-27 21:22:05
-image: 'https://m.media-amazon.com/images/I/51zSy2llUZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zSy2llUZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.383809523809525'
 
 Sie können [PLAYMOBIL City Life 70017 Meine Trendboutique  Ab 4 Jahren](https://www.amazon.de/dp/B07JLFKPCK/?tag=tolees0ca-21) mit Preis 27.99 EUR (original: 39.99 EUR) 30.01 % Rabatt hier:
 
-[![PLAYMOBIL City Life 70017 Meine Trendbou](https://m.media-amazon.com/images/I/51zSy2llUZL._SL200_.jpg)](https://www.amazon.de/dp/B07JLFKPCK/?tag=tolees0ca-21)
+[![PLAYMOBIL City Life 70017 Meine Trendbou](https://m.media-amazon.com/images/I/51zSy2llUZL._SL400_.jpg)](https://www.amazon.de/dp/B07JLFKPCK/?tag=tolees0ca-21)
 
 ℹ️:
 

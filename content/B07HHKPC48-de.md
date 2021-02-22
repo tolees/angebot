@@ -2,7 +2,7 @@
 layout: post
 title: '35.77 % rabat auf Bosch Akkuschrauber AdvancedDrill 18 Set'
 date: 2020-09-07 19:44:29
-image: 'https://m.media-amazon.com/images/I/51UhA6vOmZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51UhA6vOmZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '176.32333333333335'
 
 Es gibt ein [Bosch Akkuschrauber AdvancedDrill 18 Set  2 Akkus  18 Volt System  3 Aufsätze  im Koffer ](https://www.amazon.de/dp/B07HHKPC48/?tag=tolees0ca-21) mit aktuellem Preis 166.99 EUR (original: 259.99 EUR) 35.77 % Rabatt hier:
 
-[![Bosch Akkuschrauber AdvancedDrill 18 Set](https://m.media-amazon.com/images/I/51UhA6vOmZL._SL200_.jpg)](https://www.amazon.de/dp/B07HHKPC48/?tag=tolees0ca-21)
+[![Bosch Akkuschrauber AdvancedDrill 18 Set](https://m.media-amazon.com/images/I/51UhA6vOmZL._SL400_.jpg)](https://www.amazon.de/dp/B07HHKPC48/?tag=tolees0ca-21)
 
 ℹ️:
 

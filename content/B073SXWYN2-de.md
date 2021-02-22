@@ -2,7 +2,7 @@
 layout: post
 title: '28.57 % rabat auf Google WiFi-Router Wireless Bluetooth We'
 date: 2020-03-15 17:44:56
-image: 'https://m.media-amazon.com/images/I/21c0QLR8OGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21c0QLR8OGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.99'
 
 Es gibt ein [Google WiFi-Router Wireless Bluetooth Weiß weiß weiß Pack de 2](https://www.amazon.de/dp/B073SXWYN2/?tag=tolees0ca-21) mit aktuellem Preis 99.99 EUR (original: 139.99 EUR) 28.57 % Rabatt hier:
 
-[![Google WiFi-Router Wireless Bluetooth We](https://m.media-amazon.com/images/I/21c0QLR8OGL._SL200_.jpg)](https://www.amazon.de/dp/B073SXWYN2/?tag=tolees0ca-21)
+[![Google WiFi-Router Wireless Bluetooth We](https://m.media-amazon.com/images/I/21c0QLR8OGL._SL400_.jpg)](https://www.amazon.de/dp/B073SXWYN2/?tag=tolees0ca-21)
 
 ℹ️:
 

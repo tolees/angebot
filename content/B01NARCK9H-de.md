@@ -2,7 +2,7 @@
 layout: post
 title: 'SuSenGo Titanic Bausteinsatz 1021 Stück  mit 42.00 % Rabatt'
 date: 2020-04-05 13:05:00
-image: 'https://m.media-amazon.com/images/I/516-io6HmKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516-io6HmKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.99'
 
 Sie können [SuSenGo Titanic Bausteinsatz 1021 Stück Ziegel für Kinder](https://www.amazon.de/dp/B01NARCK9H/?tag=tolees0ca-21) mit Preis 57.99 EUR (original: 99.99 EUR) 42.00 % Rabatt hier:
 
-[![SuSenGo Titanic Bausteinsatz 1021 Stück ](https://m.media-amazon.com/images/I/516-io6HmKL._SL200_.jpg)](https://www.amazon.de/dp/B01NARCK9H/?tag=tolees0ca-21)
+[![SuSenGo Titanic Bausteinsatz 1021 Stück ](https://m.media-amazon.com/images/I/516-io6HmKL._SL400_.jpg)](https://www.amazon.de/dp/B01NARCK9H/?tag=tolees0ca-21)
 
 ℹ️:
 

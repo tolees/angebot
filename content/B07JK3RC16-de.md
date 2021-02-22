@@ -2,7 +2,7 @@
 layout: post
 title: '30.01 % rabat auf Yazubi Herren Kapuzenjacke Jacob - graue'
 date: 2020-08-28 06:19:59
-image: 'https://m.media-amazon.com/images/I/41g8Dn+72IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41g8Dn+72IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.96'
 
 Es gibt ein [Yazubi Herren Kapuzenjacke Jacob - graue Sweatjacke Herren Kapuzenpullover mit Reißverschluss - Kapuzensweatshirt  Grau  Mirage Gray 154703   XS](https://www.amazon.de/dp/B07JK3RC16/?tag=tolees0ca-21) mit aktuellem Preis 27.96 EUR (original: 39.95 EUR) 30.01 % Rabatt hier:
 
-[![Yazubi Herren Kapuzenjacke Jacob - graue](https://m.media-amazon.com/images/I/41g8Dn+72IL._SL200_.jpg)](https://www.amazon.de/dp/B07JK3RC16/?tag=tolees0ca-21)
+[![Yazubi Herren Kapuzenjacke Jacob - graue](https://m.media-amazon.com/images/I/41g8Dn+72IL._SL400_.jpg)](https://www.amazon.de/dp/B07JK3RC16/?tag=tolees0ca-21)
 
 ℹ️:
 

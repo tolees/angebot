@@ -2,7 +2,7 @@
 layout: post
 title: '20.04 % rabat auf Canon PowerShot G9 X Mark II Kompaktkame'
 date: 2020-03-17 19:56:44
-image: 'https://m.media-amazon.com/images/I/41DWasEgNTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DWasEgNTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '374.0'
 
 Es gibt ein [Canon PowerShot G9 X Mark II Kompaktkamera  20 1 MP  7 5cm  3 Zoll  Display  WLAN  NFC  1080p  Full HD  schwarz](https://www.amazon.de/dp/B01NBSGJ80/?tag=tolees0ca-21) mit aktuellem Preis 399.0 EUR (original: 499.0 EUR) 20.04 % Rabatt hier:
 
-[![Canon PowerShot G9 X Mark II Kompaktkame](https://m.media-amazon.com/images/I/41DWasEgNTL._SL200_.jpg)](https://www.amazon.de/dp/B01NBSGJ80/?tag=tolees0ca-21)
+[![Canon PowerShot G9 X Mark II Kompaktkame](https://m.media-amazon.com/images/I/41DWasEgNTL._SL400_.jpg)](https://www.amazon.de/dp/B01NBSGJ80/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '63.58 % rabat auf S&R Kreissägeblatt 160mm x 20mm x 2 2mm '
 date: 2020-04-11 16:01:06
-image: 'https://m.media-amazon.com/images/I/51UQstyb0JL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51UQstyb0JL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.55'
 
 Es gibt ein [S&R Kreissägeblatt 160mm x 20mm x 2 2mm 40T  Reduzierring 16mm"Wood Craft" Sägeblatt Holz in Profiqualität](https://www.amazon.de/dp/B01M2CMZJO/?tag=tolees0ca-21) mit aktuellem Preis 14.55 EUR (original: 39.95 EUR) 63.58 % Rabatt hier:
 
-[![S&R Kreissägeblatt 160mm x 20mm x 2 2mm ](https://m.media-amazon.com/images/I/51UQstyb0JL._SL200_.jpg)](https://www.amazon.de/dp/B01M2CMZJO/?tag=tolees0ca-21)
+[![S&R Kreissägeblatt 160mm x 20mm x 2 2mm ](https://m.media-amazon.com/images/I/51UQstyb0JL._SL400_.jpg)](https://www.amazon.de/dp/B01M2CMZJO/?tag=tolees0ca-21)
 
 ℹ️:
 

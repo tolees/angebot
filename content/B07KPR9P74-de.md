@@ -2,7 +2,7 @@
 layout: post
 title: '49.00 % rabat auf GANT Herren ORIGINAL Barstripe Heavy Rug'
 date: 2020-04-17 07:24:36
-image: 'https://m.media-amazon.com/images/I/41G95d58mEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41G95d58mEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.99'
 
 Es gibt ein [GANT Herren ORIGINAL Barstripe Heavy Rugger Poloshirt  Elfenbein  Eggshell 113   X-Large  Herstellergröße: XL ](https://www.amazon.de/dp/B07KPR9P74/?tag=tolees0ca-21) mit aktuellem Preis 50.99 EUR (original: 99.99 EUR) 49.00 % Rabatt hier:
 
-[![GANT Herren ORIGINAL Barstripe Heavy Rug](https://m.media-amazon.com/images/I/41G95d58mEL._SL200_.jpg)](https://www.amazon.de/dp/B07KPR9P74/?tag=tolees0ca-21)
+[![GANT Herren ORIGINAL Barstripe Heavy Rug](https://m.media-amazon.com/images/I/41G95d58mEL._SL400_.jpg)](https://www.amazon.de/dp/B07KPR9P74/?tag=tolees0ca-21)
 
 ℹ️:
 

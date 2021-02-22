@@ -2,7 +2,7 @@
 layout: post
 title: '15.37 % rabat auf Bosch TDS6530 Serie I 6 EasyComfort Damp'
 date: 2020-09-19 08:47:24
-image: 'https://m.media-amazon.com/images/I/41OpYsY35kL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41OpYsY35kL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '149.0'
 
 Es gibt ein [Bosch TDS6530 Serie I 6 EasyComfort Dampfbügelstation  2.400 W  6 5 bar  mit 420 g Dampfstoß  iTemp Technologie  ECO-Modus](https://www.amazon.de/dp/B07HKM66QT/?tag=tolees0ca-21) mit aktuellem Preis 149.0 EUR (original: 176.06 EUR) 15.37 % Rabatt hier:
 
-[![Bosch TDS6530 Serie I 6 EasyComfort Damp](https://m.media-amazon.com/images/I/41OpYsY35kL._SL200_.jpg)](https://www.amazon.de/dp/B07HKM66QT/?tag=tolees0ca-21)
+[![Bosch TDS6530 Serie I 6 EasyComfort Damp](https://m.media-amazon.com/images/I/41OpYsY35kL._SL400_.jpg)](https://www.amazon.de/dp/B07HKM66QT/?tag=tolees0ca-21)
 
 ℹ️:
 

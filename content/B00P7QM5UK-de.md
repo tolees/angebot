@@ -2,7 +2,7 @@
 layout: post
 title: 'POWERADD Pilot X7 20000mAh Externer Akku mit 20.01 % Rabatt'
 date: 2020-09-28 10:57:51
-image: 'https://m.media-amazon.com/images/I/31anuSZEenL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31anuSZEenL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Sie können [POWERADD Pilot X7 20000mAh Externer Akku enorme Energiedichte Power Bank mit Dual 3.4A Ausgänge kompatibel für iPhone  iPad Huawei Samsung  Nexus  HTC und mehr](https://www.amazon.de/dp/B00P7QM5UK/?tag=tolees0ca-21) mit Preis 19.99 EUR (original: 24.99 EUR) 20.01 % Rabatt hier:
 
-[![POWERADD Pilot X7 20000mAh Externer Akku](https://m.media-amazon.com/images/I/31anuSZEenL._SL200_.jpg)](https://www.amazon.de/dp/B00P7QM5UK/?tag=tolees0ca-21)
+[![POWERADD Pilot X7 20000mAh Externer Akku](https://m.media-amazon.com/images/I/31anuSZEenL._SL400_.jpg)](https://www.amazon.de/dp/B00P7QM5UK/?tag=tolees0ca-21)
 
 ℹ️:
 

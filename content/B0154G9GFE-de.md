@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips AZ215S CD-Soundmachine  Digital  mit 48.05 % Rabatt'
 date: 2020-09-28 06:27:55
-image: 'https://m.media-amazon.com/images/I/51E80sUc08L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51E80sUc08L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.97'
 
 Sie können [Philips AZ215S CD-Soundmachine  Digital UKW  Audioeingang  3 Watt  leicht bedienbar  silber](https://www.amazon.de/dp/B0154G9GFE/?tag=tolees0ca-21) mit Preis 25.97 EUR (original: 49.99 EUR) 48.05 % Rabatt hier:
 
-[![Philips AZ215S CD-Soundmachine  Digital ](https://m.media-amazon.com/images/I/51E80sUc08L._SL200_.jpg)](https://www.amazon.de/dp/B0154G9GFE/?tag=tolees0ca-21)
+[![Philips AZ215S CD-Soundmachine  Digital ](https://m.media-amazon.com/images/I/51E80sUc08L._SL400_.jpg)](https://www.amazon.de/dp/B0154G9GFE/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Microsoft Office 2019 Home & Business mu mit 23.19 % Rabatt'
 date: 2020-04-15 23:45:07
-image: 'https://m.media-amazon.com/images/I/4110WRxtNGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4110WRxtNGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '239.56799999999998'
 
 Sie können [Microsoft Office 2019 Home & Business multilingual | 1 PC  Windows 10  /Mac | Dauerlizenz | Box](https://www.amazon.de/dp/B07FYRSQ7Y/?tag=tolees0ca-21) mit Preis 229.67 EUR (original: 299.0 EUR) 23.19 % Rabatt hier:
 
-[![Microsoft Office 2019 Home & Business mu](https://m.media-amazon.com/images/I/4110WRxtNGL._SL200_.jpg)](https://www.amazon.de/dp/B07FYRSQ7Y/?tag=tolees0ca-21)
+[![Microsoft Office 2019 Home & Business mu](https://m.media-amazon.com/images/I/4110WRxtNGL._SL400_.jpg)](https://www.amazon.de/dp/B07FYRSQ7Y/?tag=tolees0ca-21)
 
 ℹ️:
 

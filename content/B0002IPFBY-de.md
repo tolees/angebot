@@ -2,7 +2,7 @@
 layout: post
 title: '19.87 % rabat auf Netgear GS116GE 16-Port Gigabit Ethernet'
 date: 2020-08-10 00:10:28
-image: 'https://m.media-amazon.com/images/I/31Me8pe73iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Me8pe73iL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.9'
 
 Es gibt ein [Netgear GS116GE 16-Port Gigabit Ethernet LAN Switch Unmanaged  für Desktop mit ProSAFE-Lifetime-Garantie  blau](https://www.amazon.de/dp/B0002IPFBY/?tag=tolees0ca-21) mit aktuellem Preis 64.9 EUR (original: 80.99 EUR) 19.87 % Rabatt hier:
 
-[![Netgear GS116GE 16-Port Gigabit Ethernet](https://m.media-amazon.com/images/I/31Me8pe73iL._SL200_.jpg)](https://www.amazon.de/dp/B0002IPFBY/?tag=tolees0ca-21)
+[![Netgear GS116GE 16-Port Gigabit Ethernet](https://m.media-amazon.com/images/I/31Me8pe73iL._SL400_.jpg)](https://www.amazon.de/dp/B0002IPFBY/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '42.00 % rabat auf adidas Herren Core 18 Sweat Trainingstop'
 date: 2020-08-24 10:41:55
-image: 'https://m.media-amazon.com/images/I/516q61AOW2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516q61AOW2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.571111111111108'
 
 Es gibt ein [adidas Herren Core 18 Sweat Trainingstop  Dark Grey Heather/Black  XL](https://www.amazon.de/dp/B076HR1T8G/?tag=tolees0ca-21) mit aktuellem Preis 23.17 EUR (original: 39.95 EUR) 42.00 % Rabatt hier:
 
-[![adidas Herren Core 18 Sweat Trainingstop](https://m.media-amazon.com/images/I/516q61AOW2L._SL200_.jpg)](https://www.amazon.de/dp/B076HR1T8G/?tag=tolees0ca-21)
+[![adidas Herren Core 18 Sweat Trainingstop](https://m.media-amazon.com/images/I/516q61AOW2L._SL400_.jpg)](https://www.amazon.de/dp/B076HR1T8G/?tag=tolees0ca-21)
 
 ℹ️:
 

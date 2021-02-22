@@ -2,7 +2,7 @@
 layout: post
 title: '37.42 % rabat auf LEGO Stadt Blaues Auto 30349 pe-beutel'
 date: 2020-04-17 23:52:30
-image: 'https://m.media-amazon.com/images/I/61Rk9JVNCML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61Rk9JVNCML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.0'
 
 Es gibt ein [LEGO Stadt Blaues Auto 30349 pe-beutel](https://www.amazon.de/dp/B01A00W4RQ/?tag=tolees0ca-21) mit aktuellem Preis 5.0 EUR (original: 7.99 EUR) 37.42 % Rabatt hier:
 
-[![LEGO Stadt Blaues Auto 30349 pe-beutel](https://m.media-amazon.com/images/I/61Rk9JVNCML._SL200_.jpg)](https://www.amazon.de/dp/B01A00W4RQ/?tag=tolees0ca-21)
+[![LEGO Stadt Blaues Auto 30349 pe-beutel](https://m.media-amazon.com/images/I/61Rk9JVNCML._SL400_.jpg)](https://www.amazon.de/dp/B01A00W4RQ/?tag=tolees0ca-21)
 
 ℹ️:
 

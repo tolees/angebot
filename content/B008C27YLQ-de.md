@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike Unisex Erwachsene Swoosh Headband/S mit 17.25 % Rabatt'
 date: 2020-01-16 09:13:48
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41F2nyO4KXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41F2nyO4KXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.62'
 
 Sie können [Nike Unisex Erwachsene Swoosh Headband/Stirnband  Schwarz  Black/White   Einheitsgröße](https://www.amazon.de/dp/B008C27YLQ/?tag=tolees0ca-21) mit Preis 6.62 EUR (original: 8 EUR) 17.25 % Rabatt hier:
 
-[![Nike Unisex Erwachsene Swoosh Headband/S](https://images-eu.ssl-images-amazon.com/images/I/41F2nyO4KXL._SL200_.jpg)](https://www.amazon.de/dp/B008C27YLQ/?tag=tolees0ca-21)
+[![Nike Unisex Erwachsene Swoosh Headband/S](https://images-eu.ssl-images-amazon.com/images/I/41F2nyO4KXL._SL400_.jpg)](https://www.amazon.de/dp/B008C27YLQ/?tag=tolees0ca-21)
 
 ℹ️:
 

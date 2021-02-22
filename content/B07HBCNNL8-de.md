@@ -2,7 +2,7 @@
 layout: post
 title: '40.88 % rabat auf Apple iPhone XS Max  512 GB  - Space Gra'
 date: 2020-03-11 17:23:40
-image: 'https://m.media-amazon.com/images/I/51Kr5kDr5aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Kr5kDr5aL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1061.95'
 
 Es gibt ein [Apple iPhone XS Max  512 GB  - Space Grau](https://www.amazon.de/dp/B07HBCNNL8/?tag=tolees0ca-21) mit aktuellem Preis 974.9 EUR (original: 1649.0 EUR) 40.88 % Rabatt hier:
 
-[![Apple iPhone XS Max  512 GB  - Space Gra](https://m.media-amazon.com/images/I/51Kr5kDr5aL._SL200_.jpg)](https://www.amazon.de/dp/B07HBCNNL8/?tag=tolees0ca-21)
+[![Apple iPhone XS Max  512 GB  - Space Gra](https://m.media-amazon.com/images/I/51Kr5kDr5aL._SL400_.jpg)](https://www.amazon.de/dp/B07HBCNNL8/?tag=tolees0ca-21)
 
 ℹ️:
 

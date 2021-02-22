@@ -2,7 +2,7 @@
 layout: post
 title: 'Hasbro Spiele E2617100 Lippengeflüster   mit 48.46 % Rabatt'
 date: 2020-04-18 00:11:26
-image: 'https://m.media-amazon.com/images/I/51SHP7KCaoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51SHP7KCaoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.308333333333334'
 
 Sie können [Hasbro Spiele E2617100 Lippengeflüster  Erwachsenenspiel](https://www.amazon.de/dp/B07847TNQQ/?tag=tolees0ca-21) mit Preis 13.91 EUR (original: 26.99 EUR) 48.46 % Rabatt hier:
 
-[![Hasbro Spiele E2617100 Lippengeflüster  ](https://m.media-amazon.com/images/I/51SHP7KCaoL._SL200_.jpg)](https://www.amazon.de/dp/B07847TNQQ/?tag=tolees0ca-21)
+[![Hasbro Spiele E2617100 Lippengeflüster  ](https://m.media-amazon.com/images/I/51SHP7KCaoL._SL400_.jpg)](https://www.amazon.de/dp/B07847TNQQ/?tag=tolees0ca-21)
 
 ℹ️:
 

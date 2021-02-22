@@ -2,7 +2,7 @@
 layout: post
 title: '30.72 % rabat auf Playmobil 70004 Top Agents Spy Team Unde'
 date: 2020-03-17 10:59:13
-image: 'https://m.media-amazon.com/images/I/61TwfE32KaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61TwfE32KaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.614444444444444'
 
 Es gibt ein [Playmobil 70004 Top Agents Spy Team Underwater Wing  bunt](https://www.amazon.de/dp/B07JLRX84L/?tag=tolees0ca-21) mit aktuellem Preis 9.0 EUR (original: 12.99 EUR) 30.72 % Rabatt hier:
 
-[![Playmobil 70004 Top Agents Spy Team Unde](https://m.media-amazon.com/images/I/61TwfE32KaL._SL200_.jpg)](https://www.amazon.de/dp/B07JLRX84L/?tag=tolees0ca-21)
+[![Playmobil 70004 Top Agents Spy Team Unde](https://m.media-amazon.com/images/I/61TwfE32KaL._SL400_.jpg)](https://www.amazon.de/dp/B07JLRX84L/?tag=tolees0ca-21)
 
 ℹ️:
 

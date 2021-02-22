@@ -2,7 +2,7 @@
 layout: post
 title: '61.63 % rabat auf infactory Spielbaustein-Klebeband: Selbs'
 date: 2020-04-07 12:59:47
-image: 'https://m.media-amazon.com/images/I/51EjPTrtaaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51EjPTrtaaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.95'
 
 Es gibt ein [infactory Spielbaustein-Klebeband: Selbstklebendes Spielbaustein-Tape für gängige Systeme  1 m  hellblau  Spielzeug ](https://www.amazon.de/dp/B07K8RYPCM/?tag=tolees0ca-21) mit aktuellem Preis 4.95 EUR (original: 12.9 EUR) 61.63 % Rabatt hier:
 
-[![infactory Spielbaustein-Klebeband: Selbs](https://m.media-amazon.com/images/I/51EjPTrtaaL._SL200_.jpg)](https://www.amazon.de/dp/B07K8RYPCM/?tag=tolees0ca-21)
+[![infactory Spielbaustein-Klebeband: Selbs](https://m.media-amazon.com/images/I/51EjPTrtaaL._SL400_.jpg)](https://www.amazon.de/dp/B07K8RYPCM/?tag=tolees0ca-21)
 
 ℹ️:
 

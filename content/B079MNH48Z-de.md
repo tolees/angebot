@@ -2,7 +2,7 @@
 layout: post
 title: '29.43 % rabat auf PLAYMOBIL Magic 9474 Schlitten mit König'
 date: 2020-04-18 00:12:52
-image: 'https://m.media-amazon.com/images/I/51O2Ek2JuRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51O2Ek2JuRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.07181818181818'
 
 Es gibt ein [PLAYMOBIL Magic 9474 Schlitten mit Königspaar  Ab 4 Jahren](https://www.amazon.de/dp/B079MNH48Z/?tag=tolees0ca-21) mit aktuellem Preis 11.99 EUR (original: 16.99 EUR) 29.43 % Rabatt hier:
 
-[![PLAYMOBIL Magic 9474 Schlitten mit König](https://m.media-amazon.com/images/I/51O2Ek2JuRL._SL200_.jpg)](https://www.amazon.de/dp/B079MNH48Z/?tag=tolees0ca-21)
+[![PLAYMOBIL Magic 9474 Schlitten mit König](https://m.media-amazon.com/images/I/51O2Ek2JuRL._SL400_.jpg)](https://www.amazon.de/dp/B079MNH48Z/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Western Digital 4 TB My Cloud EX2 Ultra- mit 22.97 % Rabatt'
 date: 2020-06-30 14:22:49
-image: 'https://m.media-amazon.com/images/I/31cqpM20WLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31cqpM20WLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '257.898'
 
 Sie können [Western Digital 4 TB My Cloud EX2 Ultra-Netzwerkspeicher](https://www.amazon.de/dp/B01BIGSSHQ/?tag=tolees0ca-21) mit Preis 261.9 EUR (original: 340.0 EUR) 22.97 % Rabatt hier:
 
-[![Western Digital 4 TB My Cloud EX2 Ultra-](https://m.media-amazon.com/images/I/31cqpM20WLL._SL200_.jpg)](https://www.amazon.de/dp/B01BIGSSHQ/?tag=tolees0ca-21)
+[![Western Digital 4 TB My Cloud EX2 Ultra-](https://m.media-amazon.com/images/I/31cqpM20WLL._SL400_.jpg)](https://www.amazon.de/dp/B01BIGSSHQ/?tag=tolees0ca-21)
 
 ℹ️:
 

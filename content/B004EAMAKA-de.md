@@ -2,7 +2,7 @@
 layout: post
 title: '24.15 % rabat auf Lillet Blanc Aperitif – Fruchtiger franz'
 date: 2020-03-02 05:10:10
-image: 'https://m.media-amazon.com/images/I/41widB3n+aL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41widB3n+aL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Es gibt ein [Lillet Blanc Aperitif – Fruchtiger französischer Weinaperitif aus 85% Weinen und 15% Fruchtlikören – 1 x 0 75 L](https://www.amazon.de/dp/B004EAMAKA/?tag=tolees0ca-21) mit aktuellem Preis 10.99 EUR (original: 14.49 EUR) 24.15 % Rabatt hier:
 
-[![Lillet Blanc Aperitif – Fruchtiger franz](https://m.media-amazon.com/images/I/41widB3n+aL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B004EAMAKA/?tag=tolees0ca-21)
+[![Lillet Blanc Aperitif – Fruchtiger franz](https://m.media-amazon.com/images/I/41widB3n+aL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B004EAMAKA/?tag=tolees0ca-21)
 
 ℹ️:
 

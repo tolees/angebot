@@ -2,7 +2,7 @@
 layout: post
 title: 'OnePlus 8  5G  Smartphone ohne Vertrag   mit 33.10 % Rabatt'
 date: 2020-09-18 06:20:00
-image: 'https://m.media-amazon.com/images/I/419EiQ7nH7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419EiQ7nH7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '467.65'
 
 Sie können [OnePlus 8  5G  Smartphone ohne Vertrag  8GB + 128GB Speicher  6.55" AMOLED 90Hz Display  4300 mAh Akku  Dreifach-Kamera  Dual-Sim - Grün](https://www.amazon.de/dp/B07XY9B91B/?tag=tolees0ca-21) mit Preis 467.65 EUR (original: 699.0 EUR) 33.10 % Rabatt hier:
 
-[![OnePlus 8  5G  Smartphone ohne Vertrag  ](https://m.media-amazon.com/images/I/419EiQ7nH7L._SL200_.jpg)](https://www.amazon.de/dp/B07XY9B91B/?tag=tolees0ca-21)
+[![OnePlus 8  5G  Smartphone ohne Vertrag  ](https://m.media-amazon.com/images/I/419EiQ7nH7L._SL400_.jpg)](https://www.amazon.de/dp/B07XY9B91B/?tag=tolees0ca-21)
 
 ℹ️:
 

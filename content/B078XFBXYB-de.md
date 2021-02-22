@@ -2,7 +2,7 @@
 layout: post
 title: '67.41 % rabat auf 3D Stift Filament PLA Filament 1.75mm 60'
 date: 2020-03-02 11:51:05
-image: 'https://m.media-amazon.com/images/I/51KgEh2gvVL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51KgEh2gvVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.03'
 
 Es gibt ein [3D Stift Filament PLA Filament 1.75mm 60M 3 Farben je 20M  Maigel 3D Print Filament Temperatur ändernde](https://www.amazon.de/dp/B078XFBXYB/?tag=tolees0ca-21) mit aktuellem Preis 8.03 EUR (original: 24.64 EUR) 67.41 % Rabatt hier:
 
-[![3D Stift Filament PLA Filament 1.75mm 60](https://m.media-amazon.com/images/I/51KgEh2gvVL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B078XFBXYB/?tag=tolees0ca-21)
+[![3D Stift Filament PLA Filament 1.75mm 60](https://m.media-amazon.com/images/I/51KgEh2gvVL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B078XFBXYB/?tag=tolees0ca-21)
 
 ℹ️:
 

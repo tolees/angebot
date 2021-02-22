@@ -2,7 +2,7 @@
 layout: post
 title: 'Samsung Galaxy Watch Active2 Aluminium   mit 15.42 % Rabatt'
 date: 2020-03-22 11:28:20
-image: 'https://m.media-amazon.com/images/I/316p0MWR8GL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316p0MWR8GL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '269.155'
 
 Sie können [Samsung Galaxy Watch Active2 Aluminium  40 mm  Bluetooth  Schwarz](https://www.amazon.de/dp/B07VMH6V1C/?tag=tolees0ca-21) mit Preis 252.9 EUR (original: 299.0 EUR) 15.42 % Rabatt hier:
 
-[![Samsung Galaxy Watch Active2 Aluminium  ](https://m.media-amazon.com/images/I/316p0MWR8GL._SL200_.jpg)](https://www.amazon.de/dp/B07VMH6V1C/?tag=tolees0ca-21)
+[![Samsung Galaxy Watch Active2 Aluminium  ](https://m.media-amazon.com/images/I/316p0MWR8GL._SL400_.jpg)](https://www.amazon.de/dp/B07VMH6V1C/?tag=tolees0ca-21)
 
 ℹ️:
 

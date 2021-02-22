@@ -2,7 +2,7 @@
 layout: post
 title: '20.01 % rabat auf HERMKO 5722 2er Pack Damen 3/4-Leggings '
 date: 2020-09-27 08:37:32
-image: 'https://m.media-amazon.com/images/I/41R4Q1n1JwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41R4Q1n1JwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 Es gibt ein [HERMKO 5722 2er Pack Damen 3/4-Leggings mit Spitze  Farbe:weiß  Größe:32/34  XS ](https://www.amazon.de/dp/B01LL5MV2W/?tag=tolees0ca-21) mit aktuellem Preis 15.99 EUR (original: 19.99 EUR) 20.01 % Rabatt hier:
 
-[![HERMKO 5722 2er Pack Damen 3/4-Leggings ](https://m.media-amazon.com/images/I/41R4Q1n1JwL._SL200_.jpg)](https://www.amazon.de/dp/B01LL5MV2W/?tag=tolees0ca-21)
+[![HERMKO 5722 2er Pack Damen 3/4-Leggings ](https://m.media-amazon.com/images/I/41R4Q1n1JwL._SL400_.jpg)](https://www.amazon.de/dp/B01LL5MV2W/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Pokémon GO Plus mit 34.44 % Rabatt'
 date: 2020-04-28 07:39:29
-image: 'https://m.media-amazon.com/images/I/51BqogvUbOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51BqogvUbOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '92.49000000000001'
 
 Sie können [Pokémon GO Plus](https://www.amazon.de/dp/B01HQ55NPI/?tag=tolees0ca-21) mit Preis 74.98 EUR (original: 114.36 EUR) 34.44 % Rabatt hier:
 
-[![Pokémon GO Plus](https://m.media-amazon.com/images/I/51BqogvUbOL._SL200_.jpg)](https://www.amazon.de/dp/B01HQ55NPI/?tag=tolees0ca-21)
+[![Pokémon GO Plus](https://m.media-amazon.com/images/I/51BqogvUbOL._SL400_.jpg)](https://www.amazon.de/dp/B01HQ55NPI/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '22.53 % rabat auf Tetra Pro Energy Premiumfutter  Flockenf'
 date: 2020-08-26 13:20:02
-image: 'https://m.media-amazon.com/images/I/510q5B6BX+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510q5B6BX+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.88'
 
 Es gibt ein [Tetra Pro Energy Premiumfutter  Flockenfutter für alle tropischen Zierfische  Fischfutter mit Energiekonzentrat für gesteigerte Vitalität   verschiedene Größen](https://www.amazon.de/dp/B000LY0VN6/?tag=tolees0ca-21) mit aktuellem Preis 5.88 EUR (original: 7.59 EUR) 22.53 % Rabatt hier:
 
-[![Tetra Pro Energy Premiumfutter  Flockenf](https://m.media-amazon.com/images/I/510q5B6BX+L._SL200_.jpg)](https://www.amazon.de/dp/B000LY0VN6/?tag=tolees0ca-21)
+[![Tetra Pro Energy Premiumfutter  Flockenf](https://m.media-amazon.com/images/I/510q5B6BX+L._SL400_.jpg)](https://www.amazon.de/dp/B000LY0VN6/?tag=tolees0ca-21)
 
 ℹ️:
 

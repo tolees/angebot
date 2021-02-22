@@ -2,7 +2,7 @@
 layout: post
 title: 'Arlo Pro2 Smart Home Zusatz-Überwachungs mit 44.64 % Rabatt'
 date: 2020-02-06 04:57:14
-image: 'https://m.media-amazon.com/images/I/41EhipZZDjL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EhipZZDjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '154.99'
 
 Sie können [Arlo Pro2 Smart Home Zusatz-Überwachungskamera & Sicherheitsalarm  130 Grad Blickwinkel  kabellos  WLAN  Bewegungsmelder  Innen/Außen  Nachtsicht  wetterfest  2-Wege Audio  weiß  VMC4030P](https://www.amazon.de/dp/B0777VVCBF/?tag=tolees0ca-21) mit Preis 154.99 EUR (original: 279.99 EUR) 44.64 % Rabatt hier:
 
-[![Arlo Pro2 Smart Home Zusatz-Überwachungs](https://m.media-amazon.com/images/I/41EhipZZDjL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B0777VVCBF/?tag=tolees0ca-21)
+[![Arlo Pro2 Smart Home Zusatz-Überwachungs](https://m.media-amazon.com/images/I/41EhipZZDjL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B0777VVCBF/?tag=tolees0ca-21)
 
 ℹ️:
 

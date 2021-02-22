@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko 34618 Game of Thrones: Bran Stark  mit 26.29 % Rabatt'
 date: 2020-01-14 06:26:23
-image: 'https://images-eu.ssl-images-amazon.com/images/I/414CoIaTWpL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414CoIaTWpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.21'
 
 Sie können [Funko 34618 Game of Thrones: Bran Stark POP Vinylfigur  Multi](https://www.amazon.de/dp/B07DFGC7FR/?tag=tolees0ca-21) mit Preis 11.72 EUR (original: 15.9 EUR) 26.29 % Rabatt hier:
 
-[![Funko 34618 Game of Thrones: Bran Stark ](https://images-eu.ssl-images-amazon.com/images/I/414CoIaTWpL._SL200_.jpg)](https://www.amazon.de/dp/B07DFGC7FR/?tag=tolees0ca-21)
+[![Funko 34618 Game of Thrones: Bran Stark ](https://images-eu.ssl-images-amazon.com/images/I/414CoIaTWpL._SL400_.jpg)](https://www.amazon.de/dp/B07DFGC7FR/?tag=tolees0ca-21)
 
 ℹ️:
 

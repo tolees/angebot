@@ -2,7 +2,7 @@
 layout: post
 title: 'Akku Schlagschrauber  WESCO 18V 2.0Ah Sy mit 23.08 % Rabatt'
 date: 2020-04-03 12:00:42
-image: 'https://m.media-amazon.com/images/I/417EfpcWfOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417EfpcWfOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.99'
 
 Sie können [Akku Schlagschrauber  WESCO 18V 2.0Ah System Akku Schlagbohrschrauber  110Nm  Nennschlagzahl 0-3400bpm  Bohrfutter Spannweite 6 35mm 1/4 Zoll  inkl. Einsätze  Akku und Ladegerät WS2318](https://www.amazon.de/dp/B07XSDFBWF/?tag=tolees0ca-21) mit Preis 99.99 EUR (original: 129.99 EUR) 23.08 % Rabatt hier:
 
-[![Akku Schlagschrauber  WESCO 18V 2.0Ah Sy](https://m.media-amazon.com/images/I/417EfpcWfOL._SL200_.jpg)](https://www.amazon.de/dp/B07XSDFBWF/?tag=tolees0ca-21)
+[![Akku Schlagschrauber  WESCO 18V 2.0Ah Sy](https://m.media-amazon.com/images/I/417EfpcWfOL._SL400_.jpg)](https://www.amazon.de/dp/B07XSDFBWF/?tag=tolees0ca-21)
 
 ℹ️:
 

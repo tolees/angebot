@@ -2,7 +2,7 @@
 layout: post
 title: '38.43 % rabat auf Funko 37867 POP Vinyl: BTS: RM Sammelbar'
 date: 2020-04-14 23:58:22
-image: 'https://m.media-amazon.com/images/I/41KIVp4eOXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KIVp4eOXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.20777777777778'
 
 Es gibt ein [Funko 37867 POP Vinyl: BTS: RM Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B07KPSTR4B/?tag=tolees0ca-21) mit aktuellem Preis 9.79 EUR (original: 15.9 EUR) 38.43 % Rabatt hier:
 
-[![Funko 37867 POP Vinyl: BTS: RM Sammelbar](https://m.media-amazon.com/images/I/41KIVp4eOXL._SL200_.jpg)](https://www.amazon.de/dp/B07KPSTR4B/?tag=tolees0ca-21)
+[![Funko 37867 POP Vinyl: BTS: RM Sammelbar](https://m.media-amazon.com/images/I/41KIVp4eOXL._SL400_.jpg)](https://www.amazon.de/dp/B07KPSTR4B/?tag=tolees0ca-21)
 
 ℹ️:
 

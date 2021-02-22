@@ -2,7 +2,7 @@
 layout: post
 title: 'MUSTANG Herren Slim Fit Oregon Tapered J mit 25.00 % Rabatt'
 date: 2020-09-17 07:07:14
-image: 'https://m.media-amazon.com/images/I/31vN6fCYupL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31vN6fCYupL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.99'
 
 Sie können [MUSTANG Herren Slim Fit Oregon Tapered Jeans](https://www.amazon.de/dp/B078YL5TVN/?tag=tolees0ca-21) mit Preis 59.99 EUR (original: 79.99 EUR) 25.00 % Rabatt hier:
 
-[![MUSTANG Herren Slim Fit Oregon Tapered J](https://m.media-amazon.com/images/I/31vN6fCYupL._SL200_.jpg)](https://www.amazon.de/dp/B078YL5TVN/?tag=tolees0ca-21)
+[![MUSTANG Herren Slim Fit Oregon Tapered J](https://m.media-amazon.com/images/I/31vN6fCYupL._SL400_.jpg)](https://www.amazon.de/dp/B078YL5TVN/?tag=tolees0ca-21)
 
 ℹ️:
 

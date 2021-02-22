@@ -2,7 +2,7 @@
 layout: post
 title: 'Assassin s Creed Odyssey - Gold Edition  mit 67.00 % Rabatt'
 date: 2020-04-05 20:56:26
-image: 'https://m.media-amazon.com/images/I/B1aKzeOam-S._SL500_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/B1aKzeOam-S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.0'
 
 Sie können [Assassin s Creed Odyssey - Gold Edition [PC Code - Uplay]](https://www.amazon.de/dp/B07DNH641N/?tag=tolees0ca-21) mit Preis 33.0 EUR (original: 99.99 EUR) 67.00 % Rabatt hier:
 
-[![Assassin s Creed Odyssey - Gold Edition ](https://m.media-amazon.com/images/I/B1aKzeOam-S._SL500_._SL200_.jpg)](https://www.amazon.de/dp/B07DNH641N/?tag=tolees0ca-21)
+[![Assassin s Creed Odyssey - Gold Edition ](https://m.media-amazon.com/images/I/B1aKzeOam-S._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07DNH641N/?tag=tolees0ca-21)
 
 ℹ️:
 

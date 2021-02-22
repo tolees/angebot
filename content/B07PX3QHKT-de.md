@@ -2,7 +2,7 @@
 layout: post
 title: 'POP! Vinyl: Harry Potter: Harry Potter - mit 54.09 % Rabatt'
 date: 2020-10-10 06:20:40
-image: 'https://m.media-amazon.com/images/I/31u98L0zJeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31u98L0zJeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.150212765957447'
 
 Sie können [POP! Vinyl: Harry Potter: Harry Potter - Minerva McGonagall  Yule ](https://www.amazon.de/dp/B07PX3QHKT/?tag=tolees0ca-21) mit Preis 8.26 EUR (original: 17.99 EUR) 54.09 % Rabatt hier:
 
-[![POP! Vinyl: Harry Potter: Harry Potter -](https://m.media-amazon.com/images/I/31u98L0zJeL._SL200_.jpg)](https://www.amazon.de/dp/B07PX3QHKT/?tag=tolees0ca-21)
+[![POP! Vinyl: Harry Potter: Harry Potter -](https://m.media-amazon.com/images/I/31u98L0zJeL._SL400_.jpg)](https://www.amazon.de/dp/B07PX3QHKT/?tag=tolees0ca-21)
 
 ℹ️:
 

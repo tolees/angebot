@@ -2,7 +2,7 @@
 layout: post
 title: 'WD Black P10 Game Drive externe Festplat mit 18.75 % Rabatt'
 date: 2020-06-06 17:43:16
-image: 'https://m.media-amazon.com/images/I/41QfnVTHs9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QfnVTHs9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '140.62666666666667'
 
 Sie können [WD Black P10 Game Drive externe Festplatte 5 TB  mobile und robuste High-Perfomance-Festplatte  für Konsole und PC   bis zu 125 Spiele speichern   Schwarz](https://www.amazon.de/dp/B07VNTFHD5/?tag=tolees0ca-21) mit Preis 129.99 EUR (original: 159.99 EUR) 18.75 % Rabatt hier:
 
-[![WD Black P10 Game Drive externe Festplat](https://m.media-amazon.com/images/I/41QfnVTHs9L._SL200_.jpg)](https://www.amazon.de/dp/B07VNTFHD5/?tag=tolees0ca-21)
+[![WD Black P10 Game Drive externe Festplat](https://m.media-amazon.com/images/I/41QfnVTHs9L._SL400_.jpg)](https://www.amazon.de/dp/B07VNTFHD5/?tag=tolees0ca-21)
 
 ℹ️:
 

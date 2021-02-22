@@ -2,7 +2,7 @@
 layout: post
 title: '42.96 % rabat auf DELL KB216 USB QWERTY US International S'
 date: 2020-05-02 08:58:01
-image: 'https://m.media-amazon.com/images/I/31chAFSKzyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31chAFSKzyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.0'
 
 Es gibt ein [DELL KB216 USB QWERTY US International Schwarz Tastatur - Tastaturen  Standard  Verkabelt  USB  QWERTY  Schwarz ](https://www.amazon.de/dp/B01B8OSVCK/?tag=tolees0ca-21) mit aktuellem Preis 13.0 EUR (original: 22.79 EUR) 42.96 % Rabatt hier:
 
-[![DELL KB216 USB QWERTY US International S](https://m.media-amazon.com/images/I/31chAFSKzyL._SL200_.jpg)](https://www.amazon.de/dp/B01B8OSVCK/?tag=tolees0ca-21)
+[![DELL KB216 USB QWERTY US International S](https://m.media-amazon.com/images/I/31chAFSKzyL._SL400_.jpg)](https://www.amazon.de/dp/B01B8OSVCK/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch Professional Stichsäge GST 150 CE  mit 52.73 % Rabatt'
 date: 2020-07-22 18:56:44
-image: 'https://m.media-amazon.com/images/I/41RCMq5rfgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RCMq5rfgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '125.99'
 
 Sie können [Bosch Professional Stichsäge GST 150 CE  780 Watt  Schnitttiefe Holz max: 150 mm  ohnne Schlauch  im Koffer ](https://www.amazon.de/dp/B0035PVUAG/?tag=tolees0ca-21) mit Preis 125.99 EUR (original: 266.56 EUR) 52.73 % Rabatt hier:
 
-[![Bosch Professional Stichsäge GST 150 CE ](https://m.media-amazon.com/images/I/41RCMq5rfgL._SL200_.jpg)](https://www.amazon.de/dp/B0035PVUAG/?tag=tolees0ca-21)
+[![Bosch Professional Stichsäge GST 150 CE ](https://m.media-amazon.com/images/I/41RCMq5rfgL._SL400_.jpg)](https://www.amazon.de/dp/B0035PVUAG/?tag=tolees0ca-21)
 
 ℹ️:
 

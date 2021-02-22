@@ -2,7 +2,7 @@
 layout: post
 title: '23.41 % rabat auf QAZQA Modern Industrielle Hängelampe sch'
 date: 2020-08-30 23:53:57
-image: 'https://m.media-amazon.com/images/I/51mTzj0DfaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51mTzj0DfaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '223.275'
 
 Es gibt ein [QAZQA Modern Industrielle Hängelampe schwarz mit 4-flammig-Licht-Rack - Cage Rack/Innenbeleuchtung/Wohnzimmerlampe/Küche Stahl Länglich LED geeignet E27 Max. 4 x 60 Watt](https://www.amazon.de/dp/B07BVFL132/?tag=tolees0ca-21) mit aktuellem Preis 229.0 EUR (original: 299.0 EUR) 23.41 % Rabatt hier:
 
-[![QAZQA Modern Industrielle Hängelampe sch](https://m.media-amazon.com/images/I/51mTzj0DfaL._SL200_.jpg)](https://www.amazon.de/dp/B07BVFL132/?tag=tolees0ca-21)
+[![QAZQA Modern Industrielle Hängelampe sch](https://m.media-amazon.com/images/I/51mTzj0DfaL._SL400_.jpg)](https://www.amazon.de/dp/B07BVFL132/?tag=tolees0ca-21)
 
 ℹ️:
 

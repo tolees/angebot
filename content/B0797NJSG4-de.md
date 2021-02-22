@@ -2,7 +2,7 @@
 layout: post
 title: '56.90 % rabat auf Funko 30171 Actionfigur Destiny-Osiris'
 date: 2020-03-18 02:39:15
-image: 'https://m.media-amazon.com/images/I/51mM-QFBeyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51mM-QFBeyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.11'
 
 Es gibt ein [Funko 30171 Actionfigur Destiny-Osiris](https://www.amazon.de/dp/B0797NJSG4/?tag=tolees0ca-21) mit aktuellem Preis 6.03 EUR (original: 13.99 EUR) 56.90 % Rabatt hier:
 
-[![Funko 30171 Actionfigur Destiny-Osiris](https://m.media-amazon.com/images/I/51mM-QFBeyL._SL200_.jpg)](https://www.amazon.de/dp/B0797NJSG4/?tag=tolees0ca-21)
+[![Funko 30171 Actionfigur Destiny-Osiris](https://m.media-amazon.com/images/I/51mM-QFBeyL._SL400_.jpg)](https://www.amazon.de/dp/B0797NJSG4/?tag=tolees0ca-21)
 
 ℹ️:
 

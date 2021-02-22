@@ -2,7 +2,7 @@
 layout: post
 title: 'BRIKSMAX Led Beleuchtungsset für Ghostbu mit 43.11 % Rabatt'
 date: 2020-03-31 13:03:06
-image: 'https://m.media-amazon.com/images/I/515eLeXPrbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/515eLeXPrbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.99'
 
 Sie können [BRIKSMAX Led Beleuchtungsset für Ghostbusters Ecto-1  Kompatibel Mit Lego 21108 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B07PT8QH7C/?tag=tolees0ca-21) mit Preis 32.99 EUR (original: 57.99 EUR) 43.11 % Rabatt hier:
 
-[![BRIKSMAX Led Beleuchtungsset für Ghostbu](https://m.media-amazon.com/images/I/515eLeXPrbL._SL200_.jpg)](https://www.amazon.de/dp/B07PT8QH7C/?tag=tolees0ca-21)
+[![BRIKSMAX Led Beleuchtungsset für Ghostbu](https://m.media-amazon.com/images/I/515eLeXPrbL._SL400_.jpg)](https://www.amazon.de/dp/B07PT8QH7C/?tag=tolees0ca-21)
 
 ℹ️:
 

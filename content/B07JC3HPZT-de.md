@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Duplo 10894 Disney Pixar Toy-Story- mit 28.68 % Rabatt'
 date: 2020-09-29 12:11:18
-image: 'https://m.media-amazon.com/images/I/51QImcD+fmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QImcD+fmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.233749999999999'
 
 Sie können [LEGO Duplo 10894 Disney Pixar Toy-Story-Zug  Bausteine](https://www.amazon.de/dp/B07JC3HPZT/?tag=tolees0ca-21) mit Preis 13.9 EUR (original: 19.49 EUR) 28.68 % Rabatt hier:
 
-[![LEGO Duplo 10894 Disney Pixar Toy-Story-](https://m.media-amazon.com/images/I/51QImcD+fmL._SL200_.jpg)](https://www.amazon.de/dp/B07JC3HPZT/?tag=tolees0ca-21)
+[![LEGO Duplo 10894 Disney Pixar Toy-Story-](https://m.media-amazon.com/images/I/51QImcD+fmL._SL400_.jpg)](https://www.amazon.de/dp/B07JC3HPZT/?tag=tolees0ca-21)
 
 ℹ️:
 

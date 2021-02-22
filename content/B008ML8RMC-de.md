@@ -2,7 +2,7 @@
 layout: post
 title: '16.27 % rabat auf The Dark Knight Rises [Blu-ray]'
 date: 2020-02-03 04:54:52
-image: 'https://m.media-amazon.com/images/I/51eNNsg8xDL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51eNNsg8xDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.27'
 
 Es gibt ein [The Dark Knight Rises [Blu-ray]](https://www.amazon.de/dp/B008ML8RMC/?tag=tolees0ca-21) mit aktuellem Preis 4.27 EUR (original: 5.1 EUR) 16.27 % Rabatt hier:
 
-[![The Dark Knight Rises [Blu-ray]](https://m.media-amazon.com/images/I/51eNNsg8xDL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B008ML8RMC/?tag=tolees0ca-21)
+[![The Dark Knight Rises [Blu-ray]](https://m.media-amazon.com/images/I/51eNNsg8xDL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B008ML8RMC/?tag=tolees0ca-21)
 
 ℹ️:
 

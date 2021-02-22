@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko POP! Vinyl Rocks: Iggy Pop - Iggy  mit 31.25 % Rabatt'
 date: 2020-08-28 05:22:35
-image: 'https://m.media-amazon.com/images/I/41BnRTpDJpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BnRTpDJpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.680000000000001'
 
 Sie können [Funko POP! Vinyl Rocks: Iggy Pop - Iggy  Mehrfarben  Standard](https://www.amazon.de/dp/B07QGWY9F7/?tag=tolees0ca-21) mit Preis 8.25 EUR (original: 12.0 EUR) 31.25 % Rabatt hier:
 
-[![Funko POP! Vinyl Rocks: Iggy Pop - Iggy ](https://m.media-amazon.com/images/I/41BnRTpDJpL._SL200_.jpg)](https://www.amazon.de/dp/B07QGWY9F7/?tag=tolees0ca-21)
+[![Funko POP! Vinyl Rocks: Iggy Pop - Iggy ](https://m.media-amazon.com/images/I/41BnRTpDJpL._SL400_.jpg)](https://www.amazon.de/dp/B07QGWY9F7/?tag=tolees0ca-21)
 
 ℹ️:
 

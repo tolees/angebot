@@ -2,7 +2,7 @@
 layout: post
 title: 'KS Tools 911.8100 Hebeleisen-Satz  4-tlg mit 18.01 % Rabatt'
 date: 2020-04-10 07:51:59
-image: 'https://m.media-amazon.com/images/I/31nL+DgWCbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nL+DgWCbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.285'
 
 Sie können [KS Tools 911.8100 Hebeleisen-Satz  4-tlg.](https://www.amazon.de/dp/B001NYXUKY/?tag=tolees0ca-21) mit Preis 24.94 EUR (original: 30.42 EUR) 18.01 % Rabatt hier:
 
-[![KS Tools 911.8100 Hebeleisen-Satz  4-tlg](https://m.media-amazon.com/images/I/31nL+DgWCbL._SL200_.jpg)](https://www.amazon.de/dp/B001NYXUKY/?tag=tolees0ca-21)
+[![KS Tools 911.8100 Hebeleisen-Satz  4-tlg](https://m.media-amazon.com/images/I/31nL+DgWCbL._SL400_.jpg)](https://www.amazon.de/dp/B001NYXUKY/?tag=tolees0ca-21)
 
 ℹ️:
 

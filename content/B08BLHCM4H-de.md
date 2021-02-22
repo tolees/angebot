@@ -2,7 +2,7 @@
 layout: post
 title: '34.02 % rabat auf LIGHTAILING Licht-Set Für  Technic Ducat'
 date: 2020-08-10 00:23:44
-image: 'https://m.media-amazon.com/images/I/513J051WUTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513J051WUTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.99'
 
 Es gibt ein [LIGHTAILING Licht-Set Für  Technic Ducati Panigale V4 R  Modell - LED Licht-Set Kompatibel Mit Lego 42107 Modell Nicht Enthalten ](https://www.amazon.de/dp/B08BLHCM4H/?tag=tolees0ca-21) mit aktuellem Preis 32.99 EUR (original: 50.0 EUR) 34.02 % Rabatt hier:
 
-[![LIGHTAILING Licht-Set Für  Technic Ducat](https://m.media-amazon.com/images/I/513J051WUTL._SL200_.jpg)](https://www.amazon.de/dp/B08BLHCM4H/?tag=tolees0ca-21)
+[![LIGHTAILING Licht-Set Für  Technic Ducat](https://m.media-amazon.com/images/I/513J051WUTL._SL400_.jpg)](https://www.amazon.de/dp/B08BLHCM4H/?tag=tolees0ca-21)
 
 ℹ️:
 

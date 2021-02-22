@@ -2,7 +2,7 @@
 layout: post
 title: '29.76 % rabat auf Ravensburger 29835 - Mini Mandala-Design'
 date: 2020-01-28 10:16:43
-image: 'https://m.media-amazon.com/images/I/51pCyX30MtL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51pCyX30MtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.8704'
 
 Es gibt ein [Ravensburger 29835 - Mini Mandala-Designer Frozen](https://www.amazon.de/dp/B00QM4WB28/?tag=tolees0ca-21) mit aktuellem Preis 4.91 EUR (original: 6.99 EUR) 29.76 % Rabatt hier:
 
-[![Ravensburger 29835 - Mini Mandala-Design](https://m.media-amazon.com/images/I/51pCyX30MtL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00QM4WB28/?tag=tolees0ca-21)
+[![Ravensburger 29835 - Mini Mandala-Design](https://m.media-amazon.com/images/I/51pCyX30MtL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00QM4WB28/?tag=tolees0ca-21)
 
 ℹ️:
 

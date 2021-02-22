@@ -2,7 +2,7 @@
 layout: post
 title: '36.87 % rabat auf Epson B11B223401 Perfection V800 Photo S'
 date: 2020-04-25 17:53:08
-image: 'https://m.media-amazon.com/images/I/31zriYy46JL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31zriYy46JL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '361.0'
 
 Es gibt ein [Epson B11B223401 Perfection V800 Photo Scanner Flachbett-Scanner  6.400 dpi x 9  schwarz/silber](https://www.amazon.de/dp/B00NV4BZT2/?tag=tolees0ca-21) mit aktuellem Preis 361.0 EUR (original: 571.82 EUR) 36.87 % Rabatt hier:
 
-[![Epson B11B223401 Perfection V800 Photo S](https://m.media-amazon.com/images/I/31zriYy46JL._SL200_.jpg)](https://www.amazon.de/dp/B00NV4BZT2/?tag=tolees0ca-21)
+[![Epson B11B223401 Perfection V800 Photo S](https://m.media-amazon.com/images/I/31zriYy46JL._SL400_.jpg)](https://www.amazon.de/dp/B00NV4BZT2/?tag=tolees0ca-21)
 
 ℹ️:
 

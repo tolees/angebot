@@ -2,7 +2,7 @@
 layout: post
 title: '49.51 % rabat auf Pepe Jeans Damen Jeans Soho  Blau  D26  '
 date: 2020-05-17 09:54:27
-image: 'https://m.media-amazon.com/images/I/41kaXfxSypL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kaXfxSypL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.99'
 
 Es gibt ein [Pepe Jeans Damen Jeans Soho  Blau  D26   29W/30L](https://www.amazon.de/dp/B076W5GMG6/?tag=tolees0ca-21) mit aktuellem Preis 49.99 EUR (original: 99.0 EUR) 49.51 % Rabatt hier:
 
-[![Pepe Jeans Damen Jeans Soho  Blau  D26  ](https://m.media-amazon.com/images/I/41kaXfxSypL._SL200_.jpg)](https://www.amazon.de/dp/B076W5GMG6/?tag=tolees0ca-21)
+[![Pepe Jeans Damen Jeans Soho  Blau  D26  ](https://m.media-amazon.com/images/I/41kaXfxSypL._SL400_.jpg)](https://www.amazon.de/dp/B076W5GMG6/?tag=tolees0ca-21)
 
 ℹ️:
 

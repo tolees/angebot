@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko 9301 S1 No Actionfigur Games: Over mit 40.83 % Rabatt'
 date: 2020-03-23 21:00:51
-image: 'https://m.media-amazon.com/images/I/51bSzj3nobL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51bSzj3nobL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.0'
 
 Sie können [Funko 9301 S1 No Actionfigur Games: Overwatch: Widowmaker  Multi  Standard](https://www.amazon.de/dp/B01CDEXBAG/?tag=tolees0ca-21) mit Preis 8.0 EUR (original: 13.52 EUR) 40.83 % Rabatt hier:
 
-[![Funko 9301 S1 No Actionfigur Games: Over](https://m.media-amazon.com/images/I/51bSzj3nobL._SL200_.jpg)](https://www.amazon.de/dp/B01CDEXBAG/?tag=tolees0ca-21)
+[![Funko 9301 S1 No Actionfigur Games: Over](https://m.media-amazon.com/images/I/51bSzj3nobL._SL400_.jpg)](https://www.amazon.de/dp/B01CDEXBAG/?tag=tolees0ca-21)
 
 ℹ️:
 

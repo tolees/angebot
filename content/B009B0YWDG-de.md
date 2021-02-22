@@ -2,7 +2,7 @@
 layout: post
 title: '18.94 % rabat auf Games of Thrones 3012 Actionfigur Daener'
 date: 2020-04-16 08:08:52
-image: 'https://m.media-amazon.com/images/I/416KbfPjDwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416KbfPjDwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.165'
 
 Es gibt ein [Games of Thrones 3012 Actionfigur Daenerys Targaryen](https://www.amazon.de/dp/B009B0YWDG/?tag=tolees0ca-21) mit aktuellem Preis 11.34 EUR (original: 13.99 EUR) 18.94 % Rabatt hier:
 
-[![Games of Thrones 3012 Actionfigur Daener](https://m.media-amazon.com/images/I/416KbfPjDwL._SL200_.jpg)](https://www.amazon.de/dp/B009B0YWDG/?tag=tolees0ca-21)
+[![Games of Thrones 3012 Actionfigur Daener](https://m.media-amazon.com/images/I/416KbfPjDwL._SL400_.jpg)](https://www.amazon.de/dp/B009B0YWDG/?tag=tolees0ca-21)
 
 ℹ️:
 

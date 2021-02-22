@@ -2,7 +2,7 @@
 layout: post
 title: '43.66 % rabat auf Panama Jack Herren Panama 03 Aviator Com'
 date: 2020-02-08 15:45:39
-image: 'https://m.media-amazon.com/images/I/41KLTf8fC1L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KLTf8fC1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '106.92500000000001'
 
 Es gibt ein [Panama Jack Herren Panama 03 Aviator Combat Boots  Lederfarben  44 EU](https://www.amazon.de/dp/B01LYGRJ8D/?tag=tolees0ca-21) mit aktuellem Preis 106.48 EUR (original: 189.0 EUR) 43.66 % Rabatt hier:
 
-[![Panama Jack Herren Panama 03 Aviator Com](https://m.media-amazon.com/images/I/41KLTf8fC1L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01LYGRJ8D/?tag=tolees0ca-21)
+[![Panama Jack Herren Panama 03 Aviator Com](https://m.media-amazon.com/images/I/41KLTf8fC1L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01LYGRJ8D/?tag=tolees0ca-21)
 
 ℹ️:
 

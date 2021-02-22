@@ -2,7 +2,7 @@
 layout: post
 title: 'Hollow Knight mit 23.03 % Rabatt'
 date: 2020-05-07 14:51:16
-image: 'https://m.media-amazon.com/images/I/51c6vV+EWsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51c6vV+EWsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.99'
 
 Sie können [Hollow Knight](https://www.amazon.de/dp/B07NMJK3GG/?tag=tolees0ca-21) mit Preis 34.99 EUR (original: 45.46 EUR) 23.03 % Rabatt hier:
 
-[![Hollow Knight](https://m.media-amazon.com/images/I/51c6vV+EWsL._SL200_.jpg)](https://www.amazon.de/dp/B07NMJK3GG/?tag=tolees0ca-21)
+[![Hollow Knight](https://m.media-amazon.com/images/I/51c6vV+EWsL._SL400_.jpg)](https://www.amazon.de/dp/B07NMJK3GG/?tag=tolees0ca-21)
 
 ℹ️:
 

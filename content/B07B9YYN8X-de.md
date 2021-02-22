@@ -2,7 +2,7 @@
 layout: post
 title: '20.98 % rabat auf Keter Kissenbox Ontario  graphit'
 date: 2020-03-15 04:43:32
-image: 'https://m.media-amazon.com/images/I/31YeWyqjpdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31YeWyqjpdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '187.99'
 
 Es gibt ein [Keter Kissenbox Ontario  graphit](https://www.amazon.de/dp/B07B9YYN8X/?tag=tolees0ca-21) mit aktuellem Preis 187.99 EUR (original: 237.9 EUR) 20.98 % Rabatt hier:
 
-[![Keter Kissenbox Ontario  graphit](https://m.media-amazon.com/images/I/31YeWyqjpdL._SL200_.jpg)](https://www.amazon.de/dp/B07B9YYN8X/?tag=tolees0ca-21)
+[![Keter Kissenbox Ontario  graphit](https://m.media-amazon.com/images/I/31YeWyqjpdL._SL400_.jpg)](https://www.amazon.de/dp/B07B9YYN8X/?tag=tolees0ca-21)
 
 ℹ️:
 

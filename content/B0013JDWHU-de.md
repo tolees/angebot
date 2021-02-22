@@ -2,7 +2,7 @@
 layout: post
 title: 'BGS 199 | Adapter-Satz | 6-tlg. | 1/4" a mit 51.78 % Rabatt'
 date: 2020-09-12 10:49:07
-image: 'https://m.media-amazon.com/images/I/41-KESp6bKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-KESp6bKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Sie können [BGS 199 | Adapter-Satz | 6-tlg. | 1/4" auf 3/8"  3/8" auf 1/4"  3/8" auf 1/2"  1/2" auf 3/8"  1/2" auf 3/4"  3/4" auf 1/2"](https://www.amazon.de/dp/B0013JDWHU/?tag=tolees0ca-21) mit Preis 10.99 EUR (original: 22.79 EUR) 51.78 % Rabatt hier:
 
-[![BGS 199 | Adapter-Satz | 6-tlg. | 1/4" a](https://m.media-amazon.com/images/I/41-KESp6bKL._SL200_.jpg)](https://www.amazon.de/dp/B0013JDWHU/?tag=tolees0ca-21)
+[![BGS 199 | Adapter-Satz | 6-tlg. | 1/4" a](https://m.media-amazon.com/images/I/41-KESp6bKL._SL400_.jpg)](https://www.amazon.de/dp/B0013JDWHU/?tag=tolees0ca-21)
 
 ℹ️:
 

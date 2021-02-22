@@ -2,7 +2,7 @@
 layout: post
 title: 'STAUB Gusseisen Bräter/ Cocotte  oval 37 mit 41.76 % Rabatt'
 date: 2020-08-10 14:36:48
-image: 'https://m.media-amazon.com/images/I/41WMVdEcswL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WMVdEcswL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '185.8'
 
 Sie können [STAUB Gusseisen Bräter/ Cocotte  oval 37 cm  8 L  schwarz](https://www.amazon.de/dp/B001EPF9WO/?tag=tolees0ca-21) mit Preis 185.8 EUR (original: 319.0 EUR) 41.76 % Rabatt hier:
 
-[![STAUB Gusseisen Bräter/ Cocotte  oval 37](https://m.media-amazon.com/images/I/41WMVdEcswL._SL200_.jpg)](https://www.amazon.de/dp/B001EPF9WO/?tag=tolees0ca-21)
+[![STAUB Gusseisen Bräter/ Cocotte  oval 37](https://m.media-amazon.com/images/I/41WMVdEcswL._SL400_.jpg)](https://www.amazon.de/dp/B001EPF9WO/?tag=tolees0ca-21)
 
 ℹ️:
 

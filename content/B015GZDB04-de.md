@@ -2,7 +2,7 @@
 layout: post
 title: '60.76 % rabat auf Timberland Herren Bradstreet Leather Sen'
 date: 2020-09-23 20:04:27
-image: 'https://m.media-amazon.com/images/I/31pc3M3qtHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31pc3M3qtHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.89'
 
 Es gibt ein [Timberland Herren Bradstreet Leather Sensorflex Chukka Stiefel  Schwarz Nubuck  43.5 EU](https://www.amazon.de/dp/B015GZDB04/?tag=tolees0ca-21) mit aktuellem Preis 54.89 EUR (original: 139.9 EUR) 60.76 % Rabatt hier:
 
-[![Timberland Herren Bradstreet Leather Sen](https://m.media-amazon.com/images/I/31pc3M3qtHL._SL200_.jpg)](https://www.amazon.de/dp/B015GZDB04/?tag=tolees0ca-21)
+[![Timberland Herren Bradstreet Leather Sen](https://m.media-amazon.com/images/I/31pc3M3qtHL._SL400_.jpg)](https://www.amazon.de/dp/B015GZDB04/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'PLAYMOBIL Family Fun 70087 Großer Campin mit 31.62 % Rabatt'
 date: 2020-09-08 07:35:38
-image: 'https://m.media-amazon.com/images/I/51eQQqBThUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51eQQqBThUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.733137254901955'
 
 Sie können [PLAYMOBIL Family Fun 70087 Großer Campingplatz  Ab 4 Jahren](https://www.amazon.de/dp/B07JMCCF85/?tag=tolees0ca-21) mit Preis 39.99 EUR (original: 58.48 EUR) 31.62 % Rabatt hier:
 
-[![PLAYMOBIL Family Fun 70087 Großer Campin](https://m.media-amazon.com/images/I/51eQQqBThUL._SL200_.jpg)](https://www.amazon.de/dp/B07JMCCF85/?tag=tolees0ca-21)
+[![PLAYMOBIL Family Fun 70087 Großer Campin](https://m.media-amazon.com/images/I/51eQQqBThUL._SL400_.jpg)](https://www.amazon.de/dp/B07JMCCF85/?tag=tolees0ca-21)
 
 ℹ️:
 

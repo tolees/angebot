@@ -2,7 +2,7 @@
 layout: post
 title: 'DeWalt XR Akku-Schlagschrauber DCF899NT  mit 51.62 % Rabatt'
 date: 2020-01-02 10:22:25
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41wmJxltjHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wmJxltjHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '177.89'
 
 Sie können [DeWalt XR Akku-Schlagschrauber DCF899NT - Schlagschrauber mit bürstenloser Motor-Technologie  3-Gang-Getriebe & LED-Licht für diverse Schraubarbeiten - 1 x Akkuschrauber Li-Ion 18 V](https://www.amazon.de/dp/B00WB1PI5S/?tag=tolees0ca-21) mit Preis 177.89 EUR (original: 367.71 EUR) 51.62 % Rabatt hier:
 
-[![DeWalt XR Akku-Schlagschrauber DCF899NT ](https://images-eu.ssl-images-amazon.com/images/I/41wmJxltjHL._SL200_.jpg)](https://www.amazon.de/dp/B00WB1PI5S/?tag=tolees0ca-21)
+[![DeWalt XR Akku-Schlagschrauber DCF899NT ](https://images-eu.ssl-images-amazon.com/images/I/41wmJxltjHL._SL400_.jpg)](https://www.amazon.de/dp/B00WB1PI5S/?tag=tolees0ca-21)
 
 ℹ️:
 

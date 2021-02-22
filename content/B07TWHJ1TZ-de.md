@@ -2,7 +2,7 @@
 layout: post
 title: 'Pop Guild Wars 2 Joko Vinyl Figure mit 18.50 % Rabatt'
 date: 2020-04-10 00:06:11
-image: 'https://m.media-amazon.com/images/I/41VSnm3ZnfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VSnm3ZnfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.891666666666666'
 
 Sie können [Pop Guild Wars 2 Joko Vinyl Figure](https://www.amazon.de/dp/B07TWHJ1TZ/?tag=tolees0ca-21) mit Preis 9.78 EUR (original: 12.0 EUR) 18.50 % Rabatt hier:
 
-[![Pop Guild Wars 2 Joko Vinyl Figure](https://m.media-amazon.com/images/I/41VSnm3ZnfL._SL200_.jpg)](https://www.amazon.de/dp/B07TWHJ1TZ/?tag=tolees0ca-21)
+[![Pop Guild Wars 2 Joko Vinyl Figure](https://m.media-amazon.com/images/I/41VSnm3ZnfL._SL400_.jpg)](https://www.amazon.de/dp/B07TWHJ1TZ/?tag=tolees0ca-21)
 
 ℹ️:
 

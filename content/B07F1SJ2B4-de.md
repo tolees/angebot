@@ -2,7 +2,7 @@
 layout: post
 title: '48.46 % rabat auf Levi s Herren Slim Jeans 511 SLIM FIT  S'
 date: 2020-04-04 19:37:08
-image: 'https://m.media-amazon.com/images/I/31P96Wkdw9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31P96Wkdw9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.39'
 
 Es gibt ein [Levi s Herren Slim Jeans 511 SLIM FIT  Schwarz  Mineral Black 14W Warp Str Cord B Wt 2 3257   31W / 34L](https://www.amazon.de/dp/B07F1SJ2B4/?tag=tolees0ca-21) mit aktuellem Preis 46.39 EUR (original: 90.0 EUR) 48.46 % Rabatt hier:
 
-[![Levi s Herren Slim Jeans 511 SLIM FIT  S](https://m.media-amazon.com/images/I/31P96Wkdw9L._SL200_.jpg)](https://www.amazon.de/dp/B07F1SJ2B4/?tag=tolees0ca-21)
+[![Levi s Herren Slim Jeans 511 SLIM FIT  S](https://m.media-amazon.com/images/I/31P96Wkdw9L._SL400_.jpg)](https://www.amazon.de/dp/B07F1SJ2B4/?tag=tolees0ca-21)
 
 ℹ️:
 

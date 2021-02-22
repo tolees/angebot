@@ -2,7 +2,7 @@
 layout: post
 title: 'Augsburger Puppenkiste - Klassiker Kolle mit 28.42 % Rabatt'
 date: 2020-09-13 06:59:59
-image: 'https://m.media-amazon.com/images/I/513lVcGf8oL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513lVcGf8oL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.93'
 
 Sie können [Augsburger Puppenkiste - Klassiker Kollektion [5 DVDs]](https://www.amazon.de/dp/B072ZKW27Q/?tag=tolees0ca-21) mit Preis 13.93 EUR (original: 19.46 EUR) 28.42 % Rabatt hier:
 
-[![Augsburger Puppenkiste - Klassiker Kolle](https://m.media-amazon.com/images/I/513lVcGf8oL._SL200_.jpg)](https://www.amazon.de/dp/B072ZKW27Q/?tag=tolees0ca-21)
+[![Augsburger Puppenkiste - Klassiker Kolle](https://m.media-amazon.com/images/I/513lVcGf8oL._SL400_.jpg)](https://www.amazon.de/dp/B072ZKW27Q/?tag=tolees0ca-21)
 
 ℹ️:
 

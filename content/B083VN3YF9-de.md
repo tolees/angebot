@@ -2,7 +2,7 @@
 layout: post
 title: 'Crucial Ballistix BL2K8G32C16U4WL RGB  3 mit 19.01 % Rabatt'
 date: 2020-06-06 22:08:02
-image: 'https://m.media-amazon.com/images/I/41eIASFtYFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eIASFtYFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.99'
 
 Sie können [Crucial Ballistix BL2K8G32C16U4WL RGB  3200 MHz  DDR4  DRAM  Desktop Gaming Speicher Kit  16GB  8GBx2   CL16  weiß](https://www.amazon.de/dp/B083VN3YF9/?tag=tolees0ca-21) mit Preis 79.99 EUR (original: 98.76 EUR) 19.01 % Rabatt hier:
 
-[![Crucial Ballistix BL2K8G32C16U4WL RGB  3](https://m.media-amazon.com/images/I/41eIASFtYFL._SL200_.jpg)](https://www.amazon.de/dp/B083VN3YF9/?tag=tolees0ca-21)
+[![Crucial Ballistix BL2K8G32C16U4WL RGB  3](https://m.media-amazon.com/images/I/41eIASFtYFL._SL400_.jpg)](https://www.amazon.de/dp/B083VN3YF9/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '31.36 % rabat auf COULAX Smartwatch  Fitness Tracker Armba'
 date: 2020-08-23 06:52:16
-image: 'https://m.media-amazon.com/images/I/41qPJxER1RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qPJxER1RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.72'
 
 Es gibt ein [COULAX Smartwatch  Fitness Tracker Armband mit 1.4 Zoll Touch Farbdisplay  Sportuhr mit Pulsmesser Schlafmonitor Musiksteuerung Schrittzähler Stoppuhr für Damen Herren](https://www.amazon.de/dp/B0894DKRCF/?tag=tolees0ca-21) mit aktuellem Preis 27.45 EUR (original: 39.99 EUR) 31.36 % Rabatt hier:
 
-[![COULAX Smartwatch  Fitness Tracker Armba](https://m.media-amazon.com/images/I/41qPJxER1RL._SL200_.jpg)](https://www.amazon.de/dp/B0894DKRCF/?tag=tolees0ca-21)
+[![COULAX Smartwatch  Fitness Tracker Armba](https://m.media-amazon.com/images/I/41qPJxER1RL._SL400_.jpg)](https://www.amazon.de/dp/B0894DKRCF/?tag=tolees0ca-21)
 
 ℹ️:
 

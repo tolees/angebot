@@ -2,7 +2,7 @@
 layout: post
 title: 'Ein Gauner & Gentleman [Blu-ray] mit 19.22 % Rabatt'
 date: 2020-02-21 11:48:44
-image: 'https://m.media-amazon.com/images/I/51dipu5KeqL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51dipu5KeqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.07'
 
 Sie können [Ein Gauner & Gentleman [Blu-ray]](https://www.amazon.de/dp/B07PKBF35M/?tag=tolees0ca-21) mit Preis 8.07 EUR (original: 9.99 EUR) 19.22 % Rabatt hier:
 
-[![Ein Gauner & Gentleman [Blu-ray]](https://m.media-amazon.com/images/I/51dipu5KeqL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07PKBF35M/?tag=tolees0ca-21)
+[![Ein Gauner & Gentleman [Blu-ray]](https://m.media-amazon.com/images/I/51dipu5KeqL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07PKBF35M/?tag=tolees0ca-21)
 
 ℹ️:
 

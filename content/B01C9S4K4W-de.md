@@ -2,7 +2,7 @@
 layout: post
 title: '26.43 % rabat auf Boxset'
 date: 2020-10-11 20:04:41
-image: 'https://m.media-amazon.com/images/I/51JQ5S2YxTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51JQ5S2YxTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.81'
 
 Es gibt ein [Boxset](https://www.amazon.de/dp/B01C9S4K4W/?tag=tolees0ca-21) mit aktuellem Preis 15.81 EUR (original: 21.49 EUR) 26.43 % Rabatt hier:
 
-[![Boxset](https://m.media-amazon.com/images/I/51JQ5S2YxTL._SL200_.jpg)](https://www.amazon.de/dp/B01C9S4K4W/?tag=tolees0ca-21)
+[![Boxset](https://m.media-amazon.com/images/I/51JQ5S2YxTL._SL400_.jpg)](https://www.amazon.de/dp/B01C9S4K4W/?tag=tolees0ca-21)
 
 ℹ️:
 

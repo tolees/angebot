@@ -2,7 +2,7 @@
 layout: post
 title: 'Lindt Spezialitäten  2er pack  2 x 250 g mit 44.89 % Rabatt'
 date: 2020-02-18 14:58:39
-image: 'https://m.media-amazon.com/images/I/41mOENAAFTL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mOENAAFTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.01'
 
 Sie können [Lindt Spezialitäten  2er pack  2 x 250 g ](https://www.amazon.de/dp/B07WPTYSDM/?tag=tolees0ca-21) mit Preis 11.01 EUR (original: 19.98 EUR) 44.89 % Rabatt hier:
 
-[![Lindt Spezialitäten  2er pack  2 x 250 g](https://m.media-amazon.com/images/I/41mOENAAFTL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07WPTYSDM/?tag=tolees0ca-21)
+[![Lindt Spezialitäten  2er pack  2 x 250 g](https://m.media-amazon.com/images/I/41mOENAAFTL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07WPTYSDM/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Reolink Akku Überwachungskamera Aussen W mit 28.00 % Rabatt'
 date: 2020-05-11 15:21:20
-image: 'https://m.media-amazon.com/images/I/31UcOqykQML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31UcOqykQML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '125.99'
 
 Sie können [Reolink Akku Überwachungskamera Aussen WLAN 355°/140° schwenkbar  kabellose 1080p HD IP Kamera mit PIR Bewegungsmelder  Sternelicht Nachtsicht  und 2-Wege-Audio  Argus PT](https://www.amazon.de/dp/B07SV5RGMF/?tag=tolees0ca-21) mit Preis 125.99 EUR (original: 174.99 EUR) 28.00 % Rabatt hier:
 
-[![Reolink Akku Überwachungskamera Aussen W](https://m.media-amazon.com/images/I/31UcOqykQML._SL200_.jpg)](https://www.amazon.de/dp/B07SV5RGMF/?tag=tolees0ca-21)
+[![Reolink Akku Überwachungskamera Aussen W](https://m.media-amazon.com/images/I/31UcOqykQML._SL400_.jpg)](https://www.amazon.de/dp/B07SV5RGMF/?tag=tolees0ca-21)
 
 ℹ️:
 

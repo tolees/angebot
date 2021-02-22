@@ -2,7 +2,7 @@
 layout: post
 title: 'Mighty No.9 - Ray-Edition mit 38.36 % Rabatt'
 date: 2020-04-14 16:46:27
-image: 'https://m.media-amazon.com/images/I/610rWheeRdL._SL500_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/610rWheeRdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.9'
 
 Sie können [Mighty No.9 - Ray-Edition](https://www.amazon.de/dp/B0147DFUCS/?tag=tolees0ca-21) mit Preis 4.9 EUR (original: 7.95 EUR) 38.36 % Rabatt hier:
 
-[![Mighty No.9 - Ray-Edition](https://m.media-amazon.com/images/I/610rWheeRdL._SL500_._SL200_.jpg)](https://www.amazon.de/dp/B0147DFUCS/?tag=tolees0ca-21)
+[![Mighty No.9 - Ray-Edition](https://m.media-amazon.com/images/I/610rWheeRdL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B0147DFUCS/?tag=tolees0ca-21)
 
 ℹ️:
 

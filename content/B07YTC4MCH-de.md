@@ -2,7 +2,7 @@
 layout: post
 title: '30.52 % rabat auf Immer Ärger mit Sergeant Bilko [Blu-ray]'
 date: 2020-01-31 05:20:55
-image: 'https://m.media-amazon.com/images/I/51+w2cOey+L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+w2cOey+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.04'
 
 Es gibt ein [Immer Ärger mit Sergeant Bilko [Blu-ray]](https://www.amazon.de/dp/B07YTC4MCH/?tag=tolees0ca-21) mit aktuellem Preis 11.04 EUR (original: 15.89 EUR) 30.52 % Rabatt hier:
 
-[![Immer Ärger mit Sergeant Bilko [Blu-ray]](https://m.media-amazon.com/images/I/51+w2cOey+L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07YTC4MCH/?tag=tolees0ca-21)
+[![Immer Ärger mit Sergeant Bilko [Blu-ray]](https://m.media-amazon.com/images/I/51+w2cOey+L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07YTC4MCH/?tag=tolees0ca-21)
 
 ℹ️:
 

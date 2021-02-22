@@ -2,7 +2,7 @@
 layout: post
 title: 'DOMISO 17 Zoll Wasserdicht Laptop Tasche mit 22.59 % Rabatt'
 date: 2020-04-15 15:40:17
-image: 'https://m.media-amazon.com/images/I/51F0jMxQC4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51F0jMxQC4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.99'
 
 Sie können [DOMISO 17 Zoll Wasserdicht Laptop Tasche Tragetasche Schultertasche Aktentasche mit USB Ladeanschluss für 17-17.3" Notebook/Dell/Lenovo/Acer/HP/MSI/ASUS  Dunkelgrau](https://www.amazon.de/dp/B07YP5SLGF/?tag=tolees0ca-21) mit Preis 23.99 EUR (original: 30.99 EUR) 22.59 % Rabatt hier:
 
-[![DOMISO 17 Zoll Wasserdicht Laptop Tasche](https://m.media-amazon.com/images/I/51F0jMxQC4L._SL200_.jpg)](https://www.amazon.de/dp/B07YP5SLGF/?tag=tolees0ca-21)
+[![DOMISO 17 Zoll Wasserdicht Laptop Tasche](https://m.media-amazon.com/images/I/51F0jMxQC4L._SL400_.jpg)](https://www.amazon.de/dp/B07YP5SLGF/?tag=tolees0ca-21)
 
 ℹ️:
 

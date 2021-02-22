@@ -2,7 +2,7 @@
 layout: post
 title: '25.14 % rabat auf Immenhof - Die 5 Originalfilme [3 DVDs]'
 date: 2020-04-08 22:04:01
-image: 'https://m.media-amazon.com/images/I/61GdeoHBTgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61GdeoHBTgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.97'
 
 Es gibt ein [Immenhof - Die 5 Originalfilme [3 DVDs]](https://www.amazon.de/dp/B00BX50RK4/?tag=tolees0ca-21) mit aktuellem Preis 11.97 EUR (original: 15.99 EUR) 25.14 % Rabatt hier:
 
-[![Immenhof - Die 5 Originalfilme [3 DVDs]](https://m.media-amazon.com/images/I/61GdeoHBTgL._SL200_.jpg)](https://www.amazon.de/dp/B00BX50RK4/?tag=tolees0ca-21)
+[![Immenhof - Die 5 Originalfilme [3 DVDs]](https://m.media-amazon.com/images/I/61GdeoHBTgL._SL400_.jpg)](https://www.amazon.de/dp/B00BX50RK4/?tag=tolees0ca-21)
 
 ℹ️:
 

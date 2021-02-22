@@ -2,7 +2,7 @@
 layout: post
 title: 'Barilla Pasta Penne Rigate  500g mit 40.00 % Rabatt'
 date: 2020-09-25 08:51:15
-image: 'https://m.media-amazon.com/images/I/41DFGdS4OjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DFGdS4OjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '0.99'
 
 Sie können [Barilla Pasta Penne Rigate  500g](https://www.amazon.de/dp/B003R7KQQQ/?tag=tolees0ca-21) mit Preis 0.99 EUR (original: 1.65 EUR) 40.00 % Rabatt hier:
 
-[![Barilla Pasta Penne Rigate  500g](https://m.media-amazon.com/images/I/41DFGdS4OjL._SL200_.jpg)](https://www.amazon.de/dp/B003R7KQQQ/?tag=tolees0ca-21)
+[![Barilla Pasta Penne Rigate  500g](https://m.media-amazon.com/images/I/41DFGdS4OjL._SL400_.jpg)](https://www.amazon.de/dp/B003R7KQQQ/?tag=tolees0ca-21)
 
 ℹ️:
 

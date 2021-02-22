@@ -2,7 +2,7 @@
 layout: post
 title: '28.32 % rabat auf Tommy Hilfiger Sportuhr 1791720'
 date: 2020-10-12 08:13:54
-image: 'https://m.media-amazon.com/images/I/410tGozir0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410tGozir0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '142.65'
 
 Es gibt ein [Tommy Hilfiger Sportuhr 1791720](https://www.amazon.de/dp/B0848N2YZK/?tag=tolees0ca-21) mit aktuellem Preis 142.65 EUR (original: 199.0 EUR) 28.32 % Rabatt hier:
 
-[![Tommy Hilfiger Sportuhr 1791720](https://m.media-amazon.com/images/I/410tGozir0L._SL200_.jpg)](https://www.amazon.de/dp/B0848N2YZK/?tag=tolees0ca-21)
+[![Tommy Hilfiger Sportuhr 1791720](https://m.media-amazon.com/images/I/410tGozir0L._SL400_.jpg)](https://www.amazon.de/dp/B0848N2YZK/?tag=tolees0ca-21)
 
 ℹ️:
 

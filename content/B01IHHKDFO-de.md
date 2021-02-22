@@ -2,7 +2,7 @@
 layout: post
 title: 'Wrigley s Extra Professional Strong Mint mit 24.75 % Rabatt'
 date: 2020-04-17 23:56:20
-image: 'https://m.media-amazon.com/images/I/416qXntSyiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416qXntSyiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.25'
 
 Sie können [Wrigley s Extra Professional Strong Mint Dose  50 Dragees](https://www.amazon.de/dp/B01IHHKDFO/?tag=tolees0ca-21) mit Preis 2.25 EUR (original: 2.99 EUR) 24.75 % Rabatt hier:
 
-[![Wrigley s Extra Professional Strong Mint](https://m.media-amazon.com/images/I/416qXntSyiL._SL200_.jpg)](https://www.amazon.de/dp/B01IHHKDFO/?tag=tolees0ca-21)
+[![Wrigley s Extra Professional Strong Mint](https://m.media-amazon.com/images/I/416qXntSyiL._SL400_.jpg)](https://www.amazon.de/dp/B01IHHKDFO/?tag=tolees0ca-21)
 
 ℹ️:
 

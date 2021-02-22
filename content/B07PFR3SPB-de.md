@@ -2,7 +2,7 @@
 layout: post
 title: 'Rollei Go! Profi Smartphone-Gimbal I Han mit 55.45 % Rabatt'
 date: 2020-03-27 12:22:05
-image: 'https://m.media-amazon.com/images/I/41TY9-F-FlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TY9-F-FlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '71.29'
 
 Sie können [Rollei Go! Profi Smartphone-Gimbal I Handy-Gimbal I Video Stabilisator I Gimbal für Iphone & Android inklusiver kabelloser Ladefunktion & Tasche](https://www.amazon.de/dp/B07PFR3SPB/?tag=tolees0ca-21) mit Preis 49.0 EUR (original: 109.99 EUR) 55.45 % Rabatt hier:
 
-[![Rollei Go! Profi Smartphone-Gimbal I Han](https://m.media-amazon.com/images/I/41TY9-F-FlL._SL200_.jpg)](https://www.amazon.de/dp/B07PFR3SPB/?tag=tolees0ca-21)
+[![Rollei Go! Profi Smartphone-Gimbal I Han](https://m.media-amazon.com/images/I/41TY9-F-FlL._SL400_.jpg)](https://www.amazon.de/dp/B07PFR3SPB/?tag=tolees0ca-21)
 
 ℹ️:
 

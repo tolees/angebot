@@ -2,7 +2,7 @@
 layout: post
 title: '67.18 % rabat auf Samsung GX-MB540TL DVB-T2 HD Receiver  f'
 date: 2020-01-28 20:18:47
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31RScDljlzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31RScDljlzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.49'
 
 Es gibt ein [Samsung GX-MB540TL DVB-T2 HD Receiver  freenet TV connect  Wi-Fi Unterstützung  schwarz](https://www.amazon.de/dp/B01MZ6QPOU/?tag=tolees0ca-21) mit aktuellem Preis 32.49 EUR (original: 99 EUR) 67.18 % Rabatt hier:
 
-[![Samsung GX-MB540TL DVB-T2 HD Receiver  f](https://images-eu.ssl-images-amazon.com/images/I/31RScDljlzL._SL200_.jpg)](https://www.amazon.de/dp/B01MZ6QPOU/?tag=tolees0ca-21)
+[![Samsung GX-MB540TL DVB-T2 HD Receiver  f](https://images-eu.ssl-images-amazon.com/images/I/31RScDljlzL._SL400_.jpg)](https://www.amazon.de/dp/B01MZ6QPOU/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '17.40 % rabat auf Jumbo Spiele 18161 - Disney Finding Dory'
 date: 2020-04-07 21:49:19
-image: 'https://m.media-amazon.com/images/I/51XrRKgPGkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51XrRKgPGkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.73'
 
 Es gibt ein [Jumbo Spiele 18161 - Disney Finding Dory Badewannen Memo](https://www.amazon.de/dp/B01HZH7D28/?tag=tolees0ca-21) mit aktuellem Preis 10.73 EUR (original: 12.99 EUR) 17.40 % Rabatt hier:
 
-[![Jumbo Spiele 18161 - Disney Finding Dory](https://m.media-amazon.com/images/I/51XrRKgPGkL._SL200_.jpg)](https://www.amazon.de/dp/B01HZH7D28/?tag=tolees0ca-21)
+[![Jumbo Spiele 18161 - Disney Finding Dory](https://m.media-amazon.com/images/I/51XrRKgPGkL._SL400_.jpg)](https://www.amazon.de/dp/B01HZH7D28/?tag=tolees0ca-21)
 
 ℹ️:
 

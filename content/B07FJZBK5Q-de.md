@@ -2,7 +2,7 @@
 layout: post
 title: 'Hasbro Beyblade Burst Original Precision mit 26.68 % Rabatt'
 date: 2020-04-16 17:34:17
-image: 'https://m.media-amazon.com/images/I/51dEAP8FBFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51dEAP8FBFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.99'
 
 Sie können [Hasbro Beyblade Burst Original Precision Strike Launcher](https://www.amazon.de/dp/B07FJZBK5Q/?tag=tolees0ca-21) mit Preis 10.99 EUR (original: 14.99 EUR) 26.68 % Rabatt hier:
 
-[![Hasbro Beyblade Burst Original Precision](https://m.media-amazon.com/images/I/51dEAP8FBFL._SL200_.jpg)](https://www.amazon.de/dp/B07FJZBK5Q/?tag=tolees0ca-21)
+[![Hasbro Beyblade Burst Original Precision](https://m.media-amazon.com/images/I/51dEAP8FBFL._SL400_.jpg)](https://www.amazon.de/dp/B07FJZBK5Q/?tag=tolees0ca-21)
 
 ℹ️:
 

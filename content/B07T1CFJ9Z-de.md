@@ -2,7 +2,7 @@
 layout: post
 title: 'FISCHER Twin Fahrrad-Rücklicht mit 360°  mit 30.64 % Rabatt'
 date: 2020-08-31 12:07:37
-image: 'https://m.media-amazon.com/images/I/51BIivnh6oL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51BIivnh6oL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.01'
 
 Sie können [FISCHER Twin Fahrrad-Rücklicht mit 360° Bodenleuchte für mehr Sichtbarkeit und Schutz  aufladbarer Akku](https://www.amazon.de/dp/B07T1CFJ9Z/?tag=tolees0ca-21) mit Preis 9.01 EUR (original: 12.99 EUR) 30.64 % Rabatt hier:
 
-[![FISCHER Twin Fahrrad-Rücklicht mit 360° ](https://m.media-amazon.com/images/I/51BIivnh6oL._SL200_.jpg)](https://www.amazon.de/dp/B07T1CFJ9Z/?tag=tolees0ca-21)
+[![FISCHER Twin Fahrrad-Rücklicht mit 360° ](https://m.media-amazon.com/images/I/51BIivnh6oL._SL400_.jpg)](https://www.amazon.de/dp/B07T1CFJ9Z/?tag=tolees0ca-21)
 
 ℹ️:
 

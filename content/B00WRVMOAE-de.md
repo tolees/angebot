@@ -2,7 +2,7 @@
 layout: post
 title: '20.08 % rabat auf Der Alte - Collector s Box Volume 18  Fo'
 date: 2020-10-04 21:07:57
-image: 'https://m.media-amazon.com/images/I/51tAjDepHAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51tAjDepHAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.23333333333333'
 
 Es gibt ein [Der Alte - Collector s Box Volume 18  Folgen 281 - 295  [5 DVDs]](https://www.amazon.de/dp/B00WRVMOAE/?tag=tolees0ca-21) mit aktuellem Preis 26.99 EUR (original: 33.77 EUR) 20.08 % Rabatt hier:
 
-[![Der Alte - Collector s Box Volume 18  Fo](https://m.media-amazon.com/images/I/51tAjDepHAL._SL200_.jpg)](https://www.amazon.de/dp/B00WRVMOAE/?tag=tolees0ca-21)
+[![Der Alte - Collector s Box Volume 18  Fo](https://m.media-amazon.com/images/I/51tAjDepHAL._SL400_.jpg)](https://www.amazon.de/dp/B00WRVMOAE/?tag=tolees0ca-21)
 
 ℹ️:
 

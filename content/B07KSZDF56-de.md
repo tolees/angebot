@@ -2,7 +2,7 @@
 layout: post
 title: '41.88 % rabat auf Schneiders Vienna 78335-080 - Schulranze'
 date: 2020-08-08 21:53:47
-image: 'https://m.media-amazon.com/images/I/41vdiSMHn7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vdiSMHn7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '116.21'
 
 Es gibt ein [Schneiders Vienna 78335-080 - Schulranzenset Plus mit Federmappe  Schlamper und Sportbeutel  Space Ship  4 teilig](https://www.amazon.de/dp/B07KSZDF56/?tag=tolees0ca-21) mit aktuellem Preis 116.21 EUR (original: 199.95 EUR) 41.88 % Rabatt hier:
 
-[![Schneiders Vienna 78335-080 - Schulranze](https://m.media-amazon.com/images/I/41vdiSMHn7L._SL200_.jpg)](https://www.amazon.de/dp/B07KSZDF56/?tag=tolees0ca-21)
+[![Schneiders Vienna 78335-080 - Schulranze](https://m.media-amazon.com/images/I/41vdiSMHn7L._SL400_.jpg)](https://www.amazon.de/dp/B07KSZDF56/?tag=tolees0ca-21)
 
 ℹ️:
 

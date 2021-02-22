@@ -2,7 +2,7 @@
 layout: post
 title: '50.02 % rabat auf Emsa 513357 Travel Mug Thermo-/Isolierbe'
 date: 2020-09-12 17:38:56
-image: 'https://m.media-amazon.com/images/I/41Qp95VEhYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Qp95VEhYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.49'
 
 Es gibt ein [Emsa 513357 Travel Mug Thermo-/Isolierbecher  Fassungsvermögen: 360 ml  hält 4h heiß/ 8h kalt  100% dicht  auslaufsicher  Easy Quick-Press-Verschluss  360°-Trinköffnung  blau](https://www.amazon.de/dp/B008TLGFW4/?tag=tolees0ca-21) mit aktuellem Preis 13.49 EUR (original: 26.99 EUR) 50.02 % Rabatt hier:
 
-[![Emsa 513357 Travel Mug Thermo-/Isolierbe](https://m.media-amazon.com/images/I/41Qp95VEhYL._SL200_.jpg)](https://www.amazon.de/dp/B008TLGFW4/?tag=tolees0ca-21)
+[![Emsa 513357 Travel Mug Thermo-/Isolierbe](https://m.media-amazon.com/images/I/41Qp95VEhYL._SL400_.jpg)](https://www.amazon.de/dp/B008TLGFW4/?tag=tolees0ca-21)
 
 ℹ️:
 

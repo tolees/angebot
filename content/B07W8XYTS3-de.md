@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Hidden Side 70431 Der Leuchtturm de mit 26.14 % Rabatt'
 date: 2020-10-12 20:14:39
-image: 'https://m.media-amazon.com/images/I/51jNN1yDfFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jNN1yDfFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.705'
 
 Sie können [LEGO Hidden Side 70431 Der Leuchtturm der Dunkelheit mit AR-App](https://www.amazon.de/dp/B07W8XYTS3/?tag=tolees0ca-21) mit Preis 35.99 EUR (original: 48.73 EUR) 26.14 % Rabatt hier:
 
-[![LEGO Hidden Side 70431 Der Leuchtturm de](https://m.media-amazon.com/images/I/51jNN1yDfFL._SL200_.jpg)](https://www.amazon.de/dp/B07W8XYTS3/?tag=tolees0ca-21)
+[![LEGO Hidden Side 70431 Der Leuchtturm de](https://m.media-amazon.com/images/I/51jNN1yDfFL._SL400_.jpg)](https://www.amazon.de/dp/B07W8XYTS3/?tag=tolees0ca-21)
 
 ℹ️:
 

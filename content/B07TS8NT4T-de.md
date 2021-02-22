@@ -2,7 +2,7 @@
 layout: post
 title: '20.88 % rabat auf Funko 45009 POP Marvel: Fantastic Four -'
 date: 2020-08-30 23:48:26
-image: 'https://m.media-amazon.com/images/I/41gKjJG0uvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gKjJG0uvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.935'
 
 Es gibt ein [Funko 45009 POP Marvel: Fantastic Four - Galactus Collectible Toy  Multicolour](https://www.amazon.de/dp/B07TS8NT4T/?tag=tolees0ca-21) mit aktuellem Preis 8.26 EUR (original: 10.44 EUR) 20.88 % Rabatt hier:
 
-[![Funko 45009 POP Marvel: Fantastic Four -](https://m.media-amazon.com/images/I/41gKjJG0uvL._SL200_.jpg)](https://www.amazon.de/dp/B07TS8NT4T/?tag=tolees0ca-21)
+[![Funko 45009 POP Marvel: Fantastic Four -](https://m.media-amazon.com/images/I/41gKjJG0uvL._SL400_.jpg)](https://www.amazon.de/dp/B07TS8NT4T/?tag=tolees0ca-21)
 
 ℹ️:
 

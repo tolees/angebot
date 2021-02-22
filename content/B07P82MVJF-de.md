@@ -2,7 +2,7 @@
 layout: post
 title: '20.08 % rabat auf Funko 41941 POP Vinyl: WWE-Becky Lynch S'
 date: 2020-03-13 10:47:52
-image: 'https://m.media-amazon.com/images/I/51nJsm7eqiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51nJsm7eqiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.496'
 
 Es gibt ein [Funko 41941 POP Vinyl: WWE-Becky Lynch Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B07P82MVJF/?tag=tolees0ca-21) mit aktuellem Preis 9.99 EUR (original: 12.5 EUR) 20.08 % Rabatt hier:
 
-[![Funko 41941 POP Vinyl: WWE-Becky Lynch S](https://m.media-amazon.com/images/I/51nJsm7eqiL._SL200_.jpg)](https://www.amazon.de/dp/B07P82MVJF/?tag=tolees0ca-21)
+[![Funko 41941 POP Vinyl: WWE-Becky Lynch S](https://m.media-amazon.com/images/I/51nJsm7eqiL._SL400_.jpg)](https://www.amazon.de/dp/B07P82MVJF/?tag=tolees0ca-21)
 
 ℹ️:
 

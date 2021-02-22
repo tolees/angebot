@@ -2,7 +2,7 @@
 layout: post
 title: '50.06 % rabat auf Exzenterschleifer  300W Meterk Schleifma'
 date: 2020-01-08 13:57:05
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41-gMSufVUL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-gMSufVUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.95'
 
 Es gibt ein [Exzenterschleifer  300W Meterk Schleifmaschine holz mit 125mm Schleifteller  6 Geschwindigkeit  12 Stück Schleifpapier  Staubsammelbehälter  Ideal für Heimwerker  Schleifen  Polieren von Holz](https://www.amazon.de/dp/B07Z8MD4SC/?tag=tolees0ca-21) mit aktuellem Preis 39.95 EUR (original: 79.99 EUR) 50.06 % Rabatt hier:
 
-[![Exzenterschleifer  300W Meterk Schleifma](https://images-eu.ssl-images-amazon.com/images/I/41-gMSufVUL._SL200_.jpg)](https://www.amazon.de/dp/B07Z8MD4SC/?tag=tolees0ca-21)
+[![Exzenterschleifer  300W Meterk Schleifma](https://images-eu.ssl-images-amazon.com/images/I/41-gMSufVUL._SL400_.jpg)](https://www.amazon.de/dp/B07Z8MD4SC/?tag=tolees0ca-21)
 
 ℹ️:
 

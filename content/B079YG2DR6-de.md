@@ -2,7 +2,7 @@
 layout: post
 title: '51.47 % rabat auf Funko 26974 Pop! Star Wars: Han Solo Bob'
 date: 2020-03-08 18:31:56
-image: 'https://m.media-amazon.com/images/I/41fWJWD7vwL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fWJWD7vwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.094999999999999'
 
 Es gibt ein [Funko 26974 Pop! Star Wars: Han Solo Bobble Figure](https://www.amazon.de/dp/B079YG2DR6/?tag=tolees0ca-21) mit aktuellem Preis 6.79 EUR (original: 13.99 EUR) 51.47 % Rabatt hier:
 
-[![Funko 26974 Pop! Star Wars: Han Solo Bob](https://m.media-amazon.com/images/I/41fWJWD7vwL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B079YG2DR6/?tag=tolees0ca-21)
+[![Funko 26974 Pop! Star Wars: Han Solo Bob](https://m.media-amazon.com/images/I/41fWJWD7vwL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B079YG2DR6/?tag=tolees0ca-21)
 
 ℹ️:
 

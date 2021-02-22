@@ -2,7 +2,7 @@
 layout: post
 title: '50.00 % rabat auf DXX Acryl Schaukasten Vitrine  Schaukast'
 date: 2020-03-13 18:33:13
-image: 'https://m.media-amazon.com/images/I/41QJ8HEqvcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QJ8HEqvcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '109.99'
 
 Es gibt ein [DXX Acryl Schaukasten Vitrine  Schaukasten Acryl Vitrine Display Case für Lego Creator 10265 Ford Mustang 1960  Ohne Modell ](https://www.amazon.de/dp/B083K3G8SJ/?tag=tolees0ca-21) mit aktuellem Preis 109.99 EUR (original: 219.98 EUR) 50.00 % Rabatt hier:
 
-[![DXX Acryl Schaukasten Vitrine  Schaukast](https://m.media-amazon.com/images/I/41QJ8HEqvcL._SL200_.jpg)](https://www.amazon.de/dp/B083K3G8SJ/?tag=tolees0ca-21)
+[![DXX Acryl Schaukasten Vitrine  Schaukast](https://m.media-amazon.com/images/I/41QJ8HEqvcL._SL400_.jpg)](https://www.amazon.de/dp/B083K3G8SJ/?tag=tolees0ca-21)
 
 ℹ️:
 

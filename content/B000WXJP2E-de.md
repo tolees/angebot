@@ -2,7 +2,7 @@
 layout: post
 title: '24.17 % rabat auf Auf dem Kreuzzug Ins Glück  Deluxe-Editi'
 date: 2020-09-15 11:47:37
-image: 'https://m.media-amazon.com/images/I/510-ITWP0BL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510-ITWP0BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.66'
 
 Es gibt ein [Auf dem Kreuzzug Ins Glück  Deluxe-Edition mit Bonus-Tracks ](https://www.amazon.de/dp/B000WXJP2E/?tag=tolees0ca-21) mit aktuellem Preis 16.66 EUR (original: 21.97 EUR) 24.17 % Rabatt hier:
 
-[![Auf dem Kreuzzug Ins Glück  Deluxe-Editi](https://m.media-amazon.com/images/I/510-ITWP0BL._SL200_.jpg)](https://www.amazon.de/dp/B000WXJP2E/?tag=tolees0ca-21)
+[![Auf dem Kreuzzug Ins Glück  Deluxe-Editi](https://m.media-amazon.com/images/I/510-ITWP0BL._SL400_.jpg)](https://www.amazon.de/dp/B000WXJP2E/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '36.34 % rabat auf Philips Hue White E27 LED Lampe Einzelpa'
 date: 2020-09-21 15:30:13
-image: 'https://m.media-amazon.com/images/I/41-dhAVhcDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-dhAVhcDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.03'
 
 Es gibt ein [Philips Hue White E27 LED Lampe Einzelpack  dimmbar  warmweißes Licht  steuerbar via App  kompatibel mit Amazon Alexa  Echo  Echo Dot   Gerät „Zertifiziert für Menschen“](https://www.amazon.de/dp/B07SV88LGC/?tag=tolees0ca-21) mit aktuellem Preis 12.7 EUR (original: 19.95 EUR) 36.34 % Rabatt hier:
 
-[![Philips Hue White E27 LED Lampe Einzelpa](https://m.media-amazon.com/images/I/41-dhAVhcDL._SL200_.jpg)](https://www.amazon.de/dp/B07SV88LGC/?tag=tolees0ca-21)
+[![Philips Hue White E27 LED Lampe Einzelpa](https://m.media-amazon.com/images/I/41-dhAVhcDL._SL400_.jpg)](https://www.amazon.de/dp/B07SV88LGC/?tag=tolees0ca-21)
 
 ℹ️:
 

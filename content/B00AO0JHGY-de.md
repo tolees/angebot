@@ -2,7 +2,7 @@
 layout: post
 title: '62.74 % rabat auf RoomMates 54161 Happi Raketenhunde'
 date: 2020-03-13 05:07:34
-image: 'https://m.media-amazon.com/images/I/515bkSRW+5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/515bkSRW+5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.06'
 
 Es gibt ein [RoomMates 54161 Happi Raketenhunde](https://www.amazon.de/dp/B00AO0JHGY/?tag=tolees0ca-21) mit aktuellem Preis 7.06 EUR (original: 18.95 EUR) 62.74 % Rabatt hier:
 
-[![RoomMates 54161 Happi Raketenhunde](https://m.media-amazon.com/images/I/515bkSRW+5L._SL200_.jpg)](https://www.amazon.de/dp/B00AO0JHGY/?tag=tolees0ca-21)
+[![RoomMates 54161 Happi Raketenhunde](https://m.media-amazon.com/images/I/515bkSRW+5L._SL400_.jpg)](https://www.amazon.de/dp/B00AO0JHGY/?tag=tolees0ca-21)
 
 ℹ️:
 

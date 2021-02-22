@@ -2,7 +2,7 @@
 layout: post
 title: 'Red Dead Redemption 2 Standard Edition [ mit 70.01 % Rabatt'
 date: 2020-07-09 03:48:17
-image: 'https://m.media-amazon.com/images/I/51Nn4wFtAFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Nn4wFtAFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.98090909090909'
 
 Sie können [Red Dead Redemption 2 Standard Edition [Xbox One] Disk](https://www.amazon.de/dp/B01MF8TJV5/?tag=tolees0ca-21) mit Preis 17.99 EUR (original: 59.99 EUR) 70.01 % Rabatt hier:
 
-[![Red Dead Redemption 2 Standard Edition [](https://m.media-amazon.com/images/I/51Nn4wFtAFL._SL200_.jpg)](https://www.amazon.de/dp/B01MF8TJV5/?tag=tolees0ca-21)
+[![Red Dead Redemption 2 Standard Edition [](https://m.media-amazon.com/images/I/51Nn4wFtAFL._SL400_.jpg)](https://www.amazon.de/dp/B01MF8TJV5/?tag=tolees0ca-21)
 
 ℹ️:
 

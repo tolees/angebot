@@ -2,7 +2,7 @@
 layout: post
 title: '22.48 % rabat auf Tacklife ACP1B Luftkompressor  Digitaler'
 date: 2020-04-14 12:14:53
-image: 'https://m.media-amazon.com/images/I/410w9rcL-0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410w9rcL-0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.49'
 
 Es gibt ein [Tacklife ACP1B Luftkompressor  Digitaler 12V Kompressor  Auto Luftpumpe mit Überhitzungsschutz  Pump 35L/ min  Große LCD-Anzeige & LED Lampe  3 Adapter  Zusätzliche Sicherung](https://www.amazon.de/dp/B07G2ZS8P6/?tag=tolees0ca-21) mit aktuellem Preis 34.49 EUR (original: 44.49 EUR) 22.48 % Rabatt hier:
 
-[![Tacklife ACP1B Luftkompressor  Digitaler](https://m.media-amazon.com/images/I/410w9rcL-0L._SL200_.jpg)](https://www.amazon.de/dp/B07G2ZS8P6/?tag=tolees0ca-21)
+[![Tacklife ACP1B Luftkompressor  Digitaler](https://m.media-amazon.com/images/I/410w9rcL-0L._SL400_.jpg)](https://www.amazon.de/dp/B07G2ZS8P6/?tag=tolees0ca-21)
 
 ℹ️:
 

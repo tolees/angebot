@@ -2,7 +2,7 @@
 layout: post
 title: '47.15 % rabat auf Briksmax Led Beleuchtungsset für Weihnac'
 date: 2020-02-27 20:14:25
-image: 'https://m.media-amazon.com/images/I/51K8T8NnCIL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51K8T8NnCIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.99'
 
 Es gibt ein [Briksmax Led Beleuchtungsset für Weihnachtlicher Spielzeugladen  Kompatibel Mit Lego 10249 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B07PM4FPFP/?tag=tolees0ca-21) mit aktuellem Preis 36.99 EUR (original: 69.99 EUR) 47.15 % Rabatt hier:
 
-[![Briksmax Led Beleuchtungsset für Weihnac](https://m.media-amazon.com/images/I/51K8T8NnCIL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07PM4FPFP/?tag=tolees0ca-21)
+[![Briksmax Led Beleuchtungsset für Weihnac](https://m.media-amazon.com/images/I/51K8T8NnCIL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07PM4FPFP/?tag=tolees0ca-21)
 
 ℹ️:
 

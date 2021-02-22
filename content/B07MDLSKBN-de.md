@@ -2,7 +2,7 @@
 layout: post
 title: 'LIGHTAILING Licht-Set Für  Ghostbusters  mit 62.51 % Rabatt'
 date: 2020-04-07 21:35:39
-image: 'https://m.media-amazon.com/images/I/51nxbOdoRxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51nxbOdoRxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Sie können [LIGHTAILING Licht-Set Für  Ghostbusters Ecto-1  Modell - LED Licht-Set Kompatibel Mit Lego 21108 Modell Nicht Enthalten ](https://www.amazon.de/dp/B07MDLSKBN/?tag=tolees0ca-21) mit Preis 29.99 EUR (original: 80.0 EUR) 62.51 % Rabatt hier:
 
-[![LIGHTAILING Licht-Set Für  Ghostbusters ](https://m.media-amazon.com/images/I/51nxbOdoRxL._SL200_.jpg)](https://www.amazon.de/dp/B07MDLSKBN/?tag=tolees0ca-21)
+[![LIGHTAILING Licht-Set Für  Ghostbusters ](https://m.media-amazon.com/images/I/51nxbOdoRxL._SL400_.jpg)](https://www.amazon.de/dp/B07MDLSKBN/?tag=tolees0ca-21)
 
 ℹ️:
 

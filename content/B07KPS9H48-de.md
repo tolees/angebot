@@ -2,7 +2,7 @@
 layout: post
 title: '28.30 % rabat auf Funko 36666 POP Bobble: Avengers Endgame'
 date: 2020-01-07 06:30:34
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41mrXWt5H3L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mrXWt5H3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.073076923076924'
 
 Es gibt ein [Funko 36666 POP Bobble: Avengers Endgame: Ant-Man Sammelfiguren  Multi  Standard](https://www.amazon.de/dp/B07KPS9H48/?tag=tolees0ca-21) mit aktuellem Preis 11.4 EUR (original: 15.9 EUR) 28.30 % Rabatt hier:
 
-[![Funko 36666 POP Bobble: Avengers Endgame](https://images-eu.ssl-images-amazon.com/images/I/41mrXWt5H3L._SL200_.jpg)](https://www.amazon.de/dp/B07KPS9H48/?tag=tolees0ca-21)
+[![Funko 36666 POP Bobble: Avengers Endgame](https://images-eu.ssl-images-amazon.com/images/I/41mrXWt5H3L._SL400_.jpg)](https://www.amazon.de/dp/B07KPS9H48/?tag=tolees0ca-21)
 
 ℹ️:
 

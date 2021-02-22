@@ -2,7 +2,7 @@
 layout: post
 title: 'Playmobil 6662 - Zahnarzt mit 29.25 % Rabatt'
 date: 2020-03-21 21:13:14
-image: 'https://m.media-amazon.com/images/I/61icqQ4FoyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61icqQ4FoyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.04684210526316'
 
 Sie können [Playmobil 6662 - Zahnarzt](https://www.amazon.de/dp/B00VLV2T7E/?tag=tolees0ca-21) mit Preis 6.99 EUR (original: 9.88 EUR) 29.25 % Rabatt hier:
 
-[![Playmobil 6662 - Zahnarzt](https://m.media-amazon.com/images/I/61icqQ4FoyL._SL200_.jpg)](https://www.amazon.de/dp/B00VLV2T7E/?tag=tolees0ca-21)
+[![Playmobil 6662 - Zahnarzt](https://m.media-amazon.com/images/I/61icqQ4FoyL._SL400_.jpg)](https://www.amazon.de/dp/B00VLV2T7E/?tag=tolees0ca-21)
 
 ℹ️:
 

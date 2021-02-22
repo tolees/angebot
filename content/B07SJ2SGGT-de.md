@@ -2,7 +2,7 @@
 layout: post
 title: '63.34 % rabat auf BRIKSMAX Led Beleuchtungsset für Lego Id'
 date: 2020-04-16 08:14:52
-image: 'https://m.media-amazon.com/images/I/41h8zfmHSFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41h8zfmHSFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.99'
 
 Es gibt ein [BRIKSMAX Led Beleuchtungsset für Lego Ideas Wall E  Kompatibel Mit Lego 21303 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B07SJ2SGGT/?tag=tolees0ca-21) mit aktuellem Preis 21.99 EUR (original: 59.99 EUR) 63.34 % Rabatt hier:
 
-[![BRIKSMAX Led Beleuchtungsset für Lego Id](https://m.media-amazon.com/images/I/41h8zfmHSFL._SL200_.jpg)](https://www.amazon.de/dp/B07SJ2SGGT/?tag=tolees0ca-21)
+[![BRIKSMAX Led Beleuchtungsset für Lego Id](https://m.media-amazon.com/images/I/41h8zfmHSFL._SL400_.jpg)](https://www.amazon.de/dp/B07SJ2SGGT/?tag=tolees0ca-21)
 
 ℹ️:
 

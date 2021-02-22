@@ -2,7 +2,7 @@
 layout: post
 title: '26.04 % rabat auf Funko 40652 IT Pennywise Sammelbares Spi'
 date: 2020-04-15 07:38:05
-image: 'https://m.media-amazon.com/images/I/31jFvDK+OsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jFvDK+OsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.4350000000000005'
 
 Es gibt ein [Funko 40652 IT Pennywise Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B07RQ964KR/?tag=tolees0ca-21) mit aktuellem Preis 4.43 EUR (original: 5.99 EUR) 26.04 % Rabatt hier:
 
-[![Funko 40652 IT Pennywise Sammelbares Spi](https://m.media-amazon.com/images/I/31jFvDK+OsL._SL200_.jpg)](https://www.amazon.de/dp/B07RQ964KR/?tag=tolees0ca-21)
+[![Funko 40652 IT Pennywise Sammelbares Spi](https://m.media-amazon.com/images/I/31jFvDK+OsL._SL400_.jpg)](https://www.amazon.de/dp/B07RQ964KR/?tag=tolees0ca-21)
 
 ℹ️:
 

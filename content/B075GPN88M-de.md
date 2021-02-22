@@ -2,7 +2,7 @@
 layout: post
 title: '23.19 % rabat auf LEGO Minecraft 21141 - Zombiehöhle Belie'
 date: 2020-07-22 20:22:27
-image: 'https://m.media-amazon.com/images/I/51ABkZj42hL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ABkZj42hL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.7625'
 
 Es gibt ein [LEGO Minecraft 21141 - Zombiehöhle Beliebtes  Kinderspielzeug](https://www.amazon.de/dp/B075GPN88M/?tag=tolees0ca-21) mit aktuellem Preis 14.97 EUR (original: 19.49 EUR) 23.19 % Rabatt hier:
 
-[![LEGO Minecraft 21141 - Zombiehöhle Belie](https://m.media-amazon.com/images/I/51ABkZj42hL._SL200_.jpg)](https://www.amazon.de/dp/B075GPN88M/?tag=tolees0ca-21)
+[![LEGO Minecraft 21141 - Zombiehöhle Belie](https://m.media-amazon.com/images/I/51ABkZj42hL._SL400_.jpg)](https://www.amazon.de/dp/B075GPN88M/?tag=tolees0ca-21)
 
 ℹ️:
 

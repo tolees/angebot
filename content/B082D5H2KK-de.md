@@ -2,7 +2,7 @@
 layout: post
 title: '71.87 % rabat auf IWEMEK Mädchen Eiskönigin 2 Kostüm Froze'
 date: 2020-01-26 17:42:24
-image: 'https://m.media-amazon.com/images/I/41ENct9E9rL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ENct9E9rL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.25'
 
 Es gibt ein [IWEMEK Mädchen Eiskönigin 2 Kostüm Frozen Prinzessin ELSA Anna Kleid Schneekönigin Cosplay Kostüme Weihnachten Karneval Party Verkleidung Halloween Festkleid Party Outfits 01 Gelb 4-5 Jahre](https://www.amazon.de/dp/B082D5H2KK/?tag=tolees0ca-21) mit aktuellem Preis 11.25 EUR (original: 39.99 EUR) 71.87 % Rabatt hier:
 
-[![IWEMEK Mädchen Eiskönigin 2 Kostüm Froze](https://m.media-amazon.com/images/I/41ENct9E9rL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B082D5H2KK/?tag=tolees0ca-21)
+[![IWEMEK Mädchen Eiskönigin 2 Kostüm Froze](https://m.media-amazon.com/images/I/41ENct9E9rL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B082D5H2KK/?tag=tolees0ca-21)
 
 ℹ️:
 

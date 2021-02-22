@@ -2,7 +2,7 @@
 layout: post
 title: 'Villeroy & Boch – Vapiano Suppenschalen- mit 21.84 % Rabatt'
 date: 2020-09-22 22:06:57
-image: 'https://m.media-amazon.com/images/I/21Ql+bLaNtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21Ql+bLaNtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Sie können [Villeroy & Boch – Vapiano Suppenschalen-Set  2 Stück  700 ml  Premium Porzellan  weiß](https://www.amazon.de/dp/B07HHQVZQR/?tag=tolees0ca-21) mit Preis 13.99 EUR (original: 17.9 EUR) 21.84 % Rabatt hier:
 
-[![Villeroy & Boch – Vapiano Suppenschalen-](https://m.media-amazon.com/images/I/21Ql+bLaNtL._SL200_.jpg)](https://www.amazon.de/dp/B07HHQVZQR/?tag=tolees0ca-21)
+[![Villeroy & Boch – Vapiano Suppenschalen-](https://m.media-amazon.com/images/I/21Ql+bLaNtL._SL400_.jpg)](https://www.amazon.de/dp/B07HHQVZQR/?tag=tolees0ca-21)
 
 ℹ️:
 

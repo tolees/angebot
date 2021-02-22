@@ -2,7 +2,7 @@
 layout: post
 title: '30.05 % rabat auf 5 Original Albums'
 date: 2020-09-24 19:55:46
-image: 'https://m.media-amazon.com/images/I/61hTgF4ZanL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61hTgF4ZanL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.68'
 
 Es gibt ein [5 Original Albums](https://www.amazon.de/dp/B01BL0XQHG/?tag=tolees0ca-21) mit aktuellem Preis 6.68 EUR (original: 9.55 EUR) 30.05 % Rabatt hier:
 
-[![5 Original Albums](https://m.media-amazon.com/images/I/61hTgF4ZanL._SL200_.jpg)](https://www.amazon.de/dp/B01BL0XQHG/?tag=tolees0ca-21)
+[![5 Original Albums](https://m.media-amazon.com/images/I/61hTgF4ZanL._SL400_.jpg)](https://www.amazon.de/dp/B01BL0XQHG/?tag=tolees0ca-21)
 
 ℹ️:
 

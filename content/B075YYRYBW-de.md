@@ -2,7 +2,7 @@
 layout: post
 title: 'Gigaset E370 Schnurloses Telefon  für Se mit 40.19 % Rabatt'
 date: 2020-03-02 05:09:58
-image: 'https://m.media-amazon.com/images/I/31VSx9zQL7L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31VSx9zQL7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.9'
 
 Sie können [Gigaset E370 Schnurloses Telefon  für Senioren  mit großen Tasten und SOS-Funktion  einfache Bedienung  extra großes Farbdisplay  einfache Bedienung  weiß](https://www.amazon.de/dp/B075YYRYBW/?tag=tolees0ca-21) mit Preis 29.9 EUR (original: 49.99 EUR) 40.19 % Rabatt hier:
 
-[![Gigaset E370 Schnurloses Telefon  für Se](https://m.media-amazon.com/images/I/31VSx9zQL7L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B075YYRYBW/?tag=tolees0ca-21)
+[![Gigaset E370 Schnurloses Telefon  für Se](https://m.media-amazon.com/images/I/31VSx9zQL7L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B075YYRYBW/?tag=tolees0ca-21)
 
 ℹ️:
 

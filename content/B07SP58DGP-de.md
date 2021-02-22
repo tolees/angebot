@@ -2,7 +2,7 @@
 layout: post
 title: '22.07 % rabat auf Netgear GC108P Gigabit 8 Port Ethernet L'
 date: 2020-05-27 13:46:44
-image: 'https://m.media-amazon.com/images/I/3145RUQV1OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3145RUQV1OL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '124.68'
 
 Es gibt ein [Netgear GC108P Gigabit 8 Port Ethernet LAN Switch  8x PoE+ 64 W  Insight Managed Smart Cloud Switch  FlexPoE Power  inkl. 1 Jahreslizenz -Insight Premium ](https://www.amazon.de/dp/B07SP58DGP/?tag=tolees0ca-21) mit aktuellem Preis 124.68 EUR (original: 159.99 EUR) 22.07 % Rabatt hier:
 
-[![Netgear GC108P Gigabit 8 Port Ethernet L](https://m.media-amazon.com/images/I/3145RUQV1OL._SL200_.jpg)](https://www.amazon.de/dp/B07SP58DGP/?tag=tolees0ca-21)
+[![Netgear GC108P Gigabit 8 Port Ethernet L](https://m.media-amazon.com/images/I/3145RUQV1OL._SL400_.jpg)](https://www.amazon.de/dp/B07SP58DGP/?tag=tolees0ca-21)
 
 ℹ️:
 

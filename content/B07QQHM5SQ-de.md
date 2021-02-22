@@ -2,7 +2,7 @@
 layout: post
 title: 'The Space Between the Shadows mit 45.20 % Rabatt'
 date: 2020-09-26 15:43:24
-image: 'https://m.media-amazon.com/images/I/51XFznUWVkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51XFznUWVkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.99'
 
 Sie können [The Space Between the Shadows](https://www.amazon.de/dp/B07QQHM5SQ/?tag=tolees0ca-21) mit Preis 7.99 EUR (original: 14.58 EUR) 45.20 % Rabatt hier:
 
-[![The Space Between the Shadows](https://m.media-amazon.com/images/I/51XFznUWVkL._SL200_.jpg)](https://www.amazon.de/dp/B07QQHM5SQ/?tag=tolees0ca-21)
+[![The Space Between the Shadows](https://m.media-amazon.com/images/I/51XFznUWVkL._SL400_.jpg)](https://www.amazon.de/dp/B07QQHM5SQ/?tag=tolees0ca-21)
 
 ℹ️:
 

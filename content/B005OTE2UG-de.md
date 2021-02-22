@@ -2,7 +2,7 @@
 layout: post
 title: '26.34 % rabat auf Hook [Blu-ray]'
 date: 2020-04-10 15:40:25
-image: 'https://m.media-amazon.com/images/I/61RUow3M-DL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61RUow3M-DL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Es gibt ein [Hook [Blu-ray]](https://www.amazon.de/dp/B005OTE2UG/?tag=tolees0ca-21) mit aktuellem Preis 6.99 EUR (original: 9.49 EUR) 26.34 % Rabatt hier:
 
-[![Hook [Blu-ray]](https://m.media-amazon.com/images/I/61RUow3M-DL._SL200_.jpg)](https://www.amazon.de/dp/B005OTE2UG/?tag=tolees0ca-21)
+[![Hook [Blu-ray]](https://m.media-amazon.com/images/I/61RUow3M-DL._SL400_.jpg)](https://www.amazon.de/dp/B005OTE2UG/?tag=tolees0ca-21)
 
 ℹ️:
 

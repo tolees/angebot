@@ -2,7 +2,7 @@
 layout: post
 title: '47.78 % rabat auf Playtastic Autorennbahn: Portable Rennba'
 date: 2020-02-17 12:03:15
-image: 'https://m.media-amazon.com/images/I/51hR-Lug4aL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hR-Lug4aL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.95'
 
 Es gibt ein [Playtastic Autorennbahn: Portable Rennbahn im Koffer - Komplett-Set mit 2 Autos  Autorennbahn im Koffer ](https://www.amazon.de/dp/B00720YVXI/?tag=tolees0ca-21) mit aktuellem Preis 46.95 EUR (original: 89.9 EUR) 47.78 % Rabatt hier:
 
-[![Playtastic Autorennbahn: Portable Rennba](https://m.media-amazon.com/images/I/51hR-Lug4aL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00720YVXI/?tag=tolees0ca-21)
+[![Playtastic Autorennbahn: Portable Rennba](https://m.media-amazon.com/images/I/51hR-Lug4aL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00720YVXI/?tag=tolees0ca-21)
 
 ℹ️:
 

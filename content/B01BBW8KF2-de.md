@@ -2,7 +2,7 @@
 layout: post
 title: '81.27 % rabat auf Aeronautica Militare  blank Melange Grey'
 date: 2020-01-16 18:57:35
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41WW7ptb0JL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WW7ptb0JL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.95'
 
 Es gibt ein [Aeronautica Militare  blank Melange Grey XL](https://www.amazon.de/dp/B01BBW8KF2/?tag=tolees0ca-21) mit aktuellem Preis 29.95 EUR (original: 159.9 EUR) 81.27 % Rabatt hier:
 
-[![Aeronautica Militare  blank Melange Grey](https://images-eu.ssl-images-amazon.com/images/I/41WW7ptb0JL._SL200_.jpg)](https://www.amazon.de/dp/B01BBW8KF2/?tag=tolees0ca-21)
+[![Aeronautica Militare  blank Melange Grey](https://images-eu.ssl-images-amazon.com/images/I/41WW7ptb0JL._SL400_.jpg)](https://www.amazon.de/dp/B01BBW8KF2/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Mini PC  Lüfterlos Intel Atom X5-Z8350 P mit 20.00 % Rabatt'
 date: 2020-08-18 08:13:06
-image: 'https://m.media-amazon.com/images/I/41Rlhvl2mdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Rlhvl2mdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '121.32333333333334'
 
 Sie können [Mini PC  Lüfterlos Intel Atom X5-Z8350 Prozessor Quad-Core CPU 4 GB DDR / 64 GB eMMC Mini Desktop Computer mit Windows 10  HDMI- und VGA Anschluss  Dual Band WiFi 2 4+5.8 G  BT 4.1  USB 3.0](https://www.amazon.de/dp/B07PS1KVD1/?tag=tolees0ca-21) mit Preis 111.99 EUR (original: 139.99 EUR) 20.00 % Rabatt hier:
 
-[![Mini PC  Lüfterlos Intel Atom X5-Z8350 P](https://m.media-amazon.com/images/I/41Rlhvl2mdL._SL200_.jpg)](https://www.amazon.de/dp/B07PS1KVD1/?tag=tolees0ca-21)
+[![Mini PC  Lüfterlos Intel Atom X5-Z8350 P](https://m.media-amazon.com/images/I/41Rlhvl2mdL._SL400_.jpg)](https://www.amazon.de/dp/B07PS1KVD1/?tag=tolees0ca-21)
 
 ℹ️:
 

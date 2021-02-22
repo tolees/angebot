@@ -2,7 +2,7 @@
 layout: post
 title: 'iVANKY DisplayPort Kabel  2M/4K  Display mit 43.36 % Rabatt'
 date: 2020-03-16 16:15:54
-image: 'https://m.media-amazon.com/images/I/41L7NhdZWEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41L7NhdZWEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.49'
 
 Sie können [iVANKY DisplayPort Kabel  2M/4K  DisplayPort auf DisplayPort Kabel  4K@60Hz und 2K@144Hz   DP Kabel geeignet für Monitor Gaming-Grafikkarte - 2M/ Grau  Verschlussfrei & aus Nylongeflecht ](https://www.amazon.de/dp/B07JQKWX3C/?tag=tolees0ca-21) mit Preis 8.49 EUR (original: 14.99 EUR) 43.36 % Rabatt hier:
 
-[![iVANKY DisplayPort Kabel  2M/4K  Display](https://m.media-amazon.com/images/I/41L7NhdZWEL._SL200_.jpg)](https://www.amazon.de/dp/B07JQKWX3C/?tag=tolees0ca-21)
+[![iVANKY DisplayPort Kabel  2M/4K  Display](https://m.media-amazon.com/images/I/41L7NhdZWEL._SL400_.jpg)](https://www.amazon.de/dp/B07JQKWX3C/?tag=tolees0ca-21)
 
 ℹ️:
 

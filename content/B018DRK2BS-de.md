@@ -2,7 +2,7 @@
 layout: post
 title: '18.77 % rabat auf Kunzer 7SS172 Steckschlüsselsatz 1/4" - '
 date: 2020-04-13 10:03:58
-image: 'https://m.media-amazon.com/images/I/61HXzZfW7iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61HXzZfW7iL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.1'
 
 Es gibt ein [Kunzer 7SS172 Steckschlüsselsatz 1/4" - 3/8" - 1/2"  172-teilig](https://www.amazon.de/dp/B018DRK2BS/?tag=tolees0ca-21) mit aktuellem Preis 99.1 EUR (original: 122.0 EUR) 18.77 % Rabatt hier:
 
-[![Kunzer 7SS172 Steckschlüsselsatz 1/4" - ](https://m.media-amazon.com/images/I/61HXzZfW7iL._SL200_.jpg)](https://www.amazon.de/dp/B018DRK2BS/?tag=tolees0ca-21)
+[![Kunzer 7SS172 Steckschlüsselsatz 1/4" - ](https://m.media-amazon.com/images/I/61HXzZfW7iL._SL400_.jpg)](https://www.amazon.de/dp/B018DRK2BS/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '24.54 % rabat auf Lamy 1226061 al-star Füllhalter Aluminiu'
 date: 2020-09-30 09:07:58
-image: 'https://m.media-amazon.com/images/I/31ZRfBzfJ9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ZRfBzfJ9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.79'
 
 Es gibt ein [Lamy 1226061 al-star Füllhalter Aluminium Feder M  blaugrün](https://www.amazon.de/dp/B00I5G76UI/?tag=tolees0ca-21) mit aktuellem Preis 18.79 EUR (original: 24.9 EUR) 24.54 % Rabatt hier:
 
-[![Lamy 1226061 al-star Füllhalter Aluminiu](https://m.media-amazon.com/images/I/31ZRfBzfJ9L._SL200_.jpg)](https://www.amazon.de/dp/B00I5G76UI/?tag=tolees0ca-21)
+[![Lamy 1226061 al-star Füllhalter Aluminiu](https://m.media-amazon.com/images/I/31ZRfBzfJ9L._SL400_.jpg)](https://www.amazon.de/dp/B00I5G76UI/?tag=tolees0ca-21)
 
 ℹ️:
 

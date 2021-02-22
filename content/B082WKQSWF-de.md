@@ -2,7 +2,7 @@
 layout: post
 title: '28.21 % rabat auf TOM TAILOR Herren Poloshirts Basic Polos'
 date: 2020-09-29 11:39:01
-image: 'https://m.media-amazon.com/images/I/318pmuorAbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318pmuorAbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.35'
 
 Es gibt ein [TOM TAILOR Herren Poloshirts Basic Poloshirt Sky Captain Blue L](https://www.amazon.de/dp/B082WKQSWF/?tag=tolees0ca-21) mit aktuellem Preis 14.35 EUR (original: 19.99 EUR) 28.21 % Rabatt hier:
 
-[![TOM TAILOR Herren Poloshirts Basic Polos](https://m.media-amazon.com/images/I/318pmuorAbL._SL200_.jpg)](https://www.amazon.de/dp/B082WKQSWF/?tag=tolees0ca-21)
+[![TOM TAILOR Herren Poloshirts Basic Polos](https://m.media-amazon.com/images/I/318pmuorAbL._SL400_.jpg)](https://www.amazon.de/dp/B082WKQSWF/?tag=tolees0ca-21)
 
 ℹ️:
 

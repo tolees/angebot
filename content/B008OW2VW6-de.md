@@ -2,7 +2,7 @@
 layout: post
 title: '26.96 % rabat auf Gimi Modular 4 Turm-Wäscheständer aus St'
 date: 2020-10-08 19:42:49
-image: 'https://m.media-amazon.com/images/I/41NuaYk4TRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NuaYk4TRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.39'
 
 Es gibt ein [Gimi Modular 4 Turm-Wäscheständer aus Stahl  40 m Trockenlänge](https://www.amazon.de/dp/B008OW2VW6/?tag=tolees0ca-21) mit aktuellem Preis 35.39 EUR (original: 48.45 EUR) 26.96 % Rabatt hier:
 
-[![Gimi Modular 4 Turm-Wäscheständer aus St](https://m.media-amazon.com/images/I/41NuaYk4TRL._SL200_.jpg)](https://www.amazon.de/dp/B008OW2VW6/?tag=tolees0ca-21)
+[![Gimi Modular 4 Turm-Wäscheständer aus St](https://m.media-amazon.com/images/I/41NuaYk4TRL._SL400_.jpg)](https://www.amazon.de/dp/B008OW2VW6/?tag=tolees0ca-21)
 
 ℹ️:
 

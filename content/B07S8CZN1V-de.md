@@ -2,7 +2,7 @@
 layout: post
 title: 'Dell Inspiron - 15 6" - i7 - 32GB RAM -  mit 49.96 % Rabatt'
 date: 2020-01-29 07:42:46
-image: 'https://m.media-amazon.com/images/I/51PbxZMYErL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51PbxZMYErL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '595.0'
 
 Sie können [Dell Inspiron - 15 6" - i7 - 32GB RAM - 1000GB SSD - Windows 10 Pro - Office 2016 Pro #mit Funkmaus +Notebooktasche](https://www.amazon.de/dp/B07S8CZN1V/?tag=tolees0ca-21) mit Preis 595.0 EUR (original: 1189.0 EUR) 49.96 % Rabatt hier:
 
-[![Dell Inspiron - 15 6" - i7 - 32GB RAM - ](https://m.media-amazon.com/images/I/51PbxZMYErL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07S8CZN1V/?tag=tolees0ca-21)
+[![Dell Inspiron - 15 6" - i7 - 32GB RAM - ](https://m.media-amazon.com/images/I/51PbxZMYErL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07S8CZN1V/?tag=tolees0ca-21)
 
 ℹ️:
 

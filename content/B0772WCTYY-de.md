@@ -2,7 +2,7 @@
 layout: post
 title: '38.67 % rabat auf Sluban M38-70128B Pat and Mat at The Wor'
 date: 2020-03-07 18:32:29
-image: 'https://m.media-amazon.com/images/I/51ZpetixXML._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ZpetixXML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.63'
 
 Es gibt ein [Sluban M38-70128B Pat and Mat at The Workbank  Mehrfarbig](https://www.amazon.de/dp/B0772WCTYY/?tag=tolees0ca-21) mit aktuellem Preis 7.63 EUR (original: 12.44 EUR) 38.67 % Rabatt hier:
 
-[![Sluban M38-70128B Pat and Mat at The Wor](https://m.media-amazon.com/images/I/51ZpetixXML._AC_._SL200_.jpg)](https://www.amazon.de/dp/B0772WCTYY/?tag=tolees0ca-21)
+[![Sluban M38-70128B Pat and Mat at The Wor](https://m.media-amazon.com/images/I/51ZpetixXML._AC_._SL400_.jpg)](https://www.amazon.de/dp/B0772WCTYY/?tag=tolees0ca-21)
 
 ℹ️:
 

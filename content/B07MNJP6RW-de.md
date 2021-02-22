@@ -2,7 +2,7 @@
 layout: post
 title: '27.97 % rabat auf Crucial Ballistix Sport LT BLS2K8G4D32AE'
 date: 2020-02-03 00:16:41
-image: 'https://m.media-amazon.com/images/I/41wuCvOGR0L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wuCvOGR0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '66.03'
 
 Es gibt ein [Crucial Ballistix Sport LT BLS2K8G4D32AESBK 3200 MHz  DDR4  DRAM  Desktop Gaming Speicher Kit  16GB   8GB x2   CL16  Grau ](https://www.amazon.de/dp/B07MNJP6RW/?tag=tolees0ca-21) mit aktuellem Preis 59.99 EUR (original: 83.29 EUR) 27.97 % Rabatt hier:
 
-[![Crucial Ballistix Sport LT BLS2K8G4D32AE](https://m.media-amazon.com/images/I/41wuCvOGR0L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07MNJP6RW/?tag=tolees0ca-21)
+[![Crucial Ballistix Sport LT BLS2K8G4D32AE](https://m.media-amazon.com/images/I/41wuCvOGR0L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07MNJP6RW/?tag=tolees0ca-21)
 
 ℹ️:
 

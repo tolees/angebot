@@ -2,7 +2,7 @@
 layout: post
 title: '16.38 % rabat auf Sony BDV-N5200W 5.1 3D-DVD/Blu-ray Heimk'
 date: 2020-04-27 16:32:25
-image: 'https://m.media-amazon.com/images/I/315jci-LCGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/315jci-LCGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '475.82'
 
 Es gibt ein [Sony BDV-N5200W 5.1 3D-DVD/Blu-ray Heimkinosystem  Bluetooth  WLAN  Smart TV  NFC  schwarz](https://www.amazon.de/dp/B00IO31B8K/?tag=tolees0ca-21) mit aktuellem Preis 475.82 EUR (original: 569.0 EUR) 16.38 % Rabatt hier:
 
-[![Sony BDV-N5200W 5.1 3D-DVD/Blu-ray Heimk](https://m.media-amazon.com/images/I/315jci-LCGL._SL200_.jpg)](https://www.amazon.de/dp/B00IO31B8K/?tag=tolees0ca-21)
+[![Sony BDV-N5200W 5.1 3D-DVD/Blu-ray Heimk](https://m.media-amazon.com/images/I/315jci-LCGL._SL400_.jpg)](https://www.amazon.de/dp/B00IO31B8K/?tag=tolees0ca-21)
 
 ℹ️:
 

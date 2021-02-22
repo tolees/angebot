@@ -2,7 +2,7 @@
 layout: post
 title: '27.24 % rabat auf SanDisk Extreme 64 GB microSDXC Memory C'
 date: 2020-03-11 19:33:33
-image: 'https://m.media-amazon.com/images/I/4104McrVzLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4104McrVzLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.75'
 
 Es gibt ein [SanDisk Extreme 64 GB microSDXC Memory Card for Action Cameras and Drones with A2 App Performance up to 160 MB/s  Class 10  U3  V30](https://www.amazon.de/dp/B07HB8SLMV/?tag=tolees0ca-21) mit aktuellem Preis 16.0 EUR (original: 21.99 EUR) 27.24 % Rabatt hier:
 
-[![SanDisk Extreme 64 GB microSDXC Memory C](https://m.media-amazon.com/images/I/4104McrVzLL._SL200_.jpg)](https://www.amazon.de/dp/B07HB8SLMV/?tag=tolees0ca-21)
+[![SanDisk Extreme 64 GB microSDXC Memory C](https://m.media-amazon.com/images/I/4104McrVzLL._SL400_.jpg)](https://www.amazon.de/dp/B07HB8SLMV/?tag=tolees0ca-21)
 
 ℹ️:
 

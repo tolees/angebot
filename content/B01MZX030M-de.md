@@ -2,7 +2,7 @@
 layout: post
 title: '42.12 % rabat auf New Balance Herren 373 Core h Sneaker  R'
 date: 2020-09-16 06:19:20
-image: 'https://m.media-amazon.com/images/I/41WeB3k8XEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WeB3k8XEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.3'
 
 Es gibt ein [New Balance Herren 373 Core h Sneaker  Rot  Burgundy   42.5 EU](https://www.amazon.de/dp/B01MZX030M/?tag=tolees0ca-21) mit aktuellem Preis 46.3 EUR (original: 80.0 EUR) 42.12 % Rabatt hier:
 
-[![New Balance Herren 373 Core h Sneaker  R](https://m.media-amazon.com/images/I/41WeB3k8XEL._SL200_.jpg)](https://www.amazon.de/dp/B01MZX030M/?tag=tolees0ca-21)
+[![New Balance Herren 373 Core h Sneaker  R](https://m.media-amazon.com/images/I/41WeB3k8XEL._SL400_.jpg)](https://www.amazon.de/dp/B01MZX030M/?tag=tolees0ca-21)
 
 ℹ️:
 

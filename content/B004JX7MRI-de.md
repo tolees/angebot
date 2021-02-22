@@ -2,7 +2,7 @@
 layout: post
 title: 'Yankee Candle große Duftkerze im Glas  S mit 22.74 % Rabatt'
 date: 2020-02-29 04:42:22
-image: 'https://m.media-amazon.com/images/I/4128f9Gxe3L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4128f9Gxe3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.1'
 
 Sie können [Yankee Candle große Duftkerze im Glas  Soft Blanket  Brenndauer bis zu 150 Stunden](https://www.amazon.de/dp/B004JX7MRI/?tag=tolees0ca-21) mit Preis 23.1 EUR (original: 29.9 EUR) 22.74 % Rabatt hier:
 
-[![Yankee Candle große Duftkerze im Glas  S](https://m.media-amazon.com/images/I/4128f9Gxe3L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B004JX7MRI/?tag=tolees0ca-21)
+[![Yankee Candle große Duftkerze im Glas  S](https://m.media-amazon.com/images/I/4128f9Gxe3L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B004JX7MRI/?tag=tolees0ca-21)
 
 ℹ️:
 

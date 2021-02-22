@@ -2,7 +2,7 @@
 layout: post
 title: 'Playmobil 5309 - Schlafzimmer mit Schmin mit 30.56 % Rabatt'
 date: 2020-04-07 13:21:12
-image: 'https://m.media-amazon.com/images/I/61uGNfIUhiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61uGNfIUhiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.209411764705878'
 
 Sie können [Playmobil 5309 - Schlafzimmer mit Schminktischchen](https://www.amazon.de/dp/B00VLVH1UO/?tag=tolees0ca-21) mit Preis 9.0 EUR (original: 12.96 EUR) 30.56 % Rabatt hier:
 
-[![Playmobil 5309 - Schlafzimmer mit Schmin](https://m.media-amazon.com/images/I/61uGNfIUhiL._SL200_.jpg)](https://www.amazon.de/dp/B00VLVH1UO/?tag=tolees0ca-21)
+[![Playmobil 5309 - Schlafzimmer mit Schmin](https://m.media-amazon.com/images/I/61uGNfIUhiL._SL400_.jpg)](https://www.amazon.de/dp/B00VLVH1UO/?tag=tolees0ca-21)
 
 ℹ️:
 

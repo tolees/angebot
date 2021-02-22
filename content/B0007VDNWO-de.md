@@ -2,7 +2,7 @@
 layout: post
 title: 'Ravensburger 09074 - Nordlichter mit 38.44 % Rabatt'
 date: 2020-01-03 22:51:44
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61K%2BsYOqvzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61K%2BsYOqvzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.243636363636363'
 
 Sie können [Ravensburger 09074 - Nordlichter](https://www.amazon.de/dp/B0007VDNWO/?tag=tolees0ca-21) mit Preis 6.15 EUR (original: 9.99 EUR) 38.44 % Rabatt hier:
 
-[![Ravensburger 09074 - Nordlichter](https://images-eu.ssl-images-amazon.com/images/I/61K%2BsYOqvzL._SL200_.jpg)](https://www.amazon.de/dp/B0007VDNWO/?tag=tolees0ca-21)
+[![Ravensburger 09074 - Nordlichter](https://images-eu.ssl-images-amazon.com/images/I/61K%2BsYOqvzL._SL400_.jpg)](https://www.amazon.de/dp/B0007VDNWO/?tag=tolees0ca-21)
 
 ℹ️:
 

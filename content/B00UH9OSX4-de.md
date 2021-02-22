@@ -2,7 +2,7 @@
 layout: post
 title: '28.13 % rabat auf Bose ® Companion 50 Multimedia Lautsprec'
 date: 2020-02-26 22:14:34
-image: 'https://m.media-amazon.com/images/I/41+-akxgepL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+-akxgepL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '310.995'
 
 Es gibt ein [Bose ® Companion 50 Multimedia Lautsprechersystem schwarz](https://www.amazon.de/dp/B00UH9OSX4/?tag=tolees0ca-21) mit aktuellem Preis 309.0 EUR (original: 429.95 EUR) 28.13 % Rabatt hier:
 
-[![Bose ® Companion 50 Multimedia Lautsprec](https://m.media-amazon.com/images/I/41+-akxgepL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00UH9OSX4/?tag=tolees0ca-21)
+[![Bose ® Companion 50 Multimedia Lautsprec](https://m.media-amazon.com/images/I/41+-akxgepL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00UH9OSX4/?tag=tolees0ca-21)
 
 ℹ️:
 

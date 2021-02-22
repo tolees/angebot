@@ -2,7 +2,7 @@
 layout: post
 title: '30.02 % rabat auf PLAYMOBIL Family Fun 9281 Auto mit Dachb'
 date: 2020-04-07 13:21:20
-image: 'https://m.media-amazon.com/images/I/51HLoqRvq7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51HLoqRvq7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.897272727272727'
 
 Es gibt ein [PLAYMOBIL Family Fun 9281 Auto mit Dachbox  Ab 4 Jahren](https://www.amazon.de/dp/B06WGZXYQK/?tag=tolees0ca-21) mit aktuellem Preis 13.99 EUR (original: 19.99 EUR) 30.02 % Rabatt hier:
 
-[![PLAYMOBIL Family Fun 9281 Auto mit Dachb](https://m.media-amazon.com/images/I/51HLoqRvq7L._SL200_.jpg)](https://www.amazon.de/dp/B06WGZXYQK/?tag=tolees0ca-21)
+[![PLAYMOBIL Family Fun 9281 Auto mit Dachb](https://m.media-amazon.com/images/I/51HLoqRvq7L._SL400_.jpg)](https://www.amazon.de/dp/B06WGZXYQK/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '26.08 % rabat auf LEGO 71715 NINJAGO Avatar Jay – Tragbare'
 date: 2020-09-14 12:22:36
-image: 'https://m.media-amazon.com/images/I/51FBsyOQyKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51FBsyOQyKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.2'
 
 Es gibt ein [LEGO 71715 NINJAGO Avatar Jay – Tragbare Arcade Kapsel  Ninja-Spielzeug für Kinder zum Sammeln](https://www.amazon.de/dp/B07WC19M4V/?tag=tolees0ca-21) mit aktuellem Preis 7.2 EUR (original: 9.74 EUR) 26.08 % Rabatt hier:
 
-[![LEGO 71715 NINJAGO Avatar Jay – Tragbare](https://m.media-amazon.com/images/I/51FBsyOQyKL._SL200_.jpg)](https://www.amazon.de/dp/B07WC19M4V/?tag=tolees0ca-21)
+[![LEGO 71715 NINJAGO Avatar Jay – Tragbare](https://m.media-amazon.com/images/I/51FBsyOQyKL._SL400_.jpg)](https://www.amazon.de/dp/B07WC19M4V/?tag=tolees0ca-21)
 
 ℹ️:
 

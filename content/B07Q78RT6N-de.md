@@ -2,7 +2,7 @@
 layout: post
 title: '25.01 % rabat auf bayala - das Spiel'
 date: 2020-01-08 19:22:57
-image: 'https://images-eu.ssl-images-amazon.com/images/I/518wE-j0fLL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518wE-j0fLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Es gibt ein [bayala - das Spiel](https://www.amazon.de/dp/B07Q78RT6N/?tag=tolees0ca-21) mit aktuellem Preis 29.99 EUR (original: 39.99 EUR) 25.01 % Rabatt hier:
 
-[![bayala - das Spiel](https://images-eu.ssl-images-amazon.com/images/I/518wE-j0fLL._SL200_.jpg)](https://www.amazon.de/dp/B07Q78RT6N/?tag=tolees0ca-21)
+[![bayala - das Spiel](https://images-eu.ssl-images-amazon.com/images/I/518wE-j0fLL._SL400_.jpg)](https://www.amazon.de/dp/B07Q78RT6N/?tag=tolees0ca-21)
 
 ℹ️:
 

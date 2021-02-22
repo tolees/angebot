@@ -2,7 +2,7 @@
 layout: post
 title: 'Call Of Cthulhu [Playstation 4] mit 44.77 % Rabatt'
 date: 2020-02-03 09:31:05
-image: 'https://m.media-amazon.com/images/I/51g8Y20be+L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51g8Y20be+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 Sie können [Call Of Cthulhu [Playstation 4]](https://www.amazon.de/dp/B07CG1R3VF/?tag=tolees0ca-21) mit Preis 15.99 EUR (original: 28.95 EUR) 44.77 % Rabatt hier:
 
-[![Call Of Cthulhu [Playstation 4]](https://m.media-amazon.com/images/I/51g8Y20be+L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07CG1R3VF/?tag=tolees0ca-21)
+[![Call Of Cthulhu [Playstation 4]](https://m.media-amazon.com/images/I/51g8Y20be+L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07CG1R3VF/?tag=tolees0ca-21)
 
 ℹ️:
 

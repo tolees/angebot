@@ -2,7 +2,7 @@
 layout: post
 title: '20.01 % rabat auf Anker PowerPort Speed 5  63W 5 Port USB '
 date: 2020-09-21 11:51:52
-image: 'https://m.media-amazon.com/images/I/41Tku5QcoAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Tku5QcoAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.656666666666666'
 
 Es gibt ein [Anker PowerPort Speed 5  63W 5 Port USB Ladegerät  Netzteile mit Quick Charge 3.0 & Power IQ für Samsung Galaxy S8 / S7 / S6 / Edge / Plus / Note  iPhone  iPad  LG  Nexus  HTC usw.](https://www.amazon.de/dp/B01KUV3Q0O/?tag=tolees0ca-21) mit aktuellem Preis 27.99 EUR (original: 34.99 EUR) 20.01 % Rabatt hier:
 
-[![Anker PowerPort Speed 5  63W 5 Port USB ](https://m.media-amazon.com/images/I/41Tku5QcoAL._SL200_.jpg)](https://www.amazon.de/dp/B01KUV3Q0O/?tag=tolees0ca-21)
+[![Anker PowerPort Speed 5  63W 5 Port USB ](https://m.media-amazon.com/images/I/41Tku5QcoAL._SL400_.jpg)](https://www.amazon.de/dp/B01KUV3Q0O/?tag=tolees0ca-21)
 
 ℹ️:
 

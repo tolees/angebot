@@ -2,7 +2,7 @@
 layout: post
 title: 'Hasbro Gaming C0447100 - Pipi Party Kind mit 40.02 % Rabatt'
 date: 2020-04-17 23:58:56
-image: 'https://m.media-amazon.com/images/I/51JhSAbnmFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51JhSAbnmFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 Sie können [Hasbro Gaming C0447100 - Pipi Party Kinderspiel](https://www.amazon.de/dp/B01MR5NVNK/?tag=tolees0ca-21) mit Preis 14.99 EUR (original: 24.99 EUR) 40.02 % Rabatt hier:
 
-[![Hasbro Gaming C0447100 - Pipi Party Kind](https://m.media-amazon.com/images/I/51JhSAbnmFL._SL200_.jpg)](https://www.amazon.de/dp/B01MR5NVNK/?tag=tolees0ca-21)
+[![Hasbro Gaming C0447100 - Pipi Party Kind](https://m.media-amazon.com/images/I/51JhSAbnmFL._SL400_.jpg)](https://www.amazon.de/dp/B01MR5NVNK/?tag=tolees0ca-21)
 
 ℹ️:
 

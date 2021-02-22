@@ -2,7 +2,7 @@
 layout: post
 title: '22.11 % rabat auf The Iceman'
 date: 2020-04-13 23:43:04
-image: 'https://m.media-amazon.com/images/I/51SLKnhfRXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51SLKnhfRXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.99'
 
 Es gibt ein [The Iceman](https://www.amazon.de/dp/B00BMIVK4E/?tag=tolees0ca-21) mit aktuellem Preis 5.99 EUR (original: 7.69 EUR) 22.11 % Rabatt hier:
 
-[![The Iceman](https://m.media-amazon.com/images/I/51SLKnhfRXL._SL200_.jpg)](https://www.amazon.de/dp/B00BMIVK4E/?tag=tolees0ca-21)
+[![The Iceman](https://m.media-amazon.com/images/I/51SLKnhfRXL._SL400_.jpg)](https://www.amazon.de/dp/B00BMIVK4E/?tag=tolees0ca-21)
 
 ℹ️:
 

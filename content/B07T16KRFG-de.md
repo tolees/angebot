@@ -2,7 +2,7 @@
 layout: post
 title: '15.00 % rabat auf Ni no Kuni: Der Fluch der Weißen Königin'
 date: 2020-02-13 06:46:53
-image: 'https://m.media-amazon.com/images/I/51A7Ybj1xVL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51A7Ybj1xVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.99'
 
 Es gibt ein [Ni no Kuni: Der Fluch der Weißen Königin - [Nintendo Switch]](https://www.amazon.de/dp/B07T16KRFG/?tag=tolees0ca-21) mit aktuellem Preis 33.99 EUR (original: 39.99 EUR) 15.00 % Rabatt hier:
 
-[![Ni no Kuni: Der Fluch der Weißen Königin](https://m.media-amazon.com/images/I/51A7Ybj1xVL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07T16KRFG/?tag=tolees0ca-21)
+[![Ni no Kuni: Der Fluch der Weißen Königin](https://m.media-amazon.com/images/I/51A7Ybj1xVL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07T16KRFG/?tag=tolees0ca-21)
 
 ℹ️:
 

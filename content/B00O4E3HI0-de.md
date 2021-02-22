@@ -2,7 +2,7 @@
 layout: post
 title: '38.94 % rabat auf Playmobil 6153 - Strand-Shooting'
 date: 2020-03-08 18:47:15
-image: 'https://m.media-amazon.com/images/I/61OFtBksb6L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61OFtBksb6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.1'
 
 Es gibt ein [Playmobil 6153 - Strand-Shooting](https://www.amazon.de/dp/B00O4E3HI0/?tag=tolees0ca-21) mit aktuellem Preis 6.1 EUR (original: 9.99 EUR) 38.94 % Rabatt hier:
 
-[![Playmobil 6153 - Strand-Shooting](https://m.media-amazon.com/images/I/61OFtBksb6L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00O4E3HI0/?tag=tolees0ca-21)
+[![Playmobil 6153 - Strand-Shooting](https://m.media-amazon.com/images/I/61OFtBksb6L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00O4E3HI0/?tag=tolees0ca-21)
 
 ℹ️:
 

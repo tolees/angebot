@@ -2,7 +2,7 @@
 layout: post
 title: 'Pop Royal Family Prince William Vinyl Fi mit 64.33 % Rabatt'
 date: 2020-02-22 03:56:10
-image: 'https://m.media-amazon.com/images/I/41jHVm5NSXL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jHVm5NSXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.235'
 
 Sie können [Pop Royal Family Prince William Vinyl Figure](https://www.amazon.de/dp/B0777TNHLJ/?tag=tolees0ca-21) mit Preis 4.99 EUR (original: 13.99 EUR) 64.33 % Rabatt hier:
 
-[![Pop Royal Family Prince William Vinyl Fi](https://m.media-amazon.com/images/I/41jHVm5NSXL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B0777TNHLJ/?tag=tolees0ca-21)
+[![Pop Royal Family Prince William Vinyl Fi](https://m.media-amazon.com/images/I/41jHVm5NSXL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B0777TNHLJ/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko 10408 Harry Potter Phantastische T mit 41.03 % Rabatt'
 date: 2020-08-18 16:33:49
-image: 'https://m.media-amazon.com/images/I/41B9m106nBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41B9m106nBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.25'
 
 Sie können [Funko 10408 Harry Potter Phantastische Tierwesen-Niffler Figur  Multi  Einheitsgröße](https://www.amazon.de/dp/B01K9IO3MS/?tag=tolees0ca-21) mit Preis 8.25 EUR (original: 13.99 EUR) 41.03 % Rabatt hier:
 
-[![Funko 10408 Harry Potter Phantastische T](https://m.media-amazon.com/images/I/41B9m106nBL._SL200_.jpg)](https://www.amazon.de/dp/B01K9IO3MS/?tag=tolees0ca-21)
+[![Funko 10408 Harry Potter Phantastische T](https://m.media-amazon.com/images/I/41B9m106nBL._SL400_.jpg)](https://www.amazon.de/dp/B01K9IO3MS/?tag=tolees0ca-21)
 
 ℹ️:
 

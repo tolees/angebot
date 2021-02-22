@@ -2,7 +2,7 @@
 layout: post
 title: '34.30 % rabat auf Leifheit Standtrockner Classic 250 Flex '
 date: 2020-09-24 11:31:39
-image: 'https://m.media-amazon.com/images/I/31lRSBNfqTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31lRSBNfqTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.99'
 
 Es gibt ein [Leifheit Standtrockner Classic 250 Flex  individuell einstellbarer Wäschetrockner mit 25m Wäscheleine für 2-3 Waschmaschinenladungen  Wäscheständer für drinnen und draußen  für lange Wäsche](https://www.amazon.de/dp/B00VQBEGCU/?tag=tolees0ca-21) mit aktuellem Preis 22.99 EUR (original: 34.99 EUR) 34.30 % Rabatt hier:
 
-[![Leifheit Standtrockner Classic 250 Flex ](https://m.media-amazon.com/images/I/31lRSBNfqTL._SL200_.jpg)](https://www.amazon.de/dp/B00VQBEGCU/?tag=tolees0ca-21)
+[![Leifheit Standtrockner Classic 250 Flex ](https://m.media-amazon.com/images/I/31lRSBNfqTL._SL400_.jpg)](https://www.amazon.de/dp/B00VQBEGCU/?tag=tolees0ca-21)
 
 ℹ️:
 

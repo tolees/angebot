@@ -2,7 +2,7 @@
 layout: post
 title: 'Tado Smartes Heizkörper-Thermostat  Duo  mit 33.34 % Rabatt'
 date: 2020-01-16 09:07:21
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31xGe%2BOOiGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31xGe%2BOOiGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.99'
 
 Sie können [Tado Smartes Heizkörper-Thermostat  Duo Pack  Zusatzprodukte für Einzelraumsteuerung  intelligente Heizungssteuerung ](https://www.amazon.de/dp/B07FZ4P5KR/?tag=tolees0ca-21) mit Preis 99.99 EUR (original: 149.99 EUR) 33.34 % Rabatt hier:
 
-[![Tado Smartes Heizkörper-Thermostat  Duo ](https://images-eu.ssl-images-amazon.com/images/I/31xGe%2BOOiGL._SL200_.jpg)](https://www.amazon.de/dp/B07FZ4P5KR/?tag=tolees0ca-21)
+[![Tado Smartes Heizkörper-Thermostat  Duo ](https://images-eu.ssl-images-amazon.com/images/I/31xGe%2BOOiGL._SL400_.jpg)](https://www.amazon.de/dp/B07FZ4P5KR/?tag=tolees0ca-21)
 
 ℹ️:
 

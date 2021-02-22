@@ -2,7 +2,7 @@
 layout: post
 title: '30.01 % rabat auf LEGO 41362 - Friends Supermarkt von Hear'
 date: 2020-04-14 16:31:50
-image: 'https://m.media-amazon.com/images/I/51TOV3SkwDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51TOV3SkwDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.155454545454546'
 
 Es gibt ein [LEGO 41362 - Friends Supermarkt von Heartlake City  Bauset](https://www.amazon.de/dp/B07KTK9B4B/?tag=tolees0ca-21) mit aktuellem Preis 20.99 EUR (original: 29.99 EUR) 30.01 % Rabatt hier:
 
-[![LEGO 41362 - Friends Supermarkt von Hear](https://m.media-amazon.com/images/I/51TOV3SkwDL._SL200_.jpg)](https://www.amazon.de/dp/B07KTK9B4B/?tag=tolees0ca-21)
+[![LEGO 41362 - Friends Supermarkt von Hear](https://m.media-amazon.com/images/I/51TOV3SkwDL._SL400_.jpg)](https://www.amazon.de/dp/B07KTK9B4B/?tag=tolees0ca-21)
 
 ℹ️:
 

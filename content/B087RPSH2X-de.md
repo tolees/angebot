@@ -2,7 +2,7 @@
 layout: post
 title: '20.00 % rabat auf WOTEGA Jeans Herren Alistar Slim fit - S'
 date: 2020-10-11 08:07:24
-image: 'https://m.media-amazon.com/images/I/419CFf28H5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419CFf28H5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.92'
 
 Es gibt ein [WOTEGA Jeans Herren Alistar Slim fit - Stretch Jeanshose - Blaue Hose für Männer  Blau  Flint Stone 183916   W30/L30](https://www.amazon.de/dp/B087RPSH2X/?tag=tolees0ca-21) mit aktuellem Preis 31.92 EUR (original: 39.9 EUR) 20.00 % Rabatt hier:
 
-[![WOTEGA Jeans Herren Alistar Slim fit - S](https://m.media-amazon.com/images/I/419CFf28H5L._SL200_.jpg)](https://www.amazon.de/dp/B087RPSH2X/?tag=tolees0ca-21)
+[![WOTEGA Jeans Herren Alistar Slim fit - S](https://m.media-amazon.com/images/I/419CFf28H5L._SL400_.jpg)](https://www.amazon.de/dp/B087RPSH2X/?tag=tolees0ca-21)
 
 ℹ️:
 

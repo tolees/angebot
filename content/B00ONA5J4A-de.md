@@ -2,7 +2,7 @@
 layout: post
 title: '44.09 % rabat auf Neff CKS1561N Einbau-Kaffeemaschine aus '
 date: 2020-02-10 16:08:08
-image: 'https://images-eu.ssl-images-amazon.com/images/I/417LgsoY05L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417LgsoY05L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1229'
 
 Es gibt ein [Neff CKS1561N Einbau-Kaffeemaschine aus Edelstahl  SensoFlow System](https://www.amazon.de/dp/B00ONA5J4A/?tag=tolees0ca-21) mit aktuellem Preis 1229 EUR (original: 2198 EUR) 44.09 % Rabatt hier:
 
-[![Neff CKS1561N Einbau-Kaffeemaschine aus ](https://images-eu.ssl-images-amazon.com/images/I/417LgsoY05L._SL200_.jpg)](https://www.amazon.de/dp/B00ONA5J4A/?tag=tolees0ca-21)
+[![Neff CKS1561N Einbau-Kaffeemaschine aus ](https://images-eu.ssl-images-amazon.com/images/I/417LgsoY05L._SL400_.jpg)](https://www.amazon.de/dp/B00ONA5J4A/?tag=tolees0ca-21)
 
 ℹ️:
 

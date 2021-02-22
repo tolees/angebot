@@ -2,7 +2,7 @@
 layout: post
 title: '34.92 % rabat auf Goobay 45193 Steckdosenleiste IP44 sprit'
 date: 2020-09-29 10:34:08
-image: 'https://m.media-amazon.com/images/I/31cMS8VsB+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31cMS8VsB+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Es gibt ein [Goobay 45193 Steckdosenleiste IP44 spritzwassergeschützt 3 m – 3-Fach Schutzkontaktbuchse mit Schutzkappen  für den Außenbereich geeignet](https://www.amazon.de/dp/B01MYE8K6X/?tag=tolees0ca-21) mit aktuellem Preis 9.99 EUR (original: 15.35 EUR) 34.92 % Rabatt hier:
 
-[![Goobay 45193 Steckdosenleiste IP44 sprit](https://m.media-amazon.com/images/I/31cMS8VsB+L._SL200_.jpg)](https://www.amazon.de/dp/B01MYE8K6X/?tag=tolees0ca-21)
+[![Goobay 45193 Steckdosenleiste IP44 sprit](https://m.media-amazon.com/images/I/31cMS8VsB+L._SL400_.jpg)](https://www.amazon.de/dp/B01MYE8K6X/?tag=tolees0ca-21)
 
 ℹ️:
 

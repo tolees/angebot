@@ -2,7 +2,7 @@
 layout: post
 title: 'Schwerlastregal | 178 5x130x60cm | CALLI mit 30.00 % Rabatt'
 date: 2020-04-15 23:56:55
-image: 'https://m.media-amazon.com/images/I/41VHh+PCszL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VHh+PCszL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.99'
 
 Sie können [Schwerlastregal | 178 5x130x60cm | CALLIDUS BAUMARKT | blau pulverbeschichtet | 130 cm breit ✓ 4 Böden je max. 250 kg Tragkraft ✓ Lagerregal Metallregal Kellerregal](https://www.amazon.de/dp/B07GJRYBLC/?tag=tolees0ca-21) mit Preis 69.99 EUR (original: 99.99 EUR) 30.00 % Rabatt hier:
 
-[![Schwerlastregal | 178 5x130x60cm | CALLI](https://m.media-amazon.com/images/I/41VHh+PCszL._SL200_.jpg)](https://www.amazon.de/dp/B07GJRYBLC/?tag=tolees0ca-21)
+[![Schwerlastregal | 178 5x130x60cm | CALLI](https://m.media-amazon.com/images/I/41VHh+PCszL._SL400_.jpg)](https://www.amazon.de/dp/B07GJRYBLC/?tag=tolees0ca-21)
 
 ℹ️:
 

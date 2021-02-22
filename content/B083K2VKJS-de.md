@@ -2,7 +2,7 @@
 layout: post
 title: '50.00 % rabat auf DXX Acryl Schaukasten Vitrine  Schaukast'
 date: 2020-04-07 21:41:07
-image: 'https://m.media-amazon.com/images/I/512EHu-G1gL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512EHu-G1gL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '85.99'
 
 Es gibt ein [DXX Acryl Schaukasten Vitrine  Schaukasten Acryl Vitrine Display Case für Lego Technic 42056 Porsche 911 GT3 RS  Ohne Modell ](https://www.amazon.de/dp/B083K2VKJS/?tag=tolees0ca-21) mit aktuellem Preis 94.99 EUR (original: 189.98 EUR) 50.00 % Rabatt hier:
 
-[![DXX Acryl Schaukasten Vitrine  Schaukast](https://m.media-amazon.com/images/I/512EHu-G1gL._SL200_.jpg)](https://www.amazon.de/dp/B083K2VKJS/?tag=tolees0ca-21)
+[![DXX Acryl Schaukasten Vitrine  Schaukast](https://m.media-amazon.com/images/I/512EHu-G1gL._SL400_.jpg)](https://www.amazon.de/dp/B083K2VKJS/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '16.61 % rabat auf Intel Dual Band Wireless-AC 7265'
 date: 2020-03-09 11:46:08
-image: 'https://m.media-amazon.com/images/I/51BzyUYDAkL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51BzyUYDAkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.86'
 
 Es gibt ein [Intel Dual Band Wireless-AC 7265](https://www.amazon.de/dp/B00U8IUTNM/?tag=tolees0ca-21) mit aktuellem Preis 14.86 EUR (original: 17.82 EUR) 16.61 % Rabatt hier:
 
-[![Intel Dual Band Wireless-AC 7265](https://m.media-amazon.com/images/I/51BzyUYDAkL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00U8IUTNM/?tag=tolees0ca-21)
+[![Intel Dual Band Wireless-AC 7265](https://m.media-amazon.com/images/I/51BzyUYDAkL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00U8IUTNM/?tag=tolees0ca-21)
 
 ℹ️:
 

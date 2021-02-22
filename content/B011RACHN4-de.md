@@ -2,7 +2,7 @@
 layout: post
 title: '20.05 % rabat auf TP-Link TL-WA901ND V5.0 450MBit/s-WLAN A'
 date: 2020-09-12 12:55:51
-image: 'https://m.media-amazon.com/images/I/410SS5MWwkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410SS5MWwkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.123695652173918'
 
 Es gibt ein [TP-Link TL-WA901ND V5.0 450MBit/s-WLAN Accesspoint  802.11b/g/n  WPS  Multi-SSID  WMM  Ping-Watchdog  3 abnehmbare 4dBi-Antennen  unterstützt AP/Client/Bridge/Repeater  weiß](https://www.amazon.de/dp/B011RACHN4/?tag=tolees0ca-21) mit aktuellem Preis 31.9 EUR (original: 39.9 EUR) 20.05 % Rabatt hier:
 
-[![TP-Link TL-WA901ND V5.0 450MBit/s-WLAN A](https://m.media-amazon.com/images/I/410SS5MWwkL._SL200_.jpg)](https://www.amazon.de/dp/B011RACHN4/?tag=tolees0ca-21)
+[![TP-Link TL-WA901ND V5.0 450MBit/s-WLAN A](https://m.media-amazon.com/images/I/410SS5MWwkL._SL400_.jpg)](https://www.amazon.de/dp/B011RACHN4/?tag=tolees0ca-21)
 
 ℹ️:
 

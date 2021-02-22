@@ -2,7 +2,7 @@
 layout: post
 title: 'SAMSONITE Checkmate - Laptop Backpack -  mit 42.55 % Rabatt'
 date: 2020-01-30 15:16:05
-image: 'https://m.media-amazon.com/images/I/41Wk1+0xC8L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Wk1+0xC8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '149.01666666666665'
 
 Sie können [SAMSONITE Checkmate - Laptop Backpack - Double Pocket Rucksack  44 cm  22.5 Liter  Grey](https://www.amazon.de/dp/B07PHNNBXB/?tag=tolees0ca-21) mit Preis 143.04 EUR (original: 249.0 EUR) 42.55 % Rabatt hier:
 
-[![SAMSONITE Checkmate - Laptop Backpack - ](https://m.media-amazon.com/images/I/41Wk1+0xC8L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07PHNNBXB/?tag=tolees0ca-21)
+[![SAMSONITE Checkmate - Laptop Backpack - ](https://m.media-amazon.com/images/I/41Wk1+0xC8L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07PHNNBXB/?tag=tolees0ca-21)
 
 ℹ️:
 

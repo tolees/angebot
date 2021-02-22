@@ -2,7 +2,7 @@
 layout: post
 title: '35.16 % rabat auf fischertechnik - 536619 PROFI Dynamic XS'
 date: 2020-04-06 21:04:30
-image: 'https://m.media-amazon.com/images/I/41VeRkWsFYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VeRkWsFYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.323333333333334'
 
 Es gibt ein [fischertechnik - 536619 PROFI Dynamic XS  Kugelbahn](https://www.amazon.de/dp/B01BGL6SIY/?tag=tolees0ca-21) mit aktuellem Preis 10.99 EUR (original: 16.95 EUR) 35.16 % Rabatt hier:
 
-[![fischertechnik - 536619 PROFI Dynamic XS](https://m.media-amazon.com/images/I/41VeRkWsFYL._SL200_.jpg)](https://www.amazon.de/dp/B01BGL6SIY/?tag=tolees0ca-21)
+[![fischertechnik - 536619 PROFI Dynamic XS](https://m.media-amazon.com/images/I/41VeRkWsFYL._SL400_.jpg)](https://www.amazon.de/dp/B01BGL6SIY/?tag=tolees0ca-21)
 
 ℹ️:
 

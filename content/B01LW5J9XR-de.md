@@ -2,7 +2,7 @@
 layout: post
 title: 'Grundig CMS 1050 DAB+ BT Kompakt Micro A mit 36.89 % Rabatt'
 date: 2020-09-02 06:13:53
-image: 'https://m.media-amazon.com/images/I/41Pd91JTKBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Pd91JTKBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '94.26407407407409'
 
 Sie können [Grundig CMS 1050 DAB+ BT Kompakt Micro Anlage  Bluetooth  CD-MP3-Wiedergabe  USB Anschluss  schwarz/silber](https://www.amazon.de/dp/B01LW5J9XR/?tag=tolees0ca-21) mit Preis 94.04 EUR (original: 149.0 EUR) 36.89 % Rabatt hier:
 
-[![Grundig CMS 1050 DAB+ BT Kompakt Micro A](https://m.media-amazon.com/images/I/41Pd91JTKBL._SL200_.jpg)](https://www.amazon.de/dp/B01LW5J9XR/?tag=tolees0ca-21)
+[![Grundig CMS 1050 DAB+ BT Kompakt Micro A](https://m.media-amazon.com/images/I/41Pd91JTKBL._SL400_.jpg)](https://www.amazon.de/dp/B01LW5J9XR/?tag=tolees0ca-21)
 
 ℹ️:
 

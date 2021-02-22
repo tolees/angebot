@@ -2,7 +2,7 @@
 layout: post
 title: '31.43 % rabat auf Control Deluxe Edition - Future Pack - ['
 date: 2020-03-15 04:43:59
-image: 'https://m.media-amazon.com/images/I/41yDz12AwCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yDz12AwCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.99'
 
 Es gibt ein [Control Deluxe Edition - Future Pack - [PlayStation 4]](https://www.amazon.de/dp/B07VVF4RCM/?tag=tolees0ca-21) mit aktuellem Preis 47.99 EUR (original: 69.99 EUR) 31.43 % Rabatt hier:
 
-[![Control Deluxe Edition - Future Pack - [](https://m.media-amazon.com/images/I/41yDz12AwCL._SL200_.jpg)](https://www.amazon.de/dp/B07VVF4RCM/?tag=tolees0ca-21)
+[![Control Deluxe Edition - Future Pack - [](https://m.media-amazon.com/images/I/41yDz12AwCL._SL400_.jpg)](https://www.amazon.de/dp/B07VVF4RCM/?tag=tolees0ca-21)
 
 ℹ️:
 

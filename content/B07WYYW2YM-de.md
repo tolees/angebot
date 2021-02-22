@@ -2,7 +2,7 @@
 layout: post
 title: '33.52 % rabat auf Tablet 10 Zoll  Android 8.1  Dragon Touc'
 date: 2020-03-26 16:08:35
-image: 'https://m.media-amazon.com/images/I/51d4ySNwPfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51d4ySNwPfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '73.12'
 
 Es gibt ein [Tablet 10 Zoll  Android 8.1  Dragon Touch K10 Tablet Pad 2GB+16GB  Quad Core IPS HD  1280 x 800  Touchscreen  2MP Dual Kamera /Micro HDMI /GPS/ FM /5G WiFi /Bluetooth 4.0  schwarz](https://www.amazon.de/dp/B07WYYW2YM/?tag=tolees0ca-21) mit aktuellem Preis 73.12 EUR (original: 109.99 EUR) 33.52 % Rabatt hier:
 
-[![Tablet 10 Zoll  Android 8.1  Dragon Touc](https://m.media-amazon.com/images/I/51d4ySNwPfL._SL200_.jpg)](https://www.amazon.de/dp/B07WYYW2YM/?tag=tolees0ca-21)
+[![Tablet 10 Zoll  Android 8.1  Dragon Touc](https://m.media-amazon.com/images/I/51d4ySNwPfL._SL400_.jpg)](https://www.amazon.de/dp/B07WYYW2YM/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '52.50 % rabat auf Trefl 31131 - Rahmen-Puzzle  Mickey Mous'
 date: 2020-10-02 09:08:22
-image: 'https://m.media-amazon.com/images/I/51O8ja6u46L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51O8ja6u46L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.32'
 
 Es gibt ein [Trefl 31131 - Rahmen-Puzzle  Mickey Mouse  Auf dem Land  15 Teile](https://www.amazon.de/dp/B00CS04JAC/?tag=tolees0ca-21) mit aktuellem Preis 3.32 EUR (original: 6.99 EUR) 52.50 % Rabatt hier:
 
-[![Trefl 31131 - Rahmen-Puzzle  Mickey Mous](https://m.media-amazon.com/images/I/51O8ja6u46L._SL200_.jpg)](https://www.amazon.de/dp/B00CS04JAC/?tag=tolees0ca-21)
+[![Trefl 31131 - Rahmen-Puzzle  Mickey Mous](https://m.media-amazon.com/images/I/51O8ja6u46L._SL400_.jpg)](https://www.amazon.de/dp/B00CS04JAC/?tag=tolees0ca-21)
 
 ℹ️:
 

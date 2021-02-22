@@ -2,7 +2,7 @@
 layout: post
 title: 'Neff TBD1676N / T16BD76N0 / Autarkes Koc mit 57.97 % Rabatt'
 date: 2020-04-16 13:04:44
-image: 'https://m.media-amazon.com/images/I/41U4cU4cC4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41U4cU4cC4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '284.98'
 
 Sie können [Neff TBD1676N / T16BD76N0 / Autarkes Kochfeld / Konventionell / 60cm / Touch Control / Zweikreis](https://www.amazon.de/dp/B01MTV80T9/?tag=tolees0ca-21) mit Preis 284.98 EUR (original: 678.0 EUR) 57.97 % Rabatt hier:
 
-[![Neff TBD1676N / T16BD76N0 / Autarkes Koc](https://m.media-amazon.com/images/I/41U4cU4cC4L._SL200_.jpg)](https://www.amazon.de/dp/B01MTV80T9/?tag=tolees0ca-21)
+[![Neff TBD1676N / T16BD76N0 / Autarkes Koc](https://m.media-amazon.com/images/I/41U4cU4cC4L._SL400_.jpg)](https://www.amazon.de/dp/B01MTV80T9/?tag=tolees0ca-21)
 
 ℹ️:
 

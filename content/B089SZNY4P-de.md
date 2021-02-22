@@ -2,7 +2,7 @@
 layout: post
 title: '25.01 % rabat auf BRIKSMAX Led Beleuchtungsset für 1985 Au'
 date: 2020-08-04 01:13:26
-image: 'https://m.media-amazon.com/images/I/519TI6+jlnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/519TI6+jlnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Es gibt ein [BRIKSMAX Led Beleuchtungsset für 1985 Audi Sport Quattro S1 Kompatibel Mit Lego 76897 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B089SZNY4P/?tag=tolees0ca-21) mit aktuellem Preis 29.99 EUR (original: 39.99 EUR) 25.01 % Rabatt hier:
 
-[![BRIKSMAX Led Beleuchtungsset für 1985 Au](https://m.media-amazon.com/images/I/519TI6+jlnL._SL200_.jpg)](https://www.amazon.de/dp/B089SZNY4P/?tag=tolees0ca-21)
+[![BRIKSMAX Led Beleuchtungsset für 1985 Au](https://m.media-amazon.com/images/I/519TI6+jlnL._SL400_.jpg)](https://www.amazon.de/dp/B089SZNY4P/?tag=tolees0ca-21)
 
 ℹ️:
 

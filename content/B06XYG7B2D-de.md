@@ -2,7 +2,7 @@
 layout: post
 title: '43.43 % rabat auf Bang & Olufsen Beoplay P2 Bluetooth-Laut'
 date: 2020-04-22 11:53:46
-image: 'https://m.media-amazon.com/images/I/31vGzOqZbrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31vGzOqZbrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.0'
 
 Es gibt ein [Bang & Olufsen Beoplay P2 Bluetooth-Lautsprecher  tragbar  mit integriertem Mikrofon  sandstone](https://www.amazon.de/dp/B06XYG7B2D/?tag=tolees0ca-21) mit aktuellem Preis 99.0 EUR (original: 175.0 EUR) 43.43 % Rabatt hier:
 
-[![Bang & Olufsen Beoplay P2 Bluetooth-Laut](https://m.media-amazon.com/images/I/31vGzOqZbrL._SL200_.jpg)](https://www.amazon.de/dp/B06XYG7B2D/?tag=tolees0ca-21)
+[![Bang & Olufsen Beoplay P2 Bluetooth-Laut](https://m.media-amazon.com/images/I/31vGzOqZbrL._SL400_.jpg)](https://www.amazon.de/dp/B06XYG7B2D/?tag=tolees0ca-21)
 
 ℹ️:
 

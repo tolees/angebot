@@ -2,7 +2,7 @@
 layout: post
 title: '52.50 % rabat auf WAFTING 4er Set Esszimmerstühle Gepolste'
 date: 2020-08-20 22:48:51
-image: 'https://m.media-amazon.com/images/I/41SM8vt4VJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SM8vt4VJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '94.99'
 
 Es gibt ein [WAFTING 4er Set Esszimmerstühle Gepolsterter Seitenstuhl mit Buchenholz-Beinen und Weich Gepolsterte Tulip Chair für Esszimmer Wohnzimmer Schlafzimmer Küche  4er Set gepolstert weiß  …](https://www.amazon.de/dp/B07KX42DXT/?tag=tolees0ca-21) mit aktuellem Preis 94.99 EUR (original: 199.99 EUR) 52.50 % Rabatt hier:
 
-[![WAFTING 4er Set Esszimmerstühle Gepolste](https://m.media-amazon.com/images/I/41SM8vt4VJL._SL200_.jpg)](https://www.amazon.de/dp/B07KX42DXT/?tag=tolees0ca-21)
+[![WAFTING 4er Set Esszimmerstühle Gepolste](https://m.media-amazon.com/images/I/41SM8vt4VJL._SL400_.jpg)](https://www.amazon.de/dp/B07KX42DXT/?tag=tolees0ca-21)
 
 ℹ️:
 

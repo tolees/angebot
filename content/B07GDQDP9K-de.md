@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Herren Type 3 Sherpa Trucker-Jack mit 17.15 % Rabatt'
 date: 2020-02-11 05:04:57
-image: 'https://m.media-amazon.com/images/I/51zmowXDK-L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zmowXDK-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '107.7'
 
 Sie können [Levi s Herren Type 3 Sherpa Trucker-Jacke  Blau  Mayze Sherpa Trucker 0089   Large](https://www.amazon.de/dp/B07GDQDP9K/?tag=tolees0ca-21) mit Preis 107.7 EUR (original: 130.0 EUR) 17.15 % Rabatt hier:
 
-[![Levi s Herren Type 3 Sherpa Trucker-Jack](https://m.media-amazon.com/images/I/51zmowXDK-L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07GDQDP9K/?tag=tolees0ca-21)
+[![Levi s Herren Type 3 Sherpa Trucker-Jack](https://m.media-amazon.com/images/I/51zmowXDK-L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07GDQDP9K/?tag=tolees0ca-21)
 
 ℹ️:
 

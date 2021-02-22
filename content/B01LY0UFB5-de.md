@@ -2,7 +2,7 @@
 layout: post
 title: 'The Accountant mit 20.00 % Rabatt'
 date: 2020-02-21 04:46:58
-image: 'https://m.media-amazon.com/images/I/51xaF5xH+8L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xaF5xH+8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.0'
 
 Sie können [The Accountant](https://www.amazon.de/dp/B01LY0UFB5/?tag=tolees0ca-21) mit Preis 4.0 EUR (original: 5.0 EUR) 20.00 % Rabatt hier:
 
-[![The Accountant](https://m.media-amazon.com/images/I/51xaF5xH+8L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01LY0UFB5/?tag=tolees0ca-21)
+[![The Accountant](https://m.media-amazon.com/images/I/51xaF5xH+8L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01LY0UFB5/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '23.78 % rabat auf Engtanz'
 date: 2020-03-18 04:51:54
-image: 'https://m.media-amazon.com/images/I/51GUB0j4F9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51GUB0j4F9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.09'
 
 Es gibt ein [Engtanz](https://www.amazon.de/dp/B019EN52WE/?tag=tolees0ca-21) mit aktuellem Preis 6.09 EUR (original: 7.99 EUR) 23.78 % Rabatt hier:
 
-[![Engtanz](https://m.media-amazon.com/images/I/51GUB0j4F9L._SL200_.jpg)](https://www.amazon.de/dp/B019EN52WE/?tag=tolees0ca-21)
+[![Engtanz](https://m.media-amazon.com/images/I/51GUB0j4F9L._SL400_.jpg)](https://www.amazon.de/dp/B019EN52WE/?tag=tolees0ca-21)
 
 ℹ️:
 

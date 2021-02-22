@@ -2,7 +2,7 @@
 layout: post
 title: '16.43 % rabat auf Akku-Set 18 V / 5 Ah  DCD796 / DCF887 '
 date: 2020-03-23 05:07:50
-image: 'https://m.media-amazon.com/images/I/514fRy2tHeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/514fRy2tHeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '342.0'
 
 Es gibt ein [Akku-Set 18 V / 5 Ah  DCD796 / DCF887 ](https://www.amazon.de/dp/B01EWNGZ4U/?tag=tolees0ca-21) mit aktuellem Preis 342.0 EUR (original: 409.23 EUR) 16.43 % Rabatt hier:
 
-[![Akku-Set 18 V / 5 Ah  DCD796 / DCF887 ](https://m.media-amazon.com/images/I/514fRy2tHeL._SL200_.jpg)](https://www.amazon.de/dp/B01EWNGZ4U/?tag=tolees0ca-21)
+[![Akku-Set 18 V / 5 Ah  DCD796 / DCF887 ](https://m.media-amazon.com/images/I/514fRy2tHeL._SL400_.jpg)](https://www.amazon.de/dp/B01EWNGZ4U/?tag=tolees0ca-21)
 
 ℹ️:
 

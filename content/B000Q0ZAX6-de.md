@@ -2,7 +2,7 @@
 layout: post
 title: '16.67 % rabat auf Jil Sander Sun femme/ woman Duschgel  15'
 date: 2020-03-22 04:58:15
-image: 'https://m.media-amazon.com/images/I/2142F+lvQ1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/2142F+lvQ1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.0'
 
 Es gibt ein [Jil Sander Sun femme/ woman Duschgel  150 ml](https://www.amazon.de/dp/B000Q0ZAX6/?tag=tolees0ca-21) mit aktuellem Preis 7.0 EUR (original: 8.4 EUR) 16.67 % Rabatt hier:
 
-[![Jil Sander Sun femme/ woman Duschgel  15](https://m.media-amazon.com/images/I/2142F+lvQ1L._SL200_.jpg)](https://www.amazon.de/dp/B000Q0ZAX6/?tag=tolees0ca-21)
+[![Jil Sander Sun femme/ woman Duschgel  15](https://m.media-amazon.com/images/I/2142F+lvQ1L._SL400_.jpg)](https://www.amazon.de/dp/B000Q0ZAX6/?tag=tolees0ca-21)
 
 ℹ️:
 

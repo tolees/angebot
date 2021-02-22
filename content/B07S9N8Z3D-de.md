@@ -2,7 +2,7 @@
 layout: post
 title: 'Doritos Paprika - Paprika Tortilla Nacho mit 40.11 % Rabatt'
 date: 2020-07-20 12:18:43
-image: 'https://m.media-amazon.com/images/I/51mJ3Ce948L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51mJ3Ce948L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.64'
 
 Sie können [Doritos Paprika - Paprika Tortilla Nachos - Herzhafter Snack zum Knabbern aus Mais - 9 x 125g](https://www.amazon.de/dp/B07S9N8Z3D/?tag=tolees0ca-21) mit Preis 8.57 EUR (original: 14.31 EUR) 40.11 % Rabatt hier:
 
-[![Doritos Paprika - Paprika Tortilla Nacho](https://m.media-amazon.com/images/I/51mJ3Ce948L._SL200_.jpg)](https://www.amazon.de/dp/B07S9N8Z3D/?tag=tolees0ca-21)
+[![Doritos Paprika - Paprika Tortilla Nacho](https://m.media-amazon.com/images/I/51mJ3Ce948L._SL400_.jpg)](https://www.amazon.de/dp/B07S9N8Z3D/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Fossil Watch FTW6031 mit 39.43 % Rabatt'
 date: 2020-05-07 09:48:21
-image: 'https://m.media-amazon.com/images/I/41GoD+BuC6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GoD+BuC6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '169.0'
 
 Sie können [Fossil Watch FTW6031](https://www.amazon.de/dp/B07QCDNXQL/?tag=tolees0ca-21) mit Preis 169.0 EUR (original: 279.0 EUR) 39.43 % Rabatt hier:
 
-[![Fossil Watch FTW6031](https://m.media-amazon.com/images/I/41GoD+BuC6L._SL200_.jpg)](https://www.amazon.de/dp/B07QCDNXQL/?tag=tolees0ca-21)
+[![Fossil Watch FTW6031](https://m.media-amazon.com/images/I/41GoD+BuC6L._SL400_.jpg)](https://www.amazon.de/dp/B07QCDNXQL/?tag=tolees0ca-21)
 
 ℹ️:
 

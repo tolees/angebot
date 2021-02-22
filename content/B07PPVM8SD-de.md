@@ -2,7 +2,7 @@
 layout: post
 title: '26.40 % rabat auf De Longhi EDG505.W | NESCAFÉ Dolce Gusto'
 date: 2020-03-03 21:15:16
-image: 'https://m.media-amazon.com/images/I/31V+oFlWZPL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31V+oFlWZPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '90.99'
 
 Es gibt ein [De Longhi EDG505.W | NESCAFÉ Dolce Gusto Esperta | Kapsel Kaffeemaschine | Individuelle Getränkeabstimmung | 15 bar Pumpendruck | 1 4l Wassertank | Farbe Weiß](https://www.amazon.de/dp/B07PPVM8SD/?tag=tolees0ca-21) mit aktuellem Preis 91.99 EUR (original: 124.99 EUR) 26.40 % Rabatt hier:
 
-[![De Longhi EDG505.W | NESCAFÉ Dolce Gusto](https://m.media-amazon.com/images/I/31V+oFlWZPL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07PPVM8SD/?tag=tolees0ca-21)
+[![De Longhi EDG505.W | NESCAFÉ Dolce Gusto](https://m.media-amazon.com/images/I/31V+oFlWZPL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07PPVM8SD/?tag=tolees0ca-21)
 
 ℹ️:
 

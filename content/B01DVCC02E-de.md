@@ -2,7 +2,7 @@
 layout: post
 title: '15.51 % rabat auf Bones - Season Ten [6 DVDs]'
 date: 2020-03-04 04:52:12
-image: 'https://m.media-amazon.com/images/I/51ROTxHI60L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ROTxHI60L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.97'
 
 Es gibt ein [Bones - Season Ten [6 DVDs]](https://www.amazon.de/dp/B01DVCC02E/?tag=tolees0ca-21) mit aktuellem Preis 9.97 EUR (original: 11.8 EUR) 15.51 % Rabatt hier:
 
-[![Bones - Season Ten [6 DVDs]](https://m.media-amazon.com/images/I/51ROTxHI60L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01DVCC02E/?tag=tolees0ca-21)
+[![Bones - Season Ten [6 DVDs]](https://m.media-amazon.com/images/I/51ROTxHI60L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01DVCC02E/?tag=tolees0ca-21)
 
 ℹ️:
 

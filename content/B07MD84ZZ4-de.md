@@ -2,7 +2,7 @@
 layout: post
 title: '23.70 % rabat auf Akkuschrauber  GOXAWEE 12V Akku Bohrschr'
 date: 2020-03-17 11:59:25
-image: 'https://m.media-amazon.com/images/I/51Z5NyulUML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Z5NyulUML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.98'
 
 Es gibt ein [Akkuschrauber  GOXAWEE 12V Akku Bohrschrauber mit 100 Zubehör  2 Akku  Drehmoment Max 30Nm  2-Gang  10mm Schnellspannbohrfutter  für Heimwerker und Bohrwände  Holz  Metall](https://www.amazon.de/dp/B07MD84ZZ4/?tag=tolees0ca-21) mit aktuellem Preis 57.98 EUR (original: 75.99 EUR) 23.70 % Rabatt hier:
 
-[![Akkuschrauber  GOXAWEE 12V Akku Bohrschr](https://m.media-amazon.com/images/I/51Z5NyulUML._SL200_.jpg)](https://www.amazon.de/dp/B07MD84ZZ4/?tag=tolees0ca-21)
+[![Akkuschrauber  GOXAWEE 12V Akku Bohrschr](https://m.media-amazon.com/images/I/51Z5NyulUML._SL400_.jpg)](https://www.amazon.de/dp/B07MD84ZZ4/?tag=tolees0ca-21)
 
 ℹ️:
 

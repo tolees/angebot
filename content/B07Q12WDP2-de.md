@@ -2,7 +2,7 @@
 layout: post
 title: '37.74 % rabat auf Marshall Stockwell II Tragbarer Lautspre'
 date: 2020-03-15 04:42:15
-image: 'https://m.media-amazon.com/images/I/51FXV1tooHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51FXV1tooHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.0'
 
 Es gibt ein [Marshall Stockwell II Tragbarer Lautsprecher - schwarz](https://www.amazon.de/dp/B07Q12WDP2/?tag=tolees0ca-21) mit aktuellem Preis 99.0 EUR (original: 159.0 EUR) 37.74 % Rabatt hier:
 
-[![Marshall Stockwell II Tragbarer Lautspre](https://m.media-amazon.com/images/I/51FXV1tooHL._SL200_.jpg)](https://www.amazon.de/dp/B07Q12WDP2/?tag=tolees0ca-21)
+[![Marshall Stockwell II Tragbarer Lautspre](https://m.media-amazon.com/images/I/51FXV1tooHL._SL400_.jpg)](https://www.amazon.de/dp/B07Q12WDP2/?tag=tolees0ca-21)
 
 ℹ️:
 

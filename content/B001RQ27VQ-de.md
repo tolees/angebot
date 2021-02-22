@@ -2,7 +2,7 @@
 layout: post
 title: 'Cramer Reparatur-Lackstift Email  Acryl  mit 31.79 % Rabatt'
 date: 2020-10-01 05:53:43
-image: 'https://m.media-amazon.com/images/I/41Ot7ecHFML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ot7ecHFML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.7'
 
 Sie können [Cramer Reparatur-Lackstift Email  Acryl  Keramik - Sanitärlack zum Ausbessern kleinerer Schäden an Badewannen  Duschwannen  Waschbecken und Fliesen  080 Weiß Alpin ](https://www.amazon.de/dp/B001RQ27VQ/?tag=tolees0ca-21) mit Preis 9.7 EUR (original: 14.22 EUR) 31.79 % Rabatt hier:
 
-[![Cramer Reparatur-Lackstift Email  Acryl ](https://m.media-amazon.com/images/I/41Ot7ecHFML._SL200_.jpg)](https://www.amazon.de/dp/B001RQ27VQ/?tag=tolees0ca-21)
+[![Cramer Reparatur-Lackstift Email  Acryl ](https://m.media-amazon.com/images/I/41Ot7ecHFML._SL400_.jpg)](https://www.amazon.de/dp/B001RQ27VQ/?tag=tolees0ca-21)
 
 ℹ️:
 

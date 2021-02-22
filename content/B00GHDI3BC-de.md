@@ -2,7 +2,7 @@
 layout: post
 title: 'Gardena Teleskop-Hochentaster TCS Li-18/ mit 29.39 % Rabatt'
 date: 2020-09-13 04:44:24
-image: 'https://m.media-amazon.com/images/I/21HrC8XWhML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21HrC8XWhML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '130.62'
 
 Sie können [Gardena Teleskop-Hochentaster TCS Li-18/20 Set: Astsäge für bis zu 30 min Arbeitszeit  bis zu 4 m Reichweite  20 cm Schwertlänge  abwinkelbarer Kopf  mit Akku  Ladegerät & Tragegurt  8866-20 ](https://www.amazon.de/dp/B00GHDI3BC/?tag=tolees0ca-21) mit Preis 130.62 EUR (original: 184.99 EUR) 29.39 % Rabatt hier:
 
-[![Gardena Teleskop-Hochentaster TCS Li-18/](https://m.media-amazon.com/images/I/21HrC8XWhML._SL200_.jpg)](https://www.amazon.de/dp/B00GHDI3BC/?tag=tolees0ca-21)
+[![Gardena Teleskop-Hochentaster TCS Li-18/](https://m.media-amazon.com/images/I/21HrC8XWhML._SL400_.jpg)](https://www.amazon.de/dp/B00GHDI3BC/?tag=tolees0ca-21)
 
 ℹ️:
 

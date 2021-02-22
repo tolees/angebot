@@ -2,7 +2,7 @@
 layout: post
 title: 'PLAYMOBIL City Life 9456 Chemieunterrich mit 28.31 % Rabatt'
 date: 2020-04-08 05:28:40
-image: 'https://m.media-amazon.com/images/I/51tQsD60iXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51tQsD60iXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.287857142857144'
 
 Sie können [PLAYMOBIL City Life 9456 Chemieunterricht  Ab 5 Jahren](https://www.amazon.de/dp/B079MSHJKS/?tag=tolees0ca-21) mit Preis 12.18 EUR (original: 16.99 EUR) 28.31 % Rabatt hier:
 
-[![PLAYMOBIL City Life 9456 Chemieunterrich](https://m.media-amazon.com/images/I/51tQsD60iXL._SL200_.jpg)](https://www.amazon.de/dp/B079MSHJKS/?tag=tolees0ca-21)
+[![PLAYMOBIL City Life 9456 Chemieunterrich](https://m.media-amazon.com/images/I/51tQsD60iXL._SL400_.jpg)](https://www.amazon.de/dp/B079MSHJKS/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch Heckenschere AHS 50-26  Messerabde mit 18.83 % Rabatt'
 date: 2020-05-14 23:45:15
-image: 'https://m.media-amazon.com/images/I/41kXk+PlCaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kXk+PlCaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '129.86'
 
 Sie können [Bosch Heckenschere AHS 50-26  Messerabdeckung  Karton  600 W  500 mm Schnittlänge  26 mm Messerabstand ](https://www.amazon.de/dp/B0073R1HFU/?tag=tolees0ca-21) mit Preis 129.86 EUR (original: 159.99 EUR) 18.83 % Rabatt hier:
 
-[![Bosch Heckenschere AHS 50-26  Messerabde](https://m.media-amazon.com/images/I/41kXk+PlCaL._SL200_.jpg)](https://www.amazon.de/dp/B0073R1HFU/?tag=tolees0ca-21)
+[![Bosch Heckenschere AHS 50-26  Messerabde](https://m.media-amazon.com/images/I/41kXk+PlCaL._SL400_.jpg)](https://www.amazon.de/dp/B0073R1HFU/?tag=tolees0ca-21)
 
 ℹ️:
 

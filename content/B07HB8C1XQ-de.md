@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko 33973 Vinyl: Games: Fallout S2: T- mit 24.21 % Rabatt'
 date: 2020-03-09 10:25:37
-image: 'https://m.media-amazon.com/images/I/51oreRQvOUL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51oreRQvOUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.443333333333333'
 
 Sie können [Funko 33973 Vinyl: Games: Fallout S2: T-51 Power Armor Pop Sammelbares Spielzeug  Mehrfarben  Einheitsgröße](https://www.amazon.de/dp/B07HB8C1XQ/?tag=tolees0ca-21) mit Preis 11.33 EUR (original: 14.95 EUR) 24.21 % Rabatt hier:
 
-[![Funko 33973 Vinyl: Games: Fallout S2: T-](https://m.media-amazon.com/images/I/51oreRQvOUL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07HB8C1XQ/?tag=tolees0ca-21)
+[![Funko 33973 Vinyl: Games: Fallout S2: T-](https://m.media-amazon.com/images/I/51oreRQvOUL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07HB8C1XQ/?tag=tolees0ca-21)
 
 ℹ️:
 

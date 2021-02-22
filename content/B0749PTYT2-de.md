@@ -2,7 +2,7 @@
 layout: post
 title: '48.41 % rabat auf AmazonBasics - Terassenstuhl  5-Stufen v'
 date: 2020-01-11 16:41:41
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51hPJ6NL8sL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hPJ6NL8sL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65'
 
 Es gibt ein [AmazonBasics - Terassenstuhl  5-Stufen verstellbar  Doppelpack](https://www.amazon.de/dp/B0749PTYT2/?tag=tolees0ca-21) mit aktuellem Preis 65 EUR (original: 125.99 EUR) 48.41 % Rabatt hier:
 
-[![AmazonBasics - Terassenstuhl  5-Stufen v](https://images-eu.ssl-images-amazon.com/images/I/51hPJ6NL8sL._SL200_.jpg)](https://www.amazon.de/dp/B0749PTYT2/?tag=tolees0ca-21)
+[![AmazonBasics - Terassenstuhl  5-Stufen v](https://images-eu.ssl-images-amazon.com/images/I/51hPJ6NL8sL._SL400_.jpg)](https://www.amazon.de/dp/B0749PTYT2/?tag=tolees0ca-21)
 
 ℹ️:
 

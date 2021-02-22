@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko 34053 Kingdom Hearts 3: Riku POP V mit 45.18 % Rabatt'
 date: 2020-03-08 18:31:51
-image: 'https://m.media-amazon.com/images/I/41l2pxECdtL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41l2pxECdtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.691666666666668'
 
 Sie können [Funko 34053 Kingdom Hearts 3: Riku POP Vinylfigur  Multi](https://www.amazon.de/dp/B07DFDTKCP/?tag=tolees0ca-21) mit Preis 7.17 EUR (original: 13.08 EUR) 45.18 % Rabatt hier:
 
-[![Funko 34053 Kingdom Hearts 3: Riku POP V](https://m.media-amazon.com/images/I/41l2pxECdtL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07DFDTKCP/?tag=tolees0ca-21)
+[![Funko 34053 Kingdom Hearts 3: Riku POP V](https://m.media-amazon.com/images/I/41l2pxECdtL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07DFDTKCP/?tag=tolees0ca-21)
 
 ℹ️:
 

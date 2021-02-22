@@ -2,7 +2,7 @@
 layout: post
 title: 'HyperX Impact DDR4 HX426S15IB2K2/32 Arbe mit 47.34 % Rabatt'
 date: 2020-08-10 15:55:09
-image: 'https://m.media-amazon.com/images/I/519ZK9ilurL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/519ZK9ilurL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '106.9'
 
 Sie können [HyperX Impact DDR4 HX426S15IB2K2/32 Arbeitsspeicher 2666MHz CL15 SODIMM 32GB Kit  2x16GB ](https://www.amazon.de/dp/B01NAL3TYY/?tag=tolees0ca-21) mit Preis 106.9 EUR (original: 202.99 EUR) 47.34 % Rabatt hier:
 
-[![HyperX Impact DDR4 HX426S15IB2K2/32 Arbe](https://m.media-amazon.com/images/I/519ZK9ilurL._SL200_.jpg)](https://www.amazon.de/dp/B01NAL3TYY/?tag=tolees0ca-21)
+[![HyperX Impact DDR4 HX426S15IB2K2/32 Arbe](https://m.media-amazon.com/images/I/519ZK9ilurL._SL400_.jpg)](https://www.amazon.de/dp/B01NAL3TYY/?tag=tolees0ca-21)
 
 ℹ️:
 

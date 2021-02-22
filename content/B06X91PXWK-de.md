@@ -2,7 +2,7 @@
 layout: post
 title: 'Hasbro Star Wars C1252EU4 - Episode 8 Fo mit 44.45 % Rabatt'
 date: 2020-04-18 00:02:47
-image: 'https://m.media-amazon.com/images/I/61QmTABBcfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61QmTABBcfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.10875'
 
 Sie können [Hasbro Star Wars C1252EU4 - Episode 8 Forcelink Tie Silencer mit 3.75 Zoll Kylo Ren Figur  Actionfigur](https://www.amazon.de/dp/B06X91PXWK/?tag=tolees0ca-21) mit Preis 49.43 EUR (original: 88.99 EUR) 44.45 % Rabatt hier:
 
-[![Hasbro Star Wars C1252EU4 - Episode 8 Fo](https://m.media-amazon.com/images/I/61QmTABBcfL._SL200_.jpg)](https://www.amazon.de/dp/B06X91PXWK/?tag=tolees0ca-21)
+[![Hasbro Star Wars C1252EU4 - Episode 8 Fo](https://m.media-amazon.com/images/I/61QmTABBcfL._SL400_.jpg)](https://www.amazon.de/dp/B06X91PXWK/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '45.00 % rabat auf BRIKSMAX Led Beleuchtungsset für Lego Te'
 date: 2020-04-18 00:54:13
-image: 'https://m.media-amazon.com/images/I/51oeqBli15L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51oeqBli15L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.99'
 
 Es gibt ein [BRIKSMAX Led Beleuchtungsset für Lego Technic Land Rover Defender Kompatibel Mit Lego 42110 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B081RJTX8G/?tag=tolees0ca-21) mit aktuellem Preis 54.99 EUR (original: 99.99 EUR) 45.00 % Rabatt hier:
 
-[![BRIKSMAX Led Beleuchtungsset für Lego Te](https://m.media-amazon.com/images/I/51oeqBli15L._SL200_.jpg)](https://www.amazon.de/dp/B081RJTX8G/?tag=tolees0ca-21)
+[![BRIKSMAX Led Beleuchtungsset für Lego Te](https://m.media-amazon.com/images/I/51oeqBli15L._SL400_.jpg)](https://www.amazon.de/dp/B081RJTX8G/?tag=tolees0ca-21)
 
 ℹ️:
 

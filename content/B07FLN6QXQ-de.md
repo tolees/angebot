@@ -2,7 +2,7 @@
 layout: post
 title: '50.01 % rabat auf Levi s Damen Original Sherpa Trucker Jac'
 date: 2020-02-11 08:32:35
-image: 'https://m.media-amazon.com/images/I/41C7lAIV6sL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41C7lAIV6sL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '76.945'
 
 Es gibt ein [Levi s Damen Original Sherpa Trucker Jacke  Schwarz  Forever Black 0012   Large  Herstellergröße: L ](https://www.amazon.de/dp/B07FLN6QXQ/?tag=tolees0ca-21) mit aktuellem Preis 64.99 EUR (original: 130.0 EUR) 50.01 % Rabatt hier:
 
-[![Levi s Damen Original Sherpa Trucker Jac](https://m.media-amazon.com/images/I/41C7lAIV6sL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07FLN6QXQ/?tag=tolees0ca-21)
+[![Levi s Damen Original Sherpa Trucker Jac](https://m.media-amazon.com/images/I/41C7lAIV6sL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07FLN6QXQ/?tag=tolees0ca-21)
 
 ℹ️:
 

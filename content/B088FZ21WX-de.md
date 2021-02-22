@@ -2,7 +2,7 @@
 layout: post
 title: 'elloLife Gummiband Rund 【5mm 50M】 Gummik mit 40.02 % Rabatt'
 date: 2020-06-03 22:38:15
-image: 'https://m.media-amazon.com/images/I/410tqg0fFDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410tqg0fFDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Sie können [elloLife Gummiband Rund 【5mm 50M】 Gummikordel Nähen Weiss Gummilitze Hochwertige Rundgummi Elastische Schnur für DIY Nähen und Handwerk](https://www.amazon.de/dp/B088FZ21WX/?tag=tolees0ca-21) mit Preis 11.99 EUR (original: 19.99 EUR) 40.02 % Rabatt hier:
 
-[![elloLife Gummiband Rund 【5mm 50M】 Gummik](https://m.media-amazon.com/images/I/410tqg0fFDL._SL200_.jpg)](https://www.amazon.de/dp/B088FZ21WX/?tag=tolees0ca-21)
+[![elloLife Gummiband Rund 【5mm 50M】 Gummik](https://m.media-amazon.com/images/I/410tqg0fFDL._SL400_.jpg)](https://www.amazon.de/dp/B088FZ21WX/?tag=tolees0ca-21)
 
 ℹ️:
 

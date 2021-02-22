@@ -2,7 +2,7 @@
 layout: post
 title: 'Linksys Max-Stream AC1900 MU-MIMO Dual-B mit 44.44 % Rabatt'
 date: 2020-04-25 07:02:40
-image: 'https://m.media-amazon.com/images/I/41hE9vYI1qL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hE9vYI1qL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '100.0'
 
 Sie können [Linksys Max-Stream AC1900 MU-MIMO Dual-Band Wi-Fi Router für Zuhause  Schneller WLAN-Router  4K UHD- Streaming und Gaming  4 Gigabit-Ethernet-Anschlüsse ](https://www.amazon.de/dp/B01AJOMDSI/?tag=tolees0ca-21) mit Preis 100.0 EUR (original: 179.99 EUR) 44.44 % Rabatt hier:
 
-[![Linksys Max-Stream AC1900 MU-MIMO Dual-B](https://m.media-amazon.com/images/I/41hE9vYI1qL._SL200_.jpg)](https://www.amazon.de/dp/B01AJOMDSI/?tag=tolees0ca-21)
+[![Linksys Max-Stream AC1900 MU-MIMO Dual-B](https://m.media-amazon.com/images/I/41hE9vYI1qL._SL400_.jpg)](https://www.amazon.de/dp/B01AJOMDSI/?tag=tolees0ca-21)
 
 ℹ️:
 

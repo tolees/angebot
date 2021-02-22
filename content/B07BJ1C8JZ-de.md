@@ -2,7 +2,7 @@
 layout: post
 title: '35.20 % rabat auf Dickie Toys 203833004 - Playlife Fishing'
 date: 2020-04-11 08:09:54
-image: 'https://m.media-amazon.com/images/I/41sUoAYXqLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sUoAYXqLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.77'
 
 Es gibt ein [Dickie Toys 203833004 - Playlife Fishing Boat  Schlauchboot inkl. Figur  20 cm](https://www.amazon.de/dp/B07BJ1C8JZ/?tag=tolees0ca-21) mit aktuellem Preis 7.77 EUR (original: 11.99 EUR) 35.20 % Rabatt hier:
 
-[![Dickie Toys 203833004 - Playlife Fishing](https://m.media-amazon.com/images/I/41sUoAYXqLL._SL200_.jpg)](https://www.amazon.de/dp/B07BJ1C8JZ/?tag=tolees0ca-21)
+[![Dickie Toys 203833004 - Playlife Fishing](https://m.media-amazon.com/images/I/41sUoAYXqLL._SL400_.jpg)](https://www.amazon.de/dp/B07BJ1C8JZ/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'I  Tonya mit 18.94 % Rabatt'
 date: 2020-02-04 05:24:40
-image: 'https://m.media-amazon.com/images/I/51QJyLV3NqL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QJyLV3NqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.99'
 
 Sie können [I  Tonya](https://www.amazon.de/dp/B079PDJS9Z/?tag=tolees0ca-21) mit Preis 5.99 EUR (original: 7.39 EUR) 18.94 % Rabatt hier:
 
-[![I  Tonya](https://m.media-amazon.com/images/I/51QJyLV3NqL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B079PDJS9Z/?tag=tolees0ca-21)
+[![I  Tonya](https://m.media-amazon.com/images/I/51QJyLV3NqL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B079PDJS9Z/?tag=tolees0ca-21)
 
 ℹ️:
 

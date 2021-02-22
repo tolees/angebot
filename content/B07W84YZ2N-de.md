@@ -2,7 +2,7 @@
 layout: post
 title: '67.90 % rabat auf s.Oliver BLACK LABEL Damen Steppmantel m'
 date: 2020-04-09 08:19:03
-image: 'https://m.media-amazon.com/images/I/41zoWew2O3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zoWew2O3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '60.99'
 
 Es gibt ein [s.Oliver BLACK LABEL Damen Steppmantel mit Kunstfell-Blende Black 36](https://www.amazon.de/dp/B07W84YZ2N/?tag=tolees0ca-21) mit aktuellem Preis 60.99 EUR (original: 189.99 EUR) 67.90 % Rabatt hier:
 
-[![s.Oliver BLACK LABEL Damen Steppmantel m](https://m.media-amazon.com/images/I/41zoWew2O3L._SL200_.jpg)](https://www.amazon.de/dp/B07W84YZ2N/?tag=tolees0ca-21)
+[![s.Oliver BLACK LABEL Damen Steppmantel m](https://m.media-amazon.com/images/I/41zoWew2O3L._SL400_.jpg)](https://www.amazon.de/dp/B07W84YZ2N/?tag=tolees0ca-21)
 
 ℹ️:
 

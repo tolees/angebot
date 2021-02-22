@@ -2,7 +2,7 @@
 layout: post
 title: '28.04 % rabat auf NIKE Damen Sport-BH Victory Compression '
 date: 2020-02-03 10:53:28
-image: 'https://m.media-amazon.com/images/I/41jDLfyhbiL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jDLfyhbiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 Es gibt ein [NIKE Damen Sport-BH Victory Compression  Schwarz  Black/White _010  M](https://www.amazon.de/dp/B0036DYURW/?tag=tolees0ca-21) mit aktuellem Preis 17.99 EUR (original: 25.0 EUR) 28.04 % Rabatt hier:
 
-[![NIKE Damen Sport-BH Victory Compression ](https://m.media-amazon.com/images/I/41jDLfyhbiL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B0036DYURW/?tag=tolees0ca-21)
+[![NIKE Damen Sport-BH Victory Compression ](https://m.media-amazon.com/images/I/41jDLfyhbiL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B0036DYURW/?tag=tolees0ca-21)
 
 ℹ️:
 

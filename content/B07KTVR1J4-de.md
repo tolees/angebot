@@ -2,7 +2,7 @@
 layout: post
 title: '26.01 % rabat auf LEGO DC Batman Clayface 76122 - Invasion'
 date: 2020-09-01 13:10:03
-image: 'https://m.media-amazon.com/images/I/51Pndz8JXRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Pndz8JXRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '71.0558620689655'
 
 Es gibt ein [LEGO DC Batman Clayface 76122 - Invasion in die Bathöhle  Bauset](https://www.amazon.de/dp/B07KTVR1J4/?tag=tolees0ca-21) mit aktuellem Preis 72.12 EUR (original: 97.47 EUR) 26.01 % Rabatt hier:
 
-[![LEGO DC Batman Clayface 76122 - Invasion](https://m.media-amazon.com/images/I/51Pndz8JXRL._SL200_.jpg)](https://www.amazon.de/dp/B07KTVR1J4/?tag=tolees0ca-21)
+[![LEGO DC Batman Clayface 76122 - Invasion](https://m.media-amazon.com/images/I/51Pndz8JXRL._SL400_.jpg)](https://www.amazon.de/dp/B07KTVR1J4/?tag=tolees0ca-21)
 
 ℹ️:
 

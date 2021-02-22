@@ -2,7 +2,7 @@
 layout: post
 title: '63.59 % rabat auf OSRAM Smart+ Mini Switch Weiß  ZigBee Li'
 date: 2020-03-16 04:52:54
-image: 'https://m.media-amazon.com/images/I/31iPOFV7cmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31iPOFV7cmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.1'
 
 Es gibt ein [OSRAM Smart+ Mini Switch Weiß  ZigBee Lichtschalter  Dimmer und Fernbedienung für LED Lampen  Erweiterung für Ihr Smart Home](https://www.amazon.de/dp/B074PYT9R4/?tag=tolees0ca-21) mit aktuellem Preis 9.1 EUR (original: 24.99 EUR) 63.59 % Rabatt hier:
 
-[![OSRAM Smart+ Mini Switch Weiß  ZigBee Li](https://m.media-amazon.com/images/I/31iPOFV7cmL._SL200_.jpg)](https://www.amazon.de/dp/B074PYT9R4/?tag=tolees0ca-21)
+[![OSRAM Smart+ Mini Switch Weiß  ZigBee Li](https://m.media-amazon.com/images/I/31iPOFV7cmL._SL400_.jpg)](https://www.amazon.de/dp/B074PYT9R4/?tag=tolees0ca-21)
 
 ℹ️:
 

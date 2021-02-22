@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO Duplo 10869 - Ausflug auf den Bauer mit 26.67 % Rabatt'
 date: 2020-01-29 13:34:14
-image: 'https://m.media-amazon.com/images/I/61QKB6us4VL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61QKB6us4VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.99'
 
 Sie können [LEGO Duplo 10869 - Ausflug auf den Bauernhof  Lernspielzeug für Kinder](https://www.amazon.de/dp/B075GLZFTZ/?tag=tolees0ca-21) mit Preis 43.99 EUR (original: 59.99 EUR) 26.67 % Rabatt hier:
 
-[![LEGO Duplo 10869 - Ausflug auf den Bauer](https://m.media-amazon.com/images/I/61QKB6us4VL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B075GLZFTZ/?tag=tolees0ca-21)
+[![LEGO Duplo 10869 - Ausflug auf den Bauer](https://m.media-amazon.com/images/I/61QKB6us4VL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B075GLZFTZ/?tag=tolees0ca-21)
 
 ℹ️:
 

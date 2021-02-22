@@ -2,7 +2,7 @@
 layout: post
 title: 'Pokemon Tekken Tournament DX Pro Control mit 51.63 % Rabatt'
 date: 2020-04-21 09:41:06
-image: 'https://m.media-amazon.com/images/I/41vpJChtN2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vpJChtN2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.47'
 
 Sie können [Pokemon Tekken Tournament DX Pro Controller [Nintendo Switch]](https://www.amazon.de/dp/B07611WDMG/?tag=tolees0ca-21) mit Preis 14.99 EUR (original: 30.99 EUR) 51.63 % Rabatt hier:
 
-[![Pokemon Tekken Tournament DX Pro Control](https://m.media-amazon.com/images/I/41vpJChtN2L._SL200_.jpg)](https://www.amazon.de/dp/B07611WDMG/?tag=tolees0ca-21)
+[![Pokemon Tekken Tournament DX Pro Control](https://m.media-amazon.com/images/I/41vpJChtN2L._SL400_.jpg)](https://www.amazon.de/dp/B07611WDMG/?tag=tolees0ca-21)
 
 ℹ️:
 

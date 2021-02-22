@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Damen TH Essential Regula mit 51.59 % Rabatt'
 date: 2020-04-22 07:10:01
-image: 'https://m.media-amazon.com/images/I/414ThxrX54L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414ThxrX54L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.0'
 
 Sie können [Tommy Hilfiger Damen TH Essential Regular Polo SS Poloshirt  Grau  Light Grey Htr 039   Large  Herstellergröße: L ](https://www.amazon.de/dp/B07LBKN963/?tag=tolees0ca-21) mit Preis 29.0 EUR (original: 59.9 EUR) 51.59 % Rabatt hier:
 
-[![Tommy Hilfiger Damen TH Essential Regula](https://m.media-amazon.com/images/I/414ThxrX54L._SL200_.jpg)](https://www.amazon.de/dp/B07LBKN963/?tag=tolees0ca-21)
+[![Tommy Hilfiger Damen TH Essential Regula](https://m.media-amazon.com/images/I/414ThxrX54L._SL400_.jpg)](https://www.amazon.de/dp/B07LBKN963/?tag=tolees0ca-21)
 
 ℹ️:
 

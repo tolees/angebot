@@ -2,7 +2,7 @@
 layout: post
 title: '41.63 % rabat auf Playmobil 6193 - Eisbearbeitungsmaschine'
 date: 2020-02-20 19:59:55
-image: 'https://m.media-amazon.com/images/I/61LvCYMG3ML._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61LvCYMG3ML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.655'
 
 Es gibt ein [Playmobil 6193 - Eisbearbeitungsmaschine](https://www.amazon.de/dp/B00VLVKEZI/?tag=tolees0ca-21) mit aktuellem Preis 6.38 EUR (original: 10.93 EUR) 41.63 % Rabatt hier:
 
-[![Playmobil 6193 - Eisbearbeitungsmaschine](https://m.media-amazon.com/images/I/61LvCYMG3ML._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00VLVKEZI/?tag=tolees0ca-21)
+[![Playmobil 6193 - Eisbearbeitungsmaschine](https://m.media-amazon.com/images/I/61LvCYMG3ML._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00VLVKEZI/?tag=tolees0ca-21)
 
 ℹ️:
 

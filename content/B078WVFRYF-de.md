@@ -2,7 +2,7 @@
 layout: post
 title: '25.00 % rabat auf Einhell Rasenwalze GC-GR 57  57cm Breite'
 date: 2020-03-15 04:43:36
-image: 'https://m.media-amazon.com/images/I/41SH567sjsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SH567sjsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.75'
 
 Es gibt ein [Einhell Rasenwalze GC-GR 57  57cm Breite  32cm Durchmesser  seitliche Füllmöglichkeit  Wasser und Sand  mit Verschluss  beidseitig einstellbarer Schmutzabstreifer ](https://www.amazon.de/dp/B078WVFRYF/?tag=tolees0ca-21) mit aktuellem Preis 42.75 EUR (original: 57.0 EUR) 25.00 % Rabatt hier:
 
-[![Einhell Rasenwalze GC-GR 57  57cm Breite](https://m.media-amazon.com/images/I/41SH567sjsL._SL200_.jpg)](https://www.amazon.de/dp/B078WVFRYF/?tag=tolees0ca-21)
+[![Einhell Rasenwalze GC-GR 57  57cm Breite](https://m.media-amazon.com/images/I/41SH567sjsL._SL400_.jpg)](https://www.amazon.de/dp/B078WVFRYF/?tag=tolees0ca-21)
 
 ℹ️:
 

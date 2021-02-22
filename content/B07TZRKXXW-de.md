@@ -2,7 +2,7 @@
 layout: post
 title: 'BRIKSMAX Led Beleuchtungsset für Lego St mit 23.92 % Rabatt'
 date: 2020-04-14 16:24:29
-image: 'https://m.media-amazon.com/images/I/41Sg9lHvdML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Sg9lHvdML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.669999999999995'
 
 Sie können [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Kylo Ren s Command Shuttle  Kompatibel Mit Lego 75104 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B07TZRKXXW/?tag=tolees0ca-21) mit Preis 34.99 EUR (original: 45.99 EUR) 23.92 % Rabatt hier:
 
-[![BRIKSMAX Led Beleuchtungsset für Lego St](https://m.media-amazon.com/images/I/41Sg9lHvdML._SL200_.jpg)](https://www.amazon.de/dp/B07TZRKXXW/?tag=tolees0ca-21)
+[![BRIKSMAX Led Beleuchtungsset für Lego St](https://m.media-amazon.com/images/I/41Sg9lHvdML._SL400_.jpg)](https://www.amazon.de/dp/B07TZRKXXW/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO 41373 - Friends Lustiges Oktopus-Ka mit 32.51 % Rabatt'
 date: 2020-06-11 10:34:39
-image: 'https://m.media-amazon.com/images/I/51UnUv3ID3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51UnUv3ID3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.39962962962964'
 
 Sie können [LEGO 41373 - Friends Lustiges Oktopus-Karussell  Bauset](https://www.amazon.de/dp/B07KTK9FJ9/?tag=tolees0ca-21) mit Preis 26.99 EUR (original: 39.99 EUR) 32.51 % Rabatt hier:
 
-[![LEGO 41373 - Friends Lustiges Oktopus-Ka](https://m.media-amazon.com/images/I/51UnUv3ID3L._SL200_.jpg)](https://www.amazon.de/dp/B07KTK9FJ9/?tag=tolees0ca-21)
+[![LEGO 41373 - Friends Lustiges Oktopus-Ka](https://m.media-amazon.com/images/I/51UnUv3ID3L._SL400_.jpg)](https://www.amazon.de/dp/B07KTK9FJ9/?tag=tolees0ca-21)
 
 ℹ️:
 

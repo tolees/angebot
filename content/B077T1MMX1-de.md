@@ -2,7 +2,7 @@
 layout: post
 title: 'Navitech lila Harter Fall für die Transc mit 30.79 % Rabatt'
 date: 2020-04-13 08:04:30
-image: 'https://m.media-amazon.com/images/I/518f40H6bpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518f40H6bpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Sie können [Navitech lila Harter Fall für die Transcend 16 GB DrivePro 200 Car Video Recorder with Built-In Wi-Fi](https://www.amazon.de/dp/B077T1MMX1/?tag=tolees0ca-21) mit Preis 8.99 EUR (original: 12.99 EUR) 30.79 % Rabatt hier:
 
-[![Navitech lila Harter Fall für die Transc](https://m.media-amazon.com/images/I/518f40H6bpL._SL200_.jpg)](https://www.amazon.de/dp/B077T1MMX1/?tag=tolees0ca-21)
+[![Navitech lila Harter Fall für die Transc](https://m.media-amazon.com/images/I/518f40H6bpL._SL400_.jpg)](https://www.amazon.de/dp/B077T1MMX1/?tag=tolees0ca-21)
 
 ℹ️:
 

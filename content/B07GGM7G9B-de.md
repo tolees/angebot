@@ -2,7 +2,7 @@
 layout: post
 title: 'ghd Platinum+ Styler  weiß mit 30.60 % Rabatt'
 date: 2020-01-20 16:30:53
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31sAYlKsDOL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31sAYlKsDOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '183.9'
 
 Sie können [ghd Platinum+ Styler  weiß](https://www.amazon.de/dp/B07GGM7G9B/?tag=tolees0ca-21) mit Preis 183.9 EUR (original: 265 EUR) 30.60 % Rabatt hier:
 
-[![ghd Platinum+ Styler  weiß](https://images-eu.ssl-images-amazon.com/images/I/31sAYlKsDOL._SL200_.jpg)](https://www.amazon.de/dp/B07GGM7G9B/?tag=tolees0ca-21)
+[![ghd Platinum+ Styler  weiß](https://images-eu.ssl-images-amazon.com/images/I/31sAYlKsDOL._SL400_.jpg)](https://www.amazon.de/dp/B07GGM7G9B/?tag=tolees0ca-21)
 
 ℹ️:
 

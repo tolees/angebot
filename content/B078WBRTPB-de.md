@@ -2,7 +2,7 @@
 layout: post
 title: '35.43 % rabat auf iiyama ProLite XB2779QQS-S1 68 3cm  27 Z'
 date: 2020-03-28 20:03:54
-image: 'https://m.media-amazon.com/images/I/41Zubu00xrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Zubu00xrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '297.0'
 
 Es gibt ein [iiyama ProLite XB2779QQS-S1 68 3cm  27 Zoll  IPS LED-Monitor 5K  3xHDMI  2xDisplayPort  Höhenverstellung  silber](https://www.amazon.de/dp/B078WBRTPB/?tag=tolees0ca-21) mit aktuellem Preis 297.0 EUR (original: 460.0 EUR) 35.43 % Rabatt hier:
 
-[![iiyama ProLite XB2779QQS-S1 68 3cm  27 Z](https://m.media-amazon.com/images/I/41Zubu00xrL._SL200_.jpg)](https://www.amazon.de/dp/B078WBRTPB/?tag=tolees0ca-21)
+[![iiyama ProLite XB2779QQS-S1 68 3cm  27 Z](https://m.media-amazon.com/images/I/41Zubu00xrL._SL400_.jpg)](https://www.amazon.de/dp/B078WBRTPB/?tag=tolees0ca-21)
 
 ℹ️:
 

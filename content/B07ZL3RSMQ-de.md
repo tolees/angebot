@@ -2,7 +2,7 @@
 layout: post
 title: 'Mammut Herren Hardshell-jacke Mit Kapuze mit 55.41 % Rabatt'
 date: 2020-10-03 11:04:27
-image: 'https://m.media-amazon.com/images/I/31WBQTPz+IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31WBQTPz+IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '89.18'
 
 Sie können [Mammut Herren Hardshell-jacke Mit Kapuze Trovat  blau  S](https://www.amazon.de/dp/B07ZL3RSMQ/?tag=tolees0ca-21) mit Preis 89.18 EUR (original: 200.0 EUR) 55.41 % Rabatt hier:
 
-[![Mammut Herren Hardshell-jacke Mit Kapuze](https://m.media-amazon.com/images/I/31WBQTPz+IL._SL200_.jpg)](https://www.amazon.de/dp/B07ZL3RSMQ/?tag=tolees0ca-21)
+[![Mammut Herren Hardshell-jacke Mit Kapuze](https://m.media-amazon.com/images/I/31WBQTPz+IL._SL400_.jpg)](https://www.amazon.de/dp/B07ZL3RSMQ/?tag=tolees0ca-21)
 
 ℹ️:
 

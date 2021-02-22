@@ -2,7 +2,7 @@
 layout: post
 title: '20.26 % rabat auf Unheimliche Begegnung der Dritten Art [B'
 date: 2020-03-11 04:57:16
-image: 'https://m.media-amazon.com/images/I/516bYhATD1L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516bYhATD1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.55'
 
 Es gibt ein [Unheimliche Begegnung der Dritten Art [Blu-ray]](https://www.amazon.de/dp/B013HFR2JG/?tag=tolees0ca-21) mit aktuellem Preis 5.55 EUR (original: 6.96 EUR) 20.26 % Rabatt hier:
 
-[![Unheimliche Begegnung der Dritten Art [B](https://m.media-amazon.com/images/I/516bYhATD1L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B013HFR2JG/?tag=tolees0ca-21)
+[![Unheimliche Begegnung der Dritten Art [B](https://m.media-amazon.com/images/I/516bYhATD1L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B013HFR2JG/?tag=tolees0ca-21)
 
 ℹ️:
 

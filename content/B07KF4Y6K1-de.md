@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Damen 310 Shaping Super Skinny Je mit 37.81 % Rabatt'
 date: 2020-01-20 07:24:47
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41zrnm-nCtL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zrnm-nCtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.08'
 
 Sie können [Levi s Damen 310 Shaping Super Skinny Jeans  Blau  Westbound 0036   29W/30L](https://www.amazon.de/dp/B07KF4Y6K1/?tag=tolees0ca-21) mit Preis 59.08 EUR (original: 95 EUR) 37.81 % Rabatt hier:
 
-[![Levi s Damen 310 Shaping Super Skinny Je](https://images-eu.ssl-images-amazon.com/images/I/41zrnm-nCtL._SL200_.jpg)](https://www.amazon.de/dp/B07KF4Y6K1/?tag=tolees0ca-21)
+[![Levi s Damen 310 Shaping Super Skinny Je](https://images-eu.ssl-images-amazon.com/images/I/41zrnm-nCtL._SL400_.jpg)](https://www.amazon.de/dp/B07KF4Y6K1/?tag=tolees0ca-21)
 
 ℹ️:
 

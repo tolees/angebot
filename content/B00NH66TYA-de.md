@@ -2,7 +2,7 @@
 layout: post
 title: '50.96 % rabat auf Gypsy Heart'
 date: 2020-09-24 09:49:58
-image: 'https://m.media-amazon.com/images/I/51RIbAxOVJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RIbAxOVJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.39'
 
 Es gibt ein [Gypsy Heart](https://www.amazon.de/dp/B00NH66TYA/?tag=tolees0ca-21) mit aktuellem Preis 5.39 EUR (original: 10.99 EUR) 50.96 % Rabatt hier:
 
-[![Gypsy Heart](https://m.media-amazon.com/images/I/51RIbAxOVJL._SL200_.jpg)](https://www.amazon.de/dp/B00NH66TYA/?tag=tolees0ca-21)
+[![Gypsy Heart](https://m.media-amazon.com/images/I/51RIbAxOVJL._SL400_.jpg)](https://www.amazon.de/dp/B00NH66TYA/?tag=tolees0ca-21)
 
 ℹ️:
 

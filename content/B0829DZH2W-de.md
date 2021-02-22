@@ -2,7 +2,7 @@
 layout: post
 title: '23.37 % rabat auf Sabrent Rocket Q 2TB NVMe PCIe M.2 2280 '
 date: 2020-10-12 05:54:16
-image: 'https://m.media-amazon.com/images/I/41QD7-KX5oL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QD7-KX5oL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '229.89'
 
 Es gibt ein [Sabrent Rocket Q 2TB NVMe PCIe M.2 2280 Interne Hochleistungs-Solid-State SSD  SB-RKTQ-2TB ](https://www.amazon.de/dp/B0829DZH2W/?tag=tolees0ca-21) mit aktuellem Preis 229.89 EUR (original: 299.99 EUR) 23.37 % Rabatt hier:
 
-[![Sabrent Rocket Q 2TB NVMe PCIe M.2 2280 ](https://m.media-amazon.com/images/I/41QD7-KX5oL._SL200_.jpg)](https://www.amazon.de/dp/B0829DZH2W/?tag=tolees0ca-21)
+[![Sabrent Rocket Q 2TB NVMe PCIe M.2 2280 ](https://m.media-amazon.com/images/I/41QD7-KX5oL._SL400_.jpg)](https://www.amazon.de/dp/B0829DZH2W/?tag=tolees0ca-21)
 
 ℹ️:
 

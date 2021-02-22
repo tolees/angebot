@@ -2,7 +2,7 @@
 layout: post
 title: '25.08 % rabat auf Cars 1 + Cars 2 + Cars 3 [Blu-ray]'
 date: 2020-08-20 21:17:58
-image: 'https://m.media-amazon.com/images/I/51Qyo5gLE7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Qyo5gLE7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.112499999999997'
 
 Es gibt ein [Cars 1 + Cars 2 + Cars 3 [Blu-ray]](https://www.amazon.de/dp/B077ZCVZ72/?tag=tolees0ca-21) mit aktuellem Preis 20.97 EUR (original: 27.99 EUR) 25.08 % Rabatt hier:
 
-[![Cars 1 + Cars 2 + Cars 3 [Blu-ray]](https://m.media-amazon.com/images/I/51Qyo5gLE7L._SL200_.jpg)](https://www.amazon.de/dp/B077ZCVZ72/?tag=tolees0ca-21)
+[![Cars 1 + Cars 2 + Cars 3 [Blu-ray]](https://m.media-amazon.com/images/I/51Qyo5gLE7L._SL400_.jpg)](https://www.amazon.de/dp/B077ZCVZ72/?tag=tolees0ca-21)
 
 ℹ️:
 

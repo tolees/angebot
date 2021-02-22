@@ -2,7 +2,7 @@
 layout: post
 title: '46.58 % rabat auf PNY Quadro RTX 4000 8 GB GDDR6'
 date: 2020-02-17 13:41:56
-image: 'https://m.media-amazon.com/images/I/51aoy5Hi-UL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51aoy5Hi-UL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '750.485'
 
 Es gibt ein [PNY Quadro RTX 4000 8 GB GDDR6](https://www.amazon.de/dp/B07L5D2VY6/?tag=tolees0ca-21) mit aktuellem Preis 500.0 EUR (original: 935.99 EUR) 46.58 % Rabatt hier:
 
-[![PNY Quadro RTX 4000 8 GB GDDR6](https://m.media-amazon.com/images/I/51aoy5Hi-UL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07L5D2VY6/?tag=tolees0ca-21)
+[![PNY Quadro RTX 4000 8 GB GDDR6](https://m.media-amazon.com/images/I/51aoy5Hi-UL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07L5D2VY6/?tag=tolees0ca-21)
 
 ℹ️:
 

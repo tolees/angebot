@@ -2,7 +2,7 @@
 layout: post
 title: 'Das fünfte Element [Blu-ray] mit 33.37 % Rabatt'
 date: 2020-02-02 09:42:22
-image: 'https://m.media-amazon.com/images/I/51oOQeMhvBL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51oOQeMhvBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.99'
 
 Sie können [Das fünfte Element [Blu-ray]](https://www.amazon.de/dp/B075GJLFTY/?tag=tolees0ca-21) mit Preis 5.99 EUR (original: 8.99 EUR) 33.37 % Rabatt hier:
 
-[![Das fünfte Element [Blu-ray]](https://m.media-amazon.com/images/I/51oOQeMhvBL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B075GJLFTY/?tag=tolees0ca-21)
+[![Das fünfte Element [Blu-ray]](https://m.media-amazon.com/images/I/51oOQeMhvBL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B075GJLFTY/?tag=tolees0ca-21)
 
 ℹ️:
 

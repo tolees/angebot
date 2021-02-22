@@ -2,7 +2,7 @@
 layout: post
 title: 'K9CK LED Licht Set für Lego Modell - DIY mit 50.00 % Rabatt'
 date: 2020-02-02 21:32:48
-image: 'https://m.media-amazon.com/images/I/51o-i-rSdIL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51o-i-rSdIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.69'
 
 Sie können [K9CK LED Licht Set für Lego Modell - DIY Leuchtende Bausteine Beleuchtung Kit für Lego Technic Land Rover Defender 42110 - Nur LED enthalten](https://www.amazon.de/dp/B081VK75BK/?tag=tolees0ca-21) mit Preis 23.69 EUR (original: 47.38 EUR) 50.00 % Rabatt hier:
 
-[![K9CK LED Licht Set für Lego Modell - DIY](https://m.media-amazon.com/images/I/51o-i-rSdIL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B081VK75BK/?tag=tolees0ca-21)
+[![K9CK LED Licht Set für Lego Modell - DIY](https://m.media-amazon.com/images/I/51o-i-rSdIL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B081VK75BK/?tag=tolees0ca-21)
 
 ℹ️:
 

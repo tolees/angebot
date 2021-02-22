@@ -2,7 +2,7 @@
 layout: post
 title: '42.86 % rabat auf WOLF-Garten - Amboss Astschere »Comfort '
 date: 2020-03-14 04:56:59
-image: 'https://m.media-amazon.com/images/I/31XmQIwyPAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31XmQIwyPAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.99'
 
 Es gibt ein [WOLF-Garten - Amboss Astschere »Comfort Plus« POWER CUT** RS 750; 73AGA007650](https://www.amazon.de/dp/B00AZYPDY4/?tag=tolees0ca-21) mit aktuellem Preis 31.99 EUR (original: 55.99 EUR) 42.86 % Rabatt hier:
 
-[![WOLF-Garten - Amboss Astschere »Comfort ](https://m.media-amazon.com/images/I/31XmQIwyPAL._SL200_.jpg)](https://www.amazon.de/dp/B00AZYPDY4/?tag=tolees0ca-21)
+[![WOLF-Garten - Amboss Astschere »Comfort ](https://m.media-amazon.com/images/I/31XmQIwyPAL._SL400_.jpg)](https://www.amazon.de/dp/B00AZYPDY4/?tag=tolees0ca-21)
 
 ℹ️:
 

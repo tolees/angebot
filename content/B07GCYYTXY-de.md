@@ -2,7 +2,7 @@
 layout: post
 title: 'W.2 Fiber Carbon Cube - verbesserte Vers mit 42.98 % Rabatt'
 date: 2020-01-19 11:17:18
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41EMfiUoyZL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EMfiUoyZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Sie können [W.2 Fiber Carbon Cube - verbesserte Version - nur 73 g - Zauberwürfel](https://www.amazon.de/dp/B07GCYYTXY/?tag=tolees0ca-21) mit Preis 9.99 EUR (original: 17.52 EUR) 42.98 % Rabatt hier:
 
-[![W.2 Fiber Carbon Cube - verbesserte Vers](https://images-eu.ssl-images-amazon.com/images/I/41EMfiUoyZL._SL200_.jpg)](https://www.amazon.de/dp/B07GCYYTXY/?tag=tolees0ca-21)
+[![W.2 Fiber Carbon Cube - verbesserte Vers](https://images-eu.ssl-images-amazon.com/images/I/41EMfiUoyZL._SL400_.jpg)](https://www.amazon.de/dp/B07GCYYTXY/?tag=tolees0ca-21)
 
 ℹ️:
 

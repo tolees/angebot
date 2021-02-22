@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko 42650 POP Vinyl: Harry Potter S7-G mit 42.25 % Rabatt'
 date: 2020-03-31 13:01:24
-image: 'https://m.media-amazon.com/images/I/317xd4vadIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317xd4vadIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.29'
 
 Sie können [Funko 42650 POP Vinyl: Harry Potter S7-Ginny  Yule  Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B07PBBXR1R/?tag=tolees0ca-21) mit Preis 10.39 EUR (original: 17.99 EUR) 42.25 % Rabatt hier:
 
-[![Funko 42650 POP Vinyl: Harry Potter S7-G](https://m.media-amazon.com/images/I/317xd4vadIL._SL200_.jpg)](https://www.amazon.de/dp/B07PBBXR1R/?tag=tolees0ca-21)
+[![Funko 42650 POP Vinyl: Harry Potter S7-G](https://m.media-amazon.com/images/I/317xd4vadIL._SL400_.jpg)](https://www.amazon.de/dp/B07PBBXR1R/?tag=tolees0ca-21)
 
 ℹ️:
 

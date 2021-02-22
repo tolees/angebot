@@ -2,7 +2,7 @@
 layout: post
 title: '41.36 % rabat auf ECCO Damen Offroad Sport- & Outdoor Sand'
 date: 2020-03-16 13:45:39
-image: 'https://m.media-amazon.com/images/I/41JNsSzssaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JNsSzssaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.61'
 
 Es gibt ein [ECCO Damen Offroad Sport- & Outdoor Sandalen  Blau  57807medieval/wild Dove   41 EU](https://www.amazon.de/dp/B007VUWX4I/?tag=tolees0ca-21) mit aktuellem Preis 58.61 EUR (original: 99.95 EUR) 41.36 % Rabatt hier:
 
-[![ECCO Damen Offroad Sport- & Outdoor Sand](https://m.media-amazon.com/images/I/41JNsSzssaL._SL200_.jpg)](https://www.amazon.de/dp/B007VUWX4I/?tag=tolees0ca-21)
+[![ECCO Damen Offroad Sport- & Outdoor Sand](https://m.media-amazon.com/images/I/41JNsSzssaL._SL400_.jpg)](https://www.amazon.de/dp/B007VUWX4I/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Roccat Vulcan 122 - Mechanische Gaming T mit 25.62 % Rabatt'
 date: 2020-08-16 23:38:11
-image: 'https://m.media-amazon.com/images/I/41HF24-F2ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HF24-F2ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '142.93333333333334'
 
 Sie können [Roccat Vulcan 122 - Mechanische Gaming Tastatur  AIMO LED Einzeltastenbeleuchtung  Titan Switches  Aluminiumoberfläche  Multimedia-Tasten  Handballenauflage  Tactile Switch  weiß](https://www.amazon.de/dp/B07YCFC613/?tag=tolees0ca-21) mit Preis 119.0 EUR (original: 159.99 EUR) 25.62 % Rabatt hier:
 
-[![Roccat Vulcan 122 - Mechanische Gaming T](https://m.media-amazon.com/images/I/41HF24-F2ZL._SL200_.jpg)](https://www.amazon.de/dp/B07YCFC613/?tag=tolees0ca-21)
+[![Roccat Vulcan 122 - Mechanische Gaming T](https://m.media-amazon.com/images/I/41HF24-F2ZL._SL400_.jpg)](https://www.amazon.de/dp/B07YCFC613/?tag=tolees0ca-21)
 
 ℹ️:
 

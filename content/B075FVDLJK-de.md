@@ -2,7 +2,7 @@
 layout: post
 title: 'Norton Security Standard 2019 | 1 Gerät  mit 54.64 % Rabatt'
 date: 2020-03-11 04:55:14
-image: 'https://m.media-amazon.com/images/I/41FW1RlF4JL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FW1RlF4JL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.49'
 
 Sie können [Norton Security Standard 2019 | 1 Gerät | 1 Jahr | PC/Mac/Android/iOS | Download  Aktivierungscode in Frustfreier Verpackung](https://www.amazon.de/dp/B075FVDLJK/?tag=tolees0ca-21) mit Preis 9.49 EUR (original: 20.92 EUR) 54.64 % Rabatt hier:
 
-[![Norton Security Standard 2019 | 1 Gerät ](https://m.media-amazon.com/images/I/41FW1RlF4JL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B075FVDLJK/?tag=tolees0ca-21)
+[![Norton Security Standard 2019 | 1 Gerät ](https://m.media-amazon.com/images/I/41FW1RlF4JL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B075FVDLJK/?tag=tolees0ca-21)
 
 ℹ️:
 

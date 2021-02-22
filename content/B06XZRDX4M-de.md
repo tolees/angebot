@@ -2,7 +2,7 @@
 layout: post
 title: '34.44 % rabat auf Kingwin Damen -    Titan    blau Opale '
 date: 2020-01-20 16:13:54
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41i9gM36kPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i9gM36kPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.8'
 
 Es gibt ein [Kingwin Damen -    Titan    blau Opale ](https://www.amazon.de/dp/B06XZRDX4M/?tag=tolees0ca-21) mit aktuellem Preis 11.8 EUR (original: 18 EUR) 34.44 % Rabatt hier:
 
-[![Kingwin Damen -    Titan    blau Opale ](https://images-eu.ssl-images-amazon.com/images/I/41i9gM36kPL._SL200_.jpg)](https://www.amazon.de/dp/B06XZRDX4M/?tag=tolees0ca-21)
+[![Kingwin Damen -    Titan    blau Opale ](https://images-eu.ssl-images-amazon.com/images/I/41i9gM36kPL._SL400_.jpg)](https://www.amazon.de/dp/B06XZRDX4M/?tag=tolees0ca-21)
 
 ℹ️:
 

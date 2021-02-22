@@ -2,7 +2,7 @@
 layout: post
 title: 'Hot Wheels FDY09 Ai Starter Kit 2.0 Stre mit 36.88 % Rabatt'
 date: 2020-02-06 10:04:24
-image: 'https://m.media-amazon.com/images/I/41u9KaGlYtL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41u9KaGlYtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.99'
 
 Sie können [Hot Wheels FDY09 Ai Starter Kit 2.0 Street Racing  Auto Rennbahn Set mit 2 Smart Cars  2 Controller und 22 Trackteile  ab 8 Jahren](https://www.amazon.de/dp/B01N4G7UIT/?tag=tolees0ca-21) mit Preis 49.99 EUR (original: 79.2 EUR) 36.88 % Rabatt hier:
 
-[![Hot Wheels FDY09 Ai Starter Kit 2.0 Stre](https://m.media-amazon.com/images/I/41u9KaGlYtL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01N4G7UIT/?tag=tolees0ca-21)
+[![Hot Wheels FDY09 Ai Starter Kit 2.0 Stre](https://m.media-amazon.com/images/I/41u9KaGlYtL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01N4G7UIT/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '50.01 % rabat auf MUSTANG Herren Regular Fit Michigan Stra'
 date: 2020-01-21 15:52:49
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41oX19sZIhL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oX19sZIhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.99'
 
 Es gibt ein [MUSTANG Herren Regular Fit Michigan Straight Jeans](https://www.amazon.de/dp/B07MZDL6JQ/?tag=tolees0ca-21) mit aktuellem Preis 39.99 EUR (original: 79.99 EUR) 50.01 % Rabatt hier:
 
-[![MUSTANG Herren Regular Fit Michigan Stra](https://images-eu.ssl-images-amazon.com/images/I/41oX19sZIhL._SL200_.jpg)](https://www.amazon.de/dp/B07MZDL6JQ/?tag=tolees0ca-21)
+[![MUSTANG Herren Regular Fit Michigan Stra](https://images-eu.ssl-images-amazon.com/images/I/41oX19sZIhL._SL400_.jpg)](https://www.amazon.de/dp/B07MZDL6JQ/?tag=tolees0ca-21)
 
 ℹ️:
 

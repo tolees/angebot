@@ -2,7 +2,7 @@
 layout: post
 title: '22.08 % rabat auf Swarovski Angelic Square Set  weiss  Rho'
 date: 2020-08-24 23:04:34
-image: 'https://m.media-amazon.com/images/I/3198EQJn0bL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3198EQJn0bL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '155.07'
 
 Es gibt ein [Swarovski Angelic Square Set  weiss  Rhodiniert](https://www.amazon.de/dp/B0752BMRWM/?tag=tolees0ca-21) mit aktuellem Preis 155.07 EUR (original: 199.0 EUR) 22.08 % Rabatt hier:
 
-[![Swarovski Angelic Square Set  weiss  Rho](https://m.media-amazon.com/images/I/3198EQJn0bL._SL200_.jpg)](https://www.amazon.de/dp/B0752BMRWM/?tag=tolees0ca-21)
+[![Swarovski Angelic Square Set  weiss  Rho](https://m.media-amazon.com/images/I/3198EQJn0bL._SL400_.jpg)](https://www.amazon.de/dp/B0752BMRWM/?tag=tolees0ca-21)
 
 ℹ️:
 

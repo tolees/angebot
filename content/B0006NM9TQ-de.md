@@ -2,7 +2,7 @@
 layout: post
 title: 'Ravensburger 21108 1 Memory Die Eiskönig mit 25.75 % Rabatt'
 date: 2020-04-15 00:08:49
-image: 'https://m.media-amazon.com/images/I/61g-a4ymVtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61g-a4ymVtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.870869565217392'
 
 Sie können [Ravensburger 21108 1 Memory Die Eiskönigin Lernspiel](https://www.amazon.de/dp/B0006NM9TQ/?tag=tolees0ca-21) mit Preis 14.1 EUR (original: 18.99 EUR) 25.75 % Rabatt hier:
 
-[![Ravensburger 21108 1 Memory Die Eiskönig](https://m.media-amazon.com/images/I/61g-a4ymVtL._SL200_.jpg)](https://www.amazon.de/dp/B0006NM9TQ/?tag=tolees0ca-21)
+[![Ravensburger 21108 1 Memory Die Eiskönig](https://m.media-amazon.com/images/I/61g-a4ymVtL._SL400_.jpg)](https://www.amazon.de/dp/B0006NM9TQ/?tag=tolees0ca-21)
 
 ℹ️:
 

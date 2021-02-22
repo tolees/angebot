@@ -2,7 +2,7 @@
 layout: post
 title: 'SIRUI ET-2204/E-20 Easy Traveler Dreibei mit 22.73 % Rabatt'
 date: 2020-03-21 04:54:39
-image: 'https://m.media-amazon.com/images/I/31yHUue7MOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31yHUue7MOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '309.0'
 
 Sie können [SIRUI ET-2204/E-20 Easy Traveler Dreibeinstativ mit E-20 Kopf  Carbon  Höhe: 144 cm  Gewicht: 1  37kg  Belastbarkeit: 12kg  mit Tasche und Gurt](https://www.amazon.de/dp/B00IEP289Y/?tag=tolees0ca-21) mit Preis 309.0 EUR (original: 399.9 EUR) 22.73 % Rabatt hier:
 
-[![SIRUI ET-2204/E-20 Easy Traveler Dreibei](https://m.media-amazon.com/images/I/31yHUue7MOL._SL200_.jpg)](https://www.amazon.de/dp/B00IEP289Y/?tag=tolees0ca-21)
+[![SIRUI ET-2204/E-20 Easy Traveler Dreibei](https://m.media-amazon.com/images/I/31yHUue7MOL._SL400_.jpg)](https://www.amazon.de/dp/B00IEP289Y/?tag=tolees0ca-21)
 
 ℹ️:
 

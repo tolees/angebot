@@ -2,7 +2,7 @@
 layout: post
 title: '52.00 % rabat auf Paul Günther 1682 - Propellerspiel Twirl'
 date: 2020-04-11 08:09:07
-image: 'https://m.media-amazon.com/images/I/410LbEePZSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410LbEePZSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.81'
 
 Es gibt ein [Paul Günther 1682 - Propellerspiel Twirly  Farblich sortiert](https://www.amazon.de/dp/B000F5FNI4/?tag=tolees0ca-21) mit aktuellem Preis 4.81 EUR (original: 10.02 EUR) 52.00 % Rabatt hier:
 
-[![Paul Günther 1682 - Propellerspiel Twirl](https://m.media-amazon.com/images/I/410LbEePZSL._SL200_.jpg)](https://www.amazon.de/dp/B000F5FNI4/?tag=tolees0ca-21)
+[![Paul Günther 1682 - Propellerspiel Twirl](https://m.media-amazon.com/images/I/410LbEePZSL._SL400_.jpg)](https://www.amazon.de/dp/B000F5FNI4/?tag=tolees0ca-21)
 
 ℹ️:
 

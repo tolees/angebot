@@ -2,7 +2,7 @@
 layout: post
 title: '24.91 % rabat auf Lindt & Sprüngli Alpenmilch Mini Eier  3'
 date: 2020-03-23 05:05:13
-image: 'https://m.media-amazon.com/images/I/51HcIJ0qQxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51HcIJ0qQxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.06'
 
 Es gibt ein [Lindt & Sprüngli Alpenmilch Mini Eier  3er Pack  3 x 100 g ](https://www.amazon.de/dp/B009O8OTBU/?tag=tolees0ca-21) mit aktuellem Preis 6.06 EUR (original: 8.07 EUR) 24.91 % Rabatt hier:
 
-[![Lindt & Sprüngli Alpenmilch Mini Eier  3](https://m.media-amazon.com/images/I/51HcIJ0qQxL._SL200_.jpg)](https://www.amazon.de/dp/B009O8OTBU/?tag=tolees0ca-21)
+[![Lindt & Sprüngli Alpenmilch Mini Eier  3](https://m.media-amazon.com/images/I/51HcIJ0qQxL._SL400_.jpg)](https://www.amazon.de/dp/B009O8OTBU/?tag=tolees0ca-21)
 
 ℹ️:
 

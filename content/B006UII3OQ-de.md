@@ -2,7 +2,7 @@
 layout: post
 title: 'Tayg Kanister mit Wasserhahn mit 20.14 % Rabatt'
 date: 2020-03-21 04:56:49
-image: 'https://m.media-amazon.com/images/I/31ZGc0u0b4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ZGc0u0b4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Sie können [Tayg Kanister mit Wasserhahn](https://www.amazon.de/dp/B006UII3OQ/?tag=tolees0ca-21) mit Preis 9.99 EUR (original: 12.51 EUR) 20.14 % Rabatt hier:
 
-[![Tayg Kanister mit Wasserhahn](https://m.media-amazon.com/images/I/31ZGc0u0b4L._SL200_.jpg)](https://www.amazon.de/dp/B006UII3OQ/?tag=tolees0ca-21)
+[![Tayg Kanister mit Wasserhahn](https://m.media-amazon.com/images/I/31ZGc0u0b4L._SL400_.jpg)](https://www.amazon.de/dp/B006UII3OQ/?tag=tolees0ca-21)
 
 ℹ️:
 

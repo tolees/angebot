@@ -2,7 +2,7 @@
 layout: post
 title: 'Hasbro Spiele C2131100 Probieren Oder Ve mit 65.59 % Rabatt'
 date: 2020-04-16 17:34:20
-image: 'https://m.media-amazon.com/images/I/61PXCZpmihL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61PXCZpmihL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.91'
 
 Sie können [Hasbro Spiele C2131100 Probieren Oder Verlieren Partyspiel](https://www.amazon.de/dp/B075XTHRZJ/?tag=tolees0ca-21) mit Preis 7.91 EUR (original: 22.99 EUR) 65.59 % Rabatt hier:
 
-[![Hasbro Spiele C2131100 Probieren Oder Ve](https://m.media-amazon.com/images/I/61PXCZpmihL._SL200_.jpg)](https://www.amazon.de/dp/B075XTHRZJ/?tag=tolees0ca-21)
+[![Hasbro Spiele C2131100 Probieren Oder Ve](https://m.media-amazon.com/images/I/61PXCZpmihL._SL400_.jpg)](https://www.amazon.de/dp/B075XTHRZJ/?tag=tolees0ca-21)
 
 ℹ️:
 

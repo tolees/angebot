@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko 22613 Actionfigur Games: Horizon Z mit 30.74 % Rabatt'
 date: 2020-03-27 13:26:08
-image: 'https://m.media-amazon.com/images/I/41rOuFsTEXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rOuFsTEXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.072499999999998'
 
 Sie können [Funko 22613 Actionfigur Games: Horizon Zero Dawn: Watcher  Multi](https://www.amazon.de/dp/B071XD33FK/?tag=tolees0ca-21) mit Preis 9.69 EUR (original: 13.99 EUR) 30.74 % Rabatt hier:
 
-[![Funko 22613 Actionfigur Games: Horizon Z](https://m.media-amazon.com/images/I/41rOuFsTEXL._SL200_.jpg)](https://www.amazon.de/dp/B071XD33FK/?tag=tolees0ca-21)
+[![Funko 22613 Actionfigur Games: Horizon Z](https://m.media-amazon.com/images/I/41rOuFsTEXL._SL400_.jpg)](https://www.amazon.de/dp/B071XD33FK/?tag=tolees0ca-21)
 
 ℹ️:
 

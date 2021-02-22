@@ -2,7 +2,7 @@
 layout: post
 title: '16.67 % rabat auf Nintendo Spielset Mushroom Castle Deluxe'
 date: 2020-08-20 22:51:22
-image: 'https://m.media-amazon.com/images/I/41aLiVFliLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aLiVFliLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.99'
 
 Es gibt ein [Nintendo Spielset Mushroom Castle Deluxe mit 6 5 cm Figuren und vielen interaktiven Teilen  Mario  Luigi  Bowser ](https://www.amazon.de/dp/B076ZVX8TM/?tag=tolees0ca-21) mit aktuellem Preis 49.99 EUR (original: 59.99 EUR) 16.67 % Rabatt hier:
 
-[![Nintendo Spielset Mushroom Castle Deluxe](https://m.media-amazon.com/images/I/41aLiVFliLL._SL200_.jpg)](https://www.amazon.de/dp/B076ZVX8TM/?tag=tolees0ca-21)
+[![Nintendo Spielset Mushroom Castle Deluxe](https://m.media-amazon.com/images/I/41aLiVFliLL._SL400_.jpg)](https://www.amazon.de/dp/B076ZVX8TM/?tag=tolees0ca-21)
 
 ℹ️:
 

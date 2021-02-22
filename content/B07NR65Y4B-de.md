@@ -2,7 +2,7 @@
 layout: post
 title: '23.60 % rabat auf Dickie Toys 203714013 VW Tiguan R-Line  '
 date: 2020-04-11 08:09:51
-image: 'https://m.media-amazon.com/images/I/41viZVcGn4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41viZVcGn4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.116666666666667'
 
 Es gibt ein [Dickie Toys 203714013 VW Tiguan R-Line  Polizeiwagen mit Licht & Sound  Polizeiauto  Polizei  inkl. Batterien  25 cm  ab 3 Jahren  Mehrfarbig](https://www.amazon.de/dp/B07NR65Y4B/?tag=tolees0ca-21) mit aktuellem Preis 12.98 EUR (original: 16.99 EUR) 23.60 % Rabatt hier:
 
-[![Dickie Toys 203714013 VW Tiguan R-Line  ](https://m.media-amazon.com/images/I/41viZVcGn4L._SL200_.jpg)](https://www.amazon.de/dp/B07NR65Y4B/?tag=tolees0ca-21)
+[![Dickie Toys 203714013 VW Tiguan R-Line  ](https://m.media-amazon.com/images/I/41viZVcGn4L._SL400_.jpg)](https://www.amazon.de/dp/B07NR65Y4B/?tag=tolees0ca-21)
 
 ℹ️:
 

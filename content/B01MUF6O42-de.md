@@ -2,7 +2,7 @@
 layout: post
 title: '23.34 % rabat auf 3Ds Mario Sports Superstars  Eu '
 date: 2020-04-18 00:00:03
-image: 'https://m.media-amazon.com/images/I/6133djFedRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/6133djFedRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Es gibt ein [3Ds Mario Sports Superstars  Eu ](https://www.amazon.de/dp/B01MUF6O42/?tag=tolees0ca-21) mit aktuellem Preis 29.99 EUR (original: 39.12 EUR) 23.34 % Rabatt hier:
 
-[![3Ds Mario Sports Superstars  Eu ](https://m.media-amazon.com/images/I/6133djFedRL._SL200_.jpg)](https://www.amazon.de/dp/B01MUF6O42/?tag=tolees0ca-21)
+[![3Ds Mario Sports Superstars  Eu ](https://m.media-amazon.com/images/I/6133djFedRL._SL400_.jpg)](https://www.amazon.de/dp/B01MUF6O42/?tag=tolees0ca-21)
 
 ℹ️:
 

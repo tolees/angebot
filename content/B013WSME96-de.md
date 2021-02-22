@@ -2,7 +2,7 @@
 layout: post
 title: '23.97 % rabat auf Sony Xperia Z5 Smartphone  5 2 Zoll  13 '
 date: 2020-05-12 09:14:07
-image: 'https://m.media-amazon.com/images/I/41L1mgRVyxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41L1mgRVyxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '181.99'
 
 Es gibt ein [Sony Xperia Z5 Smartphone  5 2 Zoll  13 2 cm  Touch-Display  32 GB interner Speicher  Android 6.0  silber](https://www.amazon.de/dp/B013WSME96/?tag=tolees0ca-21) mit aktuellem Preis 189.99 EUR (original: 249.9 EUR) 23.97 % Rabatt hier:
 
-[![Sony Xperia Z5 Smartphone  5 2 Zoll  13 ](https://m.media-amazon.com/images/I/41L1mgRVyxL._SL200_.jpg)](https://www.amazon.de/dp/B013WSME96/?tag=tolees0ca-21)
+[![Sony Xperia Z5 Smartphone  5 2 Zoll  13 ](https://m.media-amazon.com/images/I/41L1mgRVyxL._SL400_.jpg)](https://www.amazon.de/dp/B013WSME96/?tag=tolees0ca-21)
 
 ℹ️:
 

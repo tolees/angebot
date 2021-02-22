@@ -2,7 +2,7 @@
 layout: post
 title: 'Playmobil 6932 - Pferdekutsche mit 29.14 % Rabatt'
 date: 2020-04-16 17:44:05
-image: 'https://m.media-amazon.com/images/I/61cBWLZ4ZJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61cBWLZ4ZJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.33'
 
 Sie können [Playmobil 6932 - Pferdekutsche](https://www.amazon.de/dp/B06WVS91VM/?tag=tolees0ca-21) mit Preis 11.33 EUR (original: 15.99 EUR) 29.14 % Rabatt hier:
 
-[![Playmobil 6932 - Pferdekutsche](https://m.media-amazon.com/images/I/61cBWLZ4ZJL._SL200_.jpg)](https://www.amazon.de/dp/B06WVS91VM/?tag=tolees0ca-21)
+[![Playmobil 6932 - Pferdekutsche](https://m.media-amazon.com/images/I/61cBWLZ4ZJL._SL400_.jpg)](https://www.amazon.de/dp/B06WVS91VM/?tag=tolees0ca-21)
 
 ℹ️:
 

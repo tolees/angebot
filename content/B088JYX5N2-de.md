@@ -2,7 +2,7 @@
 layout: post
 title: '16.66 % rabat auf XIDU PhilMac Mini PC Al-Legierung Window'
 date: 2020-09-27 17:13:53
-image: 'https://m.media-amazon.com/images/I/417bQbjrtNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417bQbjrtNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '229.99'
 
 Es gibt ein [XIDU PhilMac Mini PC Al-Legierung Windows 10  8GB DDR4  128GB eMMC  Intel Celeron J4115  4K Mini Computer mit HDMI/VGA/Gigabit Ethernet / 3xUSB 3.0 / SD-Karte  Dual Band WiFi  BT 4.2  Space Grau ](https://www.amazon.de/dp/B088JYX5N2/?tag=tolees0ca-21) mit aktuellem Preis 229.99 EUR (original: 275.98 EUR) 16.66 % Rabatt hier:
 
-[![XIDU PhilMac Mini PC Al-Legierung Window](https://m.media-amazon.com/images/I/417bQbjrtNL._SL200_.jpg)](https://www.amazon.de/dp/B088JYX5N2/?tag=tolees0ca-21)
+[![XIDU PhilMac Mini PC Al-Legierung Window](https://m.media-amazon.com/images/I/417bQbjrtNL._SL400_.jpg)](https://www.amazon.de/dp/B088JYX5N2/?tag=tolees0ca-21)
 
 ℹ️:
 

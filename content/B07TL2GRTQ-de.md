@@ -2,7 +2,7 @@
 layout: post
 title: '55.05 % rabat auf Huawei B535 4G LTE Router 3Pro  Cat.7  4'
 date: 2020-06-11 06:53:56
-image: 'https://m.media-amazon.com/images/I/210--RVDflL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/210--RVDflL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '89.45'
 
 Es gibt ein [Huawei B535 4G LTE Router 3Pro  Cat.7  4G LTE bis zu 300 Mbit/s Download   100 Mbit/s Upload   WiFi 300Mbps 2.4GHz +867Mbps 5GHz   4x Gigabit LAN  Weiß](https://www.amazon.de/dp/B07TL2GRTQ/?tag=tolees0ca-21) mit aktuellem Preis 89.45 EUR (original: 199.0 EUR) 55.05 % Rabatt hier:
 
-[![Huawei B535 4G LTE Router 3Pro  Cat.7  4](https://m.media-amazon.com/images/I/210--RVDflL._SL200_.jpg)](https://www.amazon.de/dp/B07TL2GRTQ/?tag=tolees0ca-21)
+[![Huawei B535 4G LTE Router 3Pro  Cat.7  4](https://m.media-amazon.com/images/I/210--RVDflL._SL400_.jpg)](https://www.amazon.de/dp/B07TL2GRTQ/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Dickie Toys 203713009 Special Forces  Sp mit 44.03 % Rabatt'
 date: 2020-04-11 08:11:22
-image: 'https://m.media-amazon.com/images/I/41+qIjwQufL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+qIjwQufL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.275'
 
 Sie können [Dickie Toys 203713009 Special Forces  Spezialeinheit  SUV  Truck  Polizeiauto mit Funktionen  Sondereinheit  1:32  blau/gelb/grau](https://www.amazon.de/dp/B07QQFWZ7Y/?tag=tolees0ca-21) mit Preis 7.27 EUR (original: 12.99 EUR) 44.03 % Rabatt hier:
 
-[![Dickie Toys 203713009 Special Forces  Sp](https://m.media-amazon.com/images/I/41+qIjwQufL._SL200_.jpg)](https://www.amazon.de/dp/B07QQFWZ7Y/?tag=tolees0ca-21)
+[![Dickie Toys 203713009 Special Forces  Sp](https://m.media-amazon.com/images/I/41+qIjwQufL._SL400_.jpg)](https://www.amazon.de/dp/B07QQFWZ7Y/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Logitech Brio Stream Webcam  4K Ultra-HD mit 38.56 % Rabatt'
 date: 2020-04-10 16:22:30
-image: 'https://m.media-amazon.com/images/I/31q1prUGsxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31q1prUGsxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '152.99'
 
 Sie können [Logitech Brio Stream Webcam  4K Ultra-HD 1080p  Weites anpassbares Blickfeld  USB-Anschluss  Abdeckblende  Abnehmbarer Clip  Für Skype  Zoom  Xsplit  Youtube  PC - Schwarz  Streaming Edition](https://www.amazon.de/dp/B0748NCPN5/?tag=tolees0ca-21) mit Preis 152.99 EUR (original: 249.0 EUR) 38.56 % Rabatt hier:
 
-[![Logitech Brio Stream Webcam  4K Ultra-HD](https://m.media-amazon.com/images/I/31q1prUGsxL._SL200_.jpg)](https://www.amazon.de/dp/B0748NCPN5/?tag=tolees0ca-21)
+[![Logitech Brio Stream Webcam  4K Ultra-HD](https://m.media-amazon.com/images/I/31q1prUGsxL._SL400_.jpg)](https://www.amazon.de/dp/B0748NCPN5/?tag=tolees0ca-21)
 
 ℹ️:
 

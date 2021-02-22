@@ -2,7 +2,7 @@
 layout: post
 title: '57.99 % rabat auf Panasonic LUMIX DMW-BCG10E Aufladbarer L'
 date: 2020-02-19 00:30:58
-image: 'https://m.media-amazon.com/images/I/41gA-WfJOAL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gA-WfJOAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.9'
 
 Es gibt ein [Panasonic LUMIX DMW-BCG10E Aufladbarer Li-Ion Akku  geeignet für LUMIX Digitalkameras  schwarz](https://www.amazon.de/dp/B001RM8BUG/?tag=tolees0ca-21) mit aktuellem Preis 18.9 EUR (original: 44.99 EUR) 57.99 % Rabatt hier:
 
-[![Panasonic LUMIX DMW-BCG10E Aufladbarer L](https://m.media-amazon.com/images/I/41gA-WfJOAL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B001RM8BUG/?tag=tolees0ca-21)
+[![Panasonic LUMIX DMW-BCG10E Aufladbarer L](https://m.media-amazon.com/images/I/41gA-WfJOAL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B001RM8BUG/?tag=tolees0ca-21)
 
 ℹ️:
 

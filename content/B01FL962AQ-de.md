@@ -2,7 +2,7 @@
 layout: post
 title: '42.14 % rabat auf Netgear WAC720B03-10000S Dual Band 802.1'
 date: 2020-04-11 20:01:31
-image: 'https://m.media-amazon.com/images/I/316XSCxQjhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316XSCxQjhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '289.7'
 
 Es gibt ein [Netgear WAC720B03-10000S Dual Band 802.11ac Wireless Access Point  3-er Pack ](https://www.amazon.de/dp/B01FL962AQ/?tag=tolees0ca-21) mit aktuellem Preis 324.0 EUR (original: 559.99 EUR) 42.14 % Rabatt hier:
 
-[![Netgear WAC720B03-10000S Dual Band 802.1](https://m.media-amazon.com/images/I/316XSCxQjhL._SL200_.jpg)](https://www.amazon.de/dp/B01FL962AQ/?tag=tolees0ca-21)
+[![Netgear WAC720B03-10000S Dual Band 802.1](https://m.media-amazon.com/images/I/316XSCxQjhL._SL400_.jpg)](https://www.amazon.de/dp/B01FL962AQ/?tag=tolees0ca-21)
 
 ℹ️:
 

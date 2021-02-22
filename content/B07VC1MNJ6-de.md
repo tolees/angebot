@@ -2,7 +2,7 @@
 layout: post
 title: '49.30 % rabat auf Intenso USB-Stick Ultra Line 512 GB USB '
 date: 2020-07-10 07:55:39
-image: 'https://m.media-amazon.com/images/I/31RE0M7eNhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31RE0M7eNhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.02'
 
 Es gibt ein [Intenso USB-Stick Ultra Line 512 GB USB 3.0](https://www.amazon.de/dp/B07VC1MNJ6/?tag=tolees0ca-21) mit aktuellem Preis 38.02 EUR (original: 74.99 EUR) 49.30 % Rabatt hier:
 
-[![Intenso USB-Stick Ultra Line 512 GB USB ](https://m.media-amazon.com/images/I/31RE0M7eNhL._SL200_.jpg)](https://www.amazon.de/dp/B07VC1MNJ6/?tag=tolees0ca-21)
+[![Intenso USB-Stick Ultra Line 512 GB USB ](https://m.media-amazon.com/images/I/31RE0M7eNhL._SL400_.jpg)](https://www.amazon.de/dp/B07VC1MNJ6/?tag=tolees0ca-21)
 
 ℹ️:
 

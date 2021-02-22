@@ -2,7 +2,7 @@
 layout: post
 title: '44.32 % rabat auf Microsoft Wireless Mobile Mouse 1850  Ma'
 date: 2020-05-19 06:41:59
-image: 'https://m.media-amazon.com/images/I/31-5LLKOr2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-5LLKOr2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.46'
 
 Es gibt ein [Microsoft Wireless Mobile Mouse 1850  Maus  schwarz  kabellos  für Rechts- und Linkshänder geeignet ](https://www.amazon.de/dp/B00JF0AR0Y/?tag=tolees0ca-21) mit aktuellem Preis 9.46 EUR (original: 16.99 EUR) 44.32 % Rabatt hier:
 
-[![Microsoft Wireless Mobile Mouse 1850  Ma](https://m.media-amazon.com/images/I/31-5LLKOr2L._SL200_.jpg)](https://www.amazon.de/dp/B00JF0AR0Y/?tag=tolees0ca-21)
+[![Microsoft Wireless Mobile Mouse 1850  Ma](https://m.media-amazon.com/images/I/31-5LLKOr2L._SL400_.jpg)](https://www.amazon.de/dp/B00JF0AR0Y/?tag=tolees0ca-21)
 
 ℹ️:
 

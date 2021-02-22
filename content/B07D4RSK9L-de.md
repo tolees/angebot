@@ -2,7 +2,7 @@
 layout: post
 title: 'HyperX HX-HSCA-GD/NAP Cloud Alpha Gold - mit 32.18 % Rabatt'
 date: 2020-05-21 16:58:23
-image: 'https://m.media-amazon.com/images/I/41ZqE9nVmbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZqE9nVmbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '68.99666666666667'
 
 Sie können [HyperX HX-HSCA-GD/NAP Cloud Alpha Gold - Gaming Kopfhörer mit In-Line Audio Control](https://www.amazon.de/dp/B07D4RSK9L/?tag=tolees0ca-21) mit Preis 59.0 EUR (original: 86.99 EUR) 32.18 % Rabatt hier:
 
-[![HyperX HX-HSCA-GD/NAP Cloud Alpha Gold -](https://m.media-amazon.com/images/I/41ZqE9nVmbL._SL200_.jpg)](https://www.amazon.de/dp/B07D4RSK9L/?tag=tolees0ca-21)
+[![HyperX HX-HSCA-GD/NAP Cloud Alpha Gold -](https://m.media-amazon.com/images/I/41ZqE9nVmbL._SL400_.jpg)](https://www.amazon.de/dp/B07D4RSK9L/?tag=tolees0ca-21)
 
 ℹ️:
 

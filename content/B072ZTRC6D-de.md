@@ -2,7 +2,7 @@
 layout: post
 title: '28.93 % rabat auf Huawei Y6 2017  Grey '
 date: 2020-04-11 12:52:21
-image: 'https://m.media-amazon.com/images/I/31sAbhQtgVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31sAbhQtgVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '96.72'
 
 Es gibt ein [Huawei Y6 2017  Grey ](https://www.amazon.de/dp/B072ZTRC6D/?tag=tolees0ca-21) mit aktuellem Preis 96.72 EUR (original: 136.1 EUR) 28.93 % Rabatt hier:
 
-[![Huawei Y6 2017  Grey ](https://m.media-amazon.com/images/I/31sAbhQtgVL._SL200_.jpg)](https://www.amazon.de/dp/B072ZTRC6D/?tag=tolees0ca-21)
+[![Huawei Y6 2017  Grey ](https://m.media-amazon.com/images/I/31sAbhQtgVL._SL400_.jpg)](https://www.amazon.de/dp/B072ZTRC6D/?tag=tolees0ca-21)
 
 ℹ️:
 

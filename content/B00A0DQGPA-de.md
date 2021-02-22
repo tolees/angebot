@@ -2,7 +2,7 @@
 layout: post
 title: '39.88 % rabat auf Clementoni 13405.2 - Memo Kompakt Minnie'
 date: 2020-04-15 00:09:14
-image: 'https://m.media-amazon.com/images/I/51hMcy4G67L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hMcy4G67L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.0'
 
 Es gibt ein [Clementoni 13405.2 - Memo Kompakt Minnie](https://www.amazon.de/dp/B00A0DQGPA/?tag=tolees0ca-21) mit aktuellem Preis 3.0 EUR (original: 4.99 EUR) 39.88 % Rabatt hier:
 
-[![Clementoni 13405.2 - Memo Kompakt Minnie](https://m.media-amazon.com/images/I/51hMcy4G67L._SL200_.jpg)](https://www.amazon.de/dp/B00A0DQGPA/?tag=tolees0ca-21)
+[![Clementoni 13405.2 - Memo Kompakt Minnie](https://m.media-amazon.com/images/I/51hMcy4G67L._SL400_.jpg)](https://www.amazon.de/dp/B00A0DQGPA/?tag=tolees0ca-21)
 
 ℹ️:
 

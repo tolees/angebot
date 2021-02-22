@@ -2,7 +2,7 @@
 layout: post
 title: '24.18 % rabat auf Mennekes AM 10863 Wandsteckdose SCHUKO 1'
 date: 2020-03-11 04:57:05
-image: 'https://m.media-amazon.com/images/I/41Hc3neQejL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Hc3neQejL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.94'
 
 Es gibt ein [Mennekes AM 10863 Wandsteckdose SCHUKO 16A 230V IP68 Bajonettdeckel blau anscharniert Schraubkontakt](https://www.amazon.de/dp/B000UXF36I/?tag=tolees0ca-21) mit aktuellem Preis 34.94 EUR (original: 46.08 EUR) 24.18 % Rabatt hier:
 
-[![Mennekes AM 10863 Wandsteckdose SCHUKO 1](https://m.media-amazon.com/images/I/41Hc3neQejL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B000UXF36I/?tag=tolees0ca-21)
+[![Mennekes AM 10863 Wandsteckdose SCHUKO 1](https://m.media-amazon.com/images/I/41Hc3neQejL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B000UXF36I/?tag=tolees0ca-21)
 
 ℹ️:
 

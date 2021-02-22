@@ -2,7 +2,7 @@
 layout: post
 title: 'Old Spice Citron Anti-Transpirant und De mit 32.78 % Rabatt'
 date: 2020-10-03 11:03:38
-image: 'https://m.media-amazon.com/images/I/41f2xQb9kOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41f2xQb9kOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.3'
 
 Sie können [Old Spice Citron Anti-Transpirant und Deo-Stick für Herren  50 ml  1 Packung mit 6 Einheiten](https://www.amazon.de/dp/B07PFL3LFK/?tag=tolees0ca-21) mit Preis 16.3 EUR (original: 24.25 EUR) 32.78 % Rabatt hier:
 
-[![Old Spice Citron Anti-Transpirant und De](https://m.media-amazon.com/images/I/41f2xQb9kOL._SL200_.jpg)](https://www.amazon.de/dp/B07PFL3LFK/?tag=tolees0ca-21)
+[![Old Spice Citron Anti-Transpirant und De](https://m.media-amazon.com/images/I/41f2xQb9kOL._SL400_.jpg)](https://www.amazon.de/dp/B07PFL3LFK/?tag=tolees0ca-21)
 
 ℹ️:
 

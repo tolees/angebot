@@ -2,7 +2,7 @@
 layout: post
 title: '31.86 % rabat auf Ecco Damen FLOWTW Riemchensandalen  Schw'
 date: 2020-08-25 23:14:34
-image: 'https://m.media-amazon.com/images/I/31izkZplHcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31izkZplHcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '68.11'
 
 Es gibt ein [Ecco Damen FLOWTW Riemchensandalen  Schwarz  Black 1001   39 EU](https://www.amazon.de/dp/B07FPKWDZ2/?tag=tolees0ca-21) mit aktuellem Preis 68.11 EUR (original: 99.95 EUR) 31.86 % Rabatt hier:
 
-[![Ecco Damen FLOWTW Riemchensandalen  Schw](https://m.media-amazon.com/images/I/31izkZplHcL._SL200_.jpg)](https://www.amazon.de/dp/B07FPKWDZ2/?tag=tolees0ca-21)
+[![Ecco Damen FLOWTW Riemchensandalen  Schw](https://m.media-amazon.com/images/I/31izkZplHcL._SL400_.jpg)](https://www.amazon.de/dp/B07FPKWDZ2/?tag=tolees0ca-21)
 
 ℹ️:
 

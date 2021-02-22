@@ -2,7 +2,7 @@
 layout: post
 title: '20.04 % rabat auf Lenovo IdeaPad C340 Laptop 35 6 cm  14 Z'
 date: 2020-03-12 20:17:06
-image: 'https://m.media-amazon.com/images/I/31AKggHXFmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31AKggHXFmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '399.0'
 
 Es gibt ein [Lenovo IdeaPad C340 Laptop 35 6 cm  14 Zoll  1920x1080  FHD  IPS  Touch  Convertible Notebook  Intel Pentium 5405U  4GB RAM  128GB SSD  Intel UHD-Grafik 610  Windows 10 Home S  dunkelblau](https://www.amazon.de/dp/B081T6YVBD/?tag=tolees0ca-21) mit aktuellem Preis 399.0 EUR (original: 499.0 EUR) 20.04 % Rabatt hier:
 
-[![Lenovo IdeaPad C340 Laptop 35 6 cm  14 Z](https://m.media-amazon.com/images/I/31AKggHXFmL._SL200_.jpg)](https://www.amazon.de/dp/B081T6YVBD/?tag=tolees0ca-21)
+[![Lenovo IdeaPad C340 Laptop 35 6 cm  14 Z](https://m.media-amazon.com/images/I/31AKggHXFmL._SL400_.jpg)](https://www.amazon.de/dp/B081T6YVBD/?tag=tolees0ca-21)
 
 ℹ️:
 

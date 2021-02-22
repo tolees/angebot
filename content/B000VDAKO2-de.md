@@ -2,7 +2,7 @@
 layout: post
 title: '45.54 % rabat auf Kopp 565656001 Nautic Universalschalter '
 date: 2020-10-11 02:05:43
-image: 'https://m.media-amazon.com/images/I/51uDf4nsjfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51uDf4nsjfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.99'
 
 Es gibt ein [Kopp 565656001 Nautic Universalschalter  Aus-und Wechselschalter   grau](https://www.amazon.de/dp/B000VDAKO2/?tag=tolees0ca-21) mit aktuellem Preis 2.99 EUR (original: 5.49 EUR) 45.54 % Rabatt hier:
 
-[![Kopp 565656001 Nautic Universalschalter ](https://m.media-amazon.com/images/I/51uDf4nsjfL._SL200_.jpg)](https://www.amazon.de/dp/B000VDAKO2/?tag=tolees0ca-21)
+[![Kopp 565656001 Nautic Universalschalter ](https://m.media-amazon.com/images/I/51uDf4nsjfL._SL400_.jpg)](https://www.amazon.de/dp/B000VDAKO2/?tag=tolees0ca-21)
 
 ℹ️:
 

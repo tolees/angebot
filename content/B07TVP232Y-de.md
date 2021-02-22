@@ -2,7 +2,7 @@
 layout: post
 title: '40.33 % rabat auf BRIKSMAX Led Beleuchtungsset für Lego Tr'
 date: 2020-02-18 11:56:50
-image: 'https://m.media-amazon.com/images/I/41lPgHifQjL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lPgHifQjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.99'
 
 Es gibt ein [BRIKSMAX Led Beleuchtungsset für Lego Transporter für Mähdrescher  Kompatibel Mit Lego 60223 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B07TVP232Y/?tag=tolees0ca-21) mit aktuellem Preis 36.99 EUR (original: 61.99 EUR) 40.33 % Rabatt hier:
 
-[![BRIKSMAX Led Beleuchtungsset für Lego Tr](https://m.media-amazon.com/images/I/41lPgHifQjL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07TVP232Y/?tag=tolees0ca-21)
+[![BRIKSMAX Led Beleuchtungsset für Lego Tr](https://m.media-amazon.com/images/I/41lPgHifQjL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07TVP232Y/?tag=tolees0ca-21)
 
 ℹ️:
 

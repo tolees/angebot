@@ -2,7 +2,7 @@
 layout: post
 title: '58.87 % rabat auf Parker IM Kugelschreiber | Schwarze Lack'
 date: 2020-09-24 19:53:00
-image: 'https://m.media-amazon.com/images/I/310nFHIN4JL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/310nFHIN4JL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.9'
 
 Es gibt ein [Parker IM Kugelschreiber | Schwarze Lackierung mit Chromzierteilen | Mittlere Spitze | Blau | Geschenkbox](https://www.amazon.de/dp/B01M4I8OLZ/?tag=tolees0ca-21) mit aktuellem Preis 10.9 EUR (original: 26.5 EUR) 58.87 % Rabatt hier:
 
-[![Parker IM Kugelschreiber | Schwarze Lack](https://m.media-amazon.com/images/I/310nFHIN4JL._SL200_.jpg)](https://www.amazon.de/dp/B01M4I8OLZ/?tag=tolees0ca-21)
+[![Parker IM Kugelschreiber | Schwarze Lack](https://m.media-amazon.com/images/I/310nFHIN4JL._SL400_.jpg)](https://www.amazon.de/dp/B01M4I8OLZ/?tag=tolees0ca-21)
 
 ℹ️:
 

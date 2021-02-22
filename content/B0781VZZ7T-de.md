@@ -2,7 +2,7 @@
 layout: post
 title: 'Puma Herren Liga Shorts Core with Brief  mit 40.10 % Rabatt'
 date: 2020-08-18 05:08:19
-image: 'https://m.media-amazon.com/images/I/31jomkLIjYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jomkLIjYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.95'
 
 Sie können [Puma Herren Liga Shorts Core with Brief Hose  Black White  M](https://www.amazon.de/dp/B0781VZZ7T/?tag=tolees0ca-21) mit Preis 11.95 EUR (original: 19.95 EUR) 40.10 % Rabatt hier:
 
-[![Puma Herren Liga Shorts Core with Brief ](https://m.media-amazon.com/images/I/31jomkLIjYL._SL200_.jpg)](https://www.amazon.de/dp/B0781VZZ7T/?tag=tolees0ca-21)
+[![Puma Herren Liga Shorts Core with Brief ](https://m.media-amazon.com/images/I/31jomkLIjYL._SL400_.jpg)](https://www.amazon.de/dp/B0781VZZ7T/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '30.02 % rabat auf LEGO 43177 - Belle Märchenbuch  Disney P'
 date: 2020-04-16 17:38:40
-image: 'https://m.media-amazon.com/images/I/51z-9ccnImL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51z-9ccnImL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.06090909090909'
 
 Es gibt ein [LEGO 43177 - Belle Märchenbuch  Disney Princess  Bauset](https://www.amazon.de/dp/B07W4KTD62/?tag=tolees0ca-21) mit aktuellem Preis 13.99 EUR (original: 19.99 EUR) 30.02 % Rabatt hier:
 
-[![LEGO 43177 - Belle Märchenbuch  Disney P](https://m.media-amazon.com/images/I/51z-9ccnImL._SL200_.jpg)](https://www.amazon.de/dp/B07W4KTD62/?tag=tolees0ca-21)
+[![LEGO 43177 - Belle Märchenbuch  Disney P](https://m.media-amazon.com/images/I/51z-9ccnImL._SL400_.jpg)](https://www.amazon.de/dp/B07W4KTD62/?tag=tolees0ca-21)
 
 ℹ️:
 

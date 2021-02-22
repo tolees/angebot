@@ -2,7 +2,7 @@
 layout: post
 title: '37.35 % rabat auf Ravensburger 19549 Star Wars Episode VII'
 date: 2020-01-01 22:51:52
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61Ft7p-laML._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61Ft7p-laML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.977500000000001'
 
 Es gibt ein [Ravensburger 19549 Star Wars Episode VII  1000-teilig Puzzle](https://www.amazon.de/dp/B00VR4MEA2/?tag=tolees0ca-21) mit aktuellem Preis 8.64 EUR (original: 13.79 EUR) 37.35 % Rabatt hier:
 
-[![Ravensburger 19549 Star Wars Episode VII](https://images-eu.ssl-images-amazon.com/images/I/61Ft7p-laML._SL200_.jpg)](https://www.amazon.de/dp/B00VR4MEA2/?tag=tolees0ca-21)
+[![Ravensburger 19549 Star Wars Episode VII](https://images-eu.ssl-images-amazon.com/images/I/61Ft7p-laML._SL400_.jpg)](https://www.amazon.de/dp/B00VR4MEA2/?tag=tolees0ca-21)
 
 ℹ️:
 

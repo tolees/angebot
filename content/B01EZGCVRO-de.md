@@ -2,7 +2,7 @@
 layout: post
 title: 'Auferstanden mit 43.80 % Rabatt'
 date: 2020-02-09 00:01:23
-image: 'https://m.media-amazon.com/images/I/519wNUOllaL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/519wNUOllaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.49'
 
 Sie können [Auferstanden](https://www.amazon.de/dp/B01EZGCVRO/?tag=tolees0ca-21) mit Preis 4.49 EUR (original: 7.99 EUR) 43.80 % Rabatt hier:
 
-[![Auferstanden](https://m.media-amazon.com/images/I/519wNUOllaL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01EZGCVRO/?tag=tolees0ca-21)
+[![Auferstanden](https://m.media-amazon.com/images/I/519wNUOllaL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01EZGCVRO/?tag=tolees0ca-21)
 
 ℹ️:
 

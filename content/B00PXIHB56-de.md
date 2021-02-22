@@ -2,7 +2,7 @@
 layout: post
 title: '22.00 % rabat auf Yamaha EPH-M200 In-Ear Kopfhörer  15 mm '
 date: 2020-05-24 11:16:58
-image: 'https://m.media-amazon.com/images/I/41+-K-6jXIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+-K-6jXIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.02'
 
 Es gibt ein [Yamaha EPH-M200 In-Ear Kopfhörer  15 mm Treiber  weiß](https://www.amazon.de/dp/B00PXIHB56/?tag=tolees0ca-21) mit aktuellem Preis 35.02 EUR (original: 44.9 EUR) 22.00 % Rabatt hier:
 
-[![Yamaha EPH-M200 In-Ear Kopfhörer  15 mm ](https://m.media-amazon.com/images/I/41+-K-6jXIL._SL200_.jpg)](https://www.amazon.de/dp/B00PXIHB56/?tag=tolees0ca-21)
+[![Yamaha EPH-M200 In-Ear Kopfhörer  15 mm ](https://m.media-amazon.com/images/I/41+-K-6jXIL._SL400_.jpg)](https://www.amazon.de/dp/B00PXIHB56/?tag=tolees0ca-21)
 
 ℹ️:
 

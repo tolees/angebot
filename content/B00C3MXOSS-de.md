@@ -2,7 +2,7 @@
 layout: post
 title: 'Ravensburger 09264 - Abenteuer im Winter mit 38.44 % Rabatt'
 date: 2020-01-04 06:16:08
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51GLJ8ED5dL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51GLJ8ED5dL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.15'
 
 Sie können [Ravensburger 09264 - Abenteuer im Winterland](https://www.amazon.de/dp/B00C3MXOSS/?tag=tolees0ca-21) mit Preis 6.15 EUR (original: 9.99 EUR) 38.44 % Rabatt hier:
 
-[![Ravensburger 09264 - Abenteuer im Winter](https://images-eu.ssl-images-amazon.com/images/I/51GLJ8ED5dL._SL200_.jpg)](https://www.amazon.de/dp/B00C3MXOSS/?tag=tolees0ca-21)
+[![Ravensburger 09264 - Abenteuer im Winter](https://images-eu.ssl-images-amazon.com/images/I/51GLJ8ED5dL._SL400_.jpg)](https://www.amazon.de/dp/B00C3MXOSS/?tag=tolees0ca-21)
 
 ℹ️:
 

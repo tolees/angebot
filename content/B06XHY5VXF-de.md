@@ -2,7 +2,7 @@
 layout: post
 title: 'Sabrent Bluetooth-Adapter USB Bluetooth  mit 53.64 % Rabatt'
 date: 2020-04-16 17:30:16
-image: 'https://m.media-amazon.com/images/I/310Y99pr1EL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/310Y99pr1EL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.95'
 
 Sie können [Sabrent Bluetooth-Adapter USB Bluetooth 4.0 Micro Adapter für PC [v4.0 Klasse 2  mit Niedrig Energie Technologie]  BT-UB40 ](https://www.amazon.de/dp/B06XHY5VXF/?tag=tolees0ca-21) mit Preis 6.95 EUR (original: 14.99 EUR) 53.64 % Rabatt hier:
 
-[![Sabrent Bluetooth-Adapter USB Bluetooth ](https://m.media-amazon.com/images/I/310Y99pr1EL._SL200_.jpg)](https://www.amazon.de/dp/B06XHY5VXF/?tag=tolees0ca-21)
+[![Sabrent Bluetooth-Adapter USB Bluetooth ](https://m.media-amazon.com/images/I/310Y99pr1EL._SL400_.jpg)](https://www.amazon.de/dp/B06XHY5VXF/?tag=tolees0ca-21)
 
 ℹ️:
 

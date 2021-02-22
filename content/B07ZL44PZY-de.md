@@ -2,7 +2,7 @@
 layout: post
 title: '38.52 % rabat auf Mammut Herren Hardshell-jacke Albula Hoo'
 date: 2020-10-02 13:03:57
-image: 'https://m.media-amazon.com/images/I/31Xf0EaPeHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Xf0EaPeHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '122.95'
 
 Es gibt ein [Mammut Herren Hardshell-jacke Albula Hooded  rot  S](https://www.amazon.de/dp/B07ZL44PZY/?tag=tolees0ca-21) mit aktuellem Preis 122.95 EUR (original: 200.0 EUR) 38.52 % Rabatt hier:
 
-[![Mammut Herren Hardshell-jacke Albula Hoo](https://m.media-amazon.com/images/I/31Xf0EaPeHL._SL200_.jpg)](https://www.amazon.de/dp/B07ZL44PZY/?tag=tolees0ca-21)
+[![Mammut Herren Hardshell-jacke Albula Hoo](https://m.media-amazon.com/images/I/31Xf0EaPeHL._SL400_.jpg)](https://www.amazon.de/dp/B07ZL44PZY/?tag=tolees0ca-21)
 
 ℹ️:
 

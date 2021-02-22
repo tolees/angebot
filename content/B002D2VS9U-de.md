@@ -2,7 +2,7 @@
 layout: post
 title: 'Sigma 10-20 mm F3 5 EX DC HSM-Objektiv   mit 65.22 % Rabatt'
 date: 2020-09-18 06:00:35
-image: 'https://m.media-amazon.com/images/I/51SRRTZLJVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51SRRTZLJVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '312.64'
 
 Sie können [Sigma 10-20 mm F3 5 EX DC HSM-Objektiv  82 mm Filtergewinde  für Canon Objektivbajonett ](https://www.amazon.de/dp/B002D2VS9U/?tag=tolees0ca-21) mit Preis 312.64 EUR (original: 899.0 EUR) 65.22 % Rabatt hier:
 
-[![Sigma 10-20 mm F3 5 EX DC HSM-Objektiv  ](https://m.media-amazon.com/images/I/51SRRTZLJVL._SL200_.jpg)](https://www.amazon.de/dp/B002D2VS9U/?tag=tolees0ca-21)
+[![Sigma 10-20 mm F3 5 EX DC HSM-Objektiv  ](https://m.media-amazon.com/images/I/51SRRTZLJVL._SL400_.jpg)](https://www.amazon.de/dp/B002D2VS9U/?tag=tolees0ca-21)
 
 ℹ️:
 

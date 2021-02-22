@@ -2,7 +2,7 @@
 layout: post
 title: 'Kingwin Damen -    Titan    Farblos blau mit 34.44 % Rabatt'
 date: 2020-01-19 02:34:03
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41i9gM36kPL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i9gM36kPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.8'
 
 Sie können [Kingwin Damen -    Titan    Farblos blau Opale ](https://www.amazon.de/dp/B06XZS7PYN/?tag=tolees0ca-21) mit Preis 11.8 EUR (original: 18 EUR) 34.44 % Rabatt hier:
 
-[![Kingwin Damen -    Titan    Farblos blau](https://images-eu.ssl-images-amazon.com/images/I/41i9gM36kPL._SL200_.jpg)](https://www.amazon.de/dp/B06XZS7PYN/?tag=tolees0ca-21)
+[![Kingwin Damen -    Titan    Farblos blau](https://images-eu.ssl-images-amazon.com/images/I/41i9gM36kPL._SL400_.jpg)](https://www.amazon.de/dp/B06XZS7PYN/?tag=tolees0ca-21)
 
 ℹ️:
 

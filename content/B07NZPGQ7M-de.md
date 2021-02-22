@@ -2,7 +2,7 @@
 layout: post
 title: 'BRIKSMAX Led Beleuchtungsset für Star Wa mit 43.11 % Rabatt'
 date: 2020-04-07 13:05:06
-image: 'https://m.media-amazon.com/images/I/51yCm8FDRdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51yCm8FDRdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '32.99'
 
 Sie können [BRIKSMAX Led Beleuchtungsset für Star Wars Millennium Falcon Spielzeug  Kompatibel Mit Lego 75105 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B07NZPGQ7M/?tag=tolees0ca-21) mit Preis 32.99 EUR (original: 57.99 EUR) 43.11 % Rabatt hier:
 
-[![BRIKSMAX Led Beleuchtungsset für Star Wa](https://m.media-amazon.com/images/I/51yCm8FDRdL._SL200_.jpg)](https://www.amazon.de/dp/B07NZPGQ7M/?tag=tolees0ca-21)
+[![BRIKSMAX Led Beleuchtungsset für Star Wa](https://m.media-amazon.com/images/I/51yCm8FDRdL._SL400_.jpg)](https://www.amazon.de/dp/B07NZPGQ7M/?tag=tolees0ca-21)
 
 ℹ️:
 

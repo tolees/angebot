@@ -2,7 +2,7 @@
 layout: post
 title: '26.00 % rabat auf LEGO DUPLO 10899 Disney Elsas Eispalast '
 date: 2020-08-24 17:16:41
-image: 'https://m.media-amazon.com/images/I/51MWxuoJa+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51MWxuoJa+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.309347826086956'
 
 Es gibt ein [LEGO DUPLO 10899 Disney Elsas Eispalast  Bausteine](https://www.amazon.de/dp/B07ND6CGGQ/?tag=tolees0ca-21) mit aktuellem Preis 36.06 EUR (original: 48.73 EUR) 26.00 % Rabatt hier:
 
-[![LEGO DUPLO 10899 Disney Elsas Eispalast ](https://m.media-amazon.com/images/I/51MWxuoJa+L._SL200_.jpg)](https://www.amazon.de/dp/B07ND6CGGQ/?tag=tolees0ca-21)
+[![LEGO DUPLO 10899 Disney Elsas Eispalast ](https://m.media-amazon.com/images/I/51MWxuoJa+L._SL400_.jpg)](https://www.amazon.de/dp/B07ND6CGGQ/?tag=tolees0ca-21)
 
 ℹ️:
 

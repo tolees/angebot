@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Herren CORE Stretch Slim  mit 33.38 % Rabatt'
 date: 2020-09-25 19:50:27
-image: 'https://m.media-amazon.com/images/I/31Spnll3CtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Spnll3CtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.847499999999997'
 
 Sie können [Tommy Hilfiger Herren CORE Stretch Slim Vneck Tee T-Shirt  Blau  Navy Blazer 416   Large](https://www.amazon.de/dp/B071HPJTSB/?tag=tolees0ca-21) mit Preis 19.92 EUR (original: 29.9 EUR) 33.38 % Rabatt hier:
 
-[![Tommy Hilfiger Herren CORE Stretch Slim ](https://m.media-amazon.com/images/I/31Spnll3CtL._SL200_.jpg)](https://www.amazon.de/dp/B071HPJTSB/?tag=tolees0ca-21)
+[![Tommy Hilfiger Herren CORE Stretch Slim ](https://m.media-amazon.com/images/I/31Spnll3CtL._SL400_.jpg)](https://www.amazon.de/dp/B071HPJTSB/?tag=tolees0ca-21)
 
 ℹ️:
 

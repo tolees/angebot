@@ -2,7 +2,7 @@
 layout: post
 title: 'Draper Expert 02753 Innenmessgerät 50-16 mit 24.44 % Rabatt'
 date: 2020-10-06 21:30:45
-image: 'https://m.media-amazon.com/images/I/51CK4MUr29L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51CK4MUr29L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '62.21'
 
 Sie können [Draper Expert 02753 Innenmessgerät 50-160 mm](https://www.amazon.de/dp/B004NOL95O/?tag=tolees0ca-21) mit Preis 62.21 EUR (original: 82.33 EUR) 24.44 % Rabatt hier:
 
-[![Draper Expert 02753 Innenmessgerät 50-16](https://m.media-amazon.com/images/I/51CK4MUr29L._SL200_.jpg)](https://www.amazon.de/dp/B004NOL95O/?tag=tolees0ca-21)
+[![Draper Expert 02753 Innenmessgerät 50-16](https://m.media-amazon.com/images/I/51CK4MUr29L._SL400_.jpg)](https://www.amazon.de/dp/B004NOL95O/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Hasbro - Kristallica  kindgerechtes Gesc mit 32.02 % Rabatt'
 date: 2020-06-11 13:53:21
-image: 'https://m.media-amazon.com/images/I/61WCiAM8jEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61WCiAM8jEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.19'
 
 Sie können [Hasbro - Kristallica  kindgerechtes Geschicklichkeitsspiel ab 3 Jahren](https://www.amazon.de/dp/B06XYHJR7C/?tag=tolees0ca-21) mit Preis 13.59 EUR (original: 19.99 EUR) 32.02 % Rabatt hier:
 
-[![Hasbro - Kristallica  kindgerechtes Gesc](https://m.media-amazon.com/images/I/61WCiAM8jEL._SL200_.jpg)](https://www.amazon.de/dp/B06XYHJR7C/?tag=tolees0ca-21)
+[![Hasbro - Kristallica  kindgerechtes Gesc](https://m.media-amazon.com/images/I/61WCiAM8jEL._SL400_.jpg)](https://www.amazon.de/dp/B06XYHJR7C/?tag=tolees0ca-21)
 
 ℹ️:
 

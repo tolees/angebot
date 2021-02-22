@@ -2,7 +2,7 @@
 layout: post
 title: 'Anker Nebula Capsule Max  Mini Projektor mit 20.00 % Rabatt'
 date: 2020-08-31 09:18:24
-image: 'https://m.media-amazon.com/images/I/418ipOj91PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418ipOj91PL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '399.99'
 
 Sie können [Anker Nebula Capsule Max  Mini Projektor in Pint-Größe  Beamer mit WLAN und 200 ANSI Lumen  8W Lautsprecher  100 Zoll Bildformat  4 Stunden Wiedergabezeit  ideal für zu Hause  Home Entertainment](https://www.amazon.de/dp/B07V29NTNX/?tag=tolees0ca-21) mit Preis 399.99 EUR (original: 499.99 EUR) 20.00 % Rabatt hier:
 
-[![Anker Nebula Capsule Max  Mini Projektor](https://m.media-amazon.com/images/I/418ipOj91PL._SL200_.jpg)](https://www.amazon.de/dp/B07V29NTNX/?tag=tolees0ca-21)
+[![Anker Nebula Capsule Max  Mini Projektor](https://m.media-amazon.com/images/I/418ipOj91PL._SL400_.jpg)](https://www.amazon.de/dp/B07V29NTNX/?tag=tolees0ca-21)
 
 ℹ️:
 

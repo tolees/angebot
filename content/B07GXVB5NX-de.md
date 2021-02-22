@@ -2,7 +2,7 @@
 layout: post
 title: 'Timezone Herren Slim ScottTZ Shorts  Bla mit 44.42 % Rabatt'
 date: 2020-01-13 19:05:45
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41tuKrx5z0L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tuKrx5z0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.99'
 
 Sie können [Timezone Herren Slim ScottTZ Shorts  Blau  Used Bright Blue wash 3348   W30/L34](https://www.amazon.de/dp/B07GXVB5NX/?tag=tolees0ca-21) mit Preis 49.99 EUR (original: 89.95 EUR) 44.42 % Rabatt hier:
 
-[![Timezone Herren Slim ScottTZ Shorts  Bla](https://images-eu.ssl-images-amazon.com/images/I/41tuKrx5z0L._SL200_.jpg)](https://www.amazon.de/dp/B07GXVB5NX/?tag=tolees0ca-21)
+[![Timezone Herren Slim ScottTZ Shorts  Bla](https://images-eu.ssl-images-amazon.com/images/I/41tuKrx5z0L._SL400_.jpg)](https://www.amazon.de/dp/B07GXVB5NX/?tag=tolees0ca-21)
 
 ℹ️:
 

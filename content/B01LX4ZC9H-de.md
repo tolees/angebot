@@ -2,7 +2,7 @@
 layout: post
 title: 'Playmobil 9224 - Spengler und Geist mit 49.05 % Rabatt'
 date: 2020-02-15 15:27:29
-image: 'https://m.media-amazon.com/images/I/61cxX7rMNhL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61cxX7rMNhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.86'
 
 Sie können [Playmobil 9224 - Spengler und Geist](https://www.amazon.de/dp/B01LX4ZC9H/?tag=tolees0ca-21) mit Preis 4.58 EUR (original: 8.99 EUR) 49.05 % Rabatt hier:
 
-[![Playmobil 9224 - Spengler und Geist](https://m.media-amazon.com/images/I/61cxX7rMNhL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01LX4ZC9H/?tag=tolees0ca-21)
+[![Playmobil 9224 - Spengler und Geist](https://m.media-amazon.com/images/I/61cxX7rMNhL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01LX4ZC9H/?tag=tolees0ca-21)
 
 ℹ️:
 

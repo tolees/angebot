@@ -2,7 +2,7 @@
 layout: post
 title: 'Playmobil 70090 Family Fun Wassersport-S mit 32.01 % Rabatt'
 date: 2020-04-03 13:06:06
-image: 'https://m.media-amazon.com/images/I/41IJjs7KzYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IJjs7KzYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.425'
 
 Sie können [Playmobil 70090 Family Fun Wassersport-Schule  bunt](https://www.amazon.de/dp/B07JLFKJTC/?tag=tolees0ca-21) mit Preis 16.99 EUR (original: 24.99 EUR) 32.01 % Rabatt hier:
 
-[![Playmobil 70090 Family Fun Wassersport-S](https://m.media-amazon.com/images/I/41IJjs7KzYL._SL200_.jpg)](https://www.amazon.de/dp/B07JLFKJTC/?tag=tolees0ca-21)
+[![Playmobil 70090 Family Fun Wassersport-S](https://m.media-amazon.com/images/I/41IJjs7KzYL._SL400_.jpg)](https://www.amazon.de/dp/B07JLFKJTC/?tag=tolees0ca-21)
 
 ℹ️:
 

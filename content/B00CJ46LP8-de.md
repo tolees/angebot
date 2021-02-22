@@ -2,7 +2,7 @@
 layout: post
 title: '16.19 % rabat auf Jamara 403071 - BMW M3 Sport 1:14  schwa'
 date: 2020-01-29 20:02:51
-image: 'https://m.media-amazon.com/images/I/410O85b+b2L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410O85b+b2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.0'
 
 Es gibt ein [Jamara 403071 - BMW M3 Sport 1:14  schwarz](https://www.amazon.de/dp/B00CJ46LP8/?tag=tolees0ca-21) mit aktuellem Preis 31.0 EUR (original: 36.99 EUR) 16.19 % Rabatt hier:
 
-[![Jamara 403071 - BMW M3 Sport 1:14  schwa](https://m.media-amazon.com/images/I/410O85b+b2L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00CJ46LP8/?tag=tolees0ca-21)
+[![Jamara 403071 - BMW M3 Sport 1:14  schwa](https://m.media-amazon.com/images/I/410O85b+b2L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00CJ46LP8/?tag=tolees0ca-21)
 
 ℹ️:
 

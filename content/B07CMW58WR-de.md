@@ -2,7 +2,7 @@
 layout: post
 title: '62.55 % rabat auf De Longhi Nespresso Vertuo Plus | ENV 15'
 date: 2020-03-03 12:50:53
-image: 'https://m.media-amazon.com/images/I/31K6rH5z5mL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31K6rH5z5mL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '74.9'
 
 Es gibt ein [De Longhi Nespresso Vertuo Plus | ENV 155.B Kaffeekapselmaschine | Eine Kaffeemaschine  5 Tassengrößen | Inkl. Willkommenspaket mit 12 Kapseln | 1 7 L | schwarz](https://www.amazon.de/dp/B07CMW58WR/?tag=tolees0ca-21) mit aktuellem Preis 74.9 EUR (original: 199.99 EUR) 62.55 % Rabatt hier:
 
-[![De Longhi Nespresso Vertuo Plus | ENV 15](https://m.media-amazon.com/images/I/31K6rH5z5mL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07CMW58WR/?tag=tolees0ca-21)
+[![De Longhi Nespresso Vertuo Plus | ENV 15](https://m.media-amazon.com/images/I/31K6rH5z5mL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07CMW58WR/?tag=tolees0ca-21)
 
 ℹ️:
 

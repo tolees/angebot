@@ -2,7 +2,7 @@
 layout: post
 title: 'VATOS Ferngesteuertes Auto RC Off-Road B mit 30.72 % Rabatt'
 date: 2020-03-29 13:02:22
-image: 'https://m.media-amazon.com/images/I/51tOCv-OmnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51tOCv-OmnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '89.56142857142856'
 
 Sie können [VATOS Ferngesteuertes Auto RC Off-Road Buggy Auto 1:16 Maßstab 36km/h 4WD 2 4GHz Funkfernsteuerung Elektro Geländewagen für Outdoor Umgebung Draußen Spielzeug Auto für Erwachsene und Kinder](https://www.amazon.de/dp/B07GVL3G73/?tag=tolees0ca-21) mit Preis 96.99 EUR (original: 139.99 EUR) 30.72 % Rabatt hier:
 
-[![VATOS Ferngesteuertes Auto RC Off-Road B](https://m.media-amazon.com/images/I/51tOCv-OmnL._SL200_.jpg)](https://www.amazon.de/dp/B07GVL3G73/?tag=tolees0ca-21)
+[![VATOS Ferngesteuertes Auto RC Off-Road B](https://m.media-amazon.com/images/I/51tOCv-OmnL._SL400_.jpg)](https://www.amazon.de/dp/B07GVL3G73/?tag=tolees0ca-21)
 
 ℹ️:
 

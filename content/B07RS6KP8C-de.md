@@ -2,7 +2,7 @@
 layout: post
 title: '44.15 % rabat auf Maxi-Cosi Kore i-Size Kindersitz  mitwac'
 date: 2020-05-24 11:17:24
-image: 'https://m.media-amazon.com/images/I/41gry-C9SiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gry-C9SiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '133.99'
 
 Es gibt ein [Maxi-Cosi Kore i-Size Kindersitz  mitwachsender Gruppe 2/3 Autositz mit ISOFIX  15-36 kg   Kinderautositz mit max. Seitenaufprallschutz  ab ca. 3  5 Jahre bis ca 12 Jahre  authentic graphite  grau ](https://www.amazon.de/dp/B07RS6KP8C/?tag=tolees0ca-21) mit aktuellem Preis 133.99 EUR (original: 239.9 EUR) 44.15 % Rabatt hier:
 
-[![Maxi-Cosi Kore i-Size Kindersitz  mitwac](https://m.media-amazon.com/images/I/41gry-C9SiL._SL200_.jpg)](https://www.amazon.de/dp/B07RS6KP8C/?tag=tolees0ca-21)
+[![Maxi-Cosi Kore i-Size Kindersitz  mitwac](https://m.media-amazon.com/images/I/41gry-C9SiL._SL400_.jpg)](https://www.amazon.de/dp/B07RS6KP8C/?tag=tolees0ca-21)
 
 ℹ️:
 

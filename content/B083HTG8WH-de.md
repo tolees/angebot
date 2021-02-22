@@ -2,7 +2,7 @@
 layout: post
 title: '50.00 % rabat auf DXX Technik Bausteine Liebherr Kran LTM1'
 date: 2020-04-11 16:22:04
-image: 'https://m.media-amazon.com/images/I/51e888rnPJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51e888rnPJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '719.99'
 
 Es gibt ein [DXX Technik Bausteine Liebherr Kran LTM11200  7705Teile Kran LKW Technik Modellbaukasten mit Fernbedienung und Motor Konstruktionsspielzeug Kompatibel mit Lego Technic](https://www.amazon.de/dp/B083HTG8WH/?tag=tolees0ca-21) mit aktuellem Preis 719.99 EUR (original: 1439.98 EUR) 50.00 % Rabatt hier:
 
-[![DXX Technik Bausteine Liebherr Kran LTM1](https://m.media-amazon.com/images/I/51e888rnPJL._SL200_.jpg)](https://www.amazon.de/dp/B083HTG8WH/?tag=tolees0ca-21)
+[![DXX Technik Bausteine Liebherr Kran LTM1](https://m.media-amazon.com/images/I/51e888rnPJL._SL400_.jpg)](https://www.amazon.de/dp/B083HTG8WH/?tag=tolees0ca-21)
 
 ℹ️:
 

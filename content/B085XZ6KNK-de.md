@@ -2,7 +2,7 @@
 layout: post
 title: '45.12 % rabat auf Dittzz Technic Avtoros Shaman 8x8 Off-Ro'
 date: 2020-04-08 05:33:48
-image: 'https://m.media-amazon.com/images/I/51WieF8D5zL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51WieF8D5zL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '207.99'
 
 Es gibt ein [Dittzz Technic Avtoros Shaman 8x8 Off-Roader Modell  2.4Ghz RC Auto 1:8 Geländewagen Bauset   2615 Teile Bausteine Kompatibel mit Lego Technic](https://www.amazon.de/dp/B085XZ6KNK/?tag=tolees0ca-21) mit aktuellem Preis 207.99 EUR (original: 378.99 EUR) 45.12 % Rabatt hier:
 
-[![Dittzz Technic Avtoros Shaman 8x8 Off-Ro](https://m.media-amazon.com/images/I/51WieF8D5zL._SL200_.jpg)](https://www.amazon.de/dp/B085XZ6KNK/?tag=tolees0ca-21)
+[![Dittzz Technic Avtoros Shaman 8x8 Off-Ro](https://m.media-amazon.com/images/I/51WieF8D5zL._SL400_.jpg)](https://www.amazon.de/dp/B085XZ6KNK/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Bierothek® Bierpaket Emelisse  12 Flasch mit 18.21 % Rabatt'
 date: 2020-04-15 07:33:21
-image: 'https://m.media-amazon.com/images/I/41CAD1RDVAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CAD1RDVAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.9'
 
 Sie können [Bierothek® Bierpaket Emelisse  12 Flaschen Craft Bier | außergewöhnliches Geschenk ](https://www.amazon.de/dp/B07RRQDYSZ/?tag=tolees0ca-21) mit Preis 44.9 EUR (original: 54.9 EUR) 18.21 % Rabatt hier:
 
-[![Bierothek® Bierpaket Emelisse  12 Flasch](https://m.media-amazon.com/images/I/41CAD1RDVAL._SL200_.jpg)](https://www.amazon.de/dp/B07RRQDYSZ/?tag=tolees0ca-21)
+[![Bierothek® Bierpaket Emelisse  12 Flasch](https://m.media-amazon.com/images/I/41CAD1RDVAL._SL400_.jpg)](https://www.amazon.de/dp/B07RRQDYSZ/?tag=tolees0ca-21)
 
 ℹ️:
 

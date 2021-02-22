@@ -2,7 +2,7 @@
 layout: post
 title: '21.42 % rabat auf Sebamed Trockene Haut Lotion Urea Akut 2'
 date: 2020-02-03 04:55:15
-image: 'https://m.media-amazon.com/images/I/41+Qf1ftRqL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+Qf1ftRqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.99'
 
 Es gibt ein [Sebamed Trockene Haut Lotion Urea Akut 200ml](https://www.amazon.de/dp/B001BEGGU2/?tag=tolees0ca-21) mit aktuellem Preis 4.99 EUR (original: 6.35 EUR) 21.42 % Rabatt hier:
 
-[![Sebamed Trockene Haut Lotion Urea Akut 2](https://m.media-amazon.com/images/I/41+Qf1ftRqL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B001BEGGU2/?tag=tolees0ca-21)
+[![Sebamed Trockene Haut Lotion Urea Akut 2](https://m.media-amazon.com/images/I/41+Qf1ftRqL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B001BEGGU2/?tag=tolees0ca-21)
 
 ℹ️:
 

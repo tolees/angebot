@@ -2,7 +2,7 @@
 layout: post
 title: 'Playmobil 6930 - Reitturnier mit 23.07 % Rabatt'
 date: 2020-04-18 00:02:44
-image: 'https://m.media-amazon.com/images/I/61hJU5kFhEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61hJU5kFhEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.303846153846152'
 
 Sie können [Playmobil 6930 - Reitturnier](https://www.amazon.de/dp/B06X6NMQT9/?tag=tolees0ca-21) mit Preis 23.07 EUR (original: 29.99 EUR) 23.07 % Rabatt hier:
 
-[![Playmobil 6930 - Reitturnier](https://m.media-amazon.com/images/I/61hJU5kFhEL._SL200_.jpg)](https://www.amazon.de/dp/B06X6NMQT9/?tag=tolees0ca-21)
+[![Playmobil 6930 - Reitturnier](https://m.media-amazon.com/images/I/61hJU5kFhEL._SL400_.jpg)](https://www.amazon.de/dp/B06X6NMQT9/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch Akku Staubsauger UniversalVac 18   mit 42.00 % Rabatt'
 date: 2020-02-24 00:43:25
-image: 'https://m.media-amazon.com/images/I/41JEApRBVnL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JEApRBVnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '86.99'
 
 Sie können [Bosch Akku Staubsauger UniversalVac 18  2 5 Ah Akku  18 Volt System  im Karton ](https://www.amazon.de/dp/B07JYK3DQN/?tag=tolees0ca-21) mit Preis 86.99 EUR (original: 149.99 EUR) 42.00 % Rabatt hier:
 
-[![Bosch Akku Staubsauger UniversalVac 18  ](https://m.media-amazon.com/images/I/41JEApRBVnL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07JYK3DQN/?tag=tolees0ca-21)
+[![Bosch Akku Staubsauger UniversalVac 18  ](https://m.media-amazon.com/images/I/41JEApRBVnL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07JYK3DQN/?tag=tolees0ca-21)
 
 ℹ️:
 

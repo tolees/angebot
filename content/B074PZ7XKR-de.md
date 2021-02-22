@@ -2,7 +2,7 @@
 layout: post
 title: 'OSRAM Smart+ Mini Switch Blau  ZigBee Li mit 67.63 % Rabatt'
 date: 2020-03-19 05:12:37
-image: 'https://m.media-amazon.com/images/I/31d0sRDudRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31d0sRDudRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.09'
 
 Sie können [OSRAM Smart+ Mini Switch Blau  ZigBee Lichtschalter  Dimmer und Fernbedienung für LED Lampen  Erweiterung für Ihr Smart Home](https://www.amazon.de/dp/B074PZ7XKR/?tag=tolees0ca-21) mit Preis 8.09 EUR (original: 24.99 EUR) 67.63 % Rabatt hier:
 
-[![OSRAM Smart+ Mini Switch Blau  ZigBee Li](https://m.media-amazon.com/images/I/31d0sRDudRL._SL200_.jpg)](https://www.amazon.de/dp/B074PZ7XKR/?tag=tolees0ca-21)
+[![OSRAM Smart+ Mini Switch Blau  ZigBee Li](https://m.media-amazon.com/images/I/31d0sRDudRL._SL400_.jpg)](https://www.amazon.de/dp/B074PZ7XKR/?tag=tolees0ca-21)
 
 ℹ️:
 

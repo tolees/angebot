@@ -2,7 +2,7 @@
 layout: post
 title: '38.34 % rabat auf LED Einbaustrahler Dimmbar Schwenkbar Ul'
 date: 2020-08-20 23:05:35
-image: 'https://m.media-amazon.com/images/I/51dK2NlLmNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51dK2NlLmNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.99'
 
 Es gibt ein [LED Einbaustrahler Dimmbar Schwenkbar Ultra Flach 5er Set 5W LED Modul IP44 230 Volt 550lm Warmweiss Einbauleuchten für Bad  Küche  Wohnzimmer](https://www.amazon.de/dp/B07X5RQBN6/?tag=tolees0ca-21) mit aktuellem Preis 36.99 EUR (original: 59.99 EUR) 38.34 % Rabatt hier:
 
-[![LED Einbaustrahler Dimmbar Schwenkbar Ul](https://m.media-amazon.com/images/I/51dK2NlLmNL._SL200_.jpg)](https://www.amazon.de/dp/B07X5RQBN6/?tag=tolees0ca-21)
+[![LED Einbaustrahler Dimmbar Schwenkbar Ul](https://m.media-amazon.com/images/I/51dK2NlLmNL._SL400_.jpg)](https://www.amazon.de/dp/B07X5RQBN6/?tag=tolees0ca-21)
 
 ℹ️:
 

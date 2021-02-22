@@ -2,7 +2,7 @@
 layout: post
 title: 'OLI-NATURA Projektöl für innen  speziell mit 21.58 % Rabatt'
 date: 2020-09-14 12:52:53
-image: 'https://m.media-amazon.com/images/I/51U4pfGiS2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51U4pfGiS2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.52'
 
 Sie können [OLI-NATURA Projektöl für innen  speziell für Möbel  Parkett und Treppen aus Holz    1 Liter   Farblos](https://www.amazon.de/dp/B00AJGL1TE/?tag=tolees0ca-21) mit Preis 13.52 EUR (original: 17.24 EUR) 21.58 % Rabatt hier:
 
-[![OLI-NATURA Projektöl für innen  speziell](https://m.media-amazon.com/images/I/51U4pfGiS2L._SL200_.jpg)](https://www.amazon.de/dp/B00AJGL1TE/?tag=tolees0ca-21)
+[![OLI-NATURA Projektöl für innen  speziell](https://m.media-amazon.com/images/I/51U4pfGiS2L._SL400_.jpg)](https://www.amazon.de/dp/B00AJGL1TE/?tag=tolees0ca-21)
 
 ℹ️:
 

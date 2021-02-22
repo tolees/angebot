@@ -2,7 +2,7 @@
 layout: post
 title: '33.90 % rabat auf New Balance Herren 997H Core Trainers  G'
 date: 2020-09-22 01:43:15
-image: 'https://m.media-amazon.com/images/I/412kjS1+KVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412kjS1+KVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.49'
 
 Es gibt ein [New Balance Herren 997H Core Trainers  Grau  Marblehead   43.5 EU](https://www.amazon.de/dp/B07BL38DSY/?tag=tolees0ca-21) mit aktuellem Preis 59.49 EUR (original: 90.0 EUR) 33.90 % Rabatt hier:
 
-[![New Balance Herren 997H Core Trainers  G](https://m.media-amazon.com/images/I/412kjS1+KVL._SL200_.jpg)](https://www.amazon.de/dp/B07BL38DSY/?tag=tolees0ca-21)
+[![New Balance Herren 997H Core Trainers  G](https://m.media-amazon.com/images/I/412kjS1+KVL._SL400_.jpg)](https://www.amazon.de/dp/B07BL38DSY/?tag=tolees0ca-21)
 
 ℹ️:
 

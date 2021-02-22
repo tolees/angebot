@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko POP! Vinyl: Dragonball Z S6: Kid B mit 33.92 % Rabatt'
 date: 2020-10-01 14:51:29
-image: 'https://m.media-amazon.com/images/I/31eiMVPKwcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31eiMVPKwcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.272499999999999'
 
 Sie können [Funko POP! Vinyl: Dragonball Z S6: Kid Buu  Mehrfarben  Einheitsgröße](https://www.amazon.de/dp/B07MZPPTTM/?tag=tolees0ca-21) mit Preis 8.26 EUR (original: 12.5 EUR) 33.92 % Rabatt hier:
 
-[![Funko POP! Vinyl: Dragonball Z S6: Kid B](https://m.media-amazon.com/images/I/31eiMVPKwcL._SL200_.jpg)](https://www.amazon.de/dp/B07MZPPTTM/?tag=tolees0ca-21)
+[![Funko POP! Vinyl: Dragonball Z S6: Kid B](https://m.media-amazon.com/images/I/31eiMVPKwcL._SL400_.jpg)](https://www.amazon.de/dp/B07MZPPTTM/?tag=tolees0ca-21)
 
 ℹ️:
 

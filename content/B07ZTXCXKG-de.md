@@ -2,7 +2,7 @@
 layout: post
 title: 'PLAYMOBIL Top Agents 70232 Arctic Rebels mit 28.16 % Rabatt'
 date: 2020-04-07 21:46:13
-image: 'https://m.media-amazon.com/images/I/61ruYG4e7jL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61ruYG4e7jL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.128611111111113'
 
 Sie können [PLAYMOBIL Top Agents 70232 Arctic Rebels Eistrike  Ab 6 Jahren](https://www.amazon.de/dp/B07ZTXCXKG/?tag=tolees0ca-21) mit Preis 28.73 EUR (original: 39.99 EUR) 28.16 % Rabatt hier:
 
-[![PLAYMOBIL Top Agents 70232 Arctic Rebels](https://m.media-amazon.com/images/I/61ruYG4e7jL._SL200_.jpg)](https://www.amazon.de/dp/B07ZTXCXKG/?tag=tolees0ca-21)
+[![PLAYMOBIL Top Agents 70232 Arctic Rebels](https://m.media-amazon.com/images/I/61ruYG4e7jL._SL400_.jpg)](https://www.amazon.de/dp/B07ZTXCXKG/?tag=tolees0ca-21)
 
 ℹ️:
 

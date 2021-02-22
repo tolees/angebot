@@ -2,7 +2,7 @@
 layout: post
 title: 'Razer Electra V2 USB - Digitales Gaming  mit 31.43 % Rabatt'
 date: 2020-03-25 19:05:57
-image: 'https://m.media-amazon.com/images/I/31O6anX4NwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31O6anX4NwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.99666666666667'
 
 Sie können [Razer Electra V2 USB - Digitales Gaming Headset  für Gamer und Musik  Individuell eingestellte 40 mm-Treiber  Virtueller 7.1 Sound und Unibody-Rahmen aus Alumnium ](https://www.amazon.de/dp/B076QB4VV3/?tag=tolees0ca-21) mit Preis 47.99 EUR (original: 69.99 EUR) 31.43 % Rabatt hier:
 
-[![Razer Electra V2 USB - Digitales Gaming ](https://m.media-amazon.com/images/I/31O6anX4NwL._SL200_.jpg)](https://www.amazon.de/dp/B076QB4VV3/?tag=tolees0ca-21)
+[![Razer Electra V2 USB - Digitales Gaming ](https://m.media-amazon.com/images/I/31O6anX4NwL._SL400_.jpg)](https://www.amazon.de/dp/B076QB4VV3/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips HR2382/15 Pastamaker  200 W  vol mit 24.54 % Rabatt'
 date: 2020-07-13 11:33:43
-image: 'https://m.media-amazon.com/images/I/41hRBgqCyRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hRBgqCyRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '160.32333333333335'
 
 Sie können [Philips HR2382/15 Pastamaker  200 W  vollautomatische Nudelmaschine  mit Wiegefunktion und 8 Formscheiben  kaschmirgrau](https://www.amazon.de/dp/B07FKJKCZM/?tag=tolees0ca-21) mit Preis 162.99 EUR (original: 215.99 EUR) 24.54 % Rabatt hier:
 
-[![Philips HR2382/15 Pastamaker  200 W  vol](https://m.media-amazon.com/images/I/41hRBgqCyRL._SL200_.jpg)](https://www.amazon.de/dp/B07FKJKCZM/?tag=tolees0ca-21)
+[![Philips HR2382/15 Pastamaker  200 W  vol](https://m.media-amazon.com/images/I/41hRBgqCyRL._SL400_.jpg)](https://www.amazon.de/dp/B07FKJKCZM/?tag=tolees0ca-21)
 
 ℹ️:
 

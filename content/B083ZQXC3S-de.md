@@ -2,7 +2,7 @@
 layout: post
 title: 'Dittzz Acryl Vitrine  Staubdicht Schauka mit 30.38 % Rabatt'
 date: 2020-04-07 21:34:34
-image: 'https://m.media-amazon.com/images/I/41RFfJJO5yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RFfJJO5yL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '109.99'
 
 Sie können [Dittzz Acryl Vitrine  Staubdicht Schaukasten Display Case für Lego 21320 Dinosaurier Fossilien  Ohne Lego-Modelle ](https://www.amazon.de/dp/B083ZQXC3S/?tag=tolees0ca-21) mit Preis 109.99 EUR (original: 157.99 EUR) 30.38 % Rabatt hier:
 
-[![Dittzz Acryl Vitrine  Staubdicht Schauka](https://m.media-amazon.com/images/I/41RFfJJO5yL._SL200_.jpg)](https://www.amazon.de/dp/B083ZQXC3S/?tag=tolees0ca-21)
+[![Dittzz Acryl Vitrine  Staubdicht Schauka](https://m.media-amazon.com/images/I/41RFfJJO5yL._SL400_.jpg)](https://www.amazon.de/dp/B083ZQXC3S/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Desinfektionsmittel Hand 100ml - Hände D mit 43.93 % Rabatt'
 date: 2020-09-27 08:37:43
-image: 'https://m.media-amazon.com/images/I/316H1046q-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316H1046q-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.945'
 
 Sie können [Desinfektionsmittel Hand 100ml - Hände Desinfektionsmittel für unterwegs - Pflegende Handdesinfektion mit Aloe Vera - Desinfektionsgel Alternative](https://www.amazon.de/dp/B00K81CUMC/?tag=tolees0ca-21) mit Preis 4.99 EUR (original: 8.9 EUR) 43.93 % Rabatt hier:
 
-[![Desinfektionsmittel Hand 100ml - Hände D](https://m.media-amazon.com/images/I/316H1046q-L._SL200_.jpg)](https://www.amazon.de/dp/B00K81CUMC/?tag=tolees0ca-21)
+[![Desinfektionsmittel Hand 100ml - Hände D](https://m.media-amazon.com/images/I/316H1046q-L._SL400_.jpg)](https://www.amazon.de/dp/B00K81CUMC/?tag=tolees0ca-21)
 
 ℹ️:
 

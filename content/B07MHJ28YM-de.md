@@ -2,7 +2,7 @@
 layout: post
 title: '23.03 % rabat auf Bang & Olufsen Beoplay E8 2.0 - 100% kab'
 date: 2020-05-02 07:28:19
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41GXTwySK9L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GXTwySK9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '269.39'
 
 Es gibt ein [Bang & Olufsen Beoplay E8 2.0 - 100% kabellose Bluetooth-Earbuds und Ladeschale  schwarz](https://www.amazon.de/dp/B07MHJ28YM/?tag=tolees0ca-21) mit aktuellem Preis 269.39 EUR (original: 350 EUR) 23.03 % Rabatt hier:
 
-[![Bang & Olufsen Beoplay E8 2.0 - 100% kab](https://images-eu.ssl-images-amazon.com/images/I/41GXTwySK9L._SL200_.jpg)](https://www.amazon.de/dp/B07MHJ28YM/?tag=tolees0ca-21)
+[![Bang & Olufsen Beoplay E8 2.0 - 100% kab](https://images-eu.ssl-images-amazon.com/images/I/41GXTwySK9L._SL400_.jpg)](https://www.amazon.de/dp/B07MHJ28YM/?tag=tolees0ca-21)
 
 ℹ️:
 

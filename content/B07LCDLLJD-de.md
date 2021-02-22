@@ -2,7 +2,7 @@
 layout: post
 title: 'BRIKSMAX Parisian Restaurant Led Beleuch mit 41.67 % Rabatt'
 date: 2020-03-05 10:25:36
-image: 'https://m.media-amazon.com/images/I/51gBCLIU-gL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51gBCLIU-gL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.99'
 
 Sie können [BRIKSMAX Parisian Restaurant Led Beleuchtungsset - Kompatibel Mit Lego 10243 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B07LCDLLJD/?tag=tolees0ca-21) mit Preis 34.99 EUR (original: 59.99 EUR) 41.67 % Rabatt hier:
 
-[![BRIKSMAX Parisian Restaurant Led Beleuch](https://m.media-amazon.com/images/I/51gBCLIU-gL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07LCDLLJD/?tag=tolees0ca-21)
+[![BRIKSMAX Parisian Restaurant Led Beleuch](https://m.media-amazon.com/images/I/51gBCLIU-gL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07LCDLLJD/?tag=tolees0ca-21)
 
 ℹ️:
 

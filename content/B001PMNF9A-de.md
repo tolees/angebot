@@ -2,7 +2,7 @@
 layout: post
 title: 'MONACOR WS-60 Mikrofon-Windschutz für Mi mit 27.32 % Rabatt'
 date: 2020-02-21 04:46:36
-image: 'https://m.media-amazon.com/images/I/51FlvAVs7WL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51FlvAVs7WL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.99'
 
 Sie können [MONACOR WS-60 Mikrofon-Windschutz für Mikrofone schwarz](https://www.amazon.de/dp/B001PMNF9A/?tag=tolees0ca-21) mit Preis 3.99 EUR (original: 5.49 EUR) 27.32 % Rabatt hier:
 
-[![MONACOR WS-60 Mikrofon-Windschutz für Mi](https://m.media-amazon.com/images/I/51FlvAVs7WL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B001PMNF9A/?tag=tolees0ca-21)
+[![MONACOR WS-60 Mikrofon-Windschutz für Mi](https://m.media-amazon.com/images/I/51FlvAVs7WL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B001PMNF9A/?tag=tolees0ca-21)
 
 ℹ️:
 

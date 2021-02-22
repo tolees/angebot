@@ -2,7 +2,7 @@
 layout: post
 title: '28.71 % rabat auf Jack Wolfskin Unisex-Erwachsene Warwick '
 date: 2020-03-19 11:47:56
-image: 'https://m.media-amazon.com/images/I/41r4OyGMjoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41r4OyGMjoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.48'
 
 Es gibt ein [Jack Wolfskin Unisex-Erwachsene Warwick Ave sac à bandoulière Tasche  Blau  Night Blue   One Size](https://www.amazon.de/dp/B07DVSG7W6/?tag=tolees0ca-21) mit aktuellem Preis 28.48 EUR (original: 39.95 EUR) 28.71 % Rabatt hier:
 
-[![Jack Wolfskin Unisex-Erwachsene Warwick ](https://m.media-amazon.com/images/I/41r4OyGMjoL._SL200_.jpg)](https://www.amazon.de/dp/B07DVSG7W6/?tag=tolees0ca-21)
+[![Jack Wolfskin Unisex-Erwachsene Warwick ](https://m.media-amazon.com/images/I/41r4OyGMjoL._SL400_.jpg)](https://www.amazon.de/dp/B07DVSG7W6/?tag=tolees0ca-21)
 
 ℹ️:
 

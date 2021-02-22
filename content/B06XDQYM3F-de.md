@@ -2,7 +2,7 @@
 layout: post
 title: 'DESIRES Tilda Damen Weste Outdoor-Weste  mit 20.02 % Rabatt'
 date: 2020-10-11 08:07:17
-image: 'https://m.media-amazon.com/images/I/41I0mfj8LjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41I0mfj8LjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.95'
 
 Sie können [DESIRES Tilda Damen Weste Outdoor-Weste Mit Kapuze Und Stehkragen  Größe:XS  Farbe:Cinnamon  5056 ](https://www.amazon.de/dp/B06XDQYM3F/?tag=tolees0ca-21) mit Preis 43.95 EUR (original: 54.95 EUR) 20.02 % Rabatt hier:
 
-[![DESIRES Tilda Damen Weste Outdoor-Weste ](https://m.media-amazon.com/images/I/41I0mfj8LjL._SL200_.jpg)](https://www.amazon.de/dp/B06XDQYM3F/?tag=tolees0ca-21)
+[![DESIRES Tilda Damen Weste Outdoor-Weste ](https://m.media-amazon.com/images/I/41I0mfj8LjL._SL400_.jpg)](https://www.amazon.de/dp/B06XDQYM3F/?tag=tolees0ca-21)
 
 ℹ️:
 

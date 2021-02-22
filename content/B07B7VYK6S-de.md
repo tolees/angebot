@@ -2,7 +2,7 @@
 layout: post
 title: '58.84 % rabat auf Dickie Toys Fire Rescue Unit  Feuerwehra'
 date: 2020-04-07 21:42:50
-image: 'https://m.media-amazon.com/images/I/41NrQ+VCL4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NrQ+VCL4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.64'
 
 Es gibt ein [Dickie Toys Fire Rescue Unit  Feuerwehrauto  Spielzeugauto  Feuerwehr  bewegliche und ausfahrbare Leiter  Licht & Sound  inkl. Batterien  30 cm groß  ab 3 Jahren](https://www.amazon.de/dp/B07B7VYK6S/?tag=tolees0ca-21) mit aktuellem Preis 8.64 EUR (original: 20.99 EUR) 58.84 % Rabatt hier:
 
-[![Dickie Toys Fire Rescue Unit  Feuerwehra](https://m.media-amazon.com/images/I/41NrQ+VCL4L._SL200_.jpg)](https://www.amazon.de/dp/B07B7VYK6S/?tag=tolees0ca-21)
+[![Dickie Toys Fire Rescue Unit  Feuerwehra](https://m.media-amazon.com/images/I/41NrQ+VCL4L._SL400_.jpg)](https://www.amazon.de/dp/B07B7VYK6S/?tag=tolees0ca-21)
 
 ℹ️:
 

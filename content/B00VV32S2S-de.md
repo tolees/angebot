@@ -2,7 +2,7 @@
 layout: post
 title: '25.01 % rabat auf TaoTronics Schreibtischlampe LED 12W Bür'
 date: 2020-03-02 16:54:02
-image: 'https://m.media-amazon.com/images/I/416f0QR4NkL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416f0QR4NkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Es gibt ein [TaoTronics Schreibtischlampe LED 12W Büro Tischleuchte 5 Farb und 7 Helligkeitsstufen dimmbar Memory-Funktion USB-Anschluss für Aufladung des Smartphones Tischlampe Augenschutz Touchfeldbedienung](https://www.amazon.de/dp/B00VV32S2S/?tag=tolees0ca-21) mit aktuellem Preis 29.99 EUR (original: 39.99 EUR) 25.01 % Rabatt hier:
 
-[![TaoTronics Schreibtischlampe LED 12W Bür](https://m.media-amazon.com/images/I/416f0QR4NkL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00VV32S2S/?tag=tolees0ca-21)
+[![TaoTronics Schreibtischlampe LED 12W Bür](https://m.media-amazon.com/images/I/416f0QR4NkL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00VV32S2S/?tag=tolees0ca-21)
 
 ℹ️:
 

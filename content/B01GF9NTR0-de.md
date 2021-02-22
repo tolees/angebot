@@ -2,7 +2,7 @@
 layout: post
 title: '37.10 % rabat auf Advanced Chemistry'
 date: 2020-09-30 06:35:21
-image: 'https://m.media-amazon.com/images/I/61u+2B5qWXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61u+2B5qWXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.9'
 
 Es gibt ein [Advanced Chemistry](https://www.amazon.de/dp/B01GF9NTR0/?tag=tolees0ca-21) mit aktuellem Preis 4.9 EUR (original: 7.79 EUR) 37.10 % Rabatt hier:
 
-[![Advanced Chemistry](https://m.media-amazon.com/images/I/61u+2B5qWXL._SL200_.jpg)](https://www.amazon.de/dp/B01GF9NTR0/?tag=tolees0ca-21)
+[![Advanced Chemistry](https://m.media-amazon.com/images/I/61u+2B5qWXL._SL400_.jpg)](https://www.amazon.de/dp/B01GF9NTR0/?tag=tolees0ca-21)
 
 ℹ️:
 

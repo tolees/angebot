@@ -2,7 +2,7 @@
 layout: post
 title: '21.63 % rabat auf Bosch Akku Heckenschere AHS 55-20 LI  1 '
 date: 2020-09-16 05:46:48
-image: 'https://m.media-amazon.com/images/I/41+MMM0OusL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+MMM0OusL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '148.89'
 
 Es gibt ein [Bosch Akku Heckenschere AHS 55-20 LI  1 Akku  18 Volt System  Schnittlänge 55 cm  im Karton ](https://www.amazon.de/dp/B01AI2PDBU/?tag=tolees0ca-21) mit aktuellem Preis 148.89 EUR (original: 189.99 EUR) 21.63 % Rabatt hier:
 
-[![Bosch Akku Heckenschere AHS 55-20 LI  1 ](https://m.media-amazon.com/images/I/41+MMM0OusL._SL200_.jpg)](https://www.amazon.de/dp/B01AI2PDBU/?tag=tolees0ca-21)
+[![Bosch Akku Heckenschere AHS 55-20 LI  1 ](https://m.media-amazon.com/images/I/41+MMM0OusL._SL400_.jpg)](https://www.amazon.de/dp/B01AI2PDBU/?tag=tolees0ca-21)
 
 ℹ️:
 

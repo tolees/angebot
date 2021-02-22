@@ -2,7 +2,7 @@
 layout: post
 title: 'Hasbro Super Soaker E0021EU4 - Splash Mo mit 28.59 % Rabatt'
 date: 2020-06-11 09:13:10
-image: 'https://m.media-amazon.com/images/I/51ovYVflx3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ovYVflx3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.03'
 
 Sie können [Hasbro Super Soaker E0021EU4 - Splash Mouth Wasserpistole  mit Splash-Attacke](https://www.amazon.de/dp/B075Z3WNF3/?tag=tolees0ca-21) mit Preis 9.99 EUR (original: 13.99 EUR) 28.59 % Rabatt hier:
 
-[![Hasbro Super Soaker E0021EU4 - Splash Mo](https://m.media-amazon.com/images/I/51ovYVflx3L._SL200_.jpg)](https://www.amazon.de/dp/B075Z3WNF3/?tag=tolees0ca-21)
+[![Hasbro Super Soaker E0021EU4 - Splash Mo](https://m.media-amazon.com/images/I/51ovYVflx3L._SL400_.jpg)](https://www.amazon.de/dp/B075Z3WNF3/?tag=tolees0ca-21)
 
 ℹ️:
 

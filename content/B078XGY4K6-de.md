@@ -2,7 +2,7 @@
 layout: post
 title: '29.97 % rabat auf Christa Ludwig-Complete Recitals'
 date: 2020-09-26 22:49:31
-image: 'https://m.media-amazon.com/images/I/41DNK7HWywL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DNK7HWywL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.21'
 
 Es gibt ein [Christa Ludwig-Complete Recitals](https://www.amazon.de/dp/B078XGY4K6/?tag=tolees0ca-21) mit aktuellem Preis 14.21 EUR (original: 20.29 EUR) 29.97 % Rabatt hier:
 
-[![Christa Ludwig-Complete Recitals](https://m.media-amazon.com/images/I/41DNK7HWywL._SL200_.jpg)](https://www.amazon.de/dp/B078XGY4K6/?tag=tolees0ca-21)
+[![Christa Ludwig-Complete Recitals](https://m.media-amazon.com/images/I/41DNK7HWywL._SL400_.jpg)](https://www.amazon.de/dp/B078XGY4K6/?tag=tolees0ca-21)
 
 ℹ️:
 

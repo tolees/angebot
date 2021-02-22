@@ -2,7 +2,7 @@
 layout: post
 title: '41.48 % rabat auf Logitech G PRO Wireless Gaming Maus  Her'
 date: 2020-04-10 05:26:49
-image: 'https://m.media-amazon.com/images/I/31e5xETSJHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31e5xETSJHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '84.67833333333333'
 
 Es gibt ein [Logitech G PRO Wireless Gaming Maus  Hero 16000 DPI Sensor  USB-Anschluss  RGB-Beleuchtung  4 - 8 Programmierbare Tasten  Benutzerdefinierte Spielprofile  Ultraleicht  PC/Mac](https://www.amazon.de/dp/B07G5SF48Z/?tag=tolees0ca-21) mit aktuellem Preis 87.2 EUR (original: 149.0 EUR) 41.48 % Rabatt hier:
 
-[![Logitech G PRO Wireless Gaming Maus  Her](https://m.media-amazon.com/images/I/31e5xETSJHL._SL200_.jpg)](https://www.amazon.de/dp/B07G5SF48Z/?tag=tolees0ca-21)
+[![Logitech G PRO Wireless Gaming Maus  Her](https://m.media-amazon.com/images/I/31e5xETSJHL._SL400_.jpg)](https://www.amazon.de/dp/B07G5SF48Z/?tag=tolees0ca-21)
 
 ℹ️:
 

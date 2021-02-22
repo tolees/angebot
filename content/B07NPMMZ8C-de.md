@@ -2,7 +2,7 @@
 layout: post
 title: '17.45 % rabat auf Seagate Expansion Desktop  10 TB  extern'
 date: 2020-03-23 05:08:01
-image: 'https://m.media-amazon.com/images/I/41LJAXEZJSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LJAXEZJSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '179.0'
 
 Es gibt ein [Seagate Expansion Desktop  10 TB  externe Festplatte  3.5 Zoll  USB 3.0  PC  Xbox  PS4  ModelNr.: STEB10000400](https://www.amazon.de/dp/B07NPMMZ8C/?tag=tolees0ca-21) mit aktuellem Preis 179.0 EUR (original: 216.84 EUR) 17.45 % Rabatt hier:
 
-[![Seagate Expansion Desktop  10 TB  extern](https://m.media-amazon.com/images/I/41LJAXEZJSL._SL200_.jpg)](https://www.amazon.de/dp/B07NPMMZ8C/?tag=tolees0ca-21)
+[![Seagate Expansion Desktop  10 TB  extern](https://m.media-amazon.com/images/I/41LJAXEZJSL._SL400_.jpg)](https://www.amazon.de/dp/B07NPMMZ8C/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'BERTASCHE Laptoptasche 14 Zoll Notebookt mit 46.81 % Rabatt'
 date: 2020-04-13 23:53:41
-image: 'https://m.media-amazon.com/images/I/51X3EJPfu8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51X3EJPfu8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.99'
 
 Sie können [BERTASCHE Laptoptasche 14 Zoll Notebooktasche Schulter Tasche für Uni Arbeit Business](https://www.amazon.de/dp/B082SMG5BY/?tag=tolees0ca-21) mit Preis 24.99 EUR (original: 46.98 EUR) 46.81 % Rabatt hier:
 
-[![BERTASCHE Laptoptasche 14 Zoll Notebookt](https://m.media-amazon.com/images/I/51X3EJPfu8L._SL200_.jpg)](https://www.amazon.de/dp/B082SMG5BY/?tag=tolees0ca-21)
+[![BERTASCHE Laptoptasche 14 Zoll Notebookt](https://m.media-amazon.com/images/I/51X3EJPfu8L._SL400_.jpg)](https://www.amazon.de/dp/B082SMG5BY/?tag=tolees0ca-21)
 
 ℹ️:
 

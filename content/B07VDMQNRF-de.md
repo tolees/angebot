@@ -2,7 +2,7 @@
 layout: post
 title: 'Michael Kors Smart Watch  Touchscreen MK mit 46.73 % Rabatt'
 date: 2020-08-28 07:03:46
-image: 'https://m.media-amazon.com/images/I/41aW1WXAVUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aW1WXAVUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '159.27'
 
 Sie können [Michael Kors Smart Watch  Touchscreen MKT5073](https://www.amazon.de/dp/B07VDMQNRF/?tag=tolees0ca-21) mit Preis 159.27 EUR (original: 299.0 EUR) 46.73 % Rabatt hier:
 
-[![Michael Kors Smart Watch  Touchscreen MK](https://m.media-amazon.com/images/I/41aW1WXAVUL._SL200_.jpg)](https://www.amazon.de/dp/B07VDMQNRF/?tag=tolees0ca-21)
+[![Michael Kors Smart Watch  Touchscreen MK](https://m.media-amazon.com/images/I/41aW1WXAVUL._SL400_.jpg)](https://www.amazon.de/dp/B07VDMQNRF/?tag=tolees0ca-21)
 
 ℹ️:
 

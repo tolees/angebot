@@ -2,7 +2,7 @@
 layout: post
 title: '34.16 % rabat auf SET-ERGÄNZUNG - Gigaset Lichtschalter - '
 date: 2020-10-11 06:23:33
-image: 'https://m.media-amazon.com/images/I/31m5nJ1di3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31m5nJ1di3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.45'
 
 Es gibt ein [SET-ERGÄNZUNG - Gigaset Lichtschalter - manueller Funktionsschalter für Funksteckdose und Alarmanlage - Smart Home Schalter](https://www.amazon.de/dp/B013PUUJ2U/?tag=tolees0ca-21) mit aktuellem Preis 22.45 EUR (original: 34.1 EUR) 34.16 % Rabatt hier:
 
-[![SET-ERGÄNZUNG - Gigaset Lichtschalter - ](https://m.media-amazon.com/images/I/31m5nJ1di3L._SL200_.jpg)](https://www.amazon.de/dp/B013PUUJ2U/?tag=tolees0ca-21)
+[![SET-ERGÄNZUNG - Gigaset Lichtschalter - ](https://m.media-amazon.com/images/I/31m5nJ1di3L._SL400_.jpg)](https://www.amazon.de/dp/B013PUUJ2U/?tag=tolees0ca-21)
 
 ℹ️:
 

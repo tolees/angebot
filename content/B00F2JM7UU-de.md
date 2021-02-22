@@ -2,7 +2,7 @@
 layout: post
 title: 'Karlie Transportbox Nomad  Größe XL  90  mit 45.94 % Rabatt'
 date: 2020-09-11 08:09:55
-image: 'https://m.media-amazon.com/images/I/41Js49YKVpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Js49YKVpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.33'
 
 Sie können [Karlie Transportbox Nomad  Größe XL  90 x 60 x 68 cm](https://www.amazon.de/dp/B00F2JM7UU/?tag=tolees0ca-21) mit Preis 64.33 EUR (original: 119.0 EUR) 45.94 % Rabatt hier:
 
-[![Karlie Transportbox Nomad  Größe XL  90 ](https://m.media-amazon.com/images/I/41Js49YKVpL._SL200_.jpg)](https://www.amazon.de/dp/B00F2JM7UU/?tag=tolees0ca-21)
+[![Karlie Transportbox Nomad  Größe XL  90 ](https://m.media-amazon.com/images/I/41Js49YKVpL._SL400_.jpg)](https://www.amazon.de/dp/B00F2JM7UU/?tag=tolees0ca-21)
 
 ℹ️:
 

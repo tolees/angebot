@@ -2,7 +2,7 @@
 layout: post
 title: '30.05 % rabat auf Sink or Swim'
 date: 2020-09-26 02:13:57
-image: 'https://m.media-amazon.com/images/I/61hxRobR3tL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61hxRobR3tL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.68'
 
 Es gibt ein [Sink or Swim](https://www.amazon.de/dp/B000U54QTQ/?tag=tolees0ca-21) mit aktuellem Preis 6.68 EUR (original: 9.55 EUR) 30.05 % Rabatt hier:
 
-[![Sink or Swim](https://m.media-amazon.com/images/I/61hxRobR3tL._SL200_.jpg)](https://www.amazon.de/dp/B000U54QTQ/?tag=tolees0ca-21)
+[![Sink or Swim](https://m.media-amazon.com/images/I/61hxRobR3tL._SL400_.jpg)](https://www.amazon.de/dp/B000U54QTQ/?tag=tolees0ca-21)
 
 ℹ️:
 

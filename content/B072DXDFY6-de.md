@@ -2,7 +2,7 @@
 layout: post
 title: '45.68 % rabat auf Guardians of the Galaxy Vol. 2'
 date: 2020-04-16 08:00:04
-image: 'https://m.media-amazon.com/images/I/61v9tOOClJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61v9tOOClJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.165'
 
 Es gibt ein [Guardians of the Galaxy Vol. 2](https://www.amazon.de/dp/B072DXDFY6/?tag=tolees0ca-21) mit aktuellem Preis 4.34 EUR (original: 7.99 EUR) 45.68 % Rabatt hier:
 
-[![Guardians of the Galaxy Vol. 2](https://m.media-amazon.com/images/I/61v9tOOClJL._SL200_.jpg)](https://www.amazon.de/dp/B072DXDFY6/?tag=tolees0ca-21)
+[![Guardians of the Galaxy Vol. 2](https://m.media-amazon.com/images/I/61v9tOOClJL._SL400_.jpg)](https://www.amazon.de/dp/B072DXDFY6/?tag=tolees0ca-21)
 
 ℹ️:
 

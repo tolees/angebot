@@ -2,7 +2,7 @@
 layout: post
 title: 'WarioWare Gold - [Nintendo 3DS] mit 48.29 % Rabatt'
 date: 2020-08-14 13:35:18
-image: 'https://m.media-amazon.com/images/I/61hCqTlPEPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61hCqTlPEPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Sie können [WarioWare Gold - [Nintendo 3DS]](https://www.amazon.de/dp/B07BC12G7J/?tag=tolees0ca-21) mit Preis 9.99 EUR (original: 19.32 EUR) 48.29 % Rabatt hier:
 
-[![WarioWare Gold - [Nintendo 3DS]](https://m.media-amazon.com/images/I/61hCqTlPEPL._SL200_.jpg)](https://www.amazon.de/dp/B07BC12G7J/?tag=tolees0ca-21)
+[![WarioWare Gold - [Nintendo 3DS]](https://m.media-amazon.com/images/I/61hCqTlPEPL._SL400_.jpg)](https://www.amazon.de/dp/B07BC12G7J/?tag=tolees0ca-21)
 
 ℹ️:
 

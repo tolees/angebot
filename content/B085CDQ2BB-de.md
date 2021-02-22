@@ -2,7 +2,7 @@
 layout: post
 title: '20.00 % rabat auf Adeept Spider Robot Quadruped Robot Kit '
 date: 2020-08-17 10:31:46
-image: 'https://m.media-amazon.com/images/I/41TNDOipekL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TNDOipekL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.99'
 
 Es gibt ein [Adeept Spider Robot Quadruped Robot Kit für Raspberry Pi 4/3 Modell B+/B STEM-Kriechroboter OpenCV Tracking Selbststabilisierung mit MPU6050 Gyro Sensor Darkpaw Bionic Raspberry Pi Robot & PDF](https://www.amazon.de/dp/B085CDQ2BB/?tag=tolees0ca-21) mit aktuellem Preis 99.99 EUR (original: 124.99 EUR) 20.00 % Rabatt hier:
 
-[![Adeept Spider Robot Quadruped Robot Kit ](https://m.media-amazon.com/images/I/41TNDOipekL._SL200_.jpg)](https://www.amazon.de/dp/B085CDQ2BB/?tag=tolees0ca-21)
+[![Adeept Spider Robot Quadruped Robot Kit ](https://m.media-amazon.com/images/I/41TNDOipekL._SL400_.jpg)](https://www.amazon.de/dp/B085CDQ2BB/?tag=tolees0ca-21)
 
 ℹ️:
 

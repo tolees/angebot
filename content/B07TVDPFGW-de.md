@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko 45119 POP Animation: Evangelion -  mit 38.26 % Rabatt'
 date: 2020-04-04 21:01:03
-image: 'https://m.media-amazon.com/images/I/41og2mwroiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41og2mwroiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.49'
 
 Sie können [Funko 45119 POP Animation: Evangelion - Rei Ayanami Neon Genesis Collectible Toy  Multicolour](https://www.amazon.de/dp/B07TVDPFGW/?tag=tolees0ca-21) mit Preis 10.49 EUR (original: 16.99 EUR) 38.26 % Rabatt hier:
 
-[![Funko 45119 POP Animation: Evangelion - ](https://m.media-amazon.com/images/I/41og2mwroiL._SL200_.jpg)](https://www.amazon.de/dp/B07TVDPFGW/?tag=tolees0ca-21)
+[![Funko 45119 POP Animation: Evangelion - ](https://m.media-amazon.com/images/I/41og2mwroiL._SL400_.jpg)](https://www.amazon.de/dp/B07TVDPFGW/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko 7427 Dragonball POP Vinylfigur: Dr mit 42.82 % Rabatt'
 date: 2020-03-05 10:29:49
-image: 'https://m.media-amazon.com/images/I/51pb1w1o2YL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51pb1w1o2YL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.0'
 
 Sie können [Funko 7427 Dragonball POP Vinylfigur: Dragon Ball Z: Goku und Wolke](https://www.amazon.de/dp/B01CBME57S/?tag=tolees0ca-21) mit Preis 8.0 EUR (original: 13.99 EUR) 42.82 % Rabatt hier:
 
-[![Funko 7427 Dragonball POP Vinylfigur: Dr](https://m.media-amazon.com/images/I/51pb1w1o2YL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01CBME57S/?tag=tolees0ca-21)
+[![Funko 7427 Dragonball POP Vinylfigur: Dr](https://m.media-amazon.com/images/I/51pb1w1o2YL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01CBME57S/?tag=tolees0ca-21)
 
 ℹ️:
 

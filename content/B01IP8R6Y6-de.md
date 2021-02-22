@@ -2,7 +2,7 @@
 layout: post
 title: '20.42 % rabat auf Philips 3-in-1 LED Lampe SceneSwitch ers'
 date: 2020-04-10 14:22:47
-image: 'https://m.media-amazon.com/images/I/31Nzs2-vpwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Nzs2-vpwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.7275'
 
 Es gibt ein [Philips 3-in-1 LED Lampe SceneSwitch ersetzt 60W  EEK A+  E27  Matt ](https://www.amazon.de/dp/B01IP8R6Y6/?tag=tolees0ca-21) mit aktuellem Preis 7.95 EUR (original: 9.99 EUR) 20.42 % Rabatt hier:
 
-[![Philips 3-in-1 LED Lampe SceneSwitch ers](https://m.media-amazon.com/images/I/31Nzs2-vpwL._SL200_.jpg)](https://www.amazon.de/dp/B01IP8R6Y6/?tag=tolees0ca-21)
+[![Philips 3-in-1 LED Lampe SceneSwitch ers](https://m.media-amazon.com/images/I/31Nzs2-vpwL._SL400_.jpg)](https://www.amazon.de/dp/B01IP8R6Y6/?tag=tolees0ca-21)
 
 ℹ️:
 

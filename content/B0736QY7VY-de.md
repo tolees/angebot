@@ -2,7 +2,7 @@
 layout: post
 title: 'ALPINA Herren JSP 3.0 Vest Rückenprotekt mit 29.76 % Rabatt'
 date: 2020-01-22 13:39:46
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vfy9UY8HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vfy9UY8HL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '70.2'
 
 Sie können [ALPINA Herren JSP 3.0 Vest Rückenprotektor  Black/White  XXL](https://www.amazon.de/dp/B0736QY7VY/?tag=tolees0ca-21) mit Preis 70.2 EUR (original: 99.95 EUR) 29.76 % Rabatt hier:
 
-[![ALPINA Herren JSP 3.0 Vest Rückenprotekt](https://images-eu.ssl-images-amazon.com/images/I/41Vfy9UY8HL._SL200_.jpg)](https://www.amazon.de/dp/B0736QY7VY/?tag=tolees0ca-21)
+[![ALPINA Herren JSP 3.0 Vest Rückenprotekt](https://images-eu.ssl-images-amazon.com/images/I/41Vfy9UY8HL._SL400_.jpg)](https://www.amazon.de/dp/B0736QY7VY/?tag=tolees0ca-21)
 
 ℹ️:
 

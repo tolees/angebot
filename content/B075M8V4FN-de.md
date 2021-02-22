@@ -2,7 +2,7 @@
 layout: post
 title: '39.44 % rabat auf Replay Herren Anbass Slim Jeans  Blau  M'
 date: 2020-02-19 08:43:47
-image: 'https://m.media-amazon.com/images/I/41g6CvgAdZL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41g6CvgAdZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.95'
 
 Es gibt ein [Replay Herren Anbass Slim Jeans  Blau  Mid Blue 9   W30/L32](https://www.amazon.de/dp/B075M8V4FN/?tag=tolees0ca-21) mit aktuellem Preis 59.95 EUR (original: 99.0 EUR) 39.44 % Rabatt hier:
 
-[![Replay Herren Anbass Slim Jeans  Blau  M](https://m.media-amazon.com/images/I/41g6CvgAdZL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B075M8V4FN/?tag=tolees0ca-21)
+[![Replay Herren Anbass Slim Jeans  Blau  M](https://m.media-amazon.com/images/I/41g6CvgAdZL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B075M8V4FN/?tag=tolees0ca-21)
 
 ℹ️:
 

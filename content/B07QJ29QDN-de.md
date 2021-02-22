@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko 42064 POP Bobble Vinyl Mandalorian mit 18.50 % Rabatt'
 date: 2020-04-16 08:10:07
-image: 'https://m.media-amazon.com/images/I/41pCTcOx-mL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pCTcOx-mL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.78'
 
 Sie können [Funko 42064 POP Bobble Vinyl Mandalorian-IG-11 Star Wars The Mandalorian IG-11 Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B07QJ29QDN/?tag=tolees0ca-21) mit Preis 9.78 EUR (original: 12.0 EUR) 18.50 % Rabatt hier:
 
-[![Funko 42064 POP Bobble Vinyl Mandalorian](https://m.media-amazon.com/images/I/41pCTcOx-mL._SL200_.jpg)](https://www.amazon.de/dp/B07QJ29QDN/?tag=tolees0ca-21)
+[![Funko 42064 POP Bobble Vinyl Mandalorian](https://m.media-amazon.com/images/I/41pCTcOx-mL._SL400_.jpg)](https://www.amazon.de/dp/B07QJ29QDN/?tag=tolees0ca-21)
 
 ℹ️:
 

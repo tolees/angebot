@@ -2,7 +2,7 @@
 layout: post
 title: '36.82 % rabat auf Philips BTM3360/12 Stereoanlage mit Blue'
 date: 2020-05-22 08:47:11
-image: 'https://m.media-amazon.com/images/I/419ojPdx7ML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419ojPdx7ML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '139.0'
 
 Es gibt ein [Philips BTM3360/12 Stereoanlage mit Bluetooth Multipair  150 Watt  USB  MP3  schwarz](https://www.amazon.de/dp/B014WCLGHW/?tag=tolees0ca-21) mit aktuellem Preis 139.0 EUR (original: 219.99 EUR) 36.82 % Rabatt hier:
 
-[![Philips BTM3360/12 Stereoanlage mit Blue](https://m.media-amazon.com/images/I/419ojPdx7ML._SL200_.jpg)](https://www.amazon.de/dp/B014WCLGHW/?tag=tolees0ca-21)
+[![Philips BTM3360/12 Stereoanlage mit Blue](https://m.media-amazon.com/images/I/419ojPdx7ML._SL400_.jpg)](https://www.amazon.de/dp/B014WCLGHW/?tag=tolees0ca-21)
 
 ℹ️:
 

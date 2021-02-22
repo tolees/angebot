@@ -2,7 +2,7 @@
 layout: post
 title: '24.82 % rabat auf Lego 41360 Friends Emmas mobile Tierarzt'
 date: 2020-03-21 09:22:13
-image: 'https://m.media-amazon.com/images/I/510gdmY6xqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510gdmY6xqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.981999999999999'
 
 Es gibt ein [Lego 41360 Friends Emmas mobile Tierarztpraxis  bunt](https://www.amazon.de/dp/B07FNW2TJ6/?tag=tolees0ca-21) mit aktuellem Preis 7.51 EUR (original: 9.99 EUR) 24.82 % Rabatt hier:
 
-[![Lego 41360 Friends Emmas mobile Tierarzt](https://m.media-amazon.com/images/I/510gdmY6xqL._SL200_.jpg)](https://www.amazon.de/dp/B07FNW2TJ6/?tag=tolees0ca-21)
+[![Lego 41360 Friends Emmas mobile Tierarzt](https://m.media-amazon.com/images/I/510gdmY6xqL._SL400_.jpg)](https://www.amazon.de/dp/B07FNW2TJ6/?tag=tolees0ca-21)
 
 ℹ️:
 

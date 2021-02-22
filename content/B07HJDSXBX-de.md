@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko 34496 Pop-Vinyl: Television: Money mit 40.81 % Rabatt'
 date: 2020-03-27 04:58:32
-image: 'https://m.media-amazon.com/images/I/41ApTNO7YsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ApTNO7YsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.290000000000001'
 
 Sie können [Funko 34496 Pop-Vinyl: Television: Money Heist: The Professor  Multi](https://www.amazon.de/dp/B07HJDSXBX/?tag=tolees0ca-21) mit Preis 8.5 EUR (original: 14.36 EUR) 40.81 % Rabatt hier:
 
-[![Funko 34496 Pop-Vinyl: Television: Money](https://m.media-amazon.com/images/I/41ApTNO7YsL._SL200_.jpg)](https://www.amazon.de/dp/B07HJDSXBX/?tag=tolees0ca-21)
+[![Funko 34496 Pop-Vinyl: Television: Money](https://m.media-amazon.com/images/I/41ApTNO7YsL._SL400_.jpg)](https://www.amazon.de/dp/B07HJDSXBX/?tag=tolees0ca-21)
 
 ℹ️:
 

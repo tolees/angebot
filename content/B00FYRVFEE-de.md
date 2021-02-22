@@ -2,7 +2,7 @@
 layout: post
 title: '51.82 % rabat auf Kopfschutz / Schutzhelmkombination Yukon'
 date: 2020-10-12 20:23:23
-image: 'https://m.media-amazon.com/images/I/51x2VTvd96L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51x2VTvd96L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.75'
 
 Es gibt ein [Kopfschutz / Schutzhelmkombination Yukon   stoßfester und atmungsaktiver PP – Helm  bequemer Gehörschutz  breites und robuste Netzvisier aus Edelstahl für den Augenschutz   SNR-Wert: 25 9 dB](https://www.amazon.de/dp/B00FYRVFEE/?tag=tolees0ca-21) mit aktuellem Preis 19.75 EUR (original: 40.99 EUR) 51.82 % Rabatt hier:
 
-[![Kopfschutz / Schutzhelmkombination Yukon](https://m.media-amazon.com/images/I/51x2VTvd96L._SL200_.jpg)](https://www.amazon.de/dp/B00FYRVFEE/?tag=tolees0ca-21)
+[![Kopfschutz / Schutzhelmkombination Yukon](https://m.media-amazon.com/images/I/51x2VTvd96L._SL400_.jpg)](https://www.amazon.de/dp/B00FYRVFEE/?tag=tolees0ca-21)
 
 ℹ️:
 

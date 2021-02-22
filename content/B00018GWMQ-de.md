@@ -2,7 +2,7 @@
 layout: post
 title: '29.91 % rabat auf Winnie Puuh - Spaß im Frühling  Winnie P'
 date: 2020-09-28 08:53:51
-image: 'https://m.media-amazon.com/images/I/51Gqn3s9-QL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Gqn3s9-QL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.82'
 
 Es gibt ein [Winnie Puuh - Spaß im Frühling  Winnie Puuh Collection ](https://www.amazon.de/dp/B00018GWMQ/?tag=tolees0ca-21) mit aktuellem Preis 3.82 EUR (original: 5.45 EUR) 29.91 % Rabatt hier:
 
-[![Winnie Puuh - Spaß im Frühling  Winnie P](https://m.media-amazon.com/images/I/51Gqn3s9-QL._SL200_.jpg)](https://www.amazon.de/dp/B00018GWMQ/?tag=tolees0ca-21)
+[![Winnie Puuh - Spaß im Frühling  Winnie P](https://m.media-amazon.com/images/I/51Gqn3s9-QL._SL400_.jpg)](https://www.amazon.de/dp/B00018GWMQ/?tag=tolees0ca-21)
 
 ℹ️:
 

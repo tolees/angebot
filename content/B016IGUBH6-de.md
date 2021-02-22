@@ -2,7 +2,7 @@
 layout: post
 title: '65.11 % rabat auf Neff TTT1906N / T19TT06N0 / Autarkes Koc'
 date: 2020-03-30 09:41:22
-image: 'https://m.media-amazon.com/images/I/41sMAcShIzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sMAcShIzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '359.0'
 
 Es gibt ein [Neff TTT1906N / T19TT06N0 / Autarkes Kochfeld / Konventionell / 90cm / TwistPad Flat / Zweikreis](https://www.amazon.de/dp/B016IGUBH6/?tag=tolees0ca-21) mit aktuellem Preis 359.0 EUR (original: 1029.0 EUR) 65.11 % Rabatt hier:
 
-[![Neff TTT1906N / T19TT06N0 / Autarkes Koc](https://m.media-amazon.com/images/I/41sMAcShIzL._SL200_.jpg)](https://www.amazon.de/dp/B016IGUBH6/?tag=tolees0ca-21)
+[![Neff TTT1906N / T19TT06N0 / Autarkes Koc](https://m.media-amazon.com/images/I/41sMAcShIzL._SL400_.jpg)](https://www.amazon.de/dp/B016IGUBH6/?tag=tolees0ca-21)
 
 ℹ️:
 

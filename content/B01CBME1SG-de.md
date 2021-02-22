@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko 7424 No Actionfigur Dragonball Z:  mit 35.74 % Rabatt'
 date: 2020-02-03 21:19:48
-image: 'https://m.media-amazon.com/images/I/51MosTOWgnL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51MosTOWgnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Sie können [Funko 7424 No Actionfigur Dragonball Z: Gohan](https://www.amazon.de/dp/B01CBME1SG/?tag=tolees0ca-21) mit Preis 8.99 EUR (original: 13.99 EUR) 35.74 % Rabatt hier:
 
-[![Funko 7424 No Actionfigur Dragonball Z: ](https://m.media-amazon.com/images/I/51MosTOWgnL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01CBME1SG/?tag=tolees0ca-21)
+[![Funko 7424 No Actionfigur Dragonball Z: ](https://m.media-amazon.com/images/I/51MosTOWgnL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01CBME1SG/?tag=tolees0ca-21)
 
 ℹ️:
 

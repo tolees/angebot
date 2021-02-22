@@ -2,7 +2,7 @@
 layout: post
 title: '36.18 % rabat auf Hasbro Gaming 04199100 - Tabu XXL Partys'
 date: 2020-04-17 23:31:00
-image: 'https://m.media-amazon.com/images/I/5112rV438YL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5112rV438YL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.17'
 
 Es gibt ein [Hasbro Gaming 04199100 - Tabu XXL Partyspiel](https://www.amazon.de/dp/B000I1TDA4/?tag=tolees0ca-21) mit aktuellem Preis 29.99 EUR (original: 46.99 EUR) 36.18 % Rabatt hier:
 
-[![Hasbro Gaming 04199100 - Tabu XXL Partys](https://m.media-amazon.com/images/I/5112rV438YL._SL200_.jpg)](https://www.amazon.de/dp/B000I1TDA4/?tag=tolees0ca-21)
+[![Hasbro Gaming 04199100 - Tabu XXL Partys](https://m.media-amazon.com/images/I/5112rV438YL._SL400_.jpg)](https://www.amazon.de/dp/B000I1TDA4/?tag=tolees0ca-21)
 
 ℹ️:
 

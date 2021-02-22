@@ -2,7 +2,7 @@
 layout: post
 title: 'SodaStream Sirup Pepsi Cola - 1x Flasche mit 24.05 % Rabatt'
 date: 2020-09-08 09:50:50
-image: 'https://m.media-amazon.com/images/I/31fGA+ldjTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31fGA+ldjTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.79'
 
 Sie können [SodaStream Sirup Pepsi Cola - 1x Flasche ergibt 9 Liter Fertiggetränk  Sekundenschnell zubereitet und immer frisch  440 ml](https://www.amazon.de/dp/B084GPNG9V/?tag=tolees0ca-21) mit Preis 3.79 EUR (original: 4.99 EUR) 24.05 % Rabatt hier:
 
-[![SodaStream Sirup Pepsi Cola - 1x Flasche](https://m.media-amazon.com/images/I/31fGA+ldjTL._SL200_.jpg)](https://www.amazon.de/dp/B084GPNG9V/?tag=tolees0ca-21)
+[![SodaStream Sirup Pepsi Cola - 1x Flasche](https://m.media-amazon.com/images/I/31fGA+ldjTL._SL400_.jpg)](https://www.amazon.de/dp/B084GPNG9V/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Lightailing Licht-Set Für  Star Wars Tod mit 62.51 % Rabatt'
 date: 2020-04-14 16:24:02
-image: 'https://m.media-amazon.com/images/I/51f9z8v6doL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51f9z8v6doL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '74.99'
 
 Sie können [Lightailing Licht-Set Für  Star Wars Todesstern  Modell - LED Licht-Set Kompatibel Mit Lego 10188 Modell NICHT Enthalten ](https://www.amazon.de/dp/B07KBTTCNG/?tag=tolees0ca-21) mit Preis 74.99 EUR (original: 200.0 EUR) 62.51 % Rabatt hier:
 
-[![Lightailing Licht-Set Für  Star Wars Tod](https://m.media-amazon.com/images/I/51f9z8v6doL._SL200_.jpg)](https://www.amazon.de/dp/B07KBTTCNG/?tag=tolees0ca-21)
+[![Lightailing Licht-Set Für  Star Wars Tod](https://m.media-amazon.com/images/I/51f9z8v6doL._SL400_.jpg)](https://www.amazon.de/dp/B07KBTTCNG/?tag=tolees0ca-21)
 
 ℹ️:
 

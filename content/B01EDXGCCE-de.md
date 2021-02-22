@@ -2,7 +2,7 @@
 layout: post
 title: 'Acer K272HLEbid 69 cm  27 Zoll Full HD   mit 15.86 % Rabatt'
 date: 2020-04-19 14:47:44
-image: 'https://m.media-amazon.com/images/I/51WmPp2ww1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51WmPp2ww1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '149.135'
 
 Sie können [Acer K272HLEbid 69 cm  27 Zoll Full HD  Monitor  VGA  DVI  HDMI  4ms Reaktionszeit  schwarz](https://www.amazon.de/dp/B01EDXGCCE/?tag=tolees0ca-21) mit Preis 150.61 EUR (original: 179.0 EUR) 15.86 % Rabatt hier:
 
-[![Acer K272HLEbid 69 cm  27 Zoll Full HD  ](https://m.media-amazon.com/images/I/51WmPp2ww1L._SL200_.jpg)](https://www.amazon.de/dp/B01EDXGCCE/?tag=tolees0ca-21)
+[![Acer K272HLEbid 69 cm  27 Zoll Full HD  ](https://m.media-amazon.com/images/I/51WmPp2ww1L._SL400_.jpg)](https://www.amazon.de/dp/B01EDXGCCE/?tag=tolees0ca-21)
 
 ℹ️:
 

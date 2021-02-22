@@ -2,7 +2,7 @@
 layout: post
 title: '22.25 % rabat auf G DATA Internet Security 2020 | 3 Geräte'
 date: 2020-02-24 04:45:29
-image: 'https://m.media-amazon.com/images/I/51B6-pQ8T-L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51B6-pQ8T-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.95'
 
 Es gibt ein [G DATA Internet Security 2020 | 3 Geräte - 1 Jahr  DVD-ROM inkl. Webcam-Cover | Windows  Mac  Android  iOS Antivirus | Made in Germany](https://www.amazon.de/dp/B07YS4MPMD/?tag=tolees0ca-21) mit aktuellem Preis 34.95 EUR (original: 44.95 EUR) 22.25 % Rabatt hier:
 
-[![G DATA Internet Security 2020 | 3 Geräte](https://m.media-amazon.com/images/I/51B6-pQ8T-L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07YS4MPMD/?tag=tolees0ca-21)
+[![G DATA Internet Security 2020 | 3 Geräte](https://m.media-amazon.com/images/I/51B6-pQ8T-L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07YS4MPMD/?tag=tolees0ca-21)
 
 ℹ️:
 

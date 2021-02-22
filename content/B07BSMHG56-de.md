@@ -2,7 +2,7 @@
 layout: post
 title: '25.07 % rabat auf Pans Labyrinth - Ultimate Edition  Blu-r'
 date: 2020-03-19 16:09:01
-image: 'https://m.media-amazon.com/images/I/51epPIvZ13L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51epPIvZ13L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.2'
 
 Es gibt ein [Pans Labyrinth - Ultimate Edition  Blu-ray + CD-Soundtrack + 3 Bonus-Blu-rays + DVD  [Limited Edition]](https://www.amazon.de/dp/B07BSMHG56/?tag=tolees0ca-21) mit aktuellem Preis 44.2 EUR (original: 58.99 EUR) 25.07 % Rabatt hier:
 
-[![Pans Labyrinth - Ultimate Edition  Blu-r](https://m.media-amazon.com/images/I/51epPIvZ13L._SL200_.jpg)](https://www.amazon.de/dp/B07BSMHG56/?tag=tolees0ca-21)
+[![Pans Labyrinth - Ultimate Edition  Blu-r](https://m.media-amazon.com/images/I/51epPIvZ13L._SL400_.jpg)](https://www.amazon.de/dp/B07BSMHG56/?tag=tolees0ca-21)
 
 ℹ️:
 

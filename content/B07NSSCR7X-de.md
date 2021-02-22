@@ -2,7 +2,7 @@
 layout: post
 title: 'Alien 40th - Xenomorph Pop! Keychain Fun mit 59.47 % Rabatt'
 date: 2020-04-13 07:45:26
-image: 'https://m.media-amazon.com/images/I/51NGD8FWy3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51NGD8FWy3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.61'
 
 Sie können [Alien 40th - Xenomorph Pop! Keychain Funko Pocket Pop! Standard](https://www.amazon.de/dp/B07NSSCR7X/?tag=tolees0ca-21) mit Preis 4.0 EUR (original: 9.87 EUR) 59.47 % Rabatt hier:
 
-[![Alien 40th - Xenomorph Pop! Keychain Fun](https://m.media-amazon.com/images/I/51NGD8FWy3L._SL200_.jpg)](https://www.amazon.de/dp/B07NSSCR7X/?tag=tolees0ca-21)
+[![Alien 40th - Xenomorph Pop! Keychain Fun](https://m.media-amazon.com/images/I/51NGD8FWy3L._SL400_.jpg)](https://www.amazon.de/dp/B07NSSCR7X/?tag=tolees0ca-21)
 
 ℹ️:
 

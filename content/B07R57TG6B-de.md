@@ -2,7 +2,7 @@
 layout: post
 title: '50.01 % rabat auf SNAPTAIN Mini Drohne H823H Plus mit 3 Ak'
 date: 2020-02-18 20:02:53
-image: 'https://m.media-amazon.com/images/I/5152SgfPJHL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5152SgfPJHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Es gibt ein [SNAPTAIN Mini Drohne H823H Plus mit 3 Akkus für 21 Minuten Flugzeit  RC Drone  Quadrocopter Mini Helikopter mit Höhehalten  Kopflos Modus  3D Flips und 3 Geschwindigkeitsmodi für Kinder](https://www.amazon.de/dp/B07R57TG6B/?tag=tolees0ca-21) mit aktuellem Preis 29.99 EUR (original: 59.99 EUR) 50.01 % Rabatt hier:
 
-[![SNAPTAIN Mini Drohne H823H Plus mit 3 Ak](https://m.media-amazon.com/images/I/5152SgfPJHL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07R57TG6B/?tag=tolees0ca-21)
+[![SNAPTAIN Mini Drohne H823H Plus mit 3 Ak](https://m.media-amazon.com/images/I/5152SgfPJHL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07R57TG6B/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '37.80 % rabat auf Half Mile Harvest'
 date: 2020-02-21 12:48:35
-image: 'https://m.media-amazon.com/images/I/51mG8uOLx-L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51mG8uOLx-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Es gibt ein [Half Mile Harvest](https://www.amazon.de/dp/B07HD4PFRT/?tag=tolees0ca-21) mit aktuellem Preis 9.99 EUR (original: 16.06 EUR) 37.80 % Rabatt hier:
 
-[![Half Mile Harvest](https://m.media-amazon.com/images/I/51mG8uOLx-L._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07HD4PFRT/?tag=tolees0ca-21)
+[![Half Mile Harvest](https://m.media-amazon.com/images/I/51mG8uOLx-L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07HD4PFRT/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '61.51 % rabat auf Sony Alpha 6000 Systemkamera  24 Megapix'
 date: 2020-03-22 17:00:00
-image: 'https://m.media-amazon.com/images/I/41s6-eGzFzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41s6-eGzFzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '326.0'
 
 Es gibt ein [Sony Alpha 6000 Systemkamera  24 Megapixel  7 6 cm  3 Zoll  LCD Display  Exmor APS-C Sensor  Full HD  High Speed Hybrid AF  weiß](https://www.amazon.de/dp/B00PCDQSJM/?tag=tolees0ca-21) mit aktuellem Preis 346.0 EUR (original: 899.0 EUR) 61.51 % Rabatt hier:
 
-[![Sony Alpha 6000 Systemkamera  24 Megapix](https://m.media-amazon.com/images/I/41s6-eGzFzL._SL200_.jpg)](https://www.amazon.de/dp/B00PCDQSJM/?tag=tolees0ca-21)
+[![Sony Alpha 6000 Systemkamera  24 Megapix](https://m.media-amazon.com/images/I/41s6-eGzFzL._SL400_.jpg)](https://www.amazon.de/dp/B00PCDQSJM/?tag=tolees0ca-21)
 
 ℹ️:
 

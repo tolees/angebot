@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop! Games: Warhammer - Blutengel  mit 20.40 % Rabatt'
 date: 2020-04-13 07:45:00
-image: 'https://m.media-amazon.com/images/I/41tNqVoUiaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tNqVoUiaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.13'
 
 Sie können [Funko Pop! Games: Warhammer - Blutengel Assault Marine](https://www.amazon.de/dp/B07KPHL1XR/?tag=tolees0ca-21) mit Preis 4.72 EUR (original: 5.93 EUR) 20.40 % Rabatt hier:
 
-[![Funko Pop! Games: Warhammer - Blutengel ](https://m.media-amazon.com/images/I/41tNqVoUiaL._SL200_.jpg)](https://www.amazon.de/dp/B07KPHL1XR/?tag=tolees0ca-21)
+[![Funko Pop! Games: Warhammer - Blutengel ](https://m.media-amazon.com/images/I/41tNqVoUiaL._SL400_.jpg)](https://www.amazon.de/dp/B07KPHL1XR/?tag=tolees0ca-21)
 
 ℹ️:
 

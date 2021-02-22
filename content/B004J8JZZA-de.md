@@ -2,7 +2,7 @@
 layout: post
 title: '92.83 % rabat auf Ravensburger 20432 Schwarzer Peter - Sch'
 date: 2020-04-07 21:47:47
-image: 'https://m.media-amazon.com/images/I/51IIGJRdcNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51IIGJRdcNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '0.2'
 
 Es gibt ein [Ravensburger 20432 Schwarzer Peter - Schaf Kartenspiele  Mehrfarbig](https://www.amazon.de/dp/B004J8JZZA/?tag=tolees0ca-21) mit aktuellem Preis 0.2 EUR (original: 2.79 EUR) 92.83 % Rabatt hier:
 
-[![Ravensburger 20432 Schwarzer Peter - Sch](https://m.media-amazon.com/images/I/51IIGJRdcNL._SL200_.jpg)](https://www.amazon.de/dp/B004J8JZZA/?tag=tolees0ca-21)
+[![Ravensburger 20432 Schwarzer Peter - Sch](https://m.media-amazon.com/images/I/51IIGJRdcNL._SL400_.jpg)](https://www.amazon.de/dp/B004J8JZZA/?tag=tolees0ca-21)
 
 ℹ️:
 

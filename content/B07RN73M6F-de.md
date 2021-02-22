@@ -2,7 +2,7 @@
 layout: post
 title: '48.67 % rabat auf Oral-B Kids Star Wars Elektrische Zahnbü'
 date: 2020-04-18 00:39:17
-image: 'https://m.media-amazon.com/images/I/514kDMSl9fL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/514kDMSl9fL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.96'
 
 Es gibt ein [Oral-B Kids Star Wars Elektrische Zahnbürste mit Disney-Stickern  für Kinder ab 3 Jahren  rot](https://www.amazon.de/dp/B07RN73M6F/?tag=tolees0ca-21) mit aktuellem Preis 17.96 EUR (original: 34.99 EUR) 48.67 % Rabatt hier:
 
-[![Oral-B Kids Star Wars Elektrische Zahnbü](https://m.media-amazon.com/images/I/514kDMSl9fL._SL200_.jpg)](https://www.amazon.de/dp/B07RN73M6F/?tag=tolees0ca-21)
+[![Oral-B Kids Star Wars Elektrische Zahnbü](https://m.media-amazon.com/images/I/514kDMSl9fL._SL400_.jpg)](https://www.amazon.de/dp/B07RN73M6F/?tag=tolees0ca-21)
 
 ℹ️:
 

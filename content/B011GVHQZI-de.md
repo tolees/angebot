@@ -2,7 +2,7 @@
 layout: post
 title: 'Mousehouse Gifts Rote Dinosaurier Kinder mit 22.23 % Rabatt'
 date: 2020-04-15 15:35:31
-image: 'https://m.media-amazon.com/images/I/41bKJtK03VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bKJtK03VL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Sie können [Mousehouse Gifts Rote Dinosaurier Kinder Spardose Sparbüchse für Jungen und Mädchen](https://www.amazon.de/dp/B011GVHQZI/?tag=tolees0ca-21) mit Preis 13.99 EUR (original: 17.99 EUR) 22.23 % Rabatt hier:
 
-[![Mousehouse Gifts Rote Dinosaurier Kinder](https://m.media-amazon.com/images/I/41bKJtK03VL._SL200_.jpg)](https://www.amazon.de/dp/B011GVHQZI/?tag=tolees0ca-21)
+[![Mousehouse Gifts Rote Dinosaurier Kinder](https://m.media-amazon.com/images/I/41bKJtK03VL._SL400_.jpg)](https://www.amazon.de/dp/B011GVHQZI/?tag=tolees0ca-21)
 
 ℹ️:
 

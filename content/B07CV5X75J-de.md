@@ -2,7 +2,7 @@
 layout: post
 title: 'VAUDE Rucksäcke20-29L Aspe  17l  ecru  1 mit 29.73 % Rabatt'
 date: 2020-03-11 04:56:51
-image: 'https://m.media-amazon.com/images/I/411BfdKVCFL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411BfdKVCFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '70.27'
 
 Sie können [VAUDE Rucksäcke20-29L Aspe  17l  ecru  17  129215140](https://www.amazon.de/dp/B07CV5X75J/?tag=tolees0ca-21) mit Preis 70.27 EUR (original: 100.0 EUR) 29.73 % Rabatt hier:
 
-[![VAUDE Rucksäcke20-29L Aspe  17l  ecru  1](https://m.media-amazon.com/images/I/411BfdKVCFL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07CV5X75J/?tag=tolees0ca-21)
+[![VAUDE Rucksäcke20-29L Aspe  17l  ecru  1](https://m.media-amazon.com/images/I/411BfdKVCFL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07CV5X75J/?tag=tolees0ca-21)
 
 ℹ️:
 

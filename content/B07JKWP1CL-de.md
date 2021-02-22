@@ -2,7 +2,7 @@
 layout: post
 title: 'Playmobil 70009 SuperSet Galaxy Police G mit 35.12 % Rabatt'
 date: 2020-01-18 10:44:08
-image: 'https://images-eu.ssl-images-amazon.com/images/I/514a2TDINHL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514a2TDINHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.817499999999999'
 
 Sie können [Playmobil 70009 SuperSet Galaxy Police Gefängnis  bunt](https://www.amazon.de/dp/B07JKWP1CL/?tag=tolees0ca-21) mit Preis 12.97 EUR (original: 19.99 EUR) 35.12 % Rabatt hier:
 
-[![Playmobil 70009 SuperSet Galaxy Police G](https://images-eu.ssl-images-amazon.com/images/I/514a2TDINHL._SL200_.jpg)](https://www.amazon.de/dp/B07JKWP1CL/?tag=tolees0ca-21)
+[![Playmobil 70009 SuperSet Galaxy Police G](https://images-eu.ssl-images-amazon.com/images/I/514a2TDINHL._SL400_.jpg)](https://www.amazon.de/dp/B07JKWP1CL/?tag=tolees0ca-21)
 
 ℹ️:
 

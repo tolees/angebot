@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Herren CORE Cotton-Silk C mit 29.98 % Rabatt'
 date: 2020-02-28 04:55:44
-image: 'https://m.media-amazon.com/images/I/41-XyQ0LuDL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-XyQ0LuDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.95'
 
 Sie können [Tommy Hilfiger Herren CORE Cotton-Silk CNECK Pullover  Blau  Sky Captain 403   Small](https://www.amazon.de/dp/B074SRB1DF/?tag=tolees0ca-21) mit Preis 69.95 EUR (original: 99.9 EUR) 29.98 % Rabatt hier:
 
-[![Tommy Hilfiger Herren CORE Cotton-Silk C](https://m.media-amazon.com/images/I/41-XyQ0LuDL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B074SRB1DF/?tag=tolees0ca-21)
+[![Tommy Hilfiger Herren CORE Cotton-Silk C](https://m.media-amazon.com/images/I/41-XyQ0LuDL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B074SRB1DF/?tag=tolees0ca-21)
 
 ℹ️:
 

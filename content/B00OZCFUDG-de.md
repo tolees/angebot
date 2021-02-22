@@ -2,7 +2,7 @@
 layout: post
 title: '24.73 % rabat auf Netgear GS752TX 52-Port Gigabit/10G Stac'
 date: 2020-09-21 14:50:43
-image: 'https://m.media-amazon.com/images/I/31IwbRvupvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31IwbRvupvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '730.08'
 
 Es gibt ein [Netgear GS752TX 52-Port Gigabit/10G Stackable LAN Switch Smart Managed Pro  mit 2x 10G Kupfer und 2x 10G-SFP+  Desktop- oder Rack-Montage mit ProSAFE Lifetime-Garantie  schwarz](https://www.amazon.de/dp/B00OZCFUDG/?tag=tolees0ca-21) mit aktuellem Preis 730.08 EUR (original: 969.99 EUR) 24.73 % Rabatt hier:
 
-[![Netgear GS752TX 52-Port Gigabit/10G Stac](https://m.media-amazon.com/images/I/31IwbRvupvL._SL200_.jpg)](https://www.amazon.de/dp/B00OZCFUDG/?tag=tolees0ca-21)
+[![Netgear GS752TX 52-Port Gigabit/10G Stac](https://m.media-amazon.com/images/I/31IwbRvupvL._SL400_.jpg)](https://www.amazon.de/dp/B00OZCFUDG/?tag=tolees0ca-21)
 
 ℹ️:
 

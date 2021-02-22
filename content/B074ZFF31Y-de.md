@@ -2,7 +2,7 @@
 layout: post
 title: 'De Longhi Nespresso EN 500.W Kaffeemasch mit 24.25 % Rabatt'
 date: 2020-02-29 09:50:48
-image: 'https://m.media-amazon.com/images/I/41STuArgGlL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41STuArgGlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '119.99'
 
 Sie können [De Longhi Nespresso EN 500.W Kaffeemaschine  1400 W  1 l  19 Bar   Silky Weiß](https://www.amazon.de/dp/B074ZFF31Y/?tag=tolees0ca-21) mit Preis 119.99 EUR (original: 158.41 EUR) 24.25 % Rabatt hier:
 
-[![De Longhi Nespresso EN 500.W Kaffeemasch](https://m.media-amazon.com/images/I/41STuArgGlL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B074ZFF31Y/?tag=tolees0ca-21)
+[![De Longhi Nespresso EN 500.W Kaffeemasch](https://m.media-amazon.com/images/I/41STuArgGlL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B074ZFF31Y/?tag=tolees0ca-21)
 
 ℹ️:
 

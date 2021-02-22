@@ -2,7 +2,7 @@
 layout: post
 title: 'Revell Modellbausatz Flugzeug 1:144 - Ai mit 41.88 % Rabatt'
 date: 2020-03-24 10:54:45
-image: 'https://m.media-amazon.com/images/I/51ZYBNnXnoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ZYBNnXnoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.43'
 
 Sie können [Revell Modellbausatz Flugzeug 1:144 - Airbus A380 Design New livery "First Flight" im Maßstab 1:144  Level 5  originalgetreue Nachbildung mit vielen Details  Zivilflugzeug  Passagierflugzeug  04218](https://www.amazon.de/dp/B000BM61UU/?tag=tolees0ca-21) mit Preis 17.43 EUR (original: 29.99 EUR) 41.88 % Rabatt hier:
 
-[![Revell Modellbausatz Flugzeug 1:144 - Ai](https://m.media-amazon.com/images/I/51ZYBNnXnoL._SL200_.jpg)](https://www.amazon.de/dp/B000BM61UU/?tag=tolees0ca-21)
+[![Revell Modellbausatz Flugzeug 1:144 - Ai](https://m.media-amazon.com/images/I/51ZYBNnXnoL._SL400_.jpg)](https://www.amazon.de/dp/B000BM61UU/?tag=tolees0ca-21)
 
 ℹ️:
 

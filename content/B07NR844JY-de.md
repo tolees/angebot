@@ -2,7 +2,7 @@
 layout: post
 title: '54.67 % rabat auf Dickie Toys 203719011 Polizeistation  Ul'
 date: 2020-04-14 16:42:26
-image: 'https://m.media-amazon.com/images/I/41cRrjQzfGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cRrjQzfGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.994'
 
 Es gibt ein [Dickie Toys 203719011 Polizeistation  Ultimate Police Headquarter  Set Polizei  inkl. Fahrzeuge  bekannt aus TV-Werbung  Geschenkset Kinder  Mehrfarbig](https://www.amazon.de/dp/B07NR844JY/?tag=tolees0ca-21) mit aktuellem Preis 33.99 EUR (original: 74.99 EUR) 54.67 % Rabatt hier:
 
-[![Dickie Toys 203719011 Polizeistation  Ul](https://m.media-amazon.com/images/I/41cRrjQzfGL._SL200_.jpg)](https://www.amazon.de/dp/B07NR844JY/?tag=tolees0ca-21)
+[![Dickie Toys 203719011 Polizeistation  Ul](https://m.media-amazon.com/images/I/41cRrjQzfGL._SL400_.jpg)](https://www.amazon.de/dp/B07NR844JY/?tag=tolees0ca-21)
 
 ℹ️:
 

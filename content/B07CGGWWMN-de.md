@@ -2,7 +2,7 @@
 layout: post
 title: 'Disney Malrolle selbstklebend Anna und E mit 31.64 % Rabatt'
 date: 2020-01-28 10:18:24
-image: 'https://m.media-amazon.com/images/I/61-HUNZz0aL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61-HUNZz0aL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.88'
 
 Sie können [Disney Malrolle selbstklebend Anna und ELSA - Großartiger Malspaß Eiskönigin - Frozen für Kinder - Basteln - Malbuch](https://www.amazon.de/dp/B07CGGWWMN/?tag=tolees0ca-21) mit Preis 8.88 EUR (original: 12.99 EUR) 31.64 % Rabatt hier:
 
-[![Disney Malrolle selbstklebend Anna und E](https://m.media-amazon.com/images/I/61-HUNZz0aL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07CGGWWMN/?tag=tolees0ca-21)
+[![Disney Malrolle selbstklebend Anna und E](https://m.media-amazon.com/images/I/61-HUNZz0aL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07CGGWWMN/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Playmobil 9334 - Sheriff mit 50.50 % Rabatt'
 date: 2020-01-16 06:11:22
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51tvV4a2R7L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tvV4a2R7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.2350000000000003'
 
 Sie können [Playmobil 9334 - Sheriff](https://www.amazon.de/dp/B0767DNHKL/?tag=tolees0ca-21) mit Preis 1.48 EUR (original: 2.99 EUR) 50.50 % Rabatt hier:
 
-[![Playmobil 9334 - Sheriff](https://images-eu.ssl-images-amazon.com/images/I/51tvV4a2R7L._SL200_.jpg)](https://www.amazon.de/dp/B0767DNHKL/?tag=tolees0ca-21)
+[![Playmobil 9334 - Sheriff](https://images-eu.ssl-images-amazon.com/images/I/51tvV4a2R7L._SL400_.jpg)](https://www.amazon.de/dp/B0767DNHKL/?tag=tolees0ca-21)
 
 ℹ️:
 

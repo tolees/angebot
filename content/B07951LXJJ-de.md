@@ -2,7 +2,7 @@
 layout: post
 title: 'Fire HD 8-Tablet  32 GB  Schwarz  ohne S mit 29.17 % Rabatt'
 date: 2020-04-14 16:15:33
-image: 'https://m.media-amazon.com/images/I/41C0VgV6SIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41C0VgV6SIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '84.99'
 
 Sie können [Fire HD 8-Tablet  32 GB  Schwarz  ohne Spezialangebote](https://www.amazon.de/dp/B07951LXJJ/?tag=tolees0ca-21) mit Preis 84.99 EUR (original: 119.99 EUR) 29.17 % Rabatt hier:
 
-[![Fire HD 8-Tablet  32 GB  Schwarz  ohne S](https://m.media-amazon.com/images/I/41C0VgV6SIL._SL200_.jpg)](https://www.amazon.de/dp/B07951LXJJ/?tag=tolees0ca-21)
+[![Fire HD 8-Tablet  32 GB  Schwarz  ohne S](https://m.media-amazon.com/images/I/41C0VgV6SIL._SL400_.jpg)](https://www.amazon.de/dp/B07951LXJJ/?tag=tolees0ca-21)
 
 ℹ️:
 

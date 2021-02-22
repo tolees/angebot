@@ -2,7 +2,7 @@
 layout: post
 title: 'DXX Technik Bausteine FRR-F1 Racing Auto mit 55.00 % Rabatt'
 date: 2020-04-16 17:40:25
-image: 'https://m.media-amazon.com/images/I/51EFpS6it+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51EFpS6it+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '81.91307692307694'
 
 Sie können [DXX Technik Bausteine FRR-F1 Racing Auto  585Teile 2.4G Sportwagen Bausteine Konstruktionsspielzeug Kompatibel mit Lego Technic](https://www.amazon.de/dp/B083DMJ5HN/?tag=tolees0ca-21) mit Preis 89.99 EUR (original: 199.99 EUR) 55.00 % Rabatt hier:
 
-[![DXX Technik Bausteine FRR-F1 Racing Auto](https://m.media-amazon.com/images/I/51EFpS6it+L._SL200_.jpg)](https://www.amazon.de/dp/B083DMJ5HN/?tag=tolees0ca-21)
+[![DXX Technik Bausteine FRR-F1 Racing Auto](https://m.media-amazon.com/images/I/51EFpS6it+L._SL400_.jpg)](https://www.amazon.de/dp/B083DMJ5HN/?tag=tolees0ca-21)
 
 ℹ️:
 

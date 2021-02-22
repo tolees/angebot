@@ -2,7 +2,7 @@
 layout: post
 title: '24.25 % rabat auf KALFF KFZ-Verbandkasten Compact DIN 1316'
 date: 2020-09-17 17:36:15
-image: 'https://m.media-amazon.com/images/I/41vQ-4eiApL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vQ-4eiApL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.81'
 
 Es gibt ein [KALFF KFZ-Verbandkasten Compact DIN 13164 mit Erste-Hilfe Broschüre](https://www.amazon.de/dp/B00FSEJHD4/?tag=tolees0ca-21) mit aktuellem Preis 6.81 EUR (original: 8.99 EUR) 24.25 % Rabatt hier:
 
-[![KALFF KFZ-Verbandkasten Compact DIN 1316](https://m.media-amazon.com/images/I/41vQ-4eiApL._SL200_.jpg)](https://www.amazon.de/dp/B00FSEJHD4/?tag=tolees0ca-21)
+[![KALFF KFZ-Verbandkasten Compact DIN 1316](https://m.media-amazon.com/images/I/41vQ-4eiApL._SL400_.jpg)](https://www.amazon.de/dp/B00FSEJHD4/?tag=tolees0ca-21)
 
 ℹ️:
 

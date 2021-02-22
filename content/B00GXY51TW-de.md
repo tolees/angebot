@@ -2,7 +2,7 @@
 layout: post
 title: 'The LEGO Movie Videogame - [PlayStation  mit 75.77 % Rabatt'
 date: 2020-04-16 08:48:57
-image: 'https://m.media-amazon.com/images/I/61NPECPz-WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61NPECPz-WL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.55'
 
 Sie können [The LEGO Movie Videogame - [PlayStation Vita]](https://www.amazon.de/dp/B00GXY51TW/?tag=tolees0ca-21) mit Preis 4.77 EUR (original: 19.69 EUR) 75.77 % Rabatt hier:
 
-[![The LEGO Movie Videogame - [PlayStation ](https://m.media-amazon.com/images/I/61NPECPz-WL._SL200_.jpg)](https://www.amazon.de/dp/B00GXY51TW/?tag=tolees0ca-21)
+[![The LEGO Movie Videogame - [PlayStation ](https://m.media-amazon.com/images/I/61NPECPz-WL._SL400_.jpg)](https://www.amazon.de/dp/B00GXY51TW/?tag=tolees0ca-21)
 
 ℹ️:
 

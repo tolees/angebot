@@ -2,7 +2,7 @@
 layout: post
 title: '43.77 % rabat auf Gigabyte GeForce GTX 1060 GV-N1060WF2OC-'
 date: 2020-03-10 14:29:55
-image: 'https://m.media-amazon.com/images/I/51CUeVUGfPL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51CUeVUGfPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '185.0'
 
 Es gibt ein [Gigabyte GeForce GTX 1060 GV-N1060WF2OC-6GDGrafikkarte schwarz](https://www.amazon.de/dp/B01LZ2TDZO/?tag=tolees0ca-21) mit aktuellem Preis 185.0 EUR (original: 329.0 EUR) 43.77 % Rabatt hier:
 
-[![Gigabyte GeForce GTX 1060 GV-N1060WF2OC-](https://m.media-amazon.com/images/I/51CUeVUGfPL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B01LZ2TDZO/?tag=tolees0ca-21)
+[![Gigabyte GeForce GTX 1060 GV-N1060WF2OC-](https://m.media-amazon.com/images/I/51CUeVUGfPL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01LZ2TDZO/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '21.18 % rabat auf Citizen Herren Analog Quarz Uhr mit Plas'
 date: 2020-02-21 13:48:10
-image: 'https://m.media-amazon.com/images/I/51RlsWV2IIL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RlsWV2IIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '156.86'
 
 Es gibt ein [Citizen Herren Analog Quarz Uhr mit Plastik Armband BN0150-10E](https://www.amazon.de/dp/B00R7PSW38/?tag=tolees0ca-21) mit aktuellem Preis 156.86 EUR (original: 199.0 EUR) 21.18 % Rabatt hier:
 
-[![Citizen Herren Analog Quarz Uhr mit Plas](https://m.media-amazon.com/images/I/51RlsWV2IIL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00R7PSW38/?tag=tolees0ca-21)
+[![Citizen Herren Analog Quarz Uhr mit Plas](https://m.media-amazon.com/images/I/51RlsWV2IIL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00R7PSW38/?tag=tolees0ca-21)
 
 ℹ️:
 

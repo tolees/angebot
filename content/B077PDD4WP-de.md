@@ -2,7 +2,7 @@
 layout: post
 title: '28.01 % rabat auf Hasbro Gaming 98936398 - Hippo Flipp Kin'
 date: 2020-06-11 22:56:22
-image: 'https://m.media-amazon.com/images/I/51UeQOSfIKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51UeQOSfIKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.23625'
 
 Es gibt ein [Hasbro Gaming 98936398 - Hippo Flipp Kinderspiel](https://www.amazon.de/dp/B077PDD4WP/?tag=tolees0ca-21) mit aktuellem Preis 17.99 EUR (original: 24.99 EUR) 28.01 % Rabatt hier:
 
-[![Hasbro Gaming 98936398 - Hippo Flipp Kin](https://m.media-amazon.com/images/I/51UeQOSfIKL._SL200_.jpg)](https://www.amazon.de/dp/B077PDD4WP/?tag=tolees0ca-21)
+[![Hasbro Gaming 98936398 - Hippo Flipp Kin](https://m.media-amazon.com/images/I/51UeQOSfIKL._SL400_.jpg)](https://www.amazon.de/dp/B077PDD4WP/?tag=tolees0ca-21)
 
 ℹ️:
 

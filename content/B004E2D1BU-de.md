@@ -2,7 +2,7 @@
 layout: post
 title: 'Hasbro 33596848 - Super Soaker Bottle Bl mit 25.59 % Rabatt'
 date: 2020-04-17 23:34:14
-image: 'https://m.media-amazon.com/images/I/31CJeRLKPTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31CJeRLKPTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 Sie können [Hasbro 33596848 - Super Soaker Bottle Blitz](https://www.amazon.de/dp/B004E2D1BU/?tag=tolees0ca-21) mit Preis 15.99 EUR (original: 21.49 EUR) 25.59 % Rabatt hier:
 
-[![Hasbro 33596848 - Super Soaker Bottle Bl](https://m.media-amazon.com/images/I/31CJeRLKPTL._SL200_.jpg)](https://www.amazon.de/dp/B004E2D1BU/?tag=tolees0ca-21)
+[![Hasbro 33596848 - Super Soaker Bottle Bl](https://m.media-amazon.com/images/I/31CJeRLKPTL._SL400_.jpg)](https://www.amazon.de/dp/B004E2D1BU/?tag=tolees0ca-21)
 
 ℹ️:
 

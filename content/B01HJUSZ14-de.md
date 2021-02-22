@@ -2,7 +2,7 @@
 layout: post
 title: '72.22 % rabat auf QNAP TVS-1282-i3-8G  Hochleistungsfähige'
 date: 2020-04-14 19:42:57
-image: 'https://m.media-amazon.com/images/I/41pY-WFUraL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pY-WFUraL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1206.7350000000001'
 
 Es gibt ein [QNAP TVS-1282-i3-8G  Hochleistungsfähiges NAS-System  Tiered Storage  Intel-Prozessoren der 7. Generation  schwarz](https://www.amazon.de/dp/B01HJUSZ14/?tag=tolees0ca-21) mit aktuellem Preis 545.0 EUR (original: 1962.0 EUR) 72.22 % Rabatt hier:
 
-[![QNAP TVS-1282-i3-8G  Hochleistungsfähige](https://m.media-amazon.com/images/I/41pY-WFUraL._SL200_.jpg)](https://www.amazon.de/dp/B01HJUSZ14/?tag=tolees0ca-21)
+[![QNAP TVS-1282-i3-8G  Hochleistungsfähige](https://m.media-amazon.com/images/I/41pY-WFUraL._SL400_.jpg)](https://www.amazon.de/dp/B01HJUSZ14/?tag=tolees0ca-21)
 
 ℹ️:
 

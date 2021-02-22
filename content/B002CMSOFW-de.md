@@ -2,7 +2,7 @@
 layout: post
 title: '51.91 % rabat auf Mantona Colt DSLR Kamera Tasche für Spie'
 date: 2020-09-22 07:44:05
-image: 'https://m.media-amazon.com/images/I/51xH+bZUeyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xH+bZUeyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.82'
 
 Es gibt ein [Mantona Colt DSLR Kamera Tasche für Spiegelreflex  SLR  Kompaktkamera  Systemkamera  Schultertasche Umhängetasche mit Platz für Zubehör  wasserdicht](https://www.amazon.de/dp/B002CMSOFW/?tag=tolees0ca-21) mit aktuellem Preis 15.82 EUR (original: 32.9 EUR) 51.91 % Rabatt hier:
 
-[![Mantona Colt DSLR Kamera Tasche für Spie](https://m.media-amazon.com/images/I/51xH+bZUeyL._SL200_.jpg)](https://www.amazon.de/dp/B002CMSOFW/?tag=tolees0ca-21)
+[![Mantona Colt DSLR Kamera Tasche für Spie](https://m.media-amazon.com/images/I/51xH+bZUeyL._SL400_.jpg)](https://www.amazon.de/dp/B002CMSOFW/?tag=tolees0ca-21)
 
 ℹ️:
 

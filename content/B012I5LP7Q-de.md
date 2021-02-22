@@ -2,7 +2,7 @@
 layout: post
 title: 'funny-frisch goldfischli Sesam  100 g mit 25.21 % Rabatt'
 date: 2020-06-11 23:17:18
-image: 'https://m.media-amazon.com/images/I/51tzsfmAlvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51tzsfmAlvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '0.89'
 
 Sie können [funny-frisch goldfischli Sesam  100 g](https://www.amazon.de/dp/B012I5LP7Q/?tag=tolees0ca-21) mit Preis 0.89 EUR (original: 1.19 EUR) 25.21 % Rabatt hier:
 
-[![funny-frisch goldfischli Sesam  100 g](https://m.media-amazon.com/images/I/51tzsfmAlvL._SL200_.jpg)](https://www.amazon.de/dp/B012I5LP7Q/?tag=tolees0ca-21)
+[![funny-frisch goldfischli Sesam  100 g](https://m.media-amazon.com/images/I/51tzsfmAlvL._SL400_.jpg)](https://www.amazon.de/dp/B012I5LP7Q/?tag=tolees0ca-21)
 
 ℹ️:
 

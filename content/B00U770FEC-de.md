@@ -2,7 +2,7 @@
 layout: post
 title: '34.80 % rabat auf Dickie 203715001 Toys City Fire Engine  '
 date: 2020-04-11 08:09:04
-image: 'https://m.media-amazon.com/images/I/51uHCULiAYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51uHCULiAYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 Es gibt ein [Dickie 203715001 Toys City Fire Engine  Feuerwehrauto mit manueller Wasserspritze  Feuerwehr  Einsatzfahrzeug  Licht & Sound  31 cm  ab 3 Jahren](https://www.amazon.de/dp/B00U770FEC/?tag=tolees0ca-21) mit aktuellem Preis 14.99 EUR (original: 22.99 EUR) 34.80 % Rabatt hier:
 
-[![Dickie 203715001 Toys City Fire Engine  ](https://m.media-amazon.com/images/I/51uHCULiAYL._SL200_.jpg)](https://www.amazon.de/dp/B00U770FEC/?tag=tolees0ca-21)
+[![Dickie 203715001 Toys City Fire Engine  ](https://m.media-amazon.com/images/I/51uHCULiAYL._SL400_.jpg)](https://www.amazon.de/dp/B00U770FEC/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '37.88 % rabat auf AWA - Sydney – Chrom - Waschtischarmatur'
 date: 2020-03-04 04:51:16
-image: 'https://m.media-amazon.com/images/I/41nq+HzChsL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nq+HzChsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.28'
 
 Es gibt ein [AWA - Sydney – Chrom - Waschtischarmatur – RED DOT 2015](https://www.amazon.de/dp/B00Q2KZMOG/?tag=tolees0ca-21) mit aktuellem Preis 49.28 EUR (original: 79.33 EUR) 37.88 % Rabatt hier:
 
-[![AWA - Sydney – Chrom - Waschtischarmatur](https://m.media-amazon.com/images/I/41nq+HzChsL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B00Q2KZMOG/?tag=tolees0ca-21)
+[![AWA - Sydney – Chrom - Waschtischarmatur](https://m.media-amazon.com/images/I/41nq+HzChsL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00Q2KZMOG/?tag=tolees0ca-21)
 
 ℹ️:
 

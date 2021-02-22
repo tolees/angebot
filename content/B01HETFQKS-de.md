@@ -2,7 +2,7 @@
 layout: post
 title: 'Bose SoundLink Color II  Bluetooth - Out mit 23.52 % Rabatt'
 date: 2020-08-01 10:17:28
-image: 'https://m.media-amazon.com/images/I/51e3m5w6xWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51e3m5w6xWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '101.52'
 
 Sie können [Bose SoundLink Color II  Bluetooth - Outdoor - Lautsprecher   wasserdicht IPX4   Grau](https://www.amazon.de/dp/B01HETFQKS/?tag=tolees0ca-21) mit Preis 107.03 EUR (original: 139.95 EUR) 23.52 % Rabatt hier:
 
-[![Bose SoundLink Color II  Bluetooth - Out](https://m.media-amazon.com/images/I/51e3m5w6xWL._SL200_.jpg)](https://www.amazon.de/dp/B01HETFQKS/?tag=tolees0ca-21)
+[![Bose SoundLink Color II  Bluetooth - Out](https://m.media-amazon.com/images/I/51e3m5w6xWL._SL400_.jpg)](https://www.amazon.de/dp/B01HETFQKS/?tag=tolees0ca-21)
 
 ℹ️:
 

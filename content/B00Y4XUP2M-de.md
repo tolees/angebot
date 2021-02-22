@@ -2,7 +2,7 @@
 layout: post
 title: '41.54 % rabat auf Lacoste Herren Poloshirt  Schwarz  Noir '
 date: 2020-10-11 06:21:37
-image: 'https://m.media-amazon.com/images/I/41vRz4Jj35L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vRz4Jj35L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.88'
 
 Es gibt ein [Lacoste Herren Poloshirt  Schwarz  Noir   Medium  Herstellergröße: 4 ](https://www.amazon.de/dp/B00Y4XUP2M/?tag=tolees0ca-21) mit aktuellem Preis 57.88 EUR (original: 99.0 EUR) 41.54 % Rabatt hier:
 
-[![Lacoste Herren Poloshirt  Schwarz  Noir ](https://m.media-amazon.com/images/I/41vRz4Jj35L._SL200_.jpg)](https://www.amazon.de/dp/B00Y4XUP2M/?tag=tolees0ca-21)
+[![Lacoste Herren Poloshirt  Schwarz  Noir ](https://m.media-amazon.com/images/I/41vRz4Jj35L._SL400_.jpg)](https://www.amazon.de/dp/B00Y4XUP2M/?tag=tolees0ca-21)
 
 ℹ️:
 

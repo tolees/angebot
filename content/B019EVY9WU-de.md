@@ -2,7 +2,7 @@
 layout: post
 title: 'Mobicool FR40  elektrische Kompressor-Kü mit 26.04 % Rabatt'
 date: 2020-07-12 11:37:26
-image: 'https://m.media-amazon.com/images/I/41bStHQxhGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bStHQxhGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '258.81'
 
 Sie können [Mobicool FR40  elektrische Kompressor-Kühlbox mit 38 Liter Fassungsvermögen  12/24 V und 230 V für Auto  Lkw  Boot und Steckdose](https://www.amazon.de/dp/B019EVY9WU/?tag=tolees0ca-21) mit Preis 258.81 EUR (original: 349.95 EUR) 26.04 % Rabatt hier:
 
-[![Mobicool FR40  elektrische Kompressor-Kü](https://m.media-amazon.com/images/I/41bStHQxhGL._SL200_.jpg)](https://www.amazon.de/dp/B019EVY9WU/?tag=tolees0ca-21)
+[![Mobicool FR40  elektrische Kompressor-Kü](https://m.media-amazon.com/images/I/41bStHQxhGL._SL400_.jpg)](https://www.amazon.de/dp/B019EVY9WU/?tag=tolees0ca-21)
 
 ℹ️:
 

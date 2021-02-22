@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips XC7042/01 SpeedPro Max kabellose mit 20.00 % Rabatt'
 date: 2020-07-12 11:35:37
-image: 'https://m.media-amazon.com/images/I/31Btp7QjY1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Btp7QjY1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '287.99'
 
 Sie können [Philips XC7042/01 SpeedPro Max kabelloser Staubsauger 7000 Series  mit Akku  360°-Saugdüse  65 Min. Akkulaufzeit  rot](https://www.amazon.de/dp/B07WRD2M69/?tag=tolees0ca-21) mit Preis 287.99 EUR (original: 359.99 EUR) 20.00 % Rabatt hier:
 
-[![Philips XC7042/01 SpeedPro Max kabellose](https://m.media-amazon.com/images/I/31Btp7QjY1L._SL200_.jpg)](https://www.amazon.de/dp/B07WRD2M69/?tag=tolees0ca-21)
+[![Philips XC7042/01 SpeedPro Max kabellose](https://m.media-amazon.com/images/I/31Btp7QjY1L._SL400_.jpg)](https://www.amazon.de/dp/B07WRD2M69/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '33.99 % rabat auf Funko 34910 Game of Thrones: Ghost POP S'
 date: 2020-04-01 05:03:18
-image: 'https://m.media-amazon.com/images/I/51WjlX7nj8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51WjlX7nj8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.15'
 
 Es gibt ein [Funko 34910 Game of Thrones: Ghost POP Schlüsselanhänger Figur  Multi](https://www.amazon.de/dp/B07DFF22GQ/?tag=tolees0ca-21) mit aktuellem Preis 4.0 EUR (original: 6.06 EUR) 33.99 % Rabatt hier:
 
-[![Funko 34910 Game of Thrones: Ghost POP S](https://m.media-amazon.com/images/I/51WjlX7nj8L._SL200_.jpg)](https://www.amazon.de/dp/B07DFF22GQ/?tag=tolees0ca-21)
+[![Funko 34910 Game of Thrones: Ghost POP S](https://m.media-amazon.com/images/I/51WjlX7nj8L._SL400_.jpg)](https://www.amazon.de/dp/B07DFF22GQ/?tag=tolees0ca-21)
 
 ℹ️:
 

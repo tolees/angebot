@@ -2,7 +2,7 @@
 layout: post
 title: '46.61 % rabat auf Silverline 598492 Gummihammer  schwarz 9'
 date: 2020-10-11 06:22:09
-image: 'https://m.media-amazon.com/images/I/31LHMWOvxBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31LHMWOvxBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.99'
 
 Es gibt ein [Silverline 598492 Gummihammer  schwarz 907 g](https://www.amazon.de/dp/B000LFXDNK/?tag=tolees0ca-21) mit aktuellem Preis 2.99 EUR (original: 5.6 EUR) 46.61 % Rabatt hier:
 
-[![Silverline 598492 Gummihammer  schwarz 9](https://m.media-amazon.com/images/I/31LHMWOvxBL._SL200_.jpg)](https://www.amazon.de/dp/B000LFXDNK/?tag=tolees0ca-21)
+[![Silverline 598492 Gummihammer  schwarz 9](https://m.media-amazon.com/images/I/31LHMWOvxBL._SL400_.jpg)](https://www.amazon.de/dp/B000LFXDNK/?tag=tolees0ca-21)
 
 ℹ️:
 

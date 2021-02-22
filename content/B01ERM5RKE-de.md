@@ -2,7 +2,7 @@
 layout: post
 title: 'The First Avenger: Civil War mit 35.62 % Rabatt'
 date: 2020-04-16 08:00:01
-image: 'https://m.media-amazon.com/images/I/518+C7VFteL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518+C7VFteL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.293333333333333'
 
 Sie können [The First Avenger: Civil War](https://www.amazon.de/dp/B01ERM5RKE/?tag=tolees0ca-21) mit Preis 4.5 EUR (original: 6.99 EUR) 35.62 % Rabatt hier:
 
-[![The First Avenger: Civil War](https://m.media-amazon.com/images/I/518+C7VFteL._SL200_.jpg)](https://www.amazon.de/dp/B01ERM5RKE/?tag=tolees0ca-21)
+[![The First Avenger: Civil War](https://m.media-amazon.com/images/I/518+C7VFteL._SL400_.jpg)](https://www.amazon.de/dp/B01ERM5RKE/?tag=tolees0ca-21)
 
 ℹ️:
 

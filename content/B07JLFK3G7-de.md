@@ -2,7 +2,7 @@
 layout: post
 title: 'Playmobil 70000 Fairies Romantisches Fee mit 50.28 % Rabatt'
 date: 2020-08-24 23:00:22
-image: 'https://m.media-amazon.com/images/I/51Krj-y1gAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Krj-y1gAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.002333333333334'
 
 Sie können [Playmobil 70000 Fairies Romantisches Feenboot  bunt](https://www.amazon.de/dp/B07JLFK3G7/?tag=tolees0ca-21) mit Preis 7.95 EUR (original: 15.99 EUR) 50.28 % Rabatt hier:
 
-[![Playmobil 70000 Fairies Romantisches Fee](https://m.media-amazon.com/images/I/51Krj-y1gAL._SL200_.jpg)](https://www.amazon.de/dp/B07JLFK3G7/?tag=tolees0ca-21)
+[![Playmobil 70000 Fairies Romantisches Fee](https://m.media-amazon.com/images/I/51Krj-y1gAL._SL400_.jpg)](https://www.amazon.de/dp/B07JLFK3G7/?tag=tolees0ca-21)
 
 ℹ️:
 

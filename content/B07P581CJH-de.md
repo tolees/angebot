@@ -2,7 +2,7 @@
 layout: post
 title: 'Playmobil 70194 City Life Oma mit Rollat mit 25.03 % Rabatt'
 date: 2020-04-07 13:22:39
-image: 'https://m.media-amazon.com/images/I/61evwauireL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61evwauireL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.015000000000001'
 
 Sie können [Playmobil 70194 City Life Oma mit Rollator  ab 4 Jahren  bunt  one Size](https://www.amazon.de/dp/B07P581CJH/?tag=tolees0ca-21) mit Preis 5.99 EUR (original: 7.99 EUR) 25.03 % Rabatt hier:
 
-[![Playmobil 70194 City Life Oma mit Rollat](https://m.media-amazon.com/images/I/61evwauireL._SL200_.jpg)](https://www.amazon.de/dp/B07P581CJH/?tag=tolees0ca-21)
+[![Playmobil 70194 City Life Oma mit Rollat](https://m.media-amazon.com/images/I/61evwauireL._SL400_.jpg)](https://www.amazon.de/dp/B07P581CJH/?tag=tolees0ca-21)
 
 ℹ️:
 

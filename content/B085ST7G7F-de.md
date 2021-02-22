@@ -2,7 +2,7 @@
 layout: post
 title: 'Palado® Damen Sandale Korfu | Made in EU mit 30.04 % Rabatt'
 date: 2020-08-23 06:51:58
-image: 'https://m.media-amazon.com/images/I/51hPm5BI+CL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hPm5BI+CL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.95'
 
 Sie können [Palado® Damen Sandale Korfu | Made in EU | Pantoletten in 11 modischen Farben | 2-Riemen Sandaletten mit Natur Kork-Fussbett | Herren Hausschuhe mit Leder-Laufsohle Silber Python Altsilber 38 EU](https://www.amazon.de/dp/B085ST7G7F/?tag=tolees0ca-21) mit Preis 27.95 EUR (original: 39.95 EUR) 30.04 % Rabatt hier:
 
-[![Palado® Damen Sandale Korfu | Made in EU](https://m.media-amazon.com/images/I/51hPm5BI+CL._SL200_.jpg)](https://www.amazon.de/dp/B085ST7G7F/?tag=tolees0ca-21)
+[![Palado® Damen Sandale Korfu | Made in EU](https://m.media-amazon.com/images/I/51hPm5BI+CL._SL400_.jpg)](https://www.amazon.de/dp/B085ST7G7F/?tag=tolees0ca-21)
 
 ℹ️:
 

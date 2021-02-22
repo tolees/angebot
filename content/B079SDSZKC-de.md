@@ -2,7 +2,7 @@
 layout: post
 title: 'Samsung Externer Akkupack  EB-P3000C  10 mit 23.24 % Rabatt'
 date: 2020-01-29 00:07:38
-image: 'https://m.media-amazon.com/images/I/41vs3axczNL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vs3axczNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.95'
 
 Sie können [Samsung Externer Akkupack  EB-P3000C  10.000 mAh  Navy Blau](https://www.amazon.de/dp/B079SDSZKC/?tag=tolees0ca-21) mit Preis 22.95 EUR (original: 29.9 EUR) 23.24 % Rabatt hier:
 
-[![Samsung Externer Akkupack  EB-P3000C  10](https://m.media-amazon.com/images/I/41vs3axczNL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B079SDSZKC/?tag=tolees0ca-21)
+[![Samsung Externer Akkupack  EB-P3000C  10](https://m.media-amazon.com/images/I/41vs3axczNL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B079SDSZKC/?tag=tolees0ca-21)
 
 ℹ️:
 

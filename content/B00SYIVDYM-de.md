@@ -2,7 +2,7 @@
 layout: post
 title: '36.83 % rabat auf Fjällräven Herren High Coast Wind Jacket'
 date: 2020-05-14 22:42:16
-image: 'https://m.media-amazon.com/images/I/41YMxsvWwZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YMxsvWwZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '119.99'
 
 Es gibt ein [Fjällräven Herren High Coast Wind Jacket Anorak  Navy  XL](https://www.amazon.de/dp/B00SYIVDYM/?tag=tolees0ca-21) mit aktuellem Preis 119.99 EUR (original: 189.95 EUR) 36.83 % Rabatt hier:
 
-[![Fjällräven Herren High Coast Wind Jacket](https://m.media-amazon.com/images/I/41YMxsvWwZL._SL200_.jpg)](https://www.amazon.de/dp/B00SYIVDYM/?tag=tolees0ca-21)
+[![Fjällräven Herren High Coast Wind Jacket](https://m.media-amazon.com/images/I/41YMxsvWwZL._SL400_.jpg)](https://www.amazon.de/dp/B00SYIVDYM/?tag=tolees0ca-21)
 
 ℹ️:
 

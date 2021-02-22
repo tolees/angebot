@@ -2,7 +2,7 @@
 layout: post
 title: '29.31 % rabat auf Funko 22058 S1 POP Vinylfigur: Ready Pla'
 date: 2020-01-08 22:47:50
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41fp2srutuL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fp2srutuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.89'
 
 Es gibt ein [Funko 22058 S1 POP Vinylfigur: Ready Player One: i-R0k  Multi](https://www.amazon.de/dp/B0772WFJVF/?tag=tolees0ca-21) mit aktuellem Preis 9.89 EUR (original: 13.99 EUR) 29.31 % Rabatt hier:
 
-[![Funko 22058 S1 POP Vinylfigur: Ready Pla](https://images-eu.ssl-images-amazon.com/images/I/41fp2srutuL._SL200_.jpg)](https://www.amazon.de/dp/B0772WFJVF/?tag=tolees0ca-21)
+[![Funko 22058 S1 POP Vinylfigur: Ready Pla](https://images-eu.ssl-images-amazon.com/images/I/41fp2srutuL._SL400_.jpg)](https://www.amazon.de/dp/B0772WFJVF/?tag=tolees0ca-21)
 
 ℹ️:
 

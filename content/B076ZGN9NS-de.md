@@ -2,7 +2,7 @@
 layout: post
 title: 'Asmodee CGED0036 - Codenames Duett  Fami mit 23.79 % Rabatt'
 date: 2020-02-10 21:53:33
-image: 'https://m.media-amazon.com/images/I/41gVhiq1nhL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gVhiq1nhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.59'
 
 Sie können [Asmodee CGED0036 - Codenames Duett  Familienspiel  deutsch](https://www.amazon.de/dp/B076ZGN9NS/?tag=tolees0ca-21) mit Preis 12.59 EUR (original: 16.52 EUR) 23.79 % Rabatt hier:
 
-[![Asmodee CGED0036 - Codenames Duett  Fami](https://m.media-amazon.com/images/I/41gVhiq1nhL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B076ZGN9NS/?tag=tolees0ca-21)
+[![Asmodee CGED0036 - Codenames Duett  Fami](https://m.media-amazon.com/images/I/41gVhiq1nhL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B076ZGN9NS/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Crystal Art CAK-XLED8 LED Kits  Multicol mit 15.91 % Rabatt'
 date: 2020-04-08 22:00:12
-image: 'https://m.media-amazon.com/images/I/61WzFbGVy4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61WzFbGVy4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.99'
 
 Sie können [Crystal Art CAK-XLED8 LED Kits  Multicolor](https://www.amazon.de/dp/B07R7RSSGP/?tag=tolees0ca-21) mit Preis 36.99 EUR (original: 43.99 EUR) 15.91 % Rabatt hier:
 
-[![Crystal Art CAK-XLED8 LED Kits  Multicol](https://m.media-amazon.com/images/I/61WzFbGVy4L._SL200_.jpg)](https://www.amazon.de/dp/B07R7RSSGP/?tag=tolees0ca-21)
+[![Crystal Art CAK-XLED8 LED Kits  Multicol](https://m.media-amazon.com/images/I/61WzFbGVy4L._SL400_.jpg)](https://www.amazon.de/dp/B07R7RSSGP/?tag=tolees0ca-21)
 
 ℹ️:
 

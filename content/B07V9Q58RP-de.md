@@ -2,7 +2,7 @@
 layout: post
 title: '20.02 % rabat auf AVIWIS Micro USB Kabel  [4Pack 0.3M 1M 2'
 date: 2020-07-10 23:46:57
-image: 'https://m.media-amazon.com/images/I/51nrzazWYVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51nrzazWYVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.74'
 
 Es gibt ein [AVIWIS Micro USB Kabel  [4Pack 0.3M 1M 2M 3M] Nylon Micro USB Ladekabel Android Schnellladekabel für Samsung Galaxy S7 S6 J7 Note 5  Xiaomi  Huawei  Wiko  Nexus  Motorola  Nokia  Kindle  Echo Dot](https://www.amazon.de/dp/B07V9Q58RP/?tag=tolees0ca-21) mit aktuellem Preis 7.99 EUR (original: 9.99 EUR) 20.02 % Rabatt hier:
 
-[![AVIWIS Micro USB Kabel  [4Pack 0.3M 1M 2](https://m.media-amazon.com/images/I/51nrzazWYVL._SL200_.jpg)](https://www.amazon.de/dp/B07V9Q58RP/?tag=tolees0ca-21)
+[![AVIWIS Micro USB Kabel  [4Pack 0.3M 1M 2](https://m.media-amazon.com/images/I/51nrzazWYVL._SL400_.jpg)](https://www.amazon.de/dp/B07V9Q58RP/?tag=tolees0ca-21)
 
 ℹ️:
 

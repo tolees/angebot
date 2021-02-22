@@ -2,7 +2,7 @@
 layout: post
 title: '88.98 % rabat auf Microsoft Surface Book 2 34 29 cm  13 5 '
 date: 2020-04-13 16:19:49
-image: 'https://m.media-amazon.com/images/I/51CrdzF-bkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51CrdzF-bkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '380.0'
 
 Es gibt ein [Microsoft Surface Book 2 34 29 cm  13 5 Zoll  Laptop  Intel Core i7 der 8. Generation  16GB RAM  1TB SSD  NVIDIA GeForce GTX 1050 2GB  Win 10  silber](https://www.amazon.de/dp/B076S2VF4R/?tag=tolees0ca-21) mit aktuellem Preis 380.0 EUR (original: 3449.0 EUR) 88.98 % Rabatt hier:
 
-[![Microsoft Surface Book 2 34 29 cm  13 5 ](https://m.media-amazon.com/images/I/51CrdzF-bkL._SL200_.jpg)](https://www.amazon.de/dp/B076S2VF4R/?tag=tolees0ca-21)
+[![Microsoft Surface Book 2 34 29 cm  13 5 ](https://m.media-amazon.com/images/I/51CrdzF-bkL._SL400_.jpg)](https://www.amazon.de/dp/B076S2VF4R/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '20.12 % rabat auf Sluban Spielzeug Baustein Set Hot Dog Wa'
 date: 2020-03-13 18:32:35
-image: 'https://m.media-amazon.com/images/I/512HyCcQA3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512HyCcQA3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.2555555555555555'
 
 Es gibt ein [Sluban Spielzeug Baustein Set Hot Dog Wagen M38-B0565](https://www.amazon.de/dp/B01H7IRE0G/?tag=tolees0ca-21) mit aktuellem Preis 5.2 EUR (original: 6.51 EUR) 20.12 % Rabatt hier:
 
-[![Sluban Spielzeug Baustein Set Hot Dog Wa](https://m.media-amazon.com/images/I/512HyCcQA3L._SL200_.jpg)](https://www.amazon.de/dp/B01H7IRE0G/?tag=tolees0ca-21)
+[![Sluban Spielzeug Baustein Set Hot Dog Wa](https://m.media-amazon.com/images/I/512HyCcQA3L._SL400_.jpg)](https://www.amazon.de/dp/B01H7IRE0G/?tag=tolees0ca-21)
 
 ℹ️:
 

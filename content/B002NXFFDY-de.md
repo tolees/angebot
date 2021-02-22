@@ -2,7 +2,7 @@
 layout: post
 title: '39.78 % rabat auf The Green Mile [Blu-ray]'
 date: 2020-09-28 08:53:53
-image: 'https://m.media-amazon.com/images/I/51oD4GoAArL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51oD4GoAArL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.95'
 
 Es gibt ein [The Green Mile [Blu-ray]](https://www.amazon.de/dp/B002NXFFDY/?tag=tolees0ca-21) mit aktuellem Preis 5.95 EUR (original: 9.88 EUR) 39.78 % Rabatt hier:
 
-[![The Green Mile [Blu-ray]](https://m.media-amazon.com/images/I/51oD4GoAArL._SL200_.jpg)](https://www.amazon.de/dp/B002NXFFDY/?tag=tolees0ca-21)
+[![The Green Mile [Blu-ray]](https://m.media-amazon.com/images/I/51oD4GoAArL._SL400_.jpg)](https://www.amazon.de/dp/B002NXFFDY/?tag=tolees0ca-21)
 
 ℹ️:
 

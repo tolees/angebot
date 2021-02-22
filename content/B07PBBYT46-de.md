@@ -2,7 +2,7 @@
 layout: post
 title: '18.17 % rabat auf Funko 41965 POP Vinyl: Filme: Silence of'
 date: 2020-03-13 18:40:27
-image: 'https://m.media-amazon.com/images/I/31KZj7GOwSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31KZj7GOwSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.148571428571429'
 
 Es gibt ein [Funko 41965 POP Vinyl: Filme: Silence of Lambs-Hannibal Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B07PBBYT46/?tag=tolees0ca-21) mit aktuellem Preis 5.63 EUR (original: 6.88 EUR) 18.17 % Rabatt hier:
 
-[![Funko 41965 POP Vinyl: Filme: Silence of](https://m.media-amazon.com/images/I/31KZj7GOwSL._SL200_.jpg)](https://www.amazon.de/dp/B07PBBYT46/?tag=tolees0ca-21)
+[![Funko 41965 POP Vinyl: Filme: Silence of](https://m.media-amazon.com/images/I/31KZj7GOwSL._SL400_.jpg)](https://www.amazon.de/dp/B07PBBYT46/?tag=tolees0ca-21)
 
 ℹ️:
 

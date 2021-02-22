@@ -2,7 +2,7 @@
 layout: post
 title: '76.67 % rabat auf Goliath Toys 90515 Starter Set: Recoil  '
 date: 2020-05-11 14:24:02
-image: 'https://m.media-amazon.com/images/I/51OJ01Wyv3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51OJ01Wyv3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.24'
 
 Es gibt ein [Goliath Toys 90515 Starter Set: Recoil  Mehrfarbig](https://www.amazon.de/dp/B07BQMX386/?tag=tolees0ca-21) mit aktuellem Preis 34.99 EUR (original: 149.99 EUR) 76.67 % Rabatt hier:
 
-[![Goliath Toys 90515 Starter Set: Recoil  ](https://m.media-amazon.com/images/I/51OJ01Wyv3L._SL200_.jpg)](https://www.amazon.de/dp/B07BQMX386/?tag=tolees0ca-21)
+[![Goliath Toys 90515 Starter Set: Recoil  ](https://m.media-amazon.com/images/I/51OJ01Wyv3L._SL400_.jpg)](https://www.amazon.de/dp/B07BQMX386/?tag=tolees0ca-21)
 
 ℹ️:
 

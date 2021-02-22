@@ -2,7 +2,7 @@
 layout: post
 title: 'ASICS Damen Gel-Pulse 11 G-TX Laufschuhe mit 41.68 % Rabatt'
 date: 2020-02-11 08:39:54
-image: 'https://m.media-amazon.com/images/I/41nDlGowAbL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nDlGowAbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.99'
 
 Sie können [ASICS Damen Gel-Pulse 11 G-TX Laufschuhe  Blau  Mako Blue/Sun Coral 400   40.5 EU](https://www.amazon.de/dp/B07QZ5D7SX/?tag=tolees0ca-21) mit Preis 69.99 EUR (original: 120.0 EUR) 41.68 % Rabatt hier:
 
-[![ASICS Damen Gel-Pulse 11 G-TX Laufschuhe](https://m.media-amazon.com/images/I/41nDlGowAbL._AC_._SL200_.jpg)](https://www.amazon.de/dp/B07QZ5D7SX/?tag=tolees0ca-21)
+[![ASICS Damen Gel-Pulse 11 G-TX Laufschuhe](https://m.media-amazon.com/images/I/41nDlGowAbL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07QZ5D7SX/?tag=tolees0ca-21)
 
 ℹ️:
 

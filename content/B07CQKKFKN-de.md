@@ -2,7 +2,7 @@
 layout: post
 title: 'No Way Out - Gegen die Flammen [Blu-ray] mit 34.34 % Rabatt'
 date: 2020-09-21 15:19:44
-image: 'https://m.media-amazon.com/images/I/51xS4C7Gx8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xS4C7Gx8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.33'
 
 Sie können [No Way Out - Gegen die Flammen [Blu-ray]](https://www.amazon.de/dp/B07CQKKFKN/?tag=tolees0ca-21) mit Preis 6.33 EUR (original: 9.64 EUR) 34.34 % Rabatt hier:
 
-[![No Way Out - Gegen die Flammen [Blu-ray]](https://m.media-amazon.com/images/I/51xS4C7Gx8L._SL200_.jpg)](https://www.amazon.de/dp/B07CQKKFKN/?tag=tolees0ca-21)
+[![No Way Out - Gegen die Flammen [Blu-ray]](https://m.media-amazon.com/images/I/51xS4C7Gx8L._SL400_.jpg)](https://www.amazon.de/dp/B07CQKKFKN/?tag=tolees0ca-21)
 
 ℹ️:
 

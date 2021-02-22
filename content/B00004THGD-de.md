@@ -2,7 +2,7 @@
 layout: post
 title: '20.04 % rabat auf Hook [Collector s Edition]'
 date: 2020-04-10 15:40:01
-image: 'https://m.media-amazon.com/images/I/51DYNIQk-7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51DYNIQk-7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.49'
 
 Es gibt ein [Hook [Collector s Edition]](https://www.amazon.de/dp/B00004THGD/?tag=tolees0ca-21) mit aktuellem Preis 3.99 EUR (original: 4.99 EUR) 20.04 % Rabatt hier:
 
-[![Hook [Collector s Edition]](https://m.media-amazon.com/images/I/51DYNIQk-7L._SL200_.jpg)](https://www.amazon.de/dp/B00004THGD/?tag=tolees0ca-21)
+[![Hook [Collector s Edition]](https://m.media-amazon.com/images/I/51DYNIQk-7L._SL400_.jpg)](https://www.amazon.de/dp/B00004THGD/?tag=tolees0ca-21)
 
 ℹ️:
 

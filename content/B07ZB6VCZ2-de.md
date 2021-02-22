@@ -2,7 +2,7 @@
 layout: post
 title: '44.46 % rabat auf CMaster Roboter STEM Spielzeug 576 Stück'
 date: 2020-07-24 05:57:05
-image: 'https://m.media-amazon.com/images/I/616QuePEaOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/616QuePEaOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Es gibt ein [CMaster Roboter STEM Spielzeug 576 Stück Konstruktions Spielzeug Konstruktions Spielzeug  12-in-1-Roboter STEM Spielzeug](https://www.amazon.de/dp/B07ZB6VCZ2/?tag=tolees0ca-21) mit aktuellem Preis 19.99 EUR (original: 35.99 EUR) 44.46 % Rabatt hier:
 
-[![CMaster Roboter STEM Spielzeug 576 Stück](https://m.media-amazon.com/images/I/616QuePEaOL._SL200_.jpg)](https://www.amazon.de/dp/B07ZB6VCZ2/?tag=tolees0ca-21)
+[![CMaster Roboter STEM Spielzeug 576 Stück](https://m.media-amazon.com/images/I/616QuePEaOL._SL400_.jpg)](https://www.amazon.de/dp/B07ZB6VCZ2/?tag=tolees0ca-21)
 
 ℹ️:
 

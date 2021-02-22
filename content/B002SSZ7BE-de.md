@@ -2,7 +2,7 @@
 layout: post
 title: 'MTV Unplugged mit 47.65 % Rabatt'
 date: 2020-09-25 18:04:14
-image: 'https://m.media-amazon.com/images/I/51KTWsFhDHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51KTWsFhDHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.9'
 
 Sie können [MTV Unplugged](https://www.amazon.de/dp/B002SSZ7BE/?tag=tolees0ca-21) mit Preis 4.9 EUR (original: 9.36 EUR) 47.65 % Rabatt hier:
 
-[![MTV Unplugged](https://m.media-amazon.com/images/I/51KTWsFhDHL._SL200_.jpg)](https://www.amazon.de/dp/B002SSZ7BE/?tag=tolees0ca-21)
+[![MTV Unplugged](https://m.media-amazon.com/images/I/51KTWsFhDHL._SL400_.jpg)](https://www.amazon.de/dp/B002SSZ7BE/?tag=tolees0ca-21)
 
 ℹ️:
 

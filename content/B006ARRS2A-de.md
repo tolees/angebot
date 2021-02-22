@@ -2,7 +2,7 @@
 layout: post
 title: '39.87 % rabat auf WOLF-Garten - Sport- und Spiel-Rasen LG '
 date: 2020-03-14 04:56:54
-image: 'https://m.media-amazon.com/images/I/41+cMvhVGwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+cMvhVGwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.99'
 
 Es gibt ein [WOLF-Garten - Sport- und Spiel-Rasen LG 500; 3825040](https://www.amazon.de/dp/B006ARRS2A/?tag=tolees0ca-21) mit aktuellem Preis 42.99 EUR (original: 71.49 EUR) 39.87 % Rabatt hier:
 
-[![WOLF-Garten - Sport- und Spiel-Rasen LG ](https://m.media-amazon.com/images/I/41+cMvhVGwL._SL200_.jpg)](https://www.amazon.de/dp/B006ARRS2A/?tag=tolees0ca-21)
+[![WOLF-Garten - Sport- und Spiel-Rasen LG ](https://m.media-amazon.com/images/I/41+cMvhVGwL._SL400_.jpg)](https://www.amazon.de/dp/B006ARRS2A/?tag=tolees0ca-21)
 
 ℹ️:
 

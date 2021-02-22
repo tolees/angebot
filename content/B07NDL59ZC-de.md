@@ -2,7 +2,7 @@
 layout: post
 title: 'G-STAR RAW Herren Pakke Blazer  Blau  Ma mit 65.80 % Rabatt'
 date: 2020-04-06 13:59:23
-image: 'https://m.media-amazon.com/images/I/31t8QinGJ3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31t8QinGJ3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.12'
 
 Sie können [G-STAR RAW Herren Pakke Blazer  Blau  Mazarine Blue 4213    Herstellergröße:L ](https://www.amazon.de/dp/B07NDL59ZC/?tag=tolees0ca-21) mit Preis 58.12 EUR (original: 169.95 EUR) 65.80 % Rabatt hier:
 
-[![G-STAR RAW Herren Pakke Blazer  Blau  Ma](https://m.media-amazon.com/images/I/31t8QinGJ3L._SL200_.jpg)](https://www.amazon.de/dp/B07NDL59ZC/?tag=tolees0ca-21)
+[![G-STAR RAW Herren Pakke Blazer  Blau  Ma](https://m.media-amazon.com/images/I/31t8QinGJ3L._SL400_.jpg)](https://www.amazon.de/dp/B07NDL59ZC/?tag=tolees0ca-21)
 
 ℹ️:
 

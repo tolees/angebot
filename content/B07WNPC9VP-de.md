@@ -2,7 +2,7 @@
 layout: post
 title: 'GODNECE LED Licht-Set für Baustein  Aufg mit 50.00 % Rabatt'
 date: 2020-01-21 10:36:15
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41YpTaogqgL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YpTaogqgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.99'
 
 Sie können [GODNECE LED Licht-Set für Baustein  Aufgerüstet Typ Led Beleuchtungsset Licht-Set für Baustein Spielzeug Kompatibel Mit Lego Technic 42078 - Mack Anthem Bausatz  Modell Nicht Enthalten ](https://www.amazon.de/dp/B07WNPC9VP/?tag=tolees0ca-21) mit Preis 49.99 EUR (original: 99.98 EUR) 50.00 % Rabatt hier:
 
-[![GODNECE LED Licht-Set für Baustein  Aufg](https://images-eu.ssl-images-amazon.com/images/I/41YpTaogqgL._SL200_.jpg)](https://www.amazon.de/dp/B07WNPC9VP/?tag=tolees0ca-21)
+[![GODNECE LED Licht-Set für Baustein  Aufg](https://images-eu.ssl-images-amazon.com/images/I/41YpTaogqgL._SL400_.jpg)](https://www.amazon.de/dp/B07WNPC9VP/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'DCU: Suicide Squad - Hell to Pay  exklus mit 30.15 % Rabatt'
 date: 2020-03-15 15:17:41
-image: 'https://m.media-amazon.com/images/I/51DCg3YcqDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51DCg3YcqDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.97'
 
 Sie können [DCU: Suicide Squad - Hell to Pay  exklusiv bei Amazon.de  [Blu-ray]](https://www.amazon.de/dp/B07B365TZL/?tag=tolees0ca-21) mit Preis 7.97 EUR (original: 11.41 EUR) 30.15 % Rabatt hier:
 
-[![DCU: Suicide Squad - Hell to Pay  exklus](https://m.media-amazon.com/images/I/51DCg3YcqDL._SL200_.jpg)](https://www.amazon.de/dp/B07B365TZL/?tag=tolees0ca-21)
+[![DCU: Suicide Squad - Hell to Pay  exklus](https://m.media-amazon.com/images/I/51DCg3YcqDL._SL400_.jpg)](https://www.amazon.de/dp/B07B365TZL/?tag=tolees0ca-21)
 
 ℹ️:
 

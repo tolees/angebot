@@ -2,7 +2,7 @@
 layout: post
 title: '29.54 % rabat auf LECHUZA CUBICO Premium 40  Taupe Hochgla'
 date: 2020-08-29 21:12:35
-image: 'https://m.media-amazon.com/images/I/31ERLg5bFqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ERLg5bFqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '105.68'
 
 Es gibt ein [LECHUZA CUBICO Premium 40  Taupe Hochglanz  Hochwertiger Kunststoff  Inkl. Bewässerungssystem  Herausnehmbarer Pflanzeinsatz  Für Innenraumbegrünung  18215](https://www.amazon.de/dp/B00JXRFJIO/?tag=tolees0ca-21) mit aktuellem Preis 105.68 EUR (original: 149.99 EUR) 29.54 % Rabatt hier:
 
-[![LECHUZA CUBICO Premium 40  Taupe Hochgla](https://m.media-amazon.com/images/I/31ERLg5bFqL._SL200_.jpg)](https://www.amazon.de/dp/B00JXRFJIO/?tag=tolees0ca-21)
+[![LECHUZA CUBICO Premium 40  Taupe Hochgla](https://m.media-amazon.com/images/I/31ERLg5bFqL._SL400_.jpg)](https://www.amazon.de/dp/B00JXRFJIO/?tag=tolees0ca-21)
 
 ℹ️:
 

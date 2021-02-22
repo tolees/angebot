@@ -2,7 +2,7 @@
 layout: post
 title: '53.20 % rabat auf Ravensburger 21122 Lustige Kinderspiele '
 date: 2020-04-13 00:06:15
-image: 'https://m.media-amazon.com/images/I/51NE3kNo7FL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51NE3kNo7FL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.32'
 
 Es gibt ein [Ravensburger 21122 Lustige Kinderspiele Tiere](https://www.amazon.de/dp/B00B6SC40E/?tag=tolees0ca-21) mit aktuellem Preis 10.76 EUR (original: 22.99 EUR) 53.20 % Rabatt hier:
 
-[![Ravensburger 21122 Lustige Kinderspiele ](https://m.media-amazon.com/images/I/51NE3kNo7FL._SL200_.jpg)](https://www.amazon.de/dp/B00B6SC40E/?tag=tolees0ca-21)
+[![Ravensburger 21122 Lustige Kinderspiele ](https://m.media-amazon.com/images/I/51NE3kNo7FL._SL400_.jpg)](https://www.amazon.de/dp/B00B6SC40E/?tag=tolees0ca-21)
 
 ℹ️:
 

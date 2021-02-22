@@ -2,7 +2,7 @@
 layout: post
 title: 'hansgrohe Wasserhahn Novus wassersparend mit 24.98 % Rabatt'
 date: 2020-09-13 06:23:34
-image: 'https://m.media-amazon.com/images/I/313mWicFhpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/313mWicFhpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.99'
 
 Sie können [hansgrohe Wasserhahn Novus wassersparende Armatur  Auslauf Höhe 100mm mit Zugstangen Ablauf  Chrom](https://www.amazon.de/dp/B075KNJXLB/?tag=tolees0ca-21) mit Preis 57.99 EUR (original: 77.3 EUR) 24.98 % Rabatt hier:
 
-[![hansgrohe Wasserhahn Novus wassersparend](https://m.media-amazon.com/images/I/313mWicFhpL._SL200_.jpg)](https://www.amazon.de/dp/B075KNJXLB/?tag=tolees0ca-21)
+[![hansgrohe Wasserhahn Novus wassersparend](https://m.media-amazon.com/images/I/313mWicFhpL._SL400_.jpg)](https://www.amazon.de/dp/B075KNJXLB/?tag=tolees0ca-21)
 
 ℹ️:
 

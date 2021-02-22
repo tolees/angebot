@@ -2,7 +2,7 @@
 layout: post
 title: 'Harmony mit 25.33 % Rabatt'
 date: 2020-10-03 06:59:08
-image: 'https://m.media-amazon.com/images/I/51K5ABUuvtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51K5ABUuvtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.93'
 
 Sie können [Harmony](https://www.amazon.de/dp/B07TMRSPBD/?tag=tolees0ca-21) mit Preis 8.93 EUR (original: 11.96 EUR) 25.33 % Rabatt hier:
 
-[![Harmony](https://m.media-amazon.com/images/I/51K5ABUuvtL._SL200_.jpg)](https://www.amazon.de/dp/B07TMRSPBD/?tag=tolees0ca-21)
+[![Harmony](https://m.media-amazon.com/images/I/51K5ABUuvtL._SL400_.jpg)](https://www.amazon.de/dp/B07TMRSPBD/?tag=tolees0ca-21)
 
 ℹ️:
 
