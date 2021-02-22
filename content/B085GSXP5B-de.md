@@ -28,8 +28,8 @@ Sie können [Sylvanian Families 5494 Abenteuer Baumhaus - Puppenhaus Spielset](h
 
 ℹ️:
 
-- mit Haus am See kombinierbar
 - Hütte mit Fenster zum Öffnen auf der obersten Ebene
+- mit Haus am See kombinierbar
 - Baumhaus mit mehreren Plattformen zum Bespielen
 - mit Schaukel, Rutsche, mehreren Klettertunneln und Ausguck in der Baumkrone
 

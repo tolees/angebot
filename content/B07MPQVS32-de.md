@@ -28,11 +28,11 @@ Es gibt ein [Sony SRS-XB12 Bluetooth Lautsprecher  tragbar  kabellos  Extra Bass
 
 ℹ️:
 
-- Freisprechfunktion für Anrufe via Bluetooth
-- Bis zu 16 Stunden Akkulaufzeit
-- Extra Bass für satten, kraftvollen Sound
 - Inklusive abnehmbarem Gurt
-- Wasserabweisendes Design für sorgenfreien Einsatz (IP67)
+- Extra Bass für satten, kraftvollen Sound
+- Bis zu 16 Stunden Akkulaufzeit
 - Kompaktes, tragbares Design
+- Freisprechfunktion für Anrufe via Bluetooth
+- Wasserabweisendes Design für sorgenfreien Einsatz (IP67)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07MPQVS32/?tag=tolees0ca-21)

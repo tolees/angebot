@@ -1,37 +1,37 @@
 ---
 layout: post
-title: '27.03 % rabat auf LEGO 75957 Harry Potter Der Fahrende Rit'
-date: 2021-02-05 17:30:52
-image: 'https://m.media-amazon.com/images/I/51YBK2rOmeL._SL200_.jpg'
+title: '25.01 % rabat auf LEGO 75957 Harry Potter Der Fahrende Rit'
+date: 2021-02-22 14:42:14
+image: 'https://m.media-amazon.com/images/I/51YBK2rOmeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07KX54VHF-de LEGO 75957 Harry Potter Der Fahrende Ritter Spielzeug...'
 sku: 'B07KX54VHF-de'
 tags: [  ]
-actualPrice: 29.18 EUR
+actualPrice: 29.99 EUR
 currency: EUR
-price: 29.18
+price: 29.99
 comparePrice: 39.99 EUR
 prodname: 'LEGO 75957 Harry Potter Der Fahrende Ritter Spielzeug  Dreifachdeckerbus  Sammlerset mit Minifiguren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07KX54VHF/?tag=tolees0ca-21'
-descuento: '27.03'
-average: '31.3298571428571'
+descuento: '25.01'
+average: '31.2926388888888'
 ---
 
-Es gibt ein [LEGO 75957 Harry Potter Der Fahrende Ritter Spielzeug  Dreifachdeckerbus  Sammlerset mit Minifiguren](https://www.amazon.de/dp/B07KX54VHF/?tag=tolees0ca-21) mit aktuellem Preis 29.18 EUR (original: 39.99 EUR) 27.03 % Rabatt hier:
+Es gibt ein [LEGO 75957 Harry Potter Der Fahrende Ritter Spielzeug  Dreifachdeckerbus  Sammlerset mit Minifiguren](https://www.amazon.de/dp/B07KX54VHF/?tag=tolees0ca-21) mit aktuellem Preis 29.99 EUR (original: 39.99 EUR) 25.01 % Rabatt hier:
 
-[![LEGO 75957 Harry Potter Der Fahrende Rit](https://m.media-amazon.com/images/I/51YBK2rOmeL._SL200_.jpg)](https://www.amazon.de/dp/B07KX54VHF/?tag=tolees0ca-21)
+[![LEGO 75957 Harry Potter Der Fahrende Rit](https://m.media-amazon.com/images/I/51YBK2rOmeL._SL400_.jpg)](https://www.amazon.de/dp/B07KX54VHF/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Enthält 3x LEGO Harry Potter Minifiguren: Harry Potter, Stan Shunpike und Ernie Prang
 - Enthält zudem ein bewegliches Bett und einen Kronleuchter, der umherwirbelt, wenn der Bus wilde Fahrmanöver ausführt
-- Dieser LEGO Dreifachdeckerbus verfügt über eine aufklappbare Seitenwand und ein abnehmbares Dach für maximales Spielvergnügen
-- Der vorlaute Schrumpfkopf und Harry Potters Truhe mit Zauberstab, Brief, Schokoriegel und einem Zaubertrankflasche sorgen für noch mehr Action und regen zu fantasievollem Spielspaß an
+- Enthält 3x LEGO Harry Potter Minifiguren: Harry Potter, Stan Shunpike und Ernie Prang
 - Der Fahrende Ritter ist 16 cm hoch, 16 cm lang und 6 cm breit
+- Der vorlaute Schrumpfkopf und Harry Potters Truhe mit Zauberstab, Brief, Schokoriegel und einem Zaubertrankflasche sorgen für noch mehr Action und regen zu fantasievollem Spielspaß an
+- Dieser LEGO Dreifachdeckerbus verfügt über eine aufklappbare Seitenwand und ein abnehmbares Dach für maximales Spielvergnügen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07KX54VHF/?tag=tolees0ca-21)
