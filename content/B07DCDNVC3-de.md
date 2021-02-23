@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'PUMA Damen Cali WN s Sneaker  White Whit mit 40.64 % Rabatt'
-date: 2021-02-21 01:12:40
-image: 'https://m.media-amazon.com/images/I/31lLFhzqfHL._SL200_.jpg'
+title: 'PUMA Damen Cali WN s Sneaker  White Whit mit 66.23 % Rabatt'
+date: 2021-02-23 05:42:53
+image: 'https://m.media-amazon.com/images/I/31lLFhzqfHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07DCDNVC3-de PUMA Damen Cali WN s Sneaker White White 39 EU'
 sku: 'B07DCDNVC3-de'
 tags: [  ]
-actualPrice: 59.33 EUR
+actualPrice: 33.75 EUR
 currency: EUR
-price: 59.33
+price: 33.75
 comparePrice: 99.95 EUR
 prodname: 'PUMA Damen Cali WN s Sneaker  White White  39 EU'
 country: 'de'
 flag: '🇩🇪'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.de/dp/B07DCDNVC3/?tag=tolees0ca-21'
-descuento: '40.64'
-average: '40.4930769230769'
+descuento: '66.23'
+average: '39.5939999999999'
 ---
 
-Sie können [PUMA Damen Cali WN s Sneaker  White White  39 EU](https://www.amazon.de/dp/B07DCDNVC3/?tag=tolees0ca-21) mit Preis 59.33 EUR (original: 99.95 EUR) 40.64 % Rabatt hier:
+Sie können [PUMA Damen Cali WN s Sneaker  White White  39 EU](https://www.amazon.de/dp/B07DCDNVC3/?tag=tolees0ca-21) mit Preis 33.75 EUR (original: 99.95 EUR) 66.23 % Rabatt hier:
 
-[![PUMA Damen Cali WN s Sneaker  White Whit](https://m.media-amazon.com/images/I/31lLFhzqfHL._SL200_.jpg)](https://www.amazon.de/dp/B07DCDNVC3/?tag=tolees0ca-21)
+[![PUMA Damen Cali WN s Sneaker  White Whit](https://m.media-amazon.com/images/I/31lLFhzqfHL._SL400_.jpg)](https://www.amazon.de/dp/B07DCDNVC3/?tag=tolees0ca-21)
 
 ℹ️:
 

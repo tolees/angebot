@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'InLine 16653B Netz-Y-Kabel  1x Schutzkon mit 24.80 % Rabatt'
-date: 2021-02-21 00:43:40
-image: 'https://m.media-amazon.com/images/I/51qjZr1SPiL._SL200_.jpg'
+date: 2021-02-23 05:42:59
+image: 'https://m.media-amazon.com/images/I/51qjZr1SPiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,17 +19,17 @@ flag: '🇩🇪'
 brand: 'InLine'
 buyurl: 'https://www.amazon.de/dp/B005ADIWIE/?tag=tolees0ca-21'
 descuento: '24.80'
-average: '9.89000000000003'
+average: '9.42333333333335'
 ---
 
 Sie können [InLine 16653B Netz-Y-Kabel  1x Schutzkontaktstecker zu 3x Kaltgerätestecker  1 8m](https://www.amazon.de/dp/B005ADIWIE/?tag=tolees0ca-21) mit Preis 8.49 EUR (original: 11.29 EUR) 24.80 % Rabatt hier:
 
-[![InLine 16653B Netz-Y-Kabel  1x Schutzkon](https://m.media-amazon.com/images/I/51qjZr1SPiL._SL200_.jpg)](https://www.amazon.de/dp/B005ADIWIE/?tag=tolees0ca-21)
+[![InLine 16653B Netz-Y-Kabel  1x Schutzkon](https://m.media-amazon.com/images/I/51qjZr1SPiL._SL400_.jpg)](https://www.amazon.de/dp/B005ADIWIE/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Farbe: Schwarz
 - Verpackungsabmessungen (L x B x H): 24.5 x 20.0 x 5.0 zm
+- Farbe: Schwarz
 - Verpackungsgewicht: 0.5 Kilogramm
 - Herkunftsland:- China
 
