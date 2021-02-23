@@ -29,7 +29,7 @@ Es gibt ein [Salomon Herren XA PRO 3D V8 GTX  Leichte Schuhe für Trail Running 
 ℹ️:
 
 - Salomon
-- Xa pro 3D V8 GTX
 - Farbe: Black/Black/Black
+- Xa pro 3D V8 GTX
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07WMBC28W/?tag=tolees0ca-21)

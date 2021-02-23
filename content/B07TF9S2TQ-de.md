@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '27.18 % rabat auf KSM - Heartland - Paradies für Pferde: S'
-date: 2021-02-21 12:55:53
-image: 'https://m.media-amazon.com/images/I/51Nu2YQ1BRL._SL200_.jpg'
+date: 2021-02-23 00:32:36
+image: 'https://m.media-amazon.com/images/I/51Nu2YQ1BRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇩🇪'
 brand: 'KSM'
 buyurl: 'https://www.amazon.de/dp/B07TF9S2TQ/?tag=tolees0ca-21'
 descuento: '27.18'
-average: '22.36'
+average: '21.23'
 ---
 
 Es gibt ein [KSM - Heartland - Paradies für Pferde: Staffel 11.2  Episode 10-18  [3 DVDs]](https://www.amazon.de/dp/B07TF9S2TQ/?tag=tolees0ca-21) mit aktuellem Preis 18.97 EUR (original: 26.05 EUR) 27.18 % Rabatt hier:
 
-[![KSM - Heartland - Paradies für Pferde: S](https://m.media-amazon.com/images/I/51Nu2YQ1BRL._SL200_.jpg)](https://www.amazon.de/dp/B07TF9S2TQ/?tag=tolees0ca-21)
+[![KSM - Heartland - Paradies für Pferde: S](https://m.media-amazon.com/images/I/51Nu2YQ1BRL._SL400_.jpg)](https://www.amazon.de/dp/B07TF9S2TQ/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -29,9 +29,9 @@ Es gibt ein [Trixie 4590 Cat Activity Fun Board  30 × 40 cm  grau](https://www.
 ℹ️:
 
 - Für ältere oder kranke Tiere geeignet
-- Für Katzen ab 3 Monate
-- Schult die Geschicklichkeit
 - Körperliche Beschäftigung und geistige Herausforderung
 - Fünf Spielmodule stellen unterschiedliche Aufgaben (riechen, tasten, sehen)
+- Schult die Geschicklichkeit
+- Für Katzen ab 3 Monate
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001O8L2UO/?tag=tolees0ca-21)

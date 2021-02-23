@@ -28,10 +28,10 @@ Es gibt ein [DeWalt 34 Grad Nagel für Akku-Nagler  D-Kopf-Nägel  drahtgebunden
 
 ℹ️:
 
-- Funktionalität: Kein Verklemmen des Treibers immer freier Schusskanal
+- Passend für: Akku-Nagler DCN690, DCN691, DCN692, DCN695, DGN9033, DPN9033, DPN9033SM
 - Erfüllt Eurocode5, EN14592 CE Standard
 - Nägel mit feuchtigkeitsresistente Drahtbindung
 - Lieferumfang: 34° drahtgebunden 2.8-75mm Ringschaft, 2.200 Nägel
-- Passend für: Akku-Nagler DCN690, DCN691, DCN692, DCN695, DGN9033, DPN9033, DPN9033SM
+- Funktionalität: Kein Verklemmen des Treibers immer freier Schusskanal
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00U8QL0XC/?tag=tolees0ca-21)

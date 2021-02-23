@@ -28,9 +28,9 @@ Es gibt ein [Ögon Smart Wallets - Cascade Slim Wallet - Automatische Geldbörse
 
 ℹ️:
 
-- Italienisches Leder und aluminium
-- Für 1 bis 8 Karten und Geldscheine
 - Internes Scheinfach (≈ 6)
+- Für 1 bis 8 Karten und Geldscheine
+- Italienisches Leder und aluminium
 - RFID Safe : schützen Sie Ihre Karten vor Datendiebstahl
 - Kartenfächer Mechanism
 
