@@ -28,10 +28,10 @@ Es gibt ein [ADC Adscope 600MCA - Platin Kardiologie Stethoskop mit einstellbare
 
 ℹ️:
 
-- LIEFERUMFANG: Stethoskop, zwei Ersatzpaare der Adsoft Plus-Ohroliven + ein Namensschild + ein Bedienungsanleitung
-- BESONDERHEITEN: CNC-gefräste Brustform aus chirurgischem Edelstahl | Adsoft Plus Silikon-Ohroliven mit neuer Schnappverbindung für ultimativen Tragekomfort und akustische Abdichtung | die AFD (Adjustable Frequency Diaphragm) Technologie bietet die akustische Reaktion einer herkömmlichen Glocke und eines Diaphragmas in einem Bruststück | Stethoskop mit ultraempfindlichem Membran für eine bessere Verstärkung und einen schärferen Frequenzbereich
-- EIGENSCHAFTEN: das Stethoskop mit großen Edelstahl-Binauralen maximiert durch den 15° Winkel den Komfort und die akustische Abdichtung | Bi-Lumen (Dual Bore) 48cm PVC-Schlauch ist weich und flexibel und wird ohne Phthalate und ohne Naturkautschuklatex hergestellt | wiegt 203 g
 - STETHOSKOP: das Stethoskop bietet einstellbare Membrantechnik (AFD Technologie): für niederfrequente Geräusche drücken Sie das Bruststück leicht auf den Patienten, für hochfrequente Geräusche erhöhen Sie den Anpressdruck auf das Bruststück | Kälteschutzring für Patientenkomfort
+- LIEFERUMFANG: Stethoskop, zwei Ersatzpaare der Adsoft Plus-Ohroliven + ein Namensschild + ein Bedienungsanleitung
 - ÜBER ADC: ADC-Produkte werden mit modernsten Technologien aus besten Bauteilen hergestellt. ADC arbeitet mit weltweit führenden Herstellern von ISO 9000-Bauteilen zusammen, um sicherzustellen, dass jedes Teil dem höchsten Qualitätsstandard entspricht.
+- EIGENSCHAFTEN: das Stethoskop mit großen Edelstahl-Binauralen maximiert durch den 15° Winkel den Komfort und die akustische Abdichtung | Bi-Lumen (Dual Bore) 48cm PVC-Schlauch ist weich und flexibel und wird ohne Phthalate und ohne Naturkautschuklatex hergestellt | wiegt 203 g
+- BESONDERHEITEN: CNC-gefräste Brustform aus chirurgischem Edelstahl | Adsoft Plus Silikon-Ohroliven mit neuer Schnappverbindung für ultimativen Tragekomfort und akustische Abdichtung | die AFD (Adjustable Frequency Diaphragm) Technologie bietet die akustische Reaktion einer herkömmlichen Glocke und eines Diaphragmas in einem Bruststück | Stethoskop mit ultraempfindlichem Membran für eine bessere Verstärkung und einen schärferen Frequenzbereich
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00912GXCM/?tag=tolees0ca-21)
