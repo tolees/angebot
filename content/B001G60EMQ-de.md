@@ -28,7 +28,7 @@ Es gibt ein [Eau Des Baux Deo Stick - 75 ml - L OCCITANE](https://www.amazon.de/
 
 ℹ️:
 
-- Deo-Stick, schützt vor unangenehmen Gerüchen. Ohne Alkohol und Aluminiumsalze.
 - ANWENDUNG: Auf die gereinigte, trockene Haut auftragen.
+- Deo-Stick, schützt vor unangenehmen Gerüchen. Ohne Alkohol und Aluminiumsalze.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001G60EMQ/?tag=tolees0ca-21)

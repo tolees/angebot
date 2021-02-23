@@ -28,10 +28,10 @@ Es gibt ein [Rollei Lensball 90mm I Glaskugel I Kristallkugel I Foto-Kugel mit A
 
 ℹ️:
 
-- ✅ MAKELLOSE QUALITÄT – Ein strenges Qualitätskontrollverfahren gewährleistet, dass keine Lensballs mit Kratzer, Macken, Blasen, Schlieren, Lufteinschlüße oder sonstigen Verunreinigungen ausgeliefert werden. Kristallkugel Fotografie ohne Kompromisse!
-- ✅ HOCHWERTIGES ZUBEHÖR – Eine gepolsterte Aufbewahrungstasche und Mikrofaser Reinigungstuch mit Beutel für den sicheren Transport & einfache Reinigung deiner Glaskugel in Fotografenqualität
 - ✅ LASS DEINER KREATIVITÄT FREIEN LAUF – Ob Streetphotography, Spiegelungen, Landschaftsaufnahmen, Bokeh, Architekturfotografie oder Lichtspiele dein Lens Ball gibt jedes Motiv das gewisse Etwas und ist ein Muss für jedes Foto Equipment
 - ✅ MEHR ALS EIN FOTOGRAFIE GADGET – Die Rollei Foto Glaskugel gehört als stilistisches Mittel zu jedem Kamera Equipment und Fotografie Zubehör. Des Weiteren ist es perfekt geeignet als Glaskugel Deko, Wahrsagerkugel, Briefbeschwerer sofern es nicht als Foto Gadget genutzt wird.
+- ✅ HOCHWERTIGES ZUBEHÖR – Eine gepolsterte Aufbewahrungstasche und Mikrofaser Reinigungstuch mit Beutel für den sicheren Transport & einfache Reinigung deiner Glaskugel in Fotografenqualität
+- ✅ MAKELLOSE QUALITÄT – Ein strenges Qualitätskontrollverfahren gewährleistet, dass keine Lensballs mit Kratzer, Macken, Blasen, Schlieren, Lufteinschlüße oder sonstigen Verunreinigungen ausgeliefert werden. Kristallkugel Fotografie ohne Kompromisse!
 - ✅ LENSBALL-FOTOGRAFIE – Stell die Welt auf den Kopf! Mit unserer Vollglaskugel aus hochwertigem K9 Kristall Glas lassen sich bisher nie dagewesene Perspektiven erzielen – ein ideales Geschenk für Fotografen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07B144CJM/?tag=tolees0ca-21)

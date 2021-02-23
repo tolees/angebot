@@ -30,8 +30,8 @@ Es gibt ein [WRL Adapter BLUETH4.0 USB/18187 TRUST](https://www.amazon.de/dp/B00
 
 - Sehr kleiner USB-Adapter zum Aufrüsten Ihres Notebooks mit Bluetooth 4.0 (Smart Ready)
 - Neuste Energiespartechnologie und eine Funkreichweite von 15 m funktioniert mit Geräten, die den Bluetooth 4.0 Low Energy-Modus unterstützen
+- Sehr klein; kann immer angesteckt bleiben
 - Lieferumfang: Mini-DVD mit Treiber, USB adapter mit Bluetooth 4.0 wireless Technologie, Bedienungsanleitung
 - Funktioniert auch mit älteren Bluetooth-Versionen
-- Sehr klein; kann immer angesteckt bleiben
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B006WAIVY4/?tag=tolees0ca-21)

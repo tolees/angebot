@@ -28,9 +28,9 @@ Sie können [Funko 51636 POP Animation: South Park-Awesom-O Sammelbares Spielzeu
 
 ℹ️:
 
-- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
-- Funko POP! ist das Spielzeug des Jahres 2018
 - Von South Park, Awesom-O, zur stilisierten POP-Vinyl Figur von Funko!
+- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 - Schauen Sie sich jetzt die anderen South Park-Figuren von Funko an! Sammeln Sie alle!
+- Funko POP! ist das Spielzeug des Jahres 2018
 
 [🛒 Hier!!](https://www.amazon.de/dp/B087MVYVFB/?tag=tolees0ca-21)
