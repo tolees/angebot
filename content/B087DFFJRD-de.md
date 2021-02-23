@@ -28,10 +28,10 @@ Sie können [Samsung T7 Portable SSD - 2 TB - USB 3.2 Gen.2 Externe SSD Titan Gr
 
 ℹ️:
 
-- Thanks to USB 3. 2 Gen. 2 up to 9 times faster than external hard drives with read/write speeds up to 1. 050 MB/s or 1. 000 MB/s
+- Security for your data: Withstands drops of up to two metres drop height and can be encrypted on request with a password
 - The two included USB cables Type-C to C and Type-C to A allow connection to PCs, Macs, Android devices, Smart TVs and game consoles
+- Thanks to USB 3. 2 Gen. 2 up to 9 times faster than external hard drives with read/write speeds up to 1. 050 MB/s or 1. 000 MB/s
 - High-speed external storage in compact pocket size and capacities up to 2TB
 - Sleek and stylish: Compact and high-quality aluminium casing, available in metallic red, indigo blue or titanium gray colours.
-- Security for your data: Withstands drops of up to two metres drop height and can be encrypted on request with a password
 
 [🛒 Hier!!](https://www.amazon.de/dp/B087DFFJRD/?tag=tolees0ca-21)

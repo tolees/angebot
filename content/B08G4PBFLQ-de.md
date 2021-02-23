@@ -30,8 +30,8 @@ Es gibt ein [LEGO 60276 City Polizei Gefangenentransporter Spielzeug  Polizeista
 
 - Apart from the explosive jailbreak function, LEGO accessories include handcuffs, a motorbike helmet, safety helmet and 2 sticks of dynamite
 - Features a toy prisoner transporter, tow truck and a police motorcycle, plus fun characters from the awesome LEGO City Adventures TV series
-- Includes 4 LEGO City TVs minifigures - Duke DeTain, Snake Rattler, Clara The Criminal, and a police officer for lots of crook-catching fun
 - Kids can explode the prison cell off the truck, hook it up to the crooks souped-up tow truck, and give chase with the police motorcycle
+- Includes 4 LEGO City TVs minifigures - Duke DeTain, Snake Rattler, Clara The Criminal, and a police officer for lots of crook-catching fun
 - Printed and digital Instructions PLUS on free LEGO Building Instructions app with zoom, rotate and visualisation tools are available
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4PBFLQ/?tag=tolees0ca-21)

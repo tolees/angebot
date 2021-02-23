@@ -28,8 +28,8 @@ Es gibt ein [Samsung Kabel Original Galaxy S8 Und S8 Edge mit USB-C Modell ep-
 
 ℹ️:
 
-- Es unterstützt auch bis zu 3 Ampere Leistung, mehr als genug für ein schnelles Aufladen
 - Offizielles Samsung USB Typ C Synchronisations- und Ladekabel Schwarz - ep-dg950CBE
 - Dieses offizielle Samsung USB c-zu-usb A-Kabel ist perfekt zum Aufladen und synchronisieren von Dateien geeignet und bietet unglaubliche Lade- und Übertragungsgeschwindigkeiten
+- Es unterstützt auch bis zu 3 Ampere Leistung, mehr als genug für ein schnelles Aufladen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06XWNXJTY/?tag=tolees0ca-21)

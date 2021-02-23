@@ -29,9 +29,9 @@ Es gibt ein [LEGO 71738 NINJAGO Legacy Zanes Titan-Mech Ninja Bauset mit Jay als
 ℹ️:
 
 - Features posable legs and arms, a sword and spinning chainsaw in its hands, plus 2 spring-loaded shooters and a cockpit for ninja minifigures
+- Look for 3 more collectible golden ninja minifigures: Tournament of Elements 71735, Boulder Blaster 71736 and X-1 Ninja Charger 71737
 - Zanes Titan Mech is a modern update on a classic highly posable, chainsaw-wielding mech toy for kids to stage thrilling ninja battles
 - Includes 4 minifigures with weapons from season 5 of the NINJAGO TV series: Jay Legacy, Zane, and Ghost Warriors Ghoultar and Soul Archer
-- Look for 3 more collectible golden ninja minifigures: Tournament of Elements 71735, Boulder Blaster 71736 and X-1 Ninja Charger 71737
 - Also includes a limited-edition golden Jay Legacy collectible minifigure with a small stand to celebrate the 10th anniversary of NINJAGO toys
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4HNQTC/?tag=tolees0ca-21)

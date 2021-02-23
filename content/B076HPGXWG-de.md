@@ -28,9 +28,9 @@ Es gibt ein [adidas Herren Core 18 Hose  schwarz  Black/White   XL](https://www.
 
 ℹ️:
 
-- Woven material
-- Open hems
 - Elastic waist with draw cord
+- Open hems
+- Woven material
 - Side pockets for small items
 - Regular fit
 

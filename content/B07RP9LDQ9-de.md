@@ -28,9 +28,9 @@ Sie können [Pentel Pointliner S20P-5  5er Set Fineliner  schwarz  wasserfest un
 
 ℹ️:
 
-- Waterproof and non-fading certified according to ISO 14145-2
-- Perfect for fine drawing, sketching, illustrating and writing
 - Can be combined with water-soluble products
+- Perfect for fine drawing, sketching, illustrating and writing
+- Waterproof and non-fading certified according to ISO 14145-2
 - Ultra fine fibre tip
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07RP9LDQ9/?tag=tolees0ca-21)

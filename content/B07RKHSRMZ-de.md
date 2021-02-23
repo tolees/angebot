@@ -28,8 +28,8 @@ Sie können [PUMA Herren Boxershort Limited Statement Edition 9er Pack - Black C
 
 ℹ️:
 
-- Besonders elastischer Komfortbund.
 - 95% Baumwolle / 5% Elasthan
 - Der Bestseller von Puma im 9er-Pack.
+- Besonders elastischer Komfortbund.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07RKHSRMZ/?tag=tolees0ca-21)

@@ -28,11 +28,11 @@ Es gibt ein [devolo dLAN 1200+ WiFi ac Powerline  1200 Mbit/s WLAN ac  2 4 und 5
 
 ℹ️:
 
-- This is used in Germany, but also in Austria, the Netherlands, Spain or Sweden. Not in other European countries.
-- Box contents: Devolo dLAN 1200+ Powerlan adapter, white, Ethernet cable (2m), installation instructions (cannot guarantee instructions are in English)
-- Manufacturers warranty: 3 years when sold and dispatched by Amazon. For sale and dispatched by a third party, the information of the respective seller apply.
-- This supplementary adapter expands your existing dLAN network; you need a second, compatible adapter to build a Powerline network (compatible with the dLAN 200/500/550/650/1200 product series)
 - With the Gigabit LAN connection you can connect an internet-enabled device to the Internet at any time via network cable (no WLAN functionality).
 - The lightning fast Powerline adapter for your own home network via the power line, with up to 1200 Mbit/s and integrated socket; thanks to the range+ technology even more powerful and with a higher range
+- Box contents: Devolo dLAN 1200+ Powerlan adapter, white, Ethernet cable (2m), installation instructions (cannot guarantee instructions are in English)
+- This is used in Germany, but also in Austria, the Netherlands, Spain or Sweden. Not in other European countries.
+- Manufacturers warranty: 3 years when sold and dispatched by Amazon. For sale and dispatched by a third party, the information of the respective seller apply.
+- This supplementary adapter expands your existing dLAN network; you need a second, compatible adapter to build a Powerline network (compatible with the dLAN 200/500/550/650/1200 product series)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00NHDALJC/?tag=tolees0ca-21)
