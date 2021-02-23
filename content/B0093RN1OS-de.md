@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Intenso interne SSD-Festplatte 256GB Top mit 42.23 % Rabatt'
-date: 2021-02-21 12:05:22
-image: 'https://m.media-amazon.com/images/I/41SGYjzeD8L._SL200_.jpg'
+date: 2021-02-22 23:55:24
+image: 'https://m.media-amazon.com/images/I/41SGYjzeD8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,19 +19,19 @@ flag: '🇩🇪'
 brand: 'Intenso'
 buyurl: 'https://www.amazon.de/dp/B0093RN1OS/?tag=tolees0ca-21'
 descuento: '42.23'
-average: '28.6362601626016'
+average: '28.59392'
 ---
 
 Sie können [Intenso interne SSD-Festplatte 256GB Top Performance  schwarz](https://www.amazon.de/dp/B0093RN1OS/?tag=tolees0ca-21) mit Preis 25.99 EUR (original: 44.99 EUR) 42.23 % Rabatt hier:
 
-[![Intenso interne SSD-Festplatte 256GB Top](https://m.media-amazon.com/images/I/41SGYjzeD8L._SL200_.jpg)](https://www.amazon.de/dp/B0093RN1OS/?tag=tolees0ca-21)
+[![Intenso interne SSD-Festplatte 256GB Top](https://m.media-amazon.com/images/I/41SGYjzeD8L._SL400_.jpg)](https://www.amazon.de/dp/B0093RN1OS/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Geringer Stromverbrauch; Schock-resistent, geräuschloser Betrieb (0dB)
 - SMART command support, TRIM command support; Gewicht: 83g; Abmessungen: 100 x 70 x 7mm
 - Lieferumgang: Intenso SSD Festplatte
-- SATA III (6Gbps)
 - Lesegeschwindigkeit: bis zu 520MB/s - Schreibgeschwindigkeit: bis zu 500MB/s
+- SATA III (6Gbps)
+- Geringer Stromverbrauch; Schock-resistent, geräuschloser Betrieb (0dB)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0093RN1OS/?tag=tolees0ca-21)

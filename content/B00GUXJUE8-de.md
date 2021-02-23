@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '35.98 % rabat auf Columbia Herren Woodburn Li  Scarpe da N'
-date: 2021-02-04 04:16:14
-image: 'https://m.media-amazon.com/images/I/41izmzDecXL._SL200_.jpg'
+date: 2021-02-22 23:43:28
+image: 'https://m.media-amazon.com/images/I/41izmzDecXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,19 +19,19 @@ flag: '🇩🇪'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.de/dp/B00GUXJUE8/?tag=tolees0ca-21'
 descuento: '35.98'
-average: '69.9624324324325'
+average: '69.6561538461539'
 ---
 
 Es gibt ein [Columbia Herren Woodburn Li  Scarpe da Nordic Walking  Braun Braun Cordovan Cinnamon  44 EU](https://www.amazon.de/dp/B00GUXJUE8/?tag=tolees0ca-21) mit aktuellem Preis 63.99 EUR (original: 99.95 EUR) 35.98 % Rabatt hier:
 
-[![Columbia Herren Woodburn Li  Scarpe da N](https://m.media-amazon.com/images/I/41izmzDecXL._SL200_.jpg)](https://www.amazon.de/dp/B00GUXJUE8/?tag=tolees0ca-21)
+[![Columbia Herren Woodburn Li  Scarpe da N](https://m.media-amazon.com/images/I/41izmzDecXL._SL400_.jpg)](https://www.amazon.de/dp/B00GUXJUE8/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Abtriebfeste Omni-Grip Gummi-Außensohle für gute Bodenhaftung
+- Omni-Tech wasserdichte und atmungsaktive Schuhkonstruktion mit versiegelten Nähten
+- Der Columbia Peakfreak Nomad Waterproof ist ein typischer Outdoor-Schuh
 - Obermaterial aus wasserdichtem Netzgewebe und Leder
 - Leichte Techlite Zwischensohle
-- Abtriebfeste Omni-Grip Gummi-Außensohle für gute Bodenhaftung
-- Der Columbia Peakfreak Nomad Waterproof ist ein typischer Outdoor-Schuh
-- Omni-Tech wasserdichte und atmungsaktive Schuhkonstruktion mit versiegelten Nähten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00GUXJUE8/?tag=tolees0ca-21)
