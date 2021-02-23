@@ -28,10 +28,10 @@ Es gibt ein [Bauer Spielwaren - Maisto Harley-Davidson FXDBI Dyna Street Bob ´0
 
 ℹ️:
 
+- Originalgetreue Nachbildung: Das Deko-Motorrad ist aus Metallspritzguss mit Kunststoffteilen gefertigt und hat dem Maßstab 1:12 entsprechend eine Länge von ca. 17 cm
 - Dekoratives Sammelobjekt: Das Modell-Motorrad ist ein wunderschönes Stück für die Sammlervitrine und ein Muss für jeden Harley-Fan
 - Schönes Standmodell: Detailreich gestaltetes Motorrad-Modell des original Harley-Davidson FXDBI Dyna Street Bob von 2006 im Maßstab 1:12
 - Liebevolle Details: Das Miniatur-Motorrad überzeugt mit detailgetreuer Ausstattung. Die Räder sind frei rollend, der Seitenständer und der Lenker beweglich
 - Fertigmodell zum Sammeln: Die FXDBI Dyna Street Bob mit blauer Lackierung und Chrom-Optik lässt sich direkt ins Regal stellen
-- Originalgetreue Nachbildung: Das Deko-Motorrad ist aus Metallspritzguss mit Kunststoffteilen gefertigt und hat dem Maßstab 1:12 entsprechend eine Länge von ca. 17 cm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00KM4OFWS/?tag=tolees0ca-21)
