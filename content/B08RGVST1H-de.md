@@ -30,8 +30,8 @@ Sie können [Schmidt Spiele 59690 Thomas Kinkade  Disney  The Aristocats  1.000 
 
 - Puzzlemaße: 69,3 x 49,3 cm
 - 1000 Teile Puzzle
-- Spieleranzahl: ab 1 Spieler
 - Empfohlenes Alter: ab 12 Jahren
+- Spieleranzahl: ab 1 Spieler
 - SCHMIDT SPIELE Premium-Puzzles – mit Qualität, die Sie greifen können
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08RGVST1H/?tag=tolees0ca-21)
