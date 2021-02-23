@@ -29,8 +29,8 @@ Sie können [OnePlus 8  5G  Smartphone ohne Vertrag  8GB + 128GB Speicher  6.55"
 ℹ️:
 
 - OnePlus mit integriertem Alexa bietet Freisprechzugriff auf Alexa. Sagen Sie einfach „Alexa“, um Musik abzuspielen, einen Anruf zu tätigen, Ihr Smart Home zu steuern, das Wetter zu überprüfen und vieles mehr, indem Sie nur Ihre Stimme verwenden. Bleiben Sie auf dem Laufenden und erledigen Sie jeden Tag Ihre Aufgaben, während Sie unterwegs sind. Fragen Sie einfach - und Alexa wird sofort antworten. Laden Sie die Alexa-App auf Ihr OnePlus-Gerät herunter, um Alexa noch heute freihändig zu verwenden.
-- Power Akku mit 4300 mAh für mehr Laufzeit – Innovative WARP CHARGE 30T Schnelllade-Technologie (ready-to-go in 20 Minuten) / OxygenOS Betriebssystem (Android 10)
 - 8 GB RAM und 128 GB interner Speicher für mehr Geschwindigkeit und größere Datenmengen / High-Performance Prozessor Qualcomm Snapdragon 865 mit 5G-Konnektivität
+- Power Akku mit 4300 mAh für mehr Laufzeit – Innovative WARP CHARGE 30T Schnelllade-Technologie (ready-to-go in 20 Minuten) / OxygenOS Betriebssystem (Android 10)
 - Faszinierendes Display – hohe Auflösung mit einer 90Hz Bildwiederholrate – das Scrollen, Wischen und Wechseln durch Apps und Anwendungen ist super flüssig (keine Verzögerungen)16, 6 cm AMOLED Power Screen – Für ein atemberaubendes Multimedia-Erlebnis, sofortige Touch-Reaktion, mehr Geschwindigkeit und eine faszinierende Klarheit
 - Ultraklare Dreifach-Kamera - 48MP Hauptkamera, 16MP Ultraweitwinkelkamera, 2MP Makro und 16MP Frontkamera, Nachtsichtmodus 2. 0, Studiobeleuchtung, Super Slow Motion mit bis zu 460 FPS, RAW Image, AI Szenen Erkennung
 
