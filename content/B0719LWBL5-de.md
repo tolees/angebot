@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ONLY Damen onlSEDONA Light Coat OTW NOOS mit 39.99 % Rabatt'
-date: 2021-02-22 12:12:19
+date: 2021-02-23 18:31:47
 image: 'https://m.media-amazon.com/images/I/31oyu2+D3AL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'ONLY'
 buyurl: 'https://www.amazon.de/dp/B0719LWBL5/?tag=tolees0ca-21'
 descuento: '39.99'
-average: '31.6991891891892'
+average: '31.6544736842105'
 ---
 
 Sie können [ONLY Damen onlSEDONA Light Coat OTW NOOS Mantel  Schwarz  Black Black   40  Herstellergröße: L ](https://www.amazon.de/dp/B0719LWBL5/?tag=tolees0ca-21) mit Preis 30.0 EUR (original: 49.99 EUR) 39.99 % Rabatt hier:
