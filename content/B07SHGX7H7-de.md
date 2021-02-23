@@ -28,10 +28,10 @@ Sie können [Xiaomi Luftreiniger  Bianco  Einheitsgröße](https://www.amazon.de
 
 ℹ️:
 
-- Fernsteuerung über MI Home App
-- Kompatibel mit Alexa und Google Assistant
-- True HEPA-Filter mit 3 Stufen, entfernt 99, 97% [3] Rauch, Hausstaub, Tierhaare, Schimmelsporen, Pollen und andere Feinpartikel mit einer Größe von 0, 3 Mikron
-- CADR-Partikel (Clean Air Delivery Rate) 260 m³/h
 - Filterdauer 6-12 Monate
+- CADR-Partikel (Clean Air Delivery Rate) 260 m³/h
+- True HEPA-Filter mit 3 Stufen, entfernt 99, 97% [3] Rauch, Hausstaub, Tierhaare, Schimmelsporen, Pollen und andere Feinpartikel mit einer Größe von 0, 3 Mikron
+- Kompatibel mit Alexa und Google Assistant
+- Fernsteuerung über MI Home App
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07SHGX7H7/?tag=tolees0ca-21)

@@ -28,9 +28,9 @@ Es gibt ein [Funko 49041 POP Games: Ghost of Tsushima-Jin Sakai Sammelbares Spie
 
 ℹ️:
 
-- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
-- Funko POP! ist das Spielzeug des Jahres 2018
 - Schauen Sie sich jetzt die anderen Games-Figuren von Funko an! Sammeln Sie alle!
 - Von Ghost of Tsushima, Jin Sakai, zur stilisierten POP-Vinyl Figur von Funko!
+- Funko POP! ist das Spielzeug des Jahres 2018
+- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B084HZTHTH/?tag=tolees0ca-21)
