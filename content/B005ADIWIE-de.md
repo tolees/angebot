@@ -29,8 +29,8 @@ Sie können [InLine 16653B Netz-Y-Kabel  1x Schutzkontaktstecker zu 3x Kaltgerä
 ℹ️:
 
 - Verpackungsabmessungen (L x B x H): 24.5 x 20.0 x 5.0 zm
-- Farbe: Schwarz
 - Verpackungsgewicht: 0.5 Kilogramm
+- Farbe: Schwarz
 - Herkunftsland:- China
 
 [🛒 Hier!!](https://www.amazon.de/dp/B005ADIWIE/?tag=tolees0ca-21)

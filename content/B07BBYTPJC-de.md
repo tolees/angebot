@@ -28,10 +28,10 @@ Sie können [Playstation Tasse in Form PS4-Controller  Dual Shock-Kaffee- / Teet
 
 ℹ️:
 
-- Tasse in Standardgröße, Fassungsvermögen 300 ml.
 - Bleiben Sie erfrischt beim Spielen mit einer PlayStation-Trinktasse.
-- Griff in Form eines PlayStation-Controllers.
-- Offizielles PlayStation-Lizenzprodukt.
 - Mit ikonischen PlayStation-Bildern und -Logo.
+- Tasse in Standardgröße, Fassungsvermögen 300 ml.
+- Offizielles PlayStation-Lizenzprodukt.
+- Griff in Form eines PlayStation-Controllers.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07BBYTPJC/?tag=tolees0ca-21)

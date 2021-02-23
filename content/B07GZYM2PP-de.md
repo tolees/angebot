@@ -28,10 +28,10 @@ Es gibt ein [Pentel SESF30C-AX Brush Sign Pen Artist - Pinselstift mit extra fei
 
 ℹ️:
 
+- farbiger Banderole an Kappe
 - Farbstofftinte auf Wasserbasis
 - extra feine Pinselspitze
 - Beliebtes Tool für Handlettering und Brushlettering
 - Gehäuse in Schwarz mit Metallic-Effekt
-- farbiger Banderole an Kappe
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07GZYM2PP/?tag=tolees0ca-21)
