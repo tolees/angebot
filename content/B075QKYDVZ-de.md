@@ -28,11 +28,11 @@ Sie können [Bosch Home and Garden - Bosch Smart Home Unterputz Lichtschalter  V
 
 ℹ️:
 
-- Zur einfachen Steuerung von einzelnen oder gruppierten Lichtschaltern über die Bosch Smart Home App
-- Kompatibel mi: Google Assistant, Amazon Alexa und Apple Homekit
+- Erhöhte Sicherheit durch Einbindung in das Sicherheitsszenario wie Alarmsystem oder Anwesenheitssimulation
 - Ausschließlich nutzbar mit separat erhältlichem Bosch Smart Home Controller
 - Kostenlose App als Download verfügbar, ohne weitere Kosten bei Nutzung
+- Kompatibel mi: Google Assistant, Amazon Alexa und Apple Homekit
 - Möglichkeit zur Einbindung der Lichtsteuerung in die Szenarien in der Smart Home App
-- Erhöhte Sicherheit durch Einbindung in das Sicherheitsszenario wie Alarmsystem oder Anwesenheitssimulation
+- Zur einfachen Steuerung von einzelnen oder gruppierten Lichtschaltern über die Bosch Smart Home App
 
 [🛒 Hier!!](https://www.amazon.de/dp/B075QKYDVZ/?tag=tolees0ca-21)

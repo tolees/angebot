@@ -28,12 +28,12 @@ Es gibt ein [TP-Link RE200 WLAN Repeater  433Mbit/s 5GHz  300Mbit/s 2 4GHz Dual 
 
 ℹ️:
 
-- Einfache WLAN-Erweiterung und Verschlüsselung per Knopfdruck (WPS-Taste)
-- Lieferumfang: TP-Link RE200 AC750 Dualband WLAN Repeater, Schnellinstallationsanleitung
+- 2-3 Zimmer Wohnung
 - Signal-LEDs zeigen die aktuelle Signalstärke an und helfen bei der optimalen Platzierung
 - Ein LAN-Port zur Einbindung von kabelgebundenen Netzwerkgeräten wie Fernsehern, Spielekonsolen etc. in ein WLAN
 - Simultanes Dualband nach dem WLAN-Standard der neuen Generation, 802.11ac, Geschwindigkeit bis zu 450 MB auf 5 GHz und 300 MB auf 2,4 GHz
+- Einfache WLAN-Erweiterung und Verschlüsselung per Knopfdruck (WPS-Taste)
+- Lieferumfang: TP-Link RE200 AC750 Dualband WLAN Repeater, Schnellinstallationsanleitung
 - Kompatibel zu allen gängigen WLAN-Routern (802.11a/b/g/n/ac) unterstützt alle 5 GHz Frequenzbänder in Europa nach Firmware-Update (siehe Herstellerwebsite)
-- 2-3 Zimmer Wohnung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00KXULGJQ/?tag=tolees0ca-21)

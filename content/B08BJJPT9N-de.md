@@ -28,13 +28,13 @@ Sie können [Samsung TU7199 138 cm  55 Zoll  LED Fernseher  Ultra HD  HDR 10+  T
 
 ℹ️:
 
+- Digitaler Fernsehempfang (DVB): DVB-C/S2/T2 HD, Analoger Tuner, CI+, 2x HDMI, 1x USB, 1x LAN, WLAN, 1x CI+-Slot, 1x Antenneneingang
+- Auflösung 3.840 x 2.160 Pixel (4K/Ultra HD), HDR10+, PurColor, UHD Dimming, Auto Game Mode, Clean Cable Solution
 - Streaming-Dienste: Amazon Video, Netflix, Zattoo, Youtube, Maxdome, ARD, DAZN, Gamefly, Ran, Videoland, Videociety, Wuaki, Prosieben Apps, etc.
+- Lieferumfang: Samsung TU7199 138 cm (55 Zoll) mit Kielfuß (grau), klassische Fernbedienung, Stromkabel, Anleitung
+- Typ: 4K UHD, Flat, LED Fernseher, Rahmenlos Carbonsilber
 - HD+ integriert: 24 private HD- und 2 UHD-Sender sowie HD+ Komfort-Funktion mit Neustart, Mediatheken und TV-Guide. 6 Monate gratis testen. SAT-Empfang benötigt.
 - Kompatibel mit Alexa, Google Assistant und Airplay 2, Bixby integriert
-- Digitaler Fernsehempfang (DVB): DVB-C/S2/T2 HD, Analoger Tuner, CI+, 2x HDMI, 1x USB, 1x LAN, WLAN, 1x CI+-Slot, 1x Antenneneingang
-- Typ: 4K UHD, Flat, LED Fernseher, Rahmenlos Carbonsilber
-- Lieferumfang: Samsung TU7199 138 cm (55 Zoll) mit Kielfuß (grau), klassische Fernbedienung, Stromkabel, Anleitung
-- Auflösung 3.840 x 2.160 Pixel (4K/Ultra HD), HDR10+, PurColor, UHD Dimming, Auto Game Mode, Clean Cable Solution
 - HD+ integriert: 23 private HD- und 2 UHD-Sender sowie HD+ Komfort-Funktion mit Neustart, Mediatheken und TV-Guide. 6 Monate gratis testen. SAT-Empfang benötigt
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08BJJPT9N/?tag=tolees0ca-21)
