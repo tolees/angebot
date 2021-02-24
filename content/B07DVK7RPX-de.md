@@ -30,7 +30,7 @@ Sie können [Garmin Fenix 5X Plus Sapphire Black/Black](https://www.amazon.de/dp
 
 - Verpackungsabmessungen (L x B x H): 10.0 zm x 10.0 zm x 10.2 zm
 - Verpackungsgewicht: 360 g
-- Elektroschrott: Elektro- und Elektronikgeräte gehören nicht in den Hausmüll. Hierfür stehen Ihnen städtische und kommunale Sammelstellen zur Verfügung. Die Sammlung der Elektro- und Elektronikgeräte ermöglicht das Recycling von Wertstoffen, die Wiederverwendung und die ordnungsgemäße sowie gefahrenlose Entsorgung.
 - Batterieverordnung: Batterieverordnung Sie sind gesetzlich verpflichtet, Batterien zurückzugeben. Sie können diese nach Gebrauch in einer unserer Filialen oder in einer kommunalen Sammelstelle vor Ort zurückgeben. Hinweis nach BattV Batterien und Akkus gehören nicht in den Hausmüll. Verbraucher sind gesetztlich verpflichtet, gebrauchte Batterien zurückzugeben.
+- Elektroschrott: Elektro- und Elektronikgeräte gehören nicht in den Hausmüll. Hierfür stehen Ihnen städtische und kommunale Sammelstellen zur Verfügung. Die Sammlung der Elektro- und Elektronikgeräte ermöglicht das Recycling von Wertstoffen, die Wiederverwendung und die ordnungsgemäße sowie gefahrenlose Entsorgung.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07DVK7RPX/?tag=tolees0ca-21)

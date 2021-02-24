@@ -29,9 +29,9 @@ Es gibt ein [KOROTUS COLLECTION - LED Lichterkette Kugeln 5m  Alexa RGB Globe Li
 ℹ️:
 
 - 【IP65 Wasserdicht】Dass die Lichterkette für den Innen- und Außenbereich geeignet wäre. Für Ihren Wintergarten reicht die Leistung und Farbe der LEDs aus. Hinweis: die Steuereinheit nicht Wasserdicht, Kein Kontakt mit Wasser bei Regen.
+- 【Warmes, buntes Licht 】Die Farben sind sehr kräftig und lassen sich beliebig einstellen und dimmen. Viele Modi zum Ausprobieren, zum Beispiel Überblenden, Springen und Glätten, ect. mit den verschiedenen Licht-Modi hat an auch für jede Stimmung Abwechslung. Und super geeignet fürs Gartenhaus oder Partyraum.
 - 【Super Hell】Diese Lichterkette bunt verfügt über ausreichend Leuchtmittel, dies bedeutet, dass der gesamte Raum von hellen LED-Licht erleichtet wird. Und die Lichtintensität kann gedimmt werden, was gut zum Schlafen ist.
 - 【Steuere die Lichter mit Alexa】Die Farben lassen sich ganz leicht über die Fernbedienung und app steuern, sie nicht immer extra aufstehen muss, wenn man einen anderen Modi haben möchte. So geht das licht perfekt per Zuruf über Alexa oder Google Assistant an und wieder aus!
 - 【Gute Deko für Party】Ein weiteres cooles und witzige Funktion ist, dass es mit der Synchronisation zur Musik. Dass die Lichter sich zur Musik bewegen und die Musikart und den Rhythmus erkennen. Es gibt auch eine super praktisch Timerfunktion.
-- 【Warmes, buntes Licht 】Die Farben sind sehr kräftig und lassen sich beliebig einstellen und dimmen. Viele Modi zum Ausprobieren, zum Beispiel Überblenden, Springen und Glätten, ect. mit den verschiedenen Licht-Modi hat an auch für jede Stimmung Abwechslung. Und super geeignet fürs Gartenhaus oder Partyraum.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08V5GQKL4/?tag=tolees0ca-21)
