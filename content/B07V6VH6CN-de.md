@@ -28,8 +28,8 @@ Es gibt ein [Legero Damen Tanaro Sneaker  Griffin  Grau   40 EU](https://www.ama
 
 ℹ️:
 
-- Obermaterial: Leder
 - Sohle: Synthetik
 - Innenmaterial: Textil
+- Obermaterial: Leder
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07V6VH6CN/?tag=tolees0ca-21)

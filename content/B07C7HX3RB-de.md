@@ -28,10 +28,10 @@ Sie können [Funko 26847 Rick & Morty Rick and Morty S3 Plush-Other  Multi](http
 
 ℹ️:
 
-- Sehr detailliert
 - Rick & Morty
-- Funko Mystery Minis
+- Sehr detailliert
 - Mini Plüschs
 - Pocket POP! Schlüsselbund
+- Funko Mystery Minis
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07C7HX3RB/?tag=tolees0ca-21)

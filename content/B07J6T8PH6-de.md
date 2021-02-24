@@ -28,10 +28,10 @@ Es gibt ein [Intel Next Unit of Computing Kit NUC8i7BEH2- Barebone - Mini-PC  BO
 
 ℹ️:
 
-- Grafikchip: Intel Iris Plus Graphics 655
-- Gehäuse: HTPC-Gehäuse
-- Laufwerk: nicht vorhanden
-- Farbe: grau
 - Prozessor: Intel Core i7-8559U
+- Grafikchip: Intel Iris Plus Graphics 655
+- Farbe: grau
+- Laufwerk: nicht vorhanden
+- Gehäuse: HTPC-Gehäuse
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07J6T8PH6/?tag=tolees0ca-21)
