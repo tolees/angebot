@@ -28,10 +28,10 @@ Es gibt ein [RREAKA USB Typ C zu HDMI Digital AV Multiport Hub  USB-C  USB3.1  A
 
 ℹ️:
 
-- 【3 Jahre Garantie auf USB C Hub】 Sie erhalten 90 Tage Geld zurück und sorgenfreie 3 Jahre Garantie sowie freundlichen Kundenservice und technischen Support. Wir bieten kostenlosen Ersatz und Rückgabefrist, wir kümmern uns innerhalb von 24 Stunden um alle Ihre Angelegenheiten.
 - 【Dex Station】 Verwandeln Sie Ihr Samsung Galaxy Note S20 / Note 20-Handy und Tab S4-Tablet in ein PC-ähnliches Erlebnis. Mit unserem USB-Typ-C-Adapter können Sie Ihr Galaxy S20 / Note20-Handy und Ihr Tab S4-Tablet an einen 4K-Monitor, eine Tastatur und eine Maus anschließen, um ein Desktop-Erlebnis mit Ihrem Handy zu erzielen.
 - 【Austausch des Nintendo Switch-Docks]】 RREAKA-Mehrfach-USB-C-Adapter mit 4K-HDMI-Anschluss, USB 3.0-Anschluss, USB 2.0, USB-Typ-C-PD-Ladeanschluss. RREAKA USB C Adapter = Nintendo Switch Dock + Samsung Dex Station + USB C Konverter - Perfekte Unterstützung für Nintendo Switch, Samsung S8 / S9 + (Dex Station) und mehr USB Typ C Geräte.
 - 【Arbeiten Sie mit dem Gamecube Controller-Adapter.】 Es funktioniert perfekt mit Ihrem Switch-Setup, das einen Gamecube-Adapter für Smash enthält. Schließen Sie den Gamecube-Adapter einfach an 2 USB-Anschlüsse an. Jetzt können Sie Ihren Lieblingshelden für den Kampf mit Nintendo Switch auswählen.
 - 【Tragbares Dock & Wärmeableitung】 Mit dem leichten Design im Taschenformat und aus Aluminiumlegierung (1,6 Unzen) können Sie es in Ihre Tasche stecken und überall hin mitnehmen, wie Sie möchten
+- 【3 Jahre Garantie auf USB C Hub】 Sie erhalten 90 Tage Geld zurück und sorgenfreie 3 Jahre Garantie sowie freundlichen Kundenservice und technischen Support. Wir bieten kostenlosen Ersatz und Rückgabefrist, wir kümmern uns innerhalb von 24 Stunden um alle Ihre Angelegenheiten.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07NN8XCJF/?tag=tolees0ca-21)

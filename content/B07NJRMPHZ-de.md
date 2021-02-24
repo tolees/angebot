@@ -28,11 +28,11 @@ Sie können [Amazon - Echo Show 5  Zertifiziert und generalüberholt  kompaktes 
 
 ℹ️:
 
-- Alexa zeigt Ihnen mehr – Das kompakte, 5,5 Zoll große Smart Display hilft Ihnen bei alltäglichen Aufgaben, bietet sprachgesteuerte Unterhaltung und hilft Ihnen dabei, mit Freunden und Familienmitgliedern in Kontakt zu bleiben.
-- Bleiben Sie in Verbindung mit Videoanrufen und Nachrichten – Rufen Sie Freunde und Familienmitglieder an, die die Alexa App, ein Echo-Gerät mit Bildschirm oder Skype haben.
-- Passt zu Ihrem Leben – Kochen Sie Schritt-für-Schritt-Rezepte nach. Einfaches Aktualisieren von To-do-Listen und Kalendern. Behalten Sie den Wetterbericht und Verkehrsinformationen im Blick.
-- Schützt Ihre Privatsphäre – Schalten Sie das Mikrofon und die Kamera per Knopfdruck aus. Schieben Sie die integrierte Kameraabdeckung bei Bedarf über die Kamera.
 - Große Unterhaltung – Bitten Sie Alexa, Filme oder die Nachrichten zu zeigen. Oder hören Sie Radiosender, Podcasts und Hörbücher.
+- Schützt Ihre Privatsphäre – Schalten Sie das Mikrofon und die Kamera per Knopfdruck aus. Schieben Sie die integrierte Kameraabdeckung bei Bedarf über die Kamera.
+- Passt zu Ihrem Leben – Kochen Sie Schritt-für-Schritt-Rezepte nach. Einfaches Aktualisieren von To-do-Listen und Kalendern. Behalten Sie den Wetterbericht und Verkehrsinformationen im Blick.
+- Bleiben Sie in Verbindung mit Videoanrufen und Nachrichten – Rufen Sie Freunde und Familienmitglieder an, die die Alexa App, ein Echo-Gerät mit Bildschirm oder Skype haben.
+- Alexa zeigt Ihnen mehr – Das kompakte, 5,5 Zoll große Smart Display hilft Ihnen bei alltäglichen Aufgaben, bietet sprachgesteuerte Unterhaltung und hilft Ihnen dabei, mit Freunden und Familienmitgliedern in Kontakt zu bleiben.
 - Personalisierbar – Wählen Sie das Zifferblatt, das am besten zu Ihrem Stil passt. Lassen Sie sich Ihre Lieblingsfotos auf der Startseite anzeigen. Erstellen Sie eine Morgenroutine, um gut in den Tag zu kommen.
 - Steuern Sie Ihr Smart Home – Bedienen Sie kompatible Geräte mit Ihrer Stimme oder über das benutzerfreundliche Display. Bitten Sie Alexa, die Bilder von Sicherheitskameras anzuzeigen, Lampen ein- und auszuschalten und Ihre Heizung zu regeln.
 
