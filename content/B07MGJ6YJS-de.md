@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '30.64 % rabat auf KOSMOS 654108 Fun Science - Nachtleuchte'
-date: 2021-02-22 23:42:29
+date: 2021-02-24 00:13:29
 image: 'https://m.media-amazon.com/images/I/51AixPaqbGL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Kosmos'
 buyurl: 'https://www.amazon.de/dp/B07MGJ6YJS/?tag=tolees0ca-21'
 descuento: '30.64'
-average: '13.9093827160494'
+average: '13.8414457831325'
 ---
 
 Es gibt ein [KOSMOS 654108 Fun Science - Nachtleuchtende Flummi-Power  Stelle 20 kunterbunte Power-Bälle her  Experimentierset für Einsteiger](https://www.amazon.de/dp/B07MGJ6YJS/?tag=tolees0ca-21) mit aktuellem Preis 11.09 EUR (original: 15.99 EUR) 30.64 % Rabatt hier:
@@ -28,9 +28,9 @@ Es gibt ein [KOSMOS 654108 Fun Science - Nachtleuchtende Flummi-Power  Stelle 20
 
 ℹ️:
 
-- Extra-coole Flummis selbst mixen – in nur 10 Minuten sind die eigenen Kreationen fertig. Welcher springt am höchsten?
 - Mit zwei verschiedenen Gussformen für kugelrunde und eckige Springbälle sowie den witzigen Wackelaugen kommt Abwechslung ins Spiel.
 - Ein KOSMOS Experimentierset zum sofort Durchstarten, Spaß haben und Wissen sammeln!
+- Extra-coole Flummis selbst mixen – in nur 10 Minuten sind die eigenen Kreationen fertig. Welcher springt am höchsten?
 - Auch in der Natur gibt es nachtleuchtende Farben – das erfahren Kinder von 8 – 12 Jahren in spannenden Info-Texten und Fun-Facts.
 - Mit dem Spezial-Granulat in 6 Farben und den zusätzlichen 3 nachtleuchtenden Farben lassen sich bis zu 20 Power-Bälle herstellen. Wenn die ersten Bälle nach einigen Tagen ihre Springkraft verlieren, ist auf jeden Fall für Nachschub gesorgt!
 

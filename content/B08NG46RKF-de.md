@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '17.58 % rabat auf Nintendo Switch Lite Koralle & Animal Cr'
-date: 2021-02-22 12:14:15
+date: 2021-02-23 23:57:23
 image: 'https://m.media-amazon.com/images/I/41IucYQtsPL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.de/dp/B08NG46RKF/?tag=tolees0ca-21'
 descuento: '17.58'
-average: '237.755111111109'
+average: '237.808085106381'
 ---
 
 Es gibt ein [Nintendo Switch Lite Koralle & Animal Crossing: New Horizons-Edition](https://www.amazon.de/dp/B08NG46RKF/?tag=tolees0ca-21) mit aktuellem Preis 239.0 EUR (original: 289.99 EUR) 17.58 % Rabatt hier:
