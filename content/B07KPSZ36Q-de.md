@@ -28,10 +28,10 @@ Es gibt ein [Funko - POP! Vinyl: Disney: Aladdin  Live Action : Jasmine](https:/
 
 ℹ️:
 
-- Von Aladdin, Jasmine, zur stilisierten POP-Vinyl Figur von Funko!
-- Jasmine
-- Disney Aladdin
 - POP! Vinyl
 - Spielzeug des Jahres 2018
+- Disney Aladdin
+- Von Aladdin, Jasmine, zur stilisierten POP-Vinyl Figur von Funko!
+- Jasmine
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07KPSZ36Q/?tag=tolees0ca-21)

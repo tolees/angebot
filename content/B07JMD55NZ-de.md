@@ -28,8 +28,8 @@ Sie können [PLAYMOBIL - Seemann mit Fischerboot](https://www.amazon.de/dp/B07JM
 
 ℹ️:
 
-- Boot und Fische schwimmen
 - 1 Sieb zum Fische fangen
 - 1 Boot und 1 Figur
+- Boot und Fische schwimmen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07JMD55NZ/?tag=tolees0ca-21)

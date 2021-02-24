@@ -29,7 +29,7 @@ Sie können [Videogioco Nintendo Ring Fit Adventure](https://www.amazon.de/dp/B0
 ℹ️:
 
 - An adventure game thats also a workout!
-- Learn about all the great new features, including a new voice option and a fun new Rhythm Game mode that are included in the latest free update
 - Explore a huge fantasy world and defeat enemies using real-life exercise
+- Learn about all the great new features, including a new voice option and a fun new Rhythm Game mode that are included in the latest free update
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XTZX565/?tag=tolees0ca-21)
