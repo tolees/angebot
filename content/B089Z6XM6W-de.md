@@ -1,30 +1,30 @@
 ---
 layout: post
-title: '50.01 % rabat auf Electronic Arts - FIFA 21 Standard Xbox '
-date: 2021-02-02 21:57:26
-image: 'https://m.media-amazon.com/images/I/412Ec6CUyQL._SL200_.jpg'
+title: '65.01 % rabat auf Electronic Arts - FIFA 21 Standard Xbox '
+date: 2021-02-24 15:19:51
+image: 'https://m.media-amazon.com/images/I/412Ec6CUyQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B089Z6XM6W-de Electronic Arts - FIFA 21 Standard Xbox One - Download...'
 sku: 'B089Z6XM6W-de'
 tags: [  ]
-actualPrice: 34.99 EUR
+actualPrice: 24.49 EUR
 currency: EUR
-price: 34.99
+price: 24.49
 comparePrice: 69.99 EUR
 prodname: 'Electronic Arts - FIFA 21 Standard Xbox One - Download Code [inkl. kostenlosem Upgrade auf Xbox Series X]'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.de/dp/B089Z6XM6W/?tag=tolees0ca-21'
-descuento: '50.01'
-average: '44.4784615384615'
+descuento: '65.01'
+average: '43.9787499999999'
 ---
 
-Es gibt ein [Electronic Arts - FIFA 21 Standard Xbox One - Download Code [inkl. kostenlosem Upgrade auf Xbox Series X]](https://www.amazon.de/dp/B089Z6XM6W/?tag=tolees0ca-21) mit aktuellem Preis 34.99 EUR (original: 69.99 EUR) 50.01 % Rabatt hier:
+Es gibt ein [Electronic Arts - FIFA 21 Standard Xbox One - Download Code [inkl. kostenlosem Upgrade auf Xbox Series X]](https://www.amazon.de/dp/B089Z6XM6W/?tag=tolees0ca-21) mit aktuellem Preis 24.49 EUR (original: 69.99 EUR) 65.01 % Rabatt hier:
 
-[![Electronic Arts - FIFA 21 Standard Xbox ](https://m.media-amazon.com/images/I/412Ec6CUyQL._SL200_.jpg)](https://www.amazon.de/dp/B089Z6XM6W/?tag=tolees0ca-21)
+[![Electronic Arts - FIFA 21 Standard Xbox ](https://m.media-amazon.com/images/I/412Ec6CUyQL._SL400_.jpg)](https://www.amazon.de/dp/B089Z6XM6W/?tag=tolees0ca-21)
 
 ℹ️:
 
