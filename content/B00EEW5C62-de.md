@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '22.98 % rabat auf Disney Interactive Studios - Scrubs: Die'
-date: 2021-02-23 00:30:28
+date: 2021-02-24 01:02:36
 image: 'https://m.media-amazon.com/images/I/51GdG7Ak9mL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Disney Interactive Studios'
 buyurl: 'https://www.amazon.de/dp/B00EEW5C62/?tag=tolees0ca-21'
 descuento: '22.98'
-average: '57.0012121212121'
+average: '56.3137142857143'
 ---
 
 Es gibt ein [Disney Interactive Studios - Scrubs: Die Anfänger - Die komplette Serie  Staffel 1-9 [31 DVDs]](https://www.amazon.de/dp/B00EEW5C62/?tag=tolees0ca-21) mit aktuellem Preis 44.97 EUR (original: 58.39 EUR) 22.98 % Rabatt hier:

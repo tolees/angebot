@@ -28,8 +28,8 @@ Es gibt ein [Xiaomi - POCO X3 NFC - Smartphone 6 + 64 GB  6 67 Zoll FHD+ Punch-h
 
 ℹ️:
 
-- display_type: LCD
 - display_size: 6.67 inches
 - Welche komponenten sind im lieferumfang des produkts enthaltenen: Einfache Schutzhülle
+- display_type: LCD
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08B992MYF/?tag=tolees0ca-21)
