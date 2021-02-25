@@ -29,7 +29,7 @@ Es gibt ein [Xiaomi Mi WiFi Repeater 2 White EU](https://www.amazon.de/dp/B00U0W
 ℹ️:
 
 - Wi-Fi
-- USB 2.0
 - 300 Mbps
+- USB 2.0
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00U0WGCQY/?tag=tolees0ca-21)

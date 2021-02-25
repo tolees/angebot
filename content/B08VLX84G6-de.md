@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.05 % rabat auf Sony PS4 - PS5 Konsole Sony PlayStation '
-date: 2021-02-24 12:24:04
+date: 2021-02-25 15:59:31
 image: 'https://m.media-amazon.com/images/I/41hWzC33cjL._SL400_.jpg'
 comments: true
 category: ofertas
