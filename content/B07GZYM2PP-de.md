@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '34.94 % rabat auf Pentel SESF30C-AX Brush Sign Pen Artist '
-date: 2021-02-23 05:46:53
+date: 2021-02-25 12:13:33
 image: 'https://m.media-amazon.com/images/I/21x3rj6FciL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Es gibt ein [Pentel SESF30C-AX Brush Sign Pen Artist - Pinselstift mit extra fei
 
 ℹ️:
 
-- Beliebtes Tool für Handlettering und Brushlettering
-- Farbstofftinte auf Wasserbasis
-- extra feine Pinselspitze
-- Gehäuse in Schwarz mit Metallic-Effekt
-- farbiger Banderole an Kappe
+- Coloured banderole on cap
+- Extra Fine Brush Tip
+- Case black with metallic effect
+- Water-based dye ink
+- Popular tool for hand lettering and brush lettering
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07GZYM2PP/?tag=tolees0ca-21)
