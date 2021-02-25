@@ -28,9 +28,9 @@ Sie können [SanDisk Ultra 200GB MicroSDXC Speicherkarte + SD-Adapter mit A1 App
 
 ℹ️:
 
+- A1-Performance ermöglicht ein deutlich schnelleres Laden von Apps
 - UHS Speed Class U1 und Speed Class 10 zur Aufnahme und Wiedergabe von Videos in Full HD
 - Übertragungsgeschwindigkeiten von bis zu 100 MB/Sek
-- A1-Performance ermöglicht ein deutlich schnelleres Laden von Apps
 - Bis zu 400 GB, um sogar noch mehr Stunden Full-HD-Video aufzunehmen
 - Ideal for Android-Smartphones und -Tablets
 
