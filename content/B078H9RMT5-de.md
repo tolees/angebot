@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sloggi Damen Zero Microfibre H Hipster C mit 30.68 % Rabatt'
-date: 2021-02-24 00:23:53
+date: 2021-02-25 07:10:42
 image: 'https://m.media-amazon.com/images/I/315b6WaoxnL._SL400_.jpg'
 comments: true
 category: ofertas

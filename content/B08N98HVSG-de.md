@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '17.67 % rabat auf Sons of Anarchy - Complete Box [Blu-ray]'
-date: 2021-02-24 00:21:36
+date: 2021-02-25 07:16:16
 image: 'https://m.media-amazon.com/images/I/51QrgRjEx5L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B08N98HVSG/?tag=tolees0ca-21'
 descuento: '17.67'
-average: '79.6957142857142'
+average: '78.48'
 ---
 
 Es gibt ein [Sons of Anarchy - Complete Box [Blu-ray]](https://www.amazon.de/dp/B08N98HVSG/?tag=tolees0ca-21) mit aktuellem Preis 69.97 EUR (original: 84.99 EUR) 17.67 % Rabatt hier:

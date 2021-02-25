@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Damen Smash WNS v2 L Zapatillas  Bl mit 23.92 % Rabatt'
-date: 2021-02-23 18:46:21
+date: 2021-02-25 06:50:36
 image: 'https://m.media-amazon.com/images/I/31dO0ctYzyL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.de/dp/B077MTMBMR/?tag=tolees0ca-21'
 descuento: '23.92'
-average: '35.625'
+average: '35.6891891891892'
 ---
 
 Sie können [PUMA Damen Smash WNS v2 L Zapatillas  Black Black  39 EU](https://www.amazon.de/dp/B077MTMBMR/?tag=tolees0ca-21) mit Preis 38.0 EUR (original: 49.95 EUR) 23.92 % Rabatt hier:
