@@ -28,8 +28,8 @@ Es gibt ein [Pentel BL2007B-BOX Gelroller - Exklusive Ausführung in Geschenkbox
 
 ℹ️:
 
-- nachfüllbar mit allen EnerGel Minen
 - Strichstärke 0, 35 mm
+- nachfüllbar mit allen EnerGel Minen
 - Scheibfarbe Schwarz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07DTG4SBQ/?tag=tolees0ca-21)

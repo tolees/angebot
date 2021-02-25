@@ -28,8 +28,8 @@ Sie können [Kingston DT100G3/16GB DataTraveler 100 G3  USB 3.0  3.1 Flash Drive
 
 ℹ️:
 
-- Speicherkapazitäten zwischen 16GB und 256GB
 - Das ideale USB 3.0-Speichergerät
+- Speicherkapazitäten zwischen 16GB und 256GB
 - Stilvolles Design schwarz-in-schwarz, mit Schiebekappe
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00C5K8D5W/?tag=tolees0ca-21)

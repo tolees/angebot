@@ -29,9 +29,9 @@ Es gibt ein [De’Longhi - De Longhi Original EcoDecalk DLSC500 - Entkalker für
 ℹ️:
 
 - EINFACH & SICHER ZU VERWENDEN: Der Entkalker ist nicht ätzend. Einfach anzuwenden und sicher im Gebrauch
+- UNIVERSAL KALKLÖSER: Verbessert den Kaffeegeschmack und verlängert die Lebensdauer Ihrer Kaffeemaschine
 - WIRKUNG: Der DeLonghi Entkalker löst Kalkablagerungen auf und verlängert bei regelmäßiger Anwendung die Lebensdauer der Maschine
 - ERHÖHT DIE LEBENSDAUER IHRER MASCHINE: Die richtige Reinigung und Pflege von Kaffeemaschine & Kaffeevollautomaten sorgt für eine lange Lebensdauer der Maschine
-- UNIVERSAL KALKLÖSER: Verbessert den Kaffeegeschmack und verlängert die Lebensdauer Ihrer Kaffeemaschine
 - BIOLOGISCH UNBEDENKLICH: Der Entkalker für Kaffeemaschinen und Kaffeevollautomaten ist vollständig biologisch abbaubar
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B008YETL18/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [Skechers Damen Graceful-GET CONNECTED-12615 Sneaker  Blau  Navy/hot
 
 ℹ️:
 
-- Herstellercode: 12808
 - Futter: Stoff
 - Uppers: Stoff
 - Breite Passform: Standard
 - Befestigung: Spitze
+- Herstellercode: 12808
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B074L56JSS/?tag=tolees0ca-21)
