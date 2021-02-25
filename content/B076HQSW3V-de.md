@@ -28,10 +28,10 @@ Sie können [adidas Herren CORE18 SW PNT Sport Trousers  Dark Grey Heather/Black
 
 ℹ️:
 
-- Leg end with elastic cuffs
 - Trouser pockets in the side area
+- Classic long adidas sweatpants
 - Elastic waistband with drawstring
 - Wide sectional shape
-- Classic long adidas sweatpants
+- Leg end with elastic cuffs
 
 [🛒 Hier!!](https://www.amazon.de/dp/B076HQSW3V/?tag=tolees0ca-21)

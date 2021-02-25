@@ -28,10 +28,10 @@ Sie können [PLAYMOBIL Dinos 70632 T-Rex Angriff  ab 4 Jahren](https://www.amazo
 
 ℹ️:
 
-- Have fun with the cool dinosaur sets: PLAYMOBIL T-Rex Attack with 2 dinosaurs, 1 explorer, 1 quad and lots of accessories for detailed play
-- Playset for children ages 4+: Fits perfectly in childrens hands due to age-appropriate size pieces, Easy to hold thanks to its rounded edges
-- Everyday use: instructions for assembly (with parents), High quality and robust design, To clean the parts (not including stickers), place pieces under running water containing no chemical agents
 - T-Rex and raptor with movable arms, legs, head and jaws, Quad (without motor) for 1 figure, Carrier with strap to carry accessories and much more
 - Contents: 1x PLAYMOBIL Dinos T-Rex Attack, 20-piece play figure set with instructions: 1 quad, 1 figure, 2 dinos, 16 accessories, Material: plastic, Can be set up individually, Weight: approx. 414 g, 70632
+- Everyday use: instructions for assembly (with parents), High quality and robust design, To clean the parts (not including stickers), place pieces under running water containing no chemical agents
+- Playset for children ages 4+: Fits perfectly in childrens hands due to age-appropriate size pieces, Easy to hold thanks to its rounded edges
+- Have fun with the cool dinosaur sets: PLAYMOBIL T-Rex Attack with 2 dinosaurs, 1 explorer, 1 quad and lots of accessories for detailed play
 
 [🛒 Hier!!](https://www.amazon.de/dp/B085FLRDYW/?tag=tolees0ca-21)

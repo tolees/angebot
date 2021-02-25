@@ -28,10 +28,10 @@ Es gibt ein [Sony Alpha 7 II | Spiegellose Vollformat-Kamera mit Sony 28-70 mm f
 
 ℹ️:
 
-- STABILE AUFNAHMEN: Optische 5-Achsen-Bildstabilisierung gepaart mit optischer Objektivstabilisierung zur Kompensation von Verwacklungen der Kamera.
 - SCHARFE DETAILS: 24 Mp Vollbildsensor für herausragende Bilder.
+- STABILE AUFNAHMEN: Optische 5-Achsen-Bildstabilisierung gepaart mit optischer Objektivstabilisierung zur Kompensation von Verwacklungen der Kamera.
 - IDEAL FÜR: Einsteiger, die ein kompaktes Alltagsobjektiv möchten.
-- AUSDRUCKSSTARKE VIDEOS: Erstellen Sie Filme von atemberaubender Bild- und Tonqualität mit exquisiter Hintergrundunschärfe und der Sensibilität, dunkle Szenen zum Leben zu erwecken.
 - SCHNELL UND GENAU: Die A7 verfügt über einen schnellen Hybrid-Autofokus, um eine optimale Scharfstellung zu erreichen. Die Serienbildaufnahme mit 5 Bildern pro Sekunde hilft Ihnen, den Moment festzuhalten.
+- AUSDRUCKSSTARKE VIDEOS: Erstellen Sie Filme von atemberaubender Bild- und Tonqualität mit exquisiter Hintergrundunschärfe und der Sensibilität, dunkle Szenen zum Leben zu erwecken.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00Q2KEVA2/?tag=tolees0ca-21)

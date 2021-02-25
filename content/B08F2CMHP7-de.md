@@ -30,8 +30,8 @@ Sie können [Western Digital - WD My Passport SSD 500 GB externe SSD  externe Fe
 
 - Lieferumfang: WD My Passport SSD 500 GB mobile Festplatte (NVMe-Technologie, USB-C und USB 3.2 Gen-2 kompatibel, Lesen 1050 MB/s, Schreiben 1000 MB/s) dunkelblau
 - Nehmen Sie die vibrations- und stoßfeste externe Festplatte 500 GB unbesorgt überall mit hin. Das Metallgehäuse der WD My Passport SSD ist robust genug und für alle Eventualitäten gerüstet.
-- Die Kombination aus Metallgehäuse und mattem Design, lässt Ihre WD My Passport SSD nicht nur edel aussehen, sondern ist auch eine innerlich wie äußerlich hochwertige und zuverlässige SSD Festplatte.
 - Die auf der externen Festplatte integrierte Backup-Software erleichtert Ihnen die Sicherung großer Dateien. Einfach einmaligl auf der SSD einrichten und Ihre Daten werden automatisch gesichert.
 - Die WD My Passport SSD 500 GB mobile Festplatte bietet Lese- und Schreibgeschwindigkeiten von bis zu 1.050 MB/s und 1.000 MB/s. Greifen Sie damit immer und von überall auf Ihr digitales Universum.
+- Die Kombination aus Metallgehäuse und mattem Design, lässt Ihre WD My Passport SSD nicht nur edel aussehen, sondern ist auch eine innerlich wie äußerlich hochwertige und zuverlässige SSD Festplatte.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08F2CMHP7/?tag=tolees0ca-21)

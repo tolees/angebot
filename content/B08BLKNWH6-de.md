@@ -28,10 +28,10 @@ Es gibt ein [Gamory Wireless Controller für P4  Gamepad Bluetooth Wireless Joys
 
 ℹ️:
 
+- 🎮 🎮【Drahtlose Verbindung und präzise Steuerungt】Die drahtlose Verbindung verwendet die Hochleistungs-Bluetooth-Technologie "Bluetooth 2.1 + EDR", die ohne Verzögerung eine stabile drahtlose Verbindung von bis zu 8 Millionen erreichen kann
 - 🎮 🎮【Ergonomisches Design】Unser Gamecontroller ist ergonomisch gestaltet. Im Vergleich zu anderen Gamecontrollern kann es die Ermüdung der Hände während des Spiels minimieren und Ihnen ein komfortableres Spielerlebnis bieten.
+- 🎮 🎮【Doppelte Vibration】Die eingebauten Doppelmotoren erzeugen je nach Spielzustand und Szene unterschiedliche Vibrationseffekte, die den Realismus des Spiels erhöhen und Ihnen den Spaß am Spiel ermöglichen.
 - 🎮 🎮【Somatosensorische 6-Achsen-Empfindlichkeit】Der 6-Achsen-Sensor besteht aus einem 3D-Beschleunigungssensor und einem Gyroskopsensor. Das Spiel wird durch Schütteln oder Schwingen des Joysticks bedient, um den Spielspaß zu verbessern.
 - 🎮 🎮【3,5-mm-Audioanschluss und Eingebauter Lautsprecher】Die Audiofunktion verbessert das Gefühl der Präsenz und schafft eine außergewöhnliche Spielatmosphäre, ohne sich um den Spielklang sorgen zu müssen, der Familie und Nachbarn stört.
-- 🎮 🎮【Doppelte Vibration】Die eingebauten Doppelmotoren erzeugen je nach Spielzustand und Szene unterschiedliche Vibrationseffekte, die den Realismus des Spiels erhöhen und Ihnen den Spaß am Spiel ermöglichen.
-- 🎮 🎮【Drahtlose Verbindung und präzise Steuerungt】Die drahtlose Verbindung verwendet die Hochleistungs-Bluetooth-Technologie "Bluetooth 2.1 + EDR", die ohne Verzögerung eine stabile drahtlose Verbindung von bis zu 8 Millionen erreichen kann
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08BLKNWH6/?tag=tolees0ca-21)
