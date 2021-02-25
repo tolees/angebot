@@ -28,9 +28,9 @@ Sie können [AEG HK654070FB Autarkes Kochfeld / Strahlenbeheizt / Slider-Bedienu
 
 ℹ️:
 
-- Gerätemaße H x B x T (cm): 3.8 x 62 x 52
-- Automatische Topferkennung
 - OffSound Control
+- Automatische Topferkennung
 - Autark-Kochfeld mit oben liegenden Bedienelementen
+- Gerätemaße H x B x T (cm): 3.8 x 62 x 52
 
 [🛒 Hier!!](https://www.amazon.de/dp/B005ZMLA5W/?tag=tolees0ca-21)

@@ -28,9 +28,9 @@ Sie können [Philips automotive lighting - Philips 12636BW Vision Moto HS1 Motor
 
 ℹ️:
 
-- 12 Volt, 35/35 Watt, Sockel: PX43t-38
+- Hoher Vibrationswiderstand durch Extra Duty Halterung
 - Bis zu 30% mehr Licht, verglichen mit einer Standardlampe
 - Spezielle Gaskomposition und angepasster Gasdruck, Hochleistungs-Brenner mit optimierter Glühwendel
-- Hoher Vibrationswiderstand durch Extra Duty Halterung
+- 12 Volt, 35/35 Watt, Sockel: PX43t-38
 
 [🛒 Hier!!](https://www.amazon.de/dp/B006OW3VSQ/?tag=tolees0ca-21)

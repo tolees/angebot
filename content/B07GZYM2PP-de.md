@@ -28,10 +28,10 @@ Es gibt ein [Pentel SESF30C-AX Brush Sign Pen Artist - Pinselstift mit extra fei
 
 ℹ️:
 
+- Case black with metallic effect
+- Coloured banderole on cap
+- Water-based dye ink
 - Extra Fine Brush Tip
 - Popular tool for hand lettering and brush lettering
-- Water-based dye ink
-- Coloured banderole on cap
-- Case black with metallic effect
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07GZYM2PP/?tag=tolees0ca-21)
