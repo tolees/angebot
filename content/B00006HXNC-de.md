@@ -28,10 +28,10 @@ Es gibt ein [Canon 7737A001 KP-36IP photo paper inkjet 100x148mm 36 Blatt 50er-P
 
 ℹ️:
 
-- 36 Blatt
 - Canon 7737A001 KP-36IP photo paper inkjet 100x148mm 36 Blatt with ink cassette for CP-100
-- Papier für Tintenstrahldrucker
-- Lieferumfang: Canon 7737A001 KP-36IP photo paper inkjet 100x148mm 36 Blatt with ink cassette for CP-100
 - 100 x 150mm
+- Lieferumfang: Canon 7737A001 KP-36IP photo paper inkjet 100x148mm 36 Blatt with ink cassette for CP-100
+- 36 Blatt
+- Papier für Tintenstrahldrucker
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00006HXNC/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [Black Diamond Mercury Mitts Handschuhe für Kaltwetteraktivitäten 
 
 ℹ️:
 
-- Lieferumfang: 1 x Paar Handschuhe von Black Diamond / Herausnehmbarer Innenhandschuh mit separatem Zeigefinger / Grifffest, Wind- und Wasserdicht / Größe: L, Farbe: Schwarz, Silbernes Logo
-- Der herausnehmbare Innenhandschuh ist mit 100% wasserdichtem BD dry-Einsatz, 340 g Primaloft Gold-Isolierung und High-Loft Fleecefutter ausgestattet - kann auch einzeln getragen werden
-- Die Handflächen sind mit Ziegenleder und Kevlar-Nähten besetzt, wodurch einerseits fester Halt und andererseits hohe Strapazierfähigkeit, auch nach intensivem Gebrauch geboten wird
-- Der Fäustling ist für den ganzjährigen Einsatz geeignet und besitzt eine Manschette, die vor jeglichen Witterungen schützt und weder Kälte noch Feuchtigkeit durchlässt
 - Der Außenhandschuh mit einem leichten, abriebfesten Pertex-Shield Material & 4-Wege-Stretch hält die Hände bei eisigen Temperaturen angenehm warm & lässt keine Feuchtigkeit eindringen
+- Der Fäustling ist für den ganzjährigen Einsatz geeignet und besitzt eine Manschette, die vor jeglichen Witterungen schützt und weder Kälte noch Feuchtigkeit durchlässt
+- Der herausnehmbare Innenhandschuh ist mit 100% wasserdichtem BD dry-Einsatz, 340 g Primaloft Gold-Isolierung und High-Loft Fleecefutter ausgestattet - kann auch einzeln getragen werden
+- Lieferumfang: 1 x Paar Handschuhe von Black Diamond / Herausnehmbarer Innenhandschuh mit separatem Zeigefinger / Grifffest, Wind- und Wasserdicht / Größe: L, Farbe: Schwarz, Silbernes Logo
+- Die Handflächen sind mit Ziegenleder und Kevlar-Nähten besetzt, wodurch einerseits fester Halt und andererseits hohe Strapazierfähigkeit, auch nach intensivem Gebrauch geboten wird
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00LFL7BI2/?tag=tolees0ca-21)

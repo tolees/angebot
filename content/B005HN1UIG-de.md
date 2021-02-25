@@ -28,9 +28,9 @@ Sie können [Garmin Schutztasche für nüvi mit 12 7cm  5 Zoll ](https://www.ama
 
 ℹ️:
 
-- Enables you to store and carry your sat nav safely when not in use
-- Protects your Garmin sat nav from damage and scratches
 - Secure fit
 - Stylish design
+- Enables you to store and carry your sat nav safely when not in use
+- Protects your Garmin sat nav from damage and scratches
 
 [🛒 Hier!!](https://www.amazon.de/dp/B005HN1UIG/?tag=tolees0ca-21)
