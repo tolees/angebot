@@ -28,8 +28,8 @@ Sie können [Funko - POP! Moment: Harry Potter - Harry VS Voldemort](https://www
 
 ℹ️:
 
+- Die Figur ist 12 cm groß und wird in einer illustrierten Fensterbox geliefert
 - Schauen Sie sich jetzt die anderen Harry Potter-Figuren von Funko an! Sammeln Sie alle!
 - Von Harry Potter, Harry VS Voldemort, zur stilisierten POP Moment Vinyl-Figur von Funko!
-- Die Figur ist 12 cm groß und wird in einer illustrierten Fensterbox geliefert
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07ZZNTSTY/?tag=tolees0ca-21)

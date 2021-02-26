@@ -28,10 +28,10 @@ Es gibt ein [Sony RX100 IV Premium Kompakt Digitalkamera  21 MP  7 6 cm  3 Zoll 
 
 ℹ️:
 
-- Bis zu 40x Slow Motion Aufnahmen; 180° drehbares (3,0 Zoll) LCD Display mit 1.228.800 Punkten
-- BIONZ X Prozessor für hervorragende Details und rauscharme Bilder
 - Mehrschichtiger CMOS-Sensor (Typ 1,0 Zoll) mit 20,1 Megapixeln und DRAM-Chip
-- ZEISS Vario-Sonnar T Objektiv mit 24-70 mm und einer Blendenöffnung von F1,8–2,8
+- Bis zu 40x Slow Motion Aufnahmen; 180° drehbares (3,0 Zoll) LCD Display mit 1.228.800 Punkten
 - Lieferumfang: Sony DSC-RX100M4 Kamera, Akku NP-BX1, Netzteil AC-UB10, Micro-USB-Kabel, Handgelenkschlaufe
+- BIONZ X Prozessor für hervorragende Details und rauscharme Bilder
+- ZEISS Vario-Sonnar T Objektiv mit 24-70 mm und einer Blendenöffnung von F1,8–2,8
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00ZUFRD4Q/?tag=tolees0ca-21)

@@ -28,9 +28,9 @@ Es gibt ein [ONLY Female Jacke Lederlook- 38Black](https://www.amazon.de/dp/B014
 
 ℹ️:
 
-- Materialzusammensetzung: 50% Viscose, 50% Polyester, Futter: 100% Polyester
-- Kurze Biker-Jacke.
-- Lederoptik.
 - Kragen mit Druckknopf-Details.
+- Kurze Biker-Jacke.
+- Materialzusammensetzung: 50% Viscose, 50% Polyester, Futter: 100% Polyester
+- Lederoptik.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B014FDVMKO/?tag=tolees0ca-21)
