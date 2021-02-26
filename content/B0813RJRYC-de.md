@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 42115 Technic Lamborghini Sián FKP  mit 28.95 % Rabatt'
-date: 2021-02-25 07:30:20
+title: 'LEGO 42115 Technic Lamborghini Sián FKP  mit 17.56 % Rabatt'
+date: 2021-02-26 22:58:35
 image: 'https://m.media-amazon.com/images/I/51bOdmP8B6L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,30 +9,30 @@ author: ring
 slug: 'B0813RJRYC-de LEGO 42115 Technic Lamborghini Sián FKP 37 Rennwagen...'
 sku: 'B0813RJRYC-de'
 tags: [  ]
-actualPrice: 269.99 EUR
+actualPrice: 313.26 EUR
 currency: EUR
-price: 269.99
+price: 313.26
 comparePrice: 379.99 EUR
 prodname: 'LEGO 42115 Technic Lamborghini Sián FKP 37 Rennwagen  erweitertes Bauset für Erwachsene  exklusives Sammlermodell'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0813RJRYC/?tag=tolees0ca-21'
-descuento: '28.95'
-average: '279.730833333334'
+descuento: '17.56'
+average: '279.857358490567'
 ---
 
-Sie können [LEGO 42115 Technic Lamborghini Sián FKP 37 Rennwagen  erweitertes Bauset für Erwachsene  exklusives Sammlermodell](https://www.amazon.de/dp/B0813RJRYC/?tag=tolees0ca-21) mit Preis 269.99 EUR (original: 379.99 EUR) 28.95 % Rabatt hier:
+Sie können [LEGO 42115 Technic Lamborghini Sián FKP 37 Rennwagen  erweitertes Bauset für Erwachsene  exklusives Sammlermodell](https://www.amazon.de/dp/B0813RJRYC/?tag=tolees0ca-21) mit Preis 313.26 EUR (original: 379.99 EUR) 17.56 % Rabatt hier:
 
 [![LEGO 42115 Technic Lamborghini Sián FKP ](https://m.media-amazon.com/images/I/51bOdmP8B6L._SL400_.jpg)](https://www.amazon.de/dp/B0813RJRYC/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Powered by Passion! Für dieses LEGO Technic Set werden keine Batterien benötigt, damit du dich sofort an das fesselnde Bauprojekt heranwagen kannst
-- Dieser exquisite LEGO Technic Modellbausatz begeistert mit herausragender Detailtreue und wurde eigens für die Fans von Supersportwagen entwickelt. Zu dem Set gehören auch eine dekorative Stellplatte und eine einmalige Seriennummer zum Freischalten exklusiver Online-Inhalte
 - Genieße ein fesselndes Bauerlebnis mit dem LEGO Technic Modellbausatz „Lamborghini Sián FKP 37“ (42115). Entdecke dann die originalgetreuen Ausstattungsmerkmale des Autos, zum Beispiel den V12-Motor mit beweglichen Kolben, die Lenkung und die Vorder- und Hinterradaufhängung
+- Dieser exquisite LEGO Technic Modellbausatz begeistert mit herausragender Detailtreue und wurde eigens für die Fans von Supersportwagen entwickelt. Zu dem Set gehören auch eine dekorative Stellplatte und eine einmalige Seriennummer zum Freischalten exklusiver Online-Inhalte
+- Ein lohnendes Bauprojekt für dich – oder ein ganz besonderes Geburtstags- oder Weihnachtsgeschenk für einen Menschen, der dir sehr am Herzen liegt. Dieses LEGO Set ist in einer exklusiven Luxus-Box erhältlich, die dich zum stolzen Besitzer eines überaus spektakulären Schaustücks macht
 - Das Modellauto im Maßstab 1:8 ist 13 cm hoch, 60 cm lang und 25 cm breit und begeistert mit seiner Lackierung in „Electric Gold“, mit seinen goldenen Felgen und mit seinen Zierelementen
 - Dieses LEGO Technic Set bringt dich dem echten Lamborghini Sián FKP 37 näher als je zuvor, denn das Modell verfügt über ein sequenzielles 8-Gang-Schaltgetriebe, einen beweglichen Heckspoiler, Front- und Heckklappe, welche sich öffnen lassen sowie detailgetreue Scheibenbremsen und goldene Felgen
-- Ein lohnendes Bauprojekt für dich – oder ein ganz besonderes Geburtstags- oder Weihnachtsgeschenk für einen Menschen, der dir sehr am Herzen liegt. Dieses LEGO Set ist in einer exklusiven Luxus-Box erhältlich, die dich zum stolzen Besitzer eines überaus spektakulären Schaustücks macht
+- Powered by Passion! Für dieses LEGO Technic Set werden keine Batterien benötigt, damit du dich sofort an das fesselnde Bauprojekt heranwagen kannst
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0813RJRYC/?tag=tolees0ca-21)
