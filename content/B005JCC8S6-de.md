@@ -31,7 +31,7 @@ Es gibt ein [GRÄWE Burgerpresse mit 50 Blatt Backpapier  Hamburgerpresse Set au
 - Mit der Hamburgerform können Sie schnell und einfach Hackfleisch in die richtige Form pressen und in der Pfanne oder auf dem Grill zubereiten. Hackfleisch abwiegen, in die Patty Presse drücken, fertig
 - Der Hamburger Patty Maker ist vollständig antihaftbeschichtet, sodass sich die Rohlinge wie von selbst lösen. Der handliche Komfortgriff aus Kunststoff sorgt für eine angenehmere Druckverteilung beim Pressen
 - Mit der praktischen Pattypresse gelingen Ihnen schmackhafte Hamburger und Cheeseburger mit Leichtigkeit. Dank der optimalen Druckverteilung der Hamburger Presse haben Ihre Burger stets die ideale Form
-- Hamburger-Presse aus Aluguss, Antihaftbeschichtung, Griff aus Kunststoff, Außendurchmesser: 12 cm, Innendurchmesser: 11 cm, Gesamthöhe: 8,5 cm, Gewicht: 250 g, inklusive 50 Blatt Backpapier, Gebrauchsanleitung, 2 Rezepte
 - Erleben Sie den GRÄWE Genussmoment. Ob als Hobbykoch oder professioneller Gastronom, bei uns finden Sie eine große Auswahl an formschönen Küchenutensilien. Unsere Traditionsmarke steht für hochwertige Produktqualität und Liebe zum Detail
+- Hamburger-Presse aus Aluguss, Antihaftbeschichtung, Griff aus Kunststoff, Außendurchmesser: 12 cm, Innendurchmesser: 11 cm, Gesamthöhe: 8,5 cm, Gewicht: 250 g, inklusive 50 Blatt Backpapier, Gebrauchsanleitung, 2 Rezepte
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B005JCC8S6/?tag=tolees0ca-21)
