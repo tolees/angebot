@@ -28,11 +28,11 @@ Es gibt ein [Intenso Memory Play 1TB externe TV-Festplatte  6 35 cm  2 5 Zoll   
 
 ℹ️:
 
-- PVR Ready; Festplatte, Wandhalterung, USB Kabel
-- Systemvoraussetzung: Microsoft Windows 7/8/8.1/10, Mac OS
-- Aufnahmezeit bis zu 800 Stunden
-- Dateisystem FAT 32
 - Lieferumfang: Intenso 6021460 Memory Play externe TV-Festplatte 1TB (6,35 cm (2,5 Zoll)) inkl. TV-Halterung schwarz
+- Dateisystem FAT 32
 - Super Speed USB 3.0 Anschluss; abwärtskompatibel zu USB 2.0
+- Systemvoraussetzung: Microsoft Windows 7/8/8.1/10, Mac OS
+- PVR Ready; Festplatte, Wandhalterung, USB Kabel
+- Aufnahmezeit bis zu 800 Stunden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00NJ6FG38/?tag=tolees0ca-21)

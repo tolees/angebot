@@ -28,7 +28,7 @@ Es gibt ein [Legero Damen Tanaro Turnschuh  Daino  40 EU  6.5 UK](https://www.am
 
 ℹ️:
 
-- leichte Laufsohle
 - Herausnehmbare Einlegesohle
+- leichte Laufsohle
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0846KQ8SD/?tag=tolees0ca-21)

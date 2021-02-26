@@ -28,10 +28,10 @@ Es gibt ein [ESR7GEARS Unterbauleuchte Küche - 2er Pack 20-LED Küchenlampe Mit
 
 ℹ️:
 
-- 🎅[3 Modi] – Im "Auto"-Modus schaltet sich das intelligente Schranklicht automatisch an, sobald es Bewegungen innerhalb von 3m bei geringem Umgebungslicht erkennt, und schaltet sich automatisch aus, wenn 20 Sekunden keine Bewegungen erkannt wurden. Mit den On/Off-Modi kannst du das Licht manuell kontrollieren, zur Benutzung als Taschenlampe.
-- 🎅[20 Helle LEDs] – Enthält zweimal so viele LEDs wie Standard 10-LED Schranklichter, damit dein Haus bei Nacht gut beleuchtet und sicher ist.
-- 🎅[Zufriedenheitsgarantie] – Du erhältst eine 18-monatige Garantie, branchenführenden Kundensupport und eine 100% Zufriedenheitsgarantie für dieses Produkt.Wenn du aus irgendeinem Grund mit dem Produkt unzufrieden sein solltest, bieten wir dir gerne einen kostenlosen Ersatz oder eine Rückerstattung an.
 - 🎅[Batteriegesteuert und Energieeffizient] – Wird durch 4 AAA Batterien mit Strom versorgt (nicht enthalten), sodass du sie überall anbringen kannst, ohne eine Steckdose zu brauchen. Die Batterien halten 5h im On-Modus und über ein halbes Jahr im "Auto"-Modus.
 - 🎅[Vielfältig und benutzerfreundlich] – Enthält integrierte Magnete für das Anbringen an Metalloberflächen, und eine Metallmontageplatte mit einem 3M Klebestreifen für andere Oberflächen. Das Anbringen und Abnehmen ist stressfrei und erfordert keine zusätzlichen Werkzeuge. Perfekt für Schränke, Küchen, Treppen, Flure, Notfälle und mehr.
+- 🎅[Zufriedenheitsgarantie] – Du erhältst eine 18-monatige Garantie, branchenführenden Kundensupport und eine 100% Zufriedenheitsgarantie für dieses Produkt.Wenn du aus irgendeinem Grund mit dem Produkt unzufrieden sein solltest, bieten wir dir gerne einen kostenlosen Ersatz oder eine Rückerstattung an.
+- 🎅[3 Modi] – Im "Auto"-Modus schaltet sich das intelligente Schranklicht automatisch an, sobald es Bewegungen innerhalb von 3m bei geringem Umgebungslicht erkennt, und schaltet sich automatisch aus, wenn 20 Sekunden keine Bewegungen erkannt wurden. Mit den On/Off-Modi kannst du das Licht manuell kontrollieren, zur Benutzung als Taschenlampe.
+- 🎅[20 Helle LEDs] – Enthält zweimal so viele LEDs wie Standard 10-LED Schranklichter, damit dein Haus bei Nacht gut beleuchtet und sicher ist.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07NVD398H/?tag=tolees0ca-21)

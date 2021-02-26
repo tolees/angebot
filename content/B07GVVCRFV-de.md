@@ -29,9 +29,9 @@ Sie können [Ravensburger Familienspiele - 26031 Harry Potter Labyrinth - Harry 
 ℹ️:
 
 - Dieses Kinder- und Familienspiel ist ein tolles und passendes Geschenk zu Weihnachten, Ostern oder zum Geburtstag. Es eignet sich für Harry Potter Fans ab 7 Jahren und sorgt für großen Spaß bei jedem Spieleabend
-- Die Regeln sind leicht verständlich, so dass schnell losgespielt werden kann
-- Das verrückte Labyrinth sorgt seit über 30 Jahren für spannende Spielerunden und begeistert Kinder ab 7 Jahren aber auch Erwachsene. Ein einfaches Strategiespiel, das auf spielerische Weise das logische Denken fördert
-- Eine spannende Suche nach den berühmten Figuren aus Harry Potter für 2, 3 oder 4 Spieler. Geschickt verschieben die Spieler die Gänge des Labyrinths und versuchen einen durchgängigen Weg zu Harrys Schulleiter Dumbledore, seiner Eule Hedwig oder Freundin Hermine zu erschaffen
 - Ravensburger steht für Spiele mit hoher Qualität. Der Spieplan und die Labyrinth Karten sind aus stabilem Kartonmaterial gefertigt. Zauberhaftes und langlebiges Spielvergügen sind somit garantiert
+- Eine spannende Suche nach den berühmten Figuren aus Harry Potter für 2, 3 oder 4 Spieler. Geschickt verschieben die Spieler die Gänge des Labyrinths und versuchen einen durchgängigen Weg zu Harrys Schulleiter Dumbledore, seiner Eule Hedwig oder Freundin Hermine zu erschaffen
+- Das verrückte Labyrinth sorgt seit über 30 Jahren für spannende Spielerunden und begeistert Kinder ab 7 Jahren aber auch Erwachsene. Ein einfaches Strategiespiel, das auf spielerische Weise das logische Denken fördert
+- Die Regeln sind leicht verständlich, so dass schnell losgespielt werden kann
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07GVVCRFV/?tag=tolees0ca-21)
