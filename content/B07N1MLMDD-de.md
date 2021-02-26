@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Blackview A60 Smartphone ohne Vertrag Gü mit 30.00 % Rabatt'
-date: 2021-02-25 07:00:05
+date: 2021-02-26 11:56:40
 image: 'https://m.media-amazon.com/images/I/41+gU+8Jf1L._SL400_.jpg'
 comments: true
 category: ofertas

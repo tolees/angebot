@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Der Android mit 72.49 % Rabatt'
-date: 2021-02-25 06:52:16
+date: 2021-02-26 11:28:47
 image: 'https://m.media-amazon.com/images/I/51C8KFZu35L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B077TRDGGQ/?tag=tolees0ca-21'
 descuento: '72.49'
-average: '3.64529411764706'
+average: '3.38263157894737'
 ---
 
 Sie können [Der Android](https://www.amazon.de/dp/B077TRDGGQ/?tag=tolees0ca-21) mit Preis 1.15 EUR (original: 4.18 EUR) 72.49 % Rabatt hier:
