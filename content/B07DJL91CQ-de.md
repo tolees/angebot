@@ -28,10 +28,10 @@ Sie können [LISTERINE Cool Mint  Milder Geschmack  Antibakterielle Mundspülung
 
 ℹ️:
 
-- Von Zahnärzten empfohlen: Zweimal am Tag angewendet verbessert LISTERINE COOL MINT MILDER GESCHMACK die Mundhygiene – mit ätherischen Ölen, ohne Alkohol. Entfernt bis zu 97% der nach dem Zähneputzen verbliebenen Bakterien.
-- Bekämpft wirksam schädliche Bakterien auch dort, wo die Zahnbürste nicht hinkommt: zwischen den Zähnen, am Zahnfleisch und auf der Zunge, verhindert und reduziert Zahnbelag, eine Hauptursache für Zahnfleischentzündungen.
 - Einfache Handhabung: Für den besten Effekt morgens und abends täglich nach dem Zähneputzen spülen. Dazu 20 ml (ca. 4 Teelöffel) in ein Glas geben, ca. 30 Sekunden spülen und anschließend ausspucken.
-- LISTERINE wirkt antibakteriell – klinisch geprüft. Dabei bleibt die Mundflora im Gleichgewicht. Gibt ein langanhaltendes Frischegefühl.
 - Lieferumfang: 6 x LISTERINE Cool Mint milder Geschmack, Antibakterielle Mundspülung ohne Alkohol, 600 ml
+- LISTERINE wirkt antibakteriell – klinisch geprüft. Dabei bleibt die Mundflora im Gleichgewicht. Gibt ein langanhaltendes Frischegefühl.
+- Bekämpft wirksam schädliche Bakterien auch dort, wo die Zahnbürste nicht hinkommt: zwischen den Zähnen, am Zahnfleisch und auf der Zunge, verhindert und reduziert Zahnbelag, eine Hauptursache für Zahnfleischentzündungen.
+- Von Zahnärzten empfohlen: Zweimal am Tag angewendet verbessert LISTERINE COOL MINT MILDER GESCHMACK die Mundhygiene – mit ätherischen Ölen, ohne Alkohol. Entfernt bis zu 97% der nach dem Zähneputzen verbliebenen Bakterien.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07DJL91CQ/?tag=tolees0ca-21)
