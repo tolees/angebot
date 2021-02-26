@@ -28,10 +28,10 @@ Es gibt ein [Wiha Schraubendreher SoftFinish® Phillips mit Rundklinge  00759  P
 
 ℹ️:
 
+- Schont Ihre Gesundheit: Mit patentiertem SoftFinish Griffdesign für hand- und muskelschonendes Arbeiten. Von Ärzten und Therapeuten des AGR empfohlen!
 - Steigert Ihre Effizienz: Schraubendreher-Griffgrößenkonzept für eine optimale Balance zwischen Präzision und Kontrolle.
-- Normen: DIN ISO 8764-PH.
 - Kaufen Sie Werkzeuge, die Ihre Effizienz erhöhen, Ihre Kosten senken und Ihre Gesundheit bewahren. Deshalb entwickelt, konstruiert und fertigt Wiha Produkte mit höchsten Ansprüchen an Funktionalität, Langlebigkeit und Ergonomie. Werkzeuge, die Ihnen Ihre Arbeit spürbar erleichtern – tools that work for you.
 - Wiha ist ein seit über 75 Jahren inhabergeführtes Familienunternehmen aus dem Schwarzwald. Qualität und Innovation stehen hier im Fokus. Wiha bietet dem Profi ein umfangreiches Sortiment hochwertiger Premium Werkzeuge, die sich durch den Einsatz modernster Fertigungstechnologien, durch anwendungsorientierte Innovationen, ergonomische Überlegenheit, höchste Qualität, absolute Zuverlässigkeit und lange Lebensdauer auszeichnen.
-- Schont Ihre Gesundheit: Mit patentiertem SoftFinish Griffdesign für hand- und muskelschonendes Arbeiten. Von Ärzten und Therapeuten des AGR empfohlen!
+- Normen: DIN ISO 8764-PH.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000WQBDLM/?tag=tolees0ca-21)
