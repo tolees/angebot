@@ -28,10 +28,10 @@ Es gibt ein [Canon Tintenpatrone CLI-8 G - grün 13 ml - Original für Tintenstr
 
 ℹ️:
 
-- LIEFERUMFANG - 1x Canon CLI-8 G grün Tintenpatrone 13 ml
-- ERGEBNISSE - Das ChromaLife100 System liefert herausragende Ergebnisse mit hoher Farbstabilität
-- KOMPATIBILITÄT - Kompatibel mit PIXMA Pro9000, Pro9000 Mark II
 - BEDRUCKBARE SEITEN - Mit der 13 ml Canon Tintenpatrone können Sie durchschnittlich 500 A3+ Fotos mit Rand drucken
+- KOMPATIBILITÄT - Kompatibel mit PIXMA Pro9000, Pro9000 Mark II
+- ERGEBNISSE - Das ChromaLife100 System liefert herausragende Ergebnisse mit hoher Farbstabilität
+- LIEFERUMFANG - 1x Canon CLI-8 G grün Tintenpatrone 13 ml
 - QUALITÄT - Original Canon Tinte liefert bei 100% der Drucke immer eine durchgängig hohe Qualität
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000JK9XV8/?tag=tolees0ca-21)
