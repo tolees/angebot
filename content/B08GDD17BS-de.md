@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'TP-Link Tapo WLAN Smart Steckdose Tapo P mit 33.44 % Rabatt'
-date: 2021-02-24 13:52:50
+title: 'TP-LINK MINI SMART WI-FI SOCKET 2 PACK mit 33.44 % Rabatt'
+date: 2021-02-26 00:42:54
 image: 'https://m.media-amazon.com/images/I/31W0KrgSsIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GDD17BS-de TP-Link Tapo WLAN Smart Steckdose Tapo P100 Smart Home...'
+slug: 'B08GDD17BS-de TP-LINK MINI SMART WI-FI SOCKET 2 PACK'
 sku: 'B08GDD17BS-de'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9
 comparePrice: 29.9 EUR
-prodname: 'TP-Link Tapo WLAN Smart Steckdose Tapo P100  Smart Home WiFi Steckdose  Alexa Zubehör 2er pack  funktioniert mit Alexa  Google Home  Tapo App  Sprachsteuerung  Fernzugriff  Kein Hub notwendig  Mini'
+prodname: 'TP-LINK MINI SMART WI-FI SOCKET 2 PACK'
 country: 'de'
 flag: '🇩🇪'
 brand: 'TP-Link'
@@ -22,16 +22,16 @@ descuento: '33.44'
 average: '19.9'
 ---
 
-Sie können [TP-Link Tapo WLAN Smart Steckdose Tapo P100  Smart Home WiFi Steckdose  Alexa Zubehör 2er pack  funktioniert mit Alexa  Google Home  Tapo App  Sprachsteuerung  Fernzugriff  Kein Hub notwendig  Mini](https://www.amazon.de/dp/B08GDD17BS/?tag=tolees0ca-21) mit Preis 19.9 EUR (original: 29.9 EUR) 33.44 % Rabatt hier:
+Sie können [TP-LINK MINI SMART WI-FI SOCKET 2 PACK](https://www.amazon.de/dp/B08GDD17BS/?tag=tolees0ca-21) mit Preis 19.9 EUR (original: 29.9 EUR) 33.44 % Rabatt hier:
 
-[![TP-Link Tapo WLAN Smart Steckdose Tapo P](https://m.media-amazon.com/images/I/31W0KrgSsIL._SL400_.jpg)](https://www.amazon.de/dp/B08GDD17BS/?tag=tolees0ca-21)
+[![TP-LINK MINI SMART WI-FI SOCKET 2 PACK](https://m.media-amazon.com/images/I/31W0KrgSsIL._SL400_.jpg)](https://www.amazon.de/dp/B08GDD17BS/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Sprachsteuerung - Aktivieren Sie Ihre smarte Steckdose mit Sprachbefehlen über Amazon Alexa oder den Google Assistant
 - Einfache Einrichtung und Verwendung - Schnelle und einfache tägliche Einrichtung und Verwaltung über kostenlose App (kostenfrei für IOs und Android)
 - Erstellen von Zeitplänen - Schalten Sie Ihre Geräte automatisch zu verschiedenen Zeiten an und aus
 - Zugriff auch von unterwegs - Steuern Sie alle Geräte bequem über das Smartphone, überall und zu jeder Zeit
 - Abwesenheitsmodus - Schalten Sie Ihre Lichter zu unterschiedlichsten Zeiten an und aus um die Anwesenheit einer Person zu simulieren
-- Sprachsteuerung - Aktivieren Sie Ihre smarte Steckdose mit Sprachbefehlen über Amazon Alexa oder den Google Assistant
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08GDD17BS/?tag=tolees0ca-21)
