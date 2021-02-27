@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '38.80 % rabat auf Jumanji: The Next Level / Jumanji: Willk'
-date: 2021-02-25 16:00:28
+date: 2021-02-26 23:32:19
 image: 'https://m.media-amazon.com/images/I/51yDma9ypxL._SL400_.jpg'
 comments: true
 category: ofertas
