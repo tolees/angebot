@@ -28,10 +28,10 @@ Sie können [LEGO 21052 Architecture Dubai Modell  Skyline-Kollektion  Bauset f�
 
 ℹ️:
 
-- Diese Dubai-Skyline-Version zeigt detailgetreue Modelle der spektakulärsten Sehenswürdigkeiten mit der legendären, segelförmigen Silhouette
-- Jeder, der eine Leidenschaft für Dubai hat, wird es genießen, dieses auffällige Modell zu Hause oder im Büro zu bauen und es mit Stolz zu präsentieren
-- Wissenswertes über Dubai und den Modelldesigner enthält das beiliegende Heft (nur in englischer Sprache verfügbar). Auf LEGO architecture kann das Heft auch in anderen Sprachen heruntergeladen werden
 - Der berühmte Burj Khalifa, das Jumeirah Emirates Towers Hotel, das Burj Al Arab Jumeirah Hotel, der Dubai Frame und die Dubai Fountain sind in diesem Architektur-Modellbausatz enthalten
+- Wissenswertes über Dubai und den Modelldesigner enthält das beiliegende Heft (nur in englischer Sprache verfügbar). Auf LEGO architecture kann das Heft auch in anderen Sprachen heruntergeladen werden
+- Jeder, der eine Leidenschaft für Dubai hat, wird es genießen, dieses auffällige Modell zu Hause oder im Büro zu bauen und es mit Stolz zu präsentieren
+- Diese Dubai-Skyline-Version zeigt detailgetreue Modelle der spektakulärsten Sehenswürdigkeiten mit der legendären, segelförmigen Silhouette
 - Dieses Set vereint detailgetreue Modelle berühmter Gebäude und Wahrzeichen Dubais, um alle Bewunderer dieser aufregenden, modernen Stadt zu inspirieren
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W4KT2C9/?tag=tolees0ca-21)

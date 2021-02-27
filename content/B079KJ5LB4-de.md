@@ -29,8 +29,8 @@ Es gibt ein [LLOYD Herren Gala Derbys  Schwarz  Schwarz/Midnight 0   44 EU](http
 ℹ️:
 
 - Glattleder
-- Leder
 - closing: keine Angabe
+- Leder
 - material: Obermaterial: Glattleder , Innenmaterial: Leder , Sohle: Gummi
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B079KJ5LB4/?tag=tolees0ca-21)

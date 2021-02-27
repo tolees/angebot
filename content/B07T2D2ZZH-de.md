@@ -28,10 +28,10 @@ Es gibt ein [Fisher-Price GKG77 - Imaginext Hungriger Hai](https://www.amazon.de
 
 ℹ️:
 
-- Den Hai nachziehen, damit er seinen Kopf und seine Flosse bewegt!
-- Das Maul des Hais öffnen, den Taucher „schlucken“ und die Figur dann herausholen und von Neuem beginnen!
-- Großer Spielzeug-Hai mit Taucher-Figur, Käfig und Zubehör
-- Für Kinder von 3 bis 8 Jahren
 - Das Power Pad drücken, damit er zubeißt.
+- Für Kinder von 3 bis 8 Jahren
+- Das Maul des Hais öffnen, den Taucher „schlucken“ und die Figur dann herausholen und von Neuem beginnen!
+- Den Hai nachziehen, damit er seinen Kopf und seine Flosse bewegt!
+- Großer Spielzeug-Hai mit Taucher-Figur, Käfig und Zubehör
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07T2D2ZZH/?tag=tolees0ca-21)

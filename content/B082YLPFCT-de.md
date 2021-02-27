@@ -28,7 +28,7 @@ Es gibt ein [Superdry Mens VL NS Hood Hooded Sweatshirt  Midnight Blue Grit  L](
 
 ℹ️:
 
-- Casual & Vintage
 - Knit Sweat/Hood of Cotton
+- Casual & Vintage
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B082YLPFCT/?tag=tolees0ca-21)
