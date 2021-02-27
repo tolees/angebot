@@ -28,8 +28,8 @@ Sie können [adidas Herren TIRO19 WOV PNT Sport Trousers  Black/White  L](https:
 
 ℹ️:
 
+- Climacool technology
 - Tapered Fit
 - Elastic waistband with lanyard
-- Climacool technology
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07K6WK55V/?tag=tolees0ca-21)

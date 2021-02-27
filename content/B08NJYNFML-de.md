@@ -28,10 +28,10 @@ Es gibt ein [Superzings - SuperThings - Spielset Battle Arena  enthält 1 Arena 
 
 ℹ️:
 
-- SuperThings sind Alltagsgegenstände, die in Superhelden und Superschurken verwandelt werden. Jedes Super Thing hat seinen Konkurrenz: Finde die rivalischen Paare und forme deine SuperTeams!
-- Sie schwingen im Stadion, bereit für den Kampf. 3, 2, 1... Die Kampfkreisel drehen sich mit voller Geschwindigkeit, nähern, weglaufen und treffen sich gegeneinander. Wer wird der Gewinner sein?
-- Behalten Sie Punktzahl, weil alles in der SuperThings Battle Arena entschieden wird
 - Enthält: 1 Arena, 2 exklusive Kampfkreisel und 2 exklusive SuperThings
 - Die SuperThings jubeln die Teilnehmer in dieser epischen Schlacht in der Kaboom Citys Battle Arena an
+- Behalten Sie Punktzahl, weil alles in der SuperThings Battle Arena entschieden wird
+- SuperThings sind Alltagsgegenstände, die in Superhelden und Superschurken verwandelt werden. Jedes Super Thing hat seinen Konkurrenz: Finde die rivalischen Paare und forme deine SuperTeams!
+- Sie schwingen im Stadion, bereit für den Kampf. 3, 2, 1... Die Kampfkreisel drehen sich mit voller Geschwindigkeit, nähern, weglaufen und treffen sich gegeneinander. Wer wird der Gewinner sein?
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08NJYNFML/?tag=tolees0ca-21)

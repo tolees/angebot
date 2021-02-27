@@ -29,9 +29,9 @@ Sie können [Pepe Jeans Damen Jeans Venus  10oz Authentic Rope Str Med  31W / 34
 ℹ️:
 
 - Straight leg
-- Mid-weight denim
-- Worn in medium blue wash
-- Straight fit
 - Fade away effect
+- Straight fit
+- Worn in medium blue wash
+- Mid-weight denim
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00NUZ63IK/?tag=tolees0ca-21)

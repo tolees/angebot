@@ -28,9 +28,9 @@ Es gibt ein [Schiesser Damen Spaghettitop  2er Pack  Unterhemd  Schwarz  schwarz
 
 ℹ️:
 
-- Material: 95% Baumwolle , 5% Elasthan
 - Serie Cotton Essentials
-- Trocknen niedrige Temperatur, Bügeln wenig
+- Material: 95% Baumwolle , 5% Elasthan
 - im Uni Design
+- Trocknen niedrige Temperatur, Bügeln wenig
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00JZQE4ZW/?tag=tolees0ca-21)

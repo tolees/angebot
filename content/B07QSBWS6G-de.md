@@ -28,10 +28,10 @@ Es gibt ein [Funko 40886  Sammelbares Spielzeug  One-Size  Mehrfarben](https://w
 
 ℹ️:
 
-- Disney Frozen 2
-- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 - Schauen Sie sich jetzt die anderen Disney-Figuren von Funko an! Sammeln Sie alle!
 - Von Frozen 2, Anna, zur stilisierten POP-Vinyl Figur von Funko! +B2: B35
 - Anna
+- Disney Frozen 2
+- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07QSBWS6G/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [Sony E PZ 18-105 mm f/4.0 G | APS-C  Powerzoom-Objektiv  SEL18105G 
 
 ℹ️:
 
-- FAST AND PRECISE: Focusing benefits from the same type of pro-level technology, providing smooth, quiet operation that is also responsive. The length of the lens remains constant while zooming or focusing
-- CAPTURE ALL THE DETAIL: The zoom range and quality of this fine G Lens will be more than enough for most shooting situations, plus you have the added advantage of smooth power zoom
 - BEAUTIFULLY SMOOTH BACKGROUNDS: Circular 7-blade aperture for beautiful bokeh defocus effects
-- INCREDIBLY SHARP: An advanced optical design that incorporates two ED (Extra-low Dispersion) glass elements and three aspherical elements offers enviable G Lens image quality throughout the zoom range
+- FAST AND PRECISE: Focusing benefits from the same type of pro-level technology, providing smooth, quiet operation that is also responsive. The length of the lens remains constant while zooming or focusing
 - PROFESSIONAL ERGONOMICS: Built-in Optical SteadyShot image stabilization compensates for camera shake that can blur images when shooting handheld
+- CAPTURE ALL THE DETAIL: The zoom range and quality of this fine G Lens will be more than enough for most shooting situations, plus you have the added advantage of smooth power zoom
+- INCREDIBLY SHARP: An advanced optical design that incorporates two ED (Extra-low Dispersion) glass elements and three aspherical elements offers enviable G Lens image quality throughout the zoom range
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00ENZRQH8/?tag=tolees0ca-21)

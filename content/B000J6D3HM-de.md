@@ -29,9 +29,9 @@ Sie können [Pentel R50 Tintenroller "Ball Pentel" 0 4mm  12 Stück  schwarz](ht
 ℹ️:
 
 - Charakteristischer grüner Schaft mit plastikgefederter Schreibspitze
+- Gleichmäßig fließende Tinte auf Wasserbasis, nicht nachfüllbar
 - Strichstärke 0,4mm in Schreibfarbe schwarz
 - Der Pentel-Klassiker und Kult! Ball Pentel - der erste Tintenroller der Welt
 - Lieferumfang: 12 Stück
-- Gleichmäßig fließende Tinte auf Wasserbasis, nicht nachfüllbar
 
 [🛒 Hier!!](https://www.amazon.de/dp/B000J6D3HM/?tag=tolees0ca-21)
