@@ -28,10 +28,10 @@ Sie können [CASAMODA Strickjacken Uni](https://www.amazon.de/dp/B07GD34NT3/?tag
 
 ℹ️:
 
-- Gefertigt aus reiner Pima-Baumwolle
-- Stehkragen
-- Vielseitig kombinierbar
 - Normale Passform
+- Vielseitig kombinierbar
+- Stehkragen
 - Besonders weiches Tragegefühl
+- Gefertigt aus reiner Pima-Baumwolle
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07GD34NT3/?tag=tolees0ca-21)
