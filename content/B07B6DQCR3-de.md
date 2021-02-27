@@ -28,9 +28,9 @@ Sie können [Grundig GMK8610 HD 2509 R Grundig Sport- und Reisehaartrockner 1500
 
 ℹ️:
 
-- Weltweite Nutzung durch umschaltbare Netzspannung
-- Einklappbarer, softtouch-beschichteter Handgriff.
 - 1500 Watt Leistung
 - Platzsparend und daher ideal für das Reise- oder Sportgepäck.
+- Weltweite Nutzung durch umschaltbare Netzspannung
+- Einklappbarer, softtouch-beschichteter Handgriff.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07B6DQCR3/?tag=tolees0ca-21)

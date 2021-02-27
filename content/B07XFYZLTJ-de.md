@@ -28,14 +28,14 @@ Sie können [Apple USB-C-Digital-AV-Multiport-Adapter  Neustes Modell ](https://
 
 ℹ️:
 
-- Erfordert ein HDMI-Kabel (separat erhältlich) für die Verbindung mit einem Fernseher oder Projektor.
-- 3840 x 2160 bei 60 Hz auf: iPad Pro (11 Zoll), iPad Pro (12,9 Zoll), MacBook Pro (15 Zoll), iMac (27 Zoll mit Retina 5k), iMac (21,5 Zoll mit Retina 4k) und iMac Pro (2018)
-- Du kannst auch ein Ladekabel an den USB‑C Anschluss anschließen, um deinen Mac oder dein iPad Pro zu laden.
+- Der Adapter lässt dich dein Mac Display auf HDMI fähige Fernseher oder Displays spiegeln.
 - Nutze den standardmäßigen USB Anschluss, um Geräte wie Flash Drives oder eine Kamera anzuschließen, oder ein USB Kabel, um deine iOS Geräte zu synchronisieren und zu laden.
+- 1080 p bei 60 Hz oder UHD (3840 x 2160) bei 30 Hz auf: MacBook Pro (13 Zoll, Vorgängermodell), MacBook Pro (15 Zoll, Vorgängermodell), iMac (21,5 Zoll) und Mac mini
+- Erfordert ein HDMI-Kabel (separat erhältlich) für die Verbindung mit einem Fernseher oder Projektor.
+- Du kannst auch ein Ladekabel an den USB‑C Anschluss anschließen, um deinen Mac oder dein iPad Pro zu laden.
 - Mit dem USB‑C Digital AV Multiport Adapter kannst du deinen Mac oder dein iPad Pro mit USB‑C Anschluss an ein HDMI Display und gleichzeitig auch ein gängiges USB Gerät und ein USB‑C Ladekabel anschließen.
+- 3840 x 2160 bei 60 Hz auf: iPad Pro (11 Zoll), iPad Pro (12,9 Zoll), MacBook Pro (15 Zoll), iMac (27 Zoll mit Retina 5k), iMac (21,5 Zoll mit Retina 4k) und iMac Pro (2018)
 - Unterstützt sowohl Video- als auch Audioausgabe.
 - Verbinde den Adapter einfach mit einem USB‑C oder Thunderbolt 3 (USB‑C) Anschluss an deinem Mac oder iPad Pro und schließ dann mit einem HDMI Kabel (separat erhältlich) deinen Fernseher oder Projektor an.
-- Der Adapter lässt dich dein Mac Display auf HDMI fähige Fernseher oder Displays spiegeln.
-- 1080 p bei 60 Hz oder UHD (3840 x 2160) bei 30 Hz auf: MacBook Pro (13 Zoll, Vorgängermodell), MacBook Pro (15 Zoll, Vorgängermodell), iMac (21,5 Zoll) und Mac mini
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XFYZLTJ/?tag=tolees0ca-21)

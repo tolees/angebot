@@ -28,10 +28,10 @@ Es gibt ein [Kosmos 626037 - Pepper Mint und das Tiefsee-Abenteuer  Erforsche mi
 
 ℹ️:
 
-- Forschungsschiff als große Spiel- und Experimentierstation aus Holz – ideal zum Weiterspielen
-- Naturwissenschaften werden in einer eigenen Themenwelt zum Abenteuer
 - Pädagogisch wertvolles Mint-Spielzeug – das ideale Geschenk für Mädchen und Jungen von 8 bis 11 Jahren
-- Mit Pepper Mint Aufgaben mit Köpfchen, Kreativität und physikalischem Hintergrund lösen
+- Naturwissenschaften werden in einer eigenen Themenwelt zum Abenteuer
+- Forschungsschiff als große Spiel- und Experimentierstation aus Holz – ideal zum Weiterspielen
 - Experimente mit Hydraulik, Motoren, Zahnrädern und Elektronik – und als Highlight die selbstgebaute Seifenblasenmaschine
+- Mit Pepper Mint Aufgaben mit Köpfchen, Kreativität und physikalischem Hintergrund lösen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0798GMWXC/?tag=tolees0ca-21)
