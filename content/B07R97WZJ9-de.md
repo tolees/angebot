@@ -29,9 +29,9 @@ Sie können [OnePlus 7 Pro Smartphone Mirror Gray  16 9 cm  AMOLED Display 8 GB 
 ℹ️:
 
 - 90-Hz-Bildwiederholrate – Sofortige Reaktionszeit des Touchscreens/Display und einer unvergleichbaren Geschmeidigkeit beim tippen, wischen oder navigieren der Apps/Menu
-- Stereo-Lautsprecher, In-Display Fingerprint, Face-Unlock, Zen-Mode (blue light filter), Gesten-Steuerung, Smart-Foto-Studio für erstklassige Fotos und Videos
-- Ultra Shot - Triple Kamera für jeden Moment: 48MP Hauptkamera, Tele- (3x-Zoom) und Weitwinkel-Objektiv, Selfie Pop-up Kamera (16MP) und smarter Foto-Assistent
 - 8 GB RAM und 256 GB Speicher für mehr Performance und größere Datenmengen / Android 9.0 (Pie) OxygenOS / 4000mAh Akku mit Warp-Charge Technologie
+- Stereo-Lautsprecher, In-Display Fingerprint, Face-Unlock, Zen-Mode (blue light filter), Gesten-Steuerung, Smart-Foto-Studio für erstklassige Fotos und Videos
 - 16,9 cm / 6,7” Fluid AMOLED Display (curved-edge) mit innovativer QHD+ Auflösung für eine faszinierende Bildqualität und ein imposantes Multimedia-Erlebnis
+- Ultra Shot - Triple Kamera für jeden Moment: 48MP Hauptkamera, Tele- (3x-Zoom) und Weitwinkel-Objektiv, Selfie Pop-up Kamera (16MP) und smarter Foto-Assistent
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07R97WZJ9/?tag=tolees0ca-21)

@@ -28,9 +28,9 @@ Sie können [fromin Wasser still  Pet-Flaschen  Water from the Ice Age  8er Pack
 
 ℹ️:
 
-- Wasser von gletschern, 15.000 jahre alt aus der bergvereisung in nordböhmen
-- International ausgezeichnete verpackung, sieht aus wie ein eiswürfel
 - Unbehandelt mit faszinierender natürlichkeit
+- International ausgezeichnete verpackung, sieht aus wie ein eiswürfel
 - Wasser von erdenklich höchster qualität
+- Wasser von gletschern, 15.000 jahre alt aus der bergvereisung in nordböhmen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01NAH9ZZG/?tag=tolees0ca-21)
