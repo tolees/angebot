@@ -28,10 +28,10 @@ Sie können [Fractal Design USB Upgrade Kit Komponenten Andere FD-ACC-CON-D1-M1]
 
 ℹ️:
 
-- Reversibler USB-Typ-C-Anschluss, ermöglicht schnelle und einfache Verbindung jedes Mal.
 - Konzipiert für die Verwendung mit allen Gehäuse der Define R6-Serie.
-- Ersatz-I/O-Schalen für Schwarz, Blackout, Weiß und Gunmetal im Lieferumfang enthalten.
 - USB-Schnellladeunterstützung mit kompatiblen Motherboards und Geräten.
 - Volle USB 3.1 Gen 2 Unterstützung mit bis zu 10 Gbit/s Übertragungsraten
+- Ersatz-I/O-Schalen für Schwarz, Blackout, Weiß und Gunmetal im Lieferumfang enthalten.
+- Reversibler USB-Typ-C-Anschluss, ermöglicht schnelle und einfache Verbindung jedes Mal.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07DSGN15V/?tag=tolees0ca-21)
