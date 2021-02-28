@@ -28,10 +28,10 @@ Sie können [Bose SoundSport  kabellose Sport-Earbuds   schweißresistente Bluet
 
 ℹ️:
 
-- Bose active EQ provides balanced audio at any volume
-- Sweat and weather resistance for reliability while exercising. Charging time: 2 hours
 - Exclusive Stay Hear+ tips keep the headphones comfortably in place during workouts
-- Up to 6 hours battery life per charge; please refer the User Guide before use
+- Sweat and weather resistance for reliability while exercising. Charging time: 2 hours
 - Wireless convenience, with easy Bluetooth and NFC pairing aided by voice prompts
+- Up to 6 hours battery life per charge; please refer the User Guide before use
+- Bose active EQ provides balanced audio at any volume
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01E3SNNGW/?tag=tolees0ca-21)

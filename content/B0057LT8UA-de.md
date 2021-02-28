@@ -28,8 +28,8 @@ Es gibt ein [Walther design KP050W Trendstyle Kunststoffrahmen  40x50 cm  weiß]
 
 ℹ️:
 
+- Trendstyle besitzt Aufhängeösen für hoch- und querformatige Bilder.
 - Der Kunststoffrahmen Trendstyle ist für ein zusätzliches Schrägschnitt-Passepartout geeignet und ist in 11 trendigen Farben, in 14 Standardformaten (von 10x15 bis 70x100 cm), in drei quadratischen Formaten und einem Galerieformat mit Wende-Passepartout erhältlich.
 - Modernes 18 mm breites Halbrundprofil aus Kunststoff
-- Trendstyle besitzt Aufhängeösen für hoch- und querformatige Bilder.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0057LT8UA/?tag=tolees0ca-21)

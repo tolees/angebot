@@ -28,10 +28,10 @@ Es gibt ein [FISCHER Fahrradkorb für Gepäckträger  engmaschig  schwarz](https
 
 ℹ️:
 
-- Engmaschiger Draht
-- Stabiler Tragebügel
 - Auch für viele E-Bikes geeignet. Eine generelle Passgenauigkeit zu jedem Fischer E-Bike ist nicht garantiert
+- Engmaschiger Draht
 - Werkzeuglose Klemmbefestigung
 - E-Bike geeignet
+- Stabiler Tragebügel
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001B0GLTC/?tag=tolees0ca-21)
