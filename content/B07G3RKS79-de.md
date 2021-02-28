@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO - Confidential mit 17.56 % Rabatt'
-date: 2021-02-27 19:10:20
+date: 2021-02-28 19:57:49
 image: 'https://m.media-amazon.com/images/I/61V--Bj3VPL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07G3RKS79/?tag=tolees0ca-21'
 descuento: '17.56'
-average: '273.566568047337'
+average: '273.056900584795'
 ---
 
 Sie können [LEGO - Confidential](https://www.amazon.de/dp/B07G3RKS79/?tag=tolees0ca-21) mit Preis 229.99 EUR (original: 278.99 EUR) 17.56 % Rabatt hier:
@@ -28,8 +28,8 @@ Sie können [LEGO - Confidential](https://www.amazon.de/dp/B07G3RKS79/?tag=tolee
 
 ℹ️:
 
-- Confidential
 - Geheim
+- Confidential
 - Confidential
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07G3RKS79/?tag=tolees0ca-21)

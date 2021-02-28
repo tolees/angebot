@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '26.19 % rabat auf Warner Bros  Universal Pictures  - Legac'
-date: 2021-02-27 19:44:56
+date: 2021-02-28 20:24:09
 image: 'https://m.media-amazon.com/images/I/41yXH6kliXL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Warner Bros (Universal Pictures)'
 buyurl: 'https://www.amazon.de/dp/B087L2YVKL/?tag=tolees0ca-21'
 descuento: '26.19'
-average: '22.4998888888887'
+average: '22.3796739130433'
 ---
 
 Es gibt ein [Warner Bros  Universal Pictures  - Legacies - Die komplette erste Staffel [3 DVDs]](https://www.amazon.de/dp/B087L2YVKL/?tag=tolees0ca-21) mit aktuellem Preis 16.97 EUR (original: 22.99 EUR) 26.19 % Rabatt hier:
