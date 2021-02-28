@@ -28,7 +28,7 @@ Es gibt ein [Bosch Professional Adapter für interne Absaugung  für GAS 15 L  2
 
 ℹ️:
 
-- Zubehör für Werkzeuge und Elektrowerkzeuge
 - Qualität von Bosch
+- Zubehör für Werkzeuge und Elektrowerkzeuge
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0068JDLZI/?tag=tolees0ca-21)

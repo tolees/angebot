@@ -28,8 +28,8 @@ Sie können [Pentel XSES15/3 Sign Pen Brush "touch" Kalligraphiestift mit flexib
 
 ℹ️:
 
-- Flexible, metallgefasste Faserspitze
 - Metallgefasste Acrylspitze schreibt leicht und sanft
+- Flexible, metallgefasste Faserspitze
 - beliebt zum Layouten und Illustrieren
 - Unersetzlich für Kalligraphie und Handlettering
 

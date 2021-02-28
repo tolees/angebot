@@ -29,7 +29,7 @@ Sie können [Funko Bobble: Avengers Endgame: Hawkeye w/Chase  Multi  Einheitsgr�
 ℹ️:
 
 - Hawkeye w/chase gehört jetzt zum ständig erweiterten POP! Produktangebot
-- Diese Hawkeye w/chase POP! Figur ist neu im Avengers Endgame Sortiment
 - Jede Figur ist etwa 9 cm groß und in einer illustrierten Fensterbox verpackt
+- Diese Hawkeye w/chase POP! Figur ist neu im Avengers Endgame Sortiment
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07KPTZ9WY/?tag=tolees0ca-21)

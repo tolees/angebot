@@ -28,8 +28,8 @@ Es gibt ein [Goobay Audio/Video Kabel  3 5mm stereo Kupplung auf 2x Cinchstecker
 
 ℹ️:
 
+- Anschluss 1: Klinke 3, 5 mm Buchse (3-Pin, stereo); Anschluss 2: 2x Cinch-Stecker (Audio links/rechts)
 - 20cm Klinke auf Cinch Y-Adapterkabel. 3, 5 mm Klinken-Buchse (3-Pin, stereo) auf 2x Cinch-Stecker (Audio links/ rechts)
 - Zum Anschluss von Geräten mit 3, 5mm Klinkenstecker an Geräte mit Cinch Anschluss
-- Anschluss 1: Klinke 3, 5 mm Buchse (3-Pin, stereo); Anschluss 2: 2x Cinch-Stecker (Audio links/rechts)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002C2ZS2E/?tag=tolees0ca-21)
