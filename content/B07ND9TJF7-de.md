@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75249 Star Wars Widerstands Y-Wing  mit 21.73 % Rabatt'
-date: 2021-02-26 23:23:15
+date: 2021-02-28 12:11:43
 image: 'https://m.media-amazon.com/images/I/51Q88jSfO0L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07ND9TJF7/?tag=tolees0ca-21'
 descuento: '21.73'
-average: '56.2296478873238'
+average: '56.2195104895103'
 ---
 
 Sie können [LEGO 75249 Star Wars Widerstands Y-Wing Starfighter Bauset  Der Aufstieg Skywalkers Kollektion](https://www.amazon.de/dp/B07ND9TJF7/?tag=tolees0ca-21) mit Preis 54.78 EUR (original: 69.99 EUR) 21.73 % Rabatt hier:
@@ -28,10 +28,10 @@ Sie können [LEGO 75249 Star Wars Widerstands Y-Wing Starfighter Bauset  Der Auf
 
 ℹ️:
 
-- Mit diesem anregenden Modell können fantastische Momente aus dem Blockbuster Star Wars: Der Aufstieg Skywalkers nachgespielt werden
 - Dieses Spielset enthält 5 Figuren von LEGO Star Wars: Poe Dameron, Zorii Bliss und einen Sturmtruppler der Ersten Ordnung als Minifiguren sowie LEGO Figuren von D-O und einem Astromech-Droiden
 - Der 578-teilige Spielzeug-Sternenjäger von LEGO Star Wars für Jungen und Mädchen ab 8 Jahren ist 7 cm hoch, 43 cm lang und 19 cm breit
-- Das Modell Widerstands Y-Wing Starfighter kann Raketen abfeuern und Bomben abwerfen. Mit neuer Farbgestaltung (ab Oktober 2019), wie sie im Film Star Wars: Der Aufstieg Skywalkers zu sehen ist
+- Mit diesem anregenden Modell können fantastische Momente aus dem Blockbuster Star Wars: Der Aufstieg Skywalkers nachgespielt werden
 - Dieser LEGO YWing-Sternenjäger – kurz Y-Flügler – ist mit tollen Funktionen ausgestattet, darunter ein aufklappbares Cockpit, Shooter mit Federmechanismus sowie Bombenelemente zum Abwerfen
+- Das Modell Widerstands Y-Wing Starfighter kann Raketen abfeuern und Bomben abwerfen. Mit neuer Farbgestaltung (ab Oktober 2019), wie sie im Film Star Wars: Der Aufstieg Skywalkers zu sehen ist
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07ND9TJF7/?tag=tolees0ca-21)

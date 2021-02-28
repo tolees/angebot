@@ -28,10 +28,10 @@ Sie können [Sylvanian Families - Sylvanian Dreibettzimmer Bunk Beds](https://ww
 
 ℹ️:
 
-- Suitable for ages 3 years to 10 years
+- They can be stacked on top of each other or placed side by side
+- Stimulating imaginative role-play in children
 - Lovely three beds for Sylvanian babies
 - Basic furniture for your Sylvanian family home
-- Stimulating imaginative role-play in children
-- They can be stacked on top of each other or placed side by side
+- Suitable for ages 3 years to 10 years
 
 [🛒 Hier!!](https://www.amazon.de/dp/B004E1Q7TY/?tag=tolees0ca-21)

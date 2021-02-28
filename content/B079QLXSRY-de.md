@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Herren 502 Taper Jeans  Onewash 9 mit 22.29 % Rabatt'
-date: 2021-02-26 22:51:28
+date: 2021-02-28 12:27:46
 image: 'https://m.media-amazon.com/images/I/31kZVa0DMrL._SL400_.jpg'
 comments: true
 category: ofertas
