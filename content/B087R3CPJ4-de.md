@@ -30,10 +30,10 @@ Es gibt ein [LG Electronics - LG XBOOM Go PL5  tragbarer Bluetooth-Lautsprecher 
 
 - Leistung: 20 Watt mit passiven Bassmembranen
 - Unterstützt Dual Play und Multiplay: Verbindung mit bis zu 100 anderen LG PL-Speakern
+- Stereo 2.0 Bluetooth-Box mit Meridian-Technologie und Lautsprecherbeleuchtung
+- Anschlüsse: Bluetooth und Audio-/AUX-Eingang (3,5mm Klinke)
+- IPX5-Spritzwasserschutz, 18+ Stunden lange Akkulaufzeit
 - Lieferumfang: PL5, Schnellstartanleitung, USB-Kabel Typ-C, Garantiekarte
 - Multipoint-Anbindung: Kann mit zwei Smartphones/Bluetooth-Quellen gleichzeitig verbunden sein
-- Stereo 2.0 Bluetooth-Box mit Meridian-Technologie und Lautsprecherbeleuchtung
-- IPX5-Spritzwasserschutz, 18+ Stunden lange Akkulaufzeit
-- Anschlüsse: Bluetooth und Audio-/AUX-Eingang (3,5mm Klinke)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B087R3CPJ4/?tag=tolees0ca-21)
