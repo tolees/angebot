@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEONINE Distribution GmbH - Heidi  Klass mit 15.11 % Rabatt'
-date: 2021-02-26 13:02:33
+date: 2021-02-28 00:48:19
 image: 'https://m.media-amazon.com/images/I/51kmZTl4rkL._SL400_.jpg'
 comments: true
 category: ofertas
