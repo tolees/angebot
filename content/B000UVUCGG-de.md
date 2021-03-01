@@ -28,11 +28,11 @@ Es gibt ein [McDavid 651 Unterarmschutz mit HEX-Polsterung für Damen und Herren
 
 ℹ️:
 
-- FÜR ALLE, DIE SCHUTZ GEGEN PRÄLLUNGEN, SCHNITTE ODER KRATZER SUCHEN --> Mit 9 mm McDavid HEX-Polsterung (Pad) am Unterar. Die McDavid HEX-Polsterung besteht aus geschlossenzelligen Schaumsechsecken, die kein Wasser absorbieren und ein sehr gute Stoßdämpfung bieten
-- NICHT GEEIGNET FÜR SLIDING ==> Die Unterarm Sleeves bestehen aus Nylon und Spandex, das sich angenehm auf der Haut anfühlt. Allerdings werden die Sleeves beschädigt wenn man auf einem Hallenbonden slided (rutscht), wie es zum Beispiel beim Volleyballspielen vorkommt.
-- KOMPRESSION STIMULIERT BLUTFLUSS UND FÖRDERT DIE ERHOLUNG --> Die Kompressionswirkung der McDavid Bein Sleeves verhindert, dass sich Milchsäure im Muskel ansammelt, wodurch Schmerzen und Krämpfe verhindert werden. Die Kompression stärkt das Lymphsystem und verringert das Entzündungsrisiko. Außerdem profitieren die Muskeln von der erhöhten Durchblutung, wodurch Du Dich schneller vom Training erholst.
-- ERGONOMISCHE PASSFORM DANK HEX-TECHNOLOGIE --> Die McDavid HEX-Technologie besteht aus kleinen sechseckigen Schaumstoffteilen. Diese Stücke bewegen sich unabhängig und frei mit dem Körper. Die 9 mm HEX-Polsterung der 651 Sleeves beeinflusst die Bewegung der Arme nicht. Perfekt für Sportarten wie Rugby, American Football, Handball, MMA und andere Kontaktsportarten
-- MASCHINENWASCHBAR / TROCKNER GEEIGNET - BEINHALTET EIN PAAR
 - KOMFORTABLE PASSFORM UND SUPER LEICHTES DESIGN --> Der Stoff der McDavid Arm Sleeves enthält die innovative hDc Feuchtigkeitsmanagement Technologie, die die Haut kühl und trocken hält. Dieses Produkt wird mit einer Flachnaht hergestellt, die sich angenehm anfühlt und mögliche Hautirritationen reduziert.
+- NICHT GEEIGNET FÜR SLIDING ==> Die Unterarm Sleeves bestehen aus Nylon und Spandex, das sich angenehm auf der Haut anfühlt. Allerdings werden die Sleeves beschädigt wenn man auf einem Hallenbonden slided (rutscht), wie es zum Beispiel beim Volleyballspielen vorkommt.
+- MASCHINENWASCHBAR / TROCKNER GEEIGNET - BEINHALTET EIN PAAR
+- ERGONOMISCHE PASSFORM DANK HEX-TECHNOLOGIE --> Die McDavid HEX-Technologie besteht aus kleinen sechseckigen Schaumstoffteilen. Diese Stücke bewegen sich unabhängig und frei mit dem Körper. Die 9 mm HEX-Polsterung der 651 Sleeves beeinflusst die Bewegung der Arme nicht. Perfekt für Sportarten wie Rugby, American Football, Handball, MMA und andere Kontaktsportarten
+- KOMPRESSION STIMULIERT BLUTFLUSS UND FÖRDERT DIE ERHOLUNG --> Die Kompressionswirkung der McDavid Bein Sleeves verhindert, dass sich Milchsäure im Muskel ansammelt, wodurch Schmerzen und Krämpfe verhindert werden. Die Kompression stärkt das Lymphsystem und verringert das Entzündungsrisiko. Außerdem profitieren die Muskeln von der erhöhten Durchblutung, wodurch Du Dich schneller vom Training erholst.
+- FÜR ALLE, DIE SCHUTZ GEGEN PRÄLLUNGEN, SCHNITTE ODER KRATZER SUCHEN --> Mit 9 mm McDavid HEX-Polsterung (Pad) am Unterar. Die McDavid HEX-Polsterung besteht aus geschlossenzelligen Schaumsechsecken, die kein Wasser absorbieren und ein sehr gute Stoßdämpfung bieten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000UVUCGG/?tag=tolees0ca-21)
