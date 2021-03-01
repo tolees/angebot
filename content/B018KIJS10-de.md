@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '25.02 % rabat auf Puma Unisex Sportsocken Cush Crew 6er Pa'
-date: 2021-02-26 04:14:19
+date: 2021-03-01 11:22:40
 image: 'https://m.media-amazon.com/images/I/41o-Z4nZA+L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.de/dp/B018KIJS10/?tag=tolees0ca-21'
 descuento: '25.02'
-average: '12.783857142857'
+average: '12.7618055555554'
 ---
 
 Es gibt ein [Puma Unisex Sportsocken Cush Crew 6er Pack  schwarz  Black   Gr. 39-42  251021001200039](https://www.amazon.de/dp/B018KIJS10/?tag=tolees0ca-21) mit aktuellem Preis 11.99 EUR (original: 15.99 EUR) 25.02 % Rabatt hier:
