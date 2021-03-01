@@ -1,30 +1,30 @@
 ---
 layout: post
-title: '25.61 % rabat auf LEGO 41165 Disney Princess Frozen Die Ei'
-date: 2021-02-08 21:18:34
-image: 'https://m.media-amazon.com/images/I/51dO-7yY3mL._SL200_.jpg'
+title: '25.51 % rabat auf LEGO 41165 Disney Princess Frozen Die Ei'
+date: 2021-03-01 13:19:50
+image: 'https://m.media-amazon.com/images/I/51dO-7yY3mL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07NDBGW4F-de LEGO 41165 Disney Princess Frozen Die Eiskönigin 2 Annas...'
 sku: 'B07NDBGW4F-de'
 tags: [  ]
-actualPrice: 14.87 EUR
+actualPrice: 14.89 EUR
 currency: EUR
-price: 14.87
+price: 14.89
 comparePrice: 19.99 EUR
 prodname: 'LEGO 41165 Disney Princess Frozen Die Eiskönigin 2 Annas Kanufahrt  Bauset mit Minipuppen Anna & Olaf und Hasenfigur  einfach zu bauendes Set mit Grundplatte für Vorschulkinder im Alter von 4-7 Jahren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07NDBGW4F/?tag=tolees0ca-21'
-descuento: '25.61'
-average: '15.6923913043479'
+descuento: '25.51'
+average: '15.9098'
 ---
 
-Es gibt ein [LEGO 41165 Disney Princess Frozen Die Eiskönigin 2 Annas Kanufahrt  Bauset mit Minipuppen Anna & Olaf und Hasenfigur  einfach zu bauendes Set mit Grundplatte für Vorschulkinder im Alter von 4-7 Jahren](https://www.amazon.de/dp/B07NDBGW4F/?tag=tolees0ca-21) mit aktuellem Preis 14.87 EUR (original: 19.99 EUR) 25.61 % Rabatt hier:
+Es gibt ein [LEGO 41165 Disney Princess Frozen Die Eiskönigin 2 Annas Kanufahrt  Bauset mit Minipuppen Anna & Olaf und Hasenfigur  einfach zu bauendes Set mit Grundplatte für Vorschulkinder im Alter von 4-7 Jahren](https://www.amazon.de/dp/B07NDBGW4F/?tag=tolees0ca-21) mit aktuellem Preis 14.89 EUR (original: 19.99 EUR) 25.51 % Rabatt hier:
 
-[![LEGO 41165 Disney Princess Frozen Die Ei](https://m.media-amazon.com/images/I/51dO-7yY3mL._SL200_.jpg)](https://www.amazon.de/dp/B07NDBGW4F/?tag=tolees0ca-21)
+[![LEGO 41165 Disney Princess Frozen Die Ei](https://m.media-amazon.com/images/I/51dO-7yY3mL._SL400_.jpg)](https://www.amazon.de/dp/B07NDBGW4F/?tag=tolees0ca-21)
 
 ℹ️:
 

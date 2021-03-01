@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'LEGO 60254 City Rennboot-Transporter LKW mit 33.32 % Rabatt'
-date: 2021-02-22 14:44:13
+title: 'LEGO 60254 City Rennboot-Transporter LKW mit 26.68 % Rabatt'
+date: 2021-03-01 13:28:09
 image: 'https://m.media-amazon.com/images/I/513d96iobbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WLMSVCV-de LEGO 60254 City Rennboot-Transporter LKW-Spielzeug mit...'
+slug: 'B07WLMSVCV-de LEGO 60254 City Rennboot-Transporter LKW Spielzeug mit...'
 sku: 'B07WLMSVCV-de'
 tags: [  ]
-actualPrice: 19.49 EUR
+actualPrice: 21.99 EUR
 currency: EUR
-price: 19.49
-comparePrice: 29.23 EUR
-prodname: 'LEGO 60254 City Rennboot-Transporter LKW-Spielzeug mit Anhänger und Schnellboot  schwimmendes Badespielzeug für Kinder von 5 bis 7 Jahren'
+price: 21.99
+comparePrice: 29.99 EUR
+prodname: 'LEGO 60254 City Rennboot-Transporter LKW Spielzeug mit Anhänger und Schnellboot  schwimmendes Badespielzeug für Kinder von 5 bis 7 Jahren'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07WLMSVCV/?tag=tolees0ca-21'
-descuento: '33.32'
-average: '23.08123595505618'
+descuento: '26.68'
+average: '23.1992473118279'
 ---
 
-Sie können [LEGO 60254 City Rennboot-Transporter LKW-Spielzeug mit Anhänger und Schnellboot  schwimmendes Badespielzeug für Kinder von 5 bis 7 Jahren](https://www.amazon.de/dp/B07WLMSVCV/?tag=tolees0ca-21) mit Preis 19.49 EUR (original: 29.23 EUR) 33.32 % Rabatt hier:
+Sie können [LEGO 60254 City Rennboot-Transporter LKW Spielzeug mit Anhänger und Schnellboot  schwimmendes Badespielzeug für Kinder von 5 bis 7 Jahren](https://www.amazon.de/dp/B07WLMSVCV/?tag=tolees0ca-21) mit Preis 21.99 EUR (original: 29.99 EUR) 26.68 % Rabatt hier:
 
 [![LEGO 60254 City Rennboot-Transporter LKW](https://m.media-amazon.com/images/I/513d96iobbL._SL400_.jpg)](https://www.amazon.de/dp/B07WLMSVCV/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Kids will love the cool transporter toy truck with a trailer and a sporty aerodynamic, jet-powered speed racing boat that floats
-- The aerodynamic jet-powered speed boat has an opening cockpit with room for the Xtreme racing driver – and it really floats on water
-- Kids can unload the jet-powered boat, then join the Xtreme team racing driver onboard, power over the waves and set new water speed records
-- Digital Instructions PLUS guide via the free LEGO Life app for smart devices helps kids to zoom, rotate and visualise the model as they build
-- Includes 2 minifigures: truck and racing drivers. The truck cab features opening doors, removable roof and transport restraining bars
+- Die digitale Anleitung Instructions Plus über die kostenlose LEGO Life-App für Smart-Geräte hilft Kindern, das Modell heranzuzoomen, zu drehen und anzuzeigen, während sie bauen
+- Das aerodynamische Schnellboot mit Jetantrieb verfügt über ein Cockpit zum Öffnen und bietet Platz für den Xtreme-Rennfahrer - und dazu schwimmt es noch wirklich auf dem Wasser
+- Kinder werden das coole Transporter-LKW-Spielzeug mit Anhänger und einem sportlichen, aerodynamischen, Speed-Rennboot lieben
+- Beinhaltet 2 Minifiguren: LKW- und Rennfahrer. Die LKW-Kabine verfügt über sich öffnende Türen, ein abnehmbares Dach und Transportsicherungsstangen
+- Kinder können das Jet-Boot entladen, sich dann dem Rennfahrer des Xtreme-Teams an Bord anschließen, über die Wellen fahren und neue Geschwindigkeitsrekorde aufstellen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07WLMSVCV/?tag=tolees0ca-21)

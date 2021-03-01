@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10924 DUPLO Cars Lightning McQueens mit 30.01 % Rabatt'
-date: 2021-02-22 14:44:17
+date: 2021-03-01 13:31:15
 image: 'https://m.media-amazon.com/images/I/51VzLTc6fXL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Sie können [LEGO 10924 DUPLO Cars Lightning McQueens großes Rennen  Disney Pix
 
 ℹ️:
 
-- Enthält einen Benzinkanister, eine Zapfsäule, einen Schraubenschlüssel und einen Drehteller zur Anzeige on Autos sowie eine grüne Flagge, die Mama halten kann, um das Rennen zu starten
-- Mit Lightning McQueen- und Hook-Rennwagen von Cars, der Ausrüstung für die Reparatur und der bekannten Rennbahn sowie mit dem Piston Cup-Podium
-- Kinder können Lightning McQueen zu einem Piston Cup-Sieg fahren, ihn mit Hooks Truck-Haken abschleppen oder Reparaturen in der Spielzeugwerkstatt durchführen
-- Die großen Steine sind so konzipiert, dass kleine Hände leicht Feinmotorik entwickeln können, wenn Kinder endlose, einfallsreiche Geschichten spielen
-- Nach dem Rennen kann das 2-in-1 Hook Set in eine Autoreparaturwerkstatt mit einer Zapfsäule eingebaut werden, damit kleine Fahrer Mechaniker werden können
+- After the race, the 2-in-1 Mater tow set can be built into a car-repair workshop with a gas pump, for little drivers to become mechanics
+- The big bricks are designed to be easy for small hands to develop fine motor skills as kids role-play endless imaginative stories
+- Kids can drive Lightning McQueen to a Piston Cup victory, tow him with Mater’s truck hook, or do repairs in the toy workshop
+- Includes a gasoline can, gas pump, wrench and a turntable to display cars, plus a green flag that Mum can hold to start the race
+- Features Lightning McQueen and Mater race cars from Cars, the familiar racetrack and repair workshop settings, and Piston Cup podium
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0813QWRRX/?tag=tolees0ca-21)
