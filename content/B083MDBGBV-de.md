@@ -29,8 +29,8 @@ Sie können [Funko 49930 POP Moment: Mandalorian-Mandalorian & Child Sammelbares
 ℹ️:
 
 - Schauen Sie sich jetzt die anderen Star Wars-Figuren von Funko an! Sammeln Sie alle!
-- Herkunftsland:- Vietnam
 - Farbe: Mehrfarben
+- Herkunftsland:- Vietnam
 - Verpackungsabmessungen: 15.0 L x 26.0 H x 19.0 W (zentimeters)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B083MDBGBV/?tag=tolees0ca-21)
