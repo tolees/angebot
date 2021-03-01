@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 26847 Rick & Morty Rick and Morty  mit 15.33 % Rabatt'
-date: 2021-02-24 00:16:16
+date: 2021-03-01 05:04:54
 image: 'https://m.media-amazon.com/images/I/51k4e9aZO7L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Funko'
 buyurl: 'https://www.amazon.de/dp/B07C7HX3RB/?tag=tolees0ca-21'
 descuento: '15.33'
-average: '6.325'
+average: '6.11285714285714'
 ---
 
 Sie können [Funko 26847 Rick & Morty Rick and Morty S3 Plush-Other  Multi](https://www.amazon.de/dp/B07C7HX3RB/?tag=tolees0ca-21) mit Preis 5.8 EUR (original: 6.85 EUR) 15.33 % Rabatt hier:
@@ -28,10 +28,10 @@ Sie können [Funko 26847 Rick & Morty Rick and Morty S3 Plush-Other  Multi](http
 
 ℹ️:
 
-- Rick & Morty
-- Sehr detailliert
 - Mini Plüschs
 - Pocket POP! Schlüsselbund
+- Sehr detailliert
+- Rick & Morty
 - Funko Mystery Minis
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07C7HX3RB/?tag=tolees0ca-21)

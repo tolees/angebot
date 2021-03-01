@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 49930 POP Moment: Mandalorian-Mand mit 21.00 % Rabatt'
-date: 2021-02-26 23:00:18
+date: 2021-03-01 05:02:00
 image: 'https://m.media-amazon.com/images/I/41q5V7zzs5L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Funko'
 buyurl: 'https://www.amazon.de/dp/B083MDBGBV/?tag=tolees0ca-21'
 descuento: '21.00'
-average: '38.6205583756344'
+average: '38.5816582914572'
 ---
 
 Sie können [Funko 49930 POP Moment: Mandalorian-Mandalorian & Child Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B083MDBGBV/?tag=tolees0ca-21) mit Preis 34.75 EUR (original: 43.99 EUR) 21.00 % Rabatt hier:
@@ -28,9 +28,9 @@ Sie können [Funko 49930 POP Moment: Mandalorian-Mandalorian & Child Sammelbares
 
 ℹ️:
 
-- Schauen Sie sich jetzt die anderen Star Wars-Figuren von Funko an! Sammeln Sie alle!
-- Farbe: Mehrfarben
 - Verpackungsabmessungen: 15.0 L x 26.0 H x 19.0 W (zentimeters)
 - Herkunftsland:- Vietnam
+- Schauen Sie sich jetzt die anderen Star Wars-Figuren von Funko an! Sammeln Sie alle!
+- Farbe: Mehrfarben
 
 [🛒 Hier!!](https://www.amazon.de/dp/B083MDBGBV/?tag=tolees0ca-21)
