@@ -28,10 +28,10 @@ Sie können [LEGO 41393 Friends Die große Backshow  Spielset mit Kuchen  Cupcak
 
 ℹ️:
 
-- Das Spielset enthält Stephanie, David und eine Jurorin als Mini-Spielfiguren, um die Backfernsehshows, die Kinder mit der ganzen Familie sehen, realistisch nachzubilden
+- Kinder drehen das Rad oberhalb der Bühne, um auszuwählen, welche verrückten Zutaten die Bäcker mit einbeziehen müssen, und werden kreativ bei den Dekorationen
 - Das Zubehör umfasst einen Schneebesen, Schokolade, Barscheck, Pokal, Milchkarton, eine Packung Zucker und Zuckerguss sowie Küchengeräte
 - TV-Studio-Backshow mit drei Spielbereichen: zwei Kochstationen und die Hauptbühne für einen Gewinner und - den goldenen Pokal
 - Inklusive rotierender Kuchenständer, Ofenöffnung wie in einer Großküche und viel Backzubehör: Cupcakes, Obst und Utensilien
-- Kinder drehen das Rad oberhalb der Bühne, um auszuwählen, welche verrückten Zutaten die Bäcker mit einbeziehen müssen, und werden kreativ bei den Dekorationen
+- Das Spielset enthält Stephanie, David und eine Jurorin als Mini-Spielfiguren, um die Backfernsehshows, die Kinder mit der ganzen Familie sehen, realistisch nachzubilden
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W8Y1FRJ/?tag=tolees0ca-21)

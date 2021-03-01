@@ -30,8 +30,8 @@ Sie können [LEGO 10928 DUPLO Tortenbäckerei Spielset mit Café-Wagen  Kuchen u
 
 - Enthält 2 DUPLO-Figuren: ein Mädchen und einen Bäcker, um Rollenspiele beim Kochen und Servieren oder Liefern von Speisen an Kunden zu spielen
 - Dieses unterhaltsame Spielset fördert das Lernen und die Entwicklung von sprachlichen, sozialen und emotionalen Fähigkeiten, indem Kinder die täglichen Aktivitäten nachbilden
-- Enthält eine Kasse, einen Ofen mit Cupcakes und Ofendekorationen, eine Küchenmaschine, 2 Cupcakes und 2 dekorierte Kuchen
-- Dieses Lernspielzeug in Form von großen Steinen für Kleinkinder verknüpft Alltagserfahrung mit imaginären Szenarien - Steig ein und liefere den Kuchen
 - Dieses Spielzeug für Kleinkinder verfügt über eine Bäckerei mit Café und einen Lieferwagen, einen Tisch mit Stühlen für Kunden, Kuchen, Cupcakes und Küchengeräte
+- Dieses Lernspielzeug in Form von großen Steinen für Kleinkinder verknüpft Alltagserfahrung mit imaginären Szenarien - Steig ein und liefere den Kuchen
+- Enthält eine Kasse, einen Ofen mit Cupcakes und Ofendekorationen, eine Küchenmaschine, 2 Cupcakes und 2 dekorierte Kuchen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00DPM09IS/?tag=tolees0ca-21)
