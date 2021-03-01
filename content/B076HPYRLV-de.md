@@ -28,8 +28,8 @@ Es gibt ein [adidas Herren Core 18 Sweat Trainingshose  Dark Grey Heather/Black 
 
 ℹ️:
 
-- Elastic waistband with lanyard
 - Front pockets
 - Regular Fit
+- Elastic waistband with lanyard
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B076HPYRLV/?tag=tolees0ca-21)

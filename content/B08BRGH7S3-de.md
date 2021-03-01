@@ -28,10 +28,10 @@ Sie können [Xiaomi Mi True 2 Basic  kabellose Ohrhörer  Kopfhörer  Lange Akku
 
 ℹ️:
 
-- Listening detection: When a headset is removed, the built-in sensor can help stop music automatically, double-click quick pairing (global MIUI), and tap the headset to access music control, phone, or voice support.
-- The Xiaomi Mi True Wireless Headset 2 Basic is a recently launched version 5.0 Bluetooth headset that offers great sound and intricate quality on wireless calls.
 - Semi-in-ear design.：It offers maximum comfort and is ideal for long-term use, silent calls and ambient noise suppression with two microphones to ensure that the phone is not clogged.
-- Excellent sound quality: The headphones are compatible with AAC, an advanced codec that can achieve better sound quality on iOS and Android.
 - Longer battery life: The battery life of the earphones is 5 hours when fully charged, while the total life of the battery in the box is 20 hours.
+- The Xiaomi Mi True Wireless Headset 2 Basic is a recently launched version 5.0 Bluetooth headset that offers great sound and intricate quality on wireless calls.
+- Listening detection: When a headset is removed, the built-in sensor can help stop music automatically, double-click quick pairing (global MIUI), and tap the headset to access music control, phone, or voice support.
+- Excellent sound quality: The headphones are compatible with AAC, an advanced codec that can achieve better sound quality on iOS and Android.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08BRGH7S3/?tag=tolees0ca-21)
