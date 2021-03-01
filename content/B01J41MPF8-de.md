@@ -1,37 +1,37 @@
 ---
 layout: post
-title: '25.01 % rabat auf LEGO 21034 Architecture London  Skyline-'
-date: 2021-02-13 06:43:58
-image: 'https://m.media-amazon.com/images/I/51GnSyDIy-L._SL200_.jpg'
+title: '27.53 % rabat auf LEGO 21034 Architecture London  Skyline-'
+date: 2021-03-01 17:49:52
+image: 'https://m.media-amazon.com/images/I/51GnSyDIy-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01J41MPF8-de LEGO 21034 Architecture London Skyline-Kollektion London...'
 sku: 'B01J41MPF8-de'
 tags: [  ]
-actualPrice: 29.99 EUR
+actualPrice: 28.98 EUR
 currency: EUR
-price: 29.99
+price: 28.98
 comparePrice: 39.99 EUR
 prodname: 'LEGO 21034 Architecture London  Skyline-Kollektion  London Eye  Big Ben  Tower Bridge  Bauset  Geschenkidee für Sammler'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B01J41MPF8/?tag=tolees0ca-21'
-descuento: '25.01'
-average: '31.568848920863'
+descuento: '27.53'
+average: '31.9067457627115'
 ---
 
-Es gibt ein [LEGO 21034 Architecture London  Skyline-Kollektion  London Eye  Big Ben  Tower Bridge  Bauset  Geschenkidee für Sammler](https://www.amazon.de/dp/B01J41MPF8/?tag=tolees0ca-21) mit aktuellem Preis 29.99 EUR (original: 39.99 EUR) 25.01 % Rabatt hier:
+Es gibt ein [LEGO 21034 Architecture London  Skyline-Kollektion  London Eye  Big Ben  Tower Bridge  Bauset  Geschenkidee für Sammler](https://www.amazon.de/dp/B01J41MPF8/?tag=tolees0ca-21) mit aktuellem Preis 28.98 EUR (original: 39.99 EUR) 27.53 % Rabatt hier:
 
-[![LEGO 21034 Architecture London  Skyline-](https://m.media-amazon.com/images/I/51GnSyDIy-L._SL200_.jpg)](https://www.amazon.de/dp/B01J41MPF8/?tag=tolees0ca-21)
+[![LEGO 21034 Architecture London  Skyline-](https://m.media-amazon.com/images/I/51GnSyDIy-L._SL400_.jpg)](https://www.amazon.de/dp/B01J41MPF8/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Die Spielzeugmodelle von LEGO Architecture sind kompatibel mit allen LEGO Bausets für kreatives Bauen
 - Enthält eine Broschüre zum Sammeln mit Informationen über Design, Architektur und Geschichte des Gebäudes
 - Enthält die National Gallery, die Nelsonsäule, das London Eye, Big Ben und Tower Bridge
 - Bauen Sie ein detailgetreues Modell der Skyline von London
-- Die Spielzeugmodelle von LEGO Architecture sind kompatibel mit allen LEGO Bausets für kreatives Bauen
 - Das Modell ist über 13 cm hoch, 28 cm breit und 8 cm tief; 468 Teile - Für Jungen und Mädchen zwischen 12 und 12 Jahren
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01J41MPF8/?tag=tolees0ca-21)

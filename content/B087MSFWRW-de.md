@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack Wolfskin Damen Downhill Texapore MI mit 16.08 % Rabatt'
-date: 2021-02-27 06:21:00
+date: 2021-03-01 17:23:35
 image: 'https://m.media-amazon.com/images/I/41NC0iz3JlL._SL400_.jpg'
 comments: true
 category: ofertas
