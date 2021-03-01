@@ -28,10 +28,10 @@ Sie können [KitchenCraft Living Nostalgia Metall Küche Bioabfallbehälter  Arb
 
 ℹ️:
 
-- Fassungsvermögen des Kompostbehälters: 3 Liter & Größe: 16,5 cm x 12 cm x 24 cm. Reinigung: Handwäsche. Kommt mit einem Ersatzkohlefilter und 12 Monate Herstellergarantie
-- Stilvolles Design: Mit seinem Vintage-Feeling und seiner subtilen Formgebung macht dieser Innenkompostbehälter in Ihrer Küche oder Ihrem Hauswirtschaftsraum eine tolle Figur
-- Bioabfallbehälter in Antique Cream: Sammelt Ihre Lebensmittelabfälle für das Recycling oder die Kompostierung. Ideal für die Aufbewahrung auf der Küchenarbeitsplatte oder im Schrank
-- Schwenkbarer Griff: Sorgt dafür, dass der Kompostbehälter einfach zu tragen und leicht zu entleeren ist
 - Komplett mit integriertem Kohlefilter: zur Absorption der Gerüche von Obst- und Gemüseabfällen und Teebeuteln
+- Bioabfallbehälter in Antique Cream: Sammelt Ihre Lebensmittelabfälle für das Recycling oder die Kompostierung. Ideal für die Aufbewahrung auf der Küchenarbeitsplatte oder im Schrank
+- Stilvolles Design: Mit seinem Vintage-Feeling und seiner subtilen Formgebung macht dieser Innenkompostbehälter in Ihrer Küche oder Ihrem Hauswirtschaftsraum eine tolle Figur
+- Schwenkbarer Griff: Sorgt dafür, dass der Kompostbehälter einfach zu tragen und leicht zu entleeren ist
+- Fassungsvermögen des Kompostbehälters: 3 Liter & Größe: 16,5 cm x 12 cm x 24 cm. Reinigung: Handwäsche. Kommt mit einem Ersatzkohlefilter und 12 Monate Herstellergarantie
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00Z65KDXS/?tag=tolees0ca-21)

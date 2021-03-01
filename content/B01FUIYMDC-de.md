@@ -28,10 +28,10 @@ Sie können [Verbatim External Slimline USB 3.0 Blu-ray und MDisc Brenner  exter
 
 ℹ️:
 
-- Kompakter und handlicher Blu-Ray Rewriter im schlanken Design mit stilvollem Aluminiumgehäuse lässt sich leicht transportieren und ist somit perfekt für den mobilen Einsatz geeignet
 - Einfach die gewünschte Disk in den Brenner einlegen und es können Backups aller wichtigen Dateien erstellt werden, wie Bilanzunterlagen, Familienbilder, etc.
+- Kompakter und handlicher Blu-Ray Rewriter im schlanken Design mit stilvollem Aluminiumgehäuse lässt sich leicht transportieren und ist somit perfekt für den mobilen Einsatz geeignet
+- Die Stromversorgung erfolgt allein über den USB Anschluss, ganz ohne einen sperrigen Adapter bzw. ein langes Stromkabel
 - Der externe CD-Brenner besitzt eine USB 3.0 Schnittstelle und lässt sich an Notebooks, Ultrabooks, Netbooks oder ein anderes Gerät ohne Blu-Ray Brenner anschließen
 - Die vollständige Kompatiblität mit allen gängigen Disk Formaten, wie Blu-Ray, DVD oder CD aber auch der MDisc-Archivierungstechnologie, ermöglicht es ein Archiv für Fotos, Musik und Videos zu erstellen
-- Die Stromversorgung erfolgt allein über den USB Anschluss, ganz ohne einen sperrigen Adapter bzw. ein langes Stromkabel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01FUIYMDC/?tag=tolees0ca-21)

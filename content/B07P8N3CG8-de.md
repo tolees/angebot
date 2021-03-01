@@ -29,7 +29,7 @@ Es gibt ein [Tommy Hilfiger Damen Heritage Crew Neck Graphic Tee T-Shirt  Weiß 
 ℹ️:
 
 - Teile tierischen Ursprungs: Nein
-- Pflegehinweise: Trommeltrocknen bei niedriger Temperatur; nicht chemisch reinigen; nicht bleichen; Bügeln mit geringer Temperatur; Spezialschonwaschgang 40 Grad
 - Material: Obermaterial: 100% Baumwolle
+- Pflegehinweise: Trommeltrocknen bei niedriger Temperatur; nicht chemisch reinigen; nicht bleichen; Bügeln mit geringer Temperatur; Spezialschonwaschgang 40 Grad
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07P8N3CG8/?tag=tolees0ca-21)

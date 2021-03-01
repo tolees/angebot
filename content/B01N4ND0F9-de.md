@@ -28,8 +28,8 @@ Sie können [Mario Kart 8 Deluxe [Nintendo Switch]](https://www.amazon.de/dp/B01
 
 ℹ️:
 
-- Dazu wurde der Schlacht-Modus überarbeitet und kann nun ebenfalls mit Ballonschlacht und Bob-omb-Wurf aufwarten, mit neuen Strecken wie Dekabahnstation und Kampfarena und wiederkehrenden Strecken wie Luigi‘s Mansion aus Mario Kart: Double Dash!! für den Nintendo GameCube und Kampfkurs 1 aus Super Mario Kart für das Super Nintendo Entertainment System.
-- Mit Nintendo Switch können Fans in der definitiven Version von „Mario Kart 8“ wann und wo sie wollen spannenden Rennen fahren – sogar mit bis zu acht Freunden im lokalen Mehrspielermodus. „Mario Kart 8 Deluxe“ beinhaltet neben allen Strecken und Charakteren aus der Wii U-Version auch alle Strecken und Charaktere, die bisher nur als herunterladbare Inhalte verfügbar waren.
 - Dazu steigen auch ein paar neue Charaktere in den Fahrspaß ein: der Inkling-Junge und das Inkling-Mädchen aus Splatoon, König Buu Huu, Knochentrocken und Bowser Jr.!
+- Mit Nintendo Switch können Fans in der definitiven Version von „Mario Kart 8“ wann und wo sie wollen spannenden Rennen fahren – sogar mit bis zu acht Freunden im lokalen Mehrspielermodus. „Mario Kart 8 Deluxe“ beinhaltet neben allen Strecken und Charakteren aus der Wii U-Version auch alle Strecken und Charaktere, die bisher nur als herunterladbare Inhalte verfügbar waren.
+- Dazu wurde der Schlacht-Modus überarbeitet und kann nun ebenfalls mit Ballonschlacht und Bob-omb-Wurf aufwarten, mit neuen Strecken wie Dekabahnstation und Kampfarena und wiederkehrenden Strecken wie Luigi‘s Mansion aus Mario Kart: Double Dash!! für den Nintendo GameCube und Kampfkurs 1 aus Super Mario Kart für das Super Nintendo Entertainment System.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01N4ND0F9/?tag=tolees0ca-21)

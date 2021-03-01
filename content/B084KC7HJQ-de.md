@@ -28,9 +28,9 @@ Sie können [Samsung Galaxy S20 5G 128 GB  Cosmic Gray  ohne Simlock  ohne Brand
 
 ℹ️:
 
-- Bildschirm: 6,2 ", 1440 x 3200 Pixel
-- Kamera: Dreifach, 12MP + 64MP + 12MP
 - Batterie: 4000 mAh
 - Prozessor: Snapdragon 865 2,84 GHz / Exynos 990 2,73 GHz
+- Kamera: Dreifach, 12MP + 64MP + 12MP
+- Bildschirm: 6,2 ", 1440 x 3200 Pixel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B084KC7HJQ/?tag=tolees0ca-21)

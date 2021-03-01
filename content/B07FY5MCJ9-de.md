@@ -29,7 +29,7 @@ Sie können [Vans Damen Filmore Decon Sneaker  Schwarz   Canvas  Black/True Whit
 ℹ️:
 
 - Obermaterial: Canvas
-- Innenmaterial: Textil
 - Sohle: Gummi
+- Innenmaterial: Textil
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FY5MCJ9/?tag=tolees0ca-21)
