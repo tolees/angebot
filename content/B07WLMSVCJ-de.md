@@ -28,9 +28,9 @@ Sie können [LEGO 60251 City Monster-Truck  Spielzeug für Kinder ab 5 Jahren](h
 
 ℹ️:
 
-- Dieses Truck-Spielzeug verfügt über große Reifen, eine farbenfrohe Monsterdekoration und Platz hinter dem Lenkrad für eine Fahrer-Minifigur
-- Enthält eine Fahrer-Minifigur, um den Monster-Truck blitzschnell über das Gelände zu fahren - Ideales Spielzeug für Fans von Highspeed-Action
 - Die digitale Anleitung Instructions Plus über die kostenlose LEGO Life-App für Smart-Geräte hilft Kindern, das Modell heranzuzoomen, zu drehen und anzuzeigen, während sie bauen
+- Enthält eine Fahrer-Minifigur, um den Monster-Truck blitzschnell über das Gelände zu fahren - Ideales Spielzeug für Fans von Highspeed-Action
+- Dieses Truck-Spielzeug verfügt über große Reifen, eine farbenfrohe Monsterdekoration und Platz hinter dem Lenkrad für eine Fahrer-Minifigur
 - Kinder können ihr fahrerisches Können mit fantastischen Drifts, immensen Sprüngen und erstaunlichen Landungen mit diesem robusten Truck-Modell unter Beweis stellen
 - Mit seinen coolen Monster-Karosserie-Aufklebern und den orange-lila Farben werden Kinder es lieben, dieses farbenfrohe Monster-Truck-Spielzeug auszustellen
 

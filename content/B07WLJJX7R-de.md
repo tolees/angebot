@@ -28,10 +28,10 @@ Sie können [LEGO 60241 City 4+ Polizeihundestaffel mit Auto und Hundefigur für
 
 ℹ️:
 
-- Das Set für Kinder ab vier Jahren enthält einen Diebessack zum Verstauen der Beute, ein Brecheisen, Handschellen und zwei Edelsteine für viel Spaß beim Ganovenfangen
-- Beinhaltet zwei Minifiguren: einen Polizisten und einen Ganoven, sowie eine süße Polizeihundefigur, die bei der Verhaftung des Diebes hilft, bevor er entkommt
-- Beinhaltet spezielle Starterblöcke und einfache gedruckte Bauanleitungen, die den Kindern helfen, ihr Selbstvertrauen und ihre Fähigkeiten Schritt für Schritt weiter aufzubauen
 - Mit einem coolen Spielzeug-Polizeiauto mit Platz für den Polizisten und seinen treuen Polizeihund und einem Juweliergeschäft mit zwei Edelsteinen
+- Beinhaltet spezielle Starterblöcke und einfache gedruckte Bauanleitungen, die den Kindern helfen, ihr Selbstvertrauen und ihre Fähigkeiten Schritt für Schritt weiter aufzubauen
+- Beinhaltet zwei Minifiguren: einen Polizisten und einen Ganoven, sowie eine süße Polizeihundefigur, die bei der Verhaftung des Diebes hilft, bevor er entkommt
 - Die digitale Anleitung Instructions PLUS Anleitung über die kostenlose LEGO Life App für Smart-Geräte hilft Kindern beim Heranzoomen, drehen und anzeigen des Modells, während sie bauen
+- Das Set für Kinder ab vier Jahren enthält einen Diebessack zum Verstauen der Beute, ein Brecheisen, Handschellen und zwei Edelsteine für viel Spaß beim Ganovenfangen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07WLJJX7R/?tag=tolees0ca-21)
