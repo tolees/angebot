@@ -28,10 +28,10 @@ Sie können [PLAYMOBIL Princess 70449 Romantische Pferdekutsche  Ab 4 Jahren](ht
 
 ℹ️:
 
-- Märchenhaft: PLAYMOBIL Romantische Pferdekutsche mit Prinzessin Betty, Prinz Freddy, 1 Chauffeur, 2 Pferden uvm. für detailgetreues Nachspielen
+- Trittbretter u. Faltdach ausziehbar, Sitzbank für 2 Figuren, Fußklemmung für 1 stehende Figur uvm., Kombinierbar mit 70447 Großes Prinzessinnenschloss
 - Lieferumfang: 1x PLAYMOBIL Princess Romantische Pferdekutsche, 60-teiliges Spielfiguren-Set mit Anleitung: 1 Kutsche, 3 Figuren, 2 Pferde, 54 Zubehörteile, Material: Kunststoff, LxTxH: ca. 31x11x11,5-13 cm, Gewicht: 328 g, 70449
+- Märchenhaft: PLAYMOBIL Romantische Pferdekutsche mit Prinzessin Betty, Prinz Freddy, 1 Chauffeur, 2 Pferden uvm. für detailgetreues Nachspielen
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 - Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
-- Trittbretter u. Faltdach ausziehbar, Sitzbank für 2 Figuren, Fußklemmung für 1 stehende Figur uvm., Kombinierbar mit 70447 Großes Prinzessinnenschloss
 
 [🛒 Hier!!](https://www.amazon.de/dp/B085FLLXWQ/?tag=tolees0ca-21)

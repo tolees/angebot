@@ -28,10 +28,10 @@ Es gibt ein [PLAYMOBIL Country 70511 PKW mit Ponyanhänger  Ab 4 Jahren](https:/
 
 ℹ️:
 
-- Anhänger für 2 Ponys mit klappbarer Rampe u. abnehmbarem Dach, PKW mit Anhängerkupplung, abnehmbarem Dach, Ladefläche hinten mit Griffen uvm.
 - Täglich bespielbar: Hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
-- Spielspaß für kleine Tierfreunde: PLAYMOBIL PKW mit Ponyanhänger mit Vater, Sohn, 1 Pferd und umfangreichem Zubehör für den Pferdetransport
-- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Lieferumfang: 1x PLAYMOBIL Country PKW mit Ponyanhänger, 44-teiliges Spielfiguren-Set mit Anleitung: 1 Auto, 1 Anhänger, 2 Figuren, 1 Pferd, 39 Zubehörteile, Material: Kunststoff, LxTxH Auto: 18,5x10,7x9 cm / Anhänger: 18x10x12 cm, Gewicht: 458 g, 70511
+- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
+- Anhänger für 2 Ponys mit klappbarer Rampe u. abnehmbarem Dach, PKW mit Anhängerkupplung, abnehmbarem Dach, Ladefläche hinten mit Griffen uvm.
+- Spielspaß für kleine Tierfreunde: PLAYMOBIL PKW mit Ponyanhänger mit Vater, Sohn, 1 Pferd und umfangreichem Zubehör für den Pferdetransport
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08KTMQHB8/?tag=tolees0ca-21)
