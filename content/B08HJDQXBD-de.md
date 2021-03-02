@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.02 % rabat auf Xiaomi Mi 10T Pro 8GB+256GB Cosmic Black'
-date: 2021-03-02 17:59:49
+date: 2021-03-02 17:59:50
 image: 'https://m.media-amazon.com/images/I/41AuSyIzFxL._SL400_.jpg'
 comments: true
 category: ofertas

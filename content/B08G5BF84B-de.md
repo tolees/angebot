@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '24.40 % rabat auf Deutsche Telekom Speedport Smart 3  R  |'
-date: 2021-03-01 11:18:40
+date: 2021-03-02 18:13:55
 image: 'https://m.media-amazon.com/images/I/21FMGc-qDLL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Deutsche Telekom'
 buyurl: 'https://www.amazon.de/dp/B08G5BF84B/?tag=tolees0ca-21'
 descuento: '24.40'
-average: '118.159230769231'
+average: '118.140714285715'
 ---
 
 Es gibt ein [Deutsche Telekom Speedport Smart 3  R  | Basis für WLAN-Mesh  Magenta SmartHome integriert  schnelles WLAN mit bis zu 2500 Mbit/s und verbesserter Reichweite  40823377](https://www.amazon.de/dp/B08G5BF84B/?tag=tolees0ca-21) mit aktuellem Preis 117.9 EUR (original: 155.96 EUR) 24.40 % Rabatt hier:
@@ -28,12 +28,12 @@ Es gibt ein [Deutsche Telekom Speedport Smart 3  R  | Basis für WLAN-Mesh  Mage
 
 ℹ️:
 
-- Superschnelles WLAN mit bis zu 2500 Mbit/s und verbesserte Reichweite durch 4 Antennen pro Frequenzbereich
+- für Magenta TV
+- Magenta SmartHome integriert
+- Bestens für MagentaTV gerüstet, unterstützt mehrere hochauflösende Streams in UHD
 - Basis für WLAN-Mesh - Beste Geschwindigkeit in allen Räumen durch WLAN-Mesh-Technologie, erweiterbar mit bis zu 5 Mesh-Punkten
 - Basis-Funktion für Magenta SmartHome integriert kein weiteres Gateway wird benötigt
-- für Magenta TV
+- Superschnelles WLAN mit bis zu 2500 Mbit/s und verbesserte Reichweite durch 4 Antennen pro Frequenzbereich
 - Für den IP-basierten Telekom Anschluss mit Anschlussgeschwindigkeiten bis 1000 MBit/s
-- Bestens für MagentaTV gerüstet, unterstützt mehrere hochauflösende Streams in UHD
-- Magenta SmartHome integriert
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G5BF84B/?tag=tolees0ca-21)
