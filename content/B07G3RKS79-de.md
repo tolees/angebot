@@ -28,8 +28,8 @@ Sie können [LEGO - Confidential](https://www.amazon.de/dp/B07G3RKS79/?tag=tolee
 
 ℹ️:
 
-- Geheim
 - Confidential
+- Geheim
 - Confidential
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07G3RKS79/?tag=tolees0ca-21)
