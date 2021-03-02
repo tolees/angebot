@@ -28,10 +28,10 @@ Es gibt ein [AVM FRITZ!WLAN Repeater 310  300 Mbit/s  WPS   weiß  deutschsprach
 
 ℹ️:
 
-- Sehr kompakte Bauweise, nur 8 cm hoch, Einsatz an praktisch jeder Steckdose möglich
-- Erhöht schnell und einfach die Reichweite des WLAN-Netzes mit WLAN Mesh, kompatibel zu allen gängigen WLAN-Routern (Funkstandards 802.11n/g/b)
 - Einfache WLAN-Einrichtung per Knopfdruck über WPS (Wi-Fi Protected Setup), maximale WLAN-Sicherheit mit WPA2 (802.11i) WPA und WEP (128/64)
 - High-Speed-WLAN N mit bis zu 300 MBit/s (2,4 GHz-Band) für den kabellosen Hochgeschwindigkeitszugang
+- Erhöht schnell und einfach die Reichweite des WLAN-Netzes mit WLAN Mesh, kompatibel zu allen gängigen WLAN-Routern (Funkstandards 802.11n/g/b)
+- Sehr kompakte Bauweise, nur 8 cm hoch, Einsatz an praktisch jeder Steckdose möglich
 - Lieferumfang: FRITZ!WLAN Repeater 310, Installationsanleitung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B009CXPY0W/?tag=tolees0ca-21)

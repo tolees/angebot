@@ -28,10 +28,10 @@ Es gibt ein [Logitech G603 LIGHTSPEED kabellose Gaming-Maus mit HERO 12K DPI Sen
 
 ℹ️:
 
+- Lightspeed-Technologie: Die kabellose Gaming Maus erfüllt bei exzellenter Konnektivität höchste Anforderungen an Wireless Gaming. Die perfekte Kombination zur Gaming Tastatur
+- Optischer Hero-Sensor: hochempfindlicher und extrem sparsamer Sensor für schnelle Reaktionszeit, präzises und unterbrechungsfreies Gaming
 - Komfort und Energieeffizienz: Die Wireless Gaming-Maus ist intuitiv bedienbar und verfügt über eine Batterielaufzeit bis zu 500 Stunden
 - Multi-Host-Kompatibilität: Dank der Zweifach-Konnektivität mit Lightspeed und Bluetooth verbindet die Logitech G603 Maus mehrere PCs und andere Geräte
 - Ausgezeichnete Performance: Der HI-Modus erlaubt dank einer Signalrate von 1 Millisekunde und bis zu 500 Stunden Akkulaufzeit unterbrechungsfreies Gaming
-- Lightspeed-Technologie: Die kabellose Gaming Maus erfüllt bei exzellenter Konnektivität höchste Anforderungen an Wireless Gaming. Die perfekte Kombination zur Gaming Tastatur
-- Optischer Hero-Sensor: hochempfindlicher und extrem sparsamer Sensor für schnelle Reaktionszeit, präzises und unterbrechungsfreies Gaming
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0746NQ6PF/?tag=tolees0ca-21)
