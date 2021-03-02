@@ -28,11 +28,11 @@ Sie können [Logitech MX Keys Kabellose Tastatur  Bluetooth & USB-Empfänger  US
 
 ℹ️:
 
+- Komfort und Stabilität: Tippen Sie mühelos auf der auf Komfort, Stabilität, Präzision und Strapazierfähigkeit ausgelegten kabellosen Tastatur
+- Flow-Steuerung: Das Tippen, Kopieren und Einfügen zwischen zwei Computern ist mit der MK Keys Plus Tastatur nahtlos möglich, erfordert allerdings die Logitech Options Software
 - Tasten mit perfektem Anschlag: Die kreisförmigen konkaven Tasten sind auf Ihre Fingerkuppen zugeschnitten, für ein durchgehend angenehmes Tippgefühl
 - Wiederaufladbar über USB-C: Eine vollständige Akkuladung hält bis zu 10 Tage mit und bis zu 5 Monate ohne Hintergrundbeleuchtung (nutzungsabhängig)
 - Intelligente Beleuchtung: Die Hintergrundbeleuchtung wird eingeschaltet, sobald Ihre Hände die Tastatur berühren und passt sich automatisch an wechselnde Lichtverhältnisse an
-- Flow-Steuerung: Das Tippen, Kopieren und Einfügen zwischen zwei Computern ist mit der MK Keys Plus Tastatur nahtlos möglich, erfordert allerdings die Logitech Options Software
-- Komfort und Stabilität: Tippen Sie mühelos auf der auf Komfort, Stabilität, Präzision und Strapazierfähigkeit ausgelegten kabellosen Tastatur
 - Abnehmbare Handballenauflage: Individueller Bedienkomfort dank der Handballenauflage, die Sie beliebig platzieren können
 - Die perfekte Kombination: In Verbindung mit der MX Master 3 PC-Maus erleben Sie absolut nahtlose Arbeitsabläufe
 
