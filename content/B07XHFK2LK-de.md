@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '24.93 % rabat auf Winning Moves - Cluedo - Harry Potter Co'
-date: 2021-03-01 05:01:14
+date: 2021-03-02 11:45:19
 image: 'https://m.media-amazon.com/images/I/51G34bxEFxL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Winning Moves'
 buyurl: 'https://www.amazon.de/dp/B07XHFK2LK/?tag=tolees0ca-21'
 descuento: '24.93'
-average: '31.4185714285715'
+average: '31.2400000000001'
 ---
 
 Es gibt ein [Winning Moves - Cluedo - Harry Potter Coll.Edt.  neues Design in Weiß ](https://www.amazon.de/dp/B07XHFK2LK/?tag=tolees0ca-21) mit aktuellem Preis 29.99 EUR (original: 39.95 EUR) 24.93 % Rabatt hier:
