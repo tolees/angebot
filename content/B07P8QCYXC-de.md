@@ -30,7 +30,7 @@ Es gibt ein [Superzings PSZ4D850IN01 Onepack Serie 4 Sammlerfigur Farbe Sortiert
 
 - Stil: Comic
 - Die Serie 4 umfasst mehr als 80 neue SuperZings zum Sammeln
-- Herkunftsland:- China
 - Farbe: Sortiert
+- Herkunftsland:- China
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07P8QCYXC/?tag=tolees0ca-21)
