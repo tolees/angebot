@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mario Kart 8 Deluxe [Nintendo Switch] mit 19.30 % Rabatt'
-date: 2021-03-02 17:49:29
+date: 2021-03-03 17:57:37
 image: 'https://m.media-amazon.com/images/I/61pjuOj3esL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.de/dp/B01N4ND0F9/?tag=tolees0ca-21'
 descuento: '19.30'
-average: '48.5215873015877'
+average: '48.5204188481679'
 ---
 
 Sie können [Mario Kart 8 Deluxe [Nintendo Switch]](https://www.amazon.de/dp/B01N4ND0F9/?tag=tolees0ca-21) mit Preis 48.41 EUR (original: 59.99 EUR) 19.30 % Rabatt hier:
