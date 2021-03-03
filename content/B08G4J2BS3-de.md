@@ -28,9 +28,9 @@ Sie können [LEGO 76171 Spider-Man Miles Morales Mech Set  Actionfigur für Jung
 
 ℹ️:
 
-- Wenn Kinder die Minifigur ins Cockpit des riesigen beweglichen Mech stecken, können sie ihre Lieblingsfilmszenen nacherleben, sich eigene Abenteuer ausdenken und mit den anderen Mechs aus ihrer Sammlung die Kräfte messen
 - Enthält Miles Morales als Minifigur und einen baubaren Mech, ein großes Netz, das sowohl in die Hand des Mech als auch in die Hand der Minifigur passt, sowie kleinere Netze, die sich unter anderem an den Beinen des Mech befestigen lassen
 - Der riesige LEGO Marvel Spider-Man Miles Morales Mech (76171) verfügt über bewegliche Gliedmaßen und ein extralanges Elektronetz, um Bösewichte zu verscheuchen. Eine tolle Belohnung, um jungen Superhelden aktiven Spielspaß zu ermöglichen
+- Wenn Kinder die Minifigur ins Cockpit des riesigen beweglichen Mech stecken, können sie ihre Lieblingsfilmszenen nacherleben, sich eigene Abenteuer ausdenken und mit den anderen Mechs aus ihrer Sammlung die Kräfte messen
 - In der kostenlosen LEGO Building Instructions App sind Instructions PLUS zugänglich, die Kinder beim Bauen eine digitale Modellansicht vergrößern und drehen lassen
 - Dieses robuste Bauspielzeug ist 12 cm groß und ermöglicht aktiven Spielspaß. Nach actionreichen Rollenspielen bereichert es als supercooles Dekoelement jedes Kinderzimmer
 - Ein faszinierendes, unendlich unterhaltsames Geburtstags-, Weihnachts- oder Überraschungsgeschenk für junge Superhelden ab 7 Jahren
