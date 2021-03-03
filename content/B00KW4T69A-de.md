@@ -29,9 +29,9 @@ Sie können [Inateck Festplattengehäuse 2 5 Zoll USB 3.0 für 7/9.5mm SATA SSD 
 ℹ️:
 
 - Automatischer Ruhemodus, sparsam und nachhaltig, Schutz des Laufwerks, Eintritt in den Ruhemodus nach 10 Minuten Inaktivität
-- Zweifarbige LED, automatische Erkennung der Modi USB 2.0 und 3.0 USB 2.0 -> weiß, USB 3.0 -> blau
-- Chip: JMS578, unterstützt Trim. Keine Treiberinstallation. Kompatibel mit allen Windows-Versionen und Mac OS
 - Einfache und schnelle Installation, Einbindung und Inbetriebnahme in nur drei Schritten: Öffnen des Einschubs, Einsetzen des Laufwerks, Einschieben in das Gehäuse.Werkzeuglose Konstruktion, Austausch der Laufwerke ohne Werkzeug oder Montageteile; noch bequemerer Festplattenwechsel
+- Chip: JMS578, unterstützt Trim. Keine Treiberinstallation. Kompatibel mit allen Windows-Versionen und Mac OS
 - Inateck USB 3.0 2,5 Zoll Festplatten Gehäuse: Unterstürtzt UASP. Entspricht aktuellen USB3.0-Standards; theoretische Transferrate von bis zu 5Gb/s
+- Zweifarbige LED, automatische Erkennung der Modi USB 2.0 und 3.0 USB 2.0 -> weiß, USB 3.0 -> blau
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00KW4T69A/?tag=tolees0ca-21)

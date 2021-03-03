@@ -28,8 +28,8 @@ Sie können [Superzings PSZSB216IN50 Toy  Mehrfarbig](https://www.amazon.de/dp/B
 
 ℹ️:
 
-- Enthält 2 exklusive Fahrzeuge 2 exklusive Super Zings und eine Vielzahl von Zubehör
 - Verwenden Sie den Hubschrauber um Feuerbälle zu schießen und den Feuerwehrwagen zu fahren um Wasserstrahlen zu schießen
+- Enthält 2 exklusive Fahrzeuge 2 exklusive Super Zings und eine Vielzahl von Zubehör
 - Ideal um Phantasie und Geselligkeit der Kinder zu entwickeln
 - Das Spielset kommt mit zwei exklusiven Super Zings Charakteren
 - Die Super Zings sind tägliche Objekte die in Superhelden und Superschurken verwandelt werden

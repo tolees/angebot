@@ -28,10 +28,10 @@ Sie können [Playmobil Space 9488 Mars-Rakete mit Startrampe  Ab 6 Jahren](https
 
 ℹ️:
 
-- Lieferumfang: 1x PLAYMOBIL Space Mars-Rakete, 113-teiliges Spielfiguren-Set mit Anleitung: 1 Mars-Rakete, 3 Figuren, 109 Zubehörteile (wird ohne 2 x 1,5-V-Micro-Batterien geliefert), Material: Kunststoff, LxBxH: 22x28x72 cm, 9488
 - Spielfiguren-Set für Kinder ab 6 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
-- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 - Echte Startrampe, Bewegliche Wartungsplattform, Abnehmbare Raumkapsel andockbar an Mars-Station 9487, Erweiterbar mit Meteoroiden-Zerstörer (9490)
 - Spielspaß für kleine Astronauten: PLAYMOBIL Space Mars-Rakete mit zahlreichen Figuren und Zubehörteilen sowie coolen Licht- und Geräuscheffekten
+- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
+- Lieferumfang: 1x PLAYMOBIL Space Mars-Rakete, 113-teiliges Spielfiguren-Set mit Anleitung: 1 Mars-Rakete, 3 Figuren, 109 Zubehörteile (wird ohne 2 x 1,5-V-Micro-Batterien geliefert), Material: Kunststoff, LxBxH: 22x28x72 cm, 9488
 
 [🛒 Hier!!](https://www.amazon.de/dp/B079MM91CH/?tag=tolees0ca-21)
