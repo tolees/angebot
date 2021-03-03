@@ -29,9 +29,9 @@ Sie können [Philips Hue White and Color Ambiance Play Lightbar Doppelpack  dimm
 ℹ️:
 
 - Funktioniert mit Amazon Alexa für Sprachsteuerung (Echo/ Echo Dot und notwendige Hue Bridge separat erhältlich). Das Smart Home Erlebnis für Ihr Zuhause
-- Das Philips Hue Play Doppelpack- ist die vielseitigste Leuchte im Hue Portfolio und beeindruckt durch ihr kompaktes Design. Zur Steuerung ist ein Hue Dimmschalter oder eine Hue Bridge notwendig (nicht im Lieferumfang enthalten)
-- Farbtemperatur: 2.000 bis 6.500 Kelvin. Wählen Sie eine aus 16 Millionen Farben in der Hue App und synchronisieren Sie das Licht mit Musik, Filmen und Videospielen über Hue Sync
 - Hue Play lässt sich mit einer Kabellänge von 2 Metern vielseitig positionieren, ob auf dem Boden, hinter dem Schrank oder direkt hinter dem Fernseher montiert, horizontale und vertikale Positionierung möglich
+- Das Philips Hue Play Doppelpack- ist die vielseitigste Leuchte im Hue Portfolio und beeindruckt durch ihr kompaktes Design. Zur Steuerung ist ein Hue Dimmschalter oder eine Hue Bridge notwendig (nicht im Lieferumfang enthalten)
 - Die Leuchte eignet sich besonders für ambiente Beleuchtung des Wohnbereichs, es besteht keine Blendwirkung
+- Farbtemperatur: 2.000 bis 6.500 Kelvin. Wählen Sie eine aus 16 Millionen Farben in der Hue App und synchronisieren Sie das Licht mit Musik, Filmen und Videospielen über Hue Sync
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FYDGD7R/?tag=tolees0ca-21)
