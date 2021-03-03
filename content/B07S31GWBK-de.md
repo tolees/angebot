@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros. - Game of Thrones - Staffel mit 26.80 % Rabatt'
-date: 2021-03-02 01:14:22
+date: 2021-03-03 01:37:57
 image: 'https://m.media-amazon.com/images/I/51mGRK0mlwL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Warner Bros.'
 buyurl: 'https://www.amazon.de/dp/B07S31GWBK/?tag=tolees0ca-21'
 descuento: '26.80'
-average: '56.2671666666667'
+average: '55.0962903225807'
 ---
 
 Sie können [Warner Bros. - Game of Thrones - Staffel 8  Limitiertes 4K Ultra HD Steelbook  [Blu-ray] [Limited Edition]](https://www.amazon.de/dp/B07S31GWBK/?tag=tolees0ca-21) mit Preis 19.97 EUR (original: 27.28 EUR) 26.80 % Rabatt hier:
