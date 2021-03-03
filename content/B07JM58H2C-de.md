@@ -28,10 +28,10 @@ Es gibt ein [Playmobil DreamWorks Dragons 70037 Ohnezahn und Hicks mit Babydrach
 
 ℹ️:
 
+- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 - Spielspaß für kleine Abenteurer: DreamWorks Dragons Spielset Ohnezahn und Hicks mit Babydrachen von PLAYMOBIL mit Zubehörteilen wie Feuerschwert, Fluganzug und uvm.
-- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Lieferumfang: 1 x PLAYMOBIL-Spielset DreamWorks Dragons Ohnezahn und Hicks mit Babydrachen, 19-teiliges Spielfiguren-Set mit Anleitung: 2 Drachen, 1 Figur, 16 Zubehörteile (wird ohne 1 x 1,5-V-Micro-Batterie geliefert), Material: Kunststoff, LxBxH: 38x26-49,5x9-20 cm, Art.-Nr. 70037
 - Ohnezahn mit leuchtenden Zacken & Schussfunktion für Pfeile, Verschiedene Schussdrachen-Segel, uvm., Erweiterbar mit PLAYMOBIL Tagschatten (70038)
-- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
+- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07JM58H2C/?tag=tolees0ca-21)

@@ -28,12 +28,12 @@ Es gibt ein [LEGO 43106 VIDIYO Unicorn DJ BeatBox Music Video Maker Musik Spielz
 
 ℹ️:
 
-- Dieses Musikspielzeug enthält eine Einhorn DJ Minifigur, Zubehör für die Schallplatte, 14 zufällige BeatBits, 2 spezielle BeatBits und eine Szene, die das Erstellen von Musikvideos ermöglicht
-- Die AR App ist mit über 180 iOS/Android/Mobilgeräten kompatibel. Kompatibilitätscheck auf LEGO website
-- BeatBits, die auf der Bühne platziert werden, schalten Spezialeffekte in der App frei, wenn sie gescannt werden, um jedes Mal einzigartige, neue Musikvideos zu erstellen
+- Mit über 90 BeatBits und 12 Figuren zum Sammeln, die alle von verschiedenen Musikgenres inspiriert sind, werden Kinder es lieben, ihre Sammlung zu erweitern und mit Freunden zu teilen.
 - Mit der LEGO VIDIYO Music Video Maker App führen Kinder in kürzester Zeit Regie, produzieren und spielen in ihren eigenen Musikvideos
 - Entdecke weitere Spezialeffekte, Herausforderungen & Anpassungen, wähle aus und teile sie dann online mit Freunden in einem sicheren, kinderfreundlichen sozialen Feed
+- BeatBits, die auf der Bühne platziert werden, schalten Spezialeffekte in der App frei, wenn sie gescannt werden, um jedes Mal einzigartige, neue Musikvideos zu erstellen
 - Nutze die App, um den Einhorn DJ mit K-Pop-Musik & lustigen Spezialeffekten wie eine LEGO-Burg mit Wolken und Regenbogen-Wasserfällen zum Leben zu erwecken
-- Mit über 90 BeatBits und 12 Figuren zum Sammeln, die alle von verschiedenen Musikgenres inspiriert sind, werden Kinder es lieben, ihre Sammlung zu erweitern und mit Freunden zu teilen.
+- Dieses Musikspielzeug enthält eine Einhorn DJ Minifigur, Zubehör für die Schallplatte, 14 zufällige BeatBits, 2 spezielle BeatBits und eine Szene, die das Erstellen von Musikvideos ermöglicht
+- Die AR App ist mit über 180 iOS/Android/Mobilgeräten kompatibel. Kompatibilitätscheck auf LEGO website
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4S2YJD/?tag=tolees0ca-21)

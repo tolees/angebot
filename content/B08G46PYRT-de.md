@@ -28,11 +28,11 @@ Es gibt ein [LEGO 31202 Art Disney s Mickey Mouse Set  Poster  Wanddekoration  D
 
 ℹ️:
 
-- 1 Picture - 2 options, the pictured models cannot be built simultaneously; this LEGO art piece measures over 15.5 inch (40 cm) square
-- Build and display 1 of 2 possible detailed portraits, one at a time, or combine 2 of the craft hobby sets to create a special wall art
-- Includes 9 canvas wall decor plates, Disney signature tile, brick-built LEGO frame, a unique hanging element and a tile separating tool
-- LEGO Art sets offer adults with passion for creative arts-and-crafts-related hobbies a rewarding builds, Ideal to display on a wall or shelf
-- It makes a great stress relieveing gift for yourself or other DIY projects enthusiasts in your life who might love the included soundtrack
 - Features a portrait square with 2-in-1 building options, iconic Disneys Mickey Mouse or Minnie Mouse mosaics on a distinctive background
+- LEGO Art sets offer adults with passion for creative arts-and-crafts-related hobbies a rewarding builds, Ideal to display on a wall or shelf
+- Build and display 1 of 2 possible detailed portraits, one at a time, or combine 2 of the craft hobby sets to create a special wall art
+- 1 Picture - 2 options, the pictured models cannot be built simultaneously; this LEGO art piece measures over 15.5 inch (40 cm) square
+- It makes a great stress relieveing gift for yourself or other DIY projects enthusiasts in your life who might love the included soundtrack
+- Includes 9 canvas wall decor plates, Disney signature tile, brick-built LEGO frame, a unique hanging element and a tile separating tool
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G46PYRT/?tag=tolees0ca-21)

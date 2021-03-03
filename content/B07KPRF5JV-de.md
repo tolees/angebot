@@ -28,10 +28,10 @@ Sie können [Funko 37252 POP Rides 80th: Batman  1950  Sammelbares Spielzeug  Me
 
 ℹ️:
 
-- Batman 80th
 - Batman (1950)
-- Von Batman, Batman (1950), zur stilisierten POP Rides Vinyl-Figur von Funko!
 - POP! Rides
+- Von Batman, Batman (1950), zur stilisierten POP Rides Vinyl-Figur von Funko!
+- Batman 80th
 - Spielzeug des Jahres 2018
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07KPRF5JV/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Brennenstuhl Comfort-Line Plus  Steckdos mit 47.27 % Rabatt'
-date: 2020-09-11 08:19:22
+title: 'Brennenstuhl Comfort-Line Plus  Steckdos mit 44.73 % Rabatt'
+date: 2021-03-03 13:21:25
 image: 'https://m.media-amazon.com/images/I/31KtfeRF8vL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,24 +9,29 @@ author: ring
 slug: 'B01LYZERF7-de Brennenstuhl Comfort-Line Plus Steckdosenleiste 6-fach...'
 sku: 'B01LYZERF7-de'
 tags: [  ]
-actualPrice: 6.85 EUR
+actualPrice: 7.18 EUR
 currency: EUR
-price: 6.85
+price: 7.18
 comparePrice: 12.99 EUR
 prodname: 'Brennenstuhl Comfort-Line Plus  Steckdosenleiste 6-fach  Steckerleiste mit Flachstecker und Schalter  Mehrfachsteckdose mit 2m Kabel und extra breiten Abständen der Steckdosen  weiß'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'Brennenstuhl'
 buyurl: 'https://www.amazon.de/dp/B01LYZERF7/?tag=tolees0ca-21'
-descuento: '47.27'
-average: '6.85'
+descuento: '44.73'
+average: '7.07'
 ---
 
-Sie können [Brennenstuhl Comfort-Line Plus  Steckdosenleiste 6-fach  Steckerleiste mit Flachstecker und Schalter  Mehrfachsteckdose mit 2m Kabel und extra breiten Abständen der Steckdosen  weiß](https://www.amazon.de/dp/B01LYZERF7/?tag=tolees0ca-21) mit Preis 6.85 EUR (original: 12.99 EUR) 47.27 % Rabatt hier:
+Sie können [Brennenstuhl Comfort-Line Plus  Steckdosenleiste 6-fach  Steckerleiste mit Flachstecker und Schalter  Mehrfachsteckdose mit 2m Kabel und extra breiten Abständen der Steckdosen  weiß](https://www.amazon.de/dp/B01LYZERF7/?tag=tolees0ca-21) mit Preis 7.18 EUR (original: 12.99 EUR) 44.73 % Rabatt hier:
 
 [![Brennenstuhl Comfort-Line Plus  Steckdos](https://m.media-amazon.com/images/I/31KtfeRF8vL._SL400_.jpg)](https://www.amazon.de/dp/B01LYZERF7/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Lieferumfang: 1 x Comfort-Line Plus Steckerleiste in der Farbe weiß mit extra breiten Abständen und Flachstecker - in bester Qualität von brennenstuhl
+- Mit beleuchtetem Sicherheitsschalter zum Ein- und Ausschalten (zweipolig)
+- Mehrfachstecker mit praktischen Befestigungsösen zur Wandmontage
+- 6er Schutzkontakt-Steckdosenleiste mit 2m Kabellänge H05VV-F 3G1,5 und erhöhtem Berührungsschutz
+- Ideal geeignet für Winkelstecker und den Betrieb von Netzgeräten, da 90° Winkel Anordnung der Steckdosen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01LYZERF7/?tag=tolees0ca-21)

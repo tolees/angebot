@@ -28,9 +28,9 @@ Es gibt ein [Funko 52873 POP Star Wars: Valentines-Stormtrooper w/Heart  Multico
 
 ℹ️:
 
-- Verpackungsabmessungen: 3.5 L x 6.25 H x 4.5 W (inches)
-- Farbe: mehrfarbig
 - Von , , zur stilisierten POP-Vinyl Figur von Funko
+- Verpackungsabmessungen: 3.5 L x 6.25 H x 4.5 W (inches)
 - Anzahl der Packungen: 1
+- Farbe: mehrfarbig
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08CB7H4RM/?tag=tolees0ca-21)

@@ -28,12 +28,12 @@ Sie können [LEGO 43107 VIDIYO HipHop Robot BeatBox Music Video Maker Musik Spie
 
 ℹ️:
 
-- Die AR App ist mit über 180 iOS/Android/Mobilgeräten kompatibel. Kompatibilitätscheck auf LEGO website
-- Entdecke weitere Spezialeffekte, Herausforderungen & Anpassungen, wähle aus und teile sie dann online in einem sicheren, kinderfreundlichen sozialen Feed mit Freunden
+- Dieses Musikspielzeug enthält eine Roboter Minifigur, Mikrofon als Zubehör, 14 zufällige BeatBits, 2 spezielle BeatBits und eine Szene, die das Erstellen von Musikvideos ermöglicht
 - Mit der LEGO VIDIYO Music Video Maker App führen Kinder in kürzester Zeit Regie, produzieren und spielen in ihren eigenen Musikvideos
+- Entdecke weitere Spezialeffekte, Herausforderungen & Anpassungen, wähle aus und teile sie dann online in einem sicheren, kinderfreundlichen sozialen Feed mit Freunden
+- Mit über 90 BeatBits und 12 Figuren zum Sammeln, die alle von verschiedenen Musikgenres inspiriert sind, werden Kinder es lieben, ihre Sammlung zu erweitern und mit Freunden zu teilen.
+- Die AR App ist mit über 180 iOS/Android/Mobilgeräten kompatibel. Kompatibilitätscheck auf LEGO website
 - Nutze die App, um den Roboter mit einem fantastischen Hip-Hop-Musikvideo zum Leben zu erwecken, das du online teilen kannst, und nutze den Bling-Effekt, um die Minifiguren zu vergolden
 - BeatBits, die auf der Bühne platziert werden, schalten Spezialeffekte in der App frei, wenn sie gescannt werden, um jedes Mal einzigartige, neue Musikvideos zu erstellen
-- Mit über 90 BeatBits und 12 Figuren zum Sammeln, die alle von verschiedenen Musikgenres inspiriert sind, werden Kinder es lieben, ihre Sammlung zu erweitern und mit Freunden zu teilen.
-- Dieses Musikspielzeug enthält eine Roboter Minifigur, Mikrofon als Zubehör, 14 zufällige BeatBits, 2 spezielle BeatBits und eine Szene, die das Erstellen von Musikvideos ermöglicht
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08G4FRM1T/?tag=tolees0ca-21)
