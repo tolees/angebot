@@ -28,12 +28,12 @@ Sie können [LEGO 43105 VIDIYO Party Llama BeatBox Music Video Maker Musik Spiel
 
 ℹ️:
 
+- Mit der LEGO VIDIYO Music Video Maker App führen Kinder in kürzester Zeit Regie, produzieren und spielen in ihren eigenen Musikvideos
 - Entdecke weitere Spezialeffekte, Herausforderungen & Anpassungen, wähle aus und teile sie dann online mit Freunden in einem sicheren, kinderfreundlichen sozialen Feed
-- Die AR App ist mit über 180 iOS/Android/Mobilgeräten kompatibel. Kompatibilitätscheck auf LEGO website
 - Mit über 90 BeatBits und 12 Figuren zum Sammeln, die alle von verschiedenen Musikgenres inspiriert sind, werden Kinder es lieben, ihre Sammlung zu erweitern und mit Freunden zu teilen.
+- Die AR App ist mit über 180 iOS/Android/Mobilgeräten kompatibel. Kompatibilitätscheck auf LEGO website
 - BeatBits-Steine, die auf der Bühne platziert werden, schalten Spezialeffekte in der App frei, wenn sie gescannt werden, um jedes Mal einzigartige, neue Musikvideos zu erstellen
 - Dieses Musikspielzeug enthält eine Lama Minifigur mit Maracas als Zubehör, 14 zufällige BeatBits, 2 spezielle BeatBits und eine Szene, die das Erstellen von Musikvideos ermöglicht
-- Mit der LEGO VIDIYO Music Video Maker App führen Kinder in kürzester Zeit Regie, produzieren und spielen in ihren eigenen Musikvideos
 - Nutze die App, um das Party Lama mit tropischen Melodien zum Leben zu erwecken und füge mit dem tropischen Techno-Effekt bunte LEGO Pflanzen in dein Video ein
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08G49DCMC/?tag=tolees0ca-21)

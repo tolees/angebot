@@ -28,9 +28,9 @@ Es gibt ein [Square Enix - World of Final Fantasy Day One Edition](https://www.a
 
 ℹ️:
 
-- Fange und trainiere bekannte Monster aus dem gesamten Universum von Final Fantasy
 - Triff auf deiner Reise zudem beliebte Charaktere aus vergangenen Final Fantasy-Spielen, wie z.B. Cloud Strife oder Lightning
 - Neues Kampfsystem
 - Die ganze Welt von Final Fantasy in einem Spiel
+- Fange und trainiere bekannte Monster aus dem gesamten Universum von Final Fantasy
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00ZULGMW4/?tag=tolees0ca-21)
