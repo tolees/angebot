@@ -28,10 +28,10 @@ Sie können [Sony RX100 VII | Premium Bridge-Kamera  1 0-Typ-Sensor  24-200 mm F
 
 ℹ️:
 
-- IDEAL FÜR VIDEO-CREATOR: Interne 4K Video-Aufnahmen mit Pro-Funktionen und Bildstabilisierung
-- ATEMBERAUBENDE BILDQUALITÄT: Der große Bildsensor vom Typ 1.0 hat eine Auflösung von 20,1 Megapixeln, die mit der Back-Illuminated-Technologie einen großen Empfindlichkeitsbereich erreichen
-- KEINEN MOMENT VERPASSEN: Bis zu 20fps mit Autofokus
 - SCHNELLER UND PRÄZISER AUTOFOKUS: Verfügt über Funktionen der Alpha 9-Klasse mit bis zu 60facher/sec AF/AE-Berechnung, 0,02s AF, Real Time Tracking und Augen AF, um Ihr Motiv in jeder Situation scharf zu halten
+- KEINEN MOMENT VERPASSEN: Bis zu 20fps mit Autofokus
+- ATEMBERAUBENDE BILDQUALITÄT: Der große Bildsensor vom Typ 1.0 hat eine Auflösung von 20,1 Megapixeln, die mit der Back-Illuminated-Technologie einen großen Empfindlichkeitsbereich erreichen
 - GROßER ZOOMBEREICH: ZEISS Vario-Sonnar T* 24-200 mm F2.8-4.5 hochauflösendes Zoom-Objektiv
+- IDEAL FÜR VIDEO-CREATOR: Interne 4K Video-Aufnahmen mit Pro-Funktionen und Bildstabilisierung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07VLJ5JDV/?tag=tolees0ca-21)

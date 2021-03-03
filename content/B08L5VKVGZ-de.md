@@ -28,14 +28,14 @@ Sie können [Neues Apple iPhone 12  64 GB  -  Product  RED](https://www.amazon.
 
 ℹ️:
 
-- Ceramic Shield, der mehr aushält als jedes Smartphone Glas
-- Branchenführender IP68 Wasserschutz
-- Unterstützt MagSafe Zubehör zum einfachen Andocken und schnelleren kabellosen Laden
-- Fortschrittliches Zwei‐Kamera-System mit 12 MP Ultraweitwinkel‐ und Weitwinkelobjektiv, Nachtmodus, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR Aufnahme
-- iOS 14 mit neuen Widgets auf dem Homescreen, der neuen App Mediathek, App Clips und mehr
-- A14 Bionic, der schnellste Chip in einem Smartphone
 - 5G für superschnelle Downloads und Streaming in höchster Qualität
+- iOS 14 mit neuen Widgets auf dem Homescreen, der neuen App Mediathek, App Clips und mehr
+- Ceramic Shield, der mehr aushält als jedes Smartphone Glas
+- Unterstützt MagSafe Zubehör zum einfachen Andocken und schnelleren kabellosen Laden
 - 12 MP TrueDepth Frontkamera mit Nachtmodus, 4K Dolby Vision HDR Aufnahme
+- Fortschrittliches Zwei‐Kamera-System mit 12 MP Ultraweitwinkel‐ und Weitwinkelobjektiv, Nachtmodus, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR Aufnahme
+- A14 Bionic, der schnellste Chip in einem Smartphone
+- Branchenführender IP68 Wasserschutz
 - 6,1" Super Retina XDR Display (15,5 cm Diagonale)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08L5VKVGZ/?tag=tolees0ca-21)
