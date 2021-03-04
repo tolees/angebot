@@ -28,9 +28,9 @@ Es gibt ein [Electronic Arts - Star Wars Battlefront 2 - Standard Edition | PC D
 
 ℹ️:
 
-- Brich auf zu einer unendlichen Star Wars-Reise aus der erfolgreichsten Star Wars-Spielereihe aller Zeiten. Erlebe opulente Multiplayer-Schlachtfelder aus allen drei Epochen – der Prequel-, der Original- und der neuen Trilogie. Oder schlüpfe in die Rolle einer neuen Heldin und entdecke eine emotionale und packende, dreißig Jahre umspannende, Singleplayer-Story.
-- Das Herunterladen ist einfach. Nachdem Sie den Kauf abgeschlossen haben, erhalten Sie einen Link auf der Bestellbestätigungs-Seite mit genauen Informationen zum Download. Dieser Link ist auch in Ihrer Spiele & Software Bibliothek gespeichert.
 - Individualisiere und verbessere deine Helden, Sternenjäger oder Truppler mit einzigartigen Fähigkeiten, die du im Kampf einsetzen kannst. Reite auf Tauntauns oder übernimm Panzer und Speeder. Setze die Macht ein, um gegen legendäre Charaktere wie Kylo Ren, Darth Maul oder Han Solo zu bestehen, während du deine Rolle in einem Spielerlebnis einnimmst, das von zeitlosen Star Wars-Filmen aus vierzig Jahren inspiriert ist.
+- Brich auf zu einer unendlichen Star Wars-Reise aus der erfolgreichsten Star Wars-Spielereihe aller Zeiten. Erlebe opulente Multiplayer-Schlachtfelder aus allen drei Epochen – der Prequel-, der Original- und der neuen Trilogie. Oder schlüpfe in die Rolle einer neuen Heldin und entdecke eine emotionale und packende, dreißig Jahre umspannende, Singleplayer-Story.
 - Wieso warten? Downloaden Sie Star Wars Battlefront 2 für PC and play.
+- Das Herunterladen ist einfach. Nachdem Sie den Kauf abgeschlossen haben, erhalten Sie einen Link auf der Bestellbestätigungs-Seite mit genauen Informationen zum Download. Dieser Link ist auch in Ihrer Spiele & Software Bibliothek gespeichert.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06ZZFDLFT/?tag=tolees0ca-21)

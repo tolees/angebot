@@ -28,8 +28,8 @@ Sie können [Electronic Arts - Battlefield 1 [PC Code - Origin]](https://www.ama
 
 ℹ️:
 
-- Battlefield 1 hat in Deutschland die Alterseinstufung „USK 16“ erhalten. Es handelt sich hier um die Vollversion. Diese ist zu 100% ungeschnitten und inhaltsgleich mit anderen weltweit erscheinenden Versionen.
-- Entdecke in einer Kampagne voller Abenteuer eine Welt im Krieg oder nimm an epischen Multiplayer-Schlachten für bis zu 64 Spieler teil.
 - Kämpfe als Infanterist, steuere atemberaubende Land-, Wasser- und Luftfahrzeuge und passe deine Spielweise an die dynamischsten Schlachten in der Geschichte von Battleﬁeld an.
+- Entdecke in einer Kampagne voller Abenteuer eine Welt im Krieg oder nimm an epischen Multiplayer-Schlachten für bis zu 64 Spieler teil.
+- Battlefield 1 hat in Deutschland die Alterseinstufung „USK 16“ erhalten. Es handelt sich hier um die Vollversion. Diese ist zu 100% ungeschnitten und inhaltsgleich mit anderen weltweit erscheinenden Versionen.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01FRJ1EQM/?tag=tolees0ca-21)
