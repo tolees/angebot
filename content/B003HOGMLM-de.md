@@ -28,8 +28,8 @@ Sie können [Pentel XGFKP/FP10 - Pocket Brush Blister-Pack Pinselstift mit 2 Pat
 
 ℹ️:
 
-- Pocket Brush - der Taschenpinsel für Mangas, Cartoons und Co.
 - Die tiefschwarze, pigmentierte Tinte auf Wasserbasis ist wasserfest und lichtecht
+- Pocket Brush - der Taschenpinsel für Mangas, Cartoons und Co.
 - Kappe mit Metallclip
 - Auswaschbare Nylon-Pinselspitze für variable Strichstärke
 
