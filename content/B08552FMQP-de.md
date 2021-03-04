@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.00 % rabat auf DYON Smart 32 XT 80 cm  32 Zoll  Fernseh'
-date: 2021-03-02 23:30:47
+date: 2021-03-03 23:49:22
 image: 'https://m.media-amazon.com/images/I/418kfY9FDlL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'DYON'
 buyurl: 'https://www.amazon.de/dp/B08552FMQP/?tag=tolees0ca-21'
 descuento: '16.00'
-average: '207.470571428572'
+average: '207.606756756757'
 ---
 
 Es gibt ein [DYON Smart 32 XT 80 cm  32 Zoll  Fernseher  HD Smart TV  HD Triple Tuner  DVB-C/-S2/-T2   Prime Video  Netflix & HbbTV  [Modelljahr 2020]](https://www.amazon.de/dp/B08552FMQP/?tag=tolees0ca-21) mit aktuellem Preis 209.99 EUR (original: 249.99 EUR) 16.00 % Rabatt hier:
@@ -28,15 +28,15 @@ Es gibt ein [DYON Smart 32 XT 80 cm  32 Zoll  Fernseher  HD Smart TV  HD Triple 
 
 ℹ️:
 
-- Auflösung: HD-Ready 1.366 x 768 Pixel
-- Typ: Smart LED-Fernseher mit 80 cm (31, 5 Zoll) Bildschirmdiagonale
-- Empfang: DVB-T2 (Terrestrisch), DVB-C (Kabel), DVB-S2 (Satellit), CI+
-- Wandhalterung (nicht mitgeliefert): 75 x 75 mm
-- Smart Portal: Prime Video, Netflix, HbbTV, Youtube, Facebook, ARD-/ZDF-Mediathek, DEEZER, etc.
 - Smart TV: integriertes WLAN, LAN Anschluss (RJ45), USB-Mediaplayer
 - Fernbedienung: Prime Video und Netflix Taste für Schnellstart
-- Kein externer Receiver erforderlich!
+- Empfang: DVB-T2 (Terrestrisch), DVB-C (Kabel), DVB-S2 (Satellit), CI+
+- Smart Portal: Prime Video, Netflix, HbbTV, Youtube, Facebook, ARD-/ZDF-Mediathek, DEEZER, etc.
+- Wandhalterung (nicht mitgeliefert): 75 x 75 mm
 - Lieferumfang: Smart 32 XT, Fernbedienung inkl. Batterien, Standfuß, Schnellstart-Bedienungsanleitung
+- Auflösung: HD-Ready 1.366 x 768 Pixel
+- Kein externer Receiver erforderlich!
 - Abmessung (mit Standfuß): 73,2 x 47,6 x 20,7 cm (BxHxT)
+- Typ: Smart LED-Fernseher mit 80 cm (31, 5 Zoll) Bildschirmdiagonale
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08552FMQP/?tag=tolees0ca-21)
