@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '30.55 % rabat auf adidas Herren CORE18 TR PNT Sport Trouse'
-date: 2021-03-02 11:58:25
+title: '25.94 % rabat auf adidas Herren CORE18 TR PNT Sport Trouse'
+date: 2021-03-04 11:25:45
 image: 'https://m.media-amazon.com/images/I/31tWEwQIcbL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,27 +9,27 @@ author: ring
 slug: 'B076HRHTH8-de adidas Herren CORE18 TR PNT Sport Trousers Black/White L'
 sku: 'B076HRHTH8-de'
 tags: [  ]
-actualPrice: 20.8 EUR
+actualPrice: 22.18 EUR
 currency: EUR
-price: 20.8
+price: 22.18
 comparePrice: 29.95 EUR
 prodname: 'adidas Herren CORE18 TR PNT Sport Trousers  Black/White  L'
 country: 'de'
 flag: '🇩🇪'
 brand: 'adidas'
 buyurl: 'https://www.amazon.de/dp/B076HRHTH8/?tag=tolees0ca-21'
-descuento: '30.55'
-average: '20.5066666666667'
+descuento: '25.94'
+average: '21.176'
 ---
 
-Es gibt ein [adidas Herren CORE18 TR PNT Sport Trousers  Black/White  L](https://www.amazon.de/dp/B076HRHTH8/?tag=tolees0ca-21) mit aktuellem Preis 20.8 EUR (original: 29.95 EUR) 30.55 % Rabatt hier:
+Es gibt ein [adidas Herren CORE18 TR PNT Sport Trousers  Black/White  L](https://www.amazon.de/dp/B076HRHTH8/?tag=tolees0ca-21) mit aktuellem Preis 22.18 EUR (original: 29.95 EUR) 25.94 % Rabatt hier:
 
 [![adidas Herren CORE18 TR PNT Sport Trouse](https://m.media-amazon.com/images/I/31tWEwQIcbL._SL400_.jpg)](https://www.amazon.de/dp/B076HRHTH8/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Slim Fit
 - Front pockets
 - Elastic waistband with lanyard
+- Slim Fit
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B076HRHTH8/?tag=tolees0ca-21)
