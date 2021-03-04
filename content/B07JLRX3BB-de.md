@@ -28,10 +28,10 @@ Sie können [Playmobil Country 70131 Riesentraktor mit Anhänger  Ab 4 Jahren](h
 
 ℹ️:
 
+- Beweglicher Frontlader mit austauschbaren Aufsätzen, Anhänger mit Heckklappe kippbar in 3 Positionen, Anhängerkupplung verstellbar auf 2 Höhen
 - Lieferumfang: 1x PLAYMOBIL Country Riesentraktor, 63-teiliges Spielfiguren-Set mit Anleitung: 1 Traktor, 1 Figur, 61 Zubehörteile, Material: Kunststoff, LxBxH: 59x12x15 cm, 70131
 - Spielspaß für kleine Tierfreunde: PLAYMOBIL Riesentraktor mit Anhänger zum Be- und Entladen von Heu und Schüttgut für detailgetreues Nachspielen
 - Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
-- Beweglicher Frontlader mit austauschbaren Aufsätzen, Anhänger mit Heckklappe kippbar in 3 Positionen, Anhängerkupplung verstellbar auf 2 Höhen
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07JLRX3BB/?tag=tolees0ca-21)

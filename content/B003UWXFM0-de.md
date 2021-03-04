@@ -28,9 +28,9 @@ Es gibt ein [TP-Link TL-SG1024D 24-Port Gigabit-/ Netzwerk Switch  Rackmount  48
 
 ℹ️:
 
-- 24 10/100/1000Mbps-Ports
-- Plug-and-Play-Design, Betriebstemperatur: 0 ° C ~ 40 ° C.
 - Auto-Learning von MAC-Adressen, Auto-MDI/MDIX und Autoabstimmung
+- Plug-and-Play-Design, Betriebstemperatur: 0 ° C ~ 40 ° C.
+- 24 10/100/1000Mbps-Ports
 - Lieferumfang: 24-Port-Gigabit-Desktop/Rackmount-Switch, Stromversorgungskabel, Bedienungsanleitung
 - Innovative energieeffiziente Green IT, spart bis zu 20% Energie
 
