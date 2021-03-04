@@ -28,10 +28,10 @@ Es gibt ein [SanDisk Extreme 64 GB microSDXC Memory Card for Action Cameras and 
 
 ℹ️:
 
-- Entwickelt für extreme Bedingungen: temperaturbeständig, wasserdicht, stoßsicher und röntgensicher
-- Leistungsfähiger Speicher zur Optimierung der Performance Ihrer Action-Kamera oder Drohne
-- Bis zu 160 MB/s Lesegeschwindigkeit und bis zu 90 MB/s Schreibgeschwindigkeit
 - Hochwertige Aufnahme und Wiedergabe von Videos in 4K UHD und Full HD
+- Bis zu 160 MB/s Lesegeschwindigkeit und bis zu 90 MB/s Schreibgeschwindigkeit
+- Entwickelt für extreme Bedingungen: temperaturbeständig, wasserdicht, stoßsicher und röntgensicher
 - UHS Speed Class 3 (U3) und Video Speed Class 30 (V30) zur Aufnahme von Videos in 4K UHD
+- Leistungsfähiger Speicher zur Optimierung der Performance Ihrer Action-Kamera oder Drohne
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07HB8SLMV/?tag=tolees0ca-21)

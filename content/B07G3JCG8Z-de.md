@@ -28,8 +28,8 @@ Es gibt ein [SanDisk Extreme Pro 256GB microSDXC Memory Card + SD Adapter with A
 
 ℹ️:
 
-- 4K UHD-fähig mit UHS Speed Class 3 (U3) und Video Speed Class 30 (V30)
 - Konzipiert für und getestet unter extremen Bedingungen; temperaturbeständig, wasserdicht, stoßfest und röntgensicher
+- 4K UHD-fähig mit UHS Speed Class 3 (U3) und Video Speed Class 30 (V30)
 - Bis zu 170 MB/Sek. Lesegeschwindigkeit und 90 MB/Sek. Schreibgeschwindigkeit für schnelles Aufnehmen und Übertragen
 - Ideal für Android-basierte Smartphones und Tablets sowie Actionkameras und Drohnen
 - Einstufung A2 für schnelleres Laden und schnellere In-App-Performance

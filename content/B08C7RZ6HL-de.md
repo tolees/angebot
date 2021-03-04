@@ -28,9 +28,9 @@ Es gibt ein [Samsung Odyssey G5 34 Zoll 1440p Gaming Monitor  C34G55T   Curved  
 
 ℹ️:
 
-- WQHD 2560x1440p Auflösung & HDR 10 – liefert ein kristallklares Bild und zeigt versteckte Details
-- Eye-saver mode & Flicker free – für ein bequemes Seherlebnis
 - 144hz Bildwiederholrate & 1ms Reaktionszeit – für blitzschnelle Übergänge ohne Bewegungsunschärfe
+- Eye-saver mode & Flicker free – für ein bequemes Seherlebnis
+- WQHD 2560x1440p Auflösung & HDR 10 – liefert ein kristallklares Bild und zeigt versteckte Details
 - AMD FreeSync Premium – für nahtlose Graphik in schnellen Spielen
 - 1000R 34 Zoll Curved Gaming Monitor – Branchenführende Bildschirmwölbung für immersives Gaming, das Ihr Sichtfeld umschließt.
 
