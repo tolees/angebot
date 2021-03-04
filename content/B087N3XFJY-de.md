@@ -28,9 +28,9 @@ Sie können [Funko 50963 The Mandalorian Child w/Bag Sammelbares Spielzeug  Mehr
 
 ℹ️:
 
-- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 - Von The Mandalorian, Child w/ Bag, zur stilisierten POP-Vinyl Figur von Funko!
 - Funko POP! ist das Spielzeug des Jahres 2018
 - Schauen Sie sich jetzt die anderen Star Wars-Figuren von Funko an! Sammeln Sie alle!
+- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 
 [🛒 Hier!!](https://www.amazon.de/dp/B087N3XFJY/?tag=tolees0ca-21)

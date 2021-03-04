@@ -28,7 +28,7 @@ Sie können [ONLY Damen onlSEDONA Light Coat OTW NOOS Mantel  Schwarz  Black Bla
 
 ℹ️:
 
-- Kapuze
 - XS-XXL
+- Kapuze
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0719LWBL5/?tag=tolees0ca-21)

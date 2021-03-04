@@ -30,10 +30,10 @@ Es gibt ein [TP-Link TL-WA850RE WLAN Repeater  300 Mbit/s  WLAN Verstärker  App
 
 - Verpackungsinhalt: TL-WA850RE, Schnellinstallationsanleitung
 - Energieverbrauch - 3W
-- High-Speed-WLAN N mit bis zu 300 MBit/s (2,4 GHz-Band) für den kabellosen Hochgeschwindigkeitszugang
 - Ein LAN-Port zur Integration kabelgebundener Netzwerkgeräte wie Spielekonsolen, Smart-TVs in ein WLAN
+- High-Speed-WLAN N mit bis zu 300 MBit/s (2,4 GHz-Band) für den kabellosen Hochgeschwindigkeitszugang
+- Tether App ermöglicht einfachen Zugriff und Verwaltung mit jedem mobilen Gerät
 - 1-2 Zimmer Wohnung, Internet-Geschwindigkeit unter 100Mbit/s
 - Erhöht schnell und einfach die Reichweite des WLAN-Netzes, kompatibel zu allen gängigen WLAN-Routern (Funkstandards 802.11n/g/b)
-- Tether App ermöglicht einfachen Zugriff und Verwaltung mit jedem mobilen Gerät
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00A0VCJPI/?tag=tolees0ca-21)
