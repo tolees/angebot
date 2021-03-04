@@ -28,9 +28,9 @@ Sie können [Jada Toys Knight Rider K.I.T.T. - 1982 Pontiac Trans AM Modellauto 
 
 ℹ️:
 
+- Mit Lauflicht – Natürlich darf der legendäre Scanner von K.I.T.T. nicht fehlen. Sobald die Fahrertür geöffnet wird leuchtet das LED-Licht, genau sowie bei dem Original, knapp unter der Motorhaube auf. (Batterien enthalten)
 - Hochdetailliertes 1:24 Modell – Der liebevoll gestaltete Innenraum, die markante Lackierung sowie die vielen kleinen Details verleihen dem Modellauto aus Metall einen absoluten Wiedererkennungswert
 - Jada Toys – Seit mehr als 20 Jahren bieten wir, als führender Hersteller für lizensierte Modell-Figuren und -Fahrzeuge, Detailtreue, Vielfalt und höchste Qualität in Perfektion
-- Mit Lauflicht – Natürlich darf der legendäre Scanner von K.I.T.T. nicht fehlen. Sobald die Fahrertür geöffnet wird leuchtet das LED-Licht, genau sowie bei dem Original, knapp unter der Motorhaube auf. (Batterien enthalten)
 - Ideales Geschenk – Das Modell des Autos aus Knight Rider ist ein ideales Geschenk für alle Modellliebhaber, welche gerne wieder in die Erinnerungen an die Kindheit und Jugend abschweifen wollen
 - „Ein Mann und sein Auto kämpfen gegen das Unrecht.“ – Der unverkennbare Slogan der Kultserie der 80er mit David Hasselhoff in der Hauptrolle als Michael Knight und dem eigentlichen Star, seinem Auto, K.I.T.T
 
