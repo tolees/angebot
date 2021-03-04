@@ -31,7 +31,7 @@ Sie können [Logitech Z906 5.1 Sound System  Lautsprecher mit 1000 Watt Surround
 - Surround Sound wie im Kino: Die integrierte digitale 5.1-Dekodierung wandelt Dolby Digital oder DTS kodierten Sound in detailreichen 5.1 Surround Sound um
 - Lieferumfang: 4 Satelliten, Center-Lautsprecher, Subwoofer, Fernbedienung, Bedienkonsole, Lautsprecherkabel, 6-Kanal-Kabel, 3 AAA-Batterien, Bedienungsanleitung
 - Starkes Sound System: Die Logitech Z906 5.1 Lautsprecher liefern1000 Watt Spitzenleistung und ermöglichen einen vollen Sound in Kinoqualität
-- Zertifiziert: Die Logitech Z906 Lautsprecher sind THX-zertifiziert und gewährleisten einen Surround Sound, der sich genauso anhört, wie er klingen soll
 - Vielseitig: Logitech 5.1 Boxen mit 6 Eingängen für den gleichzeitigen Anschluss von Komponenten wie TV, Blu-ray/DVD-Player, DVD-Rekorder, Konsole, iPod und Stereoanlage
+- Zertifiziert: Die Logitech Z906 Lautsprecher sind THX-zertifiziert und gewährleisten einen Surround Sound, der sich genauso anhört, wie er klingen soll
 
 [🛒 Hier!!](https://www.amazon.de/dp/B004PGM9KY/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [SanDisk Ultra 200 GB microSDXC Speicherkarte + SD-Adapter mit A1 Ap
 
 ℹ️:
 
-- Ideal für Android-Smartphones und -Tablets sowie MIL-Kameras
+- Class 10 für Full HD-Videoaufnahmen und -Wiedergabe
 - Bis zu 1 TB Speicherplatz für stundenlange Videos in Full HD
 - Schnelleres Laden von Apps dank A1-Performance
-- Class 10 für Full HD-Videoaufnahmen und -Wiedergabe
+- Ideal für Android-Smartphones und -Tablets sowie MIL-Kameras
 - Bis zu 120 MB/s Transfergeschwindigkeit, mit der bis zu 1000 Fotos pro Minute übertragen werden können
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08HCHS64Y/?tag=tolees0ca-21)
