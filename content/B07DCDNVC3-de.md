@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Damen Cali WN s Sneaker  White Whit mit 40.87 % Rabatt'
-date: 2021-03-04 11:50:18
+date: 2021-03-05 20:04:07
 image: 'https://m.media-amazon.com/images/I/31lLFhzqfHL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.de/dp/B07DCDNVC3/?tag=tolees0ca-21'
 descuento: '40.87'
-average: '47.7503846153845'
+average: '48.5610714285713'
 ---
 
 Sie können [PUMA Damen Cali WN s Sneaker  White White  39 EU](https://www.amazon.de/dp/B07DCDNVC3/?tag=tolees0ca-21) mit Preis 59.1 EUR (original: 99.95 EUR) 40.87 % Rabatt hier:

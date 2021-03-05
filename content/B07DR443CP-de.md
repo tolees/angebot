@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Holy Stone HS120D GPS Drohne mit 1080P K mit 30.00 % Rabatt'
-date: 2021-03-04 11:57:49
+date: 2021-03-05 20:08:03
 image: 'https://m.media-amazon.com/images/I/41U073EjXfL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Holy Stone'
 buyurl: 'https://www.amazon.de/dp/B07DR443CP/?tag=tolees0ca-21'
 descuento: '30.00'
-average: '130.804814814813'
+average: '131.438275862067'
 ---
 
 Sie können [Holy Stone HS120D GPS Drohne mit 1080P Kamera HD Live Übertragung Follow Me RC Quadrocopter ferngesteuert mit WiFi APP Steuerung Coming Home längere Flugzeit Kleine Foto Drohne für Kinder Anfänger](https://www.amazon.de/dp/B07DR443CP/?tag=tolees0ca-21) mit Preis 139.99 EUR (original: 199.99 EUR) 30.00 % Rabatt hier:

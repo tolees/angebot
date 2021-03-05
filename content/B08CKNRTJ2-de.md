@@ -29,8 +29,8 @@ Es gibt ein [Teckin Cam 1080P HD 2.4 GHz WLAN Innenkamera für Sicherheit zu Hau
 ℹ️:
 
 - ·Bewegungs- / Geräuscherkennung: TECKIN CAM speichert jede Bewegungs- und Geräuscherkennung automatisch. Die Teckin App sendet Benachrichtigungen an Ihr Telefon oder Tablet, um sicherzustellen, dass Ihr Zuhause auch dann sicher ist, wenn Sie nicht da sind.
-- ·Cloud-Service und SD-Speicher: TECKIN CAM bietet sowohl T-Cloud- als auch SD-Kartenspeicher (max. 128 GB). Auf diese Weise k?nnen Sie Video und Ton an zwei Speicherorten aufnehmen. TECKIN bietet über unsere T-Cloud viele bevorzugte Pakete an, die Ihren Anforderungen entsprechen.
 - ·Mit Familie teilen: TECKIN CAM kann das Live-Streaming für jeden freigeben, mit dem Sie die TECKIN-App teilen. Familie, Freunde und Angehörige können sich alle anmelden und mit jedem im Haus sprechen, bis hin zu Ihrem Haustier!
+- ·Cloud-Service und SD-Speicher: TECKIN CAM bietet sowohl T-Cloud- als auch SD-Kartenspeicher (max. 128 GB). Auf diese Weise k?nnen Sie Video und Ton an zwei Speicherorten aufnehmen. TECKIN bietet über unsere T-Cloud viele bevorzugte Pakete an, die Ihren Anforderungen entsprechen.
 - ·Einfache Bedienung: Die TECKIN CAM ist einfach zu bedienen und funktioniert in einem 2,4- GHz-WLAN-Netzwerk, das über die neue Teckin-App eingerichtet wird. Montage überall wie an Wänden oder Decken. Genießen Sie das hochauflösende Live-Streaming mit 1080P und 110-Grad-Weitwinkelobjektiv.
 - ·Zweiwege-Audio- und Nachtsicht: TECKIN CAM bietet Video- und Audiogespräche in Echtzeit, sodass Sie direkt mit Ihrer Familie und sogar Ihrem geliebten Haustier sprechen können. Im Nachtsichtmodus können Sie im Dunkeln klarersehen. Mit einer Reichweite von 10 Metern und 6 IR-LEDs eignet sich TECKIN CAM perfekt für die Nacht, wenn Sie unterwegs sind oder einfach nur im Bett liegen!
 
