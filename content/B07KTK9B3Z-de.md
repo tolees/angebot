@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego Architecture - LEGO 21045 Architect mit 31.38 % Rabatt'
-date: 2021-03-03 23:34:00
+date: 2021-03-04 23:53:04
 image: 'https://m.media-amazon.com/images/I/51Gb1A3nDhL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Lego Architecture'
 buyurl: 'https://www.amazon.de/dp/B07KTK9B3Z/?tag=tolees0ca-21'
 descuento: '31.38'
-average: '59.2988218390804'
+average: '59.2736285714285'
 ---
 
 Sie können [Lego Architecture - LEGO 21045 Architecture Trafalgar Square  Bauset mit National Gallery für Sammler](https://www.amazon.de/dp/B07KTK9B3Z/?tag=tolees0ca-21) mit Preis 54.89 EUR (original: 79.99 EUR) 31.38 % Rabatt hier:
@@ -28,10 +28,10 @@ Sie können [Lego Architecture - LEGO 21045 Architecture Trafalgar Square  Bause
 
 ℹ️:
 
-- Umfasst die National Gallery, die Nelsonsäule (bewacht von 4 Löwen), 2 Brunnen, 4 Statuensockeln, 10 Bäume, 6 Laternen, 2 Londoner Busse und 2 schwarze Taxis.
 - Baue diese äußerst detailreiche LEGO Architecture Interpretation des Trafalgar Squares!
-- 1.197 Teile – Für Mädchen und Jungen ab 12 Jahren, für Fans und für große Kinder jeden Alters.
-- Das Modell ist 12 cm hoch, 24 cm breit und 20 cm tief.
 - Das Modell von LEGO Architecture umfasst ein dekoratives Trafalgar-Square-Namensschild.
+- Das Modell ist 12 cm hoch, 24 cm breit und 20 cm tief.
+- Umfasst die National Gallery, die Nelsonsäule (bewacht von 4 Löwen), 2 Brunnen, 4 Statuensockeln, 10 Bäume, 6 Laternen, 2 Londoner Busse und 2 schwarze Taxis.
+- 1.197 Teile – Für Mädchen und Jungen ab 12 Jahren, für Fans und für große Kinder jeden Alters.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07KTK9B3Z/?tag=tolees0ca-21)

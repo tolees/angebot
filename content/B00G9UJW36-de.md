@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '37.20 % rabat auf Sony FE 70-200 mm f/4 G OSS | Vollformat'
-date: 2021-03-03 23:28:53
+date: 2021-03-04 23:37:31
 image: 'https://m.media-amazon.com/images/I/41-M31JvlmL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B00G9UJW36/?tag=tolees0ca-21'
 descuento: '37.20'
-average: '1019.15916666667'
+average: '1022.83769230769'
 ---
 
 Es gibt ein [Sony FE 70-200 mm f/4 G OSS | Vollformat  Tele-Zoomobjektiv  SEL70200G ](https://www.amazon.de/dp/B00G9UJW36/?tag=tolees0ca-21) mit aktuellem Preis 1066.98 EUR (original: 1699.0 EUR) 37.20 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [Sony FE 70-200 mm f/4 G OSS | Vollformat  Tele-Zoomobjektiv  SEL702
 
 ℹ️:
 
-- SCHÖNES BOKEH: Zirkulare 9-Lamellen-Blende für wunderschönen Hintergrundbokeh
 - ALLE DETAILS EINFANGEN: Sony Nano AR-Beschichtung reduziert Geister- und Lichteffekte
 - UNGLAUBLICH SCHARF: Präzisions-AA-Elemente (fortschrittliche asphärische Elemente), Super-ED-Glas und Nano-AR-Beschichtung für hervorragende Auflösung, Klarheit und Kontrast
 - PROFESSIONELLE ERGONOMIE: Die integrierte optische SteadyShot-Bildstabilisierung kompensiert Kameraverwacklungen, die bei handgeführten Aufnahmen zu unscharfen Bildern führen können
+- SCHÖNES BOKEH: Zirkulare 9-Lamellen-Blende für wunderschönen Hintergrundbokeh
 - SCHNELL UND PRÄZISE: Die Dual-Linear-Motoren ermöglichen eine leise und flüssige Bewegung, ideal für Filmaufnahmen, rasante Action oder wenn der Fokus schnell und oft geändert wird
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00G9UJW36/?tag=tolees0ca-21)
