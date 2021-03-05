@@ -28,8 +28,8 @@ Es gibt ein [adidas Herren CORE18 TR PNT Sport Trousers  Black/White  L](https:/
 
 ℹ️:
 
-- Slim Fit
 - Front pockets
+- Slim Fit
 - Elastic waistband with lanyard
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B076HRHTH8/?tag=tolees0ca-21)

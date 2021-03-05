@@ -28,10 +28,10 @@ Es gibt ein [EACHINE E520 Drohne mit 4k HD Kamera 2.4Ghz WiFi FPV Live Übertrag
 
 ℹ️:
 
+- Kompakt & Stabil: Das Drohnengehäuse besteht aus einem hochfesten, verschleißarmen, leichten und langlebigen Kunststoff. Dank des intelligenten und klappbaren Flügeldesigns ist die Drohne leicht zu verstauen und einfach zu transportieren und bietet trotzdem eine hervorragende Flugleistung.
+- Bei Problemen mit dem Produkt können Sie sich an den Kundendienst des Verkäufers wenden.
 - 250M Reichweite/16 Minuten Flugzeit: Die Drohne verfügt, dank dem 1200 mAh Hochleistungsakku, über eine recht lange Flugzeit von bis zu 16 Minuten. Dank der Reichweite von 250 m wird ein atemberaubendes Flugerlebnis ermöglicht und Sie müssen sich auch keine Sorgen bei einer Unterbrechung der Verbindung machen.
 - 4K HD Kamera / 2.4Ghz FPV-Echtzeit-Übertragung: Mit 4K HD Weitwinkelkamera lassen sich klarere Bilder und Videos in hoher Qualität erzeugen und übertragen. Dazu bietet sie ein breites Sichtfeld und sorgt für einen visuelles Highlight. Die Echtzeit-FPV-Übertragung (Ich-Perspektive) kann Live-Videos und Fotos auf Ihr Handy übertragen. Damit erzeugen Sie ganz einfach schöne Aufnahmen aus ihrem Leben, der Landschaft um Sie herum oder z.B. von ihrer Reise.
-- Bei Problemen mit dem Produkt können Sie sich an den Kundendienst des Verkäufers wenden.
 - Einfach in der Handhabung: Sie können die E520 mit Ihrem Smartphone steuern, indem Sie die entsprechende App auf das Smartphone herunterladen. Die E520 lässt sich durch wenige Tastendrücke bedienen und kann automatisch abheben🛫 / landen🛬 / zurückkehren🛩 / 360°Flip durchführen und Notlanden.
-- Kompakt & Stabil: Das Drohnengehäuse besteht aus einem hochfesten, verschleißarmen, leichten und langlebigen Kunststoff. Dank des intelligenten und klappbaren Flügeldesigns ist die Drohne leicht zu verstauen und einfach zu transportieren und bietet trotzdem eine hervorragende Flugleistung.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B089LVQ42H/?tag=tolees0ca-21)

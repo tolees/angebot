@@ -28,9 +28,9 @@ Es gibt ein [Levi s Damen 2Pack T-Shirt  2 Pack Tee White +/Mineral Black  L](ht
 
 ℹ️:
 
-- Runder Ausschnitt
-- Die idealen T-Shirts für einen Lagenlook aus geripptem Strukturstrick
-- Kurzarm
 - 96 % Baumwolle 4 % Elastan
+- Runder Ausschnitt
+- Kurzarm
+- Die idealen T-Shirts für einen Lagenlook aus geripptem Strukturstrick
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07KF52DX6/?tag=tolees0ca-21)
