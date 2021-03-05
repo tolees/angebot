@@ -29,9 +29,9 @@ Sie können [Intenso High Performance interne SSD 120GB  6 3 cm  2 5 Zoll   SATA
 ℹ️:
 
 - Geringer Stromverbrauch; Schock-resistent, geräuschloser Betrieb (0dB)
-- Sequentielles Lesen: bis zu 520MB/s - Sequentielles Schreiben: bis zu 480MB/s
-- Die SATA III Schnittstelle mit 6 Gbps ermöglicht ein Hochfahren von Computern oder Netbooks in weniger als 20 Sekunden
 - Lieferumgang: Intenso High Performance interne SSD, 120GB
+- Die SATA III Schnittstelle mit 6 Gbps ermöglicht ein Hochfahren von Computern oder Netbooks in weniger als 20 Sekunden
 - Smart Command Support, TRIM Command Support; Gewicht: 83G; Abmessungen: 100 x 70 x 7mm
+- Sequentielles Lesen: bis zu 520MB/s - Sequentielles Schreiben: bis zu 480MB/s
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01D3ACJPW/?tag=tolees0ca-21)

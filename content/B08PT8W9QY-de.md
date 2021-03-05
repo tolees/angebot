@@ -28,9 +28,9 @@ Sie können [TRIPLE K - Geschenkbox mit ewige Rosen  konservierte Infinity Rosen
 
 ℹ️:
 
-- UNSERE GESCHENKBOX eignet sich hervorragend zu diversen Anlässen, wie beispielsweise Valentinstag, Geburtstag, Muttertag, Hochzeitstag oder zur Verlobung.
-- UNSERE INFINITY ROSEN duften beispiellos fein nach Rosen und durch die Konservierung halten diese bis zu drei Jahren
 - UNSERE HOCHWERTIGEN ROSENBOXEN werden von Hand gefertigt. Länge und Breite 13 cm, Höhe 17 cm, Durchmesser der konservierten Rosen 5-6 cm
+- UNSERE INFINITY ROSEN duften beispiellos fein nach Rosen und durch die Konservierung halten diese bis zu drei Jahren
 - Eine edle Grußkarte und eine elegante Tasche sind inklusive. Bitte Beachten: Die Kette ist nicht inklusive
+- UNSERE GESCHENKBOX eignet sich hervorragend zu diversen Anlässen, wie beispielsweise Valentinstag, Geburtstag, Muttertag, Hochzeitstag oder zur Verlobung.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08PT8W9QY/?tag=tolees0ca-21)
