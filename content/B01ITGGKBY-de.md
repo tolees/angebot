@@ -28,11 +28,11 @@ Sie können [De Longhi Nespresso Citiz EN167.W Kaffemaschine  Hochdruckpumpe und
 
 ℹ️:
 
-- flow stop: programmierbare kaffeemenge
-- voreinstellungen: 40 ml für espresso und 110 ml für lungo
-- aufklappbares abtropfgitter für hohe tassen und gläser
-- welcome-package mit 16 kapseln individueller geschmacksrichtungen
 - direktwahltasten für espresso und lungo
 - Stückzahl: 1
+- aufklappbares abtropfgitter für hohe tassen und gläser
+- welcome-package mit 16 kapseln individueller geschmacksrichtungen
+- voreinstellungen: 40 ml für espresso und 110 ml für lungo
+- flow stop: programmierbare kaffeemenge
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01ITGGKBY/?tag=tolees0ca-21)

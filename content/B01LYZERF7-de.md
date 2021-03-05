@@ -28,10 +28,10 @@ Sie können [Brennenstuhl Comfort-Line Plus  Steckdosenleiste 6-fach  Steckerlei
 
 ℹ️:
 
-- 6er Schutzkontakt-Steckdosenleiste mit 2m Kabellänge H05VV-F 3G1,5 und erhöhtem Berührungsschutz
-- Ideal geeignet für Winkelstecker und den Betrieb von Netzgeräten, da 90° Winkel Anordnung der Steckdosen
-- Mit beleuchtetem Sicherheitsschalter zum Ein- und Ausschalten (zweipolig)
 - Mehrfachstecker mit praktischen Befestigungsösen zur Wandmontage
+- Ideal geeignet für Winkelstecker und den Betrieb von Netzgeräten, da 90° Winkel Anordnung der Steckdosen
+- 6er Schutzkontakt-Steckdosenleiste mit 2m Kabellänge H05VV-F 3G1,5 und erhöhtem Berührungsschutz
 - Lieferumfang: 1 x Comfort-Line Plus Steckerleiste in der Farbe weiß mit extra breiten Abständen und Flachstecker - in bester Qualität von brennenstuhl
+- Mit beleuchtetem Sicherheitsschalter zum Ein- und Ausschalten (zweipolig)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01LYZERF7/?tag=tolees0ca-21)
