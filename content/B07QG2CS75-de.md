@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Beleuchtungsset für Archite mit 15.00 % Rabatt'
-date: 2021-03-04 05:46:40
+date: 2021-03-05 06:59:54
 image: 'https://m.media-amazon.com/images/I/51G5apoWP-L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'BRIKSMAX'
 buyurl: 'https://www.amazon.de/dp/B07QG2CS75/?tag=tolees0ca-21'
 descuento: '15.00'
-average: '39.2841176470587'
+average: '39.2225581395347'
 ---
 
 Sie können [BRIKSMAX Led Beleuchtungsset für Architecture London Skyline Sammlungsset  Kompatibel Mit Lego 21034 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B07QG2CS75/?tag=tolees0ca-21) mit Preis 33.99 EUR (original: 39.99 EUR) 15.00 % Rabatt hier:

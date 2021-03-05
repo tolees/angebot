@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crucial BX500 240GB CT240BX500SSD1 Z -bi mit 19.02 % Rabatt'
-date: 2021-03-04 05:44:47
+date: 2021-03-05 06:42:27
 image: 'https://m.media-amazon.com/images/I/41eXT6YT+jL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Crucial'
 buyurl: 'https://www.amazon.de/dp/B07G3KRZBX/?tag=tolees0ca-21'
 descuento: '19.02'
-average: '29.1584982935156'
+average: '29.1709152542375'
 ---
 
 Sie können [Crucial BX500 240GB CT240BX500SSD1 Z -bis zu 540 MB/s Internes SSD  3D NAND  SATA  2 5-Zoll ](https://www.amazon.de/dp/B07G3KRZBX/?tag=tolees0ca-21) mit Preis 30.99 EUR (original: 38.27 EUR) 19.02 % Rabatt hier:
