@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '40.76 % rabat auf Superzings PSZ4D850IN01 Onepack Serie 4 '
-date: 2021-03-03 23:52:17
+date: 2021-03-05 19:46:59
 image: 'https://m.media-amazon.com/images/I/51Flx-wLqDL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Superzings'
 buyurl: 'https://www.amazon.de/dp/B07P8QCYXC/?tag=tolees0ca-21'
 descuento: '40.76'
-average: '32.41359375'
+average: '32.3706153846154'
 ---
 
 Es gibt ein [Superzings PSZ4D850IN01 Onepack Serie 4 Sammlerfigur Farbe Sortiert Magic Box PSZ4D850IN00](https://www.amazon.de/dp/B07P8QCYXC/?tag=tolees0ca-21) mit aktuellem Preis 29.62 EUR (original: 50.0 EUR) 40.76 % Rabatt hier:
@@ -28,9 +28,9 @@ Es gibt ein [Superzings PSZ4D850IN01 Onepack Serie 4 Sammlerfigur Farbe Sortiert
 
 ℹ️:
 
-- Farbe: Sortiert
 - Herkunftsland:- China
-- Die Serie 4 umfasst mehr als 80 neue SuperZings zum Sammeln
+- Farbe: Sortiert
 - Stil: Comic
+- Die Serie 4 umfasst mehr als 80 neue SuperZings zum Sammeln
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07P8QCYXC/?tag=tolees0ca-21)
