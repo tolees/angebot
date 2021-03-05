@@ -28,8 +28,8 @@ Sie können [BOSS Herren T-Shirt RN 3P CO T-Shirts aus Baumwolle im Dreier-Pack]
 
 ℹ️:
 
+- Regular Fit
 - Ausschnitt: Rundhalsausschnitt
 - Verpackung: Box
-- Regular Fit
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01MA1CUDW/?tag=tolees0ca-21)

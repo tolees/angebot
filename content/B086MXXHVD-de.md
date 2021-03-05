@@ -28,10 +28,10 @@ Es gibt ein [LE LED Strip 10M 2x5M   Alexa LED Streifen mit Musik  IP20 Smart RG
 
 ℹ️:
 
-- [ Musik LED Strip ]: Der Smart RGB LED Lichtband kann der Musik- oder Tonaufnahme folgen, mit Ihrer Stimme oder Musik tanzen, um mehr zu genießen. Diese Funktion ist in der IR Fernbedienung (6-8m), App und im Controller verfügbar.
-- [ Intelligente App ]: Die WiFi-Verbindung ist wesentlich stabiler als Bluetooth und verbraucht weniger. Countdown, automatische Ausführung, Timer-Funktion kann automatisch voreingestellte Szenarien basierend auf der Zeit.
 - [ Perfektes Ambiente Licht ]: Unsere LED Band bestehen aus hochwertigen, hellen 5050 LEDs. 10M LED Strip kann an vielen Orten installiert Wohnzimmer, Küche, in Bars, etc, perfektes für Feiertage wie Weihnachten, Halloween, Partys etc.
 - [ Einfache Bedienung ]: Fernsteuerung über die App. Der Smart LED Streifen kompatibel mit Amazon Alexa, Google Assistant, Schalten Sie ein/aus, stellen Sie die Helligkeit ein und ändern Sie die Farbe mit Ihrer Sprachsteuerung und APP.
+- [ Intelligente App ]: Die WiFi-Verbindung ist wesentlich stabiler als Bluetooth und verbraucht weniger. Countdown, automatische Ausführung, Timer-Funktion kann automatisch voreingestellte Szenarien basierend auf der Zeit.
+- [ Musik LED Strip ]: Der Smart RGB LED Lichtband kann der Musik- oder Tonaufnahme folgen, mit Ihrer Stimme oder Musik tanzen, um mehr zu genießen. Diese Funktion ist in der IR Fernbedienung (6-8m), App und im Controller verfügbar.
 - [ Sicherheit & Lange Lebensdauer ]: Die Betriebsspannung beträgt 12V, mehr Sicherheit und stabile extrem niedrige Hitze, Dieses LED-Band ist weder giftig noch emittiert keine UV-Strahlen.(Die LED Leiste haben einen Kurzschlussschutz)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B086MXXHVD/?tag=tolees0ca-21)

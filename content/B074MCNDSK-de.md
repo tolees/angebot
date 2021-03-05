@@ -28,9 +28,9 @@ Es gibt ein [Samsung MU-PA2T0B/EU Portable SSD T5 2 TB USB 3.1 Externe SSD Schwa
 
 ℹ️:
 
-- Bis zu fünfmal schneller als externe Festplatten mit Lesegeschwindigkeiten von bis zu 540 MB/s und Schreibgeschwindigkeiten von bis zu 520 MB/s
 - Sicherheit für Ihre Daten: Übersteht Stürze aus bis zu zwei Metern Fallhöhe dank stoßfestem Aluminium Gehäuse mit verstärkendem Innenrahmen
 - Die beiden mitgelieferten USB Kabel Typ C auf C sowie Typ C auf A ermöglichen die Verbindung zu PCs, Macs, Smartphones, Smart TVs und Spielekonsolen
+- Bis zu fünfmal schneller als externe Festplatten mit Lesegeschwindigkeiten von bis zu 540 MB/s und Schreibgeschwindigkeiten von bis zu 520 MB/s
 - Optional per App oder Software aktivierbare AES 256 Bit Hardwareverschlüsselung und schützt Ihre Daten zuverlässig vor dem Zugriff Dritter
 - Externer Highspeed Speicher mit Kapazitäten von bis zu 2 TB im kompakten Format kleiner als eine Visitenkarte
 
