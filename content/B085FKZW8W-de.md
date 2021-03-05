@@ -28,10 +28,10 @@ Es gibt ein [PLAYMOBIL Princess 70447 Großes Prinzessinnenschloss mit drehbarer
 
 ℹ️:
 
-- Märchenhaft: PLAYMOBIL Großes Prinzessinnenschloss mit 7 Zimmern, eleganten Freitreppen, 2 Prinzessinnen uvm. für detailgetreues Nachspielen
+- Lieferumfang: 1x PLAYMOBIL Princess Großes Prinzessinnenschloss, 648-teiliges Spielfiguren-Set mit Anleitung: 1 Schloss mit Tanzplatte, 2 Figuren, 645 Zubehörteile, Material: Kunststoff, LxTxH: ca. 80x47x82 cm, Gewicht: ca. 4,6 kg, 70447
+- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Zweiflügeliges, nach innen schwenkbares Tor, Drehbare Tanzplatte mit Kurbel, Figuren mit cleverem Beinteil zum Kombinieren mit 2-teiligen Kleidern
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
-- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
-- Lieferumfang: 1x PLAYMOBIL Princess Großes Prinzessinnenschloss, 648-teiliges Spielfiguren-Set mit Anleitung: 1 Schloss mit Tanzplatte, 2 Figuren, 645 Zubehörteile, Material: Kunststoff, LxTxH: ca. 80x47x82 cm, Gewicht: ca. 4,6 kg, 70447
+- Märchenhaft: PLAYMOBIL Großes Prinzessinnenschloss mit 7 Zimmern, eleganten Freitreppen, 2 Prinzessinnen uvm. für detailgetreues Nachspielen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B085FKZW8W/?tag=tolees0ca-21)
