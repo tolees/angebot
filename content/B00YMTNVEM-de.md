@@ -29,8 +29,8 @@ Es gibt ein [TP-Link TL-SG1005D 5-Port Gigabit/Netzwerk Switch  bis 2000 MBit/s 
 ℹ️:
 
 - Lieferumfang: 5-Port-Gigabit-Desktopswitch TL-SG1005D, Spannungsadapter, Bedienungsanleitung
-- IEEE802.3x-Flusskontrolle sorgt für eine zuverlässige Datenübertragung
 - Ethernet mit Stromsparfunktion, Plastikgehäuse für Tischaufbau oder Wandmontage
+- IEEE802.3x-Flusskontrolle sorgt für eine zuverlässige Datenübertragung
 - Plug-and-Play, keine Konfiguration notwendig
 - 5 Gigabit-RJ45-Ports mit Autoabstimmung und Auto-MDI/MDIX
 
