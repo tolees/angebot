@@ -28,10 +28,10 @@ Es gibt ein [[Schaltbares LED] Alexa Rolladen Zeitschaltuhr  Etersky Smart Wlan 
 
 ℹ️:
 
-- Sprachsteuerung über Alexa und Google Assistant - Aktivieren Sie einfach Alexa Skill: Smart Life, um der Rolladen per Sprachbefehle zu steuern. “ Alexa, Rolladen ein/aus” 【Nullleiter Erforderlich】Product size: 8.6 X 8.6 X 3.4 CM.【Das LED Licht kann per Smart Life APP ein/aus schalten】
+- Fernbedienung über APP Smart Life - Laden Sie die kostenlose App Smart Life herunter ( IOS / Android) in APP Store oder Googel Play, Verbinden Sie den Schalter in wenigen Minuten mit dem 2.4G Netzwerk, dann können Sie Ihr Jalousien jederzeit und von überall steuern.
 - Manuelle Steuerung per Kristall Touch Panel - Das Panel besteht aus hochwertigem Kristallglas, So, dieser Rollladenschalter hat nicht nur Sprachsteuerung und Fernbedienung Funktion, sonder auch manuell gesteuert werden.
 - Überlastungsschutz und Gruppenkontrolle: Wenn eine Überlastung stattfinden, wird der Rollladenschalter automatisch ausgeschaltet, Erstellen Sie eine Gruppe und steuern Sie gleichzeitig mehrere Rollladenschalter.
 - Zeitschaltuhr für Rolladen/Jalousien - Mit der Timer Funktion kann dieser Rollladenschalter nach dem Einstellen der Timer wie geplant ein- oder aus geschaltet werden. Z.B am Arbeitstag um 7:00 Uhr ein und am 18:00 Uhr aus.
-- Fernbedienung über APP Smart Life - Laden Sie die kostenlose App Smart Life herunter ( IOS / Android) in APP Store oder Googel Play, Verbinden Sie den Schalter in wenigen Minuten mit dem 2.4G Netzwerk, dann können Sie Ihr Jalousien jederzeit und von überall steuern.
+- Sprachsteuerung über Alexa und Google Assistant - Aktivieren Sie einfach Alexa Skill: Smart Life, um der Rolladen per Sprachbefehle zu steuern. “ Alexa, Rolladen ein/aus” 【Nullleiter Erforderlich】Product size: 8.6 X 8.6 X 3.4 CM.【Das LED Licht kann per Smart Life APP ein/aus schalten】
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07PQ12TL2/?tag=tolees0ca-21)
