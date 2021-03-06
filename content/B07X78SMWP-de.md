@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '21.89 % rabat auf Sony Alpha 6600 | APS-C Spiegellose Kame'
-date: 2021-03-05 06:42:35
+date: 2021-03-06 10:32:19
 image: 'https://m.media-amazon.com/images/I/51128LFORDL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B07X78SMWP/?tag=tolees0ca-21'
 descuento: '21.89'
-average: '1305.5474117647'
+average: '1304.24747126436'
 ---
 
 Es gibt ein [Sony Alpha 6600 | APS-C Spiegellose Kamera   Schneller 0 02s Autofokus  optische 5-Achsen-Bildstabilisierung im Gehäuse  4K HLG Videoaufnahmen  neigbares Display für Vlogging ](https://www.amazon.de/dp/B07X78SMWP/?tag=tolees0ca-21) mit aktuellem Preis 1249.0 EUR (original: 1599.0 EUR) 21.89 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [Sony Alpha 6600 | APS-C Spiegellose Kamera   Schneller 0 02s Autofo
 
 ℹ️:
 
-- VERLÄNGERTE BATTERIE-LEBENSDAUER: APS-C Branchenführende Z-Batterie für längere Aufnahme-Sessions.
-- PERFEKT FÜR VIDEO CREATOR: Hochauflösende 4K-HDR-Filmaufnahme und Full-HD-Slow-Motion-Funktion (120p) mit Autofokus.
-- ATEMBERAUBENDE BILDQUALITÄT: 24Mp gepaart mit hoher ISO-Fähigkeit, um auch bei schwachem Licht hervorragende Bilder zu liefern.
-- STABILE AUFNAHMEN: Optische 5-Achsen-Bildstabilisierung für Fotos und Filme zur Kompensation von Kameraverwacklungen.
 - SCHNELLER UND PRÄZISERER AUTOFOKUS: Verlassen Sie sich auf 0,02s AF, Tracking in Echtzeit und Autofokus mit Augenerkennung (Mensch/Tier), um Ihr Motiv in jeder Situation im Fokus zu behalten.
+- VERLÄNGERTE BATTERIE-LEBENSDAUER: APS-C Branchenführende Z-Batterie für längere Aufnahme-Sessions.
+- STABILE AUFNAHMEN: Optische 5-Achsen-Bildstabilisierung für Fotos und Filme zur Kompensation von Kameraverwacklungen.
+- ATEMBERAUBENDE BILDQUALITÄT: 24Mp gepaart mit hoher ISO-Fähigkeit, um auch bei schwachem Licht hervorragende Bilder zu liefern.
+- PERFEKT FÜR VIDEO CREATOR: Hochauflösende 4K-HDR-Filmaufnahme und Full-HD-Slow-Motion-Funktion (120p) mit Autofokus.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07X78SMWP/?tag=tolees0ca-21)

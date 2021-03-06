@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.01 % rabat auf DEPSTECH 1080P WiFi Endoskopkamera Handy'
-date: 2021-03-04 23:41:43
+date: 2021-03-06 10:29:31
 image: 'https://m.media-amazon.com/images/I/51NOLZ7GemL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Es gibt ein [DEPSTECH 1080P WiFi Endoskopkamera Handy Endoskop  2.0 Megapixel HD
 ℹ️:
 
 - 【WiFi Verbindung, einfach zu bedienen】: Laden Sie die kompatible App herunter und installieren Sie sie auf Ihrem Gerät. Sie benötigen keinen zusätzlichen Adapter oder Kabel. Verbinden Sie einfach die Endoskopkamera über WLAN mit Ihrem Smartphone. Starten Sie dann die App, um mit der Inspektion zu beginnen.
-- 【Endoskopkamera mit breiter Kompatibilität】: Dieses drahtlose WiFi Endoskopkamera kann mit Android 5.0+ Smartphones und iPhone mit iOS 9+ System verwendet werden. Perfekt für Smartphone-Benutzer, die Inspektionsarbeiten durchführen möchten.
+- 【HD Inspektionskamera】: Das 2,0-Megapixel-Endoskop bietet Ihnen eine wunderbare Erfahrung bei der Aufnahme eines HD-Videos im Nahbereich im AVI-Format und eines Bilds im JPG-Format mit einstellbaren Auflösungen von 640 x 480, 1280 x 720 und 1920 x 1080.
 - 【3.5M Schlangenkabel】: Bewaffnet mit einem biegbaren halbstarren Kabel, das sich biegen und seine Form halten kann, um auf eine Vielzahl von engen Stellen wie gekrümmten Löchern oder Rohren zuzugreifen. 3.5M langes Kabel kann zu jeder Ecke Ihres Hauses führen.
 - 【IP67 Wasserdichte Sonde mit 8,4 mm Durchmesser】: Mit 6 einstellbaren LED-Lichtquellen und einer dünnen wasserdichten Sonde eignet sich dieses Endoskop für verschiedene Umgebungen, z. B. für schwache oder dunkle Bereiche, feuchte oder nasse Bereiche usw.
-- 【HD Inspektionskamera】: Das 2,0-Megapixel-Endoskop bietet Ihnen eine wunderbare Erfahrung bei der Aufnahme eines HD-Videos im Nahbereich im AVI-Format und eines Bilds im JPG-Format mit einstellbaren Auflösungen von 640 x 480, 1280 x 720 und 1920 x 1080.
+- 【Endoskopkamera mit breiter Kompatibilität】: Dieses drahtlose WiFi Endoskopkamera kann mit Android 5.0+ Smartphones und iPhone mit iOS 9+ System verwendet werden. Perfekt für Smartphone-Benutzer, die Inspektionsarbeiten durchführen möchten.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08HCRQTKD/?tag=tolees0ca-21)

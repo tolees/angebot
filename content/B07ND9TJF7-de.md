@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75249 Star Wars Widerstands Y-Wing  mit 31.43 % Rabatt'
-date: 2021-03-05 06:52:39
+date: 2021-03-06 10:43:00
 image: 'https://m.media-amazon.com/images/I/51Q88jSfO0L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07ND9TJF7/?tag=tolees0ca-21'
 descuento: '31.43'
-average: '56.092423208191'
+average: '56.0374915254236'
 ---
 
 Sie können [LEGO 75249 Star Wars Widerstands Y-Wing Starfighter Bauset  Der Aufstieg Skywalkers Kollektion](https://www.amazon.de/dp/B07ND9TJF7/?tag=tolees0ca-21) mit Preis 47.99 EUR (original: 69.99 EUR) 31.43 % Rabatt hier:
