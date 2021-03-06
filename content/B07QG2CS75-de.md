@@ -28,9 +28,9 @@ Sie können [BRIKSMAX Led Beleuchtungsset für Architecture London Skyline Samml
 
 ℹ️:
 
-- Bitte beachten Sie, dass nur LED-Licht geliefert wird.Alle LEGO Sets,die in Bildern und Videos gezeigt werden, sind nicht enthalten.
 - Das Paket enthält Bit Leuchten,Streifenlicht,Erweiterungsplatinen,Verbindungskabel,Batteriepack (Batterien nicht im Lieferumfang enthalten), Klebeflächen, Bedienungsanleitung.
 - Wenn Sie Probleme mit Ihrem Produkt haben, senden Sie uns bitte eine E-Mail, wir sind immer für Sie da.
+- Bitte beachten Sie, dass nur LED-Licht geliefert wird.Alle LEGO Sets,die in Bildern und Videos gezeigt werden, sind nicht enthalten.
 - Entwickelt für Lego 21034. Mit diesem Beleuchtungsset können Sie Ihr Architecture London Skyline Sammlungsset von dunkel nach hell verwandeln,damit es zum Leben erwacht.
 - Durch eine schrittweise Anleitung werden Sie einen einfacheren Weg finden, um ein großes Upgrade Ihres Lieblingsbaukastens zu realisieren.
 

@@ -28,8 +28,8 @@ Es gibt ein [Reebok Damen Club C 85 Laufschuhe  White Light Grey 685  36 EU](htt
 
 ℹ️:
 
-- Dämpfung
-- Sportschuhe
 - Obermaterial aus Leder
+- Sportschuhe
+- Dämpfung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B072JMXCKT/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [ARA Damen Kansas Stiefeletten  SCHWARZ  40 EU](https://www.amazon.d
 
 ℹ️:
 
+- Verstärkte Ferse
 - Absatzhöhe: 3,5 cm
+- Reißverschluss
 - Absatzform: Blockabsatz
 - Verschluss: Reißverschluss
-- Reißverschluss
-- Verstärkte Ferse
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MF9YS7W/?tag=tolees0ca-21)

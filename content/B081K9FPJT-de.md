@@ -28,7 +28,7 @@ Sie können [Lego Wear Jungen LWJOSHUA - Lego Tec COOL Jacke  508 Light Blue  11
 
 ℹ️:
 
-- Die "Cool" Serie ist inspiriert vom Snowboard Universum für coole Kids egal ob auf der Piste oder in der Schule (mit Skipass-Tasche mit Reißverschluss & Handytasche mit kleinem Loch für Kopfhörer)
 - Skijacke aus der LEGO Wear Tec "Cool" Serie. Wind,-und wasserdicht durch 12.000mm Wassersäule, verschweißte Nähte. (alle Nähte verschweißt), Atmungsaktiv. Artikel LWJODIE 704
+- Die "Cool" Serie ist inspiriert vom Snowboard Universum für coole Kids egal ob auf der Piste oder in der Schule (mit Skipass-Tasche mit Reißverschluss & Handytasche mit kleinem Loch für Kopfhörer)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B081K9FPJT/?tag=tolees0ca-21)

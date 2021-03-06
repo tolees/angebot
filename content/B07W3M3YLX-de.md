@@ -30,9 +30,9 @@ Sie können [Grundig Vision 6 - Fire TV  32 GFW 6060  80 cm  32 Zoll  Fernseher 
 
 - Die Grundig Vision 6 - Fire TV steht mit ihrer Full-HD Auflösung von 1.920 x 1.080 Pixeln für Fernseherlebnisse, die in der Erinnerung lange nachhallen
 - Fire TV  bietet nahtlose Integration von Live-Fernsehkanälen und Streamingsendern auf einer einzigen Startseite (HD-Antenne erforderlich)
-- Magic Fidelity ist ein Sound-Algorithmus mit speziell angeordneten Lautsprechern sowie einem zusätzlichen Woofer. Das bietet einen besonders klangvollen und brillanten Sound
+- Um alle Funktionen der Grundig Fire TV Modelle nutzen zu können, ist ein Amazon Konto (Basic oder Prime) erforderlich
 - Mit dem integrierten Fire TV-Erlebnis können Sie Tausende Sender, Apps und Alexa-Skills genießen, darunter Netflix, YouTube, Prime Video, ARD, ZDF, DAZN, waipu.tv und weitere. Möglicherweise fallen Kosten für Abonnements an
 - Steuern Sie Ihren Fernseher ganz einfach mit der im Lieferumfang enthaltenen Sprachfernbedienung mit Alexa. Zudem können Sie Apps starten, Sendungen suchen, Musik abspielen, Eingänge wechseln, kompatible Smart Home-Geräte steuern und mehr – alles allein mit Ihrer Stimme
-- Um alle Funktionen der Grundig Fire TV Modelle nutzen zu können, ist ein Amazon Konto (Basic oder Prime) erforderlich
+- Magic Fidelity ist ein Sound-Algorithmus mit speziell angeordneten Lautsprechern sowie einem zusätzlichen Woofer. Das bietet einen besonders klangvollen und brillanten Sound
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W3M3YLX/?tag=tolees0ca-21)

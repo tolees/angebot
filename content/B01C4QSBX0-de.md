@@ -28,10 +28,10 @@ Es gibt ein [Lowepro Objektivtasche 9 x 16 cm schwarz](https://www.amazon.de/dp/
 
 ℹ️:
 
-- Integrierte SlipLock Lasche zur Befestigung an kompatiblen Taschen
-- 1 x Lens Case 9 x 16cm (Black)
-- OverLap Zipper (überlappender Reißverschluss) schützt vor Staub und Feuchtigkeit
-- Praktische Netztasche in der Innenseite des Deckels für den Objektivdeckel
 - 2-Wege-Reißverschluss für einfachen Zugriff
+- OverLap Zipper (überlappender Reißverschluss) schützt vor Staub und Feuchtigkeit
+- 1 x Lens Case 9 x 16cm (Black)
+- Praktische Netztasche in der Innenseite des Deckels für den Objektivdeckel
+- Integrierte SlipLock Lasche zur Befestigung an kompatiblen Taschen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01C4QSBX0/?tag=tolees0ca-21)

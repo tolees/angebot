@@ -28,10 +28,10 @@ Es gibt ein [Casio Herren MultiZifferblatt Quarz mit Resin Armbanduhr GA710GB1AE
 
 ℹ️:
 
+- Quarz
+- Gelbgold und Schwarz
 - Sportlich
 - Herren Harz Analog Digital
-- Quarz
 - Wasserfest auf 200m
-- Gelbgold und Schwarz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01N3CKBI0/?tag=tolees0ca-21)

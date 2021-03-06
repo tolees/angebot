@@ -28,10 +28,10 @@ Es gibt ein [Superzings - SuperThings Power Machine Display 50 Stück pro Packun
 
 ℹ️:
 
-- SuperThings sind Alltagsgegenstände, die in Superhelden und Superschurken verwandelt werden. Jedes SuperThing hat seinen Konkurrenz: Finde die rivalischen Paare und forme deine SuperTeams!
-- Es gibt mehr als 80 neue SuperThings zum Sammeln. Finden Sie die silbernen, die goldenen und den ultra-seltenen Dr. Volt, der im Dunkeln leuchtet
-- Jeder Umschlag enthält 1 SuperThing und 1 Checkliste
 - In der neuen Super Things Serie haben die Power Machines übernommen!
+- Es gibt mehr als 80 neue SuperThings zum Sammeln. Finden Sie die silbernen, die goldenen und den ultra-seltenen Dr. Volt, der im Dunkeln leuchtet
 - Jetzt mehr denn je ist die Kraft der SuperThings in deinen Händen
+- Jeder Umschlag enthält 1 SuperThing und 1 Checkliste
+- SuperThings sind Alltagsgegenstände, die in Superhelden und Superschurken verwandelt werden. Jedes SuperThing hat seinen Konkurrenz: Finde die rivalischen Paare und forme deine SuperTeams!
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08NCWDQBH/?tag=tolees0ca-21)

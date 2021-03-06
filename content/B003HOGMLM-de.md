@@ -29,8 +29,8 @@ Sie können [Pentel XGFKP/FP10 - Pocket Brush Blister-Pack Pinselstift mit 2 Pat
 ℹ️:
 
 - Die tiefschwarze, pigmentierte Tinte auf Wasserbasis ist wasserfest und lichtecht
-- Kappe mit Metallclip
 - Auswaschbare Nylon-Pinselspitze für variable Strichstärke
 - Pocket Brush - der Taschenpinsel für Mangas, Cartoons und Co.
+- Kappe mit Metallclip
 
 [🛒 Hier!!](https://www.amazon.de/dp/B003HOGMLM/?tag=tolees0ca-21)
