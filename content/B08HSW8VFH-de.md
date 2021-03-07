@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '31.04 % rabat auf Ubisoft - Immortals Fenyx Rising - Limit'
-date: 2021-03-03 11:49:32
+date: 2021-03-06 23:02:01
 image: 'https://m.media-amazon.com/images/I/51jfuyaA7mL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Ubisoft'
 buyurl: 'https://www.amazon.de/dp/B08HSW8VFH/?tag=tolees0ca-21'
 descuento: '31.04'
-average: '49.5196551724139'
+average: '49.2020000000001'
 ---
 
 Es gibt ein [Ubisoft - Immortals Fenyx Rising - Limited Edition  exklusiv bei Amazon  - [Xbox One  Xbox Series X]](https://www.amazon.de/dp/B08HSW8VFH/?tag=tolees0ca-21) mit aktuellem Preis 39.99 EUR (original: 57.99 EUR) 31.04 % Rabatt hier:
