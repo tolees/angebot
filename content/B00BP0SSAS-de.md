@@ -28,10 +28,10 @@ Es gibt ein [TP-Link TL-SG1008P 8-Port Gigabit PoE Switchmit 4 PoE+ Ports  64 Wa
 
 ℹ️:
 
-- 4x PoE+ Ports, Daten- und Stromübertragung einfach über ein einziges Kabel
 - Kompatibel mit IEEE802.3af/at zur Erweiterung Ihres Heim- oder Büronetzwerks, Reibungsloser Datentransfer dank 802.1p/DSCP QoS
+- Plug und Play, keine Konfiguration erforderlich
 - 8x Gigabit RJ45 ports
 - Maximale bereitgestellte Leistung 64W für alle PoE-Ports, 30W für jeden PoE-Port
-- Plug und Play, keine Konfiguration erforderlich
+- 4x PoE+ Ports, Daten- und Stromübertragung einfach über ein einziges Kabel
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00BP0SSAS/?tag=tolees0ca-21)
