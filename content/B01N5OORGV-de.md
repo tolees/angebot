@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Nintendo Joy-Con 2er-Set Neon-Rot/Neon-B mit 22.88 % Rabatt'
-date: 2021-03-05 20:00:38
+title: 'Nintendo Joy-Con 2er-Set Neon-Rot/Neon-B mit 29.13 % Rabatt'
+date: 2021-03-07 05:43:33
 image: 'https://m.media-amazon.com/images/I/41wK7MSkquL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,27 +9,27 @@ author: ring
 slug: 'B01N5OORGV-de Nintendo Joy-Con 2er-Set Neon-Rot/Neon-Blau'
 sku: 'B01N5OORGV-de'
 tags: [  ]
-actualPrice: 61.69 EUR
+actualPrice: 56.69 EUR
 currency: EUR
-price: 61.69
+price: 56.69
 comparePrice: 79.99 EUR
 prodname: 'Nintendo Joy-Con 2er-Set Neon-Rot/Neon-Blau'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.de/dp/B01N5OORGV/?tag=tolees0ca-21'
-descuento: '22.88'
-average: '70.3482653061222'
+descuento: '29.13'
+average: '70.0750999999998'
 ---
 
-Sie können [Nintendo Joy-Con 2er-Set Neon-Rot/Neon-Blau](https://www.amazon.de/dp/B01N5OORGV/?tag=tolees0ca-21) mit Preis 61.69 EUR (original: 79.99 EUR) 22.88 % Rabatt hier:
+Sie können [Nintendo Joy-Con 2er-Set Neon-Rot/Neon-Blau](https://www.amazon.de/dp/B01N5OORGV/?tag=tolees0ca-21) mit Preis 56.69 EUR (original: 79.99 EUR) 29.13 % Rabatt hier:
 
 [![Nintendo Joy-Con 2er-Set Neon-Rot/Neon-B](https://m.media-amazon.com/images/I/41wK7MSkquL._SL400_.jpg)](https://www.amazon.de/dp/B01N5OORGV/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Jeder Joy-Con verfügt über einen vollständigen Satz von Tasten und einen Beschleunigungsmesser und einen Gyroskop-Bewegungssensor, die eine unabhängige Steuerung der linken und rechten Bewegung ermöglichen
-- Stellen Sie eine Verbindung zur Hauptkonsole her, um sie im Handheld-Modus zu verwenden, oder teilen Sie sie mit Freunden, um in unterstützten Spielen Action für zwei Spieler zu genießen
 - Die beiden Joy-Con können unabhängig voneinander in jeder Hand oder zusammen als ein Gamecontroller verwendet werden, wenn sie am Joy-Con-Griff befestigt sind (separat erhältlich)
+- Stellen Sie eine Verbindung zur Hauptkonsole her, um sie im Handheld-Modus zu verwenden, oder teilen Sie sie mit Freunden, um in unterstützten Spielen Action für zwei Spieler zu genießen
+- Jeder Joy-Con verfügt über einen vollständigen Satz von Tasten und einen Beschleunigungsmesser und einen Gyroskop-Bewegungssensor, die eine unabhängige Steuerung der linken und rechten Bewegung ermöglichen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01N5OORGV/?tag=tolees0ca-21)

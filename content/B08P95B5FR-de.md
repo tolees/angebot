@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Schnellladegerät  25 W  USB-Port mit 37.19 % Rabatt'
-date: 2021-03-05 20:04:23
+date: 2021-03-07 05:49:41
 image: 'https://m.media-amazon.com/images/I/310mnqdMlcL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.de/dp/B08P95B5FR/?tag=tolees0ca-21'
 descuento: '37.19'
-average: '14.0670588235294'
+average: '13.9052631578948'
 ---
 
 Sie können [Samsung Schnellladegerät  25 W  USB-Port Typ C  ohne Kabel ](https://www.amazon.de/dp/B08P95B5FR/?tag=tolees0ca-21) mit Preis 12.53 EUR (original: 19.95 EUR) 37.19 % Rabatt hier:

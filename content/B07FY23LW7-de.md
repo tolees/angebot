@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-SG116 16-Ports Gigabit Netzwe mit 25.82 % Rabatt'
-date: 2021-03-06 04:54:49
+date: 2021-03-07 05:30:00
 image: 'https://m.media-amazon.com/images/I/31QStdvbioL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B07FY23LW7/?tag=tolees0ca-21'
 descuento: '25.82'
-average: '49.0244999999998'
+average: '49.0934146341462'
 ---
 
 Sie können [TP-Link TL-SG116 16-Ports Gigabit Netzwerk Switch  32 Gbit/S Switching-Kapazität  geschirmte RJ-45 Ports  Metallgehäuse  IGMP-snooping  Unmanaged  Plug-und-Play  lüfterlos  blau metallic](https://www.amazon.de/dp/B07FY23LW7/?tag=tolees0ca-21) mit Preis 51.85 EUR (original: 69.9 EUR) 25.82 % Rabatt hier:
@@ -28,12 +28,12 @@ Sie können [TP-Link TL-SG116 16-Ports Gigabit Netzwerk Switch  32 Gbit/S Switch
 
 ℹ️:
 
-- Metallgehäuse für Tischaufbau oder Wandmontage
-- 16 10/100/1000Mbit/s-RJ45-Ports mit Autoabstimmung und Auto-MDI/MDIX
 - Unterstützt QoS nach IEEE802.1p sowie IGMP-Snooping
 - Green-Ethernet zum Energiesparen
-- Lieferumfang, TL-SG116, Schnellinstallationsanleitung, Netzteiladapter
-- Flusskontrolle nach IEEE802.3x für zuverlässige Datenübertragung
 - Plug-and-Play, keine Konfiguration notwendig
+- 16 10/100/1000Mbit/s-RJ45-Ports mit Autoabstimmung und Auto-MDI/MDIX
+- Metallgehäuse für Tischaufbau oder Wandmontage
+- Flusskontrolle nach IEEE802.3x für zuverlässige Datenübertragung
+- Lieferumfang, TL-SG116, Schnellinstallationsanleitung, Netzteiladapter
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FY23LW7/?tag=tolees0ca-21)
