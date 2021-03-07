@@ -28,8 +28,8 @@ Es gibt ein [Reebok Unisex Club C 1985 TV Sneaker  Chalk/Paperwhite/Glen Green  
 
 ℹ️:
 
-- EVA-Zwischensohle
-- Weiches Leder-Obermaterial
 - Gummiaußensohle
+- Weiches Leder-Obermaterial
+- EVA-Zwischensohle
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07KXWXN2D/?tag=tolees0ca-21)
