@@ -28,8 +28,8 @@ Sie können [Original Einhell Ersatzlüfterwalze  Vertikutierer-Zubehör  passen
 
 ℹ️:
 
+- Passend für Einhell Elektro-Vertikutierer GC-ES 1231/1
 - 30 Lüfterkrallen aus hochwertigem Edelstahl
 - Passend für Einhell Elektro-Vertikutierer-Lüfter GC-SA 1231/1
-- Passend für Einhell Elektro-Vertikutierer GC-ES 1231/1
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07L4FL8B9/?tag=tolees0ca-21)

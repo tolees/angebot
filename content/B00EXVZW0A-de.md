@@ -28,7 +28,7 @@ Es gibt ein [Christian Dior J Adore femme/woman  Eau de Parfum Vaporisateur  1er
 
 ℹ️:
 
-- weiblich und sinnlich
 - Duftnote: blumig, frisch
+- weiblich und sinnlich
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00EXVZW0A/?tag=tolees0ca-21)
