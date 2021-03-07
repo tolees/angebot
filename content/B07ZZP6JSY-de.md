@@ -28,8 +28,8 @@ Es gibt ein [Funko - POP! Rocks: Run-DMC - Jam Master Jay](https://www.amazon.de
 
 ℹ️:
 
-- Von Run-DMC, Jam Master Jay, zur stilisierten POP-Vinyl Figur von Funko!
-- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 - Schauen Sie sich jetzt die anderen Run-DMC-Figuren von Funko an! Sammeln Sie alle!
+- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
+- Von Run-DMC, Jam Master Jay, zur stilisierten POP-Vinyl Figur von Funko!
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07ZZP6JSY/?tag=tolees0ca-21)

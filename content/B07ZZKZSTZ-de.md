@@ -28,10 +28,10 @@ Sie können [Xiaomi Mi 20W Wireless Car Charger Qi/EPP Ladepad  Induktionsdistan
 
 ℹ️:
 
-- Indktionsdistanz bis zu 4 mm
 - Smart LED Indikator
+- 27 Watt Autoadapter beiliegend
+- Indktionsdistanz bis zu 4 mm
 - Qi & EPP Wireless Ladeprotokoll
 - Automatisches Festklemmen des Smartphones
-- 27 Watt Autoadapter beiliegend
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07ZZKZSTZ/?tag=tolees0ca-21)
