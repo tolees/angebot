@@ -28,10 +28,10 @@ Sie können [Funko Deluxe: Game of Thrones S10: Jon Snow Sitting on Iron Throne 
 
 ℹ️:
 
-- Spielzeug des Jahres 2018
-- Von Game of Thrones, Jon Snow, zur stilisierten POP Deluxe Vinyl-Figur von Funko!
-- POP! Deluxe
 - Game of Thrones S10
 - Jon Snow Sitting on Iron Throne
+- Von Game of Thrones, Jon Snow, zur stilisierten POP Deluxe Vinyl-Figur von Funko!
+- Spielzeug des Jahres 2018
+- POP! Deluxe
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07KPK663S/?tag=tolees0ca-21)
