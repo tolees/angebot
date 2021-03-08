@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '17.97 % rabat auf Koch Media GmbH - Poirot: Rendezvous mit'
-date: 2021-03-06 16:47:24
+date: 2021-03-08 04:59:07
 image: 'https://m.media-amazon.com/images/I/51HQfDkyBrL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Koch Media GmbH'
 buyurl: 'https://www.amazon.de/dp/B0090VULJU/?tag=tolees0ca-21'
 descuento: '17.97'
-average: '5.69782608695651'
+average: '5.67541666666665'
 ---
 
 Es gibt ein [Koch Media GmbH - Poirot: Rendezvous mit einer Leiche](https://www.amazon.de/dp/B0090VULJU/?tag=tolees0ca-21) mit aktuellem Preis 5.16 EUR (original: 6.29 EUR) 17.97 % Rabatt hier:
