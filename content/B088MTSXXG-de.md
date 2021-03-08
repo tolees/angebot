@@ -28,12 +28,12 @@ Es gibt ein [PGA TOUR 2K21 - [Xbox One]](https://www.amazon.de/dp/B088MTSXXG/?ta
 
 ℹ️:
 
-- Erstelle und personalisiere deinen eigenen Spieler mit Ausrüstung und Kleidung deiner Lieblingsmarken
-- Tritt im brandneuen PGA Tour-Karrieremodus auf realen Plätzen und mit Top-Profis um den FedExCup an
-- Erobere die Links mit Freunden im lokalen und Online- Multiplayer-Modus
-- Spiele gegen Profis, Spiele mit deiner Mannschaft
-- In PGA TOUR 2K21 kannst du nach den offiziellen oder eigenen Regeln spielen!
 - GOLF GOT GAME
+- Tritt im brandneuen PGA Tour-Karrieremodus auf realen Plätzen und mit Top-Profis um den FedExCup an
+- Spiele gegen Profis, Spiele mit deiner Mannschaft
+- Erobere die Links mit Freunden im lokalen und Online- Multiplayer-Modus
+- Erstelle und personalisiere deinen eigenen Spieler mit Ausrüstung und Kleidung deiner Lieblingsmarken
+- In PGA TOUR 2K21 kannst du nach den offiziellen oder eigenen Regeln spielen!
 - Halte komplette Saisons und Turniere ab – mit Online-Gesellschaften wie ein Boss
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B088MTSXXG/?tag=tolees0ca-21)

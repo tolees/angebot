@@ -28,9 +28,9 @@ Sie können [ONLY Female Skinny Fit Jeans ONLUltimate King reg L32Dark Blue Deni
 
 ℹ️:
 
-- Jeans mit Stretch.
 - Skinny legs mit Regular waist.
 - Mit Reißverschluss und einem Knopf verschließbar.
+- Jeans mit Stretch.
 - Materialzusammensetzung: 68% Baumwolle, 31% Polyester, 1% Elasthan
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00C2KVP1Y/?tag=tolees0ca-21)
