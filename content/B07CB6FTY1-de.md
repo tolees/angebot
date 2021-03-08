@@ -28,10 +28,10 @@ Sie können [Bosch Home and Garden - Bosch Akku Heißklebestift Gluey Cupcake Pi
 
 ℹ️:
 
-- Jetzt kreativ werden und unendliche Möglichkeiten für Bastel- und Kunstprojekte entdecken - egal ob mit Holz, Stoff, Leder oder anderen Materialien
-- Direkt nach dem Auspacken einsatzbereit, dank vorgeladenen mitgelieferten AA Akkus
-- Langlebig – Gluey verarbeitet bis zu 60 Mini Klebesticks mit einer Akkuladung
 - Lieferumfang: Gluey, farbige Kappe in Cupcake Pink, 2x AA Akku, USB Ladegerät und Kabel, 20 Mini Glue Sticks (8x transparent, 2x gelb, 2x rot, 1x blau, 1x schwarz, 5x Glitzer (rot, grün, blau, silber, gold)), Karton
+- Langlebig – Gluey verarbeitet bis zu 60 Mini Klebesticks mit einer Akkuladung
+- Direkt nach dem Auspacken einsatzbereit, dank vorgeladenen mitgelieferten AA Akkus
 - Einsatzbereit nach nur einer Minute Heizzeit
+- Jetzt kreativ werden und unendliche Möglichkeiten für Bastel- und Kunstprojekte entdecken - egal ob mit Holz, Stoff, Leder oder anderen Materialien
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07CB6FTY1/?tag=tolees0ca-21)
