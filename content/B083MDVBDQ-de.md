@@ -28,8 +28,8 @@ Sie können [Funko 49933 POP Star Wars: Mandalorian-The Child w/Cup Sammelbares 
 
 ℹ️:
 
-- Schauen Sie sich jetzt die anderen Star Wars-Figuren von Funko an! Sammeln Sie alle!
 - Von Mandalorian, The Child w/cup, zur stilisierten POP-Vinyl Figur von Funko!
+- Schauen Sie sich jetzt die anderen Star Wars-Figuren von Funko an! Sammeln Sie alle!
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 
 [🛒 Hier!!](https://www.amazon.de/dp/B083MDVBDQ/?tag=tolees0ca-21)

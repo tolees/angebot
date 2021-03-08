@@ -29,8 +29,8 @@ Sie können [PLAYMOBIL City Action 70575 Polizei-Helikopter: Verfolgung des Fluc
 ℹ️:
 
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
-- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Helikopter: offene Kanzel, drehbare Rotoren, funktionsfähige Waffen und Enterhaken, Van: abnehmbares Dach, bewegliche Satellitenschüssel, Regal uvm.
+- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Lieferumfang: 1x PLAYMOBIL City Action Polizei-Helikopter: Verfolgung des Fluchtfahrzeugs, 124-teiliges Spielfiguren-Set mit Anleitung: 1 Van, 1 Helikopter, 4 Figuren, 118 Zubehörteile, Material: Kunststoff, LxTxH Van: 28,5x12,5x15-18,5 cm / Helikopter: 22,5x17x10,5 cm, Gewicht: 643 g, 70575
 - Einsatz für den Polizei-Helikopter: PLAYMOBIL Verfolgung des Fluchtfahrzeugs mit Polizei-Pilotin, 3 Ganoven und Zubehör zum detailgetreuen Nachspielen
 
