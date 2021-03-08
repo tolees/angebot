@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 42111 Technic Fast & Furious Dom s  mit 30.09 % Rabatt'
-date: 2021-03-04 07:36:39
+title: 'LEGO 42111 Technic Fast & Furious Dom s  mit 22.40 % Rabatt'
+date: 2021-03-08 12:31:39
 image: 'https://m.media-amazon.com/images/I/51hpO7RCQHL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B07YYQ89RT-de LEGO 42111 Technic Fast & Furious Dom s Dodge Charger...'
 sku: 'B07YYQ89RT-de'
 tags: [  ]
-actualPrice: 69.9 EUR
+actualPrice: 77.59 EUR
 currency: EUR
-price: 69.9
+price: 77.59
 comparePrice: 99.99 EUR
 prodname: 'LEGO 42111 Technic Fast & Furious Dom s Dodge Charger Rennwagen Modell  ikonisches Bauset für Sammler'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07YYQ89RT/?tag=tolees0ca-21'
-descuento: '30.09'
-average: '81.0945931758535'
+descuento: '22.40'
+average: '81.1463144329901'
 ---
 
-Sie können [LEGO 42111 Technic Fast & Furious Dom s Dodge Charger Rennwagen Modell  ikonisches Bauset für Sammler](https://www.amazon.de/dp/B07YYQ89RT/?tag=tolees0ca-21) mit Preis 69.9 EUR (original: 99.99 EUR) 30.09 % Rabatt hier:
+Sie können [LEGO 42111 Technic Fast & Furious Dom s Dodge Charger Rennwagen Modell  ikonisches Bauset für Sammler](https://www.amazon.de/dp/B07YYQ89RT/?tag=tolees0ca-21) mit Preis 77.59 EUR (original: 99.99 EUR) 22.40 % Rabatt hier:
 
 [![LEGO 42111 Technic Fast & Furious Dom s ](https://m.media-amazon.com/images/I/51hpO7RCQHL._SL400_.jpg)](https://www.amazon.de/dp/B07YYQ89RT/?tag=tolees0ca-21)
 
