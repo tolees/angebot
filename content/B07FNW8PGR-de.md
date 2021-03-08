@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '25.08 % rabat auf LEGO 75892 Speed Champions McLaren Senna'
-date: 2021-03-03 05:28:51
+date: 2021-03-08 11:48:14
 image: 'https://m.media-amazon.com/images/I/51N8SILh5RL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07FNW8PGR/?tag=tolees0ca-21'
 descuento: '25.08'
-average: '14.5939487179487'
+average: '14.6537931034482'
 ---
 
 Es gibt ein [LEGO 75892 Speed Champions McLaren Senna Rennwagen  Bauset mit Rennfahrer-Minifigur  Forza Horizon 4 Erweiterungsset](https://www.amazon.de/dp/B07FNW8PGR/?tag=tolees0ca-21) mit aktuellem Preis 11.23 EUR (original: 14.99 EUR) 25.08 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [LEGO 75892 Speed Champions McLaren Senna Rennwagen  Bauset mit Renn
 
 ℹ️:
 
-- Enthält eine Rennfahrer-Minifigur im McLaren-Rennoverall mit den Logos von McLaren und Pirelli.
-- Enthält zudem einen Wildkanal zum Bauen samt rotierendem Gebläse.
 - Zubehör: McLaren-Rennfahrerhelm und Schraubenschlüssel.
 - Nimm die Windschutzscheibe ab und setze die Minifigur in den Wagen.
+- Enthält zudem einen Wildkanal zum Bauen samt rotierendem Gebläse.
+- Enthält eine Rennfahrer-Minifigur im McLaren-Rennoverall mit den Logos von McLaren und Pirelli.
 - Der McLaren Senna zum Bauen ist startklar für das nächste Rennen: mit Cockpit für eine Minifigur, abnehmbarer Windschutzscheibe, Rädern mit Gummireifen und austauschbaren Felgen, Heckspoiler, transparenten Elementen als Leuchten, Aufklebern mit den Logos von McLaren und Senna und authentischen Designdetails.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FNW8PGR/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '24.08 % rabat auf Funko 51458 POP Ride: Masters of the Uni'
-date: 2021-03-06 22:59:34
+date: 2021-03-08 11:46:00
 image: 'https://m.media-amazon.com/images/I/41YdxmrkSNL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Funko'
 buyurl: 'https://www.amazon.de/dp/B08CB7J5G8/?tag=tolees0ca-21'
 descuento: '24.08'
-average: '40.4250000000001'
+average: '40.0200000000001'
 ---
 
 Es gibt ein [Funko 51458 POP Ride: Masters of the Universe-Skeletor on Panthor  Multicolour](https://www.amazon.de/dp/B08CB7J5G8/?tag=tolees0ca-21) mit aktuellem Preis 32.73 EUR (original: 43.11 EUR) 24.08 % Rabatt hier:

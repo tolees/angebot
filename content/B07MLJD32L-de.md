@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '29.62 % rabat auf Samsung MZ-V7S2T0BW 970 EVO Plus 2 TB NV'
-date: 2021-03-07 10:26:07
+date: 2021-03-08 11:53:26
 image: 'https://m.media-amazon.com/images/I/41U4dybhl9L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.de/dp/B07MLJD32L/?tag=tolees0ca-21'
 descuento: '29.62'
-average: '300.833484848481'
+average: '300.746417910444'
 ---
 
 Es gibt ein [Samsung MZ-V7S2T0BW 970 EVO Plus 2 TB NVMe M.2 Interne SSD Schwarz](https://www.amazon.de/dp/B07MLJD32L/?tag=tolees0ca-21) mit aktuellem Preis 295.0 EUR (original: 419.15 EUR) 29.62 % Rabatt hier:
