@@ -29,8 +29,8 @@ Sie können [Lego Ninjago - LEGO 71708 NINJAGO Marktplatz  Minifiguren-Set mit D
 ℹ️:
 
 - Kinder können die Ninjas mit verschiedenen Waffen ausstatten, einen Ninja-Hut auswählen, um eine neue Identität zu schaffen, oder ein sammelbares Key-Tana kaufen
-- Instructions PLUS bietet eine interaktive Anleitung, die in der kostenlosen LEGO Life-App verfügbar ist und mit Werkzeugen zum Heranzoomen, Drehen und Anzeigen von Modellen ausgestattet ist, um das Bauen zu unterstützen
 - Spieler im Prime Empire-Videospiel müssen auf die bösen Rote Visiere und den bösen Richie auf dem Markt achten, die sie einfangen wollen
+- Instructions PLUS bietet eine interaktive Anleitung, die in der kostenlosen LEGO Life-App verfügbar ist und mit Werkzeugen zum Heranzoomen, Drehen und Anzeigen von Modellen ausgestattet ist, um das Bauen zu unterstützen
 - Enthält 3 Szenen: einen Hutstand mit 6 verschiedenen Ninja-Hüten, einen Waffenladen mit verschiedenen Waffen für Digi-Helden und einen Schwertständer
 - Enthält 9 Minifiguren: Digi Jay, Scott, Avatar Nya, Avatar Cole, Okino, Roter Visier, Richie sowie die exklusiven Avatar Pink Zane und Avatar Harumi
 
