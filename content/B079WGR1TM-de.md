@@ -28,10 +28,10 @@ Sie können [Hama TV Wandhalterung Schwenkbar  Neigbar  32 - 65 Zoll TV Halterun
 
 ℹ️:
 
-- Lieferumfang: 1x TV-Wandhalter FULLMOTION schwarz, Schraubensatz inkl. original Fischer Dübel, 1x Wasserwaage, 1x Bohrschablone, 1x Montageanleitung
-- Vollbewegliche TV-Wandhalterung für den besten Blickwinkel: Bis zu 180° schwenkbar, bis zu +/-15° stufenlos neigbar, auf bis zu 42,5 cm ausziehbar
 - Verstellbare Fernseh Halterung: Für flache und Curved TVs mit einer Bildschirmdiagonale von 81-165 cm (32“- 65"), VESA-Standard 100x100 - 400x400 mm
 - Individuelle Einstellung: Durch die 3 Gelenke lässt sich die TV Halterung jederzeit passend ausrichten, egal ob Home Workout oder gemütlicher TV-Abend
 - Einfache Montage: Dank beiliegender Bohrschablone ist eine schnelle Installation oder auch die Nachjustierung kleinerer Bohrfehler kein Problem
+- Lieferumfang: 1x TV-Wandhalter FULLMOTION schwarz, Schraubensatz inkl. original Fischer Dübel, 1x Wasserwaage, 1x Bohrschablone, 1x Montageanleitung
+- Vollbewegliche TV-Wandhalterung für den besten Blickwinkel: Bis zu 180° schwenkbar, bis zu +/-15° stufenlos neigbar, auf bis zu 42,5 cm ausziehbar
 
 [🛒 Hier!!](https://www.amazon.de/dp/B079WGR1TM/?tag=tolees0ca-21)

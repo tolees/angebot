@@ -28,10 +28,10 @@ Es gibt ein [Diesel Smartwatch DZT2010](https://www.amazon.de/dp/B07J2BC24G/?tag
 
 ℹ️:
 
-- Kompatibel mit Android OS 4.4+ und iOS 9.3+
+- Die voraussichtliche Akkulaufzeit beträgt einen Tag (je nach Nutzungsintensität)
 - Diesel On Full Guard 2.5 - Unisex Display Smartwatch - Durchmesser: 48 mm, Höhe: 13 mm, Bandbreite: 24 mm - 3 ATM Wasserdicht
 - Lieferumfang: 1 x Diesel Display Smartwatch, 1 x Induktionsladegerät (USB Type), 1 x Kurzanleitung, 1 x Garantieheft
-- Die voraussichtliche Akkulaufzeit beträgt einen Tag (je nach Nutzungsintensität)
 - Funktionen: Herzfrequenzmessung, GPS, wasserdicht, Benachrichtigungen, individuelle Zifferblattgestaltung, Musiksteuerung, Bänder zum Wechseln und vieles mehr
+- Kompatibel mit Android OS 4.4+ und iOS 9.3+
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07J2BC24G/?tag=tolees0ca-21)

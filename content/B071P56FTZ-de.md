@@ -28,9 +28,9 @@ Es gibt ein [ONLY Female Oberteil mit 3/4-Ärmeln Bedrucktes XLLight Grey Melang
 
 ℹ️:
 
-- Oberteil in lockerer Passform
 - 3/4-lange Ärmel
-- Materialzusammensetzung: 95% Polyester, 5% Elasthan
 - Rundhalsausschnitt
+- Oberteil in lockerer Passform
+- Materialzusammensetzung: 95% Polyester, 5% Elasthan
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B071P56FTZ/?tag=tolees0ca-21)
