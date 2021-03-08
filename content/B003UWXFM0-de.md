@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '40.04 % rabat auf TP-Link TL-SG1024D 24-Port Gigabit-/ Net'
-date: 2021-03-04 11:20:59
+date: 2021-03-07 23:23:05
 image: 'https://m.media-amazon.com/images/I/41Gz7gYWa5L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B003UWXFM0/?tag=tolees0ca-21'
 descuento: '40.04'
-average: '58.6223076923077'
+average: '58.7926666666666'
 ---
 
 Es gibt ein [TP-Link TL-SG1024D 24-Port Gigabit-/ Netzwerk Switch  Rackmount  48Gbit/s Switching-Kapazität  geschirmte RJ-45 Ports  Metallgehäuse  IGMP-Snooping  unmanaged  Plug-und-Play  schwarz](https://www.amazon.de/dp/B003UWXFM0/?tag=tolees0ca-21) mit aktuellem Preis 59.9 EUR (original: 99.9 EUR) 40.04 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [TP-Link TL-SG1024D 24-Port Gigabit-/ Netzwerk Switch  Rackmount  48
 
 ℹ️:
 
-- Lieferumfang: 24-Port-Gigabit-Desktop/Rackmount-Switch, Stromversorgungskabel, Bedienungsanleitung
-- Auto-Learning von MAC-Adressen, Auto-MDI/MDIX und Autoabstimmung
+- Plug-and-Play-Design, Betriebstemperatur: 0 ° C ~ 40 ° C.
 - 24 10/100/1000Mbps-Ports
 - Innovative energieeffiziente Green IT, spart bis zu 20% Energie
-- Plug-and-Play-Design, Betriebstemperatur: 0 ° C ~ 40 ° C.
+- Lieferumfang: 24-Port-Gigabit-Desktop/Rackmount-Switch, Stromversorgungskabel, Bedienungsanleitung
+- Auto-Learning von MAC-Adressen, Auto-MDI/MDIX und Autoabstimmung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B003UWXFM0/?tag=tolees0ca-21)

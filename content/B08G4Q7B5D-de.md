@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21168 Mincecraft Der Wirrwald Nethe mit 23.34 % Rabatt'
-date: 2021-03-06 10:24:20
+date: 2021-03-07 23:27:57
 image: 'https://m.media-amazon.com/images/I/51AswXfuq1L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Sie können [LEGO 21168 Mincecraft Der Wirrwald Nether Spielset mit Huntress  Ho
 
 ℹ️:
 
-- LEGO Minecraft Spielsets bieten ein neues Minecraft Spielerlebnis. Ein fantasievoller Mix aus LEGO Steinen und Teilen erweckt die Charaktere, Kulissen und Funktionen zum Leben
-- Diese faszinierende LEGO Landschaft ist eine realistische Nachbildung des finsteren Minecraft Wirrwalds
-- Beinhaltet 4 Figuren: Huntress mit Pfeil und Bogen und Rüstung, ein Hoglin mit beweglichem Kopf und 2 Piglins mit Schwertern. Explosions- und Felssturz-Funktionen sind ins Modell eingebaut
-- LEGO Minecraft Der Wirrwald (21168) lässt ein Kind seiner Leidenschaft für Minecraft auch in der echten Welt nachgehen. Kinder können aktiv spielen und spannende Abenteuer erleben
 - Für Fans ab 8 Jahren. Tolles Geschenk für Minecraft Spieler, die ihrer Leidenschaft für das Online-Spiel auch in der echten Welt nachgehen möchten
-- Die Spieler helfen Huntress durch eine gefährliche Landschaft mit herabstürzenden Felsbrocken, feindlichen Kreaturen und einem Lavastrom. Mit Sprengstoff fällen sie einen Baum, der ihnen als Brücke zu neuen Abenteuern dient
 - Das Modell ist 13 cm hoch, 25 cm breit und 14 cm tief. Das Set lässt Kinder aktiv spielen und ist ein toller Blickfang im Kinderzimmer
+- Diese faszinierende LEGO Landschaft ist eine realistische Nachbildung des finsteren Minecraft Wirrwalds
+- Die Spieler helfen Huntress durch eine gefährliche Landschaft mit herabstürzenden Felsbrocken, feindlichen Kreaturen und einem Lavastrom. Mit Sprengstoff fällen sie einen Baum, der ihnen als Brücke zu neuen Abenteuern dient
+- LEGO Minecraft Der Wirrwald (21168) lässt ein Kind seiner Leidenschaft für Minecraft auch in der echten Welt nachgehen. Kinder können aktiv spielen und spannende Abenteuer erleben
+- LEGO Minecraft Spielsets bieten ein neues Minecraft Spielerlebnis. Ein fantasievoller Mix aus LEGO Steinen und Teilen erweckt die Charaktere, Kulissen und Funktionen zum Leben
+- Beinhaltet 4 Figuren: Huntress mit Pfeil und Bogen und Rüstung, ein Hoglin mit beweglichem Kopf und 2 Piglins mit Schwertern. Explosions- und Felssturz-Funktionen sind ins Modell eingebaut
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08G4Q7B5D/?tag=tolees0ca-21)

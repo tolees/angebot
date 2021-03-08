@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42095 Technic Ferngesteuerter Stunt mit 22.04 % Rabatt'
-date: 2021-03-06 16:45:03
+date: 2021-03-07 23:28:54
 image: 'https://m.media-amazon.com/images/I/51PPXrkFnwL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07FNMXFQF/?tag=tolees0ca-21'
 descuento: '22.04'
-average: '64.5301572327045'
+average: '64.5165937500001'
 ---
 
 Sie können [LEGO 42095 Technic Ferngesteuerter Stunt-Racer Spielzeug  2-in-1-Rennwagen Modell mit Motorfunktionen  Rennwagen-Sammlung](https://www.amazon.de/dp/B07FNMXFQF/?tag=tolees0ca-21) mit Preis 62.36 EUR (original: 79.99 EUR) 22.04 % Rabatt hier:
