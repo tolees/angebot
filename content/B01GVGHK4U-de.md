@@ -28,15 +28,15 @@ Es gibt ein [KOSMOS 692742 - EXIT - Das Spiel - Das geheime Labor  Kennerspiel d
 
 ℹ️:
 
-- Für alle, die Herausforderungen lieben und sich nicht vor kniffligen Rätseln scheuen
-- Im praktischen Format: Ideales Partyspiel und Geburtstagsgeschenk
-- Aus der erfolgreichen Spielereihe EXIT – Das Spiel. Das Escape-Room-Spiel für Zuhause
-- Teamgeist, Kreativität und Kombinationsgeschick sind gefragt
+- Einmal spielbar, da beim Lösen der verblüffenden Rätsel das Material zum Teil verändert wird
 - Mit Timer und Tutorial in der kostenlosen Kosmos-Erklär-App. Spiel ist mit und ohne App spielbar
-- Kooperatives Eventspiel im Level Fortgeschrittene für 1–4 Spieler
+- Aus der erfolgreichen Spielereihe EXIT – Das Spiel. Das Escape-Room-Spiel für Zuhause
 - Ausgezeichnet mit dem Kennerspiel des Jahres 2017
 - Gesellschaftsspiel für Erwachsene und Kinder ab 12 Jahren
+- Kooperatives Eventspiel im Level Fortgeschrittene für 1–4 Spieler
 - Entkommt ihr dem geheimen Labor?
-- Einmal spielbar, da beim Lösen der verblüffenden Rätsel das Material zum Teil verändert wird
+- Für alle, die Herausforderungen lieben und sich nicht vor kniffligen Rätseln scheuen
+- Teamgeist, Kreativität und Kombinationsgeschick sind gefragt
+- Im praktischen Format: Ideales Partyspiel und Geburtstagsgeschenk
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01GVGHK4U/?tag=tolees0ca-21)

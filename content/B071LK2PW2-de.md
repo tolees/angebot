@@ -28,12 +28,12 @@ Es gibt ein [Kosmos 694043 - EXIT - Das Spiel - Das Haus der Rätsel - Die Drei?
 
 ℹ️:
 
-- Mit kostenloser Erklär-App. Mit und ohne App spielbar!
-- Spiel für Erwachsene und Kinder ab 10 Jahren. Für 1 – 4 Spieler
-- Level: Einsteiger
-- Spieldauer: 45 - 90 Minuten
 - Aus der erfolgreichen Spielereihe „EXIT – Das Spiel“. Das Escape-Room-Spiel für zu Hause
-- Die drei??? haben zu einem geheimnisvollen Treffen eingeladen – doch wo sind Justus, Peter und Bob? Löst den spezialgelagerten Sonderfall. Spannendes Rätsel für Anfänger
+- Spieldauer: 45 - 90 Minuten
 - Partyspiel im praktischen Format: toll auch als Geburtstagsgeschenk oder Mitbringsel
+- Die drei??? haben zu einem geheimnisvollen Treffen eingeladen – doch wo sind Justus, Peter und Bob? Löst den spezialgelagerten Sonderfall. Spannendes Rätsel für Anfänger
+- Mit kostenloser Erklär-App. Mit und ohne App spielbar!
+- Level: Einsteiger
+- Spiel für Erwachsene und Kinder ab 10 Jahren. Für 1 – 4 Spieler
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B071LK2PW2/?tag=tolees0ca-21)
