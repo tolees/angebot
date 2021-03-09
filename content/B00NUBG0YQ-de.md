@@ -29,7 +29,7 @@ Es gibt ein [Ray-Ban Damen Sonnenbrille](https://www.amazon.de/dp/B00NUBG0YQ/?ta
 ℹ️:
 
 - Inkl. Ray-Ban Mikrofasertuch und Etui
-- Rahmen: Havana Braun Matt / Gläser Braun Verlauf
 - Hoher Tragekomfort durch sehr geringes Gewicht und angenehm gummierter Kunststoff Oberfläche
+- Rahmen: Havana Braun Matt / Gläser Braun Verlauf
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00NUBG0YQ/?tag=tolees0ca-21)

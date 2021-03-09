@@ -28,11 +28,11 @@ Sie können [Arlo Smart Chime kabellose Klingel  für Arlo Doorbell  akustisches
 
 ℹ️:
 
-- Einstellbare Lautstärke, Stummschaltung und unterschiedliche Sounds
-- Smart Siren 80+ Dezibel Smart Sirene, die je nach Bewegung oder Geräusch ausgelöst werden kann
-- Sofortige Arlo-Doorbellbenachrichtigungen aktivieren sofort Ihren Chime-Klingelton, wenn jemand auf Ihre Arlo-Türklingel drückt
 - Erweiterung Ihrer Arlo-Doorbell. Schließen Sie einfach die Arlo-Chime an und fügen Sie den Klingelton Ihrem Arlo-Konto hinzu
-- Arlo Basisstation erforderlich, um eine Arlo-Audio-Doorbell oder eine Arlo Chime zu verwenden
 - Sofortige Bewegungs- und Geräuschbenachrichtigungen
+- Smart Siren 80+ Dezibel Smart Sirene, die je nach Bewegung oder Geräusch ausgelöst werden kann
+- Arlo Basisstation erforderlich, um eine Arlo-Audio-Doorbell oder eine Arlo Chime zu verwenden
+- Einstellbare Lautstärke, Stummschaltung und unterschiedliche Sounds
+- Sofortige Arlo-Doorbellbenachrichtigungen aktivieren sofort Ihren Chime-Klingelton, wenn jemand auf Ihre Arlo-Türklingel drückt
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07JZT6ZY9/?tag=tolees0ca-21)

@@ -28,7 +28,7 @@ Es gibt ein [Tommy Hilfiger Poppy Lrg Za Wallet  Damen Geldbörse  Black  11.5x2
 
 ℹ️:
 
-- Innenmaterial: 100% Nylon
 - Obermaterial: 95% Nylon, 5% Polyurethan
+- Innenmaterial: 100% Nylon
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0713THZ4M/?tag=tolees0ca-21)

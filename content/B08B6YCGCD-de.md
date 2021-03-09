@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '33.36 % rabat auf Walt Disney - Ruf der Wildnis [Blu-ray]'
-date: 2021-03-07 05:48:53
+date: 2021-03-09 01:26:29
 image: 'https://m.media-amazon.com/images/I/51kLZWXqOfL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Walt Disney'
 buyurl: 'https://www.amazon.de/dp/B08B6YCGCD/?tag=tolees0ca-21'
 descuento: '33.36'
-average: '14.4229365079365'
+average: '14.353671875'
 ---
 
 Es gibt ein [Walt Disney - Ruf der Wildnis [Blu-ray]](https://www.amazon.de/dp/B08B6YCGCD/?tag=tolees0ca-21) mit aktuellem Preis 9.99 EUR (original: 14.99 EUR) 33.36 % Rabatt hier:
