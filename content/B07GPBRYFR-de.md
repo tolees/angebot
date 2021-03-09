@@ -28,7 +28,7 @@ Sie können [Camano Herren 3652000 Socken  Grau  Anthracite 0008   47/50  Herste
 
 ℹ️:
 
-- Angenehm weiche und bequeme Socken im pflegeleichten und strapazierfähigen Materialmix, ideal für die Ansprüche aktiver Frauen und Männer.
 - Mit softem Pikee Bündchen und entlastender Frottee-Polsterung im Fersen-, Zehen- und Sohlenbereich, für besten Tragekomfort und lange Haltbarkeit, handgekettelt. Unisex-Sport- und Wandersocken in schlichtem Design mit mittelhohem Schaft und eingearbeiteter Logo-Signatur. Die verstärkte Sohle und der weiche Piqué Bund sorgen für besonderen Komfort, Schutz und Wohlgefühl.
+- Angenehm weiche und bequeme Socken im pflegeleichten und strapazierfähigen Materialmix, ideal für die Ansprüche aktiver Frauen und Männer.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07GPBRYFR/?tag=tolees0ca-21)
