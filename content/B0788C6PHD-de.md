@@ -28,8 +28,8 @@ Es gibt ein [Tommy Hilfiger Herren Track TOP LS HWK Schlafanzugoberteil  Blau  N
 
 ℹ️:
 
-- Regelmäßige Passform in der Marine
 - Tommy Hilfiger Signatur Logo am Arm gleichzeitig
 - Schlafanzugoberteil mit langem Arm
+- Regelmäßige Passform in der Marine
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0788C6PHD/?tag=tolees0ca-21)
