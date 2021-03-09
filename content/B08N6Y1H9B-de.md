@@ -28,14 +28,14 @@ Sie können [DYON Smart 42 AD 105 4 cm  42 Zoll  Fernseher  Full-HD  HD Triple T
 
 ℹ️:
 
-- HbbTV, Streaming Dienste: Prime Video, Netflix, YouTube, Disney+, DAZN, Chromcast, uvm.
-- Wandhalterung (nicht mitgeliefert): 200 x 200 mm
-- Digitaler Empfang: HD Triple Tuner für DVB-S2, DVB-C und DVB-T2 mit HEVC
 - Auflösung: 1.920 x 1.080 Pixel (Full-HD) / Bildwiederholrate: 50/60 Hz
-- Typ: Android 9.0 LED-Fernseher mit 105,4 cm (41,5 Zoll) Bildschirmdiagonale
-- Abmessung (mit Standfuß): 95,1 x 59,7 x 22,2 cm (BxHxT)
+- Digitaler Empfang: HD Triple Tuner für DVB-S2, DVB-C und DVB-T2 mit HEVC
+- HbbTV, Streaming Dienste: Prime Video, Netflix, YouTube, Disney+, DAZN, Chromcast, uvm.
 - Android TV 9.0 mit Google Assistant und Zugriff auf den Google Play Store
-- Lieferumfang: Smart 42 AD, Fernbedienung inkl. Batterien, Standfuß, Schnellstart-Bedienungsanleitung
 - Fernbedienung: Netflix und YouTube Taste für Schnellstart
+- Typ: Android 9.0 LED-Fernseher mit 105,4 cm (41,5 Zoll) Bildschirmdiagonale
+- Lieferumfang: Smart 42 AD, Fernbedienung inkl. Batterien, Standfuß, Schnellstart-Bedienungsanleitung
+- Abmessung (mit Standfuß): 95,1 x 59,7 x 22,2 cm (BxHxT)
+- Wandhalterung (nicht mitgeliefert): 200 x 200 mm
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08N6Y1H9B/?tag=tolees0ca-21)

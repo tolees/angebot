@@ -28,10 +28,10 @@ Es gibt ein [LEGO 42120 Technic Luftkissenboot für Rettungseinsätze  2-in-1 Mo
 
 ℹ️:
 
-- Sieh dir all die coolen Funktionen an. Das Modell mit Cockpit, rotierendem Warnlicht und drehenden Luftschrauben scheint zu schweben – genau wie ein echtes Luftkissenfahrzeug
 - Dieses starke Luftkissenboot ist eine tolle Belohnung für Kinder, die Rettungsfahrzeuge lieben. Mit seinen unzähligen authentischen Details eignet sich das Modell perfekt für spannende Rollenspiele
 - Das 2-in-1-Design ermöglicht jungen Helden noch mehr spannende Rollenspiele. Das Luftkissenboot lässt sich auch in ein zweimotoriges Flugzeug mit beweglichen Seiten- und Querrudern umbauen
 - Das Luftkissenboot ist 12 cm hoch, 24 cm lang und 13 cm breit
+- Sieh dir all die coolen Funktionen an. Das Modell mit Cockpit, rotierendem Warnlicht und drehenden Luftschrauben scheint zu schweben – genau wie ein echtes Luftkissenfahrzeug
 - Das LEGO Technic Luftkissenboot für Rettungseinsätze (42120) ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Kinder ab 8 Jahren, die sich für Rettungsfahrzeuge begeistern
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4SR6C8/?tag=tolees0ca-21)

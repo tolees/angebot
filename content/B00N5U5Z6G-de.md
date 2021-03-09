@@ -28,11 +28,11 @@ Es gibt ein [Fjällräven Herren Barents Pro Trousers grau  Dk Grey-Dk Grey  52 
 
 ℹ️:
 
-- Verstärkt, sechs praktische Taschen. Hinweis: Enthält nicht-textile Teile tierischen Ursprungs (Lederapplikation)
+- Materialzusammensetzung: 65% Polyester, 35% Baumwolle
+- Strapazierfähige G-1000-Trekkinghose
+- Länge: lang
 - Aus robustem, wind- und wasserabweisendem G-1000 Original
 - Ungekürzte Beinabschlüsse; Knieschutztaschen , Kein Weichspüler benutzen , Mit ähnlichen Farben waschen
-- Strapazierfähige G-1000-Trekkinghose
-- Materialzusammensetzung: 65% Polyester, 35% Baumwolle
-- Länge: lang
+- Verstärkt, sechs praktische Taschen. Hinweis: Enthält nicht-textile Teile tierischen Ursprungs (Lederapplikation)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00N5U5Z6G/?tag=tolees0ca-21)

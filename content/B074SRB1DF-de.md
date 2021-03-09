@@ -29,8 +29,8 @@ Sie können [Tommy Hilfiger Herren CORE Cotton-Silk CNECK Pullover  Blau  Sky Ca
 ℹ️:
 
 - Ausschnitt mit aufgesetzten Tommy-Streifen an der Innenseite
+- Kragen, Bündchen und Saum aus Rippstrick
 - Aufgestickte Tommy Hilfiger Flagge auf der Brust
 - Rundhalsausschnitt
-- Kragen, Bündchen und Saum aus Rippstrick
 
 [🛒 Hier!!](https://www.amazon.de/dp/B074SRB1DF/?tag=tolees0ca-21)

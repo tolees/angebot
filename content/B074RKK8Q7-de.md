@@ -29,7 +29,7 @@ Sie können [POC Orb Clarity  Uranium Black/Spektris Orange  ONE SIZE](https://w
 ℹ️:
 
 - maximiertes blickfeld durch die neue, innovative rahmenform
-- Stoff typ: 100% Polyester
 - Sporttyp: Wintersport
+- Stoff typ: 100% Polyester
 
 [🛒 Hier!!](https://www.amazon.de/dp/B074RKK8Q7/?tag=tolees0ca-21)

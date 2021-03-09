@@ -28,10 +28,10 @@ Es gibt ein [Kärcher Schmutzwasser-Tauchpumpe SP 5 Dual  Fördermenge: max. 950
 
 ℹ️:
 
-- Lieferumfang: Tauchpumpe, Schlauchanschlussstück 1 1/4, Anschlusskabel 10 m
 - Schafft bis zu 9.500 l/h klares und schmutziges Wasser und pumpt zuverlässig verschmutztes Wasser mit bis zu 20 Millimeter großen Schmutzpartikeln ab
-- Der komfortable Tragegriff lässt sich bequem fassen und kann zusätzlich als Seilhalterung genutzt werden
-- Die robuste Tauchpumpe SP 5 Dual mit 2-in-1-Funktion für Schmutzwasser, 1-mm-Flachabsaugung und höhenverstellbarem Schwimmerschalter
 - Anwendungsgebiete: Zum Abpumpen von Wasser aus Gartenteichen und Pools, für Wasserschäden im Haus und im Keller (Waschmaschinen-Leckage/Grundwassereintritt), für den Einsatz bei Überschwemmungen
+- Lieferumfang: Tauchpumpe, Schlauchanschlussstück 1 1/4, Anschlusskabel 10 m
+- Die robuste Tauchpumpe SP 5 Dual mit 2-in-1-Funktion für Schmutzwasser, 1-mm-Flachabsaugung und höhenverstellbarem Schwimmerschalter
+- Der komfortable Tragegriff lässt sich bequem fassen und kann zusätzlich als Seilhalterung genutzt werden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B077ZGZZ6M/?tag=tolees0ca-21)

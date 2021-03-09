@@ -28,10 +28,10 @@ Sie können [Hans im Glück HIGD0101 Carcassonne Wirtshäuser und Kathedralen - 
 
 ℹ️:
 
-- Die 1. Erweiterung des kompetitiven Familienspiels bietet allen Fans von Carcassonne - dem Spiel des Jahres 2001 - neue Herausforderungen
-- Die Erweiterung benötigt das Carcassonne Grundspiel und bringt das komplette Material für einen 6. Spieler und 6 Punktekarten für die komfortable Wertung
 - 2-6 Spieler | Ab 7+ Jahren | Bis zu 40 Minuten Spielzeit je Partie | Spiel in Deutsch
 - Mit dem großen Gefolgsmann wird so manche Stadt oder Wiese im Handumdrehen übernommen und bringt so weitere strategische Möglichkeiten ins Spiel
 - Eine Kathedrale verdreifacht den Wert einer Stadt, Wirtshäuser verdoppeln den Wert der Straßen - aber nur, wenn die Städte und Straßen dann zum Spielende auch fertig sind
+- Die Erweiterung benötigt das Carcassonne Grundspiel und bringt das komplette Material für einen 6. Spieler und 6 Punktekarten für die komfortable Wertung
+- Die 1. Erweiterung des kompetitiven Familienspiels bietet allen Fans von Carcassonne - dem Spiel des Jahres 2001 - neue Herausforderungen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07P6Q5FGZ/?tag=tolees0ca-21)
