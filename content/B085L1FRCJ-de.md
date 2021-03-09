@@ -28,13 +28,13 @@ Sie können [Samsung TU8079 138 cm  55 Zoll  LED Fernseher  Ultra HD  HDR10+  Tr
 
 ℹ️:
 
-- Auflösung 3.840 x 2.160 Pixel (4K/Ultra HD), HDR10+, PurColor, UHD Dimming, Auto Game Mode, Ambient Mode
 - HD+ integriert: 24 private HD- und 2 UHD-Sender sowie HD+ Komfort-Funktion mit Neustart, Mediatheken und TV-Guide. 6 Monate gratis testen. SAT-Empfang benötigt.
-- Typ: 4K UHD, Flat, LED Fernseher, Rahmenlos Schieferschwarz
-- Lieferumfang: Samsung TU8079 138 cm (55 Zoll) mit Kielfuß, Fernbedienung Smarte Remote (schwarz), Stromkabel, Anleitung
+- Alexa integriert, Bixby integriert, Kompatibel mit Google Assistant und Airplay 2,
 - HD+ integriert: 23 private HD- und 2 UHD-Sender sowie HD+ Komfort-Funktion mit Neustart, Mediatheken und TV-Guide. 6 Monate gratis testen. SAT-Empfang benötigt
 - Digitaler Fernsehempfang (DVB): DVB-C/S2/T2 HD, Analoger Tuner, CI+, 3x HDMI, 2x USB, 1x LAN, WLAN, 1x CI+-Slot, 2x Antenneneingang
 - Streaming-Dienste: Amazon Video, Netflix, Zattoo, Youtube, Maxdome, ARD, DAZN, Gamefly, Ran, Videoland, Videociety, Wuaki, Prosieben Apps, etc.
-- Alexa integriert, Bixby integriert, Kompatibel mit Google Assistant und Airplay 2,
+- Typ: 4K UHD, Flat, LED Fernseher, Rahmenlos Schieferschwarz
+- Lieferumfang: Samsung TU8079 138 cm (55 Zoll) mit Kielfuß, Fernbedienung Smarte Remote (schwarz), Stromkabel, Anleitung
+- Auflösung 3.840 x 2.160 Pixel (4K/Ultra HD), HDR10+, PurColor, UHD Dimming, Auto Game Mode, Ambient Mode
 
 [🛒 Hier!!](https://www.amazon.de/dp/B085L1FRCJ/?tag=tolees0ca-21)

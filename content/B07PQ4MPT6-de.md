@@ -28,10 +28,10 @@ Es gibt ein [Samsung C49RG94SSU 124 20 cm  49 Zoll  Curved Gaming Monitor  5120 
 
 ℹ️:
 
-- Kontrast 3.000:1, Helligkeit 600 cd/m²
 - Lieferumfang: Samsung C49RG94SSU 124,20 cm (49 Zoll) Curved Gaming Monitor schwarz, Netzteil, HDMI Kabel, Display Port Kabel, Quick Setup Guide
-- HDMI (1x), Display Port (2x), UBS (4x)
 - Display HDR 1000, Eye Saver Mode, Flicker Free, Bildwiederholungsrate 120 Hz
 - Super Ultra Wide Curved Monitor, Dual WQHD, 49 Zoll, 5120 x 1440 Pixel
+- Kontrast 3.000:1, Helligkeit 600 cd/m²
+- HDMI (1x), Display Port (2x), UBS (4x)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07PQ4MPT6/?tag=tolees0ca-21)

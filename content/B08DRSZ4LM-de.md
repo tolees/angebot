@@ -28,9 +28,9 @@ Es gibt ein [Samsung Galaxy Tab A7 LTE - Tablet 32GB  3GB RAM  Dark Gray  grau](
 
 ℹ️:
 
-- Samsung Knox
 - 10,4 "dynamische Anzeige
 - 7.040mAh Batterie
+- Samsung Knox
 - Bis zu 1 TB mit MicroSD-Karte
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08DRSZ4LM/?tag=tolees0ca-21)
