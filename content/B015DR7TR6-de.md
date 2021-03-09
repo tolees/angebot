@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '36.57 % rabat auf Paramount - Der Schuh des Manitu - Digit'
-date: 2021-03-06 16:37:26
+date: 2021-03-09 06:32:27
 image: 'https://m.media-amazon.com/images/I/519SVxExDVL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Paramount'
 buyurl: 'https://www.amazon.de/dp/B015DR7TR6/?tag=tolees0ca-21'
 descuento: '36.57'
-average: '7.49615384615385'
+average: '7.35714285714286'
 ---
 
 Es gibt ein [Paramount - Der Schuh des Manitu - Digitally Remastered [Blu-ray]](https://www.amazon.de/dp/B015DR7TR6/?tag=tolees0ca-21) mit aktuellem Preis 5.55 EUR (original: 8.75 EUR) 36.57 % Rabatt hier:

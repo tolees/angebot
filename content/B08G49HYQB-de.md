@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42117 Technic Rennflugzeug oder Jet mit 22.82 % Rabatt'
-date: 2021-03-07 05:37:46
+date: 2021-03-09 06:01:33
 image: 'https://m.media-amazon.com/images/I/518L4H0aOkL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G49HYQB/?tag=tolees0ca-21'
 descuento: '22.82'
-average: '8.82467532467532'
+average: '8.81038461538461'
 ---
 
 Sie können [LEGO 42117 Technic Rennflugzeug oder Jetflugzeug 2-in-1 Spielzeug  Bauset für 7-jährige Kinder](https://www.amazon.de/dp/B08G49HYQB/?tag=tolees0ca-21) mit Preis 7.71 EUR (original: 9.99 EUR) 22.82 % Rabatt hier:
@@ -28,11 +28,10 @@ Sie können [LEGO 42117 Technic Rennflugzeug oder Jetflugzeug 2-in-1 Spielzeug  
 
 ℹ️:
 
-- Instructions PLUS ist eine interaktive Bauanleitung, mit der das Bauen dieses Modells noch mehr Spaß macht. Sie ist in der kostenlosen LEGO Building Instructions App verfügbar und enthält Vergrößerungs- und Drehfunktionen
-- Kinder, die Spielzeugflieger lieben, können unzählige Details entdecken. Aufklappbare Triebwerksabdeckungen, das Fahrwerk und der drehende Propeller ermöglichen Rollenspiele und rasante Flüge
-- Das LEGO Technic Rennflugzeug (42117) ist ein tolles Geschenk für Nachwuchspiloten. Die kräftigen Farben, die Aufkleber der Sponsoren und der drehende Propeller lassen das Modell wie das echte Vorbild aussehen
-- Ein tolles Geschenk zu jedem Anlass – für Kinder ab 7 Jahren, die Spielzeug-Stuntflieger lieben
-- Kinder werden diese robuste Kunstflugmaschine gerne zusammenbauen und dann in einen Düsenflieger verwandeln
-- Das Rennflugzeug ist 9 cm hoch, 18 cm lang und 23 cm breit
+- Steer on the ground as you prepare for takeoff and see the propeller spin, then recreate the maneuvers of the worlds top pilots
+- Features a 2 in 1 plane model with opening engine covers, landing gear and spinning propeller for plane racing role play
+- With vibrant colors, sponsor details and a spinning propeller that complete a cool little gift for any occasion – it looks so real
+- Comes with Instructions PLUS available in the free LEGO Building Instructions app, it has zoom and rotate tools to help children build
+- Kids will love building this durable aircraft toy, then transforming it into a Jet Aeroplane for even more creative aerobatic fun
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08G49HYQB/?tag=tolees0ca-21)

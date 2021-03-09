@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '21.89 % rabat auf Sony Alpha 6600 | APS-C Spiegellose Kame'
-date: 2021-03-07 16:29:16
+date: 2021-03-09 06:18:45
 image: 'https://m.media-amazon.com/images/I/51128LFORDL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B07X78SMWP/?tag=tolees0ca-21'
 descuento: '21.89'
-average: '1303.00595505617'
+average: '1302.40588888888'
 ---
 
 Es gibt ein [Sony Alpha 6600 | APS-C Spiegellose Kamera   Schneller 0 02s Autofokus  optische 5-Achsen-Bildstabilisierung im Gehäuse  4K HLG Videoaufnahmen  neigbares Display für Vlogging ](https://www.amazon.de/dp/B07X78SMWP/?tag=tolees0ca-21) mit aktuellem Preis 1249.0 EUR (original: 1599.0 EUR) 21.89 % Rabatt hier:

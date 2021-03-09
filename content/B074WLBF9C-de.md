@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pandora Damen Moments Offen gearbeitetes mit 24.00 % Rabatt'
-date: 2021-03-07 05:40:15
+date: 2021-03-09 06:01:32
 image: 'https://m.media-amazon.com/images/I/31yJEqLzp5L._SL400_.jpg'
 comments: true
 category: ofertas

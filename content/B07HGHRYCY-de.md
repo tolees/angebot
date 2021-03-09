@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL Charge 4 Bluetooth-Lautsprecher in S mit 38.60 % Rabatt'
-date: 2021-03-08 04:57:40
+date: 2021-03-09 06:05:03
 image: 'https://m.media-amazon.com/images/I/41O3OkTCjzL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'JBL'
 buyurl: 'https://www.amazon.de/dp/B07HGHRYCY/?tag=tolees0ca-21'
 descuento: '38.60'
-average: '119.375918367346'
+average: '119.186399999999'
 ---
 
 Sie können [JBL Charge 4 Bluetooth-Lautsprecher in Schwarz – Wasserfeste  portable Boombox mit integrierter Powerbank – Mit nur einer Akku-Ladung bis zu 20 Stunden kabellos Musik streamen](https://www.amazon.de/dp/B07HGHRYCY/?tag=tolees0ca-21) mit Preis 109.9 EUR (original: 179.0 EUR) 38.60 % Rabatt hier:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.74 % rabat auf PUMA Damen Carina L Sneaker  WhiteWhite '
-date: 2021-03-07 05:27:17
+date: 2021-03-09 06:34:25
 image: 'https://m.media-amazon.com/images/I/31MuZb5xrsL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.de/dp/B07JGHHVS8/?tag=tolees0ca-21'
 descuento: '16.74'
-average: '42.6186274509803'
+average: '42.8952830188678'
 ---
 
 Es gibt ein [PUMA Damen Carina L Sneaker  WhiteWhite Silver  39 EU](https://www.amazon.de/dp/B07JGHHVS8/?tag=tolees0ca-21) mit aktuellem Preis 49.95 EUR (original: 59.99 EUR) 16.74 % Rabatt hier:
