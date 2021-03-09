@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko 51624 POP Marvel: The Falcon and T mit 23.61 % Rabatt'
-date: 2021-03-08 05:01:49
+title: 'Funko 51624 POP Marvel: The Falcon and T mit 23.54 % Rabatt'
+date: 2021-03-09 05:59:32
 image: 'https://m.media-amazon.com/images/I/41beeciPSXL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [  ]
 actualPrice: 9.19 EUR
 currency: EUR
 price: 9.19
-comparePrice: 12.03 EUR
+comparePrice: 12.02 EUR
 prodname: 'Funko 51624 POP Marvel: The Falcon and The Winter Soldier – Falcon'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Funko'
 buyurl: 'https://www.amazon.de/dp/B08KGSF6T1/?tag=tolees0ca-21'
-descuento: '23.61'
-average: '10.0374999999999'
+descuento: '23.54'
+average: '9.9723076923076'
 ---
 
-Sie können [Funko 51624 POP Marvel: The Falcon and The Winter Soldier – Falcon](https://www.amazon.de/dp/B08KGSF6T1/?tag=tolees0ca-21) mit Preis 9.19 EUR (original: 12.03 EUR) 23.61 % Rabatt hier:
+Sie können [Funko 51624 POP Marvel: The Falcon and The Winter Soldier – Falcon](https://www.amazon.de/dp/B08KGSF6T1/?tag=tolees0ca-21) mit Preis 9.19 EUR (original: 12.02 EUR) 23.54 % Rabatt hier:
 
 [![Funko 51624 POP Marvel: The Falcon and T](https://m.media-amazon.com/images/I/41beeciPSXL._SL400_.jpg)](https://www.amazon.de/dp/B08KGSF6T1/?tag=tolees0ca-21)
 
