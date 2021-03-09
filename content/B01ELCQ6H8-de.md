@@ -1,36 +1,36 @@
 ---
 layout: post
-title: '16.27 % rabat auf Puma / Puma Puma Basic Short Crew Unisex'
-date: 2021-02-18 14:33:11
-image: 'https://m.media-amazon.com/images/I/31-2iNxDTpL._SL200_.jpg'
+title: '21.03 % rabat auf Puma / Puma Puma Basic Short Crew Unisex'
+date: 2021-03-09 11:17:26
+image: 'https://m.media-amazon.com/images/I/31-2iNxDTpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01ELCQ6H8-de Puma / Puma Puma Basic Short Crew Unisex Sporsocken im...'
 sku: 'B01ELCQ6H8-de'
 tags: [  ]
-actualPrice: 20.07 EUR
+actualPrice: 18.93 EUR
 currency: EUR
-price: 20.07
+price: 18.93
 comparePrice: 23.97 EUR
 prodname: 'Puma / Puma Puma Basic Short Crew Unisex Sporsocken im Farbmix. 9 Paar  43/46 - 9 Paar  Schwarz'
 country: 'de'
 flag: '🇩🇪'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.de/dp/B01ELCQ6H8/?tag=tolees0ca-21'
-descuento: '16.27'
-average: '20.61'
+descuento: '21.03'
+average: '20.4572727272727'
 ---
 
-Es gibt ein [Puma / Puma Puma Basic Short Crew Unisex Sporsocken im Farbmix. 9 Paar  43/46 - 9 Paar  Schwarz](https://www.amazon.de/dp/B01ELCQ6H8/?tag=tolees0ca-21) mit aktuellem Preis 20.07 EUR (original: 23.97 EUR) 16.27 % Rabatt hier:
+Es gibt ein [Puma / Puma Puma Basic Short Crew Unisex Sporsocken im Farbmix. 9 Paar  43/46 - 9 Paar  Schwarz](https://www.amazon.de/dp/B01ELCQ6H8/?tag=tolees0ca-21) mit aktuellem Preis 18.93 EUR (original: 23.97 EUR) 21.03 % Rabatt hier:
 
-[![Puma / Puma Puma Basic Short Crew Unisex](https://m.media-amazon.com/images/I/31-2iNxDTpL._SL200_.jpg)](https://www.amazon.de/dp/B01ELCQ6H8/?tag=tolees0ca-21)
+[![Puma / Puma Puma Basic Short Crew Unisex](https://m.media-amazon.com/images/I/31-2iNxDTpL._SL400_.jpg)](https://www.amazon.de/dp/B01ELCQ6H8/?tag=tolees0ca-21)
 
 ℹ️:
 
-- etwas kürzerer Bund
-- 9 Paar Puma Short Crew Socken
-- Puma Markenqualität
 - Unisex für Damen und Herren
+- Puma Markenqualität
+- 9 Paar Puma Short Crew Socken
+- etwas kürzerer Bund
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01ELCQ6H8/?tag=tolees0ca-21)

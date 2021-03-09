@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '26.09 % rabat auf TP-Link TL-SG108 V3 8-Ports Gigabit Netz'
-date: 2021-03-08 05:21:29
+date: 2021-03-09 11:20:54
 image: 'https://m.media-amazon.com/images/I/41CWSmfzytL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B01EXDG2MO/?tag=tolees0ca-21'
 descuento: '26.09'
-average: '22.22976'
+average: '22.2277165354331'
 ---
 
 Es gibt ein [TP-Link TL-SG108 V3 8-Ports Gigabit Netzwerk Switch  bis 2000MBit/s im Vollduplexmodus  geschirmte RJ-45 Ports  Metallgehäuse  optimiert Datenverkehr  IGMP-Snooping  unmanaged  blau metallic](https://www.amazon.de/dp/B01EXDG2MO/?tag=tolees0ca-21) mit aktuellem Preis 22.1 EUR (original: 29.9 EUR) 26.09 % Rabatt hier:
@@ -28,12 +28,12 @@ Es gibt ein [TP-Link TL-SG108 V3 8-Ports Gigabit Netzwerk Switch  bis 2000MBit/s
 
 ℹ️:
 
-- Lieferumfang, TL-SG108, Schnellinstallationsanleitung, Netzteiladapter
-- Green-Ethernet zum Energiesparen
-- Metallgehäuse für Tischaufbau oder Wandmontage
-- Unterstützt QoS nach IEEE802.1p sowie IGMP-Snooping
-- 8 10/100/1000Mbit/s-RJ45-Ports mit Autoabstimmung und Auto-MDI/MDIX
 - Plug-and-Play, keine Konfiguration notwendig
 - Flusskontrolle nach IEEE802.3x für zuverlässige Datenübertragung
+- Unterstützt QoS nach IEEE802.1p sowie IGMP-Snooping
+- 8 10/100/1000Mbit/s-RJ45-Ports mit Autoabstimmung und Auto-MDI/MDIX
+- Metallgehäuse für Tischaufbau oder Wandmontage
+- Lieferumfang, TL-SG108, Schnellinstallationsanleitung, Netzteiladapter
+- Green-Ethernet zum Energiesparen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01EXDG2MO/?tag=tolees0ca-21)

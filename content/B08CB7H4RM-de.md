@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '16.67 % rabat auf Funko 52873 POP Star Wars: Valentines-St'
-date: 2021-03-05 07:01:47
+title: '30.13 % rabat auf Funko 52873 POP Star Wars: Valentines-St'
+date: 2021-03-09 11:14:30
 image: 'https://m.media-amazon.com/images/I/419jfV-PuzL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,28 @@ author: ring
 slug: 'B08CB7H4RM-de Funko 52873 POP Star Wars: Valentines-Stormtrooper w/Heart...'
 sku: 'B08CB7H4RM-de'
 tags: [  ]
-actualPrice: 19.99 EUR
+actualPrice: 16.0 EUR
 currency: EUR
-price: 19.99
-comparePrice: 23.99 EUR
+price: 16.0
+comparePrice: 22.9 EUR
 prodname: 'Funko 52873 POP Star Wars: Valentines-Stormtrooper w/Heart  Multicolour'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Funko'
 buyurl: 'https://www.amazon.de/dp/B08CB7H4RM/?tag=tolees0ca-21'
-descuento: '16.67'
-average: '25.3390196078434'
+descuento: '30.13'
+average: '24.7040350877195'
 ---
 
-Es gibt ein [Funko 52873 POP Star Wars: Valentines-Stormtrooper w/Heart  Multicolour](https://www.amazon.de/dp/B08CB7H4RM/?tag=tolees0ca-21) mit aktuellem Preis 19.99 EUR (original: 23.99 EUR) 16.67 % Rabatt hier:
+Es gibt ein [Funko 52873 POP Star Wars: Valentines-Stormtrooper w/Heart  Multicolour](https://www.amazon.de/dp/B08CB7H4RM/?tag=tolees0ca-21) mit aktuellem Preis 16.0 EUR (original: 22.9 EUR) 30.13 % Rabatt hier:
 
 [![Funko 52873 POP Star Wars: Valentines-St](https://m.media-amazon.com/images/I/419jfV-PuzL._SL400_.jpg)](https://www.amazon.de/dp/B08CB7H4RM/?tag=tolees0ca-21)
 
 ℹ️:
 
 - Von , , zur stilisierten POP-Vinyl Figur von Funko
-- Anzahl der Packungen: 1
 - Verpackungsabmessungen: 3.5 L x 6.25 H x 4.5 W (inches)
 - Farbe: mehrfarbig
+- Anzahl der Packungen: 1
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08CB7H4RM/?tag=tolees0ca-21)
