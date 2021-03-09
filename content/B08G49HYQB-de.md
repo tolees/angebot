@@ -28,8 +28,8 @@ Sie können [LEGO 42117 Technic Rennflugzeug oder Jetflugzeug 2-in-1 Spielzeug  
 
 ℹ️:
 
-- Steer on the ground as you prepare for takeoff and see the propeller spin, then recreate the maneuvers of the worlds top pilots
 - Features a 2 in 1 plane model with opening engine covers, landing gear and spinning propeller for plane racing role play
+- Steer on the ground as you prepare for takeoff and see the propeller spin, then recreate the maneuvers of the worlds top pilots
 - With vibrant colors, sponsor details and a spinning propeller that complete a cool little gift for any occasion – it looks so real
 - Comes with Instructions PLUS available in the free LEGO Building Instructions app, it has zoom and rotate tools to help children build
 - Kids will love building this durable aircraft toy, then transforming it into a Jet Aeroplane for even more creative aerobatic fun
