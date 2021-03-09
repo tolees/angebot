@@ -28,13 +28,13 @@ Es gibt ein [Bose Unisex - Erwachsene Frames Audio-Sonnenbrille  Alto  schwarz 
 
 ℹ️:
 
+- Blockiert bis zu 99 % der UVA-/UVB-Strahlen
 - Integriertes Mikrofon für klare Telefonate und Zugriff auf den Sprachassistenten Ihres Smartphones
 - Mit ihrer eckigen Form und den markanten Gläsern verleihen die Bose Frames Alto dem Klassiker unter den Sonnenbrillen einen völlig neuen Charakter
-- Blockiert bis zu 99 % der UVA-/UVB-Strahlen
+- Bluetooth-Verbindung zum leichten Koppeln
 - Rechteckige Gläser | Glasbreite: 54 mm | Stegbreite: 21 mm | Bügellänge: 136 mm
 - Persönliche Einstellungen, Zugriff auf zukünftige Updates und vieles mehr mithilfe der Bose Connect App
 - Durch die Open-Ear-Klangwiedergabe nehmen Sie Ihre Umgebung wahr, während Sie Musik hören
 - Sonnenbrille mit integrierten Bose Lautsprechern für einen kraftvollen Klang, der Sie umgibt, ohne dass Ihre Mitmenschen davon gestört werden
-- Bluetooth-Verbindung zum leichten Koppeln
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07PC1MC6Y/?tag=tolees0ca-21)
