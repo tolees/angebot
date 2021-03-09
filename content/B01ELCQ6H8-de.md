@@ -28,9 +28,9 @@ Es gibt ein [Puma / Puma Puma Basic Short Crew Unisex Sporsocken im Farbmix. 9 P
 
 ℹ️:
 
-- Unisex für Damen und Herren
-- Puma Markenqualität
 - 9 Paar Puma Short Crew Socken
+- Unisex für Damen und Herren
 - etwas kürzerer Bund
+- Puma Markenqualität
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01ELCQ6H8/?tag=tolees0ca-21)

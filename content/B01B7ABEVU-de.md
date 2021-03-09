@@ -28,9 +28,9 @@ Sie können [Sony BDP-S3700 Blu-ray-Player  Super WiFi  USB  Screen Mirroring  s
 
 ℹ️:
 
+- Zeigen Sie Smartphone-Inhalte mithilfe von Bildschirmspiegelung an
 - Genießen Sie auch beim Streamen von HD-Inhalten schnelles und stabiles Wi-Fi
 - Übertragen Sie Inhalte kabellos von einer Vielzahl an Online-Anbietern
-- Zeigen Sie Smartphone-Inhalte mithilfe von Bildschirmspiegelung an
 - Einfache Bedienung dank neuer benutzerfreundlicher Oberfläche
 - Hochfahren in weniger als einer Sekunde mit dem Super-Schnellstart-Modus
 
