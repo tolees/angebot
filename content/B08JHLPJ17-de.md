@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'Sony Pictures Home Entertainment - The C mit 23.10 % Rabatt'
-date: 2021-02-20 16:17:18
-image: 'https://m.media-amazon.com/images/I/51-qE5JYsJL._SL200_.jpg'
+title: 'Sony Pictures Home Entertainment - The C mit 20.36 % Rabatt'
+date: 2021-03-09 23:59:29
+image: 'https://m.media-amazon.com/images/I/51-qE5JYsJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B08JHLPJ17-de Sony Pictures Home Entertainment - The Crown - Die...'
 sku: 'B08JHLPJ17-de'
 tags: [  ]
-actualPrice: 19.97 EUR
+actualPrice: 19.4 EUR
 currency: EUR
-price: 19.97
-comparePrice: 25.97 EUR
+price: 19.4
+comparePrice: 24.36 EUR
 prodname: 'Sony Pictures Home Entertainment - The Crown - Die komplette dritte Season [4 DVDs]'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Sony Pictures Home Entertainment'
 buyurl: 'https://www.amazon.de/dp/B08JHLPJ17/?tag=tolees0ca-21'
-descuento: '23.10'
-average: '24.0286666666667'
+descuento: '20.36'
+average: '23.4841176470588'
 ---
 
-Sie können [Sony Pictures Home Entertainment - The Crown - Die komplette dritte Season [4 DVDs]](https://www.amazon.de/dp/B08JHLPJ17/?tag=tolees0ca-21) mit Preis 19.97 EUR (original: 25.97 EUR) 23.10 % Rabatt hier:
+Sie können [Sony Pictures Home Entertainment - The Crown - Die komplette dritte Season [4 DVDs]](https://www.amazon.de/dp/B08JHLPJ17/?tag=tolees0ca-21) mit Preis 19.4 EUR (original: 24.36 EUR) 20.36 % Rabatt hier:
 
-[![Sony Pictures Home Entertainment - The C](https://m.media-amazon.com/images/I/51-qE5JYsJL._SL200_.jpg)](https://www.amazon.de/dp/B08JHLPJ17/?tag=tolees0ca-21)
+[![Sony Pictures Home Entertainment - The C](https://m.media-amazon.com/images/I/51-qE5JYsJL._SL400_.jpg)](https://www.amazon.de/dp/B08JHLPJ17/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -28,10 +28,10 @@ Es gibt ein [styleBREAKER Damen Pilotenbrille mit getönten Gläsern  Sonnenbril
 
 ℹ️:
 
-- lackierte Kunststoff Bügel mit Glitzerstein auf jeder Seite
 - im Verlauf getönte Polycarbonat Gläser - verzerrungsfrei und bruchsicher / UV Schutz 400 (Kategorie 3 / Cat.3)
-- Brillenputztuch und Etui mit Kordelzug im Lieferumfang enthalten
 - individuell einstellbare gummierte Nasenpads aus Silikon für einen angenehmen Tragekomfort
+- lackierte Kunststoff Bügel mit Glitzerstein auf jeder Seite
 - edle Damen Sonnenbrille in Pilotenform mit filigraner Vollrandfassung aus Metall
+- Brillenputztuch und Etui mit Kordelzug im Lieferumfang enthalten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00UPLSTRA/?tag=tolees0ca-21)
