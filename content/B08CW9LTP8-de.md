@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.09 % rabat auf Warner Bros Entertainment - SCOOBY! [Blu'
-date: 2021-03-09 01:16:49
+date: 2021-03-10 07:57:30
 image: 'https://m.media-amazon.com/images/I/5163CFxKTkL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Warner Bros Entertainment'
 buyurl: 'https://www.amazon.de/dp/B08CW9LTP8/?tag=tolees0ca-21'
 descuento: '23.09'
-average: '12.6370588235294'
+average: '12.3584210526316'
 ---
 
 Es gibt ein [Warner Bros Entertainment - SCOOBY! [Blu-ray]](https://www.amazon.de/dp/B08CW9LTP8/?tag=tolees0ca-21) mit aktuellem Preis 9.99 EUR (original: 12.99 EUR) 23.09 % Rabatt hier:
