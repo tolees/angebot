@@ -28,10 +28,10 @@ Es gibt ein [Atika 319008 Rührgerät RW 1800 Twin](https://www.amazon.de/dp/B00
 
 ℹ️:
 
-- Rührquirl Ø: 220 mm, Länge: 570 mm
-- Wechselstrommotor: 230 V ~ 50 Hz
 - Drehzahl: 0 - 450 min, 0 - 790 min
-- Mischvolumen: < 90 Liter
 - Aufnahmeleistung: 1800 W
+- Rührquirl Ø: 220 mm, Länge: 570 mm
+- Mischvolumen: < 90 Liter
+- Wechselstrommotor: 230 V ~ 50 Hz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B009AAM0SQ/?tag=tolees0ca-21)

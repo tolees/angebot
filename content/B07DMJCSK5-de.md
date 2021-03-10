@@ -30,8 +30,8 @@ Sie können [Philips Sonicare ProtectiveClean 5100 elektrische Zahnbürste HX685
 
 - Sanfte und effektive Reinigung dank Sonicare Schalltechnologie mit 62.000 Bürstenkopfbewegungen pro Minute und einzigartiger Flüssigkeitsströmung - schonend für Zähne & Zahnfleisch
 - Für eine sanfte Reinigung signalisiert die Andruckkontrolle zu festen Druck beim Putzen durch leichte Vibration
+- Bis zu 7x mehr Plaqueentfernung im Vergleich zu einer Handzahnbürste mit der Optimal White Aufsteckbürste / 3 Putzprogramme für eine effektive Reinigung
 - Lieferumfang: 2x Schallzahnbürste (1x Weiß & 1x Blau), 2x W2 Optimal White Aufsteckbürste (1x Weiß & 1x Schwarz), 2x Reiseetui (Weiß & Schwarz, ohne Ladefunktion), 1x Ladestation
 - Automatische Anzeige für den Wechsel der Aufsteckbürste sorgt für eine optimale Reinigungsleistung / Wechsel alle 3 Monate empfehlenswert
-- Bis zu 7x mehr Plaqueentfernung im Vergleich zu einer Handzahnbürste mit der Optimal White Aufsteckbürste / 3 Putzprogramme für eine effektive Reinigung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07DMJCSK5/?tag=tolees0ca-21)
