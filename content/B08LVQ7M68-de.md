@@ -28,7 +28,7 @@ Es gibt ein [Winning Moves WIN11880 TRIVIAL Pursuit Harry Potter BS Vol. 2 mit 6
 
 ℹ️:
 
-- brettspiele
 - Qualifikationsniveau: Anfänger
+- brettspiele
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08LVQ7M68/?tag=tolees0ca-21)

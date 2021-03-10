@@ -28,9 +28,9 @@ Sie können [VDSOW - Silikonentferner Werkzeug  3 in 1 Fugenkratzer Dichtmittele
 
 ℹ️:
 
-- 【Silikonentferner Fugenwerkzeug】 - Enthält 3 in 1 Silikon Fugenwerkzeug mit Edelstahlkopf und 4 austauschbaren Pads, 1 schwarz dichtmittelentferner, 3 blau silikon Abzieher;
-- 【Multifunktion】 - Das Dichtmittel-Glättungs werkzeug macht Ecken, ohne Dichtungsmasse, Silikon oder Fugenmörtel zu verschwenden. Die glatte Rückseite kann das überschüssige Dichtmittel mit wenig Druck leicht von der Fuge entfernen.
 - 【Breite Anwendung】 - Das Werkzeug zum Entfernen von Dichtungsmitteln kann für die Installation von Spülen für Heimwerker, Heimwerkerarbeiten oder für die Versiegelung von Silikondichtmitteln für den Boden verwendet werden. Es ist für die meisten Arten von Dichtungsmassen, Silikon, Acryl, Harz, Fugenmörtel und mehr geeignet.
+- 【Multifunktion】 - Das Dichtmittel-Glättungs werkzeug macht Ecken, ohne Dichtungsmasse, Silikon oder Fugenmörtel zu verschwenden. Die glatte Rückseite kann das überschüssige Dichtmittel mit wenig Druck leicht von der Fuge entfernen.
+- 【Silikonentferner Fugenwerkzeug】 - Enthält 3 in 1 Silikon Fugenwerkzeug mit Edelstahlkopf und 4 austauschbaren Pads, 1 schwarz dichtmittelentferner, 3 blau silikon Abzieher;
 - 【Langlebig und komfortabel】 - Der 3-in-1-Dichtungsschaber besteht aus Edelstahl-Metallkopf und Silikonkissen. Das Silikondichtungswerkzeug besteht aus hochwertigem ABS-Kunststoff und Silikon.
 - 【3-Modi-Schaber】 - Der Edelstahl Fugenglätter zum Entfernen des hartnäckigen alten Klebers, Silikonkelle zum Entfernen von Oberflächenunebenheiten und Dellen, weiße Silikonkissen zum Glätten und Abdichten der Dichtungslinie und der Ecke.
 
