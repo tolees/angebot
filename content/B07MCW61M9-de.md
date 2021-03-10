@@ -28,10 +28,10 @@ Sie können [KOSMOS 604363 AllesKönnerKiste Pferde Kreativ-Box. DIY-Bastelset f
 
 ℹ️:
 
-- HOCHWERTIGES MATERIAL: Anleitung (16 S.), 3 Filzplatten, Baumwollband, Chiffonband, Glitzersteine, Wachskordel, Perlen, Nähgarn, Nähnadel, Holzstanzbogen und zwei Anhänger für Armbänder
-- FÜR EINSTEIGER GEEIGNET: Auch Anfänger erleben dank der leicht verständlichen Anleitungstexte wunderbare Bastel-Erfolge
-- BASTELPROJEKTE FÜR PFERDEFANS – Ob Traumfänger in Hufeisenform, coole Armbänder oder süße Schlüsselanhänger – der Kreativität sind keine Grenzen gesetzt
 - DAS IDEALE GESCHENK-SET: Die AllesKönnerKisten enthalten alle Materialien, um sofort loszulegen. Ideal geeignet für Bastelnachmittage in der Familie oder Kindergeburtstage
+- HOCHWERTIGES MATERIAL: Anleitung (16 S.), 3 Filzplatten, Baumwollband, Chiffonband, Glitzersteine, Wachskordel, Perlen, Nähgarn, Nähnadel, Holzstanzbogen und zwei Anhänger für Armbänder
 - AUSFÜHRLICHE SCHRITT-FÜR-SCHRITT-ANLEITUNG: Das liebevoll gestaltete Anleitungsheft ist komplett illustriert und führt Sie und Ihr Kind anschaulich durch die Bastel-Projekte
+- BASTELPROJEKTE FÜR PFERDEFANS – Ob Traumfänger in Hufeisenform, coole Armbänder oder süße Schlüsselanhänger – der Kreativität sind keine Grenzen gesetzt
+- FÜR EINSTEIGER GEEIGNET: Auch Anfänger erleben dank der leicht verständlichen Anleitungstexte wunderbare Bastel-Erfolge
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MCW61M9/?tag=tolees0ca-21)
