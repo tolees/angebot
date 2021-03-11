@@ -28,10 +28,10 @@ Sie können [Jean Paul Gaultier Classique Damen Deo  1 x 100 ml](https://www.ama
 
 ℹ️:
 
-- Kopfnote: Sternanis, Ambrette, Mandarine, Orangenblüten, Rose
 - Die frisch-intensive Kreation eignet sich perfekt zur täglichen Anwendung.
-- Ein Duft kreiert aus Orangenschalen und spritziger Grenadine.
-- Duftnoten: Orientalisch, Blumig.
+- Kopfnote: Sternanis, Ambrette, Mandarine, Orangenblüten, Rose
 - Herznote: Pflaume, Orchidee, Ingwer, Iris, Ylang-Ylang. Basisnote: Amber, Moschus, Vanille
+- Duftnoten: Orientalisch, Blumig.
+- Ein Duft kreiert aus Orangenschalen und spritziger Grenadine.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B000XEB1RO/?tag=tolees0ca-21)
