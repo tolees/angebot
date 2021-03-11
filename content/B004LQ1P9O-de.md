@@ -28,10 +28,10 @@ Sie können [Hama Audio-Konverter AC81  digital auf analog](https://www.amazon.d
 
 ℹ️:
 
-- Optimal für Geräte (z.B. Flat-TVs) ohne Line-Out-Ausgang: Der Konverter wandelt digitale Audio-Signale in analoge Audio-Signale um
 - Lieferumfang: 1 Audio-Konverter "AC81", 1 Netzteil, 1 Bedienungsanleitung
-- Ein analoger Ausgang (Line Out) für Hifi-Anlage, Audio-Verstärker, kann mit mitgeliefertem 6V-Netzteil betrieben werden, Plug & Play, keine Software nötig
 - Verbesserung der Klangqualität digitaler Ausgabegeräte (z.B.Flat TV, DVD-Player) durch Soundwiedergabe über eine HiFi-Anlage, zwei umschaltbare digitale Eingänge (optisch, koaxial) für DVD-Player, Spielekonsole und Computer
+- Optimal für Geräte (z.B. Flat-TVs) ohne Line-Out-Ausgang: Der Konverter wandelt digitale Audio-Signale in analoge Audio-Signale um
 - Ermöglicht die Nachrüstung eines analogen Audio-Ausgangs für den Anschluss von Hifi-Anlage, Verstärker oder Kopfhörer
+- Ein analoger Ausgang (Line Out) für Hifi-Anlage, Audio-Verstärker, kann mit mitgeliefertem 6V-Netzteil betrieben werden, Plug & Play, keine Software nötig
 
 [🛒 Hier!!](https://www.amazon.de/dp/B004LQ1P9O/?tag=tolees0ca-21)

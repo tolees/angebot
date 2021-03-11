@@ -28,10 +28,10 @@ Es gibt ein [Intenso 3832450 Top Performance interne SSD  512GB "M.2 SATA III"](
 
 ℹ️:
 
-- Lieferumfang: Intenso SSD
 - Marken Controller, Schnittstelle: SATA III (6Gbps)
 - Sequentielles Lesen: 520MB/s
-- SMART Command Support, TRIM Command Support
+- Lieferumfang: Intenso SSD
 - Schock-resistant, geräuschloser Betrieb, geringer Stromverbrauch
+- SMART Command Support, TRIM Command Support
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0776YFLWL/?tag=tolees0ca-21)
