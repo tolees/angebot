@@ -28,10 +28,10 @@ Es gibt ein [bruno banani Dangerous Woman – Eau de Toilette Natural Spray – 
 
 ℹ️:
 
-- Olfactive family: oriental floral vanilla
-- For outgoing, spontaneous women
+- Top notes: juicy blackcurrant Heart notes: coconut milk, floral notes Base notes: feminine heliotrope, vanilla
 - Eau de Toilette for her
 - Dangerous and feminine fragrance
-- Top notes: juicy blackcurrant Heart notes: coconut milk, floral notes Base notes: feminine heliotrope, vanilla
+- Olfactive family: oriental floral vanilla
+- For outgoing, spontaneous women
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00B7X9PL4/?tag=tolees0ca-21)

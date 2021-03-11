@@ -30,9 +30,9 @@ Sie können [Pril 5 Plus Kraftgel Zitrone  Handgeschirrspülmittel  450 ml  mit 
 
 - Dank der konzentrierten Formel ist Pril Kraft Gel Ultra Plus besonders ergiebig und bereits eine kleine Menge reinigt eine hohe Anzahl an Geschirr
 - Hinweis: Die Abbildungen können leichte Abweichungen zu dem gelieferten Artikel aufweisen
+- Pril Kraftgel Zitrone mit neuer Formel: Konzentriertes Spülmittel mit selbstaktiver Fettlösekraft. Macht Schluss mit Fett, Stärkeresten, Eingebranntem und schlechten Gerüchen beim Abspülen
+- Pril 5 Plus Flaschenkörper; PET, bestehen zu 100 Prozent aus recyceltem Plastik, Flasche und Verschluss sind recycelbar
 - Durch die selbstaktive Fettlösekraft dringt es tief in Fett ein und entfernt Stärkereste sowie Eingebranntes, ganz ohne mühevolles Schrubben
 - Unsere Flaschen sind mit praktischer Verschlusskappe für eine leichtere Anwendung und bessere Dosierung ausgestattet
-- Pril 5 Plus Flaschenkörper; PET, bestehen zu 100 Prozent aus recyceltem Plastik, Flasche und Verschluss sind recycelbar
-- Pril Kraftgel Zitrone mit neuer Formel: Konzentriertes Spülmittel mit selbstaktiver Fettlösekraft. Macht Schluss mit Fett, Stärkeresten, Eingebranntem und schlechten Gerüchen beim Abspülen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08L945GKV/?tag=tolees0ca-21)

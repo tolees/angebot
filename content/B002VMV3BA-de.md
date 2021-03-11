@@ -28,7 +28,7 @@ Sie können [Festool 493723 Schleifschuh SSH-STF-Delta100x150](https://www.amazo
 
 ℹ️:
 
-- 493723 SSH-STF-Delta100x150/7
 - Schleifschuh
+- 493723 SSH-STF-Delta100x150/7
 
 [🛒 Hier!!](https://www.amazon.de/dp/B002VMV3BA/?tag=tolees0ca-21)

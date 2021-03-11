@@ -28,10 +28,10 @@ Sie können [simplehuman  12cm  Sensorspiegel  10-fache Vergrößerung  gebürst
 
 ℹ️:
 
-- wechseln Sie nie mehr Lampen: Herkömmliche Leuchtmittel oder Leuchtstofflampen verblassen oder brennen zu schnell durch. Die LEDs des Spiegels wurden nach 40.000 Stunden Betrieb für wie neu eingestuft - das ist eine Stunde pro Tag, jeden Tag, für mehr als 100 Jahre.
-- 10-fache Vergrößerung: Die Detailansicht ist ideal für Feinarbeiten wie das Zupfen der Augenbrauen und das Auftragen von Augen-Make-up.
+- tru-lux Lichtsystem: Mit 550 Lux und mit einem Farbwiedergabeindex von 90 (CRI) ist das tru-lux Lichtsystem mehr als doppelt so hell und ahmt das natürliche Sonnenlicht genauer nach als die nächstbeste Alternative.
 - flach einklappbar: Einfache Aufbewahrung in einem praktischen gepolstertem Reiseetui.
 - Sensor ein/aus: Schaltet sich bei Annäherung an den Spiegel automatisch ein - Sie müssen keine Tasten berühren.
-- tru-lux Lichtsystem: Mit 550 Lux und mit einem Farbwiedergabeindex von 90 (CRI) ist das tru-lux Lichtsystem mehr als doppelt so hell und ahmt das natürliche Sonnenlicht genauer nach als die nächstbeste Alternative.
+- 10-fache Vergrößerung: Die Detailansicht ist ideal für Feinarbeiten wie das Zupfen der Augenbrauen und das Auftragen von Augen-Make-up.
+- wechseln Sie nie mehr Lampen: Herkömmliche Leuchtmittel oder Leuchtstofflampen verblassen oder brennen zu schnell durch. Die LEDs des Spiegels wurden nach 40.000 Stunden Betrieb für wie neu eingestuft - das ist eine Stunde pro Tag, jeden Tag, für mehr als 100 Jahre.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00FZ3MFAA/?tag=tolees0ca-21)

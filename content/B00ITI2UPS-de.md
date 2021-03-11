@@ -28,10 +28,10 @@ Es gibt ein [STAEDTLER Initium Lignum Tintenroller  Pflaumenholz  M  schwarz  mi
 
 ℹ️:
 
-- Kappe mit Schraubverschluss
+- Mit Drehmechanismus
 - Mit austauschbarer Staedtler Tintenrollermine schwarz M, Made in Germany
 - Korpus aus Pflaumen- oder Ahornholz, gebeizt
 - Lieferumfang: 1 hochwertiges Schreibgerät (Tintenroller Lignum Pflaume) mit edler Geschenkverpackung (durch Wendeeinlage geeignet für 1 oder 2 Stifte)
-- Mit Drehmechanismus
+- Kappe mit Schraubverschluss
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00ITI2UPS/?tag=tolees0ca-21)
