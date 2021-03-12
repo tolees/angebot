@@ -28,10 +28,10 @@ Es gibt ein [Sony RX100 IV Premium Kompakt Digitalkamera  21 MP  7 6 cm  3 Zoll 
 
 ℹ️:
 
-- Adjustable angle: about 180° upward, about 45° downward
 - Playback functions: BRAVIA Sync control for HDMI
 - Image processing engine: BIONZ X
-- 0.39" Electronic Viewfinder (OLED)
 - Light measurement mode: multi-pattern, center head and spot
+- 0.39" Electronic Viewfinder (OLED)
+- Adjustable angle: about 180° upward, about 45° downward
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00ZUFRD4Q/?tag=tolees0ca-21)

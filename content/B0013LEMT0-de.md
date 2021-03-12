@@ -30,7 +30,7 @@ Es gibt ein [Dewalt Steinbohrer-Set DT6952  5-teiliges Set in Kunststoffkassette
 
 - Anwendung: in der Montage- und Befestigungstechnik
 - Für den Einsatz in Bohr- und Schlagbohrmaschinen (Akku und Kabel)
-- Lieferumfang: 1x Set mit Steinbohrern, bestehend aus 4, 5, 6, 8, 10 mm Durchmesser, in Kunststoffkassette
 - HM-Mauerbohrer 130°, Form Douglas
+- Lieferumfang: 1x Set mit Steinbohrern, bestehend aus 4, 5, 6, 8, 10 mm Durchmesser, in Kunststoffkassette
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0013LEMT0/?tag=tolees0ca-21)

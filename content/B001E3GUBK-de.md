@@ -28,10 +28,10 @@ Sie können [Pentel PG1015-A Druckbleistift GRAPHGEAR 1000  MinenStärke: 0 5 mm
 
 ℹ️:
 
-- Lead grade indicator
-- Pocket clip sleeve retraction system
-- Sliding sleeve to enhance and retract lead
-- Rubber finger grip pips for added comfort and control
 - Quality mechanical pencil with brushed steel barrel
+- Lead grade indicator
+- Sliding sleeve to enhance and retract lead
+- Pocket clip sleeve retraction system
+- Rubber finger grip pips for added comfort and control
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001E3GUBK/?tag=tolees0ca-21)

@@ -28,8 +28,8 @@ Es gibt ein [Adidas Herren Core 18 Trainingshose  Black/White  XL](https://www.a
 
 ℹ️:
 
-- Regular Fit
-- Front pockets
 - Elastic waistband with lanyard
+- Front pockets
+- Regular Fit
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B076HQZVW2/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [AEG LX7-2-FFP Staubsauger ohne Beutel  Inkl. Zusatzdüsen  750 Watt
 
 ℹ️:
 
-- Effiziente Staubaufnahme: Staub wird von der Luft getrennt und an die Wand des Staubbehälters gedrückt - langanhaltende Saugleistung
-- Lieferumfang: 1x LX7 Bodenstaubsauger ohne Beutel, 1x Filter (im Gerät), 1x Hartbodendüse, 1x Fugen- und Polsterdüse // Zubehör-Empfehlung: Mikrodüsenset AKIT05, Filter-Set AUSK11, BedPro Matratzendüse AZE123, SpeedyClean Hartbodendüse AP350
 - Komfortabel Staubsaugen: Große Reichweite von 9 m - müheloses Reinigen mehrerer Räume - einfach in einem Durchgang
 - Flexibel einsetzbar: Die stufenlose Saugkraftregulierung ermöglicht optimale Manövrierbarkeit auf allen Untergründen
 - Für ein gesünderes Zuhause: Die Filtration mit dem Hygienefilter-System sorgt für saubere Abluft und ein gesünderes Zuhause
+- Lieferumfang: 1x LX7 Bodenstaubsauger ohne Beutel, 1x Filter (im Gerät), 1x Hartbodendüse, 1x Fugen- und Polsterdüse // Zubehör-Empfehlung: Mikrodüsenset AKIT05, Filter-Set AUSK11, BedPro Matratzendüse AZE123, SpeedyClean Hartbodendüse AP350
+- Effiziente Staubaufnahme: Staub wird von der Luft getrennt und an die Wand des Staubbehälters gedrückt - langanhaltende Saugleistung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0748MVRJC/?tag=tolees0ca-21)

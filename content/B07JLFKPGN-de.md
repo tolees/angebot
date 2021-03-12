@@ -29,8 +29,8 @@ Sie können [PLAYMOBIL 70067 City Action Porsche 911 Carrera 4S Polizei  bunt](h
 ℹ️:
 
 - 2 figures with vehicle and accessories
-- The roof can be removed
 - With police light and sound (1 x 1.5 V micro battery required) and lots of accessories
 - Front and rear lights and dashboard light up (3 x 1.5V micro batteries required)
+- The roof can be removed
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07JLFKPGN/?tag=tolees0ca-21)
