@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Bose Noise Cancelling Headphones 700 – K mit 37.74 % Rabatt'
-date: 2021-03-01 20:56:47
+title: 'Bose Noise Cancelling Headphones 700 – K mit 40.24 % Rabatt'
+date: 2021-03-12 13:28:39
 image: 'https://m.media-amazon.com/images/I/31DQ1NOBi4L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,33 +9,33 @@ author: ring
 slug: 'B07Q9MJKBV-de Bose Noise Cancelling Headphones 700 – Kabellose...'
 sku: 'B07Q9MJKBV-de'
 tags: [  ]
-actualPrice: 249.0 EUR
+actualPrice: 239.0 EUR
 currency: EUR
-price: 249.0
+price: 239.0
 comparePrice: 399.95 EUR
 prodname: 'Bose Noise Cancelling Headphones 700 – Kabellose Bluetooth-Kopfhörer mit Alexa-Sprachsteuerung  Schwarz'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Bose'
 buyurl: 'https://www.amazon.de/dp/B07Q9MJKBV/?tag=tolees0ca-21'
-descuento: '37.74'
-average: '255.831666666666'
+descuento: '40.24'
+average: '253.427142857142'
 ---
 
-Sie können [Bose Noise Cancelling Headphones 700 – Kabellose Bluetooth-Kopfhörer mit Alexa-Sprachsteuerung  Schwarz](https://www.amazon.de/dp/B07Q9MJKBV/?tag=tolees0ca-21) mit Preis 249.0 EUR (original: 399.95 EUR) 37.74 % Rabatt hier:
+Sie können [Bose Noise Cancelling Headphones 700 – Kabellose Bluetooth-Kopfhörer mit Alexa-Sprachsteuerung  Schwarz](https://www.amazon.de/dp/B07Q9MJKBV/?tag=tolees0ca-21) mit Preis 239.0 EUR (original: 399.95 EUR) 40.24 % Rabatt hier:
 
 [![Bose Noise Cancelling Headphones 700 – K](https://m.media-amazon.com/images/I/31DQ1NOBi4L._SL400_.jpg)](https://www.amazon.de/dp/B07Q9MJKBV/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Beeindruckender Spitzenklang: Naturgetreu und klar mit kraftvollen, tiefen Bässen. Diese kabellosen Kopfhörer zeichnen sich durch einen lebendigen, ausgewogenen Klang bei jeder Lautstärke aus.
-- Bis zu 20 Stunden ununterbrochener Musikgenuss: Die Kopfhörer bieten bis zu 20 Stunden kabellose Akkulaufzeit pro Aufladung.
-- Leistungsstarke Noise-Cancelling-Kopfhörer: Durch die aktive Lärmreduzierung in 11 Stufen können Sie Ihre Musik, Podcasts, Videos und Anrufe ohne Ablenkungen genießen.
-- Kopplung mit einer Bose Soundbar: Mithilfe der Bose SimpleSync-Technologie lassen sich die kabellosen Bluetooth-Kopfhörer mit der Bose Soundbar 500 oder 700 koppeln – für ein ganz persönliches Klangerlebnis.
-- Unübertroffene Spracherfassung: Ein revolutionäres Mikrofonsystem sorgt dafür, dass Ihre Stimme kristallklar klingt, wenn Sie telefonieren – selbst in lauter oder windiger Umgebung.
-- Spotify starten mit nur einer Berührung: Hören Sie auf Spotify dort weiter, wo Sie aufgehört haben, oder entdecken Sie neue Musik – einfach die rechte Hörmuschel antippen und gedrückt halten. Derzeit nur bei Verwendung der Kopfhörer mit iOS-Geräten verfügbar.
 - Alles im Blick und die Hände frei: Dank einfachem Zugriff auf Sprachassistenten wie Alexa und Google Assistant für Musik, Wegbeschreibungen, Wetterbericht und mehr sowie intuitiver Bedienelemente an den Hörmuscheln bleiben Sie in Verbindung, ohne Ihr Smartphone in die Hand nehmen zu müssen.
-- Anrufe von Alexa zu Alexa: Rufen Sie mit diesen kabellosen Noise-Cancelling-Kopfhörern ein Bose Smart-Produkt oder ein Amazon Echo-Gerät mit der Alexa-App für Mobilgeräte an.
+- Beeindruckender Spitzenklang: Naturgetreu und klar mit kraftvollen, tiefen Bässen. Diese kabellosen Kopfhörer zeichnen sich durch einen lebendigen, ausgewogenen Klang bei jeder Lautstärke aus.
+- Unübertroffene Spracherfassung: Ein revolutionäres Mikrofonsystem sorgt dafür, dass Ihre Stimme kristallklar klingt, wenn Sie telefonieren – selbst in lauter oder windiger Umgebung.
+- Leistungsstarke Noise-Cancelling-Kopfhörer: Durch die aktive Lärmreduzierung in 11 Stufen können Sie Ihre Musik, Podcasts, Videos und Anrufe ohne Ablenkungen genießen.Hinweis: Bose Headphones 700 haben eine Bluetooth-Reichweite von bis zu 9 Metern und können mit zwei Geräten gleichzeitig gekoppelt werden
+- Kopplung mit einer Bose Soundbar: Mithilfe der Bose SimpleSync-Technologie lassen sich die kabellosen Bluetooth-Kopfhörer mit der Bose Soundbar 500 oder 700 koppeln – für ein ganz persönliches Klangerlebnis.
+- Spotify starten mit nur einer Berührung: Hören Sie auf Spotify dort weiter, wo Sie aufgehört haben, oder entdecken Sie neue Musik – einfach die rechte Hörmuschel antippen und gedrückt halten. Derzeit nur bei Verwendung der Kopfhörer mit iOS-Geräten verfügbar.
 - Hochwertiges Design und höchster Tragekomfort: Dank des leichten Kopfbügels aus Edelstahl und angewinkelter Hörmuscheln für eine ideale Passform gewährleisten diese Bluetooth-Kopfhörer höchsten Tragekomfort über Stunden.
+- Bis zu 20 Stunden ununterbrochener Musikgenuss: Die Kopfhörer bieten bis zu 20 Stunden kabellose Akkulaufzeit pro Aufladung.
+- Anrufe von Alexa zu Alexa: Rufen Sie mit diesen kabellosen Noise-Cancelling-Kopfhörern ein Bose Smart-Produkt oder ein Amazon Echo-Gerät mit der Alexa-App für Mobilgeräte an.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07Q9MJKBV/?tag=tolees0ca-21)
