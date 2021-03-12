@@ -28,8 +28,8 @@ Sie können [The North Face Herren T-Shirt Simple Dome  schwarz  tnf black   Sma
 
 ℹ️:
 
-- Printdesign auf Wasserbasis vorne und hinten
 - Kurzarm-T-Shirt in klassischer Länge mit Rundhalsausschnitt
+- Printdesign auf Wasserbasis vorne und hinten
 - Materialzusammensetzung: 100% Baumwolle
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01HMRT7PW/?tag=tolees0ca-21)

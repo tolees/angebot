@@ -28,9 +28,9 @@ Sie können [Rising Star - Harvest Moon Mad Dash [Nintendo Switch]](https://www.
 
 ℹ️:
 
-- Die rasante Action erfordert schnelle Reaktionen
-- Puzzle-Spin-Off der beliebten Harvest Moon Serie.
 - Viele verschiedene Welten aus der bekannten Serie
 - Nutzen Sie verschiedene Spezial-Fähigkeiten um Aufträge zu erfüllen
+- Die rasante Action erfordert schnelle Reaktionen
+- Puzzle-Spin-Off der beliebten Harvest Moon Serie.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07WFJ9HV7/?tag=tolees0ca-21)

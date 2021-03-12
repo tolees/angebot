@@ -28,10 +28,10 @@ Es gibt ein [Skullcandy Crusher Evo Wireless Over-Ear Kopfhörer - Chill Grey](h
 
 ℹ️:
 
-- Regulierbare sensorische Bässe
-- Individuell anpassbarer Personal Sound über die Skullcandy-App
-- Steuerung von Anrufen, Musik und Lautstärke
 - 40 Stunden Akkulaufzeit
+- Steuerung von Anrufen, Musik und Lautstärke
+- Individuell anpassbarer Personal Sound über die Skullcandy-App
 - Integrierte Tracking-Funktion Tile
+- Regulierbare sensorische Bässe
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08FCGLYFZ/?tag=tolees0ca-21)

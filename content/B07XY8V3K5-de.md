@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'OnePlus 8  5G  Smartphone ohne Vertrag   mit 36.72 % Rabatt'
-date: 2020-09-18 06:19:41
+title: 'OnePlus 8  5G  Smartphone ohne Vertrag   mit 24.78 % Rabatt'
+date: 2021-03-12 14:57:40
 image: 'https://m.media-amazon.com/images/I/41hIOwhXTYL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,24 +9,29 @@ author: ring
 slug: 'B07XY8V3K5-de OnePlus 8 5G Smartphone ohne Vertrag 12GB + 256GB Speicher...'
 sku: 'B07XY8V3K5-de'
 tags: [  ]
-actualPrice: 505.62 EUR
+actualPrice: 601.0 EUR
 currency: EUR
-price: 505.62
+price: 601.0
 comparePrice: 799.0 EUR
 prodname: 'OnePlus 8  5G  Smartphone ohne Vertrag  12GB + 256GB Speicher  6.55" AMOLED 90Hz Display  4300 mAh Akku  Dreifach-Kamera  Dual-Sim - Interstellar Glow'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'ONEPLUS'
 buyurl: 'https://www.amazon.de/dp/B07XY8V3K5/?tag=tolees0ca-21'
-descuento: '36.72'
-average: '533.2049999999999'
+descuento: '24.78'
+average: '555.803333333333'
 ---
 
-Sie können [OnePlus 8  5G  Smartphone ohne Vertrag  12GB + 256GB Speicher  6.55" AMOLED 90Hz Display  4300 mAh Akku  Dreifach-Kamera  Dual-Sim - Interstellar Glow](https://www.amazon.de/dp/B07XY8V3K5/?tag=tolees0ca-21) mit Preis 505.62 EUR (original: 799.0 EUR) 36.72 % Rabatt hier:
+Sie können [OnePlus 8  5G  Smartphone ohne Vertrag  12GB + 256GB Speicher  6.55" AMOLED 90Hz Display  4300 mAh Akku  Dreifach-Kamera  Dual-Sim - Interstellar Glow](https://www.amazon.de/dp/B07XY8V3K5/?tag=tolees0ca-21) mit Preis 601.0 EUR (original: 799.0 EUR) 24.78 % Rabatt hier:
 
 [![OnePlus 8  5G  Smartphone ohne Vertrag  ](https://m.media-amazon.com/images/I/41hIOwhXTYL._SL400_.jpg)](https://www.amazon.de/dp/B07XY8V3K5/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Faszinierendes Display – hohe Auflösung mit einer 90Hz Bildwiederholrate – das Scrollen, Wischen und Wechseln durch Apps und Anwendungen ist super flüssig (keine Verzögerungen)16, 6 cm AMOLED Power Screen – Für ein atemberaubendes Multimedia-Erlebnis, sofortige Touch-Reaktion, mehr Geschwindigkeit und eine faszinierende Klarheit
+- Power Akku mit 4300 mAh für mehr Laufzeit – Innovative WARP CHARGE 30T Schnelllade-Technologie (ready-to-go in 20 Minuten) / OxygenOS Betriebssystem (Android 10)
+- OnePlus mit integriertem Alexa bietet Freisprechzugriff auf Alexa. Sagen Sie einfach „Alexa“, um Musik abzuspielen, einen Anruf zu tätigen, Ihr Smart Home zu steuern, das Wetter zu überprüfen und vieles mehr, indem Sie nur Ihre Stimme verwenden. Bleiben Sie auf dem Laufenden und erledigen Sie jeden Tag Ihre Aufgaben, während Sie unterwegs sind. Fragen Sie einfach - und Alexa wird sofort antworten. Laden Sie die Alexa-App auf Ihr OnePlus-Gerät herunter, um Alexa noch heute freihändig zu verwenden.
+- Ultraklare Dreifach-Kamera - 48MP Hauptkamera, 16MP Ultraweitwinkelkamera, 2MP Makro und 16MP Frontkamera, Nachtsichtmodus 2. 0, Studiobeleuchtung, Super Slow Motion mit bis zu 460 FPS, RAW Image, AI Szenen Erkennung
+- 12 GB RAM und 256 GB interner Speicher für mehr Geschwindigkeit und größere Datenmengen / High-Performance Prozessor Qualcomm Snapdragon 865 mit 5G-Konnektivität
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XY8V3K5/?tag=tolees0ca-21)

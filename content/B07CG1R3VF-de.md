@@ -28,9 +28,9 @@ Sie können [Focus Home Interactive - Call Of Cthulhu [Playstation 4]](https://w
 
 ℹ️:
 
-- Call of Cthulhu - ein investigatives RPG, im Lovecraft Universum, entwickelt mit der Unreal Engine 4
-- Zweifeln Sie an Ihrem eigenen Verstand? Es heißt, dass Wahnsinn der einzige Weg sei, die Wahrheit zu ergründen
-- Der "Große Träumer", Cthulhu, kündigt sein Erwachen an... Reisen Sie nach Blackwater Island!
 - Erweitern und verbessern Sie die Fähigkeiten Ihres Charakters und nutzen Sie die neuen Fähigkeiten um die Wahrheit aufzudecken
+- Zweifeln Sie an Ihrem eigenen Verstand? Es heißt, dass Wahnsinn der einzige Weg sei, die Wahrheit zu ergründen
+- Call of Cthulhu - ein investigatives RPG, im Lovecraft Universum, entwickelt mit der Unreal Engine 4
+- Der "Große Träumer", Cthulhu, kündigt sein Erwachen an... Reisen Sie nach Blackwater Island!
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07CG1R3VF/?tag=tolees0ca-21)
