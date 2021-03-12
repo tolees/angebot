@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pandora Damen-Armband mit Kugelverschlus mit 20.00 % Rabatt'
-date: 2021-03-09 05:54:42
+date: 2021-03-12 06:05:48
 image: 'https://m.media-amazon.com/images/I/416OW4tPbbL._SL400_.jpg'
 comments: true
 category: ofertas

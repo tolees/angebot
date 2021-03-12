@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.44 % rabat auf Sony Alpha 7 III | Spiegellose Vollforma'
-date: 2021-03-09 18:16:42
+date: 2021-03-12 05:58:28
 image: 'https://m.media-amazon.com/images/I/41Q3WqkjLiL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B07B4L1PQ8/?tag=tolees0ca-21'
 descuento: '16.44'
-average: '1850.7003626943'
+average: '1851.06283505155'
 ---
 
 Es gibt ein [Sony Alpha 7 III | Spiegellose Vollformat-Kamera   Schneller 0 02s AF  optische 5-Achsen-Bildstabilisierung im Gehäuse  4K HLG Videoaufnahmen  große Batteriekapazität ](https://www.amazon.de/dp/B07B4L1PQ8/?tag=tolees0ca-21) mit aktuellem Preis 1921.02 EUR (original: 2299.0 EUR) 16.44 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [Sony Alpha 7 III | Spiegellose Vollformat-Kamera   Schneller 0 02s 
 
 ℹ️:
 
-- STABILE AUFNAHMEN: Optische 5-Achsen-Bildstabilisierung für Fotos und Filme zur Kompensation von Kameraverwacklungen.
-- ATEMBERAUBENDE BILDQUALITÄT: 24 Mp Vollformat-Sensor gepaart mit hohen ISO-Fähigkeiten, um auch bei schwachem Licht hervorragende Bilder aufzunehmen.
-- PROFESSIONELLE VIDEOS: Vollpixel-Auslesung ohne Pixel-Binning für hochauflösende 4K-HDR-Filmaufnahmen.
-- SCHNELLER AUTOFOKUS: Verlassen Sie sich auf kontinuierliches Tracking und den Augen-AF (Mensch/Tier), um Ihr Motiv in jeder Situation im Fokus zu behalten.
 - VERLÄNGERTE BATTERIENLEBENSDAUER: Große Z-Batteriekapazität für längere Aufnahme-Sessions.
+- ATEMBERAUBENDE BILDQUALITÄT: 24 Mp Vollformat-Sensor gepaart mit hohen ISO-Fähigkeiten, um auch bei schwachem Licht hervorragende Bilder aufzunehmen.
+- SCHNELLER AUTOFOKUS: Verlassen Sie sich auf kontinuierliches Tracking und den Augen-AF (Mensch/Tier), um Ihr Motiv in jeder Situation im Fokus zu behalten.
+- STABILE AUFNAHMEN: Optische 5-Achsen-Bildstabilisierung für Fotos und Filme zur Kompensation von Kameraverwacklungen.
+- PROFESSIONELLE VIDEOS: Vollpixel-Auslesung ohne Pixel-Binning für hochauflösende 4K-HDR-Filmaufnahmen.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07B4L1PQ8/?tag=tolees0ca-21)

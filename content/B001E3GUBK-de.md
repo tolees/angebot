@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel PG1015-A Druckbleistift GRAPHGEAR mit 27.63 % Rabatt'
-date: 2021-03-09 05:59:18
+date: 2021-03-12 06:15:17
 image: 'https://m.media-amazon.com/images/I/310YL1zkCcL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,10 @@ Sie können [Pentel PG1015-A Druckbleistift GRAPHGEAR 1000  MinenStärke: 0 5 mm
 
 ℹ️:
 
-- Pentel Druckbleistift GRAPHGEAR 1000, Minenst„rke: 0,5 mm
-- Pentel Druckbleistift GRAPHGEAR 1000, Minenst„rke: 0,5 mm
-- Pentel Druckbleistift GRAPHGEAR 1000, Minenst„rke: 0,5 mm
+- Lead grade indicator
+- Pocket clip sleeve retraction system
+- Sliding sleeve to enhance and retract lead
+- Rubber finger grip pips for added comfort and control
+- Quality mechanical pencil with brushed steel barrel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001E3GUBK/?tag=tolees0ca-21)

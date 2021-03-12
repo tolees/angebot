@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sylvanian Families 5302 Stadthaus mit Li mit 29.48 % Rabatt'
-date: 2021-03-08 04:50:52
+title: 'Sylvanian Families 5302 Stadthaus mit Li mit 39.45 % Rabatt'
+date: 2021-03-12 05:46:31
 image: 'https://m.media-amazon.com/images/I/51v+WYY6tmL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B07NQRYDCP-de Sylvanian Families 5302 Stadthaus mit Licht - Puppenhaus'
 sku: 'B07NQRYDCP-de'
 tags: [  ]
-actualPrice: 77.56 EUR
+actualPrice: 66.6 EUR
 currency: EUR
-price: 77.56
+price: 66.6
 comparePrice: 109.99 EUR
 prodname: 'Sylvanian Families 5302 Stadthaus mit Licht - Puppenhaus'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Sylvanian Families'
 buyurl: 'https://www.amazon.de/dp/B07NQRYDCP/?tag=tolees0ca-21'
-descuento: '29.48'
-average: '68.7808602150538'
+descuento: '39.45'
+average: '68.7576595744681'
 ---
 
-Sie können [Sylvanian Families 5302 Stadthaus mit Licht - Puppenhaus](https://www.amazon.de/dp/B07NQRYDCP/?tag=tolees0ca-21) mit Preis 77.56 EUR (original: 109.99 EUR) 29.48 % Rabatt hier:
+Sie können [Sylvanian Families 5302 Stadthaus mit Licht - Puppenhaus](https://www.amazon.de/dp/B07NQRYDCP/?tag=tolees0ca-21) mit Preis 66.6 EUR (original: 109.99 EUR) 39.45 % Rabatt hier:
 
 [![Sylvanian Families 5302 Stadthaus mit Li](https://m.media-amazon.com/images/I/51v+WYY6tmL._SL400_.jpg)](https://www.amazon.de/dp/B07NQRYDCP/?tag=tolees0ca-21)
 

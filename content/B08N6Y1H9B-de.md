@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DYON Smart 42 AD 105 4 cm  42 Zoll  Fern mit 26.32 % Rabatt'
-date: 2021-03-09 00:10:31
+date: 2021-03-12 06:30:45
 image: 'https://m.media-amazon.com/images/I/41d-7U5T9uL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'DYON'
 buyurl: 'https://www.amazon.de/dp/B08N6Y1H9B/?tag=tolees0ca-21'
 descuento: '26.32'
-average: '261.582111111112'
+average: '261.982282608696'
 ---
 
 Sie können [DYON Smart 42 AD 105 4 cm  42 Zoll  Fernseher  Full-HD  HD Triple Tuner  Google Play Store  Google Assistant  Prime Video  Netflix  BT-Fernbedienung mit Mikrofon  [Modelljahr 2021]](https://www.amazon.de/dp/B08N6Y1H9B/?tag=tolees0ca-21) mit Preis 279.99 EUR (original: 379.99 EUR) 26.32 % Rabatt hier:
@@ -28,14 +28,14 @@ Sie können [DYON Smart 42 AD 105 4 cm  42 Zoll  Fernseher  Full-HD  HD Triple T
 
 ℹ️:
 
-- Auflösung: 1.920 x 1.080 Pixel (Full-HD) / Bildwiederholrate: 50/60 Hz
-- Digitaler Empfang: HD Triple Tuner für DVB-S2, DVB-C und DVB-T2 mit HEVC
-- HbbTV, Streaming Dienste: Prime Video, Netflix, YouTube, Disney+, DAZN, Chromcast, uvm.
-- Android TV 9.0 mit Google Assistant und Zugriff auf den Google Play Store
-- Fernbedienung: Netflix und YouTube Taste für Schnellstart
-- Typ: Android 9.0 LED-Fernseher mit 105,4 cm (41,5 Zoll) Bildschirmdiagonale
-- Lieferumfang: Smart 42 AD, Fernbedienung inkl. Batterien, Standfuß, Schnellstart-Bedienungsanleitung
 - Abmessung (mit Standfuß): 95,1 x 59,7 x 22,2 cm (BxHxT)
+- Digitaler Empfang: HD Triple Tuner für DVB-S2, DVB-C und DVB-T2 mit HEVC
+- Typ: Android 9.0 LED-Fernseher mit 105,4 cm (41,5 Zoll) Bildschirmdiagonale
 - Wandhalterung (nicht mitgeliefert): 200 x 200 mm
+- Fernbedienung: Netflix und YouTube Taste für Schnellstart
+- Android TV 9.0 mit Google Assistant und Zugriff auf den Google Play Store
+- Lieferumfang: Smart 42 AD, Fernbedienung inkl. Batterien, Standfuß, Schnellstart-Bedienungsanleitung
+- Auflösung: 1.920 x 1.080 Pixel (Full-HD) / Bildwiederholrate: 50/60 Hz
+- HbbTV, Streaming Dienste: Prime Video, Netflix, YouTube, Disney+, DAZN, Chromcast, uvm.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08N6Y1H9B/?tag=tolees0ca-21)
