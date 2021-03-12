@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link UB400 Nano USB Bluetooth 4.0 Ada mit 24.65 % Rabatt'
-date: 2021-03-10 07:55:42
+date: 2021-03-12 01:13:50
 image: 'https://m.media-amazon.com/images/I/412OOSCOosL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B07NQ5YGDW/?tag=tolees0ca-21'
 descuento: '24.65'
-average: '9.71547738693466'
+average: '9.71549999999999'
 ---
 
 Sie können [TP-Link UB400 Nano USB Bluetooth 4.0 Adapter Dongle  für PC Laptop Desktop Computer  unterstützt Windows 10/8.1/8/7/XP  Plug & Play für Windows 10/8.1/8 ](https://www.amazon.de/dp/B07NQ5YGDW/?tag=tolees0ca-21) mit Preis 9.72 EUR (original: 12.9 EUR) 24.65 % Rabatt hier:
@@ -28,11 +28,11 @@ Sie können [TP-Link UB400 Nano USB Bluetooth 4.0 Adapter Dongle  für PC Laptop
 
 ℹ️:
 
-- PS4 Controller kompatibel: Weitere Informationen finden Sie im PDF unter Produktinformation
 - Bluetooth 4.0 ausgestattet mit der letzten Bluetooth 4.0 BLE-Technologie (Bluetooth Low Energy) auch abwärtskompatibel mit Bluetooth V3.0/2.1/2.0/1.1
 - Lieferumfang - Bluetooth 4.0 Nano USB Adapter UB400, Quick Installation Guide
-- Plug and Play keine Konfiguration erforderlich (für Win 8, Win 8.1 und Win 10)
 - Nano-Design, Mini-Format, Ideal für den Einsatz unterwegs.Betriebstemperatur: 0 ~ 40 °C
+- PS4 Controller kompatibel: Weitere Informationen finden Sie im PDF unter Produktinformation
+- Plug and Play keine Konfiguration erforderlich (für Win 8, Win 8.1 und Win 10)
 - Betriebssystem: Unterstützt Windows 10/8.1/8/7/XP
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07NQ5YGDW/?tag=tolees0ca-21)
