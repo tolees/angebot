@@ -28,10 +28,10 @@ Es gibt ein [LG Electronics - LG 43UN71006LB 108 cm  43 Zoll  UHD Fernseher  4K 
 
 ℹ️:
 
-- Prozessor: Quad Core Prozessor mit AI Sound
+- Bild und Ton: Optimale HDR-Unterstützung durch Active HDR mit HDR10 Pro und HLG, 4K Upscaler, 2.0 Soundsystem mit 20 Watt
 - 4K UHD Smart TV mit 108 cm (43 Zoll) Bildschirmdiagonale, Außenmaße 97,5 cm x 62,7 cm, VESA Norm: 200 x 200 mm
 - Smart TV: webOS 5.0 (LG ThinQ) mit Google Assistant und Alexa-Vorbereitung (optionale LG Magic Remote Fernbedienung erforderlich), Apple AirPlay 2-kompatibel, Home Dashboard
-- Bild und Ton: Optimale HDR-Unterstützung durch Active HDR mit HDR10 Pro und HLG, 4K Upscaler, 2.0 Soundsystem mit 20 Watt
+- Prozessor: Quad Core Prozessor mit AI Sound
 - Tunertyp und Konnektivität: Single Triple Tuner: 1x (DVB-T2 HD/-C/-S2), CI+ 1. 4, WLAN (802. 11ac), LAN, Bluetooth
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B084XSRM96/?tag=tolees0ca-21)

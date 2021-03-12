@@ -28,11 +28,11 @@ Es gibt ein [Deutsche Telekom Speedport Smart 3  R  | Basis für WLAN-Mesh  Mage
 
 ℹ️:
 
+- Magenta SmartHome integriert
+- Superschnelles WLAN mit bis zu 2500 Mbit/s und verbesserte Reichweite durch 4 Antennen pro Frequenzbereich
+- für Magenta TV
 - Basis-Funktion für Magenta SmartHome integriert kein weiteres Gateway wird benötigt
 - Bestens für MagentaTV gerüstet, unterstützt mehrere hochauflösende Streams in UHD
-- Magenta SmartHome integriert
-- für Magenta TV
-- Superschnelles WLAN mit bis zu 2500 Mbit/s und verbesserte Reichweite durch 4 Antennen pro Frequenzbereich
 - Für den IP-basierten Telekom Anschluss mit Anschlussgeschwindigkeiten bis 1000 MBit/s
 - Basis für WLAN-Mesh - Beste Geschwindigkeit in allen Räumen durch WLAN-Mesh-Technologie, erweiterbar mit bis zu 5 Mesh-Punkten
 

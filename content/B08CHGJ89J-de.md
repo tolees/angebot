@@ -28,10 +28,10 @@ Sie können [Razer Kishi für Android  Xbox xCloud  - Smartphone Gaming Controll
 
 ℹ️:
 
-- UNTERSTÜTZT CLOUD GAMING: Da mittlerweile ja AAA-Titel auf jedem Bildschirm gespielt werden können, den Controller direkt am Gerät befestigen und immer und überall spielen zu können
-- LATENZFREIES GAMEPLAY: Anders als kabellose Bluetooth-Controller, die mit Latenzen zu kämpfen haben, ist dieser Controller absolut latenzfrei, weil er direkt mit dem Ladeanschluss des Geräts verbunden wird- alle Tasten reagieren sofort
 - PASST ZU DEN MEISTEN ANDROID-GERÄTE: Dank seinem flexiblen Designs lässt sich der Controller an einer Vielzahl von Smartphones schnell und einfach befestigen; Für besonders große Geräte wie das Razer Phone oder Razer Phone 2 lassen sich die Gummieinlagen entfernen und durch speziell angepasste ersetzen
-- KLICKBARE ANALOG STICK: Wie mit einem vertrauten Konsolen-Controller einfach besser zielen und zuschlagen – mit einer ganzen Reihe von Tasten und Bumpern sowie einem eigenen Steuerkreuz
+- UNTERSTÜTZT CLOUD GAMING: Da mittlerweile ja AAA-Titel auf jedem Bildschirm gespielt werden können, den Controller direkt am Gerät befestigen und immer und überall spielen zu können
 - USB-C-LADEANSCHLUSS: Wenn dem Akku des Smartphones im Spiel die Puste ausgeht, lässt sich der Controller einfach mit einem Ladekabel verbinden, um es wieder aufzuladen
+- KLICKBARE ANALOG STICK: Wie mit einem vertrauten Konsolen-Controller einfach besser zielen und zuschlagen – mit einer ganzen Reihe von Tasten und Bumpern sowie einem eigenen Steuerkreuz
+- LATENZFREIES GAMEPLAY: Anders als kabellose Bluetooth-Controller, die mit Latenzen zu kämpfen haben, ist dieser Controller absolut latenzfrei, weil er direkt mit dem Ladeanschluss des Geräts verbunden wird- alle Tasten reagieren sofort
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08CHGJ89J/?tag=tolees0ca-21)

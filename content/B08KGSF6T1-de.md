@@ -29,8 +29,8 @@ Sie können [Funko 51624 POP Marvel: The Falcon and The Winter Soldier – Falco
 ℹ️:
 
 - Sammle sie alle
-- Schauen Sie sich auch die anderen Funko-Figuren an, die dieser Sammlung gewidmet sind
 - Die Figur ist 9 cm groß und wird in einer Schaufensterbox geliefert
+- Schauen Sie sich auch die anderen Funko-Figuren an, die dieser Sammlung gewidmet sind
 - POP Marvel: The Falcon and The Winter Soldier – Falcon POP! Vinyl von Funko
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08KGSF6T1/?tag=tolees0ca-21)
