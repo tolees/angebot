@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76173 Spider-Man und Ghost Rider vs mit 22.31 % Rabatt'
-date: 2021-03-12 06:22:32
+date: 2021-03-13 06:26:48
 image: 'https://m.media-amazon.com/images/I/51BOtUPHzIL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4Q1CXF/?tag=tolees0ca-21'
 descuento: '22.31'
-average: '16.4663636363637'
+average: '16.3883333333334'
 ---
 
 Sie können [LEGO 76173 Spider-Man und Ghost Rider vs. Carnage mit Spielzeugauto zum Bauen  Marvel Super Heroes Set](https://www.amazon.de/dp/B08G4Q1CXF/?tag=tolees0ca-21) mit Preis 15.53 EUR (original: 19.99 EUR) 22.31 % Rabatt hier:
@@ -30,10 +30,10 @@ Sie können [LEGO 76173 Spider-Man und Ghost Rider vs. Carnage mit Spielzeugauto
 
 - Zu den witzigen Extras zählen Spider-Gwens Skateboard und Netze, Mysterios schimmernder Kuppelhelm sowie Geld als Beute für Doctor Octopus
 - In der kostenlosen LEGO Building Instructions App sind Instructions PLUS zugänglich, die Kinder beim Bauen eine digitale Modellansicht vergrößern und drehen lassen, um noch mehr Bauspaß zu bieten
+- Für Kinder ab 7 Jahren. Dieses herausragende Set ist das ideale Geburtstags-, Weihnachts- oder Überraschungsgeschenk für junge Superhelden
 - Drei klassische Marvel Charaktere und das megastarke Auto von Ghost Rider bieten unzählige Möglichkeiten. Kinder können das Set bauen und als Dekoelement präsentieren und fantasievolle Superheldenabenteuer als Rollenspiele inszenieren
 - Kinder können die Flammen abnehmen, um das Auto von Ghost Rider in ein schnittiges schwarzes Muscle Car zu verwandeln
-- LEGO Marvel Spider-Man: Spider-Man und Ghost Rider vs. Carnage (76173) ist ein hochwertiges Bauset mit 3 legendären Charakteren aus dem Marvel Universum, die unzählige fantasievolle Spielmöglichkeiten bieten
 - Enthält Spider-Man, Carnage und Ghost Rider als Minifiguren. Ghost Riders schickes robustes Auto verfügt über ein abnehmbares Dach, abnehmbare Flammen und einen 3-schüssigen Shooter im Kompressor, der aus der Motorhaube herausragt
-- Für Kinder ab 7 Jahren. Dieses herausragende Set ist das ideale Geburtstags-, Weihnachts- oder Überraschungsgeschenk für junge Superhelden
+- LEGO Marvel Spider-Man: Spider-Man und Ghost Rider vs. Carnage (76173) ist ein hochwertiges Bauset mit 3 legendären Charakteren aus dem Marvel Universum, die unzählige fantasievolle Spielmöglichkeiten bieten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08G4Q1CXF/?tag=tolees0ca-21)
