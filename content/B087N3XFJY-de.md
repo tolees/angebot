@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko 50963 The Mandalorian Child w/Bag  mit 17.82 % Rabatt'
-date: 2021-03-12 05:41:04
+title: 'Funko 50963 The Mandalorian Child w/Bag  mit 16.42 % Rabatt'
+date: 2021-03-13 05:58:48
 image: 'https://m.media-amazon.com/images/I/41Y72z-HQQL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B087N3XFJY-de Funko 50963 The Mandalorian Child w/Bag Sammelbares...'
 sku: 'B087N3XFJY-de'
 tags: [  ]
-actualPrice: 16.83 EUR
+actualPrice: 16.95 EUR
 currency: EUR
-price: 16.83
-comparePrice: 20.48 EUR
+price: 16.95
+comparePrice: 20.28 EUR
 prodname: 'Funko 50963 The Mandalorian Child w/Bag Sammelbares Spielzeug  Mehrfarben'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Funko'
 buyurl: 'https://www.amazon.de/dp/B087N3XFJY/?tag=tolees0ca-21'
-descuento: '17.82'
-average: '16.9131623931624'
+descuento: '16.42'
+average: '16.9132773109244'
 ---
 
-Sie können [Funko 50963 The Mandalorian Child w/Bag Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B087N3XFJY/?tag=tolees0ca-21) mit Preis 16.83 EUR (original: 20.48 EUR) 17.82 % Rabatt hier:
+Sie können [Funko 50963 The Mandalorian Child w/Bag Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B087N3XFJY/?tag=tolees0ca-21) mit Preis 16.95 EUR (original: 20.28 EUR) 16.42 % Rabatt hier:
 
 [![Funko 50963 The Mandalorian Child w/Bag ](https://m.media-amazon.com/images/I/41Y72z-HQQL._SL400_.jpg)](https://www.amazon.de/dp/B087N3XFJY/?tag=tolees0ca-21)
 

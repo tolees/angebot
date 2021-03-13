@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.55 % rabat auf LEGO Architecture London Skyline Collect'
-date: 2021-03-12 05:35:50
+date: 2021-03-13 05:38:10
 image: 'https://m.media-amazon.com/images/I/51mcwZ37enL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B01KJENN0U/?tag=tolees0ca-21'
 descuento: '20.55'
-average: '50.5458333333332'
+average: '50.1814516129031'
 ---
 
 Es gibt ein [LEGO Architecture London Skyline Collection 21034 Building Set Model Kit and Gift for Kids and Adults  468 Pieces ](https://www.amazon.de/dp/B01KJENN0U/?tag=tolees0ca-21) mit aktuellem Preis 39.25 EUR (original: 49.4 EUR) 20.55 % Rabatt hier:
