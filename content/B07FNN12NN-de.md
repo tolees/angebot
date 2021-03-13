@@ -28,10 +28,10 @@ Es gibt ein [LEGO 41361 Friends Mias Fohlenstall  Spielset mit Mia als Minipuppe
 
 ℹ️:
 
-- Die Lego 4+ Reihe bietet dem Kind eine Welt mit seinen Lieblingsfiguren aus Film und Fernsehen sowie mit Alltagshelden
-- Dieses Set umfasst auch einen einfach zu bauenden Fohlenstall, Traktor, Kaninchenstall und Paddock
 - Die Lego 4+ Sets sind einfach zu bauen und bieten jede Menge Spaß. Sie stärken auch das Selbstbewusstsein, indem Kindergarten- und Grundschulkinder die einfachen Bauschritte ganz allein durchführen können
-- Zum Zubehör gehören eine Bürste, eine Schaufel, eine Aufbewahrungskiste, eine Karotte, Heu und ein Apfel
 - Enthält die Lego Friends Spielfigur Mia, zwei Fohlenfiguren und eine Kaninchenfigur; So gelingt ihnen der ideale Einstieg in die Welt des Bauens mit Lego Steinen
+- Die Lego 4+ Reihe bietet dem Kind eine Welt mit seinen Lieblingsfiguren aus Film und Fernsehen sowie mit Alltagshelden
+- Zum Zubehör gehören eine Bürste, eine Schaufel, eine Aufbewahrungskiste, eine Karotte, Heu und ein Apfel
+- Dieses Set umfasst auch einen einfach zu bauenden Fohlenstall, Traktor, Kaninchenstall und Paddock
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FNN12NN/?tag=tolees0ca-21)

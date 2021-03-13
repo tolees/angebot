@@ -28,7 +28,7 @@ Es gibt ein [G-STAR RAW Herren T-Shirt Stem  Asfalt B406-995  Large](https://www
 
 ℹ️:
 
-- Runder Ausschnitt
 - Abgerundeter Saum
+- Runder Ausschnitt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B084R2QL6M/?tag=tolees0ca-21)

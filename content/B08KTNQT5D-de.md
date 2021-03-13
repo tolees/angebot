@@ -28,10 +28,10 @@ Sie können [PLAYMOBIL City Action 70569 Polizei-Hubschrauber: Fallschirm-Verfol
 
 ℹ️:
 
-- Hubschrauber: drehbare Rotoren, platzbietend für 2 Erwachsenenfiguren, Kufe außen als Standfläche, Fallschirm für 1 Figur: zum Hochwerfen/Schweben uvm.
-- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Lieferumfang: 1x PLAYMOBIL City Action Polizei-Hubschrauber: Fallschirm-Verfolgung, 19-teiliges Spielfiguren-Set mit Anleitung: 1 Hubschrauber, 1 Fallschirm, 2 Figuren, 15 Zubehörteile, Material: Kunststoff, LxTxH Hubschrauber: 31x11,5x13,5 cm / Durchmesser Fallschirm: 48 cm, Gewicht: 214 g, 70569
-- Einsatz für den Polizei-Hubschrauber: PLAYMOBIL Fallschirm-Verfolgung mit Polizist, Verbrecher und Zubehör zum detailgetreuen Nachspielen
+- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
+- Hubschrauber: drehbare Rotoren, platzbietend für 2 Erwachsenenfiguren, Kufe außen als Standfläche, Fallschirm für 1 Figur: zum Hochwerfen/Schweben uvm.
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
+- Einsatz für den Polizei-Hubschrauber: PLAYMOBIL Fallschirm-Verfolgung mit Polizist, Verbrecher und Zubehör zum detailgetreuen Nachspielen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08KTNQT5D/?tag=tolees0ca-21)

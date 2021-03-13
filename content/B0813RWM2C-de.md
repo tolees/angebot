@@ -28,10 +28,10 @@ Es gibt ein [LEGO 41429 Friends Heartlake City Flugzeug  Spielzeug  Sommerferien
 
 ℹ️:
 
-- Kids can check-in to head off on vacation, put their cases in overhead compartments, serve aeroplane food, watch movies or visit the pilot
 - Check out other LEGO Friends sets: Beach House 41428, Party Boat 41433, Heartlake City Park Café 41426 and Summer Fun Water Park 41430
 - Features a toy plane with 3 removable roof sections for easy access, openable luggage compartments, and detailed cockpit and passenger area
 - Includes movable boarding steps, seatback TV screens, check-in desk with X-ray, plus the tail section opens to store passengers’ luggage
+- Kids can check-in to head off on vacation, put their cases in overhead compartments, serve aeroplane food, watch movies or visit the pilot
 - Includes buildable Stephanie, Olivia and Captain Ashley mini-dolls, a dog figure, plus lots of fun aeroplane and holiday accessories
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0813RWM2C/?tag=tolees0ca-21)
