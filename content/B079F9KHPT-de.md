@@ -28,10 +28,10 @@ Sie können [Bethesda - Wolfenstein: The New Order & The Old Blood  Bundle ](htt
 
 ℹ️:
 
-- Wolfenstein: The Old Blood ist das eigenständige Prequel des hochgelobten Action-Adventure-Shooters
+- Nur Sie haben den Mut, sich der Armee von Kampfrobotern und Maschinensoldaten entgegenzustellen
 - Wolfenstein: The New Order und The Old Blood in einem Set
 - Vereinen Sie den Widerstand und nutzen Sie vernichtende Waffen
-- Nur Sie haben den Mut, sich der Armee von Kampfrobotern und Maschinensoldaten entgegenzustellen
+- Wolfenstein: The Old Blood ist das eigenständige Prequel des hochgelobten Action-Adventure-Shooters
 - Wolfenstein: The New Order definiert die legendäre Spielereihe, die einst das Ego-Shooter-Genre begründet hat
 
 [🛒 Hier!!](https://www.amazon.de/dp/B079F9KHPT/?tag=tolees0ca-21)

@@ -28,8 +28,8 @@ Sie können [Schülke 112002 Waschlotion  1 L](https://www.amazon.de/dp/B003OEQS
 
 ℹ️:
 
-- Seifenfreie Waschlotion auf Basis einer Kombination hautverträglicher Tenside und Pflegekomponenten
-- Premium-Qualität
 - Pack: 1
+- Premium-Qualität
+- Seifenfreie Waschlotion auf Basis einer Kombination hautverträglicher Tenside und Pflegekomponenten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B003OEQS3C/?tag=tolees0ca-21)

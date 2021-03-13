@@ -29,9 +29,9 @@ Sie können [Huawei Y7 2018 Dual-SIM Smartphone BUNDLE 15 2 cm  5 99 Zoll   3000
 ℹ️:
 
 - HUAWEI Y7 2018, Akku (fest verbaut), Ladegerät, USB-Kabel, Schnellstartanleitung, SIM-Werkzeug, Garantiekarte, 3,5mm Kopfhörer
-- Leistungsstarker 3000-mAh-Akku für langes Standby, AndroidTM 8.0 mit HUAWEI EMUI 8.0
 - Praktisches Fach für 3 gängige Karten (2 SIM + microSD)
 - Fingerabdrucksensor für schnelles und bequemes Entsperren
+- Leistungsstarker 3000-mAh-Akku für langes Standby, AndroidTM 8.0 mit HUAWEI EMUI 8.0
 - 15,2 cm (5,99”) HUAWEI FullView Display im 18:9-Format
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07CSQHCTH/?tag=tolees0ca-21)
