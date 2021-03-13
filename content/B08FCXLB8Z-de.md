@@ -29,8 +29,8 @@ Es gibt ein [Microsoft - Xbox Play & Charge Kit M](https://www.amazon.de/dp/B08F
 ℹ️:
 
 - Bleibe immer im Spiel mit dem Xbox Play & Charge Kit + USB-C Kabel.
+- Verabschiede dich von Einweg-Batterien und Zwangspausen beim Gaming.
 - Der langlebige, wiederaufladbare Akku ist nach unter 4 Stunden wieder voll aufgeladen.
 - Lade während oder nach deinem Spiel, auch wenn deine Xbox im Standby-Modus ist.
-- Verabschiede dich von Einweg-Batterien und Zwangspausen beim Gaming.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08FCXLB8Z/?tag=tolees0ca-21)
