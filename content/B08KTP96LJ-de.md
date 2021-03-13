@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.01 % rabat auf PLAYMOBIL City Action 70571 Polizei-Robo'
-date: 2021-03-12 05:57:18
+date: 2021-03-13 12:28:33
 image: 'https://m.media-amazon.com/images/I/51KYNdun+4L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.de/dp/B08KTP96LJ/?tag=tolees0ca-21'
 descuento: '20.01'
-average: '16.2042857142857'
+average: '16.1775'
 ---
 
 Es gibt ein [PLAYMOBIL City Action 70571 Polizei-Roboter: Spezialeinsatz  Für Kinder von 4 - 10 Jahre](https://www.amazon.de/dp/B08KTP96LJ/?tag=tolees0ca-21) mit aktuellem Preis 15.99 EUR (original: 19.99 EUR) 20.01 % Rabatt hier:
@@ -28,9 +28,10 @@ Es gibt ein [PLAYMOBIL City Action 70571 Polizei-Roboter: Spezialeinsatz  Für K
 
 ℹ️:
 
-- Daily play: instructions for assembly together with parents, high-quality and robust design, cleaning the parts (without stickers) under running water without chemicals.
-- Figures: 1 policeman, 1 ganove accessories: 1 police robot, 1 helmet with visor, 1 helmet with headlamp, 1 warning sign "risk of explosion", 2 bars dynamite, 1 explosive bottle, 1 fire accelerator, 1 pair of gloves, 1 single glove.
-- Toy set for children aged 4 and up: ideal for childrens hands due to age-appropriate size and pleasant feel with rounded edges.
-- Fun for little police fans: Playmobil police robot including 2 figures and lots of great accessories for replaying.
+- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
+- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
+- Roboter mit öffenbarer Kanzel für 1 Erwachsenenfigur: bewegliche Beine, Arme und Hüfte, drehbare Hände mit je 3 einzeln beweglichen Fingern uvm.
+- Einsatz für den Polizei-Roboter: PLAYMOBIL Spezial-Einsatz mit Polizist, Gangster und Zubehör zum detailgetreuen Nachspielen
+- Lieferumfang: 1x PLAYMOBIL City Action Polizei-Roboter: Spezialeinsatz , 50-teiliges Spielfiguren-Set mit Anleitung: 1 Roboter, 2 Figuren, 47 Zubehörteile, Material: Kunststoff, Individuell auftellbar / LxTxH Robotor (gerade stehend): ca. 13x8x17,5 cm, Gewicht: 184 g, 70571
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08KTP96LJ/?tag=tolees0ca-21)

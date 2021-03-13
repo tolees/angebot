@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '25.35 % rabat auf Sony Xperia 5 II 5G Smartphone  15 5 cm '
-date: 2021-03-12 05:48:57
+title: '27.51 % rabat auf Sony Xperia 5 II 5G Smartphone  15 5 cm '
+date: 2021-03-13 12:09:04
 image: 'https://m.media-amazon.com/images/I/41DGS5Dvu+L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: ring
 slug: 'B08HZCKHGG-de Sony Xperia 5 II 5G Smartphone 15 5 cm 6.1 Zoll 21:9...'
 sku: 'B08HZCKHGG-de'
 tags: [  ]
-actualPrice: 693.0 EUR
+actualPrice: 672.9 EUR
 currency: EUR
-price: 693.0
+price: 672.9
 comparePrice: 928.31 EUR
 prodname: 'Sony Xperia 5 II 5G Smartphone  15 5 cm  6.1 Zoll  21:9 CinemaWide FHD+ HDR OLED-Display  Dreifach-Kamera-System  3 5-mm-Audio-Anschluss  Android 10  SIM Free  8 GB RAM  128 GB Speicher  Schwarz'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B08HZCKHGG/?tag=tolees0ca-21'
-descuento: '25.35'
-average: '810.92176165803'
+descuento: '27.51'
+average: '809.506153846152'
 ---
 
-Es gibt ein [Sony Xperia 5 II 5G Smartphone  15 5 cm  6.1 Zoll  21:9 CinemaWide FHD+ HDR OLED-Display  Dreifach-Kamera-System  3 5-mm-Audio-Anschluss  Android 10  SIM Free  8 GB RAM  128 GB Speicher  Schwarz](https://www.amazon.de/dp/B08HZCKHGG/?tag=tolees0ca-21) mit aktuellem Preis 693.0 EUR (original: 928.31 EUR) 25.35 % Rabatt hier:
+Es gibt ein [Sony Xperia 5 II 5G Smartphone  15 5 cm  6.1 Zoll  21:9 CinemaWide FHD+ HDR OLED-Display  Dreifach-Kamera-System  3 5-mm-Audio-Anschluss  Android 10  SIM Free  8 GB RAM  128 GB Speicher  Schwarz](https://www.amazon.de/dp/B08HZCKHGG/?tag=tolees0ca-21) mit aktuellem Preis 672.9 EUR (original: 928.31 EUR) 27.51 % Rabatt hier:
 
 [![Sony Xperia 5 II 5G Smartphone  15 5 cm ](https://m.media-amazon.com/images/I/41DGS5Dvu+L._SL400_.jpg)](https://www.amazon.de/dp/B08HZCKHGG/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Durch die kompakte Größe liegt das Smartphone perfekt in der Hand und passt in jede Hosentasche.
-- Echtzeit-Augen-Autofokus für Menschen und Tiere sowie weitere innovative Technologien der Alpha-Kameraserie von Sony.
-- Kompakt und leistungsstark mit zuverlässigem 4.000-mAh-Akku und 5G-Technologie.
-- Die 120-Hz-Bildfrequenzrate und die 240-Hz-Touch-Scanning-Rate sorgen für starke Gaming Leistung.
 - Das 21:9 CinemaWide FHD+ und HDR OLED-Display bietet branchenführende Farbtreue.
+- Kompakt und leistungsstark mit zuverlässigem 4.000-mAh-Akku und 5G-Technologie.
+- Durch die kompakte Größe liegt das Smartphone perfekt in der Hand und passt in jede Hosentasche.
+- Die 120-Hz-Bildfrequenzrate und die 240-Hz-Touch-Scanning-Rate sorgen für starke Gaming Leistung.
+- Echtzeit-Augen-Autofokus für Menschen und Tiere sowie weitere innovative Technologien der Alpha-Kameraserie von Sony.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08HZCKHGG/?tag=tolees0ca-21)

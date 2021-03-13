@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.01 % rabat auf PLAYMOBIL City Life 70542 Im Stadtpark  '
-date: 2021-03-12 06:10:57
+date: 2021-03-13 12:31:52
 image: 'https://m.media-amazon.com/images/I/61-3n9d7WNL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'PLAYMOBIL'
 buyurl: 'https://www.amazon.de/dp/B08KVVNCDB/?tag=tolees0ca-21'
 descuento: '20.01'
-average: '16.1411111111111'
+average: '16.126'
 ---
 
 Es gibt ein [PLAYMOBIL City Life 70542 Im Stadtpark  Ab 4 Jahren](https://www.amazon.de/dp/B08KVVNCDB/?tag=tolees0ca-21) mit aktuellem Preis 15.99 EUR (original: 19.99 EUR) 20.01 % Rabatt hier:
