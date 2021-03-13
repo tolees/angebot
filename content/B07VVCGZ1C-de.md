@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Damen Go Walk Smart Influence S mit 29.96 % Rabatt'
-date: 2021-03-12 18:12:29
+date: 2021-03-13 18:49:17
 image: 'https://m.media-amazon.com/images/I/41UXpnoNiBL._SL400_.jpg'
 comments: true
 category: ofertas
