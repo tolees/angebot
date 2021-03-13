@@ -30,8 +30,8 @@ Sie können [Acer ED  ED273URPbidpx  69 cm  27 Zoll  VA Curved ZeroFrame Monitor
 
 - Zero-Frame-Monitore zeichnen sich durch minimale Rahmen aus. Bilder erscheinen auf dem Monitor größer und Übergänge bei Multi-Monitor-Setups sind nahezu nahtlos.
 - Curved Monitore unterstützen durch die geschwungene Form des Bildschirms das natürliche Blickfeld des Benutzers. Das breitere Sichtfeld sorgt für ein immersives Bilderlebnis.
-- Mit einer Bildwiederholrate von bis zu 144 Hz eignet sich der Monitor ideal für schnelle, actionreiche Spiele.
-- AMD Freesync sorgt dafür, dass die Bildwiederholfrequenz (Hz) des Monitors an die des ausgebenden Gerätes angepasst wird und somit ruckelfreie, flüssige Spielesessions ermöglicht werden.
 - Highlights: 16:9 Curved Monitor mit einer WQHD Auflösung von 2560x1440, 4ms GTG, 144 Hz, FreeSync
+- AMD Freesync sorgt dafür, dass die Bildwiederholfrequenz (Hz) des Monitors an die des ausgebenden Gerätes angepasst wird und somit ruckelfreie, flüssige Spielesessions ermöglicht werden.
+- Mit einer Bildwiederholrate von bis zu 144 Hz eignet sich der Monitor ideal für schnelle, actionreiche Spiele.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MJLC5K7/?tag=tolees0ca-21)

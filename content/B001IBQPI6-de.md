@@ -28,10 +28,10 @@ Es gibt ein [Bosch Professional Hammerbohrer SDS-plus-5  Ø 16 mm ](https://www.
 
 ℹ️:
 
-- Zwei Schneiden, gefertigt mit optimierter Löt- und Härtungstechnologie, um die Robustheit des Bohrers zu steigern und die Vibrationen während des Bohrens zu senken.
 - Durchmesser x Arbeitslänge x Gesamtlänge: 16 x 200 x 265 mm
-- Für alle Bohrhämmer mit SDS-plus-Aufnahme
+- Zwei Schneiden, gefertigt mit optimierter Löt- und Härtungstechnologie, um die Robustheit des Bohrers zu steigern und die Vibrationen während des Bohrens zu senken.
 - Professionelles Bearbeiten von Mauerwerk und Beton
+- Für alle Bohrhämmer mit SDS-plus-Aufnahme
 - Aus langlebigem Hartmetall für gute Lebensdauer und Widerstandsfähigkeit. Verzahntes Hartmetall am Bohrkopf und patentiertes 4-spiraliges Turbo-Design für effizienten Bohrmehlabtransport ohne Verstopfen. Mit gut sichtbarem Verschleißindikator.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001IBQPI6/?tag=tolees0ca-21)

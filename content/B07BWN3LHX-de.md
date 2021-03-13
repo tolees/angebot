@@ -28,10 +28,10 @@ Sie können [Pandora Moments Mother Heart Damen Bead Charm Pandora Rose 10 5 x 1
 
 ℹ️:
 
-- Material: Pandora Rose
-- Größe: 10,5 x 11 mm
-- Modell: Mother Heart
 - Stein: Cubic Zirkonia Klar
+- Material: Pandora Rose
 - Herz mit Gravur Mum
+- Modell: Mother Heart
+- Größe: 10,5 x 11 mm
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07BWN3LHX/?tag=tolees0ca-21)
