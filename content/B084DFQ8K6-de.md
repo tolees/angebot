@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.02 % rabat auf Warner Bros Entertainment - Nightlife'
-date: 2021-03-11 01:12:13
+date: 2021-03-13 07:38:56
 image: 'https://m.media-amazon.com/images/I/51-O9ud13+L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Warner Bros Entertainment'
 buyurl: 'https://www.amazon.de/dp/B084DFQ8K6/?tag=tolees0ca-21'
 descuento: '15.02'
-average: '6.745'
+average: '6.76'
 ---
 
 Es gibt ein [Warner Bros Entertainment - Nightlife](https://www.amazon.de/dp/B084DFQ8K6/?tag=tolees0ca-21) mit aktuellem Preis 6.79 EUR (original: 7.99 EUR) 15.02 % Rabatt hier:

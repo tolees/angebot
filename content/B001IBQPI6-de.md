@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '48.23 % rabat auf Bosch Professional Hammerbohrer SDS-plus'
-date: 2021-03-13 06:59:27
+date: 2021-03-13 07:00:48
 image: 'https://m.media-amazon.com/images/I/216rlk7h9qL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Es gibt ein [Bosch Professional Hammerbohrer SDS-plus-5  Ø 16 mm ](https://www.
 
 ℹ️:
 
+- Zwei Schneiden, gefertigt mit optimierter Löt- und Härtungstechnologie, um die Robustheit des Bohrers zu steigern und die Vibrationen während des Bohrens zu senken.
 - Durchmesser x Arbeitslänge x Gesamtlänge: 16 x 200 x 265 mm
+- Für alle Bohrhämmer mit SDS-plus-Aufnahme
 - Professionelles Bearbeiten von Mauerwerk und Beton
 - Aus langlebigem Hartmetall für gute Lebensdauer und Widerstandsfähigkeit. Verzahntes Hartmetall am Bohrkopf und patentiertes 4-spiraliges Turbo-Design für effizienten Bohrmehlabtransport ohne Verstopfen. Mit gut sichtbarem Verschleißindikator.
-- Zwei Schneiden, gefertigt mit optimierter Löt- und Härtungstechnologie, um die Robustheit des Bohrers zu steigern und die Vibrationen während des Bohrens zu senken.
-- Für alle Bohrhämmer mit SDS-plus-Aufnahme
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001IBQPI6/?tag=tolees0ca-21)

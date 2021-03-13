@@ -28,10 +28,10 @@ Es gibt ein [Schmidt Spiele 59479 Thomas Kinkade  Disney Kleine Meerjungfrau  Ar
 
 ℹ️:
 
-- Empfohlenes Alter: ab 12 Jahren
 - Puzzle vom Painter of Light Thomas Kinkade
-- SCHMIDT SPIELE Premium-Puzzles – mit Qualität, die Sie greifen können.
-- Puzzlemaße: 69,30 x 49,30 cm
+- Empfohlenes Alter: ab 12 Jahren
 - 1000 Puzzleteile
+- Puzzlemaße: 69,30 x 49,30 cm
+- SCHMIDT SPIELE Premium-Puzzles – mit Qualität, die Sie greifen können.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01MUCR8UC/?tag=tolees0ca-21)
