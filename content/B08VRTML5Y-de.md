@@ -28,8 +28,8 @@ Sie können [adidas Sq21 Sw Top Sweatshirt für Herren  Herren  Sweatshirt  GT66
 
 ℹ️:
 
-- Bündchen und Saum aus Rippstrick
 - Plüsch 70% Baumwolle / 30% recyceltes Polyester
 - Rundhalsausschnitt
+- Bündchen und Saum aus Rippstrick
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08VRTML5Y/?tag=tolees0ca-21)

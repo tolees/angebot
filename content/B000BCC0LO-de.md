@@ -28,10 +28,10 @@ Es gibt ein [D-Link DGS-108 8-Port Layer2 Gigabit Switch  bis zu 2000 Mbit/s Dat
 
 ℹ️:
 
-- Arbeitet geräuschlos durch eine lüfterlose Bauweise
-- Sicheres Store-and-Forward Weiterleitungsverfahren
 - Energiesparende Funktionen mit D-Link Green
-- Im Full Duplex Modus bis zu 2000 Mbit/s pro Port
+- Arbeitet geräuschlos durch eine lüfterlose Bauweise
 - Automatische MDI/MDIX-Erkennung an allen Anschlüssen
+- Sicheres Store-and-Forward Weiterleitungsverfahren
+- Im Full Duplex Modus bis zu 2000 Mbit/s pro Port
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000BCC0LO/?tag=tolees0ca-21)

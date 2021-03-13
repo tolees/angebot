@@ -28,8 +28,8 @@ Sie können [adidas 3-Streifen French Terry C Sporthose Black/White M](https://w
 
 ℹ️:
 
-- French Terry Material
 - Regulär geschnitten; schmal zulaufende Beinform
 - Elastischer Bund mit Kordelzug
+- French Terry Material
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08PKZCV1R/?tag=tolees0ca-21)
