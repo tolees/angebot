@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel PG1015-A Druckbleistift GRAPHGEAR mit 27.63 % Rabatt'
-date: 2021-03-13 12:23:34
+date: 2021-03-14 12:29:26
 image: 'https://m.media-amazon.com/images/I/310YL1zkCcL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Pentel'
 buyurl: 'https://www.amazon.de/dp/B001E3GUBK/?tag=tolees0ca-21'
 descuento: '27.63'
-average: '11.8778571428573'
+average: '11.8678773584907'
 ---
 
 Sie können [Pentel PG1015-A Druckbleistift GRAPHGEAR 1000  MinenStärke: 0 5 mm](https://www.amazon.de/dp/B001E3GUBK/?tag=tolees0ca-21) mit Preis 10.82 EUR (original: 14.95 EUR) 27.63 % Rabatt hier:

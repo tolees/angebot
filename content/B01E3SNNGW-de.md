@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bose SoundSport  kabellose Sport-Earbuds mit 46.72 % Rabatt'
-date: 2021-02-28 12:32:40
+date: 2021-03-14 13:55:53
 image: 'https://m.media-amazon.com/images/I/41zMJvZc00L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Bose'
 buyurl: 'https://www.amazon.de/dp/B01E3SNNGW/?tag=tolees0ca-21'
 descuento: '46.72'
-average: '87.7'
+average: '85.9666666666667'
 ---
 
 Sie können [Bose SoundSport  kabellose Sport-Earbuds   schweißresistente Bluetooth-Kopfhörer zum Joggen   Blau](https://www.amazon.de/dp/B01E3SNNGW/?tag=tolees0ca-21) mit Preis 79.9 EUR (original: 149.95 EUR) 46.72 % Rabatt hier:
@@ -28,10 +28,9 @@ Sie können [Bose SoundSport  kabellose Sport-Earbuds   schweißresistente Bluet
 
 ℹ️:
 
-- Wireless convenience, with easy Bluetooth and NFC pairing aided by voice prompts
-- Exclusive Stay Hear+ tips keep the headphones comfortably in place during workouts
-- Sweat and weather resistance for reliability while exercising. Charging time: 2 hours
-- Up to 6 hours battery life per charge; please refer the User Guide before use
-- Bose active EQ provides balanced audio at any volume
+- Schweiß- und wetterfest, um bei sportlichen Aktivitäten für Verlässlichkeit zu sorgen
+- Die StayHear+ Ohreinsätze ergeben zusammen mit der einzigartige Form aus weichem Silikonmaterial eine angenehme Passform, die für optimalen Tragekomfort und sicheren Sitz sorgen
+- Bis zu 6 Stunden Batteriedauer pro Aufladung. Bitte ziehen Sie vor Gebrauch die Benutzeranleitung zurate
+- Kabelloser Komfort und Sprachansagen, die Sie durch den Bluetooth- und NFC-Kopplungsvorgang führen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01E3SNNGW/?tag=tolees0ca-21)
