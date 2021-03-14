@@ -28,13 +28,13 @@ Sie können [Xiaomi Mi Robot Vacuum Mop Pro Saugroboter mit Wischfunktion  Saugk
 
 ℹ️:
 
-- Hindernisüberwindung bis zu 20 mm (z. B. Leisten, Teppiche etc. )
 - Virtuelle Wände zur Einstellung von Saug- & Wischsperrzonen
-- V-förmiger Wischpfad zur Beseitgung hartnäckiger Flecken
-- 1 Laser Distanz + 12 Sensoren (LDS) für eine 360° Abdeckung
 - Wisch- & Saugfunktion mit einer hohen Saugleistung von 2. 100 Pa (3 Modi: Saugen / Wischen / Saugen & Wischen)
-- Autom. Raumerkennung für z. B. selektive Raumreinigung
-- Intelligenter Wassertank mit elektronischer Steuerung für variable Wischwasserregelung (3 Stufen)
+- Hindernisüberwindung bis zu 20 mm (z. B. Leisten, Teppiche etc. )
 - Steuerbar per Smartphone via Mi Home App oder per Sprachassistenten wie z. B. Google Assitant & Alexa
+- Intelligenter Wassertank mit elektronischer Steuerung für variable Wischwasserregelung (3 Stufen)
+- 1 Laser Distanz + 12 Sensoren (LDS) für eine 360° Abdeckung
+- Autom. Raumerkennung für z. B. selektive Raumreinigung
+- V-förmiger Wischpfad zur Beseitgung hartnäckiger Flecken
 
 [🛒 Hier!!](https://www.amazon.de/dp/B085BP7ZC5/?tag=tolees0ca-21)

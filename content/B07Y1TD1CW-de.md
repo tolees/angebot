@@ -28,10 +28,10 @@ Sie können [Dalmo Küchenarmatur  360° Drehbar Wasserhahn Küche aus Edelstahl
 
 ℹ️:
 
-- ▲ <b>Kein Spritzen oder Lärm</b> - Dalmo Mischbatterie ist mit einem ABS Perlator ausgestattet. Er filtert effektiv Verunreinigungen und verhindert Wasserkontamination. Das Wasser wird mit Luft angereichert, um das Wasser weich und angenehm zu machen
-- ▲ <b>Lieferumfang</b> - 1x Dalmo Küchenarmatur, 1x Metallscheibe, 1x Gummiunterlegscheibe, 1x Gegengewicht, 1x Mutter, 1x Benutzerhandbuch, 1x Grußkarte. Wir versprechen, dass Sie unseren freundlichen Kundenservice nutzen können
 - ▲ <b>Gesund & sicher</b> - Dalmo Küchenamatur ist für einen Hochdruckanschluss geeignet, besteht aus hochwertigem Chrom Edelstahl und ist zu 100% Blei- und Nickelfrei. Strenge Qualitätskontrollen und hochwertige Materialien, die den Bestimmungen der deutschen KTW Trinkwasserverordnung entsprechen, gewährleisten hohe Sicherheit und beste Wasserqualität
-- ▲ <b>Schwarze Spültischarmatur</b> - Schönes klassisches Design Einhebelarmatur für Ihr Waschbecken. Matte schwarze Oberfläche, elegant und charmant, geeignet für moderne Küche
 - ▲ <b>Flexibilität & Bewegungsfreiheit</b> - Der Küchen Wasserhahn verfügt über einen 20 cm hohen Auslauf. Er ist mit einer flexiblen ausziehbaren Brause ausgestattet, die in alle Richtungen biegsam ist. Dadurch ermöglicht die Küchenarmatur einen optimalen Bewegungsradius
+- ▲ <b>Schwarze Spültischarmatur</b> - Schönes klassisches Design Einhebelarmatur für Ihr Waschbecken. Matte schwarze Oberfläche, elegant und charmant, geeignet für moderne Küche
+- ▲ <b>Lieferumfang</b> - 1x Dalmo Küchenarmatur, 1x Metallscheibe, 1x Gummiunterlegscheibe, 1x Gegengewicht, 1x Mutter, 1x Benutzerhandbuch, 1x Grußkarte. Wir versprechen, dass Sie unseren freundlichen Kundenservice nutzen können
+- ▲ <b>Kein Spritzen oder Lärm</b> - Dalmo Mischbatterie ist mit einem ABS Perlator ausgestattet. Er filtert effektiv Verunreinigungen und verhindert Wasserkontamination. Das Wasser wird mit Luft angereichert, um das Wasser weich und angenehm zu machen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07Y1TD1CW/?tag=tolees0ca-21)
