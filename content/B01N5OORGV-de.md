@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Nintendo Joy-Con 2er-Set Neon-Rot/Neon-B mit 29.13 % Rabatt'
-date: 2021-03-07 05:43:33
+title: 'Nintendo Joy-Con 2er-Set Neon-Rot/Neon-B mit 17.50 % Rabatt'
+date: 2021-03-14 18:46:16
 image: 'https://m.media-amazon.com/images/I/41wK7MSkquL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B01N5OORGV-de Nintendo Joy-Con 2er-Set Neon-Rot/Neon-Blau'
 sku: 'B01N5OORGV-de'
 tags: [  ]
-actualPrice: 56.69 EUR
+actualPrice: 65.99 EUR
 currency: EUR
-price: 56.69
+price: 65.99
 comparePrice: 79.99 EUR
 prodname: 'Nintendo Joy-Con 2er-Set Neon-Rot/Neon-Blau'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.de/dp/B01N5OORGV/?tag=tolees0ca-21'
-descuento: '29.13'
-average: '70.0750999999998'
+descuento: '17.50'
+average: '69.9949999999998'
 ---
 
-Sie können [Nintendo Joy-Con 2er-Set Neon-Rot/Neon-Blau](https://www.amazon.de/dp/B01N5OORGV/?tag=tolees0ca-21) mit Preis 56.69 EUR (original: 79.99 EUR) 29.13 % Rabatt hier:
+Sie können [Nintendo Joy-Con 2er-Set Neon-Rot/Neon-Blau](https://www.amazon.de/dp/B01N5OORGV/?tag=tolees0ca-21) mit Preis 65.99 EUR (original: 79.99 EUR) 17.50 % Rabatt hier:
 
 [![Nintendo Joy-Con 2er-Set Neon-Rot/Neon-B](https://m.media-amazon.com/images/I/41wK7MSkquL._SL400_.jpg)](https://www.amazon.de/dp/B01N5OORGV/?tag=tolees0ca-21)
 

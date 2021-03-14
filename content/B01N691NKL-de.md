@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Smart Home Tür-/Fensterkontakt mit mit 37.67 % Rabatt'
-date: 2021-03-13 18:47:04
+date: 2021-03-14 18:50:51
 image: 'https://m.media-amazon.com/images/I/31vL+f3s0XL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Sie können [Bosch Smart Home Tür-/Fensterkontakt mit App-Funktion  Variante De
 
 ℹ️:
 
-- Ausschließlich nutzbar mit separat erhältlichem Bosch Smart Home Controller
-- Der Tür-/Fensterkontakt erkennt offene Fenster und Türen und meldet sie über die Bosch Smart Home App direkt an Ihr Smartphone
-- Kompatibel mit Apple Homekit
-- Bosch Smart Home Tür- und Fensterkontakt - Energieeffizienz und Sicherheit in Ihrem Zuhause
 - Veranlasst als Teil der Bosch Smart Home Raumklima-Lösung das automatische Herunterregeln der Bosch Smart Home Heizkörper-Thermostate bei offenem Fenster
+- Der Tür-/Fensterkontakt erkennt offene Fenster und Türen und meldet sie über die Bosch Smart Home App direkt an Ihr Smartphone
+- Bosch Smart Home Tür- und Fensterkontakt - Energieeffizienz und Sicherheit in Ihrem Zuhause
+- Ausschließlich nutzbar mit separat erhältlichem Bosch Smart Home Controller
+- Kompatibel mit Apple Homekit
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01N691NKL/?tag=tolees0ca-21)
