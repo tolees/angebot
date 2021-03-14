@@ -28,10 +28,10 @@ Sie können [Bomann Doppelkochplatte DKP 5028 CB  650280](https://www.amazon.de/
 
 ℹ️:
 
-- Typ de vermittelert: Elektrisch
 - 2 kochplatten
-- Welche komponenten sind im lieferumfang des produkts enthaltenen: Dolppelkochplatte
-- 2 stufenlos regelbare thermostate
 - 2 kontrollleuchten
+- 2 stufenlos regelbare thermostate
+- Typ de vermittelert: Elektrisch
+- Welche komponenten sind im lieferumfang des produkts enthaltenen: Dolppelkochplatte
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00JDZ9RTS/?tag=tolees0ca-21)
