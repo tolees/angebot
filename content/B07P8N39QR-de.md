@@ -28,8 +28,8 @@ Sie können [Tommy Hilfiger Damen Heritage Zip-Through Hoodie Kapuzenpullover  B
 
 ℹ️:
 
-- Pflegehinweise: Spezialschonwaschgang 30 Grad; Bügeln mit geringer Temperatur; Trommeltrocknen bei niedriger Temperatur; Bleichen mit Sauerstoff erlaubt; nicht chemisch reinigen
 - Material: 64% Baumwolle, 36% Polyester
+- Pflegehinweise: Spezialschonwaschgang 30 Grad; Bügeln mit geringer Temperatur; Trommeltrocknen bei niedriger Temperatur; Bleichen mit Sauerstoff erlaubt; nicht chemisch reinigen
 - Teile tierischen Ursprungs: Nein
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07P8N39QR/?tag=tolees0ca-21)

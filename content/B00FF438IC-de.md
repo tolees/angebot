@@ -28,10 +28,10 @@ Es gibt ein [HERMKO 3000 5er Pack Herren Tank Top Classic Unterhemd - gekämmte 
 
 ℹ️:
 
-- 5 Klassische, kochfeste Herren Achselhemden von Größe 4 bis Größe 14
-- Im familiären Umfeld in Rietheim wird Ihre Ware für das Lager aufgearbeitet, kontrolliert, verpackt und an Sie versendet
-- Familienbetrieb mit eigener Produktion seit über 60 Jahren. Hautverträgliche Wäsche nach ÖKO-Tex Standard 100 zertifiziert
 - bei deutschem Ausrüstungsunternehmen gefärbt, gebleicht und einlaufvorbehandelt
 - weiche, strapazierfähige, formbeständige und langlebige Baumwolle in supergekämmter Qualität
+- Familienbetrieb mit eigener Produktion seit über 60 Jahren. Hautverträgliche Wäsche nach ÖKO-Tex Standard 100 zertifiziert
+- Im familiären Umfeld in Rietheim wird Ihre Ware für das Lager aufgearbeitet, kontrolliert, verpackt und an Sie versendet
+- 5 Klassische, kochfeste Herren Achselhemden von Größe 4 bis Größe 14
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00FF438IC/?tag=tolees0ca-21)

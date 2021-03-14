@@ -28,8 +28,8 @@ Sie können [G-STAR RAW Damen T-Shirt Eyben Slim V T Wmn S/S  Weiß  White 110  
 
 ℹ️:
 
+- Kurze Ärmel, gerade eingesetzt – Umschlagsaum
 - Das Modell Acernius T-Shirt ist aus extra weichem Jersey mit geschmeidiger Oberfläche gefertigt
 - Gerader Saum
-- Kurze Ärmel, gerade eingesetzt – Umschlagsaum
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01MYY7VL5/?tag=tolees0ca-21)

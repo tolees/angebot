@@ -28,8 +28,8 @@ Es gibt ein [Nike Damen W NP Tight Sport Trousers  Black/ White   S](https://www
 
 ℹ️:
 
-- Nike Dry fabric
 - Elastic Belt
+- Nike Dry fabric
 - Slim Fit
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FKKBG6V/?tag=tolees0ca-21)

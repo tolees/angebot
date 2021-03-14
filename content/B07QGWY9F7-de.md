@@ -28,9 +28,9 @@ Sie können [Funko POP! Vinyl Rocks: Iggy Pop - Iggy  Mehrfarben  Standard](http
 
 ℹ️:
 
-- Schauen Sie sich jetzt die anderen Rocks-Figuren von Funko an! Sammeln Sie alle!
-- Von Rocks, Iggy, zur stilisierten POP-Vinyl Figur von Funko!
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 - Funko POP! ist das Spielzeug des Jahres 2018
+- Schauen Sie sich jetzt die anderen Rocks-Figuren von Funko an! Sammeln Sie alle!
+- Von Rocks, Iggy, zur stilisierten POP-Vinyl Figur von Funko!
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07QGWY9F7/?tag=tolees0ca-21)
