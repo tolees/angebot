@@ -28,9 +28,9 @@ Sie können [Kis Chic bin Style Abfallbehälter 30-35L mit Pedal und Inneneimer 
 
 ℹ️:
 
-- Komfort: Gummierter Griff zum leichten Öffnen per Hand, Deckel mit Gummidichtung gegen Gerüche, rutschfeste Gummierung an der Unterseite für einen stabilen Stand, griffiges Pedal zum Öffnen per Fuß, Herausnehmbarer Inneneimer
-- Abmessungen: 26,5 x 40,5 x 45cm
-- Optik: Kunststoff in hochwertiger Metalloptik, keine Dellen, keine Kratzer, kein Rost
 - Fassungsvermögen: 30-35L
+- Optik: Kunststoff in hochwertiger Metalloptik, keine Dellen, keine Kratzer, kein Rost
+- Abmessungen: 26,5 x 40,5 x 45cm
+- Komfort: Gummierter Griff zum leichten Öffnen per Hand, Deckel mit Gummidichtung gegen Gerüche, rutschfeste Gummierung an der Unterseite für einen stabilen Stand, griffiges Pedal zum Öffnen per Fuß, Herausnehmbarer Inneneimer
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00URURA7Y/?tag=tolees0ca-21)
