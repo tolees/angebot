@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '24.01 % rabat auf TOM TAILOR Geldbörse mit Reißverschluss '
-date: 2021-03-13 05:52:34
+date: 2021-03-14 06:11:17
 image: 'https://m.media-amazon.com/images/I/41-17prrTrL._SL400_.jpg'
 comments: true
 category: ofertas

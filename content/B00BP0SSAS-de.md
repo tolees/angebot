@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '43.80 % rabat auf TP-Link TL-SG1008P 8-Port Gigabit PoE Sw'
-date: 2021-03-09 06:07:41
+date: 2021-03-14 05:54:21
 image: 'https://m.media-amazon.com/images/I/316oSWRkMkL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B00BP0SSAS/?tag=tolees0ca-21'
 descuento: '43.80'
-average: '40.5914285714286'
+average: '40.5050000000001'
 ---
 
 Es gibt ein [TP-Link TL-SG1008P 8-Port Gigabit PoE Switchmit 4 PoE+ Ports  64 Watt  geschirmte RJ-45 Ports IEEE-802.3af/at  Plug-and-Play Installation  lüfterlos  Schwarz  v4.0](https://www.amazon.de/dp/B00BP0SSAS/?tag=tolees0ca-21) mit aktuellem Preis 39.9 EUR (original: 71.0 EUR) 43.80 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [TP-Link TL-SG1008P 8-Port Gigabit PoE Switchmit 4 PoE+ Ports  64 Wa
 
 ℹ️:
 
-- Maximale bereitgestellte Leistung 64W für alle PoE-Ports, 30W für jeden PoE-Port
-- Plug und Play, keine Konfiguration erforderlich
-- 8x Gigabit RJ45 ports
 - Kompatibel mit IEEE802.3af/at zur Erweiterung Ihres Heim- oder Büronetzwerks, Reibungsloser Datentransfer dank 802.1p/DSCP QoS
 - 4x PoE+ Ports, Daten- und Stromübertragung einfach über ein einziges Kabel
+- Maximale bereitgestellte Leistung 64W für alle PoE-Ports, 30W für jeden PoE-Port
+- Plug&Play, keine Konfiguration erforderlich
+- 8x Gigabit RJ45 ports
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00BP0SSAS/?tag=tolees0ca-21)
