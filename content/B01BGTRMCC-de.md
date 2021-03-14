@@ -28,8 +28,8 @@ Sie können [G-STAR RAW Damen Jeans Midge Saddle Mid Waist Bootcut  Blau  Dk Age
 
 ℹ️:
 
-- Bootleg - Ausgestelltes Bein
-- Mittelhohe Taille
 - Diese Version der Midge für die aktuelle Saison ist so geschnitten, dass sie an Hüfte und Oberschenkeln perfekt sitzt –
+- Mittelhohe Taille
+- Bootleg - Ausgestelltes Bein
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01BGTRMCC/?tag=tolees0ca-21)

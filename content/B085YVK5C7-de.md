@@ -28,15 +28,15 @@ Sie können [DYON Smart 40 XT 100 cm  40 Zoll  Fernseher  Full-HD Smart TV  HD T
 
 ℹ️:
 
-- Lieferumfang: Smart 40 XT, Fernbedienung inkl. Batterien, Standfuß, Schnellstart-Bedienungsanleitung
-- Kein externer Receiver erforderlich!
 - Abmessung (mit Standfuß): 90,4 x 57,3 x 17,7 cm (BxHxT)
-- Smart TV: integriertes WLAN, LAN Anschluss (RJ45), USB-Mediaplayer
-- Fernbedienung: Prime Video und Netflix Taste für Schnellstart
-- Smart Portal: Prime Video, Netflix, HbbTV, Youtube, Facebook, ARD-/ZDF-Mediathek, DEEZER, etc.
-- Auflösung: 1.920 x 1.080 Pixel (Full-HD) / Bildwiederholrate: 50/60 Hz
-- Wandhalterung (nicht mitgeliefert): 75 x 75 mm
+- Kein externer Receiver erforderlich!
 - Typ: Smart LED-Fernseher mit 100 cm (39,5 Zoll) Bildschirmdiagonale
 - Empfang: Analog, DVB-T2 (Terrestrisch), DVB-C (Kabel), DVB-S2 (Satellit), CI+
+- Lieferumfang: Smart 40 XT, Fernbedienung inkl. Batterien, Standfuß, Schnellstart-Bedienungsanleitung
+- Fernbedienung: Prime Video und Netflix Taste für Schnellstart
+- Smart TV: integriertes WLAN, LAN Anschluss (RJ45), USB-Mediaplayer
+- Auflösung: 1.920 x 1.080 Pixel (Full-HD) / Bildwiederholrate: 50/60 Hz
+- Smart Portal: Prime Video, Netflix, HbbTV, Youtube, Facebook, ARD-/ZDF-Mediathek, DEEZER, etc.
+- Wandhalterung (nicht mitgeliefert): 75 x 75 mm
 
 [🛒 Hier!!](https://www.amazon.de/dp/B085YVK5C7/?tag=tolees0ca-21)

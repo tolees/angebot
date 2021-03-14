@@ -28,9 +28,9 @@ Es gibt ein [ONLY Female Hose Einfarbige M30Black](https://www.amazon.de/dp/B019
 
 ℹ️:
 
-- Schlank geformte Beine.
-- Hose in lässiger Passform.
 - Kordelzug an der Taille.
+- Hose in lässiger Passform.
 - Materialzusammensetzung: 63% LENZING ECOVERO Viskose, 32% Nylon, 5% Elasthan
+- Schlank geformte Beine.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0196PODTI/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [KS Tools 911.0106 Vergrößerungs- und Reduzieradapter-Satz  6-tlg.
 
 ℹ️:
 
-- für Handbetätigung
-- Vierkantantrieb nach DIN 3120 / ISO 1174 mit Kugelarretierung
 - Innenvierkant nach DIN 3120 / ISO 1174 mit Kugelfangrille
-- Chrom Vanadium
 - matt satiniert
+- für Handbetätigung
+- Chrom Vanadium
+- Vierkantantrieb nach DIN 3120 / ISO 1174 mit Kugelarretierung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001NYXR5M/?tag=tolees0ca-21)

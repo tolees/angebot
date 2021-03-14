@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60246 City Polizeistation  Bauset m mit 28.00 % Rabatt'
-date: 2021-03-13 13:53:50
+date: 2021-03-14 14:25:49
 image: 'https://m.media-amazon.com/images/I/51Q0Fc1B-LL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W7TM73V/?tag=tolees0ca-21'
 descuento: '28.00'
-average: '71.9431506849315'
+average: '71.9434693877551'
 ---
 
 Sie können [LEGO 60246 City Polizeistation  Bauset mit 2 Trucks  Leucht- und Sound-Steinen  Drohne und Motorrad](https://www.amazon.de/dp/B07W7TM73V/?tag=tolees0ca-21) mit Preis 71.99 EUR (original: 99.99 EUR) 28.00 % Rabatt hier:
@@ -28,10 +28,10 @@ Sie können [LEGO 60246 City Polizeistation  Bauset mit 2 Trucks  Leucht- und So
 
 ℹ️:
 
-- Die digitale Anleitung Instructions PLUS über die kostenlose LEGO Life-App für Smart-Geräte hilft Kindern, das Modell heranzuzoomen, zu drehen und anzuzeigen, während sie bauen
-- Beinhaltet einen Suchscheinwerfer aus Leucht-Steinen, funktionierende Dachbeleuchtung und Sirene sowie eine hebelaktivierte Ausbruchs-Funktion, um dem Verfolgungsjagdspiel noch mehr Geschmack hinzuzufügen
-- Enthält eine 4-teilige, zwei Stockwerke hohe Polizeidienststelle mit Explosionsfunktion (für Ausbrüche), zwei Trucks, ein Motorrad und ein Drohnenspielzeug
 - Enthält 7 Minifiguren: Duke DeTain, den Polizeichef Wheeler, Daisy Kaboom, zwei Polizisten, zwei Ganoven sowie Bulldoggen- und Polizeihund-Figuren
 - Zum Zubehör des Spielsets gehören Handschellen, ein Skateboard, eine Taschenlampe, Dynamitstangen zum Sprengen von Gittern und eine Tischtennisplatte in der Station
+- Enthält eine 4-teilige, zwei Stockwerke hohe Polizeidienststelle mit Explosionsfunktion (für Ausbrüche), zwei Trucks, ein Motorrad und ein Drohnenspielzeug
+- Die digitale Anleitung Instructions PLUS über die kostenlose LEGO Life-App für Smart-Geräte hilft Kindern, das Modell heranzuzoomen, zu drehen und anzuzeigen, während sie bauen
+- Beinhaltet einen Suchscheinwerfer aus Leucht-Steinen, funktionierende Dachbeleuchtung und Sirene sowie eine hebelaktivierte Ausbruchs-Funktion, um dem Verfolgungsjagdspiel noch mehr Geschmack hinzuzufügen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W7TM73V/?tag=tolees0ca-21)

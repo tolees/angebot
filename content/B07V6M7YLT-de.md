@@ -28,8 +28,8 @@ Sie können [Nintendo Switch Lite  Standard  gelb](https://www.amazon.de/dp/B07V
 
 ℹ️:
 
-- Tragen Sie ganz einfach alle Ihre Lieblingsspiele !
-- Entwickelt für tragbare Spiele !
 - Verbinden Sie bis zu acht Konsolen im Mehrspielermodus !
+- Entwickelt für tragbare Spiele !
+- Tragen Sie ganz einfach alle Ihre Lieblingsspiele !
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07V6M7YLT/?tag=tolees0ca-21)
