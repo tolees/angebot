@@ -28,10 +28,10 @@ Es gibt ein [LEGO 60279 City Mini-Löschfahrzeug Spielzeug  Feuerwehrauto mit Fe
 
 ℹ️:
 
-- Let the firefighter grab the extinguisher and shoot water elements from the stud-shooter fire hose to knock out the fire; good work
-- In addition to printed instructions, tree LEGO Building Instructions Plus avaiable in app with zoom/rotate viewing tool for smart devices
-- The toy fire truck can be steered in all directions by pushing and tilting it left and right, to sweep away the flames using its front plow
 - Kids can become everyday heroes with this cool playset, filled with realistic features for action-packed firefighting fun
+- Let the firefighter grab the extinguisher and shoot water elements from the stud-shooter fire hose to knock out the fire; good work
+- The toy fire truck can be steered in all directions by pushing and tilting it left and right, to sweep away the flames using its front plow
+- In addition to printed instructions, tree LEGO Building Instructions Plus avaiable in app with zoom/rotate viewing tool for smart devices
 - Features a steerable fire truck with a plow, fire hose, blazing logs, a megaphone and a LEGO firefighter minifigure with a cool helmet
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4VXHR4/?tag=tolees0ca-21)

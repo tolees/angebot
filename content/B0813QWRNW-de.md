@@ -28,9 +28,9 @@ Sie können [LEGO 10919 DUPLO Super Heroes DC Batman Bathöhle mit Batmobil und 
 
 ℹ️:
 
-- Mit JOKERS Schleimwerfer und Batmans superschnellem Batmobil kann alles passieren
-- Dieses Lego Duplo Spielzeug Fang mich, wenn du kannst verfügt über eine baubare Bathöhle, ein Gefängnis mit einem zu öffnenden und schließenden Tor und ein Batmobil, um Spaß zu bereiten
 - Enthält 3 Lego Duplo Figuren: Batman, Robin und Joker
+- Dieses Lego Duplo Spielzeug Fang mich, wenn du kannst verfügt über eine baubare Bathöhle, ein Gefängnis mit einem zu öffnenden und schließenden Tor und ein Batmobil, um Spaß zu bereiten
+- Mit JOKERS Schleimwerfer und Batmans superschnellem Batmobil kann alles passieren
 - Wenn Kinder im Vorschulalter ihre Feinmotorik und ihre Fähigkeiten zur Problemlösung einsetzen, kombinieren sie Entwicklungslernen mit actionreichen Abenteuern
 - Dieses Spielzeug für Kleinkinder besteht aus großen Elementen, die für kleine Hände einfach zu platzieren sind, Ein ideales Lego Starterset für Jungen und Mädchen ab 2 Jahren
 

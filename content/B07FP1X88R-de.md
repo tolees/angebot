@@ -31,7 +31,7 @@ Es gibt ein [LEGO 11002 Classic Bausteine - Starter Set  Konstruktionsspielzeug]
 - Mit bunten LEGO Steinen für grenzenlos kreatives Spielen.
 - Ermöglicht angehenden Baumeistern das Bauen von Modellen dreier Schwierigkeitsgrade.
 - Enthält LEGO Steine, Räder und Augen für klassische LEGO Modelle.
-- Mehr Bauanleitungen, Bauideen und Anregungen stehen online zur Verfügung.
 - Baue einen Dinosaurier, einen Monstertruck, ein Propellerflugzeug oder was auch immer man sich vorstellen kann.
+- Mehr Bauanleitungen, Bauideen und Anregungen stehen online zur Verfügung.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FP1X88R/?tag=tolees0ca-21)
