@@ -28,10 +28,10 @@ Es gibt ein [JBL Tune 125 TWS In-Ear Bluetooth-Kopfhörer in Blau – Kabellose 
 
 ℹ️:
 
-- Items delivered: 1 x JBL Tune 125 TWS - True wireless in-ear earphones with charging case, fully charged in 2 hours with a USB-C cable and 3 sizes of ear tips, in blue
-- Feel monstrous bass, get the most out of your music with the Tune 125 TWS, powerful pure bass with a fast pairing function, connect to your mobile device as soon as the headphones are out of the case
-- Keep the music playing for longer, thanks to the up to 32 hours of battery life when used with the charging case, you can listen while you work out, commute, cook and relax
 - JBL Tune 125 True Wireless in-ear Bluetooth headphones provide world-famous JBL sound without tangled wires, enjoy crisp audio and powerful bass without having a knotted cable, less stress and more music
+- Keep the music playing for longer, thanks to the up to 32 hours of battery life when used with the charging case, you can listen while you work out, commute, cook and relax
+- Items delivered: 1 x JBL Tune 125 TWS - True wireless in-ear earphones with charging case, fully charged in 2 hours with a USB-C cable and 3 sizes of ear tips, in blue
 - Choose to listen with just 1 earbud or with both, take calls, listen to audiobooks and rock out to your favourite tunes while one earbud charges, thanks to Dual Connect
+- Feel monstrous bass, get the most out of your music with the Tune 125 TWS, powerful pure bass with a fast pairing function, connect to your mobile device as soon as the headphones are out of the case
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08CNPRFZF/?tag=tolees0ca-21)
