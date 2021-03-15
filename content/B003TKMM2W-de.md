@@ -28,8 +28,8 @@ Es gibt ein [Bosch Professional - Bosch HSS-Holzbohrersatz 7-tlg. Sechskantschaf
 
 ℹ️:
 
-- Geeignet für harte und weiche Hölzer
-- Extrem scharfe Bohrwerkzeuge für präzise, ausrissfreie Bohrungen
 - Bohrer mit Zentrierspitze
+- Extrem scharfe Bohrwerkzeuge für präzise, ausrissfreie Bohrungen
+- Geeignet für harte und weiche Hölzer
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B003TKMM2W/?tag=tolees0ca-21)

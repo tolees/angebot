@@ -29,9 +29,9 @@ Es gibt ein [VARTA Longlife D Mono LR20 Batterie  6er Pack  Alkaline Batterien �
 ℹ️:
 
 - High Performance Qualität "Made in Germany", in Deutschland produziertes Markenprodukt
-- Passend für Fieberthermometer, Gaming Maus, Tastatur, elektronische Roboter, Fernsteuerung, Lampe, Beleuchtung elektronisches Werkzeug
-- 10 Jahre Haltbarkeit, auslaufsicher, langlebig und nach internationaler Norm zertifiziert: DIN EN ISO 9001:2008 und DIN EN ISO 1 4001:2005
-- Ideal für Geräte mit hohem Energiebedarf wie z.B. ferngesteuertes Spielzeug, Controller, Maus, Funkgerät, Taschenlampe, Personenwaage, medizinische Geräte, elektronisches Fiebermessgerät
 - Die richtige Wahl bei Dauerbelastungen im Niedrigstrombereich. Sie bietet eine lange Haltbarkeit durch die moderne Alkaline-Qualität
+- 10 Jahre Haltbarkeit, auslaufsicher, langlebig und nach internationaler Norm zertifiziert: DIN EN ISO 9001:2008 und DIN EN ISO 1 4001:2005
+- Passend für Fieberthermometer, Gaming Maus, Tastatur, elektronische Roboter, Fernsteuerung, Lampe, Beleuchtung elektronisches Werkzeug
+- Ideal für Geräte mit hohem Energiebedarf wie z.B. ferngesteuertes Spielzeug, Controller, Maus, Funkgerät, Taschenlampe, Personenwaage, medizinische Geräte, elektronisches Fiebermessgerät
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000EGSGQA/?tag=tolees0ca-21)
