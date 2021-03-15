@@ -28,10 +28,10 @@ Es gibt ein [Xiaomi - Roborock - Original Xiaomi MI Robot Vacuum Cleaner Roboroc
 
 ℹ️:
 
-- 1 x HEPA Filter (2er Set)
 - Auch passend für Roborock der S50 Serie
+- 1 x Seitenbürsten (2er Set)
 - 1 x Zentralbürste mit Reinigungshilfe
 - Original Zubehör für den Xiaomi Mi Robot und den Roborock Saugroboter
-- 1 x Seitenbürsten (2er Set)
+- 1 x HEPA Filter (2er Set)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07C2JDVK8/?tag=tolees0ca-21)

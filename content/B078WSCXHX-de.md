@@ -28,10 +28,10 @@ Es gibt ein [Sony UBP-X700 4K Ultra HD Blu-ray Disc Player  4K HDR  4K Streaming
 
 ℹ️:
 
+- Attraktives Design & flache Bauweise – die Schönheit findet sich in jedem Detail
+- Erleben Sie eine Welt des (4K) Streamings mithilfe des integrierten Wi-Fi. Standyby-modus Aktiviert: Nach 20 Minuten
 - Ultimatives 4K HDR Erlebnis mit HDR10 und Dolby Vision (Ab Juli 2018) für überragende Details, Farben und Helligkeit
 - Wiedergabe von Super Audio CDs (SACD)
 - Wiedergabe nahezu aller Disc- und Dateiformate, incl. Dolby Atmos und DTS:X Soundtracks, DSD, FLAC & MP3
-- Erleben Sie eine Welt des (4K) Streamings mithilfe des integrierten Wi-Fi. Standyby-modus Aktiviert: Nach 20 Minuten
-- Attraktives Design & flache Bauweise – die Schönheit findet sich in jedem Detail
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B078WSCXHX/?tag=tolees0ca-21)

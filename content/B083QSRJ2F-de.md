@@ -1,32 +1,38 @@
 ---
 layout: post
-title: '16.60 % rabat auf Lenovo Tab M10 FHD Plus 26 2 cm  10 3 Zo'
-date: 2020-06-30 15:44:53
+title: '20.09 % rabat auf Vorgängermodell Lenovo Tab M10 FHD Plus '
+date: 2021-03-15 01:29:03
 image: 'https://m.media-amazon.com/images/I/41VbjDGQRwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083QSRJ2F-de Lenovo Tab M10 FHD Plus 26 2 cm 10 3 Zoll 1920x1200 FHD...'
+slug: 'B083QSRJ2F-de Vorgängermodell Lenovo Tab M10 FHD Plus 26 2 cm 10 3 Zoll...'
 sku: 'B083QSRJ2F-de'
 tags: [  ]
-actualPrice: 190.99 EUR
+actualPrice: 182.99 EUR
 currency: EUR
-price: 190.99
+price: 182.99
 comparePrice: 229.0 EUR
-prodname: 'Lenovo Tab M10 FHD Plus 26 2 cm  10 3 Zoll  1920x1200  FHD  IPS  Touch  Tablet-PC  Octa-Core  4 GB RAM  64 GB eMCP  WLAN  Android 9  grau'
+prodname: 'Vorgängermodell Lenovo Tab M10 FHD Plus 26 2 cm  10 3 Zoll  1920x1200  FHD  IPS  Touch  Tablet-PC  Octa-Core  4 GB RAM  64 GB eMCP  WLAN  Android 9  grau'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'Lenovo'
 buyurl: 'https://www.amazon.de/dp/B083QSRJ2F/?tag=tolees0ca-21'
-descuento: '16.60'
-average: '190.99'
+descuento: '20.09'
+average: '186.99'
 ---
 
-Es gibt ein [Lenovo Tab M10 FHD Plus 26 2 cm  10 3 Zoll  1920x1200  FHD  IPS  Touch  Tablet-PC  Octa-Core  4 GB RAM  64 GB eMCP  WLAN  Android 9  grau](https://www.amazon.de/dp/B083QSRJ2F/?tag=tolees0ca-21) mit aktuellem Preis 190.99 EUR (original: 229.0 EUR) 16.60 % Rabatt hier:
+Es gibt ein [Vorgängermodell Lenovo Tab M10 FHD Plus 26 2 cm  10 3 Zoll  1920x1200  FHD  IPS  Touch  Tablet-PC  Octa-Core  4 GB RAM  64 GB eMCP  WLAN  Android 9  grau](https://www.amazon.de/dp/B083QSRJ2F/?tag=tolees0ca-21) mit aktuellem Preis 182.99 EUR (original: 229.0 EUR) 20.09 % Rabatt hier:
 
-[![Lenovo Tab M10 FHD Plus 26 2 cm  10 3 Zo](https://m.media-amazon.com/images/I/41VbjDGQRwL._SL400_.jpg)](https://www.amazon.de/dp/B083QSRJ2F/?tag=tolees0ca-21)
+[![Vorgängermodell Lenovo Tab M10 FHD Plus ](https://m.media-amazon.com/images/I/41VbjDGQRwL._SL400_.jpg)](https://www.amazon.de/dp/B083QSRJ2F/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Prozessor: MediaTek Helio P22T Octa-Core (4x 2,3 GHz und 4x 1,8 GHz)
+- Herstellergarantie: 2 Jahre. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
+- Nach vorne gerichtete Stereo-Lautsprecher mit Dolby Atmos, schicke schmale Displayränder
+- Individuelle Familien-Konten, sicherer Kindermodus 4.0 mit Augenschutz und Kontrolle der gesunden Körperhaltung
+- Akku: 5000 mAh Li-Polymer, bis zu 9 Stunden Akkulaufzeit (Surfen). Konnektivität: Bluetooth 4.2
+- Lieferumfang: Lenovo Tab M10 Plus, Iron Grey, Reise-Netzteil, USB Typ-C-Kabel, Dokumentation
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B083QSRJ2F/?tag=tolees0ca-21)
