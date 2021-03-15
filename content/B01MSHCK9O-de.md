@@ -28,8 +28,8 @@ Sie können [goobay - Fixpoint 45245 Entlötlitze 1](https://www.amazon.de/dp/B0
 
 ℹ️:
 
+- Lotsauglitze von Fixpoint mit hoher Saugfähigkeit
 - Feines Kupfergewebe zur Entfernung von Lötresten und optimalen Vorbereitung der Lötstelle
 - 1,0mm Entlötlitze auf 1,5m Spule
-- Lotsauglitze von Fixpoint mit hoher Saugfähigkeit
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01MSHCK9O/?tag=tolees0ca-21)

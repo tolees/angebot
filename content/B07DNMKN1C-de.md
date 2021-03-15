@@ -28,8 +28,8 @@ Sie können [Tumi Voyageur Carson Backpack Rucksack  43 cm  Black](https://www.a
 
 ℹ️:
 
-- Aussenausstattung: Doppelter Reißverschluss zum Hauptfach, Doppelter Reißverschluss am U-Reißverschlussfach vorne, Zugriff zum Laptopfach über Reißverschluss, Gerades Frontfach mit arretierbarem Reißverschlussschieber, Seitliches Reißverschlussfach, Wasserdichtes Trinkflaschenfach mit Reißverschluss an der Seite, Schnellzugriff auf Handyfach mit Magnetverschluss, Tragegriff aus Leder oben, Abnehmbarer Leder-/Schlüsselanhänger der mit Ihrem Monogramm versehen werden kann, Add-A-Bag Schlaufe, Gepolsterte verstellbare Schultergurte
 - Größe und Gewicht: 31 x 14 x 43, 0,703 kg
+- Aussenausstattung: Doppelter Reißverschluss zum Hauptfach, Doppelter Reißverschluss am U-Reißverschlussfach vorne, Zugriff zum Laptopfach über Reißverschluss, Gerades Frontfach mit arretierbarem Reißverschlussschieber, Seitliches Reißverschlussfach, Wasserdichtes Trinkflaschenfach mit Reißverschluss an der Seite, Schnellzugriff auf Handyfach mit Magnetverschluss, Tragegriff aus Leder oben, Abnehmbarer Leder-/Schlüsselanhänger der mit Ihrem Monogramm versehen werden kann, Add-A-Bag Schlaufe, Gepolsterte verstellbare Schultergurte
 - Innenausstattung: Laptopfach (15"), Tabletfach, 1 großes Einschubfach, 2 Einschubfächer, Reißverschlussfach mit TUMI Tracer, Kartenfach, Stiftfach
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07DNMKN1C/?tag=tolees0ca-21)
