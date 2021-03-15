@@ -28,7 +28,7 @@ Sie können [Joy-Con-AA-Batteriezubehör 2er Set [Nintendo Switch]](https://www.
 
 ℹ️:
 
-- 2er Set
 - AA Batterie für Nintendo Switch Joy Con
+- 2er Set
 
 [🛒 Hier!!](https://www.amazon.de/dp/B06ZZY5SNH/?tag=tolees0ca-21)

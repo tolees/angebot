@@ -30,10 +30,10 @@ Es gibt ein [LEGO 60286 City Strand-Rettungsquad Spielzeug  mit Wasserscooter  R
 
 - Stelle Jungen und Mädchen ab 5 Jahren die faszinierende LEGO City Welt vor – mit dem LEGO City Spielset „Strand-Rettungsquad“ (60286). Der Spaß beginnt schon beim Auspacken der Box
 - Das LEGO City Strand-Rettungsquad ist ein tolles Geschenk zu Weihnachten, zum Geburtstag oder zu anderen Anlässen für Kinder ab 5 Jahren.
-- Das fertige Strand-Rettungsquad ist 7 cm hoch, 17 cm lang und 5 cm breit
-- Das Quad ist mit einem aufklappbaren Überrollkäfig versehen. Die Rettungsschimmer-Minifigur passt sowohl aufs Quad als auch aufs Wassermotorrad
 - Das LEGO Zubehör in dem Set beinhaltet ein Funkgerät und ein Fernglas
-- Neben einer gedruckten Bauanleitung sind in der kostenlosen LEGO Building Instructions App auch Instructions PLUS verfügbar. Diese interaktive Bauanleitung macht das LEGO Bauerlebnis zum Kinderspiel
 - Dieses Bauset beinhaltet ein Quad mit Anhänger für das Wassermotorrad. Auch eine Rettungsschwimmer-Minifigur und eine Haifigur sind enthalten. Mehr braucht ein Kind nicht, um stundenlang kreativ zu spielen
+- Das fertige Strand-Rettungsquad ist 7 cm hoch, 17 cm lang und 5 cm breit
+- Neben einer gedruckten Bauanleitung sind in der kostenlosen LEGO Building Instructions App auch Instructions PLUS verfügbar. Diese interaktive Bauanleitung macht das LEGO Bauerlebnis zum Kinderspiel
+- Das Quad ist mit einem aufklappbaren Überrollkäfig versehen. Die Rettungsschimmer-Minifigur passt sowohl aufs Quad als auch aufs Wassermotorrad
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4SRJ4J/?tag=tolees0ca-21)

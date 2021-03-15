@@ -28,10 +28,10 @@ Es gibt ein [Lego Ninjago - LEGO 71710 NINJAGO Ninja-Tuning-Fahrzeug mit Waffen 
 
 ℹ️:
 
-- Die schwer gepanzerten Tuning-Fahrzeug-Räder können unten weggeklappt werden, wenn das Auto nach dem Spreizen der Klingen und dem Wechsel in den Flugmodus fliegt
-- Das Auto verfügt über eine sehr detaillierte Karosserie mit vielen beweglichen Teilen, einem pinkfarbenen Cockpit zum Öffnen und farbenfrohen Aufklebern, um sich durch das Prime Empire durchzuschlagen
-- Zu den Accessoires gehören ein Schild, Prime Controller -Waffen, Waffen der Roten Visiere, Sensen, Katanas und vieles mehr sowie das Sammlerstück, das lila Key-Tana
 - Enthält 4 Minifiguren, die im Spiel kämpfen: Digi Kai, Scott und 2 Rote Visiere kommen mit neuen Gesundheitstafeln, um ihre verbleibenden Lebenspunkte anzuzeigen
 - Enthält ein Ninja-Tuning-Fahrzeug mit Waffen und Klingen, die es durch Drehen des Key-Tanas in ein fliegendes Schlachtauto-Spielzeug verwandeln
+- Die schwer gepanzerten Tuning-Fahrzeug-Räder können unten weggeklappt werden, wenn das Auto nach dem Spreizen der Klingen und dem Wechsel in den Flugmodus fliegt
+- Zu den Accessoires gehören ein Schild, Prime Controller -Waffen, Waffen der Roten Visiere, Sensen, Katanas und vieles mehr sowie das Sammlerstück, das lila Key-Tana
+- Das Auto verfügt über eine sehr detaillierte Karosserie mit vielen beweglichen Teilen, einem pinkfarbenen Cockpit zum Öffnen und farbenfrohen Aufklebern, um sich durch das Prime Empire durchzuschlagen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07W8XYZ2K/?tag=tolees0ca-21)
