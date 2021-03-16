@@ -28,8 +28,8 @@ Sie können [Funko 30974 Marvel: Ant-Man & The Wasp POP Schlüsselanhänger Figu
 
 ℹ️:
 
-- Marvel: Ant-Man & The Wasp
-- Wasp
 - POP! Schlüsselanhänger Figur
+- Wasp
+- Marvel: Ant-Man & The Wasp
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07CHVKZYG/?tag=tolees0ca-21)

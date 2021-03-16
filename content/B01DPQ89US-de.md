@@ -28,10 +28,10 @@ Sie können [Sony KDL-32WD755 80 cm  32 Zoll  Fernseher  Full HD  HD Triple Tune
 
 ℹ️:
 
-- Mit X-Reality PRO erleben Sie ein außergewöhnlich klares und detailscharfes Bild, bei allem was Sie sich anschauen
-- Lieferumfang: Sony KDL-32WD755 80 cm (32 Zoll) Fernseher
-- Smart TV-mehr als einfach nur Fernsehen: Ob Ihre Lieblingsclips auf YouTube, TV-Serien aus verschiedenen Mediatheken, Filme von Netflix, Amazon Video, Maxdome oder anderen Apps: Sie bestimmen, was und wann Sie es sehen wollen
 - USB-Aufnahmefunktion: Programmieren Sie Ihren Fernseher und zeichnen Sie Fernsehsendungen auf einer externen Festplatte auf
+- Smart TV-mehr als einfach nur Fernsehen: Ob Ihre Lieblingsclips auf YouTube, TV-Serien aus verschiedenen Mediatheken, Filme von Netflix, Amazon Video, Maxdome oder anderen Apps: Sie bestimmen, was und wann Sie es sehen wollen
 - Edles Aluminium-Design: Ideal für die Wandmontage. Die kompakte Bauweise und der schmale Rahmen ermöglichen den uneingeschränkten Blick auf das Wesentliche: das Bild
+- Lieferumfang: Sony KDL-32WD755 80 cm (32 Zoll) Fernseher
+- Mit X-Reality PRO erleben Sie ein außergewöhnlich klares und detailscharfes Bild, bei allem was Sie sich anschauen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01DPQ89US/?tag=tolees0ca-21)

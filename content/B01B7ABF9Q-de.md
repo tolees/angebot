@@ -1,36 +1,36 @@
 ---
 layout: post
-title: 'Sony BDP-S6700 Blu-ray-Player  Wireless  mit 28.53 % Rabatt'
-date: 2021-03-13 07:37:10
+title: 'Sony BDP-S6700 Blu-ray-Player  Wireless  mit 28.59 % Rabatt'
+date: 2021-03-16 20:36:26
 image: 'https://m.media-amazon.com/images/I/21BkyafioZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B7ABF9Q-de Sony BDP-S6700 Blu-ray-Player Wireless Multiroom Super...'
 sku: 'B01B7ABF9Q-de'
-tags: [  ]
-actualPrice: 99.99 EUR
+tags: [ 'sony', ]
+actualPrice: 99.9 EUR
 currency: EUR
-price: 99.99
+price: 99.9
 comparePrice: 139.9 EUR
 prodname: 'Sony BDP-S6700 Blu-ray-Player  Wireless Multiroom  Super WiFi  3D  Screen Mirroring  4K Upscaling  schwarz'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B01B7ABF9Q/?tag=tolees0ca-21'
-descuento: '28.53'
-average: '98.6357971014493'
+descuento: '28.59'
+average: '98.6538571428572'
 ---
 
-Sie können [Sony BDP-S6700 Blu-ray-Player  Wireless Multiroom  Super WiFi  3D  Screen Mirroring  4K Upscaling  schwarz](https://www.amazon.de/dp/B01B7ABF9Q/?tag=tolees0ca-21) mit Preis 99.99 EUR (original: 139.9 EUR) 28.53 % Rabatt hier:
+Sie können [Sony BDP-S6700 Blu-ray-Player  Wireless Multiroom  Super WiFi  3D  Screen Mirroring  4K Upscaling  schwarz](https://www.amazon.de/dp/B01B7ABF9Q/?tag=tolees0ca-21) mit Preis 99.9 EUR (original: 139.9 EUR) 28.59 % Rabatt hier:
 
 [![Sony BDP-S6700 Blu-ray-Player  Wireless ](https://m.media-amazon.com/images/I/21BkyafioZL._SL400_.jpg)](https://www.amazon.de/dp/B01B7ABF9Q/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Audiogenuss über kabellose Lautsprecher oder Kopfhörer dank Bluetooth mit LDAC-Qualität
 - Kabellose Wiedergabe von Musik in der ganzen Wohnung mit SongPal Link
 - Integriertes Dualband-Wi-Fi für ein starkes WLAN-Signal
-- Audiogenuss über kabellose Lautsprecher oder Kopfhörer dank Bluetooth mit LDAC-Qualität
 - Atemberaubende Bildqualität dank 4K Upscaling (24p)
 - Schnelles, stabiles Streaming von diversen Internetvideo-Diensten
 
