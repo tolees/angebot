@@ -28,7 +28,7 @@ Sie können [BRAX Herren Style Cadiz Ultralight Hose  Blau  Ocean 22   31W / 32L
 
 ℹ️:
 
-- Leistengesäßtaschen mit Knopf
 - Chinohose
+- Leistengesäßtaschen mit Knopf
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W7CN61Q/?tag=tolees0ca-21)
