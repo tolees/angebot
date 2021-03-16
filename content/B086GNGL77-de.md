@@ -28,10 +28,10 @@ Sie können [Ubiquiti UniFi Switch USW-Flex-Mini](https://www.amazon.de/dp/B086G
 
 ℹ️:
 
-- Intuitive and Robust Configuration, Control and Monitoring.
-- Manage Your Networks from a Single Control Plane.
-- Users and Guests.
-- Remote Firmware Upgrade.
 - Works with UniFi Network Controller
+- Remote Firmware Upgrade.
+- Users and Guests.
+- Manage Your Networks from a Single Control Plane.
+- Intuitive and Robust Configuration, Control and Monitoring.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B086GNGL77/?tag=tolees0ca-21)

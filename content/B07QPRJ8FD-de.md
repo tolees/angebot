@@ -28,10 +28,10 @@ Es gibt ein [Briksmax Led Beleuchtungsset für Architecture Freiheitsstatue  Kom
 
 ℹ️:
 
-- Entwickelt für Lego 21042. Mit diesem Beleuchtungsset können Sie Ihr Architecture Freiheitsstatue von dunkel nach hell verwandeln,damit es zum Leben erwacht.
+- Durch eine schrittweise Anleitung werden Sie einen einfacheren Weg finden, um ein großes Upgrade Ihres Lieblingsbaukastens zu realisieren.
 - Das Paket enthält Bit Leuchten,Streifenlicht,Erweiterungsplatinen,Verbindungskabel,Batteriepack (Batterien nicht im Lieferumfang enthalten), Klebeflächen, Bedienungsanleitung.
+- Entwickelt für Lego 21042. Mit diesem Beleuchtungsset können Sie Ihr Architecture Freiheitsstatue von dunkel nach hell verwandeln,damit es zum Leben erwacht.
 - Wenn Sie Probleme mit Ihrem Produkt haben, senden Sie uns bitte eine E-Mail, wir sind immer für Sie da.
 - Bitte beachten Sie, dass nur LED-Licht geliefert wird.Alle LEGO Sets,die in Bildern und Videos gezeigt werden, sind nicht enthalten.
-- Durch eine schrittweise Anleitung werden Sie einen einfacheren Weg finden, um ein großes Upgrade Ihres Lieblingsbaukastens zu realisieren.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07QPRJ8FD/?tag=tolees0ca-21)
