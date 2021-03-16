@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubiquiti UniFi Switch USW-Flex-Mini mit 28.89 % Rabatt'
-date: 2021-03-15 01:07:35
+date: 2021-03-16 06:34:47
 image: 'https://m.media-amazon.com/images/I/21qNn5qh4BL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,6 +28,10 @@ Sie können [Ubiquiti UniFi Switch USW-Flex-Mini](https://www.amazon.de/dp/B086G
 
 ℹ️:
 
-- Number_Of_Items: 1
+- Remote Firmware Upgrade.
+- Intuitive and Robust Configuration, Control and Monitoring.
+- Manage Your Networks from a Single Control Plane.
+- Users and Guests.
+- Works with UniFi Network Controller
 
 [🛒 Hier!!](https://www.amazon.de/dp/B086GNGL77/?tag=tolees0ca-21)

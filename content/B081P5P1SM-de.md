@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 75283 Star Wars Armored Assault Tan mit 22.51 % Rabatt'
-date: 2021-03-14 13:05:03
+title: 'LEGO 75283 Star Wars Armored Assault Tan mit 17.50 % Rabatt'
+date: 2021-03-16 06:56:59
 image: 'https://m.media-amazon.com/images/I/51oKl9EYnHL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,30 +9,30 @@ author: ring
 slug: 'B081P5P1SM-de LEGO 75283 Star Wars Armored Assault Tank AAT Bauset mit...'
 sku: 'B081P5P1SM-de'
 tags: [  ]
-actualPrice: 30.99 EUR
+actualPrice: 32.99 EUR
 currency: EUR
-price: 30.99
+price: 32.99
 comparePrice: 39.99 EUR
 prodname: 'LEGO 75283 Star Wars Armored Assault Tank  AAT  Bauset mit Ahsoka Tano Minifigur'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B081P5P1SM/?tag=tolees0ca-21'
-descuento: '22.51'
-average: '35.5176512455515'
+descuento: '17.50'
+average: '35.5086879432623'
 ---
 
-Sie können [LEGO 75283 Star Wars Armored Assault Tank  AAT  Bauset mit Ahsoka Tano Minifigur](https://www.amazon.de/dp/B081P5P1SM/?tag=tolees0ca-21) mit Preis 30.99 EUR (original: 39.99 EUR) 22.51 % Rabatt hier:
+Sie können [LEGO 75283 Star Wars Armored Assault Tank  AAT  Bauset mit Ahsoka Tano Minifigur](https://www.amazon.de/dp/B081P5P1SM/?tag=tolees0ca-21) mit Preis 32.99 EUR (original: 39.99 EUR) 17.50 % Rabatt hier:
 
 [![LEGO 75283 Star Wars Armored Assault Tan](https://m.media-amazon.com/images/I/51oKl9EYnHL._SL400_.jpg)](https://www.amazon.de/dp/B081P5P1SM/?tag=tolees0ca-21)
 
 ℹ️:
 
-- The set comes with easy-to-follow, printed instructions so kids can build independently then enjoy endless Star Wars battle action play
-- This 286-piece construction toy makes a great holiday gift and offers a fun, rewarding building challenge for boys and girls aged 7 and up
-- The tank features 2 spring-loaded shooters and a rotating turret with an elevating cannon plus opening front and turret hatches
-- Re-enact exciting 501st Legion versus Battle Droid battles from Star Wars: The Clone Wars with this awesome Armoured Assault Tank (AAT)
-- Easily portable to keep kids entertained with Star Wars adventures on their travels, or build and display it at home
-- Includes Ahsoka Tano and Ahsoka’s Clone Trooper minifigures, AAT Driver Battle Droid and Battle Droid LEGO figures, all with cool weapons
+- Diesem Bau- und Spielset reicht das Vorstellungsvermögen kreativer Kinder als Antrieb, Batterien werden nicht benötigt. Deshalb müssen die galaktischen Abenteuer niemals enden, und auch Freunde oder Geschwister können mitspielen!
+- Als Bauspielzeug verfügt der AAT über zahlreiche coole Funktionen, die ein actionreiches Spielerlebnis bieten. Hierzu zählen 2 Shooter mit Federmechanismus, ein rotierender Geschützturm mit hochschwenkbarer Kanone sowie aufklappbare Luken vorne und am Geschützturm, in die die Kampfdroiden hineinpassen
+- Diese 286-teilige Bauspielzeug ist ein tolles Weihnachts- oder Geburtstagsgeschenk und stellt Jungen und Mädchen ab 7 Jahren vor eine spannende Bauherausforderung. Es lässt sich perfekt mit anderen LEGO Star Wars Sets kombinieren, um noch mehr kreatives Spielvergnügen zu bieten
+- Dieses Set enthält 2 LEGO Star Wars Minifiguren – Ahsoka Tano und Ahsokas Clone Trooper – einen Kampfdroiden als AAT Piloten und einen Kampfdroiden als weitere LEGO Figuren sowie coole Ausrüstung (unter anderem 2 Lichtschwerter) für actionreiche Rollenspiele
+- Das AAT Modell ist 12 cm hoch, 21 cm lang und 14 cm breit. Die Fans können den AAT aber auch im Videospiel „LEGO Star Wars: Die Skywalker Saga“ steuern, um sich besonders kreativ zu beschäftigen
+- Das fantastische LEGO Bauspielzeug „Armored Assault Tank (AAT)“ (75283) eignet sich bestens, um Kinder die spannenden Auseinandersetzungen zwischen der 501. Legion und den Kampfdroiden aus „Star Wars: The Clone Wars“ nachstellen zu lassen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B081P5P1SM/?tag=tolees0ca-21)

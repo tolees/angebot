@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '30.87 % rabat auf Ersatzmine Patrone für Pentel Tradio Sty'
-date: 2021-03-15 01:04:22
+date: 2021-03-16 06:26:28
 image: 'https://m.media-amazon.com/images/I/31POKs9DnzL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Pentel'
 buyurl: 'https://www.amazon.de/dp/B00PSH8PS4/?tag=tolees0ca-21'
 descuento: '30.87'
-average: '9.43834782608697'
+average: '9.43206896551725'
 ---
 
 Es gibt ein [Ersatzmine Patrone für Pentel Tradio Stylo Tintenfederhalter MLJ20  3 Stück  Schwarz ](https://www.amazon.de/dp/B00PSH8PS4/?tag=tolees0ca-21) mit aktuellem Preis 8.71 EUR (original: 12.6 EUR) 30.87 % Rabatt hier:
