@@ -28,9 +28,9 @@ Es gibt ein [PLAYMOBIL Princess 70500 Starter Pack Prinzessin  Für Kinder ab 3 
 
 ℹ️:
 
+- Lieferumfang: 1x PLAYMOBIL Princess - Starter Pack Prinzessin, 61-teiliges Spielfiguren-Set mit Anleitung: 1 Gebäude-Ecke Schloss, 2 Figuren, 58 Zubehörteile, Material: Kunststoff, LxTxH Gebäude: 12,5 x 13 x 31,5 cm, Gewicht: 223 g, 70500
 - 1 Prinz, 1 Prinzessin (Kinderfigur), 1 Ecke eines Schlosses mit schwenkbarer Ablage für Schüssel, Kanne und Lyra uvm., Passend zu 70504 Ergänzungssset
 - Spielfiguren-Set für Kinder ab 3 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
-- Lieferumfang: 1x PLAYMOBIL Princess - Starter Pack Prinzessin, 61-teiliges Spielfiguren-Set mit Anleitung: 1 Gebäude-Ecke Schloss, 2 Figuren, 58 Zubehörteile, Material: Kunststoff, LxTxH Gebäude: 12,5 x 13 x 31,5 cm, Gewicht: 223 g, 70500
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 - Einstieg in die bunte PLAYMOBIL-Welt: PLAYMOBIL Starter Pack Prinzessin mit altersgerechtem Zubehör und Gebäudeteil zum detailgetreuen Nachspielen
 

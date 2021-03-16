@@ -28,7 +28,7 @@ Es gibt ein [Puma Unisex Sportsocken Cush Crew 6er Pack  schwarz  Black   Gr. 39
 
 ℹ️:
 
-- Halb-Frottee-Sohle für Stoßdämpfung und zusätzlichen Komfort
 - Echte Ferse und Zehen für zusätzliche Unterstützung
+- Halb-Frottee-Sohle für Stoßdämpfung und zusätzlichen Komfort
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B018KIJS10/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [D-Link DGS-1016D Gigabit Switch  16 Ports  10/100/1000 Mbit/s  einf
 
 ℹ️:
 
+- Geräuchlos, ohne Lüfter (ab Hardware-Revision D1)
+- Gigabit für einfache Arbeitsgruppen
+- Desktop oder Rackmount; Gigabit-Technologie
 - Energiesparende Funktionen mit D-Link Green
 - Quality-of-Service und Jumbo-Frame Support
-- Desktop oder Rackmount; Gigabit-Technologie
-- Gigabit für einfache Arbeitsgruppen
-- Geräuchlos, ohne Lüfter (ab Hardware-Revision D1)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0007SQGV2/?tag=tolees0ca-21)

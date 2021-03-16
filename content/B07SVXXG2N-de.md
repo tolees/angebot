@@ -28,10 +28,10 @@ Es gibt ein [Somat Gold  Spülmaschinentabs  50 Tabs  Extra-Kraft gegen Eingebra
 
 ℹ️:
 
-- Schnell und einfach: Die Tabs in die Dosierkammer der Spülmaschine legen und das Geschirr ohne Einweichen ab 45° reinigen lassen - sogar Abtrocknen ist dank des Trocken-Eﬀekts nicht nötig
-- Mit den Gold Spülmaschinentabs werden Besteck und Geschirr im Handumdrehen sauber: Zwölf eﬀektive Funktionen erleichtern die Reinigung, sodass Zeit und Mühe gespart wird
-- Der Rundum-Reiniger mit Klarspüler- und Salzfunktion reinigt nicht nur sanft das Geschirr und erhält den strahlenden Glanz sondern ist auch schonend zum Geschirrreiniger
 - Die Spültabs sind schnell auflösend und sorgen somit auch für Tiefenreinigung im Kurzprogramm. Die Geschirrspültabs enthalten neben einem Geruchsneutralisierer auch eine Gläserschutz-Formel
+- Schnell und einfach: Die Tabs in die Dosierkammer der Spülmaschine legen und das Geschirr ohne Einweichen ab 45° reinigen lassen - sogar Abtrocknen ist dank des Trocken-Eﬀekts nicht nötig
+- Der Rundum-Reiniger mit Klarspüler- und Salzfunktion reinigt nicht nur sanft das Geschirr und erhält den strahlenden Glanz sondern ist auch schonend zum Geschirrreiniger
+- Mit den Gold Spülmaschinentabs werden Besteck und Geschirr im Handumdrehen sauber: Zwölf eﬀektive Funktionen erleichtern die Reinigung, sodass Zeit und Mühe gespart wird
 - Hinweis: Die Abbildungen können leichte. Abweichungen zu dem gelieferten Artikel aufweisen
 - Die Extra-Kraft gegen Eingebranntes und die Tiefenreinigungskraft sorgen dafür, dass selbst hartnäckigste Verschmutzungen, wie z.B. von Cerealien oder Tee- und Kaﬀeeﬂecken einwandfrei entfernt werden
 
