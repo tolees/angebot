@@ -28,10 +28,10 @@ Es gibt ein [Western Digital WDS250G2B0A WD Blue 250GB 3D NAND Internal SSD 2.5"
 
 ℹ️:
 
-- Geschwindigkeiten von bis zu 560 MB/s für sequenzielle Lesevorgänge und bis zu 530 MB/s für sequenzielle Schreibvorgänge sorgen für schnellen und reibungslosen Zugriff auf Ihre Daten. Schnittstelle SATA 6 Gb/s
-- WD BLUE 3D NAND SATA-SSD sind in Kapazitäten bis zu 2TB erhältlich. Sie zeichnen sich durch Ihre erhöhte Zuverlässigkeit aus: Branchenführende MTTF (Mean Time to Failure) von 1,75 Mio. Stunden und bis zu 500 geschriebene Terabyte (TBW)
 - Die SSDs sind stoßsicher und ihre Kompatibilität wurde mit einer Vielzahl von Computern getestet WD BLUE 3D NAND SATA-SSD sind WD F.I.T. Lab zertifiziert.
-- Lieferumfang: WD BLUE 3D NAND SATA-SSD 250GB, Kostenlos herunterladbare Software zur Überwachung des Festplattenstatus, zum Klonen von Laufwerken und zum Sichern Ihrer Daten.
+- Geschwindigkeiten von bis zu 560 MB/s für sequenzielle Lesevorgänge und bis zu 530 MB/s für sequenzielle Schreibvorgänge sorgen für schnellen und reibungslosen Zugriff auf Ihre Daten. Schnittstelle SATA 6 Gb/s
 - Eine um bis zu 25 % niedrigere aktive Leistungsaufnahme gegenüber früheren WD Blue SSD-Generationen lässt Ihren Computer stromsparender arbeiten.
+- WD BLUE 3D NAND SATA-SSD sind in Kapazitäten bis zu 2TB erhältlich. Sie zeichnen sich durch Ihre erhöhte Zuverlässigkeit aus: Branchenführende MTTF (Mean Time to Failure) von 1,75 Mio. Stunden und bis zu 500 geschriebene Terabyte (TBW)
+- Lieferumfang: WD BLUE 3D NAND SATA-SSD 250GB, Kostenlos herunterladbare Software zur Überwachung des Festplattenstatus, zum Klonen von Laufwerken und zum Sichern Ihrer Daten.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B073SB2MXW/?tag=tolees0ca-21)

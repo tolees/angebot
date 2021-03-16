@@ -29,8 +29,8 @@ Es gibt ein [Funko 52870 POP Star Wars: Valentines-Yoda w/Heart  Multicolour](ht
 ℹ️:
 
 - Verpackungsabmessungen (L x B x H): 11.6 x 9.0 x 16.0 Zm
+- Material: Vinyl
 - Herkunftsland:- Vietnam
 - Verpackungsgewicht: 150.0 Gramm
-- Material: Vinyl
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08CB6RXRX/?tag=tolees0ca-21)

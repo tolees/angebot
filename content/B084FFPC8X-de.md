@@ -28,10 +28,10 @@ Es gibt ein [Tamaris Damen 1-1-25306-25 001 Chelsea Boot Touch-IT](https://www.a
 
 ℹ️:
 
-- Absatzhöhe: 3 cm
 - gepolsterte TOUCH-IT Decksohle
-- flexibeler Einstieg
 - Absatztyp: Blockabsatz
+- flexibeler Einstieg
+- Absatzhöhe: 3 cm
 - Laufsohle mit dezentem Plateau
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B084FFPC8X/?tag=tolees0ca-21)
