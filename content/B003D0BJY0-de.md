@@ -28,9 +28,9 @@ Es gibt ein [Draper 19174 Mehrzweck-Schaufel aus Polyurethan](https://www.amazon
 
 ℹ️:
 
+- Farbe: Blau
 - Klingengröße: 38 x 34,5 cm (L x B)
 - Gesamtlänge: 115 cm
 - Material: Polypropylen
-- Farbe: Blau
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B003D0BJY0/?tag=tolees0ca-21)
