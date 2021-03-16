@@ -5,7 +5,7 @@ date: 2020-09-29 08:43:58
 image: 'https://m.media-amazon.com/images/I/51vXnt8ALXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D3JWN98-de Deadpool 2 [DVD]'
 sku: 'B07D3JWN98-de'
 tags: [  ]

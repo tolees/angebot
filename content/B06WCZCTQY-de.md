@@ -5,7 +5,7 @@ date: 2020-04-07 13:21:03
 image: 'https://m.media-amazon.com/images/I/61aQGW4oeWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WCZCTQY-de Playmobil 9249 - Eret mit 4-Schuss-Feuer-Balliste'
 sku: 'B06WCZCTQY-de'
 tags: [  ]

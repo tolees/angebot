@@ -5,7 +5,7 @@ date: 2020-04-11 16:28:58
 image: 'https://m.media-amazon.com/images/I/316OItAT2zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZFXM2VC-de Villeroy & Boch Toy s Delight Mittelgroße Vorratsdose...'
 sku: 'B00ZFXM2VC-de'
 tags: [  ]

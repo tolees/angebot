@@ -5,7 +5,7 @@ date: 2020-01-15 13:58:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51jr4tDwl8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075YZGLNL-de amscan 9902519 6 Dekospiralen My Little Pony Mehrfarbig'
 sku: 'B075YZGLNL-de'
 tags: [  ]

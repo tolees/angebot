@@ -5,7 +5,7 @@ date: 2020-04-04 13:19:43
 image: 'https://m.media-amazon.com/images/I/31is+G7257L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y41B5GN-de Samsung SM-R210NZWADBT Gear 360 2017 weiß'
 sku: 'B06Y41B5GN-de'
 tags: [  ]

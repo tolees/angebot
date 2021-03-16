@@ -5,7 +5,7 @@ date: 2020-03-11 10:38:33
 image: 'https://m.media-amazon.com/images/I/41bRsf28-LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003BLPRL2-de Crocs Unisex-Erwachsene Baya Clogs Grau Graphite 45/46 EU'
 sku: 'B003BLPRL2-de'
 tags: [  ]

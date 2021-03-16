@@ -5,7 +5,7 @@ date: 2020-01-28 01:42:22
 image: 'https://m.media-amazon.com/images/I/51iqTmcprAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GTP6BNM-de Playmobil - Privatjet'
 sku: 'B07GTP6BNM-de'
 tags: [  ]

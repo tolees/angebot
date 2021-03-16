@@ -5,7 +5,7 @@ date: 2020-10-09 03:46:03
 image: 'https://m.media-amazon.com/images/I/5159CokHqHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00R8RCLC8-de Floïd masaje genuino vigoroso Aftershave 150ml'
 sku: 'B00R8RCLC8-de'
 tags: [  ]

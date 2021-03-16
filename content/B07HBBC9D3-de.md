@@ -5,7 +5,7 @@ date: 2020-03-13 02:28:18
 image: 'https://m.media-amazon.com/images/I/41xDi8Ps6uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HBBC9D3-de Funko POP Dragon Ball Z Android 18 V'
 sku: 'B07HBBC9D3-de'
 tags: [  ]

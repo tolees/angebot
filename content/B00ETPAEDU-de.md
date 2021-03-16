@@ -5,7 +5,7 @@ date: 2020-02-01 17:43:14
 image: 'https://m.media-amazon.com/images/I/41tupVwdxtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ETPAEDU-de Logitech G602 Wireless Gaming Maus 2500 DPI Sensor 11...'
 sku: 'B00ETPAEDU-de'
 tags: [  ]

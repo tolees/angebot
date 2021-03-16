@@ -5,7 +5,7 @@ date: 2020-01-22 04:33:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DOMVuGbnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KD9OSG-de Casio Collection Herren-Armbanduhr F105W1AWYEF'
 sku: 'B000KD9OSG-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-09 14:22:26
 image: 'https://m.media-amazon.com/images/I/41R+VPNuXoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GNNJTX8-de Krups CZ7158 Cook4Me+ Connect Multikocher 1600 Watt...'
 sku: 'B07GNNJTX8-de'
 tags: [  ]

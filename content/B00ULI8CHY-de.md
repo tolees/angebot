@@ -5,7 +5,7 @@ date: 2020-04-03 07:01:42
 image: 'https://m.media-amazon.com/images/I/414d0-MUvIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ULI8CHY-de Samsonite Neopulse - Spinner S Breite: 20 cm Handgepäck 55...'
 sku: 'B00ULI8CHY-de'
 tags: [  ]

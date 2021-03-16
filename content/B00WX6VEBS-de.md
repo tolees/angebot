@@ -5,7 +5,7 @@ date: 2020-01-17 10:56:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61gdY72R2DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WX6VEBS-de Morella® Damen Engels Klangkugel Zirkonia grün Ø 16 mm'
 sku: 'B00WX6VEBS-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-09 04:52:38
 image: 'https://m.media-amazon.com/images/I/41ez8Pzf9SL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F5YAFC4-de AEG AEF144 Austauschfilter für Rapido & Ergorapido CX7-1...'
 sku: 'B00F5YAFC4-de'
 tags: [  ]

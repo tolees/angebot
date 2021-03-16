@@ -5,7 +5,7 @@ date: 2020-03-19 05:12:50
 image: 'https://m.media-amazon.com/images/I/41L4V+1kcNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015GM3U1M-de Ice-Watch - ICE glitter Black Rose-Gold - Women s...'
 sku: 'B015GM3U1M-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-03 19:08:52
 image: 'https://m.media-amazon.com/images/I/41f9bZ1jwYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZXTZ519-de Hama Outdoor Steckdosenleiste mit Schalter 2-fach 2m...'
 sku: 'B06ZXTZ519-de'
 tags: [  ]

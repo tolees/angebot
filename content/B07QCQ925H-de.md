@@ -5,7 +5,7 @@ date: 2020-03-16 02:30:15
 image: 'https://m.media-amazon.com/images/I/417alv-FsbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QCQ925H-de Funko 40879 POP Vinyl Animation: Disenchantment-King Zog...'
 sku: 'B07QCQ925H-de'
 tags: [  ]

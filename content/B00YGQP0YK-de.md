@@ -5,7 +5,7 @@ date: 2020-04-15 23:31:21
 image: 'https://m.media-amazon.com/images/I/41-rCpbyEtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YGQP0YK-de Westmark Bratensaft-/Marinier-Spritze mit abnehmbarer...'
 sku: 'B00YGQP0YK-de'
 tags: [  ]

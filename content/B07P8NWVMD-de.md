@@ -5,7 +5,7 @@ date: 2020-04-06 21:08:35
 image: 'https://m.media-amazon.com/images/I/61hT1NjcUcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P8NWVMD-de Playmobil 70212 Dollhouse Kindergeburtstag mit Clown ab 4...'
 sku: 'B07P8NWVMD-de'
 tags: [  ]

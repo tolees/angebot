@@ -5,7 +5,7 @@ date: 2020-04-11 10:04:13
 image: 'https://m.media-amazon.com/images/I/41-MdD2LXrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WVTJFFF-de LG 75UM7000PLA 189 cm 75 Zoll UHD Fernseher LCD Single...'
 sku: 'B07WVTJFFF-de'
 tags: [  ]

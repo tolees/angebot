@@ -5,7 +5,7 @@ date: 2020-02-09 14:40:56
 image: 'https://m.media-amazon.com/images/I/41TQhy42JFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B3ZWY15-de Clarks Men’s Batcombe Lord Chelsea Boots Schwarz Black 45 EU'
 sku: 'B07B3ZWY15-de'
 tags: [  ]

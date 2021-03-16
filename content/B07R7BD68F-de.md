@@ -5,7 +5,7 @@ date: 2020-09-29 21:26:12
 image: 'https://m.media-amazon.com/images/I/41Kv+m3AYwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R7BD68F-de LE-IDEA Drohne IDEA10 - Faltbare GPS Drohne mit 1080P 120°...'
 sku: 'B07R7BD68F-de'
 tags: [  ]

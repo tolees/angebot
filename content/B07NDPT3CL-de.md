@@ -5,7 +5,7 @@ date: 2020-04-26 14:52:30
 image: 'https://m.media-amazon.com/images/I/41ulvt-KIvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDPT3CL-de G-STAR RAW Damen Syenite Slim Hemd Blau Mazarine Blue 4213...'
 sku: 'B07NDPT3CL-de'
 tags: [  ]

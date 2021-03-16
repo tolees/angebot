@@ -5,7 +5,7 @@ date: 2020-03-13 10:32:23
 image: 'https://m.media-amazon.com/images/I/61GWVccHSOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075R7HN9R-de Condis Magnetische Bausteine 95 Teile Magnetspielzeug...'
 sku: 'B075R7HN9R-de'
 tags: [  ]

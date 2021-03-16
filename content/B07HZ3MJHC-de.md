@@ -5,7 +5,7 @@ date: 2020-09-29 18:02:39
 image: 'https://m.media-amazon.com/images/I/51OalEcRApL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HZ3MJHC-de Ferm Bandschleifmaschine – 350W – 150mm - einschl. 2...'
 sku: 'B07HZ3MJHC-de'
 tags: [  ]

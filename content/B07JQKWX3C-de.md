@@ -5,7 +5,7 @@ date: 2020-03-16 16:15:54
 image: 'https://m.media-amazon.com/images/I/41L7NhdZWEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQKWX3C-de iVANKY DisplayPort Kabel 2M/4K DisplayPort auf DisplayPort...'
 sku: 'B07JQKWX3C-de'
 tags: [  ]

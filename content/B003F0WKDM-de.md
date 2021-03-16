@@ -5,7 +5,7 @@ date: 2020-08-12 06:18:19
 image: 'https://m.media-amazon.com/images/I/41zakVKgDmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003F0WKDM-de CASO VC10 Vakuumierer - Testsieger bei Stiftung Warentest...'
 sku: 'B003F0WKDM-de'
 tags: [  ]

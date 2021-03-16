@@ -5,7 +5,7 @@ date: 2020-02-14 04:23:17
 image: 'https://m.media-amazon.com/images/I/41gm5C5qL5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00R0Z7TFM-de Bosch Professional Laser Entfernungsmesser GLM 40...'
 sku: 'B00R0Z7TFM-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-26 18:16:51
 image: 'https://m.media-amazon.com/images/I/31c9pEsZzcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SGPTNNC-de Luftbefeuchter Ultraschall Homech Raumbefeuchter 4L 50 Std...'
 sku: 'B07SGPTNNC-de'
 tags: [  ]

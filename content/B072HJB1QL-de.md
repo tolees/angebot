@@ -5,7 +5,7 @@ date: 2020-08-25 10:48:13
 image: 'https://m.media-amazon.com/images/I/414aMgfZiwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072HJB1QL-de Schiesser Herren Anzug Kurz Zweiteiliger Schlafanzug Blau...'
 sku: 'B072HJB1QL-de'
 tags: [  ]

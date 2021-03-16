@@ -5,7 +5,7 @@ date: 2020-04-15 00:29:00
 image: 'https://m.media-amazon.com/images/I/41d9Qv-MY-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DN1KCYN-de Jade Roller und Gua Sha Scraping Gesichts-Tools Set...'
 sku: 'B07DN1KCYN-de'
 tags: [  ]

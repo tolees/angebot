@@ -5,7 +5,7 @@ date: 2020-01-27 09:56:58
 image: 'https://m.media-amazon.com/images/I/51-P0pr+zAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HZ255YQ-de Quiksilver Herren Anton Kapuzenjacke oliv M'
 sku: 'B01HZ255YQ-de'
 tags: [  ]

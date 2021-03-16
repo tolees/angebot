@@ -5,7 +5,7 @@ date: 2020-03-08 18:31:51
 image: 'https://m.media-amazon.com/images/I/41l2pxECdtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFDTKCP-de Funko 34053 Kingdom Hearts 3: Riku POP Vinylfigur Multi'
 sku: 'B07DFDTKCP-de'
 tags: [  ]

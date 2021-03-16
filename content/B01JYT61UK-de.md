@@ -5,7 +5,7 @@ date: 2020-02-19 14:05:49
 image: 'https://m.media-amazon.com/images/I/41bgQs6-yaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JYT61UK-de Gembird JPD-WDV-01 Kabelloses Gamepad mit Vibration...'
 sku: 'B01JYT61UK-de'
 tags: [  ]

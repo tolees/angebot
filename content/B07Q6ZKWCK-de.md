@@ -5,7 +5,7 @@ date: 2020-01-21 18:09:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51i3kr4lulL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q6ZKWCK-de deAO 2-in-1 Puppenhaus Handtasche Tragetasche Spielset mit...'
 sku: 'B07Q6ZKWCK-de'
 tags: [  ]

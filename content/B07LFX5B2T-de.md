@@ -5,7 +5,7 @@ date: 2020-01-29 11:32:52
 image: 'https://m.media-amazon.com/images/I/51O572feVSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFX5B2T-de My Little Pony Kicherspaß Pinkie Pie – 20 cm großes...'
 sku: 'B07LFX5B2T-de'
 tags: [  ]

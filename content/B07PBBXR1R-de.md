@@ -5,7 +5,7 @@ date: 2020-03-31 13:01:24
 image: 'https://m.media-amazon.com/images/I/317xd4vadIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PBBXR1R-de Funko 42650 POP Vinyl: Harry Potter S7-Ginny Yule...'
 sku: 'B07PBBXR1R-de'
 tags: [  ]

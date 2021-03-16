@@ -5,7 +5,7 @@ date: 2020-04-09 23:42:13
 image: 'https://m.media-amazon.com/images/I/51NBo8k0FZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008V5RNDS-de Ice Age 1-4 [4 DVDs]'
 sku: 'B008V5RNDS-de'
 tags: [  ]

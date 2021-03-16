@@ -5,7 +5,7 @@ date: 2020-07-20 12:18:43
 image: 'https://m.media-amazon.com/images/I/51mJ3Ce948L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9N8Z3D-de Doritos Paprika - Paprika Tortilla Nachos - Herzhafter...'
 sku: 'B07S9N8Z3D-de'
 tags: [  ]

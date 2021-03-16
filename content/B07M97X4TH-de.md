@@ -5,7 +5,7 @@ date: 2020-01-26 04:39:05
 image: 'https://m.media-amazon.com/images/I/41uJ7uzG6qL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M97X4TH-de Braun Barttrimmer und Haarschneider BT3041 39...'
 sku: 'B07M97X4TH-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-10 23:52:21
 image: 'https://m.media-amazon.com/images/I/51Db3BBe8ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9Z6CCV-de GIANAC USB Typ C Kabel [4Pack 0.3M 1M 2M 3M ] 3A USB C...'
 sku: 'B07L9Z6CCV-de'
 tags: [  ]

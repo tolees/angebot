@@ -5,7 +5,7 @@ date: 2020-02-17 12:52:13
 image: 'https://m.media-amazon.com/images/I/51VVUsV-wGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JVWY7SJ-de ASUS ROG STRIX NVIDIA GeForce RTX 2070 OC 8G Gaming...'
 sku: 'B07JVWY7SJ-de'
 tags: [  ]

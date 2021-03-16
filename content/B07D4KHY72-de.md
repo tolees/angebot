@@ -5,7 +5,7 @@ date: 2020-04-18 00:18:09
 image: 'https://m.media-amazon.com/images/I/41qEnJtjqyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D4KHY72-de Lenovo 15 6 Zoll Notebook Intel N4000 Dual Core 2x2.60 GHz...'
 sku: 'B07D4KHY72-de'
 tags: [  ]

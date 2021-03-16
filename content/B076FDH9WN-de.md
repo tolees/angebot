@@ -5,7 +5,7 @@ date: 2020-04-15 09:43:45
 image: 'https://m.media-amazon.com/images/I/41VJRqKjUKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076FDH9WN-de Palladium Pampa Sport Shearling Waterproof Unisex-...'
 sku: 'B076FDH9WN-de'
 tags: [  ]

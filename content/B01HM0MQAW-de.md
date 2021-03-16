@@ -5,7 +5,7 @@ date: 2020-07-15 09:44:48
 image: 'https://m.media-amazon.com/images/I/41+7OlljXyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HM0MQAW-de FIBARO Double Switch 2 / Z-Wave Plus Relaisschalter...'
 sku: 'B01HM0MQAW-de'
 tags: [  ]

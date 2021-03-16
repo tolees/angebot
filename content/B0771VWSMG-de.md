@@ -5,7 +5,7 @@ date: 2020-03-15 04:43:46
 image: 'https://m.media-amazon.com/images/I/31OybvtcUdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0771VWSMG-de Tefal Elegance C36708 Bratpfanne 32 cm Aluminium schwarz'
 sku: 'B0771VWSMG-de'
 tags: [  ]

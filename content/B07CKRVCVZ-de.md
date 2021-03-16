@@ -5,7 +5,7 @@ date: 2020-02-13 20:20:17
 image: 'https://m.media-amazon.com/images/I/51Cqz1jPF8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CKRVCVZ-de Hasbro Nerf B8072EU5 N-Strike Elite TerraScout Multicolor'
 sku: 'B07CKRVCVZ-de'
 tags: [  ]

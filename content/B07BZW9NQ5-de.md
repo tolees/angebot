@@ -5,7 +5,7 @@ date: 2020-04-18 00:17:13
 image: 'https://m.media-amazon.com/images/I/51JmOfB47hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BZW9NQ5-de Hasbro Gaming E2420100 - Schnapp n Happen Familienspiel'
 sku: 'B07BZW9NQ5-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-12 08:14:28
 image: 'https://m.media-amazon.com/images/I/41Zd7cVX1mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XLTV71Y-de Diesel Smartwatch DZT2014'
 sku: 'B07XLTV71Y-de'
 tags: [  ]

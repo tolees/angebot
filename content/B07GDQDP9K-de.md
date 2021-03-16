@@ -5,7 +5,7 @@ date: 2020-02-11 05:04:57
 image: 'https://m.media-amazon.com/images/I/51zmowXDK-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GDQDP9K-de Levi s Herren Type 3 Sherpa Trucker-Jacke Blau Mayze...'
 sku: 'B07GDQDP9K-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-10 15:54:27
 image: 'https://m.media-amazon.com/images/I/51LpJ0rcBWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08252NSMY-de zxcvb Armario de vino Boca abajo Titular de copa de vino...'
 sku: 'B08252NSMY-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-29 04:42:22
 image: 'https://m.media-amazon.com/images/I/4128f9Gxe3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004JX7MRI-de Yankee Candle große Duftkerze im Glas Soft Blanket...'
 sku: 'B004JX7MRI-de'
 tags: [  ]

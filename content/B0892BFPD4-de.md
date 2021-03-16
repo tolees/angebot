@@ -5,7 +5,7 @@ date: 2020-08-10 00:11:31
 image: 'https://m.media-amazon.com/images/I/51ZLukSzWqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0892BFPD4-de jerryvon Hammerspiel Klopfbank Holz Kinderspielzeug 3 in 1...'
 sku: 'B0892BFPD4-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-30 18:35:22
 image: 'https://m.media-amazon.com/images/I/41SvlstaQ1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GV3MSUA-de CMP Damen Zipp Off Hose Antracite 40'
 sku: 'B00GV3MSUA-de'
 tags: [  ]

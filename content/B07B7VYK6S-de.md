@@ -5,7 +5,7 @@ date: 2020-04-07 21:42:50
 image: 'https://m.media-amazon.com/images/I/41NrQ+VCL4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B7VYK6S-de Dickie Toys Fire Rescue Unit Feuerwehrauto Spielzeugauto...'
 sku: 'B07B7VYK6S-de'
 tags: [  ]

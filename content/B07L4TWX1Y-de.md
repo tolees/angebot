@@ -5,7 +5,7 @@ date: 2020-04-17 00:16:15
 image: 'https://m.media-amazon.com/images/I/41jPyBOKKRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L4TWX1Y-de SVITA TM2X15 Treteimer 30 Liter 2x15L oder 54 Liter 3x18L...'
 sku: 'B07L4TWX1Y-de'
 tags: [  ]

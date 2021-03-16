@@ -5,7 +5,7 @@ date: 2020-04-18 00:50:01
 image: 'https://m.media-amazon.com/images/I/41nHODJ+W8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y4S8QKQ-de ACEPC T11 Mini-PC Windows 10 Pro 4GB DDR3/ 64GB eMMC/...'
 sku: 'B07Y4S8QKQ-de'
 tags: [  ]

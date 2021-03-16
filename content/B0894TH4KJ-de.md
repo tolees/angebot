@@ -5,7 +5,7 @@ date: 2020-08-23 10:33:58
 image: 'https://m.media-amazon.com/images/I/41Zkw3N+XeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0894TH4KJ-de Bluetooth Adapter 5.0 Empfänger Transmitter 2 in 1...'
 sku: 'B0894TH4KJ-de'
 tags: [  ]

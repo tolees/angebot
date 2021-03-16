@@ -5,7 +5,7 @@ date: 2020-02-03 22:03:59
 image: 'https://m.media-amazon.com/images/I/310kovk2fxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NBZR1PY-de LED View Cover für Galaxy S10e Schwarz'
 sku: 'B07NBZR1PY-de'
 tags: [  ]

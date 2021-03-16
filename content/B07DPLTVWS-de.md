@@ -5,7 +5,7 @@ date: 2020-04-14 16:41:43
 image: 'https://m.media-amazon.com/images/I/51sq9ilSLxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DPLTVWS-de Kinder Musikinstrumenten Spielzeug Set - Smarkids...'
 sku: 'B07DPLTVWS-de'
 tags: [  ]

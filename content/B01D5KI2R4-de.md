@@ -5,7 +5,7 @@ date: 2020-09-16 06:52:16
 image: 'https://m.media-amazon.com/images/I/61RtkNjZqVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D5KI2R4-de Onibaba - Die Töterinnen Filmjuwelen [Blu-ray]'
 sku: 'B01D5KI2R4-de'
 tags: [  ]

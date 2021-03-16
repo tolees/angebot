@@ -5,7 +5,7 @@ date: 2020-04-16 08:22:59
 image: 'https://m.media-amazon.com/images/I/419N32OOARL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFP3K3T-de INSTINNCT Damen Nahtlos Yoga Sport-BH Ohne Bügel mit...'
 sku: 'B07YFP3K3T-de'
 tags: [  ]

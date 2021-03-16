@@ -5,7 +5,7 @@ date: 2020-04-06 13:59:23
 image: 'https://m.media-amazon.com/images/I/31t8QinGJ3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDL59ZC-de G-STAR RAW Herren Pakke Blazer Blau Mazarine Blue 4213...'
 sku: 'B07NDL59ZC-de'
 tags: [  ]

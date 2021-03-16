@@ -5,7 +5,7 @@ date: 2020-06-11 17:57:02
 image: 'https://m.media-amazon.com/images/I/51A2+u5zPrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0719JFC2X-de Hasbro Gaming – Klassische Spiel von Simon b7962eu4'
 sku: 'B0719JFC2X-de'
 tags: [  ]

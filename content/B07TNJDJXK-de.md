@@ -5,7 +5,7 @@ date: 2020-02-09 13:03:31
 image: 'https://m.media-amazon.com/images/I/61KN8kE8erL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNJDJXK-de Smartwatch Sport Uhr Fitness Tracker - IP68 Wasserdicht...'
 sku: 'B07TNJDJXK-de'
 tags: [  ]

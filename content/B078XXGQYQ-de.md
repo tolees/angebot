@@ -5,7 +5,7 @@ date: 2020-02-21 20:24:36
 image: 'https://m.media-amazon.com/images/I/414aP7ohcTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078XXGQYQ-de Briggs & Stratton Tragbarer Benzin-Inverter-Generator der...'
 sku: 'B078XXGQYQ-de'
 tags: [  ]

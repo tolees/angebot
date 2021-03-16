@@ -5,7 +5,7 @@ date: 2020-06-01 06:43:22
 image: 'https://m.media-amazon.com/images/I/41V21tNFb2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YA10NBQ-de Panasonic Nass/Trocken-Rasierer ES-LT4N mit ultraflexiblem...'
 sku: 'B00YA10NBQ-de'
 tags: [  ]

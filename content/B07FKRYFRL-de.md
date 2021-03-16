@@ -5,7 +5,7 @@ date: 2020-04-16 14:33:11
 image: 'https://m.media-amazon.com/images/I/41QEASt-DPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKRYFRL-de Smart Steckdosenleiste Koogeek Intelligent WiFi-...'
 sku: 'B07FKRYFRL-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-17 23:55:36
 image: 'https://m.media-amazon.com/images/I/314VFbMvNyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MRKBST3-de Zyxel Gigabit Unmanaged PoE+ Switch mit 5 Ports davon 4...'
 sku: 'B07MRKBST3-de'
 tags: [  ]

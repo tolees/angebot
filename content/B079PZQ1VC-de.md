@@ -5,7 +5,7 @@ date: 2020-04-01 21:05:39
 image: 'https://m.media-amazon.com/images/I/41drQHMw3uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079PZQ1VC-de Funko 26904 Pop Marvel: Avengers Infinity War - Teenager...'
 sku: 'B079PZQ1VC-de'
 tags: [  ]

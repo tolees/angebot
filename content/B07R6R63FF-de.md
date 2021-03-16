@@ -5,7 +5,7 @@ date: 2020-04-12 17:23:44
 image: 'https://m.media-amazon.com/images/I/31TcpAPigPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R6R63FF-de WEB EYEWEAR Herren WE0261 Sonnenbrille Schwarz 60 EU'
 sku: 'B07R6R63FF-de'
 tags: [  ]

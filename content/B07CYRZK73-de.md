@@ -5,7 +5,7 @@ date: 2020-02-23 10:16:39
 image: 'https://m.media-amazon.com/images/I/41mmwP480tL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CYRZK73-de Calvin Klein Herren Analog Quarz Uhr mit Leder Armband...'
 sku: 'B07CYRZK73-de'
 tags: [  ]

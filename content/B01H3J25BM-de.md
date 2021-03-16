@@ -5,7 +5,7 @@ date: 2020-02-24 20:34:33
 image: 'https://m.media-amazon.com/images/I/51WjkMIunjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H3J25BM-de Motorola TLKR T41 PMR Funkgerät mit LC-Display grün'
 sku: 'B01H3J25BM-de'
 tags: [  ]

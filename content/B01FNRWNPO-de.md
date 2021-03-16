@@ -5,7 +5,7 @@ date: 2020-01-02 22:26:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419UlKOS3CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FNRWNPO-de HP Z5000 W2Q00AA kabellose Maus Bluetooth 1.200 dpi 3...'
 sku: 'B01FNRWNPO-de'
 tags: [  ]

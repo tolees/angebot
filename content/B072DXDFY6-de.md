@@ -5,7 +5,7 @@ date: 2020-04-16 08:00:04
 image: 'https://m.media-amazon.com/images/I/61v9tOOClJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072DXDFY6-de Guardians of the Galaxy Vol. 2'
 sku: 'B072DXDFY6-de'
 tags: [  ]

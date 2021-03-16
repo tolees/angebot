@@ -5,7 +5,7 @@ date: 2020-03-17 10:48:47
 image: 'https://m.media-amazon.com/images/I/41GX2QZY7xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFDQLMX-de Funko 34460 Riverdale: Reggie in Football Uniform POP...'
 sku: 'B07DFDQLMX-de'
 tags: [  ]

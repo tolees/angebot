@@ -5,7 +5,7 @@ date: 2020-08-19 19:44:57
 image: 'https://m.media-amazon.com/images/I/415KGUjzZQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077GG47BS-de Clatronic PO 3682 Elektrischer Pizzaofen für 6 Personen...'
 sku: 'B077GG47BS-de'
 tags: [  ]

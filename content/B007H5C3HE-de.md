@@ -5,7 +5,7 @@ date: 2020-03-14 04:56:52
 image: 'https://m.media-amazon.com/images/I/41ArJcIfufL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007H5C3HE-de Pontec Filter- und Bachlaufpumpe PondoMax Eco 1500'
 sku: 'B007H5C3HE-de'
 tags: [  ]

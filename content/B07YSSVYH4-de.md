@@ -5,7 +5,7 @@ date: 2020-08-27 03:56:14
 image: 'https://m.media-amazon.com/images/I/41lVjVbQcYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YSSVYH4-de GARDENA Hahnverbinder für Indoor-Wasserhähne: Anschluss...'
 sku: 'B07YSSVYH4-de'
 tags: [  ]

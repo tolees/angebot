@@ -5,7 +5,7 @@ date: 2020-03-21 04:54:31
 image: 'https://m.media-amazon.com/images/I/416-orNNs5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000Y3XV4U-de Wrangler Texas Herren Jeans Blau Stonewash Light blue 44W...'
 sku: 'B000Y3XV4U-de'
 tags: [  ]

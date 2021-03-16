@@ -5,7 +5,7 @@ date: 2020-03-25 19:05:57
 image: 'https://m.media-amazon.com/images/I/31O6anX4NwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076QB4VV3-de Razer Electra V2 USB - Digitales Gaming Headset für Gamer...'
 sku: 'B076QB4VV3-de'
 tags: [  ]

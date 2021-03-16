@@ -5,7 +5,7 @@ date: 2020-09-24 09:47:04
 image: 'https://m.media-amazon.com/images/I/51JVRu4PniL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0000E5PEM-de The Diary of Alicia Keys'
 sku: 'B0000E5PEM-de'
 tags: [  ]

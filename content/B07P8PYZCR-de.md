@@ -5,7 +5,7 @@ date: 2020-05-10 13:39:52
 image: 'https://m.media-amazon.com/images/I/519zAYbbMcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P8PYZCR-de Microsoft Surface Book 2 34 29 cm 13 Zoll Laptop Intel...'
 sku: 'B07P8PYZCR-de'
 tags: [  ]

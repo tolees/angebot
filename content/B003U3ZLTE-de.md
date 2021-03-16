@@ -5,7 +5,7 @@ date: 2020-02-18 22:32:10
 image: 'https://m.media-amazon.com/images/I/41QNGsY0IcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003U3ZLTE-de Intenso Photobase Digitaler Bilderrahmen 20 3cm 8 Zoll...'
 sku: 'B003U3ZLTE-de'
 tags: [  ]

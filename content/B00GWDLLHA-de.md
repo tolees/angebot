@@ -5,7 +5,7 @@ date: 2020-03-22 04:57:43
 image: 'https://m.media-amazon.com/images/I/41H3-HZtpKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GWDLLHA-de Dunlop Protective Footwear Purofort Thermo+ full safety...'
 sku: 'B00GWDLLHA-de'
 tags: [  ]

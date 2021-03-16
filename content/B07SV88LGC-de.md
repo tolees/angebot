@@ -5,7 +5,7 @@ date: 2020-09-21 15:30:13
 image: 'https://m.media-amazon.com/images/I/41-dhAVhcDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SV88LGC-de Philips Hue White E27 LED Lampe Einzelpack dimmbar...'
 sku: 'B07SV88LGC-de'
 tags: [  ]

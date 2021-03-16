@@ -5,7 +5,7 @@ date: 2020-09-05 06:55:56
 image: 'https://m.media-amazon.com/images/I/41JiYMaZYcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KLS61D4-de EZVIZ CTQ3W Überwachungskamera aussen WLAN/LAN IP Kamera...'
 sku: 'B07KLS61D4-de'
 tags: [  ]

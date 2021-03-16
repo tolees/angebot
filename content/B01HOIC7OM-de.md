@@ -5,7 +5,7 @@ date: 2020-01-10 14:25:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51QHQeEbgML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HOIC7OM-de NUBWO S2 V4.1 Bluetooth kabellose On-Ear HiFi Stereo...'
 sku: 'B01HOIC7OM-de'
 tags: [  ]

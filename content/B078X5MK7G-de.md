@@ -5,7 +5,7 @@ date: 2020-02-14 00:16:27
 image: 'https://m.media-amazon.com/images/I/31BC3a6w1YL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078X5MK7G-de Sony HT-XF9000 2.1-Kanal Dolby Atmos/DTS:X Soundbar mit...'
 sku: 'B078X5MK7G-de'
 tags: [  ]

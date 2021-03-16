@@ -5,7 +5,7 @@ date: 2020-09-16 16:22:37
 image: 'https://m.media-amazon.com/images/I/310TA3biZyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B8V3XLB-de Tommy Hilfiger Herren CORE Hilfiger Regular Polo Poloshirt...'
 sku: 'B07B8V3XLB-de'
 tags: [  ]

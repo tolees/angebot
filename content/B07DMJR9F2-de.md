@@ -5,7 +5,7 @@ date: 2020-01-11 15:45:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51V7rOzKRDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DMJR9F2-de FIFA 19 - Champions Edition - [Xbox One]'
 sku: 'B07DMJR9F2-de'
 tags: [  ]

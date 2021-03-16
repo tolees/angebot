@@ -5,7 +5,7 @@ date: 2020-08-30 23:42:04
 image: 'https://m.media-amazon.com/images/I/41pleUXRkzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R6CSZQJ-de SUADEEX Sicherheitsschuhe Herren Damen Arbeitsschuhe S3...'
 sku: 'B07R6CSZQJ-de'
 tags: [  ]

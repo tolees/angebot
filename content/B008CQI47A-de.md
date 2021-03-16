@@ -5,7 +5,7 @@ date: 2020-02-18 04:42:05
 image: 'https://m.media-amazon.com/images/I/51Qo+YaC-EL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008CQI47A-de Smart Games SG 423 - Spiel Iq Fit'
 sku: 'B008CQI47A-de'
 tags: [  ]

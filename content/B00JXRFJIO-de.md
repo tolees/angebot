@@ -5,7 +5,7 @@ date: 2020-08-29 21:12:35
 image: 'https://m.media-amazon.com/images/I/31ERLg5bFqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JXRFJIO-de LECHUZA CUBICO Premium 40 Taupe Hochglanz Hochwertiger...'
 sku: 'B00JXRFJIO-de'
 tags: [  ]

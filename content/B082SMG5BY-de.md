@@ -5,7 +5,7 @@ date: 2020-04-13 23:53:41
 image: 'https://m.media-amazon.com/images/I/51X3EJPfu8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082SMG5BY-de BERTASCHE Laptoptasche 14 Zoll Notebooktasche Schulter...'
 sku: 'B082SMG5BY-de'
 tags: [  ]

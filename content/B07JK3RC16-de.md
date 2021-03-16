@@ -5,7 +5,7 @@ date: 2020-08-28 06:19:59
 image: 'https://m.media-amazon.com/images/I/41g8Dn+72IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JK3RC16-de Yazubi Herren Kapuzenjacke Jacob - graue Sweatjacke Herren...'
 sku: 'B07JK3RC16-de'
 tags: [  ]

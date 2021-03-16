@@ -5,7 +5,7 @@ date: 2020-03-07 05:05:07
 image: 'https://m.media-amazon.com/images/I/412lsllvjaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003XDZN8A-de Crocs Shayna Women Damen Slingback Ballerinas Schwarz...'
 sku: 'B003XDZN8A-de'
 tags: [  ]

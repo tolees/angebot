@@ -5,7 +5,7 @@ date: 2020-02-19 05:03:04
 image: 'https://m.media-amazon.com/images/I/41oTiMy7FGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000G4OZ4C-de adidas Unisex-Erwachsene Mundial Team Fußballschuhe...'
 sku: 'B000G4OZ4C-de'
 tags: [  ]

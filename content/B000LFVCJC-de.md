@@ -5,7 +5,7 @@ date: 2020-10-11 06:22:23
 image: 'https://m.media-amazon.com/images/I/31boYXbS3GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000LFVCJC-de Silverline 633608 Gummihammer weiß 454 g'
 sku: 'B000LFVCJC-de'
 tags: [  ]

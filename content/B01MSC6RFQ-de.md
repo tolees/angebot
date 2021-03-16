@@ -5,7 +5,7 @@ date: 2020-01-23 12:19:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41EqqVqOzML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSC6RFQ-de G-STAR RAW Herren 3301 Straight Jeans Blau medium Aged...'
 sku: 'B01MSC6RFQ-de'
 tags: [  ]

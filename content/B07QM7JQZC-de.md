@@ -5,7 +5,7 @@ date: 2020-03-23 15:23:51
 image: 'https://m.media-amazon.com/images/I/41Liz1qREiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QM7JQZC-de OUTXE Outdoor Powerbank Solar 10000mAh USB C IP67...'
 sku: 'B07QM7JQZC-de'
 tags: [  ]

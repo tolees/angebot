@@ -5,7 +5,7 @@ date: 2020-03-11 14:47:22
 image: 'https://m.media-amazon.com/images/I/41MIqY6g2kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSGZCNJ-de Microsoft Xbox Wireless Controller Night Ops Camo Special...'
 sku: 'B07VSGZCNJ-de'
 tags: [  ]

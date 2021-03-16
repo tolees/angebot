@@ -5,7 +5,7 @@ date: 2020-01-15 17:06:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Os05VZ7pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XH2GX7W-de Huawei P30 Pro Dual SIM Smartphone Bundle 16 434 cm 6.47...'
 sku: 'B07XH2GX7W-de'
 tags: [  ]

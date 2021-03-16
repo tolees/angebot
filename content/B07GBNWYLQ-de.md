@@ -5,7 +5,7 @@ date: 2020-04-15 23:54:22
 image: 'https://m.media-amazon.com/images/I/51u05f3vVxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GBNWYLQ-de VNOX Magnetfeldtherapie-Armband 99 9% Reine Rote Kupferne...'
 sku: 'B07GBNWYLQ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-11 16:41:43
 image: 'https://m.media-amazon.com/images/I/41OYxszJ-8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078PJGQPH-de Coleman Blackout Zelt 4 Personen 4 Mann Zelt wasserdicht...'
 sku: 'B078PJGQPH-de'
 tags: [  ]

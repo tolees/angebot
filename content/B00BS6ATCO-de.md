@@ -5,7 +5,7 @@ date: 2020-06-05 18:03:52
 image: 'https://m.media-amazon.com/images/I/31qVomZJaaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BS6ATCO-de Bosch Rasentrimmer ART 35 Schultergurt Zusatzhandgriff...'
 sku: 'B00BS6ATCO-de'
 tags: [  ]

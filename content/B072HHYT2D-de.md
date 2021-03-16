@@ -5,7 +5,7 @@ date: 2020-09-21 19:15:47
 image: 'https://m.media-amazon.com/images/I/41PVMzDddkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072HHYT2D-de TOM TAILOR Damen Jeanshosen Alexa Straight Jeans mid Stone...'
 sku: 'B072HHYT2D-de'
 tags: [  ]

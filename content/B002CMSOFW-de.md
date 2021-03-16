@@ -5,7 +5,7 @@ date: 2020-09-22 07:44:05
 image: 'https://m.media-amazon.com/images/I/51xH+bZUeyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002CMSOFW-de Mantona Colt DSLR Kamera Tasche für Spiegelreflex SLR...'
 sku: 'B002CMSOFW-de'
 tags: [  ]

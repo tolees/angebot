@@ -5,7 +5,7 @@ date: 2020-03-20 04:45:23
 image: 'https://m.media-amazon.com/images/I/51bTJRxZkUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PYJ45KN-de Hellboy – Call of Darkness BD Ltd. Steelbook [Blu-ray]'
 sku: 'B07PYJ45KN-de'
 tags: [  ]

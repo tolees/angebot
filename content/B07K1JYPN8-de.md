@@ -5,7 +5,7 @@ date: 2020-04-08 05:26:33
 image: 'https://m.media-amazon.com/images/I/51ehCkaegaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K1JYPN8-de LIGHTAILING Licht-Set Für Creator Detektivbüro Modell -...'
 sku: 'B07K1JYPN8-de'
 tags: [  ]

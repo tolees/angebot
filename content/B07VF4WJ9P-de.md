@@ -5,7 +5,7 @@ date: 2020-01-27 09:47:28
 image: 'https://m.media-amazon.com/images/I/31H1cgElW2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VF4WJ9P-de mama stadt Prinzessin Cosplay Perücke Erwachsene und...'
 sku: 'B07VF4WJ9P-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-15 00:02:12
 image: 'https://m.media-amazon.com/images/I/51+I1MRaASL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L2TLCHM-de MCleanPin 2 x 500ml Edelstahlbecher "Mr. Right & Mrs....'
 sku: 'B07L2TLCHM-de'
 tags: [  ]

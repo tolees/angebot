@@ -5,7 +5,7 @@ date: 2020-01-04 21:36:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51epDw2lPlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075D5PWJL-de Britax Römer BABY-SAFE PLUS SHR II Autositz Babyschale...'
 sku: 'B075D5PWJL-de'
 tags: [  ]

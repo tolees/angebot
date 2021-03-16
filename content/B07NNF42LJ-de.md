@@ -5,7 +5,7 @@ date: 2020-02-01 09:50:44
 image: 'https://m.media-amazon.com/images/I/31BczDFjU-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NNF42LJ-de Panasonic RP-HTX20BE-H In-Ear Kopfhörer Bluetooth 8 5 h...'
 sku: 'B07NNF42LJ-de'
 tags: [  ]

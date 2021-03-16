@@ -5,7 +5,7 @@ date: 2020-02-26 23:04:41
 image: 'https://m.media-amazon.com/images/I/41daxuEgnVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013ZR4IGG-de Philips Sonicare FlexCare Platinum Zahnbürste HX9111/20 -...'
 sku: 'B013ZR4IGG-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-23 17:03:03
 image: 'https://m.media-amazon.com/images/I/51LnTM63gsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP2GRY3-de LEGO Marvel Super Heroes 76124 War Machine Buster'
 sku: 'B07FP2GRY3-de'
 tags: [  ]

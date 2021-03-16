@@ -5,7 +5,7 @@ date: 2020-06-06 15:17:56
 image: 'https://m.media-amazon.com/images/I/41BMNtdMUlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PVDDEPE-de D-Link DSP-W115 mydlink WLAN Smart Steckdose-/ plug...'
 sku: 'B00PVDDEPE-de'
 tags: [  ]

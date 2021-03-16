@@ -5,7 +5,7 @@ date: 2020-02-25 20:53:27
 image: 'https://m.media-amazon.com/images/I/41hVq-Z6gdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FN4CL35-de Philips Avent 4-in-1-Babynahrungszubereiter SCF883/01...'
 sku: 'B07FN4CL35-de'
 tags: [  ]

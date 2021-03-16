@@ -5,7 +5,7 @@ date: 2020-04-09 15:36:32
 image: 'https://m.media-amazon.com/images/I/51tzh3uloKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071HW94VG-de Hasbro Beyblade Burst B9503ES0 - Single Top Roktavor Kreisel'
 sku: 'B071HW94VG-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 11:09:49
 image: 'https://m.media-amazon.com/images/I/41T2IIdBizL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EBYB3AQ-de Bruetting KANSAS Unisex-Erwachsene Trekking- &...'
 sku: 'B01EBYB3AQ-de'
 tags: [  ]

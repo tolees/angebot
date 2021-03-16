@@ -5,7 +5,7 @@ date: 2020-02-18 04:42:04
 image: 'https://m.media-amazon.com/images/I/41ejb4Y1v2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002MT7K2S-de RABALUX Milano Wandleuchte Metall E27 60 W antik-gold 22 x...'
 sku: 'B002MT7K2S-de'
 tags: [  ]

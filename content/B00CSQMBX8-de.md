@@ -5,7 +5,7 @@ date: 2020-09-25 11:23:20
 image: 'https://m.media-amazon.com/images/I/61daFS1ZzCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CSQMBX8-de The Complete Legendary 1938 Carnegie Hall Concert'
 sku: 'B00CSQMBX8-de'
 tags: [  ]

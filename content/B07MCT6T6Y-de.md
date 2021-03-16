@@ -5,7 +5,7 @@ date: 2020-04-18 00:29:49
 image: 'https://m.media-amazon.com/images/I/510kbPdLCDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCT6T6Y-de Hasbro Spiele E5804EU4 The Slow Motion Race Game...'
 sku: 'B07MCT6T6Y-de'
 tags: [  ]

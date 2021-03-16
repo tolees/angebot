@@ -5,7 +5,7 @@ date: 2020-02-18 04:42:12
 image: 'https://m.media-amazon.com/images/I/51w2zmABcXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G3PYWCW-de Smart Games SG455 IQ-Puzzler PRO Geschicklichkeitsspiel...'
 sku: 'B01G3PYWCW-de'
 tags: [  ]

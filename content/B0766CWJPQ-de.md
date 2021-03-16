@@ -5,7 +5,7 @@ date: 2020-02-24 20:03:27
 image: 'https://m.media-amazon.com/images/I/61n1-i7D2-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0766CWJPQ-de Playmobil 9377 - Zoo Spiel'
 sku: 'B0766CWJPQ-de'
 tags: [  ]

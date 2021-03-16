@@ -5,7 +5,7 @@ date: 2020-04-11 08:09:07
 image: 'https://m.media-amazon.com/images/I/410LbEePZSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000F5FNI4-de Paul Günther 1682 - Propellerspiel Twirly Farblich sortiert'
 sku: 'B000F5FNI4-de'
 tags: [  ]

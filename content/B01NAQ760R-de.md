@@ -5,7 +5,7 @@ date: 2020-03-12 09:59:57
 image: 'https://m.media-amazon.com/images/I/41ec2b2LLlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAQ760R-de G-STAR RAW Herren Rovulc Denim Low Sneakers Schwarz Black...'
 sku: 'B01NAQ760R-de'
 tags: [  ]

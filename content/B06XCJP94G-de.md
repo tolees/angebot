@@ -5,7 +5,7 @@ date: 2020-05-22 16:36:11
 image: 'https://m.media-amazon.com/images/I/41x2rD7QlzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCJP94G-de Samsung Galaxy Xcover 4 Smartphone 12 67 cm 5 Zoll Touch-...'
 sku: 'B06XCJP94G-de'
 tags: [  ]

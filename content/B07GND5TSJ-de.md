@@ -5,7 +5,7 @@ date: 2020-01-30 08:48:11
 image: 'https://m.media-amazon.com/images/I/41P0zVDVUxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GND5TSJ-de DJI - Smart Battery für Mavic 2 Pro und Mavic 2 Zoom |...'
 sku: 'B07GND5TSJ-de'
 tags: [  ]

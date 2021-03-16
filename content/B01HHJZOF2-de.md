@@ -5,7 +5,7 @@ date: 2020-01-27 09:46:19
 image: 'https://m.media-amazon.com/images/I/41mwGSlWg4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HHJZOF2-de Crocs Fun Lab Frozen Clog Mädchen Clogs Blau Navy 34/35 EU'
 sku: 'B01HHJZOF2-de'
 tags: [  ]

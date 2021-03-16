@@ -5,7 +5,7 @@ date: 2020-02-23 10:16:06
 image: 'https://m.media-amazon.com/images/I/41XEJTkeGbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M1KGUU5-de Fitbit Special Edition Alta Fitness-Armband Rosa/Gold L'
 sku: 'B01M1KGUU5-de'
 tags: [  ]

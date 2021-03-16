@@ -5,7 +5,7 @@ date: 2020-01-07 23:18:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Q6heJe9kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPFK7DT-de EKKONG Aufkleber 46 Stück Dekorative Aufkleber Wasserdicht...'
 sku: 'B07VPFK7DT-de'
 tags: [  ]

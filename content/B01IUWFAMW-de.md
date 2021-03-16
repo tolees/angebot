@@ -5,7 +5,7 @@ date: 2020-02-23 05:05:05
 image: 'https://m.media-amazon.com/images/I/516gn-9Cm8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IUWFAMW-de Kommissarin Lund - Die komplette Serie - 10 Jahre...'
 sku: 'B01IUWFAMW-de'
 tags: [  ]

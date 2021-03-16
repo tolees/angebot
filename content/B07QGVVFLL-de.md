@@ -5,7 +5,7 @@ date: 2020-04-11 16:03:15
 image: 'https://m.media-amazon.com/images/I/41sy4S7nkUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QGVVFLL-de Küchenarmatur Dalmo Wasserhahn Küche Einhand-...'
 sku: 'B07QGVVFLL-de'
 tags: [  ]

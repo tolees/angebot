@@ -5,7 +5,7 @@ date: 2020-02-08 04:39:36
 image: 'https://m.media-amazon.com/images/I/31GWzaNfhaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0037TDXNW-de Reality Leuchten Tischleuchte Kugel ohne Leuchtmittel...'
 sku: 'B0037TDXNW-de'
 tags: [  ]

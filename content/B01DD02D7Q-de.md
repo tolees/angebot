@@ -5,7 +5,7 @@ date: 2020-09-24 19:55:52
 image: 'https://m.media-amazon.com/images/I/51ZoTOTc2VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DD02D7Q-de Complete Chamber Music Recordings on Dg'
 sku: 'B01DD02D7Q-de'
 tags: [  ]

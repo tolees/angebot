@@ -5,7 +5,7 @@ date: 2020-08-22 21:07:02
 image: 'https://m.media-amazon.com/images/I/51CFWS5QFEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00006CFJJ-de Willow [Special Edition]'
 sku: 'B00006CFJJ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-27 16:32:25
 image: 'https://m.media-amazon.com/images/I/315jci-LCGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IO31B8K-de Sony BDV-N5200W 5.1 3D-DVD/Blu-ray Heimkinosystem...'
 sku: 'B00IO31B8K-de'
 tags: [  ]

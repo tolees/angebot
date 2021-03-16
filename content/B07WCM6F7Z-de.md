@@ -5,7 +5,7 @@ date: 2020-04-16 08:42:06
 image: 'https://m.media-amazon.com/images/I/31MiIBf3gYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WCM6F7Z-de ORICO Tool-Free 5 Bay USB 3.0 3.5 Zoll Magnetic-Type...'
 sku: 'B07WCM6F7Z-de'
 tags: [  ]

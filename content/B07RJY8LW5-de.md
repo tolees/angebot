@@ -5,7 +5,7 @@ date: 2020-06-09 04:43:45
 image: 'https://m.media-amazon.com/images/I/41XaqId9J8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJY8LW5-de WLAN Adapter WiFi Stick 600Mbps Mini Dual Band 2.4GHz /...'
 sku: 'B07RJY8LW5-de'
 tags: [  ]

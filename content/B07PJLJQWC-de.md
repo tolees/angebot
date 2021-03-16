@@ -5,7 +5,7 @@ date: 2020-04-16 08:41:57
 image: 'https://m.media-amazon.com/images/I/51DwgTbkwmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJLJQWC-de Konturenlehre Konturmessgerät Duplikator Profil...'
 sku: 'B07PJLJQWC-de'
 tags: [  ]

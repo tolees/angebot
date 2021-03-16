@@ -5,7 +5,7 @@ date: 2020-03-20 13:24:37
 image: 'https://m.media-amazon.com/images/I/41vXWanFmLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QQNRWK2-de Reolink Überwachungskamera Argus Eco + Solarpanel 1080p...'
 sku: 'B07QQNRWK2-de'
 tags: [  ]

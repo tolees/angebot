@@ -5,7 +5,7 @@ date: 2020-09-12 17:04:52
 image: 'https://m.media-amazon.com/images/I/41i7e6IgV5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0001E3RHI-de Gardena Comfort Rückenspritzgerät 12 l: Drucksprühgerät...'
 sku: 'B0001E3RHI-de'
 tags: [  ]

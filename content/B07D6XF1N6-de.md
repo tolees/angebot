@@ -5,7 +5,7 @@ date: 2020-04-25 06:03:58
 image: 'https://m.media-amazon.com/images/I/41zoayrU2AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D6XF1N6-de Microsoft Surface Laptop 34 29 cm 13 5 Zoll Intel Core M3...'
 sku: 'B07D6XF1N6-de'
 tags: [  ]

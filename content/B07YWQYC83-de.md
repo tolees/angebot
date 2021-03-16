@@ -5,7 +5,7 @@ date: 2020-04-15 23:54:54
 image: 'https://m.media-amazon.com/images/I/41i6SYf7jvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YWQYC83-de Park Tool Unisex – Erwachsene cm-5.3 Kettenreinigungsgerät...'
 sku: 'B07YWQYC83-de'
 tags: [  ]

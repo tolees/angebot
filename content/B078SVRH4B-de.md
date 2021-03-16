@@ -5,7 +5,7 @@ date: 2020-08-05 07:44:58
 image: 'https://m.media-amazon.com/images/I/51FeN3gxFxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SVRH4B-de SanDisk Extreme Portable SSD externe Festplatte 250GB SSD...'
 sku: 'B078SVRH4B-de'
 tags: [  ]

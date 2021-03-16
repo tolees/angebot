@@ -5,7 +5,7 @@ date: 2020-04-01 19:15:51
 image: 'https://m.media-amazon.com/images/I/31K9m3WQuVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076PF2LD5-de Motorola MDC 10W Dash Cam | Auto Dashkamera Wlan-...'
 sku: 'B076PF2LD5-de'
 tags: [  ]

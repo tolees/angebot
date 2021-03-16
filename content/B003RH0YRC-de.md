@@ -5,7 +5,7 @@ date: 2020-04-11 08:09:03
 image: 'https://m.media-amazon.com/images/I/510MKXjrhnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003RH0YRC-de Bullyland 12764 - Spielfigur Walt Disney Toy Story 3 Rex...'
 sku: 'B003RH0YRC-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-15 07:41:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419Iy7FaFVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHDQPD9-de Huawei P20 lite Smartphone 14.83 cm 5.84 Zoll 64GB...'
 sku: 'B07BHDQPD9-de'
 tags: [  ]

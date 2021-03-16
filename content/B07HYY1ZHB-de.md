@@ -5,7 +5,7 @@ date: 2020-04-30 09:10:10
 image: 'https://m.media-amazon.com/images/I/31TH-O5xxCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HYY1ZHB-de Nordcap Herren Thermohose Funktionelle Wintersport-Hose in...'
 sku: 'B07HYY1ZHB-de'
 tags: [  ]

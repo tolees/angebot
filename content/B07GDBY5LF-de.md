@@ -5,7 +5,7 @@ date: 2020-05-27 11:40:55
 image: 'https://m.media-amazon.com/images/I/41vQ9yNQvzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GDBY5LF-de Aoyool WiFi Adapter 1200Mbit/s 5.8G/867Mbps+2.4G/300Mbps...'
 sku: 'B07GDBY5LF-de'
 tags: [  ]

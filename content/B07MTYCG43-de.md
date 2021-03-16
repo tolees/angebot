@@ -5,7 +5,7 @@ date: 2020-04-25 14:21:47
 image: 'https://m.media-amazon.com/images/I/317IxJaGSFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MTYCG43-de Samsung Galaxy S10e Smartphone 128 GB Interner Speicher weiß'
 sku: 'B07MTYCG43-de'
 tags: [  ]

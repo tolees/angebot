@@ -5,7 +5,7 @@ date: 2020-01-20 04:42:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51rHjmzjIsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CYK91OE-de SATCH Berry Carry Schulrucksack 45 cm 24 L Purple Blue Checks'
 sku: 'B01CYK91OE-de'
 tags: [  ]

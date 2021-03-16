@@ -5,7 +5,7 @@ date: 2020-01-02 19:17:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41JPk%2Bw9YDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BVC4ZWE-de Christopeit Türreck Klimmzugstange 1688'
 sku: 'B01BVC4ZWE-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-08 10:31:03
 image: 'https://m.media-amazon.com/images/I/41AgDmVpOhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083GJ5L5B-de K9CK Halterung für Lego Millenium Falcon 75192 - Modell...'
 sku: 'B083GJ5L5B-de'
 tags: [  ]

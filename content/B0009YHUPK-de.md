@@ -5,7 +5,7 @@ date: 2020-06-09 03:07:52
 image: 'https://m.media-amazon.com/images/I/41L-sxKre2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0009YHUPK-de WMF Gala Plus Topfset 5-teilig Cromargan Edelstahl poliert...'
 sku: 'B0009YHUPK-de'
 tags: [  ]

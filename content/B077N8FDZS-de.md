@@ -5,7 +5,7 @@ date: 2020-04-17 08:22:51
 image: 'https://m.media-amazon.com/images/I/41s35vTB2EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077N8FDZS-de Deckenlampe LED Deckenleuchte Öuesen Lampe Decke...'
 sku: 'B077N8FDZS-de'
 tags: [  ]

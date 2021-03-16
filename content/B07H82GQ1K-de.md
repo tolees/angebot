@@ -5,7 +5,7 @@ date: 2020-04-12 15:58:38
 image: 'https://m.media-amazon.com/images/I/41vK9e5GzcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H82GQ1K-de caseable Kindle und Kindle Paperwhite Hülle Don t care'
 sku: 'B07H82GQ1K-de'
 tags: [  ]

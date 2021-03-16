@@ -5,7 +5,7 @@ date: 2020-01-11 12:06:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/514%2B%2BADZ6iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014VZDC5O-de Corsair Strafe RGB Mechanische Gaming Tastatur Cherry MX...'
 sku: 'B014VZDC5O-de'
 tags: [  ]

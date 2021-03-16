@@ -5,7 +5,7 @@ date: 2020-05-24 11:16:58
 image: 'https://m.media-amazon.com/images/I/41+-K-6jXIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PXIHB56-de Yamaha EPH-M200 In-Ear Kopfhörer 15 mm Treiber weiß'
 sku: 'B00PXIHB56-de'
 tags: [  ]

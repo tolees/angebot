@@ -5,7 +5,7 @@ date: 2020-08-10 06:05:47
 image: 'https://m.media-amazon.com/images/I/41+KCvjXEpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F3PWBCK-de DARLINGTON & Sohns Grauer Controller für Nintendo 64 N64...'
 sku: 'B08F3PWBCK-de'
 tags: [  ]

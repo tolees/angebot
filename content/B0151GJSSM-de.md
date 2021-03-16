@@ -5,7 +5,7 @@ date: 2020-02-09 04:34:38
 image: 'https://m.media-amazon.com/images/I/41y6ganrkpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0151GJSSM-de Trust GXT 540 kabelgebundenes Gamepad'
 sku: 'B0151GJSSM-de'
 tags: [  ]

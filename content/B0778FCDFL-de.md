@@ -5,7 +5,7 @@ date: 2020-06-10 18:54:46
 image: 'https://m.media-amazon.com/images/I/51E0fxolNiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0778FCDFL-de Hasbro Gaming E2489100 - Ach du Kacke Kinderspiel Green'
 sku: 'B0778FCDFL-de'
 tags: [  ]

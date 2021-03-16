@@ -5,7 +5,7 @@ date: 2020-05-06 12:53:26
 image: 'https://m.media-amazon.com/images/I/514jZA30V-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0788YKWCX-de PORSCHE Carrera-Rennmotor: 4-Zylinder Boxermodell vom Typ...'
 sku: 'B0788YKWCX-de'
 tags: [  ]

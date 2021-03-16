@@ -5,7 +5,7 @@ date: 2020-01-17 02:45:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417FFkDtniL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015Q3S5VQ-de Rubie s 3620100 - MLP Twilight Sparkle Deluxe - Child...'
 sku: 'B015Q3S5VQ-de'
 tags: [  ]

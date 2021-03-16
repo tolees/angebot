@@ -5,7 +5,7 @@ date: 2020-02-17 05:03:29
 image: 'https://m.media-amazon.com/images/I/51jahPlGUkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004A15HCG-de Lico Mädchen Silverstar V Hallenschuhe Weiß...'
 sku: 'B004A15HCG-de'
 tags: [  ]

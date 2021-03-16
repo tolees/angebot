@@ -5,7 +5,7 @@ date: 2020-04-18 00:05:32
 image: 'https://m.media-amazon.com/images/I/41TLzp6Of+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071RNKJPS-de Funko Pop! TV: Game of Thrones - Das Lied von Eis und...'
 sku: 'B071RNKJPS-de'
 tags: [  ]

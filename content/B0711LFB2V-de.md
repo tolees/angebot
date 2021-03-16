@@ -5,7 +5,7 @@ date: 2019-12-31 20:34:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q1n%2BuNlGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0711LFB2V-de Lenovo Miix 720 Schwarz Hybrid 2-in-1 UK Keyboard - 30 5...'
 sku: 'B0711LFB2V-de'
 tags: [  ]

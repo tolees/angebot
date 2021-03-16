@@ -5,7 +5,7 @@ date: 2020-04-07 12:59:46
 image: 'https://m.media-amazon.com/images/I/51lWilHwhtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K8R8QCX-de infactory Spielwaren: Selbstklebendes Spielbaustein-Tape...'
 sku: 'B07K8R8QCX-de'
 tags: [  ]

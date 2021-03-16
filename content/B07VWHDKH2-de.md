@@ -5,7 +5,7 @@ date: 2020-02-07 20:41:07
 image: 'https://m.media-amazon.com/images/I/41sSgVF0RaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWHDKH2-de SEEYA Hülle für Samsung Galaxy A40 Silikon Weich TPU Gummi...'
 sku: 'B07VWHDKH2-de'
 tags: [  ]

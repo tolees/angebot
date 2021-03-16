@@ -5,7 +5,7 @@ date: 2020-01-19 11:32:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xg9un%2BSeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WVNV8M3-de JACK & JONES Herren T-Shirt O-Neck Print Shirt L Total...'
 sku: 'B07WVNV8M3-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-17 11:04:00
 image: 'https://m.media-amazon.com/images/I/418SYJCLmyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JQE7OGO-de Makita DDF453Z Akku-Bohrschrauber 18 V Blau Silber'
 sku: 'B00JQE7OGO-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-08 04:55:36
 image: 'https://m.media-amazon.com/images/I/41WkjCeUu-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XDT8XCG-de Aigital AC1200 WLAN Repeater Wi-Fi Verstaerker Range...'
 sku: 'B07XDT8XCG-de'
 tags: [  ]

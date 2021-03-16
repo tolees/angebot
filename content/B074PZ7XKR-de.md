@@ -5,7 +5,7 @@ date: 2020-03-19 05:12:37
 image: 'https://m.media-amazon.com/images/I/31d0sRDudRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PZ7XKR-de OSRAM Smart+ Mini Switch Blau ZigBee Lichtschalter Dimmer...'
 sku: 'B074PZ7XKR-de'
 tags: [  ]

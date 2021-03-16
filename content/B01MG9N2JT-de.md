@@ -5,7 +5,7 @@ date: 2020-05-07 15:47:25
 image: 'https://m.media-amazon.com/images/I/31XPPM3dRkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MG9N2JT-de Sharp R760S 2-in-1 Flatbed Mikrowelle mit Grill / 23 L /...'
 sku: 'B01MG9N2JT-de'
 tags: [  ]

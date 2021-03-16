@@ -5,7 +5,7 @@ date: 2020-01-08 06:41:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51U9tItjwqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GVSXE34-de Bungsa® L - Silberner Buchstaben Kristall Charm Anhänger...'
 sku: 'B01GVSXE34-de'
 tags: [  ]

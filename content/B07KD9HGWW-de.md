@@ -5,7 +5,7 @@ date: 2020-02-09 13:26:43
 image: 'https://m.media-amazon.com/images/I/31Y8eKv2GzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KD9HGWW-de VAUDE Damen Escape Bike Light Jacke Nickel Green 36'
 sku: 'B07KD9HGWW-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-29 05:53:38
 image: 'https://m.media-amazon.com/images/I/418B8zB7uDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDG47ZL-de N/P WLAN Stick Adapter USB WiFi Antenne PC Dongle...'
 sku: 'B08CDG47ZL-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-22 12:47:48
 image: 'https://m.media-amazon.com/images/I/51W0KNQ+ewL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013DQEJF4-de Bosch MUM5 CreationLine Küchenmaschine MUM58L20 Testsieger...'
 sku: 'B013DQEJF4-de'
 tags: [  ]

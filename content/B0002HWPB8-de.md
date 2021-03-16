@@ -5,7 +5,7 @@ date: 2020-04-16 08:39:54
 image: 'https://m.media-amazon.com/images/I/41CKMFtoJvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0002HWPB8-de Theo Klein 8520 - Bosch Tool Box mit Akkuschrauber Baukästen'
 sku: 'B0002HWPB8-de'
 tags: [  ]

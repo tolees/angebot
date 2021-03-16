@@ -5,7 +5,7 @@ date: 2020-02-18 15:23:57
 image: 'https://m.media-amazon.com/images/I/51H2ZzcqFuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZ8KNKL-de Bulmers Original Premium Cider 12er 12 x 0.5 l'
 sku: 'B07CZ8KNKL-de'
 tags: [  ]

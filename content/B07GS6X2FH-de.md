@@ -5,7 +5,7 @@ date: 2020-04-25 12:19:41
 image: 'https://m.media-amazon.com/images/I/41zvTkxAI6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GS6X2FH-de Garmin vivomove HR Sport Black/Sandstone Fitness-Tracker...'
 sku: 'B07GS6X2FH-de'
 tags: [  ]

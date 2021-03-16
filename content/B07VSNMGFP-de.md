@@ -5,7 +5,7 @@ date: 2020-02-29 04:05:25
 image: 'https://m.media-amazon.com/images/I/51mIfbGOc8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSNMGFP-de Wlan Bluetooth 5W LED Einbaustrahler RGBW+CCT 5 in 1...'
 sku: 'B07VSNMGFP-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-16 09:03:23
 image: 'https://m.media-amazon.com/images/I/51uon2gojsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HOY7S4U-de Original Kingston MicroSD Karte Speicherkarte 32 GB Für...'
 sku: 'B01HOY7S4U-de'
 tags: [  ]

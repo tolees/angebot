@@ -5,7 +5,7 @@ date: 2020-09-21 15:13:48
 image: 'https://m.media-amazon.com/images/I/31qgg-iwDFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SFYD6AY-de Bosch HEZ631070 Zubehör für Backöfen / Backblech /...'
 sku: 'B00SFYD6AY-de'
 tags: [  ]

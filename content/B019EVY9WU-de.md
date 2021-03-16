@@ -5,7 +5,7 @@ date: 2020-07-12 11:37:26
 image: 'https://m.media-amazon.com/images/I/41bStHQxhGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019EVY9WU-de Mobicool FR40 elektrische Kompressor-Kühlbox mit 38 Liter...'
 sku: 'B019EVY9WU-de'
 tags: [  ]

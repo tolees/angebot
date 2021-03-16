@@ -5,7 +5,7 @@ date: 2020-03-23 05:07:51
 image: 'https://m.media-amazon.com/images/I/41ysiN5k1eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HM5FDZ3-de Legacy Vinyl Box Set [Vinyl LP]'
 sku: 'B07HM5FDZ3-de'
 tags: [  ]

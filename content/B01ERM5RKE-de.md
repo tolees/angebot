@@ -5,7 +5,7 @@ date: 2020-04-16 08:00:01
 image: 'https://m.media-amazon.com/images/I/518+C7VFteL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ERM5RKE-de The First Avenger: Civil War'
 sku: 'B01ERM5RKE-de'
 tags: [  ]

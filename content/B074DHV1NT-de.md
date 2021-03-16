@@ -5,7 +5,7 @@ date: 2020-09-16 06:19:17
 image: 'https://m.media-amazon.com/images/I/41-PwTK9dIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074DHV1NT-de Thomas Sabo Damen-Charm-Armband 925 Sterlingsilber...'
 sku: 'B074DHV1NT-de'
 tags: [  ]

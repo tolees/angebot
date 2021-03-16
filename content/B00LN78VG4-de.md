@@ -5,7 +5,7 @@ date: 2020-03-19 18:38:48
 image: 'https://m.media-amazon.com/images/I/413Q0ovwdKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LN78VG4-de TFA Dostmann 50.1002.01 Samba Körper-Analysewaage mit...'
 sku: 'B00LN78VG4-de'
 tags: [  ]

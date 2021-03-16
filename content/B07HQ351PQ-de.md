@@ -5,7 +5,7 @@ date: 2020-03-15 04:43:51
 image: 'https://m.media-amazon.com/images/I/51ooQ44JpUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HQ351PQ-de Steins; Gate ELITE [Playstation 4]'
 sku: 'B07HQ351PQ-de'
 tags: [  ]

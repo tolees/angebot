@@ -5,7 +5,7 @@ date: 2020-04-11 12:52:21
 image: 'https://m.media-amazon.com/images/I/31sAbhQtgVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072ZTRC6D-de Huawei Y6 2017 Grey'
 sku: 'B072ZTRC6D-de'
 tags: [  ]

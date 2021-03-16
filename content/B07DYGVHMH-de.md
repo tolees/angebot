@@ -5,7 +5,7 @@ date: 2020-06-11 11:44:40
 image: 'https://m.media-amazon.com/images/I/21FWOh+QhlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYGVHMH-de Mi Smart Wasserkocher weiß Appsteuerung...'
 sku: 'B07DYGVHMH-de'
 tags: [  ]

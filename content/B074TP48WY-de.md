@@ -5,7 +5,7 @@ date: 2020-08-24 18:46:31
 image: 'https://m.media-amazon.com/images/I/31TrkqE+m7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074TP48WY-de Philips HF3651/01 Sleep und Wake-up Light Einschlafhilfe...'
 sku: 'B074TP48WY-de'
 tags: [  ]

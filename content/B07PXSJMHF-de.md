@@ -5,7 +5,7 @@ date: 2020-03-19 05:15:30
 image: 'https://m.media-amazon.com/images/I/51GVZTEY5-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PXSJMHF-de Ravensburger 26132 - Minecraft Builders & Biomes - Brettspiel'
 sku: 'B07PXSJMHF-de'
 tags: [  ]

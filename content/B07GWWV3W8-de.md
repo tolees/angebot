@@ -5,7 +5,7 @@ date: 2020-01-08 15:58:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414mjk6sLLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GWWV3W8-de DT Swiss Unisex - Erwachsene VR E 1900 Spline DB Läufrad...'
 sku: 'B07GWWV3W8-de'
 tags: [  ]

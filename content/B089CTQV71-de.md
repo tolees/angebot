@@ -5,7 +5,7 @@ date: 2020-07-23 21:04:03
 image: 'https://m.media-amazon.com/images/I/41hX5h1A4HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089CTQV71-de Bluetooth-Headset 5.0 drahtloses Touch-Headset Stereo-In-...'
 sku: 'B089CTQV71-de'
 tags: [  ]

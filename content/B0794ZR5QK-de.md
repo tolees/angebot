@@ -5,7 +5,7 @@ date: 2020-03-08 16:53:21
 image: 'https://m.media-amazon.com/images/I/4100Ws9w5cL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0794ZR5QK-de Philips Ambilight 65PUS7303/12 Fernseher 164 cm 65 Zoll...'
 sku: 'B0794ZR5QK-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-12 10:49:08
 image: 'https://m.media-amazon.com/images/I/41yOXIkElBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003ACHY6I-de hansgrohe Crometta 85 Duschkopf 3 Strahlarten Chrom'
 sku: 'B003ACHY6I-de'
 tags: [  ]

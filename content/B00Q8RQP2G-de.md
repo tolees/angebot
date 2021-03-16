@@ -5,7 +5,7 @@ date: 2020-09-27 18:07:21
 image: 'https://m.media-amazon.com/images/I/51DWXpIF8hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Q8RQP2G-de Magi: The Kingdom of Magic - Staffel 2 - Vol.2 - [Blu-ray]'
 sku: 'B00Q8RQP2G-de'
 tags: [  ]

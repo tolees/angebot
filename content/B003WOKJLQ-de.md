@@ -5,7 +5,7 @@ date: 2020-02-25 23:08:51
 image: 'https://m.media-amazon.com/images/I/51gE5gZYViL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003WOKJLQ-de Remington Haarschneidemaschine HC5810 selbstschärfende...'
 sku: 'B003WOKJLQ-de'
 tags: [  ]

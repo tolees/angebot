@@ -5,7 +5,7 @@ date: 2020-08-04 23:50:02
 image: 'https://m.media-amazon.com/images/I/51Y3-6WD+WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MLP1S3-de Playmobil Space 9487 Mars-Station Ab 6 Jahren'
 sku: 'B079MLP1S3-de'
 tags: [  ]

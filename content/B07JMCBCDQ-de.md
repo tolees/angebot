@@ -5,7 +5,7 @@ date: 2020-03-11 18:41:19
 image: 'https://m.media-amazon.com/images/I/51d6i8UHaWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMCBCDQ-de Playmobil 70184 1.2.3 LKW mit Sortiergarage bunt'
 sku: 'B07JMCBCDQ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-20 09:16:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41sk5p8cdYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JXSR7NC-de FYLINA Handyhalterung Fahrrad Handyhalterung Motorrad 360°...'
 sku: 'B07JXSR7NC-de'
 tags: [  ]

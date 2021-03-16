@@ -5,7 +5,7 @@ date: 2020-09-23 03:37:25
 image: 'https://m.media-amazon.com/images/I/311ekSCrwcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007C3B8ZO-de Hama "Bernstein" LED Nachtlicht für Kinderzimmer und...'
 sku: 'B007C3B8ZO-de'
 tags: [  ]

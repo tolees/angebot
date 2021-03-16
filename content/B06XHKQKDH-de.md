@@ -5,7 +5,7 @@ date: 2020-09-21 15:20:00
 image: 'https://m.media-amazon.com/images/I/41eEzKPemFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHKQKDH-de GoPro Armband schwarz'
 sku: 'B06XHKQKDH-de'
 tags: [  ]

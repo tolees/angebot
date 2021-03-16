@@ -5,7 +5,7 @@ date: 2020-04-13 16:25:20
 image: 'https://m.media-amazon.com/images/I/41znYOgn4-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IOMS3JQ-de Sylvanian Families 3149 - Chihuahua - Familie Wuffel'
 sku: 'B00IOMS3JQ-de'
 tags: [  ]

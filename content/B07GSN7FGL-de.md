@@ -5,7 +5,7 @@ date: 2020-04-10 07:40:34
 image: 'https://m.media-amazon.com/images/I/41ZIin6uWOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSN7FGL-de Mattel GCY62 - Disney Pixar Toy Story 4 Minis...'
 sku: 'B07GSN7FGL-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-10 15:20:17
 image: 'https://m.media-amazon.com/images/I/41AtaBLqkfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BLHX4HP-de Bluetooth Kopfhörer In-Ear Kabellose Kopfhörer Noise...'
 sku: 'B08BLHX4HP-de'
 tags: [  ]

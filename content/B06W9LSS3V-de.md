@@ -5,7 +5,7 @@ date: 2020-06-06 11:23:07
 image: 'https://m.media-amazon.com/images/I/31syhMT1qaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W9LSS3V-de Honeywell HYF260E4 Quiet-Set Turmventilator mit...'
 sku: 'B06W9LSS3V-de'
 tags: [  ]

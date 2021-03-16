@@ -5,7 +5,7 @@ date: 2020-03-14 04:56:59
 image: 'https://m.media-amazon.com/images/I/31XmQIwyPAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AZYPDY4-de WOLF-Garten - Amboss Astschere »Comfort Plus« POWER CUT**...'
 sku: 'B00AZYPDY4-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-17 16:36:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Yabad-N4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8XFSLQ-de Laptop Rucksack Herren und Damen für 17 Zoll Notebook...'
 sku: 'B07L8XFSLQ-de'
 tags: [  ]

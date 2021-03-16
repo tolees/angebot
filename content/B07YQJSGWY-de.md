@@ -5,7 +5,7 @@ date: 2020-08-26 14:08:25
 image: 'https://m.media-amazon.com/images/I/415CwmD3g-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YQJSGWY-de Kingston A400 SSD SA400S37/1920G - Interne SSD 2.5 Zoll...'
 sku: 'B07YQJSGWY-de'
 tags: [  ]

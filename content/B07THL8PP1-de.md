@@ -5,7 +5,7 @@ date: 2020-07-23 16:04:27
 image: 'https://m.media-amazon.com/images/I/31UaSgPJKoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07THL8PP1-de Anker Wireless Charger PowerWave Ladepad Doppelpack Zwei...'
 sku: 'B07THL8PP1-de'
 tags: [  ]

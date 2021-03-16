@@ -5,7 +5,7 @@ date: 2020-09-02 08:06:29
 image: 'https://m.media-amazon.com/images/I/215F10ZMDPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GV63WGC-de Anker USB C Ladegerät PowerPort Speed 1 30W USB Ladegerät...'
 sku: 'B07GV63WGC-de'
 tags: [  ]

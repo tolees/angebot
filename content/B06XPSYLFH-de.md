@@ -5,7 +5,7 @@ date: 2020-10-02 13:03:50
 image: 'https://m.media-amazon.com/images/I/31VgWNJjyPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPSYLFH-de Siemens EX801KYW1E iQ700 Kochfeld / 79 2 cm / WLAN-fähig...'
 sku: 'B06XPSYLFH-de'
 tags: [  ]

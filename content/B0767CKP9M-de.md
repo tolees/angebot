@@ -5,7 +5,7 @@ date: 2020-03-14 02:37:16
 image: 'https://m.media-amazon.com/images/I/51VfQOm5GqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0767CKP9M-de Playmobil 9339 - Waldelfe Spiel'
 sku: 'B0767CKP9M-de'
 tags: [  ]

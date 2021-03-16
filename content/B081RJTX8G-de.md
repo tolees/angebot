@@ -5,7 +5,7 @@ date: 2020-04-18 00:54:13
 image: 'https://m.media-amazon.com/images/I/51oeqBli15L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081RJTX8G-de BRIKSMAX Led Beleuchtungsset für Lego Technic Land Rover...'
 sku: 'B081RJTX8G-de'
 tags: [  ]

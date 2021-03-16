@@ -5,7 +5,7 @@ date: 2020-01-22 22:37:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51DkfEUKl4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WCVXB5C-de Samsung RU7099 125 cm 50 Zoll LED Fernseher Ultra HD HDR...'
 sku: 'B07WCVXB5C-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-01 09:11:43
 image: 'https://m.media-amazon.com/images/I/41Yvxa+iQML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9FJNTW-de Fire HD 10-Tablet 1080p Full HD-Display 64 GB Schwarz mit...'
 sku: 'B01N9FJNTW-de'
 tags: [  ]

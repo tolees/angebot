@@ -5,7 +5,7 @@ date: 2020-09-22 19:54:26
 image: 'https://m.media-amazon.com/images/I/41bo4QTFxSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7P4PP1-de Sigma Sport Zubehör R1 DUO Herzfrequenz Sender...'
 sku: 'B01N7P4PP1-de'
 tags: [  ]

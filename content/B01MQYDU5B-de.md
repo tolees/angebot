@@ -5,7 +5,7 @@ date: 2020-01-17 02:29:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31XGhwSfxUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQYDU5B-de Lacoste L.12.12 Concept SStrap Vertical Shopping Bag High...'
 sku: 'B01MQYDU5B-de'
 tags: [  ]

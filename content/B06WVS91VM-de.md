@@ -5,7 +5,7 @@ date: 2020-04-16 17:44:05
 image: 'https://m.media-amazon.com/images/I/61cBWLZ4ZJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WVS91VM-de Playmobil 6932 - Pferdekutsche'
 sku: 'B06WVS91VM-de'
 tags: [  ]

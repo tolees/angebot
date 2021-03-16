@@ -5,7 +5,7 @@ date: 2020-06-11 19:10:22
 image: 'https://m.media-amazon.com/images/I/51nNmyJFl0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FK1KP2C-de Hasbro Beyblade Burst E3629EU4 - Rail Rush Battle Set...'
 sku: 'B07FK1KP2C-de'
 tags: [  ]

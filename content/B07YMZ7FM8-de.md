@@ -5,7 +5,7 @@ date: 2020-04-07 21:40:12
 image: 'https://m.media-amazon.com/images/I/31CBZeRTmlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YMZ7FM8-de MEDION E66550 Küchen Unterbauradio mit Bluetooth-Funktion...'
 sku: 'B07YMZ7FM8-de'
 tags: [  ]

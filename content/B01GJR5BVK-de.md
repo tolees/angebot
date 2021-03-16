@@ -5,7 +5,7 @@ date: 2020-03-24 10:31:40
 image: 'https://m.media-amazon.com/images/I/41MffnP9pdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GJR5BVK-de HP OfficeJet Pro 8715 Multifunktionsdrucker Instant Ink...'
 sku: 'B01GJR5BVK-de'
 tags: [  ]

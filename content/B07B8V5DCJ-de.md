@@ -5,7 +5,7 @@ date: 2020-02-10 10:00:33
 image: 'https://m.media-amazon.com/images/I/616Dp3nQstL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B8V5DCJ-de JBL GO 2 kleine Musikbox - Wasserfester portabler...'
 sku: 'B07B8V5DCJ-de'
 tags: [  ]

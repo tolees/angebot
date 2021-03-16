@@ -5,7 +5,7 @@ date: 2020-01-16 19:33:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51fXX31aapL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JGHLNJ4-de Einhell Sägekettenschärfgerät GC-CS 85 Schleifscheibe...'
 sku: 'B01JGHLNJ4-de'
 tags: [  ]

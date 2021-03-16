@@ -5,7 +5,7 @@ date: 2020-04-10 14:22:47
 image: 'https://m.media-amazon.com/images/I/31Nzs2-vpwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IP8R6Y6-de Philips 3-in-1 LED Lampe SceneSwitch ersetzt 60W EEK A+...'
 sku: 'B01IP8R6Y6-de'
 tags: [  ]

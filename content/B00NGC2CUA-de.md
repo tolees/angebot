@@ -5,7 +5,7 @@ date: 2020-09-27 11:02:44
 image: 'https://m.media-amazon.com/images/I/41T8fWrfSNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NGC2CUA-de Tassimo Kapseln Milka 40 Kakao Kapseln 5er Pack 5 x 8...'
 sku: 'B00NGC2CUA-de'
 tags: [  ]

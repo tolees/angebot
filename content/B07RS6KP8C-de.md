@@ -5,7 +5,7 @@ date: 2020-05-24 11:17:24
 image: 'https://m.media-amazon.com/images/I/41gry-C9SiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RS6KP8C-de Maxi-Cosi Kore i-Size Kindersitz mitwachsender Gruppe 2/3...'
 sku: 'B07RS6KP8C-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-17 13:25:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/314fyAxomML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079FXP2KV-de Samsung Clear View Standing Cover EF-ZG960 für das Galaxy...'
 sku: 'B079FXP2KV-de'
 tags: [  ]

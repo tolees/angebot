@@ -5,7 +5,7 @@ date: 2020-09-30 08:41:48
 image: 'https://m.media-amazon.com/images/I/31nmneUPiIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C58S3GW-de Netgear GS728TPP 28-Port Gigabit Ethernet LAN PoE Switch...'
 sku: 'B07C58S3GW-de'
 tags: [  ]

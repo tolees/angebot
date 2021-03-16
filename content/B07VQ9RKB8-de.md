@@ -5,7 +5,7 @@ date: 2020-07-13 01:23:13
 image: 'https://m.media-amazon.com/images/I/51lFjkZwh6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQ9RKB8-de Chicago Fire - Staffel sieben [6 DVDs]'
 sku: 'B07VQ9RKB8-de'
 tags: [  ]

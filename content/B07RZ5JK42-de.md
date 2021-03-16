@@ -5,7 +5,7 @@ date: 2020-04-07 21:51:34
 image: 'https://m.media-amazon.com/images/I/51IFdzGX8sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZ5JK42-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars TIE...'
 sku: 'B07RZ5JK42-de'
 tags: [  ]

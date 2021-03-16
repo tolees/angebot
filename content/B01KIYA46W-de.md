@@ -5,7 +5,7 @@ date: 2020-05-08 16:40:30
 image: 'https://m.media-amazon.com/images/I/51ERqoNWrzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KIYA46W-de Echo Show Vorherige Generation - 1. Gen. Zertifiziert und...'
 sku: 'B01KIYA46W-de'
 tags: [  ]

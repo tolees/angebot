@@ -5,7 +5,7 @@ date: 2020-04-12 06:47:56
 image: 'https://m.media-amazon.com/images/I/31p7RwTqy8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F163ERY-de NETGEAR GS516TP 16-Port Gigabit Ethernet LAN PoE Switch...'
 sku: 'B00F163ERY-de'
 tags: [  ]

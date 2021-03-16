@@ -5,7 +5,7 @@ date: 2020-06-11 13:53:21
 image: 'https://m.media-amazon.com/images/I/61WCiAM8jEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XYHJR7C-de Hasbro - Kristallica kindgerechtes Geschicklichkeitsspiel...'
 sku: 'B06XYHJR7C-de'
 tags: [  ]

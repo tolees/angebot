@@ -5,7 +5,7 @@ date: 2020-03-04 12:47:07
 image: 'https://m.media-amazon.com/images/I/41PECDImjJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BMD8R2G-de Eizo CS2420 61 cm 24 Zoll Grafik Monitor DisplayPort DVI-D...'
 sku: 'B01BMD8R2G-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-24 14:48:38
 image: 'https://m.media-amazon.com/images/I/41d560+j7qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GG43HZ3-de De Longhi Nespresso Vertuo | ENV 150.R...'
 sku: 'B07GG43HZ3-de'
 tags: [  ]

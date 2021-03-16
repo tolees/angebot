@@ -5,7 +5,7 @@ date: 2020-09-29 18:03:11
 image: 'https://m.media-amazon.com/images/I/41NsEusxvOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF5BDLK-de Levi s Herren 527 Slim Boot Cut Jeans Pulley T2 0563 32W /...'
 sku: 'B07KF5BDLK-de'
 tags: [  ]

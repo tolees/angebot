@@ -5,7 +5,7 @@ date: 2020-02-27 20:10:52
 image: 'https://m.media-amazon.com/images/I/519-ykF8ngL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01921EGIY-de Funko 6371 No Actionfigur Tokyo Ghoul: Ken Kaneki'
 sku: 'B01921EGIY-de'
 tags: [  ]

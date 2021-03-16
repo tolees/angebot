@@ -5,7 +5,7 @@ date: 2020-02-20 04:40:58
 image: 'https://m.media-amazon.com/images/I/51+H4ahdDhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00P3N9L7M-de Two and a Half Men - Mein cooler Onkel Charlie - Staffel 6...'
 sku: 'B00P3N9L7M-de'
 tags: [  ]

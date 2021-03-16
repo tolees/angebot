@@ -5,7 +5,7 @@ date: 2020-09-03 19:44:29
 image: 'https://m.media-amazon.com/images/I/418wJJVb1qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CPCHSV5-de HP 27f 27 Zoll Full HD IPS Monitor AMD FreeSync HDMI VGA...'
 sku: 'B07CPCHSV5-de'
 tags: [  ]

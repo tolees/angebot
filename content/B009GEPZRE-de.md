@@ -5,7 +5,7 @@ date: 2020-04-27 14:00:55
 image: 'https://m.media-amazon.com/images/I/41uxA6fDBYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009GEPZRE-de 1602 16x2 Zeichen LCD Display Modul HD44780 blau mit...'
 sku: 'B009GEPZRE-de'
 tags: [  ]

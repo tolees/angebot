@@ -5,7 +5,7 @@ date: 2020-02-21 04:46:36
 image: 'https://m.media-amazon.com/images/I/51FlvAVs7WL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001PMNF9A-de MONACOR WS-60 Mikrofon-Windschutz für Mikrofone schwarz'
 sku: 'B001PMNF9A-de'
 tags: [  ]

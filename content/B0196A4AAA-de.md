@@ -5,7 +5,7 @@ date: 2020-01-30 23:11:53
 image: 'https://m.media-amazon.com/images/I/51MFh15JIDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0196A4AAA-de Sylvanian Families 5231 - Strandkarusell'
 sku: 'B0196A4AAA-de'
 tags: [  ]

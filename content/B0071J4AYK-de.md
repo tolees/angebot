@@ -5,7 +5,7 @@ date: 2020-02-08 04:41:31
 image: 'https://m.media-amazon.com/images/I/51pQcqXRHUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0071J4AYK-de 156/Im Netz des Drachen'
 sku: 'B0071J4AYK-de'
 tags: [  ]

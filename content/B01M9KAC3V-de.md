@@ -5,7 +5,7 @@ date: 2020-03-25 08:46:07
 image: 'https://m.media-amazon.com/images/I/41Ko8++tQkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M9KAC3V-de Levi s Herren Freizeithemd Barstow Western Schwarz/Black...'
 sku: 'B01M9KAC3V-de'
 tags: [  ]

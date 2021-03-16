@@ -5,7 +5,7 @@ date: 2020-10-07 09:40:26
 image: 'https://m.media-amazon.com/images/I/41mT5VPSmqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AYXLT30-de Eagle Creek No Matter What Duffel L I Ultraleichte...'
 sku: 'B00AYXLT30-de'
 tags: [  ]

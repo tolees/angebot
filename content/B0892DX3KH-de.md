@@ -5,7 +5,7 @@ date: 2020-08-02 05:36:54
 image: 'https://m.media-amazon.com/images/I/41yPiHQLNNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0892DX3KH-de Axloie Bluetooth Kopfhörer Sport in Ear Wireless...'
 sku: 'B0892DX3KH-de'
 tags: [  ]

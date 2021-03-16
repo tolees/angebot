@@ -5,7 +5,7 @@ date: 2020-04-07 13:21:12
 image: 'https://m.media-amazon.com/images/I/61uGNfIUhiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VLVH1UO-de Playmobil 5309 - Schlafzimmer mit Schminktischchen'
 sku: 'B00VLVH1UO-de'
 tags: [  ]

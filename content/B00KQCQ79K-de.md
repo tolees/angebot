@@ -5,7 +5,7 @@ date: 2020-01-30 04:50:14
 image: 'https://m.media-amazon.com/images/I/41A+mKwxKeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KQCQ79K-de Omron Schrittzähler Walking style IV'
 sku: 'B00KQCQ79K-de'
 tags: [  ]

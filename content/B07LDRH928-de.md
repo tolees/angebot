@@ -5,7 +5,7 @@ date: 2020-04-07 21:40:28
 image: 'https://m.media-amazon.com/images/I/41Ujl7bLJpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LDRH928-de Ankermann Business Office Work PC Intel Core i5 4X 3.1 GHz...'
 sku: 'B07LDRH928-de'
 tags: [  ]

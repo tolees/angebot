@@ -5,7 +5,7 @@ date: 2020-03-05 09:16:59
 image: 'https://m.media-amazon.com/images/I/41nSMpEzqQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C2XV9LM-de Triumph Damen Sport-BH Triaction Wellness N Rosa...'
 sku: 'B07C2XV9LM-de'
 tags: [  ]

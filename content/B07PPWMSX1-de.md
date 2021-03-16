@@ -5,7 +5,7 @@ date: 2020-02-11 11:17:58
 image: 'https://m.media-amazon.com/images/I/31gq9KNcnpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPWMSX1-de Bombay Sapphire English Estate Limited Edition 0.7 l'
 sku: 'B07PPWMSX1-de'
 tags: [  ]

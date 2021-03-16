@@ -5,7 +5,7 @@ date: 2020-07-17 09:48:06
 image: 'https://m.media-amazon.com/images/I/41PAgjiofoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J2BL01K-de Amazon Echo Spot Smarter Wecker mit Alexa - Schwarz'
 sku: 'B01J2BL01K-de'
 tags: [  ]

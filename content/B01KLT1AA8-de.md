@@ -5,7 +5,7 @@ date: 2020-02-05 12:05:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41q%2BH-veJgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KLT1AA8-de Skagen Unisex Hybrid Smartwatch SKT1104'
 sku: 'B01KLT1AA8-de'
 tags: [  ]

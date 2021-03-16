@@ -5,7 +5,7 @@ date: 2020-05-27 13:46:44
 image: 'https://m.media-amazon.com/images/I/3145RUQV1OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SP58DGP-de Netgear GC108P Gigabit 8 Port Ethernet LAN Switch 8x PoE+...'
 sku: 'B07SP58DGP-de'
 tags: [  ]

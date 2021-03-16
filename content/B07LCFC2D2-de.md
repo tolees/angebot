@@ -5,7 +5,7 @@ date: 2020-06-04 00:36:46
 image: 'https://m.media-amazon.com/images/I/41qOnQcMEwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LCFC2D2-de 64 Fächer Kunststoff Dosen Diamant Stickerei Sortierbox in...'
 sku: 'B07LCFC2D2-de'
 tags: [  ]

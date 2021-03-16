@@ -5,7 +5,7 @@ date: 2020-03-22 08:08:48
 image: 'https://m.media-amazon.com/images/I/41Fd1mp4gXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07652KZGG-de Synology DS218 + 6TB 2 x 3TB WD RED 2 Bay Desktop-NAS-Einheit'
 sku: 'B07652KZGG-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-18 00:00:26
 image: 'https://m.media-amazon.com/images/I/51I758vREQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2G3YGV-de Hasbro B7784EU4 - N-Strike Elite AccuStrike Alphahawk...'
 sku: 'B01N2G3YGV-de'
 tags: [  ]

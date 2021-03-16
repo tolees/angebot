@@ -5,7 +5,7 @@ date: 2020-04-16 08:12:36
 image: 'https://m.media-amazon.com/images/I/51ZbU2oTMmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZZ8N68W-de Pegasus Spiele 51223G Kitchen Rush'
 sku: 'B07ZZ8N68W-de'
 tags: [  ]

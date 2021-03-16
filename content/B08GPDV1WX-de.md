@@ -5,7 +5,7 @@ date: 2020-10-01 20:45:36
 image: 'https://m.media-amazon.com/images/I/41DVdDMsTHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GPDV1WX-de Socken Herren Damen 6 Paar Wandersocken Baumwolle...'
 sku: 'B08GPDV1WX-de'
 tags: [  ]

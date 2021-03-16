@@ -5,7 +5,7 @@ date: 2020-03-18 04:51:12
 image: 'https://m.media-amazon.com/images/I/41AC0U9a+sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000J3X9VU-de Waterman S0110720 Füllfederhaltertinte im 50 ml Tintenfass...'
 sku: 'B000J3X9VU-de'
 tags: [  ]

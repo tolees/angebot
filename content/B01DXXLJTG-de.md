@@ -5,7 +5,7 @@ date: 2020-08-14 13:35:26
 image: 'https://m.media-amazon.com/images/I/61Lsx3LFenL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DXXLJTG-de Metroid Prime: Federation Force [3DS]'
 sku: 'B01DXXLJTG-de'
 tags: [  ]

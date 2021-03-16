@@ -5,7 +5,7 @@ date: 2020-03-31 09:57:12
 image: 'https://m.media-amazon.com/images/I/41Sce3P1f0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007UK0E2W-de Intenso Micro SDHC 32GB Class 4 Speicherkarte inkl. SD-...'
 sku: 'B007UK0E2W-de'
 tags: [  ]

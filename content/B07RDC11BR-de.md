@@ -5,7 +5,7 @@ date: 2020-09-08 07:35:44
 image: 'https://m.media-amazon.com/images/I/413W2Ax2N7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDC11BR-de PUMA Herren Boxershort Limited Statement Edition 9er Pack...'
 sku: 'B07RDC11BR-de'
 tags: [  ]

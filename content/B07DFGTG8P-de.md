@@ -5,7 +5,7 @@ date: 2020-02-12 15:25:28
 image: 'https://m.media-amazon.com/images/I/41UcLrnympL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFGTG8P-de Funko 33877 The Simpsons: Lisa w/Saxophone POP Vinylfigur...'
 sku: 'B07DFGTG8P-de'
 tags: [  ]

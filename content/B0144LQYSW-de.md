@@ -5,7 +5,7 @@ date: 2020-06-12 01:20:10
 image: 'https://m.media-amazon.com/images/I/41h6i1ZQyNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0144LQYSW-de Somat Klarspüler 1er Pack 1 x 750 ml'
 sku: 'B0144LQYSW-de'
 tags: [  ]

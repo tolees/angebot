@@ -5,7 +5,7 @@ date: 2020-02-09 13:25:06
 image: 'https://m.media-amazon.com/images/I/317uMXRJhBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001V5JBY4-de Ray Ban Sonnenbrille RB 4126 braun hellbraun'
 sku: 'B001V5JBY4-de'
 tags: [  ]

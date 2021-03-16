@@ -5,7 +5,7 @@ date: 2020-04-18 00:50:50
 image: 'https://m.media-amazon.com/images/I/41ocQgUZPML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YMH9ZJ3-de 1917/Ost'
 sku: 'B07YMH9ZJ3-de'
 tags: [  ]

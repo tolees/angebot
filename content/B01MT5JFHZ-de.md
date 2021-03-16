@@ -5,7 +5,7 @@ date: 2020-03-07 21:38:34
 image: 'https://m.media-amazon.com/images/I/41vYFuDShNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MT5JFHZ-de Sony MDR-XB550AP Kopfhörer Extrabass Mikrofon'
 sku: 'B01MT5JFHZ-de'
 tags: [  ]

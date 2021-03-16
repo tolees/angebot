@@ -5,7 +5,7 @@ date: 2020-10-12 08:11:00
 image: 'https://m.media-amazon.com/images/I/4194COq7G3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0759KBZKY-de Canon PGI-580 BK / CLI-581 BK/C/M/Y Druckertinte -...'
 sku: 'B0759KBZKY-de'
 tags: [  ]

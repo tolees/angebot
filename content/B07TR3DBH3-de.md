@@ -5,7 +5,7 @@ date: 2020-08-26 22:45:54
 image: 'https://m.media-amazon.com/images/I/31AcZE2I-dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TR3DBH3-de Clarks Damen Orinoco Strap Slingback Sandalen Schwarz...'
 sku: 'B07TR3DBH3-de'
 tags: [  ]

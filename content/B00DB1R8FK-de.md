@@ -5,7 +5,7 @@ date: 2020-03-04 04:52:09
 image: 'https://m.media-amazon.com/images/I/41axi6QaURL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DB1R8FK-de Bio Granatapfel Muttersaft 6 x 1 Liter Granatapfelsaft...'
 sku: 'B00DB1R8FK-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-01 13:10:03
 image: 'https://m.media-amazon.com/images/I/51Pndz8JXRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTVR1J4-de LEGO DC Batman Clayface 76122 - Invasion in die Bathöhle...'
 sku: 'B07KTVR1J4-de'
 tags: [  ]

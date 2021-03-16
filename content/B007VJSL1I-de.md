@@ -5,7 +5,7 @@ date: 2020-09-25 08:49:45
 image: 'https://m.media-amazon.com/images/I/51FIyFRbkJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007VJSL1I-de Barilla Hartweizen Pasta Risoni n. 26 – 1er Pack 1x500g'
 sku: 'B007VJSL1I-de'
 tags: [  ]

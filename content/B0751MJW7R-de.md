@@ -5,7 +5,7 @@ date: 2020-03-05 04:45:20
 image: 'https://m.media-amazon.com/images/I/41y3XKqRlyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0751MJW7R-de Canon PGI-580 XL Tintenpatrone PGBK Pigment Black'
 sku: 'B0751MJW7R-de'
 tags: [  ]

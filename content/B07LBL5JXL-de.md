@@ -5,7 +5,7 @@ date: 2020-03-14 11:37:37
 image: 'https://m.media-amazon.com/images/I/51aWEK8PDfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBL5JXL-de Huawei P smart 2019 BUNDLE Dual-Sim Smartphone 15 77 cm 6...'
 sku: 'B07LBL5JXL-de'
 tags: [  ]

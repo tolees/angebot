@@ -5,7 +5,7 @@ date: 2020-09-27 08:37:58
 image: 'https://m.media-amazon.com/images/I/41mc7wMuPdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005LMXP72-de !Solid Dash Herren Lederjacke Bikerjacke Echtleder Mit...'
 sku: 'B005LMXP72-de'
 tags: [  ]

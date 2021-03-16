@@ -5,7 +5,7 @@ date: 2020-02-26 14:17:53
 image: 'https://m.media-amazon.com/images/I/31Uozte-52L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003XNBQMM-de SEVERIN KG 2388 Tischgrill 2.200 W mit Hotzone-Element...'
 sku: 'B003XNBQMM-de'
 tags: [  ]

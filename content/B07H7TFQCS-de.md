@@ -5,7 +5,7 @@ date: 2020-04-17 18:37:52
 image: 'https://m.media-amazon.com/images/I/21zXfe2DKOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H7TFQCS-de Optoma LV130 LED Projektor WVGA 100.000:1 Kontrast...'
 sku: 'B07H7TFQCS-de'
 tags: [  ]

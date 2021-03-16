@@ -5,7 +5,7 @@ date: 2020-08-19 22:44:58
 image: 'https://m.media-amazon.com/images/I/51loHCwugSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08398BQXL-de Wanbasion 6 Teilig scharfe Messer Set küche Edelstahl...'
 sku: 'B08398BQXL-de'
 tags: [  ]

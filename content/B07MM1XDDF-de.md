@@ -5,7 +5,7 @@ date: 2020-04-13 23:54:18
 image: 'https://m.media-amazon.com/images/I/31MxqIA7edL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MM1XDDF-de Lenovo IdeaPad 330s Laptop 35 56 cm 14 0 Zoll HD TN matt...'
 sku: 'B07MM1XDDF-de'
 tags: [  ]

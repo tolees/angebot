@@ -5,7 +5,7 @@ date: 2020-03-25 12:38:53
 image: 'https://m.media-amazon.com/images/I/41bmCUqF2uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WC1MXN7-de ECOVACS DEEBOT OZMO 950 Saug- & Wischroboter – 2-in-1...'
 sku: 'B07WC1MXN7-de'
 tags: [  ]

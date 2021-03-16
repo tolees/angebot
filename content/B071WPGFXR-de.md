@@ -5,7 +5,7 @@ date: 2020-04-14 00:01:11
 image: 'https://m.media-amazon.com/images/I/51S5ueK+20L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071WPGFXR-de yo-kai Watch Jungen Yokai Watch Schlafanzug - Slim Fit - 128'
 sku: 'B071WPGFXR-de'
 tags: [  ]

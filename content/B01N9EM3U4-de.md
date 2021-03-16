@@ -5,7 +5,7 @@ date: 2020-03-19 05:12:33
 image: 'https://m.media-amazon.com/images/I/416UpyIENGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9EM3U4-de Einhell Tauchpumpe GC-SP 3580 LL 350 W 8.000 Liter pro...'
 sku: 'B01N9EM3U4-de'
 tags: [  ]

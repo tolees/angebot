@@ -5,7 +5,7 @@ date: 2020-04-14 12:14:53
 image: 'https://m.media-amazon.com/images/I/410w9rcL-0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G2ZS8P6-de Tacklife ACP1B Luftkompressor Digitaler 12V Kompressor...'
 sku: 'B07G2ZS8P6-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-23 20:04:27
 image: 'https://m.media-amazon.com/images/I/31pc3M3qtHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015GZDB04-de Timberland Herren Bradstreet Leather Sensorflex Chukka...'
 sku: 'B015GZDB04-de'
 tags: [  ]

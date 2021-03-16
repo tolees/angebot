@@ -5,7 +5,7 @@ date: 2020-10-01 20:47:42
 image: 'https://m.media-amazon.com/images/I/31oPtkaexDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079DB8F1V-de JAKO Herren Competition 2.0 Shorts schwarz schwarz M'
 sku: 'B079DB8F1V-de'
 tags: [  ]

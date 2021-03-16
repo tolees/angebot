@@ -5,7 +5,7 @@ date: 2020-03-05 04:44:05
 image: 'https://m.media-amazon.com/images/I/61HgbTD86uL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07668BTNV-de The Luckiest Man'
 sku: 'B07668BTNV-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-17 15:19:47
 image: 'https://m.media-amazon.com/images/I/51IjEFMenmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HRBXCD5-de Susan Y muttertagsgeschenke tennis armband frauen schmuck...'
 sku: 'B07HRBXCD5-de'
 tags: [  ]

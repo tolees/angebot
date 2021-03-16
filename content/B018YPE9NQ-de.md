@@ -5,7 +5,7 @@ date: 2020-07-22 12:47:56
 image: 'https://m.media-amazon.com/images/I/41Yhb41LYzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018YPE9NQ-de Bosch Professional Multi-Tool GOP 40-30 inkl. 9xStarlock...'
 sku: 'B018YPE9NQ-de'
 tags: [  ]

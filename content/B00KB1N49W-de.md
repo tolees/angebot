@@ -5,7 +5,7 @@ date: 2020-02-21 20:54:35
 image: 'https://m.media-amazon.com/images/I/41KRipw5jAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KB1N49W-de Casio Damen Analog Quarz mit Edelstahl Armbanduhr LTP...'
 sku: 'B00KB1N49W-de'
 tags: [  ]

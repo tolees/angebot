@@ -5,7 +5,7 @@ date: 2020-02-19 05:04:44
 image: 'https://m.media-amazon.com/images/I/51nQpl9BTYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNSFQFR-de Seiko Herren Analog Automatik Uhr mit Leder Armband SSA383K1'
 sku: 'B07FNSFQFR-de'
 tags: [  ]

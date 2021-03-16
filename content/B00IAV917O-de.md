@@ -5,7 +5,7 @@ date: 2020-04-14 21:03:57
 image: 'https://m.media-amazon.com/images/I/51lBmwqwgYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IAV917O-de Panasonic RF-D10EG-K Digitalradio DAB+/UKW Tuner Netz- und...'
 sku: 'B00IAV917O-de'
 tags: [  ]

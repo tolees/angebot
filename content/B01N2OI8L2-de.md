@@ -5,7 +5,7 @@ date: 2020-04-18 17:04:41
 image: 'https://m.media-amazon.com/images/I/41qu3t0vEAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2OI8L2-de Neff TBD1836N / T18BD36N0 / Autarkes Kochfeld /...'
 sku: 'B01N2OI8L2-de'
 tags: [  ]

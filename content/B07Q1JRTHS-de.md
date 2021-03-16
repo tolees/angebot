@@ -5,7 +5,7 @@ date: 2020-04-15 07:38:01
 image: 'https://m.media-amazon.com/images/I/31cBwGl1o3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q1JRTHS-de Funko 42869 POP Vinyl: NFL: Cowboys-Amari Cooper Home...'
 sku: 'B07Q1JRTHS-de'
 tags: [  ]

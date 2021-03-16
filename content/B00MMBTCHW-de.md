@@ -5,7 +5,7 @@ date: 2020-03-01 13:27:35
 image: 'https://m.media-amazon.com/images/I/516eU1MOsZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MMBTCHW-de Remington Haarglätter Pro Sleek & Curl S6505 abgerundetes...'
 sku: 'B00MMBTCHW-de'
 tags: [  ]

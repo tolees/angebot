@@ -5,7 +5,7 @@ date: 2020-02-17 05:05:20
 image: 'https://m.media-amazon.com/images/I/41RzZ9J0I7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2XNHPM-de New Balance Herren 574v2 Core Sneaker Blau Navy 37.5 EU'
 sku: 'B06Y2XNHPM-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-14 20:27:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51nw3TKW1tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QP3JCQC-de Dickie Toys Harry Potter Tarnumhang Umhang unsichtbar...'
 sku: 'B07QP3JCQC-de'
 tags: [  ]

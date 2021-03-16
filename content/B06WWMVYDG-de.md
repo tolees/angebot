@@ -5,7 +5,7 @@ date: 2020-04-10 00:02:41
 image: 'https://m.media-amazon.com/images/I/315+2eoKRZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WWMVYDG-de Craft Herren Greatness Bike Shorts weiß XS'
 sku: 'B06WWMVYDG-de'
 tags: [  ]

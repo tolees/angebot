@@ -5,7 +5,7 @@ date: 2020-08-10 15:55:09
 image: 'https://m.media-amazon.com/images/I/519ZK9ilurL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAL3TYY-de HyperX Impact DDR4 HX426S15IB2K2/32 Arbeitsspeicher...'
 sku: 'B01NAL3TYY-de'
 tags: [  ]

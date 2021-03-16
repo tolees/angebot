@@ -5,7 +5,7 @@ date: 2020-08-24 17:07:59
 image: 'https://m.media-amazon.com/images/I/4163Up4V8BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073VJB74C-de GAMEWAREZ Cosmic Lightning 2.0 Gaming Sitzsack Made in...'
 sku: 'B073VJB74C-de'
 tags: [  ]

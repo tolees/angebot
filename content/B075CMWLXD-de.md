@@ -5,7 +5,7 @@ date: 2020-10-11 08:07:33
 image: 'https://m.media-amazon.com/images/I/41t7vEqPPwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075CMWLXD-de Sublevel Damen Winter-Jacke mit Kapuze warm gefüttert...'
 sku: 'B075CMWLXD-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-26 04:38:30
 image: 'https://m.media-amazon.com/images/I/31pmZajnJlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0013BE8YY-de Mascara Volum Express Turbo Boost'
 sku: 'B0013BE8YY-de'
 tags: [  ]

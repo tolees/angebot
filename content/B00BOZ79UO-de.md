@@ -5,7 +5,7 @@ date: 2020-04-08 05:57:32
 image: 'https://m.media-amazon.com/images/I/3140ctkW7wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BOZ79UO-de One Step Looper Tool-'
 sku: 'B00BOZ79UO-de'
 tags: [  ]

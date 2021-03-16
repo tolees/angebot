@@ -5,7 +5,7 @@ date: 2020-02-02 10:52:29
 image: 'https://m.media-amazon.com/images/I/51p-SsEdwvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B3QBBDK-de Citizen Herren Analog Quarz Uhr mit Leder Armband BM8476-07EE'
 sku: 'B00B3QBBDK-de'
 tags: [  ]

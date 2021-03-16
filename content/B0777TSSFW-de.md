@@ -5,7 +5,7 @@ date: 2020-01-20 02:21:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410GOyFmTuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0777TSSFW-de Funko 28632 S4 Demogorgon POP Vinylfigur: Stranger Things:...'
 sku: 'B0777TSSFW-de'
 tags: [  ]

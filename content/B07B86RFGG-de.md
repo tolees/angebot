@@ -5,7 +5,7 @@ date: 2020-04-27 07:27:26
 image: 'https://m.media-amazon.com/images/I/41Tw8SZcLXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B86RFGG-de Salewa WS WILDFIRE Damen Trekking- & Wanderhalbschuhe Blau...'
 sku: 'B07B86RFGG-de'
 tags: [  ]

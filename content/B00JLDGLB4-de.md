@@ -5,7 +5,7 @@ date: 2020-03-03 04:01:53
 image: 'https://m.media-amazon.com/images/I/41eQTOjYIUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JLDGLB4-de Paw Patrol 6022632 Lookout Hauptquartier Spielset mit...'
 sku: 'B00JLDGLB4-de'
 tags: [  ]

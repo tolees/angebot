@@ -5,7 +5,7 @@ date: 2020-01-30 22:55:08
 image: 'https://m.media-amazon.com/images/I/41Ag6+OieDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWNX9R7-de BRIKSMAX Technic Porsche 911 GT3 RS Led Beleuchtungsset -...'
 sku: 'B07KWNX9R7-de'
 tags: [  ]

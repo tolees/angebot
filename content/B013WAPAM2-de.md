@@ -5,7 +5,7 @@ date: 2020-07-21 10:21:15
 image: 'https://m.media-amazon.com/images/I/51mvzGELdTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013WAPAM2-de Bosch Professional Laser Entfernungsmesser GLM 50 C...'
 sku: 'B013WAPAM2-de'
 tags: [  ]

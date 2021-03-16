@@ -5,7 +5,7 @@ date: 2020-02-15 15:27:39
 image: 'https://m.media-amazon.com/images/I/51U7bAlnwJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01608LMOI-de Playmobil 6971 Schmück Pony Schmetterling'
 sku: 'B01608LMOI-de'
 tags: [  ]

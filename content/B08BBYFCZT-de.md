@@ -5,7 +5,7 @@ date: 2020-08-27 03:45:51
 image: 'https://m.media-amazon.com/images/I/41jhehaqVGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BBYFCZT-de Tesoky Automatisch Desinfektionsspender Automatisk...'
 sku: 'B08BBYFCZT-de'
 tags: [  ]

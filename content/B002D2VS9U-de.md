@@ -5,7 +5,7 @@ date: 2020-09-18 06:00:35
 image: 'https://m.media-amazon.com/images/I/51SRRTZLJVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002D2VS9U-de Sigma 10-20 mm F3 5 EX DC HSM-Objektiv 82 mm Filtergewinde...'
 sku: 'B002D2VS9U-de'
 tags: [  ]

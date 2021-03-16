@@ -5,7 +5,7 @@ date: 2020-07-18 12:24:33
 image: 'https://m.media-amazon.com/images/I/41aHNf8vVjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BPLMSMC-de Jura 10 Years Old Single Malt Scotch Whisky mit...'
 sku: 'B07BPLMSMC-de'
 tags: [  ]

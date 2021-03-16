@@ -5,7 +5,7 @@ date: 2020-04-27 13:16:04
 image: 'https://m.media-amazon.com/images/I/4160ozp9b5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2YO7JS-de 10 x Rauchmelder / Feueralarm Tana x5 mit Montagematerial...'
 sku: 'B01N2YO7JS-de'
 tags: [  ]

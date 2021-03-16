@@ -5,7 +5,7 @@ date: 2020-04-16 08:27:16
 image: 'https://m.media-amazon.com/images/I/41i9uSUl5iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0794XTF6S-de Philips 65PUS7803/12 164cm 65 Zoll LED-TV Ambilight 4K...'
 sku: 'B0794XTF6S-de'
 tags: [  ]

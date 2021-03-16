@@ -5,7 +5,7 @@ date: 2020-09-15 15:01:12
 image: 'https://m.media-amazon.com/images/I/31q08Hda4IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFBFWWS-de POP! Vinylfigur: Die Hard: John McClane'
 sku: 'B07DFBFWWS-de'
 tags: [  ]

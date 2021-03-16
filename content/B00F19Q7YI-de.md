@@ -5,7 +5,7 @@ date: 2020-03-18 04:52:54
 image: 'https://m.media-amazon.com/images/I/31zuhtoX25L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F19Q7YI-de GoPro Front Saugnapfhalterung - gebogene vertikale...'
 sku: 'B00F19Q7YI-de'
 tags: [  ]

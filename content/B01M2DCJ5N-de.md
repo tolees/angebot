@@ -5,7 +5,7 @@ date: 2020-09-29 08:43:47
 image: 'https://m.media-amazon.com/images/I/31z8A6tfVoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M2DCJ5N-de Gardena combisystem-Kleinhäckchen: Kleine Gartenhacke zum...'
 sku: 'B01M2DCJ5N-de'
 tags: [  ]

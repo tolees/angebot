@@ -5,7 +5,7 @@ date: 2020-07-14 03:33:47
 image: 'https://m.media-amazon.com/images/I/51sVPBFfatL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074K4DPQV-de Holy Stone Hs160 Fpv Mini Drohne Faltbar Mit HD Kamera...'
 sku: 'B074K4DPQV-de'
 tags: [  ]

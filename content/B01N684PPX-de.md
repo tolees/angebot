@@ -5,7 +5,7 @@ date: 2020-02-13 03:11:11
 image: 'https://m.media-amazon.com/images/I/31glivla84L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N684PPX-de Haier HRF-521DS6 Side-by-Side / A+ / 179 cm Höhe / 435...'
 sku: 'B01N684PPX-de'
 tags: [  ]

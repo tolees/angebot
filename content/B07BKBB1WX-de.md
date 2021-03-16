@@ -5,7 +5,7 @@ date: 2020-01-07 15:43:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GgPdceeLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BKBB1WX-de PC DESKTOP COMPLETE INTEL I3-8100 3.6 GHZ 8°GEN/LINDING...'
 sku: 'B07BKBB1WX-de'
 tags: [  ]

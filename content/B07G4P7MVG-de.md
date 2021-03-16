@@ -5,7 +5,7 @@ date: 2020-05-06 17:46:28
 image: 'https://m.media-amazon.com/images/I/31fAyDSJnDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4P7MVG-de Samsung Galaxy Note 9 Smartphone 128GB Dual SIM - Deutsche...'
 sku: 'B07G4P7MVG-de'
 tags: [  ]

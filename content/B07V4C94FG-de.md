@@ -5,7 +5,7 @@ date: 2020-04-07 13:04:22
 image: 'https://m.media-amazon.com/images/I/61UnCbS17VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4C94FG-de iNeego Bausteine 1000 Stück Bauklötze Spielzeug Hochbau...'
 sku: 'B07V4C94FG-de'
 tags: [  ]

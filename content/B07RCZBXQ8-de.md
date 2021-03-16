@@ -5,7 +5,7 @@ date: 2020-02-24 23:10:22
 image: 'https://m.media-amazon.com/images/I/41m4EO4ZEdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCZBXQ8-de G-STAR RAW Herren 3301 Straight Jeans Antic Charcoal...'
 sku: 'B07RCZBXQ8-de'
 tags: [  ]

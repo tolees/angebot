@@ -5,7 +5,7 @@ date: 2020-04-11 23:55:43
 image: 'https://m.media-amazon.com/images/I/41Wkg0vqyML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J29RJVG-de pinzas cejas pinzas led depilar Herramienta de maquillaje...'
 sku: 'B07J29RJVG-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-28 08:55:19
 image: 'https://m.media-amazon.com/images/I/41+7LSmP19L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0093HNCV0-de Tassimo Kapseln Jacobs Cappuccino Classico 40...'
 sku: 'B0093HNCV0-de'
 tags: [  ]

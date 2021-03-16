@@ -5,7 +5,7 @@ date: 2020-08-19 05:59:58
 image: 'https://m.media-amazon.com/images/I/51AeasQ64IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZA0HFSA-de KLIM Cool Universaler Kühler für Spielekonsole Laptop PC –...'
 sku: 'B00ZA0HFSA-de'
 tags: [  ]

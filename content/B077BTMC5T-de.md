@@ -5,7 +5,7 @@ date: 2020-10-09 03:45:52
 image: 'https://m.media-amazon.com/images/I/51qGctAO6XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077BTMC5T-de Tierisch wild Disney Classics'
 sku: 'B077BTMC5T-de'
 tags: [  ]

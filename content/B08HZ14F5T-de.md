@@ -5,7 +5,7 @@ date: 2020-10-07 05:19:31
 image: 'https://m.media-amazon.com/images/I/310kK02QPLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HZ14F5T-de Bluetooth-Kopfhörer5.0 In-Ear-Bluetooth-Kopfhörer...'
 sku: 'B08HZ14F5T-de'
 tags: [  ]

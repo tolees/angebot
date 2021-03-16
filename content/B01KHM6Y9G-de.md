@@ -5,7 +5,7 @@ date: 2020-06-11 14:26:55
 image: 'https://m.media-amazon.com/images/I/51DYC8nUIGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KHM6Y9G-de tegut... Gurken Cornichons 300 g'
 sku: 'B01KHM6Y9G-de'
 tags: [  ]

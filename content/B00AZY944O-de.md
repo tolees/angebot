@@ -5,7 +5,7 @@ date: 2020-08-24 21:27:21
 image: 'https://m.media-amazon.com/images/I/41LMJHpjRFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AZY944O-de Black+Decker Dampfreiniger Steam Mop Deluxe FSM1630 –...'
 sku: 'B00AZY944O-de'
 tags: [  ]

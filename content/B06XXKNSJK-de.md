@@ -5,7 +5,7 @@ date: 2020-03-24 16:47:38
 image: 'https://m.media-amazon.com/images/I/41Z9pzUlcwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XXKNSJK-de Philips YKF406-003 996596006068 Original-Fernbedienung für...'
 sku: 'B06XXKNSJK-de'
 tags: [  ]

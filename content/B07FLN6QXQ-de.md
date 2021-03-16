@@ -5,7 +5,7 @@ date: 2020-02-11 08:32:35
 image: 'https://m.media-amazon.com/images/I/41C7lAIV6sL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FLN6QXQ-de Levi s Damen Original Sherpa Trucker Jacke Schwarz Forever...'
 sku: 'B07FLN6QXQ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-12 04:57:39
 image: 'https://m.media-amazon.com/images/I/41w1z3Q7s1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BV7MQUW-de Chicco Fahrzeuge mit Funktion Fiat 500 Driver'
 sku: 'B01BV7MQUW-de'
 tags: [  ]

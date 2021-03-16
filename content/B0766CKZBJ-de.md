@@ -5,7 +5,7 @@ date: 2020-08-27 03:49:01
 image: 'https://m.media-amazon.com/images/I/51zwn0sdYsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0766CKZBJ-de PLAYMOBIL Dinos 9432 Forschermobil mit Stegosaurus und...'
 sku: 'B0766CKZBJ-de'
 tags: [  ]

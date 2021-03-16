@@ -5,7 +5,7 @@ date: 2020-09-27 08:37:31
 image: 'https://m.media-amazon.com/images/I/418UPEiaW8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FCGJJ26-de Rooxs Damen Hipster Panties 3er Pack Perfekte Passform...'
 sku: 'B07FCGJJ26-de'
 tags: [  ]

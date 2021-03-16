@@ -5,7 +5,7 @@ date: 2020-10-11 06:21:54
 image: 'https://m.media-amazon.com/images/I/313ystjNrEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BKQTB8K-de Daniel Wellington Classic Glasgow Blau-weiß/Roségold...'
 sku: 'B00BKQTB8K-de'
 tags: [  ]

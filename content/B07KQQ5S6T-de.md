@@ -5,7 +5,7 @@ date: 2020-08-27 03:48:49
 image: 'https://m.media-amazon.com/images/I/51Bqxl9xZXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQQ5S6T-de Trilogy DS-15 Nerf N-Strike Elite Spielzeug Blaster mit 15...'
 sku: 'B07KQQ5S6T-de'
 tags: [  ]

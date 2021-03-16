@@ -5,7 +5,7 @@ date: 2020-09-25 22:02:18
 image: 'https://m.media-amazon.com/images/I/51yY3fdHe7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NPJYC98-de The Polydor Years 1986-1992 Ltd Edt Boxset'
 sku: 'B00NPJYC98-de'
 tags: [  ]

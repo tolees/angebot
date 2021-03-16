@@ -5,7 +5,7 @@ date: 2020-10-02 06:06:39
 image: 'https://m.media-amazon.com/images/I/41opdRALlzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D7WG7QT-de TALENT Zuse Weekender - Geräumige Reisetasche XL...'
 sku: 'B07D7WG7QT-de'
 tags: [  ]

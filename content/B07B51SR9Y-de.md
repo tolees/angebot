@@ -5,7 +5,7 @@ date: 2020-02-07 13:24:21
 image: 'https://m.media-amazon.com/images/I/21CLEXHjTHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B51SR9Y-de LG Beamer PF50KS bis 254 cm 100 Zoll CineBeam Full HD LED...'
 sku: 'B07B51SR9Y-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-11 08:12:10
 image: 'https://m.media-amazon.com/images/I/51puaQXpx-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XWP7QW1-de Ehdis 1.5" High Visibility Mini Razor Kunststoff...'
 sku: 'B06XWP7QW1-de'
 tags: [  ]

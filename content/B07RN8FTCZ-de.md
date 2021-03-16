@@ -5,7 +5,7 @@ date: 2020-03-17 10:49:55
 image: 'https://m.media-amazon.com/images/I/41v8MfakuuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RN8FTCZ-de Funko 44270 POP NBA: OKC-Paul George Sammelbares Spielzeug...'
 sku: 'B07RN8FTCZ-de'
 tags: [  ]

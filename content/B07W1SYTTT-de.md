@@ -5,7 +5,7 @@ date: 2020-07-14 11:13:31
 image: 'https://m.media-amazon.com/images/I/31DZhWm7+yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W1SYTTT-de SanDisk Ultra 3D SSD interne Festplatte 4 TB 2 5 Zoll...'
 sku: 'B07W1SYTTT-de'
 tags: [  ]

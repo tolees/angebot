@@ -5,7 +5,7 @@ date: 2020-04-11 08:15:25
 image: 'https://m.media-amazon.com/images/I/21NFeZXwQXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CTO4D1W-de Inter Link 99200210 Regalbox Regalkorb Aufbewahrungsbox...'
 sku: 'B00CTO4D1W-de'
 tags: [  ]

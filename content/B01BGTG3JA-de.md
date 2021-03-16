@@ -5,7 +5,7 @@ date: 2020-02-12 16:33:01
 image: 'https://m.media-amazon.com/images/I/413pP2zjBbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGTG3JA-de SanDisk SDCZ43-064G-GAM46 USB-Flash-Laufwerk USB 3.0 bis...'
 sku: 'B01BGTG3JA-de'
 tags: [  ]

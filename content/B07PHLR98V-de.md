@@ -5,7 +5,7 @@ date: 2020-05-31 09:18:52
 image: 'https://m.media-amazon.com/images/I/41oaQRAnS+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PHLR98V-de Huawei Watch GT Active Smartwatch 46 mm Amoled Touchscreen...'
 sku: 'B07PHLR98V-de'
 tags: [  ]

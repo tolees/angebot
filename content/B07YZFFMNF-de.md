@@ -5,7 +5,7 @@ date: 2020-04-15 23:54:53
 image: 'https://m.media-amazon.com/images/I/51TgtR9z7CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YZFFMNF-de Zacfton 78 in 1 Magnet Präzisions Schraubendreher Set...'
 sku: 'B07YZFFMNF-de'
 tags: [  ]

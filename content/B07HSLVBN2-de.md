@@ -5,7 +5,7 @@ date: 2020-04-18 00:25:11
 image: 'https://m.media-amazon.com/images/I/51Ab7lpG4EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HSLVBN2-de Hasbro Game Night - [Nintendo Switch]'
 sku: 'B07HSLVBN2-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-07 13:08:40
 image: 'https://m.media-amazon.com/images/I/51kUnGpAA5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J34TNPQ-de Funko 38481 POP Bobble Marvel Studios 10: Doctor Strange...'
 sku: 'B07J34TNPQ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-23 22:32:54
 image: 'https://m.media-amazon.com/images/I/510aZyZngRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRNPS6D-de Samsung RU8009 207 cm 82 Zoll LED Fernseher Ultra HD HDR...'
 sku: 'B07PRNPS6D-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-19 14:56:07
 image: 'https://m.media-amazon.com/images/I/51JIwrV92TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082PQTBZV-de UMIDIGI Smartwatch Uwatch GT Fitness Tracker Armbanduhr...'
 sku: 'B082PQTBZV-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-10 18:32:13
 image: 'https://m.media-amazon.com/images/I/41PTx9-MMWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D6M7TQJ-de Vgo 3 Paare Arbeitshandschuhe aus Spandex und...'
 sku: 'B07D6M7TQJ-de'
 tags: [  ]

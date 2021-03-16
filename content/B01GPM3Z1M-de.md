@@ -5,7 +5,7 @@ date: 2020-09-24 19:54:03
 image: 'https://m.media-amazon.com/images/I/419qfcDRMKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GPM3Z1M-de Parker 1950385 Quink Nachfüllpatronen für Füllfederhalter...'
 sku: 'B01GPM3Z1M-de'
 tags: [  ]

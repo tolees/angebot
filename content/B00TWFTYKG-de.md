@@ -5,7 +5,7 @@ date: 2020-04-11 08:04:49
 image: 'https://m.media-amazon.com/images/I/51RL5IHR9tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TWFTYKG-de Pneumatic Power - der Pneumatik Spielzeug Bagger und 4...'
 sku: 'B00TWFTYKG-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-21 09:41:06
 image: 'https://m.media-amazon.com/images/I/41vpJChtN2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07611WDMG-de Pokemon Tekken Tournament DX Pro Controller [Nintendo Switch]'
 sku: 'B07611WDMG-de'
 tags: [  ]

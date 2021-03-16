@@ -5,7 +5,7 @@ date: 2020-03-21 13:21:38
 image: 'https://m.media-amazon.com/images/I/41UHjg+KjfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017BDUJ2M-de Donic-Schildkröt Tischtennisschläger CarboTec 900 20%...'
 sku: 'B017BDUJ2M-de'
 tags: [  ]

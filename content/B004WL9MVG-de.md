@@ -5,7 +5,7 @@ date: 2020-05-22 16:44:46
 image: 'https://m.media-amazon.com/images/I/41nVivKcbyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004WL9MVG-de Gordon & Bros Herren Levet Derby Braun tan 42 EU'
 sku: 'B004WL9MVG-de'
 tags: [  ]

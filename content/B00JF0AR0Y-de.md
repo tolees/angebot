@@ -5,7 +5,7 @@ date: 2020-05-19 06:41:59
 image: 'https://m.media-amazon.com/images/I/31-5LLKOr2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JF0AR0Y-de Microsoft Wireless Mobile Mouse 1850 Maus schwarz kabellos...'
 sku: 'B00JF0AR0Y-de'
 tags: [  ]

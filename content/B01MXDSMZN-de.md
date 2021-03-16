@@ -5,7 +5,7 @@ date: 2020-09-13 06:23:59
 image: 'https://m.media-amazon.com/images/I/41yUvMmmPoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXDSMZN-de Büchel LED-Akkuleuchtenset 80 Lux Frontlampe: Vail + Akku-...'
 sku: 'B01MXDSMZN-de'
 tags: [  ]

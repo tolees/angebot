@@ -5,7 +5,7 @@ date: 2020-07-21 10:21:51
 image: 'https://m.media-amazon.com/images/I/411sYlT3WKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KWJMTIO-de Bosch Professional 18V System Akku Kreissäge GKS 18V-57 G...'
 sku: 'B01KWJMTIO-de'
 tags: [  ]

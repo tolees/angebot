@@ -5,7 +5,7 @@ date: 2020-02-19 22:27:54
 image: 'https://m.media-amazon.com/images/I/318M3fiRhbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KBWBI6M-de Oral-B PRO 3000 CrossAction'
 sku: 'B00KBWBI6M-de'
 tags: [  ]

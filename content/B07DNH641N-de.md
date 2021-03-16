@@ -5,7 +5,7 @@ date: 2020-04-05 20:56:26
 image: 'https://m.media-amazon.com/images/I/B1aKzeOam-S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNH641N-de Assassin s Creed Odyssey - Gold Edition [PC Code - Uplay]'
 sku: 'B07DNH641N-de'
 tags: [  ]

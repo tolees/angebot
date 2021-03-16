@@ -5,7 +5,7 @@ date: 2020-09-29 12:11:32
 image: 'https://m.media-amazon.com/images/I/51tYJZtouCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J69DDBK-de LEGO Marvel Spider-Man 76128 - Far From Home Duell mit...'
 sku: 'B07J69DDBK-de'
 tags: [  ]

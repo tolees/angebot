@@ -5,7 +5,7 @@ date: 2020-04-07 13:04:26
 image: 'https://m.media-amazon.com/images/I/51figwdrw9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJNV8HG-de GODNECE Bauplatten Straße 50 x 50 Loch Straßenplatten...'
 sku: 'B07TJNV8HG-de'
 tags: [  ]

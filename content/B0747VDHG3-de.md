@@ -5,7 +5,7 @@ date: 2020-03-19 05:12:38
 image: 'https://m.media-amazon.com/images/I/31ECu2X6INL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0747VDHG3-de OSRAM Smart+ LED ZigBee Lampe mit E14 Sockel warmweiß bis...'
 sku: 'B0747VDHG3-de'
 tags: [  ]

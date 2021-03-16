@@ -5,7 +5,7 @@ date: 2020-02-09 13:25:54
 image: 'https://m.media-amazon.com/images/I/31T3rjg9POL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LX3QKIZ-de Pioneer X-HM26 B Microsystem mit Zweiwege-Boxen Bluetooth...'
 sku: 'B01LX3QKIZ-de'
 tags: [  ]

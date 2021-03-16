@@ -5,7 +5,7 @@ date: 2020-09-23 19:21:43
 image: 'https://m.media-amazon.com/images/I/41khARGUk0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BLL97XW-de DYON Smart 55 XT 138 7 cm 55 Zoll Fernseher 4K Ultra-HD...'
 sku: 'B08BLL97XW-de'
 tags: [  ]

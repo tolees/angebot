@@ -5,7 +5,7 @@ date: 2020-03-26 09:17:06
 image: 'https://m.media-amazon.com/images/I/41-xE31378L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JJ3AK76-de Apple iPad 4 9.7-Inch Tablet-PC Schwarz A1460 Prozessor 16...'
 sku: 'B01JJ3AK76-de'
 tags: [  ]

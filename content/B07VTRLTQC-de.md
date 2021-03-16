@@ -5,7 +5,7 @@ date: 2020-09-15 18:58:27
 image: 'https://m.media-amazon.com/images/I/41lBiXy2BmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VTRLTQC-de Schwip Schwap Das Original – Koffeinhaltiges Cola-...'
 sku: 'B07VTRLTQC-de'
 tags: [  ]

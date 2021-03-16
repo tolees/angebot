@@ -5,7 +5,7 @@ date: 2020-02-08 23:01:40
 image: 'https://m.media-amazon.com/images/I/41-2C-VSKeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IW64JWS-de Logitech 939-001471 BASE Ladestation mit Smart Connector-...'
 sku: 'B01IW64JWS-de'
 tags: [  ]

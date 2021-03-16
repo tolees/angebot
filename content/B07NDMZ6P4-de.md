@@ -5,7 +5,7 @@ date: 2020-03-30 12:21:10
 image: 'https://m.media-amazon.com/images/I/41kRtzHDapL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDMZ6P4-de G-STAR RAW Herren Arctic Expedition Jacke Grau Charcoal...'
 sku: 'B07NDMZ6P4-de'
 tags: [  ]

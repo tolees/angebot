@@ -5,7 +5,7 @@ date: 2020-02-06 04:59:21
 image: 'https://m.media-amazon.com/images/I/51HoUcv42ML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076MDDRGN-de Stranger Things: Music From The Netflix Original Series [2...'
 sku: 'B076MDDRGN-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-06 16:27:00
 image: 'https://m.media-amazon.com/images/I/41KI4HZgPZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCK5PRM-de Tageslichtlampe 10000 Lux Tageslichtleuchte LED...'
 sku: 'B07XCK5PRM-de'
 tags: [  ]

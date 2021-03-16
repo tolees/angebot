@@ -5,7 +5,7 @@ date: 2020-04-05 05:03:54
 image: 'https://m.media-amazon.com/images/I/410GnpJHtjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071VTGDQQ-de Funko 14751 The Last Jedi No Bobble: Star Wars: E8 TLJ:...'
 sku: 'B071VTGDQQ-de'
 tags: [  ]

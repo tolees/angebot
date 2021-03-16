@@ -5,7 +5,7 @@ date: 2020-04-19 11:41:58
 image: 'https://m.media-amazon.com/images/I/515C38fHm0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DMZ4KG0-de Kingdom Hearts III - [Xbox One]'
 sku: 'B00DMZ4KG0-de'
 tags: [  ]

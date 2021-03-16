@@ -5,7 +5,7 @@ date: 2020-09-29 12:11:59
 image: 'https://m.media-amazon.com/images/I/513jph9bQkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP6QRDK-de LEGO DUPLO 10898 - Meine erste Micky Maus'
 sku: 'B07FP6QRDK-de'
 tags: [  ]

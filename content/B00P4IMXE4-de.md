@@ -5,7 +5,7 @@ date: 2020-09-24 09:49:45
 image: 'https://m.media-amazon.com/images/I/51E9Hka1PlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00P4IMXE4-de Tony Bennett & Lady Gaga - Cheek to Cheek - Live! [Blu-ray]'
 sku: 'B00P4IMXE4-de'
 tags: [  ]

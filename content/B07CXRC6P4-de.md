@@ -5,7 +5,7 @@ date: 2020-08-20 22:48:19
 image: 'https://m.media-amazon.com/images/I/51BG7uCplxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CXRC6P4-de Ela Mo’s Rucksack Damen | Schön und Durchdacht | für Uni...'
 sku: 'B07CXRC6P4-de'
 tags: [  ]

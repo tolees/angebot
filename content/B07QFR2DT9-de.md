@@ -5,7 +5,7 @@ date: 2020-08-28 07:49:53
 image: 'https://m.media-amazon.com/images/I/41ntLOWe64L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QFR2DT9-de Westmark Wasserkaraffe mit Infuser/Fruchteinsatz...'
 sku: 'B07QFR2DT9-de'
 tags: [  ]

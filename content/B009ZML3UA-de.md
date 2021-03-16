@@ -5,7 +5,7 @@ date: 2020-09-18 05:59:22
 image: 'https://m.media-amazon.com/images/I/413pSAQIPUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009ZML3UA-de Le Creuset Signature Gusseisen-Grillpfanne Quadratisch 26...'
 sku: 'B009ZML3UA-de'
 tags: [  ]

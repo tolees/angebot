@@ -5,7 +5,7 @@ date: 2020-04-14 16:41:49
 image: 'https://m.media-amazon.com/images/I/4166s-OHjSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HD1ZGGK-de Mattel GGX34 - Toy Story 4 Woody Figur 17 cm Spielzeug...'
 sku: 'B07HD1ZGGK-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-11 19:24:58
 image: 'https://m.media-amazon.com/images/I/416gunHmgsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NR1NBJZ-de Eichhorn 109475850 - Schienenbahn Set Porsche Racing...'
 sku: 'B07NR1NBJZ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-07 12:49:28
 image: 'https://m.media-amazon.com/images/I/31rTVRyZHZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VG63KS3-de Bluetooth Kopfhörer In-Ear Boltune Sport Headphones mit 16...'
 sku: 'B07VG63KS3-de'
 tags: [  ]

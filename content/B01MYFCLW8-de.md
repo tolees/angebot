@@ -5,7 +5,7 @@ date: 2020-03-05 04:45:49
 image: 'https://m.media-amazon.com/images/I/51pb3l-3fRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYFCLW8-de Bones - Season Eleven [6 DVDs]'
 sku: 'B01MYFCLW8-de'
 tags: [  ]

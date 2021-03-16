@@ -5,7 +5,7 @@ date: 2020-08-15 10:45:49
 image: 'https://m.media-amazon.com/images/I/41czKYf37QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVVDZMT-de Skechers Herren Moreno Sneaker Blau Navy Mesh NVY 45 EU'
 sku: 'B07TVVDZMT-de'
 tags: [  ]

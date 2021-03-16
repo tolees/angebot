@@ -5,7 +5,7 @@ date: 2020-03-07 18:37:32
 image: 'https://m.media-amazon.com/images/I/51dFD5JBEOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZGFJQJ6-de Bluetooth Lautsprecher 5.0 Tronsmart T6 Mini 15W Tragbarer...'
 sku: 'B07ZGFJQJ6-de'
 tags: [  ]

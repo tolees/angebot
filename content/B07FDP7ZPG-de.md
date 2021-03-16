@@ -5,7 +5,7 @@ date: 2020-02-28 04:55:29
 image: 'https://m.media-amazon.com/images/I/51PGBJZskgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FDP7ZPG-de 195/im Reich der Ungeheuer'
 sku: 'B07FDP7ZPG-de'
 tags: [  ]

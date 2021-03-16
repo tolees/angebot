@@ -5,7 +5,7 @@ date: 2020-02-10 13:33:54
 image: 'https://m.media-amazon.com/images/I/41QtgHYdVdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079P2J6GM-de Fitbit Ionic Health & Fitness Smartwatch grau Einheitsgröße'
 sku: 'B079P2J6GM-de'
 tags: [  ]

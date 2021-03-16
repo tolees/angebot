@@ -5,7 +5,7 @@ date: 2020-06-30 16:20:12
 image: 'https://m.media-amazon.com/images/I/412Jj3DOjGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XBV65N7-de Lenovo IdeaCentre AIO A540 60 45 cm 23 8 Zoll Full HD IPS...'
 sku: 'B07XBV65N7-de'
 tags: [  ]

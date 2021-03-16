@@ -5,7 +5,7 @@ date: 2020-04-16 08:34:21
 image: 'https://m.media-amazon.com/images/I/41x98rM-nTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HD228WN-de Mattel GGX28 - Toy Story 4 Ducky 17 cm Spielzeug...'
 sku: 'B07HD228WN-de'
 tags: [  ]

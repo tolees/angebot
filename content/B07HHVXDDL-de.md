@@ -5,7 +5,7 @@ date: 2020-09-22 19:43:09
 image: 'https://m.media-amazon.com/images/I/31auQkLIUwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HHVXDDL-de BONTEC TV Ständer Mobile TV Wagen Trolley Höhenverstellbar...'
 sku: 'B07HHVXDDL-de'
 tags: [  ]

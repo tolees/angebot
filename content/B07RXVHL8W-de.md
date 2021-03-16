@@ -5,7 +5,7 @@ date: 2020-03-07 21:13:37
 image: 'https://m.media-amazon.com/images/I/51LRT0m1DuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXVHL8W-de Sony SRS-XB402M Bluetooth-Lautsprecher EXTRA BASS...'
 sku: 'B07RXVHL8W-de'
 tags: [  ]

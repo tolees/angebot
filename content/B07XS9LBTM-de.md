@@ -5,7 +5,7 @@ date: 2020-01-06 08:28:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418eQ97W4cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XS9LBTM-de Apple Watch Series 5 GPS + Cellular 40 mm Edelstahlgehäuse...'
 sku: 'B07XS9LBTM-de'
 tags: [  ]

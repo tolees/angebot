@@ -5,7 +5,7 @@ date: 2020-09-25 20:05:24
 image: 'https://m.media-amazon.com/images/I/51kJ4NEld5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HQ66VXQ-de LED Streifen 5m RGB Sylvwin LED Strip Lichterkette mit...'
 sku: 'B08HQ66VXQ-de'
 tags: [  ]

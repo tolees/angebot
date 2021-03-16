@@ -5,7 +5,7 @@ date: 2020-02-01 05:02:10
 image: 'https://m.media-amazon.com/images/I/51p4c7+yMdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OVRTXT2-de Im Labyrinth des Schweigens'
 sku: 'B00OVRTXT2-de'
 tags: [  ]

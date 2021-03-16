@@ -5,7 +5,7 @@ date: 2020-03-17 10:24:29
 image: 'https://m.media-amazon.com/images/I/41RBv3oID7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HQJGBL4-de K2 Sports Europe Unisex Kinder Inlineskates Raider'
 sku: 'B07HQJGBL4-de'
 tags: [  ]

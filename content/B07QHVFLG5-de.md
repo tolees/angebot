@@ -5,7 +5,7 @@ date: 2020-04-18 00:37:42
 image: 'https://m.media-amazon.com/images/I/41z3CBbLK8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QHVFLG5-de KFD 19V 65W Power Adapter Netzteil Ladegerät für Intel NUC...'
 sku: 'B07QHVFLG5-de'
 tags: [  ]

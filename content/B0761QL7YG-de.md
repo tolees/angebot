@@ -5,7 +5,7 @@ date: 2020-02-07 14:57:43
 image: 'https://m.media-amazon.com/images/I/31KwSgY8VfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0761QL7YG-de Acer P5530 DLP Projektor Full HD 1.920 x 1.080 4.000 ANSI...'
 sku: 'B0761QL7YG-de'
 tags: [  ]

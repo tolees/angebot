@@ -5,7 +5,7 @@ date: 2020-05-21 17:50:10
 image: 'https://m.media-amazon.com/images/I/21F8bgyCHeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPQJSXM-de Netgear Orbi Pro SRC60 Mesh-WLAN-Satellit für Decken- und...'
 sku: 'B07NPQJSXM-de'
 tags: [  ]

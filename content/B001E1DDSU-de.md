@@ -5,7 +5,7 @@ date: 2020-04-15 23:32:40
 image: 'https://m.media-amazon.com/images/I/51B0QoExboL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001E1DDSU-de Das Schweigen der Lämmer + Krabat Sonder-Disc'
 sku: 'B001E1DDSU-de'
 tags: [  ]

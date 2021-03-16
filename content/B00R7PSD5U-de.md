@@ -5,7 +5,7 @@ date: 2020-09-30 06:02:57
 image: 'https://m.media-amazon.com/images/I/41d8zSbAIOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00R7PSD5U-de CITIZEN Damen Analog Quarz Uhr mit Leder Armband FE1083-02A'
 sku: 'B00R7PSD5U-de'
 tags: [  ]

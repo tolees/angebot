@@ -5,7 +5,7 @@ date: 2020-09-16 06:25:33
 image: 'https://m.media-amazon.com/images/I/41J4zQfM9OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078LRBKVZ-de Kronenschein® Premium Herren Geldbörse mit Geldklammer...'
 sku: 'B078LRBKVZ-de'
 tags: [  ]

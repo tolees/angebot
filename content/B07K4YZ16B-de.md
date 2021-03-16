@@ -5,7 +5,7 @@ date: 2020-03-14 18:34:04
 image: 'https://m.media-amazon.com/images/I/41Qda4HU5tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K4YZ16B-de Lightailing Licht-Set Für Creator Expert James Bond 007...'
 sku: 'B07K4YZ16B-de'
 tags: [  ]

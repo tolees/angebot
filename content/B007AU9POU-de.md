@@ -5,7 +5,7 @@ date: 2020-10-11 06:24:14
 image: 'https://m.media-amazon.com/images/I/41-zaw39W2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007AU9POU-de HAUPTSTADTKOFFER - Alex - Hartschalen-Koffer Koffer...'
 sku: 'B007AU9POU-de'
 tags: [  ]

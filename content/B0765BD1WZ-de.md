@@ -5,7 +5,7 @@ date: 2020-10-09 18:35:47
 image: 'https://m.media-amazon.com/images/I/51cNjvo0VeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0765BD1WZ-de LEGO Duplo 10873 Disney Minnies Geburtstagsparty Spielzeug'
 sku: 'B0765BD1WZ-de'
 tags: [  ]

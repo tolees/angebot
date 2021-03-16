@@ -5,7 +5,7 @@ date: 2020-08-11 13:54:58
 image: 'https://m.media-amazon.com/images/I/31wzBKsyvDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002N6ZEFA-de Brennenstuhl Eco-Line Steckdosenleiste 6-fach...'
 sku: 'B002N6ZEFA-de'
 tags: [  ]

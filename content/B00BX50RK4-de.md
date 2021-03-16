@@ -5,7 +5,7 @@ date: 2020-04-08 22:04:01
 image: 'https://m.media-amazon.com/images/I/61GdeoHBTgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BX50RK4-de Immenhof - Die 5 Originalfilme [3 DVDs]'
 sku: 'B00BX50RK4-de'
 tags: [  ]

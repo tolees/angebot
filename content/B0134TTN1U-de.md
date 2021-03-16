@@ -5,7 +5,7 @@ date: 2020-02-03 21:13:34
 image: 'https://m.media-amazon.com/images/I/61YHP-TlSrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0134TTN1U-de Creative Converting 315252 Birthday Plastic Tablecover...'
 sku: 'B0134TTN1U-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-18 00:56:34
 image: 'https://m.media-amazon.com/images/I/51VgLrH7ZwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0833YQGNQ-de Kiztoys Handheld Spielkonsole 400 Klassische Spielen...'
 sku: 'B0833YQGNQ-de'
 tags: [  ]

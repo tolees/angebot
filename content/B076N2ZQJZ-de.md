@@ -5,7 +5,7 @@ date: 2020-08-24 23:12:16
 image: 'https://m.media-amazon.com/images/I/41e3V23eEzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076N2ZQJZ-de miaX Profi Ceranfeldschaber - Ihr zuverlässiger Schaber...'
 sku: 'B076N2ZQJZ-de'
 tags: [  ]

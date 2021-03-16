@@ -5,7 +5,7 @@ date: 2020-05-19 21:31:18
 image: 'https://m.media-amazon.com/images/I/41GDfKDvqUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075DRTPVC-de LionSteel M4 Santos Taschenmesser Braun Klingenlänge: 9 5...'
 sku: 'B075DRTPVC-de'
 tags: [  ]

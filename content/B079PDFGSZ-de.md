@@ -5,7 +5,7 @@ date: 2020-02-04 05:25:26
 image: 'https://m.media-amazon.com/images/I/51tKJI2KSXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079PDFGSZ-de I Tonya [Blu-ray]'
 sku: 'B079PDFGSZ-de'
 tags: [  ]

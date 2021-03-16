@@ -5,7 +5,7 @@ date: 2020-08-06 17:48:30
 image: 'https://m.media-amazon.com/images/I/3162EJoiTBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DHD3PW2-de Bluetooth Kopfhörer In-Ear Wireless Kopfhörer Touch...'
 sku: 'B08DHD3PW2-de'
 tags: [  ]

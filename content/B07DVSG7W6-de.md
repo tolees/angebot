@@ -5,7 +5,7 @@ date: 2020-03-19 11:47:56
 image: 'https://m.media-amazon.com/images/I/41r4OyGMjoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVSG7W6-de Jack Wolfskin Unisex-Erwachsene Warwick Ave sac à...'
 sku: 'B07DVSG7W6-de'
 tags: [  ]

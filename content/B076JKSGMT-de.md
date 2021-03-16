@@ -5,7 +5,7 @@ date: 2020-01-27 17:29:55
 image: 'https://m.media-amazon.com/images/I/51kMiwyaSuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076JKSGMT-de Talisker Single Malt Whisky 10 Jahre Geschenkpackung mit 2...'
 sku: 'B076JKSGMT-de'
 tags: [  ]

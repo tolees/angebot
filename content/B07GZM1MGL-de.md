@@ -5,7 +5,7 @@ date: 2020-02-17 05:05:23
 image: 'https://m.media-amazon.com/images/I/413fIYHdiQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZM1MGL-de Alpina Mädchen XIMO Flash Fahrradhelm Mint Unicorn 49-54 cm'
 sku: 'B07GZM1MGL-de'
 tags: [  ]

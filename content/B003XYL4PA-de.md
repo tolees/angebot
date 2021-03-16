@@ -5,7 +5,7 @@ date: 2020-10-08 19:43:45
 image: 'https://m.media-amazon.com/images/I/41nuTeYLYwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003XYL4PA-de Deuter Streamer Thermo Bag 3.0 Zubehör Trinkblase'
 sku: 'B003XYL4PA-de'
 tags: [  ]

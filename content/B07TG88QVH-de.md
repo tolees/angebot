@@ -5,7 +5,7 @@ date: 2020-08-18 10:40:08
 image: 'https://m.media-amazon.com/images/I/41ZLesxuRUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TG88QVH-de LIGHTAILING Licht-Set Für Architecture Shanghai Modell -...'
 sku: 'B07TG88QVH-de'
 tags: [  ]

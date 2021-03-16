@@ -5,7 +5,7 @@ date: 2020-04-15 00:09:21
 image: 'https://m.media-amazon.com/images/I/51u9c1jTvGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004DL15EC-de Ravensburger tiptoi Rekorde im Tierreich memory ab 5...'
 sku: 'B004DL15EC-de'
 tags: [  ]

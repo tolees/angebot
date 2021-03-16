@@ -5,7 +5,7 @@ date: 2020-04-24 12:05:35
 image: 'https://m.media-amazon.com/images/I/412xNVb-G0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0171NKAR6-de Garmin vívosmart HR Fitness-Tracker - integrierte...'
 sku: 'B0171NKAR6-de'
 tags: [  ]

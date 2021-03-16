@@ -5,7 +5,7 @@ date: 2020-07-16 04:52:04
 image: 'https://m.media-amazon.com/images/I/31bIIHCYz5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C53XRYV-de Netgear GS728TP 28-Port Gigabit Ethernet LAN PoE Switch...'
 sku: 'B07C53XRYV-de'
 tags: [  ]

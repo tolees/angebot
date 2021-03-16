@@ -5,7 +5,7 @@ date: 2020-04-07 21:29:10
 image: 'https://m.media-amazon.com/images/I/519TwKZqanL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RBPGGN1-de YLCJ Bronze Industrial Vintage doble cabeza Chunky...'
 sku: 'B07RBPGGN1-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-25 18:04:09
 image: 'https://m.media-amazon.com/images/I/61KpRswH0uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005N1PU2O-de Wann I So Z Ruckschau 3cd'
 sku: 'B005N1PU2O-de'
 tags: [  ]

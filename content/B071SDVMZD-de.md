@@ -5,7 +5,7 @@ date: 2020-09-13 06:23:29
 image: 'https://m.media-amazon.com/images/I/41AaA+P0K-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071SDVMZD-de camel active Damen Canberra 72 Chelsea Boots Grau Dk.Grey...'
 sku: 'B071SDVMZD-de'
 tags: [  ]

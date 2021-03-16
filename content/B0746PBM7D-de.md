@@ -5,7 +5,7 @@ date: 2020-02-21 04:46:49
 image: 'https://m.media-amazon.com/images/I/51K+xedNVNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0746PBM7D-de Die Sims 4 - Standard Edition - [PlayStation 4] - Cover-...'
 sku: 'B0746PBM7D-de'
 tags: [  ]

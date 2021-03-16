@@ -5,7 +5,7 @@ date: 2020-02-25 04:07:05
 image: 'https://m.media-amazon.com/images/I/41z6OwFlXEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004TAKMJG-de Funko 42474 5 Star: The Shining - Jack Torrance...'
 sku: 'B004TAKMJG-de'
 tags: [  ]

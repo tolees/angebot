@@ -5,7 +5,7 @@ date: 2020-06-06 18:26:59
 image: 'https://m.media-amazon.com/images/I/51F--2ddTcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004P2ZYLO-de Umarex Spitzkopf 4 5mm für Diabolo Cobra Luftpistolen...'
 sku: 'B004P2ZYLO-de'
 tags: [  ]

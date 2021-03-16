@@ -5,7 +5,7 @@ date: 2020-08-21 15:32:41
 image: 'https://m.media-amazon.com/images/I/31yqA8m8FhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC1N7ZH-de camel active Herren Houston 488415/2513 Hose Beige Beige...'
 sku: 'B07NC1N7ZH-de'
 tags: [  ]

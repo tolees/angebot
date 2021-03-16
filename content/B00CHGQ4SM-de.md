@@ -5,7 +5,7 @@ date: 2020-03-25 05:01:08
 image: 'https://m.media-amazon.com/images/I/313L9dVqX0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CHGQ4SM-de Microsoft Sculpt Comfort Mouse Maus schwarz ergonomisch...'
 sku: 'B00CHGQ4SM-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-08 12:19:06
 image: 'https://m.media-amazon.com/images/I/31JFCBZQCjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0711LKZKX-de Withings Steel HR Hybrid Smartwatch - Fitnessuhr mit...'
 sku: 'B0711LKZKX-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 16:15:33
 image: 'https://m.media-amazon.com/images/I/41C0VgV6SIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07951LXJJ-de Fire HD 8-Tablet 32 GB Schwarz ohne Spezialangebote'
 sku: 'B07951LXJJ-de'
 tags: [  ]

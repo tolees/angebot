@@ -5,7 +5,7 @@ date: 2020-04-18 14:11:31
 image: 'https://m.media-amazon.com/images/I/31WSmjhn9ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLV2BXR-de iMangoo USB C Audio Adapter Typ C auf 3 5 mm...'
 sku: 'B07PLV2BXR-de'
 tags: [  ]

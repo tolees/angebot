@@ -5,7 +5,7 @@ date: 2020-10-03 15:47:35
 image: 'https://m.media-amazon.com/images/I/41AiwNzz9cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPK63Y8-de Funko POP! Bobble: Avengers Endgame: Nebula Multi'
 sku: 'B07KPK63Y8-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 12:53:14
 image: 'https://m.media-amazon.com/images/I/41CbJvGlSvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DGH9V7S-de Oral-B Vitality 100 CrossAction Elektrische Zahnbürste...'
 sku: 'B07DGH9V7S-de'
 tags: [  ]

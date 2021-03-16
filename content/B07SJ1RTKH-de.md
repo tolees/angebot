@@ -5,7 +5,7 @@ date: 2020-08-20 15:57:53
 image: 'https://m.media-amazon.com/images/I/41n-iPLEqhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJ1RTKH-de Corsair HS35 Stereo Gaming Headset 50mm Neodym...'
 sku: 'B07SJ1RTKH-de'
 tags: [  ]

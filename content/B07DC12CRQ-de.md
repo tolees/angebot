@@ -5,7 +5,7 @@ date: 2020-01-24 15:23:06
 image: 'https://m.media-amazon.com/images/I/41oDCcqnm3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DC12CRQ-de Puma Damen Sneakers Sneaker Puma Vikky Stacked L Weiß Puma...'
 sku: 'B07DC12CRQ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-02 21:44:39
 image: 'https://m.media-amazon.com/images/I/51zByZu6LBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBPRXWN-de LEGO Marvel Spider-Man 76130 - Far From Home Stark-Jet und...'
 sku: 'B07JBPRXWN-de'
 tags: [  ]

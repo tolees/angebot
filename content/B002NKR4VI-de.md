@@ -5,7 +5,7 @@ date: 2020-03-02 14:08:40
 image: 'https://m.media-amazon.com/images/I/41qE+tnBx+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002NKR4VI-de Melitta Caffeo Solo E950-103 Schlanker Kaffeevollautomat...'
 sku: 'B002NKR4VI-de'
 tags: [  ]

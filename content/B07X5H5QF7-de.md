@@ -5,7 +5,7 @@ date: 2020-06-04 13:45:20
 image: 'https://m.media-amazon.com/images/I/61sm6spSsCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X5H5QF7-de ETEPON Bausteine STEM Spielzeug 160 Stück Baugebäude...'
 sku: 'B07X5H5QF7-de'
 tags: [  ]

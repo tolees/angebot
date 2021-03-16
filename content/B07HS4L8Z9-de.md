@@ -5,7 +5,7 @@ date: 2020-03-24 15:21:58
 image: 'https://m.media-amazon.com/images/I/31DkVMpBztL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HS4L8Z9-de Lenovo Tab P10 25 5 cm 10 1 Zoll Full HD IPS Touch Tablet-...'
 sku: 'B07HS4L8Z9-de'
 tags: [  ]

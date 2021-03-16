@@ -5,7 +5,7 @@ date: 2020-09-12 16:34:30
 image: 'https://m.media-amazon.com/images/I/41xcdKdbpGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B20KPG6-de Melitta Caffeo Solo & Perfect Milk E957-101 Schlanker...'
 sku: 'B00B20KPG6-de'
 tags: [  ]

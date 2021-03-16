@@ -5,7 +5,7 @@ date: 2020-09-16 06:19:24
 image: 'https://m.media-amazon.com/images/I/51o7j+eHXkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005GXAE4I-de AEG TR3LFSTV FlexiRunnersT Vollauszug für ProCombi 3 Paar...'
 sku: 'B005GXAE4I-de'
 tags: [  ]

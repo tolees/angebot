@@ -5,7 +5,7 @@ date: 2020-02-07 10:01:44
 image: 'https://m.media-amazon.com/images/I/41HAHMnjDhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001KQ0UI0-de Fisher-Price P4326 Meine erste Toilette Töpfchen und...'
 sku: 'B001KQ0UI0-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-03 21:15:16
 image: 'https://m.media-amazon.com/images/I/31V+oFlWZPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPVM8SD-de De Longhi EDG505.W | NESCAFÉ Dolce Gusto Esperta | Kapsel...'
 sku: 'B07PPVM8SD-de'
 tags: [  ]

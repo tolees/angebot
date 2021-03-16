@@ -5,7 +5,7 @@ date: 2020-08-04 23:44:44
 image: 'https://m.media-amazon.com/images/I/51rHfyNf4DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZMBNZJ-de Genrics KÜCHEN-TELESKOPSTÄNDER AUS Edelstahl 1pcs'
 sku: 'B08CZMBNZJ-de'
 tags: [  ]

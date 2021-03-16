@@ -5,7 +5,7 @@ date: 2020-07-16 09:26:55
 image: 'https://m.media-amazon.com/images/I/41dw0R-oAOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXHDN78-de Gold XL Edelstahl Whisky Steine Bullets – Hohe...'
 sku: 'B07FXHDN78-de'
 tags: [  ]

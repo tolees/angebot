@@ -5,7 +5,7 @@ date: 2020-05-29 07:25:31
 image: 'https://m.media-amazon.com/images/I/41mwXD0NYOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G19DZXC-de TomTom Navigationsgerät GO Essential 6 Zoll Stauvermeidung...'
 sku: 'B07G19DZXC-de'
 tags: [  ]

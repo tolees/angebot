@@ -5,7 +5,7 @@ date: 2020-10-10 15:46:59
 image: 'https://m.media-amazon.com/images/I/41B+FXCBkrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6YDT5Z-de Krups XN304T Kaffeemaschine Freistehende Espressomaschine...'
 sku: 'B07P6YDT5Z-de'
 tags: [  ]

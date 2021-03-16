@@ -5,7 +5,7 @@ date: 2020-04-06 08:18:40
 image: 'https://m.media-amazon.com/images/I/311HvYNh6DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0767BT4PB-de Philips Hue LED 2-er Buratto Spot inkl. Dimmschalter...'
 sku: 'B0767BT4PB-de'
 tags: [  ]

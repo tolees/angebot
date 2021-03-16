@@ -5,7 +5,7 @@ date: 2020-10-01 09:41:19
 image: 'https://m.media-amazon.com/images/I/41U6Mv0CzkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMNH3DM-de Tokyo Laundry Tybalt Canvas Rucksack Gr. Einheitsgröße...'
 sku: 'B07MMNH3DM-de'
 tags: [  ]

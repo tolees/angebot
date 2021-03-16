@@ -5,7 +5,7 @@ date: 2020-04-07 13:14:15
 image: 'https://m.media-amazon.com/images/I/61hLQx9JPcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZCQ31F-de Ravensburger 22334 Break Free'
 sku: 'B079ZCQ31F-de'
 tags: [  ]

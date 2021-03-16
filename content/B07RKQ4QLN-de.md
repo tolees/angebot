@@ -5,7 +5,7 @@ date: 2020-05-01 15:56:27
 image: 'https://m.media-amazon.com/images/I/51Vvmg2xprL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RKQ4QLN-de Dragon Touch Action Cam 4K /unterwasserkamera 16MP WiFi...'
 sku: 'B07RKQ4QLN-de'
 tags: [  ]

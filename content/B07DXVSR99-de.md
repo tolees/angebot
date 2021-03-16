@@ -5,7 +5,7 @@ date: 2020-09-16 06:52:13
 image: 'https://m.media-amazon.com/images/I/31m1ESmn0tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DXVSR99-de Under Armour Herren UA GL Foundation Short Sleeve Tee...'
 sku: 'B07DXVSR99-de'
 tags: [  ]

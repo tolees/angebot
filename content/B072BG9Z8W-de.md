@@ -5,7 +5,7 @@ date: 2020-10-06 18:17:36
 image: 'https://m.media-amazon.com/images/I/31253QPcDAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072BG9Z8W-de Logitech MX Anywhere 2S Kabellose Maus Bluetooth und 2.4...'
 sku: 'B072BG9Z8W-de'
 tags: [  ]

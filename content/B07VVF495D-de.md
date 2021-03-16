@@ -5,7 +5,7 @@ date: 2020-01-26 23:09:01
 image: 'https://m.media-amazon.com/images/I/41pZ85qznGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VVF495D-de Samsung Galaxy Tab S6 T865 10.5 Zoll LTE mountain grey'
 sku: 'B07VVF495D-de'
 tags: [  ]

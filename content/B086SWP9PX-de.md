@@ -5,7 +5,7 @@ date: 2020-08-09 06:20:29
 image: 'https://m.media-amazon.com/images/I/41EoXObxzwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086SWP9PX-de Mini Beamer APEMAN Support 1080P Video Projektor ±30° Fern...'
 sku: 'B086SWP9PX-de'
 tags: [  ]

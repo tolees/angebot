@@ -5,7 +5,7 @@ date: 2020-09-26 04:13:46
 image: 'https://m.media-amazon.com/images/I/31pKCu3XWRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079FBLNPX-de Tristar VE-5894 Ventilateur Standventilator-Durchmesser...'
 sku: 'B079FBLNPX-de'
 tags: [  ]

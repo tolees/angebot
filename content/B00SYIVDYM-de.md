@@ -5,7 +5,7 @@ date: 2020-05-14 22:42:16
 image: 'https://m.media-amazon.com/images/I/41YMxsvWwZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SYIVDYM-de Fjällräven Herren High Coast Wind Jacket Anorak Navy XL'
 sku: 'B00SYIVDYM-de'
 tags: [  ]

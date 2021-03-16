@@ -5,7 +5,7 @@ date: 2020-09-24 07:23:17
 image: 'https://m.media-amazon.com/images/I/51SJgIDodML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0823BTNYV-de Xiaomi Mi Smart Compact Projector Mini Beamer mit Google...'
 sku: 'B0823BTNYV-de'
 tags: [  ]

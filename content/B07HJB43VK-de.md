@@ -5,7 +5,7 @@ date: 2020-02-06 19:15:27
 image: 'https://m.media-amazon.com/images/I/41XMJAQLi-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HJB43VK-de Funko 34215 Rick & Morty: Tiny Rick w/Guitar Exc POP...'
 sku: 'B07HJB43VK-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-01 04:20:58
 image: 'https://m.media-amazon.com/images/I/41EcHYTCUdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DWBPP4N-de Garmin vívoactive 3 Music Granitblau GPS-Fitness-...'
 sku: 'B07DWBPP4N-de'
 tags: [  ]

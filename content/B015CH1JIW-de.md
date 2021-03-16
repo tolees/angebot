@@ -5,7 +5,7 @@ date: 2020-09-14 18:03:44
 image: 'https://m.media-amazon.com/images/I/31hlBw4mpkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015CH1JIW-de SanDisk Ultra Flair 32GB USB-Flash-Laufwerk USB 3.0 mit...'
 sku: 'B015CH1JIW-de'
 tags: [  ]

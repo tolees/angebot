@@ -5,7 +5,7 @@ date: 2020-09-12 08:56:12
 image: 'https://m.media-amazon.com/images/I/418XjL5YIwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQ7ZN4C-de Antimi Bluetooth Kopfhörer Kabellos in Ear Kopfhoerer...'
 sku: 'B07NQ7ZN4C-de'
 tags: [  ]

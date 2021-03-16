@@ -5,7 +5,7 @@ date: 2020-10-04 08:41:45
 image: 'https://m.media-amazon.com/images/I/51r2OF8A+bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079FZJYT2-de CITIZEN Eco-Drive Herren Armbanduhr AW1570-87L'
 sku: 'B079FZJYT2-de'
 tags: [  ]

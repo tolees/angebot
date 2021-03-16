@@ -5,7 +5,7 @@ date: 2020-05-18 15:12:15
 image: 'https://m.media-amazon.com/images/I/41L9vnt6C3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZCFYF2W-de SanDisk 64GB Connect Wireless Stick'
 sku: 'B00ZCFYF2W-de'
 tags: [  ]

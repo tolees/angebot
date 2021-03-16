@@ -5,7 +5,7 @@ date: 2020-09-12 08:54:36
 image: 'https://m.media-amazon.com/images/I/51kj4Gxjz0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NP9SYPJ-de Samsung N5375 80 cm 32 Zoll LED Fernseher Full HD Triple...'
 sku: 'B07NP9SYPJ-de'
 tags: [  ]

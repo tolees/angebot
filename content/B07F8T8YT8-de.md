@@ -5,7 +5,7 @@ date: 2020-09-16 06:52:21
 image: 'https://m.media-amazon.com/images/I/51qpjT+MCOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F8T8YT8-de Philips HD9941/00 Grill-Kit für Aifryer Grillpfanne und...'
 sku: 'B07F8T8YT8-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-07 21:39:00
 image: 'https://m.media-amazon.com/images/I/51T5uoO9JAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XYNDNN7-de Joyspot Kochmesser Japanisch Chefmesser Santokumesser...'
 sku: 'B07XYNDNN7-de'
 tags: [  ]

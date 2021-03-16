@@ -5,7 +5,7 @@ date: 2020-03-30 13:15:24
 image: 'https://m.media-amazon.com/images/I/41T85XG7SxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D7SMLG9-de Funko POP My Hero Academia SHOTA AIZ'
 sku: 'B07D7SMLG9-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-31 06:22:58
 image: 'https://m.media-amazon.com/images/I/41g5dSkpZ0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FGI2QVC-de Anker 2.4G Wireless Maus Vertikale Ergonomische Funkmaus...'
 sku: 'B00FGI2QVC-de'
 tags: [  ]

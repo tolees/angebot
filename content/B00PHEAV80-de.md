@@ -5,7 +5,7 @@ date: 2020-04-15 23:37:01
 image: 'https://m.media-amazon.com/images/I/51yq9+UZ6rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PHEAV80-de caseable Kindle und Kindle Paperwhite Hülle Pass this on'
 sku: 'B00PHEAV80-de'
 tags: [  ]

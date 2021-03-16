@@ -5,7 +5,7 @@ date: 2020-02-20 03:58:42
 image: 'https://m.media-amazon.com/images/I/319txYgETUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PBBW1MG-de Funko 41475 Action Figur: Dark Crystal - Silk Sammelbares...'
 sku: 'B07PBBW1MG-de'
 tags: [  ]

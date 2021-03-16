@@ -5,7 +5,7 @@ date: 2020-02-01 02:17:55
 image: 'https://m.media-amazon.com/images/I/51aJSL7Jx1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G42J6KQ-de Intel Wireless-AC 9560 M.2 2230 2x2 Ac+Bt Gigabit ohne Vpro'
 sku: 'B07G42J6KQ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-11 09:13:10
 image: 'https://m.media-amazon.com/images/I/51ovYVflx3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075Z3WNF3-de Hasbro Super Soaker E0021EU4 - Splash Mouth Wasserpistole...'
 sku: 'B075Z3WNF3-de'
 tags: [  ]

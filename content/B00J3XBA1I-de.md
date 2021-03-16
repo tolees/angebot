@@ -5,7 +5,7 @@ date: 2020-05-29 15:04:22
 image: 'https://m.media-amazon.com/images/I/410kV5QAz-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J3XBA1I-de Philips SHE3905BK/00 In-Ear-Kopfhörer mit Mikrofon satter...'
 sku: 'B00J3XBA1I-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-14 18:20:31
 image: 'https://m.media-amazon.com/images/I/41iCTUF7stL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MAZ6ZN4-de Unbekannt Batterie Abdeckung Tür Ersatz für XBox Ein...'
 sku: 'B00MAZ6ZN4-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-27 12:17:52
 image: 'https://m.media-amazon.com/images/I/41m4ko-xIpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L95HCN9-de Auto Starthilfe TACKLIFE T6 800A 18000mAh Tragbare...'
 sku: 'B07L95HCN9-de'
 tags: [  ]

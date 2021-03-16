@@ -5,7 +5,7 @@ date: 2020-02-24 17:00:14
 image: 'https://m.media-amazon.com/images/I/41q1yNM3NwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTEFT52-de Noctua NM-AM4 CPU-Kühler-Montageset für Noctua CPU Kühler...'
 sku: 'B01MTEFT52-de'
 tags: [  ]

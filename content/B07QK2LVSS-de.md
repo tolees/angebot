@@ -5,7 +5,7 @@ date: 2020-08-15 06:04:20
 image: 'https://m.media-amazon.com/images/I/21DeD23qyZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QK2LVSS-de Pentel BL77TLE-AX EnerGel Pure Gel-Tintenroller mit...'
 sku: 'B07QK2LVSS-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-13 23:52:46
 image: 'https://m.media-amazon.com/images/I/41YbLkg0zUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HQJ98L1-de Microsoft Office 2019 Home & Student multilingual | 1 PC...'
 sku: 'B07HQJ98L1-de'
 tags: [  ]

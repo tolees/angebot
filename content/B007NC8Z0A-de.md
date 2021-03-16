@@ -5,7 +5,7 @@ date: 2020-01-24 04:46:10
 image: 'https://m.media-amazon.com/images/I/31Uef-IQNFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007NC8Z0A-de Durex Play Perfect Glide Gleitgel auf Silikonbasis –...'
 sku: 'B007NC8Z0A-de'
 tags: [  ]

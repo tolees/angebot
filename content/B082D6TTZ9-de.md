@@ -5,7 +5,7 @@ date: 2020-09-22 07:52:23
 image: 'https://m.media-amazon.com/images/I/412HJSGvaQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082D6TTZ9-de Kopfhörer Kabellos Bluetooth 5.1 Wireless Ohrhörer in Ear...'
 sku: 'B082D6TTZ9-de'
 tags: [  ]

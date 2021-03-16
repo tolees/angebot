@@ -5,7 +5,7 @@ date: 2020-02-07 18:11:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51SIb3Ayd2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0794SNF6C-de Fire HD 8 Kids Edition-Tablet 8-Zoll-HD-Display 32 GB...'
 sku: 'B0794SNF6C-de'
 tags: [  ]

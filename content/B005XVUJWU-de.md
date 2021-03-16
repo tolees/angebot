@@ -5,7 +5,7 @@ date: 2020-02-02 02:40:03
 image: 'https://m.media-amazon.com/images/I/41g5vYBghcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005XVUJWU-de Bosch 0092S40070 Starterbatterien'
 sku: 'B005XVUJWU-de'
 tags: [  ]

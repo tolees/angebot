@@ -5,7 +5,7 @@ date: 2020-07-08 18:11:57
 image: 'https://m.media-amazon.com/images/I/31sbDxeNSQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07THHQMHM-de Anker Wireless Charger PowerWave Ladepad Kabelloses 7.5W...'
 sku: 'B07THHQMHM-de'
 tags: [  ]

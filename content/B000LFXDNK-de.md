@@ -5,7 +5,7 @@ date: 2020-10-11 06:22:09
 image: 'https://m.media-amazon.com/images/I/31LHMWOvxBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000LFXDNK-de Silverline 598492 Gummihammer schwarz 907 g'
 sku: 'B000LFXDNK-de'
 tags: [  ]

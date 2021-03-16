@@ -5,7 +5,7 @@ date: 2020-04-07 21:45:22
 image: 'https://m.media-amazon.com/images/I/610ilK+3K6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WVPGD4J-de Playmobil 9282 - Skischule'
 sku: 'B06WVPGD4J-de'
 tags: [  ]

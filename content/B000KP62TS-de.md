@@ -5,7 +5,7 @@ date: 2020-09-24 09:46:50
 image: 'https://m.media-amazon.com/images/I/61JNuG5D6TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KP62TS-de Cookin Rudy Van Gelder Remaster'
 sku: 'B000KP62TS-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-27 20:02:13
 image: 'https://m.media-amazon.com/images/I/51Wd+aOV9zL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCDHTB5-de EVERSEE Bluetooth Mütze Geschenke für Männer & Frauen...'
 sku: 'B07VCDHTB5-de'
 tags: [  ]

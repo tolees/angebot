@@ -5,7 +5,7 @@ date: 2020-01-20 11:06:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nIqFuRx8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PCQF1QH-de INPHIC Bluetooth Maus 3-Modus Silent wiederaufladbare Maus...'
 sku: 'B07PCQF1QH-de'
 tags: [  ]

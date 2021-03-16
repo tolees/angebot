@@ -5,7 +5,7 @@ date: 2020-01-05 22:49:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51fdzydcj6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CDEXBEC-de Funko 9298 S1 No Actionfigur Games: Overwatch: Tracer Multi'
 sku: 'B01CDEXBEC-de'
 tags: [  ]

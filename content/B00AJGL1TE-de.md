@@ -5,7 +5,7 @@ date: 2020-09-14 12:52:53
 image: 'https://m.media-amazon.com/images/I/51U4pfGiS2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AJGL1TE-de OLI-NATURA Projektöl für innen speziell für Möbel Parkett...'
 sku: 'B00AJGL1TE-de'
 tags: [  ]

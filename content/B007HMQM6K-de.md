@@ -5,7 +5,7 @@ date: 2020-01-20 16:12:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31dIZQDhjdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007HMQM6K-de SEVERIN DK 1042 Doppel-Kochplatte 2 Massekochfelder 1x Ø...'
 sku: 'B007HMQM6K-de'
 tags: [  ]

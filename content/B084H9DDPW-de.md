@@ -5,7 +5,7 @@ date: 2020-09-24 19:22:38
 image: 'https://m.media-amazon.com/images/I/31Snh0cGx3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084H9DDPW-de Samsung Sound Tower Lautsprecher MX-T50 Bluetooth...'
 sku: 'B084H9DDPW-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-08 14:48:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41jdrzrOmxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BQX491G-de erima Club 5 Sporttasche Orange/Schwarz L 76 Liter 723363'
 sku: 'B00BQX491G-de'
 tags: [  ]

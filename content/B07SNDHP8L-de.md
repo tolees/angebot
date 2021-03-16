@@ -5,7 +5,7 @@ date: 2020-02-28 11:58:11
 image: 'https://m.media-amazon.com/images/I/41XTIOVtwqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SNDHP8L-de Funko 44469 POP Towns 80th-Hall of Justice w/Batman...'
 sku: 'B07SNDHP8L-de'
 tags: [  ]

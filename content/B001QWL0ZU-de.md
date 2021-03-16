@@ -5,7 +5,7 @@ date: 2020-03-09 04:52:35
 image: 'https://m.media-amazon.com/images/I/311y9Cf9n8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001QWL0ZU-de Durex Play Pflegend Sensitives Gleitgel mit Aloe Vera 1er...'
 sku: 'B001QWL0ZU-de'
 tags: [  ]

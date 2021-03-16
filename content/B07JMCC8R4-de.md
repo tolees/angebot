@@ -5,7 +5,7 @@ date: 2020-02-10 16:14:51
 image: 'https://m.media-amazon.com/images/I/51unT8VsNfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMCC8R4-de Playmobil 70098 Magic Meerjungfrau mit Schneckengondel bunt'
 sku: 'B07JMCC8R4-de'
 tags: [  ]

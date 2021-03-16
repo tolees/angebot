@@ -5,7 +5,7 @@ date: 2020-03-30 17:34:28
 image: 'https://m.media-amazon.com/images/I/4170tfuFG-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014VY6V1M-de HP LaserJet Enterprise M506x F2A70A Mono Laserdrucker...'
 sku: 'B014VY6V1M-de'
 tags: [  ]

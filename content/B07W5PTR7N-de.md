@@ -5,7 +5,7 @@ date: 2020-08-24 17:19:12
 image: 'https://m.media-amazon.com/images/I/51Tri7+4QKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5PTR7N-de LEGO 43170 - Vaianas Boot Disney Princess Bauset'
 sku: 'B07W5PTR7N-de'
 tags: [  ]

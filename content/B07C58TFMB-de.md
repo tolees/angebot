@@ -5,7 +5,7 @@ date: 2020-09-18 03:14:10
 image: 'https://m.media-amazon.com/images/I/31cGXmr5XGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C58TFMB-de Netgear GS752TPP 52-Port Gigabit Ethernet LAN PoE Switch...'
 sku: 'B07C58TFMB-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-28 08:20:02
 image: 'https://m.media-amazon.com/images/I/410t3Us22cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O8LANLI-de Onkyo CS-265 W CD HiFi Minisystem CD Player MP3 Radio 2 x...'
 sku: 'B00O8LANLI-de'
 tags: [  ]

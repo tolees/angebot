@@ -5,7 +5,7 @@ date: 2020-02-27 08:26:49
 image: 'https://m.media-amazon.com/images/I/41LQCmwLCuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005AUU0LO-de Magnat Needle Alu Super Center I 2-Wege Centerlautsprecher...'
 sku: 'B005AUU0LO-de'
 tags: [  ]

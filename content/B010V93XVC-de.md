@@ -5,7 +5,7 @@ date: 2020-04-15 15:46:51
 image: 'https://m.media-amazon.com/images/I/51HF1pbxWiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010V93XVC-de The Witcher 3: Wild Hunt - Game of the Year Edition -...'
 sku: 'B010V93XVC-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-14 07:27:29
 image: 'https://m.media-amazon.com/images/I/51pmXazaZzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HRRE050-de Sylvanian Families 5052 Supermarkt-Besitzer'
 sku: 'B00HRRE050-de'
 tags: [  ]

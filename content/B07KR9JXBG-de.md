@@ -5,7 +5,7 @@ date: 2020-04-11 09:17:35
 image: 'https://m.media-amazon.com/images/I/41imBiHuPPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KR9JXBG-de New Balance 624v5 Herren Hallenschuhe Weiß White/Navy...'
 sku: 'B07KR9JXBG-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-11 04:55:29
 image: 'https://m.media-amazon.com/images/I/51y32yNlZvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QF6BJH9-de Autowerkstatt Simulator [Playstation 4]'
 sku: 'B07QF6BJH9-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-13 07:44:46
 image: 'https://m.media-amazon.com/images/I/31cmg59l1WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N10LJN9-de Funko 12921-PDQ POP Schlüsselanhänger Figur: Rick & Morty:...'
 sku: 'B01N10LJN9-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-10 00:05:26
 image: 'https://m.media-amazon.com/images/I/51+XjQ0wBfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000TAHD3I-de Flipper'
 sku: 'B000TAHD3I-de'
 tags: [  ]

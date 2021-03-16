@@ -5,7 +5,7 @@ date: 2020-04-08 05:29:48
 image: 'https://m.media-amazon.com/images/I/41ekIRJj4RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XQRPH1B-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Das...'
 sku: 'B07XQRPH1B-de'
 tags: [  ]

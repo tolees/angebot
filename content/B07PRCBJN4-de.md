@@ -5,7 +5,7 @@ date: 2020-04-14 16:11:18
 image: 'https://m.media-amazon.com/images/I/41k7vGKKQRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRCBJN4-de Kipling Damen Osyka Umhängetasche Pink Metallic Rose Gift...'
 sku: 'B07PRCBJN4-de'
 tags: [  ]

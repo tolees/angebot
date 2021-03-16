@@ -5,7 +5,7 @@ date: 2020-08-10 14:52:33
 image: 'https://m.media-amazon.com/images/I/41aYXPwdL+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KC5AH7S-de Bluetooth Kopfhörer In Ear Bluetooth 5.0 Kabellos Wireless...'
 sku: 'B01KC5AH7S-de'
 tags: [  ]

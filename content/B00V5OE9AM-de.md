@@ -5,7 +5,7 @@ date: 2020-10-01 05:53:21
 image: 'https://m.media-amazon.com/images/I/41zuuFlWDzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V5OE9AM-de Complete Studio Album Limited Coloured LP-Box [Vinyl LP]'
 sku: 'B00V5OE9AM-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-26 04:40:47
 image: 'https://m.media-amazon.com/images/I/41ytoYs3ZzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005G3Q1ZY-de Tefal Talent Pro E44040 Grillpfanne 26 cm...'
 sku: 'B005G3Q1ZY-de'
 tags: [  ]

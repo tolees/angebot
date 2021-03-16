@@ -5,7 +5,7 @@ date: 2020-03-16 09:22:40
 image: 'https://m.media-amazon.com/images/I/41Ppl8zT5xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074VF1BW9-de Sony WH-H900N High-Resolution Kopfhörer Kabelloser Noise...'
 sku: 'B074VF1BW9-de'
 tags: [  ]

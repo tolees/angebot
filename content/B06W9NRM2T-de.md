@@ -5,7 +5,7 @@ date: 2020-04-06 21:04:30
 image: 'https://m.media-amazon.com/images/I/519WF48AruL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W9NRM2T-de Clementoni 59031 Galileo-Evolution Roboter'
 sku: 'B06W9NRM2T-de'
 tags: [  ]

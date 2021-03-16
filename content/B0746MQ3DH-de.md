@@ -5,7 +5,7 @@ date: 2020-04-07 21:48:35
 image: 'https://m.media-amazon.com/images/I/51hOqcv3kZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0746MQ3DH-de Pegasus Spiele 18324G - Memoarrr Edition Spielwiese'
 sku: 'B0746MQ3DH-de'
 tags: [  ]

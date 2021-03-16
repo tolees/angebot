@@ -5,7 +5,7 @@ date: 2020-09-26 22:49:18
 image: 'https://m.media-amazon.com/images/I/61jmUmUn3SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077VB1S1W-de Beloved Antichrist'
 sku: 'B077VB1S1W-de'
 tags: [  ]

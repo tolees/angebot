@@ -5,7 +5,7 @@ date: 2020-09-28 06:27:58
 image: 'https://m.media-amazon.com/images/I/41DMKy32u2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0116LHQMQ-de CASCHA Sopran Ukulele Set für Kinder und Erwachsene I...'
 sku: 'B0116LHQMQ-de'
 tags: [  ]

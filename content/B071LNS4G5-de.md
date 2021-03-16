@@ -5,7 +5,7 @@ date: 2020-10-05 11:36:41
 image: 'https://m.media-amazon.com/images/I/31752SXzaKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071LNS4G5-de Dove Men+Care Duschgel für erfrischende Reinigung Clean...'
 sku: 'B071LNS4G5-de'
 tags: [  ]

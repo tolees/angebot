@@ -5,7 +5,7 @@ date: 2020-04-10 15:54:57
 image: 'https://m.media-amazon.com/images/I/41D3mO7XbpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085TDYZQX-de GVFTG La Cocina Spanisch Zitate Wandtattoo Kunst...'
 sku: 'B085TDYZQX-de'
 tags: [  ]

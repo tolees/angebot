@@ -5,7 +5,7 @@ date: 2020-09-23 17:35:27
 image: 'https://m.media-amazon.com/images/I/61I-0HbtlDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072LWV8KH-de Monuments'
 sku: 'B072LWV8KH-de'
 tags: [  ]

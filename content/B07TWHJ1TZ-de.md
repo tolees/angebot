@@ -5,7 +5,7 @@ date: 2020-04-10 00:06:11
 image: 'https://m.media-amazon.com/images/I/41VSnm3ZnfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWHJ1TZ-de Pop Guild Wars 2 Joko Vinyl Figure'
 sku: 'B07TWHJ1TZ-de'
 tags: [  ]

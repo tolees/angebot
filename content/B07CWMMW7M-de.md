@@ -5,7 +5,7 @@ date: 2020-04-14 08:01:00
 image: 'https://m.media-amazon.com/images/I/41cs6nIGcUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CWMMW7M-de Fdit 2er Universal Gasherd Herd Knopf Teil für...'
 sku: 'B07CWMMW7M-de'
 tags: [  ]

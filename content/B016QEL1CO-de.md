@@ -5,7 +5,7 @@ date: 2020-09-24 07:53:33
 image: 'https://m.media-amazon.com/images/I/414CyB5k5XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016QEL1CO-de Italian Fashion IF Damen Schlafanzug 194R 0223 Schwarz S'
 sku: 'B016QEL1CO-de'
 tags: [  ]

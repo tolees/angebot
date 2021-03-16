@@ -5,7 +5,7 @@ date: 2020-03-23 05:05:13
 image: 'https://m.media-amazon.com/images/I/51HcIJ0qQxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009O8OTBU-de Lindt & Sprüngli Alpenmilch Mini Eier 3er Pack 3 x 100 g'
 sku: 'B009O8OTBU-de'
 tags: [  ]

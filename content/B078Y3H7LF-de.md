@@ -5,7 +5,7 @@ date: 2020-09-14 11:47:44
 image: 'https://m.media-amazon.com/images/I/51Vyx4pRgLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078Y3H7LF-de Remington Barttrimmer Herren Lithium mit abnehmbarer...'
 sku: 'B078Y3H7LF-de'
 tags: [  ]

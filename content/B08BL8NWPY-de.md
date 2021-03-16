@@ -5,7 +5,7 @@ date: 2020-08-09 17:57:29
 image: 'https://m.media-amazon.com/images/I/51gNtx2diuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BL8NWPY-de Bluetooth Kopfhörer Kabellose Kopfhörer mit Premium...'
 sku: 'B08BL8NWPY-de'
 tags: [  ]

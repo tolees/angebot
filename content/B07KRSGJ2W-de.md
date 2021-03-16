@@ -5,7 +5,7 @@ date: 2020-01-22 08:38:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hy-ubugLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRSGJ2W-de Rollei Actioncam 560 Touch - WiFi Action-Cam wasserdicht...'
 sku: 'B07KRSGJ2W-de'
 tags: [  ]

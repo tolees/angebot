@@ -5,7 +5,7 @@ date: 2020-08-24 04:40:19
 image: 'https://m.media-amazon.com/images/I/51Gz1aLvgkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMDF69G-de Samsung RU7179 147 cm 58 Zoll LED Fernseher Ultra HD HDR...'
 sku: 'B07PMDF69G-de'
 tags: [  ]

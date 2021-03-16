@@ -5,7 +5,7 @@ date: 2020-01-31 05:20:55
 image: 'https://m.media-amazon.com/images/I/51+w2cOey+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YTC4MCH-de Immer Ärger mit Sergeant Bilko [Blu-ray]'
 sku: 'B07YTC4MCH-de'
 tags: [  ]

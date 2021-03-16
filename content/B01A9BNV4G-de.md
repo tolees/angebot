@@ -5,7 +5,7 @@ date: 2020-04-13 00:06:41
 image: 'https://m.media-amazon.com/images/I/61foA7qmwgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01A9BNV4G-de Ravensburger Memory 21204 - Fireman Sam Mein erstes Memory'
 sku: 'B01A9BNV4G-de'
 tags: [  ]

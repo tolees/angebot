@@ -5,7 +5,7 @@ date: 2020-03-12 14:59:28
 image: 'https://m.media-amazon.com/images/I/41rSFNogTgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J37YHD2-de Under Armour Undeniable Duffel 4.0 geräumige Sporttasche...'
 sku: 'B07J37YHD2-de'
 tags: [  ]

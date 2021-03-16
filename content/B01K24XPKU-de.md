@@ -5,7 +5,7 @@ date: 2020-02-16 16:08:26
 image: 'https://m.media-amazon.com/images/I/41PqvKyYqbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K24XPKU-de Acer Predator Z301C 75cm 29 5 Zoll Full HD Curved Gaming...'
 sku: 'B01K24XPKU-de'
 tags: [  ]

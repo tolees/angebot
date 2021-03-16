@@ -5,7 +5,7 @@ date: 2020-04-25 09:46:35
 image: 'https://m.media-amazon.com/images/I/41ZvP77zdUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082DW2QN1-de KKTICK AirPods Pro Silikon Hülle Tragbares Schutzhülle mit...'
 sku: 'B082DW2QN1-de'
 tags: [  ]

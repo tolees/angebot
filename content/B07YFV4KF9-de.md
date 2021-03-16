@@ -5,7 +5,7 @@ date: 2020-07-24 18:03:40
 image: 'https://m.media-amazon.com/images/I/515B94wWwuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFV4KF9-de Ztotops Tasche Kompatibel für Nintendo Switch Lite mit...'
 sku: 'B07YFV4KF9-de'
 tags: [  ]

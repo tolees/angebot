@@ -5,7 +5,7 @@ date: 2020-01-23 12:17:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41JWUhj87zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF61ZJQ-de Levi s Herren Tapered Fit Jeans 502 Regular Taper Blau...'
 sku: 'B07KF61ZJQ-de'
 tags: [  ]

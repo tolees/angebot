@@ -5,7 +5,7 @@ date: 2020-03-10 04:43:37
 image: 'https://m.media-amazon.com/images/I/41vhB0awuhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004SGFPDY-de BECO Badeschuhe / Surfschuhe für Damen und Herren schwarz 45'
 sku: 'B004SGFPDY-de'
 tags: [  ]

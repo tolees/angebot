@@ -5,7 +5,7 @@ date: 2020-04-07 21:31:45
 image: 'https://m.media-amazon.com/images/I/51lDU92n7xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCL61QL-de Funko 13431 Minions POP Vinylfigur: Despicable Me 3: Kyle...'
 sku: 'B06XCL61QL-de'
 tags: [  ]

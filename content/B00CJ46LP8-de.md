@@ -5,7 +5,7 @@ date: 2020-01-29 20:02:51
 image: 'https://m.media-amazon.com/images/I/410O85b+b2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CJ46LP8-de Jamara 403071 - BMW M3 Sport 1:14 schwarz'
 sku: 'B00CJ46LP8-de'
 tags: [  ]

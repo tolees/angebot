@@ -5,7 +5,7 @@ date: 2020-03-30 04:57:01
 image: 'https://m.media-amazon.com/images/I/51JIh9U3O6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GVJYMQZ-de VATOS Ferngesteuertes Auto RC Off-Road Buggy Auto 1:16...'
 sku: 'B07GVJYMQZ-de'
 tags: [  ]

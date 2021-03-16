@@ -5,7 +5,7 @@ date: 2020-03-21 04:56:32
 image: 'https://m.media-amazon.com/images/I/41FWX8+qb3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DSULGAQ-de VAUDE Men s Escape Light Jacke Blau Blau Eclipse Large...'
 sku: 'B01DSULGAQ-de'
 tags: [  ]

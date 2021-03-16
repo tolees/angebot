@@ -5,7 +5,7 @@ date: 2020-01-10 08:39:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ESXxFacBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071J8CGMC-de Garmin VIRB 360 - wasserdichte 360-Grad-Kamera mit GPS und...'
 sku: 'B071J8CGMC-de'
 tags: [  ]

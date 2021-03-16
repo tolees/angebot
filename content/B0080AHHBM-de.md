@@ -5,7 +5,7 @@ date: 2020-04-07 21:41:42
 image: 'https://m.media-amazon.com/images/I/51zyLTkZ7VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0080AHHBM-de B. Toys 44123 - Wheeeee-Is Kinderauto'
 sku: 'B0080AHHBM-de'
 tags: [  ]

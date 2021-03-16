@@ -5,7 +5,7 @@ date: 2020-03-26 20:28:42
 image: 'https://m.media-amazon.com/images/I/51Em0mCa0QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B7IO72Q-de Rasch Tapeten 226751 Kollektion Kids & Teens II silber'
 sku: 'B00B7IO72Q-de'
 tags: [  ]

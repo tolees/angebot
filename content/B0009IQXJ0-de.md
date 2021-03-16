@@ -5,7 +5,7 @@ date: 2020-07-14 12:48:40
 image: 'https://m.media-amazon.com/images/I/41fMrbP4jNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0009IQXJ0-de Meguiar s G7516EU Endurance High Gloss Tyre Gel...'
 sku: 'B0009IQXJ0-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-18 11:58:08
 image: 'https://m.media-amazon.com/images/I/41nyLcn4nAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YPY8C7C-de JVC HA-A10T-BU Truly Wireless In-Ear Bluetooth Kopfhörer...'
 sku: 'B07YPY8C7C-de'
 tags: [  ]

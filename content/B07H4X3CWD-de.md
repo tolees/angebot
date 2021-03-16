@@ -5,7 +5,7 @@ date: 2020-01-09 14:17:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417VutL-WrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H4X3CWD-de Huawei Band 3 Pro Fitness-Aktivitätstracker All-in-One...'
 sku: 'B07H4X3CWD-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-24 13:07:40
 image: 'https://m.media-amazon.com/images/I/41uVxRJXd-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GRSQB78-de JOMARTO Smart LED Lampe WIFI Lampe E27 9W 800LM Smart...'
 sku: 'B07GRSQB78-de'
 tags: [  ]

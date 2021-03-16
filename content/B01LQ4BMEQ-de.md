@@ -5,7 +5,7 @@ date: 2020-07-10 18:34:09
 image: 'https://m.media-amazon.com/images/I/51jvxYXobaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LQ4BMEQ-de Razer Ornata Chroma - Mecha-Membrane Gaming Keyboard...'
 sku: 'B01LQ4BMEQ-de'
 tags: [  ]

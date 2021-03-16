@@ -5,7 +5,7 @@ date: 2020-08-28 05:23:34
 image: 'https://m.media-amazon.com/images/I/31exoJQEV3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZZWT9G-de ONLY NOS Damen Onlroyal Hw Sk White Noos Skinny Jeans Weiß...'
 sku: 'B07NZZWT9G-de'
 tags: [  ]

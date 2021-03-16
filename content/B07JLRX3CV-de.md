@@ -5,7 +5,7 @@ date: 2020-04-07 13:22:13
 image: 'https://m.media-amazon.com/images/I/61yITpC+dVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLRX3CV-de PLAYMOBIL Family Fun 70091 Sportboot mit Fun-Reifen Ab 4...'
 sku: 'B07JLRX3CV-de'
 tags: [  ]

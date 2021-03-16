@@ -5,7 +5,7 @@ date: 2020-09-13 07:00:01
 image: 'https://m.media-amazon.com/images/I/31bpF0BN82L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JY1B7PL-de JACK & JONES Herren Slim Fit Jeans Glenn ORIGINAL AM 814...'
 sku: 'B07JY1B7PL-de'
 tags: [  ]

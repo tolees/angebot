@@ -5,7 +5,7 @@ date: 2020-02-01 03:44:17
 image: 'https://m.media-amazon.com/images/I/41AB-MtKaHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CAE8PM4-de Rode Rycote Edition VideoMic Line Gradient Polar Pattern'
 sku: 'B00CAE8PM4-de'
 tags: [  ]

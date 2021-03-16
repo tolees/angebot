@@ -5,7 +5,7 @@ date: 2020-02-20 19:43:12
 image: 'https://m.media-amazon.com/images/I/41vwsJqpCOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HHS6PK9-de Rollei Vintage Fototasche / Everyday Messenger Bag /...'
 sku: 'B07HHS6PK9-de'
 tags: [  ]

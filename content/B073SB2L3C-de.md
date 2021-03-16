@@ -5,7 +5,7 @@ date: 2020-03-17 13:43:01
 image: 'https://m.media-amazon.com/images/I/41ML8ZbPiiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073SB2L3C-de SanDisk Ultra 64GB microSDXC Speicherkarte + Adapter bis...'
 sku: 'B073SB2L3C-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-24 10:47:59
 image: 'https://m.media-amazon.com/images/I/61WLq40Xj5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCNMW9W-de OSOYOO Starter Kit for BBC Micro:bit | Early STEM...'
 sku: 'B07XCNMW9W-de'
 tags: [  ]

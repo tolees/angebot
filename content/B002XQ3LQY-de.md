@@ -5,7 +5,7 @@ date: 2020-04-11 16:03:06
 image: 'https://m.media-amazon.com/images/I/41-36EQqt-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002XQ3LQY-de Rosti Mepal Vorratsdose Modula Starterset 5-teilig'
 sku: 'B002XQ3LQY-de'
 tags: [  ]

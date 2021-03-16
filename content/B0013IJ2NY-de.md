@@ -5,7 +5,7 @@ date: 2020-04-09 15:26:49
 image: 'https://m.media-amazon.com/images/I/5144oQpaUCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0013IJ2NY-de Troja Director s Cut [Blu-ray]'
 sku: 'B0013IJ2NY-de'
 tags: [  ]

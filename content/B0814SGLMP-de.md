@@ -5,7 +5,7 @@ date: 2020-04-14 23:56:28
 image: 'https://m.media-amazon.com/images/I/41HJLRTHKAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814SGLMP-de Elfcraft Lederarmband Herren Armband Meteorite Schwarz mit...'
 sku: 'B0814SGLMP-de'
 tags: [  ]

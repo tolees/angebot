@@ -5,7 +5,7 @@ date: 2020-01-01 22:48:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31o5rZwptxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q3ZQW7Y-de licaso Jutebeutel Bedruckt Love Liebe L O V E Print in...'
 sku: 'B07Q3ZQW7Y-de'
 tags: [  ]

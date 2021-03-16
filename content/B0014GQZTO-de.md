@@ -5,7 +5,7 @@ date: 2020-10-05 11:36:07
 image: 'https://m.media-amazon.com/images/I/31wn66vQ8fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0014GQZTO-de Bosch Professional Diamant-Dosensenker mit Power-Change-...'
 sku: 'B0014GQZTO-de'
 tags: [  ]

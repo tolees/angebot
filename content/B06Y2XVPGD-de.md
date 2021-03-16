@@ -5,7 +5,7 @@ date: 2020-04-13 15:31:44
 image: 'https://m.media-amazon.com/images/I/41fzbDkTKwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2XVPGD-de New Balance Herren 574v2 Core Sneaker Rot Burgundy 45 EU'
 sku: 'B06Y2XVPGD-de'
 tags: [  ]

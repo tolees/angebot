@@ -5,7 +5,7 @@ date: 2020-01-25 09:38:49
 image: 'https://m.media-amazon.com/images/I/41S+kfyNTrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FLS3N9U-de Funko 39827 POP Vinyl: Football-Neymar da Silva Santos Jr....'
 sku: 'B01FLS3N9U-de'
 tags: [  ]

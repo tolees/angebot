@@ -5,7 +5,7 @@ date: 2020-04-04 20:59:31
 image: 'https://m.media-amazon.com/images/I/41-YHfMcwsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZKKZXCX-de INPHIC Bluetooth-Maus Multi-Device Silent wiederaufladbare...'
 sku: 'B07ZKKZXCX-de'
 tags: [  ]

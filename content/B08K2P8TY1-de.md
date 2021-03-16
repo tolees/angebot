@@ -5,7 +5,7 @@ date: 2020-09-29 21:13:46
 image: 'https://m.media-amazon.com/images/I/41pj1myU12L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08K2P8TY1-de MAJOZ0 Beleuchtungsset für LEGO Architecture London...'
 sku: 'B08K2P8TY1-de'
 tags: [  ]

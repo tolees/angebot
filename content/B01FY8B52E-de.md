@@ -5,7 +5,7 @@ date: 2020-03-11 16:04:42
 image: 'https://m.media-amazon.com/images/I/31G5vqTvQLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FY8B52E-de Panasonic TY-ER3D6ME Aktive Bluetooth Shutterbrille...'
 sku: 'B01FY8B52E-de'
 tags: [  ]

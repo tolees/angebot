@@ -5,7 +5,7 @@ date: 2020-03-12 10:13:44
 image: 'https://m.media-amazon.com/images/I/41vLfYX64AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078VPCV74-de Sony Alpha 6300 E-Mount Systemkamera 24.2 Megapixel 7 5 cm...'
 sku: 'B078VPCV74-de'
 tags: [  ]

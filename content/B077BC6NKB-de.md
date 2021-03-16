@@ -5,7 +5,7 @@ date: 2020-04-14 16:09:17
 image: 'https://m.media-amazon.com/images/I/61TQi0mmR-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077BC6NKB-de Hasbro FurReal Friends E0497EU4 Frisierspaß Hündchen...'
 sku: 'B077BC6NKB-de'
 tags: [  ]

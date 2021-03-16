@@ -5,7 +5,7 @@ date: 2020-07-18 23:52:14
 image: 'https://m.media-amazon.com/images/I/41G4ZReA4fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CCCLR1J-de Hoseili Bluetooth Kopfhörer In Ear Kopfhörer Kabellos mit...'
 sku: 'B08CCCLR1J-de'
 tags: [  ]

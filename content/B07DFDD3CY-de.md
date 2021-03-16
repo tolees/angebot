@@ -5,7 +5,7 @@ date: 2020-04-14 23:58:36
 image: 'https://m.media-amazon.com/images/I/31rOcrRmaWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFDD3CY-de Funko 32221 Married w/Children: Peggy POP Vinylfigur Multi'
 sku: 'B07DFDD3CY-de'
 tags: [  ]

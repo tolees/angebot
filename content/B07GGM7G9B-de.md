@@ -5,7 +5,7 @@ date: 2020-01-20 16:30:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31sAYlKsDOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GGM7G9B-de ghd Platinum+ Styler weiß'
 sku: 'B07GGM7G9B-de'
 tags: [  ]

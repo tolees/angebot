@@ -5,7 +5,7 @@ date: 2020-05-10 13:28:00
 image: 'https://m.media-amazon.com/images/I/51SCWchFOjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPJPLWK-de LG OLED55C97LA 139 cm 55 Zoll OLED Fernseher OLED Dual...'
 sku: 'B07PPJPLWK-de'
 tags: [  ]

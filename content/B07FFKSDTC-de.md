@@ -5,7 +5,7 @@ date: 2020-02-17 05:05:20
 image: 'https://m.media-amazon.com/images/I/415Lqj9FqIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFKSDTC-de Logitech K600 Kabellose TV-Tastatur mit Touchpad & D-Pad...'
 sku: 'B07FFKSDTC-de'
 tags: [  ]

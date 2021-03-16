@@ -5,7 +5,7 @@ date: 2020-04-15 00:08:21
 image: 'https://m.media-amazon.com/images/I/41Ujl7bLJpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L72YFLS-de Ankermann Business Work Silent leise PC PC Intel CPU 2X...'
 sku: 'B07L72YFLS-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-18 06:15:43
 image: 'https://m.media-amazon.com/images/I/31JyxhbgqgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PHNXK84-de SAMSONITE Checkmate - Laptop Backpack - Double Pocket...'
 sku: 'B07PHNXK84-de'
 tags: [  ]

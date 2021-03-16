@@ -5,7 +5,7 @@ date: 2020-04-11 09:06:56
 image: 'https://m.media-amazon.com/images/I/31Jzm+RXi0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R5CB6HY-de Belkin Thunderbolt 3 Mini-Dock mit Integriertem...'
 sku: 'B07R5CB6HY-de'
 tags: [  ]

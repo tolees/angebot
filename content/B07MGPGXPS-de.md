@@ -5,7 +5,7 @@ date: 2020-02-05 11:08:46
 image: 'https://m.media-amazon.com/images/I/414mOvdWneL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGPGXPS-de Crucial Ballistix Sport LT BLS16G4D30AESE 3000 MHz DDR4...'
 sku: 'B07MGPGXPS-de'
 tags: [  ]

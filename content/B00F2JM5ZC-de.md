@@ -5,7 +5,7 @@ date: 2020-09-27 15:08:43
 image: 'https://m.media-amazon.com/images/I/41tnvjq8XiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F2JM5ZC-de Karlie Transportbox Nomad Größe M 68 x 51 x 47 cm'
 sku: 'B00F2JM5ZC-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 16:19:38
 image: 'https://m.media-amazon.com/images/I/41XiOsq1M4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQVW742-de deAO Kinderspielset Pretend Kitchen Sink mit simuliertem...'
 sku: 'B07VQVW742-de'
 tags: [  ]

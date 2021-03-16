@@ -5,7 +5,7 @@ date: 2020-09-13 06:59:55
 image: 'https://m.media-amazon.com/images/I/41W5Wnle2IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081JZTJCG-de Compo Bi 58 N gegen saugende und beißende Insekten an...'
 sku: 'B081JZTJCG-de'
 tags: [  ]

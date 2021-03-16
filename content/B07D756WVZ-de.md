@@ -5,7 +5,7 @@ date: 2020-02-26 09:27:05
 image: 'https://m.media-amazon.com/images/I/41i4Fp3KaSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D756WVZ-de Levi s Damen 311 Shaping Skinny-60% Baumwolle 17% Lyocell...'
 sku: 'B07D756WVZ-de'
 tags: [  ]

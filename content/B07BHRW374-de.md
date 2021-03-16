@@ -5,7 +5,7 @@ date: 2020-02-14 20:18:02
 image: 'https://m.media-amazon.com/images/I/51IQUKUFgwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHRW374-de Hisense H55U7A 138 cm 55 Zoll Fernseher Ultra HD HDR Plus...'
 sku: 'B07BHRW374-de'
 tags: [  ]

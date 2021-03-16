@@ -5,7 +5,7 @@ date: 2020-04-16 18:35:49
 image: 'https://m.media-amazon.com/images/I/41DaKAEnDYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XJ4S3Y8-de OnePlus 7T Smartphone Frosted Silver | 8 GB RAM + 128 GB...'
 sku: 'B07XJ4S3Y8-de'
 tags: [  ]

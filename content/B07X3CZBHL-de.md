@@ -5,7 +5,7 @@ date: 2020-08-25 06:16:43
 image: 'https://m.media-amazon.com/images/I/41Fi73zWZFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X3CZBHL-de Zigma Spark Saugroboter Staubsauger Roboter mit...'
 sku: 'B07X3CZBHL-de'
 tags: [  ]

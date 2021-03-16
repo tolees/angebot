@@ -5,7 +5,7 @@ date: 2020-09-26 15:43:24
 image: 'https://m.media-amazon.com/images/I/51XFznUWVkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QQHM5SQ-de The Space Between the Shadows'
 sku: 'B07QQHM5SQ-de'
 tags: [  ]

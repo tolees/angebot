@@ -5,7 +5,7 @@ date: 2020-04-14 16:43:03
 image: 'https://m.media-amazon.com/images/I/51HxHO2w60L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0784WYXCL-de Navitech schwarz Gehäuse für APEMAN Mini Car Camera Dash...'
 sku: 'B0784WYXCL-de'
 tags: [  ]

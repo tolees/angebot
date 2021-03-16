@@ -5,7 +5,7 @@ date: 2020-04-16 08:34:26
 image: 'https://m.media-amazon.com/images/I/41VYsSsMa-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HD2JGWS-de Mattel GGX27 - Toy Story 4 Bunny 17 cm Spielzeug...'
 sku: 'B07HD2JGWS-de'
 tags: [  ]

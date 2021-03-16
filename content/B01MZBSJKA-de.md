@@ -5,7 +5,7 @@ date: 2020-01-27 04:41:46
 image: 'https://m.media-amazon.com/images/I/517evVaVCeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZBSJKA-de The Afterlove'
 sku: 'B01MZBSJKA-de'
 tags: [  ]

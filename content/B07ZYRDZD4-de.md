@@ -5,7 +5,7 @@ date: 2020-04-18 00:52:51
 image: 'https://m.media-amazon.com/images/I/51Ig0z3QnEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZYRDZD4-de FATO. Frühling Gartenpuppenstuben Spielset Werkzeuge mit...'
 sku: 'B07ZYRDZD4-de'
 tags: [  ]

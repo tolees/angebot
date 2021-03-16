@@ -5,7 +5,7 @@ date: 2020-04-15 23:33:53
 image: 'https://m.media-amazon.com/images/I/41yfaXb2vKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085VTM5GP-de Dasket 6pcs / Set V-Form-Durchschlag für Nähen Form Punch-...'
 sku: 'B085VTM5GP-de'
 tags: [  ]

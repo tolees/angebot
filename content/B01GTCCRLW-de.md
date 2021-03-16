@@ -5,7 +5,7 @@ date: 2020-09-14 06:55:24
 image: 'https://m.media-amazon.com/images/I/31Edsc4JfHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GTCCRLW-de flexi New NEON S Gurt 5 m schwarz für Hunde bis 15 kg'
 sku: 'B01GTCCRLW-de'
 tags: [  ]

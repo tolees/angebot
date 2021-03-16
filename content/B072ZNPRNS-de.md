@@ -5,7 +5,7 @@ date: 2020-09-23 17:36:26
 image: 'https://m.media-amazon.com/images/I/51xGPRyR0RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072ZNPRNS-de Transformers 5 - The Last Knight + Blu-ray + Bonus-Disc'
 sku: 'B072ZNPRNS-de'
 tags: [  ]

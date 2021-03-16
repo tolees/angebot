@@ -5,7 +5,7 @@ date: 2020-03-05 15:32:24
 image: 'https://m.media-amazon.com/images/I/31uUPVaWC5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G8R9BPN-de BOSE Lautsprecher Bass Module 500 Schwarz'
 sku: 'B07G8R9BPN-de'
 tags: [  ]

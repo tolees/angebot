@@ -5,7 +5,7 @@ date: 2020-01-29 08:25:53
 image: 'https://m.media-amazon.com/images/I/41xXDY+XEJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GC6PFYD-de Plantronics APU-76 EHS Modul für Mitel/Cisco/Softphones/PC...'
 sku: 'B07GC6PFYD-de'
 tags: [  ]

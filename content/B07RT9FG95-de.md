@@ -5,7 +5,7 @@ date: 2020-05-10 10:15:46
 image: 'https://m.media-amazon.com/images/I/51g9zZjtheL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RT9FG95-de Externe DVD CD Laufwerke - iAmotus DVD Laufwerk USB 3.0...'
 sku: 'B07RT9FG95-de'
 tags: [  ]

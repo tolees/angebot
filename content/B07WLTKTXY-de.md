@@ -5,7 +5,7 @@ date: 2020-04-05 08:03:35
 image: 'https://m.media-amazon.com/images/I/41cm69HM4ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WLTKTXY-de Echo Dot 3. Gen. Intelligenter Lautsprecher mit Alexa Lila...'
 sku: 'B07WLTKTXY-de'
 tags: [  ]

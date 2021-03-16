@@ -5,7 +5,7 @@ date: 2020-10-04 08:52:50
 image: 'https://m.media-amazon.com/images/I/31Tq2-OgJbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002OL2LL4-de Mannesmann Pneumatischer Türschließer weiß M41115'
 sku: 'B002OL2LL4-de'
 tags: [  ]

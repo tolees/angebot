@@ -5,7 +5,7 @@ date: 2020-04-18 00:12:57
 image: 'https://m.media-amazon.com/images/I/51PYOX5fNvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0798DJHGY-de Hasbro FurReal E0418EU4 - Cara mein kuscheliges Kätzchen...'
 sku: 'B0798DJHGY-de'
 tags: [  ]

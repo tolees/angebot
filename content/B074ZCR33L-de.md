@@ -5,7 +5,7 @@ date: 2020-03-18 12:33:26
 image: 'https://m.media-amazon.com/images/I/41JIWGrXv3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074ZCR33L-de Hauck Runner Dreirad Jogger Buggy bis 25 kg mit...'
 sku: 'B074ZCR33L-de'
 tags: [  ]

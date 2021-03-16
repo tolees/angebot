@@ -5,7 +5,7 @@ date: 2020-04-11 18:53:15
 image: 'https://m.media-amazon.com/images/I/41Q0YtEU-gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PHMDF8D-de Huawei Watch GT Active Smartwatch 46 mm Amoled Touchscreen...'
 sku: 'B07PHMDF8D-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-18 17:10:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31YMzl%2B6LmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078T8Q3MR-de COLUMBIA Mädchen Wanderschuhe Wasserdicht YOUTH MINX MID...'
 sku: 'B078T8Q3MR-de'
 tags: [  ]

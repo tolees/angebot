@@ -5,7 +5,7 @@ date: 2020-02-18 14:38:14
 image: 'https://m.media-amazon.com/images/I/41NDV0AAuxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0154B0GWG-de Linksys WRT1900ACS-EU Wireless AC1900 Open Source Router...'
 sku: 'B0154B0GWG-de'
 tags: [  ]

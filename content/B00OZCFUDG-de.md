@@ -5,7 +5,7 @@ date: 2020-09-21 14:50:43
 image: 'https://m.media-amazon.com/images/I/31IwbRvupvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OZCFUDG-de Netgear GS752TX 52-Port Gigabit/10G Stackable LAN Switch...'
 sku: 'B00OZCFUDG-de'
 tags: [  ]

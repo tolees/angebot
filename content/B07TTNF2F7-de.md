@@ -5,7 +5,7 @@ date: 2020-04-08 05:29:43
 image: 'https://m.media-amazon.com/images/I/41abc2RKv6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTNF2F7-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Y-Wing...'
 sku: 'B07TTNF2F7-de'
 tags: [  ]

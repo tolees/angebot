@@ -5,7 +5,7 @@ date: 2020-03-21 04:54:39
 image: 'https://m.media-amazon.com/images/I/31yHUue7MOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IEP289Y-de SIRUI ET-2204/E-20 Easy Traveler Dreibeinstativ mit E-20...'
 sku: 'B00IEP289Y-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-14 14:51:11
 image: 'https://m.media-amazon.com/images/I/41+17mEYqyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MT1CHE2-de Huawei Mate 9 14 9 cm 5 9 Zoll 64GB 12 Megapixel Kamera...'
 sku: 'B01MT1CHE2-de'
 tags: [  ]

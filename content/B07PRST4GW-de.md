@@ -5,7 +5,7 @@ date: 2020-02-28 19:22:30
 image: 'https://m.media-amazon.com/images/I/51WLW4JCocL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRST4GW-de T98 Airpods Case Metall 2019 Neuestes AirPods Hülle Mit...'
 sku: 'B07PRST4GW-de'
 tags: [  ]

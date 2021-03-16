@@ -5,7 +5,7 @@ date: 2020-03-19 21:05:14
 image: 'https://m.media-amazon.com/images/I/51eobqtqo6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PKZ9GBD-de FRANZIS VW Bulli T1 Adventskalender 2019 In 24 Schritten...'
 sku: 'B07PKZ9GBD-de'
 tags: [  ]

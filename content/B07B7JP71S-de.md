@@ -5,7 +5,7 @@ date: 2020-08-18 15:03:53
 image: 'https://m.media-amazon.com/images/I/41viaYKgQ9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B7JP71S-de New bee Bluetooth Headset Wireless Freisprech Telefon 5.0...'
 sku: 'B07B7JP71S-de'
 tags: [  ]

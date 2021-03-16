@@ -5,7 +5,7 @@ date: 2020-09-22 07:01:56
 image: 'https://m.media-amazon.com/images/I/41Esz8t+uOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XXGFF14-de New Balance Damen 574v2 Core Sneaker Grau Grey 40 EU'
 sku: 'B06XXGFF14-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-25 20:00:19
 image: 'https://m.media-amazon.com/images/I/51wkXpLgpDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MD0RWD6-de Stranger Things Funko Pop! Vinyl Figur Demogorgon 9cm aus...'
 sku: 'B01MD0RWD6-de'
 tags: [  ]

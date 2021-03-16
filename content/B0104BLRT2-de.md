@@ -5,7 +5,7 @@ date: 2020-04-16 18:01:02
 image: 'https://m.media-amazon.com/images/I/51cdfzdAlSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0104BLRT2-de Sylvanian Families 5220 Einrichtungsset für Starter Haus...'
 sku: 'B0104BLRT2-de'
 tags: [  ]

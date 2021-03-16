@@ -5,7 +5,7 @@ date: 2020-04-11 16:13:52
 image: 'https://m.media-amazon.com/images/I/41jhMPx-3HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XX7TNVZ-de Premium Messerschärfer Schleifstein Körnung 1000/6000....'
 sku: 'B06XX7TNVZ-de'
 tags: [  ]

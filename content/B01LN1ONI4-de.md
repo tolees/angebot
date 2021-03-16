@@ -5,7 +5,7 @@ date: 2020-05-01 06:26:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51A9KuA5JwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LN1ONI4-de LG 34UC79G-B 86 36 cm 34 Zoll Curved 21:9 UltraWideTM Full...'
 sku: 'B01LN1ONI4-de'
 tags: [  ]

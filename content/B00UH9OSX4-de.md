@@ -5,7 +5,7 @@ date: 2020-02-26 22:14:34
 image: 'https://m.media-amazon.com/images/I/41+-akxgepL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UH9OSX4-de Bose ® Companion 50 Multimedia Lautsprechersystem schwarz'
 sku: 'B00UH9OSX4-de'
 tags: [  ]

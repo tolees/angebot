@@ -5,7 +5,7 @@ date: 2020-01-19 11:17:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41EMfiUoyZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GCYYTXY-de W.2 Fiber Carbon Cube - verbesserte Version - nur 73 g -...'
 sku: 'B07GCYYTXY-de'
 tags: [  ]

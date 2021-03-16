@@ -5,7 +5,7 @@ date: 2020-03-02 17:17:57
 image: 'https://m.media-amazon.com/images/I/31cBwCcbSnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GGFXKJ2-de ghd platinum+ Styler professionelles Glätteisen mit...'
 sku: 'B07GGFXKJ2-de'
 tags: [  ]

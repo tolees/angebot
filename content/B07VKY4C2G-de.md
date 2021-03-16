@@ -5,7 +5,7 @@ date: 2020-09-29 08:42:59
 image: 'https://m.media-amazon.com/images/I/41M+gUH7bjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKY4C2G-de Ariel Color Flüssigwaschmittel Farbschutz 2 2 l 1er Pack 1...'
 sku: 'B07VKY4C2G-de'
 tags: [  ]

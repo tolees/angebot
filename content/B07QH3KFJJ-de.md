@@ -5,7 +5,7 @@ date: 2020-02-02 04:56:50
 image: 'https://m.media-amazon.com/images/I/31w5FM7p9tL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QH3KFJJ-de LG Magic Remote-Fernbedienung AN-MR19BA Schwarz'
 sku: 'B07QH3KFJJ-de'
 tags: [  ]

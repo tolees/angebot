@@ -5,7 +5,7 @@ date: 2020-01-20 04:36:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/519NLMh2bLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L90PW3O-de Kapsel-Adapter für Dolce Gusto® Maschinen'
 sku: 'B01L90PW3O-de'
 tags: [  ]

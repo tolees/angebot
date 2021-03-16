@@ -5,7 +5,7 @@ date: 2020-04-07 21:37:56
 image: 'https://m.media-amazon.com/images/I/51QsRs-LAuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S55NLMW-de FIFA 20 - Standard Edition - [PlayStation 4]'
 sku: 'B07S55NLMW-de'
 tags: [  ]

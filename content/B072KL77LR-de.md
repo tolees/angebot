@@ -5,7 +5,7 @@ date: 2020-02-29 03:58:46
 image: 'https://m.media-amazon.com/images/I/516eUXorlJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072KL77LR-de POP Rocks: Metallica - James Hetfield'
 sku: 'B072KL77LR-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-20 16:13:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31l25E8RG9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ45MNH-de Josamogre Astronauten Kostüm Erwachsene Herren Kostüm...'
 sku: 'B07TZ45MNH-de'
 tags: [  ]

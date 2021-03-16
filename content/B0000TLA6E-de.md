@@ -5,7 +5,7 @@ date: 2020-04-17 23:28:51
 image: 'https://m.media-amazon.com/images/I/417X5KNRFJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0000TLA6E-de Miss Marple Box 4 DVDs'
 sku: 'B0000TLA6E-de'
 tags: [  ]

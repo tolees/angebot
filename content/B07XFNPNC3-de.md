@@ -5,7 +5,7 @@ date: 2020-04-08 13:01:29
 image: 'https://m.media-amazon.com/images/I/4174fWnzDTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XFNPNC3-de Schrankleuchten mit Bewegungsmelder 78 LED USB...'
 sku: 'B07XFNPNC3-de'
 tags: [  ]

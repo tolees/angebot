@@ -5,7 +5,7 @@ date: 2020-08-15 00:04:50
 image: 'https://m.media-amazon.com/images/I/41B2MIRsNxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFXPSGD-de Sloggi Zero Feel Bralette EX BH Damen Weiß White 03 M'
 sku: 'B07LFXPSGD-de'
 tags: [  ]

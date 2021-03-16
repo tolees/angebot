@@ -5,7 +5,7 @@ date: 2020-03-16 14:30:34
 image: 'https://m.media-amazon.com/images/I/41fIhIQZDwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085CLKXHL-de PUMA Sportsocken Crew 18 Paar Pack Statement Edition -...'
 sku: 'B085CLKXHL-de'
 tags: [  ]

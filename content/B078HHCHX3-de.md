@@ -5,7 +5,7 @@ date: 2020-04-14 15:50:33
 image: 'https://m.media-amazon.com/images/I/41WBOmx1Q1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078HHCHX3-de Prime Herren Arbeitshose Herren Cargohose Army Twill Cargo...'
 sku: 'B078HHCHX3-de'
 tags: [  ]

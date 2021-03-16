@@ -5,7 +5,7 @@ date: 2020-02-18 11:07:52
 image: 'https://m.media-amazon.com/images/I/41ziD0QPWwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003UAESIC-de HTC - DC-M410 - Micro USB Data Cable - 1m - Universal > Black'
 sku: 'B003UAESIC-de'
 tags: [  ]

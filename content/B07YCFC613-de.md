@@ -5,7 +5,7 @@ date: 2020-08-16 23:38:11
 image: 'https://m.media-amazon.com/images/I/41HF24-F2ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YCFC613-de Roccat Vulcan 122 - Mechanische Gaming Tastatur AIMO LED...'
 sku: 'B07YCFC613-de'
 tags: [  ]

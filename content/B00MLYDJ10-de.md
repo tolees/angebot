@@ -5,7 +5,7 @@ date: 2020-04-22 07:11:03
 image: 'https://m.media-amazon.com/images/I/51z+5wRPr-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MLYDJ10-de Tommy Hilfiger Watches Herren-Armbanduhr Analog Quarz...'
 sku: 'B00MLYDJ10-de'
 tags: [  ]

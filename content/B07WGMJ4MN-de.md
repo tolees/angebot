@@ -5,7 +5,7 @@ date: 2020-03-06 11:05:57
 image: 'https://m.media-amazon.com/images/I/41KDRBJiuPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WGMJ4MN-de SEIKO Automatische Uhr SRPD81K1 schwarz Street'
 sku: 'B07WGMJ4MN-de'
 tags: [  ]

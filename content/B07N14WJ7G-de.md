@@ -5,7 +5,7 @@ date: 2020-03-03 04:56:36
 image: 'https://m.media-amazon.com/images/I/41SQZ3f4blL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N14WJ7G-de G-STAR RAW Herren 3301 Straight Jeans Blau Worker Blue...'
 sku: 'B07N14WJ7G-de'
 tags: [  ]

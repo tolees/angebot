@@ -5,7 +5,7 @@ date: 2020-06-03 14:13:58
 image: 'https://m.media-amazon.com/images/I/41FhaSx214L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKNG6JR-de Kaspersky Internet Security 2020 Standard | 3 Geräte | 1...'
 sku: 'B07TKNG6JR-de'
 tags: [  ]

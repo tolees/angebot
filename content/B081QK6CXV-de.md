@@ -5,7 +5,7 @@ date: 2020-01-15 13:53:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41jU19jSEHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081QK6CXV-de REHYPE Herren Longsleeve Oversize Langarm T-Shirt O-Neck...'
 sku: 'B081QK6CXV-de'
 tags: [  ]

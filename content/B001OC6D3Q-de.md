@@ -5,7 +5,7 @@ date: 2020-01-28 06:59:22
 image: 'https://m.media-amazon.com/images/I/41t7LW9yYSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001OC6D3Q-de HUDORA 14724 BigWheel 205-Das Original mit RX Pro...'
 sku: 'B001OC6D3Q-de'
 tags: [  ]

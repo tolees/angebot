@@ -5,7 +5,7 @@ date: 2020-08-24 04:41:19
 image: 'https://m.media-amazon.com/images/I/31UwmTp-NWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HTS4TPF-de Calvin Klein Damen Bikini 3PK Panties Schwarz Black 001 M'
 sku: 'B07HTS4TPF-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-02 09:08:22
 image: 'https://m.media-amazon.com/images/I/51O8ja6u46L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CS04JAC-de Trefl 31131 - Rahmen-Puzzle Mickey Mouse Auf dem Land 15...'
 sku: 'B00CS04JAC-de'
 tags: [  ]

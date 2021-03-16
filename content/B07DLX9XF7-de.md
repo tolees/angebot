@@ -5,7 +5,7 @@ date: 2020-02-24 19:37:31
 image: 'https://m.media-amazon.com/images/I/41UKqG8n6YL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DLX9XF7-de SAMSONITE PRO-DLX 5 - Spinner Tote for 15.6 Laptop - 3.3...'
 sku: 'B07DLX9XF7-de'
 tags: [  ]

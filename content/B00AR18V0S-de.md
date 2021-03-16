@@ -5,7 +5,7 @@ date: 2020-03-11 10:07:11
 image: 'https://m.media-amazon.com/images/I/41NCEsJRh5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AR18V0S-de The North Face Herren Parkajacke McMurdo tnf black S...'
 sku: 'B00AR18V0S-de'
 tags: [  ]

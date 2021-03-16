@@ -5,7 +5,7 @@ date: 2020-02-21 13:48:10
 image: 'https://m.media-amazon.com/images/I/51RlsWV2IIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00R7PSW38-de Citizen Herren Analog Quarz Uhr mit Plastik Armband...'
 sku: 'B00R7PSW38-de'
 tags: [  ]

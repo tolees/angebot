@@ -5,7 +5,7 @@ date: 2020-08-27 03:43:38
 image: 'https://m.media-amazon.com/images/I/51idGTV1kiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0798NW8KM-de Elegant Life Besteck 24-teilige Besteck Set aus Japan-...'
 sku: 'B0798NW8KM-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-13 06:23:34
 image: 'https://m.media-amazon.com/images/I/41URE6usE1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00S2AYQLO-de Nike Pro Patella Band 2.0 Patellaband Schwarz L-XL'
 sku: 'B00S2AYQLO-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-30 14:59:49
 image: 'https://m.media-amazon.com/images/I/41wy9JQrdKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JL73ZZD-de BenQ ZOWIE RL2460S 60 96 cm 24 Zoll Konsolen e-Sports...'
 sku: 'B07JL73ZZD-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 09:39:34
 image: 'https://m.media-amazon.com/images/I/41+40qRu8rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KLLX7MA-de Citizen Herren Chronograph Quartz Uhr mit Leder Armband...'
 sku: 'B01KLLX7MA-de'
 tags: [  ]

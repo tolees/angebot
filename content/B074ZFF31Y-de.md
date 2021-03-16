@@ -5,7 +5,7 @@ date: 2020-02-29 09:50:48
 image: 'https://m.media-amazon.com/images/I/41STuArgGlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074ZFF31Y-de De Longhi Nespresso EN 500.W Kaffeemaschine 1400 W 1 l 19...'
 sku: 'B074ZFF31Y-de'
 tags: [  ]

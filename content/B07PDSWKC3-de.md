@@ -5,7 +5,7 @@ date: 2020-05-31 11:27:04
 image: 'https://m.media-amazon.com/images/I/413Xa3igldL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDSWKC3-de HUAWEI Cover PU Case P30 Pro Schwarz'
 sku: 'B07PDSWKC3-de'
 tags: [  ]

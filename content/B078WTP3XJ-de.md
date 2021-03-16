@@ -5,7 +5,7 @@ date: 2020-05-08 18:27:25
 image: 'https://m.media-amazon.com/images/I/41fP91u8IXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WTP3XJ-de Sony Tragbare Bluetooth-Lautsprecher SRSXB31W.CE7 Weiß'
 sku: 'B078WTP3XJ-de'
 tags: [  ]

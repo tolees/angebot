@@ -5,7 +5,7 @@ date: 2020-02-06 04:58:28
 image: 'https://m.media-amazon.com/images/I/415xcCJqx2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y1RJFF-de BRITA Wasserfilter Style XL hellgrau inkl. 1 MAXTRA+...'
 sku: 'B077Y1RJFF-de'
 tags: [  ]

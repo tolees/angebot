@@ -5,7 +5,7 @@ date: 2020-01-16 09:11:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418n2374sDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C7A3W7S-de Sigma Mount Converter MC-11 für Global Vision Produkte mit...'
 sku: 'B01C7A3W7S-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 23:45:00
 image: 'https://m.media-amazon.com/images/I/41Ez1BN9pFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HLWQ8PG-de Flexfit Unisex Baseball Cap Wooly Combed Kappe ohne...'
 sku: 'B00HLWQ8PG-de'
 tags: [  ]

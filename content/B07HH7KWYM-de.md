@@ -5,7 +5,7 @@ date: 2020-06-04 18:38:52
 image: 'https://m.media-amazon.com/images/I/41gnD3ur0JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HH7KWYM-de Drohne mit Kamera 720P HD Drohne Faltbare mit WiFi FPV App...'
 sku: 'B07HH7KWYM-de'
 tags: [  ]

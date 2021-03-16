@@ -5,7 +5,7 @@ date: 2020-05-30 08:41:22
 image: 'https://m.media-amazon.com/images/I/41THLXJLDaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9K98LV-de Tommy Hilfiger Herren-Armbanduhr Denim'
 sku: 'B07B9K98LV-de'
 tags: [  ]

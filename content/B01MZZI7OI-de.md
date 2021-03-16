@@ -5,7 +5,7 @@ date: 2020-02-11 00:33:08
 image: 'https://m.media-amazon.com/images/I/4104P2EATkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZZI7OI-de BRITA Wasserfilter Marella weiß inkl. 3 MAXTRA+...'
 sku: 'B01MZZI7OI-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-23 21:27:19
 image: 'https://m.media-amazon.com/images/I/41SQR1c+-9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2KXM3S-de ECOVACS Robotics DEEBOT 600 Saugroboter – Staubsauger...'
 sku: 'B07F2KXM3S-de'
 tags: [  ]

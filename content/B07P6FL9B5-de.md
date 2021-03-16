@@ -5,7 +5,7 @@ date: 2020-04-11 08:14:27
 image: 'https://m.media-amazon.com/images/I/51zLr+mCGZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6FL9B5-de PLAYMOBIL Novelmore 70225 Wolfsgespann und Wasserkanone...'
 sku: 'B07P6FL9B5-de'
 tags: [  ]

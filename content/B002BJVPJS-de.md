@@ -5,7 +5,7 @@ date: 2020-02-01 05:03:16
 image: 'https://m.media-amazon.com/images/I/41kdxA6lT0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002BJVPJS-de Castrol POWER 1 RACING 4T 10W-40 4-Takt Motorrad Motorenöl 1L'
 sku: 'B002BJVPJS-de'
 tags: [  ]

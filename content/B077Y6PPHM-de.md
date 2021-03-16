@@ -5,7 +5,7 @@ date: 2020-09-11 08:27:56
 image: 'https://m.media-amazon.com/images/I/51qIamjqpQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y6PPHM-de Ravensburger Spielen und Lernen 24920 - Quips'
 sku: 'B077Y6PPHM-de'
 tags: [  ]

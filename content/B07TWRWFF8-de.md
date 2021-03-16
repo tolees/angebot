@@ -5,7 +5,7 @@ date: 2020-04-06 21:04:46
 image: 'https://m.media-amazon.com/images/I/51fh3GhoDPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWRWFF8-de BRIKSMAX Led Beleuchtungsset für Lego Technic Raupenlader...'
 sku: 'B07TWRWFF8-de'
 tags: [  ]

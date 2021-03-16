@@ -5,7 +5,7 @@ date: 2020-04-17 07:24:36
 image: 'https://m.media-amazon.com/images/I/41G95d58mEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPR9P74-de GANT Herren ORIGINAL Barstripe Heavy Rugger Poloshirt...'
 sku: 'B07KPR9P74-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-10 07:38:16
 image: 'https://m.media-amazon.com/images/I/51MHkA68GOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XGK8M73-de YIGII Handtuchhalter Ohne Bohren Handtuchring...'
 sku: 'B07XGK8M73-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-15 00:09:14
 image: 'https://m.media-amazon.com/images/I/51hMcy4G67L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A0DQGPA-de Clementoni 13405.2 - Memo Kompakt Minnie'
 sku: 'B00A0DQGPA-de'
 tags: [  ]

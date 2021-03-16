@@ -5,7 +5,7 @@ date: 2020-01-16 09:04:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41v%2BkyO9UYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E9U5PTI-de Dr. Oetker Backblech 3in1 mit Transporthaube Ofenblech zum...'
 sku: 'B00E9U5PTI-de'
 tags: [  ]

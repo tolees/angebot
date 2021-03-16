@@ -5,7 +5,7 @@ date: 2020-07-22 12:47:45
 image: 'https://m.media-amazon.com/images/I/51-aDzXjW9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M07Y8IR-de Bosch Professional Bohrhammer GBH 2-26 F 830 Watt...'
 sku: 'B01M07Y8IR-de'
 tags: [  ]

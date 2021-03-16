@@ -5,7 +5,7 @@ date: 2020-01-04 08:52:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41kgT8wdewL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B6V9HQD-de Salewa WS WILD HIKER MID GTX Damen Trekking- &...'
 sku: 'B07B6V9HQD-de'
 tags: [  ]

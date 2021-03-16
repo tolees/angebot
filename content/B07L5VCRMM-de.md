@@ -5,7 +5,7 @@ date: 2020-02-08 18:37:28
 image: 'https://m.media-amazon.com/images/I/51BDhFk0riL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L5VCRMM-de The Surge: Augmented Edition PS4'
 sku: 'B07L5VCRMM-de'
 tags: [  ]

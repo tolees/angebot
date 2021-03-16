@@ -5,7 +5,7 @@ date: 2020-06-11 06:28:14
 image: 'https://m.media-amazon.com/images/I/3159BRw2YrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00006JAPR-de Hama Euro-Netzkabel 2-polig 1 5m gerade Eurostecker auf...'
 sku: 'B00006JAPR-de'
 tags: [  ]

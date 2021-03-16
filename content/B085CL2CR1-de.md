@@ -5,7 +5,7 @@ date: 2020-03-16 14:30:10
 image: 'https://m.media-amazon.com/images/I/31rhCFfUHHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085CL2CR1-de PUMA Sneakersocken 18 Paar Pack Statement Edition - Damen...'
 sku: 'B085CL2CR1-de'
 tags: [  ]

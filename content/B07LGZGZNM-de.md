@@ -5,7 +5,7 @@ date: 2020-04-04 20:58:50
 image: 'https://m.media-amazon.com/images/I/413pNrOuHVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGZGZNM-de BRIKSMAX Hochgeschwindigkeitszug Led Beleuchtungsset -...'
 sku: 'B07LGZGZNM-de'
 tags: [  ]

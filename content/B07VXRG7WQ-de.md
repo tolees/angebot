@@ -5,7 +5,7 @@ date: 2020-02-11 00:04:08
 image: 'https://m.media-amazon.com/images/I/41iXQfwNNAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXRG7WQ-de Garmin fenix 6S PRO kompakte GPS-Multisport-Smartwatch mit...'
 sku: 'B07VXRG7WQ-de'
 tags: [  ]

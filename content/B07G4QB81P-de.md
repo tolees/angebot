@@ -5,7 +5,7 @@ date: 2020-02-04 05:29:10
 image: 'https://m.media-amazon.com/images/I/31bBxvH+0QL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4QB81P-de Samsung EE-D3100T Charging Dock Pogo Schwarz'
 sku: 'B07G4QB81P-de'
 tags: [  ]

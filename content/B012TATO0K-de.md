@@ -5,7 +5,7 @@ date: 2020-02-24 09:19:44
 image: 'https://m.media-amazon.com/images/I/41L62Cmuh8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012TATO0K-de Archos Hello 10 Home Assistent 10 1“ HD Display 16 GB...'
 sku: 'B012TATO0K-de'
 tags: [  ]

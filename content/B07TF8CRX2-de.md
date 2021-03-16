@@ -5,7 +5,7 @@ date: 2020-01-28 10:26:54
 image: 'https://m.media-amazon.com/images/I/51Z-4Dl4dwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TF8CRX2-de Hasbro Monopoly E7572100 Monopoly Spiel: L.O.L. Surprise...'
 sku: 'B07TF8CRX2-de'
 tags: [  ]

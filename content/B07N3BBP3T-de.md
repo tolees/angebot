@@ -5,7 +5,7 @@ date: 2020-03-29 18:44:39
 image: 'https://m.media-amazon.com/images/I/418trSvyi6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3BBP3T-de ECCO Jungen URBAN Hiker Klassische Stiefel Grau...'
 sku: 'B07N3BBP3T-de'
 tags: [  ]

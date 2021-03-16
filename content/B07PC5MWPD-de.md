@@ -5,7 +5,7 @@ date: 2020-03-15 10:13:03
 image: 'https://m.media-amazon.com/images/I/31Ujc1iFxbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PC5MWPD-de RITUALS The Ritual of Samurai Classic Duschschaum 200 ml'
 sku: 'B07PC5MWPD-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-21 10:36:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41YpTaogqgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WNPC9VP-de GODNECE LED Licht-Set für Baustein Aufgerüstet Typ Led...'
 sku: 'B07WNPC9VP-de'
 tags: [  ]

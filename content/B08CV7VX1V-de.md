@@ -5,7 +5,7 @@ date: 2020-08-09 07:08:06
 image: 'https://m.media-amazon.com/images/I/415vhlRiHUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CV7VX1V-de WLAN Repeater 2 4GHz WLAN Verstärker WiFi Extender mit...'
 sku: 'B08CV7VX1V-de'
 tags: [  ]

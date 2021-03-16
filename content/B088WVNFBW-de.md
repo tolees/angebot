@@ -5,7 +5,7 @@ date: 2020-06-10 21:35:35
 image: 'https://m.media-amazon.com/images/I/41fJH8leroL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088WVNFBW-de Xbox Game Pass 3 Monate Ultimate + 1 Monat GRATIS | Xbox...'
 sku: 'B088WVNFBW-de'
 tags: [  ]

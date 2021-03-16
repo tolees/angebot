@@ -5,7 +5,7 @@ date: 2020-04-19 13:58:43
 image: 'https://m.media-amazon.com/images/I/41MIpQQEbXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D83JHPB-de Honor 10 Smartphone 14 83 cm 5 84 Zoll Full HD+ Touch-...'
 sku: 'B07D83JHPB-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-24 19:55:49
 image: 'https://m.media-amazon.com/images/I/412AV5Ves+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001DCQI9Q-de Pariser & Londoner Sinfonien Karajan-Edition'
 sku: 'B001DCQI9Q-de'
 tags: [  ]

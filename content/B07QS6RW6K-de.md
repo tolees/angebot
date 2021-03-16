@@ -5,7 +5,7 @@ date: 2020-03-16 18:53:19
 image: 'https://m.media-amazon.com/images/I/41D+2CpWMdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QS6RW6K-de INSMART Körperfettwaage Personenwaage digital mit APP...'
 sku: 'B07QS6RW6K-de'
 tags: [  ]

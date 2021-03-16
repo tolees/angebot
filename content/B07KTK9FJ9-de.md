@@ -5,7 +5,7 @@ date: 2020-06-11 10:34:39
 image: 'https://m.media-amazon.com/images/I/51UnUv3ID3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTK9FJ9-de LEGO 41373 - Friends Lustiges Oktopus-Karussell Bauset'
 sku: 'B07KTK9FJ9-de'
 tags: [  ]

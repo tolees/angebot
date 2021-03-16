@@ -5,7 +5,7 @@ date: 2020-08-30 06:03:30
 image: 'https://m.media-amazon.com/images/I/412dOwT1WLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DHYZJCH-de ieGeek Überwachungskamera Aussen WLAN IP Kamera 1080P WiFi...'
 sku: 'B08DHYZJCH-de'
 tags: [  ]

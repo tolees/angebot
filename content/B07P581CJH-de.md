@@ -5,7 +5,7 @@ date: 2020-04-07 13:22:39
 image: 'https://m.media-amazon.com/images/I/61evwauireL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P581CJH-de Playmobil 70194 City Life Oma mit Rollator ab 4 Jahren...'
 sku: 'B07P581CJH-de'
 tags: [  ]

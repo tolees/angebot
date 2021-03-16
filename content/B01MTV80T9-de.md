@@ -5,7 +5,7 @@ date: 2020-04-16 13:04:44
 image: 'https://m.media-amazon.com/images/I/41U4cU4cC4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTV80T9-de Neff TBD1676N / T16BD76N0 / Autarkes Kochfeld /...'
 sku: 'B01MTV80T9-de'
 tags: [  ]

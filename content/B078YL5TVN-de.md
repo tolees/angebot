@@ -5,7 +5,7 @@ date: 2020-09-17 07:07:14
 image: 'https://m.media-amazon.com/images/I/31vN6fCYupL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078YL5TVN-de MUSTANG Herren Slim Fit Oregon Tapered Jeans'
 sku: 'B078YL5TVN-de'
 tags: [  ]

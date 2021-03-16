@@ -5,7 +5,7 @@ date: 2020-03-21 04:55:16
 image: 'https://m.media-amazon.com/images/I/51VoHUM7sLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HLCSDL8-de Finish Klarspüler mit Glanz- und Glasschutz – Für...'
 sku: 'B00HLCSDL8-de'
 tags: [  ]

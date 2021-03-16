@@ -5,7 +5,7 @@ date: 2020-02-11 16:56:12
 image: 'https://m.media-amazon.com/images/I/4103gCrj-FL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZQYC9G-de 4Ucycling lang Fahrrad Hose Winddicht Thermo Fleece...'
 sku: 'B07GZQYC9G-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-28 22:40:16
 image: 'https://m.media-amazon.com/images/I/41aFOEoDYlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2QYF4N-de HUGO Herren Dicago193 Sweatshirt per Pack Blau Dark Blue...'
 sku: 'B07K2QYF4N-de'
 tags: [  ]

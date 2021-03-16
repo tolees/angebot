@@ -5,7 +5,7 @@ date: 2020-03-03 08:57:49
 image: 'https://m.media-amazon.com/images/I/318jYWueLvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IJFGBTG-de VNOX Männer Frauen Edelstahl Umgekehrt Upside Down Kreuz...'
 sku: 'B01IJFGBTG-de'
 tags: [  ]

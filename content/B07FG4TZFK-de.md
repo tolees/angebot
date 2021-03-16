@@ -5,7 +5,7 @@ date: 2020-06-04 17:21:39
 image: 'https://m.media-amazon.com/images/I/51EPbpHrooL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FG4TZFK-de Wissen ist Macht: Dekaden [PlayStation 4]'
 sku: 'B07FG4TZFK-de'
 tags: [  ]

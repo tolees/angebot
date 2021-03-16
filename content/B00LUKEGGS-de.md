@@ -5,7 +5,7 @@ date: 2020-10-05 11:38:02
 image: 'https://m.media-amazon.com/images/I/3164eiJ066L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LUKEGGS-de WOFI Wandleuchte 1-flammig Serie Avignon 1 x LED 6.6 W...'
 sku: 'B00LUKEGGS-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-07 13:07:49
 image: 'https://m.media-amazon.com/images/I/5149nAIgMCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TQ8SLLC-de Funko 4851 S6 No Actionfigur Game of Thrones: Rhaegal...'
 sku: 'B00TQ8SLLC-de'
 tags: [  ]

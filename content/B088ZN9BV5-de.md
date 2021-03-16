@@ -5,7 +5,7 @@ date: 2020-07-10 16:12:08
 image: 'https://m.media-amazon.com/images/I/41p3TCjfwlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088ZN9BV5-de Heißklebepistole ORSIFOW 20W Klebepistole mit 42 Stück...'
 sku: 'B088ZN9BV5-de'
 tags: [  ]

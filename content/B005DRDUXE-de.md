@@ -5,7 +5,7 @@ date: 2020-03-06 04:54:31
 image: 'https://m.media-amazon.com/images/I/51OPfMdqwJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005DRDUXE-de tesa Powerstrips Strips LARGE wasserfest Packung mit 6 Strips'
 sku: 'B005DRDUXE-de'
 tags: [  ]

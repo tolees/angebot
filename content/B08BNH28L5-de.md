@@ -5,7 +5,7 @@ date: 2020-08-09 06:18:58
 image: 'https://m.media-amazon.com/images/I/41ugFacXSUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BNH28L5-de Bluetooth Kopfhörer In Ear Wireless Noise Cancelling...'
 sku: 'B08BNH28L5-de'
 tags: [  ]

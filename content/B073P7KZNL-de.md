@@ -5,7 +5,7 @@ date: 2020-02-19 06:33:03
 image: 'https://m.media-amazon.com/images/I/519VPp0VNTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073P7KZNL-de Kamik Unisex-Kinder SOUTHPOLE4 Schneestiefel Schwarz Black...'
 sku: 'B073P7KZNL-de'
 tags: [  ]

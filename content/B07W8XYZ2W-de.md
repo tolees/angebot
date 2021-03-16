@@ -5,7 +5,7 @@ date: 2020-09-14 12:22:05
 image: 'https://m.media-amazon.com/images/I/51rU+mUO6CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W8XYZ2W-de LEGO 71714 NINJAGO Avatar Kai – Tragbare Arcade Kapsel...'
 sku: 'B07W8XYZ2W-de'
 tags: [  ]

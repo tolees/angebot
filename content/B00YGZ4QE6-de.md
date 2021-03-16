@@ -5,7 +5,7 @@ date: 2020-04-14 16:07:59
 image: 'https://m.media-amazon.com/images/I/51Av2Gqq4zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YGZ4QE6-de Hasbro Gaming B7063100 - Pie Face Partyspiel'
 sku: 'B00YGZ4QE6-de'
 tags: [  ]

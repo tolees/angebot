@@ -5,7 +5,7 @@ date: 2020-02-19 11:58:17
 image: 'https://m.media-amazon.com/images/I/310fMT9nM3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0777TNHLM-de Funko 26384 S1 Pop Vinylfigur Games Minecraft Alex Multi...'
 sku: 'B0777TNHLM-de'
 tags: [  ]

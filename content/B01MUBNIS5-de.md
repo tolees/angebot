@@ -5,7 +5,7 @@ date: 2020-02-11 05:05:27
 image: 'https://m.media-amazon.com/images/I/51CPnrBCmIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MUBNIS5-de Citizen Herren Analog Mechanisch Uhr mit Kunststoff...'
 sku: 'B01MUBNIS5-de'
 tags: [  ]

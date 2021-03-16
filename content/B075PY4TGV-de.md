@@ -5,7 +5,7 @@ date: 2020-02-19 05:03:00
 image: 'https://m.media-amazon.com/images/I/413Qfh2B9PL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075PY4TGV-de Dove go fresh fresh Seife 8er Pack 8 x 100 g'
 sku: 'B075PY4TGV-de'
 tags: [  ]

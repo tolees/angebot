@@ -5,7 +5,7 @@ date: 2020-09-15 16:44:07
 image: 'https://m.media-amazon.com/images/I/51EfmrgYjYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B67QAE6-de Outbreak - Lautlose Killer [Blu-ray]'
 sku: 'B00B67QAE6-de'
 tags: [  ]

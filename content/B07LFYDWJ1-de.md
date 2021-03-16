@@ -5,7 +5,7 @@ date: 2020-09-30 20:35:35
 image: 'https://m.media-amazon.com/images/I/41714bNpdQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFYDWJ1-de Sloggi Zero Feel Bralette EX BH Damen Rot Bordeaux 3407 L'
 sku: 'B07LFYDWJ1-de'
 tags: [  ]

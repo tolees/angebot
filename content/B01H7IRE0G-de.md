@@ -5,7 +5,7 @@ date: 2020-03-13 18:32:35
 image: 'https://m.media-amazon.com/images/I/512HyCcQA3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H7IRE0G-de Sluban Spielzeug Baustein Set Hot Dog Wagen M38-B0565'
 sku: 'B01H7IRE0G-de'
 tags: [  ]

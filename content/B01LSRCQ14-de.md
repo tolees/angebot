@@ -5,7 +5,7 @@ date: 2020-02-22 13:22:46
 image: 'https://m.media-amazon.com/images/I/41zmwl+RXsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LSRCQ14-de LG 38UC99-W 95 25 cm 37 5 Zoll Curved 21:9 UltraWide™ IPS...'
 sku: 'B01LSRCQ14-de'
 tags: [  ]

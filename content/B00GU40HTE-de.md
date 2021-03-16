@@ -5,7 +5,7 @@ date: 2020-02-20 19:59:05
 image: 'https://m.media-amazon.com/images/I/61NXC0GYBrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GU40HTE-de Lost - Die komplette Serie 37 Discs'
 sku: 'B00GU40HTE-de'
 tags: [  ]

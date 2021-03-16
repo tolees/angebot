@@ -5,7 +5,7 @@ date: 2020-02-11 05:05:51
 image: 'https://m.media-amazon.com/images/I/41CHBVwzS3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C4TTLAK-de Oehlbach Powercord C13 / 150 - Netzkabel mit Schukostecker...'
 sku: 'B00C4TTLAK-de'
 tags: [  ]

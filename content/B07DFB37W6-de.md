@@ -5,7 +5,7 @@ date: 2020-03-21 13:07:14
 image: 'https://m.media-amazon.com/images/I/511-YB34ayL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFB37W6-de Funko POP 1 Piece Donquixote DOFLAMI'
 sku: 'B07DFB37W6-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-25 15:17:17
 image: 'https://m.media-amazon.com/images/I/41zoYvBb50L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014RZTDOW-de Eizo EV2750-BK 68 5 cm 27 Zoll Monitor DVI-D HDMI USB 3.0...'
 sku: 'B014RZTDOW-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-22 01:43:24
 image: 'https://m.media-amazon.com/images/I/41k1yCBhbKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STLQ1PZ-de Geox Herren U SNAKE.2 A Grün Dk Green/Lt Grey C3287 43 EU'
 sku: 'B07STLQ1PZ-de'
 tags: [  ]

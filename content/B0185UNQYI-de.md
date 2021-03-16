@@ -5,7 +5,7 @@ date: 2020-01-29 04:37:44
 image: 'https://m.media-amazon.com/images/I/41HGHvXlU7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0185UNQYI-de SLV GU10 ES111 LED Leuchtmittel 11 1 cm Ø | 6 5 Watt 2700...'
 sku: 'B0185UNQYI-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-02 11:23:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21XGATr6-VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VMRZPSV-de Samsung Book Cover Keyboard EF-DT860 für Galaxy Tab S6'
 sku: 'B07VMRZPSV-de'
 tags: [  ]

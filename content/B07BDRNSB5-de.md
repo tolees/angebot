@@ -5,7 +5,7 @@ date: 2020-03-12 09:55:00
 image: 'https://m.media-amazon.com/images/I/31HGfezgBhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BDRNSB5-de SUUNTO 3 Fitness all black'
 sku: 'B07BDRNSB5-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-28 06:19:20
 image: 'https://m.media-amazon.com/images/I/41YVQ4xqgEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AYB3H2C-de 100 Vakuumbeutel 20x30cm groß - Premium Qualität |...'
 sku: 'B01AYB3H2C-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-13 23:56:00
 image: 'https://m.media-amazon.com/images/I/21j49NGBF1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MU0WX8G-de Carlo Milano Wandschublade: Wandregal mit versteckter...'
 sku: 'B01MU0WX8G-de'
 tags: [  ]

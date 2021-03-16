@@ -5,7 +5,7 @@ date: 2020-05-16 11:55:07
 image: 'https://m.media-amazon.com/images/I/41kPyzs9DIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000UAOIVC-de WMF Perfect Schnellkochtopf Induktion Dampfkochtopf 4 5l...'
 sku: 'B000UAOIVC-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-21 06:15:22
 image: 'https://m.media-amazon.com/images/I/41T3t5Y-hUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016C0FFBK-de Timone Mädchen und Jugendlicher Schlafanzug 850 Türkis 152'
 sku: 'B016C0FFBK-de'
 tags: [  ]

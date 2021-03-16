@@ -5,7 +5,7 @@ date: 2020-03-21 04:54:30
 image: 'https://m.media-amazon.com/images/I/31-TEq2c3oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007K3TK4W-de GoPro Surf HERO Expansion Kit Kamerabefestigung geeignet...'
 sku: 'B007K3TK4W-de'
 tags: [  ]

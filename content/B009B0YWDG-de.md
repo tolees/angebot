@@ -5,7 +5,7 @@ date: 2020-04-16 08:08:52
 image: 'https://m.media-amazon.com/images/I/416KbfPjDwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009B0YWDG-de Games of Thrones 3012 Actionfigur Daenerys Targaryen'
 sku: 'B009B0YWDG-de'
 tags: [  ]

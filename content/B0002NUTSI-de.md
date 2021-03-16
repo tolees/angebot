@@ -5,7 +5,7 @@ date: 2020-09-24 09:44:53
 image: 'https://m.media-amazon.com/images/I/61f15LjfP-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0002NUTSI-de Crosby Stills & Nash - Greatest Hits'
 sku: 'B0002NUTSI-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-04 05:09:51
 image: 'https://m.media-amazon.com/images/I/61J0RhVx9mL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XKHT5VM-de Carrera 20062428 GO'
 sku: 'B06XKHT5VM-de'
 tags: [  ]

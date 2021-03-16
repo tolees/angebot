@@ -5,7 +5,7 @@ date: 2020-08-11 19:18:35
 image: 'https://m.media-amazon.com/images/I/31WauxOsQQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LX5ZT44-de NUK Vario Express Dampf-Sterilisator 3-in-1 Modular für...'
 sku: 'B01LX5ZT44-de'
 tags: [  ]

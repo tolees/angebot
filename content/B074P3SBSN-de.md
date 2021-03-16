@@ -5,7 +5,7 @@ date: 2020-03-11 04:58:05
 image: 'https://m.media-amazon.com/images/I/41Fg4XZkhIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074P3SBSN-de uvex Unisex – Erwachsene i-vo 3D Fahrradhelm white 52-57 cm'
 sku: 'B074P3SBSN-de'
 tags: [  ]

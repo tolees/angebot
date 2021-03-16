@@ -5,7 +5,7 @@ date: 2020-03-19 12:36:51
 image: 'https://m.media-amazon.com/images/I/41LymxS1zPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HB67U6W-de MEDION P85035 Internetradio mit DAB+ DAB+ Digital-...'
 sku: 'B01HB67U6W-de'
 tags: [  ]

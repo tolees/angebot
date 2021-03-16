@@ -5,7 +5,7 @@ date: 2020-04-16 08:17:00
 image: 'https://m.media-amazon.com/images/I/31MKyKaFuqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QKZZZH8-de MSI GS65 9SE-461 Stealth 39 6 cm/15 6 Zoll/240Hz Gaming-...'
 sku: 'B07QKZZZH8-de'
 tags: [  ]

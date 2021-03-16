@@ -5,7 +5,7 @@ date: 2020-03-31 21:07:07
 image: 'https://m.media-amazon.com/images/I/41YM6YudQZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083WQQG3Y-de GODNECE Display Halterung Ständer Für 75257 Vertikaler...'
 sku: 'B083WQQG3Y-de'
 tags: [  ]

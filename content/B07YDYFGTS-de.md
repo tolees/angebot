@@ -5,7 +5,7 @@ date: 2020-04-15 23:39:36
 image: 'https://m.media-amazon.com/images/I/51h+OFFSeGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YDYFGTS-de OMEN 15-dc1015ng 15 6 Zoll / FHD IPS 60Hz Gaming Laptop...'
 sku: 'B07YDYFGTS-de'
 tags: [  ]

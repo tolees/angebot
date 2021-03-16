@@ -5,7 +5,7 @@ date: 2020-08-02 05:34:24
 image: 'https://m.media-amazon.com/images/I/515zMbpXHtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQEE49C-de Buss Kartoffel-Eintopf mit Rauchspeck und...'
 sku: 'B01MQEE49C-de'
 tags: [  ]

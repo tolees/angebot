@@ -5,7 +5,7 @@ date: 2020-10-06 03:17:56
 image: 'https://m.media-amazon.com/images/I/41qWB6wYtuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013WALD1O-de Bosch Professional Bohrmaschine GBM 13-2 RE...'
 sku: 'B013WALD1O-de'
 tags: [  ]

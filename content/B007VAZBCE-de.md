@@ -5,7 +5,7 @@ date: 2020-03-21 11:51:59
 image: 'https://m.media-amazon.com/images/I/41UcoSCzkuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007VAZBCE-de Tamron 24-70mm F/2 8 Weitwinkelobjektiv mit USD-Motor und...'
 sku: 'B007VAZBCE-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-14 04:56:57
 image: 'https://m.media-amazon.com/images/I/41S+Ud9kAzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019GV8CIU-de LECHUZA CUBE Color 14 13380 Kräutertopf Hochwertiger...'
 sku: 'B019GV8CIU-de'
 tags: [  ]

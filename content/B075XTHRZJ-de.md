@@ -5,7 +5,7 @@ date: 2020-04-16 17:34:20
 image: 'https://m.media-amazon.com/images/I/61PXCZpmihL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075XTHRZJ-de Hasbro Spiele C2131100 Probieren Oder Verlieren Partyspiel'
 sku: 'B075XTHRZJ-de'
 tags: [  ]

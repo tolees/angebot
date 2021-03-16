@@ -5,7 +5,7 @@ date: 2020-10-12 11:58:33
 image: 'https://m.media-amazon.com/images/I/41lum+Hmm4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CYL90EY-de Sony MDR-XB650BT kabelloser Extra-Bass Kopfhörer Bluetooth...'
 sku: 'B01CYL90EY-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-07 13:05:52
 image: 'https://m.media-amazon.com/images/I/41zR-oNSdHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007CK1ESS-de NUK Babyphone mit Kamera Eco Control+ Video mit...'
 sku: 'B007CK1ESS-de'
 tags: [  ]

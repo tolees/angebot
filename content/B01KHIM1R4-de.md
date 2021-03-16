@@ -5,7 +5,7 @@ date: 2020-02-21 04:48:34
 image: 'https://m.media-amazon.com/images/I/41wUS9ogg+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KHIM1R4-de Philips LED Lampe 11 W ersetzt 75 W E27 warmweiß 2700K...'
 sku: 'B01KHIM1R4-de'
 tags: [  ]

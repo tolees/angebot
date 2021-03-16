@@ -5,7 +5,7 @@ date: 2020-02-01 15:29:22
 image: 'https://m.media-amazon.com/images/I/41HEGZ6N7GL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D76BXRH-de Levi s Damen 310 Shaping Super Skinny Jeans Blau Taurus...'
 sku: 'B07D76BXRH-de'
 tags: [  ]

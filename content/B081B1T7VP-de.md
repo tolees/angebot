@@ -5,7 +5,7 @@ date: 2020-01-23 10:37:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31QuoS6X56L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081B1T7VP-de Bose SoundTouch 20 Series III wireless music system'
 sku: 'B081B1T7VP-de'
 tags: [  ]

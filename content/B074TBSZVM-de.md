@@ -5,7 +5,7 @@ date: 2020-03-12 13:09:08
 image: 'https://m.media-amazon.com/images/I/41XTHINfePL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074TBSZVM-de Puma Roma Basic Herren Sneaker Mehrfarbig Weiß white-black...'
 sku: 'B074TBSZVM-de'
 tags: [  ]

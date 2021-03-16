@@ -5,7 +5,7 @@ date: 2020-02-18 07:23:18
 image: 'https://m.media-amazon.com/images/I/41SWgKrn1ML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RP8T2D2-de Oral-B Genius X Luxe Edition Elektrische Zahnbürste mit...'
 sku: 'B07RP8T2D2-de'
 tags: [  ]

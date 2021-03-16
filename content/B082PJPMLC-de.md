@@ -5,7 +5,7 @@ date: 2020-09-21 15:26:35
 image: 'https://m.media-amazon.com/images/I/31rmyZlG8IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082PJPMLC-de HP Sprocket Studio Fotodrucker Drucken scannen kopieren...'
 sku: 'B082PJPMLC-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-16 05:46:52
 image: 'https://m.media-amazon.com/images/I/31xMFTPxsjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N63FOWS-de Swarovski Damen-Kette mit Anhänger SWAN Lake Edelstahl...'
 sku: 'B01N63FOWS-de'
 tags: [  ]

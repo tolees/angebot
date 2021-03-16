@@ -5,7 +5,7 @@ date: 2020-02-06 20:02:43
 image: 'https://m.media-amazon.com/images/I/31gRarwpD7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J3WL2SY-de ONLY Damen Onlnew ROYAL REG SK. Biker Coated NOOS Hose...'
 sku: 'B01J3WL2SY-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-23 19:22:55
 image: 'https://m.media-amazon.com/images/I/51vrCmnSjrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HB8C8XP-de Funko 36379 Pop! Marvel: Captain Marvel - Goose The Cat...'
 sku: 'B07HB8C8XP-de'
 tags: [  ]

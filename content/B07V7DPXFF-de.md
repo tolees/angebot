@@ -5,7 +5,7 @@ date: 2020-09-28 17:54:17
 image: 'https://m.media-amazon.com/images/I/51pTw+QB0gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7DPXFF-de Relaxdays Pizzablech 2er Set rund gelocht antihaft Pizza &...'
 sku: 'B07V7DPXFF-de'
 tags: [  ]

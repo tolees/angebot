@@ -5,7 +5,7 @@ date: 2020-02-23 22:42:57
 image: 'https://m.media-amazon.com/images/I/418-Wl6hskL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BCE30RS-de Logitech MK270 Kabelloses Tastatur-Maus Set 2.4 GHz...'
 sku: 'B00BCE30RS-de'
 tags: [  ]

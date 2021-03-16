@@ -5,7 +5,7 @@ date: 2020-02-11 12:18:21
 image: 'https://m.media-amazon.com/images/I/212eFti-9oL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PV97J2Q-de NextBase S2RFCZ Rückfahrkamera Blickwinkel horizontal...'
 sku: 'B07PV97J2Q-de'
 tags: [  ]

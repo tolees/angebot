@@ -5,7 +5,7 @@ date: 2020-09-18 05:59:39
 image: 'https://m.media-amazon.com/images/I/516-l3oXySL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HF0NEB0-de WMF Ceramill Nature Salz und Pfeffer Mühle Set 2-teilig...'
 sku: 'B00HF0NEB0-de'
 tags: [  ]

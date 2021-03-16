@@ -5,7 +5,7 @@ date: 2020-01-16 18:39:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51D6gipVJAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083DNTRKP-de DXX Technik Bausteine Auto Benz G500 1343Teile 2.4G SUV...'
 sku: 'B083DNTRKP-de'
 tags: [  ]

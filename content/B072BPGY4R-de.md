@@ -5,7 +5,7 @@ date: 2020-04-04 14:45:40
 image: 'https://m.media-amazon.com/images/I/412zKVDl2ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072BPGY4R-de Samsung Galaxy Book W620 26 92 cm 10 6 Zoll Convertible...'
 sku: 'B072BPGY4R-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-05 12:38:27
 image: 'https://m.media-amazon.com/images/I/51RwofF2H9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075H1GDS8-de LEGO Duplo 10863 Meine erste Steinebox mit Ziehtieren...'
 sku: 'B075H1GDS8-de'
 tags: [  ]

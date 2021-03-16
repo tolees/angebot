@@ -5,7 +5,7 @@ date: 2020-03-13 02:29:13
 image: 'https://m.media-amazon.com/images/I/41XIaTgdAnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QJ29QCW-de Funko B07QJ29QCW POP Vinyl Games Bandicoot-Crash...'
 sku: 'B07QJ29QCW-de'
 tags: [  ]

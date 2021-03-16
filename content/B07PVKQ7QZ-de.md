@@ -5,7 +5,7 @@ date: 2020-02-13 11:09:10
 image: 'https://m.media-amazon.com/images/I/41eIw3qeTfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVKQ7QZ-de Samsonite S Cure Disney Spinner Suitcase 75 cm 102 L Blau...'
 sku: 'B07PVKQ7QZ-de'
 tags: [  ]

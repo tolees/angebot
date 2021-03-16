@@ -5,7 +5,7 @@ date: 2020-04-09 23:58:03
 image: 'https://m.media-amazon.com/images/I/3196RTIrR5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WQV78R9-de WEWE Estantes De Cocina Montados En La Pared estantes...'
 sku: 'B07WQV78R9-de'
 tags: [  ]

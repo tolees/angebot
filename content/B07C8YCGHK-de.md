@@ -5,7 +5,7 @@ date: 2020-03-07 14:06:44
 image: 'https://m.media-amazon.com/images/I/315plN4D1nL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C8YCGHK-de Vans Herren Filmore Sneakers Schwarz Suede Canvas...'
 sku: 'B07C8YCGHK-de'
 tags: [  ]

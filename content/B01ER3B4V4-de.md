@@ -5,7 +5,7 @@ date: 2020-10-04 08:58:39
 image: 'https://m.media-amazon.com/images/I/4175LdwZdxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ER3B4V4-de Blend Cross Herren Kapuzenpullover Hoodie Pullover Mit...'
 sku: 'B01ER3B4V4-de'
 tags: [  ]

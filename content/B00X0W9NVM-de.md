@@ -5,7 +5,7 @@ date: 2020-08-24 17:05:22
 image: 'https://m.media-amazon.com/images/I/41UQvUwQbZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X0W9NVM-de Tommy Hilfiger Herren JOHNSON MINI CC FLAP AND COIN POCKET...'
 sku: 'B00X0W9NVM-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-12 00:33:05
 image: 'https://m.media-amazon.com/images/I/310a9pAUfHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006JZ8FU2-de Schiesser Herren Bademantel Kapuze 128546-815 Blau...'
 sku: 'B006JZ8FU2-de'
 tags: [  ]

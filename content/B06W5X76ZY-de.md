@@ -5,7 +5,7 @@ date: 2020-01-26 01:52:22
 image: 'https://m.media-amazon.com/images/I/61EhxGaIT3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W5X76ZY-de Playmobil 9283 - Schneeballschlacht'
 sku: 'B06W5X76ZY-de'
 tags: [  ]

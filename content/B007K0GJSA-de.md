@@ -5,7 +5,7 @@ date: 2020-02-25 17:35:06
 image: 'https://m.media-amazon.com/images/I/51XpqGRXmXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007K0GJSA-de Spiegelau & Nachtmann Longdrinkgläser Glas durchsichtig'
 sku: 'B007K0GJSA-de'
 tags: [  ]

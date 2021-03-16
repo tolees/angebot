@@ -5,7 +5,7 @@ date: 2020-02-18 11:56:50
 image: 'https://m.media-amazon.com/images/I/41lPgHifQjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVP232Y-de BRIKSMAX Led Beleuchtungsset für Lego Transporter für...'
 sku: 'B07TVP232Y-de'
 tags: [  ]

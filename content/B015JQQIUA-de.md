@@ -5,7 +5,7 @@ date: 2020-04-16 15:37:35
 image: 'https://m.media-amazon.com/images/I/41UCk9R8nKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015JQQIUA-de Cobb Pro - Tisch oder tragbarer Außengrill Kochsystem...'
 sku: 'B015JQQIUA-de'
 tags: [  ]

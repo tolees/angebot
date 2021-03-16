@@ -5,7 +5,7 @@ date: 2020-08-20 22:51:31
 image: 'https://m.media-amazon.com/images/I/31Q-b886MlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IXDNSG4-de axentia Türgarderobe mit 6 Haken Kleiderhaken für die Tür...'
 sku: 'B00IXDNSG4-de'
 tags: [  ]

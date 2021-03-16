@@ -5,7 +5,7 @@ date: 2020-09-28 08:53:53
 image: 'https://m.media-amazon.com/images/I/51oD4GoAArL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002NXFFDY-de The Green Mile [Blu-ray]'
 sku: 'B002NXFFDY-de'
 tags: [  ]

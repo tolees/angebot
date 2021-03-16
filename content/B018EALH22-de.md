@@ -5,7 +5,7 @@ date: 2020-03-29 13:02:00
 image: 'https://m.media-amazon.com/images/I/51K9W+nRcNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018EALH22-de Mattel Games DPX25 - Mister Pups lustiges Kartenspiel und...'
 sku: 'B018EALH22-de'
 tags: [  ]

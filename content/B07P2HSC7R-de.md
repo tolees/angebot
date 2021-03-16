@@ -5,7 +5,7 @@ date: 2020-04-18 00:34:13
 image: 'https://m.media-amazon.com/images/I/51SSSfpFwYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P2HSC7R-de Hasbro FURREAL Friends E7963EU4 furReal Topper Mein Baby-...'
 sku: 'B07P2HSC7R-de'
 tags: [  ]

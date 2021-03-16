@@ -5,7 +5,7 @@ date: 2020-09-27 08:37:32
 image: 'https://m.media-amazon.com/images/I/51xk1NsssAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MG9N4W8-de BRUBAKER Cosmetics Bade- und Pflegeset Cranberry im...'
 sku: 'B01MG9N4W8-de'
 tags: [  ]

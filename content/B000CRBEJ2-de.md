@@ -5,7 +5,7 @@ date: 2020-08-04 09:13:33
 image: 'https://m.media-amazon.com/images/I/317kycTnnbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000CRBEJ2-de Eastpak Padded Pak r Rucksack 40 cm 24 L Schwarz Black'
 sku: 'B000CRBEJ2-de'
 tags: [  ]

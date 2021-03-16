@@ -5,7 +5,7 @@ date: 2020-04-24 18:43:27
 image: 'https://m.media-amazon.com/images/I/51HA-bonTrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079N83MSD-de Hansaplast Frozen Pflaster 1 x 20 Stück'
 sku: 'B079N83MSD-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-13 10:12:47
 image: 'https://m.media-amazon.com/images/I/512y5v+RaKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002SXNXUG-de Nikon BF-1B Gehäusedeckel'
 sku: 'B002SXNXUG-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-18 00:43:48
 image: 'https://m.media-amazon.com/images/I/31e+-MOnBRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VN5LHS7-de STARWARE HDMI auf VGA HDMI auf VGA Adapter Stecker zu...'
 sku: 'B07VN5LHS7-de'
 tags: [  ]

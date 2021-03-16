@@ -5,7 +5,7 @@ date: 2020-10-06 03:18:11
 image: 'https://m.media-amazon.com/images/I/41Cs2F9FU9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006IBNJ1C-de Bodum assam Teebereiter French Press System Permanent...'
 sku: 'B006IBNJ1C-de'
 tags: [  ]

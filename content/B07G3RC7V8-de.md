@@ -5,7 +5,7 @@ date: 2020-01-01 17:09:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31NbBfJRAnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G3RC7V8-de camel active Damen Innocence 71 Slipper Pink Rosé 3 38.5 EU'
 sku: 'B07G3RC7V8-de'
 tags: [  ]

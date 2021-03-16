@@ -5,7 +5,7 @@ date: 2020-09-25 22:02:12
 image: 'https://m.media-amazon.com/images/I/314mnTwiW5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001XRXZFG-de Finish Line Schmiermittel Keramik Kettenöl 120 ml 4002055'
 sku: 'B001XRXZFG-de'
 tags: [  ]

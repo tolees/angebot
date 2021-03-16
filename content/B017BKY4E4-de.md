@@ -5,7 +5,7 @@ date: 2020-01-20 22:02:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418q8mN9YAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017BKY4E4-de Tepro Mini Kugelgrill Holzkohlegrill"Salida" für unterwegs...'
 sku: 'B017BKY4E4-de'
 tags: [  ]

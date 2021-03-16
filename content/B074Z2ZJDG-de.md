@@ -5,7 +5,7 @@ date: 2020-03-11 16:53:37
 image: 'https://m.media-amazon.com/images/I/51ciWyaqKEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074Z2ZJDG-de Seiko Herren Chronograph Quarz Uhr mit Edelstahl Armband...'
 sku: 'B074Z2ZJDG-de'
 tags: [  ]

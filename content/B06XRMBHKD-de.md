@@ -5,7 +5,7 @@ date: 2020-02-06 16:39:59
 image: 'https://m.media-amazon.com/images/I/41MQroGonCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XRMBHKD-de Nike Jungen Revolution 4 PSV Laufschuhe Schwarz...'
 sku: 'B06XRMBHKD-de'
 tags: [  ]

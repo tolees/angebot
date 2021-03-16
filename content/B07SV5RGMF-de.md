@@ -5,7 +5,7 @@ date: 2020-05-11 15:21:20
 image: 'https://m.media-amazon.com/images/I/31UcOqykQML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SV5RGMF-de Reolink Akku Überwachungskamera Aussen WLAN 355°/140°...'
 sku: 'B07SV5RGMF-de'
 tags: [  ]

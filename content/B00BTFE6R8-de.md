@@ -5,7 +5,7 @@ date: 2020-07-16 09:53:37
 image: 'https://m.media-amazon.com/images/I/41Lx3TWpLiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BTFE6R8-de Castrol EDGE 0W-30 Motorenöl 5L'
 sku: 'B00BTFE6R8-de'
 tags: [  ]

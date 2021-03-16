@@ -5,7 +5,7 @@ date: 2020-02-02 04:51:06
 image: 'https://m.media-amazon.com/images/I/41zwGrp5-5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XXF4Q68-de NZXT KRAKEN G12 - GPU-Montagesatz für AIO-Kühler der...'
 sku: 'B06XXF4Q68-de'
 tags: [  ]

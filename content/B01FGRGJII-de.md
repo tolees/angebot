@@ -5,7 +5,7 @@ date: 2020-02-14 12:05:06
 image: 'https://m.media-amazon.com/images/I/41ajeukA01L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FGRGJII-de Corsair K70 LUX Rot LED Mechanische Gaming Tastatur Cherry...'
 sku: 'B01FGRGJII-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-01 06:19:44
 image: 'https://m.media-amazon.com/images/I/31EySyJnKtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074H22PSD-de Merry Style Damen Leggings 3/4 aus Viskose MS10-144 Schwarz L'
 sku: 'B074H22PSD-de'
 tags: [  ]

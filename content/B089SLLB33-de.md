@@ -5,7 +5,7 @@ date: 2020-08-26 08:17:29
 image: 'https://m.media-amazon.com/images/I/41W-l3DsEYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089SLLB33-de PUMA Herren Boxershort Limited Statement Edition 6er Pack...'
 sku: 'B089SLLB33-de'
 tags: [  ]

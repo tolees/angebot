@@ -5,7 +5,7 @@ date: 2020-04-07 21:47:21
 image: 'https://m.media-amazon.com/images/I/51Dcuwo2DoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001P4ZACS-de Haba 4655 - Meine ersten Spiele Erster Obstgarten...'
 sku: 'B001P4ZACS-de'
 tags: [  ]

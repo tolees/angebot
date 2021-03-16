@@ -5,7 +5,7 @@ date: 2020-08-04 15:11:27
 image: 'https://m.media-amazon.com/images/I/41mQpU3-5UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013JRKRSU-de Beurer PO 40 Pulsoximeter Ermittlung der arteriellen...'
 sku: 'B013JRKRSU-de'
 tags: [  ]

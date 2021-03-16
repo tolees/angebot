@@ -5,7 +5,7 @@ date: 2020-03-16 02:38:41
 image: 'https://m.media-amazon.com/images/I/41-oXoTUB6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M3UYCM7-de Sylvanian Families 5034 - Badezimmer-Set Puppenzubehör'
 sku: 'B01M3UYCM7-de'
 tags: [  ]

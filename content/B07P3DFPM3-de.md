@@ -5,7 +5,7 @@ date: 2020-04-16 08:34:54
 image: 'https://m.media-amazon.com/images/I/41E8gf4BOKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P3DFPM3-de Mattel GGH45 - Toy Story 4 Super Action Buzz Lightyear...'
 sku: 'B07P3DFPM3-de'
 tags: [  ]

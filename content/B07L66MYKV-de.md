@@ -5,7 +5,7 @@ date: 2020-05-01 15:47:50
 image: 'https://m.media-amazon.com/images/I/51Zk0+J69JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L66MYKV-de AKASO Brave 6 Action Cam 4K 20MP WiFi Sprachsteuerung EIS...'
 sku: 'B07L66MYKV-de'
 tags: [  ]

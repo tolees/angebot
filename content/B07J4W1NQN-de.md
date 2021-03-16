@@ -5,7 +5,7 @@ date: 2020-04-11 07:09:26
 image: 'https://m.media-amazon.com/images/I/41zcuznmfBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J4W1NQN-de Kate Lynn Muttertagsgeschenk Frauen Ohrringe schmuck Damen...'
 sku: 'B07J4W1NQN-de'
 tags: [  ]

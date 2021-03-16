@@ -5,7 +5,7 @@ date: 2020-03-04 19:42:39
 image: 'https://m.media-amazon.com/images/I/41drGDuvHwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J9ZF24P-de MEDION S6445 39 5 cm 15 6 Zoll Full HD Notebook Intel Core...'
 sku: 'B07J9ZF24P-de'
 tags: [  ]

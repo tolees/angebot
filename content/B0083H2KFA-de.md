@@ -5,7 +5,7 @@ date: 2020-07-16 21:59:00
 image: 'https://m.media-amazon.com/images/I/51QVzNspuiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0083H2KFA-de Odys Seal 9 tragbarer DVD-Player mit zusätzlichem...'
 sku: 'B0083H2KFA-de'
 tags: [  ]

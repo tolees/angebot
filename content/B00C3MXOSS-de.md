@@ -5,7 +5,7 @@ date: 2020-01-04 06:16:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51GLJ8ED5dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C3MXOSS-de Ravensburger 09264 - Abenteuer im Winterland'
 sku: 'B00C3MXOSS-de'
 tags: [  ]

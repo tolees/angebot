@@ -5,7 +5,7 @@ date: 2020-08-18 08:13:06
 image: 'https://m.media-amazon.com/images/I/41Rlhvl2mdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PS1KVD1-de Mini PC Lüfterlos Intel Atom X5-Z8350 Prozessor Quad-Core...'
 sku: 'B07PS1KVD1-de'
 tags: [  ]

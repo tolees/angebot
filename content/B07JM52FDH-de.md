@@ -5,7 +5,7 @@ date: 2020-04-07 13:22:19
 image: 'https://m.media-amazon.com/images/I/5135q0LRvzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JM52FDH-de Playmobil 70026 Figures Girls Serie 15 bunt'
 sku: 'B07JM52FDH-de'
 tags: [  ]

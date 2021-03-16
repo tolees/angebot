@@ -5,7 +5,7 @@ date: 2020-01-22 13:11:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/310qHXMjdRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N7QBGGW-de beyerdynamic Phonum Wireless Bluetooth Speakerphone...'
 sku: 'B07N7QBGGW-de'
 tags: [  ]

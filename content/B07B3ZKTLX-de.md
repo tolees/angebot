@@ -5,7 +5,7 @@ date: 2020-02-17 12:09:57
 image: 'https://m.media-amazon.com/images/I/61kKZwbzDVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B3ZKTLX-de PLAYMOBIL Christmas 9493 Weihnachtsbäckerei mit...'
 sku: 'B07B3ZKTLX-de'
 tags: [  ]

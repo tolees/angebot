@@ -5,7 +5,7 @@ date: 2020-04-14 16:43:05
 image: 'https://m.media-amazon.com/images/I/41YXuDfsQQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TX24QJT-de Kompatibel für Samsung Galaxy A6 Plus 2018 Hülle...'
 sku: 'B07TX24QJT-de'
 tags: [  ]

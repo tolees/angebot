@@ -5,7 +5,7 @@ date: 2020-08-14 18:14:14
 image: 'https://m.media-amazon.com/images/I/51n4AsPvOtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCK6BY2-de OYMMENEY Holzspielzeug 3 In 1 Angelspiel Montessori...'
 sku: 'B07XCK6BY2-de'
 tags: [  ]

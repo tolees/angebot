@@ -5,7 +5,7 @@ date: 2020-04-11 16:02:06
 image: 'https://m.media-amazon.com/images/I/41woFVNLLJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZH6QV35-de Furnoor Holzwürfel 10pcs 25mm Naturholz Quadrat Blocks...'
 sku: 'B07ZH6QV35-de'
 tags: [  ]

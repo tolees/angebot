@@ -5,7 +5,7 @@ date: 2020-02-22 04:57:09
 image: 'https://m.media-amazon.com/images/I/41QE7Mw5F7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CNAUYBY-de AmazonBasics Stereo-Audiokabel 3 5-mm-Klinkenstecker auf 3...'
 sku: 'B01CNAUYBY-de'
 tags: [  ]

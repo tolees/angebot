@@ -5,7 +5,7 @@ date: 2020-01-16 09:13:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41F2nyO4KXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008C27YLQ-de Nike Unisex Erwachsene Swoosh Headband/Stirnband Schwarz...'
 sku: 'B008C27YLQ-de'
 tags: [  ]

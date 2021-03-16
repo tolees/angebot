@@ -5,7 +5,7 @@ date: 2020-04-13 23:43:04
 image: 'https://m.media-amazon.com/images/I/51SLKnhfRXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BMIVK4E-de The Iceman'
 sku: 'B00BMIVK4E-de'
 tags: [  ]

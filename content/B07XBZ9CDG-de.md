@@ -5,7 +5,7 @@ date: 2020-08-24 17:04:28
 image: 'https://m.media-amazon.com/images/I/41kE4d2kzgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XBZ9CDG-de YONMIG Smartwatch Fitness Armband Tracker Voller Touch...'
 sku: 'B07XBZ9CDG-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-08 19:42:49
 image: 'https://m.media-amazon.com/images/I/41NuaYk4TRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008OW2VW6-de Gimi Modular 4 Turm-Wäscheständer aus Stahl 40 m Trockenlänge'
 sku: 'B008OW2VW6-de'
 tags: [  ]

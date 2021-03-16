@@ -5,7 +5,7 @@ date: 2020-04-08 06:45:17
 image: 'https://m.media-amazon.com/images/I/4166upzkm2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HRG6DSY-de Ultimate Ears BOOM 3 Bluetooth Lautsprecher wasserdichter...'
 sku: 'B07HRG6DSY-de'
 tags: [  ]

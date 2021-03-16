@@ -5,7 +5,7 @@ date: 2020-02-24 14:02:51
 image: 'https://m.media-amazon.com/images/I/41echcBYXDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MT7DMBQ-de Digital Wecker mit Hölzerner Elektronischer LED-...'
 sku: 'B07MT7DMBQ-de'
 tags: [  ]

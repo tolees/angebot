@@ -5,7 +5,7 @@ date: 2020-01-31 21:45:22
 image: 'https://m.media-amazon.com/images/I/41kaUn3tvFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C8GM4H1-de Noise Cancelling Kopfhörer Leichte Srhythm NC25 Over Ear...'
 sku: 'B07C8GM4H1-de'
 tags: [  ]

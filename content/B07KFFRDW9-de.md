@@ -5,7 +5,7 @@ date: 2020-04-16 08:41:51
 image: 'https://m.media-amazon.com/images/I/419pAZnf3vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFFRDW9-de Aitsite Schneeflocke Multi-Tool 18-in-1 Tragbares...'
 sku: 'B07KFFRDW9-de'
 tags: [  ]

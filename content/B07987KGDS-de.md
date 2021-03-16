@@ -5,7 +5,7 @@ date: 2020-03-26 13:02:48
 image: 'https://m.media-amazon.com/images/I/41zmdTMG-sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07987KGDS-de Funko 26713 Grumpy Bear Spielfigur Mehrfarbig 10 Centimeters'
 sku: 'B07987KGDS-de'
 tags: [  ]

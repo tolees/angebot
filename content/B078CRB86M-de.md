@@ -5,7 +5,7 @@ date: 2020-03-15 04:45:04
 image: 'https://m.media-amazon.com/images/I/31yoJWWNa9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078CRB86M-de OSRAM Smart+ Mini Switch Weiß ZigBee Lichtschalter Dimmer...'
 sku: 'B078CRB86M-de'
 tags: [  ]

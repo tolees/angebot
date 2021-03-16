@@ -5,7 +5,7 @@ date: 2020-05-23 07:55:20
 image: 'https://m.media-amazon.com/images/I/41AdXh+JwAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XTB2L21-de Bosch Nass- und Trockensauger AdvancedVac 20 1200 Watt 20...'
 sku: 'B06XTB2L21-de'
 tags: [  ]

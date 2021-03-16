@@ -5,7 +5,7 @@ date: 2020-10-06 21:30:31
 image: 'https://m.media-amazon.com/images/I/41D9Kh+DOtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0006OHX8W-de CALIDA Damen Midislip Lycraspitze Taillenslip Schwarz...'
 sku: 'B0006OHX8W-de'
 tags: [  ]

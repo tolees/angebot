@@ -5,7 +5,7 @@ date: 2020-04-12 17:23:45
 image: 'https://m.media-amazon.com/images/I/31S8tyh1jyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QMTPZCK-de WEB EYEWEAR Herren WE0267 Sonnenbrille Gold 54 EU'
 sku: 'B07QMTPZCK-de'
 tags: [  ]

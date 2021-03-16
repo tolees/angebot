@@ -5,7 +5,7 @@ date: 2020-08-20 22:40:16
 image: 'https://m.media-amazon.com/images/I/318mAQ-XVCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017BXBTLW-de Schwiizer Schüümli Gastronom Ganze Kaffeebohnen 1kg...'
 sku: 'B017BXBTLW-de'
 tags: [  ]

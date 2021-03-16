@@ -5,7 +5,7 @@ date: 2020-03-09 14:19:10
 image: 'https://m.media-amazon.com/images/I/51bpiD93G1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0816HKYYF-de jpantech Smartwatch Fitness Armband Tracker Voller 5ATM...'
 sku: 'B0816HKYYF-de'
 tags: [  ]

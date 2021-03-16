@@ -5,7 +5,7 @@ date: 2020-02-11 08:37:41
 image: 'https://m.media-amazon.com/images/I/21HK8x+2jAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDHW9W5-de Samsung HW-R530 Soundbar Bluetooth Surround Ready -...'
 sku: 'B07PDHW9W5-de'
 tags: [  ]

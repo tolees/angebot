@@ -5,7 +5,7 @@ date: 2020-08-04 05:48:10
 image: 'https://m.media-amazon.com/images/I/41Vk0OFmDCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SDLCDKK-de LIGHTAILING Licht-Set Für Architecture Freiheitsstatue...'
 sku: 'B07SDLCDKK-de'
 tags: [  ]

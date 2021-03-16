@@ -5,7 +5,7 @@ date: 2020-04-13 23:43:39
 image: 'https://m.media-amazon.com/images/I/51UWA9h6osL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J9W0EXI-de Wunderbare Macht [Blu-ray]'
 sku: 'B00J9W0EXI-de'
 tags: [  ]

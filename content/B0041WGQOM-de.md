@@ -5,7 +5,7 @@ date: 2020-10-07 09:40:22
 image: 'https://m.media-amazon.com/images/I/417zBtt9OAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0041WGQOM-de Lena 65823 Magnet Holzkiste mit 37 magnetischen...'
 sku: 'B0041WGQOM-de'
 tags: [  ]

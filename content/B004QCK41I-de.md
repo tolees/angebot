@@ -5,7 +5,7 @@ date: 2020-08-27 20:39:02
 image: 'https://m.media-amazon.com/images/I/41L6YUsMEjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004QCK41I-de Hamax Kindersitz Fahrrad hinten Caress Testsieger schwarz...'
 sku: 'B004QCK41I-de'
 tags: [  ]

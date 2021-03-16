@@ -5,7 +5,7 @@ date: 2020-09-28 15:31:49
 image: 'https://m.media-amazon.com/images/I/31nKsf+wZVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YGQJ9XN-de Microsoft Ergonomic Mouse'
 sku: 'B07YGQJ9XN-de'
 tags: [  ]

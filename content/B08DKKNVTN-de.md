@@ -5,7 +5,7 @@ date: 2020-08-09 18:03:45
 image: 'https://m.media-amazon.com/images/I/51hQHu1DLTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DKKNVTN-de HDMI KVM Switch USB 4 Port 4K 4 PC 1 Monitor Switch 4K @...'
 sku: 'B08DKKNVTN-de'
 tags: [  ]

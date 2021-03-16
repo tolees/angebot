@@ -5,7 +5,7 @@ date: 2020-08-14 13:35:35
 image: 'https://m.media-amazon.com/images/I/61YjtSzmD2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6SQFE1-de Fire Emblem Echoes: Shadows of Valentia [3DS]'
 sku: 'B01N6SQFE1-de'
 tags: [  ]

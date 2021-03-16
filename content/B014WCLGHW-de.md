@@ -5,7 +5,7 @@ date: 2020-05-22 08:47:11
 image: 'https://m.media-amazon.com/images/I/419ojPdx7ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014WCLGHW-de Philips BTM3360/12 Stereoanlage mit Bluetooth Multipair...'
 sku: 'B014WCLGHW-de'
 tags: [  ]

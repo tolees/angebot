@@ -5,7 +5,7 @@ date: 2020-01-23 01:25:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/412FDRNkquL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZQQMHK-de GUND 6053047 - Interaktiver Flappy der Elefant mit...'
 sku: 'B07PZQQMHK-de'
 tags: [  ]

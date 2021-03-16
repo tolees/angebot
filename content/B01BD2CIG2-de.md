@@ -5,7 +5,7 @@ date: 2020-09-25 19:48:31
 image: 'https://m.media-amazon.com/images/I/31pXjegZ+bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BD2CIG2-de Urban Classics Ladies Tech Mesh Leggings Schwarz black 7 M'
 sku: 'B01BD2CIG2-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-09 19:44:28
 image: 'https://m.media-amazon.com/images/I/51Xy02tjAkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LP4H22S-de Bosch Professional Kreuzlinienlaser GLL 2-10 roter Laser...'
 sku: 'B01LP4H22S-de'
 tags: [  ]

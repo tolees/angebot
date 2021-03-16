@@ -5,7 +5,7 @@ date: 2020-08-28 00:27:19
 image: 'https://m.media-amazon.com/images/I/41wOaIPK5LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082NZYDDM-de Cudy AX3000 WiFi 6 PCIe Karte für PC Bluetooth 5.0 PCIe...'
 sku: 'B082NZYDDM-de'
 tags: [  ]

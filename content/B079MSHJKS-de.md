@@ -5,7 +5,7 @@ date: 2020-04-08 05:28:40
 image: 'https://m.media-amazon.com/images/I/51tQsD60iXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MSHJKS-de PLAYMOBIL City Life 9456 Chemieunterricht Ab 5 Jahren'
 sku: 'B079MSHJKS-de'
 tags: [  ]

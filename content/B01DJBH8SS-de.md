@@ -5,7 +5,7 @@ date: 2020-09-14 17:08:33
 image: 'https://m.media-amazon.com/images/I/211kzCKunxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DJBH8SS-de Parker Jotter Kugelschreiber | Bond Street Black |...'
 sku: 'B01DJBH8SS-de'
 tags: [  ]

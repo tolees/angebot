@@ -5,7 +5,7 @@ date: 2020-02-19 00:30:58
 image: 'https://m.media-amazon.com/images/I/41gA-WfJOAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001RM8BUG-de Panasonic LUMIX DMW-BCG10E Aufladbarer Li-Ion Akku...'
 sku: 'B001RM8BUG-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-15 15:22:57
 image: 'https://m.media-amazon.com/images/I/51DskuGEvjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013KERWSU-de Unbekannt Creative Converting 5 Dizzy Danglers Sortiert...'
 sku: 'B013KERWSU-de'
 tags: [  ]

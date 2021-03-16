@@ -5,7 +5,7 @@ date: 2020-04-15 00:00:02
 image: 'https://m.media-amazon.com/images/I/417XynkkxVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FK1KPKN-de Hasbro E4161ES2 - Disney Prinzessin Schimmerglanz...'
 sku: 'B07FK1KPKN-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-19 05:11:41
 image: 'https://m.media-amazon.com/images/I/41r0F1L9--L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGTWA6U-de G-STAR RAW Herren Rovic Zip 3d Straight Tapered Hose...'
 sku: 'B01BGTWA6U-de'
 tags: [  ]

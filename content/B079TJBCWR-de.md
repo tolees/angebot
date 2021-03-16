@@ -5,7 +5,7 @@ date: 2020-07-13 09:16:33
 image: 'https://m.media-amazon.com/images/I/41z59c47HUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079TJBCWR-de Funko 30850 POP Vinyl Deadpool Parody Multi Standard'
 sku: 'B079TJBCWR-de'
 tags: [  ]

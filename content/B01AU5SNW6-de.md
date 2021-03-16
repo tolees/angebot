@@ -5,7 +5,7 @@ date: 2020-03-05 13:47:16
 image: 'https://m.media-amazon.com/images/I/41IyB75NzhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AU5SNW6-de Bosch Professional 5 tlg. Hammerbohrer SDS Plus-7X Set für...'
 sku: 'B01AU5SNW6-de'
 tags: [  ]

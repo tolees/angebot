@@ -5,7 +5,7 @@ date: 2020-03-09 07:52:23
 image: 'https://m.media-amazon.com/images/I/31LFrfqQzlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VUGOSWY-de Anker PowerPort 40W 5-Port USB Ladegerät Multi-Port USB...'
 sku: 'B00VUGOSWY-de'
 tags: [  ]

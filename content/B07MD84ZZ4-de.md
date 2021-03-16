@@ -5,7 +5,7 @@ date: 2020-03-17 11:59:25
 image: 'https://m.media-amazon.com/images/I/51Z5NyulUML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MD84ZZ4-de Akkuschrauber GOXAWEE 12V Akku Bohrschrauber mit 100...'
 sku: 'B07MD84ZZ4-de'
 tags: [  ]

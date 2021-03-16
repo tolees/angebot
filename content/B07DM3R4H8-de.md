@@ -5,7 +5,7 @@ date: 2020-08-15 12:04:25
 image: 'https://m.media-amazon.com/images/I/51Ih5D56A8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DM3R4H8-de Rolimate Steckplatte Holz Holzpuzzles Sortierspiel...'
 sku: 'B07DM3R4H8-de'
 tags: [  ]

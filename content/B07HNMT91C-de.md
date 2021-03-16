@@ -5,7 +5,7 @@ date: 2020-03-29 06:08:49
 image: 'https://m.media-amazon.com/images/I/516DSMtIqwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HNMT91C-de ASUS ROG STRIX NVIDIA GeForce RTX 2080 Ti OC 11G Gaming...'
 sku: 'B07HNMT91C-de'
 tags: [  ]

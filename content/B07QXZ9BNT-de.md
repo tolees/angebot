@@ -5,7 +5,7 @@ date: 2020-08-23 06:51:47
 image: 'https://m.media-amazon.com/images/I/41NO3P5OO2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QXZ9BNT-de Be Mammy Lange Umstandsleggings aus Viskose BE-02 2er Pack...'
 sku: 'B07QXZ9BNT-de'
 tags: [  ]

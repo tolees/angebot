@@ -5,7 +5,7 @@ date: 2020-03-24 13:09:58
 image: 'https://m.media-amazon.com/images/I/41aRqwqmxxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M0LWL0O-de Big Spielwarenfabrik 57072 Bausteine Multicolour'
 sku: 'B00M0LWL0O-de'
 tags: [  ]

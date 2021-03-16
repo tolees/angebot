@@ -5,7 +5,7 @@ date: 2020-10-12 08:15:04
 image: 'https://m.media-amazon.com/images/I/31LgilJutIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000Y8VTIK-de Dewalt DT7030-QZ Adapter f. Bohrfutter SDS-plus 1/2Zoll'
 sku: 'B000Y8VTIK-de'
 tags: [  ]

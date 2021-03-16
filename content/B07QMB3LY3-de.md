@@ -5,7 +5,7 @@ date: 2020-04-07 21:42:39
 image: 'https://m.media-amazon.com/images/I/41sjGKHIp6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QMB3LY3-de Dickie Toys 203715011 Police Chase Polizeiauto...'
 sku: 'B07QMB3LY3-de'
 tags: [  ]

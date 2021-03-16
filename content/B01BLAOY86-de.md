@@ -5,7 +5,7 @@ date: 2020-10-09 12:13:25
 image: 'https://m.media-amazon.com/images/I/61xzBgwuDaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BLAOY86-de Santana [Vinyl LP]'
 sku: 'B01BLAOY86-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-03 11:53:24
 image: 'https://m.media-amazon.com/images/I/41Ue9CkLuPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCW47RV-de Microsoft Surface Pro 7 12 3 Zoll 2-in-1 Tablet Intel Core...'
 sku: 'B07XCW47RV-de'
 tags: [  ]

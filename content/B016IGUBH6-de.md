@@ -5,7 +5,7 @@ date: 2020-03-30 09:41:22
 image: 'https://m.media-amazon.com/images/I/41sMAcShIzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016IGUBH6-de Neff TTT1906N / T19TT06N0 / Autarkes Kochfeld /...'
 sku: 'B016IGUBH6-de'
 tags: [  ]

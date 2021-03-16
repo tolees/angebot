@@ -5,7 +5,7 @@ date: 2020-04-14 08:21:51
 image: 'https://m.media-amazon.com/images/I/51hbDbtVRTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YY1QDX4-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars First...'
 sku: 'B07YY1QDX4-de'
 tags: [  ]

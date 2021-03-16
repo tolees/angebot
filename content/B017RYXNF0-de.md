@@ -5,7 +5,7 @@ date: 2020-06-05 19:16:30
 image: 'https://m.media-amazon.com/images/I/41wYF7u3PPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017RYXNF0-de Linksys Max-Stream AC5400 MU-MIMO Dual-Band Wi-Fi Router...'
 sku: 'B017RYXNF0-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-18 00:41:59
 image: 'https://m.media-amazon.com/images/I/61rsqAViPHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T9C4HMH-de Fintie Hülle für Kindle Paperwhite - Die dünnste und...'
 sku: 'B07T9C4HMH-de'
 tags: [  ]

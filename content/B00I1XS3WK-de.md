@@ -5,7 +5,7 @@ date: 2020-01-26 17:12:43
 image: 'https://m.media-amazon.com/images/I/41tBacuVutL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I1XS3WK-de Motorola Handy Akku Original kompatible Mobiltelefone'
 sku: 'B00I1XS3WK-de'
 tags: [  ]

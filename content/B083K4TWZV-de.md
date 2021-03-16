@@ -5,7 +5,7 @@ date: 2020-09-30 05:23:27
 image: 'https://m.media-amazon.com/images/I/414adjeUQEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083K4TWZV-de 144 Stunden In-Ear Bluetooth Kopfhörer Ohrhörer Kabellos...'
 sku: 'B083K4TWZV-de'
 tags: [  ]

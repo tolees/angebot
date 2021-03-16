@@ -5,7 +5,7 @@ date: 2020-07-18 05:42:34
 image: 'https://m.media-amazon.com/images/I/31AteFEMtZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088GPBNLL-de CHALA 200STK Klebstoff Applikatorspitzen Kleber Extender...'
 sku: 'B088GPBNLL-de'
 tags: [  ]

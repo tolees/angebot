@@ -5,7 +5,7 @@ date: 2020-03-07 05:04:14
 image: 'https://m.media-amazon.com/images/I/41rbujx23pL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000EGSGQK-de VARTA Longlife 9V Block 6LP3146 Batterie Alkaline E-Block...'
 sku: 'B000EGSGQK-de'
 tags: [  ]

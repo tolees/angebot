@@ -5,7 +5,7 @@ date: 2020-03-03 13:18:31
 image: 'https://m.media-amazon.com/images/I/41plhz6SkRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075T8H9XJ-de AUKEY Dashcam Dual 1080P Front und Rück Autokamera mit...'
 sku: 'B075T8H9XJ-de'
 tags: [  ]

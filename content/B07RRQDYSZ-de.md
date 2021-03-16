@@ -5,7 +5,7 @@ date: 2020-04-15 07:33:21
 image: 'https://m.media-amazon.com/images/I/41CAD1RDVAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RRQDYSZ-de Bierothek® Bierpaket Emelisse 12 Flaschen Craft Bier |...'
 sku: 'B07RRQDYSZ-de'
 tags: [  ]

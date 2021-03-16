@@ -5,7 +5,7 @@ date: 2020-03-13 05:07:37
 image: 'https://m.media-amazon.com/images/I/41R9iSrnWYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003QTENM8-de Invicta 9223 Speedway Unisex Uhr Edelstahl Quarz schwarzen...'
 sku: 'B003QTENM8-de'
 tags: [  ]

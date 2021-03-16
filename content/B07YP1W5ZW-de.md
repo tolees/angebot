@@ -5,7 +5,7 @@ date: 2020-09-24 19:49:10
 image: 'https://m.media-amazon.com/images/I/41sxgc5Ms8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YP1W5ZW-de Barilla Pasta Spaghettini n. 3 500g'
 sku: 'B07YP1W5ZW-de'
 tags: [  ]

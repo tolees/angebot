@@ -5,7 +5,7 @@ date: 2020-04-14 23:57:47
 image: 'https://m.media-amazon.com/images/I/31GvnLAvigL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WKFJX84-de Color de bronce Hombres Mujeres Anillo de salto Abrir y...'
 sku: 'B07WKFJX84-de'
 tags: [  ]

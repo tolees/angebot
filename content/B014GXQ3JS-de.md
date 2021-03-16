@@ -5,7 +5,7 @@ date: 2020-04-17 15:04:56
 image: 'https://m.media-amazon.com/images/I/41bCLlp+yuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014GXQ3JS-de Logitech G633 Artemis Spectrum Pro Gaming Headset 7.1...'
 sku: 'B014GXQ3JS-de'
 tags: [  ]

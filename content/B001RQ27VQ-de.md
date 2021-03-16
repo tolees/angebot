@@ -5,7 +5,7 @@ date: 2020-10-01 05:53:43
 image: 'https://m.media-amazon.com/images/I/41Ot7ecHFML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001RQ27VQ-de Cramer Reparatur-Lackstift Email Acryl Keramik -...'
 sku: 'B001RQ27VQ-de'
 tags: [  ]

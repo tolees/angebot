@@ -5,7 +5,7 @@ date: 2020-02-26 01:19:29
 image: 'https://m.media-amazon.com/images/I/31BC6E5Qx2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016IGUGRG-de Neff TPT4660X / T46PT60X0 / Autarkes Kochfeld / Induktion...'
 sku: 'B016IGUGRG-de'
 tags: [  ]

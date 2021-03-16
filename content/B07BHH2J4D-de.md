@@ -5,7 +5,7 @@ date: 2020-06-09 07:16:00
 image: 'https://m.media-amazon.com/images/I/41-SL2md70L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHH2J4D-de ghd max Styler breites Glätteisen mit Keramik-Heiztechnologie'
 sku: 'B07BHH2J4D-de'
 tags: [  ]

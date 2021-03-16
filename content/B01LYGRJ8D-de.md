@@ -5,7 +5,7 @@ date: 2020-02-08 15:45:39
 image: 'https://m.media-amazon.com/images/I/41KLTf8fC1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYGRJ8D-de Panama Jack Herren Panama 03 Aviator Combat Boots...'
 sku: 'B01LYGRJ8D-de'
 tags: [  ]

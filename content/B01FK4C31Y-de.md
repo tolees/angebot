@@ -5,7 +5,7 @@ date: 2020-03-07 20:08:32
 image: 'https://m.media-amazon.com/images/I/41o6LBfm3XL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FK4C31Y-de Feuchtmann Spielwaren 6281513 - MEINE LIEBLINGSKNETE aus...'
 sku: 'B01FK4C31Y-de'
 tags: [  ]

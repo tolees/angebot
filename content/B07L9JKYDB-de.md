@@ -5,7 +5,7 @@ date: 2020-02-09 13:17:20
 image: 'https://m.media-amazon.com/images/I/419ovctASDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9JKYDB-de Napapijri Damen Rainforest W Sum 1 Jacke Rosa Pale Pink...'
 sku: 'B07L9JKYDB-de'
 tags: [  ]

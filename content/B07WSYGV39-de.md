@@ -5,7 +5,7 @@ date: 2020-02-27 04:00:19
 image: 'https://m.media-amazon.com/images/I/51vgsETc1ZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WSYGV39-de HSP Himoto 2.4GHz RC Ferngesteuerter Bausteine...'
 sku: 'B07WSYGV39-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-15 04:43:40
 image: 'https://m.media-amazon.com/images/I/31KcRWiisSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MBV6QB9-de BaByliss C2000E BaByliss C2000E Smooth & Wave 2 in 1 Auto-...'
 sku: 'B07MBV6QB9-de'
 tags: [  ]

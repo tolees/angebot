@@ -5,7 +5,7 @@ date: 2020-05-11 07:12:39
 image: 'https://m.media-amazon.com/images/I/51M3gQjHvNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073WVPJMZ-de Akkuschrauber 12volt set TACKLIFE Akku-Bohrschrauber 2000...'
 sku: 'B073WVPJMZ-de'
 tags: [  ]

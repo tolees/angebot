@@ -5,7 +5,7 @@ date: 2020-03-13 18:33:03
 image: 'https://m.media-amazon.com/images/I/51fKdDGTH5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083VZBRK6-de Kepae Acryl Vitrine für Lego 42096 Technic Porsche 911 RSR...'
 sku: 'B083VZBRK6-de'
 tags: [  ]

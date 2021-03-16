@@ -5,7 +5,7 @@ date: 2020-04-14 08:17:10
 image: 'https://m.media-amazon.com/images/I/51F5q0ut+xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQWIKU1-de Sex Gutscheine mit verschiedenen Stellungen für Paare für...'
 sku: 'B01MQWIKU1-de'
 tags: [  ]

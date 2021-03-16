@@ -5,7 +5,7 @@ date: 2020-08-22 16:56:07
 image: 'https://m.media-amazon.com/images/I/315YKMop4UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075ZTMBH2-de X-WATCH 54010 "SIONA XW FIT" Damen Smartwatch Activity...'
 sku: 'B075ZTMBH2-de'
 tags: [  ]

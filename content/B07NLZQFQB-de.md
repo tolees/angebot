@@ -5,7 +5,7 @@ date: 2020-01-17 13:04:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41YJf6cNgjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLZQFQB-de Fila Herren Disruptor Low Sneaker Schwarz Black...'
 sku: 'B07NLZQFQB-de'
 tags: [  ]

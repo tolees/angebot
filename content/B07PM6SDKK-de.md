@@ -5,7 +5,7 @@ date: 2020-04-15 00:03:57
 image: 'https://m.media-amazon.com/images/I/21W0sk-yaML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PM6SDKK-de Samsung RB8000 RL36R8739S9/EG Kühl-/Gefrierkombination 202...'
 sku: 'B07PM6SDKK-de'
 tags: [  ]

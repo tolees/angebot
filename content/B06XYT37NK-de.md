@@ -5,7 +5,7 @@ date: 2020-01-05 12:24:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QFb%2BS1BlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XYT37NK-de SanDisk SDSQXCG-064G-GN6MA 64GB Extreme Pro Micro SD Karte...'
 sku: 'B06XYT37NK-de'
 tags: [  ]

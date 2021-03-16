@@ -5,7 +5,7 @@ date: 2020-04-13 23:57:05
 image: 'https://m.media-amazon.com/images/I/41iVlV1vjPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081J8WJR9-de McFarlane Toys Cyberpunk 2077 Action Figure Johnny 18 cm...'
 sku: 'B081J8WJR9-de'
 tags: [  ]

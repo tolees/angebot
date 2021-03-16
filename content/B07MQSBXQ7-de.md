@@ -5,7 +5,7 @@ date: 2020-04-07 21:31:51
 image: 'https://m.media-amazon.com/images/I/41Yfh9P8EYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQSBXQ7-de kingromargo Herramienta precisa de reparación de retrabajo...'
 sku: 'B07MQSBXQ7-de'
 tags: [  ]

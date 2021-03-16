@@ -5,7 +5,7 @@ date: 2020-08-04 06:05:06
 image: 'https://m.media-amazon.com/images/I/31URF+3G-HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081Q5RCMV-de Bluetooth Headset mit Microfon TaoTronics PC Headset...'
 sku: 'B081Q5RCMV-de'
 tags: [  ]

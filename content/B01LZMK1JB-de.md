@@ -5,7 +5,7 @@ date: 2020-05-07 19:12:17
 image: 'https://m.media-amazon.com/images/I/31zqKz2d8mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZMK1JB-de DJI Mavic Pro - Umhängetasche für Mavic Pro Zubehör 1...'
 sku: 'B01LZMK1JB-de'
 tags: [  ]

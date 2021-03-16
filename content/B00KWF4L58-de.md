@@ -5,7 +5,7 @@ date: 2020-02-19 05:03:06
 image: 'https://m.media-amazon.com/images/I/41iFsf8lSZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KWF4L58-de Columbia Herren Woodburn II Waterproof Wasserdichte Schuhe...'
 sku: 'B00KWF4L58-de'
 tags: [  ]

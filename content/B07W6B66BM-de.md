@@ -5,7 +5,7 @@ date: 2020-09-15 18:58:25
 image: 'https://m.media-amazon.com/images/I/41+n1mpNFPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6B66BM-de Pepsi Max Das zuckerfreie Erfrischungsgetränk von Pepsi...'
 sku: 'B07W6B66BM-de'
 tags: [  ]

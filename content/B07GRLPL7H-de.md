@@ -5,7 +5,7 @@ date: 2020-09-26 15:43:28
 image: 'https://m.media-amazon.com/images/I/51dno5nHXsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GRLPL7H-de Gundermann'
 sku: 'B07GRLPL7H-de'
 tags: [  ]

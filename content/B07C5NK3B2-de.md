@@ -5,7 +5,7 @@ date: 2020-03-03 04:56:30
 image: 'https://m.media-amazon.com/images/I/31H4CyTXgvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C5NK3B2-de Rosti Mepal 107778076700 Flasche Ellipse 700 ml Kunststoff...'
 sku: 'B07C5NK3B2-de'
 tags: [  ]

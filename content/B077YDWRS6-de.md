@@ -5,7 +5,7 @@ date: 2020-02-27 21:12:25
 image: 'https://m.media-amazon.com/images/I/31YiGdy1O1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YDWRS6-de Maxi-Cosi FamilyFix One i-Size Isofix Basisstation 0-18 kg...'
 sku: 'B077YDWRS6-de'
 tags: [  ]

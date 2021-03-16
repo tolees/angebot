@@ -5,7 +5,7 @@ date: 2020-04-15 23:59:41
 image: 'https://m.media-amazon.com/images/I/41gLrVdWfEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MDNO7ZZ-de Dickie Toys Happy Fendt Traktor Trecker Bauernhof...'
 sku: 'B01MDNO7ZZ-de'
 tags: [  ]

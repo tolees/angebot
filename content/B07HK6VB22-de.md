@@ -5,7 +5,7 @@ date: 2020-10-04 18:20:53
 image: 'https://m.media-amazon.com/images/I/31ht5aXXg0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HK6VB22-de Marttiini 183609 Gürtelmesser Big Dipper Messer Silber'
 sku: 'B07HK6VB22-de'
 tags: [  ]

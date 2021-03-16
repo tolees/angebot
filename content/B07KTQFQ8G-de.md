@@ -5,7 +5,7 @@ date: 2020-04-09 08:17:55
 image: 'https://m.media-amazon.com/images/I/41S2xZ1CZ7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTQFQ8G-de Tommy Hilfiger Damen Multi Dial Quartz Uhr Jenna'
 sku: 'B07KTQFQ8G-de'
 tags: [  ]

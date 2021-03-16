@@ -5,7 +5,7 @@ date: 2020-03-27 21:16:40
 image: 'https://m.media-amazon.com/images/I/51Zu39-AvUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XB1PK4C-de Need for Speed Heat | Standard | PC Download - Origin Code'
 sku: 'B07XB1PK4C-de'
 tags: [  ]

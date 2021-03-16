@@ -5,7 +5,7 @@ date: 2020-10-06 06:28:32
 image: 'https://m.media-amazon.com/images/I/51XZrBmvW9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079PR4QBQ-de Ladeheid Jungen Hausschuhe mit Klettverschluss LAVI0003...'
 sku: 'B079PR4QBQ-de'
 tags: [  ]

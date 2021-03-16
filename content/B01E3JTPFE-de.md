@@ -5,7 +5,7 @@ date: 2020-05-17 16:35:38
 image: 'https://m.media-amazon.com/images/I/41Z-aTeWjkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E3JTPFE-de Bang & Olufsen BeoPlay S3 Bluetooth-Lautsprecher schwarz'
 sku: 'B01E3JTPFE-de'
 tags: [  ]

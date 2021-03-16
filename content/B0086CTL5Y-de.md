@@ -5,7 +5,7 @@ date: 2020-03-13 05:07:22
 image: 'https://m.media-amazon.com/images/I/41nMY1BklSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0086CTL5Y-de Garmin KFZ Ladekabel Mini USB 2 Amp'
 sku: 'B0086CTL5Y-de'
 tags: [  ]

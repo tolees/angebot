@@ -5,7 +5,7 @@ date: 2020-04-16 17:36:02
 image: 'https://m.media-amazon.com/images/I/51X3EJPfu8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGFZF4L-de BERTASCHE Laptoptasche 15.6 Zoll Notebooktasche Schulter...'
 sku: 'B07VGFZF4L-de'
 tags: [  ]

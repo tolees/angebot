@@ -5,7 +5,7 @@ date: 2020-03-14 04:57:03
 image: 'https://m.media-amazon.com/images/I/51sv8uUWjBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016NWRFGA-de Wrebbit 3D W3D-2014 Harry Potter 3D Puzzle bunt'
 sku: 'B016NWRFGA-de'
 tags: [  ]

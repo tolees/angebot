@@ -5,7 +5,7 @@ date: 2020-03-15 04:43:54
 image: 'https://m.media-amazon.com/images/I/51ODsLkt0SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1CDLL9-de Glass [Blu-ray]'
 sku: 'B07N1CDLL9-de'
 tags: [  ]

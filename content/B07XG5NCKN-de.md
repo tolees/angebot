@@ -5,7 +5,7 @@ date: 2020-09-12 08:53:08
 image: 'https://m.media-amazon.com/images/I/31Qt1Cu6-JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XG5NCKN-de POP! Disney: Frozen 2 - Bruni'
 sku: 'B07XG5NCKN-de'
 tags: [  ]

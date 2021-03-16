@@ -5,7 +5,7 @@ date: 2020-01-02 20:44:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/311F7wuTMnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IAPOPAI-de Kärcher Mehrzwecksauger WD 3 Premium Behältergröße: 17 l...'
 sku: 'B00IAPOPAI-de'
 tags: [  ]

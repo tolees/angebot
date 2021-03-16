@@ -5,7 +5,7 @@ date: 2020-08-05 09:27:51
 image: 'https://m.media-amazon.com/images/I/41ZDhvEsEpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077HW9XM7-de ECOVACS Robotics DEEBOT N79S Saugroboter –...'
 sku: 'B077HW9XM7-de'
 tags: [  ]

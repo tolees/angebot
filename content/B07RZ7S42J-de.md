@@ -5,7 +5,7 @@ date: 2020-03-04 18:26:42
 image: 'https://m.media-amazon.com/images/I/5102rYO89dL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZ7S42J-de BRIKSMAX Led Beleuchtungsset für Disney Mickey s Steamboat...'
 sku: 'B07RZ7S42J-de'
 tags: [  ]

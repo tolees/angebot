@@ -5,7 +5,7 @@ date: 2020-09-07 19:44:29
 image: 'https://m.media-amazon.com/images/I/51UhA6vOmZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HHKPC48-de Bosch Akkuschrauber AdvancedDrill 18 Set 2 Akkus 18 Volt...'
 sku: 'B07HHKPC48-de'
 tags: [  ]

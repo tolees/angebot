@@ -5,7 +5,7 @@ date: 2020-09-13 04:44:24
 image: 'https://m.media-amazon.com/images/I/21HrC8XWhML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GHDI3BC-de Gardena Teleskop-Hochentaster TCS Li-18/20 Set: Astsäge...'
 sku: 'B00GHDI3BC-de'
 tags: [  ]

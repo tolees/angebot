@@ -5,7 +5,7 @@ date: 2020-01-30 18:56:56
 image: 'https://m.media-amazon.com/images/I/419ZSOkvJaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073SG45RD-de HyperX HXK-DM01 Pulsefire FPS & FURY S Gaming Maus mit...'
 sku: 'B073SG45RD-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-21 11:51:52
 image: 'https://m.media-amazon.com/images/I/41Tku5QcoAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KUV3Q0O-de Anker PowerPort Speed 5 63W 5 Port USB Ladegerät Netzteile...'
 sku: 'B01KUV3Q0O-de'
 tags: [  ]

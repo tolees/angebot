@@ -5,7 +5,7 @@ date: 2020-08-30 12:36:54
 image: 'https://m.media-amazon.com/images/I/413Tmn-verL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPHL1YZ-de Funko! Rides: Game of Thrones S10: White Walker on Horse...'
 sku: 'B07KPHL1YZ-de'
 tags: [  ]

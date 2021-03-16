@@ -5,7 +5,7 @@ date: 2020-01-24 18:54:42
 image: 'https://m.media-amazon.com/images/I/41iF73vg3fL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L2N2LWT-de Sharkoon Drakonia II Gaming Maus optischer Sensor PixArt...'
 sku: 'B07L2N2LWT-de'
 tags: [  ]

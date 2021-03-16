@@ -5,7 +5,7 @@ date: 2020-08-27 03:42:30
 image: 'https://m.media-amazon.com/images/I/31jnYyyGPWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DBYR4WZ-de PUMA Damen Vikky v2 Sneaker Grau Silver Gray-White Silver...'
 sku: 'B07DBYR4WZ-de'
 tags: [  ]

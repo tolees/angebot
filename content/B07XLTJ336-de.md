@@ -5,7 +5,7 @@ date: 2020-04-16 08:17:36
 image: 'https://m.media-amazon.com/images/I/41ngbU4nq6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XLTJ336-de MEDION P6645 39 5 cm 15 6 Zoll Full HD Notebook Intel Core...'
 sku: 'B07XLTJ336-de'
 tags: [  ]

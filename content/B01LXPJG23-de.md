@@ -5,7 +5,7 @@ date: 2020-02-06 04:57:27
 image: 'https://m.media-amazon.com/images/I/31d-YDMbXwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXPJG23-de Tado Smartes Heizkörper-Thermostat Zusatzprodukt für...'
 sku: 'B01LXPJG23-de'
 tags: [  ]

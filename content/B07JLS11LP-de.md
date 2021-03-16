@@ -5,7 +5,7 @@ date: 2020-04-07 21:45:55
 image: 'https://m.media-amazon.com/images/I/51WhL4D-F5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLS11LP-de Playmobil 70175 Figurenset Ghostbusters bunt'
 sku: 'B07JLS11LP-de'
 tags: [  ]

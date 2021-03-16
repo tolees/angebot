@@ -5,7 +5,7 @@ date: 2020-03-05 04:44:03
 image: 'https://m.media-amazon.com/images/I/41fB3HYU+iL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EI9HAGU-de adidas Herren Gazelle Sneakers Azul Collegiate...'
 sku: 'B01EI9HAGU-de'
 tags: [  ]

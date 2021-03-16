@@ -5,7 +5,7 @@ date: 2020-04-19 08:21:35
 image: 'https://m.media-amazon.com/images/I/41UeBz2jExL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UEMFGQM-de Philips Hue Go LED Leuchte tragbares kabelloses Licht...'
 sku: 'B00UEMFGQM-de'
 tags: [  ]

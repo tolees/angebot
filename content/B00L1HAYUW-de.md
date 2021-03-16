@@ -5,7 +5,7 @@ date: 2020-04-16 14:43:43
 image: 'https://m.media-amazon.com/images/I/41lErxc6fdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L1HAYUW-de Exquisit KS 85-9 RVA+ Kühlschrank/ 82 Liter Nutzinhalt/...'
 sku: 'B00L1HAYUW-de'
 tags: [  ]

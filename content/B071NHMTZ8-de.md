@@ -5,7 +5,7 @@ date: 2020-03-01 12:04:38
 image: 'https://m.media-amazon.com/images/I/41LJ3vvPnrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071NHMTZ8-de Funko 12381 POP Vinylfigur: My Hero Academia: All Might Multi'
 sku: 'B071NHMTZ8-de'
 tags: [  ]

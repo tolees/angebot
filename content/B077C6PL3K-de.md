@@ -5,7 +5,7 @@ date: 2020-04-28 08:22:07
 image: 'https://m.media-amazon.com/images/I/517O2yTg7-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077C6PL3K-de Diesel Damen Analog Quarz Uhr mit Edelstahl Armband DZ5567'
 sku: 'B077C6PL3K-de'
 tags: [  ]

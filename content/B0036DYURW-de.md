@@ -5,7 +5,7 @@ date: 2020-02-03 10:53:28
 image: 'https://m.media-amazon.com/images/I/41jDLfyhbiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0036DYURW-de NIKE Damen Sport-BH Victory Compression Schwarz...'
 sku: 'B0036DYURW-de'
 tags: [  ]

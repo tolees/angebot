@@ -5,7 +5,7 @@ date: 2020-05-08 19:16:16
 image: 'https://m.media-amazon.com/images/I/41agtLtaehL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XM0XWUA-de Polaroid ZIP Handydrucker mit ZINK Zero tintenfreier...'
 sku: 'B00XM0XWUA-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-10 15:54:39
 image: 'https://m.media-amazon.com/images/I/31RhHZA+PqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086QXGMHH-de HMY Transparente Florero vidrio Florero hidropónico...'
 sku: 'B086QXGMHH-de'
 tags: [  ]

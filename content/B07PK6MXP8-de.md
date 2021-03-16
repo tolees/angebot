@@ -5,7 +5,7 @@ date: 2020-04-10 23:47:01
 image: 'https://m.media-amazon.com/images/I/51PPCJ3KF3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PK6MXP8-de Detektiv Conan - TV-Serie - Vol.9 - [DVD]'
 sku: 'B07PK6MXP8-de'
 tags: [  ]

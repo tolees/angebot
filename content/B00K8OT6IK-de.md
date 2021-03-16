@@ -5,7 +5,7 @@ date: 2020-09-26 22:49:09
 image: 'https://m.media-amazon.com/images/I/41Cvzz6pVKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K8OT6IK-de camel active Herren 488845/9939 Jeans Dark Blue Used W33/...'
 sku: 'B00K8OT6IK-de'
 tags: [  ]

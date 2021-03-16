@@ -5,7 +5,7 @@ date: 2020-04-14 16:06:59
 image: 'https://m.media-amazon.com/images/I/514mWsb7uiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071X7HZBN-de POP Television: Bob Ross'
 sku: 'B071X7HZBN-de'
 tags: [  ]

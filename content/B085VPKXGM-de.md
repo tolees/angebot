@@ -5,7 +5,7 @@ date: 2020-04-14 16:26:00
 image: 'https://m.media-amazon.com/images/I/41o28xoh9uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085VPKXGM-de Dittzz LED Licht-Set für Baustein Spielzeug...'
 sku: 'B085VPKXGM-de'
 tags: [  ]

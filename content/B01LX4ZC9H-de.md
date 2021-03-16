@@ -5,7 +5,7 @@ date: 2020-02-15 15:27:29
 image: 'https://m.media-amazon.com/images/I/61cxX7rMNhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LX4ZC9H-de Playmobil 9224 - Spengler und Geist'
 sku: 'B01LX4ZC9H-de'
 tags: [  ]

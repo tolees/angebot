@@ -5,7 +5,7 @@ date: 2020-03-30 12:21:21
 image: 'https://m.media-amazon.com/images/I/31cKAi5TscL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DMCMC85-de Lacoste Herren ESPARRE BL 1 CMA Sneaker Blau Navy/White 42 EU'
 sku: 'B07DMCMC85-de'
 tags: [  ]

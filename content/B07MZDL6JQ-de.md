@@ -5,7 +5,7 @@ date: 2020-01-21 15:52:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41oX19sZIhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZDL6JQ-de MUSTANG Herren Regular Fit Michigan Straight Jeans'
 sku: 'B07MZDL6JQ-de'
 tags: [  ]

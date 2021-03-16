@@ -5,7 +5,7 @@ date: 2020-03-18 02:33:39
 image: 'https://m.media-amazon.com/images/I/51HdFfyJXTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N68RHKK-de Symiu 3D Puzzle Kinder Mosaik Steckspiel Bausteine mit...'
 sku: 'B07N68RHKK-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-08 16:01:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417G5dLD1RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZNLYJX-de Akku Handkreissäge TECCPO 18V 4.0Ah Akku 1 Std....'
 sku: 'B07TZNLYJX-de'
 tags: [  ]

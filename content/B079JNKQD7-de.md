@@ -5,7 +5,7 @@ date: 2020-10-07 01:32:27
 image: 'https://m.media-amazon.com/images/I/3149N9T28BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079JNKQD7-de Le Creuset Signature Gusseisen-Bräter mit Deckel Ø 26 cm...'
 sku: 'B079JNKQD7-de'
 tags: [  ]

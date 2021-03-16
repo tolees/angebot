@@ -5,7 +5,7 @@ date: 2020-09-28 06:27:56
 image: 'https://m.media-amazon.com/images/I/416lV9qLmML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0068XIHXA-de Tassimo Kapseln Jacobs Krönung XL 80 Kaffeekapseln 5er...'
 sku: 'B0068XIHXA-de'
 tags: [  ]

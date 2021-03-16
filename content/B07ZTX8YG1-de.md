@@ -5,7 +5,7 @@ date: 2020-03-14 10:37:59
 image: 'https://m.media-amazon.com/images/I/51j33V91SAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZTX8YG1-de PLAYMOBIL Top Agents 70233 Arctic Rebels Eisroboter Ab 6...'
 sku: 'B07ZTX8YG1-de'
 tags: [  ]

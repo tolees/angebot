@@ -5,7 +5,7 @@ date: 2020-02-12 22:55:49
 image: 'https://m.media-amazon.com/images/I/41akyFIPN3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBM7ML1-de CREATIVE Sound BlasterX H6 USB-Gaming-Headset virtueller...'
 sku: 'B07LBM7ML1-de'
 tags: [  ]

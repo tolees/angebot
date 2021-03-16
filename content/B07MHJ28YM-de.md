@@ -5,7 +5,7 @@ date: 2020-05-02 07:28:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GXTwySK9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MHJ28YM-de Bang & Olufsen Beoplay E8 2.0 - 100% kabellose Bluetooth-...'
 sku: 'B07MHJ28YM-de'
 tags: [  ]

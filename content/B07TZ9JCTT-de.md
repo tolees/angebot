@@ -5,7 +5,7 @@ date: 2020-04-12 16:14:29
 image: 'https://m.media-amazon.com/images/I/414Gdo4RlwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ9JCTT-de Design Fahrradzubehör | Fahrradhalter Wand | Fahrrad...'
 sku: 'B07TZ9JCTT-de'
 tags: [  ]

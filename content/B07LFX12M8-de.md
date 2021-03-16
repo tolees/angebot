@@ -5,7 +5,7 @@ date: 2020-04-18 00:29:47
 image: 'https://m.media-amazon.com/images/I/31O3IU5KPYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFX12M8-de Sloggi Damen Zero Microfibre C2P Hipster Mehrfarbig Black...'
 sku: 'B07LFX12M8-de'
 tags: [  ]

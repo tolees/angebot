@@ -5,7 +5,7 @@ date: 2020-06-11 15:28:12
 image: 'https://m.media-amazon.com/images/I/41UJU47yoWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQPG7KB-de FurReal Friends furReal Cubby mein Knuddelbär interaktives...'
 sku: 'B07KQPG7KB-de'
 tags: [  ]

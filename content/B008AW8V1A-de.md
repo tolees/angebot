@@ -5,7 +5,7 @@ date: 2020-09-30 23:38:53
 image: 'https://m.media-amazon.com/images/I/31QLv+sgqlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008AW8V1A-de Lacoste Herren Sport Poloshirt L1230-00 Einfarbig Gr....'
 sku: 'B008AW8V1A-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-05 08:45:45
 image: 'https://m.media-amazon.com/images/I/31rD2lzuQiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZFK1OR-de CYBEX Silver Kinder-Autositz Juno 2-Fix Für Autos mit...'
 sku: 'B01LZFK1OR-de'
 tags: [  ]

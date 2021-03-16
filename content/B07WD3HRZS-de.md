@@ -5,7 +5,7 @@ date: 2020-09-21 11:52:17
 image: 'https://m.media-amazon.com/images/I/41--lTzA30L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WD3HRZS-de Bluetooth Kopfhörer AIKELA Kopfhörer Kabellos In Ear...'
 sku: 'B07WD3HRZS-de'
 tags: [  ]

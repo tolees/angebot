@@ -5,7 +5,7 @@ date: 2020-09-21 15:13:19
 image: 'https://m.media-amazon.com/images/I/31nnD6-SS9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KBGNLM9-de VAUDE Damen Hose Women s Farley Stretch Pants II...'
 sku: 'B07KBGNLM9-de'
 tags: [  ]

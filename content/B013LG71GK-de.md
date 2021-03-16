@@ -5,7 +5,7 @@ date: 2020-03-07 16:37:46
 image: 'https://m.media-amazon.com/images/I/31AalU92FmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013LG71GK-de G-STAR RAW Herren Straight Tapered Jeans 3301 Straight...'
 sku: 'B013LG71GK-de'
 tags: [  ]

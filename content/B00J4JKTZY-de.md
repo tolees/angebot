@@ -5,7 +5,7 @@ date: 2020-01-26 04:40:27
 image: 'https://m.media-amazon.com/images/I/51K+D4+W9xL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J4JKTZY-de Invicta 8930OB Pro Diver Unisex Uhr Edelstahl Automatik...'
 sku: 'B00J4JKTZY-de'
 tags: [  ]

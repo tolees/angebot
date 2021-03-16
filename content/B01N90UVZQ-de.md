@@ -5,7 +5,7 @@ date: 2020-01-31 00:48:36
 image: 'https://m.media-amazon.com/images/I/31mGNe9utvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N90UVZQ-de Under Armour Herren Sporthose Schwarz X-Large'
 sku: 'B01N90UVZQ-de'
 tags: [  ]

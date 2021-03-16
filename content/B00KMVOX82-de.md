@@ -5,7 +5,7 @@ date: 2020-03-14 04:57:01
 image: 'https://m.media-amazon.com/images/I/413xPnQ4pNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KMVOX82-de Einhell Kompressor TH-AC 240/50/10 OF 1500 W 240 l/min...'
 sku: 'B00KMVOX82-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-18 06:00:46
 image: 'https://m.media-amazon.com/images/I/41OVE8YFMRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010TQY7A8-de Asmodee Exploding Kittens: A Card Game About Kittens and...'
 sku: 'B010TQY7A8-de'
 tags: [  ]

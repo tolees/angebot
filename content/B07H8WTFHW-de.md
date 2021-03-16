@@ -5,7 +5,7 @@ date: 2020-08-29 06:40:04
 image: 'https://m.media-amazon.com/images/I/41x6o1048NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H8WTFHW-de MEATER Plus | Das ultimative kabellose smarte...'
 sku: 'B07H8WTFHW-de'
 tags: [  ]

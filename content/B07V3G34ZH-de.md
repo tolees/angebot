@@ -5,7 +5,7 @@ date: 2020-07-24 15:11:14
 image: 'https://m.media-amazon.com/images/I/41-pnePgSPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3G34ZH-de Bluetooth Headset 0.3 Unzen Wasserdicht Dual CVC 8.0...'
 sku: 'B07V3G34ZH-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-06 16:05:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31tbkgIYvUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F91HXL8-de MSI PS42 8RB-073 Prestige Ultra Slim - Intel i7-8550U 1...'
 sku: 'B07F91HXL8-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-02 13:03:57
 image: 'https://m.media-amazon.com/images/I/31Xf0EaPeHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZL44PZY-de Mammut Herren Hardshell-jacke Albula Hooded rot S'
 sku: 'B07ZL44PZY-de'
 tags: [  ]

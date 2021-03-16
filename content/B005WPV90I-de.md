@@ -5,7 +5,7 @@ date: 2020-09-22 07:52:07
 image: 'https://m.media-amazon.com/images/I/417ocOgNlKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005WPV90I-de LTB Herren Boot-Cut Jeans Powder Aged 1241 L30W / 30L'
 sku: 'B005WPV90I-de'
 tags: [  ]

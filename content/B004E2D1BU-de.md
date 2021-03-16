@@ -5,7 +5,7 @@ date: 2020-04-17 23:34:14
 image: 'https://m.media-amazon.com/images/I/31CJeRLKPTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004E2D1BU-de Hasbro 33596848 - Super Soaker Bottle Blitz'
 sku: 'B004E2D1BU-de'
 tags: [  ]

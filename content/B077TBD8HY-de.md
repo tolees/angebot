@@ -5,7 +5,7 @@ date: 2020-04-15 08:01:13
 image: 'https://m.media-amazon.com/images/I/51UPhLWYzOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077TBD8HY-de Navitech rot Harter Fall für die Transcend 16 GB DrivePro...'
 sku: 'B077TBD8HY-de'
 tags: [  ]

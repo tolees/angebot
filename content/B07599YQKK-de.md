@@ -5,7 +5,7 @@ date: 2020-01-20 02:21:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/413gjsAwihL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07599YQKK-de Funko 24520 POP Bobble: Marvel: GOTG TT: Gamora'
 sku: 'B07599YQKK-de'
 tags: [  ]

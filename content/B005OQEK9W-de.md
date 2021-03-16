@@ -5,7 +5,7 @@ date: 2020-07-22 12:47:59
 image: 'https://m.media-amazon.com/images/I/41MX4ZXPMdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005OQEK9W-de Bosch Tischbohrmaschine PBD 40 710 W Max. Bohr-Ø in...'
 sku: 'B005OQEK9W-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-17 23:58:56
 image: 'https://m.media-amazon.com/images/I/51JhSAbnmFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MR5NVNK-de Hasbro Gaming C0447100 - Pipi Party Kinderspiel'
 sku: 'B01MR5NVNK-de'
 tags: [  ]

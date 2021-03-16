@@ -5,7 +5,7 @@ date: 2020-07-21 12:20:37
 image: 'https://m.media-amazon.com/images/I/51VqSJcGqRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014UXZMEG-de Dremel Platin Edition 4000 Multifunktionswerkzeug 175W Set...'
 sku: 'B014UXZMEG-de'
 tags: [  ]

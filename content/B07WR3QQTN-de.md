@@ -5,7 +5,7 @@ date: 2020-02-27 03:56:56
 image: 'https://m.media-amazon.com/images/I/51gyr8tnrFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WR3QQTN-de Bluetooth Kopfhörer Kopfhörer Kabellos In Ear Ohrhörer...'
 sku: 'B07WR3QQTN-de'
 tags: [  ]

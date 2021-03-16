@@ -5,7 +5,7 @@ date: 2020-02-10 18:20:06
 image: 'https://m.media-amazon.com/images/I/51CcJzwe90L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GJ5G4CJ-de Durex Gefühlsecht Kondome – Hauchzarte Kondome für...'
 sku: 'B07GJ5G4CJ-de'
 tags: [  ]

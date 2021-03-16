@@ -5,7 +5,7 @@ date: 2020-03-05 04:43:40
 image: 'https://m.media-amazon.com/images/I/41WxYcAxp3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LIX3AW8-de 3 Sprouts Aufbewahrungskiste Elefant'
 sku: 'B00LIX3AW8-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 16:25:44
 image: 'https://m.media-amazon.com/images/I/51UTNbel-mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083B9HV5N-de DXX Technik Bausteine Auto Icarus Roadster 1928Teile 1:10...'
 sku: 'B083B9HV5N-de'
 tags: [  ]

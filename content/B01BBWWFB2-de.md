@@ -5,7 +5,7 @@ date: 2020-05-06 19:55:52
 image: 'https://m.media-amazon.com/images/I/31zdm6iVXsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BBWWFB2-de AVM FRITZ!Fon C5 DECT-Komforttelefon hochwertiges...'
 sku: 'B01BBWWFB2-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-08 05:19:54
 image: 'https://m.media-amazon.com/images/I/31dMpgcyzbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013C97RSS-de Kitchen Craft Tablett 30cm Living Nostalgia in weiß/grau...'
 sku: 'B013C97RSS-de'
 tags: [  ]

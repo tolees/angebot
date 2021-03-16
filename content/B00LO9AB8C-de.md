@@ -5,7 +5,7 @@ date: 2020-10-01 05:53:19
 image: 'https://m.media-amazon.com/images/I/31WlxWd+Q8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LO9AB8C-de Philips Essential Care Reisehaartrockner BHD006/00 1600...'
 sku: 'B00LO9AB8C-de'
 tags: [  ]

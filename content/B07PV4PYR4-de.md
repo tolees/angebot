@@ -5,7 +5,7 @@ date: 2020-04-18 00:35:51
 image: 'https://m.media-amazon.com/images/I/51gkQxVujGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PV4PYR4-de PLAYMOBIL 70046 - FC Bayern München Fußballarena zum...'
 sku: 'B07PV4PYR4-de'
 tags: [  ]

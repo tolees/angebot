@@ -5,7 +5,7 @@ date: 2020-04-09 08:19:03
 image: 'https://m.media-amazon.com/images/I/41zoWew2O3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W84YZ2N-de s.Oliver BLACK LABEL Damen Steppmantel mit Kunstfell-...'
 sku: 'B07W84YZ2N-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-24 05:57:05
 image: 'https://m.media-amazon.com/images/I/616QuePEaOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZB6VCZ2-de CMaster Roboter STEM Spielzeug 576 Stück Konstruktions...'
 sku: 'B07ZB6VCZ2-de'
 tags: [  ]

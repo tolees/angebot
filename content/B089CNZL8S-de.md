@@ -5,7 +5,7 @@ date: 2020-08-06 06:06:00
 image: 'https://m.media-amazon.com/images/I/51ZBc+65qhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089CNZL8S-de Mini PC 8GB LPDDR4 256GB SSD Intel Celeron Prozessor J4125...'
 sku: 'B089CNZL8S-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-25 01:24:05
 image: 'https://m.media-amazon.com/images/I/51KlZzOwoFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M5G7DIP-de SHARP LC-24CHF4012 60 cm 24 Zoll Fernseher HD TV Triple...'
 sku: 'B01M5G7DIP-de'
 tags: [  ]

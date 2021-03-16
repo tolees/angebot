@@ -5,7 +5,7 @@ date: 2020-03-08 10:29:56
 image: 'https://m.media-amazon.com/images/I/51ZE5eF6SaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081R9SR6N-de BRIKSMAX Led Beleuchtungsset für Lego Gingerbread House...'
 sku: 'B081R9SR6N-de'
 tags: [  ]

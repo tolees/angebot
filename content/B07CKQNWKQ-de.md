@@ -5,7 +5,7 @@ date: 2020-10-09 03:46:02
 image: 'https://m.media-amazon.com/images/I/61snaKu5S4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CKQNWKQ-de WIN.MAX Dartpfeile 12 Stück Steel Darts Pfeile Set 24...'
 sku: 'B07CKQNWKQ-de'
 tags: [  ]

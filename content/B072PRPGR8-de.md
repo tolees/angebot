@@ -5,7 +5,7 @@ date: 2020-02-18 11:29:49
 image: 'https://m.media-amazon.com/images/I/41uX7Z1tu0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072PRPGR8-de Acer Switch 5 SW512-52-5819 30 48 cm 12 Zoll QHD Multi-...'
 sku: 'B072PRPGR8-de'
 tags: [  ]

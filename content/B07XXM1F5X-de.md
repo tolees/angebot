@@ -5,7 +5,7 @@ date: 2020-04-16 08:38:08
 image: 'https://m.media-amazon.com/images/I/51eatE8qXhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XXM1F5X-de Kunst aus Eisen Regal Regale Wandregal Vintage Eisen...'
 sku: 'B07XXM1F5X-de'
 tags: [  ]

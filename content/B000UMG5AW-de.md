@@ -5,7 +5,7 @@ date: 2020-01-28 04:54:43
 image: 'https://m.media-amazon.com/images/I/41z5VK+E1eL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000UMG5AW-de Hugo Boss Orange Man men Eau de Toilette Vaprisateur /...'
 sku: 'B000UMG5AW-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-08 11:06:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51pvvFafZvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M1OUBES-de NOCO GB30 Lithium Starthilfegerät 12 V Anzahl 1'
 sku: 'B00M1OUBES-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-22 19:54:16
 image: 'https://m.media-amazon.com/images/I/31onS2-g4YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082WKWMFF-de TOM TAILOR Herren Poloshirts Basic Poloshirt Sky Captain...'
 sku: 'B082WKWMFF-de'
 tags: [  ]

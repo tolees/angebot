@@ -5,7 +5,7 @@ date: 2020-04-16 17:45:20
 image: 'https://m.media-amazon.com/images/I/51qwvNR+IlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLS11KQ-de Playmobil 70123 Spirit - Riding Free Solana beim...'
 sku: 'B07JLS11KQ-de'
 tags: [  ]

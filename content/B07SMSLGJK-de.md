@@ -5,7 +5,7 @@ date: 2020-02-19 05:04:39
 image: 'https://m.media-amazon.com/images/I/41lCaIZNeRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SMSLGJK-de Braun Series 8 8370cc Elektrischer Rasierer Reinigungs-...'
 sku: 'B07SMSLGJK-de'
 tags: [  ]

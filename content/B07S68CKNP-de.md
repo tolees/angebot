@@ -5,7 +5,7 @@ date: 2020-09-13 06:50:15
 image: 'https://m.media-amazon.com/images/I/51yPzHRNNqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S68CKNP-de Coredy R600 Saugroboter mit Boost Intellect 1600Pa...'
 sku: 'B07S68CKNP-de'
 tags: [  ]

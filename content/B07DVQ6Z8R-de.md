@@ -5,7 +5,7 @@ date: 2020-07-24 14:03:04
 image: 'https://m.media-amazon.com/images/I/41Pvt0-0zLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVQ6Z8R-de BenQ EX3203R 81 2 cm 32 Zoll Gaming Monitor WQHD FreeSync...'
 sku: 'B07DVQ6Z8R-de'
 tags: [  ]

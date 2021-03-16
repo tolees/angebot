@@ -5,7 +5,7 @@ date: 2020-02-17 17:08:47
 image: 'https://m.media-amazon.com/images/I/41h9OPzjmfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF9TKTJ-de MSI GF75 8RC-005DE Thin 43 9 cm/17 3 Zoll/100% sRGB...'
 sku: 'B07KF9TKTJ-de'
 tags: [  ]

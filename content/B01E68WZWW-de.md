@@ -5,7 +5,7 @@ date: 2020-09-15 05:49:33
 image: 'https://m.media-amazon.com/images/I/41gRpTFDrgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E68WZWW-de Sensodyne MultiCare Original Zahnpasta Tägliche Zahnpasta...'
 sku: 'B01E68WZWW-de'
 tags: [  ]

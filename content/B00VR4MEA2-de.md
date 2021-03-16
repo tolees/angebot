@@ -5,7 +5,7 @@ date: 2020-01-01 22:51:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61Ft7p-laML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VR4MEA2-de Ravensburger 19549 Star Wars Episode VII 1000-teilig Puzzle'
 sku: 'B00VR4MEA2-de'
 tags: [  ]

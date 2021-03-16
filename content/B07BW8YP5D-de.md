@@ -5,7 +5,7 @@ date: 2020-01-26 01:44:36
 image: 'https://m.media-amazon.com/images/I/51qS7zBv0OL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BW8YP5D-de Jakks Pacific 32382-11L G.L.O.W. Stick Mehrfarbig'
 sku: 'B07BW8YP5D-de'
 tags: [  ]

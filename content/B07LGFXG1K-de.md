@@ -5,7 +5,7 @@ date: 2020-03-24 18:06:14
 image: 'https://m.media-amazon.com/images/I/51yoVhdyRcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGFXG1K-de HONOR Smartwatch im klassischen Uhrendesign mit 3 cm 1 2...'
 sku: 'B07LGFXG1K-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-10 23:43:34
 image: 'https://m.media-amazon.com/images/I/31fZ-OE7QEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VF67GRM-de WYANG Kerzenhalter Kerzenhalter Eisen Schwarz Gold Runde...'
 sku: 'B07VF67GRM-de'
 tags: [  ]

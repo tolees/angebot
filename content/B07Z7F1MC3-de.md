@@ -5,7 +5,7 @@ date: 2020-03-10 11:22:16
 image: 'https://m.media-amazon.com/images/I/51pwxcUWLEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z7F1MC3-de Toyaword outdoor sport Action Cam 4K 60FPS 20MP...'
 sku: 'B07Z7F1MC3-de'
 tags: [  ]

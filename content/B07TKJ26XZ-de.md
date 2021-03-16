@@ -5,7 +5,7 @@ date: 2020-04-04 09:44:58
 image: 'https://m.media-amazon.com/images/I/41vc5HS1nML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKJ26XZ-de wolketon Fahrradschloss-Schloss 90cm lang Kettenschloss...'
 sku: 'B07TKJ26XZ-de'
 tags: [  ]

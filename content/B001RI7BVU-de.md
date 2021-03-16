@@ -5,7 +5,7 @@ date: 2020-07-08 17:55:24
 image: 'https://m.media-amazon.com/images/I/31j9lE6-DPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001RI7BVU-de Enders Camping Gasgrill EXPLORER NEXT Grillen- Kochen- und...'
 sku: 'B001RI7BVU-de'
 tags: [  ]

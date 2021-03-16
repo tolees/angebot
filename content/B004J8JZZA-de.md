@@ -5,7 +5,7 @@ date: 2020-04-07 21:47:47
 image: 'https://m.media-amazon.com/images/I/51IIGJRdcNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004J8JZZA-de Ravensburger 20432 Schwarzer Peter - Schaf Kartenspiele...'
 sku: 'B004J8JZZA-de'
 tags: [  ]

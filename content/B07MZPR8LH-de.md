@@ -5,7 +5,7 @@ date: 2020-04-01 05:04:01
 image: 'https://m.media-amazon.com/images/I/41vtPe4MG1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPR8LH-de Funko 39699 POP Vinyl: Dragonball Z S6: Radditz...'
 sku: 'B07MZPR8LH-de'
 tags: [  ]

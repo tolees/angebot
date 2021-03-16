@@ -5,7 +5,7 @@ date: 2020-10-07 09:39:38
 image: 'https://m.media-amazon.com/images/I/31KuzJke9EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MSOK5VA-de De Longhi HCX 3220 FTS Konvektor Schmales Design schwarz'
 sku: 'B00MSOK5VA-de'
 tags: [  ]

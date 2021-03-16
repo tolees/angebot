@@ -5,7 +5,7 @@ date: 2020-04-14 13:04:58
 image: 'https://m.media-amazon.com/images/I/41emi7qLBlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y55RCLD-de Hair Dryer Ribivaul Anion Hairdryer Salon Haarfön mit...'
 sku: 'B07Y55RCLD-de'
 tags: [  ]

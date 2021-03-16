@@ -5,7 +5,7 @@ date: 2020-05-14 22:39:59
 image: 'https://m.media-amazon.com/images/I/519YEUzQl5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B7HVQO8-de Bosch MUM5 CreationLine Küchenmaschine MUM58020 vielseitig...'
 sku: 'B01B7HVQO8-de'
 tags: [  ]

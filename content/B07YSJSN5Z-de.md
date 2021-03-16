@@ -5,7 +5,7 @@ date: 2020-03-06 13:39:46
 image: 'https://m.media-amazon.com/images/I/415x7ntKG9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YSJSN5Z-de Hamkaw Game Hülle Für iPhone Retro 3D Schutzhülle Case Mit...'
 sku: 'B07YSJSN5Z-de'
 tags: [  ]

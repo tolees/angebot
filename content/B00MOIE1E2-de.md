@@ -5,7 +5,7 @@ date: 2020-01-25 19:05:52
 image: 'https://m.media-amazon.com/images/I/41fXo1y2UGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MOIE1E2-de De Longhi Autentica Cappuccino ETAM 29.660.SB...'
 sku: 'B00MOIE1E2-de'
 tags: [  ]

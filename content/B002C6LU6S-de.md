@@ -5,7 +5,7 @@ date: 2020-04-15 00:28:50
 image: 'https://m.media-amazon.com/images/I/41DteNymtcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002C6LU6S-de Proxxon 23080 Steckschlüsselsatz 1/4 Zoll 36-teilig'
 sku: 'B002C6LU6S-de'
 tags: [  ]

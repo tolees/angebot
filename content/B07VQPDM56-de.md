@@ -5,7 +5,7 @@ date: 2020-09-16 16:56:13
 image: 'https://m.media-amazon.com/images/I/317t17SbgLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQPDM56-de SanDisk 256GB iXpand Go Flash-Laufwerk für Ihr iPhone und...'
 sku: 'B07VQPDM56-de'
 tags: [  ]

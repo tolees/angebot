@@ -5,7 +5,7 @@ date: 2020-09-27 18:07:17
 image: 'https://m.media-amazon.com/images/I/512Pk0q1YgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000SO7OL6-de The Very Best Of Diana Krall'
 sku: 'B000SO7OL6-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-18 21:05:44
 image: 'https://m.media-amazon.com/images/I/41R9hSD6SZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D55J8ZB-de Harry Potter Fantastic Beasts 2 Pop! Vinyl Figur 17...'
 sku: 'B07D55J8ZB-de'
 tags: [  ]

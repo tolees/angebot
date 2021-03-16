@@ -5,7 +5,7 @@ date: 2020-03-07 05:06:19
 image: 'https://m.media-amazon.com/images/I/31G+ITSRdAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006AUOR1W-de Thetford 92828 Porta Potti 335 Tragbare Toilette Qube...'
 sku: 'B006AUOR1W-de'
 tags: [  ]

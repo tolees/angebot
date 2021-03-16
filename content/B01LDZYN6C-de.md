@@ -5,7 +5,7 @@ date: 2020-07-21 08:19:56
 image: 'https://m.media-amazon.com/images/I/31iAadHTOXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LDZYN6C-de Bosch Professional Bohrhammer GBH 2-28 F SDS-plus-...'
 sku: 'B01LDZYN6C-de'
 tags: [  ]

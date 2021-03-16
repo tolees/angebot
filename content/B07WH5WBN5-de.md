@@ -5,7 +5,7 @@ date: 2020-01-01 23:03:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51JtIZxaxXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WH5WBN5-de YxFlower Custom Bausteine 1:8 2.4GHz RC Auto Sportwagen...'
 sku: 'B07WH5WBN5-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-09 17:59:37
 image: 'https://m.media-amazon.com/images/I/51egmH93RmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083ZGRJJ7-de Nestlé KITKAT und LION Party Box 6 Sorten 68 Schokoriegel...'
 sku: 'B083ZGRJJ7-de'
 tags: [  ]

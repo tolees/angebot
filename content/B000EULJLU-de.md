@@ -5,7 +5,7 @@ date: 2020-04-16 08:40:00
 image: 'https://m.media-amazon.com/images/I/51VxH5+HiYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000EULJLU-de 10.000 Days'
 sku: 'B000EULJLU-de'
 tags: [  ]

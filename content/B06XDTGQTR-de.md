@@ -5,7 +5,7 @@ date: 2020-03-11 04:56:59
 image: 'https://m.media-amazon.com/images/I/51dD47QXZfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDTGQTR-de Alnatura Bio Tee Beerenzeit 20 Beutel 40 g'
 sku: 'B06XDTGQTR-de'
 tags: [  ]

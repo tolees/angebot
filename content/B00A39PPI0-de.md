@@ -5,7 +5,7 @@ date: 2020-03-03 15:41:31
 image: 'https://m.media-amazon.com/images/I/41brL3ZOUvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A39PPI0-de V-MODA Crossfade M-100 Over-Ear Kopfhörer - Weiß Silber'
 sku: 'B00A39PPI0-de'
 tags: [  ]

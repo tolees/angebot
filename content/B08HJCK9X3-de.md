@@ -5,7 +5,7 @@ date: 2020-10-02 02:39:29
 image: 'https://m.media-amazon.com/images/I/41SGgVshlLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HJCK9X3-de MACLY SmartBand Aktivitäts Tracker mit Blutdruckmessung...'
 sku: 'B08HJCK9X3-de'
 tags: [  ]

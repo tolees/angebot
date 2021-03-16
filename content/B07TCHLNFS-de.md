@@ -5,7 +5,7 @@ date: 2020-09-23 20:04:21
 image: 'https://m.media-amazon.com/images/I/51uW9DuWZXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TCHLNFS-de Walk the Sky'
 sku: 'B07TCHLNFS-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-13 23:57:36
 image: 'https://m.media-amazon.com/images/I/41CKeWi2NeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZFXM1PY-de Villeroy & Boch Toy s Delight Große Vorratsdose Premium...'
 sku: 'B00ZFXM1PY-de'
 tags: [  ]

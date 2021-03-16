@@ -5,7 +5,7 @@ date: 2020-02-21 04:46:33
 image: 'https://m.media-amazon.com/images/I/419Sqr82xeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M3SPEZF-de Original Einhell Starter Kit Akku und Ladegerät Power...'
 sku: 'B01M3SPEZF-de'
 tags: [  ]

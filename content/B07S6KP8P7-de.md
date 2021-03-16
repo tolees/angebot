@@ -5,7 +5,7 @@ date: 2020-04-13 07:49:44
 image: 'https://m.media-amazon.com/images/I/41xyYypYaKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6KP8P7-de HP Pavilion Gaming 17-cd0228ng 17 3 Zoll / FHD IPS 144Hz...'
 sku: 'B07S6KP8P7-de'
 tags: [  ]

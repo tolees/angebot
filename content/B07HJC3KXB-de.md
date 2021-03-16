@@ -5,7 +5,7 @@ date: 2020-03-18 02:40:10
 image: 'https://m.media-amazon.com/images/I/31vPFt+jAfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HJC3KXB-de Funko 35678 Vinyl: Movies: James Bond: Daniel Craig Casino...'
 sku: 'B07HJC3KXB-de'
 tags: [  ]

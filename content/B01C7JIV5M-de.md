@@ -5,7 +5,7 @@ date: 2020-03-11 04:55:25
 image: 'https://m.media-amazon.com/images/I/51nTSQdne+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C7JIV5M-de Tommy Hilfiger Herren Multi Zifferblatt Quarz Uhr mit...'
 sku: 'B01C7JIV5M-de'
 tags: [  ]

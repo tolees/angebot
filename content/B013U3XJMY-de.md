@@ -5,7 +5,7 @@ date: 2020-02-26 03:19:46
 image: 'https://m.media-amazon.com/images/I/41zLoypCetL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013U3XJMY-de Berydale Damen Parka Jacke wasser- und winddicht Gr. 36...'
 sku: 'B013U3XJMY-de'
 tags: [  ]

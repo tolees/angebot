@@ -5,7 +5,7 @@ date: 2020-08-27 03:51:08
 image: 'https://m.media-amazon.com/images/I/21t6E0bfD0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WY5ZC3-de ONLY Damen Skinny Fit Jeans ONLBlush Mid Ankle XS30White'
 sku: 'B078WY5ZC3-de'
 tags: [  ]

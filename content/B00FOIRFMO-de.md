@@ -5,7 +5,7 @@ date: 2020-04-10 10:03:17
 image: 'https://m.media-amazon.com/images/I/31v7r+7CJ+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FOIRFMO-de Philips HU4803/01 Luftbefeuchter bis zu 25m² hygienische...'
 sku: 'B00FOIRFMO-de'
 tags: [  ]

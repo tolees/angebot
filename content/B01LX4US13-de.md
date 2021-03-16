@@ -5,7 +5,7 @@ date: 2020-04-07 13:21:00
 image: 'https://m.media-amazon.com/images/I/61XrE5P000L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LX4US13-de Playmobil 9078 - Einkaufspassage'
 sku: 'B01LX4US13-de'
 tags: [  ]

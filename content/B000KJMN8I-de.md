@@ -5,7 +5,7 @@ date: 2020-02-01 05:00:51
 image: 'https://m.media-amazon.com/images/I/41QKIjHnY8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KJMN8I-de Scotch 5501933 Klebeband 550 Polypropylenfolie 19 mm x 33...'
 sku: 'B000KJMN8I-de'
 tags: [  ]

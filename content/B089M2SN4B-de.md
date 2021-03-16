@@ -5,7 +5,7 @@ date: 2020-08-10 15:06:13
 image: 'https://m.media-amazon.com/images/I/51YNf1L0LSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089M2SN4B-de Symiu Montessori Spielzeug Holzbausteine Bauklötze...'
 sku: 'B089M2SN4B-de'
 tags: [  ]

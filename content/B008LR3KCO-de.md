@@ -5,7 +5,7 @@ date: 2020-08-24 11:20:36
 image: 'https://m.media-amazon.com/images/I/3106Jn5-BeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008LR3KCO-de Philips HF3510/01 Wake-Up Light mit Sonnenaufgangsfunktion...'
 sku: 'B008LR3KCO-de'
 tags: [  ]

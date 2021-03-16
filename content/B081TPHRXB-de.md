@@ -5,7 +5,7 @@ date: 2020-08-25 23:18:58
 image: 'https://m.media-amazon.com/images/I/41pnvNesFuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TPHRXB-de adidas Damen 3-Streifen Kapuzenjacke Black/White M'
 sku: 'B081TPHRXB-de'
 tags: [  ]

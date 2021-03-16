@@ -5,7 +5,7 @@ date: 2020-04-16 17:40:25
 image: 'https://m.media-amazon.com/images/I/51EFpS6it+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083DMJ5HN-de DXX Technik Bausteine FRR-F1 Racing Auto 585Teile 2.4G...'
 sku: 'B083DMJ5HN-de'
 tags: [  ]

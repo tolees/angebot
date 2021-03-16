@@ -5,7 +5,7 @@ date: 2020-03-14 04:55:49
 image: 'https://m.media-amazon.com/images/I/41OJWTlhOOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J8KC54M-de Wenko Herdabdeckplatte Universal Kräutergarten 2er Set...'
 sku: 'B00J8KC54M-de'
 tags: [  ]

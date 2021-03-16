@@ -5,7 +5,7 @@ date: 2020-04-16 17:35:56
 image: 'https://m.media-amazon.com/images/I/51X3EJPfu8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S35QJMS-de BERTASCHE Laptoptasche 17 Zoll - 17 3 Zoll Notebooktasche...'
 sku: 'B07S35QJMS-de'
 tags: [  ]

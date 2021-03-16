@@ -5,7 +5,7 @@ date: 2020-08-04 23:50:16
 image: 'https://m.media-amazon.com/images/I/41rtXerOK3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XBR2W3N-de Arbily Bluetooth Kopfhörer 【2020 Neuestes Modell】...'
 sku: 'B07XBR2W3N-de'
 tags: [  ]

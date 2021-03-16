@@ -5,7 +5,7 @@ date: 2020-04-07 21:59:34
 image: 'https://m.media-amazon.com/images/I/414SSysH73L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D4GT1RK-de 3D Pudding Kuchen Dekorieren DIY Werkzeug Set 10 Nadeln +...'
 sku: 'B07D4GT1RK-de'
 tags: [  ]

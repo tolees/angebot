@@ -5,7 +5,7 @@ date: 2020-09-08 07:35:38
 image: 'https://m.media-amazon.com/images/I/51eQQqBThUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMCCF85-de PLAYMOBIL Family Fun 70087 Großer Campingplatz Ab 4 Jahren'
 sku: 'B07JMCCF85-de'
 tags: [  ]

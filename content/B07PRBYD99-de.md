@@ -5,7 +5,7 @@ date: 2020-09-16 16:17:36
 image: 'https://m.media-amazon.com/images/I/61dawlQJYeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRBYD99-de Carrera GO!!! Race to Win 20062483 Autorennbahn Set'
 sku: 'B07PRBYD99-de'
 tags: [  ]

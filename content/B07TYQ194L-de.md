@@ -5,7 +5,7 @@ date: 2020-04-15 07:38:25
 image: 'https://m.media-amazon.com/images/I/31BRiyTGvaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYQ194L-de Pop Avengers Endgame Thanos in the Garden Vinyl Figure'
 sku: 'B07TYQ194L-de'
 tags: [  ]

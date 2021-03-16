@@ -5,7 +5,7 @@ date: 2020-08-14 18:29:30
 image: 'https://m.media-amazon.com/images/I/4135eNrbhbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZX5NML-de adidas Tiro Rucksack Rucksack 45 cm 25 Liter Power Red/White'
 sku: 'B07JZX5NML-de'
 tags: [  ]

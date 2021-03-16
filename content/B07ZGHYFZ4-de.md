@@ -5,7 +5,7 @@ date: 2020-08-14 06:02:40
 image: 'https://m.media-amazon.com/images/I/41b+qcDvsEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZGHYFZ4-de Xiaomi Mi Note 10 Smartphone 16 43cm 6 47" 3D Curved...'
 sku: 'B07ZGHYFZ4-de'
 tags: [  ]

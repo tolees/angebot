@@ -5,7 +5,7 @@ date: 2020-08-28 00:04:46
 image: 'https://m.media-amazon.com/images/I/51795btdOdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082YPRHN7-de Playmobil Family Fun 70343 Löwen im Freigehege Ab 4 Jahren'
 sku: 'B082YPRHN7-de'
 tags: [  ]

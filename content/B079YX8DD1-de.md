@@ -5,7 +5,7 @@ date: 2020-04-02 20:58:43
 image: 'https://m.media-amazon.com/images/I/41lW9DAOsvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079YX8DD1-de Hubelino 420473 55-teiliges Bahnelemente Set Kugelbahn'
 sku: 'B079YX8DD1-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-04 16:06:55
 image: 'https://m.media-amazon.com/images/I/510xzq0Hk3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017IZGILE-de Siemens EX645LXC1E iQ700 Kochfeld Elektro /...'
 sku: 'B017IZGILE-de'
 tags: [  ]

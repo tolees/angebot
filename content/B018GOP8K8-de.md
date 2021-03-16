@@ -5,7 +5,7 @@ date: 2020-03-08 04:41:23
 image: 'https://m.media-amazon.com/images/I/31B5pmLSk9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018GOP8K8-de Tefal E79071 Jamie Oliver Induction Servierpfanne mit 2...'
 sku: 'B018GOP8K8-de'
 tags: [  ]

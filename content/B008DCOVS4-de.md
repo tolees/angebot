@@ -5,7 +5,7 @@ date: 2020-07-16 04:19:08
 image: 'https://m.media-amazon.com/images/I/51ckOKH0sDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008DCOVS4-de Doctor s Diary Collection - Staffel 1-3 in einer Box [6 DVDs]'
 sku: 'B008DCOVS4-de'
 tags: [  ]

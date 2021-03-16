@@ -5,7 +5,7 @@ date: 2020-04-15 00:03:59
 image: 'https://m.media-amazon.com/images/I/412r5EwXehL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CH1Q9XJ-de Smoby 311207 Tefal French Touch Bubble Küche rot'
 sku: 'B07CH1Q9XJ-de'
 tags: [  ]

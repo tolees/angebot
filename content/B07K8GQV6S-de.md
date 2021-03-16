@@ -5,7 +5,7 @@ date: 2020-08-07 12:07:30
 image: 'https://m.media-amazon.com/images/I/41VlV6uYJGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K8GQV6S-de Lammcou Schutz Hülle Set für Nintendo Switch Lite 2019...'
 sku: 'B07K8GQV6S-de'
 tags: [  ]

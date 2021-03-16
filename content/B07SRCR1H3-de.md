@@ -5,7 +5,7 @@ date: 2020-04-15 00:04:29
 image: 'https://m.media-amazon.com/images/I/41bMA+lX3uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRCR1H3-de Acer Nitro 5 AN517-51-754T 43 9 cm 17 3 Zoll Full-HD mit...'
 sku: 'B07SRCR1H3-de'
 tags: [  ]

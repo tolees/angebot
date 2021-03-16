@@ -5,7 +5,7 @@ date: 2020-08-23 03:02:32
 image: 'https://m.media-amazon.com/images/I/41H0VobDhBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0166QUQXC-de CREATIVE Tragbarer Bluetooth-Audio-Transceiver BT-W2 aptX...'
 sku: 'B0166QUQXC-de'
 tags: [  ]

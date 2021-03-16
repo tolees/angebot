@@ -5,7 +5,7 @@ date: 2020-08-30 12:26:51
 image: 'https://m.media-amazon.com/images/I/31m02kGXxuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BL9E4OW-de VAUDE Damen Hose Women s Farley Stretch Capri T-Zip II...'
 sku: 'B00BL9E4OW-de'
 tags: [  ]

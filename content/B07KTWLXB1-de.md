@@ -5,7 +5,7 @@ date: 2020-06-11 08:25:55
 image: 'https://m.media-amazon.com/images/I/51KUcw0xK8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTWLXB1-de LEGO 31096 - Creator 3-in-1-Set Doppelrotor-Hubschrauber'
 sku: 'B07KTWLXB1-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-12 06:25:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41NKzqavQrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQGGKMG-de iiniim Damen Festlich Kleid Königin Prinzessin Kleid...'
 sku: 'B07JQGGKMG-de'
 tags: [  ]

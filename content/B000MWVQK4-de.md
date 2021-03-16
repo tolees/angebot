@@ -5,7 +5,7 @@ date: 2020-09-18 06:00:45
 image: 'https://m.media-amazon.com/images/I/31jw6M0UmmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000MWVQK4-de Speedo Herren Badehose Essential Endurance Plus...'
 sku: 'B000MWVQK4-de'
 tags: [  ]

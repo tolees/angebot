@@ -5,7 +5,7 @@ date: 2020-08-25 04:43:26
 image: 'https://m.media-amazon.com/images/I/31FbAwLMWoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MTXLFXV-de Logitech G432 kabelgebundenes Gaming-Headset 7.1 Surround...'
 sku: 'B07MTXLFXV-de'
 tags: [  ]

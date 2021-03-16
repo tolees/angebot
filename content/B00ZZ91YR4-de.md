@@ -5,7 +5,7 @@ date: 2020-02-14 04:55:37
 image: 'https://m.media-amazon.com/images/I/51h7coZFWPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZZ91YR4-de Castle - Staffel 7 [6 DVDs]'
 sku: 'B00ZZ91YR4-de'
 tags: [  ]

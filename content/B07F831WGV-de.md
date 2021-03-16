@@ -5,7 +5,7 @@ date: 2020-03-15 04:43:36
 image: 'https://m.media-amazon.com/images/I/41zVB8RF+FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F831WGV-de Calvin Klein Herren - 3er-Pack mittlere Taille Hüft-Shorts...'
 sku: 'B07F831WGV-de'
 tags: [  ]

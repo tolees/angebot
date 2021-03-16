@@ -5,7 +5,7 @@ date: 2020-08-05 15:35:23
 image: 'https://m.media-amazon.com/images/I/41h8uIMB+CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8CYX9V-de Braun Silk-Expert Pro 5 PL5137 IPL Haarentfernungsgerät...'
 sku: 'B07M8CYX9V-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-31 08:33:56
 image: 'https://m.media-amazon.com/images/I/31N7-q-m2iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DLZM5JQ-de SAMSONITE PRO-DLX 5 - Bailhandle Erweiterbar für 17.3"...'
 sku: 'B07DLZM5JQ-de'
 tags: [  ]

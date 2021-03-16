@@ -5,7 +5,7 @@ date: 2020-01-27 08:45:17
 image: 'https://m.media-amazon.com/images/I/317VmQ4UQDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFGW5S2-de Samsung Galaxy S10 Smartphone Bundle 15.5cm 6.1 Zoll 128...'
 sku: 'B07SFGW5S2-de'
 tags: [  ]

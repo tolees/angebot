@@ -5,7 +5,7 @@ date: 2020-03-26 16:08:35
 image: 'https://m.media-amazon.com/images/I/51d4ySNwPfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WYYW2YM-de Tablet 10 Zoll Android 8.1 Dragon Touch K10 Tablet Pad...'
 sku: 'B07WYYW2YM-de'
 tags: [  ]

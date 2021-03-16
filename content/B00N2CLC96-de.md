@@ -5,7 +5,7 @@ date: 2020-01-07 07:15:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41YQIiwHGkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00N2CLC96-de Bosch Professional Ortungsgerät D-tect 120 1x 1 5 Ah Akku...'
 sku: 'B00N2CLC96-de'
 tags: [  ]

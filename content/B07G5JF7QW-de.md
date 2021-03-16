@@ -5,7 +5,7 @@ date: 2020-05-30 19:55:19
 image: 'https://m.media-amazon.com/images/I/31dLSYYE3mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G5JF7QW-de Canon PIXMA TS6250 Drucker Farbtintenstrahl...'
 sku: 'B07G5JF7QW-de'
 tags: [  ]

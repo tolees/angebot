@@ -5,7 +5,7 @@ date: 2020-04-11 08:15:21
 image: 'https://m.media-amazon.com/images/I/31m+UxgSZQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0002YYSOS-de Element System Wandschiene 1-reihig 2 Stück 4 Abmessungen...'
 sku: 'B0002YYSOS-de'
 tags: [  ]

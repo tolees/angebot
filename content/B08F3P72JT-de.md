@@ -5,7 +5,7 @@ date: 2020-08-09 12:05:30
 image: 'https://m.media-amazon.com/images/I/41xLtnh0tGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F3P72JT-de DARLINGTON & Sohns Blauer Controller für Nintendo 64 N64...'
 sku: 'B08F3P72JT-de'
 tags: [  ]

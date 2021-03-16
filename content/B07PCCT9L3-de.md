@@ -5,7 +5,7 @@ date: 2020-04-03 04:54:54
 image: 'https://m.media-amazon.com/images/I/41Jv2xBgX7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PCCT9L3-de Funko 40631 POP Vinyl: Movies: IT: Chapter 2-Pennywise...'
 sku: 'B07PCCT9L3-de'
 tags: [  ]

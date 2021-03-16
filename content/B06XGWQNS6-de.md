@@ -5,7 +5,7 @@ date: 2020-04-09 07:25:29
 image: 'https://m.media-amazon.com/images/I/51MCU2ij8pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XGWQNS6-de Funko 13555 Herr der Ringe POP Vinylfigur: LOTR/Hobbit:...'
 sku: 'B06XGWQNS6-de'
 tags: [  ]

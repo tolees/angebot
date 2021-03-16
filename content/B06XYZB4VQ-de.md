@@ -5,7 +5,7 @@ date: 2020-07-10 22:46:28
 image: 'https://m.media-amazon.com/images/I/41rTmAWqLqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XYZB4VQ-de Audio-Technica ATH-DSR9BT Wireless Over-Ear Kopfhörer mit...'
 sku: 'B06XYZB4VQ-de'
 tags: [  ]

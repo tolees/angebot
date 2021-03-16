@@ -5,7 +5,7 @@ date: 2020-10-01 05:53:37
 image: 'https://m.media-amazon.com/images/I/31NV1AIFwWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000GT11HQ-de Sony SAL85F14Z Tele-Objektiv 85 mm F1 4 ZA Planar T*...'
 sku: 'B000GT11HQ-de'
 tags: [  ]

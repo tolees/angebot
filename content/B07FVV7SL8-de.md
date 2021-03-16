@@ -5,7 +5,7 @@ date: 2020-01-14 16:33:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416SW07PqbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FVV7SL8-de Laser Entfernungsmesser Distanz 50M LOMVUM Laser Messgerät...'
 sku: 'B07FVV7SL8-de'
 tags: [  ]

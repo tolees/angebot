@@ -5,7 +5,7 @@ date: 2020-09-01 07:12:21
 image: 'https://m.media-amazon.com/images/I/41fkrBSVmtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNWZ2CW-de Boltune Noise Cancelling Bluetooth Kopfhörer 5.0 Over-Ear...'
 sku: 'B07VNWZ2CW-de'
 tags: [  ]

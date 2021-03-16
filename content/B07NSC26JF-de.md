@@ -5,7 +5,7 @@ date: 2020-06-05 08:32:08
 image: 'https://m.media-amazon.com/images/I/41mVgTxip8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NSC26JF-de Philips BRL175/00 Elektrischer Nass-und Trockenrasierer...'
 sku: 'B07NSC26JF-de'
 tags: [  ]

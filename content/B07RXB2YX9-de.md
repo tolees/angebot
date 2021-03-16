@@ -5,7 +5,7 @@ date: 2020-07-14 01:29:28
 image: 'https://m.media-amazon.com/images/I/41KNHku28QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXB2YX9-de LIGHTAILING Licht-Set Für Architecture Venice Modell - LED...'
 sku: 'B07RXB2YX9-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 23:48:09
 image: 'https://m.media-amazon.com/images/I/5117BivBTjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5QNY1B-de Contra: Rogue Corps für Playstation 4 USK ab 16 Jahren...'
 sku: 'B07V5QNY1B-de'
 tags: [  ]

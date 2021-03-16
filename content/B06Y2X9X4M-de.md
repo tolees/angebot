@@ -5,7 +5,7 @@ date: 2020-04-18 00:04:42
 image: 'https://m.media-amazon.com/images/I/51ktpfGc08L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2X9X4M-de Hasbro Spiele C0432100 - Perfektion Geschicklichkeitsspiel'
 sku: 'B06Y2X9X4M-de'
 tags: [  ]

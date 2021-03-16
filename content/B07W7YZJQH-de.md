@@ -5,7 +5,7 @@ date: 2020-08-28 06:20:47
 image: 'https://m.media-amazon.com/images/I/41CHwC5rzQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W7YZJQH-de Brother JX17FE Nähmaschine mit 17 Nähprogramme Freiarm...'
 sku: 'B07W7YZJQH-de'
 tags: [  ]

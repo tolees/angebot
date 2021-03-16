@@ -5,7 +5,7 @@ date: 2020-08-09 10:16:49
 image: 'https://m.media-amazon.com/images/I/41LPXPHENpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MZ2F3Z8-de Krups EA8105 Kaffeevollautomat automatische Reinigung...'
 sku: 'B00MZ2F3Z8-de'
 tags: [  ]

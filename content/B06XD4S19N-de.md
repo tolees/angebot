@@ -5,7 +5,7 @@ date: 2020-08-30 12:26:43
 image: 'https://m.media-amazon.com/images/I/31zAorLr7lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XD4S19N-de Calvin Klein Damen TOP Hoodie Full Zip Kapuzenpullover...'
 sku: 'B06XD4S19N-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-15 00:19:22
 image: 'https://m.media-amazon.com/images/I/41pNWmby4YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003VYAVXI-de Villeroy & Boch Toy s Delight Spieluhr "Weihnachtsbaum"...'
 sku: 'B003VYAVXI-de'
 tags: [  ]

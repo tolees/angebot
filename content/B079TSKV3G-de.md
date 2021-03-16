@@ -5,7 +5,7 @@ date: 2020-04-16 08:26:32
 image: 'https://m.media-amazon.com/images/I/41Xh5RHL+KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079TSKV3G-de Paladone Game-Boy-Wecker mit Sound von Nintendo'
 sku: 'B079TSKV3G-de'
 tags: [  ]

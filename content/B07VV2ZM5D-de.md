@@ -5,7 +5,7 @@ date: 2020-03-27 18:16:18
 image: 'https://m.media-amazon.com/images/I/31WCmQJKWIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VV2ZM5D-de Krups Nescafé Dolce Gusto Piccolo XS Kapsel Kaffeemaschine...'
 sku: 'B07VV2ZM5D-de'
 tags: [  ]

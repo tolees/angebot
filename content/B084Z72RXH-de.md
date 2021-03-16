@@ -5,7 +5,7 @@ date: 2020-04-07 21:59:58
 image: 'https://m.media-amazon.com/images/I/31q3ITVBKHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084Z72RXH-de Aluminiumstangen Ringwerkzeuge Fine Arts Sculpture Pottery...'
 sku: 'B084Z72RXH-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-29 07:52:47
 image: 'https://m.media-amazon.com/images/I/61MlpzzKcsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4GXNT2-de Carrera GO!!! PLUS Power Lap 20066006 Autorennbahn Set'
 sku: 'B07B4GXNT2-de'
 tags: [  ]

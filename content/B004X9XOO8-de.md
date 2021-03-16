@@ -5,7 +5,7 @@ date: 2020-01-16 09:11:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418S%2BRv-CTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004X9XOO8-de Panasonic VW-PH80XE-K Robuste Softtasche geeignet für...'
 sku: 'B004X9XOO8-de'
 tags: [  ]

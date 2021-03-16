@@ -5,7 +5,7 @@ date: 2020-04-08 13:21:48
 image: 'https://m.media-amazon.com/images/I/51FL5cAKadL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005LB9EUA-de Green Toys Schulbus Spielzeugauto'
 sku: 'B005LB9EUA-de'
 tags: [  ]

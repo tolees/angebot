@@ -5,7 +5,7 @@ date: 2020-03-08 02:33:06
 image: 'https://m.media-amazon.com/images/I/610QYYl6sDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XCSQVL-de Ravensburger Kinderspiele 21353 Monsterstarker Glibberklatsch'
 sku: 'B077XCSQVL-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-06 12:37:58
 image: 'https://m.media-amazon.com/images/I/415x-j88YJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CV6D2KW-de JACK & JONES Herren JFWALBANY Leather Brown Stone STS...'
 sku: 'B07CV6D2KW-de'
 tags: [  ]

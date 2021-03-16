@@ -5,7 +5,7 @@ date: 2020-08-27 17:50:14
 image: 'https://m.media-amazon.com/images/I/31rXK1ufDaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHJS4XR-de ONLY Damen T-Shirt Onlvic S/S Solid Top Noos Wvn Schwarz...'
 sku: 'B06XHJS4XR-de'
 tags: [  ]

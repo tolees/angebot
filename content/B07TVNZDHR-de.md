@@ -5,7 +5,7 @@ date: 2020-02-17 12:05:07
 image: 'https://m.media-amazon.com/images/I/41l9lo27pCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVNZDHR-de BRIKSMAX Led Beleuchtungsset für Lego City Quad-Rennteam...'
 sku: 'B07TVNZDHR-de'
 tags: [  ]

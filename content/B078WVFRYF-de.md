@@ -5,7 +5,7 @@ date: 2020-03-15 04:43:36
 image: 'https://m.media-amazon.com/images/I/41SH567sjsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WVFRYF-de Einhell Rasenwalze GC-GR 57 57cm Breite 32cm Durchmesser...'
 sku: 'B078WVFRYF-de'
 tags: [  ]

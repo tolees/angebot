@@ -5,7 +5,7 @@ date: 2020-04-13 00:10:02
 image: 'https://m.media-amazon.com/images/I/31Q3dHOKwzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0072HJZQO-de Inter Link 13500020 Regal weiß Bücherregal Wandregal...'
 sku: 'B0072HJZQO-de'
 tags: [  ]

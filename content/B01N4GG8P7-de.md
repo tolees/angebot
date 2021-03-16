@@ -5,7 +5,7 @@ date: 2020-01-24 04:46:59
 image: 'https://m.media-amazon.com/images/I/41RMu5YK15L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4GG8P7-de Corsair K95 RGB Platinum Mechanische Gaming Tastatur...'
 sku: 'B01N4GG8P7-de'
 tags: [  ]

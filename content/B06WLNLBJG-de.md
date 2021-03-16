@@ -5,7 +5,7 @@ date: 2020-04-11 16:20:16
 image: 'https://m.media-amazon.com/images/I/51Bhw042OAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WLNLBJG-de Hasbro Star Wars C1439EU4 - Episode 8 ferngesteuerter...'
 sku: 'B06WLNLBJG-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-21 15:09:35
 image: 'https://m.media-amazon.com/images/I/41mR6KX1mbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4MKWSP-de Rieker Damen Chelsea Boots 75754 Frauen Stiefel...'
 sku: 'B07B4MKWSP-de'
 tags: [  ]

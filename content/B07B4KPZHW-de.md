@@ -5,7 +5,7 @@ date: 2020-04-11 08:11:58
 image: 'https://m.media-amazon.com/images/I/411F8eFkCFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4KPZHW-de Syoss Colorist Tools Serum 2er Pack 2 x 30 ml'
 sku: 'B07B4KPZHW-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-12 07:56:46
 image: 'https://m.media-amazon.com/images/I/419GKlqJ1ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WD8G8FB-de Edelstahl Trichter yidenguk Kitchen Strainer Trichter Set...'
 sku: 'B07WD8G8FB-de'
 tags: [  ]

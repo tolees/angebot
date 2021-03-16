@@ -5,7 +5,7 @@ date: 2020-03-13 05:06:04
 image: 'https://m.media-amazon.com/images/I/41IgL3Bz4qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005PZDVF6-de OWC NewerTech AdaptaDrive - Mounting Kits 99.22 G 101.2 mm...'
 sku: 'B005PZDVF6-de'
 tags: [  ]

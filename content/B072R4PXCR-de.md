@@ -5,7 +5,7 @@ date: 2020-01-07 22:39:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51hgBxifRSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072R4PXCR-de POP Rocks: Metallica - Robert Trujillo'
 sku: 'B072R4PXCR-de'
 tags: [  ]

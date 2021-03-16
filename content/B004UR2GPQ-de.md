@@ -5,7 +5,7 @@ date: 2020-04-15 00:27:28
 image: 'https://m.media-amazon.com/images/I/41c1N1RnqVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004UR2GPQ-de Relaxdays Badregal Bambus Natur 33 x 33 x 79 cm'
 sku: 'B004UR2GPQ-de'
 tags: [  ]

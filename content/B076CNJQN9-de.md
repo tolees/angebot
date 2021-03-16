@@ -5,7 +5,7 @@ date: 2020-03-17 10:59:20
 image: 'https://m.media-amazon.com/images/I/61JUpqkIL7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CNJQN9-de PLAYMOBIL Sports & Action 9375 Stomp Racer mit Booster Ab...'
 sku: 'B076CNJQN9-de'
 tags: [  ]

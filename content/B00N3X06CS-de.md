@@ -5,7 +5,7 @@ date: 2020-04-06 19:42:11
 image: 'https://m.media-amazon.com/images/I/31SMvWkaKyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00N3X06CS-de Philips HU4801/01 Luftbefeuchter bis zu 25m² hygienische...'
 sku: 'B00N3X06CS-de'
 tags: [  ]

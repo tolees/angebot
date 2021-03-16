@@ -5,7 +5,7 @@ date: 2020-08-31 12:07:37
 image: 'https://m.media-amazon.com/images/I/51BIivnh6oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T1CFJ9Z-de FISCHER Twin Fahrrad-Rücklicht mit 360° Bodenleuchte für...'
 sku: 'B07T1CFJ9Z-de'
 tags: [  ]

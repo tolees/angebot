@@ -5,7 +5,7 @@ date: 2020-09-09 13:51:13
 image: 'https://m.media-amazon.com/images/I/31e6ZaqrKsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005I4QNXG-de BaByliss C260E Welleneisen Easy Beach Waves'
 sku: 'B005I4QNXG-de'
 tags: [  ]

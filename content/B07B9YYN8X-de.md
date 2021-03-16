@@ -5,7 +5,7 @@ date: 2020-03-15 04:43:32
 image: 'https://m.media-amazon.com/images/I/31YeWyqjpdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9YYN8X-de Keter Kissenbox Ontario graphit'
 sku: 'B07B9YYN8X-de'
 tags: [  ]

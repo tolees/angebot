@@ -5,7 +5,7 @@ date: 2020-04-15 00:08:20
 image: 'https://m.media-amazon.com/images/I/41Ujl7bLJpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJQTB1R-de Ankermann Neu Business Office Work PC PC Intel i5 4570 4X...'
 sku: 'B07NJQTB1R-de'
 tags: [  ]

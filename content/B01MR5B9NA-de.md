@@ -5,7 +5,7 @@ date: 2020-09-15 06:49:55
 image: 'https://m.media-amazon.com/images/I/31NMi-p91RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MR5B9NA-de B.K.Licht I LED Pendelleuchte inkl. 4x 4W Platinen I 330lm...'
 sku: 'B01MR5B9NA-de'
 tags: [  ]

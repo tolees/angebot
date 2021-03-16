@@ -5,7 +5,7 @@ date: 2020-04-03 22:07:10
 image: 'https://m.media-amazon.com/images/I/41I51bn+v+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XC3HLLZ-de Huawei P10 Smartphone 12 95 cm 5 1 Zoll Touch-Display 64...'
 sku: 'B06XC3HLLZ-de'
 tags: [  ]

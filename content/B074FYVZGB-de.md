@@ -5,7 +5,7 @@ date: 2020-04-16 17:42:35
 image: 'https://m.media-amazon.com/images/I/510N1W0GX4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074FYVZGB-de Revell 06053 Modellbausatz Star Wars 1:2700-Republic...'
 sku: 'B074FYVZGB-de'
 tags: [  ]

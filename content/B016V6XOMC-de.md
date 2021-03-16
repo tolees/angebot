@@ -5,7 +5,7 @@ date: 2020-04-25 11:20:44
 image: 'https://m.media-amazon.com/images/I/415jBODJjkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016V6XOMC-de Original HTC Micro USB Ladekabel für HTC One M7 M8 M9...'
 sku: 'B016V6XOMC-de'
 tags: [  ]

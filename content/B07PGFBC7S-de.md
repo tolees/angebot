@@ -5,7 +5,7 @@ date: 2020-04-14 08:04:05
 image: 'https://m.media-amazon.com/images/I/41rAd5ybTiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PGFBC7S-de Souarts Ring Damen Schmuck Silber Gold Rosegold Farbe...'
 sku: 'B07PGFBC7S-de'
 tags: [  ]

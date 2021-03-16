@@ -5,7 +5,7 @@ date: 2020-03-27 04:58:32
 image: 'https://m.media-amazon.com/images/I/41ApTNO7YsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HJDSXBX-de Funko 34496 Pop-Vinyl: Television: Money Heist: The...'
 sku: 'B07HJDSXBX-de'
 tags: [  ]

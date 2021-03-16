@@ -5,7 +5,7 @@ date: 2020-04-15 00:17:45
 image: 'https://m.media-amazon.com/images/I/61OPaFEUXIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4WKA7O-de AFUT Fotostudio 1 5 x 2 1 M klassische Holz Holzboden Mode...'
 sku: 'B01N4WKA7O-de'
 tags: [  ]

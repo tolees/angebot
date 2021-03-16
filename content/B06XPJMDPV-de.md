@@ -5,7 +5,7 @@ date: 2020-02-04 13:21:18
 image: 'https://m.media-amazon.com/images/I/513oHdGg5TL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPJMDPV-de Meister Nivelliersystem für Fliesen 351-teilig -...'
 sku: 'B06XPJMDPV-de'
 tags: [  ]

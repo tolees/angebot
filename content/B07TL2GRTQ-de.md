@@ -5,7 +5,7 @@ date: 2020-06-11 06:53:56
 image: 'https://m.media-amazon.com/images/I/210--RVDflL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TL2GRTQ-de Huawei B535 4G LTE Router 3Pro Cat.7 4G LTE bis zu 300...'
 sku: 'B07TL2GRTQ-de'
 tags: [  ]

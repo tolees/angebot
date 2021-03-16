@@ -5,7 +5,7 @@ date: 2020-04-24 15:03:45
 image: 'https://m.media-amazon.com/images/I/31gB6AJOktL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L2X4ZBX-de Corsair Harpoon Kabellose RGB Wiederaufladbare Optisch...'
 sku: 'B07L2X4ZBX-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-08 18:31:56
 image: 'https://m.media-amazon.com/images/I/41fWJWD7vwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079YG2DR6-de Funko 26974 Pop! Star Wars: Han Solo Bobble Figure'
 sku: 'B079YG2DR6-de'
 tags: [  ]

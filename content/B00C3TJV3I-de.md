@@ -5,7 +5,7 @@ date: 2020-01-08 14:46:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51uspegdGsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C3TJV3I-de Ravensburger tiptoi Dein Körper und Du Spiel ab 4 Jahren...'
 sku: 'B00C3TJV3I-de'
 tags: [  ]

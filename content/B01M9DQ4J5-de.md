@@ -5,7 +5,7 @@ date: 2020-03-24 12:05:55
 image: 'https://m.media-amazon.com/images/I/41LIK+srHDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M9DQ4J5-de Motorola VerveOnes ME | Stereo smart Bluetooth Kopfhörer...'
 sku: 'B01M9DQ4J5-de'
 tags: [  ]

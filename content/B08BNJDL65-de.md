@@ -5,7 +5,7 @@ date: 2020-07-23 23:53:13
 image: 'https://m.media-amazon.com/images/I/417bqRsM0KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BNJDL65-de Bluetooth Kopfhörer kabellose Kopfhörer Touch Control...'
 sku: 'B08BNJDL65-de'
 tags: [  ]

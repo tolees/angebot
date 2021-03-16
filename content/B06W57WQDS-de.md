@@ -5,7 +5,7 @@ date: 2020-04-14 16:04:25
 image: 'https://m.media-amazon.com/images/I/41jX33gHUjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W57WQDS-de Craft Damen Greatness Fahrradunterhose Black M'
 sku: 'B06W57WQDS-de'
 tags: [  ]

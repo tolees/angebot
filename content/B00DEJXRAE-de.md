@@ -5,7 +5,7 @@ date: 2020-01-26 12:57:48
 image: 'https://m.media-amazon.com/images/I/21Odl3jFqdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DEJXRAE-de Dis Dell Acc Soundbar AC511 0MN008'
 sku: 'B00DEJXRAE-de'
 tags: [  ]

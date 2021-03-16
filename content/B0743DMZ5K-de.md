@@ -5,7 +5,7 @@ date: 2020-01-01 22:27:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/613lUWQtsLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0743DMZ5K-de DISNEY Frozen - DIE EISKÖNIGIN Scooli Campus UP...'
 sku: 'B0743DMZ5K-de'
 tags: [  ]

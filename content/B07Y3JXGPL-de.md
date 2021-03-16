@@ -5,7 +5,7 @@ date: 2020-02-17 17:53:56
 image: 'https://m.media-amazon.com/images/I/31RrHf4-TnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y3JXGPL-de WD My Book externe Festplatte 14 TB USB 3.0-Schnittstelle...'
 sku: 'B07Y3JXGPL-de'
 tags: [  ]

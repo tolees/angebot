@@ -5,7 +5,7 @@ date: 2020-09-21 15:21:46
 image: 'https://m.media-amazon.com/images/I/31WyFDO5p7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKM6S4C-de iRobot Braava Jet 250 Wischroboter mit Präzisions-...'
 sku: 'B07TKM6S4C-de'
 tags: [  ]

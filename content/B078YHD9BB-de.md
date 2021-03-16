@@ -5,7 +5,7 @@ date: 2020-05-10 07:19:11
 image: 'https://m.media-amazon.com/images/I/51CrdzF-bkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078YHD9BB-de Microsoft Surface Book 2 38 1 cm 15 Zoll Laptop Intel Core...'
 sku: 'B078YHD9BB-de'
 tags: [  ]

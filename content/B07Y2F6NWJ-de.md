@@ -5,7 +5,7 @@ date: 2020-02-24 06:54:47
 image: 'https://m.media-amazon.com/images/I/41j6PAxjyCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y2F6NWJ-de Microsoft Surface Pro X 13 Zoll 2-in-1 Tablet Microsoft...'
 sku: 'B07Y2F6NWJ-de'
 tags: [  ]

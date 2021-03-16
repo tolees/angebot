@@ -5,7 +5,7 @@ date: 2020-08-28 16:12:38
 image: 'https://m.media-amazon.com/images/I/41g4bKqKFvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZYEOOW-de American Tourister Urban Groove - 15 6 Zoll Laptop...'
 sku: 'B01LZYEOOW-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-10 13:38:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ObP1eJ%2BlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F8TLP9R-de Huawei MateBook X Pro 35 31 cm 13 9 Zoll 3K-FullView-...'
 sku: 'B07F8TLP9R-de'
 tags: [  ]

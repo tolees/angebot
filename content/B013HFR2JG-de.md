@@ -5,7 +5,7 @@ date: 2020-03-11 04:57:16
 image: 'https://m.media-amazon.com/images/I/516bYhATD1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013HFR2JG-de Unheimliche Begegnung der Dritten Art [Blu-ray]'
 sku: 'B013HFR2JG-de'
 tags: [  ]

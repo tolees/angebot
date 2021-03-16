@@ -5,7 +5,7 @@ date: 2020-09-24 13:50:55
 image: 'https://m.media-amazon.com/images/I/3187i+0BACL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004R0OUYG-de Spyderco Messer Para-Military 2 Black G-10 Plain schwarz...'
 sku: 'B004R0OUYG-de'
 tags: [  ]

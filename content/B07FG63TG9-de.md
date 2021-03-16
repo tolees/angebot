@@ -5,7 +5,7 @@ date: 2020-04-16 12:18:59
 image: 'https://m.media-amazon.com/images/I/31gbaz7g89L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FG63TG9-de Huawei 55030237 FreeBuds Wireless Earphones schwarz'
 sku: 'B07FG63TG9-de'
 tags: [  ]

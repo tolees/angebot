@@ -5,7 +5,7 @@ date: 2020-09-25 22:01:59
 image: 'https://m.media-amazon.com/images/I/51t-15s0UuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001Q3FSD4-de 1/la-le-Lu'
 sku: 'B001Q3FSD4-de'
 tags: [  ]

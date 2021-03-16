@@ -5,7 +5,7 @@ date: 2020-08-14 12:18:59
 image: 'https://m.media-amazon.com/images/I/410-Q2zz7YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F3PBNX1-de DARLINGTON & Sohns 2X Classic Controller für Xbox mit...'
 sku: 'B08F3PBNX1-de'
 tags: [  ]

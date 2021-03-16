@@ -5,7 +5,7 @@ date: 2020-02-07 16:08:51
 image: 'https://m.media-amazon.com/images/I/316VfeG+2mL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005LOKVZY-de Jil Sander Eve femme / woman Eau de Toilette Vaporisateur...'
 sku: 'B005LOKVZY-de'
 tags: [  ]

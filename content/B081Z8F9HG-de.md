@@ -5,7 +5,7 @@ date: 2020-05-13 06:27:36
 image: 'https://m.media-amazon.com/images/I/41-OhhOuwxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081Z8F9HG-de Bluetooth Kopfhörer In-Ear M3 TWS True Wireless...'
 sku: 'B081Z8F9HG-de'
 tags: [  ]

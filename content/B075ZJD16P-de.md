@@ -5,7 +5,7 @@ date: 2020-03-10 12:46:45
 image: 'https://m.media-amazon.com/images/I/41TSxWx+SjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075ZJD16P-de Haier HWD80-B14636 Waschtrockner / A / 1080 kWh/Jahr /1400...'
 sku: 'B075ZJD16P-de'
 tags: [  ]

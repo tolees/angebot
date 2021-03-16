@@ -5,7 +5,7 @@ date: 2020-05-30 18:20:49
 image: 'https://m.media-amazon.com/images/I/51qelL-Lx4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J5RH06K-de SanDisk Extreme PRO 128 GB SDXC Speicherkarte bis zu 95...'
 sku: 'B01J5RH06K-de'
 tags: [  ]

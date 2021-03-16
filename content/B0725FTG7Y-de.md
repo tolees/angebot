@@ -5,7 +5,7 @@ date: 2020-01-28 20:29:22
 image: 'https://m.media-amazon.com/images/I/31D3vZ0T-QL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0725FTG7Y-de Sony HT-RT4 5.1 Soundbar System 600W hohe...'
 sku: 'B0725FTG7Y-de'
 tags: [  ]

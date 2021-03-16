@@ -5,7 +5,7 @@ date: 2020-08-04 01:29:14
 image: 'https://m.media-amazon.com/images/I/41M5ahU6B1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WHN3XRF-de ENACFIRE Bluetooth Kopfhörer E60 kabellos Ohrhörer mit...'
 sku: 'B07WHN3XRF-de'
 tags: [  ]

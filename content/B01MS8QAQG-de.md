@@ -5,7 +5,7 @@ date: 2020-05-31 11:52:56
 image: 'https://m.media-amazon.com/images/I/41VeImLqkYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MS8QAQG-de Philips SHD8800/12 Over-Ear Funkkopfhörer offen 15m...'
 sku: 'B01MS8QAQG-de'
 tags: [  ]

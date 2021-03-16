@@ -5,7 +5,7 @@ date: 2020-06-11 11:28:59
 image: 'https://m.media-amazon.com/images/I/41FEGqT3EpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q3G1BVJ-de Hunter Mason Plissee Klemmfix Faltrollo ohne Bohren...'
 sku: 'B07Q3G1BVJ-de'
 tags: [  ]

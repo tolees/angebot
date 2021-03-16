@@ -5,7 +5,7 @@ date: 2020-01-08 16:21:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414OnYFCtVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01688GRMW-de Friedrich|23 Schmuckkoffer Leder 22 4 x 16 x 14 8 cm...'
 sku: 'B01688GRMW-de'
 tags: [  ]

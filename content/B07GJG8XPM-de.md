@@ -5,7 +5,7 @@ date: 2020-02-06 17:34:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ivFwzQyUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GJG8XPM-de Acer TravelMate X3410 TMX3410-MG-50LB 35 6 cm 14 Zoll...'
 sku: 'B07GJG8XPM-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-15 00:05:01
 image: 'https://m.media-amazon.com/images/I/513ZEVH37QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVYMGT2-de Yavso USB Beleuchtungsset für Lego LED-Licht Set LED...'
 sku: 'B07PVYMGT2-de'
 tags: [  ]

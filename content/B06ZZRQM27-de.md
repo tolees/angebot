@@ -5,7 +5,7 @@ date: 2020-02-01 15:25:31
 image: 'https://m.media-amazon.com/images/I/41wLinZaWOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZZRQM27-de Maxi-Cosi Rodi XP Fix Kinder/-Autositz 15-36 kg mit Isofix...'
 sku: 'B06ZZRQM27-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-03 19:08:59
 image: 'https://m.media-amazon.com/images/I/51V89kuGwwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F9S8DIO-de Eagle Creek Pack-It Original Cube Packtasche Rot red fire...'
 sku: 'B00F9S8DIO-de'
 tags: [  ]

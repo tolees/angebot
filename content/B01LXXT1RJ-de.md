@@ -5,7 +5,7 @@ date: 2020-03-07 19:08:32
 image: 'https://m.media-amazon.com/images/I/41Fyru2ky7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXXT1RJ-de Iris & Lilly Damen Hipster mit unterschiedlichen Mustern...'
 sku: 'B01LXXT1RJ-de'
 tags: [  ]

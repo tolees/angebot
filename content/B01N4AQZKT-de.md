@@ -5,7 +5,7 @@ date: 2020-02-04 14:15:30
 image: 'https://m.media-amazon.com/images/I/51EyFpcKeJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4AQZKT-de Starboy 2lp [Vinyl LP]'
 sku: 'B01N4AQZKT-de'
 tags: [  ]

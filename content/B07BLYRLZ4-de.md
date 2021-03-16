@@ -5,7 +5,7 @@ date: 2020-01-12 08:43:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51OCfnmpieL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BLYRLZ4-de GraviTrax 27611 Lift Spielzeug bunt'
 sku: 'B07BLYRLZ4-de'
 tags: [  ]

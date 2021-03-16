@@ -5,7 +5,7 @@ date: 2020-01-05 06:22:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-SOFt8q%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NH1S3CX-de Barbie FXH15 - Reitspaß Spielset mit Barbie blond Chelsea...'
 sku: 'B07NH1S3CX-de'
 tags: [  ]

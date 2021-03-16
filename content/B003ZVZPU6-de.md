@@ -5,7 +5,7 @@ date: 2020-02-22 04:57:10
 image: 'https://m.media-amazon.com/images/I/41P5xqH5xNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003ZVZPU6-de MÜHLE - Klassischer Rasierhobel - geschlossener Kamm -...'
 sku: 'B003ZVZPU6-de'
 tags: [  ]

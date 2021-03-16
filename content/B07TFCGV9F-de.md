@@ -5,7 +5,7 @@ date: 2020-07-23 13:03:43
 image: 'https://m.media-amazon.com/images/I/51Z86gggPuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TFCGV9F-de Govee RGB LED Strip 5M Wasserdicht LED Streifen Lichtband...'
 sku: 'B07TFCGV9F-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 17:47:24
 image: 'https://m.media-amazon.com/images/I/41ZZ87PtXSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079NBYP2S-de HSP Himoto Space Car Renn-Auto aus Bausteinen mit...'
 sku: 'B079NBYP2S-de'
 tags: [  ]

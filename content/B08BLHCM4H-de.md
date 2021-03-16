@@ -5,7 +5,7 @@ date: 2020-08-10 00:23:44
 image: 'https://m.media-amazon.com/images/I/513J051WUTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BLHCM4H-de LIGHTAILING Licht-Set Für Technic Ducati Panigale V4 R...'
 sku: 'B08BLHCM4H-de'
 tags: [  ]

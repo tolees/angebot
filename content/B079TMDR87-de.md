@@ -5,7 +5,7 @@ date: 2020-04-15 23:36:25
 image: 'https://m.media-amazon.com/images/I/31kkDP8JYIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079TMDR87-de Orbsmart lüfterloser 4K Mini PC AW-09 Windows 10 Desktop-...'
 sku: 'B079TMDR87-de'
 tags: [  ]

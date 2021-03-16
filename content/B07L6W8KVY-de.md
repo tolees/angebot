@@ -5,7 +5,7 @@ date: 2020-08-10 16:46:27
 image: 'https://m.media-amazon.com/images/I/51Y-hWwAVDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L6W8KVY-de Oral-B CrossAction Black Edition Aufsteckbürsten Borsten...'
 sku: 'B07L6W8KVY-de'
 tags: [  ]

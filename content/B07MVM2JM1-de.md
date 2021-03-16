@@ -5,7 +5,7 @@ date: 2020-01-03 13:43:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/311jZigggTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVM2JM1-de super.natural Bequemer Herren Pullover Mit Merinowolle M...'
 sku: 'B07MVM2JM1-de'
 tags: [  ]

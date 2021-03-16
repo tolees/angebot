@@ -5,7 +5,7 @@ date: 2020-03-11 18:41:22
 image: 'https://m.media-amazon.com/images/I/51TaGkM08gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMD4QQH-de PLAYMOBIL Magic 70096 Beautysalon mit Perlenschatulle Ab 4...'
 sku: 'B07JMD4QQH-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-03 04:56:34
 image: 'https://m.media-amazon.com/images/I/41zXvdLIpKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ST67HFW-de Hue White & Col. Amb. Sana Wandleuchte schwarz 1500lm...'
 sku: 'B07ST67HFW-de'
 tags: [  ]

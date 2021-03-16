@@ -5,7 +5,7 @@ date: 2020-08-25 23:14:34
 image: 'https://m.media-amazon.com/images/I/31izkZplHcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FPKWDZ2-de Ecco Damen FLOWTW Riemchensandalen Schwarz Black 1001 39 EU'
 sku: 'B07FPKWDZ2-de'
 tags: [  ]

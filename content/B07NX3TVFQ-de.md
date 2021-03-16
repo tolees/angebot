@@ -5,7 +5,7 @@ date: 2020-03-08 17:52:44
 image: 'https://m.media-amazon.com/images/I/31mUxM5MYnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NX3TVFQ-de Acer Spin 1 SP111-34N-P3RH 29 5 cm 11 6 Zoll HD IPS Multi-...'
 sku: 'B07NX3TVFQ-de'
 tags: [  ]

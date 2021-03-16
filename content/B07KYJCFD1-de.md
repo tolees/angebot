@@ -5,7 +5,7 @@ date: 2020-04-16 08:37:55
 image: 'https://m.media-amazon.com/images/I/41pa4ye1yFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KYJCFD1-de GLÜCKSWOLKE Aufbewahrungsbox Kinder I Spielzeug Kiste mit...'
 sku: 'B07KYJCFD1-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-31 13:49:03
 image: 'https://m.media-amazon.com/images/I/21OyxamldNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YZDGS7M-de Tenda Nova MW5G 3er Pack echtes Dual-Band Mesh WLAN bis zu...'
 sku: 'B07YZDGS7M-de'
 tags: [  ]

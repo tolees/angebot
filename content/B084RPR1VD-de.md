@@ -5,7 +5,7 @@ date: 2020-09-16 06:25:10
 image: 'https://m.media-amazon.com/images/I/31vN6ZrihmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084RPR1VD-de Bellivalini Damen Kurze Leggings aus Viskose BLV50-149...'
 sku: 'B084RPR1VD-de'
 tags: [  ]

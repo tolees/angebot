@@ -5,7 +5,7 @@ date: 2020-04-11 08:16:57
 image: 'https://m.media-amazon.com/images/I/31TcgVzx6gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O8U58JQ-de Element System 10810-00001 Buchstütze Babylon 2 Stück für...'
 sku: 'B00O8U58JQ-de'
 tags: [  ]

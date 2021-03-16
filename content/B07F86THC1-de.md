@@ -5,7 +5,7 @@ date: 2020-09-11 08:32:50
 image: 'https://m.media-amazon.com/images/I/41b0Cdz4rsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F86THC1-de Gore Wear Unisex M Infinium Handschuhe Schwarz Black/Neon...'
 sku: 'B07F86THC1-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-13 11:33:43
 image: 'https://m.media-amazon.com/images/I/41hRBgqCyRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKJKCZM-de Philips HR2382/15 Pastamaker 200 W vollautomatische...'
 sku: 'B07FKJKCZM-de'
 tags: [  ]

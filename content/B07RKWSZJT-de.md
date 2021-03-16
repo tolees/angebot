@@ -5,7 +5,7 @@ date: 2020-08-27 03:45:46
 image: 'https://m.media-amazon.com/images/I/41A9nUQKMFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RKWSZJT-de Tommy Hilfiger Herren Arlos Bomber Sportjacke Blau Blue...'
 sku: 'B07RKWSZJT-de'
 tags: [  ]

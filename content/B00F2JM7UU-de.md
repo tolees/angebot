@@ -5,7 +5,7 @@ date: 2020-09-11 08:09:55
 image: 'https://m.media-amazon.com/images/I/41Js49YKVpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F2JM7UU-de Karlie Transportbox Nomad Größe XL 90 x 60 x 68 cm'
 sku: 'B00F2JM7UU-de'
 tags: [  ]

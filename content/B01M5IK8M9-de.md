@@ -5,7 +5,7 @@ date: 2020-04-14 23:58:31
 image: 'https://m.media-amazon.com/images/I/51AH5s89IML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M5IK8M9-de Funko 13318 Actionfigur Stranger Things: Eleven mit Eggos...'
 sku: 'B01M5IK8M9-de'
 tags: [  ]

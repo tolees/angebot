@@ -5,7 +5,7 @@ date: 2020-08-30 23:48:15
 image: 'https://m.media-amazon.com/images/I/41JaGTkpX3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089RDFV88-de PUMA Sneakersocken 18 Paar Pack Statement Edition - Damen...'
 sku: 'B089RDFV88-de'
 tags: [  ]

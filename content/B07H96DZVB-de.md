@@ -5,7 +5,7 @@ date: 2020-06-11 15:27:00
 image: 'https://m.media-amazon.com/images/I/41X52vBlBEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H96DZVB-de LincPlus P1 Laptop 13 3 Zoll Full HD Ultrabook Intel...'
 sku: 'B07H96DZVB-de'
 tags: [  ]

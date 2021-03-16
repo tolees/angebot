@@ -5,7 +5,7 @@ date: 2020-03-21 04:59:11
 image: 'https://m.media-amazon.com/images/I/41MjZwMnH6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083FS8JFH-de BRIKSMAX Led Beleuchtungsset für Lego Hidden Side Geister-...'
 sku: 'B083FS8JFH-de'
 tags: [  ]

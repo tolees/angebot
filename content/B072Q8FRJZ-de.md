@@ -5,7 +5,7 @@ date: 2020-02-17 07:56:39
 image: 'https://m.media-amazon.com/images/I/41A0dKsqOUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072Q8FRJZ-de Lenovo V340-17IWL - Intel CORE i5 - 500GB SSD - 8GB...'
 sku: 'B072Q8FRJZ-de'
 tags: [  ]

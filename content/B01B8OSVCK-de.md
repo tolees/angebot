@@ -5,7 +5,7 @@ date: 2020-05-02 08:58:01
 image: 'https://m.media-amazon.com/images/I/31chAFSKzyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B8OSVCK-de DELL KB216 USB QWERTY US International Schwarz Tastatur -...'
 sku: 'B01B8OSVCK-de'
 tags: [  ]

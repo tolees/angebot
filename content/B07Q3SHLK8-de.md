@@ -5,7 +5,7 @@ date: 2020-05-18 10:38:21
 image: 'https://m.media-amazon.com/images/I/511hH6m5Y1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q3SHLK8-de Diesel Herren Chronograph Quarz Uhr mit Nylon Armband DZ4512'
 sku: 'B07Q3SHLK8-de'
 tags: [  ]

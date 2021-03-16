@@ -5,7 +5,7 @@ date: 2020-06-12 01:14:09
 image: 'https://m.media-amazon.com/images/I/51g1EO0BKLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797ZLBY7-de Sylvanian Families - 6003 - Seidenkatze: Lulu Seidenthal'
 sku: 'B0797ZLBY7-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-07 21:41:06
 image: 'https://m.media-amazon.com/images/I/41vdLn0LxEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085RR47VZ-de TONGJI Acryl Vitrine Kompatibel Mit Lego 42083 Technic...'
 sku: 'B085RR47VZ-de'
 tags: [  ]

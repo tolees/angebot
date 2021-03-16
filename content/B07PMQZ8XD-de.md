@@ -5,7 +5,7 @@ date: 2020-09-15 12:08:56
 image: 'https://m.media-amazon.com/images/I/41vtn2IvqkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMQZ8XD-de SAWAKE Handventilator mini Ventilator mit Handyhalter...'
 sku: 'B07PMQZ8XD-de'
 tags: [  ]

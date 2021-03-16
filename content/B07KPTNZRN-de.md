@@ -5,7 +5,7 @@ date: 2020-04-01 05:03:12
 image: 'https://m.media-amazon.com/images/I/41DZtMw+5vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPTNZRN-de Funko 36659 POP Bobble: Avengers Endgame: Hulk...'
 sku: 'B07KPTNZRN-de'
 tags: [  ]

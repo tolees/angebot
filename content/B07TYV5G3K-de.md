@@ -5,7 +5,7 @@ date: 2020-07-08 10:28:50
 image: 'https://m.media-amazon.com/images/I/41z3uL5N6-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYV5G3K-de Bluetooth Kopfhörer in Ear YONMIG Kabellos Bluetooth 5.0...'
 sku: 'B07TYV5G3K-de'
 tags: [  ]

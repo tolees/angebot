@@ -5,7 +5,7 @@ date: 2020-08-25 06:17:28
 image: 'https://m.media-amazon.com/images/I/41O-YaQa7bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSBU20C-de foodspring L-Carnitin Kapseln 120 Stück Vegan Ideal für...'
 sku: 'B01MSBU20C-de'
 tags: [  ]

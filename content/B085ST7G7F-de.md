@@ -5,7 +5,7 @@ date: 2020-08-23 06:51:58
 image: 'https://m.media-amazon.com/images/I/51hPm5BI+CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085ST7G7F-de Palado® Damen Sandale Korfu | Made in EU | Pantoletten in...'
 sku: 'B085ST7G7F-de'
 tags: [  ]

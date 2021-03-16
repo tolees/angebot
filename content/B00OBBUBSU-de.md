@@ -5,7 +5,7 @@ date: 2020-07-22 12:47:53
 image: 'https://m.media-amazon.com/images/I/31dyNC5uz7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OBBUBSU-de Bosch Professional Baustativ BT 150 55-157 cm 1 5 kg...'
 sku: 'B00OBBUBSU-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-04 04:29:38
 image: 'https://m.media-amazon.com/images/I/31VIz37HL+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LBN3FKM-de Ice-Watch - ICE ola White Black - Women s wristwatch with...'
 sku: 'B00LBN3FKM-de'
 tags: [  ]

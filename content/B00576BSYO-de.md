@@ -5,7 +5,7 @@ date: 2020-09-22 01:42:53
 image: 'https://m.media-amazon.com/images/I/51B0I7I-p7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00576BSYO-de Wenko Herdabdeckplatte Universal Brooklyn Bridge 2er Set...'
 sku: 'B00576BSYO-de'
 tags: [  ]

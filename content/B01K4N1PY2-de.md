@@ -5,7 +5,7 @@ date: 2020-04-28 12:53:24
 image: 'https://m.media-amazon.com/images/I/41nTyByL09L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K4N1PY2-de Sennheiser HD 4.30i Headset geschlossenes...'
 sku: 'B01K4N1PY2-de'
 tags: [  ]

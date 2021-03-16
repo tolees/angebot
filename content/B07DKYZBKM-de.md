@@ -5,7 +5,7 @@ date: 2020-02-18 00:13:49
 image: 'https://m.media-amazon.com/images/I/51ZW2m86vNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKYZBKM-de Jump Force: Standard Edition - [PlayStation 4]'
 sku: 'B07DKYZBKM-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-25 07:24:47
 image: 'https://m.media-amazon.com/images/I/51cQg8gAtjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NAUYYNG-de Sony CMT-X3CD Micro-HiFi System CD USB Bluetooth 20 Watt rot'
 sku: 'B00NAUYYNG-de'
 tags: [  ]

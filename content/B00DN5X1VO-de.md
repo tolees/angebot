@@ -5,7 +5,7 @@ date: 2020-04-10 07:12:27
 image: 'https://m.media-amazon.com/images/I/51ZGMseyc8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DN5X1VO-de Die Monster AG/Die Monster Uni [Blu-ray]'
 sku: 'B00DN5X1VO-de'
 tags: [  ]

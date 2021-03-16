@@ -5,7 +5,7 @@ date: 2020-04-13 07:41:57
 image: 'https://m.media-amazon.com/images/I/41MU2ujqORL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1RDZ14-de Hpybest 10 Ps 12–60 mm HSS Lochsägenbohrer HSS HSS...'
 sku: 'B07S1RDZ14-de'
 tags: [  ]

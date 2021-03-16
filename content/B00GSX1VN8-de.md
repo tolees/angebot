@@ -5,7 +5,7 @@ date: 2020-01-28 00:23:56
 image: 'https://m.media-amazon.com/images/I/41q8qbIvOHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GSX1VN8-de Bright Starts June Berry höhenverstellbare Lauflernhilfe...'
 sku: 'B00GSX1VN8-de'
 tags: [  ]

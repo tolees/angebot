@@ -5,7 +5,7 @@ date: 2020-01-28 01:39:41
 image: 'https://m.media-amazon.com/images/I/41Pc8WynjML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q43HJVW-de Kabelclips Kabelhalter URAQT Vielzwecke Kabelführung Kabel...'
 sku: 'B07Q43HJVW-de'
 tags: [  ]

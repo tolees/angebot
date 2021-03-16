@@ -5,7 +5,7 @@ date: 2020-01-29 00:07:38
 image: 'https://m.media-amazon.com/images/I/41vs3axczNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079SDSZKC-de Samsung Externer Akkupack EB-P3000C 10.000 mAh Navy Blau'
 sku: 'B079SDSZKC-de'
 tags: [  ]

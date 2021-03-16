@@ -5,7 +5,7 @@ date: 2020-04-11 09:54:21
 image: 'https://m.media-amazon.com/images/I/31ddrPFS33L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HGWTTMN-de AKASO Smart WLAN Kamera HD 1080P IP Überwachungskamera...'
 sku: 'B07HGWTTMN-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-05 08:13:52
 image: 'https://m.media-amazon.com/images/I/311zbDeRpQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PXCFSZL-de VGA HDMI Dummy Plug Virtueller Display-Emulator-Adapter...'
 sku: 'B07PXCFSZL-de'
 tags: [  ]

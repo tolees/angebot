@@ -5,7 +5,7 @@ date: 2020-03-24 14:39:09
 image: 'https://m.media-amazon.com/images/I/41meoX9tRBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NP6YX9D-de Ersatz Fernbedienung for Philips TV 22PFL3403/60...'
 sku: 'B07NP6YX9D-de'
 tags: [  ]

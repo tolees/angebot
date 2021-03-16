@@ -5,7 +5,7 @@ date: 2020-02-03 04:55:16
 image: 'https://m.media-amazon.com/images/I/41gLpfNVnML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002CF37OC-de Mantona Basic Scout Fotostativ Kamerastativ bis 144cm...'
 sku: 'B002CF37OC-de'
 tags: [  ]

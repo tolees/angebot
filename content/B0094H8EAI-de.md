@@ -5,7 +5,7 @@ date: 2020-09-30 06:01:15
 image: 'https://m.media-amazon.com/images/I/41QF-d21W8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0094H8EAI-de Yankee Candle Duftkerze im Glas groß | Cranberry Ice |...'
 sku: 'B0094H8EAI-de'
 tags: [  ]

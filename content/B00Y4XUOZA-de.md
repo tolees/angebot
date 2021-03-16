@@ -5,7 +5,7 @@ date: 2020-10-11 06:22:14
 image: 'https://m.media-amazon.com/images/I/41vRz4Jj35L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Y4XUOZA-de Lacoste Herren Poloshirt Schwarz Noir Large...'
 sku: 'B00Y4XUOZA-de'
 tags: [  ]

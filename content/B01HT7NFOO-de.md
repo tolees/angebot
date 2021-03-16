@@ -5,7 +5,7 @@ date: 2020-04-28 08:20:53
 image: 'https://m.media-amazon.com/images/I/41nIq1tiKUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HT7NFOO-de Ruigor ICON 87 – großer multifunktionaler Rucksack...'
 sku: 'B01HT7NFOO-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-10 05:26:49
 image: 'https://m.media-amazon.com/images/I/31e5xETSJHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G5SF48Z-de Logitech G PRO Wireless Gaming Maus Hero 16000 DPI Sensor...'
 sku: 'B07G5SF48Z-de'
 tags: [  ]

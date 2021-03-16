@@ -5,7 +5,7 @@ date: 2020-09-23 07:28:41
 image: 'https://m.media-amazon.com/images/I/41PEl7L2h7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YB7GND5-de Willful Bluetooth Kopfhörer In Ear Kopfhörer Kabellos...'
 sku: 'B07YB7GND5-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-07 21:08:27
 image: 'https://m.media-amazon.com/images/I/41aycedP4cL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXVFCAV-de Simplicol Textilfarbe expert Brombeer-Rot 1706: Farbe für...'
 sku: 'B01LXVFCAV-de'
 tags: [  ]

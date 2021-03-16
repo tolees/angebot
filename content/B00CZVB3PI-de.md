@@ -5,7 +5,7 @@ date: 2020-09-21 11:52:19
 image: 'https://m.media-amazon.com/images/I/51y2FI-qSDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CZVB3PI-de Paco Home Kinder Teppich Karo Design Multicolour Grün Rot...'
 sku: 'B00CZVB3PI-de'
 tags: [  ]

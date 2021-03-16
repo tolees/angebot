@@ -5,7 +5,7 @@ date: 2020-01-16 18:57:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WW7ptb0JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BBW8KF2-de Aeronautica Militare blank Melange Grey XL'
 sku: 'B01BBW8KF2-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-24 04:46:03
 image: 'https://m.media-amazon.com/images/I/41nqjELNHAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G7DJO7I-de Columbia Herren Woodburn II Chukka Wp Omni-Heat Schwarz...'
 sku: 'B01G7DJO7I-de'
 tags: [  ]

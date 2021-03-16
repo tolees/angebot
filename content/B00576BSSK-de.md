@@ -5,7 +5,7 @@ date: 2020-03-02 05:10:04
 image: 'https://m.media-amazon.com/images/I/51glvhyZcEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00576BSSK-de Wenko Herdabdeckplatte Universal Chili 2er Set...'
 sku: 'B00576BSSK-de'
 tags: [  ]

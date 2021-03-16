@@ -5,7 +5,7 @@ date: 2020-10-03 06:59:08
 image: 'https://m.media-amazon.com/images/I/51K5ABUuvtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMRSPBD-de Harmony'
 sku: 'B07TMRSPBD-de'
 tags: [  ]

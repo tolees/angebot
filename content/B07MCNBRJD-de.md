@@ -5,7 +5,7 @@ date: 2020-01-22 15:49:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41f05la2ixL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCNBRJD-de Heimkamera 1080P FHD Wireless WiFi IP Überwachungskamera...'
 sku: 'B07MCNBRJD-de'
 tags: [  ]

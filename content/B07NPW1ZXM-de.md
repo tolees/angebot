@@ -5,7 +5,7 @@ date: 2020-05-17 09:58:22
 image: 'https://m.media-amazon.com/images/I/31JtQEv+FtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPW1ZXM-de Tommy Hilfiger Herren-Ketten mit Anhänger & Anhänger...'
 sku: 'B07NPW1ZXM-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 23:57:49
 image: 'https://m.media-amazon.com/images/I/31OYD5nlELL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZKHVQG9-de CXZC Raspador de nieve para automóviles y camiones...'
 sku: 'B07ZKHVQG9-de'
 tags: [  ]

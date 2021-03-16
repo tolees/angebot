@@ -5,7 +5,7 @@ date: 2020-03-22 17:02:34
 image: 'https://m.media-amazon.com/images/I/41Jv9lPgowL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HT1T24W-de RAMPOW Kfz Ladegerät Auto Ladegerät Zigarettenanzünder USB...'
 sku: 'B07HT1T24W-de'
 tags: [  ]

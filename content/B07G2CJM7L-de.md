@@ -5,7 +5,7 @@ date: 2020-03-15 04:43:49
 image: 'https://m.media-amazon.com/images/I/61m-ZsGnGtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G2CJM7L-de You Win.Who Cares? Deluxe 2cd Edition'
 sku: 'B07G2CJM7L-de'
 tags: [  ]

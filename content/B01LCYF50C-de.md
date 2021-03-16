@@ -5,7 +5,7 @@ date: 2020-04-13 16:19:00
 image: 'https://m.media-amazon.com/images/I/31ohdX5yGML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LCYF50C-de roba Garderobe Kindermöbel mit Kleiderständer Regal...'
 sku: 'B01LCYF50C-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-03 06:26:48
 image: 'https://m.media-amazon.com/images/I/51Z3iKEFVvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0747JBC1X-de LED Discokugel SOLMORE 51LEDs 12W 7 Farben Discolampe...'
 sku: 'B0747JBC1X-de'
 tags: [  ]

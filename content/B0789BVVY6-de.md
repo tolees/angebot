@@ -5,7 +5,7 @@ date: 2020-10-08 11:34:06
 image: 'https://m.media-amazon.com/images/I/41oGQbD-ZsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0789BVVY6-de Fossil Damen-Armreifen Edelstahl JF02854998'
 sku: 'B0789BVVY6-de'
 tags: [  ]

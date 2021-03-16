@@ -5,7 +5,7 @@ date: 2020-04-07 21:39:15
 image: 'https://m.media-amazon.com/images/I/41mQuhxRFZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XH4DJBK-de KINLO möbelfolie Braun 2 Stk. 61x500cm aus hochwertigem...'
 sku: 'B06XH4DJBK-de'
 tags: [  ]

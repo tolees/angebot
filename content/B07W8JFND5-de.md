@@ -5,7 +5,7 @@ date: 2020-02-02 23:15:57
 image: 'https://m.media-amazon.com/images/I/51NKpn4IG8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W8JFND5-de AMIGO Spiel + Freizeit 1951 6 Nimmt Brettspiel'
 sku: 'B07W8JFND5-de'
 tags: [  ]

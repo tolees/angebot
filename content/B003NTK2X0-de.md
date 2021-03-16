@@ -5,7 +5,7 @@ date: 2020-03-13 05:07:19
 image: 'https://m.media-amazon.com/images/I/31DuAFAp+HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003NTK2X0-de EuroTrail Grillabdeckung für 3-flamm-Grill'
 sku: 'B003NTK2X0-de'
 tags: [  ]

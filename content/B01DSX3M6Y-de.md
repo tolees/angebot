@@ -5,7 +5,7 @@ date: 2020-09-22 07:52:17
 image: 'https://m.media-amazon.com/images/I/51D-GbJ1BVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DSX3M6Y-de B.K.Licht I 6er Set LED Einbaustrahler I Dimmbar I...'
 sku: 'B01DSX3M6Y-de'
 tags: [  ]

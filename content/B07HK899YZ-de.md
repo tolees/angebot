@@ -5,7 +5,7 @@ date: 2020-03-11 11:37:50
 image: 'https://m.media-amazon.com/images/I/51mudrE0TWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HK899YZ-de Alex Perry Muttertagsgeschenk ohrringe silber geschenke...'
 sku: 'B07HK899YZ-de'
 tags: [  ]

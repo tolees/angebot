@@ -5,7 +5,7 @@ date: 2020-10-11 06:24:09
 image: 'https://m.media-amazon.com/images/I/31tAZjYx2jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002BDVGK2-de Durable 840500 Selbstklebe-Taben Quick Tab wiederablösbar...'
 sku: 'B002BDVGK2-de'
 tags: [  ]

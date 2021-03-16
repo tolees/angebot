@@ -5,7 +5,7 @@ date: 2020-08-24 23:04:34
 image: 'https://m.media-amazon.com/images/I/3198EQJn0bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0752BMRWM-de Swarovski Angelic Square Set weiss Rhodiniert'
 sku: 'B0752BMRWM-de'
 tags: [  ]

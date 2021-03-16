@@ -5,7 +5,7 @@ date: 2020-04-11 16:34:43
 image: 'https://m.media-amazon.com/images/I/41G5oQmvnnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083BHD6Q5-de Sanglory Schnitzmesser 4 Stück Holz Schnitz Set Wood...'
 sku: 'B083BHD6Q5-de'
 tags: [  ]

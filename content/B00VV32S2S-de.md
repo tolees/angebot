@@ -5,7 +5,7 @@ date: 2020-03-02 16:54:02
 image: 'https://m.media-amazon.com/images/I/416f0QR4NkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VV32S2S-de TaoTronics Schreibtischlampe LED 12W Büro Tischleuchte 5...'
 sku: 'B00VV32S2S-de'
 tags: [  ]

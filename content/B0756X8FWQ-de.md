@@ -5,7 +5,7 @@ date: 2020-10-05 11:38:13
 image: 'https://m.media-amazon.com/images/I/41PQvC+CW2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0756X8FWQ-de Tumi Alpha Münzbörse 019246D 10 cm Black Ballistic'
 sku: 'B0756X8FWQ-de'
 tags: [  ]

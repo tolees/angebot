@@ -5,7 +5,7 @@ date: 2020-06-03 19:49:00
 image: 'https://m.media-amazon.com/images/I/4113A9voxSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXLMEAP-de Hasbro B9837EU4 - N-Strike Elite Disruptor...'
 sku: 'B01MXLMEAP-de'
 tags: [  ]

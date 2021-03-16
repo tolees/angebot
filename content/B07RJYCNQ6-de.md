@@ -5,7 +5,7 @@ date: 2020-04-14 16:20:08
 image: 'https://m.media-amazon.com/images/I/51DCL+Ud9pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJYCNQ6-de Acer Nitro 5 AN515-43-R90F 39 6 cm 15 6 Zoll 144Hz Full-HD...'
 sku: 'B07RJYCNQ6-de'
 tags: [  ]

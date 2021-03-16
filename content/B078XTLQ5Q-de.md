@@ -5,7 +5,7 @@ date: 2020-04-14 16:18:44
 image: 'https://m.media-amazon.com/images/I/51vniDPXJEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078XTLQ5Q-de Kitchen Emperor Santokumesser Damastmesser Küchenmesser...'
 sku: 'B078XTLQ5Q-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-13 11:12:01
 image: 'https://m.media-amazon.com/images/I/41kDR5Nc43L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005TUK0R4-de Intex Filteranlagenzubehör - Filterkartusche - Typ A - 3...'
 sku: 'B005TUK0R4-de'
 tags: [  ]

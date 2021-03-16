@@ -5,7 +5,7 @@ date: 2020-09-15 11:47:37
 image: 'https://m.media-amazon.com/images/I/510-ITWP0BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000WXJP2E-de Auf dem Kreuzzug Ins Glück Deluxe-Edition mit Bonus-Tracks'
 sku: 'B000WXJP2E-de'
 tags: [  ]

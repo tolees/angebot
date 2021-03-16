@@ -5,7 +5,7 @@ date: 2020-04-02 12:06:04
 image: 'https://m.media-amazon.com/images/I/31JAvIp-cdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019PT5QOQ-de Mobicool V30 tragbare thermo-elektrische Kühlbox 29 Liter...'
 sku: 'B019PT5QOQ-de'
 tags: [  ]

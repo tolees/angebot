@@ -5,7 +5,7 @@ date: 2020-08-24 23:25:10
 image: 'https://m.media-amazon.com/images/I/31X+-ZYdfSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083H4W1SK-de PUMA Essentials Herren Fleece Sweatjacke mit Kapuze Cotton...'
 sku: 'B083H4W1SK-de'
 tags: [  ]

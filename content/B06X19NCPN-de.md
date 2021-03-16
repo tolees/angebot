@@ -5,7 +5,7 @@ date: 2020-02-26 00:48:57
 image: 'https://m.media-amazon.com/images/I/41ry25VP6QL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X19NCPN-de Osprey Fairview 70 Reisetasche für Frauen mit abnehmbarem...'
 sku: 'B06X19NCPN-de'
 tags: [  ]

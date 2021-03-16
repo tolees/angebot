@@ -5,7 +5,7 @@ date: 2020-06-11 23:45:49
 image: 'https://m.media-amazon.com/images/I/51qfs2MoUpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHZFQ9L-de SANROCK U61W Drohne für Kinder mit Kamera RC Quadcopter...'
 sku: 'B07RHZFQ9L-de'
 tags: [  ]

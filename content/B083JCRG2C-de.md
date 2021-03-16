@@ -5,7 +5,7 @@ date: 2020-07-20 05:56:20
 image: 'https://m.media-amazon.com/images/I/41JtpHwsZnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083JCRG2C-de Bluetooth Kopfhörer In Ear Wireless Noise Cancelling...'
 sku: 'B083JCRG2C-de'
 tags: [  ]

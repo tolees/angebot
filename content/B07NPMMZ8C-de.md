@@ -5,7 +5,7 @@ date: 2020-03-23 05:08:01
 image: 'https://m.media-amazon.com/images/I/41LJAXEZJSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPMMZ8C-de Seagate Expansion Desktop 10 TB externe Festplatte 3.5...'
 sku: 'B07NPMMZ8C-de'
 tags: [  ]

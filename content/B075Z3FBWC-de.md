@@ -5,7 +5,7 @@ date: 2020-04-18 00:09:19
 image: 'https://m.media-amazon.com/images/I/41zPxVq-aUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075Z3FBWC-de Hasbro Super Soaker E0022EU4 - Soakzooka Wasserpistole mit...'
 sku: 'B075Z3FBWC-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-09 15:39:24
 image: 'https://m.media-amazon.com/images/I/51CTTruGw4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000B8KYO8-de Leifheit Wandrollenhalter Parat Royal für 3 Rollen...'
 sku: 'B000B8KYO8-de'
 tags: [  ]

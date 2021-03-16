@@ -5,7 +5,7 @@ date: 2020-04-14 08:20:01
 image: 'https://m.media-amazon.com/images/I/41+kFDPDKqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6KMQMT-de HP Pavilion Gaming 15-dk0008ng 15 6 Zoll / FHD IPS Gaming...'
 sku: 'B07S6KMQMT-de'
 tags: [  ]

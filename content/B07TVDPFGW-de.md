@@ -5,7 +5,7 @@ date: 2020-04-04 21:01:03
 image: 'https://m.media-amazon.com/images/I/41og2mwroiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVDPFGW-de Funko 45119 POP Animation: Evangelion - Rei Ayanami Neon...'
 sku: 'B07TVDPFGW-de'
 tags: [  ]

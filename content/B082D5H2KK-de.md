@@ -5,7 +5,7 @@ date: 2020-01-26 17:42:24
 image: 'https://m.media-amazon.com/images/I/41ENct9E9rL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082D5H2KK-de IWEMEK Mädchen Eiskönigin 2 Kostüm Frozen Prinzessin ELSA...'
 sku: 'B082D5H2KK-de'
 tags: [  ]

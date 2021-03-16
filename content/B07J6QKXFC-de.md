@@ -5,7 +5,7 @@ date: 2020-04-07 21:43:12
 image: 'https://m.media-amazon.com/images/I/51BohdHJXdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6QKXFC-de PROACC Klavier Playmat Kinder Klaviertastatur Musik...'
 sku: 'B07J6QKXFC-de'
 tags: [  ]

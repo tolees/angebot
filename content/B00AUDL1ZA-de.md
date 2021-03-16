@@ -5,7 +5,7 @@ date: 2020-03-13 12:53:10
 image: 'https://m.media-amazon.com/images/I/51IIAYfSMfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AUDL1ZA-de One Piece - Box 6: Season 6 Episoden 163-195 [6 DVDs]'
 sku: 'B00AUDL1ZA-de'
 tags: [  ]

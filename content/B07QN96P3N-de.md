@@ -5,7 +5,7 @@ date: 2020-08-20 06:15:51
 image: 'https://m.media-amazon.com/images/I/51xEWwgXAFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QN96P3N-de Amzchef Zerkleinerer Elektrisch Universalzerkleinerer mit...'
 sku: 'B07QN96P3N-de'
 tags: [  ]

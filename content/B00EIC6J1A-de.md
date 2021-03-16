@@ -5,7 +5,7 @@ date: 2020-02-10 04:44:30
 image: 'https://m.media-amazon.com/images/I/31j4EDi5khL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EIC6J1A-de WMF Diadem Plus Topfset 5-teilig Cromargan Edelstahl...'
 sku: 'B00EIC6J1A-de'
 tags: [  ]

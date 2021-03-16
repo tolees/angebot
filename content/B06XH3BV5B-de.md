@@ -5,7 +5,7 @@ date: 2020-04-27 14:51:06
 image: 'https://m.media-amazon.com/images/I/41IWzk8w8jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XH3BV5B-de Puma Herren Carson 2 Outdoor Fitnessschuhe Blau Blue...'
 sku: 'B06XH3BV5B-de'
 tags: [  ]

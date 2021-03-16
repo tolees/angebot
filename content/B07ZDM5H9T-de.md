@@ -5,7 +5,7 @@ date: 2020-04-26 11:33:32
 image: 'https://m.media-amazon.com/images/I/31wvhw0PHIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZDM5H9T-de Philips Hi-Res Audio Kopfhörer PH802BK/00 On Ear Bluetooth...'
 sku: 'B07ZDM5H9T-de'
 tags: [  ]

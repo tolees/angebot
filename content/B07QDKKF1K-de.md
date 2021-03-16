@@ -5,7 +5,7 @@ date: 2020-03-03 04:55:17
 image: 'https://m.media-amazon.com/images/I/61kjUTKIbkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QDKKF1K-de Salomon und die Königin von Saba - Mediabook Cover A + DVD...'
 sku: 'B07QDKKF1K-de'
 tags: [  ]

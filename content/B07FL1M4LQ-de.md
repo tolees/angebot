@@ -5,7 +5,7 @@ date: 2020-10-06 03:18:11
 image: 'https://m.media-amazon.com/images/I/31BLy5ko2wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FL1M4LQ-de Apple MacBook Pro 15" Vorgängermodell 16GB RAM 512GB...'
 sku: 'B07FL1M4LQ-de'
 tags: [  ]

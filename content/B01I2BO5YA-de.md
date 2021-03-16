@@ -5,7 +5,7 @@ date: 2020-04-14 23:46:03
 image: 'https://m.media-amazon.com/images/I/51O6blODLvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I2BO5YA-de Lucy 4K Ultra HD + Blu-ray'
 sku: 'B01I2BO5YA-de'
 tags: [  ]

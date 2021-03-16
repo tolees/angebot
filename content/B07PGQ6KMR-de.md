@@ -5,7 +5,7 @@ date: 2020-04-10 23:52:17
 image: 'https://m.media-amazon.com/images/I/31lelDxJFBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PGQ6KMR-de Lenovo IdeaPad C340 35 6 cm 14 Zoll 1920x1080 FHD IPS...'
 sku: 'B07PGQ6KMR-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 08:02:24
 image: 'https://m.media-amazon.com/images/I/210rV+WeagL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086QXKVGQ-de HMY Vidrio Transparente Florero decoración Vsaes mesa...'
 sku: 'B086QXKVGQ-de'
 tags: [  ]

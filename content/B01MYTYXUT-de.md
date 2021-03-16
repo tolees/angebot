@@ -5,7 +5,7 @@ date: 2020-03-25 14:03:56
 image: 'https://m.media-amazon.com/images/I/510sp9Tnt5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYTYXUT-de Eyoyo 17" Zoll Monitor 1280x1024 TFT LCD CCTV HDMI HD...'
 sku: 'B01MYTYXUT-de'
 tags: [  ]

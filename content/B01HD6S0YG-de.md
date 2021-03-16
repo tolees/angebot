@@ -5,7 +5,7 @@ date: 2020-01-22 19:08:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51QIbBil0fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HD6S0YG-de Salomon Herren Trail Running Schuhe XA PRO 3D GTX Farbe:...'
 sku: 'B01HD6S0YG-de'
 tags: [  ]

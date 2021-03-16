@@ -5,7 +5,7 @@ date: 2020-10-02 13:03:44
 image: 'https://m.media-amazon.com/images/I/41qoFHzNWUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V1X8G4L-de ADATA SE800 - 1 TB externe Solid-State-Drive mit USB 3.2...'
 sku: 'B07V1X8G4L-de'
 tags: [  ]

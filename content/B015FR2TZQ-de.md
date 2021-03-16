@@ -5,7 +5,7 @@ date: 2020-09-27 06:16:45
 image: 'https://m.media-amazon.com/images/I/41P6YYSuSZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015FR2TZQ-de Tassimo Kapseln Jacobs Typ Latte Macchiato Classico 40...'
 sku: 'B015FR2TZQ-de'
 tags: [  ]

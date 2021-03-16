@@ -5,7 +5,7 @@ date: 2020-07-15 07:25:59
 image: 'https://m.media-amazon.com/images/I/51Zc8jgwINL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJWWYNT-de Die drei !!! [Blu-ray]'
 sku: 'B07VJWWYNT-de'
 tags: [  ]

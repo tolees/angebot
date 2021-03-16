@@ -5,7 +5,7 @@ date: 2020-10-11 20:03:29
 image: 'https://m.media-amazon.com/images/I/61KQ0DolFeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004U3PAEE-de Rustic 103667630382 Stumpenkerze mit Metallic-Finish...'
 sku: 'B004U3PAEE-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-18 02:40:05
 image: 'https://m.media-amazon.com/images/I/417f0rQhfJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFDFZ63-de Funko 32118 The Flash: Vibe POP Vinylfigur Multi'
 sku: 'B07DFDFZ63-de'
 tags: [  ]

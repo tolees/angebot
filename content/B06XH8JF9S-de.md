@@ -5,7 +5,7 @@ date: 2020-06-05 09:17:09
 image: 'https://m.media-amazon.com/images/I/411TXR1kphL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XH8JF9S-de Picard Handgelenktasche Toscana Leder Small 17 x 24 x 6 cm...'
 sku: 'B06XH8JF9S-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-26 22:47:25
 image: 'https://m.media-amazon.com/images/I/41QxqxrhBfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G3NW5MI-de Sagrotan Handseife mit frischem Duft nach Aloe Vera –...'
 sku: 'B01G3NW5MI-de'
 tags: [  ]

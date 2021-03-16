@@ -5,7 +5,7 @@ date: 2020-04-07 21:59:20
 image: 'https://m.media-amazon.com/images/I/517t2UHKMDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJ1FWM3-de Pro Bike Tool Fahrradpumpe CO2 - Kartuschenpumpe Fahrrad...'
 sku: 'B07RJ1FWM3-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-12 00:06:18
 image: 'https://m.media-amazon.com/images/I/51lN5L22RxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ELG5G7K-de Hasbro Gaming B7714100 - Elefun Kinderspiel'
 sku: 'B01ELG5G7K-de'
 tags: [  ]

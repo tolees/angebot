@@ -5,7 +5,7 @@ date: 2020-04-06 21:05:10
 image: 'https://m.media-amazon.com/images/I/51sV4KcRUBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083J7YV6X-de GODNECE LED Licht-Set für Baustein Klassisch RC Led...'
 sku: 'B083J7YV6X-de'
 tags: [  ]

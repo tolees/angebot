@@ -5,7 +5,7 @@ date: 2020-01-04 11:08:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51alDMfYtUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J9WTFG6-de VITIKE Kinder Schuhe Jungen Schuhe Mädchen Sneaker Damen...'
 sku: 'B07J9WTFG6-de'
 tags: [  ]

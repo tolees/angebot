@@ -5,7 +5,7 @@ date: 2020-04-14 23:56:26
 image: 'https://m.media-amazon.com/images/I/51-PZX3-+VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Z65OA5A-de Kitchen Craft 25 5 cm Living Nostalgia innen Wall Clock...'
 sku: 'B00Z65OA5A-de'
 tags: [  ]

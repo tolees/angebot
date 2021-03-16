@@ -5,7 +5,7 @@ date: 2020-10-04 08:41:44
 image: 'https://m.media-amazon.com/images/I/31OF0masVIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCZM0HW-de Emporio Armani Damen - Edelstahl Kristall'
 sku: 'B01NCZM0HW-de'
 tags: [  ]

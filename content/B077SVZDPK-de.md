@@ -5,7 +5,7 @@ date: 2020-01-24 11:03:03
 image: 'https://m.media-amazon.com/images/I/41IxvhbtjeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077SVZDPK-de Kopp 939633016 VersaHIT Dual Einbausteckdose 16A IP54 3400...'
 sku: 'B077SVZDPK-de'
 tags: [  ]

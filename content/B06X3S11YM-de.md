@@ -5,7 +5,7 @@ date: 2020-04-02 12:51:44
 image: 'https://m.media-amazon.com/images/I/41GhMz1zYOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X3S11YM-de Schleich 42370 - Mobile Tierärztin mit Hannoveraner Fohlen'
 sku: 'B06X3S11YM-de'
 tags: [  ]

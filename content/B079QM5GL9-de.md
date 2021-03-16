@@ -5,7 +5,7 @@ date: 2020-02-23 05:05:08
 image: 'https://m.media-amazon.com/images/I/41XDcQOMvnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079QM5GL9-de iRobot Roomba 671 WLAN Saugroboter Dirt Detect Technologie...'
 sku: 'B079QM5GL9-de'
 tags: [  ]

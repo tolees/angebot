@@ -5,7 +5,7 @@ date: 2020-08-18 10:45:12
 image: 'https://m.media-amazon.com/images/I/414Wg+nDU-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF4SPNC-de Levi s Damen 2PACK Tee T-Shirt Mehrfarbig 2 Pack White...'
 sku: 'B07KF4SPNC-de'
 tags: [  ]

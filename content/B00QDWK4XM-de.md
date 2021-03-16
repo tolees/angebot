@@ -5,7 +5,7 @@ date: 2020-01-14 12:54:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61586B6wVML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QDWK4XM-de Ravensburger 17956 - Roll your Puzzle Puzzlematte'
 sku: 'B00QDWK4XM-de'
 tags: [  ]

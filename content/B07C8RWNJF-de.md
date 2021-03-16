@@ -5,7 +5,7 @@ date: 2020-10-02 13:04:01
 image: 'https://m.media-amazon.com/images/I/41nbTVo40XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C8RWNJF-de Huawei P20 Pro Smartphone Bundle 15 5 cm 6 1 Zoll 40/20/8...'
 sku: 'B07C8RWNJF-de'
 tags: [  ]

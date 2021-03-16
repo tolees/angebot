@@ -5,7 +5,7 @@ date: 2020-02-20 04:40:44
 image: 'https://m.media-amazon.com/images/I/31wga8Cud-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014GTG3UG-de Devolo dLAN pro 1200 DINrail Powerline Hutschienenadapter'
 sku: 'B014GTG3UG-de'
 tags: [  ]

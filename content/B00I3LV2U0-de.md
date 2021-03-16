@@ -5,7 +5,7 @@ date: 2020-08-25 23:02:58
 image: 'https://m.media-amazon.com/images/I/419n-FAwEDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I3LV2U0-de Sony MDR-EX15AP In-Ear-Kopfhörer mit Headsetfunktion...'
 sku: 'B00I3LV2U0-de'
 tags: [  ]

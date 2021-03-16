@@ -5,7 +5,7 @@ date: 2020-08-17 16:24:50
 image: 'https://m.media-amazon.com/images/I/418UfFkfiwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089N3KR3W-de Tryone Tablet Ständer verstellbare Tablet Halterung -...'
 sku: 'B089N3KR3W-de'
 tags: [  ]

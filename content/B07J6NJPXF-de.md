@@ -5,7 +5,7 @@ date: 2020-03-13 02:28:20
 image: 'https://m.media-amazon.com/images/I/41LtQgM8kDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6NJPXF-de Funko POP Hey Arnold Gerald JOHANSSE'
 sku: 'B07J6NJPXF-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-15 00:27:26
 image: 'https://m.media-amazon.com/images/I/415wvYcmrKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IBJ522W-de Regal Raumteiler Raumtrenner Standregal | Weiß Dekor | 9...'
 sku: 'B01IBJ522W-de'
 tags: [  ]

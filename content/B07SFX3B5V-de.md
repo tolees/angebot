@@ -5,7 +5,7 @@ date: 2020-02-06 04:59:23
 image: 'https://m.media-amazon.com/images/I/31SduJwn5IL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFX3B5V-de Samsung Galaxy S10+ Smartphone Bundle 16.3cm 6.4 Zoll 128...'
 sku: 'B07SFX3B5V-de'
 tags: [  ]

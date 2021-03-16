@@ -5,7 +5,7 @@ date: 2020-04-15 23:54:45
 image: 'https://m.media-amazon.com/images/I/41fChVtzXiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QKDPPRQ-de Queta 5 Stück Zehennagel-Tools-Kit eingewachsene...'
 sku: 'B07QKDPPRQ-de'
 tags: [  ]

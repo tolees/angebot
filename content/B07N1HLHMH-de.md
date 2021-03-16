@@ -5,7 +5,7 @@ date: 2020-01-02 10:48:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31hEqYQWk7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1HLHMH-de Clarks Damen Un Adorn Zip Slipper Beige Pebble Metallic...'
 sku: 'B07N1HLHMH-de'
 tags: [  ]

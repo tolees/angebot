@@ -5,7 +5,7 @@ date: 2020-09-14 06:48:28
 image: 'https://m.media-amazon.com/images/I/41TY8b4ZvNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GBS74KF-de HAPPYPO Po-Dusche 2.0 Weiß ersetzt Feuchttücher & Dusch-WC...'
 sku: 'B07GBS74KF-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-03 11:04:27
 image: 'https://m.media-amazon.com/images/I/31WBQTPz+IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZL3RSMQ-de Mammut Herren Hardshell-jacke Mit Kapuze Trovat blau S'
 sku: 'B07ZL3RSMQ-de'
 tags: [  ]

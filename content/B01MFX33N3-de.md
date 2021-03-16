@@ -5,7 +5,7 @@ date: 2020-04-16 08:05:46
 image: 'https://m.media-amazon.com/images/I/51wr9JJVwbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MFX33N3-de Te Tonic - 6 Gin Tonic Infusions Aroma Beuteln Botanicals...'
 sku: 'B01MFX33N3-de'
 tags: [  ]

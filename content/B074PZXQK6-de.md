@@ -5,7 +5,7 @@ date: 2020-03-07 11:05:59
 image: 'https://m.media-amazon.com/images/I/41rp9xGt-iL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PZXQK6-de Jaybird Run Kabellose In-Ear Kopfhörer Bluetooth...'
 sku: 'B074PZXQK6-de'
 tags: [  ]

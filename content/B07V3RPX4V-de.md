@@ -5,7 +5,7 @@ date: 2020-05-22 07:44:28
 image: 'https://m.media-amazon.com/images/I/41FKGBLxxPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3RPX4V-de Tommy Hilfiger Damen Honey Mini Crossover Umhängetasche...'
 sku: 'B07V3RPX4V-de'
 tags: [  ]

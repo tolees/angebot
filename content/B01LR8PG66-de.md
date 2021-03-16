@@ -5,7 +5,7 @@ date: 2020-02-09 11:50:06
 image: 'https://m.media-amazon.com/images/I/31VMXNTs8KL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LR8PG66-de Arlo Pro Smart Home 1 HD- Pro Überwachungskamera und...'
 sku: 'B01LR8PG66-de'
 tags: [  ]

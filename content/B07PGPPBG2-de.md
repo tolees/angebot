@@ -5,7 +5,7 @@ date: 2020-04-18 00:35:44
 image: 'https://m.media-amazon.com/images/I/510YS1reI-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PGPPBG2-de Elektronische Tasche Kabeltasche Kabelorganizer Doppelte...'
 sku: 'B07PGPPBG2-de'
 tags: [  ]

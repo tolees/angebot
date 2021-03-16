@@ -5,7 +5,7 @@ date: 2020-03-30 12:16:29
 image: 'https://m.media-amazon.com/images/I/412+SbWwWgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XG4Q6M8-de Fila Classic Logo Hoody Sweatshirt Grau XL'
 sku: 'B06XG4Q6M8-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-06 16:09:59
 image: 'https://m.media-amazon.com/images/I/41-lrl2+3yL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001TCUGKC-de Samsung GT-B2100 Outdoor Handy 1 3 MP-Kamera MP3...'
 sku: 'B001TCUGKC-de'
 tags: [  ]

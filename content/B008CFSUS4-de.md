@@ -5,7 +5,7 @@ date: 2020-02-14 04:55:42
 image: 'https://m.media-amazon.com/images/I/31TagOfSx5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008CFSUS4-de Drive Medical Duschhocker 12004KDR weiß verstellbar'
 sku: 'B008CFSUS4-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 17:34:17
 image: 'https://m.media-amazon.com/images/I/51dEAP8FBFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FJZBK5Q-de Hasbro Beyblade Burst Original Precision Strike Launcher'
 sku: 'B07FJZBK5Q-de'
 tags: [  ]

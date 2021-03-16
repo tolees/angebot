@@ -5,7 +5,7 @@ date: 2020-04-16 08:11:03
 image: 'https://m.media-amazon.com/images/I/31ZlnRdtYDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JFRP9VE-de Living Nostalgia Utensilienhalter Metall Blau'
 sku: 'B00JFRP9VE-de'
 tags: [  ]

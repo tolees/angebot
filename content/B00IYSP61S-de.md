@@ -5,7 +5,7 @@ date: 2020-09-25 22:01:56
 image: 'https://m.media-amazon.com/images/I/51+n5MbMlxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IYSP61S-de Rekord'
 sku: 'B00IYSP61S-de'
 tags: [  ]

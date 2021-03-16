@@ -5,7 +5,7 @@ date: 2020-04-16 08:40:48
 image: 'https://m.media-amazon.com/images/I/31bCAmIybiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0036UNK0I-de Park Tool Montageständer PRS-25 Team Issue 4000277'
 sku: 'B0036UNK0I-de'
 tags: [  ]

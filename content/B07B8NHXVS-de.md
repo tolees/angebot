@@ -5,7 +5,7 @@ date: 2020-09-15 11:53:52
 image: 'https://m.media-amazon.com/images/I/51ZV4uyrx4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B8NHXVS-de Air Wick Freshmatic Max Raumspray – Nachfüller für den Air...'
 sku: 'B07B8NHXVS-de'
 tags: [  ]

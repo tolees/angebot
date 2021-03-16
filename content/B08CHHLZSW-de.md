@@ -5,7 +5,7 @@ date: 2020-08-30 12:20:24
 image: 'https://m.media-amazon.com/images/I/51rKIuL+IbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CHHLZSW-de Montessori Spielzeug Ab 3 4 5 6 7 Jahren - Scrabble Junior...'
 sku: 'B08CHHLZSW-de'
 tags: [  ]

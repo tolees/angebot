@@ -5,7 +5,7 @@ date: 2020-09-15 18:58:26
 image: 'https://m.media-amazon.com/images/I/51ugSniyYvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D1J5VXW-de afri cola ohne Zucker 24er Pack EINWEG 24 x 330 ml'
 sku: 'B01D1J5VXW-de'
 tags: [  ]

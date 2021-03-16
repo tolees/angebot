@@ -5,7 +5,7 @@ date: 2020-09-16 06:52:23
 image: 'https://m.media-amazon.com/images/I/61eGZQTMcpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKWNS1N-de PLAYMOBIL Top Agents 70002 Spy Team Turboship Ab 6 Jahren'
 sku: 'B07JKWNS1N-de'
 tags: [  ]

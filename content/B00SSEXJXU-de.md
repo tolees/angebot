@@ -5,7 +5,7 @@ date: 2020-09-25 22:01:46
 image: 'https://m.media-amazon.com/images/I/517iI+86khL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SSEXJXU-de Oac 3cd Slipcase - Wham [3 CD]'
 sku: 'B00SSEXJXU-de'
 tags: [  ]

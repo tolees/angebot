@@ -5,7 +5,7 @@ date: 2020-09-24 13:27:52
 image: 'https://m.media-amazon.com/images/I/41THQMIK3FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TT2KHJM-de ENACFIRE SoundBar Bluetooth Lautsprecher 12W Kabellose...'
 sku: 'B07TT2KHJM-de'
 tags: [  ]

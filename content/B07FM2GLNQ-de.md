@@ -5,7 +5,7 @@ date: 2020-09-26 00:06:59
 image: 'https://m.media-amazon.com/images/I/31j42k2svUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FM2GLNQ-de Trust Verto Wireless Vertikale Ergonomische Maus...'
 sku: 'B07FM2GLNQ-de'
 tags: [  ]

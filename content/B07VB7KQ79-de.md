@@ -5,7 +5,7 @@ date: 2020-01-24 17:45:13
 image: 'https://m.media-amazon.com/images/I/41SaVY2mpeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VB7KQ79-de GODNECE Batteriebetrieben LED Licht-Set für Baustein...'
 sku: 'B07VB7KQ79-de'
 tags: [  ]

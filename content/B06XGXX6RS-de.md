@@ -5,7 +5,7 @@ date: 2020-01-05 22:48:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41tHz61ytPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XGXX6RS-de Funko 14375 Actionfigur Kingsman: Gazelle Mehrfarbig Standard'
 sku: 'B06XGXX6RS-de'
 tags: [  ]

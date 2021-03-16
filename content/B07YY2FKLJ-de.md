@@ -5,7 +5,7 @@ date: 2020-02-04 14:19:26
 image: 'https://m.media-amazon.com/images/I/51mm8IuSjgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YY2FKLJ-de CNC 3018 Pro Fräsmaschine mit 5.5W Lasermodul...'
 sku: 'B07YY2FKLJ-de'
 tags: [  ]

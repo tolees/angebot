@@ -5,7 +5,7 @@ date: 2020-01-26 15:24:42
 image: 'https://m.media-amazon.com/images/I/31x3upIg5GL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073QN71HB-de Notebook ES1-732 - 500GB SSD - 8GB RAM - Windows 10 PRO -...'
 sku: 'B073QN71HB-de'
 tags: [  ]

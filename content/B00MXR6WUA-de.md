@@ -5,7 +5,7 @@ date: 2020-02-25 16:31:06
 image: 'https://m.media-amazon.com/images/I/41WSG+Zfu3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MXR6WUA-de Cellular Line TEMPGLASSIPH647 Displayschutzglas für Apple...'
 sku: 'B00MXR6WUA-de'
 tags: [  ]

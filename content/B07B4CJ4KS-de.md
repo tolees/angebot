@@ -5,7 +5,7 @@ date: 2020-07-02 11:11:55
 image: 'https://m.media-amazon.com/images/I/41H0YUuJ0iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4CJ4KS-de Transcend TS1TSJ25M3S 1TB stabile tragbare externe USB3.1...'
 sku: 'B07B4CJ4KS-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-16 04:54:21
 image: 'https://m.media-amazon.com/images/I/41aozo0Y3QL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005Q89JEY-de Senseo Pads Extra Strong 80 Kaffeepads 5er Pack 5 x 16...'
 sku: 'B005Q89JEY-de'
 tags: [  ]

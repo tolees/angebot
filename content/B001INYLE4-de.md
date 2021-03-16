@@ -5,7 +5,7 @@ date: 2020-02-05 12:42:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31jcO-D4BPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001INYLE4-de Panasonic RPHV154EK In-Ear-Kopfhörer 1 2 m Kabellänge 3 5...'
 sku: 'B001INYLE4-de'
 tags: [  ]

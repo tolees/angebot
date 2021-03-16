@@ -5,7 +5,7 @@ date: 2020-09-29 08:43:12
 image: 'https://m.media-amazon.com/images/I/41rchBmO9fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQWKZRJ-de adidas Herren Terrex EASTRAIL Walkingschuhe Schwarz...'
 sku: 'B07JQWKZRJ-de'
 tags: [  ]

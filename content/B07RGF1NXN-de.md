@@ -5,7 +5,7 @@ date: 2020-07-17 17:58:06
 image: 'https://m.media-amazon.com/images/I/41lnZlqzpwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RGF1NXN-de Hängekorb Metall Hängekorb Regal Regal Ablagekorb...'
 sku: 'B07RGF1NXN-de'
 tags: [  ]

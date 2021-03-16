@@ -5,7 +5,7 @@ date: 2020-04-08 05:33:27
 image: 'https://m.media-amazon.com/images/I/51D9Scu1CPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSJZ2FD-de BRIKSMAX Led Beleuchtungsset für Lego Technic Rallyeauto...'
 sku: 'B07TSJZ2FD-de'
 tags: [  ]

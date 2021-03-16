@@ -5,7 +5,7 @@ date: 2020-02-05 03:36:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/516f4VuVKFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BPF7KO2-de Playmobil 6880 - Sternchenbahn mit Schienenkreis'
 sku: 'B01BPF7KO2-de'
 tags: [  ]

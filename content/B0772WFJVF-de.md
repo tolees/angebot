@@ -5,7 +5,7 @@ date: 2020-01-08 22:47:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fp2srutuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0772WFJVF-de Funko 22058 S1 POP Vinylfigur: Ready Player One: i-R0k Multi'
 sku: 'B0772WFJVF-de'
 tags: [  ]

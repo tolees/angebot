@@ -5,7 +5,7 @@ date: 2020-03-18 14:38:17
 image: 'https://m.media-amazon.com/images/I/41FZbrL1TZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FT2BZ4S-de Levi s Emerson Herren Kurzschaft Stiefel Schwarz Black 59...'
 sku: 'B01FT2BZ4S-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-23 08:19:35
 image: 'https://m.media-amazon.com/images/I/51gxZl-GEtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNWJ12V-de LEGO Star Wars 75241 - Action Battle Bauset'
 sku: 'B07FNWJ12V-de'
 tags: [  ]

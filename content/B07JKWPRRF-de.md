@@ -5,7 +5,7 @@ date: 2020-04-07 13:21:31
 image: 'https://m.media-amazon.com/images/I/51RhFCDA6yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKWPRRF-de Playmobil 70025 Figures Boys Serie 15 bunt'
 sku: 'B07JKWPRRF-de'
 tags: [  ]

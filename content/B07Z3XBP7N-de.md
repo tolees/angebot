@@ -5,7 +5,7 @@ date: 2020-02-28 04:03:43
 image: 'https://m.media-amazon.com/images/I/413WykuzvFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z3XBP7N-de ESOLOM Bluetooth Adapter Audio 5.0 Bluetooth Transmitter...'
 sku: 'B07Z3XBP7N-de'
 tags: [  ]

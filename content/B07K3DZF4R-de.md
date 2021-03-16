@@ -5,7 +5,7 @@ date: 2020-01-01 10:20:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41jkDeqdjcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K3DZF4R-de BOSS Herren Paddy Pro Poloshirt Blau Medium Blue 422...'
 sku: 'B07K3DZF4R-de'
 tags: [  ]

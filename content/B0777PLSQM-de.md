@@ -5,7 +5,7 @@ date: 2020-02-09 07:37:23
 image: 'https://m.media-amazon.com/images/I/41N93w51GUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0777PLSQM-de Pop Royal Family Princess Diana Vinyl Figure'
 sku: 'B0777PLSQM-de'
 tags: [  ]

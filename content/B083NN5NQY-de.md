@@ -5,7 +5,7 @@ date: 2020-03-26 13:12:07
 image: 'https://m.media-amazon.com/images/I/51qrU50nw4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083NN5NQY-de DXX Technik Bausteine Auto Jeep Wrangler Adventurer...'
 sku: 'B083NN5NQY-de'
 tags: [  ]

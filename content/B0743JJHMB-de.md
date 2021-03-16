@@ -5,7 +5,7 @@ date: 2020-03-11 04:55:21
 image: 'https://m.media-amazon.com/images/I/31pIMjlKw8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0743JJHMB-de Samsung Alcantara Hülle EF-XN950 für Galaxy Note8 schwarz'
 sku: 'B0743JJHMB-de'
 tags: [  ]

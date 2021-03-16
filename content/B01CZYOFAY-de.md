@@ -5,7 +5,7 @@ date: 2020-04-16 19:25:51
 image: 'https://m.media-amazon.com/images/I/51inCfO2HdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CZYOFAY-de Hasbro Nerf B8086EU4 - N-Strike Elite Mega Mastodon...'
 sku: 'B01CZYOFAY-de'
 tags: [  ]

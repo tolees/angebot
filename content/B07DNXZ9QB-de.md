@@ -5,7 +5,7 @@ date: 2020-02-23 17:11:44
 image: 'https://m.media-amazon.com/images/I/31Ny9mp8YUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNXZ9QB-de Dyson V7 Cord Free Beutel- und kabelloser Handstaubsauger...'
 sku: 'B07DNXZ9QB-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-11 15:29:00
 image: 'https://m.media-amazon.com/images/I/41kFFA3FmyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017IZGIR8-de Siemens EX845LYC1E iQ700 Kochfeld Elektro /...'
 sku: 'B017IZGIR8-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-20 04:41:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4115I-lYrjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CZ0P0PS-de Verbatim MediaShare Wireless tragbares Streaming-Gerät mit...'
 sku: 'B00CZ0P0PS-de'
 tags: [  ]

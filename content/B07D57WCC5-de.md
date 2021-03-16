@@ -5,7 +5,7 @@ date: 2020-03-19 05:15:36
 image: 'https://m.media-amazon.com/images/I/51YUsVb7xfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D57WCC5-de Wreckfest [Xbox One]'
 sku: 'B07D57WCC5-de'
 tags: [  ]

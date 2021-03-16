@@ -5,7 +5,7 @@ date: 2020-08-27 03:58:11
 image: 'https://m.media-amazon.com/images/I/51dhRqfyxCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088NNRP92-de Elektrischer Rasierer Herren OriHea 6-in-1 Glatzenrasierer...'
 sku: 'B088NNRP92-de'
 tags: [  ]

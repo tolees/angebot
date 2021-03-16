@@ -5,7 +5,7 @@ date: 2020-09-26 09:03:10
 image: 'https://m.media-amazon.com/images/I/41C5J89JCIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KXP8T1S-de L&L Damen Bademantel mit Kapuze LL0025 Melange/Weiß Sterne M'
 sku: 'B01KXP8T1S-de'
 tags: [  ]

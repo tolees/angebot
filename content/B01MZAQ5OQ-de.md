@@ -5,7 +5,7 @@ date: 2020-02-24 09:05:30
 image: 'https://m.media-amazon.com/images/I/51VlgxaUBLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZAQ5OQ-de Citizen Herren Chronograph Quarz Uhr mit Leder Armband...'
 sku: 'B01MZAQ5OQ-de'
 tags: [  ]

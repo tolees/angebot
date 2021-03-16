@@ -5,7 +5,7 @@ date: 2020-09-21 15:28:10
 image: 'https://m.media-amazon.com/images/I/51c8Rqfv-LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJKC8HV-de Anna [Blu-ray]'
 sku: 'B07TJKC8HV-de'
 tags: [  ]

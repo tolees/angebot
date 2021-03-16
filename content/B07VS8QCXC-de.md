@@ -5,7 +5,7 @@ date: 2020-01-26 05:17:27
 image: 'https://m.media-amazon.com/images/I/314xfxt9mqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VS8QCXC-de Seagate Expansion Portable 5 TB externe tragbare...'
 sku: 'B07VS8QCXC-de'
 tags: [  ]

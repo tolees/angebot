@@ -5,7 +5,7 @@ date: 2020-03-15 04:43:24
 image: 'https://m.media-amazon.com/images/I/31uMrvQno-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0788LWJSX-de Predator Cestus 500 Gaming Maus Dual Omron Switches 70...'
 sku: 'B0788LWJSX-de'
 tags: [  ]

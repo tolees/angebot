@@ -5,7 +5,7 @@ date: 2020-04-13 23:50:27
 image: 'https://m.media-amazon.com/images/I/51aN+VVHifL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0090LFL0E-de Nintendo Wii U - Konsole Premium Pack 32 GB schwarz mit...'
 sku: 'B0090LFL0E-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-26 04:40:44
 image: 'https://m.media-amazon.com/images/I/31uTRS3qvnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KX6H8K6-de Gorenje R6192FX Kühlschrank / A++ / Höhe 185 cm / Kühlen:...'
 sku: 'B00KX6H8K6-de'
 tags: [  ]

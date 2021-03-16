@@ -5,7 +5,7 @@ date: 2020-06-06 13:12:34
 image: 'https://m.media-amazon.com/images/I/51SNbi1ywrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKWTGB3-de Multifunktionswerkzeug TECCPO 170W Drehwerkzeugsatz mit 80...'
 sku: 'B07DKWTGB3-de'
 tags: [  ]

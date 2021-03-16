@@ -5,7 +5,7 @@ date: 2020-04-11 06:59:41
 image: 'https://m.media-amazon.com/images/I/41bD1q-aa8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009TR6SF6-de Tablet Kissen - ideal passend zu Samsung Tab Apple iPad...'
 sku: 'B009TR6SF6-de'
 tags: [  ]

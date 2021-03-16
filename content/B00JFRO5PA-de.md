@@ -5,7 +5,7 @@ date: 2020-04-10 00:02:17
 image: 'https://m.media-amazon.com/images/I/21sc0T80tyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JFRO5PA-de Kitchen Craft Kanne 1 1 l Creme aus der Living-Nostalgia-...'
 sku: 'B00JFRO5PA-de'
 tags: [  ]

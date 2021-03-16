@@ -5,7 +5,7 @@ date: 2020-05-13 07:36:00
 image: 'https://m.media-amazon.com/images/I/41-AADxFqNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKNBLLX-de ZTE Smartphone Blade 10 16 cm 6 3 Zoll FHD+ Display 64 GB...'
 sku: 'B07VKNBLLX-de'
 tags: [  ]

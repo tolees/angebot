@@ -5,7 +5,7 @@ date: 2020-05-14 07:13:27
 image: 'https://m.media-amazon.com/images/I/31W7fcTumYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZMK7V7-de Vans Damen Filmore Decon Sneaker Pink Suede Lilac...'
 sku: 'B07MZMK7V7-de'
 tags: [  ]

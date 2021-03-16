@@ -5,7 +5,7 @@ date: 2020-04-05 05:10:37
 image: 'https://m.media-amazon.com/images/I/41kPe5RzD6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4JLS52-de GODNECE LED Licht-Set für Baustein Led Beleuchtungsset...'
 sku: 'B07V4JLS52-de'
 tags: [  ]

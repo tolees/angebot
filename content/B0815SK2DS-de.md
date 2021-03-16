@@ -5,7 +5,7 @@ date: 2020-03-09 17:52:10
 image: 'https://m.media-amazon.com/images/I/41WQkOb8qbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0815SK2DS-de HERCN Hülle Kompatibel mit Oppo K5/Realme X2/Realme XT...'
 sku: 'B0815SK2DS-de'
 tags: [  ]

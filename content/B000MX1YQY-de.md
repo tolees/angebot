@@ -5,7 +5,7 @@ date: 2020-09-17 10:12:17
 image: 'https://m.media-amazon.com/images/I/41Ghpbcw8kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000MX1YQY-de Casio Collection Unisex-Armbanduhr DB 36 1AVEF'
 sku: 'B000MX1YQY-de'
 tags: [  ]

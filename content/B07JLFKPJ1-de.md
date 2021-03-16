@@ -5,7 +5,7 @@ date: 2020-03-08 18:47:21
 image: 'https://m.media-amazon.com/images/I/51rw7PoQUjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLFKPJ1-de PLAYMOBIL Sand 70065 Sandeimerchen "Frühlingsblume" Ab 2...'
 sku: 'B07JLFKPJ1-de'
 tags: [  ]

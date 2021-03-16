@@ -5,7 +5,7 @@ date: 2020-04-07 21:45:26
 image: 'https://m.media-amazon.com/images/I/513NPDLh5UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LX4TJJJ-de Playmobil 9091 - RC-Rock n Roll-Racer'
 sku: 'B01LX4TJJJ-de'
 tags: [  ]

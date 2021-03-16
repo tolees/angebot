@@ -5,7 +5,7 @@ date: 2020-04-19 06:40:05
 image: 'https://m.media-amazon.com/images/I/41jT6mXxpoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L34I7NI-de Sony Xperia XZ Smartphone 13 2 cm 5 2 Zoll 32 GB Speicher...'
 sku: 'B01L34I7NI-de'
 tags: [  ]

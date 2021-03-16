@@ -5,7 +5,7 @@ date: 2020-04-18 00:18:19
 image: 'https://m.media-amazon.com/images/I/41S-PJpwMNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CQ5L3YH-de Swiffer - Staubmagnet Nachfüller mit Febrezeduft 1er Pack...'
 sku: 'B07CQ5L3YH-de'
 tags: [  ]

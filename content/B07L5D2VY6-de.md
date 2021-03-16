@@ -5,7 +5,7 @@ date: 2020-02-17 13:41:56
 image: 'https://m.media-amazon.com/images/I/51aoy5Hi-UL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L5D2VY6-de PNY Quadro RTX 4000 8 GB GDDR6'
 sku: 'B07L5D2VY6-de'
 tags: [  ]

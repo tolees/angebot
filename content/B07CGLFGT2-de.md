@@ -5,7 +5,7 @@ date: 2020-05-22 07:50:24
 image: 'https://m.media-amazon.com/images/I/51mFYTbwAqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CGLFGT2-de Thinkfun Geschicklichkeitsspiel 76356 - Laze Maze - Spiel...'
 sku: 'B07CGLFGT2-de'
 tags: [  ]

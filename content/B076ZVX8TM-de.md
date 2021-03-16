@@ -5,7 +5,7 @@ date: 2020-08-20 22:51:22
 image: 'https://m.media-amazon.com/images/I/41aLiVFliLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076ZVX8TM-de Nintendo Spielset Mushroom Castle Deluxe mit 6 5 cm...'
 sku: 'B076ZVX8TM-de'
 tags: [  ]

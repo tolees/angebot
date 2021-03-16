@@ -5,7 +5,7 @@ date: 2020-09-28 08:54:57
 image: 'https://m.media-amazon.com/images/I/61jem8JOxkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008A20GSG-de Amigo 01735 - Ringlding'
 sku: 'B008A20GSG-de'
 tags: [  ]

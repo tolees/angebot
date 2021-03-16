@@ -5,7 +5,7 @@ date: 2020-09-27 06:16:44
 image: 'https://m.media-amazon.com/images/I/41hsfDFY7sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015XQ6OQY-de ECCO Damen SOFT7W Sneakers Blau 1038marine 38 EU'
 sku: 'B015XQ6OQY-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-22 12:39:34
 image: 'https://m.media-amazon.com/images/I/41kNuSIRkIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AWGDDC8-de Brother ADS-3600W Dokumentenscanner mit LAN und WLAN schwarz'
 sku: 'B01AWGDDC8-de'
 tags: [  ]

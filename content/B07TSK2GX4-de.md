@@ -5,7 +5,7 @@ date: 2020-08-21 06:15:15
 image: 'https://m.media-amazon.com/images/I/31rgveRqUGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSK2GX4-de Yazubi Cargo Hose Männer Jayden - Schwarze Lange Cargohose...'
 sku: 'B07TSK2GX4-de'
 tags: [  ]

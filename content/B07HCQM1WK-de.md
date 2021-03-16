@@ -5,7 +5,7 @@ date: 2020-06-03 19:03:23
 image: 'https://m.media-amazon.com/images/I/312EWc-JEyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HCQM1WK-de BISSELL 2225N Crosswave Pet Pro 3-in-1 Bodenreiniger für...'
 sku: 'B07HCQM1WK-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-01 09:41:04
 image: 'https://m.media-amazon.com/images/I/31EQwRxaskL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HHY4ZHA-de Vileda Steam Dampfreiniger mit 2 zusätzliche Ersatzbezüge...'
 sku: 'B01HHY4ZHA-de'
 tags: [  ]

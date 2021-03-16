@@ -5,7 +5,7 @@ date: 2020-04-18 00:08:33
 image: 'https://m.media-amazon.com/images/I/51YfYJbZiSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075JCXS1K-de Unuber Badewanne Caddy & Laptop Bett Schreibtisch - 2 in 1...'
 sku: 'B075JCXS1K-de'
 tags: [  ]

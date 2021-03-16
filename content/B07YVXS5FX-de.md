@@ -5,7 +5,7 @@ date: 2020-03-05 22:52:38
 image: 'https://m.media-amazon.com/images/I/4107rlTIPyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YVXS5FX-de Beats Solo3 Wireless Kopfhörer - Satin Silber'
 sku: 'B07YVXS5FX-de'
 tags: [  ]

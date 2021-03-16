@@ -5,7 +5,7 @@ date: 2020-04-05 05:04:33
 image: 'https://m.media-amazon.com/images/I/51SUfbCQjPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HJ89PGH-de Pop Tokyo Ghoul Rize Vinyl Figure'
 sku: 'B07HJ89PGH-de'
 tags: [  ]

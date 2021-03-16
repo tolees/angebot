@@ -5,7 +5,7 @@ date: 2020-01-12 19:35:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31uUpLp950L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KHPD870-de Belkin Metallic Lightning-/USB iPhone Ladekabel geeignet...'
 sku: 'B00KHPD870-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-06 06:36:30
 image: 'https://m.media-amazon.com/images/I/41YUudbvNuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074DYDXSX-de WD My Cloud Home Duo 12 TB Persönlicher Cloudspeicher -...'
 sku: 'B074DYDXSX-de'
 tags: [  ]

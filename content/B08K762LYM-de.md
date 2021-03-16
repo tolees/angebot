@@ -5,7 +5,7 @@ date: 2020-10-10 12:49:31
 image: 'https://m.media-amazon.com/images/I/31hc1xp2iaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08K762LYM-de Aigital WLAN Repeater WLAN Verstärker Wireless Range...'
 sku: 'B08K762LYM-de'
 tags: [  ]

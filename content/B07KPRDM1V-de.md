@@ -5,7 +5,7 @@ date: 2020-01-03 11:54:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41m-hw%2BeZFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPRDM1V-de GANT Herren O1. The Panel Down Vest Outdoor Weste Blau...'
 sku: 'B07KPRDM1V-de'
 tags: [  ]

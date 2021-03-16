@@ -5,7 +5,7 @@ date: 2020-04-18 00:10:09
 image: 'https://m.media-amazon.com/images/I/510RKd64wtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076GYJB1M-de [Neue Version] SYCEES 29 in 1 Mini Schraubendreher Set...'
 sku: 'B076GYJB1M-de'
 tags: [  ]

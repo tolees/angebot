@@ -5,7 +5,7 @@ date: 2020-04-03 20:59:35
 image: 'https://m.media-amazon.com/images/I/51aXHm1nhPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C9GRXR6-de Osup 7 Stück Geheimstift mit UV-Licht Unsichtbar Schreiben...'
 sku: 'B07C9GRXR6-de'
 tags: [  ]

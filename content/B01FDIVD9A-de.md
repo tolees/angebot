@@ -5,7 +5,7 @@ date: 2020-06-12 00:42:15
 image: 'https://m.media-amazon.com/images/I/510VILjYrfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FDIVD9A-de Hasbro Gaming B2176398 - Dr. Bibber Kinderspiel'
 sku: 'B01FDIVD9A-de'
 tags: [  ]

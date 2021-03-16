@@ -5,7 +5,7 @@ date: 2020-09-24 19:55:46
 image: 'https://m.media-amazon.com/images/I/61hTgF4ZanL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BL0XQHG-de 5 Original Albums'
 sku: 'B01BL0XQHG-de'
 tags: [  ]

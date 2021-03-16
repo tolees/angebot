@@ -5,7 +5,7 @@ date: 2020-04-07 13:02:41
 image: 'https://m.media-amazon.com/images/I/51MPCQQIJFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0134TI0AU-de Unbekannt Creative Converting 16 Stück 3-lagig Lunch-...'
 sku: 'B0134TI0AU-de'
 tags: [  ]

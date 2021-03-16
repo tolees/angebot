@@ -5,7 +5,7 @@ date: 2020-03-25 08:22:35
 image: 'https://m.media-amazon.com/images/I/410M4Gtcp9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXG5SMD-de TaoTronics Garten Fackeln 2 Stück Solarleuchte Solar...'
 sku: 'B07KXG5SMD-de'
 tags: [  ]

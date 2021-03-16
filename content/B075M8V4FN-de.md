@@ -5,7 +5,7 @@ date: 2020-02-19 08:43:47
 image: 'https://m.media-amazon.com/images/I/41g6CvgAdZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075M8V4FN-de Replay Herren Anbass Slim Jeans Blau Mid Blue 9 W30/L32'
 sku: 'B075M8V4FN-de'
 tags: [  ]

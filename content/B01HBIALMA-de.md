@@ -5,7 +5,7 @@ date: 2020-04-10 07:14:08
 image: 'https://m.media-amazon.com/images/I/41Jemj8GGNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HBIALMA-de Souarts Ring Damen Schmuck Silber Gold Rosegold Farbe...'
 sku: 'B01HBIALMA-de'
 tags: [  ]

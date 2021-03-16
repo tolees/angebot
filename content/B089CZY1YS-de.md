@@ -5,7 +5,7 @@ date: 2020-07-16 04:35:26
 image: 'https://m.media-amazon.com/images/I/51R-dXm8-lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089CZY1YS-de LetsGO toyz Spielzeug Mädchen 4 5 6 7 8 9 10 11 12 13 14...'
 sku: 'B089CZY1YS-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-11 08:09:57
 image: 'https://m.media-amazon.com/images/I/41XYDCObzLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CKALQEQ-de Dickie Toys City Train Zug Spielzeugzug Bahn Türen und...'
 sku: 'B01CKALQEQ-de'
 tags: [  ]

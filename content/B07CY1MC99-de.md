@@ -5,7 +5,7 @@ date: 2020-08-30 06:05:34
 image: 'https://m.media-amazon.com/images/I/51ywEGJn1NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CY1MC99-de Mi Bluetooth Speaker PC-Lautsprecher'
 sku: 'B07CY1MC99-de'
 tags: [  ]

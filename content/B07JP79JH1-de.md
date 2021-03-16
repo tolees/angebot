@@ -5,7 +5,7 @@ date: 2020-03-16 13:55:29
 image: 'https://m.media-amazon.com/images/I/41I6z3jJCtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JP79JH1-de Holzmeißel Set Tacklife Stechbeitel Set für Holz...'
 sku: 'B07JP79JH1-de'
 tags: [  ]

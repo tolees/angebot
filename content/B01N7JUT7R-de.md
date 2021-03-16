@@ -5,7 +5,7 @@ date: 2020-08-10 18:31:18
 image: 'https://m.media-amazon.com/images/I/4182HSlNgxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7JUT7R-de Bref Power Kalk und Schmutz Reiniger 750 ml'
 sku: 'B01N7JUT7R-de'
 tags: [  ]

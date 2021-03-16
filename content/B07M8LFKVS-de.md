@@ -5,7 +5,7 @@ date: 2020-06-11 05:06:32
 image: 'https://m.media-amazon.com/images/I/5141JO1w7gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8LFKVS-de Multifunktionswerkzeug GOXAWEE Drehwerkzeug mit 140...'
 sku: 'B07M8LFKVS-de'
 tags: [  ]

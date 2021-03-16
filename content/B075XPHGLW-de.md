@@ -5,7 +5,7 @@ date: 2020-02-20 20:09:31
 image: 'https://m.media-amazon.com/images/I/611gAO+ZWKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075XPHGLW-de Think Gizmos Roboter Set für Kinder - Roboter zum...'
 sku: 'B075XPHGLW-de'
 tags: [  ]

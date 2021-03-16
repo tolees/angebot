@@ -5,7 +5,7 @@ date: 2020-02-20 11:57:38
 image: 'https://m.media-amazon.com/images/I/41jbqCg82fL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XGT3H9T-de Funko 14330 ESO Actionfigur The Elder Scrolls Online...'
 sku: 'B06XGT3H9T-de'
 tags: [  ]

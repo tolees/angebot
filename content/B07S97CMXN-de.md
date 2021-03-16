@@ -5,7 +5,7 @@ date: 2020-08-20 17:42:47
 image: 'https://m.media-amazon.com/images/I/41YZ5-FjdYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S97CMXN-de Ice-Watch - Ice Duo Chic Weiß marine - Damen wristwatch...'
 sku: 'B07S97CMXN-de'
 tags: [  ]

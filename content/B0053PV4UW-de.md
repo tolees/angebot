@@ -5,7 +5,7 @@ date: 2020-09-16 09:16:17
 image: 'https://m.media-amazon.com/images/I/41vpeRSZ8UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0053PV4UW-de Bosch Akku Laubbläser ALB 18 LI ohne Akku 18 V 1 8 kg 210...'
 sku: 'B0053PV4UW-de'
 tags: [  ]

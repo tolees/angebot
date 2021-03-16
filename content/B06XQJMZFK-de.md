@@ -5,7 +5,7 @@ date: 2020-04-07 13:30:31
 image: 'https://m.media-amazon.com/images/I/41hnw-mWfmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XQJMZFK-de Bosch Hochdruckreiniger UniversalAquatak 125 2 x Düse...'
 sku: 'B06XQJMZFK-de'
 tags: [  ]

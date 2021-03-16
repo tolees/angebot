@@ -5,7 +5,7 @@ date: 2020-09-28 02:26:05
 image: 'https://m.media-amazon.com/images/I/414EXSgJmxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTV1W4D-de Samsung CLT-P504C Multipack schwarz Cyan Magenta Gelb...'
 sku: 'B01MTV1W4D-de'
 tags: [  ]

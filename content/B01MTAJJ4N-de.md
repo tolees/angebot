@@ -5,7 +5,7 @@ date: 2020-02-26 18:58:44
 image: 'https://m.media-amazon.com/images/I/512wVwN3XUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTAJJ4N-de Metalldetektor INTEY Professionell Metallsuchgerät ALL...'
 sku: 'B01MTAJJ4N-de'
 tags: [  ]

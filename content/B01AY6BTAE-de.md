@@ -5,7 +5,7 @@ date: 2020-03-20 04:45:40
 image: 'https://m.media-amazon.com/images/I/3179sEEciQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AY6BTAE-de UGG Female Classic Mini II Classic Boot Black 4 UK'
 sku: 'B01AY6BTAE-de'
 tags: [  ]

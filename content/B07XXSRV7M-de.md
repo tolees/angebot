@@ -5,7 +5,7 @@ date: 2020-04-17 13:34:07
 image: 'https://m.media-amazon.com/images/I/41KShRYC1ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XXSRV7M-de 1080P FHD WLAN IP Kamera CACAGOO Überwachungskamera mit...'
 sku: 'B07XXSRV7M-de'
 tags: [  ]

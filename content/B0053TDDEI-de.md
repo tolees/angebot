@@ -5,7 +5,7 @@ date: 2020-09-18 15:10:15
 image: 'https://m.media-amazon.com/images/I/31rWJ3+MALL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0053TDDEI-de Rotho Paso Mülleimer 40l mit Pedal und Deckel Kunststoff...'
 sku: 'B0053TDDEI-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-28 11:19:29
 image: 'https://m.media-amazon.com/images/I/41xd6tvYhXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTSE2SA-de New Balance Herren ML373 Sneaker Grau Light Grey/ML373 42 EU'
 sku: 'B01MTSE2SA-de'
 tags: [  ]

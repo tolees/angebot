@@ -5,7 +5,7 @@ date: 2020-04-11 16:58:32
 image: 'https://m.media-amazon.com/images/I/41KOZFORPXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CJRIQU8-de Keter Gerätehaus Manor 6x8 DD Grau 7 6 m³'
 sku: 'B00CJRIQU8-de'
 tags: [  ]

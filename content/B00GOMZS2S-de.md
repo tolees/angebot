@@ -5,7 +5,7 @@ date: 2020-09-14 11:47:46
 image: 'https://m.media-amazon.com/images/I/41YX2GHrMYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GOMZS2S-de Grundig MS 6240 Herrenrasierer'
 sku: 'B00GOMZS2S-de'
 tags: [  ]

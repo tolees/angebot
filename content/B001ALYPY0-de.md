@@ -5,7 +5,7 @@ date: 2020-04-11 16:01:28
 image: 'https://m.media-amazon.com/images/I/31crgXhuuHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001ALYPY0-de Wedo 78722 Cutter Hobbymesser Set inklusive 6...'
 sku: 'B001ALYPY0-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 20:46:00
 image: 'https://m.media-amazon.com/images/I/31+UBoWDkjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0765Z1NWT-de JBL E65BTNC Over Ear Bluetooth Kopfhörer - Active Noise...'
 sku: 'B0765Z1NWT-de'
 tags: [  ]

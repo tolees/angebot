@@ -5,7 +5,7 @@ date: 2020-04-15 07:36:49
 image: 'https://m.media-amazon.com/images/I/413WC7fQRZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HQ1M5C2-de Funko FUN334463 POP Vinylfigur Specialist FunkoPop...'
 sku: 'B07HQ1M5C2-de'
 tags: [  ]

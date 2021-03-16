@@ -5,7 +5,7 @@ date: 2020-08-30 18:50:14
 image: 'https://m.media-amazon.com/images/I/31MARfgf0aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076Z3QFFY-de Dyson DYS-5028155 V 7 Motorhead Origin 100 W 21.6 V Grau...'
 sku: 'B076Z3QFFY-de'
 tags: [  ]

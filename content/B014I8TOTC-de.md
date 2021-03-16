@@ -5,7 +5,7 @@ date: 2020-01-13 07:38:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hv2Epz16L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014I8TOTC-de AmazonBasics HL-007318 Hochgeschwindigkeits-HDMI-Kabel...'
 sku: 'B014I8TOTC-de'
 tags: [  ]

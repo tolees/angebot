@@ -5,7 +5,7 @@ date: 2020-04-08 12:03:20
 image: 'https://m.media-amazon.com/images/I/31Q92V-eT4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXQZSMW-de Samsonite - Openroad Bailhandle 15 6" Erweiterbar Schwarz...'
 sku: 'B01LXQZSMW-de'
 tags: [  ]

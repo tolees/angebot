@@ -5,7 +5,7 @@ date: 2020-09-29 18:02:31
 image: 'https://m.media-amazon.com/images/I/41-7mJmG+cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WTDH699-de Seiko Herren Analog Automatik Uhr mit Silikon Armband...'
 sku: 'B07WTDH699-de'
 tags: [  ]

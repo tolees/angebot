@@ -5,7 +5,7 @@ date: 2020-09-21 15:04:29
 image: 'https://m.media-amazon.com/images/I/311aSnTqklL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000ZEHKNQ-de Rothenberger 70228 Standhahnmutternschlüssel 235mm'
 sku: 'B000ZEHKNQ-de'
 tags: [  ]

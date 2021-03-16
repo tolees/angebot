@@ -5,7 +5,7 @@ date: 2020-07-12 11:44:32
 image: 'https://m.media-amazon.com/images/I/41VgMlIsoZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001BPDRTE-de ABUS Zubehör Steel-O-Chain 880/85 Black 7 mm/85 cm 43306'
 sku: 'B001BPDRTE-de'
 tags: [  ]

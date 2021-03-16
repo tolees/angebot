@@ -5,7 +5,7 @@ date: 2020-09-16 13:21:02
 image: 'https://m.media-amazon.com/images/I/41qas3932QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073GJ9X2R-de ALTRAD-FORT FO37990 Universal-Schubkarre 90 L Boxer-90...'
 sku: 'B073GJ9X2R-de'
 tags: [  ]

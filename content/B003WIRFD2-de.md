@@ -5,7 +5,7 @@ date: 2020-02-22 19:53:26
 image: 'https://m.media-amazon.com/images/I/41iiJOZPFRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003WIRFD2-de Kingston SDC4/16GB Micro SDHC 16GB bis zu 4MB/s Klasse 4...'
 sku: 'B003WIRFD2-de'
 tags: [  ]

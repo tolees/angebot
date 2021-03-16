@@ -5,7 +5,7 @@ date: 2020-09-12 17:38:55
 image: 'https://m.media-amazon.com/images/I/31nd45LaE6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KSQQ5SM-de BaByliss ST330E Glätteisen 2in1 Straight & Curl Intense...'
 sku: 'B00KSQQ5SM-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-11 13:22:17
 image: 'https://m.media-amazon.com/images/I/41zze9FF2RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XL97CPD-de Apple iPhone 11 256 GB - Gelb'
 sku: 'B07XL97CPD-de'
 tags: [  ]

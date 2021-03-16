@@ -5,7 +5,7 @@ date: 2020-04-18 00:03:26
 image: 'https://m.media-amazon.com/images/I/41WVZ-fCxzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X9QKDDH-de Hasbro Hanazuki B9922EU4 - Light-Up Puppe Plüsch'
 sku: 'B06X9QKDDH-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-22 12:11:17
 image: 'https://m.media-amazon.com/images/I/51eCVmeIrML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000ELJ40W-de Playmobil 4132 SuperSet Spielplatz'
 sku: 'B000ELJ40W-de'
 tags: [  ]

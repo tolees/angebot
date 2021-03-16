@@ -5,7 +5,7 @@ date: 2020-03-22 13:48:52
 image: 'https://m.media-amazon.com/images/I/41vYbceAIWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W2Z9MQP-de Garmin vívoactive 4 – wasserdichte GPS-Fitness-Smartwatch...'
 sku: 'B07W2Z9MQP-de'
 tags: [  ]

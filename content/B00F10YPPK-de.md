@@ -5,7 +5,7 @@ date: 2020-04-16 17:32:47
 image: 'https://m.media-amazon.com/images/I/41l4evSO5vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F10YPPK-de Nerf Super Soaker A5832EU4- Scatter Blast Wasserpistole'
 sku: 'B00F10YPPK-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-19 00:31:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/311zYQnVHwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UBJ4L32-de Yamaha Digital Piano P-45B schwarz - Elektronisches...'
 sku: 'B00UBJ4L32-de'
 tags: [  ]

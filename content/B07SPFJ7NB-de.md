@@ -5,7 +5,7 @@ date: 2020-04-07 13:09:22
 image: 'https://m.media-amazon.com/images/I/51uIn7r9PrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SPFJ7NB-de Funko 44515 POP TV: Umbrella Academy-Ben Hargreeves...'
 sku: 'B07SPFJ7NB-de'
 tags: [  ]

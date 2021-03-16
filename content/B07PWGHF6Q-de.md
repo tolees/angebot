@@ -5,7 +5,7 @@ date: 2020-04-12 16:03:57
 image: 'https://m.media-amazon.com/images/I/419gRm3VX-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PWGHF6Q-de HP 14-dk0008ng 14 Zoll / FHD IPS Laptop AMD Ryzen 7 3700U...'
 sku: 'B07PWGHF6Q-de'
 tags: [  ]

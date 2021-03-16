@@ -5,7 +5,7 @@ date: 2020-08-24 03:03:35
 image: 'https://m.media-amazon.com/images/I/41HWRQcV0BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JNA337K-de Asus PCE-AC56 PCIe-Karte Wi-Fi 5 AC1300 Dual-Band PCIe 1x...'
 sku: 'B00JNA337K-de'
 tags: [  ]

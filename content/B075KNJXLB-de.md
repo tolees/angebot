@@ -5,7 +5,7 @@ date: 2020-09-13 06:23:34
 image: 'https://m.media-amazon.com/images/I/313mWicFhpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075KNJXLB-de hansgrohe Wasserhahn Novus wassersparende Armatur Auslauf...'
 sku: 'B075KNJXLB-de'
 tags: [  ]

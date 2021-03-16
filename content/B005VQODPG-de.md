@@ -5,7 +5,7 @@ date: 2020-09-17 10:08:47
 image: 'https://m.media-amazon.com/images/I/517vRsi2HtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005VQODPG-de Leuchtturm 313845 Banknotenalbum'
 sku: 'B005VQODPG-de'
 tags: [  ]

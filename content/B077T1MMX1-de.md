@@ -5,7 +5,7 @@ date: 2020-04-13 08:04:30
 image: 'https://m.media-amazon.com/images/I/518f40H6bpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077T1MMX1-de Navitech lila Harter Fall für die Transcend 16 GB DrivePro...'
 sku: 'B077T1MMX1-de'
 tags: [  ]

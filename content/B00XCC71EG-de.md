@@ -5,7 +5,7 @@ date: 2020-02-27 22:52:51
 image: 'https://m.media-amazon.com/images/I/51CHUgKFy2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XCC71EG-de Leibniz PiCK UP! Black´n White 24 x 28 g-knackige weiße...'
 sku: 'B00XCC71EG-de'
 tags: [  ]

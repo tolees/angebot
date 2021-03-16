@@ -5,7 +5,7 @@ date: 2020-04-11 08:12:02
 image: 'https://m.media-amazon.com/images/I/31o9lXZ+vTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001NYX7RU-de KS Tools 515.1119 1/2" Sechskant-Kraft-Stecknuss lang 19mm'
 sku: 'B001NYX7RU-de'
 tags: [  ]

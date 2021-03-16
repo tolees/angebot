@@ -5,7 +5,7 @@ date: 2020-02-04 07:01:48
 image: 'https://m.media-amazon.com/images/I/31iH3NgCA8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYNCLCF-de Merrell Herren Vapor Glove 4 Hallenschuhe Schwarz Black...'
 sku: 'B07DYNCLCF-de'
 tags: [  ]

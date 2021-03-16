@@ -5,7 +5,7 @@ date: 2020-01-21 04:50:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DZwZH12FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KLFACQ6-de WENKO Vacuum-Loc Eckregal Bari 2 Etagen Befestigen ohne...'
 sku: 'B00KLFACQ6-de'
 tags: [  ]

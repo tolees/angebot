@@ -5,7 +5,7 @@ date: 2020-08-25 23:14:24
 image: 'https://m.media-amazon.com/images/I/41351jnDgyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHPCXMX-de Schiesser Damen Mix & Relax Shirt 1/2 Arm...'
 sku: 'B07JHPCXMX-de'
 tags: [  ]

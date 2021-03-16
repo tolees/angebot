@@ -5,7 +5,7 @@ date: 2020-01-05 22:25:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41EJANjCEGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWXBF17-de Jakks 207474 - Disney Frozen II - Die Eiskönigin 2 Elsa...'
 sku: 'B07KWXBF17-de'
 tags: [  ]

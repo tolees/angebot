@@ -5,7 +5,7 @@ date: 2020-04-24 13:19:52
 image: 'https://m.media-amazon.com/images/I/41l2+NA2yaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003SANWI6-de Western Digital WD1003FBYX RE4 1TB interne Festplatte 8 9...'
 sku: 'B003SANWI6-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-19 06:46:45
 image: 'https://m.media-amazon.com/images/I/31Ay56-IsuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q9BXNLW-de Samsung Galaxy Tab A T515N 25 54 cm 10 1 Zoll Tablet-PC 1...'
 sku: 'B07Q9BXNLW-de'
 tags: [  ]

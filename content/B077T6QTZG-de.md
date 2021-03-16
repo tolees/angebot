@@ -5,7 +5,7 @@ date: 2020-07-22 12:48:02
 image: 'https://m.media-amazon.com/images/I/51kwiH+J5yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077T6QTZG-de Bosch Akku Kettensäge Universalchain 18 1 Akku 18 Volt...'
 sku: 'B077T6QTZG-de'
 tags: [  ]

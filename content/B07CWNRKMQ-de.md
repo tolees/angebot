@@ -5,7 +5,7 @@ date: 2020-04-14 16:19:02
 image: 'https://m.media-amazon.com/images/I/51OefsCb6CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CWNRKMQ-de Oriware Spülbecken Organizer für die Küche Caddy...'
 sku: 'B07CWNRKMQ-de'
 tags: [  ]

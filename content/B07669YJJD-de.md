@@ -5,7 +5,7 @@ date: 2020-04-15 07:54:44
 image: 'https://m.media-amazon.com/images/I/41HSWZ4HIQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07669YJJD-de PLAYMOBIL Dinos 9433 Propellerboot mit Dinokäfig...'
 sku: 'B07669YJJD-de'
 tags: [  ]

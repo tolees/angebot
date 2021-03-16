@@ -5,7 +5,7 @@ date: 2020-06-04 09:31:06
 image: 'https://m.media-amazon.com/images/I/41eIw8x2nYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085TBTT1H-de WiFi Smart E27 Led Lampe 9W 240v Aogled 60w Halogen...'
 sku: 'B085TBTT1H-de'
 tags: [  ]

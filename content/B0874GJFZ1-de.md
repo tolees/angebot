@@ -5,7 +5,7 @@ date: 2020-04-15 07:42:56
 image: 'https://m.media-amazon.com/images/I/41-vmgtjYjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0874GJFZ1-de Multifunctional vegetable cutter 11 sets of plastic...'
 sku: 'B0874GJFZ1-de'
 tags: [  ]

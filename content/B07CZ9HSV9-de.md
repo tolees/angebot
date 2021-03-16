@@ -5,7 +5,7 @@ date: 2020-03-23 11:49:22
 image: 'https://m.media-amazon.com/images/I/41w1WSTV7zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZ9HSV9-de Salomon Herren XA PRO 3D GTX Traillaufschuhe Schwarz...'
 sku: 'B07CZ9HSV9-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-03 04:55:23
 image: 'https://m.media-amazon.com/images/I/41R-AzH8AEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EWNSXOA-de Petex Auto-Kindersitzerhöhung Max 103 ECE-Gruppe 2-3...'
 sku: 'B01EWNSXOA-de'
 tags: [  ]

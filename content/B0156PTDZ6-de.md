@@ -5,7 +5,7 @@ date: 2020-03-21 11:51:46
 image: 'https://m.media-amazon.com/images/I/310hKYh98QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0156PTDZ6-de Reishunger Reiskocher 1 2l / 500W / 220V Warmhaltefunktion...'
 sku: 'B0156PTDZ6-de'
 tags: [  ]

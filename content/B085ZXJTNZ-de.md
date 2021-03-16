@@ -5,7 +5,7 @@ date: 2020-08-04 06:08:40
 image: 'https://m.media-amazon.com/images/I/41kH4Zc6ecL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085ZXJTNZ-de Gamory Controller für Nintendo Switch Bluetooth Wireless...'
 sku: 'B085ZXJTNZ-de'
 tags: [  ]

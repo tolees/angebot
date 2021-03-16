@@ -5,7 +5,7 @@ date: 2020-09-25 22:02:02
 image: 'https://m.media-amazon.com/images/I/51Cy2w3WzGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002QEXN2K-de Battle Studies'
 sku: 'B002QEXN2K-de'
 tags: [  ]

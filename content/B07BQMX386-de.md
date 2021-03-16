@@ -5,7 +5,7 @@ date: 2020-05-11 14:24:02
 image: 'https://m.media-amazon.com/images/I/51OJ01Wyv3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQMX386-de Goliath Toys 90515 Starter Set: Recoil Mehrfarbig'
 sku: 'B07BQMX386-de'
 tags: [  ]

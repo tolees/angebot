@@ -5,7 +5,7 @@ date: 2020-03-23 21:00:48
 image: 'https://m.media-amazon.com/images/I/41Mokzj5AcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005F1PL3U-de Funko 2386 - Pop! Star Wars - Boba Fett Spielfigur Vinyl 10cm'
 sku: 'B005F1PL3U-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-04 09:10:47
 image: 'https://m.media-amazon.com/images/I/41FhbkNDXgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016EYK1C2-de Creative Sound Blaster ROAR Pro - tragbarer Bluetooth-...'
 sku: 'B016EYK1C2-de'
 tags: [  ]

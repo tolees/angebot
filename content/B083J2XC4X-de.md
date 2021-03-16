@@ -5,7 +5,7 @@ date: 2020-02-05 03:18:46
 image: 'https://m.media-amazon.com/images/I/41eodup5NdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083J2XC4X-de H0_V Acryl Schaukasten Vitrine Vitrine Acryl Schaukasten...'
 sku: 'B083J2XC4X-de'
 tags: [  ]

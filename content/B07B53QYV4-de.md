@@ -5,7 +5,7 @@ date: 2020-08-19 12:05:16
 image: 'https://m.media-amazon.com/images/I/41afgNuvznL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B53QYV4-de G-STAR RAW Damen Lynn Mid Skinny Jeans Lt Aged 8968-424...'
 sku: 'B07B53QYV4-de'
 tags: [  ]

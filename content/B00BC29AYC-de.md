@@ -5,7 +5,7 @@ date: 2020-09-29 08:29:36
 image: 'https://m.media-amazon.com/images/I/31X9pCbQOHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BC29AYC-de Vibram FiveFingers 13M0101 EL-X Fitnessschuhe Herren...'
 sku: 'B00BC29AYC-de'
 tags: [  ]

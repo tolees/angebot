@@ -5,7 +5,7 @@ date: 2020-04-17 23:52:24
 image: 'https://m.media-amazon.com/images/I/51ff6xkXKNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019YJNT8C-de Hasbro Play-Doh B5520EU4 - Dr. Wackelzahn Knete für...'
 sku: 'B019YJNT8C-de'
 tags: [  ]

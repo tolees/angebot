@@ -5,7 +5,7 @@ date: 2020-05-14 08:17:48
 image: 'https://m.media-amazon.com/images/I/319zShstfXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R5NCDMY-de Razer Seiren X Mercury USB-Streaming-Mikrofon in Profi...'
 sku: 'B07R5NCDMY-de'
 tags: [  ]

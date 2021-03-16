@@ -5,7 +5,7 @@ date: 2020-08-13 12:19:49
 image: 'https://m.media-amazon.com/images/I/41a-CQYodrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VTW2LPX-de Western Digital WD My Passport externe Festplatte 4 TB...'
 sku: 'B07VTW2LPX-de'
 tags: [  ]

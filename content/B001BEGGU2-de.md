@@ -5,7 +5,7 @@ date: 2020-02-03 04:55:15
 image: 'https://m.media-amazon.com/images/I/41+Qf1ftRqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001BEGGU2-de Sebamed Trockene Haut Lotion Urea Akut 200ml'
 sku: 'B001BEGGU2-de'
 tags: [  ]

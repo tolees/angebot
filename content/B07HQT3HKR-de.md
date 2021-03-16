@@ -5,7 +5,7 @@ date: 2020-04-15 15:39:44
 image: 'https://m.media-amazon.com/images/I/41T+0unLUJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HQT3HKR-de Odys NoteTab Pro 25 7 cm 10 1 Zoll 1 3 Ghz QuadCore...'
 sku: 'B07HQT3HKR-de'
 tags: [  ]

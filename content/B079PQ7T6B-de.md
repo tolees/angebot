@@ -5,7 +5,7 @@ date: 2020-04-16 17:21:30
 image: 'https://m.media-amazon.com/images/I/41yp1zQdxqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079PQ7T6B-de Funko Pop Marvel: Avengers Infinity War - Thanos...'
 sku: 'B079PQ7T6B-de'
 tags: [  ]

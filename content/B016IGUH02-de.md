@@ -5,7 +5,7 @@ date: 2020-03-22 08:05:14
 image: 'https://m.media-amazon.com/images/I/41+ToYWGJmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016IGUH02-de Neff T18TT16N0 Elektrokochfeld N70 / 80cm / TwistPad /...'
 sku: 'B016IGUH02-de'
 tags: [  ]

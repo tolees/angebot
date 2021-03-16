@@ -5,7 +5,7 @@ date: 2020-05-29 06:08:03
 image: 'https://m.media-amazon.com/images/I/4185POe5fPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VYV36S6-de SAMSUNG Galaxy Note 10+ Smartphone Bundle 17.2cm 6.8 Zoll...'
 sku: 'B07VYV36S6-de'
 tags: [  ]

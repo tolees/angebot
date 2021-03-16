@@ -5,7 +5,7 @@ date: 2021-03-16 14:27:10
 image: 'https://m.media-amazon.com/images/I/51qR0u1r81L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B6WR6KD-de Ford Harrison; Stevens Dan; Sanders Christopher - Ruf der...'
 sku: 'B08B6WR6KD-de'
 tags: [ 'ford, harrison; stevens, dan; sanders, christopher', ]

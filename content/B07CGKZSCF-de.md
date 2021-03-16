@@ -5,7 +5,7 @@ date: 2020-03-03 04:53:30
 image: 'https://m.media-amazon.com/images/I/41dEUQ8nqxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CGKZSCF-de Hot Wheels GBN81 Track Builder Booster Pack Spielset...'
 sku: 'B07CGKZSCF-de'
 tags: [  ]

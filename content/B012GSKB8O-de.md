@@ -5,7 +5,7 @@ date: 2020-02-21 04:46:57
 image: 'https://m.media-amazon.com/images/I/31e4XZEO0XL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012GSKB8O-de Buff Erwachsene Mütze Merino Thermal Solid Black one size'
 sku: 'B012GSKB8O-de'
 tags: [  ]

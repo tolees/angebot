@@ -5,7 +5,7 @@ date: 2020-01-22 04:29:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41imsmPOM-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000X5SKJ0-de Giesswein Hausschuh Dannheim - Filzpantoffeln leichte...'
 sku: 'B000X5SKJ0-de'
 tags: [  ]

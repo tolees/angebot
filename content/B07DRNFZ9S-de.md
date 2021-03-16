@@ -5,7 +5,7 @@ date: 2020-05-24 11:16:57
 image: 'https://m.media-amazon.com/images/I/41kI0AL2ypL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DRNFZ9S-de Michael Kors Damen Voyager bag Schwarz Black 15x27x34 cm'
 sku: 'B07DRNFZ9S-de'
 tags: [  ]

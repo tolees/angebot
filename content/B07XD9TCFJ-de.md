@@ -5,7 +5,7 @@ date: 2020-01-15 15:08:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y1dYyKCpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XD9TCFJ-de Tarent Skibrille mit Ultragroßes rahmenloses Design und...'
 sku: 'B07XD9TCFJ-de'
 tags: [  ]

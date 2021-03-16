@@ -5,7 +5,7 @@ date: 2020-03-31 11:09:19
 image: 'https://m.media-amazon.com/images/I/41yTJb1WbYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H9MM81L-de Nebula Prizm II von Anker 3600 Lux 1080p Full HD Video...'
 sku: 'B07H9MM81L-de'
 tags: [  ]

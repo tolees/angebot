@@ -5,7 +5,7 @@ date: 2020-08-17 06:58:03
 image: 'https://m.media-amazon.com/images/I/41YfRGS-zNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWHJMG5-de Occulto 3 Paar Sportsocken/Laufsocken/Wandersocken für...'
 sku: 'B07TWHJMG5-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-11 21:38:25
 image: 'https://m.media-amazon.com/images/I/41V6wFpN6TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LWJMM1S-de Viewsonic XG2703-GS 68 6 cm 27 Zoll Gaming Monitor WQHD...'
 sku: 'B01LWJMM1S-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-23 11:57:36
 image: 'https://m.media-amazon.com/images/I/41yw6tO5xoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BHMJOU6-de Funko 7295 No Actionfigur Disney: Alice Through Looking...'
 sku: 'B01BHMJOU6-de'
 tags: [  ]

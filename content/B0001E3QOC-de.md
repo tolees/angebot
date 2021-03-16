@@ -5,7 +5,7 @@ date: 2020-03-13 05:04:38
 image: 'https://m.media-amazon.com/images/I/51XV75ifV+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0001E3QOC-de Gardena Raseneinfassung 20 cm hoch: Ideale Rasen-...'
 sku: 'B0001E3QOC-de'
 tags: [  ]

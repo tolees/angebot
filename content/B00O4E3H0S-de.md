@@ -5,7 +5,7 @@ date: 2020-03-24 13:10:57
 image: 'https://m.media-amazon.com/images/I/61hG5O2Pw+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O4E3H0S-de Playmobil 6150 - Star-Shooting'
 sku: 'B00O4E3H0S-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-26 06:59:34
 image: 'https://m.media-amazon.com/images/I/31URMzRkjxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LRX4W6G-de Dymo 1978243 MobileLabeler-Etikettendrucker mit...'
 sku: 'B01LRX4W6G-de'
 tags: [  ]

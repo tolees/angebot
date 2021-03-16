@@ -5,7 +5,7 @@ date: 2020-08-23 15:16:26
 image: 'https://m.media-amazon.com/images/I/31lCcpJLgCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LQQHBNU-de WD My Passport Mobile WDBYFT0040BWT-WESN 4TB Externe...'
 sku: 'B01LQQHBNU-de'
 tags: [  ]

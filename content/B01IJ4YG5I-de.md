@@ -5,7 +5,7 @@ date: 2020-02-05 04:46:23
 image: 'https://m.media-amazon.com/images/I/51m4mYtrXWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IJ4YG5I-de 183/und der Letzte Song'
 sku: 'B01IJ4YG5I-de'
 tags: [  ]

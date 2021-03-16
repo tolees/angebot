@@ -5,7 +5,7 @@ date: 2020-08-18 22:42:11
 image: 'https://m.media-amazon.com/images/I/31Tw0ff1u6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I49NDKI-de Badewannensitz - ausziehbar 150 kg Tragkraft Aluminium...'
 sku: 'B00I49NDKI-de'
 tags: [  ]

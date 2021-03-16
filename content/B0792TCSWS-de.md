@@ -5,7 +5,7 @@ date: 2020-02-21 10:02:30
 image: 'https://m.media-amazon.com/images/I/31kSdpS1vWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792TCSWS-de Geox Damen D Felicity D Knee High Boot Black 39 EU'
 sku: 'B0792TCSWS-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-04 15:56:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31njjm0iyEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074KJ72MP-de OSRAM Smart+ LED ZigBee Lampe mit E27 Sockel warmweiß...'
 sku: 'B074KJ72MP-de'
 tags: [  ]

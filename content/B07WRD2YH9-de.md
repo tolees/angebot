@@ -5,7 +5,7 @@ date: 2020-06-11 22:18:12
 image: 'https://m.media-amazon.com/images/I/4148-LA6OUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRD2YH9-de Acer Chromebook 314 Notebook 14 Zoll HD matt 19 7mm flach...'
 sku: 'B07WRD2YH9-de'
 tags: [  ]

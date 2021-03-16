@@ -5,7 +5,7 @@ date: 2020-07-18 18:06:12
 image: 'https://m.media-amazon.com/images/I/41lfgle7t+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZZNKGK8-de POP! Animation: Masters of The Universe - Sorceress'
 sku: 'B07ZZNKGK8-de'
 tags: [  ]

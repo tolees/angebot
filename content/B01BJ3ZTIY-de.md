@@ -5,7 +5,7 @@ date: 2020-10-11 08:06:51
 image: 'https://m.media-amazon.com/images/I/41KR+BARqNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BJ3ZTIY-de Bauerfeind Kniebandage „Knee Support“ für Männer 1...'
 sku: 'B01BJ3ZTIY-de'
 tags: [  ]

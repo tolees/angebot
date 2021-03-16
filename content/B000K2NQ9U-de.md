@@ -5,7 +5,7 @@ date: 2020-09-30 06:01:06
 image: 'https://m.media-amazon.com/images/I/51AZ2dqFIWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000K2NQ9U-de Mannesmann M10997 Zangensatz 4-teilig'
 sku: 'B000K2NQ9U-de'
 tags: [  ]

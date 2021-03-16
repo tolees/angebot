@@ -5,7 +5,7 @@ date: 2020-09-23 16:52:34
 image: 'https://m.media-amazon.com/images/I/51uK+w3gK8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N7QNX1Q-de Domestos Power 5 WC-Stein für ein sauberes WC Ocean mit...'
 sku: 'B07N7QNX1Q-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-04 05:46:55
 image: 'https://m.media-amazon.com/images/I/31Rvaqe4E6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872NSVDK-de Bluetooth Kopfhörer Cshidworld Kabellose Kopfhörer mit...'
 sku: 'B0872NSVDK-de'
 tags: [  ]

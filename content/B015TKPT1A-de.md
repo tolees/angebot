@@ -5,7 +5,7 @@ date: 2020-03-08 04:41:13
 image: 'https://m.media-amazon.com/images/I/41jeppReh-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015TKPT1A-de NOCO Boost Sport GB20 400 Ampere 12 Volt UltraSafe...'
 sku: 'B015TKPT1A-de'
 tags: [  ]

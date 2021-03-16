@@ -5,7 +5,7 @@ date: 2020-08-04 01:26:12
 image: 'https://m.media-amazon.com/images/I/41fyDthEdRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084XSVSR8-de LG Electronics 65UM7050PLA 164 cm 65 Zoll UHD Fernseher 4K...'
 sku: 'B084XSVSR8-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-11 19:52:58
 image: 'https://m.media-amazon.com/images/I/61VJKLpBEUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VNYDEGO-de Looping Louie Kinderspiel lustiges 3D Spiel Partyspiel für...'
 sku: 'B00VNYDEGO-de'
 tags: [  ]

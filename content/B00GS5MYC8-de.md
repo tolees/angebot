@@ -5,7 +5,7 @@ date: 2020-09-15 16:44:14
 image: 'https://m.media-amazon.com/images/I/41nPAf3lFXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GS5MYC8-de Bosch Rasenmäher ARM 34 Grasfangbox Karton 1300 W...'
 sku: 'B00GS5MYC8-de'
 tags: [  ]

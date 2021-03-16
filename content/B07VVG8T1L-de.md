@@ -5,7 +5,7 @@ date: 2020-03-09 09:37:36
 image: 'https://m.media-amazon.com/images/I/313EWF3q+-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VVG8T1L-de ATOMIC Unisex – Erwachsene Count 360 Goggles Rot/Pink-Gelb...'
 sku: 'B07VVG8T1L-de'
 tags: [  ]

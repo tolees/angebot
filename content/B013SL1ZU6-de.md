@@ -5,7 +5,7 @@ date: 2020-01-17 18:26:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Bsivk%2BHfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013SL1ZU6-de Logitech K380 Bluetooth-Tastatur für Windows Mac Chrome...'
 sku: 'B013SL1ZU6-de'
 tags: [  ]

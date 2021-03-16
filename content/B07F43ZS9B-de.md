@@ -5,7 +5,7 @@ date: 2020-02-09 13:16:10
 image: 'https://m.media-amazon.com/images/I/21Q65O3-fYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F43ZS9B-de SHARP HT-SBW420 GR 2.1 All-in-One Slim Soundbar mit...'
 sku: 'B07F43ZS9B-de'
 tags: [  ]

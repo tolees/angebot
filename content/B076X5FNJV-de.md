@@ -5,7 +5,7 @@ date: 2020-10-09 00:04:38
 image: 'https://m.media-amazon.com/images/I/41Ff+dPIDNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076X5FNJV-de Geox Herren U Shark A Mokassin Grau Stone 46 EU'
 sku: 'B076X5FNJV-de'
 tags: [  ]

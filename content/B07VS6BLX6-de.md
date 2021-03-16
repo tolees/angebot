@@ -5,7 +5,7 @@ date: 2020-09-08 12:44:40
 image: 'https://m.media-amazon.com/images/I/31nFBOMzRrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VS6BLX6-de Tommy Hilfiger Damen Aila Slim Polo Ss Poloshirt Blau...'
 sku: 'B07VS6BLX6-de'
 tags: [  ]

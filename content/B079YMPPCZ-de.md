@@ -5,7 +5,7 @@ date: 2020-04-16 17:21:31
 image: 'https://m.media-amazon.com/images/I/41wqgjVB00L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079YMPPCZ-de Funko 30633 Actionfigur Marvel Unmasked Spider-Man Multi...'
 sku: 'B079YMPPCZ-de'
 tags: [  ]

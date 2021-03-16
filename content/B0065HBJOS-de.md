@@ -5,7 +5,7 @@ date: 2020-02-20 04:40:34
 image: 'https://m.media-amazon.com/images/I/51UcAQGU56L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0065HBJOS-de walther design AJ330B Aluminium-Bilderrahmen Chair 30x30...'
 sku: 'B0065HBJOS-de'
 tags: [  ]

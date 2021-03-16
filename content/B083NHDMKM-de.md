@@ -5,7 +5,7 @@ date: 2020-07-21 11:55:52
 image: 'https://m.media-amazon.com/images/I/51+70bh0MNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083NHDMKM-de Bluetooth Kopfhörer In Ear Kopfhörer Kabellos mit 125...'
 sku: 'B083NHDMKM-de'
 tags: [  ]

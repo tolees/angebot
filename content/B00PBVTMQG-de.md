@@ -5,7 +5,7 @@ date: 2020-09-26 15:43:15
 image: 'https://m.media-amazon.com/images/I/41n9uyIhwuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PBVTMQG-de Eschenbach Optik OPTIK Fernglas klein weiß VIVA 6X15 NEW'
 sku: 'B00PBVTMQG-de'
 tags: [  ]

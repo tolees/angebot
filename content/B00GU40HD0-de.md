@@ -5,7 +5,7 @@ date: 2020-07-15 13:51:02
 image: 'https://m.media-amazon.com/images/I/517NJdujTlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GU40HD0-de Desperate Housewives - Die komplette Serie [49 DVDs]'
 sku: 'B00GU40HD0-de'
 tags: [  ]

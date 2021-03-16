@@ -5,7 +5,7 @@ date: 2020-04-14 23:56:33
 image: 'https://m.media-amazon.com/images/I/410WD7HJKPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074KGS5C3-de Logitech Craft Kabellose Tastatur Bluetooth & 2.4 GHz...'
 sku: 'B074KGS5C3-de'
 tags: [  ]

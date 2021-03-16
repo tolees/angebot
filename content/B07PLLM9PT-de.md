@@ -5,7 +5,7 @@ date: 2020-09-22 07:07:17
 image: 'https://m.media-amazon.com/images/I/514PZR+DTCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLLM9PT-de Samsung RU7179 163 cm 65 Zoll LED Fernseher Ultra HD HDR...'
 sku: 'B07PLLM9PT-de'
 tags: [  ]

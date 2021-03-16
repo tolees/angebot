@@ -5,7 +5,7 @@ date: 2020-07-21 09:17:13
 image: 'https://m.media-amazon.com/images/I/31O8WWlIfmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QL5CXNR-de Anker PowerPort+ Atom III Kompaktes 60W PIQ 3.0 & GaN Tech...'
 sku: 'B07QL5CXNR-de'
 tags: [  ]

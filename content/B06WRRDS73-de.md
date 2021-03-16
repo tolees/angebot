@@ -5,7 +5,7 @@ date: 2020-09-07 14:15:59
 image: 'https://m.media-amazon.com/images/I/51M7IL8DR9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WRRDS73-de Cooler Master MasterLiquid Lite 120-CPU-Wasserkühler -...'
 sku: 'B06WRRDS73-de'
 tags: [  ]

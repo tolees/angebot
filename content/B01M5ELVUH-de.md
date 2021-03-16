@@ -5,7 +5,7 @@ date: 2020-10-03 11:04:55
 image: 'https://m.media-amazon.com/images/I/51dcleWwJjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M5ELVUH-de Jane Austen s Love & Friendship'
 sku: 'B01M5ELVUH-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-05 09:57:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41bPPbZrkGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XJ5NLY2-de Crucial Ballistix Sport LT BLS4K8G4D26BFSCK Desktop Gaming...'
 sku: 'B06XJ5NLY2-de'
 tags: [  ]

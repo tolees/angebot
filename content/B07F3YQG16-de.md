@@ -5,7 +5,7 @@ date: 2020-04-13 16:24:41
 image: 'https://m.media-amazon.com/images/I/51s9+wL1G9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F3YQG16-de TOYMYTOY Armee Figuren Soldaten Modell Set für Kinder...'
 sku: 'B07F3YQG16-de'
 tags: [  ]

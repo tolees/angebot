@@ -5,7 +5,7 @@ date: 2020-03-01 04:52:57
 image: 'https://m.media-amazon.com/images/I/51ET5dAXiJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZFHDC7-de Schmidt Spiele 49365 Noch mal so gut Würfelspiel aus der...'
 sku: 'B07WZFHDC7-de'
 tags: [  ]

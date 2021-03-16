@@ -5,7 +5,7 @@ date: 2020-04-09 15:52:10
 image: 'https://m.media-amazon.com/images/I/51h-PZgN33L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DK5HW4T-de ✮ Barber Tools ✮ Rasiermesser mit austauschbarer Klingen....'
 sku: 'B07DK5HW4T-de'
 tags: [  ]

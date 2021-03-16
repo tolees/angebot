@@ -5,7 +5,7 @@ date: 2020-09-25 11:22:06
 image: 'https://m.media-amazon.com/images/I/21v5ZwuY7hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004LZSP6Q-de Brilliant Spari Deckenfluter mit separat schaltbarem...'
 sku: 'B004LZSP6Q-de'
 tags: [  ]

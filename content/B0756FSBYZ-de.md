@@ -5,7 +5,7 @@ date: 2020-04-26 10:47:32
 image: 'https://m.media-amazon.com/images/I/41FmL5-6lmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0756FSBYZ-de Ecovacs Robotics Deebot Ozmo 610 Saug- und Wischroboter...'
 sku: 'B0756FSBYZ-de'
 tags: [  ]

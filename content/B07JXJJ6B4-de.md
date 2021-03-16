@@ -5,7 +5,7 @@ date: 2020-06-06 19:50:26
 image: 'https://m.media-amazon.com/images/I/51hbKZ47-hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JXJJ6B4-de PLAYMOBIL City Life 70050 Notarzt-PKW mit Licht und Sound...'
 sku: 'B07JXJJ6B4-de'
 tags: [  ]

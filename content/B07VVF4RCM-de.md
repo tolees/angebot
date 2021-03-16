@@ -5,7 +5,7 @@ date: 2020-03-15 04:43:59
 image: 'https://m.media-amazon.com/images/I/41yDz12AwCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VVF4RCM-de Control Deluxe Edition - Future Pack - [PlayStation 4]'
 sku: 'B07VVF4RCM-de'
 tags: [  ]

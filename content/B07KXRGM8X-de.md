@@ -5,7 +5,7 @@ date: 2020-04-18 00:28:40
 image: 'https://m.media-amazon.com/images/I/41Ua8m10WjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXRGM8X-de SanDisk microSDXC UHS-I card for Nintendo Switch 64GB -...'
 sku: 'B07KXRGM8X-de'
 tags: [  ]

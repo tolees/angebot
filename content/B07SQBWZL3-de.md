@@ -5,7 +5,7 @@ date: 2020-01-30 04:50:10
 image: 'https://m.media-amazon.com/images/I/51LEpJRjNsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQBWZL3-de The Dead Don t Die [Blu-ray]'
 sku: 'B07SQBWZL3-de'
 tags: [  ]

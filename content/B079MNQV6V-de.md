@@ -5,7 +5,7 @@ date: 2020-04-16 17:44:48
 image: 'https://m.media-amazon.com/images/I/41v9KtanoTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MNQV6V-de Playmobil 9457 Hausmeister mit Kiosk'
 sku: 'B079MNQV6V-de'
 tags: [  ]

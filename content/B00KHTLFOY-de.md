@@ -5,7 +5,7 @@ date: 2020-03-05 04:44:01
 image: 'https://m.media-amazon.com/images/I/415GCAJi24L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KHTLFOY-de Schiesser Damen Slip Tai 3er Pack Gr. 40 Schwarz schwarz 000'
 sku: 'B00KHTLFOY-de'
 tags: [  ]

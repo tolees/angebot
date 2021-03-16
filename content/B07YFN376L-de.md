@@ -5,7 +5,7 @@ date: 2020-08-17 10:26:26
 image: 'https://m.media-amazon.com/images/I/41T8CYD1gWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFN376L-de Zendure SuperMini Powerbank mit 10.000 mAh robust klein...'
 sku: 'B07YFN376L-de'
 tags: [  ]

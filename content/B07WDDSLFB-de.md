@@ -5,7 +5,7 @@ date: 2020-04-02 07:20:57
 image: 'https://m.media-amazon.com/images/I/21-2Na9TkvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WDDSLFB-de Wir stellen vor: Amazon eero Pro WLAN-Mesh-Router/Extender'
 sku: 'B07WDDSLFB-de'
 tags: [  ]

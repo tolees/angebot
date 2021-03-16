@@ -5,7 +5,7 @@ date: 2020-04-08 05:29:42
 image: 'https://m.media-amazon.com/images/I/41UYfQp1jBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZPGNBR-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Kylo Ren s...'
 sku: 'B07TZPGNBR-de'
 tags: [  ]

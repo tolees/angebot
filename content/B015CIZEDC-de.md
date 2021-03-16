@@ -5,7 +5,7 @@ date: 2020-01-26 12:56:53
 image: 'https://m.media-amazon.com/images/I/21Jel7AEjNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015CIZEDC-de Intenso Powerbank S10000 Slim externes Ladegerät 10000mAh...'
 sku: 'B015CIZEDC-de'
 tags: [  ]

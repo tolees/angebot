@@ -5,7 +5,7 @@ date: 2020-09-17 09:20:17
 image: 'https://m.media-amazon.com/images/I/41WGpdxTp7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H9GDFRW-de Sony SF-G128T SD-Speicherkarte 128 GB UHS-II SD Tough G Serie'
 sku: 'B07H9GDFRW-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-13 19:05:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41tuKrx5z0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXVB5NX-de Timezone Herren Slim ScottTZ Shorts Blau Used Bright Blue...'
 sku: 'B07GXVB5NX-de'
 tags: [  ]

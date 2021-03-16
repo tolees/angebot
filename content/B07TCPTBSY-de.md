@@ -5,7 +5,7 @@ date: 2020-01-03 06:17:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51XOLcezqRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TCPTBSY-de Fisher-Price GLM38 - Little People Frozen Elsas Eispalast...'
 sku: 'B07TCPTBSY-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-04 21:13:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4126gRJW8GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAPUJ8F-de Lacoste Herren-Armbanduhr - 2010901'
 sku: 'B01NAPUJ8F-de'
 tags: [  ]

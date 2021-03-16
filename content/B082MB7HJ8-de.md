@@ -5,7 +5,7 @@ date: 2020-02-21 19:58:19
 image: 'https://m.media-amazon.com/images/I/41nqqpIvxtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MB7HJ8-de Oacvien Bluetooth Adapter 5.0 Transmitter Empfänger 2 in 1...'
 sku: 'B082MB7HJ8-de'
 tags: [  ]

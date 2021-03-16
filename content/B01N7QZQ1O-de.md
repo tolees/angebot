@@ -5,7 +5,7 @@ date: 2020-03-08 12:42:47
 image: 'https://m.media-amazon.com/images/I/31tFkZ-3MRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7QZQ1O-de Dell Business Thunderbolt Dock TB16 mit 240-W-Adapter'
 sku: 'B01N7QZQ1O-de'
 tags: [  ]

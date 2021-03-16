@@ -5,7 +5,7 @@ date: 2020-02-15 09:24:43
 image: 'https://m.media-amazon.com/images/I/419bDC-RsaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H33FX6C-de Acer Switch 3 SW312-31-P8VE 31 cm 12 2 Zoll Full-HD...'
 sku: 'B07H33FX6C-de'
 tags: [  ]

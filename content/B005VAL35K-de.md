@@ -5,7 +5,7 @@ date: 2020-09-24 07:53:40
 image: 'https://m.media-amazon.com/images/I/51gyP0KUsdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005VAL35K-de Pawhut Welpenauslauf Welpenfreigehege Freigehege Laufstall...'
 sku: 'B005VAL35K-de'
 tags: [  ]

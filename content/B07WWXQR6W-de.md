@@ -5,7 +5,7 @@ date: 2020-04-15 00:10:53
 image: 'https://m.media-amazon.com/images/I/51PE8CQ90GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WWXQR6W-de Frechdax® Memo Spiel Tiere Gedächtnisspiel Spielkarten...'
 sku: 'B07WWXQR6W-de'
 tags: [  ]

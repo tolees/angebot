@@ -5,7 +5,7 @@ date: 2020-09-09 12:44:22
 image: 'https://m.media-amazon.com/images/I/31umO4dL4rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OHW69LQ-de OMEN K5Q03AA Gaming Rucksack für Notebooks 43 94 cm 17 3...'
 sku: 'B00OHW69LQ-de'
 tags: [  ]

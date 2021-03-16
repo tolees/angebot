@@ -5,7 +5,7 @@ date: 2020-09-07 19:56:32
 image: 'https://m.media-amazon.com/images/I/51uvHdR-dSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IRBFF6I-de THERMOS Kühltasche Classic medium 15 Liter - Isolierte...'
 sku: 'B00IRBFF6I-de'
 tags: [  ]

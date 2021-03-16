@@ -5,7 +5,7 @@ date: 2020-06-30 14:22:49
 image: 'https://m.media-amazon.com/images/I/31cqpM20WLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BIGSSHQ-de Western Digital 4 TB My Cloud EX2 Ultra-Netzwerkspeicher'
 sku: 'B01BIGSSHQ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-11 16:29:47
 image: 'https://m.media-amazon.com/images/I/51Wni9mLDTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LCBRFF6-de PROACC wasserdichte Kamera für Kinder bis 3 Meter...'
 sku: 'B07LCBRFF6-de'
 tags: [  ]

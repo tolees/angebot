@@ -5,7 +5,7 @@ date: 2020-04-17 23:31:00
 image: 'https://m.media-amazon.com/images/I/5112rV438YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000I1TDA4-de Hasbro Gaming 04199100 - Tabu XXL Partyspiel'
 sku: 'B000I1TDA4-de'
 tags: [  ]

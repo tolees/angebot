@@ -5,7 +5,7 @@ date: 2020-04-16 08:06:31
 image: 'https://m.media-amazon.com/images/I/31UGXuJhHIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DMVK4DQ-de Hilitand hivetool flach Extralanges 390 mm für...'
 sku: 'B07DMVK4DQ-de'
 tags: [  ]

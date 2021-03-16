@@ -5,7 +5,7 @@ date: 2020-02-23 05:05:16
 image: 'https://m.media-amazon.com/images/I/41gDETmwilL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EJAJY3K-de Märklin Start up 29641 - Startpackung "Moderner...'
 sku: 'B01EJAJY3K-de'
 tags: [  ]

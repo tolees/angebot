@@ -5,7 +5,7 @@ date: 2020-08-17 22:35:04
 image: 'https://m.media-amazon.com/images/I/51liveSlMJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086C3GF8W-de LUKAT Bausteine Spielzeug für 5 6 7 8 9+ Jahre...'
 sku: 'B086C3GF8W-de'
 tags: [  ]

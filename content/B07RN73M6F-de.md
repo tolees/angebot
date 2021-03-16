@@ -5,7 +5,7 @@ date: 2020-04-18 00:39:17
 image: 'https://m.media-amazon.com/images/I/514kDMSl9fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RN73M6F-de Oral-B Kids Star Wars Elektrische Zahnbürste mit Disney-...'
 sku: 'B07RN73M6F-de'
 tags: [  ]

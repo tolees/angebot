@@ -5,7 +5,7 @@ date: 2020-08-18 16:33:54
 image: 'https://m.media-amazon.com/images/I/51z09Ju-IyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4Z2CS1-de LED Schrankbeleuchtung mit Bewegungsmelder - 30er LED...'
 sku: 'B07W4Z2CS1-de'
 tags: [  ]

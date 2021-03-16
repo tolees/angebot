@@ -5,7 +5,7 @@ date: 2020-03-14 04:57:00
 image: 'https://m.media-amazon.com/images/I/41nZy3xDYKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00S1KLFTG-de WOLF-Garten Unkrautvernichter plus Rasendünger SQ 250...'
 sku: 'B00S1KLFTG-de'
 tags: [  ]

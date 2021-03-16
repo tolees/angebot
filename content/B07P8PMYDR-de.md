@@ -5,7 +5,7 @@ date: 2020-08-27 23:57:58
 image: 'https://m.media-amazon.com/images/I/51ij6ti2JDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P8PMYDR-de PLAYMOBIL City Life 70199 Abschleppdienst Ab 4 Jahren'
 sku: 'B07P8PMYDR-de'
 tags: [  ]

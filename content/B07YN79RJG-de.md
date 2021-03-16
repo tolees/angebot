@@ -5,7 +5,7 @@ date: 2020-04-28 18:10:49
 image: 'https://m.media-amazon.com/images/I/51ZRkSQ05LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YN79RJG-de AOC Gaming 24G2U5/BK 60 cm 23 8 Zoll Monitor FHD HDMI...'
 sku: 'B07YN79RJG-de'
 tags: [  ]

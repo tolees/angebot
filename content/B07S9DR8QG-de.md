@@ -5,7 +5,7 @@ date: 2020-02-25 18:49:35
 image: 'https://m.media-amazon.com/images/I/31k8NSk-7tL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9DR8QG-de Logitech G703 LIGHTSPEED kabellose Gaming-Maus mit HERO...'
 sku: 'B07S9DR8QG-de'
 tags: [  ]

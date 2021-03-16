@@ -5,7 +5,7 @@ date: 2020-09-29 10:34:06
 image: 'https://m.media-amazon.com/images/I/31stnDGSP0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GHESNZ2-de WOLF-Garten - Elektro-Heckenschere HS 60 E; 41AF0EE5650'
 sku: 'B00GHESNZ2-de'
 tags: [  ]

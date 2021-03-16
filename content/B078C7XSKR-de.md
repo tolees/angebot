@@ -5,7 +5,7 @@ date: 2020-04-13 23:58:21
 image: 'https://m.media-amazon.com/images/I/51wPdBS+50L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078C7XSKR-de Navitech Blauer Harter Fall für die APEMAN Mini Car Camera...'
 sku: 'B078C7XSKR-de'
 tags: [  ]

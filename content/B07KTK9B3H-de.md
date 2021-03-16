@@ -5,7 +5,7 @@ date: 2020-08-25 20:13:58
 image: 'https://m.media-amazon.com/images/I/51+q4OHx0oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTK9B3H-de LEGO DC Batman 76137 - Batman vs. der Raub des Riddler Bauset'
 sku: 'B07KTK9B3H-de'
 tags: [  ]

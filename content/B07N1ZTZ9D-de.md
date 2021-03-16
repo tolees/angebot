@@ -5,7 +5,7 @@ date: 2020-04-07 13:14:25
 image: 'https://m.media-amazon.com/images/I/51U4xX2hq5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1ZTZ9D-de Noris 606071825 Tiere&Natur Spaß am Lernen Tiere und Natur...'
 sku: 'B07N1ZTZ9D-de'
 tags: [  ]

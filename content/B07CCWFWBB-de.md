@@ -5,7 +5,7 @@ date: 2020-01-20 04:41:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31LT3eCvU%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CCWFWBB-de OSRAM SMART+ LED Filament Globe Bluetooth Lampe mit E27...'
 sku: 'B07CCWFWBB-de'
 tags: [  ]

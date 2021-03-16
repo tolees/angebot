@@ -5,7 +5,7 @@ date: 2020-04-15 07:36:42
 image: 'https://m.media-amazon.com/images/I/41Ytkr01OBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPTBSP2-de Funko 36673 POP Bobble: Avengers Endgame: War Machine...'
 sku: 'B07KPTBSP2-de'
 tags: [  ]

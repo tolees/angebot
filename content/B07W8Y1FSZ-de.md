@@ -5,7 +5,7 @@ date: 2020-10-12 20:15:08
 image: 'https://m.media-amazon.com/images/I/511h0nm-k3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W8Y1FSZ-de LEGO Hidden Side 70432 Geister-Jahrmarkt mit AR-App'
 sku: 'B07W8Y1FSZ-de'
 tags: [  ]

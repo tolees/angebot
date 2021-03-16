@@ -5,7 +5,7 @@ date: 2020-03-19 05:11:38
 image: 'https://m.media-amazon.com/images/I/41Fk2RWx5vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000K6ASZQ-de STABILO OHPen 853/4 M non-permanent 4er Etui'
 sku: 'B000K6ASZQ-de'
 tags: [  ]

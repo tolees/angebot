@@ -5,7 +5,7 @@ date: 2020-03-15 04:43:32
 image: 'https://m.media-amazon.com/images/I/31KFaQl0etL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XWGTK6D-de House of Marley Positive Vibration 2 Faltbare Kopfhörer...'
 sku: 'B06XWGTK6D-de'
 tags: [  ]

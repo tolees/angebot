@@ -5,7 +5,7 @@ date: 2020-10-02 09:08:08
 image: 'https://m.media-amazon.com/images/I/41grBwy0ihL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4SRQYH-de Hugo Boss Damen Multi Zifferblatt Quarz Uhr mit Roségold...'
 sku: 'B07G4SRQYH-de'
 tags: [  ]

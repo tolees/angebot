@@ -5,7 +5,7 @@ date: 2020-04-09 07:48:01
 image: 'https://m.media-amazon.com/images/I/51UXY7ZQwUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVMNQJG-de Kurkraft Mönchspfeffer Extrakt 180 Kapseln - Original...'
 sku: 'B07NVMNQJG-de'
 tags: [  ]

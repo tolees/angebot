@@ -5,7 +5,7 @@ date: 2020-05-17 13:17:17
 image: 'https://m.media-amazon.com/images/I/31QTX4c+mmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GT8ZDMP-de Sony PCM-A10 Diktiergerät High-Res Aufnahme FLAC Stereo...'
 sku: 'B07GT8ZDMP-de'
 tags: [  ]

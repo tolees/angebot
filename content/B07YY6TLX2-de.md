@@ -5,7 +5,7 @@ date: 2020-07-16 16:02:32
 image: 'https://m.media-amazon.com/images/I/41-hK5B+dzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YY6TLX2-de Upgraded LED Sensor Licht 78 LED Wiederaufladbar Dimmbare...'
 sku: 'B07YY6TLX2-de'
 tags: [  ]

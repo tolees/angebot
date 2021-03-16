@@ -5,7 +5,7 @@ date: 2020-09-18 09:08:51
 image: 'https://m.media-amazon.com/images/I/31jM8884LjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016XVRUKC-de VERO MODA Damen VMMAXI My SS Soft U-Neck NOOS T-Shirt...'
 sku: 'B016XVRUKC-de'
 tags: [  ]

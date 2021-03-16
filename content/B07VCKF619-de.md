@@ -5,7 +5,7 @@ date: 2020-08-06 09:09:17
 image: 'https://m.media-amazon.com/images/I/316hSgmo5dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCKF619-de Soundcore Wakey Bluetooth Lautsprecher Powered by Anker...'
 sku: 'B07VCKF619-de'
 tags: [  ]

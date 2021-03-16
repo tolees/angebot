@@ -5,7 +5,7 @@ date: 2020-10-01 09:44:53
 image: 'https://m.media-amazon.com/images/I/31QQy-ThKKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9GHZC0-de RAVPower Quick Charge 3.0 USB Ladegerät Schnellladegerät...'
 sku: 'B01N9GHZC0-de'
 tags: [  ]

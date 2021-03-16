@@ -5,7 +5,7 @@ date: 2020-01-31 08:37:41
 image: 'https://m.media-amazon.com/images/I/41VAOE1mJoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0198QDM9C-de Crucial Ballistix Sport LT BLS16G4D240FSC Desktop Gaming...'
 sku: 'B0198QDM9C-de'
 tags: [  ]

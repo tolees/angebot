@@ -5,7 +5,7 @@ date: 2020-04-07 21:39:36
 image: 'https://m.media-amazon.com/images/I/51sQt99qd-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0038ANS8U-de KidKraft 53179 - Rosa Retroküche'
 sku: 'B0038ANS8U-de'
 tags: [  ]

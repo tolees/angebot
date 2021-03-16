@@ -5,7 +5,7 @@ date: 2020-05-21 06:44:24
 image: 'https://m.media-amazon.com/images/I/31-mJ1ArLzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SHXV8GL-de Samsung Galaxy S10e Smartphone Bundle 14.7cm 5.8 Zoll 128...'
 sku: 'B07SHXV8GL-de'
 tags: [  ]

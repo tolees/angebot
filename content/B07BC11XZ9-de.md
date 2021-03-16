@@ -5,7 +5,7 @@ date: 2020-03-03 04:55:32
 image: 'https://m.media-amazon.com/images/I/51+j1WqVtyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BC11XZ9-de Mario & Luigi: Abenteuer Bowser + Bowser Jr.s Reise -...'
 sku: 'B07BC11XZ9-de'
 tags: [  ]

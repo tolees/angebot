@@ -5,7 +5,7 @@ date: 2020-04-17 00:15:33
 image: 'https://m.media-amazon.com/images/I/41bn+Vk-huL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076P7QJ2R-de Alicemall SUS304 Edelstahl Küchen Hängeleiste Bad...'
 sku: 'B076P7QJ2R-de'
 tags: [  ]

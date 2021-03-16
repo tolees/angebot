@@ -5,7 +5,7 @@ date: 2020-08-28 00:00:07
 image: 'https://m.media-amazon.com/images/I/51GN8pHc6ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVNG8SK-de TRIBE Infinity-Energieriegel aus natürlichen Zutaten zur...'
 sku: 'B07SVNG8SK-de'
 tags: [  ]

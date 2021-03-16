@@ -5,7 +5,7 @@ date: 2020-03-17 13:16:19
 image: 'https://m.media-amazon.com/images/I/41hPspa9qmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K1RXC24-de Ezviz S3 Sport Action Kamera Auflösung 4K/24 fps oder Full...'
 sku: 'B07K1RXC24-de'
 tags: [  ]

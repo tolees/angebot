@@ -5,7 +5,7 @@ date: 2020-04-29 08:46:28
 image: 'https://m.media-amazon.com/images/I/41mdFExiFkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WSQQ1S-de Sony SRS-XB41 kabelloser Bluetooth Lautsprecher tragbar...'
 sku: 'B078WSQQ1S-de'
 tags: [  ]

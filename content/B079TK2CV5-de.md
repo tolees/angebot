@@ -5,7 +5,7 @@ date: 2020-09-11 08:27:25
 image: 'https://m.media-amazon.com/images/I/51T5oZU8JWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079TK2CV5-de Goobay 45400 2 in 1 Superspeed Adapter USB 3.0 Typ A auf...'
 sku: 'B079TK2CV5-de'
 tags: [  ]

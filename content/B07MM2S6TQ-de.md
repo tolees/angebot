@@ -5,7 +5,7 @@ date: 2020-03-01 03:21:17
 image: 'https://m.media-amazon.com/images/I/41FKpmm7LDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MM2S6TQ-de Huawei Y7 2019 Dual-SIM Smartphone 15 9 cm 6 26 Zoll...'
 sku: 'B07MM2S6TQ-de'
 tags: [  ]

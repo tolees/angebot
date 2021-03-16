@@ -5,7 +5,7 @@ date: 2020-03-17 10:47:32
 image: 'https://m.media-amazon.com/images/I/51o5Rr58LVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XGW3KRV-de Funko 13693 63650 Actionfigur Trollhunters: Jim Armored...'
 sku: 'B06XGW3KRV-de'
 tags: [  ]

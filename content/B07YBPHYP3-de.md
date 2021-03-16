@@ -5,7 +5,7 @@ date: 2020-03-25 15:54:01
 image: 'https://m.media-amazon.com/images/I/41-hSH5x1LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YBPHYP3-de Hosome V912 Saugroboter mit LDS Navigation Wischfunktion...'
 sku: 'B07YBPHYP3-de'
 tags: [  ]

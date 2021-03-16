@@ -5,7 +5,7 @@ date: 2020-04-05 13:08:27
 image: 'https://m.media-amazon.com/images/I/51C1ANZc+LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLFKJVL-de Playmobil 70099 Magic Perlensammler mit Rochen bunt'
 sku: 'B07JLFKJVL-de'
 tags: [  ]

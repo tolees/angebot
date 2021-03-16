@@ -5,7 +5,7 @@ date: 2020-08-22 16:52:34
 image: 'https://m.media-amazon.com/images/I/41VphSIgqwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZKPT55M-de Panasonic TX-32GW334 LED-TV 32 Zoll 80 cm HD Fernseher...'
 sku: 'B07ZKPT55M-de'
 tags: [  ]

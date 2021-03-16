@@ -5,7 +5,7 @@ date: 2020-10-01 05:52:57
 image: 'https://m.media-amazon.com/images/I/41VtoEEWU7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000H6SSII-de JBL 61672 Solar-Leuchtstoffröhre Tageslichtröhre für...'
 sku: 'B000H6SSII-de'
 tags: [  ]

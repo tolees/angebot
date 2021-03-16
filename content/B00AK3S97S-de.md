@@ -5,7 +5,7 @@ date: 2020-02-21 04:46:42
 image: 'https://m.media-amazon.com/images/I/51Rs830fSzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AK3S97S-de James Bond - Die Welt ist nicht genug [Blu-ray]'
 sku: 'B00AK3S97S-de'
 tags: [  ]

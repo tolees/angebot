@@ -5,7 +5,7 @@ date: 2020-01-14 07:32:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/312qTh5hKvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G26PDJQ-de Fitbit Unisex-Adult Charge 3 Der Innovative Gesundheits-...'
 sku: 'B07G26PDJQ-de'
 tags: [  ]

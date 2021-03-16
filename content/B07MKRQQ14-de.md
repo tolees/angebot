@@ -5,7 +5,7 @@ date: 2020-01-28 14:21:38
 image: 'https://m.media-amazon.com/images/I/314ygYnhWEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MKRQQ14-de iPosible Powerbank 24800mAh Hohe Kapazität Akkupack mit...'
 sku: 'B07MKRQQ14-de'
 tags: [  ]

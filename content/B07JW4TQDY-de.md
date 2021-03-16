@@ -5,7 +5,7 @@ date: 2020-01-28 16:33:13
 image: 'https://m.media-amazon.com/images/I/41OKjSFZxCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JW4TQDY-de Acer Aspire 5 A517-51-3666 43 9 cm 17 3 Zoll Full-HD matt...'
 sku: 'B07JW4TQDY-de'
 tags: [  ]

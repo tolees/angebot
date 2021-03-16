@@ -5,7 +5,7 @@ date: 2020-09-25 15:18:30
 image: 'https://m.media-amazon.com/images/I/312BGisjdNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGY9MJ8-de Microsoft Surface Headphones'
 sku: 'B07NGY9MJ8-de'
 tags: [  ]

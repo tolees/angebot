@@ -5,7 +5,7 @@ date: 2020-05-24 14:16:29
 image: 'https://m.media-amazon.com/images/I/31wyKCIc8NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000IWHXH8-de Krups GVX242 Kaffeemühle Mahlwerk'
 sku: 'B000IWHXH8-de'
 tags: [  ]

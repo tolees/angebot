@@ -5,7 +5,7 @@ date: 2020-10-08 19:42:41
 image: 'https://m.media-amazon.com/images/I/51HFBw2nKQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S97KY8H-de Gigaset Smart Speaker L800HX - Lautsprecher mit Alexa-...'
 sku: 'B07S97KY8H-de'
 tags: [  ]

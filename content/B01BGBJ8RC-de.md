@@ -5,7 +5,7 @@ date: 2020-05-19 08:21:07
 image: 'https://m.media-amazon.com/images/I/41-M9EIrmOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGBJ8RC-de Logitech C310 Webcam HD 720p 60° Sichtfeld Fester Fokus...'
 sku: 'B01BGBJ8RC-de'
 tags: [  ]

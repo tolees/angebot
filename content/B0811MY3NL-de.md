@@ -5,7 +5,7 @@ date: 2020-09-29 14:13:22
 image: 'https://m.media-amazon.com/images/I/51zAOzgIFcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0811MY3NL-de HATTEKER Rasierer Elektrorasierer Herren Rasierapparat...'
 sku: 'B0811MY3NL-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-09 13:24:31
 image: 'https://m.media-amazon.com/images/I/41vJeizyIIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDP5BDJ-de G-STAR RAW Herren Graphic 17 Core Round Neck Sweatshirt...'
 sku: 'B07NDP5BDJ-de'
 tags: [  ]

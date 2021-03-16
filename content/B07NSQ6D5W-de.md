@@ -5,7 +5,7 @@ date: 2020-03-08 18:31:54
 image: 'https://m.media-amazon.com/images/I/41GNnOUkdFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NSQ6D5W-de Funko 39742 POP Vinyl: Avengers Endgame-Thor 2 Pajama...'
 sku: 'B07NSQ6D5W-de'
 tags: [  ]

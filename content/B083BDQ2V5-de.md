@@ -5,7 +5,7 @@ date: 2020-04-18 00:56:42
 image: 'https://m.media-amazon.com/images/I/51piiqN5VsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083BDQ2V5-de DXX Technik Bausteine 1965 Ford Mustang Hoonicorn Racing...'
 sku: 'B083BDQ2V5-de'
 tags: [  ]

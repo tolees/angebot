@@ -5,7 +5,7 @@ date: 2020-03-14 02:37:13
 image: 'https://m.media-amazon.com/images/I/61xP8PXnneL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKWNS1V-de PLAYMOBIL Top Agents 70003 Spy Team Sub Bot Ab 6 Jahren'
 sku: 'B07JKWNS1V-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-03 14:15:25
 image: 'https://m.media-amazon.com/images/I/31s+xuR5ycL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HPY5YF5-de Pop Fortnite Love Ranger Vinyl Figure'
 sku: 'B07HPY5YF5-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-11 16:14:26
 image: 'https://m.media-amazon.com/images/I/512k1e-sDfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZS9PTVH-de Insmart Silikon-Küchenschwamm ， 4 STÜCKE Antibakterieller...'
 sku: 'B07ZS9PTVH-de'
 tags: [  ]

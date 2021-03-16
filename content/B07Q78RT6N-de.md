@@ -5,7 +5,7 @@ date: 2020-01-08 19:22:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/518wE-j0fLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q78RT6N-de bayala - das Spiel'
 sku: 'B07Q78RT6N-de'
 tags: [  ]

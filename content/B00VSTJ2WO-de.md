@@ -5,7 +5,7 @@ date: 2020-04-17 23:47:56
 image: 'https://m.media-amazon.com/images/I/41obCBLFOIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VSTJ2WO-de Philips Audio SHB3075BK/00 On-Ear Kopfhörer Bluetooth...'
 sku: 'B00VSTJ2WO-de'
 tags: [  ]

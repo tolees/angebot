@@ -5,7 +5,7 @@ date: 2020-04-16 13:04:46
 image: 'https://m.media-amazon.com/images/I/41JBU9htKRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CE0F8YW-de Neff Z1913X0 Backstein Brot Pizza Keramik Holzschieber...'
 sku: 'B00CE0F8YW-de'
 tags: [  ]

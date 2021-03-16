@@ -5,7 +5,7 @@ date: 2020-03-11 04:57:05
 image: 'https://m.media-amazon.com/images/I/41Hc3neQejL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000UXF36I-de Mennekes AM 10863 Wandsteckdose SCHUKO 16A 230V IP68...'
 sku: 'B000UXF36I-de'
 tags: [  ]

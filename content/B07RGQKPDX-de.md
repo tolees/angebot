@@ -5,7 +5,7 @@ date: 2020-08-17 09:10:52
 image: 'https://m.media-amazon.com/images/I/31m2hoN65rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RGQKPDX-de Tommy Jeans Damen Tjw Waffle Hybrid Longsleeve Sport...'
 sku: 'B07RGQKPDX-de'
 tags: [  ]

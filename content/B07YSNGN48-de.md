@@ -5,7 +5,7 @@ date: 2020-02-17 14:52:52
 image: 'https://m.media-amazon.com/images/I/41hnW6DyarL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YSNGN48-de NIVEA MEN Fresh Active Deo Stift ohne Aluminium ACH mit...'
 sku: 'B07YSNGN48-de'
 tags: [  ]

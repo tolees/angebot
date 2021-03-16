@@ -5,7 +5,7 @@ date: 2020-10-03 15:09:10
 image: 'https://m.media-amazon.com/images/I/511gBezRPYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WT5MBBF-de SuperZings PSZ4D824IN00 Serie 4 Blaster Jet'
 sku: 'B07WT5MBBF-de'
 tags: [  ]

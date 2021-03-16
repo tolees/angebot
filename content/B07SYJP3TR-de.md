@@ -5,7 +5,7 @@ date: 2020-04-16 08:23:28
 image: 'https://m.media-amazon.com/images/I/51oPpWZbERL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SYJP3TR-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Imperial...'
 sku: 'B07SYJP3TR-de'
 tags: [  ]

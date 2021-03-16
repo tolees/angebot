@@ -5,7 +5,7 @@ date: 2020-02-02 04:57:22
 image: 'https://m.media-amazon.com/images/I/51nX4S+XRCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NB946XZ-de A Plague Tale Innocence [Xbox One]'
 sku: 'B07NB946XZ-de'
 tags: [  ]

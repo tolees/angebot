@@ -5,7 +5,7 @@ date: 2020-03-31 08:36:23
 image: 'https://m.media-amazon.com/images/I/41pHuqhZlHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HQIFKWW-de Sony Mobile SWR10 SmartBand Aktivitätstracker...'
 sku: 'B00HQIFKWW-de'
 tags: [  ]

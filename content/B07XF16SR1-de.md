@@ -5,7 +5,7 @@ date: 2020-08-23 12:14:57
 image: 'https://m.media-amazon.com/images/I/51XqypifZtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XF16SR1-de LEGO 41409 Friends Emmas magischer Würfel –...'
 sku: 'B07XF16SR1-de'
 tags: [  ]

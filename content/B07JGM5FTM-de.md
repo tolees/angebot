@@ -5,7 +5,7 @@ date: 2020-04-09 15:56:41
 image: 'https://m.media-amazon.com/images/I/41L6breN+ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGM5FTM-de Master Regale® Schwerlastregal 180x120x45cm HxBxT...'
 sku: 'B07JGM5FTM-de'
 tags: [  ]

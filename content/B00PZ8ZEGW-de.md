@@ -5,7 +5,7 @@ date: 2020-10-02 21:08:27
 image: 'https://m.media-amazon.com/images/I/417erVMQQ8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PZ8ZEGW-de Nike Damen WMNS Md Runner 2 Hallenschuhe Schwarz...'
 sku: 'B00PZ8ZEGW-de'
 tags: [  ]

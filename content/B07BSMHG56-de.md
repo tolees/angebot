@@ -5,7 +5,7 @@ date: 2020-03-19 16:09:01
 image: 'https://m.media-amazon.com/images/I/51epPIvZ13L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BSMHG56-de Pans Labyrinth - Ultimate Edition Blu-ray + CD-Soundtrack...'
 sku: 'B07BSMHG56-de'
 tags: [  ]

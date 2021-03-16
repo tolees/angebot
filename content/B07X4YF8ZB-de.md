@@ -5,7 +5,7 @@ date: 2020-07-16 09:34:49
 image: 'https://m.media-amazon.com/images/I/41spDJ04qJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X4YF8ZB-de SCHÜTTE 79146 MIAMI Küchenarmatur 360° Einhebelmischer mit...'
 sku: 'B07X4YF8ZB-de'
 tags: [  ]

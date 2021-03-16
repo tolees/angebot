@@ -5,7 +5,7 @@ date: 2020-06-11 23:34:37
 image: 'https://m.media-amazon.com/images/I/41n3rB8ttJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDGHP5V-de WC Ente Total Aktiv Gel Flüssiger WC Reiniger mit...'
 sku: 'B07RDGHP5V-de'
 tags: [  ]

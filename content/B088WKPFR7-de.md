@@ -5,7 +5,7 @@ date: 2020-08-09 06:24:13
 image: 'https://m.media-amazon.com/images/I/41iIiciKuhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088WKPFR7-de VPCOK 25 Meter Gummiband rund elastische Gummikordel DIY...'
 sku: 'B088WKPFR7-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-08 01:57:10
 image: 'https://m.media-amazon.com/images/I/51uUFSyxYFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086YBHTYK-de Quick-Connect INVERTER Split Klimaanlage mit Wärmepumpe 3...'
 sku: 'B086YBHTYK-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-03 10:03:51
 image: 'https://m.media-amazon.com/images/I/310NK+vncFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYYXTRE-de MEDION Küchenmaschine mit Kochfunktion 1000 Watt Leistung...'
 sku: 'B01MYYXTRE-de'
 tags: [  ]

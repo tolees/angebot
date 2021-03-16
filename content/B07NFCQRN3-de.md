@@ -5,7 +5,7 @@ date: 2020-02-21 06:06:18
 image: 'https://m.media-amazon.com/images/I/31PDqOajx6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NFCQRN3-de camel active Herren Zip UP Hoodie Sportjacke Blau Marine...'
 sku: 'B07NFCQRN3-de'
 tags: [  ]

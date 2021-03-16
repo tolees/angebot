@@ -5,7 +5,7 @@ date: 2020-04-16 17:45:13
 image: 'https://m.media-amazon.com/images/I/61-sHFV+zML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JXHQWSF-de Playmobil 70007 Top Agents Team S.H.A.R.K. Rocket Rafter bunt'
 sku: 'B07JXHQWSF-de'
 tags: [  ]

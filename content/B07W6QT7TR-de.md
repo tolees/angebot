@@ -5,7 +5,7 @@ date: 2020-08-24 06:11:18
 image: 'https://m.media-amazon.com/images/I/31IA+XcXudL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6QT7TR-de eufy Security Sicherheitskamera mit Scheinwerfer 1080p...'
 sku: 'B07W6QT7TR-de'
 tags: [  ]

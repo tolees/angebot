@@ -5,7 +5,7 @@ date: 2020-04-30 08:08:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zvkoHCZCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2TZWD7-de SodaStream Easy Wassersprudler mit CO2 Zylinder 1 L PET-...'
 sku: 'B01N2TZWD7-de'
 tags: [  ]

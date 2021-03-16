@@ -5,7 +5,7 @@ date: 2020-08-10 15:10:38
 image: 'https://m.media-amazon.com/images/I/417g+T83ivL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F3BBQQC-de DARLINGTON & Sohns Schwarzer Controller für Nintendo 64...'
 sku: 'B08F3BBQQC-de'
 tags: [  ]

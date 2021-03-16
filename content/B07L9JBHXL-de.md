@@ -5,7 +5,7 @@ date: 2020-08-28 05:19:57
 image: 'https://m.media-amazon.com/images/I/410t0YN9etL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9JBHXL-de Under Armour Damen Play Up Shorts 3.0 atmungsaktive...'
 sku: 'B07L9JBHXL-de'
 tags: [  ]

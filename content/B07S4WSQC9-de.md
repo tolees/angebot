@@ -5,7 +5,7 @@ date: 2020-09-30 14:34:08
 image: 'https://m.media-amazon.com/images/I/41zVoBMtXgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4WSQC9-de Levi s Damen Ls Baby Tee T-Shirt Caviar 0014 Large'
 sku: 'B07S4WSQC9-de'
 tags: [  ]

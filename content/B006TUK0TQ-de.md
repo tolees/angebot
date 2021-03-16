@@ -5,7 +5,7 @@ date: 2020-09-29 11:39:00
 image: 'https://m.media-amazon.com/images/I/41W5-HAZCuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006TUK0TQ-de Triumph Damen BH Push-up Body Make-Up WHU Beige Smooth...'
 sku: 'B006TUK0TQ-de'
 tags: [  ]

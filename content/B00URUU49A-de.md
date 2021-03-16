@@ -5,7 +5,7 @@ date: 2020-03-14 04:57:10
 image: 'https://m.media-amazon.com/images/I/417nBgIg1aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00URUU49A-de Einhell Schmutzwasserpumpe GE-DP 7330 LL ECO 730 W Ø 30 mm...'
 sku: 'B00URUU49A-de'
 tags: [  ]

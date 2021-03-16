@@ -5,7 +5,7 @@ date: 2020-08-12 08:44:56
 image: 'https://m.media-amazon.com/images/I/51vQa-Pge8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNVBLNT-de Seagate Expansion Portable 5 TB tragbare externe...'
 sku: 'B07TNVBLNT-de'
 tags: [  ]

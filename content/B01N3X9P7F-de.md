@@ -5,7 +5,7 @@ date: 2020-03-22 10:57:58
 image: 'https://m.media-amazon.com/images/I/41c-N2c4GML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N3X9P7F-de Sony Alpha 6000 Systemkamera 24 Megapixel 7 6 cm 3" LCD-...'
 sku: 'B01N3X9P7F-de'
 tags: [  ]

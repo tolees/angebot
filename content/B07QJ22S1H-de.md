@@ -5,7 +5,7 @@ date: 2020-04-03 12:59:27
 image: 'https://m.media-amazon.com/images/I/41gn5aSv8qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QJ22S1H-de Funko 40876 POP Vinyl Animation: Disenchantment-Bean...'
 sku: 'B07QJ22S1H-de'
 tags: [  ]

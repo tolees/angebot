@@ -5,7 +5,7 @@ date: 2020-04-16 08:37:59
 image: 'https://m.media-amazon.com/images/I/51AAvFBdPqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S92L6JQ-de Flöckchen Kinder Aufbewahrungsbox Spielzeugbox für...'
 sku: 'B07S92L6JQ-de'
 tags: [  ]

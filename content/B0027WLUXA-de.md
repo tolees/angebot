@@ -5,7 +5,7 @@ date: 2020-02-01 05:02:22
 image: 'https://m.media-amazon.com/images/I/41Hm-EJ-vYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0027WLUXA-de Boccia Herrenuhr Analog Quarz mit Lederarmband – 3533-03'
 sku: 'B0027WLUXA-de'
 tags: [  ]

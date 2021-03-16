@@ -5,7 +5,7 @@ date: 2020-04-14 08:17:02
 image: 'https://m.media-amazon.com/images/I/41h5OtZfYTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0781YCK4M-de caseable Kindle und Kindle Paperwhite Hülle Gold Dots'
 sku: 'B0781YCK4M-de'
 tags: [  ]

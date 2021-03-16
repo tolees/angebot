@@ -5,7 +5,7 @@ date: 2020-02-19 11:35:37
 image: 'https://m.media-amazon.com/images/I/513wjzqA3OL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074WRN2PW-de Die Sims 4 - Hunde & Katzen Edition DLC [PC Download –...'
 sku: 'B074WRN2PW-de'
 tags: [  ]

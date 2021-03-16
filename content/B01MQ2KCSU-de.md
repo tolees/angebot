@@ -5,7 +5,7 @@ date: 2020-03-31 18:30:51
 image: 'https://m.media-amazon.com/images/I/41wuvkSjlKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQ2KCSU-de Maxi-Cosi Priori SPS + Kindersitz mit optimalen...'
 sku: 'B01MQ2KCSU-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-15 04:43:31
 image: 'https://m.media-amazon.com/images/I/41owVLGrlwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079VPLW7K-de WORX WG322E.9 Akku Kettensäge 20V – Praktische Holzsäge...'
 sku: 'B079VPLW7K-de'
 tags: [  ]

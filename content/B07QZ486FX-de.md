@@ -5,7 +5,7 @@ date: 2020-02-17 05:05:35
 image: 'https://m.media-amazon.com/images/I/41PRKR8w8JL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZ486FX-de HUAWEI Y5 2019 Dual SIM Smartphone 14 5 cm 5 71 Zoll 16GB...'
 sku: 'B07QZ486FX-de'
 tags: [  ]

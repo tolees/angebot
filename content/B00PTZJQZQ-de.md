@@ -5,7 +5,7 @@ date: 2020-05-16 16:53:01
 image: 'https://m.media-amazon.com/images/I/41x1VSpZUcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PTZJQZQ-de INSTAR IN-6001HD schwarz - WLAN Überwachungskamera - IP...'
 sku: 'B00PTZJQZQ-de'
 tags: [  ]

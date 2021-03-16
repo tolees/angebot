@@ -5,7 +5,7 @@ date: 2020-02-03 21:19:48
 image: 'https://m.media-amazon.com/images/I/51MosTOWgnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CBME1SG-de Funko 7424 No Actionfigur Dragonball Z: Gohan'
 sku: 'B01CBME1SG-de'
 tags: [  ]

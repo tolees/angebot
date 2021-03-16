@@ -5,7 +5,7 @@ date: 2020-04-07 21:34:21
 image: 'https://m.media-amazon.com/images/I/51lziXF32LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082SJ2FQ9-de K9CK LED Licht Set für Lego Modell - DIY Leuchtende...'
 sku: 'B082SJ2FQ9-de'
 tags: [  ]

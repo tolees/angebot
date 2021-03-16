@@ -5,7 +5,7 @@ date: 2020-07-23 21:05:15
 image: 'https://m.media-amazon.com/images/I/41Of6NSjK3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QG9JN79-de Externes CD DVD Laufwerk Amicool USB 3.0 mit Type-C...'
 sku: 'B07QG9JN79-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-09 23:58:03
 image: 'https://m.media-amazon.com/images/I/31b+GAfkl9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTM26JL-de Hpybest Zahnbürstenhalter für Rasierapparat Saugnapf...'
 sku: 'B07TTM26JL-de'
 tags: [  ]

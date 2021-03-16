@@ -5,7 +5,7 @@ date: 2020-04-13 23:38:55
 image: 'https://m.media-amazon.com/images/I/411x9WwdhVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FK1MQJM-de Lebendige Farben Filzwolle Merinowolle Kammzug Wolle Filz...'
 sku: 'B07FK1MQJM-de'
 tags: [  ]

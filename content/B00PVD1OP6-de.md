@@ -5,7 +5,7 @@ date: 2020-02-02 04:51:54
 image: 'https://m.media-amazon.com/images/I/41wTusIWwKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PVD1OP6-de D-Link DCS-2530L Wireless AC 180° Panorama Cloud...'
 sku: 'B00PVD1OP6-de'
 tags: [  ]

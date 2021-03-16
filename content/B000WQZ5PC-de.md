@@ -5,7 +5,7 @@ date: 2020-01-24 04:47:10
 image: 'https://m.media-amazon.com/images/I/417-yGKaX6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000WQZ5PC-de Yankee Candle große Duftkerze im Glas Lemon Lavender...'
 sku: 'B000WQZ5PC-de'
 tags: [  ]

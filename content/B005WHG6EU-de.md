@@ -5,7 +5,7 @@ date: 2020-01-01 13:29:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51j5fOeBgtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005WHG6EU-de DeWalt Paneelsäge 1675W DWS780 inkl. Zubehör - Mit 305x30...'
 sku: 'B005WHG6EU-de'
 tags: [  ]

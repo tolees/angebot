@@ -5,7 +5,7 @@ date: 2020-03-21 04:54:15
 image: 'https://m.media-amazon.com/images/I/41G8KWWsi0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OXWN70Q-de uvex Unisex – Erwachsene plug-in LED für i-vo/airwing...'
 sku: 'B00OXWN70Q-de'
 tags: [  ]

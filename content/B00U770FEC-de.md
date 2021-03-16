@@ -5,7 +5,7 @@ date: 2020-04-11 08:09:04
 image: 'https://m.media-amazon.com/images/I/51uHCULiAYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U770FEC-de Dickie 203715001 Toys City Fire Engine Feuerwehrauto mit...'
 sku: 'B00U770FEC-de'
 tags: [  ]

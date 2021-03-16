@@ -5,7 +5,7 @@ date: 2020-01-09 15:52:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41H0UwQy1qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N74KHYX-de Princess Raclette Grill in Bambusausführung - für bis zu 8...'
 sku: 'B01N74KHYX-de'
 tags: [  ]

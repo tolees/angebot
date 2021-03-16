@@ -5,7 +5,7 @@ date: 2020-03-15 04:42:27
 image: 'https://m.media-amazon.com/images/I/51snQGGgzaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079PC9JQ5-de One Piece World Seeker Standard - [PlayStation 4]'
 sku: 'B079PC9JQ5-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-11 16:06:32
 image: 'https://m.media-amazon.com/images/I/51gtD6fQP2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000PKII2C-de SuperCat Wühlmaus-Falle: Effiziente Schlagfalle kein...'
 sku: 'B000PKII2C-de'
 tags: [  ]

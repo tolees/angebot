@@ -5,7 +5,7 @@ date: 2020-08-30 12:40:50
 image: 'https://m.media-amazon.com/images/I/41OcQv8C-2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RX7TX3R-de Levi s Damen Perfect Vneck T-Shirt Schwarz Caviar 0003 Medium'
 sku: 'B07RX7TX3R-de'
 tags: [  ]

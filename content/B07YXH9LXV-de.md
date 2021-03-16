@@ -5,7 +5,7 @@ date: 2020-02-14 16:23:36
 image: 'https://m.media-amazon.com/images/I/4127rji7NSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YXH9LXV-de Nikon Z 50 Kamera'
 sku: 'B07YXH9LXV-de'
 tags: [  ]

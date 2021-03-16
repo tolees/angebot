@@ -5,7 +5,7 @@ date: 2020-04-14 16:39:07
 image: 'https://m.media-amazon.com/images/I/51-P4daxzgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083TLXRNZ-de Regal bambus 2er set Badezimmerregal Badregal Bambus...'
 sku: 'B083TLXRNZ-de'
 tags: [  ]

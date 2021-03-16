@@ -5,7 +5,7 @@ date: 2020-09-02 11:39:30
 image: 'https://m.media-amazon.com/images/I/31hbPwe+bEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NARBPI7-de SanDisk Extreme Go 64GB USB-Flash-Laufwerk USB 3.1'
 sku: 'B01NARBPI7-de'
 tags: [  ]

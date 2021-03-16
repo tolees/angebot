@@ -5,7 +5,7 @@ date: 2020-04-15 23:40:38
 image: 'https://m.media-amazon.com/images/I/4142RV9P+4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GV2JZ8W-de Kitchen Diamonds Premium Tafelsticker-Set – 136...'
 sku: 'B07GV2JZ8W-de'
 tags: [  ]

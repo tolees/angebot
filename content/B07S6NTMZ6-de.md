@@ -5,7 +5,7 @@ date: 2020-08-16 16:44:37
 image: 'https://m.media-amazon.com/images/I/31UvF1wuKmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6NTMZ6-de Puma Damen Smash WNS v2 L Zapatillas Weiß White-Bright...'
 sku: 'B07S6NTMZ6-de'
 tags: [  ]

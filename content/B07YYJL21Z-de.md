@@ -5,7 +5,7 @@ date: 2020-02-16 15:04:26
 image: 'https://m.media-amazon.com/images/I/41lvqU9lySL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YYJL21Z-de SanDisk Ultra Dual Drive Go USB Type-C 256 GB Android...'
 sku: 'B07YYJL21Z-de'
 tags: [  ]

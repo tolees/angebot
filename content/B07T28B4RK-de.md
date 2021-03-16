@@ -5,7 +5,7 @@ date: 2020-02-17 12:05:12
 image: 'https://m.media-amazon.com/images/I/41m7CoKTybL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T28B4RK-de BRIKSMAX Led Beleuchtungsset für Lego City Starke...'
 sku: 'B07T28B4RK-de'
 tags: [  ]

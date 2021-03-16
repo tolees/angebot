@@ -5,7 +5,7 @@ date: 2020-09-11 08:24:12
 image: 'https://m.media-amazon.com/images/I/51pO81BCo4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0716CN5BT-de King Arthur: Legend of the Sword [Blu-ray]'
 sku: 'B0716CN5BT-de'
 tags: [  ]

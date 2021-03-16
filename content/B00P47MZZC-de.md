@@ -5,7 +5,7 @@ date: 2020-09-26 09:03:44
 image: 'https://m.media-amazon.com/images/I/41VVfldcOZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00P47MZZC-de Led Leuchtmittel E27 Warmweiß 5W Tropfen Birne Licht 3000K...'
 sku: 'B00P47MZZC-de'
 tags: [  ]

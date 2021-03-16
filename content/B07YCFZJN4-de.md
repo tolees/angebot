@@ -5,7 +5,7 @@ date: 2020-05-06 18:40:37
 image: 'https://m.media-amazon.com/images/I/313FOXuTUfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YCFZJN4-de Roccat Kone AIMO Gaming Maus hohe Präzision Optischer Owl-...'
 sku: 'B07YCFZJN4-de'
 tags: [  ]

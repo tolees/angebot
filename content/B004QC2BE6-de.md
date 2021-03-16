@@ -5,7 +5,7 @@ date: 2020-03-22 13:38:45
 image: 'https://m.media-amazon.com/images/I/41gqlIykUeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004QC2BE6-de CASO F10 Design Küchenwaage digitale Küchenwaage große...'
 sku: 'B004QC2BE6-de'
 tags: [  ]

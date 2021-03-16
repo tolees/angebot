@@ -5,7 +5,7 @@ date: 2020-01-28 13:43:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414uGa%2B-EpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5MQX4N-de Sony MDR-XB950N1 kabelloser Kopfhörer mit...'
 sku: 'B01N5MQX4N-de'
 tags: [  ]

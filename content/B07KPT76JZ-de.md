@@ -5,7 +5,7 @@ date: 2020-03-29 21:08:10
 image: 'https://m.media-amazon.com/images/I/417mPSvqh-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPT76JZ-de Funko 37743 POP Vinyl: Alien 40th: Xenomorph Sammelbares...'
 sku: 'B07KPT76JZ-de'
 tags: [  ]

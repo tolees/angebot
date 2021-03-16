@@ -5,7 +5,7 @@ date: 2020-01-01 09:12:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DX9vZmSrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073CVFRFH-de Beurer BF 600 Diagnosewaage weiß Messung von Körperfett...'
 sku: 'B073CVFRFH-de'
 tags: [  ]

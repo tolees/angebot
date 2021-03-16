@@ -5,7 +5,7 @@ date: 2020-04-13 07:51:45
 image: 'https://m.media-amazon.com/images/I/41Zp6KRGamL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FDYSWYG-de 2 teilig Kochmesser Profi Messer Set AKZIM Scharfe...'
 sku: 'B07FDYSWYG-de'
 tags: [  ]

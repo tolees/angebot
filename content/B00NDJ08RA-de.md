@@ -5,7 +5,7 @@ date: 2020-01-18 13:23:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415EAq2JspL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NDJ08RA-de Tieflochmarker Pica Dry Trockenmarker 2 8mm Graphit 2er Pack'
 sku: 'B00NDJ08RA-de'
 tags: [  ]

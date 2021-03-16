@@ -5,7 +5,7 @@ date: 2020-04-19 06:39:55
 image: 'https://m.media-amazon.com/images/I/415x8lke0SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3B9Z7Q-de Brother ADS1700W Mobiler Scanner ADS1700WUN1...'
 sku: 'B07H3B9Z7Q-de'
 tags: [  ]

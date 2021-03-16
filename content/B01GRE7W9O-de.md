@@ -5,7 +5,7 @@ date: 2020-03-03 04:53:40
 image: 'https://m.media-amazon.com/images/I/41ZCAGIoyIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GRE7W9O-de Logitech C925E Business Webcam mit 1080p und integrierter...'
 sku: 'B01GRE7W9O-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-12 05:54:16
 image: 'https://m.media-amazon.com/images/I/41QD7-KX5oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0829DZH2W-de Sabrent Rocket Q 2TB NVMe PCIe M.2 2280 Interne...'
 sku: 'B0829DZH2W-de'
 tags: [  ]

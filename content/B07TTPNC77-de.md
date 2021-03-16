@@ -5,7 +5,7 @@ date: 2020-02-20 14:51:48
 image: 'https://m.media-amazon.com/images/I/410nxQtmkDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTPNC77-de PUMA RS-0 Core Sneaker Herren schwarz/gelb 9 UK - 43 EU'
 sku: 'B07TTPNC77-de'
 tags: [  ]

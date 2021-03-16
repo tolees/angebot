@@ -5,7 +5,7 @@ date: 2020-08-25 04:44:55
 image: 'https://m.media-amazon.com/images/I/41n9oS3L70L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CBXX9XQ-de SmartQian 9/10 Paar Sneaker Socken Herren Damen...'
 sku: 'B08CBXX9XQ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-11 16:03:18
 image: 'https://m.media-amazon.com/images/I/41OsXyhgBgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVHJ6JN-de Graef CH502EU Zerkleinerer Glas'
 sku: 'B07MVHJ6JN-de'
 tags: [  ]

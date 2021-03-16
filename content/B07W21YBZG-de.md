@@ -5,7 +5,7 @@ date: 2020-04-24 10:23:48
 image: 'https://m.media-amazon.com/images/I/51pHXElZ-hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W21YBZG-de Kate Lynn Muttertagsgeschenk Armband Frauen schmuck Damen...'
 sku: 'B07W21YBZG-de'
 tags: [  ]

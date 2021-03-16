@@ -5,7 +5,7 @@ date: 2020-01-20 04:38:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31EWq5l%2BA7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008MVW0LG-de WENKO Anti-Schimmel Duschvorhang Uni Anti-Bakteriell...'
 sku: 'B008MVW0LG-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-18 06:08:43
 image: 'https://m.media-amazon.com/images/I/419EiQ7nH7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XY6KRTD-de OnePlus 8 5G Smartphone ohne Vertrag 12GB + 256GB Speicher...'
 sku: 'B07XY6KRTD-de'
 tags: [  ]

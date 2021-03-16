@@ -5,7 +5,7 @@ date: 2020-02-07 12:22:09
 image: 'https://m.media-amazon.com/images/I/41ACsOHrmzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HSC8RKX-de MSI MPG Z390i Gaming Edge AC LGA 1151 Mainboard DDR4 2X...'
 sku: 'B07HSC8RKX-de'
 tags: [  ]

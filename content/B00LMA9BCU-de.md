@@ -5,7 +5,7 @@ date: 2020-01-21 09:12:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51LSQn8fCSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LMA9BCU-de Disney 84624 Frozen Papier Servietten 20 Stück mit Sommer...'
 sku: 'B00LMA9BCU-de'
 tags: [  ]

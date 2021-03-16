@@ -5,7 +5,7 @@ date: 2020-04-15 15:26:25
 image: 'https://m.media-amazon.com/images/I/51H4nra8k+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019FA3CXW-de Star Wars: Das Erwachen der Macht'
 sku: 'B019FA3CXW-de'
 tags: [  ]

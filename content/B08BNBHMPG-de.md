@@ -5,7 +5,7 @@ date: 2020-07-21 09:06:31
 image: 'https://m.media-amazon.com/images/I/415vhlRiHUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BNBHMPG-de Yaasier WLAN Repeater 2 4GHz WLAN Verstärker WiFi Extender...'
 sku: 'B08BNBHMPG-de'
 tags: [  ]

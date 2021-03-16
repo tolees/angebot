@@ -5,7 +5,7 @@ date: 2020-03-11 11:28:23
 image: 'https://m.media-amazon.com/images/I/41bbeCUZDxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BBYKFHB-de SAGE SWM520 the No-Mess-Waffle Waffeleisen mit Teig-...'
 sku: 'B07BBYKFHB-de'
 tags: [  ]

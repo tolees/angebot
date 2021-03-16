@@ -5,7 +5,7 @@ date: 2020-09-15 06:49:44
 image: 'https://m.media-amazon.com/images/I/312JUcKS87L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJ8TN45-de eufy Security eufyCam E Kabellose Überwachungskamera 1...'
 sku: 'B07JJ8TN45-de'
 tags: [  ]

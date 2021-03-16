@@ -5,7 +5,7 @@ date: 2020-09-26 22:49:31
 image: 'https://m.media-amazon.com/images/I/41DNK7HWywL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078XGY4K6-de Christa Ludwig-Complete Recitals'
 sku: 'B078XGY4K6-de'
 tags: [  ]

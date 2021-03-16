@@ -5,7 +5,7 @@ date: 2020-07-09 03:48:17
 image: 'https://m.media-amazon.com/images/I/51Nn4wFtAFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MF8TJV5-de Red Dead Redemption 2 Standard Edition [Xbox One] Disk'
 sku: 'B01MF8TJV5-de'
 tags: [  ]

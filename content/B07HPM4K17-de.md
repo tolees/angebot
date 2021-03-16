@@ -5,7 +5,7 @@ date: 2020-03-19 05:12:34
 image: 'https://m.media-amazon.com/images/I/31apcLljbUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HPM4K17-de Samsung VG-SCFN49BM/XC The Frame Bilderrahmen 123 cm 49...'
 sku: 'B07HPM4K17-de'
 tags: [  ]

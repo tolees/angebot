@@ -5,7 +5,7 @@ date: 2020-09-28 14:20:21
 image: 'https://m.media-amazon.com/images/I/41oSLuR7w0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4SRQY6-de Tommy Hilfiger Damen Multi Zifferblatt Quarz Uhr mit...'
 sku: 'B07G4SRQY6-de'
 tags: [  ]

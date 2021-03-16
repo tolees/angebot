@@ -5,7 +5,7 @@ date: 2020-04-09 08:46:51
 image: 'https://m.media-amazon.com/images/I/410g+1byXmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H4RSDLK-de Libratone ZIPP MINI 2 Smart Wireless kleiner Lautsprecher...'
 sku: 'B07H4RSDLK-de'
 tags: [  ]

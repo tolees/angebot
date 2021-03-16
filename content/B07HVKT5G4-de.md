@@ -5,7 +5,7 @@ date: 2020-02-12 19:32:13
 image: 'https://m.media-amazon.com/images/I/41xffojkqoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HVKT5G4-de Nebula Prizm Beamer Multimedia Projektor mit 480P LCD...'
 sku: 'B07HVKT5G4-de'
 tags: [  ]

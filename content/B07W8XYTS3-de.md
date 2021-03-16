@@ -5,7 +5,7 @@ date: 2020-10-12 20:14:39
 image: 'https://m.media-amazon.com/images/I/51jNN1yDfFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W8XYTS3-de LEGO Hidden Side 70431 Der Leuchtturm der Dunkelheit mit...'
 sku: 'B07W8XYTS3-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-16 09:13:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-DBGS5T1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0741JGHB5-de Wahoo ELEMNT MINI Fahrradcomputer'
 sku: 'B0741JGHB5-de'
 tags: [  ]

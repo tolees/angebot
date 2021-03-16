@@ -5,7 +5,7 @@ date: 2020-04-13 00:06:44
 image: 'https://m.media-amazon.com/images/I/413rxpcA+nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UCOWGWY-de Goki 4013594566834 Memo Klang 12-teilig'
 sku: 'B00UCOWGWY-de'
 tags: [  ]

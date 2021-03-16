@@ -5,7 +5,7 @@ date: 2020-02-17 23:03:53
 image: 'https://m.media-amazon.com/images/I/51p35O3AdbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008YQPZN4-de Remington Elektrischer Rasierer Herren F7800 +LED Minuten-...'
 sku: 'B008YQPZN4-de'
 tags: [  ]

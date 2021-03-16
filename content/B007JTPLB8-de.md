@@ -5,7 +5,7 @@ date: 2020-01-26 04:38:54
 image: 'https://m.media-amazon.com/images/I/4173q1uaX0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007JTPLB8-de BaByliss 6614E Profi-Haartrockner Pro Express Ionic 2300 Watt'
 sku: 'B007JTPLB8-de'
 tags: [  ]

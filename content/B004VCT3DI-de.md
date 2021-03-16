@@ -5,7 +5,7 @@ date: 2020-05-16 13:48:00
 image: 'https://m.media-amazon.com/images/I/31uIDeQE25L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004VCT3DI-de Sony MDR-E9LP In-Ear / In-Ohr Kopfhörer 1 2m Kabel Neodym-...'
 sku: 'B004VCT3DI-de'
 tags: [  ]

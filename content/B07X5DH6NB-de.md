@@ -5,7 +5,7 @@ date: 2020-04-03 11:33:50
 image: 'https://m.media-amazon.com/images/I/41JEHSIsilL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X5DH6NB-de Sony Alpha 6100 E-Mount Systemkamera 24 Megapixel 4K Video...'
 sku: 'B07X5DH6NB-de'
 tags: [  ]

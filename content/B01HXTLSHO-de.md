@@ -5,7 +5,7 @@ date: 2020-09-14 06:48:32
 image: 'https://m.media-amazon.com/images/I/31eBoBXVQTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HXTLSHO-de BIO Ahornsirup Grad A Dark Robust taste - 1 Liter 1 320 Kg...'
 sku: 'B01HXTLSHO-de'
 tags: [  ]

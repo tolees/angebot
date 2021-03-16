@@ -5,7 +5,7 @@ date: 2020-10-01 20:44:12
 image: 'https://m.media-amazon.com/images/I/31GJyxNxaeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IWNCKHS-de ONLY Female Skinny Fit Jeans ONLUltimate King reg S30Dark...'
 sku: 'B00IWNCKHS-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-24 17:08:13
 image: 'https://m.media-amazon.com/images/I/31SI4+yOEgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJHZD87-de D-Link COVR-2202 Whole Home Mesh Wifi System Tri-Band...'
 sku: 'B07DJHZD87-de'
 tags: [  ]

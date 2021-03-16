@@ -5,7 +5,7 @@ date: 2020-01-10 17:09:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZqbPQg-VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XPCC3NN-de HP Pavilion Gaming TG01-0023ng Desktop AMD Ryzen 7-3700X...'
 sku: 'B07XPCC3NN-de'
 tags: [  ]

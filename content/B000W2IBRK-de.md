@@ -5,7 +5,7 @@ date: 2020-01-26 04:40:46
 image: 'https://m.media-amazon.com/images/I/41diDcTwGdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000W2IBRK-de WMF Safari Kinderbesteck 4-teilig ab 3 Jahren Cromargan...'
 sku: 'B000W2IBRK-de'
 tags: [  ]

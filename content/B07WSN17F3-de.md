@@ -5,7 +5,7 @@ date: 2020-08-12 18:01:35
 image: 'https://m.media-amazon.com/images/I/413fX0ct3XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WSN17F3-de Gehörschutz mit DAB + / FM-Radio und Bluetooth...'
 sku: 'B07WSN17F3-de'
 tags: [  ]

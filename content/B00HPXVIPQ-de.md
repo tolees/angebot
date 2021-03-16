@@ -5,7 +5,7 @@ date: 2020-03-31 05:45:51
 image: 'https://m.media-amazon.com/images/I/515fyWBjDAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HPXVIPQ-de Gardena Comfort FLEX Schlauch 13 mm 1/2 Zoll 10 m:...'
 sku: 'B00HPXVIPQ-de'
 tags: [  ]

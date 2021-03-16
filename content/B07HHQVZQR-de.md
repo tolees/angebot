@@ -5,7 +5,7 @@ date: 2020-09-22 22:06:57
 image: 'https://m.media-amazon.com/images/I/21Ql+bLaNtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HHQVZQR-de Villeroy & Boch – Vapiano Suppenschalen-Set 2 Stück 700 ml...'
 sku: 'B07HHQVZQR-de'
 tags: [  ]

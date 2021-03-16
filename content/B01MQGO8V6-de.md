@@ -5,7 +5,7 @@ date: 2020-03-01 11:27:02
 image: 'https://m.media-amazon.com/images/I/41+41Uv9INL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQGO8V6-de Nikon D5600 Kit AF-P DX 18-55 VR Spiegelreflexkamera 8 1...'
 sku: 'B01MQGO8V6-de'
 tags: [  ]

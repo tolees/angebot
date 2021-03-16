@@ -5,7 +5,7 @@ date: 2020-09-29 08:43:21
 image: 'https://m.media-amazon.com/images/I/41z-LKIAIzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K7H7JPX-de adidas Kinder TIRO19 TR TOPY Sweatshirt Dark Blue/Bold...'
 sku: 'B07K7H7JPX-de'
 tags: [  ]

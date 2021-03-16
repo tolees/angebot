@@ -5,7 +5,7 @@ date: 2020-09-21 15:16:46
 image: 'https://m.media-amazon.com/images/I/511xfeFOZ2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HS95HT0-de Pieces of a Man 180 Gr.Gatefold Black Vinyl [Vinyl LP]'
 sku: 'B00HS95HT0-de'
 tags: [  ]

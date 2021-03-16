@@ -5,7 +5,7 @@ date: 2020-03-03 10:29:14
 image: 'https://m.media-amazon.com/images/I/51wyrysjvXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J9IG0JI-de ABUS AB72498 5805C Vorhängeschloss Schwarz 110 cm Länge'
 sku: 'B01J9IG0JI-de'
 tags: [  ]

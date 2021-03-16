@@ -5,7 +5,7 @@ date: 2020-05-07 09:48:21
 image: 'https://m.media-amazon.com/images/I/41GoD+BuC6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QCDNXQL-de Fossil Watch FTW6031'
 sku: 'B07QCDNXQL-de'
 tags: [  ]

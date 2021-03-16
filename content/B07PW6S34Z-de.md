@@ -5,7 +5,7 @@ date: 2020-08-13 00:02:16
 image: 'https://m.media-amazon.com/images/I/41DPSnbYjZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PW6S34Z-de ONLY Damen Maxikleid Ärmelloses 40Cloud Dancer'
 sku: 'B07PW6S34Z-de'
 tags: [  ]

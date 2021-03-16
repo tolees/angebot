@@ -5,7 +5,7 @@ date: 2020-10-07 23:24:31
 image: 'https://m.media-amazon.com/images/I/41I1W0g-BRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013V52ZDU-de DESIRES Tilda Damen Übergangsjacke Jacke gefüttert mit...'
 sku: 'B013V52ZDU-de'
 tags: [  ]

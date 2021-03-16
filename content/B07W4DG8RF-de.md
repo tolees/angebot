@@ -5,7 +5,7 @@ date: 2020-03-23 05:07:52
 image: 'https://m.media-amazon.com/images/I/41du6dAuokL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4DG8RF-de Logitech G332 Gaming-Headset Special Edition Stereo Sound...'
 sku: 'B07W4DG8RF-de'
 tags: [  ]

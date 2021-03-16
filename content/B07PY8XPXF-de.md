@@ -5,7 +5,7 @@ date: 2020-03-10 13:23:34
 image: 'https://m.media-amazon.com/images/I/51A-kc9gszL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PY8XPXF-de HITACHI F43E4000 109 cm 43 Zoll Fernseher Full HD Smart TV...'
 sku: 'B07PY8XPXF-de'
 tags: [  ]

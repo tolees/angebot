@@ -5,7 +5,7 @@ date: 2020-04-13 07:45:26
 image: 'https://m.media-amazon.com/images/I/51NGD8FWy3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NSSCR7X-de Alien 40th - Xenomorph Pop! Keychain Funko Pocket Pop!...'
 sku: 'B07NSSCR7X-de'
 tags: [  ]

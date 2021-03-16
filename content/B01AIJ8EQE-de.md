@@ -5,7 +5,7 @@ date: 2020-01-17 08:29:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51HTZsbFIsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AIJ8EQE-de UGG Bailey Button Ii Che Damen Schneestiefel Beige...'
 sku: 'B01AIJ8EQE-de'
 tags: [  ]

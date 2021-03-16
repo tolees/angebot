@@ -5,7 +5,7 @@ date: 2021-02-01 16:16:00
 image: 'https://m.media-amazon.com/images/I/41oSkgA+CoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0761JP5PC-de Utopia'
 sku: 'B0761JP5PC-de'
 tags: [  ]

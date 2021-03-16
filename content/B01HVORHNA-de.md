@@ -5,7 +5,7 @@ date: 2020-09-25 09:37:54
 image: 'https://m.media-amazon.com/images/I/41-jvKa2InL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HVORHNA-de Westmark Kartoffelstampfer Kunststoff Länge: 27 5 cm...'
 sku: 'B01HVORHNA-de'
 tags: [  ]

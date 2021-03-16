@@ -5,7 +5,7 @@ date: 2020-02-20 20:08:05
 image: 'https://m.media-amazon.com/images/I/4119glifvGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072N8CZ7J-de Funko 22718 Actionfigur Hellboy S1: Liz Sherman'
 sku: 'B072N8CZ7J-de'
 tags: [  ]

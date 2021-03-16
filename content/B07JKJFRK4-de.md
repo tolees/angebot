@@ -5,7 +5,7 @@ date: 2020-01-10 09:16:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41RQPj0ZUhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKJFRK4-de HP Spectre x360 15-df0106ng 15 6 Zoll/ UHD Touchscreen...'
 sku: 'B07JKJFRK4-de'
 tags: [  ]

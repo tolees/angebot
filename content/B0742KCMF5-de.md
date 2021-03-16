@@ -5,7 +5,7 @@ date: 2020-10-05 11:36:06
 image: 'https://m.media-amazon.com/images/I/51sFj3nq9yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0742KCMF5-de Thames & Kosmos 692872 Zubehör'
 sku: 'B0742KCMF5-de'
 tags: [  ]

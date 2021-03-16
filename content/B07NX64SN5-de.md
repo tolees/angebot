@@ -5,7 +5,7 @@ date: 2020-02-17 05:03:23
 image: 'https://m.media-amazon.com/images/I/311iEIj8FML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NX64SN5-de Pioneer VSX-934 7.2-Kanal Netzwerk AV Receiver 7x160 Watt...'
 sku: 'B07NX64SN5-de'
 tags: [  ]

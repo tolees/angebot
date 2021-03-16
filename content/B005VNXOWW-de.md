@@ -5,7 +5,7 @@ date: 2020-03-13 05:06:06
 image: 'https://m.media-amazon.com/images/I/51vEhI8d8XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005VNXOWW-de Eine ganz heisse Nummer'
 sku: 'B005VNXOWW-de'
 tags: [  ]

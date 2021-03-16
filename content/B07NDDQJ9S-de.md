@@ -5,7 +5,7 @@ date: 2020-05-15 11:32:19
 image: 'https://m.media-amazon.com/images/I/41st7Gcfj-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDDQJ9S-de Bresser Junior Schülermikroskop BIOLUX SEL mit...'
 sku: 'B07NDDQJ9S-de'
 tags: [  ]

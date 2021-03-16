@@ -5,7 +5,7 @@ date: 2020-10-11 06:23:33
 image: 'https://m.media-amazon.com/images/I/31m5nJ1di3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013PUUJ2U-de SET-ERGÄNZUNG - Gigaset Lichtschalter - manueller...'
 sku: 'B013PUUJ2U-de'
 tags: [  ]

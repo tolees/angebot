@@ -5,7 +5,7 @@ date: 2020-02-17 05:03:29
 image: 'https://m.media-amazon.com/images/I/51NY++eVurL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GJ24F5E-de Boccia Damen-Armbanduhr XS Analog Quarz Titan 3296-02'
 sku: 'B00GJ24F5E-de'
 tags: [  ]

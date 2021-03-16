@@ -5,7 +5,7 @@ date: 2020-09-24 09:46:49
 image: 'https://m.media-amazon.com/images/I/41Gz5b0wt+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AN8ZF58-de Legend - Steel Edition [Blu-ray]'
 sku: 'B01AN8ZF58-de'
 tags: [  ]

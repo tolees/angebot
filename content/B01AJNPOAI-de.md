@@ -5,7 +5,7 @@ date: 2020-02-11 13:00:10
 image: 'https://m.media-amazon.com/images/I/51doDBxv7JL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AJNPOAI-de Schleich 42344 - Reiterhof mit Reiterin und Pferden'
 sku: 'B01AJNPOAI-de'
 tags: [  ]

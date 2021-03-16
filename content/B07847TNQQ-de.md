@@ -5,7 +5,7 @@ date: 2020-04-18 00:11:26
 image: 'https://m.media-amazon.com/images/I/51SHP7KCaoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07847TNQQ-de Hasbro Spiele E2617100 Lippengeflüster Erwachsenenspiel'
 sku: 'B07847TNQQ-de'
 tags: [  ]

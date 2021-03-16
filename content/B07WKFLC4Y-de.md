@@ -5,7 +5,7 @@ date: 2020-04-14 23:57:57
 image: 'https://m.media-amazon.com/images/I/414XGFC70rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WKFLC4Y-de Ajustable 2068 Reloj de metal Correa Correa Pulsera...'
 sku: 'B07WKFLC4Y-de'
 tags: [  ]

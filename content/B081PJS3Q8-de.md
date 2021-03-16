@@ -5,7 +5,7 @@ date: 2020-03-06 10:31:30
 image: 'https://m.media-amazon.com/images/I/4178Tj3AzfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081PJS3Q8-de TONGJI Acryl Vitrine Mit Beleuchtungsset Kompatibel Mit...'
 sku: 'B081PJS3Q8-de'
 tags: [  ]

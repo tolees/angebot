@@ -5,7 +5,7 @@ date: 2020-09-23 17:33:20
 image: 'https://m.media-amazon.com/images/I/41gmcTSbJ1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCFFN1S-de G-STAR RAW Herren 3301 Deconstructed Skinny Jeans Blau...'
 sku: 'B06XCFFN1S-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-21 11:16:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51tH5M7A39L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZNH4YD-de Bohrer Set TACKLIFE 42tlg. Professionelles Set Bohrer Bit...'
 sku: 'B07GZNH4YD-de'
 tags: [  ]

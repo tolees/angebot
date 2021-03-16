@@ -5,7 +5,7 @@ date: 2020-10-04 08:59:27
 image: 'https://m.media-amazon.com/images/I/41RLXyvDfEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BJDWJGF-de Tres Chicon Mezcal Artesanal 100% Espadin Agave 1 x 0.7l'
 sku: 'B08BJDWJGF-de'
 tags: [  ]

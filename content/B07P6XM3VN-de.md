@@ -5,7 +5,7 @@ date: 2020-01-30 02:46:37
 image: 'https://m.media-amazon.com/images/I/416RR4bKdhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6XM3VN-de Funko 41474 Action Figur: Dark Crystal - Aughra...'
 sku: 'B07P6XM3VN-de'
 tags: [  ]

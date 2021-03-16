@@ -5,7 +5,7 @@ date: 2020-04-07 21:45:52
 image: 'https://m.media-amazon.com/images/I/514bKbeq5mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6FL99M-de Playmobil 70207 Dollhouse Gemütliches Wohnzimmer ab 4...'
 sku: 'B07P6FL99M-de'
 tags: [  ]

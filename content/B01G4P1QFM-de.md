@@ -5,7 +5,7 @@ date: 2020-04-14 16:18:17
 image: 'https://m.media-amazon.com/images/I/51AsRfezcPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G4P1QFM-de NEXGADGET Küchenhelfer Set 42 Stücke Küchenzubehör...'
 sku: 'B01G4P1QFM-de'
 tags: [  ]

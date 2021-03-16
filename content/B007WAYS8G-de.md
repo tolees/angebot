@@ -5,7 +5,7 @@ date: 2020-07-08 11:58:13
 image: 'https://m.media-amazon.com/images/I/41CqP6Iza1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007WAYS8G-de Blanco Botton Pro 45/2 Manuell; Müllsystem für die...'
 sku: 'B007WAYS8G-de'
 tags: [  ]

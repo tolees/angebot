@@ -5,7 +5,7 @@ date: 2020-01-01 20:15:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QSTiT4I-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K85SKCW-de BRA Terra - Set de 3 poêles Aluminium fondu compatibles...'
 sku: 'B00K85SKCW-de'
 tags: [  ]

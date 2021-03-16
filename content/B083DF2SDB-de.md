@@ -5,7 +5,7 @@ date: 2020-04-11 08:10:56
 image: 'https://m.media-amazon.com/images/I/511SstPPMWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083DF2SDB-de adsf Tentacles Double Stimulation Toy - Sie Müssen Hart...'
 sku: 'B083DF2SDB-de'
 tags: [  ]

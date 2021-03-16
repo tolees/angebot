@@ -5,7 +5,7 @@ date: 2020-09-15 11:53:56
 image: 'https://m.media-amazon.com/images/I/21p5yxz6fqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001B4S8LW-de Brennenstuhl Safe-Box / Schutzbox für Verlängerungskabel...'
 sku: 'B001B4S8LW-de'
 tags: [  ]

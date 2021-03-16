@@ -5,7 +5,7 @@ date: 2020-03-19 05:12:53
 image: 'https://m.media-amazon.com/images/I/51Cb+DSCuJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KVBSOH8-de LOGONA Naturkosmetik mann After Shave Balm Beruhigend &...'
 sku: 'B01KVBSOH8-de'
 tags: [  ]

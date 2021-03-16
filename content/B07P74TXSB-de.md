@@ -5,7 +5,7 @@ date: 2020-02-10 14:16:25
 image: 'https://m.media-amazon.com/images/I/41-uypyyYGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P74TXSB-de Rayuda Große Faltbare Wäschekorb 3 Fächer Wäschesack...'
 sku: 'B07P74TXSB-de'
 tags: [  ]

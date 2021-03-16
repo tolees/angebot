@@ -5,7 +5,7 @@ date: 2020-09-26 02:14:45
 image: 'https://m.media-amazon.com/images/I/51wZ1R1SfIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003LQSHBO-de Die Symphonien Orchesterlieder Eloquence'
 sku: 'B003LQSHBO-de'
 tags: [  ]

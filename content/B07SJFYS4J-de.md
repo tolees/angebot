@@ -5,7 +5,7 @@ date: 2020-03-03 13:13:33
 image: 'https://m.media-amazon.com/images/I/4116lQ-2JQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJFYS4J-de ASUS VivoBook S15 S532FA 90NB0MI2-M00390 39 6 cm 15 6 Zoll...'
 sku: 'B07SJFYS4J-de'
 tags: [  ]

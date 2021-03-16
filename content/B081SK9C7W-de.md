@@ -5,7 +5,7 @@ date: 2020-03-11 12:37:46
 image: 'https://m.media-amazon.com/images/I/31hvWDQ-ShL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081SK9C7W-de Bluetooth Lautsprecher Tragbarer Bluedio HS Hurricane...'
 sku: 'B081SK9C7W-de'
 tags: [  ]

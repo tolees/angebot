@@ -5,7 +5,7 @@ date: 2020-09-06 19:34:52
 image: 'https://m.media-amazon.com/images/I/31NWpgPEYjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007JUTMKI-de Erima Damen Casual Basics Sweathose mit Bündchen schwarz 40'
 sku: 'B007JUTMKI-de'
 tags: [  ]

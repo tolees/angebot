@@ -5,7 +5,7 @@ date: 2020-08-31 13:18:00
 image: 'https://m.media-amazon.com/images/I/31hsmyCEZyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLXPY6X-de Tragbare Seifenblasenmaschine iTeknic Bubble Machine...'
 sku: 'B07PLXPY6X-de'
 tags: [  ]

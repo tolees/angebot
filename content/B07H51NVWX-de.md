@@ -5,7 +5,7 @@ date: 2020-05-12 14:18:32
 image: 'https://m.media-amazon.com/images/I/51YLYHLXcML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H51NVWX-de Nikon D3500 Kit AF-S DX 18-105 mm und weiteres Zubehör'
 sku: 'B07H51NVWX-de'
 tags: [  ]

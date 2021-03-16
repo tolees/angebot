@@ -5,7 +5,7 @@ date: 2020-10-08 01:49:22
 image: 'https://m.media-amazon.com/images/I/313F8qgr8oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000NRLXWO-de Chopard Wish Duschgel 150 ml'
 sku: 'B000NRLXWO-de'
 tags: [  ]

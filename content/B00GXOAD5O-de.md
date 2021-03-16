@@ -5,7 +5,7 @@ date: 2020-03-18 21:05:57
 image: 'https://m.media-amazon.com/images/I/51+c4iBKEIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GXOAD5O-de POP! Vinyl 3779 Actionfigur Game of Thrones: Tyrion...'
 sku: 'B00GXOAD5O-de'
 tags: [  ]

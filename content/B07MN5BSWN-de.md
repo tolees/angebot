@@ -5,7 +5,7 @@ date: 2020-03-06 07:23:36
 image: 'https://m.media-amazon.com/images/I/41ulNJrzPeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MN5BSWN-de Braun Barttrimmer und Haarschneider BT7040 39...'
 sku: 'B07MN5BSWN-de'
 tags: [  ]

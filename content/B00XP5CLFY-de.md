@@ -5,7 +5,7 @@ date: 2020-01-24 07:20:49
 image: 'https://m.media-amazon.com/images/I/51LgfFSkPtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XP5CLFY-de Makita Akku-Handkreissäge 57 mm 18 V/5 0 Ah DHS680RTJ'
 sku: 'B00XP5CLFY-de'
 tags: [  ]

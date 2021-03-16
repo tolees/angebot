@@ -5,7 +5,7 @@ date: 2020-04-07 12:15:25
 image: 'https://m.media-amazon.com/images/I/316OqHS8WBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00008XWOZ-de WMF Pfannenwender Kunststoff 31 x 7 5 cm Brat-/...'
 sku: 'B00008XWOZ-de'
 tags: [  ]

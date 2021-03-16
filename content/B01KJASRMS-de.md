@@ -5,7 +5,7 @@ date: 2020-02-15 09:19:40
 image: 'https://m.media-amazon.com/images/I/51Aqt9K3vQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KJASRMS-de Die Profis - Die komplette Serie - HD-Remastered [Blu-ray]'
 sku: 'B01KJASRMS-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-11 11:53:48
 image: 'https://m.media-amazon.com/images/I/31vxMeO3fiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYL66D4-de New Balance Herren 373 Core Sneaker Schwarz Black/White...'
 sku: 'B07RYL66D4-de'
 tags: [  ]

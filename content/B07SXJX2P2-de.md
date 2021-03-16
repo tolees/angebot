@@ -5,7 +5,7 @@ date: 2020-04-06 14:25:38
 image: 'https://m.media-amazon.com/images/I/51lE+rv8i9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SXJX2P2-de Duschkopf DALMO DCH01Y Wassersparende Handbrause mit 1.5 m...'
 sku: 'B07SXJX2P2-de'
 tags: [  ]

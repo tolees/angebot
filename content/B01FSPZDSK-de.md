@@ -5,7 +5,7 @@ date: 2020-03-25 16:12:07
 image: 'https://m.media-amazon.com/images/I/31qyPZVInFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FSPZDSK-de LG Beamer PF1500G bis 304 8 cm 120 Zoll CineBeam Full HD...'
 sku: 'B01FSPZDSK-de'
 tags: [  ]

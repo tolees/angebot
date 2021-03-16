@@ -5,7 +5,7 @@ date: 2020-04-04 21:00:59
 image: 'https://m.media-amazon.com/images/I/41RVsxx3B6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HB4VNVV-de Funko 36391 POP Vinyl: Lion King: Mufasa Multi Sammelbares...'
 sku: 'B07HB4VNVV-de'
 tags: [  ]

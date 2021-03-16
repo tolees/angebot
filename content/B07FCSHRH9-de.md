@@ -5,7 +5,7 @@ date: 2020-04-11 08:16:46
 image: 'https://m.media-amazon.com/images/I/41UMdzoFyoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FCSHRH9-de Aufbewahrungsbox Vlies rosé'
 sku: 'B07FCSHRH9-de'
 tags: [  ]

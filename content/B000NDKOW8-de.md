@@ -5,7 +5,7 @@ date: 2020-02-09 21:38:15
 image: 'https://m.media-amazon.com/images/I/41v9FIcEprL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000NDKOW8-de Kathrein ESC 30 Sat 3Loch Einzeldose'
 sku: 'B000NDKOW8-de'
 tags: [  ]

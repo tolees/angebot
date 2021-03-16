@@ -5,7 +5,7 @@ date: 2020-04-11 08:17:02
 image: 'https://m.media-amazon.com/images/I/317uFuWQd-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M67TMLV-de Ondis24 Regal Lagerregal 71 x 35 x 180 H cm Steckregal...'
 sku: 'B07M67TMLV-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-22 04:57:59
 image: 'https://m.media-amazon.com/images/I/319iRKI3NoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KHTNLXM-de Under Armour Herren UA HeatGear Long Sleeve langärmliges...'
 sku: 'B00KHTNLXM-de'
 tags: [  ]

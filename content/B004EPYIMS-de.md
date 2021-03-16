@@ -5,7 +5,7 @@ date: 2020-01-22 04:33:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31vNwpgogTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004EPYIMS-de roba Komplettwiegenset Babywiege 40x90cm Holz weiß...'
 sku: 'B004EPYIMS-de'
 tags: [  ]

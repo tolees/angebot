@@ -5,7 +5,7 @@ date: 2020-05-29 18:53:35
 image: 'https://m.media-amazon.com/images/I/415PomFx4zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BZB1S7V-de AOC AGON AG352UCG6 88 9 cm 35 Zoll Curved Monitor HDMI USB...'
 sku: 'B07BZB1S7V-de'
 tags: [  ]

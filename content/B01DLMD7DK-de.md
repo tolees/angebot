@@ -5,7 +5,7 @@ date: 2020-03-22 11:07:00
 image: 'https://m.media-amazon.com/images/I/41NwiBpt0dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DLMD7DK-de Sony SEL-70300G G Tele-Zoom Objektiv 70-300 mm F4.5-5.6...'
 sku: 'B01DLMD7DK-de'
 tags: [  ]

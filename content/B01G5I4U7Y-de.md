@@ -5,7 +5,7 @@ date: 2020-04-14 23:45:31
 image: 'https://m.media-amazon.com/images/I/51wij-YxTQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G5I4U7Y-de Alice im Wunderland: Hinter den Spiegeln'
 sku: 'B01G5I4U7Y-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 17:44:49
 image: 'https://m.media-amazon.com/images/I/51aTJqrn1IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079N1FTWL-de Playmobil 9467 Feuerwehr-Löschroboter'
 sku: 'B079N1FTWL-de'
 tags: [  ]

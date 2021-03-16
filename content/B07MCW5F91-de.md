@@ -5,7 +5,7 @@ date: 2020-02-04 05:24:55
 image: 'https://m.media-amazon.com/images/I/51wi7kpBurL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCW5F91-de Lachen Sie mit Stan & Ollie - Die komplette ZDF-Serie [7...'
 sku: 'B07MCW5F91-de'
 tags: [  ]

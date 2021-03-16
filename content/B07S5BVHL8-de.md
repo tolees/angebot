@@ -5,7 +5,7 @@ date: 2020-04-16 08:34:53
 image: 'https://m.media-amazon.com/images/I/51h5r52Pi8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5BVHL8-de Nene Toys - Lernspielzeug für Jungen und Mädchen 2 3 4...'
 sku: 'B07S5BVHL8-de'
 tags: [  ]

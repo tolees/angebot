@@ -5,7 +5,7 @@ date: 2020-04-12 00:06:44
 image: 'https://m.media-amazon.com/images/I/41V-42EDlbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085RX5SLX-de ColiCor Display Halterung DIY Vertikales Ständer für Lego...'
 sku: 'B085RX5SLX-de'
 tags: [  ]

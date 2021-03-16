@@ -5,7 +5,7 @@ date: 2020-03-01 04:52:26
 image: 'https://m.media-amazon.com/images/I/41Yc-SgGusL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071FVH19S-de uvex Unisex – Erwachsene hlmt 400 visor style Skihelm...'
 sku: 'B071FVH19S-de'
 tags: [  ]

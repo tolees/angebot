@@ -5,7 +5,7 @@ date: 2020-08-30 12:29:04
 image: 'https://m.media-amazon.com/images/I/414O8bgX8tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WGQJ5NF-de Vaude Herren Jacke Men s Drop Jacket III Icicle XL 04979'
 sku: 'B07WGQJ5NF-de'
 tags: [  ]

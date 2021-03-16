@@ -5,7 +5,7 @@ date: 2020-09-16 05:46:44
 image: 'https://m.media-amazon.com/images/I/51bE-TObWOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KBR6X2K-de The Verdict Ltd. 2CD Box Set'
 sku: 'B07KBR6X2K-de'
 tags: [  ]

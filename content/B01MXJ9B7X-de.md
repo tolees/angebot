@@ -5,7 +5,7 @@ date: 2020-02-04 14:59:47
 image: 'https://m.media-amazon.com/images/I/413HzRsAU4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXJ9B7X-de Maxi-Cosi CabrioFix Babyschale Gruppe 0+ nutzbar ab der...'
 sku: 'B01MXJ9B7X-de'
 tags: [  ]

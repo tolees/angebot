@@ -5,7 +5,7 @@ date: 2020-08-06 06:40:05
 image: 'https://m.media-amazon.com/images/I/41fxyABmZUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077X5Y2LT-de Wifi Adapter 1200Mbit/s mit 5dBi Antenna Dualband...'
 sku: 'B077X5Y2LT-de'
 tags: [  ]

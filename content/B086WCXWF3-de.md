@@ -5,7 +5,7 @@ date: 2020-09-05 06:55:53
 image: 'https://m.media-amazon.com/images/I/41vnsnJDIdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086WCXWF3-de normani Palettenkissen Set Sofa Sitzkissen mit...'
 sku: 'B086WCXWF3-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-03 12:01:19
 image: 'https://m.media-amazon.com/images/I/41UviQIjvmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X0Y1B2O-de Funko 5897 S1 No POP Vinylfigur Mulan Multi Standard'
 sku: 'B00X0Y1B2O-de'
 tags: [  ]

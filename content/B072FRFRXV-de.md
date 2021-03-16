@@ -5,7 +5,7 @@ date: 2020-10-02 21:23:45
 image: 'https://m.media-amazon.com/images/I/31e291RCITL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072FRFRXV-de ONLY Damen Langarmshirt Onlelcos 4/5 Solid Top Jrs Noos...'
 sku: 'B072FRFRXV-de'
 tags: [  ]

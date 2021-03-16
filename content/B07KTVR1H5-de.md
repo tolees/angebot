@@ -5,7 +5,7 @@ date: 2020-09-21 11:45:51
 image: 'https://m.media-amazon.com/images/I/519El592JDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTVR1H5-de LEGO City 60232 - Große Werkstatt'
 sku: 'B07KTVR1H5-de'
 tags: [  ]

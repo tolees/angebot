@@ -5,7 +5,7 @@ date: 2020-01-20 11:13:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61NZwsJ45XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYRGY7M-de PLAYMOBIL Ghostbusters 9219 Feuerwache Ab 6 Jahren'
 sku: 'B01LYRGY7M-de'
 tags: [  ]

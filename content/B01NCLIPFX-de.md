@@ -5,7 +5,7 @@ date: 2020-03-02 07:24:11
 image: 'https://m.media-amazon.com/images/I/315G4EPGNyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCLIPFX-de Thule Subterra Rolling Duffel 75L Reisetrolley mit zwei...'
 sku: 'B01NCLIPFX-de'
 tags: [  ]

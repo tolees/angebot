@@ -5,7 +5,7 @@ date: 2020-04-15 07:35:02
 image: 'https://m.media-amazon.com/images/I/5137549ZypL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LWZ3LE2-de Die Edelsteintrilogie Rubinrot Saphirblau Smaragdgrün [4...'
 sku: 'B01LWZ3LE2-de'
 tags: [  ]

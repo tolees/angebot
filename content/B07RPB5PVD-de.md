@@ -5,7 +5,7 @@ date: 2020-04-05 05:04:29
 image: 'https://m.media-amazon.com/images/I/41ox2gohpDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RPB5PVD-de Funko 44278 POP NBA: Dallas Mavericks-Kristaps Prozingis...'
 sku: 'B07RPB5PVD-de'
 tags: [  ]

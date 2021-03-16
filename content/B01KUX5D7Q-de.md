@@ -5,7 +5,7 @@ date: 2020-02-19 05:04:33
 image: 'https://m.media-amazon.com/images/I/41kX2XjtU5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KUX5D7Q-de Fossil Herren Chronograph Quarz Uhr mit Leder Armband FS5210'
 sku: 'B01KUX5D7Q-de'
 tags: [  ]

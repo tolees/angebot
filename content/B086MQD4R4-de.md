@@ -5,7 +5,7 @@ date: 2020-08-09 07:04:49
 image: 'https://m.media-amazon.com/images/I/51DcNxcFcaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086MQD4R4-de Tablet 10.1 Zoll 4G LTE Android 9.0 Dual SIM 2 in1 Tablet...'
 sku: 'B086MQD4R4-de'
 tags: [  ]

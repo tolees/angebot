@@ -5,7 +5,7 @@ date: 2020-05-18 10:16:20
 image: 'https://m.media-amazon.com/images/I/4126N5nW+FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QB78VJK-de PUTORSEN® PC Gaming Monitorständer für 17-32 Zoll -...'
 sku: 'B07QB78VJK-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-12 00:18:58
 image: 'https://m.media-amazon.com/images/I/51Bu2GeB52L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W22MPZY-de KINGDUO Update-Tool Für Den Walkera Up02-Transmitter-...'
 sku: 'B07W22MPZY-de'
 tags: [  ]

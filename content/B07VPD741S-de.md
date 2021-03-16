@@ -5,7 +5,7 @@ date: 2020-02-12 12:39:35
 image: 'https://m.media-amazon.com/images/I/519ewdi859L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPD741S-de Xbox One X 1TB - Gears 5 Bundle'
 sku: 'B07VPD741S-de'
 tags: [  ]

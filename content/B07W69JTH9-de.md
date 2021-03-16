@@ -5,7 +5,7 @@ date: 2020-04-18 00:45:52
 image: 'https://m.media-amazon.com/images/I/414CxokPoxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W69JTH9-de Funko 45312 POP Movies: Devil Wears Prada - Andy Sachs...'
 sku: 'B07W69JTH9-de'
 tags: [  ]

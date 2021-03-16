@@ -5,7 +5,7 @@ date: 2020-09-22 07:44:41
 image: 'https://m.media-amazon.com/images/I/41V5ELYF4OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004WG3ZJG-de BIONAIRE BT19-I Turmventilator 40 W Grau'
 sku: 'B004WG3ZJG-de'
 tags: [  ]

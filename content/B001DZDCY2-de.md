@@ -5,7 +5,7 @@ date: 2020-04-18 11:33:21
 image: 'https://m.media-amazon.com/images/I/41eiWzEbsLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001DZDCY2-de Original Motorola Reiselader Netzteil CH700 für Motorola...'
 sku: 'B001DZDCY2-de'
 tags: [  ]

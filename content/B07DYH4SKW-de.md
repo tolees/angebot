@@ -5,7 +5,7 @@ date: 2020-09-11 08:29:55
 image: 'https://m.media-amazon.com/images/I/31dDV91XT6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYH4SKW-de Merrell Damen Vapor Glove 4 Hallenschuhe Blau Velvet...'
 sku: 'B07DYH4SKW-de'
 tags: [  ]

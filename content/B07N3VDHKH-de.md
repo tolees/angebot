@@ -5,7 +5,7 @@ date: 2020-05-03 15:45:19
 image: 'https://m.media-amazon.com/images/I/31Nl41X+LrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3VDHKH-de Acer V6520 DLP Heimkino-Projektor Full HD 1.920 x 1.080...'
 sku: 'B07N3VDHKH-de'
 tags: [  ]

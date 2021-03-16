@@ -5,7 +5,7 @@ date: 2020-02-07 05:02:26
 image: 'https://m.media-amazon.com/images/I/41PoyJs-n0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016BEPP9O-de Kingston DT100G3/128GB DataTraveler 100 G3 USB 3.0 3.1...'
 sku: 'B016BEPP9O-de'
 tags: [  ]

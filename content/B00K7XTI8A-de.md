@@ -5,7 +5,7 @@ date: 2020-04-07 21:13:10
 image: 'https://m.media-amazon.com/images/I/41AOhy4PPHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K7XTI8A-de WENKO Spül-Set Empire Spülmittelspender Spülbürste...'
 sku: 'B00K7XTI8A-de'
 tags: [  ]

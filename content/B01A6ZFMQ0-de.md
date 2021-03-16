@@ -5,7 +5,7 @@ date: 2020-08-28 05:13:43
 image: 'https://m.media-amazon.com/images/I/31BLEca+w5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01A6ZFMQ0-de ONLY Damen Hose Einfarbige L34Black'
 sku: 'B01A6ZFMQ0-de'
 tags: [  ]

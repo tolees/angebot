@@ -5,7 +5,7 @@ date: 2020-08-30 12:32:51
 image: 'https://m.media-amazon.com/images/I/31hSuZC8LgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0711M6FVK-de Under Armour Damen Fly Fast Tight Legging schwarz Black /...'
 sku: 'B0711M6FVK-de'
 tags: [  ]

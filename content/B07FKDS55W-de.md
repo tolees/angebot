@@ -5,7 +5,7 @@ date: 2020-01-19 15:55:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414o6OaWgTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKDS55W-de Nike Unisex-Erwachsene Phantom VSN Academy Dynamic Fit MG...'
 sku: 'B07FKDS55W-de'
 tags: [  ]

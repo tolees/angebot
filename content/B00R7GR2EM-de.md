@@ -5,7 +5,7 @@ date: 2020-02-01 12:36:17
 image: 'https://m.media-amazon.com/images/I/41dXA0HogDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00R7GR2EM-de WOLF-Garten - Rasen-Langzeitdünger »Premium« 120 Tage LE...'
 sku: 'B00R7GR2EM-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 16:20:08
 image: 'https://m.media-amazon.com/images/I/51wJSW75XML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXC2XK1-de Laptop 14.1 Zoll TECLAST F7PLUS Ultrabook Intel Celeron...'
 sku: 'B07TXC2XK1-de'
 tags: [  ]

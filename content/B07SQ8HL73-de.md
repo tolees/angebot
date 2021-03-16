@@ -5,7 +5,7 @@ date: 2020-03-01 12:08:37
 image: 'https://m.media-amazon.com/images/I/51kHa2FG7JL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQ8HL73-de Tronsmart T6 Plus 40W Wireless Outdoor Bluetooth...'
 sku: 'B07SQ8HL73-de'
 tags: [  ]

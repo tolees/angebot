@@ -5,7 +5,7 @@ date: 2020-03-03 03:21:40
 image: 'https://m.media-amazon.com/images/I/410pMckuB9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001CZODGO-de LIQUI MOLY 1515 Marder-Schutz-Spray 200 ml'
 sku: 'B001CZODGO-de'
 tags: [  ]

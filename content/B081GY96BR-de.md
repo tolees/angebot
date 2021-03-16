@@ -5,7 +5,7 @@ date: 2020-05-08 08:12:16
 image: 'https://m.media-amazon.com/images/I/31JC0zn3FTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081GY96BR-de Susan Y muttertagsgeschenke ideen ohrringe silber 925...'
 sku: 'B081GY96BR-de'
 tags: [  ]

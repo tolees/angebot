@@ -5,7 +5,7 @@ date: 2020-03-11 04:57:06
 image: 'https://m.media-amazon.com/images/I/41jlt2ODiaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G2QRLBP-de Reusch Primus R-TEX XT Handschuhe Black/Black Melange 8'
 sku: 'B07G2QRLBP-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-16 09:07:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31xGe%2BOOiGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FZ4P5KR-de Tado Smartes Heizkörper-Thermostat Duo Pack Zusatzprodukte...'
 sku: 'B07FZ4P5KR-de'
 tags: [  ]

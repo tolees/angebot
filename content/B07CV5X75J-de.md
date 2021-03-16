@@ -5,7 +5,7 @@ date: 2020-03-11 04:56:51
 image: 'https://m.media-amazon.com/images/I/411BfdKVCFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CV5X75J-de VAUDE Rucksäcke20-29L Aspe 17l ecru 17 129215140'
 sku: 'B07CV5X75J-de'
 tags: [  ]

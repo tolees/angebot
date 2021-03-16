@@ -5,7 +5,7 @@ date: 2020-03-03 04:55:27
 image: 'https://m.media-amazon.com/images/I/41AHVV-rHxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CWTFMH-de waytoplay 24 Autobahn Building Set Schwarz mit Weiß Striping'
 sku: 'B076CWTFMH-de'
 tags: [  ]

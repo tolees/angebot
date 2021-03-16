@@ -5,7 +5,7 @@ date: 2020-08-20 21:19:10
 image: 'https://m.media-amazon.com/images/I/51hWnYEm4hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Z81HSX-de Cars 1 + Cars 2 + Cars 3 [3 DVDs]'
 sku: 'B077Z81HSX-de'
 tags: [  ]

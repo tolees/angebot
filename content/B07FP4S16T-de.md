@@ -5,7 +5,7 @@ date: 2020-05-20 06:45:41
 image: 'https://m.media-amazon.com/images/I/41HgxLy9HWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP4S16T-de Puma Herren Carson 2 Knit NM Laufschuhe Black Black 44.5 EU'
 sku: 'B07FP4S16T-de'
 tags: [  ]

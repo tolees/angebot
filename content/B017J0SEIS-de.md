@@ -5,7 +5,7 @@ date: 2020-04-09 15:34:41
 image: 'https://m.media-amazon.com/images/I/318hKpTG0NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017J0SEIS-de Mousehouse Gifts Holzspielzeug Eulen Werkzeugkasten für...'
 sku: 'B017J0SEIS-de'
 tags: [  ]

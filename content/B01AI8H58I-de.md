@@ -5,7 +5,7 @@ date: 2020-03-30 14:59:49
 image: 'https://m.media-amazon.com/images/I/51QNUFrUb2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AI8H58I-de Nikon AF-P DX Nikkor 18-55 mm f/3.5-5.6G VR Zoomobjektiv'
 sku: 'B01AI8H58I-de'
 tags: [  ]

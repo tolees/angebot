@@ -5,7 +5,7 @@ date: 2020-03-05 02:32:56
 image: 'https://m.media-amazon.com/images/I/415pEoWPT6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ON4EZSM-de Funko 5100 No POP Vinylfigur: Supernatural: Crowley'
 sku: 'B00ON4EZSM-de'
 tags: [  ]

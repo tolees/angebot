@@ -5,7 +5,7 @@ date: 2020-01-24 11:52:04
 image: 'https://m.media-amazon.com/images/I/312XDM+HmUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MST9Y5K-de Razer Kraken - Gaming Headset mit Kühlenden Gel-...'
 sku: 'B07MST9Y5K-de'
 tags: [  ]

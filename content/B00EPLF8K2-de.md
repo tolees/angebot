@@ -5,7 +5,7 @@ date: 2020-04-25 06:10:00
 image: 'https://m.media-amazon.com/images/I/317zVHLgFzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EPLF8K2-de SET-ERGÄNZUNG Gigaset Fenstersensor – für große und kleine...'
 sku: 'B00EPLF8K2-de'
 tags: [  ]

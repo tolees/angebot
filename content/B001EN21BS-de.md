@@ -5,7 +5,7 @@ date: 2020-02-29 04:42:16
 image: 'https://m.media-amazon.com/images/I/416F+f6olVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001EN21BS-de Stanley Legendary Classic Vakuum-Thermoskanne 1.9 Liter...'
 sku: 'B001EN21BS-de'
 tags: [  ]

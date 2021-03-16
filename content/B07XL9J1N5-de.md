@@ -5,7 +5,7 @@ date: 2020-03-13 17:25:57
 image: 'https://m.media-amazon.com/images/I/21lj1K12xaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XL9J1N5-de Krups Nespresso XN110E Essenza Mini kompakte Kaffee-...'
 sku: 'B07XL9J1N5-de'
 tags: [  ]

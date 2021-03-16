@@ -5,7 +5,7 @@ date: 2020-04-15 15:32:15
 image: 'https://m.media-amazon.com/images/I/512825CBKcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQGKFPJ-de FURREAL Friends E4649EU4 FurReal Hector Mein Wachhund-...'
 sku: 'B07KQGKFPJ-de'
 tags: [  ]

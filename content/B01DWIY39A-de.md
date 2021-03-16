@@ -5,7 +5,7 @@ date: 2020-03-01 12:26:37
 image: 'https://m.media-amazon.com/images/I/41cFpVc6dqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DWIY39A-de Garmin Forerunner 735XT-GPS-Uhr schwarz/grau M 010-01614-06'
 sku: 'B01DWIY39A-de'
 tags: [  ]

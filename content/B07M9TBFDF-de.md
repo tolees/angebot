@@ -5,7 +5,7 @@ date: 2020-02-04 20:21:00
 image: 'https://m.media-amazon.com/images/I/51u8NVsn4RL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M9TBFDF-de Converse Cross Body 2 10008299-A02 Sporttasche 22 cm 4 L Red'
 sku: 'B07M9TBFDF-de'
 tags: [  ]

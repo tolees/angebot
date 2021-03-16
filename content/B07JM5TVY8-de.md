@@ -5,7 +5,7 @@ date: 2020-01-26 15:53:47
 image: 'https://m.media-amazon.com/images/I/41iqYn2RHLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JM5TVY8-de QARFEE - Universal 128GB Flash Drive LUV-Share USB Stick...'
 sku: 'B07JM5TVY8-de'
 tags: [  ]

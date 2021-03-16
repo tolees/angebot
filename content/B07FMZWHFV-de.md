@@ -5,7 +5,7 @@ date: 2020-01-17 15:18:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41RpUdjPPYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FMZWHFV-de De Longhi EDG736.RM | NESCAFÉ Dolce Gusto Eclipse | Kapsel...'
 sku: 'B07FMZWHFV-de'
 tags: [  ]

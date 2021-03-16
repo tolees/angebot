@@ -5,7 +5,7 @@ date: 2020-04-07 21:43:02
 image: 'https://m.media-amazon.com/images/I/41KYRFSkbFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FWMHLV1-de Mattel GDP85 - Disney Pixar Toy Story 4 Buzz Lightyear...'
 sku: 'B07FWMHLV1-de'
 tags: [  ]

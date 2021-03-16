@@ -5,7 +5,7 @@ date: 2020-07-08 17:31:28
 image: 'https://m.media-amazon.com/images/I/41KqhLS7LBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D8OHJAO-de Steiff Schlaf Gut Bär Schmusetuch - 30 cm - Kuscheltuch...'
 sku: 'B00D8OHJAO-de'
 tags: [  ]

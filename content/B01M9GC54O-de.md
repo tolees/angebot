@@ -5,7 +5,7 @@ date: 2020-03-12 09:47:50
 image: 'https://m.media-amazon.com/images/I/41pyTA-gw0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M9GC54O-de BOSS Herren RN 2P CO/EL T-Shirts Schwarz Black 1 Small 2er...'
 sku: 'B01M9GC54O-de'
 tags: [  ]

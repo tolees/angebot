@@ -5,7 +5,7 @@ date: 2020-10-12 06:10:37
 image: 'https://m.media-amazon.com/images/I/41Rb9QKQDzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0899Z2PPF-de Controller für Nintendo Switch 6-Achsen Einstellbarem...'
 sku: 'B0899Z2PPF-de'
 tags: [  ]

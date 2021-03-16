@@ -5,7 +5,7 @@ date: 2020-01-19 18:26:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CLXqJzFPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081RGXLQC-de ELEGIANT Bluetooth Kopfhörer kabellos in Ear Ohrhörer...'
 sku: 'B081RGXLQC-de'
 tags: [  ]

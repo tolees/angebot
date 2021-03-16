@@ -5,7 +5,7 @@ date: 2020-03-02 18:27:40
 image: 'https://m.media-amazon.com/images/I/41r0FgR5EyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071DN9XKW-de Pioneer 5.1 Kanal AV Receiver VSX-832-S Hifi Verstärker...'
 sku: 'B071DN9XKW-de'
 tags: [  ]

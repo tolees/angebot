@@ -5,7 +5,7 @@ date: 2020-03-23 21:14:46
 image: 'https://m.media-amazon.com/images/I/51nmcrzkGUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5HCC1X-de Playmobil 70165 1.2.3. Baukran ab 18 Monaten bunt one Size'
 sku: 'B07P5HCC1X-de'
 tags: [  ]

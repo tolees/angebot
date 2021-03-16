@@ -5,7 +5,7 @@ date: 2020-04-25 11:00:38
 image: 'https://m.media-amazon.com/images/I/31b0pXySDjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PAKXL3S-de Stereo Gaming Headset Dual Format PS4/PSVita-weiss'
 sku: 'B00PAKXL3S-de'
 tags: [  ]

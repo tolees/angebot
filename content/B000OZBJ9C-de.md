@@ -5,7 +5,7 @@ date: 2020-04-15 23:53:35
 image: 'https://m.media-amazon.com/images/I/4197M0ePeWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000OZBJ9C-de Park Tool Mini-Faltwerkzeug IB-3 I-Beam g 4000840'
 sku: 'B000OZBJ9C-de'
 tags: [  ]

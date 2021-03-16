@@ -5,7 +5,7 @@ date: 2020-08-10 18:21:20
 image: 'https://m.media-amazon.com/images/I/41jXK6e9IfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R4MLSX2-de ORICO Aluminium M.2 NVMe SSD Gehäuse Ultraflacher M-Key...'
 sku: 'B07R4MLSX2-de'
 tags: [  ]

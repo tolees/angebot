@@ -5,7 +5,7 @@ date: 2020-02-09 22:38:20
 image: 'https://m.media-amazon.com/images/I/41u-zXCm94L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00N4YA38I-de Technoline Miss Ticki Wecker Bunt'
 sku: 'B00N4YA38I-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-12 12:43:59
 image: 'https://m.media-amazon.com/images/I/41SJAzo3K3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0148NMVQA-de Philips Hue LightStrip+ Basis Set ohne Bridge 2m flexibel...'
 sku: 'B0148NMVQA-de'
 tags: [  ]

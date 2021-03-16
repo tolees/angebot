@@ -5,7 +5,7 @@ date: 2020-10-01 05:53:31
 image: 'https://m.media-amazon.com/images/I/41LGKwyVmRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0189KQW6I-de mecablitz 44 AF-2 für Sony Kameras DSLR und CSC |...'
 sku: 'B0189KQW6I-de'
 tags: [  ]

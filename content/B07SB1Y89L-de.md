@@ -5,7 +5,7 @@ date: 2020-04-18 00:40:34
 image: 'https://m.media-amazon.com/images/I/41N3Dj+P+qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SB1Y89L-de OMEN 17-cb0221ng 17 3 Zoll / FHD IPS 144Hz Gaming Laptop...'
 sku: 'B07SB1Y89L-de'
 tags: [  ]

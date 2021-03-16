@@ -5,7 +5,7 @@ date: 2020-03-27 21:10:01
 image: 'https://m.media-amazon.com/images/I/612rpYQtWQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMCC38B-de PLAYMOBIL 70039 - DreamWorks Dragons Todbringer und...'
 sku: 'B07JMCC38B-de'
 tags: [  ]

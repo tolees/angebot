@@ -5,7 +5,7 @@ date: 2020-09-24 19:41:59
 image: 'https://m.media-amazon.com/images/I/31Di4aVRskL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ8X3J4-de Luftentfeuchter Elektrisch 1200ml Geringer...'
 sku: 'B08DJ8X3J4-de'
 tags: [  ]

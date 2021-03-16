@@ -5,7 +5,7 @@ date: 2020-03-04 11:58:46
 image: 'https://m.media-amazon.com/images/I/31IUKMKkoXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4ND86P-de TP-Link Deco P7 Powerline WLAN Mesh Set 1300Mbits +...'
 sku: 'B07G4ND86P-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-22 15:57:23
 image: 'https://m.media-amazon.com/images/I/41tlJ7OrgmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BK1KYDR-de Muzili Fitness Armband Wasserdicht Fitness Tracker Sport...'
 sku: 'B07BK1KYDR-de'
 tags: [  ]

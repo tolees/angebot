@@ -5,7 +5,7 @@ date: 2020-02-08 04:40:42
 image: 'https://m.media-amazon.com/images/I/41e-Pi5MWsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007NM84PQ-de Fossil Damen Analog Quarz Uhr mit Edelstahl Armband ES3020'
 sku: 'B007NM84PQ-de'
 tags: [  ]

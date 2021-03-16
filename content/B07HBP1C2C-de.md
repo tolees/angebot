@@ -5,7 +5,7 @@ date: 2020-04-22 06:54:12
 image: 'https://m.media-amazon.com/images/I/51aEaDIrljL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HBP1C2C-de Apple iPhone XS 64GB - Silber'
 sku: 'B07HBP1C2C-de'
 tags: [  ]

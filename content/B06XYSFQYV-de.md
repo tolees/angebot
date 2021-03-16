@@ -5,7 +5,7 @@ date: 2020-04-13 16:05:59
 image: 'https://m.media-amazon.com/images/I/51EagkTgLRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XYSFQYV-de Hasbro Star Wars C1428EU4 - Episode 8 Kylo Ren...'
 sku: 'B06XYSFQYV-de'
 tags: [  ]

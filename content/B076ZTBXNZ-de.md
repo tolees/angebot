@@ -5,7 +5,7 @@ date: 2020-05-29 07:17:32
 image: 'https://m.media-amazon.com/images/I/41dLtJIsARL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076ZTBXNZ-de Belkin ScreenForce TemperedCurve Displayschutz geeignet...'
 sku: 'B076ZTBXNZ-de'
 tags: [  ]

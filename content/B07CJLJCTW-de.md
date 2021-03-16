@@ -5,7 +5,7 @@ date: 2020-09-26 01:47:50
 image: 'https://m.media-amazon.com/images/I/41DcMEtMvbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CJLJCTW-de ONLY Damen Onltahoe Hood Jacket Otw Noos Jacke Schwarz...'
 sku: 'B07CJLJCTW-de'
 tags: [  ]

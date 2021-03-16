@@ -5,7 +5,7 @@ date: 2020-03-07 05:06:17
 image: 'https://m.media-amazon.com/images/I/51Cp35s5Y2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K9BSBLE-de Hugo BOSS Herren-Armbanduhr 1513440 Stahl/Grau'
 sku: 'B01K9BSBLE-de'
 tags: [  ]

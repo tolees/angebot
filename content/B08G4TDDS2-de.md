@@ -5,7 +5,7 @@ date: 2020-09-21 19:22:43
 image: 'https://m.media-amazon.com/images/I/41kU5JxElUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G4TDDS2-de Sensor Seifenspender 400ml Berührungsloser Infrared Sensor...'
 sku: 'B08G4TDDS2-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-15 15:27:48
 image: 'https://m.media-amazon.com/images/I/51zLhwT7IXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01608LMSY-de Playmobil 6970 - Schmück-Pony Sternchen'
 sku: 'B01608LMSY-de'
 tags: [  ]

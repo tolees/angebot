@@ -5,7 +5,7 @@ date: 2020-10-06 12:17:25
 image: 'https://m.media-amazon.com/images/I/418UGddNsTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C07NJMM-de Sanpellegrino | Orangen Limonade | Aranciata | Hoher...'
 sku: 'B00C07NJMM-de'
 tags: [  ]

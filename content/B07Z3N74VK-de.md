@@ -5,7 +5,7 @@ date: 2020-06-11 23:33:50
 image: 'https://m.media-amazon.com/images/I/51I7uWUfmlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z3N74VK-de SNAPTAIN SP300 Drohne mit Blaue LED RC Quadrocopter mit 3...'
 sku: 'B07Z3N74VK-de'
 tags: [  ]

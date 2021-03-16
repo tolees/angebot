@@ -5,7 +5,7 @@ date: 2020-08-30 23:48:26
 image: 'https://m.media-amazon.com/images/I/41gKjJG0uvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TS8NT4T-de Funko 45009 POP Marvel: Fantastic Four - Galactus...'
 sku: 'B07TS8NT4T-de'
 tags: [  ]

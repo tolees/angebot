@@ -5,7 +5,7 @@ date: 2020-04-08 13:21:48
 image: 'https://m.media-amazon.com/images/I/41zv+UpMk7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008V8ISEI-de Villeroy & Boch Toy s Delight Rotes "Breakfast for Two"...'
 sku: 'B008V8ISEI-de'
 tags: [  ]

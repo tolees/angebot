@@ -5,7 +5,7 @@ date: 2020-05-27 08:11:50
 image: 'https://m.media-amazon.com/images/I/51m0x1g5BAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072R4BL6S-de Logitech MEETUP Zusatzmikrofon Breitband-Audio mit...'
 sku: 'B072R4BL6S-de'
 tags: [  ]

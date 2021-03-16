@@ -5,7 +5,7 @@ date: 2020-09-21 11:52:30
 image: 'https://m.media-amazon.com/images/I/41ioFqO-cGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BCCST7K-de B.K.Licht I LED Deckenleuchte I Schwenkbar I Inkl. 2x 3W...'
 sku: 'B01BCCST7K-de'
 tags: [  ]

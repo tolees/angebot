@@ -5,7 +5,7 @@ date: 2020-01-29 03:36:18
 image: 'https://m.media-amazon.com/images/I/31icw2Kah-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N1Z6WAA-de Xoro SAT>IP Server 8100 4X DVB-S2 Eingänge maximal 8...'
 sku: 'B01N1Z6WAA-de'
 tags: [  ]

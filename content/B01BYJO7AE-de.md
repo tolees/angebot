@@ -5,7 +5,7 @@ date: 2020-01-20 20:37:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31LsUXq%2Bk6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BYJO7AE-de American Tourister Bon Air Spinner L Koffer 75 cm 91 L...'
 sku: 'B01BYJO7AE-de'
 tags: [  ]

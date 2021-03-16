@@ -5,7 +5,7 @@ date: 2020-05-15 17:03:19
 image: 'https://m.media-amazon.com/images/I/51yFm+oJPaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PY5BFHL-de LG 60UM71007LB 151 cm 60 Zoll Fernseher UHD Triple Tuner...'
 sku: 'B07PY5BFHL-de'
 tags: [  ]

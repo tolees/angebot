@@ -5,7 +5,7 @@ date: 2020-10-09 03:46:13
 image: 'https://m.media-amazon.com/images/I/31TMPImbGLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TQPUAYG-de FORTE Kompaktgarderobe inklusive Spiegel Sandeiche Dekor...'
 sku: 'B00TQPUAYG-de'
 tags: [  ]

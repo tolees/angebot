@@ -5,7 +5,7 @@ date: 2020-03-23 05:06:38
 image: 'https://m.media-amazon.com/images/I/41-silsxUhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073ZDGXJF-de Remington Ionen-Haartrockner Keratin Protect AC8002 2200...'
 sku: 'B073ZDGXJF-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-15 13:52:20
 image: 'https://m.media-amazon.com/images/I/413d+is-fJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X93DWV9-de Victure 1080P WLAN IP Kamera Überwachungskamera Aussen PIR...'
 sku: 'B07X93DWV9-de'
 tags: [  ]

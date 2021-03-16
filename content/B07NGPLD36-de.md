@@ -5,7 +5,7 @@ date: 2020-04-28 06:22:26
 image: 'https://m.media-amazon.com/images/I/31sZehYLLXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGPLD36-de Lioncast LM40 WL Wireless Gaming Maus für kabelloses...'
 sku: 'B07NGPLD36-de'
 tags: [  ]

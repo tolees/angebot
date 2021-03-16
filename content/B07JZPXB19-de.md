@@ -5,7 +5,7 @@ date: 2020-08-25 23:17:45
 image: 'https://m.media-amazon.com/images/I/31D6-oduJ6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZPXB19-de adidas Herren Forest Grove Fitnessschuhe Blau Collegiate...'
 sku: 'B07JZPXB19-de'
 tags: [  ]

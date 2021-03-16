@@ -5,7 +5,7 @@ date: 2020-01-16 06:11:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51tvV4a2R7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0767DNHKL-de Playmobil 9334 - Sheriff'
 sku: 'B0767DNHKL-de'
 tags: [  ]

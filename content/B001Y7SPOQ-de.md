@@ -5,7 +5,7 @@ date: 2020-10-11 20:06:10
 image: 'https://m.media-amazon.com/images/I/61PRNWuvivL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001Y7SPOQ-de Radio Rock Revolution The Boat That Rocked'
 sku: 'B001Y7SPOQ-de'
 tags: [  ]

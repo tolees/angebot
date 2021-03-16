@@ -5,7 +5,7 @@ date: 2020-09-29 06:17:48
 image: 'https://m.media-amazon.com/images/I/41m2WX5r66L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N8U4DEJ-de Duronic VC8 /BK beutelloser Staubsauger | 800 Watt |...'
 sku: 'B01N8U4DEJ-de'
 tags: [  ]

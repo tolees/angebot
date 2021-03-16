@@ -5,7 +5,7 @@ date: 2020-01-22 04:33:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zd6ryhS-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D0YL7AO-de Pica Marker Dry Longlife Automatic Pen 3030 + 10 St....'
 sku: 'B01D0YL7AO-de'
 tags: [  ]

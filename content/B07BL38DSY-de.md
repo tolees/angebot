@@ -5,7 +5,7 @@ date: 2020-09-22 01:43:15
 image: 'https://m.media-amazon.com/images/I/412kjS1+KVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BL38DSY-de New Balance Herren 997H Core Trainers Grau Marblehead 43.5 EU'
 sku: 'B07BL38DSY-de'
 tags: [  ]

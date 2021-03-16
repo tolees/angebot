@@ -5,7 +5,7 @@ date: 2020-03-18 14:41:08
 image: 'https://m.media-amazon.com/images/I/41dQLkCasDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCSPMZ7-de Napapijri Herren Aric Jacke Blau BLU Marine 176...'
 sku: 'B07MCSPMZ7-de'
 tags: [  ]

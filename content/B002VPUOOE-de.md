@@ -5,7 +5,7 @@ date: 2020-01-21 04:50:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41LG%2B0LU2NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002VPUOOE-de Johnnie Walker Red Label Blended Scotch Whisky - Rauchige...'
 sku: 'B002VPUOOE-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-09 04:45:57
 image: 'https://m.media-amazon.com/images/I/41wi5RoUefL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073TW9VCV-de Nachttischlampe mit Bluetooth Lautsprecher ELEPOWSTAR LED...'
 sku: 'B073TW9VCV-de'
 tags: [  ]

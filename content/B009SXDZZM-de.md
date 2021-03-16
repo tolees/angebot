@@ -5,7 +5,7 @@ date: 2020-03-06 20:35:52
 image: 'https://m.media-amazon.com/images/I/41o0fdvQ9oL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009SXDZZM-de Kamerahalter Halter Halterung Eye Stand für PS3 Kamera'
 sku: 'B009SXDZZM-de'
 tags: [  ]

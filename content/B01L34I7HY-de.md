@@ -5,7 +5,7 @@ date: 2020-03-12 09:19:36
 image: 'https://m.media-amazon.com/images/I/31W3yU-KyBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L34I7HY-de Sony Xperia X Compact Smartphone 11 7 cm 4 6 Zoll 32 GB...'
 sku: 'B01L34I7HY-de'
 tags: [  ]

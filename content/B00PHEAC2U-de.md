@@ -5,7 +5,7 @@ date: 2020-04-16 08:15:14
 image: 'https://m.media-amazon.com/images/I/51UCOhz4k4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PHEAC2U-de caseable Kindle und Kindle Paperwhite Hülle Dialogue with...'
 sku: 'B00PHEAC2U-de'
 tags: [  ]

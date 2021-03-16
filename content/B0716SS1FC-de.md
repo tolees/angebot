@@ -5,7 +5,7 @@ date: 2020-08-22 07:40:54
 image: 'https://m.media-amazon.com/images/I/31NixaJhmbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0716SS1FC-de Merry Style Mädchen Lange Leggings aus Viskose MS10-130...'
 sku: 'B0716SS1FC-de'
 tags: [  ]

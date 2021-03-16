@@ -5,7 +5,7 @@ date: 2020-03-04 02:55:46
 image: 'https://m.media-amazon.com/images/I/51rNEBLy9hL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081RDKS3F-de BRIKSMAX Led Beleuchtungsset für Lego Technic...'
 sku: 'B081RDKS3F-de'
 tags: [  ]

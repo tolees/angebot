@@ -5,7 +5,7 @@ date: 2020-04-13 06:49:14
 image: 'https://m.media-amazon.com/images/I/51t9poOATPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HBCSYLL-de Apple iPhone XS 512 GB - Space Grau'
 sku: 'B07HBCSYLL-de'
 tags: [  ]

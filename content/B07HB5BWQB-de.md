@@ -5,7 +5,7 @@ date: 2020-04-07 21:40:27
 image: 'https://m.media-amazon.com/images/I/410fET6MCNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HB5BWQB-de OFFICE-Partner 5 XXL Druckerpatronen kompatibel zu Canon...'
 sku: 'B07HB5BWQB-de'
 tags: [  ]

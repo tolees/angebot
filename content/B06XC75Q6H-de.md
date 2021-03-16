@@ -5,7 +5,7 @@ date: 2020-02-21 18:24:31
 image: 'https://m.media-amazon.com/images/I/31XrZ9XWJRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XC75Q6H-de Samsung Tablet Tasche EF-BT820PBEGWW Book Hülle leichteres...'
 sku: 'B06XC75Q6H-de'
 tags: [  ]

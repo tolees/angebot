@@ -5,7 +5,7 @@ date: 2020-02-13 17:49:05
 image: 'https://m.media-amazon.com/images/I/31DmtUm9VeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071W8DLMR-de Netgear RR230400-100NES Ready-NAS Network Attached Storage'
 sku: 'B071W8DLMR-de'
 tags: [  ]

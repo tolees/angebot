@@ -5,7 +5,7 @@ date: 2020-07-22 12:47:54
 image: 'https://m.media-amazon.com/images/I/41vRMM7kHDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P9BLDKR-de Amazon Echo 3. Generation smarter Lautsprecher mit Alexa...'
 sku: 'B07P9BLDKR-de'
 tags: [  ]

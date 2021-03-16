@@ -5,7 +5,7 @@ date: 2020-04-11 16:06:33
 image: 'https://m.media-amazon.com/images/I/41Olzw7udpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CU0CM7G-de Naipo Schulter Massagegerät Elektrisch für Nacken Rücken...'
 sku: 'B01CU0CM7G-de'
 tags: [  ]

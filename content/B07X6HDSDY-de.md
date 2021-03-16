@@ -5,7 +5,7 @@ date: 2020-03-22 13:33:47
 image: 'https://m.media-amazon.com/images/I/41I7u9kaSUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X6HDSDY-de HyperX HX-HSCAS-BL/WW Cloud Alpha S - Gaming Headset mit...'
 sku: 'B07X6HDSDY-de'
 tags: [  ]

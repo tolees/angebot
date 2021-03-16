@@ -5,7 +5,7 @@ date: 2020-05-19 20:44:15
 image: 'https://m.media-amazon.com/images/I/31fJtGWfzYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IM9WAGM-de TechniSat Z-Wave Innenkamera 1 Smart Home Kamera...'
 sku: 'B01IM9WAGM-de'
 tags: [  ]

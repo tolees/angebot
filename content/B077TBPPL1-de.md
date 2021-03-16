@@ -5,7 +5,7 @@ date: 2020-10-11 02:06:11
 image: 'https://m.media-amazon.com/images/I/31C-8UJsyDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077TBPPL1-de Fossil Damen-Kette ohne Anhänger Edelstahl JF02856998'
 sku: 'B077TBPPL1-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 08:01:02
 image: 'https://m.media-amazon.com/images/I/31xS7TMhnGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SNHPT6C-de SS&LL La basura del paso Puede Cubos de basura Con Tapas...'
 sku: 'B07SNHPT6C-de'
 tags: [  ]

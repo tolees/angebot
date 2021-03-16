@@ -5,7 +5,7 @@ date: 2020-09-16 06:19:15
 image: 'https://m.media-amazon.com/images/I/51wCtDQSRiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WYH5T52-de WarGroove: Deluxe Edition - [Nintendo Switch]'
 sku: 'B07WYH5T52-de'
 tags: [  ]

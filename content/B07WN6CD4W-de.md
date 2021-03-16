@@ -5,7 +5,7 @@ date: 2020-04-07 21:31:43
 image: 'https://m.media-amazon.com/images/I/41SZT1YmzwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WN6CD4W-de Vige 25 Pares Herramienta de reparación de almohadillas de...'
 sku: 'B07WN6CD4W-de'
 tags: [  ]

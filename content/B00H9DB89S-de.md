@@ -5,7 +5,7 @@ date: 2020-10-03 11:04:06
 image: 'https://m.media-amazon.com/images/I/41OOJcNLmBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H9DB89S-de VAUDE Kappe UV Cap black L 049880105400'
 sku: 'B00H9DB89S-de'
 tags: [  ]

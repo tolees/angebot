@@ -5,7 +5,7 @@ date: 2020-07-24 17:56:51
 image: 'https://m.media-amazon.com/images/I/31iSOHmlSvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003PAKGZG-de keeeper Ordnungssystem 30x8 Polypropylen Silber 30 x 8 x 5 cm'
 sku: 'B003PAKGZG-de'
 tags: [  ]

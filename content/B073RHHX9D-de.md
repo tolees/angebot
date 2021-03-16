@@ -5,7 +5,7 @@ date: 2020-09-26 04:13:46
 image: 'https://m.media-amazon.com/images/I/41YAfu7zaAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RHHX9D-de adidas Herren Terrex Swift R2 Mid GTX Trekking-&...'
 sku: 'B073RHHX9D-de'
 tags: [  ]

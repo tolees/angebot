@@ -5,7 +5,7 @@ date: 2020-01-20 04:36:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51GdSNWyQWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KGTVZY0-de Fossil Damen-Uhren ES3625'
 sku: 'B00KGTVZY0-de'
 tags: [  ]

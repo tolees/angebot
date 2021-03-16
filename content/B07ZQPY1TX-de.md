@@ -5,7 +5,7 @@ date: 2020-03-01 04:52:59
 image: 'https://m.media-amazon.com/images/I/51MlmbB2mhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZQPY1TX-de Pegasus Spiele 51310G - Der Kartograph'
 sku: 'B07ZQPY1TX-de'
 tags: [  ]

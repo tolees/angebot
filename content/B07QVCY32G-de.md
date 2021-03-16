@@ -5,7 +5,7 @@ date: 2020-04-10 00:02:39
 image: 'https://m.media-amazon.com/images/I/51AA4k+Cg+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QVCY32G-de Miniart Crafts Perlenstickerei-Set mehrfarbig 30 x 30 cm'
 sku: 'B07QVCY32G-de'
 tags: [  ]

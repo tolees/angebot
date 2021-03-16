@@ -5,7 +5,7 @@ date: 2020-02-29 19:18:20
 image: 'https://m.media-amazon.com/images/I/4188lo5UtTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ARAUS3M-de Bosch Professional 18V System Akku GBA 18V 4.0Ah'
 sku: 'B00ARAUS3M-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-16 08:44:56
 image: 'https://m.media-amazon.com/images/I/414+qqfM37L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KZJW9DT-de Fire 7-Tablet Zertifiziert und generalüberholt 7-Zoll-...'
 sku: 'B07KZJW9DT-de'
 tags: [  ]

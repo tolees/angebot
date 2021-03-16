@@ -5,7 +5,7 @@ date: 2020-01-07 16:22:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Kz8KQTPtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HH9QAT2-de Kärcher Hochdruckreiniger K 2 Basic Druck:110 bar...'
 sku: 'B00HH9QAT2-de'
 tags: [  ]

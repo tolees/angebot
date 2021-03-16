@@ -5,7 +5,7 @@ date: 2020-04-11 16:12:48
 image: 'https://m.media-amazon.com/images/I/41uOPfoox2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J90OOIA-de Fire 7-Tablet 16 GB Schwarz mit Spezialangeboten vorherige...'
 sku: 'B01J90OOIA-de'
 tags: [  ]

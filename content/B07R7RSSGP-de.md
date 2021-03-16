@@ -5,7 +5,7 @@ date: 2020-04-08 22:00:12
 image: 'https://m.media-amazon.com/images/I/61WzFbGVy4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R7RSSGP-de Crystal Art CAK-XLED8 LED Kits Multicolor'
 sku: 'B07R7RSSGP-de'
 tags: [  ]

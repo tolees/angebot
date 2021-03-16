@@ -5,7 +5,7 @@ date: 2020-09-18 05:59:40
 image: 'https://m.media-amazon.com/images/I/51oGEBAtzQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IEBAN6S-de TOTO: 35th Anniversary Tour-Live in Poland [Blu-ray]'
 sku: 'B00IEBAN6S-de'
 tags: [  ]

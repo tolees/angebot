@@ -5,7 +5,7 @@ date: 2020-02-17 17:19:46
 image: 'https://m.media-amazon.com/images/I/41YlO5rgSmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N3MBSCJ-de AMD – FirePro Radeon Pro WX 5100 8 GB PCIe 3.0 16 x 4 x DP...'
 sku: 'B01N3MBSCJ-de'
 tags: [  ]

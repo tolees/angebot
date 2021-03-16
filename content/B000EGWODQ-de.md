@@ -5,7 +5,7 @@ date: 2020-03-15 04:42:09
 image: 'https://m.media-amazon.com/images/I/41egpESCPtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000EGWODQ-de Varta V381 Knopfzelle 45mAh 1 Stück'
 sku: 'B000EGWODQ-de'
 tags: [  ]

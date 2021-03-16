@@ -5,7 +5,7 @@ date: 2020-03-01 20:09:57
 image: 'https://m.media-amazon.com/images/I/51svYrNzvxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFLVS5K-de HANPURE Bluetooth Mütze Damen & Herren Geschenke Bluetooth...'
 sku: 'B07VFLVS5K-de'
 tags: [  ]

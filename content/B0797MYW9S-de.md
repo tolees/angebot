@@ -5,7 +5,7 @@ date: 2020-03-12 10:31:21
 image: 'https://m.media-amazon.com/images/I/41TBGrbiG9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797MYW9S-de Funko 29526 IT 2017 S2 Pennywise Actionfigur...'
 sku: 'B0797MYW9S-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-19 00:46:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31zgtttyqDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BZTZC6R-de Yamaha P-125B Digital Piano schwarz - - Kompaktes...'
 sku: 'B07BZTZC6R-de'
 tags: [  ]

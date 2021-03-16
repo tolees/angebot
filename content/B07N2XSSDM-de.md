@@ -5,7 +5,7 @@ date: 2020-04-18 00:31:54
 image: 'https://m.media-amazon.com/images/I/41LKfDktIWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N2XSSDM-de SID & VAIN Laptop Messenger Bag echt Leder Spencer XL groß...'
 sku: 'B07N2XSSDM-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-05 13:05:00
 image: 'https://m.media-amazon.com/images/I/516-io6HmKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NARCK9H-de SuSenGo Titanic Bausteinsatz 1021 Stück Ziegel für Kinder'
 sku: 'B01NARCK9H-de'
 tags: [  ]

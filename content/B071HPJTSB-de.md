@@ -5,7 +5,7 @@ date: 2020-09-25 19:50:27
 image: 'https://m.media-amazon.com/images/I/31Spnll3CtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071HPJTSB-de Tommy Hilfiger Herren CORE Stretch Slim Vneck Tee T-Shirt...'
 sku: 'B071HPJTSB-de'
 tags: [  ]

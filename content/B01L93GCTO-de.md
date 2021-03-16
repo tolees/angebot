@@ -5,7 +5,7 @@ date: 2020-04-17 23:57:46
 image: 'https://m.media-amazon.com/images/I/41ESAgBa9pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L93GCTO-de Hasbro B7493EU00 - Star Wars Rogue One Interaktiver Droid...'
 sku: 'B01L93GCTO-de'
 tags: [  ]

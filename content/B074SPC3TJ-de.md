@@ -5,7 +5,7 @@ date: 2020-05-14 06:52:20
 image: 'https://m.media-amazon.com/images/I/51QdDqUzuuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074SPC3TJ-de Philips Star Wars Special Edition Nass-und Trockenrasierer...'
 sku: 'B074SPC3TJ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-17 09:21:44
 image: 'https://m.media-amazon.com/images/I/31vwUAAQ0sL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000LAX6RI-de Nokia ACP-12E Reiseladegerät'
 sku: 'B000LAX6RI-de'
 tags: [  ]

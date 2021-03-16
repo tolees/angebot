@@ -5,7 +5,7 @@ date: 2020-04-14 16:24:26
 image: 'https://m.media-amazon.com/images/I/51CxkXvAauL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWRVHV8-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Millennium...'
 sku: 'B07TWRVHV8-de'
 tags: [  ]

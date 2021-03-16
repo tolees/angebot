@@ -5,7 +5,7 @@ date: 2020-07-30 23:35:28
 image: 'https://m.media-amazon.com/images/I/31CI9r4na3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DFLHPK4-de LiveRowing Bluetooth Kopfhörer Kabellose Kopfhörer mit...'
 sku: 'B08DFLHPK4-de'
 tags: [  ]

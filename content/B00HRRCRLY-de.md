@@ -5,7 +5,7 @@ date: 2020-08-10 23:58:59
 image: 'https://m.media-amazon.com/images/I/41GqMvy8YXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HRRCRLY-de Sylvanian Families - 5027 - Waschmaschinen-Set'
 sku: 'B00HRRCRLY-de'
 tags: [  ]

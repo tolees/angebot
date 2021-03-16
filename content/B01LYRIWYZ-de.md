@@ -5,7 +5,7 @@ date: 2020-02-14 07:26:02
 image: 'https://m.media-amazon.com/images/I/61vx8aprxyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYRIWYZ-de PLAYMOBIL Ghostbusters 9221 Stay Puft Marshmallow Man Ab 6...'
 sku: 'B01LYRIWYZ-de'
 tags: [  ]

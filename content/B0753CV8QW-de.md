@@ -5,7 +5,7 @@ date: 2020-04-10 07:18:17
 image: 'https://m.media-amazon.com/images/I/6154sU222mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0753CV8QW-de Buluri Washi Tape 50 Rolls Washi Masking Tape Dekorative...'
 sku: 'B0753CV8QW-de'
 tags: [  ]

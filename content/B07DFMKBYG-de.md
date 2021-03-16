@@ -5,7 +5,7 @@ date: 2020-02-04 08:22:22
 image: 'https://m.media-amazon.com/images/I/51DBsq0mNxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFMKBYG-de Seiko Herren Analog Automatik Uhr mit Edelstahl Armband...'
 sku: 'B07DFMKBYG-de'
 tags: [  ]

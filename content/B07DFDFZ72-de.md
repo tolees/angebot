@@ -5,7 +5,7 @@ date: 2020-04-01 05:02:27
 image: 'https://m.media-amazon.com/images/I/41xXtYwWqDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFDFZ72-de Funko 30695 Full Metal Alchemist: Alphonse POP Vinylfigur...'
 sku: 'B07DFDFZ72-de'
 tags: [  ]

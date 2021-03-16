@@ -5,7 +5,7 @@ date: 2020-09-10 08:09:07
 image: 'https://m.media-amazon.com/images/I/519Q9-ZFYoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FBVYFKH-de Corsair CMK16GX4M2Z3600C18 Vengeance LPX 16GB 2x8GB DDR4...'
 sku: 'B07FBVYFKH-de'
 tags: [  ]

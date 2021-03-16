@@ -5,7 +5,7 @@ date: 2020-03-04 09:48:57
 image: 'https://m.media-amazon.com/images/I/51dUB03jzWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P9TCT78-de Playmobil 70198 City Life Beim Facharzt: Zahnarzt ab 4...'
 sku: 'B07P9TCT78-de'
 tags: [  ]

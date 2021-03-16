@@ -5,7 +5,7 @@ date: 2020-09-30 09:45:20
 image: 'https://m.media-amazon.com/images/I/41sQ-fmbOxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MEP27FA-de Clatronic RK 3566 Reiskocher und Dampfgarer in Einem...'
 sku: 'B00MEP27FA-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-12 04:57:53
 image: 'https://m.media-amazon.com/images/I/415gX7t5zIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XYHT37W-de The Big Bang Theory S1-12 Boxset DVD'
 sku: 'B07XYHT37W-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-13 15:04:29
 image: 'https://m.media-amazon.com/images/I/31YeljC45YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00160JVQM-de Oase UVC Vorklärgerät Vitronic 11 W'
 sku: 'B00160JVQM-de'
 tags: [  ]

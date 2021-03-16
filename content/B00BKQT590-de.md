@@ -5,7 +5,7 @@ date: 2020-05-12 08:17:25
 image: 'https://m.media-amazon.com/images/I/41xj4YyAYqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BKQT590-de Daniel Wellington Damen Analog Japanese Quartz Uhr mit...'
 sku: 'B00BKQT590-de'
 tags: [  ]

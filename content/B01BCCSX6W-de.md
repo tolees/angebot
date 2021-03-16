@@ -5,7 +5,7 @@ date: 2020-09-27 08:37:39
 image: 'https://m.media-amazon.com/images/I/41yM8SWtRbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BCCSX6W-de B.K.Licht I schwenkbare LED Deckenleuchte I 6-flammiger...'
 sku: 'B01BCCSX6W-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-18 00:00:03
 image: 'https://m.media-amazon.com/images/I/6133djFedRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MUF6O42-de 3Ds Mario Sports Superstars Eu'
 sku: 'B01MUF6O42-de'
 tags: [  ]

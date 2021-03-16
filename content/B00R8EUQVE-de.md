@@ -5,7 +5,7 @@ date: 2020-10-11 06:22:14
 image: 'https://m.media-amazon.com/images/I/51B9aEWzRPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00R8EUQVE-de Fascinations Metal Earth ICX019 - 502830 London Eye...'
 sku: 'B00R8EUQVE-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-12 01:01:41
 image: 'https://m.media-amazon.com/images/I/41AkrSVv28L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P9PTX3L-de Mr Muscle Drano Power Rohrreiniger Gel Abflussreiniger...'
 sku: 'B07P9PTX3L-de'
 tags: [  ]

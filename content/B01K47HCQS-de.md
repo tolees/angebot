@@ -5,7 +5,7 @@ date: 2020-07-10 15:16:18
 image: 'https://m.media-amazon.com/images/I/41mah-3duhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K47HCQS-de Krups HZ4071 Perfect Mix 9000 Pro Stabmixer | inklusive 4...'
 sku: 'B01K47HCQS-de'
 tags: [  ]

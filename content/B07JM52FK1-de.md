@@ -5,7 +5,7 @@ date: 2020-03-19 13:27:46
 image: 'https://m.media-amazon.com/images/I/61dbwqJYarL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JM52FK1-de PLAYMOBIL Ghostbusters 70170 Ecto-1A mit Licht- und...'
 sku: 'B07JM52FK1-de'
 tags: [  ]

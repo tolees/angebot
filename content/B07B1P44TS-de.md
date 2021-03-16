@@ -5,7 +5,7 @@ date: 2020-04-11 16:27:00
 image: 'https://m.media-amazon.com/images/I/4128aSf7i6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B1P44TS-de Relaxdays Wandregal 3er Set dekorative U-form Wandboards...'
 sku: 'B07B1P44TS-de'
 tags: [  ]

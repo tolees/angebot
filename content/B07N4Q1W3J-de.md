@@ -5,7 +5,7 @@ date: 2020-03-20 14:04:32
 image: 'https://m.media-amazon.com/images/I/417W3y-xS3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4Q1W3J-de moto g7 plus Dual-SIM Smartphone 6 2 Zoll Display 16-MP-...'
 sku: 'B07N4Q1W3J-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-09 13:43:10
 image: 'https://m.media-amazon.com/images/I/51KxqDY637L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BLTQ390-de Echo Show Vorherige Generation - 1. Gen. Zertifiziert und...'
 sku: 'B01BLTQ390-de'
 tags: [  ]

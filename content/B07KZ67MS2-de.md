@@ -5,7 +5,7 @@ date: 2020-02-02 14:44:01
 image: 'https://m.media-amazon.com/images/I/51SEiir5z0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KZ67MS2-de LG 32QK500-W 80 01 cm 31 5 Zoll Monitor WQHD AMD Radeon...'
 sku: 'B07KZ67MS2-de'
 tags: [  ]

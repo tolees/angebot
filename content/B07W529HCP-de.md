@@ -5,7 +5,7 @@ date: 2020-04-14 16:11:26
 image: 'https://m.media-amazon.com/images/I/51a2HvMExVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W529HCP-de Explosion Box Geschenkbox Sporgo Kreative Überraschung Box...'
 sku: 'B07W529HCP-de'
 tags: [  ]

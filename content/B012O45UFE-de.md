@@ -5,7 +5,7 @@ date: 2020-03-18 02:32:54
 image: 'https://m.media-amazon.com/images/I/51lV4u2gwnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012O45UFE-de Unbekannt Quadratische Pappteller 22 9 cm 8er-Packung'
 sku: 'B012O45UFE-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-01 09:16:38
 image: 'https://m.media-amazon.com/images/I/51YXw+bnWGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG5VGXN-de Exzenterschleifer Meterk Schleifmaschine 300W 12000RPM mit...'
 sku: 'B07KG5VGXN-de'
 tags: [  ]

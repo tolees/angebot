@@ -5,7 +5,7 @@ date: 2020-09-23 19:26:59
 image: 'https://m.media-amazon.com/images/I/41tNt7CuZzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CGQ7XTL-de GOURMETmaxx Frischhaltedosen Klick-it 28 tlg. |...'
 sku: 'B07CGQ7XTL-de'
 tags: [  ]

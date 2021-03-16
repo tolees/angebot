@@ -5,7 +5,7 @@ date: 2020-01-01 13:46:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31yOAwupJNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072JTQ59W-de Philips SHL3175WT BASS+ Over-Ear Kopfhörer mit Mikrofon...'
 sku: 'B072JTQ59W-de'
 tags: [  ]

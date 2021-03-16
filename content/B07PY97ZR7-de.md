@@ -5,7 +5,7 @@ date: 2020-02-02 20:58:45
 image: 'https://m.media-amazon.com/images/I/41-HNlP3myL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PY97ZR7-de Funko 39719 POP Vinyl: Animation: Simpsons-Bart Fly...'
 sku: 'B07PY97ZR7-de'
 tags: [  ]

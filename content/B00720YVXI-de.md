@@ -5,7 +5,7 @@ date: 2020-02-17 12:03:15
 image: 'https://m.media-amazon.com/images/I/51hR-Lug4aL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00720YVXI-de Playtastic Autorennbahn: Portable Rennbahn im Koffer -...'
 sku: 'B00720YVXI-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-19 10:50:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51hJBkLK9GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0767BJJZN-de Playmobil 9358 - Pirat mit Schatzkiste Spiel'
 sku: 'B0767BJJZN-de'
 tags: [  ]

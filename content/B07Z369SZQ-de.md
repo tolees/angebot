@@ -5,7 +5,7 @@ date: 2020-08-22 07:41:05
 image: 'https://m.media-amazon.com/images/I/41Upyfqx8GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z369SZQ-de Warxin Handyhalter Fürs Auto Magnet KFZ Handyhalterung...'
 sku: 'B07Z369SZQ-de'
 tags: [  ]

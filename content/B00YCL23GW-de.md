@@ -5,7 +5,7 @@ date: 2020-10-11 06:21:55
 image: 'https://m.media-amazon.com/images/I/519h9yBQgFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YCL23GW-de BOSCH 1987301106 Gigalight Plus 120 Xenon Bulb H4 12 V 60...'
 sku: 'B00YCL23GW-de'
 tags: [  ]

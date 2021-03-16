@@ -5,7 +5,7 @@ date: 2020-02-29 19:18:21
 image: 'https://m.media-amazon.com/images/I/41nfdqU3wZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IKI352E-de Bosch Professional 18V System Akku GBA 18V 5.0Ah'
 sku: 'B00IKI352E-de'
 tags: [  ]

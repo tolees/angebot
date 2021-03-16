@@ -5,7 +5,7 @@ date: 2020-04-07 13:11:33
 image: 'https://m.media-amazon.com/images/I/51cA08joMPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015H69YRQ-de Metallbaukasten CLAAS LEXION 770 Mähdrescher 2356 Teile...'
 sku: 'B015H69YRQ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-06 07:46:56
 image: 'https://m.media-amazon.com/images/I/41Pv3x9phSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015JIA97Q-de Polaroid Digitale Instant Snap Kamera mit ZINK Zero Ink...'
 sku: 'B015JIA97Q-de'
 tags: [  ]

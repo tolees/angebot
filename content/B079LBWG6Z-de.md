@@ -5,7 +5,7 @@ date: 2020-03-24 12:50:20
 image: 'https://m.media-amazon.com/images/I/41+V7xOCfyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079LBWG6Z-de Olympus PEN E-PL9 Micro Four Thirds Systemkamera 16...'
 sku: 'B079LBWG6Z-de'
 tags: [  ]

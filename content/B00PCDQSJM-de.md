@@ -5,7 +5,7 @@ date: 2020-03-22 17:00:00
 image: 'https://m.media-amazon.com/images/I/41s6-eGzFzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PCDQSJM-de Sony Alpha 6000 Systemkamera 24 Megapixel 7 6 cm 3 Zoll...'
 sku: 'B00PCDQSJM-de'
 tags: [  ]

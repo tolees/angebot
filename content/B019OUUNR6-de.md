@@ -5,7 +5,7 @@ date: 2020-04-17 06:51:34
 image: 'https://m.media-amazon.com/images/I/41YfBDsQ-FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019OUUNR6-de Landmann Gasgrillwagen 12220 emaillierte...'
 sku: 'B019OUUNR6-de'
 tags: [  ]

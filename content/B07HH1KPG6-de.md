@@ -5,7 +5,7 @@ date: 2020-03-04 11:55:25
 image: 'https://m.media-amazon.com/images/I/41YMVQvofXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HH1KPG6-de Tommy Jeans Herren Scanton Slim Jeans Blau Cobalt Light Bl...'
 sku: 'B07HH1KPG6-de'
 tags: [  ]

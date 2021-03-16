@@ -5,7 +5,7 @@ date: 2020-08-04 23:59:12
 image: 'https://m.media-amazon.com/images/I/51yJw5NauGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087GLLQ7Q-de Telefunken XU55J521 139 cm / 55 Zoll Fernseher Smart TV...'
 sku: 'B087GLLQ7Q-de'
 tags: [  ]

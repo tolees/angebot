@@ -5,7 +5,7 @@ date: 2020-04-14 23:45:28
 image: 'https://m.media-amazon.com/images/I/51V9wUNL4FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003KHG5HM-de Shutter Island [Blu-ray]'
 sku: 'B003KHG5HM-de'
 tags: [  ]

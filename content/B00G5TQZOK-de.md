@@ -5,7 +5,7 @@ date: 2020-02-25 04:07:03
 image: 'https://m.media-amazon.com/images/I/513euWoM8SL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G5TQZOK-de POP! Vinyl 3735 No POP Vinylfigur: Supernatural: Sam Multi'
 sku: 'B00G5TQZOK-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-19 05:12:43
 image: 'https://m.media-amazon.com/images/I/51GIU2yYb-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QR6Q7XK-de Madden NFL 20 - Standard Edition - [PlayStation 4]'
 sku: 'B07QR6Q7XK-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-24 12:14:48
 image: 'https://m.media-amazon.com/images/I/51sh8hYjAHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VV6ZLKR-de Bluetooth Schlafmaske Achort Schlafkopfhörer Bluetooth...'
 sku: 'B07VV6ZLKR-de'
 tags: [  ]

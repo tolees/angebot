@@ -5,7 +5,7 @@ date: 2020-08-15 05:59:26
 image: 'https://m.media-amazon.com/images/I/514+Hh1xj-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGM71QQ-de Omron RS7 Intelli IT Handgelenk-Blutdruckmessgerät mit...'
 sku: 'B07LGM71QQ-de'
 tags: [  ]

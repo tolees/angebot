@@ -5,7 +5,7 @@ date: 2020-05-30 09:05:19
 image: 'https://m.media-amazon.com/images/I/31h2PNE1CoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XG4F9WQ-de Microsoft Wireless Mobile Mouse 1850 Maus zyanblau...'
 sku: 'B00XG4F9WQ-de'
 tags: [  ]

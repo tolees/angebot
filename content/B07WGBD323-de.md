@@ -5,7 +5,7 @@ date: 2020-04-26 15:08:57
 image: 'https://m.media-amazon.com/images/I/41gTPbG310L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WGBD323-de SevenPanda Airpods Hülle Tier 3D Niedlicher Cartoon...'
 sku: 'B07WGBD323-de'
 tags: [  ]

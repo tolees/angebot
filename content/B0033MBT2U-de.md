@@ -5,7 +5,7 @@ date: 2020-04-11 00:05:46
 image: 'https://m.media-amazon.com/images/I/51eEJ2J7b0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0033MBT2U-de Ravensburger tiptoi Der interaktive Globus Spiel ab 7...'
 sku: 'B0033MBT2U-de'
 tags: [  ]

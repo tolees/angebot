@@ -5,7 +5,7 @@ date: 2020-03-19 05:15:38
 image: 'https://m.media-amazon.com/images/I/51tgk1mlePL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GT4D6DY-de Sony SRS-XB01 tragbarer Bluetooth Lautsprecher Extra Bass...'
 sku: 'B07GT4D6DY-de'
 tags: [  ]

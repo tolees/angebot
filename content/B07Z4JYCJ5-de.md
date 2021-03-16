@@ -5,7 +5,7 @@ date: 2020-04-07 21:40:36
 image: 'https://m.media-amazon.com/images/I/51vO5aYegqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z4JYCJ5-de Unizooke Messerschärfer Profi Messerschleifer Messer...'
 sku: 'B07Z4JYCJ5-de'
 tags: [  ]

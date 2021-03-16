@@ -5,7 +5,7 @@ date: 2020-03-23 17:59:40
 image: 'https://m.media-amazon.com/images/I/41-pC7IEoEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007WQJSGM-de Samsonite S Cure - Spinner L Koffer 75 cm 102 L schwarz black'
 sku: 'B007WQJSGM-de'
 tags: [  ]

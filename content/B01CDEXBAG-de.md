@@ -5,7 +5,7 @@ date: 2020-03-23 21:00:51
 image: 'https://m.media-amazon.com/images/I/51bSzj3nobL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CDEXBAG-de Funko 9301 S1 No Actionfigur Games: Overwatch: Widowmaker...'
 sku: 'B01CDEXBAG-de'
 tags: [  ]

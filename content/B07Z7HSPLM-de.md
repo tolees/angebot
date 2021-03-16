@@ -5,7 +5,7 @@ date: 2020-03-22 21:00:59
 image: 'https://m.media-amazon.com/images/I/41hp4sKcLKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z7HSPLM-de Zeonetak Bluetooth Headset mit Kabellosem Mikrofon Headset...'
 sku: 'B07Z7HSPLM-de'
 tags: [  ]

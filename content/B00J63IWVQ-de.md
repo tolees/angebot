@@ -5,7 +5,7 @@ date: 2020-04-08 05:55:25
 image: 'https://m.media-amazon.com/images/I/51e+zwpoS5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J63IWVQ-de B. Toys 44172 - Baa-Baa-Barn Bauernhof'
 sku: 'B00J63IWVQ-de'
 tags: [  ]

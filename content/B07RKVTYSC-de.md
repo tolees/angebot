@@ -5,7 +5,7 @@ date: 2020-08-08 06:45:12
 image: 'https://m.media-amazon.com/images/I/41Ki9rLkFnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RKVTYSC-de USB 3.0 WLAN Stick WLAN Adapter PC WiFi Adapter USB WiFi...'
 sku: 'B07RKVTYSC-de'
 tags: [  ]

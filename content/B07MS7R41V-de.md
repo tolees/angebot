@@ -5,7 +5,7 @@ date: 2020-08-28 05:21:31
 image: 'https://m.media-amazon.com/images/I/51W6aDPJhGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MS7R41V-de flintronic Herren Gürtel Leder Ratsche Automatik Gürtel...'
 sku: 'B07MS7R41V-de'
 tags: [  ]

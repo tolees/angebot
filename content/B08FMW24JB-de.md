@@ -5,7 +5,7 @@ date: 2020-09-29 21:23:41
 image: 'https://m.media-amazon.com/images/I/41XnSQV9MjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FMW24JB-de FLOWZOOM Schlauchschal mit Filterfach zum Einlegen eines...'
 sku: 'B08FMW24JB-de'
 tags: [  ]

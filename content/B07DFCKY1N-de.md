@@ -5,7 +5,7 @@ date: 2020-03-21 10:11:36
 image: 'https://m.media-amazon.com/images/I/4174Kcn7BiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFCKY1N-de Gigaset GS180 Smartphone ohne Vertrag 12 7 cm 5 Zoll HD...'
 sku: 'B07DFCKY1N-de'
 tags: [  ]

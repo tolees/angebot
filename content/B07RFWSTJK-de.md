@@ -5,7 +5,7 @@ date: 2020-09-17 11:02:37
 image: 'https://m.media-amazon.com/images/I/51+WK-Op1vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFWSTJK-de Salewa Puez Alphubel Wo Headband Stirnbänder Carrot/4630...'
 sku: 'B07RFWSTJK-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-11 06:23:55
 image: 'https://m.media-amazon.com/images/I/21gLZwyn1iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B12UHPS-de Fiskars Profi Handsäge für frisches Holz Grobzahnung...'
 sku: 'B01B12UHPS-de'
 tags: [  ]

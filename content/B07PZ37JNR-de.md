@@ -5,7 +5,7 @@ date: 2020-08-25 04:46:05
 image: 'https://m.media-amazon.com/images/I/31St3++SCQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZ37JNR-de ONLY Damen Onlmariana Myrina S/S Det Dress Noos WVN Kleid...'
 sku: 'B07PZ37JNR-de'
 tags: [  ]

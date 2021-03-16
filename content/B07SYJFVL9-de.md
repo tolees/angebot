@@ -5,7 +5,7 @@ date: 2020-03-20 21:04:07
 image: 'https://m.media-amazon.com/images/I/51bqnzZagnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SYJFVL9-de Bluetooth Kopfhörer Donerton Bluetooth 5.0 In Ear...'
 sku: 'B07SYJFVL9-de'
 tags: [  ]

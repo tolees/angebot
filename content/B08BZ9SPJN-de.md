@@ -5,7 +5,7 @@ date: 2020-08-10 14:50:48
 image: 'https://m.media-amazon.com/images/I/41XKSOrePGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BZ9SPJN-de Wireless Controller für Nintendo Switch RegeMoudal Switch...'
 sku: 'B08BZ9SPJN-de'
 tags: [  ]

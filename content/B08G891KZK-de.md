@@ -5,7 +5,7 @@ date: 2020-09-25 19:52:09
 image: 'https://m.media-amazon.com/images/I/31zfTHBFv9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G891KZK-de Bluetooth Kopfhörer In-Ear Kabellose Kopfhörer Bluetooth...'
 sku: 'B08G891KZK-de'
 tags: [  ]

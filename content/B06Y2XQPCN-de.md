@@ -5,7 +5,7 @@ date: 2020-03-23 14:44:57
 image: 'https://m.media-amazon.com/images/I/41dl8oESB+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2XQPCN-de New Balance Herren 574v2 Core Sneaker Grau Grau 46.5 EU'
 sku: 'B06Y2XQPCN-de'
 tags: [  ]

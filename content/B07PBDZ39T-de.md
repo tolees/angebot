@@ -5,7 +5,7 @@ date: 2020-04-13 00:02:31
 image: 'https://m.media-amazon.com/images/I/21XyNA1GJbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PBDZ39T-de Nordic Kitchen Rührlöffel eiche schwarz LxB 20x8 4cm'
 sku: 'B07PBDZ39T-de'
 tags: [  ]

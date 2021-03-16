@@ -5,7 +5,7 @@ date: 2020-04-13 16:11:47
 image: 'https://m.media-amazon.com/images/I/41nRQA40pUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0821YWJPZ-de Acer Aspire 3 A315-54-58ZK 39 6 cm 15 6 Zoll Full-HD matt...'
 sku: 'B0821YWJPZ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-09 11:46:08
 image: 'https://m.media-amazon.com/images/I/51BzyUYDAkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U8IUTNM-de Intel Dual Band Wireless-AC 7265'
 sku: 'B00U8IUTNM-de'
 tags: [  ]

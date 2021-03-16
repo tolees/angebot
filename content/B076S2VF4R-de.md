@@ -5,7 +5,7 @@ date: 2020-04-13 16:19:49
 image: 'https://m.media-amazon.com/images/I/51CrdzF-bkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076S2VF4R-de Microsoft Surface Book 2 34 29 cm 13 5 Zoll Laptop Intel...'
 sku: 'B076S2VF4R-de'
 tags: [  ]

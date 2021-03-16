@@ -5,7 +5,7 @@ date: 2020-04-14 23:57:57
 image: 'https://m.media-amazon.com/images/I/31T4+ewK9DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083DRZ7BK-de TuToy Lcd Automatische Fischfutterautomat Teich Aquarium...'
 sku: 'B083DRZ7BK-de'
 tags: [  ]

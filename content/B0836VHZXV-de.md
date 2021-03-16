@@ -5,7 +5,7 @@ date: 2020-04-15 17:38:34
 image: 'https://m.media-amazon.com/images/I/41Ia1Z5+UfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0836VHZXV-de TEECY Kartenetui Neue Kreditkartentasche Kartenetui mit...'
 sku: 'B0836VHZXV-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-16 06:19:16
 image: 'https://m.media-amazon.com/images/I/41RKQ3ZytDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BSAA38K-de Bar Keepers Friend Allzweck Macht-Creme 350ml 1 x 1 x 1 cm'
 sku: 'B00BSAA38K-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-04 05:23:11
 image: 'https://m.media-amazon.com/images/I/31zwMxNsGUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M65QSJV-de Fastskin Erwachsene Speedsocket 2 Goggles Black/Mirror One...'
 sku: 'B01M65QSJV-de'
 tags: [  ]

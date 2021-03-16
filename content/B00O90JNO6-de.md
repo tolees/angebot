@@ -5,7 +5,7 @@ date: 2020-02-14 08:17:47
 image: 'https://m.media-amazon.com/images/I/41mxaPPGFqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O90JNO6-de HUGO Herren 708 Slim Jeans Blau Dark Blue 405 W32/L32'
 sku: 'B00O90JNO6-de'
 tags: [  ]

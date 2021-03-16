@@ -5,7 +5,7 @@ date: 2020-04-15 15:40:16
 image: 'https://m.media-amazon.com/images/I/41oVdvtkqqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WSD4CNM-de MEDION ERAZER P6705 39 5 cm 15 6 Zoll Full HD Gaming...'
 sku: 'B07WSD4CNM-de'
 tags: [  ]

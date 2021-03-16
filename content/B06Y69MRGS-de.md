@@ -5,7 +5,7 @@ date: 2020-01-17 18:45:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419HMrDfvLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y69MRGS-de Fujifilm instax Mini 9 Kamera kobalt-blau'
 sku: 'B06Y69MRGS-de'
 tags: [  ]

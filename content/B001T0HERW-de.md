@@ -5,7 +5,7 @@ date: 2020-08-27 03:40:27
 image: 'https://m.media-amazon.com/images/I/411uSh5vikL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001T0HERW-de ABUS Schlüsseltresor KeyGarage 787 mit Zahlencode 463310'
 sku: 'B001T0HERW-de'
 tags: [  ]

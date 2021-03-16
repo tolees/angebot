@@ -5,7 +5,7 @@ date: 2020-05-30 13:07:22
 image: 'https://m.media-amazon.com/images/I/41v5ZKUj4FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MFFVG13-de Forefront Cases Kobo Aura One 7.8 Zoll Origami Hülle...'
 sku: 'B01MFFVG13-de'
 tags: [  ]

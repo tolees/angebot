@@ -5,7 +5,7 @@ date: 2020-10-07 21:46:54
 image: 'https://m.media-amazon.com/images/I/51NA0XbC6JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GKWOYWW-de VTech 80-139304 - Smart Kid s Phone'
 sku: 'B00GKWOYWW-de'
 tags: [  ]

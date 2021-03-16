@@ -5,7 +5,7 @@ date: 2020-08-07 15:46:43
 image: 'https://m.media-amazon.com/images/I/51hivXuPSaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PCQTCSL-de RATEL Mini USB Tischventilator 12 5 cm USB Ventilator 3...'
 sku: 'B07PCQTCSL-de'
 tags: [  ]

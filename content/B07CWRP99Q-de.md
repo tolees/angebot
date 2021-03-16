@@ -5,7 +5,7 @@ date: 2020-01-11 11:16:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ibESdElqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CWRP99Q-de Kodak 32 GB Class 10 Microsd-Speicherkarte mit SD-Adapter'
 sku: 'B07CWRP99Q-de'
 tags: [  ]

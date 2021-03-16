@@ -5,7 +5,7 @@ date: 2020-07-13 07:24:42
 image: 'https://m.media-amazon.com/images/I/51R85ecCJ8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRHS6DL-de Ostwind - Aris Ankunft [Blu-ray]'
 sku: 'B07NRHS6DL-de'
 tags: [  ]

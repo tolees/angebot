@@ -5,7 +5,7 @@ date: 2020-10-06 03:18:04
 image: 'https://m.media-amazon.com/images/I/51MIOVqb2TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FF4ZSPI-de Kultkomödien mit Thomas Gottschalk & Mike Krüger - 5DVD-...'
 sku: 'B00FF4ZSPI-de'
 tags: [  ]

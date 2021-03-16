@@ -5,7 +5,7 @@ date: 2020-10-03 19:08:16
 image: 'https://m.media-amazon.com/images/I/31W+M9SlIkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016RWKHBQ-de Trust Urban Senfus IPX5 wasserfeste Bluetooth In-Ear-...'
 sku: 'B016RWKHBQ-de'
 tags: [  ]

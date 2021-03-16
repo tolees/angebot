@@ -5,7 +5,7 @@ date: 2020-02-26 10:51:06
 image: 'https://m.media-amazon.com/images/I/41tDe4fJKkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0733WZDX2-de Festina Herren Chronograph Quarz Uhr mit Leder Armband...'
 sku: 'B0733WZDX2-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-31 12:13:13
 image: 'https://m.media-amazon.com/images/I/41l0nUAi8xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LD21HKA-de LG Electronics VRD 710 RRC Carpet Care Roboter-Staubsauger...'
 sku: 'B01LD21HKA-de'
 tags: [  ]

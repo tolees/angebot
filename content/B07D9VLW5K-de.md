@@ -5,7 +5,7 @@ date: 2020-01-25 20:20:22
 image: 'https://m.media-amazon.com/images/I/51szM1TLNkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9VLW5K-de HP 22y 21 5 Zoll Full HD LED Monitor DVI-D VGA 1920 x 1080...'
 sku: 'B07D9VLW5K-de'
 tags: [  ]

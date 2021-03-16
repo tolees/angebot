@@ -5,7 +5,7 @@ date: 2020-09-16 06:25:14
 image: 'https://m.media-amazon.com/images/I/513K5Q8LnrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVK5TVT-de Occulto 10 Paar Damen Socken aus Baumwolle Punkte und...'
 sku: 'B07TVK5TVT-de'
 tags: [  ]

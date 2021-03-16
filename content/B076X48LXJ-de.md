@@ -5,7 +5,7 @@ date: 2020-02-27 08:21:44
 image: 'https://m.media-amazon.com/images/I/31GTc5JDzeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076X48LXJ-de Levi s Damen 310 Shaping Super Skinny Jeans Schwarz Black...'
 sku: 'B076X48LXJ-de'
 tags: [  ]

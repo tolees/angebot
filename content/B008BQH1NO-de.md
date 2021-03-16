@@ -5,7 +5,7 @@ date: 2020-04-16 17:36:33
 image: 'https://m.media-amazon.com/images/I/51YgOuV00EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008BQH1NO-de Amazon Kindle Paperwhite Lederhülle Onyx-Schwarz – nicht...'
 sku: 'B008BQH1NO-de'
 tags: [  ]

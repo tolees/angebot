@@ -5,7 +5,7 @@ date: 2020-04-15 00:10:36
 image: 'https://m.media-amazon.com/images/I/41dCvYxVv-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PY99MFN-de ASS 22583135 Paw Patrol Missions Memo'
 sku: 'B07PY99MFN-de'
 tags: [  ]

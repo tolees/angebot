@@ -5,7 +5,7 @@ date: 2020-01-17 08:08:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IIV8QsHZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y5YJNBL-de BURG-WÄCHTER Digital-Multimeter Spannungsmesser für...'
 sku: 'B06Y5YJNBL-de'
 tags: [  ]

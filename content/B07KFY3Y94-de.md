@@ -5,7 +5,7 @@ date: 2020-01-14 13:18:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QzSiWc8dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFY3Y94-de Puma Defy Wn s Damen Hallenschuhe Pink Bridal Rose-Puma...'
 sku: 'B07KFY3Y94-de'
 tags: [  ]

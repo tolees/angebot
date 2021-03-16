@@ -5,7 +5,7 @@ date: 2020-03-13 10:47:53
 image: 'https://m.media-amazon.com/images/I/31-un351B+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P96KY7Q-de Funko 40325 POP Vinyl: RWBY: Weiss Schnee Sammelbares...'
 sku: 'B07P96KY7Q-de'
 tags: [  ]

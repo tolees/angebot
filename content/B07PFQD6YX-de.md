@@ -5,7 +5,7 @@ date: 2020-04-16 08:37:58
 image: 'https://m.media-amazon.com/images/I/411OXcGjfAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PFQD6YX-de Original BestLoft® Weinregal Amber aus Eiche Wandregal...'
 sku: 'B07PFQD6YX-de'
 tags: [  ]

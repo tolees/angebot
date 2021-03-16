@@ -5,7 +5,7 @@ date: 2020-03-30 13:28:08
 image: 'https://m.media-amazon.com/images/I/316jrSoC4KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B3YZ8FX-de V-Bag movetrack by Vodafone - GPS Tracker...'
 sku: 'B07B3YZ8FX-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-25 17:53:08
 image: 'https://m.media-amazon.com/images/I/31zriYy46JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NV4BZT2-de Epson B11B223401 Perfection V800 Photo Scanner Flachbett-...'
 sku: 'B00NV4BZT2-de'
 tags: [  ]

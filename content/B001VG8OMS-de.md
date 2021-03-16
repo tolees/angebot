@@ -5,7 +5,7 @@ date: 2020-10-12 05:51:38
 image: 'https://m.media-amazon.com/images/I/41FHUD7zP+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001VG8OMS-de Calvin Klein Underwear Herren Cotton Stretch Slip 3er Pack...'
 sku: 'B001VG8OMS-de'
 tags: [  ]

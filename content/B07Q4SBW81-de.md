@@ -5,7 +5,7 @@ date: 2020-06-11 10:13:32
 image: 'https://m.media-amazon.com/images/I/51yEnJj3ZKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q4SBW81-de Dadanism Hülle für Der Neue Kindle 10. Generation - 2019...'
 sku: 'B07Q4SBW81-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-18 17:04:58
 image: 'https://m.media-amazon.com/images/I/31Ffi1aygbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ASB66DA-de Neff TBD 4800 N Kochfeld Elektro / Induktion / 79 5 cm /...'
 sku: 'B01ASB66DA-de'
 tags: [  ]

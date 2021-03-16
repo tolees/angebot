@@ -5,7 +5,7 @@ date: 2020-01-31 07:56:13
 image: 'https://m.media-amazon.com/images/I/31x9GqzI+cL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MH65GS8-de Skagen Damen Digital Smart Watch Armbanduhr mit Silikon...'
 sku: 'B07MH65GS8-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-13 00:10:52
 image: 'https://m.media-amazon.com/images/I/51y9X+0Uw6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073ZG6YHR-de Remington AS8810 Warmluftbürste Keratin Protect rotierend...'
 sku: 'B073ZG6YHR-de'
 tags: [  ]

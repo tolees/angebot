@@ -5,7 +5,7 @@ date: 2020-04-09 07:56:29
 image: 'https://m.media-amazon.com/images/I/41Xills7j3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QN6TPC9-de Dickie Toys 203715012 Prison Break Polizeistation...'
 sku: 'B07QN6TPC9-de'
 tags: [  ]

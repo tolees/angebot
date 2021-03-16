@@ -5,7 +5,7 @@ date: 2020-08-24 09:07:52
 image: 'https://m.media-amazon.com/images/I/4193NFS-dBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087CJFZZK-de ZHENREN USB WLAN Stick USB WLAN verstärker Adapter für PC...'
 sku: 'B087CJFZZK-de'
 tags: [  ]

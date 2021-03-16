@@ -5,7 +5,7 @@ date: 2020-03-30 10:55:24
 image: 'https://m.media-amazon.com/images/I/31A5ydPJwBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08125GZZN-de Echo Flex + Philips Hue Color LED-Lampe Doppelpack E27...'
 sku: 'B08125GZZN-de'
 tags: [  ]

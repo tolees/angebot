@@ -5,7 +5,7 @@ date: 2020-02-04 05:24:41
 image: 'https://m.media-amazon.com/images/I/41LtHfiuqVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5RLBKF-de Crucial Ballistix Sport LT BLS2K8G4D30AESEK Desktop Gaming...'
 sku: 'B07M5RLBKF-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-11 08:07:14
 image: 'https://m.media-amazon.com/images/I/51yvjMxgnpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M4S7ZGM-de 1home Bildschirmständer Notebooktisch Notebookständer...'
 sku: 'B01M4S7ZGM-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-02 09:08:34
 image: 'https://m.media-amazon.com/images/I/41OHv1y4OBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWDG88G-de s.Oliver BLACK LABEL Damen 01.899.76.5561 Hose Schwarz...'
 sku: 'B07SWDG88G-de'
 tags: [  ]

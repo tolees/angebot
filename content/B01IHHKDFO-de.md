@@ -5,7 +5,7 @@ date: 2020-04-17 23:56:20
 image: 'https://m.media-amazon.com/images/I/416qXntSyiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IHHKDFO-de Wrigley s Extra Professional Strong Mint Dose 50 Dragees'
 sku: 'B01IHHKDFO-de'
 tags: [  ]

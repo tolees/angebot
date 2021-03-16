@@ -5,7 +5,7 @@ date: 2020-09-21 15:18:07
 image: 'https://m.media-amazon.com/images/I/51eY3QGUM5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X9J7D1W-de Boston [Blu-ray]'
 sku: 'B06X9J7D1W-de'
 tags: [  ]

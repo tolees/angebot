@@ -5,7 +5,7 @@ date: 2020-04-12 13:32:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31B91eCTh8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PP7VQ4D-de ZTE Smartphone Axon 10 Pro 16.43 cm 6.47 Zoll AMOLED...'
 sku: 'B07PP7VQ4D-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-18 20:02:02
 image: 'https://m.media-amazon.com/images/I/51zm+wZ9f8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079KD4PR6-de Hot Wheels FTB67 - City Ultimative Autowaschanlage mit...'
 sku: 'B079KD4PR6-de'
 tags: [  ]

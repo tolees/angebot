@@ -5,7 +5,7 @@ date: 2020-01-17 13:15:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41pZ5IWC8EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L1XFVXQ-de Under Armour Herren Rival Fleece Sportstyle Logo Hoodie...'
 sku: 'B07L1XFVXQ-de'
 tags: [  ]

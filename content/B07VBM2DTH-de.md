@@ -5,7 +5,7 @@ date: 2020-04-02 16:02:49
 image: 'https://m.media-amazon.com/images/I/513DzFDsuOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBM2DTH-de Alex Perry Muttertagsgeschenk kette damen geschenke für...'
 sku: 'B07VBM2DTH-de'
 tags: [  ]

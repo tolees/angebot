@@ -5,7 +5,7 @@ date: 2020-01-25 08:56:21
 image: 'https://m.media-amazon.com/images/I/41bb4qXA1iL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5I46XF-de Kärcher Hochdruckreiniger K 5 Premium Full Control Plus...'
 sku: 'B01N5I46XF-de'
 tags: [  ]

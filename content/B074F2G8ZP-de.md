@@ -5,7 +5,7 @@ date: 2020-05-11 18:50:55
 image: 'https://m.media-amazon.com/images/I/4158HkGGXsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074F2G8ZP-de ViewSonic VP3881 95 3 cm 38 Zoll Fotografen Monitor mit...'
 sku: 'B074F2G8ZP-de'
 tags: [  ]

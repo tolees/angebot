@@ -5,7 +5,7 @@ date: 2020-04-19 09:07:53
 image: 'https://m.media-amazon.com/images/I/41qLqluI1xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KYLL9JT-de Panama Jack Damen Julia Cork Riemchensandalen Blau Marino...'
 sku: 'B07KYLL9JT-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-20 20:08:04
 image: 'https://m.media-amazon.com/images/I/51r2yml0jwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFC39GZ-de Funko 34052 Kingdom Hearts 3: Sora POP Vinylfigur Multi'
 sku: 'B07DFC39GZ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-22 04:32:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/316rRUDcDdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PYC13J-de OSRAM Smart+ LED ZigBee GU5.3 Reflektor 12V warmweiß bis...'
 sku: 'B074PYC13J-de'
 tags: [  ]

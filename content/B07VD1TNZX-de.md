@@ -5,7 +5,7 @@ date: 2020-01-13 17:56:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51UEkWBOuPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VD1TNZX-de Kids Bay Walkie Talkie Kinder Spielzeuge Funkgeräte 8...'
 sku: 'B07VD1TNZX-de'
 tags: [  ]

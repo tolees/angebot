@@ -5,7 +5,7 @@ date: 2020-04-16 08:08:50
 image: 'https://m.media-amazon.com/images/I/613KVFZXY+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLRX84S-de PLAYMOBIL Top Agents 70006 Team S.H.A.R.K. Harpoon Craft...'
 sku: 'B07JLRX84S-de'
 tags: [  ]

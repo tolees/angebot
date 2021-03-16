@@ -5,7 +5,7 @@ date: 2020-04-10 07:51:59
 image: 'https://m.media-amazon.com/images/I/31nL+DgWCbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001NYXUKY-de KS Tools 911.8100 Hebeleisen-Satz 4-tlg.'
 sku: 'B001NYXUKY-de'
 tags: [  ]

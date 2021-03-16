@@ -5,7 +5,7 @@ date: 2020-03-30 06:24:05
 image: 'https://m.media-amazon.com/images/I/41y3U7WrvdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0811HQLXY-de Hosome Wake Up Licht Lichtwecker mit Sonnenaufgang...'
 sku: 'B0811HQLXY-de'
 tags: [  ]

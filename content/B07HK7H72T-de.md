@@ -5,7 +5,7 @@ date: 2020-03-23 05:06:45
 image: 'https://m.media-amazon.com/images/I/41Ei0lC-vbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HK7H72T-de Apple Watch Series 4 GPS + Cellular 44mm Edelstahlgehäuse...'
 sku: 'B07HK7H72T-de'
 tags: [  ]

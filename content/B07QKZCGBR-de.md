@@ -5,7 +5,7 @@ date: 2020-04-14 08:02:08
 image: 'https://m.media-amazon.com/images/I/51QS6cMxMKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QKZCGBR-de Grillido Sportwurst Original 25er Pack| Die Power Salami...'
 sku: 'B07QKZCGBR-de'
 tags: [  ]

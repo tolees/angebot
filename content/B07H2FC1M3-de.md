@@ -5,7 +5,7 @@ date: 2020-02-25 16:24:39
 image: 'https://m.media-amazon.com/images/I/51OtqifcryL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H2FC1M3-de Große Kapazität Rucksack 35L/40L Handgepäck Laptop...'
 sku: 'B07H2FC1M3-de'
 tags: [  ]

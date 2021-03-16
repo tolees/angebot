@@ -5,7 +5,7 @@ date: 2020-02-11 19:19:07
 image: 'https://m.media-amazon.com/images/I/517NJ-WTbpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M86YCPQ-de SD-Kartenleser Micro SD / TF-Compact-Flash-Kartenleser mit...'
 sku: 'B07M86YCPQ-de'
 tags: [  ]

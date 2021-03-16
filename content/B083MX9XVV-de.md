@@ -5,7 +5,7 @@ date: 2020-04-27 10:43:27
 image: 'https://m.media-amazon.com/images/I/41SN1TqcPRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083MX9XVV-de Massagepistole Abask Massage Gun für Nacken Schulter...'
 sku: 'B083MX9XVV-de'
 tags: [  ]

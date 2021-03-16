@@ -5,7 +5,7 @@ date: 2020-09-05 06:55:52
 image: 'https://m.media-amazon.com/images/I/41AwLOApgGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0775WX8PW-de Yazubi Herren Chino Hose Modell Dustin Chinohose by Yzb...'
 sku: 'B0775WX8PW-de'
 tags: [  ]

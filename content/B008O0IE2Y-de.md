@@ -5,7 +5,7 @@ date: 2020-01-22 04:30:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51JvnZ-IEiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008O0IE2Y-de Canon Mount Adapter EF-EOS M schwarz'
 sku: 'B008O0IE2Y-de'
 tags: [  ]

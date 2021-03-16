@@ -5,7 +5,7 @@ date: 2020-09-23 13:38:09
 image: 'https://m.media-amazon.com/images/I/51H0KKVw2bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YQGSTL7-de Funko 47165 POP Movies: Fight Club-Tyler Durden w/Chase...'
 sku: 'B07YQGSTL7-de'
 tags: [  ]

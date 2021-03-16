@@ -5,7 +5,7 @@ date: 2020-04-11 08:04:50
 image: 'https://m.media-amazon.com/images/I/51zXgjSanuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJ6JWYQ-de Clementoni 59126 Action & Reaction-Maxi Set Mehrfarben'
 sku: 'B07PJ6JWYQ-de'
 tags: [  ]

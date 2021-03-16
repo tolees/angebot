@@ -5,7 +5,7 @@ date: 2020-08-21 19:12:23
 image: 'https://m.media-amazon.com/images/I/41xpByH-TyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TTZU566-de Bosch Akkuschrauber IXO 5. Generation in Aufbewahrungsbox'
 sku: 'B00TTZU566-de'
 tags: [  ]

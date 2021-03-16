@@ -5,7 +5,7 @@ date: 2020-03-19 10:19:59
 image: 'https://m.media-amazon.com/images/I/31id1MjIqYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074ZNZ4SX-de Levi s Herren 512 Slim Taper FIT Jeans Nightshade X 0013...'
 sku: 'B074ZNZ4SX-de'
 tags: [  ]

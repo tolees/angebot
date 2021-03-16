@@ -5,7 +5,7 @@ date: 2020-04-10 00:02:35
 image: 'https://m.media-amazon.com/images/I/41k9rZw4MfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVFXSLL-de CRYSTAL ART Crystal Card Kits 18x18cm Mulitcolor 18x18'
 sku: 'B07NVFXSLL-de'
 tags: [  ]

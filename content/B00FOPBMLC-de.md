@@ -5,7 +5,7 @@ date: 2020-07-21 05:47:10
 image: 'https://m.media-amazon.com/images/I/41mtAwpke0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FOPBMLC-de Maggi Würze Vorratsflasche 6er Pack 6 x 1 kg'
 sku: 'B00FOPBMLC-de'
 tags: [  ]

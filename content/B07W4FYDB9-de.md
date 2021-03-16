@@ -5,7 +5,7 @@ date: 2020-04-13 23:46:03
 image: 'https://m.media-amazon.com/images/I/41o97omUaXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4FYDB9-de Universal Niedertemperatur Aluminium Schweißstab mit...'
 sku: 'B07W4FYDB9-de'
 tags: [  ]

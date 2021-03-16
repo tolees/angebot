@@ -5,7 +5,7 @@ date: 2020-04-11 12:44:51
 image: 'https://m.media-amazon.com/images/I/51BhdjwrRcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPCMBCC-de Kipling Damen CITY PACK S Rucksack Blau Deepest Blue...'
 sku: 'B06XPCMBCC-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-20 09:04:26
 image: 'https://m.media-amazon.com/images/I/51UxKi1ta9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MX0IX9A-de FUXTEC Benzin Motorsense FX-MS152 mit 52 cc 2in1 Multitool...'
 sku: 'B00MX0IX9A-de'
 tags: [  ]

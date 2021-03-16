@@ -5,7 +5,7 @@ date: 2020-05-20 19:52:28
 image: 'https://m.media-amazon.com/images/I/613WjtTBpxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QN67KN5-de Yaogroo 208 Spiele in 1 NDS Game Pack-Karte Super Combo...'
 sku: 'B07QN67KN5-de'
 tags: [  ]

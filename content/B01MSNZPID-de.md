@@ -5,7 +5,7 @@ date: 2020-02-13 08:35:07
 image: 'https://m.media-amazon.com/images/I/510Zp0mewZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSNZPID-de ASICS Damen Noosa FF Turnschuhe Schwarz Black/Bay/Viridian...'
 sku: 'B01MSNZPID-de'
 tags: [  ]

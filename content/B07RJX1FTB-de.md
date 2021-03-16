@@ -5,7 +5,7 @@ date: 2020-01-27 18:19:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4150n%2B6gnVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJX1FTB-de Philips Ambilight 55PUS6814/12 139 cm 55 Zoll Smart TV mit...'
 sku: 'B07RJX1FTB-de'
 tags: [  ]

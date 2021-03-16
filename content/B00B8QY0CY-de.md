@@ -5,7 +5,7 @@ date: 2020-04-17 23:38:11
 image: 'https://m.media-amazon.com/images/I/41BzaeukYeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B8QY0CY-de FjällRäven Kanken ochre'
 sku: 'B00B8QY0CY-de'
 tags: [  ]

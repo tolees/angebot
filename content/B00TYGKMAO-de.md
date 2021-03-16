@@ -5,7 +5,7 @@ date: 2020-08-26 13:20:16
 image: 'https://m.media-amazon.com/images/I/51YUfOZHUrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TYGKMAO-de Whiskas 1 + Katzenfutter Klassische Auswahl in Sauce 48 x...'
 sku: 'B00TYGKMAO-de'
 tags: [  ]

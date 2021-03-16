@@ -5,7 +5,7 @@ date: 2020-10-12 08:11:42
 image: 'https://m.media-amazon.com/images/I/41mbeg9NLBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XHLW4H9-de Uvex Unisex Jugend hlmt 4 cc Fahrradhelm red mat 51-55 cm'
 sku: 'B07XHLW4H9-de'
 tags: [  ]

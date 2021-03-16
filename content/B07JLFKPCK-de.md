@@ -5,7 +5,7 @@ date: 2020-03-27 21:22:05
 image: 'https://m.media-amazon.com/images/I/51zSy2llUZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLFKPCK-de PLAYMOBIL City Life 70017 Meine Trendboutique Ab 4 Jahren'
 sku: 'B07JLFKPCK-de'
 tags: [  ]

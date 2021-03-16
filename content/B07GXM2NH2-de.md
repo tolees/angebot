@@ -5,7 +5,7 @@ date: 2020-07-21 11:57:33
 image: 'https://m.media-amazon.com/images/I/410HZn1-cKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXM2NH2-de Mülleimer Abfalleimer Mülltrennsystem 60L - 3x20L Behälter...'
 sku: 'B07GXM2NH2-de'
 tags: [  ]

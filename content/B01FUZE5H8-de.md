@@ -5,7 +5,7 @@ date: 2020-02-08 04:40:12
 image: 'https://m.media-amazon.com/images/I/416km+e+BGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FUZE5H8-de Netgear AC810-100EUS LTE Router/Mobiler WLAN Router WiFi...'
 sku: 'B01FUZE5H8-de'
 tags: [  ]

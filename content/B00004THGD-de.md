@@ -5,7 +5,7 @@ date: 2020-04-10 15:40:01
 image: 'https://m.media-amazon.com/images/I/51DYNIQk-7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00004THGD-de Hook [Collector s Edition]'
 sku: 'B00004THGD-de'
 tags: [  ]

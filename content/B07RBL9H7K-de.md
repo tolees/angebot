@@ -5,7 +5,7 @@ date: 2020-09-21 15:21:33
 image: 'https://m.media-amazon.com/images/I/31q7mArqW6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RBL9H7K-de CARE OF by PUMA Herren Low-Top Sneaker Grau Grey Grey 42 EU'
 sku: 'B07RBL9H7K-de'
 tags: [  ]

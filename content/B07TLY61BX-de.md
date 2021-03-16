@@ -5,7 +5,7 @@ date: 2020-04-07 05:04:54
 image: 'https://m.media-amazon.com/images/I/51rmPZq2SML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLY61BX-de Bluetooth Kopfhörer【Neuestes Modell】 Donerton Kopfhörer...'
 sku: 'B07TLY61BX-de'
 tags: [  ]

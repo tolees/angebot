@@ -5,7 +5,7 @@ date: 2020-04-15 05:03:43
 image: 'https://m.media-amazon.com/images/I/315wq6oOhGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079TSG6N8-de Strellson Herren Harley 2495 Derbys Schwarz Black 900 41 EU'
 sku: 'B079TSG6N8-de'
 tags: [  ]

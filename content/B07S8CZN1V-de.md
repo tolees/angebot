@@ -5,7 +5,7 @@ date: 2020-01-29 07:42:46
 image: 'https://m.media-amazon.com/images/I/51PbxZMYErL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8CZN1V-de Dell Inspiron - 15 6" - i7 - 32GB RAM - 1000GB SSD -...'
 sku: 'B07S8CZN1V-de'
 tags: [  ]

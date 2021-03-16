@@ -5,7 +5,7 @@ date: 2020-08-24 10:34:18
 image: 'https://m.media-amazon.com/images/I/31JPdsNjiXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCSZFW3-de Timorn Ersatz Stoßfänger Bumper Triggert LB RB Button für...'
 sku: 'B06XCSZFW3-de'
 tags: [  ]

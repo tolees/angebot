@@ -5,7 +5,7 @@ date: 2020-01-10 12:10:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QITOtKHnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YVD3JQC-de SGODDE Handwärmer Powerbank 7800mAh USB Wiederaufladbare 2...'
 sku: 'B07YVD3JQC-de'
 tags: [  ]

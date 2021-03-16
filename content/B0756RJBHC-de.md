@@ -5,7 +5,7 @@ date: 2020-09-13 14:44:18
 image: 'https://m.media-amazon.com/images/I/31Mmo0NX8FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0756RJBHC-de Tommy Hilfiger Herren CORE Stretch Slim CNECK Tee T-Shirt...'
 sku: 'B0756RJBHC-de'
 tags: [  ]

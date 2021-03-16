@@ -5,7 +5,7 @@ date: 2020-03-10 12:56:22
 image: 'https://m.media-amazon.com/images/I/31+75sQ0nPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072WB9DGS-de QNAP TS-231P-1G Desktop NAS Gehäuse mit 1 GB DDR3 RAM...'
 sku: 'B072WB9DGS-de'
 tags: [  ]

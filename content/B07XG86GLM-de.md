@@ -5,7 +5,7 @@ date: 2020-02-04 06:30:33
 image: 'https://m.media-amazon.com/images/I/51F1FACu5+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XG86GLM-de Oral-B Genius 10900N Elektrische Zahnbürste mit...'
 sku: 'B07XG86GLM-de'
 tags: [  ]

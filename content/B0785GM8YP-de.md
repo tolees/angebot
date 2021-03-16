@@ -5,7 +5,7 @@ date: 2020-01-27 14:53:41
 image: 'https://m.media-amazon.com/images/I/31bEOJXe2AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0785GM8YP-de Under Armour Herren Unstoppable Windbreaker Oberteil Weiß...'
 sku: 'B0785GM8YP-de'
 tags: [  ]

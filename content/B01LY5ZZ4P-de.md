@@ -5,7 +5,7 @@ date: 2020-02-14 20:34:52
 image: 'https://m.media-amazon.com/images/I/41GBMwKZo9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LY5ZZ4P-de SanDisk SSD PLUS 960GB Sata III 2 5 Zoll Interne SSD bis...'
 sku: 'B01LY5ZZ4P-de'
 tags: [  ]

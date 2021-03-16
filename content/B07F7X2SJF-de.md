@@ -5,7 +5,7 @@ date: 2020-04-17 16:18:22
 image: 'https://m.media-amazon.com/images/I/51PB9tRGzTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F7X2SJF-de super vaule DIY 5D Diamant Malerei Kristall Strass...'
 sku: 'B07F7X2SJF-de'
 tags: [  ]

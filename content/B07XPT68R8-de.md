@@ -5,7 +5,7 @@ date: 2020-02-25 12:16:25
 image: 'https://m.media-amazon.com/images/I/513+Lzrk3iL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XPT68R8-de WISHDOIT Herren Uhren Sport Militär Wasserdicht...'
 sku: 'B07XPT68R8-de'
 tags: [  ]

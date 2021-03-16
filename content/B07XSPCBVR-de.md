@@ -5,7 +5,7 @@ date: 2020-09-16 06:20:01
 image: 'https://m.media-amazon.com/images/I/31sFtfNhBfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XSPCBVR-de L.O.L. Surprise! 565222E7C Car-Pool Coupe Puppenauto mit...'
 sku: 'B07XSPCBVR-de'
 tags: [  ]

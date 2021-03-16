@@ -5,7 +5,7 @@ date: 2020-03-27 13:25:59
 image: 'https://m.media-amazon.com/images/I/51-YCVx0T8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WWGG85P-de GraviTrax 27590 Starter Set Konstruktionsspielzeug...'
 sku: 'B06WWGG85P-de'
 tags: [  ]

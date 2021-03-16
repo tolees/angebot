@@ -5,7 +5,7 @@ date: 2020-01-18 10:44:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/514a2TDINHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKWP1CL-de Playmobil 70009 SuperSet Galaxy Police Gefängnis bunt'
 sku: 'B07JKWP1CL-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-02 09:37:54
 image: 'https://m.media-amazon.com/images/I/41lA7pHMPOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VVLZ9R8-de Samsung Galaxy Note 10 Smartphone Bundle 15.9cm 6.3 Zoll...'
 sku: 'B07VVLZ9R8-de'
 tags: [  ]

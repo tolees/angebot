@@ -5,7 +5,7 @@ date: 2020-02-08 08:15:28
 image: 'https://m.media-amazon.com/images/I/31PXbmH+bBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GJQ2QZL-de DJI Mavic 2 Zoom Drohne Quadrocopter mit 24-48mm Optischer...'
 sku: 'B07GJQ2QZL-de'
 tags: [  ]

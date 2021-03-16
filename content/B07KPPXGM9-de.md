@@ -5,7 +5,7 @@ date: 2020-04-17 08:17:24
 image: 'https://m.media-amazon.com/images/I/41HZwMiSUjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPPXGM9-de GANT Herren The ORIGINAL Pique SS Rugger Poloshirt Orange...'
 sku: 'B07KPPXGM9-de'
 tags: [  ]

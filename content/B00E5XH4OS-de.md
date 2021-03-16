@@ -5,7 +5,7 @@ date: 2020-04-15 00:27:47
 image: 'https://m.media-amazon.com/images/I/31XickY9X6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E5XH4OS-de MAJA-Möbel 1611 9499 TV- HiFi-Rack Metall Alu - Klarglas...'
 sku: 'B00E5XH4OS-de'
 tags: [  ]

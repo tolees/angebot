@@ -5,7 +5,7 @@ date: 2020-01-16 16:48:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nzEOjAMbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPLSWXS-de Koogeek Smart & Bluetooth Elektronische Handgelenk...'
 sku: 'B07TPLSWXS-de'
 tags: [  ]

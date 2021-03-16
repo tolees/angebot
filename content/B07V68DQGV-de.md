@@ -5,7 +5,7 @@ date: 2020-08-16 14:44:18
 image: 'https://m.media-amazon.com/images/I/51W48OgkkfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V68DQGV-de Masthome 10pcs Edelstahl Kochgeschirr Set Kochtopf und...'
 sku: 'B07V68DQGV-de'
 tags: [  ]

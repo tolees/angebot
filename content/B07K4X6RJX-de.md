@@ -5,7 +5,7 @@ date: 2020-02-07 10:01:29
 image: 'https://m.media-amazon.com/images/I/519z7N3i9rL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K4X6RJX-de Lightailing Licht-Set Für Creator Tower Bridge Modell -...'
 sku: 'B07K4X6RJX-de'
 tags: [  ]

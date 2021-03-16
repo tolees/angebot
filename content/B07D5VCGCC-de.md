@@ -5,7 +5,7 @@ date: 2020-09-21 15:21:34
 image: 'https://m.media-amazon.com/images/I/41rUu1Iix8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5VCGCC-de Under Armour Herren schnelltrocknende Boxershorts 6inch -...'
 sku: 'B07D5VCGCC-de'
 tags: [  ]

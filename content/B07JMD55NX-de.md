@@ -5,7 +5,7 @@ date: 2020-04-16 17:45:18
 image: 'https://m.media-amazon.com/images/I/51yHEFPJ3VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMD55NX-de Playmobil 70181 1.2.3 PKW mit Pferdeanhänger bunt'
 sku: 'B07JMD55NX-de'
 tags: [  ]

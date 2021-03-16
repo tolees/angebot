@@ -5,7 +5,7 @@ date: 2020-07-08 10:30:03
 image: 'https://m.media-amazon.com/images/I/41KTwYdi4gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HZ2HHL-de JVC KD-X351BT Digital-Media-Receiver mit Bluetooth-...'
 sku: 'B076HZ2HHL-de'
 tags: [  ]

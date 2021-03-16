@@ -5,7 +5,7 @@ date: 2020-04-22 07:10:01
 image: 'https://m.media-amazon.com/images/I/414ThxrX54L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBKN963-de Tommy Hilfiger Damen TH Essential Regular Polo SS...'
 sku: 'B07LBKN963-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-08 11:31:44
 image: 'https://m.media-amazon.com/images/I/31fsl+KtDOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JK8DXF6-de LaCie Portable SSD 500 GB externe SSD 2.5 Zoll USB-C Mac &...'
 sku: 'B07JK8DXF6-de'
 tags: [  ]

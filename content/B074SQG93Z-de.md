@@ -5,7 +5,7 @@ date: 2020-03-05 04:43:49
 image: 'https://m.media-amazon.com/images/I/31eAxVXfcTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074SQG93Z-de devolo dLAN 1200+ WiFi ac Powerline Network Kit 1200...'
 sku: 'B074SQG93Z-de'
 tags: [  ]

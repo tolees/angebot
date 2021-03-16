@@ -5,7 +5,7 @@ date: 2020-04-14 08:17:01
 image: 'https://m.media-amazon.com/images/I/51NmxzLJemL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ95F3W-de Deluxe Whisky Steine Geschenkset - Sei anders bei der...'
 sku: 'B07DJ95F3W-de'
 tags: [  ]

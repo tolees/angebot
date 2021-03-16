@@ -5,7 +5,7 @@ date: 2020-04-09 15:53:25
 image: 'https://m.media-amazon.com/images/I/41YAH-fAO+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCKXFB5-de Dickie Toys RC Monster Flippy RTR Spielzeugauto mit...'
 sku: 'B06XCKXFB5-de'
 tags: [  ]

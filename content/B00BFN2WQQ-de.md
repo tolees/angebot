@@ -5,7 +5,7 @@ date: 2020-09-21 15:13:23
 image: 'https://m.media-amazon.com/images/I/51eJFScumcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BFN2WQQ-de Casio Edifice Herren Massives Edelstahlgehäuse und...'
 sku: 'B00BFN2WQQ-de'
 tags: [  ]

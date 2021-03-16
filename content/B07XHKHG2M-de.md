@@ -5,7 +5,7 @@ date: 2020-02-25 10:07:49
 image: 'https://m.media-amazon.com/images/I/410BjylqUcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XHKHG2M-de Uten Heißluftfritteuse 6.5L Airfryer XXL Frittieren ohne...'
 sku: 'B07XHKHG2M-de'
 tags: [  ]

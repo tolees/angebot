@@ -5,7 +5,7 @@ date: 2020-04-11 08:12:04
 image: 'https://m.media-amazon.com/images/I/41hg81RP31L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001NYXXVU-de KS Tools 911.1584 1/2" 12-kant-Stecknuss 24mm'
 sku: 'B001NYXXVU-de'
 tags: [  ]

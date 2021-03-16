@@ -5,7 +5,7 @@ date: 2020-08-11 12:14:59
 image: 'https://m.media-amazon.com/images/I/31w4hv0K6tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBHSK1P-de Tristar VE-5999 Ventilator Turmventilator mit...'
 sku: 'B01NBHSK1P-de'
 tags: [  ]

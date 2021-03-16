@@ -5,7 +5,7 @@ date: 2020-10-03 19:08:38
 image: 'https://m.media-amazon.com/images/I/31DB5vjoYBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NCKPCTJ-de HÖGL Damen DRYFLEX Stiefeletten Schwarz Schwarz 0100 38 EU'
 sku: 'B07NCKPCTJ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-13 12:13:55
 image: 'https://m.media-amazon.com/images/I/31fxUygO-hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009SIVCNE-de Samsonite S Cure - Spinner S Handgepäck 55 cm 34 L Blau...'
 sku: 'B009SIVCNE-de'
 tags: [  ]

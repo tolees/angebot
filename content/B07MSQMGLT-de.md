@@ -5,7 +5,7 @@ date: 2020-07-11 09:35:40
 image: 'https://m.media-amazon.com/images/I/414l3+m96iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSQMGLT-de Transcend 512GB SATA III 6GB/S MTS430S 42 mm m.2 SSD 430S...'
 sku: 'B07MSQMGLT-de'
 tags: [  ]

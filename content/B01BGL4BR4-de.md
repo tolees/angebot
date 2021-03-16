@@ -5,7 +5,7 @@ date: 2020-04-11 08:04:58
 image: 'https://m.media-amazon.com/images/I/51bOSVGiRmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGL4BR4-de fischertechnik Dynamic S Kugelbahn mit Klang - für Kinder...'
 sku: 'B01BGL4BR4-de'
 tags: [  ]

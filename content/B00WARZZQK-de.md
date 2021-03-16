@@ -5,7 +5,7 @@ date: 2020-03-13 05:07:32
 image: 'https://m.media-amazon.com/images/I/51zlpbVVrqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WARZZQK-de Der dritte Mann Digital Remastered 2 Discs [Special Edition]'
 sku: 'B00WARZZQK-de'
 tags: [  ]

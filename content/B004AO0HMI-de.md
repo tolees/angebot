@@ -5,7 +5,7 @@ date: 2020-02-03 04:55:16
 image: 'https://m.media-amazon.com/images/I/51YHp9qE3JL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004AO0HMI-de Jillian Michaels - Shred: Schlank in 30 Tagen'
 sku: 'B004AO0HMI-de'
 tags: [  ]

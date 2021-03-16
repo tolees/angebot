@@ -5,7 +5,7 @@ date: 2020-04-18 00:17:05
 image: 'https://m.media-amazon.com/images/I/51wtYhZchkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BM1WMG5-de Hasbro Gaming E1871100 - Monopoly Mogeln und Mauscheln...'
 sku: 'B07BM1WMG5-de'
 tags: [  ]

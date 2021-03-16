@@ -5,7 +5,7 @@ date: 2020-03-25 12:13:56
 image: 'https://m.media-amazon.com/images/I/51fTyeDv2+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y5JC6Y-de Ravensburger 24990" Entdecke die Welt Lernspiel'
 sku: 'B077Y5JC6Y-de'
 tags: [  ]

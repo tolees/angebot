@@ -5,7 +5,7 @@ date: 2020-01-12 20:09:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31-LpErw6uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N87QZYR-de Fitbit Inspire und Inspire HR Print-Armbänder Deko Large'
 sku: 'B07N87QZYR-de'
 tags: [  ]

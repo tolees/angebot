@@ -5,7 +5,7 @@ date: 2020-05-17 09:54:27
 image: 'https://m.media-amazon.com/images/I/41kaXfxSypL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076W5GMG6-de Pepe Jeans Damen Jeans Soho Blau D26 29W/30L'
 sku: 'B076W5GMG6-de'
 tags: [  ]

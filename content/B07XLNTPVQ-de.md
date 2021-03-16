@@ -5,7 +5,7 @@ date: 2020-02-17 17:19:47
 image: 'https://m.media-amazon.com/images/I/415XqOW2IrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XLNTPVQ-de Belkin ScreenForce TemperedCurve Displayschutz für iPhone...'
 sku: 'B07XLNTPVQ-de'
 tags: [  ]

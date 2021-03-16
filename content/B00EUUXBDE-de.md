@@ -5,7 +5,7 @@ date: 2020-04-05 21:01:43
 image: 'https://m.media-amazon.com/images/I/41MZiZcFotL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EUUXBDE-de Logitech Z200 2.0 Lautsprecher mit Subwoofer Surround...'
 sku: 'B00EUUXBDE-de'
 tags: [  ]

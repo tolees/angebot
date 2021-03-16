@@ -5,7 +5,7 @@ date: 2020-04-18 00:13:49
 image: 'https://m.media-amazon.com/images/I/51P27Vja8uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079N2CMRT-de PLAYMOBIL DreamWorks Spirit 9475 Luckys glückliches...'
 sku: 'B079N2CMRT-de'
 tags: [  ]

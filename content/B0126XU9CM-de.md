@@ -5,7 +5,7 @@ date: 2020-08-15 01:14:32
 image: 'https://m.media-amazon.com/images/I/419F7GNdHSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0126XU9CM-de Maxesla Bluetooth USB 4.0 Dongle Empfänger Bluetooth für...'
 sku: 'B0126XU9CM-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-28 18:08:38
 image: 'https://m.media-amazon.com/images/I/41pjTIlKX+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K5R99FA-de Tommy Hilfiger Herren 3p Trunk Shorts Weiß White 100 XXL...'
 sku: 'B00K5R99FA-de'
 tags: [  ]

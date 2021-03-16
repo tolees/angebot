@@ -5,7 +5,7 @@ date: 2020-05-28 13:23:55
 image: 'https://m.media-amazon.com/images/I/417QKpP3SzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ODRSHZ6-de Jabra Evolve 40 UC Stereo-Kabel-Headset mit USB und 3 5...'
 sku: 'B00ODRSHZ6-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-08 23:01:51
 image: 'https://m.media-amazon.com/images/I/31m7K8t1GVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LBN3VHY-de Ice-Watch - ICE glam pastel Aqua - Women s wristwatch with...'
 sku: 'B00LBN3VHY-de'
 tags: [  ]

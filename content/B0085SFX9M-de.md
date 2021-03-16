@@ -5,7 +5,7 @@ date: 2020-09-15 05:49:39
 image: 'https://m.media-amazon.com/images/I/31HX96wwXYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0085SFX9M-de JACK & JONES Herren T-Shirt 12058529 Basic O-Neck Tee...'
 sku: 'B0085SFX9M-de'
 tags: [  ]

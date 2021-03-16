@@ -5,7 +5,7 @@ date: 2020-08-24 17:17:19
 image: 'https://m.media-amazon.com/images/I/518XpMERBrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNN17DW-de LEGO City 60213 Feuerwehr am Hafen'
 sku: 'B07FNN17DW-de'
 tags: [  ]

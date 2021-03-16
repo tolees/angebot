@@ -5,7 +5,7 @@ date: 2020-01-24 21:53:32
 image: 'https://m.media-amazon.com/images/I/418sL3j4WyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00S2FZK3M-de Puma Damen Straight Leg Hose black XL 512809 01'
 sku: 'B00S2FZK3M-de'
 tags: [  ]

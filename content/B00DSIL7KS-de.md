@@ -5,7 +5,7 @@ date: 2020-05-23 07:04:57
 image: 'https://m.media-amazon.com/images/I/51ASk6Q3j9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DSIL7KS-de Mannesmann 232-tlg. Steckschlüsselsatz 1/4" + 1/2" M98450'
 sku: 'B00DSIL7KS-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-06 12:04:05
 image: 'https://m.media-amazon.com/images/I/41J+FlnEOnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDZG1QV-de iRobot Roomba i7 i7156 Saugroboter 3-stufiges...'
 sku: 'B07PDZG1QV-de'
 tags: [  ]

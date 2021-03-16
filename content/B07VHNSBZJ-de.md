@@ -5,7 +5,7 @@ date: 2020-08-28 17:05:19
 image: 'https://m.media-amazon.com/images/I/51DkfEUKl4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHNSBZJ-de Samsung RU7099 163 cm 65 Zoll LED Fernseher Ultra HD HDR...'
 sku: 'B07VHNSBZJ-de'
 tags: [  ]

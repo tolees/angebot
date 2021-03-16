@@ -5,7 +5,7 @@ date: 2020-03-16 04:21:20
 image: 'https://m.media-amazon.com/images/I/31wozazJiBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JIWQPMW-de Anker PowerCore 26800mAh Power Bank Externer Akku mit Dual...'
 sku: 'B01JIWQPMW-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-08 01:50:59
 image: 'https://m.media-amazon.com/images/I/31QiaLdVpZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X4FPF6P-de Selected Homme NOS Herren 16068376 Hose Grün Sea Spray 44...'
 sku: 'B07X4FPF6P-de'
 tags: [  ]

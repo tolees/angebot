@@ -5,7 +5,7 @@ date: 2020-06-09 04:44:47
 image: 'https://m.media-amazon.com/images/I/51RdSdlNc9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GR1TVS-de LEGO Star Wars Han Solo 75535 Baubare Figur'
 sku: 'B075GR1TVS-de'
 tags: [  ]

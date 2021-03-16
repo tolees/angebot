@@ -5,7 +5,7 @@ date: 2020-06-01 07:13:01
 image: 'https://m.media-amazon.com/images/I/31S8A0af-NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N9GQ6JQ-de SAMSONITE Uplite - Three-Way Laptop Expandable Rucksack 40...'
 sku: 'B07N9GQ6JQ-de'
 tags: [  ]

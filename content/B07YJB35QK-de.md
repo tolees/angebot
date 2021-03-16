@@ -5,7 +5,7 @@ date: 2020-04-07 21:28:59
 image: 'https://m.media-amazon.com/images/I/41DVLs7zfcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YJB35QK-de Küchenarmatur Heimwerkerzubehör Antike Messing 360 Swivel...'
 sku: 'B07YJB35QK-de'
 tags: [  ]

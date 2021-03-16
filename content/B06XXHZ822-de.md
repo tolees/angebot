@@ -5,7 +5,7 @@ date: 2020-08-30 06:39:59
 image: 'https://m.media-amazon.com/images/I/51c8YrixDjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XXHZ822-de PROCAVE TopCool Qualitäts-Bettdecke für den Sommer...'
 sku: 'B06XXHZ822-de'
 tags: [  ]

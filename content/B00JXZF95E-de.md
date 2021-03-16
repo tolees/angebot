@@ -5,7 +5,7 @@ date: 2020-09-24 09:47:20
 image: 'https://m.media-amazon.com/images/I/41NUgV0fdJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JXZF95E-de Der fliegende Holländer'
 sku: 'B00JXZF95E-de'
 tags: [  ]

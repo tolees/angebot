@@ -5,7 +5,7 @@ date: 2020-04-14 08:05:12
 image: 'https://m.media-amazon.com/images/I/51fHzeN3OsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRK2ZQF-de Gifort 1200 stücke 1-1.5cm Pompons Bunte Pompom Pom Pom...'
 sku: 'B07NRK2ZQF-de'
 tags: [  ]

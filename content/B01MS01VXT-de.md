@@ -5,7 +5,7 @@ date: 2020-04-15 23:40:25
 image: 'https://m.media-amazon.com/images/I/41zPn3zUF5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MS01VXT-de Kitchen Craft Kaffeebüchse Industrial Kitchen 11x16 5cm...'
 sku: 'B01MS01VXT-de'
 tags: [  ]

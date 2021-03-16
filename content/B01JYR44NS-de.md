@@ -5,7 +5,7 @@ date: 2020-09-13 22:10:50
 image: 'https://m.media-amazon.com/images/I/412x+m8HBwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JYR44NS-de Parrot 3520410038808 Minidrone Swing mit Flypad schwarz'
 sku: 'B01JYR44NS-de'
 tags: [  ]

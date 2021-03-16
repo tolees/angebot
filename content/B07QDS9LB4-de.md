@@ -5,7 +5,7 @@ date: 2020-08-17 22:25:43
 image: 'https://m.media-amazon.com/images/I/31ISkDXMOTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QDS9LB4-de Rotho Albula Mülltrennungssystem für Küche / Set 3fach /...'
 sku: 'B07QDS9LB4-de'
 tags: [  ]

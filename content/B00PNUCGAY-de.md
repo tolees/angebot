@@ -5,7 +5,7 @@ date: 2020-03-07 05:05:18
 image: 'https://m.media-amazon.com/images/I/31RC3YcvchL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PNUCGAY-de Gardena Classic Bewässerungsbrause: Gartenbrause zur...'
 sku: 'B00PNUCGAY-de'
 tags: [  ]

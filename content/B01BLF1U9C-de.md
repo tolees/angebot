@@ -5,7 +5,7 @@ date: 2020-04-10 00:11:04
 image: 'https://m.media-amazon.com/images/I/41yPZtovBoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BLF1U9C-de fischertechnik Experimentierbaukasten Mechanic + Static 2...'
 sku: 'B01BLF1U9C-de'
 tags: [  ]

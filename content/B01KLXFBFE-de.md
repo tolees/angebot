@@ -5,7 +5,7 @@ date: 2020-05-24 11:06:41
 image: 'https://m.media-amazon.com/images/I/51MbxREsdIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KLXFBFE-de Remington Haarglätter PROluxe S9100 OPTIheat-Technologie...'
 sku: 'B01KLXFBFE-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-23 09:13:56
 image: 'https://m.media-amazon.com/images/I/41rZsrc07yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QN1YPQM-de HolyHigh Bluetooth Kopfhörer in Ear Sport Kabellos...'
 sku: 'B07QN1YPQM-de'
 tags: [  ]

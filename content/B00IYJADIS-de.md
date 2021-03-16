@@ -5,7 +5,7 @@ date: 2020-03-09 04:52:39
 image: 'https://m.media-amazon.com/images/I/41dNO9DCA5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IYJADIS-de Odlo Herren Mütze Polyknit Black One size 776350'
 sku: 'B00IYJADIS-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-15 00:20:17
 image: 'https://m.media-amazon.com/images/I/41hdMa-oZRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5X5M7G-de McFarlane Toys 15601-0 Actionfigur'
 sku: 'B07V5X5M7G-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-04 05:25:29
 image: 'https://m.media-amazon.com/images/I/41q+xS3BUVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072J2PLBK-de Lenovo L24q-10 60 45 cm 23 8 Zoll QHD IPS matt Monitor...'
 sku: 'B072J2PLBK-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 19:42:57
 image: 'https://m.media-amazon.com/images/I/41pY-WFUraL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HJUSZ14-de QNAP TVS-1282-i3-8G Hochleistungsfähiges NAS-System Tiered...'
 sku: 'B01HJUSZ14-de'
 tags: [  ]

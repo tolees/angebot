@@ -5,7 +5,7 @@ date: 2020-04-16 17:59:31
 image: 'https://m.media-amazon.com/images/I/413OtBowbHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HRRCX7C-de EPOCH Traumwiesen 5033 Sylvanian Families Esszimmer-Set'
 sku: 'B00HRRCX7C-de'
 tags: [  ]

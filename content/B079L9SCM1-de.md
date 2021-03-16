@@ -5,7 +5,7 @@ date: 2020-06-03 15:24:19
 image: 'https://m.media-amazon.com/images/I/31kho+PB95L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079L9SCM1-de Lacoste Herren Ch9623 Smoking Hemd Weiß Blanc/Blanc 37'
 sku: 'B079L9SCM1-de'
 tags: [  ]

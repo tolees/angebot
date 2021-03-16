@@ -5,7 +5,7 @@ date: 2020-08-18 04:58:43
 image: 'https://m.media-amazon.com/images/I/51nYVkc46pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7VDTYX-de Orzly Tastatur Maus Set Gaming RX250 4 in 1 PC Pack Combo...'
 sku: 'B07V7VDTYX-de'
 tags: [  ]

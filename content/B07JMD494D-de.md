@@ -5,7 +5,7 @@ date: 2020-03-08 18:47:55
 image: 'https://m.media-amazon.com/images/I/61uNsHwMe-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMD494D-de Playmobil 70052 City Life Rettungs-Balance-Roller bunt'
 sku: 'B07JMD494D-de'
 tags: [  ]

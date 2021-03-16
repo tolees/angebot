@@ -5,7 +5,7 @@ date: 2020-08-06 06:40:46
 image: 'https://m.media-amazon.com/images/I/41dSPbNlZCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CHCKJ7M-de Externes 3D Blu Ray DVD Laufwerk Brenner USB 3.0 Tragbare...'
 sku: 'B08CHCKJ7M-de'
 tags: [  ]

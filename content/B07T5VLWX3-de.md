@@ -5,7 +5,7 @@ date: 2020-04-19 13:49:49
 image: 'https://m.media-amazon.com/images/I/41z13UmRsIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T5VLWX3-de Acer TravelMate P2 TMP215-51-83MD 39 6 cm 15 6 Zoll Full-...'
 sku: 'B07T5VLWX3-de'
 tags: [  ]

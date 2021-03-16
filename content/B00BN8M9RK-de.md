@@ -5,7 +5,7 @@ date: 2020-03-27 09:04:50
 image: 'https://m.media-amazon.com/images/I/41c3aBPSRML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BN8M9RK-de WMF Profi Resist Bratpfanne 24 cm Mehrschichtmaterial...'
 sku: 'B00BN8M9RK-de'
 tags: [  ]

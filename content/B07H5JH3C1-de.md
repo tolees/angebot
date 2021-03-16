@@ -5,7 +5,7 @@ date: 2020-03-19 07:11:52
 image: 'https://m.media-amazon.com/images/I/41mglkLLB6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5JH3C1-de Lintelek Fitness Tracker Fitness Armband Fitness Uhr...'
 sku: 'B07H5JH3C1-de'
 tags: [  ]

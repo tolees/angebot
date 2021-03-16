@@ -5,7 +5,7 @@ date: 2020-01-10 13:23:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IaYK9H7lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRD42WK-de Samsung LS01R The Serif 108 cm 43 Zoll QLED Lifestyle...'
 sku: 'B07PRD42WK-de'
 tags: [  ]

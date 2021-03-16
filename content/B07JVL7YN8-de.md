@@ -5,7 +5,7 @@ date: 2020-08-20 23:01:42
 image: 'https://m.media-amazon.com/images/I/51gf485E4IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JVL7YN8-de Komake Überraschung Box Explosion Box DIY Geschenk...'
 sku: 'B07JVL7YN8-de'
 tags: [  ]

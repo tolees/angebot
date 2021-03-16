@@ -5,7 +5,7 @@ date: 2020-01-27 01:49:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XKtmHYlAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BFHH27K-de Brother Original Tonerkassette TN-3480 schwarz für Brother...'
 sku: 'B01BFHH27K-de'
 tags: [  ]

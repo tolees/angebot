@@ -5,7 +5,7 @@ date: 2020-02-04 10:14:25
 image: 'https://m.media-amazon.com/images/I/41cHEitM72L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073WZFMF5-de Emporio Armani Herren Chronograph Quarz Smart Watch...'
 sku: 'B073WZFMF5-de'
 tags: [  ]

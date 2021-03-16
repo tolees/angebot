@@ -5,7 +5,7 @@ date: 2020-04-25 07:02:40
 image: 'https://m.media-amazon.com/images/I/41hE9vYI1qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AJOMDSI-de Linksys Max-Stream AC1900 MU-MIMO Dual-Band Wi-Fi Router...'
 sku: 'B01AJOMDSI-de'
 tags: [  ]

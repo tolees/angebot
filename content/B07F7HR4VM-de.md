@@ -5,7 +5,7 @@ date: 2020-03-22 13:18:22
 image: 'https://m.media-amazon.com/images/I/31LLdg7Ee+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F7HR4VM-de Yamaha MusicCast 50 Musikbox Multiroom Stereo-Lautsprecher...'
 sku: 'B07F7HR4VM-de'
 tags: [  ]

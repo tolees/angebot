@@ -5,7 +5,7 @@ date: 2020-10-06 17:53:44
 image: 'https://m.media-amazon.com/images/I/31A1BbZk2vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RY9L9YW-de Levi s Damen Perfect Vneck T-Shirt Weiß White + 0002 Medium'
 sku: 'B07RY9L9YW-de'
 tags: [  ]

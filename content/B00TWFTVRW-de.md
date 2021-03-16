@@ -5,7 +5,7 @@ date: 2020-04-03 21:01:49
 image: 'https://m.media-amazon.com/images/I/51BjZ5-PTrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TWFTVRW-de fischertechnik Kugelbahn Dynamic M mit Kettenaufzug und...'
 sku: 'B00TWFTVRW-de'
 tags: [  ]

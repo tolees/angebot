@@ -5,7 +5,7 @@ date: 2020-08-20 23:05:35
 image: 'https://m.media-amazon.com/images/I/51dK2NlLmNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X5RQBN6-de LED Einbaustrahler Dimmbar Schwenkbar Ultra Flach 5er Set...'
 sku: 'B07X5RQBN6-de'
 tags: [  ]

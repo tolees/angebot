@@ -5,7 +5,7 @@ date: 2020-02-13 06:46:53
 image: 'https://m.media-amazon.com/images/I/51A7Ybj1xVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T16KRFG-de Ni no Kuni: Der Fluch der Weißen Königin - [Nintendo Switch]'
 sku: 'B07T16KRFG-de'
 tags: [  ]

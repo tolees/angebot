@@ -5,7 +5,7 @@ date: 2020-02-21 04:46:41
 image: 'https://m.media-amazon.com/images/I/51ua1R+FlfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRPJYR2-de Garmin Instinct – wasserdichte Sport-Smartwatch mit...'
 sku: 'B07PRPJYR2-de'
 tags: [  ]

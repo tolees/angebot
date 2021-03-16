@@ -5,7 +5,7 @@ date: 2020-01-19 16:06:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31EgugsSJ7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H5HJ18M-de Libratone TOO Bluetooth Lautsprecher 360° Sound Touch...'
 sku: 'B01H5HJ18M-de'
 tags: [  ]

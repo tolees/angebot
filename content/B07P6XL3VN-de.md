@@ -5,7 +5,7 @@ date: 2020-04-10 00:02:36
 image: 'https://m.media-amazon.com/images/I/41uINE4SJ4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6XL3VN-de Souarts Ring Damen Schmuck Silber Rosegold Farbe Edelstahl...'
 sku: 'B07P6XL3VN-de'
 tags: [  ]

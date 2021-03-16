@@ -5,7 +5,7 @@ date: 2020-02-24 16:23:05
 image: 'https://m.media-amazon.com/images/I/51tK0LgOrAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0032DB1QE-de Dragonball Z - Box 2/10 Episoden 36-74 [6 DVDs]'
 sku: 'B0032DB1QE-de'
 tags: [  ]

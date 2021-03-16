@@ -5,7 +5,7 @@ date: 2020-10-12 08:13:54
 image: 'https://m.media-amazon.com/images/I/410tGozir0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0848N2YZK-de Tommy Hilfiger Sportuhr 1791720'
 sku: 'B0848N2YZK-de'
 tags: [  ]

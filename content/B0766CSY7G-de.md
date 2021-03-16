@@ -5,7 +5,7 @@ date: 2020-08-26 22:33:45
 image: 'https://m.media-amazon.com/images/I/61mtrpKARXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0766CSY7G-de PLAYMOBIL Family Fun 9422 Swimmingpool mit Pump-Dusche Ab...'
 sku: 'B0766CSY7G-de'
 tags: [  ]

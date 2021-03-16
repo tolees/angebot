@@ -5,7 +5,7 @@ date: 2020-07-15 07:26:23
 image: 'https://m.media-amazon.com/images/I/51qeIoNKHXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHY4TST-de Die drei !!!'
 sku: 'B07VHY4TST-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-28 13:06:37
 image: 'https://m.media-amazon.com/images/I/41lK2QrjyeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X1JKV71-de Mpow EM19 Bluetooth-Headset für Ein Ohr Bluetooth Headset...'
 sku: 'B07X1JKV71-de'
 tags: [  ]

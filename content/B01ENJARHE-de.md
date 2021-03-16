@@ -5,7 +5,7 @@ date: 2020-09-23 19:26:29
 image: 'https://m.media-amazon.com/images/I/41uCGm4tD0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ENJARHE-de Challenge Disc 2.0 e Balance Board per Bluetooth mit...'
 sku: 'B01ENJARHE-de'
 tags: [  ]

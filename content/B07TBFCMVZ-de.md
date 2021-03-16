@@ -5,7 +5,7 @@ date: 2020-04-18 00:42:21
 image: 'https://m.media-amazon.com/images/I/412II8tkvcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TBFCMVZ-de HolyHigh Bluetooth Sport Kopfhörer Bluetooth 5.0 Kabellose...'
 sku: 'B07TBFCMVZ-de'
 tags: [  ]

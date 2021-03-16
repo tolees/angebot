@@ -5,7 +5,7 @@ date: 2020-04-25 12:19:53
 image: 'https://m.media-amazon.com/images/I/511F1u5Cm4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMN4NJD-de L.O.L. Surprise! 559764E7C Amazing Surprise mit über 70...'
 sku: 'B07PMN4NJD-de'
 tags: [  ]

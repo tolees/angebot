@@ -5,7 +5,7 @@ date: 2020-04-14 16:49:43
 image: 'https://m.media-amazon.com/images/I/51MoDCjINbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PV9DRN3-de Tyroler Bright Tools Mikrofaser Bodenwischer Mop mit...'
 sku: 'B07PV9DRN3-de'
 tags: [  ]

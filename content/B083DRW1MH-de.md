@@ -5,7 +5,7 @@ date: 2020-04-13 23:41:34
 image: 'https://m.media-amazon.com/images/I/414nmZxAdKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083DRW1MH-de TuToy Herren Sicherheit Stahlkappe Rutschfeste...'
 sku: 'B083DRW1MH-de'
 tags: [  ]

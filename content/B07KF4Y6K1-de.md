@@ -5,7 +5,7 @@ date: 2020-01-20 07:24:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zrnm-nCtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF4Y6K1-de Levi s Damen 310 Shaping Super Skinny Jeans Blau Westbound...'
 sku: 'B07KF4Y6K1-de'
 tags: [  ]

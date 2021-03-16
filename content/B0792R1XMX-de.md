@@ -5,7 +5,7 @@ date: 2020-02-29 12:07:00
 image: 'https://m.media-amazon.com/images/I/51jrvAB3kWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792R1XMX-de My Little Pony - Cuties Sammelfiguren kleines Pony in...'
 sku: 'B0792R1XMX-de'
 tags: [  ]

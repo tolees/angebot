@@ -5,7 +5,7 @@ date: 2020-04-15 00:27:41
 image: 'https://m.media-amazon.com/images/I/41R39y8xcjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0187RFKQ6-de FMD Möbel 291-001 Tower Drehregal Holz sandeiche 34 x 34 x...'
 sku: 'B0187RFKQ6-de'
 tags: [  ]

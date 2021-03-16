@@ -5,7 +5,7 @@ date: 2020-09-17 10:08:45
 image: 'https://m.media-amazon.com/images/I/51Ykzj7-BTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000IWXWI2-de Energizer Alkaline Batterie E23 A'
 sku: 'B000IWXWI2-de'
 tags: [  ]

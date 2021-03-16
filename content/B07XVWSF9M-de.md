@@ -5,7 +5,7 @@ date: 2020-04-18 00:49:19
 image: 'https://m.media-amazon.com/images/I/318PJtygs3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XVWSF9M-de Microsoft Surface Laptop 3 15 Zoll Laptop AMD Ryzen 5...'
 sku: 'B07XVWSF9M-de'
 tags: [  ]

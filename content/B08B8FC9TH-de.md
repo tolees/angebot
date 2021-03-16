@@ -5,7 +5,7 @@ date: 2020-09-01 12:04:25
 image: 'https://m.media-amazon.com/images/I/316-oBKgIwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B8FC9TH-de Smart Alexa Lichtschalter SAINKO Wifi lichtschalter...'
 sku: 'B08B8FC9TH-de'
 tags: [  ]

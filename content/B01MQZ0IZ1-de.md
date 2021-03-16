@@ -5,7 +5,7 @@ date: 2020-01-29 04:37:44
 image: 'https://m.media-amazon.com/images/I/61YL4oWvhCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQZ0IZ1-de Schmidt Spiele Mouse TV Puzzle 56212 blau Gute Freunde...'
 sku: 'B01MQZ0IZ1-de'
 tags: [  ]

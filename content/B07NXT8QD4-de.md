@@ -5,7 +5,7 @@ date: 2020-03-26 08:02:58
 image: 'https://m.media-amazon.com/images/I/41sb9dQoONL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NXT8QD4-de Vicstar [2 Stück] Samsung Galaxy S10e Panzerglas...'
 sku: 'B07NXT8QD4-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-21 04:48:29
 image: 'https://m.media-amazon.com/images/I/314zZM7dANL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X3ZWVZ7-de De’Longhi Dedica EC 685.W Espresso Siebträgermaschine | 15...'
 sku: 'B06X3ZWVZ7-de'
 tags: [  ]

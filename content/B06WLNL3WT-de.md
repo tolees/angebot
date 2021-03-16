@@ -5,7 +5,7 @@ date: 2020-02-29 12:06:20
 image: 'https://m.media-amazon.com/images/I/41AqsOyEYKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WLNL3WT-de Hasbro My Little Pony C0677EU4 - Movie Schwimmendes...'
 sku: 'B06WLNL3WT-de'
 tags: [  ]

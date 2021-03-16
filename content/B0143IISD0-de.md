@@ -5,7 +5,7 @@ date: 2020-03-04 14:57:09
 image: 'https://m.media-amazon.com/images/I/51jq15qOxUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0143IISD0-de SanDisk Ultra SDXC I 128 GB bis zu 80 MB/Sek Class 10...'
 sku: 'B0143IISD0-de'
 tags: [  ]

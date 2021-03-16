@@ -5,7 +5,7 @@ date: 2020-03-27 13:32:49
 image: 'https://m.media-amazon.com/images/I/61eWaP0MI4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0766DJPQV-de PLAYMOBIL Knights 9340 Mobile Zwergenfestung Ab 5 Jahren'
 sku: 'B0766DJPQV-de'
 tags: [  ]

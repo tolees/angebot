@@ -5,7 +5,7 @@ date: 2020-04-18 00:24:59
 image: 'https://m.media-amazon.com/images/I/41J7rk7UvkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HRTZTVS-de prettygood7 Eingabestift für Nintendo 3DS / N3DS / XL/LL...'
 sku: 'B07HRTZTVS-de'
 tags: [  ]

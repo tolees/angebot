@@ -5,7 +5,7 @@ date: 2020-08-14 12:14:43
 image: 'https://m.media-amazon.com/images/I/51GKfgz2-BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00006JAXW-de Hama Universal-Drehteller 360° drehbar Drehscheibe...'
 sku: 'B00006JAXW-de'
 tags: [  ]

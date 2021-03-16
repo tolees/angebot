@@ -5,7 +5,7 @@ date: 2020-03-12 20:57:23
 image: 'https://m.media-amazon.com/images/I/51yXy6Rw3vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008U7SUDE-de Whisky Ardbeg Islay Single Malt 10 Jahre in...'
 sku: 'B008U7SUDE-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-02 07:41:42
 image: 'https://m.media-amazon.com/images/I/51WyqPTl40L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XJZ3Z7V-de LG PK5W Outdoor Bluetooth Lautsprecher mit Meridian...'
 sku: 'B07XJZ3Z7V-de'
 tags: [  ]

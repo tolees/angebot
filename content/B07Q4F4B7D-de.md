@@ -5,7 +5,7 @@ date: 2020-03-07 21:09:51
 image: 'https://m.media-amazon.com/images/I/416LHurN-FL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q4F4B7D-de Bose Home Speaker 300 mit integrierter Amazon Alexa-...'
 sku: 'B07Q4F4B7D-de'
 tags: [  ]

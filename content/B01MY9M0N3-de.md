@@ -5,7 +5,7 @@ date: 2020-03-14 16:48:57
 image: 'https://m.media-amazon.com/images/I/51RDibQDY0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MY9M0N3-de LEDELI Tastaturaufkleber Tastatur Aufkleber Keyboard...'
 sku: 'B01MY9M0N3-de'
 tags: [  ]

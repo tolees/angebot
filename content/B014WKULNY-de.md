@@ -5,7 +5,7 @@ date: 2020-02-25 22:19:06
 image: 'https://m.media-amazon.com/images/I/51MihVZUIxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014WKULNY-de EMOS 1x universales selbstverschweißendes Band LxBxH 5 m x...'
 sku: 'B014WKULNY-de'
 tags: [  ]

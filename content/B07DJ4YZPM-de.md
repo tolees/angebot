@@ -5,7 +5,7 @@ date: 2020-08-04 09:13:28
 image: 'https://m.media-amazon.com/images/I/312ZdQ3gtjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ4YZPM-de Eastpak Orbit Mini Rucksack 34 cm 10 L Grün Crafty Moss'
 sku: 'B07DJ4YZPM-de'
 tags: [  ]

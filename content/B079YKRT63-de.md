@@ -5,7 +5,7 @@ date: 2020-01-16 10:44:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/412MWEhLUNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079YKRT63-de Funko 26992 Actionfigur Star Wars Red Cup - Pop 16'
 sku: 'B079YKRT63-de'
 tags: [  ]

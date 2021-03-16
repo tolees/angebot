@@ -5,7 +5,7 @@ date: 2020-09-28 08:53:51
 image: 'https://m.media-amazon.com/images/I/51Gqn3s9-QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00018GWMQ-de Winnie Puuh - Spaß im Frühling Winnie Puuh Collection'
 sku: 'B00018GWMQ-de'
 tags: [  ]

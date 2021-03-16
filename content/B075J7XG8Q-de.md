@@ -5,7 +5,7 @@ date: 2020-01-18 14:23:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41j%2Bw%2BrlxSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075J7XG8Q-de ADORIC Digitalwaage Professionelle Electronische Waage...'
 sku: 'B075J7XG8Q-de'
 tags: [  ]

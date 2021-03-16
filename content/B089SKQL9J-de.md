@@ -5,7 +5,7 @@ date: 2020-08-10 15:06:41
 image: 'https://m.media-amazon.com/images/I/5142Imdf8FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089SKQL9J-de LED TV Hintergrundbeleuchtung MustWin 3M USB LED...'
 sku: 'B089SKQL9J-de'
 tags: [  ]

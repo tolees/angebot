@@ -5,7 +5,7 @@ date: 2020-08-16 09:20:52
 image: 'https://m.media-amazon.com/images/I/31RE0M7eNhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VB29GFY-de Intenso USB-Stick Ultra Line 256 GB USB 3.0'
 sku: 'B07VB29GFY-de'
 tags: [  ]

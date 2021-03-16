@@ -5,7 +5,7 @@ date: 2020-06-10 15:15:10
 image: 'https://m.media-amazon.com/images/I/51O--FxrpAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W2YTDSF-de Eddi Stachel Spiel für Kinder ab 4 Jahren'
 sku: 'B07W2YTDSF-de'
 tags: [  ]

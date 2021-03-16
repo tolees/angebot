@@ -5,7 +5,7 @@ date: 2020-03-31 18:07:52
 image: 'https://m.media-amazon.com/images/I/31E0ncgo8rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DQGBYDC-de SanDisk Ultra 64GB USB-Flash-Laufwerk USB 3.0 bis zu 130MB/s'
 sku: 'B00DQGBYDC-de'
 tags: [  ]

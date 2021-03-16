@@ -5,7 +5,7 @@ date: 2020-05-11 12:20:45
 image: 'https://m.media-amazon.com/images/I/41kQakaMYeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F4VZJCI-de HP PageWide 352dw Tintenstrahldrucker Duplex WLAN Netzwerk...'
 sku: 'B01F4VZJCI-de'
 tags: [  ]

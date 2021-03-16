@@ -5,7 +5,7 @@ date: 2020-04-17 23:53:35
 image: 'https://m.media-amazon.com/images/I/314rh89gyPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BOXSKT4-de NIVEA SUN Pflegendes After Sun Spray 200 ml Sprühflasche'
 sku: 'B01BOXSKT4-de'
 tags: [  ]

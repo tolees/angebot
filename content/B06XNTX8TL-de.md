@@ -5,7 +5,7 @@ date: 2020-04-08 21:59:43
 image: 'https://m.media-amazon.com/images/I/516wjSegePL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XNTX8TL-de S&R Kreissägeblatt 160mm x 20mm x 2 2 mm"Wood Craft"...'
 sku: 'B06XNTX8TL-de'
 tags: [  ]

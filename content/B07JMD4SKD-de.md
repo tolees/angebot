@@ -5,7 +5,7 @@ date: 2020-04-18 00:25:57
 image: 'https://m.media-amazon.com/images/I/61RL0VAn1TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMD4SKD-de PLAYMOBIL Top Agents 70005 Team S.H.A.R.K. Drill Destroyer...'
 sku: 'B07JMD4SKD-de'
 tags: [  ]

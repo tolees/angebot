@@ -5,7 +5,7 @@ date: 2020-04-03 07:01:46
 image: 'https://m.media-amazon.com/images/I/41XzN2l1NpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00106XCYY-de Samsonite Aeris Upright L Koffer 78 cm 118.5 L Schwarz Black'
 sku: 'B00106XCYY-de'
 tags: [  ]

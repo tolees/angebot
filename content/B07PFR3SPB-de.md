@@ -5,7 +5,7 @@ date: 2020-03-27 12:22:05
 image: 'https://m.media-amazon.com/images/I/41TY9-F-FlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PFR3SPB-de Rollei Go! Profi Smartphone-Gimbal I Handy-Gimbal I Video...'
 sku: 'B07PFR3SPB-de'
 tags: [  ]

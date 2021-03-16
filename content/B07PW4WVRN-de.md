@@ -5,7 +5,7 @@ date: 2020-08-30 18:38:08
 image: 'https://m.media-amazon.com/images/I/4163N9lFJtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PW4WVRN-de SimpleLife Handtasche Drehverschluss Tasche Fall Schnalle...'
 sku: 'B07PW4WVRN-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-18 00:16:20
 image: 'https://m.media-amazon.com/images/I/41WdhrtzXwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B8LZ1NY-de Haustier-Küche® | Sepiaschalen 20 Stück 8-12cm Größe –...'
 sku: 'B07B8LZ1NY-de'
 tags: [  ]

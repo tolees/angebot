@@ -5,7 +5,7 @@ date: 2020-03-09 11:58:57
 image: 'https://m.media-amazon.com/images/I/41Xo4LcxBVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XNP8G3P-de Campingaz Lavastein Gasgrill Xpert 200 LS Rocky'
 sku: 'B06XNP8G3P-de'
 tags: [  ]

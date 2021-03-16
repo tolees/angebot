@@ -5,7 +5,7 @@ date: 2020-03-07 12:21:00
 image: 'https://m.media-amazon.com/images/I/31WXt4DcykL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QCC755Y-de adidas CORE Men Archivo Running Schuh EF0419...'
 sku: 'B07QCC755Y-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-22 07:44:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41BKmigJZbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F6IL11M-de satch Pack Chaka Cherry ergonomischer Schulrucksack 30...'
 sku: 'B01F6IL11M-de'
 tags: [  ]

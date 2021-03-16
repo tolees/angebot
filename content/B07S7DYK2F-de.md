@@ -5,7 +5,7 @@ date: 2020-03-23 12:54:26
 image: 'https://m.media-amazon.com/images/I/41phpM+SM-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7DYK2F-de Delinuo Bluetooth Kopfhörer Kabellos mit 6000mAh Batterie...'
 sku: 'B07S7DYK2F-de'
 tags: [  ]

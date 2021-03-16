@@ -5,7 +5,7 @@ date: 2020-01-27 13:59:58
 image: 'https://m.media-amazon.com/images/I/410hzfwP4xL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPG4SRX-de Philips Sonicare Elektrische Zahnbürste und Munddusche...'
 sku: 'B06XPG4SRX-de'
 tags: [  ]

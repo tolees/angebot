@@ -5,7 +5,7 @@ date: 2020-09-29 10:34:08
 image: 'https://m.media-amazon.com/images/I/31cMS8VsB+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYE8K6X-de Goobay 45193 Steckdosenleiste IP44 spritzwassergeschützt 3...'
 sku: 'B01MYE8K6X-de'
 tags: [  ]

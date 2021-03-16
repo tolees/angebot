@@ -5,7 +5,7 @@ date: 2020-04-14 16:42:26
 image: 'https://m.media-amazon.com/images/I/41cRrjQzfGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NR844JY-de Dickie Toys 203719011 Polizeistation Ultimate Police...'
 sku: 'B07NR844JY-de'
 tags: [  ]

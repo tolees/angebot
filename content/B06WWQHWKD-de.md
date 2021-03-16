@@ -5,7 +5,7 @@ date: 2020-03-19 05:14:17
 image: 'https://m.media-amazon.com/images/I/51ulcZyeZIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WWQHWKD-de Ravensburger 13698 - Magische Einhörner Puzzle'
 sku: 'B06WWQHWKD-de'
 tags: [  ]

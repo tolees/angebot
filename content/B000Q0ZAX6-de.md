@@ -5,7 +5,7 @@ date: 2020-03-22 04:58:15
 image: 'https://m.media-amazon.com/images/I/2142F+lvQ1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000Q0ZAX6-de Jil Sander Sun femme/ woman Duschgel 150 ml'
 sku: 'B000Q0ZAX6-de'
 tags: [  ]

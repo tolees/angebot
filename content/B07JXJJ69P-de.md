@@ -5,7 +5,7 @@ date: 2020-02-03 21:28:22
 image: 'https://m.media-amazon.com/images/I/61zjIvilX1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JXJJ69P-de Playmobil 70042 Dragons Raffnuss und Taffnuss mit...'
 sku: 'B07JXJJ69P-de'
 tags: [  ]

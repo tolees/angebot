@@ -5,7 +5,7 @@ date: 2020-09-27 18:07:18
 image: 'https://m.media-amazon.com/images/I/51BV12NPXvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018HT1NW4-de Krampus [Blu-ray]'
 sku: 'B018HT1NW4-de'
 tags: [  ]

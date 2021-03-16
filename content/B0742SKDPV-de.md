@@ -5,7 +5,7 @@ date: 2020-09-12 11:17:21
 image: 'https://m.media-amazon.com/images/I/41KBHiKPF4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0742SKDPV-de Russell Hobbs Popcornmaschine Fiesta Heißluft Popcorn...'
 sku: 'B0742SKDPV-de'
 tags: [  ]

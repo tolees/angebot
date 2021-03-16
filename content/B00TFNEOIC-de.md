@@ -5,7 +5,7 @@ date: 2020-09-03 06:21:07
 image: 'https://m.media-amazon.com/images/I/51mgtXsOCYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TFNEOIC-de normani 4 x Herren Retroshorts mit hohem Baumwollanteil...'
 sku: 'B00TFNEOIC-de'
 tags: [  ]

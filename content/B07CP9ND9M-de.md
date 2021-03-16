@@ -5,7 +5,7 @@ date: 2020-03-02 19:40:59
 image: 'https://m.media-amazon.com/images/I/516luGFr-tL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CP9ND9M-de Panasonic TX-43FSW504 43 Zoll/108 cm Smart TV TV LED...'
 sku: 'B07CP9ND9M-de'
 tags: [  ]

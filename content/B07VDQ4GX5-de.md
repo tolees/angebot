@@ -5,7 +5,7 @@ date: 2020-05-15 07:39:41
 image: 'https://m.media-amazon.com/images/I/51Il--haCZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDQ4GX5-de toptrek Fahrradrucksack 20L Fahrrad Rucksäcke mit...'
 sku: 'B07VDQ4GX5-de'
 tags: [  ]

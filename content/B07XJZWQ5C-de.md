@@ -5,7 +5,7 @@ date: 2020-04-08 05:19:06
 image: 'https://m.media-amazon.com/images/I/51QlNJrHWLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XJZWQ5C-de KASTEWILL Bluetooth Adapter 5.0 Transmitter Empfänger 80m...'
 sku: 'B07XJZWQ5C-de'
 tags: [  ]

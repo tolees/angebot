@@ -5,7 +5,7 @@ date: 2020-01-22 12:22:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xn2W-JEzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0ZY3FQ-de Anita Active Damen Air Control Deltapad Sport-BH Weiß Weiß...'
 sku: 'B01N0ZY3FQ-de'
 tags: [  ]

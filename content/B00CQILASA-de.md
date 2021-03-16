@@ -5,7 +5,7 @@ date: 2020-03-07 05:05:20
 image: 'https://m.media-amazon.com/images/I/51exKSNKDIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CQILASA-de UHU 45450 Doppel-Strips Extrem 4 kg 26 mm x 31 mm 16 Stück'
 sku: 'B00CQILASA-de'
 tags: [  ]

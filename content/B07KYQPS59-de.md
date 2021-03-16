@@ -5,7 +5,7 @@ date: 2020-04-14 16:42:16
 image: 'https://m.media-amazon.com/images/I/41JXLBJpG0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KYQPS59-de OBEEII Kinder Festliche Kleider Mädchen Einhorn Kostüm...'
 sku: 'B07KYQPS59-de'
 tags: [  ]

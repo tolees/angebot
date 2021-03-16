@@ -5,7 +5,7 @@ date: 2020-09-12 09:09:07
 image: 'https://m.media-amazon.com/images/I/41bl7AhDe0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004H4EFF6-de Hazet 810SPC/6 Schraubendreher-Satz'
 sku: 'B004H4EFF6-de'
 tags: [  ]

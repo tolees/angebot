@@ -5,7 +5,7 @@ date: 2020-01-22 01:17:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61eXI2gipsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QM4WKT2-de Ravensburger 29841 - 2-in-1 Mandala Designer Frozen'
 sku: 'B00QM4WKT2-de'
 tags: [  ]

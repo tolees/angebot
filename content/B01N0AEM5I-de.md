@@ -5,7 +5,7 @@ date: 2020-09-23 02:00:33
 image: 'https://m.media-amazon.com/images/I/61VyciTyT9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0AEM5I-de Der Mann ohne Nerven Breakout [Blu-ray]'
 sku: 'B01N0AEM5I-de'
 tags: [  ]

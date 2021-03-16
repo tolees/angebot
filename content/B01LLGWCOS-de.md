@@ -5,7 +5,7 @@ date: 2020-04-14 16:18:23
 image: 'https://m.media-amazon.com/images/I/41Juz31c12L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LLGWCOS-de Kitchen Craft Wasserkocher Living Nostalgia 1 4l in...'
 sku: 'B01LLGWCOS-de'
 tags: [  ]

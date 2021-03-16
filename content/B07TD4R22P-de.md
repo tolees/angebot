@@ -5,7 +5,7 @@ date: 2020-07-11 20:50:43
 image: 'https://m.media-amazon.com/images/I/41MSRa8oHuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TD4R22P-de LIGHTAILING Licht-Set Für Architecture Paris Modell - LED...'
 sku: 'B07TD4R22P-de'
 tags: [  ]

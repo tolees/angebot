@@ -5,7 +5,7 @@ date: 2020-04-09 15:32:35
 image: 'https://m.media-amazon.com/images/I/51hm3NwrZLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPK6JBT-de Funko 28506 POP Vinyl: KISS: Spaceman Sammelbares...'
 sku: 'B07KPK6JBT-de'
 tags: [  ]

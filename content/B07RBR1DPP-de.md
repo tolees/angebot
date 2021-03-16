@@ -5,7 +5,7 @@ date: 2020-04-09 23:57:37
 image: 'https://m.media-amazon.com/images/I/31FupFjWpKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RBR1DPP-de YLCJ - Lámpara colgante moderna de 14 con lámpara colgante...'
 sku: 'B07RBR1DPP-de'
 tags: [  ]

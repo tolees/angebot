@@ -5,7 +5,7 @@ date: 2020-03-29 13:23:13
 image: 'https://m.media-amazon.com/images/I/51Q3QmAA0AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JM59JBS-de Playmobil 70179 1.2.3 Meine erste Eisenbahn bunt'
 sku: 'B07JM59JBS-de'
 tags: [  ]

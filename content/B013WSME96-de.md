@@ -5,7 +5,7 @@ date: 2020-05-12 09:14:07
 image: 'https://m.media-amazon.com/images/I/41L1mgRVyxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013WSME96-de Sony Xperia Z5 Smartphone 5 2 Zoll 13 2 cm Touch-Display...'
 sku: 'B013WSME96-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-03 11:04:27
 image: 'https://m.media-amazon.com/images/I/61u3MQvWQIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016XSPUPW-de WOLF-Garten - Trocken-Rasen Premium L-TP 50 rot'
 sku: 'B016XSPUPW-de'
 tags: [  ]

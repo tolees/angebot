@@ -5,7 +5,7 @@ date: 2020-02-28 04:55:39
 image: 'https://m.media-amazon.com/images/I/31C5zaeR+KL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GNS4TPY-de Tefal G11519 Delicia Pro Wokpfanne 28 cm Aluminium schwarz'
 sku: 'B07GNS4TPY-de'
 tags: [  ]

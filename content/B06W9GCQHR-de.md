@@ -5,7 +5,7 @@ date: 2020-03-11 08:32:40
 image: 'https://m.media-amazon.com/images/I/51N8tWehzwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W9GCQHR-de Schleich 42389 - Reitschule mit Reiterinnen und Pferden'
 sku: 'B06W9GCQHR-de'
 tags: [  ]

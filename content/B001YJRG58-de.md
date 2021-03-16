@@ -5,7 +5,7 @@ date: 2020-01-21 04:49:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41de2kxcbaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001YJRG58-de Bosch HMT84M421 Serie 2 Mikrowelle / 900 W / 25 l /...'
 sku: 'B001YJRG58-de'
 tags: [  ]

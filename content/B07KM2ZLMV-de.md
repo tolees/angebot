@@ -5,7 +5,7 @@ date: 2020-02-10 21:18:34
 image: 'https://m.media-amazon.com/images/I/31Yt6p4jxZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KM2ZLMV-de Samsung C32JG51FD 81 28 cm 32 Zoll Curved Monitor 16:9...'
 sku: 'B07KM2ZLMV-de'
 tags: [  ]

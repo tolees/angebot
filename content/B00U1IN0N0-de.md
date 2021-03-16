@@ -5,7 +5,7 @@ date: 2020-04-14 16:18:05
 image: 'https://m.media-amazon.com/images/I/31CHghnSN1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U1IN0N0-de Kitchen Craft Kuchendose Living Nostalgia mit Deckel 28...'
 sku: 'B00U1IN0N0-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 08:02:11
 image: 'https://m.media-amazon.com/images/I/31d3In9YpJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R8WBH9R-de YLCJ Nordic ball moderno araña con cáñamo cuerda araña...'
 sku: 'B07R8WBH9R-de'
 tags: [  ]

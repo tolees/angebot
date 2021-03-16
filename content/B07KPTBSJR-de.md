@@ -5,7 +5,7 @@ date: 2020-04-11 16:02:19
 image: 'https://m.media-amazon.com/images/I/41pDcMtx3sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPTBSJR-de Funko 38565 POP Vinyl 6" Jaws Sammelbares Spielzeug...'
 sku: 'B07KPTBSJR-de'
 tags: [  ]

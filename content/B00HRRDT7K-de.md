@@ -5,7 +5,7 @@ date: 2020-04-16 18:01:07
 image: 'https://m.media-amazon.com/images/I/412Oq5mOkEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HRRDT7K-de Sylvanian Families 4862 Dorfladen für Schuhe Mehrfarbig'
 sku: 'B00HRRDT7K-de'
 tags: [  ]

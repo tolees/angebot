@@ -5,7 +5,7 @@ date: 2020-04-18 00:16:01
 image: 'https://m.media-amazon.com/images/I/41I4qJhIo9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4HXLQP-de Navitech Rot hartes Wasser-beständiges Mini Desktop PC /...'
 sku: 'B07B4HXLQP-de'
 tags: [  ]

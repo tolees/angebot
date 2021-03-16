@@ -5,7 +5,7 @@ date: 2020-10-09 09:23:45
 image: 'https://m.media-amazon.com/images/I/41qV9Yuk5jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UNA1ICQ-de Seagate Expansion Desktop 3 TB externe Festplatte 3.5" USB...'
 sku: 'B00UNA1ICQ-de'
 tags: [  ]

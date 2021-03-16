@@ -5,7 +5,7 @@ date: 2020-02-26 20:04:19
 image: 'https://m.media-amazon.com/images/I/51JMcWXwuIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D4QFYM0-de Revell Modellbausatz Star Wars Rebel U-Wing Fighter im...'
 sku: 'B01D4QFYM0-de'
 tags: [  ]

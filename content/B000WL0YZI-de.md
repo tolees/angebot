@@ -5,7 +5,7 @@ date: 2020-02-25 04:57:50
 image: 'https://m.media-amazon.com/images/I/21WCNPluzcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000WL0YZI-de Herlitz 10843746 Aktenhülle A4 Standard PP 0 11 mm...'
 sku: 'B000WL0YZI-de'
 tags: [  ]

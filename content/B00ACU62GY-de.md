@@ -5,7 +5,7 @@ date: 2020-09-18 10:58:10
 image: 'https://m.media-amazon.com/images/I/414rWIMAeAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ACU62GY-de Remington SPF-300 Scherköpfe Kombi Pack für F5800 und F7800'
 sku: 'B00ACU62GY-de'
 tags: [  ]

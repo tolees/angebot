@@ -5,7 +5,7 @@ date: 2020-03-25 08:37:01
 image: 'https://m.media-amazon.com/images/I/31A5XdKwL6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M5BURG9-de JBL E45BT On-Ear Bluetooth Kopfhörer - Headphones mit...'
 sku: 'B01M5BURG9-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-17 23:40:45
 image: 'https://m.media-amazon.com/images/I/51PZ9-4EkzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HHO8WOS-de Flashpoint - Das Spezialkommando: Die komplette Serie [24...'
 sku: 'B00HHO8WOS-de'
 tags: [  ]

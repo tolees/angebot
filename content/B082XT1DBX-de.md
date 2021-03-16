@@ -5,7 +5,7 @@ date: 2020-02-06 19:27:04
 image: 'https://m.media-amazon.com/images/I/31hA5VERJGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082XT1DBX-de NHUAIYINSHUGUOGUANGGAOJINGY Displayport zum HDMI-...'
 sku: 'B082XT1DBX-de'
 tags: [  ]

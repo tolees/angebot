@@ -5,7 +5,7 @@ date: 2020-03-21 04:54:34
 image: 'https://m.media-amazon.com/images/I/41rPh+p0tfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001EB2TTO-de Siemens Keramikbackstein inkl. Holzschieber / Für Backöfen...'
 sku: 'B001EB2TTO-de'
 tags: [  ]

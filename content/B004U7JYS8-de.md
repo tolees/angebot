@@ -5,7 +5,7 @@ date: 2020-01-20 04:42:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51XUIWK9cSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004U7JYS8-de Fujifilm Instax Mini Instant Film 1x 10 Blatt 10 Blatt Weiß'
 sku: 'B004U7JYS8-de'
 tags: [  ]

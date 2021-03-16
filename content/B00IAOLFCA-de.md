@@ -5,7 +5,7 @@ date: 2020-02-21 04:48:29
 image: 'https://m.media-amazon.com/images/I/51d+n1PIvML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IAOLFCA-de Casio Collection Herren Armbanduhr AE-1300WH-2AVEF'
 sku: 'B00IAOLFCA-de'
 tags: [  ]

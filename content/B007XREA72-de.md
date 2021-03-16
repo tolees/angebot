@@ -5,7 +5,7 @@ date: 2020-02-21 08:32:00
 image: 'https://m.media-amazon.com/images/I/51plgCd0ozL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007XREA72-de funny-frisch Chipsfrisch Currywurst Style 10er Pack 10 x...'
 sku: 'B007XREA72-de'
 tags: [  ]

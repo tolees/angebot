@@ -5,7 +5,7 @@ date: 2020-08-15 05:57:12
 image: 'https://m.media-amazon.com/images/I/41nBvNvbVBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C8JWWBQ-de D-Link DGS-1100-08 8-Port Layer2 Gigabit Switch EasySmart...'
 sku: 'B00C8JWWBQ-de'
 tags: [  ]

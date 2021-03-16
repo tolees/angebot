@@ -5,7 +5,7 @@ date: 2020-01-10 12:01:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qC6Y1uZ3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RMS67ZX-de HP Pavilion 595-p0020ng Desktop PC AMD Ryzen 7 16 GB DDR4...'
 sku: 'B07RMS67ZX-de'
 tags: [  ]

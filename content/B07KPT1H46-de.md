@@ -5,7 +5,7 @@ date: 2020-04-07 13:09:25
 image: 'https://m.media-amazon.com/images/I/41a3G0VVBvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPT1H46-de Funko 37707 POP & Buddy Vinyl Men In Black Agent K &...'
 sku: 'B07KPT1H46-de'
 tags: [  ]

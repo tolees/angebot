@@ -5,7 +5,7 @@ date: 2020-01-30 04:48:15
 image: 'https://m.media-amazon.com/images/I/31+Dz6b6FzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0009JI5RW-de ZWILLING Schneiderschere Stoffschere Länge: 21 cm...'
 sku: 'B0009JI5RW-de'
 tags: [  ]

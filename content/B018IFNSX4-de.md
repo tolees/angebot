@@ -5,7 +5,7 @@ date: 2020-09-14 06:48:27
 image: 'https://m.media-amazon.com/images/I/41vyPo2PWjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018IFNSX4-de Elvie Trainer - Der preisgekrönte Beckenbodentrainer mit...'
 sku: 'B018IFNSX4-de'
 tags: [  ]

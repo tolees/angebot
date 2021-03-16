@@ -5,7 +5,7 @@ date: 2020-02-19 20:01:14
 image: 'https://m.media-amazon.com/images/I/51ECrTVxozL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V91DWW2-de Funko 021421 S2 No Actionfigur Sesame Street: Grover Multi'
 sku: 'B00V91DWW2-de'
 tags: [  ]

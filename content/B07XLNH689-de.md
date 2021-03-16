@@ -5,7 +5,7 @@ date: 2020-02-13 04:42:55
 image: 'https://m.media-amazon.com/images/I/51FUEZ6kFhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XLNH689-de Tales of: Vesperia + Berseria + Zestiria'
 sku: 'B07XLNH689-de'
 tags: [  ]

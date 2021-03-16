@@ -5,7 +5,7 @@ date: 2020-04-13 23:57:09
 image: 'https://m.media-amazon.com/images/I/419JW-UbBWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QH7DCZF-de BABY born Surprise 904091 Baby Überraschungsfigur im Kokon...'
 sku: 'B07QH7DCZF-de'
 tags: [  ]

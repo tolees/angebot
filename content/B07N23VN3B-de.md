@@ -5,7 +5,7 @@ date: 2020-04-15 15:30:26
 image: 'https://m.media-amazon.com/images/I/31qZ+2sRlGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N23VN3B-de Craft Mütze Light Thermal Outdoor Running Training Beanie...'
 sku: 'B07N23VN3B-de'
 tags: [  ]

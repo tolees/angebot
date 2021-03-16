@@ -5,7 +5,7 @@ date: 2020-03-11 15:07:40
 image: 'https://m.media-amazon.com/images/I/51-es2SaKvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZFDXYVX-de Winzwon Smartwatch Fitness Armband wasserdichte...'
 sku: 'B07ZFDXYVX-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-04 11:42:47
 image: 'https://m.media-amazon.com/images/I/21JNW2dCY7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001FSKH8G-de MIYABI 7000D Santoku Messer 18 cm Klinge CMV60 Stahl...'
 sku: 'B001FSKH8G-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-12 15:49:42
 image: 'https://m.media-amazon.com/images/I/31QVkr8pXDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XZCSTBS-de ZTE Smartphone Blade 10 VITA 16 cm 6 26 Zoll HD+ Display...'
 sku: 'B07XZCSTBS-de'
 tags: [  ]

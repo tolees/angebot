@@ -5,7 +5,7 @@ date: 2020-01-04 08:45:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31soHXSSebL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJM9XHM-de Tamaris Damen 1-1-25129-23 Stiefeletten Schwarz Black 1 38 EU'
 sku: 'B07NJM9XHM-de'
 tags: [  ]

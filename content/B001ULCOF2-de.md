@@ -5,7 +5,7 @@ date: 2020-09-28 06:27:54
 image: 'https://m.media-amazon.com/images/I/51jYNDc+GmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001ULCOF2-de tesa Insect Stop COMFORT Fliegengitter für Fenster -...'
 sku: 'B001ULCOF2-de'
 tags: [  ]

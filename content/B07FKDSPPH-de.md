@@ -5,7 +5,7 @@ date: 2020-06-04 21:36:21
 image: 'https://m.media-amazon.com/images/I/41PpmZNK5xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKDSPPH-de Hasbro E4163ES2 - Disney Prinzessin Schimmerglanz Jasmin...'
 sku: 'B07FKDSPPH-de'
 tags: [  ]

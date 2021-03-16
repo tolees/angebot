@@ -5,7 +5,7 @@ date: 2020-09-22 07:44:27
 image: 'https://m.media-amazon.com/images/I/41Clf03x6nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008HRFFJE-de Bosch Professional 7tlg. Betonbohrer Set CYL-3 für Beton Ø...'
 sku: 'B008HRFFJE-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-17 23:41:32
 image: 'https://m.media-amazon.com/images/I/51BWV7B85LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HRRD11O-de Sylvanian Families 5036 5036-Babyzimmer Puppenzimmer...'
 sku: 'B00HRRD11O-de'
 tags: [  ]

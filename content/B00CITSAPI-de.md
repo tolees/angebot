@@ -5,7 +5,7 @@ date: 2020-02-12 20:29:15
 image: 'https://m.media-amazon.com/images/I/41HhgE6nWdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CITSAPI-de Mobicool W40 AC/DC - thermo-elektrische Kühlbox mit Rollen...'
 sku: 'B00CITSAPI-de'
 tags: [  ]

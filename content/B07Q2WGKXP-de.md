@@ -5,7 +5,7 @@ date: 2020-06-06 14:42:44
 image: 'https://m.media-amazon.com/images/I/41KtZFZeBHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q2WGKXP-de Roccat Vulcan 121 - Mechanische Gaming Tastatur AIMO LED...'
 sku: 'B07Q2WGKXP-de'
 tags: [  ]

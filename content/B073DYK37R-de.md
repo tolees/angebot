@@ -5,7 +5,7 @@ date: 2020-02-21 04:48:20
 image: 'https://m.media-amazon.com/images/I/51kD8MnLygL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073DYK37R-de American Horror Story - Season 6 - Roanoke [Blu-ray]'
 sku: 'B073DYK37R-de'
 tags: [  ]

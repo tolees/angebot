@@ -5,7 +5,7 @@ date: 2020-09-11 08:31:16
 image: 'https://m.media-amazon.com/images/I/617GA1QWKyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0742XTFT7-de Pegasus Spiele 57104G - Kingdomino Spiel des Jahres 2017'
 sku: 'B0742XTFT7-de'
 tags: [  ]

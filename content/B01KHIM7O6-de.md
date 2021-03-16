@@ -5,7 +5,7 @@ date: 2020-10-09 12:12:28
 image: 'https://m.media-amazon.com/images/I/310sMb6lNTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KHIM7O6-de Philips 929001229801 EEK A+ LED Lampe ersetzt 120 W E27...'
 sku: 'B01KHIM7O6-de'
 tags: [  ]

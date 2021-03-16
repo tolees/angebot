@@ -5,7 +5,7 @@ date: 2020-02-01 23:53:36
 image: 'https://m.media-amazon.com/images/I/31OUxUWNklL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SHXPX1H-de Samsung Galaxy S10+ Smartphone 16.3cm 6.4 Zoll 512 GB...'
 sku: 'B07SHXPX1H-de'
 tags: [  ]

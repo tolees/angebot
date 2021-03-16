@@ -5,7 +5,7 @@ date: 2020-03-30 12:20:39
 image: 'https://m.media-amazon.com/images/I/41ZUueSpcgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W3M7NHR-de Ionen Haartrockner Ribivaul 1700 Watt Salon Dry Care...'
 sku: 'B07W3M7NHR-de'
 tags: [  ]

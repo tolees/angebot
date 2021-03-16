@@ -5,7 +5,7 @@ date: 2020-01-18 10:04:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41K2aBizkqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J2GBXDR-de Skibrille Ski Snowboardbrille Brillenträger Schneebrille...'
 sku: 'B07J2GBXDR-de'
 tags: [  ]

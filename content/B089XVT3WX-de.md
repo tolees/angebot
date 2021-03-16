@@ -5,7 +5,7 @@ date: 2020-08-01 11:34:48
 image: 'https://m.media-amazon.com/images/I/41vbFu4MKhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089XVT3WX-de Bluetooth-Kopfhörer 5.0 kabellose Touch-Kopfhörer HiFi-...'
 sku: 'B089XVT3WX-de'
 tags: [  ]

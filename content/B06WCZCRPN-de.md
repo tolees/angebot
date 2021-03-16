@@ -5,7 +5,7 @@ date: 2020-03-30 05:02:24
 image: 'https://m.media-amazon.com/images/I/61RUkXk6hZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WCZCRPN-de Playmobil 9243 - Berk'
 sku: 'B06WCZCRPN-de'
 tags: [  ]

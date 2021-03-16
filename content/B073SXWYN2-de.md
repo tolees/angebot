@@ -5,7 +5,7 @@ date: 2020-03-15 17:44:56
 image: 'https://m.media-amazon.com/images/I/21c0QLR8OGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073SXWYN2-de Google WiFi-Router Wireless Bluetooth Weiß weiß weiß Pack...'
 sku: 'B073SXWYN2-de'
 tags: [  ]

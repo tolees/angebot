@@ -5,7 +5,7 @@ date: 2020-02-14 07:12:19
 image: 'https://m.media-amazon.com/images/I/4100xBmxveL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073CT76MZ-de Beurer BF 600 Diagnosewaage schwarz Messung von Körperfett...'
 sku: 'B073CT76MZ-de'
 tags: [  ]

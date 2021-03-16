@@ -5,7 +5,7 @@ date: 2020-03-09 08:27:03
 image: 'https://m.media-amazon.com/images/I/41Yhso8GrfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3X2XFZ-de ASICS Herren Gel-Bondi Laufschuhe Schwarz Black/White 001...'
 sku: 'B07S3X2XFZ-de'
 tags: [  ]

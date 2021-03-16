@@ -5,7 +5,7 @@ date: 2020-08-30 12:17:54
 image: 'https://m.media-amazon.com/images/I/21zi7xla8TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9JCC78-de Samsung Clear View Cover EF-ZN975 für Galaxy Note 10+ White'
 sku: 'B07V9JCC78-de'
 tags: [  ]

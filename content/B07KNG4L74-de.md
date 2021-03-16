@@ -5,7 +5,7 @@ date: 2020-01-24 14:17:22
 image: 'https://m.media-amazon.com/images/I/41kzcBsskUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KNG4L74-de Razer Blackwidow Elite Mechanische Full-Size-Gaming-...'
 sku: 'B07KNG4L74-de'
 tags: [  ]

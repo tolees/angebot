@@ -5,7 +5,7 @@ date: 2020-04-07 21:41:07
 image: 'https://m.media-amazon.com/images/I/512EHu-G1gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083K2VKJS-de DXX Acryl Schaukasten Vitrine Schaukasten Acryl Vitrine...'
 sku: 'B083K2VKJS-de'
 tags: [  ]

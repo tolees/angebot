@@ -5,7 +5,7 @@ date: 2020-04-11 23:56:30
 image: 'https://m.media-amazon.com/images/I/31kY-3WLW+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFBJR9C-de Funko POP Fantastic Beasts 2 Baby NI'
 sku: 'B07DFBJR9C-de'
 tags: [  ]

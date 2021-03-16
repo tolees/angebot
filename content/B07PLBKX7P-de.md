@@ -5,7 +5,7 @@ date: 2020-03-19 10:16:59
 image: 'https://m.media-amazon.com/images/I/41IYvEgI8+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLBKX7P-de Filofax Kalendereinlage Personal 1 Woche auf 2 Seiten...'
 sku: 'B07PLBKX7P-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-24 01:47:48
 image: 'https://m.media-amazon.com/images/I/41eXT6YT+jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G3L3DRK-de Crucial BX500 120GB CT120BX500SSD1 Z -bis zu 540 MB/s...'
 sku: 'B07G3L3DRK-de'
 tags: [  ]

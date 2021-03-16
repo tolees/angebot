@@ -5,7 +5,7 @@ date: 2020-09-25 01:30:19
 image: 'https://m.media-amazon.com/images/I/31qM-D0fwQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084HB1DKM-de Samsung Sound Tower Lautsprecher MX-T70 Bluetooth...'
 sku: 'B084HB1DKM-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-30 06:40:02
 image: 'https://m.media-amazon.com/images/I/51Ys9mT0UGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VY25DSR-de Merry Style Damen Bikini Oberteil P614W Schwarz 9240 75 D'
 sku: 'B06VY25DSR-de'
 tags: [  ]

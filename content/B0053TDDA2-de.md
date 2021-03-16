@@ -5,7 +5,7 @@ date: 2020-09-13 02:40:19
 image: 'https://m.media-amazon.com/images/I/311fiB-9i8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0053TDDA2-de Rotho Paso Mülleimer 20l mit Deckel Kunststoff PP BPA-frei...'
 sku: 'B0053TDDA2-de'
 tags: [  ]

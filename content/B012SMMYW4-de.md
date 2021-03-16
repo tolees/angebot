@@ -5,7 +5,7 @@ date: 2020-04-22 18:14:49
 image: 'https://m.media-amazon.com/images/I/51H5LGrQ1JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012SMMYW4-de Fahrradrucksack Damen & Herren 18L - Leichter Kleiner...'
 sku: 'B012SMMYW4-de'
 tags: [  ]

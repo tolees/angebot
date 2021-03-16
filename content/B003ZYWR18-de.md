@@ -5,7 +5,7 @@ date: 2020-07-13 11:33:25
 image: 'https://m.media-amazon.com/images/I/41d3sgnmOpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003ZYWR18-de Melitta Caffeo CI E970-101 Kaffeevollautomat | mit...'
 sku: 'B003ZYWR18-de'
 tags: [  ]

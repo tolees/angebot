@@ -5,7 +5,7 @@ date: 2020-10-11 20:04:59
 image: 'https://m.media-amazon.com/images/I/417bEUmwG6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VOPB4A-de Moschino Funny femme/woman Eau de Toilette...'
 sku: 'B000VOPB4A-de'
 tags: [  ]

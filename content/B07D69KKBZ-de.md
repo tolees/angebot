@@ -5,7 +5,7 @@ date: 2020-10-06 12:22:59
 image: 'https://m.media-amazon.com/images/I/410gpfSfqxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D69KKBZ-de LG G7 ThinQ Smartphone 15 47 cm 6 1 Zoll FullVision LCD...'
 sku: 'B07D69KKBZ-de'
 tags: [  ]

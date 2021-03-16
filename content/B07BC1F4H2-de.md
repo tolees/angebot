@@ -5,7 +5,7 @@ date: 2020-01-27 04:41:18
 image: 'https://m.media-amazon.com/images/I/61CNwJNGn0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BC1F4H2-de Captain Toad: Treasure Tracker - [Nintendo 3DS]'
 sku: 'B07BC1F4H2-de'
 tags: [  ]

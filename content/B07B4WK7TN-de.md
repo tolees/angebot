@@ -5,7 +5,7 @@ date: 2020-04-14 16:09:46
 image: 'https://m.media-amazon.com/images/I/41qDvlcd1JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4WK7TN-de ORICO - Aluminio 3.5 Pulgadas 4 Bahías Gabinete Disco Duro...'
 sku: 'B07B4WK7TN-de'
 tags: [  ]

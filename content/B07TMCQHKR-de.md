@@ -5,7 +5,7 @@ date: 2020-08-22 07:41:24
 image: 'https://m.media-amazon.com/images/I/414rCP8bzhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMCQHKR-de Yazubi Jeans Herren Akon Slim - Jeans Hosen für Männer -...'
 sku: 'B07TMCQHKR-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-25 22:02:14
 image: 'https://m.media-amazon.com/images/I/51MSBGMWCQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0001WGI0I-de BRIO Bahn 33204 - Parkhaus Straßen&Schienen'
 sku: 'B0001WGI0I-de'
 tags: [  ]

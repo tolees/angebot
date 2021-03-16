@@ -5,7 +5,7 @@ date: 2020-09-11 08:35:44
 image: 'https://m.media-amazon.com/images/I/51-7DSv5T0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRN58WG-de Play-Doh A5417EU8 Glitzerknete für fantasievolles und...'
 sku: 'B07KRN58WG-de'
 tags: [  ]

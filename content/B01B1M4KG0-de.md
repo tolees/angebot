@@ -5,7 +5,7 @@ date: 2020-01-29 09:04:22
 image: 'https://m.media-amazon.com/images/I/41CDcJZ4moL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B1M4KG0-de WMF Provence Plus Gemüsetopf 24cm Glasdeckel Topf groß 8...'
 sku: 'B01B1M4KG0-de'
 tags: [  ]

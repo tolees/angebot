@@ -5,7 +5,7 @@ date: 2020-10-11 02:05:43
 image: 'https://m.media-amazon.com/images/I/51uDf4nsjfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VDAKO2-de Kopp 565656001 Nautic Universalschalter Aus-und...'
 sku: 'B000VDAKO2-de'
 tags: [  ]

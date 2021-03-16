@@ -5,7 +5,7 @@ date: 2020-04-10 15:54:45
 image: 'https://m.media-amazon.com/images/I/21jLHPoWYqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082D5M6GZ-de TuToy 64 Cm Lange Kurze Dehnbare Schuhlöffel Edelstahl...'
 sku: 'B082D5M6GZ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 16:18:33
 image: 'https://m.media-amazon.com/images/I/31xw8oLaoyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074DTXKRZ-de Paulis Kitchen Pfannenwender Silikon/Edelstahl...'
 sku: 'B074DTXKRZ-de'
 tags: [  ]

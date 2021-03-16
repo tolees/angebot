@@ -5,7 +5,7 @@ date: 2020-04-20 20:15:40
 image: 'https://m.media-amazon.com/images/I/31IM+wmqcML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGFRPMC-de Napapijri Damen Rainforest W WINT 3 Jacke Weiß Whitecap...'
 sku: 'B07MGFRPMC-de'
 tags: [  ]

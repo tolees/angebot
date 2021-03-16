@@ -5,7 +5,7 @@ date: 2020-01-27 09:46:26
 image: 'https://m.media-amazon.com/images/I/614fO3iym2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYMT862-de Disney Kuscheldecke 120x140 cm Frozen die Eiskönigin...'
 sku: 'B01MYMT862-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-08 06:45:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51lDk6O70-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LEJCUWQ-de Funko 11411 POP Vinylfigur: Dishonored 2: Emily'
 sku: 'B01LEJCUWQ-de'
 tags: [  ]

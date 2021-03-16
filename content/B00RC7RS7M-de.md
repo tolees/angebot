@@ -5,7 +5,7 @@ date: 2020-10-08 11:21:30
 image: 'https://m.media-amazon.com/images/I/31XcG4HlRVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RC7RS7M-de Ecco Damen SOFT7W Sneakers Schwarz BLACK 1001 40 EU'
 sku: 'B00RC7RS7M-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-07 14:03:57
 image: 'https://m.media-amazon.com/images/I/415x-j88YJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CV6D2GJ-de JACK & JONES Herren JFWALBANY Leather STS Biker Boots...'
 sku: 'B07CV6D2GJ-de'
 tags: [  ]

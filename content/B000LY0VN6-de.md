@@ -5,7 +5,7 @@ date: 2020-08-26 13:20:02
 image: 'https://m.media-amazon.com/images/I/510q5B6BX+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000LY0VN6-de Tetra Pro Energy Premiumfutter Flockenfutter für alle...'
 sku: 'B000LY0VN6-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-07 04:59:24
 image: 'https://m.media-amazon.com/images/I/515+0f0Sr7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004O0TOU4-de Ravensburger 22093 - Schnappt Hubi!'
 sku: 'B004O0TOU4-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 08:02:22
 image: 'https://m.media-amazon.com/images/I/41uRMQYfXdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017HASEG2-de Hasbro B5286ES2 Disney Prinzessin Schimmerglanz Rapunzel'
 sku: 'B017HASEG2-de'
 tags: [  ]

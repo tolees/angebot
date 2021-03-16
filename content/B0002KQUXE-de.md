@@ -5,7 +5,7 @@ date: 2020-04-29 15:55:36
 image: 'https://m.media-amazon.com/images/I/315Q7K76T6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0002KQUXE-de Technics RP-DH1200 DJ Kopfhörer silber'
 sku: 'B0002KQUXE-de'
 tags: [  ]

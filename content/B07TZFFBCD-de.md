@@ -5,7 +5,7 @@ date: 2020-07-09 22:34:31
 image: 'https://m.media-amazon.com/images/I/21l8oQkKyKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZFFBCD-de LEDVANCE LED Wand- und Deckenleuchte Leuchte für...'
 sku: 'B07TZFFBCD-de'
 tags: [  ]

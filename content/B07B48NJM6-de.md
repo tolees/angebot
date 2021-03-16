@@ -5,7 +5,7 @@ date: 2020-02-07 19:44:42
 image: 'https://m.media-amazon.com/images/I/51iel02pucL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B48NJM6-de Ravensburger FC Bayern München 3D Puzzle Allianz Arena'
 sku: 'B07B48NJM6-de'
 tags: [  ]

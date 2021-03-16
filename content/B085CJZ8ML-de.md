@@ -5,7 +5,7 @@ date: 2020-09-14 15:01:25
 image: 'https://m.media-amazon.com/images/I/312bgxnzFWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085CJZ8ML-de EDELHAND © Küchenschrank Geschirrtuchhalter zum Einhängen...'
 sku: 'B085CJZ8ML-de'
 tags: [  ]

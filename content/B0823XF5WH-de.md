@@ -5,7 +5,7 @@ date: 2020-01-28 10:30:10
 image: 'https://m.media-amazon.com/images/I/41oWPUivF6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0823XF5WH-de OBEEII Mädchen ELSA Kostüm Prinzessin Kleid mit Umhang...'
 sku: 'B0823XF5WH-de'
 tags: [  ]

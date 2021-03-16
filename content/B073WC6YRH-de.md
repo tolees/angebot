@@ -5,7 +5,7 @@ date: 2020-02-25 18:49:03
 image: 'https://m.media-amazon.com/images/I/3111dhnTjJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073WC6YRH-de PAUL HEWITT Anker Armkette Anchor Spirit Plated - Armkette...'
 sku: 'B073WC6YRH-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-01 05:03:54
 image: 'https://m.media-amazon.com/images/I/41Cc7b00cnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPS562-de Funko 39697 POP Vinyl: Dragonball Z S6: Vegeta Sammelbares...'
 sku: 'B07MZPS562-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-29 06:40:00
 image: 'https://m.media-amazon.com/images/I/51zh+6z-zcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXOQ54Z-de Omega 3 Kapseln 2000mg - Fischöl 660 EPA 440 DHA pro...'
 sku: 'B01LXOQ54Z-de'
 tags: [  ]

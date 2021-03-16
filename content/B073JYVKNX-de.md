@@ -5,7 +5,7 @@ date: 2020-08-17 04:56:19
 image: 'https://m.media-amazon.com/images/I/41pfhJozwqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073JYVKNX-de SanDisk Ultra 64GB MicroSDXC Speicherkarte + SD-Adapter...'
 sku: 'B073JYVKNX-de'
 tags: [  ]

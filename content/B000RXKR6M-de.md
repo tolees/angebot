@@ -5,7 +5,7 @@ date: 2020-07-10 16:56:30
 image: 'https://m.media-amazon.com/images/I/51QyCqOutxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000RXKR6M-de Meguiar s X3002EU Microfibre Wash Mitt Mikrofaser-...'
 sku: 'B000RXKR6M-de'
 tags: [  ]

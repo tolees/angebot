@@ -5,7 +5,7 @@ date: 2020-09-30 02:48:27
 image: 'https://m.media-amazon.com/images/I/41s3SLPGDnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079CBP5N8-de JACK & JONES Herren JJECORP Logo Tee SS Crew Neck NOOS...'
 sku: 'B079CBP5N8-de'
 tags: [  ]

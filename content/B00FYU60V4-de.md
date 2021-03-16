@@ -5,7 +5,7 @@ date: 2020-04-27 06:43:42
 image: 'https://m.media-amazon.com/images/I/41TeE+HT0FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FYU60V4-de Lindt Lindor Schokoladenkugeln Auswahl glutenfrei – ca. 80...'
 sku: 'B00FYU60V4-de'
 tags: [  ]

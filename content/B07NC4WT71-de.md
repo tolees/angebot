@@ -5,7 +5,7 @@ date: 2020-02-18 20:02:03
 image: 'https://m.media-amazon.com/images/I/41icoQ4vj4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC4WT71-de Disney Cars GGL47 - Radiator Springs Rennset Spielzeugauto...'
 sku: 'B07NC4WT71-de'
 tags: [  ]

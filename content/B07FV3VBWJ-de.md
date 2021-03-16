@@ -5,7 +5,7 @@ date: 2020-01-16 19:38:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41iY5YWFXVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FV3VBWJ-de Bosch PST 700 ReadyToSaw Stichsäge inkl. Koffer 500W'
 sku: 'B07FV3VBWJ-de'
 tags: [  ]

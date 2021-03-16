@@ -5,7 +5,7 @@ date: 2020-03-28 10:52:01
 image: 'https://m.media-amazon.com/images/I/41jaHJ8KmOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0006ZXLIW-de Philips LFH0720 Analoges Schreibtisch-Wiedergabesystem...'
 sku: 'B0006ZXLIW-de'
 tags: [  ]

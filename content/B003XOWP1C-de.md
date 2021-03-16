@@ -5,7 +5,7 @@ date: 2020-04-14 16:04:58
 image: 'https://m.media-amazon.com/images/I/51wSlLtJGmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003XOWP1C-de Das Phantom der Oper [Blu-ray] [Special Edition]'
 sku: 'B003XOWP1C-de'
 tags: [  ]

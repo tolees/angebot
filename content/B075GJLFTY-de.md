@@ -5,7 +5,7 @@ date: 2020-02-02 09:42:22
 image: 'https://m.media-amazon.com/images/I/51oOQeMhvBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GJLFTY-de Das fünfte Element [Blu-ray]'
 sku: 'B075GJLFTY-de'
 tags: [  ]

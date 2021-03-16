@@ -5,7 +5,7 @@ date: 2020-04-05 05:01:34
 image: 'https://m.media-amazon.com/images/I/518ZG6qj2tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C5WOND0-de Ravensburger tiptoi Wir spielen Schule Spiel ab 5 Jahren...'
 sku: 'B01C5WOND0-de'
 tags: [  ]

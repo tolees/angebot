@@ -5,7 +5,7 @@ date: 2020-02-27 04:41:23
 image: 'https://m.media-amazon.com/images/I/41ItROrWQdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003UOYB8A-de Duracell Specialty 2032 Lithium-Knopfzelle 3 V 2er-Packung...'
 sku: 'B003UOYB8A-de'
 tags: [  ]

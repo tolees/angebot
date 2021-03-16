@@ -5,7 +5,7 @@ date: 2020-04-11 08:07:28
 image: 'https://m.media-amazon.com/images/I/51KS+mcKwzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FE4S6L6-de 10x Druckerpatronen Komp. für Epson T1301 XL für Stylus...'
 sku: 'B01FE4S6L6-de'
 tags: [  ]

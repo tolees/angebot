@@ -5,7 +5,7 @@ date: 2020-03-15 15:19:28
 image: 'https://m.media-amazon.com/images/I/31Z3z2G1n-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CY5JGWJ-de Samsung MB-ME128GA/EU EVO Select 128 GB microSDXC UHS-I U3...'
 sku: 'B07CY5JGWJ-de'
 tags: [  ]

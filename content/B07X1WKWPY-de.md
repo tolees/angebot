@@ -5,7 +5,7 @@ date: 2020-05-08 09:17:46
 image: 'https://m.media-amazon.com/images/I/41eshuzpzPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X1WKWPY-de Anker Powerbank PowerCore Slim 10000 PD kompakte 10000mAh...'
 sku: 'B07X1WKWPY-de'
 tags: [  ]

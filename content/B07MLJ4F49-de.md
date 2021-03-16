@@ -5,7 +5,7 @@ date: 2020-04-18 09:25:59
 image: 'https://m.media-amazon.com/images/I/31O5y1NpKmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MLJ4F49-de Lenovo Smart Tab M10 mit Amazon Alexa 25 5 cm 10 1 Zoll...'
 sku: 'B07MLJ4F49-de'
 tags: [  ]

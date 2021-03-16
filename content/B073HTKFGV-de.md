@@ -5,7 +5,7 @@ date: 2020-01-22 04:32:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BZoHcR3qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073HTKFGV-de Anki 000-00060 Cozmo Carry Case Transporttasche Mehrfarbig'
 sku: 'B073HTKFGV-de'
 tags: [  ]

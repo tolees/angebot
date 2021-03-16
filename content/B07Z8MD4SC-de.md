@@ -5,7 +5,7 @@ date: 2020-01-08 13:57:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-gMSufVUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z8MD4SC-de Exzenterschleifer 300W Meterk Schleifmaschine holz mit...'
 sku: 'B07Z8MD4SC-de'
 tags: [  ]

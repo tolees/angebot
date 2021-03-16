@@ -5,7 +5,7 @@ date: 2020-02-11 08:39:54
 image: 'https://m.media-amazon.com/images/I/41nDlGowAbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZ5D7SX-de ASICS Damen Gel-Pulse 11 G-TX Laufschuhe Blau Mako...'
 sku: 'B07QZ5D7SX-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-07 11:16:21
 image: 'https://m.media-amazon.com/images/I/41+WVjTD1yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7WQN7W-de Xoro HMT 500 - Micro System Internet-/ DAB+/FM-Radio CD...'
 sku: 'B07P7WQN7W-de'
 tags: [  ]

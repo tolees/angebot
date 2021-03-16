@@ -5,7 +5,7 @@ date: 2020-08-19 22:59:28
 image: 'https://m.media-amazon.com/images/I/418lENL-QYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZLMQN7-de Logitech G915 LIGHTSPEED kabellose mechanische Gaming-...'
 sku: 'B07VZLMQN7-de'
 tags: [  ]

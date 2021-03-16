@@ -5,7 +5,7 @@ date: 2020-09-24 13:50:41
 image: 'https://m.media-amazon.com/images/I/311Z07M8LgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075DVV8HG-de Spyderco Dragonfly 2 Zome Taschenmesser Military Tan...'
 sku: 'B075DVV8HG-de'
 tags: [  ]

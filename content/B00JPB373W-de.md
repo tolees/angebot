@@ -5,7 +5,7 @@ date: 2020-03-13 18:55:16
 image: 'https://m.media-amazon.com/images/I/3191pymxrmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JPB373W-de Microsoft Wireless Mobile Mouse 1850 Maus rot kabellos für...'
 sku: 'B00JPB373W-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-18 04:42:13
 image: 'https://m.media-amazon.com/images/I/51-mIVmiUFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004ASOQE4-de Jane s Journey - Die Lebensreise der Jane Goodall'
 sku: 'B004ASOQE4-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-03 03:58:20
 image: 'https://m.media-amazon.com/images/I/41e0JyMVhdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072F3M8KP-de Funko 12384 POP Vinylfigur: My Hero Academia: Ochako'
 sku: 'B072F3M8KP-de'
 tags: [  ]

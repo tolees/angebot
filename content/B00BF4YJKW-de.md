@@ -5,7 +5,7 @@ date: 2020-03-17 10:39:16
 image: 'https://m.media-amazon.com/images/I/51dZqifzu3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BF4YJKW-de fischertechnik BASIC Solar Konstruktionsbaukasten - 520396'
 sku: 'B00BF4YJKW-de'
 tags: [  ]

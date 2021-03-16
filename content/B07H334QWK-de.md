@@ -5,7 +5,7 @@ date: 2020-05-23 15:48:03
 image: 'https://m.media-amazon.com/images/I/41k4YVvM5ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H334QWK-de Echo Plus 2. Gen. Sandstein Stoff + Philips Hue White Lampe'
 sku: 'B07H334QWK-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-23 19:18:19
 image: 'https://m.media-amazon.com/images/I/41J2e-ICCmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FOHW548-de Calvin Klein Herren 3p Low Rise Trunk Boxershorts...'
 sku: 'B00FOHW548-de'
 tags: [  ]

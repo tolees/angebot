@@ -5,7 +5,7 @@ date: 2020-01-29 08:08:49
 image: 'https://m.media-amazon.com/images/I/51CTIrhx0UL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PXNYRTR-de Ravensburger 14973 Disney Museum'
 sku: 'B07PXNYRTR-de'
 tags: [  ]

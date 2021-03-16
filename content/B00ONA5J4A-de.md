@@ -5,7 +5,7 @@ date: 2020-02-10 16:08:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417LgsoY05L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ONA5J4A-de Neff CKS1561N Einbau-Kaffeemaschine aus Edelstahl...'
 sku: 'B00ONA5J4A-de'
 tags: [  ]

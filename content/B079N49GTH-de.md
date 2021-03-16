@@ -5,7 +5,7 @@ date: 2020-02-09 15:31:55
 image: 'https://m.media-amazon.com/images/I/51buKus-JxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079N49GTH-de Playmobil 9490 Spielzeug-Meteoroiden-Zerstörer'
 sku: 'B079N49GTH-de'
 tags: [  ]

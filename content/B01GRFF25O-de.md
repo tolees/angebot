@@ -5,7 +5,7 @@ date: 2020-04-06 14:45:56
 image: 'https://m.media-amazon.com/images/I/41LwFjgG8IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GRFF25O-de WD 16 TB My Cloud Pro PR2100 Pro Serie 2-Bay Network...'
 sku: 'B01GRFF25O-de'
 tags: [  ]

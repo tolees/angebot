@@ -5,7 +5,7 @@ date: 2020-03-10 10:35:08
 image: 'https://m.media-amazon.com/images/I/51-wyDs1J1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LB5LT29-de SCHLEICH 42519 Spielset - Reiter-Café Horse Club'
 sku: 'B07LB5LT29-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-15 23:39:17
 image: 'https://m.media-amazon.com/images/I/51X-GEJoBSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NNQXTQT-de KLIM Ultimate + Laptop-RGB-Kühler- 11 bis 17 Zoll +...'
 sku: 'B07NNQXTQT-de'
 tags: [  ]

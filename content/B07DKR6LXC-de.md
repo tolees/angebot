@@ -5,7 +5,7 @@ date: 2020-02-16 18:21:42
 image: 'https://m.media-amazon.com/images/I/41Zny0CkNLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKR6LXC-de Asus ZenBook Pro 15 UX580GD 90NB0I73-M00240 Notebook 39 6...'
 sku: 'B07DKR6LXC-de'
 tags: [  ]

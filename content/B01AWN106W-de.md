@@ -5,7 +5,7 @@ date: 2020-04-07 21:38:40
 image: 'https://m.media-amazon.com/images/I/41Z9JsuoFpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AWN106W-de Kitchen Craft LOVELLO Brotkasten 42 x 22 x 18 cm – Schwarz'
 sku: 'B01AWN106W-de'
 tags: [  ]

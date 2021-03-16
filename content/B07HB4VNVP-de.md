@@ -5,7 +5,7 @@ date: 2020-04-05 05:04:57
 image: 'https://m.media-amazon.com/images/I/41DFMoXHZnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HB4VNVP-de Pop Billy Idol Vinyl Figure'
 sku: 'B07HB4VNVP-de'
 tags: [  ]

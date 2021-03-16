@@ -5,7 +5,7 @@ date: 2020-08-21 06:15:19
 image: 'https://m.media-amazon.com/images/I/41-h1Isw93L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CMOJUDA-de Scholl Clogs SUPERCOMFORT Frau'
 sku: 'B00CMOJUDA-de'
 tags: [  ]

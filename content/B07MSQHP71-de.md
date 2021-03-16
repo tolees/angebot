@@ -5,7 +5,7 @@ date: 2020-02-18 12:22:02
 image: 'https://m.media-amazon.com/images/I/41-sqAU5qQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSQHP71-de ASUS ZenBook Flip 15 UX562FA 90NB0LK1-M00360 39 6 cm 15 6...'
 sku: 'B07MSQHP71-de'
 tags: [  ]

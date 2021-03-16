@@ -5,7 +5,7 @@ date: 2020-01-27 17:55:29
 image: 'https://m.media-amazon.com/images/I/51VogwXEoUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B71MSVS-de Cardinal Games 6045052 - LOL Water Surprise Spiel...'
 sku: 'B07B71MSVS-de'
 tags: [  ]

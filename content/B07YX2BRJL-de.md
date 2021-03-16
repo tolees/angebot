@@ -5,7 +5,7 @@ date: 2020-02-08 23:35:24
 image: 'https://m.media-amazon.com/images/I/510bI0egNHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YX2BRJL-de AIKELA Bluetooth Kopfhörer Kabellos in Ear Wireless...'
 sku: 'B07YX2BRJL-de'
 tags: [  ]

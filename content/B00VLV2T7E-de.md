@@ -5,7 +5,7 @@ date: 2020-03-21 21:13:14
 image: 'https://m.media-amazon.com/images/I/61icqQ4FoyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VLV2T7E-de Playmobil 6662 - Zahnarzt'
 sku: 'B00VLV2T7E-de'
 tags: [  ]

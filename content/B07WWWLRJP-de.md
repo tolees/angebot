@@ -5,7 +5,7 @@ date: 2020-01-07 22:05:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31KD5bjx3dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WWWLRJP-de Sonos One SL All-In-One Smart Speaker Kraftvoller WLAN...'
 sku: 'B07WWWLRJP-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-04 05:24:15
 image: 'https://m.media-amazon.com/images/I/41wuCvOGR0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MR1HWXT-de Crucial Ballistix Sport LT BLS2K16G4D32AESB 3200 MHz DDR4...'
 sku: 'B07MR1HWXT-de'
 tags: [  ]

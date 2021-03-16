@@ -5,7 +5,7 @@ date: 2020-02-05 04:46:26
 image: 'https://m.media-amazon.com/images/I/517EeTBh+IL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011WEVVTG-de 177/der Geist des Goldgräbers'
 sku: 'B011WEVVTG-de'
 tags: [  ]

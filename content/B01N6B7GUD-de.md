@@ -5,7 +5,7 @@ date: 2020-08-30 23:51:31
 image: 'https://m.media-amazon.com/images/I/31GADwTs64L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6B7GUD-de Kenwood Chef Elite KVC5320S Küchenmaschine 4 6 l Edelstahl...'
 sku: 'B01N6B7GUD-de'
 tags: [  ]

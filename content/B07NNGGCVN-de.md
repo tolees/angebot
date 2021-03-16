@@ -5,7 +5,7 @@ date: 2020-01-27 15:23:32
 image: 'https://m.media-amazon.com/images/I/213A9V8uDjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NNGGCVN-de Panasonic In-Ear Kopfhörer Bluetooth RP-NJ310BE-K 6 h...'
 sku: 'B07NNGGCVN-de'
 tags: [  ]

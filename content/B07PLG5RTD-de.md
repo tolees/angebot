@@ -5,7 +5,7 @@ date: 2020-04-03 07:00:01
 image: 'https://m.media-amazon.com/images/I/4188S8ipohL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLG5RTD-de MUSTANG Damen 1346-502-55 Cowboystiefel Rot Bordeaux 55 39 EU'
 sku: 'B07PLG5RTD-de'
 tags: [  ]

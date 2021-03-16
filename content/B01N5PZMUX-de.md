@@ -5,7 +5,7 @@ date: 2020-01-10 14:12:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41KGSkL9ffL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5PZMUX-de Rosenstein & Söhne Kaffeepresse: Thermo-Kaffeebereiter...'
 sku: 'B01N5PZMUX-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-13 23:47:12
 image: 'https://m.media-amazon.com/images/I/41ck+8-ktwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NSN6R2X-de Funko 39547 POP Vinyl Squarepants S3: Spongebob...'
 sku: 'B07NSN6R2X-de'
 tags: [  ]

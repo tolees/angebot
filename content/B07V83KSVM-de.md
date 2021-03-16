@@ -5,7 +5,7 @@ date: 2020-03-05 09:46:36
 image: 'https://m.media-amazon.com/images/I/51+zTG+IUPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V83KSVM-de Transport Fever 2'
 sku: 'B07V83KSVM-de'
 tags: [  ]

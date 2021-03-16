@@ -5,7 +5,7 @@ date: 2020-10-11 06:24:14
 image: 'https://m.media-amazon.com/images/I/41UDU3f3rgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002DJB9GA-de BEABA 912111 - Wippe Transat Up & Down noir gris'
 sku: 'B002DJB9GA-de'
 tags: [  ]

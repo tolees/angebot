@@ -5,7 +5,7 @@ date: 2020-07-22 20:22:27
 image: 'https://m.media-amazon.com/images/I/51ABkZj42hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GPN88M-de LEGO Minecraft 21141 - Zombiehöhle Beliebtes Kinderspielzeug'
 sku: 'B075GPN88M-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-27 20:06:56
 image: 'https://m.media-amazon.com/images/I/51AwUypFM4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GYL2K34-de Toyuugo Heizlüfter Keramik Heizstrahler 950W / 450W / 30W...'
 sku: 'B07GYL2K34-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-09 07:57:58
 image: 'https://m.media-amazon.com/images/I/31FVI7ndpuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FCF914Q-de LaDicha 2ST LANTIAN LC Filter Module DC Power Video Signal...'
 sku: 'B07FCF914Q-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-25 22:07:43
 image: 'https://m.media-amazon.com/images/I/31X26iFHH0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0117ZTDSG-de AVM FRITZ!Box 7430 VDSL-/ADSL2+ WLAN N 450 MBit/s 2 4 GHz...'
 sku: 'B0117ZTDSG-de'
 tags: [  ]

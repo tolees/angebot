@@ -5,7 +5,7 @@ date: 2020-03-13 10:47:29
 image: 'https://m.media-amazon.com/images/I/31hvNNZw2FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NSTNTZJ-de Funko 36409 POP Vinyl: Pretty Woman: Vivian red Dress...'
 sku: 'B07NSTNTZJ-de'
 tags: [  ]

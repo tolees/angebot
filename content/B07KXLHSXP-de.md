@@ -5,7 +5,7 @@ date: 2020-07-22 12:47:31
 image: 'https://m.media-amazon.com/images/I/31lfVcSFQNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXLHSXP-de Bosch BBH32101 Flexxo 2 in 1 kabelloser Handstaubsauger...'
 sku: 'B07KXLHSXP-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-19 19:03:57
 image: 'https://m.media-amazon.com/images/I/21l2PerTguL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PK1H6WB-de LG SL8YG Dolby Atmos 3.1.2 Soundbar mit Meridian...'
 sku: 'B07PK1H6WB-de'
 tags: [  ]

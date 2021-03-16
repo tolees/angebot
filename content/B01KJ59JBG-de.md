@@ -5,7 +5,7 @@ date: 2020-02-26 17:53:44
 image: 'https://m.media-amazon.com/images/I/31DccqVdQ1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KJ59JBG-de Netgear Orbi RBK50 Ultra Speed Mesh-WLAN-System 3.000...'
 sku: 'B01KJ59JBG-de'
 tags: [  ]

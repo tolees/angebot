@@ -5,7 +5,7 @@ date: 2020-07-13 15:26:28
 image: 'https://m.media-amazon.com/images/I/41X6RFepw-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6VBFYD-de Cudy GS1005P 5-Port Gigabit PoE+ Switch 60W 4 *...'
 sku: 'B07W6VBFYD-de'
 tags: [  ]

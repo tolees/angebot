@@ -5,7 +5,7 @@ date: 2020-02-28 21:25:01
 image: 'https://m.media-amazon.com/images/I/41xl5f6jfTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015CH1NAQ-de SanDisk Ultra Flair 64GB USB-Flash-Laufwerk USB 3.0 mit...'
 sku: 'B015CH1NAQ-de'
 tags: [  ]

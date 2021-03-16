@@ -5,7 +5,7 @@ date: 2020-08-25 04:32:23
 image: 'https://m.media-amazon.com/images/I/41IbP0oEddL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004BEMD5Q-de KabelDirekt - 4K HDMI Kabel - 2m - kompatibel mit HDMI...'
 sku: 'B004BEMD5Q-de'
 tags: [  ]

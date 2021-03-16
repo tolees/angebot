@@ -5,7 +5,7 @@ date: 2020-04-07 13:04:31
 image: 'https://m.media-amazon.com/images/I/51++ssuOraL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBJBK0X-de Magic Tracks Starter Set | Autorennbahn für Kinder ab 3...'
 sku: 'B01NBJBK0X-de'
 tags: [  ]

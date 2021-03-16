@@ -5,7 +5,7 @@ date: 2020-04-08 13:08:41
 image: 'https://m.media-amazon.com/images/I/51rej64+gqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BM59VHC-de Hasbro Gaming E1921100 - Trivial Pursuit Familien Edition...'
 sku: 'B07BM59VHC-de'
 tags: [  ]

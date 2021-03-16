@@ -5,7 +5,7 @@ date: 2020-02-19 05:03:06
 image: 'https://m.media-amazon.com/images/I/51ybW5rYTvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LW0CCVU-de Skylanders Imaginators - Champions Combo Pack Smolderdash...'
 sku: 'B01LW0CCVU-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-13 23:48:29
 image: 'https://m.media-amazon.com/images/I/513tezIptsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3B3HKR-de Hasbro Gaming E3278100 Monopoly Game of Thrones deutsche...'
 sku: 'B07N3B3HKR-de'
 tags: [  ]

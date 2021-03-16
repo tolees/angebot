@@ -5,7 +5,7 @@ date: 2020-02-09 04:34:56
 image: 'https://m.media-amazon.com/images/I/51XhN32j7DL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GED89VI-de Kölln Müsli Schoko "30 % weniger Zucker" 1er Pack 1 x 2 kg'
 sku: 'B01GED89VI-de'
 tags: [  ]

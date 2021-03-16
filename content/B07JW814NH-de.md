@@ -5,7 +5,7 @@ date: 2020-04-16 17:34:05
 image: 'https://m.media-amazon.com/images/I/51fg8XEUw1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JW814NH-de Hasbro Monopoly - Junior der Klassiker der Brettspiele für...'
 sku: 'B07JW814NH-de'
 tags: [  ]

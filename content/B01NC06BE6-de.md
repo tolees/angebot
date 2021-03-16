@@ -5,7 +5,7 @@ date: 2020-06-10 23:49:17
 image: 'https://m.media-amazon.com/images/I/51l1MkM6kYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NC06BE6-de Hasbro Gaming C2018398 - Klartext Partyspiel Alter 16+'
 sku: 'B01NC06BE6-de'
 tags: [  ]

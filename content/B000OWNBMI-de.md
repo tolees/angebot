@@ -5,7 +5,7 @@ date: 2020-04-10 00:13:23
 image: 'https://m.media-amazon.com/images/I/41CqJ5ISdvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000OWNBMI-de Zeller Kinder-Regal mit Vlies Box Safari MDF Dekor 23.5 x...'
 sku: 'B000OWNBMI-de'
 tags: [  ]

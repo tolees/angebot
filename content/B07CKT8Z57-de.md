@@ -5,7 +5,7 @@ date: 2020-02-01 18:12:26
 image: 'https://m.media-amazon.com/images/I/413IIjvGaFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CKT8Z57-de Sennheiser HD 4.50 Special Edition kabelloser Over-Ear-...'
 sku: 'B07CKT8Z57-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-30 23:41:21
 image: 'https://m.media-amazon.com/images/I/41v4Y+qrpeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087M1MV1F-de Banane NEU 2020 2 Paar Niedlicher Ersatz Silikon Analog...'
 sku: 'B087M1MV1F-de'
 tags: [  ]

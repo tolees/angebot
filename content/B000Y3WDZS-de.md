@@ -5,7 +5,7 @@ date: 2020-09-18 06:00:42
 image: 'https://m.media-amazon.com/images/I/41G2sWxcdbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000Y3WDZS-de Wrangler Herren Texas Contrast Jeans Blau Vintage...'
 sku: 'B000Y3WDZS-de'
 tags: [  ]

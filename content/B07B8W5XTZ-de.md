@@ -5,7 +5,7 @@ date: 2020-02-04 05:29:49
 image: 'https://m.media-amazon.com/images/I/31AuNJig3wL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B8W5XTZ-de Clarks Orinoco Jazz Damen Reitstiefel Braun Tan Wlined Lea...'
 sku: 'B07B8W5XTZ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-16 04:52:54
 image: 'https://m.media-amazon.com/images/I/31iPOFV7cmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PYT9R4-de OSRAM Smart+ Mini Switch Weiß ZigBee Lichtschalter Dimmer...'
 sku: 'B074PYT9R4-de'
 tags: [  ]

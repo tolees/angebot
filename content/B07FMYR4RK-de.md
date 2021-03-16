@@ -5,7 +5,7 @@ date: 2020-08-03 13:18:13
 image: 'https://m.media-amazon.com/images/I/419A0VqHWRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FMYR4RK-de Philips Avent Natural Flaschenset SCD303/01 für...'
 sku: 'B07FMYR4RK-de'
 tags: [  ]

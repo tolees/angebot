@@ -5,7 +5,7 @@ date: 2020-10-11 08:07:38
 image: 'https://m.media-amazon.com/images/I/41j9qU8-ZLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6N5UBT-de VIA FORTIS Resistance Bands für Fitness &...'
 sku: 'B01N6N5UBT-de'
 tags: [  ]

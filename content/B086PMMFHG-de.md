@@ -5,7 +5,7 @@ date: 2020-09-23 01:15:27
 image: 'https://m.media-amazon.com/images/I/51ArI0Rqh1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086PMMFHG-de YUNKE Duschorganisator Badezimmerregale Duschkabine...'
 sku: 'B086PMMFHG-de'
 tags: [  ]

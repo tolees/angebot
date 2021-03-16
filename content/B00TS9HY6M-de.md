@@ -5,7 +5,7 @@ date: 2020-10-03 19:08:09
 image: 'https://m.media-amazon.com/images/I/419TjADAf0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TS9HY6M-de Samyang 24mm F3.5 T/S Objektiv für Anschluss Micro Four...'
 sku: 'B00TS9HY6M-de'
 tags: [  ]

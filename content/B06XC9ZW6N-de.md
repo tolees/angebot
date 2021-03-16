@@ -5,7 +5,7 @@ date: 2020-04-12 08:30:44
 image: 'https://m.media-amazon.com/images/I/51iWeQh-7jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XC9ZW6N-de Olympus OM-D E-M10 Mark III Micro Four Thirds Systemkamera...'
 sku: 'B06XC9ZW6N-de'
 tags: [  ]

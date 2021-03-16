@@ -5,7 +5,7 @@ date: 2020-09-13 06:50:09
 image: 'https://m.media-amazon.com/images/I/419pDDIzxyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079TV4VL4-de Zwillingsherz Slouch-Beanie-Mütze aus 100% Kaschmir -...'
 sku: 'B079TV4VL4-de'
 tags: [  ]

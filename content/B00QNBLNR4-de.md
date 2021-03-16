@@ -5,7 +5,7 @@ date: 2020-09-29 14:55:25
 image: 'https://m.media-amazon.com/images/I/41nzpBuUoML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QNBLNR4-de Post-it Super Sticky Notes Marrakesh Collection 6556SM –...'
 sku: 'B00QNBLNR4-de'
 tags: [  ]

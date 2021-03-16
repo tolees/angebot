@@ -5,7 +5,7 @@ date: 2020-04-20 07:06:39
 image: 'https://m.media-amazon.com/images/I/31xFwInfOhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWMLJ7C-de Swarovski One Set Mehrfarbig Rosé vergoldet'
 sku: 'B07KWMLJ7C-de'
 tags: [  ]

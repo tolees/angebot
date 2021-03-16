@@ -5,7 +5,7 @@ date: 2020-02-19 05:04:27
 image: 'https://m.media-amazon.com/images/I/315MaknqT8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072FJWB43-de Bomann VS 3171 Kühlschrank / A++ / 144 cm / 103 kWh/Jahr...'
 sku: 'B072FJWB43-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-13 02:30:39
 image: 'https://m.media-amazon.com/images/I/51k1sj7YWFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X6JCBBR-de Ultimate Ears Wonderboom Tragbarer Bluetooth-Lautsprecher...'
 sku: 'B06X6JCBBR-de'
 tags: [  ]

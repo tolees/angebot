@@ -5,7 +5,7 @@ date: 2020-04-06 21:04:30
 image: 'https://m.media-amazon.com/images/I/41VeRkWsFYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGL6SIY-de fischertechnik - 536619 PROFI Dynamic XS Kugelbahn'
 sku: 'B01BGL6SIY-de'
 tags: [  ]

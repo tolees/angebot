@@ -5,7 +5,7 @@ date: 2020-06-11 22:55:06
 image: 'https://m.media-amazon.com/images/I/41gwEjC7nPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088T3Y7SZ-de Bluetooth Kopfhörer Sport-3D-Stereo-Kopfhörer In-Ear...'
 sku: 'B088T3Y7SZ-de'
 tags: [  ]

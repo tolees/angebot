@@ -5,7 +5,7 @@ date: 2020-04-13 09:57:26
 image: 'https://m.media-amazon.com/images/I/31IPLHBb6xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2SG4VD-de Emsa N2011900 Travel Mug Wave-Design...'
 sku: 'B07X2SG4VD-de'
 tags: [  ]

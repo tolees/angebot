@@ -5,7 +5,7 @@ date: 2020-04-17 23:31:36
 image: 'https://m.media-amazon.com/images/I/31NiRmolzhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000UHMXVC-de Pentel BK440-C Kugelschreiber mit Druckmechanik und...'
 sku: 'B000UHMXVC-de'
 tags: [  ]

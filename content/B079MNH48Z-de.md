@@ -5,7 +5,7 @@ date: 2020-04-18 00:12:52
 image: 'https://m.media-amazon.com/images/I/51O2Ek2JuRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MNH48Z-de PLAYMOBIL Magic 9474 Schlitten mit Königspaar Ab 4 Jahren'
 sku: 'B079MNH48Z-de'
 tags: [  ]

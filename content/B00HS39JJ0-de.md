@@ -5,7 +5,7 @@ date: 2020-03-31 12:12:45
 image: 'https://m.media-amazon.com/images/I/41RApTaDJqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HS39JJ0-de New Balance Herren MRL996AG Revlite Sneaker Grau MRL996AG...'
 sku: 'B00HS39JJ0-de'
 tags: [  ]

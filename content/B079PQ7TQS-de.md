@@ -5,7 +5,7 @@ date: 2020-04-14 23:58:32
 image: 'https://m.media-amazon.com/images/I/41RwZl34jrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079PQ7TQS-de Funko Pop Marvel: Avengers Infinity War - Captain America...'
 sku: 'B079PQ7TQS-de'
 tags: [  ]

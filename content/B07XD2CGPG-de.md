@@ -5,7 +5,7 @@ date: 2020-02-24 11:59:56
 image: 'https://m.media-amazon.com/images/I/41QJ8HEqvcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XD2CGPG-de TONGJI Acryl Vitrine Mit Beleuchtungsset Kompatibel Mit...'
 sku: 'B07XD2CGPG-de'
 tags: [  ]

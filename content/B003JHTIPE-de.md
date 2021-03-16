@@ -5,7 +5,7 @@ date: 2020-09-28 10:33:15
 image: 'https://m.media-amazon.com/images/I/51F6JY6n0FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003JHTIPE-de Liqui Moly Motoröl Top Tec 4200 5 W-30 5 Liter'
 sku: 'B003JHTIPE-de'
 tags: [  ]

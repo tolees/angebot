@@ -5,7 +5,7 @@ date: 2020-01-31 07:16:13
 image: 'https://m.media-amazon.com/images/I/21wP3LbbT1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HT94JC0-de Einhell Akku-Hochentaster GC-LC 1815 T Lithium-Ionen Akku...'
 sku: 'B00HT94JC0-de'
 tags: [  ]

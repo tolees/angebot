@@ -5,7 +5,7 @@ date: 2020-10-12 08:14:48
 image: 'https://m.media-amazon.com/images/I/31hGBeZ9J+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M7SDWR6-de Creative Outlier Sports - Kabellose Schweissresistente In-...'
 sku: 'B01M7SDWR6-de'
 tags: [  ]

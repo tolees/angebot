@@ -5,7 +5,7 @@ date: 2020-03-29 06:02:17
 image: 'https://m.media-amazon.com/images/I/41+JGKK3u-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SGRLGRV-de MSI GL63 9SFK-1001DE 39 6 cm/15 6 Zoll/144Hz Gaming-Laptop...'
 sku: 'B07SGRLGRV-de'
 tags: [  ]

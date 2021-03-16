@@ -5,7 +5,7 @@ date: 2020-09-02 06:13:53
 image: 'https://m.media-amazon.com/images/I/41Pd91JTKBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LW5J9XR-de Grundig CMS 1050 DAB+ BT Kompakt Micro Anlage Bluetooth...'
 sku: 'B01LW5J9XR-de'
 tags: [  ]

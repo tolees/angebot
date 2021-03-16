@@ -5,7 +5,7 @@ date: 2020-09-29 06:17:48
 image: 'https://m.media-amazon.com/images/I/41nybXScZDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0052WHO2S-de Brother FS20 Computer-Nähmaschine mit 32 Nähprogramme...'
 sku: 'B0052WHO2S-de'
 tags: [  ]

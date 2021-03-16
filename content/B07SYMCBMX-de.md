@@ -5,7 +5,7 @@ date: 2020-05-25 15:17:41
 image: 'https://m.media-amazon.com/images/I/51a+J8JZahL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SYMCBMX-de Dragon Ball Z: Kakarot -Standard Edition [PlayStation 4]'
 sku: 'B07SYMCBMX-de'
 tags: [  ]

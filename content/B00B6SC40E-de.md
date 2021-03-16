@@ -5,7 +5,7 @@ date: 2020-04-13 00:06:15
 image: 'https://m.media-amazon.com/images/I/51NE3kNo7FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B6SC40E-de Ravensburger 21122 Lustige Kinderspiele Tiere'
 sku: 'B00B6SC40E-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-19 13:41:36
 image: 'https://m.media-amazon.com/images/I/41X83H9lfnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTJJD8V-de Acer Aspire 3 A315-54-56KY 39.6 cm 15 6 Zoll Full-HD matt...'
 sku: 'B07TTJJD8V-de'
 tags: [  ]

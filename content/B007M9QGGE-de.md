@@ -5,7 +5,7 @@ date: 2020-02-28 04:55:41
 image: 'https://m.media-amazon.com/images/I/41yeuGWE-IL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007M9QGGE-de THOMAS SABO Unisex Anhänger Kreuz Anhänger Kreuz 925er...'
 sku: 'B007M9QGGE-de'
 tags: [  ]

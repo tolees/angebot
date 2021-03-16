@@ -5,7 +5,7 @@ date: 2020-04-02 12:52:25
 image: 'https://m.media-amazon.com/images/I/61nNEMjHOML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T6KW9HV-de COOLJOY Magnetische Bausteine 117 Stück Magnet Baustein...'
 sku: 'B07T6KW9HV-de'
 tags: [  ]

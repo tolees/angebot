@@ -5,7 +5,7 @@ date: 2020-08-01 10:17:28
 image: 'https://m.media-amazon.com/images/I/51e3m5w6xWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HETFQKS-de Bose SoundLink Color II Bluetooth - Outdoor - Lautsprecher...'
 sku: 'B01HETFQKS-de'
 tags: [  ]

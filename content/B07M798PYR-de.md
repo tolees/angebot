@@ -5,7 +5,7 @@ date: 2020-03-08 11:11:26
 image: 'https://m.media-amazon.com/images/I/31SrtVML4kL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M798PYR-de Clarks Herren Bampton Lace Brogues Braun Tan Tan 42.5 EU'
 sku: 'B07M798PYR-de'
 tags: [  ]

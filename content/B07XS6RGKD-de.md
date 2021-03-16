@@ -5,7 +5,7 @@ date: 2020-05-20 19:38:06
 image: 'https://m.media-amazon.com/images/I/51BhsCyyBgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XS6RGKD-de Lenovo Q24i-10 60 45 cm 23 8 Zoll Full HD IPS matt Monitor...'
 sku: 'B07XS6RGKD-de'
 tags: [  ]

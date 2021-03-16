@@ -5,7 +5,7 @@ date: 2020-06-06 17:43:16
 image: 'https://m.media-amazon.com/images/I/41QfnVTHs9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNTFHD5-de WD Black P10 Game Drive externe Festplatte 5 TB mobile und...'
 sku: 'B07VNTFHD5-de'
 tags: [  ]

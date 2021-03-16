@@ -5,7 +5,7 @@ date: 2020-02-19 11:58:02
 image: 'https://m.media-amazon.com/images/I/51wJcGyrNaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBCIPPN-de Funko 4717 Movie S1 No Actionfigur The Godfather: Fredo...'
 sku: 'B01NBCIPPN-de'
 tags: [  ]

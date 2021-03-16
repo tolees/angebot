@@ -5,7 +5,7 @@ date: 2020-02-06 10:06:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31JKTCXRo1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMQ27FX-de Philips Hue White LED Welcome Flutlicht für den...'
 sku: 'B07KMQ27FX-de'
 tags: [  ]

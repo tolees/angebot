@@ -5,7 +5,7 @@ date: 2020-04-17 23:55:05
 image: 'https://m.media-amazon.com/images/I/513hLG+SmAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FK4AGRM-de Hasbro Spiele B5355100 - Honigklau im Bienenbau Vorschulspiel'
 sku: 'B01FK4AGRM-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-21 18:08:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41YAl05HaAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G1FS32X-de Superdry Herren O L Vintage Embroidery L/S Tee...'
 sku: 'B07G1FS32X-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-07 08:27:00
 image: 'https://m.media-amazon.com/images/I/41th1YA3VtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K9W5EJ0-de Garmin Forerunner 35 GPS-Laufuhr Herzfrequenzmessung am...'
 sku: 'B01K9W5EJ0-de'
 tags: [  ]

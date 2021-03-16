@@ -5,7 +5,7 @@ date: 2020-09-28 06:28:07
 image: 'https://m.media-amazon.com/images/I/41ukYj0+pRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004X4KVXA-de Braun Herren Analog Quarz Armbanduhr BN0024WHBKG'
 sku: 'B004X4KVXA-de'
 tags: [  ]

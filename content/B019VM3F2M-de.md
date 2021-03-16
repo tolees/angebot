@@ -5,7 +5,7 @@ date: 2020-02-05 07:22:08
 image: 'https://m.media-amazon.com/images/I/41XaEhbeHPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019VM3F2M-de Fitbit Unisex Fitness Uhr Blaze Schwarz S'
 sku: 'B019VM3F2M-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 23:45:09
 image: 'https://m.media-amazon.com/images/I/41-FvXHMIhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07895YKQL-de Sharplace 3 Paar Annähen Oval Ellenbogen/Knie Patches...'
 sku: 'B07895YKQL-de'
 tags: [  ]

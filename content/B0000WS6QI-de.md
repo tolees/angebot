@@ -5,7 +5,7 @@ date: 2020-04-29 09:38:52
 image: 'https://m.media-amazon.com/images/I/41VhxhhzrFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0000WS6QI-de Numark HF125 - professioneller DJ Kopfhörer mit 2m Kabel...'
 sku: 'B0000WS6QI-de'
 tags: [  ]

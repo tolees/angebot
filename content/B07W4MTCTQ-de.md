@@ -5,7 +5,7 @@ date: 2020-04-07 21:39:21
 image: 'https://m.media-amazon.com/images/I/41GrPqEsX3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4MTCTQ-de Mini Kinder Spielen Küche Moderne rote Küche Spielzeug...'
 sku: 'B07W4MTCTQ-de'
 tags: [  ]

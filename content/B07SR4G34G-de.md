@@ -5,7 +5,7 @@ date: 2020-02-02 18:17:53
 image: 'https://m.media-amazon.com/images/I/41l+MpWfiuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SR4G34G-de Xiaomi Mi 9T Smartphone 6 + 64 GB 16 2 cm 6 39 Zoll AMOLED...'
 sku: 'B07SR4G34G-de'
 tags: [  ]

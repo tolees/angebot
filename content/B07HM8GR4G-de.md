@@ -5,7 +5,7 @@ date: 2020-02-07 08:10:22
 image: 'https://m.media-amazon.com/images/I/41x3A1tU95L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HM8GR4G-de Philips 50PUS6203/12 126 cm 50 Zoll LED-Fernseher 4K Ultra...'
 sku: 'B07HM8GR4G-de'
 tags: [  ]

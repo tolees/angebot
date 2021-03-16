@@ -5,7 +5,7 @@ date: 2020-09-27 15:08:46
 image: 'https://m.media-amazon.com/images/I/41Zhn9IBshL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IZ821LU-de Tassimo Kapseln Jacobs Caffè Crema Mild XL 80...'
 sku: 'B00IZ821LU-de'
 tags: [  ]

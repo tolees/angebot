@@ -5,7 +5,7 @@ date: 2020-09-03 07:07:02
 image: 'https://m.media-amazon.com/images/I/51Uu-5xOsyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWW8BKL-de YITHINC Überraschungsbox Kreative Explosion Box DIY...'
 sku: 'B07TWW8BKL-de'
 tags: [  ]

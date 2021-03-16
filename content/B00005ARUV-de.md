@@ -5,7 +5,7 @@ date: 2020-09-25 22:01:48
 image: 'https://m.media-amazon.com/images/I/61o9nOxK2EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00005ARUV-de Kult Die besten Schlager'
 sku: 'B00005ARUV-de'
 tags: [  ]

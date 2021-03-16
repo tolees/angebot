@@ -5,7 +5,7 @@ date: 2020-09-23 20:04:22
 image: 'https://m.media-amazon.com/images/I/51MZdvxKLsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HN6P7NG-de Ballon [Blu-ray]'
 sku: 'B07HN6P7NG-de'
 tags: [  ]

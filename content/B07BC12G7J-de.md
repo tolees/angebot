@@ -5,7 +5,7 @@ date: 2020-08-14 13:35:18
 image: 'https://m.media-amazon.com/images/I/61hCqTlPEPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BC12G7J-de WarioWare Gold - [Nintendo 3DS]'
 sku: 'B07BC12G7J-de'
 tags: [  ]

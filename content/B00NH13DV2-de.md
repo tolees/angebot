@@ -5,7 +5,7 @@ date: 2020-05-28 16:55:00
 image: 'https://m.media-amazon.com/images/I/41kchTJunzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NH13DV2-de AmazonBasics USB 2.0-Druckerkabel A-Stecker auf B-Stecker 3 m'
 sku: 'B00NH13DV2-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-11 07:41:29
 image: 'https://m.media-amazon.com/images/I/31AYr7-O0wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L75PLGL-de GRIFEMA GRIFERÍA DE COCINA-G4002-2 | Küchenarmatur -...'
 sku: 'B07L75PLGL-de'
 tags: [  ]

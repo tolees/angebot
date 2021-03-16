@@ -5,7 +5,7 @@ date: 2020-08-20 04:34:25
 image: 'https://m.media-amazon.com/images/I/41l5l8Dk21L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WJZPDBN-de RENTLIV TV Wandhalterung für 37-70 Zoll Fernseher neigbare...'
 sku: 'B07WJZPDBN-de'
 tags: [  ]

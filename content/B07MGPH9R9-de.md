@@ -5,7 +5,7 @@ date: 2020-02-03 04:54:54
 image: 'https://m.media-amazon.com/images/I/41wuCvOGR0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGPH9R9-de Crucial Ballistix Sport LT BLS2K8G4D30AESBK 3000 MHz DDR4...'
 sku: 'B07MGPH9R9-de'
 tags: [  ]

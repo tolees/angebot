@@ -5,7 +5,7 @@ date: 2020-03-11 04:55:06
 image: 'https://m.media-amazon.com/images/I/51Q7rjfvzBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPHVW9T-de Keine Nacht für Niemand Ltd. Digi'
 sku: 'B06XPHVW9T-de'
 tags: [  ]

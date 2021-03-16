@@ -5,7 +5,7 @@ date: 2020-02-15 07:25:04
 image: 'https://m.media-amazon.com/images/I/41BPTqbyd0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPTBMW8-de Funko 37862 POP Vinyl: BTS: Jin Sammelbares Spielzeug...'
 sku: 'B07KPTBMW8-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-09 07:45:54
 image: 'https://m.media-amazon.com/images/I/51844JlFY2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG4QXMB-de PUMA Herren Speed Orbiter Laufschuhe High Rise-Blue...'
 sku: 'B07KG4QXMB-de'
 tags: [  ]

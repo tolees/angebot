@@ -5,7 +5,7 @@ date: 2020-04-14 16:26:05
 image: 'https://m.media-amazon.com/images/I/51GVaCbLkpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086YJYHSF-de K9CK Bauspielzeug Bauset Modifiziertes Paket Lässt Sich...'
 sku: 'B086YJYHSF-de'
 tags: [  ]

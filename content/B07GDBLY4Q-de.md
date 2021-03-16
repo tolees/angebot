@@ -5,7 +5,7 @@ date: 2020-08-03 13:18:16
 image: 'https://m.media-amazon.com/images/I/41DDxdOg3rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GDBLY4Q-de Philips GC4537/70 Azur Dampfbügeleisen 2400 W 200 g...'
 sku: 'B07GDBLY4Q-de'
 tags: [  ]

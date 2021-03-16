@@ -5,7 +5,7 @@ date: 2020-03-07 05:05:11
 image: 'https://m.media-amazon.com/images/I/51a-lb1MSpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00P0XXRXO-de Cobi 2449 Opel Blitz 3 6 - 36S Grau'
 sku: 'B00P0XXRXO-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-25 07:18:55
 image: 'https://m.media-amazon.com/images/I/51-aPXB6daL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H9VBM29-de SanDisk Extreme PRO 512GB SDXC Speicherkarte bis zu 170...'
 sku: 'B07H9VBM29-de'
 tags: [  ]

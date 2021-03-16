@@ -5,7 +5,7 @@ date: 2020-02-17 20:38:12
 image: 'https://m.media-amazon.com/images/I/41pN7FNFiLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016ZIJAV0-de iRobot Roomba 615 Saugroboter mit 3-stufigem...'
 sku: 'B016ZIJAV0-de'
 tags: [  ]

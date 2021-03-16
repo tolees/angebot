@@ -5,7 +5,7 @@ date: 2020-04-13 07:51:07
 image: 'https://m.media-amazon.com/images/I/31CjDSE-3JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U1INHG0-de Living Nostalgia 14 5 cm Peg Dose mit Haken grau'
 sku: 'B00U1INHG0-de'
 tags: [  ]

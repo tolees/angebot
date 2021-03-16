@@ -5,7 +5,7 @@ date: 2020-03-23 17:51:54
 image: 'https://m.media-amazon.com/images/I/516s2HsjSVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDJF59H-de Bang & Olufsen Beoplay A1 Bluetooth-Lautsprecher...'
 sku: 'B06XDJF59H-de'
 tags: [  ]

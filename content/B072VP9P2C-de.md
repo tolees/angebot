@@ -5,7 +5,7 @@ date: 2020-09-29 08:43:34
 image: 'https://m.media-amazon.com/images/I/41NaOnA1Q+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072VP9P2C-de CITIZEN Herren Analog Solar Uhr mit Edelstahl Armband...'
 sku: 'B072VP9P2C-de'
 tags: [  ]

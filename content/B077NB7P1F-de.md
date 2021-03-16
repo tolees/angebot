@@ -5,7 +5,7 @@ date: 2020-01-12 16:26:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51XNKax715L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077NB7P1F-de Ticwatch S Knight Smartwatch Intelligente Armbanduhr mit 1...'
 sku: 'B077NB7P1F-de'
 tags: [  ]

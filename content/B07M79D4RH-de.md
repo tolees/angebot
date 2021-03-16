@@ -5,7 +5,7 @@ date: 2020-04-20 12:48:36
 image: 'https://m.media-amazon.com/images/I/418+Bzzff7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M79D4RH-de Fossil Herren-Smartwatch mit Silikon Armband FTW4019'
 sku: 'B07M79D4RH-de'
 tags: [  ]

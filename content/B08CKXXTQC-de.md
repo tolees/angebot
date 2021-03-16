@@ -5,7 +5,7 @@ date: 2020-09-24 19:35:38
 image: 'https://m.media-amazon.com/images/I/510oubhILVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CKXXTQC-de LED Strips 20M HEERTTOGO LED Streifen RGB mit Bluetooth...'
 sku: 'B08CKXXTQC-de'
 tags: [  ]

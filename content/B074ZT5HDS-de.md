@@ -5,7 +5,7 @@ date: 2020-04-11 08:01:29
 image: 'https://m.media-amazon.com/images/I/317y-+0xWWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074ZT5HDS-de Eva Solo Miska 1 2L Nordic Kitchen'
 sku: 'B074ZT5HDS-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-20 18:47:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41bHcygK4nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AIIOARC-de UGG Damen W Bailey Bow II Schlupfstiefel Schwarz Nero 40 EU'
 sku: 'B01AIIOARC-de'
 tags: [  ]

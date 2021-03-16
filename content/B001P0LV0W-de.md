@@ -5,7 +5,7 @@ date: 2020-02-20 20:43:44
 image: 'https://m.media-amazon.com/images/I/41PHIDDcq6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001P0LV0W-de taymar® Prospekthalter/Flyerhalter 4 Fächer DIN Lang DL'
 sku: 'B001P0LV0W-de'
 tags: [  ]

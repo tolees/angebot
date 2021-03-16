@@ -5,7 +5,7 @@ date: 2020-02-10 21:13:22
 image: 'https://m.media-amazon.com/images/I/41bltr60DxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9QTV6T-de Napapijri Herren Rainforest S PKT Jacke Blau Skydiver Blue...'
 sku: 'B07L9QTV6T-de'
 tags: [  ]

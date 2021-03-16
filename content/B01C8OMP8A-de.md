@@ -5,7 +5,7 @@ date: 2020-09-11 08:18:00
 image: 'https://m.media-amazon.com/images/I/51OzP1L7OhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C8OMP8A-de Bandai – Miraculous Ladybug – Verwandlungsset – Verkleiden...'
 sku: 'B01C8OMP8A-de'
 tags: [  ]

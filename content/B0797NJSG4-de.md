@@ -5,7 +5,7 @@ date: 2020-03-18 02:39:15
 image: 'https://m.media-amazon.com/images/I/51mM-QFBeyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797NJSG4-de Funko 30171 Actionfigur Destiny-Osiris'
 sku: 'B0797NJSG4-de'
 tags: [  ]

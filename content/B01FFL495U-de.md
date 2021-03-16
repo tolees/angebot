@@ -5,7 +5,7 @@ date: 2020-10-09 07:50:52
 image: 'https://m.media-amazon.com/images/I/41wnHXaOLOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FFL495U-de Under Armour Herren HeatGear Armour 2.0 COMP Shorts...'
 sku: 'B01FFL495U-de'
 tags: [  ]

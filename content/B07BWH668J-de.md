@@ -5,7 +5,7 @@ date: 2020-05-18 16:24:41
 image: 'https://m.media-amazon.com/images/I/4134Lv5bzgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BWH668J-de Romoss Powerbank 10000mAh Externer Akku mit 2-Port Output...'
 sku: 'B07BWH668J-de'
 tags: [  ]

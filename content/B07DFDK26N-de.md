@@ -5,7 +5,7 @@ date: 2020-02-15 15:20:38
 image: 'https://m.media-amazon.com/images/I/318S649jJ9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFDK26N-de Funko 33881 The Simpsons: Abe POP Vinylfigur Multi'
 sku: 'B07DFDK26N-de'
 tags: [  ]

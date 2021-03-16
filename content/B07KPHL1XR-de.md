@@ -5,7 +5,7 @@ date: 2020-04-13 07:45:00
 image: 'https://m.media-amazon.com/images/I/41tNqVoUiaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPHL1XR-de Funko Pop! Games: Warhammer - Blutengel Assault Marine'
 sku: 'B07KPHL1XR-de'
 tags: [  ]

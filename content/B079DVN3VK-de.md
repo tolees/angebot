@@ -5,7 +5,7 @@ date: 2020-10-06 06:28:46
 image: 'https://m.media-amazon.com/images/I/41kUiO1RG6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079DVN3VK-de Träumschön Biber Bettwäsche 135x200 2tlg | Bettwäsche-Set...'
 sku: 'B079DVN3VK-de'
 tags: [  ]

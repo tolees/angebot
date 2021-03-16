@@ -5,7 +5,7 @@ date: 2020-03-22 13:09:46
 image: 'https://m.media-amazon.com/images/I/515R-2h68rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CDEXB56-de Funko 9299 S1 No Actionfigur Games: Overwatch: Reaper Multi'
 sku: 'B01CDEXB56-de'
 tags: [  ]

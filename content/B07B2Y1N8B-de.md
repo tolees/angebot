@@ -5,7 +5,7 @@ date: 2020-08-24 14:24:40
 image: 'https://m.media-amazon.com/images/I/418sCJkoOYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B2Y1N8B-de Corsair Vengeance LPX 16GB 2x8GB DDR4 3000MHz C16 XMP 2.0...'
 sku: 'B07B2Y1N8B-de'
 tags: [  ]

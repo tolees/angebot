@@ -5,7 +5,7 @@ date: 2020-02-01 09:22:11
 image: 'https://m.media-amazon.com/images/I/31De61HaD7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NR2KVKF-de Dickie Toys 201119141 RC Nitro League RTR 201119141-RC...'
 sku: 'B07NR2KVKF-de'
 tags: [  ]

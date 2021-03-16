@@ -5,7 +5,7 @@ date: 2020-01-16 06:10:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51mlfQ-bpIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMCBR5B-de Playmobil 70059 Special Plus Elfe mit REH bunt'
 sku: 'B07JMCBR5B-de'
 tags: [  ]

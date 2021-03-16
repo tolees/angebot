@@ -5,7 +5,7 @@ date: 2020-07-19 20:51:16
 image: 'https://m.media-amazon.com/images/I/31bnKi+auLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C4VWWF1-de Aigital WLAN verstärker WiFi Repeater Range Extender...'
 sku: 'B08C4VWWF1-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-09 06:13:50
 image: 'https://m.media-amazon.com/images/I/41iErLnXPXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0869WPP2P-de Xiaomi Mi 10 Smartphone + Kopfhörer 16 94cm 6 67" FHD+...'
 sku: 'B0869WPP2P-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-11 20:07:31
 image: 'https://m.media-amazon.com/images/I/41Ozxy2i7YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0754FZJNP-de BENECREAT 3mm 20m elastische Schnur Schmuckherstellung...'
 sku: 'B0754FZJNP-de'
 tags: [  ]

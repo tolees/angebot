@@ -5,7 +5,7 @@ date: 2020-09-15 11:05:40
 image: 'https://m.media-amazon.com/images/I/51-RSCDA2WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M6POLUM-de Philips Avent Aufbewahrungsbecher für Babynahrung 20er...'
 sku: 'B00M6POLUM-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-28 20:03:54
 image: 'https://m.media-amazon.com/images/I/41Zubu00xrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WBRTPB-de iiyama ProLite XB2779QQS-S1 68 3cm 27 Zoll IPS LED-Monitor...'
 sku: 'B078WBRTPB-de'
 tags: [  ]

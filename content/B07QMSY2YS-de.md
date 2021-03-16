@@ -5,7 +5,7 @@ date: 2020-03-28 13:19:00
 image: 'https://m.media-amazon.com/images/I/41Be90Q5idL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QMSY2YS-de ONECE Duschsystem mit Thermostat Duscharmatur Regendusche...'
 sku: 'B07QMSY2YS-de'
 tags: [  ]

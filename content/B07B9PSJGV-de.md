@@ -5,7 +5,7 @@ date: 2020-03-09 04:52:42
 image: 'https://m.media-amazon.com/images/I/41X-MoQ4W7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9PSJGV-de Fitbit Versa Special Edition Gesundheits & Fitness...'
 sku: 'B07B9PSJGV-de'
 tags: [  ]

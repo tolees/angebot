@@ -5,7 +5,7 @@ date: 2020-02-27 08:26:29
 image: 'https://m.media-amazon.com/images/I/318s3TXZnXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQ7P63G-de Samsung Galaxy Fit Fitnesstracker schwarz mit Bluetooth...'
 sku: 'B07NQ7P63G-de'
 tags: [  ]

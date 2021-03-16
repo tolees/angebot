@@ -5,7 +5,7 @@ date: 2020-10-03 19:08:10
 image: 'https://m.media-amazon.com/images/I/41pOqup+upL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HTJRFS-de Eagle Creek Leichter Rollkoffer Gear Warrior™ AWD 29...'
 sku: 'B076HTJRFS-de'
 tags: [  ]

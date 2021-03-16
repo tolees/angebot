@@ -5,7 +5,7 @@ date: 2020-03-29 13:16:35
 image: 'https://m.media-amazon.com/images/I/51+qpkCvq4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TF7PNFM-de LIGHTAILING Licht-Set Für Technic Chevrolet Corvette ZR1...'
 sku: 'B07TF7PNFM-de'
 tags: [  ]

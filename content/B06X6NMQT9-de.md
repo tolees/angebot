@@ -5,7 +5,7 @@ date: 2020-04-18 00:02:44
 image: 'https://m.media-amazon.com/images/I/61hJU5kFhEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X6NMQT9-de Playmobil 6930 - Reitturnier'
 sku: 'B06X6NMQT9-de'
 tags: [  ]

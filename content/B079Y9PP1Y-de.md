@@ -5,7 +5,7 @@ date: 2020-03-23 12:57:24
 image: 'https://m.media-amazon.com/images/I/41qNmbVOMFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079Y9PP1Y-de Funko 30682 Actionfigur Marvel Spider-Man-Mary Jane mit...'
 sku: 'B079Y9PP1Y-de'
 tags: [  ]

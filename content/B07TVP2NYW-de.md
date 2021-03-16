@@ -5,7 +5,7 @@ date: 2020-04-02 04:59:37
 image: 'https://m.media-amazon.com/images/I/41dFPO8B66L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVP2NYW-de BRIKSMAX Led Beleuchtungsset für Lego Technic Schwerlast-...'
 sku: 'B07TVP2NYW-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 18:26:36
 image: 'https://m.media-amazon.com/images/I/31Tfiul6XwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TDNYNP8-de Arlo HD Überwachungskamera & Alarmanlage 2er Set Smart...'
 sku: 'B00TDNYNP8-de'
 tags: [  ]

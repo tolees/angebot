@@ -5,7 +5,7 @@ date: 2020-05-07 12:24:38
 image: 'https://m.media-amazon.com/images/I/31blFapjsrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075KPNDC8-de JBL Tune110BT In-Ear Bluetooth-Kopfhörer - Kabellose...'
 sku: 'B075KPNDC8-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-13 10:59:35
 image: 'https://m.media-amazon.com/images/I/410TwfzQVTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NXGNMPJ-de Philips Sonicare DiamondClean Elektrische Zahnbürste...'
 sku: 'B07NXGNMPJ-de'
 tags: [  ]

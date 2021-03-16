@@ -5,7 +5,7 @@ date: 2020-01-22 01:16:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31E8plXrbZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QDSCMZV-de Simba - Disney Frozen 2 Olaf Spaß Olaf Plüschfigur...'
 sku: 'B07QDSCMZV-de'
 tags: [  ]

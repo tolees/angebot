@@ -5,7 +5,7 @@ date: 2020-04-10 00:06:31
 image: 'https://m.media-amazon.com/images/I/41PFhNJBTDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RVLFG84-de Funko 44821 POP TV: Game of Thrones-Theon w/Flaming Arrows...'
 sku: 'B07RVLFG84-de'
 tags: [  ]

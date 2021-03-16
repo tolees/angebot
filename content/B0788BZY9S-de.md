@@ -5,7 +5,7 @@ date: 2020-08-18 05:07:40
 image: 'https://m.media-amazon.com/images/I/41I+5F930dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0788BZY9S-de Tommy Hilfiger Damen Bralette Blau Navy Blazer 416 Medium...'
 sku: 'B0788BZY9S-de'
 tags: [  ]

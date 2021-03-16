@@ -5,7 +5,7 @@ date: 2020-10-12 08:36:51
 image: 'https://m.media-amazon.com/images/I/51mjh5r51gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G3D9XQB-de LEGO Harry Potter und der Feuerkelch – Das Trimagische...'
 sku: 'B07G3D9XQB-de'
 tags: [  ]

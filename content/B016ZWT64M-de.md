@@ -5,7 +5,7 @@ date: 2020-04-13 17:16:18
 image: 'https://m.media-amazon.com/images/I/4128Gvs7oqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016ZWT64M-de Garmin Forerunner 235 Handgelenk-Based Herzfrequenz-GPS-...'
 sku: 'B016ZWT64M-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-05 10:29:49
 image: 'https://m.media-amazon.com/images/I/51pb1w1o2YL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CBME57S-de Funko 7427 Dragonball POP Vinylfigur: Dragon Ball Z: Goku...'
 sku: 'B01CBME57S-de'
 tags: [  ]

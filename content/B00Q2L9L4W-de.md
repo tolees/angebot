@@ -5,7 +5,7 @@ date: 2020-01-21 18:11:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41U0O5ol-7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Q2L9L4W-de Morella® Damen Engels Klangkugel grün Ø 16 mm'
 sku: 'B00Q2L9L4W-de'
 tags: [  ]

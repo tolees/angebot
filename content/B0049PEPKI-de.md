@@ -5,7 +5,7 @@ date: 2020-03-02 18:18:53
 image: 'https://m.media-amazon.com/images/I/41u-o2OJI1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0049PEPKI-de Gardena Akku-Grasschere ComfortCut: Rasenkantenschneider...'
 sku: 'B0049PEPKI-de'
 tags: [  ]

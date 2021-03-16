@@ -5,7 +5,7 @@ date: 2020-01-26 11:09:17
 image: 'https://m.media-amazon.com/images/I/21-E5So+1PL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071F15VDR-de Hisense RB400N4EG3 Kühl-Gefrier-Kombination/A+++/No-...'
 sku: 'B071F15VDR-de'
 tags: [  ]

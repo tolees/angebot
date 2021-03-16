@@ -5,7 +5,7 @@ date: 2020-06-11 10:13:37
 image: 'https://m.media-amazon.com/images/I/41Xp5it2fmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GV7W32C-de ELEGOO Roboter Penguin Bot Zweibeiniger Roboter Baukasten...'
 sku: 'B07GV7W32C-de'
 tags: [  ]

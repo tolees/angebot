@@ -5,7 +5,7 @@ date: 2020-01-20 04:42:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DhaY9NZbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KFF9WJ0-de Timezone Herren Straight Leg Hose BenitoTZ cargo pants...'
 sku: 'B00KFF9WJ0-de'
 tags: [  ]

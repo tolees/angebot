@@ -5,7 +5,7 @@ date: 2020-02-02 04:50:13
 image: 'https://m.media-amazon.com/images/I/31Yl7dzOG3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DBXQCSK-de Puma Popcat Unisex-Erwachsene Dusch- & Badeschuhe Violett...'
 sku: 'B07DBXQCSK-de'
 tags: [  ]

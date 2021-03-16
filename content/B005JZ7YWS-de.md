@@ -5,7 +5,7 @@ date: 2020-03-09 04:52:11
 image: 'https://m.media-amazon.com/images/I/41c-aoOyUoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005JZ7YWS-de Sony SEL-55210 Tele-Zoom-Objektiv 55-210 mm F4.5–6.3 OSS...'
 sku: 'B005JZ7YWS-de'
 tags: [  ]

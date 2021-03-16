@@ -5,7 +5,7 @@ date: 2020-01-10 18:42:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B8LH9vc5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018SVQXU8-de LG Electronics OM4560 High Power Hifianlage Schwarz'
 sku: 'B018SVQXU8-de'
 tags: [  ]

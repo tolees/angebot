@@ -5,7 +5,7 @@ date: 2020-08-29 05:07:27
 image: 'https://m.media-amazon.com/images/I/51XTgT3O9qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PFR3WL7-de Samsung Q60R 163 cm 65 Zoll 4K QLED Fernseher Q HDR Ultra...'
 sku: 'B07PFR3WL7-de'
 tags: [  ]

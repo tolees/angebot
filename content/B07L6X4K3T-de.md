@@ -5,7 +5,7 @@ date: 2020-02-19 19:06:28
 image: 'https://m.media-amazon.com/images/I/31yHBRKPT5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L6X4K3T-de Black+Decker Akku-Handstaubsauger Dustbuster 3.6V Lithium...'
 sku: 'B07L6X4K3T-de'
 tags: [  ]

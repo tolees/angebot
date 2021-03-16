@@ -5,7 +5,7 @@ date: 2020-04-08 13:11:34
 image: 'https://m.media-amazon.com/images/I/31nA9Sb3SoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X43DFTQ-de Lenovo Chromebook C340 Laptop 29 5 cm 11 6 Zoll 1366x768...'
 sku: 'B07X43DFTQ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-15 23:31:29
 image: 'https://m.media-amazon.com/images/I/51UhX3+lyBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WQT4YDS-de WEWE Estantes De Pared De Madera De 2 Niveles Muro De...'
 sku: 'B07WQT4YDS-de'
 tags: [  ]

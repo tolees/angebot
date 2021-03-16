@@ -5,7 +5,7 @@ date: 2020-02-07 19:41:47
 image: 'https://m.media-amazon.com/images/I/31Ixcs-oR3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079QHMFWC-de Fire TV Stick 4K Ultra HD mit Alexa-Sprachfernbedienung'
 sku: 'B079QHMFWC-de'
 tags: [  ]

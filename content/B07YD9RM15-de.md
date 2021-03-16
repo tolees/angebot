@@ -5,7 +5,7 @@ date: 2020-08-13 11:55:08
 image: 'https://m.media-amazon.com/images/I/41MMljMzRsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YD9RM15-de McKINLEY Herren Icepak Varel Jacke Marinenblau 48'
 sku: 'B07YD9RM15-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 03:40:28
 image: 'https://m.media-amazon.com/images/I/31KMw3L5b1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002ZWZOD4-de Odlo Damen Traininghose X-Warm Schwarz black 15000 Gr.M'
 sku: 'B002ZWZOD4-de'
 tags: [  ]

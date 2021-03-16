@@ -5,7 +5,7 @@ date: 2020-03-26 07:14:17
 image: 'https://m.media-amazon.com/images/I/51DYY+fW73L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKTFCK5-de Onforu 16er LED Lichterkette Batterie 3 m 30 LEDs...'
 sku: 'B07DKTFCK5-de'
 tags: [  ]

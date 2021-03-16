@@ -5,7 +5,7 @@ date: 2020-02-22 15:50:10
 image: 'https://m.media-amazon.com/images/I/41tQ13bBxqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078HFBGWP-de Swiss Military Hanowa Herren Analog Quarz Uhr mit...'
 sku: 'B078HFBGWP-de'
 tags: [  ]

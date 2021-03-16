@@ -5,7 +5,7 @@ date: 2020-05-10 16:53:13
 image: 'https://m.media-amazon.com/images/I/41uEsJPjYfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7QLVS6-de HP ENVY x360 13-ar0205ng 13 3 Zoll / Full HD IPS Touch...'
 sku: 'B07S7QLVS6-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-24 10:31:39
 image: 'https://m.media-amazon.com/images/I/51qpXvbXE6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CPM8TZ4-de AKASO Action Cam/4K/30fps 20MP Action Camera mit...'
 sku: 'B07CPM8TZ4-de'
 tags: [  ]

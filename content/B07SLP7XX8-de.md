@@ -5,7 +5,7 @@ date: 2020-04-07 21:37:43
 image: 'https://m.media-amazon.com/images/I/41rh5VEQFOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SLP7XX8-de FIFA 20 | Xbox One - Download Code'
 sku: 'B07SLP7XX8-de'
 tags: [  ]

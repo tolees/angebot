@@ -5,7 +5,7 @@ date: 2020-01-03 11:55:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51VfcwCRIUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4KNV8D-de Tommy Hilfiger Damen Analog Quarz Uhr mit Edelstahl...'
 sku: 'B01N4KNV8D-de'
 tags: [  ]

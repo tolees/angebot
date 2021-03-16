@@ -5,7 +5,7 @@ date: 2020-04-14 16:25:42
 image: 'https://m.media-amazon.com/images/I/51LzJcYRxHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083XNNZVG-de DXX Technik Bausteine Auto G500 AWD Wagon Racing Auto...'
 sku: 'B083XNNZVG-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-21 10:55:24
 image: 'https://m.media-amazon.com/images/I/31khTCuEpML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T8BJ4MC-de Polaroid Originals OneStep 2 VF Camera - Coral'
 sku: 'B07T8BJ4MC-de'
 tags: [  ]

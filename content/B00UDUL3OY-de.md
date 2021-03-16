@@ -5,7 +5,7 @@ date: 2020-04-17 23:48:08
 image: 'https://m.media-amazon.com/images/I/51GcEZqmHaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UDUL3OY-de 5 Zimmer Küche Sarg'
 sku: 'B00UDUL3OY-de'
 tags: [  ]

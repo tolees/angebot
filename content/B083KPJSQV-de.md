@@ -5,7 +5,7 @@ date: 2020-02-28 13:22:42
 image: 'https://m.media-amazon.com/images/I/212azFG3jBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083KPJSQV-de Samsung Clear View Cover EF-ZG980 für Galaxy S20 | S20 5G...'
 sku: 'B083KPJSQV-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-18 04:41:51
 image: 'https://m.media-amazon.com/images/I/419zJBH3H+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001CW53JI-de Pagna Bewerbungsset Start Basic 5 Bewerbungsmappen grau'
 sku: 'B001CW53JI-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-06 03:18:12
 image: 'https://m.media-amazon.com/images/I/61vCyjeuXnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001D0RSRO-de Wettsingen in Schwetzingen/MTV unplugged'
 sku: 'B001D0RSRO-de'
 tags: [  ]

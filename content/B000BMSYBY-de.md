@@ -5,7 +5,7 @@ date: 2020-02-22 13:08:29
 image: 'https://m.media-amazon.com/images/I/51g2ooJMSeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000BMSYBY-de Cisco CP-PWR-CUBE-3 IP Phone Power Supply Netzteil'
 sku: 'B000BMSYBY-de'
 tags: [  ]

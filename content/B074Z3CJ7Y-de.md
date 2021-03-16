@@ -5,7 +5,7 @@ date: 2020-03-07 08:13:44
 image: 'https://m.media-amazon.com/images/I/31aPXwhOX1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074Z3CJ7Y-de De Longhi EDG 355.B1 | NESCAFÉ Dolce Gusto Colors | Kapsel...'
 sku: 'B074Z3CJ7Y-de'
 tags: [  ]

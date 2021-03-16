@@ -5,7 +5,7 @@ date: 2020-04-16 08:33:20
 image: 'https://m.media-amazon.com/images/I/51KakkMuhbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007CCQNXC-de Theo Klein 2813 - Bosch Car Service Parkhaus 5 Ebenen...'
 sku: 'B007CCQNXC-de'
 tags: [  ]

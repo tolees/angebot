@@ -5,7 +5,7 @@ date: 2020-07-16 22:12:03
 image: 'https://m.media-amazon.com/images/I/51hNl9oQZqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2X32TM-de Tablet 10 Zoll LNMBBS P30 Android 10.0 5G Wi-Fi Tablet...'
 sku: 'B07X2X32TM-de'
 tags: [  ]

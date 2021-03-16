@@ -5,7 +5,7 @@ date: 2020-09-25 19:43:22
 image: 'https://m.media-amazon.com/images/I/41hIHO2pnCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRG167V-de Geschenke 24 Schlüsselanhänger Schönster Tag in Schwarz –...'
 sku: 'B07KRG167V-de'
 tags: [  ]

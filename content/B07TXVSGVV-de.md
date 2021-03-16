@@ -5,7 +5,7 @@ date: 2020-04-15 07:44:15
 image: 'https://m.media-amazon.com/images/I/41E6Fn-bCTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXVSGVV-de BRIKSMAX Led Beleuchtungsset für Lego Ideas Voltron...'
 sku: 'B07TXVSGVV-de'
 tags: [  ]

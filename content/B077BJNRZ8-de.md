@@ -5,7 +5,7 @@ date: 2020-06-11 21:39:08
 image: 'https://m.media-amazon.com/images/I/51MG1k9Cq7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077BJNRZ8-de Hasbro E0011EU4 - N-Strike Elite Surgefire...'
 sku: 'B077BJNRZ8-de'
 tags: [  ]

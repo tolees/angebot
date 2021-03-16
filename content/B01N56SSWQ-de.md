@@ -5,7 +5,7 @@ date: 2020-02-02 08:06:39
 image: 'https://m.media-amazon.com/images/I/419WWiBRZjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N56SSWQ-de Pioneer SE-MS7BT S Bluetooth Over-Ear Kopfhörer Mikrofon...'
 sku: 'B01N56SSWQ-de'
 tags: [  ]

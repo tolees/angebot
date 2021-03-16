@@ -5,7 +5,7 @@ date: 2020-09-26 02:13:03
 image: 'https://m.media-amazon.com/images/I/41NGPoHNwtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000AXZCUU-de We Get Requests Verve Originals Serie'
 sku: 'B000AXZCUU-de'
 tags: [  ]

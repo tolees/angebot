@@ -5,7 +5,7 @@ date: 2020-01-19 23:02:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WScvs%2B7QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STDTG5G-de Oral-B PRO 1 200 Elektrische Zahnbürste für eine sanfte...'
 sku: 'B07STDTG5G-de'
 tags: [  ]

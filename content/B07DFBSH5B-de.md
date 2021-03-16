@@ -5,7 +5,7 @@ date: 2020-04-13 07:44:41
 image: 'https://m.media-amazon.com/images/I/51FzGh4E7QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFBSH5B-de Funko 30773 Austin Powers POP Vinylfigur Multi'
 sku: 'B07DFBSH5B-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-30 06:40:07
 image: 'https://m.media-amazon.com/images/I/51U4STGhdXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JMXFXMK-de Beregnungsschlauch Bewässerungsschlauch / Sprühschlauch...'
 sku: 'B01JMXFXMK-de'
 tags: [  ]

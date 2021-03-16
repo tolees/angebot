@@ -5,7 +5,7 @@ date: 2020-06-21 12:20:40
 image: 'https://m.media-amazon.com/images/I/51OUe-fHA-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M6Y1Y4A-de Red Dead Redemption 2 Standard Edition [PlayStation 4] Disk'
 sku: 'B01M6Y1Y4A-de'
 tags: [  ]

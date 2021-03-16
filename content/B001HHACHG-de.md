@@ -5,7 +5,7 @@ date: 2020-04-17 00:15:15
 image: 'https://m.media-amazon.com/images/I/31X3fawT88L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001HHACHG-de Leifheit Wandrollenhalter Parat ComfortLine-Serie für 3...'
 sku: 'B001HHACHG-de'
 tags: [  ]

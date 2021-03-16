@@ -5,7 +5,7 @@ date: 2020-06-06 15:03:53
 image: 'https://m.media-amazon.com/images/I/31teQEjNKxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVTSJWF-de Samsung WW6400 WW8HK6400QW/EG Waschmaschine 8 kg 1400...'
 sku: 'B07NVTSJWF-de'
 tags: [  ]

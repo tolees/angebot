@@ -5,7 +5,7 @@ date: 2020-04-10 15:54:35
 image: 'https://m.media-amazon.com/images/I/619axmyabaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XG9JJ3N-de Puzzlematte ineinandergreifende Schaumstoffmatten zum...'
 sku: 'B06XG9JJ3N-de'
 tags: [  ]

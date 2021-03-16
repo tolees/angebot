@@ -5,7 +5,7 @@ date: 2020-04-21 15:39:31
 image: 'https://m.media-amazon.com/images/I/51pcugmJ4rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NH3F8C6-de Neato Robotics D450 945-0343 Saugroboter Exklusive Tier...'
 sku: 'B07NH3F8C6-de'
 tags: [  ]

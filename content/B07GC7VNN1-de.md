@@ -5,7 +5,7 @@ date: 2020-01-22 16:53:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31NGRlCXx2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GC7VNN1-de BREE Collection Unisex-Erwachsene Punch 93 Backpack M S19...'
 sku: 'B07GC7VNN1-de'
 tags: [  ]

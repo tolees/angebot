@@ -5,7 +5,7 @@ date: 2020-01-24 16:53:23
 image: 'https://m.media-amazon.com/images/I/41Ic0sWp7dL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HNS43Z5-de Philips 276E8VJSB/00 68 cm 27 Zoll Monitor HDMI 5ms...'
 sku: 'B07HNS43Z5-de'
 tags: [  ]

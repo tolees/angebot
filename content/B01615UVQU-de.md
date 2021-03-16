@@ -5,7 +5,7 @@ date: 2020-02-29 17:12:59
 image: 'https://m.media-amazon.com/images/I/41GbLjlGpfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01615UVQU-de Sonos Play:5 WLAN Speaker Kraftvoller WLAN Lautsprecher...'
 sku: 'B01615UVQU-de'
 tags: [  ]

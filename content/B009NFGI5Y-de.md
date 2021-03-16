@@ -5,7 +5,7 @@ date: 2020-01-07 17:17:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51egEwud%2B4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009NFGI5Y-de Mattel Games Y9598 - Scrabble Original Wörterspiel und...'
 sku: 'B009NFGI5Y-de'
 tags: [  ]

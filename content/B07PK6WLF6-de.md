@@ -5,7 +5,7 @@ date: 2020-04-18 00:35:58
 image: 'https://m.media-amazon.com/images/I/41OjpvX39GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PK6WLF6-de HP 250 G7 15 6 Zoll / FHD Business Laptop Intel Core...'
 sku: 'B07PK6WLF6-de'
 tags: [  ]

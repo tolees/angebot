@@ -5,7 +5,7 @@ date: 2020-03-07 10:10:12
 image: 'https://m.media-amazon.com/images/I/411IhwEi1vL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M9JPRH3-de DEERCON Haarschneidemaschine Haartrimmer Bart Trimmer...'
 sku: 'B07M9JPRH3-de'
 tags: [  ]

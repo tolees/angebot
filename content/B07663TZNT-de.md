@@ -5,7 +5,7 @@ date: 2020-02-27 22:53:28
 image: 'https://m.media-amazon.com/images/I/31iN9UfSOnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07663TZNT-de CAMELBAK Trinkflasche Chute Mag 750 ml sea glass'
 sku: 'B07663TZNT-de'
 tags: [  ]

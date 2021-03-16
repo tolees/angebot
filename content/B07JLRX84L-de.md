@@ -5,7 +5,7 @@ date: 2020-03-17 10:59:13
 image: 'https://m.media-amazon.com/images/I/61TwfE32KaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLRX84L-de Playmobil 70004 Top Agents Spy Team Underwater Wing bunt'
 sku: 'B07JLRX84L-de'
 tags: [  ]

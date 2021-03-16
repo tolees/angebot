@@ -5,7 +5,7 @@ date: 2020-09-12 10:49:13
 image: 'https://m.media-amazon.com/images/I/41mmAVD4pYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IYEEY0Q-de Einhell Bohrhammer TC-RH 900 900 W 3 J Bohrleistung in...'
 sku: 'B00IYEEY0Q-de'
 tags: [  ]

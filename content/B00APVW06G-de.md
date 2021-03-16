@@ -5,7 +5,7 @@ date: 2020-04-14 15:57:43
 image: 'https://m.media-amazon.com/images/I/514Sgw76OVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00APVW06G-de Django Unchained [Blu-ray]'
 sku: 'B00APVW06G-de'
 tags: [  ]

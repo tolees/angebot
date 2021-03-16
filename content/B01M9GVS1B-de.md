@@ -5,7 +5,7 @@ date: 2020-01-28 22:38:50
 image: 'https://m.media-amazon.com/images/I/31E7e2SHtYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M9GVS1B-de hummel Unisex Erwachsene Slimmer Stadil Tonal Low Sneaker'
 sku: 'B01M9GVS1B-de'
 tags: [  ]

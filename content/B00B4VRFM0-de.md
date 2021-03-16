@@ -5,7 +5,7 @@ date: 2020-10-11 06:22:25
 image: 'https://m.media-amazon.com/images/I/41NXdtB3KWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B4VRFM0-de Fossil Herren Chronograph Quarz Uhr mit Edelstahl Armband...'
 sku: 'B00B4VRFM0-de'
 tags: [  ]

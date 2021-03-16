@@ -5,7 +5,7 @@ date: 2020-02-03 21:17:33
 image: 'https://m.media-amazon.com/images/I/41As9qkkKLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0759MJW6F-de Funko 28034 64202 S1 No Actionfigur Mad Max: Fury Road:...'
 sku: 'B0759MJW6F-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-21 04:48:32
 image: 'https://m.media-amazon.com/images/I/31wFJ3EbhqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072F7MRXN-de Hisense RB338N4AG2 Kühl-Gefrier-Kombination/A++/No-...'
 sku: 'B072F7MRXN-de'
 tags: [  ]

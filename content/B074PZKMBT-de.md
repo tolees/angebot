@@ -5,7 +5,7 @@ date: 2020-03-12 10:46:33
 image: 'https://m.media-amazon.com/images/I/414cwbRR9KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PZKMBT-de Sony Xperia XZ1 Smartphone 13 2 cm 5 2 Zoll Triluminos...'
 sku: 'B074PZKMBT-de'
 tags: [  ]

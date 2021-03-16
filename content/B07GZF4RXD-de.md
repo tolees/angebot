@@ -5,7 +5,7 @@ date: 2020-05-08 15:02:01
 image: 'https://m.media-amazon.com/images/I/41o1nMeeSqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZF4RXD-de Thrustmaster T.Racing Scuderia Ferrari Edition Gaming-...'
 sku: 'B07GZF4RXD-de'
 tags: [  ]

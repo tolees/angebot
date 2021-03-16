@@ -5,7 +5,7 @@ date: 2020-05-29 17:32:09
 image: 'https://m.media-amazon.com/images/I/317iihs9d1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TTJF86E-de Clarks Men’s Tilden Walk Derby Schwarz Black Leather 42.5 EU'
 sku: 'B00TTJF86E-de'
 tags: [  ]

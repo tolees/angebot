@@ -5,7 +5,7 @@ date: 2020-08-24 10:41:55
 image: 'https://m.media-amazon.com/images/I/516q61AOW2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HR1T8G-de adidas Herren Core 18 Sweat Trainingstop Dark Grey...'
 sku: 'B076HR1T8G-de'
 tags: [  ]

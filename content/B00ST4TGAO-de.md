@@ -5,7 +5,7 @@ date: 2020-09-18 10:04:55
 image: 'https://m.media-amazon.com/images/I/41qsM-OqKsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ST4TGAO-de Merry Style Damen Langarm Body BD900 Schwarz L'
 sku: 'B00ST4TGAO-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-12 20:13:56
 image: 'https://m.media-amazon.com/images/I/415TrfRIZbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0751GBCKN-de Garmin vívoactive 3 GPS-Fitness-Smartwatch -...'
 sku: 'B0751GBCKN-de'
 tags: [  ]

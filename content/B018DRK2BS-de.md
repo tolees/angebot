@@ -5,7 +5,7 @@ date: 2020-04-13 10:03:58
 image: 'https://m.media-amazon.com/images/I/61HXzZfW7iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018DRK2BS-de Kunzer 7SS172 Steckschlüsselsatz 1/4" - 3/8" - 1/2"...'
 sku: 'B018DRK2BS-de'
 tags: [  ]

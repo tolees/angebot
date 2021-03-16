@@ -5,7 +5,7 @@ date: 2020-03-01 20:12:58
 image: 'https://m.media-amazon.com/images/I/51f8p-Qng1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JM5FCVZ-de Playmobil 70120 Spirit - Riding Free Pferdebox Snips &...'
 sku: 'B07JM5FCVZ-de'
 tags: [  ]

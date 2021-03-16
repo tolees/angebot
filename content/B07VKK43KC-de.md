@@ -5,7 +5,7 @@ date: 2020-09-17 09:17:40
 image: 'https://m.media-amazon.com/images/I/41AlRSHV0dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKK43KC-de Aucma Küchenmaschine 1400W mit 6 2L Edelstahl-Rühlschüssel...'
 sku: 'B07VKK43KC-de'
 tags: [  ]

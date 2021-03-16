@@ -5,7 +5,7 @@ date: 2020-03-16 18:38:14
 image: 'https://m.media-amazon.com/images/I/41zjuigto7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YY1TBTM-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars PORG...'
 sku: 'B07YY1TBTM-de'
 tags: [  ]

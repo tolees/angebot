@@ -5,7 +5,7 @@ date: 2020-03-08 18:29:59
 image: 'https://m.media-amazon.com/images/I/415TuRoC1mL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0198KU5KM-de Naruto Naruto Vinyl Figure 71 Sammelfigur Standard'
 sku: 'B0198KU5KM-de'
 tags: [  ]

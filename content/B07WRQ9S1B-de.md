@@ -5,7 +5,7 @@ date: 2020-03-04 11:58:26
 image: 'https://m.media-amazon.com/images/I/41vlM1z4CiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRQ9S1B-de TP-Link TL-PA7017KIT AV1000 Gigabit Powerline Adapter 1x...'
 sku: 'B07WRQ9S1B-de'
 tags: [  ]

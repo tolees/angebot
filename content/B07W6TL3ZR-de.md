@@ -5,7 +5,7 @@ date: 2020-02-15 09:42:15
 image: 'https://m.media-amazon.com/images/I/31+PrLhrrKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6TL3ZR-de Nebula Mars II Pro von Anker Tragbarer kompakter Projektor...'
 sku: 'B07W6TL3ZR-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-04 08:58:30
 image: 'https://m.media-amazon.com/images/I/51esfzKou2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AT6NZ2Y-de 2er Set BRUBAKER Tisch- oder Nachttischlampen Anthrazit...'
 sku: 'B01AT6NZ2Y-de'
 tags: [  ]

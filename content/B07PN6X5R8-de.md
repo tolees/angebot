@@ -5,7 +5,7 @@ date: 2020-07-11 16:41:14
 image: 'https://m.media-amazon.com/images/I/31sZuE17FwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PN6X5R8-de Tefal E21846 Trattoria Kochtopf mit Gussdeckel...'
 sku: 'B07PN6X5R8-de'
 tags: [  ]

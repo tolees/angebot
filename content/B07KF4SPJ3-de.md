@@ -5,7 +5,7 @@ date: 2020-03-03 12:49:25
 image: 'https://m.media-amazon.com/images/I/311SHXtlUDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF4SPJ3-de Levi s Damen 312 Shaping Slim Jeans Grey Horizont 0102 30W...'
 sku: 'B07KF4SPJ3-de'
 tags: [  ]

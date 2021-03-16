@@ -5,7 +5,7 @@ date: 2020-04-17 23:36:44
 image: 'https://m.media-amazon.com/images/I/51pHPy3lWkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006JMJ31A-de Playmobil 4013 - SuperSet Pinguinbecken'
 sku: 'B006JMJ31A-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-17 17:36:15
 image: 'https://m.media-amazon.com/images/I/41vQ-4eiApL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FSEJHD4-de KALFF KFZ-Verbandkasten Compact DIN 13164 mit Erste-Hilfe...'
 sku: 'B00FSEJHD4-de'
 tags: [  ]

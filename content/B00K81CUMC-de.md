@@ -5,7 +5,7 @@ date: 2020-09-27 08:37:43
 image: 'https://m.media-amazon.com/images/I/316H1046q-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K81CUMC-de Desinfektionsmittel Hand 100ml - Hände Desinfektionsmittel...'
 sku: 'B00K81CUMC-de'
 tags: [  ]

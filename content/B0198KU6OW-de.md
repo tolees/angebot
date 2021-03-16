@@ -5,7 +5,7 @@ date: 2020-03-27 04:58:57
 image: 'https://m.media-amazon.com/images/I/41aT5jdUiNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0198KU6OW-de Funko 6356 S1 No Actionfigur Fairy Tail: Natsu Multi...'
 sku: 'B0198KU6OW-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-09 07:53:08
 image: 'https://m.media-amazon.com/images/I/41o+8cmHleL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016BRGMNY-de Bartöl - Beard Oil für Männer - Für gesundes Bartwachstum...'
 sku: 'B016BRGMNY-de'
 tags: [  ]

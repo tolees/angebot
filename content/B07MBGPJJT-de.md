@@ -5,7 +5,7 @@ date: 2020-07-14 03:36:36
 image: 'https://m.media-amazon.com/images/I/417OOgd09CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MBGPJJT-de Pentel SESF30C-4 Brush Sign Pen Artist - Pinselstift mit...'
 sku: 'B07MBGPJJT-de'
 tags: [  ]

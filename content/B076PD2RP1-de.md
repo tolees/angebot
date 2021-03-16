@@ -5,7 +5,7 @@ date: 2020-10-11 20:03:50
 image: 'https://m.media-amazon.com/images/I/31FTCR1+mUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076PD2RP1-de adidas Herren REGI18 PES PNT Sport Trousers Black/White M'
 sku: 'B076PD2RP1-de'
 tags: [  ]

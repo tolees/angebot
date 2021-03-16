@@ -5,7 +5,7 @@ date: 2020-09-10 06:08:14
 image: 'https://m.media-amazon.com/images/I/51+oUbRD59L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GDACY7C-de Sports Laboratory Bauchweggürtel für Gewichtsverlust für...'
 sku: 'B01GDACY7C-de'
 tags: [  ]

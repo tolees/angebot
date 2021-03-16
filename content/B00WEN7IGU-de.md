@@ -5,7 +5,7 @@ date: 2020-03-08 04:41:19
 image: 'https://m.media-amazon.com/images/I/41rnxbCLsyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WEN7IGU-de Hauck Eco Mobil - Bollerwagen Handwagen Transportwagen für...'
 sku: 'B00WEN7IGU-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-09 21:17:56
 image: 'https://m.media-amazon.com/images/I/41xOimV9WDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRYFGXG-de ASTRO A40 TR Gaming-Headsest + MixAmp Pro TR Generation 4...'
 sku: 'B07PRYFGXG-de'
 tags: [  ]

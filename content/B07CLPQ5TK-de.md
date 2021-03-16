@@ -5,7 +5,7 @@ date: 2020-03-24 13:04:23
 image: 'https://m.media-amazon.com/images/I/316jswLm5wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CLPQ5TK-de Omars Powerbank 10000mAh Externer Akku Quick Charge 3.0...'
 sku: 'B07CLPQ5TK-de'
 tags: [  ]

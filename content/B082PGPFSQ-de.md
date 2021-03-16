@@ -5,7 +5,7 @@ date: 2020-08-25 10:53:19
 image: 'https://m.media-amazon.com/images/I/41DwQrqef6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082PGPFSQ-de s.Oliver Herren 130.11.899.12.130.2037840 T-Shirt Blue XL'
 sku: 'B082PGPFSQ-de'
 tags: [  ]

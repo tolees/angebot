@@ -5,7 +5,7 @@ date: 2020-04-18 16:16:00
 image: 'https://m.media-amazon.com/images/I/415NkrLHdKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KHHC7NS-de Yamaha WX-010 White MusicCast WX-010 Netzwerklautsprecher...'
 sku: 'B01KHHC7NS-de'
 tags: [  ]

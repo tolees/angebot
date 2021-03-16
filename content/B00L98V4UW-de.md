@@ -5,7 +5,7 @@ date: 2020-09-24 09:49:42
 image: 'https://m.media-amazon.com/images/I/51nNv4zVv7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L98V4UW-de 25'
 sku: 'B00L98V4UW-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-18 00:02:47
 image: 'https://m.media-amazon.com/images/I/61QmTABBcfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X91PXWK-de Hasbro Star Wars C1252EU4 - Episode 8 Forcelink Tie...'
 sku: 'B06X91PXWK-de'
 tags: [  ]

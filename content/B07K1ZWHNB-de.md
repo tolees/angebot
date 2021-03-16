@@ -5,7 +5,7 @@ date: 2020-04-14 08:52:03
 image: 'https://m.media-amazon.com/images/I/41bO4SpTYWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K1ZWHNB-de Dowinx Gaming Stuhl Ergonomischer Racing Stil Lehnstuhl...'
 sku: 'B07K1ZWHNB-de'
 tags: [  ]

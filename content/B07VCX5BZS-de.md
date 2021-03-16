@@ -5,7 +5,7 @@ date: 2020-01-20 15:59:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41MbM7plmBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCX5BZS-de Jnwayb Katze Brunnen Katze Wasserspender automatischer...'
 sku: 'B07VCX5BZS-de'
 tags: [  ]

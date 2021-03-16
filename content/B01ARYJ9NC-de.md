@@ -5,7 +5,7 @@ date: 2020-01-18 11:15:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51wsAOm-tpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ARYJ9NC-de Einhell Kompressor TC-AC 190/24/8 max. 8 bar 24 l-Tank...'
 sku: 'B01ARYJ9NC-de'
 tags: [  ]

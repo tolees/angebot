@@ -5,7 +5,7 @@ date: 2020-01-24 20:03:33
 image: 'https://m.media-amazon.com/images/I/41eHSVRgsxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00APUXOTE-de walther design WD030S Chloe Portraitrahmen 20 x 30 cm silber'
 sku: 'B00APUXOTE-de'
 tags: [  ]

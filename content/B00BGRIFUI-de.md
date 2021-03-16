@@ -5,7 +5,7 @@ date: 2020-04-15 23:59:31
 image: 'https://m.media-amazon.com/images/I/516o056xnaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BGRIFUI-de Dickie Toys Mega Crane elektrischer Kran mit Fernbedienung...'
 sku: 'B00BGRIFUI-de'
 tags: [  ]

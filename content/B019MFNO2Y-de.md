@@ -5,7 +5,7 @@ date: 2020-05-07 21:46:06
 image: 'https://m.media-amazon.com/images/I/41MGQoza+NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019MFNO2Y-de Rollei Actioncam Zubehör Set Outdoor I 23-teiliges Set I...'
 sku: 'B019MFNO2Y-de'
 tags: [  ]

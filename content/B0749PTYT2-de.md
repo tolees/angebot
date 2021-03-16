@@ -5,7 +5,7 @@ date: 2020-01-11 16:41:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51hPJ6NL8sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0749PTYT2-de AmazonBasics - Terassenstuhl 5-Stufen verstellbar Doppelpack'
 sku: 'B0749PTYT2-de'
 tags: [  ]

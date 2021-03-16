@@ -5,7 +5,7 @@ date: 2020-03-27 21:16:44
 image: 'https://m.media-amazon.com/images/I/51UWA-0sXUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007CMP97S-de Sylvanian Families 3409 - Walnuss Eichhörnchen Baby -...'
 sku: 'B007CMP97S-de'
 tags: [  ]

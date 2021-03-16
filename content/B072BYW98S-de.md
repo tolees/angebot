@@ -5,7 +5,7 @@ date: 2020-02-28 19:59:35
 image: 'https://m.media-amazon.com/images/I/413nDlbvjmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072BYW98S-de POP Heroes: Justice League Movie - Wonder Woman'
 sku: 'B072BYW98S-de'
 tags: [  ]

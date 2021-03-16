@@ -5,7 +5,7 @@ date: 2020-01-24 20:23:55
 image: 'https://m.media-amazon.com/images/I/414vol2IDpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073XJM2PJ-de Bestand Aluminiumständer für Laptop und Macbook Desktop...'
 sku: 'B073XJM2PJ-de'
 tags: [  ]

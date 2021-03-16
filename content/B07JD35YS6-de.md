@@ -5,7 +5,7 @@ date: 2020-03-18 08:02:57
 image: 'https://m.media-amazon.com/images/I/21bDx7OV+TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JD35YS6-de Huawei Wireless Charger Supercharge mit Adapter CP60...'
 sku: 'B07JD35YS6-de'
 tags: [  ]

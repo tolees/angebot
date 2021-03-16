@@ -5,7 +5,7 @@ date: 2020-08-18 10:41:21
 image: 'https://m.media-amazon.com/images/I/51MXxARuCPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BGXX6WN-de Faltbare Seiher Sieb Set Klappbar Abtropfsieb über die...'
 sku: 'B07BGXX6WN-de'
 tags: [  ]

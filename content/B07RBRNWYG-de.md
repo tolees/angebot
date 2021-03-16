@@ -5,7 +5,7 @@ date: 2020-04-09 23:58:20
 image: 'https://m.media-amazon.com/images/I/51xwpMKWqaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RBRNWYG-de YLCJ Milan Nordic American Retro industria pesada metal...'
 sku: 'B07RBRNWYG-de'
 tags: [  ]

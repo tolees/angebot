@@ -5,7 +5,7 @@ date: 2020-02-27 04:41:22
 image: 'https://m.media-amazon.com/images/I/41jgIwcjRRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000S5HYEM-de Herlitz 8842700 Packbandabroller für Grossrollen Ind. Abrisse'
 sku: 'B000S5HYEM-de'
 tags: [  ]

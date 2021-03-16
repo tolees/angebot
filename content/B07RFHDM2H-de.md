@@ -5,7 +5,7 @@ date: 2020-09-16 06:25:41
 image: 'https://m.media-amazon.com/images/I/311xjgNfqkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFHDM2H-de PROCAVE Baumwolle Komfort Qualitäts-Bettdecke für den...'
 sku: 'B07RFHDM2H-de'
 tags: [  ]

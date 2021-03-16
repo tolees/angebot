@@ -5,7 +5,7 @@ date: 2020-09-29 08:42:47
 image: 'https://m.media-amazon.com/images/I/41P5bYyHu0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KHWIOOO-de Post-it R3306SMI Haftnotiz Super Sticky Z-Notes 6 Blöcke...'
 sku: 'B01KHWIOOO-de'
 tags: [  ]

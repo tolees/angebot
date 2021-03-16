@@ -5,7 +5,7 @@ date: 2020-04-23 14:18:24
 image: 'https://m.media-amazon.com/images/I/41VKdTs3glL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C5X3VP5-de JACK & JONES Herren JJEHOLMEN Sweat Hood NOOS...'
 sku: 'B07C5X3VP5-de'
 tags: [  ]

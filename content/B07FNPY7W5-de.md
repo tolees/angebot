@@ -5,7 +5,7 @@ date: 2020-04-17 22:09:14
 image: 'https://m.media-amazon.com/images/I/41dqya-KTHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNPY7W5-de THE NORTH FACE Damen Thermoball Sportjacke Rumba Red/Fig S'
 sku: 'B07FNPY7W5-de'
 tags: [  ]

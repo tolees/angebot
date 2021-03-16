@@ -5,7 +5,7 @@ date: 2020-04-11 16:58:42
 image: 'https://m.media-amazon.com/images/I/51Ky0ll5CFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DPJFP5Y-de Concrete Genie [PlayStation 4]'
 sku: 'B07DPJFP5Y-de'
 tags: [  ]

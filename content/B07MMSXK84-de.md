@@ -5,7 +5,7 @@ date: 2020-06-04 16:52:18
 image: 'https://m.media-amazon.com/images/I/51b9bvwX14L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMSXK84-de Hasbro FurReal Friends E5679EU4 FurReal König der Löwen -...'
 sku: 'B07MMSXK84-de'
 tags: [  ]

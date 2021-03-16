@@ -5,7 +5,7 @@ date: 2020-02-23 20:05:36
 image: 'https://m.media-amazon.com/images/I/41j+bnI4AFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQMRLM-de Funko 39947 POP Vinyl: Animation Scooby DOO w/Sandwich...'
 sku: 'B07MZQMRLM-de'
 tags: [  ]

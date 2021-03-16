@@ -5,7 +5,7 @@ date: 2020-05-12 15:18:12
 image: 'https://m.media-amazon.com/images/I/41eJIW05I+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWVWG9X-de USB Stick 64GB EIVOTOR Memory Stick USB 3.0 Flash Drive...'
 sku: 'B07RWVWG9X-de'
 tags: [  ]

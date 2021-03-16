@@ -5,7 +5,7 @@ date: 2020-06-06 17:50:50
 image: 'https://m.media-amazon.com/images/I/417OmhkE5lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C01YILO-de alfi 5337.641.050 Isolier-Trinkflasche isoBottle II...'
 sku: 'B00C01YILO-de'
 tags: [  ]

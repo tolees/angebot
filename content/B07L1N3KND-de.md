@@ -5,7 +5,7 @@ date: 2020-04-07 21:35:21
 image: 'https://m.media-amazon.com/images/I/41Bz1LdeaeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L1N3KND-de LIGHTAILING Licht-Set Für VW Käfer Modell - LED Licht-Set...'
 sku: 'B07L1N3KND-de'
 tags: [  ]

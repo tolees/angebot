@@ -5,7 +5,7 @@ date: 2020-01-03 10:51:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HfNy73HyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X4SO5XS-de G.I.G.A. DX Damen Madoka Parka Dunkelnavy 42'
 sku: 'B00X4SO5XS-de'
 tags: [  ]

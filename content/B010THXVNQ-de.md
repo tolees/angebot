@@ -5,7 +5,7 @@ date: 2020-03-22 11:07:08
 image: 'https://m.media-amazon.com/images/I/41rh8T2pEyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010THXVNQ-de Sony Alpha 7RM2 E-Mount Vollformat Digitalkamera ILCE-7RM2...'
 sku: 'B010THXVNQ-de'
 tags: [  ]

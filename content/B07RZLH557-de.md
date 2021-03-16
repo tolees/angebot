@@ -5,7 +5,7 @@ date: 2020-04-15 20:23:46
 image: 'https://m.media-amazon.com/images/I/41MdghJMm9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZLH557-de Levi s Herren The Original T-Shirt Grau Hm Patch Og Tee...'
 sku: 'B07RZLH557-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-28 10:27:13
 image: 'https://m.media-amazon.com/images/I/41buRa3EFEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0043YKXUG-de Mattel Games V9364 - UNO Extreme Kartenspiel geeignet für...'
 sku: 'B0043YKXUG-de'
 tags: [  ]

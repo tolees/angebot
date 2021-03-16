@@ -5,7 +5,7 @@ date: 2020-04-16 18:01:08
 image: 'https://m.media-amazon.com/images/I/61Pf4qM-YhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797ZGWXF-de Sylvanian Families 6013 Town Series 6013-Fashion...'
 sku: 'B0797ZGWXF-de'
 tags: [  ]

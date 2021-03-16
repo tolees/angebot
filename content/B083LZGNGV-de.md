@@ -5,7 +5,7 @@ date: 2020-02-28 13:22:59
 image: 'https://m.media-amazon.com/images/I/210ptUyeMGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083LZGNGV-de Samsung Clear View Cover EF-ZG985 für Galaxy S20+ | S20+...'
 sku: 'B083LZGNGV-de'
 tags: [  ]

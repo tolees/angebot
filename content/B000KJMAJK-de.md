@@ -5,7 +5,7 @@ date: 2020-07-16 05:06:07
 image: 'https://m.media-amazon.com/images/I/61yfCQ0MaxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KJMAJK-de AVERY Zweckform 1725 Auftrag A5 2x40 Blatt...'
 sku: 'B000KJMAJK-de'
 tags: [  ]

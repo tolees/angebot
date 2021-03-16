@@ -5,7 +5,7 @@ date: 2020-01-26 18:01:47
 image: 'https://m.media-amazon.com/images/I/618R-+gPGeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG5FYPP-de Star Wars Geschenke 3D Lampe für Männer - Star Wars...'
 sku: 'B07KG5FYPP-de'
 tags: [  ]

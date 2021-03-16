@@ -5,7 +5,7 @@ date: 2020-05-05 19:49:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31JW-X6078L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHVCY1M-de Denon AVR-X2600H 7.2-Kanal AV-Receiver Hifi Verstärker...'
 sku: 'B07RHVCY1M-de'
 tags: [  ]

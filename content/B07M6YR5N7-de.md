@@ -5,7 +5,7 @@ date: 2020-08-22 07:40:16
 image: 'https://m.media-amazon.com/images/I/41IJG69ZqyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M6YR5N7-de Greylags Premium Boxershorts/Retroshorts für Herren |...'
 sku: 'B07M6YR5N7-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-21 15:21:27
 image: 'https://m.media-amazon.com/images/I/513eLsLsqWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LE0A9OQ-de 707'
 sku: 'B01LE0A9OQ-de'
 tags: [  ]

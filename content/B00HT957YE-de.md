@@ -5,7 +5,7 @@ date: 2020-03-06 04:54:31
 image: 'https://m.media-amazon.com/images/I/413TEakn5fL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HT957YE-de Original Einhell System Akku Power X-Change Lithium Ionen...'
 sku: 'B00HT957YE-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-28 00:00:04
 image: 'https://m.media-amazon.com/images/I/41RIPmhdMAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000B8FNUS-de Leifheit Wandrollenhalter Parat Plus ComfortLine-Serie für...'
 sku: 'B000B8FNUS-de'
 tags: [  ]

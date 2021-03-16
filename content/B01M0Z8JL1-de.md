@@ -5,7 +5,7 @@ date: 2020-10-06 03:18:09
 image: 'https://m.media-amazon.com/images/I/41+I9pYMrVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0Z8JL1-de HÖGL Pumps Boulevard 90 Red 4.5 0-189004'
 sku: 'B01M0Z8JL1-de'
 tags: [  ]

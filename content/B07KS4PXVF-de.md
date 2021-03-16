@@ -5,7 +5,7 @@ date: 2020-02-06 16:56:41
 image: 'https://m.media-amazon.com/images/I/41cdGNuN96L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KS4PXVF-de RAVPower 20100mAh Powerbank USB C Power Delivery 45W PD...'
 sku: 'B07KS4PXVF-de'
 tags: [  ]

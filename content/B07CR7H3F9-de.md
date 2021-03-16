@@ -5,7 +5,7 @@ date: 2020-06-04 17:30:19
 image: 'https://m.media-amazon.com/images/I/41IRfGY5OUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CR7H3F9-de Fairy Ultra Plus Konzentrat Original Spülmittel 800 ml'
 sku: 'B07CR7H3F9-de'
 tags: [  ]

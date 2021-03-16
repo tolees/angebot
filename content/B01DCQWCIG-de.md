@@ -5,7 +5,7 @@ date: 2020-09-10 21:21:37
 image: 'https://m.media-amazon.com/images/I/31IQ0hTmGwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DCQWCIG-de VCM Waschmaschinenschrank Badschrank Hochschrank Badregal...'
 sku: 'B01DCQWCIG-de'
 tags: [  ]

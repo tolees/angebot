@@ -5,7 +5,7 @@ date: 2020-03-06 18:29:42
 image: 'https://m.media-amazon.com/images/I/51V5PO4LnBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NH1F3LR-de Simba – PJ Masks Mond Rover / mit Catboy Figur / mit Licht...'
 sku: 'B07NH1F3LR-de'
 tags: [  ]

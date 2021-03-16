@@ -5,7 +5,7 @@ date: 2020-04-10 00:02:35
 image: 'https://m.media-amazon.com/images/I/4155zxJADAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007C7WPCK-de Martha Stewart Satin Acrylic Craft Paint 2 Ounces-Seaweed'
 sku: 'B007C7WPCK-de'
 tags: [  ]

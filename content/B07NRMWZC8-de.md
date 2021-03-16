@@ -5,7 +5,7 @@ date: 2020-04-18 00:33:27
 image: 'https://m.media-amazon.com/images/I/41ukuVF0hnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRMWZC8-de Bluetooth Kopfhörer Kabellos In-Ear Ohrhörer iTeknic True-...'
 sku: 'B07NRMWZC8-de'
 tags: [  ]

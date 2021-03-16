@@ -5,7 +5,7 @@ date: 2020-07-08 17:31:17
 image: 'https://m.media-amazon.com/images/I/41DQVFSo19L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D8OHE5E-de Steiff 239571 Schlaf-gut-Bär Plüschtier Mehrfarbig'
 sku: 'B00D8OHE5E-de'
 tags: [  ]

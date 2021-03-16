@@ -5,7 +5,7 @@ date: 2020-05-01 15:47:49
 image: 'https://m.media-amazon.com/images/I/51Kk2Q-0JaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W7P1Y9V-de Dragon Touch Action Cam 4K Action Kamera 20MP EIS Anti-...'
 sku: 'B07W7P1Y9V-de'
 tags: [  ]

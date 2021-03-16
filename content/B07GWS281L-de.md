@@ -5,7 +5,7 @@ date: 2020-01-24 04:45:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qsOg25D-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GWS281L-de Suunto 9 Unisex Multisport-GPS-Uhr Über 25h...'
 sku: 'B07GWS281L-de'
 tags: [  ]

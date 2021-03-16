@@ -5,7 +5,7 @@ date: 2020-09-24 11:31:39
 image: 'https://m.media-amazon.com/images/I/31lRSBNfqTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VQBEGCU-de Leifheit Standtrockner Classic 250 Flex individuell...'
 sku: 'B00VQBEGCU-de'
 tags: [  ]

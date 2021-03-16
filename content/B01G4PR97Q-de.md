@@ -5,7 +5,7 @@ date: 2020-01-28 10:19:33
 image: 'https://m.media-amazon.com/images/I/5107r+d0+zL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G4PR97Q-de Ravensburger Malen nach Zahlen 28027 28027-Frozen Malset'
 sku: 'B01G4PR97Q-de'
 tags: [  ]

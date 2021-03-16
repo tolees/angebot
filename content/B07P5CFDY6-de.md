@@ -5,7 +5,7 @@ date: 2020-01-27 01:44:35
 image: 'https://m.media-amazon.com/images/I/417JVjiScML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5CFDY6-de Mitef Anime Cosplay Kostüm Prinzessin Anna mit Schal für...'
 sku: 'B07P5CFDY6-de'
 tags: [  ]

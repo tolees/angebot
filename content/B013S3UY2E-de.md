@@ -5,7 +5,7 @@ date: 2020-03-05 20:40:42
 image: 'https://m.media-amazon.com/images/I/41Z5yWk5i2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013S3UY2E-de Creative Sound BlasterX H3 analoges Pro-Gaming Headset...'
 sku: 'B013S3UY2E-de'
 tags: [  ]

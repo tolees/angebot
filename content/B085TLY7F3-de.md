@@ -5,7 +5,7 @@ date: 2020-07-12 23:53:51
 image: 'https://m.media-amazon.com/images/I/41FvnNF7diL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085TLY7F3-de Bluetooth Kopfhörer LESHI Bluetooth Kabellose Ohrhörer TWS...'
 sku: 'B085TLY7F3-de'
 tags: [  ]

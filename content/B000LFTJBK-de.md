@@ -5,7 +5,7 @@ date: 2020-10-11 20:04:05
 image: 'https://m.media-amazon.com/images/I/41td2vH9BCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000LFTJBK-de Silverline FIXMAN 633499 Trockenbau-Abstandhalter 100er-Pckg.'
 sku: 'B000LFTJBK-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-24 12:45:48
 image: 'https://m.media-amazon.com/images/I/417Kf2rNs8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0834KTSPW-de Wepro kompatibel mit AirPods Pro Hülle Abstrahlend 2019...'
 sku: 'B0834KTSPW-de'
 tags: [  ]

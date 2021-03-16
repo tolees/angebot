@@ -5,7 +5,7 @@ date: 2020-03-11 19:28:43
 image: 'https://m.media-amazon.com/images/I/31lJIl+t6LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CIEBS74-de SanDisk 64GB iXpand USB-Flash-Laufwerk für iPhone und iPad'
 sku: 'B01CIEBS74-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-02 05:04:35
 image: 'https://m.media-amazon.com/images/I/41phqjJXFcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0714NKRFL-de Uglyfrog Bike-T Full Zip Herren Radtrikot Set Atmungsaktiv...'
 sku: 'B0714NKRFL-de'
 tags: [  ]

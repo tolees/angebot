@@ -5,7 +5,7 @@ date: 2020-02-08 17:37:59
 image: 'https://m.media-amazon.com/images/I/41-NXE1K9uL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075NB5N4T-de Lintelek Fitness Armband Fitness Tracker wasserdicht...'
 sku: 'B075NB5N4T-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-17 23:59:54
 image: 'https://m.media-amazon.com/images/I/617xvKIL5uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTF0FKG-de Sylvanian Families 5273 Limousine Puppenauto 26 x 12 5 x...'
 sku: 'B01MTF0FKG-de'
 tags: [  ]

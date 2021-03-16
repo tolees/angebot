@@ -5,7 +5,7 @@ date: 2020-02-21 15:54:35
 image: 'https://m.media-amazon.com/images/I/41EsgXIg2LL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXFXMQN-de Bosch Ortungsgerät Truvo 3 x AAA Batterien Erfassungstiefe...'
 sku: 'B01LXFXMQN-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-23 22:06:35
 image: 'https://m.media-amazon.com/images/I/41YMR8RKboL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQJ9MYM-de Gabor Shoes Damen Jollys Stiefeletten Beige Cognac Natur...'
 sku: 'B07PQJ9MYM-de'
 tags: [  ]

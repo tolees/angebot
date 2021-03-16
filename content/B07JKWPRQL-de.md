@@ -5,7 +5,7 @@ date: 2020-04-18 00:25:51
 image: 'https://m.media-amazon.com/images/I/51dH3ieFZOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKWPRQL-de Playmobil 70013 Western Westernkutsche bunt'
 sku: 'B07JKWPRQL-de'
 tags: [  ]

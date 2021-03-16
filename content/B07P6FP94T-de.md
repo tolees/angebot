@@ -5,7 +5,7 @@ date: 2020-04-04 21:04:31
 image: 'https://m.media-amazon.com/images/I/51S2yjYkWlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6FP94T-de PLAYMOBIL Novelmore 70224 Geniale Wasserballiste Für...'
 sku: 'B07P6FP94T-de'
 tags: [  ]

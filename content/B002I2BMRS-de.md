@@ -5,7 +5,7 @@ date: 2020-02-17 05:03:23
 image: 'https://m.media-amazon.com/images/I/41zZP5lFihL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002I2BMRS-de Caffè Vergnano 1882 Gran Aroma Ganze Bohnen 1 kg'
 sku: 'B002I2BMRS-de'
 tags: [  ]

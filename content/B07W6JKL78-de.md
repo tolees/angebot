@@ -5,7 +5,7 @@ date: 2020-08-21 22:57:41
 image: 'https://m.media-amazon.com/images/I/41G+zo7Hq8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6JKL78-de Logitech G604 LIGHTSPEED kabellose Gaming-Maus mit 15...'
 sku: 'B07W6JKL78-de'
 tags: [  ]

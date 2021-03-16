@@ -5,7 +5,7 @@ date: 2020-01-26 04:36:50
 image: 'https://m.media-amazon.com/images/I/410tdRjlscL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H96PVE8-de Layenberger LowCarb.one 3K Protein-Shake Vanille-Sahne 1er...'
 sku: 'B00H96PVE8-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-24 01:46:33
 image: 'https://m.media-amazon.com/images/I/41FtF6CvS4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQF4B63-de L.O.L. Surprise! - Mädchen-Badeanzug mit Volant und...'
 sku: 'B07SQF4B63-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-19 09:09:39
 image: 'https://m.media-amazon.com/images/I/41NsirntjGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NNPZ7JY-de American Tourister Funlight Disney Spinner Suitcase 67 cm...'
 sku: 'B07NNPZ7JY-de'
 tags: [  ]

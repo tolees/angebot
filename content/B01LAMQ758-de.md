@@ -5,7 +5,7 @@ date: 2020-03-02 03:58:36
 image: 'https://m.media-amazon.com/images/I/51oq2UdgwjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LAMQ758-de Funko 026997 POP Vinylfigur: Disney: The Little Mermaid:...'
 sku: 'B01LAMQ758-de'
 tags: [  ]

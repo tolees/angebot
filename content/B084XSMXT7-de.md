@@ -5,7 +5,7 @@ date: 2020-09-24 01:54:29
 image: 'https://m.media-amazon.com/images/I/41fyDthEdRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084XSMXT7-de LG Electronics 75UM7050PLF 189 cm 75 Zoll UHD Fernseher 4K...'
 sku: 'B084XSMXT7-de'
 tags: [  ]

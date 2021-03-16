@@ -5,7 +5,7 @@ date: 2020-02-09 13:30:27
 image: 'https://m.media-amazon.com/images/I/41oLQhTBbML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792T5HSF-de Geox Damen D ASHEELY B Biker Boots Blau Blue C4000 39 EU'
 sku: 'B0792T5HSF-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-26 22:33:32
 image: 'https://m.media-amazon.com/images/I/51BrEFBLWRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4CFT7V-de Nackenmassagegerät Shiatsu Massagegerät mit Wärmefunktion...'
 sku: 'B07W4CFT7V-de'
 tags: [  ]

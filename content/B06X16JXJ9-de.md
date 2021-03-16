@@ -5,7 +5,7 @@ date: 2020-03-05 16:49:26
 image: 'https://m.media-amazon.com/images/I/31jLW-pWlHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X16JXJ9-de Adidas Adilette Shower Herren Dusch- & Badeschuhe Weiß...'
 sku: 'B06X16JXJ9-de'
 tags: [  ]

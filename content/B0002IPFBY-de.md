@@ -5,7 +5,7 @@ date: 2020-08-10 00:10:28
 image: 'https://m.media-amazon.com/images/I/31Me8pe73iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0002IPFBY-de Netgear GS116GE 16-Port Gigabit Ethernet LAN Switch...'
 sku: 'B0002IPFBY-de'
 tags: [  ]

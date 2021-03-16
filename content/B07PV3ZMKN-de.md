@@ -5,7 +5,7 @@ date: 2020-03-09 09:33:31
 image: 'https://m.media-amazon.com/images/I/512b5h59ChL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PV3ZMKN-de Samsung LS03R The Frame 163 cm 65 Zoll QLED Lifestyle...'
 sku: 'B07PV3ZMKN-de'
 tags: [  ]

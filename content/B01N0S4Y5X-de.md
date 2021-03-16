@@ -5,7 +5,7 @@ date: 2020-03-29 22:07:37
 image: 'https://m.media-amazon.com/images/I/51LQU9lbIvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0S4Y5X-de Bosch Professional Akku-Bohrhammer GBH 18 V-26 F 2 x 5 0...'
 sku: 'B01N0S4Y5X-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-15 11:53:52
 image: 'https://m.media-amazon.com/images/I/41WLX19pvrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9JMUTC-de Bosch Akku Rasenmäher Rotak 430 LI 2 Akku 36 Volt...'
 sku: 'B01N9JMUTC-de'
 tags: [  ]

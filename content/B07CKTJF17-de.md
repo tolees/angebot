@@ -5,7 +5,7 @@ date: 2020-06-09 03:32:05
 image: 'https://m.media-amazon.com/images/I/51b7brWbpAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CKTJF17-de Frauen Geschenke，Body & Earth 6Pcs Lavendel Wellness Set...'
 sku: 'B07CKTJF17-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-17 05:03:34
 image: 'https://m.media-amazon.com/images/I/51dskkpEzwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRV7K15-de Beko DE8535RX0 Wärmepumpentrockner/8...'
 sku: 'B01MRV7K15-de'
 tags: [  ]

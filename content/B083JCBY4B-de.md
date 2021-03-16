@@ -5,7 +5,7 @@ date: 2020-04-14 16:25:46
 image: 'https://m.media-amazon.com/images/I/51OlQPsWooL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083JCBY4B-de DXX Technik Bausteine Bulldozer Spielzeug 1572Teile 1:10...'
 sku: 'B083JCBY4B-de'
 tags: [  ]

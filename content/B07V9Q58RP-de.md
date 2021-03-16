@@ -5,7 +5,7 @@ date: 2020-07-10 23:46:57
 image: 'https://m.media-amazon.com/images/I/51nrzazWYVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9Q58RP-de AVIWIS Micro USB Kabel [4Pack 0.3M 1M 2M 3M] Nylon Micro...'
 sku: 'B07V9Q58RP-de'
 tags: [  ]

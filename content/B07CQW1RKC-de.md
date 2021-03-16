@@ -5,7 +5,7 @@ date: 2020-02-04 12:31:13
 image: 'https://m.media-amazon.com/images/I/412QzYjZAxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CQW1RKC-de Potensic GPS Drohne FPV RC Quadrocopter 2K HD Kamera...'
 sku: 'B07CQW1RKC-de'
 tags: [  ]

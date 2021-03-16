@@ -5,7 +5,7 @@ date: 2020-01-27 18:54:47
 image: 'https://m.media-amazon.com/images/I/41i+x+QArlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBCYDM9-de Trust GXT Mechanische Gaming Tastatur mit LED Beleuchtung...'
 sku: 'B07JBCYDM9-de'
 tags: [  ]

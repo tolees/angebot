@@ -5,7 +5,7 @@ date: 2020-03-06 11:05:38
 image: 'https://m.media-amazon.com/images/I/41u9LB47iML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WDJXS2H-de SEIKO Automatische Uhr SRPD83K1 schwarz Street'
 sku: 'B07WDJXS2H-de'
 tags: [  ]

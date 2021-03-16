@@ -5,7 +5,7 @@ date: 2020-02-15 08:17:46
 image: 'https://m.media-amazon.com/images/I/412K9HLWeDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GH1DJYB-de Aarke Carbonator II Wassersprudler Edelstahl Gehäuse Soda...'
 sku: 'B07GH1DJYB-de'
 tags: [  ]

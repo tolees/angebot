@@ -5,7 +5,7 @@ date: 2020-02-14 14:50:27
 image: 'https://m.media-amazon.com/images/I/41-WuPLEV6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CHQHFDZ-de OnePlus 6 Smartphone 15 95 cm 6 28 Zoll 19:9 Touch-Display...'
 sku: 'B07CHQHFDZ-de'
 tags: [  ]

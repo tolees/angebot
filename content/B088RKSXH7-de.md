@@ -5,7 +5,7 @@ date: 2020-10-03 06:26:56
 image: 'https://m.media-amazon.com/images/I/41G35NPeLzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088RKSXH7-de LOUIS XVI Herren-Armbanduhr Athos Stahlband Rosegold Braun...'
 sku: 'B088RKSXH7-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-06 21:01:44
 image: 'https://m.media-amazon.com/images/I/51mX7IPNyjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCGBVMT-de BRIKSMAX Led Beleuchtungsset für Lego Stadthaus mit...'
 sku: 'B07XCGBVMT-de'
 tags: [  ]

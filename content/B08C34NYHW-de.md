@@ -5,7 +5,7 @@ date: 2020-08-06 18:49:51
 image: 'https://m.media-amazon.com/images/I/51XBepIc35L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C34NYHW-de 4G LTE Tablet 10 Zoll - Android 9.0 Zertifiziert von...'
 sku: 'B08C34NYHW-de'
 tags: [  ]

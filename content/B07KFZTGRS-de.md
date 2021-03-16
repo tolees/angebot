@@ -5,7 +5,7 @@ date: 2020-03-07 13:06:34
 image: 'https://m.media-amazon.com/images/I/31JL5abZpkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFZTGRS-de Puma Unisex-Erwachsene Rebound Layup Sd Fur Sneaker Puma...'
 sku: 'B07KFZTGRS-de'
 tags: [  ]

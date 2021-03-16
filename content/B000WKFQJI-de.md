@@ -5,7 +5,7 @@ date: 2020-10-09 03:46:34
 image: 'https://m.media-amazon.com/images/I/31iHe3MnUVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000WKFQJI-de Brennenstuhl Eco-Line Steckdosenleiste 10-fach...'
 sku: 'B000WKFQJI-de'
 tags: [  ]

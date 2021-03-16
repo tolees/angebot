@@ -5,7 +5,7 @@ date: 2020-08-18 15:03:45
 image: 'https://m.media-amazon.com/images/I/4100Ui4Z+LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0X50CZ-de Mpow Bluetooth Headset Wireless Headset Auto Stereo Sound...'
 sku: 'B01M0X50CZ-de'
 tags: [  ]

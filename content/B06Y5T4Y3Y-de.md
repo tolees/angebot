@@ -5,7 +5,7 @@ date: 2020-04-26 14:55:17
 image: 'https://m.media-amazon.com/images/I/31gTzwlHGpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y5T4Y3Y-de AKG K275 Geschlossener leichter Over-Ear-Studiokopfhörer...'
 sku: 'B06Y5T4Y3Y-de'
 tags: [  ]

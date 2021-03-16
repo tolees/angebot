@@ -5,7 +5,7 @@ date: 2020-06-11 22:54:34
 image: 'https://m.media-amazon.com/images/I/31IvJO82f7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P2BF43Y-de Funko 37254 POP Vinyl: Held 80th-Batman 1995 Sammelbares...'
 sku: 'B07P2BF43Y-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-06 09:30:07
 image: 'https://m.media-amazon.com/images/I/51KicgxjEqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JVV8PS8-de Panasonic eneloop Ready-to-Use Ni-MH Akku AAA Micro 4er...'
 sku: 'B00JVV8PS8-de'
 tags: [  ]

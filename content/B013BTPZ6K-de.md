@@ -5,7 +5,7 @@ date: 2020-04-27 07:18:10
 image: 'https://m.media-amazon.com/images/I/4189++zenKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013BTPZ6K-de Hauck Duett 2 Geschwisterwagen bis 36 kg Zwillingsbuggy...'
 sku: 'B013BTPZ6K-de'
 tags: [  ]

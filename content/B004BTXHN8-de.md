@@ -5,7 +5,7 @@ date: 2020-02-21 04:48:17
 image: 'https://m.media-amazon.com/images/I/41XvRtu28nL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004BTXHN8-de FALKE Damen Wandersocken TK1 - Merinowollmischung 1 Paar...'
 sku: 'B004BTXHN8-de'
 tags: [  ]

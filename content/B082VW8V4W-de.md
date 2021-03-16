@@ -5,7 +5,7 @@ date: 2020-01-03 22:55:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/519dOUnKqZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VW8V4W-de OwlFay Prinzessin Kleid Mädchen Blaue Schneekönigin Kostüm...'
 sku: 'B082VW8V4W-de'
 tags: [  ]

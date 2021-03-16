@@ -5,7 +5,7 @@ date: 2020-01-27 04:41:35
 image: 'https://m.media-amazon.com/images/I/61XtLDUVnGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H3EPKPK-de Mario Party: Star Rush [3DS]'
 sku: 'B01H3EPKPK-de'
 tags: [  ]

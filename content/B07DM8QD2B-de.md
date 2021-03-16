@@ -5,7 +5,7 @@ date: 2020-03-18 08:03:22
 image: 'https://m.media-amazon.com/images/I/41ktcpVqr+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DM8QD2B-de Philips 14-in-1 Multigroom MG7745/15 Barttrimmer...'
 sku: 'B07DM8QD2B-de'
 tags: [  ]

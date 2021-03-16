@@ -5,7 +5,7 @@ date: 2020-03-12 08:23:01
 image: 'https://m.media-amazon.com/images/I/41mGkGV1PZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LGKRVPK-de Bosch 3tlg. Starter Set Fliesen für...'
 sku: 'B00LGKRVPK-de'
 tags: [  ]

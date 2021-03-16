@@ -5,7 +5,7 @@ date: 2020-03-04 04:52:12
 image: 'https://m.media-amazon.com/images/I/51ROTxHI60L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DVCC02E-de Bones - Season Ten [6 DVDs]'
 sku: 'B01DVCC02E-de'
 tags: [  ]

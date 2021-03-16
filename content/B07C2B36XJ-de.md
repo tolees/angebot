@@ -5,7 +5,7 @@ date: 2020-08-10 14:57:46
 image: 'https://m.media-amazon.com/images/I/51fgt4ioWoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C2B36XJ-de JACK & JONES Herren Strickpullover V-Ausschnitt LNavy...'
 sku: 'B07C2B36XJ-de'
 tags: [  ]

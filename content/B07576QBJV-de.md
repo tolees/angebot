@@ -5,7 +5,7 @@ date: 2020-09-11 08:35:04
 image: 'https://m.media-amazon.com/images/I/31H7IhSn8fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07576QBJV-de Ecco Herren BIOMLITEM Sneaker Schwarz Ombre/Ombre 54780 41 EU'
 sku: 'B07576QBJV-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 17:40:56
 image: 'https://m.media-amazon.com/images/I/51aZMisaGfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9RG3XS-de Nintendo Switch Displayschutzfolie Glas 2 Stück Orzly...'
 sku: 'B01N9RG3XS-de'
 tags: [  ]

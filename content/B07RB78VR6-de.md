@@ -5,7 +5,7 @@ date: 2020-06-11 23:20:04
 image: 'https://m.media-amazon.com/images/I/41YemzEu2AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RB78VR6-de Hasbro Disney Die Eiskönigin II Elsa Puppe mit langem...'
 sku: 'B07RB78VR6-de'
 tags: [  ]

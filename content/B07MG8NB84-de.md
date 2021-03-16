@@ -5,7 +5,7 @@ date: 2020-03-04 06:07:26
 image: 'https://m.media-amazon.com/images/I/41xvZVBHFBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MG8NB84-de ECCO Herren Byway TRED Hohe Sneaker Schwarz Black/Moonless...'
 sku: 'B07MG8NB84-de'
 tags: [  ]

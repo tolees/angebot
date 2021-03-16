@@ -5,7 +5,7 @@ date: 2020-08-31 09:18:24
 image: 'https://m.media-amazon.com/images/I/418ipOj91PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V29NTNX-de Anker Nebula Capsule Max Mini Projektor in Pint-Größe...'
 sku: 'B07V29NTNX-de'
 tags: [  ]

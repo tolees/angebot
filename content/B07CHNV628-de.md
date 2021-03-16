@@ -5,7 +5,7 @@ date: 2020-03-19 05:12:44
 image: 'https://m.media-amazon.com/images/I/41yJ-KVSvBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CHNV628-de Worx 40V 2 x 20V/4.0Ah Max Li-Ion 34 cm Akku-Rasenmäher...'
 sku: 'B07CHNV628-de'
 tags: [  ]

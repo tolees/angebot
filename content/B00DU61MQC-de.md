@@ -5,7 +5,7 @@ date: 2020-10-04 21:08:08
 image: 'https://m.media-amazon.com/images/I/51IzAvzkAdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DU61MQC-de Bei Anruf Mord inkl. 2D-Version [3D Blu-ray]'
 sku: 'B00DU61MQC-de'
 tags: [  ]

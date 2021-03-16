@@ -5,7 +5,7 @@ date: 2020-04-18 00:11:21
 image: 'https://m.media-amazon.com/images/I/41+M76Piw2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078JMQ3S6-de ICY BOX IB-MSA102-VM Halterung für Mini-PC Intel NUC Mac...'
 sku: 'B078JMQ3S6-de'
 tags: [  ]

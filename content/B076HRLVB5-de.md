@@ -5,7 +5,7 @@ date: 2020-05-10 07:39:15
 image: 'https://m.media-amazon.com/images/I/41eSXjcUfsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HRLVB5-de Adidas Herren Core 18 Trainingshose Black/White S'
 sku: 'B076HRLVB5-de'
 tags: [  ]

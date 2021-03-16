@@ -5,7 +5,7 @@ date: 2020-04-16 08:05:46
 image: 'https://m.media-amazon.com/images/I/61yhoh-HRcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GR5XGQC-de Duftkerze ARINO Aroma Kerzen Naturwach in Dose 4er Deco...'
 sku: 'B07GR5XGQC-de'
 tags: [  ]

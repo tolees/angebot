@@ -5,7 +5,7 @@ date: 2020-08-29 06:40:13
 image: 'https://m.media-amazon.com/images/I/51Ayn3y8WFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MDSJKDU-de VOVEES Athena Serum Gesicht Falten Hyaluronsäure Ultrapure...'
 sku: 'B01MDSJKDU-de'
 tags: [  ]

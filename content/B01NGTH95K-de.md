@@ -5,7 +5,7 @@ date: 2020-01-16 20:38:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41gIQ5eTE1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NGTH95K-de Grundig Multi-Zerkleinerer 0 5 L Plastic Delisia'
 sku: 'B01NGTH95K-de'
 tags: [  ]

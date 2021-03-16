@@ -5,7 +5,7 @@ date: 2020-04-11 16:31:31
 image: 'https://m.media-amazon.com/images/I/517LNy14SuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MHRT0YQ-de Sylvanian Families 5108 5108-Essen-Set in der Schule...'
 sku: 'B00MHRT0YQ-de'
 tags: [  ]

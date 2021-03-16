@@ -5,7 +5,7 @@ date: 2020-03-06 04:54:30
 image: 'https://m.media-amazon.com/images/I/41IR-t1H7VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BHSF8KQ-de erima Sporttasche Granit/Schwarz L 76 Liter 723334'
 sku: 'B00BHSF8KQ-de'
 tags: [  ]

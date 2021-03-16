@@ -5,7 +5,7 @@ date: 2020-03-18 04:51:47
 image: 'https://m.media-amazon.com/images/I/41WqCPp+Q7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H4NKO70-de Nitecore CU6 Taschenlampe Schwarz One Size'
 sku: 'B00H4NKO70-de'
 tags: [  ]

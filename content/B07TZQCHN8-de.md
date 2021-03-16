@@ -5,7 +5,7 @@ date: 2020-04-07 21:34:33
 image: 'https://m.media-amazon.com/images/I/41dimpRDQaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZQCHN8-de BRIKSMAX Led Beleuchtungsset für Lego Ideas Pop-Up-Buch...'
 sku: 'B07TZQCHN8-de'
 tags: [  ]

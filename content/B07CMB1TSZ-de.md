@@ -5,7 +5,7 @@ date: 2020-04-18 00:18:13
 image: 'https://m.media-amazon.com/images/I/51NZbptia7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CMB1TSZ-de Hasbro Black Panther E1971EU4 Black Panther Legends...'
 sku: 'B07CMB1TSZ-de'
 tags: [  ]

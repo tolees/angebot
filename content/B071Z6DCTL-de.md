@@ -5,7 +5,7 @@ date: 2020-02-05 11:03:05
 image: 'https://m.media-amazon.com/images/I/413-VGtxQbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071Z6DCTL-de Lenovo L27q-10 68 58 cm 27 Zoll QHD IPS matt Monitor HDMI...'
 sku: 'B071Z6DCTL-de'
 tags: [  ]

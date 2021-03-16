@@ -5,7 +5,7 @@ date: 2020-04-11 08:10:09
 image: 'https://m.media-amazon.com/images/I/31Fa2TnNBVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BXG1NJ8-de Villeroy & Boch Toy s Delight Eierbecher Premium Porzellan...'
 sku: 'B07BXG1NJ8-de'
 tags: [  ]

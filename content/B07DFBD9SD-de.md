@@ -5,7 +5,7 @@ date: 2020-04-16 17:21:24
 image: 'https://m.media-amazon.com/images/I/41G+veRxEIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFBD9SD-de Funko B07DFBD9SD Kingdom Hearts 3: Mickey POP Vinylfigur...'
 sku: 'B07DFBD9SD-de'
 tags: [  ]

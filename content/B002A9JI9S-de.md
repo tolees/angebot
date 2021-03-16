@@ -5,7 +5,7 @@ date: 2020-10-09 12:12:21
 image: 'https://m.media-amazon.com/images/I/41TmlNUwBlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002A9JI9S-de Philips Ersatzlampenbox H1 / H7'
 sku: 'B002A9JI9S-de'
 tags: [  ]

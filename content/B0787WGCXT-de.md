@@ -5,7 +5,7 @@ date: 2020-02-19 17:21:07
 image: 'https://m.media-amazon.com/images/I/41FC+MbAjyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0787WGCXT-de Viewsonic VX3276-MHD-2 80 cm 32 Zoll Design Monitor Full-...'
 sku: 'B0787WGCXT-de'
 tags: [  ]

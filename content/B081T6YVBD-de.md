@@ -5,7 +5,7 @@ date: 2020-03-12 20:17:06
 image: 'https://m.media-amazon.com/images/I/31AKggHXFmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081T6YVBD-de Lenovo IdeaPad C340 Laptop 35 6 cm 14 Zoll 1920x1080 FHD...'
 sku: 'B081T6YVBD-de'
 tags: [  ]

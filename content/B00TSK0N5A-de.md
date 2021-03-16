@@ -5,7 +5,7 @@ date: 2020-03-04 13:36:47
 image: 'https://m.media-amazon.com/images/I/51UKsaAaBSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TSK0N5A-de Better Call Saul - Die komplette erste Staffel [Blu-ray]'
 sku: 'B00TSK0N5A-de'
 tags: [  ]

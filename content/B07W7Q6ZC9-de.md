@@ -5,7 +5,7 @@ date: 2020-04-16 15:43:14
 image: 'https://m.media-amazon.com/images/I/51xpSeIdw5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W7Q6ZC9-de LABISTS Raspberry Pi 4 Model B 4 GB Ultimatives Kit mit...'
 sku: 'B07W7Q6ZC9-de'
 tags: [  ]

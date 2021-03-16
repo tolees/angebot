@@ -5,7 +5,7 @@ date: 2020-04-01 12:55:58
 image: 'https://m.media-amazon.com/images/I/51RgNC1i8XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZNQ78FS-de BRIKSMAX Led Beleuchtungsset für Lego Central Perk Friends...'
 sku: 'B07ZNQ78FS-de'
 tags: [  ]

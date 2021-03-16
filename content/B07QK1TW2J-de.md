@@ -5,7 +5,7 @@ date: 2020-04-27 07:17:40
 image: 'https://m.media-amazon.com/images/I/41K3F4bJ6lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QK1TW2J-de Emporio Armani Herren-Ringe Edelstahl mit Ringgröße 59...'
 sku: 'B07QK1TW2J-de'
 tags: [  ]

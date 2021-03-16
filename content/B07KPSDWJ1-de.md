@@ -5,7 +5,7 @@ date: 2020-03-12 10:32:24
 image: 'https://m.media-amazon.com/images/I/41NUSGjGxjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPSDWJ1-de Funko 36661 POP Bobble: Avengers Endgame: Captain America...'
 sku: 'B07KPSDWJ1-de'
 tags: [  ]

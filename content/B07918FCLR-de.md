@@ -5,7 +5,7 @@ date: 2020-02-19 11:27:43
 image: 'https://m.media-amazon.com/images/I/31+1EoTrs9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07918FCLR-de Samsung Flip LH55WM LED Display Flipchart 139 7 cm 55 Zoll...'
 sku: 'B07918FCLR-de'
 tags: [  ]

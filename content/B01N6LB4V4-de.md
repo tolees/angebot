@@ -5,7 +5,7 @@ date: 2020-04-15 23:54:06
 image: 'https://m.media-amazon.com/images/I/51eVFy6ORwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6LB4V4-de Meister Werkzeugtrolley 156-teilig - Werkzeug-Set - Mit...'
 sku: 'B01N6LB4V4-de'
 tags: [  ]

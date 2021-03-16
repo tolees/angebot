@@ -5,7 +5,7 @@ date: 2020-05-29 07:21:58
 image: 'https://m.media-amazon.com/images/I/31Cc4+Z4jtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BXNZL7B-de EZVIZ ezTube 720p Überwachungskamera aussen WiFi 2.4Ghz...'
 sku: 'B07BXNZL7B-de'
 tags: [  ]

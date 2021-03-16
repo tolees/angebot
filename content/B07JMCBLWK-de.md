@@ -5,7 +5,7 @@ date: 2020-09-17 15:01:46
 image: 'https://m.media-amazon.com/images/I/4178KD2afDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMCBLWK-de PLAYMOBIL Family Fun 70089 Familien-Camping Ab 4 Jahren'
 sku: 'B07JMCBLWK-de'
 tags: [  ]

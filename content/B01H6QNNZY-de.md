@@ -5,7 +5,7 @@ date: 2020-04-13 07:51:40
 image: 'https://m.media-amazon.com/images/I/41SeZm9HH1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H6QNNZY-de Kitchenaid 5KSMPRA Optionales Zubehör für alle KitchenAid...'
 sku: 'B01H6QNNZY-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-25 12:14:00
 image: 'https://m.media-amazon.com/images/I/51TLQ3wNCIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0000TZ4XO-de Ravensburger 21570 Der Maulwurf und sein Lieblingsspiel'
 sku: 'B0000TZ4XO-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-18 04:02:34
 image: 'https://m.media-amazon.com/images/I/41NC8NyEcFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L48JXFR-de Funko Fortnite Pop! Vinyl Figur 459 Raven aus Kunststoff...'
 sku: 'B07L48JXFR-de'
 tags: [  ]

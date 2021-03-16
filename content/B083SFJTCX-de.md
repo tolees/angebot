@@ -5,7 +5,7 @@ date: 2020-08-10 15:05:47
 image: 'https://m.media-amazon.com/images/I/51Q3fXHpihL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SFJTCX-de TZAMLI 10-Tier Schuhregal über der Tür Shoe Organizer...'
 sku: 'B083SFJTCX-de'
 tags: [  ]

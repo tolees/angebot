@@ -5,7 +5,7 @@ date: 2020-09-25 08:29:25
 image: 'https://m.media-amazon.com/images/I/41iF8ly6UnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9VHKHF-de HMIYA Unisex Badeschuhe-Strandschuhe-Aquaschuhe Barfuß...'
 sku: 'B07B9VHKHF-de'
 tags: [  ]

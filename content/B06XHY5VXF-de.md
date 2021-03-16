@@ -5,7 +5,7 @@ date: 2020-04-16 17:30:16
 image: 'https://m.media-amazon.com/images/I/310Y99pr1EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHY5VXF-de Sabrent Bluetooth-Adapter USB Bluetooth 4.0 Micro Adapter...'
 sku: 'B06XHY5VXF-de'
 tags: [  ]

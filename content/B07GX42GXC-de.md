@@ -5,7 +5,7 @@ date: 2020-03-03 14:36:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/315T9L2c%2BUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GX42GXC-de ECOVACS Robotics DEEBOT 710 Saugroboter - Leistungsstarker...'
 sku: 'B07GX42GXC-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-26 09:14:14
 image: 'https://m.media-amazon.com/images/I/51W6OKsYVlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CT3VM3H-de Echo Plus 2. Gen. mit Premiumklang und integriertem Smart...'
 sku: 'B07CT3VM3H-de'
 tags: [  ]

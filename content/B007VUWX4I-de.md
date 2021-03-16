@@ -5,7 +5,7 @@ date: 2020-03-16 13:45:39
 image: 'https://m.media-amazon.com/images/I/41JNsSzssaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007VUWX4I-de ECCO Damen Offroad Sport- & Outdoor Sandalen Blau...'
 sku: 'B007VUWX4I-de'
 tags: [  ]

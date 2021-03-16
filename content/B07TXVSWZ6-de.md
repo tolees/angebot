@@ -5,7 +5,7 @@ date: 2020-04-11 16:20:55
 image: 'https://m.media-amazon.com/images/I/41BaRYBmAgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXVSWZ6-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Kessel Run...'
 sku: 'B07TXVSWZ6-de'
 tags: [  ]

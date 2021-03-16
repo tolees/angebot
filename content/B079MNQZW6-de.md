@@ -5,7 +5,7 @@ date: 2020-04-05 21:08:55
 image: 'https://m.media-amazon.com/images/I/51nucH38GsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MNQZW6-de PLAYMOBIL Magic 9470 Suche nach dem Liebeskristall mit...'
 sku: 'B079MNQZW6-de'
 tags: [  ]

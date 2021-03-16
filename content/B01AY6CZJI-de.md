@@ -5,7 +5,7 @@ date: 2020-03-21 04:56:41
 image: 'https://m.media-amazon.com/images/I/41y6bHUOFyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AY6CZJI-de UGG Female Classic Mini II Classic Boot Grey 6 UK'
 sku: 'B01AY6CZJI-de'
 tags: [  ]

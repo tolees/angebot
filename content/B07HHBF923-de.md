@@ -5,7 +5,7 @@ date: 2020-03-25 20:02:06
 image: 'https://m.media-amazon.com/images/I/41JuSMWAM7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HHBF923-de Oral-B CrossAction Aufsteckbürsten mit Bakterienschutz...'
 sku: 'B07HHBF923-de'
 tags: [  ]

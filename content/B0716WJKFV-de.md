@@ -5,7 +5,7 @@ date: 2020-08-30 12:34:31
 image: 'https://m.media-amazon.com/images/I/31vEM+HYGtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0716WJKFV-de BIRKENSTOCK Damen Madrid Big Buckle Pantoletten Braun...'
 sku: 'B0716WJKFV-de'
 tags: [  ]

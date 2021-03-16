@@ -5,7 +5,7 @@ date: 2020-09-14 17:10:39
 image: 'https://m.media-amazon.com/images/I/31LKRX+soyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077RV4ZLY-de Western Digital 6 TB Elements Desktop externe Festplatte...'
 sku: 'B077RV4ZLY-de'
 tags: [  ]

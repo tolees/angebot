@@ -5,7 +5,7 @@ date: 2020-03-20 21:52:17
 image: 'https://m.media-amazon.com/images/I/41ONmed22SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MHX38B2-de Sony SRS-XB32 kabelloser Bluetooth Lautsprecher tragbar...'
 sku: 'B07MHX38B2-de'
 tags: [  ]

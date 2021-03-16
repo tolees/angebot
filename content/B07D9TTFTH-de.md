@@ -5,7 +5,7 @@ date: 2020-05-28 19:48:48
 image: 'https://m.media-amazon.com/images/I/212yuX23jeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9TTFTH-de Google WiFi - WLAN-Router Dual-Band 2 4 GHz/5 GHz Wi-Fi 5...'
 sku: 'B07D9TTFTH-de'
 tags: [  ]

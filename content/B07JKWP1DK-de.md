@@ -5,7 +5,7 @@ date: 2020-04-07 21:45:52
 image: 'https://m.media-amazon.com/images/I/51pTZDsweaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKWP1DK-de PLAYMOBIL City Life 70016 Mein Blumenladen Ab 4 Jahren'
 sku: 'B07JKWP1DK-de'
 tags: [  ]

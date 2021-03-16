@@ -5,7 +5,7 @@ date: 2020-09-16 06:52:29
 image: 'https://m.media-amazon.com/images/I/51IA7NWtCCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071RXY27R-de FJÄLLRÄVEN Byron Hat Doppelstrickmütze Graphite One Size'
 sku: 'B071RXY27R-de'
 tags: [  ]

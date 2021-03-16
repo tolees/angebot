@@ -5,7 +5,7 @@ date: 2020-08-19 06:00:41
 image: 'https://m.media-amazon.com/images/I/318bTXuKHlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQWBH3L-de SHEKO Diät Shake Vanille | 25 Portionen Protein Pulver...'
 sku: 'B01MQWBH3L-de'
 tags: [  ]

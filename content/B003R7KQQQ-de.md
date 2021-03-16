@@ -5,7 +5,7 @@ date: 2020-09-25 08:51:15
 image: 'https://m.media-amazon.com/images/I/41DFGdS4OjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003R7KQQQ-de Barilla Pasta Penne Rigate 500g'
 sku: 'B003R7KQQQ-de'
 tags: [  ]

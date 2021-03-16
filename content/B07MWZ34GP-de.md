@@ -5,7 +5,7 @@ date: 2020-09-23 17:03:55
 image: 'https://m.media-amazon.com/images/I/51+QTQNSYeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MWZ34GP-de Ostwind 1-3 [3 DVDs]'
 sku: 'B07MWZ34GP-de'
 tags: [  ]

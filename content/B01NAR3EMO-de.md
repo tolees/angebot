@@ -5,7 +5,7 @@ date: 2020-04-16 17:35:54
 image: 'https://m.media-amazon.com/images/I/41NiCf69jkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAR3EMO-de Lacerto® | 13x13mm Deutsche Aufkleber für PC/Laptop &...'
 sku: 'B01NAR3EMO-de'
 tags: [  ]

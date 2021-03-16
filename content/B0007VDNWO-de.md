@@ -5,7 +5,7 @@ date: 2020-01-03 22:51:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61K%2BsYOqvzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0007VDNWO-de Ravensburger 09074 - Nordlichter'
 sku: 'B0007VDNWO-de'
 tags: [  ]

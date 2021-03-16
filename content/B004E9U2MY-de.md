@@ -5,7 +5,7 @@ date: 2020-02-26 09:25:50
 image: 'https://m.media-amazon.com/images/I/31GUmZk2kWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004E9U2MY-de GANT Herren Pullover 83072 Gr. Medium Grau NAVY 405'
 sku: 'B004E9U2MY-de'
 tags: [  ]

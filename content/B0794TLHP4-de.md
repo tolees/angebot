@@ -5,7 +5,7 @@ date: 2020-04-16 17:36:55
 image: 'https://m.media-amazon.com/images/I/41C0VgV6SIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0794TLHP4-de Fire HD 8-Tablet 16 GB Schwarz mit Spezialangeboten'
 sku: 'B0794TLHP4-de'
 tags: [  ]

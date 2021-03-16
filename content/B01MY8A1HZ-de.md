@@ -5,7 +5,7 @@ date: 2020-03-04 07:22:52
 image: 'https://m.media-amazon.com/images/I/31cOaqRMLnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MY8A1HZ-de Philips Lumea Prestige IPL Haarentfernungsgerät BRI954 –...'
 sku: 'B01MY8A1HZ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-11 13:38:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41C0XCMT8mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DWS4V6K-de AmazonBasics - Lightning-auf-USB-A-Kabel Premium-...'
 sku: 'B07DWS4V6K-de'
 tags: [  ]

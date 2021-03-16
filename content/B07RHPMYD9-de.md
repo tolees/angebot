@@ -5,7 +5,7 @@ date: 2020-06-09 03:32:57
 image: 'https://m.media-amazon.com/images/I/412SjfvzBfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHPMYD9-de Salomon Herren Trail Running Schuhe ALPHACROSS Farbe:...'
 sku: 'B07RHPMYD9-de'
 tags: [  ]

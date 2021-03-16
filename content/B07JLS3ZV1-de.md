@@ -5,7 +5,7 @@ date: 2020-09-16 05:46:33
 image: 'https://m.media-amazon.com/images/I/51TKZdOTYSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLS3ZV1-de PLAYMOBIL 70150 Pirates Mitnehm-Pirateninsel bunt'
 sku: 'B07JLS3ZV1-de'
 tags: [  ]

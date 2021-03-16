@@ -5,7 +5,7 @@ date: 2020-08-27 11:52:34
 image: 'https://m.media-amazon.com/images/I/51jcLocaLZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KC1CT3Z-de Book Club - Das Beste kommt noch [Blu-ray]'
 sku: 'B07KC1CT3Z-de'
 tags: [  ]

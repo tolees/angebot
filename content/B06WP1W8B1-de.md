@@ -5,7 +5,7 @@ date: 2020-09-24 01:49:40
 image: 'https://m.media-amazon.com/images/I/617Z6TVtALL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WP1W8B1-de PLAYMOBIL 9247 - DreamWorks Dragons Astrid und Sturmpfeil...'
 sku: 'B06WP1W8B1-de'
 tags: [  ]

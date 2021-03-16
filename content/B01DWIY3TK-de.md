@@ -5,7 +5,7 @@ date: 2020-03-01 06:26:14
 image: 'https://m.media-amazon.com/images/I/51lNGfA927L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DWIY3TK-de Garmin Forerunner 735XT-GPS-Uhr frost blau M 010-01614-07'
 sku: 'B01DWIY3TK-de'
 tags: [  ]

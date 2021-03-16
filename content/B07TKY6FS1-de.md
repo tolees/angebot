@@ -5,7 +5,7 @@ date: 2020-03-30 12:18:41
 image: 'https://m.media-amazon.com/images/I/31+N99+mzvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKY6FS1-de THE NORTH FACE Herren M Zaneck Jacket Insulated Synthetic...'
 sku: 'B07TKY6FS1-de'
 tags: [  ]

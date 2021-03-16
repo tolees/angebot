@@ -5,7 +5,7 @@ date: 2020-02-25 14:13:46
 image: 'https://m.media-amazon.com/images/I/31rhqVAUQ0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7PL93P-de JOMARTO Smart Steckdose Wlan Steckdose Alexa Steckdose...'
 sku: 'B07S7PL93P-de'
 tags: [  ]

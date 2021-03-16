@@ -5,7 +5,7 @@ date: 2020-01-23 06:28:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31MbF-S69rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NFB33FN-de camel active Herren Crew Neck GMT Dyed Pullover Blau...'
 sku: 'B07NFB33FN-de'
 tags: [  ]

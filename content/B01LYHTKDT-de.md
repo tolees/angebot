@@ -5,7 +5,7 @@ date: 2020-02-14 08:07:21
 image: 'https://m.media-amazon.com/images/I/31-f8YZkxlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYHTKDT-de GANT Herren Shield Sweat Hoodie Kapuzenpullover Schwarz...'
 sku: 'B01LYHTKDT-de'
 tags: [  ]

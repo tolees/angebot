@@ -5,7 +5,7 @@ date: 2020-09-16 06:19:20
 image: 'https://m.media-amazon.com/images/I/41WeB3k8XEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZX030M-de New Balance Herren 373 Core h Sneaker Rot Burgundy 42.5 EU'
 sku: 'B01MZX030M-de'
 tags: [  ]

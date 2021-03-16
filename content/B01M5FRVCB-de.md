@@ -5,7 +5,7 @@ date: 2020-10-09 03:46:01
 image: 'https://m.media-amazon.com/images/I/41g9k5RPjdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M5FRVCB-de bugatti Herren 311251011100 Derby Braun 42 EU Large'
 sku: 'B01M5FRVCB-de'
 tags: [  ]

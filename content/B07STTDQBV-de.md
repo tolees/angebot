@@ -5,7 +5,7 @@ date: 2020-01-18 02:25:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Z0Su4oVWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STTDQBV-de s.Oliver Mädchen 66.908.32.5702 T-Shirt Beige Ecru 0210...'
 sku: 'B07STTDQBV-de'
 tags: [  ]

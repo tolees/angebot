@@ -5,7 +5,7 @@ date: 2020-05-08 06:29:03
 image: 'https://m.media-amazon.com/images/I/41px4sSpsDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMSWP78-de Philips 2200 Serie EP2231/40 Kaffeevollautomat 3...'
 sku: 'B07MMSWP78-de'
 tags: [  ]

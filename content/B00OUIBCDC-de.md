@@ -5,7 +5,7 @@ date: 2020-01-29 03:14:44
 image: 'https://m.media-amazon.com/images/I/31D5Z3R6+oL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OUIBCDC-de Pelikan 946806 Füller Twist in Faltschachtel universell...'
 sku: 'B00OUIBCDC-de'
 tags: [  ]

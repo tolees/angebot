@@ -5,7 +5,7 @@ date: 2020-09-27 17:13:53
 image: 'https://m.media-amazon.com/images/I/417bQbjrtNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088JYX5N2-de XIDU PhilMac Mini PC Al-Legierung Windows 10 8GB DDR4...'
 sku: 'B088JYX5N2-de'
 tags: [  ]

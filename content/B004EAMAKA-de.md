@@ -5,7 +5,7 @@ date: 2020-03-02 05:10:10
 image: 'https://m.media-amazon.com/images/I/41widB3n+aL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004EAMAKA-de Lillet Blanc Aperitif – Fruchtiger französischer...'
 sku: 'B004EAMAKA-de'
 tags: [  ]

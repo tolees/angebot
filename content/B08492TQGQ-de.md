@@ -5,7 +5,7 @@ date: 2020-08-10 15:55:25
 image: 'https://m.media-amazon.com/images/I/41Fm712y+8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08492TQGQ-de HyperX Impact DDR4 HX426S16IBK2/64 Arbeitsspeicher 2666MHz...'
 sku: 'B08492TQGQ-de'
 tags: [  ]

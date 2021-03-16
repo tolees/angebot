@@ -5,7 +5,7 @@ date: 2020-03-02 11:51:05
 image: 'https://m.media-amazon.com/images/I/51KgEh2gvVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078XFBXYB-de 3D Stift Filament PLA Filament 1.75mm 60M 3 Farben je 20M...'
 sku: 'B078XFBXYB-de'
 tags: [  ]

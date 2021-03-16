@@ -5,7 +5,7 @@ date: 2020-07-12 11:34:42
 image: 'https://m.media-amazon.com/images/I/41IcrWbq7rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WBYD5NT-de Philips AC0820/10 Luftreiniger Kompakt für Allergiker bis...'
 sku: 'B07WBYD5NT-de'
 tags: [  ]

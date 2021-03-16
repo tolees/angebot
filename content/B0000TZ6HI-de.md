@@ -5,7 +5,7 @@ date: 2020-01-20 16:15:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61Nb25Z-FHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0000TZ6HI-de Piatnik 6012 - Activity Junior'
 sku: 'B0000TZ6HI-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-18 00:39:18
 image: 'https://m.media-amazon.com/images/I/41IEPHf57VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCNLGMS-de Star Wars- ferngesteuerte D-O Figur Star Wars: Der...'
 sku: 'B07RCNLGMS-de'
 tags: [  ]

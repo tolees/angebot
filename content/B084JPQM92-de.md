@@ -5,7 +5,7 @@ date: 2020-09-28 06:32:34
 image: 'https://m.media-amazon.com/images/I/31DmaWU-frL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084JPQM92-de Yazubi Herren Chino Hose Merlin II - Slim Fit - NEU...'
 sku: 'B084JPQM92-de'
 tags: [  ]

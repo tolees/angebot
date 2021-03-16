@@ -5,7 +5,7 @@ date: 2020-05-07 09:42:03
 image: 'https://m.media-amazon.com/images/I/41ia7IBKenL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MU31H1P-de Sony Digitalkamera DSC-HX350 Bridge-Kamera mit 50-fach...'
 sku: 'B01MU31H1P-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-08 05:15:22
 image: 'https://m.media-amazon.com/images/I/517TFfE6MoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YWM4R8Q-de Zwini Laptop Kühlpads 12-17 Zoll Laptop Kühler r Cooling...'
 sku: 'B07YWM4R8Q-de'
 tags: [  ]

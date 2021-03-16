@@ -5,7 +5,7 @@ date: 2020-07-09 21:55:43
 image: 'https://m.media-amazon.com/images/I/41UcOz5iJUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MQD2TL-de Viewsonic PX747-4K UHD Heimkino DLP Beamer 4K 3.500 ANSI...'
 sku: 'B079MQD2TL-de'
 tags: [  ]

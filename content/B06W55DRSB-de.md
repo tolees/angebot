@@ -5,7 +5,7 @@ date: 2020-03-31 05:17:51
 image: 'https://m.media-amazon.com/images/I/61FHzaoBbYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W55DRSB-de Star Trek - The Next Generation The Complete Series [Blu-ray]'
 sku: 'B06W55DRSB-de'
 tags: [  ]

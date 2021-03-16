@@ -5,7 +5,7 @@ date: 2020-03-09 02:35:18
 image: 'https://m.media-amazon.com/images/I/51JU6zq+hiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083HTTWB2-de DXX Technik Bausteine Liebherr Kran LTM11200 7692Teile...'
 sku: 'B083HTTWB2-de'
 tags: [  ]

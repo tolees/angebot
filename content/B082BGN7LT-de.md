@@ -5,7 +5,7 @@ date: 2020-01-28 10:30:39
 image: 'https://m.media-amazon.com/images/I/41D2iijHL7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082BGN7LT-de IWEMEK Mädchen Eiskönigin ELSA Kleid Schneekönigin...'
 sku: 'B082BGN7LT-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-16 14:48:29
 image: 'https://m.media-amazon.com/images/I/31xAg1-WAoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XC2XMXD-de Samsung Galaxy Tab S3 T825 24 58 cm 9 68 Zoll Touchscreen...'
 sku: 'B06XC2XMXD-de'
 tags: [  ]

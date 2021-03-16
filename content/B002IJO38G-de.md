@@ -5,7 +5,7 @@ date: 2020-09-23 02:00:18
 image: 'https://m.media-amazon.com/images/I/51eICrspYeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002IJO38G-de Vileda Profi Fensterwischer 2in1 Fensterabzieher und...'
 sku: 'B002IJO38G-de'
 tags: [  ]

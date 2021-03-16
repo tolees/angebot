@@ -5,7 +5,7 @@ date: 2020-02-05 10:46:39
 image: 'https://m.media-amazon.com/images/I/51N6S-ttgdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCVD7G3-de Bluetooth Smart Watch PHIPUDS Health & Fitness Tracker...'
 sku: 'B07XCVD7G3-de'
 tags: [  ]

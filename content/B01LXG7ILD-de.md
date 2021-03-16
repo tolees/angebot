@@ -5,7 +5,7 @@ date: 2020-04-02 17:04:17
 image: 'https://m.media-amazon.com/images/I/41ZbwqisajL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXG7ILD-de Siemens LZ10AFA00 Aktivkohlefilter'
 sku: 'B01LXG7ILD-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-11 08:09:51
 image: 'https://m.media-amazon.com/images/I/51BVX7-+EIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001VFY7MU-de Maladjusted Expanded Edition'
 sku: 'B001VFY7MU-de'
 tags: [  ]

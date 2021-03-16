@@ -5,7 +5,7 @@ date: 2020-09-21 15:09:41
 image: 'https://m.media-amazon.com/images/I/31zV7+ZEDPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQ4OQ0T-de Julbo Vermont Herren-Sonnenbrille Herren Sonnenbrille...'
 sku: 'B01MQ4OQ0T-de'
 tags: [  ]

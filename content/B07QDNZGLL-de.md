@@ -5,7 +5,7 @@ date: 2020-04-07 21:33:58
 image: 'https://m.media-amazon.com/images/I/317ISbap3-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QDNZGLL-de Funko 43533 POP Vinyl TV: Walking Dead-Dog The Sammelbares...'
 sku: 'B07QDNZGLL-de'
 tags: [  ]

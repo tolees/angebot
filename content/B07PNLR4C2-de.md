@@ -5,7 +5,7 @@ date: 2020-03-03 04:53:36
 image: 'https://m.media-amazon.com/images/I/41+Y-zPp-HL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNLR4C2-de L.O.L. Surprise! 64119E7C Furniture with Closet & Queen...'
 sku: 'B07PNLR4C2-de'
 tags: [  ]

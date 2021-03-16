@@ -5,7 +5,7 @@ date: 2020-09-28 00:01:47
 image: 'https://m.media-amazon.com/images/I/31AjIhwJKnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010Q5EHCA-de Panasonic H-FS1442AEKA LUMIX G Vario Stardzoom 14-42 mm...'
 sku: 'B010Q5EHCA-de'
 tags: [  ]

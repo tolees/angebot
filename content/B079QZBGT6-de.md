@@ -5,7 +5,7 @@ date: 2020-09-16 15:52:38
 image: 'https://m.media-amazon.com/images/I/41ijqrArhCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079QZBGT6-de Tefal Smart Protect FV4980 Dampfbügeleisen 2600 Watt extra...'
 sku: 'B079QZBGT6-de'
 tags: [  ]

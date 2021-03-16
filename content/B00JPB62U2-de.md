@@ -5,7 +5,7 @@ date: 2020-10-11 06:22:40
 image: 'https://m.media-amazon.com/images/I/31Y6ONFuk3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JPB62U2-de Microsoft Wireless Mobile Mouse 1850 Maus rosa kabellos...'
 sku: 'B00JPB62U2-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-12 12:55:51
 image: 'https://m.media-amazon.com/images/I/410SS5MWwkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011RACHN4-de TP-Link TL-WA901ND V5.0 450MBit/s-WLAN Accesspoint...'
 sku: 'B011RACHN4-de'
 tags: [  ]

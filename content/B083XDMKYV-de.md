@@ -5,7 +5,7 @@ date: 2020-04-16 17:48:45
 image: 'https://m.media-amazon.com/images/I/51S6tQ4+uuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083XDMKYV-de DXX Technik Bausteine Auto Off-Road 1090Teile 2.4G 4CH...'
 sku: 'B083XDMKYV-de'
 tags: [  ]

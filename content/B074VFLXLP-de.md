@@ -5,7 +5,7 @@ date: 2020-02-06 13:04:24
 image: 'https://m.media-amazon.com/images/I/51uTTK1rfML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074VFLXLP-de Schleich 42415 Horse Club Wohnwagen für geheime Club-...'
 sku: 'B074VFLXLP-de'
 tags: [  ]

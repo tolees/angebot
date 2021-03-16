@@ -5,7 +5,7 @@ date: 2020-03-07 17:08:12
 image: 'https://m.media-amazon.com/images/I/51oLZwcbP4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079X5QNXC-de Gillette Fusion5 Rasierklingen für Männer 14 Stück'
 sku: 'B079X5QNXC-de'
 tags: [  ]

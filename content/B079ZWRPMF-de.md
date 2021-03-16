@@ -5,7 +5,7 @@ date: 2020-02-10 21:11:16
 image: 'https://m.media-amazon.com/images/I/41H8Uqud9NL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZWRPMF-de Philips Epiliergerät Satinelle Prestige BRE651/00 – Nass-...'
 sku: 'B079ZWRPMF-de'
 tags: [  ]

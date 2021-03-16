@@ -5,7 +5,7 @@ date: 2020-03-19 16:53:43
 image: 'https://m.media-amazon.com/images/I/41cN8n1p0AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T2BTGM2-de Sennheiser GSP 670 Wireless Gaming Headset 7.1 Surround...'
 sku: 'B07T2BTGM2-de'
 tags: [  ]

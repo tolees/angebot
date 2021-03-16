@@ -5,7 +5,7 @@ date: 2020-01-03 14:38:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31k1NH-50LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082SDNDVC-de LloydBP Displayport zum HDMI-Adapterkabel Mini-Dp zum...'
 sku: 'B082SDNDVC-de'
 tags: [  ]

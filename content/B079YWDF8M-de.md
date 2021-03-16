@@ -5,7 +5,7 @@ date: 2020-07-08 17:32:57
 image: 'https://m.media-amazon.com/images/I/41IZ9lZ+1yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079YWDF8M-de Steiff AFFE Brownie - 30 cm - Plüschaffe mit Langen Armen...'
 sku: 'B079YWDF8M-de'
 tags: [  ]

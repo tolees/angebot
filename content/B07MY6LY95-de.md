@@ -5,7 +5,7 @@ date: 2020-08-28 11:02:46
 image: 'https://m.media-amazon.com/images/I/31XBVSi9XKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MY6LY95-de Schöffel Damen Pants Ascona Zip Off leichte und...'
 sku: 'B07MY6LY95-de'
 tags: [  ]

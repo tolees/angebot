@@ -5,7 +5,7 @@ date: 2020-08-20 21:17:58
 image: 'https://m.media-amazon.com/images/I/51Qyo5gLE7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077ZCVZ72-de Cars 1 + Cars 2 + Cars 3 [Blu-ray]'
 sku: 'B077ZCVZ72-de'
 tags: [  ]

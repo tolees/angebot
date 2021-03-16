@@ -5,7 +5,7 @@ date: 2020-01-25 04:56:14
 image: 'https://m.media-amazon.com/images/I/314hfCSv-IL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EOU9RW8-de Vagabond Grace Damen Chelsea Boots Schwarz Black 39 EU 6 UK'
 sku: 'B01EOU9RW8-de'
 tags: [  ]

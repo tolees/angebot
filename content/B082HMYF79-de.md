@@ -5,7 +5,7 @@ date: 2020-04-14 16:04:08
 image: 'https://m.media-amazon.com/images/I/31QrxMJgD9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082HMYF79-de TuToy Einstellbare Stiefelspanner Breite Schuhformer...'
 sku: 'B082HMYF79-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-18 02:40:14
 image: 'https://m.media-amazon.com/images/I/31EUSjUhUkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPK63XL-de Funko 30596 POP Vinyl: Fairy Tail S3: Pantherlily...'
 sku: 'B07KPK63XL-de'
 tags: [  ]

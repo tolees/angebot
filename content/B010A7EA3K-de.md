@@ -5,7 +5,7 @@ date: 2020-10-12 13:54:53
 image: 'https://m.media-amazon.com/images/I/41vX9ajzPGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010A7EA3K-de Icy Box IB-AC636 Tablet Halterung 22 9 cm bis 27 9 cm mit...'
 sku: 'B010A7EA3K-de'
 tags: [  ]

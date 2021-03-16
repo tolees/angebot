@@ -5,7 +5,7 @@ date: 2020-10-09 09:24:05
 image: 'https://m.media-amazon.com/images/I/31eZC55BEOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005ZMNX4S-de WOLF-Garten - Elektro-Trimmer CAMPUS 350 RT; 41AC0UU-650'
 sku: 'B005ZMNX4S-de'
 tags: [  ]

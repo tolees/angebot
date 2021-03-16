@@ -5,7 +5,7 @@ date: 2020-07-10 07:55:39
 image: 'https://m.media-amazon.com/images/I/31RE0M7eNhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC1MNJ6-de Intenso USB-Stick Ultra Line 512 GB USB 3.0'
 sku: 'B07VC1MNJ6-de'
 tags: [  ]

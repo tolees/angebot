@@ -5,7 +5,7 @@ date: 2020-04-24 20:02:54
 image: 'https://m.media-amazon.com/images/I/31xk7zq6wHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E1QUFBM-de Samsung Galaxy S7 Smartphone 12 92 cm 5 1 Zoll Touch-...'
 sku: 'B01E1QUFBM-de'
 tags: [  ]

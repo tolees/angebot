@@ -5,7 +5,7 @@ date: 2020-10-04 11:35:37
 image: 'https://m.media-amazon.com/images/I/51LKGCMYIVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B3QSV16-de Bluetooth Kopfhörer in Ear Bluetooth 5.0 Kopfhörer...'
 sku: 'B08B3QSV16-de'
 tags: [  ]

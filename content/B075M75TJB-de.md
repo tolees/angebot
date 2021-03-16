@@ -5,7 +5,7 @@ date: 2020-08-14 13:35:48
 image: 'https://m.media-amazon.com/images/I/61bphIOQX0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075M75TJB-de Kirby Battle Royale - [Nintendo 3DS]'
 sku: 'B075M75TJB-de'
 tags: [  ]

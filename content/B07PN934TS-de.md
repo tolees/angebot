@@ -5,7 +5,7 @@ date: 2020-01-16 21:14:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Rss5NfOGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PN934TS-de LATITOP Luftentfeuchter mit 500ml Wassertank kompakter und...'
 sku: 'B07PN934TS-de'
 tags: [  ]

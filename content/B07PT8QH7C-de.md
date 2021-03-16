@@ -5,7 +5,7 @@ date: 2020-03-31 13:03:06
 image: 'https://m.media-amazon.com/images/I/515eLeXPrbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PT8QH7C-de BRIKSMAX Led Beleuchtungsset für Ghostbusters Ecto-1...'
 sku: 'B07PT8QH7C-de'
 tags: [  ]

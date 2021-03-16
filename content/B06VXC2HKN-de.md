@@ -5,7 +5,7 @@ date: 2020-02-29 13:53:45
 image: 'https://m.media-amazon.com/images/I/314m-FtK9lL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VXC2HKN-de Fitbit Alta HR & Alta Classic Band'
 sku: 'B06VXC2HKN-de'
 tags: [  ]

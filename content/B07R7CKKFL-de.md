@@ -5,7 +5,7 @@ date: 2020-03-30 11:45:10
 image: 'https://m.media-amazon.com/images/I/41R4HjY9mZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R7CKKFL-de Jack Wolfskin Herren Argon Storm Jacket M...'
 sku: 'B07R7CKKFL-de'
 tags: [  ]

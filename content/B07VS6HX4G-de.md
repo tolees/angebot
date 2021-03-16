@@ -5,7 +5,7 @@ date: 2020-06-11 13:15:38
 image: 'https://m.media-amazon.com/images/I/51+3dLZa-JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VS6HX4G-de UTTORA Draussen Forscherset Spielzeug Kinder fernglas 22...'
 sku: 'B07VS6HX4G-de'
 tags: [  ]

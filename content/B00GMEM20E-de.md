@@ -5,7 +5,7 @@ date: 2020-05-12 12:34:25
 image: 'https://m.media-amazon.com/images/I/31VlO8D4G1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GMEM20E-de Belkin Boost up USB-Ladegerät Netzladegerät 2 4A 12 Watt...'
 sku: 'B00GMEM20E-de'
 tags: [  ]

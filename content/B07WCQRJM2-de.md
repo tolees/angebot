@@ -5,7 +5,7 @@ date: 2020-07-18 12:21:03
 image: 'https://m.media-amazon.com/images/I/31s8aUIgftL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WCQRJM2-de HyperX Fury HX432C16FB3A/16 Arbeitsspeicher DIMM DDR4 16GB...'
 sku: 'B07WCQRJM2-de'
 tags: [  ]

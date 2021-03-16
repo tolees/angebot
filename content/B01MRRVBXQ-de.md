@@ -5,7 +5,7 @@ date: 2020-03-05 04:45:14
 image: 'https://m.media-amazon.com/images/I/41U34C3nhNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRRVBXQ-de Ergonomischer Dreikant-Bleistift für Rechtshänder -...'
 sku: 'B01MRRVBXQ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-30 06:34:54
 image: 'https://m.media-amazon.com/images/I/41uivMpqrTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YUZ182U-de Le Creuset Signature Gusseisen Gourmet-Profitopf Rund Ø 30...'
 sku: 'B00YUZ182U-de'
 tags: [  ]

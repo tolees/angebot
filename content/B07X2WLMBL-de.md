@@ -5,7 +5,7 @@ date: 2020-05-23 19:53:25
 image: 'https://m.media-amazon.com/images/I/51SX4WoJ5XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2WLMBL-de CHARLLEAN Panzerglas für iPhone X/XS 3 Stück 3D...'
 sku: 'B07X2WLMBL-de'
 tags: [  ]

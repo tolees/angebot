@@ -5,7 +5,7 @@ date: 2020-04-15 00:09:56
 image: 'https://m.media-amazon.com/images/I/41+GttHISYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSYV5QF-de BRÜSTE MEMO - In diesem Trinkspiel warten die Paare darauf...'
 sku: 'B07GSYV5QF-de'
 tags: [  ]

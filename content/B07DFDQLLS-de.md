@@ -5,7 +5,7 @@ date: 2020-04-04 21:00:31
 image: 'https://m.media-amazon.com/images/I/31w4K5BtHzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFDQLLS-de Funko POP Alita Battle Angel Berserk'
 sku: 'B07DFDQLLS-de'
 tags: [  ]

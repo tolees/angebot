@@ -5,7 +5,7 @@ date: 2020-04-11 07:47:44
 image: 'https://m.media-amazon.com/images/I/41eTOwHU1cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GNP4Y70-de Dark Grey/White'
 sku: 'B01GNP4Y70-de'
 tags: [  ]

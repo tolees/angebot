@@ -5,7 +5,7 @@ date: 2020-03-23 16:56:47
 image: 'https://m.media-amazon.com/images/I/31TS8OBUk2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GT7Q2Q2-de GoPro HERO7 White – wasserdichte digitale Actionkamera mit...'
 sku: 'B07GT7Q2Q2-de'
 tags: [  ]

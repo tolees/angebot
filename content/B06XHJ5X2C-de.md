@@ -5,7 +5,7 @@ date: 2020-04-11 07:47:30
 image: 'https://m.media-amazon.com/images/I/412H8z2UULL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHJ5X2C-de KINLO Aufkleber Küchenschränke Weiß 2 Stk. 61x500cm aus...'
 sku: 'B06XHJ5X2C-de'
 tags: [  ]

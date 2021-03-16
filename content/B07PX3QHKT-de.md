@@ -5,7 +5,7 @@ date: 2020-10-10 06:20:40
 image: 'https://m.media-amazon.com/images/I/31u98L0zJeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PX3QHKT-de POP! Vinyl: Harry Potter: Harry Potter - Minerva...'
 sku: 'B07PX3QHKT-de'
 tags: [  ]

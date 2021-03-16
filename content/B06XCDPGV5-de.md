@@ -5,7 +5,7 @@ date: 2020-06-06 15:21:18
 image: 'https://m.media-amazon.com/images/I/31Ae7OD21NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCDPGV5-de Westfalia bikelander Premium Fahrradträger für...'
 sku: 'B06XCDPGV5-de'
 tags: [  ]

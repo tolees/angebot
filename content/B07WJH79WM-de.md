@@ -5,7 +5,7 @@ date: 2020-03-04 11:58:15
 image: 'https://m.media-amazon.com/images/I/31QkEtvrbZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WJH79WM-de TP-Link KL50 Kasa Smart WLAN Filament Glühbirne Lampe mit...'
 sku: 'B07WJH79WM-de'
 tags: [  ]

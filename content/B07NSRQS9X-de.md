@@ -5,7 +5,7 @@ date: 2020-03-08 18:31:41
 image: 'https://m.media-amazon.com/images/I/31JSL8MetgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NSRQS9X-de Funko Schlüsselanhänger Pop – SOS Geister – Bouftou'
 sku: 'B07NSRQS9X-de'
 tags: [  ]

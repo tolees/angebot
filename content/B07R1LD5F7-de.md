@@ -5,7 +5,7 @@ date: 2020-03-08 10:30:00
 image: 'https://m.media-amazon.com/images/I/519CZMD0joL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R1LD5F7-de Briksmax Led Beleuchtungsset für Creator Palace Cinema...'
 sku: 'B07R1LD5F7-de'
 tags: [  ]

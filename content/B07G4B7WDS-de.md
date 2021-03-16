@@ -5,7 +5,7 @@ date: 2020-03-17 18:29:37
 image: 'https://m.media-amazon.com/images/I/41+n6nLGuBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4B7WDS-de AUTLEAD Auto Kompressor C5 12V Luftkompressor Tragbare...'
 sku: 'B07G4B7WDS-de'
 tags: [  ]

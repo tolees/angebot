@@ -5,7 +5,7 @@ date: 2020-02-07 19:53:40
 image: 'https://m.media-amazon.com/images/I/415KsBwGrOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0114LNOS8-de Dell KB216 580-ADHE Mutlimedia Tastatur schwarz QWERTZ'
 sku: 'B0114LNOS8-de'
 tags: [  ]

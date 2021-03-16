@@ -5,7 +5,7 @@ date: 2020-07-13 02:47:27
 image: 'https://m.media-amazon.com/images/I/4139aEW1ePL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PT13ZBM-de Smoby 312300 Tefal Evo Küche Spielküche Kinderküche...'
 sku: 'B07PT13ZBM-de'
 tags: [  ]

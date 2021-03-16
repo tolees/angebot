@@ -5,7 +5,7 @@ date: 2020-04-15 23:56:55
 image: 'https://m.media-amazon.com/images/I/41VHh+PCszL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GJRYBLC-de Schwerlastregal | 178 5x130x60cm | CALLIDUS BAUMARKT |...'
 sku: 'B07GJRYBLC-de'
 tags: [  ]

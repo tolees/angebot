@@ -5,7 +5,7 @@ date: 2020-02-09 13:01:46
 image: 'https://m.media-amazon.com/images/I/41jUq4FDXRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D1B2ZJ5-de THE NORTH FACE Borealis Rucksack Flag Blue Light...'
 sku: 'B07D1B2ZJ5-de'
 tags: [  ]

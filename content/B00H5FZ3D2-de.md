@@ -5,7 +5,7 @@ date: 2020-07-10 09:13:55
 image: 'https://m.media-amazon.com/images/I/412bTokGZ-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H5FZ3D2-de SEVERIN SV 2447 Sous-Vide Garer 6 L Fassungsvermögen Timer...'
 sku: 'B00H5FZ3D2-de'
 tags: [  ]

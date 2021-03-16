@@ -5,7 +5,7 @@ date: 2020-03-11 04:56:50
 image: 'https://m.media-amazon.com/images/I/61QRUTKO21L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007UFKZ1W-de Cellfast Gartenschlauch ECONOMIC Elastisch und flexibel...'
 sku: 'B007UFKZ1W-de'
 tags: [  ]

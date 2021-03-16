@@ -5,7 +5,7 @@ date: 2020-04-11 08:07:13
 image: 'https://m.media-amazon.com/images/I/51I-4sMwH-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07542DNXR-de WISO steuer:Office 2018 für Steuerjahr 2017'
 sku: 'B07542DNXR-de'
 tags: [  ]

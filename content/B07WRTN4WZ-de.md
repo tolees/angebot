@@ -5,7 +5,7 @@ date: 2020-04-13 00:17:00
 image: 'https://m.media-amazon.com/images/I/51iV0Lm7QSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRTN4WZ-de Good Gain Garden Tools Set 9-teiliges Gardening Organizer...'
 sku: 'B07WRTN4WZ-de'
 tags: [  ]

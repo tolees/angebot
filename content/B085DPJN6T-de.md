@@ -5,7 +5,7 @@ date: 2020-04-17 00:15:17
 image: 'https://m.media-amazon.com/images/I/51c1vwU9UvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085DPJN6T-de Buntpapier Farbigen A4 Kopierpapier Papier 100 bunte...'
 sku: 'B085DPJN6T-de'
 tags: [  ]

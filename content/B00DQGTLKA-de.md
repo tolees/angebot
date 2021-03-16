@@ -5,7 +5,7 @@ date: 2020-01-26 17:41:11
 image: 'https://m.media-amazon.com/images/I/31YqgG7FeXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DQGTLKA-de Silit Ersatzteil Sicomatic Dichtungsring 22 cm für...'
 sku: 'B00DQGTLKA-de'
 tags: [  ]

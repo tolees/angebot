@@ -5,7 +5,7 @@ date: 2020-03-19 05:12:47
 image: 'https://m.media-amazon.com/images/I/31K1hrqkeOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JZQCTJA-de Schiesser Damen Midi 2er Pack Slip Weiß Weiss 100 40...'
 sku: 'B00JZQCTJA-de'
 tags: [  ]

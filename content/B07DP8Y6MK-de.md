@@ -5,7 +5,7 @@ date: 2020-05-10 09:30:05
 image: 'https://m.media-amazon.com/images/I/41Pk1zqCH1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DP8Y6MK-de Philips 5000 Serie EP5335/10 Kaffeevollautomat 6...'
 sku: 'B07DP8Y6MK-de'
 tags: [  ]

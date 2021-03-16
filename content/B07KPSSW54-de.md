@@ -5,7 +5,7 @@ date: 2020-04-01 05:03:08
 image: 'https://m.media-amazon.com/images/I/41p4783n+lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPSSW54-de Marvel 39403 POP Vinyl Far from Home: Spider-Man Hero Suit...'
 sku: 'B07KPSSW54-de'
 tags: [  ]

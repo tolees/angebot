@@ -5,7 +5,7 @@ date: 2020-04-07 13:03:41
 image: 'https://m.media-amazon.com/images/I/41CvckhPkrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMN8FC6-de Nerd Clear Ninja Schwert für Kinder | Schwert & Scheide |...'
 sku: 'B07MMN8FC6-de'
 tags: [  ]

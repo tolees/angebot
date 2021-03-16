@@ -5,7 +5,7 @@ date: 2020-09-13 06:23:43
 image: 'https://m.media-amazon.com/images/I/51cPH6TI7WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XQXW4Z1-de Glück'
 sku: 'B07XQXW4Z1-de'
 tags: [  ]

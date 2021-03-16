@@ -5,7 +5,7 @@ date: 2020-10-02 13:03:54
 image: 'https://m.media-amazon.com/images/I/31YwFeXxuOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002OI55EC-de Brennenstuhl Eco-Line Steckdosenleiste 3-fach...'
 sku: 'B002OI55EC-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-06 04:57:38
 image: 'https://m.media-amazon.com/images/I/51E45YB9lYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BUVUO4O-de London Has Fallen'
 sku: 'B01BUVUO4O-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-20 08:18:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21Ng93DTqdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078XN6KQC-de Swarovski Attract runden Ring Weiß rhodiniert Gr. 52'
 sku: 'B078XN6KQC-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-15 18:58:30
 image: 'https://m.media-amazon.com/images/I/51gb3Fj0bAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F1R5K4W-de Mountain Dew Regular Koffeinhaltige Limonade mit Lemon-...'
 sku: 'B01F1R5K4W-de'
 tags: [  ]

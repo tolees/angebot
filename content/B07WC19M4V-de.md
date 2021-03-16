@@ -5,7 +5,7 @@ date: 2020-09-14 12:22:36
 image: 'https://m.media-amazon.com/images/I/51FBsyOQyKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WC19M4V-de LEGO 71715 NINJAGO Avatar Jay – Tragbare Arcade Kapsel...'
 sku: 'B07WC19M4V-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-23 16:11:02
 image: 'https://m.media-amazon.com/images/I/41NvORPGAcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EHMVK0U-de Remonte R2277 Damen Langschaft Stiefel braun chestnut/24 39'
 sku: 'B01EHMVK0U-de'
 tags: [  ]

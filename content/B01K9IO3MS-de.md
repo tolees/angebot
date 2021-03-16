@@ -5,7 +5,7 @@ date: 2020-08-18 16:33:49
 image: 'https://m.media-amazon.com/images/I/41B9m106nBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K9IO3MS-de Funko 10408 Harry Potter Phantastische Tierwesen-Niffler...'
 sku: 'B01K9IO3MS-de'
 tags: [  ]

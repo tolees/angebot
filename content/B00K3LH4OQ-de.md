@@ -5,7 +5,7 @@ date: 2020-03-13 05:07:38
 image: 'https://m.media-amazon.com/images/I/412vkDslhdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K3LH4OQ-de Victorinox Holz Taschenmesser Ranger Wood 55 10 Funktionen...'
 sku: 'B00K3LH4OQ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-16 09:03:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Pu-dfP3UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007TGA2HY-de Timberland Damen 14 Inch Premium Waterproof Stiefel Gelb...'
 sku: 'B007TGA2HY-de'
 tags: [  ]

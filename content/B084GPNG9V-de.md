@@ -5,7 +5,7 @@ date: 2020-09-08 09:50:50
 image: 'https://m.media-amazon.com/images/I/31fGA+ldjTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084GPNG9V-de SodaStream Sirup Pepsi Cola - 1x Flasche ergibt 9 Liter...'
 sku: 'B084GPNG9V-de'
 tags: [  ]

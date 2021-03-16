@@ -5,7 +5,7 @@ date: 2020-03-19 05:11:38
 image: 'https://m.media-amazon.com/images/I/31UcBRn2eoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VF0KYU0-de Levi s Herren Jeans 514 Regular Fit Blau Onewash Gr. W32/L34'
 sku: 'B00VF0KYU0-de'
 tags: [  ]

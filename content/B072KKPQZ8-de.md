@@ -5,7 +5,7 @@ date: 2020-05-30 12:11:45
 image: 'https://m.media-amazon.com/images/I/31zi7c8jB4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072KKPQZ8-de Western Digital 20 TB My Cloud EX2 Ultra-Netzwerkspeicher'
 sku: 'B072KKPQZ8-de'
 tags: [  ]

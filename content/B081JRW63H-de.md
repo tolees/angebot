@@ -5,7 +5,7 @@ date: 2020-09-25 13:58:12
 image: 'https://m.media-amazon.com/images/I/31eVO1dOhBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081JRW63H-de LLOYD Herren ORWIN Uniform-Schuh Braun Brandy 44.5'
 sku: 'B081JRW63H-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 17:44:34
 image: 'https://m.media-amazon.com/images/I/41fyOjcNdFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTQDFQ1-de Tommy Hilfiger Armbanduhr 1710382'
 sku: 'B07KTQDFQ1-de'
 tags: [  ]

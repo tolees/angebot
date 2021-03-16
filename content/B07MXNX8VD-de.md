@@ -5,7 +5,7 @@ date: 2020-05-25 18:28:23
 image: 'https://m.media-amazon.com/images/I/31jMiomKfRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXNX8VD-de DELSEY PARIS COMETE Koffer 67 cm 64.1 liters Grau Gris Argent'
 sku: 'B07MXNX8VD-de'
 tags: [  ]

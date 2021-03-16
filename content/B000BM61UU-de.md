@@ -5,7 +5,7 @@ date: 2020-03-24 10:54:45
 image: 'https://m.media-amazon.com/images/I/51ZYBNnXnoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000BM61UU-de Revell Modellbausatz Flugzeug 1:144 - Airbus A380 Design...'
 sku: 'B000BM61UU-de'
 tags: [  ]

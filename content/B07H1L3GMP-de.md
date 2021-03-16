@@ -5,7 +5,7 @@ date: 2020-02-17 14:46:42
 image: 'https://m.media-amazon.com/images/I/41CY-kiqTjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H1L3GMP-de Acer Chromebook Spin 13 13 3 Zoll QHD IPS Multi-Touch 360°...'
 sku: 'B07H1L3GMP-de'
 tags: [  ]

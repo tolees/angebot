@@ -5,7 +5,7 @@ date: 2020-04-18 00:34:59
 image: 'https://m.media-amazon.com/images/I/41cU1Ovmt1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5SKCRQ-de Vtech 80-520904 Switch & Go Dinos - Stegosaurus...'
 sku: 'B07P5SKCRQ-de'
 tags: [  ]

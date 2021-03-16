@@ -5,7 +5,7 @@ date: 2020-04-14 16:18:03
 image: 'https://m.media-amazon.com/images/I/41HEAJFlheL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JKG7IGY-de Kitchencraft Living Nostalgia Large Metal Bread Box Bin...'
 sku: 'B00JKG7IGY-de'
 tags: [  ]

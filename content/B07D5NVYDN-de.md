@@ -5,7 +5,7 @@ date: 2020-04-15 11:47:03
 image: 'https://m.media-amazon.com/images/I/511X0dktdZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5NVYDN-de KitchenAid Küchenmaschine Artisan 4 8L Onyx Schwarz'
 sku: 'B07D5NVYDN-de'
 tags: [  ]

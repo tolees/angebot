@@ -5,7 +5,7 @@ date: 2020-01-28 20:18:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31RScDljlzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZ6QPOU-de Samsung GX-MB540TL DVB-T2 HD Receiver freenet TV connect...'
 sku: 'B01MZ6QPOU-de'
 tags: [  ]

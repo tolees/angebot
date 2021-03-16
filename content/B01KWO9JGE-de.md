@@ -5,7 +5,7 @@ date: 2020-04-16 09:21:31
 image: 'https://m.media-amazon.com/images/I/5133+Yl-5jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KWO9JGE-de Huntvp Gürteltasche wasserdichte Bauchtasche für Handy bis...'
 sku: 'B01KWO9JGE-de'
 tags: [  ]

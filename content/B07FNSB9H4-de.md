@@ -5,7 +5,7 @@ date: 2020-07-20 08:38:05
 image: 'https://m.media-amazon.com/images/I/51bsQHys8QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNSB9H4-de LEGO Star Wars 75236 - Duell um die Starkiller-Basis Bauset'
 sku: 'B07FNSB9H4-de'
 tags: [  ]

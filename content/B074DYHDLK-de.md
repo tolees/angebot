@@ -5,7 +5,7 @@ date: 2020-05-07 18:34:18
 image: 'https://m.media-amazon.com/images/I/41juu8fVdnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074DYHDLK-de Asus ROG Zenith Extreme Gaming Mainboard Sockel TR4 eATX...'
 sku: 'B074DYHDLK-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-17 10:08:56
 image: 'https://m.media-amazon.com/images/I/31-THmvpzvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003WUOVDC-de Deuter Rain Cover I Regenhülle 20-35 L'
 sku: 'B003WUOVDC-de'
 tags: [  ]

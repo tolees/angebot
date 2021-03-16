@@ -5,7 +5,7 @@ date: 2020-09-12 20:54:39
 image: 'https://m.media-amazon.com/images/I/41MJGBfJN8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WHHADRE-de ADAPTIL Express Tabletten 10 Stück Ergänzungsfuttermittel...'
 sku: 'B00WHHADRE-de'
 tags: [  ]

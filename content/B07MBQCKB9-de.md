@@ -5,7 +5,7 @@ date: 2020-03-29 13:07:57
 image: 'https://m.media-amazon.com/images/I/41sUSgCGmNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MBQCKB9-de Funko 39049 POP Vinyl: Games: Fortnite: Loot Llama 10"...'
 sku: 'B07MBQCKB9-de'
 tags: [  ]

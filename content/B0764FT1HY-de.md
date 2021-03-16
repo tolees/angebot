@@ -5,7 +5,7 @@ date: 2020-05-13 06:17:22
 image: 'https://m.media-amazon.com/images/I/41oIRLU1TaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0764FT1HY-de Neato Robotics D7 Intelligenter Saugroboter - Premium...'
 sku: 'B0764FT1HY-de'
 tags: [  ]

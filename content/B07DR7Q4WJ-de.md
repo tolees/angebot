@@ -5,7 +5,7 @@ date: 2020-04-03 15:24:43
 image: 'https://m.media-amazon.com/images/I/31AyK+NW6PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DR7Q4WJ-de TaoTronics Stehlampe LED Dimmbar 12W Stehleuchte für...'
 sku: 'B07DR7Q4WJ-de'
 tags: [  ]

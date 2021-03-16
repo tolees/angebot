@@ -5,7 +5,7 @@ date: 2020-02-05 07:25:18
 image: 'https://m.media-amazon.com/images/I/31UcBRn2eoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014HLWKZK-de Levi Strauss & Co Herren 514 Jeans Blau Onewash 95977...'
 sku: 'B014HLWKZK-de'
 tags: [  ]

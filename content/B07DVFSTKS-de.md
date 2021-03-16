@@ -5,7 +5,7 @@ date: 2020-02-07 14:53:07
 image: 'https://m.media-amazon.com/images/I/412y9M+jlAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVFSTKS-de Acer Swift 1 SF114-32-P31S 35 6 cm 14 Zoll Full-HD IPS...'
 sku: 'B07DVFSTKS-de'
 tags: [  ]

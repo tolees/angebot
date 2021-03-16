@@ -5,7 +5,7 @@ date: 2020-05-27 17:34:59
 image: 'https://m.media-amazon.com/images/I/51MCXBeWwSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075NLDZWN-de Acer H277HK 69 cm 27 Zoll Ultra HD IPS Monitor USB 3.1...'
 sku: 'B075NLDZWN-de'
 tags: [  ]

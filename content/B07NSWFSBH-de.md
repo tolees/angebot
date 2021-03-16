@@ -5,7 +5,7 @@ date: 2020-04-15 07:36:58
 image: 'https://m.media-amazon.com/images/I/41ztMefpcDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NSWFSBH-de Funko 40252 POP Vinyl: Animation: Rick & Morty S6-Dr....'
 sku: 'B07NSWFSBH-de'
 tags: [  ]

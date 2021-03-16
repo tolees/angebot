@@ -5,7 +5,7 @@ date: 2020-08-22 21:15:42
 image: 'https://m.media-amazon.com/images/I/51F8bsBGtdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSZV14Z-de Men in Black: International Ltd. Steelbook [Blu-ray]'
 sku: 'B07SSZV14Z-de'
 tags: [  ]

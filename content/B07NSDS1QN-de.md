@@ -5,7 +5,7 @@ date: 2020-04-09 15:54:22
 image: 'https://m.media-amazon.com/images/I/41Bfu5IqGHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NSDS1QN-de Dickie Toys RC Amphy Rider ferngesteuertes Amphibien-...'
 sku: 'B07NSDS1QN-de'
 tags: [  ]

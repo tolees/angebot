@@ -5,7 +5,7 @@ date: 2020-04-25 17:00:50
 image: 'https://m.media-amazon.com/images/I/41ZqbPQg-VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XPHQ8W7-de HP Pavilion Gaming TG01-0017ng Desktop Intel Core i7-9700F...'
 sku: 'B07XPHQ8W7-de'
 tags: [  ]

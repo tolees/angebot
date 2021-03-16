@@ -5,7 +5,7 @@ date: 2020-02-22 12:22:41
 image: 'https://m.media-amazon.com/images/I/41KZVxc8WLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M1VAY45-de TP-Link Archer VR400 Modem Router Gigabit ADSL/VDSL Faser...'
 sku: 'B01M1VAY45-de'
 tags: [  ]

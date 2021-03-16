@@ -5,7 +5,7 @@ date: 2020-09-28 06:27:55
 image: 'https://m.media-amazon.com/images/I/51E80sUc08L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0154G9GFE-de Philips AZ215S CD-Soundmachine Digital UKW Audioeingang 3...'
 sku: 'B0154G9GFE-de'
 tags: [  ]

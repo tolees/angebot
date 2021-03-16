@@ -5,7 +5,7 @@ date: 2020-04-19 06:39:55
 image: 'https://m.media-amazon.com/images/I/41HnOcjFs2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BGXVDZP-de Sony Xperia XZ2 Smartphone 14 5 cm 5 7 Zoll IPS Full HD+...'
 sku: 'B07BGXVDZP-de'
 tags: [  ]

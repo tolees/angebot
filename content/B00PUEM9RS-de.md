@@ -5,7 +5,7 @@ date: 2020-02-16 16:15:01
 image: 'https://m.media-amazon.com/images/I/41Yb80zQ-zL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PUEM9RS-de Acer S277HKwmidpp 69 cm 27 Zoll Monitor DVI HDMI...'
 sku: 'B00PUEM9RS-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-30 09:31:15
 image: 'https://m.media-amazon.com/images/I/31Eq8z0N7bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQCVHQ6-de Der neue Echo Dot 3. Gen. – smarter Lautsprecher mit Uhr...'
 sku: 'B07NQCVHQ6-de'
 tags: [  ]

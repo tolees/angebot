@@ -5,7 +5,7 @@ date: 2020-01-22 10:14:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Js0%2BgJOtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q4D14QV-de Simba 6315877626 Disney Frozen 2 Chunky ELSA 43cm'
 sku: 'B07Q4D14QV-de'
 tags: [  ]

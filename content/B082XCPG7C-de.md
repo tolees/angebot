@@ -5,7 +5,7 @@ date: 2020-04-07 21:42:43
 image: 'https://m.media-amazon.com/images/I/51-jo+4Ra9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082XCPG7C-de Tesoky Karaoke Mikrofon Bluetooth mit Lichteffekte...'
 sku: 'B082XCPG7C-de'
 tags: [  ]

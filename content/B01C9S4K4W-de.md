@@ -5,7 +5,7 @@ date: 2020-10-11 20:04:41
 image: 'https://m.media-amazon.com/images/I/51JQ5S2YxTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C9S4K4W-de Boxset'
 sku: 'B01C9S4K4W-de'
 tags: [  ]

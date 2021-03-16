@@ -5,7 +5,7 @@ date: 2020-09-23 01:13:06
 image: 'https://m.media-amazon.com/images/I/51mi2vDblUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0753LF9LN-de Top Race Halloween Ghost Drone 6 Gyro 2 4 GHz Flying Ghost...'
 sku: 'B0753LF9LN-de'
 tags: [  ]

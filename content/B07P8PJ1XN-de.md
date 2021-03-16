@@ -5,7 +5,7 @@ date: 2020-04-02 12:59:07
 image: 'https://m.media-amazon.com/images/I/51pM2qstJ8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P8PJ1XN-de PLAYMOBIL:THE MOVIE 70070 Rex Dasher mit Fallschirm Ab 5...'
 sku: 'B07P8PJ1XN-de'
 tags: [  ]

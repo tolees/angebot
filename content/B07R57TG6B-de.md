@@ -5,7 +5,7 @@ date: 2020-02-18 20:02:53
 image: 'https://m.media-amazon.com/images/I/5152SgfPJHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R57TG6B-de SNAPTAIN Mini Drohne H823H Plus mit 3 Akkus für 21 Minuten...'
 sku: 'B07R57TG6B-de'
 tags: [  ]

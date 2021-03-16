@@ -5,7 +5,7 @@ date: 2020-04-16 17:36:00
 image: 'https://m.media-amazon.com/images/I/419w3kFHAXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0072NWC7W-de Pedea Laptoptasche Trendline Umhängetasche Messenger Bag...'
 sku: 'B0072NWC7W-de'
 tags: [  ]

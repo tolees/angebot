@@ -5,7 +5,7 @@ date: 2020-10-08 01:49:23
 image: 'https://m.media-amazon.com/images/I/41+UzU3M-eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004SQSRSE-de Zassenhaus Stirnholz Braun 45 x 30 x 4 5 cm'
 sku: 'B004SQSRSE-de'
 tags: [  ]

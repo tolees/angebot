@@ -5,7 +5,7 @@ date: 2020-04-10 23:56:30
 image: 'https://m.media-amazon.com/images/I/51JmvQeLxXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2YK6BH-de Ravensburger 20782 - STAR WARS Elfer raus! Familienspiel'
 sku: 'B01N2YK6BH-de'
 tags: [  ]

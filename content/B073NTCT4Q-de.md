@@ -5,7 +5,7 @@ date: 2020-07-20 12:30:25
 image: 'https://m.media-amazon.com/images/I/41SFi6TEKhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073NTCT4Q-de BenQ GW2480 60 45cm 23 8 Zoll LED Monitor Full-HD Eye-Care...'
 sku: 'B073NTCT4Q-de'
 tags: [  ]

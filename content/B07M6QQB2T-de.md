@@ -5,7 +5,7 @@ date: 2020-04-16 08:05:48
 image: 'https://m.media-amazon.com/images/I/41Q8iiqdnsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M6QQB2T-de Meerjungfrau Decke Geschenke Beste Freundin -...'
 sku: 'B07M6QQB2T-de'
 tags: [  ]

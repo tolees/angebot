@@ -5,7 +5,7 @@ date: 2020-04-18 17:03:54
 image: 'https://m.media-amazon.com/images/I/318LYiGaD5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6WLL5L-de Neff NTK1320N Kochfeld Elektro/Einbau / 2 Heizelemente /...'
 sku: 'B01N6WLL5L-de'
 tags: [  ]

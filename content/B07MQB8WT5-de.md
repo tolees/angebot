@@ -5,7 +5,7 @@ date: 2020-04-15 07:43:31
 image: 'https://m.media-amazon.com/images/I/41LcCfUR7yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQB8WT5-de Asus TUF Gaming FX505DY 90NR01A2-M01050 39 6 cm 15 6 Zoll...'
 sku: 'B07MQB8WT5-de'
 tags: [  ]

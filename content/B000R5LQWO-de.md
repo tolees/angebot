@@ -5,7 +5,7 @@ date: 2020-09-15 16:44:20
 image: 'https://m.media-amazon.com/images/I/51uvb8gRqnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000R5LQWO-de Bosch Professional 6tlg. Flachfräsbohrer-Set Self Cut...'
 sku: 'B000R5LQWO-de'
 tags: [  ]

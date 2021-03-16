@@ -5,7 +5,7 @@ date: 2020-04-01 17:59:02
 image: 'https://m.media-amazon.com/images/I/41SahMCrbuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D39KBB5-de Dell 2YK0F - AC Adapter USB Type-C 65W Includes Power...'
 sku: 'B07D39KBB5-de'
 tags: [  ]

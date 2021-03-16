@@ -5,7 +5,7 @@ date: 2020-10-12 12:09:04
 image: 'https://m.media-amazon.com/images/I/31pIDKzLvFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08K8N46JY-de Bluetooth Kopfhörer Ajcoflt Wireless Noise Cancelling...'
 sku: 'B08K8N46JY-de'
 tags: [  ]

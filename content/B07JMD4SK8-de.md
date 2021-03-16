@@ -5,7 +5,7 @@ date: 2020-04-06 21:08:26
 image: 'https://m.media-amazon.com/images/I/51ar700UrsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMD4SK8-de Playmobil 70010 SuperSet Familiengarten bunt'
 sku: 'B07JMD4SK8-de'
 tags: [  ]

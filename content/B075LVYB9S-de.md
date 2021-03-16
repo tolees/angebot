@@ -5,7 +5,7 @@ date: 2020-08-18 22:48:32
 image: 'https://m.media-amazon.com/images/I/41hHDK4SlvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075LVYB9S-de TechniSat DIGITRADIO 20 CD – Modernes & kompaktes DAB+...'
 sku: 'B075LVYB9S-de'
 tags: [  ]

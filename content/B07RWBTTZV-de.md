@@ -5,7 +5,7 @@ date: 2020-04-15 07:40:37
 image: 'https://m.media-amazon.com/images/I/41NvT7DlgGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWBTTZV-de Disney Die Eiskönigin Elsa aus Arendelle Deluxe Modepuppe...'
 sku: 'B07RWBTTZV-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-06 04:56:17
 image: 'https://m.media-amazon.com/images/I/41I0zBLR56L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M1JQCQU-de Fossil Damen-Armband JA6851791'
 sku: 'B01M1JQCQU-de'
 tags: [  ]

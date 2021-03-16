@@ -5,7 +5,7 @@ date: 2020-04-07 21:29:24
 image: 'https://m.media-amazon.com/images/I/51vX39EYmxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081DPJNFL-de s.Oliver RED LABEL Beachwear LM Damen Cocina Bikini blau-...'
 sku: 'B081DPJNFL-de'
 tags: [  ]

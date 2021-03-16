@@ -5,7 +5,7 @@ date: 2020-03-29 13:16:48
 image: 'https://m.media-amazon.com/images/I/41rqtY8nbDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYP4S5H-de VGEBY Bulldozer Toy Huina 1700 1: 50 Metallbetriebenes...'
 sku: 'B07TYP4S5H-de'
 tags: [  ]

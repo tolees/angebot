@@ -5,7 +5,7 @@ date: 2020-03-30 16:11:50
 image: 'https://m.media-amazon.com/images/I/314dW9u6ouL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0759VT1ZN-de LG Beamer PH30JG bis 254 cm 100 Zoll CineBeam Native HD...'
 sku: 'B0759VT1ZN-de'
 tags: [  ]

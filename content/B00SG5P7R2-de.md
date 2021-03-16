@@ -5,7 +5,7 @@ date: 2020-01-20 04:36:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21zxUusy1kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SG5P7R2-de RÖSLE Steak Besteck Set 4-teilig Edelstahl 18/10 inkl....'
 sku: 'B00SG5P7R2-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-23 16:52:24
 image: 'https://m.media-amazon.com/images/I/61aNByUHMZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075TQTVGP-de Songs in the Key of Rock 3cd Remastered Edition'
 sku: 'B075TQTVGP-de'
 tags: [  ]

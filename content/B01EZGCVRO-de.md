@@ -5,7 +5,7 @@ date: 2020-02-09 00:01:23
 image: 'https://m.media-amazon.com/images/I/519wNUOllaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EZGCVRO-de Auferstanden'
 sku: 'B01EZGCVRO-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-14 20:08:31
 image: 'https://m.media-amazon.com/images/I/416Ur4r9+NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HSB5ZM2-de SHARP PS 940 Partylautsprecher mit DJ-Mischpult und...'
 sku: 'B07HSB5ZM2-de'
 tags: [  ]

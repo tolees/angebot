@@ -5,7 +5,7 @@ date: 2020-09-28 14:33:28
 image: 'https://m.media-amazon.com/images/I/51Ww3BUW5FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HRQCKLN-de Makramee Garn Rifny Kordel Natur Baumwollgarn 3 mm x 100 m...'
 sku: 'B08HRQCKLN-de'
 tags: [  ]

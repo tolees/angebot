@@ -5,7 +5,7 @@ date: 2020-02-17 05:05:26
 image: 'https://m.media-amazon.com/images/I/417JBRaiJSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077CX2SR1-de Grundig GRB 2000 Tragbare Radio Boombox travertin/silber'
 sku: 'B077CX2SR1-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-25 18:02:29
 image: 'https://m.media-amazon.com/images/I/41YW1OEliKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000AXZCOG-de All for You'
 sku: 'B000AXZCOG-de'
 tags: [  ]

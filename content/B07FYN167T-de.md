@@ -5,7 +5,7 @@ date: 2020-10-08 01:49:20
 image: 'https://m.media-amazon.com/images/I/51SIufyAUaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYN167T-de Scuderia Ferrari Herren Multi Zifferblatt Quarz Uhr mit...'
 sku: 'B07FYN167T-de'
 tags: [  ]

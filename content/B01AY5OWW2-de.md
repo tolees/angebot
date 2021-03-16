@@ -5,7 +5,7 @@ date: 2020-02-21 04:48:15
 image: 'https://m.media-amazon.com/images/I/31BayuO-cGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AY5OWW2-de UGG Damen W Mini Bailey Button Bling Stiefeletten Schwarz...'
 sku: 'B01AY5OWW2-de'
 tags: [  ]

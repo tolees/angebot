@@ -5,7 +5,7 @@ date: 2020-09-10 17:07:06
 image: 'https://m.media-amazon.com/images/I/41a2GmqbiLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002ALSHZC-de SEVERIN Crêpes Maker CM 2198 Inkl. Holz-Teigspatel und...'
 sku: 'B002ALSHZC-de'
 tags: [  ]

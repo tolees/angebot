@@ -5,7 +5,7 @@ date: 2020-08-19 19:44:59
 image: 'https://m.media-amazon.com/images/I/315BM9fnT0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T4Q1RH7-de Microsoft Pro IntelliMouse schwarz'
 sku: 'B07T4Q1RH7-de'
 tags: [  ]

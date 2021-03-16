@@ -5,7 +5,7 @@ date: 2020-01-31 06:50:56
 image: 'https://m.media-amazon.com/images/I/41ZDp-9hqIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KXIKAX6-de Under Armour Herren Kurze Hose Ua Raid 8 Shorts Schwarz Small'
 sku: 'B00KXIKAX6-de'
 tags: [  ]

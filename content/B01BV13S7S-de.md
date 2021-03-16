@@ -5,7 +5,7 @@ date: 2020-06-11 21:39:39
 image: 'https://m.media-amazon.com/images/I/31C-IL94RZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BV13S7S-de Seagate Game Drive für Xbox tragbare externe Festplatte 4...'
 sku: 'B01BV13S7S-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-28 10:27:00
 image: 'https://m.media-amazon.com/images/I/416aqYaGTAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZC4MKF-de ReliBeauty Mädchen Prinzessin ELSA Schneeflocke Süßer...'
 sku: 'B07PZC4MKF-de'
 tags: [  ]

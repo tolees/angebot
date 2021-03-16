@@ -5,7 +5,7 @@ date: 2020-01-27 17:50:19
 image: 'https://m.media-amazon.com/images/I/31eGkvBVWGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IULM63K-de Spielzeugkiste Schatztruhe Spielzeugtruhe...'
 sku: 'B00IULM63K-de'
 tags: [  ]

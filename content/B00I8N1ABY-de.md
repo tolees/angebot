@@ -5,7 +5,7 @@ date: 2020-01-27 08:02:31
 image: 'https://m.media-amazon.com/images/I/311Iz2JbsVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I8N1ABY-de Makita Akku-Heckenschere 52 cm 18 V ohne Akku ohne...'
 sku: 'B00I8N1ABY-de'
 tags: [  ]

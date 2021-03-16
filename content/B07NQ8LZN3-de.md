@@ -5,7 +5,7 @@ date: 2020-08-17 14:09:03
 image: 'https://m.media-amazon.com/images/I/31KM9ESJIeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQ8LZN3-de Samsung Galaxy Buds SM-R170NZWADBT I Kabellose Kopfhörer...'
 sku: 'B07NQ8LZN3-de'
 tags: [  ]

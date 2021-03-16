@@ -5,7 +5,7 @@ date: 2020-08-15 00:02:10
 image: 'https://m.media-amazon.com/images/I/41mXxHxJfaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GTF06PS-de Rightwell Lupenbrille mit Licht Hände Frei Kopfband Lupen...'
 sku: 'B01GTF06PS-de'
 tags: [  ]

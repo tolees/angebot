@@ -5,7 +5,7 @@ date: 2020-09-08 07:35:33
 image: 'https://m.media-amazon.com/images/I/51o3cfvsjHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082YNPVCR-de PLAYMOBIL Family Fun 70342 Erlebnis-Streichelzoo Ab 4 Jahren'
 sku: 'B082YNPVCR-de'
 tags: [  ]

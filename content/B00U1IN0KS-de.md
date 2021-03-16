@@ -5,7 +5,7 @@ date: 2020-04-14 16:18:06
 image: 'https://m.media-amazon.com/images/I/31-PSL2dDyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U1IN0KS-de KitchenCraft Living Nostalgia Küchenspülbeckenbehälter 17...'
 sku: 'B00U1IN0KS-de'
 tags: [  ]

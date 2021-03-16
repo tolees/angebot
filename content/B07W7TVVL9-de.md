@@ -5,7 +5,7 @@ date: 2020-09-29 10:34:03
 image: 'https://m.media-amazon.com/images/I/417YzfCdHsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W7TVVL9-de Seiko Solar Herren-Uhr Edelstahl mit Metallband SNE523P1'
 sku: 'B07W7TVVL9-de'
 tags: [  ]

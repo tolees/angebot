@@ -5,7 +5,7 @@ date: 2020-10-12 08:13:43
 image: 'https://m.media-amazon.com/images/I/31nZDHiqV+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDR5G54-de VARTA Day Light Multi LED F10 Taschenlampe mit 5 LEDs...'
 sku: 'B07PDR5G54-de'
 tags: [  ]

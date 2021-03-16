@@ -5,7 +5,7 @@ date: 2020-01-03 22:55:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41NHNLv9oxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RCJ7E7O-de Crocs Creative Crocs Frozen Fuzz Lined Clog Mädchen Clogs...'
 sku: 'B00RCJ7E7O-de'
 tags: [  ]

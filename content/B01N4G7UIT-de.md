@@ -5,7 +5,7 @@ date: 2020-02-06 10:04:24
 image: 'https://m.media-amazon.com/images/I/41u9KaGlYtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4G7UIT-de Hot Wheels FDY09 Ai Starter Kit 2.0 Street Racing Auto...'
 sku: 'B01N4G7UIT-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-24 06:11:45
 image: 'https://m.media-amazon.com/images/I/41rG5B7wBJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085ZJQQFG-de AIKELA Handyhalterung Auto Handyhalter für Vent...'
 sku: 'B085ZJQQFG-de'
 tags: [  ]

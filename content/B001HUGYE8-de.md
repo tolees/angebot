@@ -5,7 +5,7 @@ date: 2020-09-15 05:49:33
 image: 'https://m.media-amazon.com/images/I/51kOIz6saTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001HUGYE8-de E-Mail für Dich [Special Edition]'
 sku: 'B001HUGYE8-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-17 16:09:04
 image: 'https://m.media-amazon.com/images/I/51lLVYAYurL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNWD34S-de LEGO Creator 31091 - Transporter für Space Shuttle'
 sku: 'B07FNWD34S-de'
 tags: [  ]

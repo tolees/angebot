@@ -5,7 +5,7 @@ date: 2020-02-08 17:24:31
 image: 'https://m.media-amazon.com/images/I/414vJK2-f1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071YRBY9T-de Acer Swift 1 SF113-31-P2CP 33 8 cm 13 3 Zoll Full-HD IPS...'
 sku: 'B071YRBY9T-de'
 tags: [  ]

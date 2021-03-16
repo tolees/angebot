@@ -5,7 +5,7 @@ date: 2020-09-15 11:01:42
 image: 'https://m.media-amazon.com/images/I/31vje6CZREL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0144KSXVO-de Enders Gasgrill URBAN Tischgrill Grillen- Kochen- und...'
 sku: 'B0144KSXVO-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-05 10:26:17
 image: 'https://m.media-amazon.com/images/I/41YKHnXMO4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M2XPWJF-de JBL E55BT Over Ear Bluetooth Kopfhörer - Wireless...'
 sku: 'B01M2XPWJF-de'
 tags: [  ]

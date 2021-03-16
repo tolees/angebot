@@ -5,7 +5,7 @@ date: 2020-09-16 16:22:44
 image: 'https://m.media-amazon.com/images/I/3179Pl-TRFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W586CDZ-de TP-Link Kasa Amazon Alexa zubehör Smart Home WLAN...'
 sku: 'B06W586CDZ-de'
 tags: [  ]

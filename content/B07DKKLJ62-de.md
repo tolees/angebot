@@ -5,7 +5,7 @@ date: 2020-02-29 09:54:11
 image: 'https://m.media-amazon.com/images/I/51TelEhv1BL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKKLJ62-de Kipling Damen CITY PACK S Rucksack Blau Active Denim...'
 sku: 'B07DKKLJ62-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-16 09:07:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31r-pKqbvBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077DBH4FF-de Enders 5676 Wetterschutzhülle Schwarz 50 x 50 x 120 cm'
 sku: 'B077DBH4FF-de'
 tags: [  ]

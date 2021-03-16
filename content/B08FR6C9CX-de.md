@@ -5,7 +5,7 @@ date: 2020-10-05 17:55:24
 image: 'https://m.media-amazon.com/images/I/41MMI1aRNbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FR6C9CX-de [3 Bonusgegenstand] Simbans TangoTab 10-Zoll-Tablet 4 GB...'
 sku: 'B08FR6C9CX-de'
 tags: [  ]

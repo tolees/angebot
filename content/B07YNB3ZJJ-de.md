@@ -5,7 +5,7 @@ date: 2020-02-27 08:26:49
 image: 'https://m.media-amazon.com/images/I/418Y-HVGj+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YNB3ZJJ-de Tommy Hilfiger Herren Analoger Quarz Uhr mit Edelstahl...'
 sku: 'B07YNB3ZJJ-de'
 tags: [  ]

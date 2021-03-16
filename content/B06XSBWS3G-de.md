@@ -5,7 +5,7 @@ date: 2020-06-11 10:47:52
 image: 'https://m.media-amazon.com/images/I/51kkan+ecGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XSBWS3G-de Holy Stone Mini Drohne HS170 RC Quadrocopter 2.4GHz...'
 sku: 'B06XSBWS3G-de'
 tags: [  ]

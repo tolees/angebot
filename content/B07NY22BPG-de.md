@@ -5,7 +5,7 @@ date: 2020-04-10 07:41:18
 image: 'https://m.media-amazon.com/images/I/41BlMj+-MnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY22BPG-de Mattel GFR28 - Toy Story 4 Sprechender Buzz Lightyear...'
 sku: 'B07NY22BPG-de'
 tags: [  ]

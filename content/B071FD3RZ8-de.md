@@ -5,7 +5,7 @@ date: 2020-09-21 19:10:13
 image: 'https://m.media-amazon.com/images/I/31ec7FycCoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071FD3RZ8-de ONLY Female Skinny Fit Jeans ONLRain reg XL30Black Denim'
 sku: 'B071FD3RZ8-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-07 05:02:45
 image: 'https://m.media-amazon.com/images/I/41YBrIGoU2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0037EEK7A-de Yankee Candle Duftkerze im großen Jar Vanilla Cupcake...'
 sku: 'B0037EEK7A-de'
 tags: [  ]

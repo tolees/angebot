@@ -5,7 +5,7 @@ date: 2020-04-15 15:56:13
 image: 'https://m.media-amazon.com/images/I/31t5uhnTqlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZKD7WG2-de Villeroy & Boch Toy s Delight Dip-Set 4-teillig Premium...'
 sku: 'B00ZKD7WG2-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-20 02:24:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51EaSyHdYQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LB5GMMN-de SCHLEICH 42485 Pferdestall'
 sku: 'B07LB5GMMN-de'
 tags: [  ]

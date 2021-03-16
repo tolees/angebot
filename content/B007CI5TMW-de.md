@@ -5,7 +5,7 @@ date: 2020-08-20 22:59:40
 image: 'https://m.media-amazon.com/images/I/51uZzyVzRsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007CI5TMW-de Haribo Roulette 50 Rollen 1.25 kg'
 sku: 'B007CI5TMW-de'
 tags: [  ]

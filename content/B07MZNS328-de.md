@@ -5,7 +5,7 @@ date: 2020-02-08 23:19:36
 image: 'https://m.media-amazon.com/images/I/41pfvX7B4HL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZNS328-de Funko 40101 POP Vinyl: Disney: Little Mermaid-Ariel Purple...'
 sku: 'B07MZNS328-de'
 tags: [  ]

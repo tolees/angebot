@@ -5,7 +5,7 @@ date: 2020-09-21 19:06:16
 image: 'https://m.media-amazon.com/images/I/41VYhv-KnbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XDYNPE8-de Tommy Hilfiger Damen DANNY BELT Gürtel Schwarz MASTERS...'
 sku: 'B00XDYNPE8-de'
 tags: [  ]

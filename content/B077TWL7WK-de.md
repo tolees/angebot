@@ -5,7 +5,7 @@ date: 2020-09-13 06:50:19
 image: 'https://m.media-amazon.com/images/I/41naqnLylCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077TWL7WK-de Toaster 4 Scheiben 1600W（7 einstellbare Bräunungsstufe +...'
 sku: 'B077TWL7WK-de'
 tags: [  ]

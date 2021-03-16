@@ -5,7 +5,7 @@ date: 2020-01-16 09:09:40
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JFWP34M-de RÖSLE Frischhaltedeckel Ø 28 cm Glas mit rundumlaufenden...'
 sku: 'B00JFWP34M-de'
 tags: [  ]

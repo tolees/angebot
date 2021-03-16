@@ -5,7 +5,7 @@ date: 2020-09-28 08:53:58
 image: 'https://m.media-amazon.com/images/I/31LGsf879bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001FGLN2W-de BOSCH 3397004772 Wischblatt Heck H772 - Länge: 340'
 sku: 'B001FGLN2W-de'
 tags: [  ]

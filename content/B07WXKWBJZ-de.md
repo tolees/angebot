@@ -5,7 +5,7 @@ date: 2020-05-16 09:14:37
 image: 'https://m.media-amazon.com/images/I/41eQOCvau0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WXKWBJZ-de Tefal E494S7 Jamie Oliver Brushed Topfset 7-teilig inkl. 3...'
 sku: 'B07WXKWBJZ-de'
 tags: [  ]

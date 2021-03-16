@@ -5,7 +5,7 @@ date: 2020-01-23 04:41:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31jVD9Q2sKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000RU98CE-de Playshoes Unisex Kinder Regenhose Buddelhose Matschhose...'
 sku: 'B000RU98CE-de'
 tags: [  ]

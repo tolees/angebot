@@ -5,7 +5,7 @@ date: 2020-03-01 04:52:30
 image: 'https://m.media-amazon.com/images/I/514lzB0GU7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071FB2D5L-de Kindergarten Cop [Blu-ray]'
 sku: 'B071FB2D5L-de'
 tags: [  ]

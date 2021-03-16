@@ -5,7 +5,7 @@ date: 2020-04-02 18:04:46
 image: 'https://m.media-amazon.com/images/I/418Ez+SZgfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QJCNTR1-de Zapf Creation 960202 Elli Smiles Puppe mit Funktion und...'
 sku: 'B07QJCNTR1-de'
 tags: [  ]

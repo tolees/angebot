@@ -5,7 +5,7 @@ date: 2020-04-16 18:01:12
 image: 'https://m.media-amazon.com/images/I/41PJ0VcQR5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TKNJW1G-de Sylvanian Families 2243 - Gartenbank mit Springbrunnen'
 sku: 'B00TKNJW1G-de'
 tags: [  ]

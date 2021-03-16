@@ -5,7 +5,7 @@ date: 2020-04-01 05:03:18
 image: 'https://m.media-amazon.com/images/I/51WjlX7nj8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFF22GQ-de Funko 34910 Game of Thrones: Ghost POP Schlüsselanhänger...'
 sku: 'B07DFF22GQ-de'
 tags: [  ]

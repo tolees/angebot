@@ -5,7 +5,7 @@ date: 2020-04-16 10:08:16
 image: 'https://m.media-amazon.com/images/I/41yAtC46qmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TDUR6ZU-de Belkin Premium Mixit Metallic Ladegerät 2 4A USB Anschluss...'
 sku: 'B00TDUR6ZU-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-28 08:55:06
 image: 'https://m.media-amazon.com/images/I/41mP3Q2xvhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000NIB80U-de Ecco ECCO OFFROAD Herren Outdoor Sandale Schwarz...'
 sku: 'B000NIB80U-de'
 tags: [  ]

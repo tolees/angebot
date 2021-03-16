@@ -5,7 +5,7 @@ date: 2020-04-09 08:25:11
 image: 'https://m.media-amazon.com/images/I/41mSHRld3yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DL4XL94-de APEMAN Dashcam 1080P Full HD DVR Autokamera 3 Zoll LCD-...'
 sku: 'B07DL4XL94-de'
 tags: [  ]

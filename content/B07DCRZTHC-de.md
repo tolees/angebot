@@ -5,7 +5,7 @@ date: 2020-04-10 07:24:23
 image: 'https://m.media-amazon.com/images/I/519AVgi+fHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DCRZTHC-de LIGHTAILING Licht-Set Für Volkswagen T1 Campingbus Modell...'
 sku: 'B07DCRZTHC-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-19 05:14:08
 image: 'https://m.media-amazon.com/images/I/412kT3HnwlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071WRZBT3-de Original Falken 5er Pack PP-Color Kunststoff-Ordner. Made...'
 sku: 'B071WRZBT3-de'
 tags: [  ]

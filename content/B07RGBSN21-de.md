@@ -5,7 +5,7 @@ date: 2020-10-07 06:17:23
 image: 'https://m.media-amazon.com/images/I/41wwNNTzaKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RGBSN21-de PUMA Herren Boxershort Limited Statement Edition 6er Pack...'
 sku: 'B07RGBSN21-de'
 tags: [  ]

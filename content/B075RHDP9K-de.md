@@ -5,7 +5,7 @@ date: 2020-08-27 03:43:35
 image: 'https://m.media-amazon.com/images/I/418pPicToqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075RHDP9K-de GORE Wear C3 kurze Herren Hose XXL Schwarz'
 sku: 'B075RHDP9K-de'
 tags: [  ]

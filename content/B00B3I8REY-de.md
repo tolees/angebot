@@ -5,7 +5,7 @@ date: 2020-04-07 22:00:01
 image: 'https://m.media-amazon.com/images/I/41N0mm7vvNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B3I8REY-de KS Tools 515.0990 SlimPOWER Impact-Stecknuss-Satz 3-tlg. 1/2"'
 sku: 'B00B3I8REY-de'
 tags: [  ]

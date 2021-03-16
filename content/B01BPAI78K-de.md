@@ -5,7 +5,7 @@ date: 2020-03-20 04:45:32
 image: 'https://m.media-amazon.com/images/I/31Q8EOY-SvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BPAI78K-de Hugo Boss Bottled Intense Eau De Parfum 100 ml'
 sku: 'B01BPAI78K-de'
 tags: [  ]

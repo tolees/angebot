@@ -5,7 +5,7 @@ date: 2020-04-10 23:40:48
 image: 'https://m.media-amazon.com/images/I/41v2wyaCDZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SMGM4QP-de SS&LL Cubo de basura del Pedal Papelera de Acero...'
 sku: 'B07SMGM4QP-de'
 tags: [  ]

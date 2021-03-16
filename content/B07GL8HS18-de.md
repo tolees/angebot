@@ -5,7 +5,7 @@ date: 2020-02-19 05:03:27
 image: 'https://m.media-amazon.com/images/I/41qryZHpH8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GL8HS18-de Fossil Herren Digital Smart Watch Armbanduhr mit Leder...'
 sku: 'B07GL8HS18-de'
 tags: [  ]

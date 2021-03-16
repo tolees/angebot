@@ -5,7 +5,7 @@ date: 2020-03-15 04:42:26
 image: 'https://m.media-amazon.com/images/I/31XYyGQZZRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0J2PKM-de adidas Herren Essentials Basic Poloshirt Black L'
 sku: 'B01N0J2PKM-de'
 tags: [  ]

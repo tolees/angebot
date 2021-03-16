@@ -5,7 +5,7 @@ date: 2020-02-19 05:03:20
 image: 'https://m.media-amazon.com/images/I/31doEBrW1WL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KYRFJYD-de SAMSONITE Guardit 2.0 - Laptop Rollkoffer 45 cm 26.5 Liter...'
 sku: 'B07KYRFJYD-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-28 18:29:02
 image: 'https://m.media-amazon.com/images/I/31rc7-ooGJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CCD7PQA-de Geox Herren U SYMBOL D Derby Schwarz BLACKC9999 42 EU'
 sku: 'B00CCD7PQA-de'
 tags: [  ]

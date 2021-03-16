@@ -5,7 +5,7 @@ date: 2020-08-25 23:00:01
 image: 'https://m.media-amazon.com/images/I/310siwt9aAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002ZWQVHC-de Odlo Herren Shirt Long Sleeve Crew Neck X-Warm Unterhemd...'
 sku: 'B002ZWQVHC-de'
 tags: [  ]

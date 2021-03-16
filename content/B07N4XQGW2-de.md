@@ -5,7 +5,7 @@ date: 2020-04-27 11:24:09
 image: 'https://m.media-amazon.com/images/I/41LrpEshW5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4XQGW2-de Tommy Jeans Damen TJW 3/4 Sleeve Drop Waist Dress Kleid...'
 sku: 'B07N4XQGW2-de'
 tags: [  ]

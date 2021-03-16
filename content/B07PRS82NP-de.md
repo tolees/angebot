@@ -5,7 +5,7 @@ date: 2020-03-22 04:58:02
 image: 'https://m.media-amazon.com/images/I/51RfvwgHoJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRS82NP-de Samsung RU7409 163 cm 65 Zoll LED Fernseher Ultra HD HDR...'
 sku: 'B07PRS82NP-de'
 tags: [  ]

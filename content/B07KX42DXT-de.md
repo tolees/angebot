@@ -5,7 +5,7 @@ date: 2020-08-20 22:48:51
 image: 'https://m.media-amazon.com/images/I/41SM8vt4VJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KX42DXT-de WAFTING 4er Set Esszimmerstühle Gepolsterter Seitenstuhl...'
 sku: 'B07KX42DXT-de'
 tags: [  ]

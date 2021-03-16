@@ -5,7 +5,7 @@ date: 2020-06-30 14:51:45
 image: 'https://m.media-amazon.com/images/I/41+HshpfEKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDL3XFM-de Seagate Backup Plus Portable tragbare externe Festplatte 5...'
 sku: 'B07MDL3XFM-de'
 tags: [  ]

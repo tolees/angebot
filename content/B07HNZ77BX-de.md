@@ -5,7 +5,7 @@ date: 2020-02-23 20:55:39
 image: 'https://m.media-amazon.com/images/I/51TiXJHthML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HNZ77BX-de INSMART PS4 Headset PC Gaming Headset Auch für Nintendo...'
 sku: 'B07HNZ77BX-de'
 tags: [  ]

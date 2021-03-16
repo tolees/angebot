@@ -5,7 +5,7 @@ date: 2020-09-16 06:25:06
 image: 'https://m.media-amazon.com/images/I/41fOklGY2rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0183DJCXG-de Retevis RT388 Walkie Talkies für Kinder PMR446 8 Kanäle...'
 sku: 'B0183DJCXG-de'
 tags: [  ]

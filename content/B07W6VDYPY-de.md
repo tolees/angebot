@@ -5,7 +5,7 @@ date: 2020-01-22 10:03:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41FC7aBdXDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6VDYPY-de Freaky Doll LoLa Cute Crazy Rosa Fliegende Puppe mit extra...'
 sku: 'B07W6VDYPY-de'
 tags: [  ]

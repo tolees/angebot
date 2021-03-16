@@ -5,7 +5,7 @@ date: 2020-09-23 03:37:30
 image: 'https://m.media-amazon.com/images/I/21wmmfVlZoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L2CPPH2-de GoPro Pro 3 5-mm-Mikrofonadapter für HERO7 Black HERO6...'
 sku: 'B01L2CPPH2-de'
 tags: [  ]

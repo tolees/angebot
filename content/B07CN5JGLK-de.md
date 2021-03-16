@@ -5,7 +5,7 @@ date: 2020-03-15 04:43:34
 image: 'https://m.media-amazon.com/images/I/51Zr1oLIN2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CN5JGLK-de GEDORE red Steckschlüsselsatz 94-teilig Mit...'
 sku: 'B07CN5JGLK-de'
 tags: [  ]

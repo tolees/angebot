@@ -5,7 +5,7 @@ date: 2020-05-28 17:48:30
 image: 'https://m.media-amazon.com/images/I/416LzP+TrjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJL3JH7-de Jabra Elite 65t True Wireless Bluetooth In-Ear Kopfhörer...'
 sku: 'B07DJL3JH7-de'
 tags: [  ]

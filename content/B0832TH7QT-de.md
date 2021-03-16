@@ -5,7 +5,7 @@ date: 2020-08-23 06:51:56
 image: 'https://m.media-amazon.com/images/I/31HKYJ5JAaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0832TH7QT-de PITTMAN Cargo Hose Herren Darius - Männer Chino by Pit...'
 sku: 'B0832TH7QT-de'
 tags: [  ]

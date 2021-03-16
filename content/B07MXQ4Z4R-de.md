@@ -5,7 +5,7 @@ date: 2020-04-03 16:43:38
 image: 'https://m.media-amazon.com/images/I/4157LDNlUQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXQ4Z4R-de DELSEY PARIS COMETE FASHION azzurro'
 sku: 'B07MXQ4Z4R-de'
 tags: [  ]

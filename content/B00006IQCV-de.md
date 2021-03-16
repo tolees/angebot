@@ -5,7 +5,7 @@ date: 2020-10-07 09:39:17
 image: 'https://m.media-amazon.com/images/I/41SrPDA1pyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00006IQCV-de BIC 811935 Marker mit abgeschrägter Spitze gelb...'
 sku: 'B00006IQCV-de'
 tags: [  ]

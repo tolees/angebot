@@ -5,7 +5,7 @@ date: 2020-04-18 00:26:30
 image: 'https://m.media-amazon.com/images/I/513KDtj4BjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JXJJ67S-de PLAYMOBIL City Life 70015 Mein Lieblingscafé Ab 4 Jahren'
 sku: 'B07JXJJ67S-de'
 tags: [  ]

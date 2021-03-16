@@ -5,7 +5,7 @@ date: 2020-01-20 08:39:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41acBRHv%2BtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000S6OKUM-de Sorel Herren Caribou Winterstiefel Dunkelbraun Bruno 43 EU'
 sku: 'B000S6OKUM-de'
 tags: [  ]

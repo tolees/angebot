@@ -5,7 +5,7 @@ date: 2020-10-08 19:42:50
 image: 'https://m.media-amazon.com/images/I/31tBksjiLzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KHTLCVU-de Schiesser Damen Tai 3er Pack Slip Weiß weiss 100 40/L'
 sku: 'B00KHTLCVU-de'
 tags: [  ]

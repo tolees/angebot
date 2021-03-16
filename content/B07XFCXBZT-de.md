@@ -5,7 +5,7 @@ date: 2020-02-20 21:13:38
 image: 'https://m.media-amazon.com/images/I/41ScPEP5mrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XFCXBZT-de LG K50s Smartphone 16 49 cm 6 49 Zoll IPS LC-Display 32 GB...'
 sku: 'B07XFCXBZT-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-28 08:22:31
 image: 'https://m.media-amazon.com/images/I/41AkQIjYjmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRZ60F0-de AVM FRITZ!DECT 210 intelligente Steckdose für Smart Home...'
 sku: 'B01MRZ60F0-de'
 tags: [  ]

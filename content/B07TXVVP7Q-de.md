@@ -5,7 +5,7 @@ date: 2020-04-05 13:05:43
 image: 'https://m.media-amazon.com/images/I/51CKCnv+sCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXVVP7Q-de BRIKSMAX Led Beleuchtungsset für Lego City Personenzug...'
 sku: 'B07TXVVP7Q-de'
 tags: [  ]

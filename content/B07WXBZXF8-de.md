@@ -5,7 +5,7 @@ date: 2020-07-12 11:07:09
 image: 'https://m.media-amazon.com/images/I/512UPXi1n-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WXBZXF8-de Tefal L95693 Ingenio Jamie Oliver Topfset 3-teilig Topf...'
 sku: 'B07WXBZXF8-de'
 tags: [  ]

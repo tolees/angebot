@@ -5,7 +5,7 @@ date: 2020-07-22 18:56:44
 image: 'https://m.media-amazon.com/images/I/41RCMq5rfgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0035PVUAG-de Bosch Professional Stichsäge GST 150 CE 780 Watt...'
 sku: 'B0035PVUAG-de'
 tags: [  ]

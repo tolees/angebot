@@ -5,7 +5,7 @@ date: 2020-08-20 06:15:56
 image: 'https://m.media-amazon.com/images/I/41r9dbIFW5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZTPPQ9-de Dermaroller【Newest 2020】 ETEREAUTY 0.5mm Micronadeln Derma...'
 sku: 'B07MZTPPQ9-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-01 04:52:22
 image: 'https://m.media-amazon.com/images/I/41swY5xX6LL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCN3S0J-de HP 410X CF252XM Multipack Original Toner Blau Magenta Gelb...'
 sku: 'B01NCN3S0J-de'
 tags: [  ]

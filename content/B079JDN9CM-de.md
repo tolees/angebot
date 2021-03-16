@@ -5,7 +5,7 @@ date: 2020-02-06 04:57:55
 image: 'https://m.media-amazon.com/images/I/51l4E3LHA-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079JDN9CM-de Bauknecht WATK Pure 96G4 DE Waschtrockner / EEK A / 9kg...'
 sku: 'B079JDN9CM-de'
 tags: [  ]

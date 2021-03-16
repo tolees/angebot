@@ -5,7 +5,7 @@ date: 2020-09-08 20:22:34
 image: 'https://m.media-amazon.com/images/I/31HWy+WV6RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KZVQB42-de Logitech M720 Triathlon Kabellose Maus Bluetooth & 2.4 GHz...'
 sku: 'B01KZVQB42-de'
 tags: [  ]

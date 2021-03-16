@@ -5,7 +5,7 @@ date: 2020-08-10 08:51:10
 image: 'https://m.media-amazon.com/images/I/51vh-4dDvUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013WY9YKW-de Red Bull Energy Drink Heidelbeere Dosen Getränke Blue...'
 sku: 'B013WY9YKW-de'
 tags: [  ]

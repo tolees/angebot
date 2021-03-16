@@ -5,7 +5,7 @@ date: 2020-08-26 22:37:49
 image: 'https://m.media-amazon.com/images/I/41VmoGCRpML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BI8HR3K-de Gigaset E630HX Universal-Mobilteil - IP-Telefon zum...'
 sku: 'B01BI8HR3K-de'
 tags: [  ]

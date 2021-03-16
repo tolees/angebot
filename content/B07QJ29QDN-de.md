@@ -5,7 +5,7 @@ date: 2020-04-16 08:10:07
 image: 'https://m.media-amazon.com/images/I/41pCTcOx-mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QJ29QDN-de Funko 42064 POP Bobble Vinyl Mandalorian-IG-11 Star Wars...'
 sku: 'B07QJ29QDN-de'
 tags: [  ]

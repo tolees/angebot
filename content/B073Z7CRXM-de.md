@@ -5,7 +5,7 @@ date: 2020-09-09 07:53:11
 image: 'https://m.media-amazon.com/images/I/31RoBhTBD3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073Z7CRXM-de PETKIT P008 Reiseflasche EVERSWEET Travel One-Touch grau'
 sku: 'B073Z7CRXM-de'
 tags: [  ]

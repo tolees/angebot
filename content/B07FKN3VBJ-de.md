@@ -5,7 +5,7 @@ date: 2020-04-15 11:33:53
 image: 'https://m.media-amazon.com/images/I/51iFr4QVhOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKN3VBJ-de Philips S5290/12 Elektrischer Nass-und Trockenrasierer...'
 sku: 'B07FKN3VBJ-de'
 tags: [  ]

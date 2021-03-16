@@ -5,7 +5,7 @@ date: 2020-10-03 19:08:33
 image: 'https://m.media-amazon.com/images/I/51fFSRTx5NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DX9JWYY-de Just Cause 4 - Standard Edition - [PlayStation 4]'
 sku: 'B07DX9JWYY-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-27 15:54:14
 image: 'https://m.media-amazon.com/images/I/41OHhB58qRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9WC9Y3-de SAGE SCG600 the Dose Control Kaffeemühle für Press- oder...'
 sku: 'B07B9WC9Y3-de'
 tags: [  ]

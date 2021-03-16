@@ -5,7 +5,7 @@ date: 2020-07-24 12:03:49
 image: 'https://m.media-amazon.com/images/I/31LMWy+7JOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC68RW1-de TP-Link 5-Port Desktop Switch 10/100/1000Mbit/S...'
 sku: 'B07VC68RW1-de'
 tags: [  ]

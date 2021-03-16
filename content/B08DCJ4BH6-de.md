@@ -5,7 +5,7 @@ date: 2020-10-07 00:02:52
 image: 'https://m.media-amazon.com/images/I/41Jgc2Of+xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DCJ4BH6-de ORICO M.2 NGFF SSD Externes Gehäuse USB 3.1 auf M.2 SATA...'
 sku: 'B08DCJ4BH6-de'
 tags: [  ]

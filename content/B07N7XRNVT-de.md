@@ -5,7 +5,7 @@ date: 2020-04-23 09:21:02
 image: 'https://m.media-amazon.com/images/I/51SibLPHd2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N7XRNVT-de Kami Idea Muttertagsgeschenk Halsketten für Frauen Ringe...'
 sku: 'B07N7XRNVT-de'
 tags: [  ]

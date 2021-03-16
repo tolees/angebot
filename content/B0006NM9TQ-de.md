@@ -5,7 +5,7 @@ date: 2020-04-15 00:08:49
 image: 'https://m.media-amazon.com/images/I/61g-a4ymVtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0006NM9TQ-de Ravensburger 21108 1 Memory Die Eiskönigin Lernspiel'
 sku: 'B0006NM9TQ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-21 17:04:13
 image: 'https://m.media-amazon.com/images/I/414i8MQdr+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XVZ4T9O-de Dyson V6 Mattress beutel- & kabelloser Staubsauger inkl....'
 sku: 'B00XVZ4T9O-de'
 tags: [  ]

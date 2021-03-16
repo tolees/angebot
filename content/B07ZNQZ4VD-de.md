@@ -5,7 +5,7 @@ date: 2020-03-18 02:40:51
 image: 'https://m.media-amazon.com/images/I/510h3OQpdEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZNQZ4VD-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Resistance...'
 sku: 'B07ZNQZ4VD-de'
 tags: [  ]

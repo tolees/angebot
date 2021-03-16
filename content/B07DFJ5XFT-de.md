@@ -5,7 +5,7 @@ date: 2020-02-05 03:23:29
 image: 'https://m.media-amazon.com/images/I/31p2KUQNICL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFJ5XFT-de Funko 33433 Rocks: Mariah Carey POP Vinylfigur Multi Standard'
 sku: 'B07DFJ5XFT-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 03:40:26
 image: 'https://m.media-amazon.com/images/I/31hsm88qvyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0034CL3MA-de TP-Link TL-SF1008D 8-Port Fast Ethernet-/Netzwerk-/Lan...'
 sku: 'B0034CL3MA-de'
 tags: [  ]

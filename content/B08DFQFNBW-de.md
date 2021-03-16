@@ -5,7 +5,7 @@ date: 2020-08-10 00:15:18
 image: 'https://m.media-amazon.com/images/I/411QFkXhfQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DFQFNBW-de Aobp 50M Gummiband Weiß Gummilitze Elastische Schnur...'
 sku: 'B08DFQFNBW-de'
 tags: [  ]

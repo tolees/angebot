@@ -5,7 +5,7 @@ date: 2020-04-10 16:22:30
 image: 'https://m.media-amazon.com/images/I/31q1prUGsxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0748NCPN5-de Logitech Brio Stream Webcam 4K Ultra-HD 1080p Weites...'
 sku: 'B0748NCPN5-de'
 tags: [  ]

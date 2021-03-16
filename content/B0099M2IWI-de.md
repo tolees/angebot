@@ -5,7 +5,7 @@ date: 2020-09-18 10:58:11
 image: 'https://m.media-amazon.com/images/I/51ml+k5WYrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0099M2IWI-de Casio Collection Herren-Armbanduhr AE 1200WH 1AVEF'
 sku: 'B0099M2IWI-de'
 tags: [  ]

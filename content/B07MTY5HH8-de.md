@@ -5,7 +5,7 @@ date: 2020-08-20 21:28:52
 image: 'https://m.media-amazon.com/images/I/41oURp28qlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MTY5HH8-de Logitech G635 kabelgebundenes Gaming-Headset mit LIGHTSYNC...'
 sku: 'B07MTY5HH8-de'
 tags: [  ]

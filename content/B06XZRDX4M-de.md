@@ -5,7 +5,7 @@ date: 2020-01-20 16:13:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41i9gM36kPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XZRDX4M-de Kingwin Damen - Titan blau Opale'
 sku: 'B06XZRDX4M-de'
 tags: [  ]

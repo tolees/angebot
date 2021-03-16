@@ -5,7 +5,7 @@ date: 2020-03-16 17:32:11
 image: 'https://m.media-amazon.com/images/I/51MNc6D9DzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083B73KVG-de UMIDIGI Smartwatch Uwatch3 Fitness Tracker 5 ATM...'
 sku: 'B083B73KVG-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-12 00:18:58
 image: 'https://m.media-amazon.com/images/I/41POrde5LyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R24ZQ4D-de VAUDE Tool Aqua Satteltasche Riemen 15 cm Black'
 sku: 'B07R24ZQ4D-de'
 tags: [  ]

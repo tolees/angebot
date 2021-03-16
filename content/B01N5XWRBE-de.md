@@ -5,7 +5,7 @@ date: 2020-03-25 19:22:01
 image: 'https://m.media-amazon.com/images/I/41os7Wdu0aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5XWRBE-de LG 34UC89G 86 36 cm 34 Zoll Curved 21:9 UltraWide™ Full HD...'
 sku: 'B01N5XWRBE-de'
 tags: [  ]

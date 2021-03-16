@@ -5,7 +5,7 @@ date: 2020-04-07 21:59:59
 image: 'https://m.media-amazon.com/images/I/51inozUeZxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078MZ4C6B-de Bart Schablone Bartpflege Bartschablone Bartformen für...'
 sku: 'B078MZ4C6B-de'
 tags: [  ]

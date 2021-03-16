@@ -5,7 +5,7 @@ date: 2020-02-23 05:05:04
 image: 'https://m.media-amazon.com/images/I/31ksr5vEdSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000IAZC3W-de Victorinox Fibrox Tranchiermesser 22cm Rutschfest...'
 sku: 'B000IAZC3W-de'
 tags: [  ]

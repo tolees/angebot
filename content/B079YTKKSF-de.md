@@ -5,7 +5,7 @@ date: 2020-01-30 04:49:43
 image: 'https://m.media-amazon.com/images/I/41dl8bHl70L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079YTKKSF-de Logitech G513 mechanische Gaming-Tastatur mit RGB...'
 sku: 'B079YTKKSF-de'
 tags: [  ]

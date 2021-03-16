@@ -5,7 +5,7 @@ date: 2020-10-06 21:30:45
 image: 'https://m.media-amazon.com/images/I/51CK4MUr29L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004NOL95O-de Draper Expert 02753 Innenmessgerät 50-160 mm'
 sku: 'B004NOL95O-de'
 tags: [  ]

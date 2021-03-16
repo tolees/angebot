@@ -5,7 +5,7 @@ date: 2020-09-12 11:17:20
 image: 'https://m.media-amazon.com/images/I/41c2wijcPpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U65CWOG-de Russell Hobbs Multicooker 5 0l digitales Display + Timer...'
 sku: 'B00U65CWOG-de'
 tags: [  ]

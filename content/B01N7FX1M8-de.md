@@ -5,7 +5,7 @@ date: 2020-04-07 21:33:01
 image: 'https://m.media-amazon.com/images/I/41kQwgJlQxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7FX1M8-de Barbie FBR34 - Super Abenteuer Camper Puppen Camping...'
 sku: 'B01N7FX1M8-de'
 tags: [  ]

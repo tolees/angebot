@@ -5,7 +5,7 @@ date: 2020-10-01 05:53:22
 image: 'https://m.media-amazon.com/images/I/410Y0JhZ5TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0007OEEU6-de Leitz Büroheftgerät aus Metall Für 40 Blatt Inkl....'
 sku: 'B0007OEEU6-de'
 tags: [  ]

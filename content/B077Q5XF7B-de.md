@@ -5,7 +5,7 @@ date: 2020-03-12 04:57:41
 image: 'https://m.media-amazon.com/images/I/51Bw7aSo4pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Q5XF7B-de Siemens PowerProtect Staubsaugerbeutel VZ16GALL 16 Stück...'
 sku: 'B077Q5XF7B-de'
 tags: [  ]

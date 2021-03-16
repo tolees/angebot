@@ -5,7 +5,7 @@ date: 2020-05-16 19:44:22
 image: 'https://m.media-amazon.com/images/I/41So61XGIvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XH4LGHC-de Belkin PowerHouse Ladestation geeignet für iPhone XS XS...'
 sku: 'B06XH4LGHC-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-11 06:20:23
 image: 'https://m.media-amazon.com/images/I/31ysPHwPkgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002PHH7TI-de Jil Sander Jil femme/woman Eau de Parfum 1er Pack 1 x 50 ml'
 sku: 'B002PHH7TI-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-02 10:22:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wmJxltjHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WB1PI5S-de DeWalt XR Akku-Schlagschrauber DCF899NT - Schlagschrauber...'
 sku: 'B00WB1PI5S-de'
 tags: [  ]

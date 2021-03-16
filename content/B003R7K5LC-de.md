@@ -5,7 +5,7 @@ date: 2020-02-18 20:40:09
 image: 'https://m.media-amazon.com/images/I/51Zh83nUefL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003R7K5LC-de Mentos Fruit Dragees 40 Rollen Bonbons Frucht-Geschmack...'
 sku: 'B003R7K5LC-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-21 10:21:12
 image: 'https://m.media-amazon.com/images/I/41tfM-jnN1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08222SJJB-de Bosch Professional 18V System Akku Baustrahler GLI...'
 sku: 'B08222SJJB-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-16 10:06:02
 image: 'https://m.media-amazon.com/images/I/31+KjVYMbVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087RZVBQW-de TP-Link Tapo L510E smarte WLAN Glühbirne E27 dimmbar 8.7 W...'
 sku: 'B087RZVBQW-de'
 tags: [  ]

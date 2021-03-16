@@ -5,7 +5,7 @@ date: 2020-04-15 00:27:52
 image: 'https://m.media-amazon.com/images/I/51h7pkFVZhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAICT6S-de Ondis24 Steckregal 60 x 30 x 135 H cm 4 Böden...'
 sku: 'B01NAICT6S-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-01 17:34:46
 image: 'https://m.media-amazon.com/images/I/41rtxilPpdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000FWHWGS-de Lavazza Kaffeebohnen - Crema E Aroma - 1er Pack 1 x 1 kg'
 sku: 'B000FWHWGS-de'
 tags: [  ]

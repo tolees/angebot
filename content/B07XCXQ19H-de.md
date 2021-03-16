@@ -5,7 +5,7 @@ date: 2020-09-16 09:17:33
 image: 'https://m.media-amazon.com/images/I/51shBWvu2LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCXQ19H-de LEGO 41405 Andreas magischer Würfel - Tiergeschäft Friends...'
 sku: 'B07XCXQ19H-de'
 tags: [  ]

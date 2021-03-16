@@ -5,7 +5,7 @@ date: 2020-07-22 14:47:59
 image: 'https://m.media-amazon.com/images/I/51TLPcy4AgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BGH6ZTZ-de Red Bull Energy Drink Kokos-Blaubeere Dosen Getränke White...'
 sku: 'B07BGH6ZTZ-de'
 tags: [  ]

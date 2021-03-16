@@ -5,7 +5,7 @@ date: 2020-03-02 05:09:59
 image: 'https://m.media-amazon.com/images/I/51QmBN0Y9fL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071ZV8JL6-de Terminator 5 - Genisys 4K Ultra HD + Blu-ray'
 sku: 'B071ZV8JL6-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-12 23:11:25
 image: 'https://m.media-amazon.com/images/I/51DYfZZa6UL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZZV3QHL-de Philips 273V7QDAB/00 68 cm 27 Zoll Monitor VGA DVI HDMI...'
 sku: 'B06ZZV3QHL-de'
 tags: [  ]

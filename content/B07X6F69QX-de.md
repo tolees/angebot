@@ -5,7 +5,7 @@ date: 2020-04-13 14:25:30
 image: 'https://m.media-amazon.com/images/I/415bw9FOYjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X6F69QX-de HolyHigh Bluetooth Kopfhörer Bluetooth 5.0 Kabellose In...'
 sku: 'B07X6F69QX-de'
 tags: [  ]

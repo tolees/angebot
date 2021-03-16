@@ -5,7 +5,7 @@ date: 2020-09-13 06:50:04
 image: 'https://m.media-amazon.com/images/I/41OtkWgltLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XZC9K61-de Dreamzie - Gewichtsdecke - Verfügbar für Betten 90 bis 180...'
 sku: 'B07XZC9K61-de'
 tags: [  ]

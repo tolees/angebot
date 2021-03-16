@@ -5,7 +5,7 @@ date: 2020-01-22 17:26:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/518--wIriqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8SDQJH-de Frozen Disney Die Eiskönigin II Königliches Schloss von...'
 sku: 'B07M8SDQJH-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-08 04:40:31
 image: 'https://m.media-amazon.com/images/I/41id+-WKFuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014LBOU7W-de auna MIC-900S LED - USB Kondensator-Mikrofon...'
 sku: 'B014LBOU7W-de'
 tags: [  ]

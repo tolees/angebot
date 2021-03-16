@@ -5,7 +5,7 @@ date: 2020-10-04 03:23:52
 image: 'https://m.media-amazon.com/images/I/413LayuW-EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XRL11YJ-de Our Generation 44557 Rollerblades & Outfit Puppenkleidung...'
 sku: 'B06XRL11YJ-de'
 tags: [  ]

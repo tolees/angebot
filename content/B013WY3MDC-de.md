@@ -5,7 +5,7 @@ date: 2020-09-15 18:58:04
 image: 'https://m.media-amazon.com/images/I/51i7cyDQ4AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013WY3MDC-de LIPTON ICE TEA Sparkling Classic Eistee mit Kohlensäure...'
 sku: 'B013WY3MDC-de'
 tags: [  ]

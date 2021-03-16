@@ -5,7 +5,7 @@ date: 2020-07-14 00:12:33
 image: 'https://m.media-amazon.com/images/I/31iGrvhMyKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QND4VZ6-de Samsung MU-PA500R/EU Portable SSD T5 500 GB USB 3.1...'
 sku: 'B07QND4VZ6-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-02 00:51:27
 image: 'https://m.media-amazon.com/images/I/31eLATF3DPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00URDQ26Q-de Original MANN-FILTER Innenraumfilter FP 2442 –...'
 sku: 'B00URDQ26Q-de'
 tags: [  ]

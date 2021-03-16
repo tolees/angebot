@@ -5,7 +5,7 @@ date: 2020-08-10 14:52:26
 image: 'https://m.media-amazon.com/images/I/51Co9dwlnxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C7WTYQ4-de GLÜCKSWOLKE - Spardose I Motiv Lebensbaum I Geschenk für...'
 sku: 'B08C7WTYQ4-de'
 tags: [  ]

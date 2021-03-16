@@ -5,7 +5,7 @@ date: 2020-04-11 08:09:17
 image: 'https://m.media-amazon.com/images/I/41-dd2OUWXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008SDMMKM-de Simba 107108605 - Sandformen Eis'
 sku: 'B008SDMMKM-de'
 tags: [  ]

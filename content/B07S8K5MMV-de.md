@@ -5,7 +5,7 @@ date: 2020-10-06 07:23:49
 image: 'https://m.media-amazon.com/images/I/517DfViC5xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8K5MMV-de Ensure NutriVigor Schokolade – Nahrungsergänzungspulver...'
 sku: 'B07S8K5MMV-de'
 tags: [  ]

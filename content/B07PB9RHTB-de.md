@@ -5,7 +5,7 @@ date: 2020-04-16 08:55:04
 image: 'https://m.media-amazon.com/images/I/51v2hg6rGrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PB9RHTB-de Sylvanian Families 5360 Mini-Puppen Multi'
 sku: 'B07PB9RHTB-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-08 13:27:05
 image: 'https://m.media-amazon.com/images/I/41stSrk06lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G375YJJ-de JFUME Herren Magnet Armband aus Edelstahl Männer mit Link...'
 sku: 'B07G375YJJ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-15 00:18:35
 image: 'https://m.media-amazon.com/images/I/41nqdbq2aZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085VLRP4Z-de Gowind6 Video-Kabel für SNES Nintendo 64 N64 1 8 m'
 sku: 'B085VLRP4Z-de'
 tags: [  ]

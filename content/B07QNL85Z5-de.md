@@ -5,7 +5,7 @@ date: 2020-04-09 15:41:21
 image: 'https://m.media-amazon.com/images/I/51ckaBIAnyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QNL85Z5-de ORIENT Messer Set 3 teilig - Kochmesser Allzwekmesser...'
 sku: 'B07QNL85Z5-de'
 tags: [  ]

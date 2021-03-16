@@ -5,7 +5,7 @@ date: 2020-04-07 12:59:47
 image: 'https://m.media-amazon.com/images/I/51EjPTrtaaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K8RYPCM-de infactory Spielbaustein-Klebeband: Selbstklebendes...'
 sku: 'B07K8RYPCM-de'
 tags: [  ]

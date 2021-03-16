@@ -5,7 +5,7 @@ date: 2020-04-15 00:03:20
 image: 'https://m.media-amazon.com/images/I/41DHGg1rIwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CPB3CK6-de Tomorrow`s Kitchen bislang Vacu Vin 46703606...'
 sku: 'B01CPB3CK6-de'
 tags: [  ]

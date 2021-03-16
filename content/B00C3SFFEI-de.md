@@ -5,7 +5,7 @@ date: 2020-01-04 06:10:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/513bYMivdDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C3SFFEI-de Ravensburger 26601 Scotland Yard Strategiespiel'
 sku: 'B00C3SFFEI-de'
 tags: [  ]

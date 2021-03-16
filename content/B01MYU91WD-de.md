@@ -5,7 +5,7 @@ date: 2020-01-20 18:36:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31whMn8w8XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYU91WD-de Puma Basket Heart Patent Wn s Damen Sneakers Weiß Puma...'
 sku: 'B01MYU91WD-de'
 tags: [  ]

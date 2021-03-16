@@ -5,7 +5,7 @@ date: 2020-03-21 21:13:34
 image: 'https://m.media-amazon.com/images/I/61YQ1xNEfrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYRIWZ0-de PLAYMOBIL Ghostbusters 9220 Ecto-1 mit Licht- und...'
 sku: 'B01LYRIWZ0-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-14 12:52:52
 image: 'https://m.media-amazon.com/images/I/51rO1ELyZCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FJ8OH3S-de Bosch Professional Schwingschleifer GSS 160-1 A Multi 180...'
 sku: 'B01FJ8OH3S-de'
 tags: [  ]

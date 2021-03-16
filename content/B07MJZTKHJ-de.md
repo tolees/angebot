@@ -5,7 +5,7 @@ date: 2020-02-18 14:49:00
 image: 'https://m.media-amazon.com/images/I/31RY+0CaWeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJZTKHJ-de 1More E1026BT Stylish True Wireless In-Ear Headphones Black'
 sku: 'B07MJZTKHJ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-18 15:09:13
 image: 'https://m.media-amazon.com/images/I/41+TZDoblPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072MFLD2T-de Philips SHB3175BK BASS+ Over-Ear Bluetooth-Kopfhörer 13...'
 sku: 'B072MFLD2T-de'
 tags: [  ]

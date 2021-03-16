@@ -5,7 +5,7 @@ date: 2020-08-23 06:52:04
 image: 'https://m.media-amazon.com/images/I/51vM20uq-SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YQ3KJWR-de Paco Home Kinder-Teppich Für Kinderzimmer Spiel-Teppich...'
 sku: 'B07YQ3KJWR-de'
 tags: [  ]

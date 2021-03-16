@@ -5,7 +5,7 @@ date: 2020-10-10 12:17:39
 image: 'https://m.media-amazon.com/images/I/51sV+M9NR2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GC1QJX4-de JOYXEON Gummibänder Rund 120 pcs 6mm x 103mm Gummikordel...'
 sku: 'B08GC1QJX4-de'
 tags: [  ]

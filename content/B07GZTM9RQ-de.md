@@ -5,7 +5,7 @@ date: 2020-03-09 04:52:39
 image: 'https://m.media-amazon.com/images/I/415SsMvOnqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZTM9RQ-de HP Tango X Smart Home Drucker HP Instant Ink WLAN...'
 sku: 'B07GZTM9RQ-de'
 tags: [  ]

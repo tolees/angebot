@@ -5,7 +5,7 @@ date: 2020-02-21 04:46:58
 image: 'https://m.media-amazon.com/images/I/51xaF5xH+8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LY0UFB5-de The Accountant'
 sku: 'B01LY0UFB5-de'
 tags: [  ]

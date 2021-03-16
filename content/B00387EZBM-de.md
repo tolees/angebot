@@ -5,7 +5,7 @@ date: 2020-10-02 09:06:24
 image: 'https://m.media-amazon.com/images/I/313gQ9kWqyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00387EZBM-de Bosch BBZ154HF HEPA Filter'
 sku: 'B00387EZBM-de'
 tags: [  ]

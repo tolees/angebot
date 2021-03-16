@@ -5,7 +5,7 @@ date: 2020-05-13 06:49:45
 image: 'https://m.media-amazon.com/images/I/41gIbZ25SFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBBSY33-de Emporio Armani Herren-Schildarmband Edelstahl EGS2660040'
 sku: 'B07VBBSY33-de'
 tags: [  ]

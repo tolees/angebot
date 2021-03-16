@@ -5,7 +5,7 @@ date: 2020-10-08 19:43:02
 image: 'https://m.media-amazon.com/images/I/413JVJVC0sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F9S81KY-de Kleidertasche Pack-It Original Garment Folder M I...'
 sku: 'B00F9S81KY-de'
 tags: [  ]

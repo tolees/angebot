@@ -5,7 +5,7 @@ date: 2020-03-10 04:44:47
 image: 'https://m.media-amazon.com/images/I/41StjFf7xJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D8QQY9O-de Under Armour Herren Performance Poloshirt Grau carbon...'
 sku: 'B00D8QQY9O-de'
 tags: [  ]

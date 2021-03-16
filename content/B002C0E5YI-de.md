@@ -5,7 +5,7 @@ date: 2020-10-06 03:18:22
 image: 'https://m.media-amazon.com/images/I/31tle0kdhhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002C0E5YI-de Bosch Betonbohrer SDS-Quick Ø 6 mm'
 sku: 'B002C0E5YI-de'
 tags: [  ]

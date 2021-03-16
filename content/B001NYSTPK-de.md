@@ -5,7 +5,7 @@ date: 2020-04-11 08:10:59
 image: 'https://m.media-amazon.com/images/I/41nlY9-b4xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001NYSTPK-de KS Tools 917.1217 1/2" CLASSIC Sechskant-Stecknuss 17mm'
 sku: 'B001NYSTPK-de'
 tags: [  ]

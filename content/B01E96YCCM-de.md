@@ -5,7 +5,7 @@ date: 2020-03-15 04:44:48
 image: 'https://m.media-amazon.com/images/I/41uTh6OKppL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E96YCCM-de UGG Female Mini Bailey Bow II Classic Boot Black 8 UK'
 sku: 'B01E96YCCM-de'
 tags: [  ]

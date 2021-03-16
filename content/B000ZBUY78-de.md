@@ -5,7 +5,7 @@ date: 2020-03-13 16:53:45
 image: 'https://m.media-amazon.com/images/I/41c6J6phvQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000ZBUY78-de Seiko Damenuhr Analog Automatisch mit Edelstahlarmband –...'
 sku: 'B000ZBUY78-de'
 tags: [  ]

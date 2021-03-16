@@ -5,7 +5,7 @@ date: 2020-02-12 10:44:05
 image: 'https://m.media-amazon.com/images/I/31ejoS2ihZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L19P0YE-de TomTom Touch Wechselarmband - Himmelblau Größe S geeignet...'
 sku: 'B01L19P0YE-de'
 tags: [  ]

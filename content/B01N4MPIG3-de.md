@@ -5,7 +5,7 @@ date: 2020-08-28 00:02:26
 image: 'https://m.media-amazon.com/images/I/51OTYMI--0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4MPIG3-de Grsta Magnetisches Armband - Personalisierte Geschenke für...'
 sku: 'B01N4MPIG3-de'
 tags: [  ]

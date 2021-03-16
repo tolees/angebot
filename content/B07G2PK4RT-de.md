@@ -5,7 +5,7 @@ date: 2020-10-03 19:08:14
 image: 'https://m.media-amazon.com/images/I/61ujXl21ALL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G2PK4RT-de Dionysus'
 sku: 'B07G2PK4RT-de'
 tags: [  ]

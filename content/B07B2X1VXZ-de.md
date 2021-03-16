@@ -5,7 +5,7 @@ date: 2020-01-15 23:08:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/413OXSAA5QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B2X1VXZ-de SAGE SES875 the Barista Express Siebträger mit Manometer-...'
 sku: 'B07B2X1VXZ-de'
 tags: [  ]

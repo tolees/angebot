@@ -5,7 +5,7 @@ date: 2020-01-20 12:08:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31DIfHkOwJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H2T0FMA-de HEAD Herren Boxer Shorts Basic 2er Pack mehrfarbig...'
 sku: 'B00H2T0FMA-de'
 tags: [  ]

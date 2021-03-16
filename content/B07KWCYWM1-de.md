@@ -5,7 +5,7 @@ date: 2020-03-15 04:44:58
 image: 'https://m.media-amazon.com/images/I/41dfNiK1IKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWCYWM1-de Gardena Textilschlauch Liano Set 30m: flexibler und...'
 sku: 'B07KWCYWM1-de'
 tags: [  ]

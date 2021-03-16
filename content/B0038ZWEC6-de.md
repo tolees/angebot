@@ -5,7 +5,7 @@ date: 2020-01-22 01:17:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Iy0jlfzPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0038ZWEC6-de fischertechnik - 508775 ADVANCED Super Fun Park...'
 sku: 'B0038ZWEC6-de'
 tags: [  ]

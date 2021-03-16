@@ -5,7 +5,7 @@ date: 2020-02-21 11:48:44
 image: 'https://m.media-amazon.com/images/I/51dipu5KeqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PKBF35M-de Ein Gauner & Gentleman [Blu-ray]'
 sku: 'B07PKBF35M-de'
 tags: [  ]

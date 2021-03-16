@@ -5,7 +5,7 @@ date: 2020-05-31 14:37:14
 image: 'https://m.media-amazon.com/images/I/41fzbioazqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M2JKABQ-de devolo Home Control Heizkörperthermostat Funk...'
 sku: 'B00M2JKABQ-de'
 tags: [  ]

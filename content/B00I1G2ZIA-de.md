@@ -5,7 +5,7 @@ date: 2020-03-10 04:44:31
 image: 'https://m.media-amazon.com/images/I/314TGaMWvkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I1G2ZIA-de Jil Sander Evergreen femme/woman Eau de Toilette...'
 sku: 'B00I1G2ZIA-de'
 tags: [  ]

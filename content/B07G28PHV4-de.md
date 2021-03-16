@@ -5,7 +5,7 @@ date: 2021-03-09 00:47:35
 image: 'https://m.media-amazon.com/images/I/51ywZGpmyqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G28PHV4-de Universal Music Vertrieb - A Division of Universal Music...'
 sku: 'B07G28PHV4-de'
 tags: [ 'universal music vertrieb - a division of universal music gmbh', ]

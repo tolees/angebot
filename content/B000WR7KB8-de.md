@@ -5,7 +5,7 @@ date: 2020-04-20 06:23:54
 image: 'https://m.media-amazon.com/images/I/31zeK5n4EqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000WR7KB8-de Villeroy & Boch Piemont Tafelbesteck für bis zu 6 Personen...'
 sku: 'B000WR7KB8-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-20 04:41:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31q3moZCOdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017JTHLNS-de SELECTED HOMME Herren SLHSTRAIGHT ST PANTS NOOS Hose Grau...'
 sku: 'B017JTHLNS-de'
 tags: [  ]

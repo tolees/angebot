@@ -5,7 +5,7 @@ date: 2020-05-11 16:53:47
 image: 'https://m.media-amazon.com/images/I/41idgVm79BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HB6Z22G-de V-Kids Watch by Vodafone - Smartwatch mit GPS-Tracker und...'
 sku: 'B07HB6Z22G-de'
 tags: [  ]

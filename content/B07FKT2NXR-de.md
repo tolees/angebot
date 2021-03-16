@@ -5,7 +5,7 @@ date: 2020-09-29 08:42:48
 image: 'https://m.media-amazon.com/images/I/41Ffaiwx6VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKT2NXR-de Güde 02882 Automatik Schlauchtrommel 15M 12 Bar max....'
 sku: 'B07FKT2NXR-de'
 tags: [  ]

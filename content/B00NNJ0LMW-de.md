@@ -5,7 +5,7 @@ date: 2020-09-24 09:46:59
 image: 'https://m.media-amazon.com/images/I/41N21XU+8mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NNJ0LMW-de LED Lenser F1R high Performance Line F-Serie 1x 18650 Li-...'
 sku: 'B00NNJ0LMW-de'
 tags: [  ]

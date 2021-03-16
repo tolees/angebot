@@ -5,7 +5,7 @@ date: 2020-08-19 11:19:15
 image: 'https://m.media-amazon.com/images/I/31fnefUu3RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MH96GQ-de Nintendo Gameboy Thermobecher Edelstahl Mehrfarbig 9 x 9 x...'
 sku: 'B079MH96GQ-de'
 tags: [  ]

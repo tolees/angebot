@@ -5,7 +5,7 @@ date: 2020-03-04 11:44:05
 image: 'https://m.media-amazon.com/images/I/413rY8EM0oL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0198KU8PY-de Funko 024563 S1 No Actionfigur One Piece: Portgas D. Ace...'
 sku: 'B0198KU8PY-de'
 tags: [  ]

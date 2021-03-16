@@ -5,7 +5,7 @@ date: 2020-01-28 08:42:09
 image: 'https://m.media-amazon.com/images/I/316RHHT72zL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H2JVQP9-de Omars Powerbank 10000mAh Externer Akku 3 Ausgänge 2 USB-A...'
 sku: 'B07H2JVQP9-de'
 tags: [  ]

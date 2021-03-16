@@ -5,7 +5,7 @@ date: 2020-02-21 04:48:15
 image: 'https://m.media-amazon.com/images/I/51xoxcWwTNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y5ZN8SP-de Citizen Herren Datum klassisch Solar Uhr mit Titan Armband...'
 sku: 'B06Y5ZN8SP-de'
 tags: [  ]

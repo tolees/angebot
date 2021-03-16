@@ -5,7 +5,7 @@ date: 2020-09-19 14:26:57
 image: 'https://m.media-amazon.com/images/I/31T-9r17UhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0868WNHR5-de Lenovo Chromebook S340T Laptop 35 6 cm 14 Zoll 1920x1080...'
 sku: 'B0868WNHR5-de'
 tags: [  ]

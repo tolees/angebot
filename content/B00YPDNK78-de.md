@@ -5,7 +5,7 @@ date: 2020-09-13 18:50:56
 image: 'https://m.media-amazon.com/images/I/41bRhojn-bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YPDNK78-de Einhell Trockenbauschleifer TC-DW 225 600 W max. 1500...'
 sku: 'B00YPDNK78-de'
 tags: [  ]

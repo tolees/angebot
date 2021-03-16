@@ -5,7 +5,7 @@ date: 2020-02-18 07:38:18
 image: 'https://m.media-amazon.com/images/I/41DZMRAWSnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5FCQBR-de HP ENVY x360 13-ag0005ng Touchdisplay 13 3 Zoll / Full HD...'
 sku: 'B07D5FCQBR-de'
 tags: [  ]

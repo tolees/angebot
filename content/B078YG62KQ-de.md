@@ -5,7 +5,7 @@ date: 2020-05-30 14:55:48
 image: 'https://m.media-amazon.com/images/I/41fYAUJQ8OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078YG62KQ-de Philips 996596003606 Original Fernbedienung für 32PFS5362...'
 sku: 'B078YG62KQ-de'
 tags: [  ]

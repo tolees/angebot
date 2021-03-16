@@ -5,7 +5,7 @@ date: 2020-03-04 11:44:14
 image: 'https://m.media-amazon.com/images/I/416x7fC4StL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMLP1T7-de Napapijri Herren Aric Jacke Schwarz Black 041...'
 sku: 'B07MMLP1T7-de'
 tags: [  ]

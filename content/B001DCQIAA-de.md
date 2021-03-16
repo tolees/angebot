@@ -5,7 +5,7 @@ date: 2020-09-24 19:56:00
 image: 'https://m.media-amazon.com/images/I/41Id99+TIZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001DCQIAA-de Sinfonien 1-4 Karajan Sinfonien-Edition'
 sku: 'B001DCQIAA-de'
 tags: [  ]

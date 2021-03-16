@@ -5,7 +5,7 @@ date: 2020-04-07 13:22:27
 image: 'https://m.media-amazon.com/images/I/512z6B-bYRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLS11KJ-de Playmobil 70119 Spirit - Riding Free Reitplatz mit Lucky &...'
 sku: 'B07JLS11KJ-de'
 tags: [  ]

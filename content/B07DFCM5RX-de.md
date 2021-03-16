@@ -5,7 +5,7 @@ date: 2020-04-07 13:08:30
 image: 'https://m.media-amazon.com/images/I/51w5bx7anNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFCM5RX-de Funko B07DFCM5RX Marvel Studios 10: Iron Man Chrome POP...'
 sku: 'B07DFCM5RX-de'
 tags: [  ]

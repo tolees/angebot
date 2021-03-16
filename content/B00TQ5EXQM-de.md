@@ -5,7 +5,7 @@ date: 2020-01-05 06:13:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BPum5wg3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TQ5EXQM-de Funko 5859 Ron Weasley POP Vinyl Harry Potter S1 Multi'
 sku: 'B00TQ5EXQM-de'
 tags: [  ]

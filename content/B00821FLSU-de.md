@@ -5,7 +5,7 @@ date: 2020-01-31 05:19:56
 image: 'https://m.media-amazon.com/images/I/31fyiq++b8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00821FLSU-de Ubbi 10006 Stahl Windeleimer grau'
 sku: 'B00821FLSU-de'
 tags: [  ]

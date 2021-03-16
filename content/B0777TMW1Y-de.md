@@ -5,7 +5,7 @@ date: 2020-04-17 06:09:55
 image: 'https://m.media-amazon.com/images/I/31FPh32NaqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0777TMW1Y-de Arlo Pro2 Überwachungskamera & Alarmanlage 1080p HD 3er...'
 sku: 'B0777TMW1Y-de'
 tags: [  ]

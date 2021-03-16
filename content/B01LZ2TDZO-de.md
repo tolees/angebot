@@ -5,7 +5,7 @@ date: 2020-03-10 14:29:55
 image: 'https://m.media-amazon.com/images/I/51CUeVUGfPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZ2TDZO-de Gigabyte GeForce GTX 1060 GV-N1060WF2OC-6GDGrafikkarte...'
 sku: 'B01LZ2TDZO-de'
 tags: [  ]

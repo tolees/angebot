@@ -5,7 +5,7 @@ date: 2020-02-01 22:43:28
 image: 'https://m.media-amazon.com/images/I/41XfaWQwjCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y5PSVXK-de Smartwatch Amazfit GTR 42mm/A1910 42 Starry Black Xiaomi'
 sku: 'B07Y5PSVXK-de'
 tags: [  ]

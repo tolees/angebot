@@ -5,7 +5,7 @@ date: 2020-04-18 00:41:17
 image: 'https://m.media-amazon.com/images/I/518LOIg8MdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQTKZCJ-de Der Klavierspieler vom Gare du Nord'
 sku: 'B07SQTKZCJ-de'
 tags: [  ]

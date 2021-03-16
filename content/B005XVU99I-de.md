@@ -5,7 +5,7 @@ date: 2020-01-31 03:49:35
 image: 'https://m.media-amazon.com/images/I/41oijDqcH6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005XVU99I-de Bosch S4005 Autobatterie Starter 60Ah 12V 540A'
 sku: 'B005XVU99I-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-01 05:52:55
 image: 'https://m.media-amazon.com/images/I/31QLv+sgqlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007UZPP94-de Lacoste Herren Sport Poloshirt L1230-00 Einfarbig Gr. XX-...'
 sku: 'B007UZPP94-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-25 16:06:22
 image: 'https://m.media-amazon.com/images/I/41Zki2NXnKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YNHK2EU-de Castrol POWER 1 2T 2-Takt Motorrad Motorenöl 1L'
 sku: 'B00YNHK2EU-de'
 tags: [  ]

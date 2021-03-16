@@ -5,7 +5,7 @@ date: 2020-08-04 01:13:26
 image: 'https://m.media-amazon.com/images/I/519TI6+jlnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089SZNY4P-de BRIKSMAX Led Beleuchtungsset für 1985 Audi Sport Quattro...'
 sku: 'B089SZNY4P-de'
 tags: [  ]

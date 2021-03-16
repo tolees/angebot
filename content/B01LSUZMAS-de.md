@@ -5,7 +5,7 @@ date: 2020-01-22 04:33:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AfkHHdyCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LSUZMAS-de Apple iPhone 7 128 GB - Gold'
 sku: 'B01LSUZMAS-de'
 tags: [  ]

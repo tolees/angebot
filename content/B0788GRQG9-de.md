@@ -5,7 +5,7 @@ date: 2020-10-09 00:03:59
 image: 'https://m.media-amazon.com/images/I/4147CQ9ZktL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0788GRQG9-de Unold 48165 PANCAKE-MAKER American Kunststoff...'
 sku: 'B0788GRQG9-de'
 tags: [  ]

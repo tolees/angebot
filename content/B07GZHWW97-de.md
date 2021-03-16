@@ -5,7 +5,7 @@ date: 2020-09-02 06:13:42
 image: 'https://m.media-amazon.com/images/I/51dXw2qAYxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZHWW97-de TechniSat DIGITRADIO 2 S - Tragbares DAB Stereo-Radio mit...'
 sku: 'B07GZHWW97-de'
 tags: [  ]

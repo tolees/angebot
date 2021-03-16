@@ -5,7 +5,7 @@ date: 2020-04-03 12:58:59
 image: 'https://m.media-amazon.com/images/I/51qdbx8HNcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KKCWR8V-de NSSZ Teddybär 6 Hand Büro Puppe Ornamente Puppe Spielzeug'
 sku: 'B07KKCWR8V-de'
 tags: [  ]

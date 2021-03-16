@@ -5,7 +5,7 @@ date: 2020-04-15 07:38:05
 image: 'https://m.media-amazon.com/images/I/31jFvDK+OsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RQ964KR-de Funko 40652 IT Pennywise Sammelbares Spielzeug Mehrfarben'
 sku: 'B07RQ964KR-de'
 tags: [  ]

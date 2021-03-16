@@ -5,7 +5,7 @@ date: 2020-07-24 10:02:47
 image: 'https://m.media-amazon.com/images/I/41yUCZyS8qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006TYY9P8-de Krups FDD95D Professionelles Waffeleisen |...'
 sku: 'B006TYY9P8-de'
 tags: [  ]

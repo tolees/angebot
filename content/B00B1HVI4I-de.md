@@ -5,7 +5,7 @@ date: 2020-02-06 17:32:52
 image: 'https://m.media-amazon.com/images/I/4121yzn9Z2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B1HVI4I-de Belkin Dual KfZ-Ladegerät 2.1A 10 Watt geeignet für iPhone...'
 sku: 'B00B1HVI4I-de'
 tags: [  ]

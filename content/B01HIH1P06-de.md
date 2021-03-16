@@ -5,7 +5,7 @@ date: 2020-01-07 08:18:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Iw5Ypki1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HIH1P06-de HP Officejet 3831 Multifunktionsdrucker Instant Ink...'
 sku: 'B01HIH1P06-de'
 tags: [  ]

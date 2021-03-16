@@ -5,7 +5,7 @@ date: 2020-04-29 06:29:27
 image: 'https://m.media-amazon.com/images/I/41rY-TRkzrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHDDDHJ-de HUAWEI P20 Pro Smartphone 15 5 cm 6 1 Zoll 40/20/8 MP...'
 sku: 'B07BHDDDHJ-de'
 tags: [  ]

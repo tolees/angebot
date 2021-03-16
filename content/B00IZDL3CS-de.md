@@ -5,7 +5,7 @@ date: 2020-04-15 00:19:32
 image: 'https://m.media-amazon.com/images/I/41WLt6Iw9+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IZDL3CS-de B. toys by Battat – B. Pet Vet – Tierarztkoffer mit Arzt...'
 sku: 'B00IZDL3CS-de'
 tags: [  ]

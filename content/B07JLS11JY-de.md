@@ -5,7 +5,7 @@ date: 2020-04-18 00:25:44
 image: 'https://m.media-amazon.com/images/I/51egE3vqPoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLS11JY-de Playmobil 70137 Country Kleintiere im Freigehege bunt'
 sku: 'B07JLS11JY-de'
 tags: [  ]

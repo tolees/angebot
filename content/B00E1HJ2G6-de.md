@@ -5,7 +5,7 @@ date: 2020-09-21 15:07:14
 image: 'https://m.media-amazon.com/images/I/51IdZ5Qf03L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E1HJ2G6-de Diesel Herren-Uhr DZ4297'
 sku: 'B00E1HJ2G6-de'
 tags: [  ]

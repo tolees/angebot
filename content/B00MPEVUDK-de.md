@@ -5,7 +5,7 @@ date: 2020-01-28 10:23:00
 image: 'https://m.media-amazon.com/images/I/31TH4ZBa7XL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MPEVUDK-de Philips Disney Frozen Die Eiskönigin Olaf LED Taschenlampe...'
 sku: 'B00MPEVUDK-de'
 tags: [  ]

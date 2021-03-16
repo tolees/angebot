@@ -5,7 +5,7 @@ date: 2020-10-08 11:20:32
 image: 'https://m.media-amazon.com/images/I/31ypstkvbML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDPHFQW-de Calvin Klein Damen Bottom Pant Jogger Sporthose Grau Grey...'
 sku: 'B06XDPHFQW-de'
 tags: [  ]

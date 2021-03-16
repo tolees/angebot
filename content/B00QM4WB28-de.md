@@ -5,7 +5,7 @@ date: 2020-01-28 10:16:43
 image: 'https://m.media-amazon.com/images/I/51pCyX30MtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QM4WB28-de Ravensburger 29835 - Mini Mandala-Designer Frozen'
 sku: 'B00QM4WB28-de'
 tags: [  ]

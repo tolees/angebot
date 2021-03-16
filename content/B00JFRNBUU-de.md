@@ -5,7 +5,7 @@ date: 2020-04-14 08:18:55
 image: 'https://m.media-amazon.com/images/I/31bCofRIwCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JFRNBUU-de Kitchen Craft Kuchenbox Aufschrift "Cake" kuppelförmig aus...'
 sku: 'B00JFRNBUU-de'
 tags: [  ]

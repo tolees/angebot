@@ -5,7 +5,7 @@ date: 2020-08-20 06:16:01
 image: 'https://m.media-amazon.com/images/I/41u5bWn9+jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2JNKSD-de EYSAFT Babyphone mit Kamera Video Baby Monitor 3.2 Zoll...'
 sku: 'B07X2JNKSD-de'
 tags: [  ]

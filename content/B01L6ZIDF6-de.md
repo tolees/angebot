@@ -5,7 +5,7 @@ date: 2020-04-10 00:08:21
 image: 'https://m.media-amazon.com/images/I/419n-yhOADL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L6ZIDF6-de VHOME Meerjungfrau Decke Geschenke Beste Freundin -...'
 sku: 'B01L6ZIDF6-de'
 tags: [  ]

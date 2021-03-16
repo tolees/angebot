@@ -5,7 +5,7 @@ date: 2020-04-14 16:24:02
 image: 'https://m.media-amazon.com/images/I/51f9z8v6doL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KBTTCNG-de Lightailing Licht-Set Für Star Wars Todesstern Modell -...'
 sku: 'B07KBTTCNG-de'
 tags: [  ]

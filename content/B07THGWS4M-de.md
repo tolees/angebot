@@ -5,7 +5,7 @@ date: 2020-03-03 12:06:04
 image: 'https://m.media-amazon.com/images/I/413dfJDqETL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07THGWS4M-de LIGHTAILING Licht-Set Für Technic Porsche 911 RSR Modell -...'
 sku: 'B07THGWS4M-de'
 tags: [  ]

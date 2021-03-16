@@ -5,7 +5,7 @@ date: 2020-04-18 18:34:55
 image: 'https://m.media-amazon.com/images/I/51Tq7Vg8siL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004TA0AUW-de Transcend Extreme-Speed Micro SDHC 8GB Class 10...'
 sku: 'B004TA0AUW-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-03 04:02:42
 image: 'https://m.media-amazon.com/images/I/4178Tj3AzfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083GQC9WV-de Kepae Vitrinen für Ideas 21319 Acryl Box Display Vitrine...'
 sku: 'B083GQC9WV-de'
 tags: [  ]

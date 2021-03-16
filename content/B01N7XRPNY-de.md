@@ -5,7 +5,7 @@ date: 2020-04-16 17:42:23
 image: 'https://m.media-amazon.com/images/I/51p5CsxRXEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7XRPNY-de Revell Build & Play - Star Wars First Order Heavy Assault...'
 sku: 'B01N7XRPNY-de'
 tags: [  ]

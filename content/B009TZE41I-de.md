@@ -5,7 +5,7 @@ date: 2020-08-27 03:41:33
 image: 'https://m.media-amazon.com/images/I/31IVZCTawLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009TZE41I-de D-Link GO-SW-5G 5-Port Gigabit Easy Desktop Switch...'
 sku: 'B009TZE41I-de'
 tags: [  ]

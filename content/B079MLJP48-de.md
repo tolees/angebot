@@ -5,7 +5,7 @@ date: 2020-04-02 04:58:19
 image: 'https://m.media-amazon.com/images/I/5172IuxssYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MLJP48-de PLAYMOBIL Magic 9472 Prachtvoller Phönix mit...'
 sku: 'B079MLJP48-de'
 tags: [  ]

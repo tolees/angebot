@@ -5,7 +5,7 @@ date: 2020-09-24 19:56:49
 image: 'https://m.media-amazon.com/images/I/41w0rb3x4bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDQWK9Q-de Coma Ecliptic Live'
 sku: 'B06XDQWK9Q-de'
 tags: [  ]

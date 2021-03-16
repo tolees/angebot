@@ -5,7 +5,7 @@ date: 2020-01-01 22:49:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41VtOX1o8NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014HOL1TI-de Jumbo Spiele 12163 12163-Rubik s Cube-3x3'
 sku: 'B014HOL1TI-de'
 tags: [  ]

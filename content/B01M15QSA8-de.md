@@ -5,7 +5,7 @@ date: 2020-01-04 22:19:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41oFen%2BXpnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M15QSA8-de Original Einhell Starter Kit Akku und Ladegerät Power...'
 sku: 'B01M15QSA8-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-09 04:34:41
 image: 'https://m.media-amazon.com/images/I/31Pj4bB19wL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018QYP3OY-de Xoro HRK 7660 HD Receiver für digitales Kabelfernsehen...'
 sku: 'B018QYP3OY-de'
 tags: [  ]

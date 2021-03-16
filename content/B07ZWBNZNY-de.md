@@ -5,7 +5,7 @@ date: 2020-03-03 04:55:20
 image: 'https://m.media-amazon.com/images/I/412dGxuU-VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZWBNZNY-de FBI - Staffel Eins [5 DVDs]'
 sku: 'B07ZWBNZNY-de'
 tags: [  ]

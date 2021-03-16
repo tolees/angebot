@@ -5,7 +5,7 @@ date: 2020-06-11 05:20:49
 image: 'https://m.media-amazon.com/images/I/51q9itOsH1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCMMRX5-de Hisense H55U7B 138 cm 55 Zoll Fernseher 4K Ultra HD HDR...'
 sku: 'B07RCMMRX5-de'
 tags: [  ]

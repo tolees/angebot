@@ -5,7 +5,7 @@ date: 2020-03-25 18:36:19
 image: 'https://m.media-amazon.com/images/I/41mKmLq9mbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHZ461C-de Philips 55PUS7502/12 139cm 55 Zoll LED-Fernseher Ultra-HD...'
 sku: 'B06XHZ461C-de'
 tags: [  ]

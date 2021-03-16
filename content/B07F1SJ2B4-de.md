@@ -5,7 +5,7 @@ date: 2020-04-04 19:37:08
 image: 'https://m.media-amazon.com/images/I/31P96Wkdw9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F1SJ2B4-de Levi s Herren Slim Jeans 511 SLIM FIT Schwarz Mineral...'
 sku: 'B07F1SJ2B4-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 17:43:51
 image: 'https://m.media-amazon.com/images/I/61Q1XHMB7WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LY44LRZ-de PLAYMOBIL Ghostbusters 9222 Slimer mit Hot Dog Stand Ab 6...'
 sku: 'B01LY44LRZ-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 21:57:35
 image: 'https://m.media-amazon.com/images/I/31S8lFLim0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQDD43K-de LaCie MOBILE DRIVE Moon Silver tragbare externe Festplatte...'
 sku: 'B07MQDD43K-de'
 tags: [  ]

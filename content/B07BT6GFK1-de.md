@@ -5,7 +5,7 @@ date: 2020-04-14 16:49:41
 image: 'https://m.media-amazon.com/images/I/413ENCMabJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BT6GFK1-de ZIMZIM Multi-Tool Taschenmesser 5 in 1 Multifunktions-...'
 sku: 'B07BT6GFK1-de'
 tags: [  ]

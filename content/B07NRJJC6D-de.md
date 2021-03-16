@@ -5,7 +5,7 @@ date: 2020-04-18 00:33:21
 image: 'https://m.media-amazon.com/images/I/51r0q0OFNBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRJJC6D-de DERMATEST: SEHR GUT - TRUE NATURE® [1000 Stück] Zero Waste...'
 sku: 'B07NRJJC6D-de'
 tags: [  ]

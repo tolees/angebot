@@ -5,7 +5,7 @@ date: 2020-10-11 23:53:53
 image: 'https://m.media-amazon.com/images/I/31UHtxOx-yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083G8G9GM-de Samsung Galaxy S10 Lite Android Smartphone ohne Vertrag...'
 sku: 'B083G8G9GM-de'
 tags: [  ]

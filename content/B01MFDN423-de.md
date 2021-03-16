@@ -5,7 +5,7 @@ date: 2020-02-19 05:04:31
 image: 'https://m.media-amazon.com/images/I/410RMwq16DL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MFDN423-de hummel Unisex-Erwachsene Slimmer Stadil Tonal High Top...'
 sku: 'B01MFDN423-de'
 tags: [  ]

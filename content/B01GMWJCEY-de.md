@@ -5,7 +5,7 @@ date: 2020-04-09 15:53:30
 image: 'https://m.media-amazon.com/images/I/41b2a6sSalL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GMWJCEY-de Cremefarbener Segeltuch-Hundespielzeugkorb - Qualitätskorb...'
 sku: 'B01GMWJCEY-de'
 tags: [  ]

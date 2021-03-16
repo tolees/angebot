@@ -5,7 +5,7 @@ date: 2020-04-01 08:51:10
 image: 'https://m.media-amazon.com/images/I/51ZJ7PZ6aQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XYTN1VB-de SanDisk Extreme - 64GB MicroSDXC-Speicherkarte für Handys...'
 sku: 'B06XYTN1VB-de'
 tags: [  ]

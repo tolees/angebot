@@ -5,7 +5,7 @@ date: 2020-02-22 12:13:27
 image: 'https://m.media-amazon.com/images/I/51YtnboIq0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6FPTTZ-de Playmobil 70126 1.2.3 Kipplaster ab 18 Monaten bunt one Size'
 sku: 'B07P6FPTTZ-de'
 tags: [  ]

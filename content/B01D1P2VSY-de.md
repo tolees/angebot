@@ -5,7 +5,7 @@ date: 2020-06-04 22:19:52
 image: 'https://m.media-amazon.com/images/I/41dBt9hH7BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D1P2VSY-de Barilla Hartweizen Pasta Spaghettini n. 3 1er Pack 1 x 500 g'
 sku: 'B01D1P2VSY-de'
 tags: [  ]

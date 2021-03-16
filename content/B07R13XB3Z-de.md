@@ -5,7 +5,7 @@ date: 2020-07-13 02:51:58
 image: 'https://m.media-amazon.com/images/I/518zKmBy+fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R13XB3Z-de Badebomben Geschenkset 12 x 86g STNTUS Badekugeln...'
 sku: 'B07R13XB3Z-de'
 tags: [  ]

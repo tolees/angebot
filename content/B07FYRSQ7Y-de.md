@@ -5,7 +5,7 @@ date: 2020-04-15 23:45:07
 image: 'https://m.media-amazon.com/images/I/4110WRxtNGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYRSQ7Y-de Microsoft Office 2019 Home & Business multilingual | 1 PC...'
 sku: 'B07FYRSQ7Y-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-12 07:46:37
 image: 'https://m.media-amazon.com/images/I/51RqXcn7ZeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RRXXPMZ-de Ultimate Ears Wonderboom 2 Tragbarer Bluetooth-...'
 sku: 'B07RRXXPMZ-de'
 tags: [  ]

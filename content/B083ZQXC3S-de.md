@@ -5,7 +5,7 @@ date: 2020-04-07 21:34:34
 image: 'https://m.media-amazon.com/images/I/41RFfJJO5yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083ZQXC3S-de Dittzz Acryl Vitrine Staubdicht Schaukasten Display Case...'
 sku: 'B083ZQXC3S-de'
 tags: [  ]

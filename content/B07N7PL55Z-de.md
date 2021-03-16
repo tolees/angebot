@@ -5,7 +5,7 @@ date: 2020-01-21 09:23:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41J4efLrciL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N7PL55Z-de L-RUN Damen Wasserschuhe Herren Aqua Socken Leichtes...'
 sku: 'B07N7PL55Z-de'
 tags: [  ]

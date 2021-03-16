@@ -5,7 +5,7 @@ date: 2020-01-03 11:13:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41kVcK7ZHLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0082AYFH4-de Panama Jack Felia Igloo Damen Warm gefüttert Biker Boots...'
 sku: 'B0082AYFH4-de'
 tags: [  ]

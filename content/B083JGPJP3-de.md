@@ -5,7 +5,7 @@ date: 2020-01-28 10:25:44
 image: 'https://m.media-amazon.com/images/I/41ENct9E9rL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083JGPJP3-de IBTOM CASTLE Prinzessin Mädchen Anna Kostüm Eiskönigin...'
 sku: 'B083JGPJP3-de'
 tags: [  ]

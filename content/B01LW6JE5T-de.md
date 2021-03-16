@@ -5,7 +5,7 @@ date: 2020-01-27 09:46:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ndQF9dtKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LW6JE5T-de DISNEY BADETUCH FROZEN DIE EISKÖNIGIN VÖLLIG UNVERFROREN...'
 sku: 'B01LW6JE5T-de'
 tags: [  ]

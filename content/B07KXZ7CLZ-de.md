@@ -5,7 +5,7 @@ date: 2020-03-31 16:41:04
 image: 'https://m.media-amazon.com/images/I/31Gu1ga5ePL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXZ7CLZ-de AMD Ryzen 7 Prozessor Schwarz Ryzen 7 2700 Max'
 sku: 'B07KXZ7CLZ-de'
 tags: [  ]

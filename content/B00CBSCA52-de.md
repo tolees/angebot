@@ -5,7 +5,7 @@ date: 2020-01-10 14:04:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41MFmqfCngL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CBSCA52-de ara München Gore Tex Damen Warm gefütterte Schneestiefel...'
 sku: 'B00CBSCA52-de'
 tags: [  ]

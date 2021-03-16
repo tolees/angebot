@@ -5,7 +5,7 @@ date: 2020-02-24 03:56:31
 image: 'https://m.media-amazon.com/images/I/51OKwt8x6VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M5KD8NL-de Funko 12784 Actionfigur "Guardians O/T Galaxy 2: Star-...'
 sku: 'B01M5KD8NL-de'
 tags: [  ]

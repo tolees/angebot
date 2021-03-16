@@ -5,7 +5,7 @@ date: 2020-09-25 09:37:55
 image: 'https://m.media-amazon.com/images/I/31wBXSeV4HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015QDYF2Y-de Colgate Komplett Ultra Weiß Zahnpasta 12er Pack 12 x 75 ml'
 sku: 'B015QDYF2Y-de'
 tags: [  ]

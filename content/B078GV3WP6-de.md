@@ -5,7 +5,7 @@ date: 2020-03-19 15:57:45
 image: 'https://m.media-amazon.com/images/I/31YktorbcRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078GV3WP6-de beyerdynamic professionelles FOX USB Mikrofon für...'
 sku: 'B078GV3WP6-de'
 tags: [  ]

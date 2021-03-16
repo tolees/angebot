@@ -5,7 +5,7 @@ date: 2020-01-23 13:16:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Mnag8ly-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GJ9CBKF-de riverso Herren Kapuzenpullover Kapuzensweater Hoodie...'
 sku: 'B07GJ9CBKF-de'
 tags: [  ]

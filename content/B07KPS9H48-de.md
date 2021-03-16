@@ -5,7 +5,7 @@ date: 2020-01-07 06:30:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41mrXWt5H3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPS9H48-de Funko 36666 POP Bobble: Avengers Endgame: Ant-Man...'
 sku: 'B07KPS9H48-de'
 tags: [  ]

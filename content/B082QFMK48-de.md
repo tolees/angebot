@@ -5,7 +5,7 @@ date: 2020-08-25 08:55:48
 image: 'https://m.media-amazon.com/images/I/41lwjc47-LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082QFMK48-de Predator XB273GXbmiiprzx Gaming G-SYNC Compatible 27 Zoll...'
 sku: 'B082QFMK48-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-18 13:48:50
 image: 'https://m.media-amazon.com/images/I/413v8gSyrSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DWN678B-de iMangoo Dash Ladegerät 5V 4A Dash Ladegerät Schnelladapter...'
 sku: 'B07DWN678B-de'
 tags: [  ]

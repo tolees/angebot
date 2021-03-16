@@ -5,7 +5,7 @@ date: 2020-04-14 16:38:50
 image: 'https://m.media-amazon.com/images/I/51H10pmDinL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072N8F1JJ-de roba Spielregal Rennfahrer Spielzeug- & Aufbewahrungs-...'
 sku: 'B072N8F1JJ-de'
 tags: [  ]

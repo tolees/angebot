@@ -5,7 +5,7 @@ date: 2020-04-17 23:29:43
 image: 'https://m.media-amazon.com/images/I/51klK6TlXIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000E8RB5K-de Der Patriot - Extended Version'
 sku: 'B000E8RB5K-de'
 tags: [  ]

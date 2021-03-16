@@ -5,7 +5,7 @@ date: 2020-02-16 20:05:35
 image: 'https://m.media-amazon.com/images/I/51Mc1ICXO9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFCBK7L-de Funko 33514 Marvel Studios 10: Groot Chrome POP Bobble Multi'
 sku: 'B07DFCBK7L-de'
 tags: [  ]

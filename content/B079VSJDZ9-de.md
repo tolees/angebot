@@ -5,7 +5,7 @@ date: 2020-04-18 00:15:13
 image: 'https://m.media-amazon.com/images/I/61zz4FIgZ8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079VSJDZ9-de Hasbro FurReal E0367EU4 - Kleiner Patient Zandi...'
 sku: 'B079VSJDZ9-de'
 tags: [  ]

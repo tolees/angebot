@@ -5,7 +5,7 @@ date: 2020-08-30 06:41:29
 image: 'https://m.media-amazon.com/images/I/61ZbpX3sE7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WVNB6N-de Paco Home Designer Teppich Kurzflor Wohnzimmer Vintage...'
 sku: 'B078WVNB6N-de'
 tags: [  ]

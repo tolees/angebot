@@ -5,7 +5,7 @@ date: 2020-08-19 22:39:49
 image: 'https://m.media-amazon.com/images/I/41xNk2nJAML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCFCMJZ-de Russell Hobbs Standmixer Glas Steel 2-in-1 inkl. To-Go-...'
 sku: 'B06XCFCMJZ-de'
 tags: [  ]

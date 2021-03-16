@@ -5,7 +5,7 @@ date: 2020-02-25 20:08:08
 image: 'https://m.media-amazon.com/images/I/31ZQrdGSn5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H8XQSDK-de Xian Ju Nachttischlampe Mit Bluetooth Lautsprecher...'
 sku: 'B07H8XQSDK-de'
 tags: [  ]

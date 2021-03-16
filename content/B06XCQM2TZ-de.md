@@ -5,7 +5,7 @@ date: 2020-02-06 18:44:02
 image: 'https://m.media-amazon.com/images/I/21XhMFlYP5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCQM2TZ-de Samsung HW-MS650 Soundbar Sound+ integrierter Subwoofer...'
 sku: 'B06XCQM2TZ-de'
 tags: [  ]

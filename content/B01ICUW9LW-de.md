@@ -5,7 +5,7 @@ date: 2020-09-26 09:02:48
 image: 'https://m.media-amazon.com/images/I/41iR6wppJfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ICUW9LW-de KLIM Chroma Gaming Tastatur QWERTZ DEUTSCH mit Kabel USB +...'
 sku: 'B01ICUW9LW-de'
 tags: [  ]

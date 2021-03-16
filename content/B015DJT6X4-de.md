@@ -5,7 +5,7 @@ date: 2020-05-11 15:29:35
 image: 'https://m.media-amazon.com/images/I/51zPtgWQqGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015DJT6X4-de Siemens EX645LYC1E iQ700 Kochfeld Elektro /...'
 sku: 'B015DJT6X4-de'
 tags: [  ]

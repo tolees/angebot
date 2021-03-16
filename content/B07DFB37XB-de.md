@@ -5,7 +5,7 @@ date: 2020-04-05 05:03:56
 image: 'https://m.media-amazon.com/images/I/416IR-phAjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFB37XB-de Funko 33923 Squarepants: Spongebob Xmas POP Vinylfigur Multi'
 sku: 'B07DFB37XB-de'
 tags: [  ]

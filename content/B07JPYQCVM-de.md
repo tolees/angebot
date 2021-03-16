@@ -5,7 +5,7 @@ date: 2020-04-18 20:02:45
 image: 'https://m.media-amazon.com/images/I/410-bgckZtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JPYQCVM-de Yoedge iPhone XR Hülle [Ultra Dünn] Schutzhülle Silikon...'
 sku: 'B07JPYQCVM-de'
 tags: [  ]

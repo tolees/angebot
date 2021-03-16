@@ -5,7 +5,7 @@ date: 2020-09-16 05:46:48
 image: 'https://m.media-amazon.com/images/I/41+MMM0OusL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AI2PDBU-de Bosch Akku Heckenschere AHS 55-20 LI 1 Akku 18 Volt System...'
 sku: 'B01AI2PDBU-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-29 14:55:08
 image: 'https://m.media-amazon.com/images/I/31KYxYdYOsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075F3FBTB-de Ledlenser P7 LED Allround Taschenlampe 450 Lumen 25...'
 sku: 'B075F3FBTB-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-07 14:06:41
 image: 'https://m.media-amazon.com/images/I/51GdoQLA9JL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QM21B5B-de Star Wars Jedi: Fallen Order - Deluxe Edition - [Xbox One]'
 sku: 'B07QM21B5B-de'
 tags: [  ]

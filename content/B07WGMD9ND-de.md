@@ -5,7 +5,7 @@ date: 2020-02-16 09:48:21
 image: 'https://m.media-amazon.com/images/I/51Ff9M2L2BL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WGMD9ND-de SEIKO Automatische Uhr SRPD53K1 blau Sport'
 sku: 'B07WGMD9ND-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-20 14:28:03
 image: 'https://m.media-amazon.com/images/I/41fmY6ml0PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y4YV3SK-de USB Stick 64GB MECO ELEVERDE 2-in-1 OTG Speicherstick...'
 sku: 'B07Y4YV3SK-de'
 tags: [  ]

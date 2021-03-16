@@ -5,7 +5,7 @@ date: 2020-04-17 00:16:00
 image: 'https://m.media-amazon.com/images/I/418npevfr5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V376HSG-de Homgeek Zerkleinerer Universalzerkleinerer 1.8L Edelstahl...'
 sku: 'B07V376HSG-de'
 tags: [  ]

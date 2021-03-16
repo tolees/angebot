@@ -5,7 +5,7 @@ date: 2020-09-08 08:12:15
 image: 'https://m.media-amazon.com/images/I/41LkZuLD8uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007PVAT62-de Invision TV Wandhalterung Ultrastarker Schwenkbare...'
 sku: 'B007PVAT62-de'
 tags: [  ]

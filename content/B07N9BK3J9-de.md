@@ -5,7 +5,7 @@ date: 2020-04-16 20:45:50
 image: 'https://m.media-amazon.com/images/I/318OvO0VvhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N9BK3J9-de JBL Live 500BT kabellose Over-Ear Kopfhörer - Bluetooth...'
 sku: 'B07N9BK3J9-de'
 tags: [  ]

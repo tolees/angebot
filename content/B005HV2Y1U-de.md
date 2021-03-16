@@ -5,7 +5,7 @@ date: 2020-04-06 11:14:25
 image: 'https://m.media-amazon.com/images/I/41D8zCcnirL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005HV2Y1U-de Crocs Baya Slide Unisex - Erwachsene Dusch- & Badeschuhe...'
 sku: 'B005HV2Y1U-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-29 13:17:25
 image: 'https://m.media-amazon.com/images/I/415Ef7dzmOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075LYDD7Z-de Apple iPhone X 64GB - Silber'
 sku: 'B075LYDD7Z-de'
 tags: [  ]

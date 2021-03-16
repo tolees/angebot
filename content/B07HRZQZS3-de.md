@@ -5,7 +5,7 @@ date: 2020-03-24 17:28:22
 image: 'https://m.media-amazon.com/images/I/41YxQz8A0HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HRZQZS3-de Nokia 7.1 2018 32GB Blau Dual-SIM Android 8 Smartphone mit...'
 sku: 'B07HRZQZS3-de'
 tags: [  ]

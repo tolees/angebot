@@ -5,7 +5,7 @@ date: 2020-09-18 09:20:06
 image: 'https://m.media-amazon.com/images/I/41CC7V95QsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FBT1TV3-de Skechers Women s Flex Appeal 3.0-first Insight Trainers...'
 sku: 'B07FBT1TV3-de'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 00:01:50
 image: 'https://m.media-amazon.com/images/I/31ePeMWY6gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VMFRDKQ-de Samsung Galaxy Buds SM-R170 I Kabellose Kopfhörer Silber I...'
 sku: 'B07VMFRDKQ-de'
 tags: [  ]

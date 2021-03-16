@@ -5,7 +5,7 @@ date: 2020-01-28 10:32:29
 image: 'https://m.media-amazon.com/images/I/41zGhaxWmYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083JGLPVC-de IBTOM CASTLE Rapunzel Kostüm Kinder Prinzessin Kleid...'
 sku: 'B083JGLPVC-de'
 tags: [  ]

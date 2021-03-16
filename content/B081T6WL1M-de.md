@@ -5,7 +5,7 @@ date: 2020-04-13 16:11:00
 image: 'https://m.media-amazon.com/images/I/31xHJVgdj7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081T6WL1M-de Lenovo IdeaPad S340 Laptop 39 6 cm 15 6 Zoll 1920x1080 FHD...'
 sku: 'B081T6WL1M-de'
 tags: [  ]

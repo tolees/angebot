@@ -5,7 +5,7 @@ date: 2020-02-19 05:04:40
 image: 'https://m.media-amazon.com/images/I/41cmckaUGtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CZJDS0C-de Superfit HAPPY 800293 Jungen Hohe Hausschuhe Blau Ocean 80...'
 sku: 'B01CZJDS0C-de'
 tags: [  ]

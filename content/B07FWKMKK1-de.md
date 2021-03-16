@@ -5,7 +5,7 @@ date: 2020-04-16 08:33:55
 image: 'https://m.media-amazon.com/images/I/41iWwbMvYxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FWKMKK1-de Mattel GFB55 - Disney Pixar Toy Story 4 Stunt...'
 sku: 'B07FWKMKK1-de'
 tags: [  ]

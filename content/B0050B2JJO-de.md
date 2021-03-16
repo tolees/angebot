@@ -5,7 +5,7 @@ date: 2020-01-16 09:04:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31OLWTt1jbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0050B2JJO-de Aigle Damen Aiglentine Langschaft Gummistiefel Schwarz...'
 sku: 'B0050B2JJO-de'
 tags: [  ]

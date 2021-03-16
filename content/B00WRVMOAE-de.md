@@ -5,7 +5,7 @@ date: 2020-10-04 21:07:57
 image: 'https://m.media-amazon.com/images/I/51tAjDepHAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WRVMOAE-de Der Alte - Collector s Box Volume 18 Folgen 281 - 295 [5...'
 sku: 'B00WRVMOAE-de'
 tags: [  ]

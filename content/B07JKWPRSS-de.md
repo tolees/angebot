@@ -5,7 +5,7 @@ date: 2020-01-08 15:08:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61Ug991L5hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKWPRSS-de Playmobil 70041 - Astrid mit Fluganzug und Nimmersatt'
 sku: 'B07JKWPRSS-de'
 tags: [  ]

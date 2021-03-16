@@ -5,7 +5,7 @@ date: 2020-10-04 08:58:59
 image: 'https://m.media-amazon.com/images/I/412KfIVyppL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8G1ZNZ-de Kara Harvey Damen-Armbanduhr Roségold Mesh in 36mm und...'
 sku: 'B07L8G1ZNZ-de'
 tags: [  ]

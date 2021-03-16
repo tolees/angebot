@@ -5,7 +5,7 @@ date: 2020-01-31 05:19:25
 image: 'https://m.media-amazon.com/images/I/31f0vHyBGgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07772LRRW-de Tommy Jeans Herren Original Jersey Kurzarm T-Shirt Schwarz...'
 sku: 'B07772LRRW-de'
 tags: [  ]

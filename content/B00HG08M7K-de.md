@@ -5,7 +5,7 @@ date: 2020-02-10 21:53:35
 image: 'https://m.media-amazon.com/images/I/41XwGUkt5TL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HG08M7K-de Fossil Damen Analog Quarz Uhr mit Edelstahl Armband ES3545'
 sku: 'B00HG08M7K-de'
 tags: [  ]

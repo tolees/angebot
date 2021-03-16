@@ -5,7 +5,7 @@ date: 2020-08-27 17:52:03
 image: 'https://m.media-amazon.com/images/I/419T3FKS7hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZ7Q1C8-de flintronic Herren Gürtel Leder Ratsche Automatik Gürtel...'
 sku: 'B07PZ7Q1C8-de'
 tags: [  ]

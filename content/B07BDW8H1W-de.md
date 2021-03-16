@@ -5,7 +5,7 @@ date: 2020-01-22 10:01:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51FyHoELI1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BDW8H1W-de Poopsie Surprise 555964E5C Pink Unicorn or Rainbow Unicorn...'
 sku: 'B07BDW8H1W-de'
 tags: [  ]
