@@ -28,12 +28,12 @@ Es gibt ein [Beats by Dr. Dre - Kabellose Beats Flex In-Ear Kopfhörer – Ap
 
 ℹ️:
 
-- Ganztägiger Komfort mit Flex-Form Kabel und vier unterschiedlichen Ohreinsätzen
 - Bedienelemente am Gerät für Musik, Anrufe und Sprachsteuerung
-- Bis zu 12 Std. Wiedergabe2
-- Integriertes Mikrofon mit Windgeräuschunterdrückung für verbesserte Sprachqualität
+- Ganztägiger Komfort mit Flex-Form Kabel und vier unterschiedlichen Ohreinsätzen
 - Magnetische In-Ear Kopfhörer mit automatischer Wiedergabe/Pause1
+- Integriertes Mikrofon mit Windgeräuschunterdrückung für verbesserte Sprachqualität
 - Kompatibel mit Apple und Android
+- Bis zu 12 Std. Wiedergabe2
 - Mit der Audiofreigabe kannst du Audiomedien kabellos mit einem weiteren Paar Beats Kopfhörern4 oder AirPods teilen
 - Mit dem Apple W1 Chip für nahtlose Konnektivität3
 - Größere Reichweite und weniger Aussetzer dank Bluetooth Verbindung der Klasse 1
