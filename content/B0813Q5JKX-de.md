@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75288 Star Wars AT-AT  Walker Spiel mit 20.06 % Rabatt'
-date: 2021-03-15 01:09:32
+date: 2021-03-16 02:48:18
 image: 'https://m.media-amazon.com/images/I/51jwnyV-gCL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0813Q5JKX/?tag=tolees0ca-21'
 descuento: '20.06'
-average: '126.781496062991'
+average: '126.745561357702'
 ---
 
 Sie können [LEGO 75288 Star Wars AT-AT  Walker Spielzeug  40. Jubiläum Set  Action-Set für ein kreatives Spielerlebnis](https://www.amazon.de/dp/B0813Q5JKX/?tag=tolees0ca-21) mit Preis 119.9 EUR (original: 149.99 EUR) 20.06 % Rabatt hier:
