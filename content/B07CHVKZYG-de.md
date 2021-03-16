@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Funko 30974 Marvel: Ant-Man & The Wasp P mit 22.75 % Rabatt'
-date: 2021-03-14 18:52:44
+date: 2021-03-16 18:38:52
 image: 'https://m.media-amazon.com/images/I/41IUdq133fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CHVKZYG-de Funko 30974 Marvel: Ant-Man & The Wasp POP...'
 sku: 'B07CHVKZYG-de'
-tags: [  ]
+tags: [ 'funko', ]
 actualPrice: 5.4 EUR
 currency: EUR
 price: 5.4
@@ -28,8 +28,8 @@ Sie können [Funko 30974 Marvel: Ant-Man & The Wasp POP Schlüsselanhänger Figu
 
 ℹ️:
 
-- POP! Schlüsselanhänger Figur
 - Marvel: Ant-Man & The Wasp
 - Wasp
+- POP! Schlüsselanhänger Figur
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07CHVKZYG/?tag=tolees0ca-21)

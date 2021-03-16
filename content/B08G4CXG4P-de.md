@@ -1,38 +1,38 @@
 ---
 layout: post
-title: '15.11 % rabat auf LEGO 75302 Star Wars Imperial Shuttle Ba'
-date: 2021-03-14 12:35:49
+title: '18.75 % rabat auf LEGO 75302 Star Wars Imperial Shuttle Ba'
+date: 2021-03-16 18:18:18
 image: 'https://m.media-amazon.com/images/I/51jheSqRt3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G4CXG4P-de LEGO 75302 Star Wars Imperial Shuttle Bauset mit Luke...'
 sku: 'B08G4CXG4P-de'
-tags: [  ]
-actualPrice: 67.9 EUR
+tags: [ 'lego', ]
+actualPrice: 64.99 EUR
 currency: EUR
-price: 67.9
+price: 64.99
 comparePrice: 79.99 EUR
 prodname: 'LEGO 75302 Star Wars Imperial Shuttle Bauset mit Luke Skywalker mit Lichtschwert und Darth Vader Minifiguren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4CXG4P/?tag=tolees0ca-21'
-descuento: '15.11'
-average: '70.2247058823529'
+descuento: '18.75'
+average: '69.6736842105262'
 ---
 
-Es gibt ein [LEGO 75302 Star Wars Imperial Shuttle Bauset mit Luke Skywalker mit Lichtschwert und Darth Vader Minifiguren](https://www.amazon.de/dp/B08G4CXG4P/?tag=tolees0ca-21) mit aktuellem Preis 67.9 EUR (original: 79.99 EUR) 15.11 % Rabatt hier:
+Es gibt ein [LEGO 75302 Star Wars Imperial Shuttle Bauset mit Luke Skywalker mit Lichtschwert und Darth Vader Minifiguren](https://www.amazon.de/dp/B08G4CXG4P/?tag=tolees0ca-21) mit aktuellem Preis 64.99 EUR (original: 79.99 EUR) 18.75 % Rabatt hier:
 
 [![LEGO 75302 Star Wars Imperial Shuttle Ba](https://m.media-amazon.com/images/I/51jheSqRt3L._SL400_.jpg)](https://www.amazon.de/dp/B08G4CXG4P/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Beinhaltet 3 LEGO Minifiguren. Darth Vader und Luke Skywalker, beide mit Lichtschwert, sowie ein Imperialer Offizier mit Blasterpistole sorgen für Spaß und kreatives Spielen
-- Das Imperial Shuttle ist 25 cm hoch, 24 cm lang und 35 cm breit. Zwischen den spannenden Abenteuern werden Kinder das Modell gerne im Kinderzimmer ausstellen
-- Das Imperial Shuttle verfügt über ein aufklappbares Minifigur-Cockpit, eine aufklappbare Hauptkabine für 2 LEGO Minifiguren, Schwenkflügel für den Flug- und Landemodus sowie 2 Shooter
-- Baue das elegante Imperial Shuttle (75302) als Modell aus LEGO Steinen. Das Set lässt Kinder Actionszenen aus der klassischen Star Wars Trilogie nachstellen
-- Das fantastische Modell ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Kinder und Star Wars Fans ab 9 Jahren. Das Set bietet riesigen Bau- und Spielspaß – auch zusammen mit Verwandten oder Freunden
 - Ist das Set für einen jungen Star Wars Fan gedacht, der noch kein LEGO Modell gebaut hat? Kein Problem. Dem Set liegt eine einfache Bauanleitung bei, damit Kinder das Modell mit dem Selbstbewusstsein eines Jedi bauen können
+- Das Imperial Shuttle verfügt über ein aufklappbares Minifigur-Cockpit, eine aufklappbare Hauptkabine für 2 LEGO Minifiguren, Schwenkflügel für den Flug- und Landemodus sowie 2 Shooter
+- Das Imperial Shuttle ist 25 cm hoch, 24 cm lang und 35 cm breit. Zwischen den spannenden Abenteuern werden Kinder das Modell gerne im Kinderzimmer ausstellen
+- Das fantastische Modell ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Kinder und Star Wars Fans ab 9 Jahren. Das Set bietet riesigen Bau- und Spielspaß – auch zusammen mit Verwandten oder Freunden
+- Baue das elegante Imperial Shuttle (75302) als Modell aus LEGO Steinen. Das Set lässt Kinder Actionszenen aus der klassischen Star Wars Trilogie nachstellen
+- Beinhaltet 3 LEGO Minifiguren. Darth Vader und Luke Skywalker, beide mit Lichtschwert, sowie ein Imperialer Offizier mit Blasterpistole sorgen für Spaß und kreatives Spielen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4CXG4P/?tag=tolees0ca-21)

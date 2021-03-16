@@ -1,38 +1,38 @@
 ---
 layout: post
-title: '16.25 % rabat auf LEGO 76175 Marvel Angriff auf Spider-Man'
-date: 2021-03-14 19:09:06
+title: '17.50 % rabat auf LEGO 76175 Marvel Angriff auf Spider-Man'
+date: 2021-03-16 18:13:42
 image: 'https://m.media-amazon.com/images/I/61d1Z7OSs7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G4CWRPV-de LEGO 76175 Marvel Angriff auf Spider-Mans Versteck Bauset...'
 sku: 'B08G4CWRPV-de'
-tags: [  ]
-actualPrice: 66.99 EUR
+tags: [ 'lego', ]
+actualPrice: 65.99 EUR
 currency: EUR
-price: 66.99
+price: 65.99
 comparePrice: 79.99 EUR
 prodname: 'LEGO 76175 Marvel Angriff auf Spider-Mans Versteck Bauset mit Green Goblin und Venom Figuren  Superhelden Spielzeug'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4CWRPV/?tag=tolees0ca-21'
-descuento: '16.25'
+descuento: '17.50'
 average: '65.99'
 ---
 
-Es gibt ein [LEGO 76175 Marvel Angriff auf Spider-Mans Versteck Bauset mit Green Goblin und Venom Figuren  Superhelden Spielzeug](https://www.amazon.de/dp/B08G4CWRPV/?tag=tolees0ca-21) mit aktuellem Preis 66.99 EUR (original: 79.99 EUR) 16.25 % Rabatt hier:
+Es gibt ein [LEGO 76175 Marvel Angriff auf Spider-Mans Versteck Bauset mit Green Goblin und Venom Figuren  Superhelden Spielzeug](https://www.amazon.de/dp/B08G4CWRPV/?tag=tolees0ca-21) mit aktuellem Preis 65.99 EUR (original: 79.99 EUR) 17.50 % Rabatt hier:
 
 [![LEGO 76175 Marvel Angriff auf Spider-Man](https://m.media-amazon.com/images/I/61d1Z7OSs7L._SL400_.jpg)](https://www.amazon.de/dp/B08G4CWRPV/?tag=tolees0ca-21)
 
 ℹ️:
 
-- LEGO Marvel Angriff auf Spider-Mans Versteck (76175) beinhaltet alles, was ein junger Superheld braucht. Das Set ist die erste LEGO Version von Spider-Mans Hightech-Hauptquartier
-- Enthält die Minifiguren Spider-Man, Green Goblin und Venom, einen PC, eine PlayStation, ein Basketballspiel, ein Skateboard mit Rampe, eine Getränkeecke, eine Kamera, Trainingsgeräte, ein Motorrad, einen Iron Spider Anzug, ein Gefängnis und Waffen
 - Spider-Mans spektakuläres Hauptquartier ist 14 cm hoch, 41 cm lang und 17 cm breit und lässt sich mühelos mit anderen LEGO Marvel Spider-Man Sets kombinieren
-- Fantastisches Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Fans der Marvel Filme ab 8 Jahren, die mit der spektakulären LEGO Version von Spider-Mans Hauptquartier herausstechen möchten
-- Junge Superhelden können mit Spider-Man in seinem Hauptquartier spielen. Wenn zwei Superschurken bei ihm eindringen, wird es spannend. Die tolle Ausrüstung und die Fähigkeiten der Kinder sind entscheidend, um die Lage zu retten
 - Zu den witzigen Extras zählen diverse Netze, Überwachungsbildschirme und eine Ballwurfmaschine fürs Basketballtraining
+- Enthält die Minifiguren Spider-Man, Green Goblin und Venom, einen PC, eine PlayStation, ein Basketballspiel, ein Skateboard mit Rampe, eine Getränkeecke, eine Kamera, Trainingsgeräte, ein Motorrad, einen Iron Spider Anzug, ein Gefängnis und Waffen
+- LEGO Marvel Angriff auf Spider-Mans Versteck (76175) beinhaltet alles, was ein junger Superheld braucht. Das Set ist die erste LEGO Version von Spider-Mans Hightech-Hauptquartier
+- Junge Superhelden können mit Spider-Man in seinem Hauptquartier spielen. Wenn zwei Superschurken bei ihm eindringen, wird es spannend. Die tolle Ausrüstung und die Fähigkeiten der Kinder sind entscheidend, um die Lage zu retten
+- Fantastisches Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Fans der Marvel Filme ab 8 Jahren, die mit der spektakulären LEGO Version von Spider-Mans Hauptquartier herausstechen möchten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4CWRPV/?tag=tolees0ca-21)

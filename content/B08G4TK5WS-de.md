@@ -1,39 +1,39 @@
 ---
 layout: post
-title: 'LEGO 42116 Technic Kompaktlader Spielzeu mit 22.62 % Rabatt'
-date: 2021-03-09 05:52:13
+title: 'LEGO 42116 Technic Kompaktlader Spielzeu mit 25.03 % Rabatt'
+date: 2021-03-16 18:36:10
 image: 'https://m.media-amazon.com/images/I/512-Rz4EwRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G4TK5WS-de LEGO 42116 Technic Kompaktlader Spielzeug Bagger oder Hot...'
 sku: 'B08G4TK5WS-de'
-tags: [  ]
-actualPrice: 7.73 EUR
+tags: [ 'lego', ]
+actualPrice: 7.49 EUR
 currency: EUR
-price: 7.73
+price: 7.49
 comparePrice: 9.99 EUR
 prodname: 'LEGO 42116 Technic Kompaktlader Spielzeug  Bagger oder Hot Rod 2-in-1 Set  Baufahrzeug-Modell'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4TK5WS/?tag=tolees0ca-21'
-descuento: '22.62'
-average: '9.67119565217393'
+descuento: '25.03'
+average: '9.88590000000001'
 ---
 
-Sie können [LEGO 42116 Technic Kompaktlader Spielzeug  Bagger oder Hot Rod 2-in-1 Set  Baufahrzeug-Modell](https://www.amazon.de/dp/B08G4TK5WS/?tag=tolees0ca-21) mit Preis 7.73 EUR (original: 9.99 EUR) 22.62 % Rabatt hier:
+Sie können [LEGO 42116 Technic Kompaktlader Spielzeug  Bagger oder Hot Rod 2-in-1 Set  Baufahrzeug-Modell](https://www.amazon.de/dp/B08G4TK5WS/?tag=tolees0ca-21) mit Preis 7.49 EUR (original: 9.99 EUR) 25.03 % Rabatt hier:
 
 [![LEGO 42116 Technic Kompaktlader Spielzeu](https://m.media-amazon.com/images/I/512-Rz4EwRL._SL400_.jpg)](https://www.amazon.de/dp/B08G4TK5WS/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Instructions PLUS sind eine interaktive Bauanleitung, mit der das Bauen dieses Modells noch mehr Spaß macht. Sie ist in der kostenlosen LEGO Building Instructions App verfügbar und enthält Vergrößerungs- und Drehfunktionen
-- Der Kompaktlader ist 9 cm hoch, 14 cm lang und 6 cm breit
 - Das hochwertige Modell ist ein tolles Geschenk für Jungen und Mädchen ab 7 Jahren
-- Kinder werden den Kompaktlader gerne zusammenbauen und sich dann die aufklappbare Fahrerkabine, die bewegliche Schaufel, das Steuerpult und den Überrollkäfig ansehen. Anschließend lässt sich das Modell auch in einen Hot Rod umbauen
 - Das coole LEGO Technic Bauset „Kompaktlader“ (42116) ist eine tolle Belohnung für junge Baumaschinenfans. Zu den authentischen Details zählt eine Schaufel, die sich anheben und ausleeren lässt
+- Der Kompaktlader ist 9 cm hoch, 14 cm lang und 6 cm breit
 - Kinder können dieses 2-in-1-Modell in einen Hot Rod verwandeln, um noch mehr Bauspaß zu erleben
 - Wegen der realistischen Details werden Kinder das Spielzeug immer wieder gerne hervorholen, um auf der Baustelle oder dem Bauernhof Abenteuer zu erleben
+- Instructions PLUS sind eine interaktive Bauanleitung, mit der das Bauen dieses Modells noch mehr Spaß macht. Sie ist in der kostenlosen LEGO Building Instructions App verfügbar und enthält Vergrößerungs- und Drehfunktionen
+- Kinder werden den Kompaktlader gerne zusammenbauen und sich dann die aufklappbare Fahrerkabine, die bewegliche Schaufel, das Steuerpult und den Überrollkäfig ansehen. Anschließend lässt sich das Modell auch in einen Hot Rod umbauen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08G4TK5WS/?tag=tolees0ca-21)

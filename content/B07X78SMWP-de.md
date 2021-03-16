@@ -1,14 +1,14 @@
 ---
 layout: post
 title: '21.89 % rabat auf Sony Alpha 6600 | APS-C Spiegellose Kame'
-date: 2021-03-13 18:47:15
+date: 2021-03-16 18:51:52
 image: 'https://m.media-amazon.com/images/I/51128LFORDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X78SMWP-de Sony Alpha 6600 | APS-C Spiegellose Kamera Schneller 0 02s...'
 sku: 'B07X78SMWP-de'
-tags: [  ]
+tags: [ 'sony', ]
 actualPrice: 1249.0 EUR
 currency: EUR
 price: 1249.0
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B07X78SMWP/?tag=tolees0ca-21'
 descuento: '21.89'
-average: '1300.13329787233'
+average: '1299.59505263157'
 ---
 
 Es gibt ein [Sony Alpha 6600 | APS-C Spiegellose Kamera   Schneller 0 02s Autofokus  optische 5-Achsen-Bildstabilisierung im Gehäuse  4K HLG Videoaufnahmen  neigbares Display für Vlogging ](https://www.amazon.de/dp/B07X78SMWP/?tag=tolees0ca-21) mit aktuellem Preis 1249.0 EUR (original: 1599.0 EUR) 21.89 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [Sony Alpha 6600 | APS-C Spiegellose Kamera   Schneller 0 02s Autofo
 
 ℹ️:
 
-- STABILE AUFNAHMEN: Optische 5-Achsen-Bildstabilisierung für Fotos und Filme zur Kompensation von Kameraverwacklungen.
-- ATEMBERAUBENDE BILDQUALITÄT: 24Mp gepaart mit hoher ISO-Fähigkeit, um auch bei schwachem Licht hervorragende Bilder zu liefern.
 - VERLÄNGERTE BATTERIE-LEBENSDAUER: APS-C Branchenführende Z-Batterie für längere Aufnahme-Sessions.
-- PERFEKT FÜR VIDEO CREATOR: Hochauflösende 4K-HDR-Filmaufnahme und Full-HD-Slow-Motion-Funktion (120p) mit Autofokus.
+- STABILE AUFNAHMEN: Optische 5-Achsen-Bildstabilisierung für Fotos und Filme zur Kompensation von Kameraverwacklungen.
 - SCHNELLER UND PRÄZISERER AUTOFOKUS: Verlassen Sie sich auf 0,02s AF, Tracking in Echtzeit und Autofokus mit Augenerkennung (Mensch/Tier), um Ihr Motiv in jeder Situation im Fokus zu behalten.
+- PERFEKT FÜR VIDEO CREATOR: Hochauflösende 4K-HDR-Filmaufnahme und Full-HD-Slow-Motion-Funktion (120p) mit Autofokus.
+- ATEMBERAUBENDE BILDQUALITÄT: 24Mp gepaart mit hoher ISO-Fähigkeit, um auch bei schwachem Licht hervorragende Bilder zu liefern.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07X78SMWP/?tag=tolees0ca-21)

@@ -1,14 +1,14 @@
 ---
 layout: post
 title: '28.04 % rabat auf Tommy Hilfiger Damen Poppy Tote Stofftas'
-date: 2021-03-14 18:39:04
+date: 2021-03-16 18:32:36
 image: 'https://m.media-amazon.com/images/I/31eecRXhO2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071HBMWB6-de Tommy Hilfiger Damen Poppy Tote Stofftasche Blau Navy...'
 sku: 'B071HBMWB6-de'
-tags: [  ]
+tags: [ 'tommy hilfiger', ]
 actualPrice: 57.5 EUR
 currency: EUR
 price: 57.5
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.de/dp/B071HBMWB6/?tag=tolees0ca-21'
 descuento: '28.04'
-average: '58.3906024096386'
+average: '58.3696470588235'
 ---
 
 Es gibt ein [Tommy Hilfiger Damen Poppy Tote Stofftasche  Blau Navy  14x32x47 cm](https://www.amazon.de/dp/B071HBMWB6/?tag=tolees0ca-21) mit aktuellem Preis 57.5 EUR (original: 79.9 EUR) 28.04 % Rabatt hier:

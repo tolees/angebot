@@ -1,28 +1,28 @@
 ---
 layout: post
-title: 'Der Android mit 72.49 % Rabatt'
-date: 2021-03-14 18:34:22
+title: 'Der Android mit 67.51 % Rabatt'
+date: 2021-03-16 18:33:47
 image: 'https://m.media-amazon.com/images/I/51C8KFZu35L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077TRDGGQ-de Der Android'
 sku: 'B077TRDGGQ-de'
 tags: [  ]
 actualPrice: 1.15 EUR
 currency: EUR
 price: 1.15
-comparePrice: 4.18 EUR
+comparePrice: 3.54 EUR
 prodname: 'Der Android'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B077TRDGGQ/?tag=tolees0ca-21'
-descuento: '72.49'
-average: '2.21049999999999'
+descuento: '67.51'
+average: '2.15999999999999'
 ---
 
-Sie können [Der Android](https://www.amazon.de/dp/B077TRDGGQ/?tag=tolees0ca-21) mit Preis 1.15 EUR (original: 4.18 EUR) 72.49 % Rabatt hier:
+Sie können [Der Android](https://www.amazon.de/dp/B077TRDGGQ/?tag=tolees0ca-21) mit Preis 1.15 EUR (original: 3.54 EUR) 67.51 % Rabatt hier:
 
 [![Der Android](https://m.media-amazon.com/images/I/51C8KFZu35L._SL400_.jpg)](https://www.amazon.de/dp/B077TRDGGQ/?tag=tolees0ca-21)
 
