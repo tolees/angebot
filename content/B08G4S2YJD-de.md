@@ -1,14 +1,14 @@
 ---
 layout: post
 title: '26.56 % rabat auf LEGO 43106 VIDIYO Unicorn DJ BeatBox Mus'
-date: 2021-03-03 12:32:14
+date: 2021-03-16 13:14:35
 image: 'https://m.media-amazon.com/images/I/51WTF6DBKaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B08G4S2YJD-de LEGO 43106 VIDIYO Unicorn DJ BeatBox Music Video Maker...'
 sku: 'B08G4S2YJD-de'
-tags: [  ]
+tags: [ 'lego', ]
 actualPrice: 14.68 EUR
 currency: EUR
 price: 14.68
@@ -28,12 +28,12 @@ Es gibt ein [LEGO 43106 VIDIYO Unicorn DJ BeatBox Music Video Maker Musik Spielz
 
 ℹ️:
 
-- Mit der LEGO VIDIYO Music Video Maker App führen Kinder in kürzester Zeit Regie, produzieren und spielen in ihren eigenen Musikvideos
-- BeatBits, die auf der Bühne platziert werden, schalten Spezialeffekte in der App frei, wenn sie gescannt werden, um jedes Mal einzigartige, neue Musikvideos zu erstellen
-- Entdecke weitere Spezialeffekte, Herausforderungen & Anpassungen, wähle aus und teile sie dann online mit Freunden in einem sicheren, kinderfreundlichen sozialen Feed
-- Dieses Musikspielzeug enthält eine Einhorn DJ Minifigur, Zubehör für die Schallplatte, 14 zufällige BeatBits, 2 spezielle BeatBits und eine Szene, die das Erstellen von Musikvideos ermöglicht
-- Die AR App ist mit über 180 iOS/Android/Mobilgeräten kompatibel. Kompatibilitätscheck auf LEGO website
-- Mit über 90 BeatBits und 12 Figuren zum Sammeln, die alle von verschiedenen Musikgenres inspiriert sind, werden Kinder es lieben, ihre Sammlung zu erweitern und mit Freunden zu teilen.
-- Nutze die App, um den Einhorn DJ mit K-Pop-Musik & lustigen Spezialeffekten wie eine LEGO-Burg mit Wolken und Regenbogen-Wasserfällen zum Leben zu erwecken
+- BeatBits tiles placed on the stage unlock special effects in the app when scanned to add and create unique, new music videos every time
+- Kids will be directing, producing and starring in their own music videos in next to no time with the free LEGO VIDIYO music video maker app
+- Discover more special effects, challenges & customisations, select, then share online in a safe, child-friendly social feed with friends
+- Use the app to bring the unicorn DJ to life with some K-pop-music & fun special effects like a LEGO castle with clouds and rainbow waterfalls
+- Check your devices compatibility by downloading the free app and record your first music video with a free digital Bandmate before purchase - search LEGO VIDIYO on App Store or Google Play
+- With over 90 BeatBits and 12 characters to collect, all inspired by different musical genres, kids will love this expanding, share-with-friends toy
+- Includes a unicorn DJ minifigure, LP record accessory, 14 random BeatBits, 2 special BeatBits and a scene that allows music video making
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4S2YJD/?tag=tolees0ca-21)

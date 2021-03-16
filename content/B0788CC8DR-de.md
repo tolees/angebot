@@ -1,14 +1,14 @@
 ---
 layout: post
 title: '42.92 % rabat auf Tommy Hilfiger Herren Track TOP LS HWK S'
-date: 2021-03-15 01:28:00
+date: 2021-03-16 12:57:46
 image: 'https://m.media-amazon.com/images/I/414VKUz2uxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B0788CC8DR-de Tommy Hilfiger Herren Track TOP LS HWK Schlafanzugoberteil...'
 sku: 'B0788CC8DR-de'
-tags: [  ]
+tags: [ 'tommy hilfiger', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9
