@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085L6NT8W-de Samsung TU8079 163 cm 65 Zoll LED Fernseher Ultra HD...'
 sku: 'B085L6NT8W-de'
-tags: [ 'Drogerie & Körperpflege','Elektronik & Foto','Fernseher','Fernseher & Heimkino','Haushaltswaren','Weiß- & Vollwäsche','Wäschepflege','samsung', ]
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bluetooth-Adapter','Bluetooth-Kopfhörer','Computer & Zubehör','Drogerie & Körperpflege','Elektronik & Foto','Fernseher','Fernseher & Heimkino','Haushaltswaren','Kopfhörer','Kopfhörer & Zubehör','Netzwerkgeräte','Repeater','Spielzeug','Weiß- & Vollwäsche','Wäschepflege','samsung', ]
 actualPrice: 699.0 EUR
 currency: EUR
 price: 699.0
@@ -28,13 +28,13 @@ Es gibt ein [Samsung TU8079 163 cm  65 Zoll  LED Fernseher  Ultra HD  HDR10+  Tr
 
 ℹ️:
 
-- Auflösung 3.840 x 2.160 Pixel (4K/Ultra HD), HDR10+, PurColor, UHD Dimming, Auto Game Mode, Ambient Mode
-- Digitaler Fernsehempfang (DVB): DVB-C/S2/T2 HD, Analoger Tuner, CI+, 3x HDMI, 2x USB, 1x LAN, WLAN, 1x CI+-Slot, 2x Antenneneingang
-- HD+ integriert: 24 private HD- und 2 UHD-Sender sowie HD+ Komfort-Funktion mit Neustart, Mediatheken und TV-Guide. 6 Monate gratis testen. SAT-Empfang benötigt.
-- Typ: 4K UHD, Flat, LED Fernseher, Rahmenlos Schieferschwarz
 - Streaming-Dienste: Amazon Video, Netflix, Zattoo, Youtube, Maxdome, ARD, DAZN, Gamefly, Ran, Videoland, Videociety, Wuaki, Prosieben Apps, etc.
+- HD+ integriert: 24 private HD- und 2 UHD-Sender sowie HD+ Komfort-Funktion mit Neustart, Mediatheken und TV-Guide. 6 Monate gratis testen. SAT-Empfang benötigt.
 - HD+ integriert: 23 private HD- und 2 UHD-Sender sowie HD+ Komfort-Funktion mit Neustart, Mediatheken und TV-Guide. 6 Monate gratis testen. SAT-Empfang benötigt
-- Lieferumfang: Samsung TU8079 163 cm (65 Zoll) mit Kielfuß, klassische Fernbedienung, Stromkabel, Anleitung
 - Alexa integriert, Bixby integriert, Kompatibel mit Google Assistant und Airplay 2,
+- Digitaler Fernsehempfang (DVB): DVB-C/S2/T2 HD, Analoger Tuner, CI+, 3x HDMI, 2x USB, 1x LAN, WLAN, 1x CI+-Slot, 2x Antenneneingang
+- Typ: 4K UHD, Flat, LED Fernseher, Rahmenlos Schieferschwarz
+- Auflösung 3.840 x 2.160 Pixel (4K/Ultra HD), HDR10+, PurColor, UHD Dimming, Auto Game Mode, Ambient Mode
+- Lieferumfang: Samsung TU8079 163 cm (65 Zoll) mit Kielfuß, klassische Fernbedienung, Stromkabel, Anleitung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B085L6NT8W/?tag=tolees0ca-21)

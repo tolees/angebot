@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DPQ89US-de Sony KDL-32WD755 80 cm 32 Zoll Fernseher Full HD HD Triple...'
 sku: 'B01DPQ89US-de'
-tags: [ 'Drogerie & Körperpflege','Elektronik & Foto','Fernseher','Fernseher & Heimkino','Haushaltswaren','Weiß- & Vollwäsche','Wäschepflege','sony', ]
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bluetooth-Adapter','Bluetooth-Kopfhörer','Computer & Zubehör','Drogerie & Körperpflege','Elektronik & Foto','Fernseher','Fernseher & Heimkino','Haushaltswaren','Kopfhörer','Kopfhörer & Zubehör','Netzwerkgeräte','Repeater','Spielzeug','Weiß- & Vollwäsche','Wäschepflege','sony', ]
 actualPrice: 313.77 EUR
 currency: EUR
 price: 313.77
@@ -28,9 +28,9 @@ Sie können [Sony KDL-32WD755 80 cm  32 Zoll  Fernseher  Full HD  HD Triple Tune
 
 ℹ️:
 
-- Mit X-Reality PRO erleben Sie ein außergewöhnlich klares und detailscharfes Bild, bei allem was Sie sich anschauen
-- USB-Aufnahmefunktion: Programmieren Sie Ihren Fernseher und zeichnen Sie Fernsehsendungen auf einer externen Festplatte auf
 - Edles Aluminium-Design: Ideal für die Wandmontage. Die kompakte Bauweise und der schmale Rahmen ermöglichen den uneingeschränkten Blick auf das Wesentliche: das Bild
+- USB-Aufnahmefunktion: Programmieren Sie Ihren Fernseher und zeichnen Sie Fernsehsendungen auf einer externen Festplatte auf
+- Mit X-Reality PRO erleben Sie ein außergewöhnlich klares und detailscharfes Bild, bei allem was Sie sich anschauen
 - Smart TV-mehr als einfach nur Fernsehen: Ob Ihre Lieblingsclips auf YouTube, TV-Serien aus verschiedenen Mediatheken, Filme von Netflix, Amazon Video, Maxdome oder anderen Apps: Sie bestimmen, was und wann Sie es sehen wollen
 - Lieferumfang: Sony KDL-32WD755 80 cm (32 Zoll) Fernseher
 

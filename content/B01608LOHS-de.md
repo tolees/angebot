@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01608LOHS-de Playmobil City Action 6872 Polizeistation mit Gefängnis Ab...'
 sku: 'B01608LOHS-de'
-tags: [ 'Drogerie & Körperpflege','Elektronik & Foto','Fernseher','Fernseher & Heimkino','Haushaltswaren','Kinderspielfiguren & -fahrzeuge','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Weiß- & Vollwäsche','Wäschepflege','playmobil', ]
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bluetooth-Adapter','Bluetooth-Kopfhörer','Computer & Zubehör','Drogerie & Körperpflege','Elektronik & Foto','Fernseher','Fernseher & Heimkino','Haushaltswaren','Kinderspielfiguren & -fahrzeuge','Kopfhörer','Kopfhörer & Zubehör','Netzwerkgeräte','Repeater','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Weiß- & Vollwäsche','Wäschepflege','playmobil', ]
 actualPrice: 62.82 EUR
 currency: EUR
 price: 62.82

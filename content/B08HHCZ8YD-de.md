@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HHCZ8YD-de Xiaomi Mi 10T Pro 8GB+256GB lunar Silver ohne Simlock...'
 sku: 'B08HHCZ8YD-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Drogerie & Körperpflege','Einfache Auto- & Verkehrsmodelle','Elektronik & Foto','Fahrzeuge & Rennwagen für Kinder','Fernseher','Fernseher & Heimkino','Handys & Smartphones','Handys & Zubehör','Haushaltswaren','In-Ear Ohrhörer','Kinderspielfiguren & -fahrzeuge','Kopfhörer','Kopfhörer & Zubehör','Simlockfreie Handys','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Adventskalender','Weiß- & Vollwäsche','Wäschepflege','xiaomi', ]
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bluetooth-Adapter','Bluetooth-Kopfhörer','Computer & Zubehör','Drogerie & Körperpflege','Einfache Auto- & Verkehrsmodelle','Elektronik & Foto','Fahrzeuge & Rennwagen für Kinder','Fernseher','Fernseher & Heimkino','Handys & Smartphones','Handys & Zubehör','Haushaltswaren','In-Ear Ohrhörer','Kinderspielfiguren & -fahrzeuge','Kopfhörer','Kopfhörer & Zubehör','Netzwerkgeräte','Repeater','Simlockfreie Handys','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Adventskalender','Weiß- & Vollwäsche','Wäschepflege','xiaomi', ]
 actualPrice: 505.2 EUR
 currency: EUR
 price: 505.2
