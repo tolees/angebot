@@ -28,12 +28,12 @@ Sie können [LEGO 43101 VIDIYO Bandmates Erweiterungsset mit Minifiguren  Musik 
 
 ℹ️:
 
-- Jede Überraschungsbox enthält 1 Bandmate Minifigur der Serie 1, 2 zufällige BeatBits, 1 spezielles BeatBit und 1 Zubehörteil für noch mehr Spielspaß
-- Mit 12 Figuren zum Sammeln, unter anderem Tänzer, Rapper, Gitarristen, Schlagzeuger, Sänger & mehr, die alle von verschiedenen Musikgenres inspiriert sind
-- Lade die kostenlose VIDIYO Music Video Maker App herunter und scanne BeatBits um spezielle Videoeffekte wie Soundeffekte und Kostümwechsel freizuschalten
-- Prüfe die Kompatibilität deines Geräts - lade die kostenlose App herunter und nimm vor dem Kauf dein erstes Musikvideo mit einem kostenlosen digitalen Bandmate auf. Suche im App Store oder bei Google Play nach "LEGO VIDIYO"
 - Mit 92 BeatBits zum Sammeln werden die Kinder es lieben, ihre Sammlung zu erweitern
+- Prüfe die Kompatibilität deines Geräts - lade die kostenlose App herunter und nimm vor dem Kauf dein erstes Musikvideo mit einem kostenlosen digitalen Bandmate auf. Suche im App Store oder bei Google Play nach "LEGO VIDIYO"
+- Lade die kostenlose VIDIYO Music Video Maker App herunter und scanne BeatBits um spezielle Videoeffekte wie Soundeffekte und Kostümwechsel freizuschalten
+- Jede Überraschungsbox enthält 1 Bandmate Minifigur der Serie 1, 2 zufällige BeatBits, 1 spezielles BeatBit und 1 Zubehörteil für noch mehr Spielspaß
 - Das perfekte Erweiterungsset für jede LEGO VIDIYO BeatBox der Serie 1. Dieses Musikspielzeug ermöglicht mehr bunte Charaktere und visuelle Effekte zu Videos hinzuzufügen
 - Lässt sich mit allen Sets der Serie 1 kombinieren: Candy Mermaid 43102, Punk Pirate 43103, Alien DJ 43104, Party Llama 43105, Unicorn DJ 43106 oder HipHop Robot 43107
+- Mit 12 Figuren zum Sammeln, unter anderem Tänzer, Rapper, Gitarristen, Schlagzeuger, Sänger & mehr, die alle von verschiedenen Musikgenres inspiriert sind
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08G4JXV79/?tag=tolees0ca-21)

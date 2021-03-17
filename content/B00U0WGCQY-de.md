@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U0WGCQY-de Xiaomi Mi WiFi Repeater 2 White EU'
 sku: 'B00U0WGCQY-de'
-tags: [ 'Bluetooth-Kopfhörer','Computer & Zubehör','Elektronik & Foto','Kopfhörer','Kopfhörer & Zubehör','Netzwerkgeräte','Repeater','xiaomi', ]
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bluetooth-Kopfhörer','Computer & Zubehör','Elektronik & Foto','Kopfhörer','Kopfhörer & Zubehör','Netzwerkgeräte','Repeater','Spielzeug','xiaomi', ]
 actualPrice: 14.64 EUR
 currency: EUR
 price: 14.64
@@ -28,8 +28,8 @@ Es gibt ein [Xiaomi Mi WiFi Repeater 2 White EU](https://www.amazon.de/dp/B00U0W
 
 ℹ️:
 
+- 300 Mbps
 - Wi-Fi
 - USB 2.0
-- 300 Mbps
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00U0WGCQY/?tag=tolees0ca-21)
