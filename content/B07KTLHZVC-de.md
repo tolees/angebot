@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTLHZVC-de Lego Architecture - LEGO 21046 Architecture Empire State...'
 sku: 'B07KTLHZVC-de'
-tags: [ 'lego architecture', ]
+tags: [ '249195031','355357031','Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bead Charms für Damen','Bürobedarf & Schreibwaren','Charms & Beads für Damen','Computer','Computer & Zubehör','Damenschmuck','Elektrische Küchengeräte','Elektroinstallation','Elektronik & Foto','Folienschweißgeräte','Handys & Smartphones','Handys & Zubehör','Interne Komponenten & Hardware','Kinderspielfiguren & -fahrzeuge','Komponenten & Ersatzteile','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','LEGO','LEGO friends','Marker & Filzstifte','Minipuppen','Minipuppen & Zubehör','Netzwerk','Netzwerk-Switches','Netzwerkgeräte','Netzwerkkarten','Permanent-Marker','PowerLAN-Adapter','Produkte','Puppen & Zubehör','Regular Stores','Repeater','Schmuck','Schreibwaren','Shops','Simlockfreie Handys','Smart & Ferngesteuerte Stecker','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Steckdosen & Zubehör','lego architecture', ]
 actualPrice: 62.9 EUR
 currency: EUR
 price: 62.9
@@ -28,10 +28,10 @@ Sie können [Lego Architecture - LEGO 21046 Architecture Empire State Building  
 
 ℹ️:
 
-- 1760 Teile – Für Mädchen und Jungen ab 12 Jahren, für Fans und für große Kinder jeden Alters.
 - Das Modell ist 55 cm hoch, 20 cm breit und 12 cm tief.
-- Das von allen Seiten präsentierbare Modell „Empire State Building“ verfügt über 4 hochdetaillierte Fassaden, eine silberfarbene Antenne sowie die umliegenden Straßen mit den gelben Taxis.
 - Das Modell von LEGO Architecture umfasst ein dekoratives Empire-State-Building-Namensschild.
+- Das von allen Seiten präsentierbare Modell „Empire State Building“ verfügt über 4 hochdetaillierte Fassaden, eine silberfarbene Antenne sowie die umliegenden Straßen mit den gelben Taxis.
+- 1760 Teile – Für Mädchen und Jungen ab 12 Jahren, für Fans und für große Kinder jeden Alters.
 - Baue diese äußerst detailreiche LEGO Architecture Interpretation des Empire State Buildings!
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07KTLHZVC/?tag=tolees0ca-21)

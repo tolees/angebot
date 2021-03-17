@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086GNGL77-de Ubiquiti UniFi Switch USW-Flex-Mini'
 sku: 'B086GNGL77-de'
-tags: [ 'ubiquiti', ]
+tags: [ '249195031','355357031','Bauspielzeug & Konstruktionsspielzeug','Computer','Computer & Zubehör','Elektronik & Foto','Interne Komponenten & Hardware','Komponenten & Ersatzteile','Kopfhörer','Kopfhörer & Zubehör','LEGO','LEGO friends','Netzwerk','Netzwerk-Switches','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug','ubiquiti', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

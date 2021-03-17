@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0007SQGV2-de D-Link DGS-1016D Gigabit Switch 16 Ports 10/100/1000...'
 sku: 'B0007SQGV2-de'
-tags: [ 'd-link', ]
+tags: [ '249195031','355357031','Bauspielzeug & Konstruktionsspielzeug','Computer','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerk','Netzwerk-Switches','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug','d-link', ]
 actualPrice: 59.39 EUR
 currency: EUR
 price: 59.39
@@ -28,10 +28,10 @@ Es gibt ein [D-Link DGS-1016D Gigabit Switch  16 Ports  10/100/1000 Mbit/s  einf
 
 ℹ️:
 
-- Energiesparende Funktionen mit D-Link Green
 - Gigabit für einfache Arbeitsgruppen
-- Desktop oder Rackmount; Gigabit-Technologie
 - Geräuchlos, ohne Lüfter (ab Hardware-Revision D1)
 - Quality-of-Service und Jumbo-Frame Support
+- Desktop oder Rackmount; Gigabit-Technologie
+- Energiesparende Funktionen mit D-Link Green
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0007SQGV2/?tag=tolees0ca-21)
