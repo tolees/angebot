@@ -1,28 +1,28 @@
 ---
 layout: post
-title: '22.34 % rabat auf Xiaomi Mi 10T Pro 8GB+256GB lunar Silver'
-date: 2021-03-16 18:32:43
+title: '22.16 % rabat auf Xiaomi Mi 10T Pro 8GB+256GB lunar Silver'
+date: 2021-03-17 18:39:01
 image: 'https://m.media-amazon.com/images/I/41MCts4VmFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08HHCZ8YD-de Xiaomi Mi 10T Pro 8GB+256GB lunar Silver ohne Simlock...'
 sku: 'B08HHCZ8YD-de'
-tags: [ 'xiaomi', ]
-actualPrice: 504.0 EUR
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Drogerie & Körperpflege','Einfache Auto- & Verkehrsmodelle','Elektronik & Foto','Fahrzeuge & Rennwagen für Kinder','Fernseher','Fernseher & Heimkino','Handys & Smartphones','Handys & Zubehör','Haushaltswaren','In-Ear Ohrhörer','Kinderspielfiguren & -fahrzeuge','Kopfhörer','Kopfhörer & Zubehör','Simlockfreie Handys','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Adventskalender','Weiß- & Vollwäsche','Wäschepflege','xiaomi', ]
+actualPrice: 505.2 EUR
 currency: EUR
-price: 504.0
+price: 505.2
 comparePrice: 649.0 EUR
 prodname: 'Xiaomi Mi 10T Pro 8GB+256GB lunar Silver ohne Simlock  Alexa Hands-Free  ohne Branding'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.de/dp/B08HHCZ8YD/?tag=tolees0ca-21'
-descuento: '22.34'
-average: '618.10343137255'
+descuento: '22.16'
+average: '615.932211538463'
 ---
 
-Es gibt ein [Xiaomi Mi 10T Pro 8GB+256GB lunar Silver ohne Simlock  Alexa Hands-Free  ohne Branding](https://www.amazon.de/dp/B08HHCZ8YD/?tag=tolees0ca-21) mit aktuellem Preis 504.0 EUR (original: 649.0 EUR) 22.34 % Rabatt hier:
+Es gibt ein [Xiaomi Mi 10T Pro 8GB+256GB lunar Silver ohne Simlock  Alexa Hands-Free  ohne Branding](https://www.amazon.de/dp/B08HHCZ8YD/?tag=tolees0ca-21) mit aktuellem Preis 505.2 EUR (original: 649.0 EUR) 22.16 % Rabatt hier:
 
 [![Xiaomi Mi 10T Pro 8GB+256GB lunar Silver](https://m.media-amazon.com/images/I/41MCts4VmFL._SL400_.jpg)](https://www.amazon.de/dp/B08HHCZ8YD/?tag=tolees0ca-21)
 
