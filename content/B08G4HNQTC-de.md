@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4HNQTC-de LEGO 71738 NINJAGO Legacy Zanes Titan-Mech Ninja Bauset...'
 sku: 'B08G4HNQTC-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Blu-ray','Bürobedarf & Schreibwaren','Chibi Figuren','Computer & Zubehör','DVD & Blu-ray','Datenspeicher','Elektronik & Foto','Externe Datenspeicher','Externe Festplatten','Featured Categories','Filme','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Hobbys','In-Ear Ohrhörer','Interner Speicher','Kinderspielfiguren & -fahrzeuge','Komödie & Unterhaltung','Kopfhörer','Kopfhörer & Zubehör','Marker & Filzstifte','Netzteile für Handys','Permanent-Marker','Sammelfiguren','Sammelfiguren & Requisiten','Schreibwaren','Science Fiction','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Tragbare Bluetooth-Lautsprecher','Tragbare Geräte','Tragbare Lautsprecher & Audio-Docks','Wackelkopffiguren','Zubehör für tragbare Geräte','lego', ]
+tags: [ 'Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bitsätze','Blu-ray','Bürobedarf & Schreibwaren','Chibi Figuren','Computer & Zubehör','DVD & Blu-ray','Datenspeicher','Drogerie & Körperpflege','Elektro- & Handwerkzeuge','Elektronik & Foto','Externe Datenspeicher','Externe Festplatten','Featured Categories','Filme','Geröstete Kaffeebohnen','Geschirrreinigung','Getränke, Kaffee & Tee','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Haushaltsreinigungsmittel','Haushaltswaren','Hobbys','In-Ear Ohrhörer','Interner Speicher','Kaffee & Espresso','Kinderspielfiguren & -fahrzeuge','Komödie & Unterhaltung','Kopfhörer','Kopfhörer & Zubehör','Lebensmittel','Lebensmittel & Getränke','Marker & Filzstifte','Netzteile für Handys','Permanent-Marker','Sammelfiguren','Sammelfiguren & Requisiten','Schraubendreher-Zubehör','Schreibwaren','Science Fiction','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spülmaschinenreinigung','Tragbare Bluetooth-Lautsprecher','Tragbare Geräte','Tragbare Lautsprecher & Audio-Docks','Wackelkopffiguren','Zubehör für Elektrowerkzeuge','Zubehör für tragbare Geräte','lego', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99
@@ -28,12 +28,12 @@ Es gibt ein [LEGO 71738 NINJAGO Legacy Zanes Titan-Mech Ninja Bauset mit Jay als
 
 ℹ️:
 
-- Das Action-Spielset enthält 4 Minifiguren aus der 5. Staffel der NINJAGO TV-Serie – die Ninja Jay Legacy und Zane sowie die Geisterkämpfer Ghoultar und Seelenschütze mit cooler Ausrüstung
 - Das LEGO NINJAGO Legacy Spielset „Zanes Titan-Mech“ (71738) ist eine Version des beweglichen Mechs, der eine Kettensäge schwingt, um Kindern spannende Action zu ermöglichen
+- Enthält Jay Legacy als goldene Minifigur zum Sammeln auf einem kleinen Ständer zur Feier des 10-jährigen Jubiläums der NINJAGO Spielzeuge
 - Dieses 840-teilige Ninja-Spielset bietet Fans ab 9 Jahren ein lohnendes Bauerlebnis und ist ein tolles Geschenk für Kinder, die gerne mit LEGO Steinen bauen und Ninja-Action lieben
 - Weitere besondere goldene Minifiguren zum Sammeln finden Sie in den anderen NINJAGO Sets: Turnier der Elemente (71735), Coles Felsenbrecher (71736) und X-1 Ninja Supercar (71737)
-- Zanes Titan-Mech ist 26 cm groß, 9 cm lang und 15 cm breit. Zwischen den actionreichen Duellen bereichert er als Schaustück jedes Kinderzimmer
-- Enthält Jay Legacy als goldene Minifigur zum Sammeln auf einem kleinen Ständer zur Feier des 10-jährigen Jubiläums der NINJAGO Spielzeuge
+- Das Action-Spielset enthält 4 Minifiguren aus der 5. Staffel der NINJAGO TV-Serie – die Ninja Jay Legacy und Zane sowie die Geisterkämpfer Ghoultar und Seelenschütze mit cooler Ausrüstung
 - Der Spielzeug-Mech verfügt über bewegliche Arme und Beine sowie 2 Shooter und hält ein Schwert und eine Kettensäge in den Händen, um packende Abenteuer zu ermöglichen
+- Zanes Titan-Mech ist 26 cm groß, 9 cm lang und 15 cm breit. Zwischen den actionreichen Duellen bereichert er als Schaustück jedes Kinderzimmer
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4HNQTC/?tag=tolees0ca-21)

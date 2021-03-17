@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DFM7HVK-de LEGO 42114 Technic Control+ Knickgelenkter Volvo-Dumper...'
 sku: 'B00DFM7HVK-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Blu-ray','Bürobedarf & Schreibwaren','Chibi Figuren','Computer & Zubehör','DVD & Blu-ray','Datenspeicher','Elektronik & Foto','Externe Datenspeicher','Externe Festplatten','Featured Categories','Filme','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Hobbys','In-Ear Ohrhörer','Interner Speicher','Kabel','Kabel & Zubehör','Kinderspielfiguren & -fahrzeuge','Komödie & Unterhaltung','Kopfhörer','Kopfhörer & Zubehör','Marker & Filzstifte','Netzteile für Handys','Permanent-Marker','Sammelfiguren','Sammelfiguren & Requisiten','Schreibwaren','Science Fiction','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Tablet PCs','Tragbare Bluetooth-Lautsprecher','Tragbare Geräte','Tragbare Lautsprecher & Audio-Docks','USB-Kabel','Wackelkopffiguren','Zubehör','Zubehör für tragbare Geräte','lego', ]
+tags: [ 'Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bitsätze','Blu-ray','Bürobedarf & Schreibwaren','Chibi Figuren','Computer & Zubehör','DVD & Blu-ray','Datenspeicher','Drogerie & Körperpflege','Elektro- & Handwerkzeuge','Elektronik & Foto','Externe Datenspeicher','Externe Festplatten','Featured Categories','Filme','Geröstete Kaffeebohnen','Geschirrreinigung','Getränke, Kaffee & Tee','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Haushaltsreinigungsmittel','Haushaltswaren','Hobbys','In-Ear Ohrhörer','Interner Speicher','Kabel','Kabel & Zubehör','Kaffee & Espresso','Kinderspielfiguren & -fahrzeuge','Komödie & Unterhaltung','Kopfhörer','Kopfhörer & Zubehör','Lebensmittel','Lebensmittel & Getränke','Marker & Filzstifte','Netzteile für Handys','Permanent-Marker','Sammelfiguren','Sammelfiguren & Requisiten','Schraubendreher-Zubehör','Schreibwaren','Science Fiction','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spülmaschinenreinigung','Tablet PCs','Tragbare Bluetooth-Lautsprecher','Tragbare Geräte','Tragbare Lautsprecher & Audio-Docks','USB-Kabel','Wackelkopffiguren','Zubehör','Zubehör für Elektrowerkzeuge','Zubehör für tragbare Geräte','lego', ]
 actualPrice: 179.9 EUR
 currency: EUR
 price: 179.9
@@ -28,11 +28,11 @@ Sie können [LEGO 42114 Technic Control+ Knickgelenkter Volvo-Dumper  6x6   Mode
 
 ℹ️:
 
+- Auf der Suche nach einem ferngesteuerten Spielzeug-Laster? Dieser fantastische LEGO Technic Modellbausatz enthält einen appgesteuerten Volvo-Dumper und ist ein tolles Geschenk für jeden Baumeister ab 11 Jahren
+- Das LEGO Technic Bauset „Knickgelenkter Volvo-Dumper (6x6)“ (42114) lässt Kinder die Geheimnisse von Mega-Baufahrzeugen lüften, indem sie mithilfe der App das Modell lenken, die Mulde kippen und die Gänge wechseln
 - Dieses Modell strotzt nur so vor authentischen Details. Die LEGO Technic CONTROL+ App verschafft Kindern die volle Kontrolle über ihr Modell, denn sie enthält Steuerbildschirme, Herausforderungen und Belohnungen sowie exklusive Inhalte
-- Die Spielzeug-Version des Volvo-Dumpers ist 20 cm hoch, 60 cm lang und 20 cm breit und eignet sich wunderbar für Rollenspiele auf der Baustelle. Das Set lässt sich mit anderen Bausets kombinieren, um noch mehr Spaß zu bieten
 - Während des Bauens werden noch keine Batterien benötigt. Um jedoch die coolen technischen Funktionen dieses appgesteuerten Spielzeugs im vollen Umfang genießen zu können, musst du dem Modell 6 AA-Batterien (1,5 V) spendieren
 - Kinder werden es lieben, ihre eigene Modellversion des knickgelenkten Volvo-Dumpers A60H zu bauen. Und dank der coolen Funktionen in der LEGO Technic CONTROL+ App geht der Spaß erst richtig los, wenn das Modell fertig ist
-- Das LEGO Technic Bauset „Knickgelenkter Volvo-Dumper (6x6)“ (42114) lässt Kinder die Geheimnisse von Mega-Baufahrzeugen lüften, indem sie mithilfe der App das Modell lenken, die Mulde kippen und die Gänge wechseln
-- Auf der Suche nach einem ferngesteuerten Spielzeug-Laster? Dieser fantastische LEGO Technic Modellbausatz enthält einen appgesteuerten Volvo-Dumper und ist ein tolles Geschenk für jeden Baumeister ab 11 Jahren
+- Die Spielzeug-Version des Volvo-Dumpers ist 20 cm hoch, 60 cm lang und 20 cm breit und eignet sich wunderbar für Rollenspiele auf der Baustelle. Das Set lässt sich mit anderen Bausets kombinieren, um noch mehr Spaß zu bieten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00DFM7HVK/?tag=tolees0ca-21)
