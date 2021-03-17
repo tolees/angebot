@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Microsoft - Xbox Wireless Controller Sho mit 20.26 % Rabatt'
-date: 2021-03-16 06:31:48
+date: 2021-03-17 07:38:14
 image: 'https://m.media-amazon.com/images/I/41sMC1pGmdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087VMGP5G-de Microsoft - Xbox Wireless Controller Shock Blue'
 sku: 'B087VMGP5G-de'
-tags: [  ]
+tags: [ 'microsoft', ]
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.de/dp/B087VMGP5G/?tag=tolees0ca-21'
 descuento: '20.26'
-average: '65.8861445783134'
+average: '65.6062352941178'
 ---
 
 Sie können [Microsoft - Xbox Wireless Controller Shock Blue](https://www.amazon.de/dp/B087VMGP5G/?tag=tolees0ca-21) mit Preis 53.99 EUR (original: 67.71 EUR) 20.26 % Rabatt hier:
@@ -28,13 +28,13 @@ Sie können [Microsoft - Xbox Wireless Controller Shock Blue](https://www.amazon
 
 ℹ️:
 
+- Enthält Xbox Wireless und Bluetooth-Technologie für drahtlose Spiele auf Konsole, PC, Mobiltelefonen und Tablets
+- Bleibe mit Hilfe der strukturierten Oberflächen an Triggern, Bumpers und Rückseite auf Zielkurs
+- Passe den Controller auf deine Bedürfnisse an und weise die Tasten so zu, wie du möchtest
 - Hergestellt für mehr Komfort und bessere Haptik
 - Verfügt über Xbox Wireless- und Bluetooth-Technologie für drahtloses Gaming auf unterstützten Konsolen, Windows 10-PCs und Android-Smartphones sowie Tablets
-- Enthält Xbox Wireless und Bluetooth-Technologie für drahtlose Spiele auf Konsole, PC, Mobiltelefonen und Tablets
 - Das neue hybride D-Pad ermöglicht eine genaue und dennoch vertraute Eingabe
-- Passe den Controller auf deine Bedürfnisse an und weise die Tasten so zu, wie du möchtest
 - An der 3,5mm-Stereo-Headsetbuchse kannst du kompatible Headsets und Kopfhörer anschließen
 - Dank der neuen Share Taste kannst du Inhalte wie Screenshots während des Spiels mühelos aufnehmen und teilen.
-- Bleibe mit Hilfe der strukturierten Oberflächen an Triggern, Bumpers und Rückseite auf Zielkurs
 
 [🛒 Hier!!](https://www.amazon.de/dp/B087VMGP5G/?tag=tolees0ca-21)
