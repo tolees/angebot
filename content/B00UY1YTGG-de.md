@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UY1YTGG-de PopSockets - Ausziehbarer Nicht Austauschbarer Sockel und...'
 sku: 'B00UY1YTGG-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 5.81 EUR
 currency: EUR
 price: 5.81

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TTJF86E-de Clarks Men’s Tilden Walk Derby Schwarz Black Leather 42.5 EU'
 sku: 'B00TTJF86E-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 62.11 EUR
 currency: EUR
 price: 62.11

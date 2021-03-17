@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JL73ZZD-de BenQ ZOWIE RL2460S 60 96 cm 24 Zoll Konsolen e-Sports...'
 sku: 'B07JL73ZZD-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 174.99 EUR
 currency: EUR
 price: 174.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XCK5PRM-de Tageslichtlampe 10000 Lux Tageslichtleuchte LED...'
 sku: 'B07XCK5PRM-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

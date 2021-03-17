@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001TCUGKC-de Samsung GT-B2100 Outdoor Handy 1 3 MP-Kamera MP3...'
 sku: 'B001TCUGKC-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 149.97 EUR
 currency: EUR
 price: 149.97

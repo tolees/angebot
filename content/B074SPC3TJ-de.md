@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074SPC3TJ-de Philips Star Wars Special Edition Nass-und Trockenrasierer...'
 sku: 'B074SPC3TJ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 183.21 EUR
 currency: EUR
 price: 183.21

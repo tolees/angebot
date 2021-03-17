@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SG5P7R2-de RÖSLE Steak Besteck Set 4-teilig Edelstahl 18/10 inkl....'
 sku: 'B00SG5P7R2-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 17.57 EUR
 currency: EUR
 price: 17.57

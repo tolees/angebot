@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PV97J2Q-de NextBase S2RFCZ Rückfahrkamera Blickwinkel horizontal...'
 sku: 'B07PV97J2Q-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 58.06 EUR
 currency: EUR
 price: 58.06

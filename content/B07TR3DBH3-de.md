@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TR3DBH3-de Clarks Damen Orinoco Strap Slingback Sandalen Schwarz...'
 sku: 'B07TR3DBH3-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 61.74 EUR
 currency: EUR
 price: 61.74

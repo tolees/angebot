@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E5XH4OS-de MAJA-Möbel 1611 9499 TV- HiFi-Rack Metall Alu - Klarglas...'
 sku: 'B00E5XH4OS-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 133.99 EUR
 currency: EUR
 price: 133.99

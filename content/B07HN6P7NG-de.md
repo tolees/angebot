@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HN6P7NG-de Ballon [Blu-ray]'
 sku: 'B07HN6P7NG-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 6.33 EUR
 currency: EUR
 price: 6.33

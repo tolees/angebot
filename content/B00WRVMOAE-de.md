@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WRVMOAE-de Der Alte - Collector s Box Volume 18 Folgen 281 - 295 [5...'
 sku: 'B00WRVMOAE-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

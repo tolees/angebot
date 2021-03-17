@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B6V9HQD-de Salewa WS WILD HIKER MID GTX Damen Trekking- &...'
 sku: 'B07B6V9HQD-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 51.1 EUR
 currency: EUR
 price: 51.1

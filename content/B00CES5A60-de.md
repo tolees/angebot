@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CES5A60-de Logitech C930e Business-Webcam Full-HD 1080p 90° Blickfeld...'
 sku: 'B00CES5A60-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 78.09 EUR
 currency: EUR
 price: 78.09

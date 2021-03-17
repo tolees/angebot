@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IKI352E-de Bosch Professional 18V System Akku GBA 18V 5.0Ah'
 sku: 'B00IKI352E-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 66.88 EUR
 currency: EUR
 price: 66.88

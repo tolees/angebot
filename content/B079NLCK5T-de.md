@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079NLCK5T-de TFA Dostmann Küchen-Chef Digitales...'
 sku: 'B079NLCK5T-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X93DWV9-de Victure 1080P WLAN IP Kamera Überwachungskamera Aussen PIR...'
 sku: 'B07X93DWV9-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

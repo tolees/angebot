@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HS8GDUS-de Barbara Becker präsentiert das Bauch Beine Po-Bootcamp...'
 sku: 'B00HS8GDUS-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 4.69 EUR
 currency: EUR
 price: 4.69

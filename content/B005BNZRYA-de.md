@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005BNZRYA-de Käfer Caffè Crema ganze Bohne Aroma-Softpack 1.000 g 1er...'
 sku: 'B005BNZRYA-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

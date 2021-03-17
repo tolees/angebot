@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WCM6F7Z-de ORICO Tool-Free 5 Bay USB 3.0 3.5 Zoll Magnetic-Type...'
 sku: 'B07WCM6F7Z-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

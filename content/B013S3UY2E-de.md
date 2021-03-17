@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013S3UY2E-de Creative Sound BlasterX H3 analoges Pro-Gaming Headset...'
 sku: 'B013S3UY2E-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 40.57 EUR
 currency: EUR
 price: 40.57

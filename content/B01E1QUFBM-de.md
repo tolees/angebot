@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E1QUFBM-de Samsung Galaxy S7 Smartphone 12 92 cm 5 1 Zoll Touch-...'
 sku: 'B01E1QUFBM-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

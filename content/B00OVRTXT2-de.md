@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OVRTXT2-de Im Labyrinth des Schweigens'
 sku: 'B00OVRTXT2-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 4.29 EUR
 currency: EUR
 price: 4.29

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G3DHY8C-de Samsung T835 Galaxy Tab S4 LTE Tablet-PC 4GB RAM schwarz'
 sku: 'B07G3DHY8C-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 317.0 EUR
 currency: EUR
 price: 317.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072BPGY4R-de Samsung Galaxy Book W620 26 92 cm 10 6 Zoll Convertible...'
 sku: 'B072BPGY4R-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 383.0 EUR
 currency: EUR
 price: 383.0

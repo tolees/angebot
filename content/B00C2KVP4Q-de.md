@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C2KVP4Q-de ONLY Female Skinny Fit Jeans ONLUltimate King reg M32Dark...'
 sku: 'B00C2KVP4Q-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 23.84 EUR
 currency: EUR
 price: 23.84

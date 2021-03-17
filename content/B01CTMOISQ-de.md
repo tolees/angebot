@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CTMOISQ-de Forever Speed Super ECO Teichpumpe Filterpumpe Energiespar...'
 sku: 'B01CTMOISQ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079PDJS9Z-de I Tonya'
 sku: 'B079PDJS9Z-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

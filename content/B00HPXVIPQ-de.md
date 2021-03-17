@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HPXVIPQ-de Gardena Comfort FLEX Schlauch 13 mm 1/2 Zoll 10 m:...'
 sku: 'B00HPXVIPQ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

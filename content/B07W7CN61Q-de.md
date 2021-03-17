@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7CN61Q-de BRAX Herren Style Cadiz Ultralight Hose Blau Ocean 22 31W...'
 sku: 'B07W7CN61Q-de'
-tags: [ 'brax', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bekleidung','Computer & Zubehör','Herren-Hosen','Herrenbekleidung','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug','brax', ]
 actualPrice: 53.07 EUR
 currency: EUR
 price: 53.07

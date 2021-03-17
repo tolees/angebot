@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014WKULNY-de EMOS 1x universales selbstverschweißendes Band LxBxH 5 m x...'
 sku: 'B014WKULNY-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 1.35 EUR
 currency: EUR
 price: 1.35

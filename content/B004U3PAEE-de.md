@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004U3PAEE-de Rustic 103667630382 Stumpenkerze mit Metallic-Finish...'
 sku: 'B004U3PAEE-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 2.92 EUR
 currency: EUR
 price: 2.92

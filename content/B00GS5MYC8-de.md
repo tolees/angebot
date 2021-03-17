@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GS5MYC8-de Bosch Rasenmäher ARM 34 Grasfangbox Karton 1300 W...'
 sku: 'B00GS5MYC8-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 85.99 EUR
 currency: EUR
 price: 85.99

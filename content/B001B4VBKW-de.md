@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001B4VBKW-de Brennenstuhl BREMAXX Verlängerungskabel 20m Kabel in...'
 sku: 'B001B4VBKW-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 32.66 EUR
 currency: EUR
 price: 32.66

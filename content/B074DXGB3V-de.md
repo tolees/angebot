@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074DXGB3V-de WD My Cloud Home persönlicher Cloudspeicher 8 TB zentraler...'
 sku: 'B074DXGB3V-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

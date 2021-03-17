@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BLG3IOM-de De Longhi Toaster Icona Vintage CTOV2103.GR - 2-Schlitz-...'
 sku: 'B00BLG3IOM-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 57.19 EUR
 currency: EUR
 price: 57.19

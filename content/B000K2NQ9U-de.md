@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000K2NQ9U-de Mannesmann M10997 Zangensatz 4-teilig'
 sku: 'B000K2NQ9U-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 12.96 EUR
 currency: EUR
 price: 12.96

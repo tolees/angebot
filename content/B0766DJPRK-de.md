@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0766DJPRK-de PLAYMOBIL Family Fun 9420 Sonnige Ferienvilla Ab 4 Jahren'
 sku: 'B0766DJPRK-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

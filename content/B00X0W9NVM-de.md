@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X0W9NVM-de Tommy Hilfiger Herren JOHNSON MINI CC FLAP AND COIN POCKET...'
 sku: 'B00X0W9NVM-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

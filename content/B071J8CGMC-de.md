@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071J8CGMC-de Garmin VIRB 360 - wasserdichte 360-Grad-Kamera mit GPS und...'
 sku: 'B071J8CGMC-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 388 EUR
 currency: EUR
 price: 388

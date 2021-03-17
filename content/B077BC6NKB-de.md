@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077BC6NKB-de Hasbro FurReal Friends E0497EU4 Frisierspaß Hündchen...'
 sku: 'B077BC6NKB-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

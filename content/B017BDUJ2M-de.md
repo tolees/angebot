@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017BDUJ2M-de Donic-Schildkröt Tischtennisschläger CarboTec 900 20%...'
 sku: 'B017BDUJ2M-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

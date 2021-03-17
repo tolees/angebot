@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RC7RS7M-de Ecco Damen SOFT7W Sneakers Schwarz BLACK 1001 40 EU'
 sku: 'B00RC7RS7M-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

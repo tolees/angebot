@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J37YHD2-de Under Armour Undeniable Duffel 4.0 geräumige Sporttasche...'
 sku: 'B07J37YHD2-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 36.95 EUR
 currency: EUR
 price: 36.95

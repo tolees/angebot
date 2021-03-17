@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085VLRP4Z-de Gowind6 Video-Kabel für SNES Nintendo 64 N64 1 8 m'
 sku: 'B085VLRP4Z-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 5.05 EUR
 currency: EUR
 price: 5.05

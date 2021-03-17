@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001FGLN2W-de BOSCH 3397004772 Wischblatt Heck H772 - Länge: 340'
 sku: 'B001FGLN2W-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 3.76 EUR
 currency: EUR
 price: 3.76

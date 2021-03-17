@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004TGL2K8-de KMC X8-93 Kette 114 Glieder Silber/Grau'
 sku: 'B004TGL2K8-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

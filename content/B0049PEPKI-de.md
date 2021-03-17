@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0049PEPKI-de Gardena Akku-Grasschere ComfortCut: Rasenkantenschneider...'
 sku: 'B0049PEPKI-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

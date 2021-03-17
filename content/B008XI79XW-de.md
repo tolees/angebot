@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008XI79XW-de Bosch Dampfbügeleisen TDA503001P sparsame eco Dampfstufe...'
 sku: 'B008XI79XW-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

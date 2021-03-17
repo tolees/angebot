@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087GLLQ7Q-de Telefunken XU55J521 139 cm / 55 Zoll Fernseher Smart TV...'
 sku: 'B087GLLQ7Q-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 349.99 EUR
 currency: EUR
 price: 349.99

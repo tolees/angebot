@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076QKQWBQ-de Speedlink HDMI auf VGA Adapter HQ - Vergoldete Kontakte -...'
 sku: 'B076QKQWBQ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 10.28 EUR
 currency: EUR
 price: 10.28

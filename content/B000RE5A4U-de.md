@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000RE5A4U-de Eastpak Wyoming Rucksack 40 cm 24 L Schwarz Black'
 sku: 'B000RE5A4U-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 31.9 EUR
 currency: EUR
 price: 31.9

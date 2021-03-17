@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003UOYB8A-de Duracell Specialty 2032 Lithium-Knopfzelle 3 V 2er-Packung...'
 sku: 'B003UOYB8A-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

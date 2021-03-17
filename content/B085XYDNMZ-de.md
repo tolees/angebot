@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085XYDNMZ-de Dittzz Technic Auto Bausteine AMG-G65 2.4Ghz RC Sportwagen...'
 sku: 'B085XYDNMZ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 115.99 EUR
 currency: EUR
 price: 115.99

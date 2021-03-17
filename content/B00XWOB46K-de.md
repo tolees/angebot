@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XWOB46K-de Nike Herren Court Royale Sneaker Sneakers Weiß White /...'
 sku: 'B00XWOB46K-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 34.72 EUR
 currency: EUR
 price: 34.72

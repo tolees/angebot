@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005P21MNW-de SKROSS Country Adapter World to Europe: Reiseadapter für...'
 sku: 'B005P21MNW-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 6.32 EUR
 currency: EUR
 price: 6.32

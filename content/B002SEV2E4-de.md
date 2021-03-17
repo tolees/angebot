@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002SEV2E4-de sodastream 1020195490 Sirup Cola Sugar Free 500 ml...'
 sku: 'B002SEV2E4-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 3.69 EUR
 currency: EUR
 price: 3.69

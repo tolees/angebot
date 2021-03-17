@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W586CDZ-de TP-Link Kasa Amazon Alexa zubehör Smart Home WLAN...'
 sku: 'B06W586CDZ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

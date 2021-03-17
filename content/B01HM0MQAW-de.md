@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HM0MQAW-de FIBARO Double Switch 2 / Z-Wave Plus Relaisschalter...'
 sku: 'B01HM0MQAW-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 43.27 EUR
 currency: EUR
 price: 43.27

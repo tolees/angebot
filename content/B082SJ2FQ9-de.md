@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SJ2FQ9-de K9CK LED Licht Set für Lego Modell - DIY Leuchtende...'
 sku: 'B082SJ2FQ9-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

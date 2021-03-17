@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0765C2PPR-de LEGO Friends Das große Rennen 41352 Kinderspielzeug'
 sku: 'B0765C2PPR-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

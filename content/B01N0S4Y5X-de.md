@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0S4Y5X-de Bosch Professional Akku-Bohrhammer GBH 18 V-26 F 2 x 5 0...'
 sku: 'B01N0S4Y5X-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 425.0 EUR
 currency: EUR
 price: 425.0

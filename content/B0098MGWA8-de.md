@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0098MGWA8-de Netatmo Smarte Wetterstation - WLAN Funk Innen- und...'
 sku: 'B0098MGWA8-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 143.13 EUR
 currency: EUR
 price: 143.13

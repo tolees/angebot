@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0777TNHLJ-de Pop Royal Family Prince William Vinyl Figure'
 sku: 'B0777TNHLJ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

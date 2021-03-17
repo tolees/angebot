@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U65CWOG-de Russell Hobbs Multicooker 5 0l digitales Display + Timer...'
 sku: 'B00U65CWOG-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

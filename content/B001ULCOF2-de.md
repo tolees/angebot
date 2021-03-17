@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001ULCOF2-de tesa Insect Stop COMFORT Fliegengitter für Fenster -...'
 sku: 'B001ULCOF2-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

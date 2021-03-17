@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M86YCPQ-de SD-Kartenleser Micro SD / TF-Compact-Flash-Kartenleser mit...'
 sku: 'B07M86YCPQ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

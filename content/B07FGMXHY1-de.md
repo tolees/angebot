@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FGMXHY1-de Salewa Herren Sweatshirts Pedroc Pgd M Fz HDY Black...'
 sku: 'B07FGMXHY1-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 104.9 EUR
 currency: EUR
 price: 104.9

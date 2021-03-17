@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MEP27FA-de Clatronic RK 3566 Reiskocher und Dampfgarer in Einem...'
 sku: 'B00MEP27FA-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 27.25 EUR
 currency: EUR
 price: 27.25

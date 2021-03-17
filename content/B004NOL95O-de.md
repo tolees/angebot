@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004NOL95O-de Draper Expert 02753 Innenmessgerät 50-160 mm'
 sku: 'B004NOL95O-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 62.21 EUR
 currency: EUR
 price: 62.21

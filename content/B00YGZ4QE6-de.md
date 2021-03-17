@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YGZ4QE6-de Hasbro Gaming B7063100 - Pie Face Partyspiel'
 sku: 'B00YGZ4QE6-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

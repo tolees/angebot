@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077C6PL3K-de Diesel Damen Analog Quarz Uhr mit Edelstahl Armband DZ5567'
 sku: 'B077C6PL3K-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 117.99 EUR
 currency: EUR
 price: 117.99

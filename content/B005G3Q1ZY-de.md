@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005G3Q1ZY-de Tefal Talent Pro E44040 Grillpfanne 26 cm...'
 sku: 'B005G3Q1ZY-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 42.23 EUR
 currency: EUR
 price: 42.23

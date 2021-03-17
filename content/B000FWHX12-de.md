@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000FWHX12-de Segafredo Kaffee Espresso - Intermezzo 1000g Bohnen'
 sku: 'B000FWHX12-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 10.79 EUR
 currency: EUR
 price: 10.79

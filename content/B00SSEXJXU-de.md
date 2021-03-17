@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SSEXJXU-de Oac 3cd Slipcase - Wham [3 CD]'
 sku: 'B00SSEXJXU-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 6.93 EUR
 currency: EUR
 price: 6.93

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075KNJXLB-de hansgrohe Wasserhahn Novus wassersparende Armatur Auslauf...'
 sku: 'B075KNJXLB-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

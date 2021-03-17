@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000H6SSII-de JBL 61672 Solar-Leuchtstoffröhre Tageslichtröhre für...'
 sku: 'B000H6SSII-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 17.37 EUR
 currency: EUR
 price: 17.37

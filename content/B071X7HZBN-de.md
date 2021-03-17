@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071X7HZBN-de POP Television: Bob Ross'
 sku: 'B071X7HZBN-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

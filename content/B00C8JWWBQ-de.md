@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C8JWWBQ-de D-Link DGS-1100-08 8-Port Layer2 Gigabit Switch EasySmart...'
 sku: 'B00C8JWWBQ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 27.2 EUR
 currency: EUR
 price: 27.2

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008SO7JZ4-de Remington Haarglätter Keratin Therapy S8590 innovativer...'
 sku: 'B008SO7JZ4-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

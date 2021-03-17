@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CJRIQU8-de Keter Gerätehaus Manor 6x8 DD Grau 7 6 m³'
 sku: 'B00CJRIQU8-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

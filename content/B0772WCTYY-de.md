@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0772WCTYY-de Sluban M38-70128B Pat and Mat at The Workbank Mehrfarbig'
 sku: 'B0772WCTYY-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 7.63 EUR
 currency: EUR
 price: 7.63

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0013IJ2NY-de Troja Director s Cut [Blu-ray]'
 sku: 'B0013IJ2NY-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 6.44 EUR
 currency: EUR
 price: 6.44

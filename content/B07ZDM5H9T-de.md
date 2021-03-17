@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZDM5H9T-de Philips Hi-Res Audio Kopfhörer PH802BK/00 On Ear Bluetooth...'
 sku: 'B07ZDM5H9T-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 74.75 EUR
 currency: EUR
 price: 74.75

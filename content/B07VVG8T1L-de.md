@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VVG8T1L-de ATOMIC Unisex – Erwachsene Count 360 Goggles Rot/Pink-Gelb...'
 sku: 'B07VVG8T1L-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

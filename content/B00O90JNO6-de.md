@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O90JNO6-de HUGO Herren 708 Slim Jeans Blau Dark Blue 405 W32/L32'
 sku: 'B00O90JNO6-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 79.79 EUR
 currency: EUR
 price: 79.79

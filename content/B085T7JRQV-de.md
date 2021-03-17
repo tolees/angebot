@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085T7JRQV-de Dittzz Technic Auto 919 Hybrid Sportwagen Bauset 1586...'
 sku: 'B085T7JRQV-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

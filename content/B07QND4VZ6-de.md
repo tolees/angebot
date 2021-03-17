@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QND4VZ6-de Samsung MU-PA500R/EU Portable SSD T5 500 GB USB 3.1...'
 sku: 'B07QND4VZ6-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 77.79 EUR
 currency: EUR
 price: 77.79

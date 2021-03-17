@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GV3MSUA-de CMP Damen Zipp Off Hose Antracite 40'
 sku: 'B00GV3MSUA-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 36.66 EUR
 currency: EUR
 price: 36.66

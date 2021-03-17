@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087LTGJXG-de EXTSUD Gummiband und Nasenbügel Set Elastische Schnur Band...'
 sku: 'B087LTGJXG-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 13.89 EUR
 currency: EUR
 price: 13.89

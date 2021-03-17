@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083XDMKYV-de DXX Technik Bausteine Auto Off-Road 1090Teile 2.4G 4CH...'
 sku: 'B083XDMKYV-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

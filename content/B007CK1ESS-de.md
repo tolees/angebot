@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007CK1ESS-de NUK Babyphone mit Kamera Eco Control+ Video mit...'
 sku: 'B007CK1ESS-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 133.68 EUR
 currency: EUR
 price: 133.68

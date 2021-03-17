@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WD8G8FB-de Edelstahl Trichter yidenguk Kitchen Strainer Trichter Set...'
 sku: 'B07WD8G8FB-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

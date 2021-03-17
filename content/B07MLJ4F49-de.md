@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MLJ4F49-de Lenovo Smart Tab M10 mit Amazon Alexa 25 5 cm 10 1 Zoll...'
 sku: 'B07MLJ4F49-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

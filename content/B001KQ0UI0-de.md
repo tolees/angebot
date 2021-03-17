@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001KQ0UI0-de Fisher-Price P4326 Meine erste Toilette Töpfchen und...'
 sku: 'B001KQ0UI0-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

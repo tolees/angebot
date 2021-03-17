@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PXIHB56-de Yamaha EPH-M200 In-Ear Kopfhörer 15 mm Treiber weiß'
 sku: 'B00PXIHB56-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 35.02 EUR
 currency: EUR
 price: 35.02

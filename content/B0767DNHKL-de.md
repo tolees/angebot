@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0767DNHKL-de Playmobil 9334 - Sheriff'
 sku: 'B0767DNHKL-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 1.48 EUR
 currency: EUR
 price: 1.48

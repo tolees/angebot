@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078YG62KQ-de Philips 996596003606 Original Fernbedienung für 32PFS5362...'
 sku: 'B078YG62KQ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

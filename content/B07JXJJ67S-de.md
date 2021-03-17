@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JXJJ67S-de PLAYMOBIL City Life 70015 Mein Lieblingscafé Ab 4 Jahren'
 sku: 'B07JXJJ67S-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 29.88 EUR
 currency: EUR
 price: 29.88

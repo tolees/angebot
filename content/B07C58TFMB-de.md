@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C58TFMB-de Netgear GS752TPP 52-Port Gigabit Ethernet LAN PoE Switch...'
 sku: 'B07C58TFMB-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 540.82 EUR
 currency: EUR
 price: 540.82

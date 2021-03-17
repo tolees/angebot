@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MSHJKS-de PLAYMOBIL City Life 9456 Chemieunterricht Ab 5 Jahren'
 sku: 'B079MSHJKS-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 12.18 EUR
 currency: EUR
 price: 12.18

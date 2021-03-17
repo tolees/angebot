@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KLS61D4-de EZVIZ CTQ3W Überwachungskamera aussen WLAN/LAN IP Kamera...'
 sku: 'B07KLS61D4-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

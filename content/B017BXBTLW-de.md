@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017BXBTLW-de Schwiizer Schüümli Gastronom Ganze Kaffeebohnen 1kg...'
 sku: 'B017BXBTLW-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 11.09 EUR
 currency: EUR
 price: 11.09

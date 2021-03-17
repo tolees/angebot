@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SYIVDYM-de Fjällräven Herren High Coast Wind Jacket Anorak Navy XL'
 sku: 'B00SYIVDYM-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

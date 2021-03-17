@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003WYZT2A-de LEGO Star Wars 8020325 Sturmtruppler Kinder-Armbanduhr mit...'
 sku: 'B003WYZT2A-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

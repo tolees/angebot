@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015QDYF2Y-de Colgate Komplett Ultra Weiß Zahnpasta 12er Pack 12 x 75 ml'
 sku: 'B015QDYF2Y-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 6.87 EUR
 currency: EUR
 price: 6.87

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X4SO5XS-de G.I.G.A. DX Damen Madoka Parka Dunkelnavy 42'
 sku: 'B00X4SO5XS-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 69.66 EUR
 currency: EUR
 price: 69.66

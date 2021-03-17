@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RT9FG95-de Externe DVD CD Laufwerke - iAmotus DVD Laufwerk USB 3.0...'
 sku: 'B07RT9FG95-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

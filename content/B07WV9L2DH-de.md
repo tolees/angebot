@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WV9L2DH-de BRIKSMAX Led Beleuchtungsset für Lego Ideas Die NASA-...'
 sku: 'B07WV9L2DH-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0099M2IWI-de Casio Collection Herren-Armbanduhr AE 1200WH 1AVEF'
 sku: 'B0099M2IWI-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 17.54 EUR
 currency: EUR
 price: 17.54

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VX6GBGZ-de ExcLent 10-24 Cm De Acero Inoxidable De Boca Ancha Líquido...'
 sku: 'B07VX6GBGZ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 7.31 EUR
 currency: EUR
 price: 7.31

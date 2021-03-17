@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QN96P3N-de Amzchef Zerkleinerer Elektrisch Universalzerkleinerer mit...'
 sku: 'B07QN96P3N-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

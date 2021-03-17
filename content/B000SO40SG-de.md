@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000SO40SG-de Rössler 1329452707 - S.O.H.O. Wire-O Fotoalbum 290 x 290...'
 sku: 'B000SO40SG-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

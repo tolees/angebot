@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C5X3VP5-de JACK & JONES Herren JJEHOLMEN Sweat Hood NOOS...'
 sku: 'B07C5X3VP5-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

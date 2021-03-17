@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00821FLSU-de Ubbi 10006 Stahl Windeleimer grau'
 sku: 'B00821FLSU-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 50.71 EUR
 currency: EUR
 price: 50.71

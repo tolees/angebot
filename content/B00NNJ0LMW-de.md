@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NNJ0LMW-de LED Lenser F1R high Performance Line F-Serie 1x 18650 Li-...'
 sku: 'B00NNJ0LMW-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 55.93 EUR
 currency: EUR
 price: 55.93

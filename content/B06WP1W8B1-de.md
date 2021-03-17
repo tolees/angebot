@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WP1W8B1-de PLAYMOBIL 9247 - DreamWorks Dragons Astrid und Sturmpfeil...'
 sku: 'B06WP1W8B1-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

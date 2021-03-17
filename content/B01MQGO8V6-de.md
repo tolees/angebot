@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQGO8V6-de Nikon D5600 Kit AF-P DX 18-55 VR Spiegelreflexkamera 8 1...'
 sku: 'B01MQGO8V6-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 477.0 EUR
 currency: EUR
 price: 477.0

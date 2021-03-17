@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FGI2QVC-de Anker 2.4G Wireless Maus Vertikale Ergonomische Funkmaus...'
 sku: 'B00FGI2QVC-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089SKQL9J-de LED TV Hintergrundbeleuchtung MustWin 3M USB LED...'
 sku: 'B089SKQL9J-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

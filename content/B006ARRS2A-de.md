@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006ARRS2A-de WOLF-Garten - Sport- und Spiel-Rasen LG 500; 3825040'
 sku: 'B006ARRS2A-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

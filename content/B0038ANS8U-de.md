@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0038ANS8U-de KidKraft 53179 - Rosa Retroküche'
 sku: 'B0038ANS8U-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

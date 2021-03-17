@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000EULJLU-de 10.000 Days'
 sku: 'B000EULJLU-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 9.77 EUR
 currency: EUR
 price: 9.77

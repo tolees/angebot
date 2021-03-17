@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072N8F1JJ-de roba Spielregal Rennfahrer Spielzeug- & Aufbewahrungs-...'
 sku: 'B072N8F1JJ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 44.06 EUR
 currency: EUR
 price: 44.06

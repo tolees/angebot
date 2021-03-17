@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J3XIAH0-de LogiLink MP0032 Modular Splitter 4Port RJ45 geschirmt mit...'
 sku: 'B00J3XIAH0-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 7.65 EUR
 currency: EUR
 price: 7.65

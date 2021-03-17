@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TFNEOIC-de normani 4 x Herren Retroshorts mit hohem Baumwollanteil...'
 sku: 'B00TFNEOIC-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 15.08 EUR
 currency: EUR
 price: 15.08

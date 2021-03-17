@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BBYFCZT-de Tesoky Automatisch Desinfektionsspender Automatisk...'
 sku: 'B08BBYFCZT-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

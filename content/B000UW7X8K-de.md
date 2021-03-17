@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000UW7X8K-de Jung Abdeckung CD561SATWW für SAT-TV-Steckdose'
 sku: 'B000UW7X8K-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 2.89 EUR
 currency: EUR
 price: 2.89

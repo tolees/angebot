@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I5G76UI-de Lamy 1226061 al-star Füllhalter Aluminium Feder M blaugrün'
 sku: 'B00I5G76UI-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 18.79 EUR
 currency: EUR
 price: 18.79

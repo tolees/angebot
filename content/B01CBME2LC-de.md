@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CBME2LC-de Funko 8659 S1 No Actionfigur Suicide Squad: Joker...'
 sku: 'B01CBME2LC-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 8.01 EUR
 currency: EUR
 price: 8.01

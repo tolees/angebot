@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0089JFT1Y-de Silikomart 196371 Eisform Classic Mini 4er-Form'
 sku: 'B0089JFT1Y-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 10.36 EUR
 currency: EUR
 price: 10.36

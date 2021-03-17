@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LE0A9OQ-de 707'
 sku: 'B01LE0A9OQ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

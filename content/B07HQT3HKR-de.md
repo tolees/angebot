@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HQT3HKR-de Odys NoteTab Pro 25 7 cm 10 1 Zoll 1 3 Ghz QuadCore...'
 sku: 'B07HQT3HKR-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 82.96 EUR
 currency: EUR
 price: 82.96

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073WC6YRH-de PAUL HEWITT Anker Armkette Anchor Spirit Plated - Armkette...'
 sku: 'B073WC6YRH-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 42.16 EUR
 currency: EUR
 price: 42.16

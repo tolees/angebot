@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MFFVG13-de Forefront Cases Kobo Aura One 7.8 Zoll Origami Hülle...'
 sku: 'B01MFFVG13-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

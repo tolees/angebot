@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZ2TDZO-de Gigabyte GeForce GTX 1060 GV-N1060WF2OC-6GDGrafikkarte...'
 sku: 'B01LZ2TDZO-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 185.0 EUR
 currency: EUR
 price: 185.0

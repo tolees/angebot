@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013WSME96-de Sony Xperia Z5 Smartphone 5 2 Zoll 13 2 cm Touch-Display...'
 sku: 'B013WSME96-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

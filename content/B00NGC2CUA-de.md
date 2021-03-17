@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NGC2CUA-de Tassimo Kapseln Milka 40 Kakao Kapseln 5er Pack 5 x 8...'
 sku: 'B00NGC2CUA-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 16.93 EUR
 currency: EUR
 price: 16.93

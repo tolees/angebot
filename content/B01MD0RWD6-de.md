@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MD0RWD6-de Stranger Things Funko Pop! Vinyl Figur Demogorgon 9cm aus...'
 sku: 'B01MD0RWD6-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DPK4IPO-de The North Face Unisex Rucksack Borealis Classic tnf...'
 sku: 'B01DPK4IPO-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 43.32 EUR
 currency: EUR
 price: 43.32

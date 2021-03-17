@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000NRLXWO-de Chopard Wish Duschgel 150 ml'
 sku: 'B000NRLXWO-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 6.72 EUR
 currency: EUR
 price: 6.72

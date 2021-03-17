@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015GZA5QC-de Timberland Herren Bradstreet Leather Sensorflex Chukka...'
 sku: 'B015GZA5QC-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

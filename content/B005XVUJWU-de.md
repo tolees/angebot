@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005XVUJWU-de Bosch 0092S40070 Starterbatterien'
 sku: 'B005XVUJWU-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 69.58 EUR
 currency: EUR
 price: 69.58

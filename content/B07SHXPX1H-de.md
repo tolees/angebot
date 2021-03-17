@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SHXPX1H-de Samsung Galaxy S10+ Smartphone 16.3cm 6.4 Zoll 512 GB...'
 sku: 'B07SHXPX1H-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 729.0 EUR
 currency: EUR
 price: 729.0

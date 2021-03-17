@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HG08M7K-de Fossil Damen Analog Quarz Uhr mit Edelstahl Armband ES3545'
 sku: 'B00HG08M7K-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 105.2 EUR
 currency: EUR
 price: 105.2

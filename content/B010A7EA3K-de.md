@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010A7EA3K-de Icy Box IB-AC636 Tablet Halterung 22 9 cm bis 27 9 cm mit...'
 sku: 'B010A7EA3K-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 59.27 EUR
 currency: EUR
 price: 59.27

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004WL9MVG-de Gordon & Bros Herren Levet Derby Braun tan 42 EU'
 sku: 'B004WL9MVG-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 82.43 EUR
 currency: EUR
 price: 82.43

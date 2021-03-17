@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G8FN3XD-de Huawei Mate 20 lite Dual-SIM Android 8.1 Smartphone mit...'
 sku: 'B07G8FN3XD-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 148.45 EUR
 currency: EUR
 price: 148.45

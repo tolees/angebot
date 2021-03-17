@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076Z3QFFY-de Dyson DYS-5028155 V 7 Motorhead Origin 100 W 21.6 V Grau...'
 sku: 'B076Z3QFFY-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 284.0 EUR
 currency: EUR
 price: 284.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CR7H3F9-de Fairy Ultra Plus Konzentrat Original Spülmittel 800 ml'
 sku: 'B07CR7H3F9-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

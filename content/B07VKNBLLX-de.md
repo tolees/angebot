@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VKNBLLX-de ZTE Smartphone Blade 10 16 cm 6 3 Zoll FHD+ Display 64 GB...'
 sku: 'B07VKNBLLX-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

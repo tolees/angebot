@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074ZFF31Y-de De Longhi Nespresso EN 500.W Kaffeemaschine 1400 W 1 l 19...'
 sku: 'B074ZFF31Y-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

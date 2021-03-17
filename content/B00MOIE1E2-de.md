@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MOIE1E2-de De Longhi Autentica Cappuccino ETAM 29.660.SB...'
 sku: 'B00MOIE1E2-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 468.34 EUR
 currency: EUR
 price: 468.34

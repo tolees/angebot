@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KCL8ZZO-de Krups F30908 Krups ProAroma Glas-Kaffeemaschine 10 Tassen...'
 sku: 'B00KCL8ZZO-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

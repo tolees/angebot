@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MV8VYH-de Playmobil 9481 Spielzeug-Maricela'
 sku: 'B079MV8VYH-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

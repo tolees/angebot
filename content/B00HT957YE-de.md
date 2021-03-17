@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HT957YE-de Original Einhell System Akku Power X-Change Lithium Ionen...'
 sku: 'B00HT957YE-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 35.69 EUR
 currency: EUR
 price: 35.69

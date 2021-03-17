@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LB5GMMN-de SCHLEICH 42485 Pferdestall'
 sku: 'B07LB5GMMN-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 51.05 EUR
 currency: EUR
 price: 51.05

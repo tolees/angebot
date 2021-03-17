@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017BKY4E4-de Tepro Mini Kugelgrill Holzkohlegrill"Salida" für unterwegs...'
 sku: 'B017BKY4E4-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 19 EUR
 currency: EUR
 price: 19

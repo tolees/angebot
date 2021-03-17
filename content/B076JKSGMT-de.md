@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076JKSGMT-de Talisker Single Malt Whisky 10 Jahre Geschenkpackung mit 2...'
 sku: 'B076JKSGMT-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 28.31 EUR
 currency: EUR
 price: 28.31

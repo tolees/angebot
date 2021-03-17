@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CQILASA-de UHU 45450 Doppel-Strips Extrem 4 kg 26 mm x 31 mm 16 Stück'
 sku: 'B00CQILASA-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 4.3 EUR
 currency: EUR
 price: 4.3

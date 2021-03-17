@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0053TDDEI-de Rotho Paso Mülleimer 40l mit Pedal und Deckel Kunststoff...'
 sku: 'B0053TDDEI-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 34.25 EUR
 currency: EUR
 price: 34.25

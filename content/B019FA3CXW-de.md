@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019FA3CXW-de Star Wars: Das Erwachen der Macht'
 sku: 'B019FA3CXW-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 2.56 EUR
 currency: EUR
 price: 2.56

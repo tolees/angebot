@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WYY4DT-de H0_V 522Teile 2.4GHz RC Modell Geländewagen Buggy...'
 sku: 'B082WYY4DT-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

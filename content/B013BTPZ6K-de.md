@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013BTPZ6K-de Hauck Duett 2 Geschwisterwagen bis 36 kg Zwillingsbuggy...'
 sku: 'B013BTPZ6K-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 292.0 EUR
 currency: EUR
 price: 292.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M4I8OLZ-de Parker IM Kugelschreiber | Schwarze Lackierung mit...'
 sku: 'B01M4I8OLZ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

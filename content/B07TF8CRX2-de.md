@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TF8CRX2-de Hasbro Monopoly E7572100 Monopoly Spiel: L.O.L. Surprise...'
 sku: 'B07TF8CRX2-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

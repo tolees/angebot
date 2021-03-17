@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H58KMLB-de Garmin Instinct – wasserdichte Sport-Smartwatch mit...'
 sku: 'B07H58KMLB-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

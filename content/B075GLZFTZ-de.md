@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GLZFTZ-de LEGO Duplo 10869 - Ausflug auf den Bauernhof Lernspielzeug...'
 sku: 'B075GLZFTZ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

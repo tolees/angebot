@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MZ2F3Z8-de Krups EA8105 Kaffeevollautomat automatische Reinigung...'
 sku: 'B00MZ2F3Z8-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 228.99 EUR
 currency: EUR
 price: 228.99

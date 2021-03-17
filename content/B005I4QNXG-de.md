@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005I4QNXG-de BaByliss C260E Welleneisen Easy Beach Waves'
 sku: 'B005I4QNXG-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 29.19 EUR
 currency: EUR
 price: 29.19

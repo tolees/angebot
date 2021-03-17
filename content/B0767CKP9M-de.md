@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0767CKP9M-de Playmobil 9339 - Waldelfe Spiel'
 sku: 'B0767CKP9M-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

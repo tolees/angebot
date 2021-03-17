@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072JH91YN-de LEGO Dimensions - Fun Pack - Teen Titans Go!'
 sku: 'B072JH91YN-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DX231ST-de Garmin Edge Explore GPS-Fahrrad-Navi - Vorinstallierte...'
 sku: 'B07DX231ST-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

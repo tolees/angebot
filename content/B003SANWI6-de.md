@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003SANWI6-de Western Digital WD1003FBYX RE4 1TB interne Festplatte 8 9...'
 sku: 'B003SANWI6-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

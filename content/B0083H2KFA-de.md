@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0083H2KFA-de Odys Seal 9 tragbarer DVD-Player mit zusätzlichem...'
 sku: 'B0083H2KFA-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 97.47 EUR
 currency: EUR
 price: 97.47

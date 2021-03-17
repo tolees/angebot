@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CWMMW7M-de Fdit 2er Universal Gasherd Herd Knopf Teil für...'
 sku: 'B07CWMMW7M-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

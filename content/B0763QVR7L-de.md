@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0763QVR7L-de MSI TORX FAN 12CM'
 sku: 'B0763QVR7L-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

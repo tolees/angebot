@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JXF7CMM-de LEABAGS Cambridge Umhängetasche Schultertasche...'
 sku: 'B00JXF7CMM-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 106.68 EUR
 currency: EUR
 price: 106.68

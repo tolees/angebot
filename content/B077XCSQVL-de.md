@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XCSQVL-de Ravensburger Kinderspiele 21353 Monsterstarker Glibberklatsch'
 sku: 'B077XCSQVL-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 13.11 EUR
 currency: EUR
 price: 13.11

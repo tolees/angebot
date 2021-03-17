@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D4RSK9L-de HyperX HX-HSCA-GD/NAP Cloud Alpha Gold - Gaming Kopfhörer...'
 sku: 'B07D4RSK9L-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

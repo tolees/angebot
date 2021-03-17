@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F2JM5ZC-de Karlie Transportbox Nomad Größe M 68 x 51 x 47 cm'
 sku: 'B00F2JM5ZC-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 34.11 EUR
 currency: EUR
 price: 34.11

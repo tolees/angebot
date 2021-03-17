@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002N6ZEFA-de Brennenstuhl Eco-Line Steckdosenleiste 6-fach...'
 sku: 'B002N6ZEFA-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

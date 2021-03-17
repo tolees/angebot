@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003VYAVXI-de Villeroy & Boch Toy s Delight Spieluhr "Weihnachtsbaum"...'
 sku: 'B003VYAVXI-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 89.9 EUR
 currency: EUR
 price: 89.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XJ5NLY2-de Crucial Ballistix Sport LT BLS4K8G4D26BFSCK Desktop Gaming...'
 sku: 'B06XJ5NLY2-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 102.59 EUR
 currency: EUR
 price: 102.59

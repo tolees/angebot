@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FF8P5WA-de Maier Sports Herren Funktionshose Oberjoch graphite 58'
 sku: 'B00FF8P5WA-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 83.26 EUR
 currency: EUR
 price: 83.26

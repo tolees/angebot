@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079DVN3VK-de Träumschön Biber Bettwäsche 135x200 2tlg | Bettwäsche-Set...'
 sku: 'B079DVN3VK-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

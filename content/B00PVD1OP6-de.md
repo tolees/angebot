@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PVD1OP6-de D-Link DCS-2530L Wireless AC 180° Panorama Cloud...'
 sku: 'B00PVD1OP6-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

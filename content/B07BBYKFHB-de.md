@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BBYKFHB-de SAGE SWM520 the No-Mess-Waffle Waffeleisen mit Teig-...'
 sku: 'B07BBYKFHB-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 94.9 EUR
 currency: EUR
 price: 94.9

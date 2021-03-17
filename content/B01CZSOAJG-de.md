@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CZSOAJG-de Jim Beam Double Oak Bourbon Whiskey 1 x 0.7 l'
 sku: 'B01CZSOAJG-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

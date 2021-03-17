@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006IBNJ1C-de Bodum assam Teebereiter French Press System Permanent...'
 sku: 'B006IBNJ1C-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 28.45 EUR
 currency: EUR
 price: 28.45

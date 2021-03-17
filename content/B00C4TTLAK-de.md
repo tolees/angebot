@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C4TTLAK-de Oehlbach Powercord C13 / 150 - Netzkabel mit Schukostecker...'
 sku: 'B00C4TTLAK-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 15.13 EUR
 currency: EUR
 price: 15.13

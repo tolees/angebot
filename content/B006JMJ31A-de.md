@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006JMJ31A-de Playmobil 4013 - SuperSet Pinguinbecken'
 sku: 'B006JMJ31A-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 23.0 EUR
 currency: EUR
 price: 23.0

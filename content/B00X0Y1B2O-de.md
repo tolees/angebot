@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X0Y1B2O-de Funko 5897 S1 No POP Vinylfigur Mulan Multi Standard'
 sku: 'B00X0Y1B2O-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

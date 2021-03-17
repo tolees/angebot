@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0198QDM9C-de Crucial Ballistix Sport LT BLS16G4D240FSC Desktop Gaming...'
 sku: 'B0198QDM9C-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 52.9 EUR
 currency: EUR
 price: 52.9

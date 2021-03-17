@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GNP4Y70-de Dark Grey/White'
 sku: 'B01GNP4Y70-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

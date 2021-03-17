@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000MX1YQY-de Casio Collection Unisex-Armbanduhr DB 36 1AVEF'
 sku: 'B000MX1YQY-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

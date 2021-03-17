@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BS6ATCO-de Bosch Rasentrimmer ART 35 Schultergurt Zusatzhandgriff...'
 sku: 'B00BS6ATCO-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

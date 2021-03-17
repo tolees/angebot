@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VV6Z43K-de LEGO Star Wars 75180 - Rathtar Escape Spielzeug'
 sku: 'B06VV6Z43K-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

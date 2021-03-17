@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085CLKXHL-de PUMA Sportsocken Crew 18 Paar Pack Statement Edition -...'
 sku: 'B085CLKXHL-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

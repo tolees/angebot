@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X43DFTQ-de Lenovo Chromebook C340 Laptop 29 5 cm 11 6 Zoll 1366x768...'
 sku: 'B07X43DFTQ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 231.57 EUR
 currency: EUR
 price: 231.57

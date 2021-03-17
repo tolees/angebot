@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MY1X9T9-de GIKERSY USB C Hub 7 IN 1 USB C Adapter mit 4K HDMI USB C...'
 sku: 'B07MY1X9T9-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

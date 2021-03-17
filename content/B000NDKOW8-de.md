@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000NDKOW8-de Kathrein ESC 30 Sat 3Loch Einzeldose'
 sku: 'B000NDKOW8-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 9.52 EUR
 currency: EUR
 price: 9.52

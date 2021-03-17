@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CCD7PQA-de Geox Herren U SYMBOL D Derby Schwarz BLACKC9999 42 EU'
 sku: 'B00CCD7PQA-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 76.7 EUR
 currency: EUR
 price: 76.7

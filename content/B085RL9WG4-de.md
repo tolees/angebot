@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085RL9WG4-de TONGJI Acryl Vitrine Kompatibel Mit Lego 42096 Technic...'
 sku: 'B085RL9WG4-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

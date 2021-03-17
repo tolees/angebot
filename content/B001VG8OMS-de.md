@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001VG8OMS-de Calvin Klein Underwear Herren Cotton Stretch Slip 3er Pack...'
 sku: 'B001VG8OMS-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 28.75 EUR
 currency: EUR
 price: 28.75

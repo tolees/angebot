@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000S6OKUM-de Sorel Herren Caribou Winterstiefel Dunkelbraun Bruno 43 EU'
 sku: 'B000S6OKUM-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 91.44 EUR
 currency: EUR
 price: 91.44

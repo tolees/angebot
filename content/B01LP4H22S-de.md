@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LP4H22S-de Bosch Professional Kreuzlinienlaser GLL 2-10 roter Laser...'
 sku: 'B01LP4H22S-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 62.0 EUR
 currency: EUR
 price: 62.0

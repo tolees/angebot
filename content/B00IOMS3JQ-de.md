@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IOMS3JQ-de Sylvanian Families 3149 - Chihuahua - Familie Wuffel'
 sku: 'B00IOMS3JQ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

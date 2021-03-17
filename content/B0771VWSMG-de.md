@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0771VWSMG-de Tefal Elegance C36708 Bratpfanne 32 cm Aluminium schwarz'
 sku: 'B0771VWSMG-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 24.46 EUR
 currency: EUR
 price: 24.46

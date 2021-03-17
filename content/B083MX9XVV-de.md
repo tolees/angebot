@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083MX9XVV-de Massagepistole Abask Massage Gun für Nacken Schulter...'
 sku: 'B083MX9XVV-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

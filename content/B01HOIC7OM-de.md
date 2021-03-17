@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HOIC7OM-de NUBWO S2 V4.1 Bluetooth kabellose On-Ear HiFi Stereo...'
 sku: 'B01HOIC7OM-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

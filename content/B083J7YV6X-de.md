@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083J7YV6X-de GODNECE LED Licht-Set für Baustein Klassisch RC Led...'
 sku: 'B083J7YV6X-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

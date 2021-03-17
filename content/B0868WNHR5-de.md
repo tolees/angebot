@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0868WNHR5-de Lenovo Chromebook S340T Laptop 35 6 cm 14 Zoll 1920x1080...'
 sku: 'B0868WNHR5-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 242.72 EUR
 currency: EUR
 price: 242.72

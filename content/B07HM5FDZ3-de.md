@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HM5FDZ3-de Legacy Vinyl Box Set [Vinyl LP]'
 sku: 'B07HM5FDZ3-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 134.26 EUR
 currency: EUR
 price: 134.26

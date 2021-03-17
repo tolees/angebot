@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M64JZV5-de JBL E55BT Over Ear Bluetooth Kopfhörer - Wireless...'
 sku: 'B01M64JZV5-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 104.89 EUR
 currency: EUR
 price: 104.89

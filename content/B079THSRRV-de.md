@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079THSRRV-de Funko 28888 No Actionfigur Game of Thrones: S8 Daenerys...'
 sku: 'B079THSRRV-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 11.72 EUR
 currency: EUR
 price: 11.72

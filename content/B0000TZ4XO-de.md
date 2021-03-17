@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0000TZ4XO-de Ravensburger 21570 Der Maulwurf und sein Lieblingsspiel'
 sku: 'B0000TZ4XO-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

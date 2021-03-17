@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013HFR2JG-de Unheimliche Begegnung der Dritten Art [Blu-ray]'
 sku: 'B013HFR2JG-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 5.55 EUR
 currency: EUR
 price: 5.55

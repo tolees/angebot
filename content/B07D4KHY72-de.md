@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D4KHY72-de Lenovo 15 6 Zoll Notebook Intel N4000 Dual Core 2x2.60 GHz...'
 sku: 'B07D4KHY72-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 359.0 EUR
 currency: EUR
 price: 359.0

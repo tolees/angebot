@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VYV36S6-de SAMSUNG Galaxy Note 10+ Smartphone Bundle 17.2cm 6.8 Zoll...'
 sku: 'B07VYV36S6-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 755.46 EUR
 currency: EUR
 price: 755.46

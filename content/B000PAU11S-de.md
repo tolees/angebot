@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000PAU11S-de Die Rotkäppchen-Verschwörung'
 sku: 'B000PAU11S-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 2.68 EUR
 currency: EUR
 price: 2.68

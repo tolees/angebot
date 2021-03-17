@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081SK9C7W-de Bluetooth Lautsprecher Tragbarer Bluedio HS Hurricane...'
 sku: 'B081SK9C7W-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

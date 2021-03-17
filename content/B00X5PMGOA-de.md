@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X5PMGOA-de WMF Aston Besteckset 12 Personen 60-teilig Monobloc-Messer...'
 sku: 'B00X5PMGOA-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 113.81 EUR
 currency: EUR
 price: 113.81

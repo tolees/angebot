@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PCDQSJM-de Sony Alpha 6000 Systemkamera 24 Megapixel 7 6 cm 3 Zoll...'
 sku: 'B00PCDQSJM-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 346.0 EUR
 currency: EUR
 price: 346.0

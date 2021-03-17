@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0798DJHGY-de Hasbro FurReal E0418EU4 - Cara mein kuscheliges Kätzchen...'
 sku: 'B0798DJHGY-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

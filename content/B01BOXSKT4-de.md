@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BOXSKT4-de NIVEA SUN Pflegendes After Sun Spray 200 ml Sprühflasche'
 sku: 'B01BOXSKT4-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

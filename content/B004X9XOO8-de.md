@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004X9XOO8-de Panasonic VW-PH80XE-K Robuste Softtasche geeignet für...'
 sku: 'B004X9XOO8-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 16.52 EUR
 currency: EUR
 price: 16.52

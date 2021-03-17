@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001Q3FSD4-de 1/la-le-Lu'
 sku: 'B001Q3FSD4-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 2.37 EUR
 currency: EUR
 price: 2.37

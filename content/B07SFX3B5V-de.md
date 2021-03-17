@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SFX3B5V-de Samsung Galaxy S10+ Smartphone Bundle 16.3cm 6.4 Zoll 128...'
 sku: 'B07SFX3B5V-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 649.0 EUR
 currency: EUR
 price: 649.0

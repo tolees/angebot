@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00009ENLP-de Dancook 7500 - Großer Boxgrill mit Seitenablagen und Rädern'
 sku: 'B00009ENLP-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 58.0 EUR
 currency: EUR
 price: 58.0

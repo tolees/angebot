@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J90OOIA-de Fire 7-Tablet 16 GB Schwarz mit Spezialangeboten vorherige...'
 sku: 'B01J90OOIA-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 40.68 EUR
 currency: EUR
 price: 40.68

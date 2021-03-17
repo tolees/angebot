@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016IGUBH6-de Neff TTT1906N / T19TT06N0 / Autarkes Kochfeld /...'
 sku: 'B016IGUBH6-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 359.0 EUR
 currency: EUR
 price: 359.0

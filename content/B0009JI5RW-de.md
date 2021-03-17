@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009JI5RW-de ZWILLING Schneiderschere Stoffschere Länge: 21 cm...'
 sku: 'B0009JI5RW-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 22.3 EUR
 currency: EUR
 price: 22.3

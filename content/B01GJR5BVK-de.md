@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GJR5BVK-de HP OfficeJet Pro 8715 Multifunktionsdrucker Instant Ink...'
 sku: 'B01GJR5BVK-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 132.06 EUR
 currency: EUR
 price: 132.06

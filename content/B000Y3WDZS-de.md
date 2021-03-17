@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000Y3WDZS-de Wrangler Herren Texas Contrast Jeans Blau Vintage...'
 sku: 'B000Y3WDZS-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 51.07 EUR
 currency: EUR
 price: 51.07

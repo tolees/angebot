@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001HUGYE8-de E-Mail für Dich [Special Edition]'
 sku: 'B001HUGYE8-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

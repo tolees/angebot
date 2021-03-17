@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KSQQ5SM-de BaByliss ST330E Glätteisen 2in1 Straight & Curl Intense...'
 sku: 'B00KSQQ5SM-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 23.97 EUR
 currency: EUR
 price: 23.97

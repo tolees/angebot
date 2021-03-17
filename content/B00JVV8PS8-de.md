@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JVV8PS8-de Panasonic eneloop Ready-to-Use Ni-MH Akku AAA Micro 4er...'
 sku: 'B00JVV8PS8-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 6.01 EUR
 currency: EUR
 price: 6.01

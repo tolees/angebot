@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0892DX3KH-de Axloie Bluetooth Kopfhörer Sport in Ear Wireless...'
 sku: 'B0892DX3KH-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

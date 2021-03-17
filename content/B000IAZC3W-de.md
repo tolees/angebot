@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000IAZC3W-de Victorinox Fibrox Tranchiermesser 22cm Rutschfest...'
 sku: 'B000IAZC3W-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 25.52 EUR
 currency: EUR
 price: 25.52

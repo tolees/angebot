@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0085SFX9M-de JACK & JONES Herren T-Shirt 12058529 Basic O-Neck Tee...'
 sku: 'B0085SFX9M-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 8.83 EUR
 currency: EUR
 price: 8.83

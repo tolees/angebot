@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0746MQ3DH-de Pegasus Spiele 18324G - Memoarrr Edition Spielwiese'
 sku: 'B0746MQ3DH-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 8.29 EUR
 currency: EUR
 price: 8.29

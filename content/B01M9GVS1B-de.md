@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M9GVS1B-de hummel Unisex Erwachsene Slimmer Stadil Tonal Low Sneaker'
 sku: 'B01M9GVS1B-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

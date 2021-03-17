@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P96KY7Q-de Funko 40325 POP Vinyl: RWBY: Weiss Schnee Sammelbares...'
 sku: 'B07P96KY7Q-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

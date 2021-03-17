@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K47HCQS-de Krups HZ4071 Perfect Mix 9000 Pro Stabmixer | inklusive 4...'
 sku: 'B01K47HCQS-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

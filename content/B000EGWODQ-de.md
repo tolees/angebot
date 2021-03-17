@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000EGWODQ-de Varta V381 Knopfzelle 45mAh 1 Stück'
 sku: 'B000EGWODQ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 0.61 EUR
 currency: EUR
 price: 0.61

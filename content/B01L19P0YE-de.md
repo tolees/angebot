@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L19P0YE-de TomTom Touch Wechselarmband - Himmelblau Größe S geeignet...'
 sku: 'B01L19P0YE-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

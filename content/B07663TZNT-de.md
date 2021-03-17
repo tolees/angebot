@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07663TZNT-de CAMELBAK Trinkflasche Chute Mag 750 ml sea glass'
 sku: 'B07663TZNT-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 13.52 EUR
 currency: EUR
 price: 13.52

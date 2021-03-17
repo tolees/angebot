@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KBWBI6M-de Oral-B PRO 3000 CrossAction'
 sku: 'B00KBWBI6M-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 61.9 EUR
 currency: EUR
 price: 61.9

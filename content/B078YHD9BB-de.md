@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078YHD9BB-de Microsoft Surface Book 2 38 1 cm 15 Zoll Laptop Intel Core...'
 sku: 'B078YHD9BB-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 545.0 EUR
 currency: EUR
 price: 545.0

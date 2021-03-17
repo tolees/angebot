@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009H2UWJG-de Russian Standard Original Vodka 1 x 0.7 l'
 sku: 'B009H2UWJG-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0114LNOS8-de Dell KB216 580-ADHE Mutlimedia Tastatur schwarz QWERTZ'
 sku: 'B0114LNOS8-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

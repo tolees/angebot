@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0711M6FVK-de Under Armour Damen Fly Fast Tight Legging schwarz Black /...'
 sku: 'B0711M6FVK-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 38.47 EUR
 currency: EUR
 price: 38.47

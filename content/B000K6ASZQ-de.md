@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000K6ASZQ-de STABILO OHPen 853/4 M non-permanent 4er Etui'
 sku: 'B000K6ASZQ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 3.08 EUR
 currency: EUR
 price: 3.08

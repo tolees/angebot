@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J9IG0JI-de ABUS AB72498 5805C Vorhängeschloss Schwarz 110 cm Länge'
 sku: 'B01J9IG0JI-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

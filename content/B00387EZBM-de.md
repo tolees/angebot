@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00387EZBM-de Bosch BBZ154HF HEPA Filter'
 sku: 'B00387EZBM-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 4.87 EUR
 currency: EUR
 price: 4.87

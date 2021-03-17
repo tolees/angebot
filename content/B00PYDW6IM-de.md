@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PYDW6IM-de Nike Md Runner 2 Herren Gymnastikschuhe Blau Midnight...'
 sku: 'B00PYDW6IM-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 53.9 EUR
 currency: EUR
 price: 53.9

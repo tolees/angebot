@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081B1T7VP-de Bose SoundTouch 20 Series III wireless music system'
 sku: 'B081B1T7VP-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 199 EUR
 currency: EUR
 price: 199

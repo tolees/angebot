@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076DNLS3G-de Oral-B CrossAction Aufsteckbürsten Briefkastenfähige...'
 sku: 'B076DNLS3G-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

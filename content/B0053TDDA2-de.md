@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0053TDDA2-de Rotho Paso Mülleimer 20l mit Deckel Kunststoff PP BPA-frei...'
 sku: 'B0053TDDA2-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 21.32 EUR
 currency: EUR
 price: 21.32

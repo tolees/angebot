@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000W2IBRK-de WMF Safari Kinderbesteck 4-teilig ab 3 Jahren Cromargan...'
 sku: 'B000W2IBRK-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

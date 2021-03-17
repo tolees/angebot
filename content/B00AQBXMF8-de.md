@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AQBXMF8-de Kyocera Klimaschutz-System Ecosys FS-1325MFP 4-in-1 Laser-...'
 sku: 'B00AQBXMF8-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 197.95 EUR
 currency: EUR
 price: 197.95

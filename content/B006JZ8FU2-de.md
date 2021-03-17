@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006JZ8FU2-de Schiesser Herren Bademantel Kapuze 128546-815 Blau...'
 sku: 'B006JZ8FU2-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 74.81 EUR
 currency: EUR
 price: 74.81

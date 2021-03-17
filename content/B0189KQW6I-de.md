@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0189KQW6I-de mecablitz 44 AF-2 für Sony Kameras DSLR und CSC |...'
 sku: 'B0189KQW6I-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

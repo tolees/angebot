@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079QQ9G5H-de König & Meyer 16075 Headphones Table Stand Schwarz'
 sku: 'B079QQ9G5H-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RCJ7E7O-de Crocs Creative Crocs Frozen Fuzz Lined Clog Mädchen Clogs...'
 sku: 'B00RCJ7E7O-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YA10NBQ-de Panasonic Nass/Trocken-Rasierer ES-LT4N mit ultraflexiblem...'
 sku: 'B00YA10NBQ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

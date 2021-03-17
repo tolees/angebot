@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000NIF31A-de Ecco ECCO OFFROAD Herren Outdoor Sandale Schwarz...'
 sku: 'B000NIF31A-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 48.2 EUR
 currency: EUR
 price: 48.2

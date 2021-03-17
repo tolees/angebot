@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016BEPP9O-de Kingston DT100G3/128GB DataTraveler 100 G3 USB 3.0 3.1...'
 sku: 'B016BEPP9O-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

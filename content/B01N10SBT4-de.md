@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N10SBT4-de PDP Nintendo Switch The Legend of Zelda: Breath of the...'
 sku: 'B01N10SBT4-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 11.76 EUR
 currency: EUR
 price: 11.76

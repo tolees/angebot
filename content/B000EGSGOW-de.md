@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000EGSGOW-de VARTA Longlife Power Batterie 4 5 V Block Alkaline...'
 sku: 'B000EGSGOW-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

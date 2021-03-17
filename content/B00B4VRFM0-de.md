@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B4VRFM0-de Fossil Herren Chronograph Quarz Uhr mit Edelstahl Armband...'
 sku: 'B00B4VRFM0-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 83.01 EUR
 currency: EUR
 price: 83.01

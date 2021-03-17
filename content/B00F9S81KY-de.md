@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F9S81KY-de Kleidertasche Pack-It Original Garment Folder M I...'
 sku: 'B00F9S81KY-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 19.02 EUR
 currency: EUR
 price: 19.02

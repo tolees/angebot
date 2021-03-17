@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073JVRRNQ-de The LEGO NINJAGO Movie Videogame - [Nintendo Switch]'
 sku: 'B073JVRRNQ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

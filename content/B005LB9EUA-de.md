@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005LB9EUA-de Green Toys Schulbus Spielzeugauto'
 sku: 'B005LB9EUA-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 31.14 EUR
 currency: EUR
 price: 31.14

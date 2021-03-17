@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078XXGQYQ-de Briggs & Stratton Tragbarer Benzin-Inverter-Generator der...'
 sku: 'B078XXGQYQ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 408.0 EUR
 currency: EUR
 price: 408.0

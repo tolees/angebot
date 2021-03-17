@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KHTLFOY-de Schiesser Damen Slip Tai 3er Pack Gr. 40 Schwarz schwarz 000'
 sku: 'B00KHTLFOY-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 14.7 EUR
 currency: EUR
 price: 14.7

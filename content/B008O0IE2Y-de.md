@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008O0IE2Y-de Canon Mount Adapter EF-EOS M schwarz'
 sku: 'B008O0IE2Y-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 91.28 EUR
 currency: EUR
 price: 91.28

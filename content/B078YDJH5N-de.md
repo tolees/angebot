@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078YDJH5N-de SLS3 Triathlon Einteiler Herren | FRT 2.0 Trisuit | 2...'
 sku: 'B078YDJH5N-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 71.19 EUR
 currency: EUR
 price: 71.19

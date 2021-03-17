@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HETFQKS-de Bose SoundLink Color II Bluetooth - Outdoor - Lautsprecher...'
 sku: 'B01HETFQKS-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 107.03 EUR
 currency: EUR
 price: 107.03

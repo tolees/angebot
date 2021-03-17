@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VPST91-de Barilla Pasta Gemelli n. 90 500g'
 sku: 'B082VPST91-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

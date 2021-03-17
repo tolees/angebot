@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072PRPGR8-de Acer Switch 5 SW512-52-5819 30 48 cm 12 Zoll QHD Multi-...'
 sku: 'B072PRPGR8-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 450.0 EUR
 currency: EUR
 price: 450.0

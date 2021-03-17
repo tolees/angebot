@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AZYPDY4-de WOLF-Garten - Amboss Astschere »Comfort Plus« POWER CUT**...'
 sku: 'B00AZYPDY4-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

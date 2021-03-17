@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08222SJJB-de Bosch Professional 18V System Akku Baustrahler GLI...'
 sku: 'B08222SJJB-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 129.49 EUR
 currency: EUR
 price: 129.49

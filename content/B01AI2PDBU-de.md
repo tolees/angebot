@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AI2PDBU-de Bosch Akku Heckenschere AHS 55-20 LI 1 Akku 18 Volt System...'
 sku: 'B01AI2PDBU-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 148.89 EUR
 currency: EUR
 price: 148.89

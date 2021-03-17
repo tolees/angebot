@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MS01VXT-de Kitchen Craft Kaffeebüchse Industrial Kitchen 11x16 5cm...'
 sku: 'B01MS01VXT-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 12.25 EUR
 currency: EUR
 price: 12.25

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P7KKCNQ-de PLAYMOBIL:THE MOVIE 70076 Kaiser Maximus im Kolosseum Ab 5...'
 sku: 'B07P7KKCNQ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

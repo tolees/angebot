@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016YQ8G5O-de Garmin fēnix 3 HR Saphir GPS-Multisportuhr...'
 sku: 'B016YQ8G5O-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 219.9 EUR
 currency: EUR
 price: 219.9

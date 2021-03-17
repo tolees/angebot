@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DVFSTKS-de Acer Swift 1 SF114-32-P31S 35 6 cm 14 Zoll Full-HD IPS...'
 sku: 'B07DVFSTKS-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 300.0 EUR
 currency: EUR
 price: 300.0

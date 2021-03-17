@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PAQGYKE-de Pioneer GM D1004 Verstärker für Kfz'
 sku: 'B00PAQGYKE-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 76.79 EUR
 currency: EUR
 price: 76.79

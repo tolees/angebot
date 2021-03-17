@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IEBAN6S-de TOTO: 35th Anniversary Tour-Live in Poland [Blu-ray]'
 sku: 'B00IEBAN6S-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

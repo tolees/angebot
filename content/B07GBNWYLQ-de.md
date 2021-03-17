@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GBNWYLQ-de VNOX Magnetfeldtherapie-Armband 99 9% Reine Rote Kupferne...'
 sku: 'B07GBNWYLQ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

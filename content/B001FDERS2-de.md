@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001FDERS2-de Wenko Herdabdeckplatte Universal Kaffee 2er Set für alle...'
 sku: 'B001FDERS2-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 16.02 EUR
 currency: EUR
 price: 16.02

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IZDL3CS-de B. toys by Battat – B. Pet Vet – Tierarztkoffer mit Arzt...'
 sku: 'B00IZDL3CS-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 39.25 EUR
 currency: EUR
 price: 39.25

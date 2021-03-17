@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QN67KN5-de Yaogroo 208 Spiele in 1 NDS Game Pack-Karte Super Combo...'
 sku: 'B07QN67KN5-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

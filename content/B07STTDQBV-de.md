@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STTDQBV-de s.Oliver Mädchen 66.908.32.5702 T-Shirt Beige Ecru 0210...'
 sku: 'B07STTDQBV-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

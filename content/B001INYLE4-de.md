@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001INYLE4-de Panasonic RPHV154EK In-Ear-Kopfhörer 1 2 m Kabellänge 3 5...'
 sku: 'B001INYLE4-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 4.93 EUR
 currency: EUR
 price: 4.93

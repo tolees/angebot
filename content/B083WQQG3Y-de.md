@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083WQQG3Y-de GODNECE Display Halterung Ständer Für 75257 Vertikaler...'
 sku: 'B083WQQG3Y-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

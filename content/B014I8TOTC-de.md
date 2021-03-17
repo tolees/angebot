@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014I8TOTC-de AmazonBasics HL-007318 Hochgeschwindigkeits-HDMI-Kabel...'
 sku: 'B014I8TOTC-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

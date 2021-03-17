@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001IOR85C-de Städter Ausstechform Edelstahl Silber 7.5 cm'
 sku: 'B001IOR85C-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

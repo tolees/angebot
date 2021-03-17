@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077VB1S1W-de Beloved Antichrist'
 sku: 'B077VB1S1W-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 8.06 EUR
 currency: EUR
 price: 8.06

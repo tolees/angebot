@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KLFACQ6-de WENKO Vacuum-Loc Eckregal Bari 2 Etagen Befestigen ohne...'
 sku: 'B00KLFACQ6-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 11.83 EUR
 currency: EUR
 price: 11.83

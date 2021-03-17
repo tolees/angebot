@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0761JP5PC-de Utopia'
 sku: 'B0761JP5PC-de'
-tags: [  ]
+tags: [ '355357031','Alternative & Indie','Bauspielzeug & Konstruktionsspielzeug','Bekleidung','Computer & Zubehör','Deutsch-Punk','Elektronik & Foto','Handys & Zubehör','Herren-Hosen','Herrenbekleidung','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Musik Kategorien','Musik aus Deutschland','Musik-CDs & Vinyl','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Punk','Punk & Hardcore','Repeater','Rock aus Deutschland','Smartwatches','Spielzeug', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

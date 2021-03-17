@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007CCQNXC-de Theo Klein 2813 - Bosch Car Service Parkhaus 5 Ebenen...'
 sku: 'B007CCQNXC-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

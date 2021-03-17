@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082PGPFSQ-de s.Oliver Herren 130.11.899.12.130.2037840 T-Shirt Blue XL'
 sku: 'B082PGPFSQ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 12.44 EUR
 currency: EUR
 price: 12.44

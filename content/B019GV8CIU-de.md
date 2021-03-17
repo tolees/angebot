@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019GV8CIU-de LECHUZA CUBE Color 14 13380 Kräutertopf Hochwertiger...'
 sku: 'B019GV8CIU-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 6.96 EUR
 currency: EUR
 price: 6.96

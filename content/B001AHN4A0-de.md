@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001AHN4A0-de HAN Briefablage KLASSIK 1026-X-23 in Transparent-Glasklar...'
 sku: 'B001AHN4A0-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

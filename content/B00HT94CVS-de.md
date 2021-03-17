@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HT94CVS-de Einhell Elektro-Rasentrimmer GC-ET 3023 300 W 11.000 1/min...'
 sku: 'B00HT94CVS-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 20.73 EUR
 currency: EUR
 price: 20.73

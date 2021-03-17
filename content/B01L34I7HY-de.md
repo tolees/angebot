@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L34I7HY-de Sony Xperia X Compact Smartphone 11 7 cm 4 6 Zoll 32 GB...'
 sku: 'B01L34I7HY-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 111.87 EUR
 currency: EUR
 price: 111.87

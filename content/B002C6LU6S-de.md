@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002C6LU6S-de Proxxon 23080 Steckschlüsselsatz 1/4 Zoll 36-teilig'
 sku: 'B002C6LU6S-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 33.98 EUR
 currency: EUR
 price: 33.98

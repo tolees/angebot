@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JNA337K-de Asus PCE-AC56 PCIe-Karte Wi-Fi 5 AC1300 Dual-Band PCIe 1x...'
 sku: 'B00JNA337K-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 42.37 EUR
 currency: EUR
 price: 42.37

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0811MY3NL-de HATTEKER Rasierer Elektrorasierer Herren Rasierapparat...'
 sku: 'B0811MY3NL-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 31.44 EUR
 currency: EUR
 price: 31.44

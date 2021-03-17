@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088ZN9BV5-de Heißklebepistole ORSIFOW 20W Klebepistole mit 42 Stück...'
 sku: 'B088ZN9BV5-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

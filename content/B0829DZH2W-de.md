@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0829DZH2W-de Sabrent Rocket Q 2TB NVMe PCIe M.2 2280 Interne...'
 sku: 'B0829DZH2W-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 229.89 EUR
 currency: EUR
 price: 229.89

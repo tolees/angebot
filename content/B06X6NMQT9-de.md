@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X6NMQT9-de Playmobil 6930 - Reitturnier'
 sku: 'B06X6NMQT9-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 23.07 EUR
 currency: EUR
 price: 23.07

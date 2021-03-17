@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BCQIIMS-de Philips DryCare Advanced Haartrockner mit ThermoProtect...'
 sku: 'B00BCQIIMS-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 14.36 EUR
 currency: EUR
 price: 14.36

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D39KBB5-de Dell 2YK0F - AC Adapter USB Type-C 65W Includes Power...'
 sku: 'B07D39KBB5-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 40.26 EUR
 currency: EUR
 price: 40.26

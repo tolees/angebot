@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085RX5SLX-de ColiCor Display Halterung DIY Vertikales Ständer für Lego...'
 sku: 'B085RX5SLX-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

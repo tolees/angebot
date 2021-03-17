@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B71MSVS-de Cardinal Games 6045052 - LOL Water Surprise Spiel...'
 sku: 'B07B71MSVS-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 9.64 EUR
 currency: EUR
 price: 9.64

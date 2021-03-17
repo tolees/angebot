@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L72YFLS-de Ankermann Business Work Silent leise PC PC Intel CPU 2X...'
 sku: 'B07L72YFLS-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

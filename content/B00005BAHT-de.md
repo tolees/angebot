@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00005BAHT-de Jakobs 4019960 - Rody Hüpfpferd rot'
 sku: 'B00005BAHT-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 23.76 EUR
 currency: EUR
 price: 23.76

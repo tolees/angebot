@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0746PBM7D-de Die Sims 4 - Standard Edition - [PlayStation 4] - Cover-...'
 sku: 'B0746PBM7D-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

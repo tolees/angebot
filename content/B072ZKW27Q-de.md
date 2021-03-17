@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072ZKW27Q-de Augsburger Puppenkiste - Klassiker Kollektion [5 DVDs]'
 sku: 'B072ZKW27Q-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 13.93 EUR
 currency: EUR
 price: 13.93

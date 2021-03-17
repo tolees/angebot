@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CDEXBEC-de Funko 9298 S1 No Actionfigur Games: Overwatch: Tracer Multi'
 sku: 'B01CDEXBEC-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 8.24 EUR
 currency: EUR
 price: 8.24

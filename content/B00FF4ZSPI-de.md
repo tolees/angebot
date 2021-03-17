@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FF4ZSPI-de Kultkomödien mit Thomas Gottschalk & Mike Krüger - 5DVD-...'
 sku: 'B00FF4ZSPI-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 11.13 EUR
 currency: EUR
 price: 11.13

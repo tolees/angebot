@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07THS9FYY-de LIGHTAILING Licht-Set Für Marvel Super Heroes Iron Mans...'
 sku: 'B07THS9FYY-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

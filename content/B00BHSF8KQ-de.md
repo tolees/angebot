@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BHSF8KQ-de erima Sporttasche Granit/Schwarz L 76 Liter 723334'
 sku: 'B00BHSF8KQ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 18.2 EUR
 currency: EUR
 price: 18.2

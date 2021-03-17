@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CAE8PM4-de Rode Rycote Edition VideoMic Line Gradient Polar Pattern'
 sku: 'B00CAE8PM4-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 58.21 EUR
 currency: EUR
 price: 58.21

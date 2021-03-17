@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013WAPAM2-de Bosch Professional Laser Entfernungsmesser GLM 50 C...'
 sku: 'B013WAPAM2-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 90.99 EUR
 currency: EUR
 price: 90.99

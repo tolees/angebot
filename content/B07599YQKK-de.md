@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07599YQKK-de Funko 24520 POP Bobble: Marvel: GOTG TT: Gamora'
 sku: 'B07599YQKK-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PB9RHTB-de Sylvanian Families 5360 Mini-Puppen Multi'
 sku: 'B07PB9RHTB-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

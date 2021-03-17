@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FY8B52E-de Panasonic TY-ER3D6ME Aktive Bluetooth Shutterbrille...'
 sku: 'B01FY8B52E-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 16.1 EUR
 currency: EUR
 price: 16.1

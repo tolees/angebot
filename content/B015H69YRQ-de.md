@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015H69YRQ-de Metallbaukasten CLAAS LEXION 770 Mähdrescher 2356 Teile...'
 sku: 'B015H69YRQ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

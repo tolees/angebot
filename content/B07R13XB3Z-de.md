@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R13XB3Z-de Badebomben Geschenkset 12 x 86g STNTUS Badekugeln...'
 sku: 'B07R13XB3Z-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

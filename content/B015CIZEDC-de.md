@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015CIZEDC-de Intenso Powerbank S10000 Slim externes Ladegerät 10000mAh...'
 sku: 'B015CIZEDC-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

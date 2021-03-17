@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CBME1SG-de Funko 7424 No Actionfigur Dragonball Z: Gohan'
 sku: 'B01CBME1SG-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

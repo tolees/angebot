@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071XW4C5Q-de Withings Body+ - WLAN-Körperwaage für...'
 sku: 'B071XW4C5Q-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

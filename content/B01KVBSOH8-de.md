@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KVBSOH8-de LOGONA Naturkosmetik mann After Shave Balm Beruhigend &...'
 sku: 'B01KVBSOH8-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

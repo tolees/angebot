@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BC1F4H2-de Captain Toad: Treasure Tracker - [Nintendo 3DS]'
 sku: 'B07BC1F4H2-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 24.87 EUR
 currency: EUR
 price: 24.87

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GV7W32C-de ELEGOO Roboter Penguin Bot Zweibeiniger Roboter Baukasten...'
 sku: 'B07GV7W32C-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DKR6LXC-de Asus ZenBook Pro 15 UX580GD 90NB0I73-M00240 Notebook 39 6...'
 sku: 'B07DKR6LXC-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 800.0 EUR
 currency: EUR
 price: 800.0

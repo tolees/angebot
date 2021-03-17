@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y4S8QKQ-de ACEPC T11 Mini-PC Windows 10 Pro 4GB DDR3/ 64GB eMMC/...'
 sku: 'B07Y4S8QKQ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

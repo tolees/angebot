@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000S5HYEM-de Herlitz 8842700 Packbandabroller für Grossrollen Ind. Abrisse'
 sku: 'B000S5HYEM-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 5.74 EUR
 currency: EUR
 price: 5.74

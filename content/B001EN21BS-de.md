@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001EN21BS-de Stanley Legendary Classic Vakuum-Thermoskanne 1.9 Liter...'
 sku: 'B001EN21BS-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 39.51 EUR
 currency: EUR
 price: 39.51

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072HHYT2D-de TOM TAILOR Damen Jeanshosen Alexa Straight Jeans mid Stone...'
 sku: 'B072HHYT2D-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 38.96 EUR
 currency: EUR
 price: 38.96

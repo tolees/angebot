@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MKGWLVY-de Huker 18-in-1 Schneeflocke Multitool Karte Edelstahl...'
 sku: 'B07MKGWLVY-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

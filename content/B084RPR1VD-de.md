@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084RPR1VD-de Bellivalini Damen Kurze Leggings aus Viskose BLV50-149...'
 sku: 'B084RPR1VD-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

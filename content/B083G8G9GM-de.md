@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083G8G9GM-de Samsung Galaxy S10 Lite Android Smartphone ohne Vertrag...'
 sku: 'B083G8G9GM-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

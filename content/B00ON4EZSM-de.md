@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ON4EZSM-de Funko 5100 No POP Vinylfigur: Supernatural: Crowley'
 sku: 'B00ON4EZSM-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

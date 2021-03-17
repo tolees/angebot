@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087M1MV1F-de Banane NEU 2020 2 Paar Niedlicher Ersatz Silikon Analog...'
 sku: 'B087M1MV1F-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 3.48 EUR
 currency: EUR
 price: 3.48

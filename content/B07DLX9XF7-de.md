@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DLX9XF7-de SAMSONITE PRO-DLX 5 - Spinner Tote for 15.6 Laptop - 3.3...'
 sku: 'B07DLX9XF7-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 233.06 EUR
 currency: EUR
 price: 233.06

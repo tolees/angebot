@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J3WL2SY-de ONLY Damen Onlnew ROYAL REG SK. Biker Coated NOOS Hose...'
 sku: 'B01J3WL2SY-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 26.54 EUR
 currency: EUR
 price: 26.54

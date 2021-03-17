@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H7IRE0G-de Sluban Spielzeug Baustein Set Hot Dog Wagen M38-B0565'
 sku: 'B01H7IRE0G-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 5.2 EUR
 currency: EUR
 price: 5.2

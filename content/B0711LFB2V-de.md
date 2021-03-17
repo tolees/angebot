@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0711LFB2V-de Lenovo Miix 720 Schwarz Hybrid 2-in-1 UK Keyboard - 30 5...'
 sku: 'B0711LFB2V-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 499 EUR
 currency: EUR
 price: 499

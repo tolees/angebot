@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GOMZS2S-de Grundig MS 6240 Herrenrasierer'
 sku: 'B00GOMZS2S-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0713QQGR5-de Bosch Säge AdvancedCut 50 500 Watt NanoBlade Technologie...'
 sku: 'B0713QQGR5-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

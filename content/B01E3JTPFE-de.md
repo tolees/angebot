@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E3JTPFE-de Bang & Olufsen BeoPlay S3 Bluetooth-Lautsprecher schwarz'
 sku: 'B01E3JTPFE-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 146.68 EUR
 currency: EUR
 price: 146.68

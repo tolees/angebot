@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L66MYKV-de AKASO Brave 6 Action Cam 4K 20MP WiFi Sprachsteuerung EIS...'
 sku: 'B07L66MYKV-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 53.11 EUR
 currency: EUR
 price: 53.11

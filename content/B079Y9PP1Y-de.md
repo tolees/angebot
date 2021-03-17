@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079Y9PP1Y-de Funko 30682 Actionfigur Marvel Spider-Man-Mary Jane mit...'
 sku: 'B079Y9PP1Y-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

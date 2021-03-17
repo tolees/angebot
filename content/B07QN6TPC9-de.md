@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QN6TPC9-de Dickie Toys 203715012 Prison Break Polizeistation...'
 sku: 'B07QN6TPC9-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 17.16 EUR
 currency: EUR
 price: 17.16

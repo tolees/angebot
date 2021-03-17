@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HM8GR4G-de Philips 50PUS6203/12 126 cm 50 Zoll LED-Fernseher 4K Ultra...'
 sku: 'B07HM8GR4G-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 225.0 EUR
 currency: EUR
 price: 225.0

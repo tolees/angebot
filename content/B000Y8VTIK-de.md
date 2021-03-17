@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000Y8VTIK-de Dewalt DT7030-QZ Adapter f. Bohrfutter SDS-plus 1/2Zoll'
 sku: 'B000Y8VTIK-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 11.84 EUR
 currency: EUR
 price: 11.84

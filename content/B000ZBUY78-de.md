@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000ZBUY78-de Seiko Damenuhr Analog Automatisch mit Edelstahlarmband –...'
 sku: 'B000ZBUY78-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 77.98 EUR
 currency: EUR
 price: 77.98

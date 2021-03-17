@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008YQPZN4-de Remington Elektrischer Rasierer Herren F7800 +LED Minuten-...'
 sku: 'B008YQPZN4-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 49.33 EUR
 currency: EUR
 price: 49.33

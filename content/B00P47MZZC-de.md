@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P47MZZC-de Led Leuchtmittel E27 Warmweiß 5W Tropfen Birne Licht 3000K...'
 sku: 'B00P47MZZC-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

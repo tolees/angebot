@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N3MBSCJ-de AMD – FirePro Radeon Pro WX 5100 8 GB PCIe 3.0 16 x 4 x DP...'
 sku: 'B01N3MBSCJ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 225.0 EUR
 currency: EUR
 price: 225.0

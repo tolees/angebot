@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0767FCWXY-de PLAYMOBIL Ghostbusters 9388 Stantz mit Flybike Ab 6 Jahren'
 sku: 'B0767FCWXY-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 11.75 EUR
 currency: EUR
 price: 11.75

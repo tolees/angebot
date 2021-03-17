@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BD2CIG2-de Urban Classics Ladies Tech Mesh Leggings Schwarz black 7 M'
 sku: 'B01BD2CIG2-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 15.52 EUR
 currency: EUR
 price: 15.52

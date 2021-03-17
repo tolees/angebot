@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072ZTRC6D-de Huawei Y6 2017 Grey'
 sku: 'B072ZTRC6D-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 96.72 EUR
 currency: EUR
 price: 96.72

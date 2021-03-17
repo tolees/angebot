@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073P7KZNL-de Kamik Unisex-Kinder SOUTHPOLE4 Schneestiefel Schwarz Black...'
 sku: 'B073P7KZNL-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 42.09 EUR
 currency: EUR
 price: 42.09

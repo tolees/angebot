@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VSTJ2WO-de Philips Audio SHB3075BK/00 On-Ear Kopfhörer Bluetooth...'
 sku: 'B00VSTJ2WO-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

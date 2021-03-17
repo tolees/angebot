@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008KIGWBU-de NESCAFÉ Dolce Gusto Latte Macchiato Caramel | 48...'
 sku: 'B008KIGWBU-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 10.47 EUR
 currency: EUR
 price: 10.47

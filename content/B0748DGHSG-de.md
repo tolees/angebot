@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0748DGHSG-de ViewSonic VP2785-4K 68 6 cm 27 Zoll Fotografen Monitor mit...'
 sku: 'B0748DGHSG-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 545.0 EUR
 currency: EUR
 price: 545.0

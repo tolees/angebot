@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VY25DSR-de Merry Style Damen Bikini Oberteil P614W Schwarz 9240 75 D'
 sku: 'B06VY25DSR-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 26.24 EUR
 currency: EUR
 price: 26.24

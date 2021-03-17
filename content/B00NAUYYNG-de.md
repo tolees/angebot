@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NAUYYNG-de Sony CMT-X3CD Micro-HiFi System CD USB Bluetooth 20 Watt rot'
 sku: 'B00NAUYYNG-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 130.99 EUR
 currency: EUR
 price: 130.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BPAI78K-de Hugo Boss Bottled Intense Eau De Parfum 100 ml'
 sku: 'B01BPAI78K-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 41.5 EUR
 currency: EUR
 price: 41.5

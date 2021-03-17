@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XCC71EG-de Leibniz PiCK UP! Black´n White 24 x 28 g-knackige weiße...'
 sku: 'B00XCC71EG-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

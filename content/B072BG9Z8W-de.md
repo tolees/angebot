@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072BG9Z8W-de Logitech MX Anywhere 2S Kabellose Maus Bluetooth und 2.4...'
 sku: 'B072BG9Z8W-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 60.9 EUR
 currency: EUR
 price: 60.9

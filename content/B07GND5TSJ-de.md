@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GND5TSJ-de DJI - Smart Battery für Mavic 2 Pro und Mavic 2 Zoom |...'
 sku: 'B07GND5TSJ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 115.89 EUR
 currency: EUR
 price: 115.89

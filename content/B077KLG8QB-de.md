@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077KLG8QB-de Garmin Vivomove HR Sport Fitness-Tracker Rosegold M'
 sku: 'B077KLG8QB-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

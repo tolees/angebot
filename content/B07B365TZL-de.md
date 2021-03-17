@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B365TZL-de DCU: Suicide Squad - Hell to Pay exklusiv bei Amazon.de...'
 sku: 'B07B365TZL-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

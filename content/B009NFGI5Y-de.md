@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009NFGI5Y-de Mattel Games Y9598 - Scrabble Original Wörterspiel und...'
 sku: 'B009NFGI5Y-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 20.59 EUR
 currency: EUR
 price: 20.59

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BJ3ZTIY-de Bauerfeind Kniebandage „Knee Support“ für Männer 1...'
 sku: 'B01BJ3ZTIY-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 63.2 EUR
 currency: EUR
 price: 63.2

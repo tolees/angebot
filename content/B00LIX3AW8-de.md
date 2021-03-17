@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LIX3AW8-de 3 Sprouts Aufbewahrungskiste Elefant'
 sku: 'B00LIX3AW8-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

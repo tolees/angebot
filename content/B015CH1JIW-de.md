@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015CH1JIW-de SanDisk Ultra Flair 32GB USB-Flash-Laufwerk USB 3.0 mit...'
 sku: 'B015CH1JIW-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001EPF9WO-de STAUB Gusseisen Bräter/ Cocotte oval 37 cm 8 L schwarz'
 sku: 'B001EPF9WO-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 185.8 EUR
 currency: EUR
 price: 185.8

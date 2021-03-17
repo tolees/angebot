@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0036DYURW-de NIKE Damen Sport-BH Victory Compression Schwarz...'
 sku: 'B0036DYURW-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

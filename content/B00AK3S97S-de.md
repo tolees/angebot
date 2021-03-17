@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AK3S97S-de James Bond - Die Welt ist nicht genug [Blu-ray]'
 sku: 'B00AK3S97S-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 6.75 EUR
 currency: EUR
 price: 6.75

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018EITAKK-de COMPO SAAT Vertikutier-Mix Rasensamen Rasendünger und...'
 sku: 'B018EITAKK-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 12.94 EUR
 currency: EUR
 price: 12.94

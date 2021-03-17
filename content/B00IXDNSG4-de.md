@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IXDNSG4-de axentia Türgarderobe mit 6 Haken Kleiderhaken für die Tür...'
 sku: 'B00IXDNSG4-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

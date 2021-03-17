@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017IZGILE-de Siemens EX645LXC1E iQ700 Kochfeld Elektro /...'
 sku: 'B017IZGILE-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014HLWKZK-de Levi Strauss & Co Herren 514 Jeans Blau Onewash 95977...'
 sku: 'B014HLWKZK-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 47.94 EUR
 currency: EUR
 price: 47.94

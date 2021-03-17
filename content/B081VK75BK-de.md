@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081VK75BK-de K9CK LED Licht Set für Lego Modell - DIY Leuchtende...'
 sku: 'B081VK75BK-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 23.69 EUR
 currency: EUR
 price: 23.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073WVPJMZ-de Akkuschrauber 12volt set TACKLIFE Akku-Bohrschrauber 2000...'
 sku: 'B073WVPJMZ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

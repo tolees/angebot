@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BI8HR3K-de Gigaset E630HX Universal-Mobilteil - IP-Telefon zum...'
 sku: 'B01BI8HR3K-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 88.96 EUR
 currency: EUR
 price: 88.96

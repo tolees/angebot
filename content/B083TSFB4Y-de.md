@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083TSFB4Y-de Crucial Ballistix BL2K8G26C16U4W 2666 MHz DDR4 DRAM...'
 sku: 'B083TSFB4Y-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 58.48 EUR
 currency: EUR
 price: 58.48

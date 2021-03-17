@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LBN3FKM-de Ice-Watch - ICE ola White Black - Women s wristwatch with...'
 sku: 'B00LBN3FKM-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 49.15 EUR
 currency: EUR
 price: 49.15

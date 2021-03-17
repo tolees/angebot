@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BL9E4OW-de VAUDE Damen Hose Women s Farley Stretch Capri T-Zip II...'
 sku: 'B00BL9E4OW-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 73.24 EUR
 currency: EUR
 price: 73.24

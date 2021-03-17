@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KZ67MS2-de LG 32QK500-W 80 01 cm 31 5 Zoll Monitor WQHD AMD Radeon...'
 sku: 'B07KZ67MS2-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 225.99 EUR
 currency: EUR
 price: 225.99

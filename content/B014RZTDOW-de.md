@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014RZTDOW-de Eizo EV2750-BK 68 5 cm 27 Zoll Monitor DVI-D HDMI USB 3.0...'
 sku: 'B014RZTDOW-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 383.0 EUR
 currency: EUR
 price: 383.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HTTWB2-de DXX Technik Bausteine Liebherr Kran LTM11200 7692Teile...'
 sku: 'B083HTTWB2-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 489.99 EUR
 currency: EUR
 price: 489.99

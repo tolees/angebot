@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P581CJH-de Playmobil 70194 City Life Oma mit Rollator ab 4 Jahren...'
 sku: 'B07P581CJH-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

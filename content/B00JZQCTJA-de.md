@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JZQCTJA-de Schiesser Damen Midi 2er Pack Slip Weiß Weiss 100 40...'
 sku: 'B00JZQCTJA-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

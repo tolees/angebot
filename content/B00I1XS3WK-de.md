@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I1XS3WK-de Motorola Handy Akku Original kompatible Mobiltelefone'
 sku: 'B00I1XS3WK-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

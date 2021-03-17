@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MPEVUDK-de Philips Disney Frozen Die Eiskönigin Olaf LED Taschenlampe...'
 sku: 'B00MPEVUDK-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 5.17 EUR
 currency: EUR
 price: 5.17

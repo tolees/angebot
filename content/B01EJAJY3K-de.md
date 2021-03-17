@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EJAJY3K-de Märklin Start up 29641 - Startpackung "Moderner...'
 sku: 'B01EJAJY3K-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

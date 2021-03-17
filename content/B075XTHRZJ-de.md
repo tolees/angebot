@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075XTHRZJ-de Hasbro Spiele C2131100 Probieren Oder Verlieren Partyspiel'
 sku: 'B075XTHRZJ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 7.91 EUR
 currency: EUR
 price: 7.91

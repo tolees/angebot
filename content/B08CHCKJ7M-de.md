@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CHCKJ7M-de Externes 3D Blu Ray DVD Laufwerk Brenner USB 3.0 Tragbare...'
 sku: 'B08CHCKJ7M-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BZB1S7V-de AOC AGON AG352UCG6 88 9 cm 35 Zoll Curved Monitor HDMI USB...'
 sku: 'B07BZB1S7V-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 769.0 EUR
 currency: EUR
 price: 769.0

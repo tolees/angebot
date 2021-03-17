@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KIHXS7W-de devolo dLAN 550 duo+ Starter Kit Powerline 500 Mbit/s...'
 sku: 'B00KIHXS7W-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

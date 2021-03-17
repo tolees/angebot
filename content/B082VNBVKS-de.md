@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VNBVKS-de L Oréal Men Expert Invincible Sport Duschgel mit...'
 sku: 'B082VNBVKS-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 1.87 EUR
 currency: EUR
 price: 1.87

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CH1Q9XJ-de Smoby 311207 Tefal French Touch Bubble Küche rot'
 sku: 'B07CH1Q9XJ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

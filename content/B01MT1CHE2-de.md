@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MT1CHE2-de Huawei Mate 9 14 9 cm 5 9 Zoll 64GB 12 Megapixel Kamera...'
 sku: 'B01MT1CHE2-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 239.99 EUR
 currency: EUR
 price: 239.99

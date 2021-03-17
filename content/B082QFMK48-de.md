@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082QFMK48-de Predator XB273GXbmiiprzx Gaming G-SYNC Compatible 27 Zoll...'
 sku: 'B082QFMK48-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 319.2 EUR
 currency: EUR
 price: 319.2

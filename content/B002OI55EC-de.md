@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002OI55EC-de Brennenstuhl Eco-Line Steckdosenleiste 3-fach...'
 sku: 'B002OI55EC-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 3.42 EUR
 currency: EUR
 price: 3.42

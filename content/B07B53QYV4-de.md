@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B53QYV4-de G-STAR RAW Damen Lynn Mid Skinny Jeans Lt Aged 8968-424...'
 sku: 'B07B53QYV4-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 42.02 EUR
 currency: EUR
 price: 42.02

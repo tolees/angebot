@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0002NUTSI-de Crosby Stills & Nash - Greatest Hits'
 sku: 'B0002NUTSI-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 3.92 EUR
 currency: EUR
 price: 3.92

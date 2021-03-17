@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K71WFMW-de Hot Wheels FXN21 - Auto Lift Expressway Track Set mit...'
 sku: 'B07K71WFMW-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 34.11 EUR
 currency: EUR
 price: 34.11

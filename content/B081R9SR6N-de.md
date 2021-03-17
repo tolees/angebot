@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081R9SR6N-de BRIKSMAX Led Beleuchtungsset für Lego Gingerbread House...'
 sku: 'B081R9SR6N-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

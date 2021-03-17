@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P82NFF5-de Funko 42192 POP Vinyl: Harry Potter S7-Professor Sybill...'
 sku: 'B07P82NFF5-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JM3TC29-de Außen Überwachungskamera 1080P WiFi Kamera Drahtlose...'
 sku: 'B08JM3TC29-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 49.89 EUR
 currency: EUR
 price: 49.89

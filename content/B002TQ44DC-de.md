@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002TQ44DC-de ANSMANN APS 1000 Universal Stecker Netzteil 12V inkl. 7...'
 sku: 'B002TQ44DC-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 13.64 EUR
 currency: EUR
 price: 13.64

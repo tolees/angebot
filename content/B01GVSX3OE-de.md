@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GVSX3OE-de Bungsa® B - Silberner Buchstaben Kristall Charm Anhänger...'
 sku: 'B01GVSX3OE-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

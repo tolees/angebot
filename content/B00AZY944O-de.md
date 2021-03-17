@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AZY944O-de Black+Decker Dampfreiniger Steam Mop Deluxe FSM1630 –...'
 sku: 'B00AZY944O-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 79.38 EUR
 currency: EUR
 price: 79.38

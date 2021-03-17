@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GJ24F5E-de Boccia Damen-Armbanduhr XS Analog Quarz Titan 3296-02'
 sku: 'B00GJ24F5E-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 81.32 EUR
 currency: EUR
 price: 81.32

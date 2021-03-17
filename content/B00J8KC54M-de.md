@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J8KC54M-de Wenko Herdabdeckplatte Universal Kräutergarten 2er Set...'
 sku: 'B00J8KC54M-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 15.71 EUR
 currency: EUR
 price: 15.71

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BCCSX6W-de B.K.Licht I schwenkbare LED Deckenleuchte I 6-flammiger...'
 sku: 'B01BCCSX6W-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

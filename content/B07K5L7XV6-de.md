@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K5L7XV6-de Levi s Herren Type 3 Sherpa Trucker-Jacke Blau Mayze...'
 sku: 'B07K5L7XV6-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

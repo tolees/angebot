@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EA1NNN0-de Microsoft Office Home and Student 2016 | PC | Box'
 sku: 'B01EA1NNN0-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 71.0 EUR
 currency: EUR
 price: 71.0

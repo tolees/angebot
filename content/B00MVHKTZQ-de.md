@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MVHKTZQ-de Anker 36W 5V / 7.2A 4 Port USB Ladegerät Wand Ladeadapter...'
 sku: 'B00MVHKTZQ-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

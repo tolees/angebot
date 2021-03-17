@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001CA6FTM-de HAZET 868X Verlängerung 1/4 Zoll 6.3 mm'
 sku: 'B001CA6FTM-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

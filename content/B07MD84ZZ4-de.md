@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MD84ZZ4-de Akkuschrauber GOXAWEE 12V Akku Bohrschrauber mit 100...'
 sku: 'B07MD84ZZ4-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 57.98 EUR
 currency: EUR
 price: 57.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002PHLZJ6-de Inter Link Sammlervitrine Hängevitrine Wandregal...'
 sku: 'B002PHLZJ6-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

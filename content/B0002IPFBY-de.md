@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0002IPFBY-de Netgear GS116GE 16-Port Gigabit Ethernet LAN Switch...'
 sku: 'B0002IPFBY-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 64.9 EUR
 currency: EUR
 price: 64.9

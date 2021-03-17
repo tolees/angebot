@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HK7H72T-de Apple Watch Series 4 GPS + Cellular 44mm Edelstahlgehäuse...'
 sku: 'B07HK7H72T-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 527.35 EUR
 currency: EUR
 price: 527.35

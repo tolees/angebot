@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GSX1VN8-de Bright Starts June Berry höhenverstellbare Lauflernhilfe...'
 sku: 'B00GSX1VN8-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 47.98 EUR
 currency: EUR
 price: 47.98

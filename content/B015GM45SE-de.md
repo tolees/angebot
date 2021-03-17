@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015GM45SE-de Ice-Watch - ICE glitter Black Rose-Gold - Women s...'
 sku: 'B015GM45SE-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 56.87 EUR
 currency: EUR
 price: 56.87

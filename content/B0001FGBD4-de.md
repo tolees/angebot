@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0001FGBD4-de Concord Jazz Sacd Sampler Vol.'
 sku: 'B0001FGBD4-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 8.93 EUR
 currency: EUR
 price: 8.93

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W22MPZY-de KINGDUO Update-Tool Für Den Walkera Up02-Transmitter-...'
 sku: 'B07W22MPZY-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 28.97 EUR
 currency: EUR
 price: 28.97

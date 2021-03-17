@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FR6C9CX-de [3 Bonusgegenstand] Simbans TangoTab 10-Zoll-Tablet 4 GB...'
 sku: 'B08FR6C9CX-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

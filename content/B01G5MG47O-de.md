@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G5MG47O-de Die Rosenheim-Cops - Die komplette elfte Staffel [6 DVDs]'
 sku: 'B01G5MG47O-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

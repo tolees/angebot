@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086C3GF8W-de LUKAT Bausteine Spielzeug für 5 6 7 8 9+ Jahre...'
 sku: 'B086C3GF8W-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

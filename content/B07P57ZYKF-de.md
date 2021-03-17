@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P57ZYKF-de PLAYMOBIL:THE MOVIE 70074 Marla Del und Pferd mit Flügeln...'
 sku: 'B07P57ZYKF-de'
-tags: [  ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
 actualPrice: 6.58 EUR
 currency: EUR
 price: 6.58
