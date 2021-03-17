@@ -1,14 +1,14 @@
 ---
 layout: post
 title: '28.30 % rabat auf LEGO 42099 Technic Control+ 4x4 Allrad X'
-date: 2021-03-15 20:44:31
+date: 2021-03-17 00:57:30
 image: 'https://m.media-amazon.com/images/I/51HWQ-wkFdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ND6CFHZ-de LEGO 42099 Technic Control+ 4x4 Allrad Xtreme-Geländewagen...'
 sku: 'B07ND6CFHZ-de'
-tags: [  ]
+tags: [ 'lego', ]
 actualPrice: 164.9 EUR
 currency: EUR
 price: 164.9
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21'
 descuento: '28.30'
-average: '166.808546365916'
+average: '166.799027431422'
 ---
 
 Es gibt ein [LEGO 42099 Technic Control+ 4x4 Allrad Xtreme-Geländewagen  App-gesteuertes Konstruktionsspielzeug mit Smarthub und interaktiven Motoren](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21) mit aktuellem Preis 164.9 EUR (original: 229.99 EUR) 28.30 % Rabatt hier:
@@ -29,9 +29,9 @@ Es gibt ein [LEGO 42099 Technic Control+ 4x4 Allrad Xtreme-Geländewagen  App-ge
 ℹ️:
 
 - Mehrzwecksteuerung: Du kannst vorwärts und rückwärts fahren, lenken, beschleunigen, bremsen, Hindernisse umfahren und in Echtzeit Rückmeldungen zu Geschwindigkeit und Neigung bekommen
-- Der App-gesteuerte Allrad Xtreme-Geländewagen von LEGO wird über drei Bildschirme auf einem Mobilgerät gesteuert.
-- Das coole Geländewagen-Modell wird mit der LEGO Technic Control+ App gesteuert und mit einem Smarthub mit zwei XL-Motoren und einem L-Motor angetrieben
-- Der Allrad Xtreme-Geländewagen ist 19 cm hoch, 33 cm lang und 22 cm breit
 - Der ferngesteuerte Geländewagen erfordert Batterien (nicht enthalten). Hinweise zum Typ und zur Anzahl der Batterien sind auf der Produktverpackung.Nicht kompatibel mit LEGO Power Functions
+- Der App-gesteuerte Allrad Xtreme-Geländewagen von LEGO wird über drei Bildschirme auf einem Mobilgerät gesteuert.
+- Der Allrad Xtreme-Geländewagen ist 19 cm hoch, 33 cm lang und 22 cm breit
+- Das coole Geländewagen-Modell wird mit der LEGO Technic Control+ App gesteuert und mit einem Smarthub mit zwei XL-Motoren und einem L-Motor angetrieben
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21)
