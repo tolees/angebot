@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U0WGCQY-de Xiaomi Mi WiFi Repeater 2 White EU'
 sku: 'B00U0WGCQY-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bluetooth-Kopfhörer','Computer & Zubehör','Elektronik & Foto','Kopfhörer','Kopfhörer & Zubehör','Netzwerkgeräte','Repeater','Spielzeug','xiaomi', ]
+tags: [ '355357031','Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Basteln & Malen','Bastelsets für Kinder','Bauspielzeug & Konstruktionsspielzeug','Bluetooth-Kopfhörer','Bürobedarf & Schreibwaren','Büromaterial','Computer & Zubehör','Einfache Auto- & Verkehrsmodelle','Elektronik & Foto','Elektronische Spiele für Kinder','Fahrzeuge & Rennwagen für Kinder','Hobbys','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Kleinteileaufbewahrung','Kopfhörer','Kopfhörer & Zubehör','Küchenspielzeug','LEGO','LEGO City','LEGO Creator','LEGO DUPLO Stadt','LEGO Racers','LEGO Steine & Co.','Netzwerkgeräte','Polizei & Feuerwehr','Produkte','Repeater','Sammelfiguren','Sammelfiguren & Requisiten','Schreibtischzubehör & Ablage','Spiele','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','Spielzeugfahrzeuge','Utensilienschalen','xiaomi', ]
 actualPrice: 14.64 EUR
 currency: EUR
 price: 14.64
@@ -28,8 +28,8 @@ Es gibt ein [Xiaomi Mi WiFi Repeater 2 White EU](https://www.amazon.de/dp/B00U0W
 
 ℹ️:
 
+- USB 2.0
 - 300 Mbps
 - Wi-Fi
-- USB 2.0
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00U0WGCQY/?tag=tolees0ca-21)

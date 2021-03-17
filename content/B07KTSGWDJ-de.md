@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTSGWDJ-de LEGO 60228 City Weltraumrakete mit Kontrollzentrum...'
 sku: 'B07KTSGWDJ-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
+tags: [ '355357031','Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Basteln & Malen','Bastelsets für Kinder','Bauspielzeug & Konstruktionsspielzeug','Bürobedarf & Schreibwaren','Büromaterial','Einfache Auto- & Verkehrsmodelle','Elektronische Spiele für Kinder','Fahrzeuge & Rennwagen für Kinder','Hobbys','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Kleinteileaufbewahrung','Küchenspielzeug','LEGO','LEGO City','LEGO Creator','LEGO DUPLO Stadt','LEGO Racers','LEGO Steine & Co.','Polizei & Feuerwehr','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Schreibtischzubehör & Ablage','Spiele','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','Spielzeugfahrzeuge','Utensilienschalen','lego', ]
 actualPrice: 73.9 EUR
 currency: EUR
 price: 73.9
@@ -28,10 +28,10 @@ Sie können [LEGO 60228 City Weltraumrakete mit Kontrollzentrum  Expedition zum 
 
 ℹ️:
 
-- Baue eine mehrstufige Rakete und ein Kontrollzentrum, sowie ein Einschienenbahnsystem, damit die Astronauten vom Kontrollzentrum zum Trainingsgelände und zur Rakete gelangen
-- Die Rakete ist 42 cm hoch, 11 cm breit und 6 cm tief. Das Kontrollzentrum ist im geschlossenen Zustand 18 cm hoch, 13 cm breit und 13 cm tief
 - Das von der NASA inspirierte LEGO City Set „Weltraumrakete mit Kontrollzentrum“ kann zusammen mit allen anderen LEGO Sets und LEGO Steinen verwendet werden.
 - Enthält LEGO City Minifiguren: 2 Astronauten, 2 Wissenschaftler, den Startdirektor, einen Techniker des Bodenpersonals, eine Roboterfigur und einen Rover mit beweglichem Greifarm
 - 837 Teile – Von der NASA inspiriertes Spielzeug für Mädchen und Jungen ab 7 Jahren, für Fans und für Kinder jeden Alters.
+- Die Rakete ist 42 cm hoch, 11 cm breit und 6 cm tief. Das Kontrollzentrum ist im geschlossenen Zustand 18 cm hoch, 13 cm breit und 13 cm tief
+- Baue eine mehrstufige Rakete und ein Kontrollzentrum, sowie ein Einschienenbahnsystem, damit die Astronauten vom Kontrollzentrum zum Trainingsgelände und zur Rakete gelangen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07KTSGWDJ/?tag=tolees0ca-21)
