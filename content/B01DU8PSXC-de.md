@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DU8PSXC-de Sony KDL-32WD757 80cm 32 Zoll Fernseher Full HD HD Triple...'
 sku: 'B01DU8PSXC-de'
-tags: [ 'Activewear für Herren','Activewear-Shirts & Tops für Herren','Bauspielzeug & Konstruktionsspielzeug','Bekleidung','Bürobedarf & Schreibwaren','Chibi Figuren','Computer & Zubehör','Elektronik & Foto','Fernseher','Fernseher & Heimkino','Herrenbekleidung','Hobbys','Holzpuzzles','In-Ear Ohrhörer','Kabel','Kabel & Zubehör','Kinderspielfiguren & -fahrzeuge','Kopfhörer','Kopfhörer & Zubehör','Marker & Filzstifte','Permanent-Marker','Puzzles','Sammelfiguren','Sammelfiguren & Requisiten','Schreibwaren','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Tablet PCs','USB-Kabel','Wackelkopffiguren','Zubehör','sony', ]
+tags: [ 'Activewear für Herren','Activewear-Shirts & Tops für Herren','Bauspielzeug & Konstruktionsspielzeug','Bekleidung','Blu-ray','Bürobedarf & Schreibwaren','Chibi Figuren','Computer & Zubehör','DVD & Blu-ray','Datenspeicher','Elektronik & Foto','Externe Datenspeicher','Externe Festplatten','Featured Categories','Fernseher','Fernseher & Heimkino','Filme','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Herrenbekleidung','Hobbys','Holzpuzzles','In-Ear Ohrhörer','Interner Speicher','Kabel','Kabel & Zubehör','Kinderspielfiguren & -fahrzeuge','Komödie & Unterhaltung','Kopfhörer','Kopfhörer & Zubehör','Marker & Filzstifte','Netzteile für Handys','Permanent-Marker','Puzzles','Sammelfiguren','Sammelfiguren & Requisiten','Schreibwaren','Science Fiction','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Tablet PCs','Tragbare Bluetooth-Lautsprecher','Tragbare Geräte','Tragbare Lautsprecher & Audio-Docks','USB-Kabel','Wackelkopffiguren','Zubehör','Zubehör für tragbare Geräte','sony', ]
 actualPrice: 365.0 EUR
 currency: EUR
 price: 365.0
@@ -28,10 +28,10 @@ Es gibt ein [Sony KDL-32WD757 80cm  32 Zoll  Fernseher  Full HD  HD Triple Tuner
 
 ℹ️:
 
-- Smart TV-mehr als einfach nur Fernsehen: Ob Ihre Lieblingsclips auf YouTube, TV-Serien aus verschiedenen Mediatheken, Filme von Netflix, Amazon Video, Maxdome oder anderen Apps: Sie bestimmen, was und wann Sie es sehen wollen
-- USB-Aufnahmefunktion: Programmieren Sie Ihren Fernseher und zeichnen Sie Fernsehsendungen auf einer externen Festplatte auf
 - Mit X-Reality PRO erleben Sie ein außergewöhnlich klares und detailscharfes Bild, bei allem was Sie sich anschauen. Tuner-Empfangsbereich (Analog): 45,25 MHz–863,25 MHz, (abhängig vom Land)
-- Lieferumfang: Sony KDL-32WD757 80 cm (32 Zoll) Fernseher, Unterstützte Audio Formats - Dolby Digital, Dolby Digital Plus, Dolby Pulse, DTS 2.0 + Digitaler Ausgang
+- USB-Aufnahmefunktion: Programmieren Sie Ihren Fernseher und zeichnen Sie Fernsehsendungen auf einer externen Festplatte auf
+- Smart TV-mehr als einfach nur Fernsehen: Ob Ihre Lieblingsclips auf YouTube, TV-Serien aus verschiedenen Mediatheken, Filme von Netflix, Amazon Video, Maxdome oder anderen Apps: Sie bestimmen, was und wann Sie es sehen wollen
 - Edles Aluminium-Design: Ideal für die Wandmontage. Die kompakte Bauweise und der schmale Rahmen ermöglichen den uneingeschränkten Blick auf das Wesentliche: das Bild
+- Lieferumfang: Sony KDL-32WD757 80 cm (32 Zoll) Fernseher, Unterstützte Audio Formats - Dolby Digital, Dolby Digital Plus, Dolby Pulse, DTS 2.0 + Digitaler Ausgang
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01DU8PSXC/?tag=tolees0ca-21)
