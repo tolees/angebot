@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075Z3FBWC-de Hasbro Super Soaker E0022EU4 - Soakzooka Wasserpistole mit...'
 sku: 'B075Z3FBWC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 16.69 EUR
 currency: EUR
 price: 16.69

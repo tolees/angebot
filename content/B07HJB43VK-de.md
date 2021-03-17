@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HJB43VK-de Funko 34215 Rick & Morty: Tiny Rick w/Guitar Exc POP...'
 sku: 'B07HJB43VK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 7.72 EUR
 currency: EUR
 price: 7.72

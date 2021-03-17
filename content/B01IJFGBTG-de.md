@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IJFGBTG-de VNOX Männer Frauen Edelstahl Umgekehrt Upside Down Kreuz...'
 sku: 'B01IJFGBTG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

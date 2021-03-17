@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NAR3EMO-de Lacerto® | 13x13mm Deutsche Aufkleber für PC/Laptop &...'
 sku: 'B01NAR3EMO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

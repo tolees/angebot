@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AJGL1TE-de OLI-NATURA Projektöl für innen speziell für Möbel Parkett...'
 sku: 'B00AJGL1TE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 13.52 EUR
 currency: EUR
 price: 13.52

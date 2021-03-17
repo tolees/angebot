@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005LMXP72-de !Solid Dash Herren Lederjacke Bikerjacke Echtleder Mit...'
 sku: 'B005LMXP72-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 86.95 EUR
 currency: EUR
 price: 86.95

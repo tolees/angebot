@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HTJRFS-de Eagle Creek Leichter Rollkoffer Gear Warrior™ AWD 29...'
 sku: 'B076HTJRFS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 135.93 EUR
 currency: EUR
 price: 135.93

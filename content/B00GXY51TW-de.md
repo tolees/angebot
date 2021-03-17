@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GXY51TW-de The LEGO Movie Videogame - [PlayStation Vita]'
 sku: 'B00GXY51TW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 4.77 EUR
 currency: EUR
 price: 4.77

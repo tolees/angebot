@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AT6NZ2Y-de 2er Set BRUBAKER Tisch- oder Nachttischlampen Anthrazit...'
 sku: 'B01AT6NZ2Y-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

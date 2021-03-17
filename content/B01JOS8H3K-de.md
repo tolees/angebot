@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JOS8H3K-de G & G KF6000A oder KF3000A 0 1g - 6000g Präzisionswaage...'
 sku: 'B01JOS8H3K-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

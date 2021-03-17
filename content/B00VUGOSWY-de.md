@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VUGOSWY-de Anker PowerPort 40W 5-Port USB Ladegerät Multi-Port USB...'
 sku: 'B00VUGOSWY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

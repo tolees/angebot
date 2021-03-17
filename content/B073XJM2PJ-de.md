@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073XJM2PJ-de Bestand Aluminiumständer für Laptop und Macbook Desktop...'
 sku: 'B073XJM2PJ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 40.48 EUR
 currency: EUR
 price: 40.48

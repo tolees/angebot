@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0892BFPD4-de jerryvon Hammerspiel Klopfbank Holz Kinderspielzeug 3 in 1...'
 sku: 'B0892BFPD4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

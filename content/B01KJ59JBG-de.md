@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KJ59JBG-de Netgear Orbi RBK50 Ultra Speed Mesh-WLAN-System 3.000...'
 sku: 'B01KJ59JBG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

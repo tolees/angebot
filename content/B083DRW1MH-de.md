@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DRW1MH-de TuToy Herren Sicherheit Stahlkappe Rutschfeste...'
 sku: 'B083DRW1MH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 63.92 EUR
 currency: EUR
 price: 63.92

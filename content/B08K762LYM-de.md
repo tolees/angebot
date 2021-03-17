@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08K762LYM-de Aigital WLAN Repeater WLAN Verstärker Wireless Range...'
 sku: 'B08K762LYM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

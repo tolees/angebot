@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0038ZWEC6-de fischertechnik - 508775 ADVANCED Super Fun Park...'
 sku: 'B0038ZWEC6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

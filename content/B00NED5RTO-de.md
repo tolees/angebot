@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NED5RTO-de Olympus M.Zuiko Digital ED 40-150mm 1:2.8 Pro Objektiv...'
 sku: 'B00NED5RTO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 700.0 EUR
 currency: EUR
 price: 700.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AR18V0S-de The North Face Herren Parkajacke McMurdo tnf black S...'
 sku: 'B00AR18V0S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 262.94 EUR
 currency: EUR
 price: 262.94

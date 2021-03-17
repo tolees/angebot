@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GF24NFQ-de Levi s Herren Type 3 Sherpa Trucker-Jacke Blau Mayze...'
 sku: 'B07GF24NFQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 94.39 EUR
 currency: EUR
 price: 94.39

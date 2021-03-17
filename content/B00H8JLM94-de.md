@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00H8JLM94-de Corsair CC-9011048-WW Carbide Series Air 540 Computer...'
 sku: 'B00H8JLM94-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 144.16 EUR
 currency: EUR
 price: 144.16

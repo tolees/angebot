@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0037EEK7A-de Yankee Candle Duftkerze im großen Jar Vanilla Cupcake...'
 sku: 'B0037EEK7A-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 18.79 EUR
 currency: EUR
 price: 18.79

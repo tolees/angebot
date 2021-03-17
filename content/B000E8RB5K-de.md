@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000E8RB5K-de Der Patriot - Extended Version'
 sku: 'B000E8RB5K-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 0.67 EUR
 currency: EUR
 price: 0.67

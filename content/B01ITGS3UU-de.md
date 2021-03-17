@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ITGS3UU-de De Longhi Nespresso EN267.BAE Citiz Kaffemaschine |...'
 sku: 'B01ITGS3UU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

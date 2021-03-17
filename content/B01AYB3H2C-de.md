@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AYB3H2C-de 100 Vakuumbeutel 20x30cm groß - Premium Qualität |...'
 sku: 'B01AYB3H2C-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 16.78 EUR
 currency: EUR
 price: 16.78

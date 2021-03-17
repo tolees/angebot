@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01A5SW50Y-de Master & Dynamic MH40 Leica-Ausgabe: ein erstklassiger...'
 sku: 'B01A5SW50Y-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 199.17 EUR
 currency: EUR
 price: 199.17

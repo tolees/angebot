@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01557TFGW-de Aberfeldy Highland Single Malt Whisky 16 Jahre 1 x 0.7 l'
 sku: 'B01557TFGW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

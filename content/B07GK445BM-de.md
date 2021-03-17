@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GK445BM-de Krups KB181D Freshboost Vakuum to go Standmixer 800...'
 sku: 'B07GK445BM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

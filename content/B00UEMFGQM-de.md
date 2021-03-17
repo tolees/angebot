@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UEMFGQM-de Philips Hue Go LED Leuchte tragbares kabelloses Licht...'
 sku: 'B00UEMFGQM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

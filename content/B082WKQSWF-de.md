@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WKQSWF-de TOM TAILOR Herren Poloshirts Basic Poloshirt Sky Captain...'
 sku: 'B082WKQSWF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 14.35 EUR
 currency: EUR
 price: 14.35

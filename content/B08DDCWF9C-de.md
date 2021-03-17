@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DDCWF9C-de ENACFIRE Bluetooth Kopfhörer E60 kabellos Ohrhörer mit...'
 sku: 'B08DDCWF9C-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

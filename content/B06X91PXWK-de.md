@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X91PXWK-de Hasbro Star Wars C1252EU4 - Episode 8 Forcelink Tie...'
 sku: 'B06X91PXWK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 49.43 EUR
 currency: EUR
 price: 49.43

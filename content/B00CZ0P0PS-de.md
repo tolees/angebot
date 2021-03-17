@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CZ0P0PS-de Verbatim MediaShare Wireless tragbares Streaming-Gerät mit...'
 sku: 'B00CZ0P0PS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 22.01 EUR
 currency: EUR
 price: 22.01

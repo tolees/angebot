@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HS4L8Z9-de Lenovo Tab P10 25 5 cm 10 1 Zoll Full HD IPS Touch Tablet-...'
 sku: 'B07HS4L8Z9-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 246.22 EUR
 currency: EUR
 price: 246.22

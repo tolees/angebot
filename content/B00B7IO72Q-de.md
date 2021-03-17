@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B7IO72Q-de Rasch Tapeten 226751 Kollektion Kids & Teens II silber'
 sku: 'B00B7IO72Q-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082TXMMCP-de WC Sitz MUJIUSHI Toilettendeckel Oval Klodeckel mit Quick-...'
 sku: 'B082TXMMCP-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

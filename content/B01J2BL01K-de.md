@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J2BL01K-de Amazon Echo Spot Smarter Wecker mit Alexa - Schwarz'
 sku: 'B01J2BL01K-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 87.72 EUR
 currency: EUR
 price: 87.72

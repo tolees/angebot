@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079PC9JQ5-de One Piece World Seeker Standard - [PlayStation 4]'
 sku: 'B079PC9JQ5-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 15.64 EUR
 currency: EUR
 price: 15.64

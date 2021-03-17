@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07951LXJJ-de Fire HD 8-Tablet 32 GB Schwarz ohne Spezialangebote'
 sku: 'B07951LXJJ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

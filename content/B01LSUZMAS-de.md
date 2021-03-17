@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LSUZMAS-de Apple iPhone 7 128 GB - Gold'
 sku: 'B01LSUZMAS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 469 EUR
 currency: EUR
 price: 469

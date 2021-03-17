@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019PT5QOQ-de Mobicool V30 tragbare thermo-elektrische Kühlbox 29 Liter...'
 sku: 'B019PT5QOQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 58.8 EUR
 currency: EUR
 price: 58.8

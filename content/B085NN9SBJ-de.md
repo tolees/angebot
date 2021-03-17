@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085NN9SBJ-de Dittzz Display Ständer Bausteine Halterung Ständer Für...'
 sku: 'B085NN9SBJ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

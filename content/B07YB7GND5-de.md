@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YB7GND5-de Willful Bluetooth Kopfhörer In Ear Kopfhörer Kabellos...'
 sku: 'B07YB7GND5-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

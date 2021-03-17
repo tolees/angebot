@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003RH0YRC-de Bullyland 12764 - Spielfigur Walt Disney Toy Story 3 Rex...'
 sku: 'B003RH0YRC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 4.09 EUR
 currency: EUR
 price: 4.09

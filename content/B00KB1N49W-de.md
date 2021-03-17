@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KB1N49W-de Casio Damen Analog Quarz mit Edelstahl Armbanduhr LTP...'
 sku: 'B00KB1N49W-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 31.85 EUR
 currency: EUR
 price: 31.85

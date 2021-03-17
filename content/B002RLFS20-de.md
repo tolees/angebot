@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002RLFS20-de Soehnle Page Profi Digitalwaage für max. 15 kg digitale...'
 sku: 'B002RLFS20-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 32.51 EUR
 currency: EUR
 price: 32.51

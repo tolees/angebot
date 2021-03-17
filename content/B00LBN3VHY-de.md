@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LBN3VHY-de Ice-Watch - ICE glam pastel Aqua - Women s wristwatch with...'
 sku: 'B00LBN3VHY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 53.77 EUR
 currency: EUR
 price: 53.77

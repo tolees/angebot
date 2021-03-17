@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QF8CW16-de BBLAC 2KEY B2KEY® SWAT Revolver Military Technique...'
 sku: 'B07QF8CW16-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 53.37 EUR
 currency: EUR
 price: 53.37

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079YMPPCZ-de Funko 30633 Actionfigur Marvel Unmasked Spider-Man Multi...'
 sku: 'B079YMPPCZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 11.66 EUR
 currency: EUR
 price: 11.66

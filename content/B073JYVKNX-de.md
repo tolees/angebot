@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073JYVKNX-de SanDisk Ultra 64GB MicroSDXC Speicherkarte + SD-Adapter...'
 sku: 'B073JYVKNX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

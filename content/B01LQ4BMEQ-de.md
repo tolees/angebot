@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LQ4BMEQ-de Razer Ornata Chroma - Mecha-Membrane Gaming Keyboard...'
 sku: 'B01LQ4BMEQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 53.61 EUR
 currency: EUR
 price: 53.61

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073WZFMF5-de Emporio Armani Herren Chronograph Quarz Smart Watch...'
 sku: 'B073WZFMF5-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 186.75 EUR
 currency: EUR
 price: 186.75

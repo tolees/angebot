@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087MRTWQ4-de Mi Note 10 Lite 6+128GB Nebula Purple'
 sku: 'B087MRTWQ4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 323.47 EUR
 currency: EUR
 price: 323.47

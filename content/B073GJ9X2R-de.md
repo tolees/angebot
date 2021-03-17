@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073GJ9X2R-de ALTRAD-FORT FO37990 Universal-Schubkarre 90 L Boxer-90...'
 sku: 'B073GJ9X2R-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 62.9 EUR
 currency: EUR
 price: 62.9

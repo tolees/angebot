@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VR4MEA2-de Ravensburger 19549 Star Wars Episode VII 1000-teilig Puzzle'
 sku: 'B00VR4MEA2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 8.64 EUR
 currency: EUR
 price: 8.64

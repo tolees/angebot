@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0725VZZP2-de Buff Lightweight Merino Wool Multifunktionstuch Edgy Denim...'
 sku: 'B0725VZZP2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 18.58 EUR
 currency: EUR
 price: 18.58

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002D2VS9U-de Sigma 10-20 mm F3 5 EX DC HSM-Objektiv 82 mm Filtergewinde...'
 sku: 'B002D2VS9U-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 312.64 EUR
 currency: EUR
 price: 312.64

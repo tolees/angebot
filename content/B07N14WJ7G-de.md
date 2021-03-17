@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N14WJ7G-de G-STAR RAW Herren 3301 Straight Jeans Blau Worker Blue...'
 sku: 'B07N14WJ7G-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 35.11 EUR
 currency: EUR
 price: 35.11

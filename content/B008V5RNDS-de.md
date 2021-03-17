@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008V5RNDS-de Ice Age 1-4 [4 DVDs]'
 sku: 'B008V5RNDS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

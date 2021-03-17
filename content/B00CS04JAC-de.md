@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CS04JAC-de Trefl 31131 - Rahmen-Puzzle Mickey Mouse Auf dem Land 15...'
 sku: 'B00CS04JAC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 3.32 EUR
 currency: EUR
 price: 3.32

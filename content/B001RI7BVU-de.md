@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001RI7BVU-de Enders Camping Gasgrill EXPLORER NEXT Grillen- Kochen- und...'
 sku: 'B001RI7BVU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

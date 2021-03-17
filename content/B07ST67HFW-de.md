@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ST67HFW-de Hue White & Col. Amb. Sana Wandleuchte schwarz 1500lm...'
 sku: 'B07ST67HFW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 135.5 EUR
 currency: EUR
 price: 135.5

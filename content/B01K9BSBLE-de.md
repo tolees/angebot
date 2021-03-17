@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K9BSBLE-de Hugo BOSS Herren-Armbanduhr 1513440 Stahl/Grau'
 sku: 'B01K9BSBLE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 182.9 EUR
 currency: EUR
 price: 182.9

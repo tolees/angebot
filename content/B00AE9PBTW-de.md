@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AE9PBTW-de Ice Age 1 2 3 & 4 Limitierte Sonderbox mit Ice Age...'
 sku: 'B00AE9PBTW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 22.04 EUR
 currency: EUR
 price: 22.04

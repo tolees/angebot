@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007M9QGGE-de THOMAS SABO Unisex Anhänger Kreuz Anhänger Kreuz 925er...'
 sku: 'B007M9QGGE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 44.78 EUR
 currency: EUR
 price: 44.78

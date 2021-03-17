@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079N2CMRT-de PLAYMOBIL DreamWorks Spirit 9475 Luckys glückliches...'
 sku: 'B079N2CMRT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 57.9 EUR
 currency: EUR
 price: 57.9

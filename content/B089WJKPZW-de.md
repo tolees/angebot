@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089WJKPZW-de ENACFIRE SoundBar Mini Bluetooth Lautsprecher 12W...'
 sku: 'B089WJKPZW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

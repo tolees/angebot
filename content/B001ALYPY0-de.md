@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001ALYPY0-de Wedo 78722 Cutter Hobbymesser Set inklusive 6...'
 sku: 'B001ALYPY0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 3.56 EUR
 currency: EUR
 price: 3.56

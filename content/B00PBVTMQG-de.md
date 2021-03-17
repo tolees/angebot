@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PBVTMQG-de Eschenbach Optik OPTIK Fernglas klein weiß VIVA 6X15 NEW'
 sku: 'B00PBVTMQG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 38.02 EUR
 currency: EUR
 price: 38.02

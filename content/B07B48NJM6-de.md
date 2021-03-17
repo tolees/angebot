@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B48NJM6-de Ravensburger FC Bayern München 3D Puzzle Allianz Arena'
 sku: 'B07B48NJM6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

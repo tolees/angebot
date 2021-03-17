@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K7KE8JM-de Blomus 68812 Seifenspender Areo Edelstahl poliert'
 sku: 'B00K7KE8JM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 40.41 EUR
 currency: EUR
 price: 40.41

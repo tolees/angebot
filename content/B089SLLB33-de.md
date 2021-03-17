@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089SLLB33-de PUMA Herren Boxershort Limited Statement Edition 6er Pack...'
 sku: 'B089SLLB33-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 26.59 EUR
 currency: EUR
 price: 26.59

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078HFBGWP-de Swiss Military Hanowa Herren Analog Quarz Uhr mit...'
 sku: 'B078HFBGWP-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 178.3 EUR
 currency: EUR
 price: 178.3

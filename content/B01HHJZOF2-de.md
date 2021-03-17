@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HHJZOF2-de Crocs Fun Lab Frozen Clog Mädchen Clogs Blau Navy 34/35 EU'
 sku: 'B01HHJZOF2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 19.05 EUR
 currency: EUR
 price: 19.05

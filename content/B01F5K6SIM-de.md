@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F5K6SIM-de Nixon Damen Analog Quarz Uhr mit Leder Armband A10912369-00'
 sku: 'B01F5K6SIM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

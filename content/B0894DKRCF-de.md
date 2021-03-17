@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0894DKRCF-de COULAX Smartwatch Fitness Tracker Armband mit 1.4 Zoll...'
 sku: 'B0894DKRCF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 27.45 EUR
 currency: EUR
 price: 27.45

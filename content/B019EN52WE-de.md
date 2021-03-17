@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019EN52WE-de Engtanz'
 sku: 'B019EN52WE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 6.09 EUR
 currency: EUR
 price: 6.09

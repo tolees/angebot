@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LR8PG66-de Arlo Pro Smart Home 1 HD- Pro Überwachungskamera und...'
 sku: 'B01LR8PG66-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 239.99 EUR
 currency: EUR
 price: 239.99

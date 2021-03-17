@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079JFTL73-de Barbie FRH73 - Cooking und Baking Deluxe Küche Spielset...'
 sku: 'B079JFTL73-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 41.18 EUR
 currency: EUR
 price: 41.18

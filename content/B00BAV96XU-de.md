@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BAV96XU-de CEP Damen Strumpf Progressive+ Run Socks 2.0 Black/Grey Gr.II'
 sku: 'B00BAV96XU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

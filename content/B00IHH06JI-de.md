@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IHH06JI-de HQ 11768450 - Symphony Beach III 2.2 Rainbow Zweileiner...'
 sku: 'B00IHH06JI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 41.44 EUR
 currency: EUR
 price: 41.44

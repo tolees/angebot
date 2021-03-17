@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0036UNK0I-de Park Tool Montageständer PRS-25 Team Issue 4000277'
 sku: 'B0036UNK0I-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 289.95 EUR
 currency: EUR
 price: 289.95

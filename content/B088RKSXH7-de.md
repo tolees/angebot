@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088RKSXH7-de LOUIS XVI Herren-Armbanduhr Athos Stahlband Rosegold Braun...'
 sku: 'B088RKSXH7-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 266.25 EUR
 currency: EUR
 price: 266.25

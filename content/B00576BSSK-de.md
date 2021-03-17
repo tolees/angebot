@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00576BSSK-de Wenko Herdabdeckplatte Universal Chili 2er Set...'
 sku: 'B00576BSSK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

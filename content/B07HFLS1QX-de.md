@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HFLS1QX-de AEG IKB6430AXB Autarkes Kochfeld / Herdplatte mit...'
 sku: 'B07HFLS1QX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

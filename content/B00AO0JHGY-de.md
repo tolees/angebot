@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AO0JHGY-de RoomMates 54161 Happi Raketenhunde'
 sku: 'B00AO0JHGY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 7.06 EUR
 currency: EUR
 price: 7.06

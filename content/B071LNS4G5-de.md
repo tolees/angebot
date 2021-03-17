@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071LNS4G5-de Dove Men+Care Duschgel für erfrischende Reinigung Clean...'
 sku: 'B071LNS4G5-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 5.79 EUR
 currency: EUR
 price: 5.79

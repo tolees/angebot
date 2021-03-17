@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N5WGWQT-de Funko 38578 POP Vinyl: Big Bang Theory S2: Howard...'
 sku: 'B07N5WGWQT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

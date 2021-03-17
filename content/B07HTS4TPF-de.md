@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HTS4TPF-de Calvin Klein Damen Bikini 3PK Panties Schwarz Black 001 M'
 sku: 'B07HTS4TPF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 29.24 EUR
 currency: EUR
 price: 29.24

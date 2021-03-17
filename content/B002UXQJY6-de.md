@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002UXQJY6-de Clatronic EK 3321 Eierkocher mit Härtegradeinstellung 7...'
 sku: 'B002UXQJY6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

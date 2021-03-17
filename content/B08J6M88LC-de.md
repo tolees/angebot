@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08J6M88LC-de Bluetooth-Kopfhörer 5.0 Kabellose Kopfhörer IPX7...'
 sku: 'B08J6M88LC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

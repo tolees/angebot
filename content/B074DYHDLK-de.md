@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074DYHDLK-de Asus ROG Zenith Extreme Gaming Mainboard Sockel TR4 eATX...'
 sku: 'B074DYHDLK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

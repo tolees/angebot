@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0185UNQYI-de SLV GU10 ES111 LED Leuchtmittel 11 1 cm Ø | 6 5 Watt 2700...'
 sku: 'B0185UNQYI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

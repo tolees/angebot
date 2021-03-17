@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ENJARHE-de Challenge Disc 2.0 e Balance Board per Bluetooth mit...'
 sku: 'B01ENJARHE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 210.69 EUR
 currency: EUR
 price: 210.69

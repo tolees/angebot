@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C9S4K4W-de Boxset'
 sku: 'B01C9S4K4W-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 15.81 EUR
 currency: EUR
 price: 15.81

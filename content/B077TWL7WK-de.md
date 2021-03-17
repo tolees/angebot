@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077TWL7WK-de Toaster 4 Scheiben 1600W（7 einstellbare Bräunungsstufe +...'
 sku: 'B077TWL7WK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 25.59 EUR
 currency: EUR
 price: 25.59

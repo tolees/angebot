@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L48JXFR-de Funko Fortnite Pop! Vinyl Figur 459 Raven aus Kunststoff...'
 sku: 'B07L48JXFR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 11.15 EUR
 currency: EUR
 price: 11.15

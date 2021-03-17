@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082D5M6GZ-de TuToy 64 Cm Lange Kurze Dehnbare Schuhlöffel Edelstahl...'
 sku: 'B082D5M6GZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 10.87 EUR
 currency: EUR
 price: 10.87

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0832TH7QT-de PITTMAN Cargo Hose Herren Darius - Männer Chino by Pit...'
 sku: 'B0832TH7QT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 34.93 EUR
 currency: EUR
 price: 34.93

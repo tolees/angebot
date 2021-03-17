@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083FSGK6F-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Resistance...'
 sku: 'B083FSGK6F-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V68DQGV-de Masthome 10pcs Edelstahl Kochgeschirr Set Kochtopf und...'
 sku: 'B07V68DQGV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

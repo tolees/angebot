@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KMVOX82-de Einhell Kompressor TH-AC 240/50/10 OF 1500 W 240 l/min...'
 sku: 'B00KMVOX82-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 104.95 EUR
 currency: EUR
 price: 104.95

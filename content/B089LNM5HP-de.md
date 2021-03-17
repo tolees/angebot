@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089LNM5HP-de Portable Monitor - Corprit 15 6 Zoll Tragbarer Monitor...'
 sku: 'B089LNM5HP-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

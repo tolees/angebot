@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X19NCPN-de Osprey Fairview 70 Reisetasche für Frauen mit abnehmbarem...'
 sku: 'B06X19NCPN-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 128.79 EUR
 currency: EUR
 price: 128.79

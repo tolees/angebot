@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FBVYFKH-de Corsair CMK16GX4M2Z3600C18 Vengeance LPX 16GB 2x8GB DDR4...'
 sku: 'B07FBVYFKH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 60.9 EUR
 currency: EUR
 price: 60.9

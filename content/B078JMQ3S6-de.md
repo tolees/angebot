@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078JMQ3S6-de ICY BOX IB-MSA102-VM Halterung für Mini-PC Intel NUC Mac...'
 sku: 'B078JMQ3S6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

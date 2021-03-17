@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006TUK0TQ-de Triumph Damen BH Push-up Body Make-Up WHU Beige Smooth...'
 sku: 'B006TUK0TQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 33.75 EUR
 currency: EUR
 price: 33.75

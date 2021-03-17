@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0154G9GFE-de Philips AZ215S CD-Soundmachine Digital UKW Audioeingang 3...'
 sku: 'B0154G9GFE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 25.97 EUR
 currency: EUR
 price: 25.97

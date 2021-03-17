@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078Y6HRYC-de Regal Schwerlastregal Regal 180x90x45 Steckregal 875kg...'
 sku: 'B078Y6HRYC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011GVHQZI-de Mousehouse Gifts Rote Dinosaurier Kinder Spardose...'
 sku: 'B011GVHQZI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

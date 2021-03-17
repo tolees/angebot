@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N3X06CS-de Philips HU4801/01 Luftbefeuchter bis zu 25m² hygienische...'
 sku: 'B00N3X06CS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

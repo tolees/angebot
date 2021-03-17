@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B5TJ65W-de Jurassic Park 2 - Vergessene Welt 4K Ultra HD + Blu-ray'
 sku: 'B07B5TJ65W-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 16.97 EUR
 currency: EUR
 price: 16.97

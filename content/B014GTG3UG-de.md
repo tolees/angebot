@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014GTG3UG-de Devolo dLAN pro 1200 DINrail Powerline Hutschienenadapter'
 sku: 'B014GTG3UG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 119.9 EUR
 currency: EUR
 price: 119.9

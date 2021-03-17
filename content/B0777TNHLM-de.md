@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0777TNHLM-de Funko 26384 S1 Pop Vinylfigur Games Minecraft Alex Multi...'
 sku: 'B0777TNHLM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 6.92 EUR
 currency: EUR
 price: 6.92

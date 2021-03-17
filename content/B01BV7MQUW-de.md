@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BV7MQUW-de Chicco Fahrzeuge mit Funktion Fiat 500 Driver'
 sku: 'B01BV7MQUW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 43.8 EUR
 currency: EUR
 price: 43.8

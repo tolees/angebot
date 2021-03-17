@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008ML8RMC-de The Dark Knight Rises [Blu-ray]'
 sku: 'B008ML8RMC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 4.27 EUR
 currency: EUR
 price: 4.27

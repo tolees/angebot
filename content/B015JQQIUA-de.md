@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015JQQIUA-de Cobb Pro - Tisch oder tragbarer Außengrill Kochsystem...'
 sku: 'B015JQQIUA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

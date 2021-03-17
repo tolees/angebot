@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BBWWFB2-de AVM FRITZ!Fon C5 DECT-Komforttelefon hochwertiges...'
 sku: 'B01BBWWFB2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

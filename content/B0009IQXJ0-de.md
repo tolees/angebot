@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009IQXJ0-de Meguiar s G7516EU Endurance High Gloss Tyre Gel...'
 sku: 'B0009IQXJ0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 10.76 EUR
 currency: EUR
 price: 10.76

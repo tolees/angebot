@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076N2ZQJZ-de miaX Profi Ceranfeldschaber - Ihr zuverlässiger Schaber...'
 sku: 'B076N2ZQJZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

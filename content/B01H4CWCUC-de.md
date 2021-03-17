@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H4CWCUC-de PUMA Herren Tazon 6 FM Laufschuhe Weiß White Black Silver...'
 sku: 'B01H4CWCUC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

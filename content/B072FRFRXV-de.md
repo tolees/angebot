@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072FRFRXV-de ONLY Damen Langarmshirt Onlelcos 4/5 Solid Top Jrs Noos...'
 sku: 'B072FRFRXV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 11.65 EUR
 currency: EUR
 price: 11.65

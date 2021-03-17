@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U770FEC-de Dickie 203715001 Toys City Fire Engine Feuerwehrauto mit...'
 sku: 'B00U770FEC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

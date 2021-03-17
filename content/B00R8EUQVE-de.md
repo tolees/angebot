@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R8EUQVE-de Fascinations Metal Earth ICX019 - 502830 London Eye...'
 sku: 'B00R8EUQVE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 16.65 EUR
 currency: EUR
 price: 16.65

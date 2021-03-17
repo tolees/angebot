@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085DPJN6T-de Buntpapier Farbigen A4 Kopierpapier Papier 100 bunte...'
 sku: 'B085DPJN6T-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0001JZVEK-de D-Link DGS-1005D 5-Port Gigabit Switch Desktop 10/100/1000...'
 sku: 'B0001JZVEK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 13.54 EUR
 currency: EUR
 price: 13.54

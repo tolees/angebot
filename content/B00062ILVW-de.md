@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00062ILVW-de WMF Profi Plus Rührblitz 27 cm Schneebesen Edelstahl...'
 sku: 'B00062ILVW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 14.71 EUR
 currency: EUR
 price: 14.71

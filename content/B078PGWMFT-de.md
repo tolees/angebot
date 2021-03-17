@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078PGWMFT-de CYD 45W Notebook-Netzteil für Lenovo Yoga 310-14 510-14...'
 sku: 'B078PGWMFT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

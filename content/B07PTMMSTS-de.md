@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PTMMSTS-de ASTRO A40 TR Gaming-Headsest + MixAmp Pro TR Generation 4...'
 sku: 'B07PTMMSTS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 212.93 EUR
 currency: EUR
 price: 212.93

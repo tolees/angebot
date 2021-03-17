@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E96YCCM-de UGG Female Mini Bailey Bow II Classic Boot Black 8 UK'
 sku: 'B01E96YCCM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 102.17 EUR
 currency: EUR
 price: 102.17

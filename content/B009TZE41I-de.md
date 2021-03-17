@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009TZE41I-de D-Link GO-SW-5G 5-Port Gigabit Easy Desktop Switch...'
 sku: 'B009TZE41I-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 12.66 EUR
 currency: EUR
 price: 12.66

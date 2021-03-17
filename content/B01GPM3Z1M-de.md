@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GPM3Z1M-de Parker 1950385 Quink Nachfüllpatronen für Füllfederhalter...'
 sku: 'B01GPM3Z1M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 2.45 EUR
 currency: EUR
 price: 2.45

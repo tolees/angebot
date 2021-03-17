@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XVZ4T9O-de Dyson V6 Mattress beutel- & kabelloser Staubsauger inkl....'
 sku: 'B00XVZ4T9O-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 190.0 EUR
 currency: EUR
 price: 190.0

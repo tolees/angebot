@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B3HMFLK-de PROCAVE wasserdichter Matratzenschoner 80 x 200 cm -...'
 sku: 'B01B3HMFLK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

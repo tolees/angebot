@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NC4WT71-de Disney Cars GGL47 - Radiator Springs Rennset Spielzeugauto...'
 sku: 'B07NC4WT71-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0014QMRBE-de Theo Klein - Bosch 8429 - Tool Box Spielzeug'
 sku: 'B0014QMRBE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 33.37 EUR
 currency: EUR
 price: 33.37

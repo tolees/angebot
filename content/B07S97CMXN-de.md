@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S97CMXN-de Ice-Watch - Ice Duo Chic Weiß marine - Damen wristwatch...'
 sku: 'B07S97CMXN-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 63.78 EUR
 currency: EUR
 price: 63.78

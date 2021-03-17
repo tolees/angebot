@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SGRLGRV-de MSI GL63 9SFK-1001DE 39 6 cm/15 6 Zoll/144Hz Gaming-Laptop...'
 sku: 'B07SGRLGRV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 600.0 EUR
 currency: EUR
 price: 600.0

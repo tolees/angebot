@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HHY4ZHA-de Vileda Steam Dampfreiniger mit 2 zusätzliche Ersatzbezüge...'
 sku: 'B01HHY4ZHA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 69.04 EUR
 currency: EUR
 price: 69.04

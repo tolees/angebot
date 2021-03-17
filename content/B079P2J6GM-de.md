@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079P2J6GM-de Fitbit Ionic Health & Fitness Smartwatch grau Einheitsgröße'
 sku: 'B079P2J6GM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 199.95 EUR
 currency: EUR
 price: 199.95

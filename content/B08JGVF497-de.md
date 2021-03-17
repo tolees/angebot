@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JGVF497-de Catalonia TV Decke Sherpa Kuscheldecke mit Ärmel- und...'
 sku: 'B08JGVF497-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 40.98 EUR
 currency: EUR
 price: 40.98

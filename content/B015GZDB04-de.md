@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015GZDB04-de Timberland Herren Bradstreet Leather Sensorflex Chukka...'
 sku: 'B015GZDB04-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 54.89 EUR
 currency: EUR
 price: 54.89

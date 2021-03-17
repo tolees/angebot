@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077SVZDPK-de Kopp 939633016 VersaHIT Dual Einbausteckdose 16A IP54 3400...'
 sku: 'B077SVZDPK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 41.54 EUR
 currency: EUR
 price: 41.54

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UWS743Q-de Kirby und der Regenbogen-Pinsel'
 sku: 'B00UWS743Q-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

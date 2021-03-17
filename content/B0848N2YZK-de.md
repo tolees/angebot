@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0848N2YZK-de Tommy Hilfiger Sportuhr 1791720'
 sku: 'B0848N2YZK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 142.65 EUR
 currency: EUR
 price: 142.65

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0071J4AYK-de 156/Im Netz des Drachen'
 sku: 'B0071J4AYK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005DRDUXE-de tesa Powerstrips Strips LARGE wasserfest Packung mit 6 Strips'
 sku: 'B005DRDUXE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

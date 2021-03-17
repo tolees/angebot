@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K4XYBPI-de ANSMANN 1400-0058 A-Oly BLN 1 Li-Ion Digicam Akku 7...'
 sku: 'B00K4XYBPI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 16.55 EUR
 currency: EUR
 price: 16.55

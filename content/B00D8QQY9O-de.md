@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D8QQY9O-de Under Armour Herren Performance Poloshirt Grau carbon...'
 sku: 'B00D8QQY9O-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 15.42 EUR
 currency: EUR
 price: 15.42

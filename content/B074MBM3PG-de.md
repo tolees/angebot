@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074MBM3PG-de Somat Spülmaschinen-Tabs 10 All in 1 Extra extra...'
 sku: 'B074MBM3PG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 11.34 EUR
 currency: EUR
 price: 11.34

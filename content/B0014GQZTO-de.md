@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0014GQZTO-de Bosch Professional Diamant-Dosensenker mit Power-Change-...'
 sku: 'B0014GQZTO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

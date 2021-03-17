@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SMG5BY-de BERTASCHE Laptoptasche 14 Zoll Notebooktasche Schulter...'
 sku: 'B082SMG5BY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

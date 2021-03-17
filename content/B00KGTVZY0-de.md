@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KGTVZY0-de Fossil Damen-Uhren ES3625'
 sku: 'B00KGTVZY0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 69.16 EUR
 currency: EUR
 price: 69.16

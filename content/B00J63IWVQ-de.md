@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J63IWVQ-de B. Toys 44172 - Baa-Baa-Barn Bauernhof'
 sku: 'B00J63IWVQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 53.74 EUR
 currency: EUR
 price: 53.74

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081PB4CGV-de RB&G Lauflernwagen aus Holz mit Gummibereifung'
 sku: 'B081PB4CGV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 37.9 EUR
 currency: EUR
 price: 37.9

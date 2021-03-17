@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BTFE6R8-de Castrol EDGE 0W-30 Motorenöl 5L'
 sku: 'B00BTFE6R8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 31.98 EUR
 currency: EUR
 price: 31.98

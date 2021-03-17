@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GU40HD0-de Desperate Housewives - Die komplette Serie [49 DVDs]'
 sku: 'B00GU40HD0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 48.71 EUR
 currency: EUR
 price: 48.71

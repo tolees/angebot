@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0126XU9CM-de Maxesla Bluetooth USB 4.0 Dongle Empfänger Bluetooth für...'
 sku: 'B0126XU9CM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

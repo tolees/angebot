@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HQIFKWW-de Sony Mobile SWR10 SmartBand Aktivitätstracker...'
 sku: 'B00HQIFKWW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

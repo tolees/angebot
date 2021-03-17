@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QM4WKT2-de Ravensburger 29841 - 2-in-1 Mandala Designer Frozen'
 sku: 'B00QM4WKT2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 10.33 EUR
 currency: EUR
 price: 10.33

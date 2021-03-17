@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NX5YDLK-de Pioneer VSX-934 7.2-Kanal Netzwerk AV Receiver 7x160 Watt...'
 sku: 'B07NX5YDLK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 383.0 EUR
 currency: EUR
 price: 383.0

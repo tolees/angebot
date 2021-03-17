@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S97KY8H-de Gigaset Smart Speaker L800HX - Lautsprecher mit Alexa-...'
 sku: 'B07S97KY8H-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 53.96 EUR
 currency: EUR
 price: 53.96

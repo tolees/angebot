@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EUWE4BY-de Duschdas Duschgel für ein besseres Gefühl mit...'
 sku: 'B01EUWE4BY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 3.91 EUR
 currency: EUR
 price: 3.91

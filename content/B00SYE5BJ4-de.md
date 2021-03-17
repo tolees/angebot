@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SYE5BJ4-de SVITA TC3X20 Küchen-Eimer 60Liter 3x20L Edelstahl dreifach...'
 sku: 'B00SYE5BJ4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 74.95 EUR
 currency: EUR
 price: 74.95

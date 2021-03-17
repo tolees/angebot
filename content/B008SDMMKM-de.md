@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008SDMMKM-de Simba 107108605 - Sandformen Eis'
 sku: 'B008SDMMKM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

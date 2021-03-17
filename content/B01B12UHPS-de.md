@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B12UHPS-de Fiskars Profi Handsäge für frisches Holz Grobzahnung...'
 sku: 'B01B12UHPS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 36.95 EUR
 currency: EUR
 price: 36.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08255LQCG-de OwlFay Mädchen Prinzessin ELSA Kleid Frozen Blaue...'
 sku: 'B08255LQCG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 17.67 EUR
 currency: EUR
 price: 17.67

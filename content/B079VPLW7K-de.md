@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079VPLW7K-de WORX WG322E.9 Akku Kettensäge 20V – Praktische Holzsäge...'
 sku: 'B079VPLW7K-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 91.19 EUR
 currency: EUR
 price: 91.19

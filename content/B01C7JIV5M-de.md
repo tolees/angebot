@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C7JIV5M-de Tommy Hilfiger Herren Multi Zifferblatt Quarz Uhr mit...'
 sku: 'B01C7JIV5M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 122.13 EUR
 currency: EUR
 price: 122.13

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KX6H8K6-de Gorenje R6192FX Kühlschrank / A++ / Höhe 185 cm / Kühlen:...'
 sku: 'B00KX6H8K6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 225.0 EUR
 currency: EUR
 price: 225.0

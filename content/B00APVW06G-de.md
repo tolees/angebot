@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00APVW06G-de Django Unchained [Blu-ray]'
 sku: 'B00APVW06G-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 3.59 EUR
 currency: EUR
 price: 3.59

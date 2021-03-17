@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004WG3ZJG-de BIONAIRE BT19-I Turmventilator 40 W Grau'
 sku: 'B004WG3ZJG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 40.76 EUR
 currency: EUR
 price: 40.76

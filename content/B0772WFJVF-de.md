@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0772WFJVF-de Funko 22058 S1 POP Vinylfigur: Ready Player One: i-R0k Multi'
 sku: 'B0772WFJVF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

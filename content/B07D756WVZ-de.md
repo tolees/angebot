@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D756WVZ-de Levi s Damen 311 Shaping Skinny-60% Baumwolle 17% Lyocell...'
 sku: 'B07D756WVZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 51.94 EUR
 currency: EUR
 price: 51.94

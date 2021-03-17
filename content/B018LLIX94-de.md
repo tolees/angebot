@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018LLIX94-de Tommy Hilfiger Herren CORE HILFIGER REGULAR POLO Poloshirt...'
 sku: 'B018LLIX94-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 49.47 EUR
 currency: EUR
 price: 49.47

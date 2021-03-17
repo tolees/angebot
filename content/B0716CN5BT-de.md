@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0716CN5BT-de King Arthur: Legend of the Sword [Blu-ray]'
 sku: 'B0716CN5BT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 4.98 EUR
 currency: EUR
 price: 4.98

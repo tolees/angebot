@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009NEOGGI-de Doc Johnson - TitanMen Master Tool 4-6 inch'
 sku: 'B009NEOGGI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 17.41 EUR
 currency: EUR
 price: 17.41

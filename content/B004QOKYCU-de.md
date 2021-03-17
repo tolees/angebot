@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004QOKYCU-de Yankee Candle Duftkerze im großen Jar Cinnamon Stick...'
 sku: 'B004QOKYCU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 14.45 EUR
 currency: EUR
 price: 14.45

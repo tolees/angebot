@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BK1KYDR-de Muzili Fitness Armband Wasserdicht Fitness Tracker Sport...'
 sku: 'B07BK1KYDR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 13.43 EUR
 currency: EUR
 price: 13.43

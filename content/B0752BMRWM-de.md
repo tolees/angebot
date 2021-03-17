@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0752BMRWM-de Swarovski Angelic Square Set weiss Rhodiniert'
 sku: 'B0752BMRWM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 155.07 EUR
 currency: EUR
 price: 155.07

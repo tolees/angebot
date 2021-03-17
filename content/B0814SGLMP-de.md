@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814SGLMP-de Elfcraft Lederarmband Herren Armband Meteorite Schwarz mit...'
 sku: 'B0814SGLMP-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 98.9 EUR
 currency: EUR
 price: 98.9

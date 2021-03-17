@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073HTKFGV-de Anki 000-00060 Cozmo Carry Case Transporttasche Mehrfarbig'
 sku: 'B073HTKFGV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 26.98 EUR
 currency: EUR
 price: 26.98

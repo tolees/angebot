@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074K4DPQV-de Holy Stone Hs160 Fpv Mini Drohne Faltbar Mit HD Kamera...'
 sku: 'B074K4DPQV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

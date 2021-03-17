@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FAO6QDQ-de Cybex Silver Solution X Autositz Gruppe 2/3 15-36 kg ohne...'
 sku: 'B00FAO6QDQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 87.5 EUR
 currency: EUR
 price: 87.5

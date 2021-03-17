@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B1HVI4I-de Belkin Dual KfZ-Ladegerät 2.1A 10 Watt geeignet für iPhone...'
 sku: 'B00B1HVI4I-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 23.91 EUR
 currency: EUR
 price: 23.91

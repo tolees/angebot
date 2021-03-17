@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MS8QAQG-de Philips SHD8800/12 Over-Ear Funkkopfhörer offen 15m...'
 sku: 'B01MS8QAQG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 73.41 EUR
 currency: EUR
 price: 73.41

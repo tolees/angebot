@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N273FXN-de Razer BlackWidow Elite - Premium Mechanical Full-Size...'
 sku: 'B07N273FXN-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 108.2 EUR
 currency: EUR
 price: 108.2

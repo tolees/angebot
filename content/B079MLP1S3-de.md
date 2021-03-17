@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MLP1S3-de Playmobil Space 9487 Mars-Station Ab 6 Jahren'
 sku: 'B079MLP1S3-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 52.25 EUR
 currency: EUR
 price: 52.25

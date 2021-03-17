@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792T5HSF-de Geox Damen D ASHEELY B Biker Boots Blau Blue C4000 39 EU'
 sku: 'B0792T5HSF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 68.17 EUR
 currency: EUR
 price: 68.17

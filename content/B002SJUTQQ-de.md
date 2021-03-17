@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002SJUTQQ-de Samsonite Aeris Spinner L Koffer 75 cm 87.5 L Rot Red'
 sku: 'B002SJUTQQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 125.4 EUR
 currency: EUR
 price: 125.4

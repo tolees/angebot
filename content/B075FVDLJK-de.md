@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075FVDLJK-de Norton Security Standard 2019 | 1 Gerät | 1 Jahr |...'
 sku: 'B075FVDLJK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

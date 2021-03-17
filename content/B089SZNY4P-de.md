@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089SZNY4P-de BRIKSMAX Led Beleuchtungsset für 1985 Audi Sport Quattro...'
 sku: 'B089SZNY4P-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

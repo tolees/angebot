@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000FWHWGS-de Lavazza Kaffeebohnen - Crema E Aroma - 1er Pack 1 x 1 kg'
 sku: 'B000FWHWGS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 10.06 EUR
 currency: EUR
 price: 10.06

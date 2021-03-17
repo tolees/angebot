@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SU7GZVS-de Marvel s Agents of S.H.I.E.L.D. - Die komplette erste...'
 sku: 'B00SU7GZVS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 8.04 EUR
 currency: EUR
 price: 8.04

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078VPCV74-de Sony Alpha 6300 E-Mount Systemkamera 24.2 Megapixel 7 5 cm...'
 sku: 'B078VPCV74-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 539.0 EUR
 currency: EUR
 price: 539.0

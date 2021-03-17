@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008ZCAIWA-de EISL DX25 Waschbeckenbrause Handbrause für Küche Bad...'
 sku: 'B008ZCAIWA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

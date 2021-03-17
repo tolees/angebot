@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087RPSH2X-de WOTEGA Jeans Herren Alistar Slim fit - Stretch Jeanshose -...'
 sku: 'B087RPSH2X-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 31.92 EUR
 currency: EUR
 price: 31.92

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D76BXRH-de Levi s Damen 310 Shaping Super Skinny Jeans Blau Taurus...'
 sku: 'B07D76BXRH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 57.94 EUR
 currency: EUR
 price: 57.94

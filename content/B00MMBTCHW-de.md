@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MMBTCHW-de Remington Haarglätter Pro Sleek & Curl S6505 abgerundetes...'
 sku: 'B00MMBTCHW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

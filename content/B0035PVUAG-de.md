@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0035PVUAG-de Bosch Professional Stichsäge GST 150 CE 780 Watt...'
 sku: 'B0035PVUAG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 125.99 EUR
 currency: EUR
 price: 125.99

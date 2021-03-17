@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HVORHNA-de Westmark Kartoffelstampfer Kunststoff Länge: 27 5 cm...'
 sku: 'B01HVORHNA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

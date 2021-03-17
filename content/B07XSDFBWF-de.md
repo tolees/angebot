@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XSDFBWF-de Akku Schlagschrauber WESCO 18V 2.0Ah System Akku...'
 sku: 'B07XSDFBWF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

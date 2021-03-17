@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000UAOIVC-de WMF Perfect Schnellkochtopf Induktion Dampfkochtopf 4 5l...'
 sku: 'B000UAOIVC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

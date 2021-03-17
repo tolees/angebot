@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D69KKBZ-de LG G7 ThinQ Smartphone 15 47 cm 6 1 Zoll FullVision LCD...'
 sku: 'B07D69KKBZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 259.99 EUR
 currency: EUR
 price: 259.99

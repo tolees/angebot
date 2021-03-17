@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GPN88M-de LEGO Minecraft 21141 - Zombiehöhle Beliebtes Kinderspielzeug'
 sku: 'B075GPN88M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

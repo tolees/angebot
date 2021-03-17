@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015DJT6X4-de Siemens EX645LYC1E iQ700 Kochfeld Elektro /...'
 sku: 'B015DJT6X4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 633.0 EUR
 currency: EUR
 price: 633.0

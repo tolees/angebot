@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0052WHO2S-de Brother FS20 Computer-Nähmaschine mit 32 Nähprogramme...'
 sku: 'B0052WHO2S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 179.98 EUR
 currency: EUR
 price: 179.98

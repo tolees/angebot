@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ULI8CHY-de Samsonite Neopulse - Spinner S Breite: 20 cm Handgepäck 55...'
 sku: 'B00ULI8CHY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 155.4 EUR
 currency: EUR
 price: 155.4

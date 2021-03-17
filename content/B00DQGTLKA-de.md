@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DQGTLKA-de Silit Ersatzteil Sicomatic Dichtungsring 22 cm für...'
 sku: 'B00DQGTLKA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 13.41 EUR
 currency: EUR
 price: 13.41

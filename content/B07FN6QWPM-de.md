@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FN6QWPM-de Superdry Herren O L Vintage Embroidery L/S Tee...'
 sku: 'B07FN6QWPM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

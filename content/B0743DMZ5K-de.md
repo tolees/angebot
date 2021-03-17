@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0743DMZ5K-de DISNEY Frozen - DIE EISKÖNIGIN Scooli Campus UP...'
 sku: 'B0743DMZ5K-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

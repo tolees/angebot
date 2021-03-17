@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EOU9RW8-de Vagabond Grace Damen Chelsea Boots Schwarz Black 39 EU 6 UK'
 sku: 'B01EOU9RW8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

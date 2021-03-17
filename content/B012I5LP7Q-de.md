@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012I5LP7Q-de funny-frisch goldfischli Sesam 100 g'
 sku: 'B012I5LP7Q-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 0.89 EUR
 currency: EUR
 price: 0.89

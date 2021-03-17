@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0799BCY3P-de BISSELL 2380 CrossWave Hartboden-Bürstenrolle'
 sku: 'B0799BCY3P-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 9.72 EUR
 currency: EUR
 price: 9.72

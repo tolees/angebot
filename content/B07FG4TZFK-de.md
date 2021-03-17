@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FG4TZFK-de Wissen ist Macht: Dekaden [PlayStation 4]'
 sku: 'B07FG4TZFK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

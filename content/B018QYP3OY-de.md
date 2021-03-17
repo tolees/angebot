@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018QYP3OY-de Xoro HRK 7660 HD Receiver für digitales Kabelfernsehen...'
 sku: 'B018QYP3OY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0134TTN1U-de Creative Converting 315252 Birthday Plastic Tablecover...'
 sku: 'B0134TTN1U-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

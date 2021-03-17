@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XHLW4H9-de Uvex Unisex Jugend hlmt 4 cc Fahrradhelm red mat 51-55 cm'
 sku: 'B07XHLW4H9-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 27.29 EUR
 currency: EUR
 price: 27.29

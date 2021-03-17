@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GRE7W9O-de Logitech C925E Business Webcam mit 1080p und integrierter...'
 sku: 'B01GRE7W9O-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 56.0 EUR
 currency: EUR
 price: 56.0

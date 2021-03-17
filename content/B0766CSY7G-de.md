@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0766CSY7G-de PLAYMOBIL Family Fun 9422 Swimmingpool mit Pump-Dusche Ab...'
 sku: 'B0766CSY7G-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 22.31 EUR
 currency: EUR
 price: 22.31

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ELG5G7K-de Hasbro Gaming B7714100 - Elefun Kinderspiel'
 sku: 'B01ELG5G7K-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 25.59 EUR
 currency: EUR
 price: 25.59

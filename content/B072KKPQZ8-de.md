@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072KKPQZ8-de Western Digital 20 TB My Cloud EX2 Ultra-Netzwerkspeicher'
 sku: 'B072KKPQZ8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 649.0 EUR
 currency: EUR
 price: 649.0

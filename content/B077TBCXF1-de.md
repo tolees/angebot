@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077TBCXF1-de Navitech rot Harter Fall für die APEMAN Mini Car Camera...'
 sku: 'B077TBCXF1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

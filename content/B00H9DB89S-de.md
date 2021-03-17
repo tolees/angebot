@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00H9DB89S-de VAUDE Kappe UV Cap black L 049880105400'
 sku: 'B00H9DB89S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 11.61 EUR
 currency: EUR
 price: 11.61

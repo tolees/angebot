@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074DXGP9C-de WD My Cloud Home Duo 16 TB Persönlicher Cloudspeicher -...'
 sku: 'B074DXGP9C-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

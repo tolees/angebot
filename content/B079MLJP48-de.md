@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MLJP48-de PLAYMOBIL Magic 9472 Prachtvoller Phönix mit...'
 sku: 'B079MLJP48-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PZ8ZEGW-de Nike Damen WMNS Md Runner 2 Hallenschuhe Schwarz...'
 sku: 'B00PZ8ZEGW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 40.16 EUR
 currency: EUR
 price: 40.16

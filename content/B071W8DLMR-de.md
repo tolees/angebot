@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071W8DLMR-de Netgear RR230400-100NES Ready-NAS Network Attached Storage'
 sku: 'B071W8DLMR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 313.0 EUR
 currency: EUR
 price: 313.0

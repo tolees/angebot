@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077T6QTZG-de Bosch Akku Kettensäge Universalchain 18 1 Akku 18 Volt...'
 sku: 'B077T6QTZG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 115.99 EUR
 currency: EUR
 price: 115.99

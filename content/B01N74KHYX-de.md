@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N74KHYX-de Princess Raclette Grill in Bambusausführung - für bis zu 8...'
 sku: 'B01N74KHYX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

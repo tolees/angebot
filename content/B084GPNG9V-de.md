@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084GPNG9V-de SodaStream Sirup Pepsi Cola - 1x Flasche ergibt 9 Liter...'
 sku: 'B084GPNG9V-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 3.79 EUR
 currency: EUR
 price: 3.79

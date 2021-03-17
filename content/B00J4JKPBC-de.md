@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J4JKPBC-de Invicta 8929OB Pro Diver Unisex Uhr Edelstahl Automatik...'
 sku: 'B00J4JKPBC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 83.23 EUR
 currency: EUR
 price: 83.23

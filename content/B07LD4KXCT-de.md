@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LD4KXCT-de Morituri [Blu-ray]'
 sku: 'B07LD4KXCT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 9.84 EUR
 currency: EUR
 price: 9.84

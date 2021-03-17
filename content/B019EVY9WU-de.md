@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019EVY9WU-de Mobicool FR40 elektrische Kompressor-Kühlbox mit 38 Liter...'
 sku: 'B019EVY9WU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 258.81 EUR
 currency: EUR
 price: 258.81

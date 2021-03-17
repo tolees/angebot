@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072WB9DGS-de QNAP TS-231P-1G Desktop NAS Gehäuse mit 1 GB DDR3 RAM...'
 sku: 'B072WB9DGS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004QNW0IC-de Robin Hood / Gladiator Director s Cut / Extended Edition...'
 sku: 'B004QNW0IC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NCKPCTJ-de HÖGL Damen DRYFLEX Stiefeletten Schwarz Schwarz 0100 38 EU'
 sku: 'B07NCKPCTJ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 107.56 EUR
 currency: EUR
 price: 107.56

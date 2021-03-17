@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CSKPPNG-de Razer Base Station Chroma Headset Ständer mit RGB und USB-...'
 sku: 'B07CSKPPNG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009YHUPK-de WMF Gala Plus Topfset 5-teilig Cromargan Edelstahl poliert...'
 sku: 'B0009YHUPK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 167.54 EUR
 currency: EUR
 price: 167.54

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HTG8WH-de DXX Technik Bausteine Liebherr Kran LTM11200 7705Teile...'
 sku: 'B083HTG8WH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 719.99 EUR
 currency: EUR
 price: 719.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IO31B8K-de Sony BDV-N5200W 5.1 3D-DVD/Blu-ray Heimkinosystem...'
 sku: 'B00IO31B8K-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 475.82 EUR
 currency: EUR
 price: 475.82

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074D1SSSR-de Philips Sonicare DiamondClean Elektrische Zahnbürste...'
 sku: 'B074D1SSSR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

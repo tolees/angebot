@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GED89VI-de Kölln Müsli Schoko "30 % weniger Zucker" 1er Pack 1 x 2 kg'
 sku: 'B01GED89VI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

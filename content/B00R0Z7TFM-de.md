@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R0Z7TFM-de Bosch Professional Laser Entfernungsmesser GLM 40...'
 sku: 'B00R0Z7TFM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 55.91 EUR
 currency: EUR
 price: 55.91

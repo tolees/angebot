@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071CZ8ZS9-de Satisfyer 1 Next Generation Klitoris-Sauger mit 11...'
 sku: 'B071CZ8ZS9-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 14.15 EUR
 currency: EUR
 price: 14.15

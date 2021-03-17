@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TWFTVRW-de fischertechnik Kugelbahn Dynamic M mit Kettenaufzug und...'
 sku: 'B00TWFTVRW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 46.39 EUR
 currency: EUR
 price: 46.39

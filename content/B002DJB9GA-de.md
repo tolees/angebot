@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002DJB9GA-de BEABA 912111 - Wippe Transat Up & Down noir gris'
 sku: 'B002DJB9GA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

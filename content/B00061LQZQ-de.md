@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00061LQZQ-de D-Link DGS-1024D Gigabit Ethernet Switch 24 Ports...'
 sku: 'B00061LQZQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 85.9 EUR
 currency: EUR
 price: 85.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LSRCQ14-de LG 38UC99-W 95 25 cm 37 5 Zoll Curved 21:9 UltraWide™ IPS...'
 sku: 'B01LSRCQ14-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 320.0 EUR
 currency: EUR
 price: 320.0

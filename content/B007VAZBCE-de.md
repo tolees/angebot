@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007VAZBCE-de Tamron 24-70mm F/2 8 Weitwinkelobjektiv mit USD-Motor und...'
 sku: 'B007VAZBCE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 320.0 EUR
 currency: EUR
 price: 320.0

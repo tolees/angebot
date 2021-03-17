@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IM9WAGM-de TechniSat Z-Wave Innenkamera 1 Smart Home Kamera...'
 sku: 'B01IM9WAGM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 54.18 EUR
 currency: EUR
 price: 54.18

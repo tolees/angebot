@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F6IL11M-de satch Pack Chaka Cherry ergonomischer Schulrucksack 30...'
 sku: 'B01F6IL11M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 75 EUR
 currency: EUR
 price: 75

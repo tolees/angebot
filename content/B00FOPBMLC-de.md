@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FOPBMLC-de Maggi Würze Vorratsflasche 6er Pack 6 x 1 kg'
 sku: 'B00FOPBMLC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 32.32 EUR
 currency: EUR
 price: 32.32

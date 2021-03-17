@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SGPTNNC-de Luftbefeuchter Ultraschall Homech Raumbefeuchter 4L 50 Std...'
 sku: 'B07SGPTNNC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

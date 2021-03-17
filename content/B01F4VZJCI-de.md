@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F4VZJCI-de HP PageWide 352dw Tintenstrahldrucker Duplex WLAN Netzwerk...'
 sku: 'B01F4VZJCI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

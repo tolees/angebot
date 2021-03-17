@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001RQ27VQ-de Cramer Reparatur-Lackstift Email Acryl Keramik -...'
 sku: 'B001RQ27VQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 9.7 EUR
 currency: EUR
 price: 9.7

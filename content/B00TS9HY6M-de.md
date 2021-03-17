@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TS9HY6M-de Samyang 24mm F3.5 T/S Objektiv für Anschluss Micro Four...'
 sku: 'B00TS9HY6M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 593.46 EUR
 currency: EUR
 price: 593.46

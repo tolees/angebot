@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HXTLSHO-de BIO Ahornsirup Grad A Dark Robust taste - 1 Liter 1 320 Kg...'
 sku: 'B01HXTLSHO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 17.14 EUR
 currency: EUR
 price: 17.14

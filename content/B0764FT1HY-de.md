@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0764FT1HY-de Neato Robotics D7 Intelligenter Saugroboter - Premium...'
 sku: 'B0764FT1HY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 419.82 EUR
 currency: EUR
 price: 419.82

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086ML2R9Q-de Leic LED-Beleuchtungssatz Bausteine Lichtset für Lego...'
 sku: 'B086ML2R9Q-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

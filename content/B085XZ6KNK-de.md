@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085XZ6KNK-de Dittzz Technic Avtoros Shaman 8x8 Off-Roader Modell 2.4Ghz...'
 sku: 'B085XZ6KNK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 207.99 EUR
 currency: EUR
 price: 207.99

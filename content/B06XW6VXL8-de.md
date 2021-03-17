@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XW6VXL8-de Rieker 93157 Damen Winterstiefel Winter-Boots Fellboots...'
 sku: 'B06XW6VXL8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 54.9 EUR
 currency: EUR
 price: 54.9

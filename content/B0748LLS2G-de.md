@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0748LLS2G-de Salamander Herren Matheus Derbys Braun Cognac Brown 07 42 EU'
 sku: 'B0748LLS2G-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 59.8 EUR
 currency: EUR
 price: 59.8

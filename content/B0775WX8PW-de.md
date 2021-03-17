@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0775WX8PW-de Yazubi Herren Chino Hose Modell Dustin Chinohose by Yzb...'
 sku: 'B0775WX8PW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 27.8 EUR
 currency: EUR
 price: 27.8

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005VAL35K-de Pawhut Welpenauslauf Welpenfreigehege Freigehege Laufstall...'
 sku: 'B005VAL35K-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 54.32 EUR
 currency: EUR
 price: 54.32

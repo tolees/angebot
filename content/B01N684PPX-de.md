@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N684PPX-de Haier HRF-521DS6 Side-by-Side / A+ / 179 cm Höhe / 435...'
 sku: 'B01N684PPX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 329.47 EUR
 currency: EUR
 price: 329.47

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008TLGFW4-de Emsa 513357 Travel Mug Thermo-/Isolierbecher...'
 sku: 'B008TLGFW4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

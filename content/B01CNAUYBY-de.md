@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CNAUYBY-de AmazonBasics Stereo-Audiokabel 3 5-mm-Klinkenstecker auf 3...'
 sku: 'B01CNAUYBY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

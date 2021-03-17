@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072HJB1QL-de Schiesser Herren Anzug Kurz Zweiteiliger Schlafanzug Blau...'
 sku: 'B072HJB1QL-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 38.85 EUR
 currency: EUR
 price: 38.85

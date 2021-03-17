@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C34NYHW-de 4G LTE Tablet 10 Zoll - Android 9.0 Zertifiziert von...'
 sku: 'B08C34NYHW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

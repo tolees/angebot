@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IEP289Y-de SIRUI ET-2204/E-20 Easy Traveler Dreibeinstativ mit E-20...'
 sku: 'B00IEP289Y-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 309.0 EUR
 currency: EUR
 price: 309.0

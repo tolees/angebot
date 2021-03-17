@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PS1KVD1-de Mini PC Lüfterlos Intel Atom X5-Z8350 Prozessor Quad-Core...'
 sku: 'B07PS1KVD1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 111.99 EUR
 currency: EUR
 price: 111.99

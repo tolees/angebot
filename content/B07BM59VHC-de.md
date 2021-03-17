@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BM59VHC-de Hasbro Gaming E1921100 - Trivial Pursuit Familien Edition...'
 sku: 'B07BM59VHC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

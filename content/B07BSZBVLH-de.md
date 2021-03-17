@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BSZBVLH-de Wangel Hakenleiste Küchenhelfer Hängeleiste 7 Haken ohne...'
 sku: 'B07BSZBVLH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

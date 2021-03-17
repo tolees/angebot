@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WARZZQK-de Der dritte Mann Digital Remastered 2 Discs [Special Edition]'
 sku: 'B00WARZZQK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792R1XMX-de My Little Pony - Cuties Sammelfiguren kleines Pony in...'
 sku: 'B0792R1XMX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

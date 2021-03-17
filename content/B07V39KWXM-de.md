@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V39KWXM-de Apple MacBook Air 13" Neuestes Modell 8GB RAM 128GB...'
 sku: 'B07V39KWXM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

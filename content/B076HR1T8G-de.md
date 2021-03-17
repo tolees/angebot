@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HR1T8G-de adidas Herren Core 18 Sweat Trainingstop Dark Grey...'
 sku: 'B076HR1T8G-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 23.17 EUR
 currency: EUR
 price: 23.17

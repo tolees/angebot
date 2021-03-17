@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HT1T24W-de RAMPOW Kfz Ladegerät Auto Ladegerät Zigarettenanzünder USB...'
 sku: 'B07HT1T24W-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

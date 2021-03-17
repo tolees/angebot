@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MKWDDV-de PLAYMOBIL DreamWorks Spirit 9477 Vater Jim mit Kutsche Ab...'
 sku: 'B079MKWDDV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

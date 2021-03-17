@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012O45UFE-de Unbekannt Quadratische Pappteller 22 9 cm 8er-Packung'
 sku: 'B012O45UFE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 1.12 EUR
 currency: EUR
 price: 1.12

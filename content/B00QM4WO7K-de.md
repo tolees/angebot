@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QM4WO7K-de Ravensburger 23402 - Disney Frozen Brettspiele auf zum...'
 sku: 'B00QM4WO7K-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 5.31 EUR
 currency: EUR
 price: 5.31

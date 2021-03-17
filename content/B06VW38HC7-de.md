@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VW38HC7-de Fossil Smartwatch FTW1203'
 sku: 'B06VW38HC7-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 99.43 EUR
 currency: EUR
 price: 99.43

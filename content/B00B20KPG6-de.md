@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B20KPG6-de Melitta Caffeo Solo & Perfect Milk E957-101 Schlanker...'
 sku: 'B00B20KPG6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 314.99 EUR
 currency: EUR
 price: 314.99

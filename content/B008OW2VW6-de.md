@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008OW2VW6-de Gimi Modular 4 Turm-Wäscheständer aus Stahl 40 m Trockenlänge'
 sku: 'B008OW2VW6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 35.39 EUR
 currency: EUR
 price: 35.39

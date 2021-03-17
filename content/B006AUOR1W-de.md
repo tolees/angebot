@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006AUOR1W-de Thetford 92828 Porta Potti 335 Tragbare Toilette Qube...'
 sku: 'B006AUOR1W-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

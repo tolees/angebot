@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074SQG93Z-de devolo dLAN 1200+ WiFi ac Powerline Network Kit 1200...'
 sku: 'B074SQG93Z-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

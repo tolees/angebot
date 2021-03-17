@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BVC4ZWE-de Christopeit Türreck Klimmzugstange 1688'
 sku: 'B01BVC4ZWE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 17 EUR
 currency: EUR
 price: 17

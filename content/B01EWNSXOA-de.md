@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EWNSXOA-de Petex Auto-Kindersitzerhöhung Max 103 ECE-Gruppe 2-3...'
 sku: 'B01EWNSXOA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

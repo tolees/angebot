@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J34TNPQ-de Funko 38481 POP Bobble Marvel Studios 10: Doctor Strange...'
 sku: 'B07J34TNPQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 6.13 EUR
 currency: EUR
 price: 6.13

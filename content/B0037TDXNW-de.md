@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0037TDXNW-de Reality Leuchten Tischleuchte Kugel ohne Leuchtmittel...'
 sku: 'B0037TDXNW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 18.08 EUR
 currency: EUR
 price: 18.08

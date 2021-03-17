@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001CZODGO-de LIQUI MOLY 1515 Marder-Schutz-Spray 200 ml'
 sku: 'B001CZODGO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 8.31 EUR
 currency: EUR
 price: 8.31

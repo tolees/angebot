@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DN5X1VO-de Die Monster AG/Die Monster Uni [Blu-ray]'
 sku: 'B00DN5X1VO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

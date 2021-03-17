@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076FDH9WN-de Palladium Pampa Sport Shearling Waterproof Unisex-...'
 sku: 'B076FDH9WN-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 80.38 EUR
 currency: EUR
 price: 80.38

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086SWP9PX-de Mini Beamer APEMAN Support 1080P Video Projektor ±30° Fern...'
 sku: 'B086SWP9PX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

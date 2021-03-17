@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G3NW5MI-de Sagrotan Handseife mit frischem Duft nach Aloe Vera –...'
 sku: 'B01G3NW5MI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 9.83 EUR
 currency: EUR
 price: 9.83

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FT2BZ4S-de Levi s Emerson Herren Kurzschaft Stiefel Schwarz Black 59...'
 sku: 'B01FT2BZ4S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

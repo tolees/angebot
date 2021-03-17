@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082NZYDDM-de Cudy AX3000 WiFi 6 PCIe Karte für PC Bluetooth 5.0 PCIe...'
 sku: 'B082NZYDDM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

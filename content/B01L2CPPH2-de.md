@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L2CPPH2-de GoPro Pro 3 5-mm-Mikrofonadapter für HERO7 Black HERO6...'
 sku: 'B01L2CPPH2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 46.76 EUR
 currency: EUR
 price: 46.76

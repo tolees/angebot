@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C53XRYV-de Netgear GS728TP 28-Port Gigabit Ethernet LAN PoE Switch...'
 sku: 'B07C53XRYV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 227.9 EUR
 currency: EUR
 price: 227.9

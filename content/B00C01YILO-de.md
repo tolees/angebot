@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C01YILO-de alfi 5337.641.050 Isolier-Trinkflasche isoBottle II...'
 sku: 'B00C01YILO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IZ821LU-de Tassimo Kapseln Jacobs Caffè Crema Mild XL 80...'
 sku: 'B00IZ821LU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 16.93 EUR
 currency: EUR
 price: 16.93

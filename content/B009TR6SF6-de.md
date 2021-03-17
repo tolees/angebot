@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009TR6SF6-de Tablet Kissen - ideal passend zu Samsung Tab Apple iPad...'
 sku: 'B009TR6SF6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LDRH928-de Ankermann Business Office Work PC Intel Core i5 4X 3.1 GHz...'
 sku: 'B07LDRH928-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 369.0 EUR
 currency: EUR
 price: 369.0

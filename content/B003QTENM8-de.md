@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003QTENM8-de Invicta 9223 Speedway Unisex Uhr Edelstahl Quarz schwarzen...'
 sku: 'B003QTENM8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 72.1 EUR
 currency: EUR
 price: 72.1

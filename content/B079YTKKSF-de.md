@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079YTKKSF-de Logitech G513 mechanische Gaming-Tastatur mit RGB...'
 sku: 'B079YTKKSF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

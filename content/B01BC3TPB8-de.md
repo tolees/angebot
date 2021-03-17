@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BC3TPB8-de Samsung WW80K6404QW/EG Waschmaschine FL/A+++/116...'
 sku: 'B01BC3TPB8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 419.0 EUR
 currency: EUR
 price: 419.0

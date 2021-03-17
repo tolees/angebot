@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TJD79BW-de Acer H7550ST DLP Projektor Full HD 1920 x 1080 Pixel 3.000...'
 sku: 'B00TJD79BW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 400.0 EUR
 currency: EUR
 price: 400.0

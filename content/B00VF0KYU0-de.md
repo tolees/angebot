@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VF0KYU0-de Levi s Herren Jeans 514 Regular Fit Blau Onewash Gr. W32/L34'
 sku: 'B00VF0KYU0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

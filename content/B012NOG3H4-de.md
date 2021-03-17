@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012NOG3H4-de LEGO Star Wars 75116 - Rogue One Actionfigur'
 sku: 'B012NOG3H4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 14.25 EUR
 currency: EUR
 price: 14.25

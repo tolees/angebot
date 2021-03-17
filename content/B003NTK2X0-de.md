@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003NTK2X0-de EuroTrail Grillabdeckung für 3-flamm-Grill'
 sku: 'B003NTK2X0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 15.52 EUR
 currency: EUR
 price: 15.52

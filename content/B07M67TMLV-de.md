@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M67TMLV-de Ondis24 Regal Lagerregal 71 x 35 x 180 H cm Steckregal...'
 sku: 'B07M67TMLV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

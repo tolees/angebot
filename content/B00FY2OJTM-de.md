@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FY2OJTM-de Thule Baby mit QR Achskupplung silber One Size'
 sku: 'B00FY2OJTM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

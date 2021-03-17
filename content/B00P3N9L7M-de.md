@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P3N9L7M-de Two and a Half Men - Mein cooler Onkel Charlie - Staffel 6...'
 sku: 'B00P3N9L7M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 5.14 EUR
 currency: EUR
 price: 5.14

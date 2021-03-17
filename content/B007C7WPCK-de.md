@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007C7WPCK-de Martha Stewart Satin Acrylic Craft Paint 2 Ounces-Seaweed'
 sku: 'B007C7WPCK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 4.74 EUR
 currency: EUR
 price: 4.74

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L4TWX1Y-de SVITA TM2X15 Treteimer 30 Liter 2x15L oder 54 Liter 3x18L...'
 sku: 'B07L4TWX1Y-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

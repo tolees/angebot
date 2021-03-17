@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0767BT4PB-de Philips Hue LED 2-er Buratto Spot inkl. Dimmschalter...'
 sku: 'B0767BT4PB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 109.98 EUR
 currency: EUR
 price: 109.98

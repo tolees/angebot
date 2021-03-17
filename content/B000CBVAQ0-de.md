@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000CBVAQ0-de Toppik Haarfasern für mehr Fülle/Volumen Dunkelbraun 27.5 g'
 sku: 'B000CBVAQ0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

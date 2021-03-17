@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0777TMW1Y-de Arlo Pro2 Überwachungskamera & Alarmanlage 1080p HD 3er...'
 sku: 'B0777TMW1Y-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 609.0 EUR
 currency: EUR
 price: 609.0

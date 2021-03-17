@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082D6TTZ9-de Kopfhörer Kabellos Bluetooth 5.1 Wireless Ohrhörer in Ear...'
 sku: 'B082D6TTZ9-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 21.37 EUR
 currency: EUR
 price: 21.37

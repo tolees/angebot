@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0747VDHG3-de OSRAM Smart+ LED ZigBee Lampe mit E14 Sockel warmweiß bis...'
 sku: 'B0747VDHG3-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

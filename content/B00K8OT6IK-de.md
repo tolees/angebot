@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K8OT6IK-de camel active Herren 488845/9939 Jeans Dark Blue Used W33/...'
 sku: 'B00K8OT6IK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 37.95 EUR
 currency: EUR
 price: 37.95

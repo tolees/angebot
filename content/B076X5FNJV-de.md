@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076X5FNJV-de Geox Herren U Shark A Mokassin Grau Stone 46 EU'
 sku: 'B076X5FNJV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 47.38 EUR
 currency: EUR
 price: 47.38

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00STFSEZ6-de Gift Company - Tang - Schmuckkasten Schmuckbox...'
 sku: 'B00STFSEZ6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 215.0 EUR
 currency: EUR
 price: 215.0

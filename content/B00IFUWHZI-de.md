@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IFUWHZI-de Philips TX1BK/00 In-Ear Kopfhörer mit Mikrofon schwarz'
 sku: 'B00IFUWHZI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079LBWG6Z-de Olympus PEN E-PL9 Micro Four Thirds Systemkamera 16...'
 sku: 'B079LBWG6Z-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 335.33 EUR
 currency: EUR
 price: 335.33

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HS39JJ0-de New Balance Herren MRL996AG Revlite Sneaker Grau MRL996AG...'
 sku: 'B00HS39JJ0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 57.89 EUR
 currency: EUR
 price: 57.89

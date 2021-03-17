@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NV4BZT2-de Epson B11B223401 Perfection V800 Photo Scanner Flachbett-...'
 sku: 'B00NV4BZT2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 361.0 EUR
 currency: EUR
 price: 361.0

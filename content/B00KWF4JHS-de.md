@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KWF4JHS-de Columbia Herren Woodburn II Waterproof Wasserdichte Schuhe...'
 sku: 'B00KWF4JHS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

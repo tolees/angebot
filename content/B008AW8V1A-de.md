@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008AW8V1A-de Lacoste Herren Sport Poloshirt L1230-00 Einfarbig Gr....'
 sku: 'B008AW8V1A-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 40.95 EUR
 currency: EUR
 price: 40.95

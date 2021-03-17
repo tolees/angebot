@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KFF9WJ0-de Timezone Herren Straight Leg Hose BenitoTZ cargo pants...'
 sku: 'B00KFF9WJ0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 45.09 EUR
 currency: EUR
 price: 45.09

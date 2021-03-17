@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0033MBT2U-de Ravensburger tiptoi Der interaktive Globus Spiel ab 7...'
 sku: 'B0033MBT2U-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 40.34 EUR
 currency: EUR
 price: 40.34

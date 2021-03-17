@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JLDGLB4-de Paw Patrol 6022632 Lookout Hauptquartier Spielset mit...'
 sku: 'B00JLDGLB4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 38.38 EUR
 currency: EUR
 price: 38.38

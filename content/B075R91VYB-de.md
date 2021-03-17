@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075R91VYB-de Tacklife Akkuschrauber set mit 2 Akkus 12V 2 Gang Getriebe...'
 sku: 'B075R91VYB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

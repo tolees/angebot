@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019RG3SHY-de Kosmos AllesKönnerKiste 604257 - Schnitzen Komplett-Set'
 sku: 'B019RG3SHY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 22.13 EUR
 currency: EUR
 price: 22.13

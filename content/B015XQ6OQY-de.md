@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015XQ6OQY-de ECCO Damen SOFT7W Sneakers Blau 1038marine 38 EU'
 sku: 'B015XQ6OQY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

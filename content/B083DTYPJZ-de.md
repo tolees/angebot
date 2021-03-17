@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DTYPJZ-de H0_V 407 Stück Custom Bausteine Halterung Ständer...'
 sku: 'B083DTYPJZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

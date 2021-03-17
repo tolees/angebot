@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GR1TVS-de LEGO Star Wars Han Solo 75535 Baubare Figur'
 sku: 'B075GR1TVS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 24.85 EUR
 currency: EUR
 price: 24.85

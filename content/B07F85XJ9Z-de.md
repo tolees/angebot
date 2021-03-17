@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F85XJ9Z-de GORE Wear M Unisex Stretch Handschuhe GORE-TEX INFINIUM 10...'
 sku: 'B07F85XJ9Z-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 30.47 EUR
 currency: EUR
 price: 30.47

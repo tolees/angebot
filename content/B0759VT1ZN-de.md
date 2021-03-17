@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0759VT1ZN-de LG Beamer PH30JG bis 254 cm 100 Zoll CineBeam Native HD...'
 sku: 'B0759VT1ZN-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0008JHGAA-de Kodak Portra 800 135-36 Farbfilm'
 sku: 'B0008JHGAA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 10.73 EUR
 currency: EUR
 price: 10.73

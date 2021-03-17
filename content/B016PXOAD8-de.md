@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016PXOAD8-de Lego 90032 Minitaschenlampe Star Wars R2-D2 7 6 cm'
 sku: 'B016PXOAD8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

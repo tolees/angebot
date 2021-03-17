@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012TATO0K-de Archos Hello 10 Home Assistent 10 1“ HD Display 16 GB...'
 sku: 'B012TATO0K-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 157.34 EUR
 currency: EUR
 price: 157.34

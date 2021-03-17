@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013C97RSS-de Kitchen Craft Tablett 30cm Living Nostalgia in weiß/grau...'
 sku: 'B013C97RSS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 17.53 EUR
 currency: EUR
 price: 17.53

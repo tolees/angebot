@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082YNPVCR-de PLAYMOBIL Family Fun 70342 Erlebnis-Streichelzoo Ab 4 Jahren'
 sku: 'B082YNPVCR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

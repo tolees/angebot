@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074TP48WY-de Philips HF3651/01 Sleep und Wake-up Light Einschlafhilfe...'
 sku: 'B074TP48WY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 108.99 EUR
 currency: EUR
 price: 108.99

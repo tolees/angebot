@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003XOWP1C-de Das Phantom der Oper [Blu-ray] [Special Edition]'
 sku: 'B003XOWP1C-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012GSKB8O-de Buff Erwachsene Mütze Merino Thermal Solid Black one size'
 sku: 'B012GSKB8O-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

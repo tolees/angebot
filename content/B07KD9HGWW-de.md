@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KD9HGWW-de VAUDE Damen Escape Bike Light Jacke Nickel Green 36'
 sku: 'B07KD9HGWW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

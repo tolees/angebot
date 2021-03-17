@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000G4OZ2O-de adidas Unisex-Erwachsene Mundial Team Fußballschuhe...'
 sku: 'B000G4OZ2O-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 50.7 EUR
 currency: EUR
 price: 50.7

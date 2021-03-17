@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0742KCMF5-de Thames & Kosmos 692872 Zubehör'
 sku: 'B0742KCMF5-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

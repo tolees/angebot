@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081J1TXPR-de OneOdio Bluetooth Kopfhörer Over Ear Geschlossene HiFi...'
 sku: 'B081J1TXPR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

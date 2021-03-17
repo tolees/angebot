@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078XFBXYB-de 3D Stift Filament PLA Filament 1.75mm 60M 3 Farben je 20M...'
 sku: 'B078XFBXYB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 8.03 EUR
 currency: EUR
 price: 8.03

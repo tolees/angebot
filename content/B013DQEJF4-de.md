@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013DQEJF4-de Bosch MUM5 CreationLine Küchenmaschine MUM58L20 Testsieger...'
 sku: 'B013DQEJF4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 154.99 EUR
 currency: EUR
 price: 154.99

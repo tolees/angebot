@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083KPJSQV-de Samsung Clear View Cover EF-ZG980 für Galaxy S20 | S20 5G...'
 sku: 'B083KPJSQV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

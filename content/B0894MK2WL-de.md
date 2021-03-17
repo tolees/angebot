@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0894MK2WL-de Zorara LED TV Hintergrundbeleuchtung LED Strip USB 3M mit...'
 sku: 'B0894MK2WL-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

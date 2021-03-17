@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LGKRVPK-de Bosch 3tlg. Starter Set Fliesen für...'
 sku: 'B00LGKRVPK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0716SS1FC-de Merry Style Mädchen Lange Leggings aus Viskose MS10-130...'
 sku: 'B0716SS1FC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

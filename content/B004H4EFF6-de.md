@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004H4EFF6-de Hazet 810SPC/6 Schraubendreher-Satz'
 sku: 'B004H4EFF6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 12.04 EUR
 currency: EUR
 price: 12.04

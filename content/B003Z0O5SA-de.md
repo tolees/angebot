@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003Z0O5SA-de CMP Softshell Jungen Kapuzen Jacke Schwarz U901 140'
 sku: 'B003Z0O5SA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 17.47 EUR
 currency: EUR
 price: 17.47

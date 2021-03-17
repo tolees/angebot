@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XX7TNVZ-de Premium Messerschärfer Schleifstein Körnung 1000/6000....'
 sku: 'B06XX7TNVZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 27.97 EUR
 currency: EUR
 price: 27.97

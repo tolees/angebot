@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M0LWL0O-de Big Spielwarenfabrik 57072 Bausteine Multicolour'
 sku: 'B00M0LWL0O-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 5.77 EUR
 currency: EUR
 price: 5.77

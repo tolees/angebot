@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072VP9P2C-de CITIZEN Herren Analog Solar Uhr mit Edelstahl Armband...'
 sku: 'B072VP9P2C-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 222.0 EUR
 currency: EUR
 price: 222.0

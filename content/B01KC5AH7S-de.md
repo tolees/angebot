@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KC5AH7S-de Bluetooth Kopfhörer In Ear Bluetooth 5.0 Kabellos Wireless...'
 sku: 'B01KC5AH7S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 33.98 EUR
 currency: EUR
 price: 33.98

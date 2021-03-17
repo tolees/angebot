@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EHMVK0U-de Remonte R2277 Damen Langschaft Stiefel braun chestnut/24 39'
 sku: 'B01EHMVK0U-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 89.56 EUR
 currency: EUR
 price: 89.56

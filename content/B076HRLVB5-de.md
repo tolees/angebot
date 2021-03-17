@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HRLVB5-de Adidas Herren Core 18 Trainingshose Black/White S'
 sku: 'B076HRLVB5-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 23.76 EUR
 currency: EUR
 price: 23.76

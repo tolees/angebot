@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R1LD5F7-de Briksmax Led Beleuchtungsset für Creator Palace Cinema...'
 sku: 'B07R1LD5F7-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

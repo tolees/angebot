@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01608LMSY-de Playmobil 6970 - Schmück-Pony Sternchen'
 sku: 'B01608LMSY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 2.19 EUR
 currency: EUR
 price: 2.19

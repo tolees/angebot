@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005WHG6EU-de DeWalt Paneelsäge 1675W DWS780 inkl. Zubehör - Mit 305x30...'
 sku: 'B005WHG6EU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 699.46 EUR
 currency: EUR
 price: 699.46

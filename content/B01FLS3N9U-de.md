@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FLS3N9U-de Funko 39827 POP Vinyl: Football-Neymar da Silva Santos Jr....'
 sku: 'B01FLS3N9U-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 5.92 EUR
 currency: EUR
 price: 5.92

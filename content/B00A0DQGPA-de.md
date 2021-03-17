@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A0DQGPA-de Clementoni 13405.2 - Memo Kompakt Minnie'
 sku: 'B00A0DQGPA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

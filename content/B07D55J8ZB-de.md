@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D55J8ZB-de Harry Potter Fantastic Beasts 2 Pop! Vinyl Figur 17...'
 sku: 'B07D55J8ZB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 8.53 EUR
 currency: EUR
 price: 8.53

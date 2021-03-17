@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0033QHY2A-de Trelock Schloss FS 300 Trigo-85 cm Faltschloss schwarz...'
 sku: 'B0033QHY2A-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

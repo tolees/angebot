@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072F7MRXN-de Hisense RB338N4AG2 Kühl-Gefrier-Kombination/A++/No-...'
 sku: 'B072F7MRXN-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 349.0 EUR
 currency: EUR
 price: 349.0

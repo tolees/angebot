@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0736QY7VY-de ALPINA Herren JSP 3.0 Vest Rückenprotektor Black/White XXL'
 sku: 'B0736QY7VY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 70.2 EUR
 currency: EUR
 price: 70.2

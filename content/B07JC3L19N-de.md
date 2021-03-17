@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JC3L19N-de LEGO 75974 - Overwatch Bastion Bauset'
 sku: 'B07JC3L19N-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

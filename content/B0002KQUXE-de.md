@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0002KQUXE-de Technics RP-DH1200 DJ Kopfhörer silber'
 sku: 'B0002KQUXE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 106.05 EUR
 currency: EUR
 price: 106.05

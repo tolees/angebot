@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0000WS6QI-de Numark HF125 - professioneller DJ Kopfhörer mit 2m Kabel...'
 sku: 'B0000WS6QI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 8.3 EUR
 currency: EUR
 price: 8.3

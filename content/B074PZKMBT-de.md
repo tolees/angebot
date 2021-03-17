@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074PZKMBT-de Sony Xperia XZ1 Smartphone 13 2 cm 5 2 Zoll Triluminos...'
 sku: 'B074PZKMBT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 170.99 EUR
 currency: EUR
 price: 170.99

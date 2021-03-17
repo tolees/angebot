@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R8RCLC8-de Floïd masaje genuino vigoroso Aftershave 150ml'
 sku: 'B00R8RCLC8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

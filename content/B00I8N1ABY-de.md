@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I8N1ABY-de Makita Akku-Heckenschere 52 cm 18 V ohne Akku ohne...'
 sku: 'B00I8N1ABY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085TB6L1S-de Dittzz Technic Offroader Bauset 1:8 2.4Ghz RC Auto mit...'
 sku: 'B085TB6L1S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

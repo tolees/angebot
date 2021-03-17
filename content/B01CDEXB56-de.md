@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CDEXB56-de Funko 9299 S1 No Actionfigur Games: Overwatch: Reaper Multi'
 sku: 'B01CDEXB56-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 9.03 EUR
 currency: EUR
 price: 9.03

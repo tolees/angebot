@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DPLTVWS-de Kinder Musikinstrumenten Spielzeug Set - Smarkids...'
 sku: 'B07DPLTVWS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

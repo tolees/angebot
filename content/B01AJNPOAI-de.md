@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AJNPOAI-de Schleich 42344 - Reiterhof mit Reiterin und Pferden'
 sku: 'B01AJNPOAI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

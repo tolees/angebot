@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08492TQGQ-de HyperX Impact DDR4 HX426S16IBK2/64 Arbeitsspeicher 2666MHz...'
 sku: 'B08492TQGQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 279.0 EUR
 currency: EUR
 price: 279.0

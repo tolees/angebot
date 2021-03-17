@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081J8WJR9-de McFarlane Toys Cyberpunk 2077 Action Figure Johnny 18 cm...'
 sku: 'B081J8WJR9-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

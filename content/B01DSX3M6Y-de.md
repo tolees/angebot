@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DSX3M6Y-de B.K.Licht I 6er Set LED Einbaustrahler I Dimmbar I...'
 sku: 'B01DSX3M6Y-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

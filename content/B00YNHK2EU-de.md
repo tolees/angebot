@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YNHK2EU-de Castrol POWER 1 2T 2-Takt Motorrad Motorenöl 1L'
 sku: 'B00YNHK2EU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084TJDDL1-de AstroAI Staubschutzmaske mit Filtern & Ventile-...'
 sku: 'B084TJDDL1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

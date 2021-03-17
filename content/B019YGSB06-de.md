@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019YGSB06-de Ravensburger Spiele 24721 - Spielend Erstes Lernen: Komm...'
 sku: 'B019YGSB06-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 8.29 EUR
 currency: EUR
 price: 8.29

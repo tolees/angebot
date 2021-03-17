@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VVPKGGK-de LEGO Super Heroes 76085 - Das Kräftemessen um Atlantis'
 sku: 'B06VVPKGGK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

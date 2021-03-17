@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0006NM9TQ-de Ravensburger 21108 1 Memory Die Eiskönigin Lernspiel'
 sku: 'B0006NM9TQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 14.1 EUR
 currency: EUR
 price: 14.1

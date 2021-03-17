@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UDUL3OY-de 5 Zimmer Küche Sarg'
 sku: 'B00UDUL3OY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 3.51 EUR
 currency: EUR
 price: 3.51

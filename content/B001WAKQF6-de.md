@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001WAKQF6-de Skagen Damen-Uhren 358XSSLBC'
 sku: 'B001WAKQF6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 52.74 EUR
 currency: EUR
 price: 52.74

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YF1R2FS-de HP Pavilion Gaming 15-dk0206ng 15 6 Zoll / FHD IPS Gaming...'
 sku: 'B07YF1R2FS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 450.0 EUR
 currency: EUR
 price: 450.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FOIRFMO-de Philips HU4803/01 Luftbefeuchter bis zu 25m² hygienische...'
 sku: 'B00FOIRFMO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

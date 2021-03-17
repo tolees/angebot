@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ST4TGAO-de Merry Style Damen Langarm Body BD900 Schwarz L'
 sku: 'B00ST4TGAO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

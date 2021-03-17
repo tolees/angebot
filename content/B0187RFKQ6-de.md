@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0187RFKQ6-de FMD Möbel 291-001 Tower Drehregal Holz sandeiche 34 x 34 x...'
 sku: 'B0187RFKQ6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 36.9 EUR
 currency: EUR
 price: 36.9

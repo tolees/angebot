@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075MHNSNB-de Das fünfte Element Remastered 2017 – Mediabook exklusiv...'
 sku: 'B075MHNSNB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

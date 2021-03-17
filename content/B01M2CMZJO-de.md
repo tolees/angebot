@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M2CMZJO-de S&R Kreissägeblatt 160mm x 20mm x 2 2mm 40T Reduzierring...'
 sku: 'B01M2CMZJO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 14.55 EUR
 currency: EUR
 price: 14.55

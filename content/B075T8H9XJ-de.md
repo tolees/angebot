@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075T8H9XJ-de AUKEY Dashcam Dual 1080P Front und Rück Autokamera mit...'
 sku: 'B075T8H9XJ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

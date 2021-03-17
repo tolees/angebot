@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JXHQWSF-de Playmobil 70007 Top Agents Team S.H.A.R.K. Rocket Rafter bunt'
 sku: 'B07JXHQWSF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

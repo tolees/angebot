@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0082AYFH4-de Panama Jack Felia Igloo Damen Warm gefüttert Biker Boots...'
 sku: 'B0082AYFH4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

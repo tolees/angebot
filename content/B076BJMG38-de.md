@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076BJMG38-de The Stage Deluxe Edt.'
 sku: 'B076BJMG38-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

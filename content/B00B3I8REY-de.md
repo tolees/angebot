@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B3I8REY-de KS Tools 515.0990 SlimPOWER Impact-Stecknuss-Satz 3-tlg. 1/2"'
 sku: 'B00B3I8REY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085P2BXPQ-de LG UltraHD 4K LED HDR 3940 x 2160 Radeon FreeSync HDMI...'
 sku: 'B085P2BXPQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 349.9 EUR
 currency: EUR
 price: 349.9

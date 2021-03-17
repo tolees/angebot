@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K4X6RJX-de Lightailing Licht-Set Für Creator Tower Bridge Modell -...'
 sku: 'B07K4X6RJX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

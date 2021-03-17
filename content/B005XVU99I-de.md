@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005XVU99I-de Bosch S4005 Autobatterie Starter 60Ah 12V 540A'
 sku: 'B005XVU99I-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 58.08 EUR
 currency: EUR
 price: 58.08

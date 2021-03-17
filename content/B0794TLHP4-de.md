@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0794TLHP4-de Fire HD 8-Tablet 16 GB Schwarz mit Spezialangeboten'
 sku: 'B0794TLHP4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 41.24 EUR
 currency: EUR
 price: 41.24

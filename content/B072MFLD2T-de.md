@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072MFLD2T-de Philips SHB3175BK BASS+ Over-Ear Bluetooth-Kopfhörer 13...'
 sku: 'B072MFLD2T-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

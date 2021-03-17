@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KWO9JGE-de Huntvp Gürteltasche wasserdichte Bauchtasche für Handy bis...'
 sku: 'B01KWO9JGE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

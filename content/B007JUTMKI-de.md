@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007JUTMKI-de Erima Damen Casual Basics Sweathose mit Bündchen schwarz 40'
 sku: 'B007JUTMKI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 23.72 EUR
 currency: EUR
 price: 23.72

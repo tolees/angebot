@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007WAYS8G-de Blanco Botton Pro 45/2 Manuell; Müllsystem für die...'
 sku: 'B007WAYS8G-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 63.2 EUR
 currency: EUR
 price: 63.2

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FZ53VKR-de Microsoft Office 365 Home multilingual | 6 Nutzer |...'
 sku: 'B07FZ53VKR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

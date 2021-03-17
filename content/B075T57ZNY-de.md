@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075T57ZNY-de Pentel bl2007z-cof Roller EnerGel Gel Körper Metall matt...'
 sku: 'B075T57ZNY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 13.06 EUR
 currency: EUR
 price: 13.06

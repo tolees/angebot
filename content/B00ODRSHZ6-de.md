@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ODRSHZ6-de Jabra Evolve 40 UC Stereo-Kabel-Headset mit USB und 3 5...'
 sku: 'B00ODRSHZ6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 81.89 EUR
 currency: EUR
 price: 81.89

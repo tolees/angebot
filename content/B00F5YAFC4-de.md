@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F5YAFC4-de AEG AEF144 Austauschfilter für Rapido & Ergorapido CX7-1...'
 sku: 'B00F5YAFC4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001EB2TTO-de Siemens Keramikbackstein inkl. Holzschieber / Für Backöfen...'
 sku: 'B001EB2TTO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 75.12 EUR
 currency: EUR
 price: 75.12

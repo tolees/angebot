@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074TBSZVM-de Puma Roma Basic Herren Sneaker Mehrfarbig Weiß white-black...'
 sku: 'B074TBSZVM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 62.95 EUR
 currency: EUR
 price: 62.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MG8NB84-de ECCO Herren Byway TRED Hohe Sneaker Schwarz Black/Moonless...'
 sku: 'B07MG8NB84-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 101.93 EUR
 currency: EUR
 price: 101.93

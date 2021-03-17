@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0007VDNWO-de Ravensburger 09074 - Nordlichter'
 sku: 'B0007VDNWO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 6.15 EUR
 currency: EUR
 price: 6.15

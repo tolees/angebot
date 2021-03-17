@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KP62TS-de Cookin Rudy Van Gelder Remaster'
 sku: 'B000KP62TS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 4.41 EUR
 currency: EUR
 price: 4.41

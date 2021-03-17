@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MG9N2JT-de Sharp R760S 2-in-1 Flatbed Mikrowelle mit Grill / 23 L /...'
 sku: 'B01MG9N2JT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 125.0 EUR
 currency: EUR
 price: 125.0

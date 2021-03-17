@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J58WXHR-de Medion E4273 35 5 cm 14 Zoll Full HD Touch Convertible...'
 sku: 'B07J58WXHR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 207.0 EUR
 currency: EUR
 price: 207.0

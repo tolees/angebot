@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IW64JWS-de Logitech 939-001471 BASE Ladestation mit Smart Connector-...'
 sku: 'B01IW64JWS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 60.82 EUR
 currency: EUR
 price: 60.82

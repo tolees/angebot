@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000WR7KB8-de Villeroy & Boch Piemont Tafelbesteck für bis zu 6 Personen...'
 sku: 'B000WR7KB8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug', ]
 actualPrice: 84.95 EUR
 currency: EUR
 price: 84.95
