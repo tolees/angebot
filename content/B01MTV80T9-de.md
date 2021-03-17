@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MTV80T9-de Neff TBD1676N / T16BD76N0 / Autarkes Kochfeld /...'
 sku: 'B01MTV80T9-de'
-tags: [ 'Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bitsätze','Blu-ray','Computer & Zubehör','DVD & Blu-ray','Datenspeicher','Drogerie & Körperpflege','Elektro- & Handwerkzeuge','Elektronik & Foto','Externe Datenspeicher','Externe Festplatten','Featured Categories','Filme','Geröstete Kaffeebohnen','Geschirrreinigung','Getränke, Kaffee & Tee','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Haushaltsreinigungsmittel','Haushaltswaren','In-Ear Ohrhörer','Interner Speicher','Kaffee & Espresso','Komödie & Unterhaltung','Kopfhörer','Kopfhörer & Zubehör','Lebensmittel','Lebensmittel & Getränke','Netzteile für Handys','Schraubendreher-Zubehör','Science Fiction','Spielzeug','Spülmaschinenreinigung','Tragbare Bluetooth-Lautsprecher','Tragbare Geräte','Tragbare Lautsprecher & Audio-Docks','Zubehör für Elektrowerkzeuge','Zubehör für tragbare Geräte', ]
+tags: [ 'Baumarkt','Bitsätze','Drogerie & Körperpflege','Elektro- & Handwerkzeuge','Geröstete Kaffeebohnen','Geschirrreinigung','Getränke, Kaffee & Tee','Haushaltsreinigungsmittel','Haushaltswaren','Kaffee & Espresso','Lebensmittel','Lebensmittel & Getränke','Schraubendreher-Zubehör','Spülmaschinenreinigung','Zubehör für Elektrowerkzeuge', ]
 actualPrice: 284.98 EUR
 currency: EUR
 price: 284.98

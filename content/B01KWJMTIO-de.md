@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KWJMTIO-de Bosch Professional 18V System Akku Kreissäge GKS 18V-57 G...'
 sku: 'B01KWJMTIO-de'
-tags: [ 'Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bitsätze','Blu-ray','Computer & Zubehör','DVD & Blu-ray','Datenspeicher','Drogerie & Körperpflege','Elektro- & Handwerkzeuge','Elektronik & Foto','Externe Datenspeicher','Externe Festplatten','Featured Categories','Filme','Geröstete Kaffeebohnen','Geschirrreinigung','Getränke, Kaffee & Tee','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Haushaltsreinigungsmittel','Haushaltswaren','In-Ear Ohrhörer','Interner Speicher','Kaffee & Espresso','Komödie & Unterhaltung','Kopfhörer','Kopfhörer & Zubehör','Lebensmittel','Lebensmittel & Getränke','Netzteile für Handys','Schraubendreher-Zubehör','Science Fiction','Spielzeug','Spülmaschinenreinigung','Tragbare Bluetooth-Lautsprecher','Tragbare Geräte','Tragbare Lautsprecher & Audio-Docks','Zubehör für Elektrowerkzeuge','Zubehör für tragbare Geräte', ]
+tags: [ 'Baumarkt','Bitsätze','Drogerie & Körperpflege','Elektro- & Handwerkzeuge','Geröstete Kaffeebohnen','Geschirrreinigung','Getränke, Kaffee & Tee','Haushaltsreinigungsmittel','Haushaltswaren','Kaffee & Espresso','Lebensmittel','Lebensmittel & Getränke','Schraubendreher-Zubehör','Spülmaschinenreinigung','Zubehör für Elektrowerkzeuge', ]
 actualPrice: 116.99 EUR
 currency: EUR
 price: 116.99

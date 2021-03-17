@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0759KBZKY-de Canon PGI-580 BK / CLI-581 BK/C/M/Y Druckertinte -...'
 sku: 'B0759KBZKY-de'
-tags: [ 'Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bitsätze','Blu-ray','Computer & Zubehör','DVD & Blu-ray','Datenspeicher','Drogerie & Körperpflege','Elektro- & Handwerkzeuge','Elektronik & Foto','Externe Datenspeicher','Externe Festplatten','Featured Categories','Filme','Geröstete Kaffeebohnen','Geschirrreinigung','Getränke, Kaffee & Tee','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Haushaltsreinigungsmittel','Haushaltswaren','In-Ear Ohrhörer','Interner Speicher','Kaffee & Espresso','Komödie & Unterhaltung','Kopfhörer','Kopfhörer & Zubehör','Lebensmittel','Lebensmittel & Getränke','Netzteile für Handys','Schraubendreher-Zubehör','Science Fiction','Spielzeug','Spülmaschinenreinigung','Tragbare Bluetooth-Lautsprecher','Tragbare Geräte','Tragbare Lautsprecher & Audio-Docks','Zubehör für Elektrowerkzeuge','Zubehör für tragbare Geräte', ]
+tags: [ 'Baumarkt','Bitsätze','Drogerie & Körperpflege','Elektro- & Handwerkzeuge','Geröstete Kaffeebohnen','Geschirrreinigung','Getränke, Kaffee & Tee','Haushaltsreinigungsmittel','Haushaltswaren','Kaffee & Espresso','Lebensmittel','Lebensmittel & Getränke','Schraubendreher-Zubehör','Spülmaschinenreinigung','Zubehör für Elektrowerkzeuge', ]
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49
