@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Intenso High Performance interne SSD 120 mit 39.01 % Rabatt'
-date: 2021-03-16 12:24:43
+date: 2021-03-17 12:36:51
 image: 'https://m.media-amazon.com/images/I/4140iJXJalL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D3ACJPW-de Intenso High Performance interne SSD 120GB 6 3 cm 2 5 Zoll...'
 sku: 'B01D3ACJPW-de'
-tags: [ 'intenso', ]
+tags: [ '249195031','Activewear für Damen','Activewear für Herren','Activewear-Shirts & Tops für Herren','Baby- & Kleinkindspielzeug','Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bekleidung','Bettwaren & Bettwäsche','Bettwaren-Sets für Kinder','Bettwäsche, Bettbezüge & Sets','Bettwäsche-Sets','Brettspiele','Bürobedarf & Schreibwaren','Chibi Figuren','Computer','Computer & Zubehör','Damen-Jeanshosen','Damenbekleidung','Datenspeicher','Elektronik & Foto','Externe Datenspeicher','Externe SSD','Fernseher','Fernseher & Heimkino','Festplatten','Füllfederhalter & Kugelschreiber','Handys & Smartphones','Handys & Zubehör','Herrenbekleidung','Hobbys','Holzpuzzles','In-Ear Ohrhörer','Interne SSD','Interner Speicher','Kabel','Kabel & Zubehör','Kinderbettausstattung','Kinderspielfiguren & -fahrzeuge','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','Küchen- & Badinstallation','Küchenarmaturen','Kücheninstallation','Marker & Filzstifte','Minen, Patronen & Tintenlöscher','Motorikspielzeug','Netzwerk','Netzwerk-Switches','Netzwerkgeräte','Permanent-Marker','Produkte','Puzzles','Sammelfiguren','Sammelfiguren & Requisiten','Schreibwaren','Sicherheitstechnik','Simlockfreie Handys','Sortier- & Stapelspielzeug','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Sportsocken für Damen','Tablet PCs','USB-Kabel','Videoüberwachungstechnik','Wackelkopffiguren','Zubehör','intenso','Überwachungskameras','Überwachungstechnik', ]
 actualPrice: 18.29 EUR
 currency: EUR
 price: 18.29
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Intenso'
 buyurl: 'https://www.amazon.de/dp/B01D3ACJPW/?tag=tolees0ca-21'
 descuento: '39.01'
-average: '17.8117931034484'
+average: '17.818299319728'
 ---
 
 Sie können [Intenso High Performance interne SSD 120GB  6 3 cm  2 5 Zoll   SATA III  520 MB/Sekunden  schwarz](https://www.amazon.de/dp/B01D3ACJPW/?tag=tolees0ca-21) mit Preis 18.29 EUR (original: 29.99 EUR) 39.01 % Rabatt hier:
@@ -28,10 +28,10 @@ Sie können [Intenso High Performance interne SSD 120GB  6 3 cm  2 5 Zoll   SATA
 
 ℹ️:
 
-- Die SATA III Schnittstelle mit 6 Gbps ermöglicht ein Hochfahren von Computern oder Netbooks in weniger als 20 Sekunden
-- Geringer Stromverbrauch; Schock-resistent, geräuschloser Betrieb (0dB)
-- Smart Command Support, TRIM Command Support; Gewicht: 83G; Abmessungen: 100 x 70 x 7mm
 - Lieferumgang: Intenso High Performance interne SSD, 120GB
+- Geringer Stromverbrauch; Schock-resistent, geräuschloser Betrieb (0dB)
+- Die SATA III Schnittstelle mit 6 Gbps ermöglicht ein Hochfahren von Computern oder Netbooks in weniger als 20 Sekunden
+- Smart Command Support, TRIM Command Support; Gewicht: 83G; Abmessungen: 100 x 70 x 7mm
 - Sequentielles Lesen: bis zu 520MB/s - Sequentielles Schreiben: bis zu 480MB/s
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01D3ACJPW/?tag=tolees0ca-21)

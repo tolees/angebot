@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'LEGO 71746 NINJAGO Dschungeldrache Bause mit 25.01 % Rabatt'
-date: 2021-03-14 13:07:47
+date: 2021-03-17 12:35:28
 image: 'https://m.media-amazon.com/images/I/51qTn3ttc3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G46PN5C-de LEGO 71746 NINJAGO Dschungeldrache Bauset mit Ninja Lloyd...'
 sku: 'B08G46PN5C-de'
-tags: [  ]
+tags: [ '249195031','Activewear für Damen','Activewear für Herren','Activewear-Shirts & Tops für Herren','Baby- & Kleinkindspielzeug','Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bekleidung','Bettwaren & Bettwäsche','Bettwaren-Sets für Kinder','Bettwäsche, Bettbezüge & Sets','Bettwäsche-Sets','Brettspiele','Bürobedarf & Schreibwaren','Chibi Figuren','Computer','Computer & Zubehör','Damen-Jeanshosen','Damenbekleidung','Datenspeicher','Elektronik & Foto','Externe Datenspeicher','Externe SSD','Fernseher','Fernseher & Heimkino','Festplatten','Füllfederhalter & Kugelschreiber','Handys & Smartphones','Handys & Zubehör','Herrenbekleidung','Hobbys','Holzpuzzles','In-Ear Ohrhörer','Interne SSD','Interner Speicher','Kabel','Kabel & Zubehör','Kinderbettausstattung','Kinderspielfiguren & -fahrzeuge','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','Küchen- & Badinstallation','Küchenarmaturen','Kücheninstallation','Marker & Filzstifte','Minen, Patronen & Tintenlöscher','Motorikspielzeug','Netzwerk','Netzwerk-Switches','Netzwerkgeräte','Permanent-Marker','Produkte','Puzzles','Sammelfiguren','Sammelfiguren & Requisiten','Schreibwaren','Sicherheitstechnik','Simlockfreie Handys','Sortier- & Stapelspielzeug','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Sportsocken für Damen','Tablet PCs','USB-Kabel','Videoüberwachungstechnik','Wackelkopffiguren','Zubehör','lego','Überwachungskameras','Überwachungstechnik', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G46PN5C/?tag=tolees0ca-21'
 descuento: '25.01'
-average: '33.3906250000001'
+average: '33.0127777777779'
 ---
 
 Sie können [LEGO 71746 NINJAGO Dschungeldrache Bauset  mit Ninja Lloyd und Zane Minifiguren  Drache Spielzeug ab 8 Jahren für Jungen und Mädchen](https://www.amazon.de/dp/B08G46PN5C/?tag=tolees0ca-21) mit Preis 29.99 EUR (original: 39.99 EUR) 25.01 % Rabatt hier:
@@ -28,12 +28,12 @@ Sie können [LEGO 71746 NINJAGO Dschungeldrache Bauset  mit Ninja Lloyd und Zane
 
 ℹ️:
 
-- Die Flügel, die Beine und der Schwanz des Drachen lassen sich bewegen. Er kann sein Maul öffnen und schließen. Auf dem abnehmbaren Sattel kann ein Ninja losreiten
 - Der Dschungeldrache ist 15 cm hoch, 30 cm lang und 17 cm breit. Nach jedem spannenden Duell bereichert er als spektakulärer Blickfang das Kinderzimmer
 - Dieses coole Bauset ist ein äußerst begehrtes Geburtstags- oder Weihnachtsgeschenk for Kinder ab 8 Jahren, die Ninja lieben und sich gerne kreativ beschäftigen
-- Das Set beinhaltet auch ein cooles Surfbrett mit Segel und Shooter für spannende Ninja-Duelle. Die Spielgefährten werden von den Spielmöglichkeiten begeistert sein
-- LEGO NINJAGO Dschungeldrache (71746): Mit dem beweglichen Drachen aus diesem Spielset können Kinder spannende Szenen aus der TV-Serie nachstellen oder sich eigene Abenteuer ausdenken
+- Die Flügel, die Beine und der Schwanz des Drachen lassen sich bewegen. Er kann sein Maul öffnen und schließen. Auf dem abnehmbaren Sattel kann ein Ninja losreiten
 - Freue dich auf weitere NINJAGO Sets zur TV-Serie: Lloyds Dschungel-Bike (71745), Das Dorf der Wächter (71747) und Duell der Katamarane (71748)
 - Beinhaltet 4 Minifiguren aus der LEGO NINJAGO TV-Serie: Island Lloyd, Island Zane, PoulErik und den Hüter des Donners. Ihre coole Ausrüstung ermöglicht noch spannendere Action
+- Das Set beinhaltet auch ein cooles Surfbrett mit Segel und Shooter für spannende Ninja-Duelle. Die Spielgefährten werden von den Spielmöglichkeiten begeistert sein
+- LEGO NINJAGO Dschungeldrache (71746): Mit dem beweglichen Drachen aus diesem Spielset können Kinder spannende Szenen aus der TV-Serie nachstellen oder sich eigene Abenteuer ausdenken
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08G46PN5C/?tag=tolees0ca-21)
