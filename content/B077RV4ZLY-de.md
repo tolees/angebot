@@ -28,10 +28,10 @@ Es gibt ein [Western Digital 6TB Elements Desktop externe Festplatte USB3.0 -WDB
 
 ℹ️:
 
-- Kompatibel mit USB 3.0 und USB 2.0: Dieses Laufwerk ist kompatibel mit den neuesten USB 3.0-Geräten, aber auch abwärtskompatibel mit USB 2.0.
-- Hohe Kapazität in kompaktem Design: Die kompakte WD Elements mit bis zu 6 TB Speicherplatz ist der ideale Zusatzspeicher für Fotos, Musik, Videos und alle sonstigen Dateien.
-- Steigern Sie die Leistung Ihres PCs: Wenn die interne Festplatte an ihre Kapazitätsgrenzen stößt, wird der PC immer langsamer. Verlagern Sie Dateien auf den externen Desktop-Speicher WD Elements und bringen Sie Ihren Computer wieder auf Trab.
 - WD-Qualität innen und außen: Unsere Festplatten erfüllen die höchsten Anforderungen hinsichtlich Langlebigkeit, Stoßfestigkeit und langfristiger Zuverlässigkeit. Die Festplatte ist mit einem robusten Gehäuse geschützt, welches eine perfekte Kombination von Stil und Schutz bietet.
+- Hohe Kapazität in kompaktem Design: Die kompakte WD Elements mit bis zu 6 TB Speicherplatz ist der ideale Zusatzspeicher für Fotos, Musik, Videos und alle sonstigen Dateien.
 - Lieferumfang: WD Elements 6 TB, externe Festplatte schwarz, USB-Kabel Netzteil Schnellinstallationsanleitung.
+- Steigern Sie die Leistung Ihres PCs: Wenn die interne Festplatte an ihre Kapazitätsgrenzen stößt, wird der PC immer langsamer. Verlagern Sie Dateien auf den externen Desktop-Speicher WD Elements und bringen Sie Ihren Computer wieder auf Trab.
+- Kompatibel mit USB 3.0 und USB 2.0: Dieses Laufwerk ist kompatibel mit den neuesten USB 3.0-Geräten, aber auch abwärtskompatibel mit USB 2.0.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B077RV4ZLY/?tag=tolees0ca-21)
