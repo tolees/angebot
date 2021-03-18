@@ -28,10 +28,10 @@ Sie können [Potensic Mini Drohne für Kinder und Anfänger mit 3 Akkus  RC Quad
 
 ℹ️:
 
-- 【Verlieren Sie nie die Richtung】: Kopflos Modus ist für Anfänger gedacht, und für Benutzer, die die Drohen bei Tageslicht fliegen, in großer Entfernung oder wenn es schwierig ist um die Ausrichtung der Drohne zu identifizieren.
 - 【Mehr Spaß und lange Zeit】:Die Drohne mit 3 abnehmbaren Batterien bieten die aufregenden Flugerlebnisse für die Amateure und fortgeschrittene Piloten.
-- 【Flughöhe halten】:Der Höhenhaltemodus ermöglicht der Drohne, eine konsistente Höhe zu halten, während Pitch und Gieren gesteuert werden können normalerweise. Dieser Modus erleichtert Anfängern die Steuerung der Drohne.
 - 【Geschwindigkeitseinstellung】:Die Mini-Drohne verfügt über drei Geschwindigkeiten. Sie können die Geschwindigkeit anpassen, um Ihre Betriebskenntnisse zu erfüllen, und die Drohne mit Ihren Kindern oder Freunden spielen.
+- 【Flughöhe halten】:Der Höhenhaltemodus ermöglicht der Drohne, eine konsistente Höhe zu halten, während Pitch und Gieren gesteuert werden können normalerweise. Dieser Modus erleichtert Anfängern die Steuerung der Drohne.
 - 【Mini Drohne】: Der kleine Quadrocopter ist durch die leichte Bedienung perfekt für Anfänger, Fortgeschrittene und Profis geeignet.Diese Minidrohne ist leicht zu tragen. Sie können so überall fliegen, wo Sie möchten,obwohl indoor ist.
+- 【Verlieren Sie nie die Richtung】: Kopflos Modus ist für Anfänger gedacht, und für Benutzer, die die Drohen bei Tageslicht fliegen, in großer Entfernung oder wenn es schwierig ist um die Ausrichtung der Drohne zu identifizieren.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B077N3CXZY/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [Sunarrive Tetris und Hexagon Holzpuzzle für Kinder - Denkspiele - 
 
 ℹ️:
 
-- Dieses Lernspiel fördert feinmotorische Fähigkeiten und regt die Fantasie an. Zudem trainiert es die Farb- und Formerkennung sowie Problemlösungsfähigkeiten der Kinder
-- Hergestellt aus gesundem Lindenholz mit hochwertiger und glatter Oberfläche. Die einzelnen Teile sind von der Größe perfekt für die kleinen Hände
 - Super Denkspiel sowohl für die Kinder als auch für Erwachsene und zum Mitwachsen geeignet!
-- 2-in-1 Holz-Puzzlespiel : Tetris und Hexagon puzzle. Kommt mit einer Anleitung
+- Dieses Lernspiel fördert feinmotorische Fähigkeiten und regt die Fantasie an. Zudem trainiert es die Farb- und Formerkennung sowie Problemlösungsfähigkeiten der Kinder
 - Altersempfehlung: ab 3 Jahre
+- 2-in-1 Holz-Puzzlespiel : Tetris und Hexagon puzzle. Kommt mit einer Anleitung
+- Hergestellt aus gesundem Lindenholz mit hochwertiger und glatter Oberfläche. Die einzelnen Teile sind von der Größe perfekt für die kleinen Hände
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08GJR1M18/?tag=tolees0ca-21)

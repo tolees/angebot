@@ -28,8 +28,8 @@ Es gibt ein [Funko 46994 POP Patronus Harry Potter Sammelbares Spielzeug  Mehrfa
 
 ℹ️:
 
-- Schauen Sie sich jetzt die anderen Harry Potter-Figuren von Funko an! Sammeln Sie alle!
 - Von Harry Potter, Patronus Harry Potter, zur stilisierten POP-Vinyl Figur von Funko!
+- Schauen Sie sich jetzt die anderen Harry Potter-Figuren von Funko an! Sammeln Sie alle!
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B082LWLTPS/?tag=tolees0ca-21)
