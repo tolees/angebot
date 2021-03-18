@@ -28,10 +28,10 @@ Sie können [Corny Big Erdnuss-Schoko  Müsliriegel  24er Pack  24 x 50g ](https
 
 ℹ️:
 
+- Knackig und schokoladig - für Erdnuss-Fans genau das Richtige
+- Ohne Farbstoffe und Zusatz von Konservierungsstoffen (laut Gesetz)
+- Mit Hafer-, Weizen- und Gerstenflocken
 - Mit wertvollem Getreide, mit Bienenhonig verfeinert und mit UTZ-zertifiziertem Kakao
 - Mit kernigen Erdnüssen
-- Knackig und schokoladig - für Erdnuss-Fans genau das Richtige
-- Mit Hafer-, Weizen- und Gerstenflocken
-- Ohne Farbstoffe und Zusatz von Konservierungsstoffen (laut Gesetz)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B003HCXXPM/?tag=tolees0ca-21)
