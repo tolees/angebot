@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085XZ6KNK-de Dittzz Technic Avtoros Shaman 8x8 Off-Roader Modell 2.4Ghz...'
 sku: 'B085XZ6KNK-de'
-tags: [ '355357031','9373082031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Elektronik & Foto','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Herren','Herren-Schnürhalbschuhe','Herrenschuhe','Kfz-Handyladegeräte','Koffer, Rucksäcke & Taschen','Kofferorganizer','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Reise-Zubehör','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Ski-Bekleidung','Ski-Bekleidung für Herren','Ski-Hosen für Herren','Skifahren','Spielzeug','Sport','Sport & Freizeit','Sportausrüstung & -bekleidung','Wintersport','Zubehör', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
 actualPrice: 207.99 EUR
 currency: EUR
 price: 207.99

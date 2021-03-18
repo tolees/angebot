@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VYV36S6-de SAMSUNG Galaxy Note 10+ Smartphone Bundle 17.2cm 6.8 Zoll...'
 sku: 'B07VYV36S6-de'
-tags: [ '355357031','9373082031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Elektronik & Foto','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Herren','Herren-Schnürhalbschuhe','Herrenschuhe','Kfz-Handyladegeräte','Koffer, Rucksäcke & Taschen','Kofferorganizer','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Reise-Zubehör','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Ski-Bekleidung','Ski-Bekleidung für Herren','Ski-Hosen für Herren','Skifahren','Spielzeug','Sport','Sport & Freizeit','Sportausrüstung & -bekleidung','Wintersport','Zubehör', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
 actualPrice: 755.46 EUR
 currency: EUR
 price: 755.46

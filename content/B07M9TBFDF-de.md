@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M9TBFDF-de Converse Cross Body 2 10008299-A02 Sporttasche 22 cm 4 L Red'
 sku: 'B07M9TBFDF-de'
-tags: [ '355357031','9373082031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Elektronik & Foto','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Herren','Herren-Schnürhalbschuhe','Herrenschuhe','Kfz-Handyladegeräte','Koffer, Rucksäcke & Taschen','Kofferorganizer','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Reise-Zubehör','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Ski-Bekleidung','Ski-Bekleidung für Herren','Ski-Hosen für Herren','Skifahren','Spielzeug','Sport','Sport & Freizeit','Sportausrüstung & -bekleidung','Wintersport','Zubehör', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
 actualPrice: 18.85 EUR
 currency: EUR
 price: 18.85

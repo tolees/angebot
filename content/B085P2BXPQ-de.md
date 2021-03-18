@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085P2BXPQ-de LG UltraHD 4K LED HDR 3940 x 2160 Radeon FreeSync HDMI...'
 sku: 'B085P2BXPQ-de'
-tags: [ '355357031','9373082031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Elektronik & Foto','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Herren','Herren-Schnürhalbschuhe','Herrenschuhe','Kfz-Handyladegeräte','Koffer, Rucksäcke & Taschen','Kofferorganizer','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Reise-Zubehör','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Ski-Bekleidung','Ski-Bekleidung für Herren','Ski-Hosen für Herren','Skifahren','Spielzeug','Sport','Sport & Freizeit','Sportausrüstung & -bekleidung','Wintersport','Zubehör', ]
+tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
 actualPrice: 349.9 EUR
 currency: EUR
 price: 349.9
