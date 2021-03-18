@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7TM73V-de LEGO 60246 City Polizeistation Bauset mit 2 Trucks Leucht-...'
 sku: 'B07W7TM73V-de'
-tags: [ '249195031','Bauspielzeug & Konstruktionsspielzeug','Computer','Computer & Zubehör','Dekoartikel','Interne Komponenten & Hardware','Komponenten & Ersatzteile','Küche, Haushalt & Wohnen','Netzwerk','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Spielzeug','Wohnaccessoires & Deko','lego', ]
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99
@@ -28,10 +28,10 @@ Sie können [LEGO 60246 City Polizeistation  Bauset mit 2 Trucks  Leucht- und So
 
 ℹ️:
 
+- Die digitale Anleitung Instructions PLUS über die kostenlose LEGO Life-App für Smart-Geräte hilft Kindern, das Modell heranzuzoomen, zu drehen und anzuzeigen, während sie bauen
+- Zum Zubehör des Spielsets gehören Handschellen, ein Skateboard, eine Taschenlampe, Dynamitstangen zum Sprengen von Gittern und eine Tischtennisplatte in der Station
 - Enthält eine 4-teilige, zwei Stockwerke hohe Polizeidienststelle mit Explosionsfunktion (für Ausbrüche), zwei Trucks, ein Motorrad und ein Drohnenspielzeug
 - Beinhaltet einen Suchscheinwerfer aus Leucht-Steinen, funktionierende Dachbeleuchtung und Sirene sowie eine hebelaktivierte Ausbruchs-Funktion, um dem Verfolgungsjagdspiel noch mehr Geschmack hinzuzufügen
 - Enthält 7 Minifiguren: Duke DeTain, den Polizeichef Wheeler, Daisy Kaboom, zwei Polizisten, zwei Ganoven sowie Bulldoggen- und Polizeihund-Figuren
-- Die digitale Anleitung Instructions PLUS über die kostenlose LEGO Life-App für Smart-Geräte hilft Kindern, das Modell heranzuzoomen, zu drehen und anzuzeigen, während sie bauen
-- Zum Zubehör des Spielsets gehören Handschellen, ein Skateboard, eine Taschenlampe, Dynamitstangen zum Sprengen von Gittern und eine Tischtennisplatte in der Station
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W7TM73V/?tag=tolees0ca-21)

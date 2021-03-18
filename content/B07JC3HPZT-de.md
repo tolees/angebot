@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'LEGO Duplo 10894 Disney Pixar Toy-Story- mit 28.68 % Rabatt'
-date: 2020-09-29 12:11:18
+title: 'DUPLO Toy Story TM - LEGO 10894 DUPLO To mit 25.01 % Rabatt'
+date: 2021-03-18 09:56:28
 image: 'https://m.media-amazon.com/images/I/51QImcD+fmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07JC3HPZT-de LEGO Duplo 10894 Disney Pixar Toy-Story-Zug Bausteine'
+slug: 'B07JC3HPZT-de DUPLO Toy Story TM - LEGO 10894 DUPLO Toy-Story-Zug...'
 sku: 'B07JC3HPZT-de'
-tags: [ '249195031','63857031','Activewear für Herren','Amazon-Geräte','Amazon-Geräte & Zubehör','App- & ferngesteuerte Drohnen','App- & ferngesteuerte Luftfahrzeug','Armbanduhren für Herren','Audiokabel','Basteln & Malen','Bastelsets für Kinder','Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bekleidung','Beleuchtung','Brettspiele','Chibi Figuren','Computer','Computer & Zubehör','Controller für Nintendo Switch','Damen-BHs','Damen-Geldbörsen','Damen-Jacken','Damen-Jeanshosen','Damen-Kleider','Damen-Sneaker','Damenbekleidung','Damenschuhe','Datenspeicher','Dekoartikel','Dessous, Nacht- & Lounge-Wäsche für Damen','Dinosaurier & prähistorische Kreaturen für Kinder','Drogerie & Körperpflege','Drucker & Zubehör','Echo Smart Speaker & Displays','Einbauleuchten','Elektronik & Foto','Elektronische Spiele für Kinder','Elektrorasierer','Elektrorasierer für Herren','Ersatzteile für Staubsauger','Externe Datenspeicher','Externe Festplatten','Externe PC-Komponenten','Externe SSD','Fahrzeug Spielsets für Kinder','Ferngesteuerte Fahrzeugmodelle & Zubehör','Fernseher','Fernseher & Heimkino','Festnetztelefone, VoIP & Zubehör','Festplatten','Folienrasierer für Herren','Frauen','Freizeitkleider für Damen','Games','Garten','Gartenmöbel & Zubehör','Geldbörsen, Ausweis- & Kartenhüllen','Geldbörsen, Ausweis- & Kartenhüllen für Damen','Gewerbe, Industrie & Wissenschaft','HDMI-Kabel','Handys & Smartphones','Handys & Zubehör','Haushaltsreiniger & Staubsauger','Heimkino, TV & Video Zubehör','Herren-Sneaker','Herrenbekleidung','Herrenschuhe','Herrenuhren','Hifi & Audio','Hifi-Lautsprecher','Hobbys','Hüllen für Tablets','In-Ear Ohrhörer','Innenbeleuchtung','Interne Komponenten & Hardware','Interne SSD','Interner Speicher','Jacken, Mäntel & Westen für Damen','KVM-Switches','Kabel','Kabel & Zubehör','Kinderspielfiguren & -fahrzeuge','Klassische BHs für Damen','Koffer, Rucksäcke & Taschen','Komponenten & Ersatzteile','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','Lenkräder für Mac','Lightning-Kabel','Mac','Media-Streaming','Media-Streaming-Clients','Modems','Motorfahrzeugspielsets für Kinder','Netzwerk','Netzwerk-Switches','Netzwerkgeräte','Netzwerkkarten','Nintendo Switch','Papierbastelsets für Kinder','PlayStation 4','PowerLAN-Adapter','Produkte','Puppen & Zubehör','Puppensets','Rasur & Enthaarung','Regular Stores','Repeater','Router','Sammelfiguren','Sammelfiguren & Requisiten','Sammelkarten & Zubehör','Sammelsticker','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Shops','Sicherheitstechnik','Simlockfreie Handys','Smart Displays','Smart Speaker','Smartwatches','Sneaker & Sportschuhe für Damen','Sneaker & Sportschuhe für Herren','Spiele','Spiele für Nintendo Switch','Spiele für PlayStation 4','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeugfiguren & Spielwelten','Sportsocken für Herren','T-Shirts für Damen','T-Shirts für Herren','TV-Halterungen & Ständer','TV-Wand- & Deckenhalterungen','Tablet PCs','Taschen & Hüllen für Tablets','Telefonzubehör','Toner','Tops, T-Shirts & Blusen für Damen','Tops, T-Shirts & Hemden für Herren','Tragbare Bluetooth-Lautsprecher','Tragbare Geräte','Tragbare Lautsprecher & Audio-Docks','Uhren','Unterwäsche & Dessous für Damen','Videoüberwachungstechnik','Wackelkopffiguren','Wohnaccessoires & Deko','Zubehör','Zubehör für Drucker','Zubehör für Mac','Zubehör für Nintendo Switch','Zubehör für Staubsauger','Zubehör für Tablets','Zubehör für tragbare Geräte','Überwachungskameras','Überwachungstechnik', ]
-actualPrice: 13.9 EUR
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','duplo toy story tm', ]
+actualPrice: 14.99 EUR
 currency: EUR
-price: 13.9
-comparePrice: 19.49 EUR
-prodname: 'LEGO Duplo 10894 Disney Pixar Toy-Story-Zug  Bausteine'
+price: 14.99
+comparePrice: 19.99 EUR
+prodname: 'DUPLO Toy Story TM - LEGO 10894 DUPLO Toy-Story-Zug  Bausatz mit Buzz und Woody Figuren für Kleinkinder'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'DUPLO Toy Story TM'
 buyurl: 'https://www.amazon.de/dp/B07JC3HPZT/?tag=tolees0ca-21'
-descuento: '28.68'
-average: '14.233749999999999'
+descuento: '25.01'
+average: '14.385'
 ---
 
-Sie können [LEGO Duplo 10894 Disney Pixar Toy-Story-Zug  Bausteine](https://www.amazon.de/dp/B07JC3HPZT/?tag=tolees0ca-21) mit Preis 13.9 EUR (original: 19.49 EUR) 28.68 % Rabatt hier:
+Sie können [DUPLO Toy Story TM - LEGO 10894 DUPLO Toy-Story-Zug  Bausatz mit Buzz und Woody Figuren für Kleinkinder](https://www.amazon.de/dp/B07JC3HPZT/?tag=tolees0ca-21) mit Preis 14.99 EUR (original: 19.99 EUR) 25.01 % Rabatt hier:
 
-[![LEGO Duplo 10894 Disney Pixar Toy-Story-](https://m.media-amazon.com/images/I/51QImcD+fmL._SL400_.jpg)](https://www.amazon.de/dp/B07JC3HPZT/?tag=tolees0ca-21)
+[![DUPLO Toy Story TM - LEGO 10894 DUPLO To](https://m.media-amazon.com/images/I/51QImcD+fmL._SL400_.jpg)](https://www.amazon.de/dp/B07JC3HPZT/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Das Set enthält zwei LEGO DUPLO Figuren: Woody und Buzz Lightyear mit abnehmbaren Flügeln
+- Kleine Kinder werden es lieben, mit Woody auf dem Zug hin- und herzulaufen und Buzz Lightyear die Flügel anzulegen, damit er Woody zur Hilfe fliegen kann
+- Pixar Toy-Story-Zug lassen sich grundlegende Baufertigkeiten spielerisch erlernen
+- Dieses Bauset enthält einen LEGO DUPLO Dampfzug mit zu öffnenden Dachelementen und einen freistehenden Kaktus. Das Zubehör umfasst einen Banktresor, ein Lasso und Steine mit Geldmünzen
+- Fördere die Sprachentwicklung sowie soziale und emotionale Fähigkeiten deines Kindes durch Rollenspiele mit den Disney
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07JC3HPZT/?tag=tolees0ca-21)

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NHDALJC-de devolo dLAN 1200+ WiFi ac Powerline 1200 Mbit/s WLAN ac 2...'
 sku: 'B00NHDALJC-de'
-tags: [ '249195031','Bauspielzeug & Konstruktionsspielzeug','Computer','Computer & Zubehör','Dekoartikel','Interne Komponenten & Hardware','Komponenten & Ersatzteile','Küche, Haushalt & Wohnen','Netzwerk','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Router','Spielzeug','Wohnaccessoires & Deko','devolo', ]
+tags: [ 'PowerLAN-Adapter','devolo', ]
 actualPrice: 102.49 EUR
 currency: EUR
 price: 102.49
@@ -28,10 +28,10 @@ Es gibt ein [devolo dLAN 1200+ WiFi ac Powerline  1200 Mbit/s WLAN ac  2 4 und 5
 
 ℹ️:
 
-- Lieferumfang:- 1x dLAN 1200+ WiFi ac mit Steckdose, 2 X Gigabit LAN
+- Der Ergänzungsadapter erweitert Ihr vorhandenes Heimnetzwerk (kompatibel zu den dLAN 200/500/550/650/1200 Produktserien)
 - Mit zwei integrierten Fast-Ethernet-LAN Anschlüssen für Ihre internetfähigen Geräte (Smart-TV, Spielekonsole, PC, etc.)
 - Mit der integrierten Steckdose inklusive Kindersicherung geht kein Stromanschluss im Raum verloren
 - WLAN aus jeder Steckdose mit ac-Geschwindigkeit von bis zu 1200 Mbit/s für Smartphone, Tablet, Laptop, etc.
-- Der Ergänzungsadapter erweitert Ihr vorhandenes Heimnetzwerk (kompatibel zu den dLAN 200/500/550/650/1200 Produktserien)
+- Lieferumfang:- 1x dLAN 1200+ WiFi ac mit Steckdose, 2 X Gigabit LAN
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00NHDALJC/?tag=tolees0ca-21)

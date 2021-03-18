@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C2ICYPC-de TP-Link TL-WPA4220 KIT AV600 WLAN N300 WiFi Powerline max....'
 sku: 'B00C2ICYPC-de'
-tags: [ '249195031','Computer','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','Netzwerk','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','tp-link', ]
+tags: [ 'Netzwerk','PowerLAN-Adapter','tp-link', ]
 actualPrice: 50.95 EUR
 currency: EUR
 price: 50.95
@@ -28,9 +28,9 @@ Es gibt ein [TP-Link TL-WPA4220 KIT AV600 WLAN N300 WiFi Powerline  max. 600Mbit
 
 ℹ️:
 
-- Lieferumfang: Powerline-Ethernet-Adapter TL-WPA4220 und TL-PA4010, 2m-RJ45-Ethernetkabel, CD, Schnellinstallationsanleitung
+- Powerline-Geschwindigkeit bis zu 600 Mbit/s über bestehende Stromleitungen nach HomePlug AV, ideal für unterbrechungsfreies HD-Videostreaming und Online-Gaming WLAN-Geschwindigkeit bis zu 300 Mbit/s zu Erweiterung der bestehenden WLAN-Abdeckung
 - Reichweitenvergrößerung auf Tastendruck: mit WiFi-Clone-Taste werden die WLAN-Einstellungen des Routers kopiert – für ein nahtlos benutzbares, großes WLAN im ganzen Haus
 - Mehrere LAN-Ports zum Anschluss von z.B. Spielekonsolen, Computer und Smart TVs
-- Powerline-Geschwindigkeit bis zu 600 Mbit/s über bestehende Stromleitungen nach HomePlug AV, ideal für unterbrechungsfreies HD-Videostreaming und Online-Gaming WLAN-Geschwindigkeit bis zu 300 Mbit/s zu Erweiterung der bestehenden WLAN-Abdeckung
+- Lieferumfang: Powerline-Ethernet-Adapter TL-WPA4220 und TL-PA4010, 2m-RJ45-Ethernetkabel, CD, Schnellinstallationsanleitung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00C2ICYPC/?tag=tolees0ca-21)

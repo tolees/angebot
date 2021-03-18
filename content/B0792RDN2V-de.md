@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792RDN2V-de LEGO 75954 Harry Potter Die große Halle von Hogwarts...'
 sku: 'B0792RDN2V-de'
-tags: [ '249195031','Bauspielzeug & Konstruktionsspielzeug','Computer','Computer & Zubehör','Dekoartikel','Interne Komponenten & Hardware','Komponenten & Ersatzteile','Küche, Haushalt & Wohnen','Netzwerk','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Spielzeug','Wohnaccessoires & Deko','lego', ]
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','lego', ]
 actualPrice: 77.9 EUR
 currency: EUR
 price: 77.9
@@ -28,8 +28,8 @@ Es gibt ein [LEGO 75954 Harry Potter Die große Halle von Hogwarts  Geschenkside
 
 ℹ️:
 
-- Drehe Quirinus Quirrells Kopf und verwandle ihn so in Lord Voldemort!
 - Die große Halle ist mit Tischen, Lehrertisch mit Stühlen, Kamin, 2 doppelseitigen Hausbannern und 4 „schwebenden“ Kerzen, Lebensmitteln (Truthahnkeule, Eiscreme und einem kleinen Kuchen), Besen, einem Pokal und einem Teekessel ausgestattet.
+- Drehe Quirinus Quirrells Kopf und verwandle ihn so in Lord Voldemort!
 - Die Zubehörteile beinhalten 7 Zauberstäbe, 3 Bechergläser, einen Schirm, eine Laterne, einen Besen, den Sprechenden Hut, Kessel, Zaubertränke, Kerzen, 2 Hexenbesen, Lebensmittel, einen Pokal, einen Teekessel, Truhe und eine Spinne.
 - Der vierstöckige Turm verfügt im Erdgeschoss über eine bewegliche Wendeltreppe, ein Zaubertränke-Klassenzimmer, ein Schatzzimmer mit Truhe und ein Turmzimmer mit dem Spiegel Nerhegeb mit austauschbaren Bildern und Schlafplatz für Fawkes.
 - Die große Halle von Hogwarts ist über 37 cm hoch, 30 cm breit und 18 cm tief.
